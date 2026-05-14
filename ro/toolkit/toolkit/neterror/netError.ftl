@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } nu se poate conecta la serveru
 fp-neterror-net-timeout-intro = Serverului de la <strong>{ $hostname }</strong> îi ia prea mult ca să răspundă.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> a returnat o eroare.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Serverul de la <strong>{ $hostname }</strong> a returnat o eroare: { $responsestatus } { $responsestatustext }

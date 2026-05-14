@@ -60,7 +60,6 @@ unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-p
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">הסתרת המיקום שלך</a> בזמן גלישה ב־{ -brand-product-name }.
 unauthenticated-private-location-message = מסייע <a data-l10n-name="learn-more-vpn">לשמור על פרטיות המיקום שלך</a> ב־{ -brand-product-name }.
 unauthenticated-choose-location-message = ניתן לבחור מבין 5 מיקומים או לתת ל־{ -brand-product-name } לבחור את המהיר ביותר.
-unauthenticated-hide-location-message-2 = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = קבלת { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = קבלת { -mozilla-vpn-brand-name
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = ה־VPN הושהה
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה תתאפס בחודש הבא.
 upgrade-vpn-title = קבלת הגנה נוספת מעבר לדפדפן
 upgrade-vpn-description = ניתן לבחור את מיקום ה־VPN שלך, להשתמש ב־VPN עבור כל היישומים שלך ועד 5 מכשירים, ולהישאר מאובטח בכל רשת - בבית או ב־Wi-Fi ציבורי.
 upgrade-vpn-button = לנסות את { -mozilla-vpn-brand-name }

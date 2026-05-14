@@ -60,7 +60,6 @@ unauthenticated-vpn-title = მოსინჯეთ ჩაშენებულ
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">დამალეთ თქვენი მდებარეობა</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
 unauthenticated-private-location-message = გეხმარებათ <a data-l10n-name="learn-more-vpn">დატოვოთ თქვენი ადგილსამყოფელი პირადი</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
 unauthenticated-choose-location-message = აირჩიეთ 5 მდებარეობიდან ან { -brand-product-name } თავად შეგირჩევთ უსწრაფესს.
-unauthenticated-hide-location-message-2 = მდებარეობის გაუმჟღავნებლად გამოიყენეთ { -brand-product-name } გვერდების მონახულებისთვის.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = გამოიყენეთ { $maxUsage } ᲒᲑ მოცულობით უფასო VPN ყოველთვიურად.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = გამოიყენეთ { -
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN შეჩერებულია
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. წვდომა აღდგება შემდეგი თვიდან.
 upgrade-vpn-title = მიიღეთ დამატებითი დაცვა ბრაუზერს მიღმაც
 upgrade-vpn-description = თავადვე შეარჩიეთ სასურველი VPN-მდებარეობა, გამოიყენეთ VPN ყველა პროგრამისთვის ხუთ მოწყობილობამდე და იყავით დაცული ყველგან — სახლისა თუ საჯარო WiFi-ქსელში.
 upgrade-vpn-button = გამოცადეთ { -mozilla-vpn-brand-name }

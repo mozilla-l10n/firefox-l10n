@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skrytie polohy</a> počas prehliadania vo { -brand-product-name(case: "loc") }.
 unauthenticated-private-location-message = Pri prehliadaní vo { -brand-product-name(case: "loc") } pomáha <a data-l10n-name="learn-more-vpn">udržiavať vašu polohu v súkromí</a>.
 unauthenticated-choose-location-message = Vyberte si z 5 lokalít alebo nechajte { -brand-product-name(case: "acc") } vybrať tú najrýchlejšiu.
-unauthenticated-hide-location-message-2 = Skryte svoju polohu počas prehliadania v { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Získajte { -mozilla-vpn-brand-nam
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN pozastavená
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa obnoví budúci mesiac.
 upgrade-vpn-title = Získajte dodatočnú ochranu nad rámec prehliadača
 upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi‑Fi sieti.
 upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }

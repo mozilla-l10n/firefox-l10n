@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Испробајте { -brand-product-name } угр�
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Сакријте своју локацију</a> током прегледања у { -brand-product-name }-у.
 unauthenticated-private-location-message = Помаже <a data-l10n-name="learn-more-vpn">да ваша локација остане приватна</a> у { -brand-product-name }-у.
 unauthenticated-choose-location-message = Изаберите једно од 5 места или пустите да { -brand-product-name } изабере најбрже.
-unauthenticated-hide-location-message-2 = Сакријте своју локацију док прегледате у { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Добијте { $maxUsage } GB бесплатних ВПН података сваког месеца.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Набавите { -mozilla-vpn-br
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = ВПН је паузиран
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Искористили сте свих { $maxUsage } GB својих ВПН података. Приступ ће бити обновљен следећег месеца.
 upgrade-vpn-title = Набавите додатну заштиту изван прегледача
 upgrade-vpn-description = Изаберите своју ВПН локацију, користите ВПН за све своје апликације и до 5 уређаја и останите безбедни на било којој мрежи - код куће или на јавној бежичној мрежи.
 upgrade-vpn-button = Покушајте { -mozilla-vpn-brand-name }

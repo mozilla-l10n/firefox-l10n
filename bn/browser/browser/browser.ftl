@@ -768,12 +768,8 @@ urlbar-searchmode-actions =
     .label = অ্যাকশন
 urlbar-searchmode-exit-button =
     .tooltiptext = বন্ধ
-urlbar-searchmode-default =
-    .tooltiptext = ডিফল্ট সার্চ ইঞ্জিন
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = অনুসন্ধান সেটিংস
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = নতুন
 urlbar-searchmode-button-no-engine =
     .label = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
     .tooltiptext = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন

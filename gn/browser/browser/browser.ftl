@@ -961,23 +961,11 @@ urlbar-searchmode-actions =
     .label = Ñemongu’e
 urlbar-searchmode-exit-button =
     .tooltiptext = Mboty
-urlbar-searchmode-default =
-    .tooltiptext = Hekaha mongu’eha ypygua
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Ko’ág̃a eheka hendive:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Eheka Kóvandi:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ko’ág̃a eheka hendive:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Jehekaha ñemboheko
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Pyahu
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -987,10 +975,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
     .tooltiptext = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Ñe’ẽñemi jehekaha oñemboguéma
-    .tooltiptext = Ñe’ẽñemi jehekaha oñemboguéma
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

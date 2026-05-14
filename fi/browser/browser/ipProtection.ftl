@@ -58,7 +58,6 @@ unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettu
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
 unauthenticated-private-location-message = Auttaa <a data-l10n-name="learn-more-vpn">pitämään sijaintisi yksityisenä</a> { -brand-product-name }issa.
 unauthenticated-choose-location-message = Valitse viidestä sijainnista tai anna { -brand-product-name }in valita nopein.
-unauthenticated-hide-location-message-2 = Piilota sijaintisi selatessasi { -brand-product-name }illa.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
@@ -109,10 +108,6 @@ ipprotection-locations-subview-promo-button = Hanki { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN keskeytetty
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Olet käyttänyt kaiken VPN-datasi, { $maxUsage } Gt. Käyttöoikeus nollautuu ensi kuussa.
 upgrade-vpn-title = Hanki lisäsuojaa selaimen ulkopuolelle
 upgrade-vpn-description = Valitse VPN-sijaintisi, käytä VPN:ää kaikissa sovelluksissasi, jopa viidellä laitteellasi, ja pysy turvassa missä tahansa verkossa – kotona tai julkisessa Wi-Fi-verkossa.
 upgrade-vpn-button = Kokeile { -mozilla-vpn-brand-name }:ää

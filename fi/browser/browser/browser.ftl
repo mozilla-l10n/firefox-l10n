@@ -959,23 +959,11 @@ urlbar-searchmode-actions =
     .label = Toiminnot
 urlbar-searchmode-exit-button =
     .tooltiptext = Sulje
-urlbar-searchmode-default =
-    .tooltiptext = Oletushakukone
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Tällä kertaa käytä hakuun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Hae palvelulla:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Hakuasetukset
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Uusi
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -985,10 +973,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Oikotietä ei ole valittu, valitse oikotie
     .tooltiptext = Oikotietä ei ole valittu, valitse oikotie
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Avainsanahaku on poistettu käytöstä
-    .tooltiptext = Avainsanahaku on poistettu käytöstä
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

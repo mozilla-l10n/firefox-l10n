@@ -193,9 +193,6 @@ fp-neterror-offline-intro = O { -brand-short-name } não consegue estabelecer li
 fp-neterror-net-timeout-intro = O servidor em <strong>{ $hostname }</strong> está a demorar muito a responder.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> devolveu um erro.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = O servidor em <strong>{ $hostname }</strong> devolveu o seguinte erro: { $responsestatus } { $responsestatustext }

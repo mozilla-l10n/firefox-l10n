@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = Sa còpia tua de “{ $profilename }” est pronta pro èssere personalizada
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Sa còpia tua de { $profilename } est pronta pro èssere personalizada
 copied-profile-page-header-description = Amus copiadu sa cunfiguratzione e is datos tuos in unu profilu nou. Sèbera unu nòmine, seletziona un’istile e personaliza·ddu comente boles.
 restored-profile-page-header = Personaliza su profilu recuperadu tuo
 restored-profile-page-header-description = Onni profilu mantenet una cronologia de navigatzione e una cunfiguratzione separada dae is àteros profilos. In prus, s’amparu de sa riservadesa de { -brand-short-name } est ativu e artu in manera predefinida.

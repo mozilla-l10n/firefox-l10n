@@ -777,9 +777,6 @@ newtab-promo-card-dismiss-button =
     .title = Нодида гузарондан
     .aria-label = Нодида гузарондан
 
-## Strings introduced by the Nova redesign of the Timer widget
-
-
 ## Sports widget
 
 newtab-sports-widget-skip = Нодида гузарондан
@@ -807,6 +804,3 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ин фазо тибқи қоидаҳои шумо рафтор мекунад
-
-## Strings for the Clock widget
-

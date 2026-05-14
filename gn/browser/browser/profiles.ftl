@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = Ne ñongatuve "{ $profilename }" oĩma emboava hag̃uáicha
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Ne ñongatu { $profilename }-pegua oĩma embohéra hag̃ua
 copied-profile-page-header-description = Rombohasa ne mba’ekuaarã ha ñemoĩporã mbaéte pyahúpe. Ko’ág̃a embohéra, eiporavo peteĩchagua ha emboavaite.
 restored-profile-page-header = Emboava mba’ete myatyrõmbyre
 restored-profile-page-header-description = Peteĩteĩva mba’ete oreko hembiasakue ha ñemboheko ha’eñóva oĩ’ỹva ambue mba’ete ndive. Avei imbaretéva tekoñemi ñemo’ã { -brand-short-name } hendyhína ijypykue rupi.

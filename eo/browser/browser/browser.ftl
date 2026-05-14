@@ -958,23 +958,11 @@ urlbar-searchmode-actions =
     .label = Agoj
 urlbar-searchmode-exit-button =
     .tooltiptext = Fermi
-urlbar-searchmode-default =
-    .tooltiptext = Norma serĉilo
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Ĉi foje serĉi per:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Serĉi per:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ĉi foje serĉi per:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Agordoj de serĉo
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nova
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -984,10 +972,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Neniu ŝparvojo elektita, elektu ŝparvojon
     .tooltiptext = Neniu ŝparvojo elektita, elektu ŝparvojon
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = La serĉo laŭ ŝlosilvorto estas malaktiva
-    .tooltiptext = La serĉo laŭ ŝlosilvorto estas malaktiva
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

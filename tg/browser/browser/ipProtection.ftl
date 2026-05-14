@@ -78,7 +78,6 @@ ipprotecion-locations-subview-recommended-label = Тавсияшуда
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = «VPN» таваққуф шуд
 upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
 ipprotection-connection-status-paused-title-1 = «VPN» таваққуф шуд
 

@@ -60,7 +60,6 @@ unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
 unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-private-location-message = 使用 { -brand-product-name } 上網時可幫助<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-choose-location-message = 從 5 個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
-unauthenticated-hide-location-message-2 = 使用 { -brand-product-name } 上網時，隱藏您的所在位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月獲得 { $maxUsage } GB 免費 VPN 流量。
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = 獲得 { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = 已暫停 VPN
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
 upgrade-vpn-title = 替瀏覽器以外的連線也加上一道保護
 upgrade-vpn-description = 挑選連線位置，使用 VPN 幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或透過公共 Wi-Fi，任何網路環境都能使用。
 upgrade-vpn-button = 請試用 { -mozilla-vpn-brand-name }

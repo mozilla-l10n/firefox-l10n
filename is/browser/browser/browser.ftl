@@ -927,23 +927,11 @@ urlbar-searchmode-actions =
     .label = Aðgerðir
 urlbar-searchmode-exit-button =
     .tooltiptext = Loka
-urlbar-searchmode-default =
-    .tooltiptext = Sjálfgefin leitarvél
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Að þessu sinni leita með:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Leita með:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Að þessu sinni leita með:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Leitarstillingar
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nýtt
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

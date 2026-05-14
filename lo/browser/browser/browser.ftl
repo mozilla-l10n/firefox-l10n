@@ -736,19 +736,11 @@ urlbar-searchmode-actions =
     .label = ການກະທຳ
 urlbar-searchmode-exit-button =
     .tooltiptext = ປິດ
-urlbar-searchmode-default =
-    .tooltiptext = ເຄື່ອງມືການຄົ້ນຫາພື້ນຖານ
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ການຕັ້ງຄ່າການຄົ້ນຫາ
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = ໃຫມ່
 urlbar-searchmode-dropmarker2 =
     .title = ເລືອກເຄື່ອງມືການຄົ້ນຫາ
 urlbar-searchmode-bookmarks2 = ບຸກມາກ

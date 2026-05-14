@@ -785,23 +785,11 @@ urlbar-searchmode-actions =
     .label = Oberoù
 urlbar-searchmode-exit-button =
     .tooltiptext = Serriñ
-urlbar-searchmode-default =
-    .tooltiptext = Lusker enklask dre ziouer
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Ar wech-mañ, klask gant:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Klask gant:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arventennoù enklask
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nevez
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

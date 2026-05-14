@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = Din kopia av “{ $profilename }” är redo att anpassas
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Din kopia av { $profilename } är redo att anpassas
 copied-profile-page-header-description = Vi kopierade din data och inställningar till en ny profil. Ge den ett namn, välj ett utseende och gör den till din egen.
 restored-profile-page-header = Anpassa din återställda profil
 restored-profile-page-header-description = Varje profil behåller sin unika webbhistorik och sina inställningar separata från dina andra profiler. Dessutom är { -brand-short-name }:s starka integritetsskydd aktiverat som standard.

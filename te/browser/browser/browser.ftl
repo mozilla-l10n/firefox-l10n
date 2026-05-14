@@ -649,15 +649,9 @@ urlbar-searchmode-exit-button =
     .tooltiptext = మూసివేయి
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = ఈసారి దీనితో వెతుకు:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description = ఈసారి దీనితో వెతుకు:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = వెతుకుడు అమరికలు
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = కొత్తది
 urlbar-searchmode-bookmarks2 = ఇష్టాంశాలు
 urlbar-searchmode-tabs2 = ట్యాబులు
 urlbar-searchmode-history2 = చరిత్ర

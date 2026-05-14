@@ -946,23 +946,11 @@ urlbar-searchmode-actions =
     .label = Амалҳо
 urlbar-searchmode-exit-button =
     .tooltiptext = Пӯшидан
-urlbar-searchmode-default =
-    .tooltiptext = Низоми ҷустуҷӯии пешфарз
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Ин дафъа бо зерин ҷустуҷӯ кунед:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Ҷустуҷӯ тавассути:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Танзимоти ҷустуҷӯ
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Нав
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -972,10 +960,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
     .tooltiptext = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
-    .tooltiptext = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

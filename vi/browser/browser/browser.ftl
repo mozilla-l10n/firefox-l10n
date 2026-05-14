@@ -942,23 +942,11 @@ urlbar-searchmode-actions =
     .label = Hành động
 urlbar-searchmode-exit-button =
     .tooltiptext = Đóng
-urlbar-searchmode-default =
-    .tooltiptext = Công cụ tìm kiếm mặc định
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Lần này, tìm kiếm với:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Tìm kiếm với:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cài đặt tìm kiếm
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Mới
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -968,10 +956,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Không có lối tắt được chọn, hãy chọn một lối tắt
     .tooltiptext = Không có lối tắt được chọn, hãy chọn một lối tắt
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Từ khoá tìm kiếm bị vô hiệu hoá
-    .tooltiptext = Từ khoá tìm kiếm bị vô hiệu hoá
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

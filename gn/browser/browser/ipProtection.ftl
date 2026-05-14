@@ -59,7 +59,6 @@ unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
 unauthenticated-private-location-message = Eipytyvõ <a data-l10n-name="learn-more-vpn">ereko ne rendaite ñemíme</a> { -brand-product-name } ndive.
 unauthenticated-choose-location-message = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
-unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -brand-product-name } ndive.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ereko { $maxUsage } GB VPN mba’ekuaarã reiete jasygua.
@@ -113,10 +112,6 @@ ipprotection-locations-subview-promo-button = Ereko { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN opytáva
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jasýpe.
 upgrade-vpn-title = Erekóta ñemo’ãve kundahára riregua
 upgrade-vpn-description = Eiporavo VPN rendaite, eiporu VPN opaite tembiporu’ípe ha 5 mba’e’oka peve, ha eime tekorosãme oimeraẽva ñandutípe — nde rógape térã Wi-Fi-pe.
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }

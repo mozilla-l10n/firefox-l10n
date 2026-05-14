@@ -955,23 +955,11 @@ urlbar-searchmode-actions =
     .label = Gnìomhan
 urlbar-searchmode-exit-button =
     .tooltiptext = Dùin
-urlbar-searchmode-default =
-    .tooltiptext = An t-einnsean-luirg bunaiteach
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Dèan lorg leis na leanas an turas seo:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Lorg le:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Roghainnean luirg
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Ùr
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -981,10 +969,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
     .tooltiptext = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Tha lorg le briathran-luirg à comas
-    .tooltiptext = Tha lorg le briathran-luirg à comas
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

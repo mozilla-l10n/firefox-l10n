@@ -62,9 +62,6 @@ new-profile-page-input-placeholder =
     .placeholder = Номеро, барои мисол «Корӣ» ё «Шахсӣ», интихоб намоед
 new-profile-page-done-button =
     .label = Ба анҷом расонидани таҳрир
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Нусхаи «{ $profilename }»-и шумо барои танзим омода аст
 copied-profile-page-header-description = Мо маълумот ва танзимоти шуморо ба профили нав нусха бардоштем. Акнун, ба он ном диҳед, намуди зоҳирии онро интихоб кунед ва онро ба ихтиёри худ мутобиқ созед.
 restored-profile-page-learn-more = Маълумоти бештар
 profile-window-title-2 = { -brand-short-name } - Профилеро интихоб намоед

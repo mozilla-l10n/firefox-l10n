@@ -48,7 +48,6 @@ ipprotection-location-selection-callout-title = Berria: aldatu zure kokapena
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ezkutatu zure kokapena</a> { -brand-product-name }(r)ekin nabigatu ahala.
-unauthenticated-hide-location-message-2 = Ezkutatu zure kokapena { -brand-product-name }(r)ekin nabigatu ahala.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilabetero.
@@ -92,10 +91,6 @@ ipprotection-locations-subview-promo-button = Eskuratu { -mozilla-vpn-brand-name
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPNa pausatuta dago
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. Sarbidea datorren hilabetean berrezarriko da.
 upgrade-vpn-title = Lortu babes estra nabigatzaileaz haratago
 upgrade-vpn-description = Aukeratu zure VPN kokapena, erabili VPNa zure aplikazio guztietarako eta 5 gailu arte, eta ibili seguru edozein saretan, bai etxean edo Wi-Fi publikoan.
 upgrade-vpn-button = Probatu { -mozilla-vpn-brand-name }

@@ -193,9 +193,6 @@ fp-neterror-offline-intro = Does dim modd i { -brand-short-name } gysylltu â'r 
 fp-neterror-net-timeout-intro = Mae'r gweinydd yn <strong>{ $hostname }</strong> yn cymryd gormod o amser i ymateb.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = Anfonodd <strong>{ $hostname }</strong> wall yn ôl.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Anfonodd y gweinydd yn <strong>{ $hostname }</strong> wall yn ôl: { $responsestatus } { $responsestatustext }

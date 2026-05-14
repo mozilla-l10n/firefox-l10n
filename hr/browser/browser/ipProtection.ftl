@@ -43,7 +43,6 @@ ipprotection-site-settings-callout-button = Razumijem
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Sakrij svoju lokaciju</a> tijekom pregledavanja u { -brand-product-name(case: "dat") }.
-unauthenticated-hide-location-message-2 = Sakrij svoju lokaciju tijekom pregledavanja u { -brand-product-name(case: "dat") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dobij { $maxUsage } GB besplatnih VPN podataka svaki mjesec.
@@ -75,10 +74,6 @@ ipprotection-button-connecting = Uključivanje …
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN je pauziran
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Iskoristio/la si svih { $maxUsage } GB tvojih VPN podataka. Pristup će se resetirati sljedeći mjesec.
 upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
 
 ## Messages and errors

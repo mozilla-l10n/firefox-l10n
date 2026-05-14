@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian lokon</a> dum retumo per { -brand-product-name }.
 unauthenticated-private-location-message = Tio ĉi helpas vin <a data-l10n-name="learn-more-vpn">teni vian pozicion privata</a> en { -brand-product-name }.
 unauthenticated-choose-location-message = Elektu inter 5 lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
-unauthenticated-hide-location-message-2 = Kaŝu vian lokon dum vi retumas per { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Elŝuti { -mozilla-vpn-brand-name 
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN paŭzigita
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
 upgrade-vpn-title = Ricevu aldonan protekton, krom tiun de la retumilo.
 upgrade-vpn-description = Elektu la lokon de via VPN, uzu VPN por ĉiuj viaj apoj en maksimume 5 aparatoj kaj restu sekura en iu ajn reto, ĉu hejme ĉu en publika Wi-Fi.
 upgrade-vpn-button = Provu { -mozilla-vpn-brand-name }

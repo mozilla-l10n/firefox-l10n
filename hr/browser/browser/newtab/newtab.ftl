@@ -639,9 +639,6 @@ newtab-new-user-custom-wallpaper-title = Odaberi pozadinu te prilagodi { -brand-
 newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmi { -brand-product-name } za mobilne uređaje
@@ -804,12 +801,6 @@ newtab-promo-card-dismiss-button =
     .title = Odbaci
     .aria-label = Odbaci
 
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Sports widget
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -831,6 +822,3 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ovaj se prostor prilagođava tvojim pravilima
 newtab-activation-window-message-values-focus-message = { -brand-product-name } omogućuje pregledavanje na način koji ti se sviđa, s osobnijim načinom za početak dana na internetu. Prilagodi { -brand-product-name } svom ukusu.
-
-## Strings for the Clock widget
-

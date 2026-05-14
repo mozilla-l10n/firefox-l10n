@@ -61,7 +61,6 @@ ipprotection-button-connecting = هونی رۊشن ابۊ…
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN واستا
 upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
 
 ## Messages and errors

@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name 
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ascunde-ți locația</a> când navighezi cu{ -brand-product-name }.
 unauthenticated-private-location-message = Ajută <a data-l10n-name="learn-more-vpn">să îți mențină locația privată</a> în { -brand-product-name }.
 unauthenticated-choose-location-message = Alege dintre 5 locații sau lasă { -brand-product-name } să o aleagă pe cea mai rapidă.
-unauthenticated-hide-location-message-2 = Ascunde-ți locația când navighezi cu { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Obține { -mozilla-vpn-brand-name 
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN în pauză
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Ți-ai folosit toți cei { $maxUsage } GB de date VPN. Accesul VPN va fi resetat luna viitoare.
 upgrade-vpn-title = Obține protecție suplimentară dincolo de browser
 upgrade-vpn-description = Alege-ți locația VPN, folosește VPN-ul pentru toate aplicațiile tale și pe până la 5 dispozitive și rămâi în siguranță în orice rețea — acasă sau prin Wi-Fi public.
 upgrade-vpn-button = Încearcă { -mozilla-vpn-brand-name }

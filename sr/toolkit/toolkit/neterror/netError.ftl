@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } не може да се пов
 fp-neterror-net-timeout-intro = Серверу на <strong>{ $hostname }</strong> треба превише времена да одговори.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> је вратио грешку.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Сервер на <strong>{ $hostname }</strong> је вратио грешку: { $responsestatus } { $responsestatustext }

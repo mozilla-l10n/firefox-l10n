@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = Ваша копија профила „{ $profilename }“ је спремна за прилагођавање
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Ваш примерак профила { $profilename } је спреман за прилагођавање
 copied-profile-page-header-description = Умножили смо ваше податке и подешавања у нови профил. Сада му дајте име, изаберите изглед и учините га својим.
 restored-profile-page-header = Прилагодите свој обновљени профил
 restored-profile-page-header-description = Сваки профил чува свој јединствени историјат прегледања и подешавања одвојено од осталих профила. Поред тога, јака заштита приватности { -brand-short-name }-а је подразумевано укључена.

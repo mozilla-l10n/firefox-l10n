@@ -925,19 +925,11 @@ urlbar-searchmode-actions =
     .label = Azions
 urlbar-searchmode-exit-button =
     .tooltiptext = Siere
-urlbar-searchmode-default =
-    .tooltiptext = Motôr di ricercje predefinît
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Cheste volte cîr cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Cheste volte cîr cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Impostazions ricercje
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Novitâts
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -947,10 +939,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nissune scurte selezionade, sielç une scurte
     .tooltiptext = Nissune scurte selezionade, sielç une scurte
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = La ricercje vie peraule clâf e je disativade
-    .tooltiptext = La ricercje vie peraule clâf e je disativade
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

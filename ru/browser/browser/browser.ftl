@@ -966,23 +966,11 @@ urlbar-searchmode-actions =
     .label = Действия
 urlbar-searchmode-exit-button =
     .tooltiptext = Закрыть
-urlbar-searchmode-default =
-    .tooltiptext = Поисковая система по умолчанию
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = В этот раз искать в:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Искать в:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = В этот раз искать в:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Параметры поиска
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Создать
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -992,10 +980,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ярлык не выбран, выберите ярлык
     .tooltiptext = Ярлык не выбран, выберите ярлык
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Поиск по ключевым словам отключён
-    .tooltiptext = Поиск по ключевым словам отключён
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

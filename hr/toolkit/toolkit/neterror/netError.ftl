@@ -169,7 +169,4 @@ neterror-response-status-code = Kod greške: { $responsestatus } { $responsestat
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> vraća grešku.
 fp-neterror-denied-port-access = Ova adresa koristi mrežni priključak koji se obično koristi u druge svrhe osim pregledavanja weba. { -brand-short-name } je otkazao zahtjev radi tvoje zaštite.

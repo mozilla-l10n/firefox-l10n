@@ -1061,23 +1061,11 @@ urlbar-searchmode-actions =
     .label = Akce
 urlbar-searchmode-exit-button =
     .tooltiptext = Zavřít
-urlbar-searchmode-default =
-    .tooltiptext = Výchozí vyhledávač
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Vyhledat pomocí:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Vyhledat pomocí:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Vyhledat pomocí:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavení vyhledávání
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nový
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1087,10 +1075,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Není vybrána žádná zkratka, vyberte zkratku
     .tooltiptext = Není vybrána žádná zkratka, vyberte zkratku
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Vyhledávání pomocí klíčových slov je zakázáno
-    .tooltiptext = Vyhledávání pomocí klíčových slov je zakázáno
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

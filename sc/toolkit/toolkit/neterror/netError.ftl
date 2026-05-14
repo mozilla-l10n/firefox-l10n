@@ -137,7 +137,4 @@ certerror-mitm-what-can-you-do-about-it-corporate = Si ses in una rete aziendale
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> at torradu una faddina.
 fp-neterror-denied-port-access = Custu indiritzu impreat una ghenna de rete chi s'impreat a fitianu pro iscopos diferentes de sa navigatzione in rete. { -brand-short-name } at annulladu custa rechesta pro ti protègere.

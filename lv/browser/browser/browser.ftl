@@ -923,19 +923,11 @@ urlbar-searchmode-actions =
     .label = Darbības
 urlbar-searchmode-exit-button =
     .tooltiptext = Aizvērt
-urlbar-searchmode-default =
-    .tooltiptext = Noklusējuma meklēšanas dzinis
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Šajā reizē meklēt ar:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Šajā reizē meklēt ar:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Meklēšanās iestatījumi
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Jauns
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

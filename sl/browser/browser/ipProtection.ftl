@@ -90,7 +90,6 @@ ipprotection-locations-subview-promo-button = Prenesi { -mozilla-vpn-brand-name 
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN ustavljen
 upgrade-vpn-button = Preizkusite { -mozilla-vpn-brand-name }
 
 ## Messages and errors

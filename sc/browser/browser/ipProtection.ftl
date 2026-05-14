@@ -43,7 +43,6 @@ ipprotection-site-settings-callout-button = Apo cumprèndidu
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Proa sa VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cua sa positzione tua</a> durante sa navigatzione cun { -brand-product-name }.
-unauthenticated-hide-location-message-2 = Cua sa positzione tua durante sa navigatzione cun { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Otene { $maxUsage } GB de datos de VPN de badas onni mese.
@@ -75,7 +74,6 @@ ipprotection-button-connecting = Ativatzione in cursu…
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = Sa VPN est in pàusa
 upgrade-vpn-button = Proa { -mozilla-vpn-brand-name }
 
 ## Messages and errors

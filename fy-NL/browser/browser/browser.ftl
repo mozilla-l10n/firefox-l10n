@@ -961,23 +961,11 @@ urlbar-searchmode-actions =
     .label = Aksjes
 urlbar-searchmode-exit-button =
     .tooltiptext = Slute
-urlbar-searchmode-default =
-    .tooltiptext = Standertsykmasine
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Diskear sykje mei:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Sykje mei:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Diskear sykje mei:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sykynstellingen
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nij
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -987,10 +975,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
     .tooltiptext = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Sykje nei trefwurden is útskeakele
-    .tooltiptext = Sykje nei trefwurden is útskeakele
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

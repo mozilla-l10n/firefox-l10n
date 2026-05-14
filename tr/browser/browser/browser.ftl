@@ -960,23 +960,11 @@ urlbar-searchmode-actions =
     .label = Eylemler
 urlbar-searchmode-exit-button =
     .tooltiptext = Kapat
-urlbar-searchmode-default =
-    .tooltiptext = Varsayılan arama motoru
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Burada ara:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Bununla ara:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Burada ara:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arama ayarları
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Yeni
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -986,10 +974,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Kısayol seçilmemiş, kısayol seçin
     .tooltiptext = Kısayol seçilmemiş, kısayol seçin
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Anahtar kelimeyle arama devre dışı
-    .tooltiptext = Anahtar kelimeyle arama devre dışı
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

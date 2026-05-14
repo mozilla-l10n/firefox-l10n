@@ -60,7 +60,6 @@ unauthenticated-vpn-title = جرّب خدمة VPN المدمجة في { -brand-p
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">إخفاء موقعك</a> أثناء التصفح في { -brand-product-name }.
 unauthenticated-private-location-message = يساعد <a data-l10n-name="learn-more-vpn">في الحفاظ على خصوصية موقعك</a> في { -brand-product-name }.
 unauthenticated-choose-location-message = اختر من بين 5 مواقع أو دع { -brand-product-name } يختار الأسرع.
-unauthenticated-hide-location-message-2 = أخفِ موقعك أثناء التصفح في { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = احصل على { $maxUsage } جيجابايت من بيانات VPN المجانية كل شهر.
@@ -111,10 +110,6 @@ ipprotection-locations-subview-promo-button = احصل على { -mozilla-vpn-bra
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = توقف خدمة VPN مؤقتًا
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = لقد استهلكت كامل بيانات VPN الخاصة بك، والتي تبلغ { $maxUsage } جيجابايت. سيتم إعادة تعيين الوصول الشهر المقبل.
 upgrade-vpn-title = احصل على حماية إضافية تتجاوز المتصفح
 upgrade-vpn-description = اختر موقع VPN الخاص بك، واستخدم VPN لجميع تطبيقاتك وما يصل إلى 5 أجهزة، وابقَ آمنًا على أي شبكة - سواء في المنزل أو على شبكة Wi-Fi العامة.
 upgrade-vpn-button = جرّب { -mozilla-vpn-brand-name }

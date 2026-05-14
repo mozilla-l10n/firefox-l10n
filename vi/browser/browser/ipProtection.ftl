@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Hãy thử VPN được tích hợp sẵn của { -b
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ẩn vị trí của bạn</a> khi duyệt trong { -brand-product-name }.
 unauthenticated-private-location-message = Giúp <a data-l10n-name="learn-more-vpn">giữ vị trí của bạn riêng tư</a> trong { -brand-product-name }.
 unauthenticated-choose-location-message = Chọn từ 5 địa điểm hoặc để { -brand-product-name } chọn địa điểm nhanh nhất.
-unauthenticated-hide-location-message-2 = Ẩn vị trí của bạn khi duyệt web trong { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Nhận { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = Đã tạm dừng VPN
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Bạn đã sử dụng hết { $maxUsage } GB dữ liệu VPN. Quyền truy cập sẽ được thiết lập lại vào tháng tới.
 upgrade-vpn-title = Tăng cường khả năng bảo vệ vượt ra ngoài phạm vi trình duyệt.
 upgrade-vpn-description = Chọn địa điểm VPN của bạn, sử dụng VPN cho tất cả các ứng dụng và tối đa 5 thiết bị, và luôn được bảo mật trên mọi mạng — tại nhà hoặc trên mạng Wi-Fi công cộng.
 upgrade-vpn-button = Hãy thử { -mozilla-vpn-brand-name }

@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } ei saa yhteyttä palvelimeen o
 fp-neterror-net-timeout-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> vastaa liian hitaasti.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> lähetti takaisin virheilmoituksen.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> lähetti virheen: { $responsestatus } { $responsestatustext }

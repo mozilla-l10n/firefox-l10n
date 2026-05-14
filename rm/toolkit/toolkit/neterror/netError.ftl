@@ -177,7 +177,4 @@ neterror-response-status-code = Code d’errur: { $responsestatus } { $responses
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ha tramess enavos in’errur.
 fp-neterror-denied-port-access = Questa adressa utilisescha in port da rait che na vegn normalmain betg utilisà per navigar en il web. { -brand-short-name } ha bloccà questa dumonda per motivs da segirezza.

@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } nie może połączyć się z 
 fp-neterror-net-timeout-intro = Serwer <strong>{ $hostname }</strong> zbyt długo nie odpowiada.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = Witryna <strong>{ $hostname }</strong> zwróciła błąd.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Serwer <strong>{ $hostname }</strong> zwrócił błąd: { $responsestatus } { $responsestatustext }

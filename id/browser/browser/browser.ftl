@@ -906,19 +906,11 @@ urlbar-searchmode-actions =
     .label = Aksi
 urlbar-searchmode-exit-button =
     .tooltiptext = Tutup
-urlbar-searchmode-default =
-    .tooltiptext = Mesin pencari baku
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Kali ini, cari dengan:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Kali ini, cari dengan:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Setelan Pencarian
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Baru
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -928,10 +920,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Tidak ada pintasan yang dipilih, pilih pintasan
     .tooltiptext = Tidak ada pintasan yang dipilih, pilih pintasan
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Pencarian kata kunci dinonaktifkan
-    .tooltiptext = Pencarian kata kunci dinonaktifkan
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

@@ -62,9 +62,6 @@ new-profile-page-input-placeholder =
     .placeholder = Zgjidhni një emër, fjala vjen, “Pune”, ose “Personal”
 new-profile-page-done-button =
     .label = Mbaroi përpunimi
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Kopja juaj e { $profilename } është gati për ta përshtatur
 copied-profile-page-header-description = Kopjuam në një profil të ri të dhënat tuaja dhe rregullimet. Tani jepini një emër, zgjidhni një pamje dhe bëjeni tuajin.
 restored-profile-page-header = Përshtatni profilin tuaj të rikthyer
 restored-profile-page-header-description = Çdo profil mban ndarazi nga profilet tuaj të tjerë historikun e vet unik të shfletimeve dhe rregullimet. Plus, mbrojtjet e fuqishme të privatësisë nga { -brand-short-name }-i janë aktive, si parazgjedhje.

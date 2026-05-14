@@ -782,15 +782,9 @@ urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = പുതിയതു്
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

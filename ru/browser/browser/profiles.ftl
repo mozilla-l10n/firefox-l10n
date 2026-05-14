@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = Ваша копия «{ $profilename }» готова к настройке
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Ваша копия { $profilename } готова к настройке
 copied-profile-page-header-description = Мы скопировали ваши данные и настройки в новый профиль. Теперь дайте ему имя, выберите внешний вид и сделайте его своим.
 restored-profile-page-header = Настройка восстановленного профиля
 restored-profile-page-header-description = Каждый профиль хранит свою историю просмотров и настройки отдельно от других ваших профилей. Кроме того, надёжная защита приватности { -brand-short-name } включена по умолчанию.

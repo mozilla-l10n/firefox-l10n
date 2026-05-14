@@ -166,7 +166,4 @@ neterror-response-status-code = Villukóði: { $responsestatus } { $responsestat
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> sendi villu til baka.
 fp-neterror-denied-port-access = Þetta veffang notar netgátt sem er venjulega ekki notuð til þess að vafra. { -brand-short-name } hefur lokað á beiðnina þér til verndar.

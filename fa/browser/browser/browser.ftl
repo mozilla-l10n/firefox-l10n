@@ -771,15 +771,9 @@ urlbar-searchmode-exit-button =
     .tooltiptext = بستن
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = این بار جستجو با:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description = این بار جستجو با:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = تنظیمات جستجو
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = جدید
 urlbar-searchmode-button-no-engine =
     .label = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
     .tooltiptext = میانبری انتخاب نشده است، یک میانبر انتخاب کنید

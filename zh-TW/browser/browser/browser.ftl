@@ -958,23 +958,11 @@ urlbar-searchmode-actions =
     .label = 動作
 urlbar-searchmode-exit-button =
     .tooltiptext = 關閉
-urlbar-searchmode-default =
-    .tooltiptext = 預設搜尋引擎
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = 這次使用下列搜尋引擎搜尋：
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = 使用下列引擎搜尋：
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = 這次使用下列搜尋引擎搜尋：
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 搜尋設定
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = 新增
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -984,10 +972,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = 未選擇捷徑，請挑選一個捷徑
     .tooltiptext = 未選擇捷徑，請挑選一個捷徑
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = 已停用關鍵字搜尋
-    .tooltiptext = 已停用關鍵字搜尋
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

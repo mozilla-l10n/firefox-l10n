@@ -69,10 +69,6 @@ ipprotection-button-connecting = Увімкнення…
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN призупинено
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Ви використали всі { $maxUsage } ГБ ваших даних VPN. Доступ буде скинуто наступного місяця.
 upgrade-vpn-title = Отримайте додатковий захист поза межами браузера
 upgrade-vpn-description = Вибирайте розташування VPN, використовуйте VPN для всіх своїх програм на 5 пристроях і будьте в безпеці в будь-якій мережі – вдома чи в громадських Wi-Fi.
 upgrade-vpn-button = Спробуйте { -mozilla-vpn-brand-name }

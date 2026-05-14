@@ -78,10 +78,6 @@ ipprotection-location-country-button = Տեղադրություն՝ { $country }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN-ը դադարեցված է
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Դուք օգտագործել եք ձեր VPN տվյալների բոլոր { $maxUsage } ԳԲ-ը։ Մուտքը կվերակայվի հաջորդ ամիս։
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
 ipprotection-connection-status-paused-title-1 = VPN-ը դադարեցված է
 

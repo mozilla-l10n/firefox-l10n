@@ -942,23 +942,11 @@ urlbar-searchmode-actions =
     .label = 작업
 urlbar-searchmode-exit-button =
     .tooltiptext = 닫기
-urlbar-searchmode-default =
-    .tooltiptext = 기본 검색 엔진
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = 이번만 검색:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = 검색:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = 이번만 검색:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 검색 설정
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = 신규
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -968,10 +956,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = 선택된 바로 가기 없음, 바로 가기를 선택하세요
     .tooltiptext = 선택된 바로 가기 없음, 바로 가기를 선택하세요
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = 키워드 검색이 비활성화됨
-    .tooltiptext = 키워드 검색이 비활성화됨
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

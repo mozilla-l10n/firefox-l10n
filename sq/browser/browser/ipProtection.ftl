@@ -40,7 +40,6 @@ ipprotection-site-settings-callout-button = E mora vesh
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
-unauthenticated-hide-location-message-2 = Fshiheni vendndodhjen tuaj teksa shfletoni në { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Përfitoni { $maxUsage } GB të dhëna VPN falas çdo muaj.
@@ -72,10 +71,6 @@ ipprotection-button-connecting = Po aktivizohet…
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN-ja u ndal
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi do të rifillohet muajin që vjen.
 upgrade-vpn-title = Merrni mbrojtje shtesë tej shfletuesit
 upgrade-vpn-description = Zgjidhni vendndodhjen e VPN-së suaj, përdorni VPN për krejt aplikacionet tuaj dhe deri në 5 pajisje dhe jini i siguruar në çfarëdo rrjeti — në shtëpi, apo në Wi-Fi publik.
 upgrade-vpn-button = Provoni { -mozilla-vpn-brand-name }

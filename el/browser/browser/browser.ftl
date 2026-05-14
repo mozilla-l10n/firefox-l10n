@@ -958,23 +958,11 @@ urlbar-searchmode-actions =
     .label = Ενέργειες
 urlbar-searchmode-exit-button =
     .tooltiptext = Κλείσιμο
-urlbar-searchmode-default =
-    .tooltiptext = Προεπιλεγμένη μηχανή αναζήτησης
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Αυτήν τη φορά αναζήτηση με:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Αναζήτηση με:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ρυθμίσεις αναζήτησης
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Νέα
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -984,10 +972,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
     .tooltiptext = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Η αναζήτηση λέξεων-κλειδιών είναι ανενεργή
-    .tooltiptext = Η αναζήτηση λέξεων-κλειδιών είναι ανενεργή
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

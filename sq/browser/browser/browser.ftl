@@ -936,23 +936,11 @@ urlbar-searchmode-actions =
     .label = Veprime
 urlbar-searchmode-exit-button =
     .tooltiptext = Mbylle
-urlbar-searchmode-default =
-    .tooltiptext = Motor parazgjedhje kërkimesh
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Këtë herë kërko me:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Kërko me:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Këtë herë kërko me:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parametra Kërkimi
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = I ri
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -962,10 +950,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = S’u përzgjodh shkurtore, zgjidhni një shkurtore
     .tooltiptext = S’u përzgjodh shkurtore, zgjidhni një shkurtore
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Kërkimi me fjalëkyçe është i çaktivizuar
-    .tooltiptext = Kërkimi me fjalëkyçe është i çaktivizuar
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

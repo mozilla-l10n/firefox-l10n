@@ -869,19 +869,11 @@ urlbar-searchmode-actions =
     .label = Accións
 urlbar-searchmode-exit-button =
     .tooltiptext = Pechar
-urlbar-searchmode-default =
-    .tooltiptext = Motor de busca predeterminado
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Esta vez busca con:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Esta vez busca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Axustes da busca
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

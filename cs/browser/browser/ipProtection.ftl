@@ -84,11 +84,6 @@ unauthenticated-private-location-message =
        *[no-cases] Při prohlížení v aplikaci { -brand-product-name } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
     }
 unauthenticated-choose-location-message = Vyberte si z 5 lokalit nebo nechte { -brand-product-name(case: "acc") } vybrat tu nejrychlejší.
-unauthenticated-hide-location-message-2 =
-    { -brand-product-name.case-status ->
-        [with-cases] Skryjte svou polohu při procházení { -brand-product-name(case: "loc") }.
-       *[no-cases] Skryjte svou polohu při procházení  aplikací { -brand-product-name }.
-    }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
@@ -142,10 +137,6 @@ ipprotection-locations-subview-promo-button = Získejte { -mozilla-vpn-brand-nam
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN je pozastavena
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Využili jste všech { $maxUsage } GB svých dat VPN. Přístup bude obnoven příští měsíc.
 upgrade-vpn-title = Získejte dodatečnou ochranu nad rámec prohlížeče
 upgrade-vpn-description = Vyberte umístění VPN, používejte VPN pro všechny své aplikace, až pro 5 zařízení a zůstaňte v bezpečí v jakékoliv síti — doma i na veřejných Wi-Fi sítích.
 upgrade-vpn-button = Vyzkoušejte { -mozilla-vpn-brand-name }

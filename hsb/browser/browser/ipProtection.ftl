@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Wupruwujće zatwarjeny VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajće swoje stejnišćo</a>, mjeztym zo w { -brand-product-name } přehladujeće.
 unauthenticated-private-location-message = Pomha w { -brand-product-name } <a data-l10n-name="learn-more-vpn">waše stejnišćo priwatne dźeržeć</a>.
 unauthenticated-choose-location-message = Wubjerće z 5 stejnišćow abo dajće { -brand-product-name } najspěšniše wubrać.
-unauthenticated-hide-location-message-2 = Schowajće swoje stejnišćo, mjeztym zo z { -brand-product-name } přehladujeće.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobsta
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN je zastajeny
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
 upgrade-vpn-title = Wobstarajće sej přidatny škit zwonka wobhladowaka
 upgrade-vpn-description = Wubjerće swoje stejnišćo VPN, wužiwajće VPN za wšě swoje nałoženja a na hač do 5 gratach a wostańće wěsty w kóždej syći – doma abo w zjawnym WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wupruwować

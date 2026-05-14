@@ -62,9 +62,6 @@ new-profile-page-input-placeholder =
     .placeholder = Odaberi ime poput „Posao” ili „Osobno”
 new-profile-page-done-button =
     .label = Uređivanje završeno
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Tvoja kopija profila { $profilename } je spremna za prilagođavanje
 copied-profile-page-header-description = Kopirali smo tvoje podatke i postavke u novi profil. Sada mu možeš zadati ime, odabrati izgled i prilagoditi ga.
 restored-profile-page-learn-more = Saznaj više
 profile-window-title-2 = { -brand-short-name } – Odaberi profil

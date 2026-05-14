@@ -62,9 +62,6 @@ new-profile-page-input-placeholder =
     .placeholder = Sielç un non come “Lavôr” o “Personâl”
 new-profile-page-done-button =
     .label = Modifiche completade
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = La tô copie di { $profilename } e je pronte pe personalizazion
 copied-profile-page-header-description = O vin copiât i tiei dâts e lis impostazions intun gnûf profîl. cumò, dâi un non, sielç un stîl e personalizilu a plasê.
 profile-window-title-2 = { -brand-short-name } - Sielte dal profîl
 profile-window-logo =

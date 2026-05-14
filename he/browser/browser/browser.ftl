@@ -959,23 +959,11 @@ urlbar-searchmode-actions =
     .label = פעולות
 urlbar-searchmode-exit-button =
     .tooltiptext = סגירה
-urlbar-searchmode-default =
-    .tooltiptext = מנוע חיפוש ברירת מחדל
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = הפעם לחפש באמצעות:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = חיפוש באמצעות:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = הפעם לחפש באמצעות:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = הגדרות חיפוש
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = חדש
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -985,10 +973,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = לא נבחר קיצור דרך, בחירת קיצור דרך
     .tooltiptext = לא נבחר קיצור דרך, בחירת קיצור דרך
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = חיפוש באמצעות מילות מפתח מושבת
-    .tooltiptext = חיפוש באמצעות מילות מפתח מושבת
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

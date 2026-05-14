@@ -960,23 +960,11 @@ urlbar-searchmode-actions =
     .label = ਕਾਰਵਾਈਆਂ
 urlbar-searchmode-exit-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
-urlbar-searchmode-default =
-    .tooltiptext = ਮੂਲ ਖੋਜ ਇੰਜਣ
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = ਇਸ ਨਾਲ ਖੋਜੋ:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ਖੋਜ ਸੈਟਿੰਗਾਂ
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = ਨਵਾਂ
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -986,10 +974,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = ਕੋਈ ਸ਼ਾਰਟਕੱਟ ਚੁਣਿਆ ਨਹੀਂ ਹੈ, ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ
     .tooltiptext = ਕੋਈ ਸ਼ਾਰਟਕੱਟ ਚੁਣਿਆ ਨਹੀਂ ਹੈ, ਕੋਈ ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = ਸ਼ਬਦ ਲਈ ਖੋਜ ਅਸਮੱਰਥ
-    .tooltiptext = ਸ਼ਬਦ ਲਈ ਖੋਜ ਅਸਮੱਰਥ ਕੀਤੀ ਹੈ
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

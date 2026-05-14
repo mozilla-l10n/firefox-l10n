@@ -975,23 +975,11 @@ urlbar-searchmode-actions =
     .label = Akcije
 urlbar-searchmode-exit-button =
     .tooltiptext = Zacyniś
-urlbar-searchmode-default =
-    .tooltiptext = Standardna pytnica
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Tenraz pytaś z:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Pytaś z:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tenraz pytaś z:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Pytańske nastajenja
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nowy
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1001,10 +989,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Žedna skrotconka wubrana, wubjeŕśo skrotconku
     .tooltiptext = Žedna skrotconka wubrana, wubjeŕśo skrotconku
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Pytanje z klucowymi słowami jo znjemóžnjone
-    .tooltiptext = Pytanje z klucowymi słowami jo znjemóžnjone
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

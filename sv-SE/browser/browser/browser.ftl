@@ -958,23 +958,11 @@ urlbar-searchmode-actions =
     .label = Åtgärder
 urlbar-searchmode-exit-button =
     .tooltiptext = Stäng
-urlbar-searchmode-default =
-    .tooltiptext = Standardsökmotor
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Denna gång, sök med:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Sök med:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Denna gång, sök med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sökinställningar
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Ny
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -984,10 +972,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ingen genväg vald, välj en genväg
     .tooltiptext = Ingen genväg vald, välj en genväg
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Nyckelordssökning är inaktiverad
-    .tooltiptext = Nyckelordssökning är inaktiverad
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

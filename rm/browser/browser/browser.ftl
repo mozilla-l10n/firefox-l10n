@@ -942,23 +942,11 @@ urlbar-searchmode-actions =
     .label = Acziuns
 urlbar-searchmode-exit-button =
     .tooltiptext = Serrar
-urlbar-searchmode-default =
-    .tooltiptext = Maschina da tschertgar predefinida
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Per questa giada, tschertgar cun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Tschertgar cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parameters da tschertga
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nov
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -968,10 +956,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Na selecziunà nagina scursanida, tscherner ina scursanida
     .tooltiptext = Na selecziunà nagina scursanida, tscherner ina scursanida
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = La retschertga da chavazzins-clav è deactivada
-    .tooltiptext = La retschertga da chavazzins-clav è deactivada
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

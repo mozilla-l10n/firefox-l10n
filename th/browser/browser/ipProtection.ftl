@@ -60,7 +60,6 @@ unauthenticated-vpn-title = ลองใช้ VPN ในตัวของ { -b
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">ซ่อนตำแหน่งของคุณ</a>ขณะท่องเว็บใน { -brand-product-name }
 unauthenticated-private-location-message = ช่วย<a data-l10n-name="learn-more-vpn">ซ่อนตำแหน่งของคุณให้เป็นส่วนตัว</a>ใน { -brand-product-name }
 unauthenticated-choose-location-message = เลือกจาก 5 ตำแหน่งที่ตั้ง หรือให้ { -brand-product-name } เลือกตำแหน่งที่เร็วที่สุดให้
-unauthenticated-hide-location-message-2 = ซ่อนตำแหน่งที่ตั้งของคุณขณะท่องเว็บใน { -brand-product-name }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = รับข้อมูล VPN ฟรี { $maxUsage } GB ทุกเดือน
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = รับ { -mozilla-vpn-brand-nam
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN หยุดชั่วคราว
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = คุณใช้ข้อมูล VPN ครบ { $maxUsage } GB แล้ว การเข้าถึงจะถูกรีเซ็ตในเดือนหน้า
 upgrade-vpn-title = รับการปกป้องเพิ่มเติมเหนือกว่าแค่การใช้เบราว์เซอร์
 upgrade-vpn-description = เลือกตำแหน่ง VPN ของคุณ ใช้ VPN สำหรับแอปทั้งหมดของคุณและอุปกรณ์ได้สูงสุด 5 เครื่อง และรักษาความปลอดภัยบนเครือข่ายใดก็ได้ ไม่ว่าจะเป็นที่บ้านหรือบน Wi-Fi สาธารณะ
 upgrade-vpn-button = ลองใช้ { -mozilla-vpn-brand-name }

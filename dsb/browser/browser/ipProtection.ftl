@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajśo swójo stojnišćo</a>, mjaztym až w { -brand-product-name } pśeglědujośo.
 unauthenticated-private-location-message = Pomaga w { -brand-product-name } <a data-l10n-name="learn-more-vpn">wašo stojnišćo priwatne źaržaś</a>.
 unauthenticated-choose-location-message = Wubjeŕśo z 5 stojnišćow abo dajśo { -brand-product-name } nejmalsnjejše wubraś.
-unauthenticated-hide-location-message-2 = Schowajśo swójo stojnišćo, mjaztym až z { -brand-product-name } pśeglědujośo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobsta
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN jo zastajony
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
 upgrade-vpn-title = Wobstarajśo se pśidatny šćit zwenka wobglědowaka
 upgrade-vpn-description = Wubjeŕśo swójo stojnišćo VPN, wužywajśo VPN za wšykne swóje nałoženja a na až do 5 rědach a wóstańśo wěsty w kuždej seśi – doma abo w zjawnem WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wopytaś

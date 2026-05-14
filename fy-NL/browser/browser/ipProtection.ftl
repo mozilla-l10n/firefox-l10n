@@ -60,7 +60,6 @@ unauthenticated-vpn-title = De ynboude VPN fan { -brand-product-name } probearje
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ferstopje jo lokaasje</a> by it navigearjen yn { -brand-product-name }.
 unauthenticated-private-location-message = Helpt <a data-l10n-name="learn-more-vpn">jo lokaasje privee te hâlden</a> yn { -brand-product-name }.
 unauthenticated-choose-location-message = Kies út fiif lokaasjes of lit { -brand-product-name } de rapste kieze.
-unauthenticated-hide-location-message-2 = Ferstopje jo lokaasje by it navigearjen yn { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Untfang elke moanne { $maxUsage } GB fergees VPN-gegevens.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } downlo
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN pauzearre
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. De tagong wurdt folgjende moanne opnij ynsteld.
 upgrade-vpn-title = Untfang ekstra beskerming bûten de browser
 upgrade-vpn-description = Kies jo VPN-lokaasje, brûk VPN foar al jo apps en maksimaal 5 apparaten, en bliuw feilich op elk netwurk – thús of op iepenbiere wifi.
 upgrade-vpn-button = Probearje { -mozilla-vpn-brand-name }

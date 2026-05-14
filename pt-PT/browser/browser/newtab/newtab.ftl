@@ -845,12 +845,6 @@ newtab-promo-card-dismiss-button =
     .title = Dispensar
     .aria-label = Dispensar
 
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Sports widget
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -872,6 +866,3 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espaço segue as suas regras
 newtab-activation-window-message-values-focus-message = O { -brand-product-name } permite que navegue como gosta, com uma forma mais pessoal de começar o seu dia na Internet. Torne o { -brand-product-name } seu.
-
-## Strings for the Clock widget
-

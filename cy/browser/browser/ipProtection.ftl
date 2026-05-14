@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-private-location-message = Yn helpu <a data-l10n-name="learn-more-vpn"> i gadw'ch lleoliad yn breifat</a> yn { -brand-product-name }.
 unauthenticated-choose-location-message = Dewis o 5 lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
-unauthenticated-hide-location-message-2 = Cuddiwch eich lleoliad wrth bori gyda { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Cael { $maxUsage } GB o ddata VPN am ddim bob mis.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Cael { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = Oedi VPN
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Rydych chi wedi defnyddio { $maxUsage } GB sef y cyfan o'ch data VPN. Bydd eich mynediad yn ailgychwyn mis nesaf.
 upgrade-vpn-title = Cael diogelwch ychwanegol y tu hwnt i'r porwr
 upgrade-vpn-description = Dewiswch eich lleoliad VPN, defnyddiwch VPN ar gyfer eich holl apiau a hyd at 5 dyfais, a chadw'n ddiogel ar unrhyw rwydwaith - gartref neu ar Wi-Fi cyhoeddus.
 upgrade-vpn-button = Rhowch gynnig ar { -mozilla-vpn-brand-name }

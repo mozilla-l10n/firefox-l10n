@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } не можа падключы
 fp-neterror-net-timeout-intro = Сервер па адрасе <strong>{ $hostname }</strong> адказвае занадта доўга.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> вярнуў памылку.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Сервер па адрасе <strong>{ $hostname }</strong> вярнуў памылку: { $responsestatus } { $responsestatustext }

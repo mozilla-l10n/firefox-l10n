@@ -716,15 +716,9 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Tampar
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Aqueste còp, recercar amb :
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description = Aqueste còp, recercar amb :
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Paramètres de recèrca
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nòu
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

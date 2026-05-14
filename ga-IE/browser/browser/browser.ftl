@@ -502,10 +502,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Dún
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = An uair seo, cuardaigh le:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description = An uair seo, cuardaigh le:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Socruithe Cuardaigh

@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Testa { -brand-product-name }:s inbyggda VPN
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Hjälper till att <a data-l10n-name="learn-more-vpn">hålla din plats privat</a> i { -brand-product-name }.
 unauthenticated-choose-location-message = Välj bland 5 platser eller låt { -brand-product-name } välja den snabbaste.
-unauthenticated-hide-location-message-2 = Dölj din plats medan du surfar i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data varje månad.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Hämta { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN pausad
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Du har använt alla { $maxUsage } GB av din VPN-data. Åtkomsten återställs nästa månad.
 upgrade-vpn-title = Få extra skydd utöver webbläsaren
 upgrade-vpn-description = Välj din VPN-plats, använd VPN för alla dina appar och upp till 5 enheter och håll dig säker i alla nätverk — hemma eller på offentligt Wi-Fi.
 upgrade-vpn-button = Testa { -mozilla-vpn-brand-name }

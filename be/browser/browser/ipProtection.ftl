@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Паспрабуйце ўбудаваны VPN ад {
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Схавайце сваё месцазнаходжанне</a> ў часе аглядання ў { -brand-product-name }.
 unauthenticated-private-location-message = Дапамагае <a data-l10n-name="learn-more-vpn">захоўваць прыватнасць вашага месцазнаходжання</a> ў { -brand-product-name }.
 unauthenticated-choose-location-message = Выберыце адно з 5 месцаў або дазвольце { -brand-product-name } выбраць самае хуткае.
-unauthenticated-hide-location-message-2 = Хавайце сваё месцазнаходжанне ў часе аглядання ў { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Атрымлівайце { $maxUsage } ГБ бясплатных VPN-дадзеных кожны месяц.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Атрымаць { -mozilla-vpn-br
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN прыпынены
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Вы выкарысталі ўсе { $maxUsage } ГБ вашага VPN-трафіку. Доступ будзе перазапушчаны ў наступным месяцы.
 upgrade-vpn-title = Атрымайце дадатковую абарону па-за межамі браўзера
 upgrade-vpn-description = Выберыце месцазнаходжанне VPN, выкарыстоўвайце VPN для ўсіх вашых праграм і да 5 прылад і заставайцеся ў бяспецы ў любой сетцы — дома ці ў грамадскім Wi-Fi.
 upgrade-vpn-button = Паспрабуйце { -mozilla-vpn-brand-name }

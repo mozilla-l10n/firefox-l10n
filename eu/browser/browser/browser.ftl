@@ -958,23 +958,11 @@ urlbar-searchmode-actions =
     .label = Ekintzak
 urlbar-searchmode-exit-button =
     .tooltiptext = Itxi
-urlbar-searchmode-default =
-    .tooltiptext = Bilaketa-motor lehenetsia
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Oraingoan, bilatu honekin:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Bilatu honekin:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Bilaketa-ezarpenak
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Berria
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -984,10 +972,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ez da lasterbiderik hautatu, hautatu lasterbidea
     .tooltiptext = Ez da lasterbiderik hautatu, hautatu lasterbidea
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Gako-hitz bidezko bilaketa desgaituta dago
-    .tooltiptext = Gako-hitz bidezko bilaketa desgaituta dago
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

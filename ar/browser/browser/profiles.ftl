@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = نسختك من “{ $profilename }” جاهزة للتخصيص
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = نسختك من { $profilename } جاهزة للتخصيص
 copied-profile-page-header-description = لقد نسخنا بياناتك وإعداداتك إلى ملف شخصي جديد. الآن، سمه واختر مظهره واجعله خاصًا بك.
 restored-profile-page-header = خصّص ملفك الشخصي المستعاد
 restored-profile-page-header-description = يحتفظ كل ملف شخصي بسجل تصفحه وإعداداته الخاصة بشكل منفصل عن الملفات الشخصية الأخرى. بالإضافة إلى ذلك، تُفعّل ميزات حماية الخصوصية القوية لـ { -brand-short-name } مبدئيًا.

@@ -60,7 +60,6 @@ unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
 unauthenticated-hide-location-message-3 = 在用 { -brand-product-name } 浏览时<a data-l10n-name="learn-more-vpn">隐藏真实位置</a>。
 unauthenticated-private-location-message = 帮您在用 { -brand-product-name } 浏览时<a data-l10n-name="learn-more-vpn">隐藏真实位置</a>。
 unauthenticated-choose-location-message = 从 5 个位置中选择，或者由 { -brand-product-name } 选择最快的一个。
-unauthenticated-hide-location-message-2 = 在用 { -brand-product-name } 浏览时隐藏真实位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 流量
@@ -112,10 +111,6 @@ ipprotection-locations-subview-promo-button = 获取 { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN 已暂停
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
 upgrade-vpn-title = 获取额外保护，不限于浏览器。
 upgrade-vpn-description = 选择 VPN 位置，并于最多 5 台设备上为所有应用使用 VPN，在所有网络（包括家庭和公共场所 Wi-Fi）中都能确保安全。
 upgrade-vpn-button = 试用 { -mozilla-vpn-brand-name }

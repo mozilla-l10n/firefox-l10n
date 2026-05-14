@@ -43,7 +43,6 @@ ipprotection-site-settings-callout-button = Chapì
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Emprova il VPN integrà da { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Zuppenta tia posiziun</a> durant che ti navigheschas cun { -brand-product-name }.
-unauthenticated-hide-location-message-2 = Zuppenta tia posiziun durant che ti navigheschas cun { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Profitescha da { $maxUsage } GB datas gratuitas per il VPN, mintga mais.
@@ -75,10 +74,6 @@ ipprotection-button-connecting = Activaziun…
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = Il VPN paussa
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Ti has utilisà dal tuttafatg ils { $maxUsage } GB da tias datas VPN. L’access vegn restabilì il proxim mais.
 upgrade-vpn-title = Profitescha d’ina protecziun supplementara era ordaifer il navigatur
 upgrade-vpn-description = Tscherna tia posiziun VPN, utilisescha il VPN per tut tias apps sin enfin 5 apparats e ta protegia en mintga rait – a chasa u en raits WLAN publicas.
 upgrade-vpn-button = Emprova { -mozilla-vpn-brand-name }

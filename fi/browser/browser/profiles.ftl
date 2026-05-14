@@ -65,9 +65,6 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = Kopio profiilista ”{ $profilename }” on valmis muokattavaksi
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Profiilin { $profilename } kopio on valmis muokattavaksi
 copied-profile-page-header-description = Kopioimme tietosi ja asetuksesi uuteen profiiliin. Anna sille nyt nimi, valitse ulkoasu ja tee siitä omasi.
 restored-profile-page-header = Mukauta palautettua profiiliasi
 restored-profile-page-header-description = Jokainen profiili pitää yksilöllisen selaushistorian ja asetukset erillään muista profiileistasi. Lisäksi { -brand-short-name }in vahvat yksityisyyden suojaukset ovat oletuksena käytössä.

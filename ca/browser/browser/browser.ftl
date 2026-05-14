@@ -938,23 +938,11 @@ urlbar-searchmode-actions =
     .label = Accions
 urlbar-searchmode-exit-button =
     .tooltiptext = Tanca
-urlbar-searchmode-default =
-    .tooltiptext = Motor de cerca per defecte
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Aquesta vegada, cerca amb:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Cerca amb:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Aquesta vegada, cerca amb:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Paràmetres de cerca
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nou
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -964,10 +952,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = No s'ha seleccionat cap drecera, trieu una drecera
     .tooltiptext = No s'ha seleccionat cap drecera, trieu una drecera
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = La cerca de paraules clau està desactivada
-    .tooltiptext = La cerca de paraules clau està desactivada
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

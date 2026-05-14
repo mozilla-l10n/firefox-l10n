@@ -925,19 +925,11 @@ urlbar-searchmode-actions =
     .label = Действия
 urlbar-searchmode-exit-button =
     .tooltiptext = Затваряне
-urlbar-searchmode-default =
-    .tooltiptext = Търсеща машина по подразбиране
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Този път търсете с:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Този път търсете с:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Настройки за търсене
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Нов
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

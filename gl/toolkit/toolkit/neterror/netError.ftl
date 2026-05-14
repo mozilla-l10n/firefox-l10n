@@ -171,7 +171,4 @@ neterror-response-status-code = Código de erro: { $responsestatus } { $response
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> enviou un erro.
 fp-neterror-denied-port-access = Este enderezo usa un porto de rede que normalmente se usa con fins diferentes á navegación web. Para a súa protección, { -brand-short-name } cancelou a solicitude.

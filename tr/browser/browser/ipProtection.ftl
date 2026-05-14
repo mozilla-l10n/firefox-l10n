@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
 unauthenticated-private-location-message = { -brand-product-name } tarayıcısında <a data-l10n-name="learn-more-vpn">konumunuzu gizli tutmamıza</a> yardımcı olur.
 unauthenticated-choose-location-message = 5 konum arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
-unauthenticated-hide-location-message-2 = { -brand-product-name } ile gezinirken konumunuzu gizleyin.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Her ay { $maxUsage } GB VPN kotası ücretsiz.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name }’i ed
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN duraklatıldı
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
 upgrade-vpn-title = Tarayıcının ötesinde ekstra korumaya kavuşun
 upgrade-vpn-description = VPN konumunuzu seçin, tüm uygulamalarınızda ve 5 cihazınızda VPN kullanın. İster evde ister halka açık Wi-Fi ağlarında, her yerde güvende kalın.
 upgrade-vpn-button = { -mozilla-vpn-brand-name }’i deneyin

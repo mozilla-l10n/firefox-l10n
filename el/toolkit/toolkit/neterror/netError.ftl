@@ -193,9 +193,6 @@ fp-neterror-offline-intro = Το { -brand-short-name } δεν μπορεί να 
 fp-neterror-net-timeout-intro = Ο διακομιστής στο <strong>{ $hostname }</strong> αργεί πολύ να αποκριθεί.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = Το <strong>{ $hostname }</strong> επέστρεψε σφάλμα.
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Ο διακομιστής στο <strong>{ $hostname }</strong> επέστρεψε σφάλμα: { $responsestatus } { $responsestatustext }

@@ -889,19 +889,11 @@ urlbar-searchmode-actions =
     .label = Tigawin
 urlbar-searchmode-exit-button =
     .tooltiptext = Mdel
-urlbar-searchmode-default =
-    .tooltiptext = Amsedday n unadi amezwer
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Tikkelt-a, nadi s:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Iɣewwaren n unadi
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Amaynut
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Αποκρύψτε την τοποθεσία σας</a> κατά την περιήγηση στο { -brand-product-name }.
 unauthenticated-private-location-message = Βοηθά στο να <a data-l10n-name="learn-more-vpn">παραμένει ιδιωτική η τοποθεσία σας</a> στο { -brand-product-name }.
 unauthenticated-choose-location-message = Επιλέξτε ανάμεσα σε 5 τοποθεσίες ή αφήστε το { -brand-product-name } να επιλέξει την πιο γρήγορη.
-unauthenticated-hide-location-message-2 = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Λάβετε { $maxUsage } GB δωρεάν VPN κάθε μήνα.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = Λήψη του { -mozilla-vpn-bra
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = Το VPN είναι σε παύση
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση θα επιτραπεί ξανά τον επόμενο μήνα.
 upgrade-vpn-title = Λάβετε επιπλέον προστασία πέρα από το πρόγραμμα περιήγησης
 upgrade-vpn-description = Επιλέξτε την τοποθεσία του VPN σας, χρησιμοποιήστε το VPN για όλες σας τις εφαρμογές σε έως και 5 συσκευές και παραμείνετε ασφαλείς σε οποιοδήποτε δίκτυο, είτε στο σπίτι είτε σε δημόσιο Wi-Fi.
 upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }

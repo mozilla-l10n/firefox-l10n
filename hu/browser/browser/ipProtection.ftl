@@ -60,7 +60,6 @@ unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített 
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Rejtse el a tartózkodási helyét</a> böngészés közben a { -brand-product-name }ban.
 unauthenticated-private-location-message = Segít, hogy <a data-l10n-name="learn-more-vpn">bizalmas maradjon a tartózkodási helye</a> a { -brand-product-name }ban.
 unauthenticated-choose-location-message = Válasszon 5 hely közül, vagy hagyja, hogy a { -brand-product-name } válassza ki a leggyorsabbat.
-unauthenticated-hide-location-message-2 = Tartózkodási hely elrejtése böngészés közben a { -brand-product-name }ban.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Kapjon { $maxUsage } GB ingyenes VPN-adatot havonta.
@@ -114,10 +113,6 @@ ipprotection-locations-subview-promo-button = A { -mozilla-vpn-brand-name } besz
 
 ## VPN paused state
 
-ipprotection-connection-status-paused-title = VPN szüneteltetve
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Felhasználta a teljes { $maxUsage } GB-os VPN adatkeretét. A hozzáférés a következő hónapban fog visszaállni.
 upgrade-vpn-title = Kapjon további védelmet a böngészőn túl
 upgrade-vpn-description = Válassza ki a VPN helyét, használja az összes alkalmazásához és akár 5 eszközéhez, valamint maradjon biztonságban bármely hálózaton – otthon vagy nyilvános Wi-Fi-n.
 upgrade-vpn-button = Próbálja ki a { -mozilla-vpn-brand-name }-t

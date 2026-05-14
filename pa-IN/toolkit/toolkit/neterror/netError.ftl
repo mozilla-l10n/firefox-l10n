@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> ਤੋਂ ਸਰਵਰ ਜਵਾਬ ਦੇਣ ਲਈ ਬਹੁਤ ਲੰਮਾ ਸਮਾਂ ਲੈ ਰਿਹਾ ਹੈ।
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ਨੇ ਗ਼ਲਤੀ ਦਿੱਤੀ ਹੈ।
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> ਤੋਂ ਸਰਵਰ ਨੇ ਗਲਤੀ ਵਾਪਸ ਭੇਜੀ ਹੈ: { $responsestatus } { $responsestatustext }

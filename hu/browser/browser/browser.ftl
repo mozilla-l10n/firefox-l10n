@@ -961,23 +961,11 @@ urlbar-searchmode-actions =
     .label = Műveletek
 urlbar-searchmode-exit-button =
     .tooltiptext = Bezárás
-urlbar-searchmode-default =
-    .tooltiptext = Alapértelmezett keresőszolgáltatás
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Ezúttal keressen a következővel:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Keresés ezzel:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Keresési beállítások
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Új
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -987,10 +975,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nincs gyorsparancs kiválasztva, válasszon egyet
     .tooltiptext = Nincs gyorsparancs kiválasztva, válasszon egyet
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = A kulcsszavas keresés le van tiltva
-    .tooltiptext = A kulcsszavas keresés le van tiltva
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

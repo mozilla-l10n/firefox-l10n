@@ -973,23 +973,11 @@ urlbar-searchmode-actions =
     .label = Dejanja
 urlbar-searchmode-exit-button =
     .tooltiptext = Zapri
-urlbar-searchmode-default =
-    .tooltiptext = Privzeti iskalnik
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Tokrat išči z iskalnikom:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Išči z iskalnikom:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tokrat išči z iskalnikom:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavitve iskanja
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -999,10 +987,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ni izbrane bližnjice – izberite bližnjico
     .tooltiptext = Ni izbrane bližnjice – izberite bližnjico
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Iskanje po ključnih besedah je onemogočeno
-    .tooltiptext = Iskanje po ključnih besedah je onemogočeno
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

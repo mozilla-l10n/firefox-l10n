@@ -193,9 +193,6 @@ fp-neterror-offline-intro = { -brand-short-name } 无法连接到 <strong>{ $hos
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> 的服务器响应时间过长。
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> 发回一个错误。
-# Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> 的服务器发回一个错误：{ $responsestatus } { $responsestatustext }
