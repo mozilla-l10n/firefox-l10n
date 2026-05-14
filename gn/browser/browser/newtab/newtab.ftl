@@ -803,6 +803,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgets poravoha
     .aria-label = Embojuruja widgets poravoha
+newtab-widget-section-menu-manage = Eñangareko widgets
 newtab-widget-section-menu-hide-all = Eñomi widgets
 newtab-widget-section-menu-learn-more = Eikuaave
 newtab-widget-section-feedback = Ja’e mba’épa opensa
@@ -953,3 +954,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ko pa’ũ ohuga ambue tekoguatarãme
 newtab-activation-window-message-values-focus-message = { -brand-product-name } omoneĩ eikundahávo nde eipotahaichaite, ndeháicha eñepyrũ hag̃ua ne rembiapo ñandutípe. Emboava { -brand-product-name }.
+
+## Strings for the Clock widget
+
