@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgets menu
     .aria-label = Open widgets menu
+newtab-widget-section-menu-manage = Manage widgets
 newtab-widget-section-menu-hide-all = Hide widgets
 newtab-widget-section-menu-learn-more = Learn more
 newtab-widget-section-feedback = Tell us what you think
@@ -953,3 +954,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = This space plays by your rules
 newtab-activation-window-message-values-focus-message = { -brand-product-name } lets you browse the way you like, with a more personal way to start your day online. Make { -brand-product-name } your own.
+
+## Strings for the Clock widget
+
