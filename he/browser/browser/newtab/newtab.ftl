@@ -953,6 +953,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = תאריכי מפתח
 newtab-sports-widget-upcoming = המשחקים הבאים
+# Used for a match currently ongoing
+newtab-sports-widget-now = עכשיו
 newtab-sports-widget-results = תוצאות
 newtab-sports-widget-semi-finals = חצי גמר
 newtab-sports-widget-bronze-finals = משחק על מדליית הארד
