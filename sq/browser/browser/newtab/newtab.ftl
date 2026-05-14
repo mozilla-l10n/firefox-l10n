@@ -614,6 +614,9 @@ newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -
 newtab-new-user-custom-wallpaper-subtitle = Bëjeni çdo skedë të re t’ju duket si shtëpia juaj, me sfonde dhe ngjyra tuajat.
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Shkarkoni { -brand-product-name } për celular
@@ -716,6 +719,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizoji widget-et
     .aria-label = Tkurri krejt widget-et sa madhësia kompakte
+newtab-widget-section-menu-manage = Administroni widget-e
 newtab-widget-section-feedback = Tregonani si ju duket
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -753,6 +757,12 @@ newtab-promo-card-dismiss-button =
     .title = Hidhe tej
     .aria-label = Hidheni tej
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Sports widget
+
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -774,3 +784,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Kjo hapësirë u bindet rregullave tuaja
 newtab-activation-window-message-values-focus-message = { -brand-product-name }-i ju lejon të shfletoni si doni, me një mënyrë më personale për t’ia filluar ditës suaj në internet. Bëjeni { -brand-product-name }-in tuajin.
+
+## Strings for the Clock widget
+
