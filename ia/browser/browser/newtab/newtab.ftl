@@ -786,6 +786,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Celar widget
 newtab-widget-menu-change-size = Cambiar dimension
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Mover
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Sinistra
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Dextra
 newtab-widget-size-small = Parve
 newtab-widget-size-medium = Medie
 newtab-widget-size-large = Grande
@@ -802,6 +811,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu de widgets
     .aria-label = Aperir menu de widgets
+newtab-widget-add-widgets-button =
+    .aria-label = Adder widget
+    .title = Adder widget
 newtab-widget-section-menu-manage = Gerer widgets
 newtab-widget-section-menu-hide-all = Celar widgets
 newtab-widget-section-menu-learn-more = Pro saper plus
@@ -894,6 +906,7 @@ newtab-widget-timer-celebration-message-break = Preste a concentrar?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Sequer equipas
+newtab-sports-widget-menu-view-schedule = Vider agenda
 newtab-sports-widget-menu-view-upcoming = Vider incontros imminente
 newtab-sports-widget-menu-view-results = Visualisar resultatos
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -922,6 +935,8 @@ newtab-sports-widget-search-country =
     .placeholder = Cercar pais
     .aria-label = Cercar pais
 newtab-sports-widget-cancel = Cancellar
+newtab-sports-widget-back-button =
+    .aria-label = Retro
 newtab-sports-widget-done-button =
     .label = Facite
 newtab-sports-widget-group-stage = Phase de grouppos
@@ -936,6 +951,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Datas clave
 newtab-sports-widget-upcoming = Proximemente
+# Used for a match currently ongoing
+newtab-sports-widget-now = Ora
 newtab-sports-widget-results = Resultatos
 newtab-sports-widget-semi-finals = Semi-finales
 newtab-sports-widget-bronze-finals = Final pro le medalia de bronzo
