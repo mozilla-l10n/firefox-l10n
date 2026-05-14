@@ -24,6 +24,8 @@ neterror-override-exception-button = Ընդունել վտանգը և շարու
 neterror-pref-reset-button = Վերականգնել սկզբնադիր կարգավորումները
 neterror-return-to-previous-page-button = Հետ գնալ
 neterror-return-to-previous-page-recommended-button = Հետ գնալ (առաջարկվում է)
+neterror-try-again-button-2 = Կրկին փորձել
+    .accesskey = T
 neterror-try-again-button = Կրկին փորձել
 neterror-settings-button = Փոխել DNS-ի կարգավորումները
 neterror-view-certificate-link = Տեսնել արտոնագիրը
@@ -143,8 +145,10 @@ neterror-response-status-code = Սխալի կոդ՝ { $responsestatus } { $respo
 
 fp-neterror-connection-intro = { -brand-short-name }-ը չկարողացավ անվտանգ կապակցում հաստատել { $hostname } սպասարկիչի հետ։
 fp-neterror-offline-intro = { -brand-short-name }-ը չի կարողանում կապակցվել <strong>{ $hostname } </strong> սպասարկիչի հետ:
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> սպասարկիչը չափազանց երկար է պատասխանում։
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong>-ը սխալ է վերադարձրել։
 fp-neterror-offline-what-can-you-do-body = Փորձեք կապակցվել այլ սարքից։ Ստուգեք ձեր մոդեմը կամ երթուղիչը։ Անջատեք և վերամիացեք Wi-Fi-ին։
+fp-neterror-vpn-error-description = Փորձեք կրկին մի քանի րոպեից։
 fp-neterror-denied-port-access = Այս հասցեն օգտագործում է ցանցային պորտ, որը սովորաբար նախատեսված է զննարկման համար։ { -brand-short-name }-ը չեղարկեց հարցումը՝ Ձեր պաշտպանության նկատառումից ելնելով։
