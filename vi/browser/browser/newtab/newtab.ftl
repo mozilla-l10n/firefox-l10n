@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu widget
     .aria-label = Mở menu widget
+newtab-widget-section-menu-manage = Quản lý widget
 newtab-widget-section-menu-hide-all = Ẩn widget
 newtab-widget-section-menu-learn-more = Tìm hiểu thêm
 newtab-widget-section-feedback = Hãy cho chúng tôi biết suy nghĩ của bạn
