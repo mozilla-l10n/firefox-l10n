@@ -741,6 +741,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Osatuta ({ $number })
+newtab-widget-lists-celebration-headline = Lan ona
 newtab-widget-lists-celebration-subhead = Dena burututa
 newtab-widget-task-list-menu-copy = Kopiatu
 newtab-widget-lists-menu-edit = Editatu zerrendaren izena
@@ -852,13 +853,41 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Hasi minutu { $minutes }eko tenporizadorea
+           *[other] Hasi { $minutes } minutuko tenporizadorea
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Pausatu tenporizadorea
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] Minutu { $minutes }
+           *[other] { $minutes } minutu
+        }
+newtab-widget-timer-decrease-min =
+    .title = Kendu minutu bat
+newtab-widget-timer-increase-min =
+    .title = Gehitu minutu bat
 newtab-widget-timer-mode-group =
     .aria-label = Tenporizadorearen modua
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Kontzentrazioa
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Atsedena
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Lan bikaina
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Atsedeneko denbora amaitu da
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = Atsedenaldia behar duzu?
 # Message shown inside the Timer widget after a break session ends.
