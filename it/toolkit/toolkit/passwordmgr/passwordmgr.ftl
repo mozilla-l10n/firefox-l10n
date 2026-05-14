@@ -35,3 +35,4 @@ primary-password-prompt-message = Inserire la password principale.
 password-manager-no-username-placeholder = Nessun nome utente
 password-manager-confirm-password-change = Conferma cambio password
 password-manager-select-username = Selezionare le credenziali di accesso da aggiornare:
+
