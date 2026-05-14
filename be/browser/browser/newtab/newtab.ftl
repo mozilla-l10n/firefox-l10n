@@ -808,6 +808,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Меню віджэтаў
     .aria-label = Адкрыць меню віджэтаў
+newtab-widget-section-menu-manage = Кіраванне віджэтамі
 newtab-widget-section-menu-hide-all = Схаваць віджэты
 newtab-widget-section-menu-learn-more = Падрабязней
 newtab-widget-section-feedback = Раскажыце нам, што вы думаеце
