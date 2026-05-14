@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Neaktualizovat
     .accesskey = N
+primary-password-prompt-message = Zadejte prosím své hlavní heslo.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Žádné uživatelské jméno
 password-manager-confirm-password-change = Potvrzení změny hesla
