@@ -794,6 +794,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = ウィジェットメニューを開きます
     .aria-label = ウィジェットメニューを開く
+newtab-widget-section-menu-manage = ウィジェットを管理
 newtab-widget-section-menu-hide-all = ウィジェットを隠す
 newtab-widget-section-menu-learn-more = 詳細情報
 newtab-widget-section-feedback = ご感想をお寄せください
