@@ -650,6 +650,9 @@ newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product
 newtab-new-user-custom-wallpaper-subtitle = Počutite se kot doma na vsakem novem zavihku s poljubnim ozadjem in barvami.
 newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Prenesite { -brand-product-name } za mobilne naprave
@@ -773,6 +776,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Meni Pripomočki
     .aria-label = Odpri meni pripomočkov
+newtab-widget-section-menu-manage = Upravljanje pripomočkov
 newtab-widget-section-menu-hide-all = Skrij pripomočke
 newtab-widget-section-menu-learn-more = Več o tem
 newtab-widget-section-feedback = Povejte nam svoje mnenje
@@ -876,3 +880,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ta prostor igra po vaših pravilih
+
+## Strings for the Clock widget
+
