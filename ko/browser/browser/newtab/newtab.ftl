@@ -788,6 +788,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = 위젯
 newtab-widget-menu-hide = 위젯 숨기기
 newtab-widget-menu-change-size = 크기 변경
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = 이동
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = 왼쪽
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = 오른쪽
 newtab-widget-size-small = 작게
 newtab-widget-size-medium = 중간
 newtab-widget-size-large = 크게
@@ -804,6 +813,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = 위젯 메뉴
     .aria-label = 위젯 메뉴 열기
+newtab-widget-add-widgets-button =
+    .aria-label = 위젯 추가
+    .title = 위젯 추가
 newtab-widget-section-menu-manage = 위젯 관리
 newtab-widget-section-menu-hide-all = 위젯 숨기기
 newtab-widget-section-menu-learn-more = 더 알아보기
@@ -888,6 +900,7 @@ newtab-widget-timer-celebration-message-break = 집중할 준비가 되었나요
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = 팀 팔로우
+newtab-sports-widget-menu-view-schedule = 일정 보기
 newtab-sports-widget-menu-view-upcoming = 예정된 경기 보기
 newtab-sports-widget-menu-view-results = 결과 보기
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -912,6 +925,8 @@ newtab-sports-widget-search-country =
     .placeholder = 국가 검색
     .aria-label = 국가 검색
 newtab-sports-widget-cancel = 취소
+newtab-sports-widget-back-button =
+    .aria-label = 뒤로
 newtab-sports-widget-done-button =
     .label = 완료
 newtab-sports-widget-group-stage = 조별 예선
@@ -926,6 +941,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = 주요 날짜
 newtab-sports-widget-upcoming = 예정된 경기
+# Used for a match currently ongoing
+newtab-sports-widget-now = 지금
 newtab-sports-widget-results = 결과
 newtab-sports-widget-semi-finals = 준결승
 newtab-sports-widget-bronze-finals = 동메달 결정전
