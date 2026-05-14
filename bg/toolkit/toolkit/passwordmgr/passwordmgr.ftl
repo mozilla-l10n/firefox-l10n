@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Отказ
     .accesskey = з
+primary-password-prompt-message = Моля, въведете вашата главна парола.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Няма потребителско име
 password-manager-confirm-password-change = Потвърждение на смяна на парола
