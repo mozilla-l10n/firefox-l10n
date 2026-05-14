@@ -802,6 +802,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu Widgets
     .aria-label = Ouvrir le menu des widgets
+newtab-widget-section-menu-manage = Gérer les widgets
 newtab-widget-section-menu-hide-all = Masquer les widgets
 newtab-widget-section-menu-learn-more = En savoir plus
 newtab-widget-section-feedback = Donnez-nous votre avis
