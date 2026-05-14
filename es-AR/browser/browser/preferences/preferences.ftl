@@ -874,6 +874,9 @@ browsing-search-on-start-typing =
     .accesskey = x
 settings-media-group =
     .label = Medios
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Usar Picture-in-Picture
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Habilitar controles de video picture-in-picture
     .accesskey = e
@@ -884,6 +887,8 @@ browsing-picture-in-picture-learn-more = Conocer más
 browsing-media-control =
     .label = Controle los medios con el teclado, los auriculares o la interfaz virtual
     .accesskey = v
+recommendations-group =
+    .label = Recomendaciones
 browsing-media-control-learn-more = Conocer más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
@@ -1277,6 +1282,7 @@ account-placeholder =
     .description = Inicie sesión para mantener los datos privados, cifrados y sincronizados entre dispositivos.
 account-sync-section =
     .heading = Cuenta y sincronización
+pane-account-sync-title = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1730,6 +1736,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Configuración de contraseñas y autocompletado
+pane-passwords-autofill-title = Contraseñas y autocompletado
+preferences-passwords-autofill-header =
+    .heading = Contraseñas y autocompletado
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

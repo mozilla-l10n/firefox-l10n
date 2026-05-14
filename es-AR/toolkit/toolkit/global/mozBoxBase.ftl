@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Se abre en una nueva pestaña
+moz-box-item-reorder-handle =
+    .aria-label = Reordenar elemento usando Ctrl+May+Flecha arriba o Ctrl+May+Flecha abajo
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Reordenar { $item } usando Ctrl+May+Flecha arriba o Ctrl+May+Flecha abajo
