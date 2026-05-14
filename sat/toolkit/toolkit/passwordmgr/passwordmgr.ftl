@@ -24,6 +24,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = ᱟᱞᱚᱢ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱟ
     .accesskey = D
+primary-password-prompt-message = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱵᱟᱹᱱᱩᱜᱼᱟ
 password-manager-confirm-password-change = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱜᱚᱴᱟ
