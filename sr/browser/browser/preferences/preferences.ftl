@@ -2676,7 +2676,7 @@ related-settings-home-link =
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = Увек имате избор у { -brand-short-name }, укључујући и то да ли желите да користите функције побољшане помоћу ВИ-а. Више контрола стиже ускоро.
+preferences-ai-controls-description = Увек имате избор у { -brand-short-name }-у, укључујући и то да ли желите да користите функције побољшане помоћу ВИ-а. Више контрола стиже ускоро.
 preferences-ai-controls-block-ai-label = Блокирај ВИ побољшања
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
