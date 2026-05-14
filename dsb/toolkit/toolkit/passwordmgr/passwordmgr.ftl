@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Njeaktualizěrowaś
     .accesskey = N
+primary-password-prompt-message = Pšosym zapódajśo swójo głowne gronidło.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Žedno wužywaŕske mě
 password-manager-confirm-password-change = Změnjenje gronidła wobkšuśiś
