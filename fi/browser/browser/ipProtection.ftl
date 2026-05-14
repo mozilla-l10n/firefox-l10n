@@ -56,6 +56,7 @@ ipprotection-location-selection-callout-secondary-button = Hylkää
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
+unauthenticated-private-location-message = Auttaa <a data-l10n-name="learn-more-vpn">pitämään sijaintisi yksityisenä</a> { -brand-product-name }issa.
 unauthenticated-choose-location-message = Valitse viidestä sijainnista tai anna { -brand-product-name }in valita nopein.
 unauthenticated-hide-location-message-2 = Piilota sijaintisi selatessasi { -brand-product-name }illa.
 # Variables
