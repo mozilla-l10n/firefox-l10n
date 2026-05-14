@@ -170,7 +170,7 @@ policy-RelaunchRequired =
 policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazení aplikace, v pořadí podle preference.
 policy-SanitizeOnShutdown2 = Vymazání dat o prohlížení během vypnutí.
 policy-SearchBar = Nastavení výchozího umístění vyhledávacího pole. Uživatel ho může přemístit.
-policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
+policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s prodlouženou podporou (ESR).
 policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávání dotazů pro vyhledávač.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Přidání nebo odebrání modulů PKCS #11.
