@@ -912,6 +912,7 @@ newtab-widget-timer-celebration-message-break = Sei pronto a concentrarti?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Segui squadre
+newtab-sports-widget-menu-view-schedule = Vedi il calendario
 newtab-sports-widget-menu-view-upcoming = Visualizza in arrivo
 newtab-sports-widget-menu-view-results = Visualizza risultati
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
