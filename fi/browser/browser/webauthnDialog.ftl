@@ -12,11 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Väärä PIN-koodi. Yritä uudelleen.
 webauthn-pin-required-prompt = Anna laitteesi PIN-koodi.
 webauthn-select-sign-result-unknown-account = Tuntematon tili
-webauthn-a-passkey-label = Käytä todentamisavainta
-webauthn-another-passkey-label = Käytä toista todentamisavainta
+webauthn-a-passkey-label = Käytä pääsyavainta
+webauthn-another-passkey-label = Käytä toista pääsyavainta
 # Variables:
 #   $domain (String): the domain of the site.
-webauthn-specific-passkey-label = Sivuston { $domain } todentamisavain
+webauthn-specific-passkey-label = Sivuston { $domain } pääsyavain
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
@@ -68,3 +68,13 @@ webauthn-allow = Salli
     .accesskey = A
 webauthn-block = Estä
     .accesskey = B
+webauthn-continue = Jatka
+    .accesskey = J
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } haluaa luoda pääsyavaimen verkkotunnukselle { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } haluaa käyttää pääsyavainta verkkotunnukselle { $rpId }.
