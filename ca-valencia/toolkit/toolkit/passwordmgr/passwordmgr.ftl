@@ -24,6 +24,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = No actualitzes
     .accesskey = N
+primary-password-prompt-message = Introduïu la contrasenya principal.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Cap nom d'usuari
 password-manager-confirm-password-change = Confirmeu el canvi de contrasenya
