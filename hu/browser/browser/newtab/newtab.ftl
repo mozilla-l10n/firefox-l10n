@@ -806,6 +806,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Kisalkalmazások menü
     .aria-label = Kisalkalmazások menü megnyitása
+newtab-widget-section-menu-manage = Kisalkalmazások kezelése
 newtab-widget-section-menu-hide-all = Kisalkalmazások elrejtése
 newtab-widget-section-menu-learn-more = További tudnivalók
 newtab-widget-section-feedback = Mondja el nekünk mit gondol
