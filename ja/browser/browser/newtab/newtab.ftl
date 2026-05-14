@@ -883,22 +883,6 @@ newtab-sports-widget-menu-follow-teams = チームをフォロー
 newtab-sports-widget-menu-view-upcoming = 最新情報を見る
 newtab-sports-widget-menu-view-results = 結果を見る
 newtab-sports-widget-menu-learn-more = 詳細情報
-newtab-sports-widget-countdown-title = ワールドカップへのカウントダウン
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = 日
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = 時間
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = 分
 newtab-sports-widget-get-updates = 試合の最新情報などをリアルタイムでお届けします。
 newtab-sports-widget-view-schedule =
     .label = スケジュールを見る
@@ -907,9 +891,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = 壁紙を選ぶ
 newtab-sports-widget-skip = スキップ
-newtab-sports-widget-search-teams =
-    .placeholder = チームを検索します
-    .aria-label = チームを検索
 newtab-sports-widget-done-button =
     .label = 完了
 newtab-sports-widget-group-stage = グループステージ
@@ -958,3 +939,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = ここはあなただけのスペースです
 newtab-activation-window-message-values-focus-message = { -brand-product-name } でブラウジングすると、お好みの方法でオンラインの一日を始められます。あなただけの { -brand-product-name } にしましょう。
+
+## Strings for the Clock widget
+
