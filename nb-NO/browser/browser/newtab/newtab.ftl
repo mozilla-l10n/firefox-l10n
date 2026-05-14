@@ -789,6 +789,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgeter
 newtab-widget-menu-hide = Skjul widget
 newtab-widget-menu-change-size = Endre størrelse
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Flytt
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Venstre
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Høyre
 newtab-widget-size-small = Liten
 newtab-widget-size-medium = Mellomstor
 newtab-widget-size-large = Stor
@@ -805,6 +814,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widget-meny
     .aria-label = Åpne widget-menyen
+newtab-widget-add-widgets-button =
+    .aria-label = Legg til widget
+    .title = Legg til widget
 newtab-widget-section-menu-manage = Behandle widgeter
 newtab-widget-section-menu-hide-all = Skjul widgeter
 newtab-widget-section-menu-learn-more = Les mer
@@ -892,6 +904,7 @@ newtab-widget-timer-celebration-message-break = Klar til å fokusere?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Følg lag
+newtab-sports-widget-menu-view-schedule = Se kampoppsettet
 newtab-sports-widget-menu-view-upcoming = Vis kommende
 newtab-sports-widget-menu-view-results = Vis resultater
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -919,6 +932,8 @@ newtab-sports-widget-search-country =
     .placeholder = Søk etter land
     .aria-label = Søk etter land
 newtab-sports-widget-cancel = Avbryt
+newtab-sports-widget-back-button =
+    .aria-label = Tilbake
 newtab-sports-widget-done-button =
     .label = Ferdig
 newtab-sports-widget-group-stage = Gruppespill
@@ -933,6 +948,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Viktige datoer
 newtab-sports-widget-upcoming = Kommende
+# Used for a match currently ongoing
+newtab-sports-widget-now = Nå
 newtab-sports-widget-results = Resultater
 newtab-sports-widget-semi-finals = Semifinaler
 newtab-sports-widget-bronze-finals = Bronsefinale
