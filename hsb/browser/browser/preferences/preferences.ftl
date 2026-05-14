@@ -1748,6 +1748,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Nastajenja za hesła a awtomatiske wupjelnjenje
+pane-passwords-autofill-title = Hesła a awtomatiske wupjelnjenje
+preferences-passwords-autofill-header =
+    .heading = Hesła a awtomatiske wupjelnjenje
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

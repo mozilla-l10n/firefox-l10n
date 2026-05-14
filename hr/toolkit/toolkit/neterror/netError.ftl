@@ -25,6 +25,8 @@ neterror-override-exception-button = Prihvati rizik i nastavi
 neterror-pref-reset-button = Obnovi standardne postavke
 neterror-return-to-previous-page-button = Idi natrag
 neterror-return-to-previous-page-recommended-button = Natrag (preporučeno)
+neterror-try-again-button-2 = Pokušaj ponovo
+    .accesskey = P
 neterror-try-again-button = Pokušaj ponovo
 neterror-add-exception-button = Uvijek nastavi za ovu stranicu
 neterror-settings-button = Promijeni postavke DNS-a
@@ -147,6 +149,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ukoliko se nal
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Sat tvog računala postavljen je na { DATETIME($now, dateStyle: "medium") }. Provjeri datum, vrijeme i vremensku zonu u postavkama sustava i onda aktualiziraj <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web stranice o ovom problemu.
+certerror-bad-cert-domain-what-can-you-do-about-it = Problem se najvjerojatnije nalazi u web stranici i ne možeš ništa učiniti, kako bi se problem riješio. Možeš obavijestiti administratora web stranice o ovom problemu.
 certerror-mitm-what-can-you-do-about-it-antivirus = Ukoliko tvoj antivirusni program uključuje funkciju skeniranja sigurnih veza (često zove „web skeniranje” ili „https skeniranje”), možeš isključiti ovu funkciju. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.
 certerror-mitm-what-can-you-do-about-it-corporate = Ako se nalaziš u korporativnoj mreži, možeš kontaktirati svoj IT odjel.
 # Variables:
@@ -168,4 +171,7 @@ neterror-response-status-code = Kod greške: { $responsestatus } { $responsestat
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = { -brand-short-name } ne može uspostaviti vezu sa serverom { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } se ne može povezati sa serverom na <strong>{ $hostname }</strong>
+fp-neterror-vpn-error-description = Pokušaj ponovo za par minuta.
 fp-neterror-denied-port-access = Ova adresa koristi mrežni priključak koji se obično koristi u druge svrhe osim pregledavanja weba. { -brand-short-name } je otkazao zahtjev radi tvoje zaštite.
