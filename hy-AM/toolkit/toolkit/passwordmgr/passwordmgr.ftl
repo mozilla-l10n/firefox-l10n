@@ -29,6 +29,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Չթարմացնել
     .accesskey = Չ
+primary-password-prompt-message = Մուտքագրեք Հիմնական գաղտնաբառը։
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Չկա օգտվողի անուն
 password-manager-confirm-password-change = Հաստատեք գաղտնաբառի փոփոխությունը
