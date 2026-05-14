@@ -788,6 +788,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Виджеты
 newtab-widget-menu-hide = Скрыть виджет
 newtab-widget-menu-change-size = Изменить размер
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Переместить
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Влево
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Вправо
 newtab-widget-size-small = Маленький
 newtab-widget-size-medium = Средний
 newtab-widget-size-large = Большой
@@ -804,6 +813,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Меню виджетов
     .aria-label = Открыть меню виджетов
+newtab-widget-add-widgets-button =
+    .aria-label = Добавить виджет
+    .title = Добавить виджет
 newtab-widget-section-menu-manage = Управление виджетами
 newtab-widget-section-menu-hide-all = Скрыть виджеты
 newtab-widget-section-menu-learn-more = Подробнее
@@ -898,6 +910,7 @@ newtab-widget-timer-celebration-message-break = Готовы сфокусиро�
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Подписаться на команды
+newtab-sports-widget-menu-view-schedule = Просмотреть расписание
 newtab-sports-widget-menu-view-upcoming = Просмотреть предстоящие
 newtab-sports-widget-menu-view-results = Просмотреть результаты
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
