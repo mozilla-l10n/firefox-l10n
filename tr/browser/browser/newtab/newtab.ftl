@@ -802,6 +802,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Araçlar menüsü
     .aria-label = Araçlar menüsünü aç
+newtab-widget-section-menu-manage = Araçları yönet
 newtab-widget-section-menu-hide-all = Araçları gizle
 newtab-widget-section-menu-learn-more = Daha fazla bilgi al
 newtab-widget-section-feedback = Ne düşündüğünüzü bize anlatın
