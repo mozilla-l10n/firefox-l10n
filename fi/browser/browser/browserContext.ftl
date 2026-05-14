@@ -299,6 +299,8 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Lähetä mobiililaitteeseen
     .accesskey = n
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-sign-in = Kirjaudu sisään lähettääksesi välilehtiä
 main-context-menu-send-to-mobile-enable-sync2 = Ota synkronointi käyttöön lähettääksesi välilehden
 main-context-menu-send-to-mobile-connect-phone2 = Yhdistä puhelimesi
 main-context-menu-send-to-mobile-device-missing2 = Etkö näe laitettasi?

@@ -18,6 +18,9 @@ firefox-relay-must-login-to-account = Skráðu þig inn á reikninginn þinn til
 firefox-relay-get-unlimited-masks =
     .label = Sýsla með tölvupósthulur
     .accesskey = m
+firefox-relay-dismiss =
+    .label = Afgreiða
+    .accesskey = g
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Verndaðu tölvupóstfangið þitt:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
@@ -74,6 +77,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Fáðu ókeypis tölvupósthulu
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Verndaðu pósthólfið þitt fyrir ruslpósti með ókeypis <label data-l10n-name="firefox-relay-learn-more-url">tölvupósthulu</label> sem felur raunverulegt tölvupóstfang þitt. Tölvupóstur frá <label data-l10n-name="firefox-fxa-and-relay-offer-domain">þessu léni</label> mun áfram berast í pósthólfið þitt, en með tölvupóstfangið þitt falið.
 firefox-relay-and-fxa-popup-notification-first-sentence = Verndaðu pósthólfið þitt fyrir ruslpósti með ókeypis <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } tölvupósthulu</label> sem felur raunverulegt tölvupóstfang þitt. Tölvupóstur frá <label data-l10n-name="firefox-fxa-and-relay-offer-domain">þessu léni</label> mun áfram berast í pósthólfið þitt, en með tölvupóstfangið þitt falið.
+firefox-relay-offer-why-to-use-relay-1 = Verndaðu pósthólfið þitt fyrir ruslpósti með ókeypis <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } tölvupósthulu</label> sem felur raunverulegt tölvupóstfang þitt. Tölvupóstur frá <label data-l10n-name="firefox-fxa-and-relay-offer-domain">þessu léni</label> mun áfram berast í pósthólfið þitt, en með tölvupóstfangið þitt falið.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Fyrst skaltu nýskrá þig eða skrá þig inn á reikninginn þinn til að nota tölvupósthulu
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Nýskrá

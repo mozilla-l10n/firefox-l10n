@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Valitse profiili
 preferences-copy-profile-button = Kopioi
+tabs-browsing-section =
+    .heading = Välilehdet ja selaaminen
+pane-tabs-browsing-title = Välilehdet ja selaaminen
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Välilehdet
 tabs-opening-heading =
@@ -728,6 +732,9 @@ update-history-2 =
     .accesskey = N
 update-application-installation =
     .label = Asennus
+update-application-auto-2 =
+    .label = Asenna päivitykset automaattisesti (suositus)
+    .accesskey = A
 update-history =
     .label = Näytä päivityshistoria…
     .accesskey = N
@@ -855,6 +862,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Ala etsiä tekstistä heti kirjoitettaessa
     .accesskey = A
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Käytä kuva kuvassa -toimintoa
+    .accesskey = ä
 browsing-picture-in-picture-toggle-enabled =
     .label = Käytä kuva kuvassa -video-ohjaimia
     .accesskey = K
@@ -865,6 +877,8 @@ browsing-picture-in-picture-learn-more = Lue lisää
 browsing-media-control =
     .label = Ohjaa mediaa näppäimistön, kuulokemikrofonin tai virtuaalisen käyttöliittymän kautta
     .accesskey = O
+recommendations-group =
+    .label = Suositukset
 browsing-media-control-learn-more = Lue lisää
 browsing-cfr-recommendations =
     .label = Suosittele laajennuksia selaamisen yhteydessä
@@ -1267,6 +1281,7 @@ account-placeholder =
     .description = Kirjaudu sisään pitääksesi tietosi yksityisinä, salattuna ja synkronoituna laitteiden välillä.
 account-sync-section =
     .heading = Tili ja synkronointi
+pane-account-sync-title = Tili ja synkronointi
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1725,6 +1740,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Salasanat ja automaattisen täytön asetukset
+pane-passwords-autofill-title = Salasanat ja automaattinen täyttö
+preferences-passwords-autofill-header =
+    .heading = Salasanat ja automaattinen täyttö
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

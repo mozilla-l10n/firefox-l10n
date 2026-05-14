@@ -1279,6 +1279,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synkronoidut välilehdet
     .tooltiptext = Näytä muiden laitteiden välilehdet
+toolbar-button-send-tab =
+    .label = Lähetä välilehti
+    .tooltiptext = Lähetä nykyinen välilehti toiselle laitteelle
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1491,6 +1494,9 @@ reset-pbm-panel-confirm-button =
     .label = Poista istunnon tiedot
     .accesskey = o
 reset-pbm-panel-complete = Yksityisen istunnon tiedot poistettu
+reset-pbm-toolbar-button2 =
+    .label = Tyhjennä yksityinen istunto
+    .tooltiptext = Tyhjennä yksityinen istunto
 
 ## Autorefresh blocker
 
