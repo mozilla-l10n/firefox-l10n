@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Güncelleme
     .accesskey = m
+primary-password-prompt-message = Lütfen ana parolanızı girin.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Kullanıcı adı yok
 password-manager-confirm-password-change = Parola değişimini onaylayın
