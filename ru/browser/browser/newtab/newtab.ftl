@@ -940,6 +940,8 @@ newtab-sports-widget-search-country =
     .placeholder = Поиск страны
     .aria-label = Поиск страны
 newtab-sports-widget-cancel = Отмена
+newtab-sports-widget-back-button =
+    .aria-label = Назад
 newtab-sports-widget-done-button =
     .label = Готово
 newtab-sports-widget-group-stage = Групповой этап
@@ -954,6 +956,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Ключевые даты
 newtab-sports-widget-upcoming = Предстоящие
+# Used for a match currently ongoing
+newtab-sports-widget-now = Сейчас
 newtab-sports-widget-results = Результаты
 newtab-sports-widget-semi-finals = Полуфиналы
 newtab-sports-widget-bronze-finals = Игра за третье место
