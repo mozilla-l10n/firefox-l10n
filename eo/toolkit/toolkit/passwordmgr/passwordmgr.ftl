@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Ne ĝisdatigi
     .accesskey = N
+primary-password-prompt-message = Bonvolu tajpi vian ĉefan pasvorton.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Neniu nomo de uzanto
 password-manager-confirm-password-change = Konfirmi ŝanĝon de pasvorto
