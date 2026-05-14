@@ -117,6 +117,10 @@ sidebar-item-session-history = Saioko historia
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Erakutsi saioko historiaren datuak
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Saioko historiaren diagrama ez dago erabilgarri
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Helburuak ez du onartzen saioko historiaren diagramak erakustea
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Abisu-ikonoa

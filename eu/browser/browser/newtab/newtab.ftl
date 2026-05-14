@@ -852,9 +852,17 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausatu tenporizadorea
+newtab-widget-timer-mode-group =
+    .aria-label = Tenporizadorearen modua
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Atsedenaldia behar duzu?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Kontzentratzeko prest?
 
 ## Sports widget
 
@@ -871,6 +879,8 @@ newtab-sports-widget-view-schedule =
     .label = Ikusi ordutegia
 newtab-sports-widget-follow-teams =
     .label = Jarraitu taldeak
+newtab-sports-widget-view-matches =
+    .label = Ikusi partidak
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -888,17 +898,29 @@ newtab-sports-widget-cancel = Utzi
 newtab-sports-widget-done-button =
     .label = Eginda
 newtab-sports-widget-group-stage = Multzokako fasea
+newtab-sports-widget-round-32 = Final hogeita hamabirenak
+newtab-sports-widget-round-16 = Final hamaseirenak
+newtab-sports-widget-quarter-finals = Final laurdenak
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ZUZENEAN
 newtab-custom-widget-live-refresh =
     .title = Berritu emaitzak
     .aria-label = Berritu emaitzak
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Data garrantzitsuak
 newtab-sports-widget-upcoming = Hurrengoak
 newtab-sports-widget-results = Emaitzak
 newtab-sports-widget-semi-finals = Finalerdiak
 newtab-sports-widget-bronze-finals = Brontzerako finala
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finala
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Atzeratuta
 newtab-sports-widget-postponed = Atzeratuta
 newtab-sports-widget-suspended = Bertan behera utzita
@@ -907,7 +929,10 @@ newtab-sports-widget-information = Partidari buruzko informazioa
 newtab-sports-widget-no-live-data = Partiden zuzeneko informazioa ez da eguneratzen ari une honetan
 newtab-sports-widget-view-results-link = Ikusi emaitzak
 newtab-sports-widget-third-place = Hirugarren postua
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Txapeldunordea
 newtab-sports-widget-champions = Txapeldunak
+newtab-sports-widget-world-cup-champions = 2026ko Munduko Koparen Txapeldunak
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -933,5 +958,56 @@ newtab-activation-window-message-values-focus-message = Nahi duzun erara nabigat
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Ezkutatu erlojua
+newtab-clock-widget-menu-learn-more = Argibide gehiago
+newtab-clock-widget-menu-edit = Editatu erlojuak
+newtab-clock-widget-menu-switch-to-12h = Aldatu 12 orduko formatura
+newtab-clock-widget-menu-switch-to-24h = Aldatu 24 orduko formatura
+newtab-clock-widget-label-your-clocks = Zure erlojuak
+newtab-clock-widget-search-location-input =
+    .label = Kokapena
+    .placeholder = Bilatu hiria
+    .aria-label = Bilatu hiria
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Ezizena (aukerakoa)
+    .placeholder = Gehitu ezizena
+    .aria-label = Ezizena (aukerakoa)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Gehitu erloju berria
+    .aria-label = Gehitu erloju berria
+newtab-clock-widget-button-add-clock = Gehitu
+newtab-clock-widget-button-cancel = Utzi
+newtab-clock-widget-button-back =
+    .title = Atzera
+    .aria-label = Atzera
+newtab-clock-widget-button-edit-clock =
+    .title = Editatu erlojua
+    .aria-label = Editatu erlojua
+newtab-clock-widget-button-save = Gorde
+newtab-clock-widget-button-remove-clock =
+    .title = Kendu erlojua
+    .aria-label = Kendu erlojua
+newtab-clock-widget-add-clock-form =
+    .aria-label = Gehitu erlojua
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Editatu erlojua
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Bilaketaren emaitzak
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Ireki erlojuaren menua
+    .aria-label = Ireki erlojuaren menua
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Ezizena: { $nickname }
