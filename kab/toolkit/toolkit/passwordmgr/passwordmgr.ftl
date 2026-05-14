@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Ur lqem ara
     .accesskey = U
+primary-password-prompt-message = Ttxil-k·m sekcem awal-inek·inem uffir agejdan.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Ulac isem n useqdac
 password-manager-confirm-password-change = Sentem asnifel n wawal uffir
