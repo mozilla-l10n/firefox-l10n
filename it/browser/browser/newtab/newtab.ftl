@@ -792,6 +792,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Nascondi widget
 newtab-widget-menu-change-size = Cambia dimensione
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Sposta
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = A sinistra
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = A destra
 newtab-widget-size-small = Piccola
 newtab-widget-size-medium = Media
 newtab-widget-size-large = Grande
@@ -808,6 +817,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu widget
     .aria-label = Apri il menu widget
+newtab-widget-add-widgets-button =
+    .aria-label = Aggiungi widget
+    .title = Aggiungi widget
 newtab-widget-section-menu-manage = Gestisci widget
 newtab-widget-section-menu-hide-all = Nascondi widget
 newtab-widget-section-menu-learn-more = Ulteriori informazioni
