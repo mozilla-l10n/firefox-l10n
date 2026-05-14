@@ -834,6 +834,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Nabídka widgetů
     .aria-label = Otevřít nabídku widgetů
+newtab-widget-section-menu-manage = Spravovat widgety
 newtab-widget-section-menu-hide-all = Skrýt widgety
 newtab-widget-section-menu-learn-more = Zjistit více
 newtab-widget-section-feedback = Sdělte nám svůj názor
