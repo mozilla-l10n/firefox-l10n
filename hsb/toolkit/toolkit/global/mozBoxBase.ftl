@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Wočinja w nowym rajtarku
+moz-box-item-reorder-handle =
+    .aria-label = Přerjadujće zapisk z pomocu Strg+Umsch+Šipk horje abo Strg+Umsch+Šipk dele
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Přerjadujće { $item } z pomocu Strg+Umsch+Šipk horje abo Strg+Umsch+Šipk dele

@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Wócynja w nowem rejtariku
+moz-box-item-reorder-handle =
+    .aria-label = Pśerědujśo zapisk z pomocu Strg+Umsch+Šypka górjej abo Strg+Umsch+Šypka dołoj
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Pśerědujśo { $item } z pomocu Strg+Umsch+Šypka górjej abo Strg+Umsch+Šypka dołoj
