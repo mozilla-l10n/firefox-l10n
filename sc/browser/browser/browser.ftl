@@ -935,23 +935,11 @@ urlbar-searchmode-actions =
     .label = Atziones
 urlbar-searchmode-exit-button =
     .tooltiptext = Serra
-urlbar-searchmode-default =
-    .tooltiptext = Motore de chirca predefinidu
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Custa borta chirca cun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-sticky-description-menucaption =
-    .label = Chirca cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Custa borta chirca cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cunfiguratzione de chirca
-# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
-urlbar-searchmode-new = Nou
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -961,10 +949,6 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nissunu curtzadòrgiu seletzionadu, sèbera·nde unu
     .tooltiptext = Nissunu curtzadòrgiu seletzionadu, sèbera·nde unu
-# Refers to the ability to search using keywords in the address bar
-urlbar-searchmode-no-keyword =
-    .label = Sa chirca pro faeddu-crae est istudada
-    .tooltiptext = Sa chirca pro faeddu-crae est istudada
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

@@ -576,11 +576,6 @@ containers-settings-button =
 containers-remove-button =
     .label = తొలగించు
 
-## Account and sync
-
-account-group-label =
-    .label = { -vendor-short-name } ఖాతా
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 

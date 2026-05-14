@@ -1065,11 +1065,6 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizazion
-account-group-label =
-    .label = Account { -vendor-short-name }
-account-placeholder =
-    .label = No tu âs fat l’acès
-    .description = Jentre par mantignî i tiei dâts privâts, cifrâts e sincronizâts su ducj i dispositîfs.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1192,9 +1187,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Tu stâs sincronizant chescj elements su ducj i dispositîfs conetûts:
 sync-syncing-across-devices-heading-2 = Dâts sincronizâts tra dispositîfs
-sync-syncing-across-devices-empty-state =
-    .label = Non tu stâs ancjemò sincronizant nuie…
-    .description = Invie la sincronizazion par recuperâ ducj i tiei dâts su ducj i tiei dispositîfs.
 sync-currently-syncing-bookmarks = Segnelibris
 sync-currently-syncing-history = Cronologjie
 sync-currently-syncing-tabs = Schedis viertis

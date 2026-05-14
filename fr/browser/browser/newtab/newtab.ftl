@@ -786,6 +786,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Masquer le widget
 newtab-widget-menu-change-size = Modifier la taille
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Déplacer
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = À gauche
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = À droite
 newtab-widget-size-small = Petite
 newtab-widget-size-medium = Moyenne
 newtab-widget-size-large = Grande
@@ -802,6 +811,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu Widgets
     .aria-label = Ouvrir le menu des widgets
+newtab-widget-add-widgets-button =
+    .aria-label = Ajouter le widget
+    .title = Ajouter le widget
 newtab-widget-section-menu-manage = Gérer les widgets
 newtab-widget-section-menu-hide-all = Masquer les widgets
 newtab-widget-section-menu-learn-more = En savoir plus
@@ -894,6 +906,7 @@ newtab-widget-timer-celebration-message-break = Prêt·e à vous concentrer ?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Suivre des équipes
+newtab-sports-widget-menu-view-schedule = Voir le calendrier
 newtab-sports-widget-menu-view-upcoming = Voir les matchs à venir
 newtab-sports-widget-menu-view-results = Voir les résultats
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -922,6 +935,8 @@ newtab-sports-widget-search-country =
     .placeholder = Rechercher un pays
     .aria-label = Rechercher un pays
 newtab-sports-widget-cancel = Annuler
+newtab-sports-widget-back-button =
+    .aria-label = Retour
 newtab-sports-widget-done-button =
     .label = Terminé
 newtab-sports-widget-group-stage = Phase de groupes
@@ -936,6 +951,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Dates clés
 newtab-sports-widget-upcoming = À venir
+# Used for a match currently ongoing
+newtab-sports-widget-now = Maintenant
 newtab-sports-widget-results = Résultats
 newtab-sports-widget-semi-finals = Demi-finale
 newtab-sports-widget-bronze-finals = Petite finale

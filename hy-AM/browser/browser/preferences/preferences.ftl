@@ -1139,8 +1139,6 @@ containers-remove-button =
 
 sync-group-label =
     .label = Համաժամեցում
-account-group-label =
-    .label = { -vendor-short-name }-ի հաշիվ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1254,9 +1252,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Դուք համաժամեցնում եք այս միույթները կապակցված ձեր բոլոր սարքերի միջև.
 sync-syncing-across-devices-heading-2 = Տվյալները համաժամեցված են տարբեր սարքերի միջև
-sync-syncing-across-devices-empty-state =
-    .label = Դուք դեռ ոչինչ չեք համաժամեցնում:
-    .description = Սկսեք համաժամեցումը՝ ձեր բոլոր տվյալները բոլոր սարքերում ունենալու համար:
 sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բաց ներդիրներ
@@ -2005,9 +2000,6 @@ collection-studies-description = Փորձեք առանձնահատկությու
 collection-studies =
     .label = Թույլատրել { -brand-short-name }-ին տեղադրել և կատարել հետազոտություններ
 collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտությունները
-nimbus-rollouts-enabled =
-    .label = Թույլատրել { -brand-short-name }-ին բարելավել գործառույթները, կատարողականությունը և կայունությունը թարմացումների միջև ընկած ժամանակահատվածում
-nimbus-rollouts-enabled-description = Փոփոխությունները կկիրառվեն հեռակա կարգով։
 addon-recommendations2 =
     .label = Թույլատրել անհատականացված ընդլայնման առաջարկությունները
 addon-recommendations-description = Ստացեք ընդլայնման առաջարկներ՝ դիտարկումների փորձը բարելավելու համար:

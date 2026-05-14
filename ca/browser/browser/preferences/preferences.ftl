@@ -1146,11 +1146,6 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronització
-account-group-label =
-    .label = Compte de { -vendor-short-name }
-account-placeholder =
-    .label = No heu iniciat la sessió.
-    .description = Inicieu la sessió per mantenir les vostres dades privades, segures i sincronitzades entre els dispositius.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1273,9 +1268,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Actualment, sincronitzeu aquests elements en tots els vostres dispositius connectats:
 sync-syncing-across-devices-heading-2 = Dades sincronitzades entre dispositius
-sync-syncing-across-devices-empty-state =
-    .label = Encara no esteu sincronitzant res…
-    .description = Activeu la sincronització per tenir totes les vostres dades en tots els dispositius.
 sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestanyes obertes
@@ -2101,9 +2093,6 @@ collection-studies-description = Proveu funcions i idees abans que estiguin disp
 collection-studies =
     .label = Permet al { -brand-short-name } instal·lar i executar estudis
 collection-studies-link = Mostra els estudis del { -brand-short-name }
-nimbus-rollouts-enabled =
-    .label = Permet que el { -brand-short-name } millori les funcions, el rendiment i l'estabilitat entre actualitzacions
-nimbus-rollouts-enabled-description = Els canvis s'aplicaran de manera remota.
 addon-recommendations2 =
     .label = Permet les recomanacions d'extensions personalitzades
 addon-recommendations-description = Rebeu recomanacions d'extensions per millorar l'experiència de navegació.

@@ -1148,11 +1148,6 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
-account-group-label =
-    .label = Llogari { -vendor-short-name }
-account-placeholder =
-    .label = S’keni bërë hyrjen
-    .description = Që t’i mbani të dhënat private, të fshehtëzuara dhe të njëkohësuara nëpër pajisje, bëni hyrjen në llogari.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1275,9 +1270,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Po bëni njëkohësim të këtyre objekteve në krejt pajisjet tuaja të lidhura:
 sync-syncing-across-devices-heading-2 = Të dhënat u njëkohësuan mes pajisjesh
-sync-syncing-across-devices-empty-state =
-    .label = S’po njëkohësoni gjë… ende jo.
-    .description = Që të merrni krejt të dhënat tuaja në krejt pajisjet tuaja, nisni njëkohësimin.
 sync-currently-syncing-bookmarks = Faqerojtës
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Skeda të hapura
@@ -2105,9 +2097,6 @@ collection-studies-description = Provoni veçori dhe ide para se të hidhen në 
 collection-studies =
     .label = Lejojeni { -brand-short-name } të instalojë dhe kryejë studime
 collection-studies-link = Shihni studime { -brand-short-name }
-nimbus-rollouts-enabled =
-    .label = Lejojeni { -brand-short-name } mes përditësimesh të përmirësojë veçori, funksionim dhe qëndrueshmëri
-nimbus-rollouts-enabled-description = Ndryshimet do të aplikohen që së largëti.
 addon-recommendations2 =
     .label = Lejo rekomandime të personalizuara rreth zgjerimesh
 addon-recommendations-description = Merrni rekomandime zgjerimesh, për të përmirësuar funksionimin e shfletimit tuaj.

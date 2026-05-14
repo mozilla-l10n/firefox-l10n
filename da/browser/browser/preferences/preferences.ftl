@@ -1145,11 +1145,6 @@ sync-group-label =
     .label = Synkronisering
 account-group-label2 =
     .label = Konto
-account-group-label =
-    .label = { -vendor-short-name }-konto
-account-placeholder =
-    .label = Du er ikke logget ind
-    .description = Log ind for at synkronisere dine data sikkert og krypteret på tværs af enheder
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1272,9 +1267,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Du synkroniserer disse elementer på tværs af alle dine forbundne enheder:
 sync-syncing-across-devices-heading-2 = Synkroniserede data på tværs af enheder
-sync-syncing-across-devices-empty-state =
-    .label = Du synkroniserer ikke noget endnu.
-    .description = Start synkronisering for at få alle dine data på alle dine enheder.
 sync-currently-syncing-bookmarks = Bogmærker
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Åbne faneblade
@@ -2054,9 +2046,6 @@ collection-studies-description = Prøv nye funktioner og idéer, før de bliver 
 collection-studies =
     .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
-nimbus-rollouts-enabled =
-    .label = Tillad, at { -brand-short-name } forbedrer funktioner, ydeevne og stabilitet mellem opdateringer
-nimbus-rollouts-enabled-description = Ændringer vil blive appliceret eksternt.
 addon-recommendations2 =
     .label = Tillad tilpassede anbefalinger af udvidelser
 addon-recommendations-description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.

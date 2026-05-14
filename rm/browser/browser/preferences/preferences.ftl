@@ -1061,9 +1061,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ti sincroniseschas ils suandants elements tranter tut tes apparats connectads:
 sync-syncing-across-devices-heading-2 = Datas sincronisadas tranter ils apparats
-sync-syncing-across-devices-empty-state =
-    .label = Ti na sincroniseschas anc… nagut.
-    .description = Cumenza a sincronisar per avair tut tias datas sin tut tes apparats.
 sync-currently-syncing-bookmarks = Segnapaginas
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Tabs averts

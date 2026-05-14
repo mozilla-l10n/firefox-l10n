@@ -1086,9 +1086,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ви синхронізуєте ці елементи на всіх під'єднаних пристроях:
 sync-syncing-across-devices-heading-2 = Дані синхронізуються на всіх пристроях
-sync-syncing-across-devices-empty-state =
-    .label = Наразі ви нічого не синхронізуєте.
-    .description = Почніть синхронізувати дані, щоб мати до них доступ на всіх пристроях.
 sync-currently-syncing-bookmarks = Закладки
 sync-currently-syncing-history = Історія
 sync-currently-syncing-tabs = Відкриті вкладки

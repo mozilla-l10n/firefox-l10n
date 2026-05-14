@@ -1447,11 +1447,6 @@ account-group-label2 =
 account-placeholder2 =
     .label = Nejste přihlášen(a)
     .description = Přihlaste se a udržujte své údaje soukromé, šifrované a okamžitě dostupné všude, kde používáte { -brand-short-name }.
-account-group-label =
-    .label = Účet { -vendor-short-name }
-account-placeholder =
-    .label = Nejste přihlášeni
-    .description = Přihlaste se, aby vaše data byla soukromá, šifrovaná a synchronizovaná napříč zařízeními.
 account-sync-section =
     .heading = Účet a synchronizace
 pane-account-sync-title = Účet a synchronizace
@@ -1580,9 +1575,6 @@ sync-syncing-across-devices-heading-2 = Data synchronizovaná mezi zařízeními
 sync-syncing-across-devices-empty-state2 =
     .label = Spravovat synchronizované údaje
     .description = Zatím nic nesynchronizujete… Začněte synchronizovat, abyste měli všechna data na všech svých zařízeních.
-sync-syncing-across-devices-empty-state =
-    .label = Zatím nic nesynchronizujete.
-    .description = Spusťte synchronizaci a získejte všechna svá data na všech zařízeních.
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = Historii
 sync-currently-syncing-tabs = Otevřené panely
@@ -2514,13 +2506,6 @@ collection-studies-link =
         [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
        *[no-cases] Zobrazit studie aplikace { -brand-short-name }
     }
-nimbus-rollouts-enabled =
-    .label =
-        { -brand-short-name.case-status ->
-            [with-cases] Povolit { -brand-short-name(case: "gen") } vylepšovat funkce, výkon a stabilitu mezi aktualizacemi
-           *[no-cases] Povolit aplikaci { -brand-short-name } vylepšovat funkce, výkon a stabilitu mezi aktualizacemi
-        }
-nimbus-rollouts-enabled-description = Změny budou provedeny na dálku.
 addon-recommendations2 =
     .label = Povolit personalizovaná doporučení rozšíření
 addon-recommendations-description = Nechte si doporučovat rozšíření pro zlepšení vašeho prohlížení.

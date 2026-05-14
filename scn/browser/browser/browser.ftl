@@ -306,10 +306,6 @@ urlbar-searchmode-bookmarks =
     .label = Nzingalibbra
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description-menucaption =
-    .label = Sta vota riscedi cu:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description = Sta vota riscedi cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Mpustazzioni di risciduta

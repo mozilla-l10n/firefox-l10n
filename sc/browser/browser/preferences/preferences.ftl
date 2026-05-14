@@ -1052,8 +1052,6 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizatzione
-account-group-label =
-    .label = Contu de { -vendor-short-name }
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1170,9 +1168,6 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ses acanta de sincronizare custos elementos intre totu is dispositivos tuos connètidos:
 sync-syncing-across-devices-heading-2 = Datos sincronizados intre dispositivos
-sync-syncing-across-devices-empty-state =
-    .label = Non ses sincronizende nudda… galu.
-    .description = Cumintza a sincronizare pro tènnere totu is datos in totu is dispositivos.
 sync-currently-syncing-bookmarks = Sinnalibros
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Ischedas abertas
@@ -1865,7 +1860,6 @@ collection-studies-description = Proa funtziones e ideas in antis chi siant publ
 collection-studies =
     .label = Permite a { -brand-short-name } de installare e aviare istùdios
 collection-studies-link = Ammustra is istùdios de { -brand-short-name }
-nimbus-rollouts-enabled-description = Is modìficas ant a èssere aplicadas dae remotu.
 addon-recommendations2 =
     .label = Permite cussìgios personalizados de estensiones
 addon-recommendations-description = Retzi cussìgios de estensiones pro megiorare s’esperièntzia tua de navigatzione.
