@@ -270,6 +270,9 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Warnowaś, gaby wócynjanje někotarych rejtarikow mógło { -brand-short-name } spómałšyś
     .accesskey = k
+switch-to-new-tabs-2 =
+    .label = Ned k nowemu rejtarikoju pśejś, gaž se wótkaze abo medije w nowem rejtariku wócynjaju
+    .accesskey = N
 switch-to-new-tabs =
     .label = Ned na wótkaz, wobraz abo medium pśešaltowaś, kótaryž jo se w nowem rejtariku wócynił
     .accesskey = N
@@ -1748,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Nastajenja za gronidła a awtomatiske wupołnjenje
+pane-passwords-autofill-title = Gronidła a awtomatiske wupołnjenje
+preferences-passwords-autofill-header =
+    .heading = Gronidła a awtomatiske wupołnjenje
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

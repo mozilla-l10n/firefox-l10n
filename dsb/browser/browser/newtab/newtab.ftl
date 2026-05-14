@@ -794,6 +794,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Asistenty
 newtab-widget-menu-hide = Asistent schowaś
 newtab-widget-menu-change-size = Wjelikosć změniś
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Pśesunuś
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Nalěwo
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Napšawo
 newtab-widget-size-small = Mały
 newtab-widget-size-medium = Srjejźny
 newtab-widget-size-large = Wjeliki
@@ -810,6 +819,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Meni asistentow
     .aria-label = Meni asistentow wócyniś
+newtab-widget-add-widgets-button =
+    .aria-label = Asistent pśidaś
+    .title = Asistent pśidaś
 newtab-widget-section-menu-manage = Asistenty zastojaś
 newtab-widget-section-menu-hide-all = Asistenty schowaś
 newtab-widget-section-menu-learn-more = Dalšne informacije
@@ -906,6 +918,7 @@ newtab-widget-timer-celebration-message-break = Sćo gótowy se koncentrěrowaś
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teamam slědowaś
+newtab-sports-widget-menu-view-schedule = Grajny plan pokazaś
 newtab-sports-widget-menu-view-upcoming = Pśichodny pokazaś
 newtab-sports-widget-menu-view-results = Wuslědki pokazaś
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -936,6 +949,8 @@ newtab-sports-widget-search-country =
     .placeholder = Kraj pytaś
     .aria-label = Kraj pytaś
 newtab-sports-widget-cancel = Pśetergnuś
+newtab-sports-widget-back-button =
+    .aria-label = Slědk
 newtab-sports-widget-done-button =
     .label = Dokóńcony
 newtab-sports-widget-group-stage = Kupkowa faza
@@ -950,6 +965,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Klucowe datumy
 newtab-sports-widget-upcoming = Pśichodne
+# Used for a match currently ongoing
+newtab-sports-widget-now = Něnto
 newtab-sports-widget-results = Wuslědki
 newtab-sports-widget-semi-finals = Połfinale
 newtab-sports-widget-bronze-finals = Graśe wó městno 3
