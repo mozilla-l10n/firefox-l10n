@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = No atualizes
     .accesskey = o
+primary-password-prompt-message = Inserta sa crae printzipale.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nissunu nòmine utente
 password-manager-confirm-password-change = Cunfirma sa modìfica de sa crae
