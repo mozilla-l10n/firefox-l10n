@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Na hizivaat
     .accesskey = N
+primary-password-prompt-message = Trugarez da reiñ ho ker-tremen pennañ.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Anv arveriad ebet
 password-manager-confirm-password-change = Kadarnaat kemm ar ger-tremen
