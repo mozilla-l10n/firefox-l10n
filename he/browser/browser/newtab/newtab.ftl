@@ -784,6 +784,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = ווידג’טים
 newtab-widget-menu-hide = הסתרת הווידג׳ט
 newtab-widget-menu-change-size = שינוי גודל
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = העברה
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = שמאלה
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = ימינה
 newtab-widget-size-small = קטן
 newtab-widget-size-medium = בינוני
 newtab-widget-size-large = גדול
@@ -800,6 +809,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = תפריט ווידג’טים
     .aria-label = פתיחת תפריט ווידג’טים
+newtab-widget-add-widgets-button =
+    .aria-label = הוספת ווידג׳ט
+    .title = הוספת ווידג׳ט
 newtab-widget-section-menu-manage = ניהול ווידג’טים
 newtab-widget-section-menu-hide-all = הסתרת ווידג׳טים
 newtab-widget-section-menu-learn-more = מידע נוסף
@@ -896,6 +908,7 @@ newtab-widget-timer-celebration-message-break = נחזור להתרכז?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = מעקב אחרי נבחרות
+newtab-sports-widget-menu-view-schedule = הצגת לוח זמנים
 newtab-sports-widget-menu-view-upcoming = הצגת המשחקים הבאים
 newtab-sports-widget-menu-view-results = הצגת תוצאות
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -924,6 +937,8 @@ newtab-sports-widget-search-country =
     .placeholder = חיפוש מדינה
     .aria-label = חיפוש מדינה
 newtab-sports-widget-cancel = ביטול
+newtab-sports-widget-back-button =
+    .aria-label = חזרה
 newtab-sports-widget-done-button =
     .label = סיום
 newtab-sports-widget-group-stage = שלב הבתים
