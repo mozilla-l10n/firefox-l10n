@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = לא לעדכן
     .accesskey = ל
+primary-password-prompt-message = נא להזין את הססמה הראשית שלך.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = אין שם משתמש
 password-manager-confirm-password-change = אישור שינוי ססמה
