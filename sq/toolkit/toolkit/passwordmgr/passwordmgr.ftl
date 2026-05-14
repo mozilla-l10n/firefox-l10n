@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Mos e përditëso
     .accesskey = M
+primary-password-prompt-message = Ju lutemi, jepni Fjalëkalimin tuaj të Përgjithshëm.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pa emër përdoruesi
 password-manager-confirm-password-change = Ripohoni Ndryshimin e Fjalëkalimit

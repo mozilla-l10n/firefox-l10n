@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = เมนูวิดเจ็ต
     .aria-label = เปิดเมนูวิดเจ็ต
+newtab-widget-section-menu-manage = จัดการวิดเจ็ต
 newtab-widget-section-menu-hide-all = ซ่อนวิดเจ็ต
 newtab-widget-section-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-widget-section-feedback = บอกเราว่าคุณคิดอย่างไร

@@ -805,6 +805,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = ਵਿਜੈਟ ਮੇਨੂ
     .aria-label = ਵਿਜੈਟ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+newtab-widget-section-menu-manage = ਵਿਜੈੱਟ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 newtab-widget-section-menu-hide-all = ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
 newtab-widget-section-menu-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-widget-section-feedback = ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਕੀ ਸੋਚਦੇ ਹੋ

@@ -805,6 +805,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = ჩანამატების მენიუ
     .aria-label = ჩანამატების მენიუს გახსნა
+newtab-widget-section-menu-manage = ჩანამატების მართვა
 newtab-widget-section-menu-hide-all = ჩანამატების დამალვა
 newtab-widget-section-menu-learn-more = ვრცლად
 newtab-widget-section-feedback = მოგვახსენეთ თქვენი აზრი

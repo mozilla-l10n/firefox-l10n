@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Uppdatera inte
     .accesskey = n
+primary-password-prompt-message = Ange ditt huvudlösenord.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Inget användarnamn
 password-manager-confirm-password-change = Bekräfta byte av lösenord

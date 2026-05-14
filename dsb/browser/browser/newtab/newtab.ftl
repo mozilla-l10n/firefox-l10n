@@ -810,6 +810,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Meni asistentow
     .aria-label = Meni asistentow wócyniś
+newtab-widget-section-menu-manage = Asistenty zastojaś
 newtab-widget-section-menu-hide-all = Asistenty schowaś
 newtab-widget-section-menu-learn-more = Dalšne informacije
 newtab-widget-section-feedback = Grońśo nam swójo měnjenje

@@ -810,6 +810,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Pienoisohjelmien valikko
     .aria-label = Avaa pienoisohjelmien valikko
+newtab-widget-section-menu-manage = Hallitse pienoisohjelmia
 newtab-widget-section-menu-hide-all = Piilota pienoisohjelmat
 newtab-widget-section-menu-learn-more = Lue lisää
 newtab-widget-section-feedback = Kerro meille mielipiteesi

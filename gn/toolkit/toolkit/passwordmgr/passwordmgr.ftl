@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Ani embohekopyahu
     .accesskey = A
+primary-password-prompt-message = Emoinge ne Ñe’ẽñemi Ha’etéva.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Poruhára rera’ỹ
 password-manager-confirm-password-change = Emoneĩ ñe’ẽñemi moambue

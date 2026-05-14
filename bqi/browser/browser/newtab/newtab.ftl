@@ -133,6 +133,9 @@ newtab-menu-report = گوزارش
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = مسدۊد کردن
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
@@ -198,6 +201,9 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
@@ -215,6 +221,13 @@ newtab-pocket-saved = زفت وابی
 newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
 
 ## Customization Menu
 
@@ -272,6 +285,9 @@ newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
 newtab-wallpaper-dark-purple = بناوش تاریک
 newtab-wallpaper-dark-green = ساوز تاریک
+
+## Abstract
+
 
 ## Firefox
 
@@ -387,6 +403,9 @@ newtab-custom-wallpaper-cta = امتهووس کوݩ
 
 newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = دانلود { -brand-product-name } سی موبایل
@@ -468,6 +487,7 @@ newtab-widget-section-title = ویجتا
 newtab-widget-section-hide-all-button =
     .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
+newtab-widget-section-menu-manage = دؽوۉداری ویجتا
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -493,6 +513,12 @@ newtab-promo-card-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Sports widget
+
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -501,3 +527,6 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Strings for the Clock widget
+

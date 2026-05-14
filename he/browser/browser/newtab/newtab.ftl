@@ -800,6 +800,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = תפריט ווידג’טים
     .aria-label = פתיחת תפריט ווידג’טים
+newtab-widget-section-menu-manage = ניהול ווידג’טים
 newtab-widget-section-menu-hide-all = הסתרת ווידג׳טים
 newtab-widget-section-menu-learn-more = מידע נוסף
 newtab-widget-section-feedback = ספרו לנו מה דעתכם

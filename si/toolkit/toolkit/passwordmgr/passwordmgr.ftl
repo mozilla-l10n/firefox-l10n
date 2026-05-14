@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = යාවත්කාල නොකරන්න
     .accesskey = D
+primary-password-prompt-message = ඔබගේ ප්‍රාථමික මුරපදය යොදන්න.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = පරිශ්‍රීලක නාමය නැත
 password-manager-confirm-password-change = මුරපදය සංශෝධනය තහවුරුව

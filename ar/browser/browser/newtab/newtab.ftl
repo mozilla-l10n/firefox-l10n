@@ -588,6 +588,9 @@ newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
@@ -706,6 +709,7 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-menu-button =
     .title = قائمة الويدجات
     .aria-label = افتح قائمة الويدجات
+newtab-widget-section-menu-manage = أدر الويدجات
 newtab-widget-section-menu-hide-all = أخفِ الويدجات
 newtab-widget-section-menu-learn-more = اطّلع على المزيد
 newtab-widget-section-feedback = أخبرنا برأيك

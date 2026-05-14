@@ -24,6 +24,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Na ùraich
     .accesskey = N
+primary-password-prompt-message = Cuir a-steach am prìomh fhacal-faire agad.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Gun ainm-cleachdaiche
 password-manager-confirm-password-change = Dearbh atharrachadh an fhacail-fhaire

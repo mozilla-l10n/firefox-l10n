@@ -802,6 +802,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menuo de komponantoj
     .aria-label = Malfermi menuon de komponantoj
+newtab-widget-section-menu-manage = Administri komponantojn
 newtab-widget-section-menu-hide-all = Kaŝi komponantojn
 newtab-widget-section-menu-learn-more = Pli da informo
 newtab-widget-section-feedback = Rakontu al ni vian opinion

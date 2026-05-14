@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Аз нав нигоҳ дошта нашавад
     .accesskey = D
+primary-password-prompt-message = Лутфан, ниҳонвожаи асосии худро ворид намоед.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Номи корбар нест
 password-manager-confirm-password-change = Тасдиқ кардани тағйири ниҳонвожа

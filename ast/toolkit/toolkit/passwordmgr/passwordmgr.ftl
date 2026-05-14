@@ -23,3 +23,4 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Nun anovar
     .accesskey = v
+primary-password-prompt-message = Introduz la contraseña primaria, por favor.

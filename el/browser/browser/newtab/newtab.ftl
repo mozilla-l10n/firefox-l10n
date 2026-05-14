@@ -806,6 +806,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Μενού γραφικών στοιχείων
     .aria-label = Άνοιγμα μενού γραφικών στοιχείων
+newtab-widget-section-menu-manage = Διαχείριση γραφικών στοιχείων
 newtab-widget-section-menu-hide-all = Απόκρυψη widgets
 newtab-widget-section-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-section-feedback = Πείτε μας τη γνώμη σας

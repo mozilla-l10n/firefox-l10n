@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Виджеттер мәзірі
     .aria-label = Виджеттер мәзірін ашу
+newtab-widget-section-menu-manage = Виджеттерді басқару
 newtab-widget-section-menu-hide-all = Виджеттерді жасыру
 newtab-widget-section-menu-learn-more = Көбірек білу
 newtab-widget-section-feedback = Өз ойыңызбен бөлісіңіз

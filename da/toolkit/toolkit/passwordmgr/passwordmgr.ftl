@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Opdater ikke
     .accesskey = p
+primary-password-prompt-message = Indtast din hovedadgangskode.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Intet brugernavn
 password-manager-confirm-password-change = Bekræft ændring af adgangskode

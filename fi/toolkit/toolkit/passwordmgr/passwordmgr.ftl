@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Älä päivitä
     .accesskey = i
+primary-password-prompt-message = Kirjoita pääsalasana.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Ei käyttäjätunnusta
 password-manager-confirm-password-change = Vahvista salasanan vaihto

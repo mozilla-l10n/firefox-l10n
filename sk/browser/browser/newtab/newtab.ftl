@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Ponuka Miniaplikácie
     .aria-label = Otvorí ponuku Miniaplikácie
+newtab-widget-section-menu-manage = Spravovať miniaplikácie
 newtab-widget-section-menu-hide-all = Skryť miniaplikácie
 newtab-widget-section-menu-learn-more = Ďalšie informácie
 newtab-widget-section-feedback = Povedzte nám váš názor

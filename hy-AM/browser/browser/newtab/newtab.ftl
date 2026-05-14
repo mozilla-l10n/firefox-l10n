@@ -737,6 +737,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Վիջեթների ցանկ
     .aria-label = Բացել վիջեթների ցանկը
+newtab-widget-section-menu-manage = Կառավարել վիջեթները
 newtab-widget-section-menu-hide-all = Թաքցնել վիջեթները
 newtab-widget-section-menu-learn-more = Իմանալ ավելին
 newtab-widget-section-feedback = Ասեք մեզ, թե ինչ եք կարծում

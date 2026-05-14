@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Nu actualiza
     .accesskey = D
+primary-password-prompt-message = Te rugăm să introduci parola primară.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Niciun nume de utilizator
 password-manager-confirm-password-change = Confirmă schimbarea parolei

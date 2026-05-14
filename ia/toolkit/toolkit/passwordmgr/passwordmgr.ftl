@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Non actualisar
     .accesskey = N
+primary-password-prompt-message = Insere tu contrasigno primari.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nulle nomine de usator
 password-manager-confirm-password-change = Confirmar le cambio de contrasigno

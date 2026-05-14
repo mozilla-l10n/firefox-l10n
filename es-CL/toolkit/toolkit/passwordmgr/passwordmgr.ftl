@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = No actualizar
     .accesskey = D
+primary-password-prompt-message = Por favor, ingresa tu contraseña primaria.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Sin nombre de usuario
 password-manager-confirm-password-change = Confirmar cambio de la contraseña

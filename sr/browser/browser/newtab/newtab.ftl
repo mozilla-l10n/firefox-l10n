@@ -809,6 +809,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Мени елемената
     .aria-label = Отвори мени елемената
+newtab-widget-section-menu-manage = Управљај елементима
 newtab-widget-section-menu-hide-all = Сакриј елементе
 newtab-widget-section-menu-learn-more = Сазнајте више
 newtab-widget-section-feedback = Реците нам шта мислите

@@ -815,6 +815,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Dewislen teclynnau
     .aria-label = Agor dewislen teclynnau
+newtab-widget-section-menu-manage = Rheoli teclynnau
 newtab-widget-section-menu-hide-all = Cuddio teclynnau
 newtab-widget-section-menu-learn-more = Dysgu rhagor
 newtab-widget-section-feedback = Dywedwch wrthym beth yw eich barn

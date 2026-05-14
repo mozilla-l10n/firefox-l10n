@@ -805,6 +805,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widget-meny
     .aria-label = Åpne widget-menyen
+newtab-widget-section-menu-manage = Behandle widgeter
 newtab-widget-section-menu-hide-all = Skjul widgeter
 newtab-widget-section-menu-learn-more = Les mer
 newtab-widget-section-feedback = Fortell oss hva du synes

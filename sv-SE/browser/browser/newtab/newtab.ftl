@@ -806,6 +806,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgetmeny
     .aria-label = Öppna widgetmenyn
+newtab-widget-section-menu-manage = Hantera widgetar
 newtab-widget-section-menu-hide-all = Dölj widgetar
 newtab-widget-section-menu-learn-more = Läs mer
 newtab-widget-section-feedback = Berätta vad du tycker

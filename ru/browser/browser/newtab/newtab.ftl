@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Меню виджетов
     .aria-label = Открыть меню виджетов
+newtab-widget-section-menu-manage = Управление виджетами
 newtab-widget-section-menu-hide-all = Скрыть виджеты
 newtab-widget-section-menu-learn-more = Подробнее
 newtab-widget-section-feedback = Скажите нам, что вы думаете

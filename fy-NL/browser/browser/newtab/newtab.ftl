@@ -806,6 +806,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu Widgets
     .aria-label = Menu Widgets iepenje
+newtab-widget-section-menu-manage = Widgets beheare
 newtab-widget-section-menu-hide-all = Widgets ferstopje
 newtab-widget-section-menu-learn-more = Mear ynfo
 newtab-widget-section-feedback = Fertel ús wat jo tinke

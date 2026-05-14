@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Не абнаўляць
     .accesskey = Н
+primary-password-prompt-message = Калі ласка, увядзіце галоўны пароль.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Адсутнічае імя карыстальніка
 password-manager-confirm-password-change = Сцвярджэнне змены пароля

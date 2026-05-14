@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Немој ажурирати
     .accesskey = а
+primary-password-prompt-message = Унесите вашу главну лозинку.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Нема корисничког имена
 password-manager-confirm-password-change = Потврди промену лозинке

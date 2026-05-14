@@ -805,6 +805,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgeten menua
     .aria-label = Ireki widgeten menua
+newtab-widget-section-menu-manage = Kudeatu widgetak
 newtab-widget-section-menu-hide-all = Ezkutatu widgetak
 newtab-widget-section-menu-learn-more = Argibide gehiago
 newtab-widget-section-feedback = Emaguzu zure iritzia

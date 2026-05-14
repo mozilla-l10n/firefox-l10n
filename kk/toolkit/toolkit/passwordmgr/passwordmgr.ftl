@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Жаңартпау
     .accesskey = п
+primary-password-prompt-message = Басты пароліңізді енгізіңіз.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Пайдаланушы аты жоқ
 password-manager-confirm-password-change = Парольді ауыстыруды растау

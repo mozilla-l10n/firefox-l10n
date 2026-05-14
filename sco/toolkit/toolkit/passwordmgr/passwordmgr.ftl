@@ -24,6 +24,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Dinnae update
     .accesskey = D
+primary-password-prompt-message = Gonnae inpit yer Primary Passwird.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nae yaiser nemme
 password-manager-confirm-password-change = Confirm Passwird Chynge
