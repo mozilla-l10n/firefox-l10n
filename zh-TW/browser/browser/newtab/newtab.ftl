@@ -802,6 +802,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = 小工具選單
     .aria-label = 開啟小工具選單
+newtab-widget-section-menu-manage = 管理小工具
 newtab-widget-section-menu-hide-all = 隱藏小工具
 newtab-widget-section-menu-learn-more = 更多資訊
 newtab-widget-section-feedback = 告訴我們您的想法
