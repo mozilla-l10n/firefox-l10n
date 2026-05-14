@@ -804,6 +804,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = 위젯 메뉴
     .aria-label = 위젯 메뉴 열기
+newtab-widget-section-menu-manage = 위젯 관리
 newtab-widget-section-menu-hide-all = 위젯 숨기기
 newtab-widget-section-menu-learn-more = 더 알아보기
 newtab-widget-section-feedback = 의견을 알려주세요
