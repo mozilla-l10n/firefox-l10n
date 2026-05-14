@@ -24,6 +24,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Neatnaujinti
     .accesskey = N
+primary-password-prompt-message = Įveskite savo pagrindinį slaptažodį.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nėra naudotojo vardo
 password-manager-confirm-password-change = Slaptažodžio keitimas
