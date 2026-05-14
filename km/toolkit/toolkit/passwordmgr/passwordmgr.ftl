@@ -18,6 +18,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = កុំ​ធ្វើ​បច្ចុប្បន្នភាព
     .accesskey = D
+primary-password-prompt-message = សូមបញ្ចូលពាក្យសម្ងាត់ចម្បងរបស់អ្នក។
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = គ្មានអត្ថនាម
 password-manager-confirm-password-change = អះអាង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
