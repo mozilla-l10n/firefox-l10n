@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Ne posodobi
     .accesskey = N
+primary-password-prompt-message = Vnesite glavno geslo.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Ni uporabniškega imena
 password-manager-confirm-password-change = Potrditev spremembe gesla
