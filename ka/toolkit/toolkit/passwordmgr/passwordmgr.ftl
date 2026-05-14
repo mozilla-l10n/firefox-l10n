@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = განახლების გარეშე
     .accesskey = გ
+primary-password-prompt-message = გთხოვთ, შეიყვანოთ მთავარი პაროლი.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = მომხმარებლის სახელი არაა მითითებული
 password-manager-confirm-password-change = პაროლის შეცვლის თანხმობა
