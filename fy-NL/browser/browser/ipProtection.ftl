@@ -126,8 +126,12 @@ ipprotection-connection-status-paused-description-1 = Jo hawwe alle { $maxUsage 
 ipprotection-connection-status-generic-error-title = Kin net ferbine mei VPN
 ipprotection-connection-status-generic-error-description = Probearje it oer in pear minuten opnij.
 ipprotection-connection-status-generic-error-try-again = Probearje it letter noch ris.
+ipprotection-connection-status-network-error-title-1 = Kontrolearje jo ynternetferbining
+    .aria-label = Kontrolearje jo ynternetferbining
 ipprotection-connection-status-network-error-title = Kontrolearje jo ynternetferbining
 ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dernei VPN yn te skeakeljen.
+ipprotection-connection-status-blocked-error-title-1 = VPN is net beskikber
+    .aria-label = VPN is net beskikber
 ipprotection-connection-status-blocked-error-title = VPN is net beskikber
 ipprotection-connection-status-blocked-error-description = Fanwegen lokale wetjouwing kinne wy gjin VPN-tsjinsten oanbiede yn dizze regio. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 # Variables
