@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Tronca attributi DOM
 options-collapse-attrs-tooltip =
     .title = Tronca gli attributi troppo lunghi in Analisi pagina
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Mostra commenti
+options-show-comments-tooltip =
+    .title = Mostra i commenti per i nodi nella finestra di analisi
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Fai clic e trascina per modificare il valore di una dimensione
 options-inspector-draggable-properties-tooltip =
