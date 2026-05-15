@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Tắt VPN ở mọi nơi
 ipprotection-button-turn-vpn-on = Bật VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Đang bật…
+ipprotection-connection-status-connected-1 = VPN đang bật
+    .aria-label = VPN đang bật
+ipprotection-connection-status-disconnected-1 = VPN đã tắt
+    .aria-label = VPN đã tắt
+ipprotection-connection-status-excluded-1 = Đã tắt VPN cho trang web này
+    .aria-label = Đã tắt VPN cho trang web này
+ipprotection-connection-status-connecting-1 = VPN đang kết nối…
+    .aria-label = VPN đang kết nối…
 
 ## Location controls
 
@@ -120,6 +128,8 @@ ipprotection-connection-status-paused-title-1 = VPN đã tạm dừng
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Bạn đã sử dụng hết { $maxUsage } GB dữ liệu VPN. Quyền truy cập sẽ được thiết lập lại vào tháng tới.
+ipprotection-connection-status-paused-title-2 = VPN đã tạm dừng
+    .aria-label = VPN đã tạm dừng
 
 ## Messages and errors
 
@@ -150,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Bật VPN để ẩn vị tr�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Đặt VPN để bật</a> mỗi khi bạn mở { -brand-short-name } để có thêm một lớp bảo vệ.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } sẽ ghi nhớ những trang web bạn đã thiết lập để sử dụng VPN. Cập nhật các thiết lập này trong <a data-l10n-name="setting-link">cài đặt</a> bất cứ lúc nào.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Đã tắt VPN cho trang web này
+ipprotection-connection-status-generic-error-title-1 = Không thể kết nối tới VPN
+    .aria-label = Không thể kết nối tới VPN
 
 ## IP Protection bandwidth callouts
 
