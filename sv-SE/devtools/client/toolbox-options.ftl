@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Trunkera DOM-attribut
 options-collapse-attrs-tooltip =
     .title = Trunkera långa attribut i inspektören
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Visa kommentarer
+options-show-comments-tooltip =
+    .title = Visa kommentarsnoder i inspektören
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Klicka och dra för att redigera storleksvärden
 options-inspector-draggable-properties-tooltip =

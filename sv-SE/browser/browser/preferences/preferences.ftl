@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Startsida
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Startsida och uppstart
 pane-search-title = Sök
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2569,6 +2570,8 @@ related-settings-accessibility-link =
     .label = Anpassa zoom- och teckensnittsinställningar i Tillgänglighet
 related-settings-home-link =
     .label = Anpassa { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Anpassa webbläsarens layout
 
 ## AI controls page
 
