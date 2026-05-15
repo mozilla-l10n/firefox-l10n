@@ -74,6 +74,10 @@ ipprotection-button-turn-vpn-off-excluded-site = Isključi VPN svugdje
 ipprotection-button-turn-vpn-on = Uključi VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Uključivanje …
+ipprotection-connection-status-connected-1 = VPN je uključen
+    .aria-label = VPN je uključen
+ipprotection-connection-status-disconnected-1 = VPN je isključen
+    .aria-label = VPN je isključen
 ipprotection-connection-status-excluded-1 = VPN je isključen za ovu web-stranicu
     .aria-label = VPN je isključen za ovu web-stranicu
 ipprotection-connection-status-connecting-1 = VPN se spaja …
