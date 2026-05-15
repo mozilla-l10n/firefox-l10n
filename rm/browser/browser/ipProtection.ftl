@@ -38,6 +38,9 @@ ipprotection-site-settings-callout-title = Tscherna nua utilisar il VPN
 ipprotection-site-settings-callout-subtitle = Deactivescha il VPN per ina website specifica e nus tegnain endament quai per la proxima visita.
 ipprotection-site-settings-callout-button = Chapì
 
+## Location selection callout
+
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -71,6 +74,17 @@ ipprotection-button-turn-vpn-off-excluded-site = Deactivar dapertut il VPN
 ipprotection-button-turn-vpn-on = Activar il VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Activaziun…
+ipprotection-connection-status-connected-1 = Il VPN è activà
+    .aria-label = Il VPN è activà
+ipprotection-connection-status-disconnected-1 = Il VPN è deactivà
+    .aria-label = Il VPN è deactivà
+ipprotection-connection-status-excluded-1 = Il VPN è deactivà per questa website
+    .aria-label = Il VPN è deactivà per questa website
+ipprotection-connection-status-connecting-1 = Il VPN connectescha…
+    .aria-label = Il VPN connectescha…
+
+## Location controls
+
 
 ## VPN paused state
 
@@ -83,8 +97,12 @@ upgrade-vpn-button = Emprova { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = Impussibel da connectar cun il VPN
 ipprotection-connection-status-generic-error-description = Emprova anc ina giada en in pèr minutas.
 ipprotection-connection-status-generic-error-try-again = Emprova per plaschair pli tard anc ina giada.
+ipprotection-connection-status-network-error-title-1 = Controllescha tia connexiun cun l’internet
+    .aria-label = Controllescha tia connexiun cun l’internet
 ipprotection-connection-status-network-error-title = Controllescha tia connexiun cun l’internet
 ipprotection-connection-status-network-error-description = Ta connectescha cun l’internet ed emprova lura d’activar il VPN.
+ipprotection-connection-status-blocked-error-title-1 = Il VPN n’è betg disponibel
+    .aria-label = Il VPN n’è betg disponibel
 ipprotection-connection-status-blocked-error-title = Il VPN n’è betg disponibel
 ipprotection-connection-status-blocked-error-description = Leschas localas n’ans permettan betg da porscher il servetsch da VPN en questa regiun. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 # Variables
@@ -103,6 +121,8 @@ ipprotection-message-continuous-onboarding-intro = Activescha il VPN per zuppent
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configurescha il VPN uschia ch’el vegn avert</a> mintga giada cura che ti avras { -brand-short-name } per agiuntar in ulteriur nivel da protecziun.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } vegn a tegnair endament tge websites che duain utilisar il VPN. Ti pos da tut temp actualisar la glista en ils <a data-l10n-name="setting-link">parameters</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Il VPN è deactivà per questa website
+ipprotection-connection-status-generic-error-title-1 = Impussibel da connectar cun il VPN
+    .aria-label = Impussibel da connectar cun il VPN
 
 ## IP Protection bandwidth callouts
 
@@ -143,3 +163,18 @@ ip-protection-autostart-checkbox =
     .label = Cura che jau avr { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = En fanestras privatas
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
+
+## IP Protection alerts
+
