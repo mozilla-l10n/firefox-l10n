@@ -114,6 +114,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Vypnout VPN všude
 ipprotection-button-turn-vpn-on = Zapnout VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Zapíná se…
+ipprotection-connection-status-connected-1 = VPN je zapnutá
+    .aria-label = VPN je zapnutá
+ipprotection-connection-status-disconnected-1 = VPN je vypnutá
+    .aria-label = VPN je vypnutá
+ipprotection-connection-status-excluded-1 = VPN je pro tuto stránku vypnutá
+    .aria-label = VPN je pro tuto stránku vypnutá
+ipprotection-connection-status-connecting-1 = VPN se připojuje…
+    .aria-label = VPN se připojuje…
 
 ## Location controls
 
