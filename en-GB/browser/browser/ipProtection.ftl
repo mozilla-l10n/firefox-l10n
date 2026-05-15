@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Turn off VPN everywhere
 ipprotection-button-turn-vpn-on = Turn on VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Turning on…
+ipprotection-connection-status-connected-1 = VPN is on
+    .aria-label = VPN is on
+ipprotection-connection-status-disconnected-1 = VPN is off
+    .aria-label = VPN is off
+ipprotection-connection-status-excluded-1 = VPN is off for this site
+    .aria-label = VPN is off for this site
+ipprotection-connection-status-connecting-1 = VPN is connecting…
+    .aria-label = VPN is connecting…
 
 ## Location controls
 
@@ -120,6 +128,8 @@ ipprotection-connection-status-paused-title-1 = VPN is paused
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = You’ve used all { $maxUsage } GB of your VPN data. Access resets next month.
+ipprotection-connection-status-paused-title-2 = VPN is paused
+    .aria-label = VPN is paused
 
 ## Messages and errors
 
@@ -150,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Turn on VPN to hide your loca
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Set VPN to turn on</a> every time you open { -brand-short-name } for an extra layer of protection.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } will remember which web sites you’ve set to use VPN. Update these in <a data-l10n-name="setting-link">settings</a> at any time.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is off for this site
+ipprotection-connection-status-generic-error-title-1 = Couldn’t connect to VPN
+    .aria-label = Couldn’t connect to VPN
 
 ## IP Protection bandwidth callouts
 
