@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Desactivar la VPN en todas part
 ipprotection-button-turn-vpn-on = Activar VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Activando…
+ipprotection-connection-status-connected-1 = VPN activada
+    .aria-label = VPN activada
+ipprotection-connection-status-disconnected-1 = VPN desactivada
+    .aria-label = VPN desactivada
+ipprotection-connection-status-excluded-1 = La VPN está desactivada para este sitio
+    .aria-label = La VPN está desactivada para este sitio
+ipprotection-connection-status-connecting-1 = La VPN se está conectando…
+    .aria-label = La VPN se está conectando…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = La VPN está pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Ha usado todos los { $maxUsage } GB de datos de su VPN. El acceso se restablecerá el próximo mes.
+ipprotection-connection-status-paused-title-2 = La VPN está pausada
+    .aria-label = La VPN está pausada
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = No se ha podido conectar a la VPN
 ipprotection-connection-status-generic-error-description = Inténtelo de nuevo en unos minutos.
 ipprotection-connection-status-generic-error-try-again = Inténtelo más tarde.
+ipprotection-connection-status-network-error-title-1 = Compruebe su conexión a internet
+    .aria-label = Compruebe su conexión a internet
 ipprotection-connection-status-network-error-title = Compruebe su conexión a internet
 ipprotection-connection-status-network-error-description = Conéctese a Internet y luego intente activar la VPN.
+ipprotection-connection-status-blocked-error-title-1 = La VPN no está disponible
+    .aria-label = La VPN no está disponible
 ipprotection-connection-status-blocked-error-title = La VPN no está disponible
 ipprotection-connection-status-blocked-error-description = Las leyes locales nos impiden proporcionar el servicio de VPN en esta región. <a data-l10n-name="learn-more-link">Saber más</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Active la VPN para ocultar su
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN para que se active</a> cada vez que abra { -brand-short-name } para una capa adicional de protección.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web se configuraron para usar la VPN. Actualice éstos en <a data-l10n-name="setting-link">configuración</a> en cualquier momento.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
+ipprotection-connection-status-generic-error-title-1 = No se ha podido conectar a la VPN
+    .aria-label = No se ha podido conectar a la VPN
 
 ## IP Protection bandwidth callouts
 
