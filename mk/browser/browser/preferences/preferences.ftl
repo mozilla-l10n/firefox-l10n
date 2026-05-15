@@ -72,9 +72,16 @@ pane-about-firefox-title = За { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Изглед
     .title = { pane-appearance-title }
+pane-downloads-title = Преземања
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Пристапност
     .title = { pane-accessibility-title }
 pane-languages-title = Јазици
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Експерименти на { -brand-short-name }
 category-experimental =
     .tooltiptext = Експерименти на { -brand-short-name }
@@ -82,6 +89,8 @@ pane-experimental-subtitle = Продолжи со претпазливост
 pane-experimental-search-results-header = Експерименти на { -brand-short-name } : Продолжи со претпазливост
 pane-experimental-description2 = Промената на поставките за напредна конфигурација може да влијае на перформансите или безбедноста на { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Испробајте ги нашите експериментални особености! Тие се во развој и се развиваат, што може да влијае на тоа како функционира { -brand-short-name }. Добиваме податоци за Вашето користење на овие особености само ако сте ги вклучиле <a data-l10n-name="data-collection">техничките и интеракциските податоци</a>.
@@ -95,6 +104,10 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Затвори
+do-not-track-removal2 =
+    .label = Сигналот „Не следи“ не е повеќе поддржан
+applications-setting-new-file-types =
+    .label = Што треба { -brand-short-name } да прави со другите датотеки?
 
 ## Browser Restart Dialog
 
@@ -104,6 +117,38 @@ should-restart-title = Рестарирај го { -brand-short-name }
 should-restart-ok = Рестарирај го { -brand-short-name } сега
 cancel-no-restart-button = Откажи
 restart-later = Рестартирај подоцна
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> ја контролира оваа поставка.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> ја контролира оваа поставка.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> бара контејнери за јазичиња.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong>{ $name }</strong> ја контролира оваа поставка.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> контролира како { -brand-short-name } се поврзува на интернет.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = За да го овозможите проширувањето, одете во <img data-l10n-name="addons-icon"/> Додатоци<img data-l10n-name="menu-icon"/>  во менито .
 
 ## Preferences UI Search Results
 
