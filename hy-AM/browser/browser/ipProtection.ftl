@@ -68,6 +68,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Անջատեք VPN-ը ամեն�
 ipprotection-button-turn-vpn-on = Միացնել VPN-ը
 # Button while VPN is connecting
 ipprotection-button-connecting = Միանում է…
+ipprotection-connection-status-connected-1 = VPN-ը միացված է
+    .aria-label = VPN-ը միացված է
+ipprotection-connection-status-disconnected-1 = VPN-ը անջատված է
+    .aria-label = VPN-ը անջատված է
+ipprotection-connection-status-excluded-1 = VPN-ը անջատված է այս կայքի համար
+    .aria-label = VPN-ը անջատված է այս կայքի համար
+ipprotection-connection-status-connecting-1 = VPN-ը միանում է…
+    .aria-label = VPN-ը միանում է…
 
 ## Location controls
 
