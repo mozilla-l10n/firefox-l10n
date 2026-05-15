@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = 關閉所有網站的 VPN
 ipprotection-button-turn-vpn-on = 開啟 VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = 正在開啟…
+ipprotection-connection-status-connected-1 = 已開啟 VPN
+    .aria-label = 已開啟 VPN
+ipprotection-connection-status-disconnected-1 = 已關閉 VPN
+    .aria-label = 已關閉 VPN
+ipprotection-connection-status-excluded-1 = 已對此網站關閉 VPN 連線
+    .aria-label = 已對此網站關閉 VPN 連線
+ipprotection-connection-status-connecting-1 = VPN 連線中…
+    .aria-label = VPN 連線中…
 
 ## Location controls
 
