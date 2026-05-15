@@ -60,3 +60,5 @@ webauthn-allow = 允许
     .accesskey = A
 webauthn-block = 阻止
     .accesskey = B
+webauthn-continue = 继续
+    .accesskey = n

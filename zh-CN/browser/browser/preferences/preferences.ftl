@@ -222,10 +222,6 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = 选择配置文件
 preferences-copy-profile-button = 复制
-tabs-browsing-section =
-    .heading = 标签页和浏览
-pane-tabs-browsing-title = 标签页和浏览
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = 标签页
 tabs-opening-heading =
@@ -1273,6 +1269,7 @@ account-placeholder2 =
     .description = 登录以加密保护数据、确保数据私密，并可在使用 { -brand-short-name } 的各设备上触手可得。
 account-sync-section =
     .heading = 账户与同步
+pane-account-sync-title = 账户与同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2259,7 +2256,7 @@ settings-redesign-promo =
     .heading = 外观焕新，设置依旧。
     .message = 我们重新排列了本页面，使其更易于浏览和探索。您的个人设置没有改变，所有项目都保留在此。提示：使用搜索，可直接跳到所需设置。
 settings-redesign-promo-dismiss-button =
-    .label = 明白了
+    .label = 知道了
 addon-recommendations =
     .label = 允许 { -brand-short-name } 提供个性化扩展推荐
 addon-recommendations-link = 详细了解
