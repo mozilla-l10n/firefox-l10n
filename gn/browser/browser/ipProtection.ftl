@@ -89,6 +89,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Embogue VPN opa hendápe
 ipprotection-button-turn-vpn-on = Emyandy VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Emyandyhína…
+ipprotection-connection-status-connected-1 = VPN hendy
+    .aria-label = VPN hendy
+ipprotection-connection-status-disconnected-1 = VPN ogue
+    .aria-label = VPN ogue
+ipprotection-connection-status-excluded-1 = VPN ogue ko tendápe g̃uarã
+    .aria-label = VPN ogue ko tendápe g̃uarã
+ipprotection-connection-status-connecting-1 = Pe VPN oikehína…
+    .aria-label = Pe VPN oikehína…
 
 ## Location controls
 
