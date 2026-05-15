@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = { -vendor-short-name }-k egindako gehiago
+more-from-moz-page-header =
+    .heading = { -vendor-short-name }-k egindako gehiago
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name }-k egindako gehiago
 more-from-moz-subtitle = Kontsulta itzazu Internet osasuntsuago baten alde lan egiten duten { -vendor-short-name }-k egindako bestelako produktuak.
@@ -46,3 +48,30 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AA webgune sortzailea
 more-from-moz-mdn-description = Ikasi web garapena gida eta erreferentzia sakonekin.
 more-from-moz-mdn-button = Ikasi web garapena
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-button = Eskuratu { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name }-ren produktu berriak
+more-from-moz-new-products-description = Aurkitu { -vendor-short-name }-ren azken produktuak
+more-from-moz-new-products-button = Ikusi produktu berriak
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = Eskuratu { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Eskuratu { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Eskuratu { -relay-brand-short-name }
+more-from-moz-thunderbird-box-link =
+    .label = Eskuratu { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Probatu { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Ikusi produktu berriak

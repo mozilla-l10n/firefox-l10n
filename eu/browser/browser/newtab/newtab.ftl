@@ -789,6 +789,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgetak
 newtab-widget-menu-hide = Ezkutatu widgeta
 newtab-widget-menu-change-size = Aldatu tamaina
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Aldatu lekuz
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Ezkerrera
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Eskuinera
 newtab-widget-size-small = Txikia
 newtab-widget-size-medium = Ertaina
 newtab-widget-size-large = Handia
@@ -805,6 +814,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgeten menua
     .aria-label = Ireki widgeten menua
+newtab-widget-add-widgets-button =
+    .aria-label = Gehitu widgeta
+    .title = Gehitu widgeta
 newtab-widget-section-menu-manage = Kudeatu widgetak
 newtab-widget-section-menu-hide-all = Ezkutatu widgetak
 newtab-widget-section-menu-learn-more = Argibide gehiago
@@ -897,6 +909,7 @@ newtab-widget-timer-celebration-message-break = Kontzentratzeko prest?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Jarraitu taldeak
+newtab-sports-widget-menu-view-schedule = Ikusi ordutegia
 newtab-sports-widget-menu-view-upcoming = Ikusi hurrengoak
 newtab-sports-widget-menu-view-results = Ikusi emaitzak
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -925,6 +938,8 @@ newtab-sports-widget-search-country =
     .placeholder = Bilatu herrialdea
     .aria-label = Bilatu herrialdea
 newtab-sports-widget-cancel = Utzi
+newtab-sports-widget-back-button =
+    .aria-label = Atzera
 newtab-sports-widget-done-button =
     .label = Eginda
 newtab-sports-widget-group-stage = Multzokako fasea
@@ -939,6 +954,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Data garrantzitsuak
 newtab-sports-widget-upcoming = Hurrengoak
+# Used for a match currently ongoing
+newtab-sports-widget-now = Orain
 newtab-sports-widget-results = Emaitzak
 newtab-sports-widget-semi-finals = Finalerdiak
 newtab-sports-widget-bronze-finals = Brontzerako finala
