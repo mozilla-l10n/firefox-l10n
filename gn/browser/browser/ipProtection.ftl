@@ -119,14 +119,20 @@ ipprotection-connection-status-paused-title-1 = VPN opytáva
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Ojeporupa { $maxUsage } GB mba’ekuaarã nde VPN-gua. Jeike oikojeýta ambue jasýpe.
+ipprotection-connection-status-paused-title-2 = VPN opytáva
+    .aria-label = VPN opytáva
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Ndaikatúi eike VPN-pe
 ipprotection-connection-status-generic-error-description = Eha’ã jey ndahetái aravo’i rire.
 ipprotection-connection-status-generic-error-try-again = Eha’ã jey ag̃amieve.
+ipprotection-connection-status-network-error-title-1 = Ehecha oiko porãpa ne ñanduti
+    .aria-label = Ehecha oiko porãpa ne ñanduti
 ipprotection-connection-status-network-error-title = Ehecha oiko porãpa ne ñanduti
 ipprotection-connection-status-network-error-description = Eike ñandutípe, upéi ikatukuaáma emyady upe VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN ndojeporukuaái
+    .aria-label = VPN ndojeporukuaái
 ipprotection-connection-status-blocked-error-title = VPN ndojeporukuaái
 ipprotection-connection-status-blocked-error-description = Umi léi tendaguáva nomboykéi pe VPN mba’eporu ko tenda guasúpe. <a data-l10n-name="learn-more-link">Eikuaave</a>
 # Variables
@@ -145,6 +151,8 @@ ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Emboheko VPN ikatu hag̃uáicha hendy</a> oñembojuruja nove { -brand-short-name } peteĩ ñemo’ãverã.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } imandu’áta mba’e ñanduti roguépa oñemboheko oiporu hag̃ua VPN. Embohekopyahu <a data-l10n-name="setting-link">ñemboheko</a> ejapose vove.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
+ipprotection-connection-status-generic-error-title-1 = Ndaikatúi eike VPN-pe
+    .aria-label = Ndaikatúi eike VPN-pe
 
 ## IP Protection bandwidth callouts
 
