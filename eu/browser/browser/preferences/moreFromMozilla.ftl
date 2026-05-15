@@ -14,6 +14,9 @@ more-from-moz-subtitle = Kontsulta itzazu Internet osasuntsuago baten alde lan e
 more-from-moz-firefox-mobile-title = Mugikorrerako { -brand-product-name }
 more-from-moz-firefox-mobile-description = Zure pribatutasunari lehentasuna ematen dion mugikorrerako nabigatzailea.
 more-from-moz-firefox-mobile-title-1 = Mugikorrerako { -brand-product-name }
+more-from-moz-firefox-mobile =
+    .label = Mugikorrerako { -brand-product-name }
+    .description = Zure pribatutasunari lehentasuna ematen dion mugikorrerako nabigatzailea.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Aurkitu aparteko babesa eta nabigatze anonimoa.
 more-from-moz-qr-code-box-firefox-mobile-title = Deskargatu zure gailu mugikorrarekin. Apuntatu kamera QR kodera. Lotura agertzean, sakatu.
@@ -63,6 +66,9 @@ more-from-moz-new-products-button = Ikusi produktu berriak
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name }-ren produktu berriak
+    .description = Aurkitu { -vendor-short-name }-ren azken produktuak.
 more-from-moz-mozilla-monitor-box-link =
     .label = Eskuratu { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
