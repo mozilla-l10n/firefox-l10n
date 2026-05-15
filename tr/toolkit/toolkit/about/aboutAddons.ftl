@@ -588,6 +588,7 @@ mlmodel-link-preview = { -brand-short-name }, bağlantıları ön izlediğinizde
 mlmodel-pdfjs = { -brand-short-name }, PDF’lere eklediğiniz resimlere alternatif metin oluşturmak için bunu kullanır
 mlmodel-smart-tab-topic-engine = { -brand-short-name }, sekme gruplarınıza isim önermek için bunu kullanır
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }, sekme gruplarınıza sekme önermek için bunu kullanır
+mlmodel-formfill-engine = Adres formlarını doldurmak için { -brand-short-name } bunu kullanır
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Yerel YZ
 addon-category-mlmodel-title =
