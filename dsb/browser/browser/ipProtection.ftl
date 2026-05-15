@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN wšuźi znjemóžniś
 ipprotection-button-turn-vpn-on = VPN zmóžniś
 # Button while VPN is connecting
 ipprotection-button-connecting = Zmóžnja se…
+ipprotection-connection-status-connected-1 = VPN jo zmóžnjony
+    .aria-label = VPN jo zmóžnjony
+ipprotection-connection-status-disconnected-1 = VPN jo znjemóžnjony
+    .aria-label = VPN jo znjemóžnjony
+ipprotection-connection-status-excluded-1 = VPN jo za toś to sedło znjemóžnjony
+    .aria-label = VPN jo za toś to sedło znjemóžnjony
+ipprotection-connection-status-connecting-1 = VPN se zwězujo…
+    .aria-label = VPN se zwězujo…
 
 ## Location controls
 
