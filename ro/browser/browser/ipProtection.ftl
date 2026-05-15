@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Dezactivează VPN-ul peste tot
 ipprotection-button-turn-vpn-on = Activează VPN-ul
 # Button while VPN is connecting
 ipprotection-button-connecting = Se activează…
+ipprotection-connection-status-connected-1 = VPN-ul este activat
+    .aria-label = VPN-ul este activat
+ipprotection-connection-status-disconnected-1 = VPN-ul este dezactivat
+    .aria-label = VPN-ul este dezactivat
+ipprotection-connection-status-excluded-1 = VPN-ul este dezactivat pentru acest site
+    .aria-label = VPN-ul este dezactivat pentru acest site
+ipprotection-connection-status-connecting-1 = VPN-ul se conectează…
+    .aria-label = VPN-ul se conectează…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN în pauză
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Ți-ai folosit toți cei { $maxUsage } GB din datele VPN. Accesul se resetează luna viitoare.
+ipprotection-connection-status-paused-title-2 = VPN în pauză
+    .aria-label = VPN în pauză
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Nu s-a putut conecta la VPN
 ipprotection-connection-status-generic-error-description = Încearcă din nou în câteva minute.
 ipprotection-connection-status-generic-error-try-again = Te rugăm să încerci mai târziu.
+ipprotection-connection-status-network-error-title-1 = Verifică conexiunea la internet
+    .aria-label = Verifică conexiunea la internet
 ipprotection-connection-status-network-error-title = Verifică conexiunea la internet
 ipprotection-connection-status-network-error-description = Conectează-te la internet, apoi încearcă să activezi VPN-ul.
+ipprotection-connection-status-blocked-error-title-1 = VPN-ul este indisponibil
+    .aria-label = VPN-ul este indisponibil
 ipprotection-connection-status-blocked-error-title = VPN-ul este indisponibil
 ipprotection-connection-status-blocked-error-description = Legislația locală nu ne permite să oferim servicii VPN în această regiune. <a data-l10n-name="learn-more-link">Află mai multe</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Activează VPN-ul pentru a-ț
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Setează VPN-ul să se activeze</a> de fiecare dată când deschizi { -brand-short-name } pentru un nivel suplimentar de protecție.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } va reține site-urile web pe care le-ai configurat să utilizeze VPN. Poți actualiza oricând opțiunile din <a data-l10n-name="setting-link">setări</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ul este dezactivat pentru acest site
+ipprotection-connection-status-generic-error-title-1 = Nu s-a putut conecta la VPN
+    .aria-label = Nu s-a putut conecta la VPN
 
 ## IP Protection bandwidth callouts
 
