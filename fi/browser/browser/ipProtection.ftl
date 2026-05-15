@@ -121,8 +121,12 @@ ipprotection-connection-status-paused-description-1 = Olet käyttänyt kaikki { 
 ipprotection-connection-status-generic-error-title = VPN-yhteyden muodostaminen epäonnistui
 ipprotection-connection-status-generic-error-description = Yritä uudelleen muutaman minuutin kuluttua.
 ipprotection-connection-status-generic-error-try-again = Yritä myöhemmin uudelleen.
+ipprotection-connection-status-network-error-title-1 = Tarkista Internet-yhteytesi
+    .aria-label = Tarkista Internet-yhteytesi
 ipprotection-connection-status-network-error-title = Tarkista Internet-yhteytesi
 ipprotection-connection-status-network-error-description = Yhdistä internetiin ja kokeile sitten VPN:n käyttöönottoa.
+ipprotection-connection-status-blocked-error-title-1 = VPN ei ole käytettävissä
+    .aria-label = VPN ei ole käytettävissä
 ipprotection-connection-status-blocked-error-title = VPN ei ole käytettävissä
 ipprotection-connection-status-blocked-error-description = Paikalliset lait estävät meitä tarjoamasta VPN-palvelua tällä alueella. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 # Variables
@@ -141,6 +145,8 @@ ipprotection-message-continuous-onboarding-intro = Ota VPN käyttöön piilottaa
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aseta VPN käynnistymään</a> aina, kun avaat { -brand-short-name }in, saadaksesi lisäsuojausta.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } muistaa, mitkä verkkosivustot olet asettanut käyttämään VPN:ää. Voit päivittää sivustot <a data-l10n-name="setting-link">asetuksissa</a> milloin tahansa.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ei ole käytössä tällä sivustolla
+ipprotection-connection-status-generic-error-title-1 = VPN-yhteyden muodostaminen epäonnistui
+    .aria-label = VPN-yhteyden muodostaminen epäonnistui
 
 ## IP Protection bandwidth callouts
 
