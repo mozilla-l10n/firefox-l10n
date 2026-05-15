@@ -357,6 +357,12 @@ browser-layout-show-sidebar-desc = Izan laster-marka, telefonoko fitxa, AA txate
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Hizkuntza eta itxura
+appearance-group2 =
+    .label = Webgunearen itxura
+    .description = Zenbait webgunek beraien koloreak aldatzen dituzte zure hobespenak kontuan hartzeko. Aukeratu zure kolore-eskema.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistema
+    .title = Aldatu automatikoki webguneen atzeko planoak eta edukia zure sistemaren ezarpenetan eta { -brand-short-name }(r)en itxuran oinarrituta.
 appearance-group =
     .label = Webgunearen itxura
     .description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
@@ -489,6 +495,8 @@ manage-browser-languages-button =
     .accesskey = d
 confirm-browser-language-change-description = Berrabiarazi { -brand-short-name } aldaketa hauek aplikatzeko
 confirm-browser-language-change-button = Aplikatu eta berrabiarazi
+browser-language-preferred-label =
+    .label = Hobetsitako hizkuntza
 browser-language-install-error =
     .message = Une honetan { -brand-short-name }(e)k ezin ditu zure hizkuntzak eguneratu. Egiaztatu internetera konektatuta zaudela edo saiatu berriro.
 translate-web-pages =
@@ -585,6 +593,12 @@ download-save-files-header =
     .label = Gorde fitxategiak hemen:
 download-save-where-3 =
     .aria-label = Gorde fitxategiak hemen:
+download-always-ask-where2 =
+    .label = Galdetu non gorde fitxategiak deskargatu aurretik
+    .accesskey = d
+download-private-browsing-delete2 =
+    .label = Ezabatu leiho pribatuetako deskargak leihoa ixtean
+    .accesskey = z
 downloads-header-2 =
     .label = Deskargak
 download-save-where-2 =
@@ -615,6 +629,9 @@ applications-setting =
     .description = Aukeratu { -brand-short-name }(e)k nola maneiatzen dituen webetik edo erabiltzen dituzun aplikazioetatik deskargatzen dituzun fitxategiak.
 applications-header = Aplikazioak
 applications-description = Aukeratu { -brand-short-name }(e)k nola maneiatzen dituen webetik edo erabiltzen dituzun aplikazioetatik deskargatzen dituzun fitxategiak.
+applications-setting2 =
+    .label = Fitxategiak eta aplikazioak
+    .description = Aukeratu nola maneiatzen dituen { -brand-short-name }(e)k deskargatutako fitxategiak eta edukia.
 applications-filter =
     .placeholder = Bilatu fitxategi motak edo aplikazioak
 applications-type-column =
@@ -694,9 +711,15 @@ applications-handle-new-file-types-description = Zer egin behar du { -brand-shor
 applications-save-for-new-types =
     .label = Gorde fitxategiak
     .accesskey = G
+applications-save-for-new-types2 =
+    .label = Gorde fitxategiak automatikoki
+    .accesskey = G
 applications-ask-before-handling =
     .label = Galdetu fitxategiak irekitzea edo gordetzea
     .accesskey = a
+applications-ask-before-handling2 =
+    .label = Galdetu fitxategiak irekitzeko edo gordetzeko
+    .accesskey = G
 drm-group =
     .label = DRM edukia
 drm-content-header = DRM edukia
@@ -712,6 +735,11 @@ update-application-version = { $version }bertsioa <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Erakutsi eguneraketen historia
     .accesskey = E
+update-application-installation =
+    .label = Instalazioa
+update-application-auto-2 =
+    .label = Instalatu eguneraketak automatikoki (gomendatua)
+    .accesskey = a
 update-history =
     .label = Erakutsi eguneraketen historia…
     .accesskey = E
@@ -719,6 +747,9 @@ update-application-allow-description = Baimendu { -brand-short-name }(r)i
 update-application-auto =
     .label = Eguneraketak automatikoki instalatzen (gomendatua)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Egiaztatu eguneraketak dauden edo ez baina aukeratu hauek noiz instalatu
+    .accesskey = E
 update-application-check-choose =
     .label = Eguneraketak bilatzen baina utzi aukeratzen instalatuko diren edo ez
     .accesskey = b
@@ -730,6 +761,9 @@ update-application-background-enabled =
     .accesskey = z
 update-application-warning-cross-user-setting-2 =
     .message = Ezarpen honek Windows kontu guztiei eta { -brand-short-name }(r)en instalazio hau darabilten profilei eragingo die.
+update-application-suppress-prompts-2 =
+    .label = Erakutsi eguneratzeko gogorarazle gutxiago
+    .accesskey = n
 update-application-warning-cross-user-setting = Ezarpen honek Windows kontu guztiei eta { -brand-short-name }(r)en instalazio hau darabilten profilei eragingo die.
 update-application-use-service =
     .label = Erabili atzeko planoko zerbitzua eguneraketak instalatzeko
@@ -752,6 +786,21 @@ update-in-progress-ok-button = &Baztertu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name }(r)i buruz
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } eguneraketak
+    .description = Eguneraketek { -brand-short-name }(r)en abiadura, egonkortasuna eta segurtasuna hobetzen dute.
+update-application-suppress-prompts-heading =
+    .label = Jakinarazpenak
+update-application-updates-managed-by-os =
+    .message = Eguneraketak zure sistema eragileak kudeatzen ditu
 
 ## Firefox support
 
@@ -784,6 +833,10 @@ performance-default-content-process-count =
     .label = { $num } (lehenetsia)
 performance-group =
     .label = Errendimendua
+performance-use-recommended-settings-checkbox-2 =
+    .label = Erabili gomendatutako errendimendu-ezarpenak
+    .description = Ezarpen hauek zure hardwareari eta sistema eragileari egokituta daude.
+    .accesskey = E
 
 ## Accessibility page
 
@@ -816,6 +869,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Bilatu testua idazten hasi bezain laster
     .accesskey = B
+settings-media-group =
+    .label = Multimedia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Erabili bideoa beste leiho batean
+    .accesskey = E
 browsing-picture-in-picture-toggle-enabled =
     .label = Gaitu bideoa beste leiho batean ikusteko kontrolak
     .accesskey = G
@@ -826,6 +884,8 @@ browsing-picture-in-picture-learn-more = Argibide gehiago
 browsing-media-control =
     .label = Kontrolatu multimedia teklatuaren, kaskoen edo interfaze birtualaren bidez
     .accesskey = m
+recommendations-group =
+    .label = Gomendioak
 browsing-media-control-learn-more = Argibide gehiago
 browsing-cfr-recommendations =
     .label = Gomendatu hedapenak nabigatu ahala
@@ -1030,6 +1090,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Tenporizadorea
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Kirolak
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Erlojua
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Lagundu { -brand-product-name }
@@ -1208,6 +1274,7 @@ account-placeholder2 =
     .description = Hasi saioa eta mantendu zure datuak pribatu, zifratuta eta berehala erabilgarri { -brand-short-name } darabilzun edozein lekutan.
 account-sync-section =
     .heading = Kontua eta sinkronizazioa
+pane-account-sync-title = Kontua eta sinkronizazioa
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2452,6 +2519,11 @@ preferences-connection-link-button =
 desktop-folder-name = Mahaigaina
 downloads-folder-name = Deskargak
 choose-download-folder-title = Aukeratu deskarga-karpeta:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Itxura
 
 ## AI controls page
 
