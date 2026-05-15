@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN ਨੂੰ ਹਰ ਥਾਂ 
 ipprotection-button-turn-vpn-on = VPN ਚਾਲੂ ਕਰੋ
 # Button while VPN is connecting
 ipprotection-button-connecting = …ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+ipprotection-connection-status-connected-1 = VPN ਚਾਲੂ ਹੈ
+    .aria-label = VPN ਚਾਲੂ ਹੈ
+ipprotection-connection-status-disconnected-1 = VPN ਬੰਦ ਹੈ
+    .aria-label = VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-excluded-1 = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+    .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-connecting-1 = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+    .aria-label = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 
 ## Location controls
 
