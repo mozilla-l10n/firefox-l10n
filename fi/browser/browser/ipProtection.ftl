@@ -88,6 +88,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Poista VPN käytöstä kaikkial
 ipprotection-button-turn-vpn-on = Ota VPN käyttöön
 # Button while VPN is connecting
 ipprotection-button-connecting = Käynnistetään…
+ipprotection-connection-status-connected-1 = VPN on päällä
+    .aria-label = VPN on päällä
+ipprotection-connection-status-disconnected-1 = VPN on pois päältä
+    .aria-label = VPN on pois päältä
+ipprotection-connection-status-excluded-1 = VPN ei ole käytössä tällä sivustolla
+    .aria-label = VPN ei ole käytössä tällä sivustolla
+ipprotection-connection-status-connecting-1 = VPN muodostaa yhteyttä…
+    .aria-label = VPN muodostaa yhteyttä…
 
 ## Location controls
 
@@ -115,6 +123,8 @@ ipprotection-connection-status-paused-title-1 = VPN on keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Olet käyttänyt kaikki { $maxUsage } Gt VPN-dataa. Käyttöoikeus nollautuu ensi kuussa.
+ipprotection-connection-status-paused-title-2 = VPN on keskeytetty
+    .aria-label = VPN on keskeytetty
 
 ## Messages and errors
 
