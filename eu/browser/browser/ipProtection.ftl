@@ -222,6 +222,7 @@ ip-protection-bandwidth-header-1 = Hileroko datuen muga
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = VPNaren { $maxUsage } GB, berrituta eta erabiltzeko prest
+ipprotection-bandwidth-reset-text = Gaitu VPNa pribatutasunari bultzada emateko, doan hilero.
 ipprotection-bandwidth-reset-button = Ulertuta
 
 ## IP Protection add-on breakage warnings

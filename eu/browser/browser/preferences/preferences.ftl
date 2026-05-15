@@ -1719,6 +1719,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Pasahitzak eta betetze automatikoaren ezarpenak
+pane-passwords-autofill-title = Pasahitzak eta betetze automatikoa
+preferences-passwords-autofill-header =
+    .heading = Pasahitzak eta betetze automatikoa
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2192,6 +2197,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Baimenak
     .description = Kudeatu webguneek zer atzitu, kontrolatu edo abiaraz dezaketen.
+permissions-data-section =
+    .heading = Baimenak eta datuak
+pane-permissions-data-title = Baimenak eta datuak
 
 ## Privacy Section - Data Collection
 
@@ -2524,6 +2532,15 @@ choose-download-folder-title = Aukeratu deskarga-karpeta:
 
 preferences-appearance-header =
     .heading = Itxura
+browser-theme-group =
+    .label = Nabigatzailearen itxura
+    .description = Moldatu { -brand-short-name } zure erara. Itxuren koloreek tresna-barrei, menuei eta mezuei eragiten die.
+browser-theme-manage-link =
+    .label = Kudeatu { -brand-short-name }(r)en itxurak
+related-settings-group =
+    .label = Erlazionatutako ezarpenak
+related-settings-home-link =
+    .label = Pertsonalizatu { -firefox-home-brand-name }
 
 ## AI controls page
 
