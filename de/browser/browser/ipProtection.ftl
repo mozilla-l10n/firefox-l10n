@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN überall deaktivieren
 ipprotection-button-turn-vpn-on = VPN aktivieren
 # Button while VPN is connecting
 ipprotection-button-connecting = Wird aktiviert…
+ipprotection-connection-status-connected-1 = VPN ist aktiviert
+    .aria-label = VPN ist aktiviert
+ipprotection-connection-status-disconnected-1 = VPN ist deaktiviert
+    .aria-label = VPN ist deaktiviert
+ipprotection-connection-status-excluded-1 = VPN ist für diese Website deaktiviert
+    .aria-label = VPN ist für diese Website deaktiviert
+ipprotection-connection-status-connecting-1 = VPN stellt eine Verbindung her…
+    .aria-label = VPN stellt eine Verbindung her…
 
 ## Location controls
 
