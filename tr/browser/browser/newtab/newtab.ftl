@@ -786,6 +786,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Araçlar
 newtab-widget-menu-hide = Aracı gizle
 newtab-widget-menu-change-size = Boyutu değiştir
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Taşı
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Sol
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Sağ
 newtab-widget-size-small = Küçük
 newtab-widget-size-medium = Orta
 newtab-widget-size-large = Büyük
@@ -802,6 +811,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Araçlar menüsü
     .aria-label = Araçlar menüsünü aç
+newtab-widget-add-widgets-button =
+    .aria-label = Araç ekle
+    .title = Araç ekle
 newtab-widget-section-menu-manage = Araçları yönet
 newtab-widget-section-menu-hide-all = Araçları gizle
 newtab-widget-section-menu-learn-more = Daha fazla bilgi al
@@ -894,6 +906,7 @@ newtab-widget-timer-celebration-message-break = Odaklanmaya hazır mısınız?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Takımları takip et
+newtab-sports-widget-menu-view-schedule = Takvimi gör
 newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
 newtab-sports-widget-menu-view-results = Sonuçlara bak
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -922,6 +935,8 @@ newtab-sports-widget-search-country =
     .placeholder = Ülke ara
     .aria-label = Ülke ara
 newtab-sports-widget-cancel = Vazgeç
+newtab-sports-widget-back-button =
+    .aria-label = Geri
 newtab-sports-widget-done-button =
     .label = Tamam
 newtab-sports-widget-group-stage = Grup maçı
@@ -936,6 +951,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Önemli tarihler
 newtab-sports-widget-upcoming = Yaklaşıyor
+# Used for a match currently ongoing
+newtab-sports-widget-now = Şimdi
 newtab-sports-widget-results = Sonuçlar
 newtab-sports-widget-semi-finals = Yarı finaller
 newtab-sports-widget-bronze-finals = Üçüncülük maçı
