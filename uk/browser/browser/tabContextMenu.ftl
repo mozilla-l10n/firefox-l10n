@@ -139,6 +139,26 @@ tab-context-send-to-device =
            *[many] Надіслати { $tabCount } вкладок на пристрій
         }
     .accesskey = с
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [one] Надіслати на мобільний
+            [few] Надіслати { $tabCount } вкладки на мобільний
+           *[many] Надіслати { $tabCount } вкладок на мобільний
+        }
+    .accesskey = с
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Увімкнути синхронізацію для надсилання вкладки
+tab-context-send-to-mobile-connect-phone =
+    .label = Під'єднайте свій телефон
+tab-context-send-to-mobile-device-missing =
+    .label = Не бачите свій пристрій?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Створити посилання для спільного доступу
+    .accesskey = п
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
