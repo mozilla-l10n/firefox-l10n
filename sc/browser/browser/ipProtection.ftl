@@ -38,6 +38,9 @@ ipprotection-site-settings-callout-title = Sèbera in ue boles impreare sa VPN
 ipprotection-site-settings-callout-subtitle = Disativa sa VPN pro unu situ ispetzìficu e dd’amus a regordare cando dd’as a torrare a visitare.
 ipprotection-site-settings-callout-button = Apo cumprèndidu
 
+## Location selection callout
+
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -71,6 +74,17 @@ ipprotection-button-turn-vpn-off-excluded-site = Disativa sa VPN in totue
 ipprotection-button-turn-vpn-on = Ativa sa VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Ativatzione in cursu…
+ipprotection-connection-status-connected-1 = Sa VPN est ativada
+    .aria-label = Sa VPN est ativada
+ipprotection-connection-status-disconnected-1 = Sa VPN est disativada
+    .aria-label = Sa VPN est disativada
+ipprotection-connection-status-excluded-1 = Sa VPN est disativada pro custu situ
+    .aria-label = Sa VPN est disativada pro custu situ
+ipprotection-connection-status-connecting-1 = Connessione VPN in cursu…
+    .aria-label = Connessione VPN in cursu…
+
+## Location controls
+
 
 ## VPN paused state
 
@@ -81,9 +95,36 @@ upgrade-vpn-button = Proa { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = Impossìbile connètere a sa VPN
 ipprotection-connection-status-generic-error-description = Torra·nche a proare de immoe a calicunu minutu.
 ipprotection-connection-status-generic-error-try-again = Torra·nche a proare a pustis.
+ipprotection-connection-status-network-error-title-1 = Controlla sa connessione a sa rete
+    .aria-label = Controlla sa connessione a sa rete
 ipprotection-connection-status-network-error-title = Controlla sa connessione a sa rete
+ipprotection-connection-status-blocked-error-title-1 = Sa VPN no est a disponimentu
+    .aria-label = Sa VPN no est a disponimentu
 ipprotection-connection-status-blocked-error-title = Sa VPN no est a disponimentu
 confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativada pro custu situ
+ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
+    .aria-label = Impossìbile connètere a sa VPN
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
+## IP Protection Settings
+
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
