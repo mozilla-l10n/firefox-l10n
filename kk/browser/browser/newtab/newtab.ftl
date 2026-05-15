@@ -788,6 +788,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Виджеттер
 newtab-widget-menu-hide = Виджетті жасыру
 newtab-widget-menu-change-size = Өлшемін өзгерту
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Жылжыту
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Сол жақ
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Оң жақ
 newtab-widget-size-small = Кішкентай
 newtab-widget-size-medium = Орташа
 newtab-widget-size-large = Үлкен
@@ -804,6 +813,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Виджеттер мәзірі
     .aria-label = Виджеттер мәзірін ашу
+newtab-widget-add-widgets-button =
+    .aria-label = Виджет қосу
+    .title = Виджет қосу
 newtab-widget-section-menu-manage = Виджеттерді басқару
 newtab-widget-section-menu-hide-all = Виджеттерді жасыру
 newtab-widget-section-menu-learn-more = Көбірек білу
@@ -895,6 +907,7 @@ newtab-widget-timer-celebration-message-break = Назар аударуға да
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Командаларға жазылу
+newtab-sports-widget-menu-view-schedule = Кестені қарау
 newtab-sports-widget-menu-view-upcoming = Алдағы уақыттағыларды қарау
 newtab-sports-widget-menu-view-results = Нәтижелерді қарау
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -922,6 +935,8 @@ newtab-sports-widget-search-country =
     .placeholder = Елді іздеу
     .aria-label = Елді іздеу
 newtab-sports-widget-cancel = Бас тарту
+newtab-sports-widget-back-button =
+    .aria-label = Артқа
 newtab-sports-widget-done-button =
     .label = Дайын
 newtab-sports-widget-group-stage = Топтық кезең
@@ -936,6 +951,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Негізгі күндер
 newtab-sports-widget-upcoming = Алдағы уақытта
+# Used for a match currently ongoing
+newtab-sports-widget-now = Қазір
 newtab-sports-widget-results = Нәтижелер
 newtab-sports-widget-semi-finals = Жартылай финал
 newtab-sports-widget-bronze-finals = Үшінші орын үшін ойын
