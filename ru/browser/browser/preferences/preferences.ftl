@@ -1738,7 +1738,7 @@ addresses-delete-address-prompt-confirm-button = Удалить
 addresses-delete-address-prompt-cancel-button = Отмена
 autofill-addresses-add-button = Добавить новый адрес
 autofill-addresses-manage-addresses-title =
-    .heading = Управление адресами и пр.
+    .heading = Управление адресами и другим
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Адреса не добавлены
