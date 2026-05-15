@@ -461,7 +461,7 @@ preferences-zoom-text-only =
     .label = Agrandir uniquement le texte
     .accesskey = A
 preferences-text-zoom-override-warning2 =
-    .message = Si « Zoom sur le texte uniquement » est activé et que votre niveau de zoom par défaut n’est pas à 100 %, certains sites peuvent ne pas afficher correctement le contenu.
+    .message = Si « Agrandir uniquement le texte » est activé et que votre niveau de zoom par défaut n’est pas à 100 %, certains sites peuvent ne pas afficher correctement le contenu.
 preferences-text-zoom-override-warning =
     .message = Attention : si vous sélectionnez « Agrandir uniquement le texte » et que votre zoom par défaut n’est pas réglé sur 100 %, certains sites ou contenus peuvent ne pas fonctionner correctement.
 language-header = Langue
@@ -1648,7 +1648,7 @@ windows-passkey-settings-label = Gérer les clés d’accès dans les paramètre
 ## Privacy Panel Settings
 
 privacy-panel-settings-header =
-    .label = Paramètres du panneau « Confidentialité »
+    .label = Paramètres du panneau Vie privée
     .description = Obtenez de l’aide pour protéger vos informations en ligne avec { -brand-short-name }.
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach

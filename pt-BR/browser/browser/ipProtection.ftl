@@ -113,7 +113,7 @@ ipprotection-locations-subview-promo-button = Obtenha o { -mozilla-vpn-brand-nam
 
 ## VPN paused state
 
-upgrade-vpn-title = Tenha proteção extra, além da do navegador
+upgrade-vpn-title = Tenha proteção extra, além da no navegador
 upgrade-vpn-description = Escolha uma localização de VPN, proteja todos os seus aplicativos em até 5 dispositivos e fique seguro em qualquer rede, em casa ou em redes públicas de WiFi.
 upgrade-vpn-button = Experimente o { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = A VPN está em pausa
