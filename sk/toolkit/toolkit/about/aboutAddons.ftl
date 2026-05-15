@@ -598,6 +598,7 @@ mlmodel-link-preview = { -brand-short-name } toto používa na generovanie kľú
 mlmodel-pdfjs = { -brand-short-name } toto používa na vytvorenie alternatívneho textu pre obrázky, ktoré pridávate do súborov PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používa na navrhovanie názvov pre vaše skupiny kariet
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používa na navrhovanie kariet pre vaše skupiny kariet
+mlmodel-formfill-engine = { -brand-short-name } toto používa na pomoc s vypĺňaním formulárov s adresou
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Umelá inteligencia v zariadení
 addon-category-mlmodel-title =

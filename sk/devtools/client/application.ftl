@@ -117,6 +117,10 @@ sidebar-item-session-history = História relácií
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Zobraziť údaje histórie relácií
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Diagram histórie relácií nie je k dispozícii
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Cieľ nepodporuje zobrazovanie diagramov histórie relácií
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona varovania

@@ -1275,6 +1275,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synchronizované karty
     .tooltiptext = Zobraziť karty z iných zariadení
+toolbar-button-send-tab =
+    .label = Odoslať kartu
+    .tooltiptext = Odoslať aktuálnu kartu do iného zariadenia
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1489,6 +1492,9 @@ reset-pbm-panel-confirm-button =
     .label = Odstrániť údaje relácie
     .accesskey = O
 reset-pbm-panel-complete = Údaje súkromnej relácie boli odstránené
+reset-pbm-toolbar-button2 =
+    .label = Vymazať súkromnú reláciu
+    .tooltiptext = Vymazať súkromnú reláciu
 
 ## Autorefresh blocker
 

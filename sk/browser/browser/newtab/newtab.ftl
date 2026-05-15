@@ -788,6 +788,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Miniaplikácie
 newtab-widget-menu-hide = Skryť miniaplikáciu
 newtab-widget-menu-change-size = Zmeniť veľkosť
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Presunúť
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Doľava
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Doprava
 newtab-widget-size-small = Malá
 newtab-widget-size-medium = Stredná
 newtab-widget-size-large = Veľká

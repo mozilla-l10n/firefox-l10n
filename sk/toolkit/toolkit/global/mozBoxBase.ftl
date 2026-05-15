@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Otvorí sa na novej karte
+moz-box-item-reorder-handle =
+    .aria-label = Usporiadanie položiek zmeníte pomocou skratiek Ctrl+Shift+šípka nahor alebo Ctrl+Shift+šípka nadol
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Poradie položky { $item } zmeníte pomocou skratiek Ctrl+Shift+šípka nahor alebo Ctrl+Shift+šípka nadol
