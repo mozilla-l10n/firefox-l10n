@@ -61,6 +61,8 @@ ipprotection-button-turn-vpn-off-excluded-site = کۊر کردن VPN سی همه
 ipprotection-button-turn-vpn-on = رۊشن کردن VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = هونی رۊشن ابۊ…
+ipprotection-connection-status-connected-1 = VPN رۊشن هڌ
+    .aria-label = VPN رۊشن هڌ
 ipprotection-connection-status-disconnected-1 = VPN کۊر هڌ
     .aria-label = VPN کۊر هڌ
 ipprotection-connection-status-excluded-1 = VPN سی ای وبگه کۊر هڌ
