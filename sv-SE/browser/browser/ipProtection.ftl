@@ -126,8 +126,12 @@ ipprotection-connection-status-paused-description-1 = Du har använt alla { $max
 ipprotection-connection-status-generic-error-title = Kunde inte ansluta till VPN
 ipprotection-connection-status-generic-error-description = Försök igen om några minuter.
 ipprotection-connection-status-generic-error-try-again = Försök igen senare.
+ipprotection-connection-status-network-error-title-1 = Kontrollera din internetanslutning
+    .aria-label = Kontrollera din internetanslutning
 ipprotection-connection-status-network-error-title = Kontrollera din internetanslutning
 ipprotection-connection-status-network-error-description = Anslut till internet och försök sedan aktivera VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN är inte tillgängligt
+    .aria-label = VPN är inte tillgängligt
 ipprotection-connection-status-blocked-error-title = VPN är inte tillgängligt
 ipprotection-connection-status-blocked-error-description = Lokala lagar hindrar oss från att tillhandahålla VPN-tjänster i den här regionen. <a data-l10n-name="learn-more-link">Läs mer</a>
 # Variables
