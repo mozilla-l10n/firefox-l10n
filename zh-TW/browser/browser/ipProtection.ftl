@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = 已暫停 VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
+ipprotection-connection-status-paused-title-2 = 已暫停 VPN
+    .aria-label = 已暫停 VPN
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = 無法連線至 VPN
 ipprotection-connection-status-generic-error-description = 請稍候幾分鐘再試一次。
 ipprotection-connection-status-generic-error-try-again = 請稍候再試。
+ipprotection-connection-status-network-error-title-1 = 請檢查您的網際網路連線是否正常
+    .aria-label = 請檢查您的網際網路連線是否正常
 ipprotection-connection-status-network-error-title = 請檢查您的網際網路連線是否正常
 ipprotection-connection-status-network-error-description = 請連線到網際網路，再嘗試開啟 VPN。
+ipprotection-connection-status-blocked-error-title-1 = 無法使用 VPN
+    .aria-label = 無法使用 VPN
 ipprotection-connection-status-blocked-error-title = 無法使用 VPN
 ipprotection-connection-status-blocked-error-description = 由於此地區的相關法律規定，我們無法提供 VPN 服務。<a data-l10n-name="learn-more-link">更多資訊</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的
 ipprotection-message-continuous-onboarding-autostart = 設定在每次開啟 { -brand-short-name } 時<a data-l10n-name="setting-link">就自動開啟 VPN</a>，讓您受到更多一層保護。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 會記得您設定要讓哪些網站透過 VPN 開啟。也可隨時到<a data-l10n-name="setting-link">設定</a>當中調整。
 confirmation-hint-ipprotection-navigated-to-excluded-site = 已對此網站關閉 VPN 連線
+ipprotection-connection-status-generic-error-title-1 = 無法連線至 VPN
+    .aria-label = 無法連線至 VPN
 
 ## IP Protection bandwidth callouts
 
