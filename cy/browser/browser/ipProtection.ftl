@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Diffodd VPN ym mhobman
 ipprotection-button-turn-vpn-on = Troi VPN ymlaen
 # Button while VPN is connecting
 ipprotection-button-connecting = Yn ei droi ymlaen…
+ipprotection-connection-status-connected-1 = Mae'r VPN ymlaen
+    .aria-label = Mae'r VPN ymlaen
+ipprotection-connection-status-disconnected-1 = Mae'r VPN i ffwrdd
+    .aria-label = Mae'r VPN i ffwrdd
+ipprotection-connection-status-excluded-1 = Mae VPN i ffwrdd ar y wefan hon
+    .aria-label = Mae VPN i ffwrdd ar y wefan hon
+ipprotection-connection-status-connecting-1 = Mae VPN yn cysylltu…
+    .aria-label = Mae VPN yn cysylltu…
 
 ## Location controls
 
