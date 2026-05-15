@@ -786,6 +786,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = 小工具
 newtab-widget-menu-hide = 隱藏小工具
 newtab-widget-menu-change-size = 更改大小
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = 移動
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = 置左
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = 置右
 newtab-widget-size-small = 小
 newtab-widget-size-medium = 中
 newtab-widget-size-large = 大
@@ -802,6 +811,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = 小工具選單
     .aria-label = 開啟小工具選單
+newtab-widget-add-widgets-button =
+    .aria-label = 新增小工具
+    .title = 新增小工具
 newtab-widget-section-menu-manage = 管理小工具
 newtab-widget-section-menu-hide-all = 隱藏小工具
 newtab-widget-section-menu-learn-more = 更多資訊
@@ -886,6 +898,7 @@ newtab-widget-timer-celebration-message-break = 準備好要專注了嗎？
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = 關注球隊
+newtab-sports-widget-menu-view-schedule = 檢視賽程
 newtab-sports-widget-menu-view-upcoming = 檢視即將到來的賽事
 newtab-sports-widget-menu-view-results = 看比賽結果
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -910,6 +923,8 @@ newtab-sports-widget-search-country =
     .placeholder = 搜尋國家
     .aria-label = 搜尋國家
 newtab-sports-widget-cancel = 取消
+newtab-sports-widget-back-button =
+    .aria-label = 返回
 newtab-sports-widget-done-button =
     .label = 完成
 newtab-sports-widget-group-stage = 小組賽
@@ -924,6 +939,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = 重要日期
 newtab-sports-widget-upcoming = 即將到來
+# Used for a match currently ongoing
+newtab-sports-widget-now = 進行中
 newtab-sports-widget-results = 結果
 newtab-sports-widget-semi-finals = 準決賽
 newtab-sports-widget-bronze-finals = 銅牌戰
