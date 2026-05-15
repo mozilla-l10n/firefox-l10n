@@ -71,6 +71,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Çaktivizoje VPN-në gjithkund
 ipprotection-button-turn-vpn-on = Aktivizoje VPN-në
 # Button while VPN is connecting
 ipprotection-button-connecting = Po aktivizohet…
+ipprotection-connection-status-connected-1 = VPN është e hapur
+    .aria-label = VPN është e hapur
+ipprotection-connection-status-disconnected-1 = VPN është e mbyllur
+    .aria-label = VPN është e mbyllur
+ipprotection-connection-status-excluded-1 = VPN-ja është e mbyllur për këtë sajt
+    .aria-label = VPN-ja është e mbyllur për këtë sajt
+ipprotection-connection-status-connecting-1 = VPN-ja po lidhet…
+    .aria-label = VPN-ja po lidhet…
 
 ## Location controls
 
@@ -110,6 +118,8 @@ ipprotection-message-continuous-onboarding-intro = Që të fshihni vendndodhjen 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ujdiseni VPN-në të aktivizohet</a> sa herë që hapni { -brand-short-name }-in, për një shtresë shtesë mbrojtjeje.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }-i do të mbajë mend me cilët sajte keni vendosur të përdoret VPN. Përditësojeni këtë kurdo te <a data-l10n-name="setting-link">rregullimet</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ja është e mbyllur për këtë sajt
+ipprotection-connection-status-generic-error-title-1 = S’u lidh dot me VPN-në
+    .aria-label = S’u lidh dot me VPN-në
 
 ## IP Protection bandwidth callouts
 
