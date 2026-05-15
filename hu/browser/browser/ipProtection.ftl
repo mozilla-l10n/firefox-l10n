@@ -126,8 +126,12 @@ ipprotection-connection-status-paused-description-1 = Felhasználta a teljes { $
 ipprotection-connection-status-generic-error-title = Nem sikerült kapcsolódni a VPN-hez
 ipprotection-connection-status-generic-error-description = Próbálja újra néhány perc múlva.
 ipprotection-connection-status-generic-error-try-again = Próbálja újra később.
+ipprotection-connection-status-network-error-title-1 = Ellenőrizze internetkapcsolatát
+    .aria-label = Ellenőrizze internetkapcsolatát
 ipprotection-connection-status-network-error-title = Ellenőrizze internetkapcsolatát
 ipprotection-connection-status-network-error-description = Kapcsolódjon az internethez, majd próbálja bekapcsolni a VPN-t.
+ipprotection-connection-status-blocked-error-title-1 = A VPN nem érhető el
+    .aria-label = A VPN nem érhető el
 ipprotection-connection-status-blocked-error-title = A VPN nem érhető el
 ipprotection-connection-status-blocked-error-description = A helyi törvények miatt nem nyújthatunk VPN-szolgáltatást ebben a régióban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 # Variables
