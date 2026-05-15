@@ -34,9 +34,6 @@ ipprotection-site-settings-callout-title = Виберіть, де викорис
 ipprotection-site-settings-callout-subtitle = Вимкніть VPN для певного сайту, і ми запам'ятаємо це під час наступного відвідування.
 ipprotection-site-settings-callout-button = Зрозуміло
 
-## Location selection callout
-
-
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -77,9 +74,6 @@ ipprotection-connection-status-excluded-1 = VPN вимкнено для цьог
     .aria-label = VPN вимкнено для цього сайту
 ipprotection-connection-status-connecting-1 = VPN під'єднується…
     .aria-label = VPN під'єднується…
-
-## Location controls
-
 
 ## VPN paused state
 
@@ -187,9 +181,6 @@ ip-protection-bandwidth-help-text = Скидається до { $maxUsage } ГБ
 ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN оновлено і готово до використання
 ipprotection-bandwidth-reset-text = Увімкніть VPN для посилення приватності, безплатно щомісяця.
 ipprotection-bandwidth-reset-button = Зрозуміло
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 
