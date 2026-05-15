@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = VPN er sett på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
+ipprotection-connection-status-paused-title-2 = VPN er sett på pause
+    .aria-label = VPN er sett på pause
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Klarte ikkje å kople til VPN
 ipprotection-connection-status-generic-error-description = Prøv igjen om nokre minutt.
 ipprotection-connection-status-generic-error-try-again = Prøv igjen seinare.
+ipprotection-connection-status-network-error-title-1 = Sjekk internettilkoplinga di
+    .aria-label = Sjekk internettilkoplinga di
 ipprotection-connection-status-network-error-title = Sjekk internettilkoplinga di
 ipprotection-connection-status-network-error-description = Kople til internett, og prøv deretter å slå på VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN er ikkje tilgjengeleg
+    .aria-label = VPN er ikkje tilgjengeleg
 ipprotection-connection-status-blocked-error-title = VPN er ikkje tilgjengeleg
 ipprotection-connection-status-blocked-error-description = Lokale lover hindrar oss i å tilby VPN-tenester i denne regionen. <a data-l10n-name="learn-more-link">Les meir</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Still inn VPN til å slå seg på</a> kvar gong du opnar { -brand-short-name } for eit ekstra lag med vern.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hugsar kva nettstadar du har stilt inn til å bruke VPN. Oppdater desse i <a data-l10n-name="setting-link">innstillingar</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
+ipprotection-connection-status-generic-error-title-1 = Klarte ikkje å kople til VPN
+    .aria-label = Klarte ikkje å kople til VPN
 
 ## IP Protection bandwidth callouts
 
