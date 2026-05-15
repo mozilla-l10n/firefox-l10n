@@ -2,9 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Испрати „Не следи“ сигнал до мрежните места за да не бидете следени
+do-not-track-removal = Сигналот „Не следи“ не е повеќе поддржан
 do-not-track-learn-more = Дознајте повеќе
+do-not-track-option-default-content-blocking-known =
+    .label = Само кога { -brand-short-name } е поставени да блокира познати следачи
 do-not-track-option-always =
     .label = Секогаш
+global-privacy-control-description =
+    .label = Кажи им на мрежните места да ги ги продаваат или споделуваат моите податоци
+    .accesskey = с
+non-technical-privacy-group =
+    .label = Преференции за приватност на мрежното место
+do-not-track-removal3 =
+    .message = Особеноста „Не следи“ не е повеќе поддржана
+non-technical-privacy-heading =
+    .label = Дополнителни заштити
+non-technical-privacy-header = Преференции за приватност на мрежното место
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Глобална контрола на приватноста (GPC)
 settings-page-title = Поставки
 category-nav-heading =
     .heading = Поставки
