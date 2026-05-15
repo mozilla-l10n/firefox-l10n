@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = VPN jo zastajony
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
+ipprotection-connection-status-paused-title-2 = VPN jo zastajony
+    .aria-label = VPN jo zastajony
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Zwisk z VPN njejo móžny
 ipprotection-connection-status-generic-error-description = Wopytajśo za mało minutow hyšći raz.
 ipprotection-connection-status-generic-error-try-again = Wopytajśo pšosym pózdźej hyšći raz.
+ipprotection-connection-status-network-error-title-1 = Pśeglědujśo swój internetny zwisk
+    .aria-label = Pśeglědujśo swój internetny zwisk
 ipprotection-connection-status-network-error-title = Pśeglědujśo swój internetny zwisk
 ipprotection-connection-status-network-error-description = Zwěžćo z internetom a wopytajśo pón VPN zmóžniś.
+ipprotection-connection-status-blocked-error-title-1 = VPN njejo k dispoziciji
+    .aria-label = VPN njejo k dispoziciji
 ipprotection-connection-status-blocked-error-title = VPN njejo k dispoziciji
 ipprotection-connection-status-blocked-error-description = Lokalne kazni nam zawoboruju, słužbu VPN w toś tom regionje póbitowaś. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = Zmóžniśo VPN, aby swójo s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžniśo VPN</a> za pśidatnu šćitnu rowninu, kuždy raz, gaž { -brand-short-name } wócynjaśo.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } se na to dopomina, za kótare websedła se ma VPN wužywaś. Aktualizěrujśo toś te kuždy cas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jo za toś to sedło znjemóžnjony
+ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN njejo móžny
+    .aria-label = Zwisk z VPN njejo móžny
 
 ## IP Protection bandwidth callouts
 
