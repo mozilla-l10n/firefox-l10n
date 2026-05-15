@@ -88,6 +88,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Poista VPN käytöstä kaikkial
 ipprotection-button-turn-vpn-on = Ota VPN käyttöön
 # Button while VPN is connecting
 ipprotection-button-connecting = Käynnistetään…
+ipprotection-connection-status-connected-1 = VPN on päällä
+    .aria-label = VPN on päällä
+ipprotection-connection-status-disconnected-1 = VPN on pois päältä
+    .aria-label = VPN on pois päältä
+ipprotection-connection-status-excluded-1 = VPN ei ole käytössä tällä sivustolla
+    .aria-label = VPN ei ole käytössä tällä sivustolla
+ipprotection-connection-status-connecting-1 = VPN muodostaa yhteyttä…
+    .aria-label = VPN muodostaa yhteyttä…
 
 ## Location controls
 
@@ -115,14 +123,20 @@ ipprotection-connection-status-paused-title-1 = VPN on keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Olet käyttänyt kaikki { $maxUsage } Gt VPN-dataa. Käyttöoikeus nollautuu ensi kuussa.
+ipprotection-connection-status-paused-title-2 = VPN on keskeytetty
+    .aria-label = VPN on keskeytetty
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = VPN-yhteyden muodostaminen epäonnistui
 ipprotection-connection-status-generic-error-description = Yritä uudelleen muutaman minuutin kuluttua.
 ipprotection-connection-status-generic-error-try-again = Yritä myöhemmin uudelleen.
+ipprotection-connection-status-network-error-title-1 = Tarkista Internet-yhteytesi
+    .aria-label = Tarkista Internet-yhteytesi
 ipprotection-connection-status-network-error-title = Tarkista Internet-yhteytesi
 ipprotection-connection-status-network-error-description = Yhdistä internetiin ja kokeile sitten VPN:n käyttöönottoa.
+ipprotection-connection-status-blocked-error-title-1 = VPN ei ole käytettävissä
+    .aria-label = VPN ei ole käytettävissä
 ipprotection-connection-status-blocked-error-title = VPN ei ole käytettävissä
 ipprotection-connection-status-blocked-error-description = Paikalliset lait estävät meitä tarjoamasta VPN-palvelua tällä alueella. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 # Variables
@@ -141,6 +155,8 @@ ipprotection-message-continuous-onboarding-intro = Ota VPN käyttöön piilottaa
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aseta VPN käynnistymään</a> aina, kun avaat { -brand-short-name }in, saadaksesi lisäsuojausta.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } muistaa, mitkä verkkosivustot olet asettanut käyttämään VPN:ää. Voit päivittää sivustot <a data-l10n-name="setting-link">asetuksissa</a> milloin tahansa.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ei ole käytössä tällä sivustolla
+ipprotection-connection-status-generic-error-title-1 = VPN-yhteyden muodostaminen epäonnistui
+    .aria-label = VPN-yhteyden muodostaminen epäonnistui
 
 ## IP Protection bandwidth callouts
 

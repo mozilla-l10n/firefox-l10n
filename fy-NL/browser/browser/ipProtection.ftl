@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN oeral útskeakelje
 ipprotection-button-turn-vpn-on = VPN ynskeakelje
 # Button while VPN is connecting
 ipprotection-button-connecting = Ynskeakelje…
+ipprotection-connection-status-connected-1 = VPN is ynskeakele
+    .aria-label = VPN is ynskeakele
+ipprotection-connection-status-disconnected-1 = VPN is útskeakele
+    .aria-label = VPN is útskeakele
+ipprotection-connection-status-excluded-1 = VPN is út foar dizze website
+    .aria-label = VPN is út foar dizze website
+ipprotection-connection-status-connecting-1 = VPN makket ferbining…
+    .aria-label = VPN makket ferbining…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN is pauzearre
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. De tagong wurdt folgjende moanne opnij ynsteld.
+ipprotection-connection-status-paused-title-2 = VPN is pauzearre
+    .aria-label = VPN is pauzearre
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Kin net ferbine mei VPN
 ipprotection-connection-status-generic-error-description = Probearje it oer in pear minuten opnij.
 ipprotection-connection-status-generic-error-try-again = Probearje it letter noch ris.
+ipprotection-connection-status-network-error-title-1 = Kontrolearje jo ynternetferbining
+    .aria-label = Kontrolearje jo ynternetferbining
 ipprotection-connection-status-network-error-title = Kontrolearje jo ynternetferbining
 ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dernei VPN yn te skeakeljen.
+ipprotection-connection-status-blocked-error-title-1 = VPN is net beskikber
+    .aria-label = VPN is net beskikber
 ipprotection-connection-status-blocked-error-title = VPN is net beskikber
 ipprotection-connection-status-blocked-error-description = Fanwegen lokale wetjouwing kinne wy gjin VPN-tsjinsten oanbiede yn dizze regio. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Skeakelje VPN yn om jo lokaas
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN yn om</a> hieltyd as jo { -brand-short-name } iepenje yn te skeakeljen foar in ekstra beskermingslaach.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ûnthâldt hokker websites jo ynsteld hawwe foar it gebrûk fan VPN. Wurkje dizze op elk winske momint by yn de <a data-l10n-name="setting-link">ynstellingen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizze website
+ipprotection-connection-status-generic-error-title-1 = Kin net ferbine mei VPN
+    .aria-label = Kin net ferbine mei VPN
 
 ## IP Protection bandwidth callouts
 

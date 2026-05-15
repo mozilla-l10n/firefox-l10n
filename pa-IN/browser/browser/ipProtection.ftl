@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN ਨੂੰ ਹਰ ਥਾਂ 
 ipprotection-button-turn-vpn-on = VPN ਚਾਲੂ ਕਰੋ
 # Button while VPN is connecting
 ipprotection-button-connecting = …ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+ipprotection-connection-status-connected-1 = VPN ਚਾਲੂ ਹੈ
+    .aria-label = VPN ਚਾਲੂ ਹੈ
+ipprotection-connection-status-disconnected-1 = VPN ਬੰਦ ਹੈ
+    .aria-label = VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-excluded-1 = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+    .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-connecting-1 = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+    .aria-label = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN ਰੁਕਿਆ ਹੈ
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = ਤੁਸੀਂ ਆਪਣੇ VPN ਡਾਟੇ ਲਈ ਸਾਰਾ { $maxUsage } GB ਵਰਤ ਚੁੱਕੇ ਹੋ। ਬਾਕੀ ਡਾਟੇ ਲਈ ਪਹੁੰਚ ਅਗਲੇ ਮਹੀਨੇ ਹੋਵੇਗੀ।
+ipprotection-connection-status-paused-title-2 = VPN ਰੁਕਿਆ ਹੈ
+    .aria-label = VPN ਰੁਕਿਆ ਹੈ
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 ipprotection-connection-status-generic-error-description = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
 ipprotection-connection-status-generic-error-try-again = ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ ਕਰੋ ਜੀ।
+ipprotection-connection-status-network-error-title-1 = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
+    .aria-label = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 ipprotection-connection-status-network-error-title = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰੋ ਅਤੇ ਫੇਰ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
+ipprotection-connection-status-blocked-error-title-1 = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+    .aria-label = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 ipprotection-connection-status-blocked-error-title = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 ipprotection-connection-status-blocked-error-description = ਇਸ ਖੇਤਰ ਦੇ ਲੋਕਲ ਕਨੂੰਨ ਸਾਨੂੰ VPN ਸੇਵਾ ਦੇਣ ਤੋਂ ਰੋਕਦੇ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = ਬਰਾਊਜ਼ ਕਰਨ ਦ
 ipprotection-message-continuous-onboarding-autostart = ਵਾਧੂ ਸੁਰੱਖਿਆ ਜੋੜਨ ਲਈ ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਹਰ ਵਾਰ <a data-l10n-name="setting-link">VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ</a>।
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ਯਾਦ ਰੱਖੇਗਾ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ VPN ਸੈੱਟ ਕੀਤਾ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ <a data-l10n-name="setting-link">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਅੱਪਡੇਟ ਕਰੋ।
 confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-generic-error-title-1 = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+    .aria-label = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 
 ## IP Protection bandwidth callouts
 

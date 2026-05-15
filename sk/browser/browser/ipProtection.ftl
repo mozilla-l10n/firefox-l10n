@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Vypnúť VPN všade
 ipprotection-button-turn-vpn-on = Zapnúť VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Zapína sa…
+ipprotection-connection-status-connected-1 = VPN je zapnutá
+    .aria-label = VPN je zapnutá
+ipprotection-connection-status-disconnected-1 = VPN je vypnutá
+    .aria-label = VPN je vypnutá
+ipprotection-connection-status-excluded-1 = VPN je pre túto stránku vypnutá
+    .aria-label = VPN je pre túto stránku vypnutá
+ipprotection-connection-status-connecting-1 = VPN sa pripája…
+    .aria-label = VPN sa pripája…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN je pozastavená
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa obnoví budúci mesiac.
+ipprotection-connection-status-paused-title-2 = VPN je pozastavená
+    .aria-label = VPN je pozastavená
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Nepodarilo sa pripojiť k VPN
 ipprotection-connection-status-generic-error-description = Skúste to znova o pár minút.
 ipprotection-connection-status-generic-error-try-again = Skúste to znova neskôr.
+ipprotection-connection-status-network-error-title-1 = Skontrolujte svoje internetové pripojenie
+    .aria-label = Skontrolujte svoje internetové pripojenie
 ipprotection-connection-status-network-error-title = Skontrolujte svoje internetové pripojenie
 ipprotection-connection-status-network-error-description = Pripojte sa na internet a potom skúste zapnúť VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN nie je k dispozícii
+    .aria-label = VPN nie je k dispozícii
 ipprotection-connection-status-blocked-error-title = VPN nie je k dispozícii
 ipprotection-connection-status-blocked-error-description = Miestne zákony nám bránia v poskytovaní služieb VPN v tomto regióne. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pre túto stránku vypnutá
+ipprotection-connection-status-generic-error-title-1 = Nepodarilo sa pripojiť k VPN
+    .aria-label = Nepodarilo sa pripojiť k VPN
 
 ## IP Protection bandwidth callouts
 

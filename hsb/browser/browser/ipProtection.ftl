@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN wšudźe znjemóžnić
 ipprotection-button-turn-vpn-on = VPN zmóžnić
 # Button while VPN is connecting
 ipprotection-button-connecting = Zmóžnja so…
+ipprotection-connection-status-connected-1 = VPN je zmóžnjeny
+    .aria-label = VPN je zmóžnjeny
+ipprotection-connection-status-disconnected-1 = VPN je znjemóžnjeny
+    .aria-label = VPN je znjemóžnjeny
+ipprotection-connection-status-excluded-1 = VPN je za tute sydło znjemóžnjeny
+    .aria-label = VPN je za tute sydło znjemóžnjeny
+ipprotection-connection-status-connecting-1 = VPN so zwjazuje…
+    .aria-label = VPN so zwjazuje…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN je zastajeny
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
+ipprotection-connection-status-paused-title-2 = VPN je zastajeny
+    .aria-label = VPN je zastajeny
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Zwisk z VPN móžny njeje
 ipprotection-connection-status-generic-error-description = Spytajće za mało mjeńšin hišće raz.
 ipprotection-connection-status-generic-error-try-again = Prošu spytaj pozdźišo hišće raz.
+ipprotection-connection-status-network-error-title-1 = Přepruwujće swój internetny zwisk
+    .aria-label = Přepruwujće swój internetny zwisk
 ipprotection-connection-status-network-error-title = Přepruwujće swój internetny zwisk
 ipprotection-connection-status-network-error-description = Zwjazajće z internetom a spytajće potom VPN zmóžnić.
+ipprotection-connection-status-blocked-error-title-1 = VPN k dispoziciji njeje
+    .aria-label = VPN k dispoziciji njeje
 ipprotection-connection-status-blocked-error-title = VPN k dispoziciji njeje
 ipprotection-connection-status-blocked-error-description = Lokalne zakonje nas při tym haća, słužbu VPN w tutym regionje poskićić. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Zmóžńće VPN, zo byšće s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžńće VPN</a> za přidatnu škitnu runinu, kóždy raz, hdyž { -brand-short-name } wočinjeće.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } so na to dopomina, za kotre websydła so ma VPN wužiwać. Aktualizujće tute kóždy čas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydło znjemóžnjeny
+ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN móžny njeje
+    .aria-label = Zwisk z VPN móžny njeje
 
 ## IP Protection bandwidth callouts
 

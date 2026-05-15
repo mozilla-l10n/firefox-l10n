@@ -92,6 +92,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Disactivar VPN ubique
 ipprotection-button-turn-vpn-on = Activar le VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Activar…
+ipprotection-connection-status-connected-1 = Le VPN es active
+    .aria-label = Le VPN es active
+ipprotection-connection-status-disconnected-1 = Le VPN es disactivate
+    .aria-label = Le VPN es disactivate
+ipprotection-connection-status-excluded-1 = VPN es disactivate pro iste sito
+    .aria-label = VPN es disactivate pro iste sito
+ipprotection-connection-status-connecting-1 = VPN se connecte…
+    .aria-label = VPN se connecte…
 
 ## Location controls
 
@@ -122,14 +130,20 @@ ipprotection-connection-status-paused-title-1 = VPN pausate
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso remonta le mense proxime.
+ipprotection-connection-status-paused-title-2 = VPN pausate
+    .aria-label = VPN pausate
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Impossibile connecter se al VPN
 ipprotection-connection-status-generic-error-description = Retenta in alcun minutas.
 ipprotection-connection-status-generic-error-try-again = Retenta plus tarde.
+ipprotection-connection-status-network-error-title-1 = Controla tu connexion a internet
+    .aria-label = Controla tu connexion a internet
 ipprotection-connection-status-network-error-title = Controla tu connexion a internet
 ipprotection-connection-status-network-error-description = Connecte te a internet, pois tenta activar VPN.
+ipprotection-connection-status-blocked-error-title-1 = Le VPN es indisponibile
+    .aria-label = Le VPN es indisponibile
 ipprotection-connection-status-blocked-error-title = Le VPN es indisponibile
 ipprotection-connection-status-blocked-error-description = Le leges local nos impedi de fornir servicio VPN in iste region. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 # Variables
@@ -148,6 +162,8 @@ ipprotection-message-continuous-onboarding-intro = Activa le VPN pro celar tu po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Predefinir VPN pro activar se</a> cata vice tu aperi { -brand-short-name } pro un strato ulterior de protection.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memorara que sitos web tu ha configurate pro usar le VPN. Actualisa istos in <a data-l10n-name="setting-link">parametros</a> quandocunque.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Le VPN es disactivate pro iste sito
+ipprotection-connection-status-generic-error-title-1 = Impossibile connecter se al VPN
+    .aria-label = Impossibile connecter se al VPN
 
 ## IP Protection bandwidth callouts
 

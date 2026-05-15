@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Выключыць VPN усюд
 ipprotection-button-turn-vpn-on = Уключыць VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Уключэнне…
+ipprotection-connection-status-connected-1 = VPN уключаны
+    .aria-label = VPN уключаны
+ipprotection-connection-status-disconnected-1 = VPN выключаны
+    .aria-label = VPN выключаны
+ipprotection-connection-status-excluded-1 = VPN для гэтага сайта выключаны
+    .aria-label = VPN для гэтага сайта выключаны
+ipprotection-connection-status-connecting-1 = VPN падключаецца…
+    .aria-label = VPN падключаецца…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN прыпынены
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Вы выкарысталі ўсе { $maxUsage } ГБ вашага VPN-трафіку. Доступ перазапусціцца ў наступным месяцы.
+ipprotection-connection-status-paused-title-2 = VPN прыпынены
+    .aria-label = VPN прыпынены
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Не ўдалося падключыцца да VPN
 ipprotection-connection-status-generic-error-description = Паспрабуйце зноў праз некалькі хвілін.
 ipprotection-connection-status-generic-error-try-again = Калі ласка, паспрабуйце пазней.
+ipprotection-connection-status-network-error-title-1 = Праверце падлучэнне да Інтэрнэту
+    .aria-label = Праверце падлучэнне да Інтэрнэту
 ipprotection-connection-status-network-error-title = Праверце падлучэнне да Інтэрнэту
 ipprotection-connection-status-network-error-description = Падключыцеся да Інтэрнэту, а затым паспрабуйце ўключыць VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN недаступны
+    .aria-label = VPN недаступны
 ipprotection-connection-status-blocked-error-title = VPN недаступны
 ipprotection-connection-status-blocked-error-description = Мясцовыя законы забараняюць нам прадстаўляць паслугі VPN у гэтым рэгіёне. <a data-l10n-name="learn-more-link">Даведацца больш</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Уключыце VPN, каб 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Устанавіце VPN на ўключэнне</a> кожны раз, калі вы адкрываеце { -brand-short-name }, каб атрымаць дадатковы ўзровень аховы.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } запомніць, якія вэб-сайты вы наладзілі на выкарыстанне VPN. Абнавіце іх у <a data-l10n-name="setting-link">наладах</a> у любы час.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN для гэтага сайта выключаны
+ipprotection-connection-status-generic-error-title-1 = Не ўдалося падключыцца да VPN
+    .aria-label = Не ўдалося падключыцца да VPN
 
 ## IP Protection bandwidth callouts
 

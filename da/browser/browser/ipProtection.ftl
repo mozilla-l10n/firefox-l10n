@@ -87,6 +87,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Slå VPN fra overalt
 ipprotection-button-turn-vpn-on = Slå VPN til
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktiverer…
+ipprotection-connection-status-connected-1 = VPN er aktiveret
+    .aria-label = VPN er aktiveret
+ipprotection-connection-status-disconnected-1 = VPN er deaktiveret
+    .aria-label = VPN er deaktiveret
+ipprotection-connection-status-excluded-1 = VPN er slået fra for dette websted
+    .aria-label = VPN er slået fra for dette websted
+ipprotection-connection-status-connecting-1 = VPN opretter forbindelse…
+    .aria-label = VPN opretter forbindelse…
 
 ## Location controls
 
@@ -114,8 +122,12 @@ upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = Kunne ikke oprette forbindelse til VPN
 ipprotection-connection-status-generic-error-description = Prøv igen om et par minutter.
 ipprotection-connection-status-generic-error-try-again = Prøv igen senere.
+ipprotection-connection-status-network-error-title-1 = Kontroller din internetforbindelse
+    .aria-label = Kontroller din internetforbindelse
 ipprotection-connection-status-network-error-title = Kontroller din internetforbindelse
 ipprotection-connection-status-network-error-description = Opret forbindelse til internettet, og prøv så at slå VPN til.
+ipprotection-connection-status-blocked-error-title-1 = VPN er ikke tilgængelig
+    .aria-label = VPN er ikke tilgængelig
 ipprotection-connection-status-blocked-error-title = VPN er ikke tilgængelig
 ipprotection-connection-status-blocked-error-description = Lokale love forhindrer os i at tilbyde VPN-tjenester i denne region. <a data-l10n-name="learn-more-link">Læs mere</a>
 # Variables
@@ -134,6 +146,8 @@ ipprotection-message-continuous-onboarding-intro = Slå VPN til for at skjule di
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Indstil VPN til at være aktiveret</a>, hver gang du åbner { -brand-short-name } for at tilføje et ekstra lag af beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker, hvilke websteder du har indstillet til at bruge VPN. Du kan opdatere listen med websteder i <a data-l10n-name="setting-link">indstillingerne</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er slået fra for dette websted
+ipprotection-connection-status-generic-error-title-1 = Kunne ikke oprette forbindelse til VPN
+    .aria-label = Kunne ikke oprette forbindelse til VPN
 
 ## IP Protection bandwidth callouts
 

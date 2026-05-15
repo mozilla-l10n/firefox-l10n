@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Całkowicie wyłącz VPN
 ipprotection-button-turn-vpn-on = Włącz VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Włączanie…
+ipprotection-connection-status-connected-1 = VPN jest włączony
+    .aria-label = VPN jest włączony
+ipprotection-connection-status-disconnected-1 = VPN jest wyłączony
+    .aria-label = VPN jest wyłączony
+ipprotection-connection-status-excluded-1 = VPN jest wyłączony na tej witrynie
+    .aria-label = VPN jest wyłączony na tej witrynie
+ipprotection-connection-status-connecting-1 = VPN się łączy…
+    .aria-label = VPN się łączy…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = Wstrzymano VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp zostanie przywrócony w przyszłym miesiącu.
+ipprotection-connection-status-paused-title-2 = Wstrzymano VPN
+    .aria-label = Wstrzymano VPN
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Nie można połączyć z siecią VPN
 ipprotection-connection-status-generic-error-description = Spróbuj ponownie za kilka minut.
 ipprotection-connection-status-generic-error-try-again = Spróbuj ponownie później.
+ipprotection-connection-status-network-error-title-1 = Sprawdź połączenie z Internetem
+    .aria-label = Sprawdź połączenie z Internetem
 ipprotection-connection-status-network-error-title = Sprawdź połączenie z Internetem
 ipprotection-connection-status-network-error-description = Połącz się z Internetem i wtedy spróbuj włączyć VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN jest niedostępny
+    .aria-label = VPN jest niedostępny
 ipprotection-connection-status-blocked-error-title = VPN jest niedostępny
 ipprotection-connection-status-blocked-error-description = Lokalne przepisy uniemożliwiają nam świadczenie usług VPN w tym regionie. <a data-l10n-name="learn-more-link">Więcej informacji</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Włącz VPN, aby ukryć swoje
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ustaw włączanie VPN</a> za każdym razem, gdy otwierasz { -brand-short-name(case: "acc") }, aby zapewnić dodatkową warstwę ochrony.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } zapamięta, które witryny mają korzystać z VPN. W każdej chwili można je zmienić w <a data-l10n-name="setting-link">ustawieniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jest wyłączony na tej witrynie
+ipprotection-connection-status-generic-error-title-1 = Nie można połączyć z siecią VPN
+    .aria-label = Nie można połączyć z siecią VPN
 
 ## IP Protection bandwidth callouts
 

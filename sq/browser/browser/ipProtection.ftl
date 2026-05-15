@@ -36,6 +36,9 @@ ipprotection-site-settings-callout-title = Zgjidhni se ku përdorni VPN
 ipprotection-site-settings-callout-subtitle = Çaktivizoni VPN-në për një sajt specifik dhe do ta mbajmë mend herës tjetër që e vizitoni.
 ipprotection-site-settings-callout-button = E mora vesh
 
+## Location selection callout
+
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -68,6 +71,17 @@ ipprotection-button-turn-vpn-off-excluded-site = Çaktivizoje VPN-në gjithkund
 ipprotection-button-turn-vpn-on = Aktivizoje VPN-në
 # Button while VPN is connecting
 ipprotection-button-connecting = Po aktivizohet…
+ipprotection-connection-status-connected-1 = VPN është e hapur
+    .aria-label = VPN është e hapur
+ipprotection-connection-status-disconnected-1 = VPN është e mbyllur
+    .aria-label = VPN është e mbyllur
+ipprotection-connection-status-excluded-1 = VPN-ja është e mbyllur për këtë sajt
+    .aria-label = VPN-ja është e mbyllur për këtë sajt
+ipprotection-connection-status-connecting-1 = VPN-ja po lidhet…
+    .aria-label = VPN-ja po lidhet…
+
+## Location controls
+
 
 ## VPN paused state
 
@@ -80,8 +94,12 @@ upgrade-vpn-button = Provoni { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = S’u lidh dot me VPN-në
 ipprotection-connection-status-generic-error-description = Riprovoni pas pak minutash.
 ipprotection-connection-status-generic-error-try-again = Ju lutemi, riprovoni më vonë.
+ipprotection-connection-status-network-error-title-1 = Kontrolloni lidhjen tuaj internet
+    .aria-label = Kontrolloni lidhjen tuaj internet
 ipprotection-connection-status-network-error-title = Kontrolloni lidhjen tuaj internet
 ipprotection-connection-status-network-error-description = Lidhuni në internet, mandej provoni të hapni VPN-në.
+ipprotection-connection-status-blocked-error-title-1 = VPN-ja s’është e përdorshme
+    .aria-label = VPN-ja s’është e përdorshme
 ipprotection-connection-status-blocked-error-title = VPN-ja s’është e përdorshme
 ipprotection-connection-status-blocked-error-description = Ligje vendore na pengojnë të japim shërbim VPN në të këtë rajon. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 # Variables
@@ -100,6 +118,8 @@ ipprotection-message-continuous-onboarding-intro = Që të fshihni vendndodhjen 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ujdiseni VPN-në të aktivizohet</a> sa herë që hapni { -brand-short-name }-in, për një shtresë shtesë mbrojtjeje.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }-i do të mbajë mend me cilët sajte keni vendosur të përdoret VPN. Përditësojeni këtë kurdo te <a data-l10n-name="setting-link">rregullimet</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ja është e mbyllur për këtë sajt
+ipprotection-connection-status-generic-error-title-1 = S’u lidh dot me VPN-në
+    .aria-label = S’u lidh dot me VPN-në
 
 ## IP Protection bandwidth callouts
 

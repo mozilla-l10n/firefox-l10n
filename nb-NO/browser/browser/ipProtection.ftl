@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Slå av VPN overalt
 ipprotection-button-turn-vpn-on = Slå på VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Slår på …
+ipprotection-connection-status-connected-1 = VPN er på
+    .aria-label = VPN er på
+ipprotection-connection-status-disconnected-1 = VPN er av
+    .aria-label = VPN er av
+ipprotection-connection-status-excluded-1 = VPN er av for dette nettstedet
+    .aria-label = VPN er av for dette nettstedet
+ipprotection-connection-status-connecting-1 = VPN kobler til …
+    .aria-label = VPN kobler til …
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN er satt på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
+ipprotection-connection-status-paused-title-2 = VPN er satt på pause
+    .aria-label = VPN er satt på pause
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Kunne ikke koble til VPN
 ipprotection-connection-status-generic-error-description = Prøv igjen om noen minutter.
 ipprotection-connection-status-generic-error-try-again = Prøv igjen senere.
+ipprotection-connection-status-network-error-title-1 = Sjekk internettilkoblingen din
+    .aria-label = Sjekk internettilkoblingen din
 ipprotection-connection-status-network-error-title = Sjekk internettilkoblingen din
 ipprotection-connection-status-network-error-description = Koble til internett, og prøv deretter å slå på VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN er ikke tilgjengelig
+    .aria-label = VPN er ikke tilgjengelig
 ipprotection-connection-status-blocked-error-title = VPN er ikke tilgjengelig
 ipprotection-connection-status-blocked-error-description = Lokale lover hindrer oss i å tilby VPN-tjenester i denne regionen. <a data-l10n-name="learn-more-link">Les mer</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Sett VPN til å slå seg på</a> hver gang du åpner { -brand-short-name } for et ekstra lag med beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker hvilke nettsteder du har satt til å bruke VPN. Oppdater disse i <a data-l10n-name="setting-link">innstillinger</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette nettstedet
+ipprotection-connection-status-generic-error-title-1 = Kunne ikke koble til VPN
+    .aria-label = Kunne ikke koble til VPN
 
 ## IP Protection bandwidth callouts
 

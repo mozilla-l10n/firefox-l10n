@@ -73,6 +73,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Povsod izklopi VPN
 ipprotection-button-turn-vpn-on = Vklopi VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Vklapljanje …
+ipprotection-connection-status-connected-1 = VPN je vklopljen
+    .aria-label = VPN je vklopljen
+ipprotection-connection-status-disconnected-1 = VPN je izklopljen
+    .aria-label = VPN je izklopljen
+ipprotection-connection-status-excluded-1 = VPN je na tem spletnem mestu izklopljen
+    .aria-label = VPN je na tem spletnem mestu izklopljen
+ipprotection-connection-status-connecting-1 = VPN se povezuje …
+    .aria-label = VPN se povezuje …
 
 ## Location controls
 
@@ -97,10 +105,22 @@ upgrade-vpn-button = Preizkusite { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = Povezava z VPN ni bila mogoča
 ipprotection-connection-status-generic-error-description = Poskusite znova čez nekaj minut.
 ipprotection-connection-status-generic-error-try-again = Poskusite znova pozneje.
+ipprotection-connection-status-network-error-title-1 = Preverite svojo povezavo z internetom
+    .aria-label = Preverite svojo povezavo z internetom
 ipprotection-connection-status-network-error-title = Preverite svojo povezavo z internetom
 ipprotection-connection-status-network-error-description = Povežite se z internetom in nato poskusite vklopiti VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN ni na voljo
+    .aria-label = VPN ni na voljo
 ipprotection-connection-status-blocked-error-title = VPN ni na voljo
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
+ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mogoča
+    .aria-label = Povezava z VPN ni bila mogoča
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -138,9 +158,15 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

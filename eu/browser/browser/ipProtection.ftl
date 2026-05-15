@@ -80,6 +80,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Desaktibatu VPNa toki guztietan
 ipprotection-button-turn-vpn-on = Aktibatu VPNa
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktibatzen…
+ipprotection-connection-status-connected-1 = VPNa aktibo dago
+    .aria-label = VPNa aktibo dago
+ipprotection-connection-status-disconnected-1 = VPNa inaktibo dago
+    .aria-label = VPNa inaktibo dago
+ipprotection-connection-status-excluded-1 = VPNa inaktibo dago gune honetarako
+    .aria-label = VPNa inaktibo dago gune honetarako
+ipprotection-connection-status-connecting-1 = VPNa konektatzen ari da…
+    .aria-label = VPNa konektatzen ari da…
 
 ## Location controls
 
@@ -102,14 +110,20 @@ ipprotection-connection-status-paused-title-1 = VPNa pausatuta dago
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. Sarbidea datorren hilabetean berrezarriko da.
+ipprotection-connection-status-paused-title-2 = VPNa pausatuta dago
+    .aria-label = VPNa pausatuta dago
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Ezin da VPNra konektatu
 ipprotection-connection-status-generic-error-description = Saiatu berriro minutu batzuk barru.
 ipprotection-connection-status-generic-error-try-again = Saiatu berriro geroago.
+ipprotection-connection-status-network-error-title-1 = Egiaztatu zure Interneterako konexioa
+    .aria-label = Egiaztatu zure Interneterako konexioa
 ipprotection-connection-status-network-error-title = Egiaztatu zure Interneterako konexioa
 ipprotection-connection-status-network-error-description = Konektatu Internetera, gero saiatu VPNa aktibatzen.
+ipprotection-connection-status-blocked-error-title-1 = VPNa ez dago erabilgarri
+    .aria-label = VPNa ez dago erabilgarri
 ipprotection-connection-status-blocked-error-title = VPNa ez dago erabilgarri
 ipprotection-connection-status-blocked-error-description = Tokiko legeek eragotzi egiten digute eskualde honetan VPN zerbitzua eskaintzea. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 # Variables
@@ -128,6 +142,8 @@ ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena e
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }(e)k gogoratu egingo ditu VPN bidez sartzeko ezarri dituzun webguneak. Eguneratu hauek edonoiz <a data-l10n-name="setting-link">ezarpenetan</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
+ipprotection-connection-status-generic-error-title-1 = Ezin da VPNra konektatu
+    .aria-label = Ezin da VPNra konektatu
 
 ## IP Protection bandwidth callouts
 

@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN kikapcsolása mindenhol
 ipprotection-button-turn-vpn-on = VPN bekapcsolása
 # Button while VPN is connecting
 ipprotection-button-connecting = Bekapcsolás…
+ipprotection-connection-status-connected-1 = A VPN be van kapcsolva
+    .aria-label = A VPN be van kapcsolva
+ipprotection-connection-status-disconnected-1 = A VPN ki van kapcsolva
+    .aria-label = A VPN ki van kapcsolva
+ipprotection-connection-status-excluded-1 = A VPN ki van kapcsolva ezen a webhelyen
+    .aria-label = A VPN ki van kapcsolva ezen a webhelyen
+ipprotection-connection-status-connecting-1 = A VPN kapcsolódik…
+    .aria-label = A VPN kapcsolódik…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN szüneteltetve
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Felhasználta a teljes { $maxUsage } GB-os VPN adatkeretét. A hozzáférés a következő hónapban áll vissza.
+ipprotection-connection-status-paused-title-2 = VPN szüneteltetve
+    .aria-label = VPN szüneteltetve
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Nem sikerült kapcsolódni a VPN-hez
 ipprotection-connection-status-generic-error-description = Próbálja újra néhány perc múlva.
 ipprotection-connection-status-generic-error-try-again = Próbálja újra később.
+ipprotection-connection-status-network-error-title-1 = Ellenőrizze internetkapcsolatát
+    .aria-label = Ellenőrizze internetkapcsolatát
 ipprotection-connection-status-network-error-title = Ellenőrizze internetkapcsolatát
 ipprotection-connection-status-network-error-description = Kapcsolódjon az internethez, majd próbálja bekapcsolni a VPN-t.
+ipprotection-connection-status-blocked-error-title-1 = A VPN nem érhető el
+    .aria-label = A VPN nem érhető el
 ipprotection-connection-status-blocked-error-title = A VPN nem érhető el
 ipprotection-connection-status-blocked-error-description = A helyi törvények miatt nem nyújthatunk VPN-szolgáltatást ebben a régióban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Kapcsolja be a VPN-t, hogy el
 ipprotection-message-continuous-onboarding-autostart = A további védelem érdekében <a data-l10n-name="setting-link">állítsa be, hogy a VPN automatikusan bekapcsolódjon</a> a { -brand-short-name } indításakor.
 ipprotection-message-continuous-onboarding-site-settings = A { -brand-short-name } megjegyzi, hogy mely webhelyeken állította be, hogy VPN-t használjanak. Ezeket bármikor frissítheti a <a data-l10n-name="setting-link">beállításokban</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN ki van kapcsolva ezen a webhelyen
+ipprotection-connection-status-generic-error-title-1 = Nem sikerült kapcsolódni a VPN-hez
+    .aria-label = Nem sikerült kapcsolódni a VPN-hez
 
 ## IP Protection bandwidth callouts
 

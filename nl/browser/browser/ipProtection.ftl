@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN overal uitschakelen
 ipprotection-button-turn-vpn-on = VPN inschakelen
 # Button while VPN is connecting
 ipprotection-button-connecting = Inschakelen…
+ipprotection-connection-status-connected-1 = VPN is ingeschakeld
+    .aria-label = VPN is ingeschakeld
+ipprotection-connection-status-disconnected-1 = VPN is uitgeschakeld
+    .aria-label = VPN is uitgeschakeld
+ipprotection-connection-status-excluded-1 = VPN is uit voor deze website
+    .aria-label = VPN is uit voor deze website
+ipprotection-connection-status-connecting-1 = VPN maakt verbinding…
+    .aria-label = VPN maakt verbinding…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN is gepauzeerd
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = U hebt alle { $maxUsage } GB van uw VPN-gegevens gebruikt. De toegang wordt volgende maand opnieuw ingesteld.
+ipprotection-connection-status-paused-title-2 = VPN is gepauzeerd
+    .aria-label = VPN is gepauzeerd
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Kan niet verbinden met VPN
 ipprotection-connection-status-generic-error-description = Probeer het over een paar minuten opnieuw.
 ipprotection-connection-status-generic-error-try-again = Probeer het later opnieuw.
+ipprotection-connection-status-network-error-title-1 = Controleer uw internetverbinding
+    .aria-label = Controleer uw internetverbinding
 ipprotection-connection-status-network-error-title = Controleer uw internetverbinding
 ipprotection-connection-status-network-error-description = Maak verbinding met het internet en probeer vervolgens VPN in te schakelen.
+ipprotection-connection-status-blocked-error-title-1 = VPN is niet beschikbaar
+    .aria-label = VPN is niet beschikbaar
 ipprotection-connection-status-blocked-error-title = VPN is niet beschikbaar
 ipprotection-connection-status-blocked-error-description = Vanwege lokale wetgeving kunnen we geen VPN-services aanbieden in deze regio. <a data-l10n-name="learn-more-link">Meer info</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Schakel VPN in om uw locatie 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN in om</a> telkens als u { -brand-short-name } opent in te schakelen voor een extra beschermingslaag.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } onthoudt welke websites u hebt ingesteld voor het gebruik van VPN. Werk deze op elk gewenst moment bij in de <a data-l10n-name="setting-link">instellingen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is uit voor deze website
+ipprotection-connection-status-generic-error-title-1 = Kan niet verbinden met VPN
+    .aria-label = Kan niet verbinden met VPN
 
 ## IP Protection bandwidth callouts
 
