@@ -790,6 +790,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Widget verbergen
 newtab-widget-menu-change-size = Grootte wijzigen
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Verplaatsen
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Links
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Rechts
 newtab-widget-size-small = Klein
 newtab-widget-size-medium = Normaal
 newtab-widget-size-large = Groot
@@ -806,6 +815,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu Widgets
     .aria-label = Menu Widgets openen
+newtab-widget-add-widgets-button =
+    .aria-label = Widget toevoegen
+    .title = Widget toevoegen
 newtab-widget-section-menu-manage = Widgets beheren
 newtab-widget-section-menu-hide-all = Widgets verbergen
 newtab-widget-section-menu-learn-more = Meer info
@@ -898,6 +910,7 @@ newtab-widget-timer-celebration-message-break = Klaar om te focussen?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teams volgen
+newtab-sports-widget-menu-view-schedule = Tijdschema bekijken
 newtab-sports-widget-menu-view-upcoming = Volgende tonen
 newtab-sports-widget-menu-view-results = Resultaten bekijken
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -926,6 +939,8 @@ newtab-sports-widget-search-country =
     .placeholder = Land zoeken
     .aria-label = Land zoeken
 newtab-sports-widget-cancel = Annuleren
+newtab-sports-widget-back-button =
+    .aria-label = Terug
 newtab-sports-widget-done-button =
     .label = Gereed
 newtab-sports-widget-group-stage = Groepsfase
@@ -940,6 +955,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Belangrijke data
 newtab-sports-widget-upcoming = Binnenkort
+# Used for a match currently ongoing
+newtab-sports-widget-now = Nu
 newtab-sports-widget-results = Resultaten
 newtab-sports-widget-semi-finals = Halve finales
 newtab-sports-widget-bronze-finals = Troostfinale
