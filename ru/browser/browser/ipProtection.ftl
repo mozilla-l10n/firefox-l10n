@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Отключить VPN везд
 ipprotection-button-turn-vpn-on = Включить VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Включение…
+ipprotection-connection-status-connected-1 = VPN включён
+    .aria-label = VPN включён
+ipprotection-connection-status-disconnected-1 = VPN отключён
+    .aria-label = VPN отключён
+ipprotection-connection-status-excluded-1 = VPN для этого сайта отключён
+    .aria-label = VPN для этого сайта отключён
+ipprotection-connection-status-connecting-1 = VPN подключается…
+    .aria-label = VPN подключается…
 
 ## Location controls
 
@@ -120,6 +128,8 @@ ipprotection-connection-status-paused-title-1 = VPN приостановлен
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Вы использовали все { $maxUsage } ГБ данных вашего VPN. Доступ будет сброшен в следующем месяце.
+ipprotection-connection-status-paused-title-2 = VPN приостановлен
+    .aria-label = VPN приостановлен
 
 ## Messages and errors
 
@@ -150,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Включите VPN, что�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Настройте VPN на включение</a> каждый раз при открытии { -brand-short-name } для получения дополнительного уровня защиты.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } будет помнить, какие веб-сайты вы разрешили использовать VPN. Обновите их в <a data-l10n-name="setting-link">настройках</a> в любое время.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN для этого сайта отключён
+ipprotection-connection-status-generic-error-title-1 = Не удалось подключиться к VPN
+    .aria-label = Не удалось подключиться к VPN
 
 ## IP Protection bandwidth callouts
 
