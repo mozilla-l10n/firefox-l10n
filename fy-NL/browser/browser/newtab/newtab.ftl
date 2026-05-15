@@ -790,6 +790,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Widget ferstopje
 newtab-widget-menu-change-size = Grutte wizigje
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Ferpleatse
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Links
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Rjochts
 newtab-widget-size-small = Lyts
 newtab-widget-size-medium = Normaal
 newtab-widget-size-large = Grut
@@ -806,6 +815,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu Widgets
     .aria-label = Menu Widgets iepenje
+newtab-widget-add-widgets-button =
+    .aria-label = Widget tafoegje
+    .title = Widget tafoegje
 newtab-widget-section-menu-manage = Widgets beheare
 newtab-widget-section-menu-hide-all = Widgets ferstopje
 newtab-widget-section-menu-learn-more = Mear ynfo
@@ -898,6 +910,7 @@ newtab-widget-timer-celebration-message-break = Klear om te fokusjen?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teams folgje
+newtab-sports-widget-menu-view-schedule = Tiidskema besjen
 newtab-sports-widget-menu-view-upcoming = Folgjende toane
 newtab-sports-widget-menu-view-results = Resultaten besjen
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -926,6 +939,8 @@ newtab-sports-widget-search-country =
     .placeholder = Lân sykje
     .aria-label = Lân sykje
 newtab-sports-widget-cancel = Annulearje
+newtab-sports-widget-back-button =
+    .aria-label = Tebek
 newtab-sports-widget-done-button =
     .label = Dien
 newtab-sports-widget-group-stage = Groepsfase
@@ -940,6 +955,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Wichtige datums
 newtab-sports-widget-upcoming = Ynkoarten
+# Used for a match currently ongoing
+newtab-sports-widget-now = No
 newtab-sports-widget-results = Resultaten
 newtab-sports-widget-semi-finals = Heale finalen
 newtab-sports-widget-bronze-finals = Treastfinale

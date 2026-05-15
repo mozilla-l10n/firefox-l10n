@@ -55,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Doako posta, egutegia eta kontaktuak, zure modura antolatuta.
 more-from-moz-thunderbird-button = Eskuratu { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
@@ -62,6 +63,12 @@ more-from-moz-thunderbird-button = Eskuratu { -thunderbird-brand-short-name }
 more-from-moz-new-products-title = { -vendor-short-name }-ren produktu berriak
 more-from-moz-new-products-description = Aurkitu { -vendor-short-name }-ren azken produktuak
 more-from-moz-new-products-button = Ikusi produktu berriak
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Aplikazioa eskuratzeko, eskaneatu zure telefono edo tabletaren kamerarekin. Azaltzen denean, sakatu loturan.
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
