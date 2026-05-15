@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = כיבוי VPN בכל מקום
 ipprotection-button-turn-vpn-on = הפעלת VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = בתהליך הפעלה…
+ipprotection-connection-status-connected-1 = ה־VPN פועל
+    .aria-label = ה־VPN פועל
+ipprotection-connection-status-disconnected-1 = ה־VPN כבוי
+    .aria-label = ה־VPN כבוי
+ipprotection-connection-status-excluded-1 = ה־VPN כבוי עבור אתר זה
+    .aria-label = ה־VPN כבוי עבור אתר זה
+ipprotection-connection-status-connecting-1 = ה־VPN מתחבר…
+    .aria-label = ה־VPN מתחבר…
 
 ## Location controls
 
