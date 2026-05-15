@@ -87,6 +87,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Slå VPN fra overalt
 ipprotection-button-turn-vpn-on = Slå VPN til
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktiverer…
+ipprotection-connection-status-connected-1 = VPN er aktiveret
+    .aria-label = VPN er aktiveret
+ipprotection-connection-status-disconnected-1 = VPN er deaktiveret
+    .aria-label = VPN er deaktiveret
+ipprotection-connection-status-excluded-1 = VPN er slået fra for dette websted
+    .aria-label = VPN er slået fra for dette websted
+ipprotection-connection-status-connecting-1 = VPN opretter forbindelse…
+    .aria-label = VPN opretter forbindelse…
 
 ## Location controls
 
