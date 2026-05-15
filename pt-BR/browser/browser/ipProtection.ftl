@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = A VPN está em pausa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso é renovado no próximo mês.
+ipprotection-connection-status-paused-title-2 = A VPN está em pausa
+    .aria-label = A VPN está em pausa
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Não foi possível conectar com a VPN
 ipprotection-connection-status-generic-error-description = Tente novamente em alguns minutos.
 ipprotection-connection-status-generic-error-try-again = Tente novamente mais tarde.
+ipprotection-connection-status-network-error-title-1 = Verifique sua conexão com a internet
+    .aria-label = Verifique sua conexão com a internet
 ipprotection-connection-status-network-error-title = Verifique sua conexão com a internet
 ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
+ipprotection-connection-status-blocked-error-title-1 = A VPN não está disponível.
+    .aria-label = A VPN não está disponível.
 ipprotection-connection-status-blocked-error-title = A VPN não está disponível.
 ipprotection-connection-status-blocked-error-description = A legislação local nos impede de fornecer o serviço de VPN nesta região. <a data-l10n-name="learn-more-link">Saiba mais</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar sua 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure a VPN para ativar</a> toda vez que você abrir o { -brand-short-name }, para ter uma camada extra de proteção.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } memoriza quais sites você configura para usar VPN. Você pode modificar quando quiser nas <a data-l10n-name="setting-link">configurações</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativada neste site
+ipprotection-connection-status-generic-error-title-1 = Não foi possível conectar com a VPN
+    .aria-label = Não foi possível conectar com a VPN
 
 ## IP Protection bandwidth callouts
 
