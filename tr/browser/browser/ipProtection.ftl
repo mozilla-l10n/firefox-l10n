@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN’i her yerde kapat
 ipprotection-button-turn-vpn-on = VPN’i aç
 # Button while VPN is connecting
 ipprotection-button-connecting = Açılıyor…
+ipprotection-connection-status-connected-1 = VPN açık
+    .aria-label = VPN açık
+ipprotection-connection-status-disconnected-1 = VPN kapalı
+    .aria-label = VPN kapalı
+ipprotection-connection-status-excluded-1 = Bu sitede VPN kapalı
+    .aria-label = Bu sitede VPN kapalı
+ipprotection-connection-status-connecting-1 = VPN’e bağlanılıyor…
+    .aria-label = VPN’e bağlanılıyor…
 
 ## Location controls
 
