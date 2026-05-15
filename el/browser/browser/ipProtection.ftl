@@ -90,6 +90,12 @@ ipprotection-button-turn-vpn-off-excluded-site = Απενεργοποίηση VP
 ipprotection-button-turn-vpn-on = Ενεργοποίηση VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Ενεργοποίηση…
+ipprotection-connection-status-connected-1 = Το VPN είναι ενεργό
+    .aria-label = Το VPN είναι ενεργό
+ipprotection-connection-status-disconnected-1 = Το VPN είναι ανενεργό
+    .aria-label = Το VPN είναι ανενεργό
+ipprotection-connection-status-excluded-1 = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
+    .aria-label = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 ipprotection-connection-status-connecting-1 = Το VPN συνδέεται…
     .aria-label = Το VPN συνδέεται…
 
