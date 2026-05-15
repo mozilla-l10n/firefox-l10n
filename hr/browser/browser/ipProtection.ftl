@@ -38,6 +38,9 @@ ipprotection-site-settings-callout-title = Odaberi gdje koristiš VPN
 ipprotection-site-settings-callout-subtitle = Isključi VPN za određenu stranicu i mi ćemo je zapamtiti sljedeći put kada je posjetiš.
 ipprotection-site-settings-callout-button = Razumijem
 
+## Location selection callout
+
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -71,6 +74,13 @@ ipprotection-button-turn-vpn-off-excluded-site = Isključi VPN svugdje
 ipprotection-button-turn-vpn-on = Uključi VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Uključivanje …
+ipprotection-connection-status-excluded-1 = VPN je isključen za ovu web-stranicu
+    .aria-label = VPN je isključen za ovu web-stranicu
+ipprotection-connection-status-connecting-1 = VPN se spaja …
+    .aria-label = VPN se spaja …
+
+## Location controls
+
 
 ## VPN paused state
 
@@ -81,8 +91,12 @@ upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = Neuspjelo povezivanje VPN-om
 ipprotection-connection-status-generic-error-description = Pokušaj ponovo za par minuta.
 ipprotection-connection-status-generic-error-try-again = Pokušaj ponovo kasnije.
+ipprotection-connection-status-network-error-title-1 = Provjeri internetsku vezu
+    .aria-label = Provjeri internetsku vezu
 ipprotection-connection-status-network-error-title = Provjeri internetsku vezu
 ipprotection-connection-status-network-error-description = Poveži se na internet, a zatim pokušaj uključiti VPN.
+ipprotection-connection-status-blocked-error-title-1 = VPN nije dostupan
+    .aria-label = VPN nije dostupan
 ipprotection-connection-status-blocked-error-title = VPN nije dostupan
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -98,6 +112,14 @@ ipprotection-message-bandwidth-warning-mb =
     .message = Preostalo ti je { $usageLeft } GB od { $maxUsage } GB u ovom mjesecu.
 ipprotection-message-continuous-onboarding-intro = Uključi VPN za skrivanje tvoje lokacije i dodavanje dodatnog šifriranja za pregledavanje.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
+ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN-om
+    .aria-label = Neuspjelo povezivanje VPN-om
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -165,6 +187,9 @@ ip-protection-bandwidth-header-1 = Mjesečno ograničenje podataka
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
 ipprotection-bandwidth-reset-text = Uključi VPN za dodatno poboljšanje privatnosti, besplatno svaki mjesec.
 ipprotection-bandwidth-reset-button = Razumijem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
