@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = VPN duraklatıldı
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
+ipprotection-connection-status-paused-title-2 = VPN duraklatıldı
+    .aria-label = VPN duraklatıldı
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = VPN’e bağlanılamadı
 ipprotection-connection-status-generic-error-description = Birkaç dakika sonra yeniden deneyin.
 ipprotection-connection-status-generic-error-try-again = Lütfen daha sonra yeniden deneyin.
+ipprotection-connection-status-network-error-title-1 = İnternet bağlantınızı kontrol edin
+    .aria-label = İnternet bağlantınızı kontrol edin
 ipprotection-connection-status-network-error-title = İnternet bağlantınızı kontrol edin
 ipprotection-connection-status-network-error-description = İnternete bağlandıktan sonra VPN’i açmayı deneyin.
+ipprotection-connection-status-blocked-error-title-1 = VPN kullanılamıyor
+    .aria-label = VPN kullanılamıyor
 ipprotection-connection-status-blocked-error-title = VPN kullanılamıyor
 ipprotection-connection-status-blocked-error-description = Yerel yasalar bu bölgede VPN hizmeti sunmamızı engelliyor. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = Konumunuzu gizlemek ve gezint
 ipprotection-message-continuous-onboarding-autostart = Ekstra koruma için { -brand-short-name } tarayıcınızı her açtığınızda <a data-l10n-name="setting-link">VPN’i açılacak şekilde ayarlayabilirsiniz</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hangi sitelerde VPN kullandığınızı hatırlayacaktır. Bunları istediğiniz zaman <a data-l10n-name="setting-link">ayarlar</a> üzerinden güncelleyebilirsiniz.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapalı
+ipprotection-connection-status-generic-error-title-1 = VPN’e bağlanılamadı
+    .aria-label = VPN’e bağlanılamadı
 
 ## IP Protection bandwidth callouts
 
