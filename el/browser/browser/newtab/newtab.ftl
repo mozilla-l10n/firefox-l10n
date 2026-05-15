@@ -790,6 +790,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Γραφικά στοιχεία
 newtab-widget-menu-hide = Απόκρυψη γραφικού στοιχείου
 newtab-widget-menu-change-size = Αλλαγή μεγέθους
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Μετακίνηση
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Αριστερά
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Δεξιά
 newtab-widget-size-small = Μικρό
 newtab-widget-size-medium = Μεσαίο
 newtab-widget-size-large = Μεγάλο
@@ -806,6 +815,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Μενού γραφικών στοιχείων
     .aria-label = Άνοιγμα μενού γραφικών στοιχείων
+newtab-widget-add-widgets-button =
+    .aria-label = Προσθήκη γραφικού στοιχείου
+    .title = Προσθήκη γραφικού στοιχείου
 newtab-widget-section-menu-manage = Διαχείριση γραφικών στοιχείων
 newtab-widget-section-menu-hide-all = Απόκρυψη widgets
 newtab-widget-section-menu-learn-more = Μάθετε περισσότερα
@@ -898,6 +910,7 @@ newtab-widget-timer-celebration-message-break = Έτοιμοι για συγκέ
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Παρακολούθηση ομάδων
+newtab-sports-widget-menu-view-schedule = Προβολή προγράμματος
 newtab-sports-widget-menu-view-upcoming = Προβολή επερχόμενων
 newtab-sports-widget-menu-view-results = Προβολή αποτελεσμάτων
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -925,6 +938,8 @@ newtab-sports-widget-search-country =
     .placeholder = Αναζήτηση χώρας
     .aria-label = Αναζήτηση χώρας
 newtab-sports-widget-cancel = Ακύρωση
+newtab-sports-widget-back-button =
+    .aria-label = Πίσω
 newtab-sports-widget-done-button =
     .label = Τέλος
 newtab-sports-widget-group-stage = Φάση ομίλου
@@ -939,6 +954,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Σημαντικές ημερομηνίες
 newtab-sports-widget-upcoming = Επερχόμενοι
+# Used for a match currently ongoing
+newtab-sports-widget-now = Τώρα
 newtab-sports-widget-results = Αποτελέσματα
 newtab-sports-widget-semi-finals = Ημιτελικοί
 newtab-sports-widget-bronze-finals = Αγώνας τρίτης θέσης
