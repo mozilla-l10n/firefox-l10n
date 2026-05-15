@@ -1,7 +1,7 @@
 _______________________________________________________________________________
 
    DICTIONNAIRES ORTHOGRAPHIQUES FRANÇAIS
-   version 7.0
+   version 7.7
 
    Olivier R.
    https://grammalecte.net/
