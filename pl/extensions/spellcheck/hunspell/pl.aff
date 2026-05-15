@@ -5031,7 +5031,7 @@ SFX o   a         owie      a
 SFX o   0         owie      au
 SFX o   u         owie      [^a]u
 
-SFX q Y 25
+SFX q Y 26
 SFX q   0         zy        [^r]r
 SFX q   r         zy        rr
 SFX q   0         e         rz
@@ -5057,6 +5057,7 @@ SFX q   ³a        li        ³a
 SFX q   ³         li        [^o]³
 SFX q   o³        eli       o³
 SFX q   o         zy        ro
+SFX q   0         y         c
 
 SFX s Y 17
 SFX s   0         y         [^acægjklño¶uyz¼¿]
@@ -5100,7 +5101,7 @@ SFX D   ñ         ni        ñ
 SFX D   o         i         o
 SFX D   ¶         si        ¶
 SFX D   y         i         y
-SFX D   0         y         [cz¿]
+SFX D   0         y         [chz¿]
 SFX D   ¼         zi        ¼
 
 SFX S Y 65
@@ -6057,7 +6058,7 @@ SFX U   o         zie       [^a]zdo
 SFX U   azdo      e¼dzie    azdo
 SFX U   o         ie        bo
 
-SFX V Y 78
+SFX V Y 79
 SFX V   um        a         um
 SFX V   0         ta        [^i]ê
 SFX V   ê         ona       miê
@@ -6074,8 +6075,9 @@ SFX V   ³o        ³         [ae]³o
 SFX V   o³o       ó³        o³o
 SFX V   ³o        ie³       [gk]³o
 SFX V   o         0         jo
-SFX V   ko        k         [^bcdjl³mnñprtwz¿]ko
+SFX V   ko        k         [^bcædjl³mnñprtwz¿]ko
 SFX V   ko        ek        [bcdjl³mprtwz¿]ko
+SFX V   æko       ciek      æko
 SFX V   ko        ek        [^a]nko
 SFX V   ko        ek        [^m]anko
 SFX V   ko        k         manko
@@ -6828,7 +6830,7 @@ SFX L   a         ê         [^cnw]a
 SFX L   a         ±         [^cnw]a
 SFX L   ¶         si±       ¶
 
-SFX M Y 128
+SFX M Y 129
 SFX M   a         o         a
 SFX M   a         i         [^bcdfhij³mnprstvwxyz¿]a
 SFX M   a         y         [^k]ha
@@ -6917,7 +6919,8 @@ SFX M   zna       ¼nie      [^crs]zna
 SFX M   xa        ksie      xa
 SFX M   a         ie        [^cdrs]za
 SFX M   a         ê         a
-SFX M   0         ê         [^cps][aeyi]ni
+SFX M   0         ê         ini
+SFX M   0         ê         [^cps][aey]ni
 SFX M   e¿        ¿ê        re¿
 SFX M   a         ±         a
 SFX M   0         ±         c
@@ -7016,11 +7019,12 @@ SFX Y   n         0         ten
 SFX Y   en        ne        den
 SFX Y   en        ni        den
 
-SFX y Y 22
+SFX y Y 23
 SFX y   y         o         by
 SFX y   y         ie        [^hos]ny
 SFX y   y         o         hny
-SFX y   ony       enie      ony
+SFX y   y         o         [l³w]ony
+SFX y   ony       enie      [^l³w]ony
 SFX y   sny       ¶nie      sny
 SFX y   i         o         [gk]i
 SFX y   0         o         [bcflmnpswz]i
