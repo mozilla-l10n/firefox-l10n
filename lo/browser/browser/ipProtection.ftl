@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Toolbar button tooltip reflects VPN state
+
+
+##
+
+
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-primary = ຕໍ່ໄປ
@@ -12,6 +18,15 @@ ipprotection-feature-introduction-button-secondary-no-thanks = ບໍ່, ຂອ
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = ເລືອກບ່ອນທີ່ທ່ານໃຊ້ VPN
+
+## Location selection callout
+
+
+## Panel
+
+
+## Status card
+
 
 ## Location controls
 
@@ -24,9 +39,20 @@ ipprotection-locations-subview =
 ipprotecion-locations-subview-recommended-label = ແນະນຳ
 ipprotection-locations-subview-recommended-description = ຊອກຫາສະຖານທີ່ທີ່ໄວທີ່ສຸດ
 
+## VPN paused state
+
+
 ## Messages and errors
 
+ipprotection-connection-status-blocked-error-title-1 = VPN ບໍ່ສາມາດໃຊ້ໄດ້
+    .aria-label = VPN ບໍ່ສາມາດໃຊ້ໄດ້
 ipprotection-connection-status-blocked-error-title = VPN ບໍ່ສາມາດໃຊ້ໄດ້
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -38,3 +64,18 @@ ip-protection-autostart-checkbox =
     .label = ເມື່ອຂ້ອຍເປີດ { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = ໃນຫນ້າຕ່າງສ່ວນຕົວ
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
+
+## IP Protection alerts
+
