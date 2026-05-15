@@ -65,6 +65,14 @@ ipprotection-button-turn-vpn-off-excluded-site = «VPN»-ро дар ҳама ҷ
 ipprotection-button-turn-vpn-on = Фаъол кардани «VPN»
 # Button while VPN is connecting
 ipprotection-button-connecting = Фаъол шуда истодааст…
+ipprotection-connection-status-connected-1 = «VPN» фаъол аст
+    .aria-label = «VPN» фаъол аст
+ipprotection-connection-status-disconnected-1 = «VPN» ғайрифаъол аст
+    .aria-label = «VPN» ғайрифаъол аст
+ipprotection-connection-status-excluded-1 = «VPN» барои ин сомона ғайрифаъол аст
+    .aria-label = «VPN» барои ин сомона ғайрифаъол аст
+ipprotection-connection-status-connecting-1 = «VPN» пайваст шуда истодааст…
+    .aria-label = «VPN» пайваст шуда истодааст…
 
 ## Location controls
 
@@ -80,15 +88,29 @@ ipprotecion-locations-subview-recommended-label = Тавсияшуда
 
 upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
 ipprotection-connection-status-paused-title-1 = «VPN» таваққуф шуд
+ipprotection-connection-status-paused-title-2 = «VPN» таваққуф шуд
+    .aria-label = «VPN» таваққуф шуд
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Ба «VPN» пайваст шуда натавонист
 ipprotection-connection-status-generic-error-description = Пас аз чанд дақиқа аз нав кӯшиш кунед.
 ipprotection-connection-status-generic-error-try-again = Лутфан, баъдтар аз нав кӯшиш кунед.
+ipprotection-connection-status-network-error-title-1 = Пайвастшавии Интернети худро тафтиш кунед
+    .aria-label = Пайвастшавии Интернети худро тафтиш кунед
 ipprotection-connection-status-network-error-title = Пайвастшавии Интернети худро тафтиш кунед
+ipprotection-connection-status-blocked-error-title-1 = «VPN» дастнорас аст
+    .aria-label = «VPN» дастнорас аст
 ipprotection-connection-status-blocked-error-title = «VPN» дастнорас аст
 confirmation-hint-ipprotection-navigated-to-excluded-site = «VPN» барои ин сомона ғайрифаъол аст
+ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
+    .aria-label = Ба «VPN» пайваст шуда натавонист
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -104,9 +126,15 @@ ip-protection-autostart-private-checkbox =
 ip-protection-exceptions-dialog-window =
     .title = Идоракунии танзимоти сомона
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
