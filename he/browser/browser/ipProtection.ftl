@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = ה־VPN מושהה
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה תתאפס בחודש הבא.
+ipprotection-connection-status-paused-title-2 = ה־VPN מושהה
+    .aria-label = ה־VPN מושהה
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = לא ניתן היה להתחבר ל־VPN
 ipprotection-connection-status-generic-error-description = נא לנסות שוב בעוד מספר דקות.
 ipprotection-connection-status-generic-error-try-again = נא לנסות שוב מאוחר יותר.
+ipprotection-connection-status-network-error-title-1 = יש לבדוק את חיבור האינטרנט שלך
+    .aria-label = יש לבדוק את חיבור האינטרנט שלך
 ipprotection-connection-status-network-error-title = יש לבדוק את חיבור האינטרנט שלך
 ipprotection-connection-status-network-error-description = יש התחבר לאינטרנט, ולאחר מכן לנסות להפעיל את ה־VPN.
+ipprotection-connection-status-blocked-error-title-1 = ה־VPN אינו זמין
+    .aria-label = ה־VPN אינו זמין
 ipprotection-connection-status-blocked-error-title = ה־VPN אינו זמין
 ipprotection-connection-status-blocked-error-description = חוקים מקומיים מונעים מאיתנו לספק שירות VPN באזור זה. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = ניתן להפעיל VPN כ�
 ipprotection-message-continuous-onboarding-autostart = ניתן <a data-l10n-name="setting-link">להגדיר שה־VPN יופעל</a> בכל פעם ש־{ -brand-short-name } נפתח, לקבלת שכבת הגנה נוספת.
 ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } יזכור באילו אתרים הגדרת להשתמש ב־VPN. ניתן לעדכן אותם ב<a data-l10n-name="setting-link">הגדרות</a> בכל עת.
 confirmation-hint-ipprotection-navigated-to-excluded-site = ה־VPN כבוי עבור אתר זה
+ipprotection-connection-status-generic-error-title-1 = לא ניתן היה להתחבר ל־VPN
+    .aria-label = לא ניתן היה להתחבר ל־VPN
 
 ## IP Protection bandwidth callouts
 
