@@ -90,6 +90,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Malŝalti VPN ĉie
 ipprotection-button-turn-vpn-on = Ŝalti VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Ŝalto…
+ipprotection-connection-status-connected-1 = VPN ŝaltita
+    .aria-label = VPN ŝaltita
+ipprotection-connection-status-disconnected-1 = VPN malŝaltita
+    .aria-label = VPN malŝaltita
+ipprotection-connection-status-excluded-1 = VPN malŝaltita por tiu ĉi retejo
+    .aria-label = VPN malŝaltita por tiu ĉi retejo
+ipprotection-connection-status-connecting-1 = Konektiĝo al VPN…
+    .aria-label = Konektiĝo al VPN…
 
 ## Location controls
 
@@ -120,14 +128,20 @@ ipprotection-connection-status-paused-title-1 = VPN paŭzigita
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
+ipprotection-connection-status-paused-title-2 = VPN paŭzigita
+    .aria-label = VPN paŭzigita
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Ne eblis konektiĝi al la VPN
 ipprotection-connection-status-generic-error-description = Provu denove post kelkaj minutoj.
 ipprotection-connection-status-generic-error-try-again = Bonvolu klopodi denove poste.
+ipprotection-connection-status-network-error-title-1 = Kontrolu vian retaliron
+    .aria-label = Kontrolu vian retaliron
 ipprotection-connection-status-network-error-title = Kontrolu vian retaliron
 ipprotection-connection-status-network-error-description = Konektiĝu al la reto kaj poste provu ŝalti la VPN.
+ipprotection-connection-status-blocked-error-title-1 = La VPN ne disponeblas
+    .aria-label = La VPN ne disponeblas
 ipprotection-connection-status-blocked-error-title = La VPN ne disponeblas
 ipprotection-connection-status-blocked-error-description = Lokaj reguloj malpermesas al ni provizi VPN servon en tiu ĉi regiono. <a data-l10n-name="learn-more-link">Pli da informo</a>
 # Variables
@@ -146,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian lok
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memoros la retejojn kiujn vi agordis por viziti pere de VPN. Vi povas modifi ilin iam ajn en <a data-l10n-name="setting-link">agordoj</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
+ipprotection-connection-status-generic-error-title-1 = Ne eblis konektiĝi al la VPN
+    .aria-label = Ne eblis konektiĝi al la VPN
 
 ## IP Protection bandwidth callouts
 
