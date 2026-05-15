@@ -73,6 +73,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Povsod izklopi VPN
 ipprotection-button-turn-vpn-on = Vklopi VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Vklapljanje …
+ipprotection-connection-status-connected-1 = VPN je vklopljen
+    .aria-label = VPN je vklopljen
+ipprotection-connection-status-disconnected-1 = VPN je izklopljen
+    .aria-label = VPN je izklopljen
+ipprotection-connection-status-excluded-1 = VPN je na tem spletnem mestu izklopljen
+    .aria-label = VPN je na tem spletnem mestu izklopljen
+ipprotection-connection-status-connecting-1 = VPN se povezuje …
+    .aria-label = VPN se povezuje …
 
 ## Location controls
 
@@ -105,6 +113,8 @@ ipprotection-connection-status-blocked-error-title-1 = VPN ni na voljo
     .aria-label = VPN ni na voljo
 ipprotection-connection-status-blocked-error-title = VPN ni na voljo
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
+ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mogoča
+    .aria-label = Povezava z VPN ni bila mogoča
 
 ## IP Protection bandwidth callouts
 
