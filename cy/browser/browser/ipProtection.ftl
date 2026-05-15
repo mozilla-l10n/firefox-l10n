@@ -120,14 +120,20 @@ ipprotection-connection-status-paused-title-1 = Mae VPN wedi'i oedi
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Rydych chi wedi defnyddio'r cyfan o'r { $maxUsage } GB o'ch data VPN. Bydd mynediad yn ailgychwyn y mis nesaf.
+ipprotection-connection-status-paused-title-2 = Mae VPN wedi'i oedi
+    .aria-label = Mae VPN wedi'i oedi
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Methu cysylltu â'r VPN
 ipprotection-connection-status-generic-error-description = Ceisiwch eto mewn ychydig funudau.
 ipprotection-connection-status-generic-error-try-again = Ceisiwch eto'n ddiweddarach.
+ipprotection-connection-status-network-error-title-1 = Gwiriwch eich cysylltiad rhyngrwyd
+    .aria-label = Gwiriwch eich cysylltiad rhyngrwyd
 ipprotection-connection-status-network-error-title = Gwiriwch eich cysylltiad rhyngrwyd
 ipprotection-connection-status-network-error-description = Cysylltwch â'r rhyngrwyd, yna ceisio troi'r VPN ymlaen.
+ipprotection-connection-status-blocked-error-title-1 = Dyw VPN ddim ar gael
+    .aria-label = Dyw VPN ddim ar gael
 ipprotection-connection-status-blocked-error-title = Dyw VPN ddim ar gael
 ipprotection-connection-status-blocked-error-description = Mae cyfreithiau lleol yn ein hatal rhag darparu gwasanaeth VPN yn y rhanbarth hwn. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
 # Variables
@@ -146,6 +152,8 @@ ipprotection-message-continuous-onboarding-intro = Trowch y VPN ymlaen i guddio'
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Gosod y VPN i droi ymlaen</a> bob tro byddwch yn agor { -brand-short-name } am haen ychwanegol o ddiogelwch.
 ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-name } yn cofio pa wefannau rydych chi wedi'u gosod i ddefnyddio'r VPN. Diweddarwch y rhain yn y  <a data-l10n-name="setting-link">gosodiadau</a> ar unrhyw bryd.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Mae'r VPN i ffwrdd ar y wefan hon
+ipprotection-connection-status-generic-error-title-1 = Methu cysylltu â'r VPN
+    .aria-label = Methu cysylltu â'r VPN
 
 ## IP Protection bandwidth callouts
 
