@@ -804,6 +804,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Ponuka Miniaplikácie
     .aria-label = Otvorí ponuku Miniaplikácie
+newtab-widget-add-widgets-button =
+    .aria-label = Pridať miniaplikáciu
+    .title = Pridať miniaplikáciu
 newtab-widget-section-menu-manage = Spravovať miniaplikácie
 newtab-widget-section-menu-hide-all = Skryť miniaplikácie
 newtab-widget-section-menu-learn-more = Ďalšie informácie
@@ -900,6 +903,7 @@ newtab-widget-timer-celebration-message-break = Pripravení sústrediť sa?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Sledovať tímy
+newtab-sports-widget-menu-view-schedule = Zobraziť rozpis zápasov
 newtab-sports-widget-menu-view-upcoming = Zobraziť nadchádzajúce
 newtab-sports-widget-menu-view-results = Zobraziť výsledky
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -912,6 +916,8 @@ newtab-sports-widget-view-schedule =
     .label = Zobraziť rozpis zápasov
 newtab-sports-widget-follow-teams =
     .label = Sledovať tímy
+newtab-sports-widget-view-matches =
+    .label = Zobraziť zápasy
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -928,6 +934,8 @@ newtab-sports-widget-search-country =
     .placeholder = Hľadať krajinu
     .aria-label = Hľadať krajinu
 newtab-sports-widget-cancel = Zrušiť
+newtab-sports-widget-back-button =
+    .aria-label = Naspäť
 newtab-sports-widget-done-button =
     .label = Hotovo
 newtab-sports-widget-group-stage = Skupinová fáza
@@ -942,6 +950,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Kľúčové dátumy
 newtab-sports-widget-upcoming = Nadchádzajúce
+# Used for a match currently ongoing
+newtab-sports-widget-now = Teraz
 newtab-sports-widget-results = Výsledky
 newtab-sports-widget-semi-finals = Semifinále
 newtab-sports-widget-bronze-finals = O tretie miesto
