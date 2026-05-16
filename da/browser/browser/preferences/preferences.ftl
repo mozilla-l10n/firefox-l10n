@@ -48,6 +48,8 @@ pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Hjem
+pane-search-title2 = Søgning
+    .title = Søgning
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Søgning
@@ -65,11 +67,12 @@ category-sync3 =
 pane-ai-controls-title = AI-indstillinger
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
-pane-languages-title = Sprog
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-eksperimenter
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperimenter
@@ -86,6 +89,8 @@ pane-experimental-description3 = Prøv vores eksperimentelle funktioner! De er u
 pane-experimental-reset =
     .label = Gendan standarder
     .accesskey = G
+addons-button-label2 = Udvidelser og temaer
+    .title = Udvidelser og temaer
 help-button-label = Hjælp til { -brand-short-name }
 addons-button-label = Udvidelser og temaer
 focus-search =
@@ -720,6 +725,12 @@ update-in-progress-ok-button = &Annuller
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1500,6 +1511,9 @@ forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2261,11 +2275,17 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = DNS via HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
 choose-download-folder-title = Gem filer i
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2325,6 +2345,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annuller
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloker
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
@@ -2365,3 +2387,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
