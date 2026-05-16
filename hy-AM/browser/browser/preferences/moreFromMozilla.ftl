@@ -19,6 +19,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR ծածկագիրը՝ { -brand-product-name } բջջայինի ներբեռնման համար
 more-from-moz-button-mozilla-vpn-2 = Ստացեք VPN
 more-from-moz-learn-more-link = Իմանալ ավելին
+more-from-moz-title2 = Ավելին { -vendor-short-name }-ից
+    .title = Ավելին { -vendor-short-name }-ից
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -41,3 +43,17 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } ԱԲ վեբ-կայքի ստ
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-button = Սովորեք վեբ մշակում
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
