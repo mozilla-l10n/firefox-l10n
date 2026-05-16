@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
 ipprotection-feature-introduction-button-secondary-remove = Odstrániť VPN z panela nástrojov
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Odstrániť VPN z panela nástrojov
 
 ## Site settings callout
 
