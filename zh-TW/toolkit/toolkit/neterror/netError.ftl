@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } 無法與伺服器 { $hostname } 建立安全連線。
 fp-neterror-offline-intro = { -brand-short-name } 無法連線到位於 <strong>{ $hostname }</strong> 的伺服器
+fp-neterror-offline-intro-2 = { -brand-short-name } 無法連線到位於 <strong>{ $hostname }</strong> 的伺服器。
 fp-neterror-net-timeout-intro = 位於 <strong>{ $hostname }</strong> 的伺服器花了太久時間，還是沒有回應。
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

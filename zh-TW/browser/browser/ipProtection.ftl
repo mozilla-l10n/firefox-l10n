@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = 請選擇另一個要連線的位置。
 ipprotecion-locations-subview-recommended-label = 推薦
 ipprotection-locations-subview-recommended-description = 尋找最快位置
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = 無法使用
 ipprotection-locations-subview-promo =
     .heading = 用 { -mozilla-vpn-brand-name } 獲得更佳保護
     .message = 用最多 5 台裝置，從超過 300 個位置連線並保護您的所有應用程式。

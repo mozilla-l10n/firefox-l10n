@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Domov
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Domov a spustenie
 pane-search-title = Vyhľadávanie
 category-search =
     .tooltiptext = { pane-search-title }
@@ -1111,7 +1112,7 @@ home-prefs-clocks-header =
     .label = Hodiny
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Podporiť { -brand-product-name }
+    .label = Podpora pre { -brand-product-name(case: "acc") }
 home-prefs-mission-message = Naši sponzori podporujú našu misiu budovať lepší web.
 home-prefs-mission-message-learn-more-link = Pozrite sa ako
 home-prefs-mission-message2 =

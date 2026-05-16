@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Đăng nhập để gửi thẻ
 main-context-menu-send-to-mobile-enable-sync2 = Bật đồng bộ hoá để gửi một thẻ
 main-context-menu-send-to-mobile-connect-phone2 = Kết nối điện thoại của bạn
 main-context-menu-send-to-mobile-device-missing2 = Không thấy thiết bị của bạn?
+main-context-menu-send-to-mobile-sign-in-from-link = Đăng nhập để gửi liên kết
+main-context-menu-send-to-mobile-sign-in-from-page = Đăng nhập để gửi trang
+main-context-menu-send-to-mobile-enable-sync3 = Bật đồng bộ hóa để gửi thẻ
+main-context-menu-send-to-mobile-enable-sync-from-link = Bật đồng bộ hóa để gửi liên kết
+main-context-menu-send-to-mobile-enable-sync-from-page = Bật đồng bộ hóa để gửi trang
+main-context-menu-send-to-mobile-connect-phone3 = Kết nối với thiết bị khác để gửi thẻ
+main-context-menu-send-to-mobile-connect-phone-from-link = Kết nối với thiết bị khác để gửi liên kết
+main-context-menu-send-to-mobile-connect-phone-from-page = Kết nối với thiết bị khác để gửi trang
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Bật đồng bộ hoá để gửi một thẻ

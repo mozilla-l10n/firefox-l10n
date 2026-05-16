@@ -53,6 +53,7 @@ category-general =
 pane-home-title = 首頁
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = 首頁與啟動
 pane-search-title = 搜尋
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2562,6 +2563,8 @@ related-settings-accessibility-link =
     .label = 到「輔助功能」自訂縮放與字型設定
 related-settings-home-link =
     .label = 自訂 { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = 自訂瀏覽器版面
 
 ## AI controls page
 

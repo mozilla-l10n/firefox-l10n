@@ -50,10 +50,10 @@ settings-data-toggle-encryption-label2 =
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Názov súboru: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Obnovte svoje údaje
+    .label = Obnoviť údaje
     .description = Obnovte si dáta { -brand-product-name(case: "gen") } z poslednej zálohy.
 settings-data-backup-restore-scheduled-off =
-    .label = Obnovte svoje údaje
+    .label = Obnoviť údaje
     .description = Na obnovenie údajov použite zálohu { -brand-product-name(case: "gen") } z iného zariadenia.
 
 ##
