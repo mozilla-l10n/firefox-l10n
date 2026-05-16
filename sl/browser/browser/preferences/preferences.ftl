@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Domača stran
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Domača stran in zagon
 pane-search-title = Iskanje
 category-search =
     .tooltiptext = { pane-search-title }
@@ -71,13 +70,14 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = O { -brand-short-name(sklon: "mestnik") }
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Dostopnost
     .title = { pane-accessibility-title }
-pane-languages-title = Jeziki
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }ovi poskusi
 category-experimental =
     .tooltiptext = { -brand-short-name }ovi poskusi
@@ -1238,7 +1238,6 @@ account-placeholder2 =
     .description = Prijavite se in si uredite zaseben, zavarovan in enostaven dostop do svojih podatkov povsod, kjer uporabljate { -brand-short-name(sklon: "tozilnik") }
 account-sync-section =
     .heading = Račun in sinhronizacija
-pane-account-sync-title = Račun in sinhronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1587,6 +1586,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2469,6 +2471,9 @@ desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2527,6 +2532,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Prekliči
 preferences-ai-controls-block-confirmation-confirm =
     .label = Prepovej
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
