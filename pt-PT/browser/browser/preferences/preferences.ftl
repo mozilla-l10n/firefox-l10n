@@ -724,6 +724,12 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -1016,6 +1022,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Escolha um fundo
 home-prefs-choose-wallpaper-link2 =
     .label = Escolha um fundo
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensão ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1535,6 +1546,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber mais
 forms-windows-sso-desc = Gerir contas nas definições do seu dispositivo
 windows-passkey-settings-label = Gerir as chaves de acesso nas definições do sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2425,6 +2439,9 @@ preferences-connection-link-button =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## Appearance page
+
 
 ## AI controls page
 

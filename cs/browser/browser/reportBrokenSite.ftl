@@ -8,6 +8,27 @@ report-broken-site-panel-header =
     .title = Nahlášení nefunkční stránky
 report-broken-site-panel-intro-text = Vaše hlášení nám pomáhá porozumět problémům ve { -brand-product-name(case: "loc") } a opravit je, aby byl lepší pro všechny.
 report-broken-site-panel-learn-more-link = Zjistit více
+report-broken-site-panel-reason-load-moz-box-button =
+    .label = Stránka se nenačítá
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout-moz-box-button =
+    .label = Nelze zaplatit nebo nakupovat
+report-broken-site-panel-reason-slow-moz-box-button =
+    .label = Stránka je pomalá
+report-broken-site-panel-reason-media-moz-box-button =
+    .label = Video se nepřehrává nebo se nenačítá
+report-broken-site-panel-reason-content-moz-box-button =
+    .label = Chybějící obsah
+report-broken-site-panel-reason-account-moz-box-button =
+    .label = Nelze se přihlásit nebo zaregistrovat
+report-broken-site-panel-reason-adblocker-moz-box-button =
+    .label = Stránka požádala o vypnutí blokování reklam
+report-broken-site-panel-reason-notsupported-moz-box-button =
+    .label = Prohlížeč není podporován nebo je blokován
+report-broken-site-panel-reason-other-moz-box-button =
+    .label = Něco jiného
+report-broken-site-panel-send-more-info-button =
+    .label = Odeslat více informací
 report-broken-site-panel-intro =
     { -brand-product-name.case-status ->
         [with-cases] Pomozte zlepšit { -brand-product-name(case: "acc") } pro všechny. { -vendor-short-name } používá vámi zaslané informace k řešení problémů s webovými stránkami.
@@ -64,5 +85,7 @@ report-broken-site-panel-blocked-trackers-label =
 report-broken-site-panel-blocked-trackers-description = Rozšířená ochrana proti sledování může blokovat sledovací prvky a skripty, které některé webové stránky potřebují pro správné fungování.
 report-broken-site-panel-preview-button =
     .label = Náhled hlášení
+report-broken-site-panel-preview-header2 =
+    .title = Náhled hlášení
 report-broken-site-panel-preview-header =
     .label = Náhled hlášení

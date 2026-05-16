@@ -1067,6 +1067,11 @@ home-prefs-choose-wallpaper-link2 =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Pentru utilizarea acestor funcționalități, setează filele noi sau ferestrele noi pe { -firefox-home-brand-name }.
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensie ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -2488,6 +2493,9 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
+
+## Appearance page
+
 
 ## AI controls page
 

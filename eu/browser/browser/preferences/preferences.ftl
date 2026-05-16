@@ -1109,6 +1109,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Aukeratu horma-papera
 home-prefs-choose-wallpaper-link2 =
     .label = Aukeratu horma-papera
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Gehigarria ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1629,6 +1634,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

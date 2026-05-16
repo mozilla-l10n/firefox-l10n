@@ -572,6 +572,15 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -641,6 +650,9 @@ browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Stillingar netkerfis
@@ -692,6 +704,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -748,6 +766,11 @@ home-prefs-support-firefox-header =
     .label = Styddu við { -brand-product-name }
 home-prefs-mission-message = Styrktaraðilar okkar styðja markmið okkar að byggja upp betri vef
 home-prefs-mission-message-learn-more-link = Finndu út hvernig
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Forritsauki ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -907,6 +930,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1146,6 +1174,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Frekari upplýsingar
 forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 windows-passkey-settings-label = Sýsla með lykilorð í stillingum kerfisins
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1777,8 +1808,26 @@ preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

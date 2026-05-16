@@ -1064,6 +1064,11 @@ home-prefs-choose-wallpaper-link2 =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = To use these features, set new tabs or new windows to { -firefox-home-brand-name }.
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extension ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -2484,6 +2489,9 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
+
+## Appearance page
+
 
 ## AI controls page
 

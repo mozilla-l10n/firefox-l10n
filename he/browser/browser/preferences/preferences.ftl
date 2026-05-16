@@ -1124,6 +1124,11 @@ home-prefs-choose-wallpaper-link2 =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = כדי להשתמש באפשרויות אלה, יש להגדיר את הלשונית החדשה או חלונות חדשים כ{ -firefox-home-brand-name }.
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = הרחבה ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

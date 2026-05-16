@@ -1134,6 +1134,11 @@ home-prefs-choose-wallpaper-link2 =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = I ddefnyddio'r nodweddion hyn, gosodwch dabiau newydd neu ffenestri newydd i { -firefox-home-brand-name }.
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Estyniad ( { $extension } )
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
