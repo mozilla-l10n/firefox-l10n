@@ -70,13 +70,14 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } rehegua
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Jeikekuaa
     .title = { pane-accessibility-title }
-pane-languages-title = Ñe’ẽnguéra
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Mba’epyahu
 category-experimental =
     .tooltiptext = { -brand-short-name } Mba’epyahu
@@ -2487,6 +2488,9 @@ desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2541,6 +2545,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Heja
 preferences-ai-controls-block-confirmation-confirm =
     .label = Joko
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
