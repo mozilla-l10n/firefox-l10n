@@ -98,6 +98,8 @@ pane-experimental-description3 = Próbálja ki kísérleti funkcióinkat! Fejles
 pane-experimental-reset =
     .label = Alapértelmezések visszaállítása
     .accesskey = v
+addons-button-label2 = Kiegészítők és témák
+    .title = Kiegészítők és témák
 help-button-label = { -brand-short-name } támogatás
 addons-button-label = Kiegészítők és témák
 focus-search =
@@ -1745,6 +1747,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Jelszavak és automatikus kitöltés
+    .title = Jelszavak és automatikus kitöltés
 preferences-passwords-autofill-header =
     .heading = Jelszavak és automatikus kitöltés
 # These values are displayed for each credit card record listed on the Manage Payment methods
