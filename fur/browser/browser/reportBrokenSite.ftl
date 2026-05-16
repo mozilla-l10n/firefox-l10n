@@ -56,5 +56,7 @@ report-broken-site-panel-blocked-trackers-label =
 report-broken-site-panel-blocked-trackers-description = La protezion miorade da lis spiis e podarès blocâ scripts necessaris pal just funzionament di cualchi sît web.
 report-broken-site-panel-preview-button =
     .label = Anteprime segnalazion
+report-broken-site-panel-preview-header2 =
+    .title = Anteprime segnalazion
 report-broken-site-panel-preview-header =
     .label = Anteprime segnalazion
