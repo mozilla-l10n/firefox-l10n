@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = 二维码：下载 { -brand-product-name } 移动版
 more-from-moz-button-mozilla-vpn-2 = 下载 VPN
 more-from-moz-learn-more-link = 详细了解
+more-from-moz-title2 = { -vendor-short-name } 产品
+    .title = { -vendor-short-name } 产品
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
