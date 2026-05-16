@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Gezinmek için farklı bir konum seçin.
 ipprotecion-locations-subview-recommended-label = Önerilen
 ipprotection-locations-subview-recommended-description = En hızlı konumu bulur
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Kullanılamıyor
 ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } ile korumayı ileri taşıyın
     .message = 300’den fazla konumdan istediğinizi seçin, 5 ayrı cihazınızda tüm uygulamalarınızı koruyun.

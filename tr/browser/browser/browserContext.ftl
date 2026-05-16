@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Sekme göndermek için giriş yapın
 main-context-menu-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi etkinleştirin
 main-context-menu-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
 main-context-menu-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
+main-context-menu-send-to-mobile-sign-in-from-link = Bağlantı göndermek için giriş yapın
+main-context-menu-send-to-mobile-sign-in-from-page = Sayfa göndermek için giriş yapın
+main-context-menu-send-to-mobile-enable-sync3 = Sekme göndermek için eşitlemeyi açın
+main-context-menu-send-to-mobile-enable-sync-from-link = Bağlantı göndermek için eşitlemeyi açın
+main-context-menu-send-to-mobile-enable-sync-from-page = Sayfa göndermek için eşitlemeyi açın
+main-context-menu-send-to-mobile-connect-phone3 = Sekme göndermek için bir cihaz bağlayın
+main-context-menu-send-to-mobile-connect-phone-from-link = Bağlantı göndermek için cihaz bağlayın
+main-context-menu-send-to-mobile-connect-phone-from-page = Sayfa göndermek için cihaz bağlayın
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Sekme göndermek için eşitlemeyi etkinleştirin

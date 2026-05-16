@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Sekmenin sesini aç
 fxviewtabrow-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi etkinleştirin
 fxviewtabrow-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
+fxviewtabrow-send-to-mobile-connect-device = Sekme göndermek için bir cihaz bağlayın
 fxviewtabrow-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Sekme göndermek için giriş yapın
+fxviewtabrow-send-to-mobile-turn-on-sync = Sekme göndermek için eşitlemeyi açın
