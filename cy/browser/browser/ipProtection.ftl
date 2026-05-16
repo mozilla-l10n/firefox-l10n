@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Nesaf
 ipprotection-feature-introduction-button-secondary-not-now = Nid nawr
 ipprotection-feature-introduction-button-secondary-no-thanks = Dim diolch
 ipprotection-feature-introduction-button-secondary-remove = Tynnu VPN o'r bar offer
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Tynnu VPN o'r bar offer
 
 ## Site settings callout
 
