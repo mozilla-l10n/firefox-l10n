@@ -65,6 +65,8 @@ pane-privacy-title = Privacy & Befeiliging
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Syngronisaasje
+pane-ai-controls-title2 = AI-bestjoeringen
+    .title = AI-bestjoeringen
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI-bestjoeringen
@@ -74,10 +76,14 @@ pane-about-firefox-title = Oer { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Uterlik
     .title = { pane-appearance-title }
+pane-downloads-title2 = Downloads
+    .title = Downloads
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Tagonklikheid
     .title = { pane-accessibility-title }
+pane-languages-title2 = Talen
+    .title = Talen
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Profyl selektearje
 preferences-copy-profile-button = Kopiearje
 tabs-browsing-section =
     .heading = Ljepblêden en navigearje
+pane-tabs-browsing-title2 = Ljepblêden en navigearje
+    .title = Ljepblêden en navigearje
 tabs-group-header2 =
     .label = Ljepblêden
 tabs-opening-heading =
@@ -1296,6 +1304,8 @@ account-placeholder2 =
     .description = Meld jo oan en hâld jo gegevens privee, fersifere en daliks tagonklik, oeral wêr’t jo { -brand-short-name } brûke.
 account-sync-section =
     .heading = Accoant en syngronisaasje
+pane-account-sync-title2 = Account en syngronisaasje
+    .title = Account en syngronisaasje
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1761,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Wachtwurden en automatysk ynfolje
+    .title = Wachtwurden en automatysk ynfolje
 preferences-passwords-autofill-header =
     .heading = Wachtwurden en automatysk ynfolje
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2240,8 @@ permissions-header3 =
     .description = Beheare hokker websites benaderje, oanstjoere of starte kinne.
 permissions-data-section =
     .heading = Tastimmingen en gegevens
+pane-permissions-data-title2 = Tastimmingen en gegevens
+    .title = Tastimmingen en gegevens
 
 ## Privacy Section - Data Collection
 
