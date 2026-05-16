@@ -51,6 +51,8 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Inicio
+pane-search-title2 = Buscar
+    .title = Buscar
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Buscar
@@ -72,16 +74,14 @@ pane-about-firefox-title = Acerca de { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Apariencia
     .title = { pane-appearance-title }
-pane-downloads-title = Descargas
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accesibilidad
     .title = { pane-accessibility-title }
-pane-languages-title = Idiomas
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -2193,7 +2193,6 @@ permissions-header3 =
     .description = Gestione lo que las páginas web pueden acceder, controlar o activar.
 permissions-data-section =
     .heading = Permisos y datos
-pane-permissions-data-title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
@@ -2598,6 +2597,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquear
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
