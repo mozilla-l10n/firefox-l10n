@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = קוד QR להורדת { -brand-product-name } לנייד
 more-from-moz-button-mozilla-vpn-2 = קבלת VPN
 more-from-moz-learn-more-link = מידע נוסף
+more-from-moz-title2 = עוד מ־{ -vendor-short-name }
+    .title = עוד מ־{ -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
