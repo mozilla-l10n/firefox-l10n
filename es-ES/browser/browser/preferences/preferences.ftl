@@ -65,6 +65,8 @@ pane-privacy-title = Privacidad & Seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronización
+pane-ai-controls-title2 = Controles de IA
+    .title = Controles de IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Controles de IA
@@ -74,10 +76,14 @@ pane-about-firefox-title = Acerca de { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Apariencia
     .title = { pane-appearance-title }
+pane-downloads-title2 = Descargas
+    .title = Descargas
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accesibilidad
     .title = { pane-accessibility-title }
+pane-languages-title2 = Idiomas
+    .title = Idiomas
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2197,6 +2203,8 @@ permissions-header3 =
     .description = Gestione lo que las páginas web pueden acceder, controlar o activar.
 permissions-data-section =
     .heading = Permisos y datos
+pane-permissions-data-title2 = Permisos y datos
+    .title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
