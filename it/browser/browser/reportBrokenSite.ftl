@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Segnala problemi con il sito
 report-broken-site-panel-intro-text = La tua segnalazione ci aiuta a capire e risolvere i problemi di { -brand-product-name }, aiutandoci a migliorarlo per tutti.
 report-broken-site-panel-learn-more-link = Ulteriori informazioni
+report-broken-site-panel-reason-intro-text = Che cosa non funziona?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Il sito non si carica
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Il sito chiede di disattivare estensioni per il blocco pubblicità
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Il browser non è supportato o viene bloccato
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Il sito è ingannevole
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Altro
+report-broken-site-panel-instructions-other = Fornisci una descrizione dettagliata del problema per aiutarci a esaminarlo.
+report-broken-site-panel-instructions-other-optional = Fornisci una descrizione dettagliata del problema per aiutarci a esaminarlo. (facoltativo)
+report-broken-site-panel-description2 =
+    .placeholder = Che cosa è successo? Cosa ti aspettavi che accadesse? Fornisci i passaggi per riprodurre il problema.
 report-broken-site-panel-send-more-info-button =
     .label = Aggiungi ulteriori informazioni
 report-broken-site-panel-intro = Aiutaci a migliorare { -brand-product-name } per tutti. { -vendor-short-name } utilizza le informazioni che invii per risolvere problemi con i siti web.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Annulla
 report-broken-site-panel-button-okay =
     .label = OK
+report-broken-site-panel-button-send-report =
+    .label = Invia segnalazione
 report-broken-site-panel-button-send =
     .label = Invia
 report-broken-site-panel-report-sent-label = La segnalazione è stata inviata
@@ -71,6 +80,18 @@ report-broken-site-panel-report-sent-header =
     .title = La segnalazione è stata inviata
 report-broken-site-panel-report-sent-text = Grazie per aiutare { -brand-product-name } a rendere il Web più aperto, accessibile e migliore per tutti.
 report-broken-site-panel-invalid-url-label = Inserire un URL valido
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Inserire almeno { $minLength } carattere
+       *[other] Inserire almeno { $minLength } caratteri
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Invia uno screenshot
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Invia l’elenco degli elementi bloccati dalla protezione antitracciamento
+report-broken-site-panel-url-input-label =
+    .aria-label = URL della pagina segnalata
 report-broken-site-panel-missing-reason-label = Scegliere un motivo
 report-broken-site-panel-blocked-trackers-label =
     .label = Invia URL bloccati dalla protezione antitracciamento
