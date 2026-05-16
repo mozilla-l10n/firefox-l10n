@@ -56,5 +56,7 @@ report-broken-site-panel-blocked-trackers-label =
 report-broken-site-panel-blocked-trackers-description = Розширений захист від стеження може блокувати елементи, необхідні для належної роботи деяких вебсайтів.
 report-broken-site-panel-preview-button =
     .label = Переглянути звіт
+report-broken-site-panel-preview-header2 =
+    .title = Переглянути звіт
 report-broken-site-panel-preview-header =
     .label = Переглянути звіт
