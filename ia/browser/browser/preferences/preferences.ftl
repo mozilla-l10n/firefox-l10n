@@ -72,16 +72,14 @@ pane-about-firefox-title = A proposito de { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Apparentia
     .title = { pane-appearance-title }
-pane-downloads-title = Discargamentos
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibilitate
     .title = { pane-accessibility-title }
-pane-languages-title = Linguas
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -98,6 +96,8 @@ pane-experimental-description3 = Essaya nostre functiones experimental! Illos es
 pane-experimental-reset =
     .label = Restaurar predefinitiones
     .accesskey = R
+addons-button-label2 = Extensiones e themas
+    .title = Extensiones e themas
 help-button-label = Assistentia de { -brand-short-name }
 addons-button-label = Extensiones e themas
 focus-search =
@@ -224,8 +224,6 @@ preferences-copy-profile-select = Eliger profilo
 preferences-copy-profile-button = Copiar
 tabs-browsing-section =
     .heading = Schedas e navigation
-pane-tabs-browsing-title = Schedas e navigation
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Schedas
 tabs-opening-heading =
@@ -1294,7 +1292,6 @@ account-placeholder2 =
     .description = Accede e mantene tu datos private, cryptate, e instantaneemente accessibile ubique tu usa { -brand-short-name }.
 account-sync-section =
     .heading = Conto e synchronisation
-pane-account-sync-title = Conto e synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1750,9 +1747,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Configurationes del contrasignos e del compilation automatic
-pane-passwords-autofill-title = Contrasignos e compilation automatic
 preferences-passwords-autofill-header =
     .heading = Contrasignos e compilation automatic
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2230,7 +2224,6 @@ permissions-header3 =
     .description = Gerer que sitos web pote acceder, controlar, o discatenar.
 permissions-data-section =
     .heading = Permissos e datos
-pane-permissions-data-title = Permissos e datos
 
 ## Privacy Section - Data Collection
 
@@ -2633,6 +2626,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancellar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blocar
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
