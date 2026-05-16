@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = ถัดไป
 ipprotection-feature-introduction-button-secondary-not-now = ไม่ใช่ตอนนี้
 ipprotection-feature-introduction-button-secondary-no-thanks = ไม่ ขอบคุณ
 ipprotection-feature-introduction-button-secondary-remove = เอา VPN ออกจากแถบเครื่องมือ
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = เอา VPN ออกจากแถบเครื่องมือ
 
 ## Site settings callout
 
