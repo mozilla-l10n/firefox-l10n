@@ -65,6 +65,8 @@ pane-privacy-title = Privacidad y seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronización
+pane-ai-controls-title2 = Controles de IA
+    .title = Controles de IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Controles de IA
@@ -74,10 +76,14 @@ pane-about-firefox-title = Acerca de { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Apariencia
     .title = { pane-appearance-title }
+pane-downloads-title2 = Descargas
+    .title = Descargas
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accesibilidad
     .title = { pane-accessibility-title }
+pane-languages-title2 = Idiomas
+    .title = Idiomas
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Seleccionar perfil
 preferences-copy-profile-button = Copiar
 tabs-browsing-section =
     .heading = Pestañas y navegación
+pane-tabs-browsing-title2 = Pestañas y navegación
+    .title = Pestañas y navegación
 tabs-group-header2 =
     .label = Pestañas
 tabs-opening-heading =
@@ -1294,6 +1302,8 @@ account-placeholder2 =
     .description = Conéctate y mantén tus datos privados, cifrados e instantáneamente accesibles desde todas partes en que uses { -brand-short-name }.
 account-sync-section =
     .heading = Cuenta y sincronización
+pane-account-sync-title2 = Cuenta y sincronización
+    .title = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1749,6 +1759,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Contraseñas y autocompletado
+    .title = Contraseñas y autocompletado
 preferences-passwords-autofill-header =
     .heading = Contraseñas y autocompletado
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2226,6 +2238,8 @@ permissions-header3 =
     .description = Gestionar lo que los sitios web pueden acceder, controlar o gatillar.
 permissions-data-section =
     .heading = Permisos y datos
+pane-permissions-data-title2 = Permisos y datos
+    .title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
