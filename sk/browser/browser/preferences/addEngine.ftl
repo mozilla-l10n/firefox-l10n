@@ -3,10 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 add-engine-window2 =
-    .title = Pridať vyhľadávací modul
+    .title = Pridať vyhľadávač
     .style = min-width: 32em;
-add-engine-button = Pridať vlastný vyhľadávací modul
-add-engine-name = Názov vyhľadávacieho modulu
+add-engine-button = Pridať vlastný vyhľadávač
 add-engine-alias = Alias
 add-engine-url = URL vyhľadávacieho modulu, dopyt nahraďte “%s”
 add-engine-dialog =

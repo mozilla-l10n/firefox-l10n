@@ -240,7 +240,7 @@ urlbar-dismissal-acknowledgment-weather = Ďakujeme za spätnú väzbu. Už sa v
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Menej písania, viac výsledkov. Používajte { $engineName } priamo z vášho panela s adresou.
-urlbar-search-tips-redirect-2 = Zadajte sem výraz vyhľadávania a uvidíte návrhy z vyhľadávacieho modulu { $engineName } a z vašej histórie prehliadania.
+urlbar-search-tips-redirect-2 = Zadajte sem výraz vyhľadávania a uvidíte návrhy z vyhľadávača { $engineName } a z vašej histórie prehliadania.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Vyhľadávanie je teraz jednoduchšie. Vyhľadávanie môžete spresniť priamo tu v paneli s adresou. Ak chcete namiesto toho zobraziť webovú stránku, zmeníte to v časti Vyhľadávanie v nastaveniach.
 # Prompts users to use the Urlbar when they are typing in the domain of a
@@ -335,10 +335,10 @@ search-one-offs-context-open-new-tab =
     .label = Vyhľadať na novej karte
     .accesskey = h
 search-one-offs-context-set-as-default =
-    .label = Nastaviť ako predvolený vyhľadávací modul
+    .label = Nastaviť ako predvolený vyhľadávač
     .accesskey = N
 search-one-offs-context-set-as-default-private =
-    .label = Nastaviť ako predvolený vyhľadávací modul pre súkromné prehliadanie
+    .label = Nastaviť ako predvolený vyhľadávač pre súkromné prehliadanie
     .accesskey = o
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -352,12 +352,12 @@ search-one-offs-engine-with-alias =
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
     .label = Pridať “{ $engineName }”
-    .tooltiptext = Pridať vyhľadávací modul “{ $engineName }”
-    .aria-label = Pridať vyhľadávací modul “{ $engineName }”
+    .tooltiptext = Pridať vyhľadávač “{ $engineName }”
+    .aria-label = Pridať vyhľadávač “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
-    .label = Pridať vyhľadávací modul
+    .label = Pridať vyhľadávač
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -960,7 +960,7 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hľadať ({ $local
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – Hľadať pomocou { $engine }
 urlbar-searchmode-dropmarker =
-    .tooltiptext = Vyberte vyhľadávací modul
+    .tooltiptext = Vyberte vyhľadávač
 urlbar-searchmode-bookmarks =
     .label = Záložky
 urlbar-searchmode-tabs =
@@ -980,8 +980,8 @@ urlbar-searchmode-popup-search-settings-menuitem =
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button2 =
-    .label = { $engine }, vyberte vyhľadávací modul
-    .tooltiptext = { $engine }, vyberte vyhľadávací modul
+    .label = { $engine }, vyberte vyhľadávač
+    .tooltiptext = { $engine }, vyberte vyhľadávač
 urlbar-searchmode-button-no-engine =
     .label = Nie je vybratá žiadna skratka, vyberte skratku
     .tooltiptext = Nie je vybratá žiadna skratka, vyberte skratku
@@ -989,14 +989,14 @@ urlbar-searchmode-button-no-engine =
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button3 =
-    .title = { $engine }, vyberte vyhľadávací modul
+    .title = { $engine }, vyberte vyhľadávač
 urlbar-searchmode-button-no-engine2 =
     .title = Nie je vybratá žiadna skratka, vyberte skratku
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = Vyhľadávanie kľúčových slov je vypnuté
 urlbar-searchmode-dropmarker2 =
-    .title = Vyberte vyhľadávací modul
+    .title = Vyberte vyhľadávač
 urlbar-searchmode-bookmarks2 = Záložky
 urlbar-searchmode-tabs2 = Karty
 urlbar-searchmode-history2 = História

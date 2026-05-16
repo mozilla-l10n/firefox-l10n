@@ -40,11 +40,11 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } blokuje reklam
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = V súkromnom prehliadaní je vašim predvoleným vyhľadávacím modulom { $engineName }
+about-private-browsing-search-banner-title = V súkromnom prehliadaní je vašim predvoleným vyhľadávačom { $engineName }
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Ak chcete vybrať iný vyhľadávací modul, prejdite do <a data-l10n-name="link-options">Možností</a>
-       *[other] Ak chcete vybrať iný vyhľadávací modul, prejdite do <a data-l10n-name="link-options">Možností</a>
+        [windows] Ak chcete vybrať iný vyhľadávač, prejdite do <a data-l10n-name="link-options">Možností</a>
+       *[other] Ak chcete vybrať iný vyhľadávač, prejdite do <a data-l10n-name="link-options">Možností</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zavrieť

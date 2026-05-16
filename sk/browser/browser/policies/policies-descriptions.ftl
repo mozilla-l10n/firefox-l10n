@@ -134,7 +134,7 @@ policy-RelaunchRequired = Vyžaduje opätovné spustenie { -brand-short-name(cas
 policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.
 policy-SanitizeOnShutdown2 = Vymaže údaje o prehliadaní v priebehu vypnutia.
 policy-SearchBar = Nastaví predvolené umiestnenie vyhľadávacieho poľa. Používateľ ho môže premiestniť.
-policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávacích modulov. Toto pravidlo je dostupné len vo verzii s rozšírenou podporou (ESR).
+policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávačov. Toto pravidlo je dostupné len vo verzii s rozšírenou podporou (ESR).
 policy-SearchSuggestEnabled = Povolí alebo zakáže návrhy vyhľadávania.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Pridá alebo odstráni moduly PKCS #11.

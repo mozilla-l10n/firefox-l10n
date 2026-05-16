@@ -58,7 +58,7 @@ newtab-search-box-input =
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
-newtab-topsites-add-search-engine-header = Pridať vyhľadávací modul
+newtab-topsites-add-search-engine-header = Pridať vyhľadávač
 newtab-topsites-add-shortcut-header = Nová skratka
 newtab-topsites-edit-topsites-header = Upraviť top stránku
 newtab-topsites-edit-shortcut-header = Upraviť skratku
@@ -229,7 +229,7 @@ newtab-section-menu-expand-section = Rozbaliť sekciu
 newtab-section-menu-manage-section = Spravovať sekciu
 newtab-section-menu-manage-webext = Spravovať rozšírenie
 newtab-section-menu-add-topsite = Pridať top stránku
-newtab-section-menu-add-search-engine = Pridať vyhľadávací modul
+newtab-section-menu-add-search-engine = Pridať vyhľadávač
 newtab-section-menu-move-up = Posunúť vyššie
 newtab-section-menu-move-down = Posunúť nižšie
 newtab-section-menu-privacy-notice = Vyhlásenie o ochrane osobných údajov
