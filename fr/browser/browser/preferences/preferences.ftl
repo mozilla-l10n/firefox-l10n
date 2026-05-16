@@ -51,9 +51,10 @@ pane-general-title = Général
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Accueil
+pane-search-title2 = Recherche
+    .title = Recherche
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Accueil et démarrage
 pane-search-title = Recherche
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = À propos de { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Apparence
     .title = { pane-appearance-title }
-pane-downloads-title = Téléchargements
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibilité
     .title = { pane-accessibility-title }
-pane-languages-title = Langues
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Expériences de { -brand-short-name }
 category-experimental =
     .tooltiptext = Expériences de { -brand-short-name }
@@ -99,6 +98,8 @@ pane-experimental-description3 = Essayez nos fonctionnalités expérimentales !
 pane-experimental-reset =
     .label = Configuration par défaut
     .accesskey = d
+help-button-label2 = Assistance de { -brand-short-name }
+    .title = Assistance de { -brand-short-name }
 help-button-label = Assistance de { -brand-short-name }
 addons-button-label = Extensions et thèmes
 focus-search =
@@ -225,8 +226,6 @@ preferences-copy-profile-select = Sélectionner un profil
 preferences-copy-profile-button = Copier
 tabs-browsing-section =
     .heading = Onglets et navigation
-pane-tabs-browsing-title = Onglets et navigation
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Onglets
 tabs-opening-heading =
@@ -1295,7 +1294,6 @@ account-placeholder2 =
     .description = Connectez-vous et gardez vos données privées, chiffrées et accessibles instantanément partout où vous utilisez { -brand-short-name }.
 account-sync-section =
     .heading = Compte et synchronisation
-pane-account-sync-title = Compte et synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1749,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Mots de passe et paramètres de remplissage automatique
-pane-passwords-autofill-title = Mots de passe et remplissage automatique
 preferences-passwords-autofill-header =
     .heading = Mots de passe et remplissage automatique
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2226,6 @@ permissions-header3 =
     .description = Gérez les éléments que les sites web peuvent accéder, contrôler ou déclencher.
 permissions-data-section =
     .heading = Autorisations et données
-pane-permissions-data-title = Autorisations et données
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2630,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annuler
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquer
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
