@@ -5,11 +5,19 @@
 pane-general-title = Сүрүн
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title2 = Көрдөөһүн
+    .title = Көрдөөһүн
 pane-search-title = Көрдөөһүн
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -416,6 +424,8 @@ choose-download-folder-title = Хачайдааһыннар паапкалары
 
 ## AI controls page
 
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
