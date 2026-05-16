@@ -363,15 +363,6 @@ update-in-progress-ok-button = &Stagghia
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Pristazziuni
@@ -426,9 +417,6 @@ browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
 browsing-group =
     .label = Navicazzioni
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Mpustazzioni riti
@@ -479,12 +467,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -592,9 +574,6 @@ containers-add-button =
 containers-remove-button =
     .label = Leva
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -634,11 +613,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -798,15 +772,6 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Crunuluggìa
@@ -895,12 +860,6 @@ sitedata-settings =
     .accesskey = d
 cookies-site-data-group =
     .label = Viscotta e dati dî siti
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1072,9 +1031,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Talìa studi di { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1106,34 +1062,13 @@ certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
 choose-download-folder-title = Scarta a carpetta pî scarricamenti:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

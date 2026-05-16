@@ -41,20 +41,3 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ගන්�
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = ඔබගේ අඩවිය ක්‍ෂණිකව සාදා නොමිලේ ඔබගේම අභිරුචි වසමක් සම්බන්ධ කරන්න.
 more-from-moz-solo-button = { -solo-ai-brand-name } බලන්න.
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
-
-
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
-## Product card strings for the config-based path. Each entry provides both
-## .label (title) and .description for a moz-fieldset inside a moz-card.
-

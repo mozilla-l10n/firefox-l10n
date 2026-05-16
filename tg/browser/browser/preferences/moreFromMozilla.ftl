@@ -48,17 +48,3 @@ more-from-moz-solo-title-2 = Сомонасоз дар асоси «{ -solo-ai-b
 more-from-moz-mdn-description = Омӯзиши сомонасозӣ ва коркарди веб бо истифода аз дастурҳо ва тавсияҳои ройгон ва ҳамаҷониба.
 more-from-moz-mdn-button = Омӯзиши сомонасозӣ ва коркарди веб
 more-from-moz-mdn-title2 = { -mdn-brand-name }
-
-## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
-
-
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
-## Product card strings for the config-based path. Each entry provides both
-## .label (title) and .description for a moz-fieldset inside a moz-card.
-

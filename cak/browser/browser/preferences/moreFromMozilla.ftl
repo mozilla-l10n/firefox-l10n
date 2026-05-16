@@ -21,26 +21,3 @@ more-from-moz-title2 = Ch'aqa' chik chi rij { -vendor-short-name }
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-button = Tik'ul { -relay-brand-short-name }
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
-
-
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
-## Product card strings for the config-based path. Each entry provides both
-## .label (title) and .description for a moz-fieldset inside a moz-card.
-

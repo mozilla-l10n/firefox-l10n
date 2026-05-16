@@ -487,15 +487,6 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -557,9 +548,6 @@ browsing-cfr-recommendations-learn-more = Իմանալ աւելին
 browsing-group =
     .label = Դիտարկում
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Ցանցի կարգաւորումներ
@@ -610,12 +598,6 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -793,11 +775,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -985,9 +962,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ աւելին
 forms-windows-sso-desc = Կառավարէք հաշիւները սարքի կարգաւորումներում
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -998,9 +972,6 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -1095,12 +1066,6 @@ sitedata-cookies-exceptions =
     .accesskey = ց
 cookies-site-data-group =
     .label = Cookie-ներ եւ կայքի տուեալներ
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1294,9 +1259,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Դիտել { -brand-short-name }-ի հետազոտութիւնները
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1346,31 +1308,13 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

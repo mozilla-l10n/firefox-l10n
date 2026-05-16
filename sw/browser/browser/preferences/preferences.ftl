@@ -29,20 +29,6 @@ feature-enable-requires-restart = { -brand-short-name } lazima ianze upya ili iw
 feature-disable-requires-restart = { -brand-short-name } lazima ianze upya ili ilemaze kipengele hiki.
 should-restart-title = Washa upya { -brand-short-name }
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
-## Preferences UI Search Results
-
-
 ## General Section
 
 startup-header = Uwashaji
@@ -55,13 +41,6 @@ show-tabs-in-taskbar =
     .accesskey = m
 startup-group =
     .label = Uwashaji
-
-## Variables:
-##   $tabCount (number) - Number of tabs
-
-
-##
-
 
 ## General Section - Language & Appearance
 
@@ -161,15 +140,6 @@ update-application-use-service =
     .label = Tumia huduma ya usuli ili kusakinisha visasisho
     .accesskey = s
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -191,20 +161,11 @@ browsing-use-cursor-navigation =
 browsing-group =
     .label = Kuvinjari
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-proxy-connection-settings =
     .label = Mipangilio…
     .accesskey = i
-
-## Home Section
-
-
-## Home Section - Default Browser
-
 
 ## Custom Homepage subpage
 
@@ -223,21 +184,6 @@ choose-bookmark =
     .label = Tumia Alamisho…
     .accesskey = A
 
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
-## Home Section - Firefox Home Content Customization
-
-
-## Home Section - Firefox Home Content Customization
-
-
-##
-
-
 ## Search Section
 
 search-remove-engine =
@@ -251,38 +197,6 @@ search-keyword-warning-title = Rudia Nenomsingi
 search-keyword-warning-engine = Umechagua nenomsingi ambalo kwa sasa linatumiwa na "{ $name }". Tafadhali chagua lingine.
 search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiwa na alamisho. Tafadhali chague lingine.
 
-## Containers Section
-
-
-## Account and sync
-
-
-## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox account - Signed in
-
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
-##
-
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -291,19 +205,6 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historia
     .accesskey = r
-
-## The device name controls.
-
-
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
-
-## Privacy Section - Logins and Passwords
-
 
 ## Privacy Panel Settings
 
@@ -317,15 +218,6 @@ forms-master-pw-change =
     .label = Badilisha Jina Kuu la nywila…
     .accesskey = J
 forms-master-pw-fips-desc = Ubadilishaji wa Neno la Siri Umeshindwa
-
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -352,34 +244,6 @@ history-clear-on-close-settings =
     .label = Mipangilio…
     .accesskey = p
 
-## Privacy Section - Site Data
-
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
-## Search Section
-
-
-## Privacy Section - Content Blocking
-
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
-
 ## Privacy Section - Permissions
 
 permissions-block-popups =
@@ -389,30 +253,9 @@ permissions-addon-exceptions =
     .label = Mambo ya kipekee…
     .accesskey = M
 
-## Privacy Section - Data Collection
-
-
-## Privacy Section - Website Advertising Preferences
-
-
-## Privacy Section - Security
-##
-## It is important that wording follows the guidelines outlined on this page:
-## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
-
-
 ## Privacy Section - Certificates
 
 certs-header = Vyeti
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 
@@ -420,19 +263,7 @@ desktop-folder-name = Eneo kazi
 downloads-folder-name = Hupakua
 choose-download-folder-title = Chagua Kabrasha ya Kupakua:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

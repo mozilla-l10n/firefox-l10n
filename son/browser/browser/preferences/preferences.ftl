@@ -43,17 +43,6 @@ should-restart-title = { -brand-short-name } tunandi taaga
 should-restart-ok = { -brand-short-name } tunandi taaga sohõ
 restart-later = Tunandi taaga nd'a too kayna
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = Ceeci duurawey
@@ -245,15 +234,6 @@ update-application-use-service =
     .label = Goy bandafaari zaa ka taagarandirey sinji
     .accesskey = b
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Teeyan sahã
@@ -289,20 +269,11 @@ browsing-search-on-start-typing =
 browsing-group =
     .label = Ceeciyan
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-proxy-connection-settings =
     .label = Kayandiyaney…
     .accesskey = a
-
-## Home Section
-
-
-## Home Section - Default Browser
-
 
 ## Custom Homepage subpage
 
@@ -320,21 +291,6 @@ use-current-pages =
 choose-bookmark =
     .label = Doo-šilbay goyandi...
     .accesskey = D
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
-## Home Section - Firefox Home Content Customization
-
-
-## Home Section - Firefox Home Content Customization
-
-
-##
-
 
 ## Search Section
 
@@ -378,9 +334,6 @@ containers-add-button =
 containers-remove-button =
     .label = Kaa
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -410,22 +363,11 @@ sync-profile-picture-with-alt =
 sync-signedin-unverified = { $email } mana korosandi.
 sync-signedin-login-failure = War maa hantum ka ciya koyne { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-sign-in =
     .label = Huru
     .accesskey = H
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -469,12 +411,6 @@ sync-verification-sent-body = Tabatandiyan dobu sanbandi { $email } do.
 sync-verification-not-sent-title = Mana hin ka tabatandiyan sanba
 sync-verification-not-sent-body = Ir mana hin ka tabatandiyan bataga sanba sohõda, wa ceeci koyne waati foo.
 
-## Privacy Section
-
-
-## Privacy Section - Logins and Passwords
-
-
 ## Privacy Panel Settings
 
 forms-exceptions =
@@ -490,15 +426,6 @@ forms-master-pw-change =
     .label = Takaddaɲaa šennikufal barmay
     .accesskey = T
 forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
-
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -539,15 +466,6 @@ history-clear-on-close-settings =
 history-group =
     .label = Taariki
 
-## Privacy Section - Site Data
-
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
@@ -557,22 +475,6 @@ addressbar-locbar-openpage-option =
     .label = Nor lokey feeri
     .accesskey = f
 addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
-
-## Privacy Section - Content Blocking
-
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -585,12 +487,6 @@ permissions-addon-exceptions =
     .accesskey = H
 permissions-notification2 =
     .label = Bangandiyaney
-
-## Privacy Section - Data Collection
-
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##
@@ -616,34 +512,13 @@ certs-enable-ocsp =
     .accesskey = H
 certs-devices-enable-fips = FIPS tunandi
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Goytaabal
 downloads-folder-name = Zumandey
 choose-download-folder-title = Zumandi foolo suuba:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

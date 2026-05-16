@@ -47,17 +47,3 @@ more-from-moz-solo-title-2 = Creatur da websites IA { -solo-ai-brand-name }
 
 more-from-moz-mdn-description = Emprenda il svilup dal web cun agid da documentaziuns e manuals cumplessivs e gratuits.
 more-from-moz-mdn-button = Emprender il svilup dal web
-
-## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
-
-
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
-## Product card strings for the config-based path. Each entry provides both
-## .label (title) and .description for a moz-fieldset inside a moz-card.
-

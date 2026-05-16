@@ -55,13 +55,6 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 
-## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
-
-
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 

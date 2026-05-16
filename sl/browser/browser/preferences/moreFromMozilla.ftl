@@ -65,10 +65,6 @@ more-from-moz-new-products-title = Novi izdelki { -vendor-short-name(sklon: "rod
 more-from-moz-new-products-description = Odkrijte najnovejše izdelke { -vendor-short-name(sklon: "rodilnik") }.
 more-from-moz-new-products-button = Oglejte si nove izdelke
 
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 

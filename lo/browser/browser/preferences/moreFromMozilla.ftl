@@ -27,26 +27,3 @@ more-from-moz-title2 = ເພີ່ມເຕີມຈາກ { -vendor-short-name
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = ປົກປ້ອງກ່ອງຈົດໝາຍ ແລະຕົວຕົນຂອງທ່ານດ້ວຍການໃສ່ໜ້າກາກອີເມວຟຣີ.
 more-from-moz-firefox-relay-button = ເອົາ { -relay-brand-short-name }
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
-
-
-## These strings are for the config-based (SRD) moreFromMozilla page using
-## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
-
-
-## Product card strings for the config-based path. Each entry provides both
-## .label (title) and .description for a moz-fieldset inside a moz-card.
-
