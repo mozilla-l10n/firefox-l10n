@@ -100,6 +100,8 @@ pane-experimental-reset =
     .accesskey = R
 help-button-label2 = { -brand-short-name } ਸਮਰਥਨ
     .title = { -brand-short-name } ਸਮਰਥਨ
+addons-button-label2 = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
+    .title = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
 help-button-label = { -brand-short-name } ਸਮਰਥਨ
 addons-button-label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
 focus-search =
@@ -1747,6 +1749,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
+    .title = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
 preferences-passwords-autofill-header =
     .heading = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
 # These values are displayed for each credit card record listed on the Manage Payment methods
