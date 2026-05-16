@@ -51,6 +51,8 @@ pane-general-title = Genel
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Giriş Sayfası
+pane-search-title2 = Arama
+    .title = Arama
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Arama
@@ -72,16 +74,14 @@ pane-about-firefox-title = { -brand-short-name } Hakkında
     .title = { pane-about-firefox-title }
 pane-appearance-title = Görünüm
     .title = { pane-appearance-title }
-pane-downloads-title = İndirilenler
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Erişilebilirlik
     .title = { pane-accessibility-title }
-pane-languages-title = Diller
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Deneyleri
 category-experimental =
     .tooltiptext = { -brand-short-name } Deneyleri
@@ -98,6 +98,10 @@ pane-experimental-description3 = Deneysel özelliklerimizi deneyin! Bu özellikl
 pane-experimental-reset =
     .label = Varsayılanları geri yükle
     .accesskey = V
+help-button-label2 = { -brand-short-name } Desteği
+    .title = { -brand-short-name } Desteği
+addons-button-label2 = Uzantılar ve Temalar
+    .title = Uzantılar ve Temalar
 help-button-label = { -brand-short-name } Desteği
 addons-button-label = Uzantılar ve Temalar
 focus-search =
@@ -224,8 +228,6 @@ preferences-copy-profile-select = Profil seçin
 preferences-copy-profile-button = Kopyala
 tabs-browsing-section =
     .heading = Sekmeler ve gezinti
-pane-tabs-browsing-title = Sekmeler ve gezinti
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Sekmeler
 tabs-opening-heading =
@@ -1294,7 +1296,6 @@ account-placeholder2 =
     .description = Giriş yaparak verilerinizi gizli ve şifrelenmiş halde tutarken { -brand-short-name } kullandığınız her yerden onlara erişebilirsiniz.
 account-sync-section =
     .heading = Hesap ve eşitleme
-pane-account-sync-title = Hesap ve eşitleme
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1750,9 +1751,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Parolalar ve otomatik doldurma ayarları
-pane-passwords-autofill-title = Parolalar ve otomatik doldurma
 preferences-passwords-autofill-header =
     .heading = Parolalar ve otomatik doldurma
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2230,7 +2228,6 @@ permissions-header3 =
     .description = Sitelerin erişebileceği, yönetebileceği ve tetikleyebileceği şeyleri yönetin.
 permissions-data-section =
     .heading = İzinler ve veriler
-pane-permissions-data-title = İzinler ve veriler
 
 ## Privacy Section - Data Collection
 
@@ -2633,6 +2630,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Vazgeç
 preferences-ai-controls-block-confirmation-confirm =
     .label = Engelle
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
