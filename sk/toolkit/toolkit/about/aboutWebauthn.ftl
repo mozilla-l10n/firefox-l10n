@@ -89,15 +89,15 @@ about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentný kľúč
 about-webauthn-auth-option-plat = Zariadenie platformy
 # pinUvAuthToken should not be translated.
-about-webauthn-auth-option-pinuvauthtoken = Príkazové povolenia (pinUvAuthToken)
+about-webauthn-auth-option-pinuvauthtoken = Príkazové oprávnenia (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
-about-webauthn-auth-option-nomcgapermissionswithclientpin = Žiadne povolenia MakeCredential / GetAssertion s kódom PIN klienta
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Žiadne oprávnenia MakeCredential / GetAssertion s kódom PIN klienta
 about-webauthn-auth-option-largeblobs = Veľké bloby
 about-webauthn-auth-option-ep = Podniková atestácia
 about-webauthn-auth-option-bioenroll = Biometrická registrácia
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometrickej registrácie (FIDO_2_1_PRE)
-about-webauthn-auth-option-uvbioenroll = Povolenie na biometrickú registráciu
+about-webauthn-auth-option-uvbioenroll = Oprávnenie na biometrickú registráciu
 about-webauthn-auth-option-authnrcfg = Konfigurácia autentifikátora
 about-webauthn-auth-option-uvacfg = Nastavenia oprávnení autentifikátora
 about-webauthn-auth-option-credmgmt = Správa prihlasovacích údajov

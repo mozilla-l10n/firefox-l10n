@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Vel ei anna plassering å surfe frå.
 ipprotecion-locations-subview-recommended-label = Tilrådd
 ipprotection-locations-subview-recommended-description = Finn den raskaste plasseringa
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Utilgjengeleg
 ipprotection-locations-subview-promo =
     .heading = Ta vernet vidare med { -mozilla-vpn-brand-name }
     .message = Vel mellom over 300 stadar og vern alle appane dine på opptil 5 einingar.

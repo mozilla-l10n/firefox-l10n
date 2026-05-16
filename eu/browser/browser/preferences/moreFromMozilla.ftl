@@ -69,6 +69,7 @@ more-from-moz-new-products-button = Ikusi produktu berriak
 
 more-from-moz-firefox-mobile-qr-promo =
     .message = Aplikazioa eskuratzeko, eskaneatu zure telefono edo tabletaren kamerarekin. Azaltzen denean, sakatu loturan.
+more-from-moz-firefox-mobile-email-link = Bidali telefonora deskargatzeko lotura posta elektroniko bidez
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.

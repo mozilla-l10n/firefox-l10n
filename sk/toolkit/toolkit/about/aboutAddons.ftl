@@ -150,7 +150,7 @@ addon-category-sitepermission-title =
 # String displayed in about:addons in the Site Permissions section
 # Variables:
 #  $host (string) - DNS host name for which the webextension enables permissions
-addon-sitepermission-host = Povolenia stránky pre { $host }
+addon-sitepermission-host = Oprávnenia stránok pre { $host }
 
 ## These are global warnings
 
@@ -344,7 +344,7 @@ preferences-addon-button =
     }
 details-addon-button = Podrobnosti
 release-notes-addon-button = Poznámky k vydaniu
-permissions-addon-button = Povolenia
+permissions-addon-button = Oprávnenia
 extension-enabled-heading = Povolené rozšírenia
 extension-disabled-heading = Zakázané rozšírenia
 theme-enabled-heading = Aktívna téma vzhľadu
@@ -480,13 +480,13 @@ recent-updates-heading = Naposledy aktualizované
 release-notes-loading = Načítava sa…
 release-notes-error = Pri načítaní poznámok k vydaniu sa vyskytla chyba.
 addon-permissions-heading = Oprávnenia
-addon-permissions-empty2 = Toto rozšírenie nevyžaduje žiadne povolenia.
+addon-permissions-empty2 = Toto rozšírenie nevyžaduje žiadne oprávnenia.
 addon-permissions-required-label = Vyžadované:
 addon-permissions-optional-label = Voliteľné:
-addon-permissions-empty = Toto rozšírenie nevyžaduje žiadne povolenia
-addon-permissions-required = Nevyhnutné povolenia pre splnenie základných funkcií:
-addon-permissions-optional = Voliteľné povolenia pre splnenie prídavných funkcií:
-addon-permissions-learnmore = Ďalšie informácie o povoleniach
+addon-permissions-empty = Toto rozšírenie nevyžaduje žiadne oprávnenia
+addon-permissions-required = Nevyhnutné oprávnenia pre splnenie základných funkcií:
+addon-permissions-optional = Voliteľné oprávnenia pre splnenie prídavných funkcií:
+addon-permissions-learnmore = Ďalšie informácie o oprávneniach
 recommended-extensions-heading = Odporúčané rozšírenia
 recommended-themes-heading = Odporúčané témy vzhľadu
 # Variables:
@@ -581,7 +581,7 @@ plugins-widevine-description = Tento zásuvný modul umožňuje prehrávanie ši
 addon-permissions-required-data-collection = Požadovaný zber údajov:
 addon-permissions-optional-data-collection = Voliteľný zber údajov:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
-permissions-data-addon-button = Povolenia a údaje
+permissions-data-addon-button = Oprávnenia a údaje
 # This is a description for extension that use this AI model
 # Variables:
 #   $extensionName (String) - Name of the extension
