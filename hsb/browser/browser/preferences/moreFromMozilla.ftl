@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-kod za sćehnjenje mobilneho telefona { -brand-product-name }
 more-from-moz-button-mozilla-vpn-2 = VPN wobstarać
 more-from-moz-learn-more-link = Dalše informacije
+more-from-moz-title2 = Wjace wot { -vendor-short-name }
+    .title = Wjace wot { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
