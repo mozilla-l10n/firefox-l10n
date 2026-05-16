@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Folgjende
 ipprotection-feature-introduction-button-secondary-not-now = No net
 ipprotection-feature-introduction-button-secondary-no-thanks = Nee, tankewol
 ipprotection-feature-introduction-button-secondary-remove = VPN fan arkbalke fuortsmite
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = VPN fan arkbalke fuortsmite
 
 ## Site settings callout
 
