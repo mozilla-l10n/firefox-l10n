@@ -1065,6 +1065,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Izberite si ozadje
 home-prefs-choose-wallpaper-link2 =
     .label = Izberite si ozadje
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Razširitev ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1580,6 +1585,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2461,6 +2469,9 @@ preferences-connection-link-button =
 desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
+
+## Appearance page
+
 
 ## AI controls page
 
