@@ -1089,7 +1089,7 @@ search-bar-hidden =
     .label = Za iskanje in brskanje uporabi naslovno vrstico
 search-bar-shown =
     .label = Dodaj iskalno vrstico v orodno vrstico
-search-engine-default-header = Privzet iskalnik
+search-engine-default-header = Privzeti iskalnik
 search-engine-default-desc-2 = To je vaš privzeti iskalnik v naslovni vrstici in iskalni vrstici. Kadarkoli ga lahko zamenjate.
 search-engine-default-private-desc-2 = Izberite drug privzet iskalnik posebej za zasebna okna
 search-separate-default-engine =
@@ -1202,9 +1202,9 @@ remove-engine-confirmation = Ali ste prepričani, da želite odstraniti ta iskal
 remove-engine-remove = Odstrani
 remove-addon-engine-alert = Za odstranitev tega iskalnika odstranite z njim povezan dodatek.
 search-engine-group =
-    .label = Privzet iskalnik
+    .label = Privzeti iskalnik
 search-default-engine =
-    .aria-label = Privzet iskalnik
+    .aria-label = Privzeti iskalnik
 # Header for the search section ("search" is a noun).
 search-section =
     .heading = Iskanje
@@ -1238,6 +1238,7 @@ account-placeholder2 =
     .description = Prijavite se in si uredite zaseben, zavarovan in enostaven dostop do svojih podatkov povsod, kjer uporabljate { -brand-short-name(sklon: "tozilnik") }
 account-sync-section =
     .heading = Račun in sinhronizacija
+pane-account-sync-title = Račun in sinhronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
