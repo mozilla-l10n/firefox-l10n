@@ -24,9 +24,17 @@ pane-privacy-section =
 pane-privacy-title = गोपनीयता आणि सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+help-button-label2 = { -brand-short-name } मदत केंद्र
+    .title = { -brand-short-name } मदत केंद्र
 help-button-label = { -brand-short-name } मदत केंद्र
 addons-button-label = विस्तार आणि थीम
 focus-search =
@@ -307,6 +315,15 @@ update-in-progress-ok-button = रद्द करा
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = पुढे चला
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = कार्यक्षमता
@@ -358,6 +375,9 @@ browsing-cfr-recommendations-learn-more = अधिक जाणा
 browsing-group =
     .label = ब्राउजिंग
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = नेटवर्क सेटिंग
@@ -407,6 +427,12 @@ use-current-pages =
 choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -506,6 +532,9 @@ containers-add-button =
 containers-remove-button =
     .label = काढून टाका
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -545,6 +574,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } चाचणी झाली नाही.
 sync-signedin-login-failure = पुन्हा जोडणीकरिता कृपया साइन करा { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -688,6 +722,15 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -764,6 +807,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = कुकीज आणि साईट डेटा
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -917,6 +966,9 @@ collection-health-report-disabled = माहिती अहवाल देण
 data-collection-studies-link =
     .label = { -brand-short-name } studies पहा
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -949,8 +1001,34 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाउनलोड
 choose-download-folder-title = डाउनलोड संचयिका(फोल्डर) निवडा:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
