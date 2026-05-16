@@ -87,4 +87,3 @@ fxviewtabrow-send-to-mobile-device-missing2 = Non vedi il tuo dispositivo?
 
 fxviewtabrow-send-to-mobile-sign-in = Accedi per inviare schede
 fxviewtabrow-send-to-mobile-turn-on-sync = Attiva la sincronizzazione per inviare schede
-
