@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = הבא
 ipprotection-feature-introduction-button-secondary-not-now = לא כעת
 ipprotection-feature-introduction-button-secondary-no-thanks = לא תודה
 ipprotection-feature-introduction-button-secondary-remove = הסרת VPN מסרגל הכלים
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = הסרת VPN מסרגל הכלים
 
 ## Site settings callout
 
