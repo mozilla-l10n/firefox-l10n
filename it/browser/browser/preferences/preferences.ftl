@@ -51,6 +51,8 @@ pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagina iniziale
+pane-search-title2 = Ricerca
+    .title = Ricerca
 pane-privacy-title3 = Privacy e sicurezza
     .title = Privacy e sicurezza
 category-home =
@@ -65,6 +67,8 @@ pane-privacy-title = Privacy e sicurezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronizzazione
+pane-ai-controls-title2 = Controlli IA
+    .title = Controlli IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Controlli IA
@@ -74,10 +78,14 @@ pane-about-firefox-title = Informazioni su { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aspetto
     .title = { pane-appearance-title }
+pane-downloads-title2 = Download
+    .title = Download
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibilità
     .title = { pane-accessibility-title }
+pane-languages-title2 = Lingue
+    .title = Lingue
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +236,8 @@ preferences-copy-profile-select = Seleziona profilo
 preferences-copy-profile-button = Copia
 tabs-browsing-section =
     .heading = Schede e navigazione
+pane-tabs-browsing-title2 = Schede e navigazione
+    .title = Schede e navigazione
 tabs-group-header2 =
     .label = Schede
 tabs-opening-heading =
@@ -1296,6 +1306,8 @@ account-placeholder2 =
     .description = Accedi e mantieni i tuoi dati privati, protetti da crittografia e sempre disponibili ovunque utilizzi { -brand-short-name }.
 account-sync-section =
     .heading = Account e sincronizzazione
+pane-account-sync-title2 = Account e sincronizzazione
+    .title = Account e sincronizzazione
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1763,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Password e compilazione automatica
+    .title = Password e compilazione automatica
 preferences-passwords-autofill-header =
     .heading = Password e compilazione automatica
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2242,8 @@ permissions-header3 =
     .description = Gestisci a cosa possono accedere, cosa possono controllare o attivare i siti web.
 permissions-data-section =
     .heading = Permessi e dati
+pane-permissions-data-title2 = Permessi e dati
+    .title = Permessi e dati
 
 ## Privacy Section - Data Collection
 
