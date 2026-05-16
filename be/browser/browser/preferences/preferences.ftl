@@ -65,6 +65,8 @@ pane-privacy-title = Прыватнасць і бяспека
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Сінхранізацыя
+pane-ai-controls-title2 = Кіраванне штучным інтэлектам
+    .title = Кіраванне штучным інтэлектам
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Кіраванне штучным інтэлектам
@@ -74,10 +76,14 @@ pane-about-firefox-title = Пра { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Выгляд
     .title = { pane-appearance-title }
+pane-downloads-title2 = Сцягванні
+    .title = Сцягванні
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Даступнасць
     .title = { pane-accessibility-title }
+pane-languages-title2 = Мовы
+    .title = Мовы
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Выбар профілю
 preferences-copy-profile-button = Капіяваць
 tabs-browsing-section =
     .heading = Карткі і агляданне
+pane-tabs-browsing-title2 = Карткі і агляданне
+    .title = Карткі і агляданне
 tabs-group-header2 =
     .label = Карткі
 tabs-opening-heading =
@@ -1300,6 +1308,8 @@ account-placeholder2 =
     .description = Увайдзіце і трымайце свае звесткі прыватнымі, зашыфраванымі і імгненна даступнымі ўсюды, дзе вы карыстаецеся { -brand-short-name }.
 account-sync-section =
     .heading = Уліковы запіс і сінхранізацыя
+pane-account-sync-title2 = Уліковы запіс і сінхранізацыя
+    .title = Уліковы запіс і сінхранізацыя
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2234,6 +2244,8 @@ permissions-header3 =
     .description = Кіруйце тым, куды сайты могуць мець доступ, што кантраляваць або запускаць.
 permissions-data-section =
     .heading = Дазволы і дадзеныя
+pane-permissions-data-title2 = Дазволы і дадзеныя
+    .title = Дазволы і дадзеныя
 
 ## Privacy Section - Data Collection
 
