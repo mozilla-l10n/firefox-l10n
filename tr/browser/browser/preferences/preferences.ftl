@@ -53,6 +53,8 @@ category-general =
 pane-home-title = Giriş Sayfası
 pane-search-title2 = Arama
     .title = Arama
+pane-privacy-title3 = Gizlilik ve güvenlik
+    .title = Gizlilik ve güvenlik
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Arama
@@ -65,6 +67,8 @@ pane-privacy-title = Gizlilik ve Güvenlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Eşitleme
+pane-ai-controls-title2 = Yapay Zekâ Kontrolleri
+    .title = Yapay Zekâ Kontrolleri
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Yapay Zekâ Kontrolleri
@@ -74,10 +78,14 @@ pane-about-firefox-title = { -brand-short-name } Hakkında
     .title = { pane-about-firefox-title }
 pane-appearance-title = Görünüm
     .title = { pane-appearance-title }
+pane-downloads-title2 = İndirilenler
+    .title = İndirilenler
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Erişilebilirlik
     .title = { pane-accessibility-title }
+pane-languages-title2 = Diller
+    .title = Diller
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +236,8 @@ preferences-copy-profile-select = Profil seçin
 preferences-copy-profile-button = Kopyala
 tabs-browsing-section =
     .heading = Sekmeler ve gezinti
+pane-tabs-browsing-title2 = Sekmeler ve gezinti
+    .title = Sekmeler ve gezinti
 tabs-group-header2 =
     .label = Sekmeler
 tabs-opening-heading =
@@ -1296,6 +1306,8 @@ account-placeholder2 =
     .description = Giriş yaparak verilerinizi gizli ve şifrelenmiş halde tutarken { -brand-short-name } kullandığınız her yerden onlara erişebilirsiniz.
 account-sync-section =
     .heading = Hesap ve eşitleme
+pane-account-sync-title2 = Hesap ve eşitleme
+    .title = Hesap ve eşitleme
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1763,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Parolalar ve otomatik doldurma
+    .title = Parolalar ve otomatik doldurma
 preferences-passwords-autofill-header =
     .heading = Parolalar ve otomatik doldurma
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2242,8 @@ permissions-header3 =
     .description = Sitelerin erişebileceği, yönetebileceği ve tetikleyebileceği şeyleri yönetin.
 permissions-data-section =
     .heading = İzinler ve veriler
+pane-permissions-data-title2 = İzinler ve veriler
+    .title = İzinler ve veriler
 
 ## Privacy Section - Data Collection
 
