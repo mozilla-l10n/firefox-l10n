@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Zapnúť zvuk na tejto karte
 fxviewtabrow-send-to-mobile-enable-sync2 = Povoliť synchronizáciu a odoslanie karty
 fxviewtabrow-send-to-mobile-connect-phone2 = Pripojiť telefón
+fxviewtabrow-send-to-mobile-connect-device = Pripojiť zariadenie a odoslať karty
 fxviewtabrow-send-to-mobile-device-missing2 = Nevidíte svoje zariadenie?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Prihlásiť sa a odoslať karty
+fxviewtabrow-send-to-mobile-turn-on-sync = Zapnúť synchronizáciu a odoslať karty

@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Prihlásiť sa a odoslať karty…
 main-context-menu-send-to-mobile-enable-sync2 = Povoliť synchronizáciu a odoslanie karty
 main-context-menu-send-to-mobile-connect-phone2 = Pripojiť telefón
 main-context-menu-send-to-mobile-device-missing2 = Nevidíte svoje zariadenie?
+main-context-menu-send-to-mobile-sign-in-from-link = Prihlásiť sa a odoslať odkaz
+main-context-menu-send-to-mobile-sign-in-from-page = Prihlásiť sa a odoslať stránku
+main-context-menu-send-to-mobile-enable-sync3 = Zapnúť synchronizáciu a odoslať karty
+main-context-menu-send-to-mobile-enable-sync-from-link = Zapnúť synchronizáciu a odoslať odkaz
+main-context-menu-send-to-mobile-enable-sync-from-page = Zapnúť synchronizáciu a odoslať stránku
+main-context-menu-send-to-mobile-connect-phone3 = Pripojiť zariadenie a odoslať karty
+main-context-menu-send-to-mobile-connect-phone-from-link = Pripojiť zariadenie a odoslať odkaz
+main-context-menu-send-to-mobile-connect-phone-from-page = Pripojiť zariadenie a odoslať stránku
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Povoliť synchronizáciu a odoslanie karty
