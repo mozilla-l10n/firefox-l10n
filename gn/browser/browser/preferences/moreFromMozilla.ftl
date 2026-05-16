@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR ayvu pumbyrygua emboguejy { -brand-product-name } ndive
 more-from-moz-button-mozilla-vpn-2 = Ereko VPN
 more-from-moz-learn-more-link = Kuaave
+more-from-moz-title2 = Hetave { -vendor-short-name }-gui
+    .title = Hetave { -vendor-short-name }-gui
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
