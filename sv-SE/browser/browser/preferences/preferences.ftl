@@ -65,6 +65,8 @@ pane-privacy-title = Sekretess & säkerhet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synkronisering
+pane-ai-controls-title2 = AI-kontroller
+    .title = AI-kontroller
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI-kontroller
@@ -74,10 +76,14 @@ pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Utseende
     .title = { pane-appearance-title }
+pane-downloads-title2 = Filhämtningar
+    .title = Filhämtningar
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Tillgänglighet
     .title = { pane-accessibility-title }
+pane-languages-title2 = Språk
+    .title = Språk
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Välj profil
 preferences-copy-profile-button = Kopiera
 tabs-browsing-section =
     .heading = Flikar och surfning
+pane-tabs-browsing-title2 = Flikar och surfning
+    .title = Flikar och surfning
 tabs-group-header2 =
     .label = Flikar
 tabs-opening-heading =
@@ -1296,6 +1304,8 @@ account-placeholder2 =
     .description = Logga in och håll dina data privata, krypterade och direkt tillgängliga överallt där du använder { -brand-short-name }.
 account-sync-section =
     .heading = Konto och synkronisering
+pane-account-sync-title2 = Konto och synkronisering
+    .title = Konto och synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1761,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Lösenord och autofyll
+    .title = Lösenord och autofyll
 preferences-passwords-autofill-header =
     .heading = Lösenord och autofyll
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2240,8 @@ permissions-header3 =
     .description = Hantera vad webbplatser kan komma åt, styra eller utlösa.
 permissions-data-section =
     .heading = Behörigheter och data
+pane-permissions-data-title2 = Behörigheter och data
+    .title = Behörigheter och data
 
 ## Privacy Section - Data Collection
 
