@@ -51,6 +51,8 @@ pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Startpagina
+pane-search-title2 = Zoeken
+    .title = Zoeken
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Zoeken
@@ -72,16 +74,14 @@ pane-about-firefox-title = Over { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vormgeving
     .title = { pane-appearance-title }
-pane-downloads-title = Downloads
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Toegankelijkheid
     .title = { pane-accessibility-title }
-pane-languages-title = Talen
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-experimenten
 category-experimental =
     .tooltiptext = { -brand-short-name }-experimenten
@@ -98,6 +98,8 @@ pane-experimental-description3 = Probeer onze experimentele functies! Ze zijn in
 pane-experimental-reset =
     .label = Standaardwaarden herstellen
     .accesskey = h
+addons-button-label2 = Extensies & Thema’s
+    .title = Extensies & Thema’s
 help-button-label = { -brand-short-name } Support
 addons-button-label = Extensies & Thema’s
 focus-search =
@@ -224,8 +226,6 @@ preferences-copy-profile-select = Profiel selecteren
 preferences-copy-profile-button = Kopiëren
 tabs-browsing-section =
     .heading = Tabbladen en navigeren
-pane-tabs-browsing-title = Tabbladen en navigeren
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabbladen
 tabs-opening-heading =
@@ -1294,7 +1294,6 @@ account-placeholder2 =
     .description = Meld u aan en houd uw gegevens privé, versleuteld en direct toegankelijk, overal waar u { -brand-short-name } gebruikt.
 account-sync-section =
     .heading = Account en synchronisatie
-pane-account-sync-title = Account en synchronisatie
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1750,9 +1749,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Instellingen voor wachtwoorden en automatisch invullen
-pane-passwords-autofill-title = Wachtwoorden en automatisch invullen
 preferences-passwords-autofill-header =
     .heading = Wachtwoorden en automatisch invullen
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2230,7 +2226,6 @@ permissions-header3 =
     .description = Beheren welke websites kunnen benaderen, aansturen of starten.
 permissions-data-section =
     .heading = Toestemmingen en gegevens
-pane-permissions-data-title = Toestemmingen en gegevens
 
 ## Privacy Section - Data Collection
 
@@ -2633,6 +2628,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annuleren
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokkeren
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
