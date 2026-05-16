@@ -65,6 +65,8 @@ pane-privacy-title = Adatvédelem és biztonság
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Szinkronizálás
+pane-ai-controls-title2 = MI vezérlők
+    .title = MI vezérlők
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = MI vezérlők
@@ -74,10 +76,14 @@ pane-about-firefox-title = A { -brand-short-name } névjegye
     .title = { pane-about-firefox-title }
 pane-appearance-title = Megjelenés
     .title = { pane-appearance-title }
+pane-downloads-title2 = Letöltések
+    .title = Letöltések
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Akadálymentesítés
     .title = { pane-accessibility-title }
+pane-languages-title2 = Nyelvek
+    .title = Nyelvek
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Profil kiválasztása
 preferences-copy-profile-button = Másolás
 tabs-browsing-section =
     .heading = Lapok és böngészés
+pane-tabs-browsing-title2 = Lapok és böngészés
+    .title = Lapok és böngészés
 tabs-group-header2 =
     .label = Lapok
 tabs-opening-heading =
@@ -1294,6 +1302,8 @@ account-placeholder2 =
     .description = Jelentkezzen be és tartsa biztonságban, titkosítva az adatait, és érje el mindenhol, ahol a { -brand-short-name }ot használja.
 account-sync-section =
     .heading = Fiók és szinkronizálás
+pane-account-sync-title2 = Fiók és szinkronizálás
+    .title = Fiók és szinkronizálás
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2228,6 +2238,8 @@ permissions-header3 =
     .description = Felügyelje, hogy a webhelyek mihez férjenek hozzá, mit irányíthassanak és mit válthassanak ki.
 permissions-data-section =
     .heading = Engedélyek és adatok
+pane-permissions-data-title2 = Engedélyek és adatok
+    .title = Engedélyek és adatok
 
 ## Privacy Section - Data Collection
 
