@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Lyd på i fane
 fxviewtabrow-send-to-mobile-enable-sync2 = Aktiver synkronisering for å sende en fane
 fxviewtabrow-send-to-mobile-connect-phone2 = Koble til telefonen din
+fxviewtabrow-send-to-mobile-connect-device = Koble til en enhet for å sende faner
 fxviewtabrow-send-to-mobile-device-missing2 = Ser du ikke enheten din?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Logg inn for å sende faner
+fxviewtabrow-send-to-mobile-turn-on-sync = Slå på synkronisering for å sende faner

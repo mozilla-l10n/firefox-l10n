@@ -305,6 +305,12 @@ main-context-menu-send-to-mobile-connect-phone2 = Koble til telefonen din
 main-context-menu-send-to-mobile-device-missing2 = Ser du ikke enheten din?
 main-context-menu-send-to-mobile-sign-in-from-link = Logg inn for å sende en lenke
 main-context-menu-send-to-mobile-sign-in-from-page = Logg inn for å sende en side
+main-context-menu-send-to-mobile-enable-sync3 = Slå på synkronisering for å sende faner
+main-context-menu-send-to-mobile-enable-sync-from-link = Slå på synkronisering for å sende en lenke
+main-context-menu-send-to-mobile-enable-sync-from-page = Slå på synkronisering for å sende en side
+main-context-menu-send-to-mobile-connect-phone3 = Koble til en enhet for å sende faner
+main-context-menu-send-to-mobile-connect-phone-from-link = Koble til en enhet for å sende en lenke
+main-context-menu-send-to-mobile-connect-phone-from-page = Koble til en enhet for å sende en side
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Aktiver synkronisering for å sende en fane

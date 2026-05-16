@@ -848,6 +848,9 @@ newtab-sports-widget-view-schedule =
     .label = Prikaži razpored
 newtab-sports-widget-choose-wallpaper =
     .label = Izberite si ozadje
+newtab-sports-widget-cancel = Prekliči
+newtab-sports-widget-back-button =
+    .aria-label = Nazaj
 newtab-sports-widget-cancelled = Odpovedano
 newtab-sports-widget-information = Podatki o tekmi
 newtab-sports-widget-view-results-link = Prikaži izide
@@ -877,3 +880,7 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ta prostor igra po vaših pravilih
+
+## Strings for the Clock widget
+
+newtab-clock-widget-menu-learn-more = Več o tem
