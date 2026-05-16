@@ -4,6 +4,8 @@
 
 do-not-track-learn-more = Ootzi ka'te
 pane-home-title = Ixe´te'ba'l
+pane-search-title2 = Chuka
+    .title = Chuka
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Chuka
