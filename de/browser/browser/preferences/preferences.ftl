@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Startseite
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Startseite
 pane-search-title = Suche
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = Über { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Erscheinungsbild
     .title = { pane-appearance-title }
-pane-downloads-title = Downloads
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Barrierefreiheit
     .title = { pane-accessibility-title }
-pane-languages-title = Sprachen
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-Experimente
 category-experimental =
     .tooltiptext = { -brand-short-name }-Experimente
@@ -225,8 +222,6 @@ preferences-copy-profile-select = Profil auswählen
 preferences-copy-profile-button = Kopieren
 tabs-browsing-section =
     .heading = Tabs und Surfen
-pane-tabs-browsing-title = Tabs und Surfen
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabs
 tabs-opening-heading =
@@ -1295,7 +1290,6 @@ account-placeholder2 =
     .description = Melden Sie sich an und sorgen Sie dafür, dass Ihre Daten privat, verschlüsselt und überall, wo Sie { -brand-short-name } nutzen, sofort verfügbar sind.
 account-sync-section =
     .heading = Konto und Synchronisierung
-pane-account-sync-title = Konto und Synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1745,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Einstellungen für Passwörter und Autovervollständigung
-pane-passwords-autofill-title = Passwörter und Autovervollständigung
 preferences-passwords-autofill-header =
     .heading = Passwörter und Autovervollständigung
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2222,6 @@ permissions-header3 =
     .description = Verwalten Sie, auf was Websites zugreifen können, was kontrolliert oder ausgelöst werden kann.
 permissions-data-section =
     .heading = Berechtigungen und Daten
-pane-permissions-data-title = Berechtigungen und Daten
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2626,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Abbrechen
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blockieren
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
