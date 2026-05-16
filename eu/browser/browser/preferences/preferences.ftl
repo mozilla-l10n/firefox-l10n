@@ -1290,6 +1290,8 @@ account-placeholder2 =
     .description = Hasi saioa eta mantendu zure datuak pribatu, zifratuta eta berehala erabilgarri { -brand-short-name } darabilzun edozein lekutan.
 account-sync-section =
     .heading = Kontua eta sinkronizazioa
+pane-account-sync-title2 = Kontua eta sinkronizazioa
+    .title = Kontua eta sinkronizazioa
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
