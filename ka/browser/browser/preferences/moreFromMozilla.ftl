@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე
 more-from-moz-button-mozilla-vpn-2 = გამოიყენეთ VPN
 more-from-moz-learn-more-link = ვრცლად
+more-from-moz-title2 = მეტი { -vendor-short-name }-სგან
+    .title = მეტი { -vendor-short-name }-სგან
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

@@ -98,6 +98,8 @@ pane-experimental-description3 = მოსინჯეთ ჩვენი სა
 pane-experimental-reset =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = უ
+help-button-label2 = { -brand-short-name } დახმარება
+    .title = { -brand-short-name } დახმარება
 addons-button-label2 = გაფართოებები და თემები
     .title = გაფართოებები და თემები
 help-button-label = { -brand-short-name } დახმარება
@@ -2224,6 +2226,8 @@ permissions-header3 =
     .description = განკარგეთ, საიტებს რისი წვდომა, მართვა ან ამოქმედება შეეძლება.
 permissions-data-section =
     .heading = ნებართვები და მონაცემები
+pane-permissions-data-title2 = ნებართვები და მონაცემები
+    .title = ნებართვები და მონაცემები
 
 ## Privacy Section - Data Collection
 
