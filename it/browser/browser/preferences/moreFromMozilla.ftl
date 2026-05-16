@@ -92,9 +92,6 @@ more-from-moz-thunderbird-card =
 more-from-moz-solo-card-1 =
     .label = { -solo-ai-brand-name }
     .description = Crea subito il tuo sito web e connetti gratuitamente il tuo dominio personalizzato.
-more-from-moz-new-products-card =
-    .label = Nuovi prodotti { -vendor-short-name }
-    .description = Esplora i prodotti { -vendor-short-name } più recenti.
 more-from-moz-mozilla-monitor-box-link =
     .label = Ottieni { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
@@ -109,4 +106,3 @@ more-from-moz-solo-box-link =
     .label = Prova { -solo-ai-brand-name }
 more-from-moz-new-products-box-link =
     .label = Scopri i nuovi prodotti
-
