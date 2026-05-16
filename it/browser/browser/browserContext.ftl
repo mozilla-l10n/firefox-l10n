@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Accedi per inviare schede
 main-context-menu-send-to-mobile-enable-sync2 = Attiva la sincronizzazione per inviare una scheda
 main-context-menu-send-to-mobile-connect-phone2 = Connetti il tuo telefono
 main-context-menu-send-to-mobile-device-missing2 = Non vedi il tuo dispositivo?
+main-context-menu-send-to-mobile-sign-in-from-link = Accedi per inviare un link
+main-context-menu-send-to-mobile-sign-in-from-page = Accedi per inviare una pagina
+main-context-menu-send-to-mobile-enable-sync3 = Attiva la sincronizzazione per inviare schede
+main-context-menu-send-to-mobile-enable-sync-from-link = Attiva la sincronizzazione per inviare un link
+main-context-menu-send-to-mobile-enable-sync-from-page = Attiva la sincronizzazione per inviare una pagina
+main-context-menu-send-to-mobile-connect-phone3 = Connetti un dispositivo per inviare schede
+main-context-menu-send-to-mobile-connect-phone-from-link = Connetti un dispositivo per inviare un link
+main-context-menu-send-to-mobile-connect-phone-from-page = Connetti un dispositivo per inviare una pagina
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Attiva la sincronizzazione per inviare una scheda

@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Attiva audio nella scheda
 fxviewtabrow-send-to-mobile-enable-sync2 = Attiva la sincronizzazione per inviare una scheda
 fxviewtabrow-send-to-mobile-connect-phone2 = Connetti il tuo telefono
+fxviewtabrow-send-to-mobile-connect-device = Connetti un dispositivo per inviare schede
 fxviewtabrow-send-to-mobile-device-missing2 = Non vedi il tuo dispositivo?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Accedi per inviare schede
+fxviewtabrow-send-to-mobile-turn-on-sync = Attiva la sincronizzazione per inviare schede
