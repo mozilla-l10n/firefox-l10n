@@ -13,6 +13,8 @@ more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-button = പകരം താങ്ങളുടെ ഫോണിലേക്കു് ഒരു ഇ-തപാൽ അയക്കുക
 more-from-moz-button-mozilla-vpn-2 = വി.പി.എൻ നേടുക
 more-from-moz-learn-more-link = കൂടുതല്‍ അറിയുക
+more-from-moz-title2 = { -vendor-short-name } എന്നതിൽ നിന്നു് കൂടുതൽ
+    .title = { -vendor-short-name } എന്നതിൽ നിന്നു് കൂടുതൽ
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -24,3 +26,23 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } നേടുക
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } നേടുക
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
