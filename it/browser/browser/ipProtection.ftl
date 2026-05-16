@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Successivo
 ipprotection-feature-introduction-button-secondary-not-now = Non adesso
 ipprotection-feature-introduction-button-secondary-no-thanks = No grazie
 ipprotection-feature-introduction-button-secondary-remove = Rimuovi VPN dalla barra degli strumenti
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Rimuovi VPN dalla barra degli strumenti
 
 ## Site settings callout
 
@@ -285,4 +287,3 @@ vpn-paused-alert-close-tabs-button = Chiudi tutte le schede
 vpn-paused-alert-continue-wo-vpn-button = Continua senza VPN
 vpn-error-alert-title = La VPN non è in funzione al momento.
 vpn-error-alert-body = Riprova più tardi.
-
