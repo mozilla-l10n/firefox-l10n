@@ -2205,6 +2205,8 @@ permissions-header3 =
     .description = أدِر ما يمكن للمواقع الإلكترونية الوصول إليه أو التحكم فيه أو تفعيله.
 permissions-data-section =
     .heading = الأذونات والبيانات
+pane-permissions-data-title2 = الأذونات والبيانات
+    .title = الأذونات والبيانات
 
 ## Privacy Section - Data Collection
 
