@@ -45,6 +45,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Zmóžniśo synchronizaciju, aby rejtarik pósłał
 fxa-menu-send-to-mobile-connect-phone2 = Zwěžćo swój telefon
 fxa-menu-send-to-mobile-device-missing2 = Njewiźiśo swój rěd?
+fxa-menu-send-to-mobile-turn-on-sync = Zmóžniśo synchronizaciju, aby rejtariki pósłał
+fxa-menu-send-to-mobile-connect-device = Zwěžćo rěd, aby rejtariki pósłał
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -75,6 +77,10 @@ sync-setup-verify-heading = Cośo se napšawdu w sync registrěrowaś?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Drugi wužywaŕ jo se do togo na toś tom licadle w sync zregistrěrował. Registrěrowanje buźo cytańske znamjenja, gronidła a druge nastajenja wobglědowaka z { $email } zjadnośowaś
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Pśizjawśo se, aby rejtariki pósłał
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

@@ -304,6 +304,13 @@ main-context-menu-send-to-mobile-enable-sync2 = Zmóžniśo synchronizaciju, aby
 main-context-menu-send-to-mobile-connect-phone2 = Zwěžćo swój telefon
 main-context-menu-send-to-mobile-device-missing2 = Njewiźiśo swój rěd?
 main-context-menu-send-to-mobile-sign-in-from-link = Pśizjawśo se, aby wótkaz pósłał
+main-context-menu-send-to-mobile-sign-in-from-page = Pśizjawśo se, aby bok pósłał
+main-context-menu-send-to-mobile-enable-sync3 = Zmóžniśo synchronizaciju, aby rejtariki pósłał
+main-context-menu-send-to-mobile-enable-sync-from-link = Zmóžniśo synchronizaciju, aby wótkaz pósłał
+main-context-menu-send-to-mobile-enable-sync-from-page = Zmóžniśo synchronizaciju, aby bok pósłał
+main-context-menu-send-to-mobile-connect-phone3 = Zwěžćo rěd, aby rejtariki pósłał
+main-context-menu-send-to-mobile-connect-phone-from-link = Zwěžćo rěd, aby wótkaz pósłał
+main-context-menu-send-to-mobile-connect-phone-from-page = Zwěžćo rěd, aby bok pósłał
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Zmóžniśo synchronizaciju, aby rejtarik pósłał

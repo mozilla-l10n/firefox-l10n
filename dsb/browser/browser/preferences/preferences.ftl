@@ -51,6 +51,8 @@ pane-general-title = Powšykne
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Startowy bok
+pane-home-startup-title2 = Startowy bok a start
+    .title = Startowy bok a start
 pane-search-title2 = Pytaś
     .title = Pytaś
 pane-privacy-title3 = Priwatnosć a wěstota
@@ -2595,6 +2597,8 @@ related-settings-accessibility-link =
     .label = Pśiměŕśo měritko a pismowe nastajenja we wótrězku Bźezbariernosć
 related-settings-home-link =
     .label = { -firefox-home-brand-name } pśiměriś
+related-settings-tabs-browsing-link =
+    .label = Wugótowanje wobglědowaka pśiměriś
 
 ## AI controls page
 

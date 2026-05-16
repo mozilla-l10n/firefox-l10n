@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Wubjeŕśo druge stojnišćo, z kótaregož pśeglědujośo.
 ipprotecion-locations-subview-recommended-label = Dopórucony
 ipprotection-locations-subview-recommended-description = Namakajo nejmalsnjejše stojnišćo
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Njestoj k dispoziciji
 ipprotection-locations-subview-promo =
     .heading = Pówušćo šćit z { -mozilla-vpn-brand-name }
     .message = Wubjeŕśo z wěcej ako 300 stojnišćow a šćitajśo wšykne swóje nałoženja na do 5 rědach.

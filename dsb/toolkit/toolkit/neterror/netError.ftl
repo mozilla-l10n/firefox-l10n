@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } njamóžo wěsty zwisk z serwerom na { $hostname } nawězaś.
 fp-neterror-offline-intro = { -brand-short-name } njamóžo ze serwerom <strong>{ $hostname }</strong> zwězaś
+fp-neterror-offline-intro-2 = { -brand-short-name } njamóžo ze serwerom <strong>{ $hostname }</strong> zwězaś.
 fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }{ $hostname }</strong> pśedłujko trjeba, aby wótgronił.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
