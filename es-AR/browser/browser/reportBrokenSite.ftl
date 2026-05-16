@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Informar sitio roto
 report-broken-site-panel-intro-text = Su informe nos ayuda a comprender y solucionar problemas en { -brand-product-name } para que sea mejor para todos.
 report-broken-site-panel-learn-more-link = Conocer más
+report-broken-site-panel-reason-intro-text = ¿Qué es lo que no funciona?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = El sitio no carga
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = El sitio pidió desactivar el bloqueador de publicidad
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = El navegador no es compatible o está bloqueado
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = El sitio es engañoso
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Otra cosa
+report-broken-site-panel-instructions-other = Describa el problema en detalle para ayudarnos a investigarlo.
+report-broken-site-panel-instructions-other-optional = Describa el problema en detalle para ayudarnos a investigarlo. (opcional)
+report-broken-site-panel-description2 =
+    .placeholder = ¿Qué pasó? ¿Qué esperaba que pasara? Proporcione los pasos para reproducir el problema.
 report-broken-site-panel-send-more-info-button =
     .label = Enviar más información
 report-broken-site-panel-intro = Ayude a que { -brand-product-name } sea mejor para todos. { -vendor-short-name } usa la información enviada para solucionar problemas del sitio web.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Cancelar
 report-broken-site-panel-button-okay =
     .label = Aceptar
+report-broken-site-panel-button-send-report =
+    .label = Enviar informe
 report-broken-site-panel-button-send =
     .label = Enviar
 report-broken-site-panel-report-sent-label = El informe ha sido enviado
@@ -71,6 +80,18 @@ report-broken-site-panel-report-sent-header =
     .title = El informe ha sido enviado
 report-broken-site-panel-report-sent-text = Gracias por ayudar a { -brand-product-name } a hacer que la web sea más abierta, accesible y mejor para todos.
 report-broken-site-panel-invalid-url-label = Ingrese una URL válida
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Ingrese al menos { $minLength } caracter
+       *[other] Ingrese al menos { $minLength } caracteres
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Enviar captura de pantalla
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Enviar lista de ítems bloqueados por protección de rastreo
+report-broken-site-panel-url-input-label =
+    .aria-label = URL de la página informada
 report-broken-site-panel-missing-reason-label = Seleccione un motivo
 report-broken-site-panel-blocked-trackers-label =
     .label = Enviar URLs bloqueadas por la protección de rastreo

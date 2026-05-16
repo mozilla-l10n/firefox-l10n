@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Inicio
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Página de inicio y arranque
 pane-search-title = Búsquedas
 category-search =
     .tooltiptext = { pane-search-title }
