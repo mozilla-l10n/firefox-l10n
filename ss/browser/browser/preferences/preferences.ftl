@@ -9,6 +9,12 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -76,7 +82,13 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
+
+
+## About Firefox
+
+
+## Firefox updates
 
 
 ## Firefox support
@@ -85,7 +97,7 @@ applications-use-other-label =
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Tfunguluta
 browsing-use-smooth-scrolling =
@@ -93,6 +105,9 @@ browsing-use-smooth-scrolling =
     .accesskey = s
 browsing-group =
     .label = Tfunguluta
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -172,9 +187,12 @@ browsing-group =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -242,7 +260,27 @@ certs-devices-enable-fips = Nika emandla FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Busokhompyutha
 choose-download-folder-title = Khetsa ifolda yekulayisha:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
