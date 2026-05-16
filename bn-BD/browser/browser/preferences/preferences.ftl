@@ -10,6 +10,8 @@ pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = নীড়
+pane-search-title2 = অনুসন্ধান
+    .title = অনুসন্ধান
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = অনুসন্ধান
@@ -21,9 +23,17 @@ pane-privacy-section =
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+help-button-label2 = { -brand-short-name } সাপোর্ট
+    .title = { -brand-short-name } সাপোর্ট
 help-button-label = { -brand-short-name } সাপোর্ট
 addons-button-label = এক্সটেনশন ও থিম
 focus-search =
@@ -934,6 +944,8 @@ choose-download-folder-title = ডাউনলোড ফোল্ডার ন�
 
 ## AI controls page
 
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
