@@ -51,9 +51,10 @@ pane-general-title = Опште
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Почетна
+pane-search-title2 = Претрага
+    .title = Претрага
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Почетна и покретање
 pane-search-title = Претрага
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = О програму { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Изглед
     .title = { pane-appearance-title }
-pane-downloads-title = Преузимања
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Приступачност
     .title = { pane-accessibility-title }
-pane-languages-title = Језици
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } експерименти
 category-experimental =
     .tooltiptext = { -brand-short-name } експерименти
@@ -249,8 +248,6 @@ preferences-copy-profile-select = Изабери профил
 preferences-copy-profile-button = Умножи
 tabs-browsing-section =
     .heading = Језичци и прегледање
-pane-tabs-browsing-title = Језичци и прегледање
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Језичци
 tabs-opening-heading =
@@ -1352,7 +1349,6 @@ account-placeholder2 =
     .description = Пријавите се да би ваши подаци остали приватни, шифровани и у тренутку доступни тамо где користите { -brand-short-name }.
 account-sync-section =
     .heading = Налог и усклађивање
-pane-account-sync-title = Налог и усклађивање
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1808,9 +1804,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Лозинке и подешавања самодопуњавања
-pane-passwords-autofill-title = Лозинке и самодопуњавање
 preferences-passwords-autofill-header =
     .heading = Лозинке и самодопуњавање
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2306,7 +2299,6 @@ permissions-header3 =
     .description = Управљајте оним чему веб странице могу приступити, шта могу контролисати или покренути.
 permissions-data-section =
     .heading = Дозволе и подаци
-pane-permissions-data-title = Дозволе и подаци
 
 ## Privacy Section - Data Collection
 
@@ -2729,6 +2721,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Откажи
 preferences-ai-controls-block-confirmation-confirm =
     .label = Блокирај
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
