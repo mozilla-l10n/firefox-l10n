@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Home
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Home and startup
 pane-search-title = Search
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2569,6 +2570,8 @@ related-settings-accessibility-link =
     .label = Customise zoom and font settings in Accessibility
 related-settings-home-link =
     .label = Customise { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Customise browser layout
 
 ## AI controls page
 
