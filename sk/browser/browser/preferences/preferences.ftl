@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Domov
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Domov a spustenie
 pane-search-title = Vyhľadávanie
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = O aplikácii { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vzhľad
     .title = { pane-appearance-title }
-pane-downloads-title = Stiahnuté súbory
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Zjednodušenie ovládania
     .title = { pane-accessibility-title }
-pane-languages-title = Jazyky
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty prehliadača { -brand-short-name }
@@ -225,8 +222,6 @@ preferences-copy-profile-select = Vybrať profil
 preferences-copy-profile-button = Kopírovať
 tabs-browsing-section =
     .heading = Karty a prehliadanie
-pane-tabs-browsing-title = Karty a prehliadanie
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Karty
 tabs-opening-heading =
@@ -1299,7 +1294,6 @@ account-placeholder2 =
     .description = Prihláste sa a udržujte svoje údaje súkromné, šifrované a okamžite dostupné všade, kde používate { -brand-short-name(case: "acc") }.
 account-sync-section =
     .heading = Účet a synchronizácia
-pane-account-sync-title = Účet a synchronizácia
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1755,9 +1749,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Nastavenia automatického dopĺňania a hesiel
-pane-passwords-autofill-title = Heslá a automatické dopĺňanie
 preferences-passwords-autofill-header =
     .heading = Heslá a automatické dopĺňanie
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2235,7 +2226,6 @@ permissions-header3 =
     .description = Spravujte, k čomu môžu webové stránky pristupovať, čo môžu ovládať alebo čo môžu spúšťať.
 permissions-data-section =
     .heading = Oprávnenia a údaje
-pane-permissions-data-title = Oprávnenia a údaje
 
 ## Privacy Section - Data Collection
 
@@ -2640,6 +2630,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušiť
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokovať
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
