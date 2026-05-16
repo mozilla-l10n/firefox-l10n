@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = เลือกตำแหน่งที่ตั้งอื่นในการท่องเว็บ
 ipprotecion-locations-subview-recommended-label = แนะนำ
 ipprotection-locations-subview-recommended-description = ค้นหาตำแหน่งที่ตั้งที่เร็วที่สุด
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = ไม่พร้อมใช้งาน
 ipprotection-locations-subview-promo =
     .heading = ยกระดับการปกป้องขึ้นอีกด้วย { -mozilla-vpn-brand-name }
     .message = เลือกจาก 300+ ตำแหน่งที่ตั้งและปกป้องแอปของคุณทั้งหมดได้สูงสุดถึง 5 อุปกรณ์

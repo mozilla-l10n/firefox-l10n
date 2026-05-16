@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = ตัดทอนแอตทริบิวต์ DOM
 options-collapse-attrs-tooltip =
     .title = ตัดทอนแอตทริบิวต์แบบยาวในตัวตรวจสอบ
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = แสดงความคิดเห็น
+options-show-comments-tooltip =
+    .title = แสดงโหนดความคิดเห็นในตัวตรวจสอบ
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = คลิกและลากเพื่อแก้ไขค่าขนาด
 options-inspector-draggable-properties-tooltip =

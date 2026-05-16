@@ -53,6 +53,7 @@ category-general =
 pane-home-title = หน้าแรก
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = หน้าแรกและการเริ่มต้น
 pane-search-title = ค้นหา
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2553,6 +2554,8 @@ related-settings-accessibility-link =
     .label = ปรับแต่งการตั้งค่าการซูมและแบบอักษรที่การช่วยการเข้าถึง
 related-settings-home-link =
     .label = ปรับแต่ง { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = ปรับแต่งเค้าโครงของเบราว์เซอร์
 
 ## AI controls page
 
