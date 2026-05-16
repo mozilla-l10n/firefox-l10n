@@ -214,7 +214,7 @@ backup-error-retry = Có gì đó không ổn. Vui lòng thử lại.
 
 backup-file-header = { -brand-short-name } đã sẵn sàng để khôi phục
 backup-file-title = Khôi phục { -brand-short-name }
-backup-file-intro = Quay lại duyệt và khôi phục tất cả dấu trang, lịch sử và dữ liệu khác của bạn. <a data-l10n-name="backup-file-support-link">Tìm hiểu thêm</a>
+backup-file-intro = Quay lại trình duyệt và khôi phục tất cả dấu trang, lịch sử và dữ liệu khác của bạn. <a data-l10n-name="backup-file-support-link">Tìm hiểu thêm</a>
 backup-file-path-label = Tập tin sao lưu:
 backup-file-encryption-state-label = Mã hóa:
 backup-file-encryption-state-value-encrypted = Có
