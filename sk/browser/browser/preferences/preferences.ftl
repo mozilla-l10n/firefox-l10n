@@ -65,6 +65,8 @@ pane-privacy-title = Súkromie a bezpečnosť
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synchronizácia
+pane-ai-controls-title2 = Nastavenia AI
+    .title = Nastavenia AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Nastavenia AI
@@ -74,10 +76,14 @@ pane-about-firefox-title = O aplikácii { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vzhľad
     .title = { pane-appearance-title }
+pane-downloads-title2 = Stiahnuté súbory
+    .title = Stiahnuté súbory
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Zjednodušenie ovládania
     .title = { pane-accessibility-title }
+pane-languages-title2 = Jazyky
+    .title = Jazyky
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -98,6 +104,8 @@ pane-experimental-description3 = Vyskúšajte naše experimentálne funkcie! Tie
 pane-experimental-reset =
     .label = Obnoviť predvolené nastavenia
     .accesskey = O
+help-button-label2 = Podpora pre { -brand-short-name(case: "acc") }
+    .title = Podpora pre { -brand-short-name(case: "acc") }
 addons-button-label2 = Rozšírenia a témy vzhľadu
     .title = Rozšírenia a témy vzhľadu
 help-button-label = Podpora pre { -brand-short-name(case: "acc") }
@@ -226,6 +234,8 @@ preferences-copy-profile-select = Vybrať profil
 preferences-copy-profile-button = Kopírovať
 tabs-browsing-section =
     .heading = Karty a prehliadanie
+pane-tabs-browsing-title2 = Karty a prehliadanie
+    .title = Karty a prehliadanie
 tabs-group-header2 =
     .label = Karty
 tabs-opening-heading =
@@ -1298,6 +1308,8 @@ account-placeholder2 =
     .description = Prihláste sa a udržujte svoje údaje súkromné, šifrované a okamžite dostupné všade, kde používate { -brand-short-name(case: "acc") }.
 account-sync-section =
     .heading = Účet a synchronizácia
+pane-account-sync-title2 = Účet a synchronizácia
+    .title = Účet a synchronizácia
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1753,6 +1765,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Heslá a automatické dopĺňanie
+    .title = Heslá a automatické dopĺňanie
 preferences-passwords-autofill-header =
     .heading = Heslá a automatické dopĺňanie
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2230,6 +2244,8 @@ permissions-header3 =
     .description = Spravujte, k čomu môžu webové stránky pristupovať, čo môžu ovládať alebo čo môžu spúšťať.
 permissions-data-section =
     .heading = Oprávnenia a údaje
+pane-permissions-data-title2 = Oprávnenia a údaje
+    .title = Oprávnenia a údaje
 
 ## Privacy Section - Data Collection
 
