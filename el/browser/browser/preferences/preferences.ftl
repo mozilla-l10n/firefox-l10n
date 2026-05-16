@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Αρχική
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Αρχική σελίδα και εκκίνηση
 pane-search-title = Αναζήτηση
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = Σχετικά με το { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Εμφάνιση
     .title = { pane-appearance-title }
-pane-downloads-title = Λήψεις
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Προσβασιμότητα
     .title = { pane-accessibility-title }
-pane-languages-title = Γλώσσες
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Πειράματα { -brand-short-name }
 category-experimental =
     .tooltiptext = Πειράματα { -brand-short-name }
@@ -225,8 +222,6 @@ preferences-copy-profile-select = Επιλογή προφίλ
 preferences-copy-profile-button = Αντιγραφή
 tabs-browsing-section =
     .heading = Καρτέλες και περιήγηση
-pane-tabs-browsing-title = Καρτέλες και περιήγηση
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Καρτέλες
 tabs-opening-heading =
@@ -1293,7 +1288,6 @@ account-placeholder2 =
     .description = Συνδεθείτε και διατηρήστε τα δεδομένα σας ιδιωτικά, κρυπτογραφημένα και άμεσα προσβάσιμα, οπουδήποτε χρησιμοποιείτε το { -brand-short-name }.
 account-sync-section =
     .heading = Λογαριασμός και συγχρονισμός
-pane-account-sync-title = Λογαριασμός και συγχρονισμός
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1749,9 +1743,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Ρυθμίσεις κωδικών πρόσβασης και αυτόματης συμπλήρωσης
-pane-passwords-autofill-title = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
 preferences-passwords-autofill-header =
     .heading = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2229,7 +2220,6 @@ permissions-header3 =
     .description = Διαχειριστείτε τι θα μπορούν να προσπελάσουν, να ελέγξουν ή να ενεργοποιήσουν οι ιστότοποι.
 permissions-data-section =
     .heading = Δικαιώματα και δεδομένα
-pane-permissions-data-title = Δικαιώματα και δεδομένα
 
 ## Privacy Section - Data Collection
 
@@ -2634,6 +2624,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Ακύρωση
 preferences-ai-controls-block-confirmation-confirm =
     .label = Φραγή
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
