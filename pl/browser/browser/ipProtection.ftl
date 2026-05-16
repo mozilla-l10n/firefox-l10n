@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, dziękuję
 ipprotection-feature-introduction-button-secondary-remove = Usuń VPN z paska narzędzi
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Usuń VPN z paska narzędzi
 
 ## Site settings callout
 
