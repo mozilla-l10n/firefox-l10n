@@ -157,7 +157,7 @@ extension-controlling-homepage = { $name } controls some of your homepage settin
 
 ## Preferences UI Search Results
 
-search-results-header = Search Results
+search-results-header = Search results
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Sorry! There are no results in Settings for “<span data-l10n-name="query"></span>”.
 search-results-help-link = Need help? Visit <a data-l10n-name="url">{ -brand-short-name } Support</a>
@@ -330,7 +330,7 @@ settings-tabs-show-image-in-preview =
 settings-tabs-drag-to-create-tab-groups =
     .label = Drag tabs together to create tab groups
 browser-layout-header2 =
-    .label = Browser Layout
+    .label = Browser layout
 browser-layout-horizontal-tabs2 =
     .label = Horizontal tabs
     .title = Tabs at the top
@@ -742,7 +742,7 @@ update-application-description = Keep { -brand-short-name } up to date for the b
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">What’s new</a>
 update-history-2 =
-    .label = Show Update History
+    .label = Show update history
     .accesskey = p
 update-application-installation =
     .label = Installation
