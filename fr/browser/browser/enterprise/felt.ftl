@@ -33,8 +33,14 @@ felt-browser-error-no-network =
 felt-browser-error-sso-timeout2 =
     .heading = Délai de connexion dépassé
     .message = Veuillez réessayer ou contacter votre administrateur si le problème persiste.
+felt-browser-error-token-refresh-failed =
+    .heading = Vous avez été déconnecté·e
+    .message = Veuillez vous reconnecter ou contacter votre administrateur si vous avez des questions.
 felt-browser-error-multiple-crashes2 =
     .heading = { -brand-short-name } a planté à de nombreuses reprises
+felt-browser-error-launch-failure =
+    .heading = { -brand-short-name } ne peut pas démarrer
+    .message = Si le problème persiste, veuillez contacter votre administrateur.
 
 ## Logout messages
 
