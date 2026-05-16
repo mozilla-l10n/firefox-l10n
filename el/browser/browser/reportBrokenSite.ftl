@@ -30,6 +30,8 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
     .label = Ο ιστότοπος είναι παραπλανητικός
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Κάτι άλλο
+report-broken-site-panel-instructions-other = Περιγράψτε το πρόβλημα λεπτομερώς για να μας βοηθήσετε να διερευνήσουμε το ζήτημα.
+report-broken-site-panel-instructions-other-optional = Περιγράψτε το πρόβλημα λεπτομερώς για να μας βοηθήσετε να διερευνήσουμε το ζήτημα. (προαιρετικό)
 report-broken-site-panel-description2 =
     .placeholder = Τι συνέβη; Τι περιμένατε να συμβεί; Παραθέστε βήματα για την αναπαραγωγή του ζητήματος.
 report-broken-site-panel-send-more-info-button =
@@ -78,6 +80,11 @@ report-broken-site-panel-report-sent-header =
     .title = Η αναφορά σας έχει σταλεί
 report-broken-site-panel-report-sent-text = Σας ευχαριστούμε που βοηθήσατε το { -brand-product-name } να κάνει το διαδίκτυο πιο ανοικτό, προσβάσιμο και καλό για όλους.
 report-broken-site-panel-invalid-url-label = Εισαγάγετε ένα έγκυρο URL
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+       *[other] Εισαγάγετε τουλάχιστον { $minLength } χαρακτήρες
+    }
 report-broken-site-panel-missing-reason-label = Επιλέξτε έναν λόγο
 report-broken-site-panel-blocked-trackers-label =
     .label = Αποστολή URL αποκλεισμένων από προστασία καταγραφής

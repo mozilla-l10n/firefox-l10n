@@ -39,6 +39,7 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Ενεργοποιήστε τον συγχρονισμό για να στείλετε μια καρτέλα
 fxa-menu-send-to-mobile-connect-phone2 = Συνδέστε το τηλέφωνό σας
 fxa-menu-send-to-mobile-device-missing2 = Δεν βλέπετε τη συσκευή σας;
+fxa-menu-send-to-mobile-turn-on-sync = Ενεργοποιήστε τον συγχρονισμό για αποστολή καρτελών
 fxa-menu-send-to-mobile-connect-device = Συνδέστε μια συσκευή για αποστολή καρτελών
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
@@ -68,6 +69,10 @@ sync-setup-verify-heading = Θέλετε σίγουρα να κάνετε σύν
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Κάποιος άλλος χρήστης έχει ήδη κάνει σύνδεση για συγχρονισμό σε αυτόν τον υπολογιστή. Αν πραγματοποιήσετε σύνδεση, θα συγχωνευθούν οι σελιδοδείκτες, οι κωδικοί πρόσβασης και οι υπόλοιπες ρυθμίσεις του προγράμματος περιήγησης με το { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Συνδεθείτε για αποστολή καρτελών
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

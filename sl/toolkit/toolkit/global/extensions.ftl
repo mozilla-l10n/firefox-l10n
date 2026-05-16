@@ -155,6 +155,12 @@ webext-site-perms-description-gated-perms-midi =
     To so običajno priključki, kot so zvočni sintetizatorji, lahko pa so tudi vgrajeni v računalnik.
     
     Spletnim mestom dostop do naprav MIDI običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
+webext-site-perms-description-gated-perms-webserial =
+    To so naprave kot mikrokrmilniki, 3D-tiskalniki in druge naprave, ki se povezujejo prek USB, zaporednih vrat ali Bluetootha.
+    
+    Izbirali boste lahko, do katerih naprav bo spletno mesto imelo dostop.
+    
+    Spletnim mestom dostop do zaporednih naprav običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
 webext-site-perms-description-gated-perms-serial =
     To so naprave kot mikrokrmilniki, 3D-tiskalniki in druge naprave, ki se povezujejo prek USB ali zaporednih vrat.
     
