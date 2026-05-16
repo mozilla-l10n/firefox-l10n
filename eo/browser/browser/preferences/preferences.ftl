@@ -51,6 +51,8 @@ pane-general-title = Ĉefaj
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Eka paĝo
+pane-search-title2 = Serĉi
+    .title = Serĉi
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Serĉi
@@ -72,16 +74,14 @@ pane-about-firefox-title = Pri { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aspekto
     .title = { pane-appearance-title }
-pane-downloads-title = Elŝutoj
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Alirebleco
     .title = { pane-accessibility-title }
-pane-languages-title = Lingvoj
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Eksperimentoj de { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimentoj de { -brand-short-name }
@@ -224,8 +224,6 @@ preferences-copy-profile-select = Elekti profilon
 preferences-copy-profile-button = Kopii
 tabs-browsing-section =
     .heading = Langetoj kaj retumo
-pane-tabs-browsing-title = Langetoj kaj retumo
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Langetoj
 tabs-opening-heading =
@@ -1292,7 +1290,6 @@ account-placeholder2 =
     .description = Komencu seancon kaj tenu viajn datumojn privataj, ĉifritaj kaj tuj alireblaj por { -brand-short-name }, kie ajn vi ĝin uzas.
 account-sync-section =
     .heading = Konto kaj spegulado
-pane-account-sync-title = Konto kaj spegulado
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1748,9 +1745,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Agordoj por pasvortoj kaj aŭtomata plenigo
-pane-passwords-autofill-title = Pasvortoj kaj aŭtomata plenigo
 preferences-passwords-autofill-header =
     .heading = Pasvortoj kaj aŭtomata plenigo
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,7 +2222,6 @@ permissions-header3 =
     .description = Administri kion retejoj povas aliri, regi aŭ funkciigi.
 permissions-data-section =
     .heading = Permesoj kaj datumoj
-pane-permissions-data-title = Permesoj kaj datumoj
 
 ## Privacy Section - Data Collection
 
@@ -2631,6 +2624,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Nuligi
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloki
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
