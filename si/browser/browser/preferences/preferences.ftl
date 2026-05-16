@@ -527,6 +527,15 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -592,6 +601,9 @@ browsing-cfr-recommendations-learn-more = තව දැනගන්න
 browsing-group =
     .label = පිරික්සීම
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = ජාල සැකසුම්
@@ -644,6 +656,12 @@ choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
@@ -692,6 +710,11 @@ home-prefs-weather-header =
     .label = කාලගුණය
 home-prefs-weather-description = අද අනාවැකිය කෙටියෙන්
 home-prefs-weather-learn-more-link = තව දැනගන්න
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = ({ $extension }) දිගුව
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -846,6 +869,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1075,6 +1103,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = තව දැනගන්න
 forms-windows-sso-desc = ඔබගේ උපාංග සැකසුම් තුළ ගිණුම් කළමනාකරණය
 windows-passkey-settings-label = පද්ධතියේ සැකසුම් තුළ මුරයතුරු කළමනාකරණය කරන්න
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1626,8 +1657,26 @@ preferences-doh-manage-exceptions =
     .label = හැරදැමීම් කළමනාකරණය…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 choose-download-folder-title = බාගත වන බහාලුම තේරීම:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
