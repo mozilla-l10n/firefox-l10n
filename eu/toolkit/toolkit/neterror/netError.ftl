@@ -192,6 +192,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name }(e)k ezin du sortu konexio segurua { $hostname } helbideko zerbitzariarekin.
 fp-neterror-offline-intro = { -brand-short-name }(e)k ezin du konektatu <strong>{ $hostname }</strong> helbideko zerbitzariarekin
+fp-neterror-offline-intro-2 = { -brand-short-name }(e)k ezin du konektatu <strong>{ $hostname }</strong> helbideko zerbitzariarekin.
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> ostalariko zerbitzaria erantzuteko denbora gehiegi ari da hartzen.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

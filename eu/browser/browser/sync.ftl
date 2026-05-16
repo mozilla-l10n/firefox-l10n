@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 fxa-menu-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 fxa-menu-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?
+fxa-menu-send-to-mobile-turn-on-sync = Aktibatu sinkronizazioa fitxak bidaltzeko
+fxa-menu-send-to-mobile-connect-device = Konektatu gailu bat fitxak bidaltzeko
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -67,6 +69,10 @@ sync-setup-verify-heading = Ziur zaude sinkronizatzeko saioa hasi nahi duzula?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Beste erabiltzaile batek sinkronizatzeko saioa hasita zeukan ordenagailu honetan. Saioa hasiz gero, nabigatzaile honen laster-markak, pasahitzak eta bestelako ezarpenak { $email } kontuarekin elkartuko dira
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Hasi saioa fitxak bidaltzeko
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

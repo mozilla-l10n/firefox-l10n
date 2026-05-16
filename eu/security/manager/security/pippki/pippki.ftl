@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Ziurtagiri babeskopiaren pasahitza (berriro):
 set-password-reminder = Garrantzizkoa: Ziurtagiri-babeskopiaren pasahitza ahazten bazaizu, ezin izango duzu geroago babeskopia hori berreskuratu.  Gorde ezazu leku seguru batean.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Babestutako autentifikazioa
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Mesedez autentifikatu segurtasun-gailura ({ $tokenName }). Hori nola egin behar den gailuaren araberakoa da (adibidez, hatz-marken irakurgailu bat erabiliz edo zenbakizko teklatu batekin kode bat sartuz).
+
 ## Protected authentication alert
 
 # Variables:

@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Ezarpenak…
+menu-application-set-as-default =
+    .label = Ezarri { -brand-shorter-name } nabigatzaile lehenetsi gisa
 menu-application-services =
     .label = Zerbitzuak
 menu-application-hide-this =

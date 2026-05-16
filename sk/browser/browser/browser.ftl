@@ -874,7 +874,7 @@ urlbar-result-action-ai-chat = Opýtať sa
 ## Market refers to stocks, indexes, and funds.
 
 # This string is shown as title when Market suggestion are disabled.
-urlbar-result-market-opt-in-title = Získajte údaje o akciovom trhu priamo vo vyhľadávacom panel
+urlbar-result-market-opt-in-title = Získajte údaje o akciovom trhu priamo vo vyhľadávacom paneli
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = Zobrazí novinky z trhu a ďalšie informácie od našich partnerov, ak zdieľate údaje o vyhľadávacích dopytoch so spoločnosťou { -vendor-short-name }. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.

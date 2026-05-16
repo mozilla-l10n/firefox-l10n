@@ -1120,9 +1120,9 @@ home-prefs-mission-message2 =
 home-prefs-manage-topics-link = Spravovať témy
 home-prefs-manage-topics-link2 =
     .label = Spravovať témy
-home-prefs-choose-wallpaper-link = Vyberte si tapetu
+home-prefs-choose-wallpaper-link = Vybrať tapetu
 home-prefs-choose-wallpaper-link2 =
-    .label = Vyberte si tapetu
+    .label = Vybrať tapetu
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
@@ -1157,7 +1157,7 @@ search-separate-default-engine =
     .label = Použiť tento vyhľadávač v súkromných oknách
     .accesskey = P
 search-suggestions-header = Návrhy vyhľadávania
-search-suggestions-desc = Vyberte si, ako má prehliadač zobrazovať návrhy vyhľadávania z vyhľadávacieho modulu.
+search-suggestions-desc = Vyberte si, ako má prehliadač zobrazovať návrhy vyhľadávania z vyhľadávača.
 search-suggestions-option =
     .label = Zobrazovať návrhy vyhľadávania
     .accesskey = Z
@@ -1200,7 +1200,7 @@ search-suggestions-header-2 =
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
-    .label = Zobraziť hľadané výrazy namiesto adresy URL na stránke s výsledkami predvoleného vyhľadávacieho nástroja
+    .label = Zobraziť hľadané výrazy namiesto adresy URL na stránke s výsledkami predvoleného vyhľadávača
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -1213,7 +1213,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Zmeniť nastavenia návrhov v paneli s adresou
 search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name(case: "acc") } nastavili tak, aby si nepamätal históriu.
 search-one-click-header2 = Skratky vyhľadávania
-search-one-click-desc = Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.
+search-one-click-desc = Vyberte ďalšie vyhľadávače, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.
 search-one-click-header-3 =
     .label = Ďalšie vyhľadávače
     .description = Vyberte, ktoré vyhľadávače a skratky sa zobrazujú v paneli s adresou.
@@ -1232,7 +1232,7 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = Kľúčové slovo
 search-restore-default =
-    .label = Obnoviť predvolené vyhľadávacie moduly
+    .label = Obnoviť predvolené vyhľadávače
     .accesskey = O
 search-remove-engine =
     .label = Odstrániť
@@ -1246,14 +1246,14 @@ search-add-engine-2 =
 search-edit-engine =
     .label = Upraviť
     .accesskey = U
-search-find-more-link = Nájsť ďalšie vyhľadávacie moduly
+search-find-more-link = Nájsť ďalšie vyhľadávače
 search-filtering-for-add-engine = Pridať vyhľadávač
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicitné kľúčové slovo
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané modulom "{ $name }". Vyberte nejaké iné.
+search-keyword-warning-engine = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané vyhľadávačom "{ $name }". Vyberte nejaké iné.
 search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané jednou zo záložiek. Vyberte nejaké iné.
 # This warning is displayed when the chosen name is already in use.
 # Variables:
@@ -1973,7 +1973,7 @@ addressbar-locbar-engines-option-1 =
     .label = Návrhy vyhľadávačov, ktoré je možné použiť
     .accesskey = N
 addressbar-locbar-engines-option =
-    .label = Vyhľadávacie moduly
+    .label = Vyhľadávače
     .accesskey = V
 addressbar-locbar-quickactions-option =
     .label = Rýchle akcie

@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Ez mututu fitxa
 fxviewtabrow-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 fxviewtabrow-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
+fxviewtabrow-send-to-mobile-connect-device = Konektatu gailu bat fitxak bidaltzeko
 fxviewtabrow-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Hasi saioa fitxak bidaltzeko
+fxviewtabrow-send-to-mobile-turn-on-sync = Aktibatu sinkronizazioa fitxak bidaltzeko

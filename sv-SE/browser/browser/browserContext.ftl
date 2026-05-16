@@ -306,6 +306,11 @@ main-context-menu-send-to-mobile-device-missing2 = Hittar du inte din enhet?
 main-context-menu-send-to-mobile-sign-in-from-link = Logga in för att skicka en länk
 main-context-menu-send-to-mobile-sign-in-from-page = Logga in för att skicka en sida
 main-context-menu-send-to-mobile-enable-sync3 = Aktivera synkronisering för att skicka flikar
+main-context-menu-send-to-mobile-enable-sync-from-link = Aktivera synkronisering för att skicka en länk
+main-context-menu-send-to-mobile-enable-sync-from-page = Aktivera synkronisering för att skicka en sida
+main-context-menu-send-to-mobile-connect-phone3 = Anslut en enhet för att skicka flikar
+main-context-menu-send-to-mobile-connect-phone-from-link = Anslut en enhet för att skicka en länk
+main-context-menu-send-to-mobile-connect-phone-from-page = Anslut en enhet för att skicka en sida
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Aktivera synkronisering för att skicka en flik

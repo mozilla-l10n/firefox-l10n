@@ -38,7 +38,7 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
-reset-search-settings-message = Kvôli technickému problému bol váš predvolený vyhľadávací nástroj zmenený späť na { $newEngine }. Ak chcete zmeniť predvolený vyhľadávací nástroj, prejdite do nastavení.
+reset-search-settings-message = Kvôli technickému problému bol váš predvolený vyhľadávač zmenený späť na { $newEngine }. Ak chcete zmeniť predvolený vyhľadávač, prejdite do nastavení.
 reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
@@ -58,7 +58,7 @@ edit-engine-window =
     .title = Upraviť vyhľadávač
     .style = min-width: 32em;
 add-engine-button = Pridať vlastný vyhľadávač
-add-engine-name = Názov vyhľadávacieho modulu
+add-engine-name = Názov vyhľadávača
 add-engine-url2 = Adresa URL s %s namiesto hľadaného výrazu
 add-engine-keyword2 = Kľúčové slovo (voliteľné)
 # POST and GET refer to the HTTP methods.

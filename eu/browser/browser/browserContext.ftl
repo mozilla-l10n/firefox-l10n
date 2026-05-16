@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Hasi saioa fitxak bidaltzeko
 main-context-menu-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 main-context-menu-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 main-context-menu-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?
+main-context-menu-send-to-mobile-sign-in-from-link = Hasi saioa lotura bidaltzeko
+main-context-menu-send-to-mobile-sign-in-from-page = Hasi saioa orria bidaltzeko
+main-context-menu-send-to-mobile-enable-sync3 = Aktibatu sinkronizazioa fitxak bidaltzeko
+main-context-menu-send-to-mobile-enable-sync-from-link = Aktibatu sinkronizazioa lotura bidaltzeko
+main-context-menu-send-to-mobile-enable-sync-from-page = Aktibatu sinkronizazioa orria bidaltzeko
+main-context-menu-send-to-mobile-connect-phone3 = Konektatu gailu bat fitxak bidaltzeko
+main-context-menu-send-to-mobile-connect-phone-from-link = Konektatu gailu bat lotura bidaltzeko
+main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat orria bidaltzeko
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Gaitu sinkronizazioa fitxa bidaltzeko

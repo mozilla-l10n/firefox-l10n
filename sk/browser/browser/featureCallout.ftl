@@ -246,7 +246,7 @@ unified-search-callout-subtitle = Vyberte si, čo najlepšie vyhovuje vášmu ko
 unified-search-callout-primary-label = Ďalej
 unified-search-callout-secondary-label = Zavrieť
 unified-search-engines-callout-title = Hľadajte pomocou skratky
-unified-search-engines-callout-subtitle = Ak chcete vyhľadávať v histórii, záložkách, kartách alebo pomocou iného vyhľadávacieho nástroja, napíšte “@” a za ním kľúčové slovo.
+unified-search-engines-callout-subtitle = Ak chcete vyhľadávať v histórii, záložkách, kartách alebo pomocou iného vyhľadávača, napíšte “@” a za ním kľúčové slovo.
 unified-search-engines-callout-primary-label = Rozumiem
 actions-callout-title = Dokončite bežné úlohy alebo získajte prístup k základným nastaveniam
 # The user can type "print" and "clear" and a button will appear in the

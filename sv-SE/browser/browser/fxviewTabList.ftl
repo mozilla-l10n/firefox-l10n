@@ -86,4 +86,4 @@ fxviewtabrow-send-to-mobile-device-missing2 = Hittar du inte din enhet?
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-send-to-mobile-sign-in = Logga in för att skicka flikar
-fxviewtabrow-send-to-mobile-turn-on-sync = Aktivera Synka för att skicka flikar
+fxviewtabrow-send-to-mobile-turn-on-sync = Aktivera synkronisering för att skicka flikar

@@ -25,8 +25,12 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzailean integratuta
 ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
@@ -99,6 +103,8 @@ ipprotection-locations-subview =
     .title = Aukeratu kokapena
 ipprotecion-locations-subview-recommended-label = Gomendatua
 ipprotection-locations-subview-recommended-description = Kokapen azkarrena bilatzen du
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Ez dago erabilgarri
 ipprotection-locations-subview-promo-button = Eskuratu { -mozilla-vpn-brand-name }
 
 ## VPN paused state
