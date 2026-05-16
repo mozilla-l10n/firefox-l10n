@@ -65,6 +65,8 @@ pane-privacy-title = Soukromí a zabezpečení
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synchronizace
+pane-ai-controls-title2 = Ovládání AI
+    .title = Ovládání AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Ovládání AI
@@ -74,10 +76,14 @@ pane-about-firefox-title = O aplikaci { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vzhled
     .title = { pane-appearance-title }
+pane-downloads-title2 = Stahování
+    .title = Stahování
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Přístupnost
     .title = { pane-accessibility-title }
+pane-languages-title2 = Jazyky
+    .title = Jazyky
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -284,6 +290,8 @@ preferences-copy-profile-select = Vyberte profil
 preferences-copy-profile-button = Kopírovat
 tabs-browsing-section =
     .heading = Panely a prohlížení
+pane-tabs-browsing-title2 = Panely a prohlížení
+    .title = Panely a prohlížení
 tabs-group-header2 =
     .label = Panely
 tabs-opening-heading =
@@ -1464,6 +1472,8 @@ account-placeholder2 =
     .description = Přihlaste se a udržujte své údaje soukromé, šifrované a okamžitě dostupné všude, kde používáte { -brand-short-name }.
 account-sync-section =
     .heading = Účet a synchronizace
+pane-account-sync-title2 = Účet a synchronizace
+    .title = Účet a synchronizace
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1919,6 +1929,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Hesla a automatické vyplňování
+    .title = Hesla a automatické vyplňování
 preferences-passwords-autofill-header =
     .heading = Hesla a automatické vyplňování
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2428,6 +2440,8 @@ permissions-header3 =
     .description = Spravujte, k čemu mohou webové stránky přistupovat, co mohou ovládat nebo co mohou spouštět.
 permissions-data-section =
     .heading = Oprávnění a data
+pane-permissions-data-title2 = Oprávnění a data
+    .title = Oprávnění a data
 
 ## Privacy Section - Data Collection
 
