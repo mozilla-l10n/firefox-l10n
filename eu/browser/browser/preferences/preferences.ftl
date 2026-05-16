@@ -96,6 +96,8 @@ pane-experimental-description3 = Probatu gure ezaugarri esperimentalak! Garatzen
 pane-experimental-reset =
     .label = Berrezarri lehenespenak
     .accesskey = h
+help-button-label2 = { -brand-short-name } laguntza
+    .title = { -brand-short-name } laguntza
 addons-button-label2 = Hedapenak eta itxurak
     .title = Hedapenak eta itxurak
 help-button-label = { -brand-short-name } laguntza
@@ -2226,6 +2228,8 @@ permissions-header3 =
     .description = Kudeatu webguneek zer atzitu, kontrolatu edo abiaraz dezaketen.
 permissions-data-section =
     .heading = Baimenak eta datuak
+pane-permissions-data-title2 = Baimenak eta datuak
+    .title = Baimenak eta datuak
 
 ## Privacy Section - Data Collection
 
