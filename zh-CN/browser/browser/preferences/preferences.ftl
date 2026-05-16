@@ -65,6 +65,8 @@ pane-privacy-title = 隐私与安全
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = 同步
+pane-ai-controls-title2 = AI 控制
+    .title = AI 控制
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI 控制
@@ -74,10 +76,14 @@ pane-about-firefox-title = 关于 { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = 外观
     .title = { pane-appearance-title }
+pane-downloads-title2 = 下载
+    .title = 下载
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = 无障碍
     .title = { pane-accessibility-title }
+pane-languages-title2 = 语言
+    .title = 语言
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -1278,6 +1284,8 @@ account-placeholder2 =
     .description = 登录以加密保护数据、确保数据私密，并可在使用 { -brand-short-name } 的各设备上触手可得。
 account-sync-section =
     .heading = 账户与同步
+pane-account-sync-title2 = 账户与同步
+    .title = 账户与同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2208,6 +2216,8 @@ permissions-header3 =
     .description = 管理网站可以访问、控制或触发的项目。
 permissions-data-section =
     .heading = 权限与数据
+pane-permissions-data-title2 = 权限与数据
+    .title = 权限与数据
 
 ## Privacy Section - Data Collection
 
