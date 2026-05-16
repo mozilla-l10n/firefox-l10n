@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Zněmjenje rajtarka anulować
 fxviewtabrow-send-to-mobile-enable-sync2 = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
 fxviewtabrow-send-to-mobile-connect-phone2 = Zwjazajće swój telefon
+fxviewtabrow-send-to-mobile-connect-device = Zwjazajće grat, zo byšće rajtarki pósłał
 fxviewtabrow-send-to-mobile-device-missing2 = Njewidźiće swój grat?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Přizjewće so, zo byšće rajtarki pósłał
+fxviewtabrow-send-to-mobile-turn-on-sync = Zmóžńće synchronizaciju, zo byšće rajtarki pósłał

@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Přizjewće so, zo byšće rajtarki p
 main-context-menu-send-to-mobile-enable-sync2 = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
 main-context-menu-send-to-mobile-connect-phone2 = Zwjazajće swój telefon
 main-context-menu-send-to-mobile-device-missing2 = Njewidźiće swój grat?
+main-context-menu-send-to-mobile-sign-in-from-link = Přizjewće so, zo byšće wotkaz pósłał
+main-context-menu-send-to-mobile-sign-in-from-page = Přizjewće so, zo byšće stronu pósłał
+main-context-menu-send-to-mobile-enable-sync3 = Zmóžńće synchronizaciju, zo byšće rajtarki pósłał
+main-context-menu-send-to-mobile-enable-sync-from-link = Zmóžńće synchronizaciju, zo byšće wotkaz pósłał
+main-context-menu-send-to-mobile-enable-sync-from-page = Zmóžńće synchronizaciju, zo byšće stronu pósłał
+main-context-menu-send-to-mobile-connect-phone3 = Zwjazajće grat, zo byšće rajtarki pósłał
+main-context-menu-send-to-mobile-connect-phone-from-link = Zwjazajće grat, zo byšće wotkaz pósłał
+main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo byšće stronu pósłał
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Zmóžńće synchronizaciju, zo byšće rajtark pósłał

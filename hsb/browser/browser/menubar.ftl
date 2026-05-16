@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Nastajenja…
+menu-application-set-as-default =
+    .label = { -brand-shorter-name } jako standardny wobhladowak nastajić
 menu-application-services =
     .label = Słužby
 menu-application-hide-this =
