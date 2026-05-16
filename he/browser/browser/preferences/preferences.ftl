@@ -65,6 +65,8 @@ pane-privacy-title = פרטיות ואבטחה
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = סנכרון
+pane-ai-controls-title2 = בקרי בינה מלאכותית
+    .title = בקרי בינה מלאכותית
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = בקרי בינה מלאכותית
@@ -74,10 +76,14 @@ pane-about-firefox-title = על אודות { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = מראה
     .title = { pane-appearance-title }
+pane-downloads-title2 = הורדות
+    .title = הורדות
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = נגישות
     .title = { pane-accessibility-title }
+pane-languages-title2 = שפות
+    .title = שפות
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = בחירת פרופיל
 preferences-copy-profile-button = העתקה
 tabs-browsing-section =
     .heading = לשוניות וגלישה
+pane-tabs-browsing-title2 = לשוניות וגלישה
+    .title = לשוניות וגלישה
 tabs-group-header2 =
     .label = לשוניות
 tabs-opening-heading =
@@ -1296,6 +1304,8 @@ account-placeholder2 =
     .description = ניתן להתחבר ולשמור על הנתונים שלך פרטיים, מוצפנים ונגישים באופן מיידי בכל מקום בו משתמשים ב־{ -brand-short-name }.
 account-sync-section =
     .heading = חשבון וסנכרון
+pane-account-sync-title2 = חשבון וסנכרון
+    .title = חשבון וסנכרון
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1761,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = ססמאות ומילוי אוטומטי
+    .title = ססמאות ומילוי אוטומטי
 preferences-passwords-autofill-header =
     .heading = ססמאות ומילוי אוטומטי
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2240,8 @@ permissions-header3 =
     .description = ניהול הפריטים שאתרים יכולים לגשת אליהם, לשלוט בהם או להפעיל.
 permissions-data-section =
     .heading = הרשאות ונתונים
+pane-permissions-data-title2 = הרשאות ונתונים
+    .title = הרשאות ונתונים
 
 ## Privacy Section - Data Collection
 
