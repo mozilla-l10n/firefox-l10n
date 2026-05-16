@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Hasiera-orria
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Hasiera eta abioa
 pane-search-title = Bilaketa
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = { -brand-short-name }(r)i buruz
     .title = { pane-about-firefox-title }
 pane-appearance-title = Itxura
     .title = { pane-appearance-title }
-pane-downloads-title = Deskargak
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Erabilgarritasuna
     .title = { pane-accessibility-title }
-pane-languages-title = Hizkuntzak
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } esperimentuak
 category-experimental =
     .tooltiptext = { -brand-short-name } esperimentuak
@@ -225,8 +222,6 @@ preferences-copy-profile-select = Hautatu profila
 preferences-copy-profile-button = Kopiatu
 tabs-browsing-section =
     .heading = Fitxak eta nabigazioa
-pane-tabs-browsing-title = Fitxak eta nabigazioa
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Fitxak
 tabs-opening-heading =
@@ -1295,7 +1290,6 @@ account-placeholder2 =
     .description = Hasi saioa eta mantendu zure datuak pribatu, zifratuta eta berehala erabilgarri { -brand-short-name } darabilzun edozein lekutan.
 account-sync-section =
     .heading = Kontua eta sinkronizazioa
-pane-account-sync-title = Kontua eta sinkronizazioa
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1745,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Pasahitzak eta betetze automatikoaren ezarpenak
-pane-passwords-autofill-title = Pasahitzak eta betetze automatikoa
 preferences-passwords-autofill-header =
     .heading = Pasahitzak eta betetze automatikoa
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2222,6 @@ permissions-header3 =
     .description = Kudeatu webguneek zer atzitu, kontrolatu edo abiaraz dezaketen.
 permissions-data-section =
     .heading = Baimenak eta datuak
-pane-permissions-data-title = Baimenak eta datuak
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2626,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Utzi
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokeatu
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
