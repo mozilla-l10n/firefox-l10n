@@ -65,6 +65,8 @@ pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronização
+pane-ai-controls-title2 = Controles de inteligência artificial
+    .title = Controles de inteligência artificial
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Controles de inteligência artificial
@@ -74,10 +76,14 @@ pane-about-firefox-title = Sobre o { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aparência
     .title = { pane-appearance-title }
+pane-downloads-title2 = Downloads
+    .title = Downloads
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Acessibilidade
     .title = { pane-accessibility-title }
+pane-languages-title2 = Idiomas
+    .title = Idiomas
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Selecionar perfil
 preferences-copy-profile-button = Copiar
 tabs-browsing-section =
     .heading = Abas e navegação
+pane-tabs-browsing-title2 = Abas e navegação
+    .title = Abas e navegação
 tabs-group-header2 =
     .label = Abas
 tabs-opening-heading =
@@ -1294,6 +1302,8 @@ account-placeholder2 =
     .description = Entre na sua conta e mantenha seus dados privativos, criptografados e acessíveis imediatamente onde quer que use o { -brand-short-name }.
 account-sync-section =
     .heading = Conta e sincronização
+pane-account-sync-title2 = Conta e sincronização
+    .title = Conta e sincronização
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1749,6 +1759,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Senhas e preenchimento automático
+    .title = Senhas e preenchimento automático
 preferences-passwords-autofill-header =
     .heading = Senhas e preenchimento automático
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2226,6 +2238,8 @@ permissions-header3 =
     .description = Gerencie quais sites podem acessar, controlar ou acionar.
 permissions-data-section =
     .heading = Permissões e dados
+pane-permissions-data-title2 = Permissões e dados
+    .title = Permissões e dados
 
 ## Privacy Section - Data Collection
 
