@@ -72,16 +72,14 @@ pane-about-firefox-title = عن { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = المظهر
     .title = { pane-appearance-title }
-pane-downloads-title = التنزيلات
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = الإتاحة
     .title = { pane-accessibility-title }
-pane-languages-title = اللغات
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = تجارب { -brand-short-name }
 category-experimental =
     .tooltiptext = تجارب { -brand-short-name }
@@ -2201,7 +2199,6 @@ permissions-header3 =
     .description = أدِر ما يمكن للمواقع الإلكترونية الوصول إليه أو التحكم فيه أو تفعيله.
 permissions-data-section =
     .heading = الأذونات والبيانات
-pane-permissions-data-title = الأذونات والبيانات
 
 ## Privacy Section - Data Collection
 
@@ -2604,6 +2601,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
