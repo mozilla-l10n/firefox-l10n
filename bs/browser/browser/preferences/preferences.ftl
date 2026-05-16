@@ -58,6 +58,12 @@ category-privacy =
 pane-sync-title3 = Sinhronizacija
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } eksperimenti
 category-experimental =
     .tooltiptext = { -brand-short-name } eksperimenti
@@ -71,6 +77,10 @@ pane-experimental-description3 = Isprobajte naše eksperimentalne funkcije! Oni 
 pane-experimental-reset =
     .label = Vrati zadane postavke
     .accesskey = R
+help-button-label2 = { -brand-short-name } podrška
+    .title = { -brand-short-name } podrška
+addons-button-label2 = Ekstenzije i teme
+    .title = Ekstenzije i teme
 help-button-label = { -brand-short-name } podrška
 addons-button-label = Ekstenzije i teme
 focus-search =
@@ -573,6 +583,15 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -642,6 +661,9 @@ browsing-cfr-recommendations-learn-more = Saznajte više
 browsing-group =
     .label = Surfanje
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Mrežne postavke
@@ -693,6 +715,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -918,6 +946,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1157,6 +1190,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznajte više
 forms-windows-sso-desc = Upravljajte računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u sistemskim postavkama
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1748,8 +1784,28 @@ preferences-doh-manage-exceptions =
     .label = Upravljaj izuzecima…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
