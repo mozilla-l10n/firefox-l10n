@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Non foi posíbel instalar o complemento desca
 addon-install-error-file-access = Non foi posíbel instalar { $addonName } porque non é posíbel que { -brand-short-name } modifique o ficheiro necesario.
 addon-install-error-not-signed = { -brand-short-name } evitou que este sitio instale un complemento sen comprobar.
 addon-install-error-invalid-domain = O complemento «{ $addonName }» non se pode instalar desde este lugar.
+addon-install-error-no-addon-name-file-access = Non se puido instalar o complemento porque { -brand-short-name } non pode modificar o arquivo precisado
 addon-local-install-error-network-failure = Non foi posíbel instalar este complemento por un erro no sistema de ficheiros.
 addon-local-install-error-incorrect-hash = Non foi posíbel instalar o complemento porque non coincide co complemento { -brand-short-name } esperado.
 addon-local-install-error-corrupt-file = Non foi posíbel instalar este complemento porque parece estar danado.
 addon-local-install-error-file-access = Non foi posíbel instalar { $addonName } porque non é posíbel que { -brand-short-name } modifique o ficheiro necesario.
 addon-local-install-error-not-signed = Non foi posíbel instalar este complemento porque non foi verificado.
+addon-local-install-no-addon-name-error-file-access = Non se puido instalar o complemento porque { -brand-short-name } non se pode modificar o arquivo precisado.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Non foi posíbel instalar { $addonName } porque non é compatíbel con { -brand-short-name } { $appVersion }.
