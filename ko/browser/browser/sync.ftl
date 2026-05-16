@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = 탭을 보내려면 동기화를 활성화하세요
 fxa-menu-send-to-mobile-connect-phone2 = 휴대폰 연결
 fxa-menu-send-to-mobile-device-missing2 = 사용자의 기기가 없나요?
+fxa-menu-send-to-mobile-turn-on-sync = 탭을 보내려면 동기화를 켜세요
+fxa-menu-send-to-mobile-connect-device = 탭을 보내려면 기기를 연결하세요
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -63,6 +65,10 @@ sync-setup-verify-heading = Sync에 가입하시겠습니까?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 다른 사용자가 이전에 이 컴퓨터에서 Sync에 로그인한 적이 있습니다. 로그인하면 이 브라우저의 북마크, 비밀번호 및 기타 설정이 { $email } 사용자와 병합됩니다.
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = 탭을 보내려면 로그인하세요
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
