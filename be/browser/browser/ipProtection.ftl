@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Далей
 ipprotection-feature-introduction-button-secondary-not-now = Не цяпер
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
 ipprotection-feature-introduction-button-secondary-remove = Выдаліць VPN з паліцы прылад
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Выдаліць VPN з паліцы прылад
 
 ## Site settings callout
 
