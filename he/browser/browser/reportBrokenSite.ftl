@@ -27,6 +27,10 @@ report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = הדפדפן אינו נתמך או חסום
 report-broken-site-panel-reason-other-moz-box-button =
     .label = משהו אחר
+report-broken-site-panel-instructions-other = נא לתאר את הבעיה בפירוט כדי שנוכל לחקור אותה.
+report-broken-site-panel-instructions-other-optional = נא לתאר את הבעיה בפירוט כדי שנוכל לחקור אותה. (אופציונלי)
+report-broken-site-panel-description2 =
+    .placeholder = מה קרה? מה ציפית שיקרה? נא לספק צעדים לשחזור הבעיה.
 report-broken-site-panel-send-more-info-button =
     .label = שליחת מידע נוסף
 report-broken-site-panel-intro = באפשרותך לסייע להפוך את { -brand-product-name } לטוב יותר עבור כולם. { -vendor-short-name } משתמש במידע שיישלח כדי לתקן בעיות באתרים.
@@ -63,6 +67,8 @@ report-broken-site-panel-button-cancel =
     .label = ביטול
 report-broken-site-panel-button-okay =
     .label = בסדר
+report-broken-site-panel-button-send-report =
+    .label = שליחת דיווח
 report-broken-site-panel-button-send =
     .label = שליחה
 report-broken-site-panel-report-sent-label = הדיווח שלך נשלח
@@ -71,6 +77,18 @@ report-broken-site-panel-report-sent-header =
     .title = הדיווח שלך נשלח
 report-broken-site-panel-report-sent-text = תודה שעזרת ל־{ -brand-product-name } להפוך את האינטרנט פתוח, נגיש וטוב יותר עבור כולם.
 report-broken-site-panel-invalid-url-label = נא להכניס כתובת חוקית
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] נא להכניס לפחות תו אחד.
+       *[other] נא להכניס לפחות { $minLength } תווים.
+    }
+report-broken-site-panel-screenshot-label =
+    .label = שליחת צילום מסך
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = שליחת רשימה של הפריטים שנחסמו על־ידי הגנת מעקב
+report-broken-site-panel-url-input-label =
+    .aria-label = כתובת האתר של הדף המדווח
 report-broken-site-panel-missing-reason-label = נא לבחור בסיבה
 report-broken-site-panel-blocked-trackers-label =
     .label = שליחת כתובות האתרים הנחסמים על־ידי הגנת המעקב

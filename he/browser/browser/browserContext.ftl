@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = יש להתחבר כדי לשלוח �
 main-context-menu-send-to-mobile-enable-sync2 = יש להפעיל סנכרון כדי לשלוח לשונית
 main-context-menu-send-to-mobile-connect-phone2 = חיבור לטלפון שלך
 main-context-menu-send-to-mobile-device-missing2 = לא רואה את המכשיר שלך?
+main-context-menu-send-to-mobile-sign-in-from-link = יש להתחבר כדי לשלוח קישור
+main-context-menu-send-to-mobile-sign-in-from-page = יש להתחבר כדי לשלוח דף
+main-context-menu-send-to-mobile-enable-sync3 = יש להפעיל את הסנכרון כדי לשלוח לשוניות
+main-context-menu-send-to-mobile-enable-sync-from-link = יש להפעיל את הסנכרון כדי לשלוח קישור
+main-context-menu-send-to-mobile-enable-sync-from-page = יש להפעיל את הסנכרון כדי לשלוח דף
+main-context-menu-send-to-mobile-connect-phone3 = יש לחבר מכשיר כדי לשלוח לשוניות
+main-context-menu-send-to-mobile-connect-phone-from-link = יש לחבר מכשיר כדי לשלוח קישור
+main-context-menu-send-to-mobile-connect-phone-from-page = יש לחבר מכשיר כדי לשלוח דף
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = יש להפעיל סנכרון כדי לשלוח לשונית

@@ -40,6 +40,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = יש להפעיל סנכרון כדי לשלוח לשונית
 fxa-menu-send-to-mobile-connect-phone2 = חיבור לטלפון שלך
 fxa-menu-send-to-mobile-device-missing2 = לא רואה את המכשיר שלך?
+fxa-menu-send-to-mobile-turn-on-sync = יש להפעיל את הסנכרון כדי לשלוח לשוניות
+fxa-menu-send-to-mobile-connect-device = יש לחבר מכשיר כדי לשלוח לשוניות
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -68,6 +70,10 @@ sync-setup-verify-heading = האם ברצונך להתחבר כדי לסנכרן
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = משתמש אחר כבר התחבר כדי לסנכרן ממחשב זה. התחברות תמזג את הסימניות, הססמאות ושאר ההגדרות של דפדפן זה עם { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = יש להתחבר כדי לשלוח לשוניות
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
