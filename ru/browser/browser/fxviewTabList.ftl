@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Включить звук вкладки
 fxviewtabrow-send-to-mobile-enable-sync2 = Включить синхронизацию для отправки вкладки
 fxviewtabrow-send-to-mobile-connect-phone2 = Подключите ваш телефон
+fxviewtabrow-send-to-mobile-connect-device = Подключить устройство, чтобы отправить вкладки
 fxviewtabrow-send-to-mobile-device-missing2 = Не видите ваше устройство?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Войдите, чтобы отправлять вкладки
+fxviewtabrow-send-to-mobile-turn-on-sync = Включить синхронизацию, чтобы отправить вкладки

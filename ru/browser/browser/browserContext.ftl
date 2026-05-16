@@ -305,6 +305,12 @@ main-context-menu-send-to-mobile-connect-phone2 = Подключите ваш т
 main-context-menu-send-to-mobile-device-missing2 = Не видите ваше устройство?
 main-context-menu-send-to-mobile-sign-in-from-link = Войдите, чтобы отправить ссылку
 main-context-menu-send-to-mobile-sign-in-from-page = Войдите, чтобы отправить страницу
+main-context-menu-send-to-mobile-enable-sync3 = Включить синхронизацию, чтобы отправить вкладки
+main-context-menu-send-to-mobile-enable-sync-from-link = Включить синхронизацию, чтобы отправить ссылку
+main-context-menu-send-to-mobile-enable-sync-from-page = Включить синхронизацию, чтобы отправить страницу
+main-context-menu-send-to-mobile-connect-phone3 = Подключить устройство, чтобы отправить вкладки
+main-context-menu-send-to-mobile-connect-phone-from-link = Подключить устройство, чтобы отправить ссылку
+main-context-menu-send-to-mobile-connect-phone-from-page = Подключить устройство, чтобы отправить страницу
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Включить синхронизацию для отправки вкладки

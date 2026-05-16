@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Domača stran
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Domača stran in zagon
 pane-search-title = Iskanje
 category-search =
     .tooltiptext = { pane-search-title }
