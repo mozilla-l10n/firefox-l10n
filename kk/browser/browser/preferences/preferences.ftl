@@ -72,16 +72,14 @@ pane-about-firefox-title = { -brand-short-name } туралы
     .title = { pane-about-firefox-title }
 pane-appearance-title = Сыртқы түрі
     .title = { pane-appearance-title }
-pane-downloads-title = Жүктемелер
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Қолжетімділік
     .title = { pane-accessibility-title }
-pane-languages-title = Тілдер
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
@@ -224,8 +222,6 @@ preferences-copy-profile-select = Профильді таңдау
 preferences-copy-profile-button = Көшіріп алу
 tabs-browsing-section =
     .heading = Беттер және шолу
-pane-tabs-browsing-title = Беттер және шолу
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Беттер
 tabs-opening-heading =
@@ -1294,7 +1290,6 @@ account-placeholder2 =
     .description = Жүйеге кіріп, деректеріңіздің жекелігін, шифрленуін және { -brand-short-name } бағдарламасын пайдаланатын кез келген жерде дереу қолжетімді болуын қамтамасыз етіңіз.
 account-sync-section =
     .heading = Тіркелгі және синхрондау
-pane-account-sync-title = Тіркелгі және синхрондау
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1750,9 +1745,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Парольдер және автотолтыру параметрлері
-pane-passwords-autofill-title = Парольдер және автотолтыру
 preferences-passwords-autofill-header =
     .heading = Парольдер және автотолтыру
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2230,7 +2222,6 @@ permissions-header3 =
     .description = Веб-сайттардың неге қол жеткізе алатынын, нені басқара алатынын немесе іске қоса алатынын басқару.
 permissions-data-section =
     .heading = Рұқсаттар мен деректер
-pane-permissions-data-title = Рұқсаттар мен деректер
 
 ## Privacy Section - Data Collection
 
@@ -2633,6 +2624,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Бас тарту
 preferences-ai-controls-block-confirmation-confirm =
     .label = Блоктау
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
