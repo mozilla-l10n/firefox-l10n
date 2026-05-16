@@ -70,13 +70,14 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } について
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = アクセシビリティ
     .title = { pane-accessibility-title }
-pane-languages-title = 言語
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = 実験的な機能
 category-experimental =
     .tooltiptext = { -brand-short-name } の実験的な機能
@@ -93,6 +94,8 @@ pane-experimental-description3 = 実験的な機能を試してみてくださ�
 pane-experimental-reset =
     .label = デフォルトに戻す
     .accesskey = R
+help-button-label2 = { -brand-short-name } サポート
+    .title = { -brand-short-name } サポート
 help-button-label = { -brand-short-name } サポート
 addons-button-label = 拡張機能とテーマ
 focus-search =
@@ -2538,6 +2541,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = キャンセル
 preferences-ai-controls-block-confirmation-confirm =
     .label = ブロック
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
