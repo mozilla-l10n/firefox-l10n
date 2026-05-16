@@ -65,6 +65,8 @@ pane-privacy-title = Preifatrwydd a Diogelwch
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
+pane-ai-controls-title2 = Rheoli AI
+    .title = Rheoli AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Rheoli AI
@@ -74,10 +76,14 @@ pane-about-firefox-title = Ynghylch { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Gwedd
     .title = { pane-appearance-title }
+pane-downloads-title2 = Llwythi
+    .title = Llwythi
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Hygyrchedd
     .title = { pane-accessibility-title }
+pane-languages-title2 = Iaith
+    .title = Iaith
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Dewis proffil
 preferences-copy-profile-button = Copïo
 tabs-browsing-section =
     .heading = Tabiau a phori
+pane-tabs-browsing-title2 = Tabiau a phori
+    .title = Tabiau a phori
 tabs-group-header2 =
     .label = Tabiau
 tabs-opening-heading =
@@ -1310,6 +1318,8 @@ account-placeholder2 =
     .description = Mewngofnodwch a  chadw'ch data yn breifat, wedi'i amgryptio ac ar gael yn syth lle bynnag fyddwch yn defnyddio { -brand-short-name }.
 account-sync-section =
     .heading = Cyfrif a chydweddu
+pane-account-sync-title2 = Cyfrif a chydweddu
+    .title = Cyfrif a chydweddu
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1765,6 +1775,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Cyfrineiriau ac awtolenwi
+    .title = Cyfrineiriau ac awtolenwi
 preferences-passwords-autofill-header =
     .heading = Cyfrineiriau ac awtolenwi
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2242,6 +2254,8 @@ permissions-header3 =
     .description = Rheoli beth mae gwefannau'n gallu cael mynediad iddo, rheoli neu gychwyn.
 permissions-data-section =
     .heading = Caniatâd a data
+pane-permissions-data-title2 = Caniatâd a data
+    .title = Caniatâd a data
 
 ## Privacy Section - Data Collection
 
