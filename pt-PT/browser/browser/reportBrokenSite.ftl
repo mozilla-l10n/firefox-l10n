@@ -56,5 +56,7 @@ report-broken-site-panel-blocked-trackers-label =
 report-broken-site-panel-blocked-trackers-description = A proteção melhorada contra a monitorização pode bloquear rastreadores e scripts que alguns sites precisam para funcionar corretamente.
 report-broken-site-panel-preview-button =
     .label = Pré-visualizar relatório
+report-broken-site-panel-preview-header2 =
+    .title = Pré-visualizar relatório
 report-broken-site-panel-preview-header =
     .label = Pré-visualizar relatório
