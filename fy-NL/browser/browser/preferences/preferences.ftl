@@ -51,6 +51,8 @@ pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Startside
+pane-search-title2 = Sykje
+    .title = Sykje
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Sykje
@@ -72,16 +74,14 @@ pane-about-firefox-title = Oer { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Uterlik
     .title = { pane-appearance-title }
-pane-downloads-title = Downloads
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Tagonklikheid
     .title = { pane-accessibility-title }
-pane-languages-title = Talen
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-eksperiminten
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiminten
@@ -98,6 +98,10 @@ pane-experimental-description3 = Probearje ús eksperimintele funksjes! Se binne
 pane-experimental-reset =
     .label = Standertwearden opnij ynstelle
     .accesskey = y
+help-button-label2 = { -brand-short-name }-stipe
+    .title = { -brand-short-name }-stipe
+addons-button-label2 = Utwreidingen & Tema’s
+    .title = Utwreidingen & Tema’s
 help-button-label = { -brand-short-name }-stipe
 addons-button-label = Utwreidingen & Tema’s
 focus-search =
@@ -224,8 +228,6 @@ preferences-copy-profile-select = Profyl selektearje
 preferences-copy-profile-button = Kopiearje
 tabs-browsing-section =
     .heading = Ljepblêden en navigearje
-pane-tabs-browsing-title = Ljepblêden en navigearje
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Ljepblêden
 tabs-opening-heading =
@@ -1294,7 +1296,6 @@ account-placeholder2 =
     .description = Meld jo oan en hâld jo gegevens privee, fersifere en daliks tagonklik, oeral wêr’t jo { -brand-short-name } brûke.
 account-sync-section =
     .heading = Accoant en syngronisaasje
-pane-account-sync-title = Account en syngronisaasje
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1750,9 +1751,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Ynstellingen foar wachtwurden en automatysk ynfolje
-pane-passwords-autofill-title = Wachtwurden en automatysk ynfolje
 preferences-passwords-autofill-header =
     .heading = Wachtwurden en automatysk ynfolje
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2230,7 +2228,6 @@ permissions-header3 =
     .description = Beheare hokker websites benaderje, oanstjoere of starte kinne.
 permissions-data-section =
     .heading = Tastimmingen en gegevens
-pane-permissions-data-title = Tastimmingen en gegevens
 
 ## Privacy Section - Data Collection
 
@@ -2633,6 +2630,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulearje
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokkearje
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
