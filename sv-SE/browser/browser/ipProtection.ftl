@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Nästa
 ipprotection-feature-introduction-button-secondary-not-now = Inte nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tack
 ipprotection-feature-introduction-button-secondary-remove = Ta bort VPN från verktygsfältet
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Ta bort VPN från verktygsfältet
 
 ## Site settings callout
 
