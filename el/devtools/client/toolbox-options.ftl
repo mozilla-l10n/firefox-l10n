@@ -38,6 +38,8 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Κόψιμο ιδιοτήτων DOM
 options-collapse-attrs-tooltip =
     .title = Κόψιμο μεγάλων ιδιοτήτων στην επιθεώρηση
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Εμφάνιση σχολίων
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Κάντε κλικ και σύρετε για να επεξεργαστείτε τις τιμές μεγέθους
 options-inspector-draggable-properties-tooltip =

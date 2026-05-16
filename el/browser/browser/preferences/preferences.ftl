@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Αρχική
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Αρχική σελίδα και εκκίνηση
 pane-search-title = Αναζήτηση
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2572,6 +2573,8 @@ related-settings-accessibility-link =
     .label = Προσαρμογή ρυθμίσεων ζουμ και γραμματοσειράς στην ενότητα «Προσβασιμότητα»
 related-settings-home-link =
     .label = Προσαρμογή { -firefox-home-brand-name(case: "gen", capitalization: "upper") }
+related-settings-tabs-browsing-link =
+    .label = Προσαρμογή διάταξης προγράμματος περιήγησης
 
 ## AI controls page
 

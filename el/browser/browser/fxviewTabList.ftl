@@ -80,4 +80,5 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Άρση σίγασης καρτέλας
 fxviewtabrow-send-to-mobile-enable-sync2 = Ενεργοποιήστε τον συγχρονισμό για να στείλετε μια καρτέλα
 fxviewtabrow-send-to-mobile-connect-phone2 = Συνδέστε το τηλέφωνό σας
+fxviewtabrow-send-to-mobile-connect-device = Συνδέστε μια συσκευή για αποστολή καρτελών
 fxviewtabrow-send-to-mobile-device-missing2 = Δεν βλέπετε τη συσκευή σας;

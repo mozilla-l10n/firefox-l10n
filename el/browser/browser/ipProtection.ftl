@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Επιλέξτε διαφορετική τοποθεσία για περιήγηση.
 ipprotecion-locations-subview-recommended-label = Προτείνεται
 ipprotection-locations-subview-recommended-description = Βρίσκει την πιο γρήγορη τοποθεσία
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Μη διαθέσιμη
 ipprotection-locations-subview-promo =
     .heading = Περαιτέρω προστασία με το { -mozilla-vpn-brand-name }
     .message = Επιλέξτε ανάμεσα σε 300+ τοποθεσίες και προστατέψτε όλες τις εφαρμογές σας σε έως και 5 συσκευές.
