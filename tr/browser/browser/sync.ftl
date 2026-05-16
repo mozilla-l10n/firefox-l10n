@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi etkinleştirin
 fxa-menu-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
 fxa-menu-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
+fxa-menu-send-to-mobile-turn-on-sync = Sekme göndermek için eşitlemeyi açın
+fxa-menu-send-to-mobile-connect-device = Sekme göndermek için bir cihaz bağlayın
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -69,6 +71,10 @@ sync-setup-verify-heading = Eşitleme için giriş yapmak istediğinizden emin m
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Bu bilgisayarda farklı bir kullanıcı daha önce giriş yaparak eşitleme yaptı. Giriş yaparsanız bu tarayıcının yer imleri, parolaları ve diğer ayarları { $email } hesabıyla birleştirilecektir
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Sekme göndermek için giriş yapın
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

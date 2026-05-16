@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = DOM özniteliklerini kısalt
 options-collapse-attrs-tooltip =
     .title = Denetçideki uzun öznitelikleri kısaltır
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Yorumları göster
+options-show-comments-tooltip =
+    .title = Denetçide yorum düğümlerini göster
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Boyut değerlerini düzenlemek için tıklayıp sürükleyin
 options-inspector-draggable-properties-tooltip =
