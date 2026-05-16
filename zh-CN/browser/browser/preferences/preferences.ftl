@@ -72,16 +72,14 @@ pane-about-firefox-title = 关于 { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = 外观
     .title = { pane-appearance-title }
-pane-downloads-title = 下载
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = 无障碍
     .title = { pane-accessibility-title }
-pane-languages-title = 语言
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } 实验
 category-experimental =
     .tooltiptext = { -brand-short-name } 实验
@@ -98,6 +96,8 @@ pane-experimental-description3 = 欢迎试用我们的实验性功能！这些�
 pane-experimental-reset =
     .label = 恢复默认设置
     .accesskey = R
+addons-button-label2 = 扩展和主题
+    .title = 扩展和主题
 help-button-label = { -brand-short-name } 帮助
 addons-button-label = 扩展和主题
 focus-search =
@@ -1274,7 +1274,6 @@ account-placeholder2 =
     .description = 登录以加密保护数据、确保数据私密，并可在使用 { -brand-short-name } 的各设备上触手可得。
 account-sync-section =
     .heading = 账户与同步
-pane-account-sync-title = 账户与同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2205,7 +2204,6 @@ permissions-header3 =
     .description = 管理网站可以访问、控制或触发的项目。
 permissions-data-section =
     .heading = 权限与数据
-pane-permissions-data-title = 权限与数据
 
 ## Privacy Section - Data Collection
 
@@ -2608,6 +2606,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = 取消
 preferences-ai-controls-block-confirmation-confirm =
     .label = 屏蔽
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
