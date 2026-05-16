@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Vezérlők elrejtése
     .accesskey = V
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Teljes képernyő
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Küldés mobilra
     .accesskey = m
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Jelentkezzen be a lapok küldéséhez
 main-context-menu-send-to-mobile-enable-sync2 = Lap küldéséhez engedélyezze a szinkronizálást
 main-context-menu-send-to-mobile-connect-phone2 = Csatlakoztassa a telefonját

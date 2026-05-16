@@ -143,7 +143,7 @@ main-context-menu-media-hide-controls =
     .label = નિયંત્રણો છુપાવો
     .accesskey = C
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = સંપૂર્ણ સ્ક્રીન

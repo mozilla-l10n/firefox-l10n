@@ -37,7 +37,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } бетті мобильді құрылғыға жіберу
            *[other] { $tabCount } бетті мобильді құрылғыға жіберу
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Бетті жіберу үшін синхрондауды іске қосыңыз
 fxa-menu-send-to-mobile-connect-phone2 = Телефоныңызды байланыстырыңыз
 fxa-menu-send-to-mobile-device-missing2 = Құрылғыңыз көрінбей ме?

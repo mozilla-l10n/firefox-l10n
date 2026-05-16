@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Раз-цішыць картку
 fxviewtabrow-options-menu-button =
     .title = Варыянты для { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Сцішыць картку
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Раз-цішыць картку
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Уключыць сінхранізацыю для адпраўкі картак
 fxviewtabrow-send-to-mobile-connect-phone2 = Падключыце свой тэлефон
 fxviewtabrow-send-to-mobile-device-missing2 = Не бачыце вашай прылады?

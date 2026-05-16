@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Celar le controlos
     .accesskey = C
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Plen schermo
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Inviar a un apparato mobile
     .accesskey = n
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Accede pro inviar schedas
 main-context-menu-send-to-mobile-enable-sync2 = Activar synchronisation pro inviar al cheda
 main-context-menu-send-to-mobile-connect-phone2 = Connecte tu telephono

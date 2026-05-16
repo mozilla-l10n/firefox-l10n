@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Άρση σίγασης καρτέλας
 fxviewtabrow-options-menu-button =
     .title = Επιλογές για «{ $tabTitle }»
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Σίγαση καρτέλας
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Άρση σίγασης καρτέλας
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Ενεργοποιήστε τον συγχρονισμό για να στείλετε μια καρτέλα
 fxviewtabrow-send-to-mobile-connect-phone2 = Συνδέστε το τηλέφωνό σας
 fxviewtabrow-send-to-mobile-device-missing2 = Δεν βλέπετε τη συσκευή σας;

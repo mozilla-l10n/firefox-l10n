@@ -40,7 +40,6 @@ fxa-menu-send-to-mobile =
             [few] Trimite { $tabCount } file către mobil
            *[other] Trimite { $tabCount } de file către mobil
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Activează sincronizarea ca să trimiți o filă
 fxa-menu-send-to-mobile-connect-phone2 = Conectează-te la telefon
 fxa-menu-send-to-mobile-device-missing2 = Nu vezi dispozitivul?

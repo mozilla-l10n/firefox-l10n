@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Réactiver le son de l’onglet
 fxviewtabrow-options-menu-button =
     .title = Options pour { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Couper le son de l’onglet
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Réactiver le son de l’onglet
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Activez la synchronisation pour envoyer un onglet
 fxviewtabrow-send-to-mobile-connect-phone2 = Connectez votre téléphone
 fxviewtabrow-send-to-mobile-device-missing2 = Vous ne voyez pas votre appareil ?

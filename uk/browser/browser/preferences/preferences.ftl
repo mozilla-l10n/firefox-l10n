@@ -609,12 +609,6 @@ update-in-progress-ok-button = &Відхилити
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
 
-## About Firefox
-
-
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -696,9 +690,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Докладніше
 browsing-group =
     .label = Перегляд сайтів
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1054,11 +1045,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -1323,9 +1309,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Докладніше
 forms-windows-sso-desc = Керування обліковими записами в налаштуваннях пристрою
 windows-passkey-settings-label = Керувати ключами доступу в налаштуваннях системи
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2007,26 +1990,8 @@ preferences-doh-manage-exceptions =
     .label = Керувати винятками…
     .accesskey = н
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Stummschaltung für Tab aufheben
 fxviewtabrow-options-menu-button =
     .title = Optionen für { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Tab stummschalten
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Stummschaltung für Tab aufheben
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Synchronisation zum Senden eines Tabs aktivieren
 fxviewtabrow-send-to-mobile-connect-phone2 = Verbinden Sie Ihr Telefon
 fxviewtabrow-send-to-mobile-device-missing2 = Sie sehen Ihr Gerät nicht?

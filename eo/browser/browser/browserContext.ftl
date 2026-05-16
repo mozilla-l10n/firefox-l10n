@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Kaŝi regilojn
     .accesskey = K
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Plenekrane
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Sendi al poŝaparato
     .accesskey = p
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Komencu seancon por sendi langetojn
 main-context-menu-send-to-mobile-enable-sync2 = Permesi al spegulado sendi langeton
 main-context-menu-send-to-mobile-connect-phone2 = Konektu vian telefonon

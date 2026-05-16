@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Ukryj elementy sterujące
     .accesskey = e
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Tryb pełnoekranowy
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Wyślij na telefon
     .accesskey = W
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Zaloguj się, aby wysyłać karty
 main-context-menu-send-to-mobile-enable-sync2 = Włącz synchronizację, aby wysłać kartę
 main-context-menu-send-to-mobile-connect-phone2 = Połącz swój telefon

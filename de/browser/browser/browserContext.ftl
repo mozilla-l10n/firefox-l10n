@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Steuerung ausblenden
     .accesskey = S
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Vollbild
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = An Mobilgerät senden
     .accesskey = n
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Melden Sie sich an, um Tabs zu versenden
 main-context-menu-send-to-mobile-enable-sync2 = Synchronisation zum Senden eines Tabs aktivieren
 main-context-menu-send-to-mobile-connect-phone2 = Verbinden Sie Ihr Telefon

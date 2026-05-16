@@ -38,7 +38,6 @@ fxa-menu-send-to-mobile =
             [one] Emondo { $tabCount } tendayke pumbyrýpe
            *[other] Emondo { $tabCount } tendaykeita pumbyrýpe
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
 fxa-menu-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 fxa-menu-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?

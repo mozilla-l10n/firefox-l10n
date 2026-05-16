@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Malsilentigi langeton
 fxviewtabrow-options-menu-button =
     .title = Elektebloj por { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Silentigi langeton
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Malsilentigi langeton
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Permesi al spegulado sendi langeton
 fxviewtabrow-send-to-mobile-connect-phone2 = Konektu vian telefonon
 fxviewtabrow-send-to-mobile-device-missing2 = Ĉu vi ne vidas vian aparaton?

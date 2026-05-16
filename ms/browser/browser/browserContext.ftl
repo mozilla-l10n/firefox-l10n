@@ -140,7 +140,7 @@ main-context-menu-media-hide-controls =
     .label = Sorok Kawalan
     .accesskey = S
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Skrin Penuh

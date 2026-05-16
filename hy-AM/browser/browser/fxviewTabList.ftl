@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Ապալռեցնել ներդիրը
 fxviewtabrow-options-menu-button =
     .title = Ընտրանքներ { $tabTitle }-ի համար
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Լռեցնել ներդիրը
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ապալռեցնել ներդիրը
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Միացրեք համաժամեցումը՝ ներդիր ուղարկելու համար
 fxviewtabrow-send-to-mobile-connect-phone2 = Միացրեք ձեր հեռախոսը
 fxviewtabrow-send-to-mobile-device-missing2 = Չե՞ք տեսնում ձեր սարքը։

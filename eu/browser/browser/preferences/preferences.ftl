@@ -1635,9 +1635,6 @@ forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.

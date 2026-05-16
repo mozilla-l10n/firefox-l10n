@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Redă sonorul filei
 fxviewtabrow-options-menu-button =
     .title = Opțiuni pentru { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Dezactivează sonorul filei
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Redă sonorul filei
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Activează sincronizarea ca să trimiți o filă
 fxviewtabrow-send-to-mobile-connect-phone2 = Conectează-te la telefon
 fxviewtabrow-send-to-mobile-device-missing2 = Nu vezi dispozitivul?

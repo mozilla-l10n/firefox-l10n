@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Dad-dewi Tab
 fxviewtabrow-options-menu-button =
     .title = Dewisiadau ar gyfer { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Tewi tab
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Dad-dewi tab
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
 fxviewtabrow-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
 fxviewtabrow-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?

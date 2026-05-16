@@ -38,7 +38,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } lap küldése mobilra
            *[other] { $tabCount } lap küldése mobilra
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Lap küldéséhez engedélyezze a szinkronizálást
 fxa-menu-send-to-mobile-connect-phone2 = Csatlakoztassa a telefonját
 fxa-menu-send-to-mobile-device-missing2 = Nem látja az eszközét?

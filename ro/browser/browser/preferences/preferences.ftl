@@ -2494,9 +2494,6 @@ desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

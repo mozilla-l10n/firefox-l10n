@@ -27,7 +27,6 @@ fxa-menu-send-to-device =
             [1] Send til enhed
            *[other] Send { $tabCount } faneblade til enhed
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Aktiver synkronisering for at sende et faneblad
 fxa-menu-send-to-mobile-connect-phone2 = Opret forbindelse til din telefon
 fxa-menu-send-to-mobile-device-missing2 = Kan du ikke se din enhed?

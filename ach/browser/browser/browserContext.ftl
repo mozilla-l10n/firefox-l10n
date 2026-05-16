@@ -159,7 +159,7 @@ main-context-menu-media-hide-controls =
     .label = Kan kit me tic kwede
     .accesskey = k
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Wang komputa ma opong

@@ -137,7 +137,7 @@ main-context-menu-media-hide-controls =
     .label = दबथायनायखौ दोनथोमा
     .accesskey = C
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = आबुं स्क्रिन

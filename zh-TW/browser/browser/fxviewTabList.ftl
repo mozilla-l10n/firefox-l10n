@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = 取消分頁靜音
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } 的選項
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = 分頁靜音
 fxviewtabrow-unmute-tab-button-no-context =
     .title = 取消分頁靜音
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = 開啟同步功能即可傳送分頁
 fxviewtabrow-send-to-mobile-connect-phone2 = 連結您的手機
 fxviewtabrow-send-to-mobile-device-missing2 = 沒看到您的裝置嗎？

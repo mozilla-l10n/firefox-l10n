@@ -68,7 +68,7 @@ fxviewtabrow-unmute-tab = Lõpeta kaardi vaigistus
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } valikud
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Vaigista kaardi heli

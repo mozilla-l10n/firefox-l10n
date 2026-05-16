@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Non plus silentiar le scheda
 fxviewtabrow-options-menu-button =
     .title = Optiones pro { $tabTitle }
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Silentiar scheda
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Non plus silentiar scheda
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Activar synchronisation pro inviar al cheda
 fxviewtabrow-send-to-mobile-connect-phone2 = Connecte tu telephono
 fxviewtabrow-send-to-mobile-device-missing2 = Non vide tu tu apparato?

@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Dölj kontroller
     .accesskey = k
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Helskärm
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Skicka till mobil
     .accesskey = S
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Logga in för att skicka flikar
 main-context-menu-send-to-mobile-enable-sync2 = Aktivera synkronisering för att skicka en flik
 main-context-menu-send-to-mobile-connect-phone2 = Anslut din telefon

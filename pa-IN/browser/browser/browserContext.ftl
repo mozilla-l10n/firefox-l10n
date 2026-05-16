@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = ਕੰਟਰੋਲਾਂ ਨੂੰ ਓਹਲੇ ਕਰੋ
     .accesskey = C
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = ਪੂਰੀ ਸਕਰੀਨ
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = ਮੋਬਾਈਲ ਉੱਤੇ ਭੇਜੋ
     .accesskey = n
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = ਟੈਬਾਂ ਭੇਜਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 main-context-menu-send-to-mobile-enable-sync2 = ਟੈਬ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 main-context-menu-send-to-mobile-connect-phone2 = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰੋ

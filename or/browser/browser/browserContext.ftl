@@ -153,7 +153,7 @@ main-context-menu-media-hide-controls =
     .label = ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକୁ ଲୁଚାନ୍ତୁ
     .accesskey = C
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା

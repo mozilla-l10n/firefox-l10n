@@ -215,7 +215,7 @@ main-context-menu-media-hide-controls =
     .label = നിയന്ത്രണങ്ങള്‍ അദൃശ്യമാക്കുക
     .accesskey = C
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍

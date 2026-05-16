@@ -40,7 +40,6 @@ fxa-menu-send-to-mobile =
             [few] Pošalji { $tabCount } kartice na mobitel
            *[other] Pošalji { $tabCount } kartica na mobitel
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Aktiviraj sinkronizaciju za slanje kartice
 fxa-menu-send-to-mobile-connect-phone2 = Poveži svoj mobitel
 fxa-menu-send-to-mobile-device-missing2 = Ne vidiš svoj uređaj?

@@ -218,7 +218,7 @@ main-context-menu-media-hide-controls =
     .label = Kuzhat ar reolerezhioù
     .accesskey = u
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Skramm a-bezh

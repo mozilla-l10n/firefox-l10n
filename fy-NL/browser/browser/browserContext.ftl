@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Knoppen ferstopje
     .accesskey = F
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Folslein skerm
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Nei Mobyl ferstjoere
     .accesskey = s
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Meld jo oan om ljepblêden te ferstjoeren
 main-context-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
 main-context-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine

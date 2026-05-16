@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Басқару батырмаларын көрсету
     .accesskey = Б
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Толық экран режимі
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Мобильді құрылғыға жіберу
     .accesskey = ж
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Беттерді жіберу үшін жүйеге кіріңіз
 main-context-menu-send-to-mobile-enable-sync2 = Бетті жіберу үшін синхрондауды іске қосыңыз
 main-context-menu-send-to-mobile-connect-phone2 = Телефоныңызды байланыстырыңыз

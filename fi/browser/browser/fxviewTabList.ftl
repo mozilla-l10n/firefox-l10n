@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Palauta ääni
 fxviewtabrow-options-menu-button =
     .title = Välilehden { $tabTitle } valinnat
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Vaimenna välilehti
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Palauta ääni
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Ota synkronointi käyttöön lähettääksesi välilehden
 fxviewtabrow-send-to-mobile-connect-phone2 = Yhdistä puhelimesi
 fxviewtabrow-send-to-mobile-device-missing2 = Etkö näe laitettasi?

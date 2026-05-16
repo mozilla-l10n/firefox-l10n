@@ -38,7 +38,6 @@ fxa-menu-send-to-mobile =
             [few] Wyślij { $tabCount } karty na telefon
            *[many] Wyślij { $tabCount } kart na telefon
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = Włącz synchronizację, aby wysłać kartę
 fxa-menu-send-to-mobile-connect-phone2 = Połącz swój telefon
 fxa-menu-send-to-mobile-device-missing2 = Nie ma tutaj Twojego urządzenia?

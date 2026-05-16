@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = Сакриј контроле
     .accesskey = к
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Режим целог екрана
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Пошаљи на мобилни
     .accesskey = н
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = Пријави се за слање језичака
 main-context-menu-send-to-mobile-enable-sync2 = Омогућите усклађивање да бисте послали језичак
 main-context-menu-send-to-mobile-connect-phone2 = Повежите свој телефон

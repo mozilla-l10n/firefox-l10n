@@ -70,7 +70,7 @@ main-context-menu-media-loop =
     .label = Kitsa tuku
     .accesskey = L
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-image-copy =
     .label = Ndatava tutu

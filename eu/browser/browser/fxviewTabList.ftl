@@ -72,13 +72,12 @@ fxviewtabrow-unmute-tab = Ez mututu fitxa
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } fitxarako aukerak
 
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Mututu fitxa
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ez mututu fitxa
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 fxviewtabrow-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 fxviewtabrow-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?

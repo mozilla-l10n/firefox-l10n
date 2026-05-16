@@ -36,7 +36,6 @@ fxa-menu-send-to-mobile =
             [1] ส่งไปยังมือถือ
            *[other] ส่ง { $tabCount } แท็บไปยังมือถือ
         }
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync2 = เปิดใช้งานซิงค์เพื่อส่งแท็บ
 fxa-menu-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ
 fxa-menu-send-to-mobile-device-missing2 = ไม่เห็นอุปกรณ์ของคุณ?

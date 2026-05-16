@@ -221,7 +221,7 @@ main-context-menu-media-hide-controls =
     .label = ซ่อนปุ่มควบคุม
     .accesskey = ค
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = เต็มหน้าจอ
@@ -299,7 +299,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = ส่งไปยังมือถือ
     .accesskey = ม
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-sign-in = ลงชื่อเข้าเพื่อส่งแท็บ
 main-context-menu-send-to-mobile-enable-sync2 = เปิดใช้งานซิงค์เพื่อส่งแท็บ
 main-context-menu-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ

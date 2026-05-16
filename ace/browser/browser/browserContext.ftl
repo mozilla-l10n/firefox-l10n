@@ -48,7 +48,7 @@ main-context-menu-save-link =
     .label = Keubah Peunawôt Seubagoë…
     .accesskey = k
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Peunoh Layeuë

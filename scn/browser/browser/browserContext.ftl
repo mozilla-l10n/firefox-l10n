@@ -137,7 +137,7 @@ main-context-menu-media-loop =
     .label = Ripeti
     .accesskey = R
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-image-reload =
     .label = Càrrica arrè mmàggini
