@@ -96,6 +96,10 @@ pane-experimental-description3 = Hãy dùng thử các tính năng thử nghiệ
 pane-experimental-reset =
     .label = Khôi phục về mặc định
     .accesskey = R
+help-button-label2 = Hỗ trợ { -brand-short-name }
+    .title = Hỗ trợ { -brand-short-name }
+addons-button-label2 = Tiện ích mở rộng & chủ đề
+    .title = Tiện ích mở rộng & chủ đề
 help-button-label = Hỗ trợ { -brand-short-name }
 addons-button-label = Tiện ích mở rộng & chủ đề
 focus-search =
@@ -2206,6 +2210,8 @@ permissions-header3 =
     .description = Quản lý trang web nào có thể truy cập, kiểm soát hoặc kích hoạt.
 permissions-data-section =
     .heading = Quyền hạn và dữ liệu
+pane-permissions-data-title2 = Quyền hạn và dữ liệu
+    .title = Quyền hạn và dữ liệu
 
 ## Privacy Section - Data Collection
 
