@@ -19,9 +19,34 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } ম’বাইল ডাউনল’ড কৰিবলৈ QR ক’ড
 more-from-moz-button-mozilla-vpn-2 = VPN লাভ কৰক
 more-from-moz-learn-more-link = অধিক জানক
+more-from-moz-title2 = { -vendor-short-name }-ৰ তৰফৰ পৰা অধিক
+    .title = { -vendor-short-name }-ৰ তৰফৰ পৰা অধিক
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = বিনামূলীয়া ইমেইল মাস্কিঙৰ সহায়ত আপোনাৰ ইনবক্স আৰু আপোনাৰ পৰিচয় সুৰক্ষিত কৰক।
 more-from-moz-firefox-relay-button = { -relay-brand-short-name } লাভ কৰক
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+

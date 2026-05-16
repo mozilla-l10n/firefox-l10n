@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
 more-from-moz-button-mozilla-vpn-2 = Získať VPN
 more-from-moz-learn-more-link = Ďalšie informácie
+more-from-moz-title2 = Ďalšie produkty { -vendor-short-name(case: "gen") }
+    .title = Ďalšie produkty { -vendor-short-name(case: "gen") }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

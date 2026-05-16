@@ -31,6 +31,10 @@ pane-general-title = Coitcheann
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Dhachaigh
+pane-search-title2 = Lorg
+    .title = Lorg
+pane-privacy-title3 = Prìobhaideachd ⁊ tèarainteachd
+    .title = Prìobhaideachd ⁊ tèarainteachd
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Lorg
@@ -45,6 +49,12 @@ category-privacy =
 pane-sync-title3 = Sioncronachadh
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Deuchainn air { -brand-short-name }
 category-experimental =
     .tooltiptext = Deuchainn air { -brand-short-name }
@@ -57,6 +67,10 @@ settings-category-labs =
 pane-experimental-reset =
     .label = Aisig na bun-roghainnean
     .accesskey = r
+help-button-label2 = Taic le { -brand-short-name }
+    .title = Taic le { -brand-short-name }
+addons-button-label2 = Leudachain ⁊ ùrlaran
+    .title = Leudachain ⁊ ùrlaran
 help-button-label = Taic le { -brand-short-name }
 addons-button-label = Leudachain ⁊ ùrlaran
 focus-search =
@@ -492,6 +506,15 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -553,6 +576,9 @@ browsing-cfr-recommendations-learn-more = Barrachd fiosrachaidh
 browsing-group =
     .label = A' brabhsadh
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Roghainnean an lìonraidh
@@ -604,6 +630,12 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -798,6 +830,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -987,6 +1024,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Barrachd fiosrachaidh
 forms-windows-sso-desc = Stiùirich na cunntasan ann an roghainnean an uidheim agad
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -997,6 +1037,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1315,6 +1358,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Seall obair-rannsachaidh { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1421,8 +1467,28 @@ preferences-doh-manage-exceptions =
     .label = Stiùirich na h-eisgeachdan…
     .accesskey = S
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deasg
 downloads-folder-name = Luchdaidhean a-nuas
 choose-download-folder-title = Tagh pasgan nan luchdaidhan a-nuas:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

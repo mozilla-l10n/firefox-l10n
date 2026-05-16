@@ -20,6 +20,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Código QR para transferir o { -brand-product-name } para dispositivos móveis
 more-from-moz-button-mozilla-vpn-2 = Obter VPN
 more-from-moz-learn-more-link = Saiba mais
+more-from-moz-title2 = Mais de { -vendor-short-name }
+    .title = Mais de { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -46,3 +48,17 @@ more-from-moz-solo-title-2 = Criador de sites com IA { -solo-ai-brand-name }
 more-from-moz-mdn-description = Aprenda programação web com guias e referências completas e gratuitas.
 more-from-moz-mdn-button = Aprender programação web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+

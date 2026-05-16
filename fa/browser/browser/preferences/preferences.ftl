@@ -31,6 +31,10 @@ pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = خانه
+pane-search-title2 = جست‌وجو
+    .title = جست‌وجو
+pane-privacy-title3 = حریم‌خصوصی و امنیت
+    .title = حریم‌خصوصی و امنیت
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = جست‌وجو
@@ -45,6 +49,12 @@ category-privacy =
 pane-sync-title3 = همگام‌سازی
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = آزمایش‌های { -brand-short-name }
 category-experimental =
     .tooltiptext = آزمایش‌های { -brand-short-name }
@@ -57,6 +67,10 @@ settings-category-labs =
 pane-experimental-reset =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
+help-button-label2 = پشتیبانی { -brand-short-name }
+    .title = پشتیبانی { -brand-short-name }
+addons-button-label2 = افزونه‌ها و پوسته‌ها
+    .title = افزونه‌ها و پوسته‌ها
 help-button-label = پشتیبانی { -brand-short-name }
 addons-button-label = افزونه‌ها و پوسته‌ها
 focus-search =
@@ -428,6 +442,15 @@ update-in-progress-ok-button = &نادیده گرفتن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ادامه
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارایی
@@ -486,6 +509,9 @@ browsing-cfr-recommendations-learn-more = بیشتر بدانید
 browsing-group =
     .label = مرور
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = تنظیمات شبکه
@@ -535,6 +561,12 @@ use-current-pages =
 choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -719,6 +751,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } تایید نشده است.
 sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -907,6 +944,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = بیشتر بدانید
 forms-windows-sso-desc = حساب‌ها را در تنظیمات دستگاه خود مدیریت کنید
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -917,6 +957,9 @@ primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1011,6 +1054,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = کلوچک‌ها و داده‌های پایگاه
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1205,6 +1254,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = نمایش studyهای { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1262,8 +1314,28 @@ preferences-doh-description = سامانهٔ نام دامنه (ساناد) رو
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = فراهم‌کننده: { $name }
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = رومیزی
 downloads-folder-name = بارگیری‌ها
 choose-download-folder-title = انتخاب پوشهٔ بارگیری:‏
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = التالي
 ipprotection-feature-introduction-button-secondary-not-now = ليس الآن
 ipprotection-feature-introduction-button-secondary-no-thanks = لا، شكرًا
 ipprotection-feature-introduction-button-secondary-remove = أزِل الـ VPN من شريط الأدوات
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = أزِل الـ VPN من شريط الأدوات
 
 ## Site settings callout
 

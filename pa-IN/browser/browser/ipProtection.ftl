@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = ਅੱਗੇ
 ipprotection-feature-introduction-button-secondary-not-now = ਹੁਣੇ ਨਹੀਂ
 ipprotection-feature-introduction-button-secondary-no-thanks = ਨਹੀਂ, ਧੰਨਵਾਦ
 ipprotection-feature-introduction-button-secondary-remove = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
 
 ## Site settings callout
 

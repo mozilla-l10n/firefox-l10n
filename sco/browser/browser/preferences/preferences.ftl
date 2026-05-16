@@ -31,6 +31,10 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Hame
+pane-search-title2 = Sairch
+    .title = Sairch
+pane-privacy-title3 = Privacy & Siccarness
+    .title = Privacy & Siccarness
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Sairch
@@ -45,6 +49,12 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -57,6 +67,10 @@ settings-category-labs =
 pane-experimental-reset =
     .label = Restore Staunarts
     .accesskey = R
+help-button-label2 = { -brand-short-name } Hauners
+    .title = { -brand-short-name } Hauners
+addons-button-label2 = Extensions & Themes
+    .title = Extensions & Themes
 help-button-label = { -brand-short-name } Hauners
 addons-button-label = Extensions & Themes
 focus-search =
@@ -409,6 +423,15 @@ update-in-progress-ok-button = &Discaird
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Haud Forrit
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -467,6 +490,9 @@ browsing-cfr-recommendations-learn-more = Lairn mair
 browsing-group =
     .label = Stravaigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Netwark settins
@@ -516,6 +542,12 @@ use-current-pages =
 choose-bookmark =
     .label = Yaise Buikmerk...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -693,6 +725,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -880,6 +917,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lairn mair
 forms-windows-sso-desc = Manage accoonts in yer device settins
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -890,6 +930,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -984,6 +1027,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies and Site Data
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1175,6 +1224,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = View { -brand-short-name } studies
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1224,8 +1276,31 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktap
 downloads-folder-name = Doonloads
 choose-download-folder-title = Wale Doonload Folder:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

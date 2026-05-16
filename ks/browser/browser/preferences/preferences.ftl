@@ -5,11 +5,19 @@
 pane-general-title = عام
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title2 = ژھآنڈیو
+    .title = ژھآنڈیو
 pane-search-title = ژھآنڈیو
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -21,6 +29,20 @@ close-button =
 feature-enable-requires-restart = گْژھ ضرور  دوبار شروع گژھُن یہ فیچر اینیبْل کرنْہ باپت۔{ -brand-short-name }
 feature-disable-requires-restart = گْژھ ضرور  دوبار شروع گژھُن یہ فییچر  ڈیسیبْل کرنْہ باپت۔{ -brand-short-name }
 should-restart-title = { -brand-short-name }  كریو وئن شروع
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
 
 ## General Section
 
@@ -35,6 +57,13 @@ show-tabs-in-taskbar =
     .accesskey = k
 startup-group =
     .label = شروعات
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -140,6 +169,15 @@ update-application-use-service =
     .label = پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ
     .accesskey = b
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -161,11 +199,20 @@ browsing-use-cursor-navigation =
 browsing-group =
     .label = براوزِنگ
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-proxy-connection-settings =
     .label = سیٹینگس
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -183,6 +230,21 @@ use-current-pages =
 choose-bookmark =
     .label = نشان زد كریو استیمال
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -212,12 +274,39 @@ search-engine-group =
 search-default-engine =
     .aria-label = ڈیفالٹْہ تلاش اِنجن
 
+## Containers Section
+
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
 ## Variables
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } چُھ نْہ تصدیق کرنْہ آمُت۔
 sync-signedin-login-failure = مہربأنی کْرتھ کْریو سایِن اِن دوبار کنیکٹْہ کرنْہ باپت { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -228,11 +317,20 @@ sync-engine-history =
     .label = تٲریخ
     .accesskey = r
 
+## The device name controls.
+
+
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = تصدیق آیہ سوزنْہ
 sync-verification-not-sent-title = ہیوک نْہ سوزِتھ تصدیق
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Panel Settings
 
@@ -246,6 +344,15 @@ forms-master-pw-change =
     .label = ماسٹر خُفیئ لفظ بدلٲویو...
     .accesskey = M
 forms-master-pw-fips-desc = خفیہ لفظ   تبدیلی گئی ناكام
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -275,6 +382,15 @@ history-clear-on-close-settings =
 history-group =
     .label = تٲریخ
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
@@ -283,6 +399,22 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ٹیب  كھولیو
     .accesskey = ٹ
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -293,6 +425,18 @@ permissions-addon-exceptions =
     .label = غٲر مومول...
     .accesskey = E
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = سرٹیفیکٹس
@@ -301,8 +445,34 @@ certs-enable-ocsp =
     .accesskey = ک
 certs-devices-enable-fips = FIPS  بنٲویو ممكن
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسك ٹاپ
 downloads-folder-name = ڈاونلوڈس
 choose-download-folder-title = ڈاونلوڈس فولڈر ژٲریو
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

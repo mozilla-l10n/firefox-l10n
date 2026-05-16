@@ -51,6 +51,10 @@ pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Domovská stránka
+pane-search-title2 = Vyhledávání
+    .title = Vyhledávání
+pane-privacy-title3 = Soukromí a zabezpečení
+    .title = Soukromí a zabezpečení
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Vyhledávání
@@ -63,6 +67,8 @@ pane-privacy-title = Soukromí a zabezpečení
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synchronizace
+pane-ai-controls-title2 = Ovládání AI
+    .title = Ovládání AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Ovládání AI
@@ -72,16 +78,18 @@ pane-about-firefox-title = O aplikaci { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vzhled
     .title = { pane-appearance-title }
-pane-downloads-title = Stahování
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads-title2 = Stahování
+    .title = Stahování
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Přístupnost
     .title = { pane-accessibility-title }
-pane-languages-title = Jazyky
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+pane-languages-title2 = Jazyky
+    .title = Jazyky
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty { -brand-short-name(case: "gen") }
@@ -110,6 +118,18 @@ pane-experimental-description3 =
 pane-experimental-reset =
     .label = Obnovit výchozí nastavení
     .accesskey = O
+help-button-label2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Nápověda { -brand-short-name(case: "gen") }
+       *[no-cases] Nápověda
+    }
+    .title =
+        { -brand-short-name.case-status ->
+            [with-cases] Nápověda { -brand-short-name(case: "gen") }
+           *[no-cases] Nápověda
+        }
+addons-button-label2 = Rozšíření a vzhledy
+    .title = Rozšíření a vzhledy
 help-button-label =
     { -brand-short-name.case-status ->
         [with-cases] Nápověda { -brand-short-name(case: "gen") }
@@ -272,8 +292,8 @@ preferences-copy-profile-select = Vyberte profil
 preferences-copy-profile-button = Kopírovat
 tabs-browsing-section =
     .heading = Panely a prohlížení
-pane-tabs-browsing-title = Panely a prohlížení
-    .title = { pane-tabs-browsing-title }
+pane-tabs-browsing-title2 = Panely a prohlížení
+    .title = Panely a prohlížení
 tabs-group-header2 =
     .label = Panely
 tabs-opening-heading =
@@ -1454,7 +1474,8 @@ account-placeholder2 =
     .description = Přihlaste se a udržujte své údaje soukromé, šifrované a okamžitě dostupné všude, kde používáte { -brand-short-name }.
 account-sync-section =
     .heading = Účet a synchronizace
-pane-account-sync-title = Účet a synchronizace
+pane-account-sync-title2 = Účet a synchronizace
+    .title = Účet a synchronizace
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1910,9 +1931,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Nastavení automatického vyplňování hesel
-pane-passwords-autofill-title = Hesla a automatické vyplňování
+pane-passwords-autofill-title2 = Hesla a automatické vyplňování
+    .title = Hesla a automatické vyplňování
 preferences-passwords-autofill-header =
     .heading = Hesla a automatické vyplňování
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2422,7 +2442,8 @@ permissions-header3 =
     .description = Spravujte, k čemu mohou webové stránky přistupovat, co mohou ovládat nebo co mohou spouštět.
 permissions-data-section =
     .heading = Oprávnění a data
-pane-permissions-data-title = Oprávnění a data
+pane-permissions-data-title2 = Oprávnění a data
+    .title = Oprávnění a data
 
 ## Privacy Section - Data Collection
 
@@ -2969,6 +2990,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušit
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokovat
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 

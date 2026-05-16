@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Înainte
 ipprotection-feature-introduction-button-secondary-not-now = Nu acum
 ipprotection-feature-introduction-button-secondary-no-thanks = Nu, mulțumesc
 ipprotection-feature-introduction-button-secondary-remove = Elimină VPN-ul din bara de instrumente
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Elimină VPN-ul din bara de instrumente
 
 ## Site settings callout
 

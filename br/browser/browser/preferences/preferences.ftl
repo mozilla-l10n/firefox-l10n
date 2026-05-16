@@ -36,6 +36,10 @@ pane-general-title = Hollek
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Degemer
+pane-search-title2 = Klask
+    .title = Klask
+pane-privacy-title3 = Buhez prevez & Diogelroez
+    .title = Buhez prevez & Diogelroez
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Klask
@@ -50,6 +54,12 @@ category-privacy =
 pane-sync-title3 = Goubredañ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Arnodoù { -brand-short-name }
 category-experimental =
     .tooltiptext = Arnodoù { -brand-short-name }
@@ -62,6 +72,10 @@ settings-category-labs =
 pane-experimental-reset =
     .label = Assav an arventennoù dre ziouer
     .accesskey = A
+help-button-label2 = Skor { -brand-short-name }
+    .title = Skor { -brand-short-name }
+addons-button-label2 = Askouezhioù & Neuzioù
+    .title = Askouezhioù & Neuzioù
 help-button-label = Skor { -brand-short-name }
 addons-button-label = Askouezhioù & Neuzioù
 focus-search =
@@ -485,6 +499,15 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -546,6 +569,9 @@ browsing-cfr-recommendations-learn-more = Gouzout hiroc’h
 browsing-group =
     .label = Furchal
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Arventennoù ar rouedad
@@ -597,6 +623,12 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -797,6 +829,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1016,6 +1053,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Gouzout hiroc’h
 forms-windows-sso-desc = Merañ ar c'hontoù e arventennoù ho trevnad
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1133,6 +1173,9 @@ sitedata-cookies-exceptions =
     .accesskey = M
 cookies-site-data-group =
     .label = Toupinoù ha roadennoù lec'hienn
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1356,6 +1399,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Gwelout studiadennoù { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1438,8 +1484,28 @@ preferences-doh-manage-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burev
 downloads-folder-name = Pellgargadurioù
 choose-download-folder-title = Dibab un teuliad pellgargañ
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

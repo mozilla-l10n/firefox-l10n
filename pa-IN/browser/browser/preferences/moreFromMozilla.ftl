@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } ਮੋਬਾਈਲ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ QR ਕੋਡ
 more-from-moz-button-mozilla-vpn-2 = VPN ਲਵੋ
 more-from-moz-learn-more-link = ਹੋਰ ਸਿੱਖੋ
+more-from-moz-title2 = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
+    .title = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

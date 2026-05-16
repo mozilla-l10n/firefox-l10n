@@ -51,6 +51,10 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagină de start
+pane-search-title2 = Căutare
+    .title = Căutare
+pane-privacy-title3 = Confidențialitate și securitate
+    .title = Confidențialitate și securitate
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Căutare
@@ -63,6 +67,8 @@ pane-privacy-title = Confidențialitate și securitate
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronizare
+pane-ai-controls-title2 = Comenzi AI
+    .title = Comenzi AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Comenzi AI
@@ -70,13 +76,16 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Despre { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accesibilitate
     .title = { pane-accessibility-title }
-pane-languages-title = Limbi
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+pane-languages-title2 = Limbi
+    .title = Limbi
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experimente { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimente { -brand-short-name }
@@ -93,6 +102,10 @@ pane-experimental-description3 = Încearcă funcționalitățile noastre experim
 pane-experimental-reset =
     .label = Restaurează valorile implicite
     .accesskey = R
+help-button-label2 = Asistență { -brand-short-name }
+    .title = Asistență { -brand-short-name }
+addons-button-label2 = Extensii și teme
+    .title = Extensii și teme
 help-button-label = Asistență { -brand-short-name }
 addons-button-label = Extensii și teme
 focus-search =
@@ -2494,6 +2507,9 @@ desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2552,6 +2568,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anulează
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 

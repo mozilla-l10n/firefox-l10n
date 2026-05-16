@@ -51,6 +51,10 @@ pane-general-title = Tuichakue
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Ñepyrũ
+pane-search-title2 = Heka
+    .title = Heka
+pane-privacy-title3 = Ñemigua ha Tekorosã
+    .title = Ñemigua ha Tekorosã
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Heka
@@ -63,6 +67,8 @@ pane-privacy-title = Ñemigua ha Tekorosã
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Mbojuehe
+pane-ai-controls-title2 = IA mongu’eha
+    .title = IA mongu’eha
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = IA mongu’eha
@@ -70,13 +76,16 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } rehegua
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Jeikekuaa
     .title = { pane-accessibility-title }
-pane-languages-title = Ñe’ẽnguéra
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+pane-languages-title2 = Ñe’ẽnguéra
+    .title = Ñe’ẽnguéra
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Mba’epyahu
 category-experimental =
     .tooltiptext = { -brand-short-name } Mba’epyahu
@@ -92,6 +101,10 @@ pane-experimental-description3 = ¡Eiporu ore rembiapokue ipyahuvéva! Oñembogu
 pane-experimental-reset =
     .label = Embojevy tekoypykue
     .accesskey = R
+help-button-label2 = { -brand-short-name } mombytaha
+    .title = { -brand-short-name } mombytaha
+addons-button-label2 = Jepysokue ha téma
+    .title = Jepysokue ha téma
 help-button-label = { -brand-short-name } mombytaha
 addons-button-label = Jepysokue ha téma
 focus-search =
@@ -2487,6 +2500,9 @@ desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2541,6 +2557,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Heja
 preferences-ai-controls-block-confirmation-confirm =
     .label = Joko
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 

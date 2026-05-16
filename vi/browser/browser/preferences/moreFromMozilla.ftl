@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Mã QR để tải xuống { -brand-product-name } dành cho di động
 more-from-moz-button-mozilla-vpn-2 = Sử dụng VPN
 more-from-moz-learn-more-link = Tìm hiểu thêm
+more-from-moz-title2 = Sản phẩm thêm từ { -vendor-short-name }
+    .title = Sản phẩm thêm từ { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Dale
 ipprotection-feature-introduction-button-secondary-not-now = Nic nětko
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, dźakuju so
 ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje lajsty wotstronić
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = VPN ze symboloweje lajsty wotstronić
 
 ## Site settings callout
 

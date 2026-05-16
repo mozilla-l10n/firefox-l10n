@@ -44,6 +44,10 @@ pane-general-title = Almennt
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Upphafssíða
+pane-search-title2 = Leita
+    .title = Leita
+pane-privacy-title3 = Friðhelgi og öryggi
+    .title = Friðhelgi og öryggi
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Leita
@@ -58,6 +62,12 @@ category-privacy =
 pane-sync-title3 = Samstilling
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } tilraunir
 category-experimental =
     .tooltiptext = { -brand-short-name } tilraunir
@@ -71,6 +81,10 @@ pane-experimental-description3 = Prófaðu tilraunaeiginleikana okkar! Þeir eru
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
+help-button-label2 = { -brand-short-name }-aðstoð
+    .title = { -brand-short-name }-aðstoð
+addons-button-label2 = Forritsaukar & þemu
+    .title = Forritsaukar & þemu
 help-button-label = { -brand-short-name }-aðstoð
 addons-button-label = Forritsaukar & þemu
 focus-search =
@@ -572,6 +586,15 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -641,6 +664,9 @@ browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Stillingar netkerfis
@@ -692,6 +718,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -912,6 +944,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1151,6 +1188,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Frekari upplýsingar
 forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 windows-passkey-settings-label = Sýsla með lykilorð í stillingum kerfisins
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1782,8 +1822,28 @@ preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

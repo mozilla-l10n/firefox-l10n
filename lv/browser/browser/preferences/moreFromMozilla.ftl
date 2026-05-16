@@ -19,6 +19,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR kods, lai lejupielādētu { -brand-product-name } Mobile
 more-from-moz-button-mozilla-vpn-2 = Iegūt VPN
 more-from-moz-learn-more-link = Uzzināt vairāk
+more-from-moz-title2 = Vairāk no { -vendor-short-name }
+    .title = Vairāk no { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -32,3 +34,23 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Automātiski atgūt savu atklāto personas informāciju.
 more-from-moz-mozilla-monitor-global-description = Saņemiet brīdinājumus, ja jūsu dati tika nopludināti.
 more-from-moz-mozilla-monitor-button = Iegūt { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+

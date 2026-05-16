@@ -10,6 +10,10 @@ pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Rümôh (Home)
+pane-search-title2 = Mita
+    .title = Mita
+pane-privacy-title3 = Jaga Rahsia & Keuamanan
+    .title = Jaga Rahsia & Keuamanan
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Mita
@@ -21,9 +25,19 @@ pane-privacy-section =
 pane-privacy-title = Jaga Rahsia & Keuamanan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+help-button-label2 = Dukông { -brand-short-name }
+    .title = Dukông { -brand-short-name }
+addons-button-label2 = Èkstènsi & Kulét
+    .title = Èkstènsi & Kulét
 help-button-label = Dukông { -brand-short-name }
 addons-button-label = Èkstènsi & Kulét
 focus-search =
@@ -270,6 +284,15 @@ update-application-use-service =
     .label = Ngui servis dilikôt keu pasang ata seubarô
     .accesskey = N
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performen
@@ -312,6 +335,9 @@ browsing-search-on-start-typing =
     .accesskey = S
 browsing-group =
     .label = Peuhah Situs
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -361,6 +387,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ngui bookmark...
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -454,6 +486,9 @@ containers-add-button =
 containers-remove-button =
     .label = Sampoh
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -488,6 +523,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Hana lom itanyöng
 sync-signedin-login-failure = Neu tulông tamöng bah meukonék lom { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -499,6 +539,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Tamong
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -584,6 +630,15 @@ forms-master-pw-change =
     .label = Tuka lageuëm rayeuk
     .accesskey = M
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Riwayat
@@ -657,6 +712,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Cookies ngön  Data Situs
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Bar Alamat
@@ -675,6 +736,19 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Meurunoe lôm
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -735,6 +809,9 @@ collection-health-report-disabled = Lapuran data meupeulèn keu build konfiguras
 data-collection-studies-link =
     .label = Kalön kajian { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -765,3 +842,32 @@ certs-view =
 certs-devices =
     .label = Peukakah Peuji'oh Mara Bahya
     .accesskey = P
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
+## The following strings are used in the Download section of settings
+
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

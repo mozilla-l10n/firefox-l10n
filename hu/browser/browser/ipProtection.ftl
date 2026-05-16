@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Tovább
 ipprotection-feature-introduction-button-secondary-not-now = Most nem
 ipprotection-feature-introduction-button-secondary-no-thanks = Köszönöm, nem
 ipprotection-feature-introduction-button-secondary-remove = VPN eltávolítása az eszköztárról
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = VPN eltávolítása az eszköztárról
 
 ## Site settings callout
 

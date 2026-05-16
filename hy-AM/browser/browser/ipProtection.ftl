@@ -28,6 +28,8 @@ ipprotection-feature-introduction-button-primary = Հաջորդը
 ipprotection-feature-introduction-button-secondary-not-now = Ոչ հիմա
 ipprotection-feature-introduction-button-secondary-no-thanks = Ոչ, շնորհակալ եմ
 ipprotection-feature-introduction-button-secondary-remove = Հեռացրեք VPN-ը գործիքագոտուց
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Հեռացրեք VPN-ը գործիքագոտուց
 
 ## Site settings callout
 
@@ -106,12 +108,21 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ը անջատվ�
 ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միանալ VPN-ին
     .aria-label = Չհաջողվեց միանալ VPN-ին
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Իմանալ ավելին
 ip-protection-not-opted-in-button = Սկսել
 ip-protection-autostart-private-checkbox =
     .label = Գաղտնի պատուհաններում
+
+## IP Protection dialogs
+
 
 ## IP Protection Bandwidth
 
@@ -120,6 +131,9 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Հասկացա
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

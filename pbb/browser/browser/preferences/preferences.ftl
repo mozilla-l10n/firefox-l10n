@@ -8,6 +8,12 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -52,13 +58,25 @@ close-button =
 ## the selected menu item.
 
 
-##
+## Firefox updates
+
+
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
 
 
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
+
+
+## Accessibility page
 
 
 ## General Section - Proxy
@@ -67,14 +85,22 @@ close-button =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
 
 
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -88,6 +114,9 @@ search-choose-engine-column =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -97,6 +126,12 @@ search-choose-engine-column =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -127,7 +162,10 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
+
+
+## Privacy Panel Settings
 
 
 ## OS Authentication dialog
@@ -148,7 +186,7 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking
@@ -191,5 +229,25 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
+
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
 

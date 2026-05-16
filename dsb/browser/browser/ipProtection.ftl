@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nic něnto
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, źěkujom se
 ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje rědki wótwónoźeś
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = VPN ze symboloweje rědki wótwónoźeś
 
 ## Site settings callout
 

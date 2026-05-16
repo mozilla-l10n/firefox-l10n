@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = Ahora no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
 ipprotection-feature-introduction-button-secondary-remove = Remover VPN de la barra
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Remover VPN de la barra
 
 ## Site settings callout
 

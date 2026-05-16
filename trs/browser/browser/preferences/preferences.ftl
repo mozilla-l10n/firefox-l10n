@@ -15,6 +15,10 @@ pane-general-title = Da'ua nguéj
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Riñan gayi'ij
+pane-search-title2 = Nana’ui
+    .title = Nana’ui
+pane-privacy-title3 = Sa huìi 'ngà sa hua ran
+    .title = Sa huìi 'ngà sa hua ran
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Nana’ui
@@ -26,9 +30,19 @@ pane-privacy-section =
 pane-privacy-title = Sa huìi 'ngà sa hua ran
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+help-button-label2 = Sa nikaj ñu'ūnj { -brand-short-name }
+    .title = Sa nikaj ñu'ūnj { -brand-short-name }
+addons-button-label2 = Ekstensiûn ni Têma
+    .title = Ekstensiûn ni Têma
 help-button-label = Sa nikaj ñu'ūnj { -brand-short-name }
 addons-button-label = Ekstensiûn ni Têma
 focus-search =
@@ -315,6 +329,15 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Gun' ne' ñaan
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Daj unūkuaj ma
@@ -369,6 +392,9 @@ browsing-cfr-recommendations-learn-more = Gahuin chrūn doj
 browsing-group =
     .label = Aché nu'
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Dàj ga Red ruhuât
@@ -418,6 +444,12 @@ use-current-pages =
 choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -525,6 +557,9 @@ containers-add-button =
 containers-remove-button =
     .label = Dure'
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -564,6 +599,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } se sa ni'in huin ma.
 sync-signedin-login-failure = Gayi'ī sesión da' gatu ñut { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -723,6 +763,15 @@ forms-master-pw-change =
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Daran sa gahuin
@@ -809,6 +858,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = Kookies nī si dato sitio
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -966,6 +1021,9 @@ collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj s
 data-collection-studies-link =
     .label = Ni'io' nej sa digi'ñun { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -998,8 +1056,34 @@ certs-devices =
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Eskritorio
 downloads-folder-name = Nadunínj
 choose-download-folder-title = Ganahui dane' gima sa' sa naduninjt
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

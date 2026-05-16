@@ -43,6 +43,10 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Acuèlh
+pane-search-title2 = Recercar
+    .title = Recercar
+pane-privacy-title3 = Vida privada e seguretat
+    .title = Vida privada e seguretat
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Recercar
@@ -57,6 +61,12 @@ category-privacy =
 pane-sync-title3 = Sincronizacion
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experiéncias de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiéncias de { -brand-short-name }
@@ -69,6 +79,10 @@ settings-category-labs =
 pane-experimental-reset =
     .label = Restablir los paramètres per defaut
     .accesskey = R
+help-button-label2 = Assisténcia de { -brand-short-name }
+    .title = Assisténcia de { -brand-short-name }
+addons-button-label2 = Extensions e tèmas
+    .title = Extensions e tèmas
 help-button-label = Assisténcia de { -brand-short-name }
 addons-button-label = Extensions e tèmas
 focus-search =
@@ -525,6 +539,15 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -589,6 +612,9 @@ browsing-cfr-recommendations-learn-more = Ne saber mai
 browsing-group =
     .label = Navegacion
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Paramètres ret
@@ -642,6 +668,12 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -846,6 +878,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1078,6 +1115,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ne saber mai
 forms-windows-sso-desc = Gerissètz los compte als paramètres de vòstre periferic
 windows-passkey-settings-label = Gerir las claus d’accès als paramètres sistèma
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1579,11 +1619,25 @@ preferences-doh-manage-exceptions =
     .label = Gerir las excepcions…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
 
 ## Enhanced Tracking Protection (ETP) status section
 
@@ -1591,3 +1645,6 @@ preferences-etp-customize-button =
     .label = Personalizar la proteccion contra lo seguiment
 preferences-etp-customize-header =
     .heading = Personalizar la proteccion contra lo seguiment
+
+## Warnings section
+

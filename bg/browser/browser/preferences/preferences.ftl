@@ -44,6 +44,10 @@ pane-general-title = Основни
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Начална страница
+pane-search-title2 = Търсене
+    .title = Търсене
+pane-privacy-title3 = Поверителност и защита
+    .title = Поверителност и защита
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Търсене
@@ -56,11 +60,19 @@ pane-privacy-title = Поверителност и защита
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
+pane-ai-controls-title2 = AI контрол
+    .title = AI контрол
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI контрол
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Опити с { -brand-short-name }
 category-experimental =
     .tooltiptext = Опити с { -brand-short-name }
@@ -75,6 +87,10 @@ pane-experimental-description3 = Опитайте нашите експерим�
 pane-experimental-reset =
     .label = Възстановяване на стандартните настройки
     .accesskey = С
+help-button-label2 = Поддръжка на { -brand-short-name }
+    .title = Поддръжка на { -brand-short-name }
+addons-button-label2 = Разширения и теми
+    .title = Разширения и теми
 help-button-label = Поддръжка на { -brand-short-name }
 addons-button-label = Разширения и теми
 focus-search =
@@ -570,6 +586,15 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -637,6 +662,9 @@ browsing-cfr-recommendations-learn-more = Научете повече
 browsing-group =
     .label = Разглеждане
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Настройки на мрежата
@@ -688,6 +716,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -900,6 +934,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1139,6 +1178,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Научете повече
 forms-windows-sso-desc = Управление на профили в настройките на устройството
 windows-passkey-settings-label = Управляване на ключ-паролите в системните настройки
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1723,11 +1765,17 @@ preferences-doh-manage-exceptions =
     .label = Управление на изключенията…
     .accesskey = и
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Плот
 downloads-folder-name = Изтегляния
 choose-download-folder-title = Избиране на папка за изтегляне:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -1774,3 +1822,14 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

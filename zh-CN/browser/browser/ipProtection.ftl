@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = 下一步
 ipprotection-feature-introduction-button-secondary-not-now = 暂时不要
 ipprotection-feature-introduction-button-secondary-no-thanks = 不了，谢谢
 ipprotection-feature-introduction-button-secondary-remove = 从工具栏移除 VPN
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = 从工具栏移除 VPN
 
 ## Site settings callout
 

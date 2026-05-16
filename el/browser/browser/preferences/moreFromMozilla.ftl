@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Κωδικός QR για λήψη του { -brand-product-name } για κινητές συσκευές
 more-from-moz-button-mozilla-vpn-2 = Λήψη του VPN
 more-from-moz-learn-more-link = Μάθετε περισσότερα
+more-from-moz-title2 = Περισσότερα από τη { -vendor-short-name }
+    .title = Περισσότερα από τη { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = 다음
 ipprotection-feature-introduction-button-secondary-not-now = 나중에
 ipprotection-feature-introduction-button-secondary-no-thanks = 아니요
 ipprotection-feature-introduction-button-secondary-remove = 도구 모음에서 VPN 제거
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = 도구 모음에서 VPN 제거
 
 ## Site settings callout
 

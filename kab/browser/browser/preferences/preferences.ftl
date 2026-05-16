@@ -44,6 +44,10 @@ pane-general-title = Amatu
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Asebter agejdan
+pane-search-title2 = Nadi
+    .title = Nadi
+pane-privacy-title3 = Tabaḍnit  & Taɣellist
+    .title = Tabaḍnit  & Taɣellist
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Nadi
@@ -58,6 +62,12 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Tirma
 category-experimental =
     .tooltiptext = { -brand-short-name } Tirma
@@ -71,6 +81,10 @@ pane-experimental-description3 = Ɛreḍ timahilin-nneɣ tirmitanin! Ha-tent-an 
 pane-experimental-reset =
     .label = Err-d iɣewwaren imezwer
     .accesskey = R
+help-button-label2 = { -brand-short-name } Tallelt
+    .title = { -brand-short-name } Tallelt
+addons-button-label2 = Isiɣzaf akked yisental
+    .title = Isiɣzaf akked yisental
 help-button-label = { -brand-short-name } Tallelt
 addons-button-label = Isiɣzaf akked yisental
 focus-search =
@@ -562,6 +576,15 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -631,6 +654,9 @@ browsing-cfr-recommendations-learn-more = Issin ugar
 browsing-group =
     .label = Tunigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Iɣewwaṛen n uẓeṭṭa
@@ -682,6 +708,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -893,6 +925,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1125,6 +1162,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Issin ugar
 forms-windows-sso-desc = Sefrek imiḍanen deg yiɣewwaren n yibenk-ik·im
 windows-passkey-settings-label = Sefrek tisura n unekcum deg yiɣewwaren n unagraw
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1662,8 +1702,28 @@ preferences-doh-manage-exceptions =
     .label = Sefrek tisuraf
     .accesskey = f
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
 downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

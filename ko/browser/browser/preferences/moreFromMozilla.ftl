@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } 모바일 다운로드를 위한 QR 코드
 more-from-moz-button-mozilla-vpn-2 = VPN 받기
 more-from-moz-learn-more-link = 더 알아보기
+more-from-moz-title2 = { -vendor-short-name } 추가 제품 정보
+    .title = { -vendor-short-name } 추가 제품 정보
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

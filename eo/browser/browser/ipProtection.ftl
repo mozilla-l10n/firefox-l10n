@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
 ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ilaro
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Forigi VPN el la ilaro
 
 ## Site settings callout
 

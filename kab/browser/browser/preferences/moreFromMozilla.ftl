@@ -20,6 +20,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Tangalt QR i usader n { -brand-product-name } aziraz
 more-from-moz-button-mozilla-vpn-2 = Awi VPN
 more-from-moz-learn-more-link = Issin ugar
+more-from-moz-title2 = Ugar seg { -vendor-short-name }
+    .title = Ugar seg { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -37,3 +39,20 @@ more-from-moz-mozilla-monitor-button = Awi { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+

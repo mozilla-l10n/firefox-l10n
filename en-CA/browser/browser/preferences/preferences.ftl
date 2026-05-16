@@ -51,6 +51,10 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Home
+pane-search-title2 = Search
+    .title = Search
+pane-privacy-title3 = Privacy and security
+    .title = Privacy and security
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Search
@@ -63,6 +67,8 @@ pane-privacy-title = Privacy & Security
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
+pane-ai-controls-title2 = AI controls
+    .title = AI controls
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI controls
@@ -70,13 +76,16 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = About { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibility
     .title = { pane-accessibility-title }
-pane-languages-title = Languages
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+pane-languages-title2 = Languages
+    .title = Languages
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -93,6 +102,10 @@ pane-experimental-description3 = Give our experimental features a try! They’re
 pane-experimental-reset =
     .label = Restore Defaults
     .accesskey = R
+help-button-label2 = { -brand-short-name } support
+    .title = { -brand-short-name } support
+addons-button-label2 = Extensions and themes
+    .title = Extensions and themes
 help-button-label = { -brand-short-name } support
 addons-button-label = Extensions and themes
 focus-search =
@@ -2490,6 +2503,9 @@ desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2548,6 +2564,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel
 preferences-ai-controls-block-confirmation-confirm =
     .label = Block
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 

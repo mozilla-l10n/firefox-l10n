@@ -46,6 +46,10 @@ pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Տուն
+pane-search-title2 = Որոնում
+    .title = Որոնում
+pane-privacy-title3 = Գաղտնիություն և անվտանգություն
+    .title = Գաղտնիություն և անվտանգություն
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Որոնում
@@ -58,6 +62,8 @@ pane-privacy-title = Գաղտնիություն և անվտանգություն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Համաժամեցում
+pane-ai-controls-title2 = ԱԲ կառավարում
+    .title = ԱԲ կառավարում
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = ԱԲ կառավարում
@@ -65,13 +71,14 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-appearance-title = Տեսք
     .title = { pane-appearance-title }
-pane-downloads-title = Ներբեռնումներ
-pane-downloads =
-    .heading = { pane-downloads-title }
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+pane-downloads-title2 = Ներբեռնումներ
+    .title = Ներբեռնումներ
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Փորձեր
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
@@ -87,6 +94,10 @@ pane-experimental-description3 = Փորձեք մեր փորձարարական գ
 pane-experimental-reset =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = R
+help-button-label2 = { -brand-short-name }-ի աջակցում
+    .title = { -brand-short-name }-ի աջակցում
+addons-button-label2 = Ընդլայնումներ և ոճեր
+    .title = Ընդլայնումներ և ոճեր
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ և ոճեր
 focus-search =
@@ -1476,6 +1487,9 @@ forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2181,11 +2195,17 @@ preferences-doh-manage-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2221,6 +2241,11 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Չեղարկել
 preferences-ai-controls-block-confirmation-confirm =
     .label = Արգելափակել
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
 
 ## Enhanced Tracking Protection (ETP) status section
 
@@ -2230,3 +2255,6 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Թխուկներ
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
+
+## Warnings section
+

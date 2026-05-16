@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Mugikorrerako { -brand-product-name } deskargatzeko QR kodea
 more-from-moz-button-mozilla-vpn-2 = Eskuratu VPNa
 more-from-moz-learn-more-link = Argibide gehiago
+more-from-moz-title2 = { -vendor-short-name }-k egindako gehiago
+    .title = { -vendor-short-name }-k egindako gehiago
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

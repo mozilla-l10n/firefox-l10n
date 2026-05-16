@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
 ipprotection-feature-introduction-button-secondary-no-thanks = Hayır
 ipprotection-feature-introduction-button-secondary-remove = VPN’i araç çubuğundan kaldır
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = VPN’i araç çubuğundan kaldır
 
 ## Site settings callout
 

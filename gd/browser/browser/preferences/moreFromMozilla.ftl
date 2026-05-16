@@ -19,9 +19,34 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Còd QR airson { -brand-product-name } a luchdadh a-nuas
 more-from-moz-button-mozilla-vpn-2 = Faigh VPN
 more-from-moz-learn-more-link = Barrachd fiosrachaidh
+more-from-moz-title2 = Barrachd o { -vendor-short-name }
+    .title = Barrachd o { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Dìon am bogsa a-steach is do dhearbh-aithne le masgadh puist-d an-asgaidh.
 more-from-moz-firefox-relay-button = Faigh { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+

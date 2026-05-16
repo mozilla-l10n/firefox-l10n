@@ -37,6 +37,8 @@ ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tak
 ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra værktøjslinjen
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Fjern VPN fra værktøjslinjen
 
 ## Site settings callout
 

@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
 ipprotection-feature-introduction-button-secondary-no-thanks = Ez, eskerrik asko
 ipprotection-feature-introduction-button-secondary-remove = Kendu VPNa tresna-barratik
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Kendu VPNa tresna-barratik
 
 ## Site settings callout
 

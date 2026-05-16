@@ -44,6 +44,10 @@ pane-general-title = Gjenerâl
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagjine iniziâl
+pane-search-title2 = Ricercje
+    .title = Ricercje
+pane-privacy-title3 = Riservatece e sigurece
+    .title = Riservatece e sigurece
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Ricercje
@@ -58,6 +62,12 @@ category-privacy =
 pane-sync-title3 = Sincronizazion
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Esperiments di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperiments di { -brand-short-name }
@@ -72,6 +82,10 @@ pane-experimental-description3 = Prove lis nestris funzions sperimentâls! A son
 pane-experimental-reset =
     .label = Ripristine predefinîts
     .accesskey = R
+help-button-label2 = Supuart par { -brand-short-name }
+    .title = Supuart par { -brand-short-name }
+addons-button-label2 = Estensions e temis
+    .title = Estensions e temis
 help-button-label = Supuart par { -brand-short-name }
 addons-button-label = Estensions e temis
 focus-search =
@@ -673,6 +687,12 @@ update-in-progress-ok-button = &Interomp
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -754,6 +774,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1413,6 +1436,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2130,8 +2156,28 @@ preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
