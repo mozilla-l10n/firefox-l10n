@@ -65,6 +65,8 @@ pane-privacy-title = Confidentialitate e securitate
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
+pane-ai-controls-title2 = Controlos de IA
+    .title = Controlos de IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Controlos de IA
@@ -74,10 +76,14 @@ pane-about-firefox-title = A proposito de { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Apparentia
     .title = { pane-appearance-title }
+pane-downloads-title2 = Discargamentos
+    .title = Discargamentos
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibilitate
     .title = { pane-accessibility-title }
+pane-languages-title2 = Linguas
+    .title = Linguas
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Eliger profilo
 preferences-copy-profile-button = Copiar
 tabs-browsing-section =
     .heading = Schedas e navigation
+pane-tabs-browsing-title2 = Schedas e navigation
+    .title = Schedas e navigation
 tabs-group-header2 =
     .label = Schedas
 tabs-opening-heading =
@@ -1296,6 +1304,8 @@ account-placeholder2 =
     .description = Accede e mantene tu datos private, cryptate, e instantaneemente accessibile ubique tu usa { -brand-short-name }.
 account-sync-section =
     .heading = Conto e synchronisation
+pane-account-sync-title2 = Conto e synchronisation
+    .title = Conto e synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1761,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Contrasignos e compilation automatic
+    .title = Contrasignos e compilation automatic
 preferences-passwords-autofill-header =
     .heading = Contrasignos e compilation automatic
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2240,8 @@ permissions-header3 =
     .description = Gerer que sitos web pote acceder, controlar, o discatenar.
 permissions-data-section =
     .heading = Permissos e datos
+pane-permissions-data-title2 = Permissos e datos
+    .title = Permissos e datos
 
 ## Privacy Section - Data Collection
 
