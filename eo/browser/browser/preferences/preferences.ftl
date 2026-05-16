@@ -65,6 +65,8 @@ pane-privacy-title = Privateco kaj sekureco
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Spegulado
+pane-ai-controls-title2 = Regiloj de AI
+    .title = Regiloj de AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Regiloj de AI
@@ -74,10 +76,14 @@ pane-about-firefox-title = Pri { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aspekto
     .title = { pane-appearance-title }
+pane-downloads-title2 = Elŝutoj
+    .title = Elŝutoj
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Alirebleco
     .title = { pane-accessibility-title }
+pane-languages-title2 = Lingvoj
+    .title = Lingvoj
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Elekti profilon
 preferences-copy-profile-button = Kopii
 tabs-browsing-section =
     .heading = Langetoj kaj retumo
+pane-tabs-browsing-title2 = Langetoj kaj retumo
+    .title = Langetoj kaj retumo
 tabs-group-header2 =
     .label = Langetoj
 tabs-opening-heading =
@@ -1294,6 +1302,8 @@ account-placeholder2 =
     .description = Komencu seancon kaj tenu viajn datumojn privataj, ĉifritaj kaj tuj alireblaj por { -brand-short-name }, kie ajn vi ĝin uzas.
 account-sync-section =
     .heading = Konto kaj spegulado
+pane-account-sync-title2 = Konto kaj spegulado
+    .title = Konto kaj spegulado
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2228,6 +2238,8 @@ permissions-header3 =
     .description = Administri kion retejoj povas aliri, regi aŭ funkciigi.
 permissions-data-section =
     .heading = Permesoj kaj datumoj
+pane-permissions-data-title2 = Permesoj kaj datumoj
+    .title = Permesoj kaj datumoj
 
 ## Privacy Section - Data Collection
 
