@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Начало
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Домашняя страница и запуск
 pane-search-title = Поиск
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = О { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Внешний вид
     .title = { pane-appearance-title }
-pane-downloads-title = Загрузки
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Поддержка доступности
     .title = { pane-accessibility-title }
-pane-languages-title = Языки
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Эксперименты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперименты { -brand-short-name }
@@ -99,6 +96,8 @@ pane-experimental-description3 = Попробуйте наши эксперим�
 pane-experimental-reset =
     .label = Восстановить значения по умолчанию
     .accesskey = с
+help-button-label2 = Поддержка { -brand-short-name }
+    .title = Поддержка { -brand-short-name }
 help-button-label = Поддержка { -brand-short-name }
 addons-button-label = Расширения и темы
 focus-search =
@@ -225,8 +224,6 @@ preferences-copy-profile-select = Выбрать профиль
 preferences-copy-profile-button = Копировать
 tabs-browsing-section =
     .heading = Вкладки и просмотр
-pane-tabs-browsing-title = Вкладки и просмотр
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Вкладки
 tabs-opening-heading =
@@ -1299,7 +1296,6 @@ account-placeholder2 =
     .description = Войдите и сохраните свои данные в конфиденциальности, зашифрованными и мгновенно доступными везде, где вы используете { -brand-short-name }.
 account-sync-section =
     .heading = Аккаунт и синхронизация
-pane-account-sync-title = Аккаунт и синхронизация
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1755,9 +1751,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Настройки паролей и автозаполнения
-pane-passwords-autofill-title = Пароли и автозаполнение
 preferences-passwords-autofill-header =
     .heading = Пароли и автозаполнение
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2235,7 +2228,6 @@ permissions-header3 =
     .description = Управляйте тем, к каким веб-сайтам можно получить доступ, контролировать их или запускать.
 permissions-data-section =
     .heading = Разрешения и данные
-pane-permissions-data-title = Разрешения и данные
 
 ## Privacy Section - Data Collection
 
@@ -2640,6 +2632,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отмена
 preferences-ai-controls-block-confirmation-confirm =
     .label = Блокировать
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
