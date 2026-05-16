@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Hjem
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Startside og oppstart
 pane-search-title = Søk
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Utseende
     .title = { pane-appearance-title }
-pane-downloads-title = Nedlastinger
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Tilgjengelighet
     .title = { pane-accessibility-title }
-pane-languages-title = Språk
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-eksperiment
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiment
@@ -225,8 +222,6 @@ preferences-copy-profile-select = Velg profil
 preferences-copy-profile-button = Kopier
 tabs-browsing-section =
     .heading = Faner og nettlesing
-pane-tabs-browsing-title = Faner og nettlesing
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Faner
 tabs-opening-heading =
@@ -1295,7 +1290,6 @@ account-placeholder2 =
     .description = Logg inn og hold dataene dine private, krypterte og umiddelbart tilgjengelige overalt der du bruker { -brand-short-name }.
 account-sync-section =
     .heading = Konto og synkronisering
-pane-account-sync-title = Konto og synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1745,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Innstillinger for passord og autofyll
-pane-passwords-autofill-title = Passord og autofyll
 preferences-passwords-autofill-header =
     .heading = Passord og autofyll
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2222,6 @@ permissions-header3 =
     .description = Behandle hva nettsteder kan få tilgang til, styre eller utløse.
 permissions-data-section =
     .heading = Tillatelser og data
-pane-permissions-data-title = Tillatelser og data
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2626,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokker
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
