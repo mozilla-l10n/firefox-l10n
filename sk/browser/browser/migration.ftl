@@ -65,7 +65,7 @@ no-migration-sources = Nebol nájdený žiadny program, ktorý by obsahoval zál
 import-source-page-title = Import nastavení a údajov
 import-items-page-title = Položky na import
 import-items-description = Vyberte položky, ktoré chcete importovať:
-import-permissions-page-title = Prosím, udeľte povolenia aplikácii { -brand-short-name }
+import-permissions-page-title = Prosím, udeľte oprávnenia pre { -brand-short-name(case: "acc") }
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS vyžaduje, aby ste { -brand-short-name(case: "dat") } explicitne povolili prístup k údajom prehliadača Safari. Kliknite na “Pokračovať”, v zobrazenom dialógovom okne Finder vyberte priečinok “Safari“ a potom kliknite na tlačidlo “Otvoriť”.
 import-migrating-page-title = Importuje sa…

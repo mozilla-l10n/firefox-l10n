@@ -122,7 +122,7 @@ policy-PasswordManagerExceptions = Zabráni { -brand-short-name(case: "gen") } u
 policy-PostQuantumKeyAgreementEnabled = Povolí postkvantovú dohodu o kľúčoch pre TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Zablokuje alebo nastaví PDF prehliadač PDF.js zabudovaný v prehliadači { -brand-short-name }.
-policy-Permissions2 = Nastaví povolenia pre kameru, mikrofón, polohu, upozornenia a automatické prehrávanie.
+policy-Permissions2 = Nastaví oprávnenia pre kameru, mikrofón, polohu, upozornenia a automatické prehrávanie.
 policy-PictureInPicture = Povolí alebo zakáže režim Obraz v obraze.
 policy-PopupBlocking2 = Povolí určitým webovým stránkam zobrazovať vyskakovacie okná a byť presmerované rámcami tretích strán.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.

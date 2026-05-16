@@ -143,10 +143,10 @@ permissions-site-autoplay-desc = Na tomto mieste môžete spravovať stránky, k
 permissions-site-notification-window2 =
     .title = Nastavenia - Posielanie upozornení
     .style = { permissions-window2.style }
-permissions-site-notification-desc = Nasledujúce webové stránky požiadali o povolenie posielať vám upozornenia. Na tomto mieste môžete určiť, ktoré webové stránky majú povolené posielať vám upozornenia. Môžete taktiež zablokovať nové žiadosti o posielanie upozornení.
+permissions-site-notification-desc = Nasledujúce webové stránky požiadali o oprávnenie odosielať vám upozornenia. Na tomto mieste môžete určiť, ktoré webové stránky majú povolené odosielať vám upozornenia. Môžete taktiež zablokovať nové žiadosti o odosielanie upozornení.
 permissions-site-notification-disable-label =
     .label = Blokovať nové žiadosti o posielanie upozornení
-permissions-site-notification-disable-desc = Týmto zakážete webovým stránkam, ktoré nie sú uvedené v zozname vyššie, požiadať o povolenie posielať vám upozornenia. Blokovanie upozornení môže rozbiť niektoré funkcie stránok.
+permissions-site-notification-disable-desc = Týmto zakážete webovým stránkam, ktoré nie sú uvedené v zozname vyššie, požiadať o povolenie odosielať vám upozornenia. Blokovanie upozornení môže rozbiť niektoré funkcie stránok.
 
 ## Site Permissions - Location
 

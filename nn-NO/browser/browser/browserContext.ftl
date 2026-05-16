@@ -303,6 +303,8 @@ main-context-menu-send-to-mobile-sign-in = Logg inn for å sende faner
 main-context-menu-send-to-mobile-enable-sync2 = Slå på synkronisering for å sende ei fane
 main-context-menu-send-to-mobile-connect-phone2 = Kople til telefonen din
 main-context-menu-send-to-mobile-device-missing2 = Ser du ikkje eininga di?
+main-context-menu-send-to-mobile-sign-in-from-link = Logg inn for å sende ei lenke
+main-context-menu-send-to-mobile-sign-in-from-page = Logg inn for å sende ei side
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Slå på synkronisering for å sende ei fane

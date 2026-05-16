@@ -770,7 +770,7 @@ update-application-manual =
     .accesskey = N
 update-application-background-enabled =
     .label = Ak { -brand-short-name } nie je spustený
-    .accesskey = A
+    .accesskey = n
 update-application-warning-cross-user-setting-2 =
     .message = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 update-application-suppress-prompts-2 =
@@ -2146,7 +2146,7 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Povolenia
+permissions-header = Oprávnenia
 permissions-location = Poloha
 permissions-location-settings =
     .label = Nastavenia…
@@ -2234,8 +2234,8 @@ permissions-header3 =
     .label = Oprávnenia
     .description = Spravujte, k čomu môžu webové stránky pristupovať, čo môžu ovládať alebo čo môžu spúšťať.
 permissions-data-section =
-    .heading = Povolenia a údaje
-pane-permissions-data-title = Povolenia a údaje
+    .heading = Oprávnenia a údaje
+pane-permissions-data-title = Oprávnenia a údaje
 
 ## Privacy Section - Data Collection
 

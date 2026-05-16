@@ -11,7 +11,7 @@
 origin-controls-no-access =
     .label = Rozšírenie nemôže čítať a meniť údaje
 origin-controls-quarantined =
-    .label = Rozšírenie nemá povolenie na čítanie a zmenu údajov
+    .label = Rozšírenie nemá oprávnenie na čítanie a zmenu údajov
 origin-controls-quarantined-status =
     .label = Rozšírenie nie je povolené na stránkach s obmedzením
 origin-controls-quarantined-allow =
@@ -35,7 +35,7 @@ origin-controls-option-always-on =
 origin-controls-state-no-access = Nemôže čítať a meniť údaje na tejto stránke
 origin-controls-state-quarantined = Nie je povolené { -vendor-short-name(case: "ins") } na tejto stránke
 origin-controls-state-always-on = Vždy môže čítať a meniť údaje na tejto stránke
-origin-controls-state-when-clicked = Je potrebné povolenie na čítanie a zmenu údajov
+origin-controls-state-when-clicked = Je potrebné oprávnenie na čítanie a zmenu údajov
 origin-controls-state-hover-run-visit-only = Povoliť len pre túto návštevu
 origin-controls-state-runnable-hover-open = Otvoriť rozšírenie
 origin-controls-state-runnable-hover-run = Spustiť rozšírenie
