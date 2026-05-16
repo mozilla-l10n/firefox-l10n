@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Connectez-vous pour envoyer des ongle
 main-context-menu-send-to-mobile-enable-sync2 = Activez la synchronisation pour envoyer un onglet
 main-context-menu-send-to-mobile-connect-phone2 = Connectez votre téléphone
 main-context-menu-send-to-mobile-device-missing2 = Vous ne voyez pas votre appareil ?
+main-context-menu-send-to-mobile-sign-in-from-link = Connectez-vous pour envoyer un lien
+main-context-menu-send-to-mobile-sign-in-from-page = Connectez-vous pour envoyer une page
+main-context-menu-send-to-mobile-enable-sync3 = Activer la synchronisation pour envoyer les onglets
+main-context-menu-send-to-mobile-enable-sync-from-link = Activer la synchronisation pour envoyer un lien
+main-context-menu-send-to-mobile-enable-sync-from-page = Activer la synchronisation pour envoyer une page
+main-context-menu-send-to-mobile-connect-phone3 = Connecter un appareil pour envoyer des onglets
+main-context-menu-send-to-mobile-connect-phone-from-link = Connecter un appareil pour envoyer un lien
+main-context-menu-send-to-mobile-connect-phone-from-page = Connecter un appareil pour envoyer une page
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Activez la synchronisation pour envoyer un onglet
