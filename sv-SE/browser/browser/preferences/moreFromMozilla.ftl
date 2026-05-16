@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-kod för att ladda ner { -brand-product-name } för mobiler
 more-from-moz-button-mozilla-vpn-2 = Skaffa VPN
 more-from-moz-learn-more-link = Läs mer
+more-from-moz-title2 = Mer från { -vendor-short-name }
+    .title = Mer från { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
