@@ -51,9 +51,10 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Home
+pane-search-title2 = Search
+    .title = Search
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Home and startup
 pane-search-title = Search
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = About { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Appearance
     .title = { pane-appearance-title }
-pane-downloads-title = Downloads
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibility
     .title = { pane-accessibility-title }
-pane-languages-title = Languages
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -225,8 +224,6 @@ preferences-copy-profile-select = Select profile
 preferences-copy-profile-button = Copy
 tabs-browsing-section =
     .heading = Tabs and browsing
-pane-tabs-browsing-title = Tabs and browsing
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabs
 tabs-opening-heading =
@@ -1295,7 +1292,6 @@ account-placeholder2 =
     .description = Sign in and keep your data private, encrypted and instantly accessible everywhere you use { -brand-short-name }.
 account-sync-section =
     .heading = Account and synchronisation
-pane-account-sync-title = Account and synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1747,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Passwords and autofill settings
-pane-passwords-autofill-title = Passwords and autofill
 preferences-passwords-autofill-header =
     .heading = Passwords and autofill
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2224,6 @@ permissions-header3 =
     .description = Manage what web sites can access, control or trigger.
 permissions-data-section =
     .heading = Permissions and data
-pane-permissions-data-title = Permissions and data
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2628,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel
 preferences-ai-controls-block-confirmation-confirm =
     .label = Block
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
