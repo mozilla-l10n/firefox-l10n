@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Moztu DOM atributuak
 options-collapse-attrs-tooltip =
     .title = Moztu ikuskatzaileko atributu luzeak
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Erakutsi iruzkinak
+options-show-comments-tooltip =
+    .title = Erakutsi iruzkin-nodoak ikuskatzailean
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Egin klik eta arrastatu tamainaren balioak editatzeko
 options-inspector-draggable-properties-tooltip =

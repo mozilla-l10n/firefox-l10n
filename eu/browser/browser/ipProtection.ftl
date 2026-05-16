@@ -27,10 +27,13 @@ ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzail
 ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu 5 kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko 5 kokapenen artean aukeratuz.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
@@ -46,6 +49,7 @@ ipprotection-site-settings-callout-button = Ulertuta
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Berria: aldatu zure kokapena
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> nabigatzeko 5 kokapenen artetik aukeratzen uzten dizu, edo utzi guri zuretzako azkarrena hartzen.
 ipprotection-location-selection-callout-primary-button = Probatu
 ipprotection-location-selection-callout-secondary-button = Baztertu
 
@@ -55,10 +59,12 @@ ipprotection-location-selection-callout-secondary-button = Baztertu
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ezkutatu zure kokapena</a> { -brand-product-name }(r)ekin nabigatu ahala.
 unauthenticated-private-location-message = { -brand-product-name }(e)n <a data-l10n-name="learn-more-vpn">zure kokapena pribatu mantentzen</a> laguntzen du.
+unauthenticated-choose-location-message = Aukeratu 5 kokapenen artetik edo utzi { -brand-product-name }(r)i azkarrena hartzen.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilero.
 unauthenticated-get-started = Hasi erabiltzen
+unauthenticated-terms-of-service-privacy-notice = Jarraitzearekin bat, <a data-l10n-name="vpn-terms-of-service">erabiltzeko baldintzak</a> eta <a data-l10n-name="vpn-privacy-notice">pribatutasun-oharra</a> onartzen dituzu.
 site-exclusion-toggle-enabled-1 =
     .label = Erabili VPNa gune honetarako
     .aria-label = VPNa aktibo dago gune honetarako
@@ -95,16 +101,24 @@ ipprotection-connection-status-connecting-1 = VPNa konektatzen ari da…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Kokapena: gomendatutakoa
+ipprotection-recommended-location-description = { -brand-product-name }(e)k kokapen azkarrena aurkitzen du
 ipprotection-recommended-location-badge = BERRIA
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Kokapena: { $country }
 ipprotection-locations-subview =
     .title = Aukeratu kokapena
+ipprotection-locations-subview-description = Aukeratu nabigatu beharreko beste kokapen bat.
 ipprotecion-locations-subview-recommended-label = Gomendatua
 ipprotection-locations-subview-recommended-description = Kokapen azkarrena bilatzen du
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Ez dago erabilgarri
+ipprotection-locations-subview-promo =
+    .heading = Areagotu babesak { -mozilla-vpn-brand-name }(r)ekin
+    .message = Aukeratu 300 kokapen baino gehiagoren artetik eta babestu zure aplikazio guztiak 5 gailura arte.
 ipprotection-locations-subview-promo-button = Eskuratu { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -206,6 +220,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Eskuratu { -brand-short-name }(e)tik kanpora babes gehiago { -mozilla-vpn-brand-name } erabiliz
     .description = Aukeratu VPNaren kokapen pertsonalizatuak eta gehitu bost gailura arteko babesa zure aplikazio guztiei, berdin etxean edo Wi-Fi publiko batean zaudela.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Areagotu babesak { -mozilla-vpn-brand-name }(r)ekin
+    .description = Aukeratu 300 kokapen baino gehiagoren artetik eta babestu zure aplikazio guztiak 5 gailura arte.
 
 ## IP Protection dialogs
 
