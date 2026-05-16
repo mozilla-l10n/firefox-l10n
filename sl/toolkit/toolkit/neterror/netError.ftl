@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } ne more vzpostaviti varne povezave s strežnikom na { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se ne more povezati s strežnikom na <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } se ne more povezati s strežnikom na <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Časovna omejitev za vzpostavitev povezave s strežnikom <strong>{ $hostname }</strong> je potekla.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

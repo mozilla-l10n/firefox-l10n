@@ -30,7 +30,7 @@ more-from-moz-learn-more-link = Več o tem
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Zaščitite svoj e-poštni predal in svojo identiteto z brezplačnim zakrivanjem e-poštnega naslova.
-more-from-moz-firefox-relay-button = Namesti { -relay-brand-short-name }
+more-from-moz-firefox-relay-button = Pridobite { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
