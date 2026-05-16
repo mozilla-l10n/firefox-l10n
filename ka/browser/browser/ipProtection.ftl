@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = შემდეგი
 ipprotection-feature-introduction-button-secondary-not-now = ახლა არა
 ipprotection-feature-introduction-button-secondary-no-thanks = არა, გმადლობთ
 ipprotection-feature-introduction-button-secondary-remove = მოცილდეს VPN ხელსაწყოთა ზოლიდან
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = მოცილდეს VPN ხელსაწყოთა ზოლიდან
 
 ## Site settings callout
 
