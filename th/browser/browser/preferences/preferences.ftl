@@ -51,9 +51,10 @@ pane-general-title = ทั่วไป
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = หน้าแรก
+pane-search-title2 = ค้นหา
+    .title = ค้นหา
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = หน้าแรกและการเริ่มต้น
 pane-search-title = ค้นหา
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = เกี่ยวกับ { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = รูปลักษณ์
     .title = { pane-appearance-title }
-pane-downloads-title = ดาวน์โหลด
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = การช่วยเข้าถึง
     .title = { pane-accessibility-title }
-pane-languages-title = ภาษา
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = คุณลักษณะทดลองของ { -brand-short-name }
 category-experimental =
     .tooltiptext = คุณลักษณะทดลองของ { -brand-short-name }
@@ -225,8 +224,6 @@ preferences-copy-profile-select = เลือกโปรไฟล์
 preferences-copy-profile-button = คัดลอก
 tabs-browsing-section =
     .heading = แท็บและการเรียกดู
-pane-tabs-browsing-title = แท็บและการเรียกดู
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = แท็บ
 tabs-opening-heading =
@@ -1279,7 +1276,6 @@ account-placeholder2 =
     .description = ลงชื่อเข้าและเก็บรักษาข้อมูลของคุณให้เป็นส่วนตัว ถูกเข้ารหัสลับ และสามารถเข้าถึงได้ทันทีในทุกที่ที่คุณใช้ { -brand-short-name }
 account-sync-section =
     .heading = บัญชีและการซิงค์
-pane-account-sync-title = บัญชีและการซิงค์
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1735,9 +1731,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = รหัสผ่านและการตั้งค่าการกรอกข้อมูลอัตโนมัติ
-pane-passwords-autofill-title = รหัสผ่านและการกรอกอัตโนมัติ
 preferences-passwords-autofill-header =
     .heading = รหัสผ่านและการกรอกอัตโนมัติ
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2215,7 +2208,6 @@ permissions-header3 =
     .description = จัดการว่าเว็บไซต์อะไรบ้างสามารถเข้าถึง ควบคุม หรือกระตุ้นการทำงานได้
 permissions-data-section =
     .heading = การกำหนดสิทธิ์และข้อมูล
-pane-permissions-data-title = การกำหนดสิทธิ์และข้อมูล
 
 ## Privacy Section - Data Collection
 
@@ -2620,6 +2612,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ยกเลิก
 preferences-ai-controls-block-confirmation-confirm =
     .label = ปิดกั้น
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
