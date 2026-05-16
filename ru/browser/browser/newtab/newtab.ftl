@@ -486,7 +486,7 @@ newtab-wallpaper-category-title-firefox = { -brand-product-name }
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
-newtab-wallpaper-category-title-celestial = Небесный
+newtab-wallpaper-category-title-celestial = Космос
 newtab-wallpaper-celestial-lunar-eclipse = Лунное затмение
 newtab-wallpaper-celestial-earth-night = Ночное фото с низкой околоземной орбиты
 newtab-wallpaper-celestial-starry-sky = Звёздное небо

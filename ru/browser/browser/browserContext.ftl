@@ -303,6 +303,8 @@ main-context-menu-send-to-mobile-sign-in = Войдите, чтобы отпра
 main-context-menu-send-to-mobile-enable-sync2 = Включить синхронизацию для отправки вкладки
 main-context-menu-send-to-mobile-connect-phone2 = Подключите ваш телефон
 main-context-menu-send-to-mobile-device-missing2 = Не видите ваше устройство?
+main-context-menu-send-to-mobile-sign-in-from-link = Войдите, чтобы отправить ссылку
+main-context-menu-send-to-mobile-sign-in-from-page = Войдите, чтобы отправить страницу
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Включить синхронизацию для отправки вкладки
