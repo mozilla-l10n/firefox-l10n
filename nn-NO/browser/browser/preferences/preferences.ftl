@@ -51,9 +51,10 @@ pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Start
+pane-search-title2 = Søk
+    .title = Søk
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Startside og oppstart
 pane-search-title = Søk
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Utsjånad
     .title = { pane-appearance-title }
-pane-downloads-title = Nedlastingar
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Tilgjengelegheit
     .title = { pane-accessibility-title }
-pane-languages-title = Språk
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-eksperiment
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiment
@@ -99,6 +98,10 @@ pane-experimental-description3 = Prøv dei eksperimentelle funksjonane våre! De
 pane-experimental-reset =
     .label = Gjenopprett standard
     .accesskey = G
+help-button-label2 = Brukarstøtte for { -brand-short-name }
+    .title = Brukarstøtte for { -brand-short-name }
+addons-button-label2 = Utvidingar og tema
+    .title = Utvidingar og tema
 help-button-label = Brukarstøtte for { -brand-short-name }
 addons-button-label = Utvidingar og tema
 focus-search =
@@ -225,8 +228,6 @@ preferences-copy-profile-select = Vel profil
 preferences-copy-profile-button = Kopier
 tabs-browsing-section =
     .heading = Faner og nettlesing
-pane-tabs-browsing-title = Faner og nettlesing
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Faner
 tabs-opening-heading =
@@ -1295,7 +1296,6 @@ account-placeholder2 =
     .description = Logg inn og hald dataa dine private, krypterte og direkte tilgjengelege overalt der du brukar { -brand-short-name }.
 account-sync-section =
     .heading = Konto og synkronisering
-pane-account-sync-title = Konto og synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1751,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Passord og autoutfyllings-innstillingar
-pane-passwords-autofill-title = Passord og autoutfylling
 preferences-passwords-autofill-header =
     .heading = Passord og autoutfylling
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2228,6 @@ permissions-header3 =
     .description = Handsam kva nettstader kan få tilgang til, styre eller utløyse.
 permissions-data-section =
     .heading = Løyve og data
-pane-permissions-data-title = Løyve og data
 
 ## Privacy Section - Data Collection
 
@@ -2634,6 +2630,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokker
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
