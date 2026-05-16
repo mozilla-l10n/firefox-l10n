@@ -6,11 +6,19 @@ do-not-track-learn-more = অধিক জানক
 pane-general-title = সাধাৰণ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title2 = সন্ধান কৰক
+    .title = সন্ধান কৰক
 pane-search-title = সন্ধান কৰক
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -24,6 +32,20 @@ close-button =
 feature-enable-requires-restart = এই বৈশিষ্ট্য সামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
 feature-disable-requires-restart = এই বৈশিষ্ট্য অসামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
 should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
 
 ## General Section
 
@@ -39,6 +61,13 @@ show-tabs-in-taskbar =
 browser-containers-learn-more = অধিক জানক
 startup-group =
     .label = আৰম্ভণি
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -147,6 +176,15 @@ update-application-use-service =
     .label = আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক
     .accesskey = b
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-settings-learn-more = অধিক জানক
@@ -172,12 +210,21 @@ browsing-cfr-recommendations-learn-more = অধিক জানক
 browsing-group =
     .label = ব্ৰাউছিং
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-proxy-connection-learn-more = অধিক জানক
 network-proxy-connection-settings =
     .label = পছন্দসমূহ…
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -195,6 +242,18 @@ use-current-pages =
 choose-bookmark =
     .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
 
 ##
 
@@ -233,12 +292,39 @@ search-engine-group =
 search-default-engine =
     .aria-label = অবিকল্পিত সন্ধান ইঞ্জিন
 
+## Containers Section
+
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
 ## Variables
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = আপোনাৰ ইমেইল ঠিকনা { $email } সতা সত্য নিৰূপিত নহয়।
 sync-signedin-login-failure = পুনৰ সংযোগ কৰিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -249,6 +335,9 @@ sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
 
+## The device name controls.
+
+
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
@@ -258,6 +347,12 @@ sync-verification-sent-title = বৈধতা পঠোৱা হল
 sync-verification-sent-body = { $email }-লৈ এটা সত্যাপন লিংক পঠিওৱা হৈছে।
 sync-verification-not-sent-title = সত্যাপন পঠিয়াব পৰা নগ'ল
 sync-verification-not-sent-body = আমি এই সময়ত এটা সত্যাপন মেইল পঠিয়াব নোৱাৰিলোঁ, অনুগ্ৰহ কৰি পাছত পুনৰ চেষ্টা কৰিব।
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Panel Settings
 
@@ -273,6 +368,15 @@ forms-master-pw-change =
     .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
     .accesskey = M
 forms-master-pw-fips-desc = পাছৱৰ্ডৰ পৰিবৰ্তন ব্যৰ্থ হল
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -303,9 +407,31 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = অধিক জানক
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Search Section
+
+
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = অধিক জানক
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -322,6 +448,9 @@ permissions-addon-exceptions =
 collection-health-report-telemetry-disabled-link = অধিক জানক
 collection-health-report-link = অধিক জানক
 addon-recommendations-link = অধিক জানক
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -342,8 +471,31 @@ certs-devices-enable-fips = FIPS সামৰ্থবান কৰক
 
 httpsonly-learn-more = অধিক জানক
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনল'ডসমূহ
 choose-download-folder-title = ডাউনল'ডৰ ফ'ল্ডাৰ বাছক:
+
+## Appearance page
+
+
+## AI controls page
+
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
