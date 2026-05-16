@@ -780,7 +780,7 @@ newtab-widget-section-feedback = Povejte nam svoje mnenje
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
-newtab-widget-timer-notification-title = Odštevalnik
+newtab-widget-timer-notification-title = Časovnik
 newtab-widget-timer-notification-focus = Čas za osredotočeno delo je potekel. Odlično opravljeno. Potrebujete odmor?
 newtab-widget-timer-notification-break = Vaš odmor je končan. Ste pripravljeni na osredotočeno delo?
 newtab-widget-timer-notification-warning = Obvestila so izklopljena

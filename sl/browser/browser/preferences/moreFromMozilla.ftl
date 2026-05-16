@@ -62,3 +62,15 @@ more-from-moz-thunderbird-description = Brezplačna e-pošta, koledar in imenik 
 more-from-moz-new-products-title = Novi izdelki { -vendor-short-name(sklon: "rodilnik") }
 more-from-moz-new-products-description = Odkrijte najnovejše izdelke { -vendor-short-name(sklon: "rodilnik") }.
 more-from-moz-new-products-button = Oglejte si nove izdelke
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = Pridobite { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Pridobite { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Pridobite { -relay-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Preizkusite { -solo-ai-brand-name }

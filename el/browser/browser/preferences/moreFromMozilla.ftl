@@ -23,7 +23,7 @@ more-from-moz-qr-code-box-firefox-mobile-title = Κάντε λήψη στην κ
 more-from-moz-qr-code-box-firefox-mobile-button = Αποστολή email στο τηλέφωνό σας
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Κωδικός QR για λήψη του { -brand-product-name } για κινητές συσκευές
-more-from-moz-button-mozilla-vpn-2 = Λήψη VPN
+more-from-moz-button-mozilla-vpn-2 = Λήψη του VPN
 more-from-moz-learn-more-link = Μάθετε περισσότερα
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
@@ -37,7 +37,7 @@ more-from-moz-firefox-relay-button = Λήψη του { -relay-brand-short-name }
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Πάρτε αυτόματα πίσω τα εκτεθειμένα προσωπικά σας στοιχεία.
 more-from-moz-mozilla-monitor-global-description = Λάβετε ειδοποιήσεις όταν τα δεδομένα σας έχουν παραβιαστεί.
-more-from-moz-mozilla-monitor-button = Αποκτήστε το { -monitor-brand-short-name }
+more-from-moz-mozilla-monitor-button = Απόκτηση του { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
