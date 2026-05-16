@@ -793,6 +793,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Елементи
 newtab-widget-menu-hide = Сакриј елемент
 newtab-widget-menu-change-size = Промени величину
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Помери
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Лево
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Десно
 newtab-widget-size-small = Мала
 newtab-widget-size-medium = Средња
 newtab-widget-size-large = Велика
@@ -809,6 +818,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Мени елемената
     .aria-label = Отвори мени елемената
+newtab-widget-add-widgets-button =
+    .aria-label = Додај виџет
+    .title = Додај виџет
 newtab-widget-section-menu-manage = Управљај елементима
 newtab-widget-section-menu-hide-all = Сакриј елементе
 newtab-widget-section-menu-learn-more = Сазнајте више
@@ -906,6 +918,7 @@ newtab-widget-timer-celebration-message-break = Спремни за фокус?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Прати екипе
+newtab-sports-widget-menu-view-schedule = Прикажи распоред
 newtab-sports-widget-menu-view-upcoming = Прикажи предстојеће
 newtab-sports-widget-menu-view-results = Прикажи резултате
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -935,6 +948,8 @@ newtab-sports-widget-search-country =
     .placeholder = Претражи државу
     .aria-label = Претражи државу
 newtab-sports-widget-cancel = Откажи
+newtab-sports-widget-back-button =
+    .aria-label = Назад
 newtab-sports-widget-done-button =
     .label = Готово
 newtab-sports-widget-group-stage = Групна фаза
@@ -949,6 +964,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Кључни датуми
 newtab-sports-widget-upcoming = Предстојећи
+# Used for a match currently ongoing
+newtab-sports-widget-now = Сада
 newtab-sports-widget-results = Резултати
 newtab-sports-widget-semi-finals = Полуфинале
 newtab-sports-widget-bronze-finals = Меч за треће место
@@ -1043,6 +1060,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Резултати претраге
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Нема подударања
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

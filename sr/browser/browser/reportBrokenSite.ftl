@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Пријавите неисправан сајт
 report-broken-site-panel-intro-text = Ваш извештај нам помаже да разумемо и поправимо проблеме у { -brand-product-name } како бисмо га учинили бољим за све.
 report-broken-site-panel-learn-more-link = Сазнајте више
+report-broken-site-panel-reason-intro-text = Шта не ради?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Веб сајт се не учитава
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Веб сајт је тражио да искључим блокатор огласа
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Прегледач није подржан или је блокиран
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Страница је обмањујућа
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Нешто друго
+report-broken-site-panel-instructions-other = Детаљно опишите проблем како бисмо га могли истражити.
+report-broken-site-panel-instructions-other-optional = Детаљно опишите проблем како бисмо га могли истражити. (необавезно)
+report-broken-site-panel-description2 =
+    .placeholder = Шта се десило? Шта сте очекивали да се деси? Наведете кораке за репродуковање проблема.
 report-broken-site-panel-send-more-info-button =
     .label = Пошаљите више информација
 report-broken-site-panel-intro = Помозите да { -brand-product-name } буде бољи за све. { -vendor-short-name } користи податке које шаљете да реше проблеме на сајту.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Откажи
 report-broken-site-panel-button-okay =
     .label = У реду
+report-broken-site-panel-button-send-report =
+    .label = Пошаљи извештај
 report-broken-site-panel-button-send =
     .label = Пошаљи
 report-broken-site-panel-report-sent-label = Ваш извештај је послан
@@ -71,6 +80,19 @@ report-broken-site-panel-report-sent-header =
     .title = Ваш извештај је послан
 report-broken-site-panel-report-sent-text = Хвала што помажете { -brand-product-name }-у да интернет буде отворенији, приступачнији и бољи за све.
 report-broken-site-panel-invalid-url-label = Унесите важећу URL адресу
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Унесите најмање { $minLength } знак
+        [few] Унесите најмање { $minLength } знака
+       *[other] Унесите најмање { $minLength } знакова
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Пошаљи снимак екрана
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Пошаљи списак ставки блокираних заштитом од праћења
+report-broken-site-panel-url-input-label =
+    .aria-label = УРЛ странице која се пријављује
 report-broken-site-panel-missing-reason-label = Одаберите разлог
 report-broken-site-panel-blocked-trackers-label =
     .label = Пошаљите URL-ове блокиране заштитом од праћења

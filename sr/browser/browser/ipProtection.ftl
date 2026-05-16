@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Изаберите друго место за прегледање.
 ipprotecion-locations-subview-recommended-label = Препоручено
 ipprotection-locations-subview-recommended-description = Проналази најбржу локацију
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Недоступно
 ipprotection-locations-subview-promo =
     .heading = Поведите заштиту корак даље уз { -mozilla-vpn-brand-name }
     .message = Изаберите из више од 300 локација и заштитите све своје програме на до 5 уређаја.

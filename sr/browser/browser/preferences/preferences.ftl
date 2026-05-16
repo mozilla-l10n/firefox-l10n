@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Почетна
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Почетна и покретање
 pane-search-title = Претрага
 category-search =
     .tooltiptext = { pane-search-title }
@@ -487,6 +488,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Само текст
     .accesskey = т
+preferences-text-zoom-override-warning2 =
+    .message = Ако је укључено „Увећај само текст“ и подразумевано увећање није 100%, неке веб странице можда неће правилно приказивати садржај.
 preferences-text-zoom-override-warning =
     .message = Упозорење: ако изаберете „Само увећање текста” а ваше подразумевано увећање није постављено на 100%, то може довести до тога да неки сајтови или садржај не раде исправно.
 language-header = Језик
@@ -2665,6 +2668,8 @@ related-settings-accessibility-link =
     .label = Прилагодите подешавања увећања и фонта у Приступачности.
 related-settings-home-link =
     .label = Прилагоди { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Прилагодите распоред прегледача
 
 ## AI controls page
 

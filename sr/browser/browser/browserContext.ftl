@@ -308,6 +308,9 @@ main-context-menu-send-to-mobile-sign-in-from-page = Пријавите се д�
 main-context-menu-send-to-mobile-enable-sync3 = Укључите усклађивање за слање језичака
 main-context-menu-send-to-mobile-enable-sync-from-link = Укључите усклађивање за слање везе
 main-context-menu-send-to-mobile-enable-sync-from-page = Укључите усклађивање за слање странице
+main-context-menu-send-to-mobile-connect-phone3 = Повежите уређај за слање језичака
+main-context-menu-send-to-mobile-connect-phone-from-link = Повежите уређај за слање везе
+main-context-menu-send-to-mobile-connect-phone-from-page = Повежите уређај за слање странице
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Омогућите усклађивање да бисте послали језичак
