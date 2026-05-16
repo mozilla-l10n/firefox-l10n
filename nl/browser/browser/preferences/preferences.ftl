@@ -98,6 +98,8 @@ pane-experimental-description3 = Probeer onze experimentele functies! Ze zijn in
 pane-experimental-reset =
     .label = Standaardwaarden herstellen
     .accesskey = h
+help-button-label2 = { -brand-short-name } Support
+    .title = { -brand-short-name } Support
 addons-button-label2 = Extensies & Thema’s
     .title = Extensies & Thema’s
 help-button-label = { -brand-short-name } Support
@@ -2226,6 +2228,8 @@ permissions-header3 =
     .description = Beheren welke websites kunnen benaderen, aansturen of starten.
 permissions-data-section =
     .heading = Toestemmingen en gegevens
+pane-permissions-data-title2 = Toestemmingen en gegevens
+    .title = Toestemmingen en gegevens
 
 ## Privacy Section - Data Collection
 
