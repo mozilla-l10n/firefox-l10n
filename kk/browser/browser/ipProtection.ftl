@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Келесі
 ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
 ipprotection-feature-introduction-button-secondary-no-thanks = Жоқ, рахмет
 ipprotection-feature-introduction-button-secondary-remove = VPN-ды саймандар тақтасынан алып тастау
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = VPN-ды саймандар тақтасынан алып тастау
 
 ## Site settings callout
 
