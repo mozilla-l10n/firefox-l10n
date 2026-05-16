@@ -51,9 +51,10 @@ pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = 홈
+pane-search-title2 = 검색
+    .title = 검색
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = 홈 및 시작
 pane-search-title = 검색
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = { -brand-short-name } 정보
     .title = { pane-about-firefox-title }
 pane-appearance-title = 모양
     .title = { pane-appearance-title }
-pane-downloads-title = 다운로드
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = 접근성
     .title = { pane-accessibility-title }
-pane-languages-title = 언어
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } 실험
 category-experimental =
     .tooltiptext = { -brand-short-name } 실험
@@ -225,8 +224,6 @@ preferences-copy-profile-select = 프로필 선택
 preferences-copy-profile-button = 복사
 tabs-browsing-section =
     .heading = 탭 및 탐색
-pane-tabs-browsing-title = 탭 및 탐색
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = 탭
 tabs-opening-heading =
@@ -1279,7 +1276,6 @@ account-placeholder2 =
     .description = 로그인하여 { -brand-short-name }를 사용하는 모든 곳에서 데이터를 안전하게 보호하고, 암호화하며, 언제 어디서나 즉시 사용할 수 있도록 하세요.
 account-sync-section =
     .heading = 계정 및 동기화
-pane-account-sync-title = 계정 및 동기화
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1735,9 +1731,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = 비밀번호 및 자동 채우기 설정
-pane-passwords-autofill-title = 비밀번호 및 자동 채우기
 preferences-passwords-autofill-header =
     .heading = 비밀번호 및 자동 채우기
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2215,7 +2208,6 @@ permissions-header3 =
     .description = 어떤 웹 사이트가 접근, 제어 또는 실행할 수 있는지 관리합니다.
 permissions-data-section =
     .heading = 권한 및 데이터
-pane-permissions-data-title = 권한 및 데이터
 
 ## Privacy Section - Data Collection
 
@@ -2620,6 +2612,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = 취소
 preferences-ai-controls-block-confirmation-confirm =
     .label = 차단
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
