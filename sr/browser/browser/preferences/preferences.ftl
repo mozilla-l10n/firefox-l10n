@@ -1804,6 +1804,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Лозинке и самодопуњавање
+    .title = Лозинке и самодопуњавање
 preferences-passwords-autofill-header =
     .heading = Лозинке и самодопуњавање
 # These values are displayed for each credit card record listed on the Manage Payment methods
