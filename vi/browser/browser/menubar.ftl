@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Cài đặt…
+menu-application-set-as-default =
+    .label = Đặt { -brand-shorter-name } làm trình duyệt mặc định
 menu-application-services =
     .label = Dịch vụ
 menu-application-hide-this =
@@ -152,7 +154,7 @@ menu-view-full-zoom-actual-size =
     .label = Kích thước thực
     .accesskey = A
 menu-view-full-zoom-toggle =
-    .label = Chỉ phóng to văn bản
+    .label = Chỉ thu phóng văn bản
     .accesskey = T
 menu-view-page-style-menu =
     .label = Kiểu của trang

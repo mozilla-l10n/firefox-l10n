@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Trang chủ
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Trang chủ và khởi động
 pane-search-title = Tìm kiếm
 category-search =
     .tooltiptext = { pane-search-title }
@@ -222,6 +223,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Chọn hồ sơ
 preferences-copy-profile-button = Sao chép
+tabs-browsing-section =
+    .heading = Thẻ và duyệt web
+pane-tabs-browsing-title = Thẻ và duyệt web
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Thẻ
 tabs-opening-heading =
@@ -266,16 +271,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Cảnh báo bạn khi mở nhiều thẻ có thể làm chậm { -brand-short-name }
     .accesskey = d
+switch-to-new-tabs-2 =
+    .label = Khi mở liên kết hoặc phương tiện trong thẻ mới, chuyển sang thẻ đó ngay lập tức.
+    .accesskey = h
 switch-to-new-tabs =
     .label = Khi bạn mở một liên kết, hình ảnh hoặc phương tiện trong một thẻ mới, chuyển sang nó ngay lập tức
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = k
+browser-containers-enabled-2 =
+    .label = Sử dụng ngăng chứa thẻ
+    .accesskey = n
 browser-containers-enabled =
     .label = Kích hoạt ngăn chứa thẻ
     .accesskey = n
 browser-containers-learn-more = Tìm hiểu thêm
+browser-containers-settings-2 =
+    .label = Quản lý cài đặt
+    .accesskey = i
 browser-containers-settings =
     .label = Cài đặt…
     .accesskey = i
@@ -316,6 +330,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Hiển thị thanh lề
     .description = Nhanh chóng truy cập dấu trang, thẻ từ điện thoại của bạn, chatbot AI và nhiều hơn nữa mà không rời khỏi chế độ xem chính của bạn.
+page-navigation-group =
+    .label = Điều hướng trang
 browser-layout-header = Bố cục trình duyệt
 browser-layout-horizontal-tabs =
     .label = Thẻ ngang
@@ -433,8 +449,10 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Chỉ thu phóng văn bản
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Nếu tùy chọn “Chỉ thu phóng văn bản” được bật và thu phóng mặc định của bạn không phải là 100%, một số trang web có thể không hiển thị nội dung chính xác.
 preferences-text-zoom-override-warning =
-    .message = Cảnh báo: Nếu bạn chọn “Chỉ phóng to văn bản” và thu phóng mặc định của bạn không được đặt thành 100%, nó có thể khiến một số trang web hoặc nội dung bị hỏng.
+    .message = Cảnh báo: Nếu bạn chọn “Chỉ thu phóng văn bản” và thu phóng mặc định của bạn không được đặt thành 100%, nó có thể khiến một số trang web hoặc nội dung bị hỏng.
 language-header = Ngôn ngữ
 choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hiển thị trang
 website-language-heading =
@@ -716,6 +734,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Cài đặt
+update-application-auto-2 =
+    .label = Tự động cài đặt các bản cập nhật (được đề xuất)
+    .accesskey = A
 update-history =
     .label = Hiển thị lịch sử cập nhật…
     .accesskey = p
@@ -809,6 +830,10 @@ performance-default-content-process-count =
     .label = { $num } (mặc định)
 performance-group =
     .label = Hiệu suất
+performance-use-recommended-settings-checkbox-2 =
+    .label = Sử dụng cài đặt hiệu năng được đề xuất
+    .description = Các thiết lập này được điều chỉnh phù hợp với phần cứng và hệ điều hành của bạn.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -843,6 +868,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Tìm kiếm văn bản khi bạn bắt đầu nhập
     .accesskey = x
+settings-media-group =
+    .label = Đa phương tiện
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Sử dụng chế độ hình trong hình
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Bật điều khiển video hình trong hình
     .accesskey = E
@@ -853,6 +883,8 @@ browsing-picture-in-picture-learn-more = Tìm hiểu thêm
 browsing-media-control =
     .label = Điều khiển phương tiện qua bàn phím, tai nghe hoặc giao diện ảo
     .accesskey = v
+recommendations-group =
+    .label = Được đề xuất
 browsing-media-control-learn-more = Tìm hiểu thêm
 browsing-cfr-recommendations =
     .label = Đề xuất tiện ích mở rộng khi duyệt
@@ -1242,6 +1274,7 @@ account-placeholder2 =
     .description = Đăng nhập và giữ dữ liệu của bạn riêng tư, được mã hoá và có thể truy cập ngay lập tức mọi lúc mọi nơi bạn sử dụng { -brand-short-name }.
 account-sync-section =
     .heading = Tài khoản và đồng bộ
+pane-account-sync-title = Tài khoản và đồng bộ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1697,6 +1730,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Cài đặt mật khẩu và tự động điền
+pane-passwords-autofill-title = Mật khẩu và tự động điền
+preferences-passwords-autofill-header =
+    .heading = Mật khẩu và tự động điền
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2516,6 +2554,8 @@ related-settings-accessibility-link =
     .label = Tùy chỉnh cài đặt thu phóng và phông chữ trong Trợ năng
 related-settings-home-link =
     .label = Cá nhân hoá { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Tuỳ chỉnh bố cục trình duyệt
 
 ## AI controls page
 

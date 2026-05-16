@@ -60,3 +60,13 @@ webauthn-allow = Cho phép
     .accesskey = A
 webauthn-block = Chặn
     .accesskey = B
+webauthn-continue = Tiếp tục
+    .accesskey = n
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } muốn tạo passkey cho { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } muốn sử dụng passkey cho { $rpId }.

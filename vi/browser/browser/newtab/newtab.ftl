@@ -788,6 +788,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Ẩn widget
 newtab-widget-menu-change-size = Thay đổi kích thước
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Di chuyển
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Trái
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Phải
 newtab-widget-size-small = Nhỏ
 newtab-widget-size-medium = Trung bình
 newtab-widget-size-large = Lớn
@@ -804,6 +813,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu widget
     .aria-label = Mở menu widget
+newtab-widget-add-widgets-button =
+    .aria-label = Thêm widget
+    .title = Thêm widget
 newtab-widget-section-menu-manage = Quản lý widget
 newtab-widget-section-menu-hide-all = Ẩn widget
 newtab-widget-section-menu-learn-more = Tìm hiểu thêm
@@ -888,6 +900,7 @@ newtab-widget-timer-celebration-message-break = Sẵn sàng tập trung trở l�
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Theo dõi đội
+newtab-sports-widget-menu-view-schedule = Xem lịch trình
 newtab-sports-widget-menu-view-upcoming = Xem cái gì sắp tới
 newtab-sports-widget-menu-view-results = Hiện kết quả
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -900,6 +913,8 @@ newtab-sports-widget-view-schedule =
     .label = Xem lịch trình
 newtab-sports-widget-follow-teams =
     .label = Theo dõi đội
+newtab-sports-widget-view-matches =
+    .label = Xem các trận đấu
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -913,6 +928,8 @@ newtab-sports-widget-search-country =
     .placeholder = Tìm kiếm quốc gia
     .aria-label = Tìm kiếm quốc gia
 newtab-sports-widget-cancel = Hủy
+newtab-sports-widget-back-button =
+    .aria-label = Quay lại
 newtab-sports-widget-done-button =
     .label = Xong
 newtab-sports-widget-group-stage = Vòng bảng
@@ -927,6 +944,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Ngày quan trọng
 newtab-sports-widget-upcoming = Sắp tới
+# Used for a match currently ongoing
+newtab-sports-widget-now = Bây giờ
 newtab-sports-widget-results = Kết quả
 newtab-sports-widget-semi-finals = Bán kết
 newtab-sports-widget-bronze-finals = Tranh hạng ba

@@ -137,6 +137,12 @@ webext-site-perms-description-gated-perms-midi =
     Đây thường là các thiết bị bổ trợ như bộ tổng hợp âm thanh, nhưng cũng có thể được tích hợp vào máy tính của bạn.
     
     Các trang web thường không được phép truy cập vào thiết bị MIDI. Việc sử dụng không đúng cách có thể gây hư hỏng hoặc ảnh hưởng đến bảo mật.
+webext-site-perms-description-gated-perms-webserial =
+    Đây là những thiết bị như vi điều khiển, máy in 3D và các thiết bị khác kết nối qua cổng USB, cổng nối tiếp hoặc Bluetooth.
+    
+    Bạn có thể chọn thiết bị nào cho phép trang web truy cập.
+    
+    Thông thường, các trang web không được phép truy cập vào các thiết bị sử dụng cổng nối tiếp. Việc sử dụng không đúng cách có thể gây hư hỏng hoặc làm giảm bảo mật.
 webext-site-perms-description-gated-perms-serial =
     Đây là những thiết bị như vi điều khiển, máy in 3D và các thiết bị khác kết nối qua cổng USB hoặc cổng nối tiếp.
     
