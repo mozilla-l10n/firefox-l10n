@@ -1246,6 +1246,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Các thẻ đã đồng bộ
     .tooltiptext = Hiện thẻ từ các thiết bị khác
+toolbar-button-send-tab =
+    .label = Gửi thẻ
+    .tooltiptext = Gửi thẻ hiện tại sang thiết bị khác
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1452,6 +1455,9 @@ reset-pbm-panel-confirm-button =
     .label = Xoá dữ liệu phiên
     .accesskey = D
 reset-pbm-panel-complete = Đã xóa dữ liệu phiên riêng tư
+reset-pbm-toolbar-button2 =
+    .label = Xoá phiên riêng tư
+    .tooltiptext = Xoá phiên riêng tư
 
 ## Autorefresh blocker
 

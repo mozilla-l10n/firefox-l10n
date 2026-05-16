@@ -598,6 +598,7 @@ mlmodel-link-preview = { -brand-short-name } sử dụng cái này để tạo r
 mlmodel-pdfjs = { -brand-short-name } sử dụng cái này để tạo văn bản thay thế cho hình ảnh bạn thêm vào PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } sử dụng cái này để gợi ý tên cho nhóm thẻ của bạn
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } sử dụng cái này để đề xuất các thẻ cho nhóm thẻ của bạn
+mlmodel-formfill-engine = { -brand-short-name } sử dụng cái này để giúp điền vào các mẫu địa chỉ
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI trên thiết bị
 addon-category-mlmodel-title =

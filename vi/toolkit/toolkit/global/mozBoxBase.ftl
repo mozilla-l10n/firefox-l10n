@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Mở trong một thẻ mới
+moz-box-item-reorder-handle =
+    .aria-label = Sắp xếp lại mục sử dụng Ctrl+Shift+(Mũi tên lên) hoặc Ctrl+Shift+(Mũi tên xuống)
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Sắp xếp lại { $item } sử dụng Ctrl+Shift+(Mũi tên lên) hoặc Ctrl+Shift+(Mũi tên xuống)

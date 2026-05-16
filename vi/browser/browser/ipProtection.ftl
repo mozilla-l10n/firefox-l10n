@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Chọn một địa điểm khác để duyệt web.
 ipprotecion-locations-subview-recommended-label = Được đề xuất
 ipprotection-locations-subview-recommended-description = Tìm địa điểm nhanh nhất
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Không có sẵn
 ipprotection-locations-subview-promo =
     .heading = Tăng cường bảo mật với { -mozilla-vpn-brand-name }
     .message = Chọn từ hơn 300 địa điểm và bảo vệ tất cả ứng dụng của bạn trên tối đa 5 thiết bị.
