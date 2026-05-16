@@ -65,6 +65,8 @@ pane-privacy-title = Personvern og sikkerhet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synkronisering
+pane-ai-controls-title2 = AI-kontroller
+    .title = AI-kontroller
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI-kontroller
@@ -74,10 +76,14 @@ pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Utseende
     .title = { pane-appearance-title }
+pane-downloads-title2 = Nedlastinger
+    .title = Nedlastinger
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Tilgjengelighet
     .title = { pane-accessibility-title }
+pane-languages-title2 = Språk
+    .title = Språk
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Velg profil
 preferences-copy-profile-button = Kopier
 tabs-browsing-section =
     .heading = Faner og nettlesing
+pane-tabs-browsing-title2 = Faner og nettlesing
+    .title = Faner og nettlesing
 tabs-group-header2 =
     .label = Faner
 tabs-opening-heading =
@@ -1296,6 +1304,8 @@ account-placeholder2 =
     .description = Logg inn og hold dataene dine private, krypterte og umiddelbart tilgjengelige overalt der du bruker { -brand-short-name }.
 account-sync-section =
     .heading = Konto og synkronisering
+pane-account-sync-title2 = Konto og synkronisering
+    .title = Konto og synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,6 +1761,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Passord og autofyll
+    .title = Passord og autofyll
 preferences-passwords-autofill-header =
     .heading = Passord og autofyll
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,6 +2240,8 @@ permissions-header3 =
     .description = Behandle hva nettsteder kan få tilgang til, styre eller utløse.
 permissions-data-section =
     .heading = Tillatelser og data
+pane-permissions-data-title2 = Tillatelser og data
+    .title = Tillatelser og data
 
 ## Privacy Section - Data Collection
 
