@@ -1114,6 +1114,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Elegir un fondo de pantalla
 home-prefs-choose-wallpaper-link2 =
     .label = Elegir un fondo de pantalla
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensión ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
