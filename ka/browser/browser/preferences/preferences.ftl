@@ -51,6 +51,8 @@ pane-general-title = მთავარი
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = საწყისი გვერდი
+pane-search-title2 = ძიება
+    .title = ძიება
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = ძიება
@@ -72,16 +74,14 @@ pane-about-firefox-title = { -brand-short-name } შესახებ
     .title = { pane-about-firefox-title }
 pane-appearance-title = იერსახე
     .title = { pane-appearance-title }
-pane-downloads-title = ჩამოტვირთვები
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = ხელმისაწვდომობა
     .title = { pane-accessibility-title }
-pane-languages-title = ენები
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } ცდები
 category-experimental =
     .tooltiptext = { -brand-short-name } ცდები
@@ -98,6 +98,8 @@ pane-experimental-description3 = მოსინჯეთ ჩვენი სა
 pane-experimental-reset =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = უ
+addons-button-label2 = გაფართოებები და თემები
+    .title = გაფართოებები და თემები
 help-button-label = { -brand-short-name } დახმარება
 addons-button-label = გაფართოებები და თემები
 focus-search =
@@ -224,8 +226,6 @@ preferences-copy-profile-select = პროფილის არჩევა
 preferences-copy-profile-button = ასლი
 tabs-browsing-section =
     .heading = ჩანართები და მონახულება
-pane-tabs-browsing-title = ჩანართები და მონახულება
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = ჩანართები
 tabs-opening-heading =
@@ -1292,7 +1292,6 @@ account-placeholder2 =
     .description = შედით, რომ თქვენი მონაცემები დარჩეს ხელშეუხებელი, დაშიფრული და მყისიერად ხელმისაწვდომი ყველგან, სადაც კი გიყენიათ { -brand-short-name }.
 account-sync-section =
     .heading = ანგარიში და დასინქრონება
-pane-account-sync-title = ანგარიში და დასინქრონება
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1748,9 +1747,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = პაროლებისა და თვითშევსების პარამეტრები
-pane-passwords-autofill-title = პაროლები და თვითშევსება
 preferences-passwords-autofill-header =
     .heading = პაროლები და თვითშევსება
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,7 +2224,6 @@ permissions-header3 =
     .description = განკარგეთ, საიტებს რისი წვდომა, მართვა ან ამოქმედება შეეძლება.
 permissions-data-section =
     .heading = ნებართვები და მონაცემები
-pane-permissions-data-title = ნებართვები და მონაცემები
 
 ## Privacy Section - Data Collection
 
@@ -2631,6 +2626,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = გაუქმება
 preferences-ai-controls-block-confirmation-confirm =
     .label = შეზღუდვა
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
