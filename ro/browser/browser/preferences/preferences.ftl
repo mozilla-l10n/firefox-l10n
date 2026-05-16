@@ -70,13 +70,14 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Despre { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accesibilitate
     .title = { pane-accessibility-title }
-pane-languages-title = Limbi
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experimente { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimente { -brand-short-name }
@@ -2494,6 +2495,9 @@ desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2552,6 +2556,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anulează
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
