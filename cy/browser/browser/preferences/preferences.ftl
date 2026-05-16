@@ -72,16 +72,14 @@ pane-about-firefox-title = Ynghylch { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Gwedd
     .title = { pane-appearance-title }
-pane-downloads-title = Llwythi
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Hygyrchedd
     .title = { pane-accessibility-title }
-pane-languages-title = Iaith
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Arbrofion { -brand-short-name }
 category-experimental =
     .tooltiptext = Arbrofion { -brand-short-name }
@@ -224,8 +222,6 @@ preferences-copy-profile-select = Dewis proffil
 preferences-copy-profile-button = Copïo
 tabs-browsing-section =
     .heading = Tabiau a phori
-pane-tabs-browsing-title = Tabiau a phori
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabiau
 tabs-opening-heading =
@@ -1308,7 +1304,6 @@ account-placeholder2 =
     .description = Mewngofnodwch a  chadw'ch data yn breifat, wedi'i amgryptio ac ar gael yn syth lle bynnag fyddwch yn defnyddio { -brand-short-name }.
 account-sync-section =
     .heading = Cyfrif a chydweddu
-pane-account-sync-title = Cyfrif a chydweddu
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1764,9 +1759,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Cyfrineiriau a gosodiadau awtolenwi
-pane-passwords-autofill-title = Cyfrineiriau ac awtolenwi
 preferences-passwords-autofill-header =
     .heading = Cyfrineiriau ac awtolenwi
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2244,7 +2236,6 @@ permissions-header3 =
     .description = Rheoli beth mae gwefannau'n gallu cael mynediad iddo, rheoli neu gychwyn.
 permissions-data-section =
     .heading = Caniatâd a data
-pane-permissions-data-title = Caniatâd a data
 
 ## Privacy Section - Data Collection
 
@@ -2647,6 +2638,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Diddymu
 preferences-ai-controls-block-confirmation-confirm =
     .label = Rhwystro
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
