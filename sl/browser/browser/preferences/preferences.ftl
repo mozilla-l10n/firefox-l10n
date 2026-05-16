@@ -1242,6 +1242,8 @@ account-placeholder2 =
     .description = Prijavite se in si uredite zaseben, zavarovan in enostaven dostop do svojih podatkov povsod, kjer uporabljate { -brand-short-name(sklon: "tozilnik") }
 account-sync-section =
     .heading = Račun in sinhronizacija
+pane-account-sync-title2 = Račun in sinhronizacija
+    .title = Račun in sinhronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
