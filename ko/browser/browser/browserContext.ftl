@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = 탭을 보내기 위해 로그인
 main-context-menu-send-to-mobile-enable-sync2 = 탭을 보내려면 동기화를 활성화하세요
 main-context-menu-send-to-mobile-connect-phone2 = 휴대폰 연결
 main-context-menu-send-to-mobile-device-missing2 = 사용자의 기기가 없나요?
+main-context-menu-send-to-mobile-sign-in-from-link = 링크를 보내려면 로그인하세요
+main-context-menu-send-to-mobile-sign-in-from-page = 페이지를 보내려면 로그인하세요
+main-context-menu-send-to-mobile-enable-sync3 = 탭을 보내려면 동기화를 켜세요
+main-context-menu-send-to-mobile-enable-sync-from-link = 링크를 보내려면 동기화를 켜세요
+main-context-menu-send-to-mobile-enable-sync-from-page = 페이지를 보내려면 동기화를 켜세요
+main-context-menu-send-to-mobile-connect-phone3 = 탭을 보내려면 기기를 연결하세요
+main-context-menu-send-to-mobile-connect-phone-from-link = 링크를 보내려면 기기를 연결하세요
+main-context-menu-send-to-mobile-connect-phone-from-page = 페이지를 보내려면 기기를 연결하세요
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = 탭을 보내려면 동기화를 활성화하세요
