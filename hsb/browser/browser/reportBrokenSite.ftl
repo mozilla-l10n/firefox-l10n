@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Wobškodźene sydło zdźělić
 report-broken-site-panel-intro-text = Waša rozprawa nam pomha, problemy w { -brand-product-name } rozumić a rozrisać, zo bychmy jón za kóždeho polěpšili.
 report-broken-site-panel-learn-more-link = Dalše informacije
+report-broken-site-panel-reason-intro-text = Što njefunguje?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Sydło so njezačituje
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Sydło je žadało, wabjenski blokowak znjemóžnić
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Wobhladowak so njepodpěruje abo njeblokuje
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Sydło je wobšudne
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Něšto druhe
+report-broken-site-panel-instructions-other = Wopisajće problem nadrobnje, zo byšće nam pomhał, problem přespytować.
+report-broken-site-panel-instructions-other-optional = Wopisajće problem nadrobnje, zo byšće nam pomhał, problem přespytować. (na přeće)
+report-broken-site-panel-description2 =
+    .placeholder = Što je so stało? Što ma so stać? Prošu podajće kroki za reprodukciju problema.
 report-broken-site-panel-send-more-info-button =
     .label = Dalše informacije pósłać
 report-broken-site-panel-intro = Pomhajće, { -brand-product-name } za wšěch polěpšił. { -vendor-short-name } informacije wužiwa, kotrež sćeleće, zo byšće problemy z websydłom rozrisał.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Přetorhnyć
 report-broken-site-panel-button-okay =
     .label = W porjadku
+report-broken-site-panel-button-send-report =
+    .label = Rozprawu pósłać
 report-broken-site-panel-button-send =
     .label = Pósłać
 report-broken-site-panel-report-sent-label = Waša rozprawa je so pósłała
@@ -71,6 +80,20 @@ report-broken-site-panel-report-sent-header =
     .title = Waša rozprawa je so pósłała
 report-broken-site-panel-report-sent-text = Wulki dźak, zo { -brand-product-name } pomhaće, zo budźe web bóle wotewrjeny, přistupny a lěpši.
 report-broken-site-panel-invalid-url-label = Prošu zapodajće płaćiwy URL
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Prošu zapodajće znajmjeńša { $minLength } znamješko
+        [two] Prošu zapodajće znajmjeńša { $minLength } znamješce
+        [few] Prošu zapodajće znajmjeńša { $minLength } znamješka
+       *[other] Prošu zapodajće znajmjeńša { $minLength } znamješkow
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Foto wobrazowki pósłać
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Lisćinu zapiskow pósłać, kotrež su so přez přesćěhowanski škit zablokowali
+report-broken-site-panel-url-input-label =
+    .aria-label = URL strony, kotraž so zdźěla
 report-broken-site-panel-missing-reason-label = Prošu wubjerće přičinu
 report-broken-site-panel-blocked-trackers-label =
     .label = URL pósłać, kotrež su so přez přesćěhowanski škit zablokowali
