@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-kód a mobilos { -brand-product-name } letöltéséhez
 more-from-moz-button-mozilla-vpn-2 = VPN beszerzése
 more-from-moz-learn-more-link = További tudnivalók
+more-from-moz-title2 = Továbbiak a { -vendor-short-name(ending: "accented") }tól
+    .title = Továbbiak a { -vendor-short-name(ending: "accented") }tól
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
