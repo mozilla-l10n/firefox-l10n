@@ -65,6 +65,8 @@ pane-privacy-title = Tietosuoja ja turvallisuus
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synkronointi
+pane-ai-controls-title2 = Tekoälyn säätimet
+    .title = Tekoälyn säätimet
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Tekoälyn säätimet
@@ -74,10 +76,14 @@ pane-about-firefox-title = Tietoja { -brand-short-name }ista
     .title = { pane-about-firefox-title }
 pane-appearance-title = Ulkoasu
     .title = { pane-appearance-title }
+pane-downloads-title2 = Lataukset
+    .title = Lataukset
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Esteettömyys
     .title = { pane-accessibility-title }
+pane-languages-title2 = Kielet
+    .title = Kielet
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Valitse profiili
 preferences-copy-profile-button = Kopioi
 tabs-browsing-section =
     .heading = Välilehdet ja selaaminen
+pane-tabs-browsing-title2 = Välilehdet ja selaaminen
+    .title = Välilehdet ja selaaminen
 tabs-group-header2 =
     .label = Välilehdet
 tabs-opening-heading =
@@ -1283,6 +1291,8 @@ account-placeholder2 =
     .description = Kirjaudu sisään ja pidä tietosi yksityisenä, salattuna ja välittömästi käyttövalmiina missä hyvänsä käytät { -brand-short-name }ia.
 account-sync-section =
     .heading = Tili ja synkronointi
+pane-account-sync-title2 = Tili ja synkronointi
+    .title = Tili ja synkronointi
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1738,6 +1748,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Salasanat ja automaattinen täyttö
+    .title = Salasanat ja automaattinen täyttö
 preferences-passwords-autofill-header =
     .heading = Salasanat ja automaattinen täyttö
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2215,6 +2227,8 @@ permissions-header3 =
     .description = Hallitse mitä verkkosivustot voivat käyttää, ohjata ja käynnistää.
 permissions-data-section =
     .heading = Käyttöoikeudet ja data
+pane-permissions-data-title2 = Käyttöoikeudet ja data
+    .title = Käyttöoikeudet ja data
 
 ## Privacy Section - Data Collection
 
