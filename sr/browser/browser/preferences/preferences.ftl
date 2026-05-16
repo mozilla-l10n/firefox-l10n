@@ -473,25 +473,25 @@ advanced-fonts =
     .accesskey = Н
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header2 =
-    .label = Зумирање
+    .label = Увећање
 preferences-default-zoom-label =
-    .label = Ниво зумирања:
-    .accesskey = з
+    .label = Ниво увећања:
+    .accesskey = в
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Зумирање
-preferences-default-zoom = Ниво зумирања:
-    .accesskey = з
+preferences-zoom-header = Увећање
+preferences-default-zoom = Ниво увећања:
+    .accesskey = в
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = Само текст
+    .label = Само увећање текста
     .accesskey = т
 preferences-text-zoom-override-warning2 =
-    .message = Ако је укључено „Увећај само текст“ и подразумевано увећање није 100%, неке веб странице можда неће правилно приказивати садржај.
+    .message = Ако је укључено „Само увећање текста“ и подразумевано увећање није 100%, неке веб странице можда неће правилно приказивати садржај.
 preferences-text-zoom-override-warning =
-    .message = Упозорење: ако изаберете „Само увећање текста” а ваше подразумевано увећање није постављено на 100%, то може довести до тога да неки сајтови или садржај не раде исправно.
+    .message = Упозорење: ако изаберете „Само увећање текста” а ваше подразумевано увећање није постављено на 100%, то може довести до тога да неке странице или садржаји не раде исправно.
 language-header = Језик
 choose-language-description = Изаберите језик за приказ страница
 website-language-heading =

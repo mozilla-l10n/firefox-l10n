@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Умањи
 window-zoom-command =
-    .label = Зумирање
+    .label = Увећање
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
