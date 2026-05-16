@@ -65,6 +65,8 @@ pane-privacy-title = Приватност и безбедност
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Усклађивање
+pane-ai-controls-title2 = ВИ контроле
+    .title = ВИ контроле
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = ВИ контроле
@@ -104,6 +106,22 @@ pane-experimental-description3 = Испробајте наше експерим�
 pane-experimental-reset =
     .label = Врати подразумевано
     .accesskey = В
+help-button-label2 =
+    { -brand-short-name.gender ->
+        [masculine] Подршка за { -brand-short-name(case: "acc") }
+        [feminine] Подршка за { -brand-short-name(case: "acc") }
+        [neuter] Подршка за { -brand-short-name(case: "acc") }
+       *[other] Подршка за програм { -brand-short-name }
+    }
+    .title =
+        { -brand-short-name.gender ->
+            [masculine] Подршка за { -brand-short-name(case: "acc") }
+            [feminine] Подршка за { -brand-short-name(case: "acc") }
+            [neuter] Подршка за { -brand-short-name(case: "acc") }
+           *[other] Подршка за програм { -brand-short-name }
+        }
+addons-button-label2 = Додаци и теме
+    .title = Додаци и теме
 help-button-label =
     { -brand-short-name.gender ->
         [masculine] Подршка за { -brand-short-name(case: "acc") }
@@ -2301,6 +2319,8 @@ permissions-header3 =
     .description = Управљајте оним чему веб странице могу приступити, шта могу контролисати или покренути.
 permissions-data-section =
     .heading = Дозволе и подаци
+pane-permissions-data-title2 = Дозволе и подаци
+    .title = Дозволе и подаци
 
 ## Privacy Section - Data Collection
 
