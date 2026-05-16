@@ -72,16 +72,14 @@ pane-about-firefox-title = A { -brand-short-name } névjegye
     .title = { pane-about-firefox-title }
 pane-appearance-title = Megjelenés
     .title = { pane-appearance-title }
-pane-downloads-title = Letöltések
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Akadálymentesítés
     .title = { pane-accessibility-title }
-pane-languages-title = Nyelvek
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } kísérletek
 category-experimental =
     .tooltiptext = { -brand-short-name } kísérletek
@@ -224,8 +222,6 @@ preferences-copy-profile-select = Profil kiválasztása
 preferences-copy-profile-button = Másolás
 tabs-browsing-section =
     .heading = Lapok és böngészés
-pane-tabs-browsing-title = Lapok és böngészés
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Lapok
 tabs-opening-heading =
@@ -1292,7 +1288,6 @@ account-placeholder2 =
     .description = Jelentkezzen be és tartsa biztonságban, titkosítva az adatait, és érje el mindenhol, ahol a { -brand-short-name }ot használja.
 account-sync-section =
     .heading = Fiók és szinkronizálás
-pane-account-sync-title = Fiók és szinkronizálás
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1748,9 +1743,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Jelszavak és automatikus kitöltési beállítások
-pane-passwords-autofill-title = Jelszavak és automatikus kitöltés
 preferences-passwords-autofill-header =
     .heading = Jelszavak és automatikus kitöltés
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2228,7 +2220,6 @@ permissions-header3 =
     .description = Felügyelje, hogy a webhelyek mihez férjenek hozzá, mit irányíthassanak és mit válthassanak ki.
 permissions-data-section =
     .heading = Engedélyek és adatok
-pane-permissions-data-title = Engedélyek és adatok
 
 ## Privacy Section - Data Collection
 
@@ -2631,6 +2622,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Mégse
 preferences-ai-controls-block-confirmation-confirm =
     .label = Tiltás
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
