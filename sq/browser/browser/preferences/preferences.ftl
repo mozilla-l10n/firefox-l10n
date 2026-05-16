@@ -51,6 +51,8 @@ pane-general-title = Të përgjithshme
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Kreu
+pane-search-title2 = Kërkim
+    .title = Kërkim
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Kërkim
@@ -68,6 +70,12 @@ category-sync3 =
 pane-ai-controls-title = Kontrolle IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Eksperimente { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimente { -brand-short-name }
@@ -82,6 +90,8 @@ pane-experimental-description3 = Provoni veçoritë tonë eksperimentale! Janë 
 pane-experimental-reset =
     .label = Rikthe Parazgjedhjet
     .accesskey = R
+help-button-label2 = Asistencë { -brand-short-name }-i
+    .title = Asistencë { -brand-short-name }-i
 help-button-label = Asistencë { -brand-short-name }-i
 addons-button-label = Zgjerime & Tema
 focus-search =
@@ -722,6 +732,12 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -803,6 +819,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1502,6 +1521,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2357,11 +2379,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2421,6 +2449,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anuloje
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bllokoje
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
