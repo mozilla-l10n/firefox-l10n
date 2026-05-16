@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Далее
 ipprotection-feature-introduction-button-secondary-not-now = Не сейчас
 ipprotection-feature-introduction-button-secondary-no-thanks = Нет, спасибо
 ipprotection-feature-introduction-button-secondary-remove = Убрать VPN с панели инструментов
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Убрать VPN с панели инструментов
 
 ## Site settings callout
 
