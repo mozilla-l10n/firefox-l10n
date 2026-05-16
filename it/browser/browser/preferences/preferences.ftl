@@ -51,9 +51,10 @@ pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagina iniziale
+pane-privacy-title3 = Privacy e sicurezza
+    .title = Privacy e sicurezza
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Pagina iniziale e avvio
 pane-search-title = Ricerca
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +74,14 @@ pane-about-firefox-title = Informazioni su { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aspetto
     .title = { pane-appearance-title }
-pane-downloads-title = Download
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibilità
     .title = { pane-accessibility-title }
-pane-languages-title = Lingue
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Esperimenti di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimenti di { -brand-short-name }
@@ -99,6 +98,10 @@ pane-experimental-description3 = Prova le nostre funzioni sperimentali. Sono in 
 pane-experimental-reset =
     .label = Ripristina predefiniti
     .accesskey = R
+help-button-label2 = Supporto per { -brand-short-name }
+    .title = Supporto per { -brand-short-name }
+addons-button-label2 = Estensioni e temi
+    .title = Estensioni e temi
 help-button-label = Supporto per { -brand-short-name }
 addons-button-label = Estensioni e temi
 focus-search =
@@ -225,8 +228,6 @@ preferences-copy-profile-select = Seleziona profilo
 preferences-copy-profile-button = Copia
 tabs-browsing-section =
     .heading = Schede e navigazione
-pane-tabs-browsing-title = Schede e navigazione
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Schede
 tabs-opening-heading =
@@ -1295,7 +1296,6 @@ account-placeholder2 =
     .description = Accedi e mantieni i tuoi dati privati, protetti da crittografia e sempre disponibili ovunque utilizzi { -brand-short-name }.
 account-sync-section =
     .heading = Account e sincronizzazione
-pane-account-sync-title = Account e sincronizzazione
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1751,9 +1751,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Password e impostazioni per la compilazione automatica dei moduli
-pane-passwords-autofill-title = Password e compilazione automatica
 preferences-passwords-autofill-header =
     .heading = Password e compilazione automatica
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2231,7 +2228,6 @@ permissions-header3 =
     .description = Gestisci a cosa possono accedere, cosa possono controllare o attivare i siti web.
 permissions-data-section =
     .heading = Permessi e dati
-pane-permissions-data-title = Permessi e dati
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2632,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulla
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blocca
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
@@ -2775,4 +2773,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = La configurazione automatica del proxy è attiva
     .description = La configurazione automatica del proxy potrebbe consentire a reti non affidabili di monitorare la tua attività.
-

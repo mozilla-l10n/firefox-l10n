@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
 more-from-moz-button-mozilla-vpn-2 = Ottieni VPN
 more-from-moz-learn-more-link = Ulteriori informazioni
+more-from-moz-title2 = Altro da { -vendor-short-name }
+    .title = Altro da { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -109,4 +111,3 @@ more-from-moz-solo-box-link =
     .label = Prova { -solo-ai-brand-name }
 more-from-moz-new-products-box-link =
     .label = Scopri i nuovi prodotti
-
