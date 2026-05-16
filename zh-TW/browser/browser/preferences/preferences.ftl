@@ -65,6 +65,8 @@ pane-privacy-title = 隱私權與安全性
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = 同步
+pane-ai-controls-title2 = AI 控制
+    .title = AI 控制
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI 控制
@@ -74,10 +76,14 @@ pane-about-firefox-title = 關於 { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = 外觀設定
     .title = { pane-appearance-title }
+pane-downloads-title2 = 下載
+    .title = 下載
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = 輔助功能
     .title = { pane-accessibility-title }
+pane-languages-title2 = 語言
+    .title = 語言
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = 選擇設定檔
 preferences-copy-profile-button = 複製
 tabs-browsing-section =
     .heading = 分頁與瀏覽
+pane-tabs-browsing-title2 = 分頁與瀏覽
+    .title = 分頁與瀏覽
 tabs-group-header2 =
     .label = 分頁
 tabs-opening-heading =
@@ -1284,6 +1292,8 @@ account-placeholder2 =
     .description = 登入後即可將您的資料用有隱私、加密的方式即時同步到您所有裝置上的 { -brand-short-name }。
 account-sync-section =
     .heading = 帳號與同步
+pane-account-sync-title2 = 帳號與同步
+    .title = 帳號與同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1739,6 +1749,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = 密碼與自動填寫
+    .title = 密碼與自動填寫
 preferences-passwords-autofill-header =
     .heading = 密碼與自動填寫
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2216,6 +2228,8 @@ permissions-header3 =
     .description = 管理網站能夠存取、控制、觸發哪些項目。
 permissions-data-section =
     .heading = 權限與資料
+pane-permissions-data-title2 = 權限與資料
+    .title = 權限與資料
 
 ## Privacy Section - Data Collection
 
