@@ -51,6 +51,8 @@ pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Aloitussivu
+pane-search-title2 = Haku
+    .title = Haku
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Haku
@@ -72,16 +74,14 @@ pane-about-firefox-title = Tietoja { -brand-short-name }ista
     .title = { pane-about-firefox-title }
 pane-appearance-title = Ulkoasu
     .title = { pane-appearance-title }
-pane-downloads-title = Lataukset
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Esteettömyys
     .title = { pane-accessibility-title }
-pane-languages-title = Kielet
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name }-kokeilut
 category-experimental =
     .tooltiptext = { -brand-short-name }-kokeilut
@@ -224,8 +224,6 @@ preferences-copy-profile-select = Valitse profiili
 preferences-copy-profile-button = Kopioi
 tabs-browsing-section =
     .heading = Välilehdet ja selaaminen
-pane-tabs-browsing-title = Välilehdet ja selaaminen
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Välilehdet
 tabs-opening-heading =
@@ -1281,7 +1279,6 @@ account-placeholder2 =
     .description = Kirjaudu sisään ja pidä tietosi yksityisenä, salattuna ja välittömästi käyttövalmiina missä hyvänsä käytät { -brand-short-name }ia.
 account-sync-section =
     .heading = Tili ja synkronointi
-pane-account-sync-title = Tili ja synkronointi
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1737,9 +1734,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Salasanat ja automaattisen täytön asetukset
-pane-passwords-autofill-title = Salasanat ja automaattinen täyttö
 preferences-passwords-autofill-header =
     .heading = Salasanat ja automaattinen täyttö
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2217,7 +2211,6 @@ permissions-header3 =
     .description = Hallitse mitä verkkosivustot voivat käyttää, ohjata ja käynnistää.
 permissions-data-section =
     .heading = Käyttöoikeudet ja data
-pane-permissions-data-title = Käyttöoikeudet ja data
 
 ## Privacy Section - Data Collection
 
@@ -2620,6 +2613,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Peruuta
 preferences-ai-controls-block-confirmation-confirm =
     .label = Estä
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
