@@ -51,6 +51,8 @@ pane-general-title = ਆਮ
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = ਘਰ
+pane-search-title2 = ਖੋਜ
+    .title = ਖੋਜ
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = ਖੋਜ
@@ -72,16 +74,14 @@ pane-about-firefox-title = { -brand-short-name } ਬਾਰੇ
     .title = { pane-about-firefox-title }
 pane-appearance-title = ਦਿੱਖ
     .title = { pane-appearance-title }
-pane-downloads-title = ਡਾਊਨਲੋਡ
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = ਅਸੈੱਸਬਿਲਟੀ
     .title = { pane-accessibility-title }
-pane-languages-title = ਭਾਸ਼ਾਵਾਂ
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } ਤਜਰਬੇ
 category-experimental =
     .tooltiptext = { -brand-short-name } ਤਜਰਬੇ
@@ -224,8 +224,6 @@ preferences-copy-profile-select = ਪਰੋਫ਼ਾਈਲ ਨੂੰ ਚੁਣੋ
 preferences-copy-profile-button = ਕਾਪੀ ਕਰੋ
 tabs-browsing-section =
     .heading = ਟੈਬ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ
-pane-tabs-browsing-title = ਟੈਬ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = ਟੈਬਾਂ
 tabs-opening-heading =
@@ -1292,7 +1290,6 @@ account-placeholder2 =
     .description = ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ, ਇੰਕ੍ਰਿਪਟ ਅਤੇ ਫੌਰਨ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ, ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਵਰਤੋ।
 account-sync-section =
     .heading = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
-pane-account-sync-title = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1748,9 +1745,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ ਸੈਟਿੰਗਾਂ
-pane-passwords-autofill-title = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
 preferences-passwords-autofill-header =
     .heading = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2233,7 +2227,6 @@ permissions-header3 =
     .description = ਇੰਤਜ਼ਾਮ ਕਰੋ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਪਹੁੰਚ, ਕੰਟਰੋਲ ਜਾਂ ਤਬਦੀਲ ਕਿਵੇਂ ਕਰ ਸਕਦੀਆਂ ਹਨ
 permissions-data-section =
     .heading = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
-pane-permissions-data-title = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
 
 ## Privacy Section - Data Collection
 
@@ -2636,6 +2629,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ਰੱਦ ਕਰੋ
 preferences-ai-controls-block-confirmation-confirm =
     .label = ਪਾਬੰਦੀ
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
