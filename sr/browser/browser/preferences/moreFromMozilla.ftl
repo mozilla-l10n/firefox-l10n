@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = КР код за преузимање { -brand-product-name } за мобилне
 more-from-moz-button-mozilla-vpn-2 = Преузмите VPN
 more-from-moz-learn-more-link = Сазнајте више
+more-from-moz-title2 = Више од { -vendor-short-name }
+    .title = Више од { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
