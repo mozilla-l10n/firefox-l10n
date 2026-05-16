@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name }는 { $hostname } 서버에 대한 보안 연결을 만들 수 없습니다.
 fp-neterror-offline-intro = { -brand-short-name }가 <strong>{ $hostname }</strong> 서버에 연결할 수 없습니다.
+fp-neterror-offline-intro-2 = { -brand-short-name }가 <strong>{ $hostname }</strong> 서버에 연결할 수 없습니다.
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> 서버가 응답하는 데 시간이 너무 오래 걸립니다.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

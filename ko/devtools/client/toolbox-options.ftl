@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = DOM 속성 줄이기
 options-collapse-attrs-tooltip =
     .title = 검사기에서 긴 속성을 줄입니다
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = 주석 보기
+options-show-comments-tooltip =
+    .title = 검사기에 주석 노드 표시
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = 클릭하고 드래그하여 크기 값 편집
 options-inspector-draggable-properties-tooltip =

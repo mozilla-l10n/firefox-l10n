@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = 다른 위치를 선택하여 탐색해 보세요.
 ipprotecion-locations-subview-recommended-label = 추천
 ipprotection-locations-subview-recommended-description = 가장 빠른 위치 찾기
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = 사용할 수 없음
 ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name }으로 보호 수준 높이기
     .message = 300개 이상의 위치 중에서 선택하고, 최대 5개 기기에서 모든 앱을 보호하세요.

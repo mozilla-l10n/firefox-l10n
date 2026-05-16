@@ -53,6 +53,7 @@ category-general =
 pane-home-title = 홈
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = 홈 및 시작
 pane-search-title = 검색
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2553,6 +2554,8 @@ related-settings-accessibility-link =
     .label = 접근성에서 확대/축소 및 글꼴 설정 사용자 지정
 related-settings-home-link =
     .label = { -firefox-home-brand-name } 사용자 지정
+related-settings-tabs-browsing-link =
+    .label = 브라우저 레이아웃 사용자 지정
 
 ## AI controls page
 
