@@ -65,6 +65,8 @@ pane-privacy-title = Приватность и защита
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Синхронизация
+pane-ai-controls-title2 = Управление ИИ
+    .title = Управление ИИ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Управление ИИ
@@ -74,10 +76,14 @@ pane-about-firefox-title = О { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Внешний вид
     .title = { pane-appearance-title }
+pane-downloads-title2 = Загрузки
+    .title = Загрузки
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Поддержка доступности
     .title = { pane-accessibility-title }
+pane-languages-title2 = Языки
+    .title = Языки
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = Выбрать профиль
 preferences-copy-profile-button = Копировать
 tabs-browsing-section =
     .heading = Вкладки и просмотр
+pane-tabs-browsing-title2 = Вкладки и просмотр
+    .title = Вкладки и просмотр
 tabs-group-header2 =
     .label = Вкладки
 tabs-opening-heading =
@@ -1300,6 +1308,8 @@ account-placeholder2 =
     .description = Войдите и сохраните свои данные в конфиденциальности, зашифрованными и мгновенно доступными везде, где вы используете { -brand-short-name }.
 account-sync-section =
     .heading = Аккаунт и синхронизация
+pane-account-sync-title2 = Аккаунт и синхронизация
+    .title = Аккаунт и синхронизация
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1755,6 +1765,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Пароли и автозаполнение
+    .title = Пароли и автозаполнение
 preferences-passwords-autofill-header =
     .heading = Пароли и автозаполнение
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2232,6 +2244,8 @@ permissions-header3 =
     .description = Управляйте тем, к каким веб-сайтам можно получить доступ, контролировать их или запускать.
 permissions-data-section =
     .heading = Разрешения и данные
+pane-permissions-data-title2 = Разрешения и данные
+    .title = Разрешения и данные
 
 ## Privacy Section - Data Collection
 
