@@ -72,16 +72,14 @@ pane-about-firefox-title = Wó { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Naglěd
     .title = { pane-appearance-title }
-pane-downloads-title = Ześěgnjenja
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Bźezbariernosć
     .title = { pane-accessibility-title }
-pane-languages-title = Rěcy
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
@@ -224,8 +222,6 @@ preferences-copy-profile-select = Profil wubraś
 preferences-copy-profile-button = Kopěrowaś
 tabs-browsing-section =
     .heading = Rejtariki a pśeglědowanje
-pane-tabs-browsing-title = Rejtariki a pśeglědowanje
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Rejtariki
 tabs-opening-heading =
@@ -1302,7 +1298,6 @@ account-placeholder2 =
     .description = Pśizjawśo se a wobchowajśo swóje daty priwatne, skoděrowane a ned pśistupne wšuźi, źož { -brand-short-name } wužywaśo.
 account-sync-section =
     .heading = Konto a synchronizacija
-pane-account-sync-title = Konto a synchronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1758,9 +1753,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Nastajenja za gronidła a awtomatiske wupołnjenje
-pane-passwords-autofill-title = Gronidła a awtomatiske wupołnjenje
 preferences-passwords-autofill-header =
     .heading = Gronidła a awtomatiske wupołnjenje
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2238,7 +2230,6 @@ permissions-header3 =
     .description = Zastojśo, k comuž websedła mógu pśistup měś, což mógu kontrolěrowaś abo wuwabiś.
 permissions-data-section =
     .heading = Pšawa a daty
-pane-permissions-data-title = Pšawa a daty
 
 ## Privacy Section - Data Collection
 
@@ -2641,6 +2632,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Pśetergnuś
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokěrowaś
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
