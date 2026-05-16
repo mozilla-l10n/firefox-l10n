@@ -1276,6 +1276,8 @@ account-placeholder2 =
     .description = ลงชื่อเข้าและเก็บรักษาข้อมูลของคุณให้เป็นส่วนตัว ถูกเข้ารหัสลับ และสามารถเข้าถึงได้ทันทีในทุกที่ที่คุณใช้ { -brand-short-name }
 account-sync-section =
     .heading = บัญชีและการซิงค์
+pane-account-sync-title2 = บัญชีและการซิงค์
+    .title = บัญชีและการซิงค์
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
