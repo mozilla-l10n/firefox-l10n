@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-код для сцягвання { -brand-product-name } для мабільных прылад
 more-from-moz-button-mozilla-vpn-2 = Атрымаць VPN
 more-from-moz-learn-more-link = Даведацца больш
+more-from-moz-title2 = Больш ад { -vendor-short-name }
+    .title = Больш ад { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
