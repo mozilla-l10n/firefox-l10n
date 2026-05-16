@@ -72,16 +72,14 @@ pane-about-firefox-title = O programie { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Wygląd
     .title = { pane-appearance-title }
-pane-downloads-title = Pobieranie
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Ułatwienia dostępu
     .title = { pane-accessibility-title }
-pane-languages-title = Języki
-category-languages =
-    .tooltiptext = Ustawienia dotyczące języków
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Eksperymenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Eksperymenty { -brand-short-name(case: "gen") }
@@ -224,8 +222,6 @@ preferences-copy-profile-select = Wybierz profil
 preferences-copy-profile-button = Kopiuj
 tabs-browsing-section =
     .heading = Karty i przeglądanie
-pane-tabs-browsing-title = Karty i przeglądanie
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Karty
 tabs-opening-heading =
@@ -1296,7 +1292,6 @@ account-placeholder2 =
     .description = Zaloguj się, a Twoje dane będą prywatne, zaszyfrowane i błyskawicznie dostępne wszędzie tam, gdzie używasz { -brand-short-name(case: "gen") }.
 account-sync-section =
     .heading = Konto i synchronizacja
-pane-account-sync-title = Konto i synchronizacja
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1752,9 +1747,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Ustawienia haseł i automatycznego wypełniania
-pane-passwords-autofill-title = Hasła i automatyczne wypełnianie
 preferences-passwords-autofill-header =
     .heading = Hasła i automatyczne wypełnianie
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2232,7 +2224,6 @@ permissions-header3 =
     .description = Zarządzaj, do czego witryny mają dostęp, czym mogą sterować i co mogą wywoływać.
 permissions-data-section =
     .heading = Uprawnienia i dane
-pane-permissions-data-title = Uprawnienia i dane
 
 ## Privacy Section - Data Collection
 
@@ -2635,6 +2626,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anuluj
 preferences-ai-controls-block-confirmation-confirm =
     .label = Zablokuj
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
