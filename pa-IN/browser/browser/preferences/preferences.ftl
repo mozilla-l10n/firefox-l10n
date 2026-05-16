@@ -65,6 +65,8 @@ pane-privacy-title = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = ਸਿੰਕ ਕਰੋ
+pane-ai-controls-title2 = AI ਕੰਟਰੋਲ
+    .title = AI ਕੰਟਰੋਲ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = AI ਕੰਟਰੋਲ
@@ -74,10 +76,14 @@ pane-about-firefox-title = { -brand-short-name } ਬਾਰੇ
     .title = { pane-about-firefox-title }
 pane-appearance-title = ਦਿੱਖ
     .title = { pane-appearance-title }
+pane-downloads-title2 = ਡਾਊਨਲੋਡ
+    .title = ਡਾਊਨਲੋਡ
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = ਅਸੈੱਸਬਿਲਟੀ
     .title = { pane-accessibility-title }
+pane-languages-title2 = ਭਾਸ਼ਾਵਾਂ
+    .title = ਭਾਸ਼ਾਵਾਂ
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -228,6 +234,8 @@ preferences-copy-profile-select = ਪਰੋਫ਼ਾਈਲ ਨੂੰ ਚੁਣੋ
 preferences-copy-profile-button = ਕਾਪੀ ਕਰੋ
 tabs-browsing-section =
     .heading = ਟੈਬ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ
+pane-tabs-browsing-title2 = ਟੈਬ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ
+    .title = ਟੈਬ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ
 tabs-group-header2 =
     .label = ਟੈਬਾਂ
 tabs-opening-heading =
@@ -1294,6 +1302,8 @@ account-placeholder2 =
     .description = ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ, ਇੰਕ੍ਰਿਪਟ ਅਤੇ ਫੌਰਨ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ, ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਵਰਤੋ।
 account-sync-section =
     .heading = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
+pane-account-sync-title2 = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
+    .title = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2233,6 +2243,8 @@ permissions-header3 =
     .description = ਇੰਤਜ਼ਾਮ ਕਰੋ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਪਹੁੰਚ, ਕੰਟਰੋਲ ਜਾਂ ਤਬਦੀਲ ਕਿਵੇਂ ਕਰ ਸਕਦੀਆਂ ਹਨ
 permissions-data-section =
     .heading = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
+pane-permissions-data-title2 = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
+    .title = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
 
 ## Privacy Section - Data Collection
 
