@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Сообщить о сломанном сайте
 report-broken-site-panel-intro-text = Ваш отчёт помогает нам понять и исправить проблемы в { -brand-product-name }, чтобы сделать его лучше для всех.
 report-broken-site-panel-learn-more-link = Подробнее
+report-broken-site-panel-reason-intro-text = Что не работает?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Сайт не загружается
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Сайт попросил отключить блокировщик рекламы
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Браузер не поддерживается или заблокирован
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Поддельный сайт
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Что-то другое
+report-broken-site-panel-instructions-other = Подробно опишите проблему, чтобы помочь нам изучить её.
+report-broken-site-panel-instructions-other-optional = Подробно опишите проблему, чтобы помочь нам изучить её. (необязательно)
+report-broken-site-panel-description2 =
+    .placeholder = Что произошло? Что вы ожидали сделать? Пожалуйста, опишите шаги для воспроизведения проблемы.
 report-broken-site-panel-send-more-info-button =
     .label = Отправьте больше информации
 report-broken-site-panel-intro = Помогите сделать { -brand-product-name } лучше для всех. { -vendor-short-name } использует отправленную информацию для устранения проблем веб-сайта.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Отмена
 report-broken-site-panel-button-okay =
     .label = Хорошо
+report-broken-site-panel-button-send-report =
+    .label = Отправить сообщение
 report-broken-site-panel-button-send =
     .label = Отправить
 report-broken-site-panel-report-sent-label = Ваш отчёт отправлен
@@ -71,6 +80,19 @@ report-broken-site-panel-report-sent-header =
     .title = Ваш отчёт отправлен
 report-broken-site-panel-report-sent-text = Благодарим вас за то, что вы помогаете { -brand-product-name } сделать Интернет более открытым, доступным и лучше для всех.
 report-broken-site-panel-invalid-url-label = Введите корректный URL
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Пожалуйста, введите не менее { $minLength } символа
+        [few] Пожалуйста, введите не менее { $minLength } символов
+       *[many] Пожалуйста, введите не менее { $minLength } символов
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Отправить скриншот
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Отправить список элементов, заблокированных защитой от отслеживания
+report-broken-site-panel-url-input-label =
+    .aria-label = URL страницы, по которой запрос
 report-broken-site-panel-missing-reason-label = Пожалуйста, выберите причину
 report-broken-site-panel-blocked-trackers-label =
     .label = URL отправки, заблокированные защитой от отслеживания

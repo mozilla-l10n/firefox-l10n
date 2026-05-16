@@ -53,6 +53,7 @@ category-general =
 pane-home-title = Начало
 category-home =
     .tooltiptext = { pane-home-title }
+pane-home-startup-title = Домашняя страница и запуск
 pane-search-title = Поиск
 category-search =
     .tooltiptext = { pane-search-title }
@@ -2578,6 +2579,8 @@ related-settings-accessibility-link =
     .label = Настройте масштаб и шрифт в Доступности
 related-settings-home-link =
     .label = Настройка { -firefox-home-brand-name(case: "genitive") }
+related-settings-tabs-browsing-link =
+    .label = Настроить макет браузера
 
 ## AI controls page
 

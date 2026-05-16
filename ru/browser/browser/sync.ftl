@@ -43,6 +43,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Включить синхронизацию для отправки вкладки
 fxa-menu-send-to-mobile-connect-phone2 = Подключите ваш телефон
 fxa-menu-send-to-mobile-device-missing2 = Не видите ваше устройство?
+fxa-menu-send-to-mobile-turn-on-sync = Включите синхронизацию для отправки вкладок
+fxa-menu-send-to-mobile-connect-device = Подключите устройство для отправки вкладок
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -72,6 +74,10 @@ sync-setup-verify-heading = Вы уверены, что хотите войти 
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Другой пользователь ранее входил в синхронизацию на этом компьютере. Вход приведёт к слиянию закладок, паролей и других параметров этого браузера с { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Войдите, чтобы отправлять вкладки
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

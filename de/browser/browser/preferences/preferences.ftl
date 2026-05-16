@@ -2574,6 +2574,8 @@ related-settings-accessibility-link =
     .label = Zoom- und Schriftart-Einstellungen in Barrierefreiheit anpassen
 related-settings-home-link =
     .label = { -firefox-home-brand-name } anpassen
+related-settings-tabs-browsing-link =
+    .label = Browser-Layout anpassen
 
 ## AI controls page
 
