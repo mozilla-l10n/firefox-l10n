@@ -51,6 +51,8 @@ pane-general-title = Жалпы
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Үй парағы
+pane-search-title2 = Іздеу
+    .title = Іздеу
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Іздеу
@@ -96,6 +98,10 @@ pane-experimental-description3 = Эксперименттік мүмкіндік
 pane-experimental-reset =
     .label = Бастапқы мәндерін қайтару
     .accesskey = р
+help-button-label2 = { -brand-short-name } қолдауы
+    .title = { -brand-short-name } қолдауы
+addons-button-label2 = Кеңейтулер және темалар
+    .title = Кеңейтулер және темалар
 help-button-label = { -brand-short-name } қолдауы
 addons-button-label = Кеңейтулер және темалар
 focus-search =
@@ -2222,6 +2228,8 @@ permissions-header3 =
     .description = Веб-сайттардың неге қол жеткізе алатынын, нені басқара алатынын немесе іске қоса алатынын басқару.
 permissions-data-section =
     .heading = Рұқсаттар мен деректер
+pane-permissions-data-title2 = Рұқсаттар мен деректер
+    .title = Рұқсаттар мен деректер
 
 ## Privacy Section - Data Collection
 
