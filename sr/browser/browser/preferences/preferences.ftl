@@ -76,10 +76,14 @@ pane-about-firefox-title = О програму { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Изглед
     .title = { pane-appearance-title }
+pane-downloads-title2 = Преузимања
+    .title = Преузимања
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Приступачност
     .title = { pane-accessibility-title }
+pane-languages-title2 = Језици
+    .title = Језици
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -266,6 +270,8 @@ preferences-copy-profile-select = Изабери профил
 preferences-copy-profile-button = Умножи
 tabs-browsing-section =
     .heading = Језичци и прегледање
+pane-tabs-browsing-title2 = Језичци и прегледање
+    .title = Језичци и прегледање
 tabs-group-header2 =
     .label = Језичци
 tabs-opening-heading =
@@ -1367,6 +1373,8 @@ account-placeholder2 =
     .description = Пријавите се да би ваши подаци остали приватни, шифровани и у тренутку доступни тамо где користите { -brand-short-name }.
 account-sync-section =
     .heading = Налог и усклађивање
+pane-account-sync-title2 = Налог и усклађивање
+    .title = Налог и усклађивање
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
