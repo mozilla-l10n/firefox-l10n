@@ -461,6 +461,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zooma testuan soilik
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = 'Zooma testuan soilik' aukera gaituta badago eta zure zoom lehenetsia ez bada %100ekoa, baliteke zenbait gunek edukia ondo ez bistaratzea.
 preferences-text-zoom-override-warning =
     .message = Abisua: 'Zooma testuan soilik' hautatzen baduzu eta zure zoom lehenetsia ez badago %100ean ezarrita, zenbait gune edo eduki apur litezke.
 language-header = Hizkuntza
@@ -855,6 +857,8 @@ browsing-use-autoscroll =
     .accesskey = a
 keyboard-and-scrolling-group =
     .label = Teklatuaren bidezko nabigazioa eta korritzea
+motion-and-link-group =
+    .label = Mugimendua eta loturen estiloa
 browsing-use-smooth-scrolling =
     .label = Erabili korritze leuna
     .accesskey = u
@@ -1116,6 +1120,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Aukeratu horma-papera
 home-prefs-choose-wallpaper-link2 =
     .label = Aukeratu horma-papera
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Eginbide hauek erabiltzeko, ezarri fitxa edo leiho berriak { -firefox-home-brand-name } aukerara.
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
@@ -1641,6 +1650,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Pribatutasun-panelaren ezarpenak
+    .description = Jaso laguntza lineako zure informazioa { -brand-short-name }(e)n babesteko.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Erakutsi urratzeen mezuak
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2551,8 +2571,12 @@ browser-theme-manage-link =
     .label = Kudeatu { -brand-short-name }(r)en itxurak
 related-settings-group =
     .label = Erlazionatutako ezarpenak
+related-settings-accessibility-link =
+    .label = Pertsonalizatu zoomaren eta letra-tipoen ezarpenak erabilgarritasunaren atalean
 related-settings-home-link =
     .label = Pertsonalizatu { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Pertsonalizatu nabigatzailearen diseinua
 
 ## AI controls page
 
