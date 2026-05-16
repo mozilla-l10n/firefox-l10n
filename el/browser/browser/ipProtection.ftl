@@ -39,6 +39,8 @@ ipprotection-feature-introduction-button-primary = Επόμενο
 ipprotection-feature-introduction-button-secondary-not-now = Όχι τώρα
 ipprotection-feature-introduction-button-secondary-no-thanks = Όχι, ευχαριστώ
 ipprotection-feature-introduction-button-secondary-remove = Αφαίρεση VPN από τη γραμμή εργαλείων
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Αφαίρεση VPN από τη γραμμή εργαλείων
 
 ## Site settings callout
 
