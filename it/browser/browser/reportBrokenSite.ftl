@@ -102,3 +102,4 @@ report-broken-site-panel-preview-header2 =
     .title = Anteprima segnalazione
 report-broken-site-panel-preview-header =
     .label = Anteprima segnalazione
+
