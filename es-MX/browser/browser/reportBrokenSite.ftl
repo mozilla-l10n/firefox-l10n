@@ -56,5 +56,7 @@ report-broken-site-panel-blocked-trackers-label =
 report-broken-site-panel-blocked-trackers-description = La protección contra el rastreo mejorada podría bloquear rastreadores y scripts que algunos sitios web necesitan para funcionar correctamente.
 report-broken-site-panel-preview-button =
     .label = Vista previa del reporte
+report-broken-site-panel-preview-header2 =
+    .title = Vista previa del reporte
 report-broken-site-panel-preview-header =
     .label = Vista previa del reporte
