@@ -789,7 +789,7 @@ update-setting-write-failure-title2 = Chyba pri ukladaní nastavení pre aktuali
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    Aplikácia { -brand-short-name } zaznamenala chybu a túto zmenu neuložila. Berte na vedomie, že upravenie toho nastavenia vyžaduje povolenie na zápis do nižšie uvedeného súboru. Vy alebo váš správca systému môžete túto chybu vyriešiť udelením správnych povolení pre skupinu Používatelia,
+    Aplikácia { -brand-short-name } zaznamenala chybu a túto zmenu neuložila. Berte na vedomie, že upravenie toho nastavenia vyžaduje oprávnenie na zápis do nižšie uvedeného súboru. Vy alebo váš správca systému môžete túto chybu vyriešiť udelením správnych oprávnení pre skupinu Používatelia,
     
     Nebolo možné zapísať do súboru: { $path }
 update-in-progress-title = Prebieha aktualizácia
