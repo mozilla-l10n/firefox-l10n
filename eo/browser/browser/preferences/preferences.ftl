@@ -98,6 +98,8 @@ pane-experimental-description3 = Provu niajn eksperimentajn trajtojn! Ili disvol
 pane-experimental-reset =
     .label = Remeti normojn
     .accesskey = R
+help-button-label2 = Helpo pri { -brand-short-name }
+    .title = Helpo pri { -brand-short-name }
 addons-button-label2 = Etendaĵoj kaj etosoj
     .title = Etendaĵoj kaj etosoj
 help-button-label = Helpo pri { -brand-short-name }
@@ -1747,6 +1749,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Pasvortoj kaj aŭtomata plenigo
+    .title = Pasvortoj kaj aŭtomata plenigo
 preferences-passwords-autofill-header =
     .heading = Pasvortoj kaj aŭtomata plenigo
 # These values are displayed for each credit card record listed on the Manage Payment methods
