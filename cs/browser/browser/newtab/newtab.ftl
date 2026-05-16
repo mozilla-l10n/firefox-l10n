@@ -818,6 +818,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgety
 newtab-widget-menu-hide = Skrýt widget
 newtab-widget-menu-change-size = Změnit velikost
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Přesunout
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Doleva
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Doprava
 newtab-widget-size-small = Malý
 newtab-widget-size-medium = Střední
 newtab-widget-size-large = Velký
@@ -964,6 +973,8 @@ newtab-sports-widget-search-country =
     .placeholder = Hledat zemi
     .aria-label = Hledat zemi
 newtab-sports-widget-cancel = Zrušit
+newtab-sports-widget-back-button =
+    .aria-label = Zpět
 newtab-sports-widget-done-button =
     .label = Hotovo
 newtab-sports-widget-group-stage = Skupinová fáze
@@ -978,6 +989,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Klíčová data
 newtab-sports-widget-upcoming = Nadcházející
+# Used for a match currently ongoing
+newtab-sports-widget-now = Teď
 newtab-sports-widget-results = Výsledky
 newtab-sports-widget-semi-finals = Semifinále
 newtab-sports-widget-bronze-finals = O třetí místo
@@ -1076,6 +1089,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Výsledky vyhledávání
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Žádná shoda
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
