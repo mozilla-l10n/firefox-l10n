@@ -19,6 +19,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR за изтегляне на { -brand-product-name } за мобилно устройство
 more-from-moz-button-mozilla-vpn-2 = Вземете VPN
 more-from-moz-learn-more-link = Научете повече
+more-from-moz-title2 = Още от { -vendor-short-name }
+    .title = Още от { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
@@ -38,3 +40,20 @@ more-from-moz-mozilla-monitor-button = Вземете { -monitor-brand-short-nam
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Създайте бързо ваш уеб сайт и свържете безплатно към собствен домейн.
 more-from-moz-solo-button = Опитайте { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
