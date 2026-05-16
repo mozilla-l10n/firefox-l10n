@@ -53,7 +53,6 @@ category-general =
 pane-home-title = Trang chủ
 category-home =
     .tooltiptext = { pane-home-title }
-pane-home-startup-title = Trang chủ và khởi động
 pane-search-title = Tìm kiếm
 category-search =
     .tooltiptext = { pane-search-title }
@@ -73,16 +72,14 @@ pane-about-firefox-title = Giới thiệu về { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Diện mạo
     .title = { pane-appearance-title }
-pane-downloads-title = Tải xuống
-pane-downloads =
-    .heading = { pane-downloads-title }
+pane-downloads2 =
+    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Trợ năng
     .title = { pane-accessibility-title }
-pane-languages-title = Ngôn ngữ
-category-languages =
-    .tooltiptext = { pane-languages-title }
-preferences-languages-header =
-    .heading = { pane-languages-title }
+preferences-languages-header2 =
+    .heading = { pane-languages-title2 }
+settings-pane-labs-title2 = { -firefoxlabs-brand-name }
+    .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Thử nghiệm { -brand-short-name }
 category-experimental =
     .tooltiptext = Thử nghiệm { -brand-short-name }
@@ -225,8 +222,6 @@ preferences-copy-profile-select = Chọn hồ sơ
 preferences-copy-profile-button = Sao chép
 tabs-browsing-section =
     .heading = Thẻ và duyệt web
-pane-tabs-browsing-title = Thẻ và duyệt web
-    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Thẻ
 tabs-opening-heading =
@@ -1279,7 +1274,6 @@ account-placeholder2 =
     .description = Đăng nhập và giữ dữ liệu của bạn riêng tư, được mã hoá và có thể truy cập ngay lập tức mọi lúc mọi nơi bạn sử dụng { -brand-short-name }.
 account-sync-section =
     .heading = Tài khoản và đồng bộ
-pane-account-sync-title = Tài khoản và đồng bộ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1735,9 +1729,6 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
-category-passwords-autofill =
-    .tooltiptext = Cài đặt mật khẩu và tự động điền
-pane-passwords-autofill-title = Mật khẩu và tự động điền
 preferences-passwords-autofill-header =
     .heading = Mật khẩu và tự động điền
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -2215,7 +2206,6 @@ permissions-header3 =
     .description = Quản lý trang web nào có thể truy cập, kiểm soát hoặc kích hoạt.
 permissions-data-section =
     .heading = Quyền hạn và dữ liệu
-pane-permissions-data-title = Quyền hạn và dữ liệu
 
 ## Privacy Section - Data Collection
 
@@ -2620,6 +2610,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Hủy bỏ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Chặn
+preferences-ai-controls-header2 =
+    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 
