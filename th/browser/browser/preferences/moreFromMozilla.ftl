@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = รหัส QR สำหรับดาวน์โหลด { -brand-product-name } รุ่นมือถือ
 more-from-moz-button-mozilla-vpn-2 = รับ VPN
 more-from-moz-learn-more-link = เรียนรู้เพิ่มเติม
+more-from-moz-title2 = เพิ่มเติมจาก { -vendor-short-name }
+    .title = เพิ่มเติมจาก { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
