@@ -80,8 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Stummschaltung für Tab aufheben
 fxviewtabrow-send-to-mobile-enable-sync2 = Synchronisation zum Senden eines Tabs aktivieren
 fxviewtabrow-send-to-mobile-connect-phone2 = Verbinden Sie Ihr Telefon
+fxviewtabrow-send-to-mobile-connect-device = Verbinden Sie ein Gerät, um Tabs zu senden
 fxviewtabrow-send-to-mobile-device-missing2 = Sie sehen Ihr Gerät nicht?
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-send-to-mobile-sign-in = Melden Sie sich an, um Tabs zu versenden
+fxviewtabrow-send-to-mobile-turn-on-sync = Synchronisation zum Senden von Tabs aktivieren

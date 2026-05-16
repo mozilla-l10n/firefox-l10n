@@ -30,6 +30,9 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Sonstiges
 report-broken-site-panel-instructions-other = Beschreiben Sie das Problem im Detail, damit wir es untersuchen können.
+report-broken-site-panel-instructions-other-optional = Beschreiben Sie das Problem im Detail, damit wir es untersuchen können. (freiwillig)
+report-broken-site-panel-description2 =
+    .placeholder = Was ist passiert? Was haben Sie erwartet? Bitte geben Sie die Schritte zur Reproduktion des Problems an.
 report-broken-site-panel-send-more-info-button =
     .label = Weitere Informationen senden
 report-broken-site-panel-intro = Helfen Sie, { -brand-product-name } für alle zu verbessern. { -vendor-short-name } verwendet die gesendeten Informationen, um Probleme mit Websites zu beheben.
@@ -66,6 +69,8 @@ report-broken-site-panel-button-cancel =
     .label = Abbrechen
 report-broken-site-panel-button-okay =
     .label = OK
+report-broken-site-panel-button-send-report =
+    .label = Bericht senden
 report-broken-site-panel-button-send =
     .label = Senden
 report-broken-site-panel-report-sent-label = Ihr Bericht wurde gesendet
@@ -74,6 +79,18 @@ report-broken-site-panel-report-sent-header =
     .title = Ihr Bericht wurde gesendet
 report-broken-site-panel-report-sent-text = Vielen Dank, dass Sie { -brand-product-name } dabei helfen, das Internet für alle offener, zugänglicher und besser zu machen.
 report-broken-site-panel-invalid-url-label = Bitte eine gültige Adresse eingeben
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Bitte geben Sie mindestens { $minLength } Zeichen ein
+       *[other] Bitte geben Sie mindestens { $minLength } Zeichen ein
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Ein Bildschirmfoto senden
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Liste der Elemente senden, die durch den Tracking-Schutz blockiert wurden
+report-broken-site-panel-url-input-label =
+    .aria-label = URL der Seite, die gemeldet wird
 report-broken-site-panel-missing-reason-label = Bitte wählen Sie einen Grund
 report-broken-site-panel-blocked-trackers-label =
     .label = Vom Tracking-Schutz blockierte URLs senden

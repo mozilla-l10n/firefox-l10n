@@ -305,6 +305,12 @@ main-context-menu-send-to-mobile-connect-phone2 = Verbinden Sie Ihr Telefon
 main-context-menu-send-to-mobile-device-missing2 = Sie sehen Ihr Gerät nicht?
 main-context-menu-send-to-mobile-sign-in-from-link = Melden Sie sich an, um einen Link zu senden
 main-context-menu-send-to-mobile-sign-in-from-page = Melden Sie sich an, um eine Seite zu senden
+main-context-menu-send-to-mobile-enable-sync3 = Synchronisation zum Senden von Tabs aktivieren
+main-context-menu-send-to-mobile-enable-sync-from-link = Synchronisation zum Senden eines Links aktivieren
+main-context-menu-send-to-mobile-enable-sync-from-page = Synchronisation zum Senden einer Seite aktivieren
+main-context-menu-send-to-mobile-connect-phone3 = Verbinden Sie ein Gerät, um Tabs zu senden
+main-context-menu-send-to-mobile-connect-phone-from-link = Verbinden Sie ein Gerät, um einen Link zu senden
+main-context-menu-send-to-mobile-connect-phone-from-page = Verbinden Sie ein Gerät, um eine Seite zu senden
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Synchronisation zum Senden eines Tabs aktivieren
