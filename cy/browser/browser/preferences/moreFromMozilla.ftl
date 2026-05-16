@@ -25,6 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = Y cod QR i'w lwytho { -brand-product-name } Symudol i lawr
 more-from-moz-button-mozilla-vpn-2 = Cael VPN
 more-from-moz-learn-more-link = Darllen rhagor
+more-from-moz-title2 = Rhagor gan { -vendor-short-name }
+    .title = Rhagor gan { -vendor-short-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
