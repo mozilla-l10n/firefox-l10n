@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Báo cáo trang web bị hỏng
 report-broken-site-panel-intro-text = Báo cáo của bạn giúp chúng tôi hiểu và khắc phục các sự cố trong { -brand-product-name } để cải thiện dịch vụ cho mọi người.
 report-broken-site-panel-learn-more-link = Tìm hiểu thêm
+report-broken-site-panel-reason-intro-text = Điều gì hoạt động không đúng?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Trang không tải được
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Trang web yêu cầu tắt trình chặn quảng cáo
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Trình duyệt không được hỗ trợ hoặc bị chặn
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Trang web gây hiểu nhầm
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Cái gì đó khác
+report-broken-site-panel-instructions-other = Hãy mô tả sự cố một cách chi tiết để giúp chúng tôi điều tra.
+report-broken-site-panel-instructions-other-optional = Hãy mô tả chi tiết sự cố để giúp chúng tôi điều tra. (tùy chọn)
+report-broken-site-panel-description2 =
+    .placeholder = Chuyện gì đã xảy ra? Bạn mong đợi điều gì sẽ xảy ra? Vui lòng cung cấp các bước để tái hiện sự cố.
 report-broken-site-panel-send-more-info-button =
     .label = Gửi thêm thông tin
 report-broken-site-panel-intro = Giúp cải thiện { -brand-product-name } cho mọi người. { -vendor-short-name } sử dụng thông tin bạn gửi để khắc phục sự cố trang web.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Hủy bỏ
 report-broken-site-panel-button-okay =
     .label = OK
+report-broken-site-panel-button-send-report =
+    .label = Gửi báo cáo
 report-broken-site-panel-button-send =
     .label = Gửi
 report-broken-site-panel-report-sent-label = Báo cáo của bạn đã được gửi
@@ -71,6 +80,17 @@ report-broken-site-panel-report-sent-header =
     .title = Báo cáo của bạn đã được gửi
 report-broken-site-panel-report-sent-text = Cảm ơn bạn đã giúp { -brand-product-name } làm cho web cởi mở hơn, dễ truy cập hơn và tốt hơn cho mọi người.
 report-broken-site-panel-invalid-url-label = Vui lòng nhập một URL hợp lệ
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+       *[other] Vui lòng nhập ít nhất { $minLength } ký tự
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Gửi ảnh chụp màn hình
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Gửi danh sách các mục bị chặn bởi tính năng trình chống theo dõi
+report-broken-site-panel-url-input-label =
+    .aria-label = URL của trang đang được báo cáo
 report-broken-site-panel-missing-reason-label = Hãy chọn một lý do
 report-broken-site-panel-blocked-trackers-label =
     .label = Gửi URL bị chặn bởi tính năng trình chống theo dõi

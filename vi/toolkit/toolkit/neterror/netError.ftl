@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } không thể tạo kết nối an toàn tới máy chủ tại { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Máy chủ tại <strong>{ $hostname }</strong> mất quá nhiều thời gian để phản hồi.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

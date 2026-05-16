@@ -31,6 +31,9 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Niečo iné
 report-broken-site-panel-instructions-other = Podrobne opíšte problém, aby sme ho mohli preskúmať.
+report-broken-site-panel-instructions-other-optional = Podrobne opíšte problém, aby sme ho mohli preskúmať. (voliteľné)
+report-broken-site-panel-description2 =
+    .placeholder = Čo sa stalo? Čo ste očakávali? Uveďte kroky na reprodukciu problému.
 report-broken-site-panel-send-more-info-button =
     .label = Odoslať ďalšie informácie
 report-broken-site-panel-intro = Pomôžte zlepšiť { -brand-product-name } pre každého. { -vendor-short-name } používa informácie, ktoré odošlete, na riešenie problémov s webovými stránkami.
@@ -67,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Zrušiť
 report-broken-site-panel-button-okay =
     .label = OK
+report-broken-site-panel-button-send-report =
+    .label = Odoslať hlásenie
 report-broken-site-panel-button-send =
     .label = Odoslať
 report-broken-site-panel-report-sent-label = Vaša správa bola odoslaná
@@ -75,6 +80,20 @@ report-broken-site-panel-report-sent-header =
     .title = Vaša správa bola odoslaná
 report-broken-site-panel-report-sent-text = Ďakujeme, že pomáhate { -brand-product-name(case: "dat") } urobiť web otvorenejším, prístupnejším a lepším pre každého.
 report-broken-site-panel-invalid-url-label = Zadajte platnú adresu URL
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Zadajte aspoň { $minLength } znak
+        [few] Zadajte aspoň { $minLength } znaky
+        [many] Zadajte aspoň { $minLength } znakov
+       *[other] Zadajte aspoň { $minLength } znakov
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Odoslať snímku obrazovky
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Odoslať zoznam položiek blokovaných ochranou sledovania
+report-broken-site-panel-url-input-label =
+    .aria-label = Adresa URL nahlasovanej stránky
 report-broken-site-panel-missing-reason-label = Vyberte dôvod
 report-broken-site-panel-blocked-trackers-label =
     .label = Odosielať adresy URL blokované ochranou sledovania

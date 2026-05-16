@@ -114,6 +114,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Vyberte iné miesto na prehliadanie.
 ipprotecion-locations-subview-recommended-label = Odporúčané
 ipprotection-locations-subview-recommended-description = Nájde najrýchlejšiu lokalitu
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Nedostupné
 ipprotection-locations-subview-promo =
     .heading = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
     .message = Vyberte si z viac ako 300 lokalít a chráňte všetky svoje aplikácie až na 5 zariadeniach.

@@ -365,8 +365,8 @@ appearance-group2 =
     .label = Vzhľad webových stránok
     .description = Niektoré webové stránky umožňujú meniť farby podľa vašich preferencií. Vyberte si farebnú schému.
 preferences-web-appearance-choice-auto3 =
-    .label = Systém
-    .title = Automaticky meniť pozadie a obsah webových stránok na základe vašich systémových nastavení a témy vzhľadu prehliadača { -brand-short-name }.
+    .label = Systémová
+    .title = Automaticky mení pozadie a obsah webových stránok na základe vašich systémových nastavení a témy vzhľadu { -brand-short-name(case: "gen") }.
 appearance-group =
     .label = Vzhľad webových stránok
     .description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
@@ -2579,6 +2579,8 @@ related-settings-accessibility-link =
     .label = Prispôsobenie nastavení priblíženia a písma nájdete v časti Zjednodušenie ovládania
 related-settings-home-link =
     .label = Prispôsobiť { -firefox-home-brand-name(case: "acc") }
+related-settings-tabs-browsing-link =
+    .label = Prispôsobenie rozloženia prehliadača
 
 ## AI controls page
 
