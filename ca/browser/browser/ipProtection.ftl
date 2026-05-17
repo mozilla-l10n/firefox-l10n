@@ -66,7 +66,7 @@ unauthenticated-choose-location-message = Trieu entre 5 ubicacions o deixeu que 
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obteniu { $maxUsage } GB de dades mensuals gratuïtes per a la VPN.
 unauthenticated-get-started = Comença
-unauthenticated-terms-of-service-privacy-notice = En continuar, accepteu les <a data-l10n-name="terms">condicions d'ús del servei</a> i l'<a data-l10n-name="privacy">avís de privadesa</a>.
+unauthenticated-terms-of-service-privacy-notice = En continuar, accepteu les <a data-l10n-name="vpn-terms-of-service">condicions d'ús del servei</a> i l'<a data-l10n-name="vpn-privacy-notice">avís de privadesa</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Fes servir la VPN per a aquest lloc
     .aria-label = La VPN està activada per a aquest lloc
