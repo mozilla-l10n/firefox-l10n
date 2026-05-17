@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Canvia l'opció de si es poden rebre notificacions d'aquest lloc
 urlbar-midi-notification-anchor =
     .tooltiptext = Obre la subfinestra MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Obre la subfinestra en sèrie
 urlbar-eme-notification-anchor =
     .tooltiptext = Gestiona l'ús de programari de DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Heu blocat l'extracció de dades de llenç (canvas) per a aquest lloc web.
 urlbar-midi-blocked =
     .tooltiptext = Heu blocat l'accés MIDI per a aquest lloc web.
+urlbar-serial-blocked =
+    .tooltiptext = Heu blocat l'accés al port en sèrie per a aquest lloc web.
 urlbar-install-blocked =
     .tooltiptext = Heu blocat la instal·lació de complements per a aquest lloc web.
 # Variables
@@ -410,10 +414,19 @@ quickactions-cmd-help = ajuda, assistència, suport
 # Opens the devtools web inspector
 quickactions-inspector2 = Obre les eines per a desenvolupadors
 quickactions-cmd-inspector2 = inspector, eines de desenvolupament, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = biblioteca
+quickactions-library = Obre la biblioteca
 quickactions-cmd-inspector = inspector, devtools, desenvolupador
 # Opens about:logins
 quickactions-logins2 = Gestiona les contrasenyes
 quickactions-cmd-logins = inicis de sessió, contrasenyes, credencials
+# Mutes all tabs playing audio
+quickactions-mute = Silencia les pestanyes que reprodueixin àudio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silenci, calla, xxx, shhh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gestiona els connectors
 quickactions-cmd-plugins = connectors
@@ -538,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = No esteu connectat de forma segura a aquest lloc.
 identity-connection-verified = Esteu connectat de forma segura a aquest lloc.
 identity-ev-owner-label = Certificat emès per a:
+identity-verifier-label = Verificat per:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Qualificat segons l'especificació del Reglament (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla no reconeix aquest emissor de certificats. És possible que l'hagi afegit el vostre sistema operatiu o un administrador.
+identity-cert-exception-overridden = Heu afegit una excepció de seguretat per a aquest lloc web.
 identity-remove-cert-exception =
     .label = Elimina l'excepció
     .accesskey = x
@@ -642,6 +657,11 @@ sharing-warning-proceed-to-tab =
     .label = Vés a la pestanya
 sharing-warning-disable-for-session =
     .label = Desactiva la protecció de compartició durant aquesta sessió
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Seleccioneu un port en sèrie:
+webserial-no-ports-available = No hi ha cap port en sèrie disponible
 
 ## DevTools F12 popup
 
@@ -984,6 +1004,7 @@ urlbar-searchmode-popup-one-off-header = Aquesta vegada, cerca amb:
 # reset after submitting.
 urlbar-searchmode-popup-header = Cerca amb:
 urlbar-searchmode-popup-search-settings-panelitem = Paràmetres de cerca
+urlbar-searchmode-popup-settings-panelitem = Paràmetres
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -999,6 +1020,12 @@ urlbar-result-action-switch-to-tabgroup = Canvia a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Obre { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Obre en una pestanya nova
+    .accesskey = v
 
 ## Labels shown above groups of urlbar results
 
