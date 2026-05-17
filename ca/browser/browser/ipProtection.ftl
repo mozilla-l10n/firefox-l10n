@@ -30,11 +30,57 @@ ipprotection-feature-introduction-title-privacy = Afegiu una altra capa de priva
 ipprotection-feature-introduction-link-text-privacy = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre 5 ubicacions per mantenir la privadesa dels llocs des d'on navegueu.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades, fins i tot des d'una finestra privada.
 ipprotection-feature-introduction-description-private-browsing = Navegueu amb protecció addicional amagant la vostra ubicació, fins i tot des d'una finestra privada.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = En una Wi-Fi pública? Proveu la VPN integrada del { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Obteniu <a data-l10n-name="learn-more-vpn">més privadesa</a> triant entre 5 ubicacions per amagar des d'on navegueu.
 ipprotection-feature-introduction-description-captive-portal = Navegueu amb protecció addicional amagant la ubicació, fins i tot en xarxes Wi-Fi públiques.
 ipprotection-feature-introduction-button-primary = Següent
 ipprotection-feature-introduction-button-secondary-not-now = Ara no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gràcies
+ipprotection-feature-introduction-button-secondary-remove = Elimina la VPN de la barra d'eines
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Elimina la VPN de la barra d'eines
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Trieu on feu servir la VPN
+ipprotection-site-settings-callout-subtitle = Desactiveu la VPN per a un lloc web concret i ho recordarem la propera vegada que el visiteu.
+ipprotection-site-settings-callout-button = Entesos
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nou: Canvieu la vostra ubicació
+ipprotection-location-selection-callout-description = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> us permet triar entre 5 ubicacions de navegació o deixar que nosaltres triem la més ràpida.
+ipprotection-location-selection-callout-primary-button = Proveu-ho
+ipprotection-location-selection-callout-secondary-button = Descarta
+
+## Panel
+
+# Also used for the callout shown in private browsing
+unauthenticated-vpn-title = Proveu la VPN integrada del { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Amagueu la vostra ubicació</a> mentre navegueu amb el { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Obteniu { $maxUsage } GB de dades mensuals gratuïtes per a la VPN.
+unauthenticated-get-started = Comença
+site-exclusion-toggle-enabled-1 =
+    .label = Fes servir la VPN per a aquest lloc
+    .aria-label = La VPN està activada per a aquest lloc
+site-exclusion-toggle-disabled-1 =
+    .label = Fes servir la VPN per a aquest lloc
+    .aria-label = La VPN està desactivada per a aquest lloc
+ipprotection-settings-link =
+    .label = Paràmetres
+
+## Status card
+
+ipprotection-connection-status-connected = La VPN està activada
+ipprotection-connection-status-disconnected = La VPN està desactivada
+ipprotection-connection-status-excluded = La VPN està desactivada per a aquest lloc
+ipprotection-connection-status-connecting = La VPN s'està connectant…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Desactiva la VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Desactiva la VPN a tot arreu
