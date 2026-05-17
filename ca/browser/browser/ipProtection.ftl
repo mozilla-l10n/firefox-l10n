@@ -60,10 +60,13 @@ ipprotection-location-selection-callout-secondary-button = Descarta
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Proveu la VPN integrada del { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Amagueu la vostra ubicació</a> mentre navegueu amb el { -brand-product-name }.
+unauthenticated-private-location-message = Ajuda a <a data-l10n-name="learn-more-vpn">mantenir la privadesa de la vostra ubicació</a> al { -brand-product-name }.
+unauthenticated-choose-location-message = Trieu entre 5 ubicacions o deixeu que el { -brand-product-name } triï la més ràpida.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obteniu { $maxUsage } GB de dades mensuals gratuïtes per a la VPN.
 unauthenticated-get-started = Comença
+unauthenticated-terms-of-service-privacy-notice = En continuar, accepteu les <a data-l10n-name="terms">condicions d'ús del servei</a> i l'<a data-l10n-name="privacy">avís de privadesa</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Fes servir la VPN per a aquest lloc
     .aria-label = La VPN està activada per a aquest lloc
@@ -84,3 +87,71 @@ ipprotection-button-turn-vpn-off = Desactiva la VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Desactiva la VPN a tot arreu
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Activa la VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = S'està activant…
+
+## VPN paused state
+
+upgrade-vpn-title = Obteniu protecció addicional més enllà del navegador
+ipprotection-connection-status-paused-title-2 = La VPN està en pausa
+    .aria-label = La VPN està en pausa
+
+## Messages and errors
+
+ipprotection-connection-status-network-error-title-1 = Comproveu la connexió a Internet
+    .aria-label = Comproveu la connexió a Internet
+ipprotection-connection-status-blocked-error-title-1 = La VPN no està disponible
+    .aria-label = La VPN no està disponible
+ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a la VPN
+    .aria-label = No s'ha pogut connectar a la VPN
+
+## IP Protection Settings
+
+ip-protection-description-1 =
+    .label = VPN integrada
+    .description = Obteniu més privadesa amagant la vostra ubicació mentre navegueu.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Proveu la VPN integrada del { -brand-short-name }
+    .message = Navegueu amb més protecció amagant la vostra ubicació. Obteniu { $maxUsage } GB de dades de VPN de franc cada mes.
+
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Queden { $usageLeft } MB de { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Heu utilitzat tots els { $maxUsage } GB de dades de la vostra VPN. L'accés es restablirà el mes que ve.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Es restableix a { $maxUsage } GB el primer dia de cada mes.
+ip-protection-bandwidth-header-1 = Límit de dades mensual
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualitzada i a punt
+ipprotection-bandwidth-reset-text = Activeu la VPN per a obtenir més privadesa, de franc cada mes.
+ipprotection-bandwidth-reset-button = Entesos
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>És possible que aquest lloc web no funcioni amb una VPN.</strong> Proveu d'iniciar la sessió o de desactivar la VPN mentre utilitzeu aquest lloc web.
+ipp-activator-breakage-turn-off-warning = <strong>És possible que aquest lloc web no funcioni amb una VPN.</strong> Proveu de desactivar la VPN mentre utilitzeu aquest lloc web.
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN en pausa
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Heu utilitzat tots els { $maxUsage } GB de dades de la VPN. L'accés es restablirà el mes que ve.
+vpn-paused-alert-close-tabs-button = Tanca totes les pestanyes
+vpn-paused-alert-continue-wo-vpn-button = Continua sense VPN
+vpn-error-alert-title = La VPN no funciona en aquests moments.
+vpn-error-alert-body = Torneu a provar-ho més tard.
