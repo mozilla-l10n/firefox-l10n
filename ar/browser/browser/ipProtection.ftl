@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = اختر موقعًا مختلفًا للتصفح منه.
 ipprotecion-locations-subview-recommended-label = يُنصح به
 ipprotection-locations-subview-recommended-description = يجد أسرع موقع
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = غير متوفر
 ipprotection-locations-subview-promo-button = احصل على { -mozilla-vpn-brand-name }
 
 ## VPN paused state

@@ -1293,6 +1293,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = الألسنة المُزامنة
     .tooltiptext = اعرض الألسنة من الأجهزة الأخرى
+toolbar-button-send-tab =
+    .label = أرسل لسان
+    .tooltiptext = أرسل اللسان الحالي إلى جهاز أخر
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
