@@ -51,6 +51,8 @@ pane-general-title = כללי
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = בית
+pane-home-startup-title2 = בית והפעלה
+    .title = בית והפעלה
 pane-search-title2 = חיפוש
     .title = חיפוש
 pane-privacy-title3 = פרטיות ואבטחה
@@ -2586,6 +2588,8 @@ related-settings-accessibility-link =
     .label = התאמה אישית של הגדרות מרחק מתצוגה וגופנים בתפריט נגישות
 related-settings-home-link =
     .label = התאמה אישית של { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = התאמה אישית של פריסת הדפדפן
 
 ## AI controls page
 

@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = דיווח על אתר שבור
 report-broken-site-panel-intro-text = הדיווח שלך מסייע לנו להבין ולתקן בעיות ב־{ -brand-product-name } כדי לשפר אותו עבור כולם.
 report-broken-site-panel-learn-more-link = מידע נוסף
+report-broken-site-panel-reason-intro-text = מה לא עובד?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = האתר לא נטען
 # These terms are referring to ecommerce websites
@@ -25,6 +26,8 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = האתר ביקש לכבות את חוסם הפרסומות
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = הדפדפן אינו נתמך או חסום
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = האתר מטעה
 report-broken-site-panel-reason-other-moz-box-button =
     .label = משהו אחר
 report-broken-site-panel-instructions-other = נא לתאר את הבעיה בפירוט כדי שנוכל לחקור אותה.
