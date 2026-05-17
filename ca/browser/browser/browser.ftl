@@ -1026,6 +1026,12 @@ urlbar-result-action-open-saved-tabgroup = Obre { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Obre en una pestanya nova
     .accesskey = v
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Obre en una pestanya de contenidor nova
+    .accesskey = e
+urlbar-view-context-menu-open-in-window =
+    .label = Obre en una finestra nova
+    .accesskey = n
 
 ## Labels shown above groups of urlbar results
 
