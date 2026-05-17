@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Rapporter problem med ein nettstad
 report-broken-site-panel-intro-text = Rapporten din hjelper oss med å forstå og fikse problem i { -brand-product-name } for å gjere det betre for alle.
 report-broken-site-panel-learn-more-link = Les meir
+report-broken-site-panel-reason-intro-text = Kva fungerer ikkje?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Nettstaden lastar seg ikkje inn
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Nettstaden ba om å slå av annonseblokkering
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Nettlesaren er ikkje støtta eller blokkert
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Nettstaden er villeiande
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Noko anna
+report-broken-site-panel-instructions-other = Beskriv problemet i detalj for å hjelpe oss med å undersøkje saka.
+report-broken-site-panel-instructions-other-optional = Beskriv problemet i detalj for å hjelpe oss med å undersøkje saka. (valfritt)
+report-broken-site-panel-description2 =
+    .placeholder = Kva skjedde? Kva forventa du skulle skje? Oppgi framgangsmåten for å attskape problemet.
 report-broken-site-panel-send-more-info-button =
     .label = Send meir informasjon
 report-broken-site-panel-intro = Bidra til å gjere { -brand-product-name } betre for alle. { -vendor-short-name } brukar informasjonen du sender til å fikse nettstadproblem.
@@ -73,8 +80,17 @@ report-broken-site-panel-report-sent-header =
     .title = Rapporten din er sendt
 report-broken-site-panel-report-sent-text = Takk for at du hjelper { -brand-product-name } med å gjere nettet meir ope, tilgjengeleg og betre for alle.
 report-broken-site-panel-invalid-url-label = Skriv inn ei gyldig nettadresse.
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+       *[other] Skriv inn minst { $minLength } teikn
+    }
 report-broken-site-panel-screenshot-label =
     .label = Send eit skjermbilde
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Send liste over element som er blokkerte av sporingsvern
+report-broken-site-panel-url-input-label =
+    .aria-label = Nettadressa til sida som blir rapportert
 report-broken-site-panel-missing-reason-label = Vel ein grunn
 report-broken-site-panel-blocked-trackers-label =
     .label = Send URL-ar blokkerte av sporingsvern

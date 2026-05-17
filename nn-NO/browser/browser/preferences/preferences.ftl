@@ -51,6 +51,8 @@ pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Start
+pane-home-startup-title2 = Startside og oppstart
+    .title = Startside og oppstart
 pane-search-title2 = Søk
     .title = Søk
 pane-privacy-title3 = Personvern og sikkerheit
@@ -2587,6 +2589,8 @@ related-settings-accessibility-link =
     .label = Tilpass zoom- og skriftinnstillingar under Tilgjengelegheit
 related-settings-home-link =
     .label = Tilpass { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Tilpass nettlesaroppsettet
 
 ## AI controls page
 
