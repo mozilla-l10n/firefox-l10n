@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } ვერ ამყარებს დაცულ კავშირს სერვერთან { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ვერ უკავშირდება სერვერს მისამართზე <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } ვერ უკავშირდება სერვერს მისამართზე <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = მომსახურე მისამართით <strong>{ $hostname }</strong> დიდ დროს ანდომებს პასუხს.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

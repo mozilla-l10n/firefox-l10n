@@ -51,6 +51,8 @@ pane-general-title = მთავარი
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = საწყისი გვერდი
+pane-home-startup-title2 = მთავარი და საწყისი
+    .title = მთავარი და საწყისი
 pane-search-title2 = ძიება
     .title = ძიება
 pane-privacy-title3 = პირადულობა და უსაფრთხოება
@@ -472,6 +474,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = მხოლოდ ნაწერის ზომა
     .accesskey = ზ
+preferences-text-zoom-override-warning2 =
+    .message = თუ „მხოლოდ ტექსტის მოახლოებაა“ ჩართული და ნაგულისხმევ მოახლოებად არაა მითითებული 100%, ზოგი საიტის შიგთავსი შესაძლოა გაუმართავად გამოჩნდეს.
 preferences-text-zoom-override-warning =
     .message = გაფრთხილება: როცა მონიშნულია „მხოლოდ ნაწერის ზომა“ და მოახლოება ნაგულისხმევად არაა 100%, შეიძლება ზოგიერთ საიტზე დაირღვეს შიგთავსის განლაგება.
 language-header = ენა
@@ -2585,6 +2589,8 @@ related-settings-accessibility-link =
     .label = მოახლოებისა და შრიფტის მორგება დამხმარე საშუალებებით
 related-settings-home-link =
     .label = მოირგეთ { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = ბრაუზერში განლაგების მორგება
 
 ## AI controls page
 

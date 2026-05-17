@@ -789,6 +789,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = ჩანამატები
 newtab-widget-menu-hide = ჩანამატის დამალვა
 newtab-widget-menu-change-size = ზომის შეცვლა
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = გადატანა
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = მარცხნივ
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = მარჯვნივ
 newtab-widget-size-small = მომცრო
 newtab-widget-size-medium = საშუალო
 newtab-widget-size-large = მოზრდილი
@@ -805,6 +814,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = ჩანამატების მენიუ
     .aria-label = ჩანამატების მენიუს გახსნა
+newtab-widget-add-widgets-button =
+    .aria-label = ჩანამატის დამატება
+    .title = ჩანამატის დამატება
 newtab-widget-section-menu-manage = ჩანამატების მართვა
 newtab-widget-section-menu-hide-all = ჩანამატების დამალვა
 newtab-widget-section-menu-learn-more = ვრცლად
@@ -897,6 +909,7 @@ newtab-widget-timer-celebration-message-break = მზად ხართ სა
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = გუნდის მიყოლა
+newtab-sports-widget-menu-view-schedule = განრიგის ნახვა
 newtab-sports-widget-menu-view-upcoming = მოახლოებულის ნახვა
 newtab-sports-widget-menu-view-results = შედეგების ნახვა
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -925,6 +938,8 @@ newtab-sports-widget-search-country =
     .placeholder = ქვეყნის ძიება
     .aria-label = ქვეყნის ძიება
 newtab-sports-widget-cancel = გაუქმება
+newtab-sports-widget-back-button =
+    .aria-label = უკან
 newtab-sports-widget-done-button =
     .label = მზადაა
 newtab-sports-widget-group-stage = ჯგუფური ეტაპი
@@ -939,6 +954,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = საკვანძო თარიღები
 newtab-sports-widget-upcoming = მოახლოებული
+# Used for a match currently ongoing
+newtab-sports-widget-now = ახლა
 newtab-sports-widget-results = შედეგები
 newtab-sports-widget-semi-finals = ნახევარფინალი
 newtab-sports-widget-bronze-finals = ბრინჯაოსთვის
@@ -1033,6 +1050,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = ძიების შედეგები
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = არაა შეხვედრები
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

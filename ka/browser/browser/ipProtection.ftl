@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = აირჩიეთ განსხვავებული მდებარეობა გვერდების მონახულებისას.
 ipprotecion-locations-subview-recommended-label = სასურველი
 ipprotection-locations-subview-recommended-description = მოიძიებს უსწრაფეს მდებარეობას
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = მიუწვდომელია
 ipprotection-locations-subview-promo =
     .heading = უსაფრთხოების მეტად ასამაღლებლად დაიხმარეთ { -mozilla-vpn-brand-name }
     .message = აირჩიეთ 300+ ადგილმდებარეობიდან რომელიმე და დაიცავით ყველა პროგრამა 5 მოწყობილობის ჩათვლით.
