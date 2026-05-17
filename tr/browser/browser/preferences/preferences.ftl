@@ -51,6 +51,8 @@ pane-general-title = Genel
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Giriş Sayfası
+pane-home-startup-title2 = Giriş sayfası ve başlangıç
+    .title = Giriş sayfası ve başlangıç
 pane-search-title2 = Arama
     .title = Arama
 pane-privacy-title3 = Gizlilik ve güvenlik
@@ -2584,9 +2586,11 @@ browser-theme-manage-link =
 related-settings-group =
     .label = İlgili ayarlar
 related-settings-accessibility-link =
-    .label = Yakınlaştırma ve yazı tipi ayarlarını “Erişilebilirlik” sayfasından özelleştirebilirsiniz
+    .label = Yakınlaştırma ve yazı tipi ayarlarını “Erişilebilirlik” sayfasından özelleştir
 related-settings-home-link =
-    .label = { -firefox-home-brand-name } tarayıcısını özelleştir
+    .label = { -firefox-home-brand-name } sayfasını özelleştir
+related-settings-tabs-browsing-link =
+    .label = Tarayıcı düzenini özelleştir
 
 ## AI controls page
 
