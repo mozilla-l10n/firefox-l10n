@@ -30,6 +30,10 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
     .label = Сайт алдамшы
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Басқа нәрсе
+report-broken-site-panel-instructions-other = Мәселені зерттеуге көмектесу үшін мәселені толықтай сипаттаңыз.
+report-broken-site-panel-instructions-other-optional = Мәселені зерттеуге көмектесу үшін мәселені толықтай сипаттаңыз. (міндетті емес)
+report-broken-site-panel-description2 =
+    .placeholder = Не болды? Не болады деп күттіңіз? Мәселені қайталау үшін керек қадамдарды сипаттаңыз.
 report-broken-site-panel-send-more-info-button =
     .label = Қосымша ақпарат жіберу
 report-broken-site-panel-intro = { -brand-product-name } әркім үшін жақсырақ болуына көмектесіңіз. { -vendor-short-name } веб-сайт мәселелерін шешу үшін сіз жіберген ақпаратты пайдаланады.
@@ -66,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Болдырмау
 report-broken-site-panel-button-okay =
     .label = ОК
+report-broken-site-panel-button-send-report =
+    .label = Есептемені жіберу
 report-broken-site-panel-button-send =
     .label = Жіберу
 report-broken-site-panel-report-sent-label = Сіздің хабарламаңыз жіберілді
@@ -74,8 +80,17 @@ report-broken-site-panel-report-sent-header =
     .title = Сіздің хабарламаңыз жіберілді
 report-broken-site-panel-report-sent-text = { -brand-product-name } интернетті ашық, қолжетімді және барлығына жақсырақ етуге көмектескеніңіз үшін рахмет.
 report-broken-site-panel-invalid-url-label = Дұрыс URL енгізіңіз
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+       *[other] Кемінде { $minLength } таңба енгізіңіз
+    }
 report-broken-site-panel-screenshot-label =
     .label = Скриншотты жіберу
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Бақылаудан қорғаныс блоктаған нәрселер адрестерін жіберу
+report-broken-site-panel-url-input-label =
+    .aria-label = Хабарланып жатқан беттің URL адресі
 report-broken-site-panel-missing-reason-label = Себебін таңдаңыз
 report-broken-site-panel-blocked-trackers-label =
     .label = Бақылаудан қорғаныс блоктаған URL адрестерін жіберу

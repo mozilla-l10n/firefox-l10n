@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } бағдарламасы { $hostname } серверімен қауіпсіз байланыс орната алмады.
 fp-neterror-offline-intro = { -brand-short-name } бағдарламасы <strong>{ $hostname }</strong> серверіне қосыла алмай тұр.
+fp-neterror-offline-intro-2 = { -brand-short-name } бағдарламасы <strong>{ $hostname }</strong> серверіне қосыла алмай тұр.
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> адресіндегі сервер жауап беру үшін тым ұзақ уақыт алуда.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
