@@ -51,6 +51,8 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Inicio
+pane-home-startup-title2 = Inicio
+    .title = Inicio
 pane-search-title2 = Buscar
     .title = Buscar
 pane-privacy-title3 = Privacidad & Seguridad
@@ -234,6 +236,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Seleccionar perfil
 preferences-copy-profile-button = Copiar
+tabs-browsing-section =
+    .heading = Pestañas y navegación
+pane-tabs-browsing-title2 = Pestañas y navegación
+    .title = Pestañas y navegación
 tabs-group-header2 =
     .label = Pestañas
 tabs-opening-heading =
@@ -278,16 +284,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Advertirle cuando al abrir múltiples pestañas se pueda ralentizar { -brand-short-name }
     .accesskey = v
+switch-to-new-tabs-2 =
+    .label = Al abrir enlaces o medios en una nueva pestaña, cambiar a ella inmediatamente
+    .accesskey = b
 switch-to-new-tabs =
     .label = Cuando abra un enlace, imagen o archivo multimedia en una pestaña nueva, cambiar inmediatamente a ella
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Mostrar miniaturas de las pestañas en la barra de tareas de Windows
     .accesskey = ñ
+browser-containers-enabled-2 =
+    .label = Usar pestañas contenedoras
+    .accesskey = n
 browser-containers-enabled =
     .label = Activar pestañas contenedoras
     .accesskey = ñ
 browser-containers-learn-more = Saber más
+browser-containers-settings-2 =
+    .label = Administrar ajustes
+    .accesskey = i
 browser-containers-settings =
     .label = Configuración…
     .accesskey = C
@@ -340,6 +355,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Mostrar barra lateral
     .description = Acceda rápidamente a marcadores, pestañas de su teléfono, chatbots de IA y más sin salir de la vista principal.
+page-navigation-group =
+    .label = Navegación entre páginas
 browser-layout-header = Disposición del navegador
 browser-layout-horizontal-tabs =
     .label = Pestañas horizontales
@@ -457,6 +474,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Sólo ampliar texto
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Si la opción “Ampliar solo texto” está activada y el nivel de zoom predeterminado no es del 100%, es posible que algunos sitios web no muestren el contenido correctamente.
 preferences-text-zoom-override-warning =
     .message = Advertencia: si selecciona “Ampliar solo texto” y su zoom predeterminado no está configurado en 100%, es posible que algunos sitios o contenidos fallen.
 language-header = Idioma
@@ -740,6 +759,9 @@ update-history-2 =
     .accesskey = M
 update-application-installation =
     .label = Instalación
+update-application-auto-2 =
+    .label = Instalar actualizaciones automáticamente (recomendado)
+    .accesskey = a
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = M
@@ -833,6 +855,10 @@ performance-default-content-process-count =
     .label = { $num } (predeterminado)
 performance-group =
     .label = Rendimiento
+performance-use-recommended-settings-checkbox-2 =
+    .label = Usar ajustes de rendimiento recomendados
+    .description = Estas configuraciones son a medida del hardware y sistema operativo.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -867,6 +893,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto cuando comience a escribir
     .accesskey = x
+settings-media-group =
+    .label = Medios
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Usar Picture-in-Picture
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar controles de vídeo picture-in-picture
     .accesskey = A
@@ -877,6 +908,8 @@ browsing-picture-in-picture-learn-more = Saber más
 browsing-media-control =
     .label = Controlar los medios con el teclado, los auriculares o la interfaz virtual
     .accesskey = v
+recommendations-group =
+    .label = Recomendaciones
 browsing-media-control-learn-more = Saber más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
@@ -1275,6 +1308,8 @@ account-placeholder2 =
     .description = Inicie sesión y mantenga sus datos privados, cifrados y accesibles al instante dondequiera que use { -brand-short-name }.
 account-sync-section =
     .heading = Cuenta y sincronización
+pane-account-sync-title2 = Cuenta y sincronización
+    .title = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1730,6 +1765,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Contraseñas y autocompletado
+    .title = Contraseñas y autocompletado
+preferences-passwords-autofill-header =
+    .heading = Contraseñas y autocompletado
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2552,6 +2591,8 @@ related-settings-accessibility-link =
     .label = Personalice el aumento y la fuente en Accesibilidad
 related-settings-home-link =
     .label = Personalizar { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Personalizar el diseño del navegador
 
 ## AI controls page
 
