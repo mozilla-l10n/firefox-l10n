@@ -32,6 +32,8 @@ report-broken-site-panel-reason-other-moz-box-button =
     .label = Otra cosa
 report-broken-site-panel-instructions-other = Describa el problema en detalle para ayudarnos a investigarlo.
 report-broken-site-panel-instructions-other-optional = Describa el problema en detalle para ayudarnos a investigarlo. (opcional)
+report-broken-site-panel-description2 =
+    .placeholder = ¿Qué ha sucedido? ¿Qué esperaba que sucediera? Por favor, proporcione los pasos para reproducir el problema.
 report-broken-site-panel-send-more-info-button =
     .label = Enviar más información
 report-broken-site-panel-intro = Ayude a mejorar { -brand-product-name } para todos. { -vendor-short-name } usa la información enviada para solucionar problemas del sitio web.
@@ -68,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Cancelar
 report-broken-site-panel-button-okay =
     .label = Aceptar
+report-broken-site-panel-button-send-report =
+    .label = Enviar informe
 report-broken-site-panel-button-send =
     .label = Enviar
 report-broken-site-panel-report-sent-label = Su informe ha sido enviado
@@ -76,6 +80,18 @@ report-broken-site-panel-report-sent-header =
     .title = Su informe ha sido enviado
 report-broken-site-panel-report-sent-text = Gracias por ayudar a { -brand-product-name } a hacer que la web sea más abierta, accesible y mejor para todos.
 report-broken-site-panel-invalid-url-label = Introduzca una URL válida
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Por favor, introduzca al menos { $minLength } carácter
+       *[other] Por favor, introduzca al menos { $minLength } caracteres
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Enviar una captura de pantalla
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Enviar una lista de elementos bloqueados por la protección contra el rastreo.
+report-broken-site-panel-url-input-label =
+    .aria-label = URL de la página de la que está informando
 report-broken-site-panel-missing-reason-label = Por favor, escoja un motivo
 report-broken-site-panel-blocked-trackers-label =
     .label = Enviar URLs bloqueadas por la protección contra el rastreo
