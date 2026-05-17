@@ -43,13 +43,26 @@ settings-data-backup-last-backup-location-show-in-folder = Mostra a la carpeta
 settings-data-backup-last-backup-location-edit = Edita…
 settings-data-create-backup-error = S'ha produït un error en crear la còpia de seguretat el dia { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Feu una còpia de seguretat de les vostres contrasenyes i mètodes de pagament i protegiu totes les vostres dades xifrant-les.
+settings-data-toggle-encryption-label2 =
+    .label = Feu una còpia de seguretat de les dades confidencials
+    .description = Feu una còpia de seguretat de les contrasenyes i mètodes de pagament i protegiu les dades xifrant-les.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nom del fitxer: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaureu les dades
+    .description = Recupereu les dades del { -brand-product-name } des de l'última vegada que es va fer una còpia de seguretat.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaureu les dades
+    .description = Feu servir una còpia de seguretat del { -brand-product-name } des d'un altre dispositiu per restaurar les dades.
 
 ##
 
+settings-sensitive-data =
+    .label = Dades confidencials
 settings-data-toggle-encryption-support-link = Més informació
+settings-data-change-password2 =
+    .label = Canvia la contrasenya
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -89,6 +102,9 @@ turn-off-scheduled-backups-confirm-button = Desactiva i suprimeix la còpia de s
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Restaureu les vostres dades
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Què es restaurarà?
 restore-from-backup-filepicker-label = Fitxer de la còpia de seguretat
 restore-from-backup-filepicker-title = Trieu el fitxer de la còpia de seguretat:
 restore-from-backup-file-choose-button =
@@ -101,6 +117,13 @@ restore-from-backup-password-description = Això desbloqueja la còpia de segure
 restore-from-backup-cancel-button = Cancel·la
 restore-from-backup-confirm-button = Restaura i reinicia
 restore-from-backup-restoring-button = S'està restaurant…
+restore-from-backup-type-group-label =
+    .label = Voleu substituir el perfil actual?
+restore-from-backup-type-replace =
+    .label = Substitueix totes les dades amb aquesta còpia de seguretat
+restore-from-backup-type-add =
+    .label = Conserva les dades i crea un perfil nou
+restore-from-backup-profiles-disabled-message = Això substituirà totes les dades actuals del { -brand-short-name } amb la còpia de seguretat.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -226,6 +249,15 @@ other-backup-files-founds =
         [one] <b>Nota:</b> S'ha trobat { $numberOfOtherBackupsFound } altre fitxer de còpia de seguretat
        *[other] <b>Nota:</b> S'han trobat { $numberOfOtherBackupsFound } fitxers més de còpia de seguretat
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creat el dia { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurat des de { $deviceName } el dia { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a les { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Aquest fitxer no funciona. Proveu de triar-ne un altre. <a data-l10n-name="restore-problems">Encara teniu problemes?</a>
 restore-from-backup-filepicker-input =
     .placeholder = No s'ha seleccionat cap fitxer
