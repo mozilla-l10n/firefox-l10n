@@ -8,6 +8,20 @@
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
 backup-folder-name = Restaura { -brand-product-name }
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = Còpia de seguretat del { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Còpia de seguretat
+    .description = Protegiu automàticament les adreces d'interès, l'historial i altres dades.
 settings-data-backup-toggle = Gestiona la còpia de seguretat
 settings-data-backup-toggle-on2 =
     .label = Activa la còpia de seguretat
@@ -18,6 +32,13 @@ settings-data-backup-in-progress-button = Còpia de seguretat en curs…
 settings-data-backup-in-progress-message =
     .message = Còpia de seguretat en curs…
 settings-data-backup-last-backup-date = Darrera còpia de seguretat: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = La còpia de seguretat està activada
+settings-data-backup-scheduled-backups-off2 =
+    .label = La còpia de seguretat està desactivada
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Ubicació de còpia de seguretat
 settings-data-backup-last-backup-location-show-in-folder = Mostra a la carpeta
 settings-data-backup-last-backup-location-edit = Edita…
 settings-data-create-backup-error = S'ha produït un error en crear la còpia de seguretat el dia { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }

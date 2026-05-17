@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Finestra privada nova
 appmenuitem-history =
     .label = Historial
+appmenuitem-tab-groups =
+    .label = Grups de pestanyes
 appmenuitem-downloads =
     .label = Baixades
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalitza la barra d'eines…
+appmenu-abouttranslations =
+    .label = Tradueix…
 appmenu-developer-tools-subheader = Eines del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions per a desenvolupadors
