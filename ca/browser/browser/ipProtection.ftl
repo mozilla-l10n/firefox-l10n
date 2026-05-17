@@ -117,6 +117,9 @@ ip-protection-description-1 =
 ip-protection-not-opted-in-3 =
     .heading = Proveu la VPN integrada del { -brand-short-name }
     .message = Navegueu amb més protecció amagant la vostra ubicació. Obteniu { $maxUsage } GB de dades de VPN de franc cada mes.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Protegiu-vos encara més amb el { -mozilla-vpn-brand-name }
+    .description = Trieu entre més de 300 ubicacions i protegiu totes les aplicacions en un màxim de 5 dispositius.
 
 ## IP Protection Bandwidth
 
@@ -151,6 +154,12 @@ vpn-paused-alert-title = VPN en pausa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Heu utilitzat tots els { $maxUsage } GB de dades de la VPN. L'accés es restablirà el mes que ve.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Heu utilitzat tots els { $maxUsage } GB de dades de la vostra VPN. L'accés es restablirà el mes que ve.
+vpn-error-page-continue-description = Trieu com voleu continuar sense VPN
+vpn-error-page-keep-browsing = Continua navegant en aquesta sessió
+vpn-error-page-new-session = Inicia una sessió nova
 vpn-paused-alert-close-tabs-button = Tanca totes les pestanyes
 vpn-paused-alert-continue-wo-vpn-button = Continua sense VPN
 vpn-error-alert-title = La VPN no funciona en aquests moments.
