@@ -1014,6 +1014,21 @@ urlbar-result-action-switch-to-tabgroup = Prijeđi na { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Otvori { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Otvori u novoj kartici
+    .accesskey = O
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Otvori u novoj kontejnerskoj kartici
+    .accesskey = t
+urlbar-view-context-menu-open-in-window =
+    .label = Otvori u novom prozoru
+    .accesskey = v
+urlbar-view-context-menu-open-in-private-window =
+    .label = Otvori u novom privatnom prozoru
+    .accesskey = n
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1240,6 +1255,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinkronizirane kartice
     .tooltiptext = Prikaži kartice s ostalih uređaja
+toolbar-button-send-tab =
+    .label = Pošalji karticu
+    .tooltiptext = Pošalji trenutačnu karticu na jedan drugi uređaj
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1248,6 +1266,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Dijeli
     .tooltiptext = Dijeli ovu stranicu
+toolbar-button-tab-groups =
+    .label = Grupe kartica
+    .tooltiptext = Prikaži svoje grupe kartica
 
 ## EME notification panel
 
@@ -1267,6 +1288,8 @@ panel-save-update-password = Lozinka
 # "More" item in macOS share menu
 menu-share-more =
     .label = Više…
+menu-share-windows =
+    .label = Više opcija
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1439,10 +1462,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Odustani
     .accesskey = O
+reset-pbm-panel-confirm-button2 =
+    .label = Izbriši privatnu sesiju
+    .accesskey = I
 reset-pbm-panel-confirm-button =
     .label = Izbriši podatke sesije
     .accesskey = I
 reset-pbm-panel-complete = Podaci privatne sesije izbrisani
+reset-pbm-toolbar-button2 =
+    .label = Izbriši privatnu sesiju
+    .tooltiptext = Izbriši privatnu sesiju
 
 ## Autorefresh blocker
 
@@ -1708,9 +1737,21 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dopustio { $count } kripto-rudara
     }
 trustpanel-cryptominer-tab-list-header = Ove web-stranice pokušavaju rudariti kriptovalute:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Imate li račun na ovoj stranici?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Odbaci
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count"> { $count } </span> program za praćenje je blokiran na ovoj web-stranici
         [few] <span data-l10n-name="count"> { $count } </span> programa za praćenje su blokirana na ovoj web-stranici
        *[other] <span data-l10n-name="count"> { $count } </span> programa za praćenje je blokirano na ovoj web-stranici
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Web-stranica izgleda neispravno?</strong> Ponovo učitaj stranicu kako bi se smanjila razina zaštite od praćenja.
+reduced-protection-infobar-reload-button = Učitaj ponovo
+    .accesskey = U
+reduced-protection-infobar-never-show-button = Nemoj ponovo prikazati
+    .accesskey = N
