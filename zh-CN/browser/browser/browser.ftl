@@ -1246,6 +1246,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = 同步的标签页
     .tooltiptext = 显示来自其他设备的标签页
+toolbar-button-send-tab =
+    .label = 发送标签页
+    .tooltiptext = 发送当前标签页到其他设备
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1452,6 +1455,9 @@ reset-pbm-panel-confirm-button =
     .label = 删除本次浏览数据
     .accesskey = D
 reset-pbm-panel-complete = 隐私浏览数据已删除
+reset-pbm-toolbar-button2 =
+    .label = 清除本次隐私浏览
+    .tooltiptext = 清除本次隐私浏览
 
 ## Autorefresh blocker
 
