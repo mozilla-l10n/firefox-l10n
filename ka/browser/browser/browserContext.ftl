@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = შედით ჩანართე
 main-context-menu-send-to-mobile-enable-sync2 = ჩართეთ დასინქ. ჩანართის გასაგზავნად
 main-context-menu-send-to-mobile-connect-phone2 = დააკავშირეთ თქვენი ტელეფონი
 main-context-menu-send-to-mobile-device-missing2 = არ ჩანს თქვენი მოწყობილობა?
+main-context-menu-send-to-mobile-sign-in-from-link = შედით ბმულის გასაგზავნად
+main-context-menu-send-to-mobile-sign-in-from-page = შედით გვერდის გასაგზავნად
+main-context-menu-send-to-mobile-enable-sync3 = ჩართეთ სინქრონიზაცია ჩანართების გასაგზავნად
+main-context-menu-send-to-mobile-enable-sync-from-link = ჩართეთ სინქრონიზაცია ბმულის გასაგზავნად
+main-context-menu-send-to-mobile-enable-sync-from-page = ჩართეთ სინქრონიზაცია გვერდის გასაგზავნად
+main-context-menu-send-to-mobile-connect-phone3 = დააკავშირეთ მოწყობილობა ჩანართების გასაგზავნად
+main-context-menu-send-to-mobile-connect-phone-from-link = დააკავშირეთ მოწყობილობა ბმულის გასაგზავნად
+main-context-menu-send-to-mobile-connect-phone-from-page = დააკავშირეთ მოწყობილობა გვერდის გასაგზავნად
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = ჩართეთ დასინქ. ჩანართის გასაგზავნად

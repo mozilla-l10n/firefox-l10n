@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = არეული საიტის მოხსენება
 report-broken-site-panel-intro-text = თქვენი მოხსენება გვეხმარება ხარვეზების გამოვლენაში, რომ გამოვასწოროთ { -brand-product-name } და გავხადოთ უკეთესი ყველასთვის.
 report-broken-site-panel-learn-more-link = ვრცლად
+report-broken-site-panel-reason-intro-text = რა არ მუშაობს?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = საიტი არ იტვირთება
 # These terms are referring to ecommerce websites
@@ -63,6 +64,8 @@ report-broken-site-panel-button-cancel =
     .label = გაუქმება
 report-broken-site-panel-button-okay =
     .label = კარგი
+report-broken-site-panel-button-send-report =
+    .label = მოხსენების გაგზავნა
 report-broken-site-panel-button-send =
     .label = გაგზავნა
 report-broken-site-panel-report-sent-label = თქვენი მოხსენება გაგზავნილია
@@ -71,6 +74,16 @@ report-broken-site-panel-report-sent-header =
     .title = თქვენი მოხსენება გაგზავნილია
 report-broken-site-panel-report-sent-text = გმადლობთ რომ გვეხმარებით, თქვენი მხარდაჭერით { -brand-product-name } ცდილობს აქციოს ვებსივრცე მეტად გახსნილი, ხელმისაწვდომი და საყოველთაო სარგებლის მომტანი.
 report-broken-site-panel-invalid-url-label = გთხოვთ შეიყვანეთ მართებული URL-ბმული
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] გთხოვთ შეიყვანოთ არანაკლებ { $minLength } ასონიშანი
+       *[other] გთხოვთ შეიყვანოთ არანაკლებ { $minLength } ასონიშანი
+    }
+report-broken-site-panel-screenshot-label =
+    .label = ეკრანის ანაბეჭდის გაგზავნა
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = თვალთვალისგან დაცვისას შეზღუდულთა სიის გადაგზავნა
 report-broken-site-panel-missing-reason-label = გთხოვთ მიუთითოთ მიზეზი
 report-broken-site-panel-blocked-trackers-label =
     .label = თვალთვალისგან დაცვისას შეზღუდული ბმულების გადაგზავნა
