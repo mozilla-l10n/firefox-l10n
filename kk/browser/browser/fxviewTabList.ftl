@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Бет дыбысын іске қосу
 fxviewtabrow-send-to-mobile-enable-sync2 = Бетті жіберу үшін синхрондауды іске қосыңыз
 fxviewtabrow-send-to-mobile-connect-phone2 = Телефоныңызды байланыстырыңыз
+fxviewtabrow-send-to-mobile-connect-device = Беттерді жіберу үшін құрылғыны қосыңыз
 fxviewtabrow-send-to-mobile-device-missing2 = Құрылғыңыз көрінбей ме?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Беттерді жіберу үшін жүйеге кіріңіз
+fxviewtabrow-send-to-mobile-turn-on-sync = Беттерді жіберу үшін синхронизацияны іске қосыңыз

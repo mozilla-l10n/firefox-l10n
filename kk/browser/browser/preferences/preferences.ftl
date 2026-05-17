@@ -51,6 +51,8 @@ pane-general-title = Жалпы
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Үй парағы
+pane-home-startup-title2 = Басты бет және іске қосылу
+    .title = Басты бет және іске қосылу
 pane-search-title2 = Іздеу
     .title = Іздеу
 pane-privacy-title3 = Жекелік және қауіпсіздік
@@ -2587,6 +2589,8 @@ related-settings-accessibility-link =
     .label = Қолжетімділік бөлімінде масштабтау және қаріп параметрлерін реттеңіз
 related-settings-home-link =
     .label = { -firefox-home-brand-name } баптау
+related-settings-tabs-browsing-link =
+    .label = Браузер жаймасын реттеу
 
 ## AI controls page
 

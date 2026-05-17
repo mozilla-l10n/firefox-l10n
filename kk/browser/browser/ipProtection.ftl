@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Шолу үшін басқа орынды таңдаңыз.
 ipprotecion-locations-subview-recommended-label = Ұсынылатын
 ipprotection-locations-subview-recommended-description = Ең жылдам орналасқан жерді табады
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Қолжетімсіз
 ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } арқылы қорғанысты одан әрі арттырыңыз
     .message = 300-ден астам орналасуды таңдаңыз және барлық қолданбаларыңызды қорғаңыз - 5 құрылғыға дейін.
