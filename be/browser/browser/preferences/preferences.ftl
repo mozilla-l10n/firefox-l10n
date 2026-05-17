@@ -51,6 +51,8 @@ pane-general-title = Агульныя
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Хатняя старонка
+pane-home-startup-title2 = Хатняя старонка і запуск
+    .title = Хатняя старонка і запуск
 pane-search-title2 = Пошук
     .title = Пошук
 pane-privacy-title3 = Прыватнасць і бяспека
@@ -2591,6 +2593,8 @@ related-settings-accessibility-link =
     .label = Наладзіць параметры маштабу і шрыфту ў раздзеле "Даступнасць"
 related-settings-home-link =
     .label = Уладкаваць { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Уладкаваць выклад браўзера
 
 ## AI controls page
 

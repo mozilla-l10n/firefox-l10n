@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Выберыце іншае месца, адкуль аглядаць.
 ipprotecion-locations-subview-recommended-label = Рэкамендаваныя
 ipprotection-locations-subview-recommended-description = Знаходзіць найхутчэйшае месцазнаходжанне
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Недаступна
 ipprotection-locations-subview-promo =
     .heading = Палепшыце абарону з дапамогай { -mozilla-vpn-brand-name }
     .message = Выбірайце з больш чым 300 месцаў і абараняйце ўсе свае праграмы на максімум 5 прыладах.

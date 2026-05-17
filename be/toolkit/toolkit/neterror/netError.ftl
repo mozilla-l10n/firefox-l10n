@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } не можа стварыць бяспечнае злучэнне з серверам па адрасе { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не можа падключыцца да сервера па адрасе <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } не можа падключыцца да сервера па адрасе <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Сервер па адрасе <strong>{ $hostname }</strong> адказвае занадта доўга.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
