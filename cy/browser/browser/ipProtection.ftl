@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Dewis lleoliad gwahanol i bori oddi yno.
 ipprotecion-locations-subview-recommended-label = Cymeradwy
 ipprotection-locations-subview-recommended-description = Yn dod o hyd i'r lleoliad cyflymaf
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Ddim ar Gael
 ipprotection-locations-subview-promo =
     .heading = Ewch â'r diogelu ymhellach gyda { -mozilla-vpn-brand-name }
     .message = Dewiswch o 300+ o leoliadau a diogelu eich apiau ar hyd at 5 dyfais.

@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Mewngofnodwch i anfon tabiau
 main-context-menu-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
 main-context-menu-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
 main-context-menu-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
+main-context-menu-send-to-mobile-sign-in-from-link = Mewngofnodwch i Anfon Dolen
+main-context-menu-send-to-mobile-sign-in-from-page = Mewngofnodwch i Anfon Tudalen
+main-context-menu-send-to-mobile-enable-sync3 = Trowch Sync ymlaen i Anfon Tabiau
+main-context-menu-send-to-mobile-enable-sync-from-link = Trowch Sync ymlaen i Anfon Dolen
+main-context-menu-send-to-mobile-enable-sync-from-page = Trowch Sync ymlaen i Anfon Tudalen
+main-context-menu-send-to-mobile-connect-phone3 = Cysylltwch Ddyfais i Anfon Tabiau
+main-context-menu-send-to-mobile-connect-phone-from-link = Cysylltwch Ddyfais i Anfon Dolen
+main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i Anfon Tudalen
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Galluogi cydweddu i anfon tab

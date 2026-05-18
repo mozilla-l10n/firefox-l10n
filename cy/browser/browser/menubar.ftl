@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Gosodiadau…
+menu-application-set-as-default =
+    .label = Gosod { -brand-shorter-name } fel eich Porwr Arferol
 menu-application-services =
     .label = Gwasanaethau
 menu-application-hide-this =

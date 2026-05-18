@@ -799,6 +799,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Teclynnau
 newtab-widget-menu-hide = Cuddio'r teclyn
 newtab-widget-menu-change-size = Newid maint
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Symud
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Chwith
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = De
 newtab-widget-size-small = Bach
 newtab-widget-size-medium = Canolig
 newtab-widget-size-large = Mawr
@@ -815,6 +824,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Dewislen teclynnau
     .aria-label = Agor dewislen teclynnau
+newtab-widget-add-widgets-button =
+    .aria-label = Ychwanegu teclyn
+    .title = Ychwanegu teclyn
 newtab-widget-section-menu-manage = Rheoli teclynnau
 newtab-widget-section-menu-hide-all = Cuddio teclynnau
 newtab-widget-section-menu-learn-more = Dysgu rhagor
@@ -915,6 +927,7 @@ newtab-widget-timer-celebration-message-break = Yn barod i ganolbwyntio?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Dilyn timau
+newtab-sports-widget-menu-view-schedule = Gweld amserlen
 newtab-sports-widget-menu-view-upcoming = Gweld yr hyn sydd i ddod
 newtab-sports-widget-menu-view-results = Gweld y canlyniadau
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -947,6 +960,8 @@ newtab-sports-widget-search-country =
     .placeholder = Chwilio gwlad
     .aria-label = Chwilio gwlad
 newtab-sports-widget-cancel = Na
+newtab-sports-widget-back-button =
+    .aria-label = Nôl
 newtab-sports-widget-done-button =
     .label = Gorffen
 newtab-sports-widget-group-stage = Cymal Grŵp
@@ -961,6 +976,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Dyddiadau allweddol
 newtab-sports-widget-upcoming = I Ddod
+# Used for a match currently ongoing
+newtab-sports-widget-now = Nawr
 newtab-sports-widget-results = Canlyniadau
 newtab-sports-widget-semi-finals = Cyn-derfynol
 newtab-sports-widget-bronze-finals = Y Ffeinal Efydd
@@ -1055,6 +1072,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Canlyniadau chwilio
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Dim cydweddu
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
