@@ -51,6 +51,8 @@ pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Startside
+pane-home-startup-title2 = Startside en opstarte
+    .title = Startside en opstarte
 pane-search-title2 = Sykje
     .title = Sykje
 pane-privacy-title3 = Privacy & Befeiliging
@@ -2587,6 +2589,8 @@ related-settings-accessibility-link =
     .label = Ynstellingen foar zoomen en lettertype oanpasse yn Tagonklikheid
 related-settings-home-link =
     .label = { -firefox-home-brand-name } oanpasse
+related-settings-tabs-browsing-link =
+    .label = Browseropmaak oanpasse
 
 ## AI controls page
 

@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Ljepblêd dôvje opheffe
 fxviewtabrow-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
 fxviewtabrow-send-to-mobile-connect-phone2 = Jo telefoan ferbine
+fxviewtabrow-send-to-mobile-connect-device = Ferbyn in apparaat om ljepblêden te ferstjoeren
 fxviewtabrow-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Meld jo oan om ljepblêden te ferstjoeren
+fxviewtabrow-send-to-mobile-turn-on-sync = Skeakelje Syngronisaasje yn om ljepblêden te ferstjoeren

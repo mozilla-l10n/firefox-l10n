@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Meld jo oan om ljepblêden te ferstjo
 main-context-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
 main-context-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine
 main-context-menu-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
+main-context-menu-send-to-mobile-sign-in-from-link = Meld jo oan om in keppeling te ferstjoeren
+main-context-menu-send-to-mobile-sign-in-from-page = Meld jo oan om in side te ferstjoeren
+main-context-menu-send-to-mobile-enable-sync3 = Skeakelje Syngronisaasje yn om ljepblêden te ferstjoeren
+main-context-menu-send-to-mobile-enable-sync-from-link = Skeakelje Syngronisaasje yn om in keppeling te ferstjoeren
+main-context-menu-send-to-mobile-enable-sync-from-page = Skeakelje Syngronisaasje yn om in side te ferstjoeren
+main-context-menu-send-to-mobile-connect-phone3 = Ferbyn in apparaat om ljepblêden te ferstjoeren
+main-context-menu-send-to-mobile-connect-phone-from-link = Ferbyn in apparaat om in keppeling te ferstjoeren
+main-context-menu-send-to-mobile-connect-phone-from-page = Ferbyn in apparaat om in side te ferstjoeren
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren

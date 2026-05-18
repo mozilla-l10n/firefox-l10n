@@ -116,6 +116,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Kies in oare lokaasje om fan te navigearjen.
 ipprotecion-locations-subview-recommended-label = Oanrekommandearre
 ipprotection-locations-subview-recommended-description = Fyn de rapste lokaasje
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Net beskikber
 ipprotection-locations-subview-promo =
     .heading = Bring beskerming fierder mei { -mozilla-vpn-brand-name }
     .message = Kies út mear as300 lokaasjes en beskermje al jo apps op maksimaal fiif apparaten
