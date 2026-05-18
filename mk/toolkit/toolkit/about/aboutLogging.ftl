@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = За бележникот
+about-logging-page-title = Управување со бележникот
+about-logging-current-log-file = Тековна датотека за бележење:
+about-logging-new-log-file = Нова датотека за бележење:
+about-logging-currently-enabled-log-modules = Тековно овозможени модули за бележење:
+about-logging-log-tutorial =
+    Видете <a data-l10n-name="logging">HTTP бележник</a>
+    за упатства за тоа како да ја користите оваа алатка.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Отвори директориум
+about-logging-set-log-file = Постави датотека за бележник
+about-logging-set-log-modules = Постави модули за бележење
+about-logging-start-logging = Започни со бележење
+about-logging-stop-logging = Сопри со бележење
+about-logging-copy-as-url = Копирај ги тековните поставки како URL
+about-logging-buttons-disabled = Бележењето е конфигурирање преки променливи на околината, динамчка конфигурација не е достапна.
 about-logging-info = Информација:
 about-logging-no-log-modules = Ништо
 about-logging-no-log-file = Ништо

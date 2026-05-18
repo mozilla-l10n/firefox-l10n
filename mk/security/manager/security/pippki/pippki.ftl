@@ -14,12 +14,17 @@ change-password-token = Безбедносен уред: { $tokenName }
 change-password-old = Актуелна лозинка:
 change-password-new = Нова лозинка:
 change-password-reenter = Нова лозинка (повторно):
+pippki-failed-pw-change = Не може да се промени лозинката.
+pippki-incorrect-pw = Не ја внесовте точната тековна лозника. Обидете се повторно.
 pippki-pw-change-ok = Лозинката е успешно променета.
 pippki-pw-empty-warning = Вашите зачувани лозинки и приватни клучеви нема да бидат заштитени.
 pippki-pw-erased-ok = Ја избришавте Вашата лозинка. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window2 =
+    .title = Ресетирање на главна лозинка
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Ресетирај
 pippki-reset-password-confirmation-title = Ресетирање на главна лозинка
