@@ -106,6 +106,7 @@ ipprotection-connection-status-connecting-1 = VPN 正在连接…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = 位置：推荐
+ipprotection-recommended-location-description = 由 { -brand-product-name } 查找最快的位置
 ipprotection-recommended-location-badge = 新
 # Variables
 #   $country (string) - The country selected for the VPN server location
@@ -114,6 +115,8 @@ ipprotection-locations-subview =
     .title = 选择位置
 ipprotection-locations-subview-description = 选择通过其他位置浏览。
 ipprotecion-locations-subview-recommended-label = 推荐
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = 不可用
 ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } 让保护更进一步
     .message = 从 300 多个位置中选择，并在最多 5 台设备上保护您的所有应用。

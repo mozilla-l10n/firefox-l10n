@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = 取消静音标签页
 fxviewtabrow-send-to-mobile-enable-sync2 = 启用同步以发送标签页
 fxviewtabrow-send-to-mobile-connect-phone2 = 连接您的手机
+fxviewtabrow-send-to-mobile-connect-device = 连接设备以发送标签页
 fxviewtabrow-send-to-mobile-device-missing2 = 看不到您的设备？
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = 登录以发送标签页
+fxviewtabrow-send-to-mobile-turn-on-sync = 开启同步以发送标签页

@@ -782,6 +782,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = 小组件
 newtab-widget-menu-hide = 隐藏小组件
 newtab-widget-menu-change-size = 更改大小
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = 移动到…
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = 左侧
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = 右侧
 newtab-widget-size-small = 小
 newtab-widget-size-medium = 中
 newtab-widget-size-large = 大
@@ -798,6 +807,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = 小组件菜单
     .aria-label = 打开小组件菜单
+newtab-widget-add-widgets-button =
+    .aria-label = 添加小组件
+    .title = 添加小组件
 newtab-widget-section-menu-manage = 管理小组件
 newtab-widget-section-menu-hide-all = 隐藏小组件
 newtab-widget-section-menu-learn-more = 详细了解
@@ -880,6 +892,7 @@ newtab-widget-timer-celebration-message-break = 准备好专注了吗？
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = 关注球队
+newtab-sports-widget-menu-view-schedule = 查看赛程
 newtab-sports-widget-menu-view-upcoming = 查看即将进行的比赛
 newtab-sports-widget-menu-view-results = 查看比赛结果
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -904,6 +917,8 @@ newtab-sports-widget-search-country =
     .placeholder = 搜索国家/地区
     .aria-label = 搜索国家/地区
 newtab-sports-widget-cancel = 取消
+newtab-sports-widget-back-button =
+    .aria-label = 返回
 newtab-sports-widget-done-button =
     .label = 完成
 newtab-sports-widget-group-stage = 小组赛阶段
@@ -918,6 +933,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = 重要日期
 newtab-sports-widget-upcoming = 即将进行
+# Used for a match currently ongoing
+newtab-sports-widget-now = 进行中
 newtab-sports-widget-results = 比赛结果
 newtab-sports-widget-semi-finals = 半决赛
 newtab-sports-widget-bronze-finals = 三四名决赛
@@ -1012,6 +1029,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = 搜索结果
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = 无匹配结果
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

@@ -51,6 +51,8 @@ pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = 主页
+pane-home-startup-title2 = 主页与启动
+    .title = 主页与启动
 pane-search-title2 = 搜索
     .title = 搜索
 pane-privacy-title3 = 隐私与安全
@@ -234,6 +236,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = 选择配置文件
 preferences-copy-profile-button = 复制
+tabs-browsing-section =
+    .heading = 标签页与浏览
+pane-tabs-browsing-title2 = 标签页与浏览
+    .title = 标签页与浏览
 tabs-group-header2 =
     .label = 标签页
 tabs-opening-heading =
@@ -345,6 +351,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = 显示侧栏
     .description = 快捷使用书签、手机上的标签页、AI 聊天机器人等内容，无需分心于其他界面。
+page-navigation-group =
+    .label = 页面导航
 browser-layout-header = 浏览器布局
 browser-layout-horizontal-tabs =
     .label = 水平标签页
@@ -462,6 +470,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = 仅缩放文本
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = 若开启“仅缩放文本”且默认缩放比例非 100%，部分网站可能无法正确显示内容。
 preferences-text-zoom-override-warning =
     .message = 警告：若选择“仅缩放文本”，而默认缩放比例不设为 100%，则可能导致某些网站或内容异常。
 language-header = 语言
@@ -1743,6 +1753,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = 密码与自动填写
+    .title = 密码与自动填写
+preferences-passwords-autofill-header =
+    .heading = 密码与自动填写
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2563,6 +2577,8 @@ related-settings-accessibility-link =
     .label = 在无障碍部分中自定义缩放和字体设置
 related-settings-home-link =
     .label = 定制 { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = 定制浏览器布局
 
 ## AI controls page
 

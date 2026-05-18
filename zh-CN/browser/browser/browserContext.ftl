@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = 登录以发送标签页
 main-context-menu-send-to-mobile-enable-sync2 = 启用同步以发送标签页
 main-context-menu-send-to-mobile-connect-phone2 = 连接您的手机
 main-context-menu-send-to-mobile-device-missing2 = 看不到您的设备？
+main-context-menu-send-to-mobile-sign-in-from-link = 登录以发送链接
+main-context-menu-send-to-mobile-sign-in-from-page = 登录以发送页面
+main-context-menu-send-to-mobile-enable-sync3 = 开启同步以发送标签页
+main-context-menu-send-to-mobile-enable-sync-from-link = 开启同步以发送链接
+main-context-menu-send-to-mobile-enable-sync-from-page = 开启同步以发送页面
+main-context-menu-send-to-mobile-connect-phone3 = 连接设备以发送标签页
+main-context-menu-send-to-mobile-connect-phone-from-link = 连接设备以发送链接
+main-context-menu-send-to-mobile-connect-phone-from-page = 连接设备以发送页面
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = 启用同步以发送标签页

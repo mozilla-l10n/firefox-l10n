@@ -57,6 +57,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = 免费的邮件、日历和联系人——按您的方式有序管理。
 more-from-moz-thunderbird-button = 下载 { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
@@ -90,6 +91,12 @@ more-from-moz-mdn-card =
 more-from-moz-thunderbird-card =
     .label = { -thunderbird-brand-name }
     .description = 用这款疾如惊雷的应用，一站式查看邮件、日历、联系人。
+more-from-moz-solo-card-1 =
+    .label = { -solo-ai-brand-name }
+    .description = 弹指间创建自己的网站，并免费连接到自定义域名。
+more-from-moz-new-products-card2 =
+    .label = { -vendor-short-name } 新产品
+    .description = 探索我们的最新创意和实验技术。
 more-from-moz-mozilla-monitor-box-link =
     .label = 使用 { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
