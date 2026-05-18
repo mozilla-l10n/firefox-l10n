@@ -49,6 +49,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
 fxa-menu-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
 fxa-menu-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
+fxa-menu-send-to-mobile-turn-on-sync = Trowch cydweddu ymlaen i anfon tabiau
+fxa-menu-send-to-mobile-connect-device = Cysylltwch ddyfais i anfon tabiau
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -81,6 +83,10 @@ sync-setup-verify-heading = Ydych chi'n siŵr eich bod am fewngofnodi i gydweddu
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Roedd defnyddiwr gwahanol wedi'i fewngofnodi o'r blaen i gydweddu ar y cyfrifiadur hwn. Bydd mewngofnodi yn cyfuno nodau tudalen, cyfrineiriau a gosodiadau eraill y porwr hwn â { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Mewngofnodwch i anfon tabiau
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

@@ -51,6 +51,8 @@ pane-general-title = Cyffredinol
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Cartref
+pane-home-startup-title2 = Cartref a chychwyn
+    .title = Cartref a chychwyn
 pane-search-title2 = Chwilio
     .title = Chwilio
 pane-privacy-title3 = Preifatrwydd a Diogelwch
@@ -484,6 +486,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Chwyddo testun yn unig
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Os yw “Chwyddo testun yn unig” ymlaen ac nad yw eich chwyddo rhagosodedig yn 100%, efallai na fydd rhai gwefannau'n dangos cynnwys yn gywir.
 preferences-text-zoom-override-warning =
     .message = Rhybudd: Os fyddwch yn dewis “Chwyddo testun yn unig” ac nad yw'ch chwyddo rhagosodedig wedi'i osod i 100%, gall achosi i rai gwefannau neu gynnwys dorri.
 language-header = Iaith
@@ -2601,6 +2605,8 @@ related-settings-accessibility-link =
     .label = Cyfaddasu gosodiadau chwyddo a ffont yn Hygyrchedd
 related-settings-home-link =
     .label = Cyfaddasu { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Cyfaddasu cynllun porwr
 
 ## AI controls page
 

@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = Dyw { -brand-short-name } ddim yn gallu creu cysylltiad diogel i'r gweinydd yn { $hostname } .
 fp-neterror-offline-intro = Does dim modd i { -brand-short-name } gysylltu â'r gweinydd yn <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = Dyw { -brand-short-name } ddim yn gallu cysylltu â'r gweinydd yn <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Mae'r gweinydd yn <strong>{ $hostname }</strong> yn cymryd gormod o amser i ymateb.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
