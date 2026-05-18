@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
 fxa-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine
 fxa-menu-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
+fxa-menu-send-to-mobile-turn-on-sync = Skeakelje Syngronisaasje yn om ljepblêden te ferstjoeren
+fxa-menu-send-to-mobile-connect-device = Ferbyn in apparaat om ljepblêden te ferstjoeren
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -69,6 +71,10 @@ sync-setup-verify-heading = Binne jo wis dat jo jo oanmelde wolle om te syngroni
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = In oare brûker wie earder op dizze kompjûter oanmeld om te syngronisearjen. Oanmelde sil de blêdwizers, wachtwurden en oare ynstellingen fan dizze browser byinoar foegje mei dy fan { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Meld jo oan om ljepblêden te ferstjoeren
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

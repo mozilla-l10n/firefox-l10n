@@ -32,6 +32,8 @@ report-broken-site-panel-reason-other-moz-box-button =
     .label = Wat oars
 report-broken-site-panel-instructions-other = Beskriuw it probleem yn detail om ús te helpen it te ûndersykjen.
 report-broken-site-panel-instructions-other-optional = Beskriuw it probleem yn detail om ús te helpen it te ûndersykjen. (opsjoneel)
+report-broken-site-panel-description2 =
+    .placeholder = Wat is der bard? Wat ferwachte jo dat der barre soe? Jou stappen om it probleem te reprodusearjen.
 report-broken-site-panel-send-more-info-button =
     .label = Mear ynformaasje ferstjoere
 report-broken-site-panel-intro = Help { -brand-product-name } foar elkenien better te meitsjen. { -vendor-short-name } brûkt de ynformaasje dy’t jo stjoere om websiteproblemen op te lossen.
@@ -68,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Annulearje
 report-broken-site-panel-button-okay =
     .label = Oké
+report-broken-site-panel-button-send-report =
+    .label = Rapport ferstjoere
 report-broken-site-panel-button-send =
     .label = Ferstjoere
 report-broken-site-panel-report-sent-label = Jo rapport is ferstjoerd
@@ -76,6 +80,18 @@ report-broken-site-panel-report-sent-header =
     .title = Jo rapport is ferstjoerd
 report-broken-site-panel-report-sent-text = Tank dat jo { -brand-product-name } helpt om it ynternet foar elkenien iepener, tagonkliker en better te meitsjen.
 report-broken-site-panel-invalid-url-label = Fier in jildige URL yn
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Fier op syn minst { $minLength } teken yn
+       *[other] Fier op syn minst { $minLength } tekens yn
+    }
+report-broken-site-panel-screenshot-label =
+    .label = In skermôfbylding ferstjoere
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = List mei troch beskerming tsjin folgjen blokkearre items ferstjoere
+report-broken-site-panel-url-input-label =
+    .aria-label = URL fan side dy’t rapportearre wurdt
 report-broken-site-panel-missing-reason-label = Kies in reden
 report-broken-site-panel-blocked-trackers-label =
     .label = Troch beskerming tsjin folgjen blokkearre URL’s ferstjoere

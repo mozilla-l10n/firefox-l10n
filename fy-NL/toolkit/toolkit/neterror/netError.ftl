@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } kin gjin befeilige ferbining mei de server op { $hostname } oanmeitsje.
 fp-neterror-offline-intro = { -brand-short-name } kin gjin ferbining meitsje mei de server op <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } kin gjin ferbining meitsje mei de server op <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = De server op <strong>{ $hostname }</strong> docht der te lang oer om te reagearjen.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
