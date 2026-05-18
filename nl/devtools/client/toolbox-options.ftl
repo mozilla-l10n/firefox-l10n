@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = DOM-attributen afkappen
 options-collapse-attrs-tooltip =
     .title = Lange attributen in de inspector afkappen
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Opmerkingen tonen
+options-show-comments-tooltip =
+    .title = Opmerkingsnodes in de inspector tonen
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Klik en sleep om de afmetingswaarden te bewerken
 options-inspector-draggable-properties-tooltip =

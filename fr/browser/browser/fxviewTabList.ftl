@@ -80,10 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Réactiver le son de l’onglet
 fxviewtabrow-send-to-mobile-enable-sync2 = Activez la synchronisation pour envoyer un onglet
 fxviewtabrow-send-to-mobile-connect-phone2 = Connectez votre téléphone
-fxviewtabrow-send-to-mobile-connect-device = Connecter un appareil pour envoyer des onglets
+fxviewtabrow-send-to-mobile-connect-device = Connectez un appareil pour envoyer des onglets
 fxviewtabrow-send-to-mobile-device-missing2 = Vous ne voyez pas votre appareil ?
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-send-to-mobile-sign-in = Connectez-vous pour envoyer des onglets
-fxviewtabrow-send-to-mobile-turn-on-sync = Activer la synchronisation pour envoyer les onglets
+fxviewtabrow-send-to-mobile-turn-on-sync = Activez la synchronisation pour envoyer des onglets

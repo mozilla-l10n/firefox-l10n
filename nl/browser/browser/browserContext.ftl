@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Meld u aan om tabbladen te verzenden
 main-context-menu-send-to-mobile-enable-sync2 = Schakel synchronisatie in om een tabblad te verzenden
 main-context-menu-send-to-mobile-connect-phone2 = Uw telefoon verbinden
 main-context-menu-send-to-mobile-device-missing2 = Ziet u uw apparaat niet?
+main-context-menu-send-to-mobile-sign-in-from-link = Meld u aan om een koppeling te verzenden
+main-context-menu-send-to-mobile-sign-in-from-page = Meld u aan om een pagina te verzenden
+main-context-menu-send-to-mobile-enable-sync3 = Schakel Synchronisatie in om tabbladen te verzenden
+main-context-menu-send-to-mobile-enable-sync-from-link = Schakel Synchronisatie in om een koppeling te verzenden
+main-context-menu-send-to-mobile-enable-sync-from-page = Schakel Synchronisatie in om een pagina te verzenden
+main-context-menu-send-to-mobile-connect-phone3 = Verbind een apparaat om tabbladen te verzenden
+main-context-menu-send-to-mobile-connect-phone-from-link = Verbind een apparaat om een koppeling te verzenden
+main-context-menu-send-to-mobile-connect-phone-from-page = Verbind een apparaat om een pagina te verzenden
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Schakel synchronisatie in om een tabblad te verzenden
