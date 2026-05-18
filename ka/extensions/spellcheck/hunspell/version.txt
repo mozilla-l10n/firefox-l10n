@@ -1,0 +1,2 @@
+Version 0.1 released Aug 30, 2018
+https://github.com/gamag/ka_GE.spell/tags
