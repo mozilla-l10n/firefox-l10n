@@ -310,6 +310,7 @@ main-context-menu-send-to-mobile-enable-sync-from-link = Activar la sincronizaci
 main-context-menu-send-to-mobile-enable-sync-from-page = Activar la sincronización para enviar una página
 main-context-menu-send-to-mobile-connect-phone3 = Conecta un dispositivo para enviar pestañas
 main-context-menu-send-to-mobile-connect-phone-from-link = Conecta un dispositivo para enviar un enlace
+main-context-menu-send-to-mobile-connect-phone-from-page = Conecta un dispositivo para enviar una página
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Habilita la sincronización para enviar una pestaña.

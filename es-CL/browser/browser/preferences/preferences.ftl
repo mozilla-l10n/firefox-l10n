@@ -51,6 +51,8 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Inicio
+pane-home-startup-title2 = Inicio
+    .title = Inicio
 pane-search-title2 = Buscar
     .title = Buscar
 pane-privacy-title3 = Privacidad y seguridad
@@ -472,6 +474,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ampliar solo el texto
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Si la opción "Ampliar solo texto" está activada y el nivel de aumento predeterminado no es del 100%, es posible que algunos sitios web no muestren el contenido correctamente.
 preferences-text-zoom-override-warning =
     .message = Advertencia: si seleccionas "Ampliar solo texto" y tu aumento predeterminado no está configurado en 100%, podría ser que algunos sitios o contenidos fallen.
 language-header = Idioma
@@ -2585,6 +2589,8 @@ related-settings-accessibility-link =
     .label = Personalizar el aumento y la fuente en Accesibilidad
 related-settings-home-link =
     .label = Personalizar { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Personalizar el diseño del navegador
 
 ## AI controls page
 
