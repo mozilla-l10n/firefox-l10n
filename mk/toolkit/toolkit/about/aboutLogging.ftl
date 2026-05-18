@@ -20,6 +20,7 @@ about-logging-stop-logging = Сопри со бележење
 about-logging-copy-as-url = Копирај ги тековните поставки како URL
 about-logging-url-copied = Поставките за бележење се копирани на таблата за исечоци како подготвено URL
 about-logging-buttons-disabled = Бележењето е конфигурирање преки променливи на околината, динамчка конфигурација не е достапна.
+about-logging-some-elements-disabled = Бележењето е конфигурирано преку URL, некои опции за конфигурација се недостапни
 about-logging-info = Информација:
 about-logging-log-modules-selection = Избор на модул за бележење
 about-logging-new-log-modules = Нов модул за бележење:
