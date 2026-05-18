@@ -3,9 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-info = Информација:
+about-logging-no-log-modules = Ништо
+about-logging-no-log-file = Ништо
+about-logging-menu =
+    .title = Напредни опции
 
 ## Logging presets
 
+about-logging-preset-networking-label = Мрежа
+about-logging-preset-networking-cookie-label = Колачиња
 about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = Модули на записникот за дијагноза на проблеми со WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
@@ -64,6 +70,7 @@ about-logging-uploading-progress = Податоците за профилот с
 # Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Товарено на <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Сподели URL
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-upload-error = Се случи грешка при товарањето на профилот: { $errorText }

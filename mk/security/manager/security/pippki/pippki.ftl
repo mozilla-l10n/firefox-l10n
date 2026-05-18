@@ -14,6 +14,9 @@ change-password-token = Безбедносен уред: { $tokenName }
 change-password-old = Актуелна лозинка:
 change-password-new = Нова лозинка:
 change-password-reenter = Нова лозинка (повторно):
+pippki-pw-change-ok = Лозинката е успешно променета.
+pippki-pw-empty-warning = Вашите зачувани лозинки и приватни клучеви нема да бидат заштитени.
+pippki-pw-erased-ok = Ја избришавте Вашата лозинка. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
@@ -52,6 +55,13 @@ client-auth-cert-details-issued-to = Издадено до: { $issuedTo }
 # Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = Сериски број: { $serialNumber }
+client-auth-cert-remember-label = Запомни ја оваа одлука:
+client-auth-cert-remember-never =
+    .label = Еднаш
+client-auth-cert-remember-always =
+    .label = Трајно
+client-auth-cert-remember-temporarily =
+    .label = За оваа сесија
 
 ## Set password (p12) dialog
 
