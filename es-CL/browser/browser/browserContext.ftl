@@ -303,6 +303,13 @@ main-context-menu-send-to-mobile-sign-in = Conectarse para enviar pestañas
 main-context-menu-send-to-mobile-enable-sync2 = Habilita la sincronización para enviar una pestaña.
 main-context-menu-send-to-mobile-connect-phone2 = Conecta tu teléfono
 main-context-menu-send-to-mobile-device-missing2 = ¿No ves tu dispositivo?
+main-context-menu-send-to-mobile-sign-in-from-link = Conectarse para enviar un enlace
+main-context-menu-send-to-mobile-sign-in-from-page = Conectarse para enviar una página
+main-context-menu-send-to-mobile-enable-sync3 = Activar la sincronización para enviar pestañas
+main-context-menu-send-to-mobile-enable-sync-from-link = Activar la sincronización para enviar un enlace
+main-context-menu-send-to-mobile-enable-sync-from-page = Activar la sincronización para enviar una página
+main-context-menu-send-to-mobile-connect-phone3 = Conecta un dispositivo para enviar pestañas
+main-context-menu-send-to-mobile-connect-phone-from-link = Conecta un dispositivo para enviar un enlace
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Habilita la sincronización para enviar una pestaña.
