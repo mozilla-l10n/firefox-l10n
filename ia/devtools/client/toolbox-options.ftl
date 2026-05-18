@@ -38,6 +38,8 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Truncar le attributos DOM
 options-collapse-attrs-tooltip =
     .title = Truncar le attributos longe in le inspector
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Monstrar commentos
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Clicca e trahe pro modificar le valores del dimensiones
 options-inspector-draggable-properties-tooltip =

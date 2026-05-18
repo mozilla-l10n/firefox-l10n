@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Reportar sito corrupte
 report-broken-site-panel-intro-text = Tu reporto nos adjuta a comprender e corriger problemas in { -brand-product-name } pro render lo melior pro omnes.
 report-broken-site-panel-learn-more-link = Pro saper plus
+report-broken-site-panel-reason-intro-text = Que non functiona?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Le sito non se carga
 # These terms are referring to ecommerce websites
@@ -25,8 +26,13 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Le sito ha demandate de disactivar le blocator de avisos publicitari
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Navigator non supportate o blocate
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Le sito es deceptive
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Altere cosa
+report-broken-site-panel-instructions-other = Describe le problema in detalio pro adjutar nos a investigar le problema.
+report-broken-site-panel-description2 =
+    .placeholder = Que evenoiva? Que expecta tu evenira? Forni le passos pro reproducer le problema.
 report-broken-site-panel-send-more-info-button =
     .label = Invia altere informationes
 report-broken-site-panel-intro = Adjuta a render melior { -brand-product-name } pro totes. { -vendor-short-name } usa le info que tu invia pro remediar problemas de sito web.
@@ -73,8 +79,17 @@ report-broken-site-panel-report-sent-header =
     .title = Tu reporto ha essite inviate.
 report-broken-site-panel-report-sent-text = Gratias pro adjutar { -brand-product-name } a render le web plus aperte, accessibile, e melior pro totes.
 report-broken-site-panel-invalid-url-label = Insere un URL valide
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+       *[other] Insere al minus { $minLength } characteres
+    }
 report-broken-site-panel-screenshot-label =
     .label = nviarar un instantaneo deschermo
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Inviar lista de elementos blocate per le protection antitraciamento
+report-broken-site-panel-url-input-label =
+    .aria-label = URL del pagina a esser signalate
 report-broken-site-panel-missing-reason-label = Elige un ration
 report-broken-site-panel-blocked-trackers-label =
     .label = Inviar URLs blocate per protection antitraciamento

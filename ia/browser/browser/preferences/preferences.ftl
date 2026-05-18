@@ -51,6 +51,8 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagina initial
+pane-home-startup-title2 = Pagina initial e initialisation
+    .title = Pagina initial e initialisation
 pane-search-title2 = Recerca
     .title = Recerca
 pane-privacy-title3 = Confidentialitate e securitate
@@ -2587,6 +2589,8 @@ related-settings-accessibility-link =
     .label = Personalisa configurationes del zoom e del typos del character in Accessibilitate
 related-settings-home-link =
     .label = Personalisar { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Personalisar le impagination del navigator
 
 ## AI controls page
 
