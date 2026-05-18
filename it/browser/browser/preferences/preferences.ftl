@@ -373,7 +373,7 @@ browser-layout-show-sidebar-desc = Accedi rapidamente a segnalibri, schede dal t
 language-and-appearance-header = Lingua e aspetto
 appearance-group2 =
     .label = Aspetto dei siti web
-    .description = Alcuni siti web adattano i colori alle tue preferenze. Seleziona lo schema di colori.
+    .description = Alcuni siti web adattano i colori alle tue preferenze. Seleziona il tuo schema di colori preferito.
 preferences-web-appearance-choice-auto3 =
     .label = Sistema
     .title = Cambia automaticamente i colori dello sfondo e dei contenuti dei siti in base alle impostazioni del sistema e del tema di { -brand-short-name }.
@@ -596,7 +596,7 @@ settings-translations-subpage-no-sites-added =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Utilizza le impostazioni del sistema operativo per “{ $localeName }” per formattare date, orari, numeri e unità di misura.
+    .label = Utilizza le impostazioni “{ $localeName }” del sistema operativo per formattare date, orari, numeri e unità di misura.
 settings-spellcheck-header =
     .label = Controllo ortografico
 check-user-spelling =
@@ -1123,10 +1123,10 @@ home-prefs-clocks-header =
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Sostieni { -brand-product-name }
-home-prefs-mission-message = Gli sponsor sostengono la nostra missione di costruire un Web migliore
+home-prefs-mission-message = Gli sponsor sostengono la nostra missione per un Web migliore
 home-prefs-mission-message-learn-more-link = Scopri come
 home-prefs-mission-message2 =
-    .message = Gli sponsor sostengono la nostra missione di costruire un Web migliore.
+    .message = Gli sponsor sostengono la nostra missione per un Web migliore.
 home-prefs-manage-topics-link = Gestisci argomenti
 home-prefs-manage-topics-link2 =
     .label = Gestisci argomenti
@@ -1197,7 +1197,7 @@ addressbar-header-firefox-suggest-2 =
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
-    .label = Mostra i termini di ricerca nella barra degli indirizzi nelle pagine dei risultati
+    .label = Mostra i termini di ricerca nella barra degli indirizzi per le pagine dei risultati
 search-separate-default-engine-2 =
     .label = Utilizza un motore di ricerca predefinito diverso nelle finestre anonime
     .accesskey = a
@@ -1506,8 +1506,8 @@ sync-engine-settings =
     .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
     .accesskey = z
 sync-choose-what-to-sync-dialog4 =
-    .title = Scelta elementi da sincronizzare
-    .style = min-width: 36em;
+    .title = Gestisci gli elementi da sincronizzare su tutti i dispositivi connessi
+    .style = min-width: 40em;
     .buttonlabelaccept = Salva
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnetti…
@@ -1752,7 +1752,7 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = Eliminare questo indirizzo?
 addresses-delete-address-prompt-confirm-button = Elimina
 addresses-delete-address-prompt-cancel-button = Annulla
-autofill-addresses-add-button = Aggiungi nuovi indirizzi
+autofill-addresses-add-button = Aggiungi nuovo indirizzo
 autofill-addresses-manage-addresses-title =
     .heading = Gestisci indirizzi e altri dati
 # This message is displayed when no addresses are stored in Firefox

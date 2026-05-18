@@ -42,10 +42,10 @@ settings-data-backup-last-backup-location2 =
 settings-data-backup-last-backup-location-show-in-folder = Mostra nella cartella
 settings-data-backup-last-backup-location-edit = Modifica…
 settings-data-create-backup-error = Si è verificato un errore durante la creazione del backup alle { DATETIME($date, timeStyle: "short") } del { DATETIME($date, dateStyle: "short") }
-settings-sensitive-data-encryption-description = Salva password e metodi di pagamento e mantieni tutti i tuoi dati al sicuro grazie alla crittografia.
+settings-sensitive-data-encryption-description = Includi password e metodi di pagamento. Mantieni tutti i tuoi dati al sicuro grazie alla crittografia.
 settings-data-toggle-encryption-label2 =
     .label = Salva i tuoi dati sensibili
-    .description = Salva password e metodi di pagamento e mantieni tutti i tuoi dati al sicuro grazie alla crittografia.
+    .description = Includi password e metodi di pagamento. Mantieni tutti i tuoi dati al sicuro grazie alla crittografia.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nome file: { $fileName }
@@ -123,7 +123,7 @@ restore-from-backup-type-replace =
     .label = Sostituisci tutti i dati con questo backup
 restore-from-backup-type-add =
     .label = Conserva i dati e crea un nuovo profilo
-restore-from-backup-profiles-disabled-message = Questo sostituirà tutti i dati correnti di { -brand-short-name } con il backup.
+restore-from-backup-profiles-disabled-message = Tutti i dati correnti di { -brand-short-name } verranno sostituiti dal backup.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

@@ -78,7 +78,7 @@ more-from-moz-firefox-mobile-email-link = Invia il link per il download al tuo t
 
 more-from-moz-mozilla-monitor-card =
     .label = { -mozmonitor-brand-name }
-    .description = Verifica dove i tuoi dati personali sono stati esposti online con una scansione gratuita.
+    .description = Verifica se i tuoi dati personali sono stati esposti online con una scansione gratuita.
 more-from-moz-mozilla-vpn-card =
     .label = { -mozilla-vpn-brand-name }
     .description = Proteggi tutte le tue app, non solo il browser, con una sicurezza aggiuntiva. Tieni al sicuro i tuoi dati quando usi reti Wi-Fi pubbliche o non protette.
