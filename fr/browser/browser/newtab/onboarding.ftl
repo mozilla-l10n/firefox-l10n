@@ -70,7 +70,7 @@ onboarding-theme-primary-button-label = Terminé
 onboarding-animation-pause-button =
     .aria-label = Mettre en pause l’animation
 onboarding-animation-play-button =
-    .aria-label = Lire l’animation
+    .aria-label = Lancer l’animation
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

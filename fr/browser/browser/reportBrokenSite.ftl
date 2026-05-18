@@ -83,7 +83,7 @@ report-broken-site-panel-invalid-url-label = Veuillez saisir une URL valide
 # $minLength (number) - The minimum number of characters required in the description textarea.
 report-broken-site-panel-invalid-description-label =
     { $minLength ->
-        [one] Veuillez saisir au moins { $minLength } caractères
+        [one] Veuillez saisir au moins { $minLength } caractère
        *[other] Veuillez saisir au moins { $minLength } caractères
     }
 report-broken-site-panel-screenshot-label =

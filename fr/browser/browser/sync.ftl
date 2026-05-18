@@ -39,8 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Activez la synchronisation pour envoyer un onglet
 fxa-menu-send-to-mobile-connect-phone2 = Connectez votre téléphone
 fxa-menu-send-to-mobile-device-missing2 = Vous ne voyez pas votre appareil ?
-fxa-menu-send-to-mobile-turn-on-sync = Activer la synchronisation pour envoyer les onglets
-fxa-menu-send-to-mobile-connect-device = Connecter un appareil pour envoyer des onglets
+fxa-menu-send-to-mobile-turn-on-sync = Activez la synchronisation pour envoyer des onglets
+fxa-menu-send-to-mobile-connect-device = Connectez un appareil pour envoyer des onglets
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
