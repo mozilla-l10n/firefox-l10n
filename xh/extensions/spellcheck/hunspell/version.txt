@@ -1,0 +1,2 @@
+Version 20110323.3
+https://addons.mozilla.org/en-US/firefox/addon/xhosa-spell-checker/versions/
