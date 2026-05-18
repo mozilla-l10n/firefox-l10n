@@ -305,6 +305,9 @@ main-context-menu-send-to-mobile-connect-phone2 = Connecte tu telephono
 main-context-menu-send-to-mobile-device-missing2 = Non vide tu tu apparato?
 main-context-menu-send-to-mobile-sign-in-from-link = Accede pro inviar un ligamine
 main-context-menu-send-to-mobile-sign-in-from-page = Accede pro inviar un pagina
+main-context-menu-send-to-mobile-enable-sync3 = Activa le synchronisation pro inviar schedas
+main-context-menu-send-to-mobile-enable-sync-from-link = Activa le synchronisation pro inviar un ligamine
+main-context-menu-send-to-mobile-enable-sync-from-page = Activa le synchronisation pro inviar un pagina
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Activar synchronisation pro inviar al cheda
