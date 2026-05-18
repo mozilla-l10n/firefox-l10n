@@ -33,7 +33,7 @@ settings-data-backup-in-progress-message =
     .message = Wrthi'n gwneud copi wrth gefn…
 settings-data-backup-last-backup-date = Copïo wrth gefn diwethaf: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
-    .label = Mae copi wrth gefn YMLAEN
+    .label = Mae copïo wrth gefn YMLAEN
 settings-data-backup-scheduled-backups-off2 =
     .label = Mae copïo wrth gefn I FFWRDD
 # "Location" refers to the folder where backups are being written to.
@@ -51,7 +51,7 @@ settings-data-toggle-encryption-label2 =
 settings-data-backup-last-backup-filename = Enw ffeil: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Adfer eich data
-    .description = Adferwch eich data { -brand-product-name } o'r tro diwethaf cafodd ei gadw wrth gefn.
+    .description = Adfer eich data { -brand-product-name } o'r tro diwethaf cafodd ei gadw wrth gefn.
 settings-data-backup-restore-scheduled-off =
     .label = Adfer eich data
     .description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data.
