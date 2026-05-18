@@ -85,5 +85,5 @@ fxviewtabrow-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
-fxviewtabrow-send-to-mobile-sign-in = Mewngofnodwch i Anfon Tabs
+fxviewtabrow-send-to-mobile-sign-in = Mewngofnodwch i Anfon Tabiau
 fxviewtabrow-send-to-mobile-turn-on-sync = Trowch Sync ymlaen i Anfon Tabiau

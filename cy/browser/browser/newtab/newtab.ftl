@@ -1075,7 +1075,7 @@ newtab-clock-widget-search-results =
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
-newtab-clock-widget-search-no-results = Dim cydweddu
+newtab-clock-widget-search-no-results = Dim cydweddiad
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
