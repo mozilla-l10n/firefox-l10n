@@ -19,6 +19,8 @@ change-password-reenter = Нова лозинка (повторно):
 
 reset-password-button-label =
     .label = Ресетирај
+pippki-reset-password-confirmation-title = Ресетирање на главна лозинка
+pippki-reset-password-confirmation-message = Вашата главна лозинка е ресетирана.
 
 ## Downloading cert dialog
 
@@ -41,7 +43,15 @@ client-auth-window =
     .title = Барање за идентификација на корисникот
 client-auth-site-description = Ова место побара од вас да се идентификувате со сертификат:
 client-auth-choose-cert = Изберете сертификат кој ќе служи како идентификација:
+client-auth-send-no-certificate =
+    .label = Не испраќај сертификат
 client-auth-cert-details = Детали за избраниот сертификат:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Издадено до: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Сериски број: { $serialNumber }
 
 ## Set password (p12) dialog
 
