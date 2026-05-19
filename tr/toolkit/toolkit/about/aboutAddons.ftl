@@ -131,9 +131,9 @@ addon-category-extension-title =
 addon-category-theme = Temalar
 addon-category-theme-title =
     .title = Temalar
-addon-category-plugin = Yan Uygulamalar
+addon-category-plugin = Yan uygulamalar
 addon-category-plugin-title =
-    .title = Yan Uygulamalar
+    .title = Yan uygulamalar
 addon-category-dictionary = Sözlükler
 addon-category-dictionary-title =
     .title = Sözlükler
@@ -179,8 +179,8 @@ extensions-warning-safe-mode3 =
 
 addon-updates-check-for-updates = Güncellemeleri denetle
     .accesskey = G
-addon-updates-view-updates = En son güncellemelere bak
-    .accesskey = b
+addon-updates-view-updates = Son güncellemeleri görüntüle
+    .accesskey = o
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -194,7 +194,7 @@ addon-updates-update-addons-automatically = Eklentileri kendiliğinden güncelle
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Tüm eklentileri kendiliğinden güncellenecek şekilde ayarla
+addon-updates-reset-updates-to-automatic = Tüm eklentileri otomatik güncellenecek şekilde ayarla
     .accesskey = a
 addon-updates-reset-updates-to-manual = Tüm eklentileri elle güncellenecek şekilde ayarla
     .accesskey = a
@@ -204,7 +204,7 @@ addon-updates-reset-updates-to-manual = Tüm eklentileri elle güncellenecek şe
 addon-updates-updating = Eklentiler güncelleniyor
 addon-updates-installed = Eklentileriniz güncellendi.
 addon-updates-none-found = Güncelleme bulunamadı
-addon-updates-manual-updates-found = Yüklenebilir güncellemelere bak
+addon-updates-manual-updates-found = Yüklenebilir güncellemeleri görüntüle
 
 ## Add-on install/debug strings for page options menu
 
