@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Habilitar sonido de la pestaña
 fxviewtabrow-send-to-mobile-enable-sync2 = Habilita la sincronización para enviar una pestaña
 fxviewtabrow-send-to-mobile-connect-phone2 = Conecta tu teléfono
+fxviewtabrow-send-to-mobile-connect-device = Conectar un dispositivo para enviar pestañas
 fxviewtabrow-send-to-mobile-device-missing2 = ¿No ves tu dispositivo?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Inicia sesión para enviar pestañas
+fxviewtabrow-send-to-mobile-turn-on-sync = Activar Sincronización para enviar pestañas

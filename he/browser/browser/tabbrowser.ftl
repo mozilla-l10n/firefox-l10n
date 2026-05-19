@@ -356,6 +356,14 @@ tab-group-overflow-count-tooltip =
        *[other] עוד { $tabCount } לשוניות
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = ארגון הלשוניות שלך
+tab-groups-list-empty-description = ניתן לגרור לשונית אחת אל תוך אחרת או ללחוץ לחיצה ימנית על לשונית כדי להתחיל לארגן. נשמור את הקבוצות שלך כאן כדי שיהיה קל למצוא אותן מאוחר יותר.
+tab-groups-list-empty-button = יצירת קבוצת לשוניות
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new

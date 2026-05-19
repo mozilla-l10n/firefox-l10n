@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Informar de un sitio no funcional
 report-broken-site-panel-intro-text = Tu reporte nos ayuda a entender y solucionar problemas en { -brand-product-name } para que sea mejor para todas las personas.
 report-broken-site-panel-learn-more-link = Más información
+report-broken-site-panel-reason-intro-text = ¿Qué es lo que no funciona?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = El sitio no carga
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = El sitio solicitó desactivar el bloqueador de anuncios
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = El navegador no es compatible o está bloqueado
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Este sitio es engañoso
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Algo más
+report-broken-site-panel-instructions-other = Describe el problema en detalle para ayudarnos a investigar la situación.
+report-broken-site-panel-instructions-other-optional = Describe el problema en detalle para ayudarnos a investigar la situación. (opcional)
+report-broken-site-panel-description2 =
+    .placeholder = ¿Qué sucedió? ¿Qué esperabas que pasara? Por favor, comparte los pasos para reproducir el problema.
 report-broken-site-panel-send-more-info-button =
     .label = Enviar más información
 report-broken-site-panel-intro = Ayuda a que { -brand-product-name } sea mejor para todos. { -vendor-short-name } utiliza la información que envías para solucionar problemas con el sitio web.
@@ -73,6 +80,18 @@ report-broken-site-panel-report-sent-header =
     .title = Tu reporte ha sido enviado
 report-broken-site-panel-report-sent-text = Gracias por ayudar a { -brand-product-name } a hacer que la Web sea más abierta, accesible y mejor para todos.
 report-broken-site-panel-invalid-url-label = Por favor introduzca un URL válido
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Ingresa al menos { $minLength } caracter
+       *[other] Ingresa al menos { $minLength } caracteres
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Enviar captura de pantalla
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Enviar lista de elementos bloqueados por la protección de rastreo
+report-broken-site-panel-url-input-label =
+    .aria-label = URL de la página que se reporta
 report-broken-site-panel-missing-reason-label = Por favor elige una razón
 report-broken-site-panel-blocked-trackers-label =
     .label = Enviar las URL bloqueadas por la protección contra el rastreo
