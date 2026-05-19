@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Pli da informo
 address-capture-open-menu-button =
     .aria-label = Malfermi menuon
+address-capture-edit-address-link = Modifi adreson
+    .aria-label = Modifi adreson
 address-capture-edit-address-button =
     .aria-label = Modifi adreson
 # The dialog title for creating addresses in browser preferences.
