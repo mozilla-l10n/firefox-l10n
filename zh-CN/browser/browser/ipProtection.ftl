@@ -115,6 +115,7 @@ ipprotection-locations-subview =
     .title = 选择位置
 ipprotection-locations-subview-description = 选择通过其他位置浏览。
 ipprotecion-locations-subview-recommended-label = 推荐
+ipprotection-locations-subview-recommended-description = 查找最快的位置
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = 不可用
 ipprotection-locations-subview-promo =
@@ -152,13 +153,13 @@ ipprotection-connection-status-blocked-error-description = 当地法律未允许
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = VPN 流量即将用尽
-    .message = 本月剩余 { $usageLeft } / { $maxUsage } GB。
+    .message = 本月剩余 { $usageLeft } GB/{ $maxUsage } GB。
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning-mb =
     .heading = VPN 流量即将用尽
-    .message = 本月剩余 { $usageLeft } / { $maxUsage } GB。
+    .message = 本月剩余 { $usageLeft } GB/{ $maxUsage } GB。
 ipprotection-message-continuous-onboarding-intro = 开启 VPN，隐藏真实位置，为浏览添一层加密保护。
 ipprotection-message-continuous-onboarding-autostart = 将 VPN <a data-l10n-name="setting-link">设为打开 { -brand-short-name } 时自动开启</a>，添一层保护。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 将记住您设置为使用 VPN 的网站。您随时可在<a data-l10n-name="setting-link">设置</a>中更新网站。
@@ -232,19 +233,19 @@ ip-protection-exclusions-desc = 将为不在此列表中的所有网站使用 VP
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-this-month-gb = 本月剩余 { $usageLeft } / { $maxUsage } GB
+ip-protection-bandwidth-left-this-month-gb = 本月剩余 { $usageLeft } GB/{ $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-gb = 剩余 { $usageLeft } / { $maxUsage } GB
+ip-protection-bandwidth-left-gb = 剩余 { $usageLeft } GB/{ $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-this-month-mb = 本月剩余 { $usageLeft } MB / { $maxUsage } GB
+ip-protection-bandwidth-left-this-month-mb = 本月剩余 { $usageLeft } MB/{ $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-mb = 剩余 { $usageLeft } MB / { $maxUsage } GB
+ip-protection-bandwidth-left-mb = 剩余 { $usageLeft } MB/{ $maxUsage } GB
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
