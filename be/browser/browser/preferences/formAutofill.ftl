@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Падрабязней
 address-capture-open-menu-button =
     .aria-label = Адкрыць меню
+address-capture-edit-address-link = Змяніць адрас
+    .aria-label = Змяніць адрас
 address-capture-edit-address-button =
     .aria-label = Змяніць адрас
 # The dialog title for creating addresses in browser preferences.
