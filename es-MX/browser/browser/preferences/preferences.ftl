@@ -2587,6 +2587,8 @@ related-settings-accessibility-link =
     .label = Personalizar el zoom y la fuente en Accesibilidad
 related-settings-home-link =
     .label = Personaliza { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Personalizar el diseño del navegador
 
 ## AI controls page
 
