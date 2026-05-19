@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = 截短 DOM 属性
 options-collapse-attrs-tooltip =
     .title = 截短查看器中的长属性
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = 显示注释
+options-show-comments-tooltip =
+    .title = 在查看器中显示注释节点
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = 点击并拖动编辑大小值
 options-inspector-draggable-properties-tooltip =

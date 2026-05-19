@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = 启用同步以发送标签页
 fxa-menu-send-to-mobile-connect-phone2 = 连接您的手机
 fxa-menu-send-to-mobile-device-missing2 = 看不到您的设备？
+fxa-menu-send-to-mobile-turn-on-sync = 开启同步以发送标签页
+fxa-menu-send-to-mobile-connect-device = 连接设备以发送标签页
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -63,6 +65,10 @@ sync-setup-verify-heading = 您确定要登录同步服务吗？
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 先前有另外的用户在此计算机上登录过同步服务。若继续同步，将与 { $email } 合并此浏览器的书签、密码等设置
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = 登录以发送标签页
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
