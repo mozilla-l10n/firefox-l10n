@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Tìm hiểu thêm
 address-capture-open-menu-button =
     .aria-label = Mở menu
+address-capture-edit-address-link = Sửa địa chỉ
+    .aria-label = Sửa địa chỉ
 address-capture-edit-address-button =
     .aria-label = Sửa địa chỉ
 # The dialog title for creating addresses in browser preferences.
