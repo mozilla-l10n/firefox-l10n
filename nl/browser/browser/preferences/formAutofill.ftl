@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Meer info
 address-capture-open-menu-button =
     .aria-label = Menu openen
+address-capture-edit-address-link = Adres bewerken
+    .aria-label = Adres bewerken
 address-capture-edit-address-button =
     .aria-label = Adres bewerken
 # The dialog title for creating addresses in browser preferences.

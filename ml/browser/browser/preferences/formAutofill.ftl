@@ -42,6 +42,8 @@ address-capture-learn-more-button =
     .label = കൂടുതല്‍ അറിയുക
 address-capture-open-menu-button =
     .aria-label = കുറിപ്പടികട്ട തുറക്കുക
+address-capture-edit-address-link = വിലാസം തിരുത്തുക
+    .aria-label = വിലാസം തിരുത്തുക
 address-capture-edit-address-button =
     .aria-label = വിലാസം തിരുത്തുക
 # The dialog title for creating addresses in browser preferences.

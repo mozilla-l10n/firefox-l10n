@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Daha fazla bilgi alın
 address-capture-open-menu-button =
     .aria-label = Menüyü aç
+address-capture-edit-address-link = Adresi düzenle
+    .aria-label = Adresi düzenle
 address-capture-edit-address-button =
     .aria-label = Adresi düzenle
 # The dialog title for creating addresses in browser preferences.

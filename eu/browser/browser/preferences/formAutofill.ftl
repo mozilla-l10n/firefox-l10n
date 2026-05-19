@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Argibide gehiago
 address-capture-open-menu-button =
     .aria-label = Ireki menua
+address-capture-edit-address-link = Editatu helbidea
+    .aria-label = Editatu helbidea
 address-capture-edit-address-button =
     .aria-label = Editatu helbidea
 # The dialog title for creating addresses in browser preferences.

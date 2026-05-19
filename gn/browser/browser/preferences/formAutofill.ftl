@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Kuaave
 address-capture-open-menu-button =
     .aria-label = Embojuruja poravorã
+address-capture-edit-address-link = Embosako’i kundaharape
+    .aria-label = Embosako’i kundaharape
 address-capture-edit-address-button =
     .aria-label = Embosako’i kundaharape
 # The dialog title for creating addresses in browser preferences.

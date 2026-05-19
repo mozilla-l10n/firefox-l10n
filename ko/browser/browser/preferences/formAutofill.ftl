@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = 더 알아보기
 address-capture-open-menu-button =
     .aria-label = 메뉴 열기
+address-capture-edit-address-link = 주소 편집
+    .aria-label = 주소 편집
 address-capture-edit-address-button =
     .aria-label = 주소 편집
 # The dialog title for creating addresses in browser preferences.

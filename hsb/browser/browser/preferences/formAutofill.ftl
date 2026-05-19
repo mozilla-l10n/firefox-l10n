@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Dalše informacije
 address-capture-open-menu-button =
     .aria-label = Meni wočinić
+address-capture-edit-address-link = Adresu wobdźěłać
+    .aria-label = Adresu wobdźěłać
 address-capture-edit-address-button =
     .aria-label = Adresu wobdźěłać
 # The dialog title for creating addresses in browser preferences.

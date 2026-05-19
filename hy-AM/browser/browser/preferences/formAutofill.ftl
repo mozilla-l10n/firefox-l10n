@@ -42,6 +42,8 @@ address-capture-learn-more-button =
     .label = Իմանալ ավելին
 address-capture-open-menu-button =
     .aria-label = Բացել ցանկը
+address-capture-edit-address-link = Խմբագրել հասցեն
+    .aria-label = Խմբագրել հասցեն
 address-capture-edit-address-button =
     .aria-label = Խմբագրել հասցեն
 # The dialog title for creating addresses in browser preferences.

@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Lue lisää
 address-capture-open-menu-button =
     .aria-label = Avaa valikko
+address-capture-edit-address-link = Muokkaa osoitetta
+    .aria-label = Muokkaa osoitetta
 address-capture-edit-address-button =
     .aria-label = Muokkaa osoitetta
 # The dialog title for creating addresses in browser preferences.

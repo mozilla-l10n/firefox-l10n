@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Darllen rhagor
 address-capture-open-menu-button =
     .aria-label = Agor dewislen
+address-capture-edit-address-link = Golygu cyfeiriad
+    .aria-label = Golygu cyfeiriad
 address-capture-edit-address-button =
     .aria-label = Golygu cyfeiriad
 # The dialog title for creating addresses in browser preferences.

@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Issin ugar
 address-capture-open-menu-button =
     .aria-label = Ldi umuɣ
+address-capture-edit-address-link = Ẓreg tansa
+    .aria-label = Ẓreg tansa
 address-capture-edit-address-button =
     .aria-label = Ẓreg tansa
 # The dialog title for creating addresses in browser preferences.

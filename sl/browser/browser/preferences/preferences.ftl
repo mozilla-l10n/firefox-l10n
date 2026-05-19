@@ -1604,6 +1604,9 @@ forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2485,6 +2488,9 @@ desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2642,6 +2648,10 @@ preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = Dovoli vse piškotke
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = Izoliraj medspletne piškotke
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Dovoli vse piškotke
 preferences-etp-custom-tracking-protection-enabled =

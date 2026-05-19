@@ -47,6 +47,8 @@ address-capture-learn-more-button =
     .label = Dozvědět se více
 address-capture-open-menu-button =
     .aria-label = Otevřít nabídku
+address-capture-edit-address-link = Upravit adresu
+    .aria-label = Upravit adresu
 address-capture-edit-address-button =
     .aria-label = Upravit adresu
 # The dialog title for creating addresses in browser preferences.

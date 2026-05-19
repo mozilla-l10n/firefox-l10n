@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = ਹੋਰ ਜਾਣੋ
 address-capture-open-menu-button =
     .aria-label = ਮੇਨੂ ਖੋਲ੍ਹੋ
+address-capture-edit-address-link = ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
+    .aria-label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
 address-capture-edit-address-button =
     .aria-label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
 # The dialog title for creating addresses in browser preferences.

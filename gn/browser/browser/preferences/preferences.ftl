@@ -2500,6 +2500,9 @@ desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2648,6 +2651,10 @@ preferences-etp-custom-cookies-enabled =
     .label = Kookie
 preferences-etp-custom-cookie-behavior =
     .aria-label = Kookie
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = Emoneĩmbaite kookieita
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = Eipe’a kookie ñanduti rogue okayguágui
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Emoneĩmbaite kookieita
 preferences-etp-custom-tracking-protection-enabled =

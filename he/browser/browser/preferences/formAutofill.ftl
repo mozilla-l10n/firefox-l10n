@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = מידע נוסף
 address-capture-open-menu-button =
     .aria-label = פתיחת תפריט
+address-capture-edit-address-link = עריכת כתובת
+    .aria-label = עריכת כתובת
 address-capture-edit-address-button =
     .aria-label = עריכת כתובת
 # The dialog title for creating addresses in browser preferences.

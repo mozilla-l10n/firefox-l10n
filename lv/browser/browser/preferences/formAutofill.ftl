@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Uzzināt vairāk
 address-capture-open-menu-button =
     .aria-label = Atvērt izvēlni
+address-capture-edit-address-link = Rediģēt adresi
+    .aria-label = Rediģēt adresi
 address-capture-edit-address-button =
     .aria-label = Rediģēt adresi
 # The dialog title for creating addresses in browser preferences.

@@ -738,6 +738,12 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -819,6 +825,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1518,6 +1527,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2373,11 +2385,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2534,6 +2552,10 @@ preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = Lejo krejt cookie-t
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = Izoloni “cookies” gjurmimi nga sajti në sajt
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Lejo krejt cookie-t
 preferences-etp-custom-tracking-protection-enabled =

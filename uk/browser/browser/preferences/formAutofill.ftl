@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Докладніше
 address-capture-open-menu-button =
     .aria-label = Відкрити меню
+address-capture-edit-address-link = Редагувати адресу
+    .aria-label = Редагувати адресу
 address-capture-edit-address-button =
     .aria-label = Редагувати адресу
 # The dialog title for creating addresses in browser preferences.

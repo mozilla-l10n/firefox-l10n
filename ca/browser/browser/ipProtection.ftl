@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-captive-portal = Navegueu amb prot
 ipprotection-feature-introduction-button-primary = Següent
 ipprotection-feature-introduction-button-secondary-not-now = Ara no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gràcies
+ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
+    .label = No, gràcies
 ipprotection-feature-introduction-button-secondary-remove = Elimina la VPN de la barra d'eines
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimina la VPN de la barra d'eines
@@ -92,6 +94,9 @@ ipprotection-button-turn-vpn-on = Activa la VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = S'està activant…
 
+## Location controls
+
+
 ## VPN paused state
 
 upgrade-vpn-title = Obteniu protecció addicional més enllà del navegador
@@ -107,6 +112,12 @@ ipprotection-connection-status-blocked-error-title-1 = La VPN no està disponibl
 ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a la VPN
     .aria-label = No s'ha pogut connectar a la VPN
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description-1 =
@@ -120,6 +131,9 @@ ip-protection-not-opted-in-3 =
 ip-protection-vpn-upgrade-link-1 =
     .label = Protegiu-vos encara més amb el { -mozilla-vpn-brand-name }
     .description = Trieu entre més de 300 ubicacions i protegiu totes les aplicacions en un màxim de 5 dispositius.
+
+## IP Protection dialogs
+
 
 ## IP Protection Bandwidth
 

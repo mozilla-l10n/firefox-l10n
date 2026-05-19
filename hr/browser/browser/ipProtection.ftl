@@ -31,12 +31,17 @@ ipprotection-feature-introduction-description-captive-portal = Pretraži s dodat
 ipprotection-feature-introduction-button-primary = Dalje
 ipprotection-feature-introduction-button-secondary-not-now = Ne sada
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne hvala
+ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
+    .label = Ne hvala
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Odaberi gdje koristiš VPN
 ipprotection-site-settings-callout-subtitle = Isključi VPN za određenu stranicu i mi ćemo je zapamtiti sljedeći put kada je posjetiš.
 ipprotection-site-settings-callout-button = Razumijem
+
+## Location selection callout
+
 
 ## Panel
 
@@ -80,6 +85,9 @@ ipprotection-connection-status-excluded-1 = VPN je isključen za ovu web-stranic
 ipprotection-connection-status-connecting-1 = VPN se spaja …
     .aria-label = VPN se spaja …
 
+## Location controls
+
+
 ## VPN paused state
 
 upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
@@ -112,6 +120,12 @@ ipprotection-message-continuous-onboarding-intro = Uključi VPN za skrivanje tvo
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
 ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN-om
     .aria-label = Neuspjelo povezivanje VPN-om
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -179,6 +193,9 @@ ip-protection-bandwidth-header-1 = Mjesečno ograničenje podataka
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
 ipprotection-bandwidth-reset-text = Uključi VPN za dodatno poboljšanje privatnosti, besplatno svaki mjesec.
 ipprotection-bandwidth-reset-button = Razumijem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = További tudnivalók
 address-capture-open-menu-button =
     .aria-label = Menü megnyitása
+address-capture-edit-address-link = Cím szerkesztése
+    .aria-label = Cím szerkesztése
 address-capture-edit-address-button =
     .aria-label = Cím szerkesztése
 # The dialog title for creating addresses in browser preferences.
