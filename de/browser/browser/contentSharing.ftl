@@ -26,6 +26,7 @@ content-sharing-modal-sign-in =
     .label = Melden Sie sich an, um Links zu teilen
 content-sharing-modal-title = Teilen Sie diese Link-Sammlung in jedem Browser
 content-sharing-modal-description = Erstellen Sie eine öffentliche Seite für diese Links, die einfach zu teilen ist. Die erstellte Seite kann nicht mehr bearbeitet oder gelöscht werden und läuft in 7 Tagen ab.
+content-sharing-modal-policy = Mit dem Teilen erklären Sie sich mit unseren <a data-l10n-name="aup-link">Nutzungsbedingungen</a> einverstanden
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
