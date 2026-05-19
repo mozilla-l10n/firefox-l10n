@@ -2503,6 +2503,9 @@ desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2658,6 +2661,8 @@ preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = Isolate cross-site cookies
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Allow all cookies
 preferences-etp-custom-tracking-protection-enabled =
