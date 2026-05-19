@@ -2507,6 +2507,9 @@ desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2663,6 +2666,8 @@ preferences-etp-custom-cookies-enabled =
     .label = Cookie-uri
 preferences-etp-custom-cookie-behavior =
     .aria-label = Cookie-uri
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = Izolează cookie-urile inter-site-uri
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Permite toate cookie-urile
 preferences-etp-custom-tracking-protection-enabled =
