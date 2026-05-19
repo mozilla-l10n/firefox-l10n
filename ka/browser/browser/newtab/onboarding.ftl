@@ -564,7 +564,7 @@ restored-from-backup-success-with-checklist-primary-button = შეინახ�
 restored-from-backup-success-with-checklist-secondary-button = ამ ნაბიჯის გამოტოვება
 restored-from-backup-success-no-checklist-primary-button = განაგრძეთ
 restored-from-backup-error-title = ჰმ, ხარვეზი წარმოიქმნა სამარქაფო ფაილთან დაკავშირებით.
-restored-from-backup-error-subtitle = თუ სხვა ფაილშიც გაქვთ { -brand-short-name } დამარქაფებული, მოსინჯეთ იმ ფაილიდან აღდგენა. <a data-l10n-name="restore-problems">კვლავ რამე დაბრკოლებაა?</a>
+restored-from-backup-error-subtitle = თუ სხვა ფაილშიც გაქვთ { -brand-short-name } დამარქაფებული, მოსინჯეთ იმ ფაილიდან აღდგენა. <a data-l10n-name="restore-problems">მაინც არ მოგვარდა?</a>
 restored-from-backup-error-primary-button = დახურვა
 
 ## Onboarding Personalization Screen
