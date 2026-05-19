@@ -31,6 +31,7 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Altere cosa
 report-broken-site-panel-instructions-other = Describe le problema in detalio pro adjutar nos a investigar le problema.
+report-broken-site-panel-instructions-other-optional = Describe le problema in detalio pro adjutar nos a investigar lo. (optional)
 report-broken-site-panel-description2 =
     .placeholder = Que evenoiva? Que expecta tu evenira? Forni le passos pro reproducer le problema.
 report-broken-site-panel-send-more-info-button =
