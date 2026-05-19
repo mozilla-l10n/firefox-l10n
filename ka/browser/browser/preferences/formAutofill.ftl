@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = ვრცლად
 address-capture-open-menu-button =
     .aria-label = მენიუს გახსნა
+address-capture-edit-address-link = მისამართის ჩასწორება
+    .aria-label = მისამართის ჩასწორება
 address-capture-edit-address-button =
     .aria-label = მისამართის ჩასწორება
 # The dialog title for creating addresses in browser preferences.
