@@ -324,6 +324,14 @@ tab-context-ungroup-tab =
 tab-group-overflow-count = +{ $tabCount }
 tab-group-overflow-count-tooltip = 還有 { $tabCount } 個分頁
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = 整理您的分頁
+tab-groups-list-empty-description = 將分頁拖曳到另一個分頁，或對分頁按右鍵即可開始整理。我們會在此儲存您的分頁群組，之後就可以方便尋找。
+tab-groups-list-empty-button = 建立分頁群組
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
