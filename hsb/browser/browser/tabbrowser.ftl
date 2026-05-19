@@ -410,6 +410,13 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } dalšich rajtarkow
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Přinjesće sowje rajtarki do porjadka
+tab-groups-list-empty-button = Skupinu rajtarkow wutworić
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
