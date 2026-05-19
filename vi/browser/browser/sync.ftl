@@ -66,6 +66,10 @@ sync-setup-verify-heading = Bạn có chắc muốn đăng nhập để đồng 
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Một người dùng khác trước đây đã đăng nhập để đồng bộ hóa trên máy tính này. Việc đăng nhập sẽ hợp nhất dấu trang, mật khẩu và các cài đặt khác của trình duyệt này với { $email }
 
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxa-menu-send-to-mobile-sign-in = Đăng nhập để gửi thẻ
+
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Dialog 1 - different account signing in without option to merge

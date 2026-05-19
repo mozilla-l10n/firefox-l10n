@@ -92,6 +92,9 @@ about-webrtc-debug-mode-off-state-label = Bắt đầu chế độ gỡ lỗi
 about-webrtc-debug-mode-on-state-label = Dừng chế độ gỡ lỗi
 about-webrtc-stats-heading = Thống kê phiên
 about-webrtc-enable-logging-label = Bật cài đặt nhật ký WebRTC được định trước
+about-webrtc-peerconnections-section-heading = Số liệu thống kê RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Hiển thị Số liệu thống kê RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Ẩn Số liệu thống kê RTCPeerConnection
 about-webrtc-stats-clear = Xóa lịch sử
 about-webrtc-log-heading = Nhật ký kết nối
 about-webrtc-log-clear = Xóa nhật ký
@@ -163,6 +166,14 @@ about-webrtc-configuration-element-provided = Cung cấp
 about-webrtc-configuration-element-not-provided = Không cung cấp
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Người dùng thiết lập tùy chọn WebRTC
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Cấu hình WebRTC do người dùng chỉnh sửa
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Hiển thị cấu hình do người dùng chỉnh sửa
+about-webrtc-user-modified-configuration-hide-msg = Ẩn cấu hình do người dùng chỉnh sửa
 
 ##
 
