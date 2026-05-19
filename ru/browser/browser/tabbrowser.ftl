@@ -393,6 +393,14 @@ tab-group-overflow-count-tooltip =
        *[many] Ещё { $tabCount } вкладок
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Приведите в порядок свои вкладки
+tab-groups-list-empty-description = Перетащите одну вкладку на другую или щёлкните по вкладке правой кнопкой мыши, чтобы начать организовывать. Мы будем сохранять ваши группы здесь, чтобы их было легко найти позже.
+tab-groups-list-empty-button = Создать группу вкладок
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
