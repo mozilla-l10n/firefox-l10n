@@ -42,6 +42,8 @@ address-capture-learn-more-button =
     .label = Gouzout hiroc’h
 address-capture-open-menu-button =
     .aria-label = Digeriñ al lañser
+address-capture-edit-address-link = Aozañ ar chomlec’h
+    .aria-label = Aozañ ar chomlec’h
 address-capture-edit-address-button =
     .aria-label = Aozañ ar chomlec’h
 # The dialog title for creating addresses in browser preferences.
