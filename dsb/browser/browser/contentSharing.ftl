@@ -30,3 +30,17 @@ content-sharing-modal-sign-in =
     .label = Pśizjawśo se, aby wótkaze źělił
 content-sharing-modal-title = Toś tu zběrku wótkazow w kuždem wobglědowaku źěliś
 content-sharing-modal-description = Napórajśo zjawny bok za toś te wótkaze, dajo se lažko źěliś. Gaž jo napórany, njedajo se bok wobźěłaś abo lašowaś a spadnjo za 7 dnjow.
+content-sharing-modal-policy = Gaž źěliśo, zwólijośo do našych <a data-l10n-name="aup-link">wužywańskich pšawidłow</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links =
+    { $count ->
+        [one] Jano maksimalnje { $count } wótkaz se zapśimujo
+        [two] Jano maksimalnje { $count } wótkaza se zapśimujotej
+        [few] Jano maksimalnje { $count } wótkaze se zapśimuju
+       *[other] Jano maksimalnje { $count } wótkazow se zapśimujo
+    }
+content-sharing-modal-generic-error =
+    .heading = Něco njejo se raźiło
+    .message = Wopytajśo pózdźej hyšći raz.

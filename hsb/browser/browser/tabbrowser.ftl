@@ -415,6 +415,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = Přinjesće sowje rajtarki do porjadka
+tab-groups-list-empty-description = Ćehńće jedyn rajtark na druhi abo klikńće z prawej tastu myški na rajtark, zo byšće organizował. Budźemy waše skupiny tu składować, zo bychu so pozdźišo lóšo namakać dali.
 tab-groups-list-empty-button = Skupinu rajtarkow wutworić
 
 ## Open/saved tab group context menu
