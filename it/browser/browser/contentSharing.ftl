@@ -34,3 +34,4 @@ content-sharing-modal-too-many-links = Saranno inclusi al massimo { $count } lin
 content-sharing-modal-generic-error =
     .heading = Si è verificato un errore
     .message = Riprova più tardi.
+
