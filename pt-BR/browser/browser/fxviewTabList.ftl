@@ -80,4 +80,5 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Ativar som da aba
 fxviewtabrow-send-to-mobile-enable-sync2 = Ative a sincronização para enviar uma aba
 fxviewtabrow-send-to-mobile-connect-phone2 = Conecte seu celular
+fxviewtabrow-send-to-mobile-connect-device = Conecte um dispositivo para enviar abas
 fxviewtabrow-send-to-mobile-device-missing2 = Seu dispositivo não aparece?

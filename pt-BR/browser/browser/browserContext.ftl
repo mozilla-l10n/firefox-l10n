@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Entre para enviar abas
 main-context-menu-send-to-mobile-enable-sync2 = Ative a sincronização para enviar uma aba
 main-context-menu-send-to-mobile-connect-phone2 = Conecte seu celular
 main-context-menu-send-to-mobile-device-missing2 = Seu dispositivo não aparece?
+main-context-menu-send-to-mobile-sign-in-from-link = Entre na conta para enviar um link
+main-context-menu-send-to-mobile-sign-in-from-page = Entrar na conta para enviar uma página
+main-context-menu-send-to-mobile-enable-sync3 = Ative a sincronização para enviar abas
+main-context-menu-send-to-mobile-enable-sync-from-link = Ative a sincronização para enviar um link
+main-context-menu-send-to-mobile-enable-sync-from-page = Ative a sincronização para enviar uma página
+main-context-menu-send-to-mobile-connect-phone3 = Conecte um dispositivo para enviar abas
+main-context-menu-send-to-mobile-connect-phone-from-link = Conecte um dispositivo para enviar um link
+main-context-menu-send-to-mobile-connect-phone-from-page = Conecte um dispositivo para enviar uma página
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Ative a sincronização para enviar uma aba
