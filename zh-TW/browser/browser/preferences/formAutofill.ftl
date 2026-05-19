@@ -172,4 +172,3 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 銀聯
 autofill-card-network-visa = Visa
-

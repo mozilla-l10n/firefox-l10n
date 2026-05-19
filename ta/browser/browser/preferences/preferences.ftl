@@ -833,4 +833,3 @@ choose-download-folder-title = பதிவிறக்க அடைவை த�
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

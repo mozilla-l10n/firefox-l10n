@@ -289,4 +289,3 @@ vpn-paused-alert-close-tabs-button = סגירת כל הלשוניות
 vpn-paused-alert-continue-wo-vpn-button = המשך ללא VPN
 vpn-error-alert-title = ה־VPN לא עובד כרגע.
 vpn-error-alert-body = נא לנסות שוב מאוחר יותר.
-

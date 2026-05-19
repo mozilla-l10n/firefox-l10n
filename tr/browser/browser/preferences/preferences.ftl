@@ -2795,4 +2795,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Vekil sunucu otomatik yapılandırması etkin
     .description = Vekil sunucu otomatik yapılandırması, güvenilmeyen ağların web’de yaptıklarınızı izlemesine olanak verebilir.
-

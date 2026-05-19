@@ -2103,4 +2103,3 @@ preferences-ai-controls-header2 =
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
-

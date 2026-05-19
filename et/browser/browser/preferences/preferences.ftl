@@ -1325,4 +1325,3 @@ choose-download-folder-title = Vali allalaadimiste kaust:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

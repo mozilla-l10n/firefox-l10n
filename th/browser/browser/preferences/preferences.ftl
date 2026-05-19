@@ -2773,4 +2773,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = การกำหนดค่าพร็อกซีอัตโนมัติถูกเปิดใช้งาน
     .description = การกำหนดค่าพร็อกซีอัตโนมัติอาจทำให้เครือข่ายที่ไม่เชื่อถือเฝ้าสังเกตกิจกรรมของคุณได้
-

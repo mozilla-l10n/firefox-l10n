@@ -289,4 +289,3 @@ vpn-paused-alert-close-tabs-button = Κλείσιμο όλων των καρτε
 vpn-paused-alert-continue-wo-vpn-button = Συνέχεια χωρίς VPN
 vpn-error-alert-title = Το VPN δεν λειτουργεί αυτήν τη στιγμή.
 vpn-error-alert-body = Δοκιμάσετε ξανά αργότερα.
-

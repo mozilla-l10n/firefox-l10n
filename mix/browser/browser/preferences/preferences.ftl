@@ -309,4 +309,3 @@ choose-download-folder-title = Katsi karpeta nu chikau ña Snuú:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

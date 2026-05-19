@@ -368,4 +368,3 @@ security-enable-safe-browsing-link = Fir méi ze wëssen
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

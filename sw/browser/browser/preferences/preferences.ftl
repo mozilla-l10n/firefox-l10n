@@ -267,4 +267,3 @@ choose-download-folder-title = Chagua Kabrasha ya Kupakua:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

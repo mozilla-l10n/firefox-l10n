@@ -110,21 +110,12 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ը անջատվ�
 ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միանալ VPN-ին
     .aria-label = Չհաջողվեց միանալ VPN-ին
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = Իմանալ ավելին
 ip-protection-not-opted-in-button = Սկսել
 ip-protection-autostart-private-checkbox =
     .label = Գաղտնի պատուհաններում
-
-## IP Protection dialogs
-
 
 ## IP Protection Bandwidth
 
@@ -134,9 +125,6 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 
 ipprotection-bandwidth-reset-button = Հասկացա
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-error-page-keep-browsing = Շարունակեք դիտարկել այս աշխատաշրջանում
@@ -145,4 +133,3 @@ vpn-paused-alert-close-tabs-button = Փակել բոլոր ներդիրները
 vpn-paused-alert-continue-wo-vpn-button = Շարունակել առանց VPN-ի
 vpn-error-alert-title = VPN-ը այս պահին չի աշխատում։
 vpn-error-alert-body = Փորձեք ավելի ուշ
-

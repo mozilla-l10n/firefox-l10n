@@ -2503,9 +2503,6 @@ desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2709,4 +2706,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Proxy auto-configuration is enabled
     .description = Proxy auto-configuration could let untrusted networks to monitor your activity.
-

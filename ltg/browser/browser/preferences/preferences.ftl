@@ -821,4 +821,3 @@ choose-download-folder-title = Izavielit lejupīluožu mapi:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

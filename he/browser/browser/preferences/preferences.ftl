@@ -2794,4 +2794,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = הגדרה אוטומטית של שרת מתווך מופעלת
     .description = הגדרה אוטומטית של שרת מתווך עשויה לאפשר לרשתות שאינן מהימנות לנטר אחר הפעילות שלך.
-

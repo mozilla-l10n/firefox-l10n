@@ -1234,4 +1234,3 @@ choose-download-folder-title = Pumili ng Download Folder:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

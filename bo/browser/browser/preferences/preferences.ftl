@@ -790,4 +790,3 @@ choose-download-folder-title = Choose Download Folder:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

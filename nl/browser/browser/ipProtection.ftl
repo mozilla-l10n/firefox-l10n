@@ -289,4 +289,3 @@ vpn-paused-alert-close-tabs-button = Alle tabbladen sluiten
 vpn-paused-alert-continue-wo-vpn-button = Doorgaan zonder VPN
 vpn-error-alert-title = VPN werkt momenteel niet.
 vpn-error-alert-body = Probeer het later opnieuw.
-

@@ -780,4 +780,3 @@ choose-download-folder-title = Изберете папка за преземањ
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

@@ -2776,4 +2776,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = فُعِّل التضيبط التلقائي للوسيط
     .description = قد التضيبط التلقائي للوسيط للشبكات غير الموثوقة بمراقبة نشاطك.
-

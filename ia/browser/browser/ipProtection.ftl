@@ -291,4 +291,3 @@ vpn-paused-alert-close-tabs-button = Clauder tote le schedas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
 vpn-error-alert-title = Le VPN non functiona a iste momento.
 vpn-error-alert-body = Retenta plus tarde.
-

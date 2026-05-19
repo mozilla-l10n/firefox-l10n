@@ -2500,9 +2500,6 @@ desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2699,4 +2696,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Pe ñemboheko proxy ijeheguíva oñembojurujáma
     .description = Proxy ñemboheko ikatu omoneĩ ñanduti jerovia’ỹha ohechávo ne rembiapo.
-

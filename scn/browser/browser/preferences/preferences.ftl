@@ -1072,4 +1072,3 @@ choose-download-folder-title = Scarta a carpetta pî scarricamenti:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

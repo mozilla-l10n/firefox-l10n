@@ -4,4 +4,3 @@
 
 autofill-address-email = Korreo
 autofill-cancel-button = Kunchatu
-

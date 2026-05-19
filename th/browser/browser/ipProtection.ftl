@@ -285,4 +285,3 @@ vpn-paused-alert-close-tabs-button = ปิดแท็บทั้งหมด
 vpn-paused-alert-continue-wo-vpn-button = ดำเนินการต่อโดยไม่ต้องใช้ VPN
 vpn-error-alert-title = ขณะนี้ VPN ใช้งานไม่ได้
 vpn-error-alert-body = ลองอีกครั้งในภายหลัง
-

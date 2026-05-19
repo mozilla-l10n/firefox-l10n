@@ -172,4 +172,3 @@ autofill-card-network-mastercard = 마스터카드
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 유니온페이
 autofill-card-network-visa = 비자카드
-

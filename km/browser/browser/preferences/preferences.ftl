@@ -922,4 +922,3 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = បោះបង់
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

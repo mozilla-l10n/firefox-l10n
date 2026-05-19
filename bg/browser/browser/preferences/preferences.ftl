@@ -1792,4 +1792,3 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

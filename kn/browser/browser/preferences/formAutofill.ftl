@@ -93,4 +93,3 @@ autofill-card-name-on-card = ಕಾರ್ಡ್ ಮೇಲಿನ ಹೆಸರು
 
 autofill-card-network-amex = ಅಮೇರಿಕನ್ ಎಕ್ಸ್ಪ್ರೆಸ್
 autofill-card-network-discover = ಅನ್ವೇಷಿಸಿ
-

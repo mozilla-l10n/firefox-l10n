@@ -2779,4 +2779,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 已開啟 Proxy 自動設定
     .description = Proxy 自動設定功能可能會讓未受信任的網路監控您的上網行為。
-

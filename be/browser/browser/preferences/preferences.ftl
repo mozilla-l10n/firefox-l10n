@@ -2800,4 +2800,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Аўтаматычная канфігурацыя проксі-сервера ўключана
     .description = Аўтаматычная канфігурацыя проксі-сервера можа дазволіць недавераным сеткам назіраць за вашай дзейнасцю.
-

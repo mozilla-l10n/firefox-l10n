@@ -1592,4 +1592,3 @@ choose-download-folder-title = ڈاؤن لوڈ فولڈر دا انتخاب کر
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

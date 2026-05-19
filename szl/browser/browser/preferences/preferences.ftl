@@ -1323,4 +1323,3 @@ choose-download-folder-title = Ôbier katalog na pobrane zbiory:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

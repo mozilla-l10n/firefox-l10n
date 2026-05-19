@@ -707,4 +707,3 @@ choose-download-folder-title = Kies aflaaivouer:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

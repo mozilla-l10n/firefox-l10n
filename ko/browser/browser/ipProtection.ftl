@@ -285,4 +285,3 @@ vpn-paused-alert-close-tabs-button = 모든 탭 닫기
 vpn-paused-alert-continue-wo-vpn-button = VPN 없이 계속하기
 vpn-error-alert-title = VPN이 지금 작동하지 않습니다.
 vpn-error-alert-body = 나중에 다시 시도하세요.
-

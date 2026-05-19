@@ -28,4 +28,3 @@ autofill-address-zip = Kode Pos
 
 autofill-cancel-button = Bateuë
 autofill-save-button = Keubah
-

@@ -1462,4 +1462,3 @@ choose-download-folder-title = Dibab un teuliad pellgargañ
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

@@ -2794,4 +2794,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = ਪਰਾਕਸੀ ਆਟੋ-ਸੰਰਚਨਾ ਸਮਰੱਥ ਹੈ
     .description = ਪਰਾਕਸੀ ਆਟੋ-ਸੰਰਚਨਾ ਬੇਭਰੋਸੇਯੋਗ ਨੈੱਟਵਰਕਾਂ ਨੂੰ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਦੀ ਨਿਗਰਾਨੀ ਕਰਨ ਦੇ ਸਕਦੀ ਹੈ।
-

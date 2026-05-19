@@ -1487,9 +1487,6 @@ forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2195,17 +2192,11 @@ preferences-doh-manage-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
-
-## Appearance page
-
 
 ## AI controls page
 
@@ -2244,9 +2235,6 @@ preferences-ai-controls-block-confirmation-confirm =
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
-## Privacy and security status card
-
-
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookies-enabled =
@@ -2259,7 +2247,3 @@ preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Մեկուսացնել միջկայքային թխուկները
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
-
-## Warnings section
-
-

@@ -20,4 +20,3 @@ ipprotection-connection-status-generic-error-try-again = Mercés de tornar ensaj
 
 vpn-error-page-new-session = Aviar una session novèla
 vpn-error-alert-body = Tornatz ensajar mai tard.
-

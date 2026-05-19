@@ -288,4 +288,3 @@ vpn-paused-alert-close-tabs-button = Închide toate filele
 vpn-paused-alert-continue-wo-vpn-button = Continuă fără VPN
 vpn-error-alert-title = VPN-ul nu funcționează momentan.
 vpn-error-alert-body = Încearcă din nou mai târziu.
-

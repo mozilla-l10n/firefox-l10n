@@ -172,4 +172,3 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = ਯੂਨੀਅਨ ਪੇਅ
 autofill-card-network-visa = ਵੀਜ਼ਾ
-

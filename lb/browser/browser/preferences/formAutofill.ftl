@@ -32,4 +32,3 @@ autofill-cancel-button = Ofbriechen
 autofill-save-button = Späicheren
 autofill-card-number = Kaartennummer
 autofill-card-name-on-card = Numm op der Kaart
-

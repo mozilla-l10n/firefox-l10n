@@ -2795,4 +2795,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Proxyaren konfigurazio automatikoa gaituta dago
     .description = Proxyaren konfigurazio automatikoak sare ez fidagarriei zure jarduera monitorizatzen utz liezaioke.
-

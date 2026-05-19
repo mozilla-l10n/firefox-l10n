@@ -2775,4 +2775,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 프록시 자동 구성이 활성화됨
     .description = 프록시 자동 구성을 사용하면 신뢰할 수 없는 네트워크가 사용자의 활동을 모니터링할 수 있습니다.
-

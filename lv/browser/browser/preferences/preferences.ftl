@@ -1574,4 +1574,3 @@ choose-download-folder-title = Izvēlieties lejupielāžu mapi:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

@@ -290,4 +290,3 @@ vpn-paused-alert-close-tabs-button = Закрыць усе карткі
 vpn-paused-alert-continue-wo-vpn-button = Працягнуць без VPN
 vpn-error-alert-title = VPN зараз не працуе.
 vpn-error-alert-body = Паўтарыць спробу пазней.
-

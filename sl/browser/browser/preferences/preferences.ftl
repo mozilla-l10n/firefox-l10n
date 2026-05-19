@@ -1604,9 +1604,6 @@ forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2488,9 +2485,6 @@ desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2696,4 +2690,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Omogočena je samodejna nastavitev posrednika
     .description = Samodejna nastavitev posrednika lahko omrežjem, ki jim ne zaupate, omogoči spremljanje vaše dejavnosti.
-

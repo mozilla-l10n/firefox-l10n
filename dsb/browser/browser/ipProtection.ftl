@@ -291,4 +291,3 @@ vpn-paused-alert-close-tabs-button = Wšykne rejtariki zacyniś
 vpn-paused-alert-continue-wo-vpn-button = Bźez VPN pókšacowaś
 vpn-error-alert-title = VPN rowno njefunkcioněrujo.
 vpn-error-alert-body = Wopytajśo pózdźej hyšći raz.
-

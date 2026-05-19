@@ -286,4 +286,3 @@ vpn-paused-alert-close-tabs-button = Embotypaite tendayke
 vpn-paused-alert-continue-wo-vpn-button = Eku’ejey VPN-ỹ rehe
 vpn-error-alert-title = VPN ndoikoporãi ko’ag̃aite.
 vpn-error-alert-body = Eha’ã jey ag̃ave.
-

@@ -2793,4 +2793,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης είναι ενεργή
     .description = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης θα μπορούσε να επιτρέψει σε αναξιόπιστα δίκτυα να παρακολουθήσουν τη δραστηριότητά σας.
-

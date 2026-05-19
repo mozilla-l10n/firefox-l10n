@@ -289,4 +289,3 @@ vpn-paused-alert-close-tabs-button = Барлық беттерді жабу
 vpn-paused-alert-continue-wo-vpn-button = VPN-сіз жалғастыру
 vpn-error-alert-title = VPN қазір жұмыс істеп тұрған жоқ.
 vpn-error-alert-body = Кейінірек қайталап көріңіз.
-

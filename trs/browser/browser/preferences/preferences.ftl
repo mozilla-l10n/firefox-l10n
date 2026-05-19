@@ -1022,4 +1022,3 @@ choose-download-folder-title = Ganahui dane' gima sa' sa naduninjt
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

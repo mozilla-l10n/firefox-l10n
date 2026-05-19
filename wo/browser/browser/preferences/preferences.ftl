@@ -258,4 +258,3 @@ choose-download-folder-title = Tànn wayndare yeb:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

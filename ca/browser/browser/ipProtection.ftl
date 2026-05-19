@@ -94,9 +94,6 @@ ipprotection-button-turn-vpn-on = Activa la VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = S'està activant…
 
-## Location controls
-
-
 ## VPN paused state
 
 upgrade-vpn-title = Obteniu protecció addicional més enllà del navegador
@@ -112,12 +109,6 @@ ipprotection-connection-status-blocked-error-title-1 = La VPN no està disponibl
 ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a la VPN
     .aria-label = No s'ha pogut connectar a la VPN
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-description-1 =
@@ -131,9 +122,6 @@ ip-protection-not-opted-in-3 =
 ip-protection-vpn-upgrade-link-1 =
     .label = Protegiu-vos encara més amb el { -mozilla-vpn-brand-name }
     .description = Trieu entre més de 300 ubicacions i protegiu totes les aplicacions en un màxim de 5 dispositius.
-
-## IP Protection dialogs
-
 
 ## IP Protection Bandwidth
 
@@ -178,4 +166,3 @@ vpn-paused-alert-close-tabs-button = Tanca totes les pestanyes
 vpn-paused-alert-continue-wo-vpn-button = Continua sense VPN
 vpn-error-alert-title = La VPN no funciona en aquests moments.
 vpn-error-alert-body = Torneu a provar-ho més tard.
-

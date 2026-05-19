@@ -288,4 +288,3 @@ vpn-paused-alert-close-tabs-button = Zamknij wszystkie karty
 vpn-paused-alert-continue-wo-vpn-button = Kontynuuj bez VPN
 vpn-error-alert-title = VPN obecnie nie działa.
 vpn-error-alert-body = Spróbuj ponownie później.
-

@@ -1084,4 +1084,3 @@ choose-download-folder-title = ডাউনলোড ফোল্ডার ন�
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

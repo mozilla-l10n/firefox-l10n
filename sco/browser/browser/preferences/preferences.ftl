@@ -1248,4 +1248,3 @@ choose-download-folder-title = Wale Doonload Folder:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

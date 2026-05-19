@@ -2797,4 +2797,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = La configuración automática de proxy está activada
     .description = La configuración automática del proxy puede permitir que redes no fiables vigilen su actividad.
-

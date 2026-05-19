@@ -319,4 +319,3 @@ choose-download-folder-title = ڈاونلوڈس فولڈر ژٲریو
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

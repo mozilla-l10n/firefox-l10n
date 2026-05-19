@@ -651,4 +651,3 @@ choose-download-folder-title = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶ
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

@@ -687,12 +687,6 @@ update-in-progress-ok-button = &Interomp
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
-## About Firefox
-
-
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -774,9 +768,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1436,9 +1427,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2156,31 +2144,18 @@ preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
-## Privacy and security status card
-
-
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
-
-## Warnings section
-
-

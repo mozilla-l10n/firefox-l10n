@@ -1655,4 +1655,3 @@ choose-download-folder-title = බාගත වන බහාලුම තේර�
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

@@ -2801,4 +2801,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatická konfigurácia proxy je povolená
     .description = Automatická konfigurácia proxy servera by mohla umožniť nedôveryhodným sieťam monitorovať vašu aktivitu.
-

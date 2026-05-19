@@ -11,4 +11,3 @@ ipprotection-connection-status-generic-error-try-again = Klaskit en-dro diwezhat
 ## IP Protection alerts
 
 vpn-error-alert-body = Klaskit en-dro diwezhatoc’h.
-

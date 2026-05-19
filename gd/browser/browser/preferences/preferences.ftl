@@ -1445,4 +1445,3 @@ choose-download-folder-title = Tagh pasgan nan luchdaidhan a-nuas:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

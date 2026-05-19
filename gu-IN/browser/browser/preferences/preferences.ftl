@@ -903,4 +903,3 @@ choose-download-folder-title = ડાઉનલોડ ફોલ્ડર પસ�
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

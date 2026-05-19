@@ -172,4 +172,3 @@ autofill-card-network-mastercard = 万事达卡
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 银联
 autofill-card-network-visa = Visa
-

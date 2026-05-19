@@ -289,4 +289,3 @@ vpn-paused-alert-close-tabs-button = Itxi fitxa guztiak
 vpn-paused-alert-continue-wo-vpn-button = Jarraitu VPNrik gabe
 vpn-error-alert-title = VPNa ez dabil oraintxe bertan.
 vpn-error-alert-body = Saiatu berriro geroago.
-

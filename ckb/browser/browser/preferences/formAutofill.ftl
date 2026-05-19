@@ -66,4 +66,3 @@ autofill-card-network-amex = American Express
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-visa = ڤیزا
-

@@ -2507,9 +2507,6 @@ desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2714,4 +2711,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Configurarea automată a proxy-ului este activată
     .description = Configurarea automată a proxy-ului ar putea lăsa rețele care nu sunt de încredere să îți monitorizeze activitatea.
-

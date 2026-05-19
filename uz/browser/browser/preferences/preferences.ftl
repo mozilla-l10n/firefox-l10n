@@ -912,4 +912,3 @@ choose-download-folder-title = Yuklanish jildini tanlang:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

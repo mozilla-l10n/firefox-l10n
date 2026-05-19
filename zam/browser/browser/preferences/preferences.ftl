@@ -228,4 +228,3 @@ downloads-folder-name = Re koo blaál
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
-

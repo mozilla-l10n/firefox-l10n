@@ -285,4 +285,3 @@ vpn-paused-alert-close-tabs-button = Đóng tất cả các thẻ
 vpn-paused-alert-continue-wo-vpn-button = Tiếp tục mà không cần VPN
 vpn-error-alert-title = VPN hiện không hoạt động.
 vpn-error-alert-body = Hãy thử lại sau.
-

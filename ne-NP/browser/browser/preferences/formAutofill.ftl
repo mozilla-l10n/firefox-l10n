@@ -63,4 +63,3 @@ autofill-add-new-card-title = नयाँ क्रेडिट कार्ड
 autofill-edit-card-title = क्रेडिट कार्ड सम्पादन गर्नुहोस्
 autofill-card-number = कार्ड नम्बर
 autofill-card-name-on-card = कार्डमा रहेको नाम
-

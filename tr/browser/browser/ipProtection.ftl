@@ -289,4 +289,3 @@ vpn-paused-alert-close-tabs-button = Tüm sekmeleri kapat
 vpn-paused-alert-continue-wo-vpn-button = VPN olmadan devam et
 vpn-error-alert-title = VPN şu anda çalışmıyor.
 vpn-error-alert-body = Daha sonra yeniden deneyin.
-

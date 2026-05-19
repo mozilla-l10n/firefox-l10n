@@ -2815,4 +2815,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Mae awtoffurfweddu dirprwyol wedi'i alluogi
     .description = Dyw awtoffurfweddu dirprwyol ddim yn caniatáu i rwydweithiau heb ymddiriedaeth fonito'ch gweithgaredd.
-

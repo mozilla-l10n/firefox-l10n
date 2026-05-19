@@ -285,4 +285,3 @@ vpn-paused-alert-close-tabs-button = 关闭所有标签页
 vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 继续
 vpn-error-alert-title = VPN 目前未运行。
 vpn-error-alert-body = 请稍后再试。
-

@@ -277,4 +277,3 @@ vpn-paused-alert-close-tabs-button = Sulje kaikki välilehdet
 vpn-paused-alert-continue-wo-vpn-button = Jatka ilman VPN:ää
 vpn-error-alert-title = VPN ei toimi juuri nyt.
 vpn-error-alert-body = Yrittää myöhemmin uudelleen.
-

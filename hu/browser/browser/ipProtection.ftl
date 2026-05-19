@@ -287,4 +287,3 @@ vpn-paused-alert-close-tabs-button = Összes lap bezárása
 vpn-paused-alert-continue-wo-vpn-button = Folytatás VPN nélkül
 vpn-error-alert-title = A VPN most nem működik.
 vpn-error-alert-body = Próbálja újra később.
-
