@@ -360,8 +360,8 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
-tab-groups-list-empty-header = Gör ordning i dina flikar
-tab-groups-list-empty-description = Dra en flik till en annan eller högerklicka på en flik för att börja organisera. Vi sparar dina grupper här så att de är enkla att hitta senare.
+tab-groups-list-empty-header = Städa bland dina flikar
+tab-groups-list-empty-description = Dra en flik till en annan eller högerklicka på en flik för att börja organisera. Vi sparar dina grupper här så att de är lätta att hitta senare.
 tab-groups-list-empty-button = Skapa en flikgrupp
 
 ## Open/saved tab group context menu
