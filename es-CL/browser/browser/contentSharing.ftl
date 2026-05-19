@@ -26,3 +26,15 @@ content-sharing-modal-sign-in =
     .label = Conéctate para compartir enlaces
 content-sharing-modal-title = Comparte esta colección de enlaces en cualquier navegador
 content-sharing-modal-description = Crea una página pública para estos enlaces que sea fácil de compartir. Una vez creada, la página no se puede editar ni eliminar y caduca a los 7 días.
+content-sharing-modal-policy = Al compartir, aceptas nuestra <a data-l10n-name="aup-link">Política de uso aceptable</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links =
+    { $count ->
+        [one] Solo se incluirá un máximo de { $count } enlace.
+       *[other] Solo se incluirá un máximo de { $count } enlaces.
+    }
+content-sharing-modal-generic-error =
+    .heading = Algo se fue a las pailas
+    .message = Vuelve a intentarlo más tarde.
