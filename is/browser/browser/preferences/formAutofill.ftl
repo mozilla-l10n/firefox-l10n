@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Frekari upplýsingar
 address-capture-open-menu-button =
     .aria-label = Opna valmynd
+address-capture-edit-address-link = Breyta tölvupóstfangi
+    .aria-label = Breyta tölvupóstfangi
 address-capture-edit-address-button =
     .aria-label = Breyta tölvupóstfangi
 # The dialog title for creating addresses in browser preferences.
