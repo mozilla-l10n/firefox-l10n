@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Маълумоти бештар
 address-capture-open-menu-button =
     .aria-label = Кушодани меню
+address-capture-edit-address-link = Таҳрир кардани нишонӣ
+    .aria-label = Таҳрир кардани нишонӣ
 address-capture-edit-address-button =
     .aria-label = Таҳрир кардани нишонӣ
 # The dialog title for creating addresses in browser preferences.
