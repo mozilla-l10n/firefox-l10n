@@ -362,6 +362,14 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } pestañas más
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Organiza tus pestañas
+tab-groups-list-empty-description = Arrastra una pestaña sobre otra o haz clic derecho en una para empezar a organizar. Guardaremos tus grupos aquí para que sea fácil encontrarlos después.
+tab-groups-list-empty-button = Crear un grupo de pestañas
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
