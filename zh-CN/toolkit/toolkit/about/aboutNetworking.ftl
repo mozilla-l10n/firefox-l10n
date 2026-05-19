@@ -13,6 +13,7 @@ about-networking-dns-trr-mode = DoH 模式
 about-networking-dns-suffix = DNS 后缀
 about-networking-websockets = WebSocket
 about-networking-alt-svc = Alt-Svc
+about-networking-alt-svc-origin = 来源
 about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = 已验证
 about-networking-alt-svc-ttl = TTL
