@@ -200,9 +200,7 @@ ip-protection-not-opted-in-2 =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-3 =
     .heading = { -brand-short-name } の組み込み VPN をお試しください
-    .message =
-        現在位置を隠してブラウジングのプライバシー保護を強化しましょう。毎月 { $maxUsage } GB の無料 VPN データが取得できます。
-        	Browse with extra protection by hiding your location. Get { $maxUsage } GB of free VPN data every month.
+    .message = 現在位置を隠してブラウジングのプライバシー保護を強化しましょう。毎月 { $maxUsage } GB の無料 VPN データが取得できます。
 ip-protection-not-opted-in-button = はじめる
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
