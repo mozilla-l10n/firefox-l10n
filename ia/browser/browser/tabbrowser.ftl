@@ -360,6 +360,14 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } altere schedas
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Pone in ordine tu schedas
+tab-groups-list-empty-description = Trahe un scheda super un altere o clicca con le clave dextre sur un scheda pro initiar a organisar tu navigation. Tu gruppos sera salvate ci proque tu los trovara facilemente.
+tab-groups-list-empty-button = Crear u gruppo de schedas
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new

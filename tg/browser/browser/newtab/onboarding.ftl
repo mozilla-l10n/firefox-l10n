@@ -63,6 +63,15 @@ mr1-onboarding-theme-label-dark = Торик
 mr1-onboarding-theme-label-alpenglow = Нури алпӣ
 onboarding-theme-primary-button-label = Тайёр
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Таваққуф кардани аниматсия
+onboarding-animation-play-button =
+    .aria-label = Пахш кардани аниматсия
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -573,5 +582,6 @@ onboarding-personalization-motivation-other-option = Дигар
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Мо маълумоти шуморо муҳофизат мекунем ва ширкатҳоро аз ҷосусӣ ва таҳлили амалҳои шумо ба таври худкор маҳдуд мекунем.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = «{ -brand-short-name }» шуморо пуштибонӣ мекунад

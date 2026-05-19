@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Танзимот…
+menu-application-set-as-default =
+    .label = Танзим кардани «{ -brand-shorter-name }» ҳамчун браузери пешфарз
 menu-application-services =
     .label = Хизматҳо
 menu-application-hide-this =

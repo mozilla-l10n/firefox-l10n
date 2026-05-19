@@ -87,6 +87,8 @@ ipprotection-location-country-button = Ҷойгиршавӣ: { $country }
 ipprotection-locations-subview =
     .title = Интихоби ҷойгиршавӣ
 ipprotecion-locations-subview-recommended-label = Тавсияшуда
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Дастнорас
 
 ## VPN paused state
 
@@ -131,5 +133,6 @@ ipprotection-bandwidth-reset-button = Фаҳмидам
 ## IP Protection alerts
 
 vpn-paused-alert-title = «VPN» таваққуф шуд
+vpn-error-page-new-session = Оғози ҷаласаи нав
 vpn-paused-alert-close-tabs-button = Пӯшидани ҳамаи варақаҳо
 vpn-error-alert-body = Баъдтар аз нав кӯшиш кунед.

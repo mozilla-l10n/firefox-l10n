@@ -365,6 +365,10 @@ newtab-custom-widget-lists-toggle =
     .label = Рӯйхатҳо
 newtab-custom-widget-timer-toggle =
     .label = Вақтсанҷ
+newtab-custom-widget-sports-toggle =
+    .label = Ҷоми ҷаҳон
+newtab-custom-widget-clock-toggle =
+    .label = Соат
 newtab-custom-widget-section-title = Виҷетҳо
 newtab-custom-widget-section-toggle =
     .label = Виҷетҳо
@@ -503,6 +507,9 @@ newtab-weather-menu-change-location = Иваз кардани макон
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Ҷустуҷӯи макон
     .aria-label = Ҷустуҷӯи макон
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Истифодаи ҷойгиршавии ҷорӣ
 newtab-weather-menu-weather-display = Намоиши обу ҳаво
 newtab-weather-todays-forecast = Пешгӯии имрӯза
 newtab-weather-see-full-forecast = Дидани пешгӯии пурра
@@ -528,6 +535,9 @@ newtab-weather-opt-in-not-now =
     .label = Ҳоло не
 newtab-weather-opt-in-yes =
     .label = Ҳа
+newtab-weather-opt-in-use-location =
+    .label = Истифодаи ҷойгиршавӣ
+newtab-weather-opt-in-choose-location = Интихоби ҷойгиршавӣ
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Шаҳри Ню-Йорк
 # "Highest" here refers to the highest temperature of the day
@@ -689,6 +699,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Иҷро шуд ({ $number })
+newtab-widget-lists-celebration-headline = Кори хуб
 newtab-widget-task-list-menu-copy = Нусха бардоштан
 newtab-widget-lists-menu-edit = Таҳрир кардани номи рӯйхат
 newtab-widget-lists-menu-edit2 =
@@ -726,6 +737,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Виҷетҳо
 newtab-widget-menu-hide = Пинҳон кардани виҷет
 newtab-widget-menu-change-size = Иваз кардани андоза
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Ҳаракат кардан
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Чап
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Рост
 newtab-widget-size-small = Хурд
 newtab-widget-size-medium = Миёна
 newtab-widget-size-large = Калон
@@ -739,7 +759,12 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Ба ҳадди ақал сохтани виҷетҳо
     .aria-label = Ҳамаи виҷетҳои худро то андозаи хурд шакл созед
+newtab-widget-add-widgets-button =
+    .aria-label = Илова кардани виҷет
+    .title = Илова кардани виҷет
 newtab-widget-section-menu-manage = Идоракунии виҷетҳо
+newtab-widget-section-menu-hide-all = Пинҳон кардани виҷетҳо
+newtab-widget-section-menu-learn-more = Маълумоти бештар
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -777,12 +802,32 @@ newtab-promo-card-dismiss-button =
     .title = Нодида гузарондан
     .aria-label = Нодида гузарондан
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Марказонидан
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Қатъ кардан
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Пинҳон кардани вақтсанҷ
+
 ## Sports widget
 
+newtab-sports-widget-menu-view-results = Намоиш додани натиҷаҳо
+newtab-sports-widget-menu-learn-more = Маълумоти бештар
+newtab-sports-widget-choose-wallpaper =
+    .label = Тасвири заминаиеро интихоб намоед
 newtab-sports-widget-skip = Нодида гузарондан
 newtab-sports-widget-done-button =
     .label = Тайёр
+newtab-sports-widget-group-stage = Марҳилаи гурӯҳӣ
+# Used for a match currently ongoing
+newtab-sports-widget-now = Ҳозир
 newtab-sports-widget-results = Натиҷаҳо
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -804,3 +849,36 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ин фазо тибқи қоидаҳои шумо рафтор мекунад
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Пинҳон кардани соат
+newtab-clock-widget-menu-learn-more = Маълумоти бештар
+newtab-clock-widget-menu-edit = Таҳрир кардани соат
+newtab-clock-widget-label-your-clocks = Соатҳои шумо
+newtab-clock-widget-button-add-clock = Илова кардан
+newtab-clock-widget-button-cancel = Бекор кардан
+newtab-clock-widget-button-back =
+    .title = Ба қафо
+    .aria-label = Ба қафо
+newtab-clock-widget-button-edit-clock =
+    .title = Таҳрир кардани соат
+    .aria-label = Таҳрир кардани соат
+newtab-clock-widget-button-save = Нигоҳ доштан
+newtab-clock-widget-button-remove-clock =
+    .title = Тоза кардани соат
+    .aria-label = Тоза кардани соат
+newtab-clock-widget-add-clock-form =
+    .aria-label = Илова кардани соат
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Таҳрир кардани соат
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Натиҷаҳои ҷустуҷӯ
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Ягон мутобиқат нест
