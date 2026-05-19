@@ -128,10 +128,6 @@ restore-from-backup-profiles-disabled-message = შედეგად { -brand-s
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
 
-# User is not authorized to restore a particular backup file, usually because
-# the backup file is encrypted and the user provided a recovery password that
-# was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = პაროლი უმართებულოა. <a data-l10n-name="incorrect-password-support-link">კვლავ რამე დაბრკოლებაა?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
@@ -258,6 +254,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> შექმნის �
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = აღდგენილია წყაროა { $deviceName } თარიღით { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } თარიღზე { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-backup-file-restore-file-validation-error = ეს ფაილი გამოუსადეგარია. სცადეთ სხვა ფაილის არჩევა. <a data-l10n-name="restore-problems">კვლავ რამე დაბრკოლებაა?</a>
+backup-file-restore-file-validation-error = ეს ფაილი გამოუსადეგარია. სცადეთ სხვა ფაილის არჩევა. <a data-l10n-name="restore-problems">მაინც არ მოგვარდა?</a>
 restore-from-backup-filepicker-input =
     .placeholder = ფაილი არჩეული არაა
