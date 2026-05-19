@@ -42,6 +42,8 @@ address-capture-learn-more-button =
     .label = قلوه دووسته بۊین
 address-capture-open-menu-button =
     .aria-label = گۊشیڌن نومگه
+address-capture-edit-address-link = آلشت نشۊوی
+    .aria-label = آلشت نشۊوی
 address-capture-edit-address-button =
     .aria-label = آلشت نشۊوی
 # The dialog title for creating addresses in browser preferences.
