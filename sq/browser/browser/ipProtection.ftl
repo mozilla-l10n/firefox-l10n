@@ -29,12 +29,17 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a da
 ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani
 ipprotection-feature-introduction-button-secondary-no-thanks = Jo, faleminderit
+ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
+    .label = Jo, faleminderit
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Zgjidhni se ku përdorni VPN
 ipprotection-site-settings-callout-subtitle = Çaktivizoni VPN-në për një sajt specifik dhe do ta mbajmë mend herës tjetër që e vizitoni.
 ipprotection-site-settings-callout-button = E mora vesh
+
+## Location selection callout
+
 
 ## Panel
 
@@ -76,6 +81,9 @@ ipprotection-connection-status-excluded-1 = VPN-ja është e mbyllur për këtë
     .aria-label = VPN-ja është e mbyllur për këtë sajt
 ipprotection-connection-status-connecting-1 = VPN-ja po lidhet…
     .aria-label = VPN-ja po lidhet…
+
+## Location controls
+
 
 ## VPN paused state
 
