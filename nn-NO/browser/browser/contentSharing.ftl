@@ -25,3 +25,6 @@ content-sharing-modal-sign-in =
     .label = Logg inn for å dele lenker
 content-sharing-modal-title = Del denne samlinga av lenker i kva nettlesar som helst.
 content-sharing-modal-description = Opprett ei offentleg side for desse lenkene som er enkel å dele. Når sida er oppretta, kan ho ikkje redigerast eller slettast, og ho går ut om 7 dagar.
+content-sharing-modal-generic-error =
+    .heading = Noko gjekk gale
+    .message = Prøv igjen seinare.

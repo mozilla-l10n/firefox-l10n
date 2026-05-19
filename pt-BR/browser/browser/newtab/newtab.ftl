@@ -786,6 +786,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Ocultar widget
 newtab-widget-menu-change-size = Mudar tamanho
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Mover
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Esquerda
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Direita
 newtab-widget-size-small = Pequeno
 newtab-widget-size-medium = Médio
 newtab-widget-size-large = Grande
@@ -802,6 +811,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu de widgets
     .aria-label = Abrir menu de widgets
+newtab-widget-add-widgets-button =
+    .aria-label = Adicionar widget
+    .title = Adicionar widget
 newtab-widget-section-menu-manage = Gerenciar widgets
 newtab-widget-section-menu-hide-all = Ocultar widgets
 newtab-widget-section-menu-learn-more = Saiba mais
@@ -893,6 +905,7 @@ newtab-widget-timer-celebration-message-break = Pronto para se concentrar?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Seguir times
+newtab-sports-widget-menu-view-schedule = Ver calendário
 newtab-sports-widget-menu-view-upcoming = Ver próximos
 newtab-sports-widget-menu-view-results = Ver resultados
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -920,6 +933,8 @@ newtab-sports-widget-search-country =
     .placeholder = Pesquisar país
     .aria-label = Pesquisar país
 newtab-sports-widget-cancel = Cancelar
+newtab-sports-widget-back-button =
+    .aria-label = Voltar
 newtab-sports-widget-done-button =
     .label = Pronto
 newtab-sports-widget-group-stage = Fase de grupos
@@ -934,6 +949,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Datas importantes
 newtab-sports-widget-upcoming = Seguintes
+# Used for a match currently ongoing
+newtab-sports-widget-now = Agora
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Semifinais
 newtab-sports-widget-bronze-finals = Final para terceiro lugar
@@ -1028,6 +1045,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Resultados da pesquisa
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Nenhum encontrado
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
