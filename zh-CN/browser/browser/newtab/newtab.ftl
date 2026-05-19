@@ -1023,7 +1023,7 @@ newtab-clock-widget-button-remove-clock =
 newtab-clock-widget-add-clock-form =
     .aria-label = 添加时钟
 newtab-clock-widget-edit-clock-form =
-    .aria-label = 调整时钟
+    .aria-label = 编辑时钟
 # "Search results" is the accessible label for the listbox dropdown that appears
 # below the location search field, listing matching cities as the user types.
 # It means "results of the search", not "search within the results".
