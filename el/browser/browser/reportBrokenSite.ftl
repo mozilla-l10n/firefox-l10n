@@ -85,6 +85,8 @@ report-broken-site-panel-invalid-description-label =
     { $minLength ->
        *[other] Εισαγάγετε τουλάχιστον { $minLength } χαρακτήρες
     }
+report-broken-site-panel-screenshot-label =
+    .label = Αποστολή στιγμιότυπου
 report-broken-site-panel-missing-reason-label = Επιλέξτε έναν λόγο
 report-broken-site-panel-blocked-trackers-label =
     .label = Αποστολή URL αποκλεισμένων από προστασία καταγραφής
