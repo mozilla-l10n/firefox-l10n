@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = Plui informazions
 address-capture-open-menu-button =
     .aria-label = Vierç menù
+address-capture-edit-address-link = Modifiche direzion
+    .aria-label = Modifiche direzion
 address-capture-edit-address-button =
     .aria-label = Modifiche direzion
 # The dialog title for creating addresses in browser preferences.
