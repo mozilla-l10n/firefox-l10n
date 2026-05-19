@@ -1772,3 +1772,4 @@ choose-download-folder-title = Izaberite direktorij za preuzimanja:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

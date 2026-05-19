@@ -172,3 +172,4 @@ autofill-card-network-mastercard = מאסטרקארד
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ויזה
+

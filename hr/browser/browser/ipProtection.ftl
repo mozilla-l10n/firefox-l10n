@@ -207,3 +207,4 @@ vpn-paused-alert-close-tabs-button = Zatvori sve kartice
 vpn-paused-alert-continue-wo-vpn-button = Nastavi bez VPN-a
 vpn-error-alert-title = VPN trenutačno ne radi.
 vpn-error-alert-body = Pokušaj kasnije ponovo.
+

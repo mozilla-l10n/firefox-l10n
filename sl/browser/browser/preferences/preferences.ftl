@@ -2696,3 +2696,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Omogočena je samodejna nastavitev posrednika
     .description = Samodejna nastavitev posrednika lahko omrežjem, ki jim ne zaupate, omogoči spremljanje vaše dejavnosti.
+

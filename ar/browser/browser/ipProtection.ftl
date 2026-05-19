@@ -271,3 +271,4 @@ vpn-paused-alert-close-tabs-button = أغلق كل الألسنة
 vpn-paused-alert-continue-wo-vpn-button = واصِل بدون VPN
 vpn-error-alert-title = خدمة VPN لا تعمل حاليًا.
 vpn-error-alert-body = حاول مجددًا لاحقًا.
+

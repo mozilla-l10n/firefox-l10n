@@ -146,3 +146,4 @@ autofill-card-network-mastercard = මාස්ටර් කාඩ්
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = යුනියන් පේ
 autofill-card-network-visa = වීසා
+

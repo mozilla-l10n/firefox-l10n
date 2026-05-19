@@ -2795,3 +2795,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = შუამავლის თვითგამართვა ჩართულია
     .description = ქსელის შუამავლის თვითგამართვამ შეიძლება არასანდო ქსელებს თქვენი მიმოცვლილი მონაცემების აღრიცხვის საშუალება მისცეს.
+

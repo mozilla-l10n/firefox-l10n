@@ -291,3 +291,4 @@ vpn-paused-alert-close-tabs-button = Fermi ĉiujn langetojn
 vpn-paused-alert-continue-wo-vpn-button = Daŭrigi sen VPN
 vpn-error-alert-title = La VPN ne funkcias nun.
 vpn-error-alert-body = Provu denove poste.
+

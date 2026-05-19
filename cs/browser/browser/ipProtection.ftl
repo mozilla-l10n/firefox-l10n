@@ -331,3 +331,4 @@ vpn-paused-alert-close-tabs-button = Zavřít všechny panely
 vpn-paused-alert-continue-wo-vpn-button = Pokračovat bez VPN
 vpn-error-alert-title = VPN právě nefunguje.
 vpn-error-alert-body = Zkuste to znovu později.
+

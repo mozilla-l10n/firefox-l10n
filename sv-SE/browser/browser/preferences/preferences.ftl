@@ -2795,3 +2795,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatisk proxykonfiguration är aktiverad
     .description = Automatisk proxykonfiguration kan göra det möjligt för otillförlitliga nätverk att övervaka din aktivitet.
+

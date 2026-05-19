@@ -2699,3 +2699,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Pe ñemboheko proxy ijeheguíva oñembojurujáma
     .description = Proxy ñemboheko ikatu omoneĩ ñanduti jerovia’ỹha ohechávo ne rembiapo.
+

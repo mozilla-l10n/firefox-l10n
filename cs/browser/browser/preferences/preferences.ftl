@@ -3153,3 +3153,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatická konfigurace proxy serverů je povolena
     .description = Automatická konfigurace proxy může umožnit nedůvěryhodným sítím sledovat vaši aktivitu.
+

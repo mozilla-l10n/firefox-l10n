@@ -6,3 +6,4 @@
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-secondary-not-now = មិន​មែន​ឥឡូវ
+

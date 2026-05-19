@@ -289,3 +289,4 @@ vpn-paused-alert-close-tabs-button = Stäng alla flikar
 vpn-paused-alert-continue-wo-vpn-button = Fortsätt utan VPN
 vpn-error-alert-title = VPN fungerar inte just nu.
 vpn-error-alert-body = Försök igen senare.
+

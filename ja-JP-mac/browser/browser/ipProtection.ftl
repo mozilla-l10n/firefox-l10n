@@ -283,3 +283,4 @@ vpn-paused-alert-close-tabs-button = すべてのタブを閉じる
 vpn-paused-alert-continue-wo-vpn-button = VPN 無しで続ける
 vpn-error-alert-title = VPN は今すぐ動作しません。
 vpn-error-alert-body = 後でもう一度試してください。
+

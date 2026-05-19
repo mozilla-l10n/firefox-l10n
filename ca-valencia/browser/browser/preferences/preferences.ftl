@@ -1246,3 +1246,4 @@ choose-download-folder-title = Tria la carpeta de baixades:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

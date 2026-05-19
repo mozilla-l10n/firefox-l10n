@@ -70,3 +70,4 @@ autofill-edit-card-title = កែកាតឥណទាន
 autofill-card-number = លេខ​កាត
 autofill-card-invalid-number = សូមបញ្ចូលលេខកាតត្រឹមត្រូវ
 autofill-card-name-on-card = ឈ្មោះ​លើ​កាត
+

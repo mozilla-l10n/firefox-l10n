@@ -2714,3 +2714,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Configurarea automată a proxy-ului este activată
     .description = Configurarea automată a proxy-ului ar putea lăsa rețele care nu sunt de încredere să îți monitorizeze activitatea.
+

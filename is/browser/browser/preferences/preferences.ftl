@@ -1806,3 +1806,4 @@ choose-download-folder-title = Veldu niðurhals möppu:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

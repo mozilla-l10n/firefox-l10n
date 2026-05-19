@@ -38,3 +38,4 @@ autofill-address-state = மாநிலம்
 autofill-address-country = நாடு அல்லது பிராந்தியம்
 autofill-country-warning-message = படிவம் தானியங்குநிரப்பல் தற்போது குறிப்பிட்ட நாடுகளில் மட்டுமே கிடைக்கிறது.
 autofill-card-billing-address = விலைப்பட்டியல் முகவரி
+

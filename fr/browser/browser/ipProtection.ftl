@@ -305,3 +305,4 @@ vpn-paused-alert-close-tabs-button = Fermer tous les onglets
 vpn-paused-alert-continue-wo-vpn-button = Continuer sans le VPN
 vpn-error-alert-title = Le VPN ne fonctionne pas pour le moment.
 vpn-error-alert-body = Réessayez plus tard.
+

@@ -2789,3 +2789,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatikus proxybeállítás engedélyezve
     .description = Az automatikus proxybeállítás lehetővé teheti, hogy a nem megbízható hálózatok kövessék a tevékenységét.
+

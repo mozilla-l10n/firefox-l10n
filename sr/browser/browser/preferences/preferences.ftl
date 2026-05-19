@@ -2901,3 +2901,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Аутоматско подешавање посредника је омогућено
     .description = Аутоматско подешавање посредника може дозволити неповерљивим мрежама да надгледају вашу активност.
+

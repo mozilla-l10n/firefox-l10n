@@ -71,3 +71,4 @@ security-enable-safe-browsing-link = Terabum ŕpo
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

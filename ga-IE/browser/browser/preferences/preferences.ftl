@@ -762,3 +762,4 @@ choose-download-folder-title = Roghnaigh Fillteán Íoslódála:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

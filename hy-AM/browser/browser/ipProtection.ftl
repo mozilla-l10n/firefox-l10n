@@ -145,3 +145,4 @@ vpn-paused-alert-close-tabs-button = Փակել բոլոր ներդիրները
 vpn-paused-alert-continue-wo-vpn-button = Շարունակել առանց VPN-ի
 vpn-error-alert-title = VPN-ը այս պահին չի աշխատում։
 vpn-error-alert-body = Փորձեք ավելի ուշ
+

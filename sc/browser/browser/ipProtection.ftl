@@ -132,3 +132,4 @@ ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a
 
 vpn-paused-alert-close-tabs-button = Serra totu is ischedas
 vpn-error-alert-body = Torra·nche a proare a pustis.
+

@@ -293,3 +293,4 @@ vpn-paused-alert-close-tabs-button = Cau pob tab
 vpn-paused-alert-continue-wo-vpn-button = Parhau heb y VPN
 vpn-error-alert-title = Dyw'r VPN ddim yn gweithio ar hyn o bryd.
 vpn-error-alert-body = Ceisiwch eto yn nes ymlaen
+

@@ -2795,3 +2795,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Autoconfiguración del proxy habilitada.
     .description = La autoconfiguración del proxy permite a redes que no son de confianza monitorear tu actividad.
+

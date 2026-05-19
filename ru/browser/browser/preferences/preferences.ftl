@@ -2800,3 +2800,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Автонастройка прокси включена
     .description = Автоматическая настройка прокси может позволить ненадежным сетям отслеживать вашу активность.
+

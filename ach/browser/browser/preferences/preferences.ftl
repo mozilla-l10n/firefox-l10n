@@ -903,3 +903,4 @@ choose-download-folder-title = Yer boc me gam:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

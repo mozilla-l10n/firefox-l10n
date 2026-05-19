@@ -2795,3 +2795,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatyske proxykonfiguraasje is ynskeakele
     .description = Automatyske proxykonfiguraasje kin net-fertroude netwurken jo aktiviteit monitoarje litte.
+

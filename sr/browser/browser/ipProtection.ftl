@@ -290,3 +290,4 @@ vpn-paused-alert-close-tabs-button = Затвори све језичке
 vpn-paused-alert-continue-wo-vpn-button = Настави без ВПН-а
 vpn-error-alert-title = ВПН тренутно не ради.
 vpn-error-alert-body = Покушајте поново касније.
+

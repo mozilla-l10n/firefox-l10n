@@ -122,3 +122,4 @@ ipprotection-bandwidth-reset-button = فئمیم
 
 vpn-paused-alert-title = VPN واستا
 vpn-error-alert-body = دینداتر دووارته امتهووݩ کۊنین.
+

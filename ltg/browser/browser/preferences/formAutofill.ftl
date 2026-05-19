@@ -68,3 +68,4 @@ autofill-card-name-on-card = Kartes eipašnīks
 autofill-card-expires-month = Deireiguma beigu mieness
 autofill-card-expires-year = Deireiguma beigu gods
 autofill-card-billing-address = Moksōšonys adrese
+

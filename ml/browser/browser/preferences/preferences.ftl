@@ -1307,3 +1307,4 @@ choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിര
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

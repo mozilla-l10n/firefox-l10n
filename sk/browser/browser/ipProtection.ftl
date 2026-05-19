@@ -291,3 +291,4 @@ vpn-paused-alert-close-tabs-button = Zavrieť všetky karty
 vpn-paused-alert-continue-wo-vpn-button = Pokračovať bez VPN
 vpn-error-alert-title = VPN momentálne nefunguje.
 vpn-error-alert-body = Skúste to znova neskôr.
+

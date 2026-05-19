@@ -1366,3 +1366,4 @@ choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

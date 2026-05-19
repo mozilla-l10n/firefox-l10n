@@ -145,3 +145,4 @@ ipprotection-bandwidth-reset-button = Фаҳмидам
 vpn-paused-alert-title = «VPN» таваққуф шуд
 vpn-paused-alert-close-tabs-button = Пӯшидани ҳамаи варақаҳо
 vpn-error-alert-body = Баъдтар аз нав кӯшиш кунед.
+

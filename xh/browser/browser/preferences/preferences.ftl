@@ -554,3 +554,4 @@ choose-download-folder-title = Khetha iFolda yokuKhutshelwayo:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

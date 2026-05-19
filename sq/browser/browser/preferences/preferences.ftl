@@ -2600,3 +2600,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Vetëformësimi i ndërmjetësit është i aktivizuar
     .description = Vetëformësimi i ndërmjetësit mund të lejonte rrjete jo të besueshëm të mbikëqyrin veprimtarinë tuaj.
+

@@ -2775,3 +2775,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Tính năng tự động cấu hình proxy đang được bật
     .description = Việc tự động cấu hình proxy có thể cho phép các mạng không đáng tin cậy theo dõi hoạt động của bạn.
+

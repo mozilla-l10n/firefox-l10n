@@ -1769,3 +1769,4 @@ choose-download-folder-title = Escolla o cartafol de descarga:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

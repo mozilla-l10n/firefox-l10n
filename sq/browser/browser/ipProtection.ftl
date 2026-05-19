@@ -226,3 +226,4 @@ vpn-paused-alert-close-tabs-button = Mbylli krejt skedat
 vpn-paused-alert-continue-wo-vpn-button = Vazhdo pa VPN
 vpn-error-alert-title = VPN-ja s’është duke funksionuar.
 vpn-error-alert-body = Riprovoni më vonë.
+

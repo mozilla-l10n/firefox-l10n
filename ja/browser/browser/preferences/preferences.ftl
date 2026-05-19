@@ -2692,3 +2692,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = プロキシー自動設定が有効です
     .description = プロキシー自動設定により、信頼できないネットワークがユーザーの行動をモニターできます。
+

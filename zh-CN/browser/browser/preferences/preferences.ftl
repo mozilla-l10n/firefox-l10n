@@ -2779,3 +2779,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 代理自动配置已启用
     .description = 代理自动配置可能让不受信任的网络监控您的活动。
+

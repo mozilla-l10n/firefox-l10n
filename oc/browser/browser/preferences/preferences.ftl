@@ -1610,3 +1610,4 @@ preferences-etp-customize-button =
     .label = Personalizar la proteccion contra lo seguiment
 preferences-etp-customize-header =
     .heading = Personalizar la proteccion contra lo seguiment
+

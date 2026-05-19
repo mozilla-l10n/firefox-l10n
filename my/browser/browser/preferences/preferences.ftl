@@ -872,3 +872,4 @@ choose-download-folder-title = ဆွဲယူထားသည့် ဖိုင
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

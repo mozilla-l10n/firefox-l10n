@@ -2805,3 +2805,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Awtomatiska konfiguracija proksy jo zmóžnjona
     .description = Awtomatiska konfiguracija proksy mógła dowěry njegódnym seśam zmóžniś, wašu aktiwitu wobglědowaś.
+

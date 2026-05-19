@@ -1119,3 +1119,4 @@ choose-download-folder-title = Trigar a carpeta de descargas:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

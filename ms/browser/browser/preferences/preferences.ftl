@@ -851,3 +851,4 @@ choose-download-folder-title = Pilih Folder Muat turun:
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+

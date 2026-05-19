@@ -2778,3 +2778,4 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Välityspalvelimen automaattinen määritys on käytössä
     .description = Välityspalvelimen automaattinen määritys saattaa mahdollistaa ei-luotettujen verkkojen tarkkailla toimiasi.
+

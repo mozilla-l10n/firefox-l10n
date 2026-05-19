@@ -182,3 +182,4 @@ vpn-paused-alert-close-tabs-button = Zapri vse zavihke
 vpn-paused-alert-continue-wo-vpn-button = Nadaljuj brez VPN
 vpn-error-alert-title = VPN trenutno ne deluje.
 vpn-error-alert-body = poskusite znova pozneje.
+

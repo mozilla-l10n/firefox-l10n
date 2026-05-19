@@ -73,3 +73,4 @@ ipprotection-site-settings-callout-button = Náði því
 ## IP Protection alerts
 
 vpn-error-alert-body = Reyndu aftur síðar.
+

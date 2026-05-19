@@ -289,3 +289,4 @@ vpn-paused-alert-close-tabs-button = Alle ljepblêden slute
 vpn-paused-alert-continue-wo-vpn-button = Trochgean sûnder VPN
 vpn-error-alert-title = VPN wurket op dit stuit net.
 vpn-error-alert-body = Probearje it letter opnij.
+

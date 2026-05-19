@@ -1152,3 +1152,4 @@ preferences-ai-controls-header2 =
 
 preferences-etp-status-advanced-button =
     .label = ఉన్నత అమరికలు
+
