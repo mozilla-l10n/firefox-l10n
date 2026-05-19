@@ -372,6 +372,14 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } sekme daha
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Sekmelerinizi düzene sokun
+tab-groups-list-empty-description = Düzenlemeye başlamak için bir sekmeyi diğerinin üzerine sürükleyin veya bir sekmeye sağ tıklayın. Gruplarınızı daha sonra kolayca bulabilmeniz için buraya kaydedeceğiz.
+tab-groups-list-empty-button = Sekme grubu oluştur
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
