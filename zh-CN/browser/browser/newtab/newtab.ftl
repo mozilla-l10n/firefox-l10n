@@ -784,7 +784,7 @@ newtab-widget-menu-hide = 隐藏小组件
 newtab-widget-menu-change-size = 更改大小
 # Parent label for a submenu in the widget menu that reorders the widget
 # among its siblings. "Left" and "Right" appear as items inside this submenu.
-newtab-widget-menu-move = 移动到…
+newtab-widget-menu-move = 移动到
 # Submenu item under "Move"; moves the widget one position to the left.
 # RTL locales should translate this as "Right".
 newtab-widget-menu-move-left = 左侧
