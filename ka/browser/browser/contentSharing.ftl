@@ -25,3 +25,6 @@ content-sharing-modal-sign-in =
     .label = შედით ბმულების გასაზიარებლად
 content-sharing-modal-title = გააზიარეთ ბმულების ეს კრებული ნებისმიერ ბრაუზერში
 content-sharing-modal-description = შექმენით საჯარო გვერდი ამ ბმულებისთვის იოლად გასაზიარებლად. შექმნის შემდეგ ეს გვერდი ვეღარ ჩასწორდება ან წაიშლება და ვადა გაუვა 7 დღეში.
+content-sharing-modal-generic-error =
+    .heading = რაღაც ხარვეზი წარმოიქმნა
+    .message = კვლავ სცადე მოგვიანებით.
