@@ -69,14 +69,14 @@ pane-privacy-title = Gizlilik ve Güvenlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Eşitleme
-pane-ai-controls-title2 = Yapay Zekâ Kontrolleri
-    .title = Yapay Zekâ Kontrolleri
+pane-ai-controls-title2 = Yapay zekâ kontrolleri
+    .title = Yapay zekâ kontrolleri
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-ai-controls-title = Yapay Zekâ Kontrolleri
+pane-ai-controls-title = Yapay zekâ kontrolleri
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
-pane-about-firefox-title = { -brand-short-name } Hakkında
+pane-about-firefox-title = { -brand-short-name } hakkında
     .title = { pane-about-firefox-title }
 pane-appearance-title = Görünüm
     .title = { pane-appearance-title }
@@ -110,10 +110,9 @@ pane-experimental-reset =
     .accesskey = V
 help-button-label2 = { -brand-short-name } Desteği
     .title = { -brand-short-name } Desteği
-addons-button-label2 = Uzantılar ve Temalar
-    .title = Uzantılar ve Temalar
-help-button-label = { -brand-short-name } Desteği
-addons-button-label = Uzantılar ve Temalar
+addons-button-label2 = Uzantılar ve temalar
+    .title = Uzantılar ve temalar
+addons-button-label = Uzantılar ve temalar
 focus-search =
     .key = f
 close-button =
@@ -335,8 +334,8 @@ containers-remove-alert-msg =
         [one] Bu kapsayıcıyı şimdi silerseniz { $count } kapsayıcı sekmesi kapanacaktır. Kapsayıcıyı silmek istediğinizden emin misiniz?
        *[other] Bu kapsayıcıyı şimdi silerseniz { $count } kapsayıcı sekmesi kapanacaktır. Kapsayıcıyı silmek istediğinizden emin misiniz?
     }
-containers-remove-ok-button = Kapsayıcıyı sil
-containers-remove-cancel-button = Kapsayıcıyı silme
+containers-remove-ok-button = Bu kapsayıcıyı sil
+containers-remove-cancel-button = Bu kapsayıcıyı silme
 settings-tabs-show-image-in-preview =
     .label = Bir sekmenin üzerine geldiğimde sekme ön izlemesini göster
     .accessKey = ö
@@ -812,7 +811,7 @@ update-in-progress-cancel-button = &Devam et
 ## About Firefox
 
 about-firefox-header =
-    .heading = { -brand-short-name } Hakkında
+    .heading = { -brand-short-name } hakkında
 
 ## Firefox updates
 

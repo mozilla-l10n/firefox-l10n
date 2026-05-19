@@ -25,8 +25,8 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } Mobil’i indirmek için QR kodu
 more-from-moz-button-mozilla-vpn-2 = VPN’e kaydolun
 more-from-moz-learn-more-link = Daha fazla bilgi al
-more-from-moz-title2 = Diğer { -vendor-short-name } Ürünleri
-    .title = Diğer { -vendor-short-name } Ürünleri
+more-from-moz-title2 = Diğer { -vendor-short-name } ürünleri
+    .title = Diğer { -vendor-short-name } ürünleri
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
