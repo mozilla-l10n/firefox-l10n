@@ -734,6 +734,12 @@ update-in-progress-ok-button = &Annuller
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -1513,6 +1519,9 @@ forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2274,11 +2283,17 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = DNS via HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
 choose-download-folder-title = Gem filer i
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2366,6 +2381,10 @@ preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = Tillad alle cookies
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = Isoler cookies på tværs af websteder
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Tillad alle cookies
 preferences-etp-custom-tracking-protection-enabled =
@@ -2380,3 +2399,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
