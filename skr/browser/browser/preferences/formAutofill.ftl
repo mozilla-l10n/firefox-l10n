@@ -43,6 +43,8 @@ address-capture-learn-more-button =
     .label = ٻیا سِکھو
 address-capture-open-menu-button =
     .aria-label = مینیو کھولو
+address-capture-edit-address-link = پتے وچ تبدیلی کرو
+    .aria-label = پتے وچ تبدیلی کرو
 address-capture-edit-address-button =
     .aria-label = پتے وچ تبدیلی کرو
 # The dialog title for creating addresses in browser preferences.
