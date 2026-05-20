@@ -326,6 +326,14 @@ tab-context-ungroup-tab =
 tab-group-overflow-count = +{ $tabCount }개
 tab-group-overflow-count-tooltip = 탭 { $tabCount }개 더
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = 탭을 정리하세요
+tab-groups-list-empty-description = 탭을 다른 탭 위로 끌어다 놓거나 마우스 오른쪽 버튼을 클릭하여 정리를 시작해 보세요. 나중에 쉽게 찾을 수 있도록 그룹을 여기에 저장합니다.
+tab-groups-list-empty-button = 탭 그룹 만들기
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
