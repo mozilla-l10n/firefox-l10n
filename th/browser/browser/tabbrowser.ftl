@@ -330,6 +330,14 @@ tab-group-overflow-count-tooltip =
        *[other] อีก { $tabCount } แท็บ
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = จัดระเบียบแท็บของคุณ
+tab-groups-list-empty-description = ลากแท็บหนึ่งไปวางซ้อนอีกแท็บหรือคลิกขวาที่แท็บเพื่อเริ่มจัดระเบียบ เราจะบันทึกกลุ่มแท็บของคุณไว้เพื่อให้ง่ายต่อการค้นหาในภายหลัง
+tab-groups-list-empty-button = สร้างกลุ่มแท็บ
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
