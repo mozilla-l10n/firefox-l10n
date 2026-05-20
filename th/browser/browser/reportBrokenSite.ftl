@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = รายงานไซต์ที่ใช้งานไม่ได้
 report-broken-site-panel-intro-text = รายงานของคุณช่วยให้เราเข้าใจและแก้ไขปัญหาใน { -brand-product-name } เพื่อให้ดีขึ้นสำหรับทุกคน
 report-broken-site-panel-learn-more-link = เรียนรู้เพิ่มเติม
+report-broken-site-panel-reason-intro-text = มีอะไรที่ใช้งานไม่ได้หรือเปล่า?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = หน้าเว็บไม่โหลด
 # These terms are referring to ecommerce websites
@@ -29,6 +30,8 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
     .label = เว็บไซต์นี้หลอกลวง
 report-broken-site-panel-reason-other-moz-box-button =
     .label = อื่น ๆ
+report-broken-site-panel-instructions-other = ระบุรายละเอียดของปัญหา เพื่อให้เราตรวจสอบได้ดีขึ้น
+report-broken-site-panel-instructions-other-optional = ระบุรายละเอียดของปัญหา เพื่อให้เราตรวจสอบได้ดีขึ้น (ไม่บังคับ)
 report-broken-site-panel-send-more-info-button =
     .label = ส่งข้อมูลเพิ่มเติม
 report-broken-site-panel-intro = ช่วยทำให้ { -brand-product-name } ดีขึ้นสำหรับทุกคน { -vendor-short-name } ใช้ข้อมูลที่คุณส่งมาเพื่อแก้ไขปัญหาเกี่ยวกับเว็บไซต์
