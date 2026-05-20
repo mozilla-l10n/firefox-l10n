@@ -361,6 +361,14 @@ tab-group-overflow-count-tooltip =
        *[other] Тағы { $tabCount } бет
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Беттеріңізді ретке келтіріңіз
+tab-groups-list-empty-description = Реттеуді бастау үшін бір бетті екіншісіне сүйреңіз немесе бетті тышқанның оң жағымен шертіңіз. Біз сіздің топтарыңызды кейінірек оңай табу үшін осында сақтаймыз.
+tab-groups-list-empty-button = Беттер тобын жасау
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
