@@ -224,7 +224,7 @@ link-preview-visit-link = 링크 방문
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name }가 이 웹 페이지에 대한 요점을 생성할 수 없습니다.
 # Error message when something went wrong during key point generation
-link-preview-generation-error-unexpected = 무언가 잘못되었습니다.
+link-preview-generation-error-unexpected = 문제가 발생했습니다.
 # Text for the retry link when generation fails
 link-preview-generation-retry = 다시 시도
 # Button that opens the Link Preview settings
