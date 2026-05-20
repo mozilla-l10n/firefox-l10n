@@ -18,7 +18,7 @@ content-sharing-modal-sign-in =
     .label = 링크 공유를 하려면 로그인하세요
 content-sharing-modal-title = 이 링크 모음을 모든 브라우저에서 공유하세요
 content-sharing-modal-description = 이 링크를 쉽게 공유할 수 있는 공개 페이지를 만드세요. 페이지는 한번 생성되면 수정하거나 삭제할 수 없으며 7일 후에 만료됩니다.
-content-sharing-modal-policy = 공유하면 <data-l10n-name="aup-link">사용 정책</a>에 동의하게 됩니다</a>
+content-sharing-modal-policy = 공유하면 <a data-l10n-name="aup-link">사용 정책</a>에 동의하게 됩니다</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
