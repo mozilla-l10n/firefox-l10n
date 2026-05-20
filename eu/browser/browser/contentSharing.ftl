@@ -26,3 +26,15 @@ content-sharing-modal-sign-in =
     .label = Hasi saioa loturak partekatzeko
 content-sharing-modal-title = Partekatu loturen bilduma hau edozein nabigatzailetan
 content-sharing-modal-description = Sortu partekatzeko erraza den orri publiko bat lotura hauentzat. Behin sortuta, orria ezin da editatu edo ezabatu eta 7 egunen buruan iraungitzen da.
+content-sharing-modal-policy = Partekatzearekin bat, gure <a data-l10n-name="aup-link">erabilera onargarriaren politika</a> onartzen duzu
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links =
+    { $count ->
+        [one] Gehienez ere lotura { $count } sartuko da
+       *[other] Gehienez ere { $count } lotura sartuko dira
+    }
+content-sharing-modal-generic-error =
+    .heading = Zerbait gaizki joan da
+    .message = Saiatu berriro geroago.
