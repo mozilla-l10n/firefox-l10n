@@ -99,7 +99,7 @@ cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] ‏{ -brand-short-name } חסם יותר מרכיב מעקב אחד מאז { DATETIME($date, month: "long", year: "numeric") }!
-       *[other] ‏{ -brand-short-name } חסם למעלה מ־<b>{ $blockedCount }</b> רכיבי מעקב מאז { $date }!
+       *[other] ‏{ -brand-short-name } חסם למעלה מ־<b>{ $blockedCount }</b> רכיבי מעקב מאז { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = צפייה בהכל
     .accesskey = צ
