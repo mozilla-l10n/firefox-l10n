@@ -945,6 +945,18 @@ newtab-sports-widget-back-button =
     .aria-label = Indietro
 newtab-sports-widget-done-button =
     .label = Fatto
+newtab-sports-widget-view-all =
+    .label = Mostra tutto
+newtab-sports-widget-show-less =
+    .label = Nascondi dettagli
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Guarda
+    .title = Guarda online
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Guarda live
+    .title = Guarda live
 newtab-sports-widget-group-stage = Fase a gironi
 newtab-sports-widget-round-32 = Sedicesimi di finale
 newtab-sports-widget-round-16 = Ottavi di finale
@@ -972,9 +984,9 @@ newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "n
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = In ritardo
-newtab-sports-widget-postponed = Rinviato
-newtab-sports-widget-suspended = Sospeso
-newtab-sports-widget-cancelled = Annullato
+newtab-sports-widget-postponed = Rinviata
+newtab-sports-widget-suspended = Sospesa
+newtab-sports-widget-cancelled = Annullata
 newtab-sports-widget-information = Informazioni sulla partita
 newtab-sports-widget-no-live-data = Al momento i dati delle partite in diretta non si stanno aggiornando
 newtab-sports-widget-view-results-link = Visualizza risultati
@@ -983,6 +995,56 @@ newtab-sports-widget-third-place = Terzo posto
 newtab-sports-widget-runner-up = Secondi classificati
 newtab-sports-widget-champions = Campioni
 newtab-sports-widget-world-cup-champions = Campioni della Coppa del Mondo 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Fine partita
+newtab-sports-widget-match-penalties = Rigori
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } contro { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) contro { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Live: { $homeTeam }, { $homeScore } contro { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } contro { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } contro { $awayTeam }, in ritardo
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } contro { $awayTeam }, posticipata
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } contro { $awayTeam }, sospesa
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } contro { $awayTeam }, annullata
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
