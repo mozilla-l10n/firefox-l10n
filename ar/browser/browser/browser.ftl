@@ -1510,6 +1510,9 @@ reset-pbm-panel-confirm-button =
     .label = احذف بيانات الجلسة
     .accesskey = ت
 reset-pbm-panel-complete = حُذفت بيانات الجلسة الخاصة
+reset-pbm-toolbar-button2 =
+    .label = امحُ الجلسة الخاصة
+    .tooltiptext = امحُ الجلسة الخاصة
 
 ## Autorefresh blocker
 
