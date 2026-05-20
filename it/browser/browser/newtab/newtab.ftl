@@ -955,8 +955,8 @@ newtab-sports-widget-watch =
     .title = Guarda online
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch-icon =
-    .aria-label = Guarda live
-    .title = Guarda live
+    .aria-label = Guarda in diretta
+    .title = Guarda in diretta
 newtab-sports-widget-group-stage = Fase a gironi
 newtab-sports-widget-round-32 = Sedicesimi di finale
 newtab-sports-widget-round-16 = Ottavi di finale
@@ -1027,7 +1027,7 @@ newtab-sports-widget-match-aria-label-results-penalties =
 #   $homeScore (number) - The home team's current score
 #   $awayScore (number) - The away team's current score
 newtab-sports-widget-match-aria-label-now =
-    .aria-label = Live: { $homeTeam }, { $homeScore } contro { $awayTeam }, { $awayScore }
+    .aria-label = In diretta: { $homeTeam }, { $homeScore } contro { $awayTeam }, { $awayScore }
 # An upcoming scheduled match row. Announces kickoff time and date.
 # Variables:
 #   $date (Date) - The scheduled kickoff date/time
