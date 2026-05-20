@@ -470,6 +470,9 @@ quickactions-cmd-update = aggiorna
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visualizza sorgente pagina
 quickactions-cmd-viewsource2 = Visualizza sorgente, sorgente, sorgente pagina
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Apri { -firefoxlabs-brand-name }
+quickactions-cmd-labs = lab, labs, esperimento, esperimenti
 quickactions-cmd-viewsource = visualizza sorgente, sorgente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

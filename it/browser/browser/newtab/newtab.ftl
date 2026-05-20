@@ -958,6 +958,18 @@ newtab-sports-widget-watch-icon =
     .aria-label = Guarda in diretta
     .title = Guarda in diretta
 newtab-sports-widget-group-stage = Fase a gironi
+newtab-sports-widget-group-a = Gruppo A
+newtab-sports-widget-group-b = Gruppo B
+newtab-sports-widget-group-c = Gruppo C
+newtab-sports-widget-group-d = Gruppo D
+newtab-sports-widget-group-e = Gruppo E
+newtab-sports-widget-group-f = Gruppo F
+newtab-sports-widget-group-g = Gruppo G
+newtab-sports-widget-group-h = Gruppo H
+newtab-sports-widget-group-i = Gruppo I
+newtab-sports-widget-group-j = Gruppo J
+newtab-sports-widget-group-k = Gruppo K
+newtab-sports-widget-group-l = Gruppo L
 newtab-sports-widget-round-32 = Sedicesimi di finale
 newtab-sports-widget-round-16 = Ottavi di finale
 newtab-sports-widget-quarter-finals = Quarti di finale
@@ -1045,6 +1057,21 @@ newtab-sports-widget-match-aria-label-upcoming-suspended =
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } contro { $awayTeam }, annullata
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia ed Erzegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Costa d’Avorio
+newtab-sports-widget-team-name-label-cod =
+    .label = RD Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Inghilterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Scozia
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
