@@ -1135,7 +1135,7 @@ home-prefs-manage-topics-link2 =
     .label = Кіраванне тэмамі
 home-prefs-choose-wallpaper-link = Выберыце шпалеры
 home-prefs-choose-wallpaper-link2 =
-    .label = Выберыце шпалеры
+    .label = Выбраць шпалеры
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
@@ -2754,8 +2754,16 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Кукі
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Дазволіць усе кукі
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Блакаваць міжсайтавыя кукі
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Ізаляваць міжсайтавыя кукі
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Блакаваць кукі з ненаведаных сайтаў
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Блакаваць усе міжсайтавыя кукі (можа парушыць працу сайтаў)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Блакаваць усе кукі (будзе перашкаджаць працы сайтаў)
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Дазволіць усе кукі
 preferences-etp-custom-tracking-protection-enabled =

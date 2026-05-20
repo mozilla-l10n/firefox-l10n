@@ -393,6 +393,14 @@ tab-group-overflow-count-tooltip =
        *[many] Яшчэ { $tabCount } картак
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Навядзіце парадак у картках
+tab-groups-list-empty-description = Перацягніце адну картку на іншую ці націсніце правай кнопкай на картцы, каб пачаць арганізацыю. Мы захаваем вашы групы тут, каб іх было лёгка знайсці пазней.
+tab-groups-list-empty-button = Стварыць групу картак
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
