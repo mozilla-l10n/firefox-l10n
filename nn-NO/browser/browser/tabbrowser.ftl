@@ -362,6 +362,7 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
+tab-groups-list-empty-header = Rydd opp i fanene dine
 tab-groups-list-empty-button = Opprett ei fanegruppe
 
 ## Open/saved tab group context menu
