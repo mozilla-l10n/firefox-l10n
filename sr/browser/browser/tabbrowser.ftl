@@ -388,6 +388,14 @@ tab-group-overflow-count-tooltip =
        *[other] Још { $tabCount } језичака
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Средите своје картице
+tab-groups-list-empty-description = Превуците једну картицу на другу или кликните десним тастером миша на картицу да бисте започели организовање. Сачуваћемо ваше групе овде како бисте их касније могли лако пронаћи.
+tab-groups-list-empty-button = Направи групу језичака
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
