@@ -56,7 +56,7 @@ autofill-address-additional-name = Middle Name
 autofill-address-family-name = Last Name
 autofill-address-name = Name
 autofill-address-organization = Organization
-autofill-address-street-address = Street Address
+autofill-address-street-address = Street address
 autofill-address-street = Street Address
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
