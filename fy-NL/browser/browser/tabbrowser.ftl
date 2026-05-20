@@ -364,6 +364,14 @@ tab-group-overflow-count-tooltip =
        *[other] Noch { $tabCount } ljepblêden
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Jo ljepblêden opromje
+tab-groups-list-empty-description = Sleep ien ljepblêd nei in oar of klik mei de rjochtermûsknop op in ljepblêd om te begjinnen mei organisearjen. Wy sille jo groepen hjir bewarje, sadat se letter maklik te finen binne.
+tab-groups-list-empty-button = In ljepblêdgroep meitsje
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
