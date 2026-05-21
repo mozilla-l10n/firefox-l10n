@@ -40,6 +40,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Aktivera synkronisering för att skicka en flik
 fxa-menu-send-to-mobile-connect-phone2 = Anslut din telefon
 fxa-menu-send-to-mobile-device-missing2 = Hittar du inte din enhet?
+fxviewtabrow-send-to-mobile-not-verified = Konto inte verifierat
+fxviewtabrow-send-to-mobile-verify-account = Verifiera ditt konto
 fxa-menu-send-to-mobile-turn-on-sync = Aktivera synkronisering för att skicka flikar
 fxa-menu-send-to-mobile-connect-device = Anslut en enhet för att skicka flikar
 # Variables:

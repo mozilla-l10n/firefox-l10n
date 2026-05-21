@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Activez la synchronisation pour envoyer un onglet
 fxa-menu-send-to-mobile-connect-phone2 = Connectez votre téléphone
 fxa-menu-send-to-mobile-device-missing2 = Vous ne voyez pas votre appareil ?
+fxviewtabrow-send-to-mobile-not-verified = Compte non vérifié
+fxviewtabrow-send-to-mobile-verify-account = Confirmer votre compte
 fxa-menu-send-to-mobile-turn-on-sync = Activez la synchronisation pour envoyer des onglets
 fxa-menu-send-to-mobile-connect-device = Connectez un appareil pour envoyer des onglets
 # Variables:

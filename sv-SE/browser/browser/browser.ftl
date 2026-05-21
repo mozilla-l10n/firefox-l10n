@@ -470,6 +470,9 @@ quickactions-cmd-update = uppdatera
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visa källkod
 quickactions-cmd-viewsource2 = visa källa, källa, sidkälla
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Öppna { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labb, experiment
 quickactions-cmd-viewsource = visa källa, källa
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -115,6 +115,8 @@ legacy-extensions =
     .value = Äldre tillägg
 legacy-extensions-description = Dessa tillägg uppfyller inte nuvarande standarder i { -brand-short-name } så de har inaktiverats. <label data-l10n-name="legacy-learn-more">Läs mer om ändringar av tillägg</label>
 private-browsing-description2 = { -brand-short-name } ändrar hur tillägg fungerar i privat surfläge. Alla nya tillägg du lägger till i { -brand-short-name } kommer inte att köras som standard i privata fönster. Om du inte tillåter detta i inställningarna, kommer tillägget inte fungera när du är i privat surfläge, och kommer inte ha åtkomst till dina onlineaktiviteter där. Vi har gjort denna ändring för att hålla privat surfning privat. <label data-l10n-name="private-browsing-learn-more">Läs hur du hanterar tilläggsinställningar.</label>
+aboutaddons-sidebar =
+    .heading = Tillägg
 addon-category-discover = Rekommendationer
 addon-category-discover-title =
     .title = Rekommendationer
@@ -476,6 +478,10 @@ addon-permissions-empty = Detta tillägg kräver inga behörigheter
 addon-permissions-required = Nödvändiga behörigheter för kärnfunktionalitet:
 addon-permissions-optional = Valfria behörigheter för extra funktionalitet:
 addon-permissions-learnmore = Läs mer om behörigheter
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Vissa behörigheter hanteras av din organisation.
 recommended-extensions-heading = Rekommenderade tillägg
 recommended-themes-heading = Rekommenderade teman
 # Variables:
