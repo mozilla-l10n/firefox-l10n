@@ -470,6 +470,9 @@ quickactions-cmd-update = განახლება
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = გვერდის წყაროს ჩვენება
 quickactions-cmd-viewsource2 = წყაროს ნახვა, წყარო, გვერდის წყარო
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = გაიხსნას { -firefoxlabs-brand-name }
+quickactions-cmd-labs = ცდები, ექსპერიმენტი
 quickactions-cmd-viewsource = წყაროს ნახვა, პირველწყარო
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
