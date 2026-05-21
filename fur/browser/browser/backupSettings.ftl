@@ -49,10 +49,20 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Non file: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Ripristine i tiei dâts
+    .description = Recupere i tiei dâts di { -brand-product-name } dal ultin backup.
+settings-data-backup-restore-scheduled-off =
+    .label = Ripristine i tiei dâts
+    .description = Dopre un backup di { -brand-product-name } di un altri dispositîf par ripristinâ i tiei dâts.
 
 ##
 
+settings-sensitive-data =
+    .label = Dâts sensibii.
 settings-data-toggle-encryption-support-link = Plui informazions
+settings-data-change-password2 =
+    .label = Cambie password
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -92,6 +102,9 @@ turn-off-scheduled-backups-confirm-button = Disative e elimine i backups
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Ripristine i tiei dâts
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Ce vignaraial ripristinât?
 restore-from-backup-filepicker-label = File di backup
 restore-from-backup-filepicker-title = Sielç il file di backup:
 restore-from-backup-file-choose-button =
@@ -104,6 +117,8 @@ restore-from-backup-password-description = Chest al sbloche il backup cifrât.
 restore-from-backup-cancel-button = Anule
 restore-from-backup-confirm-button = Ripristine e torne invie
 restore-from-backup-restoring-button = Daûr a ripristinâ…
+restore-from-backup-type-group-label =
+    .label = Sostituî il profîl atuâl?
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
