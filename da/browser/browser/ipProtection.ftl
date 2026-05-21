@@ -35,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = Bruger du et offentligt
 ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem fem placeringer, der skjuler hvor du befinder dig.
 ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
+ipprotection-feature-introduction-button-secondary-not-now-menuitem =
+    .label = Ikke nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tak
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Nej tak
