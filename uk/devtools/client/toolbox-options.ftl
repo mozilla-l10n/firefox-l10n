@@ -162,3 +162,5 @@ options-context-triggers-page-refresh-persists = (перезавантажує �
 # Variables:
 #   $toolLabel (String): The name of the tool not being supported
 options-tool-not-supported-marker = { $toolLabel } *
+# Used as a label for auto theme
+options-auto-theme-label = Авто
