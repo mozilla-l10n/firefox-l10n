@@ -118,3 +118,6 @@ options-context-triggers-page-refresh = * Kasalukuyang session lang, ire-reload 
 # Variables:
 #   $toolLabel (String): The name of the tool not being supported
 options-tool-not-supported-marker = { $toolLabel } *
+# This is the text that appears in the settings panel for panel that will be removed in future releases.
+# This entire text is treated as a link to an MDN page.
+options-deprecation-notice = Deprecated na. Alamin…
