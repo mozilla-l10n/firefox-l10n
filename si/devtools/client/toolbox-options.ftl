@@ -38,6 +38,9 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = වර්ණ නාම
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -82,3 +85,8 @@ options-enable-custom-formatters-label = අභිරුචි ආකෘති�
 options-source-maps-label = මූලාශ්‍ර සිතියම් සබල කරන්න
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * වත්මන් වාරයට පමණි, පිටුව යළි පූරණය කරයි
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
