@@ -326,6 +326,14 @@ tab-context-ungroup-tab =
 tab-group-overflow-count = +{ $tabCount }
 tab-group-overflow-count-tooltip = { $tabCount } thẻ khác
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Sắp xếp lại thẻ của bạn
+tab-groups-list-empty-description = Kéo một thẻ lên thẻ khác hoặc nhấp chuột phải vào một thẻ để bắt đầu sắp xếp. Chúng tôi sẽ lưu các nhóm của bạn ở đây để bạn dễ dàng tìm thấy sau này.
+tab-groups-list-empty-button = Tạo một nhóm thẻ
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
