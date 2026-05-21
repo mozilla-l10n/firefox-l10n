@@ -1011,3 +1011,30 @@ newtab-clock-widget-menu-learn-more = Eikuaave
 newtab-clock-widget-menu-edit = Embosako’i aravopapaha
 newtab-clock-widget-menu-switch-to-12h = Emoambue 12 aravohapegua
 newtab-clock-widget-menu-switch-to-24h = Emoambue 24 aravohapegua
+newtab-clock-widget-label-your-clocks = Ijaravopapaha
+newtab-clock-widget-search-location-input =
+    .label = Tendaite
+    .placeholder = Eheka upe táva
+    .aria-label = Eheka upe táva
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Teragua’u (eipotárõ)
+    .placeholder = Embojuaju teragua’u
+    .aria-label = Teragua’u (eipotárõ)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Embojuaju aravopapaha pyahu
+    .aria-label = Embojuaju aravopapaha pyahu
+newtab-clock-widget-button-add-clock = Mbojuaju
+newtab-clock-widget-button-cancel = Eheja
+newtab-clock-widget-button-back =
+    .title = Tapykue
+    .aria-label = Tapykue
+newtab-clock-widget-button-edit-clock =
+    .title = Embosako’i aravopapaha
+    .aria-label = Embosako’i aravopapaha
+newtab-clock-widget-button-save = Ñongatu
