@@ -1038,3 +1038,27 @@ newtab-clock-widget-button-edit-clock =
     .title = Embosako’i aravopapaha
     .aria-label = Embosako’i aravopapaha
 newtab-clock-widget-button-save = Ñongatu
+newtab-clock-widget-button-remove-clock =
+    .title = Embogue aravopapaha
+    .aria-label = Embogue aravopapaha
+newtab-clock-widget-add-clock-form =
+    .aria-label = Embojuaju aravopapaha
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Embosako’i aravopapaha
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Jehekaha rembiapokue
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Ojuehegua’ỹva
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Embojuruja aravopapaha poravorã
+    .aria-label = Embojuruja aravopapaha poravorã
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Teragua’u: { $nickname }
