@@ -944,7 +944,52 @@ newtab-sports-widget-back-button =
     .aria-label = უკან
 newtab-sports-widget-done-button =
     .label = მზადაა
+newtab-sports-widget-view-all =
+    .label = ყველას ნახვა
+newtab-sports-widget-show-less =
+    .label = მოკლედ
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = ყურება
+    .title = ეთერში ყურება
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = ეთერში ყურება
+    .title = ეთერში ყურება
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = დახურვა
+    .title = დახურვა
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = უფასო
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = უფასო საცდელი
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = უფასო და ფასიანი
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = ფასიანი
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = მხოლოდ თამაშების არჩევა
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = ხელმისაწვდომი თქვენს მხარეში
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = სხვა მხარეებში
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = ეთერის გახსნა
+    .title = ეთერის გახსნა
 newtab-sports-widget-group-stage = ჯგუფური ეტაპი
+newtab-sports-widget-group-a = ჯგუფი A
+newtab-sports-widget-group-b = ჯგუფი B
+newtab-sports-widget-group-c = ჯგუფი C
+newtab-sports-widget-group-d = ჯგუფი D
+newtab-sports-widget-group-e = ჯგუფი E
+newtab-sports-widget-group-f = ჯგუფი F
+newtab-sports-widget-group-g = ჯგუფი G
+newtab-sports-widget-group-h = ჯგუფი H
+newtab-sports-widget-group-i = ჯგუფი I
+newtab-sports-widget-group-j = ჯგუფი J
+newtab-sports-widget-group-k = ჯგუფი K
+newtab-sports-widget-group-l = ჯგუფი L
 newtab-sports-widget-round-32 = 1/32-ფინალი
 newtab-sports-widget-round-16 = 1/16-ფინალი
 newtab-sports-widget-quarter-finals = მეოთხედფინალი
@@ -982,6 +1027,32 @@ newtab-sports-widget-third-place = მესამეადგილოსან
 newtab-sports-widget-runner-up = მეორეადგილოსანი
 newtab-sports-widget-champions = გამარჯვებული
 newtab-sports-widget-world-cup-champions = 2026 მსოფლიოს გამარჯვებულები
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = დასრულებული
+newtab-sports-widget-match-penalties = თერთმეტმეტრიანები
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = ბოსნია და ჰერცეგოვინა
+newtab-sports-widget-team-name-label-civ =
+    .label = კოტ-დ'ივუარი
+newtab-sports-widget-team-name-label-eng =
+    .label = ინგლისი
+newtab-sports-widget-team-name-label-sco =
+    .label = შოტლანდია
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = ფონის არჩევა
+newtab-sports-widget-message-add-widgets-cta =
+    .label = ჩანამატის დამატება
+newtab-sports-widget-message-day-in-play-title = გაიხალისეთ დღე { -brand-product-name }-ჩანართებით
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
