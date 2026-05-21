@@ -47,6 +47,8 @@ ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 
 ## Panel
 
+# Also used for the callout shown in private browsing
+unauthenticated-vpn-title = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
 unauthenticated-get-started = Սկսել
 site-exclusion-toggle-enabled-1 =
     .label = Օգտագործեք VPN այս կայքի համար
@@ -54,6 +56,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Օգտագործեք VPN այս կայքի համար
     .aria-label = VPN-ը անջատված է այս կայքի համար
+site-exclusion-toggle-description = Կայքը չի՞ աշխատում։ Փորձեք անջատել VPN-ը։
 ipprotection-settings-link =
     .label = Կարգավորումներ
 
