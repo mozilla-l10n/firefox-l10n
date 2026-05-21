@@ -924,23 +924,50 @@ newtab-sports-widget-follow-teams =
     .label = Esegi atyetápe
 newtab-sports-widget-view-matches =
     .label = Ehecha partidoita
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Esegi { $number } equipo peve
+       *[other] Esegi { $number } equipo peve
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Eiporavo mba’erechaha rugua
 newtab-sports-widget-skip = Jepo
+newtab-sports-widget-search-country =
+    .placeholder = Eheka tetã
+    .aria-label = Eheka tetã
+newtab-sports-widget-cancel = Eheja
+newtab-sports-widget-back-button =
+    .aria-label = Tapykue
 newtab-sports-widget-done-button =
     .label = Japopyre
 newtab-sports-widget-group-stage = Atygua jehuga
+newtab-sports-widget-round-32 = 32hápe oĩva
+newtab-sports-widget-round-16 = 16hápe oĩva
+newtab-sports-widget-quarter-finals = 8 atýpe oĩva
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = HECHAPY
 newtab-custom-widget-live-refresh =
     .title = Embopyahu kytaita
     .aria-label = Embopyahu kytaita
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Arange oikóva
 newtab-sports-widget-upcoming = Oupotáva
+# Used for a match currently ongoing
+newtab-sports-widget-now = Ko’ág̃a
 newtab-sports-widget-results = Apopyre
 newtab-sports-widget-semi-finals = Irundy opytáva
 newtab-sports-widget-bronze-finals = Mbohapyhápe osẽva
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Paha
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Jokopyre
 newtab-sports-widget-postponed = Mbohasapyre
 newtab-sports-widget-suspended = Jejokopyre
@@ -975,3 +1002,12 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ko pa’ũ ohuga ambue tekoguatarãme
 newtab-activation-window-message-values-focus-message = { -brand-product-name } omoneĩ eikundahávo nde eipotahaichaite, ndeháicha eñepyrũ hag̃ua ne rembiapo ñandutípe. Emboava { -brand-product-name }.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Eñomi aravopapaha
+newtab-clock-widget-menu-learn-more = Eikuaave
+newtab-clock-widget-menu-edit = Embosako’i aravopapaha
+newtab-clock-widget-menu-switch-to-12h = Emoambue 12 aravohapegua
+newtab-clock-widget-menu-switch-to-24h = Emoambue 24 aravohapegua

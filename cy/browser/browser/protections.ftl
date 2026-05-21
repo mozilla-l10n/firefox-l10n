@@ -21,17 +21,17 @@ graph-total-tracker-summary =
     { $count ->
         [zero] <b>{ $count }</b> tracwyr wedi eu rhwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
         [one] <b>{ $count }</b> traciwr wedi ei rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [two] <b>{ $count }</b> draciwr wedi eu rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [few] <b>{ $count }</b> traciwr wedi eu rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [many] <b>{ $count }</b> thraciwr wedi eu rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> traciwr wedi eu rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [two] <b>{ $count }</b> draciwr wedi eu rhwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b> traciwr wedi eu rhwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [many] <b>{ $count }</b> thraciwr wedi eu rhwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> traciwr wedi eu rhwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = Mae { -brand-short-name } yn parhau i rwystro tracwyr mewn Ffenestri Preifat, ond nid yw'n cadw cofnod o'r hyn gafodd ei rwystro.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Tracwyr rhwystrodd { -brand-short-name } yr wythnos hon
-protection-report-webpage-title = Bwrdd Gwaith Diogelwch
-protection-report-page-content-title = Bwrdd Gwaith Diogelwch
+protection-report-webpage-title = Diogeleddau Bwrdd Gwaith
+protection-report-page-content-title = Diogeleddau Bwrdd Gwaith
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = Gall { -brand-short-name } ddiogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli eich diogelwch ar-lein.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
