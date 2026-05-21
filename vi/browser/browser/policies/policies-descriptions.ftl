@@ -155,3 +155,5 @@ policy-WebsiteFilter = Chặn các trang web không được truy cập. Xem tà
 policy-Windows10SSO = Cho phép Windows đăng nhập một lần (SSO) cho tài khoản Microsoft, cơ quan và trường học.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Cho phép đăng nhập một lần (SSO) cho tài khoản Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Bật hoặc tắt hỗ trợ cho XSLTProcessor JavaScript API và XSLT processing instruction.

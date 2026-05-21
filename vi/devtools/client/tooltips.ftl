@@ -121,3 +121,11 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Tìm hiểu t
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Selector này sử dụng <strong>:has()</strong> không bị ràng buộc, có thể khiến bị chậm
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
+css-selector-container-query-condition-no-container = Không tìm thấy container ‘{ $name }’
