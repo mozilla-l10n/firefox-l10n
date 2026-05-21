@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Gnûf barcon privât
 appmenuitem-history =
     .label = Cronologjie
+appmenuitem-tab-groups =
+    .label = Grups di schedis
 appmenuitem-downloads =
     .label = Discjamâts
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalize sbare dai struments…
+appmenu-abouttranslations =
+    .label = Tradûs…
 appmenu-developer-tools-subheader = Struments dal navigadôr
 appmenu-developer-tools-extensions =
     .label = Estension pai svilupadôrs
@@ -295,6 +299,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Mascare la tô direzion e-mail e il telefon
 appmenuitem-services-relay-description = Vierç il cruscot pes mascaris di pueste eletroniche
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Cjol la protezion par l'intîr dispositîf
 appmenuitem-vpn-description = Protêç la tô ativitât in linie
 appmenu-services-header = I miei servizis
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

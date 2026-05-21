@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Chest sît ti domande l'acès ai tiei dispositîfs MIDI (Musical Instrument Digital Interface, vâl a dî interface digjitâl di struments musicâi). Al è pussibil abilitâ l'acès al dispositîf instalant un component adizionâl.
 site-permission-install-first-prompt-midi-message = Nol è garantît che chest acès al sedi sigûr. Continue dome se tu ti fidis di chest sît.
+site-permission-install-first-prompt-serial-header = Chest sît al domande l’acès ai tiei dispositîfs seriâi. Se tu instalis un component adizionâl tu puedis garantî l’acès.
+site-permission-install-first-prompt-serial-message = Nol è garantît che chest acès al sedi sigûr. Continue dome se tu ti fidis di chest sît.
 
 ##
 
