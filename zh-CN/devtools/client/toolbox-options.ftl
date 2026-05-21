@@ -166,6 +166,8 @@ options-context-triggers-page-refresh-persists = （将重新加载页面）
 # Variables:
 #   $toolLabel (String): The name of the tool not being supported
 options-tool-not-supported-marker = { $toolLabel } *
+# Used as a label for auto theme
+options-auto-theme-label = 自动
 # This is the text that appears in the settings panel for panel that will be removed in future releases.
 # This entire text is treated as a link to an MDN page.
 options-deprecation-notice = 已弃用。详细了解…
