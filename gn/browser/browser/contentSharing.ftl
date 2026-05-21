@@ -6,6 +6,10 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+       *[other] +{ $count } hetave
+    }
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } tendayke
@@ -17,3 +21,5 @@ content-sharing-modal-copy-link =
     .label = Emonguatia juajuha
 content-sharing-modal-link-copied =
     .label = Juajuha monguatiapyre
+content-sharing-modal-sign-in =
+    .label = Eike ne emoharakuã hag̃ua juajuha

@@ -1478,6 +1478,9 @@ reset-pbm-panel-confirm-button =
     .label = Embogue mba’ekuaarã tembiapógui
     .accesskey = D
 reset-pbm-panel-complete = Oguéma mba’ekuaarã rembiapo ñemi
+reset-pbm-toolbar-button2 =
+    .label = Embogue Jeike Ñemigua
+    .tooltiptext = Embogue Jeike Ñemigua
 
 ## Autorefresh blocker
 
