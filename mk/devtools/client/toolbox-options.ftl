@@ -27,10 +27,19 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Имиња на бои
 
+## Web Console section
+
+
+## Style Editor section
+
+
 ## Screenshot section
 
 options-screenshot-audio-tooltip =
     .title = Емитува звук на бленда кога се фаќаат слики од екран
+
+## Editor section
+
 
 ## Advanced section
 
@@ -40,3 +49,8 @@ options-context-advanced-settings = Напредни поставки
 options-disable-javascript-label = Оневозможи JavaScript *
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Само во текот на оваа сесија. Ја вчитува страницата одново.
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
