@@ -153,3 +153,5 @@ options-context-triggers-page-refresh = * Samo trenutačna sesija, ponovo učita
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (ponovo učitava stranicu)
+# Used as a label for auto theme
+options-auto-theme-label = Automatski
