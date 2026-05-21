@@ -127,3 +127,8 @@ options-source-maps-tooltip =
     .title = Ma tremdeḍ aɣewwar-agi Taɣbalut ad tt-ttwacreḍ deg ufecku.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Tiɣimit-agi, ad isali tikelt nniḍen asebter
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
