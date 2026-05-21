@@ -117,6 +117,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Eiporavo ambue tendaite eikundaha hag̃ua.
 ipprotecion-locations-subview-recommended-label = Jeroviaha
 ipprotection-locations-subview-recommended-description = Ejuhúta tendaite pya’eve
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = ndojeporukuaáiva
 ipprotection-locations-subview-promo =
     .heading = Eraha ne ñemo’ã yvateve { -mozilla-vpn-brand-name } ndive.
     .message = Eiporavo 300 tendaite pa’ũgui ha emo’ã opaite ne rembiporu’i 5 mba’e’oka peve.

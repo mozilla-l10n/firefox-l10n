@@ -368,6 +368,8 @@ newtab-custom-widget-timer-toggle =
     .label = Aravojere
 newtab-custom-widget-sports-toggle =
     .label = Copa del Mundo
+newtab-custom-widget-clock-toggle =
+    .label = Aravopapaha
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -787,6 +789,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Eñomi widget
 newtab-widget-menu-change-size = Emoambue tuichakue
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Mongu’e
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Asugua
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Akatúa
 newtab-widget-size-small = Michĩva
 newtab-widget-size-medium = Mbyteguáva
 newtab-widget-size-large = Tuicháva
@@ -897,7 +908,11 @@ newtab-widget-timer-celebration-message-break = ¿Oĩmbáma atyrã?
 newtab-sports-widget-menu-follow-teams = Esegi atyetápe
 newtab-sports-widget-menu-view-upcoming = Ehecha tenondegua
 newtab-sports-widget-menu-view-results = Ehecha mba’éicha osẽ
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Arange oikóva
 newtab-sports-widget-menu-learn-more = Eikuaave
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Eñemomarandu Copa del Mundo rehe
 newtab-sports-widget-get-updates = Erekóta mbohekopyahu partído oiko jave ha hetave.
 newtab-sports-widget-view-schedule =
     .label = Ehecha nde aravorã
