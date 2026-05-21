@@ -37,6 +37,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ৰঙৰ নামবোৰ
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -45,6 +48,9 @@ options-styleeditor-label = শৈলী সম্পাদক
 options-stylesheet-autocompletion-label = CSS স্বসম্পূৰ্ণ কৰক
 options-stylesheet-autocompletion-tooltip =
     .title = আপুনি টাইপ কৰোঁতে শৈলী সম্পাদকত CSS বৈশিষ্ট্যসমূহ, মানসমূহ আৰু নিৰ্বাচকসমূহ স্বসম্পূৰ্ণ কৰক
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -75,3 +81,8 @@ options-disable-javascript-tooltip =
 options-enable-remote-label = দূৰৱৰ্তী ডিবাগিং সামৰ্থবান কৰক
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * কে‌ৱল বৰ্তমান অধিবেশন, পৃষ্ঠা পুনৰ ল'ড কৰে
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
