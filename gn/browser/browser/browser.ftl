@@ -1265,6 +1265,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Tendayke oñembojuehepyre
     .tooltiptext = Ambue mba’e’oka rendaykekuéra jehechauka
+toolbar-button-send-tab =
+    .label = Emondo tendayke
+    .tooltiptext = Emondo tendayke ag̃agua ambue mba’e’okápe
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1295,6 +1298,8 @@ panel-save-update-password = Ñe’ẽñemi
 # "More" item in macOS share menu
 menu-share-more =
     .label = Hetave…
+menu-share-windows =
+    .label = Jeporavorãve
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
