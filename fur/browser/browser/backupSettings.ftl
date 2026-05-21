@@ -123,6 +123,7 @@ restore-from-backup-type-replace =
     .label = Sostituìs ducj i dâts cun chest backup
 restore-from-backup-type-add =
     .label = Ten i dâts e cree un gnûf profîl
+restore-from-backup-profiles-disabled-message = Cheste operazion e sostituirà ducj i dâts di { -brand-short-name } cul to backup.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
