@@ -906,7 +906,7 @@ newtab-widget-timer-celebration-message-focus = Atsedenaldia behar duzu?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Kontzentratzeko prest?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Jarraitu taldeak
 newtab-sports-widget-menu-view-schedule = Ikusi ordutegia

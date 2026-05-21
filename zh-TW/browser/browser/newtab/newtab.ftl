@@ -895,7 +895,7 @@ newtab-widget-timer-celebration-message-focus = 需要休息一下嗎？
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = 準備好要專注了嗎？
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = 關注球隊
 newtab-sports-widget-menu-view-schedule = 檢視賽程

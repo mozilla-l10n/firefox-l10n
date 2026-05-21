@@ -70,7 +70,7 @@ sync-setup-verify-heading = Are you sure you want to sign in to sync?
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = A different user was previously signed in to sync on this computer. Signing in will merge this browser’s bookmarks, passwords and other settings with { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Sign in to send tabs
 

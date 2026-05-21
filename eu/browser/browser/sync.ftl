@@ -70,7 +70,7 @@ sync-setup-verify-heading = Ziur zaude sinkronizatzeko saioa hasi nahi duzula?
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Beste erabiltzaile batek sinkronizatzeko saioa hasita zeukan ordenagailu honetan. Saioa hasiz gero, nabigatzaile honen laster-markak, pasahitzak eta bestelako ezarpenak { $email } kontuarekin elkartuko dira
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Hasi saioa fitxak bidaltzeko
 

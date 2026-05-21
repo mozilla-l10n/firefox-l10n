@@ -899,7 +899,7 @@ newtab-widget-timer-celebration-message-focus = Tarvitsetko tauon?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Valmis keskittymään?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Seuraa joukkueita
 newtab-sports-widget-menu-view-upcoming = Näytä tulevat

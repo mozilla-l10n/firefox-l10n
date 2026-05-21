@@ -904,7 +904,7 @@ newtab-widget-timer-celebration-message-focus = Үзіліс керек пе?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Назар аударуға дайынсыз ба?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Командаларға жазылу
 newtab-sports-widget-menu-view-schedule = Кестені қарау

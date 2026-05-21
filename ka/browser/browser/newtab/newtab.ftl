@@ -906,7 +906,7 @@ newtab-widget-timer-celebration-message-focus = შეისვენებთ?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = მზად ხართ საქმისთვის?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = გუნდის მიყოლა
 newtab-sports-widget-menu-view-schedule = განრიგის ნახვა

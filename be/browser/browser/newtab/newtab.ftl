@@ -911,7 +911,7 @@ newtab-widget-timer-celebration-message-focus = Патрэбен перапын�
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Гатовыя засяродзіцца?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Падпісацца на каманды
 newtab-sports-widget-menu-view-schedule = Паглядзець расклад

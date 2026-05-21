@@ -75,7 +75,7 @@ sync-setup-verify-heading = Вы уверены, что хотите войти 
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Другой пользователь ранее входил в синхронизацию на этом компьютере. Вход приведёт к слиянию закладок, паролей и других параметров этого браузера с { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Войдите, чтобы отправлять вкладки
 

@@ -903,7 +903,7 @@ newtab-widget-timer-celebration-message-focus = Molaya mı ihtiyacınız var?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Odaklanmaya hazır mısınız?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Takımları takip et
 newtab-sports-widget-menu-view-schedule = Takvimi gör

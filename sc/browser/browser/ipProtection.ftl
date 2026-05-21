@@ -42,9 +42,6 @@ ipprotection-site-settings-callout-title = Sèbera in ue boles impreare sa VPN
 ipprotection-site-settings-callout-subtitle = Disativa sa VPN pro unu situ ispetzìficu e dd’amus a regordare cando dd’as a torrare a visitare.
 ipprotection-site-settings-callout-button = Apo cumprèndidu
 
-## Location selection callout
-
-
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -87,9 +84,6 @@ ipprotection-connection-status-excluded-1 = Sa VPN est disativada pro custu situ
 ipprotection-connection-status-connecting-1 = Connessione VPN in cursu…
     .aria-label = Connessione VPN in cursu…
 
-## Location controls
-
-
 ## VPN paused state
 
 upgrade-vpn-button = Proa { -mozilla-vpn-brand-name }
@@ -108,27 +102,6 @@ ipprotection-connection-status-blocked-error-title = Sa VPN no est a disponiment
 confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativada pro custu situ
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
-## IP Protection Settings
-
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

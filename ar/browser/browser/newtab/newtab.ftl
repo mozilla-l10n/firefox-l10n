@@ -783,7 +783,7 @@ newtab-widget-timer-celebration-message-focus = أتحتاج إلى استراح
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = أمستعد للتركيز؟
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-learn-more = اطّلع على المزيد
 newtab-sports-widget-skip = تخطَّ

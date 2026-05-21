@@ -909,7 +909,7 @@ newtab-widget-timer-celebration-message-focus = Potrebujete si oddýchnuť?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Pripravení sústrediť sa?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Sledovať tímy
 newtab-sports-widget-menu-view-schedule = Zobraziť rozpis zápasov

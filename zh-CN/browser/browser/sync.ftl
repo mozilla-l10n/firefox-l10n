@@ -66,7 +66,7 @@ sync-setup-verify-heading = 您确定要登录同步服务吗？
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 先前有另外的用户在此计算机上登录过同步服务。若继续同步，将与 { $email } 合并此浏览器的书签、密码等设置
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = 登录以发送标签页
 

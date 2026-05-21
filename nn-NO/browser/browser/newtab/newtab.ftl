@@ -905,7 +905,7 @@ newtab-widget-timer-celebration-message-focus = Treng du ein pause?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Klar for å fokusere?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Følg lag
 newtab-sports-widget-menu-view-schedule = Sjå kampoppsettet

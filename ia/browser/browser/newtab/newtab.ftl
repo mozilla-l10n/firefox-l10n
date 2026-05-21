@@ -903,7 +903,7 @@ newtab-widget-timer-celebration-message-focus = Besonia tu un pausa?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Preste a concentrar?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Sequer equipas
 newtab-sports-widget-menu-view-schedule = Vider agenda

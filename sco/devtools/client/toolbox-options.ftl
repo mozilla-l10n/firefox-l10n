@@ -11,21 +11,9 @@
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Themes
 
-## Inspector section
-
-
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-name = Colour Nemmes
-
-## Web Console section
-
-
-## Style Editor section
-
-
-## Screenshot section
-
 
 ## Editor section
 

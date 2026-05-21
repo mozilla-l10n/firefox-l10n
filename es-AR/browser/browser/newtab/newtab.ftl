@@ -905,7 +905,7 @@ newtab-widget-timer-celebration-heading-break = Terminó el descanso
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = ¿Necesita un descanso?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Seguir equipos
 newtab-sports-widget-menu-view-schedule = Ver fixture

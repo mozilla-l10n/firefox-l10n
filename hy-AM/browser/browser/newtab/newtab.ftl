@@ -812,7 +812,7 @@ newtab-widget-timer-celebration-message-focus = Հանգստի կարիք ուն
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Պատրա՞ստ եք կենտրոնանալու։
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-view-results = Դիտել արդյունքները
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.

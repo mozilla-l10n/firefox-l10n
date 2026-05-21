@@ -893,7 +893,7 @@ newtab-widget-timer-celebration-message-focus = ਬਰੇਕ ਚਾਹੀਦੀ 
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = ਫੋਕਸ ਲਈ ਤਿਆਰ ਹੋ?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = ਟੀਮਾਂ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
 newtab-sports-widget-menu-view-upcoming = ਹੋਣ ਵਾਲੇ ਵੇਖੋ

@@ -30,16 +30,10 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Rəng Adları
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = Stil Redaktoru
-
-## Screenshot section
-
 
 ## Editor section
 

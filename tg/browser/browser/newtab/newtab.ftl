@@ -812,7 +812,7 @@ newtab-widget-timer-running-break = Қатъ кардан
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Пинҳон кардани вақтсанҷ
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-view-results = Намоиш додани натиҷаҳо
 newtab-sports-widget-menu-learn-more = Маълумоти бештар

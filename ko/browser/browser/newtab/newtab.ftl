@@ -897,7 +897,7 @@ newtab-widget-timer-celebration-message-focus = 휴식이 필요하신가요?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = 집중할 준비가 되었나요?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = 팀 팔로우
 newtab-sports-widget-menu-view-schedule = 일정 보기

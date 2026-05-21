@@ -45,9 +45,6 @@ options-default-color-unit-rgb = RŽM(A) (RGB(A))
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Spalvų vardai
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading

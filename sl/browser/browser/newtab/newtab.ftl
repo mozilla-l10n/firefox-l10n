@@ -839,7 +839,7 @@ newtab-widget-timer-decrease-min =
 newtab-widget-timer-increase-min =
     .title = Dodaj 1 minuto
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-view-results = Prikaži izide
 newtab-sports-widget-menu-learn-more = Več o tem

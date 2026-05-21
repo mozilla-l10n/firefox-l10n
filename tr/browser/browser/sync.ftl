@@ -72,7 +72,7 @@ sync-setup-verify-heading = Eşitleme için giriş yapmak istediğinizden emin m
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Bu bilgisayarda farklı bir kullanıcı daha önce giriş yaparak eşitleme yaptı. Giriş yaparsanız bu tarayıcının yer imleri, parolaları ve diğer ayarları { $email } hesabıyla birleştirilecektir
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Sekme göndermek için giriş yapın
 

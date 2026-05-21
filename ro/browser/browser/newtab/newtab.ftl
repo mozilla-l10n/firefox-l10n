@@ -893,7 +893,7 @@ newtab-widget-timer-celebration-message-focus = Ai nevoie de o pauză?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Ești gata să te concentrezi?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Urmărește echipe
 newtab-sports-widget-menu-view-upcoming = Vezi evenimente viitoare

@@ -44,9 +44,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ಬಣ್ಣದ ಹೆಸರುಗಳು
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -55,9 +52,6 @@ options-styleeditor-label = ಶೈಲಿ ಸಂಪಾದಕ
 options-stylesheet-autocompletion-label = CSS ಅನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸು
 options-stylesheet-autocompletion-tooltip =
     .title = ನೀವು ನಮೂದಿಸಿದಂತೆಲ್ಲಾ, ಶೈಲಿ ಸಂಪಾದಕದಲ್ಲಿ CSS ಗುಣಗಳು, ಮೌಲ್ಯಗಳು ಮತ್ತು ಆಯ್ಕೆಗಾರಗಳನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸಲಾಗುತ್ತದೆ
-
-## Screenshot section
-
 
 ## Editor section
 

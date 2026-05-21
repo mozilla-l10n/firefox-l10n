@@ -828,7 +828,7 @@ newtab-promo-card-dismiss-button =
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Skjul timer
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-learn-more = Læs mere
 newtab-sports-widget-choose-wallpaper =

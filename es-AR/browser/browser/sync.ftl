@@ -72,7 +72,7 @@ sync-setup-verify-heading = ¿Está seguro de querer iniciar sesión para sincro
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un usuario diferente ya ingresó previamente para sincronizar en esta computadora. Iniciar sesión mezclará los marcadores, contraseñas y otra configuración de este navegador con { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Iniciar sesión para enviar pestañas
 

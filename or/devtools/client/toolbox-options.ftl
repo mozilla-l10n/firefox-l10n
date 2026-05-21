@@ -37,9 +37,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ରଙ୍ଗ ନାମଗୁଡ଼ିକ
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -48,9 +45,6 @@ options-styleeditor-label = ଶୈଳୀ ସମ୍ପାଦକ
 options-stylesheet-autocompletion-label = CSS କୁ ସ୍ବଂୟ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ
 options-stylesheet-autocompletion-tooltip =
     .title = CSS ଗୁଣଧର୍ମ, ମୂଲ୍ୟ ଏବଂ ଚୟନକର୍ତ୍ତାମାନଙ୍କୁ ଆପଣ ଲେଖିବା ସମୟରେ ଶୈଳୀ ସମ୍ପାଦକରେ ସ୍ୱୟଂସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ
-
-## Screenshot section
-
 
 ## Editor section
 

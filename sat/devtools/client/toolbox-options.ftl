@@ -54,9 +54,6 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = ᱨᱚᱝ ᱧᱩᱛᱩᱢ ᱠᱚ
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading

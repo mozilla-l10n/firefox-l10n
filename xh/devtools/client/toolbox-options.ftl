@@ -44,9 +44,6 @@ options-default-color-unit-hsl = I-HSL(A)
 options-default-color-unit-rgb = I-RGB(A)
 options-default-color-unit-name = AmaGama emiBala
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -55,9 +52,6 @@ options-styleeditor-label = Umlungisi Wesimbo
 options-stylesheet-autocompletion-label = Gqibezela ngokuzenzekelayo iCSS
 options-stylesheet-autocompletion-tooltip =
     .title = Gqibezela ngokuzenzekelayo iipropati zeCSS, amaxabiso nezikhethi kwiSilungisi seSimbo njengoko utayipha
-
-## Screenshot section
-
 
 ## Editor section
 

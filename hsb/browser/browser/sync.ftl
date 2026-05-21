@@ -78,7 +78,7 @@ sync-setup-verify-heading = Chceće so woprawdźe w sync registrować?
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Druhi wužiwar je so do toho na tutym ličaku w sync zregistrował. Registrowanje budźe zapołožki, hesła a druhe nastajenja wobhladowaka z { $email } zjednoćeć
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Přizjewće so, zo byšće rajtarki pósłał
 

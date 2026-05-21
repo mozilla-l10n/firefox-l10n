@@ -906,7 +906,7 @@ newtab-widget-timer-celebration-message-focus = ¿Epytu’usépa?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = ¿Oĩmbáma atyrã?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Esegi atyetápe
 newtab-sports-widget-menu-view-schedule = Ehecha arapapaha

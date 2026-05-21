@@ -915,7 +915,7 @@ newtab-widget-timer-celebration-message-focus = Trjebaće přestawku?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Sće hotowy so koncentrować?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Teamam slědować
 newtab-sports-widget-menu-view-schedule = Hrajny plan pokazać

@@ -71,7 +71,7 @@ sync-setup-verify-heading = האם ברצונך להתחבר כדי לסנכרן
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = משתמש אחר כבר התחבר כדי לסנכרן ממחשב זה. התחברות תמזג את הסימניות, הססמאות ושאר ההגדרות של דפדפן זה עם { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = יש להתחבר כדי לשלוח לשוניות
 

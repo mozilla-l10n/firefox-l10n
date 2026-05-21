@@ -33,45 +33,6 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 
 ipprotection-site-settings-callout-button = Náði því
 
-## Location selection callout
-
-
-## Panel
-
-
-## Status card
-
-
-## Location controls
-
-
-## VPN paused state
-
-
-## Messages and errors
-
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
-## IP Protection Settings
-
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-error-alert-body = Reyndu aftur síðar.

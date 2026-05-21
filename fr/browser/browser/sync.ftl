@@ -70,7 +70,7 @@ sync-setup-verify-heading = Voulez-vous vraiment vous connecter pour synchronise
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un autre utilisateur s’est déjà connecté à la synchronisation sur cet ordinateur. Vous connecter fusionnera les marque-pages, mots de passe et autres paramètres de ce navigateur avec { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Connectez-vous pour envoyer des onglets
 

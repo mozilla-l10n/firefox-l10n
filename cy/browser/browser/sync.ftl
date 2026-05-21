@@ -84,7 +84,7 @@ sync-setup-verify-heading = Ydych chi'n siŵr eich bod am fewngofnodi i gydweddu
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Roedd defnyddiwr gwahanol wedi'i fewngofnodi o'r blaen i gydweddu ar y cyfrifiadur hwn. Bydd mewngofnodi yn cyfuno nodau tudalen, cyfrineiriau a gosodiadau eraill y porwr hwn â { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Mewngofnodwch i anfon tabiau
 

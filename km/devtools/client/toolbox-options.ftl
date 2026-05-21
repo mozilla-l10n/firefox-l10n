@@ -38,9 +38,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ឈ្មោះ​ពណ៌
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -49,9 +46,6 @@ options-styleeditor-label = កម្មវិធី​កែ​សម្រួ�
 options-stylesheet-autocompletion-label = CSS  បំពេញ​ស្វ័យប្រវត្តិ
 options-stylesheet-autocompletion-tooltip =
     .title = លក្ខណសម្បត្តិ​ CSS បំពេញ​ស្វ័យប្រវត្តិ, តម្លៃ និង​កម្មវិធី​ជ្រើស​ក្នុង​កម្មវិធី​កែ​រចនាប័ទ្ម​​ដូច​ដែល​អ្នក​វាយ
-
-## Screenshot section
-
 
 ## Editor section
 

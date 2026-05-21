@@ -66,7 +66,7 @@ sync-setup-verify-heading = 您確定要登入至 Sync 嗎？
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 先前已有不同使用者於此電腦登入同步。若繼續登入，將會與 { $email } 合併此瀏覽器中的書籤、密碼與其他設定
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = 登入即可傳送分頁
 

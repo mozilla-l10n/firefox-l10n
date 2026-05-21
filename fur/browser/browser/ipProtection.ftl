@@ -39,15 +39,6 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
     .label = No cumò
 ipprotection-feature-introduction-button-secondary-no-thanks = No graciis
 
-## Site settings callout
-
-
-## Location selection callout
-
-
-## Panel
-
-
 ## Status card
 
 ipprotection-connection-status-excluded-1 = La VPN e je disativade par chest sît
@@ -72,15 +63,6 @@ ipprotection-locations-subview-promo =
     .heading = Aumente la tô protezion cun { -mozilla-vpn-brand-name }
     .message = Sielç tra plui di 300 posizions e protêç dutis lis tôs aplicazions suntun massim di 5 dispositîfs.
 ipprotection-locations-subview-promo-button = Oten { -mozilla-vpn-brand-name }
-
-## VPN paused state
-
-
-## Messages and errors
-
-
-## IP Protection bandwidth callouts
-
 
 ## IP Protection bandwidth warning infobar
 
@@ -126,15 +108,3 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Gjestìs lis impostazions dai sîts web
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

@@ -70,7 +70,7 @@ sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkroni
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Ein annan brukar var tidlegare innlogga for å synkronisere på denne datamaskina. Innlogging vil slå saman bokmerka til denne nettlesaren, passord og andre innstillingar med { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Logg inn for å sende faner
 

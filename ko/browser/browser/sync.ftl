@@ -66,7 +66,7 @@ sync-setup-verify-heading = Sync에 가입하시겠습니까?
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = 다른 사용자가 이전에 이 컴퓨터에서 Sync에 로그인한 적이 있습니다. 로그인하면 이 브라우저의 북마크, 비밀번호 및 기타 설정이 { $email } 사용자와 병합됩니다.
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = 탭을 보내려면 로그인하세요
 

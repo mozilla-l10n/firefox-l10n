@@ -122,12 +122,6 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletn
 ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mogoča
     .aria-label = Povezava z VPN ni bila mogoča
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-description =
@@ -164,15 +158,9 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
-## IP Protection Bandwidth
-
-
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

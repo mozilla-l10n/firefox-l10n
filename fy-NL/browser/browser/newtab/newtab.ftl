@@ -907,7 +907,7 @@ newtab-widget-timer-celebration-message-focus = Skoft nedich?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Klear om te fokusjen?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Teams folgje
 newtab-sports-widget-menu-view-schedule = Tiidskema besjen

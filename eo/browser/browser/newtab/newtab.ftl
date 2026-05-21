@@ -895,7 +895,7 @@ newtab-widget-timer-celebration-message-focus = Ĉu vi bezonas paŭzi?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Ĉu preta koncentriĝi?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Sekvi teamojn
 newtab-sports-widget-menu-view-upcoming = Montri venontajn

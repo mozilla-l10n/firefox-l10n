@@ -72,7 +72,7 @@ sync-setup-verify-heading = Weet u zeker dat u zich wilt aanmelden om te synchro
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Een andere gebruiker was eerder op deze computer aangemeld om te synchroniseren. Aanmelden zal de bladwijzers, wachtwoorden en andere instellingen van deze browser samenvoegen met die van { $email }
 
-## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
 fxa-menu-send-to-mobile-sign-in = Meld u aan om tabbladen te verzenden
 

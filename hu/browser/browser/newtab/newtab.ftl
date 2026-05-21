@@ -895,7 +895,7 @@ newtab-widget-timer-celebration-message-focus = Szüksége van egy kis szünetre
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Készen áll a fókuszálásra?
 
-## Sports widget
+##
 
 newtab-sports-widget-menu-follow-teams = Csapatok követése
 newtab-sports-widget-menu-view-upcoming = Közelgők megtekintése
