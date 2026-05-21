@@ -122,6 +122,9 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-button = Преглед
 contextual-manager-passwords-update-password-success-button = Готово
 contextual-manager-passwords-delete-password-success-button = Готово
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Сигнали ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Премахване на парола?
 # This message warns the user that deleting a login is permanent.
