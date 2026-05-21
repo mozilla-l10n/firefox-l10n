@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Cambie se tu puedis o mancul ricevi notifichis dal sît
 urlbar-midi-notification-anchor =
     .tooltiptext = Vierç panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Vierç panel seriâl
 urlbar-eme-notification-anchor =
     .tooltiptext = Gjestìs l'ûs dal software DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Tu âs blocât la estrazion dai dâts canvas par chest sît web.
 urlbar-midi-blocked =
     .tooltiptext = Tu âs blocât l'acès MIDI par chest sît web.
+urlbar-serial-blocked =
+    .tooltiptext = L’acès ae puarte seriâl al è blocât par chest sît web.
 urlbar-install-blocked =
     .tooltiptext = Tu âs blocât la instalazion di components adizionâi par chest sît web.
 # Variables
