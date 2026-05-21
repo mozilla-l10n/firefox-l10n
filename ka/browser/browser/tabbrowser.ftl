@@ -365,6 +365,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = მოიწესრიგეთ ჩანართები
 tab-groups-list-empty-description = ჩავლებით გადაადეთ ერთი ჩანართი მეორეს ან მარჯვენა წკაპით დაიწყეთ მოწესრიგება. თქვენი ჯგუფები შეინახება აქ, რომ მოგვიანებით ადვილად მიაგნოთ.
 tab-groups-list-empty-button = ჩანართების ჯგუფის შექმნა
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = ახალი ჯგუფი
 
 ## Open/saved tab group context menu
 

@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = ჩართეთ დასინქ. ჩანართის გასაგზავნად
 fxa-menu-send-to-mobile-connect-phone2 = დააკავშირეთ თქვენი ტელეფონი
 fxa-menu-send-to-mobile-device-missing2 = არ ჩანს თქვენი მოწყობილობა?
+fxviewtabrow-send-to-mobile-not-verified = ანგარიში დაუმოწმებელია
+fxviewtabrow-send-to-mobile-verify-account = დაამოწმეთ ანგარიში
 fxa-menu-send-to-mobile-turn-on-sync = ჩართეთ სინქრონიზაცია ჩანართების გასაგზავნად
 fxa-menu-send-to-mobile-connect-device = დააკავშირეთ მოწყობილობა ჩანართების გასაგზავნად
 # Variables:
