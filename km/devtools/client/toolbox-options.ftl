@@ -38,6 +38,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ឈ្មោះ​ពណ៌
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -46,6 +49,9 @@ options-styleeditor-label = កម្មវិធី​កែ​សម្រួ�
 options-stylesheet-autocompletion-label = CSS  បំពេញ​ស្វ័យប្រវត្តិ
 options-stylesheet-autocompletion-tooltip =
     .title = លក្ខណសម្បត្តិ​ CSS បំពេញ​ស្វ័យប្រវត្តិ, តម្លៃ និង​កម្មវិធី​ជ្រើស​ក្នុង​កម្មវិធី​កែ​រចនាប័ទ្ម​​ដូច​ដែល​អ្នក​វាយ
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -84,3 +90,8 @@ options-enable-service-workers-http-tooltip =
     .title = ការ​បើក​ជម្រើស​នេះ​​នឹង​អនុញ្ញាត​ Service Workers តាម HTTP សម្រាប់​ផ្ទាំង​ទាំងអស់​ដែល​​បាន​បើក​ប្រអប់​ឧបករណ៍។
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = តែ​សម័យ​ប៉ុណ្ណោះ ផ្ទុក​ទំព័រ​​ឡើយ​វិញ
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *

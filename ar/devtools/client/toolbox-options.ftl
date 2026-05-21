@@ -40,6 +40,9 @@ options-collapse-attrs-tooltip =
 options-default-color-unit-label = وحدة الألوان المبدئية
 options-default-color-unit-name = أسماء الألوان
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -93,3 +96,11 @@ options-enable-remote-label = فعِّل التنقيح البعيد
 options-enable-service-workers-http-label = فعّل عمّال الخدمة عبر HTTP (عندما يكون صندوق الأدوات مفتوحا)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * في الجلسة الحالية فقط، تُعيد تحميل الصفحة
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
+# This is the text that appears in the settings panel for panel that will be removed in future releases.
+# This entire text is treated as a link to an MDN page.
+options-deprecation-notice = بائد. اطّلع على المزيد…

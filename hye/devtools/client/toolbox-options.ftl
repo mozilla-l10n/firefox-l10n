@@ -47,6 +47,9 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Գոյնի անունը
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -120,3 +123,13 @@ options-source-maps-tooltip =
     .title = Եթե Դուք միացրել էք այս ընտրանքը, աղբիւրները կը տեղորոշուեն գործիքներում:
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, էջը վերբեռնում է
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
+# Used as a label for auto theme
+options-auto-theme-label = Ինքնաշխատ
+# This is the text that appears in the settings panel for panel that will be removed in future releases.
+# This entire text is treated as a link to an MDN page.
+options-deprecation-notice = Հնացած է։ Իմանալ աւելին…

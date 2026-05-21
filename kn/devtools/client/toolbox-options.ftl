@@ -44,6 +44,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ಬಣ್ಣದ ಹೆಸರುಗಳು
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -52,6 +55,9 @@ options-styleeditor-label = ಶೈಲಿ ಸಂಪಾದಕ
 options-stylesheet-autocompletion-label = CSS ಅನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸು
 options-stylesheet-autocompletion-tooltip =
     .title = ನೀವು ನಮೂದಿಸಿದಂತೆಲ್ಲಾ, ಶೈಲಿ ಸಂಪಾದಕದಲ್ಲಿ CSS ಗುಣಗಳು, ಮೌಲ್ಯಗಳು ಮತ್ತು ಆಯ್ಕೆಗಾರಗಳನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸಲಾಗುತ್ತದೆ
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -96,3 +102,8 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = ಮೂಲ ನಕ್ಷೆಗಳನ್ನು ಸಕ್ರಿಯಗಳಿಸು
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * ಪ್ರಸಕ್ತ ಅಧಿವೇಶನ ಮಾತ್ರ, ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡುತ್ತದೆ
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *

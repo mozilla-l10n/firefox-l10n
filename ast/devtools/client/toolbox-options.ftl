@@ -23,10 +23,19 @@ options-context-inspector = Inspeutor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Amosar los estilos del restolador
 
+## "Default Color Unit" options for the Inspector
+
+
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = Editor d'estilos
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -43,3 +52,8 @@ options-disable-javascript-label = Desactivar JavaScript *
 options-enable-remote-label = Activar la depuración remota
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Namás na sesión actual, recarga la páxina
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *

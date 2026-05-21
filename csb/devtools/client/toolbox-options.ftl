@@ -11,7 +11,6 @@
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Nie je wspieróné przez dpcelowé nôrzãdła
-
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Dewelopersczé nôrzãdła winstalowóné jakno dodôwczi
@@ -20,6 +19,9 @@ options-select-additional-tools-label = Dewelopersczé nôrzãdła winstalowón�
 
 
 ## "Default Color Unit" options for the Inspector
+
+
+## Web Console section
 
 
 ## Style Editor section
@@ -35,12 +37,12 @@ options-select-additional-tools-label = Dewelopersczé nôrzãdła winstalowón�
 
 # The heading
 options-context-advanced-settings = Zaawansowóné ùstawë
-
 options-disable-javascript-tooltip =
     .title = Na òptacjô wëłącziwô JavaScript le dlô aktiwny kôrtë. Nen wëbierk ni mô cëskù na zamkniãté kôrtë i nôrzãdła.
-
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Włączë zdalné debùgging
-
-##
-
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *

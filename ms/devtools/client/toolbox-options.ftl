@@ -44,6 +44,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Nama Warna
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -107,3 +110,8 @@ options-source-maps-tooltip =
     .title = Jika anda aktifkan pilihan ini, sumber ini akan dipetakan di dalam alatan.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Sesi semasa sahaja, ulang muat laman
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *

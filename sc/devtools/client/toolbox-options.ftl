@@ -11,12 +11,18 @@
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Temas
 
+## Inspector section
+
+
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Unidade predefinida de is colores
 options-default-color-unit-authored = comente s'originale
 options-default-color-unit-hex = Esadetzimale
 options-default-color-unit-name = Nòmines de colores
+
+## Web Console section
+
 
 ## Style Editor section
 
@@ -52,3 +58,13 @@ options-context-advanced-settings = Cunfiguratziones avantzadas
 options-disable-javascript-label = Disativa JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativa sa curretzione de faddinas in remotu
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
+# Used as a label for auto theme
+options-auto-theme-label = Automàticu
+# This is the text that appears in the settings panel for panel that will be removed in future releases.
+# This entire text is treated as a link to an MDN page.
+options-deprecation-notice = Abbandonadu. Àteras informatziones…

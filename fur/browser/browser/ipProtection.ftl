@@ -35,7 +35,18 @@ ipprotection-feature-introduction-title-captive-portal = Sêstu suntune rêt Wi-
 ipprotection-feature-introduction-description-captive-portal = Navighe cuntune protezion in plui platant la tô posizion, ancje cun rêts Wi-Fi publichis.
 ipprotection-feature-introduction-button-primary = Sucessîf
 ipprotection-feature-introduction-button-secondary-not-now = No cumò
+ipprotection-feature-introduction-button-secondary-not-now-menuitem =
+    .label = No cumò
 ipprotection-feature-introduction-button-secondary-no-thanks = No graciis
+
+## Site settings callout
+
+
+## Location selection callout
+
+
+## Panel
+
 
 ## Status card
 
@@ -61,6 +72,15 @@ ipprotection-locations-subview-promo =
     .heading = Aumente la tô protezion cun { -mozilla-vpn-brand-name }
     .message = Sielç tra plui di 300 posizions e protêç dutis lis tôs aplicazions suntun massim di 5 dispositîfs.
 ipprotection-locations-subview-promo-button = Oten { -mozilla-vpn-brand-name }
+
+## VPN paused state
+
+
+## Messages and errors
+
+
+## IP Protection bandwidth callouts
+
 
 ## IP Protection bandwidth warning infobar
 
@@ -106,3 +126,15 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Gjestìs lis impostazions dai sîts web
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
+
+## IP Protection alerts
+

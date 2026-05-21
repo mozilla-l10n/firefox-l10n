@@ -37,6 +37,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Rang nomlari
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -45,6 +48,9 @@ options-styleeditor-label = Uslubni tahrirlagich
 options-stylesheet-autocompletion-label = Avtotugatish CSS
 options-stylesheet-autocompletion-tooltip =
     .title = "Uslub tahrirchisi" CSS xossalari, qiymatlari va tanlagichlarini yozuvingiz sifatida avtotugatish
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -85,3 +91,8 @@ options-enable-service-workers-http-tooltip =
     .title = Asboblar paneli bo‘lgan barcha ichki oynalar uchun HTTP ustida service workers ta’minotni yoqib qo‘yadi.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Faqat joriy seans, sahifani qayta yuklaydi
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
