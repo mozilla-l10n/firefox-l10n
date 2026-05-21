@@ -1001,7 +1001,11 @@ urlbar-searchmode-popup-add-engine = Zonte “{ $engineName }”
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Cheste volte cîr cun:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Cîr cun:
 urlbar-searchmode-popup-search-settings-panelitem = Impostazions ricercje
+urlbar-searchmode-popup-settings-panelitem = Impostazions
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1017,6 +1021,21 @@ urlbar-result-action-switch-to-tabgroup = Passe a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Vierç { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Vierç intune gnove schede
+    .accesskey = V
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Vierç intune gnove schede contignidôr
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Vierç intun gnûf barcon
+    .accesskey = b
+urlbar-view-context-menu-open-in-private-window =
+    .label = Vierç intun gnûf barcon privât
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
