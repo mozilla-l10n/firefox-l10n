@@ -414,10 +414,19 @@ quickactions-cmd-help = jutori, supuart, assistence
 # Opens the devtools web inspector
 quickactions-inspector2 = Vierç struments di disvilup
 quickactions-cmd-inspector2 = ispetôr, struments di svilup, devtools
+# Opens Firefox Library
+quickactions-cmd-library = Librarie
+quickactions-library = Vierç librarie
 quickactions-cmd-inspector = ispetôr, struments dai disvilupadôrs
 # Opens about:logins
 quickactions-logins2 = Gjestìs passwords
 quickactions-cmd-logins = credenziâls, passwords
+# Mutes all tabs playing audio
+quickactions-mute = Cidine lis schedis che a riprodusin suns
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = cidine, fâs tasê, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gjestìs plugins
 quickactions-cmd-plugins = plugins
@@ -542,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = La conession cun chest sît no je sigure.
 identity-connection-verified = La conession cun chest sît e je sigure.
 identity-ev-owner-label = Certificât dât fûr a:
+identity-verifier-label = Verificade di:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Cualificât in base al Regolament (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nol ricognòs il sogjet che al à dât fûr chest certificât. Il sisteme operatîf o un aministradôr lu podarès vê zontât.
+identity-cert-exception-overridden = Tu âs zontât une ecezion ae sigurece par chest sît.
 identity-remove-cert-exception =
     .label = Gjave ecezion
     .accesskey = G

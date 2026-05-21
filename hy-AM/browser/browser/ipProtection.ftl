@@ -90,6 +90,13 @@ ipprotection-recommended-location-badge = ՆՈՐ
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Տեղադրություն՝ { $country }
+ipprotection-locations-subview =
+    .title = Օգտագործել տեղադրությունը
+ipprotecion-locations-subview-recommended-label = Հանձնարարելի
+ipprotection-locations-subview-recommended-description = Գտնում է ամենաարագ տեղադրությունը
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Անհասանելի
+ipprotection-locations-subview-promo-button = Ստանալ { -mozilla-vpn-brand-name }-ը
 
 ## VPN paused state
 
@@ -115,10 +122,36 @@ ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միա
 
 ## IP Protection Settings
 
+ip-protection-description-1 =
+    .label = Ներկառուցված VPN
+    .description = Ստացեք լրացուցիչ գաղտնիություն՝ դիտարկելիս թաքցնելով ձեր տեղադրությունը:
 ip-protection-learn-more = Իմանալ ավելին
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Փորձեք { -brand-short-name }-ի ներկառուցված VPN-ը
+    .message = Թաքցրեք ձեր տեղադրությունը, երբ դիտարկում եք { -brand-short-name }-ով: Ստացեք { $maxUsage } ԳԲ անվճար VPN տվյալներ յուրաքանչյուր ամսի:
 ip-protection-not-opted-in-button = Սկսել
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Կառավարել կայքի կարգավորումները
+    .description =
+        { $count ->
+            [one] { $count } կայք
+           *[other] { $count } կայքեր
+        }
+ip-protection-autostart =
+    .label = Ինքնաբար միացնել VPN-ը
+ip-protection-autostart-checkbox =
+    .label = Երբ ես բացում եմ { -brand-short-name }-ը
 ip-protection-autostart-private-checkbox =
     .label = Գաղտնի պատուհաններում
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Կառավարել կայքի կարգավորումները
 
 ## IP Protection Bandwidth
 

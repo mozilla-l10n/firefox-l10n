@@ -263,6 +263,9 @@ browser-containers-enabled =
     .label = Միացնել պարունակ ներդիրները
     .accesskey = ի
 browser-containers-learn-more = Իմանալ ավելին
+browser-containers-settings-2 =
+    .label = Կառավարել կարգավորումները
+    .accesskey = i
 browser-containers-settings =
     .label = Կարգավորումներ...
     .accesskey = ր
@@ -315,6 +318,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Ցուցադրել կողագոտի
     .description = Արագորեն մատչեք Ձեր էջանիշերը, ներդիրները հեռապխոսից, ԱԲ չաթ-բոթերը և ավելին՝ առանց լքելու հիմնական տեսքը:
+page-navigation-group =
+    .label = Էջի նավիգացիա
 browser-layout-header = Դիտարկիչի դասավորությունը
 browser-layout-horizontal-tabs =
     .label = Հորիզոնական ներդիրներ
@@ -791,6 +796,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Որոնել տեքստը, երբ կսկսեք մուտքագրել
     .accesskey = ք
+settings-media-group =
+    .label = Մեդիա
 browsing-picture-in-picture-toggle-enabled =
     .label = Միացնում է Նկարը նկարում տեսանյութի կառավարները
     .accesskey = E
@@ -2192,11 +2199,21 @@ preferences-doh-manage-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Լրացուցիչ կարգավորումներ
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Տեսք
 
 ## AI controls page
 
