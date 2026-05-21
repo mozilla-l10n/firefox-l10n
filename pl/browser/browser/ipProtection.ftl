@@ -37,6 +37,8 @@ ipprotection-feature-introduction-link-text-captive-portal = <a data-l10n-name="
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
+ipprotection-feature-introduction-button-secondary-not-now-menuitem =
+    .label = Nie teraz
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, dziękuję
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Nie, dziękuję
