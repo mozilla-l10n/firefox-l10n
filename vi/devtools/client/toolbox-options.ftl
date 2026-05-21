@@ -155,3 +155,8 @@ options-context-triggers-page-refresh = * Chỉ phiên hiện tại, tải lại
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (tải lại trang)
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
