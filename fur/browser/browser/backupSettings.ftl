@@ -19,6 +19,9 @@ backup-folder-name = Ripristine { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Backup
+    .description = Pare in automatic i tiei segnelibris, la cronologjie e altris dâts
 settings-data-backup-toggle = Gjestìs backup
 settings-data-backup-toggle-on2 =
     .label = Ative backup
@@ -29,10 +32,20 @@ settings-data-backup-in-progress-button = Backup in cors…
 settings-data-backup-in-progress-message =
     .message = Backup in cors…
 settings-data-backup-last-backup-date = Ultin backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Il backup al è ATÎF
+settings-data-backup-scheduled-backups-off2 =
+    .label = Il backup al è DISATIVÂT
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Posizion dal backup
 settings-data-backup-last-backup-location-show-in-folder = Mostre te cartele
 settings-data-backup-last-backup-location-edit = Modifiche…
 settings-data-create-backup-error = Al è vignût fûr un erôr dilunc la creazion dal backup des { DATETIME($date, timeStyle: "short") } dal/dai { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Salve passwords e metodis di paiament e manten al sigûr ducj i tiei dâts cu la criptografie.
+settings-data-toggle-encryption-label2 =
+    .label = Salve i tiei dâts sensibii
+    .description = Salve la tô password e i metodis di paiament, sore ten ducj i tiei dâts al sigûr cu la cifradure.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Non file: { $fileName }
