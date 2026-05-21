@@ -55,6 +55,8 @@ fxviewtabrow-move-tab-window = Sposte suntun gnûf barcon
     .accesskey = u
 fxviewtabrow-send-to-device = Mande a dispositîf
     .accesskey = n
+fxviewtabrow-send-to-mobile = Mande a dispositîf mobil
+    .accesskey = M
 fxviewtabrow-send-tab = Invie schede a dispositîf
     .accesskey = n
 fxviewtabrow-pin-tab = Fisse la schede
@@ -76,3 +78,12 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Cidine la schede
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ative audio de schede
+fxviewtabrow-send-to-mobile-enable-sync2 = Ative la sincronizazion par inviâ une schede
+fxviewtabrow-send-to-mobile-connect-phone2 = Conet il to telefon
+fxviewtabrow-send-to-mobile-connect-device = Conet un dispositîf par mandâ schedis
+fxviewtabrow-send-to-mobile-device-missing2 = No tu cjatis il to dispositîf?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Jentre par mandâ schedis
+fxviewtabrow-send-to-mobile-turn-on-sync = Ative la sincronizazion par mandâ schedis

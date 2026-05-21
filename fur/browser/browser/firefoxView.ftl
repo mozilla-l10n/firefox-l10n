@@ -113,6 +113,8 @@ firefoxview-history-nav = Cronologjie
 firefoxview-history-header = Cronologjie
 firefoxview-history-context-delete = Elimine de cronologjie
     .accesskey = D
+firefoxview-history-context-forget-site = Dismentee chest sît…
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -155,6 +157,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Cîr te cronologjie
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Cîr tai segnelibris
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Cîr tes schedis sieradis di resint

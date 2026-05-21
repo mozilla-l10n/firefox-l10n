@@ -18,6 +18,22 @@ firefox-relay-must-login-to-account = Jentre tal to account par doprâ lis masca
 firefox-relay-get-unlimited-masks =
     .label = Gjestìs mascaris
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Tu âs doprât { $count } mascare di e-mail gratuite
+       *[other] Tu âs doprât dutis lis { $count } mascaris di e-mail gratuitis
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Tu puedis tornâ a doprânt une, se no, visualize dutis lis mascaris par sielzint une altre.
+firefox-relay-reuse-masks-select-label = Selezione une mascare resinte
+firefox-relay-see-all-masks =
+    .label = Viôt dutis lis mascaris
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Siere
+    .accesskey = S
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protêç lis tôs direzions e-mail:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

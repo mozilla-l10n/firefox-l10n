@@ -110,6 +110,7 @@ perplexity-callout-secondary-label-2 = Capît
 start-page-callout-title = Desideristu provâ un gnûf motôr di ricercje che al considere prioritarie la riservatece?
 start-page-callout-subtitle = Prove Startpage. Al è stât progjetât par garantî plui riservatece tes tôs ricercjis fin dal principi.
 start-page-callout-primary-label = Prove Startpage
+start-page-callout-secondary-label = Siere
 
 ## Account Adoption Passwords callout strings
 
@@ -234,6 +235,12 @@ sidebar-genai-survey-satisfaction-question = Trop sêstu sodisfat(e) dal acès a
 sidebar-genai-survey-productive-question =
     In ce misure sêstu dacuardi o in disacuardi cun cheste afermazion:<br/>
     “Il chatbot IA te sbare laterâl mi jude a jessi plui produtîf”?
+splitview-onboarding-callout-title-1 = Modalitât a schermi dividût: un miôr sisteme par fâ plui robis intal stes moment.
+splitview-onboarding-callout-subtitle-1 = Fâs clic cul boton diestri dal mouse su cheste schede e selezione “Zonte schermi dividût” par viodi dôs schedis intal stes moment.
+splitview-onboarding-callout-cta-1 = Provilu daurman
+splitview-onboarding-callout-title-2 = Viôt dôs schedis intal stes moment cul schermi dividût
+splitview-onboarding-callout-subtitle-2 = Nissun barcon in plui. Nissun passaç di une schede a chê altre. Fâs clic cul boton diestri dal mouse su cheste schede e selezione “Zonte schermi dividût”.
+splitview-onboarding-callout-cta-2 = Prove schermi dividût
 unified-search-callout-title = Passe di un motôr di ricercje a chel altri
 unified-search-callout-subtitle = Sielç chel che al funzione miôr pe tô specifiche ricercje.
 unified-search-callout-primary-label = Sucessîf
