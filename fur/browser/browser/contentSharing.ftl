@@ -8,3 +8,14 @@
 
 content-sharing-modal-description = Cree une pagjine publiche par chescj colegaments che e je facile di condividi. Dopo vêle creade, nol sarà pussibil ni modificâle ni eliminâle e e scjadarà dopo di 7 dîs.
 content-sharing-modal-policy = Condividint tu acetis la nestre <a data-l10n-name="aup-link">informative su la juste utilizazion</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links =
+    { $count ->
+        [one] Al vignarà includût al massim { $count } colegament
+       *[other] A vignaran includûts al massim { $count } colegaments
+    }
+content-sharing-modal-generic-error =
+    .heading = Alc al è lât strucj
+    .message = Torne prove plui tart.

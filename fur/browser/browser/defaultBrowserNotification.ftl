@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Pas 2: Selezione “Met come predefinît” par { -brand-short-name }
 default-browser-guidance-notification-info-page = Mostrimi
 default-browser-guidance-notification-dismiss = Fat
+default-browser-guidance-notification-v2-title = Finìs di fâ di { -brand-short-name } il tô navigadôr predefinît
+default-browser-guidance-notification-v2-body = In impostazions, selezione "Met predefinît" par { -brand-short-name }
+default-browser-guidance-notification-v2-title-only = Finìs di fâ di { -brand-short-name } il tô navigadôr predefinît in Impostazions
