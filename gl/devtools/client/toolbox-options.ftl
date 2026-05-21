@@ -150,3 +150,8 @@ options-context-triggers-page-refresh = * Para a sesión actual, recargue a páx
 # Variables:
 #   $toolLabel (String): The name of the tool not being supported
 options-tool-not-supported-marker = { $toolLabel } *
+# Used as a label for auto theme
+options-auto-theme-label = Automático
+# This is the text that appears in the settings panel for panel that will be removed in future releases.
+# This entire text is treated as a link to an MDN page.
+options-deprecation-notice = Anticuado. Saber máis…
