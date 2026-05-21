@@ -44,6 +44,9 @@ options-default-color-unit-hsl = I-HSL(A)
 options-default-color-unit-rgb = I-RGB(A)
 options-default-color-unit-name = AmaGama emiBala
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -52,6 +55,9 @@ options-styleeditor-label = Umlungisi Wesimbo
 options-stylesheet-autocompletion-label = Gqibezela ngokuzenzekelayo iCSS
 options-stylesheet-autocompletion-tooltip =
     .title = Gqibezela ngokuzenzekelayo iipropati zeCSS, amaxabiso nezikhethi kwiSilungisi seSimbo njengoko utayipha
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -96,3 +102,8 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Vumela iiMephu zoMthombo
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Iseshoni ekhoyo kuphela iyaphinda ilowuda iphepha
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
