@@ -91,6 +91,7 @@ perplexity-callout-secondary-label-2 = Հասկացա
 ## Startpage callout strings. Startpage (https://www.startpage.com/) is a
 ## brand name and should not be translated or transliterated.
 
+start-page-callout-primary-label = Փորձել Տնէջը
 start-page-callout-secondary-label = Բաց թողնել
 
 ## Account Adoption Passwords callout strings

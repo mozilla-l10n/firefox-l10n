@@ -8,6 +8,7 @@ customkeys-change = Փոխել
 customkeys-reset = Վերակայել
 customkeys-clear = Մաքրել
 customkeys-new-key = Սեղմեք նոր ստեղնը՝
+customkeys-reset-all = Վերականգնել բոլոր դյուրանցումները սկզբնադիր կարգավորումներին
 customkeys-file-duplicate-tab = Կրկնօրինակել ներդիրը
 customkeys-history-reopen-tab = Վերաբացեք վերջին փակված ներդիրը
 customkeys-history-reopen-window = Վերաբացեք վերջին փակված պատուհանը
