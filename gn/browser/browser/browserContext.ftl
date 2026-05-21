@@ -299,6 +299,7 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Emondo pumbyrýpe
     .accesskey = n
+main-context-menu-send-to-mobile-sign-in = Eike ñandutípe emondo hag̃ua tendayke
 main-context-menu-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
 main-context-menu-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 main-context-menu-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
