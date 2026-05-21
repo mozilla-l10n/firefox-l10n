@@ -249,6 +249,15 @@ other-backup-files-founds =
         [one] <b>Note:</b> al è stât cjatât { $numberOfOtherBackupsFound } altri file di backup
        *[other] <b>Note:</b> a son stâts cjatâts altris { $numberOfOtherBackupsFound } files di backup
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creât ai { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Recuperât di { $deviceName } ai { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } aes { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Chest file nol funzione. Prove a sielzi un altri file. <a data-l10n-name="restore-problems">Âstu ancjemò problemis?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nissun file selezionât
