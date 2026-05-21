@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Eike ñandutípe emondo hag̃ua tenda
 main-context-menu-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
 main-context-menu-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 main-context-menu-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
+main-context-menu-send-to-mobile-sign-in-from-link = Eike ñandutípe emondo hag̃ua juajuha
+main-context-menu-send-to-mobile-sign-in-from-page = Eike ñandutípe emondo hag̃ua kuatiarogue
+main-context-menu-send-to-mobile-enable-sync3 = Emyandy ñembojuehe emondo hag̃ua tendaykeita
+main-context-menu-send-to-mobile-enable-sync-from-link = Emyandy ñembojuehe emondo hag̃ua juajuha
+main-context-menu-send-to-mobile-enable-sync-from-page = Emyandy ñembojuehe emondo hag̃ua kuatiarogue
+main-context-menu-send-to-mobile-connect-phone3 = Embojuaju mba’e’oka emondo hag̃ua tendaykeita
+main-context-menu-send-to-mobile-connect-phone-from-link = Embojuaju mba’e’oka emondo hag̃ua juajuha
+main-context-menu-send-to-mobile-connect-phone-from-page = Embojuaju mba’e’oka emondo hag̃ua kuatiarogue
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Embojuruja ñembojuehe emondo hag̃ua tendayke
