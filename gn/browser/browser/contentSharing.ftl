@@ -23,3 +23,15 @@ content-sharing-modal-link-copied =
     .label = Juajuha monguatiapyre
 content-sharing-modal-sign-in =
     .label = Eike ne emoharakuã hag̃ua juajuha
+content-sharing-modal-title = Emoharakuã ko joajuha aty oimeraẽva kundahárape
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links =
+    { $count ->
+        [one] Oikéta hetavéramo { $count } joajuha
+       *[other] Oikéta hetavéramo { $count } joajuha
+    }
+content-sharing-modal-generic-error =
+    .heading = Oĩ osẽvaíva
+    .message = Eha’ã jey ag̃amieve.

@@ -80,4 +80,10 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Emoĩjey mba’epu tendayképe
 fxviewtabrow-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
 fxviewtabrow-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
+fxviewtabrow-send-to-mobile-connect-device = Embojuaju mba’e’oka emondo hag̃ua tendaykeita
 fxviewtabrow-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Eike ñandutípe emondo hag̃ua tendayke
+fxviewtabrow-send-to-mobile-turn-on-sync = Emyandy ñembojuehe emondo hag̃ua tendaykeita

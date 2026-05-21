@@ -814,6 +814,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgets poravoha
     .aria-label = Embojuruja widgets poravoha
+newtab-widget-add-widgets-button =
+    .aria-label = Embojuaju widget
+    .title = Embojuaju widget
 newtab-widget-section-menu-manage = Eñangareko widgets
 newtab-widget-section-menu-hide-all = Eñomi widgets
 newtab-widget-section-menu-learn-more = Eikuaave
@@ -906,6 +909,7 @@ newtab-widget-timer-celebration-message-break = ¿Oĩmbáma atyrã?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Esegi atyetápe
+newtab-sports-widget-menu-view-schedule = Ehecha arapapaha
 newtab-sports-widget-menu-view-upcoming = Ehecha tenondegua
 newtab-sports-widget-menu-view-results = Ehecha mba’éicha osẽ
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -918,6 +922,8 @@ newtab-sports-widget-view-schedule =
     .label = Ehecha nde aravorã
 newtab-sports-widget-follow-teams =
     .label = Esegi atyetápe
+newtab-sports-widget-view-matches =
+    .label = Ehecha partidoita
 newtab-sports-widget-choose-wallpaper =
     .label = Eiporavo mba’erechaha rugua
 newtab-sports-widget-skip = Jepo
