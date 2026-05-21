@@ -1307,7 +1307,7 @@ account-placeholder2 =
     .label = Sie sind nicht angemeldet
     .description = Melden Sie sich an und sorgen Sie dafür, dass Ihre Daten privat, verschlüsselt und überall, wo Sie { -brand-short-name } nutzen, sofort verfügbar sind.
 account-sync-section =
-    .heading = Konto und Synchronisierung
+    .heading = Konto und Synchronisation
 pane-account-sync-title2 = Konto und Synchronisation
     .title = Konto und Synchronisation
 
