@@ -101,3 +101,8 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Oten ancjemò plui protezion fûr di { -brand-short-name } cun { -mozilla-vpn-brand-name }
     .description = Sielç posizions personalizadis pe VPN e zonte la protezion pes tôs aplicazions suntun massim di 5 dispositîfs, nol impuarte se tu sês a cjase o suntune rêt Wi-Fi publiche.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Gjestìs lis impostazions dai sîts web
