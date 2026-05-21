@@ -957,6 +957,27 @@ newtab-sports-widget-watch =
 newtab-sports-widget-watch-icon =
     .aria-label = Guarda in diretta
     .title = Guarda in diretta
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Chiudi
+    .title = Chiudi
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratuito
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Prova gratuita
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratuito e a pagamento
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = A pagamento
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Solo alcune partite
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponibili nella tua regione
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Altre regioni
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Apri diretta video
+    .title = Apri diretta video
 newtab-sports-widget-group-stage = Fase a gironi
 newtab-sports-widget-group-a = Gruppo A
 newtab-sports-widget-group-b = Gruppo B
