@@ -44,6 +44,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Noone maaɲey
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -52,6 +55,9 @@ options-styleeditor-label = Kaymi fasalkaw
 options-stylesheet-autocompletion-label = CSS boŋtimmandi
 options-stylesheet-autocompletion-tooltip =
     .title = CSS boŋtimmandi mayrawey, hinnawey nda suubakey takari fasalkaa ra waati kaŋ war ga hantum
+
+## Screenshot section
+
 
 ## Editor section
 
@@ -96,3 +102,8 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Aššil dawtiirawey tunandi
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Goywaatoo hinne se, moɲoo zumandi taaga
+# This is used to add a * marker to the label for the Options Panel tool checkbox for the
+# tool which is not supported for the current toolbox target.
+# Variables:
+#   $toolLabel (String): The name of the tool not being supported
+options-tool-not-supported-marker = { $toolLabel } *
