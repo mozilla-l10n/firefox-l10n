@@ -119,6 +119,10 @@ restore-from-backup-confirm-button = Ripristine e torne invie
 restore-from-backup-restoring-button = Daûr a ripristinâ…
 restore-from-backup-type-group-label =
     .label = Sostituî il profîl atuâl?
+restore-from-backup-type-replace =
+    .label = Sostituìs ducj i dâts cun chest backup
+restore-from-backup-type-add =
+    .label = Ten i dâts e cree un gnûf profîl
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
