@@ -115,6 +115,8 @@ legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen con los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más sobre los cambios a los complementos</label>
 private-browsing-description2 = { -brand-short-name } está cambiando cómo las extensiones funcionan en la navegación privada. Cualquier extensión nueva que añadas a { -brand-short-name } no será ejecutada por defecto en ventanas privadas. Salvo que la permitas en los ajustes, la extensión no funcionará durante la navegación privada y no tendrá acceso a tus actividades en línea realizadas allí. Hemos realizado este cambio para mantener privada tu navegación privada. <label data-l10n-name="private-browsing-learn-more">Aprende cómo gestionar los ajustes de extensiones.</label>
+aboutaddons-sidebar =
+    .heading = Complementos
 addon-category-discover = Recomendaciones
 addon-category-discover-title =
     .title = Recomendaciones
@@ -466,6 +468,10 @@ addon-permissions-empty = Esta extensión no requiere de ningún permiso.
 addon-permissions-required = Permisos requeridos para funcionalidad básica:
 addon-permissions-optional = Permisos opcionales para funcionalidad básica:
 addon-permissions-learnmore = Aprender más sobre los permisos
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Algunos permisos son gestionados por tu organización.
 recommended-extensions-heading = Extensiones recomendadas
 recommended-themes-heading = Temas recomendados
 # Variables:

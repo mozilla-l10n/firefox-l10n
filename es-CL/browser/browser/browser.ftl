@@ -472,6 +472,7 @@ quickactions-viewsource2 = Ver código fuente de la página
 quickactions-cmd-viewsource2 = ver código fuente, fuente, código fuente de la página
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Abrir { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratorios, experimento
 quickactions-cmd-viewsource = ver fuente, fuente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

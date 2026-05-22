@@ -850,6 +850,7 @@ newtab-widget-message-title = Mantén la concentración con listas y un temporiz
 newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de concentración y descansos para estirarse, mantén la concentración en tus tareas y a tiempo.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Un único lugar para información clave, pronósticos y mucho más.
+newtab-widget-message-focus-forecasts-body = Mantén tu día organizado con los widgets de { -brand-product-name }. Consulta el pronóstico del clima, concéntrate en tus tareas o controla el tiempo en todo el mundo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -979,6 +980,14 @@ newtab-sports-widget-group-a = Grupo A
 newtab-sports-widget-group-b = Grupo B
 newtab-sports-widget-group-c = Grupo C
 newtab-sports-widget-group-d = Grupo D
+newtab-sports-widget-group-e = Grupo E
+newtab-sports-widget-group-f = Grupo F
+newtab-sports-widget-group-g = Grupo G
+newtab-sports-widget-group-h = Grupo H
+newtab-sports-widget-group-i = Grupo I
+newtab-sports-widget-group-j = Grupo J
+newtab-sports-widget-group-k = Grupo K
+newtab-sports-widget-group-l = Grupo L
 newtab-sports-widget-round-32 = 16avos de final
 newtab-sports-widget-round-16 = Octavos de final
 newtab-sports-widget-quarter-finals = Cuartos de final
@@ -1016,6 +1025,81 @@ newtab-sports-widget-third-place = Tercer lugar
 newtab-sports-widget-runner-up = Subcampeón
 newtab-sports-widget-champions = Campeones
 newtab-sports-widget-world-cup-champions = Campeones de la Copa Mundial 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Partido completo
+newtab-sports-widget-match-penalties = Penales
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } versus { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) versus { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = En vivo: { $homeTeam }, { $homeScore } versus { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, retrasado
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, postergado
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, suspendido
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, cancelado
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia y Herzegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Costa de Marfil
+newtab-sports-widget-team-name-label-cod =
+    .label = RD Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Inglaterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Escocia
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Da el puntapié inicial a la Copa del Mundo con nuevos fondos de pantalla
+newtab-sports-widget-message-wallpapers-cta = Elegir fondo de pantalla
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Añadir widgets
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Explorar widgets
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
