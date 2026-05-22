@@ -118,6 +118,8 @@ private-browsing-description2 =
     { -brand-short-name } está cambiando la forma en la que funcionan los complementos en la navegación privada. Cualquier nuevo complemento que agregue a
     { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permita en la configuración, el complemento no funcionará en la navegación privada, y no tendrá acceso a sus actividades en línea. Hicimos este cambio para mantener privada su navegación privada.
     <label data-l10n-name = "private-browsing-learn-more"> Aprenda cómo administrar la configuración del complemento. </label>
+aboutaddons-sidebar =
+    .heading = Complementos
 addon-category-discover = Recomendaciones
 addon-category-discover-title =
     .title = Recomendaciones
@@ -482,6 +484,10 @@ addon-permissions-empty = Este complemento no requiere ningún permiso.
 addon-permissions-required = Permisos necesarios para la funcionalidad principal:
 addon-permissions-optional = Permisos opcionales para funciones adicionales:
 addon-permissions-learnmore = Conocer más sobre permisos
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Algunos permisos son administrados por su organización.
 recommended-extensions-heading = Complementos recomendados
 recommended-themes-heading = Temas recomendados
 # Variables:

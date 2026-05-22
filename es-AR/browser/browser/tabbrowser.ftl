@@ -368,6 +368,8 @@ tab-group-overflow-count-tooltip =
 
 tab-groups-list-empty-description = Arrastre una pestaña sobre otra o haga clic con el botón derecho en una pestaña para empezar a organizar. Guardaremos los grupos acá para que sean fáciles de encontrar más tarde.
 tab-groups-list-empty-button = Crear un grupo de pestañas
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nuevo grupo
 
 ## Open/saved tab group context menu
 

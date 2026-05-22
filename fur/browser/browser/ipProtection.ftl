@@ -132,6 +132,7 @@ ipprotection-locations-subview-promo-button = Oten { -mozilla-vpn-brand-name }
 upgrade-vpn-title = Oten ancjemò plui protezion, ancje fûr dal navigadôr.
 upgrade-vpn-description = Sielç la posizion de VPN, dopre la VPN su dutis lis tôs aplicazions e fin a 5 dispositîfs, e navighe in sigurece su dutis lis rêts — a cjase o su lis rêts Wi-Fi publichis.
 upgrade-vpn-button = Prove { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = La VPN e je in pause
 
 ## Messages and errors
 
@@ -211,3 +212,4 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Gjestìs lis impostazions dai sîts web
+ip-protection-exclusions-desc = Dopre la VPN par ducj i sîts, gjavâts chei che a son in cheste liste. Zonte un sît web achì o vierzint la VPN.
