@@ -854,6 +854,9 @@ newtab-daily-briefing-card-timestamp = Aggiornato { $minutes }m fa
 newtab-widget-message-title = Mantieni la concentrazione utilizzando le liste e il timer integrato
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Da promemoria veloci a liste di attività quotidiane, da sessioni di concentrazione a pause per rilassarsi: mantieni l’attenzione e rispetta i tempi.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un unico spazio per concentrarsi, consultare le previsioni meteo e molto altro
+newtab-widget-message-focus-forecasts-body = Rendi la tua giornata più fluida grazie ai widget di { -brand-product-name }. Consulta le previsioni meteo, resta concentrato sui tuoi impegni o tieni traccia dell’ora in tutto il mondo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1093,6 +1096,19 @@ newtab-sports-widget-team-name-label-eng =
     .label = Inghilterra
 newtab-sports-widget-team-name-label-sco =
     .label = Scozia
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Dai il via ai Mondiali con i nuovi sfondi
+newtab-sports-widget-message-wallpapers-body = Porta un po’ di atmosfera da stadio nel tuo browser durante il torneo.
+newtab-sports-widget-message-wallpapers-cta = Scegli sfondo
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Aggiungi widget
+newtab-sports-widget-message-day-in-play-title = Rendi la tua giornata più dinamica con i widget di { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Segui la Coppa del Mondo, resta concentrato, tieni traccia dell’ora in tutto il mondo e molto altro.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Esplora i widget
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
