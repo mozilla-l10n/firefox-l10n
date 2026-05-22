@@ -854,7 +854,7 @@ newtab-widget-message-title = Håll fokus med listor och en inbyggd timer
 newtab-widget-message-copy = Från snabba påminnelser till dagliga att-göra-uppgifter, fokussessioner till stretchpauser — håll dig fokuserad och i tid.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = En plats för fokus, prognoser och mer
-newtab-widget-message-focus-forecasts-body = Håll dagen flytande med { -brand-product-name } widgets. Kontrollera prognosen, håll koll eller spåra tiden över hela världen.
+newtab-widget-message-focus-forecasts-body = Håll dagen i rullning med { -brand-product-name } widgets. Kontrollera prognosen, håll koll eller spåra tiden över hela världen.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -951,12 +951,12 @@ newtab-sports-widget-show-less =
     .label = Visa mindre
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
-    .label = Bevaka
-    .title = Se live
+    .label = Titta
+    .title = Titta live
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch-icon =
-    .aria-label = Se live
-    .title = Se live
+    .aria-label = Titta live
+    .title = Titta live
 newtab-sports-widget-watch-dialog-close =
     .aria-label = Stäng
     .title = Stäng
@@ -968,16 +968,6 @@ newtab-sports-widget-watch-stream-free-trial = Gratis provperiod
 newtab-sports-widget-watch-stream-free-paid = Gratis och betald
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Betalt
-# Note: provider only streams some matches, not the full tournament.
-newtab-sports-widget-watch-stream-select-games-only = Endast vissa spel
-# Heading for the list of streaming services available in the user’s country/region.
-newtab-sports-widget-watch-available-region = Tillgänglig i din region
-# Heading for the list of streaming services available outside the user’s country/region.
-newtab-sports-widget-watch-available-other-regions = Andra regioner
-# Button that opens the provider’s stream page in a new tab.
-newtab-sports-widget-watch-play =
-    .aria-label = Öppna strömning
-    .title = Öppna strömning
 newtab-sports-widget-group-stage = Gruppspel
 newtab-sports-widget-group-a = Grupp A
 newtab-sports-widget-group-b = Grupp B
