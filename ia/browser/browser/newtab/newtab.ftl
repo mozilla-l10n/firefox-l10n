@@ -910,14 +910,14 @@ newtab-widget-timer-celebration-message-break = Preste a concentrar?
 
 newtab-sports-widget-menu-follow-teams = Sequer equipas
 newtab-sports-widget-menu-view-schedule = Vider agenda
-newtab-sports-widget-menu-view-upcoming = Vider incontros imminente
+newtab-sports-widget-menu-view-upcoming = Vider matchs imminente
 newtab-sports-widget-menu-view-results = Visualisar resultatos
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Datas clave
 newtab-sports-widget-menu-learn-more = Pro saper plus
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Retener schedas sur le Cuppa del mundo
-newtab-sports-widget-get-updates = Obtene actualisationes al vivo del incontros e plus.
+newtab-sports-widget-get-updates = Obtene actualisationes al vivo del matchs e plus.
 newtab-sports-widget-view-schedule =
     .label = Vider agenda
 newtab-sports-widget-follow-teams =
@@ -1018,7 +1018,7 @@ newtab-sports-widget-postponed = Postponite
 newtab-sports-widget-suspended = Suspendite
 newtab-sports-widget-cancelled = Cancellate
 newtab-sports-widget-information = Informationes re le incontro
-newtab-sports-widget-no-live-data = Le datos del incontro al vivo ancora non es actualisate
+newtab-sports-widget-no-live-data = Le datos del match al vivo ancora non es actualisate
 newtab-sports-widget-view-results-link = Visualisar resultatos
 newtab-sports-widget-third-place = Tertie posto
 # Runner-up is the team in 2nd place.
