@@ -470,6 +470,8 @@ quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vis kjeldekode
 quickactions-cmd-viewsource2 = vis kjelde, kjelde, sidekjelde
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Opne { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = vis kjelde, kjelde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

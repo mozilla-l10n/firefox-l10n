@@ -133,6 +133,8 @@ profiles-cyan-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Դիտել կարգավորումները
 # Secondary button label to dismiss the infobar without action
 multiprofile-data-collection-dismiss = Բաց թողնել
 
@@ -166,6 +168,9 @@ shopping-avatar-alt =
     .alt = Գնումների զամբյուղ
 star-avatar-alt =
     .alt = Աստղ
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Ադամանդ
 
 ## Tooltips for default avatar icons
 

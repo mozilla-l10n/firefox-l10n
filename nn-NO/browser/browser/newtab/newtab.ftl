@@ -851,6 +851,8 @@ newtab-daily-briefing-card-timestamp = Oppdatert for { $minutes } minutt sidan
 newtab-widget-message-title = Hald fokus med lister og ein innebygd nedteljar
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Frå kjappe påminningar til daglege gjeremål, fokuserte arbeidsøkter til strekkpausar — hald deg til oppgåva og tidsplanen.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Éin stad for fokus, vêrmeldingar og meir
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -940,7 +942,48 @@ newtab-sports-widget-back-button =
     .aria-label = Tilbake
 newtab-sports-widget-done-button =
     .label = Ferdig
+newtab-sports-widget-view-all =
+    .label = Vis alle
+newtab-sports-widget-show-less =
+    .label = Vis mindre
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Sjå
+    .title = Sjå direkte
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Sjå direkte
+    .title = Sjå direkte
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Lat att
+    .title = Lat att
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratis
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Gratis prøveperiode
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratis og betalt
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Betalt
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Berre utvalde kampar
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Tilgjengeleg i din region
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Andre regionar
 newtab-sports-widget-group-stage = Gruppespel
+newtab-sports-widget-group-a = Gruppe A
+newtab-sports-widget-group-b = Gruppe B
+newtab-sports-widget-group-c = Gruppe C
+newtab-sports-widget-group-d = Gruppe D
+newtab-sports-widget-group-e = Gruppe E
+newtab-sports-widget-group-f = Gruppe F
+newtab-sports-widget-group-g = Gruppe G
+newtab-sports-widget-group-h = Gruppe H
+newtab-sports-widget-group-i = Gruppe I
+newtab-sports-widget-group-j = Gruppe J
+newtab-sports-widget-group-k = Gruppe K
+newtab-sports-widget-group-l = Gruppe L
 newtab-sports-widget-round-32 = Sekstandedelsfinale
 newtab-sports-widget-round-16 = Åttandedelsfinale
 newtab-sports-widget-quarter-finals = Kvartfinalar
@@ -978,6 +1021,27 @@ newtab-sports-widget-third-place = Tredjeplass
 newtab-sports-widget-runner-up = Andreplass
 newtab-sports-widget-champions = Meistrar
 newtab-sports-widget-world-cup-champions = VM 2026 – verds­meistrar
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Slutt
+newtab-sports-widget-match-penalties = Straffer
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-civ =
+    .label = Elfenbeinskysten
+newtab-sports-widget-team-name-label-eng =
+    .label = England
+newtab-sports-widget-team-name-label-sco =
+    .label = Skottland
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Vel bakgrunnsbilde
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

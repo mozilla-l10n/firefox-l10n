@@ -1551,6 +1551,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Ուժեղացված պաշտպանություն հետևելուց․ Անջատված է { $host }-ի համար
 trustpanel-etp-description-enabled = Եթե այս կայքում ինչ-որ բան կոտրված է, փորձեք անջատել պաշտպանությունները:
+trustpanel-etp-description-disabled = { -brand-product-name }-ը կարծում է, որ ընկերությունները պետք է ձեզ ավելի քիչ հետևեն։ Մենք արգելափակում ենք որքան հնարավոր է շատ հետագծողների, երբ դուք միացնում եք պաշտպանությունները։
 trustpanel-connection-label-secure = Կապակցումն ապահով է
 trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
@@ -1582,6 +1583,10 @@ urlbar-trust-icon-notsecure-label = Անվտանգ չէ
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-description = { -brand-product-name }-ը կարծում է, որ ընկերությունները պետք է ավելի քիչ հետևեն ձեզ։ Այդ պատճառով մենք արգելափակում ենք որքան հնարավոր է շատերին։
+trustpanel-blocked-header = { -brand-product-name }-ն արգելափակել է հետևյալները ձեզ համար՝
+trustpanel-tracking-header = { -brand-product-name }-ը թույլատրել է հետևյալները, որպեսզի կայքերը չխափանվեն.
+trustpanel-tracking-description = Առանց հետագծիչների, որոշ կոճակներ, ձևեր և մուտքի դաշտեր կարող են չաշխատել։
 trustpanel-insecure-section-header = Ձեր միացումն անվտանգ չէ
 trustpanel-list-label-tracking-cookies =
     { $count ->
@@ -1627,6 +1632,11 @@ trustpanel-fingerprinter-not-blocking-tab-header =
     }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Բաց թողնել
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Սկսեք անվճար սկանավորումը
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> հետագծիչ արգելափակվել է այս կայքում
+       *[other] <span data-l10n-name="count">{ $count }</span> հետագծիչներ արգելափակվել է այս կայքում
+    }
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
