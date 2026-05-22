@@ -45,6 +45,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
 fxa-menu-send-to-mobile-connect-phone2 = Zwjazajće swój telefon
 fxa-menu-send-to-mobile-device-missing2 = Njewidźiće swój grat?
+fxviewtabrow-send-to-mobile-not-verified = Konto njeje přepruwowane
+fxviewtabrow-send-to-mobile-verify-account = Přepruwujće swoje konto
 fxa-menu-send-to-mobile-turn-on-sync = Zmóžńće synchronizaciju, zo byšće rajtarki pósłał
 fxa-menu-send-to-mobile-connect-device = Zwjazajće grat, zo byšće rajtarki pósłał
 # Variables:

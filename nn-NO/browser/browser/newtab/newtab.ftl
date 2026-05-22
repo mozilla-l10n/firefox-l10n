@@ -1070,13 +1070,23 @@ newtab-sports-widget-match-aria-label-upcoming-delayed =
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } mot { $awayTeam }, utsett
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } mot { $awayTeam }, avbroten
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } mot { $awayTeam }, kansellert
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
 
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia og Herzegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Elfenbeinskysten
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Congo
 newtab-sports-widget-team-name-label-eng =
     .label = England
 newtab-sports-widget-team-name-label-sco =
@@ -1085,7 +1095,13 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Spark i gang VM med nye bakgrunnsbilde
+newtab-sports-widget-message-wallpapers-body = Gi nettlesaren litt kampstemning under turneringa.
 newtab-sports-widget-message-wallpapers-cta = Vel bakgrunnsbilde
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Legg til widgetar
+newtab-sports-widget-message-day-in-play-title = Hald dagen i gang med widgetar i { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Følg VM, hald fokus på oppgåvene dine, følg tida rundt om i verda, og meir.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Utforsk widgetar
 

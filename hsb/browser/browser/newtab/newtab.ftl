@@ -1093,6 +1093,25 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 
 newtab-sports-widget-team-name-label-bih =
     .label = Bosniska a Hercegowina
+newtab-sports-widget-team-name-label-civ =
+    .label = Słonowinowy pobrjóh
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Kongo
+newtab-sports-widget-team-name-label-eng =
+    .label = Jendźelska
+newtab-sports-widget-team-name-label-sco =
+    .label = Šotiska
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Započńće swětowe mišterstwo z nowym pozadkowymi wobrazami
+newtab-sports-widget-message-wallpapers-body = Přinjesće atmosferu hrajneho dnja do swojeho wobhladowaka za turněr.
+newtab-sports-widget-message-wallpapers-cta = Pozadkowy wobraz wubrać
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Asistenty přidać
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Asistenty wuslědźić
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

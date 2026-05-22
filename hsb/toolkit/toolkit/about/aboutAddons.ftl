@@ -119,6 +119,8 @@ private-browsing-description2 =
     { -brand-short-name } přidawaće, po standardźe w priwatnych woknach njefunguja. Chibazo
     dowoleće to w nastajenjach, rozšěrjenje w priwatnym modusu njefunguje a nima přistup k wašim
     aktiwitam online. Smy tutu změnu sčinili, zo by waš priwatny modus priwatny wóstał. <label data-l10n-name="private-browsing-learn-more">Zhońće wjace wo rjadowanju nastajenjow rozšěrjenja.</label>
+aboutaddons-sidebar =
+    .heading = Přidatki
 addon-category-discover = Doporučenja
 addon-category-discover-title =
     .title = Doporučenja
@@ -482,6 +484,10 @@ addon-permissions-empty = Tute rozšěrjenje sej prawa njewužaduje
 addon-permissions-required = Trěbne prawa za jadrowu funkcionalnosć:
 addon-permissions-optional = Opcionalne prawa za přidatu funkcionalnosć:
 addon-permissions-learnmore = Dalše informacije wo prawach
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Někotre prawa so wot wašeje organizacije rjaduja.
 recommended-extensions-heading = Doporučene rozšěrjenja
 recommended-themes-heading = Doporučene drasty
 # Variables:
