@@ -470,6 +470,8 @@ quickactions-cmd-update = actualisar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vider le codice fonte del pagina
 quickactions-cmd-viewsource2 = vider fonte, fonte, pagina fonte
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Aperir { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = vider fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

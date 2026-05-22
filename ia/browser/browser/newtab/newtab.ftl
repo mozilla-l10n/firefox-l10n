@@ -848,6 +848,9 @@ newtab-daily-briefing-card-timestamp = Actualisate desde { $minutes } min
 newtab-widget-message-title = Remane concentrate con le listas e un temporisator integrate
 # to-dos stands for "things to do".
 newtab-widget-message-copy = De rememorationes a travalios, de concentration a relaxation – resta attente e a tempore.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un sol puncto pro concentrar se, consultar previsiones meteo, e plus
+newtab-widget-message-focus-forecasts-body = Mantene tu die fluente con le widgets de { -brand-product-name }. Consulta le previsiones meteo, concentra te sur tu activitates, o tracia le tempore a transverso le mundo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -943,6 +946,14 @@ newtab-sports-widget-view-all =
     .label = Vider toto
 newtab-sports-widget-show-less =
     .label = Monstrar minus
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Reguarda
+    .title = Reguarda al vivo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Reguarda al vivo
+    .title = Reguarda al vivo
 newtab-sports-widget-watch-dialog-close =
     .aria-label = Clauder
     .title = Clauder
@@ -950,6 +961,20 @@ newtab-sports-widget-watch-dialog-close =
 newtab-sports-widget-watch-stream-free = Gratuite
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
 newtab-sports-widget-watch-stream-free-trial = Prova gratuite
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratuite e pagate
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Pagate
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Solo le incontros eligite
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponibile in tu region
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Altere regiones
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Aperir video al vivo
+    .title = Aperir video al vivo
 newtab-sports-widget-group-stage = Phase de grouppos
 newtab-sports-widget-group-a = Gruppo A
 newtab-sports-widget-group-b = Gruppo B
@@ -1027,6 +1052,29 @@ newtab-sports-widget-match-aria-label-results =
 #   $awayPenalty (number) - The away team's penalty shootout score
 newtab-sports-widget-match-aria-label-results-penalties =
     .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) contra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Al vivo: { $homeTeam }, { $homeScore } contra le { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } contra { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } contra { $awayTeam }, retardate
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } contra { $awayTeam }, postponite
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } contra { $awayTeam }, suspendite
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } contra { $awayTeam }, cancellate
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
