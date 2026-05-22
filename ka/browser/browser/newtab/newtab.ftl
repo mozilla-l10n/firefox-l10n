@@ -826,7 +826,7 @@ newtab-widget-lists-name-default = ჩამონათვალი
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = წამმზომი
-newtab-widget-timer-notification-focus = საქმიანობის დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?
+newtab-widget-timer-notification-focus = საქმიანობის დრო ამოიწურა. კარგად გაისარჯეთ. გსურთ შესვენება?
 newtab-widget-timer-notification-break = შესვენების დრო ამოიწურა. მზად ხართ საქმიანობისთვის?
 newtab-widget-timer-notification-warning = შეტყობინებები გამორთულია
 newtab-widget-timer-mode-focus =
@@ -901,7 +901,7 @@ newtab-widget-timer-running-break = შესვენება
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = წამმზომის დამალვა
 # Heading shown inside the Timer widget after a focus session ends.
-newtab-widget-timer-celebration-heading-focus = კარგი ნამუშევარია
+newtab-widget-timer-celebration-heading-focus = კარგად გაისარჯეთ
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = შესვენების დრო ამოიწურა
 # Message shown inside the Timer widget after a focus session ends.
@@ -948,7 +948,7 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-view-all =
     .label = ყველას ნახვა
 newtab-sports-widget-show-less =
-    .label = მოკლედ
+    .label = შემოკლებულად
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = ყურება
