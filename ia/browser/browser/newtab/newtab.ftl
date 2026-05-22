@@ -1082,6 +1082,10 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 
 newtab-sports-widget-team-name-label-bih =
     .label = Bosnia e Herzegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Costa de Ebore
+newtab-sports-widget-team-name-label-cod =
+    .label = R.D. del Congo
 newtab-sports-widget-team-name-label-eng =
     .label = Anglaterra
 newtab-sports-widget-team-name-label-sco =
