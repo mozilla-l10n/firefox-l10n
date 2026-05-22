@@ -365,6 +365,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Tidy up your tabs
 tab-groups-list-empty-description = Drag one tab onto another or right-click a tab to start organising. We’ll save your groups here so they’re easy to find later.
 tab-groups-list-empty-button = Create a tab group
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = New Group
 
 ## Open/saved tab group context menu
 

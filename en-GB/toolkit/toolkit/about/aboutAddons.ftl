@@ -120,6 +120,8 @@ private-browsing-description2 =
     extension won’t work while private browsing, and won’t have access to your online activities
     there. We’ve made this change to keep your private browsing private.
     <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
+aboutaddons-sidebar =
+    .heading = Add-ons
 addon-category-discover = Recommendations
 addon-category-discover-title =
     .title = Recommendations
@@ -488,6 +490,10 @@ addon-permissions-empty = This extension doesn’t require any permissions
 addon-permissions-required = Required permissions for core functionality:
 addon-permissions-optional = Optional permissions for added functionality:
 addon-permissions-learnmore = Learn more about permissions
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Some permissions are managed by your organisation.
 recommended-extensions-heading = Recommended Extensions
 recommended-themes-heading = Recommended Themes
 # Variables:
