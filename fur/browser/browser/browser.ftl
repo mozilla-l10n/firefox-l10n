@@ -1242,6 +1242,17 @@ qrcode-save-button =
     .label = Salve
 qrcode-save-success =
     .message = Codiç QR salvât.
+qrcode-save-error =
+    .message = Impussibil salvâ il Codiç QR.
+qrcode-save-title = Salve codiç QR
+qrcode-save-filter-png = Imagjin PNG
+qrcode-save-filename = codiçqr.png
+qrcode-window-title = Codiç QR
+qrcode-dialog-title = Codiç QR
+qrcode-image =
+    .aria-label = Codiç QR
+qrcode-close-button =
+    .aria-label = Siere
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1255,6 +1266,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Schedis sincronizadis
     .tooltiptext = Mostre lis schedis di altris dispositîfs
+toolbar-button-send-tab =
+    .label = Mande schede
+    .tooltiptext = Mande la schede atuâl suntun altri dispositîf
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1263,6 +1277,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Condivît
     .tooltiptext = Condivît la pagjine
+toolbar-button-tab-groups =
+    .label = Grups di schedis
+    .tooltiptext = Mostre i tiei grups di schedis
 
 ## EME notification panel
 
@@ -1282,6 +1299,17 @@ panel-save-update-password = Password
 # "More" item in macOS share menu
 menu-share-more =
     .label = Altri…
+menu-share-windows =
+    .label = Altris opzions
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copie il colegament
+           *[other] Copie { $count } colegaments
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Copie colegament
     .accesskey = l
@@ -1436,6 +1464,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Termine session privade
     .tooltiptext = Termine session privade
+reset-pbm-panel-heading2 = Nete i dâts e scomence une gnove session privade?
 reset-pbm-panel-heading = Terminâ la session privade?
 reset-pbm-panel-description = Siere dutis lis schedis privade e elimine cronologjie, cookies e ducj i altris dâts dai sîts.
 reset-pbm-panel-always-ask-checkbox =
