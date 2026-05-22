@@ -1016,6 +1016,19 @@ newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-
 newtab-sports-widget-match-full-time = 終場
 newtab-sports-widget-match-penalties = PK 大戰
 
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }，延後開賽
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }，延期
+
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
