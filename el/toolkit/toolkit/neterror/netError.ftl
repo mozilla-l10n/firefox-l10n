@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = Το { -brand-short-name } δεν μπορεί να δημιουργήσει ασφαλή σύνδεση με τον διακομιστή στο { $hostname }.
 fp-neterror-offline-intro = Το { -brand-short-name } δεν μπορεί να συνδεθεί στον διακομιστή στο <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = Το { -brand-short-name } δεν μπορεί να συνδεθεί στον διακομιστή στο <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Ο διακομιστής στο <strong>{ $hostname }</strong> αργεί πολύ να αποκριθεί.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

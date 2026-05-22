@@ -364,6 +364,8 @@ tab-group-overflow-count-tooltip =
 
 tab-groups-list-empty-header = Τακτοποιήστε τις καρτέλες σας
 tab-groups-list-empty-button = Δημιουργία ομάδας καρτελών
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Νέα ομάδα
 
 ## Open/saved tab group context menu
 

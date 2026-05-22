@@ -852,6 +852,8 @@ newtab-daily-briefing-card-timestamp = Ενημερώθηκε πριν από { 
 newtab-widget-message-title = Παραμείνετε συγκεντρωμένοι με τις λίστες και την ενσωματωμένη αντίστροφη μέτρηση
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Από γρήγορες υπενθυμίσεις έως καθημερινές υποχρεώσεις, συνεδρίες συγκέντρωσης έως διαλείμματα: επικεντρωθείτε και ολοκληρώστε τις εργασίες σας εγκαίρως.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Ένα μέρος για συγκέντρωση, προγνώσεις καιρού και πολλά άλλα
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1075,6 +1077,31 @@ newtab-sports-widget-match-aria-label-upcoming-suspended =
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } εναντίον { $awayTeam }, ακυρώθηκε
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Βοσνία και Ερζεγοβίνη
+newtab-sports-widget-team-name-label-civ =
+    .label = Ακτή Ελεφαντοστού
+newtab-sports-widget-team-name-label-cod =
+    .label = Λ.Δ. Κονγκό
+newtab-sports-widget-team-name-label-eng =
+    .label = Αγγλία
+newtab-sports-widget-team-name-label-sco =
+    .label = Σκωτία
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Ξεκινήστε το Παγκόσμιο Κύπελλο με νέες ταπετσαρίες
+newtab-sports-widget-message-wallpapers-cta = Επιλογή ταπετσαρίας
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Προσθήκη γραφικών στοιχείων
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Εξερεύνηση γραφικών στοιχείων
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
