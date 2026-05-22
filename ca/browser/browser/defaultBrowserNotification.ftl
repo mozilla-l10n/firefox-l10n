@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Pas 2: Trieu «Defineix per defecte» per a { -brand-short-name }
 default-browser-guidance-notification-info-page = Mostra'm-ho
 default-browser-guidance-notification-dismiss = Fet
+default-browser-guidance-notification-v2-title = Acabeu de definir el { -brand-short-name } com a navegador per defecte
+default-browser-guidance-notification-v2-body = A Configuració, seleccioneu “Defineix com a predeterminat” per al { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Acabeu de definir el { -brand-short-name } com a navegador per defecte a Configuració

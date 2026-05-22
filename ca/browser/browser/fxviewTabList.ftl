@@ -78,9 +78,12 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Silencia la pestanya
 fxviewtabrow-unmute-tab-button-no-context =
     .title = No silenciïs la pestanya
+fxviewtabrow-send-to-mobile-enable-sync2 = Activeu la sincronització per a enviar una pestanya
 fxviewtabrow-send-to-mobile-connect-phone2 = Connecteu el telèfon
 fxviewtabrow-send-to-mobile-connect-device = Connecteu un dispositiu per a enviar pestanyes
 fxviewtabrow-send-to-mobile-device-missing2 = No veieu el vostre dispositiu?
+fxviewtabrow-send-to-mobile-not-verified = El compte no s'ha verificat
+fxviewtabrow-send-to-mobile-verify-account = Verifiqueu el compte
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

@@ -18,6 +18,22 @@ firefox-relay-must-login-to-account = Inicieu la sessió al vostre compte per ut
 firefox-relay-get-unlimited-masks =
     .label = Gestiona les màscares
     .accesskey = m
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Heu utilitzat { $count } màscara gratuïta d'adreça electrònica
+       *[other] Heu utilitzat totes les { $count } màscares gratuïtes d'adreça electrònica
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Podeu reutilitzar una màscara o veure-les totes per triar-ne una de diferent.
+firefox-relay-reuse-masks-select-label = Seleccioneu una màscara recent
+firefox-relay-see-all-masks =
+    .label = Mostra totes les màscares
+    .accesskey = M
+firefox-relay-dismiss =
+    .label = Descarta
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegiu la vostra adreça electrònica:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

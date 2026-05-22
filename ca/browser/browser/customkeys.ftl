@@ -13,8 +13,11 @@ customkeys-reset-all = Restaura totes les dreceres de teclat als valors predeter
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Aquesta tecla ja està assignada a { $conflict }. Voleu substituir-la?
 customkeys-reset-all-confirm = Segur que voleu restablir totes les dreceres de teclat als valors predeterminats?
+customkeys-file-duplicate-tab = Duplica la pestanya
 customkeys-history-reopen-tab = Torna a obrir la darrera pestanya tancada
 customkeys-history-reopen-window = Torna a obrir la darrera finestra tancada
+customkeys-sidebar-toggle = Mostra/amaga la barra lateral
+customkeys-view-picture-in-picture = Imatge sobre imatge
 customkeys-dev-tools = Eines per a desenvolupadors web
 customkeys-dev-inspector = Inspector DOM i d'estil
 customkeys-dev-webconsole = Consola web
