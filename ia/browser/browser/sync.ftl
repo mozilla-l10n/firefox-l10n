@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Activar synchronisation pro inviar al scheda
 fxa-menu-send-to-mobile-connect-phone2 = Connecte tu telephono
 fxa-menu-send-to-mobile-device-missing2 = Non vide tu tu apparato?
+fxviewtabrow-send-to-mobile-not-verified = Conto non verificate
+fxviewtabrow-send-to-mobile-verify-account = Verifica tu conto
 fxa-menu-send-to-mobile-turn-on-sync = Activa le synchronisation pro inviar schedas
 fxa-menu-send-to-mobile-connect-device = Connecte un apparato pro inviar schedas
 # Variables:

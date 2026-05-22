@@ -367,6 +367,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Pone in ordine tu schedas
 tab-groups-list-empty-description = Trahe un scheda super un altere o clicca con le clave dextre sur un scheda pro initiar a organisar tu navigation. Tu gruppos sera salvate ci proque tu los trovara facilemente.
 tab-groups-list-empty-button = Crear u gruppo de schedas
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nove gruppo
 
 ## Open/saved tab group context menu
 

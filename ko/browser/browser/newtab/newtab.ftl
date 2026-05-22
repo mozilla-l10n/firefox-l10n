@@ -850,6 +850,9 @@ newtab-daily-briefing-card-timestamp = { $minutes }분 전 업데이트됨
 newtab-widget-message-title = 목록과 내장 타이머로 집중하기
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 빠른 알림부터 매일 할 일 목록, 집중 세션부터 스트레칭 휴식까지 — 업무에 집중하고 시간을 준수하세요.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = 집중, 날씨 등을 한곳에서
+newtab-widget-message-focus-forecasts-body = { -brand-product-name } 위젯으로 끊김 없는 하루를 보내세요. 날씨 예보를 확인하고, 할 일에 집중하며, 세계 각지의 시간을 추적할 수 있습니다.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -929,7 +932,52 @@ newtab-sports-widget-back-button =
     .aria-label = 뒤로
 newtab-sports-widget-done-button =
     .label = 완료
+newtab-sports-widget-view-all =
+    .label = 모두 보기
+newtab-sports-widget-show-less =
+    .label = 접기
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = 시청
+    .title = 라이브 시청
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = 라이브 시청
+    .title = 라이브 시청
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = 닫기
+    .title = 닫기
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = 무료
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = 무료 체험
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = 무료 및 유료
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = 유료
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = 일부 경기만 제공
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = 내 지역에서 사용 가능
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = 기타 지역
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = 스트림 열기
+    .title = 스트림 열기
 newtab-sports-widget-group-stage = 조별 예선
+newtab-sports-widget-group-a = A 그룹
+newtab-sports-widget-group-b = B 그룹
+newtab-sports-widget-group-c = C 그룹
+newtab-sports-widget-group-d = D 그룹
+newtab-sports-widget-group-e = E 그룹
+newtab-sports-widget-group-f = F 그룹
+newtab-sports-widget-group-g = G 그룹
+newtab-sports-widget-group-h = H 그룹
+newtab-sports-widget-group-i = I 그룹
+newtab-sports-widget-group-j = J 그룹
+newtab-sports-widget-group-k = K 그룹
+newtab-sports-widget-group-l = L 그룹
 newtab-sports-widget-round-32 = 32강
 newtab-sports-widget-round-16 = 16강
 newtab-sports-widget-quarter-finals = 8강
@@ -967,6 +1015,9 @@ newtab-sports-widget-third-place = 3위
 newtab-sports-widget-runner-up = 준우승
 newtab-sports-widget-champions = 우승팀
 newtab-sports-widget-world-cup-champions = 2026년 월드컵 우승팀
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

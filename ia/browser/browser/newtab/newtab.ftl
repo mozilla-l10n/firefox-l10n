@@ -939,7 +939,30 @@ newtab-sports-widget-back-button =
     .aria-label = Retro
 newtab-sports-widget-done-button =
     .label = Facite
+newtab-sports-widget-view-all =
+    .label = Vider toto
+newtab-sports-widget-show-less =
+    .label = Monstrar minus
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Clauder
+    .title = Clauder
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratuite
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Prova gratuite
 newtab-sports-widget-group-stage = Phase de grouppos
+newtab-sports-widget-group-a = Gruppo A
+newtab-sports-widget-group-b = Gruppo B
+newtab-sports-widget-group-c = Gruppo C
+newtab-sports-widget-group-d = Gruppo D
+newtab-sports-widget-group-e = Gruppo E
+newtab-sports-widget-group-f = Gruppo F
+newtab-sports-widget-group-g = Gruppo G
+newtab-sports-widget-group-h = Gruppo H
+newtab-sports-widget-group-i = Gruppo I
+newtab-sports-widget-group-j = Gruppo J
+newtab-sports-widget-group-k = Gruppo K
+newtab-sports-widget-group-l = Gruppo L
 newtab-sports-widget-round-32 = Dece-sextos de final
 newtab-sports-widget-round-16 = Octavos de final
 newtab-sports-widget-quarter-finals = Quartos de final
@@ -977,6 +1000,49 @@ newtab-sports-widget-third-place = Tertie posto
 newtab-sports-widget-runner-up = Secunde classificate
 newtab-sports-widget-champions = Campiones
 newtab-sports-widget-world-cup-champions = Campiones de Cuppa del mundo 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Incontro terminate
+newtab-sports-widget-match-penalties = Penalties
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } contra { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) contra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia e Herzegovina
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglaterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Scotia
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Eliger fundo
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

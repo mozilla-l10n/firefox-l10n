@@ -115,6 +115,8 @@ legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Iste extensiones non satisface le normas actual de { -brand-short-name } e ha essite disactivate. <label data-l10n-name="legacy-learn-more">Saper lo que cambiava al additivos</label>
 private-browsing-description2 = { -brand-short-name } cambia le functionamento del extensiones in le navigation private. Omne nove extensiones que tu adde a { -brand-short-name } normalmente non se executara in le fenestras private. Si tu non lo permitte in le configuration, le extension non functionara in le navigation private e non habera accesso a tu activitates in linea illac. Nos ha facite iste cambio pro mantener private tu navigation private. <label data-l10n-name="private-browsing-learn-more">Discoperi como configurar le extensiones.</label>
+aboutaddons-sidebar =
+    .heading = Additivos
 addon-category-discover = Recommendationes
 addon-category-discover-title =
     .title = Recommendationes
