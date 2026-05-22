@@ -1035,6 +1035,9 @@ urlbar-view-context-menu-open-in-container-tab =
 urlbar-view-context-menu-open-in-window =
     .label = Obre en una finestra nova
     .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Obre en una finestra privada nova
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1108,6 +1111,9 @@ fullscreen-warning-no-domain = Aquest document està a pantalla completa
 fullscreen-exit-button = Surt de la pantalla completa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Surt de la pantalla completa (esc)
+fullscreen-keyboardlock-exit-button = Surt de la pantalla completa (manteniu premuda la tecla Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Surt de la pantalla completa (manteniu premuda la tecla esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1259,6 +1265,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Pestanyes sincronitzades
     .tooltiptext = Mostra les pestanyes d'altres dispositius
+toolbar-button-send-tab =
+    .label = Envia la pestanya
+    .tooltiptext = Envieu la pestanya actual a un altre dispositiu
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1267,6 +1276,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Comparteix
     .tooltiptext = Comparteix aquesta pàgina
+toolbar-button-tab-groups =
+    .label = Grups de pestanyes
+    .tooltiptext = Mostreu els vostres grups de pestanyes
 
 ## EME notification panel
 
@@ -1286,6 +1298,8 @@ panel-save-update-password = Contrasenya
 # "More" item in macOS share menu
 menu-share-more =
     .label = Més…
+menu-share-windows =
+    .label = Més opcions
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1449,6 +1463,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Finalitza la sessió privada
     .tooltiptext = Finalitza la sessió privada
+reset-pbm-panel-heading2 = Voleu esborrar les dades i iniciar una sessió privada nova?
+reset-pbm-panel-description2 = Això suprimeix l'historial, les galetes i totes les altres dades del lloc sense tancar la finestra privada.
 reset-pbm-panel-heading = Voleu finalitzar la sessió privada?
 reset-pbm-panel-description = Es tanquen totes les pestanyes privades i se suprimeixen les galetes l'historial i totes les dades dels llocs.
 reset-pbm-panel-always-ask-checkbox =
@@ -1457,10 +1473,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancel·la
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Esborra la sessió privada
+    .accesskey = s
 reset-pbm-panel-confirm-button =
     .label = Suprimeix les dades de la sessió
     .accesskey = S
 reset-pbm-panel-complete = S'han suprimit les dades de la sessió privada
+reset-pbm-toolbar-button2 =
+    .label = Esborra la sessió privada
+    .tooltiptext = Esborreu la sessió privada
 
 ## Autorefresh blocker
 
@@ -1704,8 +1726,22 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] El { -brand-product-name } ha permès { $count } miners de criptomonedes
     }
 trustpanel-cryptominer-tab-list-header = Aquests llocs intenten minar criptomonedes:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Ja teniu un compte en aquest lloc?
+trustpanel-breachalerts-anonymous-breached-description = El { -brand-product-name } ha descobert que aquest lloc web ha patit una filtració de dades els últim 12 mesos. Esbrineu si us ha afectat.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignora
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Inicia l'escaneig gratuït
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] S'ha bloquejat <span data-l10n-name="count">{ $count }</span> element de seguiment en aquest lloc
        *[other] S'han bloquejat <span data-l10n-name="count">{ $count }</span> elements de seguiment en aquest lloc
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>El lloc web sembla trencat?</strong> Torneu a carregar la pàgina per a reduir temporalment la protecció contra el seguiment.
+reduced-protection-infobar-reload-button = Torna a carregar
+    .accesskey = T
+reduced-protection-infobar-never-show-button = No tornis a mostrar-ho
+    .accesskey = N
