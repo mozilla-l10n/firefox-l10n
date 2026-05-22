@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = 開啟同步功能即可傳送分頁
 fxa-menu-send-to-mobile-connect-phone2 = 連結您的手機
 fxa-menu-send-to-mobile-device-missing2 = 沒看到您的裝置嗎？
+fxviewtabrow-send-to-mobile-not-verified = 帳號未驗證
+fxviewtabrow-send-to-mobile-verify-account = 確認您的帳號
 fxa-menu-send-to-mobile-turn-on-sync = 開啟 Sync 即可傳送分頁
 fxa-menu-send-to-mobile-connect-device = 連結裝置即可傳送分頁
 # Variables:

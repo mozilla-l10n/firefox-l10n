@@ -470,6 +470,9 @@ quickactions-cmd-update = жаңарту
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Парақтың бастапқы кодын қарау
 quickactions-cmd-viewsource2 = view source, source, page source, бастапқы код, беттің бастапқы коды
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } ашу
+quickactions-cmd-labs = зертхана, эксперименттер
 quickactions-cmd-viewsource = бастапқы кодын қарау, бастапқы код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

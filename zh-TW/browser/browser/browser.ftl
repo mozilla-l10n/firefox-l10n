@@ -470,6 +470,9 @@ quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 檢視原始碼
 quickactions-cmd-viewsource2 = 原始碼, 檢視原始碼, 源碼, 頁面原始碼, view source, source, page source
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = 開啟 { -firefoxlabs-brand-name }
+quickactions-cmd-labs = 實驗, 實驗室, 測試, 搶先, labs, experiment
 quickactions-cmd-viewsource = 檢視原始碼, 原始碼, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

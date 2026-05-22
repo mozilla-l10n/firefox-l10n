@@ -368,6 +368,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Беттеріңізді ретке келтіріңіз
 tab-groups-list-empty-description = Реттеуді бастау үшін бір бетті екіншісіне сүйреңіз немесе бетті тышқанның оң жағымен шертіңіз. Біз сіздің топтарыңызды кейінірек оңай табу үшін осында сақтаймыз.
 tab-groups-list-empty-button = Беттер тобын жасау
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Жаңа топ
 
 ## Open/saved tab group context menu
 

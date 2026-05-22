@@ -40,6 +40,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Бетті жіберу үшін синхрондауды іске қосыңыз
 fxa-menu-send-to-mobile-connect-phone2 = Телефоныңызды байланыстырыңыз
 fxa-menu-send-to-mobile-device-missing2 = Құрылғыңыз көрінбей ме?
+fxviewtabrow-send-to-mobile-not-verified = Тіркелгі расталмаған
+fxviewtabrow-send-to-mobile-verify-account = Тіркелгіңізді растаңыз
 fxa-menu-send-to-mobile-turn-on-sync = Беттерді жіберу үшін синхронизацияны іске қосыңыз
 fxa-menu-send-to-mobile-connect-device = Беттерді жіберу үшін құрылғыны қосыңыз
 # Variables:

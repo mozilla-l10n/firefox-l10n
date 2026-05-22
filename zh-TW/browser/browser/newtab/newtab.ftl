@@ -927,7 +927,52 @@ newtab-sports-widget-back-button =
     .aria-label = 返回
 newtab-sports-widget-done-button =
     .label = 完成
+newtab-sports-widget-view-all =
+    .label = 檢視全部
+newtab-sports-widget-show-less =
+    .label = 顯示更少
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = 觀賞
+    .title = 觀賞賽事轉播
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = 觀賞賽事轉播
+    .title = 觀賞賽事轉播
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = 關閉
+    .title = 關閉
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = 免費
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = 免費試看
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = 免費與付費
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = 付費
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = 僅部分賽事
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = 於您的地區可使用
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = 其他地區
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = 開啟串流
+    .title = 開啟串流
 newtab-sports-widget-group-stage = 小組賽
+newtab-sports-widget-group-a = A 組
+newtab-sports-widget-group-b = B 組
+newtab-sports-widget-group-c = C 組
+newtab-sports-widget-group-d = D 組
+newtab-sports-widget-group-e = E 組
+newtab-sports-widget-group-f = F 組
+newtab-sports-widget-group-g = G 組
+newtab-sports-widget-group-h = H 組
+newtab-sports-widget-group-i = I 組
+newtab-sports-widget-group-j = J 組
+newtab-sports-widget-group-k = K 組
+newtab-sports-widget-group-l = L 組
 newtab-sports-widget-round-32 = 32 強賽
 newtab-sports-widget-round-16 = 16 強賽
 newtab-sports-widget-quarter-finals = 8 強賽
@@ -965,6 +1010,35 @@ newtab-sports-widget-third-place = 季軍
 newtab-sports-widget-runner-up = 亞軍
 newtab-sports-widget-champions = 冠軍
 newtab-sports-widget-world-cup-champions = 2026 年世界盃足球賽冠軍
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = 終場
+newtab-sports-widget-match-penalties = PK 大戰
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = 波士尼亞與赫塞哥維納
+newtab-sports-widget-team-name-label-civ =
+    .label = 象牙海岸
+newtab-sports-widget-team-name-label-cod =
+    .label = 剛果民主共和國
+newtab-sports-widget-team-name-label-eng =
+    .label = 英格蘭
+newtab-sports-widget-team-name-label-sco =
+    .label = 蘇格蘭
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = 挑選背景圖
+newtab-sports-widget-message-add-widgets-cta =
+    .label = 新增小工具
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = 探索小工具
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

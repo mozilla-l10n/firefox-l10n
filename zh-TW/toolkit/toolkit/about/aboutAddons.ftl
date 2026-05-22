@@ -115,6 +115,8 @@ legacy-extensions =
     .value = 傳統擴充套件
 legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。<label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
 private-browsing-description2 = { -brand-short-name } 將調整擴充套件於隱私瀏覽模式中運作的方式。預設情況下，任何新安裝至 { -brand-short-name } 的擴充套件都無法在隱私瀏覽視窗中執行。我們這樣做是為了確保您的隱私瀏覽過程更加私密；除非您在設定中允許，否則擴充套件將無法在隱私瀏覽模式中運作，也無法在該模式中存取您的線上行為。<label data-l10n-name="private-browsing-learn-more">了解如何管理擴充套件設定。</label>
+aboutaddons-sidebar =
+    .heading = 附加元件
 addon-category-discover = 推薦項目
 addon-category-discover-title =
     .title = 推薦項目
@@ -464,6 +466,10 @@ addon-permissions-empty = 此擴充套件並未要求任何權限
 addon-permissions-required = 核心功能需要下列權限：
 addon-permissions-optional = 選用功能需要下列權限：
 addon-permissions-learnmore = 了解權限的更多資訊
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = 某些權限受到您的組織管理。
 recommended-extensions-heading = 推薦的擴充套件
 recommended-themes-heading = 推薦的佈景主題
 # Variables:
