@@ -917,7 +917,7 @@ newtab-sports-widget-menu-key-dates = Datas clave
 newtab-sports-widget-menu-learn-more = Pro saper plus
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Retener schedas sur le Cuppa del mundo
-newtab-sports-widget-get-updates = Obtene actualisationes al vivo del matchs e plus.
+newtab-sports-widget-get-updates = Obtene actualisationes al vivo del matches e plus.
 newtab-sports-widget-view-schedule =
     .label = Vider agenda
 newtab-sports-widget-follow-teams =
@@ -966,7 +966,7 @@ newtab-sports-widget-watch-stream-free-paid = Gratuite e pagate
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Pagate
 # Note: provider only streams some matches, not the full tournament.
-newtab-sports-widget-watch-stream-select-games-only = Solo le incontros eligite
+newtab-sports-widget-watch-stream-select-games-only = Solo le jocos eligite
 # Heading for the list of streaming services available in the user’s country/region.
 newtab-sports-widget-watch-available-region = Disponibile in tu region
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -1094,9 +1094,13 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Lancea le Cuppa del mundo con nove fundos de schermo
+newtab-sports-widget-message-wallpapers-body = Apporta alcun energia de die de match a tu navigator pro le torneo.
 newtab-sports-widget-message-wallpapers-cta = Eliger fundo
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adder widgets
+newtab-sports-widget-message-day-in-play-title = Mantene tu die in joco con le widgets de  { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Seque le Cuppa del mundo, resta sur le activitate, tracia le tempore circum le mundo, e plus.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
 

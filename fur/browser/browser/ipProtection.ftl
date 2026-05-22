@@ -32,15 +32,70 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Sêstu suntune rêt Wi-Fi publiche? Prove la VPN integrade di { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra 5 posizions par platâ il lûc di dulà che tu ti conetis.
 ipprotection-feature-introduction-description-captive-portal = Navighe cuntune protezion in plui platant la tô posizion, ancje cun rêts Wi-Fi publichis.
 ipprotection-feature-introduction-button-primary = Sucessîf
 ipprotection-feature-introduction-button-secondary-not-now = No cumò
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
     .label = No cumò
 ipprotection-feature-introduction-button-secondary-no-thanks = No graciis
+ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
+    .label = No graciis
+ipprotection-feature-introduction-button-secondary-remove = Gjave VPN de sbare dai struments
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Gjave VPN de sbare dai struments
+
+## Site settings callout
+
+ipprotection-site-settings-callout-title = Sielç dulà doprâ la VPN
+ipprotection-site-settings-callout-subtitle = Disative la VPN par un specific sît e nô si visarìn la prossime volte che tu lu visitis.
+ipprotection-site-settings-callout-button = Capît
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Novitât: cambie la tô posizion
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> ti permet di sielzi tra 5 posizions di navigazion, opûr lasse a nô la sielte di chê plui svelte par te.
+ipprotection-location-selection-callout-primary-button = Provile
+ipprotection-location-selection-callout-secondary-button = Ignore
+
+## Panel
+
+# Also used for the callout shown in private browsing
+unauthenticated-vpn-title = Prove la VPN integrade di { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Plate la tô posizion</a> intant che tu navighis in { -brand-product-name }.
+unauthenticated-private-location-message = Jude a <a data-l10n-name="learn-more-vpn">tignî riservade la tô posizion</a> in { -brand-product-name }.
+unauthenticated-choose-location-message = Sielç tra 5 posizions o lasse a { -brand-product-name } la sielte di chê plui svelte.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Oten { $maxUsage } GB di VPN gratuits ogni mês.
+unauthenticated-get-started = Scomence
+unauthenticated-terms-of-service-privacy-notice = Continuant, tu acetis lis <a data-l10n-name="vpn-terms-of-service">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="vpn-privacy-notice">informative su la riservatece</a>.
+site-exclusion-toggle-enabled-1 =
+    .label = Dopre la VPN cun chest sît
+    .aria-label = La VPN e je ative par chest sît
+site-exclusion-toggle-disabled-1 =
+    .label = Dopre la VPN cun chest sît
+    .aria-label = La VPN e je disativade par chest sît
+site-exclusion-toggle-description = Il sît nol funzione? Prove a disativâ la VPN.
+ipprotection-settings-link =
+    .label = Impostazions
 
 ## Status card
 
+ipprotection-connection-status-connected = La VPN e je ative
+ipprotection-connection-status-disconnected = La VPN e je disativade
+ipprotection-connection-status-excluded = La VPN e je disativade par chest sît
+ipprotection-connection-status-connecting = Conession VPN in cors…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Disative VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Disative VPN dapardut
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Ative VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Daûr a impiâ…
 ipprotection-connection-status-excluded-1 = La VPN e je disativade par chest sît
     .aria-label = La VPN e je disativade par chest sît
 ipprotection-connection-status-connecting-1 = La VPN e je daûr a conetisi…
@@ -63,6 +118,26 @@ ipprotection-locations-subview-promo =
     .heading = Aumente la tô protezion cun { -mozilla-vpn-brand-name }
     .message = Sielç tra plui di 300 posizions e protêç dutis lis tôs aplicazions suntun massim di 5 dispositîfs.
 ipprotection-locations-subview-promo-button = Oten { -mozilla-vpn-brand-name }
+
+## VPN paused state
+
+upgrade-vpn-title = Oten ancjemò plui protezion, ancje fûr dal navigadôr.
+upgrade-vpn-description = Sielç la posizion de VPN, dopre la VPN su dutis lis tôs aplicazions e fin a 5 dispositîfs, e navighe in sigurece su dutis lis rêts — a cjase o su lis rêts Wi-Fi publichis.
+upgrade-vpn-button = Prove { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Impussibil conetisi ae VPN
+ipprotection-connection-status-generic-error-description = Torne prove ca di pôcs minûts.
+ipprotection-connection-status-generic-error-try-again = Torne prove plui tart.
+ipprotection-connection-status-network-error-title = Controle la conession a internet
+ipprotection-connection-status-network-error-description = Conetiti a Internet e prove a ativâ la VPN.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Tu stâs par rivâ al limit di utilizazion de VPN
+    .message = Chest mês ti restin { $usageLeft } GB di { $maxUsage } GB
 
 ## IP Protection bandwidth warning infobar
 

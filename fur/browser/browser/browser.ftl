@@ -1465,6 +1465,7 @@ reset-pbm-toolbar-button =
     .label = Termine session privade
     .tooltiptext = Termine session privade
 reset-pbm-panel-heading2 = Nete i dâts e scomence une gnove session privade?
+reset-pbm-panel-description2 = Cheste operazion e eliminarà la cronologjie, i cookies e ducj i altris dâts dai sîts cence sierâ il barcon privât.
 reset-pbm-panel-heading = Terminâ la session privade?
 reset-pbm-panel-description = Siere dutis lis schedis privade e elimine cronologjie, cookies e ducj i altris dâts dai sîts.
 reset-pbm-panel-always-ask-checkbox =
@@ -1473,10 +1474,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Anule
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Nete session privade
+    .accesskey = N
 reset-pbm-panel-confirm-button =
     .label = Elimine dâts de session
     .accesskey = d
 reset-pbm-panel-complete = Dâts de session privade eliminâts
+reset-pbm-toolbar-button2 =
+    .label = Nete session privade
+    .tooltiptext = Nete la session privade
 
 ## Autorefresh blocker
 
@@ -1720,8 +1727,22 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } al à consintût { $count } minadôrs di criptomonede
     }
 trustpanel-cryptominer-tab-list-header = Chescj sîts a stan cirint di fâti tirâ sù criptomonedis:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Âstu un account su chest sît?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } al à cjatât une violazion di dâts in chest sît tai ultins 12 mês. Verifiche se tu sês stât cjapât dentri.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Siere
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Invie scansion gratuite
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> spie blocade in chest sît
        *[other] <span data-l10n-name="count">{ $count }</span> spiis blocadis in chest sît
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Il sît someial no funzionâ?</strong> Torne cjame la pagjine par sbassâ pal moment la protezion da lis spiis.
+reduced-protection-infobar-reload-button = Torne cjame
+    .accesskey = r
+reduced-protection-infobar-never-show-button = No sta mostrâ plui
+    .accesskey = N

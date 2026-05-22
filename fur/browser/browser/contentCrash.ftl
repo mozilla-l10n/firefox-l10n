@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = No sta mostrâ di gnûf
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Al è presint un colàs resint che nol è stât segnalât
+       *[other] A son presints { $reportCount } colàs resints che no son stâts segnalâts
+    }

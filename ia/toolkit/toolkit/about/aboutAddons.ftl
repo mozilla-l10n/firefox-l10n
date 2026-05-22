@@ -476,6 +476,10 @@ addon-permissions-empty = Iste extension non require alcun permission
 addon-permissions-required = Permissiones necessari pro functionalitate essential:
 addon-permissions-optional = Permissiones facultative pro functionalitate additional:
 addon-permissions-learnmore = Saper plus sur le permissiones
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Alcun permissos debe esser gerite per tu organisation.
 recommended-extensions-heading = Extensiones recommendate
 recommended-themes-heading = Themas recommendate
 # Variables:
