@@ -303,6 +303,11 @@ main-context-menu-send-to-mobile-sign-in = Pro posílání panelů se přihlaste
 main-context-menu-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
 main-context-menu-send-to-mobile-connect-phone2 = Připojit svůj telefon
 main-context-menu-send-to-mobile-device-missing2 = Nevidíte své zařízení?
+main-context-menu-send-to-mobile-sign-in-from-link = Pro odeslání odkazu se přihlaste
+main-context-menu-send-to-mobile-sign-in-from-page = Pro odeslání stránky se přihlaste
+main-context-menu-send-to-mobile-connect-phone3 = Pro posílání panelů zařízení připojte
+main-context-menu-send-to-mobile-connect-phone-from-link = Pro odeslání odkazu zařízení připojte
+main-context-menu-send-to-mobile-connect-phone-from-page = Pro odeslání stránky zařízení připojte
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Povolit synchronizaci pro odeslání panelu

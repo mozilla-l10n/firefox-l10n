@@ -514,6 +514,8 @@ quickactions-cmd-update = aktualizace, aktualizovat
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Zobrazit zdrojový kód stránky
 quickactions-cmd-viewsource2 = zobrazit zdrojový kód, zdrojový kód, zdrojový kód stránky
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Otevřít { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

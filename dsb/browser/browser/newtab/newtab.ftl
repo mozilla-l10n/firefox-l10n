@@ -856,6 +856,9 @@ newtab-daily-briefing-card-timestamp = Pśed { $minutes } m zaktualizěrowany
 newtab-widget-message-title = Wóstańśo koncentrěrowany z lisćinami a zatwarjonym casowym měritkom
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Wót malsnych dopomnjeśow do wšednych nadawkowych lisćinow, koncentrěrujśo se na posejźenja, aby pśestawki pódlejšył – njepópušćajśo a buźćo zdypkom.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Fokus, wjedrowe pśedpowěsći a wěcej na jadnem městnje
+newtab-widget-message-focus-forecasts-body = Źaržćo swój źeń z asistentami { -brand-product-name } w běgu. Cytajśo wjedrowu pśedpowěsć, koncentrěrujśo se na swóje nadawki abo slědujśo casoju wokoło globusa.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -953,6 +956,27 @@ newtab-sports-widget-back-button =
     .aria-label = Slědk
 newtab-sports-widget-done-button =
     .label = Dokóńcony
+newtab-sports-widget-view-all =
+    .label = Wšykne pokazaś
+newtab-sports-widget-show-less =
+    .label = Mjenjej pokazaś
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Glědaś
+    .title = Glědaś
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Live glědaś
+    .title = Live glědaś
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Zacyniś
+    .title = Zacyniś
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Dermo
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Dermotna testowa wersija
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Dermotny a z płaśenim
 newtab-sports-widget-group-stage = Kupkowa faza
 newtab-sports-widget-round-32 = Koło z 32
 newtab-sports-widget-round-16 = Koło z 16

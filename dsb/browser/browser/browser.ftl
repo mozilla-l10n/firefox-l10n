@@ -470,6 +470,9 @@ quickactions-cmd-update = aktualizěrowaś
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Žrědłowy tekst boka pokazaś
 quickactions-cmd-viewsource2 = žrědło pokazaś, žrědło, žrědło boka
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } wócyniś
+quickactions-cmd-labs = lab, labs, eksperiment
 quickactions-cmd-viewsource = žrědło pokazaś, žrědło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
