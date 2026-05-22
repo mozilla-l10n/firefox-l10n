@@ -470,6 +470,9 @@ quickactions-cmd-update = 업데이트, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 페이지 소스 보기
 quickactions-cmd-viewsource2 = view source, source, page source, 소스 보기, 소스, 페이지 소스
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } 열기
+quickactions-cmd-labs = labs, experiment, 랩, 실험
 quickactions-cmd-viewsource = 소스 보기, 소스, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = 탭을 보내려면 동기화를 활성화하세요
 fxa-menu-send-to-mobile-connect-phone2 = 휴대폰 연결
 fxa-menu-send-to-mobile-device-missing2 = 사용자의 기기가 없나요?
+fxviewtabrow-send-to-mobile-not-verified = 계정이 확인되지 않음
+fxviewtabrow-send-to-mobile-verify-account = 계정 확인
 fxa-menu-send-to-mobile-turn-on-sync = 탭을 보내려면 동기화를 켜세요
 fxa-menu-send-to-mobile-connect-device = 탭을 보내려면 기기를 연결하세요
 # Variables:
