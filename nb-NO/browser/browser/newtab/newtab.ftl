@@ -1065,6 +1065,10 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-wallpapers-cta = Velg bakgrunnsbilde
 newtab-sports-widget-message-add-widgets-cta =
     .label = Legg til widgeter
+newtab-sports-widget-message-day-in-play-title = Hold dagen i gang med widgeter i { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Følg VM, hold fokus på oppgavene dine, følg tiden rundt om i verden og mer.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Utforsk widgeter
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
