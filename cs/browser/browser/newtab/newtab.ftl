@@ -1023,6 +1023,8 @@ newtab-sports-widget-group-g = Skupina G
 newtab-sports-widget-group-h = Skupina H
 newtab-sports-widget-group-i = Skupina I
 newtab-sports-widget-group-j = Skupina J
+newtab-sports-widget-group-k = Skupina K
+newtab-sports-widget-group-l = Skupina L
 newtab-sports-widget-round-32 = Nejlepších 32
 newtab-sports-widget-round-16 = Nejlepších 16
 newtab-sports-widget-quarter-finals = Čtvrtfinále
@@ -1060,6 +1062,31 @@ newtab-sports-widget-third-place = Třetí místo
 newtab-sports-widget-runner-up = Druhé místo
 newtab-sports-widget-champions = Vítěz
 newtab-sports-widget-world-cup-champions = Mistrovství světa ve fotbale 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Konec zápasu
+newtab-sports-widget-match-penalties = Penalty
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosna a Hercegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Pobřeží Slonoviny
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglie
+newtab-sports-widget-team-name-label-sco =
+    .label = Skotsko
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Zvolte si tapetu
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Přidat widgety
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
