@@ -851,7 +851,8 @@ newtab-widget-message-title = Оставайтесь в фокусе с помо
 # to-dos stands for "things to do".
 newtab-widget-message-copy = От быстрых напоминаний до ежедневных задач, от фокус-сессий до длительных перерывов - выполняйте задачи вовремя.
 # One spot refers to a dedicated section on new tab to manage and use widgets
-newtab-widget-message-focus-forecasts-title = Единое место для фокусировки, прогнозов и пр.
+newtab-widget-message-focus-forecasts-title = Единое место для фокусировки, прогнозов погоды и пр.
+newtab-widget-message-focus-forecasts-body = Пусть ваш день течёт с виджетами { -brand-product-name }. Проверяйте прогноз погоды, не отвлекайтесь от задачи или отслеживайте время в любой точке земного шара.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -946,7 +947,52 @@ newtab-sports-widget-back-button =
     .aria-label = Назад
 newtab-sports-widget-done-button =
     .label = Готово
+newtab-sports-widget-view-all =
+    .label = Просмотреть все
+newtab-sports-widget-show-less =
+    .label = Показать меньше
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Смотреть
+    .title = Смотреть эфир
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Смотреть эфир
+    .title = Смотреть эфир
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Закрыть
+    .title = Закрыть
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Бесплатно
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Бесплатный период
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Бесплатно и платно
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Платно
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Выбрать только игры
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Доступно в вашем регионе
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Другие регионы
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Открыть трансляцию
+    .title = Открыть трансляцию
 newtab-sports-widget-group-stage = Групповой этап
+newtab-sports-widget-group-a = Группа А
+newtab-sports-widget-group-b = Группа B
+newtab-sports-widget-group-c = Группа C
+newtab-sports-widget-group-d = Группа D
+newtab-sports-widget-group-e = Группа E
+newtab-sports-widget-group-f = Группа F
+newtab-sports-widget-group-g = Группа G
+newtab-sports-widget-group-h = Группа H
+newtab-sports-widget-group-i = Группа I
+newtab-sports-widget-group-j = Группа J
+newtab-sports-widget-group-k = Группа K
+newtab-sports-widget-group-l = Группа L
 newtab-sports-widget-round-32 = 1/16 финала
 newtab-sports-widget-round-16 = 1/8 финала
 newtab-sports-widget-quarter-finals = 1/4 финала
@@ -984,6 +1030,56 @@ newtab-sports-widget-third-place = Третье место
 newtab-sports-widget-runner-up = Второе место
 newtab-sports-widget-champions = Чемпионы
 newtab-sports-widget-world-cup-champions = Чемпионы ЧМ 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Полное время
+newtab-sports-widget-match-penalties = Пенальти
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } против { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) против { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Эфир: { $homeTeam }, { $homeScore } против { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } против { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } против { $awayTeam }, задержка
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } против { $awayTeam }, отложено
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } против { $awayTeam }, приостановлено
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } против { $awayTeam }, отмена
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
