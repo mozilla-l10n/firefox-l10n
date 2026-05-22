@@ -1114,6 +1114,9 @@ newtab-sports-widget-message-wallpapers-cta = Slězynowy wobraz wubraś
 newtab-sports-widget-message-add-widgets-cta =
     .label = Asistenty pśidaś
 newtab-sports-widget-message-day-in-play-title = Grajśo z asistentami { -brand-product-name } ceły źeń
+newtab-sports-widget-message-day-in-play-body = Slědujśo swětowemu mejstaŕstwoju, wóstańśo na nadawku, slědujśo casoju wokoło globusa a wěcej.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Asistenty wuslěźiś
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

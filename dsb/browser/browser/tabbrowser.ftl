@@ -417,6 +417,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Spórajśo rěch do swójich rejtarikow
 tab-groups-list-empty-description = Śěgniśo jaden rejtarik na drugi abo klikniśo z pšaweju tastu myški na rejtarik, aby organizěrował. Buźomy waše kupki how składowaś, aby se pózdźej lažčej namakaś dali.
 tab-groups-list-empty-button = Rejtarikowu kupku napóraś
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nowa kupka
 
 ## Open/saved tab group context menu
 

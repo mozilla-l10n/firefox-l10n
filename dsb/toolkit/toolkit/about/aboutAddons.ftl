@@ -119,6 +119,8 @@ private-browsing-description2 =
     { -brand-short-name } pśidawaśo, pó standarźe w priwatnych woknach njefunkcioněruju. Snaźkuli
     dowólujośo to w nastajenjach, rozšyrjenje w priwatnem modusu njefunkcioněrujo a njama pśistup k wašym
     aktiwitam online. Smy toś tu změnu cynili, aby waš priwatny modus priwatny wóstał. <label data-l10n-name="private-browsing-learn-more">Zgóńśo wěcej wó zastojanju nastajenjow rozšyrjenja.</label>
+aboutaddons-sidebar =
+    .heading = Dodanki
 addon-category-discover = Dopórucenja
 addon-category-discover-title =
     .title = Dopórucenja
@@ -482,6 +484,10 @@ addon-permissions-empty = Toś to rozšyrjenje se pšawa njepomina
 addon-permissions-required = Trjebne pšawa za jědrowu funkcionalnosć:
 addon-permissions-optional = Opcionalne pšawa za pśidanu funkcionalnosć:
 addon-permissions-learnmore = Dalšne informacije wó pšawach
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Někotare pšawa se wót wašeje organizacije zastoje.
 recommended-extensions-heading = Dopórucone rozšyrjenja
 recommended-themes-heading = Dopórucone drastwy
 # Variables:

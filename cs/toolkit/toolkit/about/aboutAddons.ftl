@@ -133,6 +133,8 @@ legacy-extensions-description =
 private-browsing-description2 =
     Fungování rozšíření pro aplikaci { -brand-short-name } se v anonymních oknech mění. Žádné nově nainstalované rozšíření, nebude ve výchozím nastavení v anonymních oknech fungovat, pokud mu to nepovolíte. Rozšíření tak nebudou mít bez vašeho vědomí přístup k tomu, co v anonymních oknech děláte.
     <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření</label>
+aboutaddons-sidebar =
+    .heading = Doplňky
 addon-category-discover = Doporučení
 addon-category-discover-title =
     .title = Doporučení
@@ -552,6 +554,10 @@ addon-permissions-empty = Toto rozšíření nevyžaduje žádná oprávnění.
 addon-permissions-required = Vyžadovaná oprávnění pro základní funkce:
 addon-permissions-optional = Volitelná oprávnění pro dodatečné funkce:
 addon-permissions-learnmore = Zjistit více o oprávněních
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Některá oprávnění jsou spravována vaší organizací.
 recommended-extensions-heading = Doporučená rozšíření
 recommended-themes-heading = Doporučené vzhledy
 # Variables:

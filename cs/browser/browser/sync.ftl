@@ -45,6 +45,10 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
 fxa-menu-send-to-mobile-connect-phone2 = Připojit svůj telefon
 fxa-menu-send-to-mobile-device-missing2 = Nevidíte své zařízení?
+fxviewtabrow-send-to-mobile-not-verified = Účet není ověřen
+fxviewtabrow-send-to-mobile-verify-account = Ověřte svůj účet
+fxa-menu-send-to-mobile-turn-on-sync = Pro odeslání panelů zapněte synchronizaci
+fxa-menu-send-to-mobile-connect-device = Pro posílání panelů zařízení připojte
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -74,6 +78,10 @@ sync-setup-verify-heading = Opravdu se chcete přihlásit k synchronizaci?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = K synchronizaci v tomto počítači byl dříve přihlášen jiný uživatel. Po přihlášení se záložky, hesla a další nastavení tohoto prohlížeče sloučí s účtem { $email }.
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Pro posílání panelů se přihlaste
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
