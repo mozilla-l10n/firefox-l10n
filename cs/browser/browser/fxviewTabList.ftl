@@ -80,4 +80,12 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Zapnout zvuk panelu
 fxviewtabrow-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
 fxviewtabrow-send-to-mobile-connect-phone2 = Připojit svůj telefon
+fxviewtabrow-send-to-mobile-connect-device = Pro posílání panelů zařízení připojte
 fxviewtabrow-send-to-mobile-device-missing2 = Nevidíte své zařízení?
+fxviewtabrow-send-to-mobile-not-verified = Účet není ověřen
+fxviewtabrow-send-to-mobile-verify-account = Ověřte svůj účet
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Pro posílání panelů se přihlaste
+fxviewtabrow-send-to-mobile-turn-on-sync = Pro odeslání panelů zapněte synchronizaci

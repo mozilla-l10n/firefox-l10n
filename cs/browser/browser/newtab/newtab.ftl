@@ -843,6 +843,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Nabídka widgetů
     .aria-label = Otevřít nabídku widgetů
+newtab-widget-add-widgets-button =
+    .aria-label = Přidat widget
+    .title = Přidat widget
 newtab-widget-section-menu-manage = Spravovat widgety
 newtab-widget-section-menu-hide-all = Skrýt widgety
 newtab-widget-section-menu-learn-more = Zjistit více
@@ -943,6 +946,7 @@ newtab-widget-timer-celebration-message-break = Jste připraveni se soustředit?
 ##
 
 newtab-sports-widget-menu-follow-teams = Sledujte týmy
+newtab-sports-widget-menu-view-schedule = Zobrazit rozpis zápasů
 newtab-sports-widget-menu-view-upcoming = Zobrazit nadcházející
 newtab-sports-widget-menu-view-results = Zobrazit výsledky
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -977,7 +981,45 @@ newtab-sports-widget-back-button =
     .aria-label = Zpět
 newtab-sports-widget-done-button =
     .label = Hotovo
+newtab-sports-widget-view-all =
+    .label = Zobrazit vše
+newtab-sports-widget-show-less =
+    .label = Zobrazit méně
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Sledovat
+    .title = Sledovat živě
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Sledovat živě
+    .title = Sledovat živě
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Zavřít
+    .title = Zavřít
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Zdarma
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Vyzkoušení zdarma
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Zdarma i placené
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Placené
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Dostupné ve vašem regionu
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Ostatní regiony
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Otevřít stream
+    .title = Otevřít stream
 newtab-sports-widget-group-stage = Skupinová fáze
+newtab-sports-widget-group-a = Skupina A
+newtab-sports-widget-group-b = Skupina B
+newtab-sports-widget-group-c = Skupina C
+newtab-sports-widget-group-d = Skupina D
+newtab-sports-widget-group-e = Skupina E
+newtab-sports-widget-group-f = Skupina F
+newtab-sports-widget-group-g = Skupina G
 newtab-sports-widget-round-32 = Nejlepších 32
 newtab-sports-widget-round-16 = Nejlepších 16
 newtab-sports-widget-quarter-finals = Čtvrtfinále

@@ -1079,10 +1079,10 @@ newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } přećiwo { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
-    .aria-label = { $homeTeam } přećiwo. { $awayTeam }, skomdźeny
+    .aria-label = { $homeTeam } přećiwo { $awayTeam }, skomdźeny
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
-    .aria-label = { $homeTeam } přećiwo. { $awayTeam }, wotsunjeny
+    .aria-label = { $homeTeam } přećiwo { $awayTeam }, wotsunjeny
 # An upcoming match row whose status is "suspended".
 newtab-sports-widget-match-aria-label-upcoming-suspended =
     .aria-label = { $homeTeam } přećiwo { $awayTeam }, wotprajeny
