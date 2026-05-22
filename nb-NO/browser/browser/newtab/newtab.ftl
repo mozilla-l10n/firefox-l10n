@@ -936,6 +936,21 @@ newtab-sports-widget-back-button =
     .aria-label = Tilbake
 newtab-sports-widget-done-button =
     .label = Ferdig
+newtab-sports-widget-show-less =
+    .label = Vis mindre
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Se
+    .title = Se direkte
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Se direkte
+    .title = Se direkte
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Lukk
+    .title = Lukk
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratis
 newtab-sports-widget-group-stage = Gruppespill
 newtab-sports-widget-round-32 = Sekstendedelsfinale
 newtab-sports-widget-round-16 = Åttendedelsfinale

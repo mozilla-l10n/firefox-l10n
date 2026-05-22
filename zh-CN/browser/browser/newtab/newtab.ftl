@@ -921,7 +921,38 @@ newtab-sports-widget-back-button =
     .aria-label = 返回
 newtab-sports-widget-done-button =
     .label = 完成
+newtab-sports-widget-view-all =
+    .label = 查看全部
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = 观看
+    .title = 观看直播
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = 观看直播
+    .title = 观看直播
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = 关闭
+    .title = 关闭
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = 免费
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = 免费试看
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = 其他地区
 newtab-sports-widget-group-stage = 小组赛阶段
+newtab-sports-widget-group-a = A 组
+newtab-sports-widget-group-b = B 组
+newtab-sports-widget-group-c = C 组
+newtab-sports-widget-group-d = D 组
+newtab-sports-widget-group-e = E 组
+newtab-sports-widget-group-f = F 组
+newtab-sports-widget-group-g = G 组
+newtab-sports-widget-group-h = H 组
+newtab-sports-widget-group-i = I 组
+newtab-sports-widget-group-j = J 组
+newtab-sports-widget-group-k = K 组
+newtab-sports-widget-group-l = L 组
 newtab-sports-widget-round-32 = 十六分之一决赛
 newtab-sports-widget-round-16 = 八分之一决赛
 newtab-sports-widget-quarter-finals = 四分之一决赛
@@ -959,6 +990,18 @@ newtab-sports-widget-third-place = 季军
 newtab-sports-widget-runner-up = 亚军
 newtab-sports-widget-champions = 冠军
 newtab-sports-widget-world-cup-champions = 2026 年世界杯冠军
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = 全场
+newtab-sports-widget-match-penalties = 点球决胜
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = 波黑队
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

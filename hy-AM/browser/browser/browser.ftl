@@ -1277,6 +1277,8 @@ panel-save-update-password = Գաղտնաբառ
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ավելին…
+menu-share-windows =
+    .label = Լրացուցիչ ընտրանքներ
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

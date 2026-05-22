@@ -82,6 +82,8 @@ fxviewtabrow-send-to-mobile-enable-sync2 = 启用同步以发送标签页
 fxviewtabrow-send-to-mobile-connect-phone2 = 连接您的手机
 fxviewtabrow-send-to-mobile-connect-device = 连接设备以发送标签页
 fxviewtabrow-send-to-mobile-device-missing2 = 看不到您的设备？
+fxviewtabrow-send-to-mobile-not-verified = 账户未验证
+fxviewtabrow-send-to-mobile-verify-account = 验证您的账户
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

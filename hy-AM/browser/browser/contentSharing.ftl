@@ -11,6 +11,11 @@ content-sharing-modal-more-tabs =
         [one] +{ $count } ավելին
        *[other] +{ $count } ավելին
     }
+content-sharing-tabs-title =
+    { $count ->
+        [one] { $count } ներդիր
+       *[other] { $count } ներդիրներ
+    }
 content-sharing-modal-view-page =
     .label = Դիտել էջը
 content-sharing-modal-copy-link =
