@@ -848,6 +848,8 @@ newtab-daily-briefing-card-timestamp = Actualizado hace { $minutes }m
 newtab-widget-message-title = Mantén la concentración con listas y un temporizador incorporado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de concentración y descansos para estirarse, mantén la concentración en tus tareas y a tiempo.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un único lugar para información clave, pronósticos y mucho más.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -939,7 +941,44 @@ newtab-sports-widget-back-button =
     .aria-label = Atrás
 newtab-sports-widget-done-button =
     .label = Hecho
+newtab-sports-widget-view-all =
+    .label = Ver todos
+newtab-sports-widget-show-less =
+    .label = Mostrar menos
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Ver
+    .title = Ver en vivo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Ver en vivo
+    .title = Ver en vivo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Cerrar
+    .title = Cerrar
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratis
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Prueba gratuita
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratis y de pago
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = De pago
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Solo partidos seleccionados
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponible en tu región.
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Otras regiones
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Abrir transmisión
+    .title = Abrir transmisión
 newtab-sports-widget-group-stage = Fase de grupos
+newtab-sports-widget-group-a = Grupo A
+newtab-sports-widget-group-b = Grupo B
+newtab-sports-widget-group-c = Grupo C
+newtab-sports-widget-group-d = Grupo D
 newtab-sports-widget-round-32 = 16avos de final
 newtab-sports-widget-round-16 = Octavos de final
 newtab-sports-widget-quarter-finals = Cuartos de final
