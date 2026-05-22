@@ -62,3 +62,11 @@ webauthn-block = 阻止
     .accesskey = B
 webauthn-continue = 继续
     .accesskey = n
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } 想为 { $rpId } 创建通行密钥。
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } 想使用 { $rpId } 的通行密钥。
