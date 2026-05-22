@@ -848,6 +848,9 @@ newtab-daily-briefing-card-timestamp = { $minutes } 分鐘前更新
 newtab-widget-message-title = 使用清單與內建的計時器，讓您保持專注
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 從快速提醒到每日待辦事項，或是在專注時間之後休息一下伸伸懶腰，讓您及時完成工作。
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = 在同一個位置專注、獲得預報與更多資訊
+newtab-widget-message-focus-forecasts-body = 使用 { -brand-product-name } 小工具讓您每天都能保持流暢。確認天氣、關注工作，或確認各地時間。
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1022,12 +1025,44 @@ newtab-sports-widget-match-penalties = PK 大戰
 ##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
 ##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
 
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }，{ $homeScore } 分，對上 { $awayTeam }，{ $awayScore } 分
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }，{ $homeScore } 分（罰球得 { $homePenalty } 分），對上 { $awayTeam }，{ $awayScore } 分（罰球得 { $awayPenalty } 分）
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = 進行中：{ $homeTeam }，{ $homeScore } 分，對上 { $awayTeam }，{ $awayScore } 分
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } vs. { $awayTeam }，{ DATETIME($date, day: "numeric", month: "long") } { DATETIME($date, hour: "numeric", minute: "numeric") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } vs. { $awayTeam }，延後開賽
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } vs. { $awayTeam }，延期
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vs. { $awayTeam }，比賽暫停
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vs. { $awayTeam }，取消
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
@@ -1050,6 +1085,8 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-wallpapers-cta = 挑選背景圖
 newtab-sports-widget-message-add-widgets-cta =
     .label = 新增小工具
+newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 小工具隨時關注最新足球賽事
+newtab-sports-widget-message-day-in-play-body = 關注足球世界盃，同時專注工作、追蹤各地時間與更多功能。
 newtab-sports-widget-message-explore-widgets-cta =
     .label = 探索小工具
 
