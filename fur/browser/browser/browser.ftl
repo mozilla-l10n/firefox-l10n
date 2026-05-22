@@ -470,6 +470,8 @@ quickactions-cmd-update = inzorne
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Viôt codiç sorzint de pagjine
 quickactions-cmd-viewsource2 = visualize sorzint, sorzint, sorzint pagjine
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Vierç { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = visualize sorzint, sorzint
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
