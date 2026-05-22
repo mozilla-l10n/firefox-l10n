@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Synchronisation zum Senden eines Tabs aktivieren
 fxa-menu-send-to-mobile-connect-phone2 = Verbinden Sie Ihr Telefon
 fxa-menu-send-to-mobile-device-missing2 = Sie sehen Ihr Gerät nicht?
+fxviewtabrow-send-to-mobile-not-verified = Konto nicht verifiziert
+fxviewtabrow-send-to-mobile-verify-account = Verifizieren Sie Ihr Konto
 fxa-menu-send-to-mobile-turn-on-sync = Synchronisation zum Senden von Tabs aktivieren
 fxa-menu-send-to-mobile-connect-device = Verbinden Sie ein Gerät, um Tabs zu senden
 # Variables:

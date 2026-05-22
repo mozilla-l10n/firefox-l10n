@@ -410,10 +410,19 @@ quickactions-cmd-help = agiudu, suportu
 # Opens the devtools web inspector
 quickactions-inspector2 = Aberis is ainas de isvilupu
 quickactions-cmd-inspector2 = analizadore, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = biblioteca
+quickactions-library = Aberi sa biblioteca
 quickactions-cmd-inspector = analizadore, devtools
 # Opens about:logins
 quickactions-logins2 = Gesti is craes
 quickactions-cmd-logins = credentziales, craes
+# Mutes all tabs playing audio
+quickactions-mute = Pone is ischedas chi reproduent àudio a sa muda
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silèntziu, a sa muda, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gesti is plugins
 quickactions-cmd-plugins = plugins
@@ -457,6 +466,8 @@ quickactions-cmd-update = atualiza
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visualiza su còdighe de sa pàgina
 quickactions-cmd-viewsource2 = Ammustra su còdighe de orìgine, orìgine, orìgine de sa pàgina
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Aberi { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = ammustra su còdighe, còdighe
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -981,6 +992,7 @@ urlbar-searchmode-popup-one-off-header = Custa borta chirca cun:
 # reset after submitting.
 urlbar-searchmode-popup-header = Chirca cun:
 urlbar-searchmode-popup-search-settings-panelitem = Cunfiguratzione de chirca
+urlbar-searchmode-popup-settings-panelitem = Cunfiguratzione
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -996,6 +1008,18 @@ urlbar-result-action-switch-to-tabgroup = Passa a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Aberi { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Aberi in un’ischeda noa
+    .accesskey = w
+urlbar-view-context-menu-open-in-window =
+    .label = Aberi in una ventana noa
+    .accesskey = v
+urlbar-view-context-menu-open-in-private-window =
+    .label = Aberi in una ventana privada noa
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
@@ -1220,6 +1244,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Ischedas sincronizadas
     .tooltiptext = Ammustra ischedas dae àteros dispositivos
+toolbar-button-send-tab =
+    .label = Imbia s’ischeda
+    .tooltiptext = Imbia s’ischeda atuale a un’àteru dispositivu
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1228,6 +1255,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Cumpartzi
     .tooltiptext = Cumpartzi custa pàgina
+toolbar-button-tab-groups =
+    .label = Grupos de ischedas
+    .tooltiptext = Ammustra is grupos de ischedas
 
 ## EME notification panel
 
@@ -1247,6 +1277,8 @@ panel-save-update-password = Crae
 # "More" item in macOS share menu
 menu-share-more =
     .label = Àteru...
+menu-share-windows =
+    .label = Àteras optziones
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

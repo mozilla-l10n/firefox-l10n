@@ -368,6 +368,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Räumen Sie Ihre Tabs auf
 tab-groups-list-empty-description = Ziehen Sie einen Tab auf einen anderen, oder klicken Sie mit der rechten Maustaste auf einen Tab, um ihn zu organisieren. Ihre Gruppen werden hier gespeichert, damit sie später leicht zu finden sind.
 tab-groups-list-empty-button = Eine Tab-Gruppe erstellen
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Neue Tab-Gruppe
 
 ## Open/saved tab group context menu
 

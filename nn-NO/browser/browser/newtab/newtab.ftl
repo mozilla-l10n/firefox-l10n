@@ -853,6 +853,7 @@ newtab-widget-message-title = Hald fokus med lister og ein innebygd nedteljar
 newtab-widget-message-copy = Frå kjappe påminningar til daglege gjeremål, fokuserte arbeidsøkter til strekkpausar — hald deg til oppgåva og tidsplanen.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Éin stad for fokus, vêrmeldingar og meir
+newtab-widget-message-focus-forecasts-body = Hald flyten gjennom dagen med widgetar i { -brand-product-name }. Sjekk vêrmeldinga, hald fokus på oppgåvene dine eller følg tida rundt om i verda.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1042,6 +1043,8 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-cta = Vel bakgrunnsbilde
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Utforsk widgetar
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

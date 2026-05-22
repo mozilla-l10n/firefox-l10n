@@ -119,6 +119,8 @@ private-browsing-description2 =
     Neu in { -brand-short-name } installierte Erweiterungen werden standardmäßig in privaten Fenstern nicht ausgeführt und haben keinen Zugriff auf die Online-Aktivitäten in diesen, außer die Erweiterung wird in den Einstellungen für die Verwendung im Privaten Modus freigegeben.
     Diese Änderung dient Ihrem Datenschutz im Privaten Modus.
     <label data-l10n-name="private-browsing-learn-more">Weitere Informationen zur Verwaltung der Erweiterungseinstellungen</label>
+aboutaddons-sidebar =
+    .heading = Erweiterungen
 addon-category-discover = Empfehlungen
 addon-category-discover-title =
     .title = Empfehlungen
@@ -488,6 +490,10 @@ addon-permissions-empty = Diese Erweiterung benötigt keine Berechtigungen.
 addon-permissions-required = Erforderliche Berechtigungen für die Kernfunktionalität:
 addon-permissions-optional = Optionale Berechtigungen für zusätzliche Funktionalität:
 addon-permissions-learnmore = Weitere Informationen zu Berechtigungen
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Einige Berechtigungen werden von Ihrer Organisation verwaltet.
 recommended-extensions-heading = Empfohlene Erweiterungen
 recommended-themes-heading = Empfohlene Themes
 # Variables:

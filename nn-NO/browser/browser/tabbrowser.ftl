@@ -365,6 +365,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Rydd opp i fanene dine
 tab-groups-list-empty-description = Dra ei fane over ei anna eller høgreklikk på ei fane for å starte organisering. Vi vil lagre gruppene dine her slik at dei er lette å finne att seinare.
 tab-groups-list-empty-button = Opprett ei fanegruppe
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Ny gruppe
 
 ## Open/saved tab group context menu
 

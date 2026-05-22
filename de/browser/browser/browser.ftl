@@ -470,6 +470,9 @@ quickactions-cmd-update = Aktualisieren
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Seitenquelltext anzeigen
 quickactions-cmd-viewsource2 = Quelltext anzeigen, Quelltext, Seitenquelltext
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } öffnen
+quickactions-cmd-labs = Labs, Experiment, Experimente
 quickactions-cmd-viewsource = Quelltext anzeigen, Quelltext
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

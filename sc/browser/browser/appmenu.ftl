@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Ventana privada noa
 appmenuitem-history =
     .label = Cronologia
+appmenuitem-tab-groups =
+    .label = Grupos de ischedas
 appmenuitem-downloads =
     .label = Iscarrigamentos
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personaliza sa barra de ainas...
+appmenu-abouttranslations =
+    .label = Tradue…
 appmenu-developer-tools-subheader = Istrumentos de su navigadore
 appmenu-developer-tools-extensions =
     .label = Estensiones pro s'isvilupu

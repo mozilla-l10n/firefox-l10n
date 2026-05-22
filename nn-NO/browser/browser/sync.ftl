@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Slå på synkronisering for å sende ei fane
 fxa-menu-send-to-mobile-connect-phone2 = Kople til telefonen din
 fxa-menu-send-to-mobile-device-missing2 = Ser du ikkje eininga di?
+fxviewtabrow-send-to-mobile-not-verified = Konto ikkje stadfesta
+fxviewtabrow-send-to-mobile-verify-account = Stadfest kontoen din
 fxa-menu-send-to-mobile-turn-on-sync = Slå på synkronisering for å sende faner
 fxa-menu-send-to-mobile-connect-device = Kople til ei eining for å sende faner
 # Variables:
