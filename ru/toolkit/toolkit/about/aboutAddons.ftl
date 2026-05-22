@@ -120,6 +120,8 @@ private-browsing-description2 =
     расширение не будет работать в приватном режиме и не будет иметь доступа к вашей активности в Интернете.
     Мы внесли это изменение, чтобы сделать ваш приватный режим по-настоящему приватным.
     <label data-l10n-name="private-browsing-learn-more">Узнайте, как управлять настройками расширений.</label>
+aboutaddons-sidebar =
+    .heading = Дополнения
 addon-category-discover = Рекомендации
 addon-category-discover-title =
     .title = Рекомендации
@@ -487,6 +489,10 @@ addon-permissions-empty = Это расширение не требует доп
 addon-permissions-required = Необходимые разрешения для основных функций:
 addon-permissions-optional = Необязательные разрешения для дополнительных функций:
 addon-permissions-learnmore = Узнать больше о разрешениях
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Некоторыми разрешениями управляет ваша организация.
 recommended-extensions-heading = Рекомендуемые расширения
 recommended-themes-heading = Рекомендуемые темы
 # Variables:

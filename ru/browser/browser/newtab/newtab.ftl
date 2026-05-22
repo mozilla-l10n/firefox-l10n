@@ -1081,6 +1081,34 @@ newtab-sports-widget-match-aria-label-upcoming-suspended =
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } против { $awayTeam }, отмена
 
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Босния и Герцеговина
+newtab-sports-widget-team-name-label-civ =
+    .label = Кот-д'Ивуар
+newtab-sports-widget-team-name-label-cod =
+    .label = ДР Конго
+newtab-sports-widget-team-name-label-eng =
+    .label = Англия
+newtab-sports-widget-team-name-label-sco =
+    .label = Шотландия
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Начните ЧМ с новых обоев
+newtab-sports-widget-message-wallpapers-body = Внесите немного энергии игрового дня в свой браузер для этого турнира.
+newtab-sports-widget-message-wallpapers-cta = Выберите обои
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Добавить виджеты
+newtab-sports-widget-message-day-in-play-title = Проводите день с игрой с помощью виджетов { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Следите за ЧМ, концентрируйтесь на задачах, отслеживайте время в любой точке земного шара и пр.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Ознакомьтесь с виджетами
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with

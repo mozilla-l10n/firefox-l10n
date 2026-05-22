@@ -400,6 +400,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Приведите в порядок свои вкладки
 tab-groups-list-empty-description = Перетащите одну вкладку на другую или щёлкните по вкладке правой кнопкой мыши, чтобы начать организовывать. Мы будем сохранять ваши группы здесь, чтобы их было легко найти позже.
 tab-groups-list-empty-button = Создать группу вкладок
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Новая группа
 
 ## Open/saved tab group context menu
 

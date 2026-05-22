@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Generative AI (GenAI) Settings section
+
+genai-settings-chat-chatgpt-links = O tibab ChatGPT e asantit <a data-l10n-name="link1">Divizoù Arver<a data-l10n-name="link1"> ha <a data-l10n-name="link2">Reolennoù a-fet buhez prevez</a> OpenAI.
+
 ## Chatbot menu shortcuts
 
 # $provider (string) - name of the provider

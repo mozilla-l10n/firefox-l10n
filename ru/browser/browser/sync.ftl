@@ -43,6 +43,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Включить синхронизацию для отправки вкладки
 fxa-menu-send-to-mobile-connect-phone2 = Подключите ваш телефон
 fxa-menu-send-to-mobile-device-missing2 = Не видите ваше устройство?
+fxviewtabrow-send-to-mobile-not-verified = Аккаунт не подтверждён
+fxviewtabrow-send-to-mobile-verify-account = Подтвердите свой аккаунт
 fxa-menu-send-to-mobile-turn-on-sync = Включите синхронизацию для отправки вкладок
 fxa-menu-send-to-mobile-connect-device = Подключите устройство для отправки вкладок
 # Variables:

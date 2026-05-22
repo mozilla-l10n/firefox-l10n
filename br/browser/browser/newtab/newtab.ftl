@@ -475,6 +475,7 @@ newtab-report-submit = Kas
 newtab-widget-lists-label-new =
     .label = Nevez
 newtab-widget-lists-menu-create = Krouiñ ur roll nevez
+newtab-widget-lists-input-menu-open-link = Digeriñ an ere
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Roll nevez
