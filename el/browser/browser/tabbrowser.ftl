@@ -363,6 +363,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = Τακτοποιήστε τις καρτέλες σας
+tab-groups-list-empty-description = Σύρετε μία καρτέλα πάνω σε μια άλλη ή κάντε δεξί κλικ σε μια καρτέλα για να ξεκινήσετε την οργάνωση. Θα αποθηκεύσουμε τις ομάδες σας εδώ για εύκολη εύρεση αργότερα.
 tab-groups-list-empty-button = Δημιουργία ομάδας καρτελών
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Νέα ομάδα
