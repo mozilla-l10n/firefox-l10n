@@ -470,6 +470,9 @@ quickactions-cmd-update = ενημέρωση, αναβάθμιση
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Προβολή πηγαίου κώδικα σελίδας
 quickactions-cmd-viewsource2 = προβολή πηγής, πηγή, πηγή σελίδας
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Άνοιγμα του { -firefoxlabs-brand-name }
+quickactions-cmd-labs = πείραμα, πειράματα, εργαστήριο, εργαστήρια, lab, labs, experiment
 quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας, πηγή
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
