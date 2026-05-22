@@ -77,7 +77,7 @@ bottomLinks-privacy = Personvernpraksis
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
 #   $bits (Number): bits of the architecture (32 or 64)
-aboutDialog-version = { $version } ({ $bits }-bitar)
+aboutDialog-version = { $version } ({ $bits }-bit)
 # Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
 # Variables:
 #   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1

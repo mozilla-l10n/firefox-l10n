@@ -1113,6 +1113,8 @@ newtab-sports-widget-message-wallpapers-body = Přinjesće atmosferu hrajneho dn
 newtab-sports-widget-message-wallpapers-cta = Pozadkowy wobraz wubrać
 newtab-sports-widget-message-add-widgets-cta =
     .label = Asistenty přidać
+newtab-sports-widget-message-day-in-play-title = Hrajće z asistentami { -brand-product-name } cyły dźeń
+newtab-sports-widget-message-day-in-play-body = Slědujće swětowemu mišterstwu, wostańće na nadawku, slědujće časej dokoławokoło globusa a wjace
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Asistenty wuslědźić
 
