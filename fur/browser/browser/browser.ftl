@@ -472,6 +472,7 @@ quickactions-viewsource2 = Viôt codiç sorzint de pagjine
 quickactions-cmd-viewsource2 = visualize sorzint, sorzint, sorzint pagjine
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Vierç { -firefoxlabs-brand-name }
+quickactions-cmd-labs = lab, labs, esperiment, esperiments
 quickactions-cmd-viewsource = visualize sorzint, sorzint
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1111,6 +1112,9 @@ fullscreen-warning-no-domain = Chest document al è cumò a plen visôr
 fullscreen-exit-button = Jes de modalitât plen visôr (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Jes de modalitât plen visôr (esc)
+fullscreen-keyboardlock-exit-button = Jes de modalitât plen visôr (ten fracât Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Jes de modalitât plen visôr (ten fracât esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1226,6 +1230,18 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Passwords
     .tooltiptext = Viôt e gjetìs lis tôs passwords salvadis
+qrcode-panel-error =
+    .message = Impussibil gjenerâ il codiç QR. Torne prove.
+qrcode-copy-button =
+    .label = Copie
+qrcode-copy-success =
+    .message = Codiç QR copiât intes notis.
+qrcode-copy-error =
+    .message = Impussibil copiâ il codiç QR.
+qrcode-save-button =
+    .label = Salve
+qrcode-save-success =
+    .message = Codiç QR salvât.
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1244,6 +1260,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Gnûf barcon privât
     .tooltiptext = Viârç un gnûf barcon di navigazion privade ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Condivît
+    .tooltiptext = Condivît la pagjine
 
 ## EME notification panel
 

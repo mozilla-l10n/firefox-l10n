@@ -968,6 +968,10 @@ newtab-sports-widget-watch-stream-select-games-only = Bare utvalgte kamper
 newtab-sports-widget-watch-available-region = Tilgjengelig i din region
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Andre regioner
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Åpne strøm
+    .title = Åpne strøm
 newtab-sports-widget-group-stage = Gruppespill
 newtab-sports-widget-group-a = Gruppe A
 newtab-sports-widget-group-b = Gruppe B
@@ -1077,6 +1081,8 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bosnia og Herzegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Elfenbenskysten
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Kongo
 newtab-sports-widget-team-name-label-eng =
     .label = England
 newtab-sports-widget-team-name-label-sco =
@@ -1085,6 +1091,8 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Spark i gang VM med nye bakgrunnsbilder
+newtab-sports-widget-message-wallpapers-body = Gi nettleseren litt kampstemning under turneringen.
 newtab-sports-widget-message-wallpapers-cta = Velg bakgrunnsbilde
 newtab-sports-widget-message-add-widgets-cta =
     .label = Legg til widgeter
