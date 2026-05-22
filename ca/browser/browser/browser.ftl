@@ -471,7 +471,7 @@ quickactions-cmd-update = actualitzar
 quickactions-viewsource2 = Codi font de la pàgina
 quickactions-cmd-viewsource2 = mostra font, mostrar font, veure font, font, codi font, font de la pàgina
 # Opens about:preferences:experimental (Firefox Labs)
-quickactions-labs = Obre el { -firefoxview-brand-name }
+quickactions-labs = Obre el { -firefoxlabs-brand-name }
 quickactions-cmd-labs = labs, experiment
 quickactions-cmd-viewsource = mostra codi font, codi font
 # Tooltip text for the help button shown in the result.

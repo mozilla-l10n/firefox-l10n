@@ -968,6 +968,16 @@ newtab-sports-widget-watch-stream-free-trial = Gratis provperiod
 newtab-sports-widget-watch-stream-free-paid = Gratis och betald
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Betalt
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Endast utvalda spel
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Tillgänglig i din region
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Andra regioner
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Öppna strömning
+    .title = Öppna strömning
 newtab-sports-widget-group-stage = Gruppspel
 newtab-sports-widget-group-a = Grupp A
 newtab-sports-widget-group-b = Grupp B
@@ -1061,10 +1071,7 @@ newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } mot { $awayTeam }, försenad
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
-    .aria-label = { $homeTeam } mot { $awayTeam }, skjutna
-# An upcoming match row whose status is "suspended".
-newtab-sports-widget-match-aria-label-upcoming-suspended =
-    .aria-label = { $homeTeam } mot { $awayTeam }, avstängda
+    .aria-label = { $homeTeam } mot { $awayTeam }, uppskjuten
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } mot { $awayTeam }, avbruten
@@ -1087,7 +1094,7 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
-newtab-sports-widget-message-wallpapers-title = Sparka igång världscupen med nya bakgrundsbilder
+newtab-sports-widget-message-wallpapers-title = Sparka igång VM med nya bakgrundsbilder
 newtab-sports-widget-message-wallpapers-body = Ta med lite energi till din webbläsare under tävlingen.
 newtab-sports-widget-message-wallpapers-cta = Välj bakgrundsbild
 newtab-sports-widget-message-add-widgets-cta =

@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-chatgpt-links = O tibab ChatGPT e asantit <a data-l10n-name="link1">Divizoù Arver<a data-l10n-name="link1"> ha <a data-l10n-name="link2">Reolennoù a-fet buhez prevez</a> OpenAI.
+genai-settings-chat-chatgpt-links = O tibab ChatGPT e asantit <a data-l10n-name="link1">Divizoù Arver</a> ha <a data-l10n-name="link2">Reolennoù a-fet buhez prevez</a> OpenAI.
 
 ## Chatbot menu shortcuts
 

@@ -1055,10 +1055,10 @@ newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } 대 { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
-    .aria-label = { $homeTeam } 대 { $wayTeam }, 지연됨
+    .aria-label = { $homeTeam } 대 { $awayTeam }, 지연됨
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
-    .aria-label = { $homeTeam } 대 { $wayTeam }, 연기됨
+    .aria-label = { $homeTeam } 대 { $awayTeam }, 연기됨
 # An upcoming match row whose status is "suspended".
 newtab-sports-widget-match-aria-label-upcoming-suspended =
     .aria-label = { $homeTeam } 대 { $awayTeam }, 일시 중단됨
