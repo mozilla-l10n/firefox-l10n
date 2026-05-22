@@ -1072,6 +1072,9 @@ newtab-sports-widget-match-aria-label-upcoming-delayed =
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } mot { $awayTeam }, uppskjuten
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } mot { $awayTeam }, avstängd
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } mot { $awayTeam }, avbruten
@@ -1099,8 +1102,8 @@ newtab-sports-widget-message-wallpapers-body = Ta med lite energi till din webbl
 newtab-sports-widget-message-wallpapers-cta = Välj bakgrundsbild
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lägg till widgetar
-newtab-sports-widget-message-day-in-play-title = Hjälp din dag med { -brand-product-name } widgets
-newtab-sports-widget-message-day-in-play-body = Följ världscupen, följ med saker, spåra tiden runt om i världen och mer.
+newtab-sports-widget-message-day-in-play-title = Håll igång dagen med { -brand-product-name } widgets
+newtab-sports-widget-message-day-in-play-body = Följ VM, håll fokus, registrera tiden runt om i världen och mycket mer.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Utforska widgetar
 
