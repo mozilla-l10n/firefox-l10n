@@ -96,6 +96,10 @@ ipprotection-button-turn-vpn-off-excluded-site = Disative VPN dapardut
 ipprotection-button-turn-vpn-on = Ative VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Daûr a impiâ…
+ipprotection-connection-status-connected-1 = La VPN e je ative
+    .aria-label = La VPN e je ative
+ipprotection-connection-status-disconnected-1 = La VPN e je disativade
+    .aria-label = La VPN e je disativade
 ipprotection-connection-status-excluded-1 = La VPN e je disativade par chest sît
     .aria-label = La VPN e je disativade par chest sît
 ipprotection-connection-status-connecting-1 = La VPN e je daûr a conetisi…
@@ -103,6 +107,10 @@ ipprotection-connection-status-connecting-1 = La VPN e je daûr a conetisi…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Posizion: conseade
+ipprotection-recommended-location-description = { -brand-product-name } cjate il lûc plui svelt
 ipprotection-recommended-location-badge = GNOVIS
 # Variables
 #   $country (string) - The country selected for the VPN server location
@@ -133,6 +141,7 @@ ipprotection-connection-status-generic-error-try-again = Torne prove plui tart.
 ipprotection-connection-status-network-error-title = Controle la conession a internet
 ipprotection-connection-status-network-error-description = Conetiti a Internet e prove a ativâ la VPN.
 ipprotection-connection-status-blocked-error-title = La VPN no je disponibile
+ipprotection-connection-status-blocked-error-description = Lis normativis locâls nus impedissin di dâ un servizi VPN in cheste zone. <a data-l10n-name="learn-more-link">Plui informazions</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -148,9 +157,18 @@ ipprotection-message-bandwidth-warning-mb =
 ipprotection-message-continuous-onboarding-intro = Ative la VPN par platâ la tô posizion e zontâ un altri nivel criptografic ae tô navigazion.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN in mût che si ativi</a> ogni volte che tu vierzis { -brand-short-name }, cussì di zontâ un nivel in plui di protezion.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si visarà i sîts dulà che tu âs decidût di doprâ la VPN. Tu puedis inzornâju in ogni moment tes <a data-l10n-name="setting-link">impostazions</a>.
+confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN e je disative par chest sît
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Ti plasie la VPN integrade? Cun { -mozilla-vpn-brand-name } tu puedis vê une protezion in plui, ancje fûr di { -brand-product-name }
+ipprotection-bandwidth-upgrade-text = Sielç une localitât pe VPN e zonte la protezion pes tôs aplicazions fin a 5 dispositîfs, nol impuarte se tu sês a cjase o suntune rêt Wi-Fi publiche.
 
 ## IP Protection bandwidth warning infobar
 
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Tu stâs par rivâ al limit di utilizazion de VPN.</strong> Ti restin ancjemò { $usageLeft } GB. Il cont dai dâts al vignarà ristabilît e al tornarà a scomençâ al inizi dal prossim mês.
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Tu stâs par finî i dâts de VPN.</strong> Tu âs ancjemò { $usageLeft } GB. Cuant che tu finissis il trafic a tô disposizion, la VPN a ven suspindude fin al prin dal prossim mês.
