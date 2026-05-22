@@ -1082,6 +1082,8 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = 使用新的背景圖片，為世足賽拉開序幕
+newtab-sports-widget-message-wallpapers-body = 將賽事的活力帶進您的瀏覽器。
 newtab-sports-widget-message-wallpapers-cta = 挑選背景圖
 newtab-sports-widget-message-add-widgets-cta =
     .label = 新增小工具
