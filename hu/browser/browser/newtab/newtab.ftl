@@ -790,6 +790,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Kisalkalmazások
 newtab-widget-menu-hide = Kisalkalmazás elrejtése
 newtab-widget-menu-change-size = Méret módosítása
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Áthelyezés
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Balra
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Jobbra
 newtab-widget-size-small = Kicsi
 newtab-widget-size-medium = Közepes
 newtab-widget-size-large = Nagy
@@ -806,6 +815,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Kisalkalmazások menü
     .aria-label = Kisalkalmazások menü megnyitása
+newtab-widget-add-widgets-button =
+    .aria-label = Kisalkalmazás hozzáadása
+    .title = Kisalkalmazás hozzáadása
 newtab-widget-section-menu-manage = Kisalkalmazások kezelése
 newtab-widget-section-menu-hide-all = Kisalkalmazások elrejtése
 newtab-widget-section-menu-learn-more = További tudnivalók
@@ -964,6 +976,15 @@ newtab-sports-widget-third-place = Harmadik helyezett
 newtab-sports-widget-runner-up = Második helyezett
 newtab-sports-widget-champions = Bajnokok
 newtab-sports-widget-world-cup-champions = A 2026-os világbajnokság bajnokai
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Kisalkalmazások hozzáadása
+newtab-sports-widget-message-day-in-play-title = Maradjon játékban egész nap a { -brand-product-name } kisalkalmazásaival
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Kisalkalmazások felfedezése
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

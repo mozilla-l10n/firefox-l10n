@@ -470,6 +470,9 @@ quickactions-cmd-update = frissítés
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Oldal forrásának megtekintése
 quickactions-cmd-viewsource2 = source, forrás megtekintése, forrás, oldal forrása
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = A { -firefoxlabs-brand-name } megnyitása
+quickactions-cmd-labs = labor, kísérlet
 quickactions-cmd-viewsource = forrás megtekintése, forrás, forráskód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -26,3 +26,15 @@ content-sharing-modal-sign-in =
     .label = Bejelentkezés a hivatkozások megosztásához
 content-sharing-modal-title = Ossza meg ezt a hivatkozásgyűjteményt bármely böngészőn
 content-sharing-modal-description = Hozzon létre egy könnyen megosztható nyilvános oldalt ezeknek a hivatkozásoknak. A létrehozás után az oldal nem szerkeszthető vagy törölhető, és 7 nap múlva lejár.
+content-sharing-modal-policy = A megosztással elfogadja az <a data-l10n-name="aup-link">elfogadható felhasználási irányelveinket</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links =
+    { $count ->
+        [one] Legfeljebb csak { $count } hivatkozás lesz megosztva
+       *[other] Legfeljebb csak { $count } hivatkozás lesz megosztva
+    }
+content-sharing-modal-generic-error =
+    .heading = Valami hiba történt
+    .message = Próbálja újra később.

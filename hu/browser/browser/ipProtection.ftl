@@ -120,6 +120,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Válasszon egy másik helyet, ahonnan böngészik.
 ipprotecion-locations-subview-recommended-label = Ajánlott
 ipprotection-locations-subview-recommended-description = Megkeresi a leggyorsabb helyet
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Nem érhető el
 ipprotection-locations-subview-promo =
     .heading = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel
     .message = Válasszon több mint 300 hely közül, és védje meg az alkalmazásait akár 5 eszközön.

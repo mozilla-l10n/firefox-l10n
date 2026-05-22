@@ -80,4 +80,12 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Lap visszahangosítása
 fxviewtabrow-send-to-mobile-enable-sync2 = Lap küldéséhez engedélyezze a szinkronizálást
 fxviewtabrow-send-to-mobile-connect-phone2 = Csatlakoztassa a telefonját
+fxviewtabrow-send-to-mobile-connect-device = Csatlakoztasson egy eszközt a lapok küldéséhez
 fxviewtabrow-send-to-mobile-device-missing2 = Nem látja az eszközét?
+fxviewtabrow-send-to-mobile-not-verified = A fiók nincs ellenőrizve
+fxviewtabrow-send-to-mobile-verify-account = Fiók ellenőrzése
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Jelentkezzen be a lapok küldéséhez
+fxviewtabrow-send-to-mobile-turn-on-sync = Kapcsolja be a szinkronizálást a lapok küldéséhez
