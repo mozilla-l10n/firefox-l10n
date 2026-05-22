@@ -121,7 +121,7 @@ private-browsing-description2 =
     Vi har gjort denne endringen for å holde privat nettlesing privat.
     <label data-l10n-name="private-browsing-learn-more">Les om hvordan du administrerer utvidelsesinnstillinger.</label>
 aboutaddons-sidebar =
-    .heading = Utvidelser
+    .heading = Tillegg
 addon-category-discover = Anbefalinger
 addon-category-discover-title =
     .title = Anbefalinger
