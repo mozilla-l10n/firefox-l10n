@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Ավելին { -vendor-short-name }-ից
+more-from-moz-page-header =
+    .heading = Ավելին { -vendor-short-name }-ից
 more-from-moz-category =
     .tooltiptext = Ավելին { -vendor-short-name }-ից
 more-from-moz-subtitle = { -vendor-short-name }-ի այլ ծրագրեր, որոնք օգնում են առողջ պահել համացանցը:
@@ -43,3 +45,21 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } ԱԲ վեբ-կայքի ստ
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-button = Սովորեք վեբ մշակում
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = Ստանալ { -monitor-brand-short-name }-ը
+more-from-moz-mozilla-vpn-box-link =
+    .label = Ստանալ { -mozilla-vpn-brand-name }-ը
+more-from-moz-firefox-relay-box-link =
+    .label = Ստացեք { -relay-brand-short-name }-ը
+more-from-moz-mdn-box-link =
+    .label = Մուտք MDN-ին
+more-from-moz-thunderbird-box-link =
+    .label = Ստանալ { -thunderbird-brand-short-name }-ը
+more-from-moz-solo-box-link =
+    .label = Փորձեք { -solo-ai-brand-name }-ը
+more-from-moz-new-products-box-link =
+    .label = Տեսեք նոր ապրանքները

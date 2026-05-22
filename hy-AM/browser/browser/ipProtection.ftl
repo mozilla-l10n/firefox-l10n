@@ -88,12 +88,14 @@ ipprotection-connection-status-connecting-1 = VPN-ը միանում է…
 
 ## Location controls
 
+ipprotection-recommended-location-description = { -brand-product-name }-ը գտնում է ամենաարագ տեղը
 ipprotection-recommended-location-badge = ՆՈՐ
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Տեղադրություն՝ { $country }
 ipprotection-locations-subview =
     .title = Օգտագործել տեղադրությունը
+ipprotection-locations-subview-description = Ընտրեք այլ տեղադրություն՝ դիտելու համար։
 ipprotecion-locations-subview-recommended-label = Հանձնարարելի
 ipprotection-locations-subview-recommended-description = Գտնում է ամենաարագ տեղադրությունը
 # Label shown next to a VPN location that the user cannot select.
@@ -165,6 +167,7 @@ ipprotection-bandwidth-reset-button = Հասկացա
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN-ը դադարեցված է
 vpn-error-page-keep-browsing = Շարունակեք դիտարկել այս աշխատաշրջանում
 vpn-error-page-new-session = Սկսել նոր աշխատաշրջան
 vpn-paused-alert-close-tabs-button = Փակել բոլոր ներդիրները

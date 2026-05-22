@@ -851,6 +851,9 @@ newtab-daily-briefing-card-timestamp = Oppdatert for { $minutes } minutter siden
 newtab-widget-message-title = Hold fokus med lister og en innebygd nedteller
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fra kjappe påminnelser til daglige gjøremål, fokuserte arbeidsøkter til strekkpauser — hold deg til oppgaven og tidsplanen.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Ett sted for fokus, værmeldinger og mer
+newtab-widget-message-focus-forecasts-body = Hold flyten gjennom dagen med widgeter i { -brand-product-name }. Sjekk værmeldingen, hold fokus på oppgavene dine eller følg tiden rundt om i verden.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -936,6 +939,8 @@ newtab-sports-widget-back-button =
     .aria-label = Tilbake
 newtab-sports-widget-done-button =
     .label = Ferdig
+newtab-sports-widget-view-all =
+    .label = Vis alle
 newtab-sports-widget-show-less =
     .label = Vis mindre
 # Watch is a verb (as in watch matches online).
@@ -951,6 +956,18 @@ newtab-sports-widget-watch-dialog-close =
     .title = Lukk
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Gratis
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Gratis prøveperiode
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratis og betalt
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Betalt
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Bare utvalgte kamper
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Tilgjengelig i din region
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Andre regioner
 newtab-sports-widget-group-stage = Gruppespill
 newtab-sports-widget-round-32 = Sekstendedelsfinale
 newtab-sports-widget-round-16 = Åttendedelsfinale
