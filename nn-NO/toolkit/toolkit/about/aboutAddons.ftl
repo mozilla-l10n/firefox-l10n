@@ -120,6 +120,8 @@ private-browsing-description2 =
     Utvidinga vil ikkje fungere under privat nettlesing, og vil ikkje ha tilgang til aktivitetane dine på nettet.
     Vi har gjort denne endringa for å halde privat nettlesing privat.
     <label data-l10n-name="private-browsing-learn-more">Les om korleis du administrerer utvidingsinnstillingar.</label>
+aboutaddons-sidebar =
+    .heading = Utvidingar
 addon-category-discover = Tilrådingar
 addon-category-discover-title =
     .title = Tilrådingar
@@ -485,6 +487,10 @@ addon-permissions-empty = Denne utvidinga krev inkje løyve
 addon-permissions-required = Påkravde løyve for kjernefunksjonalitet:
 addon-permissions-optional = Valfrie løyve for ekstra funksjonalitet:
 addon-permissions-learnmore = Les meir om løyve
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Nokre løyve blir administrerte av organisasjonen din.
 recommended-extensions-heading = Tilrådde utvidingar
 recommended-themes-heading = Tilrådde tema
 # Variables:
