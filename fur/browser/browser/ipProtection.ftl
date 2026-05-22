@@ -132,12 +132,22 @@ ipprotection-connection-status-generic-error-description = Torne prove ca di pô
 ipprotection-connection-status-generic-error-try-again = Torne prove plui tart.
 ipprotection-connection-status-network-error-title = Controle la conession a internet
 ipprotection-connection-status-network-error-description = Conetiti a Internet e prove a ativâ la VPN.
+ipprotection-connection-status-blocked-error-title = La VPN no je disponibile
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Tu stâs par rivâ al limit di utilizazion de VPN
     .message = Chest mês ti restin { $usageLeft } GB di { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Tu stâs par rivâ al limit di utilizazion de VPN
+    .message = Chest mês ti restin { $usageLeft } MB di { $maxUsage } GB.
+ipprotection-message-continuous-onboarding-intro = Ative la VPN par platâ la tô posizion e zontâ un altri nivel criptografic ae tô navigazion.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN in mût che si ativi</a> ogni volte che tu vierzis { -brand-short-name }, cussì di zontâ un nivel in plui di protezion.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si visarà i sîts dulà che tu âs decidût di doprâ la VPN. Tu puedis inzornâju in ogni moment tes <a data-l10n-name="setting-link">impostazions</a>.
 
 ## IP Protection bandwidth warning infobar
 
