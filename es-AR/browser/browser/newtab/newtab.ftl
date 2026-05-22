@@ -940,6 +940,21 @@ newtab-sports-widget-back-button =
     .aria-label = Atrás
 newtab-sports-widget-done-button =
     .label = Listo
+newtab-sports-widget-view-all =
+    .label = Ver todo
+newtab-sports-widget-show-less =
+    .label = Mostrar menos
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Ver
+    .title = Ver en vivo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Ver en vivo
+    .title = Ver en vivo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Cerrar
+    .title = Cerrar
 newtab-sports-widget-group-stage = Fase de grupos
 newtab-sports-widget-round-32 = 16avos de final
 newtab-sports-widget-round-16 = Octavos de Final
