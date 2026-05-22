@@ -366,6 +366,7 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
+tab-groups-list-empty-header = Ordene sus pestañas
 tab-groups-list-empty-description = Arrastre una pestaña sobre otra o haga clic con el botón derecho en una pestaña para empezar a organizar. Guardaremos los grupos acá para que sean fáciles de encontrar más tarde.
 tab-groups-list-empty-button = Crear un grupo de pestañas
 # Text for a button that, when clicked, creates a new tab group
