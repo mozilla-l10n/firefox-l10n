@@ -163,7 +163,7 @@ genai-model-optin-cancel =
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name }-ը չկարողացավ նախադիտել այս հղումը
 # Text for the link to visit the original URL when in error state
-link-preview-visit-link = Անցնել հղումը
+link-preview-visit-link = Այցելել հղումը
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Ինչ-որ բան այն չէ։
 # Text for the retry link when generation fails
