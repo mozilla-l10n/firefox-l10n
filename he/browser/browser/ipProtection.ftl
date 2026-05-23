@@ -202,6 +202,11 @@ ip-protection-description-1 =
     .label = ‏VPN מובנה
     .description = קבלת פרטיות מוגברת על־ידי הסתרת המיקום שלך תוך כדי גלישה.
 ip-protection-learn-more = מידע נוסף
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = נסו את ה־VPN המובנה של { -brand-short-name }
+    .message = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =

@@ -760,6 +760,9 @@ newtab-widget-lists-input-menu-delete = מחיקה
 newtab-widget-lists-input-menu-edit = עריכה
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = עריכת פריט
+newtab-widget-lists-edit-clear =
+    .aria-label = ביטול
+    .title = ביטול
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + יצירת רשימה חדשה
@@ -850,6 +853,9 @@ newtab-daily-briefing-card-timestamp =
 newtab-widget-message-title = להישאר מרוכז בעזרת רשימות ושעון עצר מובנה
 # to-dos stands for "things to do".
 newtab-widget-message-copy = מתזכורות מהירות ועד למשימות יומיות, מזמני התמקדות ועד להפסקות להתמתחות - כך ניתן להספיק את המשימות בזמן.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = מקום אחד למיקוד, תחזיות ועוד
+newtab-widget-message-focus-forecasts-body = תנו ליום שלכם לזרום עם הווידג’טים של { -brand-product-name }. בדקו את התחזית, הישארו ממוקדים במשימות, או עקבו אחרי השעה ברחבי העולם.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -941,6 +947,34 @@ newtab-sports-widget-back-button =
     .aria-label = חזרה
 newtab-sports-widget-done-button =
     .label = סיום
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (הודח)
+newtab-sports-widget-view-all =
+    .label = להציג הכל
+newtab-sports-widget-show-less =
+    .label = להציג פחות
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = רק נבחרות במעקב
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = צפייה
+    .title = צפייה בשידור חי
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = צפייה בשידור חי
+    .title = צפייה בשידור חי
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = סגירה
+    .title = סגירה
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = חינמי
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = תקופות ניסיון חינמית
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = חינמי ובתשלום
 newtab-sports-widget-group-stage = שלב הבתים
 newtab-sports-widget-round-32 = סיבוב 32 האחרונות
 newtab-sports-widget-round-16 = שמינית הגמר
