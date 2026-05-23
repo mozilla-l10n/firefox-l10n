@@ -762,6 +762,9 @@ newtab-widget-lists-input-menu-delete = Deler
 newtab-widget-lists-input-menu-edit = Modificar
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Elemento redigite
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancellar
+    .title = Cancellar
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear un nove lista
@@ -942,6 +945,10 @@ newtab-sports-widget-back-button =
     .aria-label = Retro
 newtab-sports-widget-done-button =
     .label = Facite
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminate)
 newtab-sports-widget-view-all =
     .label = Vider toto
 newtab-sports-widget-show-less =
