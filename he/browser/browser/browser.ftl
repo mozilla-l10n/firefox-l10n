@@ -470,6 +470,9 @@ quickactions-cmd-update = עדכון, עדכן, לעדכן
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = הצגת מקור הדף
 quickactions-cmd-viewsource2 = הצגת מקור, הצג מקור, מקור, מקור הדף
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = פתיחת { -firefoxlabs-brand-name }
+quickactions-cmd-labs = מעבדות, ניסוי
 quickactions-cmd-viewsource = הצגת קוד מקור, הצג קוד מקור, להציג קוד מקור, קוד מקור, מקור
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בד
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת של פרטיות
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין 5 מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi 
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = ניתן לקבל <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> על־ידי בחירה מבין 5 מיקומים להסתרת המקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = ניתן לקבל <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> על־ידי בחירה מבין מספר מיקומים להסתרת המקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-button-primary = הבא
 ipprotection-feature-introduction-button-secondary-not-now = לא כעת
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = הבנתי
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = חדש: שינוי המיקום שלך
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מאפשר לך לבחור מבין מספר מיקומי גלישה, או מאפשר לנו לבחור את המהיר ביותר עבורך.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מאפשר לך לבחור מבין 5 מיקומי גלישה, או מאפשר לנו לבחור את המהיר ביותר עבורך.
 ipprotection-location-selection-callout-primary-button = בואו ננסה
 ipprotection-location-selection-callout-secondary-button = סגירה
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = סגירה
 unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">הסתרת המיקום שלך</a> בזמן גלישה ב־{ -brand-product-name }.
 unauthenticated-private-location-message = מסייע <a data-l10n-name="learn-more-vpn">לשמור על פרטיות המיקום שלך</a> ב־{ -brand-product-name }.
+unauthenticated-choose-location-message-1 = ניתן לבחור מבין מספר מיקומים או לתת ל־{ -brand-product-name } לבחור את המהיר ביותר.
 unauthenticated-choose-location-message = ניתן לבחור מבין 5 מיקומים או לתת ל־{ -brand-product-name } לבחור את המהיר ביותר.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
