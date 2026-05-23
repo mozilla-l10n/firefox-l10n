@@ -202,6 +202,11 @@ ip-protection-description-1 =
     .label = Innebygd VPN
     .description = Få ekstra personvern ved å skjule plasseringen din mens du surfer.
 ip-protection-learn-more = Les mer
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Prøv { -brand-short-name } sin innebygde VPN
+    .message = Surf med ekstra beskyttelse ved å skjule posisjonen din.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
