@@ -996,13 +996,6 @@ newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-
 newtab-sports-widget-match-full-time = 全场
 newtab-sports-widget-match-penalties = 点球决胜
 
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-newtab-sports-widget-team-name-label-bih =
-    .label = 波黑队
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
