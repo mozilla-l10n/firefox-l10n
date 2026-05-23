@@ -5,11 +5,11 @@
 content-blocking-trackers-view-empty = Ոչ մեկը հայտնաբերված չէ այս կայքում
 content-blocking-cookies-blocking-trackers-label = Միջակայքին հետևող նշոցիկ։
 content-blocking-cookies-blocking-third-party-label = Երրորդ կողմի նշոցիկ
-content-blocking-cookies-blocking-unvisited-label = Չայցելված կայքերի նշոցիկներ
+content-blocking-cookies-blocking-unvisited-label = Չայցելված կայքերի թխուկներ
 content-blocking-cookies-blocking-all-label = Բոլոր թխուկները
 content-blocking-cookies-view-first-party-label = Այս կայքից
-content-blocking-cookies-view-trackers-label = Միջակայքին հետևող նշոցիկներ
-content-blocking-cookies-view-third-party-label = Երրորդ կողմի նշոցիկներ
+content-blocking-cookies-view-trackers-label = Միջակայքին հետևող թխուկներ
+content-blocking-cookies-view-third-party-label = Երրորդ կողմի թխուկներ
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
@@ -21,8 +21,8 @@ content-blocking-cookies-view-blocked-label =
 # Variables:
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
-    .tooltiptext = Մաքրել նշոցիկների բացառությունը { $domain }-ի համար
-tracking-protection-icon-active = Սոց մեդիայի հետագծիչների, միջակայքի նշոցիկների հետևման և մատնահետքերի արգելափակում։
+    .tooltiptext = Մաքրել թխուկների բացառությունը { $domain }-ի համար
+tracking-protection-icon-active = Սոց մեդիայի հետագծիչների, միջակայքի թխուկների հետևման և մատնահետքերի արգելափակում։
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Այս կայքի համար բարելավված հետևման պաշտպանությունը անջատված է։
@@ -45,13 +45,13 @@ protections-blocking-fingerprinters =
 protections-blocking-cryptominers =
     .title = Գաղտնազերծիչը արգելափակված է
 protections-blocking-cookies-trackers =
-    .title = Միջակայքերի հետևումների նշոցիկները արգելափակվել են
+    .title = Միջակայքերի հետևումների թխուկներն արգելափակվել են
 protections-blocking-cookies-third-party =
-    .title = Երրորդ կողմի նշոցիկները արգելափակվել են
+    .title = Երրորդ կողմի թխուկներն արգելափակվել են
 protections-blocking-cookies-all =
-    .title = Բոլոր նշոցիկները արգելափակվել են
+    .title = Բոլոր թխուկներն արգելափակվել են
 protections-blocking-cookies-unvisited =
-    .title = Չայցելված կայքի նշոցիկները արգելափակվել են
+    .title = Չայցելված կայքի թխուկներն արգելափակվել են
 protections-blocking-tracking-content =
     .title = Հետևման բովանդակությունը արգելափակվել է
 protections-blocking-social-media-trackers =
@@ -65,7 +65,7 @@ protections-not-blocking-cookies-third-party =
 protections-not-blocking-cookies-all =
     .title = Չի արգելափակում թխուկները
 protections-not-blocking-cross-site-tracking-cookies =
-    .title = Միջակայքերի հետևման նշոցիկները չեն արգելափակվում
+    .title = Միջակայքերի հետագծման թխուկները չեն արգելափակվում
 protections-not-blocking-tracking-content =
     .title = Հետևման բովանդակությունը չի արգելափակվել
 protections-not-blocking-social-media-trackers =
