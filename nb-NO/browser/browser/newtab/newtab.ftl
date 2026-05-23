@@ -765,6 +765,9 @@ newtab-widget-lists-input-menu-delete = Slett
 newtab-widget-lists-input-menu-edit = Rediger
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Rediger element
+newtab-widget-lists-edit-clear =
+    .aria-label = Avbryt
+    .title = Avbryt
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag en ny liste
@@ -943,6 +946,9 @@ newtab-sports-widget-view-all =
     .label = Vis alle
 newtab-sports-widget-show-less =
     .label = Vis mindre
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Bare fulgte lag
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Se
@@ -1161,6 +1167,19 @@ newtab-clock-widget-button-save = Lagre
 newtab-clock-widget-button-remove-clock =
     .title = Fjern klokke
     .aria-label = Fjern klokke
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, kallenavn: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Legg til klokke
 newtab-clock-widget-edit-clock-form =
