@@ -1098,6 +1098,7 @@ newtab-sports-widget-message-wallpapers-title = Da el puntapié inicial a la Cop
 newtab-sports-widget-message-wallpapers-cta = Elegir fondo de pantalla
 newtab-sports-widget-message-add-widgets-cta =
     .label = Añadir widgets
+newtab-sports-widget-message-day-in-play-body = Sigue el Mundial, mantente al día con tus tareas, controla el tiempo en todo el mundo y mucho más.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
 
