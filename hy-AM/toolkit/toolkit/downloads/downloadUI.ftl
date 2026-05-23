@@ -24,8 +24,8 @@ download-ui-dont-quit-button =
     }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
-        [1] Եթե հիմա կապն անջատեք, 1 բեռնում կդադարեցվի. Ու՞զում էք կապն անջատել:
-       *[other] Եթե հիմա կապն անջատեք, { $downloadsCount } բեռնավորումներ կդադարեցվեն. Ու՞զում եք կապն անջատել:
+        [1] Եթե հիմա անցնեք անցանց կերպի, 1 ներբեռնում կդադարեցվի: Ցանկանո՞մ եք անցնել անցանց:
+       *[other] Եթե հիմա անցնեք անցանց կերպի, { $downloadsCount } ներբեռնում կդադարեցվի: Ցանկանո՞մ եք անցնել անցանց:
     }
 download-ui-dont-go-offline-button = Կապը չանջատել
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
