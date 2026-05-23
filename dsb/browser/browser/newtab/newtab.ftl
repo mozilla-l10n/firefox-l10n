@@ -770,6 +770,9 @@ newtab-widget-lists-input-menu-delete = Lašowaś
 newtab-widget-lists-input-menu-edit = Wobźěłaś
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Zapisk wobźěłaś
+newtab-widget-lists-edit-clear =
+    .aria-label = Pśetergnuś
+    .title = Pśetergnuś
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu napóraś
@@ -920,7 +923,7 @@ newtab-widget-timer-celebration-message-break = Sćo gótowy se koncentrěrowaś
 
 ##
 
-newtab-sports-widget-menu-follow-teams = Teamam slědowaś
+newtab-sports-widget-menu-follow-teams = Mustwam slědowaś
 newtab-sports-widget-menu-view-schedule = Grajny plan pokazaś
 newtab-sports-widget-menu-view-upcoming = Pśichodny pokazaś
 newtab-sports-widget-menu-view-results = Wuslědki pokazaś
@@ -933,17 +936,17 @@ newtab-sports-widget-get-updates = Dostańśo aktualizacije live a wěcej.
 newtab-sports-widget-view-schedule =
     .label = Grajny plan pokazaś
 newtab-sports-widget-follow-teams =
-    .label = Teamam slědowaś
+    .label = Mustwam slědowaś
 newtab-sports-widget-view-matches =
     .label = Graśa pokazaś
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
     { $number ->
-        [one] { $number } teamoju slědowaś
-        [two] { $number } teamoma slědowaś
-        [few] { $number } teamam slědowaś
-       *[other] { $number } teamam slědowaś
+        [one] { $number } mustwoju slědowaś
+        [two] { $number } mustwoma slědowaś
+        [few] { $number } mustwam slědowaś
+       *[other] { $number } mustwam slědowaś
     }
 newtab-sports-widget-choose-wallpaper =
     .label = Wubjeŕśo slězynowy wobraz
@@ -956,10 +959,17 @@ newtab-sports-widget-back-button =
     .aria-label = Slědk
 newtab-sports-widget-done-button =
     .label = Dokóńcony
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (wupadnjony)
 newtab-sports-widget-view-all =
     .label = Wšykne pokazaś
 newtab-sports-widget-show-less =
     .label = Mjenjej pokazaś
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Jano mustwa, kótarymž slědujośo
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Glědaś
@@ -1178,6 +1188,19 @@ newtab-clock-widget-button-save = Składowaś
 newtab-clock-widget-button-remove-clock =
     .title = Zeger wótwónoźeś
     .aria-label = Zeger wótwónoźeś
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, pśimě: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Zeger pśidaś
 newtab-clock-widget-edit-clock-form =
