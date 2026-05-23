@@ -765,6 +765,9 @@ newtab-widget-lists-input-menu-delete = Slett
 newtab-widget-lists-input-menu-edit = Rediger
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Rediger element
+newtab-widget-lists-edit-clear =
+    .aria-label = Avbryt
+    .title = Avbryt
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag ei ny liste
