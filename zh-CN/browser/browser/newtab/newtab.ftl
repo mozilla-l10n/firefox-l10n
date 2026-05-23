@@ -996,6 +996,13 @@ newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-
 newtab-sports-widget-match-full-time = 全场
 newtab-sports-widget-match-penalties = 点球决胜
 
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = 换上新壁纸，迎接世界杯
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = 探索小组件
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1056,6 +1063,19 @@ newtab-clock-widget-button-save = 保存
 newtab-clock-widget-button-remove-clock =
     .title = 移除时钟
     .aria-label = 移除时钟
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }，别名：{ $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = 添加时钟
 newtab-clock-widget-edit-clock-form =
