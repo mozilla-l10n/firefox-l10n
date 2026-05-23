@@ -363,6 +363,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = ארגון הלשוניות שלך
 tab-groups-list-empty-description = ניתן לגרור לשונית אחת אל תוך אחרת או ללחוץ לחיצה ימנית על לשונית כדי להתחיל לארגן. נשמור את הקבוצות שלך כאן כדי שיהיה קל למצוא אותן מאוחר יותר.
 tab-groups-list-empty-button = יצירת קבוצת לשוניות
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = קבוצה חדשה
 
 ## Open/saved tab group context menu
 

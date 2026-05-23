@@ -40,6 +40,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = יש להפעיל סנכרון כדי לשלוח לשונית
 fxa-menu-send-to-mobile-connect-phone2 = חיבור לטלפון שלך
 fxa-menu-send-to-mobile-device-missing2 = לא רואה את המכשיר שלך?
+fxviewtabrow-send-to-mobile-not-verified = חשבון לא מאומת
+fxviewtabrow-send-to-mobile-verify-account = אימות החשבון שלך
 fxa-menu-send-to-mobile-turn-on-sync = יש להפעיל את הסנכרון כדי לשלוח לשוניות
 fxa-menu-send-to-mobile-connect-device = יש לחבר מכשיר כדי לשלוח לשוניות
 # Variables:

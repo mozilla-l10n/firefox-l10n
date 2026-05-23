@@ -993,6 +993,13 @@ newtab-sports-widget-group-b = קבוצה B
 newtab-sports-widget-group-c = קבוצה C
 newtab-sports-widget-group-d = קבוצה D
 newtab-sports-widget-group-e = קבוצה E
+newtab-sports-widget-group-f = קבוצה F
+newtab-sports-widget-group-g = קבוצה G
+newtab-sports-widget-group-h = קבוצה H
+newtab-sports-widget-group-i = קבוצה I
+newtab-sports-widget-group-j = קבוצה J
+newtab-sports-widget-group-k = קבוצה K
+newtab-sports-widget-group-l = קבוצה L
 newtab-sports-widget-round-32 = סיבוב 32 האחרונות
 newtab-sports-widget-round-16 = שמינית הגמר
 newtab-sports-widget-quarter-finals = רבע גמר
@@ -1030,6 +1037,44 @@ newtab-sports-widget-third-place = מקום שלישי
 newtab-sports-widget-runner-up = סגנית האלופה
 newtab-sports-widget-champions = אלופים
 newtab-sports-widget-world-cup-champions = אלופי המונדיאל 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = המשחק הסתיים
+newtab-sports-widget-match-penalties = פנדלים
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } נגד { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) נגד { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = חי: { $homeTeam }, { $homeScore } נגד { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } נגד { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
@@ -1039,6 +1084,9 @@ newtab-sports-widget-message-wallpapers-body = הכניסו לדפדפן שלכ�
 newtab-sports-widget-message-wallpapers-cta = בחירת תמונת רקע
 newtab-sports-widget-message-add-widgets-cta =
     .label = הוספת ווידג'טים
+newtab-sports-widget-message-day-in-play-body = מעקב אחרי המונדיאל, להישאר ממוקד במשימות, מעקב אחרי השעה ברחבי העולם ועוד.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = צפייה בווידג’טים
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1100,6 +1148,19 @@ newtab-clock-widget-button-save = שמירה
 newtab-clock-widget-button-remove-clock =
     .title = הסרת שעון
     .aria-label = הסרת שעון
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, כינוי: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = הוספת שעון
 newtab-clock-widget-edit-clock-form =
