@@ -948,10 +948,17 @@ newtab-sports-widget-back-button =
     .aria-label = Πίσω
 newtab-sports-widget-done-button =
     .label = Τέλος
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (αποκλείστηκε)
 newtab-sports-widget-view-all =
     .label = Προβολή όλων
 newtab-sports-widget-show-less =
     .label = Εμφάνιση λιγότερων
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Μόνο ομάδες που ακολουθείτε
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Παρακολούθηση

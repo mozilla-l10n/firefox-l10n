@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Γνωρίστε το VPN, τώρα σ
 ipprotection-feature-introduction-link-text-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Προσθέστε ένα ακόμα επίπεδο ιδιωτικότητας
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε μία από τις πολλαπλές τοποθεσίες για να διατηρήσετε την περιήγησή σας πιο ιδιωτική.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε μια από τις 5 τοποθεσίες για να διατηρήσετε την περιήγησή σας πιο ιδιωτική.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας, ακόμα και σε ιδιωτικά παράθυρα.
 ipprotection-feature-introduction-description-private-browsing = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα κι όταν βρίσκεστε σε ιδιωτικό παράθυρο.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Συνδεθήκατε 
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Απολαύστε <a data-l10n-name="learn-more-vpn">επιπλέον απόρρητο</a> επιλέγοντας ανάμεσα σε 5 τοποθεσίες για απόκρυψη της περιήγησής σας.
 ipprotection-feature-introduction-description-captive-portal = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα και σε δημόσια Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Απολαύστε <a data-l10n-name="learn-more-vpn">επιπλέον απόρρητο</a> επιλέγοντας ανάμεσα σε πολλαπλές τοποθεσίες για απόκρυψη της περιήγησής σας.
 ipprotection-feature-introduction-button-primary = Επόμενο
 ipprotection-feature-introduction-button-secondary-not-now = Όχι τώρα
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Το κατάλαβα
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Νέο: Αλλάξτε την τοποθεσία σας
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> σάς επιτρέπει να επιλέξετε ανάμεσα σε πολλαπλές τοποθεσίες περιήγησης ή να επιλέξουμε εμείς την ταχύτερη δυνατή για εσάς.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> σάς επιτρέπει να επιλέξετε ανάμεσα σε 5 τοποθεσίες περιήγησης ή να επιλέξουμε εμείς την ταχύτερη δυνατή για εσάς.
 ipprotection-location-selection-callout-primary-button = Δοκιμή
 ipprotection-location-selection-callout-secondary-button = Απόρριψη
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Απόρριψη
 unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Αποκρύψτε την τοποθεσία σας</a> κατά την περιήγηση στο { -brand-product-name }.
 unauthenticated-private-location-message = Βοηθά στο να <a data-l10n-name="learn-more-vpn">παραμένει ιδιωτική η τοποθεσία σας</a> στο { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες ή αφήστε το { -brand-product-name } να επιλέξει την πιο γρήγορη.
 unauthenticated-choose-location-message = Επιλέξτε ανάμεσα σε 5 τοποθεσίες ή αφήστε το { -brand-product-name } να επιλέξει την πιο γρήγορη.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -197,6 +202,11 @@ ip-protection-description-1 =
     .label = Ενσωματωμένο VPN
     .description = Αποκτήστε επιπλέον ιδιωτικότητα αποκρύπτοντας την τοποθεσία σας κατά την περιήγηση.
 ip-protection-learn-more = Μάθετε περισσότερα
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Δοκιμάστε το ενσωματωμένο VPN του { -brand-short-name }
+    .message = Περιηγηθείτε με επιπλέον προστασία αποκρύπτοντας την τοποθεσία σας.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
