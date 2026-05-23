@@ -1035,9 +1035,9 @@ newtab-clock-widget-search-location-input =
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
-    .label = 昵称（选填）
-    .placeholder = 添加昵称
-    .aria-label = 昵称（选填）
+    .label = 别名（选填）
+    .placeholder = 添加别名
+    .aria-label = 别名（选填）
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1076,4 +1076,4 @@ newtab-clock-widget-menu-button =
     .title = 打开时钟菜单
     .aria-label = 打开时钟菜单
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
-newtab-clock-widget-label-nickname-with-value = 昵称：{ $nickname }
+newtab-clock-widget-label-nickname-with-value = 别名：{ $nickname }

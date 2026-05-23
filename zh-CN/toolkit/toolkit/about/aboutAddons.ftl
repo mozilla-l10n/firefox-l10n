@@ -117,6 +117,8 @@ legacy-extensions-description = 这些扩展不符合现今的 { -brand-short-na
 private-browsing-description2 =
     扩展在 { -brand-short-name } 隐私浏览模式中的运行权限有所调整。默认情况下，任何新添加至 { -brand-short-name } 的扩展均不会在隐私窗口中运行。除非您在设置中明确允许，否则扩展将在隐私浏览模式中停止运行，也无法获知您的在线活动。这项调整旨在确保您的隐私浏览足够私密。
     <label data-l10n-name="private-browsing-learn-more">了解如何管理扩展设置。</label>
+aboutaddons-sidebar =
+    .heading = 附加组件
 addon-category-discover = 推荐
 addon-category-discover-title =
     .title = 推荐
@@ -466,6 +468,10 @@ addon-permissions-empty = 此扩展未要求任何权限
 addon-permissions-required = 核心功能所需的权限：
 addon-permissions-optional = 附加功能的可选权限：
 addon-permissions-learnmore = 详细了解“权限”
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = 部分权限由您的组织管理。
 recommended-extensions-heading = 推荐扩展
 recommended-themes-heading = 推荐主题
 # Variables:
