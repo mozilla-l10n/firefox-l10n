@@ -923,7 +923,7 @@ newtab-widget-timer-celebration-message-break = Sće hotowy so koncentrować?
 
 ##
 
-newtab-sports-widget-menu-follow-teams = Teamam slědować
+newtab-sports-widget-menu-follow-teams = Mustwam slědować
 newtab-sports-widget-menu-view-schedule = Hrajny plan pokazać
 newtab-sports-widget-menu-view-upcoming = Přichodny pokazać
 newtab-sports-widget-menu-view-results = Wuslědki pokazać
@@ -936,17 +936,17 @@ newtab-sports-widget-get-updates = Dóstańće aktualizacije live a wjace.
 newtab-sports-widget-view-schedule =
     .label = Hrajny plan pokazać
 newtab-sports-widget-follow-teams =
-    .label = Teamam slědować
+    .label = Mustwam slědować
 newtab-sports-widget-view-matches =
     .label = Hry pokazać
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
     { $number ->
-        [one] { $number } teamej slědować
-        [two] { $number } teamomaj slědować
-        [few] { $number } teamam slědować
-       *[other] { $number } teamam slědować
+        [one] { $number } mustwu slědować
+        [two] { $number } mustwomaj slědować
+        [few] { $number } mustwam slědować
+       *[other] { $number } mustwam slědować
     }
 newtab-sports-widget-choose-wallpaper =
     .label = Wubjerće pozadkowy wobraz
@@ -969,7 +969,7 @@ newtab-sports-widget-show-less =
     .label = Mjenje pokazać
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
-    .label = Jenož teamy, kotrymž slědujeće
+    .label = Jenož mustwa, kotrymž slědujeće
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Hladać

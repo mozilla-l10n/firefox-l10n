@@ -10,6 +10,16 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Постави политика дека WebExtensions може да имаат пристап преку chrome.storage.managed.
+policy-AIControls = Конфигурирај контроли за ВИ.
+policy-AllowedDomainsForApps = Дефинирај домени што имаат дозвола да пристапат до Google Workspace.
+policy-AllowFileSelectionDialogs = Дозволи дијалози за избор на датотеки.
+policy-AppAutoUpdate = Овозможи или оневозможи автоматско ажурирање на апликацијата.
+policy-AppUpdatePin = Спречете го ажурирањето на { -brand-short-name } надвор од наведената верзија.
+policy-AppUpdateURL = Поставете сопствено URL за ажурирање на апликација.
+policy-Authentication = Конфигурирај интегрирана автентикација за мрежни места што ја поддржуваат.
+policy-AutofillAddressEnabled = Овозможи автоматско пополнување за адреси.
+policy-AutofillCreditCardEnabled = Овозможи автоматско пополнување за методите на плаќање.
 policy-BlockAboutConfig = Блокирајте пристап до страницата about:config
 policy-DisablePrivateBrowsing = Оневозможи приватно пребарување.
 policy-DisableTelemetry = Исклучете ја телеметријата.
