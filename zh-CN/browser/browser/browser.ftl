@@ -472,6 +472,7 @@ quickactions-viewsource2 = 查看页面源代码
 quickactions-cmd-viewsource2 = 查看源代码, 源代码, 页面源代码, 查看源码, 源码, 页面源码, view source, source, page source
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = 打开 { -firefoxlabs-brand-name }
+quickactions-cmd-labs = 实验室, 实验, labs, experiment
 quickactions-cmd-viewsource = 查看源代码, 查看源码, 源代码, 源码, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
