@@ -953,6 +953,9 @@ newtab-sports-widget-view-all =
     .label = Vider toto
 newtab-sports-widget-show-less =
     .label = Monstrar minus
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Solo equipas sequite
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Reguarda
@@ -1171,6 +1174,19 @@ newtab-clock-widget-button-save = Salvar
 newtab-clock-widget-button-remove-clock =
     .title = Remover horologio
     .aria-label = Remover horologio
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $urbe }, pseudonymo: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Adder horologio
 newtab-clock-widget-edit-clock-form =
