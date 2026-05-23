@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Introducerar VPN, nu direkt i din webb
 ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lägg till ytterligare ett lager av sekretess
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla den plats du surfar mer privat.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan 5 platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = På offentligt Wi-Fi? T
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan 5 platser för att dölja var du surfar.
 ipprotection-feature-introduction-description-captive-portal = Surfa med extra skydd genom att dölja din plats, även på offentligt Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">extra sekretess</a> genom att välja mellan flera platser för att dölja där du surfar.
 ipprotection-feature-introduction-button-primary = Nästa
 ipprotection-feature-introduction-button-secondary-not-now = Inte nu
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Jag förstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nytt: Byt din plats
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> låter dig välja mellan flera surfplatser, eller låt oss välja den snabbaste för dig.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> låter dig välja mellan 5 surfplatser, eller låt oss välja den snabbaste för dig.
 ipprotection-location-selection-callout-primary-button = Testa
 ipprotection-location-selection-callout-secondary-button = Ignorera
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Ignorera
 unauthenticated-vpn-title = Testa { -brand-product-name }:s inbyggda VPN
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Hjälper till att <a data-l10n-name="learn-more-vpn">hålla din plats privat</a> i { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Välj bland flera platser eller låt { -brand-product-name } välja den snabbaste.
 unauthenticated-choose-location-message = Välj bland 5 platser eller låt { -brand-product-name } välja den snabbaste.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -197,6 +202,11 @@ ip-protection-description-1 =
     .label = Inbyggt VPN
     .description = Få extra integritet genom att dölja din plats medan du surfar.
 ip-protection-learn-more = Läs mer
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Testa { -brand-short-name }:s inbyggda VPN
+    .message = Surfa med extra skydd genom att dölja din plats.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =

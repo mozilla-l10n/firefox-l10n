@@ -762,6 +762,9 @@ newtab-widget-lists-input-menu-delete = Supprimer
 newtab-widget-lists-input-menu-edit = Modifier
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Modifier l’élément
+newtab-widget-lists-edit-clear =
+    .aria-label = Annuler
+    .title = Annuler
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Créer une nouvelle liste
@@ -942,10 +945,17 @@ newtab-sports-widget-back-button =
     .aria-label = Retour
 newtab-sports-widget-done-button =
     .label = Terminé
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (éliminé)
 newtab-sports-widget-view-all =
     .label = Tout afficher
 newtab-sports-widget-show-less =
     .label = Afficher moins
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Seules les équipes suivies
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Regarder
@@ -1164,6 +1174,19 @@ newtab-clock-widget-button-save = Enregistrer
 newtab-clock-widget-button-remove-clock =
     .title = Supprimer l’horloge
     .aria-label = Supprimer l’horloge
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, pseudo : { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Ajouter une horloge
 newtab-clock-widget-edit-clock-form =
