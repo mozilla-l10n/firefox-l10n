@@ -951,14 +951,14 @@ newtab-sports-widget-done-button =
 # Shown in the follow-teams list for a team that has been knocked out of the tournament.
 # Variables:
 #   $teamName (string) - the localized team name (e.g. "Canada").
-newtab-sports-widget-team-name-eliminated = { $teamName } (eliminerad)
+newtab-sports-widget-team-name-eliminated = { $teamName } (utslaget)
 newtab-sports-widget-view-all =
     .label = Visa alla
 newtab-sports-widget-show-less =
     .label = Visa mindre
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
-    .label = Endast följt team
+    .label = Endast följda team
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Titta
