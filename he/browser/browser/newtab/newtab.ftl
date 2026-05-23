@@ -975,7 +975,24 @@ newtab-sports-widget-watch-stream-free = חינמי
 newtab-sports-widget-watch-stream-free-trial = תקופות ניסיון חינמית
 # Tag: provider offers both a no-cost or trial path and a paid path.
 newtab-sports-widget-watch-stream-free-paid = חינמי ובתשלום
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = בתשלום
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = משחקים נבחרים בלבד
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = זמין באזור שלך
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = אזורים אחרים
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = פתיחת השידור
+    .title = פתיחת השידור
 newtab-sports-widget-group-stage = שלב הבתים
+newtab-sports-widget-group-a = קבוצה A
+newtab-sports-widget-group-b = קבוצה B
+newtab-sports-widget-group-c = קבוצה C
+newtab-sports-widget-group-d = קבוצה D
+newtab-sports-widget-group-e = קבוצה E
 newtab-sports-widget-round-32 = סיבוב 32 האחרונות
 newtab-sports-widget-round-16 = שמינית הגמר
 newtab-sports-widget-quarter-finals = רבע גמר
@@ -1013,6 +1030,15 @@ newtab-sports-widget-third-place = מקום שלישי
 newtab-sports-widget-runner-up = סגנית האלופה
 newtab-sports-widget-champions = אלופים
 newtab-sports-widget-world-cup-champions = אלופי המונדיאל 2026
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = חגגו את פתיחת המונדיאל עם תמונות רקע חדשות
+newtab-sports-widget-message-wallpapers-body = הכניסו לדפדפן שלכם אווירת יום משחק לטורניר.
+newtab-sports-widget-message-wallpapers-cta = בחירת תמונת רקע
+newtab-sports-widget-message-add-widgets-cta =
+    .label = הוספת ווידג'טים
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
