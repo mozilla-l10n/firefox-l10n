@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Vi introduserer VPN, no rett i nettles
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire stader for å gjere kvar du surfar meir privat.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Det innebygde VPN-et i { -brand-product-name }</a> bidreg til å verne surfinga di. Vel mellom 5 stadar for å halde kvar du surfar meir privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = På offentleg Wi-Fi? Pr
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom 5 stadar for å skjule kvar du surfar.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra vern ved å skjule plasseringa di, også på offentleg Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire stadar for å skjule kvar du surfar.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
