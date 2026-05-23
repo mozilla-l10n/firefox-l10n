@@ -36,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? 
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus 5 Standorten wählen.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Möglichkeiten wählen, ihren Standort zu verbergen.
 ipprotection-feature-introduction-button-primary = Weiter
 ipprotection-feature-introduction-button-secondary-not-now = Nicht jetzt
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -56,6 +58,7 @@ ipprotection-site-settings-callout-button = Verstanden
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Neu: Ändern Sie Ihren Standort
+ipprotection-location-selection-callout-description-1 = Mit dem integrierten VPN von <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> können Sie aus mehreren Standorten zum Surfen wählen. Sie können den schnellsten von uns auswählen lassen.
 ipprotection-location-selection-callout-description = Mit dem <a data-l10n-name="learn-more-vpn">integrierten VPN von { -brand-product-name }</a> können Sie aus 5 Standorten wählen oder wir wählen den schnellsten Standort für Sie aus.
 ipprotection-location-selection-callout-primary-button = Ausprobieren
 ipprotection-location-selection-callout-secondary-button = Schließen
@@ -66,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Schließen
 unauthenticated-vpn-title = Probieren Sie das integrierte VPN von { -brand-product-name } aus
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verstecken Sie Ihren Standort</a> beim Surfen in { -brand-product-name }.
 unauthenticated-private-location-message = <a data-l10n-name="learn-more-vpn">Hilft Ihren Standort in { -brand-product-name } privat zu halten</a>.
+unauthenticated-choose-location-message-1 = Wählen Sie einen von mehreren Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
 unauthenticated-choose-location-message = Wählen Sie aus 5 Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -198,6 +202,11 @@ ip-protection-description-1 =
     .label = Integriertes VPN
     .description = Sorgt für mehr Privatsphäre, indem Sie ihren Standort beim Surfen verbergen.
 ip-protection-learn-more = Weitere Informationen
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
+    .message = Browsen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
