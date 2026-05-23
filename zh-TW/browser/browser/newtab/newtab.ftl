@@ -762,6 +762,9 @@ newtab-widget-lists-input-menu-delete = 刪除
 newtab-widget-lists-input-menu-edit = 編輯
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = 編輯項目
+newtab-widget-lists-edit-clear =
+    .aria-label = 取消
+    .title = 取消
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 新增清單
@@ -930,10 +933,17 @@ newtab-sports-widget-back-button =
     .aria-label = 返回
 newtab-sports-widget-done-button =
     .label = 完成
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName }（被淘汰）
 newtab-sports-widget-view-all =
     .label = 檢視全部
 newtab-sports-widget-show-less =
     .label = 顯示更少
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = 僅關注中的隊伍
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = 觀賞
@@ -1152,6 +1162,19 @@ newtab-clock-widget-button-save = 儲存
 newtab-clock-widget-button-remove-clock =
     .title = 移除時鐘
     .aria-label = 移除時鐘
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }，暱稱：{ $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = 新增時鐘
 newtab-clock-widget-edit-clock-form =
