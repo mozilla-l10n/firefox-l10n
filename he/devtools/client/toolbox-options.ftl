@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = חיתוך רכיבי DOM
 options-collapse-attrs-tooltip =
     .title = קיצור תכונות ארוכות במפקח
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = הצגת הערות
+options-show-comments-tooltip =
+    .title = הצגת צמתי הערות במפקח
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = לחיצה וגרירה כדי לערוך ערכים של גדלים
 options-inspector-draggable-properties-tooltip =

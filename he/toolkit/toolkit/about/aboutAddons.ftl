@@ -117,6 +117,8 @@ legacy-extensions-description = הרחבות אלו לא עומדות בתקני
 private-browsing-description2 =
     ‏{ -brand-short-name } משנה את האופן שבו הרחבות פועלות בגלישה פרטית. כל הרחבה חדשה שתתווסף אל { -brand-short-name } לא תרוץ כברירת מחדל בחלונות פרטיים. כל עוד אפשרות זו לא תופעל בהגדרות, ההרחבה לא תפעל בזמן גלישה פרטית, ולא תהיה לה גישה לפעילויות המקוונות שלך שם. עשינו את השינוי הזה כדי לשמור על הגלישה הפרטית שלך פרטית.
     <label data-l10n-name="private-browsing-learn-more">מידע נוסף על ניהול הגדרות הרחבות.</label>
+aboutaddons-sidebar =
+    .heading = תוספות
 addon-category-discover = המלצות
 addon-category-discover-title =
     .title = המלצות
@@ -459,6 +461,10 @@ addon-permissions-empty = להרחבה זו לא נדרשות הרשאות
 addon-permissions-required = הרשאות נדרשות לתכונות ליבה:
 addon-permissions-optional = הרשאות רשות לתכונות נוספות:
 addon-permissions-learnmore = מידע נוסף על הרשאות
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = חלק מההרשאות מנוהלות על־ידי הארגון שלך.
 recommended-extensions-heading = הרחבות מומלצות
 recommended-themes-heading = ערכות נושא מומלצות
 # Variables:

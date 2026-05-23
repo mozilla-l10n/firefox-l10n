@@ -1075,6 +1075,33 @@ newtab-sports-widget-match-aria-label-now =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } נגד { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } נגד { $awayTeam }, מתעכב
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } נגד { $awayTeam }, נדחה
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } נגד { $awayTeam }, מושהה
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } נגד { $awayTeam }, בוטל
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = בוסניה-הרצגובינה
+newtab-sports-widget-team-name-label-civ =
+    .label = חוף השנהב
+newtab-sports-widget-team-name-label-cod =
+    .label = הרפובליקה הדמוקרטית של קונגו
+newtab-sports-widget-team-name-label-eng =
+    .label = אנגליה
+newtab-sports-widget-team-name-label-sco =
+    .label = סקוטלנד
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
