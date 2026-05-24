@@ -470,6 +470,9 @@ quickactions-cmd-update = mbohekopyahu
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ehecha ayvu reñoiha
 quickactions-cmd-viewsource2 = ehecha ayvu reñoiha, teñoiha, kuatiarogue ayvu reñoiha
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Embojuruja { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, mba’epyahu
 quickactions-cmd-viewsource = ehecha teñoiha, teñoiha
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
