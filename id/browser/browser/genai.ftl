@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Hapus { $provider }
 genai-menu-remove-sidebar =
     .label = Hapus dari Bilah Samping
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Tanyakan { $provider }
 genai-menu-new-badge = Baru
 genai-menu-summarize-page = Ringkaskan Laman
 genai-input-ask-generic =
@@ -214,8 +217,12 @@ genai-model-optin-cancel =
 #   $rangePlural (String): The plural category of the range, using the same set as for numbers.
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = { $range } mnt waktu membaca
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } tidak dapat melihat pratinjau tautan ini
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Kunjungi tautan
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } tidak dapat menghasilkan poin kunci untuk laman web ini.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Ada yang salah
 # Text for the retry link when generation fails

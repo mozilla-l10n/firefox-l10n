@@ -27,6 +27,7 @@ profiles-rootdir = Direktori Akar
 profiles-localdir = Direktori Lokal
 profiles-current-profile = Profil ini sedang digunakan dan tidak dapat dihapus.
 profiles-in-use-profile = Profil ini sedang digunakan dalam aplikasi lain dan tidak dapat dihapus.
+profiles-cannot-delete-profile = Tidak dapat menghapus profil yang ditautkan ke profil lain.
 profiles-rename = Ubah Nama
 profiles-remove = Hapus
 profiles-set-as-default = Setel sebagai profil baku

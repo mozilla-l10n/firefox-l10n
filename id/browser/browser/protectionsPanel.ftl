@@ -84,6 +84,11 @@ smartblock-placeholder-title = Pelacak dan konten { $trackername } diblokir
 smartblock-placeholder-desc = Setelan { -brand-short-name } Anda memblokir konten ini agar tidak melacak Anda di seluruh situs atau digunakan untuk iklan.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Izinkan di { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Konten dari sematan yang diblokir
 
 ##
 

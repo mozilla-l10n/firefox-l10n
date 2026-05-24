@@ -128,3 +128,6 @@ sanitize-everything-warning = Semua riwayat akan dihapus.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Item yang dipilih akan dibersihkan.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Menghitung…

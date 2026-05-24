@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Jendela Mode Pribadi Baru
 appmenuitem-history =
     .label = Riwayat
+appmenuitem-tab-groups =
+    .label = Grup tab
 appmenuitem-downloads =
     .label = Unduhan
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Ubahsuai Bilah Alat…
+appmenu-abouttranslations =
+    .label = Terjemahkan…
 appmenu-developer-tools-subheader = Alat Peramban
 appmenu-developer-tools-extensions =
     .label = Ekstensi untuk Pengembang
@@ -295,6 +299,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-services-relay-description = Luncurkan dasbor masker surel
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Dapatkan perlindungan untuk seluruh perangkat
 appmenuitem-vpn-description = Lindungi aktivitas daring Anda
 appmenu-services-header = Layanan saya
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

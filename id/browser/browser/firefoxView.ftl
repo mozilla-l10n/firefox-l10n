@@ -113,6 +113,8 @@ firefoxview-history-nav = Riwayat
 firefoxview-history-header = Riwayat
 firefoxview-history-context-delete = Hapus dari Riwayat
     .accesskey = H
+firefoxview-history-context-forget-site = Lupakan Situs Ini…
+    .accesskey = p
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -155,6 +157,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Riwayat pencarian
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Cari markah
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Cari tab yang baru saja ditutup
