@@ -2585,6 +2585,8 @@ related-settings-accessibility-link =
     .label = Personalizar configurações de zoom e fonte na acessibilidade
 related-settings-home-link =
     .label = Personalizar o { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Personalizar layout do navegador
 
 ## AI controls page
 
@@ -2743,8 +2745,14 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Permitir todos os cookies
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Bloquear cookies entre sites
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isolar cookies entre sites
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Bloquear cookies de sites não visitados
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Bloquear todos os cookies entre sites (alguns sites podem não funcionar corretamente)
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Permitir todos os cookies
 preferences-etp-custom-tracking-protection-enabled =

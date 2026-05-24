@@ -367,6 +367,9 @@ tab-group-overflow-count-tooltip =
 
 tab-groups-list-empty-header = Organize suas abas
 tab-groups-list-empty-description = Arraste uma aba sobre outra ou clique com o botão direito em uma aba para começar a organizar. Salvamos seus grupos aqui para ficar fácil encontrar mais tarde.
+tab-groups-list-empty-button = Criar grupo de abas
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Novo grupo
 
 ## Open/saved tab group context menu
 

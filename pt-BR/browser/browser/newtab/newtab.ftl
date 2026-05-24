@@ -1091,6 +1091,19 @@ newtab-sports-widget-team-name-label-civ =
     .label = Costa do Marfim
 newtab-sports-widget-team-name-label-cod =
     .label = República Democrática do Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Inglaterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Escócia
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Escolher fundo de tela
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Adicionar widgets
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Explorar widgets
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1152,6 +1165,19 @@ newtab-clock-widget-button-save = Salvar
 newtab-clock-widget-button-remove-clock =
     .title = Remover relógio
     .aria-label = Remover relógio
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, apelido: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Adicionar relógio
 newtab-clock-widget-edit-clock-form =
