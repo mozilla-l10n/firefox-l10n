@@ -366,6 +366,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = Organize suas abas
+tab-groups-list-empty-description = Arraste uma aba sobre outra ou clique com o botão direito em uma aba para começar a organizar. Salvamos seus grupos aqui para ficar fácil encontrar mais tarde.
 
 ## Open/saved tab group context menu
 
