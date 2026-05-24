@@ -32,7 +32,7 @@ webext-perms-description-tabHide = Ocultar e mostrar abas do navegador
 webext-perms-description-topSites = Acessar o histórico de navegação
 webext-perms-description-trialML = Baixar e executar modelos de inteligência artificial em seu dispositivo
 webext-perms-description-userScripts = Permitir que scripts não verificados de terceiros acessem seus dados
-webext-perms-description-webNavigation = Acessar as atividades do navegador durante a navegação
+webext-perms-description-webNavigation = Acessar atividade do navegador durante a navegação
 
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.

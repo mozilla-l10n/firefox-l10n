@@ -762,6 +762,9 @@ newtab-widget-lists-input-menu-delete = Eliminar
 newtab-widget-lists-input-menu-edit = Editar
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editar elemento
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancelar
+    .title = Cancelar
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista
@@ -942,10 +945,17 @@ newtab-sports-widget-back-button =
     .aria-label = Atrás
 newtab-sports-widget-done-button =
     .label = Hecho
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminado)
 newtab-sports-widget-view-all =
     .label = Ver todos
 newtab-sports-widget-show-less =
     .label = Mostrar menos
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Solo equipos seguidos
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Ver
@@ -1164,6 +1174,19 @@ newtab-clock-widget-button-save = Guardar
 newtab-clock-widget-button-remove-clock =
     .title = Quitar el reloj
     .aria-label = Quitar el reloj
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $ciudad }, apodo: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Añadir reloj
 newtab-clock-widget-edit-clock-form =
