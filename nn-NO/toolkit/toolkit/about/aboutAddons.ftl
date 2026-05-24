@@ -121,7 +121,7 @@ private-browsing-description2 =
     Vi har gjort denne endringa for å halde privat nettlesing privat.
     <label data-l10n-name="private-browsing-learn-more">Les om korleis du administrerer utvidingsinnstillingar.</label>
 aboutaddons-sidebar =
-    .heading = Utvidingar
+    .heading = Tillegg
 addon-category-discover = Tilrådingar
 addon-category-discover-title =
     .title = Tilrådingar
@@ -161,7 +161,7 @@ extensions-warning-check-compatibility = Kompatiblitetskonroll er avslegen. Du h
 extensions-warning-safe-mode2 =
     .message = Alle tillegg er avslegne av trygg-modus.
 extensions-warning-check-compatibility2 =
-    .message = Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible tillegg.
+    .message = Kompatiblitetskonroll for tillegg er slått av. Du har kanskje ikkje-kompatible tillegg.
 extensions-warning-check-compatibility-button = Slå på
     .title = Slå på kompatibilitetskontroll
 extensions-warning-update-security = Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.
