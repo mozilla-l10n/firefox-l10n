@@ -58,6 +58,7 @@ ipprotection-site-settings-callout-button = Eg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyheit: Byt plassering
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Det innebygde VPN-et i { -brand-product-name }</a> lèt deg velje mellom fleire stadar å surfe frå, eller la oss velje den raskaste for deg.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom 5 stadar å surfe frå, eller la oss velje det raskaste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
@@ -68,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringa di</a> medan du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Bidreg til å <a data-l10n-name="learn-more-vpn">halde plasseringa di privat</a> i { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Vel mellom fleire stadar å surfe frå, eller la { -brand-product-name } velje den raskaste for deg.
 unauthenticated-choose-location-message = Vel mellom 5 stadar å surfe frå, eller la { -brand-product-name } velje det raskaste for deg.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -200,6 +202,11 @@ ip-protection-description-1 =
     .label = Innebygd VPN
     .description = Få ekstra personvern ved å skjule plasseringa di medan du surfar.
 ip-protection-learn-more = Les meir
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Prøv det innebygde VPN-et i { -brand-short-name }
+    .message = Surf med ekstra vern ved å skjule posisjonen din.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
