@@ -35,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = Está em uma rede públ
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Tenha <a data-l10n-name="learn-more-vpn">privacidade extra</a> escolhendo entre 5 locais para ocultar onde você navega.
 ipprotection-feature-introduction-description-captive-portal = Navegue com proteção extra, ocultando sua localização, mesmo em redes públicas de WiFi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Tenha <a data-l10n-name="learn-more-vpn">privacidade extra</a> ao escolher entre vários locais, para ocultar onde você está ao navegar
 ipprotection-feature-introduction-button-primary = Avançar
 ipprotection-feature-introduction-button-secondary-not-now = Agora não
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
