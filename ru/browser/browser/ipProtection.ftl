@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Представляем VPN, тепе
 ipprotection-feature-introduction-link-text-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Добавьте ещё один уровень приватности
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из нескольких местоположений, чтобы обеспечить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из 5 местоположений, чтобы повысить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Используете 
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Получите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a>, выбрав одно из 5 местоположений, чтобы скрыть, где вы работаете в интернете.
 ipprotection-feature-introduction-description-captive-portal = Работайте в интернете с дополнительной защитой, скрывая своё местоположение даже при подключении к общедоступной сети Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Получите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a>, выбрав одно из нескольких местоположений, в котором вы находитесь в Интернете.
 ipprotection-feature-introduction-button-primary = Далее
 ipprotection-feature-introduction-button-secondary-not-now = Не сейчас
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Понятно
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Новинка: Измените свое местоположение
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name } VPN</a> позволяет вам выбрать одно из 5 местоположений или позволить нам выбрать самое быстрое для вас.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name } VPN</a> позволяет вам выбрать одно из 5 местоположений или позволить нам выбрать самое быстрое для вас.
 ipprotection-location-selection-callout-primary-button = Попробовать
 ipprotection-location-selection-callout-secondary-button = Убрать
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Убрать
 unauthenticated-vpn-title = Попробуйте VPN, встроенный в { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Скройте своё местоположение</a> при просмотре через { -brand-product-name }.
 unauthenticated-private-location-message = Помогает <a data-l10n-name="learn-more-vpn">сохранить ваше местоположение приватным</a> в { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Выберите нужное вам местоположение или позвольте { -brand-product-name } выбрать самое быстрое.
 unauthenticated-choose-location-message = Выберите одно из 5 местоположений или позвольте { -brand-product-name } выбрать самое быстрое.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
