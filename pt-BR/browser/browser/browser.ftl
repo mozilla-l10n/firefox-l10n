@@ -470,6 +470,8 @@ quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver código-fonte da página
 quickactions-cmd-viewsource2 = ver código fonte, código fonte, código fonte da página
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Abrir { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = ver fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
