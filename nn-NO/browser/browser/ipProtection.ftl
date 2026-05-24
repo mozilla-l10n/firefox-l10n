@@ -28,7 +28,7 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire stader for å gjere kvar du surfar meir privat.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Det innebygde VPN-et i { -brand-product-name }</a> bidreg til å verne surfinga di. Vel mellom 5 stadar for å halde kvar du surfar meir privat.
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> bidreg til å verne surfinga di. Vel mellom 5 stadar for å halde kvar du surfar meir privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -58,7 +58,7 @@ ipprotection-site-settings-callout-button = Eg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyheit: Byt plassering
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Det innebygde VPN-et i { -brand-product-name }</a> lèt deg velje mellom fleire stadar å surfe frå, eller la oss velje den raskaste for deg.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom fleire stadar å surfe frå, eller la oss velje den raskaste for deg.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom 5 stadar å surfe frå, eller la oss velje det raskaste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
@@ -91,7 +91,7 @@ ipprotection-settings-link =
 ipprotection-connection-status-connected = VPN er på
 ipprotection-connection-status-disconnected = VPN er av
 ipprotection-connection-status-excluded = VPN er av for denne nettstaden
-ipprotection-connection-status-connecting = VPN koplar til …
+ipprotection-connection-status-connecting = VPN koplar til…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Slå av VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -191,7 +191,7 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du nærmar deg VPN-
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du har nesten brukt opp VPN-dataa dine.</strong> Du har { $usageLeft } GB igjen. Når du har brukt opp alt, blir VPN-en sett på pause til dataa dine blir nullstilte den første dagen i neste månad.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
-ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du har nesten brukt opp VPN-dataa dine.</strong> Du har { $usageLeft } MB igjen. Når du har brukt opp alt, blir VPN-et sett på pause til dataa dine blir nullstilt den første dagen i neste månad.
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du har nesten brukt opp VPN-dataa dine.</strong> Du har { $usageLeft } MB igjen. Når du har brukt opp alt, blir VPN-en sett på pause til dataa dine blir nullstilt den første dagen i neste månad.
 
 ## IP Protection Settings
 
@@ -205,7 +205,7 @@ ip-protection-learn-more = Les meir
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
-    .heading = Prøv det innebygde VPN-et i { -brand-short-name }
+    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Surf med ekstra vern ved å skjule posisjonen din.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB

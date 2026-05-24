@@ -92,7 +92,7 @@ policy-Homepage = Still inn og eventuelt lås startsida.
 policy-HttpAllowlist = Opphav som ikkje vil bli oppgradert til HTTPS.
 policy-HttpsOnlyMode = Tillat at berre-HTTPS-modus vert aktivert.
 policy-InstallAddonsPermission = Tillat visse nettstadar å installere tillegg.
-policy-IPProtectionAvailable = Forhindre at det innebygde VPN-et er tilgjengeleg for brukarar.
+policy-IPProtectionAvailable = Forhindre at den innebygde VPN-en er tilgjengeleg for brukarar.
 policy-LegacyProfiles = Slå av funksjonen som tvingar fram ein eigen profil for kvar installasjon
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
