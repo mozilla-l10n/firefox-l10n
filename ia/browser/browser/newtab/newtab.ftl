@@ -1186,7 +1186,7 @@ newtab-clock-widget-edit-item =
 #   $city (string) - The city name displayed in the row.
 #   $nickname (string) - The user-provided nickname for the row.
 newtab-clock-widget-edit-item-with-nickname =
-    .aria-label = { $urbe }, pseudonymo: { $nickname }
+    .aria-label = { $city }, pseudonymo: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Adder horologio
 newtab-clock-widget-edit-clock-form =
