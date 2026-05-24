@@ -68,3 +68,5 @@ webauthn-allow = Moneĩ
     .accesskey = A
 webauthn-block = Joko
     .accesskey = B
+webauthn-continue = Ku’ejey
+    .accesskey = n

@@ -101,6 +101,11 @@ set-password-repeat-backup-pw =
     .value = Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva (moneĩ):
 set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõrãvagui mboajepyréva mba’éva, ndaikatumo’ãi emboguevi monguatia pytyvõrãva ag̃ave. Eñongatu tenda hekorosãvape.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Moneĩmby mo’ãmbyre
+
 ## Protected authentication alert
 
 # Variables:
