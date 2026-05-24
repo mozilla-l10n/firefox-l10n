@@ -20,6 +20,10 @@ content-sharing-modal-sign-in =
     .label = 登录以分享链接
 content-sharing-modal-title = 将这组链接分享到任意浏览器
 content-sharing-modal-description = 为这些链接创建公开页面，以便分享。页面创建后，不能再编辑或删除，并将在 7 天后失效。
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links = 最多只会包含 { $count } 个链接
 content-sharing-modal-generic-error =
     .heading = 出了点问题
     .message = 请稍后再试。
