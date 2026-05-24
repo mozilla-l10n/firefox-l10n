@@ -989,6 +989,17 @@ newtab-sports-widget-watch-play =
     .title = Embojuruja ñe’ẽrã
 newtab-sports-widget-group-stage = Atygua jehuga
 newtab-sports-widget-group-a = Aty A
+newtab-sports-widget-group-b = Aty B
+newtab-sports-widget-group-c = Aty C
+newtab-sports-widget-group-d = Aty D
+newtab-sports-widget-group-e = Aty E
+newtab-sports-widget-group-f = Aty F
+newtab-sports-widget-group-g = Aty G
+newtab-sports-widget-group-h = Aty H
+newtab-sports-widget-group-i = Aty I
+newtab-sports-widget-group-j = Aty J
+newtab-sports-widget-group-k = Aty K
+newtab-sports-widget-group-l = Aty L
 newtab-sports-widget-round-32 = 32hápe oĩva
 newtab-sports-widget-round-16 = 16hápe oĩva
 newtab-sports-widget-quarter-finals = 8 atýpe oĩva
@@ -1026,6 +1037,8 @@ newtab-sports-widget-third-place = Osẽva mbohapyhápe
 newtab-sports-widget-runner-up = Osẽva mokõihápe
 newtab-sports-widget-champions = Campeón
 newtab-sports-widget-world-cup-champions = Copa Mundial 2026 oganáva
+newtab-sports-widget-match-full-time = Partído opámava
+newtab-sports-widget-match-penalties = Penal jechuta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -945,6 +945,10 @@ newtab-sports-widget-watch-dialog-close =
 newtab-sports-widget-watch-stream-free = 免费
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
 newtab-sports-widget-watch-stream-free-trial = 免费试看
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = 免费和付费
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = 付费
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = 其他地区
 newtab-sports-widget-group-stage = 小组赛阶段

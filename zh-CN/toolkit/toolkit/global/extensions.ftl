@@ -70,29 +70,29 @@ webext-perms-optional-perms-deny =
 webext-perms-host-description-all-urls = 访问您在所有网站的数据
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
-webext-perms-host-description-wildcard = 访问您在 { $domain } 域名下的数据
+webext-perms-host-description-wildcard = 访问您用于 { $domain } 域名的网站的数据
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = 访问您用于其他 { $domainCount } 个域名的数据
+webext-perms-host-description-too-many-wildcards = 访问您在其他 { $domainCount } 个域名的数据
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
-webext-perms-host-description-one-site = 访问您在 { $domain } 的数据
+webext-perms-host-description-one-site = 访问您用于 { $domain } 的数据
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = 访问您用于其他 { $domainCount } 个网站的数据
+webext-perms-host-description-too-many-sites = 访问您在其他 { $domainCount } 个网站的数据
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
-webext-perms-host-description-one-domain = 访问您在 { $domain } 域名下的数据
+webext-perms-host-description-one-domain = 访问您用于 { $domain } 域名的网站的数据
 # Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
 # be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
 # used instead).
 # Variables:
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
-webext-perms-host-description-multiple-domains = 访问您在 { $domainCount } 个域名下的数据
+webext-perms-host-description-multiple-domains = 访问您用于 { $domainCount } 个域名的网站的数据
 
 ## Strings for data collection permissions in the permission prompt.
 
