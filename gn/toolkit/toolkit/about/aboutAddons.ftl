@@ -119,6 +119,8 @@ private-browsing-description2 =
     { -brand-short-name } rupi nomba’apomo’ãi ijypykue rupi kundaha ñemíme. Neremoneĩrirõ Moĩporãhápe, pe jepysokue ndoikomo’ãi kundaha ñemíme, ha ndoikemo’ãi nerembiapo ñanduti
     peguápe. Romoambue roguereko hag̃ua ñemiháme ne kundaha ñemigua.
     <label data-l10n-name="private-browsing-learn-more">Eikuaa mba’éichapa eñangarekóta ko’ã jepysokue ñemboheko rehe </label>
+aboutaddons-sidebar =
+    .heading = Moĩmbaha
 addon-category-discover = Je’eporã
 addon-category-discover-title =
     .title = Je’eporã
