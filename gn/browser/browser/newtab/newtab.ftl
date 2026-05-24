@@ -947,11 +947,48 @@ newtab-sports-widget-back-button =
     .aria-label = Tapykue
 newtab-sports-widget-done-button =
     .label = Japopyre
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (mboguepyre)
 newtab-sports-widget-view-all =
     .label = Ehechapa
 newtab-sports-widget-show-less =
     .label = Ehechauka’ive
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Aty ojesegíva añoite
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Ehecha
+    .title = Ehecha oikóvo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Ehecha oikóvo
+    .title = Ehecha oikóvo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Emboty
+    .title = Emboty
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Reigua
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Jeporu rei
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Rei ha hepyme’ẽva
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Hepyme’ẽva
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Partído poravopyre añoite
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Eiporukuaáva eikohápe
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Ambue tendápe
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Embojuruja ñe’ẽrã
+    .title = Embojuruja ñe’ẽrã
 newtab-sports-widget-group-stage = Atygua jehuga
+newtab-sports-widget-group-a = Aty A
 newtab-sports-widget-round-32 = 32hápe oĩva
 newtab-sports-widget-round-16 = 16hápe oĩva
 newtab-sports-widget-quarter-finals = 8 atýpe oĩva
