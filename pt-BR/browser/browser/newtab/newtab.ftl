@@ -762,6 +762,9 @@ newtab-widget-lists-input-menu-delete = Excluir
 newtab-widget-lists-input-menu-edit = Editar
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editar item
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancelar
+    .title = Cancelar
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Criar nova lista
@@ -937,7 +940,57 @@ newtab-sports-widget-back-button =
     .aria-label = Voltar
 newtab-sports-widget-done-button =
     .label = Pronto
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminado)
+newtab-sports-widget-view-all =
+    .label = Ver tudo
+newtab-sports-widget-show-less =
+    .label = Mostrar menos
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Apenas times seguidos
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Assistir
+    .title = Assistir ao vivo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Assistir ao vivo
+    .title = Assistir ao vivo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Fechar
+    .title = Fechar
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratuito
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Teste gratuito
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratuito e pago
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Pago
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponível na sua região
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Outras regiões
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Abrir transmissão
+    .title = Abrir transmissão
 newtab-sports-widget-group-stage = Fase de grupos
+newtab-sports-widget-group-a = Grupo A
+newtab-sports-widget-group-b = Grupo B
+newtab-sports-widget-group-c = Grupo C
+newtab-sports-widget-group-d = Grupo D
+newtab-sports-widget-group-e = Grupo E
+newtab-sports-widget-group-f = Grupo F
+newtab-sports-widget-group-g = Grupo G
+newtab-sports-widget-group-h = Grupo H
+newtab-sports-widget-group-i = Grupo I
+newtab-sports-widget-group-j = Grupo J
+newtab-sports-widget-group-k = Grupo K
+newtab-sports-widget-group-l = Grupo L
 newtab-sports-widget-round-32 = Rodada de 32
 newtab-sports-widget-round-16 = Rodada de 16
 newtab-sports-widget-quarter-finals = Quartas de final
@@ -975,6 +1028,10 @@ newtab-sports-widget-third-place = Terceiro lugar
 newtab-sports-widget-runner-up = Segundo lugar
 newtab-sports-widget-champions = Campeões
 newtab-sports-widget-world-cup-champions = Campeões da Copa do Mundo de 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-penalties = Pênaltis
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

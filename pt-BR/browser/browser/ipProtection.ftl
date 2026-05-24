@@ -57,6 +57,7 @@ ipprotection-site-settings-callout-button = Entendi
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novidade: Mude o local
+ipprotection-location-selection-callout-description-1 = A <a data-l10n-name="learn-more-vpn">VPN integrada no { -brand-product-name }</a> permite você escolher entre vários locais de navegação, ou deixar ser escolhido o mais rápido para você.
 ipprotection-location-selection-callout-description = A VPN integrada do <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> permite você escolher entre 5 locais de navegação, ou ela escolher o mais rápido para você.
 ipprotection-location-selection-callout-primary-button = Experimentar
 ipprotection-location-selection-callout-secondary-button = Descartar
@@ -67,6 +68,7 @@ ipprotection-location-selection-callout-secondary-button = Descartar
 unauthenticated-vpn-title = Experimente a VPN integrada no { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Oculte sua localização</a> ao navegar no { -brand-product-name }.
 unauthenticated-private-location-message = Ajuda a <a data-l10n-name="learn-more-vpn">manter sua localização privativa</a> no { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Escolha entre vários locais ou deixe o { -brand-product-name } escolher o mais rápido.
 unauthenticated-choose-location-message = Escolha entre 5 locais ou deixe o { -brand-product-name } escolher o mais rápido.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -199,6 +201,11 @@ ip-protection-description-1 =
     .label = VPN integrada
     .description = Tenha privacidade extra ao ocultar sua localização enquanto navega.
 ip-protection-learn-more = Saiba mais
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Experimente a VPN integrada no { -brand-short-name }
+    .message = Navegue com proteção extra ao ocultar sua localização.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
