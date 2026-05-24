@@ -1658,8 +1658,8 @@ trustpanel-list-label-tracking-cookies =
 trustpanel-list-label-tracking-content = Sporingsinnhald
 trustpanel-list-label-fingerprinter =
     { $count ->
-        [one] { $count } fingeravtrykkssporar
-       *[other] { $count } fingeravtrykkssporarar
+        [one] { $count } nettlesaravtrykk
+       *[other] { $count } nettlesaravtrykk
     }
 trustpanel-list-label-social-tracking =
     { $count ->
