@@ -1315,7 +1315,7 @@ pane-account-sync-title2 = Konto og synkronisering
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ta med deg nettet
-sync-signedout-description2 = Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.
+sync-signedout-description2 = Synkroniser bokmerke, historikk, faner, passord, tillegg og innstillingar på tvers av alle einingane dine.
 sync-signedout-account-signin3 =
     .label = Logg in for å synkronisere…
     .accesskey = L
@@ -1411,7 +1411,7 @@ prefs-sync-turn-on-syncing =
 prefs-sync-turn-on-syncing-2 =
     .label = Slå på synkronisering
     .accesskey = S
-prefs-sync-offer-setup-label2 = Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.
+prefs-sync-offer-setup-label2 = Synkroniser bokmerke, historikk, faner, passord, tillegg og innstillingar på tvers av alle einingane dine.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser no
     .accesskeynotsyncing = n

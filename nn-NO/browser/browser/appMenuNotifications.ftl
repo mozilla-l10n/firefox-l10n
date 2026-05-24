@@ -43,7 +43,7 @@ appmenu-update-other-instance-message = Ei ny { -brand-shorter-name }-oppdaterin
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message3 = Handsam utvidingar og tema via applikasjonsmenyen.
+appmenu-addon-post-install-message3 = Handsam tillegg og tema via applikasjonsmenyen.
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Oppdater løyve og datainnstillingar når som helst i <a data-l10n-name="settings-link">innstillingane for utvidinga</a>.
