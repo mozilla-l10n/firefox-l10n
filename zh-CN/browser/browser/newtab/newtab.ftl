@@ -758,6 +758,9 @@ newtab-widget-lists-input-menu-delete = 删除
 newtab-widget-lists-input-menu-edit = 编辑
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = 编辑项目
+newtab-widget-lists-edit-clear =
+    .aria-label = 取消
+    .title = 取消
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 创建新清单
@@ -921,6 +924,10 @@ newtab-sports-widget-back-button =
     .aria-label = 返回
 newtab-sports-widget-done-button =
     .label = 完成
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName }（已淘汰）
 newtab-sports-widget-view-all =
     .label = 查看全部
 # Watch is a verb (as in watch matches online).
