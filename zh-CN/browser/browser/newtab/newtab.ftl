@@ -1003,10 +1003,47 @@ newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-
 newtab-sports-widget-match-full-time = 全场
 newtab-sports-widget-match-penalties = 点球决胜
 
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } 对 { $awayTeam }，推迟
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } 对 { $awayTeam }，改期
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } 对 { $awayTeam }，中断
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } 对 { $awayTeam }，取消
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = 波黑
+newtab-sports-widget-team-name-label-civ =
+    .label = 科特迪瓦
+newtab-sports-widget-team-name-label-cod =
+    .label = 刚果
+newtab-sports-widget-team-name-label-eng =
+    .label = 英格兰
+newtab-sports-widget-team-name-label-sco =
+    .label = 苏格兰
+
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = 换上新壁纸，迎接世界杯
+newtab-sports-widget-message-wallpapers-cta = 选择壁纸
+newtab-sports-widget-message-add-widgets-cta =
+    .label = 添加小组件
 newtab-sports-widget-message-explore-widgets-cta =
     .label = 探索小组件
 

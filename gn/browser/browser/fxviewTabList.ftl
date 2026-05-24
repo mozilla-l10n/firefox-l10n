@@ -83,6 +83,7 @@ fxviewtabrow-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 fxviewtabrow-send-to-mobile-connect-device = Embojuaju mba’e’oka emondo hag̃ua tendaykeita
 fxviewtabrow-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
 fxviewtabrow-send-to-mobile-not-verified = Mba’ete ojehechajey’ỹva
+fxviewtabrow-send-to-mobile-verify-account = Ehechajey pe mba’ete
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

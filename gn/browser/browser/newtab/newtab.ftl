@@ -765,6 +765,9 @@ newtab-widget-lists-input-menu-delete = Mboguete
 newtab-widget-lists-input-menu-edit = Mbosako’i
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Embosako’i mba’epuru
+newtab-widget-lists-edit-clear =
+    .aria-label = Eheja
+    .title = Eheja
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Emoheñói tysýi pyahu
@@ -851,6 +854,8 @@ newtab-daily-briefing-card-timestamp = Hekopyahu ojapo { $minutes }m
 newtab-widget-message-title = Epyta umi tysýi ndive ha aravopapaha reheve
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Mandu’arã guive tembiaporã peve, ñamindu’u ha jepytu’u jehetetirarã, ema’ẽ ne rembiapo ha aravo rehe.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Tenda ha’eñóva ñemomarandurã, kuaarã ha hetave
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -942,6 +947,10 @@ newtab-sports-widget-back-button =
     .aria-label = Tapykue
 newtab-sports-widget-done-button =
     .label = Japopyre
+newtab-sports-widget-view-all =
+    .label = Ehechapa
+newtab-sports-widget-show-less =
+    .label = Ehechauka’ive
 newtab-sports-widget-group-stage = Atygua jehuga
 newtab-sports-widget-round-32 = 32hápe oĩva
 newtab-sports-widget-round-16 = 16hápe oĩva

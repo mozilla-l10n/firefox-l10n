@@ -64,6 +64,7 @@ ipprotection-location-selection-callout-secondary-button = Emboyke
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
 unauthenticated-private-location-message = Eipytyvõ <a data-l10n-name="learn-more-vpn">ereko ne rendaite ñemíme</a> { -brand-product-name } ndive.
+unauthenticated-choose-location-message-1 = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
 unauthenticated-choose-location-message = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -196,6 +197,11 @@ ip-protection-description-1 =
     .label = VPN juajupyre
     .description = Ehupyty tekoñemive emokañývo ne rendaite eikundaha aja.
 ip-protection-learn-more = Eikuaave
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Eiporu VPN jehe’apyre { -brand-short-name }
+    .message = Eikundaha ñemo’ãve reheve emokañývo ne rendaite.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
