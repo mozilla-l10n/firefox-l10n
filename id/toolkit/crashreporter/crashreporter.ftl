@@ -46,3 +46,4 @@ crashreporter-error-no-home-dir = Direktori home tidak ada
 # $to (String) - the destination path
 crashreporter-error-moving-path = Gagal memindahkan { $from } ke { $to }
 crashreporter-error-version-eol = Versi dengan masa pakai telah berakhir: laporan kerusakan tidak lagi diterima.
+crashreporter-error-failed-to-generate-minidump = Aplikasi gagal menghasilkan informasi kerusakan.

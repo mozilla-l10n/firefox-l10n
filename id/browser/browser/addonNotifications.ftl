@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Situs ini meminta akses ke perangkat MIDI (Musical Instrument Digital Interface) Anda. Akses perangkat dapat diaktifkan dengan memasang pengaya.
 site-permission-install-first-prompt-midi-message = Akses ini tidak dijamin aman. Lanjutkan jika Anda mempercayai situs ini.
+site-permission-install-first-prompt-serial-header = Situs ini meminta akses ke perangkat serial Anda. Akses perangkat dapat diaktifkan dengan memasang pengaya.
+site-permission-install-first-prompt-serial-message = Akses ini tidak dijamin aman. Hanya lanjutkan jika Anda memercayai situs ini.
 
 ##
 
