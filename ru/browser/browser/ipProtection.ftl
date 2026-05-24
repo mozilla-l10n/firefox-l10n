@@ -202,6 +202,11 @@ ip-protection-description-1 =
     .label = Встроенный VPN
     .description = Получите дополнительную приватность, скрыв ваше местоположение во время веб-сёрфинга.
 ip-protection-learn-more = Подробнее
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Попробуйте VPN, встроенный в { -brand-short-name }
+    .message = Сёрфите с дополнительной защитой, скрывая своё местоположение.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =

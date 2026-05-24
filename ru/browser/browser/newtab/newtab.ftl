@@ -764,6 +764,9 @@ newtab-widget-lists-input-menu-delete = Удалить
 newtab-widget-lists-input-menu-edit = Изменить
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Изменить элемент
+newtab-widget-lists-edit-clear =
+    .aria-label = Отмена
+    .title = Отмена
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Создать новый список
@@ -947,10 +950,17 @@ newtab-sports-widget-back-button =
     .aria-label = Назад
 newtab-sports-widget-done-button =
     .label = Готово
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (команда выбыла)
 newtab-sports-widget-view-all =
     .label = Просмотреть все
 newtab-sports-widget-show-less =
     .label = Показать меньше
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Только отслеживаемые команды
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Смотреть
@@ -1169,6 +1179,19 @@ newtab-clock-widget-button-save = Сохранить
 newtab-clock-widget-button-remove-clock =
     .title = Удалить часы
     .aria-label = Удалить часы
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, название: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Добавить часы
 newtab-clock-widget-edit-clock-form =
