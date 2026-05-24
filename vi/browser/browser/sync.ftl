@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Bật đồng bộ hoá để gửi một thẻ
 fxa-menu-send-to-mobile-connect-phone2 = Kết nối điện thoại của bạn
 fxa-menu-send-to-mobile-device-missing2 = Không thấy thiết bị của bạn?
+fxviewtabrow-send-to-mobile-not-verified = Tài khoản chưa được xác minh
+fxviewtabrow-send-to-mobile-verify-account = Xác minh tài khoản của bạn
 fxa-menu-send-to-mobile-turn-on-sync = Bật đồng bộ hoá để gửi thẻ
 fxa-menu-send-to-mobile-connect-device = Kết nối với thiết bị khác để gửi thẻ
 # Variables:

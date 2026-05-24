@@ -333,6 +333,8 @@ tab-group-overflow-count-tooltip = { $tabCount } thẻ khác
 tab-groups-list-empty-header = Sắp xếp lại thẻ của bạn
 tab-groups-list-empty-description = Kéo một thẻ lên thẻ khác hoặc nhấp chuột phải vào một thẻ để bắt đầu sắp xếp. Chúng tôi sẽ lưu các nhóm của bạn ở đây để bạn dễ dàng tìm thấy sau này.
 tab-groups-list-empty-button = Tạo một nhóm thẻ
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nhóm mới
 
 ## Open/saved tab group context menu
 

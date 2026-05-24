@@ -470,6 +470,9 @@ quickactions-cmd-update = cập nhật, cap nhat, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Xem mã nguồn trang
 quickactions-cmd-viewsource2 = xem mã nguồn trang, xem ma nguon trang, trang, source, mã nguồn trang, ma nguon trang
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Mở { -firefoxlabs-brand-name }
+quickactions-cmd-labs = lab, labs, thử nghiệm, thu nghiem
 quickactions-cmd-viewsource = xem mã nguồn trang, xem ma nguon trang, xem mã nguồn, xem ma nguon, xem nguồn, xem nguon, mã nguồn, ma nguon, source code page, code
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

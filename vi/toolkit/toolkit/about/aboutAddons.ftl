@@ -120,6 +120,8 @@ private-browsing-description2 =
     tiện ích mở rộng sẽ không chạy trong khi duyệt web riêng tư và sẽ không có quyền truy cập vào các hoạt động trực tuyến của bạn.
     Chúng tôi đã thực hiện thay đổi này để giữ trình duyệt của bạn riêng tư.
     <label data-l10n-name="private-browsing-learn-more">Tìm hiểu cách quản lý cài đặt tiện ích mở rộng.</label>
+aboutaddons-sidebar =
+    .heading = Tiện ích
 addon-category-discover = Đề xuất
 addon-category-discover-title =
     .title = Đề xuất
@@ -487,6 +489,10 @@ addon-permissions-empty = Tiện ích mở rộng này không yêu cầu bất k
 addon-permissions-required = Các quyền cần thiết cho chức năng cốt lõi:
 addon-permissions-optional = Các quyền tùy chọn cho chức năng được bổ sung:
 addon-permissions-learnmore = Tìm hiểu thêm về quyền hạn
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Một số quyền truy cập được quản lý bởi tổ chức của bạn.
 recommended-extensions-heading = Tiện ích mở rộng được đề xuất
 recommended-themes-heading = Chủ đề được đề xuất
 # Variables:
