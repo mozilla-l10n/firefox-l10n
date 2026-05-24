@@ -971,6 +971,19 @@ newtab-sports-widget-runner-up = Á quân
 newtab-sports-widget-champions = Nhà vô địch
 newtab-sports-widget-world-cup-champions = Nhà vô địch World Cup 2026
 
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Khởi động World Cup với những hình nền mới
+newtab-sports-widget-message-wallpapers-body = Hãy mang chút năng lượng của ngày thi đấu đến trình duyệt của bạn trong suốt giải đấu.
+newtab-sports-widget-message-wallpapers-cta = Chọn hình nền
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Add widgets
+newtab-sports-widget-message-day-in-play-title = Hãy giữ cho ngày của bạn luôn thú vị với các widget của { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Theo dõi World Cup, hoàn thành công việc, theo dõi thời gian trên toàn cầu và hơn thế nữa.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Khám phá widget
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1031,6 +1044,19 @@ newtab-clock-widget-button-save = Lưu
 newtab-clock-widget-button-remove-clock =
     .title = Xoá đồng hồ
     .aria-label = Xoá đồng hồ
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, biệt danh: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Thêm đồng hồ
 newtab-clock-widget-edit-clock-form =
