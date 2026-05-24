@@ -1075,6 +1075,43 @@ newtab-sports-widget-match-aria-label-now =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, tapykue
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, mbohasapyre
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, jokopyre
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, hejapyre
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia Herzegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Costa de Marfil
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Inglaterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Escocia
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Eg̃uahẽ Mundial ñepyrũme mba’erechaha rugua pyahu reheve
+newtab-sports-widget-message-wallpapers-cta = Eiporavo mba’erechaha rugua
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Embojuaju widgets
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Emyasãi widgets
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1136,6 +1173,19 @@ newtab-clock-widget-button-save = Ñongatu
 newtab-clock-widget-button-remove-clock =
     .title = Embogue aravopapaha
     .aria-label = Embogue aravopapaha
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, teragua’u: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Embojuaju aravopapaha
 newtab-clock-widget-edit-clock-form =
