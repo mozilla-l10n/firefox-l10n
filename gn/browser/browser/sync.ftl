@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
 fxa-menu-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 fxa-menu-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
+fxviewtabrow-send-to-mobile-not-verified = Mba’ete ojehechajey’ỹva
+fxa-menu-send-to-mobile-turn-on-sync = Emyandy ñembojuehe emondo hag̃ua tendaykeita
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

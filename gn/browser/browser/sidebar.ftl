@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Eñangareko { -brand-short-name } ñemboheko rehe
 sidebar-vertical-tabs =
     .label = Tendayke ñembo’y
+sidebar-settings2 =
+    .label = Ñemboheko
 sidebar-settings =
     .label = Emboheko ta’ãngarupa ykegua
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Emyasãi tenda yke embohasávo anguja’i
+sidebar-manage-extensions2 = Eñangareko jepysokueitáre
 sidebar-manage-extensions = Eñangareko jepysokuére
+sidebar-customize-extensions-header2 = Jepysokue
+sidebar-customize-firefox-tools-header2 =
+    .label = Tembipuru
 
 ## Labels for sidebar context menu items
 

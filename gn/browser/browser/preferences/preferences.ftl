@@ -892,6 +892,8 @@ browsing-picture-in-picture-learn-more = Kuaave
 browsing-media-control =
     .label = Ehecha tairenda, henduha térã jehechaha ñandutigua ndive
     .accesskey = v
+recommendations-group =
+    .label = Je’eporãpyreita
 browsing-media-control-learn-more = Kuaave
 browsing-cfr-recommendations =
     .label = Eñe’ẽporã jepysokue rehe eikumdaha aja
@@ -1290,6 +1292,8 @@ account-placeholder2 =
     .description = Eike ha eñongatu nde VPN mba’ekuaarã ñemi, ipapapypy ha ojeikekuaaha opaite reiporusehápe { -brand-short-name }.
 account-sync-section =
     .heading = Mba’ete ha ñembojuehe
+pane-account-sync-title2 = Mba’ete ha ñembojuehe
+    .title = Mba’ete ha ñembojuehe
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1745,6 +1749,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Ñe’ẽñemi ha moĩjehegui
+    .title = Ñe’ẽñemi ha moĩjehegui
+preferences-passwords-autofill-header =
+    .heading = Ñe’ẽñemi ha moĩjehegui
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2216,6 +2224,10 @@ permissions-notification2 =
 permissions-header3 =
     .label = Ñemoneĩ
     .description = Eñangareko mba’e ñanduti rogue oikekuaa, ohechameme térã omyandy.
+permissions-data-section =
+    .heading = Ñemoneĩ ha mba’ekuaarã
+pane-permissions-data-title2 = Ñemoneĩ ha mba’ekuaarã
+    .title = Ñemoneĩ ha mba’ekuaarã
 
 ## Privacy Section - Data Collection
 
@@ -2543,6 +2555,15 @@ preferences-connection-link-button =
 desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Mba'ejeguarã:
+browser-theme-manage-link =
+    .label = Eñangareko téma { -brand-short-name }
+related-settings-group =
+    .label = Ñemoĩporã ojuehegua
 
 ## AI controls page
 
