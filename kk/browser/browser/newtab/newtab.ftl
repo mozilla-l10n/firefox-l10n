@@ -764,6 +764,9 @@ newtab-widget-lists-input-menu-delete = Өшіру
 newtab-widget-lists-input-menu-edit = Түзету
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Элементті түзету
+newtab-widget-lists-edit-clear =
+    .aria-label = Бас тарту
+    .title = Бас тарту
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Жаңа тізімді жасау
@@ -1164,6 +1167,13 @@ newtab-clock-widget-button-save = Сақтау
 newtab-clock-widget-button-remove-clock =
     .title = Сағатты өшіру
     .aria-label = Сағатты өшіру
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
 newtab-clock-widget-add-clock-form =
     .aria-label = Сағатты қосу
 newtab-clock-widget-edit-clock-form =

@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Kirjaudu sisään lähettääksesi v�
 main-context-menu-send-to-mobile-enable-sync2 = Ota synkronointi käyttöön lähettääksesi välilehden
 main-context-menu-send-to-mobile-connect-phone2 = Yhdistä puhelimesi
 main-context-menu-send-to-mobile-device-missing2 = Etkö näe laitettasi?
+main-context-menu-send-to-mobile-sign-in-from-link = Kirjaudu sisään lähettääksesi linkin
+main-context-menu-send-to-mobile-sign-in-from-page = Kirjaudu sisään lähettääksesi sivun
+main-context-menu-send-to-mobile-enable-sync3 = Ota synkronointi käyttöön lähettääksesi välilehtiä
+main-context-menu-send-to-mobile-enable-sync-from-link = Ota synkronointi käyttöön lähettääksesi linkin
+main-context-menu-send-to-mobile-enable-sync-from-page = Ota synkronointi käyttöön lähettääksesi sivun
+main-context-menu-send-to-mobile-connect-phone3 = Yhdistä laite lähettääksesi välilehtiä
+main-context-menu-send-to-mobile-connect-phone-from-link = Yhdistä laite lähettääksesi linkin
+main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähettääksesi sivun
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Ota synkronointi käyttöön lähettääksesi välilehden
