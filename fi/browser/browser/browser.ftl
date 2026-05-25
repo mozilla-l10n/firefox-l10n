@@ -470,6 +470,9 @@ quickactions-cmd-update = päivitä
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Näytä sivun lähdekoodi
 quickactions-cmd-viewsource2 = näytä lähdekoodi, lähde, sivun lähdekoodi
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Avaa { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratoriot, koe, labs, experiment
 quickactions-cmd-viewsource = näytä lähde, lähdekoodi
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -1112,6 +1112,7 @@ newtab-sports-widget-message-wallpapers-cta = Eiporavo mba’erechaha rugua
 newtab-sports-widget-message-add-widgets-cta =
     .label = Embojuaju widgets
 newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’épe umi widget { -brand-product-name } rupi.
+newtab-sports-widget-message-day-in-play-body = Ehecha Mundial, pepyta py’aguapýpe, pehecha aravo arapy tuichakue ha hetave.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Emyasãi widgets
 
