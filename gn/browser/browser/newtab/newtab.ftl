@@ -1107,9 +1107,11 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Eg̃uahẽ Mundial ñepyrũme mba’erechaha rugua pyahu reheve
+newtab-sports-widget-message-wallpapers-body = Emog̃uahẽ upe energía partído oikotaha ára ne mohendahápe.
 newtab-sports-widget-message-wallpapers-cta = Eiporavo mba’erechaha rugua
 newtab-sports-widget-message-add-widgets-cta =
     .label = Embojuaju widgets
+newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’épe umi widget { -brand-product-name } rupi.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Emyasãi widgets
 
