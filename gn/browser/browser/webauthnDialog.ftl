@@ -70,3 +70,7 @@ webauthn-block = Joko
     .accesskey = B
 webauthn-continue = Ku’ejey
     .accesskey = n
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } omoheñoise ñe’ẽ ñemi jeikerã { $rpId }-pe g̃uarã.
