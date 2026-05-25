@@ -2560,10 +2560,15 @@ choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 
 preferences-appearance-header =
     .heading = Mba'ejeguarã:
+browser-theme-group =
+    .label = Kundahára téma
+    .description = Mboaváva { -brand-short-name } eipotaháicha. Téma sa’ykuéra oñemoĩ tembiporu rupápe, poravorã ha ñe’ẽmondo.
 browser-theme-manage-link =
     .label = Eñangareko téma { -brand-short-name }
 related-settings-group =
     .label = Ñemoĩporã ojuehegua
+related-settings-home-link =
+    .label = Emboava { -firefox-home-brand-name }
 
 ## AI controls page
 
