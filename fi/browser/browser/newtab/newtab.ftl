@@ -770,6 +770,9 @@ newtab-widget-lists-input-menu-delete = Poista
 newtab-widget-lists-input-menu-edit = Muokkaa
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Muokkaa merkintää
+newtab-widget-lists-edit-clear =
+    .aria-label = Peruuta
+    .title = Peruuta
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Luo uusi lista
@@ -794,6 +797,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Pienoisohjelmat
 newtab-widget-menu-hide = Piilota pienoisohjelma
 newtab-widget-menu-change-size = Muuta kokoa
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Siirrä
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Vasen
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Oikea
 newtab-widget-size-small = Pieni
 newtab-widget-size-medium = Keskikokoinen
 newtab-widget-size-large = Suuri
@@ -810,6 +822,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Pienoisohjelmien valikko
     .aria-label = Avaa pienoisohjelmien valikko
+newtab-widget-add-widgets-button =
+    .aria-label = Lisää pienoisohjelma
+    .title = Lisää pienoisohjelma
 newtab-widget-section-menu-manage = Hallitse pienoisohjelmia
 newtab-widget-section-menu-hide-all = Piilota pienoisohjelmat
 newtab-widget-section-menu-learn-more = Lue lisää
@@ -902,6 +917,7 @@ newtab-widget-timer-celebration-message-break = Valmis keskittymään?
 ##
 
 newtab-sports-widget-menu-follow-teams = Seuraa joukkueita
+newtab-sports-widget-menu-view-schedule = Näytä aikataulu
 newtab-sports-widget-menu-view-upcoming = Näytä tulevat
 newtab-sports-widget-menu-view-results = Näytä tulokset
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -930,9 +946,50 @@ newtab-sports-widget-search-country =
     .placeholder = Hae maata
     .aria-label = Hae maata
 newtab-sports-widget-cancel = Peruuta
+newtab-sports-widget-back-button =
+    .aria-label = Takaisin
 newtab-sports-widget-done-button =
     .label = Valmis
+newtab-sports-widget-view-all =
+    .label = Näytä kaikki
+newtab-sports-widget-show-less =
+    .label = Näytä vähemmän
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Katso
+    .title = Katso suorana
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Katso suorana
+    .title = Katso suorana
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Sulje
+    .title = Sulje
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Ilmainen
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Ilmainen kokeilujakso
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Ilmainen ja maksullinen
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Maksullinen
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Avaa suoratoisto
+    .title = Avaa suoratoisto
 newtab-sports-widget-group-stage = Lohkovaihe
+newtab-sports-widget-group-a = Lohko A
+newtab-sports-widget-group-b = Lohko B
+newtab-sports-widget-group-c = Lohko C
+newtab-sports-widget-group-d = Lohko D
+newtab-sports-widget-group-e = Lohko E
+newtab-sports-widget-group-f = Lohko F
+newtab-sports-widget-group-g = Lohko G
+newtab-sports-widget-group-h = Lohko H
+newtab-sports-widget-group-i = Lohko I
+newtab-sports-widget-group-j = Lohko J
+newtab-sports-widget-group-k = Lohko K
+newtab-sports-widget-group-l = Lohko L
 newtab-sports-widget-round-32 = 32 parasta
 newtab-sports-widget-round-16 = 16 parasta
 newtab-sports-widget-quarter-finals = Puolivälierät
@@ -944,6 +1001,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Tärkeimmät päivät
 newtab-sports-widget-upcoming = Tulossa
+# Used for a match currently ongoing
+newtab-sports-widget-now = Nyt
 newtab-sports-widget-results = Tulokset
 newtab-sports-widget-semi-finals = Välierät
 newtab-sports-widget-bronze-finals = Pronssiottelu
@@ -968,6 +1027,26 @@ newtab-sports-widget-third-place = Kolmas sija
 newtab-sports-widget-runner-up = Toinen sija
 newtab-sports-widget-champions = Mestarit
 newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-civ =
+    .label = Norsunluurannikko
+newtab-sports-widget-team-name-label-eng =
+    .label = Englanti
+newtab-sports-widget-team-name-label-sco =
+    .label = Skotlanti
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Valitse taustakuva
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Lisää pienoisohjelmia
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Tutustu pienoisohjelmiin
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1029,6 +1108,13 @@ newtab-clock-widget-button-save = Tallenna
 newtab-clock-widget-button-remove-clock =
     .title = Poista kello
     .aria-label = Poista kello
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
 newtab-clock-widget-add-clock-form =
     .aria-label = Lisää kello
 newtab-clock-widget-edit-clock-form =
@@ -1038,6 +1124,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Hakutulokset
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Ei tuloksia
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

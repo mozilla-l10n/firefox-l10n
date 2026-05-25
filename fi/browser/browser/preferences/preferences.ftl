@@ -51,6 +51,8 @@ pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Aloitussivu
+pane-home-startup-title2 = Koti ja käynnistys
+    .title = Koti ja käynnistys
 pane-search-title2 = Haku
     .title = Haku
 pane-privacy-title3 = Tietosuoja ja turvallisuus
@@ -282,6 +284,9 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Varoita, kun useiden välilehtien avaaminen voi hidastaa { -brand-short-name }ia
     .accesskey = r
+switch-to-new-tabs-2 =
+    .label = Kun avaan linkkejä tai mediaa uudelle välilehdelle, siirry siihen välittömästi
+    .accesskey = h
 switch-to-new-tabs =
     .label = Kun avaat linkin, kuvan tai median uudessa välilehdessä, vaihda siihen välittömästi
     .accesskey = K
@@ -840,6 +845,10 @@ performance-default-content-process-count =
     .label = { $num } (oletus)
 performance-group =
     .label = Suorituskyky
+performance-use-recommended-settings-checkbox-2 =
+    .label = Käytä suositeltuja suorituskykyasetuksia
+    .description = Nämä asetukset on sovitettu laitteistollesi ja käyttöjärjestelmällesi.
+    .accesskey = u
 
 ## Accessibility page
 
@@ -2574,6 +2583,8 @@ related-settings-accessibility-link =
     .label = Mukauta suurennuksen ja kirjasimen asetuksia esteettömyysasetuksissa
 related-settings-home-link =
     .label = Mukauta { -firefox-home-brand-name }ia
+related-settings-tabs-browsing-link =
+    .label = Mukauta selaimen asettelua
 
 ## AI controls page
 
@@ -2732,8 +2743,16 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Evästeet
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Salli kaikki evästeet
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Estä sivustorajat ylittävät evästeet
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Eristä sivustorajat ylittävät evästeet
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Estä evästeet vierailemattomilta verkkosivustoilta
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Estä kaikki sivustorajat ylittävät evästeet (voi aiheuttaa sivustojen toimimattomuutta)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Estä kaikki evästeet (rikkoo verkkosivustoja)
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Salli kaikki evästeet
 preferences-etp-custom-tracking-protection-enabled =

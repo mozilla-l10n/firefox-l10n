@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Asetukset…
+menu-application-set-as-default =
+    .label = Aseta { -brand-shorter-name } oletusselaimeksi
 menu-application-services =
     .label = Palvelut
 menu-application-hide-this =

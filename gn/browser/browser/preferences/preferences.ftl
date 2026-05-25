@@ -756,6 +756,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Ñemohenda
+update-application-auto-2 =
+    .label = Emohenda umi ñembohekopyahu ijeheguíva (je’epyre)
+    .accesskey = A
 update-history =
     .label = Tembiasakue rekopyahu jehechauka…
     .accesskey = p
@@ -2573,8 +2576,12 @@ browser-theme-manage-link =
     .label = Eñangareko téma { -brand-short-name }
 related-settings-group =
     .label = Ñemoĩporã ojuehegua
+related-settings-accessibility-link =
+    .label = Emboava pe ñembotuicha ha teñoiha Jeikekuaahápe
 related-settings-home-link =
     .label = Emboava { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Emboava pe kundahára ra’ãnga
 
 ## AI controls page
 
@@ -2726,8 +2733,12 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Kookie
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Emoneĩmbaite kookieita
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Ejoko kookie tenda pa’ũme
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Eipe’a kookie ñanduti rogue okayguágui
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Ejoko ñanduti rogue kookie eike’ỹhague
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Emoneĩmbaite kookieita
 preferences-etp-custom-tracking-protection-enabled =
