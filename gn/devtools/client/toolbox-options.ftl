@@ -38,6 +38,8 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Tekome’ẽ DOM ñemboyke
 options-collapse-attrs-tooltip =
     .title = Tekome’ẽ ipukúva moambuekuaávape ñemboyke
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Ehechauka je’epy
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Eikutu ha embosyryry rehaijey hag̃ua tuichakue térã michĩngue
 options-inspector-draggable-properties-tooltip =
