@@ -189,6 +189,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } ndaikatúi omoheñói jeike hekorosãva { $hostname } mba’e’oka ndive.
 fp-neterror-offline-intro = { -brand-short-name } ndoikekuaái mba’e’okápe <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } ndoikekuaái upe mba’e’okápe <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Pe mohendahavusu <strong>{ $hostname }</strong> imbegue ombohovái hag̃ua.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
