@@ -121,7 +121,7 @@ close-button =
 do-not-track-removal2 =
     .label = 我们已不再支持“请勿跟踪”信号
 applications-setting-new-file-types =
-    .label = { -brand-short-name } 应如何处理其他文件？
+    .label = { -brand-short-name } 处理其他文件的方式
 
 ## Browser Restart Dialog
 
@@ -725,7 +725,7 @@ applications-use-os-default-label =
 
 ## Firefox updates
 
-applications-handle-new-file-types-description = { -brand-short-name } 应如何处理其他文件？
+applications-handle-new-file-types-description = { -brand-short-name } 处理其他文件的方式
 applications-save-for-new-types =
     .label = 保存文件
     .accesskey = S
