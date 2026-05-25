@@ -76,6 +76,16 @@ report-broken-site-panel-report-sent-header =
     .title = Pe Marandu’i oñemondóma
 report-broken-site-panel-report-sent-text = Aguyje eipytyvõre { -brand-product-name } ñanduti ijurujave hag̃ua, jeikrei ha iporãvéva opavavépe g̃uarã.
 report-broken-site-panel-invalid-url-label = Emoinge peteĩ URL oikóva
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Ikatúpa, emoinge michĩvérõ{ $minLength } tairenda
+       *[other] Ikatúpa, emoinge michĩvérõ{ $minLength } tairenda
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Emondo mba’erechaha japyhypy
+report-broken-site-panel-url-input-label =
+    .aria-label = Kuatiarogue URL rehegua oñemomarandúva
 report-broken-site-panel-missing-reason-label = Eiporavomína mba’érepa
 report-broken-site-panel-blocked-trackers-label =
     .label = Emondo URL jokopyre tapykueho ñemo’ãhandi

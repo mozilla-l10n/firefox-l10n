@@ -74,3 +74,7 @@ webauthn-continue = Ku’ejey
 #   $origin (String): the domain of the site making the request
 #   $rpId (String): the related domain the passkey is associated with
 webauthn-related-origin-create-header = { $origin } omoheñoise ñe’ẽ ñemi jeikerã { $rpId }-pe g̃uarã.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } oiporuse ñe’ẽ ñemi jeikerã { $rpId }-pe g̃uarã.

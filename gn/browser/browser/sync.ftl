@@ -74,6 +74,10 @@ sync-setup-verify-heading = Remoñepyrũsépa tembiapo embojuehe hag̃ua
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Ambue poruhára omoñepyrũmara’e ombojuehe ko mohendahápe. Oñembojuajúvo ojehe’áta techaukaha, ñe’ẽñemi ha ambue mba’epytyvõrã { $email } ndive
 
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Eike ñandutípe emondo hag̃ua tendayke
+
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Dialog 1 - different account signing in without option to merge
