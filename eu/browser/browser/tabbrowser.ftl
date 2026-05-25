@@ -365,6 +365,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Txukundu zure fitxak
 tab-groups-list-empty-description = Antolatzen hasteko, arrastatu fitxa bat bestearen gainera edo egin eskuin-klika fitxa batean. Zure taldeak hemen gordeko ditugu aurkitzeko errazagoak izan daitezen.
 tab-groups-list-empty-button = Sortu fitxa-taldea
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Talde berria
 
 ## Open/saved tab group context menu
 

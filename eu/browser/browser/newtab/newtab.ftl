@@ -1097,6 +1097,8 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bosnia eta Herzegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Boli Kosta
+newtab-sports-widget-team-name-label-cod =
+    .label = Kongoko Errepublika Demokratikoa
 newtab-sports-widget-team-name-label-eng =
     .label = Ingalaterra
 newtab-sports-widget-team-name-label-sco =
@@ -1106,9 +1108,12 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Hasi Munduko Kopa horma-paper berriekin
+newtab-sports-widget-message-wallpapers-body = Jarri txapelketarako partida-eguneko energia zure nabigatzailean.
 newtab-sports-widget-message-wallpapers-cta = Aukeratu horma-papera
 newtab-sports-widget-message-add-widgets-cta =
     .label = Gehitu widgetak
+newtab-sports-widget-message-day-in-play-title = Izan eguna jokoan { -brand-product-name }(r)en widgetekin
+newtab-sports-widget-message-day-in-play-body = Jarraitu Munduko Kopa, egon zereginen gainean, egin mundu osoko orduaren jarraipena eta gehiago.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Arakatu widgetak
 
@@ -1172,6 +1177,19 @@ newtab-clock-widget-button-save = Gorde
 newtab-clock-widget-button-remove-clock =
     .title = Kendu erlojua
     .aria-label = Kendu erlojua
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, ezizena: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Gehitu erlojua
 newtab-clock-widget-edit-clock-form =

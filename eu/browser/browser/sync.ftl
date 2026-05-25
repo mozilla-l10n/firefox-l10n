@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 fxa-menu-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 fxa-menu-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?
+fxviewtabrow-send-to-mobile-not-verified = Kontua egiaztatu gabe
+fxviewtabrow-send-to-mobile-verify-account = Egiaztatu zure kontua
 fxa-menu-send-to-mobile-turn-on-sync = Aktibatu sinkronizazioa fitxak bidaltzeko
 fxa-menu-send-to-mobile-connect-device = Konektatu gailu bat fitxak bidaltzeko
 # Variables:
