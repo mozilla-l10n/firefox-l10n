@@ -470,6 +470,9 @@ quickactions-cmd-update = eguneratu
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ikusi orriaren iturburua
 quickactions-cmd-viewsource2 = ikusi iturburua, iturburua, orriaren iturburua
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Ireki { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, laborategia, esperimentua
 quickactions-cmd-viewsource = ikusi iturburua, iturburua
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

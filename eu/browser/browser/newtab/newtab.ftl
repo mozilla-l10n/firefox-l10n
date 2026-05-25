@@ -765,6 +765,9 @@ newtab-widget-lists-input-menu-delete = Ezabatu
 newtab-widget-lists-input-menu-edit = Editatu
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editatu elementua
+newtab-widget-lists-edit-clear =
+    .aria-label = Utzi
+    .title = Utzi
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Sortu zerrenda berria
@@ -851,6 +854,8 @@ newtab-daily-briefing-card-timestamp = Duela { $minutes }m eguneratuta
 newtab-widget-message-title = Mantendu kontzentratuta zerrendekin eta tenporizadorearekin
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Abisu azkarretatik egunaren egitekoetara, saio zentratuetatik luzatzeko hutsuneetara — izan zereginen gainean eta garaiz.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Toki bakarra kontzentrazio, iragarpen eta gehiagorako
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
