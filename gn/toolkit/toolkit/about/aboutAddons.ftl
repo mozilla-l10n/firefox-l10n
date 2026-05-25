@@ -470,6 +470,10 @@ addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
 addon-permissions-required = Ñemoneĩ tekotevẽva tembiapoite ha’etévape g̃uarã:
 addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uarã:
 addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Oĩ ñemoneĩ ombohapéva ne mba’apohaguasu.
 recommended-extensions-heading = Jepysokue je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
 # Variables:
@@ -581,6 +585,7 @@ mlmodel-link-preview = { -brand-short-name } oiporu kóva oguereko hag̃ua kyta 
 mlmodel-pdfjs = { -brand-short-name } oiporu kóva omoheñói hag̃ua moñe’ẽrã mokõiháva ta’ãngakuéra oñembojuajúva PDF rehe
 mlmodel-smart-tab-topic-engine = { -brand-short-name } oiporu kóva he’i hag̃ua téra tendayke atýpe g̃uarã
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } oiporu kóva he’i hag̃ua tendayke tendayke atýpe g̃uarã
+mlmodel-formfill-engine = { -brand-short-name } oipuru kóva oipytyvõ hag̃ua emyenyhẽvo kundahára myanyhẽha
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA mba’e’okápe
 addon-category-mlmodel-title =
