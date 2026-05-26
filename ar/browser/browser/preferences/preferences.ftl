@@ -281,6 +281,9 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ { -brand-short-name }
     .accesskey = ف
+switch-to-new-tabs-2 =
+    .label = عند فتح الروابط أو الوسائط في ألسنة جديدة، انتقل إليها فورًا.
+    .accesskey = ف
 switch-to-new-tabs =
     .label = عند فتح رابط أو صورة أو وسيط في لسان جديد، انتقل إليه مباشرة
     .accesskey = ع
@@ -358,6 +361,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = أظهِر الشريط الجانبي
     .description = الوصول بسرعة إلى العلامات، والألسنة من هاتفك، ودردشة الذكاء الاصطناعي، والمزيد دون مغادرة واجهتك الرئيسية.
+page-navigation-group =
+    .label = التنقل بين الصفحات
 browser-layout-header = تخطيط المتصفح
 browser-layout-horizontal-tabs =
     .label = ألسنة أفقية
@@ -475,6 +480,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = قرّب النص فقط
     .accesskey = ن
+preferences-text-zoom-override-warning2 =
+    .message = إذا كان خيار "قرّب النص فقط" مفعّلاً ولم يكن مستوى التقريب المبدئي لديك 100%، فقد لا تعرض بعض المواقع المحتوى بشكل صحيح.
 preferences-text-zoom-override-warning =
     .message = تحذير: حدّدت "قرّب النص فقط" ولم تضبط التقريب المبدئي على 100٪، فقد يتسبب ذلك في تعطّل بعض المواقع أو المحتوى.
 language-header = اللّغات
@@ -1305,6 +1312,8 @@ account-placeholder2 =
     .description = لِج وحافظ على خصوصية بياناتك وتعميتها، مع إمكانية الوصول إليها فورًا في كل مكان تستخدم فيه { -brand-short-name }.
 account-sync-section =
     .heading = الحساب والمزامنة
+pane-account-sync-title2 = الحساب والمزامنة
+    .title = الحساب والمزامنة
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2580,6 +2589,8 @@ related-settings-accessibility-link =
     .label = خصّص إعدادات التقريب وتبعيد والخط في قسم الإتاحة
 related-settings-home-link =
     .label = خصّص { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = خصّص تخطيط المتصفح
 
 ## AI controls page
 
@@ -2730,6 +2741,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = ملفات تعريف الارتباط
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = اسمح بجميع ملفات تعريف الارتباط
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = احجب ملفات تعريف الإرتباط بين المواقع
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = اعزل ملفات تعريف الارتباط بين المواقع
 preferences-etpc-custom-cookie-behavior-accept-all =

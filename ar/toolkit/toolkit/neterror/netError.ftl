@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = لا يستطيع { -brand-short-name } عمل اتصال آمن بالخادم في { $hostname }.
 fp-neterror-offline-intro = لا يمكن لـ { -brand-short-name } الاتصال بالخادم على <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = لا يمكن لـ { -brand-short-name } الاتصال بالخادم على <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = يستغرق الخادم الموجود على <strong>{ $hostname }</strong> وقتًا طويلاً جدًا للاستجابة.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

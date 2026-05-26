@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = الإعدادات…
+menu-application-set-as-default =
+    .label = عيّن { -brand-shorter-name } كمتصفح مبدئي
 menu-application-services =
     .label = الخدمات
 menu-application-hide-this =
