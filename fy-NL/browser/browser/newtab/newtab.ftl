@@ -944,6 +944,18 @@ newtab-sports-widget-back-button =
 newtab-sports-widget-done-button =
     .label = Dien
 newtab-sports-widget-group-stage = Groepsfase
+newtab-sports-widget-group-a = Groep A
+newtab-sports-widget-group-b = Groep B
+newtab-sports-widget-group-c = Groep C
+newtab-sports-widget-group-d = Groep D
+newtab-sports-widget-group-e = Groep E
+newtab-sports-widget-group-f = Groep F
+newtab-sports-widget-group-g = Groep G
+newtab-sports-widget-group-h = Groep H
+newtab-sports-widget-group-i = Groep I
+newtab-sports-widget-group-j = Groep J
+newtab-sports-widget-group-k = Groep K
+newtab-sports-widget-group-l = Groep L
 newtab-sports-widget-round-32 = Ronde fan 32
 newtab-sports-widget-round-16 = Ronde fan 16
 newtab-sports-widget-quarter-finals = Kwartfinalen
@@ -981,6 +993,76 @@ newtab-sports-widget-third-place = Tredde plak
 newtab-sports-widget-runner-up = Twadde plak
 newtab-sports-widget-champions = Kampioen
 newtab-sports-widget-world-cup-champions = Wrâldkampioen 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Wedstriid ôfrûn
+newtab-sports-widget-match-penalties = Strafskoppen
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } tsjin { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) tsjin { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Live: { $homeTeam }, { $homeScore } tsjin { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } - { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } - { $awayTeam }, fertrage
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } - { $awayTeam }, útsteld
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } - { $awayTeam }, skorst
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } - { $awayTeam }, annulearre
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnje en Herzgovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Ivoarkust
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Kongo
+newtab-sports-widget-team-name-label-eng =
+    .label = Ingelân
+newtab-sports-widget-team-name-label-sco =
+    .label = Skotlân
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Begjin it WK mei nije eftergrûnen
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
