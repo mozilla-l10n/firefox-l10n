@@ -84,6 +84,17 @@ unified-extensions-mb-blocklist-error-single =
     .message = Esta extensão viola diretrizes da Mozilla e foi desativada.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensão desativada
+           *[other] { $extensionsCount } extensões desativadas
+        }
+    .message =
+        Algumas extensões instaladas estão com restrição e foram desativadas.
+        Você pode habilitar nas configurações, mas pode ser arriscado.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
