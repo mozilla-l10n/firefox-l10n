@@ -98,6 +98,8 @@ report-broken-site-panel-invalid-description-label =
     }
 report-broken-site-panel-screenshot-label =
     .label = Odeslat snímek obrazovky
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Odeslat seznam položek blokovaných ochranou proti sledování
 report-broken-site-panel-url-input-label =
     .aria-label = URL nahlašované stránky
 report-broken-site-panel-missing-reason-label = Zvolte důvod
