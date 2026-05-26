@@ -1265,6 +1265,7 @@ toolbar-button-tab-groups =
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
 
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
