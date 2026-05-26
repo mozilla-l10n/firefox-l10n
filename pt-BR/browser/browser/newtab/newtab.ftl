@@ -1099,9 +1099,13 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Entre no clima da Copa do Mundo com novos fundos de tela
+newtab-sports-widget-message-wallpapers-body = Traga a energia dos dias de jogo para o seu navegador durante o campeonato.
 newtab-sports-widget-message-wallpapers-cta = Escolher fundo de tela
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adicionar widgets
+newtab-sports-widget-message-day-in-play-title = Acompanhe os jogos diariamente com widgets do { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Acompanhe a Copa do Mundo, mantenha o foco em tarefas, saiba a hora em vários locais do mundo e muito mais.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
 
