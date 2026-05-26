@@ -641,6 +641,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Mjete Shfletuesi.
@@ -998,6 +1001,9 @@ urlbar-result-action-switch-to-tabgroup = Kalo te { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Hap { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1165,7 +1171,7 @@ repair-text-encoding-button =
     .label = Riparo kodim teksti
     .tooltiptext = Hamendësoje kodimin e saktë të tekstit që nga lënda e faqes
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1229,6 +1235,11 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Ndajeni me të tjerët
     .tooltiptext = Ndajeni këtë faqe me të tjerët
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = kodqr
 
 ## EME notification panel
 
@@ -1668,3 +1679,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Gjurmues i bllokuar në këtë sajt
        *[other] <span data-l10n-name="count">{ $count }</span> Gjurmues të bllokuar në këtë sajt
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
