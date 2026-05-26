@@ -2909,6 +2909,8 @@ related-settings-accessibility-link =
     .label = Přizpůsobení nastavení velikosti stránky a písma najdete v části Přístupnost
 related-settings-home-link =
     .label = Přizpůsobit { -firefox-home-brand-name(case: "acc") }
+related-settings-tabs-browsing-link =
+    .label = Přizpůsobení rozložení prohlížeče
 
 ## AI controls page
 
@@ -3109,8 +3111,12 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Povolit všechny cookies
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Blokovat cross-site cookies
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Izolovat cross-site cookies
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Blokovat cookies z dosud nenavštívených stránek
 preferences-etp-custom-cookie-behavior-block-all =
     .label = Všechny cookies (stránky nemusí fungovat správně)
 preferences-etpc-custom-cookie-behavior-accept-all =
