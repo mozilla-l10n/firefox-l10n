@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = تقرير عن { $addon-name }
 abuse-report-title-extension = أبلِغ { -vendor-short-name } عن هذا الامتداد
+abuse-report-title-sitepermission = بلِّغ عن أذونات هذه الإضافة إلى { -vendor-short-name }
 abuse-report-title-theme = أبلِغ { -vendor-short-name } عن هذه السمة
 abuse-report-subtitle = ما المشكلة؟
 # Variables:
@@ -85,6 +86,7 @@ abuse-report-broken-suggestions-theme =
     يبدو أنك قد اكتشفت علة. بالإضافة إلى إرسال تقرير هنا، فإن أفضل طريقة لحل مشكلة في وظائف القالب هي التواصل مع مطوّر السمة.
     
     <a data-l10n-name="support-link">تفضل بزيارة موقع السمة</a> للحصول على معلومات المطوّر.
+abuse-report-policy-reason-v2 = تحتوي على محتوى بغيض أو عنيف أو غير قانوني.
 abuse-report-policy-suggestions =
     ملاحظة: يجب الإبلاغ عن مشاكل حقوق النشر والعلامات التجارية بشكل منفصل.
     <a data-l10n-name="report-infringement-link">استخدم هذه التعليمات</a>

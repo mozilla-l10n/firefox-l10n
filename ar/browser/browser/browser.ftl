@@ -470,6 +470,9 @@ quickactions-cmd-update = حدّث
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = اعرض مصدر هذه الصفحة
 quickactions-cmd-viewsource2 = عرض المصدر, المصدر, مصدر الصفحة, view source, source, page source
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = افتح { -firefoxlabs-brand-name }
+quickactions-cmd-labs = المختبرات، التجارب
 quickactions-cmd-viewsource = اعرض المصدر, مصدر, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1326,6 +1329,8 @@ panel-save-update-password = كلمة السر
 # "More" item in macOS share menu
 menu-share-more =
     .label = أكثر…
+menu-share-windows =
+    .label = المزيد من الخيارات
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

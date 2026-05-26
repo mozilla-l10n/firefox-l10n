@@ -481,7 +481,7 @@ preferences-zoom-text-only =
     .label = قرّب النص فقط
     .accesskey = ن
 preferences-text-zoom-override-warning2 =
-    .message = إذا كان خيار "قرّب النص فقط" مفعّلاً ولم يكن مستوى التقريب المبدئي لديك 100%، فقد لا تعرض بعض المواقع المحتوى بشكل صحيح.
+    .message = إذا كان خيار "قرّب النص فقط" مفعّلاً ولم يكن مستوى التقريب المبدئي لديك 100٪، فقد لا تعرض بعض المواقع المحتوى بشكل صحيح.
 preferences-text-zoom-override-warning =
     .message = تحذير: حدّدت "قرّب النص فقط" ولم تضبط التقريب المبدئي على 100٪، فقد يتسبب ذلك في تعطّل بعض المواقع أو المحتوى.
 language-header = اللّغات
@@ -1769,6 +1769,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = كلمات السر والملء الآلي
+    .title = كلمات السر والملء الآلي
+preferences-passwords-autofill-header =
+    .heading = كلمات السر والملء الآلي
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
