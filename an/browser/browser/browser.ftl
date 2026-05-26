@@ -441,7 +441,7 @@ save-to-pocket-button =
     .label = Alzar en { -pocket-brand-name }
     .tooltiptext = Alzar en { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Personalizar la barra de ferramientas…

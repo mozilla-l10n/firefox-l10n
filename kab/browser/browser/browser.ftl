@@ -1111,7 +1111,7 @@ repair-text-encoding-button =
     .label = Ṣeggem asettengel n uḍris
     .tooltiptext = Sumer asettengel ameɣtu n uḍris seg ugbur n usebter
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

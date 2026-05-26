@@ -218,7 +218,7 @@ bookmarks-toolbar-placeholder-button =
 library-recent-activity-title =
     .value = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = ଇମେଲ ଲିଙ୍କ

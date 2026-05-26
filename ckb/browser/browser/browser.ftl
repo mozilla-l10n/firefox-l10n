@@ -434,7 +434,7 @@ save-to-pocket-button =
     .label = پاشەکەوتی بکە لە { -pocket-brand-name }
     .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = دڵخوازکردنی توڵامراز...

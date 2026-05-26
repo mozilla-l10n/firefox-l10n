@@ -604,7 +604,7 @@ repair-text-encoding-button =
     .label = Pit richt text encodin
     .tooltiptext = Guess richt text encodin fae page content
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

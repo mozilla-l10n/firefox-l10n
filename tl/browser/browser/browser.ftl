@@ -720,7 +720,7 @@ repair-text-encoding-button =
     .label = Ayusin ang text encoding
     .tooltiptext = Hulahan ang tamang text encoding mula sa nilalaman ng pahina
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

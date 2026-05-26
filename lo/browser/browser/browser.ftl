@@ -925,7 +925,7 @@ save-to-pocket-button =
     .label = ບັນທຶກໃສ່ { -pocket-brand-name }
     .tooltiptext = ບັນທຶກໃສ່ { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

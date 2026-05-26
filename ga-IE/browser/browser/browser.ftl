@@ -665,7 +665,7 @@ save-to-pocket-button =
     .label = Sábháil i b{ -pocket-brand-name }
     .tooltiptext = Sábháil i b{ -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

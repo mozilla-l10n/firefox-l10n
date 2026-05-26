@@ -1146,7 +1146,7 @@ repair-text-encoding-button =
     .label = Labot teksta kodējumu
     .tooltiptext = Minēt pareizo teksta kodējumu, vadoties no lapas satura
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

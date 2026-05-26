@@ -922,7 +922,7 @@ repair-text-encoding-button =
     .label = متن انکوڈنگ دی مرمت کرو
     .tooltiptext = صفحہ دے مواد کنوں انکوڈنگ متن دی اک ٹک لاؤ
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

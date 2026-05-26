@@ -1053,7 +1053,7 @@ save-to-pocket-button =
     .label = زفت کردن من { -pocket-brand-name }
     .tooltiptext = زفت کردن من { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

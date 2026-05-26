@@ -604,7 +604,7 @@ repair-text-encoding-button =
     .label = Repara la codificació del text
     .tooltiptext = Detecta la codificació del text correcta a partir del contingut de la pàgina
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

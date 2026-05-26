@@ -218,7 +218,7 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = Iiayithem zethulbha yeebhukhmakhi
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = Ikhonkco le-imeyili

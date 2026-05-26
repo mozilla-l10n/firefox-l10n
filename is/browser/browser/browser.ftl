@@ -1153,7 +1153,7 @@ repair-text-encoding-button =
     .label = Gera við textakóðun
     .tooltiptext = Giska á rétta stafatöflu texta út frá efni síðunnar
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

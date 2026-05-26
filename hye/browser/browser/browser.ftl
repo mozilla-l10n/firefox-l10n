@@ -607,7 +607,7 @@ repair-text-encoding-button =
     .label = Փոխել այղագրումը
     .tooltiptext = Պարզէք ճիշտ այղագրումը էջի բովանդակութեան բաժնում
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

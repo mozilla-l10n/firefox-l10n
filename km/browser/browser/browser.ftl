@@ -391,7 +391,7 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = ចំណាំ
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង...

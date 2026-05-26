@@ -964,7 +964,7 @@ repair-text-encoding-button =
     .label = تعمیر رمزگذاری متن
     .tooltiptext = حدس زدنِ رمزگذاری متن بر اساس محتوای صفحه
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

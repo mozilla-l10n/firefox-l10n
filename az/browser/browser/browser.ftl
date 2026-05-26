@@ -334,7 +334,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name }-ə Saxla
     .tooltiptext = { -pocket-brand-name }-ə Saxla
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Alət Sətrini Fərdiləşdir…

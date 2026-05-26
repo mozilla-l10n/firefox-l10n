@@ -988,7 +988,7 @@ repair-text-encoding-button =
     .label = പാഠ ഇഴചേ‌ർച്ചയെ നന്നാക്കുക
     .tooltiptext = താളുള്ളടക്കം നിന്നു ശരിയായ പാഠ ഇഴചേ‌ർച്ച ഊഹിക്കുക
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

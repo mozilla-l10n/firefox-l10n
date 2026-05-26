@@ -330,7 +330,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } मध्ये जतन करा
     .tooltiptext = { -pocket-brand-name } मध्ये जतन करा
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = साधनपट्टी बदला...

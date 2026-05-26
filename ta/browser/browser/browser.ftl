@@ -291,7 +291,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = புத்தகக்குறிகள்
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = கருவிப்பட்டையை விருப்பமை...

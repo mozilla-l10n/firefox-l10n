@@ -793,7 +793,7 @@ repair-text-encoding-button =
     .label = Paranda teksti kodeering
     .tooltiptext = Tuvasta lehe sisu alusel korrektne kodeering
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

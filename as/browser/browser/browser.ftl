@@ -605,7 +605,7 @@ repair-text-encoding-button =
     .label = পাঠৰ এনক'ডিং মেৰামতি কৰক
     .tooltiptext = পৃষ্ঠাৰ সমলৰ পৰা পাঠৰ শুদ্ধ এনক'ডিং অনুমান কৰক
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

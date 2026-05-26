@@ -210,7 +210,7 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = Boekmerknutsbalk-items
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = E-pos skakel

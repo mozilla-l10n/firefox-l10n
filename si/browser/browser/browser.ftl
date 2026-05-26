@@ -760,7 +760,7 @@ repair-text-encoding-button =
     .label = පෙළ ආකේතනය අලුත්වැඩියාව
     .tooltiptext = පිටුවේ අන්තර්ගතයෙන් නිවරදි පෙළ ආකේතනය අනුමාන කරන්න
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

@@ -321,7 +321,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } પર સાચવો
     .tooltiptext = { -pocket-brand-name } પર સાચવો
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = પોતાની રીતની સાધનપટ્ટી…

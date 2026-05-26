@@ -396,7 +396,7 @@ save-to-pocket-button =
     .label = Nanín sa'aj riña { -pocket-brand-name }
     .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Nagi'io' dukuán ma sa rajeunit'...

@@ -298,7 +298,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Tandabuku
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Penyesuaian Bar Alatan…

@@ -1049,7 +1049,7 @@ repair-text-encoding-button =
     .label = ᱚᱞ ᱮᱱᱠᱚᱰᱤᱝ ᱥᱟᱡᱟᱣ ᱢᱮ
     .tooltiptext = ᱥᱟᱦᱴᱟ ᱡᱤᱱᱤᱥ ᱠᱷᱚᱱ ᱚᱞ ᱮᱱᱠᱳᱰᱤᱝ ᱚᱱᱩᱢᱟᱹᱱ ᱢᱮ
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

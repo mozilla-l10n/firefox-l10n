@@ -508,7 +508,7 @@ save-to-pocket-button =
     .label = Sarva in { -pocket-brand-name }
     .tooltiptext = Sarva in { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Personaliza a bara di atressi…

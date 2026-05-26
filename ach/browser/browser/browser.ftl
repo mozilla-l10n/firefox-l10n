@@ -438,7 +438,7 @@ save-to-pocket-button =
     .label = Gwok i { -pocket-brand-name }
     .tooltiptext = Gwok i { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Yub gitic…

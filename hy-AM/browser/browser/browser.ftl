@@ -662,9 +662,6 @@ sharing-warning-disable-for-session =
 
 webserial-no-ports-available = Սերիական միացքներ չկան
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).

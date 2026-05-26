@@ -99,7 +99,7 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = ٹولبار آیٹمن تھٲویو نشان
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = ایمیل لینک

@@ -480,7 +480,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } میں محفوظ کریں
     .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

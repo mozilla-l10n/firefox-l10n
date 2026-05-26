@@ -290,7 +290,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = ཡིག་རྟགས
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = ལག་ཆའི་ངོས་རང་མོས་སྒྲིག་འགོས…

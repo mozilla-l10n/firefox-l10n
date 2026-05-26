@@ -422,7 +422,7 @@ save-to-pocket-button =
     .label = Sarba nne { -pocket-brand-name }
     .tooltiptext = Sarba nne { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Pirsunalizza a sbarra dî strumenti…

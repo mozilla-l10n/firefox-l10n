@@ -356,7 +356,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } တွင်သိမ်းပါ
     .tooltiptext = { -pocket-brand-name } တွင်သိမ်းပါ
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = တန်ဆာပလာအတန်းကို မွမ်းမံရန်…

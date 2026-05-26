@@ -81,7 +81,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Peutanda
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file

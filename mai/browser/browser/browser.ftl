@@ -351,7 +351,7 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = अओजारपट्टी मद पुस्तकचिह्नित करैता अछि
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = कड़ी ईमेल करू

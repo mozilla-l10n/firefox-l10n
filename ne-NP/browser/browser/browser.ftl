@@ -808,7 +808,7 @@ repair-text-encoding-button =
     .label = पाठ एन्कोडिङ मर्मत गर्नुहोस्
     .tooltiptext = पृष्ठ सामग्रीबाट सही पाठ इन्कोडिङ अनुमान गर्नुहोस्
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

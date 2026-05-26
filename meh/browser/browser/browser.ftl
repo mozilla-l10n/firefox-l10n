@@ -614,7 +614,7 @@ save-to-pocket-button =
     .label = Chuva´a nuu { -pocket-brand-name }
     .tooltiptext = Chuva´a nuu { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

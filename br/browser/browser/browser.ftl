@@ -1001,7 +1001,7 @@ repair-text-encoding-button =
     .label = Ratreañ bonegañ an destenn
     .tooltiptext = Divinout bonegañ an destenn reizh eus ar bajennad
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

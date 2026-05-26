@@ -253,7 +253,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = ಪುಟಗುರುತುಗಳು
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು…

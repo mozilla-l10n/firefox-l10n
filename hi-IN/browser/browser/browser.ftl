@@ -488,7 +488,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } में सहेजें
     .tooltiptext = { -pocket-brand-name } में सहेजें
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = औज़ारपट्टी अनुकूलित करें...

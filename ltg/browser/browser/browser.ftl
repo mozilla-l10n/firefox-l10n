@@ -305,7 +305,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Gruomotzeimes
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Pīlāgōt reikjūslu…

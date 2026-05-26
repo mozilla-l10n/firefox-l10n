@@ -310,7 +310,7 @@ save-to-pocket-button =
     .label = { -pocket-brand-name }’ke Saqla
     .tooltiptext = { -pocket-brand-name }’ke Saqla
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Alet Çubuğını Şahsiyleştir…

@@ -493,7 +493,7 @@ repair-text-encoding-button =
     .label = Matn shifrini tuzatish
     .tooltiptext = Sahifa tarkibidan toʻgʻri matn shifrini taxmin qiling
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

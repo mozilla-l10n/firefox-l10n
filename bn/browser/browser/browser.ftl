@@ -947,7 +947,7 @@ repair-text-encoding-button =
     .label = টেক্সট এনকোডিং মেরামত করুন
     .tooltiptext = পেজের কনটেক্সট থেকে টেক্সটের সঠিক এনকোডিং অনুমান করুন
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

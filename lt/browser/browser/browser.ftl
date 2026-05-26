@@ -767,7 +767,7 @@ repair-text-encoding-button =
     .label = Sutvarkyti simbolių koduotę
     .tooltiptext = Nuspėti tinkamą simbolių koduotę iš puslapio turinio
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)

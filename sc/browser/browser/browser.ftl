@@ -654,9 +654,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disativa sa protetzione de cumpartzidura pro custa sessione
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de ainas de su navigadore.
@@ -1710,6 +1707,3 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> sighidore blocadu in custu situ
        *[other] <span data-l10n-name="count">{ $count }</span> sighidores blocados in custu situ
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

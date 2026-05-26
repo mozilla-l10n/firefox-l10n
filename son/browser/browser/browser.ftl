@@ -217,7 +217,7 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = Doo-šilbawey goyjinay žeeri hayiizey
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = Bataga dobu

@@ -338,7 +338,7 @@ save-to-pocket-button =
     .label = Danndu e { -pocket-brand-name }
     .tooltiptext = Danndu e { -pocket-brand-name }
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = Heertin Palal Kuutorɗe…

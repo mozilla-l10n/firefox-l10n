@@ -1106,7 +1106,7 @@ repair-text-encoding-button =
     .label = Popravite kodiranje teksta
     .tooltiptext = Pogodite ispravno kodiranje teksta iz sadržaja stranice
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
