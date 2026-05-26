@@ -1209,7 +1209,7 @@ repair-text-encoding-button =
     .label = 修復文字編碼
     .tooltiptext = 根據訊息內容猜測正確的文字編碼
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1279,6 +1279,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = 分頁群組
     .tooltiptext = 顯示您的分頁群組
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 

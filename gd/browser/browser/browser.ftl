@@ -654,6 +654,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice innealan a’ bhrabhsair.
@@ -1017,6 +1020,9 @@ urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1184,7 +1190,7 @@ repair-text-encoding-button =
     .label = Càraich còdachadh an teacsa
     .tooltiptext = Dèan tuairmse air còdachadh ceart an teacsa o shusbaint na duilleige
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1248,6 +1254,11 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Co-roinn
     .tooltiptext = Co-roinn an duilleag seo
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
@@ -1723,3 +1734,6 @@ trustpanel-blocker-section-header2 =
         [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
        *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

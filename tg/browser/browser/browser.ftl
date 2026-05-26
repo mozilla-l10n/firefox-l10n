@@ -1193,7 +1193,7 @@ repair-text-encoding-button =
     .label = Ислоҳкунии рамзгузории матн
     .tooltiptext = Рамзгузории матни дурустро аз муҳтавои саҳифа пешниҳод мекунад
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1258,6 +1258,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Гурӯҳҳои варақаҳо
     .tooltiptext = Гурӯҳҳои варақаҳои худро нишон диҳед
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 

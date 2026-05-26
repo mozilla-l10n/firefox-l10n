@@ -1212,7 +1212,7 @@ repair-text-encoding-button =
     .label = Reparar codificación de texto
     .tooltiptext = Inferir la codificación de texto desde el contenido de la página
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1282,6 +1282,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupos de pestañas
     .tooltiptext = Mostrar tus grupos de pestañas
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 

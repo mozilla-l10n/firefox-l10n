@@ -1209,7 +1209,7 @@ repair-text-encoding-button =
     .label = Tekstkodearring reparearje
     .tooltiptext = Betink krekte tekstkodearring fan sideynhâld út
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1279,6 +1279,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Ljepblêdgroepen
     .tooltiptext = Jo ljepblêdgroepen toane
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrkoade
 
 ## EME notification panel
 

@@ -1221,7 +1221,7 @@ repair-text-encoding-button =
     .label = Popravi kodiranje besedila
     .tooltiptext = Ugani pravilni nabor znakov iz vsebine strani
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1288,6 +1288,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Skupine zavihkov
     .tooltiptext = Prikaži skupine zavihkov
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = koda_qr
 
 ## EME notification panel
 
