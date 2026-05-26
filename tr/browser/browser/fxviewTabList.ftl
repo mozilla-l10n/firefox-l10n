@@ -82,6 +82,8 @@ fxviewtabrow-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi et
 fxviewtabrow-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
 fxviewtabrow-send-to-mobile-connect-device = Sekme göndermek için bir cihaz bağlayın
 fxviewtabrow-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
+fxviewtabrow-send-to-mobile-not-verified = Hesap doğrulanmamış
+fxviewtabrow-send-to-mobile-verify-account = Hesabınızı doğrulayın
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

@@ -470,6 +470,9 @@ quickactions-cmd-update = güncelle
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Sayfa kaynağını göster
 quickactions-cmd-viewsource2 = kaynağı göster, kaynak, sayfa kaynağı
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name }’i aç
+quickactions-cmd-labs = labs, deney
 quickactions-cmd-viewsource = kaynağı görüntüle, kaynak
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
