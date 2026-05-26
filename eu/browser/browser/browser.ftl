@@ -1209,7 +1209,7 @@ repair-text-encoding-button =
     .label = Konpondu testu-kodeketa
     .tooltiptext = Antzeman testuaren kodeketa zuzena orriaren edukitik
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1279,6 +1279,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Fitxa-taldeak
     .tooltiptext = Erakutsi zure fitxa-taldeak
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
