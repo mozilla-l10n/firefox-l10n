@@ -92,5 +92,14 @@ unified-extensions-mb-blocklist-warning-multiple =
     .message =
         Algumas extensões instaladas foram desativadas por violar diretrizes da Mozilla.
         Você pode habilitar nas configurações, mas pode ser arriscado.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensão desativada
+           *[other] { $extensionsCount } extensões desativadas
+        }
+    .message = Algumas extensões instaladas foram desativadas por violar diretrizes da Mozilla.
 unified-extensions-notice-safe-mode =
     .message = Todas as extensões foram desativadas pelo modo de solução de problemas.
