@@ -1209,7 +1209,7 @@ repair-text-encoding-button =
     .label = Correggi codifica testo
     .tooltiptext = Cerca di identificare la codifica testo corretta in base al contenuto della pagina
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1279,6 +1279,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Gruppi di schede
     .tooltiptext = Visualizza i gruppi di schede
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = codiceqr
 
 ## EME notification panel
 
@@ -1712,4 +1717,3 @@ reduced-protection-infobar-reload-button = Ricarica
     .accesskey = R
 reduced-protection-infobar-never-show-button = Non mostrare di nuovo
     .accesskey = N
-
