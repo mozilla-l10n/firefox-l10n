@@ -1193,7 +1193,7 @@ repair-text-encoding-button =
     .label = Sửa chữa mã hóa văn bản
     .tooltiptext = Đoán mã hóa văn bản chính xác từ nội dung trang
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1263,6 +1263,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Nhóm thẻ
     .tooltiptext = Xem nhóm thẻ của bạn
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
