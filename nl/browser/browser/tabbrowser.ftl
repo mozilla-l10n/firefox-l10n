@@ -371,6 +371,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Uw tabbladen opruimen
 tab-groups-list-empty-description = Sleep een tabblad naar een ander of klik met de rechtermuisknop op een tabblad om te beginnen met ordenen. We slaan uw groepen hier op, zodat ze later gemakkelijk kunnen worden gevonden.
 tab-groups-list-empty-button = Een tabbladgroep maken
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nieuwe groep
 
 ## Open/saved tab group context menu
 

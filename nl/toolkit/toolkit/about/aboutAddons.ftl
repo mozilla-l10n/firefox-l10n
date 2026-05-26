@@ -124,6 +124,8 @@ private-browsing-description2 =
     de extensie niet tijdens privénavigatie, en heeft deze daarin geen toegang tot uw online-activiteiten.
     Deze wijziging is aangebracht om uw privénavigatie privé te houden.
     <label data-l10n-name="private-browsing-learn-more">Meer info over het beheren van extensie-instellingen</label>
+aboutaddons-sidebar =
+    .heading = Add-ons
 addon-category-discover = Aanbevelingen
 addon-category-discover-title =
     .title = Aanbevelingen
@@ -492,6 +494,10 @@ addon-permissions-empty = Voor deze extensie zijn geen toestemmingen vereist
 addon-permissions-required = Vereiste toestemmingen voor kernfunctionaliteit:
 addon-permissions-optional = Optionele toestemmingen voor extra functionaliteit:
 addon-permissions-learnmore = Meer info over toestemmingen
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Sommige machtigingen worden door uw organisatie beheerd.
 recommended-extensions-heading = Aanbevolen extensies
 recommended-themes-heading = Aanbevolen thema’s
 # Variables:

@@ -470,6 +470,9 @@ quickactions-cmd-update = bijwerken
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Paginabron bekijken
 quickactions-cmd-viewsource2 = bron bekijken, bron, paginabron
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } openen
+quickactions-cmd-labs = labs, experiment
 quickactions-cmd-viewsource = bron bekijken, bron
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

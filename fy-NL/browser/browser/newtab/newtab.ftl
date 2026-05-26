@@ -1076,7 +1076,7 @@ newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } - { $awayTeam }, útsteld
 # An upcoming match row whose status is "suspended".
 newtab-sports-widget-match-aria-label-upcoming-suspended =
-    .aria-label = { $homeTeam } - { $awayTeam }, skorst
+    .aria-label = { $homeTeam } - { $awayTeam }, ûnderbrutsen
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } - { $awayTeam }, annulearre

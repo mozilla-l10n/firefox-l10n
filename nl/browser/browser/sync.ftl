@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Schakel synchronisatie in om een tabblad te verzenden
 fxa-menu-send-to-mobile-connect-phone2 = Uw telefoon verbinden
 fxa-menu-send-to-mobile-device-missing2 = Ziet u uw apparaat niet?
+fxviewtabrow-send-to-mobile-not-verified = Account niet geverifieerd
+fxviewtabrow-send-to-mobile-verify-account = Verifieer uw account
 fxa-menu-send-to-mobile-turn-on-sync = Schakel synchronisatie in om tabbladen te verzenden
 fxa-menu-send-to-mobile-connect-device = Verbind een apparaat om tabbladen te verzenden
 # Variables:
