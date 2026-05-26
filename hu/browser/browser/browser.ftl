@@ -1212,7 +1212,7 @@ repair-text-encoding-button =
     .label = Szövegkódolás javítása
     .tooltiptext = A szöveg kódolásának kitalálása az oldal tartalma alapján
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1282,6 +1282,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Lapcsoportok
     .tooltiptext = Lapcsoportok megjelenítése
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
