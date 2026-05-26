@@ -1311,7 +1311,7 @@ repair-text-encoding-button =
     .label = Opravit znakovou sadu textu
     .tooltiptext = Na základě obsahu stránky odhadne správnou znakovou sadu textu
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1381,6 +1381,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Skupiny panelů
     .tooltiptext = Zobrazí vaše skupiny panelů
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
