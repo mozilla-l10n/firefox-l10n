@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Scuvierç la VPN, cumò dret sul tô n
 ipprotection-feature-introduction-link-text-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Zonte un altri nivel di riservatece
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra varis lûcs par rindi plui riservade la tô ativitât in rêt.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra 5 posizions par navigâ cun plui riservatece.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts, ancje cuant tu sês intun barcon privât .
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Sêstu suntune rêt Wi-
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra 5 posizions par platâ il lûc di dulà che tu ti conetis.
 ipprotection-feature-introduction-description-captive-portal = Navighe cuntune protezion in plui platant la tô posizion, ancje cun rêts Wi-Fi publichis.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra diviers lûcs par platâ di dulà che tu ti conetis.
 ipprotection-feature-introduction-button-primary = Sucessîf
 ipprotection-feature-introduction-button-secondary-not-now = No cumò
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Capît
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novitât: cambie la tô posizion
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade in { -brand-product-name }</a> ti permet di sielzi tra diviersis posizions di navigazion, se no lasse che o sedin nô a sielzi chê plui svelte.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> ti permet di sielzi tra 5 posizions di navigazion, opûr lasse a nô la sielte di chê plui svelte par te.
 ipprotection-location-selection-callout-primary-button = Provile
 ipprotection-location-selection-callout-secondary-button = Ignore
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Ignore
 unauthenticated-vpn-title = Prove la VPN integrade di { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Plate la tô posizion</a> intant che tu navighis in { -brand-product-name }.
 unauthenticated-private-location-message = Jude a <a data-l10n-name="learn-more-vpn">tignî riservade la tô posizion</a> in { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Sielç tra diviersis posizions o lasse che { -brand-product-name } al sielzi chê plui svelte.
 unauthenticated-choose-location-message = Sielç tra 5 posizions o lasse a { -brand-product-name } la sielte di chê plui svelte.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -133,6 +138,11 @@ upgrade-vpn-title = Oten ancjemò plui protezion, ancje fûr dal navigadôr.
 upgrade-vpn-description = Sielç la posizion de VPN, dopre la VPN su dutis lis tôs aplicazions e fin a 5 dispositîfs, e navighe in sigurece su dutis lis rêts — a cjase o su lis rêts Wi-Fi publichis.
 upgrade-vpn-button = Prove { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = La VPN e je in pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Tu âs doprât ducj i { $maxUsage } GB di dâts disponibii pe VPN. L’acès al vignarà ripristinât e il cont dai dâts azerât cul prossim mês.
+ipprotection-connection-status-paused-title-2 = La VPN e je in pause
+    .aria-label = La VPN e je in pause
 
 ## Messages and errors
 
@@ -213,3 +223,28 @@ ip-protection-vpn-upgrade-link =
 ip-protection-exceptions-dialog-window =
     .title = Gjestìs lis impostazions dai sîts web
 ip-protection-exclusions-desc = Dopre la VPN par ducj i sîts, gjavâts chei che a son in cheste liste. Zonte un sît web achì o vierzint la VPN.
+
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Ti restin ancjemò { $usageLeft } GB di { $maxUsage } GB chest mês.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Ti restin { $usageLeft } GB di { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Ti restin ancjemò { $usageLeft } MB di { $maxUsage } GB chest mês.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Ti restin ancjemò { $usageLeft } MB di { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Tu âs doprât ducj i { $maxUsage } GB dai tiei dâts VPN. Cul prossim mês l'acès al vignarà ristabilît e il cont dai dâts al vignarà azerât.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Al prin di ogni mês al ven ristabilît a { $maxUsage } GB.

@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Hvordan gjenopprette:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Åpne programmenyen ☰ og gå til Innstillinger > Synkroniser
+backup-file-moz-browser-restore-step-2-1 = Klikk på «Gjenopprett dine data» og velg denne filen
 backup-file-moz-browser-restore-step-2 = Klikk på «Velg sikkerhetskopifil» og velg denne filen
 backup-file-moz-browser-restore-step-3 = Start { -brand-short-name } på nytt når du blir bedt om det
 backup-file-other-browser-restore-step-1 = Last ned og installer { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Last ned
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, åpne programmenyen ☰ og gå til Innstillinger > Synkroniser
+backup-file-other-browser-restore-step-3-1 = Klikk på «Gjenopprett dine data» og velg denne filen
 backup-file-other-browser-restore-step-3 = Klikk på «Velg sikkerhetskopifil» og velg denne filen
 backup-file-other-browser-restore-step-4 = Start { -brand-short-name } på nytt når du blir bedt om det
 
