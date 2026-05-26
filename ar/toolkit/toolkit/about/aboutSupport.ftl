@@ -150,6 +150,7 @@ sandbox-sys-call-tid = معرف الخيط
 sandbox-sys-call-proc-type = نوع السيرورة
 sandbox-sys-call-number = نداء النظام
 sandbox-sys-call-args = المعطيات
+troubleshoot-mode-title = تشخيص المشاكل
 clear-startup-cache-title = جرّب مسح خبيئة البدء
 clear-startup-cache-label = امسح خبيئة البدء…
 startup-cache-dialog-title2 = أعِد تشغيل { -brand-short-name } لمسح ذاكرة التخزين المؤقت عند بدء التشغيل؟
@@ -176,8 +177,12 @@ media-device-latency = الكمون
 
 ## Codec support table
 
+media-codec-support-sw-decoding = فك ترميز البرمجيات
+media-codec-support-hw-decoding = فك ترميز العتاد
 media-codec-support-sw-encoding = ترميز البرمجيات
 media-codec-support-hw-encoding = ترميز العتاد
+media-codec-support-codec-name = اسم الترميز (Codec)
+media-codec-support-supported = مدعوم
 media-codec-support-unsupported = غير مدعومة
 media-codec-support-lack-of-extension = ثبِّت الامتدادة
 
@@ -282,6 +287,7 @@ hardware-h264 = فك ترميز H264 باستخدام العتاد
 main-thread-no-omtc = الخيط الأساسي، لا OMTC
 yes = نعم
 no = لا
+unknown = مجهول
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -392,3 +398,7 @@ support-remote-settings-last-check = آخر تحقق
 ## Normandy sections
 
 support-remote-experiments-name = الاسم
+
+## Pointing devices
+
+pointing-device-touchscreen = شاشة اللمس

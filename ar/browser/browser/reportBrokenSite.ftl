@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = أبلِغ عن موقع معطوب
 report-broken-site-panel-intro-text = يساعدنا تقريرك في فهم وإصلاح المشكلات في { -brand-product-name } لجعلها أفضل للجميع.
 report-broken-site-panel-learn-more-link = اطّلع على المزيد
+report-broken-site-panel-reason-intro-text = ما الذي لا يعمل؟
 report-broken-site-panel-reason-load-moz-box-button =
     .label = تعذّر تحميل الموقع
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = طلب الموقع إيقاف مانع الإعلانات
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = المتصفح غير مدعوم أو حُظِر
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = الموقع مضلل
 report-broken-site-panel-reason-other-moz-box-button =
     .label = شيء آخر
+report-broken-site-panel-instructions-other = صف المشكلة بالتفصيل لمساعدتنا في التحقيق فيها.
+report-broken-site-panel-instructions-other-optional = صف المشكلة بالتفصيل لمساعدتنا في التحقيق فيها. (اختياري)
+report-broken-site-panel-description2 =
+    .placeholder = ما الذي حدث؟ ما الذي توقعت حدوثه؟ يُرجى تقديم خطوات لإعادة إنتاج المشكلة.
 report-broken-site-panel-send-more-info-button =
     .label = أرسل المزيد من المعلومات
 report-broken-site-panel-intro = ساعد في جعل { -brand-product-name } أفضل للجميع. يستخدم { -vendor-short-name } المعلومات التي ترسلها لإصلاح مشكلات موقع الوِب.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = ألغِ
 report-broken-site-panel-button-okay =
     .label = حسنًا
+report-broken-site-panel-button-send-report =
+    .label = أرسل البلاغ
 report-broken-site-panel-button-send =
     .label = أرسِل
 report-broken-site-panel-report-sent-label = أُرسل بلاغك
@@ -71,6 +80,22 @@ report-broken-site-panel-report-sent-header =
     .title = أُرسل بلاغك
 report-broken-site-panel-report-sent-text = نشكرك على مساعدتك { -brand-product-name } في جعل الوِب أكثر انفتاحًا وسهولة في الوصول إليه وأفضل للجميع.
 report-broken-site-panel-invalid-url-label = رجاء أدخل مسارًا سليمًا
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [zero] الرجاء إدخال ما لا يقل عن { $minLength } حرف
+        [one] الرجاء إدخال ما لا يقل عن { $minLength } حرف
+        [two] الرجاء إدخال ما لا يقل عن { $minLength } حرف
+        [few] الرجاء إدخال ما لا يقل عن { $minLength } حرف
+        [many] الرجاء إدخال ما لا يقل عن { $minLength } حرف
+       *[other] الرجاء إدخال ما لا يقل عن { $minLength } حرف
+    }
+report-broken-site-panel-screenshot-label =
+    .label = أرسل لقطة شاشة
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = أرسل قائمة بالعناصر المحظورة بواسطة نظام الحماية من التتبع
+report-broken-site-panel-url-input-label =
+    .aria-label = عنوان URL للصفحة التي تُبلِّغ عنها
 report-broken-site-panel-missing-reason-label = الرجاء اختيار سبب
 report-broken-site-panel-blocked-trackers-label =
     .label = إرسال روابط المواقع التي حظرتها خاصية الحماية من التعقب

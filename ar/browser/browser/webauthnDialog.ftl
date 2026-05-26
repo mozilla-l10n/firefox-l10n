@@ -54,3 +54,13 @@ webauthn-allow = اسمح
     .accesskey = م
 webauthn-block = احجب
     .accesskey = ح
+webauthn-continue = واصل
+    .accesskey = ص
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } يريد إنشاء مفتاح مرور لـ { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } يريد استخدام مفتاح مرور لـ { $rpId }.

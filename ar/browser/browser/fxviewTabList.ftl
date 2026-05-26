@@ -80,4 +80,12 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = أطلِق صوت اللسان
 fxviewtabrow-send-to-mobile-enable-sync2 = فعِّل المزامنة لإرسال لسان
 fxviewtabrow-send-to-mobile-connect-phone2 = صل جوّالك
+fxviewtabrow-send-to-mobile-connect-device = صلّ جهاز لإرسال ألسنة
 fxviewtabrow-send-to-mobile-device-missing2 = ألا ترى جهازك؟
+fxviewtabrow-send-to-mobile-not-verified = الحساب غير مُؤكّد
+fxviewtabrow-send-to-mobile-verify-account = أكّد حسابك
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = لِج لإرسال ألسنة
+fxviewtabrow-send-to-mobile-turn-on-sync = شغّل المزامنة لإرسال ألسنة

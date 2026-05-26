@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = يُفتح في لسان جديد
+moz-box-item-reorder-handle =
+    .aria-label = أعد ترتيب العنصر باستخدام Ctrl+Shift+ArrowUp أو Ctrl+Shift+ArrowDown
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = أعد ترتيب { $item } باستخدام Ctrl+Shift+ArrowUp أو Ctrl+Shift+ArrowDown
