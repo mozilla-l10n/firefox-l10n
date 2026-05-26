@@ -197,6 +197,11 @@ ip-protection-description-1 =
     .label = Yerleşik VPN
     .description = İnternette gezinirken konumunuzu gizleyerek ekstra gizliliğe kavuşun.
 ip-protection-learn-more = Daha fazla bilgi al
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Yerleşik { -brand-short-name } VPN’i deneyin
+    .message = Konumunuzu gizleyerek ekstra korumayla gezinin.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =

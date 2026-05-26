@@ -1286,6 +1286,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrkodu
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrkodu-{ $domain }
 
 ## EME notification panel
 

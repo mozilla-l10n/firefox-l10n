@@ -367,6 +367,8 @@ newtab-custom-widget-sports-toggle =
     .label = Dünya Kupası
 newtab-custom-widget-clock-toggle =
     .label = Saat
+newtab-custom-widget-sports-toggle2 =
+    .label = Spor
 newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
@@ -762,6 +764,9 @@ newtab-widget-lists-input-menu-delete = Sil
 newtab-widget-lists-input-menu-edit = Düzenle
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Maddeyi düzenle
+newtab-widget-lists-edit-clear =
+    .aria-label = Vazgeç
+    .title = Vazgeç
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Yeni liste oluştur
@@ -939,6 +944,18 @@ newtab-sports-widget-back-button =
     .aria-label = Geri
 newtab-sports-widget-done-button =
     .label = Tamam
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (elendi)
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = İzle
+    .title = Canlı izle
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Canlı izle
+    .title = Canlı izle
 newtab-sports-widget-group-stage = Grup maçı
 newtab-sports-widget-round-32 = Son 32 turu
 newtab-sports-widget-round-16 = Son 16 turu
