@@ -647,6 +647,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilisar la cumbinaziun da tastas F12, l'emprim avrir ils utensils per sviluppaders via il menu «Utensils dal navigatur».
@@ -1005,6 +1008,9 @@ urlbar-result-action-switch-to-tabgroup = Midar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avrir { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1172,7 +1178,7 @@ repair-text-encoding-button =
     .label = Reparar la codaziun dal text
     .tooltiptext = Engiavinar la codaziun correcta dal text dal cuntegn da la pagina
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1236,6 +1242,11 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Parter
     .tooltiptext = Parter questa pagina
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = codeqr
 
 ## EME notification panel
 
@@ -1676,3 +1687,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
        *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
