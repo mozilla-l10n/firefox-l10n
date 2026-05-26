@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = כיצד לשחזר:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = יש לפתוח את תפריט היישום ☰ ולעבור להגדרות > סנכרון
+backup-file-moz-browser-restore-step-2-1 = ללחוץ על ״שחזור הנתונים שלך״ ולבחור בקובץ הזה
 backup-file-moz-browser-restore-step-2 = ללחוץ על ״בחירת קובץ גיבוי״ ולבחור בקובץ הזה
 backup-file-moz-browser-restore-step-3 = להפעיל מחדש את { -brand-short-name } כשתוצג הבקשה לכך
 backup-file-other-browser-restore-step-1 = יש להוריד ולהתקין את { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = הורדה
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = להריץ את { -brand-short-name }, לפתוח את תפריט היישום ☰ ולעבור להגדרות > סנכרון
+backup-file-other-browser-restore-step-3-1 = ללחוץ על ״שחזור הנתונים שלך״ ולבחור בקובץ הזה
 backup-file-other-browser-restore-step-3 = ללחוץ על ״בחירת קובץ גיבוי״ ולבחור בקובץ הזה
 backup-file-other-browser-restore-step-4 = להפעיל מחדש את { -brand-short-name } כשתוצג הבקשה לכך
 
