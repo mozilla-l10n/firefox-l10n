@@ -766,6 +766,9 @@ newtab-widget-lists-input-menu-delete = Fuortsmite
 newtab-widget-lists-input-menu-edit = Bewurkje
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Item bewurkje
+newtab-widget-lists-edit-clear =
+    .aria-label = Annulearje
+    .title = Annulearje
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + In nije list oanmeitsje
@@ -943,6 +946,40 @@ newtab-sports-widget-back-button =
     .aria-label = Tebek
 newtab-sports-widget-done-button =
     .label = Dien
+newtab-sports-widget-view-all =
+    .label = Alles besjen
+newtab-sports-widget-show-less =
+    .label = Minder toane
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Allinnich folge teams
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Besjen
+    .title = Live besjen
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Live besjen
+    .title = Live besjen
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Slute
+    .title = Slute
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Fergees
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Fergeze proefperioade
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Fergees en betelle
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Betelle
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Beskikber yn jo regio
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Oare regio’s
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Stream iepenje
+    .title = Stream iepenje
 newtab-sports-widget-group-stage = Groepsfase
 newtab-sports-widget-group-a = Groep A
 newtab-sports-widget-group-b = Groep B
@@ -1063,6 +1100,13 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Begjin it WK mei nije eftergrûnen
+newtab-sports-widget-message-wallpapers-body = Bring wat wedstriiddei-enerzjy nei jo browser foar it toernoai.
+newtab-sports-widget-message-wallpapers-cta = Eftergrûn kieze
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Widgets tafoegje
+newtab-sports-widget-message-day-in-play-body = Folgje it WK, bliuw by it wurk, hâld de tiid oer de hiele wrâld by, en mear.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Widgets ferkenne
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1124,6 +1168,19 @@ newtab-clock-widget-button-save = Bewarje
 newtab-clock-widget-button-remove-clock =
     .title = Klok fuortsmite
     .aria-label = Klok fuortsmite
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, bynamme: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Klok tafoegje
 newtab-clock-widget-edit-clock-form =

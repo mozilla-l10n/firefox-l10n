@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
 fxa-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine
 fxa-menu-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
+fxviewtabrow-send-to-mobile-not-verified = Account net ferifiearre
+fxviewtabrow-send-to-mobile-verify-account = Jo account ferifiearje
 fxa-menu-send-to-mobile-turn-on-sync = Skeakelje Syngronisaasje yn om ljepblêden te ferstjoeren
 fxa-menu-send-to-mobile-connect-device = Ferbyn in apparaat om ljepblêden te ferstjoeren
 # Variables:

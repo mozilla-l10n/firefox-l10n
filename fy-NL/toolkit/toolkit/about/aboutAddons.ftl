@@ -120,6 +120,8 @@ private-browsing-description2 =
     de útwreiding net yn priveenavigaasje, en hat dizze dêryn gjin tagong ta jo online-aktiviteiten.
     Dizze wiziging is oanbrocht om jo priveenavigaasje privee te hâlden.
     <label data-l10n-name="private-browsing-learn-more">Mear ynfo oer it behearen fan útwreidingen-ynstellingen.</label>
+aboutaddons-sidebar =
+    .heading = Add-ons
 addon-category-discover = Oanrekommandaasjes
 addon-category-discover-title =
     .title = Oanrekommandaasjes

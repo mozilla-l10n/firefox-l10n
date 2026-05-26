@@ -371,6 +371,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Jo ljepblêden opromje
 tab-groups-list-empty-description = Sleep ien ljepblêd nei in oar of klik mei de rjochtermûsknop op in ljepblêd om te begjinnen mei organisearjen. Wy sille jo groepen hjir bewarje, sadat se letter maklik te finen binne.
 tab-groups-list-empty-button = In ljepblêdgroep meitsje
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nije groep
 
 ## Open/saved tab group context menu
 
