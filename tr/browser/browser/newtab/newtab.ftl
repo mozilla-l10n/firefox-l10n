@@ -948,6 +948,9 @@ newtab-sports-widget-done-button =
 # Variables:
 #   $teamName (string) - the localized team name (e.g. "Canada").
 newtab-sports-widget-team-name-eliminated = { $teamName } (elendi)
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Yalnızca takip edilen takımlar
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = İzle
@@ -956,7 +959,40 @@ newtab-sports-widget-watch =
 newtab-sports-widget-watch-icon =
     .aria-label = Canlı izle
     .title = Canlı izle
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Kapat
+    .title = Kapat
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Ücretsiz
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Ücretsiz deneme
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Ücretsiz ve ücretli
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Ücretli
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Yalnızca belirli maçlar
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Bölgenizde mevcut
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Diğer bölgeler
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Videoyu aç
+    .title = Videoyu aç
 newtab-sports-widget-group-stage = Grup maçı
+newtab-sports-widget-group-a = A Grubu
+newtab-sports-widget-group-b = B Grubu
+newtab-sports-widget-group-c = C Grubu
+newtab-sports-widget-group-d = D Grubu
+newtab-sports-widget-group-e = E Grubu
+newtab-sports-widget-group-f = F Grubu
+newtab-sports-widget-group-g = G Grubu
+newtab-sports-widget-group-h = H Grubu
+newtab-sports-widget-group-i = I Grubu
+newtab-sports-widget-group-j = J Grubu
+newtab-sports-widget-group-k = K Grubu
+newtab-sports-widget-group-l = L Grubu
 newtab-sports-widget-round-32 = Son 32 turu
 newtab-sports-widget-round-16 = Son 16 turu
 newtab-sports-widget-quarter-finals = Çeyrek finaller
@@ -994,6 +1030,50 @@ newtab-sports-widget-third-place = Üçüncü
 newtab-sports-widget-runner-up = İkinci
 newtab-sports-widget-champions = Şampiyon
 newtab-sports-widget-world-cup-champions = 2026 Dünya Kupası Şampiyonu
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Maç sonu
+newtab-sports-widget-match-penalties = Penaltılar
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } - { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) - { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Canlı: { $homeTeam }, { $homeScore } - { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } - { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } - { $awayTeam }, gecikmeli
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } - { $wayTeam }, ertelendi
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
