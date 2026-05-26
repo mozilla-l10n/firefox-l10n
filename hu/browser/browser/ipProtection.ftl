@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetl
 ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvédelmi réteget
+ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-privacy = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon 5 hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Nyilvános Wi-Fi-n van?
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Kapjon <a data-l10n-name="learn-more-vpn">további adatvédelmet</a> azáltal, hogy választ 5 hely közül, hogy elrejtse a böngészési helyét.
 ipprotection-feature-introduction-description-captive-portal = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még nyilvános Wi-Fi-n is.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Kapjon <a data-l10n-name="learn-more-vpn">további adatvédelmet</a> azáltal, hogy választ több hely közül, hogy elrejtse a böngészési helyét.
 ipprotection-feature-introduction-button-primary = Tovább
 ipprotection-feature-introduction-button-secondary-not-now = Most nem
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Megértettem
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Új: Tartózkodási hely módosítása
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-jével</a> több böngészési hely közül választhat, vagy hagyhatja, hogy mi válasszuk ki a leggyorsabbat .
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-jével</a> 5 böngészési hely közül választhat, vagy hagyhatja, hogy mi válasszuk ki a leggyorsabbat .
 ipprotection-location-selection-callout-primary-button = Kipróbálás
 ipprotection-location-selection-callout-secondary-button = Eltüntetés
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Eltüntetés
 unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített VPN-jét
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Rejtse el a tartózkodási helyét</a> böngészés közben a { -brand-product-name }ban.
 unauthenticated-private-location-message = Segít, hogy <a data-l10n-name="learn-more-vpn">bizalmas maradjon a tartózkodási helye</a> a { -brand-product-name }ban.
+unauthenticated-choose-location-message-1 = Válasszon több hely közül, vagy hagyja, hogy a { -brand-product-name } válassza ki a leggyorsabbat.
 unauthenticated-choose-location-message = Válasszon 5 hely közül, vagy hagyja, hogy a { -brand-product-name } válassza ki a leggyorsabbat.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -197,6 +202,11 @@ ip-protection-description-1 =
     .label = Beépített VPN
     .description = Kapjon további adatvédelmet a helye elrejtésével böngészés közben.
 ip-protection-learn-more = További tudnivalók
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
+    .message = Böngésszen további adatvédelem mellett a helye elrejtésével.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =

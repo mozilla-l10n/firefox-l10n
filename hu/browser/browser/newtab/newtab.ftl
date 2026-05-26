@@ -766,6 +766,9 @@ newtab-widget-lists-input-menu-delete = Törlés
 newtab-widget-lists-input-menu-edit = Szerkesztés
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Elem szerkesztése
+newtab-widget-lists-edit-clear =
+    .aria-label = Mégse
+    .title = Mégse
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Új lista létrehozása
