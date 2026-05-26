@@ -662,6 +662,9 @@ sharing-warning-disable-for-session =
 
 webserial-no-ports-available = Սերիական միացքներ չկան
 
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -1193,7 +1196,7 @@ repair-text-encoding-button =
     .label = Վերականգնել տեքստի կոդավորումը
     .tooltiptext = Էջի բովանդակությունից գուշակում է էջի ճիշտ կոդավորումը
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1258,6 +1261,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Ներդիրների խմբեր
     .tooltiptext = Ցուցադրել ձեր ներդիրների խմբերը
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
 
 ## EME notification panel
 
