@@ -10,6 +10,12 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Nastavení…
+menu-application-set-as-default =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Nastavit { -brand-shorter-name(case: "acc") } jako výchozí prohlížeč
+           *[no-cases] Nastavit aplikaci { -brand-shorter-name } jako výchozí prohlížeč
+        }
 menu-application-services =
     .label = Služby
 menu-application-hide-this =

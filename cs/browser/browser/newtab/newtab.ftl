@@ -984,10 +984,17 @@ newtab-sports-widget-back-button =
     .aria-label = Zpět
 newtab-sports-widget-done-button =
     .label = Hotovo
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = Tým { $teamName } (vyřazen)
 newtab-sports-widget-view-all =
     .label = Zobrazit vše
 newtab-sports-widget-show-less =
     .label = Zobrazit méně
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Pouze sledované týmy
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Sledovat
@@ -1007,6 +1014,8 @@ newtab-sports-widget-watch-stream-free-trial = Vyzkoušení zdarma
 newtab-sports-widget-watch-stream-free-paid = Zdarma i placené
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Placené
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Pouze vybrané zápasy
 # Heading for the list of streaming services available in the user’s country/region.
 newtab-sports-widget-watch-available-region = Dostupné ve vašem regionu
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -1103,6 +1112,15 @@ newtab-sports-widget-match-aria-label-now =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, odloženo
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, pozastaveno
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, zrušeno
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
@@ -1112,6 +1130,8 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bosna a Hercegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Pobřeží Slonoviny
+newtab-sports-widget-team-name-label-cod =
+    .label = Konžská demokratická republika
 newtab-sports-widget-team-name-label-eng =
     .label = Anglie
 newtab-sports-widget-team-name-label-sco =
