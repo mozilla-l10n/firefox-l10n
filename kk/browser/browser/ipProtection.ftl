@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Енді браузеріңіздің 
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Жекеліктің тағы бір деңгейін қосыңыз
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> шолуыңызды қорғауға көмектеседі. Шолу орнын құпиялырақ сақтау үшін бірнеше орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> шолуыңызды қорғауға көмектеседі. Шолу орнын құпиялырақ сақтау үшін 5 орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Жалпыға орта
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Шолу орнын жасыру үшін 5 орналасудың бірін таңдау арқылы <a data-l10n-name="learn-more-vpn">қосымша жекелікке</a> қол жеткізіңіз.
 ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Шолу орнын жасыру үшін бірнеше орналасудың бірін таңдау арқылы <a data-l10n-name="learn-more-vpn">қосымша жекелікке</a> қол жеткізіңіз.
 ipprotection-feature-introduction-button-primary = Келесі
 ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Түсіндім
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Жаңа: Орналасқан жеріңізді өзгертіңіз
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> сізге бірнеше шолу орнын таңдауға немесе ең жылдамын бізге таңдауға мүмкіндік береді.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> сізге 5 шолу орнын таңдауға немесе ең жылдамын бізге таңдауға мүмкіндік береді.
 ipprotection-location-selection-callout-primary-button = Қолданып көріңіз
 ipprotection-location-selection-callout-secondary-button = Елемеу
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Елемеу
 unauthenticated-vpn-title = { -brand-product-name } құрамындағы VPN қолданып көріңіз
 unauthenticated-hide-location-message-3 = { -brand-product-name } ішінде шолу кезінде <a data-l10n-name="learn-more-vpn">Орналасқан жеріңізді жасырыңыз</a>.
 unauthenticated-private-location-message = { -brand-product-name } ішінде <a data-l10n-name="learn-more-vpn">орналасуыңызды құпия сақтауға көмектеседі</a>.
+unauthenticated-choose-location-message-1 = Бірнеше орналасудың бірін таңдаңыз немесе ең жылдамын { -brand-product-name } таңдауына рұқсат етіңіз.
 unauthenticated-choose-location-message = 5 орналасудың бірін таңдаңыз немесе ең жылдамын { -brand-product-name } таңдауына рұқсат етіңіз.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -197,6 +202,11 @@ ip-protection-description-1 =
     .label = Кіріктірілген VPN
     .description = Шолу кезінде орналасуыңызды жасыру арқылы қосымша жекелікті алыңыз.
 ip-protection-learn-more = Көбірек білу
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін байқап көріңіз.
+    .message = Орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
