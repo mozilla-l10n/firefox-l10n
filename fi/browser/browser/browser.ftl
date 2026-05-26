@@ -1210,7 +1210,7 @@ repair-text-encoding-button =
     .label = Korjaa merkistökoodaus
     .tooltiptext = Arvaa oikea merkistökoodaus sivun sisällöstä
 
-## Customize Toolbar Buttons
+##
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1280,6 +1280,11 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Välilehtiryhmät
     .tooltiptext = Näytä välilehtiryhmät
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrkoodi
 
 ## EME notification panel
 
