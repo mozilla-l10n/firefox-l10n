@@ -7,7 +7,7 @@
 
 newtab-page-title = Neuer Tab
 newtab-settings-button =
-    .title = Neuer-Tab-Seite anpassen
+    .title = Firefox-Startseite anpassen
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Diese Seite anpassen
@@ -252,7 +252,7 @@ newtab-section-header-recent-activity = Neueste Aktivität
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Empfohlen von { $provider }
-newtab-section-header-stories = Geschichten, die zum Nachdenken anregen
+newtab-section-header-stories = Artikel, die zum Nachdenken anregen
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Unsere heutigen Tipps für Sie
 
@@ -262,9 +262,9 @@ newtab-empty-section-highlights = Surfen Sie los und wir zeigen Ihnen hier einig
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Jetzt kennen Sie die Neuigkeiten. Schauen Sie später wieder vorbei, um neue Informationen von { $provider } zu erhalten. Können Sie nicht warten? Wählen Sie ein beliebtes Thema und lesen Sie weitere interessante Geschichten aus dem Internet.
+newtab-empty-section-topstories = Das war's. Schauen Sie später wieder vorbei, um neue Artikel von { $provider } zu erhalten. Sie können es kaum erwarten? Wählen Sie ein beliebtes Thema aus, um weitere interessante Artikel aus dem Internet zu durchstöbern.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
-newtab-empty-section-topstories-generic = Jetzt kennen Sie die Neuigkeiten. Schauen Sie später wieder vorbei, um neue Artikel zu erhalten. Können Sie nicht warten? Wählen Sie ein beliebtes Thema und lesen Sie weitere interessante Geschichten aus dem Internet.
+newtab-empty-section-topstories-generic = Das war's. Schauen Sie später wieder vorbei, um neue Artikel zu erhalten. Sie können es kaum erwarten? Wählen Sie ein beliebtes Thema, um weitere interessante Artikel aus dem Internet zu durchstöbern.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -347,14 +347,14 @@ newtab-custom-pocket-title = Empfohlen von { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Besondere Inhalte ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Empfohlene Geschichten
+    .label = Empfohlene Artikel
     .description = Besondere Inhalte ausgewählt von der { -brand-product-name }-Familie
 newtab-recommended-stories-toggle =
-    .label = Empfohlene Geschichten
+    .label = Empfohlene Artikel
 newtab-custom-stories-personalized-toggle =
-    .label = Geschichten
-newtab-custom-stories-personalized-checkbox-label = Personalisierte Geschichten basierend auf Ihrer Aktivität
-newtab-custom-pocket-sponsored = Gesponserte Inhalte
+    .label = Artikel
+newtab-custom-stories-personalized-checkbox-label = Artikel, die Ihnen gefallen könnten
+newtab-custom-pocket-sponsored = Gesponserte Artikel
 newtab-custom-pocket-show-recent-saves = Zuletzt hinzugefügte Einträge anzeigen
 newtab-custom-recent-title = Neueste Aktivität
 newtab-custom-recent-subtitle = Eine Auswahl kürzlich besuchter Websites und Inhalte
@@ -371,6 +371,8 @@ newtab-custom-widget-sports-toggle =
     .label = Weltmeisterschaft
 newtab-custom-widget-clock-toggle =
     .label = Uhr
+newtab-custom-widget-sports-toggle2 =
+    .label = Sport
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -469,7 +471,7 @@ newtab-wallpaper-blue-flowers = Detailaufnahmen von blühenden blauen Blumen
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto von <a data-l10n-name="name-link">{ $author_string }</a> auf <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Wie wäre es mit einem Farbtupfer?
-newtab-wallpaper-feature-highlight-content = Geben Sie Ihrem neuen Tab einen frischen Anstrich mit Hintergrundbildern.
+newtab-wallpaper-feature-highlight-content = Geben Sie Ihrer Firefox-Startseite einen frischen Anstrich mit Hintergrundbildern.
 newtab-wallpaper-feature-highlight-button = Verstanden
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
@@ -527,7 +529,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Zu Fahrenheit wechseln
 newtab-weather-menu-change-temperature-units-celsius = Zu Celsius wechseln
-newtab-weather-menu-hide-weather = Wetter bei neuem Tab ausblenden
+newtab-weather-menu-hide-weather = Wetter auf der Firefox-Startseite ausblenden
 newtab-weather-menu-learn-more = Weitere Informationen
 newtab-weather-menu-detect-my-location = Meinen Standort erkennen
 # This message is shown if user is working offline
@@ -587,7 +589,7 @@ newtab-topic-label-home = Haus und Garten
 newtab-topic-selection-title = Wählen Sie Themen aus, um Ihren Feed zu optimieren
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
-newtab-topic-selection-subtitle = Wählen Sie zwei oder mehr Themen aus. Unsere erfahrenen Kuratoren priorisieren Geschichten, die auf Ihre Interessen zugeschnitten sind. Passen Sie die Themen jederzeit an.
+newtab-topic-selection-subtitle = Wählen Sie zwei oder mehr Themen aus. Unsere erfahrenen Kuratoren priorisieren Artikel, die auf Ihre Interessen zugeschnitten sind. Passen Sie die Themen jederzeit an.
 newtab-topic-selection-save-button = Speichern
 newtab-topic-selection-cancel-button = Abbrechen
 newtab-topic-selection-button-maybe-later = Vielleicht später
@@ -665,7 +667,7 @@ newtab-custom-wallpaper-cta = Ausprobieren
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Wählen Sie ein Hintergrundbild, um { -brand-product-name } zu personalisieren
-newtab-new-user-custom-wallpaper-subtitle = Fühlen Sie sich in jedem Tab wie zu Hause — mit benutzerdefinierten Hintergrundbildern und Farben.
+newtab-new-user-custom-wallpaper-subtitle = Fühlen Sie sich auf Ihrer Firefox-Startseite wie zu Hause — mit benutzerdefinierten Hintergrundbildern und Farben.
 newtab-new-user-custom-wallpaper-cta = Jetzt ausprobieren
 
 ## Strings for Nova wallpaper feature highlight
@@ -727,7 +729,7 @@ newtab-section-toast-unfollow =
 # Variables:
 #   $topic (string) - Topic that the user has blocked
 newtab-section-toast-block =
-    .message = Sie sehen keine Artikel mehr über { $topic }.
+    .message = Sie sehen nun keine Artikel mehr über { $topic }.
 
 ## Strings for task / to-do list productivity widget
 

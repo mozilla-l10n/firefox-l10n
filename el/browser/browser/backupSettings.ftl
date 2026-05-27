@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Τρόπος επαναφοράς:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Ανοίξτε το μενού της εφαρμογής ☰ και μεταβείτε στις Ρυθμίσεις > Συγχρονισμός
+backup-file-moz-browser-restore-step-2-1 = Κάντε κλικ στο «Επαναφορά δεδομένων» και επιλέξτε αυτό το αρχείο
 backup-file-moz-browser-restore-step-2 = Κάντε κλικ στο «Επιλογή αντιγράφου ασφαλείας» και επιλέξτε αυτό το αρχείο
 backup-file-moz-browser-restore-step-3 = Επανεκκινήστε το { -brand-short-name } όταν σας ζητηθεί
 backup-file-other-browser-restore-step-1 = Κάντε λήψη και εγκατάσταση του { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Λήψη
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Εκκινήστε το { -brand-short-name }, ανοίξτε το μενού της εφαρμογής ☰ και μεταβείτε στις Ρυθμίσεις > Συγχρονισμός
+backup-file-other-browser-restore-step-3-1 = Κάντε κλικ στο «Επαναφορά δεδομένων» και επιλέξτε αυτό το αρχείο
 backup-file-other-browser-restore-step-3 = Κάντε κλικ στο «Επιλογή αντιγράφου ασφαλείας» και επιλέξτε αυτό το αρχείο
 backup-file-other-browser-restore-step-4 = Επανεκκινήστε το { -brand-short-name } όταν σας ζητηθεί
 
