@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Anpassen
 newtab-customize-panel-label =
     .label = Anpassen
 newtab-personalize-settings-icon-label =
-    .title = Neuen Tab anpassen
+    .title = Firefox-Startseite anpassen
     .aria-label = Einstellungen
 newtab-settings-dialog-label =
     .aria-label = Einstellungen
 newtab-personalize-icon-label =
-    .title = Neuen Tab anpassen
-    .aria-label = Neuen Tab anpassen
+    .title = Firefox-Startseite anpassen
+    .aria-label = Firefox-Startseite anpassen
 newtab-personalize-dialog-label =
     .aria-label = Anpassen
 newtab-logo-and-wordmark =
@@ -269,7 +269,7 @@ newtab-empty-section-topstories-generic = Jetzt kennen Sie die Neuigkeiten. Scha
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Alle Artikel gelesen
-newtab-discovery-empty-section-topstories-content = Öffnen Sie diese Seite später ein weiteres Mal, um neue Artikel angezeigt zu bekommen.
+newtab-discovery-empty-section-topstories-content = Kommen Sie später wieder, um neue Artikel angezeigt zu bekommen.
 newtab-discovery-empty-section-topstories-try-again-button = Erneut versuchen
 newtab-discovery-empty-section-topstories-loading = Wird geladen…
 # Displays when a layout in a section took too long to fetch articles.
