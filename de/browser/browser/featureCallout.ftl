@@ -174,7 +174,7 @@ sidebar-deprecation-cta-button = Jetzt ausprobieren
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Von zu vielen Tabs überfordert?
-vertical-tabs-callout-1-subtitle = Probieren Sie unser neues Layout für vertikale Tabs aus, um Ihre Tab-Liste schnell zu durchsuchen. Erste Tester berichten, dass dieses Layout ihnen hilft, sich organisierter zu fühlen. Jederzeit wechseln.
+vertical-tabs-callout-1-subtitle = Probieren Sie unser neues Layout für vertikale Tabs aus, um Ihre Tab-Liste schnell zu durchsuchen. Erste Tester berichten, dass dieses Layout ihnen hilft, sich besser zu organisieren. Sie können jederzeit zum alten Layout zurückkehren.
 vertical-tabs-callout-1-cta-button = Vertikale Tabs ausprobieren
 vertical-tabs-callout-2-cta-button = Jetzt ausprobieren
 vertical-tabs-callout-2-title = Haben Sie viele Tabs offen? Probieren Sie vertikale Tabs aus.
