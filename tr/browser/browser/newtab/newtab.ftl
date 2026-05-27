@@ -1082,7 +1082,7 @@ newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } - { $awayTeam }, ertelendi
 # An upcoming match row whose status is "suspended".
 newtab-sports-widget-match-aria-label-upcoming-suspended =
-    .aria-label = { $homeTeam } - { $wayTeam }, ara verildi
+    .aria-label = { $homeTeam } - { $awayTeam }, ara verildi
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } - { $awayTeam }, iptal edildi
