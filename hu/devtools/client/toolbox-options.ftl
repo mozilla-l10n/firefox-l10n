@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = DOM attribútumok csonkítása
 options-collapse-attrs-tooltip =
     .title = Hosszú attribútumok csonkítása a vizsgálóban
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Megjegyzések megjelenítése
+options-show-comments-tooltip =
+    .title = Megjegyzés-csomópontok megjelenítése a vizsgálóban
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Kattintson és húzza a méretértékek szerkesztéséhez
 options-inspector-draggable-properties-tooltip =

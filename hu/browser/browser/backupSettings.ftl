@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Helyreállítás módja:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Nyissa meg az alkalmazásmenüt ☰ és ugorjon a Beállítások > Szinkronizálás lehetőséghez
+backup-file-moz-browser-restore-step-2-1 = Kattintson az „Adatok helyreállítása” gombra és válassza ki ezt a fájlt
 backup-file-moz-browser-restore-step-2 = Kattintson a „Biztonsági mentési fájl kiválasztása” gombra, és válassza ki ezt a fájlt
 backup-file-moz-browser-restore-step-3 = Indítsa újra a { -brand-short-name }ot, amikor kéri
 backup-file-other-browser-restore-step-1 = A { -brand-short-name } letöltése és telepítése
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Letöltés
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Indítsa el a { -brand-short-name }ot, nyissa meg az alkalmazásmenüt ☰ és menjen a Beállítások > Szinkronizálás lehetőséghez
+backup-file-other-browser-restore-step-3-1 = Kattintson az „Adatok helyreállítása” gombra és válassza ki ezt a fájlt
 backup-file-other-browser-restore-step-3 = Kattintson a „Biztonsági mentési fájl kiválasztása” gombra, és válassza ki ezt a fájlt
 backup-file-other-browser-restore-step-4 = Indítsa újra a { -brand-short-name }ot, amikor kéri
 

@@ -371,6 +371,8 @@ newtab-custom-widget-sports-toggle =
     .label = Világbajnokság
 newtab-custom-widget-clock-toggle =
     .label = Óra
+newtab-custom-widget-sports-toggle2 =
+    .label = Sport
 newtab-custom-widget-section-title = Kisalkalmazások
 newtab-custom-widget-section-toggle =
     .label = Kisalkalmazások
@@ -855,6 +857,9 @@ newtab-daily-briefing-card-timestamp = Frissítve: { $minutes } perce
 newtab-widget-message-title = Maradjon fókuszált a listákkal és a beépített időzítővel
 # to-dos stands for "things to do".
 newtab-widget-message-copy = A gyors emlékeztetőktől a napi tennivalókig, fókuszált munkaszakaszoktól a nyújtó szünetekig — maradjon a feladatnál és időben.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Egy helyen összefoglalva minden lényeg, időjárás, egyebek
+newtab-widget-message-focus-forecasts-body = Minden napja gördülékeny lehet a { -brand-product-name } moduljaival. Nézze meg az időjárás-előrejelzést, tartsa számon feladatait, vagy kövesse az időt szerte a világon.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -913,6 +918,7 @@ newtab-widget-timer-celebration-message-break = Készen áll a fókuszálásra?
 ##
 
 newtab-sports-widget-menu-follow-teams = Csapatok követése
+newtab-sports-widget-menu-view-schedule = Beosztás megtekintése
 newtab-sports-widget-menu-view-upcoming = Közelgők megtekintése
 newtab-sports-widget-menu-view-results = Eredmények megtekintése
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -922,7 +928,7 @@ newtab-sports-widget-menu-learn-more = További tudnivalók
 newtab-sports-widget-keep-tabs = Kövesse a világbajnokságot
 newtab-sports-widget-get-updates = Kapjon élő mérkőzésinformációkat és még sok mást.
 newtab-sports-widget-view-schedule =
-    .label = Ütemezés megtekintése
+    .label = Beosztás megtekintése
 newtab-sports-widget-follow-teams =
     .label = Csapatok követése
 newtab-sports-widget-view-matches =
@@ -941,9 +947,63 @@ newtab-sports-widget-search-country =
     .placeholder = Ország keresése
     .aria-label = Ország keresése
 newtab-sports-widget-cancel = Mégse
+newtab-sports-widget-back-button =
+    .aria-label = Vissza
 newtab-sports-widget-done-button =
     .label = Kész
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (kiesve)
+newtab-sports-widget-view-all =
+    .label = Összes megtekintése
+newtab-sports-widget-show-less =
+    .label = Kevesebb megjelenítése
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Csak követett csapatok
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Követés
+    .title = Élő követés
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Élő követés
+    .title = Élő követés
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Bezárás
+    .title = Bezárás
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Ingyenes
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Ingyenes próbaidőszak
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Ingyenes és fizetős
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Fizetős
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Csak egyes játékok
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Régiójában elérhető
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Egyéb régiók
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Közvetítés megnyitása
+    .title = Közvetítés megnyitása
 newtab-sports-widget-group-stage = Csoportkörök szakasza
+newtab-sports-widget-group-a = A csoport
+newtab-sports-widget-group-b = B csoport
+newtab-sports-widget-group-c = C csoport
+newtab-sports-widget-group-d = D csoport
+newtab-sports-widget-group-e = E csoport
+newtab-sports-widget-group-f = F csoport
+newtab-sports-widget-group-g = G csoport
+newtab-sports-widget-group-h = H csoport
+newtab-sports-widget-group-i = I csoport
+newtab-sports-widget-group-j = J csoport
+newtab-sports-widget-group-k = K csoport
+newtab-sports-widget-group-l = L csoport
 newtab-sports-widget-round-32 = Legjobb 32
 newtab-sports-widget-round-16 = Legjobb 16
 newtab-sports-widget-quarter-finals = Negyeddöntők
@@ -955,6 +1015,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Kulcsdátumok
 newtab-sports-widget-upcoming = Közelgő
+# Used for a match currently ongoing
+newtab-sports-widget-now = Most
 newtab-sports-widget-results = Eredmények
 newtab-sports-widget-semi-finals = Elődöntők
 newtab-sports-widget-bronze-finals = Bronzmérkőzés
@@ -979,10 +1041,78 @@ newtab-sports-widget-third-place = Harmadik helyezett
 newtab-sports-widget-runner-up = Második helyezett
 newtab-sports-widget-champions = Bajnokok
 newtab-sports-widget-world-cup-champions = A 2026-os világbajnokság bajnokai
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Teljes játékidő
+newtab-sports-widget-match-penalties = Büntetők
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } kontra { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) kontra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Élő: { $homeTeam }, { $homeScore } kontra { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, késleltetve
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, elhalasztva
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, felfüggesztve
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, törölve
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosznia-Hercegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Elefántcsontpart
+newtab-sports-widget-team-name-label-cod =
+    .label = Kongói Demokratikus Köztársaság
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglia
+newtab-sports-widget-team-name-label-sco =
+    .label = Skócia
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Indítsa a világbajnokságot új háttérképekkel
+newtab-sports-widget-message-wallpapers-body = Vigyen egy kis játékos energiát a böngészőjébe a bajnokság alatt.
+newtab-sports-widget-message-wallpapers-cta = Háttérkép választása
 newtab-sports-widget-message-add-widgets-cta =
     .label = Kisalkalmazások hozzáadása
 newtab-sports-widget-message-day-in-play-title = Maradjon játékban egész nap a { -brand-product-name } kisalkalmazásaival
@@ -1049,6 +1179,19 @@ newtab-clock-widget-button-save = Mentés
 newtab-clock-widget-button-remove-clock =
     .title = Óra eltávolítása
     .aria-label = Óra eltávolítása
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, becenév: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Óra hozzáadása
 newtab-clock-widget-edit-clock-form =
@@ -1058,6 +1201,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Találatok
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Nincs találat
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

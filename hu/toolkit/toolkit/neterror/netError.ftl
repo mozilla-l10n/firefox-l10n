@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = A { -brand-short-name } nem tud biztonságos kapcsolatot létrehozni a(z) { $hostname } kiszolgálóval.
 fp-neterror-offline-intro = A { -brand-short-name } nem tud kapcsolódni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz
+fp-neterror-offline-intro-2 = A { -brand-short-name } nem tud csatlakozni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz.
 fp-neterror-net-timeout-intro = A(z) <strong>{ $hostname }</strong> kiszolgáló válasza túl hosszú ideig tart.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

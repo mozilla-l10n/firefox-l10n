@@ -120,6 +120,8 @@ private-browsing-description2 =
     akkor a kiegészítő nem fog működni privát böngészésben, és ott nem fog hozzáférni az online tevékenységéhez.
     Ezt a változtatást azért hoztuk, hogy a privát böngészése tényleg privát legyen.
     <label data-l10n-name="private-browsing-learn-more">Tudjon meg többet a kiegészítőbeállítások kezeléséről.</label>
+aboutaddons-sidebar =
+    .heading = Kiegészítők
 addon-category-discover = Javaslatok
 addon-category-discover-title =
     .title = Javaslatok
@@ -485,6 +487,10 @@ addon-permissions-empty = Ez a kiegészítő nem igényel semmilyen engedélyt
 addon-permissions-required = Az alapvető funkciókhoz szükséges engedélyek:
 addon-permissions-optional = A további funkciókhoz szükséges engedélyek:
 addon-permissions-learnmore = További tudnivalók az engedélyekről
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Néhány engedélyt a szervezete kezel.
 recommended-extensions-heading = Ajánlott kiegészítők
 recommended-themes-heading = Ajánlott témák
 # Variables:
