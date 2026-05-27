@@ -35,8 +35,8 @@ experimental-features-contextual-password-manager =
 experimental-features-contextual-password-manager-description = Greifen Sie direkt aus der Sidebar auf Ihre Passwörter zu. Kein Suchen oder Zurücksetzen von Passwörtern mehr bei der Anmeldung. Um diese Funktion zu nutzen, wählen Sie in der Sidebar Passwörter aus. Gehen Sie dann zu den allgemeinen Einstellungen und wählen Sie unter Browser-Layout die Option "Sidebar anzeigen". Passen Sie dann die Sidebar an, indem Sie Passwörter auswählen. Wenn Sie es ausprobieren, <a data-l10n-name="connect">sagen Sie uns Ihre Meinung</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Ein benutzerdefiniertes Hintergrundbild oder eine Farbe für einen neuen Tab wählen
-experimental-features-custom-wallpaper-description = Laden Sie Ihr eigenes Hintergrundbild hoch oder wählen Sie eine benutzerdefinierte Farbe für den Hintergrund für neue Tabs.
+    .label = Ein benutzerdefiniertes Hintergrundbild oder eine Farbe für die Firefox-Startseite wählen
+experimental-features-custom-wallpaper-description = Laden Sie Ihr eigenes Hintergrundbild hoch oder wählen Sie eine benutzerdefinierte Farbe für den Hintergrund Ihrer Firefox-Startseite.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Link-Vorschau
@@ -53,8 +53,8 @@ experimental-features-link-previews-description-no-ai =
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
-    .label = Themenbereiche und Folgen/Blockieren für Geschichten unter Neuer Tab
-experimental-features-newtab-sections-follow-block-description = Gliedern Sie die Geschichten auf Ihrer Neuer-Tab-Seite in Themenbereiche (Sport, Essen, Unterhaltung, etc.), für ein strukturierteres und übersichtlicheres Erlebnis. Verwenden Sie unsere neuen Einstellungsmöglichkeiten "Folgen" und "Blockieren", um anzupassen, welche Inhalte Sie sehen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+    .label = Themenbereiche und Folgen/Blockieren für Artikel auf der Firefox-Startseite
+experimental-features-newtab-sections-follow-block-description = Gliedern Sie die Artikel auf Ihrer Firefox-Startseite in Themenbereiche (Sport, Essen, Unterhaltung, etc.), für ein strukturierteres und übersichtlicheres Erlebnis. Verwenden Sie unsere neuen Einstellungsmöglichkeiten "Folgen" und "Blockieren", um anzupassen, welche Inhalte Sie sehen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Websites zur Taskleiste hinzufügen
