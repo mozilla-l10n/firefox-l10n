@@ -236,6 +236,7 @@ backup-file-download-moz-browser-button = Жүктеп алу
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = { -brand-short-name } іске қосып, қолданба мәзірін ☰ ашып, Баптаулар > Синхрондау бөліміне өтіңіз
+backup-file-other-browser-restore-step-3-1 = «Деректерді қалпына келтіру» басып, осы файлды таңдаңыз
 backup-file-other-browser-restore-step-3 = "Сақтық көшірме файлын таңдау" басып, осы файлды таңдаңыз
 backup-file-other-browser-restore-step-4 = Сұралған кезде { -brand-short-name } қайта іске қосыңыз
 
