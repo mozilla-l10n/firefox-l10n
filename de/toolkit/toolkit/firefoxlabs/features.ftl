@@ -68,7 +68,7 @@ experimental-features-newtab-widget-lists =
     .label = Listen auf { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-new =
     .label = Listen
-experimental-features-newtab-widget-lists-description = Behalten Sie Ihre Aufgabenliste im Auge, wenn Sie neue Tabs öffnen. Von Packlisten bis hin zu Einkaufslisten: Machen Sie ihre Pläne in { -brand-product-name }. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+experimental-features-newtab-widget-lists-description = Rufen Sie sich Ihre Aufgabenliste ins Gedächtnis, jedes Mal wenn Sie die Firefox-Startseite öffnen. Von Checklisten bis hin zu Einkaufslisten: Machen Sie ihre Pläne in { -brand-product-name }. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Timer bei { -firefox-home-brand-name }
@@ -78,7 +78,7 @@ experimental-features-newtab-widget-timer-description = Stellen Sie einen Timer 
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listen und Timer auf { -firefox-home-brand-name }
-experimental-features-newtab-widget-lists-and-timer-description = Behalten Sie Ihre Aufgabenliste im Blick, wenn Sie einen neuen Tab öffnen. Von Packlisten bis hin zu Einkaufslisten, planen Sie alles in { -brand-product-name }. Stellen Sie einen Timer ein, um konzentriert zu bleiben, sich selbst anzuspornen oder sich daran zu erinnern, neue Energie zu tanken. <a data-l10n-name="connect">Feedback teilen</a>
+experimental-features-newtab-widget-lists-and-timer-description = Rufen Sie sich Ihre Aufgabenliste ins Gedächtnis, jedes Mal wenn Sie die Firefox-Startseite öffnen. Von Checklisten bis hin zu Einkaufslisten: Machen Sie ihre Pläne in { -brand-product-name }. Stellen Sie sich einen Wecker, um am Ball zu bleiben, konzentriert zu arbeiten, oder um regelmäßig neue Energie zu tanken. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Wettervorhersagen
