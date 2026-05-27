@@ -1227,7 +1227,7 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-translations-more-link = سامووا قلوه سی ولرنیڌنا
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
-    .label = فعال وابی
+    .label = فعال وابیڌه
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = مسدۊد وابیڌه
