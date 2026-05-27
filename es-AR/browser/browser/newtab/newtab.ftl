@@ -370,6 +370,8 @@ newtab-custom-widget-sports-toggle =
     .label = Copa del Mundo
 newtab-custom-widget-clock-toggle =
     .label = Reloj
+newtab-custom-widget-sports-toggle2 =
+    .label = Deportes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -764,6 +766,9 @@ newtab-widget-lists-input-menu-delete = Borrar
 newtab-widget-lists-input-menu-edit = Editar
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editar Ítem
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancelar
+    .title = Cancelar
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista
@@ -940,10 +945,17 @@ newtab-sports-widget-back-button =
     .aria-label = Atrás
 newtab-sports-widget-done-button =
     .label = Listo
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminado)
 newtab-sports-widget-view-all =
     .label = Ver todo
 newtab-sports-widget-show-less =
     .label = Mostrar menos
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Solo equipos seguidos
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Ver
@@ -1155,6 +1167,13 @@ newtab-clock-widget-button-save = Guardar
 newtab-clock-widget-button-remove-clock =
     .title = Eliminar reloj
     .aria-label = Eliminar reloj
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
 newtab-clock-widget-add-clock-form =
     .aria-label = Agregar reloj
 newtab-clock-widget-edit-clock-form =
