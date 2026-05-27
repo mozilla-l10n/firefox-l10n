@@ -1068,20 +1068,20 @@ home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
 home-prefs-recommended-by-header-generic =
-    .label = Empfohlene Geschichten
+    .label = Empfohlene Artikel
 home-prefs-recommended-by-description-generic = Besondere Inhalte ausgewählt von der { -brand-product-name }-Familie
 home-prefs-stories-header =
-    .label = Geschichten
-home-prefs-stories-description = Personalisierte Geschichten basierend auf Ihrer Aktivität
+    .label = Artikel
+home-prefs-stories-description = Artikel, die Ihnen gefallen könnten
 home-prefs-stories-header2 =
-    .label = Geschichten
+    .label = Artikel
     .description = Besondere Inhalte ausgewählt von der { -brand-product-name }-Familie
 
 ##
 
 home-prefs-recommended-by-learn-more = Wie es funktioniert
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Gesponserte Inhalte
+    .label = Gesponserte Artikel
 home-prefs-recommended-by-option-recent-saves =
     .label = Zuletzt hinzugefügte Einträge anzeigen
 home-prefs-highlights-option-visited-pages =
@@ -1137,7 +1137,7 @@ home-prefs-choose-wallpaper-link2 =
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
-    .message = Setzen Sie { -firefox-home-brand-name } in neuen Tabs oder neuen Fenstern, um diese Funktionen zu verwenden.
+    .message = Wählen Sie die Option { -firefox-home-brand-name } unter "Startseite", um diese Funktionen verwenden zu können.
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
