@@ -20,6 +20,7 @@ content-sharing-modal-sign-in =
     .label = 登录以分享链接
 content-sharing-modal-title = 将这组链接分享到任意浏览器
 content-sharing-modal-description = 为这些链接创建公开页面，以便分享。页面创建后，不能再编辑或删除，并将在 7 天后失效。
+content-sharing-modal-policy = 共享即表示您同意我们的<a data-l10n-name="aup-link">可接受使用政策</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.

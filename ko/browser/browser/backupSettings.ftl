@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = 복원 방법:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = 애플리케이션 메뉴 ☰를 열고 설정 > Sync로 이동하세요
+backup-file-moz-browser-restore-step-2-1 = "데이터 복원"을 누르고 이 파일을 선택하세요
 backup-file-moz-browser-restore-step-2 = “백업 파일 선택”을 누르고 이 파일을 선택하세요
 backup-file-moz-browser-restore-step-3 = 요청 시 { -brand-short-name } 다시 시작
 backup-file-other-browser-restore-step-1 = { -brand-short-name } 다운로드 및 설치
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = 다운로드
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = { -brand-short-name }를 시작하고, 애플리케이션 메뉴 ☰를 열고 설정 > Sync로 이동하세요
+backup-file-other-browser-restore-step-3-1 = "데이터 복원"을 누르고 이 파일을 선택하세요
 backup-file-other-browser-restore-step-3 = “백업 파일 선택”을 누르고 이 파일을 선택하세요
 backup-file-other-browser-restore-step-4 = 요청 시 { -brand-short-name } 다시 시작
 

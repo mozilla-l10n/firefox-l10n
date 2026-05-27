@@ -930,6 +930,9 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-team-name-eliminated = { $teamName }（已淘汰）
 newtab-sports-widget-view-all =
     .label = 查看全部
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = 仅显示关注的球队
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = 观看
@@ -949,8 +952,16 @@ newtab-sports-widget-watch-stream-free-trial = 免费试看
 newtab-sports-widget-watch-stream-free-paid = 免费和付费
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = 付费
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = 仅特定比赛
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = 您所在地区的观看方式
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = 其他地区
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = 在线观看
+    .title = 在线观看
 newtab-sports-widget-group-stage = 小组赛阶段
 newtab-sports-widget-group-a = A 组
 newtab-sports-widget-group-b = B 组
@@ -1013,6 +1024,32 @@ newtab-sports-widget-match-penalties = 点球决胜
 ##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
 ##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
 
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }对{ $awayTeam }，{ $homeScore } 比 { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }对{ $awayTeam }，{ $homeScore } 比 { $awayScore }，点球决胜 { $homePenalty } 比 { $awayPenalty }
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = 进行中：{ $homeTeam }对{ $awayTeam }，{ $homeScore } 比 { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam }对{ $awayTeam }，{ DATETIME($date, day: "numeric", month: "long") } { DATETIME($date, hour: "numeric", minute: "numeric") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } 对 { $awayTeam }，推迟
