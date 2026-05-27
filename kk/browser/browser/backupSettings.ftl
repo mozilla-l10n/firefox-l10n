@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Қалай қалпына келтіруге
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Қолданба ☰ мәзірін ашып, Баптаулар > Синхрондау бөліміне өтіңіз
+backup-file-moz-browser-restore-step-2-1 = «Деректерді қалпына келтіру» басып, осы файлды таңдаңыз
 backup-file-moz-browser-restore-step-2 = "Сақтық көшірме файлын таңдау" басып, осы файлды таңдаңыз
 backup-file-moz-browser-restore-step-3 = Сұралған кезде { -brand-short-name } қайта іске қосыңыз
 backup-file-other-browser-restore-step-1 = { -brand-short-name } жүктеп алып, орнатыңыз
