@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha artırın
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Farklı konumlardan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. 5 konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
@@ -35,6 +36,8 @@ ipprotection-feature-introduction-title-captive-portal = Halka açık bir Wi-Fi 
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = İnternette gezdiğiniz yerleri gizlemek için 5 konumdan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
 ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = İnternette gezdiğiniz yerleri gizlemek için çeşitli konumlardan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -55,6 +58,7 @@ ipprotection-site-settings-callout-button = Anladım
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Yeni: Konumunuzu değiştirin
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN’i</a> ile ister farklı konumlardan dilediğinizi seçin, isterseniz en hızlısını biz seçelim.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN’i</a> ile ister 5 konumdan dilediğinizi seçin, isterseniz en hızlısını biz seçelim.
 ipprotection-location-selection-callout-primary-button = Deneyin
 ipprotection-location-selection-callout-secondary-button = Kapat
@@ -65,6 +69,7 @@ ipprotection-location-selection-callout-secondary-button = Kapat
 unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
 unauthenticated-private-location-message = { -brand-product-name } tarayıcısında <a data-l10n-name="learn-more-vpn">konumunuzu gizli tutmamıza</a> yardımcı olur.
+unauthenticated-choose-location-message-1 = Farklı konumlar arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
 unauthenticated-choose-location-message = 5 konum arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

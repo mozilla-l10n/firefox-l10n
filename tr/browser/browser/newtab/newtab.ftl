@@ -853,6 +853,8 @@ newtab-daily-briefing-card-timestamp = { $minutes } dk. önce güncellendi
 newtab-widget-message-title = Listeler ve sayaçla işinize daha iyi odaklanın
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Küçük anımsatıcılar ve günlük görev listeleriyle, odaklanma oturumları ve molalarla zamanınızı daha iyi yönetin.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Odaklanma, hava durumu ve daha fazlası tek noktada
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -948,6 +950,10 @@ newtab-sports-widget-done-button =
 # Variables:
 #   $teamName (string) - the localized team name (e.g. "Canada").
 newtab-sports-widget-team-name-eliminated = { $teamName } (elendi)
+newtab-sports-widget-view-all =
+    .label = Tümünü göster
+newtab-sports-widget-show-less =
+    .label = Daha az göster
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Yalnızca takip edilen takımlar
@@ -1074,6 +1080,32 @@ newtab-sports-widget-match-aria-label-upcoming-delayed =
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } - { $wayTeam }, ertelendi
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } - { $wayTeam }, ara verildi
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } - { $awayTeam }, iptal edildi
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosna Hersek
+newtab-sports-widget-team-name-label-civ =
+    .label = Fildişi Sahili
+newtab-sports-widget-team-name-label-cod =
+    .label = Kongo D.C.
+newtab-sports-widget-team-name-label-eng =
+    .label = İngiltere
+newtab-sports-widget-team-name-label-sco =
+    .label = İskoçya
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Dünya Kupası’na yeni duvar kâğıtlarıyla başlayın
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

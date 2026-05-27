@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Nasıl geri yüklenir?
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Uygulama menüsünü ☰ açıp Ayarlar > Eşitleme’ye gidin
+backup-file-moz-browser-restore-step-2-1 = “Verilerimi geri yükle”ye tıklayıp bu dosyayı seçin
 backup-file-moz-browser-restore-step-2 = “Yedek dosyasını seç”e tıklayıp bu dosyayı seçin
 backup-file-moz-browser-restore-step-3 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
 backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indirip yükleyin
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = İndir
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = { -brand-short-name } tarayıcısını açın, uygulama menüsünü ☰ açıp Ayarlar > Eşitleme’ye gidin
+backup-file-other-browser-restore-step-3-1 = “Verilerimi geri yükle”ye tıklayıp bu dosyayı seçin
 backup-file-other-browser-restore-step-3 = “Yedek dosyasını seç”e tıklayıp bu dosyayı seçin
 backup-file-other-browser-restore-step-4 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
 
