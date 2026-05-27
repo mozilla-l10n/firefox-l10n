@@ -41,6 +41,10 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Lap küldéséhez engedélyezze a szinkronizálást
 fxa-menu-send-to-mobile-connect-phone2 = Csatlakoztassa a telefonját
 fxa-menu-send-to-mobile-device-missing2 = Nem látja az eszközét?
+fxviewtabrow-send-to-mobile-not-verified = A fiók nincs ellenőrizve
+fxviewtabrow-send-to-mobile-verify-account = Fiók ellenőrzése
+fxa-menu-send-to-mobile-turn-on-sync = Kapcsolja be a szinkronizálást a lapok küldéséhez
+fxa-menu-send-to-mobile-connect-device = Csatlakoztasson egy eszközt a lapok küldéséhez
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -69,6 +73,10 @@ sync-setup-verify-heading = Biztos, hogy bejelentkezik a szinkronizálásba?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Egy másik felhasználó korábban bejelentkezett a szinkronizálásba ezen a számítógépen. A bejelentkezés egyesíti ezen böngésző könyvjelzőit, jelszavait és más beállításait ezzel: { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Jelentkezzen be a lapok küldéséhez
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

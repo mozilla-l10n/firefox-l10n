@@ -51,6 +51,8 @@ pane-general-title = Általános
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Kezdőlap
+pane-home-startup-title2 = Kezdőlap és indítás
+    .title = Kezdőlap és indítás
 pane-search-title2 = Keresés
     .title = Keresés
 pane-privacy-title3 = Adatvédelem és biztonság
@@ -2585,6 +2587,8 @@ related-settings-accessibility-link =
     .label = Nagyítási és betűkészlet-beállítások testreszabása az Akadálymentesítés alatt
 related-settings-home-link =
     .label = A { -firefox-home-brand-name } testreszabása
+related-settings-tabs-browsing-link =
+    .label = A böngésző elrendezésének testreszabása
 
 ## AI controls page
 
@@ -2743,8 +2747,12 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Sütik
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Összes süti elfogadása
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Webhelyek közötti sütik blokkolása
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Webhelyek közötti sütik elkülönítése
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Nem megtekintett oldalak sütijeinek blokkolása
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Összes süti elfogadása
 preferences-etp-custom-tracking-protection-enabled =

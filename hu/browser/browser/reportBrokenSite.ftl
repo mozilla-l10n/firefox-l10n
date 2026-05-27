@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Hibás webhely bejelentése
 report-broken-site-panel-intro-text = A jelentése segít minket a { -brand-product-name } problémáinak megértésében és javításában, hogy mindenki számára jobbá tegyük.
 report-broken-site-panel-learn-more-link = További tudnivalók
+report-broken-site-panel-reason-intro-text = Mi nem működik?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = A webhely nem töltődik be
 # These terms are referring to ecommerce websites
@@ -25,8 +26,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = A webhely a reklámblokkoló kikapcsolását kérte
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = A böngésző nem támogatott vagy blokkolva van
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = A webhely félrevezető
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Valami más
+report-broken-site-panel-instructions-other = Írja le részletesen a problémát, hogy segítsen nekünk a probléma kivizsgálásában.
+report-broken-site-panel-instructions-other-optional = Írja le részletesen a problémát, hogy segítsen nekünk a probléma kivizsgálásában. (nem kötelező)
+report-broken-site-panel-description2 =
+    .placeholder = Mi történt? Mire számított? Adjon meg a lépéseket a probléma reprodukálásához.
 report-broken-site-panel-send-more-info-button =
     .label = További információk küldése
 report-broken-site-panel-intro = Segítsen abban, hogy a { -brand-product-name } mindenki számára jobb legyen. A { -vendor-short-name } a küldött információkat a webhelyproblémák javítására használja.
@@ -63,6 +70,8 @@ report-broken-site-panel-button-cancel =
     .label = Mégse
 report-broken-site-panel-button-okay =
     .label = Rendben
+report-broken-site-panel-button-send-report =
+    .label = Jelentés küldése
 report-broken-site-panel-button-send =
     .label = Küldés
 report-broken-site-panel-report-sent-label = A jelentés elküldve
@@ -71,6 +80,18 @@ report-broken-site-panel-report-sent-header =
     .title = A jelentés elküldve
 report-broken-site-panel-report-sent-text = Köszönjük, hogy segít a { -brand-product-name(case: "dative") }, hogy az internet nyíltabb, hozzáférhetőbb és jobb legyen mindenki számára.
 report-broken-site-panel-invalid-url-label = Írjon be egy érvényes webcímet
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Adjon meg legalább { $minLength } karaktert
+       *[other] Adjon meg legalább { $minLength } karaktert
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Képernyőkép küldése
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Követésvédelem által blokkolt elemek listájának elküldése
+report-broken-site-panel-url-input-label =
+    .aria-label = A jelentett oldal webcíme
 report-broken-site-panel-missing-reason-label = Válasszon egy okot
 report-broken-site-panel-blocked-trackers-label =
     .label = Követés elleni védelem által blokkolt webcímek elküldése
