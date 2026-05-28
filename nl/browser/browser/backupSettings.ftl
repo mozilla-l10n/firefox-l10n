@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Herstellen:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Open het toepassingsmenu ☰ en ga naar Instellingen > Synchronisatie
+backup-file-moz-browser-restore-step-2-1 = Klik op ‘Uw gegevens herstellen’ en selecteer dit bestand
 backup-file-moz-browser-restore-step-2 = Klik op ‘Reservekopiebestand kiezen’ en selecteer dit bestand
 backup-file-moz-browser-restore-step-3 = Herstart { -brand-short-name } wanneer daarom wordt gevraagd
 backup-file-other-browser-restore-step-1 = { -brand-short-name } downloaden en installeren
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Downloaden
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, open het toepassingsmenu ☰ en ga naar Instellingen > Synchronisatie
+backup-file-other-browser-restore-step-3-1 = Klik op ‘Uw gegevens herstellen’ en selecteer dit bestand
 backup-file-other-browser-restore-step-3 = Klik op ‘Reservekopiebestand kiezen’ en selecteer dit bestand
 backup-file-other-browser-restore-step-4 = Herstart { -brand-short-name } wanneer daarom wordt gevraagd
 
