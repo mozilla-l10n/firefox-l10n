@@ -88,6 +88,8 @@ report-broken-site-panel-invalid-description-label =
     }
 report-broken-site-panel-screenshot-label =
     .label = Emondo mba’erechaha japyhypy
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Emondo tysýi mba’eporurã jokopyre tapykueho ñemo’ãha rovake.
 report-broken-site-panel-url-input-label =
     .aria-label = Kuatiarogue URL rehegua oñemomarandúva
 report-broken-site-panel-missing-reason-label = Eiporavomína mba’érepa
