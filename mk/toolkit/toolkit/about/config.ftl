@@ -2,7 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Продолжи претпазливо
+about-config-intro-warning-text = Промената на преференциите за напредна конфигурација може да влијае на ефикасноста или безбедноста на { -brand-short-name }.
+about-config-intro-warning-checkbox = Предупреди ме кога ќе се обидам да пристапам до овие преференции
+about-config-intro-warning-button = Прифати го ризикот и продолжи
+
+##
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Промената на овие преференции може да влијае на перформансите или безбедноста на { -brand-short-name }.
+about-config-page-title = Напредни преференции
+about-config-search-input1 =
+    .placeholder = Најди преференција по име
 about-config-show-all = Прикажи сѐ
+about-config-show-only-modified = Прикажи само променети преференции
 about-config-pref-add-button =
     .title = Додај
 about-config-pref-toggle-button =
