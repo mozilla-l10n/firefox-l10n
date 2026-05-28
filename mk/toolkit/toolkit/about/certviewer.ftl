@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certificate-viewer-certificate-section-title = Сертификат
 
 ## Error messages
 
+certificate-viewer-error-message = Не можевме да ги пронајдеме информациите за сертификатот или сертификатот е оштетен. Обидете се повторно.
 certificate-viewer-error-title = Нешто тргна наопаку.
 
 ## Certificate information labels
@@ -18,7 +20,7 @@ certificate-viewer-email-address = Адреса за е-пошта
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Сертификат за { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-country = Седиште
+certificate-viewer-inc-country = Земја на основање
 certificate-viewer-country = Земја
 certificate-viewer-curve = Крива
 certificate-viewer-distribution-point = Дистрибуциска точка
@@ -27,9 +29,46 @@ certificate-viewer-ip-address = IP адреса
 certificate-viewer-other-name = Друго име
 certificate-viewer-exponent = Експонент
 certificate-viewer-id = ID
+certificate-viewer-key-exchange-group = Група за размена на клучеви
+certificate-viewer-key-id = ID на клуч
+certificate-viewer-key-size = Големина на клуч
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Место на основање
+certificate-viewer-locality = Место
+certificate-viewer-location = Локација
+# Log is a noun meaning a record of events.
+certificate-viewer-log-name = Име на записот
+# Log is a noun meaning a record of events.
+certificate-viewer-logid = ID на записот
+certificate-viewer-method = Метод
+certificate-viewer-modulus = Модул
+certificate-viewer-name = Име
+certificate-viewer-surname = Презиме
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Име
+certificate-viewer-not-after = Не после
+certificate-viewer-not-before = Не пред
+certificate-viewer-organization = Организација
+certificate-viewer-organizational-unit = Организациска единица
+certificate-viewer-policy = Политика
+certificate-viewer-protocol = Протокол
+certificate-viewer-public-value = Јавна вредност
+certificate-viewer-purposes = Цели
+certificate-viewer-qualifier = Квалификатор
+certificate-viewer-qualifiers = Квалификатори
+certificate-viewer-required = Задолжително
+certificate-viewer-unsupported = &lt;неподдржано&gt;
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Држава/Провинција на основање
+certificate-viewer-state-province = Држава/Провинција
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Сериски број
+certificate-viewer-signature-algorithm = Алгоритам на потписот
+certificate-viewer-signature-scheme = Шема на потписот
+certificate-viewer-timestamp = Временска ознака
+certificate-viewer-value = Вредност
 certificate-viewer-version = Верзија
 certificate-viewer-business-category = Деловна категорија
 certificate-viewer-subject-name = Име на предметот
