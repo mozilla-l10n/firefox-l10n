@@ -31,3 +31,7 @@ experimental-features-webrtc-global-mute-toggles-description = הוספת פקד
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפור הביצועים וניצול הזיכרון של JavaScript.
+# Search during IME
+experimental-features-ime-search =
+    .label = שורת הכתובת: הצגת תוצאות במהלך הרכבת קלט IME
+experimental-features-ime-search-description = קלט IME‏ (Input Method Editor) הוא כלי שמאפשר להזין סימנים מורכבים, כמו אלו המשמשים בשפות מזרח־אסייתיות או בשפות הודיות, באמצעות מקלדת רגילה. הפעלת ניסוי זה תשאיר את חלונית שורת הכתובת פתוחה ותציג תוצאות חיפוש והצעות בזמן הזנת טקסט באמצעות IME. יש לשים לב שייתכן שה־IME יציג חלונית שתסתיר את תוצאות שורת הכתובת, ולכן מומלץ להשתמש בהעדפה זו רק עם IME שאינו משתמש בחלונית מסוג זה.
