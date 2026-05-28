@@ -367,6 +367,8 @@ newtab-custom-widget-sports-toggle =
     .label = Piedpilka mondpokalo
 newtab-custom-widget-clock-toggle =
     .label = Horloĝo
+newtab-custom-widget-sports-toggle2 =
+    .label = Sporto
 newtab-custom-widget-section-title = Komponantoj
 newtab-custom-widget-section-toggle =
     .label = Komponantoj
@@ -762,6 +764,9 @@ newtab-widget-lists-input-menu-delete = Forigi
 newtab-widget-lists-input-menu-edit = Modifi
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Modifi elementon
+newtab-widget-lists-edit-clear =
+    .aria-label = Nuligi
+    .title = Nuligi
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Krei novan liston
@@ -786,6 +791,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Komponantoj
 newtab-widget-menu-hide = Kaŝi komponanton
 newtab-widget-menu-change-size = Ŝanĝi grandon
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Movi
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Maldekstren
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Dekstren
 newtab-widget-size-small = Eta
 newtab-widget-size-medium = Mezgranda
 newtab-widget-size-large = Granda
@@ -802,6 +816,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menuo de komponantoj
     .aria-label = Malfermi menuon de komponantoj
+newtab-widget-add-widgets-button =
+    .aria-label = Aldoni komponanton
+    .title = Aldoni komponanton
 newtab-widget-section-menu-manage = Administri komponantojn
 newtab-widget-section-menu-hide-all = Kaŝi komponantojn
 newtab-widget-section-menu-learn-more = Pli da informo
@@ -840,6 +857,8 @@ newtab-daily-briefing-card-timestamp =
 newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Koncentriĝo, veterprognozoj kaj pli, en unu loko
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -929,6 +948,7 @@ newtab-sports-widget-cancel = Nuligi
 newtab-sports-widget-done-button =
     .label = Farita
 newtab-sports-widget-group-stage = Grupa fazo
+newtab-sports-widget-group-l = Grupo L
 newtab-sports-widget-round-32 = Rondo de 32
 newtab-sports-widget-round-16 = Rondo de 16
 newtab-sports-widget-quarter-finals = Kvaronfinaloj

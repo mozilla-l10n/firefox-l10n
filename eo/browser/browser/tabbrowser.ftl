@@ -356,6 +356,16 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } aliaj langetoj
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Organizu viajn langetojn
+tab-groups-list-empty-description = Trenu langeton sur alian aŭ dekstre alklaku langeton por komenci organizi. Ni konservos viajn grupojn ĉi tie, tiel ke ili poste estos pli facile alireblaj.
+tab-groups-list-empty-button = Krei grupon de langetoj
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nova grupo
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
