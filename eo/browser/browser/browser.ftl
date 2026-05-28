@@ -470,6 +470,9 @@ quickactions-cmd-update = ĝisdatigi
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vidi fonton de paĝo
 quickactions-cmd-viewsource2 = Vidi fonton, fonto, fonto de paĝo
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Malfermi { -firefoxlabs-brand-name }
+quickactions-cmd-labs = lab, eksperiment
 quickactions-cmd-viewsource = vidi fonton, fonton
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1281,6 +1284,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = kodoqr
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = kodoQR-{ $domain }
 
 ## EME notification panel
 
