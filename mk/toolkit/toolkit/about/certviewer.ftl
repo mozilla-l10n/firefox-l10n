@@ -3,8 +3,45 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Error messages
+
+certificate-viewer-error-title = Нешто тргна наопаку.
+
 ## Certificate information labels
 
+certificate-viewer-algorithm = Алгоритам
+certificate-viewer-certificate-authority = Авторитет за сертификатот
+certificate-viewer-cipher-suite = Збирка од шифри
+certificate-viewer-common-name = Вообичаено име
+certificate-viewer-email-address = Адреса за е-пошта
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Сертификат за { $firstCertName }
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Седиште
+certificate-viewer-country = Земја
+certificate-viewer-curve = Крива
+certificate-viewer-distribution-point = Дистрибуциска точка
+certificate-viewer-dns-name = DNS име
+certificate-viewer-ip-address = IP адреса
+certificate-viewer-other-name = Друго име
+certificate-viewer-exponent = Експонент
+certificate-viewer-id = ID
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Сериски број
+certificate-viewer-version = Верзија
+certificate-viewer-business-category = Деловна категорија
+certificate-viewer-subject-name = Име на предметот
+certificate-viewer-issuer-name = Име на издавачот
+certificate-viewer-validity = Важење
+certificate-viewer-subject-alt-names = Алтернативни имиња на предметот
+certificate-viewer-public-key-info = Информации за јавниот клуч
+certificate-viewer-miscellaneous = Разно
+certificate-viewer-fingerprints = Отпечатоци
+certificate-viewer-basic-constraints = Основни ограничувања
+certificate-viewer-key-usages = Употреба на клучот
+certificate-viewer-extended-key-usages = Проширена употреба на клучот
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Преземи
