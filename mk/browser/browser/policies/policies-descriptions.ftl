@@ -52,6 +52,19 @@ policy-PrintingEnabled = Овозможи или оневозможи печат
 policy-NetworkPrediction = Овозможи или оневозможи предвидување на мрежа (претходно преземање на DNS).
 policy-NewTabPage = Овозможи или оневозможи ја страницата „Ново јазиче“.
 policy-NoDefaultBookmarks = Оневозможи го креирањето на стандардните обележувачи што се вклучени во { -brand-short-name } и паметните обележувачи (најпосетувани, скорашни ознаки). Забелешка: оваа политика е ефективна само ако се користи пред првото стартување на профилот.
+policy-OfferToSaveLogins = Со оваа поставката може да му дозволите на { -brand-short-name } да понуди да ги памети снимените најавувања и лозинки. Се прифаќаат и вредностите „точно“ и „неточно“.
+policy-OfferToSaveLoginsDefault = Поставете ја основата вредност за да му дозволите на { -brand-short-name } да понуди  да ги памети снимените најавувања и лозинки. Се прифаќаат и вредностите „точно“ и „неточно“.
+policy-OverrideFirstRunPage = Поништи ја поставката за прва страница. Поставете ја оваа политика на празно ако сакате да ја оневозможите страницата што се појавува при првото стартување.
+policy-OverridePostUpdatePage = Поништи ја поставката за „Што е ново“. Поставете ја оваа политика на празно ако сакате да ја оневозможите страницата што се појавува после ажурирање.
+policy-PasswordManagerEnabled = Овозможи снимање на лозинките во менаџерот за лозинки.
+policy-PasswordManagerExceptions = Спречи го { -brand-short-name } да снима лозинки за одредени страници.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Овозможи постквантен договор за клуч за TLS.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Оневозможи го или конфигурирај го PDF.js, вградениот прегледувач на PDF во { -brand-short-name }.
+policy-Permissions2 = Конфигурирај дозволи за камера, микрофон, локација, известувања и автоматска репродукција.
+policy-PictureInPicture = Овозможи или оневозможи слика во слика.
 policy-Proxy = Конфигурирај поставки на прокси.
 policy-SSLVersionMax = Поставете ја максималната SSL верзија.
 policy-SSLVersionMin = Поставете ја минималната верзија на SSL.
