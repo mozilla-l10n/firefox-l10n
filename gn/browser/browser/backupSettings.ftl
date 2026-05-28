@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Mba’éicha erujeýta:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Embojuruja tembiporu’i poravorã ☰ ha eike Ñembohekópe > Ñembojuehe
+backup-file-moz-browser-restore-step-2-1 = Eikutu “Mba’ekuaarã moĩporã” ha eiporavo ko marandurenda
 backup-file-moz-browser-restore-step-2 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
 backup-file-moz-browser-restore-step-3 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
 backup-file-other-browser-restore-step-1 = Emboguejy ha emohenda { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Mboguejy
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Eike { -brand-short-name }, eipe’a tembiporu’i poravorã ☰ ha eho Ñemoĩporãme > Ñembojuehe
+backup-file-other-browser-restore-step-3-1 = Eikutu “Mba’ekuaarã moĩporã” ha eiporavo ko marandurenda
 backup-file-other-browser-restore-step-3 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
 backup-file-other-browser-restore-step-4 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
 
