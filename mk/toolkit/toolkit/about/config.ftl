@@ -5,6 +5,8 @@
 about-config-show-all = Прикажи сѐ
 about-config-pref-add-button =
     .title = Додај
+about-config-pref-toggle-button =
+    .title = Да/Не
 about-config-pref-edit-button =
     .title = Уреди
 about-config-pref-save-button =
@@ -16,4 +18,18 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = да/не
 about-config-pref-add-type-number = Број
+about-config-pref-add-type-string = Текст
+
+## Preferences with a non-default value are differentiated visually, and at the
+## same time the state is made accessible to screen readers using an aria-label
+## that won't be visible or copied to the clipboard.
+##
+## Variables:
+##   $value (String): The full value of the preference.
+
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (основно)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (прилагодено)
