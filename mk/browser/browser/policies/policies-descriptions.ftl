@@ -42,6 +42,16 @@ policy-DisableAppUpdate = Спречи го ажурирањето на прел
 policy-DisableBuiltinPDFViewer = Оневозможи го PDF.js, вградениот прегледувач на PDF во { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Спречи го стандардниот агент на прелистувачот да презема какви било дејства. Важи само за Windows; другите платформи го немаат агентот.
 policy-DisableDeveloperTools = Блокирај пристап до програмерските алатки.
+policy-DisableEncryptedClientHello = Оневозможи ја употребата на особеноста TLS Encrypted Client Hello (ECH).
+policy-DisableFeedbackCommands = Оневозможи ги командите за испраќање повратни информации од менито „Помош“ (Испрати повратни информации и Пријави измамничка страница).
+policy-DisableFirefoxAccounts = Оневозможи ги услугите базирани на { -fxaccount-brand-name }, вклучувајќи го и Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Оневозможи услуги базирани на сметки, вклучително и синхронизација.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Оневозможи ја особеноста Firefox Screenshots.
+policy-DisableFirefoxStudies = Спречи го извршувањето на студии од страна на { -brand-short-name }.
+policy-DisableForgetButton = Спречи пристап до копчето „Заборави“.
+policy-DisableFormHistory = Не памети историја на пребарување и формулари.
 policy-DisablePrivateBrowsing = Оневозможи приватно пребарување.
 policy-DisableTelemetry = Исклучете ја телеметријата.
 policy-DNSOverHTTPS = Конфигурирање на DNS преку HTTPS.
