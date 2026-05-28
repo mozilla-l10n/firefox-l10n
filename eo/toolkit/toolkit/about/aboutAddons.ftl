@@ -115,6 +115,8 @@ legacy-extensions =
     .value = Kadukaj etendaĵoj
 legacy-extensions-description = Tiuj ĉi etendaĵoj ne kongruas kun la nunaj normoj de { -brand-short-name }, tial ili estis malaktivigitaj. <label data-l10n-name="legacy-learn-more">Pli da informo pri la ŝanĝoj en aldonaĵoj</label>
 private-browsing-description2 = { -brand-short-name } modifis la funkciadon de etendaĵoj en privata retumo. Norme, neniu nova etendaĵo aldonita al { -brand-short-name } funkcios en privataj fenestroj. Krom se vi permesos tion en agordoj, la etendaĵo ne funkcios en privata retumo kaj ne havos aliron al viaj agoj en la interreto. Ni ŝanĝis tion por certigi, ke via privata retumo restu privata. <label data-l10n-name="private-browsing-learn-more">Pli da informo pri administro de agordoj de etendaĵoj.</label>
+aboutaddons-sidebar =
+    .heading = Aldonaĵoj
 addon-category-discover = Rekomendoj
 addon-category-discover-title =
     .title = Rekomendoj
@@ -466,6 +468,10 @@ addon-permissions-empty = Tiu ĉi etendaĵo postulas neniun permeson
 addon-permissions-required = Postulataj permesoj por kernaj funkcioj:
 addon-permissions-optional = Elekteblaj permesoj por aldonaj funkcioj:
 addon-permissions-learnmore = Pli da informo pri permesoj
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Kelkaj permesoj estas regataj de via organizo.
 recommended-extensions-heading = Rekomenditaj etendaĵoj
 recommended-themes-heading = Rekomenditaj etosoj
 # Variables:

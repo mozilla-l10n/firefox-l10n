@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Agordoj…
+menu-application-set-as-default =
+    .label = Difini { -brand-shorter-name } kiel la norman retumilon
 menu-application-services =
     .label = Servoj
 menu-application-hide-this =
