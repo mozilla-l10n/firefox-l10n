@@ -149,8 +149,12 @@ ipprotection-connection-status-paused-title-2 = La VPN e je in pause
 ipprotection-connection-status-generic-error-title = Impussibil conetisi ae VPN
 ipprotection-connection-status-generic-error-description = Torne prove ca di pôcs minûts.
 ipprotection-connection-status-generic-error-try-again = Torne prove plui tart.
+ipprotection-connection-status-network-error-title-1 = Controle la tô conession a internet
+    .aria-label = Controle la tô conession a internet
 ipprotection-connection-status-network-error-title = Controle la conession a internet
 ipprotection-connection-status-network-error-description = Conetiti a Internet e prove a ativâ la VPN.
+ipprotection-connection-status-blocked-error-title-1 = La VPN no je disponibile
+    .aria-label = La VPN no je disponibile
 ipprotection-connection-status-blocked-error-title = La VPN no je disponibile
 ipprotection-connection-status-blocked-error-description = Lis normativis locâls nus impedissin di dâ un servizi VPN in cheste zone. <a data-l10n-name="learn-more-link">Plui informazions</a>
 # Variables
@@ -248,3 +252,19 @@ ip-protection-bandwidth-hit-for-the-month = Tu âs doprât ducj i { $maxUsage } 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Al prin di ogni mês al ven ristabilît a { $maxUsage } GB.
+ip-protection-bandwidth-header-1 = Limit mensîl di dâts
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB di VPN, inzornâts e pronts di doprâ.
+ipprotection-bandwidth-reset-text = Ative la VPN par vê une sigurece in plui, gratis ogni mês.
+ipprotection-bandwidth-reset-button = Capît
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN sospindude
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Tu âs doprât ducj i { $maxUsage } GB de tô VPN. L'acès ae VPN al torne cul prossim mês.
