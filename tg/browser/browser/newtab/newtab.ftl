@@ -369,6 +369,8 @@ newtab-custom-widget-sports-toggle =
     .label = Ҷоми ҷаҳон
 newtab-custom-widget-clock-toggle =
     .label = Соат
+newtab-custom-widget-sports-toggle2 =
+    .label = Варзишҳо
 newtab-custom-widget-section-title = Виҷетҳо
 newtab-custom-widget-section-toggle =
     .label = Виҷетҳо
@@ -720,6 +722,11 @@ newtab-widget-lists-input-menu-move-up = Ба боло гузоштан
 newtab-widget-lists-input-menu-move-down = Ба поён гузоштан
 newtab-widget-lists-input-menu-delete = Нест кардан
 newtab-widget-lists-input-menu-edit = Таҳрир кардан
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Таҳрир кардани унсур
+newtab-widget-lists-edit-clear =
+    .aria-label = Бекор кардан
+    .title = Бекор кардан
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Эҷод кардани рӯйхати нав
@@ -819,15 +826,35 @@ newtab-sports-widget-menu-learn-more = Маълумоти бештар
 newtab-sports-widget-choose-wallpaper =
     .label = Тасвири заминаиеро интихоб намоед
 newtab-sports-widget-skip = Нодида гузарондан
+newtab-sports-widget-cancel = Бекор кардан
+newtab-sports-widget-back-button =
+    .aria-label = Ба қафо
 newtab-sports-widget-done-button =
     .label = Тайёр
 newtab-sports-widget-group-stage = Марҳилаи гурӯҳӣ
+newtab-sports-widget-group-a = Гурӯҳи «A»
+newtab-sports-widget-group-b = Гурӯҳи «B»
+newtab-sports-widget-group-c = Гурӯҳи «C»
+newtab-sports-widget-group-d = Гурӯҳи «D»
+newtab-sports-widget-group-e = Гурӯҳи «E»
+newtab-sports-widget-group-f = Гурӯҳи «F»
+newtab-sports-widget-group-g = Гурӯҳи «G»
+newtab-sports-widget-group-h = Гурӯҳи «H»
+newtab-sports-widget-group-i = Гурӯҳи «I»
+newtab-sports-widget-group-j = Гурӯҳи «J»
+newtab-sports-widget-group-k = Гурӯҳи «K»
+newtab-sports-widget-group-l = Гурӯҳи «L»
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ПАХШИ МУСТАҚИМ
 # Used for a match currently ongoing
 newtab-sports-widget-now = Ҳозир
 newtab-sports-widget-results = Натиҷаҳо
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-view-results-link = Намоиш додани натиҷаҳо
+newtab-sports-widget-third-place = Ҷойи сеюм
+newtab-sports-widget-match-full-time = Вақти пурра
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

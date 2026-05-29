@@ -1455,10 +1455,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Бекор кардан
     .accesskey = Б
+reset-pbm-panel-confirm-button2 =
+    .label = Пок кардани ҷаласаи хусусӣ
+    .accesskey = П
 reset-pbm-panel-confirm-button =
     .label = Нест кардани маълумоти ҷаласа
     .accesskey = Н
 reset-pbm-panel-complete = Маълумоти ҷаласаи хусусӣ нест карда шуд
+reset-pbm-toolbar-button2 =
+    .label = Пок кардани ҷаласаи хусусӣ
+    .tooltiptext = Пок кардани ҷаласаи хусусӣ
 
 ## Autorefresh blocker
 

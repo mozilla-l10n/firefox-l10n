@@ -82,6 +82,9 @@ ipprotection-connection-status-connecting-1 = «VPN» пайваст шуда и
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Ҷойгиршавӣ: тавсияшуда
 ipprotection-recommended-location-badge = НАВ
 # Variables
 #   $country (string) - The country selected for the VPN server location
