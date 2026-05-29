@@ -1116,6 +1116,7 @@ newtab-sports-widget-message-wallpapers-cta = Háttérkép választása
 newtab-sports-widget-message-add-widgets-cta =
     .label = Kisalkalmazások hozzáadása
 newtab-sports-widget-message-day-in-play-title = Maradjon játékban egész nap a { -brand-product-name } kisalkalmazásaival
+newtab-sports-widget-message-day-in-play-body = Kövesse a vb-t, tartsa számon feladatait, kövesse az időt a világ minden táján, és így tovább.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Kisalkalmazások felfedezése
 
