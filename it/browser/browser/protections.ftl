@@ -232,3 +232,16 @@ privacy-metrics-empty = Nessun elemento tracciante bloccato questa settimana. { 
 privacy-metrics-loading = Caricamento delle statistiche sulla protezione…
 privacy-metrics-error = Impossibile caricare le statistiche sulla protezione.
 privacy-metrics-private-window = { -brand-short-name } continua a bloccare gli elementi traccianti in navigazione anonima, ma non tiene traccia di ciò che è stato bloccato.
+
+## VPN promo card and banner
+
+protections-vpn-title = Proteggi la tua privacy oltre il browser
+protections-vpn-header-content = Metti al sicuro l’intero dispositivo con { -mozilla-vpn-brand-name }. Basta un tocco per crittare tutto il traffico e nascondere la tua posizione.
+protections-get-vpn-link = Ottieni { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: abbonato
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed = Con { -mozilla-vpn-brand-name } tutto il tuo traffico viene crittato e la tua posizione nascosta, su un massimo di { $count } dispositivi. Sfrutta al meglio il tuo abbonamento: installa l’app da <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+protections-vpn-banner-header = Protezione che va oltre il browser
+protections-vpn-banner-content = Prova { -mozilla-vpn-brand-name } senza rischi e scopri perché, secondo TechRadar, “la velocità, la semplicità e il prezzo mensile contenuto la rendono un prodotto da provare.”
+protections-vpn-banner-link = Ottieni { -mozilla-vpn-brand-name }
