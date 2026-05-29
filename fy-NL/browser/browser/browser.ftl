@@ -470,6 +470,8 @@ quickactions-cmd-update = bywurkje
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Sideboarne besjen
 quickactions-cmd-viewsource2 = boarne besjen, boarne, sideboarne
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } iepenje
 quickactions-cmd-viewsource = boarne besjen, boarne
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
