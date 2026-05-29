@@ -667,7 +667,7 @@ newtab-new-user-custom-wallpaper-cta = Experimentar agora
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Chegaram novos fundos de tela
-newtab-wallpaper-feature-highlight-subtitle = Escolha seu favorito e deixe cada nova aba do seu jeito.
+newtab-wallpaper-feature-highlight-subtitle = Escolha seu preferido e deixe a página de nova aba do seu jeito.
 newtab-wallpaper-feature-highlight-cta = Escolher fundo de tela
 
 ## Strings for download mobile highlight
