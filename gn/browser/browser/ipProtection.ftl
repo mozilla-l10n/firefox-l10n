@@ -58,6 +58,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Ipyahu: Emoambue ne rendaite
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } VPN joajupyre</a> oheja eiporavóvo heta kundahára rendaite pa’ũme térã ikatu jaiporavo ijehegui ipya’evéva ndéve g̃uarã.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } VPN joajupyre</a> oheja eiporavóvo 5 kundahára rendaite térã ikatu jaiporavo ijehegui ipya’evéva ndéve g̃uarã.
 ipprotection-location-selection-callout-primary-button = Eha’ã jey
 ipprotection-location-selection-callout-secondary-button = Emboyke

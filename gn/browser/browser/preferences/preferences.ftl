@@ -2587,6 +2587,7 @@ related-settings-tabs-browsing-link =
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Akóinte eiporavokuaa { -brand-short-name }-pe, umíva apytépe eipurusépa umi tembiapoite iporãvéva IA ndive. Tenondeve oĩvéta control.
 preferences-ai-controls-block-ai-label = Iporãve IA jejokorãme
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }

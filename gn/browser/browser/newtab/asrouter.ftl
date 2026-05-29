@@ -416,6 +416,7 @@ windows-10-eos-feature-toast-dismiss-button = Mboyke
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft ndoipytyvõvéima Windows 10.</strong> Eñongatu ne marandu embosako’i hag̃ua { -brand-product-name } Windows 11-pe g̃uarã.
 windows-10-eos-global-infobar-primary-button = Emyandy ñongatu jey
     .accesskey = T
 windows-10-eos-global-infobar-learn-more-link = Eikuaave
