@@ -472,6 +472,7 @@ quickactions-viewsource2 = Sideboarne besjen
 quickactions-cmd-viewsource2 = boarne besjen, boarne, sideboarne
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = { -firefoxlabs-brand-name } iepenje
+quickactions-cmd-labs = labs, eksperiment
 quickactions-cmd-viewsource = boarne besjen, boarne
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1286,6 +1287,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrkoade
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 

@@ -490,6 +490,10 @@ addon-permissions-empty = Foar dizze útwreiding binne gjin tastimmingen fereask
 addon-permissions-required = Fereaske tastimmingen foar kernfunksjonaliteit:
 addon-permissions-optional = Opsjonele tastimmingen foar ekstra funksjonaliteit:
 addon-permissions-learnmore = Mear ynfo oer tastimmingen
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Guon machtigingen wurde troch jo organisaasje beheard.
 recommended-extensions-heading = Oanrekommandearre útwreidingen
 recommended-themes-heading = Oanrekommandearre tema’s
 # Variables:

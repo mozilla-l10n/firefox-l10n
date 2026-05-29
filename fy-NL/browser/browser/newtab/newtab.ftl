@@ -371,6 +371,8 @@ newtab-custom-widget-sports-toggle =
     .label = Wrâldkampioenskip
 newtab-custom-widget-clock-toggle =
     .label = Klok
+newtab-custom-widget-sports-toggle2 =
+    .label = Sport
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -855,6 +857,9 @@ newtab-daily-briefing-card-timestamp = { $minutes } min. lyn bywurke
 newtab-widget-message-title = Bliuw fokust mei listen en in ynboude timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fan rappe yn ’t sin bringers oant deistige taken, fokussesjes oant stretchskoft – bliuw by de taak en op tiid.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Ien plak foar fokus, waarfoarsizzingen en mear
+newtab-widget-message-focus-forecasts-body = Hâld jo dei soepel mei { -brand-product-name }-widgets. Kontrolearje de waarfoarsizzing, bliuw by de les, of folgje de tiid oer de hiele wrâld.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -946,6 +951,10 @@ newtab-sports-widget-back-button =
     .aria-label = Tebek
 newtab-sports-widget-done-button =
     .label = Dien
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (útskeakele)
 newtab-sports-widget-view-all =
     .label = Alles besjen
 newtab-sports-widget-show-less =
@@ -972,6 +981,8 @@ newtab-sports-widget-watch-stream-free-trial = Fergeze proefperioade
 newtab-sports-widget-watch-stream-free-paid = Fergees en betelle
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Betelle
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Allinnich bepaalde wedstriden
 # Heading for the list of streaming services available in the user’s country/region.
 newtab-sports-widget-watch-available-region = Beskikber yn jo regio
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -1104,6 +1115,7 @@ newtab-sports-widget-message-wallpapers-body = Bring wat wedstriiddei-enerzjy ne
 newtab-sports-widget-message-wallpapers-cta = Eftergrûn kieze
 newtab-sports-widget-message-add-widgets-cta =
     .label = Widgets tafoegje
+newtab-sports-widget-message-day-in-play-title = Hâld jo dei yn beweging mei { -brand-product-name }-widgets
 newtab-sports-widget-message-day-in-play-body = Folgje it WK, bliuw by it wurk, hâld de tiid oer de hiele wrâld by, en mear.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Widgets ferkenne
