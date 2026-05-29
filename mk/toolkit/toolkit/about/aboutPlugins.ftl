@@ -31,3 +31,4 @@ suffixes-label = Суфикси
 
 plugins-gmp-license-info = Информации за лиценцата
 plugins-gmp-privacy-info = Информации за приватност
+plugins-widevine-name = Модул за дешифрирање на содржина Widevine обезбеден од Google Inc.

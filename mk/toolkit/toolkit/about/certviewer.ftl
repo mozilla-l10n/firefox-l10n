@@ -115,6 +115,8 @@ certificate-viewer-export = Извези
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (непознато)
 # Name for a file where we haven't found a better name:
 certificate-viewer-unknown-file-name = сертификат
 
