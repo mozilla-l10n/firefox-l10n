@@ -262,9 +262,18 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB di VPN, inzornâts e pront
 ipprotection-bandwidth-reset-text = Ative la VPN par vê une sigurece in plui, gratis ogni mês.
 ipprotection-bandwidth-reset-button = Capît
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Al è pussibil che chest sît nol funzioni cu la VPN.</strong> Prove a jentrâ cu lis credenziâls o a disativâ la VPN intant che tu dopris chest sît web.
+ipp-activator-breakage-turn-off-warning = <strong>Al è pussibil che chest sît nol funzioni cu la VPN.</strong> Prove a disativâ  la VPN intant che tu dopris chest sît web.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN sospindude
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Tu âs doprât ducj i { $maxUsage } GB de tô VPN. L'acès ae VPN al torne cul prossim mês.
+vpn-paused-alert-close-tabs-button = Siere dutis lis schedis
+vpn-paused-alert-continue-wo-vpn-button = Continue cence VPN
+vpn-error-alert-title = In chest moment la VPN no sta lavorant.
+vpn-error-alert-body = Prove plui tart.
