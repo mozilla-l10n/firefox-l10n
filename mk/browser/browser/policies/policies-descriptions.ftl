@@ -72,6 +72,24 @@ policy-DontCheckDefaultBrowser = Оневозможи проверка за ос
 policy-DownloadDirectory = Постави го и заклучи го основниот директориум за преземање.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Овозможи или оневозможи го блокирањето на содржината и опционално заклучи го.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Овозможи или оневозможи ги екстензии за шифрирани медиуми и опционално заклучи ги.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Оневозможи ги предупредувањата врз основа на екстензијата на датотеката за специфични типови датотеки на домените.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Инсталирај, деинсталирај или заклучи проширувања. Опцијата „Инсталирај“ зема URL-а или патеки како параметри. Опциите „Деинсталирај“ и „Заклучено“ земаат ID-а на екстензии.
+policy-ExtensionSettings = Управувај со сите аспекти на инсталација на проширувања.
+policy-ExtensionUpdate = Овозможи или оневозможи автоматско ажурирање на проширувањата.
+policy-FirefoxHome2 = Конфигурирај го { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Конфигурирај го { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Конфигурирај ги особеностите за генеративната ВИ.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Присили директна навигација на интранет наместо пребарување кога се внесуваат поеднични зборови во адресната лента.
+policy-Handlers = Конфигурирај ги основните ракувачи на апликации.
+policy-HardwareAcceleration = Ако е не, исклучи хардверско забрзување.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Постави ја и опционално заклучи ја домашната страница.
+policy-HttpAllowlist = Извори што нема да се надградат на HTTPS.
 
 ##
 
