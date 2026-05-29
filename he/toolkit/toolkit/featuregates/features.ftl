@@ -10,6 +10,10 @@ experimental-features-css-masonry2 =
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = מדיה: JPEG XL
 experimental-features-media-jxl-description = כשאפשרות זו מופעלת, { -brand-short-name } תומך בתבנית JPEG XL (או JXL). זוהי תבנית קובץ תמונה משופרת התומכת במעבר ללא הפסד מקובצי JPEG מסורתיים. ניתן לעיין ב<a data-l10n-name="bugzilla">תקלה 1539075</a> לפרטים נוספים.
 experimental-features-devtools-compatibility-panel =
     .label = כלי פיתוח: חלונית תאימות
