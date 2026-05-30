@@ -516,6 +516,7 @@ quickactions-viewsource2 = Zobrazit zdrojový kód stránky
 quickactions-cmd-viewsource2 = zobrazit zdrojový kód, zdrojový kód, zdrojový kód stránky
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Otevřít { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratoř,experiment
 quickactions-cmd-viewsource = zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1386,6 +1387,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 

@@ -432,6 +432,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = Uspořádejte si panely
+tab-groups-list-empty-description = Přetáhněte jeden panel na druhý či klepněte pravým tlačítkem myši na panelu a začněte organizovat. Vaše skupiny budeme ukládat sem, abyste je později snadno našli.
 tab-groups-list-empty-button = Vytvořit skupinu panelů
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Nová skupina

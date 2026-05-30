@@ -40,6 +40,8 @@ options-collapse-attrs-tooltip =
     .title = Zkrátit dlouhé atributy v průzkumníku
 # The label for the checkbox option to enable the display of comments in the Inspector
 options-show-comments-label = Zobrazovat komentáře
+options-show-comments-tooltip =
+    .title = Zobrazovat uzly komentářů v průzkumníkovi.
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Klepnutím a tažením upravit hodnoty velikosti
 options-inspector-draggable-properties-tooltip =
