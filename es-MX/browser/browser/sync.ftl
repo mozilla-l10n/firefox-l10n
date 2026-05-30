@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Habilita la sincronización para enviar una pestaña
 fxa-menu-send-to-mobile-connect-phone2 = Conecta tu teléfono
 fxa-menu-send-to-mobile-device-missing2 = ¿No ves tu dispositivo?
+fxviewtabrow-send-to-mobile-not-verified = Cuenta no verificada
+fxviewtabrow-send-to-mobile-verify-account = Verifica tu cuenta
 fxa-menu-send-to-mobile-turn-on-sync = Activa la sincronización para enviar pestañas
 fxa-menu-send-to-mobile-connect-device = Conectar un dispositivo para enviar pestañas
 # Variables:
