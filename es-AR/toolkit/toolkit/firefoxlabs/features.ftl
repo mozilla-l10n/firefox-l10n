@@ -90,7 +90,7 @@ experimental-features-newtab-widget-picture-of-the-day-description = Agregue una
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Relojes
-experimental-features-newtab-widget-clocks-description = Agregue hasta cuatro relojes con nombres personalizados para tener a mano la hora de los lugares que le importan. <a data-l10n-name="connect">Compartir opinión</a>
+experimental-features-newtab-widget-clocks-description = Agregue hasta cuatro relojes con alias personalizados para tener a mano la hora de los lugares que le importan. <a data-l10n-name="connect">Compartir opinión</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica en el historial
