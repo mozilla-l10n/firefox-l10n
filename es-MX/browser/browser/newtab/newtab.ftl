@@ -367,6 +367,8 @@ newtab-custom-widget-sports-toggle =
     .label = Mundial
 newtab-custom-widget-clock-toggle =
     .label = Reloj
+newtab-custom-widget-sports-toggle2 =
+    .label = Deportes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -762,6 +764,9 @@ newtab-widget-lists-input-menu-delete = Eliminar
 newtab-widget-lists-input-menu-edit = Editar
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editar elemento
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancelar
+    .title = Cancelar
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista
@@ -848,6 +853,9 @@ newtab-daily-briefing-card-timestamp = Actualizado hace { $minutes }m
 newtab-widget-message-title = Mantén la concentración con listas y un temporizador incorporado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de concentración y descansos para estirarse, mantén la concentración en tus tareas y a tiempo.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un solo lugar para tu concentración, el clima y más.
+newtab-widget-message-focus-forecasts-body = Mantén el ritmo de tu día con los widgets de { -brand-product-name }. Revisa el clima, mantén la concentración o sigue la hora en todo el mundo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -939,6 +947,30 @@ newtab-sports-widget-back-button =
     .aria-label = Atrás
 newtab-sports-widget-done-button =
     .label = Hecho
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (Se eliminó)
+newtab-sports-widget-view-all =
+    .label = Ver todo
+newtab-sports-widget-show-less =
+    .label = Mostrar menos
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Solo equipos seguidos
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Mirar
+    .title = Mirar en vivo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Mirar en vivo
+    .title = Mirar en vivo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Cerrar
+    .title = Cerrar
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratis
 newtab-sports-widget-group-stage = Fase de grupos
 newtab-sports-widget-round-32 = Dieciseisavos de final
 newtab-sports-widget-round-16 = Octavos de final
