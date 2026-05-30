@@ -30,8 +30,8 @@ content-sharing-modal-policy = En partageant, vous acceptez notre <a data-l10n-n
 # The current max is 30.
 content-sharing-modal-too-many-links =
     { $count ->
-        [one] Seuls un maximum de { $count } liens seront inclus
-       *[other] Seuls un maximum de { $count } liens seront inclus
+        [one] Seul un maximum de { $count } lien sera inclus
+       *[other] Seul un maximum de { $count } liens seront inclus
     }
 content-sharing-modal-generic-error =
     .heading = Une erreur s’est produite

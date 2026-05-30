@@ -852,8 +852,8 @@ newtab-widget-message-title = Gardez votre concentration grâce aux listes et au
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Qu’il s’agisse de rappels rapides ou de tâches quotidiennes, de sessions de réflexion ou de pauses détente, gardez le cap et respectez vos horaires.
 # One spot refers to a dedicated section on new tab to manage and use widgets
-newtab-widget-message-focus-forecasts-title = Un seul endroit pour du focus, des prévisions et bien plus
-newtab-widget-message-focus-forecasts-body = Gardez le rythme avec les widgets à { -brand-product-name }. Consultez les prévisions, concentrez-vous sur une tâche ou suivez le temps d’une personne à l’autre du globe.
+newtab-widget-message-focus-forecasts-title = Un espace dédié pour la concentration, les prévisions météo et bien plus
+newtab-widget-message-focus-forecasts-body = Gardez le rythme avec les widgets { -brand-product-name }. Consultez les prévisions météo, concentrez-vous sur une tâche ou suivez l’heure partout dans le monde.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -974,17 +974,17 @@ newtab-sports-widget-watch-stream-free-trial = Essai gratuit
 # Tag: provider offers both a no-cost or trial path and a paid path.
 newtab-sports-widget-watch-stream-free-paid = Gratuit ou payant
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
-newtab-sports-widget-watch-stream-paid = Payante
+newtab-sports-widget-watch-stream-paid = Payant
 # Note: provider only streams some matches, not the full tournament.
-newtab-sports-widget-watch-stream-select-games-only = Certains jeux uniquement
+newtab-sports-widget-watch-stream-select-games-only = Certains matchs uniquement
 # Heading for the list of streaming services available in the user’s country/region.
-newtab-sports-widget-watch-available-region = Disponible dans votre région
+newtab-sports-widget-watch-available-region = Disponibles dans votre région
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Autres régions
 # Button that opens the provider’s stream page in a new tab.
 newtab-sports-widget-watch-play =
-    .aria-label = Ouvrir le flux
-    .title = Ouvrir le flux
+    .aria-label = Accéder au direct
+    .title = Accéder au direct
 newtab-sports-widget-group-stage = Phase de groupes
 newtab-sports-widget-group-a = Groupe A
 newtab-sports-widget-group-b = Groupe B
@@ -1067,7 +1067,7 @@ newtab-sports-widget-match-aria-label-results-penalties =
 #   $homeScore (number) - The home team's current score
 #   $awayScore (number) - The away team's current score
 newtab-sports-widget-match-aria-label-now =
-    .aria-label = Live : { $homeTeam }, { $homeScore } contre { $awayTeam }, { $awayScore }
+    .aria-label = En direct : { $homeTeam }, { $homeScore } contre { $awayTeam }, { $awayScore }
 # An upcoming scheduled match row. Announces kickoff time and date.
 # Variables:
 #   $date (Date) - The scheduled kickoff date/time
@@ -1075,7 +1075,7 @@ newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } contre { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
-    .aria-label = { $homeTeam } contre { $awayTeam }, différé
+    .aria-label = { $homeTeam } contre { $awayTeam }, retardé
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } contre { $awayTeam }, reporté
@@ -1096,15 +1096,10 @@ newtab-sports-widget-team-name-label-civ =
     .label = Côte d’Ivoire
 newtab-sports-widget-team-name-label-cod =
     .label = République démocratique du Congo
-newtab-sports-widget-team-name-label-eng =
-    .label = Angleterre
-newtab-sports-widget-team-name-label-sco =
-    .label = Écosse
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
-newtab-sports-widget-message-wallpapers-title = Lancez la Coupe du monde avec de nouveaux fonds d’écran
 newtab-sports-widget-message-wallpapers-body = Donnez un peu d’énergie aux jours de match dans votre navigateur pour pouvoir démarrer.
 newtab-sports-widget-message-wallpapers-cta = Choisir un fond d’écran
 newtab-sports-widget-message-add-widgets-cta =
