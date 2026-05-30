@@ -1096,16 +1096,21 @@ newtab-sports-widget-team-name-label-civ =
     .label = Côte d’Ivoire
 newtab-sports-widget-team-name-label-cod =
     .label = République démocratique du Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Angleterre
+newtab-sports-widget-team-name-label-sco =
+    .label = Écosse
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
-newtab-sports-widget-message-wallpapers-body = Donnez un peu d’énergie aux jours de match dans votre navigateur pour pouvoir démarrer.
+newtab-sports-widget-message-wallpapers-title = Célébrez le début de la Coupe du monde avec de nouveaux fonds d’écran
+newtab-sports-widget-message-wallpapers-body = Ajoutez une touche d’ambiance de jour de match à votre navigateur pendant le tournoi.
 newtab-sports-widget-message-wallpapers-cta = Choisir un fond d’écran
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ajouter des widgets
-newtab-sports-widget-message-day-in-play-title = Continuez à jouer avec les { -brand-product-name } widgets
-newtab-sports-widget-message-day-in-play-body = Suivez la Coupe du monde, restez concentré sur les chronos des quatre coins du globe et bien plus.
+newtab-sports-widget-message-day-in-play-title = Restez dans l’ambiance avec les widgets { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Suivez la Coupe du monde, concentrez-vous sur une tâche, suivez l’heure partout dans le monde et bien plus.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Découvrir les widgets
 
@@ -1181,7 +1186,7 @@ newtab-clock-widget-edit-item =
 #   $city (string) - The city name displayed in the row.
 #   $nickname (string) - The user-provided nickname for the row.
 newtab-clock-widget-edit-item-with-nickname =
-    .aria-label = { $city }, pseudo : { $nickname }
+    .aria-label = { $city }, nom personnalisé : { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Ajouter une horloge
 newtab-clock-widget-edit-clock-form =

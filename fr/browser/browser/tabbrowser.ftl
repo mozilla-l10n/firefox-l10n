@@ -360,7 +360,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = Mettez de l’ordre dans vos onglets
-tab-groups-list-empty-description = Faites glisser un onglet sur un autre ou faites un clic droit sur un onglet pour commencer à l’organiser. Nous enregistrerons vos groupes ici pour les retrouver facilement plus tard.
+tab-groups-list-empty-description = Faites glisser un onglet sur un autre ou faites un clic droit sur un onglet pour commencer à les organiser. Vos groupes seront enregistrés ici pour que vous puissiez les retrouver facilement par la suite.
 tab-groups-list-empty-button = Créer un groupe d’onglets
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Nouveau groupe

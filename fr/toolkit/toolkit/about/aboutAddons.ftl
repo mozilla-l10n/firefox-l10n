@@ -476,7 +476,7 @@ addon-permissions-learnmore = En savoir plus à propos des autorisations
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
 # the user.
-addon-permissions-managed-by-policy = Certaines autorisations sont gérées par votre organisation.
+addon-permissions-managed-by-policy = Certaines permissions sont gérées par votre organisation.
 recommended-extensions-heading = Extensions recommandées
 recommended-themes-heading = Thèmes recommandés
 # Variables:
