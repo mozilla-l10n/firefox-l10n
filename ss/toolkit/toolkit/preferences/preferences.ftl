@@ -4,18 +4,17 @@
 
 password-not-set =
     .value = (akukasethwa)
-
 pw-change-success-title = Kwenteke ngemphukelelo kuguculwa kwelibitophawu
 pw-change-failed-title = Alikakhoni kuguculeka libitophawu
 pw-remove-button =
     .label = Susa
-
+set-password-reenter =
+    .label = Phindza ulifake Libitophawu:
 set-password-old-password = Libitophawu Lanyalo:
 set-password-new-password = Faka Libitophawu lelisha:
 set-password-reenter-password = Phindza ulifake Libitophawu:
 set-password-meter = Ikhwalithimitha Yelibitophawu
 set-password-meter-loading = Kulayishela
-
 remove-info =
     .value = Kufanele ungenise libitophawu lakho lanyalo kuchubeka:
 remove-password-old-password =
