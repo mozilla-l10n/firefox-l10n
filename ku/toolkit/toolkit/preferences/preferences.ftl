@@ -4,18 +4,17 @@
 
 password-not-set =
     .value = ( mîheng nebûye)
-
 pw-change-success-title = Guherandina Nasnavê bi ser ket
 pw-change-failed-title = Guherandina Nasnavê bi ser neket
 pw-remove-button =
     .label = Rake
-
+set-password-reenter =
+    .label = nasnavê nû dîsa têkevê:
 set-password-old-password = Nasnavê Niha:
 set-password-new-password = Nasnavê nû têkevê:
 set-password-reenter-password = nasnavê nû dîsa têkevê:
 set-password-meter = Kalîteya nasnavê diguhere
 set-password-meter-loading = Tê barkirin
-
 remove-info =
     .value = Ji bo pêşdeçûnê divê nasnavê rast têkeviyê.
 remove-password-old-password =
