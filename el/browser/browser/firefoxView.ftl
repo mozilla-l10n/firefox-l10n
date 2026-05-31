@@ -36,7 +36,7 @@ firefoxview-syncedtabs-signin-primarybutton-2 = Σύνδεση
 firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
-firefoxview-tabpickup-adddevice-primarybutton = Λήψη του { -brand-product-name } για κινητά
+firefoxview-tabpickup-adddevice-primarybutton = Απόκτηση του { -brand-product-name } για κινητά
 firefoxview-syncedtabs-adddevice-header-2 = Λάβετε καρτέλες από οπουδήποτε
 firefoxview-syncedtabs-adddevice-description-2 = Συνδεθείτε στο { -brand-product-name } από το τηλέφωνό σας ή από κάποιο άλλο υπολογιστή για να δείτε τις καρτέλες. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Δοκιμάστε το { -brand-product-name } για κινητές συσκευές
@@ -72,7 +72,7 @@ firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
 firefoxview-mobile-promo-description = Για να δείτε τις πρόσφατες καρτέλες από την κινητή σας συσκευή, συνδεθείτε στο { -brand-product-name } για iOS ή Android.
-firefoxview-mobile-promo-primarybutton = Λήψη του { -brand-product-name } για κινητά
+firefoxview-mobile-promo-primarybutton = Απόκτηση του { -brand-product-name } για κινητά
 firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
 firefoxview-mobile-confirmation-description = Μπορείτε πλέον να λάβετε τις καρτέλες σας από το { -brand-product-name } του tablet ή του τηλεφώνου σας.
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες

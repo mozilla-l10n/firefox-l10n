@@ -23,7 +23,7 @@ more-from-moz-qr-code-box-firefox-mobile-title = Κάντε λήψη στην κ
 more-from-moz-qr-code-box-firefox-mobile-button = Αποστολή email στο τηλέφωνό σας
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Κωδικός QR για λήψη του { -brand-product-name } για κινητές συσκευές
-more-from-moz-button-mozilla-vpn-2 = Λήψη του VPN
+more-from-moz-button-mozilla-vpn-2 = Απόκτηση του VPN
 more-from-moz-learn-more-link = Μάθετε περισσότερα
 more-from-moz-title2 = Περισσότερα από τη { -vendor-short-name }
     .title = Περισσότερα από τη { -vendor-short-name }
@@ -32,7 +32,7 @@ more-from-moz-title2 = Περισσότερα από τη { -vendor-short-name }
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Προστατέψτε τα εισερχόμενα και την ταυτότητά σας με τη δωρεάν απόκρυψη email.
-more-from-moz-firefox-relay-button = Λήψη του { -relay-brand-short-name }
+more-from-moz-firefox-relay-button = Απόκτηση του { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
@@ -58,7 +58,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-description = Δωρεάν εφαρμογή ηλεκτρονικού ταχυδρομείου, ημερολόγιων και επαφών, οργανωμένη με τον δικό σας τρόπο.
-more-from-moz-thunderbird-button = Λήψη του { -thunderbird-brand-short-name }
+more-from-moz-thunderbird-button = Απόκτηση του { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
@@ -98,15 +98,15 @@ more-from-moz-new-products-card2 =
     .label = Νέα προϊόντα της { -vendor-short-name }
     .description = Εξερευνήστε τις τελευταίες ιδέες και πειραματικές τεχνολογίες μας.
 more-from-moz-mozilla-monitor-box-link =
-    .label = Λήψη του { -monitor-brand-short-name }
+    .label = Απόκτηση του { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
-    .label = Λήψη του { -mozilla-vpn-brand-name }
+    .label = Απόκτηση του { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
-    .label = Λήψη του { -relay-brand-short-name }
+    .label = Απόκτηση του { -relay-brand-short-name }
 more-from-moz-mdn-box-link =
     .label = Πρόσβαση στο MDN
 more-from-moz-thunderbird-box-link =
-    .label = Λήψη του { -thunderbird-brand-short-name }
+    .label = Απόκτηση του { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
     .label = Δοκιμή του { -solo-ai-brand-name }
 more-from-moz-new-products-box-link =

@@ -133,7 +133,7 @@ ipprotection-locations-unavailable-label = Μη διαθέσιμη
 ipprotection-locations-subview-promo =
     .heading = Περαιτέρω προστασία με το { -mozilla-vpn-brand-name }
     .message = Επιλέξτε ανάμεσα σε 300+ τοποθεσίες και προστατέψτε όλες τις εφαρμογές σας σε έως και 5 συσκευές.
-ipprotection-locations-subview-promo-button = Λήψη του { -mozilla-vpn-brand-name }
+ipprotection-locations-subview-promo-button = Απόκτηση του { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 

@@ -16,7 +16,7 @@ spotlight-ios-marketplace-button =
 
 ## Firefox Focus promo message strings
 
-spotlight-focus-promo-title = Λήψη του { -focus-brand-name }
+spotlight-focus-promo-title = Απόκτηση του { -focus-brand-name }
 spotlight-focus-promo-subtitle = Σαρώστε τον κωδικό QR για λήψη.
 spotlight-focus-promo-qr-code =
     .alt = Σαρώστε τον κωδικό QR για λήψη του { -focus-brand-name }

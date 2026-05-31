@@ -247,5 +247,5 @@ privacy-metrics-private-window = Το { -brand-short-name } συνεχίζει �
 
 ## VPN promo card and banner
 
-protections-get-vpn-link = Λήψη του { -mozilla-vpn-brand-name }
-protections-vpn-banner-link = Λήψη του { -mozilla-vpn-brand-name }
+protections-get-vpn-link = Απόκτηση του { -mozilla-vpn-brand-name }
+protections-vpn-banner-link = Απόκτηση του { -mozilla-vpn-brand-name }
