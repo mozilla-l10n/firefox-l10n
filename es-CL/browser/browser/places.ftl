@@ -269,5 +269,10 @@ places-search-downloads =
 
 places-locked-prompt = El sistema de marcadores e historial no serán funcionales debido a que uno de los archivos de { -brand-short-name } está siendo ocupado por otra aplicación. Algunos programas de seguridad pueden causar este problema.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Compartir carpeta
+    .badge = Nuevo
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Compartir carpeta

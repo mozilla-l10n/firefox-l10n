@@ -414,6 +414,9 @@ quickactions-cmd-help = ayuda, soporte
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir herramientas de desarrollador
 quickactions-cmd-inspector2 = inspector, devtools, herramientas de desarrollo
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Elige un color
+quickactions-cmd-colorpicker = selector de color, cuentagotas, elegir color
 # Opens Firefox Library
 quickactions-cmd-library = biblioteca
 quickactions-library = Biblioteca Abierta

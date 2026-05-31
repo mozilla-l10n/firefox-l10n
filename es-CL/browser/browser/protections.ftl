@@ -244,3 +244,10 @@ privacy-metrics-empty = No se han bloqueado rastreadores esta semana. { -brand-s
 privacy-metrics-loading = Cargando estadísticas de protección…
 privacy-metrics-error = No se pudieron cargar las estadísticas de protección.
 privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no mantiene un registro de lo que se bloqueó.
+
+## VPN promo card and banner
+
+protections-vpn-title = Lleva la protección de la privacidad más allá del navegador.
+protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Suscrito
+protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }
