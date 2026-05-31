@@ -248,4 +248,5 @@ privacy-metrics-private-window = { -brand-short-name } held fram med å blokkere
 
 protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonnerer
+protections-vpn-banner-header = Vern som strekkjer seg lenger enn nettlesaren
 protections-vpn-banner-link = Få { -mozilla-vpn-brand-name }

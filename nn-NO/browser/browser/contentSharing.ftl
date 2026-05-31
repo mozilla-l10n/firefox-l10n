@@ -28,3 +28,12 @@ content-sharing-modal-sign-in-2 =
 content-sharing-modal-title-2 = Del desse sidene med kven som helst
 content-sharing-modal-title-signed-in = Lenkene dine er klare for å delast
 content-sharing-modal-policy = Ved å dele godtek du <a data-l10n-name="aup-link">retningslinjene våre for akseptabel bruk</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Berre { $count } lenke vil bli inkludert
+       *[other] Berre { $count } lenker vil bli inkluderte
+    }
+content-sharing-modal-some-invalid-links = Nokre lenker kan ikkje delast.

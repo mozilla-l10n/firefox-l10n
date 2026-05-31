@@ -14,6 +14,7 @@ customkeys-reset-all = Tilbakestill alle snarvegar til standard
 customkeys-conflict-confirm = Denne tasten er allereie tildelt { $conflict }. Vil du erstatte han?
 customkeys-reset-all-confirm = Er du sikker på at du vil tilbakestille alle tastatursnarvegar til standardinnstilling?
 customkeys-file-duplicate-tab = Dupliser fane
+customkeys-file-focus-search = Fokuser på søkjefeltet
 customkeys-history-reopen-tab = Opne siste attlatne fane
 customkeys-history-reopen-window = Opne siste attlatne vindauge
 customkeys-sidebar-toggle = Slå av/på sidestolpe
