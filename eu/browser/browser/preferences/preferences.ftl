@@ -1137,7 +1137,7 @@ home-prefs-choose-wallpaper-link2 =
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
-    .message = Eginbide hauek erabiltzeko, ezarri fitxa edo leiho berriak { -firefox-home-brand-name } aukerara.
+    .message = Eginbide hauek erabiltzeko, ezarri fitxa edo leiho berriak '{ -firefox-home-brand-name }' aukerara.
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
