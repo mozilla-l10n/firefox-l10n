@@ -217,4 +217,5 @@ protections-vpn-header-content = { -mozilla-vpn-brand-name }으로 기기 전체
 protections-get-vpn-link = { -mozilla-vpn-brand-name } 받기
 protections-vpn-title-subscribed = VPN: 구독 중
 protections-vpn-banner-header = 브라우저 그 이상의 보호 기능
+protections-vpn-banner-content = 위험 부담 없이 { -mozilla-vpn-brand-name }을 체험해 보세요. TechRadar가 "빠른 속도, 간결함, 그리고 저렴한 월 요금 덕분에 충분히 주목할 가치가 있다"라고 평가한 이유를 직접 확인하실 수 있습니다.
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } 받기

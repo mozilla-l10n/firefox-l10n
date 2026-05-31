@@ -827,6 +827,14 @@ newtab-widget-section-menu-manage = Διαχείριση γραφικών στο
 newtab-widget-section-menu-hide-all = Απόκρυψη widgets
 newtab-widget-section-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-section-feedback = Πείτε μας τη γνώμη σας
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Εμφάνιση περισσότερων γραφικών στοιχείων
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Εμφάνιση λιγότερων γραφικών στοιχείων
 newtab-widget-lists-name-default = Λίστα ελέγχου
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1044,6 +1052,8 @@ newtab-sports-widget-world-cup-champions = Πρωταθλητές Παγκοσμ
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Κανονική διάρκεια
+newtab-sports-widget-match-halftime = Ημίχρονο
+newtab-sports-widget-match-extra-time = Παράταση
 newtab-sports-widget-match-penalties = Πέναλτι
 
 ## Accessible labels for match rows in the sports widget. These are read by

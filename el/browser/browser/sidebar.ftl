@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Chatbot ΤΝ
 menu-view-contextual-password-manager =
     .label = Κωδικοί πρόσβασης
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Ανοικτές καρτέλες
 sidebar-options-menu-button =
     .title = Άνοιγμα μενού
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Ιστορικό
 sidebar-menu-synced-tabs-label =
     .label = Καρτέλες από άλλες συσκευές
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Ανοικτές καρτέλες
 sidebar-menu-bookmarks-label =
     .label = Σελιδοδείκτες
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Ιστορικό
 sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Ανοικτές καρτέλες
 sidebar-menu-cpm-header =
     .heading = Κωδικοί πρόσβασης
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Σελιδοδείκτες κινητού
 sidebar-customize-title = Προσαρμογή πλαϊνής γραμμής
 sidebar-history-title = Ιστορικό
 sidebar-syncedtabs-title = Καρτέλες από άλλες συσκευές
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Ανοικτές καρτέλες
 
 ## Context for closing synced tabs when hovering over the items
 
