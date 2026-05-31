@@ -284,3 +284,10 @@ privacy-metrics-empty = Pśeslědowaki njejsu se ten tyźeń blokěrowali. { -br
 privacy-metrics-loading = Šćitne statistiske daty se zacytaju…
 privacy-metrics-error = Njejo móžno, šćitne statistiske daty zacytaś.
 privacy-metrics-private-window = { -brand-short-name } pśeslědowaki w priwatnych woknach dalej blokěrujo, ale njeregistrěrujo, co jo se blokěrowało.
+
+## VPN promo card and banner
+
+protections-vpn-title = Wobstarajśo se priwatnosć wušej wobglědowaka
+protections-vpn-header-content = Šćitajśo swój ceły grat z { -mozilla-vpn-brand-name }. Jadno dotyknjenje ceły wobchad koděrujo a wašo stojnišćo chowa.
+protections-get-vpn-link = { -mozilla-vpn-brand-name } wobstaraś
+protections-vpn-title-subscribed = VPN: Aboněrowany

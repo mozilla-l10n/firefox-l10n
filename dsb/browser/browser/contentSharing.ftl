@@ -59,3 +59,7 @@ content-sharing-modal-too-many-pages =
            *[other] Sćo źělił { $count } bokow
         }
     .message = Wopytajśo hyšći raz, za tym až jaden z wašych bokow jo spadnuł.
+content-sharing-modal-some-invalid-links = Někotare wótkaze njedaju se źěliś.
+content-sharing-modal-generic-error-2 =
+    .heading = Něco njejo se raźiło
+    .message = Njejsmy mógli tenraz waš źělony bok napóraś. Wopytajśo pózdźej hyšći raz.
