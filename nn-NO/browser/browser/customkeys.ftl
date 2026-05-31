@@ -45,6 +45,10 @@ customkeys-nav-select-tab-5 = Gå til fane 5
 customkeys-nav-select-tab-6 = Gå til fane 6
 customkeys-nav-select-tab-7 = Gå til fane 7
 customkeys-nav-select-tab-8 = Gå til fane 8
+customkeys-nav-select-last-tab = Gå til siste fane
+customkeys-nav-toggle-mute = Lyd av/på
+customkeys-edit-find-previous = Søk etter føregåande
+customkeys-tools-screenshot = Ta eit skjermbilde
 customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere annleis enn forventa.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig

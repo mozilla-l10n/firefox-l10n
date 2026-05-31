@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = KI-chatbot
 menu-view-contextual-password-manager =
     .label = Passord
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Opne faner
 sidebar-options-menu-button =
     .title = Opne meny
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Historikk
 sidebar-menu-synced-tabs-label =
     .label = Faner frå andre einingar
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Opne faner
 sidebar-menu-bookmarks-label =
     .label = Bokmerke
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
     .heading = Faner frå andre einingar
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Opne faner
 sidebar-menu-cpm-header =
     .heading = Passord
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobile bokmerke
 sidebar-customize-title = Tilpass sidestolpen
 sidebar-history-title = Historikk
 sidebar-syncedtabs-title = Faner frå andre einingar
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Opne faner
 
 ## Context for closing synced tabs when hovering over the items
 

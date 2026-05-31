@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
 policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho wobhladowaka znjemóžnić.
 policy-DisableProfileRefresh = Tłóčatko { -brand-short-name } wobnowić na stronje about:support znjemóžnić.
 policy-DisableRemoteImprovements = Zadźěwajće tomu, zo { -brand-short-name } změny wukona, stabilnosće a funkcijow mjez aktualizacijemi nałožuje.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Eksterne nastajenja znjemóžnić.
 policy-DisableSafeMode = Funkciju za znowastartowanje we wěstym modusu znjemóžnić. Kedźbu: Tasta Umsch, z kotrejž k wěstemu modusej přeńdźeće, da so jenož pod Windowsom z pomocu skupinskich prawidłow znjemóžnić.
 policy-DisableSecurityBypass = Wužiwarjej zakazać, wěste wěstotne warnowanja wobeńć.
 policy-DisableSetAsDesktopBackground = Menijowy přikaz Jako desktopowy pozadk za wobrazy nastajić znjemóžnić.

@@ -1197,7 +1197,7 @@ addressbar-header-firefox-suggest-2 =
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
-    .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων σε σελίδες αποτελεσμάτων
+    .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων για σελίδες αποτελεσμάτων
 search-separate-default-engine-2 =
     .label = Χρήση διαφορετικής μηχανής αναζήτησης στα ιδιωτικά παράθυρα
     .accesskey = Χ
@@ -1842,8 +1842,8 @@ history-section-header =
     .label = Ιστορικό
     .description = Επιλέξτε τι θέλετε να απομνημονεύει το { -brand-short-name } όταν κλείνετε το πρόγραμμα περιήγησης.
 history-custom-section-header =
-    .label = ΄Σύνθετες ρυθμίσεις
-    .description = Προσαρμόστε τι θέλετε να απομνημονεύει το { -brand-short-name } όταν κλείνετε το πρόγραμμα περιήγησης.
+    .label = Σύνθετες ρυθμίσεις
+    .description = Προσαρμόστε τα στοιχεία που θέλετε να απομνημονεύει το { -brand-short-name } όταν το κλείνετε.
 history-custom-button =
     .label = Επιλέξτε τι θέλετε να απομνημονεύει το { -brand-short-name }
 history-group =
