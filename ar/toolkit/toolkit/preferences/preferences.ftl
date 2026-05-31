@@ -31,5 +31,7 @@ remove-info =
     .value = عليك إدخال كلمة السر الحالية للمواصلة:
 remove-primary-password-warning1 = تستخدم كلمة السر الرئيسية لحماية المعلومات الحسّاسة كجلسات الولوج وكلمات السر.
 remove-primary-password-warning2 = إذا أزلت كلمة السر الرئيسيّة لن تكون معلوماتك محميّة إذا اخترق الحاسوب.
+remove-password-old =
+    .label = كلمة السر الحالية:
 remove-password-old-password =
     .value = كلمة السر الحالية:
