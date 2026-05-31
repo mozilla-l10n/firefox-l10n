@@ -30,5 +30,7 @@ remove-info =
     .value = ඉදිරියට යාමට ඔබගේ වත්මන් මුරපදය යොදන්න:
 remove-primary-password-warning1 = පිවිසුම් හා මුරපද වැනි සංවේදී තොරතුරු ආරක්‍ෂා කිරීමට ඔබගේ ප්‍රාථමික මුරපදය භාවිතා වේ.
 remove-primary-password-warning2 = ඔබගේ ප්‍රාථමික මුරපදය ඉවත් කළහොත් පරිගණකය බිඳ හෙළූ විටෙක ඔබගේ තොරතුරු ආරක්‍ෂා නොවනු ඇත.
+remove-password-old =
+    .label = වත්මන් මුරපදය:
 remove-password-old-password =
     .value = වත්මන් මුරපදය:
