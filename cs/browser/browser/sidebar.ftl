@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI chatbot
 menu-view-contextual-password-manager =
     .label = Hesla
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Otevřené panely
 sidebar-options-menu-button =
     .title = Otevřít nabídku
 
@@ -153,6 +156,11 @@ sidebar-menu-history-label =
     .label = Historie
 sidebar-menu-synced-tabs-label =
     .label = Panely z jiných zařízení
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Otevřené panely
 sidebar-menu-bookmarks-label =
     .label = Záložky
 sidebar-menu-customize-label =
@@ -199,6 +207,10 @@ sidebar-menu-history-header =
     .heading = Historie
 sidebar-menu-syncedtabs-header =
     .heading = Panely z jiných zařízení
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Otevřené panely
 sidebar-menu-cpm-header =
     .heading = Hesla
 sidebar-menu-bookmarks-header =
@@ -218,6 +230,9 @@ sidebar-bookmarks-folder-mobile = Záložky z mobilu
 sidebar-customize-title = Přizpůsobit postranní lištu
 sidebar-history-title = Historie
 sidebar-syncedtabs-title = Panely z jiných zařízení
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Otevřené panely
 
 ## Context for closing synced tabs when hovering over the items
 

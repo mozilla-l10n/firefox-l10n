@@ -855,6 +855,14 @@ newtab-widget-section-menu-manage = Spravovat widgety
 newtab-widget-section-menu-hide-all = Skrýt widgety
 newtab-widget-section-menu-learn-more = Zjistit více
 newtab-widget-section-feedback = Sdělte nám svůj názor
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Zobrazit více widgetů
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Zobrazit méně widgetů
 newtab-widget-lists-name-default = Kontrolní seznam
 
 ## Strings introduced by the Nova redesign of the Timer widget
