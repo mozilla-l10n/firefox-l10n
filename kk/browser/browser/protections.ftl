@@ -229,3 +229,7 @@ privacy-metrics-empty = Бұл аптада ешқандай трекерлер 
 privacy-metrics-loading = Қорғаныс статистикасы жүктелуде…
 privacy-metrics-error = Қорғаныс статистикасын жүктеу мүмкін емес.
 privacy-metrics-private-window = { -brand-short-name } жекелік терезелерінде трекерлерді бұғаттауды жалғастырады, бірақ, не бұғатталғанын жазып отырмайды.
+
+## VPN promo card and banner
+
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } алу

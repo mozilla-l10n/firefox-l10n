@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = ЖИ чатботы
 menu-view-contextual-password-manager =
     .label = Парольдер
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Ашық беттер
 sidebar-options-menu-button =
     .title = Мәзірді ашу
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Тарих
 sidebar-menu-synced-tabs-label =
     .label = Басқа құрылғылардан беттер
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Ашық беттер
 sidebar-menu-bookmarks-label =
     .label = Бетбелгілер
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Тарих
 sidebar-menu-syncedtabs-header =
     .heading = Басқа құрылғылардан беттер
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Ашық беттер
 sidebar-menu-cpm-header =
     .heading = Парольдер
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Мобильді бетбелгілер
 sidebar-customize-title = Бүйір панелін баптау
 sidebar-history-title = Тарих
 sidebar-syncedtabs-title = Басқа құрылғылардан беттер
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Ашық беттер
 
 ## Context for closing synced tabs when hovering over the items
 
