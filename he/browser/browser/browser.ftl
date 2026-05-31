@@ -414,6 +414,9 @@ quickactions-cmd-help = עזרה, תמיכה
 # Opens the devtools web inspector
 quickactions-inspector2 = פתיחת כלי פיתוח
 quickactions-cmd-inspector2 = מפקח, inspector, כלי פיתוח, כלי מפתחים, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = דגימת צבע מהדף
+quickactions-cmd-colorpicker = בורר צבעים, טפטפת, בחירת צבע, דגימת צבע, לבחור צבע, לדגום צבע, בחר צבע, דגום צבע
 # Opens Firefox Library
 quickactions-cmd-library = ספרייה,ספריה
 quickactions-library = פתיחת ספרייה
