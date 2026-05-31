@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Dalši grat zwjazać…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Konto njeje přepruwowane
+account-send-tab-to-device-verify2 = Waše konto wobkrućić
 account-send-tab-to-device-verify = Waše konto přepruwować…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

@@ -37,6 +37,17 @@ customkeys-nav-home = Startowa strona
 customkeys-nav-reload = Znowa začitać
 customkeys-nav-reload-skip-cache = Znowa začitać (pufrowak přepisać)
 customkeys-nav-stop = Stój
+customkeys-nav-select-tab-1 = K rajtarkej 1 přeńć
+customkeys-nav-select-tab-2 = K rajtarkej 2 přeńć
+customkeys-nav-select-tab-3 = K rajtarkej 3 přeńć
+customkeys-nav-select-tab-4 = K rajtarkej 4 přeńć
+customkeys-nav-select-tab-5 = K rajtarkej 5 přeńć
+customkeys-nav-select-tab-6 = K rajtarkej 6 přeńć
+customkeys-nav-select-tab-7 = K rajtarkej 7 přeńć
+customkeys-nav-select-tab-8 = K rajtarkej 8 přeńć
+customkeys-nav-select-last-tab = K poslednjemu rajtarkej přeńć
+customkeys-edit-find-previous = Předchadny pytać
+customkeys-tools-screenshot = Foto wobrazowki činić
 customkeys-caution-message = Tuta funkcija je eksperimentelna a njedźěła snano kaž wočakowane.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Njepłaćiwy

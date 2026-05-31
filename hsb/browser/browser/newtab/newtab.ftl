@@ -831,6 +831,14 @@ newtab-widget-section-menu-manage = Asistenty rjadować
 newtab-widget-section-menu-hide-all = Asistenty schować
 newtab-widget-section-menu-learn-more = Dalše informacije
 newtab-widget-section-feedback = Prajće nam swoje měnjenje
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Wjace asistentow pokazać
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Mjenje asistentow pokazać
 newtab-widget-lists-name-default = Kontrolna lisćina
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1055,6 +1063,8 @@ newtab-sports-widget-world-cup-champions = Swětowi mištrojo 2026
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Wšón čas
+newtab-sports-widget-match-halftime = Połčas
+newtab-sports-widget-match-extra-time = Podlěšenje
 newtab-sports-widget-match-penalties = Pokutne kopy
 
 ## Accessible labels for match rows in the sports widget. These are read by

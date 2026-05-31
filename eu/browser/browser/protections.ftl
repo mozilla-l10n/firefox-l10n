@@ -257,3 +257,5 @@ protections-vpn-header-content-subscribed =
        *[other] { -mozilla-vpn-brand-name }(e)k trafiko guztia zifratu eta zure kokapena ezkutatzen du — gehienez ere { $count } gailutan. Atera ahalik eta probetxuen handiena zure harpidetzatik — gehi ezazu <a data-l10n-name="playstore-link">Google Play Store</a> edo <a data-l10n-name="appstore-link">Apple App Store</a>-tik.
     }
 protections-vpn-banner-header = Nabigatzaileaz haratago hedatzen den babesa
+protections-vpn-banner-content = Probatu { -mozilla-vpn-brand-name } arriskurik gabe eta ikusi zergatik TechRadar guneak dioen "bere abiadurak, sinpletasunak eta hileko prezio baxuak probatzeko modukoa egiten du."
+protections-vpn-banner-link = Eskuratu { -mozilla-vpn-brand-name }

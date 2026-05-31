@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AA txaterako bota
 menu-view-contextual-password-manager =
     .label = Pasahitzak
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Irekitako fitxak
 sidebar-options-menu-button =
     .title = Ireki menua
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Historia
 sidebar-menu-synced-tabs-label =
     .label = Beste gailuetako fitxak
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Irekitako fitxak
 sidebar-menu-bookmarks-label =
     .label = Laster-markak
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Beste gailuetako fitxak
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Irekitako fitxak
 sidebar-menu-cpm-header =
     .heading = Pasahitzak
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mugikorreko laster-markak
 sidebar-customize-title = Pertsonalizatu alboko barra
 sidebar-history-title = Historia
 sidebar-syncedtabs-title = Beste gailuetako fitxak
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Irekitako fitxak
 
 ## Context for closing synced tabs when hovering over the items
 

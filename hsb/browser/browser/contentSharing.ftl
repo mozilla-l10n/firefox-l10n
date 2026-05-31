@@ -27,3 +27,13 @@ content-sharing-modal-generating-page =
 content-sharing-modal-link-copied =
     .label = Wotkaz je kopěrowany
 content-sharing-modal-policy = Hdyž dźěliće, zwoliće do našich <a data-l10n-name="aup-link">wužiwanskich prawidłow</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Jenož { $count } wotkaz so zapřijima
+        [two] Jenož { $count } wotkazaj so zapřijimatej
+        [few] Jenož { $count } wotkazy so zapřijimaja
+       *[other] Jenož { $count } wotkazow so zapřijima
+    }

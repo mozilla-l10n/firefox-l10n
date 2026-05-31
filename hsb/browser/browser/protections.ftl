@@ -284,3 +284,9 @@ privacy-metrics-empty = Přesćěhowaki njejsu so tutón tydźeń zablokowali. {
 privacy-metrics-loading = Škitne statistiske daty so začitaja…
 privacy-metrics-error = Njeje móžno, škitne statistiske daty začitać.
 privacy-metrics-private-window = { -brand-short-name } přesćěhowaki w priwatnych woknach dale blokuje, ale njezapřijima, što je so zablokowało.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = { -mozilla-vpn-brand-name } wobstarać
+protections-vpn-title-subscribed = VPN: Abonowany
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } wobstarać

@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-contextual-password-manager =
     .label = Hesła
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Wočinjene rajtarki
 sidebar-options-menu-button =
     .title = Meni wočinić
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Historija
 sidebar-menu-synced-tabs-label =
     .label = Rajtarki z druhich gratow
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Wočinjene rajtarki
 sidebar-menu-bookmarks-label =
     .label = Zapołožki
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rajtarki z druhich gratow
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Wočinjene rajtarki
 sidebar-menu-cpm-header =
     .heading = Hesła
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobilne zapołožki
 sidebar-customize-title = Bóčnicu přiměrić
 sidebar-history-title = Historija
 sidebar-syncedtabs-title = Rajtarki z druhich gratow
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Wočinjene rajtarki
 
 ## Context for closing synced tabs when hovering over the items
 
