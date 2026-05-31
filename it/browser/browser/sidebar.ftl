@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-contextual-password-manager =
     .label = Password
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Schede aperte
 sidebar-options-menu-button =
     .title = Apri menu
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Cronologia
 sidebar-menu-synced-tabs-label =
     .label = Schede da altri dispositivi
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Schede aperte
 sidebar-menu-bookmarks-label =
     .label = Segnalibri
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Schede da altri dispositivi
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Schede aperte
 sidebar-menu-cpm-header =
     .heading = Password
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Segnalibri da dispositivi mobile
 sidebar-customize-title = Personalizzazione barra laterale
 sidebar-history-title = Cronologia
 sidebar-syncedtabs-title = Schede da altri dispositivi
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Schede aperte
 
 ## Context for closing synced tabs when hovering over the items
 

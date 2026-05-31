@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Nega
     .accesskey = N
 webext-perms-host-description-all-urls = Accedere ai dati dei siti web
+webext-perms-host-description-file-urls = Accedere ai file locali sul tuo computer
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accedere ai dati dei siti web per il dominio { $domain }
