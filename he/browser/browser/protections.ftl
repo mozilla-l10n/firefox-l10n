@@ -233,3 +233,19 @@ privacy-metrics-empty = אין רכיבי מעקב שנחסמו השבוע. { -b
 privacy-metrics-loading = בטעינה סטטיסטיקות הגנה…
 privacy-metrics-error = לא ניתן לטעון סטטיסטיקות הגנה.
 privacy-metrics-private-window = { -brand-short-name } ממשיך לחסום רכיבי מעקב בחלונות פרטיים, אך אינו שומר תיעוד על מה שנחסם.
+
+## VPN promo card and banner
+
+protections-vpn-title = הרחבת הגנות הפרטיות מעבר לדפדפן
+protections-vpn-header-content = הגנה על כל המכשיר בעזרת { -mozilla-vpn-brand-name }. הקשה אחת מצפינה את כל התעבורה ומסתירה את המיקום.
+protections-get-vpn-link = קבלת { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = ‏VPN: רשום כמינוי
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] השימוש ב־{ -mozilla-vpn-brand-name } מצפין את כל התעבורה שלך ומסתיר את המיקום שלך - עד { $count } מכשירים. כדאי להפיק את המיטב מהמינוי שלך ולקבל אותו דרך <a data-l10n-name="playstore-link">חנות Google Play</a> או <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = הגנה שנמשכת מעבר לדפדפן
+protections-vpn-banner-content = נסו את { -mozilla-vpn-brand-name } ללא התחייבות וגלו מדוע ב־TechRadar אומרים ש״המהירות, הפשטות והמחיר החודשי הנמוך שלו הופכים אותו לשווה בדיקה״.
+protections-vpn-banner-link = קבלת { -mozilla-vpn-brand-name }
