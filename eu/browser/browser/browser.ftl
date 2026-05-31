@@ -414,6 +414,9 @@ quickactions-cmd-help = laguntza, euskarria
 # Opens the devtools web inspector
 quickactions-inspector2 = Ireki garatzaile-tresnak
 quickactions-cmd-inspector2 = ikuskatzailea, garatzaile-tresnak
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Hautatu kolorea
+quickactions-cmd-colorpicker = kolore-hautatzailea, kolorea hautatzekoa, hautatu kolorea
 # Opens Firefox Library
 quickactions-cmd-library = biltegia
 quickactions-library = Ireki biltegia

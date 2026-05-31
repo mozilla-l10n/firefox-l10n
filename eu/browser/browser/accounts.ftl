@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Konektatu beste gailu bat…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Kontua egiaztatu gabe
+account-send-tab-to-device-verify2 = Egiaztatu zure kontua
 account-send-tab-to-device-verify = Egiaztatu zure kontua…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

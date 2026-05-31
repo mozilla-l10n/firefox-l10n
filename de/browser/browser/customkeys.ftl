@@ -49,6 +49,7 @@ customkeys-nav-select-tab-7 = Zu Tab 7 gehen
 customkeys-nav-select-tab-8 = Zu Tab 8 gehen
 customkeys-nav-select-last-tab = Zum letzten Tab gehen
 customkeys-nav-toggle-mute = Audio stummschalten/Stummschaltung aufheben
+customkeys-edit-find-previous = Vorheriges suchen
 customkeys-tools-screenshot = Bildschirmfoto aufnehmen
 customkeys-caution-message = Diese Funktion ist experimentell und funktioniert möglicherweise nicht wie erwartet.
 # Displayed in the new key field when the key that was pressed isn't valid.

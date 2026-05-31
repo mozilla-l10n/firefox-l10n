@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = KI-Chatbot
 menu-view-contextual-password-manager =
     .label = Passwörter
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Offene Tabs
 sidebar-options-menu-button =
     .title = Menü öffnen
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Chronik
 sidebar-menu-synced-tabs-label =
     .label = Tabs von anderen Geräten
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Offene Tabs
 sidebar-menu-bookmarks-label =
     .label = Lesezeichen
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Chronik
 sidebar-menu-syncedtabs-header =
     .heading = Tabs von anderen Geräten
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Offene Tabs
 sidebar-menu-cpm-header =
     .heading = Passwörter
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobile Lesezeichen
 sidebar-customize-title = Sidebar anpassen
 sidebar-history-title = Chronik
 sidebar-syncedtabs-title = Tabs von anderen Geräten
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Offene Tabs
 
 ## Context for closing synced tabs when hovering over the items
 

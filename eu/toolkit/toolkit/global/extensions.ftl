@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Ukatu
     .accesskey = U
 webext-perms-host-description-all-urls = Webgune guztietako zure datuak atzitzea
+webext-perms-host-description-file-urls = Zure ordenagailuko fitxategi lokalak atzitzea
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } domeinupeko guneetako zure datuak atzitzea
