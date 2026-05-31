@@ -4,19 +4,27 @@
 
 password-not-set =
     .value = (ha le a setwa)
-
 pw-change-success-title = Phetolo ya Phasewete e Atlehile
 pw-change-failed-title = Phetolo ya Phasewete e Hlolehile
 pw-remove-button =
     .label = Tlosa
-
+set-password-old =
+    .label = Phasewete ya Hajwale:
+set-password-new =
+    .label = Kenya phasewete e ntjha:
+set-password-reenter =
+    .label = Pheta phasewete:
 set-password-old-password = Phasewete ya Hajwale:
 set-password-new-password = Kenya phasewete e ntjha:
 set-password-reenter-password = Pheta phasewete:
 set-password-meter = Mitara wa boemo ba phasewete
 set-password-meter-loading = E a jara
-
 remove-info =
     .value = O lokela ho kenya phasewete ya hajwale ya hao hore o tswele pele:
+remove-password-old =
+    .label = Phasewete ya hajwale:
 remove-password-old-password =
     .value = Phasewete ya hajwale:
+set-password-not-set =
+    .label = Phasewete ya Hajwale:
+    .placeholder = (ha le a setwa)

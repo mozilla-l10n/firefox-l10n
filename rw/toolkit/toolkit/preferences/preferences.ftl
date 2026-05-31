@@ -4,19 +4,27 @@
 
 password-not-set =
     .value = (Ntabwo yashisweho)
-
 pw-change-success-title = Guhindura ijambobanga byakunze
 pw-change-failed-title = Guhindura ijambobanga byaze
 pw-remove-button =
     .label = Gukuraho
-
+set-password-old =
+    .label = Ijambobanga iriho:
+set-password-new =
+    .label = Injiza Ijambobanga Nshya:
+set-password-reenter =
+    .label = Ongera winjize ijambobanga:
 set-password-old-password = Ijambobanga iriho:
 set-password-new-password = Injiza Ijambobanga Nshya:
 set-password-reenter-password = Ongera winjize ijambobanga:
 set-password-meter = Imetero y'Ingenzi y'Ijambobanga
 set-password-meter-loading = Ifungura
-
 remove-info =
     .value = Ugomba kwinjiza ijambobanga ufite ubu kugira ngo ukomeze:
+remove-password-old =
+    .label = Ijambobanga iriho:
 remove-password-old-password =
     .value = Ijambobanga iriho:
+set-password-not-set =
+    .label = Ijambobanga iriho:
+    .placeholder = (Ntabwo yashisweho)

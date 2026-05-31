@@ -4,18 +4,26 @@
 
 password-not-set =
     .value = (суугдаагүй)
-
 pw-change-success-title = Нууц үг амжилттай солигдлоо
 pw-remove-button =
     .label = Устга
-
+set-password-old =
+    .label = Одоогийн нууц үг:
+set-password-new =
+    .label = Шинэ нууц үг оруул:
+set-password-reenter =
+    .label = Дахин оруул:
 set-password-old-password = Одоогийн нууц үг:
 set-password-new-password = Шинэ нууц үг оруул:
 set-password-reenter-password = Дахин оруул:
 set-password-meter = Нууц үгийн чанарын хэмжүүр
 set-password-meter-loading = Дуудаж байна
-
 remove-info =
     .value = Та гүйцэтгэхийн тулд одоогийн нууц үгээ оруулах ёстой:
+remove-password-old =
+    .label = Одоогийн нууц үг:
 remove-password-old-password =
     .value = Одоогийн нууц үг:
+set-password-not-set =
+    .label = Одоогийн нууц үг:
+    .placeholder = (суугдаагүй)

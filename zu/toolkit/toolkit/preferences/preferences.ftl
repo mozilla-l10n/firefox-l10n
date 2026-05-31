@@ -4,19 +4,27 @@
 
 password-not-set =
     .value = (akuhleliwe)
-
 pw-change-success-title = Ukushintsha Igama Lokungena Kuphumelele
 pw-change-failed-title = Ukushintsha Igama Lokungena Kuhlulekile
 pw-remove-button =
     .label = Susa
-
+set-password-old =
+    .label = Igama lokungena lamanje:
+set-password-new =
+    .label = Bhala igama lokungena elisha:
+set-password-reenter =
+    .label = Bhala kabusha igama lokungena:
 set-password-old-password = Igama lokungena lamanje:
 set-password-new-password = Bhala igama lokungena elisha:
 set-password-reenter-password = Bhala kabusha igama lokungena:
 set-password-meter = Indlela yokukala izinga ngegama lokungena
 set-password-meter-loading = Iyalayisha
-
 remove-info =
     .value = Kumelwe ufake igama lakho lokungena elisebenzayo ukuze uqhubeke:
+remove-password-old =
+    .label = Igama lokungena lamanje:
 remove-password-old-password =
     .value = Igama lokungena lamanje:
+set-password-not-set =
+    .label = Igama lokungena lamanje:
+    .placeholder = (akuhleliwe)
