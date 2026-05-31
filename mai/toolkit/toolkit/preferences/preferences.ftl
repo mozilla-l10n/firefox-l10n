@@ -19,5 +19,7 @@ set-password-meter = गुड़किल्ली गुणता मीटर
 set-password-meter-loading = लोडिंग
 remove-info =
     .value = अहाँकेँ जरूर अपन मोजुदा गुड़किल्ली डालनाइ चाही:
+remove-password-old =
+    .label = मोजुदा गुड़किल्ली:
 remove-password-old-password =
     .value = मोजुदा गुड़किल्ली:
