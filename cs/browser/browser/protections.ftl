@@ -302,3 +302,10 @@ privacy-metrics-empty = Tento týden nebyly zablokovány žádné sledovací prv
 privacy-metrics-loading = Načítání statistik ochrany…
 privacy-metrics-error = Nepodařilo se načíst statistiky ochrany.
 privacy-metrics-private-window = { -brand-short-name } pokračuje v blokování sledovacích prvků v oknech anonymního prohlížení, ale neuchovává záznamy o tom, co bylo zablokováno.
+
+## VPN promo card and banner
+
+protections-vpn-title = Rozšiřte ochranu soukromí i mimo prohlížeč
+protections-vpn-header-content = Chraňte celé své zařízení pomocí { -mozilla-vpn-brand-name }. Jedním klepnutím zašifrujete veškerý přenos dat a skryjete svou polohu.
+protections-get-vpn-link = Získat { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Předplacená
