@@ -36,4 +36,16 @@ content-sharing-modal-too-many-links-2 =
         [one] Berre { $count } lenke vil bli inkludert
        *[other] Berre { $count } lenker vil bli inkluderte
     }
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Du har delt { $count } side
+           *[other] Du har delt { $count } sider
+        }
+    .message = Prøv på nytt etter at ei av sidene dine har gått ut.
 content-sharing-modal-some-invalid-links = Nokre lenker kan ikkje delast.
+content-sharing-modal-generic-error-2 =
+    .heading = Noko gjekk gale
+    .message = Vi klarte ikkje å opprette den delte sida di no. Prøv igjen seinare.
