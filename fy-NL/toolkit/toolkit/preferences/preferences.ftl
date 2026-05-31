@@ -35,5 +35,7 @@ remove-info =
     .value = Jo moatte jo aktuele wachtwurd ynfiere om troch te gean:
 remove-primary-password-warning1 = Jo haadwachtwurd wurdt brûkt om gefoelige gegevens te beskermjen, lykas oanmeldingen en wachtwurden.
 remove-primary-password-warning2 = As jo jo haadwachtwurd fourtsmite, wurde jo gegevens net mear beskerme as de kontrôle oer jo kompjûter oernommen wurdt.
+remove-password-old =
+    .label = Aktueel wachtwurd:
 remove-password-old-password =
     .value = Aktueel wachtwurd:
