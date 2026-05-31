@@ -25,5 +25,7 @@ remove-primary-password =
 remove-info =
     .value = തുടരുന്നതിനായി നിങ്ങളുടെ ഇപ്പോഴത്തെ ഒളിവാക്കു് ഇടണ്ടിവരും:
 remove-primary-password-warning1 = പ്രവേശിക്കലുകളും ഒളിവാക്കുകളും പോലുള്ള സചേതനമായ വിവരങ്ങൾ പരിരക്ഷിക്കാനാണു് താങ്ങളുടെ പ്രധാനഒളിവാക്കു് ഉപയോഗപ്പെടുന്നതു്.
+remove-password-old =
+    .label = ഇപ്പോഴത്തെ ഒളിവാക്കു് :
 remove-password-old-password =
     .value = ഇപ്പോഴത്തെ ഒളിവാക്കു് :
