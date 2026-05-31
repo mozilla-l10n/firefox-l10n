@@ -414,6 +414,9 @@ quickactions-cmd-help = 도움, 지원, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 개발자 도구 열기
 quickactions-cmd-inspector2 = inspector, devtools, dev tools, 검사기, 개발자 도구, 개발자
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = 색상 선택
+quickactions-cmd-colorpicker = color picker, eyedropper, pick color, 색상 선택기, 스포이드, 색상 선택
 # Opens Firefox Library
 quickactions-cmd-library = 라이브러리
 quickactions-library = 라이브러리 열기

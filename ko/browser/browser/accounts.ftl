@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = 다른 기기 연결…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = 계정 확인되지 않음
+account-send-tab-to-device-verify2 = 계정 확인
 account-send-tab-to-device-verify = 계정 확인…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
