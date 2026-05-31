@@ -33,6 +33,7 @@ content-sharing-modal-sign-in-2 =
 content-sharing-modal-title-2 = Tute strony z druhimi dźělić
 content-sharing-modal-title-signed-in = Waše wotkazy su hotowe za dźělenje
 content-sharing-modal-description-2 = Přizjewće so, zo byšće stronu wotkazow wutworił, kotraž da so lochko dźělić. Njeda so wobdźěłać abo zhašeć a spadnje za 7 dnjow.
+content-sharing-modal-description-signed-in = Smy stronu z wašimi wotkazami wutworili, kotraž da so lochko dźělić. Njeda so wobdźěłać abo zhašeć a spadnje za 7 dnjow.
 content-sharing-modal-policy = Hdyž dźěliće, zwoliće do našich <a data-l10n-name="aup-link">wužiwanskich prawidłow</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
