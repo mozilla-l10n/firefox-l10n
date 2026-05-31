@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI 챗봇
 menu-view-contextual-password-manager =
     .label = 비밀번호
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = 열린 탭
 sidebar-options-menu-button =
     .title = 메뉴 열기
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = 기록
 sidebar-menu-synced-tabs-label =
     .label = 다른 기기의 탭
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = 열린 탭
 sidebar-menu-bookmarks-label =
     .label = 북마크
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = 기록
 sidebar-menu-syncedtabs-header =
     .heading = 다른 기기의 탭
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = 열린 탭
 sidebar-menu-cpm-header =
     .heading = 비밀번호
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = 모바일 북마크
 sidebar-customize-title = 사이드바 사용자 지정
 sidebar-history-title = 기록
 sidebar-syncedtabs-title = 다른 기기의 탭
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = 열린 탭
 
 ## Context for closing synced tabs when hovering over the items
 

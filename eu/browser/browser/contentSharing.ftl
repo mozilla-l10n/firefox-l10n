@@ -39,3 +39,19 @@ content-sharing-modal-too-many-links-2 =
         [one] Bakarrik lotura { $count } sartuko da
        *[other] Bakarrik { $count } lotura sartuko dira
     }
+content-sharing-modal-no-shareable-links =
+    .heading = Ez da partekatzeko moduko loturarik sartu
+    .message = Web edukirako loturak parteka daitezke soilik.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Orri { $count } partekatu duzu
+           *[other] { $count } orri partekatu dituzu
+        }
+    .message = Saiatu berriro zure orrietako bat iraungi ondoren.
+content-sharing-modal-some-invalid-links = Zenbait lotura ezin dira partekatu.
+content-sharing-modal-generic-error-2 =
+    .heading = Zerbait gaizki joan da
+    .message = Ezin izan dugu partekatzeko zure orria sortu une honetan. Saiatu berriro geroago.

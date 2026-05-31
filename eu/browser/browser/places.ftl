@@ -267,5 +267,10 @@ places-search-downloads =
 
 places-locked-prompt = Laster-marken eta historiaren sistema ezingo da erabili beste aplikazio bat ari delako erabiltzen { -brand-short-name }(r)en fitxategietako bat. Zenbait segurtasun-softwarek arazo hau sor dezakete.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Partekatu karpeta
+    .badge = Berria
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Partekatu karpeta

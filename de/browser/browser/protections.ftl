@@ -247,6 +247,7 @@ privacy-metrics-private-window = { -brand-short-name } wird weiterhin Elemente z
 
 ## VPN promo card and banner
 
+protections-vpn-title = Bringt Datenschutz über den Browser hinaus
 protections-vpn-header-content = Schützen Sie Ihr gesamtes Gerät mit { -mozilla-vpn-brand-name }. Ein Klick verschlüsselt den gesamten Datenverkehr und verbirgt Ihren Standort.
 protections-get-vpn-link = Holen Sie sich { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonniert
@@ -258,4 +259,5 @@ protections-vpn-header-content-subscribed =
        *[other] Die Verwendung von { -mozilla-vpn-brand-name } verschlüsselt den gesamten Datenverkehr und verbirgt Ihren Standort – auf bis zu { $count } Geräten. Holen Sie das Beste aus Ihrem Abonnement heraus – holen Sie es sich aus dem <a data-l10n-name="playstore-link">Google Play Store</a> oder <a data-l10n-name="appstore-link">Apple App Store </a>.
     }
 protections-vpn-banner-header = Schutz, der über den Browser hinausgeht
+protections-vpn-banner-content = Probieren Sie { -mozilla-vpn-brand-name } risikofrei aus und sehen Sie sich an, warum Techradar sagt: „Seine Geschwindigkeit, Benutzerfreundlichkeit und der niedrige monatliche Preis sind einen Blick wert.“
 protections-vpn-banner-link = Holen Sie sich { -mozilla-vpn-brand-name }

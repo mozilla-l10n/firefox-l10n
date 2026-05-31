@@ -826,6 +826,14 @@ newtab-widget-section-menu-manage = Kudeatu widgetak
 newtab-widget-section-menu-hide-all = Ezkutatu widgetak
 newtab-widget-section-menu-learn-more = Argibide gehiago
 newtab-widget-section-feedback = Emaguzu zure iritzia
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Erakutsi widget gehiago
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Erakutsi widget gutxiago
 newtab-widget-lists-name-default = Zerrenda
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1044,6 +1052,8 @@ newtab-sports-widget-world-cup-champions = 2026ko Munduko Koparen Txapeldunak
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Partidaren amaiera
+newtab-sports-widget-match-halftime = Atsedenaldia
+newtab-sports-widget-match-extra-time = Luzapena
 newtab-sports-widget-match-penalties = Penaltiak
 
 ## Accessible labels for match rows in the sports widget. These are read by

@@ -243,3 +243,17 @@ privacy-metrics-empty = Ez da jarraipen-elementurik blokeatu aste honetan. { -br
 privacy-metrics-loading = Babesen estatistikak kargatzen…
 privacy-metrics-error = Ezin dira babesen estatistikak kargatu.
 privacy-metrics-private-window = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen jarraitzen du leiho pribatuetan baina ez du blokeatu denaren erregistrorik gordetzen.
+
+## VPN promo card and banner
+
+protections-vpn-title = Hartu pribatutasun-babesak nabigatzaileaz haratago
+protections-vpn-header-content = Babestu zure gailu osoa { -mozilla-vpn-brand-name }rekin. Sakatze bakarrarekin trafiko guztia zifratu eta zure kokapena ezkutatzen da.
+protections-get-vpn-link = Eskuratu { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: harpidetuta
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] { -mozilla-vpn-brand-name }(e)k trafiko guztia zifratu eta zure kokapena ezkutatzen du — gehienez ere { $count } gailutan. Atera ahalik eta probetxuen handiena zure harpidetzatik — gehi ezazu <a data-l10n-name="playstore-link">Google Play Store</a> edo <a data-l10n-name="appstore-link">Apple App Store</a>-tik.
+    }
+protections-vpn-banner-header = Nabigatzaileaz haratago hedatzen den babesa
