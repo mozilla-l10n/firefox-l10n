@@ -32,11 +32,6 @@ ipprotection-feature-introduction-link-text-privacy-1 =
         [with-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN { -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
        *[no-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
     }
-ipprotection-feature-introduction-link-text-privacy =
-    { -brand-product-name.case-status ->
-        [with-cases] Vestavěná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z 5 lokalit, abyste si zachovali soukromí při prohlížení.
-       *[no-cases] Vestavěná VPN od <a data-l10n-name="learn-more-vpn">aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z 5 lokalit, abyste si zachovali soukromí při prohlížení.
-    }
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -61,6 +56,14 @@ ipprotection-feature-introduction-button-secondary-remove = Odebrat VPN z nástr
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odebrat VPN z nástrojové lišty
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy =
+    { -brand-product-name.case-status ->
+        [with-cases] Vestavěná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z 5 lokalit, abyste si zachovali soukromí při prohlížení.
+       *[no-cases] Vestavěná VPN od <a data-l10n-name="learn-more-vpn">aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z 5 lokalit, abyste si zachovali soukromí při prohlížení.
+    }
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vyberte, kde používáte VPN
@@ -70,15 +73,15 @@ ipprotection-site-settings-callout-button = Rozumím
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novinka: Nastavte si svou polohu
-ipprotection-location-selection-callout-description-1 =
-    { -brand-product-name.case-status ->
-        [with-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN ve { -brand-product-name(case: "gen") }</a> vám umožňuje vybrat si z několika umístění pro připojení k internetu, nebo můžete nechat na nás, abychom za vás vybrali to nejrychlejší.
-       *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN v aplikaci { -brand-product-name }</a> vám umožňuje vybrat si z několika umístění pro připojení k internetu, nebo můžete nechat na nás, abychom za vás vybrali to nejrychlejší.
-    }
 ipprotection-location-selection-callout-description =
     { -brand-product-name.case-status ->
         [with-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN { -brand-product-name(case: "gen") }</a> vám umožňuje vybrat si z 5 lokalit pro prohlížení internetu, nebo nechat nás, abychom za vás vybrali tu nejrychlejší.
        *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN aplikace { -brand-product-name }</a> vám umožňuje vybrat si z 5 lokalit pro prohlížení internetu, nebo nechat nás, abychom za vás vybrali tu nejrychlejší.
+    }
+ipprotection-location-selection-callout-description-1 =
+    { -brand-product-name.case-status ->
+        [with-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN ve { -brand-product-name(case: "gen") }</a> vám umožňuje vybrat si z několika umístění pro připojení k internetu, nebo můžete nechat na nás, abychom za vás vybrali to nejrychlejší.
+       *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN v aplikaci { -brand-product-name }</a> vám umožňuje vybrat si z několika umístění pro připojení k internetu, nebo můžete nechat na nás, abychom za vás vybrali to nejrychlejší.
     }
 ipprotection-location-selection-callout-primary-button = Vyzkoušejte ho
 ipprotection-location-selection-callout-secondary-button = Zavřít
@@ -101,11 +104,11 @@ unauthenticated-private-location-message =
         [with-cases] Při prohlížení ve { -brand-product-name(case: "loc") } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
        *[no-cases] Při prohlížení v aplikaci { -brand-product-name } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
     }
-unauthenticated-choose-location-message-1 = Vyberte si z několika umístění nebo nechte { -brand-product-name } vybrat to nejrychlejší.
 unauthenticated-choose-location-message = Vyberte si z 5 lokalit nebo nechte { -brand-product-name(case: "acc") } vybrat tu nejrychlejší.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
+unauthenticated-choose-location-message-1 = Vyberte si z několika umístění nebo nechte { -brand-product-name } vybrat to nejrychlejší.
 unauthenticated-get-started = Začínáme
 unauthenticated-terms-of-service-privacy-notice = Pokračováním souhlasíte s <a data-l10n-name="vpn-terms-of-service">podmínkami poskytování služby</a> a <a data-l10n-name="vpn-privacy-notice">oznámením o ochraně osobních údajů</a>.
 site-exclusion-toggle-enabled-1 =
@@ -246,11 +249,6 @@ ip-protection-description-1 =
     .label = Vestavěná VPN
     .description = Zajistěte si větší soukromí tím, že při procházení webu skryjete svou polohu.
 ip-protection-learn-more = Zjistit více
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
-    .message = Procházejte internet s větší ochranou díky skrytí své polohy.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -261,6 +259,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
     .message = Surfujte s větší ochranou díky skrytí své polohy. Získejte každý měsíc { $maxUsage } GB dat pro VPN zdarma.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
+    .message = Procházejte internet s větší ochranou díky skrytí své polohy.
 ip-protection-not-opted-in-button = Začít
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

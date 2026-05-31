@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="lea
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 또 다른 개인 정보 보호 계층 추가
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 여러 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 5개 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = 도구 모음에서 
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 도구 모음에서 VPN 제거
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 5개 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = VPN 사용 위치 선택
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = 확인
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = 새 기능: 위치 전환
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>을 사용하면 여러 탐색 위치 중에서 직접 선택하거나, 가장 빠른 위치를 자동으로 찾을 수 있습니다.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>을 사용하면 5개의 탐색 위치 중에서 직접 선택하거나, 가장 빠른 위치를 자동으로 찾을 수 있습니다.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>을 사용하면 여러 탐색 위치 중에서 직접 선택하거나, 가장 빠른 위치를 자동으로 찾을 수 있습니다.
 ipprotection-location-selection-callout-primary-button = 사용해 보기
 ipprotection-location-selection-callout-secondary-button = 닫기
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = 닫기
 unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용해 보세요
 unauthenticated-hide-location-message-3 = { -brand-product-name }에서 탐색하는 동안 <a data-l10n-name="learn-more-vpn">위치를 숨기세요</a>.
 unauthenticated-private-location-message = { -brand-product-name }에서 <a data-l10n-name="learn-more-vpn">사용자의 위치를 비공개로 유지</a>하는 데 도움이 됩니다.
-unauthenticated-choose-location-message-1 = 여러 위치 중에서 직접 선택하거나, { -brand-product-name }가 가장 빠른 위치를 찾습니다.
 unauthenticated-choose-location-message = 5개의 위치 중에서 직접 선택하거나, { -brand-product-name }가 가장 빠른 위치를 찾습니다.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
+unauthenticated-choose-location-message-1 = 여러 위치 중에서 직접 선택하거나, { -brand-product-name }가 가장 빠른 위치를 찾습니다.
 unauthenticated-get-started = 시작하기
 unauthenticated-terms-of-service-privacy-notice = 계속 진행하면, <a data-l10n-name="vpn-terms-of-service">이용 약관</a> 및 <a data-l10n-name="vpn-privacy-notice">개인정보처리방침</a>에 동의하게 됩니다.
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = 내장 VPN
     .description = 탐색하는 동안 위치를 숨겨 개인 정보 보호를 강화하세요.
 ip-protection-learn-more = 더 알아보기
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
-    .message = 위치를 숨겨 탐색을 추가 보호합니다.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
     .message = 위치를 숨겨 추가 보호 기능을 통해 탐색하세요. 매달 { $maxUsage }GB의 무료 VPN 데이터를 받으세요.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
+    .message = 위치를 숨겨 탐색을 추가 보호합니다.
 ip-protection-not-opted-in-button = 시작하기
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

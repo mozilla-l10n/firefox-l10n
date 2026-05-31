@@ -24,13 +24,7 @@ content-sharing-tabs-title =
         [many] { $count } tab
        *[other] { $count } tab
     }
-content-sharing-modal-view-page =
-    .label = Gweld tudalen
 content-sharing-modal-copy-link =
     .label = Copïo dolen
 content-sharing-modal-link-copied =
     .label = Dolen wedi'i chopïo
-content-sharing-modal-sign-in =
-    .label = Mewngofnodwch i rannu dolenni
-content-sharing-modal-title = Rhannwch y casgliad hwn o ddolenni ar unrhyw borwr
-content-sharing-modal-description = Crëwch dudalen gyhoeddus ar gyfer y dolenni hyn sy'n hawdd ei rhannu. Ar ôl eu creu, does dim modd golygu na dileu'r dudalen ac mae'n dod i ben ymhen 7 diwrnod.

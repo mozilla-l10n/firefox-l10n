@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 加上一層隱私保護
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從多個連線位置任選，讓您上網更有隱私。
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從 5 個連線位置任選，讓您上網更有隱私。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = 自工具列移除 V
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 自工具列移除 VPN
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從 5 個連線位置任選，讓您上網更有隱私。
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = 選擇要透過 VPN 連線的網站
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = 知道了！
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = 新功能：切換您的所在位置
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 讓您可從多個位置任選上網，或由我們自動為您挑選最快的位置。
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 讓您可從 5 個位置任選上網，或由我們自動為您挑選最快的位置。
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 讓您可從多個位置任選上網，或由我們自動為您挑選最快的位置。
 ipprotection-location-selection-callout-primary-button = 試試看
 ipprotection-location-selection-callout-secondary-button = 知道了！
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = 知道了！
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
 unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-private-location-message = 使用 { -brand-product-name } 上網時可幫助<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
-unauthenticated-choose-location-message-1 = 從多個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
 unauthenticated-choose-location-message = 從 5 個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月獲得 { $maxUsage } GB 免費 VPN 流量。
+unauthenticated-choose-location-message-1 = 從多個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
 unauthenticated-get-started = 開始使用
 unauthenticated-terms-of-service-privacy-notice = 繼續使用，代表您同意我們的<a data-l10n-name="vpn-terms-of-service">服務條款</a>及<a data-l10n-name="vpn-privacy-notice">隱私權公告</a>。
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = 內建 VPN
     .description = 透過隱藏上網時的實際位置，獲得更加一層的隱私保護。
 ip-protection-learn-more = 更多資訊
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = 試用 { -brand-short-name } 的內建 VPN
-    .message = 隱藏您的實際所在位置，讓上網更加一層保護。
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = 試用 { -brand-short-name } 的內建 VPN
     .message = 隱藏您的實際所在位置以獲得額外保護。每月都有 { $maxUsage } GB 免費 VPN 流量。
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = 試用 { -brand-short-name } 的內建 VPN
+    .message = 隱藏您的實際所在位置，讓上網更加一層保護。
 ip-protection-not-opted-in-button = 開始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

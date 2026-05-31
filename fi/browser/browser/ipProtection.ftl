@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimes
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse viidestä sijainnista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -43,6 +42,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Poista VPN työkalupalkista
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Poista VPN työkalupalkista
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse viidestä sijainnista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 
 ## Site settings callout
 

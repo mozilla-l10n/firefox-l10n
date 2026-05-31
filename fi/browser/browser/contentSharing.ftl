@@ -15,13 +15,7 @@ content-sharing-tabs-title =
         [one] { $count } välilehti
        *[other] { $count } välilehteä
     }
-content-sharing-modal-view-page =
-    .label = Näytä sivu
 content-sharing-modal-copy-link =
     .label = Kopioi linkki
 content-sharing-modal-link-copied =
     .label = Linkki kopioitu
-content-sharing-modal-sign-in =
-    .label = Kirjaudu sisään jakaaksesi linkkejä
-content-sharing-modal-title = Jaa tämä linkkikokoelma millä tahansa selaimella
-content-sharing-modal-description = Luo näille linkeille julkinen sivu, joka on helppo jakaa. Kun sivu on luotu, sitä ei voi muokata tai poistaa, ja se vanhenee 7 päivän kuluttua.

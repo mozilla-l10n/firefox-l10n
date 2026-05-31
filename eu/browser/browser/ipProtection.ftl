@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu 5 kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = Kendu VPNa tresna-ba
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Kendu VPNa tresna-barratik
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu 5 kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Aukeratu non erabiltzen duzun VPNa
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = Ulertuta
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Berria: aldatu zure kokapena
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> nabigatzeko hainbat kokapenen artetik aukeratzen uzten dizu, edo utzi guri zuretzako azkarrena hartzen.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> nabigatzeko 5 kokapenen artetik aukeratzen uzten dizu, edo utzi guri zuretzako azkarrena hartzen.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> nabigatzeko hainbat kokapenen artetik aukeratzen uzten dizu, edo utzi guri zuretzako azkarrena hartzen.
 ipprotection-location-selection-callout-primary-button = Probatu
 ipprotection-location-selection-callout-secondary-button = Baztertu
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = Baztertu
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ezkutatu zure kokapena</a> { -brand-product-name }(r)ekin nabigatu ahala.
 unauthenticated-private-location-message = { -brand-product-name }(e)n <a data-l10n-name="learn-more-vpn">zure kokapena pribatu mantentzen</a> laguntzen du.
-unauthenticated-choose-location-message-1 = Aukeratu hainbat kokapenen artetik edo utzi { -brand-product-name }(r)i azkarrena hartzen.
 unauthenticated-choose-location-message = Aukeratu 5 kokapenen artetik edo utzi { -brand-product-name }(r)i azkarrena hartzen.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilero.
+unauthenticated-choose-location-message-1 = Aukeratu hainbat kokapenen artetik edo utzi { -brand-product-name }(r)i azkarrena hartzen.
 unauthenticated-get-started = Hasi erabiltzen
 unauthenticated-terms-of-service-privacy-notice = Jarraitzearekin bat, <a data-l10n-name="vpn-terms-of-service">erabiltzeko baldintzak</a> eta <a data-l10n-name="vpn-privacy-notice">pribatutasun-oharra</a> onartzen dituzu.
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = Integratutako VPNa
     .description = Jaso pribatutasun estra nabigatu ahala zure kokapena ezkutatuz.
 ip-protection-learn-more = Argibide gehiago
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = Probatu { -brand-short-name }(r)en integratutako VPNa
-    .message = Nabigatu babes estraz zure kokapena ezkutatuz.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Probatu { -brand-short-name }(r)en integratutako VPNa
     .message = Nabigatu babes estraz zure kokapena ezkutatuz. Lortu VPN datuen doako { $maxUsage } GB hilero.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Probatu { -brand-short-name }(r)en integratutako VPNa
+    .message = Nabigatu babes estraz zure kokapena ezkutatuz.
 ip-protection-not-opted-in-button = Hasi erabiltzen
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

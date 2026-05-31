@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = Utilizar nuestra nueva <a data-l
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Agrega otra capa de privacidad
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre varias ubicaciones para mantener una mayor privacidad al navegar.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre 5 ubicaciones para que tu actividad sea más privada.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos, incluso si estás en una ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navega con protección extra ocultando tu ubicación, incluso cuando estés en una ventana privada.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = Quitar VPN de la bar
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Quitar VPN de la barra de herramientas
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre 5 ubicaciones para que tu actividad sea más privada.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Elige dónde usar la VPN
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = Entendido
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nuevo: Cambia tu ubicación
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te permite elegir entre varias ubicaciones de navegación, o bien, deja que el sistema elija la más rápida.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te permite elegir entre 5 ubicaciones de navegación, o deja que nosotros elijamos la más rápida para ti.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te permite elegir entre varias ubicaciones de navegación, o bien, deja que el sistema elija la más rápida.
 ipprotection-location-selection-callout-primary-button = Intentalo
 ipprotection-location-selection-callout-secondary-button = Descartar
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = Descartar
 unauthenticated-vpn-title = Prueba la VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Oculta tu ubicación</a> mientras navegas en { -brand-product-name }.
 unauthenticated-private-location-message = Ayuda <a data-l10n-name="learn-more-vpn">a mantener tu ubicación privada</a> en { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Elige entre varias ubicaciones o deja que { -brand-product-name } seleccione la más rápida.
 unauthenticated-choose-location-message = Elige entre 5 ubicaciones o deja que { -brand-product-name } elija la más rápida.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obtén { $maxUsage } GB de datos VPN gratis cada mes.
+unauthenticated-choose-location-message-1 = Elige entre varias ubicaciones o deja que { -brand-product-name } seleccione la más rápida.
 unauthenticated-get-started = Comenzar
 unauthenticated-terms-of-service-privacy-notice = Al continuar, aceptas los <a data-l10n-name="vpn-terms-of-service">Términos de servicio</a> y el <a data-l10n-name="vpn-privacy-notice">Aviso de privacidad</a>.
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = VPN integrada
     .description = Obtén privacidad adicional al ocultar tu ubicación mientras navegas.
 ip-protection-learn-more = Saber más
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = Prueba la VPN integrada de { -brand-short-name }
-    .message = Navega con mayor protección ocultando tu ubicación.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Prueba la VPN integrada de { -brand-short-name }
     .message = Navega con protección adicional al ocultar tu ubicación. Obtén { $maxUsage } GB de datos de VPN gratis cada mes.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Prueba la VPN integrada de { -brand-short-name }
+    .message = Navega con mayor protección ocultando tu ubicación.
 ip-protection-not-opted-in-button = Comenzar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

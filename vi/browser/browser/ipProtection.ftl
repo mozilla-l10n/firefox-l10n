@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="l
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Thêm một lớp bảo mật nữa
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm khác nhau để giữ cho nơi bạn duyệt web được riêng tư hơn.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ 5 địa điểm để giữ cho nơi bạn duyệt web được riêng tư hơn.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = Xoá VPN khỏi than
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Xoá VPN khỏi thanh công cụ
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ 5 địa điểm để giữ cho nơi bạn duyệt web được riêng tư hơn.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Chọn nơi bạn sử dụng VPN
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = Đã hiểu
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Mới: Thay đổi địa điểm của bạn
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> cho phép bạn chọn từ nhiều địa điểm duyệt web, hoặc để chúng tôi chọn địa điểm nhanh nhất cho bạn.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> cho phép bạn chọn từ 5 địa điểm duyệt web, hoặc để chúng tôi chọn địa điểm nhanh nhất cho bạn.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> cho phép bạn chọn từ nhiều địa điểm duyệt web, hoặc để chúng tôi chọn địa điểm nhanh nhất cho bạn.
 ipprotection-location-selection-callout-primary-button = Thử ngay
 ipprotection-location-selection-callout-secondary-button = Bỏ qua
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = Bỏ qua
 unauthenticated-vpn-title = Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ẩn vị trí của bạn</a> khi duyệt trong { -brand-product-name }.
 unauthenticated-private-location-message = Giúp <a data-l10n-name="learn-more-vpn">giữ vị trí của bạn riêng tư</a> trong { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Chọn từ nhiều địa điểm khác nhau hoặc để { -brand-product-name } chọn địa điểm nhanh nhất.
 unauthenticated-choose-location-message = Chọn từ 5 địa điểm hoặc để { -brand-product-name } chọn địa điểm nhanh nhất.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
+unauthenticated-choose-location-message-1 = Chọn từ nhiều địa điểm khác nhau hoặc để { -brand-product-name } chọn địa điểm nhanh nhất.
 unauthenticated-get-started = Bắt đầu
 unauthenticated-terms-of-service-privacy-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="vpn-terms-of-service">điều khoản dịch vụ</a> và <a data-l10n-name="vpn-privacy-notice">thông báo bảo mật</a>.
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = VPN tích hợp sẵn
     .description = Tăng cường sự riêng tư bằng cách ẩn vị trí hiện tại của bạn khi duyệt web.
 ip-protection-learn-more = Tìm hiểu thêm
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
-    .message = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí của bạn.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
     .message = Duyệt web an toàn hơn nhờ ẩn vị trí của bạn. Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
+    .message = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí của bạn.
 ip-protection-not-opted-in-button = Bắt đầu
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

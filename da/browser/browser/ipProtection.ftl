@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Vi introducerer VPN, direkte i din bro
 ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Tilføj yderligere et lag af sikkerhed
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem fem placeringer for at beskytte dit privatliv, når du browser.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Bruger du et offentligt wi-fi? Prøv den indbyggede VPN i { -brand-product-name }.
@@ -43,6 +42,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra værktøjslinjen
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra værktøjslinjen
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem fem placeringer for at beskytte dit privatliv, når du browser.
 
 ## Site settings callout
 

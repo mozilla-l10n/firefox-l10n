@@ -15,27 +15,10 @@ content-sharing-tabs-title =
         [one] { $count } tendayke
        *[other] { $count } tendaykeita
     }
-content-sharing-modal-view-page =
-    .label = Ehecha kuatiarogue
 content-sharing-modal-copy-link =
     .label = Emonguatia juajuha
 content-sharing-modal-generating-page =
     .label = Kuatiarogue moheñói…
 content-sharing-modal-link-copied =
     .label = Juajuha monguatiapyre
-content-sharing-modal-sign-in =
-    .label = Eike ne emoharakuã hag̃ua juajuha
-content-sharing-modal-title = Emoharakuã ko joajuha aty oimeraẽva kundahárape
-content-sharing-modal-description = Emoheñói kuatiarogue opavavegua ko’ã juajuhápe g̃uarã hasy’ỹva imoherakuã. Heñói rire, kuatiarogue noñembosako’i térã noñemboguemo’ãi ha hu’ã 7 árape.
 content-sharing-modal-policy = Emoherakuãvo, emoneĩ ore <a data-l10n-name="aup-link">Jeporurã reko ñemoneĩva</a>
-# This is a warning to the user when they try to share more than the maximum
-# number of links and that the first N links will be shared.
-# The current max is 30.
-content-sharing-modal-too-many-links =
-    { $count ->
-        [one] Oikéta hetavéramo { $count } joajuha
-       *[other] Oikéta hetavéramo { $count } joajuha
-    }
-content-sharing-modal-generic-error =
-    .heading = Oĩ osẽvaíva
-    .message = Eha’ã jey ag̃amieve.

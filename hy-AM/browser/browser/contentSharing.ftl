@@ -16,14 +16,7 @@ content-sharing-tabs-title =
         [one] { $count } ներդիր
        *[other] { $count } ներդիրներ
     }
-content-sharing-modal-view-page =
-    .label = Դիտել էջը
 content-sharing-modal-copy-link =
     .label = Պատճենել հղումը
 content-sharing-modal-link-copied =
     .label = Հղումը պատճենվեց
-content-sharing-modal-sign-in =
-    .label = Մուտք գործեք՝ հղումները համօգտագործելու համար
-content-sharing-modal-generic-error =
-    .heading = Ինչ-որ բան սխալ է տեղի ունեցել
-    .message = Կրկին փորձեք ավելի ուշ:

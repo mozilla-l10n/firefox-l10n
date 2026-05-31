@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu 5 lokojn kie vi retumos pli private.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en privata fenestro.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ilaro
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Forigi VPN el la ilaro
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu 5 lokojn kie vi retumos pli private.
 
 ## Site settings callout
 

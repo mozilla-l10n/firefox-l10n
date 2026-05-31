@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = A apresentar a VPN, agora dentro do se
 ipprotection-feature-introduction-link-text-2 = Utilize a nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar a sua localização e proteger os seus dados.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adicione mais uma camada de privacidade
-ipprotection-feature-introduction-link-text-privacy = A <a data-l10n-name="learn-more-vpn">VPN integrada do { -brand-product-name }</a> ajuda a proteger a sua navegação. Pode escolher entre 5 localizações, para tornar a sua navegação mais privada.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilize a nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar a sua localização e proteger os seus dados, mesmo quando estiver numa janela privada.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção adicional ao ocultar a sua localização, mesmo ao utilizar uma janela privada.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Remover VPN da barra de ferramentas
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover VPN da barra de ferramentas
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = A <a data-l10n-name="learn-more-vpn">VPN integrada do { -brand-product-name }</a> ajuda a proteger a sua navegação. Pode escolher entre 5 localizações, para tornar a sua navegação mais privada.
 
 ## Site settings callout
 

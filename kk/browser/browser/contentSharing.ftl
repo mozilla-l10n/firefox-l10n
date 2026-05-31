@@ -15,26 +15,10 @@ content-sharing-tabs-title =
         [one] { $count } бет
        *[other] { $count } бет
     }
-content-sharing-modal-view-page =
-    .label = Бетті қарау
 content-sharing-modal-copy-link =
     .label = Сілтемені көшіріп алу
 content-sharing-modal-generating-page =
     .label = Бетті генерациялау…
 content-sharing-modal-link-copied =
     .label = Сілтеме көшірілді
-content-sharing-modal-sign-in =
-    .label = Сілтемелерді бөлісу үшін жүйеге кіріңіз
-content-sharing-modal-title = Бұл сілтемелер жинағын кез келген браузерде бөлісіңіз
-content-sharing-modal-description = Осы сілтемелерді бөлісу үшін оңай және жалпыға қолжетімді бет жасаңыз. Жасалған бетті өңдеу немесе өшіру мүмкін емес және оның жарамдылық мерзімі 7 күннен кейін жоғалады.
 content-sharing-modal-policy = Бөлісу арқылы сіз біздің <a data-l10n-name="aup-link">Қабылдауға болатын пайдалану саясатымызға</a> келісесіз.
-# This is a warning to the user when they try to share more than the maximum
-# number of links and that the first N links will be shared.
-# The current max is 30.
-content-sharing-modal-too-many-links =
-    { $count ->
-       *[other] Ең көбі { $count } сілтеме ғана қосылады
-    }
-content-sharing-modal-generic-error =
-    .heading = Бірнәрсе қате кетті
-    .message = Кейінірек қайталап көріңіз.

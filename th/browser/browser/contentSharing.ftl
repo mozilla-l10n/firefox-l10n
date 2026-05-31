@@ -8,21 +8,8 @@
 
 content-sharing-modal-more-tabs = + อีก { $count } แท็บ
 content-sharing-tabs-title = { $count } แท็บ
-content-sharing-modal-view-page =
-    .label = ดูหน้า
 content-sharing-modal-copy-link =
     .label = คัดลอกลิงก์
 content-sharing-modal-link-copied =
     .label = คัดลอกลิงก์แล้ว
-content-sharing-modal-sign-in =
-    .label = ลงชื่อเข้าเพื่อแบ่งปันลิงก์
-content-sharing-modal-title = แบ่งปันการรวบรวมลิงก์นี้ไปที่เบราว์เซอร์ใดก็ได้
-content-sharing-modal-description = สร้างหน้าสาธารณะสำหรับลิงก์เหล่านี้เพื่อให้ง่ายต่อการแบ่งปัน เมื่อสร้างแล้วหน้านี้จะไม่สามารถถูกแก้ไขหรือลบได้ และจะหมดอายุภายใน 7 วัน
 content-sharing-modal-policy = เมื่อคุณทำการแบ่งปัน ถือว่าคุณยอมรับ<a data-l10n-name="aup-link">นโยบายการใช้งานที่ยอมรับได้</a>
-# This is a warning to the user when they try to share more than the maximum
-# number of links and that the first N links will be shared.
-# The current max is 30.
-content-sharing-modal-too-many-links = จำกัดการแบ่งปันลิงก์สูงสุด { $count } รายการแรกเท่านั้น
-content-sharing-modal-generic-error =
-    .heading = มีบางอย่างผิดพลาด
-    .message = ลองใหม่อีกครั้งในภายหลัง

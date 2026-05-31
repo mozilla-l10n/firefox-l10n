@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = Dopre la nestre gnove <a data-l1
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Zonte un altri nivel di riservatece
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra varis lûcs par rindi plui riservade la tô ativitât in rêt.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra 5 posizions par navigâ cun plui riservatece.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts, ancje cuant tu sês intun barcon privât .
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = Gjave VPN de sbare d
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Gjave VPN de sbare dai struments
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra 5 posizions par navigâ cun plui riservatece.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Sielç dulà doprâ la VPN
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = Capît
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novitât: cambie la tô posizion
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade in { -brand-product-name }</a> ti permet di sielzi tra diviersis posizions di navigazion, se no lasse che o sedin nô a sielzi chê plui svelte.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> ti permet di sielzi tra 5 posizions di navigazion, opûr lasse a nô la sielte di chê plui svelte par te.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade in { -brand-product-name }</a> ti permet di sielzi tra diviersis posizions di navigazion, se no lasse che o sedin nô a sielzi chê plui svelte.
 ipprotection-location-selection-callout-primary-button = Provile
 ipprotection-location-selection-callout-secondary-button = Ignore
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = Ignore
 unauthenticated-vpn-title = Prove la VPN integrade di { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Plate la tô posizion</a> intant che tu navighis in { -brand-product-name }.
 unauthenticated-private-location-message = Jude a <a data-l10n-name="learn-more-vpn">tignî riservade la tô posizion</a> in { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Sielç tra diviersis posizions o lasse che { -brand-product-name } al sielzi chê plui svelte.
 unauthenticated-choose-location-message = Sielç tra 5 posizions o lasse a { -brand-product-name } la sielte di chê plui svelte.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Oten { $maxUsage } GB di VPN gratuits ogni mês.
+unauthenticated-choose-location-message-1 = Sielç tra diviersis posizions o lasse che { -brand-product-name } al sielzi chê plui svelte.
 unauthenticated-get-started = Scomence
 unauthenticated-terms-of-service-privacy-notice = Continuant, tu acetis lis <a data-l10n-name="vpn-terms-of-service">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="vpn-privacy-notice">informative su la riservatece</a>.
 site-exclusion-toggle-enabled-1 =

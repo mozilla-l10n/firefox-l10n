@@ -18,12 +18,7 @@ content-sharing-tabs-title =
         [few] { $count } kartice
        *[other] { $count } kartica
     }
-content-sharing-modal-view-page =
-    .label = Prikaži stranicu
 content-sharing-modal-copy-link =
     .label = Kopiraj poveznicu
 content-sharing-modal-link-copied =
     .label = Poveznica je kopirana
-content-sharing-modal-sign-in =
-    .label = Prijavi se za dijeljenje poveznica
-content-sharing-modal-title = Dijeli ovu zbirku poveznica u bilo kojem pregledniku

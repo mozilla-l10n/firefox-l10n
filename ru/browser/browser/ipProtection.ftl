@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = Используйте наш н
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Добавьте ещё один уровень приватности
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из нескольких местоположений, чтобы обеспечить приватность вашего веб-сёрфинга.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из 5 местоположений, чтобы повысить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = Убрать VPN с 
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Убрать VPN с панели инструментов
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из 5 местоположений, чтобы повысить приватность вашего веб-сёрфинга.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Выберите, где вы используете VPN
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = Понятно
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Новинка: Измените свое местоположение
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name } VPN</a> позволяет вам выбрать одно из 5 местоположений или позволить нам выбрать самое быстрое для вас.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name } VPN</a> позволяет вам выбрать одно из 5 местоположений или позволить нам выбрать самое быстрое для вас.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name } VPN</a> позволяет вам выбрать одно из 5 местоположений или позволить нам выбрать самое быстрое для вас.
 ipprotection-location-selection-callout-primary-button = Попробовать
 ipprotection-location-selection-callout-secondary-button = Убрать
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = Убрать
 unauthenticated-vpn-title = Попробуйте VPN, встроенный в { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Скройте своё местоположение</a> при просмотре через { -brand-product-name }.
 unauthenticated-private-location-message = Помогает <a data-l10n-name="learn-more-vpn">сохранить ваше местоположение приватным</a> в { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Выберите нужное вам местоположение или позвольте { -brand-product-name } выбрать самое быстрое.
 unauthenticated-choose-location-message = Выберите одно из 5 местоположений или позвольте { -brand-product-name } выбрать самое быстрое.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Получайте { $maxUsage } ГБ бесплатных VPN-данных каждый месяц.
+unauthenticated-choose-location-message-1 = Выберите нужное вам местоположение или позвольте { -brand-product-name } выбрать самое быстрое.
 unauthenticated-get-started = Начать
 unauthenticated-terms-of-service-privacy-notice = Продолжая, вы принимаете <a data-l10n-name="vpn-terms-of-service">Условия использования</a> и <a data-l10n-name="vpn-privacy-notice">Уведомление о конфиденциальности</a>.
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = Встроенный VPN
     .description = Получите дополнительную приватность, скрыв ваше местоположение во время веб-сёрфинга.
 ip-protection-learn-more = Подробнее
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = Попробуйте VPN, встроенный в { -brand-short-name }
-    .message = Сёрфите с дополнительной защитой, скрывая своё местоположение.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Попробуйте VPN, встроенный в { -brand-short-name }
     .message = Работайте в интернете с дополнительной защитой, скрывая своё местоположение. Получайте { $maxUsage } ГБ бесплатных VPN-данных каждый месяц.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Попробуйте VPN, встроенный в { -brand-short-name }
+    .message = Сёрфите с дополнительной защитой, скрывая своё местоположение.
 ip-protection-not-opted-in-button = Начало работы
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -11,8 +11,6 @@ content-sharing-tabs-title =
         [one] { $count } варақа
        *[other] { $count } варақа
     }
-content-sharing-modal-view-page =
-    .label = Дидани саҳифа
 content-sharing-modal-copy-link =
     .label = Нусха бардоштани пайванд
 content-sharing-modal-link-copied =

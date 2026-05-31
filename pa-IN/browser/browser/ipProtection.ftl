@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = VPN ਪੇਸ਼ ਹੈ, ਹੁਣ ਤੁ
 ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਹੋਰ ਪਰਤ ਜੋੜੋ
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਦਾ ਵਿਚੇ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ 5 ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ।
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-description-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋਵੋ।
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਦਾ ਵਿਚੇ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ 5 ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ।
 
 ## Site settings callout
 

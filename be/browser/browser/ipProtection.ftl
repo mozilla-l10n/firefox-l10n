@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпе
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце сярод 5 месцаў, каб трымаць больш прыватным, адкуль вы аглядаеце.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Выдаліць VPN з паліцы прылад
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Выдаліць VPN з паліцы прылад
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце сярод 5 месцаў, каб трымаць больш прыватным, адкуль вы аглядаеце.
 
 ## Site settings callout
 

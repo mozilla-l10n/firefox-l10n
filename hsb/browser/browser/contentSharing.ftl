@@ -20,29 +20,10 @@ content-sharing-tabs-title =
         [few] { $count } rajtarki
        *[other] { $count } rajtarkow
     }
-content-sharing-modal-view-page =
-    .label = Stronu pokazać
 content-sharing-modal-copy-link =
     .label = Wotkaz kopěrować
 content-sharing-modal-generating-page =
     .label = Strona so generuje…
 content-sharing-modal-link-copied =
     .label = Wotkaz je kopěrowany
-content-sharing-modal-sign-in =
-    .label = Přizjewće so, zo byšće wotkazy dźělił
-content-sharing-modal-title = Tutu zběrku wotkazow w kóždym wobhladowaku dźělić
-content-sharing-modal-description = Wutworće zjawnu stronu za tute wotkazy, da so lochko dźělić. Hdyž je wutworjena, njeda so strona wobdźěłać abo zhašeć a spadnje za 7 dnjow.
 content-sharing-modal-policy = Hdyž dźěliće, zwoliće do našich <a data-l10n-name="aup-link">wužiwanskich prawidłow</a>
-# This is a warning to the user when they try to share more than the maximum
-# number of links and that the first N links will be shared.
-# The current max is 30.
-content-sharing-modal-too-many-links =
-    { $count ->
-        [one] Jenož maksimalnje { $count } wotkaz so zapřijima
-        [two] Jenož maksimalnje { $count } wotkazaj so zapřijimatej
-        [few] Jenož maksimalnje { $count } wotkazy so zapřijimaja
-       *[other] Jenož maksimalnje { $count } wotkazow so zapřijima
-    }
-content-sharing-modal-generic-error =
-    .heading = Něšto je so nimokuliło
-    .message = Spytajće pozdźišo hišće raz.

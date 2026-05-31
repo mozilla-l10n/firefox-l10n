@@ -28,7 +28,6 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere steder for å gjøre hvor du surfer mer privat.
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> bidrar til å beskytte surfingen din. Velg mellom 5 steder for å holde hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,6 +48,10 @@ ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra verkt�
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra verktøylinjen
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> bidrar til å beskytte surfingen din. Velg mellom 5 steder for å holde hvor du surfer mer privat.
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Velg hvor du bruker VPN
@@ -58,8 +61,8 @@ ipprotection-site-settings-callout-button = Jeg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyhet: Bytt plassering
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lar deg velge mellom flere steder å surfe fra, eller la oss velge det raskeste for deg.
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lar deg velge mellom 5 steder å surfe fra, eller la oss velge det raskeste for deg.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lar deg velge mellom flere steder å surfe fra, eller la oss velge det raskeste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
 
@@ -69,11 +72,11 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringen din</a> mens du surfer i { -brand-product-name }.
 unauthenticated-private-location-message = Bidrar til å <a data-l10n-name="learn-more-vpn">holde plasseringen din privat</a> i { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Velg mellom flere steder å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
 unauthenticated-choose-location-message = Velg mellom 5 steder å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data hver måned.
+unauthenticated-choose-location-message-1 = Velg mellom flere steder å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å fortsette aksepterer du våre <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">personvernbestemmelser</a>.
 site-exclusion-toggle-enabled-1 =
@@ -202,11 +205,6 @@ ip-protection-description-1 =
     .label = Innebygd VPN
     .description = Få ekstra personvern ved å skjule plasseringen din mens du surfer.
 ip-protection-learn-more = Les mer
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-4 =
-    .heading = Prøv { -brand-short-name } sin innebygde VPN
-    .message = Surf med ekstra beskyttelse ved å skjule posisjonen din.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -217,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Surf med ekstra beskyttelse ved å skjule plasseringen din. Få { $maxUsage } GB gratis VPN-data hver måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Prøv { -brand-short-name } sin innebygde VPN
+    .message = Surf med ekstra beskyttelse ved å skjule posisjonen din.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

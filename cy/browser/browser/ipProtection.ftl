@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
-ipprotection-feature-introduction-link-text-privacy = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o 5 lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Tynnu VPN o'r bar offer
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Tynnu VPN o'r bar offer
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o 5 lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 
 ## Site settings callout
 

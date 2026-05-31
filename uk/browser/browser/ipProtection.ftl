@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Представляємо VPN, теп
 ipprotection-feature-introduction-link-text-2 = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Додайте ще один рівень приватності
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Вбудована VPN від { -brand-product-name }</a> допомагає захистити вас під час вебперегляду. Виберіть одне з 5 розташувань, щоб забезпечити вдосконалену приватність.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані, навіть в режимі приватного перегляду.
 ipprotection-feature-introduction-description-private-browsing = Переглядайте вебсторінки з додатковим захистом, приховуючи своє розташування, навіть у режимі приватного перегляду.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Вилучити VPN з панелі інструментів
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Вилучити VPN з панелі інструментів
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Вбудована VPN від { -brand-product-name }</a> допомагає захистити вас під час вебперегляду. Виберіть одне з 5 розташувань, щоб забезпечити вдосконалену приватність.
 
 ## Site settings callout
 

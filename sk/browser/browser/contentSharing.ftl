@@ -20,13 +20,7 @@ content-sharing-tabs-title =
         [many] { $count } kariet
        *[other] { $count } kariet
     }
-content-sharing-modal-view-page =
-    .label = Zobraziť stránku
 content-sharing-modal-copy-link =
     .label = Kopírovať odkaz
 content-sharing-modal-link-copied =
     .label = Odkaz bol skopírovaný
-content-sharing-modal-sign-in =
-    .label = Prihláste sa a zdieľajte odkazy
-content-sharing-modal-title = Zdieľajte túto kolekciu odkazov v ľubovoľnom prehliadači
-content-sharing-modal-description = Vytvorte pre tieto odkazy verejnú stránku, ktorú je možné jednoducho zdieľať. Po vytvorení stránku nie je možné upravovať ani mazať a jej platnosť vyprší o 7 dní.

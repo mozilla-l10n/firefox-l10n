@@ -27,7 +27,6 @@ ipprotection-feature-introduction-title = Îți prezentăm VPN-ul, acum direct �
 ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de confidențialitate
-ipprotection-feature-introduction-link-text-privacy = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre 5 locații pentru confidențialitatea locurilor pe unde mergi pe internet.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -45,6 +44,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Elimină VPN-ul din bara de instrumente
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimină VPN-ul din bara de instrumente
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-link-text-privacy = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre 5 locații pentru confidențialitatea locurilor pe unde mergi pe internet.
 
 ## Site settings callout
 
