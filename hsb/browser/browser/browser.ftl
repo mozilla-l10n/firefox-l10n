@@ -414,6 +414,9 @@ quickactions-cmd-help = pomoc, podpěra
 # Opens the devtools web inspector
 quickactions-inspector2 = Wuwiwarske nastroje wočinić
 quickactions-cmd-inspector2 = inspektor, wuwiwarske nastroje, devtools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Wubjerće barbu
+quickactions-cmd-colorpicker = wuběrak barbow, barbowa pipeta, barbu wubrać
 # Opens Firefox Library
 quickactions-cmd-library = biblioteka
 quickactions-library = Biblioteku wočinić

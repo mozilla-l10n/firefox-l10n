@@ -216,6 +216,9 @@ protections-vpn-title = 브라우저 그 이상의 개인 정보 보호
 protections-vpn-header-content = { -mozilla-vpn-brand-name }으로 기기 전체를 보호하세요. 탭 한 번으로 모든 트래픽을 암호화하고 위치를 숨길 수 있습니다.
 protections-get-vpn-link = { -mozilla-vpn-brand-name } 받기
 protections-vpn-title-subscribed = VPN: 구독 중
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed = { -mozilla-vpn-brand-name }을 사용하면 최대 { $count }대의 기기에서 모든 트래픽이 암호화되고 위치가 숨겨집니다. 구독 혜택을 최대한 누려보세요. <a data-l10n-name="playstore-link">Google Play 스토어</a> 또는 <a data-l10n-name="appstore-link">Apple App Store</a>에서 앱을 추가할 수 있습니다.
 protections-vpn-banner-header = 브라우저 그 이상의 보호 기능
 protections-vpn-banner-content = 위험 부담 없이 { -mozilla-vpn-brand-name }을 체험해 보세요. TechRadar가 "빠른 속도, 간결함, 그리고 저렴한 월 요금 덕분에 충분히 주목할 가치가 있다"라고 평가한 이유를 직접 확인하실 수 있습니다.
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } 받기

@@ -20,12 +20,18 @@ content-sharing-tabs-title =
         [few] { $count } rajtarki
        *[other] { $count } rajtarkow
     }
+content-sharing-modal-view-page-2 =
+    .label = Přehlad strony pokazać
 content-sharing-modal-copy-link =
     .label = Wotkaz kopěrować
 content-sharing-modal-generating-page =
     .label = Strona so generuje…
 content-sharing-modal-link-copied =
     .label = Wotkaz je kopěrowany
+content-sharing-modal-sign-in-2 =
+    .label = Přizjewće so, zo byšće dźělił
+content-sharing-modal-title-2 = Tute strony z druhimi dźělić
+content-sharing-modal-title-signed-in = Waše wotkazy su hotowe za dźělenje
 content-sharing-modal-policy = Hdyž dźěliće, zwoliće do našich <a data-l10n-name="aup-link">wužiwanskich prawidłow</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
@@ -37,3 +43,18 @@ content-sharing-modal-too-many-links-2 =
         [few] Jenož { $count } wotkazy so zapřijimaja
        *[other] Jenož { $count } wotkazow so zapřijima
     }
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Sće { $count } stronu dźělił
+            [two] Sće { $count } stronje dźělił
+            [few] Sće { $count } strony dźělił
+           *[other] Sće { $count } stronow dźělił
+        }
+    .message = Spytajće to hišće raz, po tym zo je jedna z wašich stronow spadnyła.
+content-sharing-modal-some-invalid-links = Někotre wotkazy njedadźa so dźělić.
+content-sharing-modal-generic-error-2 =
+    .heading = Něšto je so nimokuliło
+    .message = Njemóžachmy wašu dźělenu stronu tónkróć wutworić. Spytajće pozdźišo hišće raz.
