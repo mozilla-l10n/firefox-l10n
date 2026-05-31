@@ -24,20 +24,17 @@ content-sharing-modal-sign-in-2 =
     .label = Connectez-vous pour partager
 content-sharing-modal-title-2 = Partagez ces pages avec n’importe qui
 content-sharing-modal-title-signed-in = Vos liens sont prêts à être partagés
-content-sharing-modal-description-2 = Connectez-vous pour créer une page de liens facile à partager. Il ne peut pas être modifié ou supprimé et expire après 7 jours.
-content-sharing-modal-description-signed-in = Nous avons créé une page facile à partager avec vos liens. Il ne peut pas être modifié ou supprimé et expire après 7 jours.
+content-sharing-modal-description-2 = Connectez-vous pour créer une page simple à partager contenant vos liens. Elle ne peut pas être modifiée ni supprimée et expirera après 7 jours.
+content-sharing-modal-description-signed-in = Nous avons généré une page simple à partager contenant vos liens. Elle ne peut pas être modifiée ni supprimée et expirera après 7 jours.
 content-sharing-modal-policy = En partageant, vous acceptez notre <a data-l10n-name="aup-link">Politique d’utilisation acceptable</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
 content-sharing-modal-too-many-links-2 =
     { $count ->
-        [one] Seuls { $count } liens seront inclus
+        [one] Seul { $count } lien sera inclus
        *[other] Seuls { $count } liens seront inclus
     }
-content-sharing-modal-no-shareable-links =
-    .heading = Aucun lien de partage inclus
-    .message = Seuls les liens vers du contenu web peuvent être partagés.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

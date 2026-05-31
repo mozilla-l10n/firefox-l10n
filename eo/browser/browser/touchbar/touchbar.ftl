@@ -16,7 +16,7 @@ add-bookmark = Aldoni legosignon
 reader-view = Legila vido
 # Meant to match the string displayed in an empty URL bar.
 open-location = Serĉu ion aŭ tajpu adreson
-share = Kundividi
+share = Dividi
 close-window = Fermi fenestron
 open-sidebar = Flankaj strioj
 # This string describes shortcuts for search.
