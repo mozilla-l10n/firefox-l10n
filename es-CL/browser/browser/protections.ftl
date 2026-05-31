@@ -248,6 +248,16 @@ privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastread
 ## VPN promo card and banner
 
 protections-vpn-title = Lleva la protección de la privacidad más allá del navegador.
+protections-vpn-header-content = Protege todo tu dispositivo con { -mozilla-vpn-brand-name }. Con un solo toque, cifra todo el tráfico y oculta tu ubicación.
 protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Suscrito
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Usar { -mozilla-vpn-brand-name } cifra todo tu tráfico y oculta tu ubicación en hasta { $count } dispositivo. Sácale el máximo partido a tu suscripción: añádela desde <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Usar { -mozilla-vpn-brand-name } cifra todo tu tráfico y oculta tu ubicación en hasta { $count } dispositivos. Sácale el máximo partido a tu suscripción: añádela desde <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Protección que va más allá del navegador.
+protections-vpn-banner-content = Prueba { -mozilla-vpn-brand-name } sin riesgos y descubre por qué TechRadar dice que "su velocidad, simplicidad y bajo precio mensual hacen que valga la pena echarle un vistazo".
 protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }
