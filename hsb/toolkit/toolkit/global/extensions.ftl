@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Wotpokazać
     .accesskey = W
 webext-perms-host-description-all-urls = Mějće přistup k swojim datam za wšě websydła
+webext-perms-host-description-file-urls = Přistup k lokalnym datajam na wašim ličaku
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Mějće přistup k swojim datam za sydła w domenje { $domain }

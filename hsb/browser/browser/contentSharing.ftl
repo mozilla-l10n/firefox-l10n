@@ -43,6 +43,9 @@ content-sharing-modal-too-many-links-2 =
         [few] Jenož { $count } wotkazy so zapřijimaja
        *[other] Jenož { $count } wotkazow so zapřijima
     }
+content-sharing-modal-no-shareable-links =
+    .heading = Žane dźělomne wotkazy zapřijate
+    .message = Jenož wotkazy k webwobsahej dadźa so dźělić.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

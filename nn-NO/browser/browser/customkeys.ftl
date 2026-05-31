@@ -37,6 +37,14 @@ customkeys-nav-home = Heim
 customkeys-nav-reload = Oppdater
 customkeys-nav-reload-skip-cache = Last inn på nytt (overstyr hurtiglager)
 customkeys-nav-stop = Stopp
+customkeys-nav-select-tab-1 = Gå til fane 1
+customkeys-nav-select-tab-2 = Gå til fane 2
+customkeys-nav-select-tab-3 = Gå til fane 3
+customkeys-nav-select-tab-4 = Gå til fane 4
+customkeys-nav-select-tab-5 = Gå til fane 5
+customkeys-nav-select-tab-6 = Gå til fane 6
+customkeys-nav-select-tab-7 = Gå til fane 7
+customkeys-nav-select-tab-8 = Gå til fane 8
 customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere annleis enn forventa.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
