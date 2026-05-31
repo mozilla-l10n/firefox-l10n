@@ -247,7 +247,7 @@ privacy-metrics-private-window = { -brand-short-name } continue de bloquer les t
 
 ## VPN promo card and banner
 
-protections-vpn-title = La protection de la vie privée au-delà du navigateur
+protections-vpn-title = Protégez votre vie privée au-delà du navigateur
 protections-vpn-header-content = Protégez l’ensemble de votre appareil avec { -mozilla-vpn-brand-name }. Un appui chiffre l’ensemble du trafic et masque votre localisation.
 protections-get-vpn-link = Obtenir { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN : Abonné
