@@ -15,5 +15,7 @@ set-password-meter = Lapim kit me mung me donyo
 set-password-meter-loading = Cano
 remove-info =
     .value = Myero i ket mung me donyo matye wek i mede anyim:
+remove-password-old =
+    .label = Mung me donyo matye:
 remove-password-old-password =
     .value = Mung me donyo matye:
