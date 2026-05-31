@@ -31,5 +31,7 @@ remove-info =
     .value = Tu debe inserer tu actual contrasigno pro continuar:
 remove-primary-password-warning1 = Tu contrasigno primari servi a proteger le informationes sensibile como credentiales e contrasignos.
 remove-primary-password-warning2 = Si tu remove tu contrasigno primari, tu informationes non essera plus protegite si tu computator es compromittite.
+remove-password-old =
+    .label = Contrasigno actual:
 remove-password-old-password =
     .value = Contrasigno actual:
