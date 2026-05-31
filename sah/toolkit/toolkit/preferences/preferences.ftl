@@ -5,7 +5,7 @@
 pw-change-failed-title = Киирии тыл уларыйбата
 pw-remove-button =
     .label = Сот
-
+set-password-reenter =
+    .label = Киирии тылы саҥаттан киллэр:
 set-password-reenter-password = Киирии тылы саҥаттан киллэр:
 set-password-meter-loading = Хачайдааһын
-
