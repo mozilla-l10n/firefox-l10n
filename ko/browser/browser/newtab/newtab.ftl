@@ -825,6 +825,14 @@ newtab-widget-section-menu-manage = 위젯 관리
 newtab-widget-section-menu-hide-all = 위젯 숨기기
 newtab-widget-section-menu-learn-more = 더 알아보기
 newtab-widget-section-feedback = 의견을 알려주세요
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = 위젯 더보기
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = 위젯 접기
 newtab-widget-lists-name-default = 체크리스트
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1031,6 +1039,8 @@ newtab-sports-widget-world-cup-champions = 2026년 월드컵 우승팀
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = 경기 종료
+newtab-sports-widget-match-halftime = 하프타임
+newtab-sports-widget-match-extra-time = 연장전
 newtab-sports-widget-match-penalties = 페널티
 
 ## Accessible labels for match rows in the sports widget. These are read by

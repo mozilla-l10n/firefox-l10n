@@ -416,7 +416,7 @@ quickactions-inspector2 = Öppna utvecklarverktyg
 quickactions-cmd-inspector2 = inspektör, utvecklingsverktyg, devtools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Välj en färg
-quickactions-cmd-colorpicker = colorpicker, pipett, välj color
+quickactions-cmd-colorpicker = färgväljare, pipett, välj färg
 # Opens Firefox Library
 quickactions-cmd-library = biblioteket
 quickactions-library = Öppna biblioteket

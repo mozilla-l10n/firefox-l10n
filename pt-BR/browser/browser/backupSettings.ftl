@@ -53,7 +53,7 @@ settings-data-backup-restore-scheduled-on =
     .label = Restaurar dados
     .description = Recuperar os dados do { -brand-product-name } da última vez que foram salvos.
 settings-data-backup-restore-scheduled-off =
-    .label = Restaurar seus dados
+    .label = Restaurar dados
     .description = Usar um backup do { -brand-product-name } de outro dispositivo para restaurar seus dados.
 
 ##
@@ -101,7 +101,7 @@ turn-off-scheduled-backups-confirm-button = Desativar e excluir backup
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
-restore-from-backup-header = Restaurar seus dados
+restore-from-backup-header = Restaurar dados
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = O que será restaurado?
@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Como restaurar:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Abra o menu do aplicativo ☰ e vá em Configurações > Sincronização
+backup-file-moz-browser-restore-step-2-1 = Clique em “Restaurar dados” e selecione este arquivo
 backup-file-moz-browser-restore-step-2 = Clique em “Escolher arquivo de backup” e selecione este arquivo
 backup-file-moz-browser-restore-step-3 = Reinicie o { -brand-short-name } quando solicitado
 backup-file-other-browser-restore-step-1 = Baixe e instale o { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Baixar
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Inicie o { -brand-short-name }, abra o menu do aplicativo ☰ e vá em Configurações > Sincronização
+backup-file-other-browser-restore-step-3-1 = Clique em “Restaurar dados” e selecione este arquivo
 backup-file-other-browser-restore-step-3 = Clique em “Escolher arquivo de backup” e selecione este arquivo
 backup-file-other-browser-restore-step-4 = Reinicie o { -brand-short-name } quando solicitado
 

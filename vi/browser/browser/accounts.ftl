@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Kết nối thiết bị khác…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Tài khoản chưa được xác thực
+account-send-tab-to-device-verify2 = Xác minh tài khoản của bạn
 account-send-tab-to-device-verify = Xác minh tài khoản của bạn…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

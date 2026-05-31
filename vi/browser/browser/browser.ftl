@@ -414,6 +414,7 @@ quickactions-cmd-help = trợ giúp, hỗ trợ, tro giup, ho tro
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector2 = trình kiểm tra, trinh kiem tra, devtools, dev tools
+quickactions-cmd-colorpicker = chọn màu, eyedropper, chon mau, pick color, color picker
 # Opens Firefox Library
 quickactions-cmd-library = mo thu vien, thu vien, mở thư viện, thư viện, library
 quickactions-library = Mở thư viện

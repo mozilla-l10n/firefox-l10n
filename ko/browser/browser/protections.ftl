@@ -209,3 +209,7 @@ privacy-metrics-empty = 이번 주는 차단된 추적기가 없습니다. { -br
 privacy-metrics-loading = 보호 통계 로드 중…
 privacy-metrics-error = 보호 통계를 로드할 수 없습니다.
 privacy-metrics-private-window = { -brand-short-name }는 사생활 보호 창에서 추적기를 계속 차단하지만, 차단 된 내용은 기록하지 않습니다.
+
+## VPN promo card and banner
+
+protections-vpn-title = 브라우저 그 이상의 개인 정보 보호

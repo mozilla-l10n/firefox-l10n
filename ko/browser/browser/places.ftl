@@ -263,5 +263,10 @@ places-search-downloads =
 
 places-locked-prompt = { -brand-short-name } 파일을 다른 애플리케이션이 사용하고 있기 때문에 북마크와 기록이 없어진 것처럼 보일 수 있습니다. 이 오류는 보안 소프트웨어가 원인일 수 있습니다.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = 폴더 공유
+    .badge = 신규
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = 폴더 공유

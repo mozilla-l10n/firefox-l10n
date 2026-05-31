@@ -17,7 +17,7 @@ content-sharing-tabs-title =
        *[other] { $count } flikar
     }
 content-sharing-modal-view-page-2 =
-    .label = Förhandsgranskningssida
+    .label = Förhandsgranska sida
 content-sharing-modal-copy-link =
     .label = Kopiera länk
 content-sharing-modal-generating-page =
@@ -26,8 +26,6 @@ content-sharing-modal-link-copied =
     .label = Länk kopierad
 content-sharing-modal-sign-in-2 =
     .label = Logga in för att dela
-content-sharing-modal-title-2 = Dela dessa sidor med någon
-content-sharing-modal-title-signed-in = Dina länkar är redo att delas
 content-sharing-modal-description-2 = Logga in för att skapa en länksida som är enkel att dela. Den kan inte redigeras eller raderas och upphör efter 7 dagar.
 content-sharing-modal-description-signed-in = Vi gjorde en lätt att dela sida med dina länkar. Den kan inte redigeras eller raderas och upphör efter 7 dagar.
 content-sharing-modal-policy = Genom att dela, godkänner du vår <a data-l10n-name="aup-link">policy för acceptabel användning</a>
