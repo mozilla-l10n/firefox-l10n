@@ -31,5 +31,7 @@ remove-info =
     .value = اڳوں تے ودھݨ کیتے تہاکوں اپݨا موجودہ پاس ورڈ درج کرݨا پوسے:
 remove-primary-password-warning1 = تہاݙا منڈھلا پاس ورڈ لاگ ان تے پاس ورڈ جیہیں حساس معلومات دی حفاظت کیتے استعمال تھیندا ہے۔
 remove-primary-password-warning2 = جے تساں اپݨا منڈھلا پاس ورڈ ہٹا ݙیندے او تاں تہاݙیاں معلومات محفوظ کائنا رہسن جے تہاݙے کمپیوٹر نال سمجھوتہ کیتا ڳیا ہے۔
+remove-password-old =
+    .label = حالیہ پاس ورڈ:
 remove-password-old-password =
     .value = حالیہ پاس ورڈ:
