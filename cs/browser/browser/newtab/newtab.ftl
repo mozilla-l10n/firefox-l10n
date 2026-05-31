@@ -893,6 +893,11 @@ newtab-daily-briefing-card-timestamp = Aktualizováno před { $minutes } min.
 newtab-widget-message-title = Soustřeďte se díky seznamům a vestavěnému časovači
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od rychlých připomínek po každodenní úkoly, od soustředění po přestávky na protažení - plňte úkoly včas.
+newtab-widget-message-focus-forecasts-body =
+    { -brand-product-name.case-status ->
+        [with-cases] Udržte si plynulý průběh dne díky widgetům { -brand-product-name(case: "gen") }. Podívejte se na předpověď počasí, soustřeďte se na práci nebo sledujte čas v různých částech světa.
+       *[no-cases] Udržte si plynulý průběh dne díky widgetům aplikace { -brand-product-name }. Podívejte se na předpověď počasí, soustřeďte se na práci nebo sledujte čas v různých částech světa.
+    }
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1160,6 +1165,11 @@ newtab-sports-widget-message-wallpapers-body = Vneste do svého prohlížeče tr
 newtab-sports-widget-message-wallpapers-cta = Zvolte si tapetu
 newtab-sports-widget-message-add-widgets-cta =
     .label = Přidat widgety
+newtab-sports-widget-message-day-in-play-title =
+    { -brand-product-name.case-status ->
+        [with-cases] Udržte svůj den v pohybu díky widgetům { -brand-product-name(case: "gen") }
+       *[no-cases] Udržte svůj den v pohybu díky widgetům aplikace { -brand-product-name }
+    }
 newtab-sports-widget-message-day-in-play-body = Sledujte mistrovství světa, soustřeďte se na své úkoly, sledujte čas v různých částech světa a mnoho dalšího.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Prozkoumejte widgety
