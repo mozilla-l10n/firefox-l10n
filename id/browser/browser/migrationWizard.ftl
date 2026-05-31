@@ -188,6 +188,12 @@ migration-safari-password-import-step1 = Di Safari, buka menu “Safari” dan b
 migration-safari-password-import-step2 = Pilih tombol <img data-l10n-name="safari-icon-3dots"/> dan pilih “Ekspor Semua Kata Sandi”
 migration-safari-password-import-step3 = Simpan berkas sandi
 migration-safari-password-import-step4 = Gunakan “Pilih Berkas” di bawah ini untuk memilih berkas tempat Anda menyimpan kata sandi
+migration-chrome-windows-password-import-header = Cara mengimpor sandi dari Chrome
+migration-chrome-windows-password-import-steps-header = Di Chrome:
+migration-chrome-windows-password-import-step1 = Buka menu utama <img data-l10n-name="chrome-icon-3dots"/> dan pergi ke Sandi dan Isi Otomatis > Manajer Sandi Google.
+migration-chrome-windows-password-import-step2 = Pilih "Pengaturan" dari menu.
+migration-chrome-windows-password-import-step3 = Pilih “Unduh berkas” dan simpan ke perangkat Anda.
+migration-chrome-windows-password-import-step4 = Kembali ke sini dan “Pilih berkas” untuk menyelesaikan impor.
 migration-manual-password-import-skip-button = Lewati
 migration-manual-password-import-select-button = Pilih Berkas
 migration-safari-password-import-skip-button = Lewati

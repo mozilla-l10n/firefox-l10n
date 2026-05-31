@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Tetapkan kebijakan yang dapat diakses WebExtensions melalui chrome.storage.managed.
+policy-AIControls = Konfigurasikan kontrol AI.
 policy-AllowedDomainsForApps = Tentukan domain yang diizinkan untuk mengakses Google Workspace.
 policy-AllowFileSelectionDialogs = Izinkan dialog pemilihan berkas.
 policy-AppAutoUpdate = Aktifkan atau nonaktifkan pembaruan aplikasi otomatis.
@@ -36,6 +37,7 @@ policy-Containers = Tetapkan kebijakan yang terkait dengan kontainer.
 policy-DisableAccounts = Nonaktifkan layanan berbasis akun, termasuk sinkronisasi.
 policy-DisabledCiphers = Nonaktifkan ciphers.
 policy-DefaultDownloadDirectory = Atur direktori unduhan baku.
+policy-DefaultSerialGuardSetting = Kontrol penggunaan API Serial.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
 policy-DisableBuiltinPDFViewer = Nonaktifkan PDF.js, penampil PDF bawaan di { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Cegah agen bawaan peramban untuk melakukan tindakan apapun. Hanya berlaku di Windows; platform lain tidak memiliki agen.
@@ -56,6 +58,8 @@ policy-DisablePocket2 = Nonaktifkan fitur untuk menyimpan laman web ke { -pocket
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
 policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dari peramban lainnya.
 policy-DisableProfileRefresh = Nonaktifkan tombol Segarkan { -brand-short-name } di laman about:support.
+policy-DisableRemoteImprovements = Cegah { -brand-short-name } menerapkan perubahan kinerja, stabilitas, dan fitur di antara pembaruan.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Nonaktifkan pengaturan jarak jauh.
 policy-DisableSafeMode = Nonaktifkan fitur untuk memulai ulang di Mode Aman. Catatan: Tombol Shift untuk masuk ke Mode Aman hanya dapat dinonaktifkan pada Windows menggunakan Kebijakan Grup.
 policy-DisableSecurityBypass = Mencegah pengguna melewati peringatan keamanan tertentu.
 policy-DisableSetAsDesktopBackground = Nonaktifkan perintah menu Jadikan sebagai Latar Belakang Desktop untuk gambar.
@@ -89,6 +93,7 @@ policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-HttpAllowlist = Asal yang tidak akan ditingkatkan ke HTTPS.
 policy-HttpsOnlyMode = Izinkan Mode Hanya HTTPS diaktifkan.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
+policy-IPProtectionAvailable = Cegah VPN bawaan agar tidak tersedia bagi pengguna.
 policy-LegacyProfiles = Nonaktifkan fitur yang memberlakukan profil terpisah pada setiap pemasangan.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -126,6 +131,7 @@ policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
 policy-PrivateBrowsingModeAvailability = Setel ketersediaan mode penjelajahan pribadi.
 policy-PromptForDownloadLocation = Tanyakan di mana berkas disimpan saat mengunduh.
 policy-Proxy = Atur setelan proxy.
+policy-RelaunchRequired = Mengharuskan { -brand-short-name } untuk diluncurkan kembali dalam periode tertentu dan memberi tahu pengguna tentang peluncuran ulang yang akan datang.
 policy-RequestedLocales = Atur daftar kode pelokalan yang diminta untuk aplikasi sesuai urutan.
 policy-SanitizeOnShutdown2 = Bersihkan data navigasi saat dimatikan
 policy-SearchBar = Setel lokasi bawaan untuk bilah pencarian. Pengguna masih diizinkan untuk mengubahsuainya.
@@ -134,6 +140,7 @@ policy-SearchSuggestEnabled = Aktifkan atau nonaktifkan saran pencarian.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Tambah atau hapus modul PKCS #11.
 policy-ShowHomeButton = Tampilkan tombol beranda pada bilah alat.
+policy-SitePolicies = Kebijakan spesifik situs.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Jangan tampilkan Ketentuan Penggunaan dan Pemberitahuan Privasi saat memulai. Anda menyatakan bahwa Anda menerima dan memiliki wewenang untuk menerima Ketentuan Penggunaan atas nama semua individu yang Anda beri akses ke peramban ini.
 policy-SSLVersionMax = Tetapkan versi SSL maksimum.
@@ -149,3 +156,5 @@ policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi
 policy-Windows10SSO = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Izinkan sistem masuk tunggal untuk akun Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Aktifkan atau nonaktifkan dukungan untuk XSLTProcessor JavaScript API dan instruksi pemrosesan XSLT.
