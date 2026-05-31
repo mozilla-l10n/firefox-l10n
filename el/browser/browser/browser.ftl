@@ -328,7 +328,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Αυτήν τη φορά, αναζήτηση με:
+search-one-offs-with-title = Τρέχουσα αναζήτηση με:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Αλλαγή ρυθμίσεων αναζήτησης
 search-one-offs-context-open-new-tab =
@@ -700,7 +700,7 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Εισαγωγή όρων αναζήτησης
+    .placeholder = Εισαγάγετε όρους αναζήτησης
     .aria-label = Αναζήτηση { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
@@ -716,7 +716,7 @@ urlbar-placeholder-search-mode-other-tabs =
     .aria-label = Αναζήτηση καρτελών
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Εισαγωγή όρων αναζήτησης
+    .placeholder = Εισαγάγετε όρους αναζήτησης
     .aria-label = Αναζήτηση ενεργειών
 # Variables
 #  $name (String): the name of the user's default search engine
@@ -966,7 +966,7 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Κλείσιμο
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
+urlbar-searchmode-popup-description = Τρέχουσα αναζήτηση με:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ρυθμίσεις αναζήτησης
 # Searchmode Switcher button
@@ -1005,7 +1005,7 @@ urlbar-searchmode-popup-add-engine = Προσθήκη «{ $engineName }»
     .title = Προσθήκη μηχανής αναζήτησης «{ $engineName }»
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-header = Αυτήν τη φορά αναζήτηση με:
+urlbar-searchmode-popup-one-off-header = Τρέχουσα αναζήτηση με:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Αναζήτηση με:
