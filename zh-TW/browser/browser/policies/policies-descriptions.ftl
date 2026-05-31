@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = 停用隱私瀏覽功能。
 policy-DisableProfileImport = 停用自其他瀏覽器匯入資料的選單功能。
 policy-DisableProfileRefresh = 停用 about:support 頁面中的「重新整理 { -brand-short-name }」按鈕。
 policy-DisableRemoteImprovements = 防止 { -brand-short-name } 在新版本推出前套用效能、穩定度與功能變更。
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = 停用遠端設定。
 policy-DisableSafeMode = 停用以安全模式重新啟動的功能。註：啟動時按住 Shift 鍵進入安全模式的功能，僅能於 Windows 使用群組原則停用。
 policy-DisableSecurityBypass = 防止使用者忽略某些安全性警告。
 policy-DisableSetAsDesktopBackground = 停用將圖片「設為桌布」的選單功能。

@@ -88,3 +88,6 @@ text-action-remove-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = 移除所有強調效果
+profile-window-menu-edit =
+    .label = 編輯
+    .accesskey = E

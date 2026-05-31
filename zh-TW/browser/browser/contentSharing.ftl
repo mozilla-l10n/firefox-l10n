@@ -8,10 +8,14 @@
 
 content-sharing-modal-more-tabs = +{ $count } 個
 content-sharing-tabs-title = { $count } 個分頁
+content-sharing-modal-view-page-2 =
+    .label = 預覽頁面
 content-sharing-modal-copy-link =
     .label = 複製鏈結
 content-sharing-modal-generating-page =
     .label = 正在產生頁面…
 content-sharing-modal-link-copied =
     .label = 已複製鏈結
+content-sharing-modal-sign-in-2 =
+    .label = 登入即可分享
 content-sharing-modal-policy = 若分享，代表您同意我們的<a data-l10n-name="aup-link">可接受的使用政策</a>

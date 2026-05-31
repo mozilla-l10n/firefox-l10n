@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = 拒絕
     .accesskey = D
 webext-perms-host-description-all-urls = 存取您所有網站中的資料
+webext-perms-host-description-file-urls = 存取您電腦上的檔案
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = 存取您在 { $domain } 網域中的資料

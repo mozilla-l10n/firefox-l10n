@@ -823,6 +823,14 @@ newtab-widget-section-menu-manage = 管理小工具
 newtab-widget-section-menu-hide-all = 隱藏小工具
 newtab-widget-section-menu-learn-more = 更多資訊
 newtab-widget-section-feedback = 告訴我們您的想法
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = 顯示更多小工具
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = 顯示更少小工具
 newtab-widget-lists-name-default = 檢查清單
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1029,6 +1037,7 @@ newtab-sports-widget-world-cup-champions = 2026 年世界盃足球賽冠軍
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = 終場
+newtab-sports-widget-match-extra-time = 加時
 newtab-sports-widget-match-penalties = PK 大戰
 
 ## Accessible labels for match rows in the sports widget. These are read by

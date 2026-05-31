@@ -255,8 +255,8 @@ protections-vpn-title-subscribed = VPN : abonné·e
 #   $count (number): Number of devices
 protections-vpn-header-content-subscribed =
     { $count ->
-        [one] L’utilisation de { -mozilla-vpn-brand-name } permet de chiffrer tout votre trafic et de masquer votre localisation sur un maximum de { $count } appareils. Tirez le meilleur parti de votre abonnement — ajoutez-le depuis <a data-l10n-name="playstore-link">Google Play Store</a> ou <a data-l10n-name="appstore-link">App Store d’Apple </a>.
-       *[other] L’utilisation de { -mozilla-vpn-brand-name } permet de chiffrer tout votre trafic et de masquer votre localisation sur un maximum de { $count } appareils. Tirez le meilleur parti de votre abonnement — ajoutez-le depuis <a data-l10n-name="playstore-link">Google Play Store</a> ou <a data-l10n-name="appstore-link">App Store d’Apple </a>.
+        [1] L’utilisation de { -mozilla-vpn-brand-name } permet de chiffrer tout votre trafic et de masquer votre localisation sur un seul appareil. Tirez le meilleur parti de votre abonnement ; installez-le depuis le <a data-l10n-name="playstore-link">Google Play Store</a> ou l’<a data-l10n-name="appstore-link">App Store d’Apple</a>.
+       *[other] L’utilisation de { -mozilla-vpn-brand-name } permet de chiffrer tout votre trafic et de masquer votre localisation sur un maximum de { $count } appareils. Tirez le meilleur parti de votre abonnement ; installez-le depuis le <a data-l10n-name="playstore-link">Google Play Store</a> ou l’<a data-l10n-name="appstore-link">App Store d’Apple</a>.
     }
 protections-vpn-banner-header = Une protection qui va au-delà du navigateur
 protections-vpn-banner-content = Essayez { -mozilla-vpn-brand-name } sans risque et voyez pourquoi TechRadar affirme : « sa rapidité, sa simplicité, et son tarif mensuel abordable valent le détour ».

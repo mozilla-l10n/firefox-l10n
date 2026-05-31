@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI 聊天機器人
 menu-view-contextual-password-manager =
     .label = 密碼
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = 開啟分頁
 sidebar-options-menu-button =
     .title = 開啟選單
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = 瀏覽紀錄
 sidebar-menu-synced-tabs-label =
     .label = 其他裝置的分頁
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = 開啟分頁
 sidebar-menu-bookmarks-label =
     .label = 書籤
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = 瀏覽紀錄
 sidebar-menu-syncedtabs-header =
     .heading = 其他裝置的分頁
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = 開啟分頁
 sidebar-menu-cpm-header =
     .heading = 密碼
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = 行動書籤
 sidebar-customize-title = 自訂側邊欄
 sidebar-history-title = 瀏覽紀錄
 sidebar-syncedtabs-title = 其他裝置的分頁
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = 開啟分頁
 
 ## Context for closing synced tabs when hovering over the items
 
