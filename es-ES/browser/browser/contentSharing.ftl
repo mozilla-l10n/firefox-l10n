@@ -42,3 +42,16 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = No se incluyen enlaces para compartir.
     .message = Solo se pueden compartir enlaces a contenido web.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Ha compartido { $count } página
+           *[other] Ha compartido { $count } páginas
+        }
+    .message = Vuelva a probar cuando una de sus páginas haya caducado.
+content-sharing-modal-some-invalid-links = Algunos enlaces no se pueden compartir.
+content-sharing-modal-generic-error-2 =
+    .heading = Se ha producido un error
+    .message = No hemos podido crear su página compartida. Vuelva a intentarlo más tarde.
