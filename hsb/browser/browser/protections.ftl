@@ -301,4 +301,5 @@ protections-vpn-header-content-subscribed =
        *[other] Z pomocu { -mozilla-vpn-brand-name } so waš wšón wobchad zaklučuje a waše stejnišćo chowa – na hač do { $count } gratach. Wućehńće najlěpše ze swojeho abonementa – přidajće jón z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
     }
 protections-vpn-banner-header = Škit, kotryž wobhladowak přesahuje
+protections-vpn-banner-content = Wupruwujće { -mozilla-vpn-brand-name } bjez rizika a hladajće, čehodla TechRadar praji, zo „jeho spěšnosć, jednorosć a niska měsačna płaćizna su pohlad hódne.“
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } wobstarać
