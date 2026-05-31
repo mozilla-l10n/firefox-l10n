@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Sandi cadangan sertifikat (ulangi):
 set-password-reminder = Penting: Jika Anda lupa sandi cadangan sertifikat, Anda tidak akan dapat mengembalikan cadangan ini nantinya. Mohon disimpan di lokasi yang aman.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Autentikasi Terlindungi
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Silakan autentikasi ke perangkat keamanan ({ $tokenName }). Cara melakukannya tergantung pada perangkat (misalnya, menggunakan pembaca sidik jari atau memasukkan kode dengan papan tombol).
+
 ## Protected authentication alert
 
 # Variables:

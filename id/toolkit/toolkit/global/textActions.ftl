@@ -88,3 +88,6 @@ text-action-remove-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Hapus Semua Sorotan
+profile-window-menu-edit =
+    .label = Sunting
+    .accesskey = S
