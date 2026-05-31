@@ -109,3 +109,4 @@ account-tabs-closed-remotely =
         [one] { $closedCount } scheda di { -brand-short-name } chiusa
        *[other] { $closedCount } schede di { -brand-short-name } chiuse
     }
+
