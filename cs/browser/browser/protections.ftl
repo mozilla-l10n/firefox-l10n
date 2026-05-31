@@ -319,4 +319,5 @@ protections-vpn-header-content-subscribed =
        *[other] Pomocí { -mozilla-vpn-brand-name } zašifrujete veškerý svůj datový provoz a skryjete svou polohu – a to až na { $count } zařízeních. Využijte své předplatné na maximum – přidejte si jej z <a data-l10n-name="playstore-link">obchodu Google Play</a> nebo <a data-l10n-name="appstore-link">obchodu Apple App Store</a>.
     }
 protections-vpn-banner-header = Ochrana, která sahá za hranice prohlížeče
+protections-vpn-banner-content = Vyzkoušejte { -mozilla-vpn-brand-name } bez rizika a zjistěte, proč TechRadar píše: „Díky své rychlosti, jednoduchosti a nízké měsíční ceně stojí za to si tuto službu vyzkoušet.“
 protections-vpn-banner-link = Získat { -mozilla-vpn-brand-name }
