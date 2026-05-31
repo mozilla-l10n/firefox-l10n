@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = דחיה
     .accesskey = ד
 webext-perms-host-description-all-urls = גישה לנתונים שלך מכל האתרים
+webext-perms-host-description-file-urls = גישה לקבצים מקומיים במחשב שלך
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = גישה לנתונים שלך עבור אתרים תחת שם המתחם { $domain }
