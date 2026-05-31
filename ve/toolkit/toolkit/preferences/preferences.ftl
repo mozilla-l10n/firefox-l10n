@@ -4,19 +4,25 @@
 
 password-not-set =
     .value = (a ḽi ngo dzudzanywa)
-
 pw-change-success-title = U Shandukiswa ha Phasiwede ho Bvelela
 pw-change-failed-title = U Shandukiswa ha Phasiwede ho Kundelwa
 pw-remove-button =
     .label = Bvisani
-
+set-password-old =
+    .label = Phasiwede ya zwino:
+set-password-new =
+    .label = Dzhenisani phasiwede ntswa:
+set-password-reenter =
+    .label = Dzhenisani hafhu phasiwede:
 set-password-old-password = Phasiwede ya zwino:
 set-password-new-password = Dzhenisani phasiwede ntswa:
 set-password-reenter-password = Dzhenisani hafhu phasiwede:
 set-password-meter = Mithara wa ndeme ya phasiwede
 set-password-meter-loading = U vula
-
 remove-info =
     .value = Ni tea u dzhenisa phasiwede yanu ya zwino u itela u bvela phanḓa:
 remove-password-old-password =
     .value = Phasiwede ya zwino:
+set-password-not-set =
+    .label = Phasiwede ya zwino:
+    .placeholder = (a ḽi ngo dzudzanywa)
