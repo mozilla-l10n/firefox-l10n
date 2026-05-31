@@ -287,6 +287,9 @@ privacy-metrics-private-window = { -brand-short-name } přesćěhowaki w priwatn
 
 ## VPN promo card and banner
 
+protections-vpn-title = Wobstarajće sej priwatnosć wyše wobhladowaka
+protections-vpn-header-content = Škitajće swój cyły grat z { -mozilla-vpn-brand-name }. Jedyn podótk cyły wobchad zaklučuje a waše stejnišćo chowa.
 protections-get-vpn-link = { -mozilla-vpn-brand-name } wobstarać
 protections-vpn-title-subscribed = VPN: Abonowany
+protections-vpn-banner-header = Škit, kotryž wobhladowak přesahuje
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } wobstarać

@@ -48,6 +48,7 @@ customkeys-nav-select-tab-6 = K rajtarkej 6 přeńć
 customkeys-nav-select-tab-7 = K rajtarkej 7 přeńć
 customkeys-nav-select-tab-8 = K rajtarkej 8 přeńć
 customkeys-nav-select-last-tab = K poslednjemu rajtarkej přeńć
+customkeys-nav-toggle-mute = Awdio wupinać/zapinać
 customkeys-edit-find-previous = Předchadny pytać
 customkeys-tools-screenshot = Foto wobrazowki činić
 customkeys-caution-message = Tuta funkcija je eksperimentelna a njedźěła snano kaž wočakowane.
