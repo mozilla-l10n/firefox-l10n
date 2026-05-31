@@ -416,6 +416,7 @@ quickactions-inspector2 = 開啟開發者工具
 quickactions-cmd-inspector2 = 檢測器, 開發者工具, inspector, devtools, dev tools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = 挑選色彩
+quickactions-cmd-colorpicker = 取色器, 挑色器, 拾色器, 顏色選擇器, 挑選顏色, 滴管, color picker, eyedropper, pick color
 # Opens Firefox Library
 quickactions-cmd-library = 收藏庫
 quickactions-library = 開啟收藏庫

@@ -379,6 +379,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Sekmelerinizi düzene sokun
 tab-groups-list-empty-description = Düzenlemeye başlamak için bir sekmeyi diğerinin üzerine sürükleyin veya bir sekmeye sağ tıklayın. Gruplarınızı daha sonra kolayca bulabilmeniz için buraya kaydedeceğiz.
 tab-groups-list-empty-button = Sekme grubu oluştur
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Yeni grup
 
 ## Open/saved tab group context menu
 

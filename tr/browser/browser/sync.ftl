@@ -41,6 +41,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi etkinleştirin
 fxa-menu-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
 fxa-menu-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
+fxviewtabrow-send-to-mobile-not-verified = Hesap doğrulanmamış
+fxviewtabrow-send-to-mobile-verify-account = Hesabınızı doğrulayın
 fxa-menu-send-to-mobile-turn-on-sync = Sekme göndermek için eşitlemeyi açın
 fxa-menu-send-to-mobile-connect-device = Sekme göndermek için bir cihaz bağlayın
 # Variables:

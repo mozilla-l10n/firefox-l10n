@@ -1037,6 +1037,7 @@ newtab-sports-widget-world-cup-champions = 2026 年世界盃足球賽冠軍
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = 終場
+newtab-sports-widget-match-halftime = 中場休息
 newtab-sports-widget-match-extra-time = 加時
 newtab-sports-widget-match-penalties = PK 大戰
 

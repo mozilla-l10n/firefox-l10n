@@ -122,6 +122,8 @@ private-browsing-description2 =
     Böylece, siz ayarlara girip özellikle izin vermedikçe uzantılar gizli gezinti sırasında yaptıklarınızı göremeyecekler.
     Bu değişikliği, gizli gezintinizin daha da gizli kalması için yapıyoruz.
     <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınızı yönetmeyi öğrenin.</label>
+aboutaddons-sidebar =
+    .heading = Eklentiler
 addon-category-discover = Öneriler
 addon-category-discover-title =
     .title = Öneriler
@@ -477,6 +479,10 @@ addon-permissions-empty = Bu uzantı herhangi bir izin gerektirmiyor
 addon-permissions-required = Temel işlevler için gerekli izinler:
 addon-permissions-optional = Ek işlevler için isteğe bağlı izinler:
 addon-permissions-learnmore = İzinler hakkında daha fazla bilgi alın
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Bazı izinler kuruluşunuz tarafından yönetiliyor.
 recommended-extensions-heading = Önerilen uzantılar
 recommended-themes-heading = Önerilen temalar
 # Variables:

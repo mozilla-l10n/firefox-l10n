@@ -1167,6 +1167,13 @@ newtab-clock-widget-button-save = Kaydet
 newtab-clock-widget-button-remove-clock =
     .title = Saati sil
     .aria-label = Saati sil
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
 newtab-clock-widget-add-clock-form =
     .aria-label = Saat ekle
 newtab-clock-widget-edit-clock-form =
