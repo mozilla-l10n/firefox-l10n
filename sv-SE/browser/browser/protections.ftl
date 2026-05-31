@@ -250,13 +250,14 @@ privacy-metrics-private-window = { -brand-short-name } fortsätter att blockera 
 protections-vpn-title = Integritetsskydd utöver webbläsaren
 protections-vpn-header-content = Skydda hela din enhet med { -mozilla-vpn-brand-name }. Ett tryck krypterar all trafik och döljer din plats.
 protections-get-vpn-link = Hämta { -mozilla-vpn-brand-name }
-protections-vpn-title-subscribed = VPN: Prenumererar
+protections-vpn-title-subscribed = VPN: Prenumererade
 # Variables
 #   $count (number): Number of devices
 protections-vpn-header-content-subscribed =
     { $count ->
-        [one] Användning av { -mozilla-vpn-brand-name } krypterar all din trafik och döljer din plats — på upp till { $count } enheter. Få ut det mesta av din prenumeration — lägg till den från <a data-l10n-name="playstore-link">Google Play Butik</a> eller <a data-l10n-name="appstore-link">Apple App Store </a>.
-       *[other] Användning av { -mozilla-vpn-brand-name } krypterar all din trafik och döljer din plats — på upp till { $count } enheter. Få ut det mesta av din prenumeration — lägg till den från <a data-l10n-name="playstore-link">Google Play Butik</a> eller <a data-l10n-name="appstore-link">Apple App Store </a>.
+        [one] Genom att använda { -mozilla-vpn-brand-name } krypteras all din trafik och din plats döljs – på upp till { $count } enhet. Få ut det mesta av din prenumeration – lägg till den från <a data-l10n-name="playstore-link">Google Play Store</a> eller <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Genom att använda { -mozilla-vpn-brand-name } krypteras all din trafik och din plats döljs – på upp till { $count } enheter. Få ut det mesta av din prenumeration – lägg till den från <a data-l10n-name="playstore-link">Google Play Store</a> eller <a data-l10n-name="appstore-link">Apple App Store</a>.
     }
 protections-vpn-banner-header = Skydd som sträcker sig bortom webbläsaren
+protections-vpn-banner-content = Prova { -mozilla-vpn-brand-name } riskfritt och se varför TechRadar säger att "dess hastighet, enkelhet och låga månadspris gör det värt att ta en titt".
 protections-vpn-banner-link = Hämta { -mozilla-vpn-brand-name }

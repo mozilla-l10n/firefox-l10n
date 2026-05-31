@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = 거부
     .accesskey = D
 webext-perms-host-description-all-urls = 모든 웹 사이트에 대한 사용자 데이터에 접근
+webext-perms-host-description-file-urls = 컴퓨터의 로컬 파일에 접근
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } 도메인 사이트에 대한 사용자 데이터에 접근

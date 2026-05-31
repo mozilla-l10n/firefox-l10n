@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Cách khôi phục:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Mở menu ứng dụng ☰ và vào Cài đặt > Đồng bộ hóa
+backup-file-moz-browser-restore-step-2-1 = Nhấp “Khôi phục dữ liệu của bạn” và chọn tập tin này
 backup-file-moz-browser-restore-step-2 = Nhấp vào “Chọn tập tin sao lưu” và chọn tập tin này
 backup-file-moz-browser-restore-step-3 = Khởi động lại { -brand-short-name } khi được yêu cầu
 backup-file-other-browser-restore-step-1 = Tải xuống và cài đặt { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Tải xuống
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Khởi chạy { -brand-short-name }, mở menu ứng dụng ☰ và vào Cài đặt > Đồng bộ hóa
+backup-file-other-browser-restore-step-3-1 = Nhấp “Khôi phục dữ liệu của bạn” và chọn tập tin này
 backup-file-other-browser-restore-step-3 = Nhấp vào “Chọn tập tin sao lưu” và chọn tập tin này
 backup-file-other-browser-restore-step-4 = Khởi động lại { -brand-short-name } khi được yêu cầu
 

@@ -216,3 +216,5 @@ protections-vpn-title = 브라우저 그 이상의 개인 정보 보호
 protections-vpn-header-content = { -mozilla-vpn-brand-name }으로 기기 전체를 보호하세요. 탭 한 번으로 모든 트래픽을 암호화하고 위치를 숨길 수 있습니다.
 protections-get-vpn-link = { -mozilla-vpn-brand-name } 받기
 protections-vpn-title-subscribed = VPN: 구독 중
+protections-vpn-banner-header = 브라우저 그 이상의 보호 기능
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } 받기

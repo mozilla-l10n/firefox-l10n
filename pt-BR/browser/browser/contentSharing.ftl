@@ -21,4 +21,18 @@ content-sharing-modal-generating-page =
     .label = Gerando página…
 content-sharing-modal-link-copied =
     .label = Link copiado
+content-sharing-modal-sign-in-2 =
+    .label = Entrar na conta para compartilhar
+content-sharing-modal-title-2 = Compartilhar estas páginas com qualquer pessoa
+content-sharing-modal-title-signed-in = Seus links estão prontos para ser compartilhados
+content-sharing-modal-description-2 = Entre na conta para criar uma página de links fácil de compartilhar. Não pode ser editada ou excluída e expira após 7 dias.
+content-sharing-modal-description-signed-in = Criamos uma página fácil de compartilhar com seus links. Não pode ser editada ou excluída e expira após 7 dias.
 content-sharing-modal-policy = Ao compartilhar, você declara que concorda com nossa <a data-l10n-name="aup-link">Política de uso aceitável</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Somente { $count } link será incluído
+       *[other] Somente { $count } links serão incluídos
+    }

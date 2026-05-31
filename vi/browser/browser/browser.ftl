@@ -414,6 +414,8 @@ quickactions-cmd-help = trợ giúp, hỗ trợ, tro giup, ho tro
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector2 = trình kiểm tra, trinh kiem tra, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Chọn một màu
 quickactions-cmd-colorpicker = chọn màu, eyedropper, chon mau, pick color, color picker
 # Opens Firefox Library
 quickactions-cmd-library = mo thu vien, thu vien, mở thư viện, thư viện, library
@@ -1269,6 +1271,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
