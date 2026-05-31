@@ -414,6 +414,9 @@ quickactions-cmd-help = ayuda, soporte
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir herramientas para desarrollo
 quickactions-cmd-inspector2 = inspector, devtools, herramientas para desarrolladores
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Seleccione un color
+quickactions-cmd-colorpicker = selector de color, cuentagotas, elegir color
 # Opens Firefox Library
 quickactions-cmd-library = biblioteca
 quickactions-library = Abrir biblioteca
@@ -1287,6 +1290,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = codigoqr-{ $domain }
 
 ## EME notification panel
 
