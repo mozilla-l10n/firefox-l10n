@@ -286,5 +286,10 @@ places-search-downloads =
 
 places-locked-prompt = لن يعمل نظام التأريخ و العلامات بشكل صحيح لأنّ أحد ملفات { -brand-short-name } يستخدمه تطبيق آخر. قد يكون المتسبب بهذا أحد برامج الحماية.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = شارك ملف
+    .badge = جديد
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = شارك ملف
