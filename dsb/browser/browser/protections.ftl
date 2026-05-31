@@ -291,3 +291,15 @@ protections-vpn-title = Wobstarajśo se priwatnosć wušej wobglědowaka
 protections-vpn-header-content = Šćitajśo swój ceły grat z { -mozilla-vpn-brand-name }. Jadno dotyknjenje ceły wobchad koděrujo a wašo stojnišćo chowa.
 protections-get-vpn-link = { -mozilla-vpn-brand-name } wobstaraś
 protections-vpn-title-subscribed = VPN: Aboněrowany
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Z pomocu { -mozilla-vpn-brand-name } se waš wšen wobchad koděrujo a wašo stojnišćo chowa – na až do { $count } rěźe. Wuwónoźćo nejlěpše ze swójogo abonementa – pśidajśo jen z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [two] Z pomocu { -mozilla-vpn-brand-name } se waš wšen wobchad koděrujo a wašo stojnišćo chowa – na až do { $count } rědoma. Wuwónoźćo nejlěpše ze swójogo abonementa – pśidajśo jen z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] Z pomocu { -mozilla-vpn-brand-name } se waš wšen wobchad koděrujo a wašo stojnišćo chowa – na až do { $count } rědach. Wuwónoźćo nejlěpše ze swójogo abonementa – pśidajśo jen z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Z pomocu { -mozilla-vpn-brand-name } se waš wšen wobchad koděrujo a wašo stojnišćo chowa – na až do { $count } rědach. Wuwónoźćo nejlěpše ze swójogo abonementa – pśidajśo jen z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Šćit, kótaryž wobglědowak pśesega
+protections-vpn-banner-content = Wopytajśo { -mozilla-vpn-brand-name } bźez rizika a glědajśo, cogodla TechRadar groni, až „jogo malsnosć, jadnorosć a niska mjasecna płaśizna su póglěd gódne.“
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } wobstaraś
