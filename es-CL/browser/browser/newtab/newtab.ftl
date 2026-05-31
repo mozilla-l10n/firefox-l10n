@@ -980,7 +980,7 @@ newtab-sports-widget-watch-stream-paid = De pago
 # Note: provider only streams some matches, not the full tournament.
 newtab-sports-widget-watch-stream-select-games-only = Solo partidos seleccionados
 # Heading for the list of streaming services available in the user’s country/region.
-newtab-sports-widget-watch-available-region = Disponible en tu región.
+newtab-sports-widget-watch-available-region = Disponible en tu región
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Otras regiones
 # Button that opens the provider’s stream page in a new tab.
