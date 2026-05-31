@@ -15,5 +15,7 @@ set-password-meter = पासवर्ड दर्जा गुणांक
 set-password-meter-loading = दाखल करीत आहे
 remove-info =
     .value = पुढे जाण्याकरीता आपला सद्याचा पासवर्ड प्रविष्ट करा:
+remove-password-old =
+    .label = सद्याचा पासवर्ड:
 remove-password-old-password =
     .value = सद्याचा पासवर्ड:
