@@ -32,4 +32,5 @@ content-sharing-modal-sign-in-2 =
     .label = Pro sdílení se přihlaste
 content-sharing-modal-title-2 = Sdílejte tyto stránky s kýmkoli
 content-sharing-modal-title-signed-in = Vaše odkazy jsou připraveny ke sdílení
+content-sharing-modal-description-2 = Přihlaste se a vytvořte stránku s odkazy, kterou lze snadno sdílet. Nelze ji upravovat ani mazat a vyprší po 7 dnech.
 content-sharing-modal-policy = Sdílením souhlasíte s našimi <a data-l10n-name="aup-link">zásadami přijatelného užívání</a>
