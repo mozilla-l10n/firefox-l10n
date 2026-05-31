@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-contextual-password-manager =
     .label = Lösenord
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Öppna flikar
 sidebar-options-menu-button =
     .title = Öppna meny
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Historik
 sidebar-menu-synced-tabs-label =
     .label = Flikar från andra enheter
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Öppna flikar
 sidebar-menu-bookmarks-label =
     .label = Bokmärken
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Flikar från andra enheter
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Öppna flikar
 sidebar-menu-cpm-header =
     .heading = Lösenord
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobila bokmärken
 sidebar-customize-title = Anpassa sidofält
 sidebar-history-title = Historik
 sidebar-syncedtabs-title = Flikar från andra enheter
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Öppna flikar
 
 ## Context for closing synced tabs when hovering over the items
 

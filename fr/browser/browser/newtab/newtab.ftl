@@ -823,6 +823,14 @@ newtab-widget-section-menu-manage = Gérer les widgets
 newtab-widget-section-menu-hide-all = Masquer les widgets
 newtab-widget-section-menu-learn-more = En savoir plus
 newtab-widget-section-feedback = Donnez-nous votre avis
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Afficher plus de widgets
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Afficher moins de widgets
 newtab-widget-lists-name-default = Liste de tâches
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1041,6 +1049,8 @@ newtab-sports-widget-world-cup-champions = Champions du monde 2026
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Match terminé
+newtab-sports-widget-match-halftime = Mi-temps
+newtab-sports-widget-match-extra-time = Prolongations
 newtab-sports-widget-match-penalties = Tirs au but
 
 ## Accessible labels for match rows in the sports widget. These are read by

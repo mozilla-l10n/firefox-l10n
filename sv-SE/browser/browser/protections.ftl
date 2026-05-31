@@ -244,3 +244,20 @@ privacy-metrics-empty = Inga spårare blockerade denna vecka. { -brand-short-nam
 privacy-metrics-loading = Laddar skyddsstatistik…
 privacy-metrics-error = Det gick inte att läsa in skyddsstatistik.
 privacy-metrics-private-window = { -brand-short-name } fortsätter att blockera spårare i privata fönster, men sparar inte vad som blockerades.
+
+## VPN promo card and banner
+
+protections-vpn-title = Integritetsskydd utöver webbläsaren
+protections-vpn-header-content = Skydda hela din enhet med { -mozilla-vpn-brand-name }. Ett tryck krypterar all trafik och döljer din plats.
+protections-get-vpn-link = Hämta { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Prenumererar
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Användning av { -mozilla-vpn-brand-name } krypterar all din trafik och döljer din plats — på upp till { $count } enheter. Få ut det mesta av din prenumeration — lägg till den från <a data-l10n-name="playstore-link">Google Play Butik</a> eller <a data-l10n-name="appstore-link">Apple App Store </a>.
+       *[other] Användning av { -mozilla-vpn-brand-name } krypterar all din trafik och döljer din plats — på upp till { $count } enheter. Få ut det mesta av din prenumeration — lägg till den från <a data-l10n-name="playstore-link">Google Play Butik</a> eller <a data-l10n-name="appstore-link">Apple App Store </a>.
+    }
+protections-vpn-banner-header = Skydd som sträcker sig bortom webbläsaren
+protections-vpn-banner-content = Testa { -mozilla-vpn-brand-name } riskfritt och se varför TechRadar säger, "dess hastighet, enkelhet och låga månadspris gör den värd en titt."
+protections-vpn-banner-link = Hämta { -mozilla-vpn-brand-name }

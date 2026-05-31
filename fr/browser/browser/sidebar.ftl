@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-contextual-password-manager =
     .label = Mots de passe
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Onglets ouverts
 sidebar-options-menu-button =
     .title = Ouvrir le menu
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Historique
 sidebar-menu-synced-tabs-label =
     .label = Onglets d’autres appareils
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Onglets ouverts
 sidebar-menu-bookmarks-label =
     .label = Marque-pages
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Historique
 sidebar-menu-syncedtabs-header =
     .heading = Onglets d’autres appareils
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Onglets ouverts
 sidebar-menu-cpm-header =
     .heading = Mots de passe
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Marque-pages des appareils mobiles
 sidebar-customize-title = Personnaliser le panneau latéral
 sidebar-history-title = Historique
 sidebar-syncedtabs-title = Onglets d’autres appareils
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Onglets ouverts
 
 ## Context for closing synced tabs when hovering over the items
 

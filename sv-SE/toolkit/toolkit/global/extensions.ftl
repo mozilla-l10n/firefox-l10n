@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Neka
     .accesskey = N
 webext-perms-host-description-all-urls = Åtkomst till dina data för alla webbplatser
+webext-perms-host-description-file-urls = Åtkomst till lokala filer på din dator
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Åtkomst till dina data för platser i domänen { $domain }
