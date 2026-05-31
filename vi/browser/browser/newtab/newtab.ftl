@@ -825,6 +825,10 @@ newtab-widget-section-menu-manage = Quản lý widget
 newtab-widget-section-menu-hide-all = Ẩn widget
 newtab-widget-section-menu-learn-more = Tìm hiểu thêm
 newtab-widget-section-feedback = Hãy cho chúng tôi biết suy nghĩ của bạn
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Hiện thêm widget
 newtab-widget-lists-name-default = Danh sách việc cần làm
 
 ## Strings introduced by the Nova redesign of the Timer widget
