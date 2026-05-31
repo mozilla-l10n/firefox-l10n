@@ -209,3 +209,16 @@ privacy-metrics-empty = Không có trình theo dõi nào bị chặn trong tuầ
 privacy-metrics-loading = Đang tải thống kê bảo vệ…
 privacy-metrics-error = Không thể tải số liệu thống kê bảo vệ.
 privacy-metrics-private-window = { -brand-short-name } tiếp tục chặn các trình theo dõi trong cửa sổ riêng tư, nhưng không lưu lại thông tin về những trình theo dõi nào bị chặn.
+
+## VPN promo card and banner
+
+protections-vpn-title = Mở rộng phạm vi bảo vệ quyền riêng tư vượt ra ngoài trình duyệt.
+protections-vpn-header-content = Bảo vệ toàn bộ thiết bị của bạn với { -mozilla-vpn-brand-name }. Chỉ với một lần nhấn, toàn bộ lưu lượng truy cập sẽ được mã hóa và vị trí của bạn sẽ được ẩn đi.
+protections-get-vpn-link = Nhận { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Đã đăng ký
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed = Sử dụng { -mozilla-vpn-brand-name } để mã hóa toàn bộ lưu lượng truy cập của bạn và ẩn vị trí của bạn — với tối đa { $count } thiết bị. Tận dụng tối đa gói đăng ký của bạn — hãy thêm ứng dụng từ <a data-l10n-name="playstore-link">Google Play Store</a> hoặc <a data-l10n-name="appstore-link">Apple App Store</a>.
+protections-vpn-banner-header = Khả năng bảo vệ vượt ra ngoài phạm vi trình duyệt
+protections-vpn-banner-content = Hãy dùng thử { -mozilla-vpn-brand-name } miễn phí và xem tại sao TechRadar lại nói rằng, “tốc độ, sự đơn giản và giá cả hàng tháng thấp khiến nó đáng để bạn xem xét.”
+protections-vpn-banner-link = Nhận { -mozilla-vpn-brand-name }

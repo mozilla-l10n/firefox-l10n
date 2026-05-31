@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Chatbot AI
 menu-view-contextual-password-manager =
     .label = Mật khẩu
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Các thẻ đang mở
 sidebar-options-menu-button =
     .title = Mở menu
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Lịch sử
 sidebar-menu-synced-tabs-label =
     .label = Thẻ từ thiết bị khác
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Các thẻ đang mở
 sidebar-menu-bookmarks-label =
     .label = Dấu trang
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Lịch sử
 sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Các thẻ đang mở
 sidebar-menu-cpm-header =
     .heading = Mật khẩu
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Dấu trang trên di động
 sidebar-customize-title = Tùy biến thanh lề
 sidebar-history-title = Lịch sử
 sidebar-syncedtabs-title = Thẻ từ thiết bị khác
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Các thẻ đang mở
 
 ## Context for closing synced tabs when hovering over the items
 

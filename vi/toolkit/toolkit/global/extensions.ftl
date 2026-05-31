@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Từ chối
     .accesskey = D
 webext-perms-host-description-all-urls = Truy cập dữ liệu của bạn trên mọi trang web
+webext-perms-host-description-file-urls = Truy cập các tập tin cục bộ trên máy tính của bạn
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Truy cập dữ liệu của bạn trên trang { $domain }
