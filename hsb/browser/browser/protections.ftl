@@ -291,5 +291,14 @@ protections-vpn-title = Wobstarajće sej priwatnosć wyše wobhladowaka
 protections-vpn-header-content = Škitajće swój cyły grat z { -mozilla-vpn-brand-name }. Jedyn podótk cyły wobchad zaklučuje a waše stejnišćo chowa.
 protections-get-vpn-link = { -mozilla-vpn-brand-name } wobstarać
 protections-vpn-title-subscribed = VPN: Abonowany
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Z pomocu { -mozilla-vpn-brand-name } so waš wšón wobchad zaklučuje a waše stejnišćo chowa – na hač do { $count } graće. Wućehńće najlěpše ze swojeho abonementa – přidajće jón z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [two] Z pomocu { -mozilla-vpn-brand-name } so waš wšón wobchad zaklučuje a waše stejnišćo chowa – na hač do { $count } gratomaj. Wućehńće najlěpše ze swojeho abonementa – přidajće jón z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] Z pomocu { -mozilla-vpn-brand-name } so waš wšón wobchad zaklučuje a waše stejnišćo chowa – na hač do { $count } gratach. Wućehńće najlěpše ze swojeho abonementa – přidajće jón z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Z pomocu { -mozilla-vpn-brand-name } so waš wšón wobchad zaklučuje a waše stejnišćo chowa – na hač do { $count } gratach. Wućehńće najlěpše ze swojeho abonementa – přidajće jón z <a data-l10n-name="playstore-link">Google Play Store</a> abo <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
 protections-vpn-banner-header = Škit, kotryž wobhladowak přesahuje
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } wobstarać
