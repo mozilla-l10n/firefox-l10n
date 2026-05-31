@@ -75,6 +75,7 @@ policy-DisableProfileRefresh =
        *[no-cases] Blokování tlačítka pro obnovu aplikace { -brand-short-name } na stránce about:support.
     }
 policy-DisableRemoteImprovements = Zabraní aplikaci { -brand-short-name } v období mezi aktualizacemi provádět změny související s výkonem, stabilitou a funkcemi.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Zakázat vzdálené nastavení.
 policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
 policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
 policy-DisableSetAsDesktopBackground = Zablokování kontextové nabídky obrázků pro jejich nastavení jako pozadí plochy.

@@ -1088,6 +1088,8 @@ newtab-sports-widget-world-cup-champions = Mistrovství světa ve fotbale 2026
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Konec zápasu
+newtab-sports-widget-match-halftime = Poločas
+newtab-sports-widget-match-extra-time = Prodloužení
 newtab-sports-widget-match-penalties = Penalty
 
 ## Accessible labels for match rows in the sports widget. These are read by
@@ -1122,6 +1124,9 @@ newtab-sports-widget-match-aria-label-now =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, zpoždění
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } vs. { $awayTeam }, odloženo
@@ -1150,10 +1155,14 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Odstartujte světový šampionát s novými tapetami
 newtab-sports-widget-message-wallpapers-body = Vneste do svého prohlížeče trochu té zápasové energie na dobu turnaje.
 newtab-sports-widget-message-wallpapers-cta = Zvolte si tapetu
 newtab-sports-widget-message-add-widgets-cta =
     .label = Přidat widgety
+newtab-sports-widget-message-day-in-play-body = Sledujte mistrovství světa, soustřeďte se na své úkoly, sledujte čas v různých částech světa a mnoho dalšího.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Prozkoumejte widgety
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

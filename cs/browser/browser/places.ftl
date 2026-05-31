@@ -276,5 +276,10 @@ places-locked-prompt =
        *[no-cases] Není možné používat záložky a historii, protože některé soubory aplikace { -brand-short-name } už jsou používány jinou aplikací. Toto může být způsobeno bezpečnostním softwarem.
     }
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Sdílet složku
+    .badge = Nové
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Sdílet složku

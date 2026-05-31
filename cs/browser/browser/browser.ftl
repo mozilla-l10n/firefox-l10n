@@ -446,6 +446,9 @@ quickactions-cmd-help = nápověda, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otevřít nástroje pro vývojáře
 quickactions-cmd-inspector2 = inspektor, inspector, devtools, vývojářské nástroje
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Výběr barvy
+quickactions-cmd-colorpicker = výběr barvy, kapátko, sejmutí barvy
 # Opens Firefox Library
 quickactions-cmd-library = knihovna
 quickactions-library = Otevřít Knihovnu stránek
