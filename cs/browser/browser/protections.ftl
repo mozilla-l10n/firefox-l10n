@@ -309,3 +309,14 @@ protections-vpn-title = Rozšiřte ochranu soukromí i mimo prohlížeč
 protections-vpn-header-content = Chraňte celé své zařízení pomocí { -mozilla-vpn-brand-name }. Jedním klepnutím zašifrujete veškerý přenos dat a skryjete svou polohu.
 protections-get-vpn-link = Získat { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Předplacená
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Pomocí { -mozilla-vpn-brand-name } zašifrujete veškerý svůj datový provoz a skryjete svou polohu – a to až na { $count } zařízení. Využijte své předplatné na maximum – přidejte si jej z <a data-l10n-name="playstore-link">obchodu Google Play</a> nebo <a data-l10n-name="appstore-link">obchodu Apple App Store</a>.
+        [few] Pomocí { -mozilla-vpn-brand-name } zašifrujete veškerý svůj datový provoz a skryjete svou polohu – a to až na { $count } zařízení. Využijte své předplatné na maximum – přidejte si jej z <a data-l10n-name="playstore-link">obchodu Google Play</a> nebo <a data-l10n-name="appstore-link">obchodu Apple App Store</a>.
+        [many] Pomocí { -mozilla-vpn-brand-name } zašifrujete veškerý svůj datový provoz a skryjete svou polohu – a to až na { $count } zařízeních. Využijte své předplatné na maximum – přidejte si jej z <a data-l10n-name="playstore-link">obchodu Google Play</a> nebo <a data-l10n-name="appstore-link">obchodu Apple App Store</a>.
+       *[other] Pomocí { -mozilla-vpn-brand-name } zašifrujete veškerý svůj datový provoz a skryjete svou polohu – a to až na { $count } zařízeních. Využijte své předplatné na maximum – přidejte si jej z <a data-l10n-name="playstore-link">obchodu Google Play</a> nebo <a data-l10n-name="appstore-link">obchodu Apple App Store</a>.
+    }
+protections-vpn-banner-header = Ochrana, která sahá za hranice prohlížeče
+protections-vpn-banner-link = Získat { -mozilla-vpn-brand-name }
