@@ -244,3 +244,8 @@ privacy-metrics-empty = Diese Woche wurden keine Tracker blockiert. { -brand-sho
 privacy-metrics-loading = Schutzmaßnahmen-Statistiken werden geladen…
 privacy-metrics-error = Schutzmaßnahmen können nicht geladen werden.
 privacy-metrics-private-window = { -brand-short-name } wird weiterhin Elemente zur Aktivitätenverfolgung in privaten Fenstern blockieren, aber nicht aufzeichnen, was blockiert wurde.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = Holen Sie sich { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Abonniert
