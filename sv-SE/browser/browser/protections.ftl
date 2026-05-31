@@ -259,5 +259,4 @@ protections-vpn-header-content-subscribed =
        *[other] Användning av { -mozilla-vpn-brand-name } krypterar all din trafik och döljer din plats — på upp till { $count } enheter. Få ut det mesta av din prenumeration — lägg till den från <a data-l10n-name="playstore-link">Google Play Butik</a> eller <a data-l10n-name="appstore-link">Apple App Store </a>.
     }
 protections-vpn-banner-header = Skydd som sträcker sig bortom webbläsaren
-protections-vpn-banner-content = Testa { -mozilla-vpn-brand-name } riskfritt och se varför TechRadar säger, "dess hastighet, enkelhet och låga månadspris gör den värd en titt."
 protections-vpn-banner-link = Hämta { -mozilla-vpn-brand-name }

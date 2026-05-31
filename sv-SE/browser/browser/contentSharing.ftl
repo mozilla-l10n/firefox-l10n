@@ -26,15 +26,17 @@ content-sharing-modal-link-copied =
     .label = Länk kopierad
 content-sharing-modal-sign-in-2 =
     .label = Logga in för att dela
-content-sharing-modal-description-2 = Logga in för att skapa en länksida som är enkel att dela. Den kan inte redigeras eller raderas och upphör efter 7 dagar.
-content-sharing-modal-description-signed-in = Vi gjorde en lätt att dela sida med dina länkar. Den kan inte redigeras eller raderas och upphör efter 7 dagar.
+content-sharing-modal-title-2 = Dela dessa sidor med vem som helst
+content-sharing-modal-title-signed-in = Dina länkar är redo att delas
+content-sharing-modal-description-2 = Logga in för att skapa en lättdelad länksida. Den kan inte redigeras eller tas bort och upphör att gälla efter 7 dagar.
+content-sharing-modal-description-signed-in = Vi har skapat en sida som är lätt att dela med dina länkar. Den kan inte redigeras eller raderas och upphör att gälla efter 7 dagar.
 content-sharing-modal-policy = Genom att dela, godkänner du vår <a data-l10n-name="aup-link">policy för acceptabel användning</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
 content-sharing-modal-too-many-links-2 =
     { $count ->
-        [one] Endast { $count } länkar kommer att inkluderas
+        [one] Endast { $count } länk kommer att inkluderas
        *[other] Endast { $count } länkar kommer att inkluderas
     }
 content-sharing-modal-no-shareable-links =
@@ -45,7 +47,7 @@ content-sharing-modal-no-shareable-links =
 content-sharing-modal-too-many-pages =
     .heading =
         { $count ->
-            [one] Du har delat sida { $count }
+            [one] Du har delat { $count } sida
            *[other] Du har delat { $count } sidor
         }
     .message = Försök igen efter att en av dina sidor upphört att gälla.
