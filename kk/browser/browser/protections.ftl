@@ -232,4 +232,16 @@ privacy-metrics-private-window = { -brand-short-name } жекелік терез
 
 ## VPN promo card and banner
 
+protections-vpn-title = Жекелікті қорғауды браузер сыртына да алыңыз.
+protections-vpn-header-content = Құрылғыңызды толығымен { -mozilla-vpn-brand-name } арқылы қорғаңыз. Бір рет басу барлық трафикті шифрлейді және орналасқан жеріңізді жасырады.
+protections-get-vpn-link = { -mozilla-vpn-brand-name } алу
+protections-vpn-title-subscribed = VPN: Жазылған
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] { -mozilla-vpn-brand-name } пайдалану барлық трафигіңізді шифрлейді және орналасқан жеріңізді жасырады — { $count } құрылғыға дейін. Жазылымыңыздан барынша пайда алыңыз — оны <a data-l10n-name="playstore-link">Google Play Store</a> немесе <a data-l10n-name="appstore-link">Apple App Store</a> дүкендерінен қосыңыз.
+    }
+protections-vpn-banner-header = Браузерден тыс жерлерге таралатын қорғаныс
+protections-vpn-banner-content = { -mozilla-vpn-brand-name } қызметін қауіпсіз қолданып көріңіз және TechRadar компаниясының «жылдамдығы, қарапайымдылығы және ай сайынғы төмен бағасы оны қарап шығуға тұрарлық» деген сөзінің себебін түсініңіз.
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } алу
