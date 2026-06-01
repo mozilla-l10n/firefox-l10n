@@ -243,3 +243,9 @@ privacy-metrics-social =
 privacy-metrics-loading = Henyhẽhína mbopapapy ñemo’ãgua…
 privacy-metrics-error = Ndaikatúi henyhẽ mbopapapy ñemo’ãgua.
 privacy-metrics-private-window = { -brand-short-name } ojoko gueteri tapykuehohaita ovetã ñemiguápe, hákatu noñongatúi pe jokopyre rapykuere.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = Ereko { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Mboheraguapypyre
+protections-vpn-banner-header = Ñemo’ã ohovéva pe kundaháragui.

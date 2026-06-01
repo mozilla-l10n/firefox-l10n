@@ -269,5 +269,10 @@ places-search-downloads =
 
 places-locked-prompt = Apopyvusu techaukaha ha tembiasakue rehegua ndoikomo’ãi oĩre peteĩva { -brand-short-name }’s marandurenda ojeporúva ambue tembiporu’ípe. Oĩ tembiaporape hekorosãva ikatúva omoapanuãi.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Emoherakuã marandurenda
+    .badge = Pyahu
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Emoherakuã marandurenda
