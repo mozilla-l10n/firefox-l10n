@@ -74,6 +74,7 @@ neterror-blocked-by-policy-contact-admin = Si vous pensez que c’est une erreur
 enterprise-access-connector-heading = Connecteur d’accès
 enterprise-access-connector-info-active = Ce site est consulté via une connexion sécurisée d’entreprise.
 enterprise-access-connector-button =
+    .label = Connecteur d’accès
     .tooltiptext = Connecteur d’accès
 enterprise-access-connector-status-label-active = actif
 enterprise-access-connector-status-label-inactive = inactif
