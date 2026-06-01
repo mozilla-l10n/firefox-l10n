@@ -684,6 +684,9 @@ newtab-widget-lists-input-menu-delete = Elimine
 newtab-widget-lists-input-menu-edit = Modifiche
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Modifiche element
+newtab-widget-lists-edit-clear =
+    .aria-label = Anule
+    .title = Anule
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Cree une gnove liste
@@ -693,6 +696,9 @@ newtab-widget-lists-name-label-checklist =
     .label = Liste di control
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Liste di ativitâts
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Liste di control
+    .aria-label = Modifiche non de liste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Gnove liste
@@ -713,6 +719,10 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimize widgets
     .aria-label = Strenç ducj i widgets ae dimension compate
+newtab-widget-section-menu-button =
+    .title = Menù widgets
+    .aria-label = Vierç menù dai widgets
+newtab-widget-section-menu-hide-all = Plate widgets
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
