@@ -1106,6 +1106,11 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Dünya Kupası’na yeni duvar kâğıtlarıyla başlayın
+newtab-sports-widget-message-wallpapers-cta = Duvar kâğıdı seçin
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Araç ekleyin
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Araçları keşfedin
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
