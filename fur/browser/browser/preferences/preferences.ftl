@@ -488,6 +488,18 @@ website-add-language =
 website-add-language-button =
     .aria-label = Zonte lenghe selezionade
     .title = Zonte lenghe selezionade
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Gjave { $locale }
+    .title = Gjave { $locale }
 choose-button =
     .label = Sielç…
     .accesskey = S
@@ -497,6 +509,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Torne invie { -brand-short-name } par aplicâ chestis modifichis
 confirm-browser-language-change-button = Apliche e torne invie
+browser-language-heading =
+    .label = Lenghe dal navigadôr
+    .description = Sielç la lenghe di doprâ par mostrâ il menù, i messaçs e lis notifichis di { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Lenghe preferide
+browser-language-fallback-label =
+    .label = Lenghe alternative
+    .description = Doprade dome se la localizazion de lenghe preferide no je complete.
 browser-language-install-error =
     .message = In chest moment { -brand-short-name } nol rive a inzornâ la tô lenghe. Controle la conession a internet e torne prove.
 translate-web-pages =
@@ -575,9 +595,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Dopre lis impostazions dal to sisteme operatîf in “{ $localeName }” par formatâ datis, oris, numars e misuris.
+settings-spellcheck-header =
+    .label = Control ortografic
 check-user-spelling =
     .label = Controle la ortografie intant che tu scrivis
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Discjame dizionaris
+spellcheck-promo =
+    .heading = Cemût doprâ il control ortografic
+    .message = Fâs clic diestri cul mouse suntun cjamp di test par ativâ o disativâ il control ortografic o par cambiâ la lenghe. No ducj i cjamps a supuartin il control ortografic.
 
 ## General Section - Files and Applications
 
@@ -586,6 +613,9 @@ download-save-files-header =
     .label = Salve i files in
 download-save-where-3 =
     .aria-label = Salve i files in
+download-always-ask-where2 =
+    .label = Domande dulà salvâ i files prime di discjariâju
+    .accesskey = D
 downloads-header-2 =
     .label = Discjamâts
 download-save-where-2 =
@@ -713,6 +743,8 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Mostre cronologjie inzornaments
     .accesskey = M
+update-application-installation =
+    .label = Instalazion
 update-history =
     .label = Mostre cronologjie inzornaments…
     .accesskey = M
