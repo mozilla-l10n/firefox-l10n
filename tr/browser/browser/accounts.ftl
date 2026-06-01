@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Başka bir cihaz bağla…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Hesap doğrulanmamış
+account-send-tab-to-device-verify2 = Hesabınızı doğrulayın
 account-send-tab-to-device-verify = Hesabınızı doğrulayın…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

@@ -414,6 +414,9 @@ quickactions-cmd-help = yardım, destek
 # Opens the devtools web inspector
 quickactions-inspector2 = Geliştirici araçlarını aç
 quickactions-cmd-inspector2 = denetçi, geliştirici araçları, inspector, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Renk seç
+quickactions-cmd-colorpicker = renk seçici, damlalık
 # Opens Firefox Library
 quickactions-cmd-library = arşiv
 quickactions-library = Arşivi aç
