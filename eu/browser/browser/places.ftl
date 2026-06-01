@@ -108,8 +108,8 @@ managed-bookmarks-subfolder =
 other-bookmarks-folder =
     .label = Beste laster-markak
 places-show-in-folder =
-    .label = Erakutsi Finder-en
-    .accesskey = F
+    .label = Erakutsi karpetan
+    .accesskey = k
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
