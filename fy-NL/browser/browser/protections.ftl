@@ -244,3 +244,9 @@ privacy-metrics-empty = Gjin trackers blokkearre dizze wike. { -brand-short-name
 privacy-metrics-loading = Beskermingsstatistiken lade…
 privacy-metrics-error = Kin beskermingsstatistiken net lade.
 privacy-metrics-private-window = { -brand-short-name } bliuwt trackers blokkearje yn priveefinsters, mar hâldt net by wat blokkearre is.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = { -mozilla-vpn-brand-name } downloade
+protections-vpn-title-subscribed = VPN: Abonnearre
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } downloade

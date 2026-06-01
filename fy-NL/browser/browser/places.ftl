@@ -269,5 +269,10 @@ places-search-downloads =
 
 places-locked-prompt = It blêdwizer- en skiednissysteem sil net funksjoneel wêze, omdat ien de bestannen fan { -brand-short-name } yn gebrûk is troch in oare applikaasje. Guon feilichheidsprogramma's kinne dit feroarsaakje.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Map diele
+    .badge = Nij
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Map diele

@@ -15,6 +15,8 @@ content-sharing-tabs-title =
         [one] { $count } aba
        *[other] { $count } abas
     }
+content-sharing-modal-view-page-2 =
+    .label = Exibição prévia da página
 content-sharing-modal-copy-link =
     .label = Copiar link
 content-sharing-modal-generating-page =
