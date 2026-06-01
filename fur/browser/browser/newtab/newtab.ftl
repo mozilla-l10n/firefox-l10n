@@ -818,6 +818,14 @@ newtab-widget-timer-running-break = Pause
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Plate temporizadôr
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Biel lavôr
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = La tô pause e je finide
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Ti coventie une pause?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Sêstu pront(e) a concentrâti?
 
 ##
 
@@ -831,6 +839,27 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Sielç un fonts
 newtab-sports-widget-skip = Salte
+newtab-sports-widget-done-button =
+    .label = Fat
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Altris regjons
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Vierç direte video
+    .title = Vierç direte video
+newtab-sports-widget-group-stage = Fase a zirons
+newtab-sports-widget-group-a = Grup A
+newtab-sports-widget-group-b = Grup B
+newtab-sports-widget-group-c = Grup C
+newtab-sports-widget-group-d = Grup D
+newtab-sports-widget-group-e = Grup E
+newtab-sports-widget-group-f = Grup F
+newtab-sports-widget-group-g = Grup G
+newtab-sports-widget-group-h = Grup H
+newtab-sports-widget-group-i = Grup I
+newtab-sports-widget-group-j = Grup J
+newtab-sports-widget-group-k = Grup K
+newtab-sports-widget-group-l = Grup L
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -853,3 +882,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Chest spazi al va daûr lis tôs regulis
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti lasse navigâ come che ti plâs, un mût plui personâl di scomençâ la zornade in rêt. Rint { -brand-product-name } pardabon to.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Plate orloi
+newtab-clock-widget-menu-learn-more = Plui informazions
+newtab-clock-widget-menu-edit = Modifiche i orlois
+newtab-clock-widget-menu-switch-to-12h = Passe al formât di 12 oris
+newtab-clock-widget-menu-switch-to-24h = Passe al formât di 24 oris
+newtab-clock-widget-label-your-clocks = I tiei orlois
+newtab-clock-widget-search-location-input =
+    .label = Posizion
+    .placeholder = Cîr une citât
+    .aria-label = Cîr une citât
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Sorenon (facoltatîf)
+    .placeholder = Zonte un sorenon
+    .aria-label = Sorenon (facoltatîf)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Zonte gnûf orloi
+    .aria-label = Zonte gnûf orloi
+newtab-clock-widget-button-add-clock = Zonte
+newtab-clock-widget-button-cancel = Anule
+newtab-clock-widget-button-back =
+    .title = Indaûr
+    .aria-label = Indaûr
+newtab-clock-widget-button-edit-clock =
+    .title = Modifiche orloi
+    .aria-label = Modifiche orloi
+newtab-clock-widget-button-save = Salve
+newtab-clock-widget-button-remove-clock =
+    .title = Gjave orloi
+    .aria-label = Gjave orloi
+newtab-clock-widget-add-clock-form =
+    .aria-label = Zonte orloi
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Modifiche orloi
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Risultâts de ricercje
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Vierç il menù pal orloi
+    .aria-label = Vierç il menù pal orloi
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Sorenon: { $nickname }
