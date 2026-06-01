@@ -15,10 +15,19 @@ content-sharing-tabs-title =
         [one] { $count } fane
        *[other] { $count } faner
     }
+content-sharing-modal-view-page-2 =
+    .label = Forhåndsvis side
 content-sharing-modal-copy-link =
     .label = Kopier lenke
 content-sharing-modal-generating-page =
     .label = Genererer side …
 content-sharing-modal-link-copied =
     .label = Lenke kopiert
+content-sharing-modal-sign-in-2 =
+    .label = Logg inn for å dele
+content-sharing-modal-title-2 = Del disse sidene med hvem som helst
+content-sharing-modal-title-signed-in = Lenkene dine er klare for å deles
+content-sharing-modal-description-2 = Logg inn for å opprette en side med lenker som er enkel å dele. Den kan ikke redigeres eller slettes og utløper etter 7 dager.
+content-sharing-modal-description-signed-in = Vi har laget en side som er enkel å dele med lenkene dine. Den kan ikke redigeres eller slettes og utløper etter 7 dager.
 content-sharing-modal-policy = Ved å dele godtar du <a data-l10n-name="aup-link">retningslinjene våre for akseptabel bruk</a>
+content-sharing-modal-some-invalid-links = Noen lenker kan ikke deles.

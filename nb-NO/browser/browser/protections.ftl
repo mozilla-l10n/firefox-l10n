@@ -239,3 +239,8 @@ privacy-metrics-empty = Ingen sporere blokkert denne uken. { -brand-short-name }
 privacy-metrics-loading = Laster inn beskyttelsesstatistikk …
 privacy-metrics-error = Klarte ikke å laste inn beskyttelsesstatistikk.
 privacy-metrics-private-window = { -brand-short-name } fortsetter å blokkere sporere i private vinduer, men lagrer ikke en oversikt over hva som ble blokkert.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Abonnerer

@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Ikke tillat
     .accesskey = I
 webext-perms-host-description-all-urls = Få tilgang til dine data for alle nettsteder
+webext-perms-host-description-file-urls = Tilgang til lokale filer på datamaskinen din
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Få tilgang til dine data fra nettsteder under { $domain }-domenet

@@ -141,6 +141,11 @@ sidebar-menu-history-label =
     .label = Historikk
 sidebar-menu-synced-tabs-label =
     .label = Faner fra andre enheter
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Åpne faner
 sidebar-menu-bookmarks-label =
     .label = Bokmerker
 sidebar-menu-customize-label =
@@ -187,6 +192,10 @@ sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
     .heading = Faner fra andre enheter
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Åpne faner
 sidebar-menu-cpm-header =
     .heading = Passord
 sidebar-menu-bookmarks-header =
@@ -206,6 +215,9 @@ sidebar-bookmarks-folder-mobile = Mobile bokmerker
 sidebar-customize-title = Tilpass sidestolpe
 sidebar-history-title = Historikk
 sidebar-syncedtabs-title = Faner fra andre enheter
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Åpne faner
 
 ## Context for closing synced tabs when hovering over the items
 
