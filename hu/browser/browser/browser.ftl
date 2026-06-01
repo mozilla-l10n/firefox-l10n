@@ -414,6 +414,9 @@ quickactions-cmd-help = súgó, támogatás
 # Opens the devtools web inspector
 quickactions-inspector2 = Fejlesztői eszközök megnyitása
 quickactions-cmd-inspector2 = inspector, vizsgáló, devtools, fejlesztői eszközök
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Válasszon egy színt
+quickactions-cmd-colorpicker = színválasztó, pipetta, szín választása
 # Opens Firefox Library
 quickactions-cmd-library = könyvtár
 quickactions-library = Könyvtár megnyitása

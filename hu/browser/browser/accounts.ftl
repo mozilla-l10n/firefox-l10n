@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Másik eszköz csatlakoztatása…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = A fiók nincs ellenőrizve
+account-send-tab-to-device-verify2 = Fiók ellenőrzése
 account-send-tab-to-device-verify = Fiók ellenőrzése…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
