@@ -36,3 +36,6 @@ content-sharing-modal-too-many-pages =
     .heading = 您已分享 { $count } 個頁面
     .message = 請於任一頁面失效後再重試。
 content-sharing-modal-some-invalid-links = 無法分享某些鏈結。
+content-sharing-modal-generic-error-2 =
+    .heading = 有些東西不對勁
+    .message = 我們目前無法建立您想要分享的頁面，請稍候再試。
