@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Conet un altri dispositîf…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Account no verificât
+account-send-tab-to-device-verify2 = Verifiche il to account
 account-send-tab-to-device-verify = Verifiche il to account…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

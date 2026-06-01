@@ -152,6 +152,12 @@ webext-site-perms-description-gated-perms-midi =
     
     
     În mod normal, site-urile web nu au permisiunea de a accesa dispozitive MIDI. Utilizarea necorespunzătoare ar putea provoca daune sau ar putea compromite securitatea.
+webext-site-perms-description-gated-perms-webserial =
+    Sunt dispozitive precum microcontrolere, imprimante 3D și alte dispozitive care se conectează prin USB, porturi seriale sau Bluetooth.
+    
+    Vei putea alege la ce dispozitive va avea acces site-ul web.
+    
+    În mod normal, site-urile web nu au acces la dispozitive seriale. Utilizarea necorespunzătoare poate duce la defecțiuni sau compromiterea securității.
 webext-site-perms-description-gated-perms-serial =
     Sunt dispozitive precum microcontrolere, imprimante 3D și alte dispozitive care se conectează prin USB sau porturi seriale.
     

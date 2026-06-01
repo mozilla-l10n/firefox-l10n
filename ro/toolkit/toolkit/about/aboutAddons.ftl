@@ -477,6 +477,10 @@ addon-permissions-empty = Această extensie nu necesită nicio permisiune
 addon-permissions-required = Permisiuni necesare pentru funcționalitatea de bază:
 addon-permissions-optional = Permisiuni opționale pentru funcționalitatea adăugată:
 addon-permissions-learnmore = Află mai multe despre permisiuni
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Unele permisiuni sunt gestionate de organizația ta.
 recommended-extensions-heading = Extensii recomandate
 recommended-themes-heading = Teme recomandate
 # Variables:
@@ -588,6 +592,7 @@ mlmodel-link-preview = { -brand-short-name } o folosește ca să genereze puncte
 mlmodel-pdfjs = { -brand-short-name } o folosește ca să creeze text alternativ pentru imagini pe care le adaugi în PDF-uri
 mlmodel-smart-tab-topic-engine = { -brand-short-name } o folosește ca să sugereze denumiri pentru grupele tale de file
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } o folosește ca să sugereze file pentru grupurile tale de file
+mlmodel-formfill-engine = { -brand-short-name } îl folosește pentru a ajuta la completarea formularelor de adresă
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI pe dispozitiv
 addon-category-mlmodel-title =

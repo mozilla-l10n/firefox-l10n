@@ -414,6 +414,9 @@ quickactions-cmd-help = jutori, supuart, assistence
 # Opens the devtools web inspector
 quickactions-inspector2 = Vierç struments di disvilup
 quickactions-cmd-inspector2 = ispetôr, struments di svilup, devtools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Sielç un colôr
+quickactions-cmd-colorpicker = seletôr colôr, contegotis, sielç colôr
 # Opens Firefox Library
 quickactions-cmd-library = Librarie
 quickactions-library = Vierç librarie

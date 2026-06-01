@@ -385,6 +385,8 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-button = Creează un grup de file
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Grup nou
 
 ## Open/saved tab group context menu
 
