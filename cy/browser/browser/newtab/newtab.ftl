@@ -1042,6 +1042,8 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Ychwanegu teclyn
 newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gyda theclynnau { -brand-product-name }
 newtab-sports-widget-message-day-in-play-body = Dilynwch Gwpan y Byd, cadw ar y dasg, dilyn amser o amgylch y byd, a mwy.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Archwilio'r teclynnau
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1103,6 +1105,19 @@ newtab-clock-widget-button-save = Cadw
 newtab-clock-widget-button-remove-clock =
     .title = Tynnu cloc
     .aria-label = Tynnu cloc
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, llysenw: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Ychwanegu cloc
 newtab-clock-widget-edit-clock-form =

@@ -49,6 +49,7 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
 fxa-menu-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
 fxa-menu-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
+fxviewtabrow-send-to-mobile-not-verified = Cyfrif heb ei wirio
 fxa-menu-send-to-mobile-turn-on-sync = Trowch cydweddu ymlaen i anfon tabiau
 fxa-menu-send-to-mobile-connect-device = Cysylltwch ddyfais i anfon tabiau
 # Variables:

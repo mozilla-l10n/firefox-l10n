@@ -324,3 +324,24 @@ privacy-metrics-empty = Does dim tracwyr wedi'u rhwystro'r wythnos hon. Mae { -b
 privacy-metrics-loading = Wrthi'n llwytho ystadegau diogelu…
 privacy-metrics-error = Methu llwytho ystadegau diogelu.
 privacy-metrics-private-window = Mae { -brand-short-name } yn parhau i rwystro tracwyr mewn Ffenestri Preifat, ond nid yw'n cadw cofnod o'r hyn sydd wedi'u rhwystro.
+
+## VPN promo card and banner
+
+protections-vpn-title = Ewch â diogelwch preifatrwydd y tu hwnt i'r porwr
+protections-vpn-header-content = Diogelwch eich dyfais gyfan gyda { -mozilla-vpn-brand-name }. Mae un tap yn amgryptio'r holl draffig ac yn cuddio'ch lleoliad.
+protections-get-vpn-link = Cael { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Wedi tanysgrifio
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [zero] Mae defnyddio { -mozilla-vpn-brand-name } yn amgryptio eich holl draffig ac yn cuddio eich lleoliad — ar hyd at { $count } dyfeisiau. Manteisiwch i'r eithaf ar eich tanysgrifiad — ychwanegwch ef o'r <a data-l10n-name="playstore-link">Google Play Store</a> neu <a data-l10n-name="appstore-link">Apple App Store </a>.
+        [one] Mae defnyddio { -mozilla-vpn-brand-name } yn amgryptio eich holl draffig ac yn cuddio eich lleoliad — ar hyd at { $count } dyfais. Manteisiwch i'r eithaf ar eich tanysgrifiad — ychwanegwch ef o'r <a data-l10n-name="playstore-link">Google Play Store</a> neu <a data-l10n-name="appstore-link">Apple App Store </a>.
+        [two] Mae defnyddio { -mozilla-vpn-brand-name } yn amgryptio eich holl draffig ac yn cuddio eich lleoliad — ar hyd at { $count } ddyfais. Manteisiwch i'r eithaf ar eich tanysgrifiad — ychwanegwch ef o'r <a data-l10n-name="playstore-link">Google Play Store</a> neu <a data-l10n-name="appstore-link">Apple App Store </a>.
+        [few] Mae defnyddio { -mozilla-vpn-brand-name } yn amgryptio eich holl draffig ac yn cuddio eich lleoliad — ar hyd at { $count } dyfais. Manteisiwch i'r eithaf ar eich tanysgrifiad — ychwanegwch ef o'r <a data-l10n-name="playstore-link">Google Play Store</a> neu <a data-l10n-name="appstore-link">Apple App Store </a>.
+        [many] Mae defnyddio { -mozilla-vpn-brand-name } yn amgryptio eich holl draffig ac yn cuddio eich lleoliad — ar hyd at { $count } dyfais. Manteisiwch i'r eithaf ar eich tanysgrifiad — ychwanegwch ef o'r <a data-l10n-name="playstore-link">Google Play Store</a> neu <a data-l10n-name="appstore-link">Apple App Store </a>.
+       *[other] Mae defnyddio { -mozilla-vpn-brand-name } yn amgryptio eich holl draffig ac yn cuddio eich lleoliad — ar hyd at { $count } dyfais. Manteisiwch i'r eithaf ar eich tanysgrifiad — ychwanegwch ef o'r <a data-l10n-name="playstore-link">Google Play Store</a> neu <a data-l10n-name="appstore-link">Apple App Store </a>.
+    }
+protections-vpn-banner-header = Diogelwch sy'n ymestyn y tu hwnt i'r porwr
+protections-vpn-banner-content = Rhowch gynnig ar { -mozilla-vpn-brand-name } yn ddiamod a gweld pam mae TechRadar yn dweud, “mae ei gyflymder, ei symlrwydd a’i bris misol isel yn ei gwneud hi’n werth ei ystyried.”
+protections-vpn-banner-link = Cael { -mozilla-vpn-brand-name }

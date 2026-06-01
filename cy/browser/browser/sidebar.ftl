@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Sgwrsfot AI
 menu-view-contextual-password-manager =
     .label = Cyfrineiriau
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Tabiau Agored
 sidebar-options-menu-button =
     .title = Agor dewislen
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Hanes
 sidebar-menu-synced-tabs-label =
     .label = Tabiau o ddyfeisiau eraill
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Tabiau agored
 sidebar-menu-bookmarks-label =
     .label = Nodau Tudalen
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Hanes
 sidebar-menu-syncedtabs-header =
     .heading = Tabiau o ddyfeisiau eraill
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Tabiau agored
 sidebar-menu-cpm-header =
     .heading = Cyfrineiriau
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Nodau Tudalen Symudol
 sidebar-customize-title = Cyfaddasu'r bar offer
 sidebar-history-title = Hanes
 sidebar-syncedtabs-title = Tabiau o ddyfeisiau eraill
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Tabiau agored
 
 ## Context for closing synced tabs when hovering over the items
 

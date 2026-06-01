@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Analluogi Pori Preifat.
 policy-DisableProfileImport = Analluogi'r gorchymyn dewislen i fewnforio data o borwr arall.
 policy-DisableProfileRefresh = Analluogi botwm Adnewyddu { -brand-short-name } yn nhudalen about:support
 policy-DisableRemoteImprovements = Atal { -brand-short-name } rhag gosod newidiadau perfformiad, sefydlogrwydd, a nodwedd rhwng diweddariadau.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Analluogi gosodiadau pell.
 policy-DisableSafeMode = Analluogi'r nodwedd i ailgychwyn yn y Modd Diogel. Sylw: dim ond drwy'r Polisi Grŵp y mae modd analluogi'r defnydd o fysell Shift i fynd i'r modd Diogel.
 policy-DisableSecurityBypass = Rhwystro'r defnyddiwr rhag osgoi rhai rhybuddion diogelwch.
 policy-DisableSetAsDesktopBackground = Analluogi'r dewislen gorchymyn Gosod fel Delwedd Cefndir ar gyfer delwddau.
