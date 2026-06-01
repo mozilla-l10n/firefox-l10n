@@ -117,6 +117,8 @@ legacy-extensions-description = Nid yw'r estyniadau hyn yn cyrraedd safonau cyfr
 private-browsing-description2 =
     Mae { -brand-short-name } yn newid sut mae estyniadau'n gweithio o fewn pori preifat. Ni fydd unrhyw estyniadau newydd y byddwch chi'n eu hychwanegu at { -brand-short-name } yn rhedeg yn ragosodedig o fewn Ffenestri Prefat. Oni bai eich bod yn ei ganiatáu yn y gosodiadau, ni fydd estyniad yn gweithio wrth bori'n preifat, ac ni chaiff fynediad at eich gweithgareddau ar-lein yno. Rydym wedi gwneud y newid hwn i gadw eich pori preifat yn breifat.
     <label data-l10n-name="private-browsing-learn-more">Dysgu sut i reoli gosodiadau estyniad.</label>
+aboutaddons-sidebar =
+    .heading = Ychwanegion
 addon-category-discover = Argymhellion
 addon-category-discover-title =
     .title = Argymhellion
@@ -493,6 +495,10 @@ addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
 addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
 addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwanegol:
 addon-permissions-learnmore = Darllen rhagor am ganiatâd
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Mae rhai caniatâd yn cael eu rheoli gan eich sefydliad.
 recommended-extensions-heading = Estyniadau Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
 # Variables:

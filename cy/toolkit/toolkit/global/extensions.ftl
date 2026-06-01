@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Gwrthod
     .accesskey = G
 webext-perms-host-description-all-urls = Cael mynediad at eich data ar gyfer pob gwefan
+webext-perms-host-description-file-urls = Cael mynediad at ffeiliau lleol ar eich cyfrifiadur
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Cael mynediad at eich data ym mhob gwefan ym mharth { $domain }

@@ -29,14 +29,14 @@ content-sharing-modal-view-page-2 =
 content-sharing-modal-copy-link =
     .label = Copïo dolen
 content-sharing-modal-generating-page =
-    .label = Yn cynhyrchu tudalen…
+    .label = Yn creu tudalen…
 content-sharing-modal-link-copied =
     .label = Dolen wedi'i chopïo
 content-sharing-modal-sign-in-2 =
     .label = Mewngofnodwch i rannu
 content-sharing-modal-title-2 = Rhannwch y tudalennau hyn gydag unrhyw un
-content-sharing-modal-title-signed-in = Mae eich dolenni yn barod i'w rhannu
-content-sharing-modal-description-2 = Mewngofnodwch i greu tudalen o ddolenni hawdd ei rhannu.Does dim modd ei golygu na'i dileu ac mae'n dod i ben ar ôl 7 diwrnod.
+content-sharing-modal-title-signed-in = Mae eich dolenni'n barod i'w rhannu
+content-sharing-modal-description-2 = Mewngofnodwch i greu tudalen o ddolenni hawdd ei rhannu. Does dim modd ei golygu na'i dileu ac mae'n dod i ben ar ôl 7 diwrnod.
 content-sharing-modal-description-signed-in = Rydym wedi creu tudalen hawdd ei rhannu gyda'ch dolenni. Does dim modd ei golygu na'i dileu ac mae'n dod i ben ar ôl 7 diwrnod.
 content-sharing-modal-policy = Trwy rannu, rydych yn cytuno i'n <a data-l10n-name="aup-link">Polisi Defnydd Derbyniol</a>
 # This is a warning to the user when they try to share more than the maximum
