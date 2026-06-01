@@ -263,18 +263,18 @@ newtab-empty-section-highlights = Cychwynnwch bori ac fe ddangoswn rhai erthygla
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Rydych wedi dal i fynDewch nôl rhywbryd eto am fwy o'r straeon pwysicaf gan { $provider }. Methu aros? Dewiswch bwnc poblogaidd i ganfod straeon da o ar draws y we.
+newtab-empty-section-topstories = Rydych yn gyfredol. Dewch nôl rhywbryd eto am fwy o'r straeon pwysicaf gan { $provider }. Methu aros? Dewiswch bwnc poblogaidd i ganfod straeon da ar draws y we.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Rydych yn gyfredol. Dewch nôl yn ddiweddarach am fwy o straeon. Methu aros? Dewiswch bwnc poblogaidd i ganfod rhagor o straeon difyr o bob rhan o'r we.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
-newtab-discovery-empty-section-topstories-header = Wedi dal i fyny!
+newtab-discovery-empty-section-topstories-header = Rydych yn gyfredol!
 newtab-discovery-empty-section-topstories-content = Dewch nôl eto am ragor o straeon.
 newtab-discovery-empty-section-topstories-try-again-button = Ceisiwch eto
 newtab-discovery-empty-section-topstories-loading = Yn llwytho…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran hon, ond nid yn llwyr.
+newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a llwytho'r adran hon, ond nid yn llwyr.
 
 ## Pocket Content Section.
 
@@ -983,14 +983,14 @@ newtab-sports-widget-done-button =
 # Shown in the follow-teams list for a team that has been knocked out of the tournament.
 # Variables:
 #   $teamName (string) - the localized team name (e.g. "Canada").
-newtab-sports-widget-team-name-eliminated = { $teamName } ( wedi'i ddileu)
+newtab-sports-widget-team-name-eliminated = { $teamName } ( wedi'i fwrw allan)
 newtab-sports-widget-view-all =
     .label = Gweld y cyfan
 newtab-sports-widget-show-less =
     .label = Dangos llai
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
-    .label = Dim ond timau yn cael eu dilyn
+    .label = Dim ond timau sy'n cael eu dilyn
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Gwylio
