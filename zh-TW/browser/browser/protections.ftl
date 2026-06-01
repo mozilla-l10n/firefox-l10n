@@ -216,5 +216,9 @@ protections-vpn-title = 把隱私保護帶到瀏覽器以外
 protections-vpn-header-content = 使用 { -mozilla-vpn-brand-name } 保護您的整台裝置，只要一點即可加密完整流量、隱藏您的所在位置。
 protections-get-vpn-link = 獲得 { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN：已訂閱
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed = 使用 { -mozilla-vpn-brand-name } 於最多 { $count } 台裝置加密您的所有網路流量，隱藏您的實際所在位置。獲得您的訂閱內容的完整功能：請到 <a data-l10n-name="playstore-link">Google Play 商店</a>或 <a data-l10n-name="appstore-link">Apple App Store</a> 下載。
 protections-vpn-banner-header = 保護不僅限於瀏覽器
+protections-vpn-banner-content = 免費試用 { -mozilla-vpn-brand-name }，看看為什麼 TechRadar 說「他的速度、簡潔程度、每月低價格使其值得一試」。
 protections-vpn-banner-link = 下載 { -mozilla-vpn-brand-name }
