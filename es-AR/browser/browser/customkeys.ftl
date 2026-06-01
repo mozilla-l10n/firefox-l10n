@@ -37,6 +37,17 @@ customkeys-nav-home = Inicio
 customkeys-nav-reload = Recargar
 customkeys-nav-reload-skip-cache = Recargar (ignorar caché)
 customkeys-nav-stop = Detener
+customkeys-nav-select-tab-1 = Ir a la pestaña 1
+customkeys-nav-select-tab-2 = Ir a la pestaña 2
+customkeys-nav-select-tab-3 = Ir a la pestaña 3
+customkeys-nav-select-tab-4 = Ir a la pestaña 4
+customkeys-nav-select-tab-5 = Ir a la pestaña 5
+customkeys-nav-select-tab-6 = Ir a la pestaña 6
+customkeys-nav-select-tab-7 = Ir a la pestaña 7
+customkeys-nav-select-tab-8 = Ir a la pestaña 8
+customkeys-nav-select-last-tab = Ir a la última pestaña
+customkeys-edit-find-previous = Buscar anterior
+customkeys-tools-screenshot = Hacer captura de pantalla
 customkeys-caution-message = Esta función es experimental y puede ser que no funcione como se esperaba.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválida
