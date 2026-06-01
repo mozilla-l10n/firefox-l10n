@@ -47,3 +47,42 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Creazion di sîts web c
 
 more-from-moz-mdn-description = Impare a svilupâ pal web cun vuidis e riferiments gratuits e complets.
 more-from-moz-mdn-button = Impare a svilupâ pal web
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Scuvierç là che lis tôs informazions personâls a son stadis metudis fûr in rêt cuntune scansion gratuite.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Oten une protezion in plui par dutis lis aplicazions, no nome pal navigadôr. Ten al sigûr i tiei dâts tes rêts Wi-Fi publichis o in chês pôc siguris.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Protêç la tô casele di pueste in jentrade dal spam cun mascaris di e-mail gratuitis.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Impare a svilupâ pagjinis web cu lis vuidis gratuitis e i riferiments.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Jentre te tô e-mail, tai calendaris e dopre i contats cuntune svelte aplicazion.
+more-from-moz-solo-card-1 =
+    .label = { -solo-ai-brand-name }
+    .description = Cree il to sît web intun lamp e conet il to domini personalizât a gratis.
+more-from-moz-new-products-card2 =
+    .label = Gnûfs prodots { -vendor-short-name }
+    .description = Esplore lis nestris ultimis ideis e tecnologjiis sperimentâls.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Oten { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Oten { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Oten { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Jentre su MDN
+more-from-moz-thunderbird-box-link =
+    .label = Oten { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Prove { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Scuvierç i gnûfs prodots

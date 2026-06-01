@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferencis pe riservatece dai sîts web
+do-not-track-removal3 =
+    .message = No supuartìn plui la funzion "Do not Track".
+non-technical-privacy-heading =
+    .label = Protezions in plui
 non-technical-privacy-header = Preferencis pe riservatece dai sîts web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
