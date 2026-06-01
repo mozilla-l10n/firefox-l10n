@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Chatbot AI
 menu-view-contextual-password-manager =
     .label = Parole
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = File deschise
 sidebar-options-menu-button =
     .title = Deschide meniul
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Istoric
 sidebar-menu-synced-tabs-label =
     .label = File de pe alte dispozitive
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = File deschise
 sidebar-menu-bookmarks-label =
     .label = Marcaje
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Istoric
 sidebar-menu-syncedtabs-header =
     .heading = File de pe alte dispozitive
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = File deschise
 sidebar-menu-cpm-header =
     .heading = Parole
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Marcaje mobile
 sidebar-customize-title = Personalizează bara laterală
 sidebar-history-title = Istoric
 sidebar-syncedtabs-title = File de pe alte dispozitive
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = File deschise
 
 ## Context for closing synced tabs when hovering over the items
 

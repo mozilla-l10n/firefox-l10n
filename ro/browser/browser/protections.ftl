@@ -264,3 +264,11 @@ privacy-metrics-empty = Niciun element de urmărire blocat săptămâna aceasta.
 privacy-metrics-loading = Se încarcă statisticile de protecție…
 privacy-metrics-error = Nu se pot încărca statisticile de protecție.
 privacy-metrics-private-window = { -brand-short-name } continuă să blocheze elementele de urmărire în ferestre private, dar nu ține o evidență cu ce a blocat.
+
+## VPN promo card and banner
+
+protections-vpn-title = Du protecția confidențialității dincolo de browser
+protections-vpn-header-content = Protejează-ți întregul dispozitiv cu { -mozilla-vpn-brand-name }. O singură atingere criptează tot traficul și îți ascunde locația.
+protections-get-vpn-link = Obține { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Abonat
+protections-vpn-banner-link = Obține { -mozilla-vpn-brand-name }

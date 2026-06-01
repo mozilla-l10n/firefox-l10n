@@ -43,7 +43,10 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Activează sincronizarea ca să trimiți o filă
 fxa-menu-send-to-mobile-connect-phone2 = Conectează-te la telefon
 fxa-menu-send-to-mobile-device-missing2 = Nu vezi dispozitivul?
+fxviewtabrow-send-to-mobile-not-verified = Cont neverificat
 fxviewtabrow-send-to-mobile-verify-account = Verifică-ți contul
+fxa-menu-send-to-mobile-turn-on-sync = Activează sincronizarea ca să trimiți file
+fxa-menu-send-to-mobile-connect-device = Conectează un dispozitiv ca să trimiți file
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
