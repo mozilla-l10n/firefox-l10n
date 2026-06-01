@@ -416,6 +416,7 @@ quickactions-inspector2 = Agor Offer Datblygwyr
 quickactions-cmd-inspector2 = arolygydd, devtools, offer datblygwr
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Dewiswch liw
+quickactions-cmd-colorpicker = dewisydd lliw, dewisydd union liw, dewis lliw
 # Opens Firefox Library
 quickactions-cmd-library = llyfrgell
 quickactions-library = Agor y Llyfrgell
@@ -472,6 +473,9 @@ quickactions-cmd-update = diweddaru
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Darllen Cod Gwreiddiol y Dudalen
 quickactions-cmd-viewsource2 = gweld y ffynhonnell, ffynhonnell, ffynhonnell dudalen
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Agor { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, arbrawf
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1314,6 +1318,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
