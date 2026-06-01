@@ -26,6 +26,13 @@ content-sharing-modal-link-copied =
 content-sharing-modal-title-2 = Μοιραστείτε αυτές τις σελίδες με οποιονδήποτε
 content-sharing-modal-title-signed-in = Οι σύνδεσμοί σας είναι έτοιμοι για κοινή χρήση
 content-sharing-modal-policy = Κάνοντας κοινοποίηση, συμφωνείτε με την <a data-l10n-name="aup-link">Πολιτική αποδεκτής χρήσης</a> μας
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+       *[other] Θα συμπεριληφθούν μόνο { $count } σύνδεσμοι
+    }
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

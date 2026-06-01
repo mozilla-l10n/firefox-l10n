@@ -18,6 +18,7 @@ customkeys-file-focus-search = Εστίαση στη γραμμή αναζήτη
 customkeys-history-reopen-tab = Επαναφορά τελευταίας κλειστής καρτέλας
 customkeys-history-reopen-window = Επαναφορά τελευταίου κλειστού παραθύρου
 customkeys-sidebar-toggle = (Απ)ενεργοποίηση πλαϊνής γραμμής
+customkeys-view-bookmarks-toolbar = Εναλλαγή γραμμής σελιδοδεικτών
 customkeys-view-picture-in-picture = Εικόνα εντός εικόνας
 customkeys-dev-tools = Εργαλεία ανάπτυξης ιστού
 customkeys-dev-inspector = Επιθεώρηση DOM και μορφοποίησης

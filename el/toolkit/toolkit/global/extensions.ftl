@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Άρνηση
     .accesskey = ρ
 webext-perms-host-description-all-urls = Πρόσβαση στα δεδομένα σας για κάθε ιστότοπο
+webext-perms-host-description-file-urls = Πρόσβαση σε τοπικά αρχεία του υπολογιστή σας
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Πρόσβαση στα δεδομένα σας για ιστοτόπους στον τομέα { $domain }
