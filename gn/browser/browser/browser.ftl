@@ -414,6 +414,9 @@ quickactions-cmd-help = pytyvõ, pytyvõha
 # Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
 quickactions-cmd-inspector2 = hechahára, devtools, tembiporu mboguatahárape g̃uarã
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Eiporavo sa’y
+quickactions-cmd-colorpicker = sa’y poravoha, tykypapaha, sa’y poravo
 # Opens Firefox Library
 quickactions-cmd-library = Arandukaty
 quickactions-library = Embojuruja Arandukaty

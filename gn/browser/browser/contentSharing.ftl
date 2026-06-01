@@ -15,6 +15,8 @@ content-sharing-tabs-title =
         [one] { $count } tendayke
        *[other] { $count } tendaykeita
     }
+content-sharing-modal-view-page-2 =
+    .label = Kuatiarogue recha’ypy
 content-sharing-modal-copy-link =
     .label = Emonguatia juajuha
 content-sharing-modal-generating-page =

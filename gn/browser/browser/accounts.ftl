@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Embojoaju Ambue Mba’e’oka…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Mba’ete ojehechajey’ỹva
+account-send-tab-to-device-verify2 = Ehechajey ne mba’ete
 account-send-tab-to-device-verify = Ehechajey ne mba’ete…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
