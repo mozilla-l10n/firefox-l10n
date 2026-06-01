@@ -917,6 +917,7 @@ newtab-sports-widget-group-h = Grupa H
 newtab-sports-widget-group-i = Grupa I
 newtab-sports-widget-group-j = Grupa J
 newtab-sports-widget-group-k = Grupa K
+newtab-sports-widget-group-l = Grupa L
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
@@ -940,6 +941,53 @@ newtab-sports-widget-third-place = Locul trei
 newtab-sports-widget-runner-up = Locul 2
 newtab-sports-widget-champions = Campionii
 newtab-sports-widget-world-cup-champions = Campionii Cupei Mondiale din 2026
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) versus { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = În direct: { $homeTeam }, { $homeScore } versus { $awayTeam }, { $awayScore }
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia și Herțegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Coasta de Fildeș
+newtab-sports-widget-team-name-label-cod =
+    .label = R.D. Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglia
+newtab-sports-widget-team-name-label-sco =
+    .label = Scoția
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Începe Cupa Mondială cu imagini noi de fundal
+newtab-sports-widget-message-wallpapers-cta = Alege o imagine de fundal
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Adaugă widgeturi
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Explorează widgeturi
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -969,3 +1017,67 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-clock-widget-menu-hide = Ascunde ceasul
 newtab-clock-widget-menu-learn-more = Află mai multe
 newtab-clock-widget-menu-edit = Editează ceasurile
+newtab-clock-widget-label-your-clocks = Ceasurile tale
+newtab-clock-widget-search-location-input =
+    .label = Locație
+    .placeholder = Caută un oraș
+    .aria-label = Caută un oraș
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Pseudonim (opțional)
+    .placeholder = Adaugă un pseudonim
+    .aria-label = Pseudonim (opțional)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Adaugă un ceas nou
+    .aria-label = Adaugă un ceas nou
+newtab-clock-widget-button-add-clock = Adaugă
+newtab-clock-widget-button-cancel = Anulează
+newtab-clock-widget-button-back =
+    .title = Înapoi
+    .aria-label = Înapoi
+newtab-clock-widget-button-edit-clock =
+    .title = Editează ceasul
+    .aria-label = Editează ceasul
+newtab-clock-widget-button-save = Salvează
+newtab-clock-widget-button-remove-clock =
+    .title = Elimină ceasul
+    .aria-label = Elimină ceasul
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, pseudonim: { $nickname }
+newtab-clock-widget-add-clock-form =
+    .aria-label = Adaugă ceasul
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Editează ceasul
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Rezultatele căutării
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Nicio potrivire
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Deschide meniul pentru ceas
+    .aria-label = Deschide meniul pentru ceas
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Pseudonim: { $nickname }
