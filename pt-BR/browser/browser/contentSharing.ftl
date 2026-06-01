@@ -49,3 +49,6 @@ content-sharing-modal-too-many-pages =
         }
     .message = Tente novamente após uma de suas páginas expirar.
 content-sharing-modal-some-invalid-links = Alguns links não podem ser compartilhados.
+content-sharing-modal-generic-error-2 =
+    .heading = Houve um erro
+    .message = Não foi possível criar sua página compartilhada neste momento. Tente novamentemais tarde.

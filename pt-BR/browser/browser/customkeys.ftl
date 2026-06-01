@@ -17,6 +17,7 @@ customkeys-file-duplicate-tab = Duplicar aba
 customkeys-history-reopen-tab = Reabrir última aba fechada
 customkeys-history-reopen-window = Reabrir última janela fechada
 customkeys-sidebar-toggle = Exibir/ocultar painel lateral
+customkeys-view-bookmarks-toolbar = Ativar/desativar barra de favoritos
 customkeys-view-picture-in-picture = Picture-in-Picture
 customkeys-dev-tools = Ferramentas de desenvolvimento web
 customkeys-dev-inspector = Inspetor de DOM e estilos
@@ -37,6 +38,8 @@ customkeys-nav-home = Início
 customkeys-nav-reload = Recarregar
 customkeys-nav-reload-skip-cache = Recarregar (substituir cache)
 customkeys-nav-stop = Interromper
+customkeys-nav-select-tab-1 = Ir para aba 1
+customkeys-nav-select-tab-2 = Ir para aba 2
 customkeys-caution-message = Este recurso é experimental e pode não funcionar como esperado.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválida
