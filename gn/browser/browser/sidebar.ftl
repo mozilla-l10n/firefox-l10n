@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI chatbot
 menu-view-contextual-password-manager =
     .label = Ñe’ẽñemikuéra
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Embojuruja Tendaykeita
 sidebar-options-menu-button =
     .title = Eike poravorãme
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Tembiasakue
 sidebar-menu-synced-tabs-label =
     .label = Tendaykekuéra ambue mba’e’okagua
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Embojuruja tendaykeita
 sidebar-menu-bookmarks-label =
     .label = Techaukaha
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Tembiasakue
 sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Embojuruja tendaykeita
 sidebar-menu-cpm-header =
     .heading = Ñe’ẽñemikuéra
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Pumbyry Rechaukaha
 sidebar-customize-title = Embohéra ta’ãngarupa ykegua
 sidebar-history-title = Tembiasakue
 sidebar-syncedtabs-title = Tendaykekuéra ambue mba’e’okaygua
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Embojuruja tendaykeita
 
 ## Context for closing synced tabs when hovering over the items
 
