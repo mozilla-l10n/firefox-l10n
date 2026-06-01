@@ -45,3 +45,17 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = Niciun link partajabil inclus
     .message = Pot fi partajate numai linkuri către conținut web.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Ai partajat { $count } pagină
+            [few] Ai partajat { $count } pagini
+           *[other] Ai partajat { $count } de pagini
+        }
+    .message = Încearcă din nou după ce îți expiră una dintre pagini.
+content-sharing-modal-some-invalid-links = Unele linkuri nu pot fi partajate.
+content-sharing-modal-generic-error-2 =
+    .heading = Ceva nu a funcționat
+    .message = Nu am putut să-ți creăm pagina partajată de data aceasta. Încearcă din nou mai târziu.

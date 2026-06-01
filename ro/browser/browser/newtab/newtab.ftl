@@ -825,6 +825,14 @@ newtab-widget-section-menu-manage = Gestionează widgeturile
 newtab-widget-section-menu-hide-all = Ascunde widgeturile
 newtab-widget-section-menu-learn-more = Află mai multe
 newtab-widget-section-feedback = Spune-ne ce părere ai
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Afișează mai multe widgeturi
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Afișează mai puține widgeturi
 newtab-widget-lists-name-default = Listă de verificare
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -857,6 +865,7 @@ newtab-widget-message-title = Stai concentrat(ă) cu liste și un cronometru în
 newtab-widget-message-copy = De la mementouri rapide la liste zilnice de sarcini, sesiuni de concentrare până la pauze de întindere — stai concentrat(ă) pe sarcină și o termini la timp.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Un loc pentru concentrare, prognoză meteo și multe altele
+newtab-widget-message-focus-forecasts-body = Menține-ți fluxul de lucru cu widgeturi { -brand-product-name }. Vezi prognoze meteo, te concentrezi pe sarcini și urmărești ora exactă pe glob.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -923,6 +932,8 @@ newtab-sports-widget-menu-view-results = Vezi rezultate
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Date importante
 newtab-sports-widget-menu-learn-more = Află mai multe
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Fii la curent cu Cupa Mondială
 newtab-sports-widget-get-updates = Obține actualizări în timp real ale meciurilor și multe altele.
 newtab-sports-widget-view-schedule =
     .label = Vezi programul
@@ -930,6 +941,14 @@ newtab-sports-widget-follow-teams =
     .label = Urmărește echipe
 newtab-sports-widget-view-matches =
     .label = Vezi meciuri
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Urmărește până la { $number } echipă
+        [few] Urmărește până la { $number } echipe
+       *[other] Urmărește până la { $number } de echipe
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Alege o imagine de fundal
 newtab-sports-widget-skip = Omite
@@ -971,6 +990,8 @@ newtab-sports-widget-watch-stream-free-trial = Încercare gratuită
 newtab-sports-widget-watch-stream-free-paid = Gratis și plătit
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Plătit
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Doar meciuri selectate
 # Heading for the list of streaming services available in the user’s country/region.
 newtab-sports-widget-watch-available-region = Disponibil în regiunea ta
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -992,6 +1013,9 @@ newtab-sports-widget-group-i = Grupa I
 newtab-sports-widget-group-j = Grupa J
 newtab-sports-widget-group-k = Grupa K
 newtab-sports-widget-group-l = Grupa L
+newtab-sports-widget-round-32 = Runda de 32
+newtab-sports-widget-round-16 = Optimi de finală
+newtab-sports-widget-quarter-finals = Sferturi de finală
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
@@ -1007,6 +1031,13 @@ newtab-sports-widget-semi-finals = Semifinale
 newtab-sports-widget-bronze-finals = Finala de bronz
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finală
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Întârziat
 newtab-sports-widget-postponed = Amânat
 newtab-sports-widget-suspended = Suspendat
@@ -1019,6 +1050,13 @@ newtab-sports-widget-third-place = Locul trei
 newtab-sports-widget-runner-up = Locul 2
 newtab-sports-widget-champions = Campionii
 newtab-sports-widget-world-cup-champions = Campionii Cupei Mondiale din 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Durată integrală
+newtab-sports-widget-match-halftime = Finalul primei reprize
+newtab-sports-widget-match-extra-time = Prelungiri
+newtab-sports-widget-match-penalties = Penalti-uri
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1026,6 +1064,12 @@ newtab-sports-widget-world-cup-champions = Campionii Cupei Mondiale din 2026
 ##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
 ##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
 
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } față de { $awayTeam }, { $awayScore }
 # A finished match row that went to a penalty shootout.
 # Parenthesized values are the shootout score.
 # Variables:
@@ -1041,6 +1085,23 @@ newtab-sports-widget-match-aria-label-results-penalties =
 #   $awayScore (number) - The away team's current score
 newtab-sports-widget-match-aria-label-now =
     .aria-label = În direct: { $homeTeam }, { $homeScore } față de { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, întârziat
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, amânat
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, suspendat
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, anulat
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
@@ -1061,9 +1122,11 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Începe Cupa Mondială cu imagini noi de fundal
+newtab-sports-widget-message-wallpapers-body = Adu energia zilei de meci în browser pentru turneu.
 newtab-sports-widget-message-wallpapers-cta = Alege o imagine de fundal
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adaugă widgeturi
+newtab-sports-widget-message-day-in-play-title = Ține-ți ziua în joc cu widgeturi { -brand-product-name }
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorează widgeturi
 
@@ -1095,6 +1158,8 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-clock-widget-menu-hide = Ascunde ceasul
 newtab-clock-widget-menu-learn-more = Află mai multe
 newtab-clock-widget-menu-edit = Editează ceasurile
+newtab-clock-widget-menu-switch-to-12h = Treci la formatul de 12 ore
+newtab-clock-widget-menu-switch-to-24h = Treci la formatul de 24 de ore
 newtab-clock-widget-label-your-clocks = Ceasurile tale
 newtab-clock-widget-search-location-input =
     .label = Locație

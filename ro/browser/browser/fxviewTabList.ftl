@@ -84,3 +84,8 @@ fxviewtabrow-send-to-mobile-connect-device = Conectează un dispozitiv ca să tr
 fxviewtabrow-send-to-mobile-device-missing2 = Nu vezi dispozitivul?
 fxviewtabrow-send-to-mobile-not-verified = Cont neverificat
 fxviewtabrow-send-to-mobile-verify-account = Verifică-ți contul
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Intră în cont ca să trimiți file
+fxviewtabrow-send-to-mobile-turn-on-sync = Activează sincronizarea ca să trimiți file

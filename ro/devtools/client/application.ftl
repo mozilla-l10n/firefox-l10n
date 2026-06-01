@@ -117,6 +117,10 @@ sidebar-item-session-history = Istoric sesiuni
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Afișează datele despre istoricul sesiunilor
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Schema cu istoricul sesiunilor este indisponibilă
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Ținta nu permite afișarea de scheme cu istoricul sesiunilor
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Pictogramă de avertizare

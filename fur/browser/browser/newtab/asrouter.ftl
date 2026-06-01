@@ -307,6 +307,12 @@ tail-fox-spotlight-subtitle = Salude par simpri lis publicitâts fastidiosis che
 tail-fox-spotlight-primary-button = Vierç i miei colegaments cun { -brand-short-name }
 tail-fox-spotlight-secondary-button = No cumò
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Torne ae riservatece integrade
+welcome-back-spotlight-subtitle = Bentornât tal unic tra i principâls navigadôrs che al è supuartât di une organizazion cence fins di vuadagn. O metìn in pîts misuris in plui buinis par difindi i tiei dâts, dapardut là che tu navighis.
+welcome-back-embedded-import-title = Impuarte i tiei dâts e sintiti come a cjase cun { -brand-short-name }
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Al è pussibil che lis versions plui vecjis di { -brand-short-name } a vedin problemis tacant cui 14 di Zenâr dal 2025.</strong>
