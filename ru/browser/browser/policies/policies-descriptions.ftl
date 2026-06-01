@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Отключает приватный режим
 policy-DisableProfileImport = Отключает команду меню для импорта данных из другого браузера.
 policy-DisableProfileRefresh = Отключает кнопку Обновить { -brand-short-name } на странице about:support.
 policy-DisableRemoteImprovements = Запрещает { -brand-short-name } изменять производительность, стабильность и функции между обновлениями.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Отключить удаленную настройку.
 policy-DisableSafeMode = Отключает функцию для перезапуска в безопасном режиме. Примечание: Клавишу Shift для входа в безопасный режим можно отключить только в Windows с помощью групповой политики.
 policy-DisableSecurityBypass = Не даёт пользователю игнорировать определённые предупреждения системы безопасности.
 policy-DisableSetAsDesktopBackground = Отключает команду меню «Сделать фоновым рисунком рабочего стола…» для изображений.

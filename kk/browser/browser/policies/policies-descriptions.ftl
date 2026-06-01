@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
 policy-DisableProfileRefresh = about:support бетінде { -brand-short-name } жаңғырту батырмасын сөндіру.
 policy-DisableRemoteImprovements = { -brand-short-name } браузерінің жаңартулар арасында өнімділікке, тұрақтылыққа және функцияларға өзгерістер енгізуіне жол бермеу.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Қашықтан басқару параметрлерін сөндіру.
 policy-DisableSafeMode = Қауіпсіз режимде қайта іске қосылу мүмкіндігін сөндіру. Ескерту: Қауіпсіз режиміне өту үшін Shift пернесін Windows-та тек Топтық Саясат көмегімен сөндіруге болады.
 policy-DisableSecurityBypass = Пайдаланушыға кейбір қауіпсіздік ескертулерді аттап кетуге рұқсат етпеу.
 policy-DisableSetAsDesktopBackground = Суреттер үшін Жұмыс үстел фоны ретінде орнату мәзір командасын сөндіру.

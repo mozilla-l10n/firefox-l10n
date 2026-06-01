@@ -825,6 +825,14 @@ newtab-widget-section-menu-manage = Виджеттерді басқару
 newtab-widget-section-menu-hide-all = Виджеттерді жасыру
 newtab-widget-section-menu-learn-more = Көбірек білу
 newtab-widget-section-feedback = Өз ойыңызбен бөлісіңіз
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Көбірек виджеттерді көрсету
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Азырақ виджеттерді көрсету
 newtab-widget-lists-name-default = Тексеру тізімі
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1041,6 +1049,8 @@ newtab-sports-widget-world-cup-champions = 2026 ӘЧ чемпиондары
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Толық уақыт
+newtab-sports-widget-match-halftime = Үзіліс
+newtab-sports-widget-match-extra-time = Қосымша уақыт
 newtab-sports-widget-match-penalties = Пенальти
 
 ## Accessible labels for match rows in the sports widget. These are read by

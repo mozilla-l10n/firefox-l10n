@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = ИИ-чат-бот
 menu-view-contextual-password-manager =
     .label = Пароли
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Открытые вкладки
 sidebar-options-menu-button =
     .title = Открыть меню
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Журнал
 sidebar-menu-synced-tabs-label =
     .label = Вкладки с других устройств
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Открытые вкладки
 sidebar-menu-bookmarks-label =
     .label = Закладки
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Журнал
 sidebar-menu-syncedtabs-header =
     .heading = Вкладки с других устройств
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = из открытых вкладок
 sidebar-menu-cpm-header =
     .heading = Пароли
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Мобильные закладки
 sidebar-customize-title = Настройка боковой панели
 sidebar-history-title = Журнал
 sidebar-syncedtabs-title = Вкладки с других устройств
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = из открытых вкладок
 
 ## Context for closing synced tabs when hovering over the items
 

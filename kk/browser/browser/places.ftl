@@ -267,5 +267,10 @@ places-search-downloads =
 
 places-locked-prompt = Бетбелгілер мен тарих қазір қолжетімсіз, өйткені { -brand-short-name } кейбір файлдарын басқа бағдарлама қолданып тұр. Кейбір қауіпсіздік бағдарламалар осындай мәселені туғызуы мүмкін.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Буманы бөлісу
+    .badge = Жаңа
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Буманы бөлісу

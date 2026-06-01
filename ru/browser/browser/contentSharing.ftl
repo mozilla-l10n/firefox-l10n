@@ -33,6 +33,15 @@ content-sharing-modal-title-signed-in = Ваши ссылки готовы к о
 content-sharing-modal-description-2 = Войдите, чтобы создать страницу ссылок, которой легко поделиться. Она не может быть отредактирована или удалена, а срок её действия истекает через 7 дней.
 content-sharing-modal-description-signed-in = Мы сделали страницу со ссылками лёгкой для передачи. Она не может быть отредактирована или удалена, а срок её действия истекает через 7 дней.
 content-sharing-modal-policy = Делясь, вы соглашаетесь с нашей <a data-l10n-name="aup-link">Политикой приемлемого использования</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Будет включена только { $count } ссылка
+        [few] Будет включено только { $count } ссылки
+       *[many] Будет включено только { $count } ссылок
+    }
 content-sharing-modal-no-shareable-links =
     .heading = Отсутствуют ссылки, которыми можно поделиться
     .message = Разрешается делиться только ссылками на веб-контент.

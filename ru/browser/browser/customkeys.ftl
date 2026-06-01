@@ -50,6 +50,7 @@ customkeys-nav-select-tab-8 = Перейти на вкладку 8
 customkeys-nav-select-last-tab = Перейти к последней вкладке
 customkeys-nav-toggle-mute = Отключить/включить звук аудио
 customkeys-edit-find-previous = Найти предыдущее
+customkeys-tools-screenshot = Сделать снимок экрана
 customkeys-caution-message = Эта функция является экспериментальной и может работать не так, как ожидалось.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Недействителен
