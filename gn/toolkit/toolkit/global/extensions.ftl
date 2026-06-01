@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Mbotove
     .accesskey = M
 webext-perms-host-description-all-urls = Eike ne mba’ekuaarãme opaite ñanduti rendápe g̃uarã
+webext-perms-host-description-file-urls = Eike marandurenda ne mohendahapeguápe
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Eike ne mba’ekuaarãme opaite ñanduti { $domain } mba’etévape

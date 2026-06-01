@@ -826,6 +826,14 @@ newtab-widget-section-menu-manage = Eñangareko widgets
 newtab-widget-section-menu-hide-all = Eñomi widgets
 newtab-widget-section-menu-learn-more = Eikuaave
 newtab-widget-section-feedback = Ja’e mba’épa opensa
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Ehechaukave widgets
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Ehechauka’ive widgets
 newtab-widget-lists-name-default = Tysýi hechajeyha
 
 ## Strings introduced by the Nova redesign of the Timer widget
