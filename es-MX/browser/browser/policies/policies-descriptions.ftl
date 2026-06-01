@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Deshabilitar Navegación Privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón "Recargar { -brand-short-name }" en la página about:support.
 policy-DisableRemoteImprovements = Evita que { -brand-short-name } aplique cambios de rendimiento, estabilidad y funciones entre actualizaciones.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Desactivar configuración remota
 policy-DisableSafeMode = Deshabilitar la función para reiniciar en modo seguro. Nota: la tecla Mayús para ingresar al modo seguro solo se puede deshabilitar en Windows usando la política de grupo.
 policy-DisableSecurityBypass = Evitar que el usuario ignore ciertas advertencias de seguridad.
 policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú configurado como fondo de escritorio para las imágenes.
