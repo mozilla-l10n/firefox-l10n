@@ -40,6 +40,17 @@ customkeys-nav-reload = Ail-lwytho
 customkeys-nav-reload-skip-cache = Ail-lwytho (Diystyru Storfa)
 customkeys-nav-stop = Atal
 customkeys-nav-select-tab-1 = Mynd i Tab 1
+customkeys-nav-select-tab-2 = Mynd i Tab 2
+customkeys-nav-select-tab-3 = Mynd i Tab 3
+customkeys-nav-select-tab-4 = Mynd i Tab 4
+customkeys-nav-select-tab-5 = Mynd i Tab 5
+customkeys-nav-select-tab-6 = Mynd i Tab 6
+customkeys-nav-select-tab-7 = Mynd i Tab 7
+customkeys-nav-select-tab-8 = Mynd i Tab 8
+customkeys-nav-select-last-tab = Mynd i'r Tab Olaf
+customkeys-nav-toggle-mute = Tewi/Dad-dewi Sain
+customkeys-edit-find-previous = Canfod y Blaenorol
+customkeys-tools-screenshot = Cymryd Llun Sgrin
 customkeys-caution-message = Mae'r nodwedd hon yn arbrofol ac efallai na fydd yn gweithio yn ôl y disgwyl.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Annilys

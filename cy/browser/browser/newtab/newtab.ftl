@@ -380,6 +380,8 @@ newtab-custom-widget-sports-toggle =
     .label = Cwpan y Byd
 newtab-custom-widget-clock-toggle =
     .label = Cloc
+newtab-custom-widget-sports-toggle2 =
+    .label = Chwaraeon
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau
@@ -775,6 +777,9 @@ newtab-widget-lists-input-menu-delete = Dileu
 newtab-widget-lists-input-menu-edit = Golygu
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Golygu eitem
+newtab-widget-lists-edit-clear =
+    .aria-label = Diddymu
+    .title = Diddymu
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Creu rhestr newydd
@@ -831,6 +836,14 @@ newtab-widget-section-menu-manage = Rheoli teclynnau
 newtab-widget-section-menu-hide-all = Cuddio teclynnau
 newtab-widget-section-menu-learn-more = Dysgu rhagor
 newtab-widget-section-feedback = Dywedwch wrthym beth yw eich barn
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Dangos rhagor o declynnau
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Dangos llai o declynnau
 newtab-widget-lists-name-default = Rhestr wirio
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -861,6 +874,9 @@ newtab-daily-briefing-card-timestamp = Diweddarwyd { $minutes }m yn ôl
 newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un man ar gyfer canolbwynt, rhagolygon, a mwy
+newtab-widget-message-focus-forecasts-body = Cadwch eich diwrnod i lifo gyda theclynnau { -brand-product-name }. Gwiriwch y rhagolwg, cadw ar dasg, neu ddilyn amser ledled y byd.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -964,6 +980,10 @@ newtab-sports-widget-back-button =
     .aria-label = Nôl
 newtab-sports-widget-done-button =
     .label = Gorffen
+newtab-sports-widget-view-all =
+    .label = Gweld y cyfan
+newtab-sports-widget-show-less =
+    .label = Dangos llai
 newtab-sports-widget-group-stage = Cymal Grŵp
 newtab-sports-widget-round-32 = Rownd o 32
 newtab-sports-widget-round-16 = Rownd o 16
@@ -1002,6 +1022,26 @@ newtab-sports-widget-third-place = Yn Drydydd
 newtab-sports-widget-runner-up = Yn Ail
 newtab-sports-widget-champions = Pencampwyr
 newtab-sports-widget-world-cup-champions = Pencampwyr Cwpan y Byd 2026
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-eng =
+    .label = Lloegr
+newtab-sports-widget-team-name-label-sco =
+    .label = Yr Alban
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Cychwyn Cwpan y Byd gyda phapurau wal newydd
+newtab-sports-widget-message-wallpapers-body = Dewch ag ychydig o egni diwrnod gêm i'ch porwr ar gyfer y twrnamaint.
+newtab-sports-widget-message-wallpapers-cta = Dewis papur wal
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Ychwanegu teclyn
+newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gyda theclynnau { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Dilynwch Gwpan y Byd, cadw ar y dasg, dilyn amser o amgylch y byd, a mwy.
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

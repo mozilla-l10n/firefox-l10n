@@ -82,6 +82,8 @@ fxviewtabrow-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
 fxviewtabrow-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
 fxviewtabrow-send-to-mobile-connect-device = Cysylltwch Ddyfais i Anfon Tabiau
 fxviewtabrow-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
+fxviewtabrow-send-to-mobile-not-verified = Cyfrif Heb ei Wirio
+fxviewtabrow-send-to-mobile-verify-account = Gwirio eich Cyfrif
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

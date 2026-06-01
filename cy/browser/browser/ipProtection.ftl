@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
+ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -34,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rho
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o 5 lleoliad i guddio lle rydych chi'n pori.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o sawl lleoliad i guddio o lle rydych chi'n pori.
 ipprotection-feature-introduction-button-primary = Nesaf
 ipprotection-feature-introduction-button-secondary-not-now = Nid nawr
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -59,6 +62,7 @@ ipprotection-site-settings-callout-button = Iawn
 
 ipprotection-location-selection-callout-title = Newydd: Newidiwch eich lleoliad
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Mae VPN mewnol { -brand-product-name }</a> yn gadael i chi ddewis o 5 lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf ar eich cyfer.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mae VPN mewnol{ -brand-product-name }</a> yn gadael i chi ddewis o sawl lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf.
 ipprotection-location-selection-callout-primary-button = Rhowch gynnig arni
 ipprotection-location-selection-callout-secondary-button = Cau
 
@@ -72,6 +76,7 @@ unauthenticated-choose-location-message = Dewis o 5 lleoliad neu gadael i { -bra
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Cael { $maxUsage } GB o ddata VPN am ddim bob mis.
+unauthenticated-choose-location-message-1 = Dewiswch o sawl lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
 unauthenticated-get-started = Cychwyn arni
 unauthenticated-terms-of-service-privacy-notice = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="vpn-terms-of-service">Telerau Gwasanaeth</a> a'r <a data-l10n-name="vpn-privacy-notice">Hysbysiad Preifatrwydd</a>.
 site-exclusion-toggle-enabled-1 =
@@ -210,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
     .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad. Cewch { $maxUsage } GB o ddata VPN am ddim bob mis.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
+    .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad.
 ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
