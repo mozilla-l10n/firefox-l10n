@@ -709,6 +709,15 @@ newtab-widget-lists-name-placeholder-checklist =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Gnove liste
 newtab-widget-section-title = Widgets
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Sposte
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = A çampe
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = A diestre
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Plate widgets
@@ -722,7 +731,21 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menù widgets
     .aria-label = Vierç menù dai widgets
+newtab-widget-add-widgets-button =
+    .aria-label = Zonte widget
+    .title = Zonte widget
+newtab-widget-section-menu-manage = Gjestìs widgets
 newtab-widget-section-menu-hide-all = Plate widgets
+newtab-widget-section-menu-learn-more = Plui informazions
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Mostre altris widgets
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Mostre mancul widgets
+newtab-widget-lists-name-default = Liste di control
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -746,6 +769,9 @@ newtab-widget-timer-menu-learn-more = Plui informazions
 newtab-widget-message-title = Reste concentrât doprant lis listis e il temporizadôr integrât
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Di pro memoria svelts a listis di ativitâts cuotidianis, di sessions di concentrazion a pausis par rilassâsi — manten la atenzion e rispiete i timps.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un puest dulà concentrâsi, viodi lis previsions dal timp e tant altri
+newtab-widget-message-focus-forecasts-body = Fâs cori la tô zornade cui widgets di { -brand-product-name }. Bute un voli aes previsions dal timp, reste concentrât su lis tôs ativitâts o ten di voli l'orloi globâl.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -758,6 +784,53 @@ newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
     .title = Siere
     .aria-label = Scarte e siere
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Invie il temporizadôr di { $minutes } minût
+           *[other] Invie il temporizadôr di { $minutes } minûts
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Met in pause il temporizadôr
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minût
+           *[other] { $minutes } minûts
+        }
+newtab-widget-timer-decrease-min =
+    .title = Diminuìs di 1 minût
+newtab-widget-timer-increase-min =
+    .title = Aumente di 1 minût
+newtab-widget-timer-mode-group =
+    .aria-label = Modalitât temporizadôr
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Concentrazion
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pause
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Plate temporizadôr
+
+##
+
+newtab-sports-widget-menu-follow-teams = Sta daûr des scuadris
+newtab-sports-widget-menu-view-upcoming = Visualize ce che al sta par rivâ
+newtab-sports-widget-menu-view-results = Viôt i risultâts
+newtab-sports-widget-menu-learn-more = Plui informazions
+newtab-sports-widget-get-updates = Ricêf inzornaments in timp reâl su lis partidis e ancjemò altri.
+newtab-sports-widget-follow-teams =
+    .label = Sta daûr des scuadris
+newtab-sports-widget-choose-wallpaper =
+    .label = Sielç un fonts
+newtab-sports-widget-skip = Salte
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
