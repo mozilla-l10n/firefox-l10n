@@ -1109,7 +1109,7 @@ newtab-sports-widget-match-aria-label-now =
 # Variables:
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
-    .aria-label = { $homeTeam } yn erbyn { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", mis: "long") }
+    .aria-label = { $homeTeam } yn erbyn { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } yn erbyn { $awayTeam } , wedi'i ohirio
