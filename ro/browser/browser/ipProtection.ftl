@@ -72,6 +72,7 @@ unauthenticated-choose-location-message = Alege dintre 5 locații sau lasă { -b
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
+unauthenticated-choose-location-message-1 = Alege din mai multe locații sau lasă { -brand-product-name } să o aleagă pe cea mai rapidă.
 unauthenticated-get-started = Începe
 unauthenticated-terms-of-service-privacy-notice = Prin continuare, ești de acord cu <a data-l10n-name="vpn-terms-of-service">Condițiile de utilizare a serviciilor</a> și <a data-l10n-name="vpn-privacy-notice">Notificarea privind confidențialitatea</a>.
 site-exclusion-toggle-enabled-1 =
@@ -123,6 +124,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Alege o altă locație din care să navighezi.
 ipprotecion-locations-subview-recommended-label = Recomandată
 ipprotection-locations-subview-recommended-description = Găsește cea mai rapidă locație
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Indisponibil
 ipprotection-locations-subview-promo =
     .heading = Du protecția mai departe cu { -mozilla-vpn-brand-name }
     .message = Alege dintre 300+ de locații și protejează-ți toate aplicațiile pe până la 5 dispozitive.

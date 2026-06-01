@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Gestionează setările { -brand-short-name }
 sidebar-vertical-tabs =
     .label = File verticale
+sidebar-settings2 =
+    .label = Setări
 sidebar-settings =
     .label = Setări bară laterală
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extinde bara laterală în momentul plasării cursorului pe ea
+sidebar-manage-extensions2 = Gestionează toate extensiile
 sidebar-manage-extensions = Gestionează extensiile
+sidebar-customize-extensions-header2 = Extensii
+sidebar-customize-firefox-tools-header2 =
+    .label = Instrumente
 
 ## Labels for sidebar context menu items
 

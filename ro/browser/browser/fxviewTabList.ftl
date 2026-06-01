@@ -83,3 +83,4 @@ fxviewtabrow-send-to-mobile-connect-phone2 = Conectează-te la telefon
 fxviewtabrow-send-to-mobile-connect-device = Conectează un dispozitiv ca să trimiți file
 fxviewtabrow-send-to-mobile-device-missing2 = Nu vezi dispozitivul?
 fxviewtabrow-send-to-mobile-not-verified = Cont neverificat
+fxviewtabrow-send-to-mobile-verify-account = Verifică-ți contul

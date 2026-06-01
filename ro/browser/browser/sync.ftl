@@ -43,6 +43,7 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Activează sincronizarea ca să trimiți o filă
 fxa-menu-send-to-mobile-connect-phone2 = Conectează-te la telefon
 fxa-menu-send-to-mobile-device-missing2 = Nu vezi dispozitivul?
+fxviewtabrow-send-to-mobile-verify-account = Verifică-ți contul
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -72,6 +73,10 @@ sync-setup-verify-heading = Sigur vrei să intri în cont pentru sincronizare?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un alt utilizator s-a autentificat în cont pentru sincronizare pe acest calculator. Dacă intri în cont, vei îmbina marcajele, parolele și alte setări din acest browser cu { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Intră în cont ca să trimiți file
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

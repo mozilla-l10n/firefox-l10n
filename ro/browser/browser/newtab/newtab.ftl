@@ -367,6 +367,10 @@ newtab-custom-widget-timer-toggle =
     .label = Cronometru
 newtab-custom-widget-sports-toggle =
     .label = Cupa Mondială
+newtab-custom-widget-clock-toggle =
+    .label = Ceas
+newtab-custom-widget-sports-toggle2 =
+    .label = Sporturi
 newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi
@@ -762,6 +766,9 @@ newtab-widget-lists-input-menu-delete = Șterge
 newtab-widget-lists-input-menu-edit = Editează
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editează elementul
+newtab-widget-lists-edit-clear =
+    .aria-label = Anulează
+    .title = Anulează
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Creează o listă nouă
@@ -786,6 +793,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgeturi
 newtab-widget-menu-hide = Ascunde widgetul
 newtab-widget-menu-change-size = Modifică mărimea
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Mută
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Stânga
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Dreapta
 newtab-widget-size-small = Mic
 newtab-widget-size-medium = Mediu
 newtab-widget-size-large = Mare
@@ -802,6 +818,9 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Meniu de widgeturi
     .aria-label = Deschide meniul de widgeturi
+newtab-widget-add-widgets-button =
+    .aria-label = Adaugă widget
+    .title = Adaugă widget
 newtab-widget-section-menu-manage = Gestionează widgeturile
 newtab-widget-section-menu-hide-all = Ascunde widgeturile
 newtab-widget-section-menu-learn-more = Află mai multe
@@ -836,6 +855,8 @@ newtab-daily-briefing-card-timestamp = Actualizat acum { $minutes } min
 newtab-widget-message-title = Stai concentrat(ă) cu liste și un cronometru încorporat
 # to-dos stands for "things to do".
 newtab-widget-message-copy = De la mementouri rapide la liste zilnice de sarcini, sesiuni de concentrare până la pauze de întindere — stai concentrat(ă) pe sarcină și o termini la timp.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un loc pentru concentrare, prognoză meteo și multe altele
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -896,20 +917,73 @@ newtab-widget-timer-celebration-message-break = Ești gata să te concentrezi?
 ##
 
 newtab-sports-widget-menu-follow-teams = Urmărește echipe
+newtab-sports-widget-menu-view-schedule = Vezi programul
 newtab-sports-widget-menu-view-upcoming = Vezi evenimente viitoare
 newtab-sports-widget-menu-view-results = Vezi rezultate
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Date importante
 newtab-sports-widget-menu-learn-more = Află mai multe
 newtab-sports-widget-get-updates = Obține actualizări în timp real ale meciurilor și multe altele.
 newtab-sports-widget-view-schedule =
     .label = Vezi programul
 newtab-sports-widget-follow-teams =
     .label = Urmărește echipe
+newtab-sports-widget-view-matches =
+    .label = Vezi meciuri
 newtab-sports-widget-choose-wallpaper =
     .label = Alege o imagine de fundal
 newtab-sports-widget-skip = Omite
+newtab-sports-widget-search-country =
+    .placeholder = Caută țara
+    .aria-label = Caută țara
+newtab-sports-widget-cancel = Anulează
+newtab-sports-widget-back-button =
+    .aria-label = Înapoi
 newtab-sports-widget-done-button =
     .label = Terminat
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminată)
+newtab-sports-widget-view-all =
+    .label = Vezi toate
+newtab-sports-widget-show-less =
+    .label = Arată mai puțin
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Doar echipele urmărite
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Urmărește
+    .title = Urmărește în direct
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Urmărește în direct
+    .title = Urmărește în direct
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Închide
+    .title = Închide
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratuit
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Încercare gratuită
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratis și plătit
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Plătit
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponibil în regiunea ta
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Alte regiuni
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Deschide fluxul
+    .title = Deschide fluxul
 newtab-sports-widget-group-stage = Faza grupelor
+newtab-sports-widget-group-a = Grupa A
+newtab-sports-widget-group-b = Grupa B
+newtab-sports-widget-group-c = Grupa C
+newtab-sports-widget-group-d = Grupa D
 newtab-sports-widget-group-e = Grupa E
 newtab-sports-widget-group-f = Grupa F
 newtab-sports-widget-group-g = Grupa G
@@ -923,7 +997,11 @@ newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
     .title = Împrospătează scorurile
     .aria-label = Împrospătează scorurile
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Date importante
 newtab-sports-widget-upcoming = Evenimente viitoare
+# Used for a match currently ongoing
+newtab-sports-widget-now = Acum
 newtab-sports-widget-results = Rezultate
 newtab-sports-widget-semi-finals = Semifinale
 newtab-sports-widget-bronze-finals = Finala de bronz

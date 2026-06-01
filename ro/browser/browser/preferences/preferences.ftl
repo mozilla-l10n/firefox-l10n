@@ -608,6 +608,12 @@ download-save-files-header =
     .label = Salvează fișierele în
 download-save-where-3 =
     .aria-label = Salvează fișierele în
+download-always-ask-where2 =
+    .label = Întreabă unde se vor salva fișierele înainte de descărcare
+    .accesskey = A
+download-private-browsing-delete2 =
+    .label = La închidere, șterge descărcările făcute în ferestre private
+    .accesskey = D
 downloads-header-2 =
     .label = Descărcări
 download-save-where-2 =
@@ -638,6 +644,9 @@ applications-setting =
     .description = Alege felul în care { -brand-short-name } gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești în timp ce navighezi.
 applications-header = Aplicații
 applications-description = Alege felul în care { -brand-short-name } gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești în timp ce navighezi.
+applications-setting2 =
+    .label = Fișiere și aplicații
+    .description = Alege cum gestionează { -brand-short-name } fișierele și conținutul descărcate.
 applications-filter =
     .placeholder = Caută tipuri de fișiere sau aplicații
 applications-type-column =
@@ -716,6 +725,9 @@ applications-use-os-default-label =
 applications-handle-new-file-types-description = Ce ar trebui să facă { -brand-short-name } cu alte fișiere?
 applications-save-for-new-types =
     .label = Să salveze fișierele
+    .accesskey = S
+applications-save-for-new-types2 =
+    .label = Salvează automat fișierele
     .accesskey = S
 applications-ask-before-handling =
     .label = Să întrebe dacă să deschidă sau să salveze fișierele
@@ -864,6 +876,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Caută textul când încep să tastez
     .accesskey = x
+settings-media-group =
+    .label = Multimedia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Folosește imagine-în-imagine
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Activează comenzile video picture-in-picture
     .accesskey = E
@@ -874,6 +891,8 @@ browsing-picture-in-picture-learn-more = Află mai multe
 browsing-media-control =
     .label = Controlează conținutul media via tastatură, căști sau interfață virtuală
     .accesskey = v
+recommendations-group =
+    .label = Recomandări
 browsing-media-control-learn-more = Află mai multe
 browsing-cfr-recommendations =
     .label = Recomandă extensii pe măsură ce navighezi
@@ -1081,6 +1100,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sporturi
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ceas
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Susține { -brand-product-name }
@@ -1270,6 +1292,8 @@ account-placeholder2 =
     .description = Intră în cont și păstrează-ți datele private, criptate și accesibile instant oriunde folosești { -brand-short-name }.
 account-sync-section =
     .heading = Cont și sincronizare
+pane-account-sync-title2 = Cont și sincronizare
+    .title = Cont și sincronizare
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1725,6 +1749,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Parole și completare automată
+    .title = Parole și completare automată
+preferences-passwords-autofill-header =
+    .heading = Parole și completare automată
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2198,6 +2226,10 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permisiuni
     .description = Gestionează ce pot accesa, controla sau declanșa site-urile.
+permissions-data-section =
+    .heading = Permisiuni și date
+pane-permissions-data-title2 = Permisiuni și date
+    .title = Permisiuni și date
 
 ## Privacy Section - Data Collection
 
@@ -2525,6 +2557,20 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aspect
+browser-theme-group =
+    .label = Temă browser
+    .description = Personalizează { -brand-short-name } pe stilul tău. Culorile temei se aplică barelor de instrumente, meniurilor și mesajelor.
+browser-theme-manage-link =
+    .label = Gestionează temele { -brand-short-name }
+related-settings-group =
+    .label = Setări relevante
+related-settings-home-link =
+    .label = Personaliză { -firefox-home-brand-name }
 
 ## AI controls page
 
