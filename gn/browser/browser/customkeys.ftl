@@ -46,6 +46,9 @@ customkeys-nav-select-tab-6 = Eho tendayke 6
 customkeys-nav-select-tab-7 = Eho tendayke 7
 customkeys-nav-select-tab-8 = Eho tendayke 8
 customkeys-nav-select-last-tab = Eho kuatiarogue pahápe
+customkeys-nav-toggle-mute = Emokirĩ/Emyandy mba’epu
+customkeys-edit-find-previous = Eheka Mboyvegua
+customkeys-tools-screenshot = Ejapyhy mba’erechaha
 customkeys-caution-message = Ko tembiapoite ojejaporamo ha upévare ndoikoporãi gueteri.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Oiko’ỹva

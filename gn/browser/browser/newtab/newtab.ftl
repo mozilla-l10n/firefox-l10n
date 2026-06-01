@@ -1043,6 +1043,8 @@ newtab-sports-widget-world-cup-champions = Copa Mundial 2026 oganáva
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Partído opámava
+newtab-sports-widget-match-halftime = Jepytu’u
+newtab-sports-widget-match-extra-time = Aravo’i juapyvegua
 newtab-sports-widget-match-penalties = Penal jechuta
 
 ## Accessible labels for match rows in the sports widget. These are read by
