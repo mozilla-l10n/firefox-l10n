@@ -37,6 +37,16 @@ customkeys-nav-home = Acasă
 customkeys-nav-reload = Reîncărcare
 customkeys-nav-reload-skip-cache = Reîncărcare (Suprascrie memoria cache)
 customkeys-nav-stop = Oprire
+customkeys-nav-select-tab-1 = Mergi la Fila 1
+customkeys-nav-select-tab-2 = Mergi la fila 2
+customkeys-nav-select-tab-3 = Mergi la fila 3
+customkeys-nav-select-tab-4 = Mergi la fila 4
+customkeys-nav-select-tab-5 = Mergi la fila 5
+customkeys-nav-select-tab-6 = Mergi la fila 6
+customkeys-nav-select-tab-7 = Mergi la fila 7
+customkeys-nav-select-tab-8 = Mergi la fila 8
+customkeys-nav-select-last-tab = Mergi la ultima filă
+customkeys-tools-screenshot = Fă o captură de ecran
 customkeys-caution-message = Funcția este experimentală și este posibil să nu funcționeze conform așteptărilor.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevalidă

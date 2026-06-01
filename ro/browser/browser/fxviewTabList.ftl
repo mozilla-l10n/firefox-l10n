@@ -80,4 +80,6 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Redă sonorul filei
 fxviewtabrow-send-to-mobile-enable-sync2 = Activează sincronizarea ca să trimiți o filă
 fxviewtabrow-send-to-mobile-connect-phone2 = Conectează-te la telefon
+fxviewtabrow-send-to-mobile-connect-device = Conectează un dispozitiv ca să trimiți file
 fxviewtabrow-send-to-mobile-device-missing2 = Nu vezi dispozitivul?
+fxviewtabrow-send-to-mobile-not-verified = Cont neverificat

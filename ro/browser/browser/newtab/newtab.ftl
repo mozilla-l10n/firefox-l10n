@@ -910,6 +910,13 @@ newtab-sports-widget-skip = Omite
 newtab-sports-widget-done-button =
     .label = Terminat
 newtab-sports-widget-group-stage = Faza grupelor
+newtab-sports-widget-group-e = Grupa E
+newtab-sports-widget-group-f = Grupa F
+newtab-sports-widget-group-g = Grupa G
+newtab-sports-widget-group-h = Grupa H
+newtab-sports-widget-group-i = Grupa I
+newtab-sports-widget-group-j = Grupa J
+newtab-sports-widget-group-k = Grupa K
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
@@ -955,3 +962,10 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Acest spațiu funcționează după regulile tale
 newtab-activation-window-message-values-focus-message = { -brand-product-name } îți permite să navighezi cum dorești, cu un mod mai personal de a-ți începe ziua online. Personalizează { -brand-product-name }.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Ascunde ceasul
+newtab-clock-widget-menu-learn-more = Află mai multe
+newtab-clock-widget-menu-edit = Editează ceasurile

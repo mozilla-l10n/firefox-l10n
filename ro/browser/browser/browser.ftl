@@ -414,6 +414,8 @@ quickactions-cmd-help = ajutor, asistență
 # Opens the devtools web inspector
 quickactions-inspector2 = Deschide instrumentele pentru dezvoltatori
 quickactions-cmd-inspector2 = inspector, instrumente de dezvoltare
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Alege o culoare
 # Opens Firefox Library
 quickactions-cmd-library = bibliotecă
 quickactions-library = Bibliotecă deschisă
@@ -470,6 +472,9 @@ quickactions-cmd-update = actualizează
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vezi sursa paginii
 quickactions-cmd-viewsource2 = vizualizare sursă, sursă, sursă pagină
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Deschide { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratoare, experiment
 quickactions-cmd-viewsource = vezi sursa, sursă
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1272,6 +1277,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = File sincronizate
     .tooltiptext = Afișează file de pe alte dispozitive
+toolbar-button-send-tab =
+    .label = Trimite fila
+    .tooltiptext = Trimite fila actuală pe alt dispozitiv
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1307,6 +1315,8 @@ panel-save-update-password = Parolă
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mai multe…
+menu-share-windows =
+    .label = Mai multe opțiuni
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1488,6 +1498,9 @@ reset-pbm-panel-confirm-button =
     .label = Șterge datele sesiunii
     .accesskey = D
 reset-pbm-panel-complete = Datele sesiunii private au fost șterse
+reset-pbm-toolbar-button2 =
+    .label = Șterge sesiunea privată
+    .tooltiptext = Șterge sesiunea privată
 
 ## Autorefresh blocker
 
