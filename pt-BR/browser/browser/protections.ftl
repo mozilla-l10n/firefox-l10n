@@ -251,3 +251,12 @@ protections-vpn-title = Proteja sua privacidade além do navegador
 protections-vpn-header-content = Proteja todo seu dispositivo com o { -mozilla-vpn-brand-name }. Um único toque para ativar, criptografa todo o tráfego de rede e oculta sua localização.
 protections-get-vpn-link = Obtenha o { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Assinatura ativa
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] O { -mozilla-vpn-brand-name } criptografa todo seu tráfego de rede e oculta sua localização, em até { $count } dispositivos. Aproveite sua assinatura ao máximo, instale o aplicativo da <a data-l10n-name="playstore-link">Google Play Store</a> ou <a data-l10n-name="appstore-link">Apple App Store </a>.
+    }
+protections-vpn-banner-header = Proteção que vai além do navegador
+protections-vpn-banner-content = Experimente o { -mozilla-vpn-brand-name } sem riscos e veja por que o TechRadar diz: “sua velocidade, simplicidade e seu baixo preço mensal fazem valer a pena dar uma olhada”.
+protections-vpn-banner-link = Obtenha o { -mozilla-vpn-brand-name }

@@ -40,6 +40,8 @@ options-collapse-attrs-tooltip =
     .title = Truncar atributos longos no inspetor
 # The label for the checkbox option to enable the display of comments in the Inspector
 options-show-comments-label = Mostrar comentários
+options-show-comments-tooltip =
+    .title = Mostrar nodes de comentários no inspetor
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Clique e arraste para editar valores de tamanho
 options-inspector-draggable-properties-tooltip =

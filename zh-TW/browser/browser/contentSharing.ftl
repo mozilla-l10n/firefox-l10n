@@ -20,10 +20,19 @@ content-sharing-modal-sign-in-2 =
     .label = 登入即可分享
 content-sharing-modal-title-2 = 將這些頁面分享給任何人
 content-sharing-modal-title-signed-in = 已經可以分享您的鏈結了
-content-sharing-modal-description-2 = 登入後即可建立能輕鬆分享鏈結的頁面。頁面產生 7 天後就無法再編輯或刪除。
+content-sharing-modal-description-2 = 登入後即可建立能輕鬆分享鏈結的頁面。頁面產生後就無法再編輯或刪除，並於 7 天後失效。
+content-sharing-modal-description-signed-in = 我們為您的鏈結產生了能輕鬆分享的頁面。產生後就無法再編輯或刪除，7 天後失效。
 content-sharing-modal-policy = 若分享，代表您同意我們的<a data-l10n-name="aup-link">可接受的使用政策</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
 content-sharing-modal-too-many-links-2 = 只會包含 { $count } 個鏈結
+content-sharing-modal-no-shareable-links =
+    .heading = 未列入可分享的鏈結
+    .message = 僅可分享網頁內容的鏈結。
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading = 您已分享 { $count } 個頁面
+    .message = 請於任一頁面失效後再重試。
 content-sharing-modal-some-invalid-links = 無法分享某些鏈結。
