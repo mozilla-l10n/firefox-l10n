@@ -18,10 +18,16 @@ content-sharing-tabs-title =
         [few] { $count } вкладки
        *[many] { $count } вкладок
     }
+content-sharing-modal-view-page-2 =
+    .label = Предпросмотр страницы
 content-sharing-modal-copy-link =
     .label = Копировать ссылку
 content-sharing-modal-generating-page =
     .label = Генерация страницы…
 content-sharing-modal-link-copied =
     .label = Ссылка скопирована
+content-sharing-modal-sign-in-2 =
+    .label = Войдите, чтобы поделиться
+content-sharing-modal-title-2 = Поделиться этими страницами с кем угодно
+content-sharing-modal-title-signed-in = Ваши ссылки готовы к отправке
 content-sharing-modal-policy = Делясь, вы соглашаетесь с нашей <a data-l10n-name="aup-link">Политикой приемлемого использования</a>

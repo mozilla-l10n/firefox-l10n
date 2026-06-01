@@ -1040,6 +1040,8 @@ newtab-sports-widget-world-cup-champions = 2026 Dünya Kupası Şampiyonu
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Maç sonu
+newtab-sports-widget-match-halftime = Devre arası
+newtab-sports-widget-match-extra-time = Uzatmalar
 newtab-sports-widget-match-penalties = Penaltılar
 
 ## Accessible labels for match rows in the sports widget. These are read by

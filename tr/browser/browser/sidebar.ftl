@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = Yapay zekâ sohbet botu
 menu-view-contextual-password-manager =
     .label = Parolalar
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Açık sekmeler
 sidebar-options-menu-button =
     .title = Menüyü aç
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Geçmiş
 sidebar-menu-synced-tabs-label =
     .label = Diğer cihazlardaki sekmeler
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Açık sekmeler
 sidebar-menu-bookmarks-label =
     .label = Yer imleri
 sidebar-menu-customize-label =
