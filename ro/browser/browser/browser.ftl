@@ -416,6 +416,7 @@ quickactions-inspector2 = Deschide instrumentele pentru dezvoltatori
 quickactions-cmd-inspector2 = inspector, instrumente de dezvoltare
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Alege o culoare
+quickactions-cmd-colorpicker = selector de culori, pipetă, alege culoare
 # Opens Firefox Library
 quickactions-cmd-library = bibliotecă
 quickactions-library = Bibliotecă deschisă
@@ -1296,6 +1297,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = cod QR-{ $domain }
 
 ## EME notification panel
 

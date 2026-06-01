@@ -1034,13 +1034,13 @@ newtab-sports-widget-world-cup-champions = Campionii Cupei Mondiale din 2026
 #   $homePenalty (number) - The home team's penalty shootout score
 #   $awayPenalty (number) - The away team's penalty shootout score
 newtab-sports-widget-match-aria-label-results-penalties =
-    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) versus { $awayTeam }, { $awayScore } ({ $awayPenalty })
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) față de { $awayTeam }, { $awayScore } ({ $awayPenalty })
 # A match that is currently in progress.
 # Variables:
 #   $homeScore (number) - The home team's current score
 #   $awayScore (number) - The away team's current score
 newtab-sports-widget-match-aria-label-now =
-    .aria-label = În direct: { $homeTeam }, { $homeScore } versus { $awayTeam }, { $awayScore }
+    .aria-label = În direct: { $homeTeam }, { $homeScore } față de { $awayTeam }, { $awayScore }
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code

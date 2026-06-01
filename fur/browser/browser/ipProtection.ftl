@@ -176,6 +176,8 @@ ipprotection-message-continuous-onboarding-intro = Ative la VPN par platâ la t�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN in mût che si ativi</a> ogni volte che tu vierzis { -brand-short-name }, cussì di zontâ un nivel in plui di protezion.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si visarà i sîts dulà che tu âs decidût di doprâ la VPN. Tu puedis inzornâju in ogni moment tes <a data-l10n-name="setting-link">impostazions</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN e je disative par chest sît
+ipprotection-connection-status-generic-error-title-1 = Impussibil conetisi ae VPN
+    .aria-label = Impussibil conetisi ae VPN
 
 ## IP Protection bandwidth callouts
 
@@ -199,12 +201,25 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Tu stâs par fin
 ip-protection-description =
     .label = VPN
     .description = VPN integrade par miorâ la tô riservatece intant che tu navighis su { -brand-short-name }
+ip-protection-description-1 =
+    .label = VPN integrade
+    .description = Oten plui riservatece, platant la tô posizion intant che tu navighis.
 ip-protection-learn-more = Plui informazions
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Prove la VPN integrade di { -brand-short-name }
     .message = Plate la tô posizion cuant che tu navighis in { -brand-short-name }. Oten { $maxUsage } GB gratuits di dâts VPN ogni mês.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Prove la VPN integrade di { -brand-short-name }
+    .message = Navighe cuntune protezion in plui, platant la tô posizion. Oten { $maxUsage } GB di dâts VPN gratuits ogni mês.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Prove la VPN integrade di { -brand-short-name }
+    .message = Navighe cuntune protezion in plui, platant la tô posizion.
 ip-protection-not-opted-in-button = Scomence
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -224,6 +239,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Oten ancjemò plui protezion fûr di { -brand-short-name } cun { -mozilla-vpn-brand-name }
     .description = Sielç posizions personalizadis pe VPN e zonte la protezion pes tôs aplicazions suntun massim di 5 dispositîfs, nol impuarte se tu sês a cjase o suntune rêt Wi-Fi publiche.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Aumente la tô protezion cun { -mozilla-vpn-brand-name }
+    .description = Sielç tra plui di 300 lûcs e protêç dutis lis tôs aplicazions suntun massim di 5 dispositîfs.
 
 ## IP Protection dialogs
 
@@ -276,6 +294,12 @@ vpn-paused-alert-title = VPN sospindude
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Tu âs doprât ducj i { $maxUsage } GB de tô VPN. L'acès ae VPN al torne cul prossim mês.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Tu âs doprât ducj i { $maxUsage } GB di dâts disponibii pe VPN. L’acès al vignarà ripristinât e il cont dai dâts azerât cul prossim mês.
+vpn-error-page-continue-description = Sielç cemût continuâ cence VPN
+vpn-error-page-keep-browsing = Continue a navigâ in cheste session
+vpn-error-page-new-session = Invie une gnove session
 vpn-paused-alert-close-tabs-button = Siere dutis lis schedis
 vpn-paused-alert-continue-wo-vpn-button = Continue cence VPN
 vpn-error-alert-title = In chest moment la VPN no sta lavorant.
