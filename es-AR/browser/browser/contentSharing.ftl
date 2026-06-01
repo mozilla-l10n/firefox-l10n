@@ -21,4 +21,10 @@ content-sharing-modal-generating-page =
     .label = Generando página…
 content-sharing-modal-link-copied =
     .label = Enlace copiado
+content-sharing-modal-sign-in-2 =
+    .label = Iniciar sesión para compartir
+content-sharing-modal-title-2 = Compartir estas páginas con alguien
+content-sharing-modal-title-signed-in = Los enlaces están listos para compartir
+content-sharing-modal-description-2 = Iniciar sesión para crear una página de enlaces fácil de compartir. No puede ser editada ni borrada y expira después de 7 días.
+content-sharing-modal-description-signed-in = Hicimos una página fácil de compartir con sus enlaces. No puede ser editada ni borrada y expira después de 7 días.
 content-sharing-modal-policy = Al compartir, acepta nuestra <a data-l10n-name="aup-link">Política de uso aceptable</a>
