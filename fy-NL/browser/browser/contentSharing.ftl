@@ -22,4 +22,9 @@ content-sharing-modal-generating-page =
     .label = Side generearje…
 content-sharing-modal-link-copied =
     .label = Keppeling kopiearre
+content-sharing-modal-sign-in-2 =
+    .label = Meld jo oan om te dielen
+content-sharing-modal-title-2 = Diel dizze siden mei elkenien
+content-sharing-modal-title-signed-in = Jo keppelingen binne klear om te dielen
 content-sharing-modal-policy = Troch te dielen, geane jo akkoard mei ús <a data-l10n-name="aup-link">Belied foar akseptabel gebrûk</a>
+content-sharing-modal-some-invalid-links = Guon keppelingen kinne net dield wurde.

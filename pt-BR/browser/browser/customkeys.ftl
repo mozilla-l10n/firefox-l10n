@@ -40,6 +40,16 @@ customkeys-nav-reload-skip-cache = Recarregar (substituir cache)
 customkeys-nav-stop = Interromper
 customkeys-nav-select-tab-1 = Ir para aba 1
 customkeys-nav-select-tab-2 = Ir para aba 2
+customkeys-nav-select-tab-3 = Ir para aba 3
+customkeys-nav-select-tab-4 = Ir para aba 4
+customkeys-nav-select-tab-5 = Ir para aba 5
+customkeys-nav-select-tab-6 = Ir para aba 6
+customkeys-nav-select-tab-7 = Ir para aba 7
+customkeys-nav-select-tab-8 = Ir para aba 8
+customkeys-nav-select-last-tab = Ir para última aba
+customkeys-nav-toggle-mute = Desativar/ativar som
+customkeys-edit-find-previous = Procurar anterior
+customkeys-tools-screenshot = Capturar tela
 customkeys-caution-message = Este recurso é experimental e pode não funcionar como esperado.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválida
