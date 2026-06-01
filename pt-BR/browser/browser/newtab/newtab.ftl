@@ -861,6 +861,8 @@ newtab-daily-briefing-card-timestamp = Atualizado há { $minutes } minutos
 newtab-widget-message-title = Mantenha a concentração com listas e um temporizador integrado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde lembretes rápidos a tarefas diárias, com sessões de concentração e intervalos para estivar as pernas — cumpra tarefas e prazos.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Um só lugar para foco, previsão do tempo e muito mais
 newtab-widget-message-focus-forecasts-body = Mantenha seu dia mais fluido usando widgets do { -brand-product-name }. Confira a previsão do tempo, concentre-se nas tarefas, ou saiba a hora em vários locais do mundo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
