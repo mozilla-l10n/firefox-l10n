@@ -268,5 +268,10 @@ places-search-downloads =
 
 places-locked-prompt = Marcajele și istoricul nu vor funcționa pentru că unul dintre fișierele { -brand-short-name } este folosit de altă aplicație. Problema ar putea fi cauzată de un program de securitate.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Partajează dosarul
+    .badge = Nou
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Partajează fișierul

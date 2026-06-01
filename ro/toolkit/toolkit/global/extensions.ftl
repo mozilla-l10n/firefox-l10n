@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Respinge
     .accesskey = D
 webext-perms-host-description-all-urls = Să îți acceseze datele pentru toate site-urile web
+webext-perms-host-description-file-urls = Accesează fișiere locale de pe calculator
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Să îți acceseze datele pentru site-uri din domeniul { $domain }

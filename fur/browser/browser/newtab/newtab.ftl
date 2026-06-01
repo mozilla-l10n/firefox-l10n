@@ -682,17 +682,23 @@ newtab-widget-lists-input-menu-move-up = Sposte in sù
 newtab-widget-lists-input-menu-move-down = Sposte in jù
 newtab-widget-lists-input-menu-delete = Elimine
 newtab-widget-lists-input-menu-edit = Modifiche
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Modifiche element
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Cree une gnove liste
 newtab-widget-lists-name-label-default =
     .label = Liste di ativitâts
+newtab-widget-lists-name-label-checklist =
+    .label = Liste di control
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Liste di ativitâts
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Gnove liste
     .aria-label = Modifiche non liste
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Liste di control
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Gnove liste
@@ -730,9 +736,37 @@ newtab-widget-timer-menu-learn-more = Plui informazions
 newtab-widget-message-title = Reste concentrât doprant lis listis e il temporizadôr integrât
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Di pro memoria svelts a listis di ativitâts cuotidianis, di sessions di concentrazion a pausis par rilassâsi — manten la atenzion e rispiete i timps.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Rint { -brand-product-name } pardabon to
+newtab-promo-card-body-addons = Sielç un fonts de nestre colezion opûr prodûs un to.
+newtab-promo-card-cta-addons = Provilu daurman
 newtab-promo-card-title = Prudele { -brand-product-name }
 newtab-promo-card-body = I nestris patrocinadôrs nus supuartin te nestre mission di fâ sù un web miôr
 newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
     .title = Siere
     .aria-label = Scarte e siere
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Siere
+    .aria-label = Siere
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Rint chest spazi pardabon to
+newtab-activation-window-message-customization-focus-message = Sielç un gnûf fonts, zonte scurtis ai tiei sîts web preferîts e reste inzornât cun lis storiis che ti interessin.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Scomence a personalizâ
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Chest spazi al va daûr lis tôs regulis
+newtab-activation-window-message-values-focus-message = { -brand-product-name } ti lasse navigâ come che ti plâs, un mût plui personâl di scomençâ la zornade in rêt. Rint { -brand-product-name } pardabon to.

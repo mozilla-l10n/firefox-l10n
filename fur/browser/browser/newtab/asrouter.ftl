@@ -415,6 +415,14 @@ windows-10-eos-feature-toast-subtitle = Daûr fuarte domande, { -brand-product-n
 windows-10-eos-feature-toast-whats-new-button = Scuvierç lis novitâts
 windows-10-eos-feature-toast-dismiss-button = Siere
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft al à finît di supuartâ Windows 10.</strong> Fâs il backup dai tiei dâts par preparâ { -brand-product-name } a Windows 11.
+windows-10-eos-global-infobar-primary-button = Ative backup
+    .accesskey = t
+windows-10-eos-global-infobar-learn-more-link = Plui informazions
+    .accessKey = l
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -443,3 +451,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Met come predefinît
 set-default-menu-message-primary-button-variant = Met come navigadôr principâl
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 mascaris di e-mail, ufiertis di noaltris
+relay-50-masks-announcement-subtitle = Cumò tu âs a disposizion 50 mascaris gratuitis invezit di 5. Dopre une par ogni account in mût di protezi la tô vere direzion e-mail.
+relay-50-masks-announcement-primary-button = Va su { -relay-brand-name }
+    .accesskey = V
+relay-50-masks-announcement-secondary-button = Siere
+    .accesskey = S

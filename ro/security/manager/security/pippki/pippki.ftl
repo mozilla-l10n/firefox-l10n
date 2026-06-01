@@ -105,6 +105,9 @@ set-password-reminder = Important: Dacă uiți parola de siguranță pentru cert
 
 protected-auth-window =
     .title = Autentificare protejată
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Te rugăm să te autentifici pe dispozitivul de securitate ({ $tokenName }). Cum o faci depinde de dispozitiv (de exemplu, cu un cititor de amprente sau introducerea unui cod cu o tastatură).
 
 ## Protected authentication alert
 

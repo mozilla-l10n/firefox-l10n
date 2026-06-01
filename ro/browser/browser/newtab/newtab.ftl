@@ -1127,6 +1127,7 @@ newtab-sports-widget-message-wallpapers-cta = Alege o imagine de fundal
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adaugă widgeturi
 newtab-sports-widget-message-day-in-play-title = Ține-ți ziua în joc cu widgeturi { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Urmărești Cupa Mondială, rămâi concentrat(ă) pe sarcini, urmărești ora exactă pe glob și multe altele.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorează widgeturi
 

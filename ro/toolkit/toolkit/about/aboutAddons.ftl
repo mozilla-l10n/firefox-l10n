@@ -117,6 +117,8 @@ legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actu
 private-browsing-description2 =
     { -brand-short-name } schimbă felul în care extensiile funcționează în navigarea privată. Orice extensie nouă pe care o adaugi în { -brand-short-name } nu va rula în mod implicit în cadrul ferestrelor private. Dacă nu permiți asta din setări, extensia nu va funcționa în timpul navigării private și nu va avea acces la activitățile tale online. Am făcut această modificare pentru ca navigarea privată să rămână privată.
     <label data-l10n-name="private-browsing-learn-more">Află cum să gestionezi setările pentru extensii</label>.
+aboutaddons-sidebar =
+    .heading = Suplimente
 addon-category-discover = Recomandări
 addon-category-discover-title =
     .title = Recomandări
