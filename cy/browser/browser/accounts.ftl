@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Cysylltu Dyfais Arall…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Cyfrif Heb ei Wirio
+account-send-tab-to-device-verify2 = Gwiriwch eich Cyfrif
 account-send-tab-to-device-verify = Gwiriwch eich Cyfrif…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

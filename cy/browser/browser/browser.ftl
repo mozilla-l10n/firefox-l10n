@@ -414,6 +414,8 @@ quickactions-cmd-help = cymorth, cefnogaeth
 # Opens the devtools web inspector
 quickactions-inspector2 = Agor Offer Datblygwyr
 quickactions-cmd-inspector2 = arolygydd, devtools, offer datblygwr
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Dewiswch liw
 # Opens Firefox Library
 quickactions-cmd-library = llyfrgell
 quickactions-library = Agor y Llyfrgell
