@@ -980,11 +980,59 @@ newtab-sports-widget-back-button =
     .aria-label = Nôl
 newtab-sports-widget-done-button =
     .label = Gorffen
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } ( wedi'i ddileu)
 newtab-sports-widget-view-all =
     .label = Gweld y cyfan
 newtab-sports-widget-show-less =
     .label = Dangos llai
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Dim ond timau yn cael eu dilyn
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Gwylio
+    .title = Gwylio'n fyw
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Gwylio'n fyw
+    .title = Gwylio'n fyw
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Cau
+    .title = Cau
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Am Ddim
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Profi am ddim
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Am ddim ac am dâl
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Am dâl
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Dim ond gemau penodol
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Ar gael yn eich ardal
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Ardaloedd eraill
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Agor ffrwd
+    .title = Agor ffrwd
 newtab-sports-widget-group-stage = Cymal Grŵp
+newtab-sports-widget-group-a = Grŵp A
+newtab-sports-widget-group-b = Grŵp B
+newtab-sports-widget-group-c = Grŵp C
+newtab-sports-widget-group-d = Grŵp D
+newtab-sports-widget-group-e = Grŵp E
+newtab-sports-widget-group-f = Grŵp F
+newtab-sports-widget-group-g = Grŵp G
+newtab-sports-widget-group-h = Grŵp H
+newtab-sports-widget-group-i = Grŵp I
+newtab-sports-widget-group-j = Grŵp J
+newtab-sports-widget-group-k = Grŵp K
+newtab-sports-widget-group-l = Grŵp L
 newtab-sports-widget-round-32 = Rownd o 32
 newtab-sports-widget-round-16 = Rownd o 16
 newtab-sports-widget-quarter-finals = Chwarteri
@@ -1022,11 +1070,69 @@ newtab-sports-widget-third-place = Yn Drydydd
 newtab-sports-widget-runner-up = Yn Ail
 newtab-sports-widget-champions = Pencampwyr
 newtab-sports-widget-world-cup-champions = Pencampwyr Cwpan y Byd 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Amser llawn
+newtab-sports-widget-match-halftime = Hanner amser
+newtab-sports-widget-match-extra-time = Amser ychwanegol
+newtab-sports-widget-match-penalties = Ciciau cosb
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam } , { $homeScore } yn erbyn { $awayTeam } , { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam } , { $homeScore } ( { $homePenalty }) yn erbyn { $awayTeam }, { $awayScore } ( { $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Yn fyw: { $homeTeam } , { $homeScore } yn erbyn { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } yn erbyn { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", mis: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } yn erbyn { $awayTeam } , wedi'i ohirio
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } yn erbyn { $awayTeam } , wedi'i ohirio
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } yn erbyn { $awayTeam }, wedi'i atal
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } yn erbyn { $awayTeam } , wedi'i ganslo
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
 
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia a Herzegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Côte d'Ivoire
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Congo
 newtab-sports-widget-team-name-label-eng =
     .label = Lloegr
 newtab-sports-widget-team-name-label-sco =
