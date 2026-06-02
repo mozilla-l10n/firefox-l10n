@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Reddet
     .accesskey = R
 webext-perms-host-description-all-urls = Tüm web sitelerine ait verilerinize erişme
+webext-perms-host-description-file-urls = Bilgisayarınızdaki dosyalara erişme
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } alan adındaki sitelere ait verilerinize erişme

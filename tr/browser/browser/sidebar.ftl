@@ -195,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Geçmiş
 sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Açık sekmeler
 sidebar-menu-cpm-header =
     .heading = Parolalar
 sidebar-menu-bookmarks-header =
@@ -214,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobil yer imleri
 sidebar-customize-title = Kenar çubuğunu özelleştir
 sidebar-history-title = Geçmiş
 sidebar-syncedtabs-title = Diğer cihazlardaki sekmeler
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Açık sekmeler
 
 ## Context for closing synced tabs when hovering over the items
 

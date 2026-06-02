@@ -823,6 +823,14 @@ newtab-widget-section-menu-manage = Araçları yönet
 newtab-widget-section-menu-hide-all = Araçları gizle
 newtab-widget-section-menu-learn-more = Daha fazla bilgi al
 newtab-widget-section-feedback = Ne düşündüğünüzü bize anlatın
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Daha fazla araç göster
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Daha az araç göster
 newtab-widget-lists-name-default = Görev listesi
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -913,6 +921,7 @@ newtab-widget-timer-celebration-message-break = Odaklanmaya hazır mısınız?
 ##
 
 newtab-sports-widget-menu-follow-teams = Takımları takip et
+newtab-sports-widget-menu-view-schedule = Takvime bak
 newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
 newtab-sports-widget-menu-view-results = Sonuçlara bak
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -920,9 +929,9 @@ newtab-sports-widget-menu-key-dates = Önemli tarihler
 newtab-sports-widget-menu-learn-more = Daha fazla bilgi al
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Dünya Kupası’nı takip edin
-newtab-sports-widget-get-updates = Canlı maç haberlerini ve daha fazlasını alın.
+newtab-sports-widget-get-updates = Canlı maç bilgilerini ve gelişmeleri kaçırmayın.
 newtab-sports-widget-view-schedule =
-    .label = Takvimi gör
+    .label = Takvime bak
 newtab-sports-widget-follow-teams =
     .label = Takımları takip et
 newtab-sports-widget-view-matches =
@@ -1008,7 +1017,7 @@ newtab-custom-widget-live-refresh =
     .aria-label = Skorları yenile
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Önemli tarihler
-newtab-sports-widget-upcoming = Yaklaşıyor
+newtab-sports-widget-upcoming = Yaklaşan
 # Used for a match currently ongoing
 newtab-sports-widget-now = Şimdi
 newtab-sports-widget-results = Sonuçlar
