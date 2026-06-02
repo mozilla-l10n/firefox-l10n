@@ -67,15 +67,62 @@ ipprotection-recommended-location-badge = NÝTT
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Staðsetning: { $country }
+ipprotection-locations-subview =
+    .title = Veldu staðsetningu
+ipprotection-locations-subview-description = Veldu annan stað til að vafra frá.
+ipprotecion-locations-subview-recommended-label = Ráðlagt
+ipprotection-locations-subview-recommended-description = Finnur hröðustu staðsetninguna
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Ófáanlegt
+ipprotection-locations-subview-promo-button = Sæktu { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
 upgrade-vpn-button = Prófaðu { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN er í biðstöðu
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.
+ipprotection-connection-status-paused-title-2 = VPN er í biðstöðu
+    .aria-label = VPN er í biðstöðu
 
 ## IP Protection Settings
 
 ip-protection-learn-more = Frekari upplýsingar
+ip-protection-not-opted-in-button = Hefjast handa
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Sýsla með stillingar vefsvæðis
+    .description =
+        { $count ->
+            [one] { $count } vefsvæði
+           *[other] { $count } vefsvæði
+        }
+ip-protection-autostart =
+    .label = Kveikja sjálfkrafa á VPN
+ip-protection-autostart-checkbox =
+    .label = Þegar ég opna { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = Í huliðsgluggum
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Sýsla með stillingar vefsvæðis
+
+## IP Protection Bandwidth
+
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.
 
 ## IP Protection alerts
 
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. VPN-aðgangur endurstillist í næsta mánuði.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.
 vpn-error-alert-body = Reyndu aftur síðar.
