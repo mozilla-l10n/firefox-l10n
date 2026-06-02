@@ -117,6 +117,8 @@ legacy-extensions-description = Nämä laajennukset eivät täytä { -brand-shor
 private-browsing-description2 =
     { -brand-short-name }-laajennusten toiminta yksityisissä ikkunoissa muuttuu. Uutena { -brand-short-name }iin lisättyjä laajennuksia ei enää suoriteta oletuksena yksityisissä ikkunoissa. Jos et salli suorittamista asetuksista, laajennus ei toimi yksityisen selaamisen aikana eikä siten sinä aikana pääse käsiksi tekemisiisi verkossa. Olemme tehneet tämän muutoksen, jotta yksityinen selaus pysyy yksityisenä.
     <label data-l10n-name="private-browsing-learn-more">Lue lisää kuinka hallita laajennusten asetuksia</label>
+aboutaddons-sidebar =
+    .heading = Lisäosat
 addon-category-discover = Suositukset
 addon-category-discover-title =
     .title = Suositukset
@@ -482,6 +484,10 @@ addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
 addon-permissions-required = Vaaditut käyttöoikeudet ydintoiminnoille:
 addon-permissions-optional = Valinnaiset käyttöoikeudet lisätoiminnoille:
 addon-permissions-learnmore = Lue lisää käyttöoikeuksista
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Joitakin käyttöoikeuksia hallinnoi organisaatiosi.
 recommended-extensions-heading = Suositellut laajennukset
 recommended-themes-heading = Suositellut teemat
 # Variables:
@@ -593,6 +599,7 @@ mlmodel-link-preview = { -brand-short-name } käyttää tätä keskeisimpien asi
 mlmodel-pdfjs = { -brand-short-name } käyttää tätä luodakseen vaihtoehtoisen alt-tekstin PDF-tiedostoihin lisättäville kuville
 mlmodel-smart-tab-topic-engine = { -brand-short-name } käyttää tätä ehdottaakseen nimiä välilehtiryhmille
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } käyttää tätä ehdottaakseen välilehtiä välilehtiryhmiin
+mlmodel-formfill-engine = { -brand-short-name } käyttää tätä osoitelomakkeiden täyttämiseen
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Laitteessa sijaitseva tekoäly
 addon-category-mlmodel-title =

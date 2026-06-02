@@ -414,6 +414,9 @@ quickactions-cmd-help = ohje, tuki
 # Opens the devtools web inspector
 quickactions-inspector2 = Avaa kehittäjätyökalut
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Valitse väri
+quickactions-cmd-colorpicker = color picker, eyedropper, pick color, värinvalitsin, pipetti, värin valinta
 # Opens Firefox Library
 quickactions-cmd-library = kirjasto
 quickactions-library = Avaa kirjasto
@@ -1285,6 +1288,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrkoodi
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrkoodi-{ $domain }
 
 ## EME notification panel
 
