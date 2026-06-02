@@ -15,6 +15,8 @@ content-sharing-tabs-title =
         [one] { $count } pestaña
        *[other] { $count } pestañas
     }
+content-sharing-modal-view-page-2 =
+    .label = Vista previa de la página
 content-sharing-modal-copy-link =
     .label = Copiar enlace
 content-sharing-modal-generating-page =
