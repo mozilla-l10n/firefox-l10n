@@ -209,3 +209,9 @@ privacy-metrics-empty = 本周未拦截跟踪器。 { -brand-short-name } 会在
 privacy-metrics-loading = 正在加载保护统计信息…
 privacy-metrics-error = 无法加载保护统计信息。
 privacy-metrics-private-window = { -brand-short-name } 将继续在隐私窗口中拦截跟踪器，但不会记录拦截了什么。
+
+## VPN promo card and banner
+
+protections-vpn-title = 将隐私保护扩展到浏览器外
+protections-vpn-header-content = 使用 { -mozilla-vpn-brand-name }，保护全设备。只需一触，即可加密所有流量，并隐藏真实位置。
+protections-get-vpn-link = 获取 { -mozilla-vpn-brand-name }

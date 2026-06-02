@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = 拒绝
     .accesskey = D
 webext-perms-host-description-all-urls = 访问您在所有网站的数据
+webext-perms-host-description-file-urls = 访问您计算机上的本地文件
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = 访问您用于 { $domain } 域名的网站的数据
