@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Näin palautat:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Avaa sovellusvalikko ☰ ja siirry kohtaan Asetukset > Synkronointi
+backup-file-moz-browser-restore-step-2-1 = Napsauta “Palauta tietosi” ja valitse tämä tiedosto
 backup-file-moz-browser-restore-step-2 = Napsauta "Valitse varmuuskopiotiedosto" ja valitse tämä tiedosto
 backup-file-moz-browser-restore-step-3 = Käynnistä { -brand-short-name } uudelleen, kun sitä kysytään
 backup-file-other-browser-restore-step-1 = Lataa ja asenna { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Lataa
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Käynnistä { -brand-short-name }, avaa sovellusvalikko ☰ ja siirry kohtaan Asetukset > Synkronointi
+backup-file-other-browser-restore-step-3-1 = Napsauta “Palauta tietosi” ja valitse tämä tiedosto
 backup-file-other-browser-restore-step-3 = Napsauta "Valitse varmuuskopiotiedosto" ja valitse tämä tiedosto
 backup-file-other-browser-restore-step-4 = Käynnistä { -brand-short-name } uudelleen, kun sitä kysytään
 

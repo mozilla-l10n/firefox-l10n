@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Poista yksityinen selaus käytöstä.
 policy-DisableProfileImport = Poista käytöstä valikon komento, jolla tiedot voi tuoda toisesta selaimesta.
 policy-DisableProfileRefresh = Poista käytöstä about:support-sivulla oleva Palauta { -brand-short-name } -painike.
 policy-DisableRemoteImprovements = Estä { -brand-short-name }ia ottamasta käyttöön suorituskykyyn, vakauteen ja ominaisuuksiin liittyviä muutoksia päivitysten välillä.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Poista etäasetukset käytöstä.
 policy-DisableSafeMode = Poista käytöstä ominaisuus, jolla selaimen voi käynnistää vikasietotilassa. Huomaa: Vaihto-näppäimen käyttö vikasietotilaan käynnistymiseen voidaan poistaa käytöstä Windowsissa vain käyttäen ryhmäkäytäntöä.
 policy-DisableSecurityBypass = Estä käyttäjää ohittamasta tiettyjä tietoturvavaroituksia.
 policy-DisableSetAsDesktopBackground = Poista käytöstä kuville tarkoitettu valikon komento Aseta työpöydän taustakuvaksi.

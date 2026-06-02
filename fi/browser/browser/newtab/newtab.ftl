@@ -831,6 +831,14 @@ newtab-widget-section-menu-manage = Hallitse pienoisohjelmia
 newtab-widget-section-menu-hide-all = Piilota pienoisohjelmat
 newtab-widget-section-menu-learn-more = Lue lisää
 newtab-widget-section-feedback = Kerro meille mielipiteesi
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Näytä lisää pienoisohjelmia
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Näytä vähemmän pienoisohjelmia
 newtab-widget-lists-name-default = Tarkistuslista
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -956,6 +964,9 @@ newtab-sports-widget-view-all =
     .label = Näytä kaikki
 newtab-sports-widget-show-less =
     .label = Näytä vähemmän
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Vain seuratut joukkueet
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Katso
@@ -975,6 +986,10 @@ newtab-sports-widget-watch-stream-free-trial = Ilmainen kokeilujakso
 newtab-sports-widget-watch-stream-free-paid = Ilmainen ja maksullinen
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Maksullinen
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Saatavilla alueellasi
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Muut alueet
 # Button that opens the provider’s stream page in a new tab.
 newtab-sports-widget-watch-play =
     .aria-label = Avaa suoratoisto
@@ -1029,11 +1044,59 @@ newtab-sports-widget-third-place = Kolmas sija
 newtab-sports-widget-runner-up = Toinen sija
 newtab-sports-widget-champions = Mestarit
 newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-halftime = Puoliaika
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } vastaan { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) vastaan { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Suora: { $homeTeam }, { $homeScore } vastaan { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } vastaan { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vastaan { $awayTeam }, viivästetty
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vastaan { $awayTeam }, siirretty
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vastaan { $awayTeam }, peruttu
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
 
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnia ja Hertsegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Norsunluurannikko
 newtab-sports-widget-team-name-label-eng =
@@ -1044,9 +1107,12 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Aloita MM-kisat uusilla taustakuvilla
+newtab-sports-widget-message-wallpapers-body = Tuo ottelupäivän energiaa selaimeesi.
 newtab-sports-widget-message-wallpapers-cta = Valitse taustakuva
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lisää pienoisohjelmia
+newtab-sports-widget-message-day-in-play-body = Seuraa jalkapallon MM-kisoja, pysy tehtävissäsi, seuraa aikaa ympäri maailmaa ja paljon muuta.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Tutustu pienoisohjelmiin
 
