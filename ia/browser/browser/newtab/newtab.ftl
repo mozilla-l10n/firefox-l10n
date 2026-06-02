@@ -1041,6 +1041,8 @@ newtab-sports-widget-world-cup-champions = Campiones de Cuppa del mundo 2026
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Incontro terminate
+newtab-sports-widget-match-halftime = Intervallo
+newtab-sports-widget-match-extra-time = Prorogation
 newtab-sports-widget-match-penalties = Penalties
 
 ## Accessible labels for match rows in the sports widget. These are read by

@@ -46,6 +46,8 @@ customkeys-nav-select-tab-6 = Ir al scheda 6
 customkeys-nav-select-tab-7 = Ir al scheda 7
 customkeys-nav-select-tab-8 = Ir al scheda 8
 customkeys-nav-select-last-tab = Ir al ultime scheda
+customkeys-edit-find-previous = Cercar le precedente
+customkeys-tools-screenshot = Capturar un instantaneo de schermo
 customkeys-caution-message = Iste function es experimental e pote non functionar como expectate.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Non valide

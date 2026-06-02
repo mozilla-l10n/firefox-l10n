@@ -244,3 +244,8 @@ privacy-metrics-empty = Necun traciator blocate iste septimana. { -brand-short-n
 privacy-metrics-loading = Cargante statistica de protection…
 privacy-metrics-error = Impossibile cargar statistica de protection.
 privacy-metrics-private-window = { -brand-short-name } continua a blocar traciatores in Fenestras private, ma non mantene un registration de cosa era blocate.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
+protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }
