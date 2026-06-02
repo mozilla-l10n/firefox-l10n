@@ -414,6 +414,9 @@ quickactions-cmd-help = 帮助, 支持, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 打开开发者工具
 quickactions-cmd-inspector2 = 查看器, 开发者工具, inspector, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = 取色
+quickactions-cmd-colorpicker = 取色器, 拾色器, 吸管, 滴管, 选取颜色, color picker, eyedropper, pick color
 # Opens Firefox Library
 quickactions-cmd-library = 我的足迹, 足迹, library
 quickactions-library = 打开“我的足迹”

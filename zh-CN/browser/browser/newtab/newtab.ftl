@@ -819,6 +819,10 @@ newtab-widget-section-menu-manage = 管理小组件
 newtab-widget-section-menu-hide-all = 隐藏小组件
 newtab-widget-section-menu-learn-more = 详细了解
 newtab-widget-section-feedback = 告诉我们您的想法
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = 显示更多小组件
 newtab-widget-lists-name-default = 核对清单
 
 ## Strings introduced by the Nova redesign of the Timer widget
