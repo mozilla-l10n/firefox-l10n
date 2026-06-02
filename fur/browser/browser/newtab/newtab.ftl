@@ -674,6 +674,8 @@ newtab-new-user-custom-wallpaper-cta = Provilu daurman
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = A son rivâts gnûfs fonts
+newtab-wallpaper-feature-highlight-subtitle = Sielç il fonts che ti plâs di plui e rint familiâr ogni gnove schede.
+newtab-wallpaper-feature-highlight-cta = Sielç fonts
 
 ## Strings for download mobile highlight
 
@@ -715,6 +717,20 @@ newtab-report-cancel = Anule
 newtab-report-submit = Invie
 newtab-toast-thanks-for-reporting =
     .message = Graciis pe segnalazion.
+newtab-toast-widgets-hidden =
+    .message = Selezione la icone a forme di lapis par tornâ a zontâ i widgets cuant che tu vuelis.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Cumò tu stâs daûr a { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = No tu stâs plui daûr a { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = No tu viodarâs plui storiis su { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -729,6 +745,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completadis ({ $number })
+newtab-widget-lists-celebration-headline = Biel lavôr
+newtab-widget-lists-celebration-subhead = Fat dut
 newtab-widget-task-list-menu-copy = Copie
 newtab-widget-lists-menu-edit = Modifiche non liste
 newtab-widget-lists-menu-edit2 =
@@ -776,6 +794,8 @@ newtab-widget-lists-name-placeholder-checklist =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Gnove liste
 newtab-widget-section-title = Widgets
+newtab-widget-menu-hide = Plate widgets
+newtab-widget-menu-change-size = Cambie dimension
 # Parent label for a submenu in the widget menu that reorders the widget
 # among its siblings. "Left" and "Right" appear as items inside this submenu.
 newtab-widget-menu-move = Sposte
@@ -785,6 +805,9 @@ newtab-widget-menu-move-left = A çampe
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = A diestre
+newtab-widget-size-small = Piçule
+newtab-widget-size-medium = Medie
+newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Plate widgets
@@ -804,6 +827,7 @@ newtab-widget-add-widgets-button =
 newtab-widget-section-menu-manage = Gjestìs widgets
 newtab-widget-section-menu-hide-all = Plate widgets
 newtab-widget-section-menu-learn-more = Plui informazions
+newtab-widget-section-feedback = Dânus la tô opinion
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
@@ -833,6 +857,12 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Disative lis notifichis
 newtab-widget-timer-menu-notifications-on = Ative lis notifichis
 newtab-widget-timer-menu-learn-more = Plui informazions
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Gnovis in evidence
+newtab-daily-briefing-card-menu-dismiss = Siere
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Inzornât { $minutes }m indaûr
 newtab-widget-message-title = Reste concentrât doprant lis listis e il temporizadôr integrât
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Di pro memoria svelts a listis di ativitâts cuotidianis, di sessions di concentrazion a pausis par rilassâsi — manten la atenzion e rispiete i timps.
@@ -897,10 +927,17 @@ newtab-widget-timer-celebration-message-break = Sêstu pront(e) a concentrâti?
 ##
 
 newtab-sports-widget-menu-follow-teams = Sta daûr des scuadris
+newtab-sports-widget-menu-view-schedule = Viôt il calendari
 newtab-sports-widget-menu-view-upcoming = Visualize ce che al sta par rivâ
 newtab-sports-widget-menu-view-results = Viôt i risultâts
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Datis impuartantis
 newtab-sports-widget-menu-learn-more = Plui informazions
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Reste inzornât sui mondiâi
 newtab-sports-widget-get-updates = Ricêf inzornaments in timp reâl su lis partidis e ancjemò altri.
+newtab-sports-widget-view-schedule =
+    .label = Viôt il calendari
 newtab-sports-widget-follow-teams =
     .label = Sta daûr des scuadris
 newtab-sports-widget-choose-wallpaper =
@@ -927,6 +964,21 @@ newtab-sports-widget-group-i = Grup I
 newtab-sports-widget-group-j = Grup J
 newtab-sports-widget-group-k = Grup K
 newtab-sports-widget-group-l = Grup L
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = DIRETE
+newtab-custom-widget-live-refresh =
+    .title = Inzorne risultâts
+    .aria-label = Inzorne risultâts
+newtab-sports-widget-upcoming = Daûr a rivâ
+newtab-sports-widget-results = Risultâts
+newtab-sports-widget-semi-finals = Semifinâls
+newtab-sports-widget-bronze-finals = Finâl pal tierç puest
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finâl
+newtab-sports-widget-delayed = In ritart
+newtab-sports-widget-postponed = Posticipade
+newtab-sports-widget-suspended = Sospindude
+newtab-sports-widget-cancelled = Anulade
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
