@@ -28,6 +28,7 @@ content-sharing-modal-sign-in-2 =
 content-sharing-modal-title-2 = Condivide iste paginas con quicunque
 content-sharing-modal-title-signed-in = Tu ligamines es preste a condivider
 content-sharing-modal-description-2 = Accede pro crear un pagina de ligamines facile a condivider. Illo non pote esser modificate o delite e expira post 7 dies.
+content-sharing-modal-description-signed-in = Nos produceva un pagina facile a condivider con tu ligamines. Illo non pote esser modificate o delite e expira post 7 dies.
 content-sharing-modal-policy = Condividente tu accepta nostre <a data-l10n-name="aup-link">Directiva de uso correcte</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
