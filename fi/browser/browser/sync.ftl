@@ -41,6 +41,10 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Ota synkronointi käyttöön lähettääksesi välilehden
 fxa-menu-send-to-mobile-connect-phone2 = Yhdistä puhelimesi
 fxa-menu-send-to-mobile-device-missing2 = Etkö näe laitettasi?
+fxviewtabrow-send-to-mobile-not-verified = Tiliä ei ole vahvistettu
+fxviewtabrow-send-to-mobile-verify-account = Vahvista tilisi
+fxa-menu-send-to-mobile-turn-on-sync = Ota synkronointi käyttöön lähettääksesi välilehtiä
+fxa-menu-send-to-mobile-connect-device = Yhdistä laite lähettääksesi välilehtiä
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -69,6 +73,10 @@ sync-setup-verify-heading = Haluatko varmasti kirjautua sisään synkronointia v
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Toinen käyttäjä oli aiemmin kirjautunut sisään synkronoidakseen tällä tietokoneella. Sisäänkirjautuminen yhdistää tämän selaimen kirjanmerkit, salasanat ja muut asetukset tiliin { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Kirjaudu sisään lähettääksesi välilehtiä
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

@@ -96,3 +96,6 @@ text-action-remove-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Poista kaikki korostukset
+profile-window-menu-edit =
+    .label = Muokkaa
+    .accesskey = M

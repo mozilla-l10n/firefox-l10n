@@ -243,3 +243,13 @@ privacy-metrics-empty = Ei estettyjä seuraimia tällä viikolla. { -brand-short
 privacy-metrics-loading = Ladataan suojaustilastoja…
 privacy-metrics-error = Suojaustilastojen lataaminen epäonnistui.
 privacy-metrics-private-window = { -brand-short-name } jatkaa seuraimien estämistä yksityisissä ikkunoissa, mutta ei pidä kirjaa siitä, mitä on estetty.
+
+## VPN promo card and banner
+
+protections-vpn-title = Vie yksityisyyden suojaus selaimen ulkopuolelle
+protections-vpn-header-content = Suojaa koko laitteesi { -mozilla-vpn-brand-name }:llä. Yksi napautus salaa kaiken liikenteen ja piilottaa sijaintisi.
+protections-get-vpn-link = Hanki { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Tilattu
+protections-vpn-banner-header = Suojaus, joka ulottuu selaimen ulkopuolelle
+protections-vpn-banner-content = Kokeile { -mozilla-vpn-brand-name }:ää riskittä ja näet, miksi TechRadar totesi: ”Sen nopeus, yksinkertaisuus ja alhainen kuukausihinta tekevät siitä kokeilemisen arvoisen.”
+protections-vpn-banner-link = Hanki { -mozilla-vpn-brand-name }

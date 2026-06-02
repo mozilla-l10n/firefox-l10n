@@ -251,7 +251,7 @@ other-backup-files-founds = <b>註：</b>找到另 { $numberOfOtherBackupsFound 
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 建立於 { $machineName }
+backup-file-creation-metadata2 = 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 建立於 { $machineName } 的 <b>{ $profileName }</b> 備份
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
