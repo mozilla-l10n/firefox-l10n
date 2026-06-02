@@ -81,3 +81,10 @@ fxviewtabrow-unmute-tab-button-no-context =
 fxviewtabrow-send-to-mobile-connect-phone2 = Connete su telèfonu tuo
 fxviewtabrow-send-to-mobile-connect-device = Connete unu dispositivu pro imbiare ischedas
 fxviewtabrow-send-to-mobile-device-missing2 = Non bides su dispositivu tuo?
+fxviewtabrow-send-to-mobile-not-verified = Contu non verificadu
+fxviewtabrow-send-to-mobile-verify-account = Verìfica su contu tuo
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Identìfica·ti pro imbiare ischedas
+fxviewtabrow-send-to-mobile-turn-on-sync = Ativa sa sincronizatzione pro imbiare ischedas

@@ -42,6 +42,11 @@ ipprotection-site-settings-callout-title = Sèbera in ue boles impreare sa VPN
 ipprotection-site-settings-callout-subtitle = Disativa sa VPN pro unu situ ispetzìficu e dd’amus a regordare cando dd’as a torrare a visitare.
 ipprotection-site-settings-callout-button = Apo cumprèndidu
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Proa immoe
+ipprotection-location-selection-callout-secondary-button = Iscarta
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -84,6 +89,18 @@ ipprotection-connection-status-excluded-1 = Sa VPN est disativada pro custu situ
 ipprotection-connection-status-connecting-1 = Connessione VPN in cursu…
     .aria-label = Connessione VPN in cursu…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Positzione: cussigiadu
+ipprotection-recommended-location-badge = NOU
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Positzione: { $country }
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = No a disponimentu
+
 ## VPN paused state
 
 upgrade-vpn-button = Proa { -mozilla-vpn-brand-name }
@@ -102,6 +119,11 @@ ipprotection-connection-status-blocked-error-title = Sa VPN no est a disponiment
 confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativada pro custu situ
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
+
+## IP Protection Settings
+
+ip-protection-autostart-private-checkbox =
+    .label = In ventanas privadas
 
 ## IP Protection alerts
 
