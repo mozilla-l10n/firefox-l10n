@@ -257,4 +257,5 @@ protections-vpn-header-content-subscribed =
        *[other] A { -mozilla-vpn-brand-name } titkosítja az összes forgalmát és elrejti tartózkodási helyét – akár { $count } eszközön. Hozza ki a legtöbbet az előfizetéséből – adja hozzá a <a data-l10n-name="playstore-link">Google Play Áruházból</a> vagy az <a data-l10n-name="appstore-link">Apple App Store-ból </a>.
     }
 protections-vpn-banner-header = Védelem, mely túlmutat a böngészőn
+protections-vpn-banner-content = Próbálja ki a { -mozilla-vpn-brand-name }-t kockázatmentesen, és tudja meg, miért mondja ezt a TechRadar: „gyorsasága, egyszerűsége és alacsony havidíja miatt megéri megnézni”.
 protections-vpn-banner-link = A { -mozilla-vpn-brand-name } beszerzése

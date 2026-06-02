@@ -39,6 +39,9 @@ content-sharing-modal-too-many-links-2 =
         [one] Csak { $count } hivatkozást fog tartalmazni
        *[other] Csak { $count } hivatkozást fog tartalmazni
     }
+content-sharing-modal-no-shareable-links =
+    .heading = Nincs tartalmaz megosztható hivatkozásokat
+    .message = Csak a webes tartalmak hivatkozásai oszthatók meg.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =
