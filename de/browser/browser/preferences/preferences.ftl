@@ -1431,7 +1431,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Sie synchronisieren diese Elemente mit allen Ihren verbundenen Geräten:
-sync-syncing-across-devices-heading-2 = Diese Daten werden zwischen den Geräten synchronisiert
+sync-syncing-across-devices-heading-2 = Diese Daten werden zwischen den Geräten synchronisiert:
 sync-syncing-across-devices-empty-state2 =
     .label = Synchronisierte Daten verwalten
     .description = Sie synchronisieren nichts … noch nicht. Starten Sie die Synchronisierung, um alle ihre Daten auf allen ihren Geräten zu haben.
