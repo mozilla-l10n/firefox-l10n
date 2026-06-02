@@ -577,3 +577,8 @@ onboarding-refresh-import-title = Sintiti come a cjase cun { -brand-short-name }
 onboarding-refresh-onboarding-addons-subtitle = Lis estensions a son piçulis aplicazions che ti permetin di personalizâ { -brand-short-name }. A puedin rinfuarçâ la sigurece, miorâ la produtivitât, cambiâ l'aspiet di { -brand-short-name } e tant altri.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Dai un sburt ae navigazion
+onboarding-refresh-sync-subtitle = Cjate segnelibris, passwords e inmò di plui dapardut là che tu âs fat l’acès a { -brand-short-name }. Sore, i tiei dâts a vegnin cifrâts, cussì che dome tu tu puedis viodiju.
+onboarding-refresh-sync-title = Va dulà che ti pâr. Sincronize dut.
+onboarding-refresh-gratitude-subtitle = Gracie par vê sielt { -brand-short-name }, l’unic dai navigadôrs principâi sostignût di une organizazion cence fins di vuadagn. Cul tô supuart, o lavorìn par rindi internet un puest sigûr e acessibil a ducj.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } ti pare simpri
