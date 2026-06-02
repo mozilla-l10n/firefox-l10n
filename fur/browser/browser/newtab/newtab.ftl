@@ -940,9 +940,22 @@ newtab-sports-widget-view-schedule =
     .label = Viôt il calendari
 newtab-sports-widget-follow-teams =
     .label = Sta daûr des scuadris
+newtab-sports-widget-view-matches =
+    .label = Viôt partidis
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Sta daûr fin a un massim di { $number } scuadre
+       *[other] Sta daûr fin a un massim di { $number } scuadris
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Sielç un fonts
 newtab-sports-widget-skip = Salte
+newtab-sports-widget-search-country =
+    .placeholder = Cîr nazion
+    .aria-label = Cîr nazion
+newtab-sports-widget-cancel = Anule
 newtab-sports-widget-done-button =
     .label = Fat
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -979,6 +992,12 @@ newtab-sports-widget-delayed = In ritart
 newtab-sports-widget-postponed = Posticipade
 newtab-sports-widget-suspended = Sospindude
 newtab-sports-widget-cancelled = Anulade
+newtab-sports-widget-information = Informazions su la partide
+newtab-sports-widget-no-live-data = In chest moment i dâts de partide in direte no si stan inzornant
+newtab-sports-widget-view-results-link = Viôt i risultâts
+newtab-sports-widget-third-place = Tierç puest
+newtab-sports-widget-champions = Campions
+newtab-sports-widget-world-cup-champions = Campions de Cope dal mont 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }

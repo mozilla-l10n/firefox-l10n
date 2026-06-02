@@ -570,3 +570,10 @@ onboarding-personalization-motivation-title = Ce funzions di { -brand-short-name
 onboarding-personalization-motivation-privacy-option = Riservatece e sigurece
 onboarding-personalization-motivation-productivity-option = Produtivitât
 onboarding-personalization-motivation-other-option = Altri
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-import-title = Sintiti come a cjase cun { -brand-short-name }
+onboarding-refresh-onboarding-addons-subtitle = Lis estensions a son piçulis aplicazions che ti permetin di personalizâ { -brand-short-name }. A puedin rinfuarçâ la sigurece, miorâ la produtivitât, cambiâ l'aspiet di { -brand-short-name } e tant altri.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Dai un sburt ae navigazion
