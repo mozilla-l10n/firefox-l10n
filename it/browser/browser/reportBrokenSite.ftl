@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Segnala problemi con il sito
 report-broken-site-panel-intro-text = La tua segnalazione ci aiuta a capire e risolvere i problemi di { -brand-product-name }, aiutandoci a migliorarlo per tutti.
 report-broken-site-panel-learn-more-link = Ulteriori informazioni
+report-broken-site-panel-url-label = URL del sito non funzionante
 report-broken-site-panel-reason-intro-text = Che cosa non funziona?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Il sito non si carica
