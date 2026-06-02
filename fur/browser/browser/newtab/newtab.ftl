@@ -27,6 +27,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personalize
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Siere
+    .aria-label = Siere
 
 ## Search box component.
 
@@ -73,6 +76,11 @@ newtab-topsites-url-validation = URL valit necessari
 newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Nete test
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -140,6 +148,9 @@ newtab-menu-report = Segnale
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloche
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Smet di sta daûr
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Smet di sta daûr al argoment
@@ -314,6 +325,8 @@ newtab-custom-shortcuts-toggle =
     .description = Sîts che tu âs salvât o visitât
 newtab-custom-shortcuts-nova =
     .label = Scurtis
+newtab-custom-row-description =
+    .description = Numar di riis
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -355,10 +368,18 @@ newtab-custom-widget-lists-toggle =
     .label = Listis
 newtab-custom-widget-timer-toggle =
     .label = Temporizadôr
+newtab-custom-widget-sports-toggle =
+    .label = Cope dal mont
+newtab-custom-widget-clock-toggle =
+    .label = Orloi
+newtab-custom-widget-sports-toggle2 =
+    .label = Sports
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
 newtab-widget-manage-title = Widgets
+newtab-widget-manage-widget-button =
+    .label = Gjestìs widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Siere
@@ -372,6 +393,7 @@ newtab-wallpaper-title = Fonts
 newtab-wallpaper-reset = Ripristine predefinît
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Cjame une imagjin
+newtab-wallpaper-add-an-image = Zonte une imagjin
 newtab-wallpaper-custom-color = Sielç un colôr
 newtab-wallpaper-toggle-title =
     .label = Fonts
@@ -399,6 +421,7 @@ newtab-wallpaper-light-fox-anniversary = Une bolp intun cjamp jerbôs cuntun pae
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colôr solit
+newtab-wallpaper-colors = Colôrs
 newtab-wallpaper-blue = Blu
 newtab-wallpaper-light-blue = Blu clâr
 newtab-wallpaper-light-purple = Viole clâr
@@ -489,7 +512,12 @@ newtab-weather-menu-change-location = Cambie localitât
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cîr localitât
     .aria-label = Cîr localitât
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Dopre la posizion atuâl
 newtab-weather-menu-weather-display = Visualizazion meteo
+newtab-weather-todays-forecast = Previsions par vuê
+newtab-weather-see-full-forecast = Viôt la prevision complete
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -512,8 +540,18 @@ newtab-weather-opt-in-not-now =
     .label = No cumò
 newtab-weather-opt-in-yes =
     .label = Sì
+newtab-weather-opt-in-headline = Viôt lis previsions meteorologjichis locâls
+newtab-weather-opt-in-use-location =
+    .label = Dopre posizion
+newtab-weather-opt-in-choose-location = Sielç posizion
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Massime
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Minime
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
