@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Denegar
     .accesskey = D
 webext-perms-host-description-all-urls = Acceder a tu datos pro tote le sitos web
+webext-perms-host-description-file-urls = Acceder a files local sur tu computator
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a tu datos pro le sitos del dominio { $domain }

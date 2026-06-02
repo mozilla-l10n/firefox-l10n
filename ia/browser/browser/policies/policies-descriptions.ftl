@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Disactivar le Navigation private.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
 policy-DisableProfileRefresh = Disactivar le button Refrescar { -brand-short-name } in le pagina about:support.
 policy-DisableRemoteImprovements = Impedir a { -brand-short-name } de applicar modificationes de prestation, stabilitate, e functionalitate inter actualisationes.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Disactivar le configurationes remote.
 policy-DisableSafeMode = Disactivar le function pro reinitiar in modo secur. Nota: le clave Shift pro entrar in modo secur pote solmente esser disactivate sur Windows usante le politicas de gruppo.
 policy-DisableSecurityBypass = Impedir al usator de ignorar certe avisos de securitate.
 policy-DisableSetAsDesktopBackground = Disactivar le commando de menu Definir como Fundo del scriptorio pro le imagines.

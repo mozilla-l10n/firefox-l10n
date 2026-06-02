@@ -247,5 +247,17 @@ privacy-metrics-private-window = { -brand-short-name } continua a blocar traciat
 
 ## VPN promo card and banner
 
+protections-vpn-title = Gaude del protectiones del confidentialitate ultra le navigator
+protections-vpn-header-content = Protege tote tu apparato con { -mozilla-vpn-brand-name }. Un sol tocco crypta tote le traffico e cela tu position.
 protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: abonate
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Per { -mozilla-vpn-brand-name } crypta tote tu traffico e cela tu position: sur maximo { $count } apparatos. Obtene le maximo ab tu abonamento, adde lo ab <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Per { -mozilla-vpn-brand-name } crypta tote tu traffico e cela tu position: sur maximo { $count } apparato. Obtene le maximo ab tu abonamento, adde lo ab <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Protection que se extende ultra le navigator
+protections-vpn-banner-content = Essaya { -mozilla-vpn-brand-name } sin risco e vide perque TechRadar dice, “su velocitate, simplicitate e basse precio mensual merita le pena de un reguardo.”
 protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }
