@@ -243,3 +243,18 @@ privacy-metrics-empty = A héten egy követő sem volt blokkolva. A { -brand-sho
 privacy-metrics-loading = Védelmi statisztikák betöltése…
 privacy-metrics-error = Nem sikerült betölteni a védelmi statisztikákat.
 privacy-metrics-private-window = A { -brand-short-name } a privát ablakokban is blokkolja a követőket, de nem tárolja, hogy mik kerültek blokkolásra.
+
+## VPN promo card and banner
+
+protections-vpn-header-content = Védje meg az egész eszközét a { -mozilla-vpn-brand-name } segítségével. Egy koppintás titkosítja az összes forgalmat, és elrejti a tartózkodási helyét.
+protections-get-vpn-link = A { -mozilla-vpn-brand-name } beszerzése
+protections-vpn-title-subscribed = VPN: Előfizetve
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] A { -mozilla-vpn-brand-name } titkosítja az összes forgalmát és elrejti tartózkodási helyét – akár { $count } eszközön. Hozza ki a legtöbbet az előfizetéséből – adja hozzá a <a data-l10n-name="playstore-link">Google Play Áruházból</a> vagy az <a data-l10n-name="appstore-link">Apple App Store-ból </a>.
+       *[other] A { -mozilla-vpn-brand-name } titkosítja az összes forgalmát és elrejti tartózkodási helyét – akár { $count } eszközön. Hozza ki a legtöbbet az előfizetéséből – adja hozzá a <a data-l10n-name="playstore-link">Google Play Áruházból</a> vagy az <a data-l10n-name="appstore-link">Apple App Store-ból </a>.
+    }
+protections-vpn-banner-header = Védelem, mely túlmutat a böngészőn
+protections-vpn-banner-link = A { -mozilla-vpn-brand-name } beszerzése

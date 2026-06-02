@@ -49,3 +49,6 @@ content-sharing-modal-too-many-pages =
         }
     .message = Próbálja újra miután az egyik lapja lejárt.
 content-sharing-modal-some-invalid-links = Néhány hivatkozás nem osztható meg.
+content-sharing-modal-generic-error-2 =
+    .heading = Hiba történt
+    .message = Most nem tudtuk létrehozni a megosztott oldalát. Próbálja újra később.

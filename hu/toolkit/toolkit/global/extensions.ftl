@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Tiltás
     .accesskey = T
 webext-perms-host-description-all-urls = Az adatai elérése az összes webhelyhez
+webext-perms-host-description-file-urls = Érje el a helyi fájlokat a számítógépén
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Az adatai elérése a(z) { $domain } tartományban lévő lapokhoz

@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Privát böngészés letiltása.
 policy-DisableProfileImport = A más böngészőből történő adatimportálás parancsok letiltása.
 policy-DisableProfileRefresh = A { -brand-short-name } felfrissítése gomb letiltása az about:support oldalon.
 policy-DisableRemoteImprovements = Megakadályozza, hogy a { -brand-short-name } teljesítményt, stabilitást és funkciókat érintő változtatásokat hajtson végre a frissítések között.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Távoli beállítások letiltása.
 policy-DisableSafeMode = Az Újraindítás letiltott kiegészítőkkel funkció letiltása. Megjegyzés: a kiegészítők nélküli indításhoz használható Shift billentyű csak Windowson tiltható le csoportházirend segítségével.
 policy-DisableSecurityBypass = Annak a megakadályozása, hogy a felhasználó átugorjon bizonyos biztonsági figyelmeztetéseket.
 policy-DisableSetAsDesktopBackground = A Beállítás háttérképként menüparancs letiltása a képeknél.

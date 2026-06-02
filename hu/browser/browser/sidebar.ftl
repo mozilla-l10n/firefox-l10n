@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = MI csevegőbot
 menu-view-contextual-password-manager =
     .label = Jelszavak
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Nyitott lapok
 sidebar-options-menu-button =
     .title = Menü megnyitása
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Előzmények
 sidebar-menu-synced-tabs-label =
     .label = Lapok más eszközökről
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Nyitott lapok
 sidebar-menu-bookmarks-label =
     .label = Könyvjelzők
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Előzmények
 sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Nyitott lapok
 sidebar-menu-cpm-header =
     .heading = Jelszavak
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobilos könyvjelzők
 sidebar-customize-title = Oldalsáv testreszabása
 sidebar-history-title = Előzmények
 sidebar-syncedtabs-title = Lapok más eszközökről
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Nyitott lapok
 
 ## Context for closing synced tabs when hovering over the items
 
