@@ -913,7 +913,6 @@ newtab-widget-timer-celebration-message-break = Odaklanmaya hazır mısınız?
 ##
 
 newtab-sports-widget-menu-follow-teams = Takımları takip et
-newtab-sports-widget-menu-view-schedule = Takvimi gör
 newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
 newtab-sports-widget-menu-view-results = Sonuçlara bak
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -1181,6 +1180,12 @@ newtab-clock-widget-button-remove-clock =
 #   $city (string) - The city name displayed in the row.
 newtab-clock-widget-edit-item =
     .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, takma adı: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Saat ekle
 newtab-clock-widget-edit-clock-form =
