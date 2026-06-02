@@ -410,6 +410,8 @@ quickactions-cmd-help = agiudu, suportu
 # Opens the devtools web inspector
 quickactions-inspector2 = Aberis is ainas de isvilupu
 quickactions-cmd-inspector2 = analizadore, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Sèbera unu colore
 # Opens Firefox Library
 quickactions-cmd-library = biblioteca
 quickactions-library = Aberi sa biblioteca
@@ -549,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Sa connessione a custu situ no est segura.
 identity-connection-verified = Sa connessione a custu situ est segura.
 identity-ev-owner-label = Tzertificadu emìtidu pro:
+identity-verifier-label = Averiguadu dae:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Calificadu comente est ispetzificadu a su Regulamentu (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla non reconnoschet custu emitente de tzertificatzione. Diat pòdere èssere istadu agiuntu dae su sistema operativu o dae s'amministratzione.
+identity-cert-exception-overridden = As agiuntu un’etzetzione de seguresa pro custu situ.
 identity-remove-cert-exception =
     .label = Boga s’etzetzione
     .accesskey = B
@@ -1014,6 +1018,9 @@ urlbar-result-action-open-saved-tabgroup = Aberi { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Aberi in un’ischeda noa
     .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Aberi in un’ischeda cuntenidora noa
+    .accesskey = i
 urlbar-view-context-menu-open-in-window =
     .label = Aberi in una ventana noa
     .accesskey = v
@@ -1263,6 +1270,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = codigheqr
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = còdigheqr-{ $domain }
 
 ## EME notification panel
 
@@ -1702,8 +1712,16 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } at permìtidu { $count } cripto-minadores
     }
 trustpanel-cryptominer-tab-list-header = Custos sitos sunt chirchende de minare cripto-monedas:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Iscarta
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> sighidore blocadu in custu situ
        *[other] <span data-l10n-name="count">{ $count }</span> sighidores blocados in custu situ
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Torra a carrigare
+    .accesskey = T
+reduced-protection-infobar-never-show-button = No ammustres prus
+    .accesskey = N

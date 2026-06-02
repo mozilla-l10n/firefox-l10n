@@ -58,7 +58,7 @@ edit-engine-window =
     .title = Modìfica su motore de chirca
     .style = min-width: 32em;
 add-engine-button = Agiunghe unu motore personalizadu
-add-engine-name = Chirca su nòmine de su motore
+add-engine-name = Nòmine de su motore de chirca
 add-engine-url2 = URL cun %s imbetzes de su tèrmine de chirca
 add-engine-keyword2 = Crae (optzionale)
 # POST and GET refer to the HTTP methods.

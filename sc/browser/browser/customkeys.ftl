@@ -13,6 +13,7 @@ customkeys-reset-all = Cunfigura totu is curtzadòrgios a is valores predefinido
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Custa crae est giai assotziada a { $conflict }. Dda boles sostituire?
 customkeys-reset-all-confirm = Seguru chi boles azerare totu is curtzadòrgios de tecladu a sa cunfiguratzione predefinida?
+customkeys-file-duplicate-tab = Dùplica s’ischeda
 customkeys-history-reopen-tab = Torra a abèrrere s’ùrtima ischeda serrada
 customkeys-history-reopen-window = Torra a abèrrere s’ùrtima ventana serrada
 customkeys-sidebar-toggle = Ativa/disativa sa barra laterale
