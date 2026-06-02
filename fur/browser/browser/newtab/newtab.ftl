@@ -603,8 +603,16 @@ newtab-topic-selection-button-pick-interests = Sielç i tiei interès
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sta daûr
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sta daûr a { $topic }
 newtab-section-following-button = Tu stâs daûr
 newtab-section-unfollow-button = Smet di sta daûr
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Tu stâs daûr: smet di stâ daûr a { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Regole di fin il to feed
 newtab-section-follow-highlight-subtitle = Sta daûr dai argoments che ti interessin par scuvierzi di plui su ce che ti plâs.
@@ -616,6 +624,22 @@ newtab-section-follow-highlight-subtitle = Sta daûr dai argoments che ti intere
 newtab-section-block-button = Bloche
 newtab-section-blocked-button = Blocât
 newtab-section-unblock-button = Sbloche
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Sta daûr a { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Smet di stâ daûr a { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bloche { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Sbloche { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -625,6 +649,7 @@ newtab-section-confirm-block-topic-p2 = I argoments blocâts no vignaran plui mo
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloche { $topic }
+newtab-section-block-cancel-button = Anule
 
 ## Strings for custom wallpaper highlight
 
@@ -645,6 +670,10 @@ newtab-custom-wallpaper-cta = Provilu
 newtab-new-user-custom-wallpaper-title = Sielç un fonts par personalizâ il to { -brand-product-name }
 newtab-new-user-custom-wallpaper-subtitle = Rint ogni gnove schede come se e fos cjase tô, cun fonts e colôrs personalizâts.
 newtab-new-user-custom-wallpaper-cta = Provilu daurman
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = A son rivâts gnûfs fonts
 
 ## Strings for download mobile highlight
 
