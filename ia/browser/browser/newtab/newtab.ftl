@@ -823,6 +823,14 @@ newtab-widget-section-menu-manage = Gerer widgets
 newtab-widget-section-menu-hide-all = Celar widgets
 newtab-widget-section-menu-learn-more = Pro saper plus
 newtab-widget-section-feedback = Conta nos lo que que tu pensa
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Monstrar altere widgets
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Monstrar minus widgets
 newtab-widget-lists-name-default = Lista de verification
 
 ## Strings introduced by the Nova redesign of the Timer widget

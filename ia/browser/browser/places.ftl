@@ -267,5 +267,10 @@ places-search-downloads =
 
 places-locked-prompt = Le systema de marcapaginas e chronologia non functionara perque un del files de { -brand-short-name } es in uso per un altere application. Alcun software de securitate pote causar iste problema.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Condivider plica
+    .badge = Nove
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Condivider plica
