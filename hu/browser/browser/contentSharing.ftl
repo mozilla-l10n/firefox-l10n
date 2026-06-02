@@ -39,3 +39,13 @@ content-sharing-modal-too-many-links-2 =
         [one] Csak { $count } hivatkozást fog tartalmazni
        *[other] Csak { $count } hivatkozást fog tartalmazni
     }
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Megosztott { $count } lapot
+           *[other] Megosztott { $count } lapot
+        }
+    .message = Próbálja újra miután az egyik lapja lejárt.
+content-sharing-modal-some-invalid-links = Néhány hivatkozás nem osztható meg.
