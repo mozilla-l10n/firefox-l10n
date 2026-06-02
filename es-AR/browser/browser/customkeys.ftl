@@ -48,6 +48,7 @@ customkeys-nav-select-tab-6 = Ir a la pestaña 6
 customkeys-nav-select-tab-7 = Ir a la pestaña 7
 customkeys-nav-select-tab-8 = Ir a la pestaña 8
 customkeys-nav-select-last-tab = Ir a la última pestaña
+customkeys-nav-toggle-mute = Enmudecer/desenmudecer audio
 customkeys-edit-find-previous = Buscar anterior
 customkeys-tools-screenshot = Hacer captura de pantalla
 customkeys-caution-message = Esta función es experimental y puede ser que no funcione como se esperaba.

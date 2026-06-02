@@ -244,3 +244,20 @@ privacy-metrics-empty = No hay rastreadores bloqueados esta semana. { -brand-sho
 privacy-metrics-loading = Cargando estadísticas de protección…
 privacy-metrics-error = No se pudieron cargar las estadísticas de protección.
 privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no guarda el registro de lo que se bloqueó.
+
+## VPN promo card and banner
+
+protections-vpn-title = Lleve la protección de privacidad más allá del navegador
+protections-vpn-header-content = Proteja todo el dispositivo con { -mozilla-vpn-brand-name }. Un toque cifra todo el tráfico y ocultattlal ubicación.
+protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Suscripto
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Usar { -mozilla-vpn-brand-name } cifra todo el tráfico y oculta la ubicación — en hasta { $count } dispositivo. Aproveche la suscripción al máximo — agréguela desde <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Usar { -mozilla-vpn-brand-name } cifra todo el tráfico y oculta la ubicación — en hasta { $count } dispositivos. Aproveche la suscripción al máximo — agréguela desde <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Protección que se extiende más allá del navegador
+protections-vpn-banner-content = Pruebe { -mozilla-vpn-brand-name } sin riesgos y vea por qué TechRadar dice que “su velocidad, simplicidad y bajo precio mensual hacen que valga la pena probarla”.
+protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }
