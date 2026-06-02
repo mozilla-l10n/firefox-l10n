@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Nýr huliðsgluggi
 appmenuitem-history =
     .label = Ferill
+appmenuitem-tab-groups =
+    .label = Flipahópar
 appmenuitem-downloads =
     .label = Niðurhöl
 appmenuitem-passwords =
@@ -273,6 +275,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Sérsníða verkfærastiku…
+appmenu-abouttranslations =
+    .label = Þýða…
 appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
     .label = Forritsaukar fyrir forritara

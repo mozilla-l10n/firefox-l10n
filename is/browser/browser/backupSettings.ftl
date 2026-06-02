@@ -40,6 +40,8 @@ settings-data-backup-last-backup-filename = Skráarheiti: { $fileName }
 ##
 
 settings-data-toggle-encryption-support-link = Frekari upplýsingar
+settings-data-change-password2 =
+    .label = Breyta lykilorði
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
