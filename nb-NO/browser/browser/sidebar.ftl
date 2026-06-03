@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-contextual-password-manager =
     .label = Passord
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Åpne faner
 sidebar-options-menu-button =
     .title = Åpne meny
 

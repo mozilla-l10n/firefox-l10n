@@ -244,3 +244,4 @@ privacy-metrics-private-window = { -brand-short-name } fortsetter å blokkere sp
 
 protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonnerer
+protections-vpn-banner-link = Få { -mozilla-vpn-brand-name }
