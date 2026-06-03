@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od 
 ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz było bardziej prywatne.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -34,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = Korzystasz z publiczne
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród 5 położeń, aby ukryć miejsce, z którego przeglądasz Internet.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród kilku położeń, aby ukryć miejsce, z którego przeglądasz Internet.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -59,6 +62,7 @@ ipprotection-site-settings-callout-button = OK
 
 ipprotection-location-selection-callout-title = Nowość: zmień swoje położenie
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> umożliwia wybór spośród 5 położeń, albo możemy wybrać najszybsze dla Ciebie.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> umożliwia wybór spośród kilku położeń, albo możemy wybrać najszybsze dla Ciebie.
 ipprotection-location-selection-callout-primary-button = Wypróbuj
 ipprotection-location-selection-callout-secondary-button = Zamknij
 
@@ -72,6 +76,7 @@ unauthenticated-choose-location-message = Wybierz spośród 5 położeń lub po
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
+unauthenticated-choose-location-message-1 = Wybierz spośród kilku położeń lub pozwól { -brand-product-name(case: "dat") } wybrać najszybsze.
 unauthenticated-get-started = Zacznij teraz
 unauthenticated-terms-of-service-privacy-notice = Kontynuując, wyrażasz zgodę na <a data-l10n-name="vpn-terms-of-service">regulamin usługi</a> i <a data-l10n-name="vpn-privacy-notice">zasady ochrony prywatności</a>.
 site-exclusion-toggle-enabled-1 =
@@ -123,6 +128,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Wybierz inne położenie, z którego przeglądać Internet.
 ipprotecion-locations-subview-recommended-label = Zalecane
 ipprotection-locations-subview-recommended-description = Znajduje najszybsze położenie
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Niedostępne
 ipprotection-locations-subview-promo =
     .heading = Jeszcze bardziej zwiększ ochronę dzięki { -mozilla-vpn-brand-name }
     .message = Wybierz jedno z ponad 300 położeń i chroń wszystkie aplikacje na maksymalnie 5 urządzeniach.
@@ -208,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
     .message = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie. Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
+    .message = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie.
 ip-protection-not-opted-in-button = Zacznij teraz
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
