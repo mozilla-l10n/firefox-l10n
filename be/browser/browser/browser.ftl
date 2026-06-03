@@ -414,6 +414,9 @@ quickactions-cmd-help = даведка, падтрымка
 # Opens the devtools web inspector
 quickactions-inspector2 = Адкрыць Інструменты распрацоўшчыка
 quickactions-cmd-inspector2 = інспектар, прылады распрацоўшчыка, інструменты распрацоўшчыка, devtools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Выбраць колер
+quickactions-cmd-colorpicker = палітра, падбор колеру, піпетка, выбраць колер
 # Opens Firefox Library
 quickactions-cmd-library = бібліятэка
 quickactions-library = Адкрыць бібліятэку
@@ -470,6 +473,9 @@ quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Паглядзець зыходнік старонкі
 quickactions-cmd-viewsource2 = праглядзець зыходны код, зыходнік, зыходны код старонкі
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Адкрыць { -firefoxlabs-brand-name }
+quickactions-cmd-labs = лабараторыі, эксперымент
 quickactions-cmd-viewsource = прагляд зыходнага тэксту, код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1291,6 +1297,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 

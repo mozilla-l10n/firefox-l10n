@@ -400,6 +400,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Навядзіце парадак у картках
 tab-groups-list-empty-description = Перацягніце адну картку на іншую ці націсніце правай кнопкай на картцы, каб пачаць арганізацыю. Мы захаваем вашы групы тут, каб іх было лёгка знайсці пазней.
 tab-groups-list-empty-button = Стварыць групу картак
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Новая група
 
 ## Open/saved tab group context menu
 

@@ -120,6 +120,8 @@ private-browsing-description2 =
     пашырэнне не будзе працаваць у часе прыватнага аглядання і не будзе мець доступу да вашай сеціўнай
     актыўнасці ў гэтым рэжыме. Мы зрабілі гэта для аховы вашай прыватнасці.
     <label data-l10n-name="private-browsing-learn-more">Даведайцеся, як кіраваць наладамі пашырэння.</label>
+aboutaddons-sidebar =
+    .heading = Дадаткі
 addon-category-discover = Рэкамендацыі
 addon-category-discover-title =
     .title = Рэкамендацыі
@@ -491,6 +493,10 @@ addon-permissions-empty = Гэта пашырэнне не патрабуе як
 addon-permissions-required = Неабходныя дазволы для асноўнай функцыянальнасці:
 addon-permissions-optional = Неабавязковыя дазволы для дадатковай функцыянальнасці:
 addon-permissions-learnmore = Даведацца больш пра дазволы
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Некаторымі дазволамі кіруе ваша арганізацыя.
 recommended-extensions-heading = Рэкамендаваныя пашырэнні
 recommended-themes-heading = Рэкамендаваныя тэмы
 # Variables:
