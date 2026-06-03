@@ -271,7 +271,18 @@ privacy-metrics-private-window = Prehliadač { -brand-short-name } naďalej blok
 ## VPN promo card and banner
 
 protections-vpn-title = Preneste ochranu súkromia za hranice prehliadača
+protections-vpn-header-content = Chráňte celé svoje zariadenie pomocou { -mozilla-vpn-brand-name }. Jedným ťuknutím zašifrujete všetku prevádzku a skryjete svoju polohu.
 protections-get-vpn-link = Získajte { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: predplatená
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Používaním { -mozilla-vpn-brand-name } šifrujete všetku vašu prevádzku a skryjete vašu polohu – až na { $count } zariadení. Využite svoje predplatné naplno – aplikáciu získate v <a data-l10n-name="playstore-link">Obchode Google Play</a> alebo <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] Používaním { -mozilla-vpn-brand-name } šifrujete všetku vašu prevádzku a skryjete vašu polohu – až na { $count } zariadeniach. Využite svoje predplatné naplno – aplikáciu získate v <a data-l10n-name="playstore-link">Obchode Google Play</a> alebo <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [many] Používaním { -mozilla-vpn-brand-name } šifrujete všetku vašu prevádzku a skryjete vašu polohu – až na { $count } zariadeniach. Využite svoje predplatné naplno – aplikáciu získate v <a data-l10n-name="playstore-link">Obchode Google Play</a> alebo <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Používaním { -mozilla-vpn-brand-name } šifrujete všetku vašu prevádzku a skryjete vašu polohu – až na { $count } zariadeniach. Využite svoje predplatné naplno – aplikáciu získate v <a data-l10n-name="playstore-link">Obchode Google Play</a> alebo <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
 protections-vpn-banner-header = Ochrana, ktorá presahuje rámec prehliadača
 protections-vpn-banner-content = Vyskúšajte { -mozilla-vpn-brand-name } bez rizika a presvedčte sa, prečo TechRadar hovorí, že „jej rýchlosť, jednoduchosť a nízka mesačná cena ju robia užitočnou.“
 protections-vpn-banner-link = Získajte { -mozilla-vpn-brand-name }

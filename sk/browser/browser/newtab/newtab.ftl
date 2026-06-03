@@ -865,6 +865,7 @@ newtab-widget-message-title = Zostaňte sústredení vďaka zoznamom a vstavané
 newtab-widget-message-copy = Od rýchlych pripomienok až po denné úlohy, od sústredených stretnutí až po prestávky – sústreďte sa na úlohy a dodržujte čas.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Jedno miesto pre sústredenie, predpovede počasia a ďalšie
+newtab-widget-message-focus-forecasts-body = Využite svoj deň naplno s miniaplikáciami vo { -brand-product-name(case: "loc") }. Pozrite si predpoveď počasia, sústreďte sa na úlohy alebo sledujte čas na celom svete.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -992,6 +993,8 @@ newtab-sports-widget-watch-stream-free-trial = Bezplatná skúšobná doba
 newtab-sports-widget-watch-stream-free-paid = Zadarmo aj platené
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Platené
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Iba vybrané zápasy
 # Heading for the list of streaming services available in the user’s country/region.
 newtab-sports-widget-watch-available-region = Dostupné vo vašom regióne
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -1126,6 +1129,10 @@ newtab-sports-widget-message-wallpapers-body = Prineste si do prehliadača energ
 newtab-sports-widget-message-wallpapers-cta = Vyberte si tapetu
 newtab-sports-widget-message-add-widgets-cta =
     .label = Pridať miniaplikácie
+newtab-sports-widget-message-day-in-play-title = Využite svoj deň naplno s miniaplikáciami vo { -brand-product-name(case: "loc") }
+newtab-sports-widget-message-day-in-play-body = Sledujte Majstrovstvá sveta, sústreďte sa na úlohy, sledujte čas po celom svete a mnoho ďalšieho.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Preskúmajte miniaplikácie
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
