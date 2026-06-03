@@ -38,6 +38,9 @@ content-sharing-modal-too-many-links-2 =
         [one] Berre { $count } lenke vil bli inkludert
        *[other] Berre { $count } lenker vil bli inkluderte
     }
+content-sharing-modal-no-shareable-links =
+    .heading = Ingen delbare lenker inkludert
+    .message = Berre lenker til nettinnhald kan delast.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

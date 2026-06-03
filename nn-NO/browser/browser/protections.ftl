@@ -250,5 +250,13 @@ protections-vpn-title = Ta personvernsikringa vidare enn nettlesaren
 protections-vpn-header-content = Vern heile eininga di med { -mozilla-vpn-brand-name }. Eitt trykk krypterer all trafikk og skjuler posisjonen din.
 protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonnerer
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Bruk av { -mozilla-vpn-brand-name } krypterer all trafikk og skjuler posisjonen din – på opptil { $count } eining. Få mest mogleg ut av abonnementet ditt – legg det til frå <a data-l10n-name="playstore-link">Google Play Store</a> eller <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Bruk av { -mozilla-vpn-brand-name } krypterer all trafikk og skjuler posisjonen din – på opptil { $count } einingar. Få mest mogleg ut av abonnementet ditt – legg det til frå <a data-l10n-name="playstore-link">Google Play Store</a> eller <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
 protections-vpn-banner-header = Vern som strekkjer seg lenger enn nettlesaren
+protections-vpn-banner-content = Prøv { -mozilla-vpn-brand-name } risikofritt, og sjå kvifor Techradar seier at «farta, enkelheita og den låge månadsprisen gjer det verdt å ta ein titt».
 protections-vpn-banner-link = Få { -mozilla-vpn-brand-name }
