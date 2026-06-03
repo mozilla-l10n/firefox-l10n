@@ -963,7 +963,7 @@ newtab-widget-timer-celebration-message-break = Jste připraveni se soustředit?
 
 ##
 
-newtab-sports-widget-menu-follow-teams = Sledujte týmy
+newtab-sports-widget-menu-follow-teams = Sledovat týmy
 newtab-sports-widget-menu-view-schedule = Zobrazit rozpis zápasů
 newtab-sports-widget-menu-view-upcoming = Zobrazit nadcházející
 newtab-sports-widget-menu-view-results = Zobrazit výsledky
@@ -976,7 +976,7 @@ newtab-sports-widget-get-updates = Získejte živé informace o zápasech a dal�
 newtab-sports-widget-view-schedule =
     .label = Zobrazit rozpis zápasů
 newtab-sports-widget-follow-teams =
-    .label = Sledujte týmy
+    .label = Sledovat týmy
 newtab-sports-widget-view-matches =
     .label = Zobrazit zápasy
 # Variables:
