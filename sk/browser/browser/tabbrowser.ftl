@@ -404,6 +404,8 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
+tab-groups-list-empty-header = Urobte si poriadok v kartách
+tab-groups-list-empty-description = Presuňte jednu kartu na druhú alebo kliknite pravým tlačidlom myši na kartu a začnite upratovať. Vaše skupiny uložíme sem, aby ste ich neskôr ľahko našli.
 tab-groups-list-empty-button = Vytvoriť skupinu kariet
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Nová skupina

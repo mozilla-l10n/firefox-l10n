@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo va�
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkromia
+ipprotection-feature-introduction-link-text-privacy-1 = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z niekoľkých lokalít, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -34,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z 5 lokalít, kde sa chcete skryť pri prehliadaní webu.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z niekoľkých lokalít, kde sa chcete skryť pri prehliadaní webu.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -59,6 +62,7 @@ ipprotection-site-settings-callout-button = Rozumiem
 
 ipprotection-location-selection-callout-title = Nové: Zmeňte svoju polohu
 ipprotection-location-selection-callout-description = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z 5 rôznych lokalít pre vaše prehliadanie. Alebo vám vyberieme pre vás tú najrýchlejšiu.
+ipprotection-location-selection-callout-description-1 = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z niekoľkých rôznych lokalít pre vaše prehliadanie. Alebo vám vyberieme pre vás tú najrýchlejšiu.
 ipprotection-location-selection-callout-primary-button = Vyskúšajte to
 ipprotection-location-selection-callout-secondary-button = Zavrieť
 
@@ -72,6 +76,7 @@ unauthenticated-choose-location-message = Vyberte si z 5 lokalít alebo nechajte
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
+unauthenticated-choose-location-message-1 = Vyberte si z niekoľkých lokalít alebo nechajte { -brand-product-name(case: "acc") } vybrať tú najrýchlejšiu.
 unauthenticated-get-started = Začíname
 unauthenticated-terms-of-service-privacy-notice = Pokračovaním súhlasíte so <a data-l10n-name="vpn-terms-of-service">Podmienkami používania</a> a <a data-l10n-name="vpn-privacy-notice">Vyhlásením o ochrane osobných údajov</a>.
 site-exclusion-toggle-enabled-1 =

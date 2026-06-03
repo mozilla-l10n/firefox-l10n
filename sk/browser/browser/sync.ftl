@@ -45,6 +45,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Povoliť synchronizáciu a odoslanie karty
 fxa-menu-send-to-mobile-connect-phone2 = Pripojiť telefón
 fxa-menu-send-to-mobile-device-missing2 = Nevidíte svoje zariadenie?
+fxviewtabrow-send-to-mobile-not-verified = Účet nie je overený
+fxviewtabrow-send-to-mobile-verify-account = Overte svoj účet
 fxa-menu-send-to-mobile-turn-on-sync = Zapnúť synchronizáciu a odoslať karty
 fxa-menu-send-to-mobile-connect-device = Pripojiť zariadenie a odoslať karty
 # Variables:

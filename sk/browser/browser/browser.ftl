@@ -414,6 +414,9 @@ quickactions-cmd-help = pomocník, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvoriť Nástroje pre vývojárov
 quickactions-cmd-inspector2 = inšpektor, inspector, devtools, vývojárske nástroje
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Vyberte farbu
+quickactions-cmd-colorpicker = výber farby, kvapkadlo, vybrať farbu
 # Opens Firefox Library
 quickactions-cmd-library = knižnica
 quickactions-library = Otvoriť knižnicu
@@ -470,6 +473,9 @@ quickactions-cmd-update = aktualizovať
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Zobraziť zdrojový kód stránky
 quickactions-cmd-viewsource2 = zobraziť zdroj, zdroj, zdrojový kód, zdrojový kód stránky
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Otvoriť { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, experiment
 quickactions-cmd-viewsource = zobraziť zdrojový kód, zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1294,6 +1300,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 

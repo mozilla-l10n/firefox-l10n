@@ -20,6 +20,8 @@ content-sharing-tabs-title =
         [many] { $count } kariet
        *[other] { $count } kariet
     }
+content-sharing-modal-view-page-2 =
+    .label = Ukážka stránky
 content-sharing-modal-copy-link =
     .label = Kopírovať odkaz
 content-sharing-modal-link-copied =

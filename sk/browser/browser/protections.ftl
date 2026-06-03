@@ -271,3 +271,4 @@ privacy-metrics-private-window = Prehliadač { -brand-short-name } naďalej blok
 ## VPN promo card and banner
 
 protections-vpn-title = Preneste ochranu súkromia za hranice prehliadača
+protections-get-vpn-link = Získajte { -mozilla-vpn-brand-name }
