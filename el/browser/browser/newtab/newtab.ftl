@@ -809,8 +809,8 @@ newtab-widget-size-medium = Μεσαίο
 newtab-widget-size-large = Μεγάλο
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Απόκρυψη widgets
-    .aria-label = Απόκρυψη όλων των widgets
+    .title = Απόκρυψη γραφικών στοιχείων
+    .aria-label = Απόκρυψη όλων των γραφικών στοιχείων
 newtab-widget-section-maximize =
     .title = Ανάπτυξη λίστας widgets
     .aria-label = Ανάπτυξη όλων των widgets σε πλήρη μέγεθος
@@ -824,7 +824,7 @@ newtab-widget-add-widgets-button =
     .aria-label = Προσθήκη γραφικού στοιχείου
     .title = Προσθήκη γραφικού στοιχείου
 newtab-widget-section-menu-manage = Διαχείριση γραφικών στοιχείων
-newtab-widget-section-menu-hide-all = Απόκρυψη widgets
+newtab-widget-section-menu-hide-all = Απόκρυψη γραφικών στοιχείων
 newtab-widget-section-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-section-feedback = Πείτε μας τη γνώμη σας
 # Button shown when additional widgets are hidden beyond the
