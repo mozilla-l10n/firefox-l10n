@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Як аднавіць:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Адкрыйце меню праграмы ☰ і перайдзіце ў Налады > Сінхранізацыя
+backup-file-moz-browser-restore-step-2-1 = Націсніце «Аднавіць дадзеныя» і выберыце гэты файл
 backup-file-moz-browser-restore-step-2 = Націсніце «Выбраць файл рэзервовай копіі» і абярыце гэты файл
 backup-file-moz-browser-restore-step-3 = Перазапусціце { -brand-short-name } пры запыце
 backup-file-other-browser-restore-step-1 = Сцягнуць і ўсталяваць { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Сцягнуць
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Запусціць { -brand-short-name }, адкрыць меню праграмы ☰ і перайсці ў Налады > Сінхранізацыя
+backup-file-other-browser-restore-step-3-1 = Націсніце «Аднавіць дадзеныя» і выберыце гэты файл
 backup-file-other-browser-restore-step-3 = Націснуць «Выбраць файл рэзервовай копіі» і абраць гэты файл
 backup-file-other-browser-restore-step-4 = Перазапусціць { -brand-short-name } пры запыце
 
