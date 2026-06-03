@@ -120,6 +120,8 @@ private-browsing-description2 =
     Rozšírenia tak nebudú mať bez vášho vedomia prístup k tomu, čo robíte v súkromnom prehliadaní. 
     Týmto krokom sa snažíme zvýšiť vaše súkromie.
     <label data-l10n-name="private-browsing-learn-more">Ďalšie informácie o správe rozšírení.</label>
+aboutaddons-sidebar =
+    .heading = Doplnky
 addon-category-discover = Odporúčania
 addon-category-discover-title =
     .title = Odporúčania
@@ -487,6 +489,10 @@ addon-permissions-empty = Toto rozšírenie nevyžaduje žiadne oprávnenia
 addon-permissions-required = Nevyhnutné oprávnenia pre splnenie základných funkcií:
 addon-permissions-optional = Voliteľné oprávnenia pre splnenie prídavných funkcií:
 addon-permissions-learnmore = Ďalšie informácie o oprávneniach
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Niektoré oprávnenia spravuje vaša organizácia.
 recommended-extensions-heading = Odporúčané rozšírenia
 recommended-themes-heading = Odporúčané témy vzhľadu
 # Variables:

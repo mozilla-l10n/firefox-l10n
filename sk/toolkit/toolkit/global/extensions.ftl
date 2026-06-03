@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Odmietnuť
     .accesskey = d
 webext-perms-host-description-all-urls = Pristupovať k údajom všetkých webových stránok
+webext-perms-host-description-file-urls = Prístup k lokálnym súborom v počítači
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Pristupovať k údajom webových stránok v doméne { $domain }

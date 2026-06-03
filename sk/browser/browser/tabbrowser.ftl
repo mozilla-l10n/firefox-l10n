@@ -400,6 +400,14 @@ tab-group-overflow-count-tooltip =
        *[other] { $tabCount } ďalších kariet
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-button = Vytvoriť skupinu kariet
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nová skupina
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new
