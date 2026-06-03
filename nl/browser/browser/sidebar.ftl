@@ -6,6 +6,9 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-contextual-password-manager =
     .label = Wachtwoorden
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+menu-view-open-tabs =
+    .label = Open tabbladen
 sidebar-options-menu-button =
     .title = Menu openen
 
@@ -141,6 +144,11 @@ sidebar-menu-history-label =
     .label = Geschiedenis
 sidebar-menu-synced-tabs-label =
     .label = Tabbladen van andere apparaten
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Open tabbladen
 sidebar-menu-bookmarks-label =
     .label = Bladwijzers
 sidebar-menu-customize-label =
@@ -187,6 +195,10 @@ sidebar-menu-history-header =
     .heading = Geschiedenis
 sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Open tabbladen
 sidebar-menu-cpm-header =
     .heading = Wachtwoorden
 sidebar-menu-bookmarks-header =
@@ -206,6 +218,9 @@ sidebar-bookmarks-folder-mobile = Mobiel-bladwijzers
 sidebar-customize-title = Zijbalk aanpassen
 sidebar-history-title = Geschiedenis
 sidebar-syncedtabs-title = Tabbladen van andere apparaten
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Open tabbladen
 
 ## Context for closing synced tabs when hovering over the items
 
