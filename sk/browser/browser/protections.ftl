@@ -267,3 +267,7 @@ privacy-metrics-empty = Tento týždeň neboli zablokované žiadne sledovacie p
 privacy-metrics-loading = Načítavajú sa štatistiky ochrany…
 privacy-metrics-error = Nepodarilo sa načítať štatistiky ochrany.
 privacy-metrics-private-window = Prehliadač { -brand-short-name } naďalej blokuje sledovacie prvky v súkromných oknách, ale neukladá si informácie o tom, čo bolo zablokované.
+
+## VPN promo card and banner
+
+protections-vpn-title = Preneste ochranu súkromia za hranice prehliadača

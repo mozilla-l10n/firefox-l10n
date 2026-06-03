@@ -272,5 +272,10 @@ places-search-downloads =
 
 places-locked-prompt = Systém záložiek a histórie nebude funkčný, pretože jeden zo súborov prehliadača { -brand-short-name } je používaný inou aplikáciou. Tento problém môžu spôsobovať niektoré bezpečnostné aplikácie.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Zdieľať priečinok
+    .badge = Nové
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Zdieľať priečinok

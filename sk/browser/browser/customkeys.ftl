@@ -37,6 +37,15 @@ customkeys-nav-home = Domov
 customkeys-nav-reload = Obnoviť
 customkeys-nav-reload-skip-cache = Obnoviť (Prepísať vyrovnávaciu pamäť)
 customkeys-nav-stop = Zastaviť
+customkeys-nav-select-tab-1 = Prejsť na kartu 1
+customkeys-nav-select-tab-2 = Prejsť na kartu 2
+customkeys-nav-select-tab-3 = Prejsť na kartu 3
+customkeys-nav-select-tab-4 = Prejsť na kartu 4
+customkeys-nav-select-tab-5 = Prejsť na kartu 5
+customkeys-nav-select-tab-6 = Prejsť na kartu 6
+customkeys-nav-select-tab-7 = Prejsť na kartu 7
+customkeys-nav-select-tab-8 = Prejsť na kartu 8
+customkeys-nav-select-last-tab = Prejsť na poslednú kartu
 customkeys-caution-message = Táto funkcia je experimentálna a nemusí fungovať podľa očakávaní.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Neplatný

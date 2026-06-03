@@ -27,6 +27,8 @@ content-sharing-modal-sign-in-2 =
     .label = Logg inn for å dele
 content-sharing-modal-title-2 = Del desse sidene med kven som helst
 content-sharing-modal-title-signed-in = Lenkene dine er klare for å delast
+content-sharing-modal-description-2 = Logg inn for å oppretta ei side med lenker som er enkle å dele. Ho kan ikkje redigerast eller slettast og går ut etter 7 dagar.
+content-sharing-modal-description-signed-in = Vi har laga ei side som er enkel å dele med lenkene dine. Ho kan ikkje redigerast eller slettast og går ut etter 7 dagar.
 content-sharing-modal-policy = Ved å dele godtek du <a data-l10n-name="aup-link">retningslinjene våre for akseptabel bruk</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.

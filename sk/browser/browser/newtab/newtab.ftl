@@ -948,6 +948,18 @@ newtab-sports-widget-back-button =
 newtab-sports-widget-done-button =
     .label = Hotovo
 newtab-sports-widget-group-stage = Skupinová fáza
+newtab-sports-widget-group-a = Skupina A
+newtab-sports-widget-group-b = Skupina B
+newtab-sports-widget-group-c = Skupina C
+newtab-sports-widget-group-d = Skupina D
+newtab-sports-widget-group-e = Skupina E
+newtab-sports-widget-group-f = Skupina F
+newtab-sports-widget-group-g = Skupina G
+newtab-sports-widget-group-h = Skupina H
+newtab-sports-widget-group-i = Skupina I
+newtab-sports-widget-group-j = Skupina J
+newtab-sports-widget-group-k = Skupina K
+newtab-sports-widget-group-l = Skupina L
 newtab-sports-widget-round-32 = Najlepších 32
 newtab-sports-widget-round-16 = Najlepších 16
 newtab-sports-widget-quarter-finals = Štvrťfinále
@@ -985,6 +997,33 @@ newtab-sports-widget-third-place = Tretie miesto
 newtab-sports-widget-runner-up = Druhé miesto
 newtab-sports-widget-champions = Víťaz
 newtab-sports-widget-world-cup-champions = Majstrovstvá sveta vo futbale 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Koniec zápasu
+newtab-sports-widget-match-halftime = Polčas
+newtab-sports-widget-match-extra-time = Predĺženie
+newtab-sports-widget-match-penalties = Penalty
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosna a Hercegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Pobrežie Slonoviny
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Kongo
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglicko
+newtab-sports-widget-team-name-label-sco =
+    .label = Škótsko
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Začnite Majstrovstvá sveta vo futbale s novými tapetami
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1046,6 +1085,19 @@ newtab-clock-widget-button-save = Uložiť
 newtab-clock-widget-button-remove-clock =
     .title = Odstrániť hodiny
     .aria-label = Odstrániť hodiny
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, prezývka: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Pridať hodiny
 newtab-clock-widget-edit-clock-form =

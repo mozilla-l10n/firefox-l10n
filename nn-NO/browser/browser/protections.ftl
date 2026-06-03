@@ -246,6 +246,8 @@ privacy-metrics-private-window = { -brand-short-name } held fram med å blokkere
 
 ## VPN promo card and banner
 
+protections-vpn-title = Ta personvernsikringa vidare enn nettlesaren
+protections-vpn-header-content = Vern heile eininga di med { -mozilla-vpn-brand-name }. Eitt trykk krypterer all trafikk og skjuler posisjonen din.
 protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonnerer
 protections-vpn-banner-header = Vern som strekkjer seg lenger enn nettlesaren
