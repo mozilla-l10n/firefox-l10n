@@ -274,4 +274,3 @@ places-share-folder2 =
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Condividi cartella
-

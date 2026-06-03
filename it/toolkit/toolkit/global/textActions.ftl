@@ -91,4 +91,3 @@ text-action-remove-all-highlights =
 profile-window-menu-edit =
     .label = Modifica
     .accesskey = M
-

@@ -1723,4 +1723,3 @@ reduced-protection-infobar-reload-button = Ricarica
     .accesskey = R
 reduced-protection-infobar-never-show-button = Non mostrare di nuovo
     .accesskey = N
-

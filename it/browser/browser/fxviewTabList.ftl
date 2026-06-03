@@ -89,4 +89,3 @@ fxviewtabrow-send-to-mobile-verify-account = Verifica il tuo account
 
 fxviewtabrow-send-to-mobile-sign-in = Accedi per inviare schede
 fxviewtabrow-send-to-mobile-turn-on-sync = Attiva la sincronizzazione per inviare schede
-

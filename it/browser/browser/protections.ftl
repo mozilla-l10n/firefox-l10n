@@ -245,4 +245,3 @@ protections-vpn-header-content-subscribed = Con { -mozilla-vpn-brand-name } tutt
 protections-vpn-banner-header = Protezione che va oltre il browser
 protections-vpn-banner-content = Prova { -mozilla-vpn-brand-name } senza rischi e scopri perché, secondo TechRadar, “la velocità, la semplicità e il prezzo mensile contenuto la rendono un prodotto da provare.”
 protections-vpn-banner-link = Ottieni { -mozilla-vpn-brand-name }
-
