@@ -893,6 +893,8 @@ newtab-daily-briefing-card-timestamp = Aktualizováno před { $minutes } min.
 newtab-widget-message-title = Soustřeďte se díky seznamům a vestavěnému časovači
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od rychlých připomínek po každodenní úkoly, od soustředění po přestávky na protažení - plňte úkoly včas.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Jedno místo na soustředění, předpověď počasí a další
 newtab-widget-message-focus-forecasts-body =
     { -brand-product-name.case-status ->
         [with-cases] Udržte si plynulý průběh dne díky widgetům { -brand-product-name(case: "gen") }. Podívejte se na předpověď počasí, soustřeďte se na práci nebo sledujte čas v různých částech světa.
