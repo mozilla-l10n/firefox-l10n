@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Ako obnoviť:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Otvorte ponuku aplikácie ☰ a prejdite do časti Nastavenia > Synchronizácia
+backup-file-moz-browser-restore-step-2-1 = Kliknite na “Obnoviť údaje” a vyberte tento súbor
 backup-file-moz-browser-restore-step-2 = Kliknite na “Vybrať súbor zálohy” a vyberte tento súbor
 backup-file-moz-browser-restore-step-3 = Reštartujte { -brand-short-name(case: "acc") } po zobrazení výzvy
 backup-file-other-browser-restore-step-1 = Stiahnite a nainštalujte si { -brand-short-name(case: "acc") }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Stiahnuť
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Spustite { -brand-short-name(case: "acc") }, otvorte ponuku aplikácie ☰ a prejdite do časti Nastavenia > Synchronizácia
+backup-file-other-browser-restore-step-3-1 = Kliknite na “Obnoviť údaje” a vyberte tento súbor
 backup-file-other-browser-restore-step-3 = Kliknite na “Vybrať súbor zálohy” a vyberte tento súbor
 backup-file-other-browser-restore-step-4 = Reštartujte { -brand-short-name(case: "acc") } po zobrazení výzvy
 

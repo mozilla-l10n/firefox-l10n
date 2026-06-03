@@ -215,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
     .message = Prehliadajte web s extra ochranou skrytím svojej polohy. Získajte { $maxUsage } GB bezplatných VPN dát na každý mesiac.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
+    .message = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy.
 ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

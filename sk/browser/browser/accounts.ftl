@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Pripojiť ďalšie zariadenie…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Účet nie je overený
+account-send-tab-to-device-verify2 = Overiť účet
 account-send-tab-to-device-verify = Overte svoj účet…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.

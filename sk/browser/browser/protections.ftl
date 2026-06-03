@@ -272,3 +272,6 @@ privacy-metrics-private-window = Prehliadač { -brand-short-name } naďalej blok
 
 protections-vpn-title = Preneste ochranu súkromia za hranice prehliadača
 protections-get-vpn-link = Získajte { -mozilla-vpn-brand-name }
+protections-vpn-banner-header = Ochrana, ktorá presahuje rámec prehliadača
+protections-vpn-banner-content = Vyskúšajte { -mozilla-vpn-brand-name } bez rizika a presvedčte sa, prečo TechRadar hovorí, že „jej rýchlosť, jednoduchosť a nízka mesačná cena ju robia užitočnou.“
+protections-vpn-banner-link = Získajte { -mozilla-vpn-brand-name }
