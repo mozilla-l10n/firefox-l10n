@@ -853,7 +853,7 @@ newtab-daily-briefing-card-timestamp = { $minutes } 分钟前更新
 newtab-widget-message-title = 借助清单和内置计时器，聚焦重点、保持专注。
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 从快捷提醒到日常待办，从专注时段到放松片刻，既能帮您管理任务，又可助您把握时间。
-newtab-widget-message-focus-forecasts-body = 借助 { -brand-product-name } 小组件，顺畅完成每日工作。查看天气预报、记录任务、一览世界各地时间，尽在一处。
+newtab-widget-message-focus-forecasts-body = 借助 { -brand-product-name } 小组件，顺畅完成每日工作。查看天气预报、记录任务、掌握世界各地时间，尽在一处。
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
