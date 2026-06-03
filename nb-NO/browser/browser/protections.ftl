@@ -246,4 +246,6 @@ protections-vpn-title = Få ekstra personvernbeskyttelse utover nettleseren
 protections-vpn-header-content = Beskytt hele enheten din med { -mozilla-vpn-brand-name }. Ett trykk krypterer all trafikk og skjuler posisjonen din.
 protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonnerer
+protections-vpn-banner-header = Beskyttelse også utenfor nettleseren
+protections-vpn-banner-content = Prøv { -mozilla-vpn-brand-name } risikofritt, og se hvorfor TechRadar sier at «hastigheten, enkelheten og den lave månedsprisen gjør det verdt å ta en titt».
 protections-vpn-banner-link = Få { -mozilla-vpn-brand-name }

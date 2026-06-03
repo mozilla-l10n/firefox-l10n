@@ -18,6 +18,7 @@ customkeys-file-focus-search = Fokuser på søkefeltet
 customkeys-history-reopen-tab = Gjenåpne sist lukkede fane
 customkeys-history-reopen-window = Gjenåpne sist lukkede vindu
 customkeys-sidebar-toggle = Slå av/på sidestolpe
+customkeys-view-bookmarks-toolbar = Vis/skjul bokmerkeverktøylinjen
 customkeys-view-picture-in-picture = Bilde-i-bilde
 customkeys-dev-tools = Verktøy for webutviklere
 customkeys-dev-inspector = DOM and Style Inspector

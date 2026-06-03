@@ -30,6 +30,9 @@ content-sharing-modal-title-signed-in = Lenkene dine er klare for å deles
 content-sharing-modal-description-2 = Logg inn for å opprette en side med lenker som er enkel å dele. Den kan ikke redigeres eller slettes og utløper etter 7 dager.
 content-sharing-modal-description-signed-in = Vi har laget en side som er enkel å dele med lenkene dine. Den kan ikke redigeres eller slettes og utløper etter 7 dager.
 content-sharing-modal-policy = Ved å dele godtar du <a data-l10n-name="aup-link">retningslinjene våre for akseptabel bruk</a>
+content-sharing-modal-no-shareable-links =
+    .heading = Ingen delbare lenker inkludert
+    .message = Bare lenker til nettinnhold kan deles.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =
@@ -40,3 +43,6 @@ content-sharing-modal-too-many-pages =
         }
     .message = Prøv igjen etter at en av sidene dine har utløpt.
 content-sharing-modal-some-invalid-links = Noen lenker kan ikke deles.
+content-sharing-modal-generic-error-2 =
+    .heading = Noe gikk galt
+    .message = Vi kunne ikke opprette den delte siden din denne gangen. Prøv igjen senere.
