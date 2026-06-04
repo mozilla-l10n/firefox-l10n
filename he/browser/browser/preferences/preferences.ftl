@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = תוכן { -firefox-home-brand-name }
 home-prefs-content-description2 = בחירת התוכן שיוצג ב{ -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = הסמל של { -brand-short-name }
 home-prefs-search-header =
     .label = חיפוש ברשת
 home-prefs-search-header2 =
