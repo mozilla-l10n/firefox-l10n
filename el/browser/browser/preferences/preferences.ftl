@@ -1057,6 +1057,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Συντομεύσεις
 home-prefs-shortcuts-description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
+home-prefs-shortcuts-select =
+    .aria-label = Συντομεύσεις
 home-prefs-shortcuts-by-option-sponsored =
     .label = Χορηγούμενες συντομεύσεις
 home-prefs-content-header =
@@ -1095,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Πρόσφατη δραστηριότητα
 home-prefs-recent-activity-description = Μια συλλογή πρόσφατων ιστοτόπων και περιεχομένου
+home-prefs-recent-activity-select =
+    .aria-label = Πρόσφατη δραστηριότητα
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
