@@ -7,6 +7,14 @@ about-policies-title = Polisi Syarikat
 active-policies-tab = Aktif
 errors-tab = Ralat
 documentation-tab = Dokumentasi
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktif
+errors-tab-title =
+    .title = Ralat
+documentation-tab-title =
+    .title = Dokumentasi
 policy-name = Nama Polisi
 policy-value = Nilai Polisi
 policy-errors = Ralat Polisi
