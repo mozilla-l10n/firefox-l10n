@@ -7,6 +7,12 @@ about-policies-title = நிறுவன கொள்கைகள்
 active-policies-tab = செயலில்
 errors-tab = பிழை
 documentation-tab = ஆவணமாக்கம்
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = செயலில்
+errors-tab-title =
+    .title = பிழை
 no-specified-policies-message = நிறுவன கொள்கைச் சேவை செயலில் உள்ளது, ஆனால் கொள்கைகள் எதுவும் செயல்படுத்தப்படவில்லை.
 inactive-message = நிறுவன கொள்கை சேவை செயலில் இல்லை.
 policy-name = கொள்கை பெயர்
