@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } tartalom
 home-prefs-content-description2 = Válassza ki milyen tartalmat szeretne a { -firefox-home-brand-name } képernyőn.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logó
 home-prefs-search-header =
     .label = Webes keresés
 home-prefs-search-header2 =
