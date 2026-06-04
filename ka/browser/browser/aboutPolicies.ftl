@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = მოქმედი
 errors-tab = შეცდომები
 documentation-tab = ცნობარი
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = მოქმედი
+errors-tab-title =
+    .title = შეცდომები
+documentation-tab-title =
+    .title = ცნობარი
 no-specified-policies-message = დაწესებულების დებულებების მომსახურება მოქმედია, თუმცა ჯერ არცერთი დებულებაა არაა ჩართული.
 inactive-message = დაწესებულების დებულებების მომსახურება უმოქმედოა.
 policy-name = დებულების სახელი
