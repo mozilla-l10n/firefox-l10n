@@ -1063,6 +1063,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Zwězanja
 home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
+home-prefs-shortcuts-select =
+    .aria-label = Zwězanja
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwězanja
 home-prefs-content-header =
@@ -1101,6 +1103,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nejnowša aktiwita
 home-prefs-recent-activity-description = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
+home-prefs-recent-activity-select =
+    .aria-label = Nejnowša aktiwita
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
