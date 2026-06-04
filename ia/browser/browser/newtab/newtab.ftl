@@ -1053,6 +1053,17 @@ newtab-sports-widget-match-halftime = Intervallo
 newtab-sports-widget-match-extra-time = Prorogation
 newtab-sports-widget-match-penalties = Penalties
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Previe
+    .title = Previe
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Sequente
+    .title = Sequente
+
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:

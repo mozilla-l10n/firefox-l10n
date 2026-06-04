@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Problem mit Website melden
 report-broken-site-panel-intro-text = Ihr Bericht hilft uns, Probleme mit { -brand-product-name } zu verstehen und zu beheben, um ihn für alle zu verbessern.
 report-broken-site-panel-learn-more-link = Weitere Informationen
+report-broken-site-panel-url-label = URL der defekten Website
 report-broken-site-panel-reason-intro-text = Was funktioniert nicht?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Website lädt nicht

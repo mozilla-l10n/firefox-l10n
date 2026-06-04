@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Lesezeichen verwalten
 quickactions-cmd-bookmarks = Lesezeichen
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Neueste Chronik löschen
+quickactions-cmd-clearrecenthistory2 = Cookies, Cookies löschen, Cache, Cache löschen, Surf-Daten, Surf-Daten löschen, Chronik, Neueste Chronik löschen
 quickactions-cmd-clearrecenthistory = neueste Chronik löschen, Chronik
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Chronik löschen

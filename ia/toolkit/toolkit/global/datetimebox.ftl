@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Agenda
+datetime-time =
+    .aria-label = Tempore

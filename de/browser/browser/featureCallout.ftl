@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Weiter
 link-preview-onboarding-callout-title = Neu: Anklicken und halten, um Links in der Vorschau anzuzeigen
 link-preview-onboarding-callout-description = Sehen Sie sich eine kurze Beschreibung, die Lesezeit und mehr an, um zu entscheiden, ob ein Link den Klick wert ist. Auch verfügbar mit Rechtsklick.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Schaffen Sie Ordnung mit Tab-Gruppen
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Gruppieren Sie Ihre Tabs nach Aufgabe oder Thema. Fügen Sie nach und nach weitere hinzu.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Eine Tab-Gruppe erstellen
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
