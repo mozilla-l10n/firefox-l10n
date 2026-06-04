@@ -1038,6 +1038,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name }內容
 home-prefs-content-description2 = 選擇要在您的 { -firefox-home-brand-name }畫面顯示哪些內容。
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } 圖示
 home-prefs-search-header =
     .label = 網頁搜尋
 home-prefs-search-header2 =
