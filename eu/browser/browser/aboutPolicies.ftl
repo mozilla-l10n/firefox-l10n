@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktibo
 errors-tab = Erroreak
 documentation-tab = Dokumentazioa
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktibo
+errors-tab-title =
+    .title = Erroreak
+documentation-tab-title =
+    .title = Dokumentazioa
 no-specified-policies-message = Enpresa-politiken zerbitzua aktibo dago baina ez dago gaitutako politikarik.
 inactive-message = Enpresa-politiken zerbitzua inaktibo dago.
 policy-name = Politikaren izena
