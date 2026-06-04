@@ -7,6 +7,14 @@ about-policies-title = سیاسەتی ئابوری
 active-policies-tab = چالاکە
 errors-tab = هەڵە
 documentation-tab = بەڵگەنامەیی
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = چالاکە
+errors-tab-title =
+    .title = هەڵە
+documentation-tab-title =
+    .title = بەڵگەنامەیی
 no-specified-policies-message = خزمەتگوزاری سیاسەتی ئابوری چالاکە بەڵام هیچ سیاسەتێک چالاک نیە.
 inactive-message = خزمەتگوزاری سیاسەتی ئابوری چالاک نیە.
 policy-name = ناوی سیاسەت
