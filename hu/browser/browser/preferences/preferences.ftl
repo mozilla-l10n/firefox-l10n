@@ -1057,6 +1057,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Gyorskeresők
 home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
+home-prefs-shortcuts-select =
+    .aria-label = Gyorskeresők
 home-prefs-shortcuts-by-option-sponsored =
     .label = Szponzorált gyorskeresők
 home-prefs-content-header =
@@ -1095,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Legutóbbi tevékenység
 home-prefs-recent-activity-description = Válogatás a legutóbbi webhelyekből és tartalmakból
+home-prefs-recent-activity-select =
+    .aria-label = Legutóbbi tevékenység
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
