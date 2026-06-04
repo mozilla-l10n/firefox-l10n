@@ -9,6 +9,12 @@ aboutpolicies-page-heading =
 active-policies-tab = 활성화
 errors-tab = 오류
 documentation-tab = 문서
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = 활성화
+errors-tab-title =
+    .title = 오류
 documentation-tab-title =
     .title = 문서
 no-specified-policies-message = 엔터프라이즈 정책 서비스가 활성화되어 있지만 활성화된 정책이 없습니다.
