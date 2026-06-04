@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Contenido de { -firefox-home-brand-name }
 home-prefs-content-description2 = Elige que contenido quieres en tu pantalla de { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Logotipo de { -brand-short-name }
 home-prefs-search-header =
     .label = Búsqueda web
 home-prefs-search-header2 =
