@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Rapporter problem med ein nettstad
 report-broken-site-panel-intro-text = Rapporten din hjelper oss med å forstå og fikse problem i { -brand-product-name } for å gjere det betre for alle.
 report-broken-site-panel-learn-more-link = Les meir
+report-broken-site-panel-url-label = Nettadresse til nettstaden som ikkje fungerer
 report-broken-site-panel-reason-intro-text = Kva fungerer ikkje?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Nettstaden lastar seg ikkje inn
