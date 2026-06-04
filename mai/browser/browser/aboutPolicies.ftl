@@ -7,6 +7,14 @@ about-policies-title = एंटरप्राइज़ पॉलिसी
 active-policies-tab = सक्रिय करू
 errors-tab = त्रुटि
 documentation-tab = दस्ताबेजीकरण
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = सक्रिय करू
+errors-tab-title =
+    .title = त्रुटि
+documentation-tab-title =
+    .title = दस्ताबेजीकरण
 no-specified-policies-message = एंटरप्राइज़ पॉलिसी सेवा सक्रिय अछि, किन्तु एखन कोनो नीति सक्रिय नहि कएल गेल अछि.
 inactive-message = एंटरप्राइज़ पॉलिसी सेवा सक्रिय नहि अछि.
 policy-name = पॉलिसी केर नाम
