@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Attiva
 errors-tab = Errura
 documentation-tab = Ducumentazzioni
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Attiva
+errors-tab-title =
+    .title = Errura
+documentation-tab-title =
+    .title = Ducumentazzioni
 no-specified-policies-message = U sirbizzu Pulìtichi di mprisa è attivu ma nun cci su’ pulìtichi abbilitati.
 inactive-message = U sirbizzu Pulìtichi di mprisa nun è attivu.
 policy-name = Nomu dâ pulìtica
