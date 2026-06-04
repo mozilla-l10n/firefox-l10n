@@ -799,6 +799,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
 home-prefs-content-description2 = Tscherna il cuntegn che ti vuls vesair sin la { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Logo da { -brand-short-name }
 home-prefs-search-header =
     .label = Tschertga web
 home-prefs-search-header2 =
