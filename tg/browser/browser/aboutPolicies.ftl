@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Фаъол
 errors-tab = Хатоҳо
 documentation-tab = Ҳуҷҷатҳо
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Фаъол
+errors-tab-title =
+    .title = Хатоҳо
+documentation-tab-title =
+    .title = Ҳуҷҷатҳо
 no-specified-policies-message = Хидмати сиёсати корхона фаъол аст, аммо ягон қоида фаъол карда нашудааст.
 inactive-message = Хидмати сиёсати корхона ғайрифаъол аст.
 policy-name = Номи сиёсат
