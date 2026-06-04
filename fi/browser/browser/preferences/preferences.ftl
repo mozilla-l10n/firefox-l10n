@@ -1044,6 +1044,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name }n sisältö
 home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }lle.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }in logo
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-search-header2 =
