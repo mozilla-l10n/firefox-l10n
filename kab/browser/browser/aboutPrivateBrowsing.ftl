@@ -71,7 +71,7 @@ about-private-browsing-cookie-banners-promo-button = Senqes iɣarracen n yinagan
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } yecɣel d yissutar n yinagan n tuqqna deg ubdil-ik
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ur ttaǧǧa ara akk later ɣef yibenk-a
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } itekkes inagan n tuqqna, azray, akked yisefka n yismal web mi ara tmedleḍ akk isfuyla usligen.

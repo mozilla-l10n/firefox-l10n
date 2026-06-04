@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Leig le { -brand-short-nam
 about-private-browsing-cookie-banners-promo-heading = Dèiligidh { -brand-short-name } ri brathan nam briosgaidean dhut
 about-private-browsing-cookie-banners-promo-body = Diùltaidh sinn iomadh brath mu bhriosgaidean a-nis airson ’s gun dèanar nas lugha de thracadh ort agus airson ’s nach fhaic thu mìle ’s a h-aon bhrath mu an dèidhinn.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Na fàg lorg sam bith air an uidheam seo
 about-private-browsing-felt-privacy-v1-info-body = Sguabaidh { -brand-short-name } às na briosgaidean, an eachdraidh is dàta nan làraichean nuair a dhùineas tu an uinneag phrìobhaideach mu dheireadh.

@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Utzi { -brand-short-name }
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } cookie iragarki-bandez arduratzen da
 about-private-browsing-cookie-banners-promo-body = Orain hainbat cookie iragarki-banda automatikoki baztertzen ditugu jarraipen gutxiago izan eta distraziorik gabeko nabigaziora itzul zaitezen.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ez utzi arrastorik gailu honetan
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }(e)k zure cookieak, historia eta guneetako datuak ezabatzen ditu leiho pribatu guztiak ixten dituzunean.

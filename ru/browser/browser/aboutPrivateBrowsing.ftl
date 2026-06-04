@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Разрешите { -bran
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } позаботится об уведомлениях о куки за вас
 about-private-browsing-cookie-banners-promo-body = Теперь мы автоматически отказываемся от многих уведомлениях о куки, чтобы вас меньше отслеживали и вы могли вернуться к просмотру, не отвлекаясь.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Не оставлять следов на этом устройстве
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } удаляет ваши куки, историю и данные сайтов, когда вы закрываете все свои приватные окна.

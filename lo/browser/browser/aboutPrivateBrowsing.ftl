@@ -68,7 +68,7 @@ about-private-browsing-cookie-banners-promo-message = ໃຫ້ { -brand-short-n
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ເບິ່ງແຍງປ້າຍໂຄສະນາຄຸກກີໃຫ້ທ່ານ
 about-private-browsing-cookie-banners-promo-body = ດຽວນີ້ພວກເຮົາປະຕິເສດປ້າຍໂຄສະນາຄຸກກີຫຼາຍອັນໂດຍອັດຕະໂນມັດ ເພື່ອໃຫ້ທ່ານສາມາດຕິດຕາມໄດ້ໜ້ອຍລົງ ແລະ ກັບຄືນໄປຫາການຊອກຫາແບບບໍ່ມີສິ່ງລົບກວນ.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = ບໍ່​ໃຫ້​ມີ​ຮ່ອງ​ຮອຍ​ຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ນີ້​
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } ຈະລຶບຄຸກກີ້, ປະຫວັດ, ແລະ ຂໍ້ມູນເວັບໄຊຂອງທ່ານ ເມື່ອທ່ານປິດໜ້າຕ່າງສ່ວນຕົວທັງໝົດຂອງທ່ານ.

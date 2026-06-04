@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Dajće { -brand-short-name
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }  so za was wo plackowe chorhoje stara
 about-private-browsing-cookie-banners-promo-body = Nětko wjele plackowych chorhojow awtomatisce wotpokazujemy, zo bychu was mjenje slědował a zo byšće so k přehladowanju bjez wotwjedźenja wróćił.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Na tutym graće žane slědy njezawostajić
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } waše placki, historiju a sydłowe daty zhaša, hdyž wšě swoje priwatne wokna začinjeće.

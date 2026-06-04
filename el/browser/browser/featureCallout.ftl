@@ -254,6 +254,6 @@ actions-callout-title = Ολοκληρώστε κοινές εργασίες ή 
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Δοκιμάστε να πληκτρολογήστε «εκτύπωση» για να εκτυπώσετε μια σελίδα ή «απαλοιφή» για να διαγράψετε το ιστορικό σας.

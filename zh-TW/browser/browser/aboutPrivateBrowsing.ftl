@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = 讓 { -brand-short-name } 
 about-private-browsing-cookie-banners-promo-heading = 讓 { -brand-short-name } 幫您處理 Cookie 橫幅
 about-private-browsing-cookie-banners-promo-body = 現在起，我們會自動拒絕許多 Cookie 橫幅，讓您減少被追蹤的機會，上網不用再分心。
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = 在此裝置不留下任何痕跡
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } 會在您關閉所有隱私瀏覽視窗後，清除您的 Cookie、瀏覽紀錄、網站資料。

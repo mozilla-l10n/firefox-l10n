@@ -32,7 +32,7 @@ datetime-millisecond =
 datetime-dayperiod =
     .aria-label = Tifawt/Tameddit
 
-## Calendar button for input type=date
+## Date/time picker buttons
 
 
 # This label is used by screenreaders and other assistive technology

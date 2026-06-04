@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Lejojeni { -brand-short-na
 about-private-browsing-cookie-banners-promo-heading = Me banderola cookie-sh merret { -brand-short-name }-i për ju
 about-private-browsing-cookie-banners-promo-body = Tani ne hedhim poshtë automatikisht mjaft banderola cookie-sh, që t’ju ndjekin më pak dhe t’i riktheheni shfletimit pa shpërqendrim.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Mos lini gjurmë në këtë pajisje
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } fshin cookie-t, historikun dhe të dhëna sajti tuajat, kur mbyllni krejt dritaret tuaja private.

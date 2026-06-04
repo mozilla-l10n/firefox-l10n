@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Дозвольте { -bran
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } оброблятиме запити про файли cookie для вас
 about-private-browsing-cookie-banners-promo-body = Тепер ми автоматично відхиляємо багато банерів про файли cookie, щоб зменшити стеження за вами і дати змогу не відволікатися під час користування інтернетом.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Не залишайте слідів на цьому пристрої
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } видаляє ваші файли cookie, історію та дані сайтів, коли ви закриваєте всі приватні вікна.

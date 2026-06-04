@@ -254,6 +254,6 @@ actions-callout-title = Finalizează sarcini obișnuite sau accesează setările
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Încearcă să tastezi o acțiune precum „printează” ca să scoți la imprimantă o pagină sau „șterge” ca să ștergi istoricul.

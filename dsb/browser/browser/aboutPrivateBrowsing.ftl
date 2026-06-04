@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Dajśo { -brand-short-name
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se za was wó cookiejowe chórgoje stara
 about-private-browsing-cookie-banners-promo-body = Něnto wjele cookiejowych chórgojow awtomatiski wótpokazujomy, aby was mjenjej slědował a aby wy se wrośił k pśeglědowanjeju bźez wótchylenja.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Na toś tom rěźe žedne slědy njezawóstajiś
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } waše cookieje, historiju a sedłowe daty wulašujo, gaž wšykne swóje priwatne wokna zacynjaśo.

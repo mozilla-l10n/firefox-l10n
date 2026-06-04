@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = ให้ { -brand-short-n
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } จะดูแลเรื่องแบนเนอร์คุกกี้ให้คุณ
 about-private-browsing-cookie-banners-promo-body = ตอนนี้เราปฏิเสธแบนเนอร์คุกกี้จำนวนมากโดยอัตโนมัติเพื่อให้คุณถูกติดตามได้น้อยลงและกลับไปท่องเว็บโดยปราศจากสิ่งรบกวนได้
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = ไม่ทิ้งร่องรอยบนอุปกรณ์นี้
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } จะลบคุกกี้ ประวัติ และข้อมูลไซต์ของคุณเมื่อคุณปิดหน้าต่างส่วนตัวของคุณทั้งหมด

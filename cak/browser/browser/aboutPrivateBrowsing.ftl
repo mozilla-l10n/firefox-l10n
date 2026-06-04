@@ -69,7 +69,7 @@ about-private-browsing-cookie-banners-promo-header = Xek'is ri taq kib'aner koki
 about-private-browsing-cookie-banners-promo-button = Kech'utinär ri taq kib'aner koki
 about-private-browsing-cookie-banners-promo-message = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Man taya' kan awetal pa re okisaxel re'
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } yeruyüj ri taq acookie, natab'äl chuqa' taq rutzij ruxaq k'amaya'l toq ye'atz'apij ronojel ri ichinan taq atzuwäch.

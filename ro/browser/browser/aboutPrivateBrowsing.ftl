@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Permite { -brand-short-nam
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se ocupă de bannerele despre cookie-uri pentru tine
 about-private-browsing-cookie-banners-promo-body = Vom refuza acum în mod automat bannerele despre cookie-uri, ca să fiți urmărit mai puțin și să aveți o navigare fără distrageri.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Nu lăsa urme pe acest dispozitiv
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } șterge cookie-urile, istoricul și datele site-urilor când închideți toate ferestrele private.

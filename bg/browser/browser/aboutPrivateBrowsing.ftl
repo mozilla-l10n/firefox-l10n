@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Нека { -brand-short-na
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } се грижи за банерите за бисквитки вместо вас
 about-private-browsing-cookie-banners-promo-body = Вече автоматично отказваме много от банерите за бисквитки, за да можете да бъдете проследяване по-малко и да разглеждате без да бъдете разсейвани от тях.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Без никакви следи на устройството
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } изтрива бисквитките, историята и данни от разглеждането, когато затворите всички поверителни прозорци.

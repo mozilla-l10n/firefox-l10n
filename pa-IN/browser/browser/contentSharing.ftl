@@ -26,3 +26,16 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in-2 =
     .label = ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 content-sharing-modal-title-2 = ਇਹ ਸਫ਼ੇ ਕਿਸੇ ਨਾਲ ਵੀ ਸਾਂਝੇ ਕਰੋ
+content-sharing-modal-title-signed-in = ਤੁਹਾਡੇ ਲਿੰਕ ਸਾਂਝੇ ਕਰਨ ਲਈ ਤਿਆਰ ਹਨ
+content-sharing-modal-policy = ਸਾਂਝਾ ਕਰਕੇ ਤੁਸੀਂ ਸਾਡੀ <a data-l10n-name="aup-link">ਮੰਨਣਯੋਗ ਵਰਤੋਂ ਪਾਲਸੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+       *[other] ਸਿਰਫ਼ { $count } ਲਿੰਕ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾਣਗੇ
+    }
+content-sharing-modal-some-invalid-links = ਕੁਝ ਲਿੰਕਾਂ ਨੂੰ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+content-sharing-modal-generic-error-2 =
+    .heading = ਕੁਝ ਗਲਤ ਵਾਪਰਿਆ ਹੈ
+    .message = ਅਸੀਂ ਇਸ ਵੇਲੇ ਤੁਹਾਡਾ ਸਾਂਝਾ ਕੀਤਾ ਸਫ਼ੇ ਨਹੀਂ ਬਣਾ ਸਕੇ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।

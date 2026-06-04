@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Permite a { -brand-short-n
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’incurat de is avisos de testimòngios pro tue
 about-private-browsing-cookie-banners-promo-body = Immoe refudamus in automàticu medas avisos de testimòngios, a manera chi ti sigant prus pagu e potzas navigare chena istorbu.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Non lasses rastros in custu dispositivu
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cantzellat testimòngios, cronologia e datos de is sitos cando serras totu is ventanas privadas.

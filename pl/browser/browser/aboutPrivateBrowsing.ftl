@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Pozwól { -brand-short-nam
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } zajmie się za Ciebie informacjami o ciasteczkach
 about-private-browsing-cookie-banners-promo-body = Teraz automatycznie odrzucamy wiele próśb o akceptację ciasteczek, dzięki czemu mniej Cię śledzą i możesz nie odrywać się od przeglądania.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Nie zostawiaj śladów na tym urządzeniu
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } usuwa Twoje ciasteczka, historię i dane witryn po zamknięciu wszystkich prywatnych okien.

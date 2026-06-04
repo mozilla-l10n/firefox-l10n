@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Låt { -brand-short-name }
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tar hand om kakbanners åt dig
 about-private-browsing-cookie-banners-promo-body = Vi vägrar nu automatiskt många kakbanners så att du spåras mindre och kan gå tillbaka till störningsfri surfning.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Lämna inga spår på den här enheten
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } raderar dina kakor, historik och webbplatsdata när du stänger alla dina privata fönster.

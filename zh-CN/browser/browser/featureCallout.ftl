@@ -254,6 +254,6 @@ actions-callout-title = 完成常用操作、进行基础设置
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = 键入操作名即可快速进行操作。例如，打印页面：“打印”/“print”，清除历史：“清除”/“clear”。

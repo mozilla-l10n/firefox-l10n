@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = { -brand-short-name } کو
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }تُہاݙے کِیتے کوکیز بینرز دی سن٘بھال کرین٘دے ہِن
 about-private-browsing-cookie-banners-promo-body = ہُݨ اَساں آپُوں آپ ٻہوں سارے کوکی بینرز کوں ہَٹَک ݙین٘دے ہِسے تاں جو تُہاݙی گَھٹ ڳویڑ کِیتی ون٘ڄ سڳیڄے اَتے اَڑان٘د کنوں پاک براؤزنگ اُتے وَل سڳو۔
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = اِیں آلے اُتّے کُئی نشانیاں نہ چھوڑو
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }تُہاݙی کوکیز، احوال، اَتے سائٹ دے ڈیٹا کوں مِٹا ݙین٘دا ہِے جہڑیلے تُساں آپݨیاں ساریاں نجی ونڈوز بند کر ݙین٘دے ہِیوے۔

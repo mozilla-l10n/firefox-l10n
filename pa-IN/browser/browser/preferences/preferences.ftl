@@ -51,6 +51,8 @@ pane-general-title = ਆਮ
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = ਘਰ
+pane-home-startup-title2 = ਮੁੱਖ-ਸਕਰੀਨ ਅਤੇ ਸ਼ੁਰੂਆਤ
+    .title = ਮੁੱਖ-ਸਕਰੀਨ ਅਤੇ ਸ਼ੁਰੂਆਤ
 pane-search-title2 = ਖੋਜ
     .title = ਖੋਜ
 pane-privacy-title3 = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
@@ -2596,6 +2598,8 @@ related-settings-accessibility-link =
     .label = ਜ਼ੂਮ ਅਤੇ ਫ਼ੋਂਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅਸੈਸਬਿਲੀਟ ਵਿੱਚ ਬਦਲੋ
 related-settings-home-link =
     .label = { -firefox-home-brand-name } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+related-settings-tabs-browsing-link =
+    .label = ਬਰਾਊਜ਼ਰ ਖਾਕੇ ਨੂੰ ਪਸੰਦੀਦਾ ਬਣਾਓ
 
 ## AI controls page
 
@@ -2754,8 +2758,16 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = ਕੂਕੀਜ਼
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = ਸਭ ਕੂਕੀਜ਼ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿਓ
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਨਿਖੇੜੋ
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = ਨਾ-ਖੋਲ੍ਹੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = ਸਭ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ(ਇਹ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦਾ ਹੈ)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = ਸਾਰੇ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ (ਵੈੱਬਸਾਈਟਾਂ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋਵੇਗਾ)
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = ਸਭ ਕੂਕੀਜ਼ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿਓ
 preferences-etp-custom-tracking-protection-enabled =

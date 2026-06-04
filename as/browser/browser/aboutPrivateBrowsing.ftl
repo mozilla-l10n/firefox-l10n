@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = { -brand-short-name }-ক 
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }-এ আপোনাৰ বাবে কুকীৰ বেনাৰবোৰৰ যত্ন লয়
 about-private-browsing-cookie-banners-promo-body = আমি এতিয়া স্বয়ংক্ৰিয়ভাৱে বহুতো কুকীৰ বেনাৰ নাকচ কৰি দিওঁ যাতে আপোনাক কমকৈ অনুসৰণ কৰা হওক আৰু আপুনি মনোযোগহীনতা-মুক্ত ব্ৰাউজিঙলৈ উভতি যাব পাৰে।
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = এই ডিভাইচত কোনো চিন-ছাব নেৰিব
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }-এ আপোনাৰ কুকীজ, ইতিহাস আৰু ছাইটৰ তথ্য মচি পেলায় যেতিয়া আপুনি আপোনাৰ সকলো ব্যক্তিগত ৱিণ্ড’ বন্ধ কৰে।

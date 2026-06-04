@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Let { -brand-short-name } 
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } takes care of cookie banners for you
 about-private-browsing-cookie-banners-promo-body = We now automatically refuse many cookie banners so you can get tracked less and go back to distraction-free browsing.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Leave no traces on this device
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } deletes your cookies, history, and site data when you close all your private windows.

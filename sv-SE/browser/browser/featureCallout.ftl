@@ -252,6 +252,6 @@ actions-callout-title = Utför vanliga uppgifter eller komma åt grundinställni
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prova att skriva en åtgärd som "skriv ut" för att skriva ut en sida eller "rensa" för att rensa historiken.

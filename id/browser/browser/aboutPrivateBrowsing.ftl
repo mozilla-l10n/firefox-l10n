@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Izinkan { -brand-short-nam
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } mengurus spanduk kuki untuk Anda
 about-private-browsing-cookie-banners-promo-body = Kini kami menolak banyak spanduk kuki secara otomatis agar Anda bisa lebih sedikit dilacak dan kembali ke penjelajahan bebas gangguan.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Jangan tinggalkan jejak di perangkat ini
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } menghapus kuki, riwayat, dan data situs ketika Anda menutup semua jendela pribadi.

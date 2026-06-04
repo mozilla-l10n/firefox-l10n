@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Lit { -brand-short-name } 
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } rekkenet foar jo ôf mei cookiebanners
 about-private-browsing-cookie-banners-promo-body = In protte cookiebanners wurde no automatysk wegere, sadat jo minder folge wurde kinne en werom kinne nei ôfliedingsfrij navigearje.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Lit gjin spoaren efter op dit apparaat
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } wisket jo cookies, skiednis en websitegegevens as jo al jo priveefinsters slute.

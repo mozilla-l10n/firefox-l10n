@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Hagyja, hogy a { -brand-sh
 about-private-browsing-cookie-banners-promo-heading = A { -brand-short-name } gondoskodik a sütibannerekről Ön helyett
 about-private-browsing-cookie-banners-promo-body = Mostantól számos sütibannert automatikusan elutasítunk, így kevesebbet nyomkövetést kap, és visszatérhet a figyelemelterelés nélküli böngészéshez.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ne hagyjon nyomot ezen az eszközön
 about-private-browsing-felt-privacy-v1-info-body = A { -brand-short-name } törli a sütiket, előzményeket és oldaladatokat, amikor bezárja az összes privát ablakot.

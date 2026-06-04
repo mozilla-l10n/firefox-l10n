@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Permet a { -brand-short-na
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } al viôt par te dai strissons pai cookies
 about-private-browsing-cookie-banners-promo-body = O refudìn in automatic tancj strissons pai cookies, cussì che tu vegnis spiât di mancul e tu podarâs tornâ a navigâ cence distrazions.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = No sta lassâ segns su chest dispositîf
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } al elimine i cookies, la cronologjie e i dâts dai sîts cuant che tu sieris ducj i barcons privâts.

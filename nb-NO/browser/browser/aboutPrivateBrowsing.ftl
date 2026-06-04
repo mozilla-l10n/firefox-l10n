@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = La { -brand-short-name } a
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tar seg av infokapselbannere for deg
 about-private-browsing-cookie-banners-promo-body = Vi nekter nå automatisk mange infokapselbannere, slik at du kan spores mindre og gå tilbake til distraksjonsfri surfing.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Etterlat ingen spor på denne enheten
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } sletter infokapsler, historikk og nettstedsdata når du lukker alle dine private vinduer.

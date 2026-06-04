@@ -61,7 +61,7 @@ about-private-browsing-pin-promo-title = Walang naka-save na cookie o kasaysayan
 
 about-private-browsing-cookie-banners-promo-button = Bawasan ang mga Cookie Banner
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Wag magiwan ng bakas sa device na ito
 about-private-browsing-felt-privacy-v1-info-link = Sino ang maaaring makakita ng aking aktibidad?

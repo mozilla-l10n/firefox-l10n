@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Deixe o { -brand-short-nam
 about-private-browsing-cookie-banners-promo-heading = O { -brand-short-name } se encarrega de avisos de cookies para você
 about-private-browsing-cookie-banners-promo-body = Agora recusamos automaticamente muitos avisos de cookies, para você ser menos rastreado e voltar a navegar sem distrações.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Não deixe rastros neste dispositivo
 about-private-browsing-felt-privacy-v1-info-body = O { -brand-short-name } exclui seus cookies, histórico e dados de sites quando você fecha todas as janelas privativas.

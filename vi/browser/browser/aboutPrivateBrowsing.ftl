@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Hãy để { -brand-short-
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tự động loại bỏ các biểu ngữ cookie cho bạn
 about-private-browsing-cookie-banners-promo-body = Giờ đây, chúng tôi tự động từ chối nhiều biểu ngữ cookie để bạn có thể ít bị theo dõi hơn và quay lại duyệt web mà không bị phân tâm.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Không để lại dấu vết trên thiết bị này
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } xóa cookie, lịch sử và dữ liệu trang web của bạn khi bạn đóng tất cả các cửa sổ riêng tư của mình.

@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Dopusti da { -brand-short-
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se brine o dijalozima kolačića umjesto tebe
 about-private-browsing-cookie-banners-promo-body = Sada automatski odbijamo mnoge dijaloge kolačića što smanjuje praćenje tvojih radnji na internetu i omogućuje pregledavanje bez ometanja.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ne ostavljaj tragove na ovom uređaju.
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } briše kolačiće, povijest i podatke web-stranica kada zatvoriš sve svoje privatne prozore.

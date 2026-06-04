@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Naj { -brand-short-name } 
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se ukvarja s piškotki namesto vas
 about-private-browsing-cookie-banners-promo-body = Številne pasice s piškotki zdaj samodejno zavrnemo, tako da vas razbremenimo sledilcev in vam omogočimo nemoteno brskanje.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ne pustite sledi na tej napravi
 about-private-browsing-felt-privacy-v1-info-body = Ko zaprete vsa zasebna okna, { -brand-short-name } izbriše piškotke, zgodovino in podatke o spletnih mestih.

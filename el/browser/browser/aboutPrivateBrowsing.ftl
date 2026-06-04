@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Επιτρέψτε στο 
 about-private-browsing-cookie-banners-promo-heading = Το { -brand-short-name } φροντίζει για εσάς τα μηνύματα για cookie
 about-private-browsing-cookie-banners-promo-body = Απορρίπτουμε πλέον αυτόματα πολλά μηνύματα για cookie, ώστε να σας παρακολουθούν λιγότερο και να περιηγείστε στο διαδίκτυο χωρίς περισπασμούς.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Περιηγηθείτε χωρίς να αφήνετε ίχνη σε αυτήν τη συσκευή
 about-private-browsing-felt-privacy-v1-info-body = Το { -brand-short-name } διαγράφει τα cookie, το ιστορικό και τα δεδομένα ιστοτόπων σας όταν κλείνετε όλα τα ιδιωτικά σας παράθυρα.

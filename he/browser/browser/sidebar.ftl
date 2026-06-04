@@ -7,6 +7,8 @@ menu-view-genai-chat =
 menu-view-contextual-password-manager =
     .label = ססמאות
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
 menu-view-open-tabs =
     .label = לשוניות פתוחות
 sidebar-options-menu-button =

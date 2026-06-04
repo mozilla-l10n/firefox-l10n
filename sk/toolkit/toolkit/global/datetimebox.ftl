@@ -32,7 +32,7 @@ datetime-millisecond =
 datetime-dayperiod =
     .aria-label = doobeda/poobede
 
-## Calendar button for input type=date
+## Date/time picker buttons
 
 
 # This label is used by screenreaders and other assistive technology

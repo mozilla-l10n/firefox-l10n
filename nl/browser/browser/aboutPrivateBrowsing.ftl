@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Laat { -brand-short-name }
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } rekent voor u af met cookiebanners
 about-private-browsing-cookie-banners-promo-body = Veel cookiebanners worden nu automatisch geweigerd, zodat u minder gevolgd kunt worden en terug kunt naar afleidingsvrij navigeren.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Laat geen sporen achter op dit apparaat
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } verwijdert uw cookies, geschiedenis en websitegegevens wanneer u al uw privévensters sluit.

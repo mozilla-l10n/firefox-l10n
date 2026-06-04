@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Nechajte { -brand-short-na
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } sa za vás postará o bannery k súborom cookie
 about-private-browsing-cookie-banners-promo-body = Teraz automaticky odmietame množstvo žiadostí o povolenie používania súborov cookie, aby ste mohli byť menej sledovaní a mohli sa vrátiť k prehliadaniu bez rozptyľovania.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Nezanechávajte na tomto zariadení žiadne stopy
 about-private-browsing-felt-privacy-v1-info-body = Keď zatvoríte všetky súkromné okná, { -brand-short-name } odstráni vaše súbory cookie, históriu prehliadania a údaje stránok.

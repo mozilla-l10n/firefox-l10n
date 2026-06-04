@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Lassen Sie { -brand-short-
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } kümmert sich für Sie um Cookie-Banner
 about-private-browsing-cookie-banners-promo-body = Viele Cookie-Banner lehnen wir jetzt automatisch ab, damit Sie weniger verfolgt werden und wieder ablenkungsfrei surfen können.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Auf diesem Gerät keine Spuren hinterlassen
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } löscht Ihre Cookies, Chronik und Website-Daten, wenn Sie alle Ihre privaten Fenster schließen.

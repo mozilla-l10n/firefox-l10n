@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = אפשר לתת ל־{ -bra
 about-private-browsing-cookie-banners-promo-heading = ‏{ -brand-short-name } מטפל בכרזות העוגיות עבורך
 about-private-browsing-cookie-banners-promo-body = אנו מסרבים כעת למגוון כרזות עוגיות אוטומטית כדי לצמצם את המעקב אחריך ולאפשר לך לשוב לגלישה נטולת הסחות דעת.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = לא להשאיר עקבות במכשיר זה
 about-private-browsing-felt-privacy-v1-info-body = ‏{ -brand-short-name } מוחק את העוגיות, ההיסטוריה ונתוני האתר שלך כאשר כל החלונות הפרטיים שלך נסגרים.

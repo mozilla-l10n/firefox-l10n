@@ -75,7 +75,7 @@ about-private-browsing-cookie-banners-promo-message = Permetre a { -brand-short-
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’ocupa dels cookies per vos
 about-private-browsing-cookie-banners-promo-body = D’ara enlà, refusam automaticament mantuna demanda de cookies per que vos pisten mens e vos permetre de navegar sens distraccion.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Daissatz pas cap de traça sus aqueste aparelh
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } suprimís los cookies, l’istoric e las donadas de sites quand tampatz totas las fenèstras privadas.

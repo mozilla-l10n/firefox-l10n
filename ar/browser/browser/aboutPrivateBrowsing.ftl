@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = اسمح لـ { -brand-sho
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } يتولى أمر لافتات ملفات تعريف الارتباط نيابةً عنك
 about-private-browsing-cookie-banners-promo-body = نحن الآن نرفض تلقائيًا العديد من لافتات ملفات تعريف الارتباط حتى تتمكن من تتبعك بشكل أقل والعودة إلى التصفح الخالي من التشتيت.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = لا تترك أي أثر على هذا الجهاز
 about-private-browsing-felt-privacy-v1-info-body = يحذف { -brand-short-name } الكعكات، و التأريخ، و بيانات الموقع عندما تغلق كل نوافذك الخاصة.

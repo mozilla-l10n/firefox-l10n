@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Gadael i { -brand-short-na
 about-private-browsing-cookie-banners-promo-heading = Mae { -brand-short-name } yn gofalu am faneri cwci drostoch chi
 about-private-browsing-cookie-banners-promo-body = Rydyn ni nawr yn gwrthod llawer o faneri cwci yn awtomatig er mwyn i chi brofi llai o dracio a gallu mynd nôl i bori di drafferth.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Peidio â gadael unrhyw olion ar y ddyfais hon
 about-private-browsing-felt-privacy-v1-info-body = Mae { -brand-short-name } yn dileu eich cwcis, hanes, a data gwefan pan fyddwch yn cau eich holl ffenestri preifat.

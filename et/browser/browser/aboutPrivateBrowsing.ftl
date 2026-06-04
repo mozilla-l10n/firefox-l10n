@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Lase { -brand-short-name }
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tegeleb küpsiste kohta käivate küsimustega sinu asemel
 about-private-browsing-cookie-banners-promo-body = Keeldume nüüd automaatselt paljudest küpsistest, et saaksid vähem jälitatud ja naasta häireteta veebilehitsemise juurde.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ära jäta sellesse seadmesse jälgi
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } kustutab küpsised, ajaloo ja saidiandmed, kui sulged kõik privaatsed aknad.

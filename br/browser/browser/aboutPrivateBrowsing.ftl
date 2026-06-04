@@ -72,7 +72,7 @@ about-private-browsing-cookie-banners-promo-message = Leuskel { -brand-short-nam
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } a ra war-dro ar goulennoù toupinoù evidoc'h.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Na lezel roud ebet war an trevnad-mañ
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } a skarzh ho toupinoù, ho roll istor ha roadennoù al lec'hiennoù pa serrit an holl brenestroù prevez.

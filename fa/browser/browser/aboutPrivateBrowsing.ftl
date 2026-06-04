@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = اجازه دهید { -bra
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } از برنمای کلوچک برای شما مراقبت می‌کند
 about-private-browsing-cookie-banners-promo-body = ما اکنون به‌صورت خودکار بسیاری از برنمای کلوچک را رد می‌کنیم تا شما کمتر ردیابی شوید و بتوانید بدون حواس‌پرتی به مرور وب بپردازید.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = هیچ ردپایی بر روی این دستگاه نگذار
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کوکی‌ها، تاریخچه و داده‌های وبگاه شما را زمانی که تمام پنجره‌های خصوصی را می‌بندید، حذف می‌کند.

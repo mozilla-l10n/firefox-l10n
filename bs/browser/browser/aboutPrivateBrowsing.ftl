@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Neka { -brand-short-name }
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } brine o banerima kolačića za vas
 about-private-browsing-cookie-banners-promo-body = Sada automatski odbijamo mnoge banere kolačića, tako da možete biti manje praćeni i vratiti se na pretraživanje bez ometanja.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ne ostavljaj tragove na ovom uređaju
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } briše vaše kolačiće, historiju i podatke o web stranici kada zatvorite sve svoje privatne prozore.

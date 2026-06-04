@@ -254,6 +254,6 @@ actions-callout-title = Realiza tareas comunes o accede a ajustes básicos
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prueba a escribir una acción como “imprimir” para imprimir una página o “borrar” para borrar tu historial.

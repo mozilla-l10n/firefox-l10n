@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Laisser { -brand-short-nam
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’occupe pour vous des demandes de cookies.
 about-private-browsing-cookie-banners-promo-body = Désormais, nous refusons automatiquement de nombreuses demandes de dépôt de cookies. Vous pouvez ainsi subir moins de pistage et retrouver une navigation sans distractions.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ne laissez aucune trace sur cet appareil
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } efface cookies, historique de navigation et données de sites lorsque vous fermez toutes les fenêtres de navigation privée.

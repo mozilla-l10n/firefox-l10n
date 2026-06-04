@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Lubescha a { -brand-short-
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s'occupa da las bandieras da cookies per tai
 about-private-browsing-cookie-banners-promo-body = Nus refusain ussa automaticamain bleras bandieras da cookies per che ti vegnias persequità pli pauc e possias navigar senza distracziun.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Na lascha nagins fastizs sin quest apparat
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } stizza tes cookies, la cronologia e datas da websites cura che ti serras tut tias fanestras privatas.

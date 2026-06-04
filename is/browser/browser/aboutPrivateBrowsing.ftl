@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Leyfa { -brand-short-name 
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } sér um vefkökuborða fyrir þig
 about-private-browsing-cookie-banners-promo-body = Við höfnum nú sjálfkrafa mörgum vefkökuborðum svo síður sé fylgst með þér og þú getir vafrað án truflana.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Skilja engin ummerki eftir á þessu tæki
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } eyðir vefkökunum þínum, vafurferli og gögnum vefsvæðisins þegar þú lokar öllum huliðsgluggum þínum.

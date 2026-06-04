@@ -254,6 +254,6 @@ actions-callout-title = Dokončite bežné úlohy alebo získajte prístup k zá
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Skúste zadať akciu, napríklad “tlačiť”, ak chcete vytlačiť stránku, alebo “vymazať”, ak chcete vymazať históriu.

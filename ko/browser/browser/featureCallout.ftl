@@ -254,6 +254,6 @@ actions-callout-title = 일반 작업 완료 또는 기본 설정 접근
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = "인쇄"와 같은 작업을 입력하여 페이지를 인쇄하거나, "지우기"를 눌러 기록을 지우세요.

@@ -46,7 +46,7 @@ about-private-browsing-search-banner-close-button =
 about-private-browsing-promo-close-button =
     .title = మూసివేయి
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = ఈ పరికరంలో జాడేమీ వదలకండి
 about-private-browsing-felt-privacy-v1-info-link = నా కార్యకలాపాన్ని ఎవరు చూడగలరు?

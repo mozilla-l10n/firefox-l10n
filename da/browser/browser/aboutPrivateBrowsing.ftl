@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Lad { -brand-short-name } 
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tager sig af cookie-bannere for dig
 about-private-browsing-cookie-banners-promo-body = Vi afviser nu automatisk mange cookie-bannere, så du bliver sporet mindre og kan bruge nettet uden forstyrrelser.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Efterlad ingen spor på denne enhed
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } sletter dine cookies, din historik og webstedsdata, når du lukker alle dine private vinduer.

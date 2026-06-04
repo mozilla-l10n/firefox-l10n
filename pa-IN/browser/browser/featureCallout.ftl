@@ -250,6 +250,6 @@ actions-callout-title = ਆਮ ਕੰਮ ਪੂਰੇ ਕਰੋ ਜਾਂ ਮੁ
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearrecenthistory
+# "clear" - quickactions-cmd-clearrecenthistory2
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = ਕਾਰਵਾਈਆਂ ਜਿਵੇਂ ਕਿ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰਨ ਲਈ “ਪਰਿੰਟ” ਜਾਂ ਆਪਣੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਉਣ ਲਈ "ਮਿਟਾਓ" ਲਿਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।

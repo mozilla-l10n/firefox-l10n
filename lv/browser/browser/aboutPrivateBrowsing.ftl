@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Ļaujiet { -brand-short-na
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tiks galā ar sīkdatņu paziņojumiem jūsu vietā
 about-private-browsing-cookie-banners-promo-body = Tagad mēs automātiski noraidām daudzus sīkdatņu paziņojumus, lai jūs mazāk izsekotu un varētu atgriezties pie pārlūkošanas bez traucēšanas.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Neatstājiet uz šīs ierīces pēdas
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } izdzēš jūsu sīkdatnes, vēsturi un vietņu datus, kad aizverat visus savus privātos logus.

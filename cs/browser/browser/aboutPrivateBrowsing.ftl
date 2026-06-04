@@ -77,7 +77,7 @@ about-private-browsing-cookie-banners-promo-message =
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se za vás postará o lišty cookie
 about-private-browsing-cookie-banners-promo-body = Nyní automaticky odmítáme mnoho lišt cookie, abyste byli méně sledováni a mohli se vrátit k prohlížení bez rozptylování.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Nezanechá stopy
 about-private-browsing-felt-privacy-v1-info-body = Když zavřete všechna anonymní okna, { -brand-short-name } vymaže vaše cookies, historii a data stránek.

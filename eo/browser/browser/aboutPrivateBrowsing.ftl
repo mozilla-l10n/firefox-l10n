@@ -73,7 +73,7 @@ about-private-browsing-cookie-banners-promo-message = Permesi al { -brand-short-
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } zorgas pri kuketaj anoncoj por vi
 about-private-browsing-cookie-banners-promo-body = Ne nun aŭtomate rifuzas plurajn kuketajn anoncojn, tiel ke vi estas malpli spurata kaj vi povas denove sendistre retumi.
 
-## Strings for Felt Privacy v1 experiments in 119
+## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Lasu neniun spuron en tiu ĉi aparato
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } forigos viajn kuketojn, historion kaj retejajn datumojn kiam vi fermos ĉiujn viajn privatajn fenestrojn.
