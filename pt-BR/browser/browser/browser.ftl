@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Gerenciar favoritos
 quickactions-cmd-bookmarks = favoritos
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Limpar histórico recente
+quickactions-cmd-clearrecenthistory2 = cookies, limpar cookies, cache, limpar cache, dados de navegação, limpar dados de navegação, histórico, limpar histórico recente
 quickactions-cmd-clearrecenthistory = limpar histórico recente, histórico
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpar histórico
