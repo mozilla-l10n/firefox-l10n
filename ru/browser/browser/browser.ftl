@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Управление закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Очистить недавнюю историю
+quickactions-cmd-clearrecenthistory2 = куки, удалить куки, кеш, очистить кеш, кэш, очистить кэш, данные просмотра, удалить данные просмотра, удалить историю, история, удалить недавнюю историю
 quickactions-cmd-clearrecenthistory = очистить недавнюю историю, история
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Удаление истории

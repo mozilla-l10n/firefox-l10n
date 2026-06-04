@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Сообщить о сломанном сайте
 report-broken-site-panel-intro-text = Ваш отчёт помогает нам понять и исправить проблемы в { -brand-product-name }, чтобы сделать его лучше для всех.
 report-broken-site-panel-learn-more-link = Подробнее
+report-broken-site-panel-url-label = URL сломанного сайта
 report-broken-site-panel-reason-intro-text = Что не работает?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Сайт не загружается
