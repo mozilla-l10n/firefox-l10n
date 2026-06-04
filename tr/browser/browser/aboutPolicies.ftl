@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Etkin
 errors-tab = Hatalar
 documentation-tab = Belgelendirme
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Etkin
+errors-tab-title =
+    .title = Hatalar
+documentation-tab-title =
+    .title = Belgelendirme
 no-specified-policies-message = Kurumsal İlkeler hizmeti etkin ama hiçbir ilke etkinleştirilmemiş.
 inactive-message = Kurumsal İlkeler hizmeti etkin değil.
 policy-name = İlke adı
