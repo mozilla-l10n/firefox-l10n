@@ -972,6 +972,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
 home-prefs-content-description2 = Sielç cuai contignûts vê su la tô videade di { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Logo di { -brand-short-name }
 home-prefs-search-header =
     .label = Ricercje sul Web
 home-prefs-search-header2 =
