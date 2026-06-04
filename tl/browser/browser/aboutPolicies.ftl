@@ -7,6 +7,14 @@ about-policies-title = Mga Polisiyang Pang-enterprise
 active-policies-tab = Aktibo
 errors-tab = Mga Mali
 documentation-tab = Dokumentasyon
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktibo
+errors-tab-title =
+    .title = Mga Mali
+documentation-tab-title =
+    .title = Dokumentasyon
 no-specified-policies-message = Ang Enterprise Policies na serbisyo ay aktibo ngunit wala pang pinaganang patakaran.
 inactive-message = Ang Enterprise Policies na serbisyo ay hindi aktibo.
 policy-name = Pangalan ng Patakaran
