@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = ਸਰਗਰਮ
 errors-tab = ਗ਼ਲਤੀਆਂ
 documentation-tab = ਦਸਤਾਵੇਜ਼
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = ਸਰਗਰਮ
+errors-tab-title =
+    .title = ਗ਼ਲਤੀਆਂ
+documentation-tab-title =
+    .title = ਦਸਤਾਵੇਜ਼
 no-specified-policies-message = ਇੰਟਰਪ੍ਰਾਈਜ਼ ਪਾਲਸੀਆਂ ਸੇਵਾ ਸਰਗਰਮ ਹੈ, ਪਰ ਕੋਈ ਵੀ ਪਾਲਸੀ ਸਮਰੱਥ ਨਹੀ ਹੈ।
 inactive-message = ਇੰਟਰਪ੍ਰਾਈਜ਼ ਪਾਲਸੀਆਂ ਦੀ ਸੇਵਾ ਨਾ-ਸਰਗਰਮ ਹੈ।
 policy-name = ਪਾਲਸੀ ਦਾ ਨਾਂ
