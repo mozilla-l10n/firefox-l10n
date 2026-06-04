@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпе
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце адно з некалькі месцаў, каб трымаць больш прыватным тое, адкуль вы аглядаеце.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -34,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = У грамадскай
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Атрымайце <a data-l10n-name="learn-more-vpn">дадатковую прыватнасць</a>, выбраўшы адно з 5 месцаў, каб схаваць, адкуль вы аглядаеце.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Атрымайце <a data-l10n-name="learn-more-vpn">дадатковую прыватнасць</a>, выбраўшы адно з некалькіх месцаў, каб схаваць, адкуль вы аглядаеце.
 ipprotection-feature-introduction-button-primary = Далей
 ipprotection-feature-introduction-button-secondary-not-now = Не цяпер
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -59,6 +62,7 @@ ipprotection-site-settings-callout-button = Зразумела
 
 ipprotection-location-selection-callout-title = Новае: Змяніце сваё месцазнаходжанне
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Убудаваны VPN { -brand-product-name }</a> дазваляе вам абраць адно з 5 месцаў для аглядання, або дазволіць нам выбраць самае хуткае для вас.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Убудаваны VPN { -brand-product-name }</a> дазваляе вам абраць адно з некалькіх месцаў для аглядання, або дазволіць нам выбраць самае хуткае для вас.
 ipprotection-location-selection-callout-primary-button = Паспрабаваць
 ipprotection-location-selection-callout-secondary-button = Адхіліць
 
@@ -72,6 +76,7 @@ unauthenticated-choose-location-message = Выберыце адно з 5 мес
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Атрымлівайце { $maxUsage } ГБ бясплатных VPN-дадзеных кожны месяц.
+unauthenticated-choose-location-message-1 = Выберыце адно з некалькіх месцаў або дазвольце { -brand-product-name } выбраць самае хуткае.
 unauthenticated-get-started = Пачаць
 unauthenticated-terms-of-service-privacy-notice = Працягваючы, вы згаджаецеся з <a data-l10n-name="vpn-terms-of-service">Умовамі абслугоўвання</a> і <a data-l10n-name="vpn-privacy-notice">Паведамленнем аб прыватнасці</a>.
 site-exclusion-toggle-enabled-1 =
@@ -210,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Паспрабуйце ўбудаваны ў { -brand-short-name } VPN
     .message = Аглядайце інтэрнэт з дадатковай абаронай, хаваючы сваё месцазнаходжанне. Атрымлівайце { $maxUsage } ГБ бясплатнага VPN-трафіку штомесяц.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Паспрабуйце ўбудаваны ў { -brand-short-name } VPN
+    .message = Аглядайце з дадатковай аховай, хаваючы сваё месцазнаходжанне.
 ip-protection-not-opted-in-button = Пачаць
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
