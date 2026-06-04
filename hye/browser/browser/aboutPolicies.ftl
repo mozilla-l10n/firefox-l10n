@@ -7,6 +7,14 @@ about-policies-title = Ձեռնարկութիւնների քաղաքականու
 active-policies-tab = Գործուն
 errors-tab = Սխալներ
 documentation-tab = Փաստաթղթեր
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Գործուն
+errors-tab-title =
+    .title = Սխալներ
+documentation-tab-title =
+    .title = Փաստաթղթեր
 no-specified-policies-message = Ձեռնարկութիւնների քաղաքականութեան ծառայութիւնը գործուն է, սակայն գործուն քաղաքականութիւն չկայ։
 inactive-message = Ձեռնարկութիւնների քաղաքականութեան ծառայութիւնը չի գործում։
 policy-name = Քաղաքականութեան անուանումը
