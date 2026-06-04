@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-ynhâld
 home-prefs-content-description2 = Kies hokker ynhâld jo op jo { -firefox-home-brand-name }-skerm werjaan wolle.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
 home-prefs-search-header =
     .label = Sykje op it web
 home-prefs-search-header2 =
