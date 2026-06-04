@@ -1097,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Соңғы белсенділігі
 home-prefs-recent-activity-description = Жуырдағы сайттар мен құрама таңдауы
+home-prefs-recent-activity-select =
+    .aria-label = Соңғы белсенділігі
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
