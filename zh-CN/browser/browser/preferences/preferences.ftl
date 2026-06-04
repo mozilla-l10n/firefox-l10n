@@ -1042,6 +1042,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name }内容
 home-prefs-content-description2 = 选择要在您的 { -firefox-home-brand-name }上显示的内容。
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } 徽标
 home-prefs-search-header =
     .label = 网络搜索
 home-prefs-search-header2 =
