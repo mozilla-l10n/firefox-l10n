@@ -9,6 +9,10 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktif
 errors-tab = Kesalahan
 documentation-tab = Dokumentasi
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktif
 errors-tab-title =
     .title = Kesalahan
 documentation-tab-title =
