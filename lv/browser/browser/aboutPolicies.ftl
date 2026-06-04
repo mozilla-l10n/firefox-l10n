@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktivēta
 errors-tab = Kļūdas
 documentation-tab = Dokumentācija
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktivēta
+errors-tab-title =
+    .title = Kļūdas
+documentation-tab-title =
+    .title = Dokumentācija
 no-specified-policies-message = Uzņēmuma politikas pakalpojums ir aktīvs, taču politikas nav ieslēgtas.
 inactive-message = Uzņēmumu politikas pakalpojums nav aktīvs.
 policy-name = Politikas nosaukums
