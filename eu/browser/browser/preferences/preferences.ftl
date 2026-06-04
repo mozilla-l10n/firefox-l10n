@@ -1057,6 +1057,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Lasterbideak
 home-prefs-shortcuts-description = Gordetzen edo bisitatzen dituzun guneak
+home-prefs-shortcuts-select =
+    .aria-label = Lasterbideak
 home-prefs-shortcuts-by-option-sponsored =
     .label = Babesleen lasterbideak
 home-prefs-content-header =
@@ -1095,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Azken jarduera
 home-prefs-recent-activity-description = Azken gune eta edukien hautapena
+home-prefs-recent-activity-select =
+    .aria-label = Azken jarduera
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
