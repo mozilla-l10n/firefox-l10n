@@ -1053,6 +1053,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Содержимое { -firefox-home-brand-name(case: "genitive") }
 home-prefs-content-description2 = Выберите, какое содержимое вы хотите видеть на экране { -firefox-home-brand-name(case: "genitive") }.
+home-prefs-firefox-logo-header =
+    .label = Логотип { -brand-short-name }
 home-prefs-search-header =
     .label = Поиск в Интернете
 home-prefs-search-header2 =
