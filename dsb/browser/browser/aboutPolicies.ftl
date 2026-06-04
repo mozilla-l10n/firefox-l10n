@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktiwny
 errors-tab = Zmólki
 documentation-tab = Dokumentacija
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktiwny
+errors-tab-title =
+    .title = Zmólki
+documentation-tab-title =
+    .title = Dokumentacija
 no-specified-policies-message = Słužba pśedewześowych pšawidłow jo aktiwna, ale pšawidła njejsu zmóžnjone.
 inactive-message = Słužba pśedewześowych pšawidłow njejo aktiwna.
 policy-name = Mě pšawidła
