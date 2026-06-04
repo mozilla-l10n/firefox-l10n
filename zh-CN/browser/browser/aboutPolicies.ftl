@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = 已激活
 errors-tab = 错误
 documentation-tab = 文档
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = 已激活
+errors-tab-title =
+    .title = 错误
+documentation-tab-title =
+    .title = 文档
 no-specified-policies-message = 企业策略服务已激活，但未启用任何策略。
 inactive-message = 企业策略服务处于未激活状态。
 policy-name = 策略名
