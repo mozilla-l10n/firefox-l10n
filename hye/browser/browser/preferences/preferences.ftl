@@ -624,6 +624,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Դիւրանցումներ
 home-prefs-shortcuts-description = Կայքեր, որոնք դուք պահում էք կամ այցելում
+home-prefs-shortcuts-select =
+    .aria-label = Դիւրանցումներ
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանաւորուած դիւրանցումներ
 
