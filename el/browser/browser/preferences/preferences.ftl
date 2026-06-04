@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Περιεχόμενο { -firefox-home-brand-name(case: "gen", capitalization: "upper") }
 home-prefs-content-description2 = Επιλέξτε το περιεχόμενο που θέλετε στην οθόνη «{ -firefox-home-brand-name }».
+home-prefs-firefox-logo-header =
+    .label = Λογότυπο { -brand-short-name }
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
 home-prefs-search-header2 =
