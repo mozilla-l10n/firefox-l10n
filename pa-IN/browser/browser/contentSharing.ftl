@@ -15,7 +15,14 @@ content-sharing-tabs-title =
         [one] { $count } ਟੈਬ
        *[other] { $count } ਟੈਬ
     }
+content-sharing-modal-view-page-2 =
+    .label = ਸਫ਼ੇ ਦੀ ਝਲਕ
 content-sharing-modal-copy-link =
     .label = ਲਿੰਕ ਕਾਪੀ ਕਰੋ
+content-sharing-modal-generating-page =
+    .label = ਸਫ਼ਾ ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 content-sharing-modal-link-copied =
     .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕੀਤਾ
+content-sharing-modal-sign-in-2 =
+    .label = ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+content-sharing-modal-title-2 = ਇਹ ਸਫ਼ੇ ਕਿਸੇ ਨਾਲ ਵੀ ਸਾਂਝੇ ਕਰੋ

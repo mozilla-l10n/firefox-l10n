@@ -414,6 +414,9 @@ quickactions-cmd-help = ਮਦਦ, ਸਹਿਯੋਗ
 # Opens the devtools web inspector
 quickactions-inspector2 = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-inspector2 = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ, ਡਿਵੈਲਪਮੈੰਟ ਟੂਲ
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = ਰੰਗ ਨੂੰ ਚੁਣੋ
+quickactions-cmd-colorpicker = ਰੰਗ ਚੋਣਕਾਰ, ਆਈ-ਡਰੋਪਰ, ਰੰਗ ਨੂੰ ਚੁਣੋ
 # Opens Firefox Library
 quickactions-cmd-library = ਲਾਇਬਰੇਰੀ
 quickactions-library = ਲਾਇਬਰੇਰੀ ਨੂੰ ਖੋਲ੍ਹੋ
@@ -470,6 +473,9 @@ quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ਸਫ਼ੇ ਦੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ
 quickactions-cmd-viewsource2 = ਸਰੋਤ ਨੂੰ ਵੇਖੋ, ਸਰੋਤ, ਸਫ਼ੇ ਦਾ ਸਰੋਤ
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ
+quickactions-cmd-labs = ਲੈਬ, ਤਜਰਬਾ
 quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1283,6 +1289,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
