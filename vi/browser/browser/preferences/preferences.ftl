@@ -1045,6 +1045,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Lối tắt
 home-prefs-shortcuts-description = Các trang web bạn lưu hoặc truy cập
+home-prefs-shortcuts-select =
+    .aria-label = Lối tắt
 home-prefs-shortcuts-by-option-sponsored =
     .label = Các lối tắt được tài trợ
 home-prefs-content-header =
@@ -1083,6 +1085,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Hoạt động gần đây
 home-prefs-recent-activity-description = Tuyển chọn các trang và nội dung gần đây
+home-prefs-recent-activity-select =
+    .aria-label = Hoạt động gần đây
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
