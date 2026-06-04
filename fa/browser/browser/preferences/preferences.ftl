@@ -570,6 +570,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-firefox-logo-header =
+    .label = آرم { -brand-short-name }
 home-prefs-search-header =
     .label = جستجو وب
 home-prefs-shortcuts-header =
