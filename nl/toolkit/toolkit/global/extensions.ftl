@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Weigeren
     .accesskey = W
 webext-perms-host-description-all-urls = Uw gegevens voor alle websites benaderen
+webext-perms-host-description-file-urls = Lokale bestanden op uw computer benaderen
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Uw gegevens voor websites in het domein { $domain } benaderen

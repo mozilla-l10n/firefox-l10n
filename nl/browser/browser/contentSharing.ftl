@@ -52,3 +52,6 @@ content-sharing-modal-too-many-pages =
         }
     .message = Probeer het opnieuw nadat één van uw pagina’s is verlopen.
 content-sharing-modal-some-invalid-links = Sommige koppelingen kunnen niet worden gedeeld.
+content-sharing-modal-generic-error-2 =
+    .heading = Er is iets misgegaan
+    .message = We kunnen uw gedeelde pagina momenteel niet aanmaken. Probeer het later nog eens.

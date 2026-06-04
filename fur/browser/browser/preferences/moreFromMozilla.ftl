@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Altri di { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Altri di { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Altri di { -vendor-short-name }
 more-from-moz-subtitle = Bute un voli sui altris prodots di { -vendor-short-name } pensâts par sostignî un internet plui san.
 more-from-moz-firefox-mobile-title = { -brand-product-name } par dispositîfs mobii
 more-from-moz-firefox-mobile-description = Il navigadôr mobil che al met la riservatece al prin puest.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } par dispositîfs mobii
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } par dispositîfs mobii
+    .description = Il navigadôr par dispositîfs mobii che al considere prioritarie la riservatece.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Scuvierç un nivel superiôr di protezion e navigazion anonime.
 more-from-moz-qr-code-box-firefox-mobile-title = Discjame doprant il to dispositîf mobil. Ponte la tô fotocjamare sul codiç QR. Cuant che al ven fûr un colegament, tocjilu.
@@ -47,6 +52,11 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Creazion di sîts web c
 
 more-from-moz-mdn-description = Impare a svilupâ pal web cun vuidis e riferiments gratuits e complets.
 more-from-moz-mdn-button = Impare a svilupâ pal web
+more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.

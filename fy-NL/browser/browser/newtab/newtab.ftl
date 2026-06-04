@@ -1054,7 +1054,7 @@ newtab-sports-widget-world-cup-champions = Wrâldkampioen 2026
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Wedstriid ôfrûn
 newtab-sports-widget-match-halftime = Skoft
-newtab-sports-widget-match-extra-time = Ekstra tiid
+newtab-sports-widget-match-extra-time = Ferlinging
 newtab-sports-widget-match-penalties = Strafskoppen
 
 ## Accessible labels for match rows in the sports widget. These are read by

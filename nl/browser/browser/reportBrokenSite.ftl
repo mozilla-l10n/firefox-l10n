@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Niet-werkende website melden
 report-broken-site-panel-intro-text = Uw rapport helpt ons problemen in { -brand-product-name } te begrijpen en op te lossen, om het voor iedereen beter te maken.
 report-broken-site-panel-learn-more-link = Meer info
+report-broken-site-panel-url-label = URL van niet-werkende website
 report-broken-site-panel-reason-intro-text = Wat werkt niet?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Website laadt niet

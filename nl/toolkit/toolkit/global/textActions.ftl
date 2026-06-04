@@ -88,3 +88,6 @@ text-action-remove-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Alle markeringen verwijderen
+profile-window-menu-edit =
+    .label = Bewerken
+    .accesskey = w

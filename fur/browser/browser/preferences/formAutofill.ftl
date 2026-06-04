@@ -154,6 +154,12 @@ autofill-card-expires-month = Scjad. mês
 autofill-card-expires-year = Scjad. an
 autofill-card-billing-address = Recapit pe fature
 autofill-card-network = Gjenar di cjarte
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = cjartis di credit, credit, cjartis, cjartis di debit, debit, tacuin, checkout, casse
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

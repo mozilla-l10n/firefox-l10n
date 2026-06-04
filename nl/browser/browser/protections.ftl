@@ -244,3 +244,19 @@ privacy-metrics-empty = Geen trackers geblokkeerd deze week. { -brand-short-name
 privacy-metrics-loading = Beschermingsstatistieken laden…
 privacy-metrics-error = Kan beschermingsstatistieken niet laden.
 privacy-metrics-private-window = { -brand-short-name } blijft trackers blokkeren in privévensters, maar houdt niet bij wat is geblokkeerd.
+
+## VPN promo card and banner
+
+protections-vpn-title = Breng privacybeschermingen verder dan de browser
+protections-vpn-header-content = Bescherm uw hele apparaat met { -mozilla-vpn-brand-name }. Met één tik wordt al het verkeer versleuteld en uw locatie verborgen.
+protections-get-vpn-link = { -mozilla-vpn-brand-name } downloaden
+protections-vpn-title-subscribed = VPN: geabonneerd
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] Het gebruik van { -mozilla-vpn-brand-name } versleutelt al uw verkeer en verbergt uw locatie – op maximaal { $count } apparaten. Haal het meeste uit uw abonnement – voeg het toe vanuit de <a data-l10n-name="playstore-link">Google Play Store</a> of <a data-l10n-name="appstore-link">Apple App Store </a>.
+    }
+protections-vpn-banner-header = Bescherming die verder gaat dan de browser
+protections-vpn-banner-content = Probeer { -mozilla-vpn-brand-name } zonder risico en zie waarom TechRadar zegt: “zijn snelheid, eenvoud en lage maandprijs maken het het proberen waard.”
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } downloaden
