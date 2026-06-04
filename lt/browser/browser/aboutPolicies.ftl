@@ -7,6 +7,14 @@ about-policies-title = Įmonės strategijos
 active-policies-tab = Aktyvios
 errors-tab = Klaidos
 documentation-tab = Dokumentacija
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktyvios
+errors-tab-title =
+    .title = Klaidos
+documentation-tab-title =
+    .title = Dokumentacija
 no-specified-policies-message = Įmonės strategijų paslauga yra aktyvi, tačiau nėra įjungtų strategijų
 inactive-message = Įmonės strategijų paslauga yra neaktyvi.
 policy-name = Strategijos pavadinimas
