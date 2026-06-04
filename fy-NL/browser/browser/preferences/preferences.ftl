@@ -1057,6 +1057,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Fluchkeppelingen
 home-prefs-shortcuts-description = Bewarre of besochte websites
+home-prefs-shortcuts-select =
+    .aria-label = Fluchkeppelingen
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsore fluchkeppelingen
 home-prefs-content-header =
@@ -1095,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Resinte aktiviteit
 home-prefs-recent-activity-description = In seleksje fan resinte websites en ynhâld
+home-prefs-recent-activity-select =
+    .aria-label = Resinte aktiviteit
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
