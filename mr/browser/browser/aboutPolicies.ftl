@@ -7,6 +7,14 @@ about-policies-title = संस्था धोरण
 active-policies-tab = सक्रीय
 errors-tab = त्रुटी
 documentation-tab = दस्तऐवजीकरण
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = सक्रीय
+errors-tab-title =
+    .title = त्रुटी
+documentation-tab-title =
+    .title = दस्तऐवजीकरण
 no-specified-policies-message = उद्योग धोरण सेवा चालू आहे पण कोणतीही धोरणे सक्षम नाहीत.
 inactive-message = उद्योग धोरण सेवा बंद आहे.
 policy-name = धोरण नाव
