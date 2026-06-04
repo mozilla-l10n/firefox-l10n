@@ -1199,6 +1199,12 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Obsah { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
 home-prefs-content-description2 = Vyberte obsah, který chcete mít na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }.
+home-prefs-firefox-logo-header =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Logo { -brand-short-name(case: "gen") }
+           *[no-cases] Logo aplikace { -brand-short-name }
+        }
 home-prefs-search-header =
     .label = Vyhledávání na webu
 home-prefs-search-header2 =
