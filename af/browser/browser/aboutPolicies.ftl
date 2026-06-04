@@ -6,3 +6,11 @@
 active-policies-tab = Aktief
 errors-tab = Foute
 documentation-tab = Dokumentasie
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktief
+errors-tab-title =
+    .title = Foute
+documentation-tab-title =
+    .title = Dokumentasie
