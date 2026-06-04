@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Gweithredol
 errors-tab = Gwallau
 documentation-tab = Dogfennaeth
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Gweithredol
+errors-tab-title =
+    .title = Gwallau
+documentation-tab-title =
+    .title = Dogfennaeth
 no-specified-policies-message = Mae'r gwasanaeth Polisïau Menter yn weithredol ond nid oes unrhyw bolisïau wedi'u galluogi.
 inactive-message = Mae'r gwasanaeth Polisïau Menter yn anweithredol.
 policy-name = Enw Polisi
