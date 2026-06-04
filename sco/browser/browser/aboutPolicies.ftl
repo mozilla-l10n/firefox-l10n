@@ -7,6 +7,10 @@ about-policies-title = Enterprise Policies
 active-policies-tab = Active
 errors-tab = Mishanters
 documentation-tab = Documentation
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Active
 errors-tab-title =
     .title = Mishanters
 no-specified-policies-message = The Enterprise Policies service is active but nae policies are enabled.
