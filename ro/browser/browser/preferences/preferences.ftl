@@ -1053,6 +1053,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Conținutul paginii de { -firefox-home-brand-name }
 home-prefs-content-description2 = Alege ce conținut vrei pe ecranul { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Logoul { -brand-short-name }
 home-prefs-search-header =
     .label = Căutare web
 home-prefs-search-header2 =
