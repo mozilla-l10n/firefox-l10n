@@ -9,6 +9,12 @@ aboutpolicies-page-heading =
 active-policies-tab = Virkar
 errors-tab = Villur
 documentation-tab = Hjálparskjöl
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Virkar
+errors-tab-title =
+    .title = Villur
 documentation-tab-title =
     .title = Hjálparskjöl
 no-specified-policies-message = Enterprise Policy þjónustan er virk, en engar reglur hafa verið virkjaðar.
