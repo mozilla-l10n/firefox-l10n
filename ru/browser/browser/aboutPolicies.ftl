@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Активны
 errors-tab = Ошибки
 documentation-tab = Документация
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Активны
+errors-tab-title =
+    .title = Ошибки
+documentation-tab-title =
+    .title = Документация
 no-specified-policies-message = Служба корпоративных политик активна, но ни одной политики не включено.
 inactive-message = Служба корпоративных политик неактивна.
 policy-name = Имя политики
