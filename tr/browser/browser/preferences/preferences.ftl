@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } içerikleri
 home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logosu
 home-prefs-search-header =
     .label = Web araması
 home-prefs-search-header2 =
