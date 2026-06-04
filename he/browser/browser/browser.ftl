@@ -391,6 +391,7 @@ quickactions-bookmarks2 = ניהול סימניות
 quickactions-cmd-bookmarks = סימניות, מועדפים
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ניקוי היסטוריה אחרונה
+quickactions-cmd-clearrecenthistory2 = עוגיות, ניקוי עוגיות, נקה עוגיות, לנקות עוגיות, מטמון, ניקוי מטמון, נקה מטמון, לנקות מטמון, נתוני גלישה, ניקוי נתוני גלישה, נקה נתוני גלישה, היסטוריה, ניקוי היסטוריה אחרונה, נקה היסטוריה אחרונה, לנקות היסטוריה אחרונה
 quickactions-cmd-clearrecenthistory = ניקוי היסטוריה אחרונה, מחק היסטוריה, למחוק היסטוריה, מחיקת היסטוריה, היסטוריה
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = מחיקת היסטוריה
