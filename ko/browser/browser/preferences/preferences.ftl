@@ -1038,6 +1038,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } 콘텐츠
 home-prefs-content-description2 = { -firefox-home-brand-name } 화면에서 원하는 콘텐츠를 선택하세요.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } 로고
 home-prefs-search-header =
     .label = 웹 검색
 home-prefs-search-header2 =
