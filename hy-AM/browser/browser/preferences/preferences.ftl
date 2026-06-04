@@ -963,6 +963,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-ի բովանդակություն
 home-prefs-content-description2 = Ընտրեք, թե ինչ բովանդակություն պետք է ունենա { -firefox-home-brand-name }-ի էկրանը:
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-ի լոգո
 home-prefs-search-header =
     .label = Վեբ որոնում
 home-prefs-search-header2 =
