@@ -7,6 +7,14 @@ about-policies-title = Ajk'aymolojel taq Na'ojil
 active-policies-tab = Tzijïl
 errors-tab = Taq sachoj
 documentation-tab = Yaköl wuj
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Tzijïl
+errors-tab-title =
+    .title = Taq sachoj
+documentation-tab-title =
+    .title = Yaköl wuj
 no-specified-policies-message = Tzijïl ri samaj Kina'ojil Loq'k'ayij xa xe chi majun na'ojil tzijon.
 inactive-message = Chupül ri samaj richin Kina'ojil Loq'k'ayij.
 policy-name = Rub'i' Na'ojil
