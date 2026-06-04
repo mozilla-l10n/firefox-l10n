@@ -7,6 +7,10 @@ about-policies-title = Keubijakan Peurusahaan
 active-policies-tab = Aktif
 errors-tab = Error
 documentation-tab = Dokumentasi
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktif
 errors-tab-title =
     .title = Error
 documentation-tab-title =
