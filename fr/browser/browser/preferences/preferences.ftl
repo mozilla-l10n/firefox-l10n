@@ -1057,6 +1057,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Raccourcis
 home-prefs-shortcuts-description = Sites que vous enregistrez ou visitez
+home-prefs-shortcuts-select =
+    .aria-label = Raccourcis
 home-prefs-shortcuts-by-option-sponsored =
     .label = Raccourcis sponsorisés
 home-prefs-content-header =
@@ -1095,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activité récente
 home-prefs-recent-activity-description = Une sélection de sites et de contenus récents
+home-prefs-recent-activity-select =
+    .aria-label = Activité récente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
