@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Ημερολόγιο
+datetime-time =
+    .aria-label = Ώρα

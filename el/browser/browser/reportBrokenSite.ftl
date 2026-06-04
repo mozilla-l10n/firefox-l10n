@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Αναφορά προβληματικού ιστοτόπου
 report-broken-site-panel-intro-text = Η αναφορά σας μας βοηθά να κατανοήσουμε και να διορθώσουμε ζητήματα στο { -brand-product-name }, ώστε να το βελτιώσουμε για όλους.
 report-broken-site-panel-learn-more-link = Μάθετε περισσότερα
+report-broken-site-panel-url-label = URL προβληματικού ιστοτόπου
 report-broken-site-panel-reason-intro-text = Τι δεν λειτουργεί;
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Ο ιστότοπος δεν φορτώνεται
