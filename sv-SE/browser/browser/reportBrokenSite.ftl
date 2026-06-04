@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Rapportera trasig webbplats
 report-broken-site-panel-intro-text = Din rapport hjälper oss att förstå och lösa problem i { -brand-product-name } för att göra den bättre för alla.
 report-broken-site-panel-learn-more-link = Läs mer
+report-broken-site-panel-url-label = URL för trasig webbplats
 report-broken-site-panel-reason-intro-text = Vad fungerar inte?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Webbplatsen laddas inte
