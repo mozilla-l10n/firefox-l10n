@@ -667,6 +667,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Paskiausia veikla
 home-prefs-recent-activity-description = Paskiausiai lankytos svetainės ir žiūrėtas turinys
+home-prefs-recent-activity-select =
+    .aria-label = Paskiausia veikla
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
