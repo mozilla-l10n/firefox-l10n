@@ -1005,6 +1005,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Վերջին ակտիվություն
 home-prefs-recent-activity-description = Վերջին կայքերի և բովանդակության ընտրանին
+home-prefs-recent-activity-select =
+    .aria-label = Վերջին ակտիվություն
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1537,6 +1539,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2302,6 +2307,9 @@ preferences-ai-controls-block-confirmation-confirm =
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookies-enabled =
@@ -2314,3 +2322,6 @@ preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Մեկուսացնել միջկայքային թխուկները
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
+
+## Warnings section
+
