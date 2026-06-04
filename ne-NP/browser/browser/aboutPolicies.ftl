@@ -7,6 +7,14 @@ about-policies-title = व्यवसायिक नितिहरू
 active-policies-tab = सक्रिय
 errors-tab = त्रुटिहरु
 documentation-tab = कागजातहरु
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = सक्रिय
+errors-tab-title =
+    .title = त्रुटिहरु
+documentation-tab-title =
+    .title = कागजातहरु
 no-specified-policies-message = ब्यवसायिक नीतिहरु सेवा सक्रिय छ तर त्यहाँ कुनै नीतिहरु सक्षम छैनन्।
 inactive-message = ब्यवसायिक निति सेवा निस्क्रिय छ।
 policy-name = नीतिको नाम
