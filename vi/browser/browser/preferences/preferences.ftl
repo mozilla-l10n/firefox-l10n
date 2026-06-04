@@ -1038,6 +1038,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Nội dung { -firefox-home-brand-name }
 home-prefs-content-description2 = Chọn nội dung bạn muốn trên màn hình { -firefox-home-brand-name } của mình.
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Tìm kiếm web
 home-prefs-search-header2 =
