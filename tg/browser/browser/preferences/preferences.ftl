@@ -942,6 +942,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Муҳтавои { -firefox-home-brand-name }
 home-prefs-content-description2 = Интихоб кунед, ки кадом мавод бояд дар экрани асосии { -firefox-home-brand-name } нишон дода шавад.
+home-prefs-firefox-logo-header =
+    .label = Ангораи «{ -brand-short-name }»
 home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
 home-prefs-search-header2 =
