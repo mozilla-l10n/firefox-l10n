@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = 달력
+datetime-time =
+    .aria-label = 시간
