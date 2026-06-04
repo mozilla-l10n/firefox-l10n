@@ -628,6 +628,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Skrōty
 home-prefs-shortcuts-description = Spamiyntane i nawiydzane strōny
+home-prefs-shortcuts-select =
+    .aria-label = Skrōty
 home-prefs-shortcuts-by-option-sponsored =
     .label = Spōnsorowane skrōty
 
