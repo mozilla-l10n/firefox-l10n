@@ -732,6 +732,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Atallos
 home-prefs-shortcuts-description = Sitios gardados ou visitados
+home-prefs-shortcuts-select =
+    .aria-label = Atallos
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atallos patrocinados
 
