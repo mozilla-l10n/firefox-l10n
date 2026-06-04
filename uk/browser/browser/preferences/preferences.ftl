@@ -809,6 +809,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
 home-prefs-content-description2 = Оберіть вміст, який ви хочете бачити на своїй { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+home-prefs-firefox-logo-header =
+    .label = Логотип { -brand-short-name }
 home-prefs-search-header =
     .label = Пошук в Інтернеті
 home-prefs-search-header2 =
