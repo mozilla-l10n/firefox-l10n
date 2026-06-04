@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = សកម្ម
 errors-tab = កំហុស
 documentation-tab = ឯកសារ
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = សកម្ម
+errors-tab-title =
+    .title = កំហុស
+documentation-tab-title =
+    .title = ឯកសារ
 no-specified-policies-message = សេវាកម្ម​គោលការណ៍​សហគ្រាស​សកម្ម ប៉ុន្តែ​មិនបាន​បើក​ដំណើរការ​គោលការណ៍។
 inactive-message = សេវាកម្មគោលការណ៍សហគ្រាសគឺអសកម្ម។
 policy-name = ឈ្មោះ​គោលនយោបាយ
