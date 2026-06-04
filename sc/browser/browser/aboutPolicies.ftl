@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Ativas
 errors-tab = Faddinas
 documentation-tab = Documentatzione
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Ativas
+errors-tab-title =
+    .title = Faddinas
+documentation-tab-title =
+    .title = Documentatzione
 no-specified-policies-message = Su servìtziu de polìticas aziendales est ativu ma non nche sunt polìticas abilitadas.
 inactive-message = Su servìtziu de polìticas aziendales no est ativu.
 policy-name = Nòmine de sa polìtica
