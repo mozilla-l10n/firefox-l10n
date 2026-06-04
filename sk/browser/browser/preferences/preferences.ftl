@@ -1053,6 +1053,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Obsah na { -firefox-home-brand-name(case: "loc") }
 home-prefs-content-description2 = Zvoľte, aký obsah chcete mať dostupný na svojej { -firefox-home-brand-name(case: "loc") }.
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name(case: "gen") }
 home-prefs-search-header =
     .label = Vyhľadávanie na webe
 home-prefs-search-header2 =
