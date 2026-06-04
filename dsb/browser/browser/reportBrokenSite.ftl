@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Wobškóźone sedło k wěsći daś
 report-broken-site-panel-intro-text = Waša rozpšawa nam pomaga, problemy w { -brand-product-name } rozměś a rozwězaś, aby my jen za kuždego pólěpšyli.
 report-broken-site-panel-learn-more-link = Dalšne informacije
+report-broken-site-panel-url-label = URL wobškóźonego sedła
 report-broken-site-panel-reason-intro-text = Co njefunkcioněrujo?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Sedło se njezacytujo

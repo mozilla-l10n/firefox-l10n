@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Cytańske znamjenja zastojaś
 quickactions-cmd-bookmarks = cytańske znamjenja
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Aktualnu historiju wuprozniś
+quickactions-cmd-clearrecenthistory2 = cookieje, cookieje lašowaś, pufrowak, pufrowak wuprozniś, pśeglědowańske daty, pśeglědowańske daty lašowaś, historija, nejnowšu historiju lašowaś
 quickactions-cmd-clearrecenthistory = Aktualnu historiju wuprozniś, historija
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Historiju wuprozniś
