@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Zapołožki rjadować
 quickactions-cmd-bookmarks = zapołožki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Aktualnu historiju wuprózdnić
+quickactions-cmd-clearrecenthistory2 = placki, placki zhašeć, pufrowak, pufrowak wuprózdnić, přehladowanske daty, přehladowanske daty zhašeć, historija, najnowšu historiju zhašeć
 quickactions-cmd-clearrecenthistory = aktualnu historiju wuprózdnić, historija
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Historiju zhašeć
