@@ -7,6 +7,14 @@ about-policies-title = U'u ootzib'al tetz ta'n u etzin tetze'
 active-policies-tab = Ile' b'a'n ve'te'
 errors-tab = Yannajle
 documentation-tab = Unq'a tu'aalil
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Ile' b'a'n ve'te'
+errors-tab-title =
+    .title = Yannajle
+documentation-tab-title =
+    .title = Unq'a tu'aalil
 no-specified-policies-message = Ti' ib'anb'ele' tuk' unq'a tu'aale' tan u etzin tetze' ile' b'a'n ve'te' as ye'l ve't tu'aalil uva' ye' ato'ke.
 inactive-message = Unq'a tu'aale' ti' ib'anb'ele' ta'n u etzin tetze' ye'xh la uch ib'anb'ele'.
 policy-name = Ib'ii unq'a tu'aale'
