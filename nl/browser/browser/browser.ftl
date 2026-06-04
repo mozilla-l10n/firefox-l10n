@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Bladwijzers beheren
 quickactions-cmd-bookmarks = bladwijzers
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Recente geschiedenis wissen
+quickactions-cmd-clearrecenthistory2 = cookies, cookies wissen, buffer, buffer wissen, navigatiegegevens, navigatiegegevens wissen, geschiedenis, recente geschiedenis wissen
 quickactions-cmd-clearrecenthistory = recente geschiedenis wissen, geschiedenis
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geschiedenis wissen
@@ -414,6 +415,9 @@ quickactions-cmd-help = hulp, ondersteuning
 # Opens the devtools web inspector
 quickactions-inspector2 = Ontwikkelaarshulpmiddelen openen
 quickactions-cmd-inspector2 = inspector, devtools, ontwikkelaarshulpmiddelen
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Kies een kleur
+quickactions-cmd-colorpicker = kleurkiezer, pipet, kleur kiezen
 # Opens Firefox Library
 quickactions-cmd-library = bibliotheek
 quickactions-library = Bibliotheek openen

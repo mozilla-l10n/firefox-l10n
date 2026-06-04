@@ -131,6 +131,7 @@ policy-Preferences = Stabilìs e bloche il valôr par un grup di preferencis.
 policy-PrivateBrowsingModeAvailability = Met la disponibilitât de modalitât di navigazion privade.
 policy-PromptForDownloadLocation = Domande dulà salvâ i files cuant che si ju discjarie.
 policy-Proxy = Configure lis impostazions dal proxy.
+policy-RelaunchRequired = Rint obligatori un gnûf inviament di { -brand-short-name } dentri di un periodi di timp specificât e vise l’utent dal sucessîf gnûf inviament.
 policy-RequestedLocales = Stabilìs la liste des localizazions (lenghis) desideradis pe aplicazion par ordin di preference.
 policy-SanitizeOnShutdown2 = Nete i dâts di navigazion ae jessude.
 policy-SearchBar = Stabilìs la posizion predefinide de sbare di ricercje. L'utent al pues distès personalizâle.
@@ -139,6 +140,7 @@ policy-SearchSuggestEnabled = Ative o disative i sugjeriments di ricercje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Zonte o elimine modui PKCS #11.
 policy-ShowHomeButton = Mostre il boton pagjine iniziâl te sbare dai struments.
+policy-SitePolicies = Politichis specifichis par sîts.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = No sta visualizâ lis cundizions di utilizazion e la informative su la riservatece al inviament. Tu declaris di acetâ e di vê la autoritât par acetâ lis cundizions di utilizazion par cont di dutis lis personis che a dopraran chest navigadôr che tu ur furnissis.
 policy-SSLVersionMax = Stabilìs la massime version di SSL.
@@ -154,3 +156,5 @@ policy-WebsiteFilter = Bloche l'acès a cierts sîts web. Consulte la documentaz
 policy-Windows10SSO = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permet la utilizazion di Windows single sign-on pai accounts Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Ative o disative il supuart pe API JavaScript XSLTProcessor e pe istruzion di elaborazion XSLT.
