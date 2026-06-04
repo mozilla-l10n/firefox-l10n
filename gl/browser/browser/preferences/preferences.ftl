@@ -727,6 +727,8 @@ choose-bookmark =
 
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
 home-prefs-content-description2 = Escolle o contido que queres na túa pantalla de { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Logotipo de { -brand-short-name }
 home-prefs-search-header =
     .label = Busca na web
 home-prefs-shortcuts-header =
