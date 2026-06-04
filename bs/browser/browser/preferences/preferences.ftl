@@ -730,6 +730,8 @@ choose-bookmark =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
 home-prefs-content-description2 = Odaberite koji sadržaj želite na svom ekranu { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logo
 home-prefs-search-header =
     .label = Web pretraga
 home-prefs-shortcuts-header =
