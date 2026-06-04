@@ -685,6 +685,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = කෙටිමං
 home-prefs-shortcuts-description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
+home-prefs-shortcuts-select =
+    .aria-label = කෙටිමං
 home-prefs-shortcuts-by-option-sponsored =
     .label = අනුග්‍රහය ලද කෙටිමං
 
