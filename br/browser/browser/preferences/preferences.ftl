@@ -634,6 +634,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Klask web
 home-prefs-shortcuts-header =
