@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Dejavni
 errors-tab = Napake
 documentation-tab = Dokumentacija
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Dejavni
+errors-tab-title =
+    .title = Napake
+documentation-tab-title =
+    .title = Dokumentacija
 no-specified-policies-message = Storitev pravilnikov za podjetja je dejavna, vendar ni omogočen noben pravilnik.
 inactive-message = Storitev pravilnikov za podjetja ni dejavna.
 policy-name = Ime pravilnika
