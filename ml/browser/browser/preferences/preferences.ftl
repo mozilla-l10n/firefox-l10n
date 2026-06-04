@@ -625,6 +625,8 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ലോട്ടു് താളുകളെ കരുതിവച്ചു
 home-prefs-recent-activity-header =
     .label = ഒടുവിലുള്ള പ്രവൎത്തനം
+home-prefs-recent-activity-select =
+    .aria-label = ഒടുവിലുള്ള പ്രവൎത്തനം
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
