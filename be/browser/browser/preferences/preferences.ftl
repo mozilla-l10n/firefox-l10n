@@ -1053,6 +1053,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Змесціва { -firefox-home-brand-name }
 home-prefs-content-description2 = Выберыце пажаданае змесціва для свайго экрана { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Лагатып { -brand-short-name }
 home-prefs-search-header =
     .label = Пошук у сеціве
 home-prefs-search-header2 =
