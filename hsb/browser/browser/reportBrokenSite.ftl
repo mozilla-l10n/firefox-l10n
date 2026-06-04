@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Wobškodźene sydło zdźělić
 report-broken-site-panel-intro-text = Waša rozprawa nam pomha, problemy w { -brand-product-name } rozumić a rozrisać, zo bychmy jón za kóždeho polěpšili.
 report-broken-site-panel-learn-more-link = Dalše informacije
+report-broken-site-panel-url-label = URL wobškodźeneho sydła
 report-broken-site-panel-reason-intro-text = Što njefunguje?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Sydło so njezačituje
