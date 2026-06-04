@@ -1095,6 +1095,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Ĵusa agado
 home-prefs-recent-activity-description = Elekto de ĵusaj retejoj kaj enhavoj
+home-prefs-recent-activity-select =
+    .aria-label = Ĵusa agado
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
