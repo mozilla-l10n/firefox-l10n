@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = En fonction
 errors-tab = Erreurs
 documentation-tab = Documentation
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = En fonction
+errors-tab-title =
+    .title = Erreurs
+documentation-tab-title =
+    .title = Documentation
 no-specified-policies-message = Le service des stratégies d’entreprise fonctionne mais aucune stratégie n’est active.
 inactive-message = Le service des stratégies d’entreprise est inactif.
 policy-name = Nom de la stratégie
