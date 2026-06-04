@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Ενεργές
 errors-tab = Σφάλματα
 documentation-tab = Τεκμηρίωση
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Ενεργές
+errors-tab-title =
+    .title = Σφάλματα
+documentation-tab-title =
+    .title = Τεκμηρίωση
 no-specified-policies-message = Η υπηρεσία εταιρικών πολιτικών είναι ενεργή, αλλά δεν έχουν ενεργοποιηθεί πολιτικές.
 inactive-message = Η υπηρεσία εταιρικών πολιτικών είναι ανενεργή.
 policy-name = Όνομα πολιτικής
