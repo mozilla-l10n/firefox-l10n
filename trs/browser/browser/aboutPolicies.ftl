@@ -7,6 +7,14 @@ about-policies-title = Sī Polítika Empresa
 active-policies-tab = Ngà' 'iaj sunj
 errors-tab = Nej sa gire'e
 documentation-tab = Nuguan' gimàn chre'
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Ngà' 'iaj sunj
+errors-tab-title =
+    .title = Nej sa gire'e
+documentation-tab-title =
+    .title = Nuguan' gimàn chre'
 no-specified-policies-message = Sun guendâ nikaj si nuguàn' empresa 'iaj sun sani nitaj à'ngo nuguan' hua.
 inactive-message = Nitaj si 'iaj sun nej si nuguàn' empresa.
 policy-name = Si yugui politikâ
