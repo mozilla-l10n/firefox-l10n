@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – შიგთავსი
 home-prefs-content-description2 = აირჩიეთ, რისი ხილვა გსურთ { -firefox-home-brand-name(case: "loc") }
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } – ლოგო
 home-prefs-search-header =
     .label = საძიებო ველი
 home-prefs-search-header2 =
