@@ -7,8 +7,14 @@ about-policies-title = जागायनाय थांखिफोर।
 active-policies-tab = मावथि
 errors-tab = गोरोन्थि
 documentation-tab = डकुमेन्टेसन
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = मावथि
 errors-tab-title =
     .title = गोरोन्थि
+documentation-tab-title =
+    .title = डकुमेन्टेसन
 no-specified-policies-message = जागायनाय थांखिफोरनि खामानिया साग्रां जाना दं नाथाय  बियाव जेबो थाखिफोरा जागायाखै।
 inactive-message = जागायनाय थांखिफोरनि खामानिया साग्रां जाना गैया ।
 policy-name = पलिसि मुं
