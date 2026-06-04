@@ -1045,6 +1045,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = ทางลัด
 home-prefs-shortcuts-description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
+home-prefs-shortcuts-select =
+    .aria-label = ทางลัด
 home-prefs-shortcuts-by-option-sponsored =
     .label = ทางลัดที่ได้รับการสนับสนุน
 home-prefs-content-header =
@@ -1083,6 +1085,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = กิจกรรมล่าสุด
 home-prefs-recent-activity-description = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
+home-prefs-recent-activity-select =
+    .aria-label = กิจกรรมล่าสุด
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
