@@ -733,6 +733,9 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
+## About Firefox
+
+
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
@@ -946,6 +949,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Миёнбурҳо
 home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
+home-prefs-shortcuts-select =
+    .aria-label = Миёнбурҳо
 home-prefs-shortcuts-by-option-sponsored =
     .label = Миёнбурҳои сарпарастӣ
 home-prefs-content-header =
@@ -984,6 +989,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Фаъолияти охирин
 home-prefs-recent-activity-description = Интихоби сомонаҳо ва муҳтавои охирин
+home-prefs-recent-activity-select =
+    .aria-label = Фаъолияти охирин
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1528,6 +1535,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
 windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низомӣ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2279,11 +2289,17 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = «DNS» тавассути «HTTPS»
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
 choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2353,3 +2369,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
+
+## Warnings section
+
