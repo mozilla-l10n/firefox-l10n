@@ -417,6 +417,8 @@ quickactions-cmd-update = به‌روز رسانی
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = نمایش کدمنبع صفحه
 quickactions-cmd-viewsource2 = مشاهده منبع, منبع, منبع صفحه
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = گشودن { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = مشاهدهٔ منبع, منبع
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -723,6 +725,10 @@ urlbar-result-action-copy-to-clipboard = رونوشت
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = تعریف نشده
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -740,6 +746,13 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = اکنون نه
+urlbar-result-realtime-opt-in-dismiss = رد کردن
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
