@@ -1049,6 +1049,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wybierz, co wyświetlać na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }.
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name(case: "gen") }
 home-prefs-search-header =
     .label = Pasek wyszukiwania
 home-prefs-search-header2 =
