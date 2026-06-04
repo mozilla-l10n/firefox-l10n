@@ -817,6 +817,10 @@ performance-default-content-process-count =
     .label = { $num } (predefinît)
 performance-group =
     .label = Prestazions
+performance-use-recommended-settings-checkbox-2 =
+    .label = Dopre lis impostazions conseadis pes prestazions
+    .description = Chestis impostazions a son stadis perfezionadis pal to hardware e pal to sisteme operatîf.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -847,6 +851,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Cîr tal test cuant che tu scrivis alc
     .accesskey = s
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Dopre Picture-in-Picture
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Abilite i controi video picture-in-picture
     .accesskey = e
@@ -857,6 +866,8 @@ browsing-picture-in-picture-learn-more = Plui informazions
 browsing-media-control =
     .label = Controle i flus multimediâi cu la tastiere, lis scufis o la interface virtuâl
     .accesskey = v
+recommendations-group =
+    .label = Conseis
 browsing-media-control-learn-more = Plui informazions
 browsing-cfr-recommendations =
     .label = Consee estensions intant che tu navighis
@@ -962,6 +973,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Nol è stât zontât ancjemò nissun sît.
+home-custom-homepage-delete-address-button =
+    .aria-label = Elimine la direzion
+    .title = Elimine la direzion
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -1047,6 +1061,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporizadôr
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sports
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Orloi
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Prudele { -brand-product-name }
@@ -1060,6 +1080,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Sielç un fonts
 home-prefs-choose-wallpaper-link2 =
     .label = Sielç un fonts
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Par doprâ chestis funzions, stabilìs gnovis schedis o gnûfs barcons su { -firefox-home-brand-name }.
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
@@ -1145,6 +1170,19 @@ suggestions-addressbar-settings-generic2 = Cambie lis impostazions pai altris su
 search-suggestions-cant-show = No vignaran mostrâts sugjeriments di ricercje tai risultâts de sbare di posizion, stant che tu âs configurât { -brand-short-name } in mût che no si visi mai la cronologjie.
 search-one-click-header2 = Scurtis di ricercje
 search-one-click-desc = Cuant che tu scomencis a scrivi une peraule, sielç i motôrs di ricercje alternatîfs che a vegnin fûr sot de sbare de direzion e de sbare di ricercje.
+search-one-click-header-3 =
+    .label = Altris motôrs di ricercje
+    .description = Sielç ce motôrs di ricercje e ce scurtis mostrâ inte sbare de direzion.
+update-search-engine-success =
+    .message = Motôr di ricercje inzornât cun sucès
+search-edit-engine-2 =
+    .title = Modifiche motôr di ricercje
+search-delete-engine =
+    .title = Elimine motôr di ricercje
+search-enable-engine =
+    .title = Ative motôr di ricercje
+search-outlink-to-extensions-page =
+    .title = Gjestìs in estensions e temis
 search-choose-engine-column =
     .label = Motôr di ricercje
 search-choose-keyword-column =
@@ -1158,10 +1196,14 @@ search-remove-engine =
 search-add-engine =
     .label = Zonte
     .accesskey = Z
+search-add-engine-2 =
+    .label = Zonte motôr di ricercje
+    .accesskey = Z
 search-edit-engine =
     .label = Modifiche
     .accesskey = e
 search-find-more-link = Cjate altris motôrs di ricercje
+search-filtering-for-add-engine = Zonte motôr
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Peraule clâf duplicade
@@ -1180,6 +1222,9 @@ search-engine-group =
     .label = Motôr di ricercje predefinît
 search-default-engine =
     .aria-label = Motôr di ricercje predefinît
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Ricercje
 
 ## Containers Section
 
@@ -1203,6 +1248,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizazion
+account-group-label2 =
+    .label = Account
+account-placeholder2 =
+    .label = No tu âs fat l’acès
+    .description = Jentre cu lis credenziâls e ten i tiei dâts risiervâts, cifrâts e a disposizion dapardut là che tu dopris { -brand-short-name }.
+account-sync-section =
+    .heading = Account e sincronizazion
+pane-account-sync-title2 = Account e sincronizazion
+    .title = Account e sincronizazion
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1325,6 +1379,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Tu stâs sincronizant chescj elements su ducj i dispositîfs conetûts:
 sync-syncing-across-devices-heading-2 = Dâts sincronizâts tra dispositîfs
+sync-syncing-across-devices-empty-state2 =
+    .label = Gjestìs i dâts sincronizâts
+    .description = No tu stâs sincronizant nuie...par cumò. Scomence a sincronizâ par vê ducj i tiei dâts su ducj i tiei dispositîfs.
 sync-currently-syncing-bookmarks = Segnelibris
 sync-currently-syncing-history = Cronologjie
 sync-currently-syncing-tabs = Schedis viertis
@@ -1341,6 +1398,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Gjestìs dâts sincronizâts
     .accesskey = G
+settings-sync-disconnect-button =
+    .label = Disconet
 sync-change-options =
     .label = Cambie…
     .accesskey = C
@@ -1512,6 +1571,10 @@ forms-additional-protections-header =
     .label = Protezions in plui
 forms-primary-pw-use =
     .label = Dopre une password principâl
+    .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Dopre une password principâl
+    .description = Al zonte un nivel di sigurece in plui par protezi lis passwords salvadis.
     .accesskey = U
 forms-primary-pw-set =
     .label = Stabilìs password principâl
