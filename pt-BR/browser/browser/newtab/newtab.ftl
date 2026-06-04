@@ -7,7 +7,7 @@
 
 newtab-page-title = Nova aba
 newtab-settings-button =
-    .title = Personalizar sua página de nova aba
+    .title = Personalize sua página de nova aba
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Personalizar esta página
