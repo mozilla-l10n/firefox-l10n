@@ -498,6 +498,8 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات { -pocket-brand-name } میں محفوظ کر دیئے گئے ہیں
 home-prefs-recent-activity-header =
     .label = حالیہ سرگرمی
+home-prefs-recent-activity-select =
+    .aria-label = حالیہ سرگرمی
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
