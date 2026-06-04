@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = דיווח על אתר שבור
 report-broken-site-panel-intro-text = הדיווח שלך מסייע לנו להבין ולתקן בעיות ב־{ -brand-product-name } כדי לשפר אותו עבור כולם.
 report-broken-site-panel-learn-more-link = מידע נוסף
+report-broken-site-panel-url-label = כתובת של אתר שבור
 report-broken-site-panel-reason-intro-text = מה לא עובד?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = האתר לא נטען

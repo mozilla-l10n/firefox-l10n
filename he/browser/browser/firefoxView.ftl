@@ -239,7 +239,7 @@ firefoxview-recentlyclosed-empty-description-two = כדי למצוא לשוני�
 firefoxview-syncedtabs-device-notabs = אין לשוניות פתוחות במכשיר הזה
 firefoxview-syncedtabs-connect-another-device = חיבור מכשיר נוסף
 firefoxview-pinned-tabs =
-    .title = לשוניות מוצמדות
+    .title = לשוניות נעוצות
 firefoxview-tabs =
     .title = לשוניות
 
