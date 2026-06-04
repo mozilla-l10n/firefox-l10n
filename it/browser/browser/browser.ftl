@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Gestisci segnalibri
 quickactions-cmd-bookmarks = segnalibri
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Cancella la cronologia recente
+quickactions-cmd-clearrecenthistory2 = cookie, elimina cookie, cache, elimina cache, dati di navigazione, elimina dati navigazione, cancella dati navigazione, cronologia, elimina cronologia recente, cancella cronologia
 quickactions-cmd-clearrecenthistory = cancella cronologia recente, cronologia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Cancella cronologia
