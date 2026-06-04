@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = פעיל
 errors-tab = שגיאות
 documentation-tab = תיעוד
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = פעיל
+errors-tab-title =
+    .title = שגיאות
+documentation-tab-title =
+    .title = תיעוד
 no-specified-policies-message = שירות המדיניות הארגוניות פעיל אך אין גיליונות מדיניות פעילות.
 inactive-message = שירות המדיניות הארגוניות אינו פעיל.
 policy-name = שם מדיניות
