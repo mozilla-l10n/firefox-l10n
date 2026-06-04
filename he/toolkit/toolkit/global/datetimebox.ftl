@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = לוח שנה
+datetime-time =
+    .aria-label = זמן
