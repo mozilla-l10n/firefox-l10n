@@ -7,6 +7,14 @@ about-policies-title = Reolennoù embregerezh
 active-policies-tab = Oberiant
 errors-tab = Fazioù
 documentation-tab = Teuliadur
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Oberiant
+errors-tab-title =
+    .title = Fazioù
+documentation-tab-title =
+    .title = Teuliadur
 no-specified-policies-message = Oberiant eo ar gwazerezh reolennoù embregerezh met n’eus reolenn ebet gweredekaet.
 inactive-message = Dioberiant eo ar gwazerezh reolennoù embregerezh.
 policy-name = Anv ar reolenn
