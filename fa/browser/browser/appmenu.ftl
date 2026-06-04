@@ -273,6 +273,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = سفارشی‌سازی نوار ابزار…
+appmenu-abouttranslations =
+    .label = ترجمه…
 appmenu-developer-tools-subheader = ابزارهای مرورگر
 appmenu-developer-tools-extensions =
     .label = افزونه‌ها برای توسعه‌دهندگان

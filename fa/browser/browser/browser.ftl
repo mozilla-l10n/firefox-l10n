@@ -375,6 +375,9 @@ quickactions-cmd-help = کمک, پشتیبانی
 # Opens the devtools web inspector
 quickactions-inspector2 = گشایش ابزارهای توسعه دهنده
 quickactions-cmd-inspector2 = بازرس, بازرسی, ابزارهای توسعه
+# Opens Firefox Library
+quickactions-cmd-library = کتابخانه
+quickactions-library = گشودن کتابخانه
 quickactions-cmd-inspector = بازرسی, ابزارهای توسعه
 # Opens about:logins
 quickactions-logins2 = مدیریت گذرواژه‌ها
@@ -398,6 +401,9 @@ quickactions-restart = راه‌اندازی دوبارهٔ { -brand-short-name 
 quickactions-cmd-restart = راه اندازی دوباره
 # Opens the screenshot tool
 quickactions-screenshot3 = از صفحه عکس بگیرید
+# Opens about:translations
+quickactions-translate = ترجمه
+quickactions-cmd-translate = ترجمه
 quickactions-cmd-screenshot = نماگرفت
 # Opens about:preferences
 quickactions-settings2 = مدیریت تنظیمات
