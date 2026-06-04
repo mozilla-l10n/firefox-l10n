@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } мазмұны
 home-prefs-content-description2 = { -firefox-home-brand-name } үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } логотипі
 home-prefs-search-header =
     .label = Интернеттен іздеу
 home-prefs-search-header2 =
