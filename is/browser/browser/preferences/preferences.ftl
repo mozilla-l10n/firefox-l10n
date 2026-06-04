@@ -766,6 +766,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nýleg virkni
 home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
+home-prefs-recent-activity-select =
+    .aria-label = Nýleg virkni
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
