@@ -1057,6 +1057,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = მალსახმობები
 home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
+home-prefs-shortcuts-select =
+    .aria-label = მალსახმობები
 home-prefs-shortcuts-by-option-sponsored =
     .label = მალსახმობები დამკვეთებისგან
 home-prefs-content-header =
@@ -1095,6 +1097,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = ბოლო მოქმედებები
 home-prefs-recent-activity-description = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
+home-prefs-recent-activity-select =
+    .aria-label = ბოლო მოქმედებები
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
