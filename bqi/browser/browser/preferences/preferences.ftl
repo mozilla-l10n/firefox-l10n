@@ -609,6 +609,8 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
+home-prefs-firefox-logo-header =
+    .label = لوگو { -brand-short-name }
 home-prefs-search-header2 =
     .label = پیتینیڌن
 home-prefs-shortcuts-header =
