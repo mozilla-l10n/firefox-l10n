@@ -942,6 +942,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Lëndë { -firefox-home-brand-name }
 home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën “{ -firefox-home-brand-name }” tuaj.
+home-prefs-firefox-logo-header =
+    .label = Stemë e { -brand-short-name }-it
 home-prefs-search-header =
     .label = Kërkim në Web
 home-prefs-search-header2 =
