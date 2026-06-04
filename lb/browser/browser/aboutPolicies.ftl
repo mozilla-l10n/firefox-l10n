@@ -7,6 +7,14 @@ about-policies-title = Entreprise Richtlinnen
 active-policies-tab = Aktiv
 errors-tab = Feeler
 documentation-tab = Dokumentatioun
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktiv
+errors-tab-title =
+    .title = Feeler
+documentation-tab-title =
+    .title = Dokumentatioun
 policy-name = Numm vun der Richtlinn
 policy-value = Wäert vun der Richtlinn
 policy-errors = Richtlinnfeeler
