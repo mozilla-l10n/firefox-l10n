@@ -384,6 +384,7 @@ newtab-wallpaper-title = Baggrunde
 newtab-wallpaper-reset = Nulstil til standard
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Upload et billede
+newtab-wallpaper-add-an-image = Tilføj et billede
 newtab-wallpaper-custom-color = Vælg en farve
 newtab-wallpaper-toggle-title =
     .label = Baggrunde
