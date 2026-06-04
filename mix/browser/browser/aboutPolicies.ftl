@@ -7,6 +7,14 @@ about-policies-title = Políticas Empresariales
 active-policies-tab = Ndatu'un
 errors-tab = Vaá
 documentation-tab = Tutu
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Ndatu'un
+errors-tab-title =
+    .title = Vaá
+documentation-tab-title =
+    .title = Tutu
 no-specified-policies-message = El servicio de políticas empresariales está activo pero no hay políticas habilitadas.
 inactive-message = El servicio de políticas empresariales no está activo.
 policy-name = Sivi política
