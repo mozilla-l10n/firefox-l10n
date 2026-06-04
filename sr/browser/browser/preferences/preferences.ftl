@@ -1112,6 +1112,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } садржај
 home-prefs-content-description2 = Изаберите какав садржај желите да видите на { -firefox-home-brand-name } екрану.
+home-prefs-firefox-logo-header =
+    .label = Логотип { -brand-short-name }-а
 home-prefs-search-header =
     .label = Веб-претрага
 home-prefs-search-header2 =
