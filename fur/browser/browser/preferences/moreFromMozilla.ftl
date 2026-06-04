@@ -57,6 +57,21 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = E-mail, calendari e contats gratuits — organizât te tô maniere.
+more-from-moz-thunderbird-button = Oten { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Gnûfs prodots { -vendor-short-name }
+more-from-moz-new-products-description = Scuvierç i ultins prodots di { -vendor-short-name }.
+more-from-moz-new-products-button = Scuvierç i gnûfs prodots
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Scansione cu la fotocjamare dal to telefon o dal tablet par vê la aplicazion. Tocje il colegament cuant che al ven fûr.
+more-from-moz-firefox-mobile-email-link = Mande al to telefon vie e-mail il colegament par discjariâ
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.

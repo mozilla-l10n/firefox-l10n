@@ -223,6 +223,10 @@ sidebar-syncedtabs-title = Faner frå andre einingar
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
 # currently open in the browser.
 sidebar-opentabs-title = Opne faner
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Festa faner
 
 ## Context for closing synced tabs when hovering over the items
 
