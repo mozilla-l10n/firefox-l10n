@@ -7,6 +7,14 @@ about-policies-title = Prawidła ôd ôrganizacyje
 active-policies-tab = Aktywne
 errors-tab = Felery
 documentation-tab = Dokumyntacyjo
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktywne
+errors-tab-title =
+    .title = Felery
+documentation-tab-title =
+    .title = Dokumyntacyjo
 no-specified-policies-message = Usuga prawideł ôd ôrganizacyje je aktywno, ale żodne prawidła niy sōm włōnczōne.
 inactive-message = Usuga prawideł ôd ôrganizacyje je niyaktywno.
 policy-name = Miano ôd prawidła
