@@ -719,6 +719,8 @@ choose-bookmark =
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
 home-prefs-content-description2 = Fren anwa agbur i tebɣiḍ ɣefugdil-ik·im n { -firefox-home-brand-name }
+home-prefs-firefox-logo-header =
+    .label = Alugu n { -brand-short-name }
 home-prefs-search-header =
     .label = Anadi Web
 home-prefs-shortcuts-header =
