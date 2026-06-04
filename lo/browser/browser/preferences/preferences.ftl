@@ -618,6 +618,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 home-prefs-recent-activity-description = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
+home-prefs-recent-activity-select =
+    .aria-label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
