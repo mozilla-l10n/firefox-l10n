@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktívne
 errors-tab = Chyby
 documentation-tab = Dokumentácia
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktívne
+errors-tab-title =
+    .title = Chyby
+documentation-tab-title =
+    .title = Dokumentácia
 no-specified-policies-message = Podnikové pravidlá sú aktívne, ale žiadne pravidlo nebolo nastavené.
 inactive-message = Podnikové pravidlá nie sú aktívne.
 policy-name = Názov pravidla
