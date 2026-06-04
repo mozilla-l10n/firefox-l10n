@@ -584,6 +584,15 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -653,6 +662,9 @@ browsing-cfr-recommendations-learn-more = Máis información
 browsing-group =
     .label = Navegación
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Configuración de rede
@@ -705,6 +717,12 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
@@ -744,6 +762,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Actividade recente
 home-prefs-recent-activity-description = Unha selección de sitios e contido recentes
+home-prefs-recent-activity-select =
+    .aria-label = Actividade recente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -928,6 +948,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1167,6 +1192,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Máis información
 forms-windows-sso-desc = Xestionar contas na configuración do dispositivo
 windows-passkey-settings-label = Xestionar as claves de acceso na configuración do sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1759,13 +1787,28 @@ preferences-doh-manage-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = X
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
