@@ -1052,6 +1052,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
 home-prefs-content-description2 = اختر المحتوى الذي تريد عرضه في شاشة { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = شعار { -brand-short-name }
 home-prefs-search-header =
     .label = ابحث في الوِب
 home-prefs-search-header2 =
