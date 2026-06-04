@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = فعال
 errors-tab = ختایل
 documentation-tab = موستندا
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = فعال
+errors-tab-title =
+    .title = ختایل
+documentation-tab-title =
+    .title = موستندا
 no-specified-policies-message = سرویس سیاستا سازمۊوی فعال هڌ ٱما هنی هیچ سیاستی فعال نوابیڌه.
 inactive-message = سرویس سیاستا سازمۊوی قیر فعال هڌ.
 policy-name = نوم خت مشی
