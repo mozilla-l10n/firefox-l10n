@@ -933,6 +933,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Indhold på { -firefox-home-brand-name }
 home-prefs-content-description2 = Vælg det indhold, du vil have vist på din { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
 home-prefs-search-header =
     .label = Søgning på internettet
 home-prefs-search-header2 =
