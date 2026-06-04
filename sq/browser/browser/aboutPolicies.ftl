@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktive
 errors-tab = Gabime
 documentation-tab = Dokumentim
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktive
+errors-tab-title =
+    .title = Gabime
+documentation-tab-title =
+    .title = Dokumentim
 no-specified-policies-message = Shërbimi për Rregulla Në Nivel Ndërmarrjeje është aktiv por nuk ka rregulla të aktivizuara.
 inactive-message = Shërbimi për Rregulla Në Nivel Ndërmarrjeje është joaktiv.
 policy-name = Emër Rregulli
