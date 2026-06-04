@@ -6,4 +6,12 @@
 active-policies-tab = dob kíy
 errors-tab = Na blit ní
 documentation-tab = ré yêtz
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = dob kíy
+errors-tab-title =
+    .title = Na blit ní
+documentation-tab-title =
+    .title = ré yêtz
 policy-value = Lí chop ko tak ah
