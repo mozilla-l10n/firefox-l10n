@@ -7,6 +7,14 @@ about-policies-title = انٹرپرائز پالیسییں
 active-policies-tab = فعال
 errors-tab = نقص
 documentation-tab = دستاویزی
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = فعال
+errors-tab-title =
+    .title = نقص
+documentation-tab-title =
+    .title = دستاویزی
 no-specified-policies-message = انٹرپرائز پالیسیاں خدمات  فعال ہے لیکن وہاں کوئی پالیسیاں فعال نہیں ہیں۔
 inactive-message = انٹرپرائز پالیسیاں خدمات غیر فعال ہیں۔
 policy-name = پالیسی کا نام
