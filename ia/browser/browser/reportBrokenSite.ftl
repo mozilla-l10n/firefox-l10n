@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Reportar sito corrupte
 report-broken-site-panel-intro-text = Tu reporto nos adjuta a comprender e corriger problemas in { -brand-product-name } pro render lo melior pro omnes.
 report-broken-site-panel-learn-more-link = Pro saper plus
+report-broken-site-panel-url-label = URL de sito corrupte
 report-broken-site-panel-reason-intro-text = Que non functiona?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Le sito non se carga
