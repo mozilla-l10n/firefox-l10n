@@ -715,6 +715,8 @@ choose-bookmark =
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
 home-prefs-content-description2 = Pilih konten yang diinginkan untuk tampil di layar { -firefox-home-brand-name } Anda.
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Pencarian Web
 home-prefs-shortcuts-header =
