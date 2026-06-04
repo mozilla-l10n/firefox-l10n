@@ -7,6 +7,14 @@ about-policies-title = Tutu nichi Empresariales
 active-policies-tab = Activas
 errors-tab = Errores
 documentation-tab = Tutu
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Activas
+errors-tab-title =
+    .title = Errores
+documentation-tab-title =
+    .title = Tutu
 no-specified-policies-message = Servicio políticas empresariales íyo activo je ntu íyo políticas habilitadas.
 inactive-message = Servicio políticas empresariales ntu íyo activo.
 policy-name = Sivɨ política
