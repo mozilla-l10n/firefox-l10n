@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Protyka
+datetime-time =
+    .aria-label = Čas
