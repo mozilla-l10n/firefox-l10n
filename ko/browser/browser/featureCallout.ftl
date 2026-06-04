@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = 다음
 link-preview-onboarding-callout-title = 신규: 길게 눌러 링크 미리보기
 link-preview-onboarding-callout-description = 짧은 설명, 읽는 시간 등을 보고 링크를 누를 가치가 있는지 결정하세요. 마우스 오른쪽 버튼 클릭에서도 사용할 수 있습니다.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = 탭 그룹으로 깔끔하게 정리하세요
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = 작업이나 주제별로 탭을 그룹화해 보세요. 필요할 때마다 드래그해서 추가할 수 있습니다.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = 그룹 시작
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시

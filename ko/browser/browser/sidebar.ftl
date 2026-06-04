@@ -223,6 +223,10 @@ sidebar-syncedtabs-title = 다른 기기의 탭
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
 # currently open in the browser.
 sidebar-opentabs-title = 열린 탭
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = 고정된 탭
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = 깨진 사이트 신고
 report-broken-site-panel-intro-text = 여러분의 신고는 저희가 { -brand-product-name }의 문제를 이해하고 고쳐서 모든 사람을 위해 더 나은 제품으로 만들도록 도움을 줍니다.
 report-broken-site-panel-learn-more-link = 더 알아보기
+report-broken-site-panel-url-label = 깨진 사이트 URL
 report-broken-site-panel-reason-intro-text = 작동하지 않는 것은 무엇입니까?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = 사이트가 로드되지 않음

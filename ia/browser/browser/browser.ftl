@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Gerer marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Vacuar le chronologia recente
+quickactions-cmd-clearrecenthistory2 = cookies, vacuar cookies, cache, vacuar cache, datos de navigation, vacuar datos de navigation, chronologia, vacuar chronologia recente
 quickactions-cmd-clearrecenthistory = vacuar le chronologia recente, chronologia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vacuar le chronologia

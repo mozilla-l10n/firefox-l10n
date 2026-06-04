@@ -391,6 +391,7 @@ quickactions-bookmarks2 = 북마크 관리
 quickactions-cmd-bookmarks = 북마크, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 최근 기록 지우기
+quickactions-cmd-clearrecenthistory2 = cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history, 쿠키, 쿠키 지우기, 캐시, 캐시 지우기, 탐색 데이터, 탐색 데이터 지우기, 기록, 최근 기록 지우기
 quickactions-cmd-clearrecenthistory = 최근 기록 지우기, 기록, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 기록 지우기
