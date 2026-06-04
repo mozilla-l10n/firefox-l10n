@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Enhavo
 home-prefs-content-description2 = Elektu la enhavon, kiun vi volas en { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Emblemo de { -brand-short-name }
 home-prefs-search-header =
     .label = Serĉo en la reto
 home-prefs-search-header2 =
