@@ -556,6 +556,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Dreceres
 home-prefs-shortcuts-description = Llocs que guardeu o visiteu
+home-prefs-shortcuts-select =
+    .aria-label = Dreceres
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
 
