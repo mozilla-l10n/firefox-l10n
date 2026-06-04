@@ -956,8 +956,44 @@ newtab-sports-widget-search-country =
     .placeholder = Cîr nazion
     .aria-label = Cîr nazion
 newtab-sports-widget-cancel = Anule
+newtab-sports-widget-back-button =
+    .aria-label = Indaûr
 newtab-sports-widget-done-button =
     .label = Fat
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminât)
+newtab-sports-widget-view-all =
+    .label = Mostre dut
+newtab-sports-widget-show-less =
+    .label = Mostre di mancul
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Dome scuadris che tu stâs daûr
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Cjale
+    .title = Cjale direte
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Cjale in direte
+    .title = Cjale in direte
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Siere
+    .title = Siere
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratis
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Prove gratuite
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratis e a paiament
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = A paiament
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Dome cualchi partide
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponibii te tô regjon
 # Heading for the list of streaming services available outside the user’s country/region.
 newtab-sports-widget-watch-available-other-regions = Altris regjons
 # Button that opens the provider’s stream page in a new tab.
@@ -977,17 +1013,31 @@ newtab-sports-widget-group-i = Grup I
 newtab-sports-widget-group-j = Grup J
 newtab-sports-widget-group-k = Grup K
 newtab-sports-widget-group-l = Grup L
+newtab-sports-widget-round-32 = Diesim sescj di finâl
+newtab-sports-widget-round-16 = Otâfs di finâl
+newtab-sports-widget-quarter-finals = Cuarts di finâl
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = DIRETE
 newtab-custom-widget-live-refresh =
     .title = Inzorne risultâts
     .aria-label = Inzorne risultâts
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Datis impuartantis
 newtab-sports-widget-upcoming = Daûr a rivâ
+# Used for a match currently ongoing
+newtab-sports-widget-now = In cors
 newtab-sports-widget-results = Risultâts
 newtab-sports-widget-semi-finals = Semifinâls
 newtab-sports-widget-bronze-finals = Finâl pal tierç puest
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finâl
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = In ritart
 newtab-sports-widget-postponed = Posticipade
 newtab-sports-widget-suspended = Sospindude
@@ -996,6 +1046,8 @@ newtab-sports-widget-information = Informazions su la partide
 newtab-sports-widget-no-live-data = In chest moment i dâts de partide in direte no si stan inzornant
 newtab-sports-widget-view-results-link = Viôt i risultâts
 newtab-sports-widget-third-place = Tierç puest
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Seconts classificâts
 newtab-sports-widget-champions = Campions
 newtab-sports-widget-world-cup-champions = Campions de Cope dal mont 2026
 # Variables:
@@ -1005,6 +1057,23 @@ newtab-sports-widget-match-full-time = Partide finide
 newtab-sports-widget-match-halftime = Interval
 newtab-sports-widget-match-extra-time = Timps suplementârs
 newtab-sports-widget-match-penalties = Rigôrs
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Prime
+    .title = Prime
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Prossime
+    .title = Prossime
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Partide in direte { $index } di { $total }
+    .title = Partide in direte { $index } di { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1059,6 +1128,12 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bosgne e Erzegovine
 newtab-sports-widget-team-name-label-civ =
     .label = Cueste di Avoli
+newtab-sports-widget-team-name-label-cod =
+    .label = RD Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Ingletiere
+newtab-sports-widget-team-name-label-sco =
+    .label = Scozie
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

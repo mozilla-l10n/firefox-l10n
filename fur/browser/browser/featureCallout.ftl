@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Sucessîf
 link-preview-onboarding-callout-title = Novitât: fâs clic e ten fracât par visualizâ une anteprime dai colegaments
 link-preview-onboarding-callout-description = Viôt une descrizion curte, il timp di leture e altris informazions par decidi se vierzi o mancul un colegament. Funzion disponibile ancje midiant il clic diestri dal mouse.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Ridûs il disordin cui grups di schedis
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Met adun lis tôs schedis par ativitât o par argoment. Tu puedis zontânt altris strissinantlis intant che tu navighis.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Cree un grup
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl

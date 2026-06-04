@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Gjestìs segnelibris
 quickactions-cmd-bookmarks = segnelibris
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Nete la cronologjie resinte
+quickactions-cmd-clearrecenthistory2 = cookies, nete i cookies, cache, nete cache, dâts di navigazion, nete dâts di navigazion, cronologjie, nete la cronologjie resinte, nete cronologjie
 quickactions-cmd-clearrecenthistory = nete cronologjie resinte, cronologjie
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Nete la cronologjie
