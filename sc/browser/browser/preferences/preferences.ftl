@@ -878,6 +878,8 @@ home-custom-homepage-replace-with-prompt =
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
 home-prefs-content-description2 = Sèbera su cuntenutu chi boles visualizare in { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = logo de { -brand-short-name }
 home-prefs-search-header =
     .label = Chirca web
 home-prefs-shortcuts-header =
