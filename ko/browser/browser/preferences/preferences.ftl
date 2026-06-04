@@ -1045,6 +1045,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = 바로 가기
 home-prefs-shortcuts-description = 저장하거나 방문한 사이트
+home-prefs-shortcuts-select =
+    .aria-label = 바로 가기
 home-prefs-shortcuts-by-option-sponsored =
     .label = 스폰서 바로 가기
 home-prefs-content-header =
@@ -1083,6 +1085,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = 최근 활동
 home-prefs-recent-activity-description = 최근 사이트 및 콘텐츠 선택
+home-prefs-recent-activity-select =
+    .aria-label = 최근 활동
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
