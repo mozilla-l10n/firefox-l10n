@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Urmid
 errors-tab = Tuccḍiwin
 documentation-tab = Tasemlit
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Urmid
+errors-tab-title =
+    .title = Tuccḍiwin
+documentation-tab-title =
+    .title = Tasemlit
 no-specified-policies-message = Ameẓlu n tsertiyin n tkebbanit yermed maca ulac tisertiyin yettwarmden.
 inactive-message = Ameẓlu n tsertiyin n tkebbanit ur yermid ara.
 policy-name = Isem n tsertit
