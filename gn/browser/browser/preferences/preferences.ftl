@@ -1050,6 +1050,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Jeike pya’eha
 home-prefs-shortcuts-description = Tenda eñongatúva térã eikeha
+home-prefs-shortcuts-select =
+    .aria-label = Jeike pya’eha
 home-prefs-shortcuts-by-option-sponsored =
     .label = Jeike pya’eha jehepyme’ẽpyre
 home-prefs-content-header =
@@ -1088,6 +1090,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Tembiapo ramovegua
 home-prefs-recent-activity-description = Tenda jeporavo ha tetepy ramovegua
+home-prefs-recent-activity-select =
+    .aria-label = Tembiapo ramovegua
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
