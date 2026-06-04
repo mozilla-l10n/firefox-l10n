@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = ມີການນຳໃຊ້
 errors-tab = ຂໍ້ຜິດພາດ
 documentation-tab = ເອກະສານປະກອບ
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = ມີການນຳໃຊ້
+errors-tab-title =
+    .title = ຂໍ້ຜິດພາດ
+documentation-tab-title =
+    .title = ເອກະສານປະກອບ
 no-specified-policies-message = ບໍລິການນະໂຍບາຍອົງກອນໃຊ້ຢູ່ແຕ່ບໍ່ໄດ້ເປີດໃຊ້ງານນະໂຍບາຍໃດໆ
 inactive-message = ບໍລິການນະໂຍບາຍອົງກອນບໍ່ໄດ້ໃຊ້ງານຢູ່.
 policy-name = ຊື່ນະໂຍບາຍ
