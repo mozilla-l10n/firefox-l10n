@@ -767,6 +767,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nedavne aktivnosti
 home-prefs-recent-activity-description = Izbor najnovijih stranica i sadržaja
+home-prefs-recent-activity-select =
+    .aria-label = Nedavne aktivnosti
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
