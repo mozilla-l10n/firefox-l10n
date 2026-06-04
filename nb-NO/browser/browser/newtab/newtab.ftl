@@ -1064,8 +1064,8 @@ newtab-sports-widget-pagination-next =
 # $index (number) - 1-based position of this dot in the list.
 # $total (number) - Total number of live matches.
 newtab-sports-widget-pagination-dot =
-    .aria-label = Direktesendt kamp { $index } av { $total }
-    .title = Direktesendt kamp { $index } av { $total }
+    .aria-label = Pågående kamp { $index } av { $total }
+    .title = Pågående kamp { $index } av { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.

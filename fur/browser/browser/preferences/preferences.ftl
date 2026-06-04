@@ -868,6 +868,18 @@ browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
 
+## Accessibility page
+
+preferences-fonts-family =
+    .label = Famee di caratars
+    .accesskey = D
+preferences-fonts-size =
+    .label = Dimension dal caratar
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Impostazions avanzadis
+    .accesskey = A
+
 ## General Section - Proxy
 
 network-settings-title = Impostazions di rêt
@@ -881,6 +893,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Gnûfs barcons e schedis
 home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzis la pagjine iniziâl, i gnûfs barcons e lis gnovis schedis.
+home-section =
+    .heading = Pagjine iniziâl e inviament
 
 ## Home Section - Default Browser
 
