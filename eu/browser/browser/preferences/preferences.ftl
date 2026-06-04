@@ -1050,6 +1050,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } edukia
 home-prefs-content-description2 = Aukeratu zer eduki ikusi nahi duzun zure { -firefox-home-brand-name } pantailan.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logoa
 home-prefs-search-header =
     .label = Web bilaketa
 home-prefs-search-header2 =
