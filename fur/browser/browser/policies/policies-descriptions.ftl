@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Definìs lis politichis che a chês lis estensions basadis su WebExtensions a puedin acedi vie chrome.storage.managed.
+policy-AIControls = Configure i controi IA.
 policy-AllowedDomainsForApps = Definìs i dominis ametûts pal acès al Google Workspace.
 policy-AllowFileSelectionDialogs = Permet i dialics pe selezion dai files.
 policy-AppAutoUpdate = Abilite o disabilite l'inzornament automatic de aplicazion .
@@ -36,6 +37,7 @@ policy-Containers = Stabilìs lis politichis relativis ai contignidôrs.
 policy-DisableAccounts = Disative i servizis basâts su accounts, sincronizazion includude.
 policy-DisabledCiphers = Disative cifris.
 policy-DefaultDownloadDirectory = Stabilìs la cartele predefinide pai file discjariâts.
+policy-DefaultSerialGuardSetting = Gjestîs la utilizazion des APIs pes puartis seriâls.
 policy-DisableAppUpdate = Impedìs al navigadôr di inzornâsi.
 policy-DisableBuiltinPDFViewer = Disabilite PDF.js, il visualizadôr PDF integrât in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedìs al agjent predefinît dal navigadôr di cjapâ iniziativis e realizâ cualsisei azion. Si pues aplicâ dome su Windows; chês altris plateformis no àn l'agjent.
@@ -56,6 +58,8 @@ policy-DisablePocket2 = Disabilite la funzionalitât par salvâ lis pagjinis web
 policy-DisablePrivateBrowsing = Disabilite la navigazion privade.
 policy-DisableProfileImport = Disabilite il comant dal menù par impuartâ i dâts di un altri navigadôr.
 policy-DisableProfileRefresh = Disabilite il boton “Ripristine { -brand-short-name }” te pagjine about:support.
+policy-DisableRemoteImprovements = Impedìs a { -brand-short-name } di fâ modifichis relativis a prestazions, stabilitât e funzionalitâts tra un inzornament e chel altri.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Disative impostazions di lontan.
 policy-DisableSafeMode = Disative la funzion par tornâ a inviâ in modalitât sigure. Fâs câs: il tast Maiusc par jentrâ in modalitât sigure si pues disativâ dome in Windows doprant lis politichis di grup.
 policy-DisableSecurityBypass = Impedìs al utent di ignorâ cierts avertiments di sigurece.
 policy-DisableSetAsDesktopBackground = Disabilite il comant dal menù “Met come fondâl dal scritori” pes imagjins.
@@ -89,6 +93,7 @@ policy-Homepage = Stabilìs e, in maniere facoltative, bloche la pagjine iniziâ
 policy-HttpAllowlist = Origjins che no saran inzornadis a HTTPS.
 policy-HttpsOnlyMode = Permet la ativazion de modalitât Dome-HTTPS.
 policy-InstallAddonsPermission = Permet a cierts sîts web di instalâ components adizionâi.
+policy-IPProtectionAvailable = Impedìs che la VPN integrade e sedi disponibile pai utents.
 policy-LegacyProfiles = Disative la funzion par sfuarçâ un profîl separât par ogni instalazion.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
