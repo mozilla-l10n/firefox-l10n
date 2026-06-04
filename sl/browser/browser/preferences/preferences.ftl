@@ -1008,6 +1008,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Bližnjice
 home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
+home-prefs-shortcuts-select =
+    .aria-label = Bližnjice
 home-prefs-shortcuts-by-option-sponsored =
     .label = Bližnjice oglaševalcev
 home-prefs-content-header =
@@ -1603,6 +1605,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2484,6 +2489,9 @@ preferences-connection-link-button =
 desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
+
+## Appearance page
+
 
 ## AI controls page
 
