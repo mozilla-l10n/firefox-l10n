@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Gnìomhach
 errors-tab = Mearachdan
 documentation-tab = Docamaideadh
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Gnìomhach
+errors-tab-title =
+    .title = Mearachdan
+documentation-tab-title =
+    .title = Docamaideadh
 no-specified-policies-message = Tha seirbheis nam poileasaidhean enterprise an gnìomh ach cha deach poileasaidh sam bith a chur an comas.
 inactive-message = Tha seirbheis nam poileasaidhean enterprise à gnìomh.
 policy-name = Ainm a’ phoileasaidh
