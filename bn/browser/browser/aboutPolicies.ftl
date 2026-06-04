@@ -9,6 +9,12 @@ aboutpolicies-page-heading =
 active-policies-tab = সক্রিয়
 errors-tab = ত্রুটিসমূহ
 documentation-tab = নথি
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = সক্রিয়
+errors-tab-title =
+    .title = ত্রুটিসমূহ
 documentation-tab-title =
     .title = নথি
 no-specified-policies-message = এন্টারপ্রাইজ নীতিমালা পরিষেবা সক্রিয় রয়েছে, কিন্তু কোন নীতি এনাবল করা নেই৷
