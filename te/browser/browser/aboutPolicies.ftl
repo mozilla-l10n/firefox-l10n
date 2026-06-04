@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = క్రియాశీలం
 errors-tab = దోషాలు
 documentation-tab = పత్రావళి
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = క్రియాశీలం
+errors-tab-title =
+    .title = దోషాలు
+documentation-tab-title =
+    .title = పత్రావళి
 no-specified-policies-message = ఎంటర్‌ప్రైజ్ విధానాల సేవ చేతనంగా ఉంది కానీ విధానాలు ఏమీ చేతనంగా లేవు.
 inactive-message = సంస్థాగత విధానాల సేవ అచేతనంగా ఉంది.
 policy-name = విధానపు పేరు
