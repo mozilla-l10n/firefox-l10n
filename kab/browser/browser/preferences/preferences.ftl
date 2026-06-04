@@ -724,6 +724,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Inegzumen
 home-prefs-shortcuts-description = Ismal i teskelseḍ neɣ wuɣur terziḍ
+home-prefs-shortcuts-select =
+    .aria-label = Inegzumen
 home-prefs-shortcuts-by-option-sponsored =
     .label = Inegzumen yettwarefden
 
