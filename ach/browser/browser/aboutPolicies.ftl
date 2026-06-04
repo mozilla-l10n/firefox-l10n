@@ -6,3 +6,11 @@
 active-policies-tab = Tye katic
 errors-tab = Bal
 documentation-tab = Gin acoya
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Tye katic
+errors-tab-title =
+    .title = Bal
+documentation-tab-title =
+    .title = Gin acoya
