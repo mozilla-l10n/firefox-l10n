@@ -7,6 +7,14 @@ about-policies-title = Critei aziendali
 active-policies-tab = Ativo
 errors-tab = Eroî
 documentation-tab = Documenti
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Ativo
+errors-tab-title =
+    .title = Eroî
+documentation-tab-title =
+    .title = Documenti
 no-specified-policies-message = O serviçio de critei aziendali o l'é ativo ma no ghe son critei ativi.
 inactive-message = O serviçio de critei aziendali o l'é inativo
 policy-name = Nomme do criteio
