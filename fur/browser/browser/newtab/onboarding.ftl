@@ -63,6 +63,15 @@ mr1-onboarding-theme-label-dark = Scûr
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Fat
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Sospint animazion
+onboarding-animation-play-button =
+    .aria-label = Riprodûs animazion
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -544,6 +553,7 @@ restore-from-backup-secondary-top-button = Ripristine dal backup
 restore-from-backup-title = Fasìn tornâ { -brand-short-name } come che ti plâs a ti
 restore-from-backup-subtitle = Ripristine segnelibris, cronologjie e ducj chei altris dâts par tornâ a navigâ.
 restore-from-backup-secondary-button = No sta ripristinâ
+multiple-backups-info-tile = <strong>A son stâts cjatâts plui files di backup.</strong> Al è stât selezionât chel plui resint. Ripristine altris profîi in <a data-l10n-name="settings-label">Impostazions</a>
 
 ## Restored from Backup spotlight
 
@@ -573,6 +583,7 @@ onboarding-personalization-motivation-other-option = Altri
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = O metìn in sigurece i tiei dâts e o fermìn lis aziendis che spiin i tiei clics — in automatic.
 onboarding-refresh-import-title = Sintiti come a cjase cun { -brand-short-name }
 onboarding-refresh-onboarding-addons-subtitle = Lis estensions a son piçulis aplicazions che ti permetin di personalizâ { -brand-short-name }. A puedin rinfuarçâ la sigurece, miorâ la produtivitât, cambiâ l'aspiet di { -brand-short-name } e tant altri.
 # "Give your browsing a boost" means to enhance or improve the browsing experience

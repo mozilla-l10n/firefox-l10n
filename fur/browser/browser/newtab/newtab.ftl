@@ -1135,6 +1135,19 @@ newtab-sports-widget-team-name-label-eng =
 newtab-sports-widget-team-name-label-sco =
     .label = Scozie
 
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Scomence i mondiâi cui gnûfs fonts
+newtab-sports-widget-message-wallpapers-body = Puarte un tic di atmosfere di partide tal to navigadôr intant dal torneu.
+newtab-sports-widget-message-wallpapers-cta = Sielç fonts
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Zonte widgets
+newtab-sports-widget-message-day-in-play-title = Rint plui dinamiche la tô zornade cui widgets di { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Sta daûr de cope dal mont, reste concentrât, ten di voli de ore ator pal mont e tant altri.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Esplore i widgets
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1195,6 +1208,19 @@ newtab-clock-widget-button-save = Salve
 newtab-clock-widget-button-remove-clock =
     .title = Gjave orloi
     .aria-label = Gjave orloi
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, sorenon: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Zonte orloi
 newtab-clock-widget-edit-clock-form =

@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Behandle bokmerker
 quickactions-cmd-bookmarks = bokmerker
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tøm nylig historikk
+quickactions-cmd-clearrecenthistory2 = infokapsler, slett infokapsler, informasjonskapsler, slett informasjonskapsler, hurtigbuffer, tøm hurtigbuffer, nettlesingsdata, slett nettlesingsdata, historikk, slett nylig historikk
 quickactions-cmd-clearrecenthistory = tøm nylig historikk, historikk
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
