@@ -1038,6 +1038,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = เนื้อหา { -firefox-home-brand-name }
 home-prefs-content-description2 = เลือกเนื้อหาที่คุณต้องการบนหน้าจอ { -firefox-home-brand-name } ของคุณ
+home-prefs-firefox-logo-header =
+    .label = โลโก้ { -brand-short-name }
 home-prefs-search-header =
     .label = การค้นหาเว็บ
 home-prefs-search-header2 =
