@@ -668,6 +668,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Oberiantiz a-nevez
 home-prefs-recent-activity-description = Un dibab a lec’hiennoù ha danvez nevez
+home-prefs-recent-activity-select =
+    .aria-label = Oberiantiz a-nevez
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
