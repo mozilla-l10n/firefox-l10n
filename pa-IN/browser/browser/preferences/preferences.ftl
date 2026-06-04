@@ -1046,6 +1046,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ਸਮੱਗਰੀ
 home-prefs-content-description2 = ਤੁਹਾਡੀ { -firefox-home-brand-name } ਸਕਰੀਨ ਉੱਤੇ ਦਿਖਾਈ ਜਾਣ ਵਾਲੀ ਸਮਗੱਰੀ ਚੁਣੋ।
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } ਲੋਗੋ
 home-prefs-search-header =
     .label = ਵੈੱਬ ਖੋਜ
 home-prefs-search-header2 =
