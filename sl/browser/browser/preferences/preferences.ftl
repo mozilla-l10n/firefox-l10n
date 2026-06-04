@@ -1001,6 +1001,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik") }
 home-prefs-content-description2 = Izberite vsebino, ki naj se prikazuje na { -firefox-home-brand-name(sklon: "mestnik") }.
+home-prefs-firefox-logo-header =
+    .label = Logotip { -brand-short-name(sklon: "rodilnik") }
 home-prefs-search-header =
     .label = Iskanje po spletu
 home-prefs-search-header2 =
