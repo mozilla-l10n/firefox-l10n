@@ -9,6 +9,14 @@ aboutpolicies-page-heading =
 active-policies-tab = Aktív
 errors-tab = Hibák
 documentation-tab = Dokumentáció
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Aktív
+errors-tab-title =
+    .title = Hibák
+documentation-tab-title =
+    .title = Dokumentáció
 no-specified-policies-message = A vállalati házirendek szolgáltatás aktív, de egy házirend sincs engedélyezve.
 inactive-message = A vállalati házirendek szolgáltatás inaktív.
 policy-name = Házirend neve
