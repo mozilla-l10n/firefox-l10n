@@ -1069,6 +1069,8 @@ home-prefs-search-header2 =
 home-prefs-shortcuts-header =
     .label = Llwybrau Byr
 home-prefs-shortcuts-description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
+home-prefs-shortcuts-select =
+    .aria-label = Llwybrau Byr
 home-prefs-shortcuts-by-option-sponsored =
     .label = Llwybrau byr wedi'u noddi
 home-prefs-content-header =
@@ -1107,6 +1109,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Gweithgaredd diweddar
 home-prefs-recent-activity-description = Detholiad o wefannau a chynnwys diweddar
+home-prefs-recent-activity-select =
+    .aria-label = Gweithgaredd diweddar
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
