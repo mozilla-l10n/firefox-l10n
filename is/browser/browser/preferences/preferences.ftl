@@ -729,6 +729,8 @@ choose-bookmark =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
 home-prefs-content-description2 = Veldu hvaða efni þú vilt á '{ -firefox-home-brand-name }'-skjánum þínum.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-táknmerki
 home-prefs-search-header =
     .label = Vefleit
 home-prefs-shortcuts-header =
