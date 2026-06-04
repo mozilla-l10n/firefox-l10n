@@ -9,6 +9,12 @@ aboutpolicies-page-heading =
 active-policies-tab = ใช้งานอยู่
 errors-tab = ข้อผิดพลาด
 documentation-tab = เอกสารประกอบ
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = ใช้งานอยู่
+errors-tab-title =
+    .title = ข้อผิดพลาด
 documentation-tab-title =
     .title = เอกสารประกอบ
 no-specified-policies-message = บริการนโยบายองค์กรทำงานอยู่ แต่ไม่มีนโยบายใดที่เปิดใช้งาน
