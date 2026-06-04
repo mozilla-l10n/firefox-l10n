@@ -7,6 +7,14 @@ about-policies-title = Polaseeyn Ventyr
 active-policies-tab = Breeoil
 errors-tab = Marranysyn
 documentation-tab = Docamadys
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Breeoil
+errors-tab-title =
+    .title = Marranysyn
+documentation-tab-title =
+    .title = Docamadys
 no-specified-policies-message = Ta'n çhirveish Polaseeyn Ventyr breeoil agh cha nel bree er ve currit da polaseeyn erbee.
 inactive-message = Cha nel yn çhirveish Polaseeyn Ventyr breeoil.
 policy-name = Ennym y Pholasee
