@@ -1588,6 +1588,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Domande la conferme dal acès al dispositîf par compilâ in automatic e gjestî lis passwords
+forms-os-reauth-2 =
+    .label = Pretint la conferme dal acès al dispositîf par gjestî lis passwords
 forms-primary-pw-learn-more-link = Plui informazions
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1664,6 +1666,10 @@ payments-list-header =
 payments-delete-payment-prompt-title = Eliminâ chest metodi di paiament?
 payments-delete-payment-prompt-confirm-button = Elimine
 payments-delete-payment-prompt-cancel-button = Anule
+payments-delete-payment-button-label =
+    .aria-label = Elimine
+payments-edit-payment-button-label =
+    .aria-label = Modifiche
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nissun metodi di paiament zontât
