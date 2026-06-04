@@ -989,6 +989,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Veprimtari së fundi
 home-prefs-recent-activity-description = Një përzgjedhje sajtesh dhe lënde së fundi
+home-prefs-recent-activity-select =
+    .aria-label = Veprimtari së fundi
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
