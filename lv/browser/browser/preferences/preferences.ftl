@@ -702,6 +702,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nesenās aktivitātes
 home-prefs-recent-activity-description = Neseno vietņu un satura izlase
+home-prefs-recent-activity-select =
+    .aria-label = Nesenās aktivitātes
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
