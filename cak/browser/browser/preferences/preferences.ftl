@@ -467,6 +467,15 @@ update-in-progress-ok-button = &Tich'aqïx
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rub'eyal nisamäj
@@ -528,6 +537,9 @@ browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
 browsing-group =
     .label = Okik'amaya'l
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Runuk'ulem Okem
@@ -580,6 +592,12 @@ choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Rupam { -firefox-home-brand-name }
@@ -589,6 +607,8 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Chojmin Okem
 home-prefs-shortcuts-description = Taq ruxaq xe'ayäk o xe'atz'ët
+home-prefs-shortcuts-select =
+    .aria-label = Chojmin Okem
 home-prefs-shortcuts-by-option-sponsored =
     .label = Xto' chojmin okem
 
@@ -616,6 +636,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = K'ak'a' samaj
 home-prefs-recent-activity-description = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
+home-prefs-recent-activity-select =
+    .aria-label = K'ak'a' samaj
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -760,6 +782,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } man jikib'an ta.
 sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -948,6 +975,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Tetamäx ch'aqa' chik
 forms-windows-sso-desc = Kenuk'samajïx taq rub'i' taqoya'l pa runuk'ulem okisaxel
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -958,6 +988,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1271,6 +1304,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Ketz'et taq rutijonik { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1356,13 +1392,28 @@ preferences-doh-manage-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Kematz'ib'ab'äl
 downloads-folder-name = Taq qasanïk
 choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
