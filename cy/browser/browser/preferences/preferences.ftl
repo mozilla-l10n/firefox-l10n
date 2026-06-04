@@ -1062,6 +1062,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = Cynnwys { -firefox-home-brand-name }
 home-prefs-content-description2 = Dewiswch pa gynnwys rydych chi eisiau ar eich sgrin { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Chwilio'r We
 home-prefs-search-header2 =
