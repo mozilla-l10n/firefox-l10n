@@ -1043,6 +1043,8 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Retepy
 home-prefs-content-description2 = Eiporavo mba’e retepýpa eipota { -firefox-home-brand-name } mba’erechahápe.
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } ra’ãnga’i
 home-prefs-search-header =
     .label = Ñandutípe jeheka
 home-prefs-search-header2 =
