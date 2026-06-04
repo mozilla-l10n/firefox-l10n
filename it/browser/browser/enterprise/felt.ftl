@@ -13,6 +13,8 @@ felt-version-nightly = { $version } ({ $isodate })
 # Variables:
 #   $version (String): version of Firefox for beta and release builds
 felt-version = Versione { $version }
+felt-urlbar-web-authn-anchor =
+    .tooltiptext = Apri pannello autenticazione web
 felt-window-title = { -brand-short-name } — Accesso
 felt-sso-title = Accedi
 felt-sso-input-email =
