@@ -7,6 +7,10 @@ about-policies-title = এন্টারপ্রাইজ নীতি
 active-policies-tab = সক্রিয়
 errors-tab = ত্রুটি
 documentation-tab = ডকুমেন্টেশন
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = সক্রিয়
 errors-tab-title =
     .title = ত্রুটি
 documentation-tab-title =
