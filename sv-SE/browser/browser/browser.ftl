@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Hantera bokmärken
 quickactions-cmd-bookmarks = bokmärken
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Rensa senaste historik
+quickactions-cmd-clearrecenthistory2 = kakor, rensa kakor, cache, rensa cache, webbläsardata, rensa webbläsardata, historik, rensa senaste historik
 quickactions-cmd-clearrecenthistory = rensa närliggande historik, historik
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Rensa historik
