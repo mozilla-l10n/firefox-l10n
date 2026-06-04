@@ -7,6 +7,14 @@ about-policies-title = Qurumsal Siyasetler
 active-policies-tab = Faal
 errors-tab = Hatalar
 documentation-tab = Tavsiq
+# These title attributes label the navigation buttons when the moz-page-nav
+# sidebar is collapsed and the visible button text is hidden.
+active-policies-tab-title =
+    .title = Faal
+errors-tab-title =
+    .title = Hatalar
+documentation-tab-title =
+    .title = Tavsiq
 no-specified-policies-message = Qurumsal Siyasetler hızmeti faaldir amma qabilleştirilgen siyasetler yoq.
 inactive-message = Qurumsal Siyasetler hızmeti ğayrı-faaldir.
 policy-name = Siyaset Adı
