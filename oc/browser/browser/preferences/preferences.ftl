@@ -713,6 +713,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activitat recenta
 home-prefs-recent-activity-description = Una seleccion de sites e contenguts recents
+home-prefs-recent-activity-select =
+    .aria-label = Activitat recenta
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
