@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Yer imlerini yönet
 quickactions-cmd-bookmarks = yer imleri
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Yakın geçmişi temizle
+quickactions-cmd-clearrecenthistory2 = çerezleri temizle, önbellek, önbelleği temizle, gezinti verilerini temizle, geçmiş, yakın geçmişi temizle
 quickactions-cmd-clearrecenthistory = yakın geçmişi temizle, geçmiş
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geçmişi temizle

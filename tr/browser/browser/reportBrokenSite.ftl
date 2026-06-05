@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Bozuk siteyi rapor et
 report-broken-site-panel-intro-text = Raporunuz { -brand-product-name } tarayıcısındaki sorunları anlayıp düzeltmemize, böylece tarayıcıyı herkes için iyileştirmemize için yardımcı oluyor.
 report-broken-site-panel-learn-more-link = Daha fazla bilgi alın
+report-broken-site-panel-url-label = Bozuk sitenin adresi
 report-broken-site-panel-reason-intro-text = Ne çalışmıyor?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Site açılmıyor

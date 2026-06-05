@@ -244,3 +244,8 @@ privacy-metrics-empty = Bu hafta hiç takip kodu engellenmedi. Siz internette ge
 privacy-metrics-loading = Koruma istatistikleri yükleniyor…
 privacy-metrics-error = Koruma istatistikleri yüklenemedi.
 privacy-metrics-private-window = { -brand-short-name } gizli pencerelerde takip kodlarını engellemeye devam eder ama neleri engellediğinin kaydını tutmaz.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = { -mozilla-vpn-brand-name }’i edinin
+protections-vpn-banner-link = { -mozilla-vpn-brand-name }’i edinin

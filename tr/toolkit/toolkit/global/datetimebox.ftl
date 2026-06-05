@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Takvim
+datetime-time =
+    .aria-label = Saat
