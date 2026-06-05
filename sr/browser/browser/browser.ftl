@@ -415,6 +415,9 @@ quickactions-cmd-help = помоћ, подршка
 # Opens the devtools web inspector
 quickactions-inspector2 = Отвори алатке за програмере
 quickactions-cmd-inspector2 = инспектор, алатке за програмере
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Изабери боју
+quickactions-cmd-colorpicker = бирач боја, капаљка, одабери боју, color picker, eyedropper, pick color, birač boja, kapaljka, odaberi boju
 # Opens Firefox Library
 quickactions-cmd-library = библиотека,library,biblioteka
 quickactions-library = Отвори библиотеку
@@ -471,6 +474,9 @@ quickactions-cmd-update = ажурирај
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Прикажи извор странице
 quickactions-cmd-viewsource2 = прикажи извор, извор странице
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Отвори { -firefoxlabs-brand-name }
+quickactions-cmd-labs = лабораторије, експеримент, labs, experiment, laboratorije, eksperiment
 quickactions-cmd-viewsource = прикажи извор, извор
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1304,6 +1310,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = kr-kod-{ $domain }
 
 ## EME notification panel
 

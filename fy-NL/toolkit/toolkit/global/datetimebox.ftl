@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Aginda
+datetime-time =
+    .aria-label = Tiid

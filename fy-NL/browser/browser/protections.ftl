@@ -247,6 +247,16 @@ privacy-metrics-private-window = { -brand-short-name } bliuwt trackers blokkearj
 
 ## VPN promo card and banner
 
+protections-vpn-title = Bring privacybeskermingen fierder as de browser
+protections-vpn-header-content = Beskermje jo hiele apparaat mei { -mozilla-vpn-brand-name }. Mei ien tik wurdt al it ferkear fersifere en jo lokaasje ferburgen.
 protections-get-vpn-link = { -mozilla-vpn-brand-name } downloade
 protections-vpn-title-subscribed = VPN: Abonnearre
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] It gebrûk fan { -mozilla-vpn-brand-name } fersiferet al jo ferkear en ferberget jo lokaasje – op maksimaal { $count } apparaten. Helje it measte út jo abonnemint – foegje it ta fan de <a data-l10n-name="playstore-link">Google Play Store</a> of <a data-l10n-name="appstore-link">Apple App Store</a> út.
+    }
+protections-vpn-banner-header = Beskerming dy’t fierder giet as de browser
+protections-vpn-banner-content = Probearje { -mozilla-vpn-brand-name } sûnder risiko en sjoch wêrom’t TechRadar seit: "syn snelheid, ienfâld en lege moanlikse priis meitsje it de muoite wurdich om te probearjen."
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } downloade

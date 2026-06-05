@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Wegerje
     .accesskey = W
 webext-perms-host-description-all-urls = Jo gegevens foar alle websites benaderje
+webext-perms-host-description-file-urls = Lokale bestannen op jo kompjûter benaderje
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Jo gegevens foar alle websites yn it domein { $domain } benaderje
