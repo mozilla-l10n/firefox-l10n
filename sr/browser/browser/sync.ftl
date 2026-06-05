@@ -42,6 +42,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Омогућите усклађивање да бисте послали језичак
 fxa-menu-send-to-mobile-connect-phone2 = Повежите свој телефон
 fxa-menu-send-to-mobile-device-missing2 = Не видите свој уређај?
+fxviewtabrow-send-to-mobile-not-verified = Налог није потврђен
+fxviewtabrow-send-to-mobile-verify-account = Потврдите ваш налог
 fxa-menu-send-to-mobile-turn-on-sync = Укључите усклађивање за слање језичака
 fxa-menu-send-to-mobile-connect-device = Повежите уређај за слање језичака
 # Variables:

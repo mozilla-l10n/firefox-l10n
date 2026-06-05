@@ -270,3 +270,21 @@ privacy-metrics-empty = Ове седмице није блокиран није
 privacy-metrics-loading = Учитавање статистике заштите…
 privacy-metrics-error = Не могу да учитам статистику заштите.
 privacy-metrics-private-window = { -brand-short-name } наставља да блокира пратиоце у приватним прозорима, али не води евиденцију о томе шта је блокирано.
+
+## VPN promo card and banner
+
+protections-vpn-title = Понесите додатну заштиту са собом, ван вашег прегледача
+protections-vpn-header-content = Заштитите цео свој уређај помоћу { -mozilla-vpn-brand-name }. Један додир шифрује сав саобраћај и сакрива вашу локацију.
+protections-get-vpn-link = Набавите { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = ВПН: претплаћен
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Коришћење { -mozilla-vpn-brand-name } шифрује сав ваш саобраћај и скрива вашу локацију, на највише { $count } уређајем. Искористите своју претплату на најбољи начин, додајте га из <a data-l10n-name="playstore-link">Google Play продавнице</a> или <a data-l10n-name="appstore-link">Apple App Store-а</a>.
+        [few] Коришћење { -mozilla-vpn-brand-name } шифрује сав ваш саобраћај и скрива вашу локацију, на највише { $count } уређаја. Искористите своју претплату на најбољи начин, додајте га из <a data-l10n-name="playstore-link">Google Play продавнице</a> или <a data-l10n-name="appstore-link">Apple App Store-а</a>.
+       *[other] Коришћење { -mozilla-vpn-brand-name } шифрује сав ваш саобраћај и скрива вашу локацију, на највише { $count } уређаја. Искористите своју претплату на најбољи начин, додајте га из <a data-l10n-name="playstore-link">Google Play продавнице</a> или <a data-l10n-name="appstore-link">Apple App Store-а</a>.
+    }
+protections-vpn-banner-header = Заштита која превазилази прегледач
+protections-vpn-banner-content = Испробајте { -mozilla-vpn-brand-name } без ризика и уверите се зашто TechRadar каже да „његова брзина, једноставност и ниска месечна цена чине га вредним пажње“.
+protections-vpn-banner-link = Набавите { -mozilla-vpn-brand-name }

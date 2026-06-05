@@ -82,6 +82,8 @@ fxviewtabrow-send-to-mobile-enable-sync2 = Омогућите усклађива
 fxviewtabrow-send-to-mobile-connect-phone2 = Повежите свој телефон
 fxviewtabrow-send-to-mobile-connect-device = Повежите уређај за слање језичака
 fxviewtabrow-send-to-mobile-device-missing2 = Не видите свој уређај?
+fxviewtabrow-send-to-mobile-not-verified = Налог није потврђен
+fxviewtabrow-send-to-mobile-verify-account = Потврдите налог
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = ВИ чет-бот
 menu-view-contextual-password-manager =
     .label = Лозинке
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Отворени језичци
 sidebar-options-menu-button =
     .title = Отвори мени
 
@@ -141,6 +146,11 @@ sidebar-menu-history-label =
     .label = Историја
 sidebar-menu-synced-tabs-label =
     .label = Језичци са других уређаја
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Отворени језичци
 sidebar-menu-bookmarks-label =
     .label = Обележивачи
 sidebar-menu-customize-label =
@@ -187,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Историја
 sidebar-menu-syncedtabs-header =
     .heading = Језичци са других уређаја
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Отворени језичци
 sidebar-menu-cpm-header =
     .heading = Лозинке
 sidebar-menu-bookmarks-header =
@@ -206,6 +220,13 @@ sidebar-bookmarks-folder-mobile = Мобилни обележивачи
 sidebar-customize-title = Прилагоди бочни панел
 sidebar-history-title = Историја
 sidebar-syncedtabs-title = Језичци са других уређаја
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Отворени језичци
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Закачени језичци
 
 ## Context for closing synced tabs when hovering over the items
 
