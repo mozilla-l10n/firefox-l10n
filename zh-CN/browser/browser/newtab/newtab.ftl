@@ -909,7 +909,7 @@ newtab-sports-widget-menu-view-results = 查看比赛结果
 newtab-sports-widget-menu-key-dates = 重要日期
 newtab-sports-widget-menu-learn-more = 详细了解
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
-newtab-sports-widget-keep-tabs = 持续关注世界杯
+newtab-sports-widget-keep-tabs = 全程关注世界杯
 newtab-sports-widget-get-updates = 获取实时赛况等信息。
 newtab-sports-widget-view-schedule =
     .label = 查看赛程
@@ -937,6 +937,8 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-team-name-eliminated = { $teamName }（已淘汰）
 newtab-sports-widget-view-all =
     .label = 查看全部
+newtab-sports-widget-show-less =
+    .label = 收起
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = 仅显示关注的球队
