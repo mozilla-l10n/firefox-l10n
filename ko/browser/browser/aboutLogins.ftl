@@ -232,7 +232,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-       *[other] { $count }개의 로그인을 삭제하시겠습니까?
+       *[other] 로그인 { $count }개를 삭제하시겠습니까?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
@@ -241,7 +241,7 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-       *[other] 모든 기기에서 { $count }개의 로그인을 삭제하시겠습니까?
+       *[other] 모든 기기에서 로그인 { $count }개를 삭제하시겠습니까?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
