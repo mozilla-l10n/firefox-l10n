@@ -38,7 +38,7 @@ protection-report-manage-protections = Behandle innstillinger
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = En graf som inneholder det totale antallet for hver type av sporere som har blitt blokkert denne uken.
+graph-legend-description = En graf som viser det totale antallet blokkerte sporere av hver type denne uken.
 social-tab-title = Sporing via sosiale medier
 social-tab-contant = Sosiale nettverk plasserer sporere på andre nettsteder for å følge det du gjør og ser på nettet. Dette gjør at sosiale media-selskaper kan lære mer om deg utover det du deler på profilene dine på sosiale medier. <a data-l10n-name="learn-more-link">Les mer</a>
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
@@ -235,7 +235,7 @@ privacy-metrics-social =
         [one] { $count } sporer via sosiale medier
        *[other] { $count } sporere via sosiale medier
     }
-privacy-metrics-empty = Ingen sporere blokkert denne uken. { -brand-short-name } beskytter deg mot følgende trusler mens du surfer.
+privacy-metrics-empty = Ingen sporere ble blokkert denne uken. { -brand-short-name } beskytter deg mot følgende trusler når du surfer.
 privacy-metrics-loading = Laster inn beskyttelsesstatistikk …
 privacy-metrics-error = Klarte ikke å laste inn beskyttelsesstatistikk.
 privacy-metrics-private-window = { -brand-short-name } fortsetter å blokkere sporere i private vinduer, men lagrer ikke en oversikt over hva som ble blokkert.
