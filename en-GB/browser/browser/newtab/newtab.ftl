@@ -834,7 +834,7 @@ newtab-widget-section-show-more =
 # Button shown when the widgets row is expanded to multiple rows,
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
-    .label = Show less widgets
+    .label = Show fewer widgets
 newtab-widget-lists-name-default = Checklist
 
 ## Strings introduced by the Nova redesign of the Timer widget
