@@ -129,6 +129,8 @@ private-browsing-description2 =
             Нови додаци које додате у програм { -brand-short-name } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
             <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
     }
+aboutaddons-sidebar =
+    .heading = Додаци
 addon-category-discover = Препоруке
 addon-category-discover-title =
     .title = Препоруке
@@ -478,6 +480,10 @@ addon-permissions-empty = Овај додатак не захтева никак
 addon-permissions-required = Потребне дозволе за основну функционалност:
 addon-permissions-optional = Додатне дозволе за додатну функционалност:
 addon-permissions-learnmore = Сазнајте више о дозволама
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Неким овлашћењима управља ваша организација.
 recommended-extensions-heading = Препоручени додаци
 recommended-themes-heading = Препоручене теме
 # Variables:

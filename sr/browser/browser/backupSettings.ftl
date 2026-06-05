@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Како обновити:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Отворите мени апликације ☰ и идите на Поставке > Sync
+backup-file-moz-browser-restore-step-2-1 = Кликните на „Врати податке“ и изаберите ову датотеку
 backup-file-moz-browser-restore-step-2 = Кликните на „Изабери резервну датотеку” и изаберите ову датотеку
 backup-file-moz-browser-restore-step-3 = Поново покрените { -brand-short-name } када се то затражи
 backup-file-other-browser-restore-step-1 = Преузмите и инсталирајте { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Преузми
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Покрените { -brand-short-name }, отворите мени апликације ☰ и идите на Поставке > Sync
+backup-file-other-browser-restore-step-3-1 = Кликните на „Врати податке“ и изаберите ову датотеку
 backup-file-other-browser-restore-step-3 = Кликните на „Изабери резервну датотеку” и изаберите ову датотеку
 backup-file-other-browser-restore-step-4 = Поново покрените { -brand-short-name } када се то затражи
 

@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Blêdwizers beheare
 quickactions-cmd-bookmarks = blêdwizers
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Resinte skiednis wiskje
+quickactions-cmd-clearrecenthistory2 = cookies, cookies wiskje, buffer, buffer wiskje, navigaasjegegevens, navigaasjegegevens wiskje, skiednis, resinte skiednis wiskje
 quickactions-cmd-clearrecenthistory = resinte skiednis wiskje, skiednis
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skiednis wiskje
@@ -416,6 +417,7 @@ quickactions-inspector2 = Developer Tools iepenje
 quickactions-cmd-inspector2 = inspector, devtools, ûntwikkelersark
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Kies in kleur
+quickactions-cmd-colorpicker = kleurkiezer, pipet, kleur kieze
 # Opens Firefox Library
 quickactions-cmd-library = biblioteek
 quickactions-library = Biblioteek iepenje

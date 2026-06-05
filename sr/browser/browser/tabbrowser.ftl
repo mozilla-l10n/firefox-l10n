@@ -395,6 +395,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = Средите своје картице
 tab-groups-list-empty-description = Превуците једну картицу на другу или кликните десним тастером миша на картицу да бисте започели организовање. Сачуваћемо ваше групе овде како бисте их касније могли лако пронаћи.
 tab-groups-list-empty-button = Направи групу језичака
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Нова група
 
 ## Open/saved tab group context menu
 

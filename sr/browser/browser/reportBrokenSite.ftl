@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Пријавите неисправан сајт
 report-broken-site-panel-intro-text = Ваш извештај нам помаже да разумемо и поправимо проблеме у { -brand-product-name } како бисмо га учинили бољим за све.
 report-broken-site-panel-learn-more-link = Сазнајте више
+report-broken-site-panel-url-label = Адреса сломљене странице
 report-broken-site-panel-reason-intro-text = Шта не ради?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Веб сајт се не учитава

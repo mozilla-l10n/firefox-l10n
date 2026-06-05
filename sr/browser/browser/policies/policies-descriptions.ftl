@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Онемогући приватно прегле
 policy-DisableProfileImport = Онемогући наредбу у менију за увоз података из других прегледача.
 policy-DisableProfileRefresh = Онемогући дугме за освежавање програма { -brand-short-name } на страни about:support.
 policy-DisableRemoteImprovements = Спречи { -brand-short-name } да примењује промене перформанси, стабилности и функција између ажурирања.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Онемогућите даљинска подешавања.
 policy-DisableSafeMode = Онемогући могућност поновног покретања програма у безбедном режиму. Напомена: онемогућавање уласка у безбедни режим преко тастера Shift се може онемогућити на Windows-у само коришћењем групне полисе.
 policy-DisableSecurityBypass = Спречи кориснику заобилажење одређених безбедносних упозорења.
 policy-DisableSetAsDesktopBackground = Онемогући наредбу менија „Постави на радну површину“ за слике.

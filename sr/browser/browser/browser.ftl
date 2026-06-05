@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Управљај обележивачима
 quickactions-cmd-bookmarks = обележивачи
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Обриши недавну историју
+quickactions-cmd-clearrecenthistory2 = колачићи, обриши колачиће, кеш, обриши кеш, подаци прегледања, обриши податке прегледања, историја, обриши скорашњу историју, cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history, kolačići, obriši kolačiće, keš, obriši keš, podaci pregledanja, obriši podatke pregledanja, istorija, obriši skorašnju istoriju
 quickactions-cmd-clearrecenthistory = обриши недавну историју, историја
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Обриши историју

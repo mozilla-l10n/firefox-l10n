@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Folgjende
 link-preview-onboarding-callout-title = Nij: keppelingen yndrukt hâlde foar in foarbyld
 link-preview-onboarding-callout-description = Besjoch in koarte beskriuwing, lêstiid en mear om te besluten oft in keppeling it klikken wurdich is. Ek beskikber mei de rjochtermûsknop.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Mij rommel mei ljepblêdgroepen
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Groepearje jo ljepblêden op taak of ûnderwerp. Sleep der mear nei yn wylst jo sneupe.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = In groep starte
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane

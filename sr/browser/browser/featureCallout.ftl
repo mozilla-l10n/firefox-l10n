@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Следеће
 link-preview-onboarding-callout-title = Ново: Кликните и задржите за преглед веза
 link-preview-onboarding-callout-description = Погледајте кратак опис, време читања и још много тога како бисте одлучили да ли је веза вредна клика. Такође доступно на десни клик.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Смањите неред помоћу група језичака
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Групишите језичке по задатку или теми. Увлачите још у ходу.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Покрени групу
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Прикажи наслове језичака у бочној површи
