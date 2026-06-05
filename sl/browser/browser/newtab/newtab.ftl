@@ -851,6 +851,7 @@ newtab-sports-widget-choose-wallpaper =
 newtab-sports-widget-cancel = Prekliči
 newtab-sports-widget-back-button =
     .aria-label = Nazaj
+newtab-sports-widget-quarter-finals = Četrtfinale
 newtab-sports-widget-cancelled = Odpovedano
 newtab-sports-widget-information = Podatki o tekmi
 newtab-sports-widget-view-results-link = Prikaži izide
