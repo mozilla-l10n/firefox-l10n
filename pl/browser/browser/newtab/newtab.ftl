@@ -1031,6 +1031,7 @@ newtab-sports-widget-world-cup-champions = Mistrzowie świata 2026
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Koniec meczu
 newtab-sports-widget-match-halftime = Przerwa
+newtab-sports-widget-match-extra-time = Dogrywka
 newtab-sports-widget-match-penalties = Rzuty karne
 
 ## Accessible labels for match rows in the sports widget. These are read by
@@ -1059,6 +1060,28 @@ newtab-sports-widget-match-aria-label-results-penalties =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } kontra { $awayTeam }, { DATETIME($date, day: "numeric", month: "long") } o { DATETIME($date, hour: "numeric", minute: "numeric") }
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bośnia i Hercegowina
+newtab-sports-widget-team-name-label-civ =
+    .label = Wybrzeże Kości Słoniowej
+newtab-sports-widget-team-name-label-cod =
+    .label = Demokratyczna Republika Konga
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglia
+newtab-sports-widget-team-name-label-sco =
+    .label = Szkocja
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Wybierz tapetę
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Dodaj widżety
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1120,6 +1143,19 @@ newtab-clock-widget-button-save = Zachowaj
 newtab-clock-widget-button-remove-clock =
     .title = Usuń zegar
     .aria-label = Usuń zegar
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, nazwa: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Dodaj zegar
 newtab-clock-widget-edit-clock-form =
