@@ -223,6 +223,10 @@ sidebar-syncedtabs-title = File de pe alte dispozitive
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
 # currently open in the browser.
 sidebar-opentabs-title = File deschise
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = File fixate
 
 ## Context for closing synced tabs when hovering over the items
 

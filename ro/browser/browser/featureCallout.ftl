@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Înainte
 link-preview-onboarding-callout-title = Nou: dă clic și ține apăsat pentru a previzualiza linkurile
 link-preview-onboarding-callout-description = Vezi o mică descriere, timp de citire și multe altele pentru a decide dacă un link merită deschis. Disponibil și prin clic dreapta.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Redu dezordinea cu ajutorul grupurilor de file
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Grupează filele după sarcină sau subiect. Adaugă altele prin tragere pe parcurs.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Începe un grup
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Afișează titlurile filelor în bara laterală

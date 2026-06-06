@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Gestionează marcajele
 quickactions-cmd-bookmarks = marcaje
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Șterge istoricul recent
+quickactions-cmd-clearrecenthistory2 = cookie-uri, șterge cookie-uri, memorie cache, șterge memoria cache, date de navigare, șterge date de navigare, istoric, șterge istoric recent
 quickactions-cmd-clearrecenthistory = șterge istoricul recent, istoric
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Șterge istoricul

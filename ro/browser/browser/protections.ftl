@@ -271,4 +271,14 @@ protections-vpn-title = Du protecția confidențialității dincolo de browser
 protections-vpn-header-content = Protejează-ți întregul dispozitiv cu { -mozilla-vpn-brand-name }. O singură atingere criptează tot traficul și îți ascunde locația.
 protections-get-vpn-link = Obține { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonat
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] { -mozilla-vpn-brand-name } îți criptează tot traficul și îți ascunde locația — pe maxim { $count } dispozitiv. Profită la maxim de abonament — adaugă-l din <a data-l10n-name="playstore-link">Google Play Store</a> sau <a data-l10n-name="appstore-link">Apple App Store</a>.”
+        [few] { -mozilla-vpn-brand-name } îți criptează tot traficul și îți ascunde locația — pe maxim { $count } dispozitive. Profită la maxim de abonament — adaugă-l din  <a data-l10n-name="playstore-link">Google Play Store</a> sau <a data-l10n-name="appstore-link">Apple App Store</a>.”
+       *[other] { -mozilla-vpn-brand-name } îți criptează tot traficul și îți ascunde locația — pe maxim { $count } de dispozitive. Profită la maxim de abonament — adaugă-l din  <a data-l10n-name="playstore-link">Google Play Store</a> sau <a data-l10n-name="appstore-link">Apple App Store</a>.”
+    }
+protections-vpn-banner-header = Protecție care se extinde dincolo de browser
+protections-vpn-banner-content = Încearcă { -mozilla-vpn-brand-name } fără riscuri și vezi de ce TechRadar zice: „viteza, simplitatea și prețul lunar scăzut îl fac să merite o încercare”.
 protections-vpn-banner-link = Obține { -mozilla-vpn-brand-name }
