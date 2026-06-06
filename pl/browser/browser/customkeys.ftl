@@ -14,6 +14,7 @@ customkeys-reset-all = Przywróć domyślne skróty klawiaturowe
 customkeys-conflict-confirm = Ten klawisz jest już przypisany do „{ $conflict }”. Czy go zastąpić?
 customkeys-reset-all-confirm = Czy na pewno przywrócić domyślne skróty klawiaturowe?
 customkeys-file-duplicate-tab = Duplikuj kartę
+customkeys-file-focus-search = Przejdź do paska wyszukiwania
 customkeys-history-reopen-tab = Przywróć ostatnią zamkniętą kartę
 customkeys-history-reopen-window = Przywróć ostatnie zamknięte okno
 customkeys-sidebar-toggle = Przełącz panel boczny

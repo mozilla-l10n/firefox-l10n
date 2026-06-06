@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Kalendarz
+datetime-time =
+    .aria-label = Czas

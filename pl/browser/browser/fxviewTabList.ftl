@@ -80,4 +80,12 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Włącz dźwięk
 fxviewtabrow-send-to-mobile-enable-sync2 = Włącz synchronizację, aby wysłać kartę
 fxviewtabrow-send-to-mobile-connect-phone2 = Połącz swój telefon
+fxviewtabrow-send-to-mobile-connect-device = Połącz urządzenie, aby wysyłać karty
 fxviewtabrow-send-to-mobile-device-missing2 = Nie ma tutaj Twojego urządzenia?
+fxviewtabrow-send-to-mobile-not-verified = Konto nie zostało zweryfikowane
+fxviewtabrow-send-to-mobile-verify-account = Zweryfikuj konto
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Zaloguj się, aby wysyłać karty
+fxviewtabrow-send-to-mobile-turn-on-sync = Włącz synchronizację, aby wysyłać karty
