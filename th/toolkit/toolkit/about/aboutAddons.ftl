@@ -120,6 +120,8 @@ private-browsing-description2 =
     ในขณะที่เรียกดูแบบส่วนตัว และจะไม่สามารถเข้าถึงกิจกรรมออนไลน์ของคุณที่นั่นได้ เราได้ทำการเปลี่ยนแปลง
     นี้เพื่อรักษาความเป็นส่วนตัวให้กับการเรียกดูแบบส่วนตัวของคุณ
     <label data-l10n-name="private-browsing-learn-more">เรียนรู้วิธีจัดการการตั้งค่าส่วนขยาย</label>
+aboutaddons-sidebar =
+    .heading = ส่วนเสริม
 addon-category-discover = คำแนะนำ
 addon-category-discover-title =
     .title = คำแนะนำ
@@ -478,6 +480,10 @@ addon-permissions-empty = ส่วนขยายนี้ไม่จำเป
 addon-permissions-required = สิทธิ์ที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
 addon-permissions-optional = สิทธิ์เผื่อเลือกสำหรับฟังก์ชันการทำงานเพิ่มเติม:
 addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับการกำหนดสิทธิ์
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = การกำหนดสิทธิ์บางอย่างถูกจัดการโดยองค์กรของคุณ
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
 recommended-themes-heading = ชุดตกแต่งที่แนะนำ
 # Variables:

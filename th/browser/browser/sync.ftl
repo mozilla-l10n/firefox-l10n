@@ -39,6 +39,8 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = เปิดใช้งานซิงค์เพื่อส่งแท็บ
 fxa-menu-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ
 fxa-menu-send-to-mobile-device-missing2 = ไม่เห็นอุปกรณ์ของคุณ?
+fxviewtabrow-send-to-mobile-not-verified = บัญชีไม่ได้รับการยืนยัน
+fxviewtabrow-send-to-mobile-verify-account = ยืนยันบัญชีของคุณ
 fxa-menu-send-to-mobile-turn-on-sync = เปิดการซิงค์เพื่อส่งแท็บ
 fxa-menu-send-to-mobile-connect-device = เชื่อมต่อกับอุปกรณ์เพื่อส่งแท็บ
 # Variables:

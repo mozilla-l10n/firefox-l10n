@@ -337,6 +337,8 @@ tab-group-overflow-count-tooltip =
 tab-groups-list-empty-header = จัดระเบียบแท็บของคุณ
 tab-groups-list-empty-description = ลากแท็บหนึ่งไปวางซ้อนอีกแท็บหรือคลิกขวาที่แท็บเพื่อเริ่มจัดระเบียบ เราจะบันทึกกลุ่มแท็บของคุณไว้เพื่อให้ง่ายต่อการค้นหาในภายหลัง
 tab-groups-list-empty-button = สร้างกลุ่มแท็บ
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = กลุ่มใหม่
 
 ## Open/saved tab group context menu
 

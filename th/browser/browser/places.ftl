@@ -263,5 +263,10 @@ places-search-downloads =
 
 places-locked-prompt = ระบบที่คั่นหน้าและประวัติจะไม่ทำงานเนื่องจากหนึ่งในไฟล์ของ { -brand-short-name } มีการใช้งานโดยแอปพลิเคชันอื่น ซอฟต์แวร์ความปลอดภัยบางตัวสามารถก่อให้เกิดปัญหานี้
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = แบ่งปันโฟลเดอร์
+    .badge = ใหม่
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = แบ่งปันโฟลเดอร์

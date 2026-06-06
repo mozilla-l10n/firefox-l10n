@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = ปฏิทิน
+datetime-time =
+    .aria-label = เวลา

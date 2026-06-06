@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = รายงานไซต์ที่ใช้งานไม่ได้
 report-broken-site-panel-intro-text = รายงานของคุณช่วยให้เราเข้าใจและแก้ไขปัญหาใน { -brand-product-name } เพื่อให้ดีขึ้นสำหรับทุกคน
 report-broken-site-panel-learn-more-link = เรียนรู้เพิ่มเติม
+report-broken-site-panel-url-label = URL ของไซต์ที่ใช้งานไม่ได้
 report-broken-site-panel-reason-intro-text = มีอะไรที่ใช้งานไม่ได้หรือเปล่า?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = หน้าเว็บไม่โหลด
