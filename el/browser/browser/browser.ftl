@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Διαχείριση σελιδοδεικτών
 quickactions-cmd-bookmarks = σελιδοδείκτες, αγαπημένα
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Απαλοιφή πρόσφατου ιστορικού
+quickactions-cmd-clearrecenthistory2 = cookies, διαγραφή cookies, κρυφή μνήμη, εκκαθάριση κρυφής μνήμης, δεδομένα περιήγησης, εκκαθάριση δεδομένων περιήγησης, ιστορικό, εκκαθάριση πρόσφατου ιστορικού
 quickactions-cmd-clearrecenthistory = απαλοιφή πρόσφατου ιστορικού, ιστορικό
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Απαλοιφή ιστορικού

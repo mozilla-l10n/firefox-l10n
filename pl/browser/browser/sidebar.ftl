@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = Czatbot SI
 menu-view-contextual-password-manager =
     .label = Hasła
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Otwarte karty
 sidebar-options-menu-button =
     .title = Otwórz menu
 
@@ -141,6 +146,11 @@ sidebar-menu-history-label =
     .label = Historia
 sidebar-menu-synced-tabs-label =
     .label = Karty z innych urządzeń
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Otwarte karty
 sidebar-menu-bookmarks-label =
     .label = Zakładki
 sidebar-menu-customize-label =
@@ -187,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Karty z innych urządzeń
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Otwarte karty
 sidebar-menu-cpm-header =
     .heading = Hasła
 sidebar-menu-bookmarks-header =
@@ -206,6 +220,13 @@ sidebar-bookmarks-folder-mobile = Zakładki z telefonu
 sidebar-customize-title = Dostosuj panel boczny
 sidebar-history-title = Historia
 sidebar-syncedtabs-title = Karty z innych urządzeń
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Otwarte karty
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Przypięte karty
 
 ## Context for closing synced tabs when hovering over the items
 
