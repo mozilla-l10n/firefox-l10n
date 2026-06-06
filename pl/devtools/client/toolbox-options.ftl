@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Skracanie atrybutów DOM
 options-collapse-attrs-tooltip =
     .title = Skraca długie nazwy atrybutów DOM w inspektorze
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Wyświetlanie komentarzy
+options-show-comments-tooltip =
+    .title = Wyświetla węzły komentarzy w inspektorze
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Kliknięcie i przeciągnięcie, aby zmienić rozmiar
 options-inspector-draggable-properties-tooltip =
