@@ -27,8 +27,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Strona poprosiła o wyłączenie blokowania reklam
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Przeglądarka nie jest obsługiwana lub została zablokowana
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Strona jest próbą oszustwa
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Coś innego
+report-broken-site-panel-instructions-other = Szczegółowo opisz problem, aby pomóc nam go zbadać.
+report-broken-site-panel-instructions-other-optional = Szczegółowo opisz problem, aby pomóc nam go zbadać (opcjonalne).
+report-broken-site-panel-description2 =
+    .placeholder = Co się stało? Co powinno się było stać? Powiedz nam, jak możemy powtórzyć problem.
 report-broken-site-panel-send-more-info-button =
     .label = Wyślij więcej informacji
 report-broken-site-panel-intro = Pomóż ulepszyć { -brand-product-name(case: "acc") }. { -vendor-short-name } wykorzystuje przesłane przez użytkowników informacje do rozwiązywania problemów z witrynami.
@@ -65,6 +71,8 @@ report-broken-site-panel-button-cancel =
     .label = Anuluj
 report-broken-site-panel-button-okay =
     .label = OK
+report-broken-site-panel-button-send-report =
+    .label = Wyślij zgłoszenie
 report-broken-site-panel-button-send =
     .label = Wyślij
 report-broken-site-panel-report-sent-label = Zgłoszenie zostało wysłane
@@ -73,6 +81,19 @@ report-broken-site-panel-report-sent-header =
     .title = Zgłoszenie zostało wysłane
 report-broken-site-panel-report-sent-text = Dziękujemy, że pomagasz { -brand-product-name(case: "dat") } uczynić Internet bardziej otwartym, dostępnym i lepszym dla wszystkich.
 report-broken-site-panel-invalid-url-label = Proszę podać prawidłowy adres
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Wpisz co najmniej { $minLength } znak
+        [few] Wpisz co najmniej { $minLength } znaki
+       *[many] Wpisz co najmniej { $minLength } znaków
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Wyślij zrzut ekranu
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Wyślij listę elementów zablokowanych przez ochronę przed śledzeniem
+report-broken-site-panel-url-input-label =
+    .aria-label = Adres zgłaszanej strony
 report-broken-site-panel-missing-reason-label = Proszę wybrać powód
 report-broken-site-panel-blocked-trackers-label =
     .label = Wyślij adresy zablokowane przez ochronę przed śledzeniem

@@ -372,6 +372,8 @@ newtab-custom-widget-sports-toggle =
     .label = Mistrzostwa świata w piłce nożnej
 newtab-custom-widget-clock-toggle =
     .label = Zegar
+newtab-custom-widget-sports-toggle2 =
+    .label = Sport
 newtab-custom-widget-section-title = Widżety
 newtab-custom-widget-section-toggle =
     .label = Widżety
@@ -767,6 +769,9 @@ newtab-widget-lists-input-menu-delete = Usuń
 newtab-widget-lists-input-menu-edit = Edytuj
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Edytuj pozycję
+newtab-widget-lists-edit-clear =
+    .aria-label = Anuluj
+    .title = Anuluj
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Utwórz nową listę
@@ -791,6 +796,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widżety
 newtab-widget-menu-hide = Ukryj widżet
 newtab-widget-menu-change-size = Zmień rozmiar
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Przenieś
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = W lewo
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = W prawo
 newtab-widget-size-small = Mały
 newtab-widget-size-medium = Średni
 newtab-widget-size-large = Duży
@@ -807,10 +821,21 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Menu widżetów
     .aria-label = Otwórz menu widżetów
+newtab-widget-add-widgets-button =
+    .aria-label = Dodaj widżet
+    .title = Dodaj widżet
 newtab-widget-section-menu-manage = Zarządzaj widżetami
 newtab-widget-section-menu-hide-all = Ukryj widżety
 newtab-widget-section-menu-learn-more = Więcej informacji
 newtab-widget-section-feedback = Powiedz nam, co sądzisz
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Więcej widżetów
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Mniej widżetów
 newtab-widget-lists-name-default = Lista rzeczy do zrobienia
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -901,6 +926,7 @@ newtab-widget-timer-celebration-message-break = Czas się skoncentrować!
 ##
 
 newtab-sports-widget-menu-follow-teams = Obserwuj drużyny
+newtab-sports-widget-menu-view-schedule = Harmonogram
 newtab-sports-widget-menu-view-upcoming = Następne
 newtab-sports-widget-menu-view-results = Wyniki
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -930,9 +956,41 @@ newtab-sports-widget-search-country =
     .placeholder = Wyszukaj kraj
     .aria-label = Wyszukaj kraj
 newtab-sports-widget-cancel = Anuluj
+newtab-sports-widget-back-button =
+    .aria-label = Wstecz
 newtab-sports-widget-done-button =
     .label = Gotowe
+newtab-sports-widget-view-all =
+    .label = Wszystkie
+newtab-sports-widget-show-less =
+    .label = Mniej
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Tylko obserwowane drużyny
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Oglądaj
+    .title = Oglądaj na żywo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Oglądaj na żywo
+    .title = Oglądaj na żywo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Zamknij
+    .title = Zamknij
 newtab-sports-widget-group-stage = Faza grupowa
+newtab-sports-widget-group-a = Grupa A
+newtab-sports-widget-group-b = Grupa B
+newtab-sports-widget-group-c = Grupa C
+newtab-sports-widget-group-d = Grupa D
+newtab-sports-widget-group-e = Grupa E
+newtab-sports-widget-group-f = Grupa F
+newtab-sports-widget-group-g = Grupa G
+newtab-sports-widget-group-h = Grupa H
+newtab-sports-widget-group-i = Grupa I
+newtab-sports-widget-group-j = Grupa J
+newtab-sports-widget-group-k = Grupa K
+newtab-sports-widget-group-l = Grupa L
 newtab-sports-widget-round-32 = Pierwsza runda
 newtab-sports-widget-round-16 = Druga runda
 newtab-sports-widget-quarter-finals = Ćwierćfinały
@@ -968,6 +1026,39 @@ newtab-sports-widget-third-place = Trzecie miejsce
 newtab-sports-widget-runner-up = Drugie miejsce
 newtab-sports-widget-champions = Mistrzowie
 newtab-sports-widget-world-cup-champions = Mistrzowie świata 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Koniec meczu
+newtab-sports-widget-match-halftime = Przerwa
+newtab-sports-widget-match-penalties = Rzuty karne
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } kontra { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) kontra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, { DATETIME($date, day: "numeric", month: "long") } o { DATETIME($date, hour: "numeric", minute: "numeric") }
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1038,6 +1129,10 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Wyniki wyszukiwania
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Brak wyników
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
