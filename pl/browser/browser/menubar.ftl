@@ -10,10 +10,12 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Ustawienia…
+menu-application-set-as-default =
+    .label = Ustaw { -brand-shorter-name(case: "acc") } jako domyślną przeglądarkę
 menu-application-services =
     .label = Usługi
 menu-application-hide-this =
-    .label = Ukryj program { -brand-shorter-name }
+    .label = Ukryj { -brand-shorter-name(case: "acc") }
 menu-application-hide-other =
     .label = Ukryj pozostałe
 menu-application-show-all =
@@ -37,7 +39,7 @@ menu-quit =
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = Zakończ program { -brand-shorter-name }
+    .label = Zakończ { -brand-shorter-name(case: "acc") }
 menu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
@@ -288,7 +290,7 @@ menu-tools-sync-now =
     .label = Synchronizuj teraz
     .accesskey = S
 menu-tools-fxa-re-auth =
-    .label = Zaloguj się ponownie w przeglądarce { -brand-product-name }…
+    .label = Zaloguj się ponownie w { -brand-product-name(case: "loc") }…
     .accesskey = Z
 menu-tools-browser-tools =
     .label = Narzędzia przeglądarki

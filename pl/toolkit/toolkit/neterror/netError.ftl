@@ -190,6 +190,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem pod adresem { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nie może połączyć się z serwerem pod adresem <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } nie może połączyć się z serwerem pod adresem <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Serwer <strong>{ $hostname }</strong> zbyt długo nie odpowiada.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
