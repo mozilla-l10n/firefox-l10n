@@ -162,6 +162,18 @@ windows-10-eos-sync-callout-primary-advance-button-label = 下一步
 link-preview-onboarding-callout-title = 新功能：長按鏈結即可預覽內容
 link-preview-onboarding-callout-description = 檢視簡短描述、閱讀時間等資訊，讓您決定該鏈結是否值得一點。也可以用滑鼠右鍵檢視。
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = 使用分頁群組避免畫面雜亂
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
