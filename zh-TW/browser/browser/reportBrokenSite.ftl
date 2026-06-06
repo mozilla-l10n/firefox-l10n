@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = 回報網站問題
 report-broken-site-panel-intro-text = 您的回報內容可幫助我們了解與修正 { -brand-product-name } 的問題，讓所有使用者都能獲得改進。
 report-broken-site-panel-learn-more-link = 更多資訊
+report-broken-site-panel-url-label = 故障網站的網址
 report-broken-site-panel-reason-intro-text = 哪個部分不正常？
 report-broken-site-panel-reason-load-moz-box-button =
     .label = 網站無法載入

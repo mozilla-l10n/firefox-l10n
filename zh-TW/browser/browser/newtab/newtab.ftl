@@ -1041,6 +1041,23 @@ newtab-sports-widget-match-halftime = 中場休息
 newtab-sports-widget-match-extra-time = 加時
 newtab-sports-widget-match-penalties = PK 大戰
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = 上一頁
+    .title = 上一頁
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = 下一頁
+    .title = 下一頁
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = 第 { $index } 場即時賽事，共 { $total } 場
+    .title = 第 { $index } 場即時賽事，共 { $total } 場
+
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:

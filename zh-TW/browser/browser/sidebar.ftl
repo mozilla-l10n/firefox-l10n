@@ -223,6 +223,10 @@ sidebar-syncedtabs-title = 其他裝置的分頁
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
 # currently open in the browser.
 sidebar-opentabs-title = 開啟分頁
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = 釘選分頁
 
 ## Context for closing synced tabs when hovering over the items
 

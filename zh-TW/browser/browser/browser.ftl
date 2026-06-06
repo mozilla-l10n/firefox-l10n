@@ -391,6 +391,7 @@ quickactions-bookmarks2 = 管理書籤
 quickactions-cmd-bookmarks = 書籤, 我的最愛, bookmarks, favorite, my favorite
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 清除最近瀏覽記錄
+quickactions-cmd-clearrecenthistory2 = Cookie, 清除 Cookie, 快取, 清除快取, 上網資料, 瀏覽資料, 網頁資料, 網站資料, 清除上網資料, 清除瀏覽資料, 清除網頁資料, 清除網站資料, 瀏覽紀錄, 瀏覽記錄, 歷史紀錄, 歷史記錄, 清除瀏覽紀錄, 清除瀏覽記錄, 清除歷史紀錄, 清除歷史記錄, cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history
 quickactions-cmd-clearrecenthistory = 清除最近瀏覽記錄, 歷史記錄, 近期記錄, 記錄, 紀錄, clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除瀏覽記錄
