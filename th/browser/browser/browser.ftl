@@ -391,6 +391,7 @@ quickactions-bookmarks2 = จัดการที่คั่นหน้า
 quickactions-cmd-bookmarks = ที่คั่นหน้าที่คั่นหน้า
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ล้างประวัติล่าสุด
+quickactions-cmd-clearrecenthistory2 = คุกกี้, ล้างคุกกี้, แคช, ล้างแคช, ประวัติการเรียกดู, ล้างประวัติการเรียกดู, ประวัติ, ล้างประวัติล่าสุด
 quickactions-cmd-clearrecenthistory = ล้างประวัติล่าสุด, ประวัติ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ล้างประวัติ
@@ -414,6 +415,9 @@ quickactions-cmd-help = ความช่วยเหลือ, สนับส
 # Opens the devtools web inspector
 quickactions-inspector2 = เปิดเครื่องมือนักพัฒนา
 quickactions-cmd-inspector2 = ตัวตรวจสอบ, devtools, เครื่องมือนักพัฒนา
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = เลือกสี
+quickactions-cmd-colorpicker = ตัวเลือกสี, หลอดดูดสี, เลือกสี
 # Opens Firefox Library
 quickactions-cmd-library = ห้องสมุด
 quickactions-library = เปิดห้องสมุด
@@ -470,6 +474,9 @@ quickactions-cmd-update = อัปเดต
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ดูต้นฉบับหน้า
 quickactions-cmd-viewsource2 = ดูต้นฉบับ, ต้นฉบับ, ต้นฉบับหน้า
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = เปิด { -firefoxlabs-brand-name }
+quickactions-cmd-labs = ห้องทดลอง, การทดลอง
 quickactions-cmd-viewsource = ดูต้นฉบับ, ต้นฉบับ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
