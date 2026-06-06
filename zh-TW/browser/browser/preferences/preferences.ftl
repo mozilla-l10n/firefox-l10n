@@ -594,7 +594,7 @@ spellcheck-download-dictionaries =
     .label = 下載字典套件
 spellcheck-promo =
     .heading = 如何進行拼字檢查
-    .message = 對文字欄位按右鍵，即可開關拼字檢察功能或更改語言。不是所有輸入欄位都支援拼字檢查。
+    .message = 對文字欄位按右鍵，即可開關拼字檢查功能或更改語言。不是所有輸入欄位都支援拼字檢查。
 
 ## General Section - Files and Applications
 
