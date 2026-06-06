@@ -38,7 +38,7 @@ protection-report-manage-protections = Handsam innstillingar
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Ein graf som inneheld det totale antalet for kvar type av sporarar som har blitt blokkerte denne veka.
+graph-legend-description = Ein graf som inneheld det totale antalet blokkerte sporarar av kvar type denne veka.
 social-tab-title = Sporing via sosiale medium
 social-tab-contant = Sosiale nettverk plasserer sporarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale mediaselskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium. <a data-l10n-name="learn-more-link">Les meir</a>
 cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar

@@ -799,10 +799,10 @@ newtab-widget-menu-change-size = Endre storleik
 newtab-widget-menu-move = Flytt
 # Submenu item under "Move"; moves the widget one position to the left.
 # RTL locales should translate this as "Right".
-newtab-widget-menu-move-left = Venstre
+newtab-widget-menu-move-left = Til venstre
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
-newtab-widget-menu-move-right = Høgre
+newtab-widget-menu-move-right = Til høgre
 newtab-widget-size-small = liten
 newtab-widget-size-medium = middels
 newtab-widget-size-large = Stor
