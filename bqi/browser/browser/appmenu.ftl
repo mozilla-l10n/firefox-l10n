@@ -255,7 +255,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = و من هساو منتوری خوتووݩ بیاین
 appmenuitem-monitor-title = { -monitor-brand-short-name }
-appmenuitem-monitor-description = گیڌن بپایل نشت دووسمندی
+appmenuitem-monitor-description = گرؽڌن بپایل نقز داده یل
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
 appmenuitem-services-relay-description = داشبورد ره وندن ماسکا ایمیل
