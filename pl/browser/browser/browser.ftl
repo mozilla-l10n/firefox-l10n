@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Zarządzaj zakładkami
 quickactions-cmd-bookmarks = zakładki, ulubione
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Wyczyść historię przeglądania
+quickactions-cmd-clearrecenthistory2 = ciasteczka, cookies, wyczyść ciasteczka, usuń ciasteczka, wyczyść pamięć podręczną, dane przeglądania, wyczyść dane przeglądania, usuń dane przeglądania, historia, wyczyść historię, usuń historię
 quickactions-cmd-clearrecenthistory = wyczyść historię przeglądania, historia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Wyczyść historię
@@ -414,6 +415,9 @@ quickactions-cmd-help = pomoc, wsparcie
 # Opens the devtools web inspector
 quickactions-inspector2 = Otwórz narzędzia dla programistów
 quickactions-cmd-inspector2 = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Wybierz kolor
+quickactions-cmd-colorpicker = wybierz kolor, kroplomierz, wybierak kolorów, selektor kolorów, wybieraczka kolorów
 # Opens Firefox Library
 quickactions-cmd-library = biblioteka
 quickactions-library = Otwórz bibliotekę
@@ -470,6 +474,9 @@ quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, ak
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pokaż źródło strony
 quickactions-cmd-viewsource2 = wyświetl źródło, źródło, źródło strony
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Otwórz { -firefoxlabs-brand-name(case: "acc", capitalization: "lower") }
+quickactions-cmd-labs = laboratorium, laborki, labs, eksperyment
 quickactions-cmd-viewsource = pokaż źródło, źródło, wyświetl źródło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1291,6 +1298,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = kod-qr
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = kod-qr-{ $domain }
 
 ## EME notification panel
 

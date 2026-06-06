@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Jak przywrócić:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Otwórz menu aplikacji ☰ i przejdź do Ustawienia → Synchronizacja
+backup-file-moz-browser-restore-step-2-1 = Kliknij „Przywróć dane” i wybierz ten plik
 backup-file-moz-browser-restore-step-2 = Kliknij „Wybierz plik kopii zapasowej” i wybierz ten plik
 backup-file-moz-browser-restore-step-3 = Uruchom { -brand-short-name(case: "acc") } ponownie, kiedy o to poprosi
 backup-file-other-browser-restore-step-1 = Pobierz i zainstaluj { -brand-short-name(case: "acc") }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Pobierz
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Włącz { -brand-short-name(case: "acc") }, otwórz menu aplikacji ☰ i przejdź do Ustawienia → Synchronizacja
+backup-file-other-browser-restore-step-3-1 = Kliknij „Przywróć dane” i wybierz ten plik
 backup-file-other-browser-restore-step-3 = Kliknij „Wybierz plik kopii zapasowej” i wybierz ten plik
 backup-file-other-browser-restore-step-4 = Uruchom { -brand-short-name(case: "acc") } ponownie, kiedy o to poprosi
 
