@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Zgłoś niepoprawnie działającą stronę
 report-broken-site-panel-intro-text = Twoje zgłoszenie pomoże nam zrozumieć i rozwiązać problemy w { -brand-product-name(case: "loc") }, aby ulepszyć go dla wszystkich.
 report-broken-site-panel-learn-more-link = Więcej informacji
+report-broken-site-panel-url-label = Adres niepoprawnie działającej strony
+report-broken-site-panel-reason-intro-text = Co nie działa?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Strona się nie wczytuje
 # These terms are referring to ecommerce websites
