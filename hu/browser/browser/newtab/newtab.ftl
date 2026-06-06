@@ -1057,6 +1057,23 @@ newtab-sports-widget-match-halftime = Félidő
 newtab-sports-widget-match-extra-time = Hosszabbítás
 newtab-sports-widget-match-penalties = Büntetők
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Előző
+    .title = Előző
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Következő
+    .title = Következő
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = { $index }. élő mérkőzés / { $total }
+    .title = { $index }. élő mérkőzés / { $total }
+
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:

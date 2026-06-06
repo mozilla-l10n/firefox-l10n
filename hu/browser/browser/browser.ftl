@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Könyvjelzők kezelése
 quickactions-cmd-bookmarks = könyvjelzők
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Előzmények törlése
+quickactions-cmd-clearrecenthistory2 = sütik, sütik törlése, gyorsítótár, gyorsítótár ürítése, böngészési adatok, böngészési adatok törlése, előzmények, előzmények törlése
 quickactions-cmd-clearrecenthistory = előzmények törlése, előzmények
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Előzmények törlése

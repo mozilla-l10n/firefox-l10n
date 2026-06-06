@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Hibás webhely bejelentése
 report-broken-site-panel-intro-text = A jelentése segít minket a { -brand-product-name } problémáinak megértésében és javításában, hogy mindenki számára jobbá tegyük.
 report-broken-site-panel-learn-more-link = További tudnivalók
+report-broken-site-panel-url-label = Hibás webhely webcíme
 report-broken-site-panel-reason-intro-text = Mi nem működik?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = A webhely nem töltődik be

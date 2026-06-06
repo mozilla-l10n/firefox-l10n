@@ -246,6 +246,7 @@ privacy-metrics-private-window = A { -brand-short-name } a privát ablakokban is
 
 ## VPN promo card and banner
 
+protections-vpn-title = Kapjon további adatvédelmet a böngészőn túl
 protections-vpn-header-content = Védje meg az egész eszközét a { -mozilla-vpn-brand-name } segítségével. Egy koppintás titkosítja az összes forgalmat, és elrejti a tartózkodási helyét.
 protections-get-vpn-link = A { -mozilla-vpn-brand-name } beszerzése
 protections-vpn-title-subscribed = VPN: Előfizetve
