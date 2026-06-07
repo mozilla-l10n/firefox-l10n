@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = 反馈网站问题
 report-broken-site-panel-intro-text = 您的反馈可帮助我们了解并修复 { -brand-product-name } 中的问题，从而为全体用户改进使用体验。
 report-broken-site-panel-learn-more-link = 详细了解
+report-broken-site-panel-url-label = 问题网站的网址
 report-broken-site-panel-reason-intro-text = 哪一方面不正常？
 report-broken-site-panel-reason-load-moz-box-button =
     .label = 网站无法加载

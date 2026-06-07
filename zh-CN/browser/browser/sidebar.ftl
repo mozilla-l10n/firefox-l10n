@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = AI 聊天机器人
 menu-view-contextual-password-manager =
     .label = 密码
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = 打开的标签页
 sidebar-options-menu-button =
     .title = 打开菜单
 
@@ -141,6 +146,11 @@ sidebar-menu-history-label =
     .label = 历史记录
 sidebar-menu-synced-tabs-label =
     .label = 其他设备上的标签页
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = 打开的标签页
 sidebar-menu-bookmarks-label =
     .label = 书签
 sidebar-menu-customize-label =
@@ -187,6 +197,10 @@ sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
     .heading = 其他设备上的标签页
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = 打开的标签页
 sidebar-menu-cpm-header =
     .heading = 密码
 sidebar-menu-bookmarks-header =
@@ -206,6 +220,13 @@ sidebar-bookmarks-folder-mobile = 移动设备上的书签
 sidebar-customize-title = 定制侧栏
 sidebar-history-title = 历史记录
 sidebar-syncedtabs-title = 其他设备上的标签页
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = 打开的标签页
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = 固定的标签页
 
 ## Context for closing synced tabs when hovering over the items
 
