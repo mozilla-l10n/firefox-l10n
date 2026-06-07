@@ -251,4 +251,12 @@ protections-vpn-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆਵਾਂ 
 protections-vpn-header-content = { -mozilla-vpn-brand-name } ਨਾਲ ਆਪਣੇ ਪੂਰੇ ਡਿਵਾਈਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਓ। ਇੱਕ ਟੈਪ ਨਾਲ ਸਾਰਾ ਟਰੈਕਫਿਕ ਇੰਕ੍ਰਿਪਟ ਹੁੰਦਾ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਇਆ ਜਾਂਦਾ ਹੈ।
 protections-get-vpn-link = { -mozilla-vpn-brand-name } ਲਵੋ
 protections-vpn-title-subscribed = VPN: ਮੈਂਬਰ ਹੋ
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] { -mozilla-vpn-brand-name } ਵਰਤਣ ਨਾਲ  ਤੁਹਾਡਾ ਸਾਰਾ ਟਰੈਕਫਿਕ ਇੰਕ੍ਰਿਪਟ ਹੁੰਦਾ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਇਆ ਜਾਂਦਾ ਹੈ — { $count } ਡਿਵਾਈਸਾਂ ਤੱਕ। ਆਪਣੀ ਮੈਂਬਰੀ ਦਾ ਵੱਧ ਤੋਂ ਵੱਧ ਲਾਹਾ ਲਵੋ — ਇਸ ਨੂੰ<a data-l10n-name="playstore-link">Google Play ਸਟੋਰ</a> ਜਾਂ<a data-l10n-name="appstore-link">Apple App ਸਟੋਰ</a> ਤੋਂ ਲਵੋ।
+    }
+protections-vpn-banner-header = ਸੁਰੱਖਿਆ, ਜੋ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਪਰੇ ਵੀ ਹੈ
+protections-vpn-banner-content = { -mozilla-vpn-brand-name } ਨੂੰ ਬਿਨਾਂ ਖ਼ਤਰੇ ਤੋਂ ਅਜ਼ਮਾਓ ਅਤੇ ਵੇਖੋ ਕਿ ਕਿਓ TechRadar ਕਿਹਾ ਹੈ, “its speed, simplicity and low monthly price make it worth a look.”
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } ਲਵੋ

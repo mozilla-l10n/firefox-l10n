@@ -364,6 +364,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟਿਕਾਓ
+tab-groups-list-empty-description = ਪ੍ਰਬੰਧ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ  ਕਿਸੇ ਟੈਬ ਤੋਂ ਹੋਰ ਉੱਤੇ ਖਿੱਚੋ ਜਾਂ ਟੈਬ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਗਰੁੱਪਾਂ ਨੂੰ ਇੱਥੇ ਸੰਭਾਲਾਂਗੇ ਤਾਂ ਕਿ ਬਾਅਦ ਵਿੱਚ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲੱਭੇ ਜਾ ਸਕਣ।
 tab-groups-list-empty-button = ਕੋਈ ਟੈਬ ਗਰੁੱਪ ਬਣਾਓ
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = ਨਵਾਂ ਗਰੁੱਪ
