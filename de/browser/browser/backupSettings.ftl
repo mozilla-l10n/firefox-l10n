@@ -38,7 +38,7 @@ settings-data-backup-scheduled-backups-off2 =
     .label = Datensicherung ist DEAKTIVIERT
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
-    .label = Speicherort der Sicherung
+    .label = Speicherort der Sicherung:
 settings-data-backup-last-backup-location-show-in-folder = Ordner anzeigen
 settings-data-backup-last-backup-location-edit = Bearbeiten…
 settings-data-create-backup-error = Beim Erstellen Ihres Backups am { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } ist ein Fehler aufgetreten
