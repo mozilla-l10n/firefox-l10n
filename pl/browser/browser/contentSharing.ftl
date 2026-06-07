@@ -16,7 +16,14 @@ content-sharing-tabs-title =
         [few] { $count } karty
        *[many] { $count } kart
     }
+content-sharing-modal-view-page-2 =
+    .label = Podgląd strony
 content-sharing-modal-copy-link =
     .label = Kopiuj odnośnik
+content-sharing-modal-generating-page =
+    .label = Generowanie strony…
 content-sharing-modal-link-copied =
     .label = Skopiowano odnośnik
+content-sharing-modal-sign-in-2 =
+    .label = Zaloguj się, aby udostępnić
+content-sharing-modal-title-2 = Udostępniaj te strony komu tylko chcesz

@@ -270,4 +270,15 @@ privacy-metrics-private-window = { -brand-short-name } nadal blokuje elementy ś
 protections-vpn-title = Chroń prywatność także poza przeglądarką
 protections-vpn-header-content = Chroń całe urządzenie za pomocą { -mozilla-vpn-brand-name }. Jedno stuknięcie szyfruje cały ruch i ukrywa Twoje położenie.
 protections-get-vpn-link = Wypróbuj { -mozilla-vpn-brand-name }
-protections-vpn-title-subscribed = VPN: subskrybowany
+protections-vpn-title-subscribed = VPN: masz już subskrypcję
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] { -mozilla-vpn-brand-name } szyfruje cały ruch i ukrywa Twoje położenie na { $count } urządzeniu. Wykorzystaj w pełni swoją subskrypcję, dodając ją ze <a data-l10n-name="playstore-link">sklepu Google Play</a> lub <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] { -mozilla-vpn-brand-name } szyfruje cały ruch i ukrywa Twoje położenie na maksymalnie { $count } urządzeniach. Wykorzystaj w pełni swoją subskrypcję, dodając ją ze <a data-l10n-name="playstore-link">sklepu Google Play</a> lub <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[many] { -mozilla-vpn-brand-name } szyfruje cały ruch i ukrywa Twoje położenie na maksymalnie { $count } urządzeniach. Wykorzystaj w pełni swoją subskrypcję, dodając ją ze <a data-l10n-name="playstore-link">sklepu Google Play</a> lub <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Ochrona wykraczająca poza przeglądarkę
+protections-vpn-banner-content = Wypróbuj { -mozilla-vpn-brand-name } bez ryzyka i przekonaj się, dlaczego TechRadar twierdzi, że „jej szybkość, prostota i niska miesięczna opłata sprawiają, że warto się nią zainteresować”.
+protections-vpn-banner-link = Wypróbuj { -mozilla-vpn-brand-name }
