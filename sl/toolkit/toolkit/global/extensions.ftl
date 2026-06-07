@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Zavrni
     .accesskey = Z
 webext-perms-host-description-all-urls = dostop do vaših podatkov za vsa spletna mesta
+webext-perms-host-description-file-urls = dostop do datotek na računalniku
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = dostop do vaših podatkov za strani domene { $domain }

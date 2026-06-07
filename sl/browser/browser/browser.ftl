@@ -412,6 +412,9 @@ quickactions-cmd-help = pomoč, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Odpri razvojna orodja
 quickactions-cmd-inspector2 = pregledovalnik, razvojna orodja, orodja za razvijalce, devtools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Izberite barvo
+quickactions-cmd-colorpicker = izbira barve, izbirnik barve, kapalka
 # Opens Firefox Library
 quickactions-cmd-library = knjižnica
 quickactions-library = Odpri knjižnico
@@ -468,6 +471,9 @@ quickactions-cmd-update = posodobi
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pokaži izvorno kodo strani
 quickactions-cmd-viewsource2 = ogled izvorne kode, izvorna koda, vir
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Odpri { -firefoxlabs-brand-name }
+quickactions-cmd-labs = eksperiment, poskus, laboratorij
 quickactions-cmd-viewsource = pokaži vir, vir
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1277,6 +1283,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinhronizirani zavihki
     .tooltiptext = Prikaži zavihke iz drugih naprav
+toolbar-button-send-tab =
+    .label = Pošlji zavihek
+    .tooltiptext = Pošlji trenutni zavihek na drugo napravo
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1293,6 +1302,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = koda_qr
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qr-koda_{ $domain }
 
 ## EME notification panel
 
@@ -1312,6 +1324,8 @@ panel-save-update-password = Geslo
 # "More" item in macOS share menu
 menu-share-more =
     .label = Več …
+menu-share-windows =
+    .label = Več možnosti
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1494,6 +1508,9 @@ reset-pbm-panel-confirm-button =
     .label = Izbriši podatke seje
     .accesskey = I
 reset-pbm-panel-complete = Podatki zasebne seje so izbrisani
+reset-pbm-toolbar-button2 =
+    .label = Počisti zasebno sejo
+    .tooltiptext = Počisti zasebno sejo
 
 ## Autorefresh blocker
 

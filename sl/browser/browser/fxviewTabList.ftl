@@ -80,4 +80,12 @@ fxviewtabrow-unmute-tab-button-no-context =
     .title = Povrni glasnost zavihka
 fxviewtabrow-send-to-mobile-enable-sync2 = Za pošiljanje zavihka omogočite sinhronizacijo
 fxviewtabrow-send-to-mobile-connect-phone2 = Poveži telefon
+fxviewtabrow-send-to-mobile-connect-device = Za pošiljanje zavihkov povežite drugo napravo
 fxviewtabrow-send-to-mobile-device-missing2 = Ne vidite svoje naprave?
+fxviewtabrow-send-to-mobile-not-verified = Račun ni potrjen
+fxviewtabrow-send-to-mobile-verify-account = Potrdite svoj račun
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = Za pošiljanje zavihkov se prijavite
+fxviewtabrow-send-to-mobile-turn-on-sync = Za pošiljanje zavihkov vklopite sinhronizacijo

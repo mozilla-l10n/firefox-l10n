@@ -45,6 +45,10 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Za pošiljanje zavihka omogočite sinhronizacijo
 fxa-menu-send-to-mobile-connect-phone2 = Poveži telefon
 fxa-menu-send-to-mobile-device-missing2 = Ne vidite svoje naprave?
+fxviewtabrow-send-to-mobile-not-verified = Račun ni potrjen
+fxviewtabrow-send-to-mobile-verify-account = Potrdite svoj račun
+fxa-menu-send-to-mobile-turn-on-sync = Za pošiljanje zavihkov vklopite sinhronizacijo
+fxa-menu-send-to-mobile-connect-device = Za pošiljanje zavihkov povežite drugo napravo
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -75,6 +79,10 @@ sync-setup-verify-heading = Ali ste prepričani, da se želite prijaviti v sinhr
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Pred tem je bil v sinhronizacijo na tem računalniku prijavljen drug uporabnik. Ob prijavi se bodo zaznamki, gesla in druge nastavitve na tem brskalniku dodale k računu { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Za pošiljanje zavihkov se prijavite
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

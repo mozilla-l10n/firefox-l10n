@@ -273,5 +273,10 @@ places-search-downloads =
 
 places-locked-prompt = Zaznamki in zgodovina ne bodo delovali, ker eno izmed datotek programa { -brand-short-name } uporablja nek drug program. Napako lahko povzroča katero izmed varnostnih orodij.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Deli mapo
+    .badge = Novo
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Deli mapo

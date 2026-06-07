@@ -419,6 +419,14 @@ windows-10-eos-feature-toast-subtitle = Na priljubljeno zahtevo je { -brand-prod
 windows-10-eos-feature-toast-whats-new-button = Oglejte si, kaj je novega
 windows-10-eos-feature-toast-dismiss-button = Zapri
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Sistema Windows 10 Microsoft ne podpira več.</strong> Varnostno kopirajte svoje podatke { -brand-product-name(sklon: "rodilnik") }, da bodo pripravljeni na selitev v Windows 11.
+windows-10-eos-global-infobar-primary-button = Vklopi varnostno kopiranje
+    .accesskey = V
+windows-10-eos-global-infobar-learn-more-link = Več o tem
+    .accessKey = V
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

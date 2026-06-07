@@ -405,6 +405,16 @@ tab-group-overflow-count-tooltip =
        *[other] Še { $tabCount } zavihkov
     }
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Spravite svoje zavihke v red
+tab-groups-list-empty-description = Povlecite en zavihek na drugega ali kliknite nanj z desno miškino tipko, da začnete z organizacijo. Vaše skupine bomo shranili tukaj, da jih boste lažje našli.
+tab-groups-list-empty-button = Ustvarite skupino zavihkov
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nova skupina
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new

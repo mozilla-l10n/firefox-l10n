@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Koledar
+datetime-time =
+    .aria-label = Ura

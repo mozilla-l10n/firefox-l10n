@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = UI-klepetalnik
 menu-view-contextual-password-manager =
     .label = Gesla
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Odprti zavihki
 sidebar-options-menu-button =
     .title = Odpri meni
 
@@ -58,6 +63,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Upravljanje nastavitev { -brand-short-name(sklon: "rodilnik") }
 sidebar-vertical-tabs =
     .label = Navpični zavihki
+sidebar-settings2 =
+    .label = Nastavitve
 sidebar-settings =
     .label = Nastavitve stranske vrstice
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +77,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Razširi stransko vrstico ob preletu z miško
+sidebar-manage-extensions2 = Upravljanje vseh razširitev
 sidebar-manage-extensions = Upravljanje razširitev
+sidebar-customize-extensions-header2 = Razširitve
+sidebar-customize-firefox-tools-header2 =
+    .label = Orodja
 
 ## Labels for sidebar context menu items
 
@@ -135,6 +146,11 @@ sidebar-menu-history-label =
     .label = Zgodovina
 sidebar-menu-synced-tabs-label =
     .label = Zavihki z drugih naprav
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Odprti zavihki
 sidebar-menu-bookmarks-label =
     .label = Zaznamki
 sidebar-menu-customize-label =
@@ -181,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Zgodovina
 sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Odprti zavihki
 sidebar-menu-cpm-header =
     .heading = Gesla
 sidebar-menu-bookmarks-header =
@@ -200,6 +220,13 @@ sidebar-bookmarks-folder-mobile = Mobilni zaznamki
 sidebar-customize-title = Prilagodi stransko vrstico
 sidebar-history-title = Zgodovina
 sidebar-syncedtabs-title = Zavihki z drugih naprav
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Odprti zavihki
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Pripeti zavihki
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -52,6 +52,7 @@ ipprotection-location-selection-callout-secondary-button = Zapri
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Preizkusite { -brand-product-name }ov vgrajeni VPN
+unauthenticated-choose-location-message-1 = Izberite lokacijo ali prepustite { -brand-product-name(sklon: "dajalnik") }, da izbere najhitrejšo.
 unauthenticated-get-started = Začni
 unauthenticated-terms-of-service-privacy-notice = Z nadaljevanjem se strinjate s <a data-l10n-name="vpn-terms-of-service">pogoji uporabe</a> in z <a data-l10n-name="vpn-privacy-notice">obvestilom o zasebnosti</a>.
 site-exclusion-toggle-enabled-1 =
@@ -100,10 +101,13 @@ ipprotection-location-country-button = Lokacija: { $country }
 ipprotection-locations-subview =
     .title = Izberite lokacijo
 ipprotecion-locations-subview-recommended-label = Priporočena
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Nedosegljiv
 ipprotection-locations-subview-promo-button = Prenesi { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
+upgrade-vpn-title = Zagotovite si zaščito, ki presega okvire brskalnika
 upgrade-vpn-button = Preizkusite { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -118,9 +122,14 @@ ipprotection-connection-status-network-error-description = Povežite se z intern
 ipprotection-connection-status-blocked-error-title-1 = VPN ni na voljo
     .aria-label = VPN ni na voljo
 ipprotection-connection-status-blocked-error-title = VPN ni na voljo
+ipprotection-connection-status-blocked-error-description = Lokalna zakonodaja nam prepoveduje zagotavljanje storitve VPN v tej regiji. <a data-l10n-name="learn-more-link">Več o tem</a>
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
 ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mogoča
     .aria-label = Povezava z VPN ni bila mogoča
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si zaščito tudi zunaj { -brand-product-name(sklon: "rodilnik") } z { -mozilla-vpn-brand-name }.
 
 ## IP Protection Settings
 

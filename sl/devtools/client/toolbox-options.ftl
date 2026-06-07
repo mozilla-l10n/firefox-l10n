@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Skrajšaj atribute DOM
 options-collapse-attrs-tooltip =
     .title = Skrajšaj dolge atribute v pregledovalniku
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Pokaži komentarje
+options-show-comments-tooltip =
+    .title = V pregledovalniku prikazuj vozlišča komentarjev
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Kliknite in povlecite za spreminjanje vrednosti
 options-inspector-draggable-properties-tooltip =

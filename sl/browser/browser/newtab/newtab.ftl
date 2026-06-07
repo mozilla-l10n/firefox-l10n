@@ -372,6 +372,10 @@ newtab-custom-widget-timer-toggle =
     .label = Časovnik
 newtab-custom-widget-sports-toggle =
     .label = Svetovno prvenstvo
+newtab-custom-widget-clock-toggle =
+    .label = Ura
+newtab-custom-widget-sports-toggle2 =
+    .label = Šport
 newtab-custom-widget-section-title = Pripomočki
 newtab-custom-widget-section-toggle =
     .label = Pripomočki
@@ -740,6 +744,9 @@ newtab-widget-lists-input-menu-delete = Izbriši
 newtab-widget-lists-input-menu-edit = Uredi
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Uredi predmet
+newtab-widget-lists-edit-clear =
+    .aria-label = Prekliči
+    .title = Prekliči
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Ustvari nov seznam
@@ -757,6 +764,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Pripomočki
 newtab-widget-menu-hide = Skrij pripomoček
 newtab-widget-menu-change-size = Spremeni velikost
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Premakni
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Levo
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Desno
 newtab-widget-size-small = Majhna
 newtab-widget-size-medium = Srednja
 newtab-widget-size-large = Velika
@@ -824,6 +840,8 @@ newtab-widget-timer-start-aria =
             [few] Začni odštevati { $minutes } minute
            *[other] Začni odštevati { $minutes } minut
         }
+newtab-widget-timer-pause-aria =
+    .aria-label = Ustavi časovnik
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -838,6 +856,11 @@ newtab-widget-timer-decrease-min =
     .title = Odštej 1 minuto
 newtab-widget-timer-increase-min =
     .title = Dodaj 1 minuto
+newtab-widget-timer-mode-group =
+    .aria-label = Način časovnika
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Skrij časovnik
 
 ##
 
@@ -848,10 +871,40 @@ newtab-sports-widget-view-schedule =
     .label = Prikaži razpored
 newtab-sports-widget-choose-wallpaper =
     .label = Izberite si ozadje
+newtab-sports-widget-skip = Preskoči
 newtab-sports-widget-cancel = Prekliči
 newtab-sports-widget-back-button =
     .aria-label = Nazaj
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (izpadli)
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Zapri
+    .title = Zapri
+newtab-sports-widget-group-stage = Skupinski del
+newtab-sports-widget-group-a = Skupina A
+newtab-sports-widget-group-b = Skupina B
+newtab-sports-widget-group-c = Skupina C
+newtab-sports-widget-group-d = Skupina D
+newtab-sports-widget-group-e = Skupina E
+newtab-sports-widget-group-f = Skupina F
+newtab-sports-widget-group-g = Skupina G
+newtab-sports-widget-group-h = Skupina H
+newtab-sports-widget-group-i = Skupina I
+newtab-sports-widget-group-j = Skupina J
+newtab-sports-widget-group-k = Skupina K
+newtab-sports-widget-group-l = Skupina L
+newtab-sports-widget-round-32 = Šestnajstina finala
+newtab-sports-widget-round-16 = Osmina finala
 newtab-sports-widget-quarter-finals = Četrtfinale
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = V ŽIVO
+newtab-sports-widget-upcoming = Kmalu
+newtab-sports-widget-semi-finals = Polfinala
+newtab-sports-widget-bronze-finals = Tekma za tretje mesto
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finale
 newtab-sports-widget-cancelled = Odpovedano
 newtab-sports-widget-information = Podatki o tekmi
 newtab-sports-widget-view-results-link = Prikaži izide
@@ -860,6 +913,21 @@ newtab-sports-widget-third-place = Tretje mesto
 newtab-sports-widget-runner-up = Podprvaki
 newtab-sports-widget-champions = Prvaki
 newtab-sports-widget-world-cup-champions = Zmagovalci svetovnega prvenstva 2026
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosna in Hercegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Slonokoščena obala
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Kongo
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglija
+newtab-sports-widget-team-name-label-sco =
+    .label = Škotska
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -884,4 +952,54 @@ newtab-activation-window-message-values-focus-header = Ta prostor igra po vaših
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Skrij uro
 newtab-clock-widget-menu-learn-more = Več o tem
+newtab-clock-widget-menu-edit = Uredi ure
+newtab-clock-widget-menu-switch-to-12h = Preklopi na 12-urni zapis
+newtab-clock-widget-menu-switch-to-24h = Preklopi na 24-urni zapis
+newtab-clock-widget-label-your-clocks = Vaše ure
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Dodaj novo uro
+    .aria-label = Dodaj novo uro
+newtab-clock-widget-button-add-clock = Dodaj
+newtab-clock-widget-button-cancel = Prekliči
+newtab-clock-widget-button-back =
+    .title = Nazaj
+    .aria-label = Nazaj
+newtab-clock-widget-button-edit-clock =
+    .title = Uredi uro
+    .aria-label = Uredi uro
+newtab-clock-widget-button-save = Shrani
+newtab-clock-widget-button-remove-clock =
+    .title = Odstrani uro
+    .aria-label = Odstrani uro
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+newtab-clock-widget-add-clock-form =
+    .aria-label = Dodaj uro
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Uredi uro
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Rezultati iskanja
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Ni zadetkov
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Odpri meni z uro
+    .aria-label = Odpri meni z uro

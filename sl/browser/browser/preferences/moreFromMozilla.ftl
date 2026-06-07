@@ -58,6 +58,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-description = Brezplačna e-pošta, koledar in imenik – organizirani po vaše.
+more-from-moz-thunderbird-button = Namestite { -thunderbird-brand-short-name(sklon: "tozilnik") }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
@@ -65,14 +66,48 @@ more-from-moz-new-products-title = Novi izdelki { -vendor-short-name(sklon: "rod
 more-from-moz-new-products-description = Odkrijte najnovejše izdelke { -vendor-short-name(sklon: "rodilnik") }.
 more-from-moz-new-products-button = Oglejte si nove izdelke
 
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Za prenos aplikacije skenirajte kodo s kamero telefona oziroma tablice. Ko se pojavi povezava, tapnite nanjo.
+more-from-moz-firefox-mobile-email-link = Pošljite si povezavo za prenos na telefon
+
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Z brezplačnim pregledom odkrijte, kje so bili izpostavljeni vaši osebni podatki.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Dodatno zaščitite vse aplikacije – ne le brskalnika. Poskrbite za varnost svojih podatkov na javnih omrežjih Wi-Fi in nezavarovanih omrežjih.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Zaščitite svoj nabiralnik pred neželeno pošto z brezplačnim maskiranjem e-poštnega naslova.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Naučite se spletnega razvoja z brezplačnimi vodniki in napotki.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = E-pošta, koledar in imenik, združeni v zmogljivem in hitrem programu.
+more-from-moz-solo-card-1 =
+    .label = { -solo-ai-brand-name }
+    .description = V trenutku si izdelajte spletno mesto in brezplačno povežite lastno domeno po meri.
+more-from-moz-new-products-card2 =
+    .label = Novi izdelki { -vendor-short-name(sklon: "rodilnik") }
+    .description = Raziščite naše najnovejše zamisli in poskusne tehnologije.
 more-from-moz-mozilla-monitor-box-link =
     .label = Pridobite { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
     .label = Pridobite { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Pridobite { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Obiščite MDN
+more-from-moz-thunderbird-box-link =
+    .label = Namestite { -thunderbird-brand-short-name(sklon: "tozilnik") }
 more-from-moz-solo-box-link =
     .label = Preizkusite { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Oglejte si nove izdelke

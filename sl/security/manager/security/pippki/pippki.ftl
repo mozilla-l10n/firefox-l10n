@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Geslo varnostne kopije digitalnega potrdila (ponovno):
 set-password-reminder = Pomembno: Če pozabite geslo varnostne kopije digitalnega potrdila, je pozneje ne boste mogli obnoviti. Geslo shranite na varnem mestu.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Zaščiteno overjanje
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Overite se varnostni napravi ({ $tokenName }). Kako to storite, je odvisno od naprave (na primer z uporabo bralnika prstnih odtisov ali z vtipkanjem kode).
+
 ## Protected authentication alert
 
 # Variables:

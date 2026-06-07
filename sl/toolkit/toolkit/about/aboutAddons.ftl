@@ -117,6 +117,8 @@ legacy-extensions-description = Te razširitve ne ustrezajo trenutnim standardom
 private-browsing-description2 =
     { -brand-short-name } spreminja delovanje razširitev v zasebnem brskanju. Nove razširitve, dodane v { -brand-short-name } privzeto ne bodo delovale v zasebnih oknih. Razširitve ne bodo delovale v zasebnem brskanju in ne bodo imele dostopa do vaše spletne dejavnosti, razen če to dovolite v nastavitvah.
     <label data-l10n-name="private-browsing-learn-more">Več o upravljanju nastavitev razširitev</label>
+aboutaddons-sidebar =
+    .heading = Dodatki
 addon-category-discover = Priporočila
 addon-category-discover-title =
     .title = Priporočila
@@ -487,6 +489,10 @@ addon-permissions-empty = Ta razširitev ne zahteva nobenih dovoljenj
 addon-permissions-required = Zahtevana dovoljenja za osnovno delovanje:
 addon-permissions-optional = Izbirna dovoljenja za dodatno delovanje:
 addon-permissions-learnmore = Več o dovoljenjih
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Nekatera dovoljenja upravlja vaša organizacija.
 recommended-extensions-heading = Priporočene razširitve
 recommended-themes-heading = Priporočene teme
 # Variables:
@@ -598,6 +604,7 @@ mlmodel-link-preview = { -brand-short-name } z njegovo uporabo ustvarja ključne
 mlmodel-pdfjs = { -brand-short-name } z njegovo uporabo ustvarja nadomestno besedilo za slike, ki jih dodate v datoteke PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } z njegovo uporabo predlaga imena za skupine zavihkov
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } z njegovo uporabo predlaga zavihke za skupine zavihkov
+mlmodel-formfill-engine = Z njegovo pomočjo { -brand-short-name } izpolnjuje obrazce z naslovi
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = UI na napravi
 addon-category-mlmodel-title =

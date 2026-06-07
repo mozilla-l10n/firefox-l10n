@@ -51,6 +51,8 @@ pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Domača stran
+pane-home-startup-title2 = Domača stran in zagon
+    .title = Domača stran in zagon
 pane-search-title2 = Iskanje
     .title = Iskanje
 pane-privacy-title3 = Zasebnost in varnost
@@ -76,6 +78,10 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = O { -brand-short-name(sklon: "mestnik") }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Videz
+    .title = { pane-appearance-title }
+pane-downloads-title2 = Prenosi
+    .title = Prenosi
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Dostopnost
@@ -230,6 +236,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Izberite profil
 preferences-copy-profile-button = Kopiraj
+tabs-browsing-section =
+    .heading = Zavihki in brskanje
+pane-tabs-browsing-title2 = Zavihki in brskanje
+    .title = Zavihki in brskanje
 tabs-group-header2 =
     .label = Zavihki
 tabs-opening-heading =
@@ -274,12 +284,18 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Opozori, ko lahko odpiranje veliko zavihkov hkrati upočasni { -brand-short-name }
     .accesskey = v
+switch-to-new-tabs-2 =
+    .label = Ob odpiranju povezave ali predstavnosti v novem zavihku ta zavihek takoj prikaži v ospredju
+    .accesskey = h
 switch-to-new-tabs =
     .label = Ko odprete povezavo, sliko ali predstavnost v novem zavihku, takoj preklopi nanj
     .accesskey = o
 show-tabs-in-taskbar =
     .label = Prikaži predoglede zavihkov v opravilni vrstici Windows
     .accesskey = ž
+browser-containers-enabled-2 =
+    .label = Uporabljaj vsebniške zavihke
+    .accesskey = n
 browser-containers-enabled =
     .label = Omogoči vsebniške zavihke
     .accesskey = m
@@ -345,6 +361,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Prikaži stransko vrstico
     .description = Hitro dostopajte do zaznamkov in zavihkov na telefonu, do UI-klepetalnikov in še več, ne da bi zapustili svoj glavni pogled.
+page-navigation-group =
+    .label = Krmarjenje po strani
 browser-layout-header = Postavitev brskalnika
 browser-layout-horizontal-tabs =
     .label = Vodoravni zavihki
@@ -359,6 +377,12 @@ browser-layout-show-sidebar-desc = Hitro dostopajte do zaznamkov in zavihkov na 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik in videz
+appearance-group2 =
+    .label = Videz spletnih strani
+    .description = Nekatera spletna mesta prilagajajo svoje barve vašim nastavitvam. Izberite si barvno shemo.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistemska
+    .title = Samodejno izberi glede na nastavitve sistema in temo { -brand-short-name(sklon: "rodilnik") }.
 appearance-group =
     .label = Videz spletnih strani
     .description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
@@ -456,6 +480,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Povečaj le besedilo
     .accesskey = b
+preferences-text-zoom-override-warning2 =
+    .message = Če je vklopljena možnost "Povečaj le besedilo", privzeta povečava pa ni 100 %, se nekatere strani morda ne bodo prikazale pravilno.
 preferences-text-zoom-override-warning =
     .message = Opozorilo: Če izberete "Povečaj le besedilo", privzeta povečava pa ni 100 %, lahko nekatere strani ali vsebina delujejo nepravilno.
 language-header = Jezik
@@ -595,6 +621,12 @@ download-save-files-header =
     .label = Shrani datoteke v
 download-save-where-3 =
     .aria-label = Shrani datoteke v
+download-always-ask-where2 =
+    .label = Pred prenosom vprašaj, kam shraniti datoteko
+    .accesskey = a
+download-private-browsing-delete2 =
+    .label = Ob zaprtju zasebnih oken izbriši datoteke, prenesene v teh oknih
+    .accesskey = z
 downloads-header-2 =
     .label = Prenosi
 download-save-where-2 =
@@ -625,6 +657,9 @@ applications-setting =
     .description = Izberite, kako naj { -brand-short-name } ravna z datotekami, ki jih prenesete s spleta, ter aplikacijami, ki jih uporabljate med brskanjem.
 applications-header = Programi
 applications-description = Izberite, kako naj { -brand-short-name } ravna z datotekami, ki jih prenesete s spleta, ter aplikacijami, ki jih uporabljate med brskanjem.
+applications-setting2 =
+    .label = Datoteke in programi
+    .description = Izberite, kako naj { -brand-short-name } ravna s prenesenimi datotekami in vsebino.
 applications-filter =
     .placeholder = Išči vrste datotek ali programe
 applications-type-column =
@@ -724,6 +759,9 @@ update-history-2 =
     .accesskey = z
 update-application-installation =
     .label = Namestitev
+update-application-auto-2 =
+    .label = Samodejno nameščaj posodobitve (priporočeno)
+    .accesskey = a
 update-history =
     .label = Prikaži zgodovino posodobitev …
     .accesskey = z
@@ -817,6 +855,10 @@ performance-default-content-process-count =
     .label = { $num } (privzeto)
 performance-group =
     .label = Učinkovitost
+performance-use-recommended-settings-checkbox-2 =
+    .label = Uporabi priporočene nastavitve učinkovitosti
+    .description = Te nastavitve so prikrojene vaši strojni opremi in operacijskemu sistemu.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -851,6 +893,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Začni iskati ob začetku tipkanja
     .accesskey = k
+settings-media-group =
+    .label = Predstavnost
 browsing-picture-in-picture-toggle-enabled =
     .label = Omogoči kontrolnike za sliko v sliki
     .accesskey = s
@@ -861,6 +905,8 @@ browsing-picture-in-picture-learn-more = Več o tem
 browsing-media-control =
     .label = Upravljaj predstavnost prek tipkovnice, slušalk ali navideznega vmesnika
     .accesskey = v
+recommendations-group =
+    .label = Priporočila
 browsing-media-control-learn-more = Več o tem
 browsing-cfr-recommendations =
     .label = Med brskanjem priporočaj razširitve
@@ -1074,6 +1120,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Šport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ura
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podprite { -brand-product-name(sklon: "tozilnik") }
@@ -1699,6 +1748,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Gesla in samodejno izpolnjevanje
+    .title = Gesla in samodejno izpolnjevanje
+preferences-passwords-autofill-header =
+    .heading = Gesla in samodejno izpolnjevanje
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2163,6 +2216,10 @@ permissions-notification2 =
 permissions-header3 =
     .label = Dovoljenja
     .description = Določite, do česa imajo spletna mesta dostop, kaj lahko nadzirajo ali sprožijo.
+permissions-data-section =
+    .heading = Dovoljenja in podatki
+pane-permissions-data-title2 = Dovoljenja in podatki
+    .title = Dovoljenja in podatki
 
 ## Privacy Section - Data Collection
 
@@ -2491,6 +2548,19 @@ desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
 
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Videz
+browser-theme-manage-link =
+    .label = Upravljanje tem { -brand-short-name(sklon: "rodilnik") }
+related-settings-group =
+    .label = Sorodne nastavitve
+related-settings-home-link =
+    .label = Prilagodi { -firefox-home-brand-name(sklon: "tozilnik", zacetnica: "mala") }
+related-settings-tabs-browsing-link =
+    .label = Prilagodi postavitev brskalnika
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2650,8 +2720,16 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Dovoli vse piškotke
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Blokiraj medspletne piškotke
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Izoliraj medspletne piškotke
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Blokiraj piškotke neobiskanih spletnih strani
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Blokiraj vse medspletne piškotke (lahko povzroči nedelovanje spletnih strani)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Blokiraj vse piškotke (povzroči nedelovanje spletnih strani)
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Dovoli vse piškotke
 preferences-etp-custom-tracking-protection-enabled =
