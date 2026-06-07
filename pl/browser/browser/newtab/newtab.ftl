@@ -963,6 +963,10 @@ newtab-sports-widget-back-button =
     .aria-label = Wstecz
 newtab-sports-widget-done-button =
     .label = Gotowe
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (wyeliminowana)
 newtab-sports-widget-view-all =
     .label = Wszystkie
 newtab-sports-widget-show-less =
@@ -981,6 +985,24 @@ newtab-sports-widget-watch-icon =
 newtab-sports-widget-watch-dialog-close =
     .aria-label = Zamknij
     .title = Zamknij
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Darmowa
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Darmowy okres próbny
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Darmowa i płatna
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Płatna
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Tylko wybrane mecze
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Dostępne w Twoim regionie
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Inne regiony
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Otwórz transmisję
+    .title = Otwórz transmisję
 newtab-sports-widget-group-stage = Faza grupowa
 newtab-sports-widget-group-a = Grupa A
 newtab-sports-widget-group-b = Grupa B
@@ -1005,6 +1027,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Kluczowe daty
 newtab-sports-widget-upcoming = Niedługo
+# Used for a match currently ongoing
+newtab-sports-widget-now = Teraz
 newtab-sports-widget-results = Wyniki
 newtab-sports-widget-semi-finals = Półfinały
 newtab-sports-widget-bronze-finals = Mecz o trzecie miejsce
@@ -1058,6 +1082,12 @@ newtab-sports-widget-match-aria-label-results =
 #   $awayPenalty (number) - The away team's penalty shootout score
 newtab-sports-widget-match-aria-label-results-penalties =
     .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) kontra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Na żywo: { $homeTeam }, { $homeScore } kontra { $awayTeam }, { $awayScore }
 # An upcoming scheduled match row. Announces kickoff time and date.
 # Variables:
 #   $date (Date) - The scheduled kickoff date/time
