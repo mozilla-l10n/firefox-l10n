@@ -1042,7 +1042,7 @@ newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "n
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Opóźniony
-newtab-sports-widget-postponed = Odłożony
+newtab-sports-widget-postponed = Przełożony
 newtab-sports-widget-suspended = Zawieszony
 newtab-sports-widget-cancelled = Odwołany
 newtab-sports-widget-information = Informacje o meczu
@@ -1060,6 +1060,23 @@ newtab-sports-widget-match-full-time = Koniec meczu
 newtab-sports-widget-match-halftime = Przerwa
 newtab-sports-widget-match-extra-time = Dogrywka
 newtab-sports-widget-match-penalties = Rzuty karne
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Poprzednie
+    .title = Poprzednie
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Następne
+    .title = Następne
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = { $index }. z { $total } meczy na żywo
+    .title = { $index }. z { $total } meczy na żywo
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1093,6 +1110,18 @@ newtab-sports-widget-match-aria-label-now =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } kontra { $awayTeam }, { DATETIME($date, day: "numeric", month: "long") } o { DATETIME($date, hour: "numeric", minute: "numeric") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, opóźniony
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, przełożony
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, zawieszony
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } kontra { $awayTeam }, odwołany
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
@@ -1112,9 +1141,13 @@ newtab-sports-widget-team-name-label-sco =
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Zacznij mistrzostwa świata z nowymi tapetami
+newtab-sports-widget-message-wallpapers-body = Podczas turnieju poczuj w swojej przeglądarce energię dnia meczowego.
 newtab-sports-widget-message-wallpapers-cta = Wybierz tapetę
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj widżety
+newtab-sports-widget-message-day-in-play-title = Nie wychodź z gry dzięki widżetom { -brand-product-name(case: "gen") }
+newtab-sports-widget-message-day-in-play-body = Śledź mistrzostwa świata, realizuj swoje zadania, kontroluj czas na całym świecie i nie tylko.
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
