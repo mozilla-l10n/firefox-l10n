@@ -27,6 +27,8 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = ਸਾਈਟ ਨੇ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਬੰਦ ਕਰਨ ਲਈ ਕਿਹਾ ਹੈ
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = ਬਰਾਊਜ਼ਰ ਸਹਾਇਕ ਨਹੀਂ ਹੈ ਜਾਂ ਪਾਬੰਦੀ ਲਾਈ ਹੈ
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = ਸਾਈਟ ਧੋਖਾਧੜੀ ਹੈ
 report-broken-site-panel-reason-other-moz-box-button =
     .label = ਕੁਝ ਹੋਰ
 report-broken-site-panel-send-more-info-button =
@@ -65,6 +67,8 @@ report-broken-site-panel-button-cancel =
     .label = ਰੱਦ ਕਰੋ
 report-broken-site-panel-button-okay =
     .label = ਠੀਕ ਹੈ
+report-broken-site-panel-button-send-report =
+    .label = ਰਿਪੋਰਟ ਭੇਜੋ
 report-broken-site-panel-button-send =
     .label = ਭੇਜੋ
 report-broken-site-panel-report-sent-label = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ
@@ -73,6 +77,17 @@ report-broken-site-panel-report-sent-header =
     .title = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ
 report-broken-site-panel-report-sent-text = ਵੈੱਬ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਵੱਧ ਆਜ਼ਾਦ, ਪਹੁੰਚ ਵਿੱਚ ਅਤੇ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ { -brand-product-name } ਦੀ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ।
 report-broken-site-panel-invalid-url-label = ਵਾਜਬ URL ਦਿਓ ਜੀ
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+       *[other] ਘੱਟੋ-ਘੱਟ { $minLength } ਅੱਖਰ ਦਿਓ
+    }
+report-broken-site-panel-screenshot-label =
+    .label = ਸਕਰੀਨ-ਸ਼ਾਟ ਭੇਜੋ
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਵਲੋਂ ਪਾਬੰਦੀ ਲਈਆਂ ਚੀਜ਼ਾਂ ਦੀ ਸੂਚੀ ਭੇਜੋ
+report-broken-site-panel-url-input-label =
+    .aria-label = ਰਿਪੋਰਟ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਸਫ਼ੇ ਦਾ URL
 report-broken-site-panel-missing-reason-label = ਕਾਰਨ ਚੁਣੋ ਜੀ
 report-broken-site-panel-blocked-trackers-label =
     .label = ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਵਲੋਂ URL ਨੂੰ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ
