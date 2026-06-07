@@ -203,8 +203,14 @@ find-more-addons = Најдете повеќе додатоци
 
 report-addon-button = Пријави
 remove-addon-button = Отстрани
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Не може да се отстрани <a data-l10n-name="link">Зошто?</a>
 disable-addon-button = Оневозможи
 enable-addon-button = Овозможи
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Овозможи
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Опции
@@ -216,12 +222,15 @@ permissions-addon-button = Дозволи
 extension-enabled-heading = Овозможено
 extension-disabled-heading = Оневозможено
 theme-enabled-heading = Овозможено
+theme-disabled-heading2 = Снимени теми
 plugin-enabled-heading = Овозможено
 plugin-disabled-heading = Оневозможено
 dictionary-enabled-heading = Овозможено
 dictionary-disabled-heading = Оневозможено
 locale-enabled-heading = Овозможено
 locale-disabled-heading = Оневозможено
+sitepermission-enabled-heading = Овозможено
+sitepermission-disabled-heading = Оневозможено
 always-activate-button = Секогаш активирај
 never-activate-button = Никогаш не активирај
 addon-detail-author-label = Автор
@@ -229,6 +238,7 @@ addon-detail-version-label = Верзија
 addon-detail-last-updated-label = Последно ажурирање
 addon-detail-homepage-label = Домашна страница
 addon-detail-rating-label = Оценка
+install-postponed-button = Ажурирај сега
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -238,20 +248,59 @@ five-star-rating =
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (оневозможено)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } рецензија
+       *[other] { $numberOfReviews } рецензии
+    }
 
 ## Pending uninstall message bar
 
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> е отстранет.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon }  е отстранет.
 pending-uninstall-undo-button = Врати
 addon-detail-updates-label = Дозволи автоматско ажурирање
+addon-detail-updates-radio-default = Основно
 addon-detail-updates-radio-on = Вклучено
 addon-detail-updates-radio-off = Исклучено
 addon-detail-update-check-label = Провери за ажурирања
 install-update-button = Ажурирај
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Дозволено во приванти прозорци
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Дозволено во приванти прозорци
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Не дозволувај
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Дозволи на сајтови со ограничувања
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Дозволи
+addon-detail-quarantined-domains-disallow = Не дозволувај
 
 ##
 
