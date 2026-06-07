@@ -264,3 +264,10 @@ privacy-metrics-empty = W tym tygodniu nie zablokowano żadnych elementów śle
 privacy-metrics-loading = Wczytywanie statystyk ochrony…
 privacy-metrics-error = Nie można wczytać statystyk ochrony.
 privacy-metrics-private-window = { -brand-short-name } nadal blokuje elementy śledzące w trybie prywatnym, ale nie zachowuje informacji o tym, co zostało zablokowane.
+
+## VPN promo card and banner
+
+protections-vpn-title = Chroń prywatność także poza przeglądarką
+protections-vpn-header-content = Chroń całe urządzenie za pomocą { -mozilla-vpn-brand-name }. Jedno stuknięcie szyfruje cały ruch i ukrywa Twoje położenie.
+protections-get-vpn-link = Wypróbuj { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: subskrybowany
