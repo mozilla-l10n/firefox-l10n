@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = Известувач за уривање на { -brand-short-name }
+crashreporter-apology = Жалиме
 crashreporter-plea = Ако сакате да ни помогнете да го дијагнозираме и поправиме овој проблем, можете да ни пратите извештај за уривањето.
+crashreporter-error-details-header = Детали:
 crashreporter-no-run-message = Оваа програма автоматски се стартува, откако ќе се случи проблем за кој треба да се извести производителот.  Не треба да се стартува самостојно.
 crashreporter-button-details = Детали…
+crashreporter-loading-details = Се вчитува…
 crashreporter-view-report-title = Содржина на извештајот
 crashreporter-comment-prompt = Додајте коментар.  Забелешка: Коментарите се јавно достапни
 crashreporter-report-info = Овој извештај истот така содржи технички информации за состојбата на програмата при уривањето.
