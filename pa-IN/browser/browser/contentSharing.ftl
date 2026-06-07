@@ -27,6 +27,8 @@ content-sharing-modal-sign-in-2 =
     .label = ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 content-sharing-modal-title-2 = ਇਹ ਸਫ਼ੇ ਕਿਸੇ ਨਾਲ ਵੀ ਸਾਂਝੇ ਕਰੋ
 content-sharing-modal-title-signed-in = ਤੁਹਾਡੇ ਲਿੰਕ ਸਾਂਝੇ ਕਰਨ ਲਈ ਤਿਆਰ ਹਨ
+content-sharing-modal-description-2 = ਲਿੰਕਾਂ ਵਾਲੇ ਸਫ਼ੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ। ਇਸ ਨੂੰ ਸੋਧਿਆ ਜਾਂ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ। ਇਸ ਦੀ ਮਿਆਦ 7 ਦਿਨਾਂ ਬਾਅਦ ਪੁੱਗਦੀ ਹੈ।
+content-sharing-modal-description-signed-in = ਅਸੀਂ ਤੁਹਾਡੇ ਲਿੰਕਾਂ ਵਾਲੇ ਸਫ਼ੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨਾ ਸੌਖਾ ਬਣਾਇਆ ਹੈ। ਇਸ ਨੂੰ ਸੋਧਿਆ ਜਾਂ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ। ਇਸ ਦੀ ਮਿਆਦ 7 ਦਿਨਾਂ ਬਾਅਦ ਪੁੱਗਦੀ ਹੈ।
 content-sharing-modal-policy = ਸਾਂਝਾ ਕਰਕੇ ਤੁਸੀਂ ਸਾਡੀ <a data-l10n-name="aup-link">ਮੰਨਣਯੋਗ ਵਰਤੋਂ ਪਾਲਸੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
@@ -35,6 +37,9 @@ content-sharing-modal-too-many-links-2 =
     { $count ->
        *[other] ਸਿਰਫ਼ { $count } ਲਿੰਕ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾਣਗੇ
     }
+content-sharing-modal-no-shareable-links =
+    .heading = ਕੋਈ ਸਾਂਝਾ ਕਰਨ ਯੋਗ ਲਿੰਕ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ
+    .message = ਸਿਰਫ਼ ਵੈੱਬ ਸਮੱਗਰੀ ਵਾਲੇ ਲਿੰਕ ਹੀ ਸਾਂਝੇ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

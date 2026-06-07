@@ -248,6 +248,7 @@ privacy-metrics-private-window = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ 
 ## VPN promo card and banner
 
 protections-vpn-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਪਾਰ ਲੈ ਜਾਓ
+protections-vpn-header-content = { -mozilla-vpn-brand-name } ਨਾਲ ਆਪਣੇ ਪੂਰੇ ਡਿਵਾਈਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਓ। ਇੱਕ ਟੈਪ ਨਾਲ ਸਾਰਾ ਟਰੈਕਫਿਕ ਇੰਕ੍ਰਿਪਟ ਹੁੰਦਾ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਇਆ ਜਾਂਦਾ ਹੈ।
 protections-get-vpn-link = { -mozilla-vpn-brand-name } ਲਵੋ
 protections-vpn-title-subscribed = VPN: ਮੈਂਬਰ ਹੋ
 protections-vpn-banner-link = { -mozilla-vpn-brand-name } ਲਵੋ
