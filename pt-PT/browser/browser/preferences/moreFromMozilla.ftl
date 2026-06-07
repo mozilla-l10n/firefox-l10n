@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Mais de { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Mais de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mais de { -vendor-short-name }
 more-from-moz-subtitle = Veja outros produtos { -vendor-short-name } que funcionam para apoiar uma internet saudável.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Móvel
 more-from-moz-firefox-mobile-description = O navegador móvel que coloca a sua privacidade em primeiro lugar.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para dispositivos móveis
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } para dispositivos móveis
+    .description = O navegador para dispositivos móveis que coloca a sua privacidade em primeiro.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubra uma camada adicional de navegação anónima e proteção.
 more-from-moz-qr-code-box-firefox-mobile-title = Transfira utilizando o seu dispositivo móvel. Aponte a sua câmara para o código QR. Quando uma ligação aparecer, toque nela.
@@ -49,8 +54,15 @@ more-from-moz-mdn-description = Aprenda programação web com guias e referênci
 more-from-moz-mdn-button = Aprender programação web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
 
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = E-mail, calendário e contactos gratuitos — organizado à sua maneira.
+more-from-moz-thunderbird-button = Obter o { -thunderbird-brand-short-name }
+
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
+more-from-moz-new-products-title = Novos produtos da { -vendor-short-name }
 more-from-moz-new-products-description = Descubra os produtos mais recentes da { -vendor-short-name }.
 more-from-moz-new-products-button = Ver novos produtos
 

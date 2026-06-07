@@ -1065,6 +1065,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Desportos
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Relógio
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoiar o { -brand-product-name }
@@ -1078,6 +1081,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Escolha um fundo
 home-prefs-choose-wallpaper-link2 =
     .label = Escolha um fundo
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para utilizar estas funcionalidades, defina os novos separadores ou as novas janelas para o { -firefox-home-brand-name }.
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
@@ -1602,6 +1610,12 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber mais
 forms-windows-sso-desc = Gerir contas nas definições do seu dispositivo
 windows-passkey-settings-label = Gerir as chaves de acesso nas definições do sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Definições do painel de privacidade
+    .description = Obtenha ajuda para proteger as suas informações na Internet com o { -brand-short-name }.
 
 ## OS Authentication dialog
 
@@ -2165,6 +2179,8 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permissões
     .description = Faça a gestão dos sites que podem aceder, controlar ou acionar.
+permissions-data-section =
+    .heading = Permissões e dados
 
 ## Privacy Section - Data Collection
 
@@ -2492,6 +2508,22 @@ preferences-connection-link-button =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aspeto
+browser-theme-group =
+    .label = Tema do navegador
+    .description = Personalize o { -brand-short-name } à sua maneira. Os temas de cores são aplicados nas barras de ferramentas, menus e mensagens.
+browser-theme-manage-link =
+    .label = Gerir temas do { -brand-short-name }
+related-settings-group =
+    .label = Definições relacionadas
+related-settings-accessibility-link =
+    .label = Personalizar as definições de zoom e de tipo de letra na Acessibilidade
+related-settings-home-link =
+    .label = Personalizar o { -firefox-home-brand-name }
 
 ## AI controls page
 

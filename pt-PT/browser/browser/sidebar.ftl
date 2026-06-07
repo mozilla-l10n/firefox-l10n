@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Gerir as definições do { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Separadores verticais
+sidebar-settings2 =
+    .label = Definições
 sidebar-settings =
     .label = Definições da barra lateral
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir barra lateral ao pairar
+sidebar-manage-extensions2 = Gerir todas as extensões
 sidebar-manage-extensions = Gerir extensões
+sidebar-customize-extensions-header2 = Extensões
+sidebar-customize-firefox-tools-header2 =
+    .label = Ferramentas
 
 ## Labels for sidebar context menu items
 

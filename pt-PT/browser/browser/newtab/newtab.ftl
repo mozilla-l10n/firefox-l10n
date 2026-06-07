@@ -910,25 +910,52 @@ newtab-sports-widget-view-schedule =
     .label = Ver programa
 newtab-sports-widget-follow-teams =
     .label = Seguir equipas
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Acompanhe até { $number } equipa
+       *[other] Acompanhe até { $number } equipas
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Escolha um fundo
 newtab-sports-widget-skip = Ignorar
+newtab-sports-widget-search-country =
+    .placeholder = Pesquisar país
+    .aria-label = Pesquisar país
+newtab-sports-widget-cancel = Cancelar
 newtab-sports-widget-done-button =
     .label = Feito
 newtab-sports-widget-group-stage = Fase de grupos
+newtab-sports-widget-round-16 = Oitavos de final
+newtab-sports-widget-quarter-finals = Quartos de final
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = EM DIRETO
 newtab-custom-widget-live-refresh =
     .title = Atualizar pontuações
     .aria-label = Atualizar pontuações
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Datas-chave
 newtab-sports-widget-upcoming = Brevemente
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Meias-finais
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Atrasado
 newtab-sports-widget-postponed = Adiado
 newtab-sports-widget-suspended = Suspenso
+newtab-sports-widget-cancelled = Cancelado
+newtab-sports-widget-information = Informações sobre o jogo
+newtab-sports-widget-no-live-data = Os dados dos jogos em direto não estão a ser atualizados neste momento
+newtab-sports-widget-view-results-link = Ver resultados
+newtab-sports-widget-third-place = 3.º lugar
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Vice-campeões
+newtab-sports-widget-champions = Liga dos Campeões
+newtab-sports-widget-world-cup-champions = Campeões do Mundial de 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -951,3 +978,52 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espaço segue as suas regras
 newtab-activation-window-message-values-focus-message = O { -brand-product-name } permite que navegue como gosta, com uma forma mais pessoal de começar o seu dia na Internet. Torne o { -brand-product-name } seu.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Ocultar relógio
+newtab-clock-widget-menu-learn-more = Saber mais
+newtab-clock-widget-menu-edit = Editar relógios
+newtab-clock-widget-menu-switch-to-12h = Mudar para o formato de 12 horas
+newtab-clock-widget-menu-switch-to-24h = Mudar para o formato de 24 horas
+newtab-clock-widget-label-your-clocks = Os seus relógios
+newtab-clock-widget-search-location-input =
+    .label = Localização
+    .placeholder = Pesquisar por cidade
+    .aria-label = Pesquisar por cidade
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Adicionar novo relógio
+    .aria-label = Adicionar novo relógio
+newtab-clock-widget-button-add-clock = Adicionar
+newtab-clock-widget-button-cancel = Cancelar
+newtab-clock-widget-button-back =
+    .title = Voltar
+    .aria-label = Voltar
+newtab-clock-widget-button-edit-clock =
+    .title = Editar relógio
+    .aria-label = Editar relógio
+newtab-clock-widget-button-save = Guardar
+newtab-clock-widget-button-remove-clock =
+    .title = Remover relógio
+    .aria-label = Remover relógio
+newtab-clock-widget-add-clock-form =
+    .aria-label = Adicionar relógio
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Editar relógio
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Resultados da pesquisa
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Abrir menu para o relógio
+    .aria-label = Abrir menu para o relógio
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Nome alternativo: { $nickname }
