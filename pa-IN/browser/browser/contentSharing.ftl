@@ -35,6 +35,15 @@ content-sharing-modal-too-many-links-2 =
     { $count ->
        *[other] ਸਿਰਫ਼ { $count } ਲਿੰਕ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾਣਗੇ
     }
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] ਤੁਸੀਂ { $count } ਸਫ਼ੇ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਹੈ
+           *[other] ਤੁਸੀਂ { $count } ਸਫ਼ਿਆਂ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਹੈ
+        }
+    .message = ਇੱਕ ਸਫ਼ੇ ਦੀ ਮਿਆਦ ਪੁੱਗਣ ਦੇ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰੋ।
 content-sharing-modal-some-invalid-links = ਕੁਝ ਲਿੰਕਾਂ ਨੂੰ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 content-sharing-modal-generic-error-2 =
     .heading = ਕੁਝ ਗਲਤ ਵਾਪਰਿਆ ਹੈ

@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 report-broken-site-panel-intro-text = ਤੁਹਾਡੀ ਰਿਪੋਰਟ { -brand-product-name } ਵਿੱਚ ਮਸਲਿਆਂ ਨੂੰ ਸਮਝਣ ਅਤੇ ਹੋਰ ਜਾਣਿਆਂ ਲਈ ਠੀਕ ਕਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਦੀ ਹੈ।
 report-broken-site-panel-learn-more-link = ਹੋਰ ਜਾਣੋ
+report-broken-site-panel-url-label = ਖ਼ਰਾਬ ਸਾਈਟ ਦਾ URL
+report-broken-site-panel-reason-intro-text = ਕੀ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = ਸਾਈਟ ਲੋਡ ਨਹੀਂ ਹੋਈ ਹੈ
 # These terms are referring to ecommerce websites

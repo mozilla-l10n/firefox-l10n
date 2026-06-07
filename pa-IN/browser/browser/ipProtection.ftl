@@ -215,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = { -brand-short-name } ਦੇ ਵਿਚ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
     .message = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਕੇ ਵਧੀਕ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ। ਹਰ ਮਹੀਨੇ { $maxUsage } GB ਤੱਕ ਮੁਫ਼ਤ VPN ਲਵੋ।
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = { -brand-short-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
+    .message = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਵਧੀਕ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ।
 ip-protection-not-opted-in-button = ਸ਼ੁਰੂ ਕਰੀਏ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
