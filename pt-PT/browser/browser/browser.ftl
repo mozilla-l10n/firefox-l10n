@@ -421,6 +421,8 @@ quickactions-cmd-inspector = inspetor, devtools
 # Opens about:logins
 quickactions-logins2 = Gerir palavras-passe
 quickactions-cmd-logins = credenciais, palavras-passe
+# Mutes all tabs playing audio
+quickactions-mute = Silenciar som dos separadores a reproduzir áudio
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerir plugins
 quickactions-cmd-plugins = plugins
@@ -545,9 +547,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = A sua ligação a este site não é segura.
 identity-connection-verified = Está ligado(a) de forma segura a este site.
 identity-ev-owner-label = Certificado emitido para:
+identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Qualificado conforme especificado na Legislação (EU) 2024/1183.
 identity-description-custom-root2 = A Mozilla não reconhece este emissor de certificados. Este pode ter sido adicionado a partir do seu sistema operativo ou por um administrador.
+identity-cert-exception-overridden = Adicionou uma exceção de segurança para este site.
 identity-remove-cert-exception =
     .label = Remover exceção
     .accesskey = R
@@ -1292,6 +1296,8 @@ panel-save-update-password = Palavra-passe
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mais…
+menu-share-windows =
+    .label = Mais opções
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

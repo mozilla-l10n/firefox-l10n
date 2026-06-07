@@ -74,6 +74,10 @@ category-sync3 =
 pane-ai-controls-title = Controlos de IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Sobre o { -brand-short-name }
+    .title = { pane-about-firefox-title }
+pane-appearance-title = Aspeto
+    .title = { pane-appearance-title }
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Acessibilidade
@@ -89,6 +93,8 @@ pane-experimental-subtitle = Avançar com cuidado
 pane-experimental-search-results-header = Experiências { -brand-short-name }: Prosseguir com cuidado
 pane-experimental-description2 = Alterar definições de configuração avançadas pode interferir com o desempenho ou segurança do { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Teste as nossas funcionalidades experimentais! Estão em desenvolvimento e em constante evolução, o que pode afetar o funcionamento do { -brand-short-name }. Só recebemos informações sobre a sua utilização destas funcionalidades se tiver os <a data-l10n-name="data-collection">dados técnicos e de interação</a> ativados.
@@ -344,6 +350,12 @@ browser-layout-show-sidebar-desc = Aceda rapidamente a marcadores, separadores d
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aspeto
+appearance-group2 =
+    .label = Aparência do site
+    .description = Alguns sites mudam as cores para corresponder às suas preferências. Escolha o seu esquema de cores.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistema
+    .title = Mudar automaticamente o fundo do site e conteúdo baseado nas suas configurações de sistema e tema do { -brand-short-name }.
 appearance-group =
     .label = Aspeto do site
     .description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
@@ -476,6 +488,11 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reinicie o { -brand-short-name } para aplicar estas alterações
 confirm-browser-language-change-button = Aplicar e reiniciar
+browser-language-heading =
+    .label = Idioma do navegador
+    .description = Escolha o idioma utilizado para mostrar menus, mensagens e notificações do { -brand-short-name }
+browser-language-preferred-label =
+    .label = Idioma preferencial
 browser-language-install-error =
     .message = O { -brand-short-name } não pode atualizar os seus idiomas neste momento. Verifique que está ligado(a) à internet ou tente novamente.
 translate-web-pages =
@@ -602,6 +619,9 @@ applications-setting =
     .description = Escolha como o { -brand-short-name } manuseia os ficheiros que transfere da web ou as aplicações que utiliza enquanto navega.
 applications-header = Aplicações
 applications-description = Escolha como o { -brand-short-name } manuseia os ficheiros que transfere da web ou as aplicações que utiliza enquanto navega.
+applications-setting2 =
+    .label = Ficheiros e aplicações
+    .description = Escolha como { -brand-short-name } gere ficheiros e conteúdo descarregado.
 applications-filter =
     .placeholder = Pesquisar tipos de ficheiros ou aplicações
 applications-type-column =
@@ -699,6 +719,8 @@ update-application-version = Versão { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Mostrar histórico de atualizações
     .accesskey = i
+update-application-installation =
+    .label = Instalação
 update-history =
     .label = Mostrar histórico de atualizações…
     .accesskey = i
@@ -739,6 +761,21 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Sobre o { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Atualizações do { -brand-short-name }
+    .description = As atualizações melhoram a velocidade, estabilidade e segurança do { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificações
+update-application-updates-managed-by-os =
+    .message = As atualizações são geridas pelo seu sistema operativo
 
 ## Firefox support
 
@@ -1025,6 +1062,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Desportos
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoiar o { -brand-product-name }

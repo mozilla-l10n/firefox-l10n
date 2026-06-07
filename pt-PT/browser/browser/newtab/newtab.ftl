@@ -367,6 +367,10 @@ newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
     .label = Temporizador
+newtab-custom-widget-sports-toggle =
+    .label = Mundial de Futebol
+newtab-custom-widget-clock-toggle =
+    .label = Relógio
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -738,6 +742,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Concluídas ({ $number })
+newtab-widget-lists-celebration-headline = Bom trabalho
+newtab-widget-lists-celebration-subhead = Tudo feito
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar nome da lista
 newtab-widget-lists-menu-edit2 =
@@ -758,6 +764,8 @@ newtab-widget-lists-input-menu-move-up = Mover para cima
 newtab-widget-lists-input-menu-move-down = Mover para baixo
 newtab-widget-lists-input-menu-delete = Eliminar
 newtab-widget-lists-input-menu-edit = Editar
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Editar item
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Criar uma nova lista
@@ -844,6 +852,83 @@ newtab-promo-card-cta = Saber mais
 newtab-promo-card-dismiss-button =
     .title = Dispensar
     .aria-label = Dispensar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Iniciar o temporizador de { $minutes } minuto
+           *[other] Iniciar o temporizador de { $minutes } minutos
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausar temporizador
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuto
+           *[other] { $minutes } minutos
+        }
+newtab-widget-timer-decrease-min =
+    .title = Diminuir 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Aumentar 1 minuto
+newtab-widget-timer-mode-group =
+    .aria-label = Modo de temporizador
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Foco
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pausa
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ocultar temporizador
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bom trabalho
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = A sua pausa terminou
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Precisa de uma pausa?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Pronto para se focar?
+
+##
+
+newtab-sports-widget-menu-follow-teams = Seguir equipas
+newtab-sports-widget-menu-view-upcoming = Ver próximos
+newtab-sports-widget-menu-view-results = Ver resultados
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Datas-chave
+newtab-sports-widget-menu-learn-more = Saber mais
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Mantenha os separadores do Mundial de Futebol
+newtab-sports-widget-get-updates = Obtenha atualizações dos jogos em direto e muito mais.
+newtab-sports-widget-view-schedule =
+    .label = Ver programa
+newtab-sports-widget-follow-teams =
+    .label = Seguir equipas
+newtab-sports-widget-choose-wallpaper =
+    .label = Escolha um fundo
+newtab-sports-widget-skip = Ignorar
+newtab-sports-widget-done-button =
+    .label = Feito
+newtab-sports-widget-group-stage = Fase de grupos
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = EM DIRETO
+newtab-custom-widget-live-refresh =
+    .title = Atualizar pontuações
+    .aria-label = Atualizar pontuações
+newtab-sports-widget-upcoming = Brevemente
+newtab-sports-widget-results = Resultados
+newtab-sports-widget-semi-finals = Meias-finais
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Final
+newtab-sports-widget-delayed = Atrasado
+newtab-sports-widget-postponed = Adiado
+newtab-sports-widget-suspended = Suspenso
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
