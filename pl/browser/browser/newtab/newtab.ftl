@@ -1148,6 +1148,8 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj widżety
 newtab-sports-widget-message-day-in-play-title = Nie wychodź z gry dzięki widżetom { -brand-product-name(case: "gen") }
 newtab-sports-widget-message-day-in-play-body = Śledź mistrzostwa świata, realizuj swoje zadania, kontroluj czas na całym świecie i nie tylko.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Przeglądaj widżety
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
