@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Spravovať záložky
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Vymazať nedávnu históriu
+quickactions-cmd-clearrecenthistory2 = súbory cookie, vymazať súbory cookie, vyrovnávacia pamäť, vymazať vyrovnávaciu pamäť, údaje prehliadania, vymazať údaje prehliadania, história, vymazať nedávnu históriu
 quickactions-cmd-clearrecenthistory = vymazať nedávnu históriu, história
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazať históriu

@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Nahlásenie nefunkčnej stránky
 report-broken-site-panel-intro-text = Vaše hlásenie nám pomáha pochopiť a opraviť problémy v prehliadači { -brand-product-name }, aby sme ho zlepšili pre všetkých.
 report-broken-site-panel-learn-more-link = Ďalšie informácie
+report-broken-site-panel-url-label = Adresa URL nefunkčnej stránky
 report-broken-site-panel-reason-intro-text = Čo nefunguje?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Stránka sa nenačítava
