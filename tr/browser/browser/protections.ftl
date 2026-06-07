@@ -247,5 +247,17 @@ privacy-metrics-private-window = { -brand-short-name } gizli pencerelerde takip 
 
 ## VPN promo card and banner
 
+protections-vpn-title = Gizlilik korumalarını tarayıcının ötesine taşıyın
+protections-vpn-header-content = { -mozilla-vpn-brand-name } ile tüm cihazınızı koruyun. Tek dokunuşla tüm trafiği şifreler ve konumunuzu gizler.
 protections-get-vpn-link = { -mozilla-vpn-brand-name }’i edinin
+protections-vpn-title-subscribed = VPN: Abonesiniz
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] { -mozilla-vpn-brand-name }  { $count } ayrı cihazınızda tüm trafiğinizi şifreler ve konumunuzu gizler. Aboneliğinizden en iyi şekilde yararlanmak için <a data-l10n-name="playstore-link">Google Play Store</a> veya <a data-l10n-name="appstore-link">Apple App Store</a>’dan uygulamayı yükleyin.
+       *[other] { -mozilla-vpn-brand-name }  { $count } ayrı cihazınızda tüm trafiğinizi şifreler ve konumunuzu gizler. Aboneliğinizden en iyi şekilde yararlanmak için <a data-l10n-name="playstore-link">Google Play Store</a> veya <a data-l10n-name="appstore-link">Apple App Store</a>’dan uygulamayı yükleyin.
+    }
+protections-vpn-banner-header = Tarayıcının ötesine geçen koruma
+protections-vpn-banner-content = { -mozilla-vpn-brand-name }’i risksiz deneyin, TechRadar’ın neden “hızı, basitliği ve uygun fiyatıyla denemeye değer” dediğini kendiniz görün.
 protections-vpn-banner-link = { -mozilla-vpn-brand-name }’i edinin

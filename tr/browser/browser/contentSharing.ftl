@@ -26,3 +26,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in-2 =
     .label = Paylaşmak için giriş yapın
 content-sharing-modal-policy = Koleksiyonu paylaştığınızda <a data-l10n-name="aup-link">Kabul Edilebilir Kullanım Politikamızı</a> kabul etmiş sayılırsınız
+content-sharing-modal-some-invalid-links = Bazı bağlantılar paylaşılamıyor.
