@@ -75,7 +75,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Najpierw utwórz konto lub zaloguj się na istniejące, aby używać maski dla adresu e-mail
-firefox-relay-offer-legal-notice-control = Tworząc konto i maskę dla adresu e-mail, wyrażasz zgodę na <label data-l10n-name="tos-url">regulamin usługi</label> i <label data-l10n-name="privacy-url">zasady ochrony prywatności</label>.
+firefox-relay-offer-legal-notice-control = Tworząc konto i maskę dla adresu e-mail, zgadzasz się na <label data-l10n-name="tos-url">regulamin usługi</label> i <label data-l10n-name="privacy-url">zasady ochrony prywatności</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 

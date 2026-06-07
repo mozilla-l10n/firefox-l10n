@@ -78,7 +78,7 @@ unauthenticated-choose-location-message = Wybierz spośród 5 położeń lub po
 unauthenticated-bandwidth-limit-message = Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
 unauthenticated-choose-location-message-1 = Wybierz spośród kilku położeń lub pozwól { -brand-product-name(case: "dat") } wybrać najszybsze.
 unauthenticated-get-started = Zacznij teraz
-unauthenticated-terms-of-service-privacy-notice = Kontynuując, wyrażasz zgodę na <a data-l10n-name="vpn-terms-of-service">regulamin usługi</a> i <a data-l10n-name="vpn-privacy-notice">zasady ochrony prywatności</a>.
+unauthenticated-terms-of-service-privacy-notice = Kontynuując, zgadzasz się na <a data-l10n-name="vpn-terms-of-service">regulamin usługi</a> i <a data-l10n-name="vpn-privacy-notice">zasady ochrony prywatności</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Używaj VPN na tej witrynie
     .aria-label = VPN jest włączony na tej witrynie
