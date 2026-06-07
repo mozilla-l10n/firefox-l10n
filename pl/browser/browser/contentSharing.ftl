@@ -43,3 +43,17 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = Nie ma odnośników możliwych do udostępniania
     .message = Można udostępniać tylko odnośniki do treści internetowych.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Udostępniono { $count } stronę
+            [few] Udostępniono { $count } strony
+           *[many] Udostępniono { $count } stron
+        }
+    .message = Spróbuj ponownie po wygaśnięciu jednej ze stron.
+content-sharing-modal-some-invalid-links = Części odnośników nie można udostępniać.
+content-sharing-modal-generic-error-2 =
+    .heading = Coś się nie powiodło
+    .message = Nie udało się utworzyć strony do udostępniania. Spróbuj ponownie później.

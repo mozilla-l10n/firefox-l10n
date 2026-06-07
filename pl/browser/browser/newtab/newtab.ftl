@@ -866,6 +866,9 @@ newtab-daily-briefing-card-timestamp = Zaktualizowano { $minutes } min temu
 newtab-widget-message-title = Nie trać koncentracji dzięki listom i wbudowanemu minutnikowi
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od szybkich przypomnień po codzienne listy zadań, od sesji skupienia po przerwy na rozciągnięcie — nie trać koncentracji ani czasu.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Jedno miejsce, w którym znajdziesz najważniejsze informacje, prognozy i nie tylko
+newtab-widget-message-focus-forecasts-body = Zadbaj o płynny przebieg dnia dzięki widżetom { -brand-product-name(case: "gen") }. Sprawdzaj prognozę pogody, realizuj swoje zadania lub śledź czas w różnych strefach czasowych na świecie.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -927,7 +930,7 @@ newtab-widget-timer-celebration-message-break = Czas się skoncentrować!
 
 newtab-sports-widget-menu-follow-teams = Obserwuj drużyny
 newtab-sports-widget-menu-view-schedule = Harmonogram
-newtab-sports-widget-menu-view-upcoming = Następne
+newtab-sports-widget-menu-view-upcoming = Niedługo
 newtab-sports-widget-menu-view-results = Wyniki
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Kluczowe daty
@@ -1001,7 +1004,7 @@ newtab-custom-widget-live-refresh =
     .aria-label = Odśwież wyniki
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Kluczowe daty
-newtab-sports-widget-upcoming = Następne
+newtab-sports-widget-upcoming = Niedługo
 newtab-sports-widget-results = Wyniki
 newtab-sports-widget-semi-finals = Półfinały
 newtab-sports-widget-bronze-finals = Mecz o trzecie miejsce
