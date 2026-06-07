@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Administrar marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Limpiar historial reciente
+quickactions-cmd-clearrecenthistory2 = cookies, borrar las cookies, caché, borrar la caché, datos de navegación, borrar datos de navegación, historial, borrar el historial reciente
 quickactions-cmd-clearrecenthistory = limpiar historial reciente, historial
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpiar historial
