@@ -21,3 +21,51 @@ user-context-shopping =
 user-context-manage-containers =
     .label = Xestionar los contenedores
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Azul
+user-context-color-green =
+    .label = Verde
+user-context-color-yellow =
+    .label = Mariellu
+user-context-color-orange =
+    .label = Naranxa
+user-context-color-red =
+    .label = Coloráu
+user-context-color-pink =
+    .label = Rosa
+user-context-color-purple =
+    .label = Moráu
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Buelga
+user-context-icon-briefcase =
+    .label = Cartera
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Símbolu del dólar
+user-context-icon-cart =
+    .label = Carru de la compra
+user-context-icon-gift =
+    .label = Regalu
+user-context-icon-food =
+    .label = Comida
+user-context-icon-fruit =
+    .label = Fruta
+user-context-icon-pet =
+    .label = Animal de compaña
+user-context-icon-tree =
+    .label = Árbole
+user-context-icon-chill =
+    .label = Descansu
+user-context-icon-circle =
+    .label = Puntu
+user-context-icon-fence =
+    .label = Valla
