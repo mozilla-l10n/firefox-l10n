@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Xanh lam
+user-context-color-cyan =
+    .label = Xanh lơ
 user-context-color-green =
     .label = Xanh lục
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Hồng
 user-context-color-purple =
     .label = Tím
+user-context-color-violet =
+    .label = Tím
+user-context-color-gray =
+    .label = Xám
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
