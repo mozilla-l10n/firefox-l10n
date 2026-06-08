@@ -215,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = 试用 { -brand-short-name } 的内置 VPN
     .message = 浏览时隐藏真实位置，获得额外保护。每月可免费获得 { $maxUsage } GB VPN 流量
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = 试用 { -brand-short-name } 的内置 VPN
+    .message = 隐藏真实位置，获得额外保护。
 ip-protection-not-opted-in-button = 开始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

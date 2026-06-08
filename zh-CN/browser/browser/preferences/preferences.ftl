@@ -851,6 +851,10 @@ performance-default-content-process-count =
     .label = { $num } (默认)
 performance-group =
     .label = 性能
+performance-use-recommended-settings-checkbox-2 =
+    .label = 使用推荐的性能设置
+    .description = 自动选择适合本机硬件和操作系统的设置。
+    .accesskey = U
 
 ## Accessibility page
 

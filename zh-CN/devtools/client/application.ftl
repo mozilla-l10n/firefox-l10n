@@ -117,6 +117,10 @@ sidebar-item-session-history = 会话历史
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = 显示会话历史数据
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = 会话历史图表不可用
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = 目标不支持显示会话历史图表
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 警告图标
