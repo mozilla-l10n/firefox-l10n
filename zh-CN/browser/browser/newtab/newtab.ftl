@@ -666,6 +666,7 @@ newtab-new-user-custom-wallpaper-cta = 现在就试试
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = 新鲜壁纸到货
 newtab-wallpaper-feature-highlight-subtitle = 选择您最爱的壁纸，让每次打开新标签页都亲切如归家。
 newtab-wallpaper-feature-highlight-cta = 选择壁纸
 
