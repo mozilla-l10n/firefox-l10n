@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = AI-chatbotti
 menu-view-contextual-password-manager =
     .label = Salasanat
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Avoimet välilehdet
 sidebar-options-menu-button =
     .title = Avaa valikko
 
@@ -141,6 +146,11 @@ sidebar-menu-history-label =
     .label = Historia
 sidebar-menu-synced-tabs-label =
     .label = Välilehdet muista laitteista
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Avoimet välilehdet
 sidebar-menu-bookmarks-label =
     .label = Kirjanmerkit
 sidebar-menu-customize-label =
@@ -187,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Avoimet välilehdet
 sidebar-menu-cpm-header =
     .heading = Salasanat
 sidebar-menu-bookmarks-header =
@@ -206,6 +220,13 @@ sidebar-bookmarks-folder-mobile = Kannettavan laitteen kirjanmerkit
 sidebar-customize-title = Muokkaa sivupalkkia
 sidebar-history-title = Sivuhistoria
 sidebar-syncedtabs-title = Välilehdet muista laitteista
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Avoimet välilehdet
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Kiinnitetyt välilehdet
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Kalenteri
+datetime-time =
+    .aria-label = Aika
