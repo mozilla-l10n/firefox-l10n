@@ -40,6 +40,8 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Cap jaroë
 user-context-icon-briefcase =
     .label = Tah Beureukaih
 # String represents a money sign but currently uses a dollar sign
