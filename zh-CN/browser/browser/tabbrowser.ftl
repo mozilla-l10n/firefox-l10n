@@ -329,6 +329,7 @@ tab-group-overflow-count-tooltip = 还有 { $tabCount } 个标签页
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = 让标签页井井有条
+tab-groups-list-empty-description = 将标签页拖放到另一个标签页之上，或右键点击标签页，即可开始整理。创建的群组会保存在这里，方便以后查找。
 tab-groups-list-empty-button = 创建标签页群组
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = 新建标签页群组

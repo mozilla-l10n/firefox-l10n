@@ -824,6 +824,10 @@ newtab-widget-section-feedback = 告诉我们您的想法
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
     .label = 显示更多小组件
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = 折叠小组件
 newtab-widget-lists-name-default = 核对清单
 
 ## Strings introduced by the Nova redesign of the Timer widget
