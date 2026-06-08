@@ -49,3 +49,31 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Адбітак
+user-context-icon-briefcase =
+    .label = Партфель
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Знак долара
+user-context-icon-cart =
+    .label = Кошык
+user-context-icon-vacation =
+    .label = Адпачынак
+user-context-icon-gift =
+    .label = Падарунак
+user-context-icon-food =
+    .label = Ежа
+user-context-icon-fruit =
+    .label = Садавіна
+user-context-icon-pet =
+    .label = Жывёліна
+user-context-icon-tree =
+    .label = Дрэва
+user-context-icon-chill =
+    .label = Прастуда
+user-context-icon-circle =
+    .label = Кропка
+user-context-icon-fence =
+    .label = Агароджа
