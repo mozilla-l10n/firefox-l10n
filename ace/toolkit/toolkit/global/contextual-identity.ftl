@@ -22,10 +22,20 @@ user-context-shopping =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Beulawu
+user-context-color-green =
+    .label = Ijô
+user-context-color-yellow =
+    .label = Kunèng
 user-context-color-orange =
     .label = Orèn
 user-context-color-red =
     .label = Mirah
+user-context-color-pink =
+    .label = Mirah Jambèe
+user-context-color-purple =
+    .label = Gadông
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
