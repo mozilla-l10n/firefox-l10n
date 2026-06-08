@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Urdina
+user-context-color-cyan =
+    .label = Ziana
 user-context-color-green =
     .label = Berdea
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Arrosa
 user-context-color-purple =
     .label = Morea
+user-context-color-violet =
+    .label = Bioleta
+user-context-color-gray =
+    .label = Grisa
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
