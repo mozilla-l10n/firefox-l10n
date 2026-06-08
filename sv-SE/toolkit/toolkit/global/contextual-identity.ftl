@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Hantera behållare
     .accesskey = b
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Fingeravtryck
+user-context-icon-briefcase =
+    .label = Portfölj
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollartecken
+user-context-icon-cart =
+    .label = Varukorg
+user-context-icon-vacation =
+    .label = Semester
+user-context-icon-gift =
+    .label = Present
+user-context-icon-food =
+    .label = Livsmedel
+user-context-icon-fruit =
+    .label = Frukt
+user-context-icon-pet =
+    .label = Husdjur
+user-context-icon-tree =
+    .label = Träd
+user-context-icon-chill =
+    .label = Relax
+user-context-icon-circle =
+    .label = Punkt
+user-context-icon-fence =
+    .label = Staket
