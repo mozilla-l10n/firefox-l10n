@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Upravljanje vsebnikov
     .accesskey = U
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Prstni odtis
+user-context-icon-briefcase =
+    .label = Aktovka
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dolarski znak
+user-context-icon-cart =
+    .label = Nakupovalni voziček
+user-context-icon-vacation =
+    .label = Počitnice
+user-context-icon-gift =
+    .label = Darilo
+user-context-icon-food =
+    .label = Hrana
+user-context-icon-fruit =
+    .label = Sadje
+user-context-icon-pet =
+    .label = Domači ljubljenček
+user-context-icon-tree =
+    .label = Drevo
+user-context-icon-chill =
+    .label = Kul
+user-context-icon-circle =
+    .label = Pika
+user-context-icon-fence =
+    .label = Ograja
