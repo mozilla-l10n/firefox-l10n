@@ -228,6 +228,7 @@ backup-file-how-to-restore-header = Com es restaura:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Obriu el menú de l'aplicació ☰ i aneu a Configuració > Sincronització
+backup-file-moz-browser-restore-step-2-1 = Feu clic a "Restaureu les vostres dades"i seleccioneu aquest fitxer
 backup-file-moz-browser-restore-step-2 = Feu clic a "Selecciona el fitxer de la còpia de seguretat” i seleccioneu aquest fitxer
 backup-file-moz-browser-restore-step-3 = Reinicieu el { -brand-short-name } quan se us demani
 backup-file-other-browser-restore-step-1 = Baixeu i instal·leu el { -brand-short-name }
@@ -235,6 +236,7 @@ backup-file-download-moz-browser-button = Baixa
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Inicieu el { -brand-short-name }, obriu el menú de l'aplicació ☰ i aneu a Configuració > Sincronització
+backup-file-other-browser-restore-step-3-1 = Feu clic a "Restaureu les vostres dades"i seleccioneu aquest fitxer
 backup-file-other-browser-restore-step-3 = Feu clic a "Selecciona el fitxer de còpia de seguretat” i seleccioneu aquest fitxer
 backup-file-other-browser-restore-step-4 = Reinicieu el { -brand-short-name } quan se us demani
 

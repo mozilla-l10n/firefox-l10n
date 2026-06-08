@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Gestiona les adreces d'interès
 quickactions-cmd-bookmarks = adreces d'interès
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Esborra l’historial recent
+quickactions-cmd-clearrecenthistory2 = galetes, esborra galetes, memòria cau, esborra la memòria cau, dades de navegació, esborra dades de navegació, historial, esborra l'historial recent
 quickactions-cmd-clearrecenthistory = esborra l’historial recent, neteja l’historial recent, historial
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Esborra l'historial
@@ -414,6 +415,9 @@ quickactions-cmd-help = ajuda, assistència, suport
 # Opens the devtools web inspector
 quickactions-inspector2 = Obre les eines per a desenvolupadors
 quickactions-cmd-inspector2 = inspector, eines de desenvolupament, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Trieu un color
+quickactions-cmd-colorpicker = selector de color, comptagotes, tria color
 # Opens Firefox Library
 quickactions-cmd-library = biblioteca
 quickactions-library = Obre la biblioteca
@@ -1284,6 +1288,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = codiqr
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = codi qr-{ $domini }
 
 ## EME notification panel
 
