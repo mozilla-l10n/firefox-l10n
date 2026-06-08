@@ -27,3 +27,13 @@ user-context-none =
 user-context-manage-containers =
     .label = Xestionar contedores
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fence =
+    .label = Valado
