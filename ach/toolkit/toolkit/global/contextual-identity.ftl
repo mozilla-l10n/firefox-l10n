@@ -28,10 +28,26 @@ user-context-none =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Buluu
+user-context-color-green =
+    .label = Girin
+user-context-color-yellow =
+    .label = Yelo
+user-context-color-orange =
+    .label = Oreny
+user-context-color-red =
+    .label = Kwar
+user-context-color-pink =
+    .label = Ping
+user-context-color-purple =
+    .label = Papul
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Keto cing
 user-context-icon-briefcase =
     .label = Kicaa
 # String represents a money sign but currently uses a dollar sign
