@@ -271,3 +271,11 @@ protections-vpn-title = Вазьміце ахову прыватнасці па-
 protections-vpn-header-content = Абараніце ўсю сваю прыладу з дапамогай { -mozilla-vpn-brand-name }. Адно націсканне шыфруе ўвесь трафік і хавае ваша месцазнаходжанне.
 protections-get-vpn-link = Атрымаць { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Вы падпісаны
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Выкарыстанне { -mozilla-vpn-brand-name } шыфруе ўвесь ваш трафік і хавае ваша месцазнаходжанне — на { $count } прыладзе. Атрымайце максімум ад сваёй падпіскі — дадайце яе з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] Выкарыстанне { -mozilla-vpn-brand-name } шыфруе ўвесь ваш трафік і хавае ваша месцазнаходжанне — на { $count } прыладах. Атрымайце максімум ад сваёй падпіскі — дадайце яе з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[many] Выкарыстанне { -mozilla-vpn-brand-name } шыфруе ўвесь ваш трафік і хавае ваша месцазнаходжанне — на { $count } прыладах. Атрымайце максімум ад сваёй падпіскі — дадайце яе з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
