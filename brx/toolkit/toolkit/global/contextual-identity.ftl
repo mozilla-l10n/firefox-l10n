@@ -33,5 +33,21 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = आसिनि दाग
 user-context-icon-vacation =
     .label = गोलावसुटि
+user-context-icon-gift =
+    .label = बान्था
+user-context-icon-food =
+    .label = जामुं
+user-context-icon-fruit =
+    .label = फिथाइ
+user-context-icon-pet =
+    .label = आंगो जुनात
+user-context-icon-tree =
+    .label = बिफां
+user-context-icon-chill =
+    .label = गुसु
+user-context-icon-circle =
+    .label = बिंदु
