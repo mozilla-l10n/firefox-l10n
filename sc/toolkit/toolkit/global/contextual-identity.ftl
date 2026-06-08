@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Biaitu
+user-context-color-cyan =
+    .label = Colore de chelu
 user-context-color-green =
     .label = Birde
 user-context-color-yellow =
@@ -45,6 +47,8 @@ user-context-color-pink =
     .label = Rosa
 user-context-color-purple =
     .label = Muradu
+user-context-color-gray =
+    .label = Chinisu
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
