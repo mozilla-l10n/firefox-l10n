@@ -16,9 +16,6 @@ user-context-shopping =
     .label = Meubloe
     .accesskey = S
 
-##
-
-
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 

@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Names of the default containers in Firefox.
-## See https://support.mozilla.org/kb/how-use-firefox-containers
-
-
-##
-
-
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
