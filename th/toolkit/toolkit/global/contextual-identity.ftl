@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = จัดการที่แยกข้อมูล
     .accesskey = จ
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = ลายนิ้วมือ
+user-context-icon-briefcase =
+    .label = กระเป๋าเอกสาร
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = เครื่องหมายดอลลาร์
+user-context-icon-cart =
+    .label = รถเข็นซื้อของ
+user-context-icon-vacation =
+    .label = วันหยุดพักผ่อน
+user-context-icon-gift =
+    .label = ของขวัญ
+user-context-icon-food =
+    .label = อาหาร
+user-context-icon-fruit =
+    .label = ผลไม้
+user-context-icon-pet =
+    .label = สัตว์เลี้ยง
+user-context-icon-tree =
+    .label = ต้นไม้
+user-context-icon-chill =
+    .label = ผ่อนคลาย
+user-context-icon-circle =
+    .label = จุด
+user-context-icon-fence =
+    .label = รั้ว
