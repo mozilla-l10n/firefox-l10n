@@ -222,6 +222,18 @@ windows-10-eos-sync-callout-primary-advance-button-label = Další
 link-preview-onboarding-callout-title = Novinka: Klepnutím a podržením tlačítka myši zobrazíte náhled odkazu
 link-preview-onboarding-callout-description = Podívejte se na krátký popis, dobu čtení a další informace, abyste se rozhodli, zda odkaz stojí za klepnutí. K dispozici je také po klepnutí pravým tlačítkem myši.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Zbavte se nepořádku pomocí skupin panelů
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
