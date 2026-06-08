@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Kalendář
+datetime-time =
+    .aria-label = Čas

@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Nahlášení nefunkční stránky
 report-broken-site-panel-intro-text = Vaše hlášení nám pomáhá porozumět problémům ve { -brand-product-name(case: "loc") } a opravit je, aby byl lepší pro všechny.
 report-broken-site-panel-learn-more-link = Zjistit více
+report-broken-site-panel-url-label = Adresa URL nefunkční stránky
 report-broken-site-panel-reason-intro-text = Co nefunguje?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Stránka se nenačítá
