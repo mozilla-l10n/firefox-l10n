@@ -31,6 +31,12 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Блакитний
+user-context-color-green =
+    .label = Зелений
+user-context-color-yellow =
+    .label = Жовтий
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
