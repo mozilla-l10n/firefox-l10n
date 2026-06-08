@@ -31,6 +31,10 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = 青
+user-context-color-green =
+    .label = 緑
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
