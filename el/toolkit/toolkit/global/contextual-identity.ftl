@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Μπλε
+user-context-color-cyan =
+    .label = Κυανό
 user-context-color-green =
     .label = Πράσινο
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Ροζ
 user-context-color-purple =
     .label = Μοβ
+user-context-color-violet =
+    .label = Βιολετί
+user-context-color-gray =
+    .label = Γκρι
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
