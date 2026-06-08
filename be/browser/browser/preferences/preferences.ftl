@@ -1855,11 +1855,11 @@ history-custom-section-header =
     .label = Дадатковыя налады
     .description = Настройце, што павінен запомніць { -brand-short-name } пасля закрыцця браўзера.
 history-custom-button =
-    .label = Выберыце, што вы хочаце, каб { -brand-short-name } запамінаў
+    .label = Выбраць, што вы хочаце, каб { -brand-short-name } запамінаў
 history-group =
     .label = Гісторыя
 history-remember-option-all2 =
-    .label = памятаць гісторыю
+    .label = Памятаць гісторыю
 
 ## Privacy Section - Site Data
 
