@@ -250,6 +250,13 @@ protections-vpn-title = Vie yksityisyyden suojaus selaimen ulkopuolelle
 protections-vpn-header-content = Suojaa koko laitteesi { -mozilla-vpn-brand-name }:llä. Yksi napautus salaa kaiken liikenteen ja piilottaa sijaintisi.
 protections-get-vpn-link = Hanki { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Tilattu
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] { -mozilla-vpn-brand-name }:ää käyttämällä kaikki verkkoliikenteesi salataan ja sijaintisi piilotetaan – jopa { $count } laitteella. Saat kaiken irti tilauksestasi – lisää se <a data-l10n-name="playstore-link">Google Play Kaupasta</a> tai <a data-l10n-name="appstore-link">Apple App Storesta</a>.
+       *[other] { -mozilla-vpn-brand-name }:ää käyttämällä kaikki verkkoliikenteesi salataan ja sijaintisi piilotetaan – jopa { $count } laitteella. Saat kaiken irti tilauksestasi – lisää se <a data-l10n-name="playstore-link">Google Play Kaupasta</a> tai <a data-l10n-name="appstore-link">Apple App Storesta</a>.
+    }
 protections-vpn-banner-header = Suojaus, joka ulottuu selaimen ulkopuolelle
 protections-vpn-banner-content = Kokeile { -mozilla-vpn-brand-name }:ää riskittä ja näet, miksi TechRadar totesi: ”Sen nopeus, yksinkertaisuus ja alhainen kuukausihinta tekevät siitä kokeilemisen arvoisen.”
 protections-vpn-banner-link = Hanki { -mozilla-vpn-brand-name }

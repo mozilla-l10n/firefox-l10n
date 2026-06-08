@@ -100,3 +100,11 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Varmenteen varmuuskopion salasana (uudelleen):
 set-password-reminder = Tärkeää: Jos varmenteen varmuuskopion salasana unohtuu, niin varmennetta ei voi palauttaa myöhemmin. Säilytä salasana turvallisessa paikassa.
+
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Suojattu todennus
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Todenna itsesi turvalaitteelle ({ $tokenName }). Todennuksen tekeminen riippuu laitteesta (esimerkiksi sormenjälkilukijan käyttö tai koodin syöttäminen näppäimistöllä).
