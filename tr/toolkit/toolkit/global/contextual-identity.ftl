@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = Kapsayıcıları yönet
     .accesskey = K
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Mavi
+user-context-color-green =
+    .label = Yeşil
+user-context-color-yellow =
+    .label = Sarı
+user-context-color-orange =
+    .label = Turuncu
+user-context-color-red =
+    .label = Kırmızı
+user-context-color-pink =
+    .label = Pembe
+user-context-color-purple =
+    .label = Mor
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
