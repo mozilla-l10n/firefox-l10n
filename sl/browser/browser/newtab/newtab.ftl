@@ -905,6 +905,10 @@ newtab-sports-widget-semi-finals = Polfinala
 newtab-sports-widget-bronze-finals = Tekma za tretje mesto
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") }–{ DATETIME($end, month: "short", day: "numeric") }
 newtab-sports-widget-cancelled = Odpovedano
 newtab-sports-widget-information = Podatki o tekmi
 newtab-sports-widget-view-results-link = Prikaži izide
