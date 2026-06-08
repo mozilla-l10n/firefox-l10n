@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Chestionar contenedors
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Ditalada
+user-context-icon-briefcase =
+    .label = Cartera
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Signo de dolar
+user-context-icon-cart =
+    .label = Carret d'a crompa
+user-context-icon-vacation =
+    .label = Vacanzas
+user-context-icon-gift =
+    .label = Regalo
+user-context-icon-food =
+    .label = Minchar
+user-context-icon-fruit =
+    .label = Fruita
+user-context-icon-pet =
+    .label = Animal
+user-context-icon-tree =
+    .label = Arbol
+user-context-icon-chill =
+    .label = Relax
+user-context-icon-circle =
+    .label = Punto
+user-context-icon-fence =
+    .label = Cleta
