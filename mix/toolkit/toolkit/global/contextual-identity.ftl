@@ -13,6 +13,8 @@
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Nchaa
 user-context-color-green =
     .label = Kuii
 user-context-color-yellow =
