@@ -31,6 +31,8 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Amidadi
 user-context-color-green =
     .label = Azegzaw
 user-context-color-yellow =
