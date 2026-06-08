@@ -47,3 +47,31 @@ user-context-color-pink =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Imprenta digitale
+user-context-icon-briefcase =
+    .label = Valìgia
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Sìmbolu de su dòllaru
+user-context-icon-cart =
+    .label = Carrellu de s'ispesa
+user-context-icon-vacation =
+    .label = Vacàntzia
+user-context-icon-gift =
+    .label = Donu
+user-context-icon-food =
+    .label = Cosa de papare
+user-context-icon-fruit =
+    .label = Fruta
+user-context-icon-pet =
+    .label = Animale
+user-context-icon-tree =
+    .label = Mata
+user-context-icon-chill =
+    .label = Discansu
+user-context-icon-circle =
+    .label = Puntu
+user-context-icon-fence =
+    .label = Cresura
