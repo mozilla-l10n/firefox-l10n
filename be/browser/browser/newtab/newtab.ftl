@@ -1059,7 +1059,25 @@ newtab-sports-widget-world-cup-champions = Чэмпіёны свету 2026
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Поўны час
 newtab-sports-widget-match-halftime = Перапынак
+newtab-sports-widget-match-extra-time = Дадатковы час
 newtab-sports-widget-match-penalties = Пенальці
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Папярэдняя
+    .title = Папярэдняя
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Наступная
+    .title = Наступная
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Прамы эфір матчу { $index } з { $total }
+    .title = Прамы эфір матчу { $index } з { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1099,6 +1117,32 @@ newtab-sports-widget-match-aria-label-upcoming-delayed =
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } супраць { $awayTeam }, перанесена
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } супраць { $awayTeam }, прыпынена
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } супраць { $awayTeam }, адменена
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Боснія і Герцагавіна
+newtab-sports-widget-team-name-label-civ =
+    .label = Кот-д'Івуар
+newtab-sports-widget-team-name-label-cod =
+    .label = ДР Конга
+newtab-sports-widget-team-name-label-eng =
+    .label = Англія
+newtab-sports-widget-team-name-label-sco =
+    .label = Шатландыя
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Пачніце чэмпіянат свету з новымі шпалерамі
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
