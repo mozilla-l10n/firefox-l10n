@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = 파란색
+user-context-color-green =
+    .label = 초록색
+user-context-color-yellow =
+    .label = 노란색
+user-context-color-orange =
+    .label = 주황색
+user-context-color-red =
+    .label = 빨간색
+user-context-color-pink =
+    .label = 분홍색
+user-context-color-purple =
+    .label = 보라색
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
