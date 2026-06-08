@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Konténerek kezelése
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Ujjlenyomat
+user-context-icon-briefcase =
+    .label = Aktatáska
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollárjel
+user-context-icon-cart =
+    .label = Bevásárlókosár
+user-context-icon-vacation =
+    .label = Vakáció
+user-context-icon-gift =
+    .label = Ajándék
+user-context-icon-food =
+    .label = Étel
+user-context-icon-fruit =
+    .label = Gyümölcs
+user-context-icon-pet =
+    .label = Állatok
+user-context-icon-tree =
+    .label = Fa
+user-context-icon-chill =
+    .label = Nyugalom
+user-context-icon-circle =
+    .label = Pont
+user-context-icon-fence =
+    .label = Kerítés
