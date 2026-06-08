@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Mėlyna
+user-context-color-green =
+    .label = Žalia
+user-context-color-yellow =
+    .label = Geltona
+user-context-color-orange =
+    .label = Oranžinė
+user-context-color-red =
+    .label = Raudona
+user-context-color-pink =
+    .label = Rožinė
+user-context-color-purple =
+    .label = Purpurinė
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
