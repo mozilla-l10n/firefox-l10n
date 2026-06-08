@@ -37,3 +37,15 @@ user-context-manage-containers =
 
 user-context-icon-vacation =
     .label = छुट्टी
+user-context-icon-gift =
+    .label = उपहार
+user-context-icon-food =
+    .label = भोजन
+user-context-icon-fruit =
+    .label = फल
+user-context-icon-pet =
+    .label = पालतू पशु
+user-context-icon-tree =
+    .label = पेड़
+user-context-icon-chill =
+    .label = सर्द
