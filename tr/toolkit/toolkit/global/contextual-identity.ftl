@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Mavi
+user-context-color-cyan =
+    .label = Açık mavi
 user-context-color-green =
     .label = Yeşil
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Pembe
 user-context-color-purple =
     .label = Mor
+user-context-color-violet =
+    .label = Eflatun
+user-context-color-gray =
+    .label = Gri
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
