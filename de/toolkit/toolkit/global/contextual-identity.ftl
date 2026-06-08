@@ -27,3 +27,59 @@ user-context-none =
 user-context-manage-containers =
     .label = Tab-Umgebungen verwalten
     .accesskey = v
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Blau
+user-context-color-cyan =
+    .label = Cyan
+user-context-color-green =
+    .label = Grün
+user-context-color-yellow =
+    .label = Gelb
+user-context-color-orange =
+    .label = Orange
+user-context-color-red =
+    .label = Rot
+user-context-color-pink =
+    .label = Pink
+user-context-color-purple =
+    .label = Purpur
+user-context-color-violet =
+    .label = Violett
+user-context-color-gray =
+    .label = Grau
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Fingerabdruck
+user-context-icon-briefcase =
+    .label = Aktenkoffer
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollar-Symbol
+user-context-icon-cart =
+    .label = Einkaufswagen
+user-context-icon-vacation =
+    .label = Urlaub
+user-context-icon-gift =
+    .label = Geschenk
+user-context-icon-food =
+    .label = Essen
+user-context-icon-fruit =
+    .label = Frucht
+user-context-icon-pet =
+    .label = Haustier
+user-context-icon-tree =
+    .label = Baum
+user-context-icon-chill =
+    .label = Entspannung
+user-context-icon-circle =
+    .label = Punkt
+user-context-icon-fence =
+    .label = Zaun

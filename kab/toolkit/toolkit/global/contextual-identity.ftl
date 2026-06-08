@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = Sefrek imagbaren
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Amidadi
+user-context-color-green =
+    .label = Azegzaw
+user-context-color-yellow =
+    .label = Awraɣ
+user-context-color-orange =
+    .label = Ačinawi
+user-context-color-red =
+    .label = Azeggaɣ
+user-context-color-pink =
+    .label = Axuxi
+user-context-color-purple =
+    .label = Avyuli
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Adsil umḍin
+user-context-icon-briefcase =
+    .label = Aqwrab
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Azamul n Dollar
+user-context-icon-cart =
+    .label = Taqecwalt n lqeḍyan
+user-context-icon-vacation =
+    .label = Imuras
+user-context-icon-gift =
+    .label = Araz
+user-context-icon-food =
+    .label = Tuččit
+user-context-icon-fruit =
+    .label = Agummu
+user-context-icon-pet =
+    .label = Aɣeṛsiw n uxxam
+user-context-icon-tree =
+    .label = Aseklu
+user-context-icon-chill =
+    .label = Agrud
+user-context-icon-circle =
+    .label = Taneqqiṭ
+user-context-icon-fence =
+    .label = Talast

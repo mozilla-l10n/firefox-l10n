@@ -27,3 +27,59 @@ user-context-none =
 user-context-manage-containers =
     .label = Διαχείριση θεματικών ενοτήτων
     .accesskey = Θ
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Μπλε
+user-context-color-cyan =
+    .label = Κυανό
+user-context-color-green =
+    .label = Πράσινο
+user-context-color-yellow =
+    .label = Κίτρινο
+user-context-color-orange =
+    .label = Πορτοκαλί
+user-context-color-red =
+    .label = Κόκκινο
+user-context-color-pink =
+    .label = Ροζ
+user-context-color-purple =
+    .label = Μοβ
+user-context-color-violet =
+    .label = Βιολετί
+user-context-color-gray =
+    .label = Γκρι
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Αποτύπωμα
+user-context-icon-briefcase =
+    .label = Χαρτοφύλακας
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Σήμα δολαρίου
+user-context-icon-cart =
+    .label = Καλάθι αγορών
+user-context-icon-vacation =
+    .label = Διακοπές
+user-context-icon-gift =
+    .label = Δώρο
+user-context-icon-food =
+    .label = Φαγητό
+user-context-icon-fruit =
+    .label = Φρούτα
+user-context-icon-pet =
+    .label = Κατοικίδιο
+user-context-icon-tree =
+    .label = Δέντρο
+user-context-icon-chill =
+    .label = Ξεκούραση
+user-context-icon-circle =
+    .label = Κουκκίδα
+user-context-icon-fence =
+    .label = Περίφραξη

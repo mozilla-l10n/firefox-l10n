@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = கலன்களை நிர்வகி
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = நீலம்
+user-context-color-green =
+    .label = பச்சை
+user-context-color-yellow =
+    .label = மஞ்சள்
+user-context-color-orange =
+    .label = செம்மஞ்சள்
+user-context-color-red =
+    .label = சிகப்பு
+user-context-color-pink =
+    .label = இளஞ்சிவப்பு
+user-context-color-purple =
+    .label = ஊதா
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = கைரேகை
+user-context-icon-briefcase =
+    .label = பெட்டி
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = டாலர் குறி
+user-context-icon-cart =
+    .label = கடை வண்டி
+user-context-icon-vacation =
+    .label = விடுமுறை
+user-context-icon-gift =
+    .label = அன்பளிப்பு
+user-context-icon-food =
+    .label = உணவு
+user-context-icon-fruit =
+    .label = பழம்
+user-context-icon-pet =
+    .label = செல்லப்பிராணி
+user-context-icon-tree =
+    .label = மரம்
+user-context-icon-chill =
+    .label = குளிர்ச்சி
+user-context-icon-circle =
+    .label = புள்ளி
+user-context-icon-fence =
+    .label = வேலி

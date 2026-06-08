@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = Manage Containers
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Asul
+user-context-color-green =
+    .label = Berde
+user-context-color-yellow =
+    .label = Dilaw
+user-context-color-orange =
+    .label = Kahel
+user-context-color-red =
+    .label = Pula
+user-context-color-pink =
+    .label = Pink
+user-context-color-purple =
+    .label = Lila
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Tatak ng daliri
+user-context-icon-briefcase =
+    .label = Lalagyan
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Simbolo ng dolyar
+user-context-icon-cart =
+    .label = Shopping cart
+user-context-icon-vacation =
+    .label = Bakasyon
+user-context-icon-gift =
+    .label = Regalo
+user-context-icon-food =
+    .label = Pagkain
+user-context-icon-fruit =
+    .label = Prutas
+user-context-icon-pet =
+    .label = Alagang Hayop
+user-context-icon-tree =
+    .label = Puno
+user-context-icon-chill =
+    .label = Palamig
+user-context-icon-circle =
+    .label = Tuldok
+user-context-icon-fence =
+    .label = Bakod

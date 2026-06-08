@@ -27,3 +27,59 @@ user-context-none =
 user-context-manage-containers =
     .label = Behandle beholdere
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Blå
+user-context-color-cyan =
+    .label = Turkis
+user-context-color-green =
+    .label = Grønn
+user-context-color-yellow =
+    .label = Gul
+user-context-color-orange =
+    .label = Oransje
+user-context-color-red =
+    .label = Rød
+user-context-color-pink =
+    .label = Rosa
+user-context-color-purple =
+    .label = Lilla
+user-context-color-violet =
+    .label = Fiolett
+user-context-color-gray =
+    .label = Grå
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Fingeravtrykk
+user-context-icon-briefcase =
+    .label = Dokumentmappe
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollartegn
+user-context-icon-cart =
+    .label = Handlevogn
+user-context-icon-vacation =
+    .label = Ferie
+user-context-icon-gift =
+    .label = Gave
+user-context-icon-food =
+    .label = Mat
+user-context-icon-fruit =
+    .label = Frukt
+user-context-icon-pet =
+    .label = Kjæledyr
+user-context-icon-tree =
+    .label = Tre
+user-context-icon-chill =
+    .label = Avslapping
+user-context-icon-circle =
+    .label = Punkt
+user-context-icon-fence =
+    .label = Gjerde

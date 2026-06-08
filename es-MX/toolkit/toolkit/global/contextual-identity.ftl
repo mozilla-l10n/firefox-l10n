@@ -27,3 +27,59 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestionar contenedores
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Azul
+user-context-color-cyan =
+    .label = Cian
+user-context-color-green =
+    .label = Verde
+user-context-color-yellow =
+    .label = Amarillo
+user-context-color-orange =
+    .label = Naranja
+user-context-color-red =
+    .label = Rojo
+user-context-color-pink =
+    .label = Rosa
+user-context-color-purple =
+    .label = Morado
+user-context-color-violet =
+    .label = Violeta
+user-context-color-gray =
+    .label = Gris
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Huella dactilar
+user-context-icon-briefcase =
+    .label = Maletín
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Signo de dólar
+user-context-icon-cart =
+    .label = Carrito de compras
+user-context-icon-vacation =
+    .label = Vacaciones
+user-context-icon-gift =
+    .label = Regalo
+user-context-icon-food =
+    .label = Comida
+user-context-icon-fruit =
+    .label = Fruta
+user-context-icon-pet =
+    .label = Mascota
+user-context-icon-tree =
+    .label = Árbol
+user-context-icon-chill =
+    .label = Enfriar
+user-context-icon-circle =
+    .label = Punto
+user-context-icon-fence =
+    .label = Cerco

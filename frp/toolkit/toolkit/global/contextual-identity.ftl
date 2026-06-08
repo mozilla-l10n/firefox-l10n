@@ -6,69 +6,42 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
-user-context-personal =
-    .label = Pa ngat moni
-    .accesskey = P
-user-context-work =
-    .label = Tic
-    .accesskey = T
-user-context-banking =
-    .label = Beng
-    .accesskey = B
-user-context-shopping =
-    .label = Wil
-    .accesskey = W
 
 ##
 
-user-context-none =
-    .label = Lamak Jami pee
-    .accesskey = L
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-color-blue =
-    .label = Buluu
+    .label = Blu
 user-context-color-green =
-    .label = Girin
+    .label = Vèrd
 user-context-color-yellow =
-    .label = Yelo
+    .label = Jôno
 user-context-color-orange =
-    .label = Oreny
+    .label = Orang.e
 user-context-color-red =
-    .label = Kwar
+    .label = Rojo
 user-context-color-pink =
-    .label = Ping
+    .label = Rosa
 user-context-color-purple =
-    .label = Papul
+    .label = Violèt
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-icon-fingerprint =
-    .label = Keto cing
+    .label = Marca de dêts
 user-context-icon-briefcase =
-    .label = Kicaa
+    .label = Malèta
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 user-context-icon-dollar =
-    .label = Dollar sign
-user-context-icon-cart =
-    .label = Kikabo me wil
-user-context-icon-vacation =
-    .label = Yweyo
-user-context-icon-gift =
-    .label = Mic
-user-context-icon-food =
-    .label = Dek
+    .label = Sìnyo Dolar
 user-context-icon-fruit =
-    .label = Nyig yat
-user-context-icon-pet =
-    .label = Lee
+    .label = Fruta
 user-context-icon-tree =
-    .label = Yat
-user-context-icon-chill =
-    .label = Ngico
+    .label = Âbro
 user-context-icon-circle =
-    .label = Alama
+    .label = Puent

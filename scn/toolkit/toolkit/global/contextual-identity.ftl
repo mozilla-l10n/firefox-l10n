@@ -6,74 +6,56 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
-user-context-personal =
-    .label = ذاتی
-    .accesskey = P
-user-context-work =
-    .label = کم
-    .accesskey = W
-user-context-banking =
-    .label = بینکاری
-    .accesskey = B
-user-context-shopping =
-    .label = خریداری
-    .accesskey = S
 
 ##
 
-user-context-none =
-    .label = کوئی کنٹینر کائنی
-    .accesskey = N
-user-context-manage-containers =
-    .label = کنٹینرز دا بندوبست کرو
-    .accesskey = o
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-color-blue =
-    .label = نیلا
+    .label = Blu
 user-context-color-green =
-    .label = ساوا
+    .label = Virdi
 user-context-color-yellow =
-    .label = پیلا
+    .label = Giallu
 user-context-color-orange =
-    .label = نارنجی
+    .label = Aranciu
 user-context-color-red =
-    .label = لال
+    .label = Russu
 user-context-color-pink =
-    .label = گلابی
+    .label = Rosa
 user-context-color-purple =
-    .label = جامنی
+    .label = Viola
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-icon-fingerprint =
-    .label = انڳل دا نشان
+    .label = Urma diggitali
 user-context-icon-briefcase =
-    .label = بریف کیس
+    .label = Valiggetta
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 user-context-icon-dollar =
-    .label = ڈالر دا نشان
+    .label = Sìmmulu dû dòllaru
 user-context-icon-cart =
-    .label = خریداری دی ٹوکری
+    .label = Carrettu dâ spisa
 user-context-icon-vacation =
-    .label = چھٹى
+    .label = Vacanza
 user-context-icon-gift =
-    .label = سوکھڑی
+    .label = Rijalu
 user-context-icon-food =
-    .label = کھاݨا
+    .label = Manciari
 user-context-icon-fruit =
-    .label = پھَل
+    .label = Frutta
 user-context-icon-pet =
-    .label = پلوڑ زناور
+    .label = Armalu
 user-context-icon-tree =
-    .label = وݨ
+    .label = Àrbulu
 user-context-icon-chill =
-    .label = ٹھڈھا
+    .label = Friddu
 user-context-icon-circle =
-    .label = نقطہ
+    .label = Puntu
 user-context-icon-fence =
-    .label = لوڑھا
+    .label = Sticcatu

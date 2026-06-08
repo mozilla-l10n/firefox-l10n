@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestisci contegnitoî
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Bleu
+user-context-color-green =
+    .label = Verde
+user-context-color-yellow =
+    .label = Giano
+user-context-color-orange =
+    .label = Cô de çetrón
+user-context-color-red =
+    .label = Rosso
+user-context-color-pink =
+    .label = Rêuza
+user-context-color-purple =
+    .label = Pórpoa
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Inpronta digitale
+user-context-icon-briefcase =
+    .label = Valixe
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Segno do dòllaro
+user-context-icon-cart =
+    .label = Carta pe acatâ
+user-context-icon-vacation =
+    .label = Vacansa
+user-context-icon-gift =
+    .label = Regallo
+user-context-icon-food =
+    .label = Çibbo
+user-context-icon-fruit =
+    .label = Fruta
+user-context-icon-pet =
+    .label = Bestia
+user-context-icon-tree =
+    .label = Erbo
+user-context-icon-chill =
+    .label = Fresco
+user-context-icon-circle =
+    .label = Ponto
+user-context-icon-fence =
+    .label = Recinto

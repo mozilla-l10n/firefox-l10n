@@ -24,3 +24,37 @@ user-context-shopping =
 user-context-none =
     .label = Ayikho iKhonteyina
     .accesskey = A
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = eBlue
+user-context-color-green =
+    .label = Luhlaza
+user-context-color-yellow =
+    .label = eYellow
+user-context-color-orange =
+    .label = EOrenji
+user-context-color-red =
+    .label = eBomvu
+user-context-color-pink =
+    .label = EPinki
+user-context-color-purple =
+    .label = Epurple
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Umzila womnwe
+user-context-icon-briefcase =
+    .label = Ibrufkheyisi
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Umqondiso wedola
+user-context-icon-cart =
+    .label = Itroli yokuthenga
+user-context-icon-circle =
+    .label = IChaphaza

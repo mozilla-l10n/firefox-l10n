@@ -6,80 +6,50 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
-user-context-personal =
-    .label = Pertsonala
-    .accesskey = P
-user-context-work =
-    .label = Lanekoa
-    .accesskey = L
-user-context-banking =
-    .label = Banka
-    .accesskey = B
-user-context-shopping =
-    .label = Erosketak
-    .accesskey = E
 
 ##
 
-user-context-none =
-    .label = Edukiontzirik ez
-    .accesskey = E
-user-context-manage-containers =
-    .label = Kudeatu edukiontziak
-    .accesskey = o
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-color-blue =
-    .label = Urdina
-user-context-color-cyan =
-    .label = Ziana
+    .label = کوۊ
 user-context-color-green =
-    .label = Berdea
-user-context-color-yellow =
-    .label = Horia
-user-context-color-orange =
-    .label = Laranja
+    .label = ساوز
 user-context-color-red =
-    .label = Gorria
+    .label = سوئر
 user-context-color-pink =
-    .label = Arrosa
+    .label = آل
 user-context-color-purple =
-    .label = Morea
+    .label = بناوش
 user-context-color-violet =
-    .label = Bioleta
-user-context-color-gray =
-    .label = Grisa
+    .label = بناوش
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-icon-fingerprint =
-    .label = Hatz-marka
+    .label = جا کلک
 user-context-icon-briefcase =
-    .label = Maletatxoa
+    .label = کیف
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 user-context-icon-dollar =
-    .label = Dolarraren ikurra
+    .label = علامت دولار
 user-context-icon-cart =
-    .label = Erosketa-orga
+    .label = سبد استیڌن
 user-context-icon-vacation =
-    .label = Oporrak
-user-context-icon-gift =
-    .label = Opariak
+    .label = موسافرت
 user-context-icon-food =
-    .label = Janaria
+    .label = غزا
 user-context-icon-fruit =
-    .label = Fruta
+    .label = میوه
 user-context-icon-pet =
-    .label = Maskota
+    .label = هیووݩ هووه ای
 user-context-icon-tree =
-    .label = Zuhaitza
+    .label = دار
 user-context-icon-chill =
-    .label = Lasaitasuna
+    .label = زهشت
 user-context-icon-circle =
-    .label = Puntua
-user-context-icon-fence =
-    .label = Hesia
+    .label = نوقته

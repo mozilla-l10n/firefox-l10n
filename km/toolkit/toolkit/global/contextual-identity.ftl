@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = ខៀវ
+user-context-color-green =
+    .label = បៃតង
+user-context-color-yellow =
+    .label = លឿង
+user-context-color-orange =
+    .label = ទឹកក្រូច
+user-context-color-red =
+    .label = ក្រហម
+user-context-color-pink =
+    .label = ផ្កា​ឈូក
+user-context-color-purple =
+    .label = ស្វាយ
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = ស្នាម​ម្រាមដៃ
+user-context-icon-briefcase =
+    .label = កាតាប
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = សញ្ញា​ដុល្លារ
+user-context-icon-cart =
+    .label = រទេះ​ទិញ​អីវ៉ាន់
+user-context-icon-vacation =
+    .label = វិស្សមកាល
+user-context-icon-gift =
+    .label = អំណោយ
+user-context-icon-food =
+    .label = អាហារ
+user-context-icon-fruit =
+    .label = ផ្លែឈើ
+user-context-icon-pet =
+    .label = សត្វចិញ្ចឹម
+user-context-icon-tree =
+    .label = ដើមឈើ
+user-context-icon-chill =
+    .label = កក់ក្ដៅ
+user-context-icon-circle =
+    .label = ចំណុច
+user-context-icon-fence =
+    .label = របង

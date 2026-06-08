@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = Tvarkyti sudėtines korteles
     .accesskey = u
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Mėlyna
+user-context-color-green =
+    .label = Žalia
+user-context-color-yellow =
+    .label = Geltona
+user-context-color-orange =
+    .label = Oranžinė
+user-context-color-red =
+    .label = Raudona
+user-context-color-pink =
+    .label = Rožinė
+user-context-color-purple =
+    .label = Purpurinė
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Piršto atspaudas
+user-context-icon-briefcase =
+    .label = Portfelis
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dolerio ženklas
+user-context-icon-cart =
+    .label = Pirkinių vežimėlis
+user-context-icon-vacation =
+    .label = Atostogos
+user-context-icon-gift =
+    .label = Dovana
+user-context-icon-food =
+    .label = Maistas
+user-context-icon-fruit =
+    .label = Vaisius
+user-context-icon-pet =
+    .label = Naminis gyvūnas
+user-context-icon-tree =
+    .label = Medis
+user-context-icon-chill =
+    .label = Poilsis
+user-context-icon-circle =
+    .label = Taškas
+user-context-icon-fence =
+    .label = Tvora

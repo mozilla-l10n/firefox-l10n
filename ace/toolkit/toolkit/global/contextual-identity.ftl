@@ -15,3 +15,54 @@ user-context-work =
 user-context-shopping =
     .label = Meubloe
     .accesskey = S
+
+##
+
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Beulawu
+user-context-color-green =
+    .label = Ijô
+user-context-color-yellow =
+    .label = Kunèng
+user-context-color-orange =
+    .label = Orèn
+user-context-color-red =
+    .label = Mirah
+user-context-color-pink =
+    .label = Mirah Jambèe
+user-context-color-purple =
+    .label = Gadông
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Cap jaroë
+user-context-icon-briefcase =
+    .label = Tah Beureukaih
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Tanda dolar
+user-context-icon-cart =
+    .label = Raga beulanja
+user-context-icon-vacation =
+    .label = Meuramien
+user-context-icon-gift =
+    .label = Jeuneujôk
+user-context-icon-food =
+    .label = Peunajôh
+user-context-icon-fruit =
+    .label = Boh kayèe
+user-context-icon-pet =
+    .label = Peularaan
+user-context-icon-tree =
+    .label = Bak kayèe
+user-context-icon-chill =
+    .label = Sijuek
+user-context-icon-circle =
+    .label = Titèk

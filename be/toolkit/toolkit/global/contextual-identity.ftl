@@ -27,3 +27,59 @@ user-context-none =
 user-context-manage-containers =
     .label = Кіраваць кантэйнерамі
     .accesskey = К
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Блакітны
+user-context-color-cyan =
+    .label = Блакітны
+user-context-color-green =
+    .label = Зялёны
+user-context-color-yellow =
+    .label = Жоўты
+user-context-color-orange =
+    .label = Аранжавы
+user-context-color-red =
+    .label = Чырвоны
+user-context-color-pink =
+    .label = Ружовы
+user-context-color-purple =
+    .label = Фіялетавы
+user-context-color-violet =
+    .label = Фіялетавы
+user-context-color-gray =
+    .label = Шэры
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Адбітак
+user-context-icon-briefcase =
+    .label = Партфель
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Знак долара
+user-context-icon-cart =
+    .label = Кошык
+user-context-icon-vacation =
+    .label = Адпачынак
+user-context-icon-gift =
+    .label = Падарунак
+user-context-icon-food =
+    .label = Ежа
+user-context-icon-fruit =
+    .label = Садавіна
+user-context-icon-pet =
+    .label = Жывёліна
+user-context-icon-tree =
+    .label = Дрэва
+user-context-icon-chill =
+    .label = Прастуда
+user-context-icon-circle =
+    .label = Кропка
+user-context-icon-fence =
+    .label = Агароджа
