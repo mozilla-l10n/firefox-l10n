@@ -1290,7 +1290,7 @@ toolbar-button-tab-groups =
 qrcode-save-filename-base = codiqr
 # Variables:
 #  $domain (String): The current page's domain used in the suggested filename.
-qrcode-save-filename-with-domain-base = codi qr-{ $domini }
+qrcode-save-filename-with-domain-base = codi qr-{ $domain }
 
 ## EME notification panel
 
