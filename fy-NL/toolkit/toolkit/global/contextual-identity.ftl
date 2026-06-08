@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteners beheare
     .accesskey = K
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Blau
+user-context-color-green =
+    .label = Grien
+user-context-color-yellow =
+    .label = Giel
+user-context-color-orange =
+    .label = Oranje
+user-context-color-red =
+    .label = Read
+user-context-color-pink =
+    .label = Roze
+user-context-color-purple =
+    .label = Pears
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Fingerôfdruk
+user-context-icon-briefcase =
+    .label = Sammeling
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollar-teken
+user-context-icon-cart =
+    .label = Winkelwein
+user-context-icon-vacation =
+    .label = Fakânsje
+user-context-icon-gift =
+    .label = Kado
+user-context-icon-food =
+    .label = Iten
+user-context-icon-fruit =
+    .label = Fruit
+user-context-icon-pet =
+    .label = Húsdier
+user-context-icon-tree =
+    .label = Beam
+user-context-icon-chill =
+    .label = Ferdivedaasje
+user-context-icon-circle =
+    .label = Punt
+user-context-icon-fence =
+    .label = Stek
