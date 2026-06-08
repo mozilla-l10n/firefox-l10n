@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Bleu
+user-context-color-green =
+    .label = Vert
+user-context-color-yellow =
+    .label = Jaune
+user-context-color-orange =
+    .label = Orange
+user-context-color-red =
+    .label = Rouge
+user-context-color-pink =
+    .label = Rose
+user-context-color-purple =
+    .label = Violet
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
