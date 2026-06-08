@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Blu
+user-context-color-cyan =
+    .label = Blu e gjelbër
 user-context-color-green =
     .label = E gjelbër
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Rozë
 user-context-color-purple =
     .label = E purpur
+user-context-color-violet =
+    .label = Vjollcë
+user-context-color-gray =
+    .label = Gri
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
