@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = ਨੀਲਾ
+user-context-color-cyan =
+    .label = ਸਿਯਾਨ
 user-context-color-green =
     .label = ਹਰਾ
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = ਗੁਲਾਬੀ
 user-context-color-purple =
     .label = ਬੈਂਗਣੀ
+user-context-color-violet =
+    .label = ਵੈਂਗਣੀ
+user-context-color-gray =
+    .label = ਸਲੇਟੀ
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
