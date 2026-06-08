@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Estä
     .accesskey = E
 webext-perms-host-description-all-urls = Käytä dataasi kaikilta sivustoilta
+webext-perms-host-description-file-urls = Käytä paikallisia tiedostoja tietokoneellasi
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Käytä dataasi { $domain }-verkkotunnuksen sivustoilta
@@ -149,6 +150,12 @@ webext-site-perms-description-gated-perms-midi =
     Nämä ovat yleensä plug-in-laitteita, kuten äänisyntetisaattoreita, mutta ne voivat myös olla sisäänrakennettuja tietokoneeseesi.
     
     Verkkosivustot eivät yleensä saa käyttää MIDI-laitteita. Vääränlainen käyttö voi aiheuttaa vahinkoa tai vaarantaa turvallisuuden.
+webext-site-perms-description-gated-perms-webserial =
+    Nämä ovat laitteita, kuten mikrokontrollereita, 3D-tulostimia ja muita laitteita, jotka yhdistetään USB:n, sarjaporttien tai Bluetoothin kautta.
+    
+    Voit valita, mitä laitteita verkkosivusto voi käyttää.
+    
+    Verkkosivustoilla ei yleensä ole oikeutta käyttää sarjaporttilaitteita. Väärinkäyttö voi aiheuttaa vahinkoa tai vaarantaa turvallisuuden.
 webext-site-perms-description-gated-perms-serial =
     Nämä ovat laitteita, kuten mikrokontrollereita, 3D-tulostimia ja muita laitteita, jotka yhdistetään USB- tai sarjaporttien kautta.
     
