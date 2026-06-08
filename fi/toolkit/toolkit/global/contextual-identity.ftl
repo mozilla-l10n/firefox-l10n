@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Sininen
+user-context-color-green =
+    .label = Vihreä
+user-context-color-yellow =
+    .label = Keltainen
+user-context-color-orange =
+    .label = Oranssi
+user-context-color-red =
+    .label = Punainen
+user-context-color-pink =
+    .label = Pinkki
+user-context-color-purple =
+    .label = Violetti
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
