@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteynerlarni boshqarish
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Ko‘k
+user-context-color-green =
+    .label = Yashil
+user-context-color-yellow =
+    .label = Sariq
+user-context-color-orange =
+    .label = Zarg‘aldoq rang
+user-context-color-red =
+    .label = Qizil
+user-context-color-pink =
+    .label = Pushti
+user-context-color-purple =
+    .label = Binafsha rang
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
