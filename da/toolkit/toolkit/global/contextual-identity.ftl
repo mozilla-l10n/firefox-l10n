@@ -27,3 +27,53 @@ user-context-none =
 user-context-manage-containers =
     .label = Håndter kontekster
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Blå
+user-context-color-green =
+    .label = Grøn
+user-context-color-yellow =
+    .label = Gul
+user-context-color-orange =
+    .label = Orange
+user-context-color-red =
+    .label = Rød
+user-context-color-pink =
+    .label = Pink
+user-context-color-purple =
+    .label = Lilla
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Fingeraftryk
+user-context-icon-briefcase =
+    .label = Attachemappe
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollartegn
+user-context-icon-cart =
+    .label = Indkøbsvogn
+user-context-icon-vacation =
+    .label = Ferie
+user-context-icon-gift =
+    .label = Gaver
+user-context-icon-food =
+    .label = Mad
+user-context-icon-fruit =
+    .label = Frugt
+user-context-icon-pet =
+    .label = Kæledyr
+user-context-icon-tree =
+    .label = Træ
+user-context-icon-chill =
+    .label = Afslapning
+user-context-icon-circle =
+    .label = Prik
+user-context-icon-fence =
+    .label = Hegn
