@@ -27,3 +27,17 @@ user-context-none =
 user-context-manage-containers =
     .label = کنٹینرز کو منظم کریں
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-pet =
+    .label = پیٹ
+user-context-icon-tree =
+    .label = ‏‏درخت
+user-context-icon-chill =
+    .label = چل
