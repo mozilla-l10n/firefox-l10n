@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Ilmoita rikkinäisestä sivustosta
 report-broken-site-panel-intro-text = Raporttisi auttaa meitä ymmärtämään ja korjaamaan { -brand-product-name }in ongelmia, jotta siitä tulee parempi kaikille.
 report-broken-site-panel-learn-more-link = Lue lisää
+report-broken-site-panel-url-label = Rikkinäisen sivuston URL-osoite
 report-broken-site-panel-reason-intro-text = Mikä ei toimi?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Sivusto ei lataudu
