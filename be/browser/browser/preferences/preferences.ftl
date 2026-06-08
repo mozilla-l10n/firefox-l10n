@@ -1868,7 +1868,7 @@ sitedata-total-size-calculating = Падлік памеру дадзеных с�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size3 = Сайты зараз выкарыстоўваюць<strong>{ $value } { $unit }</strong> дыскавай прасторы.
+sitedata-total-size3 = Сайты зараз выкарыстоўваюць <strong>{ $value } { $unit }</strong> дыскавай прасторы.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
