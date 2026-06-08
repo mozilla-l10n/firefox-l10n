@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Увайдзіце, каб дасыл
 main-context-menu-send-to-mobile-enable-sync2 = Уключыць сінхранізацыю для адпраўкі картак
 main-context-menu-send-to-mobile-connect-phone2 = Падключыце свой тэлефон
 main-context-menu-send-to-mobile-device-missing2 = Не бачыце вашай прылады?
+main-context-menu-send-to-mobile-sign-in-from-link = Увайдзіце, каб даслаць спасылку
+main-context-menu-send-to-mobile-sign-in-from-page = Увайдзіце, каб даслаць старонку
+main-context-menu-send-to-mobile-enable-sync3 = Уключыць сінхранізацыю, каб дасылаць карткі
+main-context-menu-send-to-mobile-enable-sync-from-link = Уключыць сінхранізацыю, каб даслаць спасылку
+main-context-menu-send-to-mobile-enable-sync-from-page = Уключыць сінхранізацыю, каб даслаць старонку
+main-context-menu-send-to-mobile-connect-phone3 = Падключыць прыладу, каб дасылаць карткі
+main-context-menu-send-to-mobile-connect-phone-from-link = Падключыць прыладу, каб даслаць спасылку
+main-context-menu-send-to-mobile-connect-phone-from-page = Падключыць прыладу, каб даслаць старонку
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Уключыць сінхранізацыю для адпраўкі картак
