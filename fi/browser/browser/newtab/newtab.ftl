@@ -1110,6 +1110,8 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bosnia ja Hertsegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Norsunluurannikko
+newtab-sports-widget-team-name-label-cod =
+    .label = Kongon demokraattinen tasavalta
 newtab-sports-widget-team-name-label-eng =
     .label = Englanti
 newtab-sports-widget-team-name-label-sco =
@@ -1123,6 +1125,7 @@ newtab-sports-widget-message-wallpapers-body = Tuo ottelupäivän energiaa selai
 newtab-sports-widget-message-wallpapers-cta = Valitse taustakuva
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lisää pienoisohjelmia
+newtab-sports-widget-message-day-in-play-title = Pidä päiväsi käynnissä { -brand-product-name }in pienoisohjelmien avulla
 newtab-sports-widget-message-day-in-play-body = Seuraa jalkapallon MM-kisoja, pysy tehtävissäsi, seuraa aikaa ympäri maailmaa ja paljon muuta.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Tutustu pienoisohjelmiin
@@ -1194,6 +1197,12 @@ newtab-clock-widget-button-remove-clock =
 #   $city (string) - The city name displayed in the row.
 newtab-clock-widget-edit-item =
     .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, kutsumanimi: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Lisää kello
 newtab-clock-widget-edit-clock-form =
