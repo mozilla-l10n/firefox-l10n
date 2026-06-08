@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = 青
+user-context-color-cyan =
+    .label = シアン
 user-context-color-green =
     .label = 緑
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = ピンク
 user-context-color-purple =
     .label = 紫
+user-context-color-violet =
+    .label = バイオレット
+user-context-color-gray =
+    .label = グレー
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
