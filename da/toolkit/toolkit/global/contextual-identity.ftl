@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Blå
+user-context-color-cyan =
+    .label = Cyan
 user-context-color-green =
     .label = Grøn
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Pink
 user-context-color-purple =
     .label = Lilla
+user-context-color-violet =
+    .label = Violet
+user-context-color-gray =
+    .label = Grå
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
