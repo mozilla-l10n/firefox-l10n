@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = Toppito baɗirɗe
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-vacation =
+    .label = Guurte
+user-context-icon-gift =
+    .label = Jeenal
+user-context-icon-food =
+    .label = Ñaamdu
+user-context-icon-fruit =
+    .label = Ɓiɗɗe
+user-context-icon-pet =
+    .label = Nehaandi
+user-context-icon-tree =
+    .label = Lekki
+user-context-icon-chill =
+    .label = Chill
