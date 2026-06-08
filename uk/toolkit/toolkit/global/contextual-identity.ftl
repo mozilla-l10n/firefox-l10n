@@ -37,6 +37,14 @@ user-context-color-green =
     .label = Зелений
 user-context-color-yellow =
     .label = Жовтий
+user-context-color-orange =
+    .label = Жовтогарячий
+user-context-color-red =
+    .label = Червоний
+user-context-color-pink =
+    .label = Рожевий
+user-context-color-purple =
+    .label = Бузковий
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
