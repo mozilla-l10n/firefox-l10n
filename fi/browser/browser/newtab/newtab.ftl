@@ -869,6 +869,9 @@ newtab-daily-briefing-card-timestamp = Päivitetty { $minutes } min sitten
 newtab-widget-message-title = Pysy keskittyneenä listojen ja sisäänrakennetun ajastimen avulla
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nopeista muistutuksista päivittäisiin tehtäviin, keskittymisharjoituksista venyttelytaukoihin – pysy tehtävässäsi ja aikataulussa.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Yksi paikka keskittymiselle, ennusteille ja muulle
+newtab-widget-message-focus-forecasts-body = Pidä päiväsi liikkeessä { -brand-product-name }in pienoisohjelmien avulla. Tarkista sääennuste, pysy tehtävissäsi tai seuraa aikaa ympäri maailmaa.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -986,6 +989,8 @@ newtab-sports-widget-watch-stream-free-trial = Ilmainen kokeilujakso
 newtab-sports-widget-watch-stream-free-paid = Ilmainen ja maksullinen
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = Maksullinen
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Vain valitut pelit
 # Heading for the list of streaming services available in the user’s country/region.
 newtab-sports-widget-watch-available-region = Saatavilla alueellasi
 # Heading for the list of streaming services available outside the user’s country/region.
@@ -1048,6 +1053,7 @@ newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-halftime = Puoliaika
+newtab-sports-widget-match-extra-time = Jatkoaika
 newtab-sports-widget-match-penalties = Rangaistuspotkut
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
@@ -1105,6 +1111,9 @@ newtab-sports-widget-match-aria-label-upcoming-delayed =
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } vastaan { $awayTeam }, siirretty
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vastaan { $awayTeam }, keskeytetty
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } vastaan { $awayTeam }, peruttu
