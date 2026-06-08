@@ -24,3 +24,13 @@ user-context-shopping =
 user-context-none =
     .label = കണ്ടെയ്നര്‍ ഇല്ല
     .accesskey = N
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-chill =
+    .label = ചില്‍
