@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Управљај контејнерима
     .accesskey = У
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Отисак
+user-context-icon-briefcase =
+    .label = Актовка
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Знак долара
+user-context-icon-cart =
+    .label = Колица за куповину
+user-context-icon-vacation =
+    .label = Одмор
+user-context-icon-gift =
+    .label = Поклон
+user-context-icon-food =
+    .label = Храна
+user-context-icon-fruit =
+    .label = Воће
+user-context-icon-pet =
+    .label = Љубимац
+user-context-icon-tree =
+    .label = Дрво
+user-context-icon-chill =
+    .label = Опуштено
+user-context-icon-circle =
+    .label = Тачка
+user-context-icon-fence =
+    .label = Ограда
