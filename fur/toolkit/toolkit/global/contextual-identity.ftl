@@ -27,3 +27,47 @@ user-context-none =
 user-context-manage-containers =
     .label = Gjestìs contignidôrs
     .accesskey = G
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Blu
+user-context-color-green =
+    .label = Vert
+user-context-color-yellow =
+    .label = Zâl
+user-context-color-orange =
+    .label = Naranç
+user-context-color-red =
+    .label = Ros
+user-context-color-pink =
+    .label = Rose
+user-context-color-purple =
+    .label = Viole
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Impront digjitâl
+user-context-icon-briefcase =
+    .label = Valisute
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Segn dal dolar
+user-context-icon-cart =
+    .label = Carel de compre
+user-context-icon-vacation =
+    .label = Vacance
+user-context-icon-gift =
+    .label = Regâl
+user-context-icon-pet =
+    .label = Bestie
+user-context-icon-tree =
+    .label = Arbul
+user-context-icon-circle =
+    .label = Pont
+user-context-icon-fence =
+    .label = Cente
