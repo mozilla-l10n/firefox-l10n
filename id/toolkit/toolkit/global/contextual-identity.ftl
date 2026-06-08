@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Biru
+user-context-color-green =
+    .label = Hijau
+user-context-color-yellow =
+    .label = Kuning
+user-context-color-orange =
+    .label = Jingga
+user-context-color-red =
+    .label = Merah
+user-context-color-pink =
+    .label = Merah Muda
+user-context-color-purple =
+    .label = Ungu
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
