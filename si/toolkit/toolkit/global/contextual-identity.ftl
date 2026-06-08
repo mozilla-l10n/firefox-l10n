@@ -27,3 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = අඩංගු කළමනාකරණය
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-green =
+    .label = කොළ
+user-context-color-yellow =
+    .label = කහ
+user-context-color-orange =
+    .label = තැඹිලි
+user-context-color-red =
+    .label = රතු
+user-context-color-pink =
+    .label = රෝස
+user-context-color-purple =
+    .label = දම්
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
