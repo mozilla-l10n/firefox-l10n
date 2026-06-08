@@ -1048,6 +1048,7 @@ newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-halftime = Puoliaika
+newtab-sports-widget-match-penalties = Rangaistuspotkut
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1059,6 +1060,12 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .aria-label = Seuraava
     .title = Seuraava
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Suora ottelu { $index }/{ $total }
+    .title = Suora ottelu { $index }/{ $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.

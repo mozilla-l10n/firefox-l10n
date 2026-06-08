@@ -27,11 +27,16 @@ ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimes
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Käytätkö julkista Wi-Fi-verkkoa? Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla viidestä sijainnista, joihin selauksesi alkuperä piilotetaan.
 ipprotection-feature-introduction-description-captive-portal = Selaa lisäsuojauksella piilottamalla sijaintisi jopa julkisissa Wi-Fi-verkoissa.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla useista eri sijainneista, joihin selauksesi alkuperä piilotetaan.
 ipprotection-feature-introduction-button-primary = Seuraava
 ipprotection-feature-introduction-button-secondary-not-now = Ei nyt
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -57,6 +62,7 @@ ipprotection-site-settings-callout-button = Selvä
 
 ipprotection-location-selection-callout-title = Uutta: Vaihda sijaintiasi
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennetun VPN:n</a> avulla voit valita viidestä selaussijainnista tai antaa meidän valita nopeimman puolestasi.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennetun VPN:n</a> ansiosta voit valita useista selaussijainneista tai antaa meidän valita sinulle nopeimman.
 ipprotection-location-selection-callout-primary-button = Kokeile
 ipprotection-location-selection-callout-secondary-button = Hylkää
 
@@ -70,6 +76,7 @@ unauthenticated-choose-location-message = Valitse viidestä sijainnista tai anna
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
+unauthenticated-choose-location-message-1 = Valitse useista sijainneista tai anna { -brand-product-name }in valita nopein.
 unauthenticated-get-started = Aloitetaan
 unauthenticated-terms-of-service-privacy-notice = Jatkamalla hyväksyt <a data-l10n-name="vpn-terms-of-service">käyttöehdot</a> ja <a data-l10n-name="vpn-privacy-notice">tietosuojakäytännön</a>.
 site-exclusion-toggle-enabled-1 =
@@ -121,6 +128,11 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Valitse selauspaikaksi toinen sijainti.
 ipprotecion-locations-subview-recommended-label = Suositeltu
 ipprotection-locations-subview-recommended-description = Löytää nopeimman sijainnin
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Ei saatavilla
+ipprotection-locations-subview-promo =
+    .heading = Vie suojaus pidemmälle { -mozilla-vpn-brand-name }:llä
+    .message = Valitse yli 300 sijainnista ja suojaa kaikki sovelluksesi jopa viidellä laitteella.
 ipprotection-locations-subview-promo-button = Hanki { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -198,6 +210,16 @@ ip-protection-learn-more = Lue lisää
 ip-protection-not-opted-in-2 =
     .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
     .message = Piilota sijaintisi selatessasi { -brand-short-name }illa. Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
+    .message = Selaa lisäsuojauksella piilottamalla sijaintisi. Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
+    .message = Selaa lisäsuojauksella piilottamalla sijaintisi.
 ip-protection-not-opted-in-button = Aloitetaan
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
