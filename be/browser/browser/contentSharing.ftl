@@ -56,3 +56,6 @@ content-sharing-modal-too-many-pages =
         }
     .message = Паспрабуйце зноў пазней, калі скончыцца тэрмін дзеяння адной з вашых старонак.
 content-sharing-modal-some-invalid-links = Некаторымі спасылкамі нельга падзяліцца.
+content-sharing-modal-generic-error-2 =
+    .heading = Нешта пайшло не так
+    .message = Нам не ўдалося стварыць вашу агульнадаступную старонку. Паспрабуйце зноў пазней.
