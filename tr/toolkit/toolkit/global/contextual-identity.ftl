@@ -49,3 +49,31 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Parmak izi
+user-context-icon-briefcase =
+    .label = Çanta
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dolar işareti
+user-context-icon-cart =
+    .label = Alışveriş arabası
+user-context-icon-vacation =
+    .label = Tatil
+user-context-icon-gift =
+    .label = Hediye
+user-context-icon-food =
+    .label = Yemek
+user-context-icon-fruit =
+    .label = Meyve
+user-context-icon-pet =
+    .label = Hayvan
+user-context-icon-tree =
+    .label = Ağaç
+user-context-icon-chill =
+    .label = Soğuk
+user-context-icon-circle =
+    .label = Nokta
+user-context-icon-fence =
+    .label = Çit
