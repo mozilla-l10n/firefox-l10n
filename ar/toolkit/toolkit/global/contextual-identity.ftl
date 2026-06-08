@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = أدِر الحاويات
     .accesskey = ح
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = بصمة
+user-context-icon-briefcase =
+    .label = حقيبة
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = علامة الدولار
+user-context-icon-cart =
+    .label = عربة تسوق
+user-context-icon-vacation =
+    .label = عطلة
+user-context-icon-gift =
+    .label = هدية
+user-context-icon-food =
+    .label = طعام
+user-context-icon-fruit =
+    .label = فاكهة
+user-context-icon-pet =
+    .label = حيوان أليف
+user-context-icon-tree =
+    .label = شجرة
+user-context-icon-chill =
+    .label = راحة
+user-context-icon-circle =
+    .label = نقطة
+user-context-icon-fence =
+    .label = سياج
