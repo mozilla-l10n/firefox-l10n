@@ -31,6 +31,8 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Μπλε
 user-context-color-green =
     .label = Πράσινο
 user-context-color-yellow =
