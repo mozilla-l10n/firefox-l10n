@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Organiser les marque-pages
 quickactions-cmd-bookmarks = marque-pages
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Effacer l’historique récent
+quickactions-cmd-clearrecenthistory2 = cookies, effacer les cookies, cache, effacer le cache, données de navigation, effacer les données de navigation, historique, effacer l’historique récent
 quickactions-cmd-clearrecenthistory = effacer l’historique récent, historique
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Effacer l’historique
