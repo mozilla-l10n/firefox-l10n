@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Կապույտ
+user-context-color-green =
+    .label = Կանաչ
+user-context-color-yellow =
+    .label = Դեղին
+user-context-color-orange =
+    .label = Նարինջ
+user-context-color-red =
+    .label = Կարմիր
+user-context-color-pink =
+    .label = Վարդագույն
+user-context-color-purple =
+    .label = Մանուշակագույն
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
