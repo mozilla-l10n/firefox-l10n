@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Gorm
+user-context-color-green =
+    .label = Uaine
+user-context-color-yellow =
+    .label = Buidhe
+user-context-color-orange =
+    .label = Orains
+user-context-color-red =
+    .label = Dearg
+user-context-color-pink =
+    .label = Pinc
+user-context-color-purple =
+    .label = Purpaidh
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
