@@ -600,8 +600,8 @@ addon-data-collection-learnmore = Les meir om datainnsamling
 mlmodel-about-inference = { -brand-short-name } brukar dette på about:inference
 mlmodel-link-preview = { -brand-short-name } bruker denne modellen til å generere hovudpunkt når du førehandsviser lenkjar
 mlmodel-pdfjs = { -brand-short-name } brukar dette til å lage alt-tekst for bilde du legg til i PDF-ar
-mlmodel-smart-tab-topic-engine = { -brand-short-name } brukar dette til å foreslå namn for fanegruppene dine
-mlmodel-smart-tab-embedding-engine = { -brand-short-name } brukar dette til å foreslå faner for fanegruppene dine
+mlmodel-smart-tab-topic-engine = { -brand-short-name } brukar dette til å føreslå namn for fanegruppene dine
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } brukar dette til å føreslå faner for fanegruppene dine
 mlmodel-formfill-engine = { -brand-short-name } brukar dette til å fylle ut adresseskjema
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = KI på eininga

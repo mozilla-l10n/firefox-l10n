@@ -94,7 +94,7 @@ experimental-features-newtab-widget-clocks-description = Legg til opptil fire kl
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historikksøk
-experimental-features-semantic-history-search-description = Bruk ein lokal maskinlæringsmodell til å foreslå oppføringar frå historikken som er relatert til søka dine, basert på naturleg språkforståing i { -brand-product-name }-adresselinja. <a data-l10n-name="connect">Del tilbakemelding</a>
+experimental-features-semantic-history-search-description = Bruk ein lokal maskinlæringsmodell til å føreslå oppføringar frå historikken som er relatert til søka dine, basert på naturleg språkforståing i { -brand-product-name }-adresselinja. <a data-l10n-name="connect">Del tilbakemelding</a>
 # Tab Notes
 experimental-features-tab-notes =
     .label = Fanenotat

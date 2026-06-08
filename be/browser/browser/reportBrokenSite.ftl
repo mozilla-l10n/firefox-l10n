@@ -31,6 +31,10 @@ report-broken-site-panel-reason-deceptive-moz-box-button =
     .label = Сайт падманлівы
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Нешта іншае
+report-broken-site-panel-instructions-other = Падрабязна апішыце праблему, каб дапамагчы нам разабрацца.
+report-broken-site-panel-instructions-other-optional = Падрабязна апішыце праблему, каб дапамагчы нам разабрацца. (неабавязкова)
+report-broken-site-panel-description2 =
+    .placeholder = Што здарылася? Чаго вы чакалі? Калі ласка, пакажыце крокі для ўзнаўлення праблемы.
 report-broken-site-panel-send-more-info-button =
     .label = Адправіць больш інфармацыі
 report-broken-site-panel-intro = Дапамажыце зрабіць { -brand-product-name } лепшым для ўсіх. { -vendor-short-name } выкарыстоўвае інфармацыю, якую вы дасылаеце, для выпраўлення праблем з сайтамі.
@@ -67,6 +71,8 @@ report-broken-site-panel-button-cancel =
     .label = Скасаваць
 report-broken-site-panel-button-okay =
     .label = Добра
+report-broken-site-panel-button-send-report =
+    .label = Даслаць справаздачу
 report-broken-site-panel-button-send =
     .label = Даслаць
 report-broken-site-panel-report-sent-label = Ваша справаздача адпраўлена
@@ -75,6 +81,19 @@ report-broken-site-panel-report-sent-header =
     .title = Ваша справаздача адпраўлена
 report-broken-site-panel-report-sent-text = Дзякуем, што дапамагаеце { -brand-product-name } зрабіць Інтэрнэт больш адкрытым, даступным і лепшым для ўсіх.
 report-broken-site-panel-invalid-url-label = Калі ласка, увядзіце сапраўдны URL
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Калі ласка, увядзіце не менш за { $minLength } сімвал
+        [few] Калі ласка, увядзіце не менш за { $minLength } сімвалы
+       *[many] Калі ласка, увядзіце не менш за { $minLength } сімвалаў
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Адправіць здымак экрана
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Адправіць спіс элементаў, заблакаваных аховай ад сачэння
+report-broken-site-panel-url-input-label =
+    .aria-label = URL-адрас старонкі, пра якую паведамляецца
 report-broken-site-panel-missing-reason-label = Калі ласка, выберыце прычыну
 report-broken-site-panel-blocked-trackers-label =
     .label = Адпраўляць URL-адрасы, заблакаваныя аховай ад сачэння

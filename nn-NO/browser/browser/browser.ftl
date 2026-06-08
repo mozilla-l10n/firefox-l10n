@@ -1625,7 +1625,7 @@ trustpanel-description-enabled2 = Du er verna. Om vi oppdagar noko seier vi ifr�
 trustpanel-header-enabled-insecure = Ver forsiktig på denne nettstaden
 trustpanel-description-enabled-insecure = { -brand-product-name } oppdaga noko mistenkeleg.
 trustpanel-header-disabled = Du har slått av vern
-trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi foreslår at du skrur på vernet igjen.
+trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi føreslår at du skrur på vernet igjen.
 trustpanel-clear-cookies-button = Slett infokapslar og nettstad-data
 trustpanel-privacy-link = Personverninnstillingar
 # Variables
