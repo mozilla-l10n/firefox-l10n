@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Hallitse kirjanmerkkejä
 quickactions-cmd-bookmarks = kirjanmerkit
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tyhjennä viimeaikainen historia
+quickactions-cmd-clearrecenthistory2 = cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history, evästeet, tyhjennä evästeet, välimuisti, tyhjennä välimuisti, selaustiedot, tyhjennä selaustiedot, historia, tyhjennä viimeaikainen historia
 quickactions-cmd-clearrecenthistory = tyhjennä historia, historia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tyhjennä historia
