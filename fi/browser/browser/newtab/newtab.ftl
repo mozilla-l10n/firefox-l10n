@@ -1052,6 +1052,7 @@ newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Täysi aika
 newtab-sports-widget-match-halftime = Puoliaika
 newtab-sports-widget-match-extra-time = Jatkoaika
 newtab-sports-widget-match-penalties = Rangaistuspotkut
