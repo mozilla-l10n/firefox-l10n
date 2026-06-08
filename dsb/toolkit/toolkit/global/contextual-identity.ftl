@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Módry
+user-context-color-cyan =
+    .label = Cyan
 user-context-color-green =
     .label = Zeleny
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Pink
 user-context-color-purple =
     .label = Purpurowy
+user-context-color-violet =
+    .label = Wioletny
+user-context-color-gray =
+    .label = Šery
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
