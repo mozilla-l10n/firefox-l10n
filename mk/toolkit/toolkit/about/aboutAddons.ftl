@@ -336,12 +336,17 @@ recent-updates-heading = Скорешни ажурирања
 release-notes-loading = Се вчитува…
 release-notes-error = Извинете, но имаше грешка при вчитувањето на белешките за изданието.
 addon-permissions-heading = Дозволи
+addon-permissions-required-label = Задолжително:
+addon-permissions-optional-label = Опционално:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Се чувствувате креативно? <a data-l10n-name="link"> Создате сопствена тема со Firefox Color. </a>
 
 ## Page headings
 
+extension-heading = Управувајте со проширувањата…
+theme-heading = Управувајте со темите…
+plugin-heading = Управувајте со приклучоците…
 addon-page-options-button =
     .title = Алатки за сите додатоци
 
@@ -371,3 +376,10 @@ details-notification-softblocked-link = Повеќе информации
 details-notification-gmp-pending = { $name } ќе се инсталира за кратко.
 details-notification-gmp-pending2 =
     .message = { $name } ќе се инсталира за кратко.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Дозволи и податоци
+addon-permissions-data-collection-heading = Прибирање на податоци
