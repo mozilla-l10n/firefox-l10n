@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Kudeatu edukiontziak
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Hatz-marka
+user-context-icon-briefcase =
+    .label = Maletatxoa
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dolarraren ikurra
+user-context-icon-cart =
+    .label = Erosketa-orga
+user-context-icon-vacation =
+    .label = Oporrak
+user-context-icon-gift =
+    .label = Opariak
+user-context-icon-food =
+    .label = Janaria
+user-context-icon-fruit =
+    .label = Fruta
+user-context-icon-pet =
+    .label = Maskota
+user-context-icon-tree =
+    .label = Zuhaitza
+user-context-icon-chill =
+    .label = Lasaitasuna
+user-context-icon-circle =
+    .label = Puntua
+user-context-icon-fence =
+    .label = Hesia
