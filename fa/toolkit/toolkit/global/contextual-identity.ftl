@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = آبی
+user-context-color-green =
+    .label = سبز
+user-context-color-yellow =
+    .label = زرد
+user-context-color-orange =
+    .label = نارنجی
+user-context-color-red =
+    .label = قرمز
+user-context-color-pink =
+    .label = صورتی
+user-context-color-purple =
+    .label = بنفش
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
