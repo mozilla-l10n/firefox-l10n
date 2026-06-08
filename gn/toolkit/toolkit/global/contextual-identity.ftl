@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Hovy
+user-context-color-cyan =
+    .label = Hovyũ
 user-context-color-green =
     .label = Hovyũ
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Pytãngy
 user-context-color-purple =
     .label = Pytãũ
+user-context-color-violet =
+    .label = Líla
+user-context-color-gray =
+    .label = Hũngy
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
