@@ -41,6 +41,8 @@ about-reader-toolbar-minus =
     .title = Намали ја големината на фонтот
 about-reader-toolbar-plus =
     .title = Зголеми ја големината на фонтот
+about-reader-toolbar-contentwidthminus =
+    .title = Намали ја ширината на содржината
 
 ## These are the styles of typeface that are options in the reader view controls.
 

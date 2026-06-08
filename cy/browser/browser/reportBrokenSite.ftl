@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Adrodd am wefan wedi torri
 report-broken-site-panel-intro-text = Mae'ch adroddiad yn ein helpu i ddeall a thrwsio problemau yn { -brand-product-name } i'w wneud yn well i bawb.
 report-broken-site-panel-learn-more-link = Dysgu rhagor
+report-broken-site-panel-url-label = URL gwefan wedi torri
 report-broken-site-panel-reason-intro-text = Beth sydd ddim yn gweithio?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Dyw'r wefan ddim yn llwytho

@@ -203,25 +203,36 @@ shortcuts-input =
 shortcuts-modifier-mac = Вклучи Ctrl, Alt или ⌘
 shortcuts-modifier-other = Вклучи Ctrl или Alt
 shortcuts-letter = Внеси буква
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Дупликат кратенка
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Веќе е во употреба од { $addon }
 shortcuts-card-collapse-button = Прикажи помалку
+header-back-button =
+    .title = Оди назад
 
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Дознајте повеќе
+colorway-removal-notice-learn-more = Дознајте повеќе
 privacy-policy = Политика за приватност
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Корисници: { $dailyUsers }
 install-extension-button = Додај во { -brand-product-name }
+install-theme-button = Инсталирај тема
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Управувај
 find-more-addons = Најдете повеќе додатоци
+find-more-themes = Пронајдете повеќе теми
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Повеќе опции
 
 ## Add-on actions
 
@@ -370,12 +381,22 @@ details-notification-unsigned2 =
     .message = { $name } не може да се верифицира за употреба во { -brand-short-name }. Бидете внимателни.
 details-notification-unsigned-link = Повеќе информации
 details-notification-blocked = { $name } е онеспособен поради проблем со безбедност или стабилност.
+details-notification-blocked-link2 = Види детали
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Ова проширување е ограничено и е оневозможено. Можете да го овозможите, но ова може да биде ризично.
+details-notification-softblocked-link2 = Види детали
 details-notification-blocked-link = Повеќе информации
 details-notification-softblocked = Познато е дека { $name } предизвикува проблеми со безбедноста и стабилноста.
 details-notification-softblocked-link = Повеќе информации
 details-notification-gmp-pending = { $name } ќе се инсталира за кратко.
 details-notification-gmp-pending2 =
     .message = { $name } ќе се инсталира за кратко.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Информации за лиценцата
+plugins-gmp-privacy-info = Информации за приватност
+plugins-openh264-name = Видео кодек OpenH264 обезбеден од Cisco Systems, Inc.
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.

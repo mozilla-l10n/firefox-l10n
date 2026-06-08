@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Rheoli nodau tudalen
 quickactions-cmd-bookmarks = nodau tudalen
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Clirio hanes diweddar
+quickactions-cmd-clearrecenthistory2 = cwcis, clirio'r cwcis, storfa, clirio'r storfa, data pori, clirio'r data, hanes, clirio'r hanes diweddar
 quickactions-cmd-clearrecenthistory = clirio hanes diweddar, hanes
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clirio Hanes

@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Calendr
+datetime-time =
+    .aria-label = Amser
