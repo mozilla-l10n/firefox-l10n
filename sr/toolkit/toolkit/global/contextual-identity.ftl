@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Плава
+user-context-color-green =
+    .label = Зелена
+user-context-color-yellow =
+    .label = Жута
+user-context-color-orange =
+    .label = Наранџаста
+user-context-color-red =
+    .label = Црвена
+user-context-color-pink =
+    .label = Розе
+user-context-color-purple =
+    .label = Љубичаста
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
