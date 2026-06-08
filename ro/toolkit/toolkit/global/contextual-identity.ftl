@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Albastru
+user-context-color-green =
+    .label = Verde
+user-context-color-yellow =
+    .label = Galben
+user-context-color-orange =
+    .label = Portocaliu
+user-context-color-red =
+    .label = Roșu
+user-context-color-pink =
+    .label = Roz
+user-context-color-purple =
+    .label = Purpuriu
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
