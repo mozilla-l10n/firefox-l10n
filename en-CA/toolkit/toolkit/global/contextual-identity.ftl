@@ -27,3 +27,21 @@ user-context-none =
 user-context-manage-containers =
     .label = Manage containers
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Fingerprint
+user-context-icon-briefcase =
+    .label = Briefcase
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollar sign
+user-context-icon-fence =
+    .label = Fence
