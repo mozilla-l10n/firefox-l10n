@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = כחול
+user-context-color-cyan =
+    .label = ציאן
 user-context-color-green =
     .label = ירוק
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = ורוד
 user-context-color-purple =
     .label = סגול
+user-context-color-violet =
+    .label = סגול
+user-context-color-gray =
+    .label = אפור
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
