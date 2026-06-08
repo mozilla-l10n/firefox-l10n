@@ -13,10 +13,26 @@
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Blu
+user-context-color-green =
+    .label = Virdi
+user-context-color-yellow =
+    .label = Giallu
+user-context-color-orange =
+    .label = Aranciu
+user-context-color-red =
+    .label = Russu
+user-context-color-pink =
+    .label = Rosa
+user-context-color-purple =
+    .label = Viola
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Urma diggitali
 user-context-icon-briefcase =
     .label = Valiggetta
 # String represents a money sign but currently uses a dollar sign
@@ -41,3 +57,5 @@ user-context-icon-chill =
     .label = Friddu
 user-context-icon-circle =
     .label = Puntu
+user-context-icon-fence =
+    .label = Sticcatu
