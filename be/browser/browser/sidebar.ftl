@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = Чат-бот ШІ
 menu-view-contextual-password-manager =
     .label = Паролі
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Адкрытыя карткі
 sidebar-options-menu-button =
     .title = Адкрыць меню
 
@@ -141,6 +146,11 @@ sidebar-menu-history-label =
     .label = Гісторыя
 sidebar-menu-synced-tabs-label =
     .label = Карткі з іншых прылад
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Адкрытыя карткі
 sidebar-menu-bookmarks-label =
     .label = Закладкі
 sidebar-menu-customize-label =
@@ -187,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Гісторыя
 sidebar-menu-syncedtabs-header =
     .heading = Карткі з іншых прылад
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Адкрытыя карткі
 sidebar-menu-cpm-header =
     .heading = Паролі
 sidebar-menu-bookmarks-header =
@@ -206,6 +220,13 @@ sidebar-bookmarks-folder-mobile = Мабільныя закладкі
 sidebar-customize-title = Уладкаванне бакавой панэлі
 sidebar-history-title = Гісторыя
 sidebar-syncedtabs-title = Карткі з іншых прылад
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Адкрытыя карткі
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Замацаваныя карткі
 
 ## Context for closing synced tabs when hovering over the items
 
