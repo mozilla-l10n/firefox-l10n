@@ -279,3 +279,6 @@ protections-vpn-header-content-subscribed =
         [few] Выкарыстанне { -mozilla-vpn-brand-name } шыфруе ўвесь ваш трафік і хавае ваша месцазнаходжанне — на { $count } прыладах. Атрымайце максімум ад сваёй падпіскі — дадайце яе з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
        *[many] Выкарыстанне { -mozilla-vpn-brand-name } шыфруе ўвесь ваш трафік і хавае ваша месцазнаходжанне — на { $count } прыладах. Атрымайце максімум ад сваёй падпіскі — дадайце яе з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
     }
+protections-vpn-banner-header = Абарона, якая выходзіць за рамкі браўзера
+protections-vpn-banner-content = Паспрабуйце { -mozilla-vpn-brand-name } без рызыкі і даведайцеся, чаму TechRadar кажа: «Яго хуткасць, прастата і нізкая штомесячная цана робяць яго вартым увагі».
+protections-vpn-banner-link = Атрымаць { -mozilla-vpn-brand-name }
