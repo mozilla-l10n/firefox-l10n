@@ -31,10 +31,34 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Bulaajo
+user-context-color-green =
+    .label = Haakeejo
+user-context-color-yellow =
+    .label = Oolo
+user-context-color-orange =
+    .label = Orayso
+user-context-color-red =
+    .label = Boɗeejo
+user-context-color-pink =
+    .label = Rooso
+user-context-color-purple =
+    .label = Boruujo
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Temmbelol
+user-context-icon-briefcase =
+    .label = Sakkoos
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Maande dolaar
+user-context-icon-cart =
+    .label = Jige nduggu
 user-context-icon-vacation =
     .label = Guurte
 user-context-icon-gift =
@@ -49,3 +73,5 @@ user-context-icon-tree =
     .label = Lekki
 user-context-icon-chill =
     .label = Chill
+user-context-icon-circle =
+    .label = Toɓɓere
