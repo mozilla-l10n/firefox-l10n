@@ -35,6 +35,16 @@ user-context-manage-containers =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = ស្នាម​ម្រាមដៃ
+user-context-icon-briefcase =
+    .label = កាតាប
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = សញ្ញា​ដុល្លារ
+user-context-icon-cart =
+    .label = រទេះ​ទិញ​អីវ៉ាន់
 user-context-icon-vacation =
     .label = វិស្សមកាល
 user-context-icon-gift =
@@ -49,3 +59,7 @@ user-context-icon-tree =
     .label = ដើមឈើ
 user-context-icon-chill =
     .label = កក់ក្ដៅ
+user-context-icon-circle =
+    .label = ចំណុច
+user-context-icon-fence =
+    .label = របង
