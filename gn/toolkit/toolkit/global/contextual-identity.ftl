@@ -27,3 +27,47 @@ user-context-none =
 user-context-manage-containers =
     .label = Guerekoha ñangarekohára
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-orange =
+    .label = Narã
+user-context-color-red =
+    .label = Ñanduti
+user-context-color-pink =
+    .label = Pytãngy
+user-context-color-purple =
+    .label = Pytãũ
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Kuã rapykuere
+user-context-icon-briefcase =
+    .label = Kuatiaryru
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dólar reheguaite
+user-context-icon-cart =
+    .label = Mba’yruguata’i jejoguaha
+user-context-icon-vacation =
+    .label = Pytu’upuku
+user-context-icon-gift =
+    .label = Jopói
+user-context-icon-food =
+    .label = Tembi’u
+user-context-icon-fruit =
+    .label = Yva
+user-context-icon-pet =
+    .label = Mymba
+user-context-icon-tree =
+    .label = Yvyra
+user-context-icon-chill =
+    .label = To’ysã
+user-context-icon-circle =
+    .label = Kyta
+user-context-icon-fence =
+    .label = Korajere
