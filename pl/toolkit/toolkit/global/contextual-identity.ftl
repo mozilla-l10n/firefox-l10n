@@ -47,3 +47,31 @@ user-context-color-pink =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Odcisk palca
+user-context-icon-briefcase =
+    .label = Aktówka
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Znak dolara
+user-context-icon-cart =
+    .label = Wózek zakupowy
+user-context-icon-vacation =
+    .label = Wakacje
+user-context-icon-gift =
+    .label = Prezent
+user-context-icon-food =
+    .label = Jedzenie
+user-context-icon-fruit =
+    .label = Owoc
+user-context-icon-pet =
+    .label = Zwierzę
+user-context-icon-tree =
+    .label = Drzewo
+user-context-icon-chill =
+    .label = Relaks
+user-context-icon-circle =
+    .label = Kropka
+user-context-icon-fence =
+    .label = Płotek
