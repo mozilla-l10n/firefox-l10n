@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Containers beheren
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Vingerafdruk
+user-context-icon-briefcase =
+    .label = Werkmap
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollarteken
+user-context-icon-cart =
+    .label = Winkelwagen
+user-context-icon-vacation =
+    .label = Vakantie
+user-context-icon-gift =
+    .label = Cadeau
+user-context-icon-food =
+    .label = Eten
+user-context-icon-fruit =
+    .label = Fruit
+user-context-icon-pet =
+    .label = Huisdier
+user-context-icon-tree =
+    .label = Boom
+user-context-icon-chill =
+    .label = Ontspanning
+user-context-icon-circle =
+    .label = Stip
+user-context-icon-fence =
+    .label = Hekwerk
