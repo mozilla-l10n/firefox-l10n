@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Blauw
+user-context-color-green =
+    .label = Groen
+user-context-color-yellow =
+    .label = Geel
+user-context-color-orange =
+    .label = Oranje
+user-context-color-red =
+    .label = Rood
+user-context-color-pink =
+    .label = Roze
+user-context-color-purple =
+    .label = Paars
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
