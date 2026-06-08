@@ -27,3 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = Manìgia cuntenidores
     .accesskey = M
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Biaitu
+user-context-color-green =
+    .label = Birde
+user-context-color-yellow =
+    .label = Grogu
+user-context-color-orange =
+    .label = Aràngiu
+user-context-color-red =
+    .label = Ruju
+user-context-color-pink =
+    .label = Rosa
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
