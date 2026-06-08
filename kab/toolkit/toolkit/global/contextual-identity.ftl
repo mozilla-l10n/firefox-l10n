@@ -27,3 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = Sefrek imagbaren
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-green =
+    .label = Azegzaw
+user-context-color-yellow =
+    .label = Awraɣ
+user-context-color-orange =
+    .label = Ačinawi
+user-context-color-red =
+    .label = Azeggaɣ
+user-context-color-pink =
+    .label = Axuxi
+user-context-color-purple =
+    .label = Avyuli
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
