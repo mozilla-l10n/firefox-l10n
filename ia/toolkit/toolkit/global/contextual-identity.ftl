@@ -43,6 +43,8 @@ user-context-color-red =
     .label = Rubie
 user-context-color-pink =
     .label = Rosate
+user-context-color-purple =
+    .label = Pururee
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
