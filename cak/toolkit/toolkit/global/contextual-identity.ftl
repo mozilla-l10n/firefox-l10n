@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Kenuk'samajïx K'wayöl
     .accesskey = w
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Retal ruwi' q'ab'aj
+user-context-icon-briefcase =
+    .label = Ejqatel
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Retal Dolar
+user-context-icon-cart =
+    .label = Loq'ob'äl ch'ich'
+user-context-icon-vacation =
+    .label = Uxlanem
+user-context-icon-gift =
+    .label = Sipanïk
+user-context-icon-food =
+    .label = Wa'im
+user-context-icon-fruit =
+    .label = Ruwäch che'
+user-context-icon-pet =
+    .label = Ala's
+user-context-icon-tree =
+    .label = Che'
+user-context-icon-chill =
+    .label = Tew
+user-context-icon-circle =
+    .label = Rajil
+user-context-icon-fence =
+    .label = Tik'ojöx
