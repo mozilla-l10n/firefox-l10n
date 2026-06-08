@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = น้ำเงิน
+user-context-color-cyan =
+    .label = ฟ้าอมเขียว
 user-context-color-green =
     .label = เขียว
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = ชมพู
 user-context-color-purple =
     .label = ม่วง
+user-context-color-violet =
+    .label = ม่วงเย็น
+user-context-color-gray =
+    .label = เทา
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
