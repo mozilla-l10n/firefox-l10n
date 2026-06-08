@@ -37,3 +37,17 @@ user-context-color-blue =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-vacation =
+    .label = సెలవు
+user-context-icon-gift =
+    .label = బహుమతి
+user-context-icon-food =
+    .label = భోజనం
+user-context-icon-fruit =
+    .label = పండు
+user-context-icon-pet =
+    .label = పెంపుడు జంతువు
+user-context-icon-tree =
+    .label = చెట్టు
+user-context-icon-chill =
+    .label = చిల్
