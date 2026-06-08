@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Xar
+user-context-color-green =
+    .label = Räx
+user-context-color-yellow =
+    .label = Q'än
+user-context-color-orange =
+    .label = Kaqköj
+user-context-color-red =
+    .label = Käq
+user-context-color-pink =
+    .label = Ronqs
+user-context-color-purple =
+    .label = Purpura'
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
