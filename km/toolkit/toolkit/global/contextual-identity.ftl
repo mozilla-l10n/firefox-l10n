@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-vacation =
+    .label = វិស្សមកាល
+user-context-icon-gift =
+    .label = អំណោយ
+user-context-icon-food =
+    .label = អាហារ
+user-context-icon-fruit =
+    .label = ផ្លែឈើ
+user-context-icon-pet =
+    .label = សត្វចិញ្ចឹម
+user-context-icon-tree =
+    .label = ដើមឈើ
+user-context-icon-chill =
+    .label = កក់ក្ដៅ
