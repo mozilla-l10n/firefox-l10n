@@ -27,3 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = Zarządzaj kontenerami
     .accesskey = Z
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Niebieski
+user-context-color-green =
+    .label = Zielony
+user-context-color-yellow =
+    .label = Żółty
+user-context-color-orange =
+    .label = Pomarańczowy
+user-context-color-red =
+    .label = Czerwony
+user-context-color-pink =
+    .label = Różowy
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
