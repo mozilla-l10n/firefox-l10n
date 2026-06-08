@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = ਨੀਲਾ
+user-context-color-green =
+    .label = ਹਰਾ
+user-context-color-yellow =
+    .label = ਪੀਲਾ
+user-context-color-orange =
+    .label = ਸੰਤਰੀ
+user-context-color-red =
+    .label = ਲਾਲ
+user-context-color-pink =
+    .label = ਗੁਲਾਬੀ
+user-context-color-purple =
+    .label = ਬੈਂਗਣੀ
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
