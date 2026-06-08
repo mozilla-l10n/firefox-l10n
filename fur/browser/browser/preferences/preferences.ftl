@@ -757,6 +757,9 @@ update-history-2 =
     .accesskey = M
 update-application-installation =
     .label = Instalazion
+update-application-auto-2 =
+    .label = Instale in automatic i inzornaments (conseât)
+    .accesskey = a
 update-history =
     .label = Mostre cronologjie inzornaments…
     .accesskey = M
@@ -803,6 +806,11 @@ update-in-progress-ok-button = &Interomp
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Informazions su { -brand-short-name }
 
 ## Firefox updates
 
@@ -858,6 +866,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Dopre scoriment automatic
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navigazion e scoriment cu la tastiere
+motion-and-link-group =
+    .label = Animazions e stîl dai colegaments
 browsing-use-smooth-scrolling =
     .label = Dopre scoriment delicât
     .accesskey = c
@@ -909,6 +921,10 @@ browsing-group =
 
 ## Accessibility page
 
+preferences-accessibility-header =
+    .heading = Acès facilitât
+preferences-default-zoom-select =
+    .aria-label = Ingrandiment predefinît
 preferences-fonts-family =
     .label = Famee di caratars
     .accesskey = D
@@ -927,6 +943,13 @@ network-proxy-connection-learn-more = Plui informazions
 network-proxy-connection-settings =
     .label = Impostazions…
     .accesskey = I
+network-proxy-group2 =
+    .label = Impostazions dal proxy
+    .description = Configure cemût che { -brand-short-name } si conet a internet.
+network-proxy-connection-settings2 =
+    .label = Configure il proxy
+    .description = La modifiche di chestis impostazions e podarès causâ problemis di conession
+    .accesskey = p
 
 ## Home Section
 
