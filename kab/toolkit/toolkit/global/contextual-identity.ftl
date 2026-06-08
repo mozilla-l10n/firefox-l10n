@@ -47,3 +47,17 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-vacation =
+    .label = Imuras
+user-context-icon-gift =
+    .label = Araz
+user-context-icon-food =
+    .label = Tuččit
+user-context-icon-fruit =
+    .label = Agummu
+user-context-icon-pet =
+    .label = Aɣeṛsiw n uxxam
+user-context-icon-tree =
+    .label = Aseklu
+user-context-icon-chill =
+    .label = Agrud
