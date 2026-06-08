@@ -75,3 +75,5 @@ user-context-icon-chill =
     .label = Nagi'iaj nuhui'
 user-context-icon-circle =
     .label = Puntu
+user-context-icon-fence =
+    .label = Sa narán
