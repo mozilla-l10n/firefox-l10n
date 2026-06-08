@@ -49,3 +49,31 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Otisk
+user-context-icon-briefcase =
+    .label = Kufřík
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Značka dolaru
+user-context-icon-cart =
+    .label = Nákupní košík
+user-context-icon-vacation =
+    .label = Dovolená
+user-context-icon-gift =
+    .label = Dárek
+user-context-icon-food =
+    .label = Jídlo
+user-context-icon-fruit =
+    .label = Ovoce
+user-context-icon-pet =
+    .label = Zvíře
+user-context-icon-tree =
+    .label = Strom
+user-context-icon-chill =
+    .label = Odpočinek
+user-context-icon-circle =
+    .label = Tečka
+user-context-icon-fence =
+    .label = Plot
