@@ -27,3 +27,51 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteynerlerni İdare Et
     .accesskey = o
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Kök
+user-context-color-green =
+    .label = Yeşil
+user-context-color-yellow =
+    .label = Sarı
+user-context-color-orange =
+    .label = Portaqal
+user-context-color-red =
+    .label = Qızıl
+user-context-color-pink =
+    .label = Pempe
+user-context-color-purple =
+    .label = Mor
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Parmaq-izi
+user-context-icon-briefcase =
+    .label = Portfel
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollar işareti
+user-context-icon-cart =
+    .label = Alışveriş arabası
+user-context-icon-vacation =
+    .label = Tatil
+user-context-icon-gift =
+    .label = Hediye
+user-context-icon-food =
+    .label = Rızq
+user-context-icon-fruit =
+    .label = Meyve
+user-context-icon-pet =
+    .label = Evcil Ayvan
+user-context-icon-tree =
+    .label = Ağaç
+user-context-icon-chill =
+    .label = Serinleş
+user-context-icon-circle =
+    .label = Noqta
