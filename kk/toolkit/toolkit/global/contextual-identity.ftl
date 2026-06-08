@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = Контейнерлерді басқару
     .accesskey = о
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Баспасы
+user-context-icon-briefcase =
+    .label = Портфель
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Доллар таңбасы
+user-context-icon-cart =
+    .label = Қоржын
+user-context-icon-vacation =
+    .label = Демалыс
+user-context-icon-gift =
+    .label = Сыйлық
+user-context-icon-food =
+    .label = Тамақ
+user-context-icon-fruit =
+    .label = Жеміс
+user-context-icon-pet =
+    .label = Жануар
+user-context-icon-tree =
+    .label = Ағаш
+user-context-icon-chill =
+    .label = Салқындату
+user-context-icon-circle =
+    .label = Нүкте
+user-context-icon-fence =
+    .label = Шарбақ
