@@ -27,3 +27,37 @@ user-context-none =
 user-context-manage-containers =
     .label = Kontejnery rjadować
     .accesskey = K
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = Porstowy wotćišć
+user-context-icon-briefcase =
+    .label = Listowka
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dolarowe znamješko
+user-context-icon-cart =
+    .label = Nakupowanski wozyčk
+user-context-icon-vacation =
+    .label = Dowol
+user-context-icon-gift =
+    .label = Dar
+user-context-icon-food =
+    .label = Cyroba
+user-context-icon-fruit =
+    .label = Sad
+user-context-icon-pet =
+    .label = Domjace zwěrjatko
+user-context-icon-tree =
+    .label = Štom
+user-context-icon-circle =
+    .label = Dypk
+user-context-icon-fence =
+    .label = Płoćik
