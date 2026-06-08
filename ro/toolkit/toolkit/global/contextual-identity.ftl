@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestionează containerele
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-vacation =
+    .label = Vacanță
+user-context-icon-gift =
+    .label = Cadou
+user-context-icon-food =
+    .label = Alimente
+user-context-icon-fruit =
+    .label = Fructe
+user-context-icon-pet =
+    .label = Animale de casă
+user-context-icon-tree =
+    .label = Arbore
+user-context-icon-chill =
+    .label = Relaxare
