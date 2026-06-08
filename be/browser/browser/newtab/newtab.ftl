@@ -1143,6 +1143,14 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Пачніце чэмпіянат свету з новымі шпалерамі
+newtab-sports-widget-message-wallpapers-body = Захапіцеся энергіяй матчавага дня ў сваім браўзеры ў час турніру.
+newtab-sports-widget-message-wallpapers-cta = Абраць шпалеры
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Дадаць віджэты
+newtab-sports-widget-message-day-in-play-title = Не выходзьце з гульні з дапамогай віджэтаў { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Сачыце за чэмпіянатам свету, засяроджвайцеся на задачах, асочвайце час па ўсім свеце і многае іншае.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Азнаёмцеся з віджэтамі
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1204,6 +1212,19 @@ newtab-clock-widget-button-save = Захаваць
 newtab-clock-widget-button-remove-clock =
     .title = Выдаліць гадзіннік
     .aria-label = Выдаліць гадзіннік
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, назва: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Дадаць гадзіннік
 newtab-clock-widget-edit-clock-form =

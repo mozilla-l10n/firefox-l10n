@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Паведаміць аб зламаным сайце
 report-broken-site-panel-intro-text = Ваша справаздача дапамагае нам зразумець і выправіць праблемы ў { -brand-product-name }, каб зрабіць яго лепшым для ўсіх.
 report-broken-site-panel-learn-more-link = Падрабязней
+report-broken-site-panel-url-label = URL-адрас няспраўнага сайта
+report-broken-site-panel-reason-intro-text = Што не працуе?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Сайт не загружаецца
 # These terms are referring to ecommerce websites
@@ -25,6 +27,8 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Сайт запытаў адключыць блакаванне рэкламы
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Браўзер не падтрымліваецца або заблакаваны
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Сайт падманлівы
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Нешта іншае
 report-broken-site-panel-send-more-info-button =
