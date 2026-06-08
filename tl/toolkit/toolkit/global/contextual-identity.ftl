@@ -31,6 +31,16 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Asul
+user-context-color-green =
+    .label = Berde
+user-context-color-yellow =
+    .label = Dilaw
+user-context-color-orange =
+    .label = Kahel
+user-context-color-red =
+    .label = Pula
 user-context-color-pink =
     .label = Pink
 user-context-color-purple =
