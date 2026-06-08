@@ -27,3 +27,27 @@ user-context-none =
 user-context-manage-containers =
     .label = Spravovať kontajnery
     .accesskey = S
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Modrá
+user-context-color-green =
+    .label = Zelená
+user-context-color-yellow =
+    .label = Žltá
+user-context-color-orange =
+    .label = Oranžová
+user-context-color-red =
+    .label = Červená
+user-context-color-pink =
+    .label = Ružová
+user-context-color-purple =
+    .label = Fialová
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fence =
+    .label = Plot
