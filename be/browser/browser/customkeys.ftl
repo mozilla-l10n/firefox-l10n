@@ -48,6 +48,9 @@ customkeys-nav-select-tab-6 = Перайсці на картку 6
 customkeys-nav-select-tab-7 = Перайсці на картку 7
 customkeys-nav-select-tab-8 = Перайсці на картку 8
 customkeys-nav-select-last-tab = Перайсці на апошнюю картку
+customkeys-nav-toggle-mute = Уключыць/выключыць гук
+customkeys-edit-find-previous = Знайсці папярэдняе
+customkeys-tools-screenshot = Зрабіць здымак экрана
 customkeys-caution-message = Гэтая функцыя эксперыментальная і можа не працаваць належным чынам.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Не сапраўдны
