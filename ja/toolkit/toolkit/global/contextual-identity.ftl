@@ -35,6 +35,16 @@ user-context-color-blue =
     .label = 青
 user-context-color-green =
     .label = 緑
+user-context-color-yellow =
+    .label = 黄
+user-context-color-orange =
+    .label = オレンジ
+user-context-color-red =
+    .label = 赤
+user-context-color-pink =
+    .label = ピンク
+user-context-color-purple =
+    .label = 紫
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
