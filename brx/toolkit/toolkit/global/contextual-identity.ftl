@@ -25,6 +25,16 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = गोथां
+user-context-color-green =
+    .label = सोमखोर
+user-context-color-yellow =
+    .label = गोमो
+user-context-color-orange =
+    .label = कमला गाब
+user-context-color-red =
+    .label = गोजा
 user-context-color-pink =
     .label = गलाब
 user-context-color-purple =
