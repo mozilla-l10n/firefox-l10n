@@ -24,3 +24,37 @@ user-context-shopping =
 user-context-none =
     .label = कुनै कन्टेनर छैन
     .accesskey = क
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = नीलो
+user-context-color-green =
+    .label = हरियो
+user-context-color-yellow =
+    .label = पहेँलो
+user-context-color-orange =
+    .label = सुन्तला
+user-context-color-red =
+    .label = रातो
+user-context-color-pink =
+    .label = गुलाबी
+user-context-color-purple =
+    .label = बैजनी रङ
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = औँठा छाप
+user-context-icon-briefcase =
+    .label = ब्रिफकेस
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = डलरचिह्न
+user-context-icon-cart =
+    .label = किनमेल कार्ट
+user-context-icon-circle =
+    .label = थोप्ला
