@@ -49,3 +49,31 @@ user-context-color-purple =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Barmoq izi
+user-context-icon-briefcase =
+    .label = Portfel
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Dollar belgisi
+user-context-icon-cart =
+    .label = Xarid kartasi
+user-context-icon-vacation =
+    .label = Ta’til
+user-context-icon-gift =
+    .label = Sovg’a
+user-context-icon-food =
+    .label = Ovqat
+user-context-icon-fruit =
+    .label = Meva
+user-context-icon-pet =
+    .label = Uy hayvoni
+user-context-icon-tree =
+    .label = Daraxt
+user-context-icon-chill =
+    .label = Sovuq
+user-context-icon-circle =
+    .label = Nuqta
+user-context-icon-fence =
+    .label = Toʻsiq
