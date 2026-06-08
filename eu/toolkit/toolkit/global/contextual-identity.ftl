@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Urdina
+user-context-color-green =
+    .label = Berdea
+user-context-color-yellow =
+    .label = Horia
+user-context-color-orange =
+    .label = Laranja
+user-context-color-red =
+    .label = Gorria
+user-context-color-pink =
+    .label = Arrosa
+user-context-color-purple =
+    .label = Morea
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
