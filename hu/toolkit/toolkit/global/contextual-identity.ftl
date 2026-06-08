@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Kék
+user-context-color-cyan =
+    .label = Cián
 user-context-color-green =
     .label = Zöld
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Rózsaszín
 user-context-color-purple =
     .label = Lila
+user-context-color-violet =
+    .label = Ibolya
+user-context-color-gray =
+    .label = Szürke
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
