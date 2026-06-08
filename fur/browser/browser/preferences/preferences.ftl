@@ -939,6 +939,10 @@ home-section =
 
 home-default-browser-title =
     .label = Navigadôr predefinît
+is-default-browser-2 =
+    .message = { -brand-short-name } al è il to navigadôr predefinît. Ben fate.
+is-not-default-browser-2 =
+    .message = Di po, { -brand-short-name } nol è il to predefinît.
 set-as-my-default-browser-2 =
     .label = Definìs come predefinît
     .accesskey = d
