@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = நீலம்
+user-context-color-green =
+    .label = பச்சை
+user-context-color-yellow =
+    .label = மஞ்சள்
+user-context-color-orange =
+    .label = செம்மஞ்சள்
+user-context-color-red =
+    .label = சிகப்பு
+user-context-color-pink =
+    .label = இளஞ்சிவப்பு
+user-context-color-purple =
+    .label = ஊதா
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
