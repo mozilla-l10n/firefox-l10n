@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Us presentem la VPN, ara inclosa al na
 ipprotection-feature-introduction-link-text-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Afegiu una altra capa de privadesa
+ipprotection-feature-introduction-link-text-privacy-1 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per a navegar amb més privadesa.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades, fins i tot des d'una finestra privada.
 ipprotection-feature-introduction-description-private-browsing = Navegueu amb protecció addicional amagant la vostra ubicació, fins i tot des d'una finestra privada.
 # Used for callout shown on login to public wi-fi through a captive portal

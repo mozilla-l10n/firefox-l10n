@@ -38,3 +38,19 @@ content-sharing-modal-too-many-links-2 =
         [one] Només s'inclourà { $count } enllaç
        *[other] Només s'inclouran { $count } enllaços
     }
+content-sharing-modal-no-shareable-links =
+    .heading = No s'inclouen enllaços compartibles
+    .message = Només es poden compartir enllaços a contingut web.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Heu compartit { $count } pàgina
+           *[other] Heu compartit { $count } pàgines
+        }
+    .message = Torneu-ho a provar quan una de les pàgines hagi caducat.
+content-sharing-modal-some-invalid-links = Alguns enllaços no es poden compartir.
+content-sharing-modal-generic-error-2 =
+    .heading = Hi ha hagut un problema
+    .message = Aquesta vegada no hem pogut crear la vostra pàgina compartida. Torneu-ho a provar més tard.
