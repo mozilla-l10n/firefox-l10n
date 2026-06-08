@@ -35,6 +35,16 @@ user-context-manage-containers =
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-icon-fingerprint =
+    .label = Amprentă
+user-context-icon-briefcase =
+    .label = Valiză
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = Semn dolar
+user-context-icon-cart =
+    .label = Coș de cumpărături
 user-context-icon-vacation =
     .label = Vacanță
 user-context-icon-gift =
@@ -49,3 +59,7 @@ user-context-icon-tree =
     .label = Arbore
 user-context-icon-chill =
     .label = Relaxare
+user-context-icon-circle =
+    .label = Punct
+user-context-icon-fence =
+    .label = Gard
