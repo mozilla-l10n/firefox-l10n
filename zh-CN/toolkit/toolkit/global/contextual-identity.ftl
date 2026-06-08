@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = 管理身份
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = 蓝色
+user-context-color-green =
+    .label = 绿色
+user-context-color-yellow =
+    .label = 黄色
+user-context-color-orange =
+    .label = 橙色
+user-context-color-red =
+    .label = 红色
+user-context-color-pink =
+    .label = 粉色
+user-context-color-purple =
+    .label = 紫色
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
