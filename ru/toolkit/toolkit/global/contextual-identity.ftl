@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = Управление контейнерами
     .accesskey = й
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = Синий
+user-context-color-green =
+    .label = Зелёный
+user-context-color-yellow =
+    .label = Жёлтый
+user-context-color-orange =
+    .label = Оранжевый
+user-context-color-red =
+    .label = Красный
+user-context-color-pink =
+    .label = Розовый
+user-context-color-purple =
+    .label = Фиолетовый
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
