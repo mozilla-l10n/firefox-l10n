@@ -31,6 +31,20 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = น้ำเงิน
+user-context-color-green =
+    .label = เขียว
+user-context-color-yellow =
+    .label = เหลือง
+user-context-color-orange =
+    .label = ส้ม
+user-context-color-red =
+    .label = แดง
+user-context-color-pink =
+    .label = ชมพู
+user-context-color-purple =
+    .label = ม่วง
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
