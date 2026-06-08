@@ -43,6 +43,8 @@ user-context-color-red =
     .label = Rojo
 user-context-color-pink =
     .label = Rosa
+user-context-color-purple =
+    .label = Violeta
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
