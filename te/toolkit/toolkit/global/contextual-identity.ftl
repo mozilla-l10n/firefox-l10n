@@ -27,3 +27,13 @@ user-context-none =
 user-context-manage-containers =
     .label = కంటెయినర్లను నిర్వహించండి
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-blue =
+    .label = నీలం
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
