@@ -737,6 +737,9 @@ applications-save-for-new-types2 =
 applications-ask-before-handling =
     .label = Domande se vierzi o salvâ i files
     .accesskey = D
+applications-ask-before-handling2 =
+    .label = Domande di vierzi o salvâ i files
+    .accesskey = a
 drm-group =
     .label = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 drm-content-header = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
@@ -761,6 +764,9 @@ update-application-allow-description = Permet a { -brand-short-name } di
 update-application-auto =
     .label = Instale i inzornaments in automatic (conseât)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Al controle la disponibilitât di inzornaments, ma tu sielzis tu cuant instalâju.
+    .accesskey = C
 update-application-check-choose =
     .label = Controlâ la disponibilitât di inzornaments ma permeti al utent di sielzi se instalâju
     .accesskey = C
@@ -772,6 +778,9 @@ update-application-background-enabled =
     .accesskey = C
 update-application-warning-cross-user-setting-2 =
     .message = Cheste impostazion e vignarà aplicade a ducj i account di Windows e ai profîi di { -brand-short-name } che a doprin cheste instalazion di { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Mostre mancul pro memoria di inzornaments
+    .accesskey = n
 update-application-warning-cross-user-setting = Cheste impostazion e vignarà aplicade a ducj i account di Windows e ai profîi di { -brand-short-name } che a doprin cheste instalazion di { -brand-short-name }.
 update-application-use-service =
     .label = Dopre un servizi in sotfont par instalâ i inzornaments
@@ -794,6 +803,16 @@ update-in-progress-ok-button = &Interomp
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+
+## Firefox updates
+
+update-application-heading =
+    .label = Inzornaments di { -brand-short-name }
+    .description = I inzornaments a miorin la velocitât, la stabilitât e la sigurece di { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notifichis
+update-application-updates-managed-by-os =
+    .message = I inzornaments a vegnin gjestîts dal to sisteme operatîf
 
 ## Firefox support
 
@@ -918,6 +937,8 @@ home-section =
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navigadôr predefinît
 set-as-my-default-browser-2 =
     .label = Definìs come predefinît
     .accesskey = d
