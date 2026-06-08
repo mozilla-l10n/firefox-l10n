@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = Modrá
+user-context-color-cyan =
+    .label = Azurová
 user-context-color-green =
     .label = Zelená
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = Růžová
 user-context-color-purple =
     .label = Fialová
+user-context-color-violet =
+    .label = Fialová
+user-context-color-gray =
+    .label = Šedá
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
