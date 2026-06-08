@@ -27,3 +27,25 @@ user-context-none =
 user-context-manage-containers =
     .label = Quản lý ngăn chứa
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-vacation =
+    .label = Nghỉ phép
+user-context-icon-gift =
+    .label = Quà tặng
+user-context-icon-food =
+    .label = Thực phẩm
+user-context-icon-fruit =
+    .label = Trái cây
+user-context-icon-pet =
+    .label = Vật nuôi
+user-context-icon-tree =
+    .label = Cây
+user-context-icon-chill =
+    .label = Khuôn
