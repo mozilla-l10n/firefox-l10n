@@ -23,6 +23,8 @@ user-context-color-pink =
     .label = آل
 user-context-color-purple =
     .label = بناوش
+user-context-color-violet =
+    .label = بناوش
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
