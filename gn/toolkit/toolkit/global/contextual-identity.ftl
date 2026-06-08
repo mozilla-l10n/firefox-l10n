@@ -31,6 +31,12 @@ user-context-manage-containers =
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
+user-context-color-blue =
+    .label = Hovy
+user-context-color-green =
+    .label = Hovyũ
+user-context-color-yellow =
+    .label = Sa’yju
 user-context-color-orange =
     .label = Narã
 user-context-color-red =
