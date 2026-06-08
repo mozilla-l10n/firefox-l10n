@@ -27,3 +27,15 @@ user-context-none =
 user-context-manage-containers =
     .label = Manage Containers
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-pink =
+    .label = Pink
+user-context-color-purple =
+    .label = Lila
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
