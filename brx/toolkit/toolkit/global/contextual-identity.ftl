@@ -21,3 +21,17 @@ user-context-none =
 user-context-manage-containers =
     .label = खनथेनारफोरखौ सामलाय
     .accesskey = O
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-color-pink =
+    .label = गलाब
+user-context-color-purple =
+    .label = फानथाव गाब
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-vacation =
+    .label = गोलावसुटि
