@@ -27,3 +27,39 @@ user-context-none =
 user-context-manage-containers =
     .label = ניהול מגירות
     .accesskey = ג
+
+## Container colors, shown as selectable swatches in the container
+## creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
+user-context-icon-fingerprint =
+    .label = טביעת אצבע
+user-context-icon-briefcase =
+    .label = מזוודה
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+user-context-icon-dollar =
+    .label = סימן דולר
+user-context-icon-cart =
+    .label = עגלת קניות
+user-context-icon-vacation =
+    .label = חופשה
+user-context-icon-gift =
+    .label = מתנה
+user-context-icon-food =
+    .label = אוכל
+user-context-icon-fruit =
+    .label = פירות
+user-context-icon-pet =
+    .label = חיות מחמד
+user-context-icon-tree =
+    .label = עץ
+user-context-icon-chill =
+    .label = רגוע
+user-context-icon-circle =
+    .label = נקודה
+user-context-icon-fence =
+    .label = גדר
