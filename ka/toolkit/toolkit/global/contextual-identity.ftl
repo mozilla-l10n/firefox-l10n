@@ -33,6 +33,8 @@ user-context-manage-containers =
 
 user-context-color-blue =
     .label = ლურჯი
+user-context-color-cyan =
+    .label = მოცისფრო
 user-context-color-green =
     .label = მწვანე
 user-context-color-yellow =
@@ -45,6 +47,10 @@ user-context-color-pink =
     .label = ვარდისფერი
 user-context-color-purple =
     .label = მეწამული
+user-context-color-violet =
+    .label = იისფერი
+user-context-color-gray =
+    .label = რუხი
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
