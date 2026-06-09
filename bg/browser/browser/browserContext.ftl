@@ -293,6 +293,7 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Изпращане към устройство
     .accesskey = И
+main-context-menu-send-to-mobile-connect-phone2 = Свържете телефона си
 main-context-menu-save-to-pocket =
     .label = Запазване на страницата в { -pocket-brand-name }
     .accesskey = с
