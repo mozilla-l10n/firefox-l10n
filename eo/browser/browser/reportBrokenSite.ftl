@@ -8,6 +8,8 @@ report-broken-site-panel-header =
     .title = Raporti ne bone funkciantan retejon
 report-broken-site-panel-intro-text = Via raporto helpos nin kompreni kaj solvi problemojn en { -brand-product-name } kaj igi ĝin pli bona por ĉiuj.
 report-broken-site-panel-learn-more-link = Pli da informo
+report-broken-site-panel-url-label = Retadreso de misfunkcianta retejo
+report-broken-site-panel-reason-intro-text = Kio ne funkcias?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = La retejo ne ŝargiĝas
 # These terms are referring to ecommerce websites
@@ -25,8 +27,14 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = La retejo petas malŝalti la blokilon de reklamoj
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = La retumilo ne estas subtenata aŭ ĝi esta blokita
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Trompa retejo
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Io alia
+report-broken-site-panel-instructions-other = Detale priskribu la problemon por helpi nin esplori ĝin.
+report-broken-site-panel-instructions-other-optional = Detale priskribu la problemon por helpi nin esplori ĝin. (nedevige)
+report-broken-site-panel-description2 =
+    .placeholder = Kio okazis? Kion estus devinta okazi? Bonvolu klarigi kiel rekrei la problemon.
 report-broken-site-panel-send-more-info-button =
     .label = Sendi pli da informoj
 report-broken-site-panel-intro = Helpu nin plibonigi { -brand-product-name } por ĉiuj. { -vendor-short-name } uzas la informon senditan de vi por solvi problemojn en retejoj.
@@ -63,6 +71,8 @@ report-broken-site-panel-button-cancel =
     .label = Nuligi
 report-broken-site-panel-button-okay =
     .label = En ordo
+report-broken-site-panel-button-send-report =
+    .label = Sendi raporton
 report-broken-site-panel-button-send =
     .label = Sendi
 report-broken-site-panel-report-sent-label = Via raporto estis sendita
@@ -71,6 +81,18 @@ report-broken-site-panel-report-sent-header =
     .title = Via raporto estis sendita
 report-broken-site-panel-report-sent-text = Dankon, vi helpas { -brand-product-name } igi la reton pli malfermita, pli alirebla kaj pli bona por ĉiuj.
 report-broken-site-panel-invalid-url-label = Bonvolu tajpi validan retadreson
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Bonvolu tajpi minimume { $minLength } signon
+       *[other] Bonvolu tajpi minimume { $minLength } signojn
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Sendi ekrankopion
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Sendi liston de elementoj blokitaj de la protekto kontraŭ spurado
+report-broken-site-panel-url-input-label =
+    .aria-label = Retadreso de la raportata paĝo
 report-broken-site-panel-missing-reason-label = Bonvolu elekti kialon
 report-broken-site-panel-blocked-trackers-label =
     .label = Sendi retadresojn blokitaj de la protekto kontraŭ spurado

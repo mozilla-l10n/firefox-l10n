@@ -40,6 +40,7 @@ fxa-menu-send-to-mobile-enable-sync2 = Permesi al spegulado sendi langeton
 fxa-menu-send-to-mobile-connect-phone2 = Konektu vian telefonon
 fxa-menu-send-to-mobile-device-missing2 = Ĉu vi ne vidas vian aparaton?
 fxviewtabrow-send-to-mobile-not-verified = Nekonfirmita konto
+fxviewtabrow-send-to-mobile-verify-account = Konfirmi vian konton
 fxa-menu-send-to-mobile-turn-on-sync = Ŝaltu speguladon por sendi langetojn
 fxa-menu-send-to-mobile-connect-device = Konektu aparaton por sendi langetojn
 # Variables:
@@ -70,6 +71,10 @@ sync-setup-verify-heading = Ĉu vi certe volas komenci seancon por speguli?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Alia uzanto antaŭe komencis seancon por speguli en tiu ĉi komputilo. Komenci seancon faros ke la legosignoj, pasvortoj kaj aliaj agordoj en tiu ĉi retumilo estu kunigitaj kun { $email }
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Komencu seancon por sendi langetojn
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
