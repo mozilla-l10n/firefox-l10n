@@ -793,6 +793,15 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Skjul widgets
 newtab-widget-menu-change-size = Skift størrelse
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Flyt
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Venstre
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Højre
 newtab-widget-size-small = Lille
 newtab-widget-size-medium = Mellem
 newtab-widget-size-large = Stor
@@ -809,10 +818,21 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .title = Widgets-menu
     .aria-label = Åbn widgets-menu
+newtab-widget-add-widgets-button =
+    .aria-label = Tilføj widget
+    .title = Tilføj widget
 newtab-widget-section-menu-manage = Håndter widgets
 newtab-widget-section-menu-hide-all = Skjul widgets
 newtab-widget-section-menu-learn-more = Læs mere
 newtab-widget-section-feedback = Fortæl os, hvad du synes
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Vis flere widgets
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Vis færre widgets
 newtab-widget-lists-name-default = Tjekliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -854,20 +874,46 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-pause-aria =
+    .aria-label = Sæt timer på pause
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minut
+           *[other] { $minutes } minutter
+        }
+newtab-widget-timer-mode-group =
+    .aria-label = Timertilstand
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pause
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Skjul timer
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Din pause er slut
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Brug for en pause?
 
 ##
 
+newtab-sports-widget-menu-follow-teams = Følg hold
 newtab-sports-widget-menu-view-schedule = Se tidsplan
+newtab-sports-widget-menu-view-upcoming = Se kommende
+newtab-sports-widget-menu-view-results = Vis resultater
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Vigtige datoer
 newtab-sports-widget-menu-learn-more = Læs mere
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Hold øje med VM
+newtab-sports-widget-get-updates = Få direkte kampopdateringer og meget mere.
 newtab-sports-widget-view-schedule =
     .label = Se tidsplan
+newtab-sports-widget-follow-teams =
+    .label = Følg hold
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -918,6 +964,7 @@ newtab-sports-widget-watch-stream-free-paid = Gratis og betalt
 newtab-sports-widget-watch-stream-paid = Betalt
 # Note: provider only streams some matches, not the full tournament.
 newtab-sports-widget-watch-stream-select-games-only = Kun udvalgte kampe
+newtab-sports-widget-group-stage = Gruppespillet
 newtab-sports-widget-group-a = Gruppe A
 newtab-sports-widget-group-b = Gruppe B
 newtab-sports-widget-group-c = Gruppe C
@@ -933,8 +980,14 @@ newtab-sports-widget-group-l = Gruppe L
 newtab-sports-widget-round-32 = Sekstendedelsfinaler
 newtab-sports-widget-round-16 = Ottendedelsfinaler
 newtab-sports-widget-quarter-finals = Kvartfinaler
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-sports-widget-upcoming = Kommende
 # Used for a match currently ongoing
 newtab-sports-widget-now = Nu
+newtab-sports-widget-results = Resultater
+newtab-sports-widget-semi-finals = Semifinaler
+newtab-sports-widget-bronze-finals = Bronzekamp
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
 # Variables:
@@ -955,6 +1008,48 @@ newtab-sports-widget-third-place = Tredjeplads
 newtab-sports-widget-runner-up = Andenplads
 newtab-sports-widget-champions = Mestre
 newtab-sports-widget-world-cup-champions = VM-mestre i 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Færdigspillet
+newtab-sports-widget-match-halftime = Halvleg
+newtab-sports-widget-match-penalties = Straffe
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } mod { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) mod { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Live: { $homeTeam }, { $homeScore } mod { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } mod { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } mod { $awayTeam }, forsinket
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -985,14 +1080,35 @@ newtab-clock-widget-menu-learn-more = Læs mere
 newtab-clock-widget-menu-edit = Rediger ure
 newtab-clock-widget-menu-switch-to-12h = Skift til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Skift til 24-timers format
+newtab-clock-widget-label-your-clocks = Dine ure
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Tilføj nyt ur
+    .aria-label = Tilføj nyt ur
 newtab-clock-widget-button-add-clock = Tilføj
 newtab-clock-widget-button-cancel = Annuller
 newtab-clock-widget-button-back =
     .title = Tilbage
     .aria-label = Tilbage
+newtab-clock-widget-button-edit-clock =
+    .title = Rediger ur
+    .aria-label = Rediger ur
 newtab-clock-widget-button-save = Gem
+newtab-clock-widget-button-remove-clock =
+    .title = Fjern ur
+    .aria-label = Fjern ur
+newtab-clock-widget-add-clock-form =
+    .aria-label = Tilføj ur
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Rediger ur
 # "Search results" is the accessible label for the listbox dropdown that appears
 # below the location search field, listing matching cities as the user types.
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Søgeresultater
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Ingen forekomster

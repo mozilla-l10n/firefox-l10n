@@ -15,3 +15,5 @@ content-sharing-modal-copy-link =
     .label = Kopier link
 content-sharing-modal-link-copied =
     .label = Link kopieret
+content-sharing-modal-sign-in-2 =
+    .label = Log ind for at dele

@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Tilpas din browser
 experimental-features-group-productivity =
     .label = Produktivitet
+experimental-features-group-newtab-widgets =
+    .label = Widgets på { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Adgangskoder i sidepanelet
@@ -64,15 +66,28 @@ experimental-features-fx-web-apps-description = Åbn websteder, du besøger ofte
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Lister på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Lister
 experimental-features-newtab-widget-lists-description = Se din liste med opgaver, når du åbner et nyt faneblad. Planlæg alt fra projekter til dine indkøbslister i { -brand-product-name }. <a data-l10n-name="connect">Del feedback</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Timer på { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Timer
 experimental-features-newtab-widget-timer-description = Sæt en timer for at holde fokus, undgå distraktioner eller huske på at holde pauser. <a data-l10n-name="connect">Del feedback</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lister og timer på { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Se din liste med opgaver, når du åbner et nyt faneblad. Planlæg alt fra projekter til dine indkøbslister i { -brand-product-name }. Sæt en timer for at holde fokus, undgå distraktioner eller huske på at holde pauser. <a data-l10n-name="connect">Del feedback</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Vejrudsigter
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Dagens billede
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Ure
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historiksøgning

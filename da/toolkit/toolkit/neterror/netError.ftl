@@ -184,7 +184,14 @@ fp-neterror-offline-body-title = Det ser ud til, at der er et problem med din in
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikke oprette en sikker forbindelse til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikke oprette forbindelse til serveren <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Serveren <strong>{ $hostname }</strong> er for lang tid om at svare.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serveren <strong>{ $hostname }</strong> sendte en fejl tilbage: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } indlæste ikke denne side, fordi det ser ud til, at sikkerhedskonfigurationen ikke matcher den forrige side.
+fp-neterror-blocked-by-policy-intro = Din organisation har blokeret adgangen til siden eller webstedet.
 fp-neterror-http-auth-disabled-intro = Nogen som udgiver sig for at være webstedet kan forsøge at stjæle ting som dit brugernavn, adgangskoder eller mails.
 fp-neterror-http-auth-disabled-secure-connection = Dette websted kræver en sikker forbindelse, og du kan ikke tilføje en undtagelse for at besøge det.
 fp-neterror-why-did-this-happen = Hvorfor skete dette?

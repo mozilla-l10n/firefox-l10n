@@ -25,6 +25,8 @@ report-broken-site-panel-reason-adblocker-moz-box-button =
     .label = Webstedet bad om at slå blokering af reklamer fra
 report-broken-site-panel-reason-notsupported-moz-box-button =
     .label = Browseren blokeres eller understøttes ikke
+report-broken-site-panel-reason-deceptive-moz-box-button =
+    .label = Webstedet er vildledende
 report-broken-site-panel-reason-other-moz-box-button =
     .label = Andet
 report-broken-site-panel-send-more-info-button =
@@ -63,6 +65,8 @@ report-broken-site-panel-button-cancel =
     .label = Annuller
 report-broken-site-panel-button-okay =
     .label = Okay
+report-broken-site-panel-button-send-report =
+    .label = Send rapport
 report-broken-site-panel-button-send =
     .label = Send
 report-broken-site-panel-report-sent-label = Din rapport er blevet sendt
@@ -71,6 +75,16 @@ report-broken-site-panel-report-sent-header =
     .title = Din rapport er blevet sendt
 report-broken-site-panel-report-sent-text = Tak for at du hjælper { -brand-product-name } med at gøre internettet mere åbent, mere tilgængeligt og bedre for alle.
 report-broken-site-panel-invalid-url-label = Indtast en gyldig URL
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Indtast mindst { $minLength } tegn
+       *[other] Indtast mindst { $minLength } tegn
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Send et skærmbillede
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Send liste med elementer, der er blokeret af beskyttelse mod sporing
 report-broken-site-panel-missing-reason-label = Vælg en årsag
 report-broken-site-panel-blocked-trackers-label =
     .label = Send URL'er blokeret af beskyttelse mod sporing

@@ -18,6 +18,11 @@ about-translations-language-load-error-message-2 =
 about-translations-language-load-error-button = Prøv igen
 about-translations-translation-error-subtext = Prøv igen.
 about-translations-translation-error-button = Prøv igen
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Beklager, vi understøtter ikke oversættelser fra { $language } endnu
+about-translations-detected-language-unsupported-heading-unknown-2 = Beklager, vi understøtter ikke oversættelser fra dette sprog endnu
 about-translations-detected-language-unsupported-subtext = Vælg et andet sprog.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
@@ -42,7 +47,7 @@ about-translations-copy-button-default =
 # Button label shown after the translated output has been copied to the clipboard.
 about-translations-copy-button-copied =
     .label = Kopieret
-    .title = Oversættelse kopieret
+    .title = Kopier oversættelse
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Vælg sprog

@@ -62,7 +62,12 @@ new-profile-page-input-placeholder =
     .placeholder = Vælg et navn, fx "Arbejde" eller "Personligt"
 new-profile-page-done-button =
     .label = Redigering fuldført
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Din kopi af "{ $profilename }" er klar til at blive tilpasset
 copied-profile-page-header-description = Vi har kopieret dine data og indstillinger til en ny profil. Giv profilen et navn, vælg et udseende, og gør den til din egen.
+restored-profile-page-header = Tilpas din gendannede profil
+restored-profile-page-header-description = Hver profil har sin egen browserhistorik og sine egne indstillinger, som er adskilt fra dine andre profiler. Desuden er { -brand-short-name }' stærke beskyttelse af dit privatliv aktiveret som standard.
 restored-profile-page-learn-more = Læs mere
 profile-window-title-2 = { -brand-short-name } - Vælg en profil
 profile-window-logo =

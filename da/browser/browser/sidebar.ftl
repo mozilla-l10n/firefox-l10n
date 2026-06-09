@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = AI-Chatbot
 menu-view-contextual-password-manager =
     .label = Adgangskoder
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Åbne faneblade
 sidebar-options-menu-button =
     .title = Åbn menu
 
@@ -58,6 +63,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Håndter { -brand-short-name }- indstillinger
 sidebar-vertical-tabs =
     .label = Lodrette faneblade
+sidebar-settings2 =
+    .label = Indstillinger
 sidebar-settings =
     .label = Sidepanels-indstillinger
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +77,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Udvid sidepanel, når markøren holdes over
+sidebar-manage-extensions2 = Håndter alle udvidelser
 sidebar-manage-extensions = Håndter udvidelser
+sidebar-customize-extensions-header2 = Udvidelser
+sidebar-customize-firefox-tools-header2 =
+    .label = Funktioner
 
 ## Labels for sidebar context menu items
 
@@ -135,6 +146,11 @@ sidebar-menu-history-label =
     .label = Historik
 sidebar-menu-synced-tabs-label =
     .label = Faneblade fra andre enheder
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Åbne faneblade
 sidebar-menu-bookmarks-label =
     .label = Bogmærker
 sidebar-menu-customize-label =
@@ -181,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Faneblade fra andre enheder
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Åbne faneblade
 sidebar-menu-cpm-header =
     .heading = Adgangskoder
 sidebar-menu-bookmarks-header =
@@ -200,6 +220,9 @@ sidebar-bookmarks-folder-mobile = Mobil-bogmærker
 sidebar-customize-title = Tilpas sidepanel
 sidebar-history-title = Historik
 sidebar-syncedtabs-title = Faneblade fra andre enheder
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Åbne faneblade
 
 ## Context for closing synced tabs when hovering over the items
 

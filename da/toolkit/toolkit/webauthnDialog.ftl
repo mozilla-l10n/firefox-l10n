@@ -68,3 +68,5 @@ webauthn-allow = Tillad
     .accesskey = T
 webauthn-block = Bloker
     .accesskey = B
+webauthn-continue = Fortsæt
+    .accesskey = F

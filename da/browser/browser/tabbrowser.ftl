@@ -316,6 +316,14 @@ tab-group-editor-action-new-tab =
     .label = Nyt faneblad i gruppe
 tab-group-editor-action-new-window =
     .label = Flyt gruppe til et nyt vindue
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopier link i gruppe
+           *[other] Kopier { $linkCount } links i gruppe
+        }
 tab-group-editor-action-save =
     .label = Gem og luk gruppen
 tab-group-editor-action-ungroup =
@@ -350,6 +358,12 @@ tab-group-overflow-count-tooltip =
         [one] { $tabCount } faneblad til
        *[other] { $tabCount } faneblade til
     }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-button = Opret en fanebladsgruppe
 
 ## Open/saved tab group context menu
 
