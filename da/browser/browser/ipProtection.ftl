@@ -27,11 +27,16 @@ ipprotection-feature-introduction-title = Vi introducerer VPN, direkte i din bro
 ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Tilføj yderligere et lag af sikkerhed
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem flere placeringer for at beskytte dit privatliv, når du browser.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
+ipprotection-feature-introduction-description-private-browsing = Brug nettet med yderligere beskyttelse ved at skjule din placering, selv når du er i et privat vindue.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Bruger du et offentligt wi-fi? Prøv den indbyggede VPN i { -brand-product-name }.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem fem placeringer, der skjuler hvor du befinder dig.
+ipprotection-feature-introduction-description-captive-portal = Brug nettet med yderligere beskyttelse ved at skjule din placering, selv når du er på et offentligt wi-fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem flere placeringer, der skjuler hvor du befinder dig.
 ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -57,6 +62,7 @@ ipprotection-site-settings-callout-button = Forstået
 
 ipprotection-location-selection-callout-title = Nyhed: Skift din placering
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> lader dig vælge mellem fem forskellige placeringer - eller lad os vælge den hurtigste for dig.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> lader dig vælge mellem flere forskellige placeringer - eller lad os vælge den hurtigste for dig.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Afvis
 
@@ -70,7 +76,9 @@ unauthenticated-choose-location-message = Vælg mellem fem placeringer eller lad
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data hver måned.
+unauthenticated-choose-location-message-1 = Vælg mellem flere placeringer eller lad { -brand-product-name } vælge den hurtigste.
 unauthenticated-get-started = Kom i gang
+unauthenticated-terms-of-service-privacy-notice = Ved at fortsætte accepterer du vores <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">privatlivserklæring</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Brug VPN for dette websted
     .aria-label = VPN er slået til for dette websted
@@ -119,12 +127,25 @@ ipprotection-locations-subview =
     .title = Vælg placering
 ipprotection-locations-subview-description = Vælg en anden placering at browse fra.
 ipprotecion-locations-subview-recommended-label = Anbefalet
+ipprotection-locations-subview-recommended-description = Finder den hurtigste placering
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Ikke tilgængelig
+ipprotection-locations-subview-promo =
+    .heading = Få endnu bedre beskyttelse med { -mozilla-vpn-brand-name }
+    .message = Vælg mellem mere end 300 placeringer og beskyt alle dine apps på op til fem enheder.
+ipprotection-locations-subview-promo-button = Få { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
 upgrade-vpn-title = Få ekstra beskyttelse udover i browseren
 upgrade-vpn-description = Vælg din VPN-placering, brug VPN for alle dine apps og på op til fem enheder, og vær sikker på ethvert netværk - derhjemme som på offentlige wi-fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN er sat på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
+ipprotection-connection-status-paused-title-2 = VPN sat på pause
+    .aria-label = VPN sat på pause
 
 ## Messages and errors
 
@@ -180,12 +201,25 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du løber snart 
 ip-protection-description =
     .label = VPN
     .description = Indbygget VPN til bedre beskyttelse af dit privatliv på internettet, når du bruger { -brand-short-name }.
+ip-protection-description-1 =
+    .label = Indbygget VPN
+    .description = Få et bedre beskyttet privatliv ved at skjule din placering, når du bruger nettet.
 ip-protection-learn-more = Læs mere
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Prøv den indbyggede VPN i { -brand-short-name }
     .message = Skjul din placering, når du er på nettet med { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Prøv den indbyggede VPN i { -brand-short-name }
+    .message = Brug nettet med yderligere beskyttelse ved at skjule din placering. Få { $maxUsage } GB gratis VPN-data hver måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Prøv den indbyggede VPN i { -brand-short-name }
+    .message = Brug nettet med yderligere beskyttelse ved at skjule din placering.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -205,6 +239,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Få endnu mere beskyttelse udenfor { -brand-short-name } med { -mozilla-vpn-brand-name }
     .description = Vælg tilpassede VPN-placeringer og føj beskyttelse til for alle dine apps på op til fem enheder, uanset om du er derhjemme eller på et offentligt wi-fi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Få endnu bedre beskyttelse med { -mozilla-vpn-brand-name }
+    .description = Vælg mellem mere end 300 placeringer og beskyt alle dine apps på op til fem enheder.
 
 ## IP Protection dialogs
 
@@ -257,6 +294,11 @@ vpn-paused-alert-title = VPN sat på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
+vpn-error-page-continue-description = Vælg, hvordan du vil fortsætte uden VPN
+vpn-error-page-keep-browsing = Fortsæt med at browse i denne session
 vpn-error-page-new-session = Start en ny session
 vpn-paused-alert-close-tabs-button = Luk alle faneblade
 vpn-paused-alert-continue-wo-vpn-button = Fortsæt uden VPN
