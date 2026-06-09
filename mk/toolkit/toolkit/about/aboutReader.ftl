@@ -47,3 +47,20 @@ about-reader-toolbar-contentwidthminus =
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = Serif
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground2 =
+    .label = Текст
+    .title = Промени боја
+about-reader-custom-colors-background2 =
+    .label = Позадина
+    .title = Промени боја
+
+## Reader View text and layout menu
+
+about-reader-text-header = Текст
+about-reader-text-size-label = Големина на текст
+about-reader-font-type-selector-label = Фонт

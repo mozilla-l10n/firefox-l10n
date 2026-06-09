@@ -1769,6 +1769,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+preferences-passwords-autofill-header =
+    .heading = Passwords e compilazion automatiche
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1801,6 +1803,8 @@ history-remember-option-all =
 history-remember-option-never2 =
     .label = No sta memorizâ mai la cronologjie
     .description = Ogni barcon si compuarte come un barcon privât. Se atîf, tu scugnis autorizâ lis estensions.
+history-remember-option-custom2 =
+    .label = Personalize la cronologjie
 history-remember-option-never =
     .label = No si visarà mai la cronologjie
 history-remember-option-custom =
@@ -1834,8 +1838,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Nete la cronologjie…
     .accesskey = s
+history-header2 =
+    .heading = Cronologjie
+history-section-header =
+    .label = Cronologjie
+    .description = Sielç ce che { -brand-short-name } al à di visâsi cuant che tu sieris il navigadôr.
+history-custom-section-header =
+    .label = Impostazions avanzadis
+    .description = Personalize ce che { -brand-short-name } al à di visâsi cuant che tu sieris il navigadôr.
+history-custom-button =
+    .label = Sielç ce che { -brand-short-name } al à di visâsi
 history-group =
     .label = Cronologjie
+history-remember-option-all2 =
+    .label = Salve la cronologjie
 
 ## Privacy Section - Site Data
 
@@ -1844,13 +1860,23 @@ sitedata-total-size-calculating = Daûr a calcolâ la dimension dai dâts dai s�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = I sîts web a stan doprant <strong>{ $value } { $unit }</strong> di spazi sul disc.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I tiei cookies, i dâts dai sîts e la cache memorizâts a stan doprant{ $value } { $unit } di spazi su disc.
 sitedata-learn-more = Plui informazions
+sitedata-delete-on-close2 =
+    .label = Nete vie i cookies e i dâts dai sîts web ogni volte che tu sieris { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Elimine i cookies e i dâts dai sîts cuant che al ven sierât { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = In base aes impostazions de cronologjie, i cookies e i dâts dai sîts de tô session a vignaran eliminâts cuant che tu sierarâs { -brand-short-name }.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = La cronologjie no vignarà salvade.
+    .message = { -brand-short-name } al nete vie i cookies e i dâts dai sîts pe tô session cuant che tu sieris il navigadôr.
 sitedata-delete-on-close-private-browsing = in modalitât navigazion privade permanente, i cookies e i dâts dai sîts a vignaran simpri netâts cuant che si sierarà { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = In base aes impostazions de cronologjie, i cookies e i dâts dai sîts de tô session a vignaran eliminâts cuant che tu sierarâs { -brand-short-name }.
 sitedata-allow-cookies-option =
@@ -1896,6 +1922,12 @@ sitedata-cookies-exceptions2 =
     .label = Gjestìs ecezions
     .accesskey = c
     .description = Tu puedis specificâ i sîts web che ur ven simpri o mai concedude la utilizazion di cookies e dâts dai sîts.
+sitedata-heading =
+    .label = Dâts di navigazion
+    .description = Gjestìs cookies, cronologje, cache, dâts sît web e tant altri.
+sitedata-settings3 =
+    .label = Nete vie i dâts par specifics sîts
+    .accesskey = s
 cookies-site-data-group =
     .label = Cookies e dâts dai sîts
 
