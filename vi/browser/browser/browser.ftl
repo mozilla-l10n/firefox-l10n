@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Quản lý dấu trang
 quickactions-cmd-bookmarks = quản lý dấu trang, quan ly dau trang, quản lí dấu trang, quan li dau trang, dấu trang, dau trang, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Xoá lịch sử gần đây
+quickactions-cmd-clearrecenthistory2 = cookie, xoá cookie, xóa cookie, cache, xoá bộ nhớ đệm, xóa bộ nhớ đệm, xoa bo nho dem, dữ liệu duyệt web, du lieu duyet web, xoá dữ liệu duyệt web, xóa dữ liệu duyệt web, xoa du lieu duyet web, lịch sử, lich su, xoá lịch sử gần đây, xóa lịch sử gần đây, xoa lich su gan day
 quickactions-cmd-clearrecenthistory = xoá lịch sử gần đây, xóa lịch sử gần đây, xoa lich su gan day, lich su
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Xóa lịch sử

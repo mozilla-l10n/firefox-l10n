@@ -162,6 +162,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Tiếp theo
 link-preview-onboarding-callout-title = Mới: Nhấp và giữ để xem trước liên kết
 link-preview-onboarding-callout-description = Xem mô tả ngắn, thời gian đọc và nhiều thông tin khác để quyết định xem liên kết có đáng để mở hay không. Bạn cũng có thể nhấp chuột phải để xem.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Giảm lộn xộn bằng cách sử dụng nhóm thẻ.
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Nhóm các thẻ theo nhiệm vụ hoặc chủ đề. Kéo thêm thẻ khi cần.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Bắt đầu tạo một nhóm
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề

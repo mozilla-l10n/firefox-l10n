@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Lịch
+datetime-time =
+    .aria-label = Thời gian

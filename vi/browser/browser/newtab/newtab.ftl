@@ -1045,6 +1045,28 @@ newtab-sports-widget-match-full-time = Hết giờ
 newtab-sports-widget-match-halftime = Nghỉ giữa hiệp
 newtab-sports-widget-match-extra-time = Hiệp phụ
 newtab-sports-widget-match-penalties = Luân lưu
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = vs
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Đón chờ thông tin chi tiết về trận đấu sắp tới
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Trước
+    .title = Trước
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Tiếp
+    .title = Tiếp
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Trận đấu trực tiếp { $index } của { $total }
+    .title = Trận đấu trực tiếp { $index } của { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1105,6 +1127,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Anh
 newtab-sports-widget-team-name-label-sco =
     .label = Scotland
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Sẽ được xác định sau
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.

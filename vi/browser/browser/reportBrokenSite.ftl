@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Báo cáo trang web bị hỏng
 report-broken-site-panel-intro-text = Báo cáo của bạn giúp chúng tôi hiểu và khắc phục các sự cố trong { -brand-product-name } để cải thiện dịch vụ cho mọi người.
 report-broken-site-panel-learn-more-link = Tìm hiểu thêm
+report-broken-site-panel-url-label = URL của trang bị hỏng
 report-broken-site-panel-reason-intro-text = Điều gì hoạt động không đúng?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Trang không tải được
