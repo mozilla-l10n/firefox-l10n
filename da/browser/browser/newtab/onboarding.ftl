@@ -63,6 +63,15 @@ mr1-onboarding-theme-label-dark = Mørkt
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Færdig
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Sæt animation på pause
+onboarding-animation-play-button =
+    .aria-label = Afspil animation
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -544,6 +553,7 @@ restore-from-backup-secondary-top-button = Gendan fra sikkerhedskopi
 restore-from-backup-title = Lad os få { -brand-short-name } til at se ud, som den plejer
 restore-from-backup-subtitle = Gendan din historik, dine bogmærker og andre data for at fortsætte, hvor du slap.
 restore-from-backup-secondary-button = Gendan ikke
+multiple-backups-info-tile = <strong>Flere sikkerhedskopier fundet.</strong> Den nyeste fil en valgt. Gendan andre profiler i <a data-l10n-name="settings-label">Indstillinger.</a>
 
 ## Restored from Backup spotlight
 

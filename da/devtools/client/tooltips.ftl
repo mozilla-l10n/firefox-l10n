@@ -90,6 +90,7 @@ inactive-css-not-multicol-container-fix = Prøv at tilføje enten <strong>column
 inactive-css-column-span-fix = Prøv at tilføje <strong>column-count</strong> eller <strong>column-width</strong> til et af dets overordnede elementer. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Prøv at filføje <strong>position:absolute</strong> til elementet, eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder. { learn-more }
 inactive-css-not-grid-or-absolutely-positioned-item-fix = Prøv at tilføje <strong>position:absolute</strong> til elementet eller<strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.  { learn-more }
+inactive-css-not-absolutely-positioned-item-fix = Prøv at tilføje <strong>position:absolute</strong> til elementet. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder. { learn-more }
 inactive-css-not-grid-item-fix-2 = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder. { learn-more }
 inactive-css-not-grid-container-fix = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong>. { learn-more }

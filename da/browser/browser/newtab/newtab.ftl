@@ -1013,6 +1013,7 @@ newtab-sports-widget-world-cup-champions = VM-mestre i 2026
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Færdigspillet
 newtab-sports-widget-match-halftime = Halvleg
+newtab-sports-widget-match-extra-time = Forlænget spilletid
 newtab-sports-widget-match-penalties = Straffe
 
 ## Accessible labels for match rows in the sports widget. These are read by
@@ -1050,6 +1051,40 @@ newtab-sports-widget-match-aria-label-upcoming =
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } mod { $awayTeam }, forsinket
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } mod { $awayTeam }, udsat
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } mod { $awayTeam }, suspenderet
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } mod { $awayTeam }, aflyst
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosnien-Hercegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Elfenbenskysten
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = England
+newtab-sports-widget-team-name-label-sco =
+    .label = Skotland
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-title = Start VM med nye baggrunde
+newtab-sports-widget-message-wallpapers-cta = Vælg baggrund
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Tilføj widgets
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Udforsk widgets
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1099,6 +1134,13 @@ newtab-clock-widget-button-save = Gem
 newtab-clock-widget-button-remove-clock =
     .title = Fjern ur
     .aria-label = Fjern ur
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
 newtab-clock-widget-add-clock-form =
     .aria-label = Tilføj ur
 newtab-clock-widget-edit-clock-form =

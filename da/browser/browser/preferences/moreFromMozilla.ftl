@@ -54,17 +54,37 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Gratis mail, kalender og kontakter – organiseret på din måde.
+more-from-moz-thunderbird-button = Få { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-description = Opdag de nyeste produkter fra { -vendor-short-name }.
+more-from-moz-new-products-button = Se nye produkter
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Beskyt din indbakke mod spam med gratis mail-maskering.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Lær webudvikling med gratis guider og dokumentation.
+more-from-moz-solo-card-1 =
+    .label = { -solo-ai-brand-name }
+    .description = Opret din hjemmeside på et øjeblik og opret gratis forbindelse til dit eget domæne.
 more-from-moz-mozilla-monitor-box-link =
     .label = Få { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
     .label = Få { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Få { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Få adgang til MDN
 more-from-moz-thunderbird-box-link =
     .label = Få { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
     .label = Prøv { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Se nye produkter

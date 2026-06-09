@@ -71,8 +71,16 @@ category-sync3 =
 pane-ai-controls-title = AI-indstillinger
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Om { -brand-short-name }
+    .title = { pane-about-firefox-title }
+pane-appearance-title = Udseende
+    .title = { pane-appearance-title }
+pane-downloads-title2 = Filhentninger
+    .title = Filhentninger
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
+pane-accessibility-title = Tilgængelighed
+    .title = { pane-accessibility-title }
 pane-languages-title2 = Sprog
     .title = Sprog
 preferences-languages-header2 =
@@ -223,6 +231,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Vælg profil
 preferences-copy-profile-button = Kopier
+tabs-browsing-section =
+    .heading = Faneblade og browsing
+pane-tabs-browsing-title2 = Faneblade og browsing
+    .title = Faneblade og browsing
 tabs-group-header2 =
     .label = Faneblade
 tabs-opening-heading =
@@ -473,6 +485,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
 confirm-browser-language-change-button = Genstart
+browser-language-preferred-label =
+    .label = Foretrukket sprog
 browser-language-install-error =
     .message = { -brand-short-name } kan ikke opdatere dine sprog lige nu. Kontrollér din internetforbindelse eller prøv igen.
 translate-web-pages =
@@ -596,6 +610,9 @@ applications-setting =
     .description = Vælg, hvordan { -brand-short-name } håndterer hentede filer og eksterne programmer.
 applications-header = Programmer
 applications-description = Vælg, hvordan { -brand-short-name } håndterer hentede filer og eksterne programmer.
+applications-setting2 =
+    .label = Filer og programmer
+    .description = Vælg hvordan { -brand-short-name } håndterer hentede filer og indhold.
 applications-filter =
     .placeholder = Søg efter filtyper eller programmer
 applications-type-column =
@@ -693,6 +710,8 @@ update-application-version = Version { $version }. <a data-l10n-name="learn-more
 update-history-2 =
     .label = Vis opdateringshistorik
     .accesskey = V
+update-application-installation =
+    .label = Installation
 update-history =
     .label = Vis opdateringshistorik…
     .accesskey = V
@@ -741,6 +760,9 @@ about-firefox-header =
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name }-opdateringer
+    .description = Opdateringer forbedrer { -brand-short-name }' hastighed, stabilitet og sikkerhed.
 update-application-suppress-prompts-heading =
     .label = Meddelelser
 
@@ -1776,6 +1798,9 @@ sitedata-cookies-exceptions2 =
     .label = Håndter undtagelser
     .accesskey = u
     .description = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data.
+sitedata-heading =
+    .label = Browserdata
+    .description = Håndter din cookies, historik, cache, webstedsdata med mere.
 cookies-site-data-group =
     .label = Cookies og websteds-data
 
