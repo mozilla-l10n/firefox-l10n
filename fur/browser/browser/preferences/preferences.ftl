@@ -2246,6 +2246,10 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permès
     .description = Gjestìs ce che i sîts web a puedin doprâ ,controlâ o ativâ.
+permissions-data-section =
+    .heading = Permès e dâts
+pane-permissions-data-title2 = Permès e dâts
+    .title = Permès e dâts
 
 ## Privacy Section - Data Collection
 
@@ -2300,6 +2304,8 @@ collection-backlogged-crash-reports-description = Chest al jude { -vendor-short-
 settings-redesign-promo =
     .heading = Stessis impostazions, gnûf aspiet!
     .message = O vin metût sù une pagjine plui facile di viodi e di esplorâ. Lis tôs impostazions personâls no son cambiadis  e dut al è restât al so puest. Sugjeriment: dopre la funzion di ricercje par cjatâ daurman ce che ti covente.
+settings-redesign-promo-dismiss-button =
+    .label = Capît
 addon-recommendations =
     .label = Permet a { -brand-short-name } di rindi personalizâts i conseis di estensions
 addon-recommendations-link = Plui informazions
@@ -2338,6 +2344,10 @@ data-collection-run-studies =
     .description = { -brand-short-name } al sielç a câs i utents par provâ lis funzionalitâts, cussì di rivâ a miorâ la cualitât par ducj.
 data-collection-studies-link =
     .label = Visualize i studis di { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .label = Mande in automatic i segnalazions di colàs
+    .description = Chest al jude { -vendor-short-name } a diagnosticâ e risolvi problemis cul navigadôr. Lis segnalazions a puedin contignî dâts personâi o sensibii.
+    .accesskey = c
 data-collection-usage-ping =
     .label = Mande ping di utilizazion zornaliere a { -vendor-short-name }
     .description = Chest al permet a { -vendor-short-name } di stimâ il numar di utents atîfs.
@@ -2357,11 +2367,16 @@ website-advertising-private-attribution-description = Chest al permet ai sîts d
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurece
+browsing-protection-group2 =
+    .label = Protezion dai contignûts ingjanôs e dal software pericolôs.
+    .description = I sîts e i files discjariâts pericolôs a puedin meti in pericul i tiei dâts e il tô dispositîf. { -brand-short-name } ju bloche in automatic e ti vise in câs di software pericolôs o malvolût.
 security-browsing-protection = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-enable-safe-browsing =
     .label = Bloche i contignûts pericolôs e ingjanôs
     .accesskey = B
 security-enable-safe-browsing-link = Plui informazions
+security-safe-browsing-warning =
+    .message = Se tu disativis cheste funzion, tu ridusis il nivel di protezion cuintri fraudis, sîts danôs e files discjariâts pericolôs.
 security-block-downloads =
     .label = Bloche i discjariaments pericolôs
     .accesskey = d
@@ -2390,6 +2405,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = I
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Tu puedis netâ i dâts archiviâts in Impostazions > Riservatece e sigurece > Cookies e dâts di sîts.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Visite “Plui informazions” par otimizâ la utilizazion dal to disc cussì di vê une esperience di navigazion miorade.
+certs-description3 =
+    .label = Certificâts
+    .description = Al configure i certificâts che { -brand-short-name } al dopre par verificâ lis conessions siguris.
+certs-view2 =
+    .label = Gjestìs certificâts
+    .accesskey = C
+certs-devices2 =
+    .label = Gjestìs i dispositîfs di sigurece
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2480,6 +2504,8 @@ choose-download-folder-title = Sielç une cartele pai files discjamâts:
 
 ## AI controls page
 
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
