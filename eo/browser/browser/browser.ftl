@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Viŝi ĵusan historio
+quickactions-cmd-clearrecenthistory2 = kuketoj, viŝi kuketojn, staplon, viŝi staplon, retumaj datumoj, viŝi retumajn datumojn, historio, viŝi ĵusan historion
 quickactions-cmd-clearrecenthistory = viŝi ĵusan historion, historio
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
@@ -414,6 +415,8 @@ quickactions-cmd-help = helpo, subteno
 # Opens the devtools web inspector
 quickactions-inspector2 = Malfermi la ilojn por programistoj
 quickactions-cmd-inspector2 = inspektilo, iloj por programistoj
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Elekti koloron
 # Opens Firefox Library
 quickactions-cmd-library = biblioteko
 quickactions-library = Malfermi bibliotekon
