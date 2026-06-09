@@ -1056,6 +1056,9 @@ newtab-sports-widget-match-full-time = Wedstriid ôfrûn
 newtab-sports-widget-match-halftime = Skoft
 newtab-sports-widget-match-extra-time = Ferlinging
 newtab-sports-widget-match-penalties = Strafskoppen
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = tsjin
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 

@@ -1056,6 +1056,9 @@ newtab-sports-widget-match-full-time = Wedstrijd afgelopen
 newtab-sports-widget-match-halftime = Rust
 newtab-sports-widget-match-extra-time = Verlenging
 newtab-sports-widget-match-penalties = Strafschoppen
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = vs
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
