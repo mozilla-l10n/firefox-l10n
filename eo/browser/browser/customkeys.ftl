@@ -48,6 +48,9 @@ customkeys-nav-select-tab-6 = Iri al la langeto 6
 customkeys-nav-select-tab-7 = Iri al la langeto 7
 customkeys-nav-select-tab-8 = Iri al la langeto 8
 customkeys-nav-select-last-tab = Iri al la lasta langeto
+customkeys-nav-toggle-mute = Silentigi/Malsilentigi
+customkeys-edit-find-previous = Serĉi antaŭan
+customkeys-tools-screenshot = Fari ekrankopion
 customkeys-caution-message = Tiu ĉi trajto estas eksperimenta kaj ĝi povus ne funkcii kiel oni atendas.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevalida
