@@ -1057,6 +1057,11 @@ newtab-sports-widget-match-full-time = Полное время
 newtab-sports-widget-match-halftime = Перерыв
 newtab-sports-widget-match-extra-time = Дополнительное время
 newtab-sports-widget-match-penalties = Пенальти
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = против
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Следите за подробностями предстоящего матча
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1134,6 +1139,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Англия
 newtab-sports-widget-team-name-label-sco =
     .label = Шотландия
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = В ожидании
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
