@@ -823,6 +823,14 @@ newtab-widget-section-menu-manage = Administri komponantojn
 newtab-widget-section-menu-hide-all = Kaŝi komponantojn
 newtab-widget-section-menu-learn-more = Pli da informo
 newtab-widget-section-feedback = Rakontu al ni vian opinion
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Montri pli da komponantoj
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Montri malpli da komponantoj
 newtab-widget-lists-name-default = Listo de taskoj
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -859,6 +867,7 @@ newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita te
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Koncentriĝo, veterprognozoj kaj pli, en unu loko
+newtab-widget-message-focus-forecasts-body = Permesu al via tago flui per la komponantoj de { -brand-product-name }. Kontrolu la veterprognozon, koncentriĝu je taskoj aŭ sciu kioma horo estas en la cetero de la mondo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -917,6 +926,7 @@ newtab-widget-timer-celebration-message-break = Ĉu preta koncentriĝi?
 ##
 
 newtab-sports-widget-menu-follow-teams = Sekvi teamojn
+newtab-sports-widget-menu-view-schedule = Montri kalendaron
 newtab-sports-widget-menu-view-upcoming = Montri venontajn
 newtab-sports-widget-menu-view-results = Montri rezultojn
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -945,8 +955,36 @@ newtab-sports-widget-search-country =
     .placeholder = Serĉi landon
     .aria-label = Serĉi landon
 newtab-sports-widget-cancel = Nuligi
+newtab-sports-widget-back-button =
+    .aria-label = Malantaŭen
 newtab-sports-widget-done-button =
     .label = Farita
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (forigita)
+newtab-sports-widget-view-all =
+    .label = Montri ĉion
+newtab-sports-widget-show-less =
+    .label = Montri malpli
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Nur sekvataj teamoj
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Spekti
+    .title = Spekti rekte
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Spekti rekte
+    .title = Spekti rekte
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Fermi
+    .title = Fermi
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Senpage
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Senpaga provo
 newtab-sports-widget-group-stage = Grupa fazo
 newtab-sports-widget-group-a = Grupo A
 newtab-sports-widget-group-b = Grupo B
@@ -971,6 +1009,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Ĉefaj datoj
 newtab-sports-widget-upcoming = Venontaj
+# Used for a match currently ongoing
+newtab-sports-widget-now = Nun
 newtab-sports-widget-results = Rezultoj
 newtab-sports-widget-semi-finals = Duonfinaloj
 newtab-sports-widget-bronze-finals = BRONZA FINALO

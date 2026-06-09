@@ -62,6 +62,7 @@ ipprotection-site-settings-callout-button = Mi komprenis
 
 ipprotection-location-selection-callout-title = Nova: ŝanĝu vian pozicion
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La integrita VPN de { -brand-product-name }</a> permesas al vi elekti inter 5 retumaj lokoj, aŭ elekti la plej rapidan por vi.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN de { -brand-product-name }</a> permesas al vi elekti inter pluraj lokoj, aŭ lasi nin elekti la plej rapidan por vi.
 ipprotection-location-selection-callout-primary-button = Provi
 ipprotection-location-selection-callout-secondary-button = Ignori
 
@@ -75,6 +76,7 @@ unauthenticated-choose-location-message = Elektu inter 5 lokoj aŭ permesu al { 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
+unauthenticated-choose-location-message-1 = Elektu inter pluraj lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
 unauthenticated-get-started = Unuaj paŝoj
 unauthenticated-terms-of-service-privacy-notice = Se vi daŭrigas, vi akceptas la <a data-l10n-name="vpn-terms-of-service">kondiĉojn de uzo</a> kaj <a data-l10n-name="vpn-privacy-notice">rimarkon pri privateco</a>.
 site-exclusion-toggle-enabled-1 =
@@ -126,6 +128,8 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Elektu alian lokon, el kie retumi.
 ipprotecion-locations-subview-recommended-label = Rekomendita
 ipprotection-locations-subview-recommended-description = Tio ĉi trovas la plej rapidan lokon
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Nedisponebla
 ipprotection-locations-subview-promo =
     .heading = Protektu vin iom pli per { -mozilla-vpn-brand-name }
     .message = Elektu inter 300+ lokoj kaj protektu ĉiujn viajn apojn en maksimume 5 aparatoj.
@@ -211,6 +215,11 @@ ip-protection-not-opted-in-2 =
 ip-protection-not-opted-in-3 =
     .heading = Provu la integritan VPN de { -brand-short-name }
     .message = Retumu kun aldonaj protektoj per kaŝo de via pozicio. Ricevu ĉiumonate { $maxUsage } GB da senpagaj VPN datumoj.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Provu la integritan VPN de { -brand-short-name }
+    .message = Retumu ekstre protektita per kaŝo de via loko.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

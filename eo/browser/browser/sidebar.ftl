@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = A.I. dialoganto
 menu-view-contextual-password-manager =
     .label = Pasvortoj
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Malfermitaj langetoj
 sidebar-options-menu-button =
     .title = Malfermi menuon
 
@@ -141,6 +146,11 @@ sidebar-menu-history-label =
     .label = Historio
 sidebar-menu-synced-tabs-label =
     .label = Langetoj el aliaj aparatoj
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Malfermitaj langetoj
 sidebar-menu-bookmarks-label =
     .label = Legosignoj
 sidebar-menu-customize-label =
@@ -187,6 +197,10 @@ sidebar-menu-history-header =
     .heading = Historio
 sidebar-menu-syncedtabs-header =
     .heading = Langetoj el aliaj aparatoj
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Malfermitaj langetoj
 sidebar-menu-cpm-header =
     .heading = Pasvortoj
 sidebar-menu-bookmarks-header =
@@ -206,6 +220,13 @@ sidebar-bookmarks-folder-mobile = Poŝaparataj legosignoj
 sidebar-customize-title = Personecigi la flankan strion
 sidebar-history-title = Historio
 sidebar-syncedtabs-title = Langetoj el aliaj aparatoj
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Malfermitaj langetoj
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Alpinglitaj langetoj
 
 ## Context for closing synced tabs when hovering over the items
 
