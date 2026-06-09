@@ -734,6 +734,16 @@ update-in-progress-ok-button = &Annuller
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Om { -brand-short-name }
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Meddelelser
+
 ## Firefox support
 
 support-application-heading =
@@ -805,6 +815,8 @@ browsing-picture-in-picture-learn-more = Læs mere
 browsing-media-control =
     .label = Kontrollér medieindhold med tastatur, headset eller virtuelt interface
     .accesskey = v
+recommendations-group =
+    .label = Anbefalinger
 browsing-media-control-learn-more = Læs mere
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
@@ -831,6 +843,13 @@ network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
+network-proxy-group2 =
+    .label = Proxy-indstillinger
+    .description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
+network-proxy-connection-settings2 =
+    .label = Opsæt proxy
+    .description = Ændring af disse indstillinger kan forårsage forbindelsesproblemer
+    .accesskey = O
 
 ## Home Section
 
@@ -997,6 +1016,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Timer
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ur
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støt { -brand-product-name }
@@ -1098,10 +1123,14 @@ search-one-click-desc = Vælg de alternative søgetjenester, der vises under adr
 search-one-click-header-3 =
     .label = Flere søgetjenester
     .description = Vælg, hvilke søgetjenester og -genveje vises i dit adressefelt.
+update-search-engine-success =
+    .message = Søgetjenesten er blevet opdateret
 search-edit-engine-2 =
     .title = Rediger søgetjeneste
 search-delete-engine =
     .title = Slet søgetjeneste
+search-enable-engine =
+    .title = Aktiver søgetjeneste
 search-choose-engine-column =
     .label = Søgetjeneste
 search-choose-keyword-column =
@@ -1169,6 +1198,10 @@ sync-group-label =
     .label = Synkronisering
 account-group-label2 =
     .label = Konto
+account-sync-section =
+    .heading = Konto og synkronisering
+pane-account-sync-title2 = Konto og synkronisering
+    .title = Konto og synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1608,6 +1641,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Adgangskoder og autofyld
+    .title = Adgangskoder og autofyld
+preferences-passwords-autofill-header =
+    .heading = Adgangskoder og autofyld
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1686,6 +1723,9 @@ sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dine gemte cookies, websteds-data og cache bruger lige nu { $value } { $unit } diskplads.
 sitedata-learn-more = Læs mere
+sitedata-delete-on-close2 =
+    .label = Ryd cookies og websteds-data hver gang du lukker { -brand-short-name }
+    .accesskey = R
 sitedata-delete-on-close =
     .label = Slet cookies og websteds-data, når { -brand-short-name } lukkes
     .accesskey = l
@@ -2035,6 +2075,10 @@ permissions-speaker2 =
     .label = Højtaler
 permissions-notification2 =
     .label = Beskeder
+permissions-data-section =
+    .heading = Tilladelser og data
+pane-permissions-data-title2 = Tilladelser og data
+    .title = Tilladelser og data
 
 ## Privacy Section - Data Collection
 
@@ -2111,6 +2155,9 @@ data-collection-health-report =
     .label = Send tekniske data og data om brug til { -vendor-short-name }
     .accesskey = r
     .description = Dette hjælper os med at forbedre funktionerne i { -brand-product-name } samt ydelse og stabilitet.
+data-collection-run-studies =
+    .label = Tillad at { -brand-short-name } afvikler funktions-undersøgelser
+    .description = { -brand-short-name } vælger tilfældige brugere for at teste funktioner, hvilket hjælper med at forbedre kvaliteten for alle.
 data-collection-studies-link =
     .label = Vis { -brand-short-name }-undersøgelser
 data-collection-usage-ping =
@@ -2262,6 +2309,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Standard-beskyttelse
     .description = Brug sikker DNS i lande, hvor det er tilgængeligt.
+preferences-doh-overview-off =
+    .label = Fra
+    .description = Brug din standard DNS-resolver
 preferences-doh-advanced-button =
     .label = Avancerede indstillinger
 preferences-doh-manage-exceptions2 =
@@ -2275,16 +2325,41 @@ preferences-doh-radio-off =
     .description = Brug din standard DNS-resolver.
 preferences-doh-fallback-label =
     .label = Advar mig altid, hvis sikker DNS ikke er tilgængelig
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS via HTTPS bruger DNS-udbyderen { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS via HTTPS bruger den lokale udbyder { $name }
 preferences-doh-select-resolver-label =
     .label = Vælg udbyder:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Brug denne udbyder til DNS-opslag over HTTPS
 preferences-doh-header2 =
     .heading = DNS via HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Avancerede indstillinger
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
 choose-download-folder-title = Gem filer i
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Udseende
+related-settings-home-link =
+    .label = Tilpas { -firefox-home-brand-name }
 
 ## AI controls page
 
@@ -2350,6 +2425,15 @@ preferences-ai-controls-header2 =
 ## Privacy and security status card
 
 security-privacy-status-ok-label = Udvidet beskyttelse mod sporing er slået til
+security-privacy-status-problem-label = Vi fandt indstillinger, der påvirker din beskyttelse
+security-privacy-status-problem-helper-label = Vis problemer
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Du har <a data-l10n-name="strict-tracking-protection">striks beskyttelse</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Du har <a data-l10n-name="custom-tracking-protection">tilpasset beskyttelse</a>
+security-privacy-status-update-needed-label = En ny version af { -brand-short-name } er tilgængelig.
+security-privacy-status-update-error-label = { -brand-short-name } har problemer med at opdatere sig selv
+security-privacy-status-update-checking-label = { -brand-short-name } søger efter opdateringer
 security-privacy-status-update-button-label =
     .label = Opdater { -brand-short-name }
 security-privacy-issue-card =
@@ -2366,8 +2450,20 @@ preferences-etp-status-advanced-button =
     .label = Avancerede indstillinger
 preferences-etp-header =
     .heading = Udvidet beskyttelse mod sporing
+preferences-etp-customize-button =
+    .label = Tilpas beskyttelse mod sporing
+preferences-etp-reload-tabs-hint =
+    .message = Genindlæs dine faneblade for at anvende ændringerne.
 preferences-etp-reload-tabs-hint-button =
     .label = Genindlæs alle faneblade
+preferences-etp-rfp-warning-message =
+    .message = Du bruger Resist Fingerprinting (RFP), der erstatter nogle af indstillingerne for beskyttelse mod fingerprinting i { -brand-short-name }. Dette kan medføre, at nogen websteder ikke fungerer korrekt.
+preferences-etp-customize-header =
+    .heading = Tilpas beskyttelse mod sporing
+preferences-etp-reset-standard-button =
+    .label = Nulstil til standard
+preferences-etp-reset-strict-button =
+    .label = Nulstil til striks
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =

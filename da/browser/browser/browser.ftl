@@ -414,6 +414,9 @@ quickactions-cmd-help = hjælp, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Åbn udviklerværktøj
 quickactions-cmd-inspector2 = inspektør, udviklerværktøj, værktøj til udviklere
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Vælg en farve
+quickactions-cmd-colorpicker = farvevælger, pipette, vælg farve
 # Opens Firefox Library
 quickactions-cmd-library = arkiv
 quickactions-library = Åbn arkiv
@@ -1296,6 +1299,8 @@ panel-save-update-password = Adgangskode
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mere…
+menu-share-windows =
+    .label = Flere indstillinger
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

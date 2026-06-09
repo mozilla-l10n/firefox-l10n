@@ -408,6 +408,14 @@ windows-10-eos-feature-toast-subtitle = Efter mange opfordringer inkluderer { -b
 windows-10-eos-feature-toast-whats-new-button = Se nyhederne
 windows-10-eos-feature-toast-dismiss-button = Afvis
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft understøtter ikke længere Windows 10.</strong> Sikkerhedskopier dine oplysninger for at gøre { -brand-product-name } klar til Windows 11.
+windows-10-eos-global-infobar-primary-button = Slå sikkerhedskopiering til
+    .accesskey = S
+windows-10-eos-global-infobar-learn-more-link = Lær mere
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -436,3 +444,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Brug som standard
 set-default-menu-message-primary-button-variant = Angiv som foretrukken browser
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 mail-masker, gratis
+relay-50-masks-announcement-subtitle = Nu får du 50 gratis masker (op fra fem). Brug en til hver konto for at holde din rigtige mailadresse privat.
+relay-50-masks-announcement-primary-button = Gå til { -relay-brand-name }
+    .accesskey = G
+relay-50-masks-announcement-secondary-button = Afvis
+    .accesskey = A

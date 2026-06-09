@@ -150,6 +150,9 @@ newtab-menu-report = Rapporter
 newtab-menu-section-block = Bloker
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Stop med at følge
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Stop med at følge emne
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -365,6 +368,10 @@ newtab-custom-widget-lists-toggle =
     .label = Lister
 newtab-custom-widget-timer-toggle =
     .label = Timer
+newtab-custom-widget-sports-toggle =
+    .label = VM
+newtab-custom-widget-clock-toggle =
+    .label = Ur
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -757,22 +764,38 @@ newtab-widget-lists-input-menu-move-up = Flyt op
 newtab-widget-lists-input-menu-move-down = Flyt ned
 newtab-widget-lists-input-menu-delete = Slet
 newtab-widget-lists-input-menu-edit = Rediger
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Rediger element
+newtab-widget-lists-edit-clear =
+    .aria-label = Annuller
+    .title = Annuller
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Opret en ny liste
 newtab-widget-lists-name-label-default =
     .label = Opgaveliste
+newtab-widget-lists-name-label-checklist =
+    .label = Tjekliste
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Opgaveliste
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Tjekliste
+    .aria-label = Rediger listens navn
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Ny liste
     .aria-label = Rediger listens navn
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Tjekliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Skjul widgets
+newtab-widget-menu-change-size = Skift størrelse
+newtab-widget-size-small = Lille
+newtab-widget-size-medium = Mellem
+newtab-widget-size-large = Stor
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Skjul widgets
@@ -783,10 +806,14 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimer widgets
     .aria-label = Sammenfold alle widgets til kompakt størrelse
+newtab-widget-section-menu-button =
+    .title = Widgets-menu
+    .aria-label = Åbn widgets-menu
 newtab-widget-section-menu-manage = Håndter widgets
 newtab-widget-section-menu-hide-all = Skjul widgets
 newtab-widget-section-menu-learn-more = Læs mere
 newtab-widget-section-feedback = Fortæl os, hvad du synes
+newtab-widget-lists-name-default = Tjekliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -816,6 +843,8 @@ newtab-daily-briefing-card-timestamp = Opdateret for { $minutes } m. siden
 newtab-widget-message-title = Hold fokus med lister og den indbyggede timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fra hurtige påmindelser til daglige opgaver — funktionen Fokus hjælper dig med at have styr på tingene og din tid.
+newtab-promo-card-body-addons = Vælg en baggrund fra vores samling, eller lav din egen.
+newtab-promo-card-cta-addons = Prøv det nu
 newtab-promo-card-title = Støt { -brand-product-name }
 newtab-promo-card-body = Vores sponsorer støtter vores mission om at bygge et bedre internet
 newtab-promo-card-cta = Lær mere
@@ -831,13 +860,83 @@ newtab-widget-timer-menu-hide = Skjul timer
 
 ##
 
+newtab-sports-widget-menu-view-schedule = Se tidsplan
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Vigtige datoer
 newtab-sports-widget-menu-learn-more = Læs mere
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Hold øje med VM
+newtab-sports-widget-view-schedule =
+    .label = Se tidsplan
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Følg op til { $number } hold
+       *[other] Følg op til { $number } hold
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Vælg en baggrund
 newtab-sports-widget-skip = Spring over
+newtab-sports-widget-search-country =
+    .placeholder = Søg efter land
+    .aria-label = Søg efter land
 newtab-sports-widget-cancel = Annuller
+newtab-sports-widget-back-button =
+    .aria-label = Tilbage
 newtab-sports-widget-done-button =
     .label = Færdig
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (elimineret)
+newtab-sports-widget-view-all =
+    .label = Vis alle
+newtab-sports-widget-show-less =
+    .label = Vis mindre
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Kun hold, der følges
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Se
+    .title = Se live
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Se live
+    .title = Se live
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Luk
+    .title = Luk
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratis
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Gratis prøveperiode
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratis og betalt
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Betalt
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Kun udvalgte kampe
+newtab-sports-widget-group-a = Gruppe A
+newtab-sports-widget-group-b = Gruppe B
+newtab-sports-widget-group-c = Gruppe C
+newtab-sports-widget-group-d = Gruppe D
+newtab-sports-widget-group-e = Gruppe E
+newtab-sports-widget-group-f = Gruppe F
+newtab-sports-widget-group-g = Gruppe G
+newtab-sports-widget-group-h = Gruppe H
+newtab-sports-widget-group-i = Gruppe I
+newtab-sports-widget-group-j = Gruppe J
+newtab-sports-widget-group-k = Gruppe K
+newtab-sports-widget-group-l = Gruppe L
+newtab-sports-widget-round-32 = Sekstendedelsfinaler
+newtab-sports-widget-round-16 = Ottendedelsfinaler
+newtab-sports-widget-quarter-finals = Kvartfinaler
+# Used for a match currently ongoing
+newtab-sports-widget-now = Nu
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finale
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
@@ -845,6 +944,17 @@ newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "n
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-delayed = Forsinket
+newtab-sports-widget-postponed = Udsat
+newtab-sports-widget-suspended = Suspenderet
+newtab-sports-widget-cancelled = Aflyst
+newtab-sports-widget-information = Information om kampen
+newtab-sports-widget-view-results-link = Vis resultater
+newtab-sports-widget-third-place = Tredjeplads
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Andenplads
+newtab-sports-widget-champions = Mestre
+newtab-sports-widget-world-cup-champions = VM-mestre i 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -869,7 +979,12 @@ newtab-activation-window-message-values-focus-header = Denne plads følger dine 
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Skjul ur
 newtab-clock-widget-menu-learn-more = Læs mere
+newtab-clock-widget-menu-edit = Rediger ure
+newtab-clock-widget-menu-switch-to-12h = Skift til 12-timers format
+newtab-clock-widget-menu-switch-to-24h = Skift til 24-timers format
 newtab-clock-widget-button-add-clock = Tilføj
 newtab-clock-widget-button-cancel = Annuller
 newtab-clock-widget-button-back =

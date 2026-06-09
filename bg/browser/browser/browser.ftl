@@ -832,6 +832,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсорирано
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Попитайте
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1522,6 +1524,13 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Не е защитено
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

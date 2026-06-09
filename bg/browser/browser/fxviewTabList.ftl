@@ -70,3 +70,4 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Заглушаване на раздела
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Включване звука на раздела
+fxviewtabrow-send-to-mobile-connect-phone2 = Свържете телефона си
