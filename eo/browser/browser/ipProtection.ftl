@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en privata fenestro.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -34,6 +35,8 @@ ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Ricevu <a data-l10n-name="learn-more-vpn">ekstan privatecon</a> per elekto de 5 lokoj por kaŝi el kie vi retumas.
 ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en publika Wi-Fi.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
 ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =

@@ -173,6 +173,12 @@ link-preview-onboarding-callout-description = Vidu mallongan priskribon, taksita
 # adapt to a phrase that conveys the idea of cleaning up or organizing a busy
 # tab strip in a way that sounds natural in your language.
 tab-groups-2026-onboarding-callout-title = Organizu aferojn per grupoj de langetoj
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Grupigu viajn langetojn laŭ taskoj aŭ temoj. Aldonu aliajn dum vi retumas.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Komenci grupon
 
 ## Sidebar Strings
 

@@ -303,6 +303,14 @@ main-context-menu-send-to-mobile-sign-in = Komencu seancon por sendi langetojn
 main-context-menu-send-to-mobile-enable-sync2 = Permesi al spegulado sendi langeton
 main-context-menu-send-to-mobile-connect-phone2 = Konektu vian telefonon
 main-context-menu-send-to-mobile-device-missing2 = Ĉu vi ne vidas vian aparaton?
+main-context-menu-send-to-mobile-sign-in-from-link = Komencu seancon por sendi ligilon
+main-context-menu-send-to-mobile-sign-in-from-page = Komencu seancon por sendi paĝon
+main-context-menu-send-to-mobile-enable-sync3 = Ŝaltu speguladon por sendi langetojn
+main-context-menu-send-to-mobile-enable-sync-from-link = Ŝaltu speguladon por sendi ligilon
+main-context-menu-send-to-mobile-enable-sync-from-page = Ŝaltu speguladon por sendi paĝon
+main-context-menu-send-to-mobile-connect-phone3 = Konektu aparaton por sendi langetojn
+main-context-menu-send-to-mobile-connect-phone-from-link = Konektu aparaton por sendi ligilon
+main-context-menu-send-to-mobile-connect-phone-from-page = Konektu aparaton por sendi paĝon
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Permesi al spegulado sendi langeton

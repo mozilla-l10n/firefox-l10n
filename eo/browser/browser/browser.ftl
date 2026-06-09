@@ -391,7 +391,7 @@ quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Viŝi ĵusan historio
-quickactions-cmd-clearrecenthistory2 = kuketoj, viŝi kuketojn, staplon, viŝi staplon, retumaj datumoj, viŝi retumajn datumojn, historio, viŝi ĵusan historion
+quickactions-cmd-clearrecenthistory2 = kuketoj, viŝi kuketojn, staplo, viŝi staplon, retumaj datumoj, viŝi retumajn datumojn, historio, viŝi ĵusan historion
 quickactions-cmd-clearrecenthistory = viŝi ĵusan historion, historio
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
