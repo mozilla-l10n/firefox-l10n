@@ -2297,7 +2297,7 @@ collection-backlogged-crash-reports-description = 此信息可帮助 { -vendor-s
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = 外观焕新，设置依旧。
-    .message = 我们重新排列了本页面，使其更易于浏览和探索。您的个人设置没有改变，所有项目都保留在此。提示：使用搜索，可直接跳到所需设置。
+    .message = 本页面经过重新排列，现更简明易用。您的设置没有改变，熟悉的选项一个不少。小技巧：使用搜索，可直达所需选项。
 settings-redesign-promo-dismiss-button =
     .label = 知道了
 addon-recommendations =

@@ -1066,6 +1066,11 @@ newtab-sports-widget-match-full-time = Wšen cas
 newtab-sports-widget-match-halftime = Połcas
 newtab-sports-widget-match-extra-time = Pódlejšenje
 newtab-sports-widget-match-penalties = Pokutne kopy
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = pśeśiwo
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Wóstajśo na běžnem za pśichodne grajne drobnostki
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1143,6 +1148,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Engelska
 newtab-sports-widget-team-name-label-sco =
     .label = Šotiska
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Musy se póstajiś
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
