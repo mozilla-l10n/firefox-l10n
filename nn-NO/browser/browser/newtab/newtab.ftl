@@ -1053,6 +1053,9 @@ newtab-sports-widget-match-full-time = Slutt
 newtab-sports-widget-match-halftime = Pause
 newtab-sports-widget-match-extra-time = Ekstra tid
 newtab-sports-widget-match-penalties = Straffer
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = mot
 # Note shown in the Upcoming tab when no match details are available yet.
 newtab-sports-widget-no-upcoming-matches = Halde deg oppdatert for komande kampdetaljar
 
