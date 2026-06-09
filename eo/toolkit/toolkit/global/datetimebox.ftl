@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Kalendaro
+datetime-time =
+    .aria-label = Horo

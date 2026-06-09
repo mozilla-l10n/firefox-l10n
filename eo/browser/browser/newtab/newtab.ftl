@@ -867,7 +867,7 @@ newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita te
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Koncentriĝo, veterprognozoj kaj pli, en unu loko
-newtab-widget-message-focus-forecasts-body = Permesu al via tago flui per la komponantoj de { -brand-product-name }. Kontrolu la veterprognozon, koncentriĝu je taskoj aŭ sciu kioma horo estas en la cetero de la mondo.
+newtab-widget-message-focus-forecasts-body = Permesu al via tago flui per la komponantoj de { -brand-product-name }. Kontrolu la veterprognozon, koncentriĝu en taskoj aŭ sciu kioma horo estas en la cetero de la mondo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -985,6 +985,20 @@ newtab-sports-widget-watch-dialog-close =
 newtab-sports-widget-watch-stream-free = Senpage
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
 newtab-sports-widget-watch-stream-free-trial = Senpaga provo
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Senpaga kaj pagendaj
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Pagendaj
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Nur elektitaj ludoj
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponeblaj en via regiono
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Aliaj regionoj
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Malfermi elsendon
+    .title = Malfermi elsendon
 newtab-sports-widget-group-stage = Grupa fazo
 newtab-sports-widget-group-a = Grupo A
 newtab-sports-widget-group-b = Grupo B
@@ -1039,7 +1053,31 @@ newtab-sports-widget-world-cup-champions = Ĉampionoj de la piedpilka mondpokalo
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Ludo finita
+newtab-sports-widget-match-halftime = Intertempa paŭzo
+newtab-sports-widget-match-extra-time = Ekstra tempo
 newtab-sports-widget-match-penalties = Penaloj
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = kontraŭ
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Restu atenta por koni la detalojn de la venonta ludo
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Antaŭa
+    .title = Antaŭa
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Venonta
+    .title = Venonta
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Rekta ludo { $index } el { $total }
+    .title = Rekta ludo { $index } el { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1100,11 +1138,21 @@ newtab-sports-widget-team-name-label-eng =
     .label = Anglio
 newtab-sports-widget-team-name-label-sco =
     .label = Skotlando
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Difinota
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Komencu la mondpokalon kun novaj ekranfonoj
+newtab-sports-widget-message-wallpapers-body = Aldonu iom da luda energio al via retumilo.
+newtab-sports-widget-message-wallpapers-cta = Elekti ekranfonon
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Aldoni komponantojn
+newtab-sports-widget-message-day-in-play-title = Restu en la etoso pokala per la komponantoj de { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Sekvu la mondpokalon, koncentriĝu en taskoj, sciu kioma horo estas en la cetero de la mondo, kaj pli.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Esplori komponantojn
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
