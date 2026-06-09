@@ -1057,7 +1057,7 @@ newtab-sports-widget-match-penalties = Straffer
 # match details are available yet.
 newtab-sports-widget-match-vs = mot
 # Note shown in the Upcoming tab when no match details are available yet.
-newtab-sports-widget-no-upcoming-matches = Følg med for komande kampdetaljar
+newtab-sports-widget-no-upcoming-matches = Ver med oss vidare for komande kampdetaljar
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
