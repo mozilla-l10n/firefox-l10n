@@ -1057,6 +1057,11 @@ newtab-sports-widget-match-full-time = Partide finide
 newtab-sports-widget-match-halftime = Interval
 newtab-sports-widget-match-extra-time = Timps suplementârs
 newtab-sports-widget-match-penalties = Rigôrs
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = cuintri
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Torne par cognossi i detais des prossimis partidis
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1134,6 +1139,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Ingletiere
 newtab-sports-widget-team-name-label-sco =
     .label = Scozie
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Di definî
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.

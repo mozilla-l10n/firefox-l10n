@@ -1669,6 +1669,17 @@ forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Impostazions dal panel su la riservatece
+    .description = Oten assistence par protezi lis tôs informazions in rêt in { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostre i avîs di violazion
+    .accesskey = s
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1787,6 +1798,9 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = Si visarà la cronologjie
+history-remember-option-never2 =
+    .label = No sta memorizâ mai la cronologjie
+    .description = Ogni barcon si compuarte come un barcon privât. Se atîf, tu scugnis autorizâ lis estensions.
 history-remember-option-never =
     .label = No si visarà mai la cronologjie
 history-remember-option-custom =
