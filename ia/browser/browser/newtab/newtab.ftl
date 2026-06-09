@@ -1052,6 +1052,9 @@ newtab-sports-widget-match-full-time = Incontro terminate
 newtab-sports-widget-match-halftime = Intervallo
 newtab-sports-widget-match-extra-time = Prorogation
 newtab-sports-widget-match-penalties = Penalties
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = contra
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1129,6 +1132,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Anglaterra
 newtab-sports-widget-team-name-label-sco =
     .label = Scotia
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = A definir
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
