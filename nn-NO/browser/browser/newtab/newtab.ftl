@@ -840,7 +840,7 @@ newtab-widget-lists-name-default = Sjekkliste
 
 newtab-widget-timer-notification-title = Nedteljing
 newtab-widget-timer-notification-focus = Fokustida er over. Bra jobba. Treng du ein pause?
-newtab-widget-timer-notification-break = Pausen din er over. Klar til å fokusere?
+newtab-widget-timer-notification-break = Pausen din er over. Klar for å fokusere?
 newtab-widget-timer-notification-warning = Varsel er av
 newtab-widget-timer-mode-focus =
     .label = Fokus
@@ -1135,6 +1135,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = England
 newtab-sports-widget-team-name-label-sco =
     .label = Skottland
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Skal bestemmast
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
