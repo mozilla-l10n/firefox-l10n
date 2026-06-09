@@ -99,7 +99,7 @@ set-password-backup-pw =
     .value = Pasvorto por atestila sekurkopio:
 set-password-repeat-backup-pw =
     .value = Pasvorto por atestila sekurkopio (denove):
-set-password-reminder = Grava rimarko: Se vi forgesas la pasvorton  de via atestila sekurkopio vi ne povos uzi la sekurkopion poste. Bonvolu registri la pasvorton en sekuran lokon.
+set-password-reminder = Grava rimarko: Se vi forgesas la pasvorton  de via atestila sekurkopio vi ne povos uzi la sekurkopion poste. Bonvolu registri la pasvorton en sekura loko.
 
 ## Protected authentication dialog
 

@@ -24,17 +24,17 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
-ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
+ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
-ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn, eĉ en privataj fenestroj.
-ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en privata fenestro.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn, eĉ en privataj fenestroj.
+ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en privata fenestro.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi-Fi? Provu la integritan VPN de { -brand-product-name }.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Ricevu <a data-l10n-name="learn-more-vpn">ekstan privatecon</a> per elekto de 5 lokoj por kaŝi el kie vi retumas.
-ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en publika Wi-Fi.
+ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en publika Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
 ipprotection-feature-introduction-button-primary = Antaŭen
@@ -70,7 +70,7 @@ ipprotection-location-selection-callout-secondary-button = Ignori
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
-unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian lokon</a> dum retumo per { -brand-product-name }.
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian pozicion</a> dum retumo per { -brand-product-name }.
 unauthenticated-private-location-message = Tio ĉi helpas vin <a data-l10n-name="learn-more-vpn">teni vian pozicion privata</a> en { -brand-product-name }.
 unauthenticated-choose-location-message = Elektu inter 5 lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
 # Variables
@@ -172,7 +172,7 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Vi alproksimiĝas al via limo en VPN
     .message = Restas al vi { $usageLeft } MB el { $maxUsage } GB por tiu ĉi monato.
-ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian lokon kaj aldoni kroman tavolon de ĉifrado al via retumo.
+ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian pozicion kaj aldoni kroman tavolon de ĉifrado al via retumo.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memoros la retejojn kiujn vi agordis por viziti pere de VPN. Vi povas modifi ilin iam ajn en <a data-l10n-name="setting-link">agordoj</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
@@ -209,7 +209,7 @@ ip-protection-learn-more = Pli da informo
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Provu la integritan VPN de { -brand-short-name }
-    .message = Kaŝu vian lokon dum vi retumas per { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj VPN.
+    .message = Kaŝu vian pozicion dum vi retumas per { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj VPN.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-3 =
@@ -219,7 +219,7 @@ ip-protection-not-opted-in-3 =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Provu la integritan VPN de { -brand-short-name }
-    .message = Retumu ekstre protektita per kaŝo de via loko.
+    .message = Retumu ekstre protektita per kaŝo de via pozicio.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

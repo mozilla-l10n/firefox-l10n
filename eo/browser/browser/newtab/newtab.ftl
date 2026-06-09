@@ -530,7 +530,7 @@ newtab-weather-menu-learn-more = Pli da informo
 newtab-weather-menu-detect-my-location = Trovi mian pozicion
 # This message is shown if user is working offline
 newtab-weather-error-not-available = En tiu ĉi momento ne haveblas veteraj datumoj.
-newtab-weather-opt-in-see-weather = Ĉu vi volas vidi la veteron por via loko?
+newtab-weather-opt-in-see-weather = Ĉu vi volas vidi la veteron por via ejo?
 newtab-weather-opt-in-not-now =
     .label = Ne nun
 newtab-weather-opt-in-yes =
