@@ -1769,6 +1769,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Passwords e compilazion automatiche
+    .title = Passwords e compilazion automatiche
 preferences-passwords-autofill-header =
     .heading = Passwords e compilazion automatiche
 # These values are displayed for each credit card record listed on the Manage Payment methods
@@ -1928,6 +1930,10 @@ sitedata-heading =
 sitedata-settings3 =
     .label = Nete vie i dâts par specifics sîts
     .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Gjestìs ecezions
+    .accesskey = x
+    .description = Sielç cemût che sîts specifics a gjestissin i cookies e i dâts dai sîts.
 cookies-site-data-group =
     .label = Cookies e dâts dai sîts
 
@@ -2192,6 +2198,16 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloche barcons a comparse e indreçaments di tiercis bandis
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Gjestìs ecezions
+    .description = Zonte sîts web che puedin vierzi i barcons a comparse e doprâ indreçaments di tiercis bandis.
+    .accesskey = E
+    .searchkeywords = comparse
+permissions-addon-install-warning3 =
+    .label = Mostre un avis cuant che i sîts web a provin a instalâ estensions
+    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Sielç i sîts web che a puedin instalâ estensions
     .accesskey = e
@@ -2227,6 +2243,9 @@ permissions-speaker2 =
     .label = Cassis
 permissions-notification2 =
     .label = Notifichis
+permissions-header3 =
+    .label = Permès
+    .description = Gjestìs ce che i sîts web a puedin doprâ ,controlâ o ativâ.
 
 ## Privacy Section - Data Collection
 
@@ -2241,6 +2260,9 @@ collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e 
 collection-privacy-notice = Informative su la riservatece
 collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
 collection-health-report-telemetry-disabled-link = Plui informazions
+nimbus-rollouts =
+    .label = Permet a { -brand-short-name } di miorâ lis funzionalitâts, lis prestazions e la stabilitât tra un inzornament e chel altri.
+    .description = Lis modifichis a vignaran aplicadis di lontan.
 addon-recommendations3 =
     .label = Permet racomandazions personalizadis su lis estensions
     .description = Ricêf conseis su estensions che ti permetin di miorâ la tô esperience di navigazion.
