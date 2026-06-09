@@ -248,3 +248,16 @@ privacy-metrics-private-window = { -brand-short-name } plu blokas spurilojn en p
 ## VPN promo card and banner
 
 protections-vpn-title = Protektu vian privatecon preter via retumilo
+protections-vpn-header-content = Protektu vian tutan aparaton per { -mozilla-vpn-brand-name }. Unu tuŝo ĉifras vian tutan trafikon kaj kaŝas vian pozicion.
+protections-get-vpn-link = Elŝuti { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: abonita
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] La uso de { -mozilla-vpn-brand-name } ĉifras vian tutan trafikon kaj kaŝas vian pozicion — en maksimume { $count } aparato. Maksimume profitu vian abonon — aldonu ĝin el la <a data-l10n-name="playstore-link">Google Play Store</a> aŭ <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] La uso de { -mozilla-vpn-brand-name } ĉifras vian tutan trafikon kaj kaŝas vian pozicion — en maksimume { $count } aparatoj. Maksimume profitu vian abonon — aldonu ĝin el la <a data-l10n-name="playstore-link">Google Play Store</a> aŭ <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Protekto kiu efikas preter la retumilo
+protections-vpn-banner-content = Senriske provu { -mozilla-vpn-brand-name } kaj mem spertu kion TechRadar diras: “ĝia rapido, simpleco kaj malmultekosteco monata iĝas ĝin provinda”.
+protections-vpn-banner-link = Elŝuti { -mozilla-vpn-brand-name }

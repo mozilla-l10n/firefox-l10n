@@ -39,6 +39,9 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Permesi al spegulado sendi langeton
 fxa-menu-send-to-mobile-connect-phone2 = Konektu vian telefonon
 fxa-menu-send-to-mobile-device-missing2 = Ĉu vi ne vidas vian aparaton?
+fxviewtabrow-send-to-mobile-not-verified = Nekonfirmita konto
+fxa-menu-send-to-mobile-turn-on-sync = Ŝaltu speguladon por sendi langetojn
+fxa-menu-send-to-mobile-connect-device = Konektu aparaton por sendi langetojn
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
