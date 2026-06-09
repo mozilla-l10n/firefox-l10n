@@ -2260,6 +2260,8 @@ collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e 
 collection-privacy-notice = Informative su la riservatece
 collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
 collection-health-report-telemetry-disabled-link = Plui informazions
+backup-multi-profile-warning-message =
+    .message = Par jessi sigûrs che cheste modifiche e vignarà includude tai tiei backups, vierç ogni profîl e sielç "Fâs backup cumò" tes impostazions.
 nimbus-rollouts =
     .label = Permet a { -brand-short-name } di miorâ lis funzionalitâts, lis prestazions e la stabilitât tra un inzornament e chel altri.
     .description = Lis modifichis a vignaran aplicadis di lontan.
@@ -2294,6 +2296,10 @@ collection-backlogged-crash-reports2 =
     .label = Mande in automatic lis segnalazions sui colàs
     .accesskey = c
 collection-backlogged-crash-reports-description = Chest al jude { -vendor-short-name } a diagnosticâ e risolvi problemis cul navigadôr. Lis segnalazions a puedin includi dâts personâi e sensibii.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Stessis impostazions, gnûf aspiet!
+    .message = O vin metût sù une pagjine plui facile di viodi e di esplorâ. Lis tôs impostazions personâls no son cambiadis  e dut al è restât al so puest. Sugjeriment: dopre la funzion di ricercje par cjatâ daurman ce che ti covente.
 addon-recommendations =
     .label = Permet a { -brand-short-name } di rindi personalizâts i conseis di estensions
 addon-recommendations-link = Plui informazions
@@ -2323,6 +2329,13 @@ data-collection-health-report =
     .label = Mande dâts tecnics e di interazion a { -vendor-short-name }
     .accesskey = r
     .description = Chest nus jude a miorâ funzionalitâts, prestazions e stabilitât di { -brand-product-name }
+data-collection-health-report-disabled =
+    .label = Mande i dâts tecnics e di interazion a { -vendor-short-name }
+    .accesskey = r
+    .description = La comunicazion dai dâts e je disativade te configurazion doprade par cheste version.
+data-collection-run-studies =
+    .label = Permet a { -brand-short-name } di puartâ indenant studis su lis funzionalitâts
+    .description = { -brand-short-name } al sielç a câs i utents par provâ lis funzionalitâts, cussì di rivâ a miorâ la cualitât par ducj.
 data-collection-studies-link =
     .label = Visualize i studis di { -brand-short-name }
 data-collection-usage-ping =
@@ -2397,6 +2410,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modalitât Dome-HTTPS
     .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 

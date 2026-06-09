@@ -1061,6 +1061,9 @@ newtab-sports-widget-match-full-time = Поўны час
 newtab-sports-widget-match-halftime = Перапынак
 newtab-sports-widget-match-extra-time = Дадатковы час
 newtab-sports-widget-match-penalties = Пенальці
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = супраць
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
