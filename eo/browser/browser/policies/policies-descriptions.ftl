@@ -59,6 +59,7 @@ policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
 policy-DisableProfileImport = Malaktivigi la menueron por importi datumojn el alia retumilo.
 policy-DisableProfileRefresh = Malaktivigi la butonon "Reŝargi { -brand-short-name }" en la paĝo about:support.
 policy-DisableRemoteImprovements = Eviti ke { -brand-short-name } apliku efikecajn, stabilecajn aŭ trajtajn ŝanĝojn inter ĝisdatigoj.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Malaktivigi forajn agordojn.
 policy-DisableSafeMode = Malaktivigi la trajton por restartigi en sekura reĝimo. Rimarko: nur en Windows eblas malaktivigi la eniron al sekura reĝimo per la klavo "majuskle", pero grupa politiko.
 policy-DisableSecurityBypass = Malpermesi al uzanto ignori kelkajn sekurecajn avertojn.
 policy-DisableSetAsDesktopBackground = Malaktivigi la menueron "Difini kiel labortablan fonon" por bildoj.

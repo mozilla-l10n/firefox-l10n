@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Rifuzi
     .accesskey = R
 webext-perms-host-description-all-urls = Aliri viajn datumojn por ĉiuj retejoj
+webext-perms-host-description-file-urls = Aliri lokajn dosierojn en via komputilo
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Aliri viajn datumojn por retejoj en la nomregno { $domain }
