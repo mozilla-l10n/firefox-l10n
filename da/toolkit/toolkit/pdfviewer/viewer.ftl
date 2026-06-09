@@ -663,6 +663,7 @@ pdfjs-views-manager-attachments-title = Vedhæftede filer
 pdfjs-views-manager-layers-title1 = Lag
     .title = Lag (dobbeltklik for at nulstille alle lag til standard-tilstanden)
 pdfjs-views-manager-pages-option-label = Sider
+pdfjs-views-manager-outlines-option-label = Dokument-disposition
 pdfjs-views-manager-attachments-option-label = Vedhæftede filer
 pdfjs-views-manager-layers-option-label = Lag
 pdfjs-views-manager-add-file-button =
