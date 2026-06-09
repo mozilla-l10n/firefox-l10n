@@ -83,3 +83,4 @@ user-context-icon-circle =
     .label = Punto
 user-context-icon-fence =
     .label = Recinto
+
