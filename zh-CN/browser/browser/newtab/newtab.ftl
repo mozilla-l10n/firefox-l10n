@@ -1038,6 +1038,9 @@ newtab-sports-widget-match-full-time = 全场
 newtab-sports-widget-match-halftime = 中场
 newtab-sports-widget-match-extra-time = 加时赛
 newtab-sports-widget-match-penalties = 点球决胜
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = vs
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
