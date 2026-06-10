@@ -444,7 +444,7 @@ etp-strict-exceptions-infobar-not-now = Teraz nie
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } nie je vaším predvoleným prehliadačom
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nie je vaším hlavným prehliadačom
-set-default-menu-message-row-layout-title = Nastaviť { -brand-short-name(case: "acc") } ako hlavný prehliadač
+set-default-menu-message-row-layout-title = Nastavte si { -brand-short-name(case: "acc") } ako hlavný prehliadač
 set-default-menu-message-row-layout-title-variant = Nastaviť { -brand-short-name } ako predvolený prehliadač
 set-default-menu-message-row-layout-subtitle = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
 set-default-menu-message-row-layout-subtitle-variant =
