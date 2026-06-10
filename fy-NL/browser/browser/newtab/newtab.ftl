@@ -1059,6 +1059,8 @@ newtab-sports-widget-match-penalties = Strafskoppen
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = tsjin
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Sjoch regelmjittich foar details fan oankommende wedstriden
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1136,6 +1138,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Ingelân
 newtab-sports-widget-team-name-label-sco =
     .label = Skotlân
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Noch te bepalen
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
