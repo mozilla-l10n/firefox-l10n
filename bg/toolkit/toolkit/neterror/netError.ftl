@@ -136,6 +136,9 @@ fp-neterror-offline-body-title = Изглежда, че има проблем с
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = { -brand-short-name } не може да създаде защитена връзка със сървъра на { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } не може да се свърже със сървъра на <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } не може да се свърже със сървъра на <strong>{ $hostname }</strong>.
 fp-neterror-offline-what-can-you-do-body = Опитайте да се свържете от друго устройство. Проверете своя модем или рутер. Изключете и се свържете отново с Wi-Fi.
 fp-learn-more-about-https-connections = Научете повече за HTTPS връзките
 fp-neterror-denied-port-access = Този адрес използва мрежов порт, който обикновено се използва за цели, различни от разглеждане. За да ви защити { -brand-short-name } прекъсна заявката.
