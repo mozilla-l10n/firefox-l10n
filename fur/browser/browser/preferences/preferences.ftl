@@ -2440,6 +2440,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sore HTTPS
+dns-over-https-group2 =
+    .label = DNS sore HTTPS
+    .description = Il mecanisim di risoluzion dai nons di domini sore HTTPS (DNS sore HTTPS) al cifre lis ricercjis di sîts in mût che al sedi plui dificil savê ce che tu visitis pal to furnidôr di servizi internet o par altris.
 preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
 preferences-doh-description2 = Il sisteme di risoluzion dai nons di domini (DNS) sore HTTPS al invie lis richiestis pai nons di domini a traviers di une conession cifrade, furnint un DNS sigûr e fasint in mût che al sedi plui dificil scuvierzi i sîts web che tu stâs par visitâ.
 # Variables:
@@ -2506,6 +2509,10 @@ choose-download-folder-title = Sielç une cartele pai files discjamâts:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Bloche i mioraments basâts su la IA.
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Se tu blochis cheste funzion in { -brand-short-name }, no tu viodarâs i mioraments basâts su la IA, sedino gnûfs o za esistents, ni tu viodarâs i barcons a comparse relatîfs. <a data-l10n-name="link">Scuvierç altris detais</a> su ce che al è includût e cemût controlâ lis funzionalitâts basadis sul tradizionâl machine learning (aprendiment de machine), come i sugjeriments di ricercje e lis racomandazions.
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
