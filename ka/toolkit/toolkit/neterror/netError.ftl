@@ -182,8 +182,6 @@ neterror-response-status-code = შეცდომის კოდი: { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = რაღაც ხარვეზია ქსელთან კავშირისას
-fp-neterror-illustration-alt =
-    .alt = მელას გამოსახულება, რომელიც ქსელის გამოთიშულ სადენებს უცქერს.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

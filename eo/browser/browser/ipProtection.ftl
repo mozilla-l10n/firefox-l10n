@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan 
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en privata fenestro.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi-Fi? Provu la integritan VPN de { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Ricevu <a data-l10n-name="learn-more-vpn">ekstan privatecon</a> per elekto de 5 lokoj por kaŝi el kie vi retumas.
 ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en publika Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ila
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Forigi VPN el la ilaro
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu 5 lokojn kie vi retumos pli private.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Elektu, por kiuj retejoj uzi VPN
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Mi komprenis
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nova: ŝanĝu vian pozicion
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La integrita VPN de { -brand-product-name }</a> permesas al vi elekti inter 5 retumaj lokoj, aŭ elekti la plej rapidan por vi.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN de { -brand-product-name }</a> permesas al vi elekti inter pluraj lokoj, aŭ lasi nin elekti la plej rapidan por vi.
 ipprotection-location-selection-callout-primary-button = Provi
 ipprotection-location-selection-callout-secondary-button = Ignori
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Ignori
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian pozicion</a> dum retumo per { -brand-product-name }.
 unauthenticated-private-location-message = Tio ĉi helpas vin <a data-l10n-name="learn-more-vpn">teni vian pozicion privata</a> en { -brand-product-name }.
-unauthenticated-choose-location-message = Elektu inter 5 lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
 unauthenticated-choose-location-message-1 = Elektu inter pluraj lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
 unauthenticated-get-started = Unuaj paŝoj
 unauthenticated-terms-of-service-privacy-notice = Se vi daŭrigas, vi akceptas la <a data-l10n-name="vpn-terms-of-service">kondiĉojn de uzo</a> kaj <a data-l10n-name="vpn-privacy-notice">rimarkon pri privateco</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN ŝaltita
-ipprotection-connection-status-disconnected = VPN malŝaltita
-ipprotection-connection-status-excluded = VPN malŝaltita por tiu ĉi retejo
-ipprotection-connection-status-connecting = Konektiĝo al VPN…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Malŝalti VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Elŝuti { -mozilla-vpn-brand-name 
 upgrade-vpn-title = Ricevu aldonan protekton, krom tiun de la retumilo.
 upgrade-vpn-description = Elektu la lokon de via VPN, uzu VPN por ĉiuj viaj apoj en maksimume 5 aparatoj kaj restu sekura en iu ajn reto, ĉu hejme ĉu en publika Wi-Fi.
 upgrade-vpn-button = Provu { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN paŭzigita
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN paŭzigita
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Ne eblis konektiĝi al la VPN
 ipprotection-connection-status-generic-error-description = Provu denove post kelkaj minutoj.
 ipprotection-connection-status-generic-error-try-again = Bonvolu klopodi denove poste.
 ipprotection-connection-status-network-error-title-1 = Kontrolu vian retaliron
     .aria-label = Kontrolu vian retaliron
-ipprotection-connection-status-network-error-title = Kontrolu vian retaliron
 ipprotection-connection-status-network-error-description = Konektiĝu al la reto kaj poste provu ŝalti la VPN.
 ipprotection-connection-status-blocked-error-title-1 = La VPN ne disponeblas
     .aria-label = La VPN ne disponeblas
-ipprotection-connection-status-blocked-error-title = La VPN ne disponeblas
 ipprotection-connection-status-blocked-error-description = Lokaj reguloj malpermesas al ni provizi VPN servon en tiu ĉi regiono. <a data-l10n-name="learn-more-link">Pli da informo</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Integrita VPN
     .description = Ricevu ekstran privatecon per kaŝo de via pozicio dum vi retumas.
 ip-protection-learn-more = Pli da informo
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Provu la integritan VPN de { -brand-short-name }
-    .message = Kaŝu vian pozicion dum vi retumas per { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj VPN.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Provu la integritan VPN de { -brand-short-name }
-    .message = Retumu kun aldonaj protektoj per kaŝo de via pozicio. Ricevu ĉiumonate { $maxUsage } GB da senpagaj VPN datumoj.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

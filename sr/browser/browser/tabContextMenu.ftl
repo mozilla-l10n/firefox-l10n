@@ -148,13 +148,6 @@ tab-context-send-to-mobile =
            *[other] Пошаљи { $tabCount } језичака на мобилни
         }
     .accesskey = н
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Омогућите усклађивање да бисте послали језичак
-tab-context-send-to-mobile-connect-phone =
-    .label = Повежите свој телефон
-tab-context-send-to-mobile-device-missing =
-    .label = Не видите свој уређај?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Направи везу за дељење

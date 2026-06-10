@@ -232,8 +232,6 @@ neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatu
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Zdá se, že došlo k problému s připojením k internetu
-fp-neterror-illustration-alt =
-    .alt = Ilustrace lišky, která se dívá na odpojené síťové kabely.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

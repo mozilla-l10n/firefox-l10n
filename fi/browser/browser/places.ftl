@@ -271,6 +271,3 @@ places-locked-prompt = Selaimen kirjanmerkki- ja sivuhistoriatoiminnot eivät ol
 places-share-folder2 =
     .label = Jaa kansio
     .badge = Uusi
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Jaa kansio

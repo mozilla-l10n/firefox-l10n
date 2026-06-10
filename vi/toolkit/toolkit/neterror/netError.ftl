@@ -182,8 +182,6 @@ neterror-response-status-code = Mã lỗi: { $responsestatus } { $responsestatus
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Có vẻ như đã xảy ra sự cố với kết nối Internet của bạn
-fp-neterror-illustration-alt =
-    .alt = Hình minh họa một con cáo đang quan sát các dây cáp mạng bị ngắt kết nối.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

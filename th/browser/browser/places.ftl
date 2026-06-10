@@ -267,6 +267,3 @@ places-locked-prompt = ระบบที่คั่นหน้าและป
 places-share-folder2 =
     .label = แบ่งปันโฟลเดอร์
     .badge = ใหม่
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = แบ่งปันโฟลเดอร์

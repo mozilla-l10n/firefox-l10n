@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extender la trav laterala cun passar cun la mieur
-sidebar-manage-extensions = Administrar las extensiuns
 
 ## Labels for sidebar context menu items
 

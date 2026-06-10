@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Pro odeslání stránky
 main-context-menu-send-to-mobile-connect-phone3 = Pro posílání panelů zařízení připojte
 main-context-menu-send-to-mobile-connect-phone-from-link = Pro odeslání odkazu zařízení připojte
 main-context-menu-send-to-mobile-connect-phone-from-page = Pro odeslání stránky zařízení připojte
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Povolit synchronizaci pro odeslání panelu
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Připojit svůj telefon
-main-context-menu-send-to-mobile-device-missing =
-    .label = Nevidíte své zařízení?
 main-context-menu-save-to-pocket =
     .label = Uložit stránku do { -pocket-brand-name(case: "gen") }
     .accesskey = k

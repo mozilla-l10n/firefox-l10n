@@ -153,13 +153,6 @@ tab-context-send-to-mobile =
            *[other] Pošalji { $tabCount } kartica na mobitel
         }
     .accesskey = n
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Aktiviraj sinkronizaciju za slanje kartice
-tab-context-send-to-mobile-connect-phone =
-    .label = Poveži svoj mobitel
-tab-context-send-to-mobile-device-missing =
-    .label = Ne vidiš svoj uređaj?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

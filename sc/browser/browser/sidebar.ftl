@@ -62,7 +62,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ismànnia sa barra laterale a su passàgiu de su puntadore
-sidebar-manage-extensions = Gesti is estensiones
 
 ## Labels for sidebar context menu items
 

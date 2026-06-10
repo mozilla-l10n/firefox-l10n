@@ -682,8 +682,6 @@ newtab-widget-lists-button-add-item = Shtoni një objekt
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Shtoni një objekt
     .aria-label = Shtoni një objekt
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Shtoni një objekt
 newtab-widget-lists-input-error = Ju lutemi, që të shtohet një objekt, përfshini tekst.
 newtab-widget-lists-input-menu-open-link = Hape lidhjen
 newtab-widget-lists-input-menu-move-up = Ngjite sipër
@@ -701,9 +699,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Listë e re
     .aria-label = Përpunoni emër liste
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Listë e re
 newtab-widget-section-title = Widget-e
 newtab-widget-menu-hide = Fshihe widget-in
 # Tooltip for hide all widgets button

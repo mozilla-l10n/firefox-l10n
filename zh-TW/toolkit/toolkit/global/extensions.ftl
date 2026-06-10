@@ -144,12 +144,6 @@ webext-site-perms-description-gated-perms-webserial =
     您將可以選擇網站可以存取哪些裝置。
     
     一般來說，不應允許網站存取序列埠裝置。不正確使用可能會造成損畫，或影響安全性。
-webext-site-perms-description-gated-perms-serial =
-    這是指諸如微控制器、3D 印表機，或其他透過 USB 或序列埠連接的裝置。
-    
-    您將可以選擇網站可以存取哪些裝置。
-    
-    一般來說，不應允許網站存取序列埠裝置。不正確使用可能會造成損畫，或影響安全性。
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

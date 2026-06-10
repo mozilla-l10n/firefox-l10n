@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Déployer le panneau latéral au survol
 sidebar-manage-extensions2 = Gérer toutes les extensions
-sidebar-manage-extensions = Gérer les extensions
 sidebar-customize-extensions-header2 = Extensions
 sidebar-customize-firefox-tools-header2 =
     .label = Outils

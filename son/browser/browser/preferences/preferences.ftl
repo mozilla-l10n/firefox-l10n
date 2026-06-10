@@ -12,7 +12,6 @@ pane-privacy-title3 = Sutura nda saajaw
 pane-search-title = Ceeci
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title2 = Sutura nda saajaw
 pane-privacy-section =
     .heading = Sutura nda saajaw
 pane-privacy-title = Sutura nda saajaw
@@ -101,12 +100,6 @@ containers-remove-cancel-button = Ma ši sunoo woo kaa
 
 ## General Section - Language & Appearance
 
-default-font-2 =
-    .label = Tilasu šigira
-    .accesskey = T
-default-font-size-2 =
-    .label = Adadu
-    .accesskey = A
 default-font = Tilasu šigira
     .accesskey = T
 default-font-size = Adadu
@@ -137,11 +130,6 @@ download-save-files-header =
     .label = Tukey gaabu ga
 download-save-where-3 =
     .aria-label = Tukey gaabu ga
-downloads-header-2 =
-    .label = Zumandiyaney
-download-save-where-2 =
-    .label = Tukey gaabu ga
-    .accesskey = g
 download-header = Zumandiyaney
 download-save-where = Tukey gaabu ga
     .accesskey = g

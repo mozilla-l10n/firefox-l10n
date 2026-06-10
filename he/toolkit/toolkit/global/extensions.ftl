@@ -152,12 +152,6 @@ webext-site-perms-description-gated-perms-webserial =
     באפשרותך לבחור לאילו מכשירים האתר יכול לגשת.
     
     אתרים בדרך כלל אינם מורשים לגשת להתקנים טוריים. שימוש לא נכון עלול לגרום נזק או לפגוע באבטחה.
-webext-site-perms-description-gated-perms-serial =
-    אלו הם מכשירים כמו מיקרו־בקרים, מדפסות תלת־ממד ומכשירים אחרים שמתחברים דרך יציאות USB או יציאות טוריות.
-    
-    באפשרותך לבחור לאילו מכשירים האתר יכול לגשת.
-    
-    אתרים בדרך כלל אינם מורשים לגשת להתקנים טוריים. שימוש לא נכון עלול לגרום נזק או לפגוע באבטחה.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

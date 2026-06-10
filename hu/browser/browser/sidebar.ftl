@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Oldalsáv kibontása rámutatáskor
 sidebar-manage-extensions2 = Összes kiegészítő kezelése
-sidebar-manage-extensions = Kiegészítők kezelése
 sidebar-customize-extensions-header2 = Kiegészítők
 sidebar-customize-firefox-tools-header2 =
     .label = Eszközök

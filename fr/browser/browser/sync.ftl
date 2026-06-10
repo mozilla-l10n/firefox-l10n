@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Envoyer à un mobile
            *[other] Envoyer { $tabCount } onglets à un mobile
         }
-fxa-menu-send-to-mobile-enable-sync2 = Activez la synchronisation pour envoyer un onglet
-fxa-menu-send-to-mobile-connect-phone2 = Connectez votre téléphone
 fxa-menu-send-to-mobile-device-missing2 = Vous ne voyez pas votre appareil ?
 fxviewtabrow-send-to-mobile-not-verified = Compte non confirmé
 fxviewtabrow-send-to-mobile-verify-account = Confirmer votre compte

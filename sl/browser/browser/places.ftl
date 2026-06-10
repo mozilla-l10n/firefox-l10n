@@ -277,6 +277,3 @@ places-locked-prompt = Zaznamki in zgodovina ne bodo delovali, ker eno izmed dat
 places-share-folder2 =
     .label = Deli mapo
     .badge = Novo
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Deli mapo

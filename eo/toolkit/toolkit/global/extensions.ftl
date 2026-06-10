@@ -156,12 +156,6 @@ webext-site-perms-description-gated-perms-webserial =
     Vi povos elekti kiujn aparatojn la retejo povas aliri.
     
     Retejoj normale ne povas aliri seriajn aparatojn. Malĝusta uzo povus difekti ion aŭ minaci sekurecon.
-webext-site-perms-description-gated-perms-serial =
-    Tiuj ĉi estas aparatoj, kiel mikrokomputiloj, presiloj 3D kaj aliaj, kiuj konektiĝas per USB aŭ per seria konekto.
-    
-    Vi povos elekti kiujn aparatojn la retejo povas aliri.
-    
-    Retejoj normale ne povas aliri seriajn aparatojn. Malĝusta uzo povus difekti ion aŭ minaci sekurecon.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

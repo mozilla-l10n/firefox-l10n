@@ -149,11 +149,6 @@ about-glean-no-data-to-display = Žiadne údaje na zobrazenie.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Metriky <code>DualLabeledCounter</code> zatiaľ nie sú podporované v zobrazení <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Neznámy typ metriky.
-about-glean-enable-new-features-promo =
-    .message = Pracujeme na pridávaní nových funkcií! Stále sú vo fáze aktívneho vývoja, ale ak ich chcete povoliť, kliknite na tlačidlo akcie.
-    .heading = Nové funkcie sú už na ceste!
-about-glean-enable-new-features-button = Povoliť nové funkcie
-about-glean-disable-new-features-button = Zakázať nové funkcie
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
     <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.

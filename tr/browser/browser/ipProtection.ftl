@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Halka açık bir Wi-Fi ağında mısınız? { -brand-product-name } tarayıcısının yerleşik VPN’ini deneyin.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = İnternette gezdiğiniz yerleri gizlemek için 5 konumdan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
 ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = İnternette gezdiğiniz yerleri gizlemek için çeşitli konumlardan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = VPN’i araç çubu�
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN’i araç çubuğundan kaldır
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. 5 konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = VPN’i nerede kullanacağınızı seçin
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Anladım
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Yeni: Konumunuzu değiştirin
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN’i</a> ile ister 5 konumdan dilediğinizi seçin, isterseniz en hızlısını biz seçelim.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN’i</a> ile ister farklı konumlardan dilediğinizi seçin, isterseniz en hızlısını biz seçelim.
 ipprotection-location-selection-callout-primary-button = Deneyin
 ipprotection-location-selection-callout-secondary-button = Kapat
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Kapat
 unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
 unauthenticated-private-location-message = { -brand-product-name } tarayıcısında <a data-l10n-name="learn-more-vpn">konumunuzu gizli tutmamıza</a> yardımcı olur.
-unauthenticated-choose-location-message = 5 konum arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Her ay { $maxUsage } GB VPN kotası ücretsiz.
 unauthenticated-choose-location-message-1 = Farklı konumlar arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
 unauthenticated-get-started = Kullanmaya başlayın
 unauthenticated-terms-of-service-privacy-notice = Devam ederseniz <a data-l10n-name="vpn-terms-of-service">Hizmet Koşulları</a>’nı ve <a data-l10n-name="vpn-privacy-notice">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN açık
-ipprotection-connection-status-disconnected = VPN kapalı
-ipprotection-connection-status-excluded = Bu sitede VPN kapalı
-ipprotection-connection-status-connecting = VPN’e bağlanılıyor…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = VPN’i kapat
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name }’i ed
 upgrade-vpn-title = Tarayıcının ötesinde ekstra korumaya kavuşun
 upgrade-vpn-description = VPN konumunuzu seçin, tüm uygulamalarınızda ve 5 cihazınızda VPN kullanın. İster evde ister halka açık Wi-Fi ağlarında, her yerde güvende kalın.
 upgrade-vpn-button = { -mozilla-vpn-brand-name }’i deneyin
-ipprotection-connection-status-paused-title-1 = VPN duraklatıldı
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN duraklatıldı
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = VPN’e bağlanılamadı
 ipprotection-connection-status-generic-error-description = Birkaç dakika sonra yeniden deneyin.
 ipprotection-connection-status-generic-error-try-again = Lütfen daha sonra yeniden deneyin.
 ipprotection-connection-status-network-error-title-1 = İnternet bağlantınızı kontrol edin
     .aria-label = İnternet bağlantınızı kontrol edin
-ipprotection-connection-status-network-error-title = İnternet bağlantınızı kontrol edin
 ipprotection-connection-status-network-error-description = İnternete bağlandıktan sonra VPN’i açmayı deneyin.
 ipprotection-connection-status-blocked-error-title-1 = VPN kullanılamıyor
     .aria-label = VPN kullanılamıyor
-ipprotection-connection-status-blocked-error-title = VPN kullanılamıyor
 ipprotection-connection-status-blocked-error-description = Yerel yasalar bu bölgede VPN hizmeti sunmamızı engelliyor. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Yerleşik VPN
     .description = İnternette gezinirken konumunuzu gizleyerek ekstra gizliliğe kavuşun.
 ip-protection-learn-more = Daha fazla bilgi al
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Yerleşik { -brand-short-name } VPN’i deneyin
-    .message = { -brand-short-name } ile gezinirken konumunuzu gizleyin. Her ay { $maxUsage } GB VPN kotası ücretsiz.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Yerleşik { -brand-short-name } VPN’i deneyin
-    .message = İnternette konumunuzu gizleyerek ekstra korumayla gezinin. Her ay { $maxUsage } GB VPN kotası ücretsiz.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

@@ -144,12 +144,6 @@ webext-site-perms-description-gated-perms-webserial =
     Bạn có thể chọn thiết bị nào cho phép trang web truy cập.
     
     Thông thường, các trang web không được phép truy cập vào các thiết bị sử dụng cổng nối tiếp. Việc sử dụng không đúng cách có thể gây hư hỏng hoặc làm giảm bảo mật.
-webext-site-perms-description-gated-perms-serial =
-    Đây là những thiết bị như vi điều khiển, máy in 3D và các thiết bị khác kết nối qua cổng USB hoặc cổng nối tiếp.
-    
-    Bạn có thể chọn thiết bị nào cho phép trang web truy cập.
-    
-    Thông thường, các trang web không được phép truy cập vào các thiết bị sử dụng cổng nối tiếp. Việc sử dụng không đúng cách có thể gây hư hỏng hoặc làm giảm bảo mật.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

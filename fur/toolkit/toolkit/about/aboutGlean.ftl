@@ -191,11 +191,6 @@ about-glean-no-data-to-display = Nissun dât di visualizâ.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Lis metrichis <code>DualLabeledCounter</code> no son supuartadis te viodude <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Gjenar di metriche no cognossût.
-about-glean-enable-new-features-promo =
-    .message = O stin daûr a zontâ gnovis funzions! A son ancjemò in svilup, ma se tu vuelis ativâlis, fâs clic sul boton di azion.
-    .heading = A stan par rivâ gnovis funzions!
-about-glean-enable-new-features-button = Ative gnovis funzions
-about-glean-disable-new-features-button = Disative gnovis funzions
 about-glean-about-data-explanation =
     Par sgarfâ te liste dai dâts racuelts, consulte il
     <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.

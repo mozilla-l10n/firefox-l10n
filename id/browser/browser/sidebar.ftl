@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bentangkan bilah samping saat sorot
-sidebar-manage-extensions = Kelola Ekstensi
 
 ## Labels for sidebar context menu items
 

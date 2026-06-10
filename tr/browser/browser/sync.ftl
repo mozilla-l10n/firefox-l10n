@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] Mobil cihaza gönder
            *[other] { $tabCount } sekmeyi mobil cihaza gönder
         }
-fxa-menu-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi etkinleştirin
-fxa-menu-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
 fxa-menu-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
 fxviewtabrow-send-to-mobile-not-verified = Hesap doğrulanmamış
 fxviewtabrow-send-to-mobile-verify-account = Hesabınızı doğrulayın

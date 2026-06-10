@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = På offentleg Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom 5 stadar for å skjule kvar du surfar.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra vern ved å skjule plasseringa di, også på offentleg Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire stadar for å skjule kvar du surfar.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Fjern VPN frå verkt
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN frå verktøylinja
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> bidreg til å verne surfinga di. Vel mellom 5 stadar for å halde kvar du surfar meir privat.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vel kvar du brukar VPN
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Eg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyheit: Byt plassering
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom 5 stadar å surfe frå, eller la oss velje det raskaste for deg.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom fleire stadar å surfe frå, eller la oss velje den raskaste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringa di</a> medan du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Bidreg til å <a data-l10n-name="learn-more-vpn">halde plasseringa di privat</a> i { -brand-product-name }.
-unauthenticated-choose-location-message = Vel mellom 5 stadar å surfe frå, eller la { -brand-product-name } velje det raskaste for deg.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data kvar månad.
 unauthenticated-choose-location-message-1 = Vel mellom fleire stadar å surfe frå, eller la { -brand-product-name } velje den raskaste for deg.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å halde fram godtek du <a data-l10n-name="vpn-terms-of-service">tenestevilkåra</a> og <a data-l10n-name="vpn-privacy-notice">personvernfråsegna</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN er på
-ipprotection-connection-status-disconnected = VPN er av
-ipprotection-connection-status-excluded = VPN er av for denne nettstaden
-ipprotection-connection-status-connecting = VPN koplar til…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Slå av VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Få { -mozilla-vpn-brand-name }
 upgrade-vpn-title = Få ekstra vern utover nettleseren
 upgrade-vpn-description = Vel VPN-plasseringa di, bruk VPN for alle appane dine, og på opptil 5 einingar, og ver trygg på alle nettverk — heime eller på offentleg Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN er sett på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN er sett på pause
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Klarte ikkje å kople til VPN
 ipprotection-connection-status-generic-error-description = Prøv igjen om nokre minutt.
 ipprotection-connection-status-generic-error-try-again = Prøv igjen seinare.
 ipprotection-connection-status-network-error-title-1 = Sjekk internettilkoplinga di
     .aria-label = Sjekk internettilkoplinga di
-ipprotection-connection-status-network-error-title = Sjekk internettilkoplinga di
 ipprotection-connection-status-network-error-description = Kople til internett, og prøv deretter å slå på VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN er ikkje tilgjengeleg
     .aria-label = VPN er ikkje tilgjengeleg
-ipprotection-connection-status-blocked-error-title = VPN er ikkje tilgjengeleg
 ipprotection-connection-status-blocked-error-description = Lokale lover hindrar oss i å tilby VPN-tenester i denne regionen. <a data-l10n-name="learn-more-link">Les meir</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Innebygd VPN
     .description = Få ekstra personvern ved å skjule plasseringa di medan du surfar.
 ip-protection-learn-more = Les meir
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
-    .message = Skjul plasseringa di medan du surfar i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data kvar månad.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
-    .message = Surf med ekstra vern ved å skjule plasseringa di. Få { $maxUsage } GB gratis VPN-data kvar månad.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

@@ -182,8 +182,6 @@ neterror-response-status-code = קוד שגיאה: { $responsestatus } { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = נראה שיש בעיה בחיבור האינטרנט שלך
-fp-neterror-illustration-alt =
-    .alt = איור של שועל מביט על כבלי רשת מנותקים.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

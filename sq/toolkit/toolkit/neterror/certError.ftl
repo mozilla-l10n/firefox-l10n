@@ -211,8 +211,6 @@ certerror-mitm-title = Një program po i pengon { -brand-short-name }-it të Lid
 
 fp-certerror-page-title = Kujdes: Rrezik Sigurie
 fp-certerror-body-title = Hapni sytë. Diçka s’duket të jetë siç duhet.
-fp-certerror-illustration-alt =
-    .alt = Ilustrim i një dhelpre që sheh një shenjë portokalli sinjalizimi.
 fp-certerror-why-site-dangerous = Ç’e bën këtë sajt të duket i rrezikshëm?
 fp-certerror-what-can-you-do = Ç’mund të bëni për të?
 fp-certerror-advanced-title = Të mëtejshme

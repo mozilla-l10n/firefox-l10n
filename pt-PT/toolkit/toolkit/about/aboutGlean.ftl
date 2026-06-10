@@ -200,11 +200,6 @@ about-glean-no-data-to-display = Não existem dados para apresentar.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = As métricas <code>DualLabeledCounter</code> ainda não são suportadas na visualização <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconhecido.
-about-glean-enable-new-features-promo =
-    .message = Estamos a desenvolver novas funcionalidades! Ainda estão em fase de desenvolvimento, mas pode ativá-las clicando no botão de ação aqui.
-    .heading = Novas funcionalidades a caminho!
-about-glean-enable-new-features-button = Ativar novas funcionalidades
-about-glean-disable-new-features-button = Desativar novas funcionalidades
 about-glean-about-data-explanation =
     Para navegar na lista de dados recolhidos, consulte o
     <a data-l10n-name="glean-dictionary-link">Dicionário { -glean-brand-name }</a>.

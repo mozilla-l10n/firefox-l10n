@@ -184,8 +184,6 @@ about-glean-no-data-to-display = Ndaipóri mba’ekuaarã jehechaukarã.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Umi <code>DualLabeledCounter</code> métrica ndojokupytýi <code>about:glean</code> jehechauka ndive.
 about-glean-unknown-metric-type-warning = Peteĩ métrica ojekuaa’ỹva.
-about-glean-enable-new-features-button = Embojuruja tembiapoite pyahu
-about-glean-disable-new-features-button = Eipe’a tembiapoite pyahu
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.

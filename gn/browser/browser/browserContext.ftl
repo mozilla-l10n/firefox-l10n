@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Emyandy ñembojuehe emo
 main-context-menu-send-to-mobile-connect-phone3 = Embojuaju mba’e’oka emondo hag̃ua tendaykeita
 main-context-menu-send-to-mobile-connect-phone-from-link = Embojuaju mba’e’oka emondo hag̃ua juajuha
 main-context-menu-send-to-mobile-connect-phone-from-page = Embojuaju mba’e’oka emondo hag̃ua kuatiarogue
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Embojuruja ñembojuehe emondo hag̃ua tendayke
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Embojuaju ne pumbyry
-main-context-menu-send-to-mobile-device-missing =
-    .label = ¿Nderehechái ne mba’e’oka?
 main-context-menu-save-to-pocket =
     .label = Eñongatu kuatiarogue { -pocket-brand-name }-pe
     .accesskey = k

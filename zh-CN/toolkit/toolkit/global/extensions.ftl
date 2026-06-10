@@ -144,12 +144,6 @@ webext-site-perms-description-gated-perms-webserial =
     您可以选择网站能够访问哪些设备。
     
     通常不应允许网站访问串行设备。不当使用可能会导致设备损坏或引发安全问题。
-webext-site-perms-description-gated-perms-serial =
-    此类设备包括微控制器、3D 打印机等通过 USB 或串行端口连接的设备。
-    
-    您可以选择网站能够访问哪些设备。
-    
-    通常不应允许网站访问串行设备。不当使用可能会导致设备损坏或引发安全问题。
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

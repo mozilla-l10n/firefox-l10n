@@ -47,9 +47,6 @@ ipprotection-site-settings-callout-button = Chapì
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Emprova il VPN integrà da { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Zuppenta tia posiziun</a> durant che ti navigheschas cun { -brand-product-name }.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Profitescha da { $maxUsage } GB datas gratuitas per il VPN, mintga mais.
 unauthenticated-get-started = Cumenzar
 site-exclusion-toggle-enabled-1 =
     .label = Utilisar il VPN per questa website
@@ -62,10 +59,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = Il VPN è activà
-ipprotection-connection-status-disconnected = Il VPN è deactivà
-ipprotection-connection-status-excluded = Il VPN è deactivà per questa website
-ipprotection-connection-status-connecting = Il VPN connectescha…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Deactivar il VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -92,16 +85,13 @@ upgrade-vpn-button = Emprova { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Impussibel da connectar cun il VPN
 ipprotection-connection-status-generic-error-description = Emprova anc ina giada en in pèr minutas.
 ipprotection-connection-status-generic-error-try-again = Emprova per plaschair pli tard anc ina giada.
 ipprotection-connection-status-network-error-title-1 = Controllescha tia connexiun cun l’internet
     .aria-label = Controllescha tia connexiun cun l’internet
-ipprotection-connection-status-network-error-title = Controllescha tia connexiun cun l’internet
 ipprotection-connection-status-network-error-description = Ta connectescha cun l’internet ed emprova lura d’activar il VPN.
 ipprotection-connection-status-blocked-error-title-1 = Il VPN n’è betg disponibel
     .aria-label = Il VPN n’è betg disponibel
-ipprotection-connection-status-blocked-error-title = Il VPN n’è betg disponibel
 ipprotection-connection-status-blocked-error-description = Leschas localas n’ans permettan betg da porscher il servetsch da VPN en questa regiun. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

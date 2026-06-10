@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Laajenna sivupalkki hiiren päällä
 sidebar-manage-extensions2 = Hallitse kaikkia laajennuksia
-sidebar-manage-extensions = Hallitse laajennuksia
 sidebar-customize-extensions-header2 = Laajennukset
 sidebar-customize-firefox-tools-header2 =
     .label = Työkalut

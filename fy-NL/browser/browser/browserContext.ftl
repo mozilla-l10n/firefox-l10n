@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Skeakelje Syngronisaasj
 main-context-menu-send-to-mobile-connect-phone3 = Ferbyn in apparaat om ljepblêden te ferstjoeren
 main-context-menu-send-to-mobile-connect-phone-from-link = Ferbyn in apparaat om in keppeling te ferstjoeren
 main-context-menu-send-to-mobile-connect-phone-from-page = Ferbyn in apparaat om in side te ferstjoeren
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Jo telefoan ferbine
-main-context-menu-send-to-mobile-device-missing =
-    .label = Sjogge jo jo apparaat net?
 main-context-menu-save-to-pocket =
     .label = Side bewarje nei { -pocket-brand-name }
     .accesskey = k

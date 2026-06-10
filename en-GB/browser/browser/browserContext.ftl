@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Turn on Sync to Send a 
 main-context-menu-send-to-mobile-connect-phone3 = Connect a Device to Send Tabs
 main-context-menu-send-to-mobile-connect-phone-from-link = Connect a Device to Send a Link
 main-context-menu-send-to-mobile-connect-phone-from-page = Connect a Device to Send a Page
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Enable synchronisation to send a tab
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Connect your phone
-main-context-menu-send-to-mobile-device-missing =
-    .label = Don’t see your device?
 main-context-menu-save-to-pocket =
     .label = Save Page to { -pocket-brand-name }
     .accesskey = k

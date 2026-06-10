@@ -273,6 +273,3 @@ places-locked-prompt = A könyvjelzők és az előzmények rendszere nem fog mű
 places-share-folder2 =
     .label = Mappa megosztása
     .badge = Új
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Mappa megosztása

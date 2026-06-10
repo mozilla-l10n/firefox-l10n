@@ -156,12 +156,6 @@ webext-site-perms-description-gated-perms-webserial =
     Webguneak atzitu ahal izango dituen gailuak aukeratu ahal izango dituzu.
     
     Webguneak oro har ez dute serieko gailurik atzitzeko baimenik. Erabilpen okerrak kalteak eragin edo segurtasuna arriskuan jar lezake.
-webext-site-perms-description-gated-perms-serial =
-    Hauek USB edo serieko ataka bidez konektatzen diren mikrokontrolagailu, 3D inprimagailu edo bestelako gailuak dira.
-    
-    Webguneak atzitu ahal izango dituen gailuak aukeratu ahal izango dituzu.
-    
-    Webguneak oro har ez dute serieko gailurik atzitzeko baimenik. Erabilpen okerrak kalteak eragin edo segurtasuna arriskuan jar lezake.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

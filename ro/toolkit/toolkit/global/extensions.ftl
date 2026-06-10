@@ -159,12 +159,6 @@ webext-site-perms-description-gated-perms-webserial =
     Vei putea alege la ce dispozitive va avea acces site-ul web.
     
     În mod normal, site-urile web nu au acces la dispozitive seriale. Utilizarea necorespunzătoare poate duce la defecțiuni sau compromiterea securității.
-webext-site-perms-description-gated-perms-serial =
-    Sunt dispozitive precum microcontrolere, imprimante 3D și alte dispozitive care se conectează prin USB sau porturi seriale.
-    
-    Vei putea alege ce dispozitive poate accesa site-ul.
-    
-    Site-urilor web nu li se permite în mod normal accesul la dispozitive seriale. utilizarea necorespunzătoare poate duce la defecțiuni sau compromiterea securității.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

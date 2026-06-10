@@ -182,8 +182,6 @@ neterror-response-status-code = Flaterkoade: { $responsestatus } { $responsestat
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = It liket derop dat der in probleem is mei jo ynternetferbining
-fp-neterror-illustration-alt =
-    .alt = Yllustraasje fan in foks dy’t nei loskeppele netwurkkabels sjocht.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

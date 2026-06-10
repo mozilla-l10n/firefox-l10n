@@ -42,8 +42,6 @@ fxa-menu-send-to-mobile =
             [few] Pošlji { $tabCount } zavihke na mobilno napravo
            *[other] Pošlji { $tabCount } zavihkov na mobilno napravo
         }
-fxa-menu-send-to-mobile-enable-sync2 = Za pošiljanje zavihka omogočite sinhronizacijo
-fxa-menu-send-to-mobile-connect-phone2 = Poveži telefon
 fxa-menu-send-to-mobile-device-missing2 = Ne vidite svoje naprave?
 fxviewtabrow-send-to-mobile-not-verified = Račun ni potrjen
 fxviewtabrow-send-to-mobile-verify-account = Potrdite svoj račun

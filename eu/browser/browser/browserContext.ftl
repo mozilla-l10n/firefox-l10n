@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Aktibatu sinkronizazioa
 main-context-menu-send-to-mobile-connect-phone3 = Konektatu gailu bat fitxak bidaltzeko
 main-context-menu-send-to-mobile-connect-phone-from-link = Konektatu gailu bat lotura bidaltzeko
 main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat orria bidaltzeko
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Gaitu sinkronizazioa fitxa bidaltzeko
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Konektatu zure telefonoa
-main-context-menu-send-to-mobile-device-missing =
-    .label = Ez duzu zure gailua ikusten?
 main-context-menu-save-to-pocket =
     .label = Gorde orria { -pocket-brand-name }-en
     .accesskey = k

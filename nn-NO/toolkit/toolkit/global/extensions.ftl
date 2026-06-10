@@ -155,12 +155,6 @@ webext-site-perms-description-gated-perms-webserial =
     Du vil kunne velje kva einingar nettstaden kan få tilgang til.
     
     Nettstadar har vanlegvis ikkje lov til å få tilgang til serielle einingar. Feil bruk kan føre til skade eller kompromiss i sikkerheita.
-webext-site-perms-description-gated-perms-serial =
-    Dette er einingar som mikrokontrollerarar, 3D-skrivarar og andre einingar som koplar til via USB eller serielle portar.
-    
-    Du vil kunne velje kva einingar nettstaden kan få tilgang til.
-    
-    Nettstadar har vanlegvis ikkje lov til å få tilgang til serielle einingar. Feil bruk kan føre til skade eller kompromiss i sikkerheita.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

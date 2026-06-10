@@ -273,6 +273,3 @@ places-locked-prompt = Het bladwijzer- en geschiedenissysteem zal niet werken, o
 places-share-folder2 =
     .label = Map delen
     .badge = Nieuw
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Map delen

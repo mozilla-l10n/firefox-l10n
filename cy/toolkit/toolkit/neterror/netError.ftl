@@ -182,8 +182,6 @@ neterror-response-status-code = Cod gwall: { $responsestatus } { $responsestatus
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Mae'n ymddangos bod problem gyda'ch cysylltiad rhyngrwyd
-fp-neterror-illustration-alt =
-    .alt = Darlun o lwynog yn edrych ar geblau rhwydwaith sydd wedi'u datgysylltu.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } ljepblêd nei mobyl ferstjoere
            *[other] { $tabCount } ljepblêden nei mobyl ferstjoere
         }
-fxa-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
-fxa-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine
 fxa-menu-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
 fxviewtabrow-send-to-mobile-not-verified = Account net ferifiearre
 fxviewtabrow-send-to-mobile-verify-account = Jo account ferifiearje

@@ -170,11 +170,6 @@ about-glean-no-data-to-display = Нема података за приказ.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> метрика још увек није подржана у <code>about:glean</code> приказу.
 about-glean-unknown-metric-type-warning = Непозната врста метрике.
-about-glean-enable-new-features-promo =
-    .message = Радимо на додавању нових функција! Оне су још увек у активном развоју, али кликните на дугме овде ако желите да их омогућите.
-    .heading = Нове функције су на путу!
-about-glean-enable-new-features-button = Омогући нове функције
-about-glean-disable-new-features-button = Онемогући нове функције
 about-glean-about-data-explanation =
     За листу прикупљених података, погледајте
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } речник</a>.

@@ -73,7 +73,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Expandir barra lateral ao pairar
 sidebar-manage-extensions2 = Gerir todas as extensões
-sidebar-manage-extensions = Gerir extensões
 sidebar-customize-extensions-header2 = Extensões
 sidebar-customize-firefox-tools-header2 =
     .label = Ferramentas

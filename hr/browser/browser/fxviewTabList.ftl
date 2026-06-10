@@ -78,6 +78,4 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Isključi zvuk kartice
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Uključi zvuk kartice
-fxviewtabrow-send-to-mobile-enable-sync2 = Aktiviraj sinkronizaciju za slanje kartice
-fxviewtabrow-send-to-mobile-connect-phone2 = Poveži svoj mobitel
 fxviewtabrow-send-to-mobile-device-missing2 = Ne vidiš svoj uređaj?

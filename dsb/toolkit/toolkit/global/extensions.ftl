@@ -162,12 +162,6 @@ webext-site-perms-description-gated-perms-webserial =
     Móžośo wubraś, ku kótarym rědam websedło móžo pśistup měś.
     
     Websedła pópšawem njesměju pśistup k serijowym rědam měś. Njepšawe wužyśe mógło škódu zawinowaś abo wěstotu pómjeńšyś.
-webext-site-perms-description-gated-perms-serial =
-    Te su rědy kaž mikrokontrolery, 3D-śišćaki a druge rědy, kótarež se pśez USB abo serijowe porty zwězuju.
-    
-    Móžośo wubraś, ku kótarym rědam websedło móžo pśistup měś.
-    
-    Websedła pópšawem njesměju pśistup k serijowym rědam měś. Njepšawe wužyśe mógło škódu zawinowaś abo wěstotu pómjeńšyś.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

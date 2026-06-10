@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Derrec afeggag adisan
-sidebar-manage-extensions = Sefrek isiɣzaf
 
 ## Labels for sidebar context menu items
 

@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Zmóžńće synchroniza
 main-context-menu-send-to-mobile-connect-phone3 = Zwjazajće grat, zo byšće rajtarki pósłał
 main-context-menu-send-to-mobile-connect-phone-from-link = Zwjazajće grat, zo byšće wotkaz pósłał
 main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo byšće stronu pósłał
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Zwjazajće swój telefon
-main-context-menu-send-to-mobile-device-missing =
-    .label = Njewidźiće swój grat?
 main-context-menu-save-to-pocket =
     .label = Stronu pola { -pocket-brand-name } składować
     .accesskey = k

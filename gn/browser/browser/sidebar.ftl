@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Emyasãi tenda yke embohasávo anguja’i
 sidebar-manage-extensions2 = Eñangareko jepysokueitáre
-sidebar-manage-extensions = Eñangareko jepysokuére
 sidebar-customize-extensions-header2 = Jepysokue
 sidebar-customize-firefox-tools-header2 =
     .label = Tembipuru

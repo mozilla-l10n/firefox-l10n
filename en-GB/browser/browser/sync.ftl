@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Send to mobile
            *[other] Send { $tabCount } tabs to mobile
         }
-fxa-menu-send-to-mobile-enable-sync2 = Enable synchronisation to send a tab
-fxa-menu-send-to-mobile-connect-phone2 = Connect your phone
 fxa-menu-send-to-mobile-device-missing2 = Don’t see your device?
 fxviewtabrow-send-to-mobile-not-verified = Account not verified
 fxviewtabrow-send-to-mobile-verify-account = Verify your account

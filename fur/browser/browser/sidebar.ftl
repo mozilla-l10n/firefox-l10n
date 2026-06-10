@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Slargje la sbare laterâl passant sore cul mouse
-sidebar-manage-extensions = Gjestìs estensions
 
 ## Labels for sidebar context menu items
 

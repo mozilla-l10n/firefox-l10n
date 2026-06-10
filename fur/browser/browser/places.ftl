@@ -273,6 +273,3 @@ places-locked-prompt = Il sisteme di segnelibris e cronologjie nol funzionarà p
 places-share-folder2 =
     .label = Condivît cartele
     .badge = Gnûf
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Condivît cartele

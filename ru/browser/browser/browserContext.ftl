@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Включить син
 main-context-menu-send-to-mobile-connect-phone3 = Подключить устройство, чтобы отправить вкладки
 main-context-menu-send-to-mobile-connect-phone-from-link = Подключить устройство, чтобы отправить ссылку
 main-context-menu-send-to-mobile-connect-phone-from-page = Подключить устройство, чтобы отправить страницу
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Включить синхронизацию для отправки вкладки
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Подключите ваш телефон
-main-context-menu-send-to-mobile-device-missing =
-    .label = Не видите ваше устройство?
 main-context-menu-save-to-pocket =
     .label = Сохранить страницу в { -pocket-brand-name }
     .accesskey = ь

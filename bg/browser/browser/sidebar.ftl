@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Разгъване на страничната лента при движение на мишката
-sidebar-manage-extensions = Управление на разширения
 
 ## Labels for sidebar context menu items
 

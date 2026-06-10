@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Sêstu suntune rêt Wi-Fi publiche? Prove la VPN integrade di { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra 5 posizions par platâ il lûc di dulà che tu ti conetis.
 ipprotection-feature-introduction-description-captive-portal = Navighe cuntune protezion in plui platant la tô posizion, ancje cun rêts Wi-Fi publichis.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra diviers lûcs par platâ di dulà che tu ti conetis.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Gjave VPN de sbare d
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Gjave VPN de sbare dai struments
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra 5 posizions par navigâ cun plui riservatece.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Sielç dulà doprâ la VPN
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Capît
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novitât: cambie la tô posizion
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> ti permet di sielzi tra 5 posizions di navigazion, opûr lasse a nô la sielte di chê plui svelte par te.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade in { -brand-product-name }</a> ti permet di sielzi tra diviersis posizions di navigazion, se no lasse che o sedin nô a sielzi chê plui svelte.
 ipprotection-location-selection-callout-primary-button = Provile
 ipprotection-location-selection-callout-secondary-button = Ignore
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Ignore
 unauthenticated-vpn-title = Prove la VPN integrade di { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Plate la tô posizion</a> intant che tu navighis in { -brand-product-name }.
 unauthenticated-private-location-message = Jude a <a data-l10n-name="learn-more-vpn">tignî riservade la tô posizion</a> in { -brand-product-name }.
-unauthenticated-choose-location-message = Sielç tra 5 posizions o lasse a { -brand-product-name } la sielte di chê plui svelte.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Oten { $maxUsage } GB di VPN gratuits ogni mês.
 unauthenticated-choose-location-message-1 = Sielç tra diviersis posizions o lasse che { -brand-product-name } al sielzi chê plui svelte.
 unauthenticated-get-started = Scomence
 unauthenticated-terms-of-service-privacy-notice = Continuant, tu acetis lis <a data-l10n-name="vpn-terms-of-service">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="vpn-privacy-notice">informative su la riservatece</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = La VPN e je ative
-ipprotection-connection-status-disconnected = La VPN e je disativade
-ipprotection-connection-status-excluded = La VPN e je disativade par chest sît
-ipprotection-connection-status-connecting = Conession VPN in cors…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Disative VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Oten { -mozilla-vpn-brand-name }
 upgrade-vpn-title = Oten ancjemò plui protezion, ancje fûr dal navigadôr.
 upgrade-vpn-description = Sielç la posizion de VPN, dopre la VPN su dutis lis tôs aplicazions e fin a 5 dispositîfs, e navighe in sigurece su dutis lis rêts — a cjase o su lis rêts Wi-Fi publichis.
 upgrade-vpn-button = Prove { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = La VPN e je in pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Tu âs doprât ducj i { $maxUsage } GB di dâts disponibii pe VPN. L’acès al vignarà ripristinât e il cont dai dâts azerât cul prossim mês.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = La VPN e je in pause
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Impussibil conetisi ae VPN
 ipprotection-connection-status-generic-error-description = Torne prove ca di pôcs minûts.
 ipprotection-connection-status-generic-error-try-again = Torne prove plui tart.
 ipprotection-connection-status-network-error-title-1 = Controle la tô conession a internet
     .aria-label = Controle la tô conession a internet
-ipprotection-connection-status-network-error-title = Controle la conession a internet
 ipprotection-connection-status-network-error-description = Conetiti a Internet e prove a ativâ la VPN.
 ipprotection-connection-status-blocked-error-title-1 = La VPN no je disponibile
     .aria-label = La VPN no je disponibile
-ipprotection-connection-status-blocked-error-title = La VPN no je disponibile
 ipprotection-connection-status-blocked-error-description = Lis normativis locâls nus impedissin di dâ un servizi VPN in cheste zone. <a data-l10n-name="learn-more-link">Plui informazions</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = VPN integrade
     .description = Oten plui riservatece, platant la tô posizion intant che tu navighis.
 ip-protection-learn-more = Plui informazions
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Prove la VPN integrade di { -brand-short-name }
-    .message = Plate la tô posizion cuant che tu navighis in { -brand-short-name }. Oten { $maxUsage } GB gratuits di dâts VPN ogni mês.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Prove la VPN integrade di { -brand-short-name }
-    .message = Navighe cuntune protezion in plui, platant la tô posizion. Oten { $maxUsage } GB di dâts VPN gratuits ogni mês.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

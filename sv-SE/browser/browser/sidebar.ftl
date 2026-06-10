@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Expandera sidofält vid hovring
 sidebar-manage-extensions2 = Hantera alla tillägg
-sidebar-manage-extensions = Hantera tillägg
 sidebar-customize-extensions-header2 = Tillägg
 sidebar-customize-firefox-tools-header2 =
     .label = Verktyg

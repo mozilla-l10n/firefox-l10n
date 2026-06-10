@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Üzerine gelince kenar çubuğunu genişlet
 sidebar-manage-extensions2 = Tüm uzantıları yönet
-sidebar-manage-extensions = Uzantıları yönet
 sidebar-customize-extensions-header2 = Uzantılar
 sidebar-customize-firefox-tools-header2 =
     .label = Araçlar

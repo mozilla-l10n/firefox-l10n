@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Kapcsolja be a szinkron
 main-context-menu-send-to-mobile-connect-phone3 = Csatlakoztasson egy eszközt a lapok küldéséhez
 main-context-menu-send-to-mobile-connect-phone-from-link = Csatlakoztasson egy eszközt a hivatkozás küldéséhez
 main-context-menu-send-to-mobile-connect-phone-from-page = Csatlakoztasson egy eszközt a lap küldéséhez
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Lap küldéséhez engedélyezze a szinkronizálást
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Csatlakoztassa a telefonját
-main-context-menu-send-to-mobile-device-missing =
-    .label = Nem látja az eszközét?
 main-context-menu-save-to-pocket =
     .label = Oldal mentése a { -pocket-brand-name }be
     .accesskey = k

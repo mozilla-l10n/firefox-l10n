@@ -42,8 +42,6 @@ fxa-menu-send-to-mobile =
             [few] { $tabCount } rejtariki na mobilny rěd pósłaś
            *[other] { $tabCount } rejtarikow na mobilny rěd pósłaś
         }
-fxa-menu-send-to-mobile-enable-sync2 = Zmóžniśo synchronizaciju, aby rejtarik pósłał
-fxa-menu-send-to-mobile-connect-phone2 = Zwěžćo swój telefon
 fxa-menu-send-to-mobile-device-missing2 = Njewiźiśo swój rěd?
 fxviewtabrow-send-to-mobile-not-verified = Konto njejo pśeglědane
 fxviewtabrow-send-to-mobile-verify-account = Pśeglědajśo swójo konto

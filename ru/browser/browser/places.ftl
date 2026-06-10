@@ -276,6 +276,3 @@ places-locked-prompt = Работа с закладками и журналом 
 places-share-folder2 =
     .label = Поделиться папкой
     .badge = Новое
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Поделиться папкой

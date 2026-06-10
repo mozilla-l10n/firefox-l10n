@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Eiporu ore <a d
 ipprotection-feature-introduction-description-private-browsing = Ñeikundaha ñemo’ãve ndive oñomívo péicha pe hendaite, taha’e jepe ovetã ñemíme.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = ¿Eike Wi-Fi rupive? Eiporu VPN jehe’apyre { -brand-product-name }
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo 5 tendaite apytégui eñomi hag̃ua eikundahaha.
 ipprotection-feature-introduction-description-captive-portal = Ñeikundaha ñemo’ãve ndive oñomívo hendaite, taha’e Wi-Fi ojeporukuaávape.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo heta tendaite apytégui eñomi hag̃ua eikundahaha.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Embogue VPN tembipor
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Embogue VPN tembiporu rupágui
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = VPN ojuajupyréva <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> rehegua oipytyvõ omo’ã hag̃ua ne ñeikundaha. Eiporavo 5 hendágui eikundaha ñemi hag̃ua.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Eiporavo moõpa eiporúta VPN
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Aikũmby
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Ipyahu: Emoambue ne rendaite
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } VPN joajupyre</a> oheja eiporavóvo 5 kundahára rendaite térã ikatu jaiporavo ijehegui ipya’evéva ndéve g̃uarã.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } VPN joajupyre</a> oheja eiporavóvo heta kundahára rendaite pa’ũme térã ikatu jaiporavo ijehegui ipya’evéva ndéve g̃uarã.
 ipprotection-location-selection-callout-primary-button = Eha’ã jey
 ipprotection-location-selection-callout-secondary-button = Emboyke
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Emboyke
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
 unauthenticated-private-location-message = Eipytyvõ <a data-l10n-name="learn-more-vpn">ereko ne rendaite ñemíme</a> { -brand-product-name } ndive.
-unauthenticated-choose-location-message = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Ereko { $maxUsage } GB VPN mba’ekuaarã reiete jasygua.
 unauthenticated-choose-location-message-1 = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
 unauthenticated-get-started = Eñepyrũ
 unauthenticated-terms-of-service-privacy-notice = Eku’e jeývo, emoneĩ ko’ã <a data-l10n-name="vpn-terms-of-service">ñepytyvõrã mboguata</a> ha pe <a data-l10n-name="vpn-privacy-notice">ñemigua marandu’i</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN hendy
-ipprotection-connection-status-disconnected = VPN ogue
-ipprotection-connection-status-excluded = VPN ogue ko tendápe g̃uarã
-ipprotection-connection-status-connecting = Pe VPN oikehína…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Embogue VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Ereko { -mozilla-vpn-brand-name }
 upgrade-vpn-title = Erekóta ñemo’ãve kundahára riregua
 upgrade-vpn-description = Eiporavo VPN rendaite, eiporu VPN opaite tembiporu’ípe ha 5 mba’e’oka peve, ha eime tekorosãme oimeraẽva ñandutípe — nde rógape térã Wi-Fi-pe.
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN opytáva
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Ojeporupa { $maxUsage } GB mba’ekuaarã nde VPN-gua. Jeike oikojeýta ambue jasýpe.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN opytáva
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Ndaikatúi eike VPN-pe
 ipprotection-connection-status-generic-error-description = Eha’ã jey ndahetái aravo’i rire.
 ipprotection-connection-status-generic-error-try-again = Eha’ã jey ag̃amieve.
 ipprotection-connection-status-network-error-title-1 = Ehecha oiko porãpa ne ñanduti
     .aria-label = Ehecha oiko porãpa ne ñanduti
-ipprotection-connection-status-network-error-title = Ehecha oiko porãpa ne ñanduti
 ipprotection-connection-status-network-error-description = Eike ñandutípe, upéi ikatukuaáma emyady upe VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN ndojeporukuaái
     .aria-label = VPN ndojeporukuaái
-ipprotection-connection-status-blocked-error-title = VPN ndojeporukuaái
 ipprotection-connection-status-blocked-error-description = Umi léi tendaguáva nomboykéi pe VPN mba’eporu ko tenda guasúpe. <a data-l10n-name="learn-more-link">Eikuaave</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = VPN juajupyre
     .description = Ehupyty tekoñemive emokañývo ne rendaite eikundaha aja.
 ip-protection-learn-more = Eikuaave
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Eiporu VPN jehe’apyre { -brand-short-name }
-    .message = Eñomi ne rendaite eikunda aja { -brand-short-name }. Ereko { $maxUsage } GB mba’ekuaarã VPN rei jasy pukukue.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Eiporu VPN jehe’apyre { -brand-short-name }
-    .message = Eikundaha ñemo’ã ndive emokañývo ne rendaite. Ehupyty { $maxUsage } GB VPN mba’ekuaarã reiete opaite jasýpe.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

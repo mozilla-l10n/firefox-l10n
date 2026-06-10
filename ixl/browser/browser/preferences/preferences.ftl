@@ -58,8 +58,6 @@ confirm-browser-language-change-button = B'anb'e as a xe'tisa
 
 ## General Section - Files and Applications
 
-downloads-header-2 =
-    .label = Eq'omal ku'tzan
 download-header = Eq'omal ku'tzan
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)

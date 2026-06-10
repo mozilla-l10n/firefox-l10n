@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Extinde bara laterală în momentul plasării cursorului pe ea
 sidebar-manage-extensions2 = Gestionează toate extensiile
-sidebar-manage-extensions = Gestionează extensiile
 sidebar-customize-extensions-header2 = Extensii
 sidebar-customize-firefox-tools-header2 =
     .label = Instrumente

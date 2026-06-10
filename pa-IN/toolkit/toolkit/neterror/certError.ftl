@@ -196,8 +196,6 @@ certerror-mitm-title = ਸਾਫਟਵੇਅਰ { -brand-short-name } ਨੂੰ 
 
 fp-certerror-page-title = ਸਾਵਧਾਨ: ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ
 fp-certerror-body-title = ਧਿਆਨ ਰੱਖੋ। ਕੁਝ ਸਹੀ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।
-fp-certerror-illustration-alt =
-    .alt = ਸੰਤਰੀ ਚੇਤਾਵਨੀ ਚਿੰਨ੍ਹ ਨੂੰ ਵੇਖਣ ਵਾਲੀ ਲੂੰਬੜੀ ਦਾ ਚਿੱਤਰ ਹੈ।
 fp-certerror-why-site-dangerous = ਸਾਈਟ ਨੂੰ ਖ਼ਤਰਨਾਕ ਕੀ ਬਣਾਉਂਦਾ ਹੈ?
 fp-certerror-what-can-you-do = ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?
 fp-certerror-advanced-title = ਤਕਨੀਕੀ

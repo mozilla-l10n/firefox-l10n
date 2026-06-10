@@ -646,8 +646,6 @@ newtab-widget-lists-button-add-item = Engadir un elemento
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Engadir un elemento
     .aria-label = Engadir un elemento
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Engadir un elemento
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

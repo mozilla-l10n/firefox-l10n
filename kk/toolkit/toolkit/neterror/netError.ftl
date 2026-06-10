@@ -182,8 +182,6 @@ neterror-response-status-code = Қате коды: { $responsestatus } { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Интернет байланысыңызда мәселе бар сияқты
-fp-neterror-illustration-alt =
-    .alt = Ажыратылған желілік кабельдерге қарап тұрған түлкінің суреті.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

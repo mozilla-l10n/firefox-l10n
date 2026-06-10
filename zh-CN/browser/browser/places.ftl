@@ -267,6 +267,3 @@ places-locked-prompt = 由于某个 { -brand-short-name } 的文件正被其他�
 places-share-folder2 =
     .label = 分享文件夹
     .badge = 新
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = 共享文件夹

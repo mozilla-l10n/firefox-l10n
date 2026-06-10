@@ -273,6 +273,3 @@ places-locked-prompt = It blêdwizer- en skiednissysteem sil net funksjoneel wê
 places-share-folder2 =
     .label = Map diele
     .badge = Nij
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Map diele

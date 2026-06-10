@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
 sidebar-manage-extensions2 = ניהול כל ההרחבות
-sidebar-manage-extensions = ניהול הרחבות
 sidebar-customize-extensions-header2 = הרחבות
 sidebar-customize-firefox-tools-header2 =
     .label = כלים

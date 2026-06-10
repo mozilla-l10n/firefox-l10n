@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Bocnicu pód kursorom pokazaś
 sidebar-manage-extensions2 = Wšykne rozšyrjenja zastojaś
-sidebar-manage-extensions = Rozšyrjenja zastojaś
 sidebar-customize-extensions-header2 = Rozšyrjenja
 sidebar-customize-firefox-tools-header2 =
     .label = Rědy

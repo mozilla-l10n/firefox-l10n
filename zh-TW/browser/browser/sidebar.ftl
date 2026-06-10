@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = 在滑鼠移到上方時展開
 sidebar-manage-extensions2 = 管理所有擴充套件
-sidebar-manage-extensions = 管理擴充套件
 sidebar-customize-extensions-header2 = 擴充套件
 sidebar-customize-firefox-tools-header2 =
     .label = 工具

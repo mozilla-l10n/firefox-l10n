@@ -39,8 +39,6 @@ fxa-menu-send-to-mobile =
             [few] Пошаљи { $tabCount } језичка на мобилни
            *[other] Пошаљи { $tabCount } језичака на мобилни
         }
-fxa-menu-send-to-mobile-enable-sync2 = Омогућите усклађивање да бисте послали језичак
-fxa-menu-send-to-mobile-connect-phone2 = Повежите свој телефон
 fxa-menu-send-to-mobile-device-missing2 = Не видите свој уређај?
 fxviewtabrow-send-to-mobile-not-verified = Налог није потврђен
 fxviewtabrow-send-to-mobile-verify-account = Потврдите ваш налог

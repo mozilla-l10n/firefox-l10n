@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Bóčnicu pod kursorom pokazać
 sidebar-manage-extensions2 = Wšě rozšěrjenja rjadować
-sidebar-manage-extensions = Rozšěrjenja rjadować
 sidebar-customize-extensions-header2 = Rozšěrjenja
 sidebar-customize-firefox-tools-header2 =
     .label = Nastroje

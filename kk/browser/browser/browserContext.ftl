@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Бетті жіберу
 main-context-menu-send-to-mobile-connect-phone3 = Беттерді жіберу үшін құрылғыны қосыңыз
 main-context-menu-send-to-mobile-connect-phone-from-link = Сілтемені жіберу үшін құрылғыны қосыңыз
 main-context-menu-send-to-mobile-connect-phone-from-page = Бетті жіберу үшін құрылғыны қосыңыз
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Бетті жіберу үшін синхрондауды іске қосыңыз
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Телефоныңызды байланыстырыңыз
-main-context-menu-send-to-mobile-device-missing =
-    .label = Құрылғыңыз көрінбей ме?
 main-context-menu-save-to-pocket =
     .label = Бетті { -pocket-brand-name }-ке сақтау
     .accesskey = k

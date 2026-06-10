@@ -670,8 +670,6 @@ newtab-widget-lists-button-add-item = Bæta við atriði
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Bæta við atriði
     .aria-label = Bæta við atriði
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Bæta við atriði
 newtab-widget-lists-input-error = Settu inn texta til að bæta við atriði.
 newtab-widget-lists-input-menu-open-link = Opna tengil
 newtab-widget-lists-input-menu-move-up = Færa upp
@@ -689,9 +687,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nýr listi
     .aria-label = Breyta heiti á lista
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Nýr listi
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

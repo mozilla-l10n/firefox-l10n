@@ -42,8 +42,6 @@ choose-button =
 
 ## General Section - Files and Applications
 
-downloads-header-2 =
-    .label = Anchitarakua keskukuecha
 download-header = Anchitarakua keskukuecha
 applications-type-column =
     .label = Najasi ukua

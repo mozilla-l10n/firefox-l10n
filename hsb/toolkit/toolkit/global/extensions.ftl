@@ -162,12 +162,6 @@ webext-site-perms-description-gated-perms-webserial =
     Móžeće wubrać, ke kotrym gratam websydło móže přistup měć.
     
     Websydła poprawom njesmědźa přistup k serijowym gratam měć. Njeprawe wužiće móhło škodu zawinować abo wěstotu pomjeńšić.
-webext-site-perms-description-gated-perms-serial =
-    Te su graty kaž mikrokontrolery, 3D-ćišćaki a druhe graty, kotrež so přez USB abo serijowe porty zwjazuja.
-    
-    Móžeće wubrać, ke kotrym gratam websydło móže přistup měć.
-    
-    Websydła poprawom njesmědźa přistup k serijowym gratam měć. Njeprawe wužiće móhło škodu zawinować abo wěstotu pomjeńšić.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

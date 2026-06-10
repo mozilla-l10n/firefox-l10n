@@ -143,13 +143,6 @@ tab-context-send-to-mobile =
            *[other] Gửi { $tabCount } thẻ tới điện thoại
         }
     .accesskey = n
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Bật đồng bộ hoá để gửi một thẻ
-tab-context-send-to-mobile-connect-phone =
-    .label = Kết nối điện thoại của bạn
-tab-context-send-to-mobile-device-missing =
-    .label = Không thấy thiết bị của bạn?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Tạo liên kết có thể chia sẻ

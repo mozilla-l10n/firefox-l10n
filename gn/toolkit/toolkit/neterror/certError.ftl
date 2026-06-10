@@ -186,8 +186,6 @@ certerror-mitm-title = Ko software ojokohína { -brand-short-name } ani oike ko 
 
 fp-certerror-page-title = Kyhyjerã: Tekorosã ñembyaikuaa
 fp-certerror-body-title = Ema’ẽke. Oĩvaicha iporãmba’ỹva.
-fp-certerror-illustration-alt =
-    .alt = Peteĩ aguara ra’ãnga oma’ẽva kyhyjerã narãva rehe.
 fp-certerror-why-site-dangerous = ¿Mba’érevaicha upe tenda ivaikuaa?
 fp-certerror-what-can-you-do = ¿Mba’e ikatu rejapo upéicharõ?
 fp-certerror-advanced-title = Opapotáva

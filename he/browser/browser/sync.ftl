@@ -37,8 +37,6 @@ fxa-menu-send-to-mobile =
             [1] שליחה לנייד
            *[other] שליחת { $tabCount } לשוניות לנייד
         }
-fxa-menu-send-to-mobile-enable-sync2 = יש להפעיל סנכרון כדי לשלוח לשונית
-fxa-menu-send-to-mobile-connect-phone2 = חיבור לטלפון שלך
 fxa-menu-send-to-mobile-device-missing2 = לא רואה את המכשיר שלך?
 fxviewtabrow-send-to-mobile-not-verified = חשבון לא מאומת
 fxviewtabrow-send-to-mobile-verify-account = אימות החשבון שלך

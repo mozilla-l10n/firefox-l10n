@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } Tab an Mobilgerät senden
            *[other] { $tabCount } Tabs an Mobilgerät senden
         }
-fxa-menu-send-to-mobile-enable-sync2 = Synchronisation zum Senden eines Tabs aktivieren
-fxa-menu-send-to-mobile-connect-phone2 = Verbinden Sie Ihr Telefon
 fxa-menu-send-to-mobile-device-missing2 = Sie sehen Ihr Gerät nicht?
 fxviewtabrow-send-to-mobile-not-verified = Konto nicht verifiziert
 fxviewtabrow-send-to-mobile-verify-account = Verifizieren Sie Ihr Konto

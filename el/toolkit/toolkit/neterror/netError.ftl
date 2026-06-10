@@ -182,8 +182,6 @@ neterror-response-status-code = Κωδικός σφάλματος: { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με τη σύνδεσή σας στο διαδίκτυο
-fp-neterror-illustration-alt =
-    .alt = Απεικόνιση μιας αλεπούς που κοιτάζει αποσυνδεδεμένα καλώδια δικτύου.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

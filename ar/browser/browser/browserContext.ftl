@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = شغّل المزامن
 main-context-menu-send-to-mobile-connect-phone3 = صلّ جهاز لإرسال ألسنة
 main-context-menu-send-to-mobile-connect-phone-from-link = صلّ جهاز لإرسال رابط
 main-context-menu-send-to-mobile-connect-phone-from-page = صلّ جهاز لإرسال صفحة
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = فعِّل المزامنة لإرسال لسان
-main-context-menu-send-to-mobile-connect-phone =
-    .label = صل جوالك
-main-context-menu-send-to-mobile-device-missing =
-    .label = ألا ترى جهازك؟
 main-context-menu-save-to-pocket =
     .label = احفظ الصفحة في { -pocket-brand-name }
     .accesskey = ح

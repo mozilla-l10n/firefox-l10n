@@ -37,8 +37,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } бетті мобильді құрылғыға жіберу
            *[other] { $tabCount } бетті мобильді құрылғыға жіберу
         }
-fxa-menu-send-to-mobile-enable-sync2 = Бетті жіберу үшін синхрондауды іске қосыңыз
-fxa-menu-send-to-mobile-connect-phone2 = Телефоныңызды байланыстырыңыз
 fxa-menu-send-to-mobile-device-missing2 = Құрылғыңыз көрінбей ме?
 fxviewtabrow-send-to-mobile-not-verified = Тіркелгі расталмаған
 fxviewtabrow-send-to-mobile-verify-account = Тіркелгіңізді растаңыз

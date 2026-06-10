@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } tabblad naar mobiel verzenden
            *[other] { $tabCount } tabbladen naar mobiel verzenden
         }
-fxa-menu-send-to-mobile-enable-sync2 = Schakel synchronisatie in om een tabblad te verzenden
-fxa-menu-send-to-mobile-connect-phone2 = Uw telefoon verbinden
 fxa-menu-send-to-mobile-device-missing2 = Ziet u uw apparaat niet?
 fxviewtabrow-send-to-mobile-not-verified = Account niet geverifieerd
 fxviewtabrow-send-to-mobile-verify-account = Verifieer uw account

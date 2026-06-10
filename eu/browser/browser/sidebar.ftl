@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Zabaldu alboko barra sagua gainetik pasatzean
 sidebar-manage-extensions2 = Kudeatu hedapen guztiak
-sidebar-manage-extensions = Kudeatu hedapenak
 sidebar-customize-extensions-header2 = Hedapenak
 sidebar-customize-firefox-tools-header2 =
     .label = Tresnak

@@ -670,8 +670,6 @@ newtab-widget-lists-button-add-item = Agiuntar in element
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Agiuntar in element
     .aria-label = Agiuntar in element
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Agiuntar in element
 newtab-widget-lists-input-error = Endatescha per plaschair text per agiuntar in element.
 newtab-widget-lists-input-menu-open-link = Avrir la colliaziun
 newtab-widget-lists-input-menu-move-up = Spustar ensi
@@ -689,9 +687,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nova glista
     .aria-label = Modifitgar il num da la glista
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Nova glista
 newtab-widget-section-title = Widgets
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =

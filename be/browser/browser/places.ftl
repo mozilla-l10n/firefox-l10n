@@ -276,6 +276,3 @@ places-locked-prompt = Сістэма гісторыі і закладак не 
 places-share-folder2 =
     .label = Падзяліцца папкай
     .badge = Новае
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Падзяліцца папкай

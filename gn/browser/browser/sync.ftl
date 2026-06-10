@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] Emondo { $tabCount } tendayke pumbyrýpe
            *[other] Emondo { $tabCount } tendaykeita pumbyrýpe
         }
-fxa-menu-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
-fxa-menu-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 fxa-menu-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
 fxviewtabrow-send-to-mobile-not-verified = Mba’ete ojehechajey’ỹva
 fxviewtabrow-send-to-mobile-verify-account = Ehechajey ne mba’ete

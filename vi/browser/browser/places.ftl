@@ -267,6 +267,3 @@ places-locked-prompt = Hệ thống các dấu trang và lịch sử sẽ không
 places-share-folder2 =
     .label = Chia sẻ thư mục
     .badge = Mới
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Chia sẻ thư mục

@@ -42,8 +42,6 @@ fxa-menu-send-to-mobile =
             [many] Odeslat { $tabCount } panelů do mobilu
            *[other] Odeslat { $tabCount } panelů do mobilu
         }
-fxa-menu-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
-fxa-menu-send-to-mobile-connect-phone2 = Připojit svůj telefon
 fxa-menu-send-to-mobile-device-missing2 = Nevidíte své zařízení?
 fxviewtabrow-send-to-mobile-not-verified = Účet není ověřen
 fxviewtabrow-send-to-mobile-verify-account = Ověřte svůj účet

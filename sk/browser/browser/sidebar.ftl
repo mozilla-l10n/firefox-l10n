@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Po umiestnení kurzora myši rozbaliť bočný panel
 sidebar-manage-extensions2 = Spravovať všetky rozšírenia
-sidebar-manage-extensions = Spravovať rozšírenia
 sidebar-customize-extensions-header2 = Rozšírenia
 sidebar-customize-firefox-tools-header2 =
     .label = Nástroje

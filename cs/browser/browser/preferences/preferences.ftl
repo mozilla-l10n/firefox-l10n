@@ -62,7 +62,6 @@ category-home =
 pane-search-title = Vyhledávání
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title2 = Soukromí a zabezpečení
 pane-privacy-section =
     .heading = Soukromí a zabezpečení
 pane-privacy-title = Soukromí a zabezpečení
@@ -73,9 +72,6 @@ pane-ai-controls-title2 = Ovládání AI
     .title = Ovládání AI
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-ai-controls-title = Ovládání AI
-category-ai-controls =
-    .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = O aplikaci { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vzhled
@@ -440,18 +436,8 @@ appearance-group2 =
 preferences-web-appearance-choice-auto3 =
     .label = Systém
     .title = Automaticky mění pozadí a obsah webových stránek podle nastavení systému a motivu aplikace { -brand-short-name }.
-appearance-group =
-    .label = Vzhled webových stránek
-    .description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
 preferences-web-appearance-header = Vzhled webových stránek
 preferences-web-appearance-description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
-preferences-web-appearance-choice-auto2 =
-    .label = Automatický
-    .title =
-        { -brand-short-name.case-status ->
-            [with-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
-           *[no-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
-        }
 preferences-web-appearance-choice-light2 =
     .label = Světlý
     .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným motivem.
@@ -522,12 +508,6 @@ preferences-colors-manage-button =
     .accesskey = b
 preferences-fonts-header2 =
     .label = Písma
-default-font-2 =
-    .label = Výchozí písmo
-    .accesskey = p
-default-font-size-2 =
-    .label = Velikost
-    .accesskey = V
 preferences-fonts-header = Písma
 default-font = Výchozí písmo
     .accesskey = p
@@ -536,9 +516,6 @@ default-font-size = Velikost
 advanced-fonts =
     .label = Rozšířené…
     .accesskey = o
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header2 =
-    .label = Velikost stránek
 preferences-default-zoom-label =
     .label = Výchozí velikost
     .accesskey = z
@@ -708,11 +685,6 @@ download-always-ask-where2 =
 download-private-browsing-delete2 =
     .label = Při zavření smazat soubory stažené v anonymním okně
     .accesskey = P
-downloads-header-2 =
-    .label = Stahování
-download-save-where-2 =
-    .label = Ukládat všechny soubory do složky
-    .accesskey = v
 download-header = Stahování
 download-save-where = Ukládat všechny soubory do složky
     .accesskey = v
@@ -730,12 +702,6 @@ download-choose-folder =
 download-always-ask-where =
     .label = U každého souboru se zeptat, kam ho uložit
     .accesskey = a
-download-private-browsing-delete =
-    .label = Smazat soubory stažené při anonymním prohlížení po zavření všech anonymních oken
-    .accesskey = S
-applications-setting =
-    .label = Aplikace
-    .description = Co má { -brand-short-name } dělat se staženými soubory, nebo s aplikacemi, které používáte při prohlížení?
 applications-header = Aplikace
 applications-description = Co má { -brand-short-name } dělat se staženými soubory, nebo s aplikacemi, které používáte při prohlížení?
 applications-setting2 =
@@ -2926,8 +2892,6 @@ related-settings-tabs-browsing-link =
 
 ## AI controls page
 
-preferences-ai-controls-header =
-    .heading = { pane-ai-controls-title }
 preferences-ai-controls-description =
     { -brand-short-name.case-status ->
         [with-cases] Ve { -brand-short-name(case: "loc") } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených pomocí umělé inteligence. Brzy přibudou další možnosti ovládání.
@@ -3133,8 +3097,6 @@ preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
     .label = Blokovat všechny cross-site cookies (může omezit fungování některých stránek)
 preferences-etp-custom-cookie-behavior-block-all =
     .label = Všechny cookies (stránky nemusí fungovat správně)
-preferences-etpc-custom-cookie-behavior-accept-all =
-    .label = Povolit všechny cookies
 preferences-etp-custom-tracking-protection-enabled =
     .label = Sledující obsah
 preferences-etp-custom-tracking-protection-enabled-context =

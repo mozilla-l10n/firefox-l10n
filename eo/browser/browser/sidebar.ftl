@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Malfaldi flankan strion kiam la muso iras super ĝi
 sidebar-manage-extensions2 = Administri ĉiujn etendaĵojn
-sidebar-manage-extensions = Administri etendaĵojn
 sidebar-customize-extensions-header2 = Etendaĵoj
 sidebar-customize-firefox-tools-header2 =
     .label = Iloj

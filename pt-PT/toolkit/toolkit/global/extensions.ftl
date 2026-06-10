@@ -148,12 +148,6 @@ webext-site-perms-description-gated-perms-midi =
     Geralmente, são dispositivos de plug-in, como sintetizadores de áudio, mas também podem estar integrados no seu computador.
     
     Os sites normalmente não têm permissão para aceder a dispositivos MIDI. Uma utilização inadequada pode causar danos ou comprometer a segurança.
-webext-site-perms-description-gated-perms-serial =
-    Estes incluem dispositivos como microcontroladores, impressoras 3D e outros equipamentos que se ligam por USB ou portas série.
-    
-    Poderá selecionar a que dispositivos o site pode aceder.
-    
-    Os sites, por norma, não têm acesso a dispositivos de série. Uma utilização inadequada pode causar danos ou comprometer a segurança.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

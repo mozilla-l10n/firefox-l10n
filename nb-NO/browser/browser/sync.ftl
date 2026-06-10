@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Send til mobil
            *[other] Send { $tabCount } faner til mobil
         }
-fxa-menu-send-to-mobile-enable-sync2 = Aktiver synkronisering for å sende en fane
-fxa-menu-send-to-mobile-connect-phone2 = Koble til telefonen din
 fxa-menu-send-to-mobile-device-missing2 = Ser du ikke enheten din?
 fxviewtabrow-send-to-mobile-not-verified = Konto ikke bekreftet
 fxviewtabrow-send-to-mobile-verify-account = Bekreft kontoen din

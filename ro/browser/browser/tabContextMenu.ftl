@@ -153,13 +153,6 @@ tab-context-send-to-mobile =
            *[other] Trimite { $tabCount } de file către mobil
         }
     .accesskey = n
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Activează sincronizarea ca să trimiți o filă
-tab-context-send-to-mobile-connect-phone =
-    .label = Conectează-te la telefon
-tab-context-send-to-mobile-device-missing =
-    .label = Nu vezi dispozitivul?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Creează un link partajabil

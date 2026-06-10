@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo na�
 ipprotection-feature-introduction-description-private-browsing = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo gaby wy był w priwatnem woknje.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = W zjawnem WLAN? Wopytajśo zatwarjony VPN { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Wubjeŕśo z 5 stojnišćow, aby schował, źož pśeglědujośo, aby <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> dostał.
 ipprotection-feature-introduction-description-captive-portal = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo w zjawnem WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Wubjeŕśo z někotarych stojnišćow, aby schował, źož pśeglědujośo, aby <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> dostał.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje r
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN ze symboloweje rědki wótwónoźeś
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga wašo pśeglědowanje šćitaś. Wubjeŕśo z 5 stojnišćow, źož cośo priwatnjej pśeglědowaś.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wubjeŕśo, źož cośo VPN wužywaś
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Som zrozměł
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nowy: Změńśo swójo stojnišćo
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> wam zmóžnja, z 5 stojnišćow pśeglědowanja wubraś abo se nejmalsnjej za was wubraś.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> wam zmóžnja, z někotarych stojnišćow pśeglědowanja wubraś abo se nejmalsnjej za was wubraś.
 ipprotection-location-selection-callout-primary-button = Wopytajśo jen
 ipprotection-location-selection-callout-secondary-button = Zachyśiś
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Zachyśiś
 unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajśo swójo stojnišćo</a>, mjaztym až w { -brand-product-name } pśeglědujośo.
 unauthenticated-private-location-message = Pomaga w { -brand-product-name } <a data-l10n-name="learn-more-vpn">wašo stojnišćo priwatne źaržaś</a>.
-unauthenticated-choose-location-message = Wubjeŕśo z 5 stojnišćow abo dajśo { -brand-product-name } nejmalsnjejše wubraś.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
 unauthenticated-choose-location-message-1 = Wubjeŕśo z někotarych stojnišćow abo dajśo { -brand-product-name } nejmalsnjejše wubraś.
 unauthenticated-get-started = Prědne kšace
 unauthenticated-terms-of-service-privacy-notice = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="vpn-terms-of-service">wužywańskich wuměnjenjow</a> a <a data-l10n-name="vpn-privacy-notice">powěźeńki priwatnosći</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN jo zmóžnjony
-ipprotection-connection-status-disconnected = VPN jo znjemóžnjony
-ipprotection-connection-status-excluded = VPN jo za toś to sedło znjemóžnjony
-ipprotection-connection-status-connecting = VPN se zwězujo…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = VPN znjemóžniś
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobsta
 upgrade-vpn-title = Wobstarajśo se pśidatny šćit zwenka wobglědowaka
 upgrade-vpn-description = Wubjeŕśo swójo stojnišćo VPN, wužywajśo VPN za wšykne swóje nałoženja a na až do 5 rědach a wóstańśo wěsty w kuždej seśi – doma abo w zjawnem WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wopytaś
-ipprotection-connection-status-paused-title-1 = VPN jo zastajony
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN jo zastajony
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Zwisk z VPN njejo móžny
 ipprotection-connection-status-generic-error-description = Wopytajśo za mało minutow hyšći raz.
 ipprotection-connection-status-generic-error-try-again = Wopytajśo pšosym pózdźej hyšći raz.
 ipprotection-connection-status-network-error-title-1 = Pśeglědujśo swój internetny zwisk
     .aria-label = Pśeglědujśo swój internetny zwisk
-ipprotection-connection-status-network-error-title = Pśeglědujśo swój internetny zwisk
 ipprotection-connection-status-network-error-description = Zwěžćo z internetom a wopytajśo pón VPN zmóžniś.
 ipprotection-connection-status-blocked-error-title-1 = VPN njejo k dispoziciji
     .aria-label = VPN njejo k dispoziciji
-ipprotection-connection-status-blocked-error-title = VPN njejo k dispoziciji
 ipprotection-connection-status-blocked-error-description = Lokalne kazni nam zawoboruju, słužbu VPN w toś tom regionje póbitowaś. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Zatwarjony VPN
     .description = Schowajśo swójo stojnišćo pśi pśeglědowanju, aby pśidatnu priwatnosć dostał.
 ip-protection-learn-more = Dalšne informacije
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
-    .message = Schowajśo swójo stojnišćo, mjaztym až z { -brand-short-name } pśeglědujośo. Wobstarajśo se { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
-    .message = Schowajśo swójo stojnišćo, aby z pśidatnym šćitom pśeglědował. Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

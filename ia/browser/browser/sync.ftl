@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] Inviar { $tabCount } scheda a apparato mobile
            *[other] Inviar { $tabCount } schedas a apparato mobile
         }
-fxa-menu-send-to-mobile-enable-sync2 = Activar synchronisation pro inviar al scheda
-fxa-menu-send-to-mobile-connect-phone2 = Connecte tu telephono
 fxa-menu-send-to-mobile-device-missing2 = Non vide tu tu apparato?
 fxviewtabrow-send-to-mobile-not-verified = Conto non verificate
 fxviewtabrow-send-to-mobile-verify-account = Verifica tu conto

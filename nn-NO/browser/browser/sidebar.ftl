@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Utvid sidestolpen ved å halde musepeikaren over
 sidebar-manage-extensions2 = Handsam alle utvidingar
-sidebar-manage-extensions = Handsam utvidingar
 sidebar-customize-extensions-header2 = Utvidingar
 sidebar-customize-firefox-tools-header2 =
     .label = Verktøy

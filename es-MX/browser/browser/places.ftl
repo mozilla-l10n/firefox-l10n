@@ -273,6 +273,3 @@ places-locked-prompt = El sistema del historial y los marcadores no funcionará 
 places-share-folder2 =
     .label = Compartir carpeta
     .badge = Crear
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Compartir carpeta

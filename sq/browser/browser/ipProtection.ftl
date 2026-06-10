@@ -44,9 +44,6 @@ ipprotection-site-settings-callout-button = E mora vesh
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Përfitoni { $maxUsage } GB të dhëna VPN falas çdo muaj.
 unauthenticated-get-started = Fillojani
 site-exclusion-toggle-enabled-1 =
     .label = Përdore VPN-në për këtë sajt
@@ -59,10 +56,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN është e hapur
-ipprotection-connection-status-disconnected = VPN është e mbyllur
-ipprotection-connection-status-excluded = VPN-ja është e mbyllur për këtë sajt
-ipprotection-connection-status-connecting = VPN-ja po lidhet…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Çaktivizoje VPN-në
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -89,16 +82,13 @@ upgrade-vpn-button = Provoni { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = S’u lidh dot me VPN-në
 ipprotection-connection-status-generic-error-description = Riprovoni pas pak minutash.
 ipprotection-connection-status-generic-error-try-again = Ju lutemi, riprovoni më vonë.
 ipprotection-connection-status-network-error-title-1 = Kontrolloni lidhjen tuaj internet
     .aria-label = Kontrolloni lidhjen tuaj internet
-ipprotection-connection-status-network-error-title = Kontrolloni lidhjen tuaj internet
 ipprotection-connection-status-network-error-description = Lidhuni në internet, mandej provoni të hapni VPN-në.
 ipprotection-connection-status-blocked-error-title-1 = VPN-ja s’është e përdorshme
     .aria-label = VPN-ja s’është e përdorshme
-ipprotection-connection-status-blocked-error-title = VPN-ja s’është e përdorshme
 ipprotection-connection-status-blocked-error-description = Ligje vendore na pengojnë të japim shërbim VPN në të këtë rajon. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -142,11 +132,6 @@ ip-protection-description =
     .label = VPN
     .description = VPN e brendshme për të zgjeruar privatësinë tuaj teksa shfletoni në { -brand-short-name }.
 ip-protection-learn-more = Mësoni më tepër
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
-    .message = Fshihni vendndodhjen tuaj teksa shfletoni në { -brand-short-name }. Merrni { $maxUsage } GB të dhëna VPN flas çdo muaj.
 ip-protection-not-opted-in-button = Fillojani
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

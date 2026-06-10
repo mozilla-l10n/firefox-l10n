@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Udvid sidepanel, når markøren holdes over
 sidebar-manage-extensions2 = Håndter alle udvidelser
-sidebar-manage-extensions = Håndter udvidelser
 sidebar-customize-extensions-header2 = Udvidelser
 sidebar-customize-firefox-tools-header2 =
     .label = Funktioner

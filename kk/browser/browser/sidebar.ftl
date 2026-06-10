@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Курсорды апарғанда бүйірлік панельді жаю
 sidebar-manage-extensions2 = Барлық кеңейтулерді басқару
-sidebar-manage-extensions = Кеңейтулерді басқару
 sidebar-customize-extensions-header2 = Кеңейтулер
 sidebar-customize-firefox-tools-header2 =
     .label = Саймандар

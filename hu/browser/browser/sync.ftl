@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] { $tabCount } lap küldése mobilra
            *[other] { $tabCount } lap küldése mobilra
         }
-fxa-menu-send-to-mobile-enable-sync2 = Lap küldéséhez engedélyezze a szinkronizálást
-fxa-menu-send-to-mobile-connect-phone2 = Csatlakoztassa a telefonját
 fxa-menu-send-to-mobile-device-missing2 = Nem látja az eszközét?
 fxviewtabrow-send-to-mobile-not-verified = A fiók nincs ellenőrizve
 fxviewtabrow-send-to-mobile-verify-account = Fiók ellenőrzése

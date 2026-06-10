@@ -64,10 +64,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN-ը միացված է
-ipprotection-connection-status-disconnected = VPN-ը անջատված է
-ipprotection-connection-status-excluded = VPN-ը անջատված է այս կայքի համար
-ipprotection-connection-status-connecting = VPN-ը միանում է…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Անջատել VPN-ը
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -105,21 +101,17 @@ ipprotection-locations-subview-promo-button = Ստանալ { -mozilla-vpn-brand-
 ## VPN paused state
 
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
-ipprotection-connection-status-paused-title-1 = VPN-ը դադարեցված է
 ipprotection-connection-status-paused-title-2 = VPN-ը դադարեցված է
     .aria-label = VPN-ը դադարեցված է
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Չհաջողվեց միանալ VPN-ին
 ipprotection-connection-status-generic-error-description = Փորձեք կրկին մի քանի րոպեից։
 ipprotection-connection-status-generic-error-try-again = Փորձեք ավելի ուշ։
 ipprotection-connection-status-network-error-title-1 = Ստուգեք ձեր համացանցային կապը
     .aria-label = Ստուգեք ձեր համացանցային կապը
-ipprotection-connection-status-network-error-title = Ստուգեք ձեր համացանցային կապը
 ipprotection-connection-status-blocked-error-title-1 = VPN-ը հասանելի չէ
     .aria-label = VPN-ը հասանելի չէ
-ipprotection-connection-status-blocked-error-title = VPN-ը հասանելի չէ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ը անջատված է այս կայքի համար
 ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միանալ VPN-ին
     .aria-label = Չհաջողվեց միանալ VPN-ին
@@ -130,11 +122,6 @@ ip-protection-description-1 =
     .label = Ներկառուցված VPN
     .description = Ստացեք լրացուցիչ գաղտնիություն՝ դիտարկելիս թաքցնելով ձեր տեղադրությունը:
 ip-protection-learn-more = Իմանալ ավելին
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Փորձեք { -brand-short-name }-ի ներկառուցված VPN-ը
-    .message = Թաքցրեք ձեր տեղադրությունը, երբ դիտարկում եք { -brand-short-name }-ով: Ստացեք { $maxUsage } ԳԲ անվճար VPN տվյալներ յուրաքանչյուր ամսի:
 ip-protection-not-opted-in-button = Սկսել
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

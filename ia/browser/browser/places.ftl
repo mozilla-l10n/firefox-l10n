@@ -271,6 +271,3 @@ places-locked-prompt = Le systema de marcapaginas e chronologia non functionara 
 places-share-folder2 =
     .label = Condivider plica
     .badge = Nove
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Condivider plica

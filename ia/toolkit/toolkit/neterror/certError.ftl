@@ -219,8 +219,6 @@ certerror-mitm-title = Un programma impedi que { -brand-short-name } se connecte
 
 fp-certerror-page-title = ATTENTION: Risco de securitate
 fp-certerror-body-title = Attention! Alco non pare correcte.
-fp-certerror-illustration-alt =
-    .alt = Illustration de un vulpe reguardante un indicator de aviso orange.
 fp-certerror-why-site-dangerous = Que face le sito parer periculose?
 fp-certerror-what-can-you-do = Que pote tu facer concernente isto?
 fp-certerror-advanced-title = Avantiate

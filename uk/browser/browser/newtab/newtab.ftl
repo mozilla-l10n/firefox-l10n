@@ -687,8 +687,6 @@ newtab-widget-lists-button-add-item = Додати запис
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Додати запис
     .aria-label = Додати запис
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Додати запис
 newtab-widget-lists-input-error = Введіть текст, щоб додати запис
 newtab-widget-lists-input-menu-open-link = Відкрити посилання
 newtab-widget-lists-input-menu-move-up = Посунути вгору
@@ -706,9 +704,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Новий список
     .aria-label = Редагувати назву списку
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Новий список
 newtab-widget-section-title = Віджети
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =

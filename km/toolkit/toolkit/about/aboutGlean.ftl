@@ -5,4 +5,3 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
-about-glean-enable-new-features-button = បើកដំណើរការមុខងារថ្មីៗ

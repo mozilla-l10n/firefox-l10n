@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Enviar para dispositivo móvel
            *[other] Enviar { $tabCount } separadores para dispositivo móvel
         }
-fxa-menu-send-to-mobile-enable-sync2 = Ative a sincronização para enviar um separador
-fxa-menu-send-to-mobile-connect-phone2 = Ligar o seu telemóvel
 fxa-menu-send-to-mobile-device-missing2 = Não vê o seu dispositivo?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.

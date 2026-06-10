@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Развернуть боковую панель при наведении
 sidebar-manage-extensions2 = Управление всеми расширениями
-sidebar-manage-extensions = Управление расширениями
 sidebar-customize-extensions-header2 = Расширения
 sidebar-customize-firefox-tools-header2 =
     .label = Инструменты

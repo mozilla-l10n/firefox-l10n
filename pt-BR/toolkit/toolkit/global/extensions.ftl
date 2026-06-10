@@ -156,12 +156,6 @@ webext-site-perms-description-gated-perms-webserial =
     Você pode escolher quais dispositivos o site pode acessar.
     
     Os sites normalmente não têm permissão para acessar dispositivos seriais. O uso inadequado pode causar danos ou comprometer a segurança.
-webext-site-perms-description-gated-perms-serial =
-    São dispositivos como microcontroladores, impressoras 3D e outros dispositivos que se conectam via USB ou porta serial.
-    
-    Você pode escolher quais dispositivos o site pode acessar.
-    
-    Os sites normalmente não têm permissão para acessar dispositivos seriais. O uso inadequado pode causar danos ou comprometer a segurança.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

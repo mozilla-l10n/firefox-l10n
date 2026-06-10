@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Sydbalke by oanwizen útklappe
 sidebar-manage-extensions2 = Alle útwreidingen beheare
-sidebar-manage-extensions = Utwreidingen beheare
 sidebar-customize-extensions-header2 = Utwreidingen
 sidebar-customize-firefox-tools-header2 =
     .label = Ark

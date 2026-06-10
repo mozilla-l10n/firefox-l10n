@@ -271,6 +271,3 @@ places-locked-prompt = The bookmarks and history system will not be functional b
 places-share-folder2 =
     .label = Share Folder
     .badge = New
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Share Folder

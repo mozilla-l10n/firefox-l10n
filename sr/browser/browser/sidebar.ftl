@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Прошири бочну траку при лебдењу
 sidebar-manage-extensions2 = Управљај свим додацима
-sidebar-manage-extensions = Управљај додацима
 sidebar-customize-extensions-header2 = Додаци
 sidebar-customize-firefox-tools-header2 =
     .label = Алатке

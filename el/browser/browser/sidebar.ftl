@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
 sidebar-manage-extensions2 = Διαχείριση όλων των επεκτάσεων
-sidebar-manage-extensions = Διαχείριση επεκτάσεων
 sidebar-customize-extensions-header2 = Επεκτάσεις
 sidebar-customize-firefox-tools-header2 =
     .label = Εργαλεία

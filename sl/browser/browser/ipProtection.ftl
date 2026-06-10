@@ -67,10 +67,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN je vklopljen
-ipprotection-connection-status-disconnected = VPN je izklopljen
-ipprotection-connection-status-excluded = VPN je na tem spletnem mestu izklopljen
-ipprotection-connection-status-connecting = VPN se povezuje …
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Izklopi VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -112,16 +108,13 @@ upgrade-vpn-button = Preizkusite { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Povezava z VPN ni bila mogoča
 ipprotection-connection-status-generic-error-description = Poskusite znova čez nekaj minut.
 ipprotection-connection-status-generic-error-try-again = Poskusite znova pozneje.
 ipprotection-connection-status-network-error-title-1 = Preverite svojo povezavo z internetom
     .aria-label = Preverite svojo povezavo z internetom
-ipprotection-connection-status-network-error-title = Preverite svojo povezavo z internetom
 ipprotection-connection-status-network-error-description = Povežite se z internetom in nato poskusite vklopiti VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN ni na voljo
     .aria-label = VPN ni na voljo
-ipprotection-connection-status-blocked-error-title = VPN ni na voljo
 ipprotection-connection-status-blocked-error-description = Lokalna zakonodaja nam prepoveduje zagotavljanje storitve VPN v tej regiji. <a data-l10n-name="learn-more-link">Več o tem</a>
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
 ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mogoča
@@ -137,11 +130,6 @@ ip-protection-description =
     .label = VPN
     .description = Vgrajen VPN za večjo zasebnost pri brskanju s { -brand-short-name(sklon: "orodnik") }
 ip-protection-learn-more = Več o tem
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Preizkusite { -brand-short-name }ov vgrajeni VPN
-    .message = Dodatno se zaščitite med brskanjem in prikrijte svojo lokacijo. { $maxUsage } GB brezplačnih podatkov VPN vsak mesec.
 ip-protection-not-opted-in-button = Začni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

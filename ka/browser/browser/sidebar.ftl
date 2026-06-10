@@ -73,7 +73,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
 sidebar-manage-extensions2 = ყველა გაფართოების მართვა
-sidebar-manage-extensions = გაფართოებების მართვა
 sidebar-customize-extensions-header2 = გაფართოებები
 sidebar-customize-firefox-tools-header2 =
     .label = ხელსაწყოები

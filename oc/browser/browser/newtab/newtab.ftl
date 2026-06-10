@@ -452,9 +452,6 @@ newtab-shortcuts-highlight-subtitle = Apondre un acorchi per gardar vòstres sit
 newtab-widget-lists-label-new =
     .label = Nòu
 newtab-widget-lists-menu-create = Crear una lista novèla
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Lista novèla
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

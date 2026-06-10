@@ -65,7 +65,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Fella út hliðarstikuna við yfirsvif
-sidebar-manage-extensions = Sýsla með forritsauka
 
 ## Labels for sidebar context menu items
 

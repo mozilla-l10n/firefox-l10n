@@ -231,8 +231,6 @@ certerror-mitm-title =
 
 fp-certerror-page-title = Упозорење: Безбедносни ризик
 fp-certerror-body-title = Будите пажљиви. Нешто не изгледа како треба.
-fp-certerror-illustration-alt =
-    .alt = Илустрација лисице која гледа у наранџасти знак упозорења.
 fp-certerror-why-site-dangerous = Шта чини овај сајт опасним?
 fp-certerror-what-can-you-do = Шта можете да урадите поводом тога?
 fp-certerror-advanced-title = Напредно

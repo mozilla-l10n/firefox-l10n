@@ -279,6 +279,3 @@ places-locked-prompt = System cytańskich znamjenjow a historije njebuźo funkci
 places-share-folder2 =
     .label = Zarědnik źěliś
     .badge = Nowy
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Zarědnik źěliś

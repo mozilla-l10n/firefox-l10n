@@ -271,6 +271,3 @@ places-locked-prompt = Laster-marken eta historiaren sistema ezingo da erabili b
 places-share-folder2 =
     .label = Partekatu karpeta
     .badge = Berria
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Partekatu karpeta

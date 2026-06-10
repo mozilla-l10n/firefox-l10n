@@ -78,6 +78,4 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Mute tab
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Unmute tab
-fxviewtabrow-send-to-mobile-enable-sync2 = Enable sync to send a tab
-fxviewtabrow-send-to-mobile-connect-phone2 = Connect your phone
 fxviewtabrow-send-to-mobile-device-missing2 = Don’t See Your Device?

@@ -143,13 +143,6 @@ tab-context-send-to-mobile =
            *[other] 탭 { $tabCount }개를 모바일로 보내기
         }
     .accesskey = n
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = 탭을 보내려면 동기화를 활성화하세요
-tab-context-send-to-mobile-connect-phone =
-    .label = 휴대폰 연결
-tab-context-send-to-mobile-device-missing =
-    .label = 사용자의 기기가 없나요?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = 공유 가능한 링크 만들기

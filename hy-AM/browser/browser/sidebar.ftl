@@ -65,7 +65,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ընդարձակել կողագոտին վրան պահելիս
-sidebar-manage-extensions = Կառավարել ընդլայնումները
 
 ## Labels for sidebar context menu items
 

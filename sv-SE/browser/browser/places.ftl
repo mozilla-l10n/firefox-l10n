@@ -273,6 +273,3 @@ places-locked-prompt = Systemet med bokmärken och historik kommer inte att fung
 places-share-folder2 =
     .label = Dela mapp
     .badge = Ny
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Dela mapp

@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Ehangu'r bar ochr wrth hofran
 sidebar-manage-extensions2 = Rheoli pob estyniad
-sidebar-manage-extensions = Rheoli Estyniadau
 sidebar-customize-extensions-header2 = Estyniadau
 sidebar-customize-firefox-tools-header2 =
     .label = Offer

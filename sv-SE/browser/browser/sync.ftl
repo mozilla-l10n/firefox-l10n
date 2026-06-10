@@ -37,8 +37,6 @@ fxa-menu-send-to-mobile =
             [one] Skicka { $tabCount } flik till mobilen
            *[other] Skicka { $tabCount } flikar till mobilen
         }
-fxa-menu-send-to-mobile-enable-sync2 = Aktivera synkronisering för att skicka en flik
-fxa-menu-send-to-mobile-connect-phone2 = Anslut din telefon
 fxa-menu-send-to-mobile-device-missing2 = Hittar du inte din enhet?
 fxviewtabrow-send-to-mobile-not-verified = Konto inte verifierat
 fxviewtabrow-send-to-mobile-verify-account = Verifiera ditt konto

@@ -47,10 +47,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN er virkt
-ipprotection-connection-status-disconnected = Slökkt er á VPN
-ipprotection-connection-status-excluded = Slökkt er á VPN fyrir þetta vefsvæði
-ipprotection-connection-status-connecting = VPN tengist…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Slökkva á VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -79,7 +75,6 @@ ipprotection-locations-subview-promo-button = Sæktu { -mozilla-vpn-brand-name }
 ## VPN paused state
 
 upgrade-vpn-button = Prófaðu { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN er í biðstöðu
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.

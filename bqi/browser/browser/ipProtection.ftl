@@ -49,10 +49,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN رۊشن هڌ
-ipprotection-connection-status-disconnected = VPN کۊر هڌ
-ipprotection-connection-status-excluded = VPN سی ای وبگه کۊر هڌ
-ipprotection-connection-status-connecting = VPN هونی منپیز ابۊ…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = کۊر کردن VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -79,7 +75,6 @@ upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-network-error-title-1 = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
     .aria-label = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
-ipprotection-connection-status-network-error-title = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 
 ## IP Protection Settings

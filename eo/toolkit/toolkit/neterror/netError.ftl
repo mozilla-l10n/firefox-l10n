@@ -182,8 +182,6 @@ neterror-response-status-code = Erarkodo: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Ŝajne estas problemo kun via retaliro
-fp-neterror-illustration-alt =
-    .alt = Bildo de vulpo, kiu rigardas malkonektitajn retajn kablojn.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

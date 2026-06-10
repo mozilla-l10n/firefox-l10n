@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Za pošiljanje strani v
 main-context-menu-send-to-mobile-connect-phone3 = Za pošiljanje zavihkov povežite drugo napravo
 main-context-menu-send-to-mobile-connect-phone-from-link = Za pošiljanje povezave povežite drugo napravo
 main-context-menu-send-to-mobile-connect-phone-from-page = Za pošiljanje strani povežite drugo napravo
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Za pošiljanje zavihka omogočite sinhronizacijo
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Poveži telefon
-main-context-menu-send-to-mobile-device-missing =
-    .label = Ne vidite svoje naprave?
 main-context-menu-save-to-pocket =
     .label = Shrani stran v { -pocket-brand-name }
     .accesskey = s

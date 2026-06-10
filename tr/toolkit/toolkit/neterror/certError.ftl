@@ -219,8 +219,6 @@ certerror-mitm-title = { -brand-short-name } başka bir yazılım nedeniyle bu s
 
 fp-certerror-page-title = Uyarı: Güvenlik Riski
 fp-certerror-body-title = Dikkatli olun. Doğru görünmeyen bir şeyler var.
-fp-certerror-illustration-alt =
-    .alt = Turuncu bir uyarı işaretine bakan tilki resmi.
 fp-certerror-why-site-dangerous = Bu site neden tehlikeli görünüyor?
 fp-certerror-what-can-you-do = Ne yapabilirsiniz?
 fp-certerror-advanced-title = Gelişmiş

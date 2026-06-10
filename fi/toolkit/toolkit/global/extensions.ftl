@@ -156,12 +156,6 @@ webext-site-perms-description-gated-perms-webserial =
     Voit valita, mitä laitteita verkkosivusto voi käyttää.
     
     Verkkosivustoilla ei yleensä ole oikeutta käyttää sarjaporttilaitteita. Väärinkäyttö voi aiheuttaa vahinkoa tai vaarantaa turvallisuuden.
-webext-site-perms-description-gated-perms-serial =
-    Nämä ovat laitteita, kuten mikrokontrollereita, 3D-tulostimia ja muita laitteita, jotka yhdistetään USB- tai sarjaporttien kautta.
-    
-    Voit valita, mihin laitteisiin verkkosivustolla on pääsy.
-    
-    Verkkosivustoilla ei yleensä ole oikeutta käyttää sarjalaitteita. Väärinkäyttö voi aiheuttaa vahinkoa tai vaarantaa turvallisuuden.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

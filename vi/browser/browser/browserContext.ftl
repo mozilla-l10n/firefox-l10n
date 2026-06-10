@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Bật đồng bộ hóa
 main-context-menu-send-to-mobile-connect-phone3 = Kết nối với thiết bị khác để gửi thẻ
 main-context-menu-send-to-mobile-connect-phone-from-link = Kết nối với thiết bị khác để gửi liên kết
 main-context-menu-send-to-mobile-connect-phone-from-page = Kết nối với thiết bị khác để gửi trang
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Bật đồng bộ hoá để gửi một thẻ
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Kết nối điện thoại của bạn
-main-context-menu-send-to-mobile-device-missing =
-    .label = Không thấy thiết bị của bạn?
 main-context-menu-save-to-pocket =
     .label = Lưu trang vào { -pocket-brand-name }
     .accesskey = k

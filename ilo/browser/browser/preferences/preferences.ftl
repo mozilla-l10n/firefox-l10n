@@ -40,9 +40,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-default-font-size-2 =
-    .label = Kadakkel
-    .accesskey = K
 default-font-size = Kadakkel
     .accesskey = K
 advanced-fonts =
@@ -61,11 +58,6 @@ download-save-files-header =
     .label = Pagidulinan ti intar
 download-save-where-3 =
     .aria-label = Pagidulinan ti intar
-downloads-header-2 =
-    .label = Downloads
-download-save-where-2 =
-    .label = Pagidulinan ti intar
-    .accesskey = v
 download-header = Downloads
 download-save-where = Pagidulinan ti intar
     .accesskey = v

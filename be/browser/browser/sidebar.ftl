@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Разгарнуць бакавую панэль пры навядзенні
 sidebar-manage-extensions2 = Кіраванне ўсімі пашырэннямі
-sidebar-manage-extensions = Кіраваць пашырэннямі
 sidebar-customize-extensions-header2 = Пашырэнні
 sidebar-customize-firefox-tools-header2 =
     .label = Прылады

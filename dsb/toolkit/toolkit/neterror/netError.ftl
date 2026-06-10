@@ -182,8 +182,6 @@ neterror-response-status-code = Zmólkowy kode: { $responsestatus } { $responses
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Zda se, až jo problem z wašym internetnym zwiskom
-fp-neterror-illustration-alt =
-    .alt = Wobraz liški, kótaraž na njezwězane seśowe kable glěda.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

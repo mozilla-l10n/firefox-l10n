@@ -273,6 +273,3 @@ places-locked-prompt = La paĝosigna kaj historia sistemo ne estos aktiva ĉar u
 places-share-folder2 =
     .label = Dividi dosierujon
     .badge = Nova
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Dividi dosierujon

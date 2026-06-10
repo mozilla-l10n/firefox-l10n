@@ -219,8 +219,6 @@ certerror-mitm-title = Programaro malpermesas al { -brand-short-name } sekure ko
 
 fp-certerror-page-title = Averto: sekureca risko
 fp-certerror-body-title = Estu singarda. Io ne ĝustas.
-fp-certerror-illustration-alt =
-    .alt = Bildo de vulpo, kiu rigardas oranĝkoloran avertan ŝildon.
 fp-certerror-why-site-dangerous = Kio igas tiun ĉi retejon aspekti danĝere?
 fp-certerror-what-can-you-do = Kion vi povas fari pri tio?
 fp-certerror-advanced-title = Spertula

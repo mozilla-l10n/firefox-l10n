@@ -308,13 +308,6 @@ main-context-menu-send-to-mobile-sign-in-from-page = Барои фиристод
 main-context-menu-send-to-mobile-enable-sync3 = Барои фиристодани варақаҳо ҳамоҳангсозиро фаъол созед
 main-context-menu-send-to-mobile-enable-sync-from-link = Барои фиристодани пайванд ҳамоҳангсозиро фаъол созед
 main-context-menu-send-to-mobile-enable-sync-from-page = Барои фиристодани саҳифа ҳамоҳангсозиро фаъол созед
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Барои фиристодани варақаҳо ҳамоҳангсозиро фаъол созед
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Телефони худро пайваст кунед
-main-context-menu-send-to-mobile-device-missing =
-    .label = Дастгоҳи худро намебинед?
 main-context-menu-save-to-pocket =
     .label = Нигоҳ доштани саҳифа ба { -pocket-brand-name }
     .accesskey = Н

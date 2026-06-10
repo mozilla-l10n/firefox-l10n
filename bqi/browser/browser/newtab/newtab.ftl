@@ -442,8 +442,6 @@ newtab-widget-lists-button-add-item = ٱووردن ی موورد
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = ٱووردن ی موورد
     .aria-label = ٱووردن ی موورد
-newtab-widget-lists-input-add-an-item =
-    .placeholder = ٱووردن ی موورد
 newtab-widget-lists-input-menu-open-link = گۊشیڌن لینگ
 newtab-widget-lists-input-menu-move-up = جاگورو و روء
 newtab-widget-lists-input-menu-move-down = جاگورو و لم
@@ -460,9 +458,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = نومگه نۊ
     .aria-label = آلشت نومگه نوم
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = نومگه نۊ
 newtab-widget-section-title = ویجتا
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =

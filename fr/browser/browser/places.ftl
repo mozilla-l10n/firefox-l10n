@@ -271,6 +271,3 @@ places-locked-prompt = Le système de marque-pages et d’historique ne sera pas
 places-share-folder2 =
     .label = Partager le dossier
     .badge = Nouveau
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Partager le dossier

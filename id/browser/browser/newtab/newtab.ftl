@@ -639,9 +639,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Daftar baru
     .aria-label = Sunting nama daftar
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Daftar baru
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

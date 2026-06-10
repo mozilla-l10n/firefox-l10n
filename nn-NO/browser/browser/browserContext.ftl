@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Slå på synkronisering
 main-context-menu-send-to-mobile-connect-phone3 = Kople til ei eining for å sende faner
 main-context-menu-send-to-mobile-connect-phone-from-link = Kople til ei eining for å sende ei lenke
 main-context-menu-send-to-mobile-connect-phone-from-page = Kople til ei eining for å sende ei side
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Slå på synkronisering for å sende ei fane
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Kople til telefonen din
-main-context-menu-send-to-mobile-device-missing =
-    .label = Ser du ikkje eininga di?
 main-context-menu-save-to-pocket =
     .label = Lagre sida til { -pocket-brand-name }
     .accesskey = k

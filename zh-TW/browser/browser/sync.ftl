@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] 傳送到行動裝置
            *[other] 傳送 { $tabCount } 個分頁到行動裝置
         }
-fxa-menu-send-to-mobile-enable-sync2 = 開啟同步功能即可傳送分頁
-fxa-menu-send-to-mobile-connect-phone2 = 連結您的手機
 fxa-menu-send-to-mobile-device-missing2 = 沒看到您的裝置嗎？
 fxviewtabrow-send-to-mobile-not-verified = 帳號未驗證
 fxviewtabrow-send-to-mobile-verify-account = 確認您的帳號

@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije 
 ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Brûke jo iepenbiere wifi? Probearje de ynboude VPN fan { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út fiif lokaasjes  om te ferbergjen wêr’t jo sneupe.
 ipprotection-feature-introduction-description-captive-portal = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels op iepenbiere wifi.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út ferskate lokaasjes om te ferbergjen wêr’t jo sneupe.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = VPN fan arkbalke fuo
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN fan arkbalke fuortsmite
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = De ynboude VPN fan <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út fiif lokaasjes om jo navigaasje mear privee te hâlden.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Kies wêr’t jo VPN brûke
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Begrepen
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nij: wizigje jo lokaasje
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Mei de ynboude VPN fan { -brand-product-name }</a> kinne jo kieze út fiif navigaasjelokaasjes, of lit ús de rapste foar jo kieze.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mei de ynboude VPN fan { -brand-product-name }</a> kinne jo kieze út ferskate navigaasjelokaasjes, of lit ús de rapste foar jo kieze.
 ipprotection-location-selection-callout-primary-button = Probearje
 ipprotection-location-selection-callout-secondary-button = Slute
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Slute
 unauthenticated-vpn-title = De ynboude VPN fan { -brand-product-name } probearje
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ferstopje jo lokaasje</a> by it navigearjen yn { -brand-product-name }.
 unauthenticated-private-location-message = Helpt <a data-l10n-name="learn-more-vpn">jo lokaasje privee te hâlden</a> yn { -brand-product-name }.
-unauthenticated-choose-location-message = Kies út fiif lokaasjes of lit { -brand-product-name } de rapste kieze.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Untfang elke moanne { $maxUsage } GB fergees VPN-gegevens.
 unauthenticated-choose-location-message-1 = Kies út ferskate lokaasjes of lit { -brand-product-name } de rapste kieze.
 unauthenticated-get-started = Begjinne
 unauthenticated-terms-of-service-privacy-notice = Troch fierder te gean, geane jo akkoard mei de <a data-l10n-name="vpn-terms-of-service">Tsjinstbetingsten</a> en <a data-l10n-name="vpn-privacy-notice">Privacyferklearring</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN is ynskeakele
-ipprotection-connection-status-disconnected = VPN is útskeakele
-ipprotection-connection-status-excluded = VPN is út foar dizze website
-ipprotection-connection-status-connecting = VPN makket ferbining…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = VPN útskeakelje
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } downlo
 upgrade-vpn-title = Untfang ekstra beskerming bûten de browser
 upgrade-vpn-description = Kies jo VPN-lokaasje, brûk VPN foar al jo apps en maksimaal 5 apparaten, en bliuw feilich op elk netwurk – thús of op iepenbiere wifi.
 upgrade-vpn-button = Probearje { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN is pauzearre
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. De tagong wurdt folgjende moanne opnij ynsteld.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN is pauzearre
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Kin net ferbine mei VPN
 ipprotection-connection-status-generic-error-description = Probearje it oer in pear minuten opnij.
 ipprotection-connection-status-generic-error-try-again = Probearje it letter noch ris.
 ipprotection-connection-status-network-error-title-1 = Kontrolearje jo ynternetferbining
     .aria-label = Kontrolearje jo ynternetferbining
-ipprotection-connection-status-network-error-title = Kontrolearje jo ynternetferbining
 ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dernei VPN yn te skeakeljen.
 ipprotection-connection-status-blocked-error-title-1 = VPN is net beskikber
     .aria-label = VPN is net beskikber
-ipprotection-connection-status-blocked-error-title = VPN is net beskikber
 ipprotection-connection-status-blocked-error-description = Fanwegen lokale wetjouwing kinne wy gjin VPN-tsjinsten oanbiede yn dizze regio. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Ynboude VPN
     .description = Untfang ekstra privacy troch jo lokaasje te ferstopjen wylst jo navigearje
 ip-protection-learn-more = Mear ynfo
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Probearje de ynboude VPN fan { -brand-short-name }
-    .message = Ferstopje jo lokaasje wylst it navigearjen yn { -brand-short-name }. Untfang  elke moanne { $maxUsage } GB fergees VPN-gegevens.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Probearje de ynboude VPN fan { -brand-short-name }
-    .message = Sneup mei ekstra beskerming troch jo lokaasje te ferstopjen. Untfang moanliks fergees { $maxUsage } GB gegevens.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

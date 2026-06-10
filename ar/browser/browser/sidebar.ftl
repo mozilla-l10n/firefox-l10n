@@ -73,7 +73,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = توسيع الشريط عن مرور مؤشر الفأرة
 sidebar-manage-extensions2 = أدِر كل الامتدادات
-sidebar-manage-extensions = أدِر الامتدادات
 sidebar-customize-extensions-header2 = الامتدادات
 sidebar-customize-firefox-tools-header2 =
     .label = أدوات

@@ -42,8 +42,6 @@ fxa-menu-send-to-mobile =
             [many] Odoslať { $tabCount } kariet do mobilu
            *[other] Odoslať { $tabCount } kariet do mobilu
         }
-fxa-menu-send-to-mobile-enable-sync2 = Povoliť synchronizáciu a odoslanie karty
-fxa-menu-send-to-mobile-connect-phone2 = Pripojiť telefón
 fxa-menu-send-to-mobile-device-missing2 = Nevidíte svoje zariadenie?
 fxviewtabrow-send-to-mobile-not-verified = Účet nie je overený
 fxviewtabrow-send-to-mobile-verify-account = Overte svoj účet

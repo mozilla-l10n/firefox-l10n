@@ -40,8 +40,6 @@ fxa-menu-send-to-mobile =
             [few] Даслаць { $tabCount } карткі на мабільны
            *[many] Даслаць { $tabCount } картак на мабільны
         }
-fxa-menu-send-to-mobile-enable-sync2 = Уключыць сінхранізацыю для адпраўкі картак
-fxa-menu-send-to-mobile-connect-phone2 = Падключыце свой тэлефон
 fxa-menu-send-to-mobile-device-missing2 = Не бачыце вашай прылады?
 fxviewtabrow-send-to-mobile-not-verified = Уліковы запіс не пацверджаны
 fxviewtabrow-send-to-mobile-verify-account = Пацвердзіце свой уліковы запіс

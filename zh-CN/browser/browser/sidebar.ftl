@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = 悬停时展开侧栏
 sidebar-manage-extensions2 = 管理所有扩展
-sidebar-manage-extensions = 管理扩展
 sidebar-customize-extensions-header2 = 扩展
 sidebar-customize-firefox-tools-header2 =
     .label = 工具

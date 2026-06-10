@@ -153,13 +153,6 @@ tab-context-send-to-mobile =
            *[many] Даслаць { $tabCount } картак на мабільны
         }
     .accesskey = ь
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Уключыць сінхранізацыю для адпраўкі картак
-tab-context-send-to-mobile-connect-phone =
-    .label = Падключыце свой тэлефон
-tab-context-send-to-mobile-device-missing =
-    .label = Не бачыце вашай прылады?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Стварыць сумесную спасылку

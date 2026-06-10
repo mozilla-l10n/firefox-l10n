@@ -219,8 +219,6 @@ certerror-mitm-title = Ohjelmisto est채채 { -brand-short-name }ia yhdist채m채st�
 
 fp-certerror-page-title = Varoitus: Tietoturvariski
 fp-certerror-body-title = Ole varovainen. Jokin ei vaikuta olevan oikein.
-fp-certerror-illustration-alt =
-    .alt = Kuva ketusta, joka katsoo oranssia varoituskyltti채.
 fp-certerror-why-site-dangerous = Mik채 saa sivuston vaikuttamaan vaaralliselta?
 fp-certerror-what-can-you-do = Mit채 voin tehd채 asialle?
 fp-certerror-advanced-title = Lis채asetukset

@@ -162,12 +162,6 @@ webext-site-perms-description-gated-perms-webserial =
     Izbirali boste lahko, do katerih naprav bo spletno mesto imelo dostop.
     
     Spletnim mestom dostop do zaporednih naprav običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
-webext-site-perms-description-gated-perms-serial =
-    To so naprave kot mikrokrmilniki, 3D-tiskalniki in druge naprave, ki se povezujejo prek USB ali zaporednih vrat.
-    
-    Izbirali boste lahko, do katerih naprav bo spletno mesto imelo dostop.
-    
-    Spletnim mestom dostop do zaporednih naprav običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

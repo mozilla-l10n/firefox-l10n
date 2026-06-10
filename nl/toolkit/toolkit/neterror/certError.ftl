@@ -219,8 +219,6 @@ certerror-mitm-title = Software voorkomt dat { -brand-short-name } een beveiligd
 
 fp-certerror-page-title = Waarschuwing: beveiligingsrisico
 fp-certerror-body-title = Wees voorzichtig. Er is iets niet in orde.
-fp-certerror-illustration-alt =
-    .alt = Illustratie van een vos die naar een oranje waarschuwingsbord kijkt.
 fp-certerror-why-site-dangerous = Wat maakt dat deze website gevaarlijk lijkt?
 fp-certerror-what-can-you-do = Wat kunt u hieraan doen?
 fp-certerror-advanced-title = Geavanceerd

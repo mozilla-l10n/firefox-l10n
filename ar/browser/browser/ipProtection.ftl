@@ -31,8 +31,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = استخدم خ
 ipprotection-feature-introduction-description-private-browsing = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى عندما تكون في نافذة خاصة.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = هل تستخدم شبكة واي فاي عامة؟ جرّب خدمة VPN المدمجة في { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = احصل على <a data-l10n-name="learn-more-vpn">خصوصية إضافية</a> عن طريق الاختيار من بين 5 مواقع لإخفاء مكان تصفحك.
 ipprotection-feature-introduction-description-captive-portal = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى على شبكات الواي فاي العامة.
 ipprotection-feature-introduction-button-primary = التالي
 ipprotection-feature-introduction-button-secondary-not-now = ليس الآن
@@ -45,10 +43,6 @@ ipprotection-feature-introduction-button-secondary-remove = أزِل الـ VPN 
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = أزِل الـ VPN من شريط الأدوات
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = تساعدك <a data-l10n-name="learn-more-vpn">خدمة { -brand-product-name } VPN المدمجة</a> من على حماية تصفُحك. اختر من بين 5 مواقع للحفاظ على خصوصية تصفُحك.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = اختر المكان الذي تستخدم فيه VPN
@@ -58,7 +52,6 @@ ipprotection-site-settings-callout-button = فهمت
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = جديد: غيّر موقعك
-ipprotection-location-selection-callout-description = تُتيح <a data-l10n-name="learn-more-vpn">خدمة { -brand-product-name } VPN المدمجة</a> الاختيار من بين 5 مواقع تصفُح، أو دعنا نختار لك الأسرع.
 ipprotection-location-selection-callout-primary-button = جرّبه
 ipprotection-location-selection-callout-secondary-button = رفض
 
@@ -68,10 +61,6 @@ ipprotection-location-selection-callout-secondary-button = رفض
 unauthenticated-vpn-title = جرّب خدمة VPN المدمجة في { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">إخفاء موقعك</a> أثناء التصفح في { -brand-product-name }.
 unauthenticated-private-location-message = يساعد <a data-l10n-name="learn-more-vpn">في الحفاظ على خصوصية موقعك</a> في { -brand-product-name }.
-unauthenticated-choose-location-message = اختر من بين 5 مواقع أو دع { -brand-product-name } يختار الأسرع.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = احصل على { $maxUsage } جيجابايت من بيانات VPN المجانية كل شهر.
 unauthenticated-get-started = ابدأ
 unauthenticated-terms-of-service-privacy-notice = مِن خلال الاستمرار، فإنك توافق على <a data-l10n-name="vpn-terms-of-service">شروط الخدمة</a> و <a data-l10n-name="vpn-privacy-notice">تنويه الخصوصية</a>.
 site-exclusion-toggle-enabled-1 =
@@ -86,10 +75,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = ال VPN مفعّل
-ipprotection-connection-status-disconnected = ال VPN معطّل
-ipprotection-connection-status-excluded = ال VPN معطّل لهذا الموقع
-ipprotection-connection-status-connecting = يتصل VPN...
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = ال VPN متوقف
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -132,7 +117,6 @@ ipprotection-locations-subview-promo-button = احصل على { -mozilla-vpn-bra
 upgrade-vpn-title = احصل على حماية إضافية تتجاوز المتصفح
 upgrade-vpn-description = اختر موقع VPN الخاص بك، واستخدم VPN لجميع تطبيقاتك وما يصل إلى 5 أجهزة، وابقَ آمنًا على أي شبكة - سواء في المنزل أو على شبكة Wi-Fi العامة.
 upgrade-vpn-button = جرّب { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = توقف خدمة VPN مؤقتًا
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = لقد استهلكت كامل بيانات VPN الخاصة بك، والتي تبلغ { $maxUsage } ج.بايت. سيُصفّر الوصول الشهر المقبل.
@@ -141,16 +125,13 @@ ipprotection-connection-status-paused-title-2 = توقف خدمة VPN مؤقتً
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = تعذّر الاتصال بشبكة VPN
 ipprotection-connection-status-generic-error-description = حاول مرة أخرى بعد بضع دقائق.
 ipprotection-connection-status-generic-error-try-again = من فضلك حاول ثانية فيما بعد.
 ipprotection-connection-status-network-error-title-1 = تحقَّق من اتصالك بالإنترنت
     .aria-label = تحقَّق من اتصالك بالإنترنت
-ipprotection-connection-status-network-error-title = تحقَّق من اتصالك بالإنترنت
 ipprotection-connection-status-network-error-description = اتصل بالإنترنت، ثم حاول تشغيل VPN.
 ipprotection-connection-status-blocked-error-title-1 = خدمة VPN غير متاحة
     .aria-label = خدمة VPN غير متاحة
-ipprotection-connection-status-blocked-error-title = خدمة VPN غير متاحة
 ipprotection-connection-status-blocked-error-description = تمنعنا القوانين المحلية من تقديم خدمة VPN في هذه المنطقة. <a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -197,16 +178,6 @@ ip-protection-description-1 =
     .label = VPN مدمج
     .description = احصل على خصوصية إضافية من خلال إخفاء موقعك أثناء التصفح.
 ip-protection-learn-more = اطّلع على المزيد
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = جرّب خدمة VPN المدمجة في { -brand-short-name }
-    .message = أخفِ موقعك أثناء التصفح في { -brand-short-name }. احصل على { $maxUsage } ج.بايت من بيانات VPN المجانية كل شهر
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = جرّب خدمة VPN المدمجة في { -brand-short-name }
-    .message = تصفح بحماية إضافية من خلال إخفاء موقعك. احصل على { $maxUsage } ج.بايت من بيانات VPN المجانية كل شهر.
 ip-protection-not-opted-in-button = ابدأ
 ip-protection-autostart =
     .label = شغِّل VPN تلقائيًا

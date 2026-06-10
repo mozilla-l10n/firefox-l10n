@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Bidali mugikorrera
            *[other] Bidali { $tabCount } fitxa mugikorrera
         }
-fxa-menu-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
-fxa-menu-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 fxa-menu-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?
 fxviewtabrow-send-to-mobile-not-verified = Kontua egiaztatu gabe
 fxviewtabrow-send-to-mobile-verify-account = Egiaztatu zure kontua

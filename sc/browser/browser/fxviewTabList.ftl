@@ -78,7 +78,6 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Pone s’ischeda a sa muda
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ativa s’àudio de s’ischeda
-fxviewtabrow-send-to-mobile-connect-phone2 = Connete su telèfonu tuo
 fxviewtabrow-send-to-mobile-connect-device = Connete unu dispositivu pro imbiare ischedas
 fxviewtabrow-send-to-mobile-device-missing2 = Non bides su dispositivu tuo?
 fxviewtabrow-send-to-mobile-not-verified = Contu non verificadu

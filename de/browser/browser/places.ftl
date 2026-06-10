@@ -271,6 +271,3 @@ places-locked-prompt = Das Lesezeichen- und Chronik-System wird nicht funktionie
 places-share-folder2 =
     .label = Ordner teilen
     .badge = Neu
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Ordner teilen

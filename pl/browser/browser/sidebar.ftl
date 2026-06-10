@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Rozwijaj panel boczny po najechaniu kursorem
 sidebar-manage-extensions2 = Zarządzaj wszystkimi rozszerzeniami
-sidebar-manage-extensions = Zarządzaj rozszerzeniami
 sidebar-customize-extensions-header2 = Rozszerzenia
 sidebar-customize-firefox-tools-header2 =
     .label = Narzędzia

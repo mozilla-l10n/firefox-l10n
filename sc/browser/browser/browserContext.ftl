@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ativa sa sincronizatzio
 main-context-menu-send-to-mobile-connect-phone3 = Connete unu dispositivu pro imbiare ischedas
 main-context-menu-send-to-mobile-connect-phone-from-link = Connete unu dispositivu pro imbiare unu ligòngiu
 main-context-menu-send-to-mobile-connect-phone-from-page = Connete unu dispositivu pro imbiare una pàgina
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Ativa sa sincronizatzione pro imbiare un’ischeda
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Connete su telèfonu tuo
-main-context-menu-send-to-mobile-device-missing =
-    .label = Non bides su telèfonu tuo?
 main-context-menu-save-to-pocket =
     .label = Sarva sa pàgina in { -pocket-brand-name }
     .accesskey = k

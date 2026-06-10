@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zgjeroje anështyllën, kur i kalohet kursori përsipër
-sidebar-manage-extensions = Administroni Zgjerime
 
 ## Labels for sidebar context menu items
 

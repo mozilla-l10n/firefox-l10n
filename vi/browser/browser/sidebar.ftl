@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Mở rộng thanh lề khi di chuột tới nó
 sidebar-manage-extensions2 = Quản lý tất cả tiện ích
-sidebar-manage-extensions = Quản lý tiện ích
 sidebar-customize-extensions-header2 = Tiện ích mở rộng
 sidebar-customize-firefox-tools-header2 =
     .label = Công cụ

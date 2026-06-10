@@ -272,6 +272,3 @@ places-locked-prompt = System zakładek i historii nie będzie działał, ponie
 places-share-folder2 =
     .label = Udostępnij folder
     .badge = Nowe
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Udostępnij folder

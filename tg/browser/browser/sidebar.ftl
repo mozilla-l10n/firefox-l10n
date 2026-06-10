@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Баркушодани навори ҷонибӣ ҳангоми гузоштани нишондиҳандаи муш ба болои он
-sidebar-manage-extensions = Идоракунии васеъшавиҳо
 
 ## Labels for sidebar context menu items
 

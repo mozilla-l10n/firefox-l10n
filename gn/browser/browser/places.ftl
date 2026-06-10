@@ -273,6 +273,3 @@ places-locked-prompt = Apopyvusu techaukaha ha tembiasakue rehegua ndoikomo’ã
 places-share-folder2 =
     .label = Emoherakuã marandurenda
     .badge = Pyahu
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Emoherakuã marandurenda

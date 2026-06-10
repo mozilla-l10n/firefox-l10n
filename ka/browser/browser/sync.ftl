@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] გაგზავნა მობილურზე
            *[other] { $tabCount } ჩანართის გაგზავნა მობილურზე
         }
-fxa-menu-send-to-mobile-enable-sync2 = ჩართეთ დასინქ. ჩანართის გასაგზავნად
-fxa-menu-send-to-mobile-connect-phone2 = დააკავშირეთ თქვენი ტელეფონი
 fxa-menu-send-to-mobile-device-missing2 = არ ჩანს თქვენი მოწყობილობა?
 fxviewtabrow-send-to-mobile-not-verified = ანგარიში დაუმოწმებელია
 fxviewtabrow-send-to-mobile-verify-account = დაამოწმეთ ანგარიში

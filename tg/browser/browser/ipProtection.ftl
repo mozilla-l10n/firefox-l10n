@@ -58,10 +58,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = «VPN» фаъол аст
-ipprotection-connection-status-disconnected = «VPN» ғайрифаъол аст
-ipprotection-connection-status-excluded = «VPN» барои ин сомона ғайрифаъол аст
-ipprotection-connection-status-connecting = «VPN» пайваст шуда истодааст…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Ғайрифаъол кардани «VPN»
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -98,21 +94,17 @@ ipprotection-locations-unavailable-label = Дастнорас
 ## VPN paused state
 
 upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
-ipprotection-connection-status-paused-title-1 = «VPN» таваққуф шуд
 ipprotection-connection-status-paused-title-2 = «VPN» таваққуф шуд
     .aria-label = «VPN» таваққуф шуд
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Ба «VPN» пайваст шуда натавонист
 ipprotection-connection-status-generic-error-description = Пас аз чанд дақиқа аз нав кӯшиш кунед.
 ipprotection-connection-status-generic-error-try-again = Лутфан, баъдтар аз нав кӯшиш кунед.
 ipprotection-connection-status-network-error-title-1 = Пайвастшавии Интернети худро тафтиш кунед
     .aria-label = Пайвастшавии Интернети худро тафтиш кунед
-ipprotection-connection-status-network-error-title = Пайвастшавии Интернети худро тафтиш кунед
 ipprotection-connection-status-blocked-error-title-1 = «VPN» дастнорас аст
     .aria-label = «VPN» дастнорас аст
-ipprotection-connection-status-blocked-error-title = «VPN» дастнорас аст
 confirmation-hint-ipprotection-navigated-to-excluded-site = «VPN» барои ин сомона ғайрифаъол аст
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист

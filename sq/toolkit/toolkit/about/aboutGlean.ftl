@@ -193,11 +193,6 @@ about-glean-no-data-to-display = S’ka të dhëna për shfaqje.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje <code>DualLabeledCounter</code>.
 about-glean-unknown-metric-type-warning = Lloj i panjohur matjeje.
-about-glean-enable-new-features-promo =
-    .message = Po punojmë për shtim veçorish të reja! Janë ende në zhvillim aktiv, po klikoni butonin e këtushëm të veprimeve, nëse doni t’i aktivizoni.
-    .heading = Po vijnë veçori të reja!
-about-glean-enable-new-features-button = Aktivizo veçori të reja
-about-glean-disable-new-features-button = Çaktivizo veçori të reja
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.

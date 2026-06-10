@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN mewnol { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o 5 lleoliad i guddio lle rydych chi'n pori.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o sawl lleoliad i guddio o lle rydych chi'n pori.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Tynnu VPN o'r bar of
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Tynnu VPN o'r bar offer
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o 5 lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Dewiswch ble rydych chi'n defnyddio VPN
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Iawn
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Newydd: Newidiwch eich lleoliad
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Mae VPN mewnol { -brand-product-name }</a> yn gadael i chi ddewis o 5 lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf ar eich cyfer.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mae VPN mewnol{ -brand-product-name }</a> yn gadael i chi ddewis o sawl lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf.
 ipprotection-location-selection-callout-primary-button = Rhowch gynnig arni
 ipprotection-location-selection-callout-secondary-button = Cau
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Cau
 unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-private-location-message = Yn helpu <a data-l10n-name="learn-more-vpn"> i gadw'ch lleoliad yn breifat</a> yn { -brand-product-name }.
-unauthenticated-choose-location-message = Dewis o 5 lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Cael { $maxUsage } GB o ddata VPN am ddim bob mis.
 unauthenticated-choose-location-message-1 = Dewiswch o sawl lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
 unauthenticated-get-started = Cychwyn arni
 unauthenticated-terms-of-service-privacy-notice = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="vpn-terms-of-service">Telerau Gwasanaeth</a> a'r <a data-l10n-name="vpn-privacy-notice">Hysbysiad Preifatrwydd</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = Mae'r VPN ymlaen
-ipprotection-connection-status-disconnected = Mae'r VPN i ffwrdd
-ipprotection-connection-status-excluded = Mae VPN i ffwrdd ar y wefan hon
-ipprotection-connection-status-connecting = Mae VPN yn cysylltu…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Diffodd y VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Cael { -mozilla-vpn-brand-name }
 upgrade-vpn-title = Cael diogelwch ychwanegol y tu hwnt i'r porwr
 upgrade-vpn-description = Dewiswch eich lleoliad VPN, defnyddiwch VPN ar gyfer eich holl apiau a hyd at 5 dyfais, a chadw'n ddiogel ar unrhyw rwydwaith - gartref neu ar Wi-Fi cyhoeddus.
 upgrade-vpn-button = Rhowch gynnig ar { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = Mae VPN wedi'i oedi
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Rydych chi wedi defnyddio'r cyfan o'r { $maxUsage } GB o'ch data VPN. Bydd mynediad yn ailgychwyn y mis nesaf.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = Mae VPN wedi'i oedi
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Methu cysylltu â'r VPN
 ipprotection-connection-status-generic-error-description = Ceisiwch eto mewn ychydig funudau.
 ipprotection-connection-status-generic-error-try-again = Ceisiwch eto'n ddiweddarach.
 ipprotection-connection-status-network-error-title-1 = Gwiriwch eich cysylltiad rhyngrwyd
     .aria-label = Gwiriwch eich cysylltiad rhyngrwyd
-ipprotection-connection-status-network-error-title = Gwiriwch eich cysylltiad rhyngrwyd
 ipprotection-connection-status-network-error-description = Cysylltwch â'r rhyngrwyd, yna ceisio troi'r VPN ymlaen.
 ipprotection-connection-status-blocked-error-title-1 = Dyw VPN ddim ar gael
     .aria-label = Dyw VPN ddim ar gael
-ipprotection-connection-status-blocked-error-title = Dyw VPN ddim ar gael
 ipprotection-connection-status-blocked-error-description = Mae cyfreithiau lleol yn ein hatal rhag darparu gwasanaeth VPN yn y rhanbarth hwn. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = VPN mewnol
     .description = Cael preifatrwydd ychwanegol drwy guddio'ch lleoliad wrth bori
 ip-protection-learn-more = Dysgu rhagor
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
-    .message = Cuddiwch eich lleoliad wrth bori gyda { -brand-short-name }. Cewch { $maxUsage } GB o ddata bob mis am ddim.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
-    .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad. Cewch { $maxUsage } GB o ddata VPN am ddim bob mis.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

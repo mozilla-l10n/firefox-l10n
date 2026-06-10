@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Sayfa göndermek için 
 main-context-menu-send-to-mobile-connect-phone3 = Sekme göndermek için bir cihaz bağlayın
 main-context-menu-send-to-mobile-connect-phone-from-link = Bağlantı göndermek için cihaz bağlayın
 main-context-menu-send-to-mobile-connect-phone-from-page = Sayfa göndermek için cihaz bağlayın
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Sekme göndermek için eşitlemeyi etkinleştirin
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Telefonunuzu bağlayın
-main-context-menu-send-to-mobile-device-missing =
-    .label = Cihazınızı göremiyor musunuz?
 main-context-menu-save-to-pocket =
     .label = Sayfayı { -pocket-brand-name }’a kaydet
     .accesskey = P

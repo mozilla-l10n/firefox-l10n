@@ -267,6 +267,3 @@ places-locked-prompt = Sistem markah dan riwayat tidak dapat berfungsi karena sa
 places-share-folder2 =
     .label = Bagikan Folder
     .badge = Baru
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Bagikan Folder

@@ -279,6 +279,3 @@ places-locked-prompt = System zapołožkow a historije njebudźe fungować, doke
 places-share-folder2 =
     .label = Rjadowak dźělić
     .badge = Nowy
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Rjadowak dźělić

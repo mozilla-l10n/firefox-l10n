@@ -219,8 +219,6 @@ certerror-mitm-title = { -brand-short-name } nemôže nadviazať zabezpečené p
 
 fp-certerror-page-title = Upozornenie: bezpečnostné riziko
 fp-certerror-body-title = Buďte opatrní. Niečo nie je v poriadku.
-fp-certerror-illustration-alt =
-    .alt = Ilustrácia líšky pozerajúcej sa na oranžovú výstražnú značku.
 fp-certerror-why-site-dangerous = Čo spôsobuje, že stránka vyzerá nebezpečne?
 fp-certerror-what-can-you-do = Čo s tým môžete urobiť?
 fp-certerror-advanced-title = Pokročilé

@@ -280,6 +280,3 @@ places-locked-prompt =
 places-share-folder2 =
     .label = Sdílet složku
     .badge = Nové
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Sdílet složku

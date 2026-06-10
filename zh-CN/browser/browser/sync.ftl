@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] 发送到移动设备
            *[other] 发送 { $tabCount } 个标签页到移动设备
         }
-fxa-menu-send-to-mobile-enable-sync2 = 启用同步以发送标签页
-fxa-menu-send-to-mobile-connect-phone2 = 连接您的手机
 fxa-menu-send-to-mobile-device-missing2 = 看不到您的设备？
 fxviewtabrow-send-to-mobile-not-verified = 账户未验证
 fxviewtabrow-send-to-mobile-verify-account = 验证您的账户

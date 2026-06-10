@@ -276,6 +276,3 @@ places-locked-prompt = Systém záložiek a histórie nebude funkčný, pretože
 places-share-folder2 =
     .label = Zdieľať priečinok
     .badge = Nové
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Zdieľať priečinok

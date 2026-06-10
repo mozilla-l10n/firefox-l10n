@@ -144,13 +144,6 @@ tab-context-send-to-mobile =
            *[other] { $tabCount } ਟੈਬਾਂ ਨੂੰ ਮੋਬਾਈਲ ਉੱਤੇ ਭੇਜੋ
         }
     .accesskey = n
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = ਟੈਬ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
-tab-context-send-to-mobile-connect-phone =
-    .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
-tab-context-send-to-mobile-device-missing =
-    .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਨਹੀਂ ਵੇਖ ਰਹੇ ਹੋ?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = ਸਾਂਝਾ ਕਰਨਯੋਗ ਲਿੰਕ ਬਣਾਓ

@@ -219,8 +219,6 @@ certerror-mitm-title = Software { -brand-short-name } wěste zwězowanje z toś 
 
 fp-certerror-page-title = Warnowanje: wěstotne riziko
 fp-certerror-body-title = Buźćo wobglědniwy. Něco njejo w pórěźe.
-fp-certerror-illustration-alt =
-    .alt = Wobraz liški, kótaraž na oranžowe warnowańske znamje glěda.
 fp-certerror-why-site-dangerous = Cogodla sedło tšašnje wuglěda?
 fp-certerror-what-can-you-do = Co móžośo pśeśiwo tomu cyniś?
 fp-certerror-advanced-title = Rozšyrjone

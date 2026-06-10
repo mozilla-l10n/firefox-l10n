@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie u
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus 5 Standorten wählen.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Möglichkeiten wählen, ihren Standort zu verbergen.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = VPN aus Symbolleiste
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN aus Symbolleiste entfernen
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = Das <a data-l10n-name="learn-more-vpn"> integrierte VPN von { -brand-product-name }</a> trägt zum Schutz Ihrer Online-Aktivitäten bei. Wählen Sie aus 5 Standorten aus, um Ihre Privatsphäre beim Surfen zu schützen.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wählen Sie, wo Sie VPN verwenden
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Verstanden
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Neu: Ändern Sie Ihren Standort
-ipprotection-location-selection-callout-description = Mit dem <a data-l10n-name="learn-more-vpn">integrierten VPN von { -brand-product-name }</a> können Sie aus 5 Standorten wählen oder wir wählen den schnellsten Standort für Sie aus.
 ipprotection-location-selection-callout-description-1 = Mit dem integrierten VPN von <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> können Sie aus mehreren Standorten zum Surfen wählen. Sie können den schnellsten von uns auswählen lassen.
 ipprotection-location-selection-callout-primary-button = Ausprobieren
 ipprotection-location-selection-callout-secondary-button = Schließen
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Schließen
 unauthenticated-vpn-title = Probieren Sie das integrierte VPN von { -brand-product-name } aus
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verstecken Sie Ihren Standort</a> beim Surfen in { -brand-product-name }.
 unauthenticated-private-location-message = <a data-l10n-name="learn-more-vpn">Hilft Ihren Standort in { -brand-product-name } privat zu halten</a>.
-unauthenticated-choose-location-message = Wählen Sie aus 5 Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Holen Sie sich jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
 unauthenticated-choose-location-message-1 = Wählen Sie einen von mehreren Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
 unauthenticated-get-started = Erste Schritte
 unauthenticated-terms-of-service-privacy-notice = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="vpn-terms-of-service">Nutzungsbedingungen</a> und der <a data-l10n-name="vpn-privacy-notice">Datenschutzerklärung</a> zu.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN ist aktiviert
-ipprotection-connection-status-disconnected = VPN ist deaktiviert
-ipprotection-connection-status-excluded = VPN ist für diese Website deaktiviert
-ipprotection-connection-status-connecting = VPN stellt eine Verbindung her…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = VPN deaktivieren
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Holen Sie sich { -mozilla-vpn-bran
 upgrade-vpn-title = Erhalten Sie zusätzlichen Schutz über den Browser hinaus
 upgrade-vpn-description = Wählen Sie Ihren VPN-Standort, verwenden Sie VPN für alle Ihre Apps und bis zu 5 Geräte und bleiben Sie sicher in jedem Netzwerk – zu Hause oder über öffentliches WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } ausprobieren
-ipprotection-connection-status-paused-title-1 = VPN wurde gestoppt
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Sie haben die gesamten { $maxUsage } GB Ihres VPN-Datenvolumens aufgebraucht. Das VPN-Datenvolumen wird nächsten Monat zurückgesetzt.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN wurde gestoppt
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Verbindung mit VPN fehlgeschlagen
 ipprotection-connection-status-generic-error-description = Versuchen Sie es in ein paar Minuten erneut.
 ipprotection-connection-status-generic-error-try-again = Bitte versuchen Sie es später erneut.
 ipprotection-connection-status-network-error-title-1 = Überprüfen Sie Ihre Internetverbindung
     .aria-label = Überprüfen Sie Ihre Internetverbindung
-ipprotection-connection-status-network-error-title = Überprüfen Sie Ihre Internetverbindung
 ipprotection-connection-status-network-error-description = Stellen Sie eine Internetverbindung her und versuchen Sie dann, VPN zu aktivieren.
 ipprotection-connection-status-blocked-error-title-1 = VPN ist nicht verfügbar
     .aria-label = VPN ist nicht verfügbar
-ipprotection-connection-status-blocked-error-title = VPN ist nicht verfügbar
 ipprotection-connection-status-blocked-error-description = Lokale Gesetze verhindern, dass wir den VPN-Dienst in dieser Region anbieten. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Integriertes VPN
     .description = Sorgt für mehr Privatsphäre, indem Sie ihren Standort beim Surfen verbergen.
 ip-protection-learn-more = Weitere Informationen
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
-    .message = Verbergen Sie Ihren Standort beim Surfen in { -brand-short-name }. Erhalten Sie jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
-    .message = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen. Erhalten Sie jeden Monat { $maxUsage } GB kostenloses VPN-Datenvolumen.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

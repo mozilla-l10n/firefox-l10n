@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = 透過公共 Wi-Fi 上網嗎？請試用 { -brand-product-name } 的內建 VPN。
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = 從 5 個地點任選，隱藏您的實際上網位置，讓<a data-l10n-name="learn-more-vpn">上網更有隱私</a>。
 ipprotection-feature-introduction-description-captive-portal = 隱藏您的實際所在位置，就算是使用公共 Wi-Fi 也能獲得額外保護。
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = 從多個地點任選，隱藏您的實際上網位置，讓<a data-l10n-name="learn-more-vpn">上網更有隱私</a>。
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = 自工具列移除 V
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 自工具列移除 VPN
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從 5 個連線位置任選，讓您上網更有隱私。
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = 選擇要透過 VPN 連線的網站
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = 知道了！
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = 新功能：切換您的所在位置
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 讓您可從 5 個位置任選上網，或由我們自動為您挑選最快的位置。
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 讓您可從多個位置任選上網，或由我們自動為您挑選最快的位置。
 ipprotection-location-selection-callout-primary-button = 試試看
 ipprotection-location-selection-callout-secondary-button = 知道了！
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = 知道了！
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
 unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-private-location-message = 使用 { -brand-product-name } 上網時可幫助<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
-unauthenticated-choose-location-message = 從 5 個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = 每月獲得 { $maxUsage } GB 免費 VPN 流量。
 unauthenticated-choose-location-message-1 = 從多個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
 unauthenticated-get-started = 開始使用
 unauthenticated-terms-of-service-privacy-notice = 繼續使用，代表您同意我們的<a data-l10n-name="vpn-terms-of-service">服務條款</a>及<a data-l10n-name="vpn-privacy-notice">隱私權公告</a>。
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = 已開啟 VPN
-ipprotection-connection-status-disconnected = 已關閉 VPN
-ipprotection-connection-status-excluded = 已對此網站關閉 VPN 連線
-ipprotection-connection-status-connecting = VPN 連線中…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = 關閉 VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = 獲得 { -mozilla-vpn-brand-name }
 upgrade-vpn-title = 替瀏覽器以外的連線也加上一道保護
 upgrade-vpn-description = 挑選連線位置，使用 VPN 幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或透過公共 Wi-Fi，任何網路環境都能使用。
 upgrade-vpn-button = 請試用 { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = 已暫停 VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = 已暫停 VPN
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = 無法連線至 VPN
 ipprotection-connection-status-generic-error-description = 請稍候幾分鐘再試一次。
 ipprotection-connection-status-generic-error-try-again = 請稍候再試。
 ipprotection-connection-status-network-error-title-1 = 請檢查您的網際網路連線是否正常
     .aria-label = 請檢查您的網際網路連線是否正常
-ipprotection-connection-status-network-error-title = 請檢查您的網際網路連線是否正常
 ipprotection-connection-status-network-error-description = 請連線到網際網路，再嘗試開啟 VPN。
 ipprotection-connection-status-blocked-error-title-1 = 無法使用 VPN
     .aria-label = 無法使用 VPN
-ipprotection-connection-status-blocked-error-title = 無法使用 VPN
 ipprotection-connection-status-blocked-error-description = 由於此地區的相關法律規定，我們無法提供 VPN 服務。<a data-l10n-name="learn-more-link">更多資訊</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = 內建 VPN
     .description = 透過隱藏上網時的實際位置，獲得更加一層的隱私保護。
 ip-protection-learn-more = 更多資訊
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = 試用 { -brand-short-name } 的內建 VPN
-    .message = 使用 { -brand-short-name } 上網時，隱藏您的所在位置。每月都有 { $maxUsage } GB 免費流量。
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = 試用 { -brand-short-name } 的內建 VPN
-    .message = 隱藏您的實際所在位置以獲得額外保護。每月都有 { $maxUsage } GB 免費 VPN 流量。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

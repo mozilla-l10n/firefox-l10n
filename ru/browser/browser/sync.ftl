@@ -40,8 +40,6 @@ fxa-menu-send-to-mobile =
             [few] Отправить { $tabCount } вкладки на мобильный
            *[many] Отправить { $tabCount } вкладок на мобильный
         }
-fxa-menu-send-to-mobile-enable-sync2 = Включить синхронизацию для отправки вкладки
-fxa-menu-send-to-mobile-connect-phone2 = Подключите ваш телефон
 fxa-menu-send-to-mobile-device-missing2 = Не видите ваше устройство?
 fxviewtabrow-send-to-mobile-not-verified = Аккаунт не подтверждён
 fxviewtabrow-send-to-mobile-verify-account = Подтвердите свой аккаунт

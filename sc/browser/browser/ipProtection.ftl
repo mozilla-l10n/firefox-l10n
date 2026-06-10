@@ -52,9 +52,6 @@ ipprotection-location-selection-callout-secondary-button = Iscarta
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Proa sa VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cua sa positzione tua</a> durante sa navigatzione cun { -brand-product-name }.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Otene { $maxUsage } GB de datos de VPN de badas onni mese.
 unauthenticated-get-started = Cumintza
 site-exclusion-toggle-enabled-1 =
     .label = Imprea sa VPN pro custu situ
@@ -67,10 +64,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = Sa VPN est ativada
-ipprotection-connection-status-disconnected = Sa VPN est disativada
-ipprotection-connection-status-excluded = Sa VPN est disativada pro custu situ
-ipprotection-connection-status-connecting = Connessione VPN in cursu…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Disativa sa VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -107,15 +100,12 @@ upgrade-vpn-button = Proa { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Impossìbile connètere a sa VPN
 ipprotection-connection-status-generic-error-description = Torra·nche a proare de immoe a calicunu minutu.
 ipprotection-connection-status-generic-error-try-again = Torra·nche a proare a pustis.
 ipprotection-connection-status-network-error-title-1 = Controlla sa connessione a sa rete
     .aria-label = Controlla sa connessione a sa rete
-ipprotection-connection-status-network-error-title = Controlla sa connessione a sa rete
 ipprotection-connection-status-blocked-error-title-1 = Sa VPN no est a disponimentu
     .aria-label = Sa VPN no est a disponimentu
-ipprotection-connection-status-blocked-error-title = Sa VPN no est a disponimentu
 confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativada pro custu situ
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN

@@ -182,8 +182,6 @@ neterror-response-status-code = ਗਲਤੀ ਕੋਡ: { $responsestatus } { $r
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = ਤੁਹਾਡੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਾਲ ਸਮੱਸਿਆ ਜਾਪਦੀ ਹੈ
-fp-neterror-illustration-alt =
-    .alt = ਡਿਸ-ਕਨੈਕਟ ਹੋਈਆਂ ਨੈੱਟਵਰਕ ਤਾਰਾਂ ਨੂੰ ਦੇਖ ਰਹੀ ਲੂੰਬੜੀ ਦੀ ਤਸਵੀਰ ਹੈ।
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

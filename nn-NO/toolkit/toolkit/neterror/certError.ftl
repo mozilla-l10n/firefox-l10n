@@ -219,8 +219,6 @@ certerror-mitm-title = Programvara hindrar { -brand-short-name } frå trygg tilk
 
 fp-certerror-page-title = Åtvaring: Tryggingsrisiko
 fp-certerror-body-title = Ver varsam. Noko ser ikkje rett ut.
-fp-certerror-illustration-alt =
-    .alt = Illustrasjon av ein rev som ser på eit oransje varselskilt.
 fp-certerror-why-site-dangerous = Kva får sida til å sjå farleg ut?
 fp-certerror-what-can-you-do = Kva kan du gjere med det?
 fp-certerror-advanced-title = Avansert

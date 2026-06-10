@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Schakel Synchronisatie 
 main-context-menu-send-to-mobile-connect-phone3 = Verbind een apparaat om tabbladen te verzenden
 main-context-menu-send-to-mobile-connect-phone-from-link = Verbind een apparaat om een koppeling te verzenden
 main-context-menu-send-to-mobile-connect-phone-from-page = Verbind een apparaat om een pagina te verzenden
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Schakel synchronisatie in om een tabblad te verzenden
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Uw telefoon verbinden
-main-context-menu-send-to-mobile-device-missing =
-    .label = Ziet u uw apparaat niet?
 main-context-menu-save-to-pocket =
     .label = Pagina opslaan naar { -pocket-brand-name }
     .accesskey = k

@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Sidebar ausklappen, wenn der Mauszeiger darauf liegt
 sidebar-manage-extensions2 = Alle Erweiterungen verwalten
-sidebar-manage-extensions = Erweiterungen verwalten
 sidebar-customize-extensions-header2 = Erweiterungen
 sidebar-customize-firefox-tools-header2 =
     .label = Werkzeuge

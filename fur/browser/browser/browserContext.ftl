@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ative la sincronizazion
 main-context-menu-send-to-mobile-connect-phone3 = Conet un dispositîf par mandâ schedis
 main-context-menu-send-to-mobile-connect-phone-from-link = Conet un dispositîf par mandâ un colegament
 main-context-menu-send-to-mobile-connect-phone-from-page = Conet un dispositîf par mandâ une pagjine
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Ative la sincronizazion par inviâ une schede
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Conet il to telefon
-main-context-menu-send-to-mobile-device-missing =
-    .label = No tu cjatis il to dispositîf?
 main-context-menu-save-to-pocket =
     .label = Salve pagjine su { -pocket-brand-name }
     .accesskey = k

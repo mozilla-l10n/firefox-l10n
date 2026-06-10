@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu 
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z 5 lokalít, kde sa chcete skryť pri prehliadaní webu.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z niekoľkých lokalít, kde sa chcete skryť pri prehliadaní webu.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Odstrániť VPN z pa
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrániť VPN z panela nástrojov
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z 5 lokalít, aby ste si zachovali súkromie pri prehliadaní.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vyberte, kde používate VPN
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Rozumiem
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nové: Zmeňte svoju polohu
-ipprotection-location-selection-callout-description = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z 5 rôznych lokalít pre vaše prehliadanie. Alebo vám vyberieme pre vás tú najrýchlejšiu.
 ipprotection-location-selection-callout-description-1 = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z niekoľkých rôznych lokalít pre vaše prehliadanie. Alebo vám vyberieme pre vás tú najrýchlejšiu.
 ipprotection-location-selection-callout-primary-button = Vyskúšajte to
 ipprotection-location-selection-callout-secondary-button = Zavrieť
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Zavrieť
 unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skrytie polohy</a> počas prehliadania vo { -brand-product-name(case: "loc") }.
 unauthenticated-private-location-message = Pri prehliadaní vo { -brand-product-name(case: "loc") } pomáha <a data-l10n-name="learn-more-vpn">udržiavať vašu polohu v súkromí</a>.
-unauthenticated-choose-location-message = Vyberte si z 5 lokalít alebo nechajte { -brand-product-name(case: "acc") } vybrať tú najrýchlejšiu.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 unauthenticated-choose-location-message-1 = Vyberte si z niekoľkých lokalít alebo nechajte { -brand-product-name(case: "acc") } vybrať tú najrýchlejšiu.
 unauthenticated-get-started = Začíname
 unauthenticated-terms-of-service-privacy-notice = Pokračovaním súhlasíte so <a data-l10n-name="vpn-terms-of-service">Podmienkami používania</a> a <a data-l10n-name="vpn-privacy-notice">Vyhlásením o ochrane osobných údajov</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN je zapnutá
-ipprotection-connection-status-disconnected = VPN je vypnutá
-ipprotection-connection-status-excluded = VPN je pre túto stránku vypnutá
-ipprotection-connection-status-connecting = VPN sa pripája…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Vypnúť VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Získajte { -mozilla-vpn-brand-nam
 upgrade-vpn-title = Získajte dodatočnú ochranu nad rámec prehliadača
 upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi‑Fi sieti.
 upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN je pozastavená
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa obnoví budúci mesiac.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN je pozastavená
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Nepodarilo sa pripojiť k VPN
 ipprotection-connection-status-generic-error-description = Skúste to znova o pár minút.
 ipprotection-connection-status-generic-error-try-again = Skúste to znova neskôr.
 ipprotection-connection-status-network-error-title-1 = Skontrolujte svoje internetové pripojenie
     .aria-label = Skontrolujte svoje internetové pripojenie
-ipprotection-connection-status-network-error-title = Skontrolujte svoje internetové pripojenie
 ipprotection-connection-status-network-error-description = Pripojte sa na internet a potom skúste zapnúť VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN nie je k dispozícii
     .aria-label = VPN nie je k dispozícii
-ipprotection-connection-status-blocked-error-title = VPN nie je k dispozícii
 ipprotection-connection-status-blocked-error-description = Miestne zákony nám bránia v poskytovaní služieb VPN v tomto regióne. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Vstavaná VPN
     .description = Získajte viac súkromia skrytím svojej polohy počas prehliadania.
 ip-protection-learn-more = Ďalšie informácie
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
-    .message = Skryte svoju polohu počas prehliadania vo { -brand-short-name(case: "loc") }. Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
-    .message = Prehliadajte web s extra ochranou skrytím svojej polohy. Získajte { $maxUsage } GB bezplatných VPN dát na každý mesiac.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

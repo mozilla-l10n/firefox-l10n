@@ -78,7 +78,6 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Хомӯш кардани садо дар варақа
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Фаъол кардани садо дар варақа
-fxviewtabrow-send-to-mobile-connect-phone2 = Телефони худро пайваст кунед
 fxviewtabrow-send-to-mobile-device-missing2 = Дастгоҳи худро намебинед?
 fxviewtabrow-send-to-mobile-not-verified = Ҳисоб тасдиқ нашудааст
 fxviewtabrow-send-to-mobile-verify-account = Ҳисоби худро тасдиқ кунед

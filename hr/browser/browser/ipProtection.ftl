@@ -47,9 +47,6 @@ ipprotection-site-settings-callout-button = Razumijem
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Sakrij svoju lokaciju</a> tijekom pregledavanja u { -brand-product-name(case: "dat") }.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Dobij { $maxUsage } GB besplatnih VPN podataka svaki mjesec.
 unauthenticated-get-started = Započni
 site-exclusion-toggle-enabled-1 =
     .label = Koristi VPN za ovu web-stranicu
@@ -62,10 +59,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN je uključen
-ipprotection-connection-status-disconnected = VPN je isključen
-ipprotection-connection-status-excluded = VPN je isključen za ovu web-stranicu
-ipprotection-connection-status-connecting = VPN se spaja …
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Isključi VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -90,16 +83,13 @@ upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Neuspjelo povezivanje VPN-om
 ipprotection-connection-status-generic-error-description = Pokušaj ponovo za par minuta.
 ipprotection-connection-status-generic-error-try-again = Pokušaj ponovo kasnije.
 ipprotection-connection-status-network-error-title-1 = Provjeri internetsku vezu
     .aria-label = Provjeri internetsku vezu
-ipprotection-connection-status-network-error-title = Provjeri internetsku vezu
 ipprotection-connection-status-network-error-description = Poveži se na internet, a zatim pokušaj uključiti VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN nije dostupan
     .aria-label = VPN nije dostupan
-ipprotection-connection-status-blocked-error-title = VPN nije dostupan
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -154,13 +154,6 @@ tab-context-send-to-mobile =
            *[other] Odeslat { $tabCount } panelů do mobilu
         }
     .accesskey = O
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Povolit synchronizaci pro odeslání panelu
-tab-context-send-to-mobile-connect-phone =
-    .label = Připojit svůj telefon
-tab-context-send-to-mobile-device-missing =
-    .label = Nevidíte své zařízení?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Vytvořit odkaz na sdílení

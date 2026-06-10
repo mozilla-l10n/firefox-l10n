@@ -27,8 +27,6 @@ fxa-menu-send-to-device =
             [1] Send til enhed
            *[other] Send { $tabCount } faneblade til enhed
         }
-fxa-menu-send-to-mobile-enable-sync2 = Aktiver synkronisering for at sende et faneblad
-fxa-menu-send-to-mobile-connect-phone2 = Opret forbindelse til din telefon
 fxa-menu-send-to-mobile-device-missing2 = Kan du ikke se din enhed?
 fxviewtabrow-send-to-mobile-verify-account = Bekræft din konto
 fxa-menu-send-to-mobile-turn-on-sync = Slå synkronisering til for at sende faneblade

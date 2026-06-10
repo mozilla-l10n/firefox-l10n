@@ -144,12 +144,6 @@ webext-site-perms-description-gated-perms-webserial =
     웹 사이트가 접근할 수 있는 기기를 선택할 수 있습니다.
     
     일반적으로 웹 사이트는 직렬 기기에 접근할 수 없습니다. 부적절한 사용은 기기를 손상시키거나 보안을 위협할 수 있습니다.
-webext-site-perms-description-gated-perms-serial =
-    마이크로 컨트롤러, 3D 프린터 및 기타 USB 또는 직렬 포트를 통해 연결하는 기기가 여기에 해당됩니다.
-    
-    웹 사이트가 접근할 수 있는 기기를 선택할 수 있습니다.
-    
-    일반적으로 웹 사이트는 직렬 기기에 접근할 수 없습니다. 부적절한 사용은 기기를 손상시키거나 보안을 위협할 수 있습니다.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

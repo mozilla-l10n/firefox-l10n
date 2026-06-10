@@ -182,8 +182,6 @@ neterror-response-status-code = Virhekoodi: { $responsestatus } { $responsestatu
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Vaikuttaa siltä, että Internet-yhteydessäsi on ongelma
-fp-neterror-illustration-alt =
-    .alt = Kuva ketusta, joka katsoo irronneita verkkokaapeleita.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

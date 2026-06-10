@@ -168,12 +168,6 @@ webext-site-perms-description-gated-perms-webserial =
     Byddwch yn gallu dewis pa ddyfeisiau y gall y wefan gael mynediad iddyn nhw.
     
     Fel arfer does dim caniatâd i wefannau gael mynediad i ddyfeisiau cyfresol. Gallai defnydd amhriodol achosi difrod neu beryglu diogelwch.
-webext-site-perms-description-gated-perms-serial =
-    Mae'r rhain yn ddyfeisiau fel microreolyddion, argraffwyr 3D, a dyfeisiau eraill sy'n cysylltu trwy USB neu byrth cyfresol.
-    
-    Byddwch yn gallu dewis pa ddyfeisiau y gall y wefan gael mynediad iddyn nhw.
-    
-    Fel arfer does dim caniatâd i wefannau gael mynediad i ddyfeisiau cyfresol. Gallai defnydd amhriodol achosi difrod neu beryglu diogelwch.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

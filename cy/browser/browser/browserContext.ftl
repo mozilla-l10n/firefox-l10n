@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Trowch Sync ymlaen i An
 main-context-menu-send-to-mobile-connect-phone3 = Cysylltwch Ddyfais i Anfon Tabiau
 main-context-menu-send-to-mobile-connect-phone-from-link = Cysylltwch Ddyfais i Anfon Dolen
 main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i Anfon Tudalen
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Galluogi cydweddu i anfon tab
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Cysylltu eich ffôn
-main-context-menu-send-to-mobile-device-missing =
-    .label = Ddim yn gweld eich dyfais?
 main-context-menu-save-to-pocket =
     .label = Cadw Tudalen i { -pocket-brand-name }
     .accesskey = k

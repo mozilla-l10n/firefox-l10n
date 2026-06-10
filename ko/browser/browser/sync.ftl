@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] 모바일로 보내기
            *[other] 탭 { $tabCount }개를 모바일로 보내기
         }
-fxa-menu-send-to-mobile-enable-sync2 = 탭을 보내려면 동기화를 활성화하세요
-fxa-menu-send-to-mobile-connect-phone2 = 휴대폰 연결
 fxa-menu-send-to-mobile-device-missing2 = 사용자의 기기가 없나요?
 fxviewtabrow-send-to-mobile-not-verified = 계정이 확인되지 않음
 fxviewtabrow-send-to-mobile-verify-account = 계정 확인

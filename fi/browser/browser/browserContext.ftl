@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ota synkronointi käytt
 main-context-menu-send-to-mobile-connect-phone3 = Yhdistä laite lähettääksesi välilehtiä
 main-context-menu-send-to-mobile-connect-phone-from-link = Yhdistä laite lähettääksesi linkin
 main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähettääksesi sivun
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Ota synkronointi käyttöön lähettääksesi välilehden
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Yhdistä puhelimesi
-main-context-menu-send-to-mobile-device-missing =
-    .label = Etkö näe laitettasi?
 main-context-menu-save-to-pocket =
     .label = Tallenna sivu { -pocket-brand-name }-palveluun
     .accesskey = c

@@ -686,8 +686,6 @@ newtab-widget-lists-button-add-item = Agiunghe un’elementu
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Agiunghe un’elementu
     .aria-label = Agiunghe un’elementu
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Agiunghe un’elementu
 newtab-widget-lists-input-error = Include testu pro agiùnghere un’elementu.
 newtab-widget-lists-input-menu-open-link = Aberi su ligòngiu
 newtab-widget-lists-input-menu-move-up = Move in artu
@@ -705,9 +703,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Lista noa
     .aria-label = Modifica su nòmine de sa lista
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Lista noa
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Cua su widget
 # Tooltip for hide all widgets button

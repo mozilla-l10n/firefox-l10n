@@ -145,13 +145,6 @@ tab-context-send-to-mobile =
            *[other] שליחת { $tabCount } לשוניות לנייד
         }
     .accesskey = ש
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = יש להפעיל סנכרון כדי לשלוח לשונית
-tab-context-send-to-mobile-connect-phone =
-    .label = חיבור לטלפון שלך
-tab-context-send-to-mobile-device-missing =
-    .label = לא רואה את המכשיר שלך?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = יצירת קישור הניתן לשיתוף

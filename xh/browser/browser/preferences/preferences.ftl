@@ -16,7 +16,6 @@ pane-privacy-title3 = UbuNgasese noKhuseleko
 pane-search-title = Khangela
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title2 = UbuNgasese noKhuseleko
 pane-privacy-section =
     .heading = UbuNgasese noKhuseleko
 pane-privacy-title = UbuNgasese noKhuseleko
@@ -112,12 +111,6 @@ containers-remove-cancel-button = Musa ukuyisusa le Khonteyina
 
 ## General Section - Language & Appearance
 
-default-font-2 =
-    .label = Ifonti esisiseko
-    .accesskey = I
-default-font-size-2 =
-    .label = Isayizi
-    .accesskey = I
 default-font = Ifonti esisiseko
     .accesskey = I
 default-font-size = Isayizi
@@ -148,11 +141,6 @@ download-save-files-header =
     .label = Gcina iifayile kwi
 download-save-where-3 =
     .aria-label = Gcina iifayile kwi
-downloads-header-2 =
-    .label = Okukhutshelwayo
-download-save-where-2 =
-    .label = Gcina iifayile kwi
-    .accesskey = c
 download-header = Okukhutshelwayo
 download-save-where = Gcina iifayile kwi
     .accesskey = c

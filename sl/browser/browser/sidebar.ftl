@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Razširi stransko vrstico ob preletu z miško
 sidebar-manage-extensions2 = Upravljanje vseh razširitev
-sidebar-manage-extensions = Upravljanje razširitev
 sidebar-customize-extensions-header2 = Razširitve
 sidebar-customize-firefox-tools-header2 =
     .label = Orodja

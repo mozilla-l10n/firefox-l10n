@@ -182,8 +182,6 @@ neterror-response-status-code = Feilkode: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Det ser ut til at det er eit problem med internett-tilkoplinga di
-fp-neterror-illustration-alt =
-    .alt = Illustrasjon av ein rev som ser på fråkopla nettverkskablar.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

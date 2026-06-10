@@ -156,12 +156,6 @@ webext-site-perms-description-gated-perms-webserial =
     Jo kinne kieze ta hokker apparaten de website tagong jout.
     
     Websites meie normaal sprutsen gjin tagong krije ta seriële apparaten. Ferkeard gebrûk kin skea feroarsaakje of de befeiliging yn gefaar bringe.
-webext-site-perms-description-gated-perms-serial =
-    Dit binne apparaten lykas microcontrollers, 3D-printers en oare apparaten dy’t ferbine fia USB- of seriële poarten.
-    
-    Jo kinne kieze ta hokker apparaten de website tagong jout.
-    
-    Websites meie normaal sprutsen gjin tagong krije ta seriële apparaten. Ferkeard gebrûk kin skea feroarsaakje of de befeiliging yn gefaar bringe.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

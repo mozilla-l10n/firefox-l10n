@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Activează sincronizare
 main-context-menu-send-to-mobile-connect-phone3 = Conectează un dispozitiv ca să trimiți file
 main-context-menu-send-to-mobile-connect-phone-from-link = Conectează un dispozitiv ca să trimiți linkuri
 main-context-menu-send-to-mobile-connect-phone-from-page = Conectează un dispozitiv ca să trimiți pagini
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Activează sincronizarea ca să trimiți o filă
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Conectează-te la telefon
-main-context-menu-send-to-mobile-device-missing =
-    .label = Nu vezi dispozitivul?
 main-context-menu-save-to-pocket =
     .label = Salvează pagina în { -pocket-brand-name }
     .accesskey = k

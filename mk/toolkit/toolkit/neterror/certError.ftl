@@ -219,8 +219,6 @@ certerror-mitm-title = Софтверот го спречува { -brand-short-n
 
 fp-certerror-page-title = Предупредување: Безбедносен ризик
 fp-certerror-body-title = Внимателно. Нешто не изгледа како што треба.
-fp-certerror-illustration-alt =
-    .alt = Илустрација на лисица која гледа во портокалов знак за предупредување.
 fp-certerror-why-site-dangerous = Што ја прави страницата да изгледа опасна?
 fp-certerror-what-can-you-do = Што можете да направите во врска со тоа?
 fp-certerror-advanced-title = Напредно

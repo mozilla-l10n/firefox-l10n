@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Gebruik onze ni
 ipprotection-feature-introduction-description-private-browsing = Navigeer met extra bescherming door uw locatie te verbergen, zelfs wanneer u een privévenster gebuikt.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Gebruikt u openbare wifi? Probeer de ingebouwde VPN van { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Ontvang <a data-l10n-name="learn-more-vpn">extra privacy</a> door te kiezen uit vijf locaties  om te verbergen waar u surft.
 ipprotection-feature-introduction-description-captive-portal = Navigeer met extra bescherming door uw locatie te verbergen, zelfs op openbare wifi.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Ontvang <a data-l10n-name="learn-more-vpn">extra privacy</a> door te kiezen uit diverse locaties om te verbergen waar u surft.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = VPN van werkbalk ver
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN van werkbalk verwijderen
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit vijf locaties om uw navigatie meer privé te houden.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Kies waar u VPN gebruikt
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Begrepen
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nieuw: wijzig uw locatie
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Met de ingebouwde VPN van { -brand-product-name }</a> kunt u kiezen uit vijf navigatielocaties, of laat ons de snelste kiezen voor u.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Met de ingebouwde VPN van { -brand-product-name }</a> kunt u kiezen uit diverse navigatielocaties, of laat ons de snelste kiezen voor u.
 ipprotection-location-selection-callout-primary-button = Uitproberen
 ipprotection-location-selection-callout-secondary-button = Sluiten
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Sluiten
 unauthenticated-vpn-title = De ingebouwde VPN van { -brand-product-name } proberen
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verberg uw locatie</a> tijdens het navigeren in { -brand-product-name }.
 unauthenticated-private-location-message = Helpt <a data-l10n-name="learn-more-vpn">uw locatie privé te houden</a> in { -brand-product-name }.
-unauthenticated-choose-location-message = Kies uit vijf locaties of laat { -brand-product-name } de snelste kiezen.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Ontvang elke maand { $maxUsage } GB gratis VPN-gegevens.
 unauthenticated-choose-location-message-1 = Kies uit diverse locaties of laat { -brand-product-name } de snelste kiezen.
 unauthenticated-get-started = Beginnen
 unauthenticated-terms-of-service-privacy-notice = Door verder te gaan, gaat u akkoord met de <a data-l10n-name="vpn-terms-of-service">Servicevoorwaarden</a> en <a data-l10n-name="vpn-privacy-notice">Privacyverklaring</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN is ingeschakeld
-ipprotection-connection-status-disconnected = VPN is uitgeschakeld
-ipprotection-connection-status-excluded = VPN is uit voor deze website
-ipprotection-connection-status-connecting = VPN maakt verbinding…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = VPN uitschakelen
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } downlo
 upgrade-vpn-title = Ontvang extra bescherming buiten de browser
 upgrade-vpn-description = Kies uw VPN-locatie, gebruik VPN voor al uw apps en maximaal 5 apparaten, en blijf veilig op elk netwerk – thuis of op openbare wifi.
 upgrade-vpn-button = Probeer { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN is gepauzeerd
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = U hebt alle { $maxUsage } GB van uw VPN-gegevens gebruikt. De toegang wordt volgende maand opnieuw ingesteld.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN is gepauzeerd
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Kan niet verbinden met VPN
 ipprotection-connection-status-generic-error-description = Probeer het over een paar minuten opnieuw.
 ipprotection-connection-status-generic-error-try-again = Probeer het later opnieuw.
 ipprotection-connection-status-network-error-title-1 = Controleer uw internetverbinding
     .aria-label = Controleer uw internetverbinding
-ipprotection-connection-status-network-error-title = Controleer uw internetverbinding
 ipprotection-connection-status-network-error-description = Maak verbinding met het internet en probeer vervolgens VPN in te schakelen.
 ipprotection-connection-status-blocked-error-title-1 = VPN is niet beschikbaar
     .aria-label = VPN is niet beschikbaar
-ipprotection-connection-status-blocked-error-title = VPN is niet beschikbaar
 ipprotection-connection-status-blocked-error-description = Vanwege lokale wetgeving kunnen we geen VPN-services aanbieden in deze regio. <a data-l10n-name="learn-more-link">Meer info</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Ingebouwde VPN
     .description = Ontvang extra privacy door uw locatie te verbergen terwijl u navigeert.
 ip-protection-learn-more = Meer info
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Probeer de ingebouwde VPN van { -brand-short-name }
-    .message = Verberg uw locatie tijdens het navigeren in { -brand-short-name }. Ontvang  elke maand { $maxUsage } GB gratis VPN-gegevens.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Probeer de ingebouwde VPN van { -brand-short-name }
-    .message = Surf met extra bescherming door uw locatie te verbergen. Ontvang maandelijks { $maxUsage } GB gratis gegevens.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

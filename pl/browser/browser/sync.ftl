@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [few] Wyślij { $tabCount } karty na telefon
            *[many] Wyślij { $tabCount } kart na telefon
         }
-fxa-menu-send-to-mobile-enable-sync2 = Włącz synchronizację, aby wysłać kartę
-fxa-menu-send-to-mobile-connect-phone2 = Połącz swój telefon
 fxa-menu-send-to-mobile-device-missing2 = Nie ma tutaj Twojego urządzenia?
 fxviewtabrow-send-to-mobile-not-verified = Konto nie zostało zweryfikowane
 fxviewtabrow-send-to-mobile-verify-account = Zweryfikuj konto

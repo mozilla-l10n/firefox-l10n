@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
 sidebar-manage-extensions2 = ਸਾਰੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
-sidebar-manage-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 sidebar-customize-extensions-header2 = ਇਕਸਟੈਨਸ਼ਨ
 sidebar-customize-firefox-tools-header2 =
     .label = ਟੂਲ

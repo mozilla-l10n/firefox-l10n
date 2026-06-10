@@ -182,8 +182,6 @@ neterror-response-status-code = Hibakód: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Úgy néz ki, hogy probléma van az internetkapcsolatával
-fp-neterror-illustration-alt =
-    .alt = Egy széthúzott hálózati kábeleket figyelő rókát ábrázoló illusztráció.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -219,8 +219,6 @@ certerror-mitm-title = Бағдарламалық қамтама { -brand-short-
 
 fp-certerror-page-title = Ескерту: Қауіпсіздік тәуекелі
 fp-certerror-body-title = Сақ болыңыз. Бірдеңе дұрыс емес сияқты.
-fp-certerror-illustration-alt =
-    .alt = Қызғылт сары ескерту белгісіне қарап тұрған түлкінің суреті.
 fp-certerror-why-site-dangerous = Сайтты қауіпті етіп көрсететін не?
 fp-certerror-what-can-you-do = Оған не жасауыңызға болады?
 fp-certerror-advanced-title = Кеңейтілген

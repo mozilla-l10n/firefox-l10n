@@ -219,8 +219,6 @@ certerror-mitm-title = Mae Meddalwedd yn Rhwystro { -brand-short-name } Rhag Cys
 
 fp-certerror-page-title = Rhybudd: Risg Diogelwch
 fp-certerror-body-title = Byddwch yn ofalus. Mae rhywbeth i weld yn anghywir.
-fp-certerror-illustration-alt =
-    .alt = Darlun o lwynog yn edrych ar arwydd rhybudd oren.
 fp-certerror-why-site-dangerous = Beth sy'n gwneud i'r wefan edrych yn beryglus?
 fp-certerror-what-can-you-do = Beth allwch chi wneud am hyn?
 fp-certerror-advanced-title = Uwch

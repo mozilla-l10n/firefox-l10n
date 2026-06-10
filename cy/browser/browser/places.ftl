@@ -285,6 +285,3 @@ places-locked-prompt = Ni fydd y system nodau tudalen a hanes yn weithredol gan 
 places-share-folder2 =
     .label = Rhannu Ffolder
     .badge = Newydd
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Rhannu Ffolder

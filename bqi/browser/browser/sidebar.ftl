@@ -56,7 +56,6 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
 sidebar-settings =
     .label = سامووا نوار کلی
-sidebar-manage-extensions = دؽوۉداری وردنی یل
 
 ## Labels for sidebar context menu items
 

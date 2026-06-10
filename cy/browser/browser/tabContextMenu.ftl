@@ -168,13 +168,6 @@ tab-context-send-to-mobile =
            *[other] Anfon { $tabCount } Tab i'r Symudol
         }
     .accesskey = A
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = Galluogi cydweddu i anfon tab
-tab-context-send-to-mobile-connect-phone =
-    .label = Cysylltu eich ffôn
-tab-context-send-to-mobile-device-missing =
-    .label = Ddim yn gweld eich dyfais?
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Creu Dolen i'w Rhannu

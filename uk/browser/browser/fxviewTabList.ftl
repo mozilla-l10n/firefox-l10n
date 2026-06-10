@@ -78,6 +78,4 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Вимкнути звук вкладки
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Увімкнути звук вкладки
-fxviewtabrow-send-to-mobile-enable-sync2 = Увімкнути синхронізацію для надсилання вкладки
-fxviewtabrow-send-to-mobile-connect-phone2 = Під'єднайте свій телефон
 fxviewtabrow-send-to-mobile-device-missing2 = Не бачите свій пристрій?

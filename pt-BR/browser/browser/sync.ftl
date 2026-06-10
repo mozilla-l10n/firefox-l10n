@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Enviar para celular
            *[other] Send { $tabCount } tabs to mobile
         }
-fxa-menu-send-to-mobile-enable-sync2 = Ative a sincronização para enviar uma aba
-fxa-menu-send-to-mobile-connect-phone2 = Conecte seu celular
 fxa-menu-send-to-mobile-device-missing2 = Seu dispositivo não aparece?
 fxviewtabrow-send-to-mobile-not-verified = Conta não verificada
 fxviewtabrow-send-to-mobile-verify-account = Verifique sua conta

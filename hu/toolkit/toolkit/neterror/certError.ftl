@@ -219,8 +219,6 @@ certerror-mitm-title = Egy szoftver megakadályozza, hogy a { -brand-short-name 
 
 fp-certerror-page-title = Figyelmeztetés: biztonsági kockázat
 fp-certerror-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
-fp-certerror-illustration-alt =
-    .alt = Egy narancssárga figyelmeztetőjelzést figyelő rókát ábrázoló illusztráció.
 fp-certerror-why-site-dangerous = Mitől tűnik veszélyesnek az oldal?
 fp-certerror-what-can-you-do = Mit tehet ez ellen?
 fp-certerror-advanced-title = Speciális

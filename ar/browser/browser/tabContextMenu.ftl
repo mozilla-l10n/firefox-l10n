@@ -142,13 +142,6 @@ tab-context-move-tabs =
            *[other] انقل الألسنة
         }
     .accesskey = ن
-# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
-tab-context-send-to-mobile-enable-sync =
-    .label = فعِّل المزامنة لإرسال لسان
-tab-context-send-to-mobile-connect-phone =
-    .label = صل جوّالك
-tab-context-send-to-mobile-device-missing =
-    .label = ألا ترى جهازك؟
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = أنشئ رابط قابل للمشاركة

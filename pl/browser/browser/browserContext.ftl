@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Włącz synchronizację
 main-context-menu-send-to-mobile-connect-phone3 = Połącz urządzenie, aby wysyłać karty
 main-context-menu-send-to-mobile-connect-phone-from-link = Połącz urządzenie, aby wysłać odnośnik
 main-context-menu-send-to-mobile-connect-phone-from-page = Połącz urządzenie, aby wysłać stronę
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Włącz synchronizację, aby wysłać kartę
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Połącz swój telefon
-main-context-menu-send-to-mobile-device-missing =
-    .label = Nie ma tutaj Twojego urządzenia?
 main-context-menu-save-to-pocket =
     .label = Wyślij stronę do { -pocket-brand-name }
     .accesskey = l

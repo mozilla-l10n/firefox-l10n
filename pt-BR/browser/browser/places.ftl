@@ -271,6 +271,3 @@ places-locked-prompt = O sistema de favoritos e histórico não funcionará agor
 places-share-folder2 =
     .label = Compartilhar pasta
     .badge = Novidade
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Compartilhar pasta

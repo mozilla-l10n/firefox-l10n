@@ -219,8 +219,6 @@ certerror-mitm-title = Праграмнае забеспячэнне не даз
 
 fp-certerror-page-title = Папярэджанне: рызыка бяспекі
 fp-certerror-body-title = Будзьце асцярожныя. Нешта выглядае не так.
-fp-certerror-illustration-alt =
-    .alt = Ілюстрацыя лісы, якая глядзіць на аранжавы папераджальны знак.
 fp-certerror-why-site-dangerous = Чаму сайт здаецца небяспечным?
 fp-certerror-what-can-you-do = Як вы можаце гэта паправіць?
 fp-certerror-advanced-title = Дадаткова

@@ -219,8 +219,6 @@ certerror-mitm-title = Oprogramowanie uniemożliwia przeglądarce { -brand-short
 
 fp-certerror-page-title = Ostrzeżenie: zagrożenie bezpieczeństwa
 fp-certerror-body-title = Zachowaj ostrożność. Coś tu nie gra.
-fp-certerror-illustration-alt =
-    .alt = Ilustracja przedstawiająca lisa patrzącego na pomarańczowy znak ostrzegawczy.
 fp-certerror-why-site-dangerous = Dlaczego ta witryna wydaje się niebezpieczna?
 fp-certerror-what-can-you-do = Co można zrobić w takim przypadku?
 fp-certerror-advanced-title = Zaawansowane

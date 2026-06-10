@@ -70,7 +70,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Proširi bočnu traku pri zadržavanju pokazivača miša
-sidebar-manage-extensions = Upravljaj ekstenzijama
 
 ## Labels for sidebar context menu items
 

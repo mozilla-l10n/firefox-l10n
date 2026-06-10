@@ -272,6 +272,3 @@ places-locked-prompt = Marcajele și istoricul nu vor funcționa pentru că unul
 places-share-folder2 =
     .label = Partajează dosarul
     .badge = Nou
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Partajează fișierul

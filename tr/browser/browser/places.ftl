@@ -273,6 +273,3 @@ places-locked-prompt = { -brand-short-name } uygulamasına ait dosyalardan biri 
 places-share-folder2 =
     .label = Klasörü paylaş
     .badge = Yeni
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Klasörü paylaş

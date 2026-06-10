@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] ส่งไปยังมือถือ
            *[other] ส่ง { $tabCount } แท็บไปยังมือถือ
         }
-fxa-menu-send-to-mobile-enable-sync2 = เปิดใช้งานซิงค์เพื่อส่งแท็บ
-fxa-menu-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ
 fxa-menu-send-to-mobile-device-missing2 = ไม่เห็นอุปกรณ์ของคุณ?
 fxviewtabrow-send-to-mobile-not-verified = บัญชีไม่ได้รับการยืนยัน
 fxviewtabrow-send-to-mobile-verify-account = ยืนยันบัญชีของคุณ

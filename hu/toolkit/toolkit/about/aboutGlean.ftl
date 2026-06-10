@@ -199,11 +199,6 @@ about-glean-no-data-to-display = Nincs megjeleníthető adat.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = A <code>DualLabeledCounter</code> statisztikák még nem támogatottak az <code>about:glean</code> nézetben.
 about-glean-unknown-metric-type-warning = Ismeretlen statisztikatípus.
-about-glean-enable-new-features-promo =
-    .message = Új funkciók bevezetésén dolgozunk! Még mindig aktív fejlesztés alatt vannak, de kattintson a művelet gombra, ha engedélyezni szeretné őket.
-    .heading = Új funkciók érkeznek!
-about-glean-enable-new-features-button = Új funkciók engedélyezése
-about-glean-disable-new-features-button = Új funkciók letiltása
 about-glean-about-data-explanation =
     Az összegyűjtött adatok tallózásához tekintse meg a
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Szótárat</a>.

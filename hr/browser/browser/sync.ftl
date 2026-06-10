@@ -40,8 +40,6 @@ fxa-menu-send-to-mobile =
             [few] Pošalji { $tabCount } kartice na mobitel
            *[other] Pošalji { $tabCount } kartica na mobitel
         }
-fxa-menu-send-to-mobile-enable-sync2 = Aktiviraj sinkronizaciju za slanje kartice
-fxa-menu-send-to-mobile-connect-phone2 = Poveži svoj mobitel
 fxa-menu-send-to-mobile-device-missing2 = Ne vidiš svoj uređaj?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.

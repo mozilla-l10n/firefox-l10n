@@ -269,6 +269,3 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Էջանիշերի և պատմության համակարգը չի գործի, քանի որ { -brand-short-name }-ի ֆայլերից մեկն օգտագործվում է այլ ծրագրի կողմից: Սրա պատճառը կարող է լինել անվտանգության ինչ-որ ծրագիր:
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Համօգտագործման թղթապանակը

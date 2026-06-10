@@ -182,8 +182,6 @@ neterror-response-status-code = 오류 코드: { $responsestatus } { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = 인터넷 연결에 문제가 있는 것 같습니다
-fp-neterror-illustration-alt =
-    .alt = 연결이 끊긴 네트워크 케이블을 보고 있는 여우의 그림입니다.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

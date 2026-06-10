@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] Enviar { $tabCount } pestañas al dispositivo móvil
            *[other] Enviar { $tabCount } pestañas al dispositivo móvil
         }
-fxa-menu-send-to-mobile-enable-sync2 = Habilita la sincronización para enviar una pestaña
-fxa-menu-send-to-mobile-connect-phone2 = Conecta tu teléfono
 fxa-menu-send-to-mobile-device-missing2 = ¿No ves tu dispositivo?
 fxviewtabrow-send-to-mobile-not-verified = Cuenta no verificada
 fxviewtabrow-send-to-mobile-verify-account = Verifica tu cuenta

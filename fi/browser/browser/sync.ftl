@@ -38,8 +38,6 @@ fxa-menu-send-to-mobile =
             [one] Lähetä { $tabCount } välilehti mobiililaitteeseen
            *[other] Lähetä { $tabCount } välilehteä mobiililaitteeseen
         }
-fxa-menu-send-to-mobile-enable-sync2 = Ota synkronointi käyttöön lähettääksesi välilehden
-fxa-menu-send-to-mobile-connect-phone2 = Yhdistä puhelimesi
 fxa-menu-send-to-mobile-device-missing2 = Etkö näe laitettasi?
 fxviewtabrow-send-to-mobile-not-verified = Tiliä ei ole vahvistettu
 fxviewtabrow-send-to-mobile-verify-account = Vahvista tilisi

@@ -206,9 +206,6 @@ newtab-widget-lists-label-new =
 newtab-widget-lists-completed-list = បានបញ្ចប់ ({ $number })
 newtab-widget-lists-menu-delete = លុបបញ្ជីនេះ
 newtab-widget-lists-input-menu-delete = លុប
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = បញ្ជីថ្មី
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

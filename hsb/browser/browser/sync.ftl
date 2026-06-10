@@ -42,8 +42,6 @@ fxa-menu-send-to-mobile =
             [few] Na { $tabCount } mobilne graty pósłać
            *[other] Na { $tabCount } mobilnych gratow pósłać
         }
-fxa-menu-send-to-mobile-enable-sync2 = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
-fxa-menu-send-to-mobile-connect-phone2 = Zwjazajće swój telefon
 fxa-menu-send-to-mobile-device-missing2 = Njewidźiće swój grat?
 fxviewtabrow-send-to-mobile-not-verified = Konto njeje přepruwowane
 fxviewtabrow-send-to-mobile-verify-account = Přepruwujće swoje konto

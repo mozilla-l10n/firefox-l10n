@@ -46,8 +46,6 @@ fxa-menu-send-to-mobile =
             [many] Anfon { $tabCount } thab i'r symudol
            *[other] Anfon { $tabCount } tab i'r symudol
         }
-fxa-menu-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
-fxa-menu-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
 fxa-menu-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
 fxviewtabrow-send-to-mobile-not-verified = Cyfrif heb ei wirio
 fxviewtabrow-send-to-mobile-verify-account = Gwirio'ch Cyfrif

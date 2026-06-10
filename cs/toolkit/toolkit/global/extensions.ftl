@@ -160,12 +160,6 @@ webext-site-perms-description-gated-perms-webserial =
     Budete moci vybrat, ke kterým zařízením bude mít web přístup.
     
     Webové stránky obvykle nemají povolený přístup k sériovým zařízením. Nesprávné použití může způsobit poškození nebo ohrozit zabezpečení.
-webext-site-perms-description-gated-perms-serial =
-    Jedná se o zařízení, jako jsou mikrokontroléry, 3D tiskárny a další zařízení připojená přes USB nebo sériové porty.
-    
-    Budete si moci vybrat, ke kterým zařízením bude mít webová stránka přístup.
-    
-    Webovým stránkám není obvykle povolen přístup k sériovým zařízením. Nesprávné použití by mohlo způsobit poškození nebo ohrozit bezpečnost.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

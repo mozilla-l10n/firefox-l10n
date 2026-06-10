@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Obține <a data-l10n-name="learn-more-vpn">extra confidențialitate</a> alegând dintre 5 locații pentru a ascunde pe unde mergi pe internet.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Obține <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> alegând dintre mai multe locații ca să ascunzi pe unde intri.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Elimină VPN-ul din 
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimină VPN-ul din bara de instrumente
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre 5 locații pentru confidențialitatea locurilor pe unde mergi pe internet.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Alege unde folosești VPN-ul
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Am înțeles
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nou: Schimbă-ți locația
-ipprotection-location-selection-callout-description = VPN-ul încorporat în <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> îți permite să alegi dintre 5 locații de navigare pe internet sau ne poți lăsa pe noi să o alegem pe cea mai rapidă.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">VPN-ul încorporat din { -brand-product-name }</a> îți permite să alegi dintre mai multe locații de navigare sau ne lași pe noi să o alegem pe cea mai rapidă pentru tine.
 ipprotection-location-selection-callout-primary-button = Încearcă
 ipprotection-location-selection-callout-secondary-button = Închide
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Închide
 unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ascunde-ți locația</a> când navighezi cu{ -brand-product-name }.
 unauthenticated-private-location-message = Ajută <a data-l10n-name="learn-more-vpn">să îți mențină locația privată</a> în { -brand-product-name }.
-unauthenticated-choose-location-message = Alege dintre 5 locații sau lasă { -brand-product-name } să o aleagă pe cea mai rapidă.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
 unauthenticated-choose-location-message-1 = Alege din mai multe locații sau lasă { -brand-product-name } să o aleagă pe cea mai rapidă.
 unauthenticated-get-started = Începe
 unauthenticated-terms-of-service-privacy-notice = Prin continuare, ești de acord cu <a data-l10n-name="vpn-terms-of-service">Condițiile de utilizare a serviciilor</a> și <a data-l10n-name="vpn-privacy-notice">Notificarea privind confidențialitatea</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN-ul este activat
-ipprotection-connection-status-disconnected = VPN-ul este dezactivat
-ipprotection-connection-status-excluded = VPN-ul este dezactivat pentru acest site
-ipprotection-connection-status-connecting = VPN-ul se conectează…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Dezactivează VPN-ul
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Obține { -mozilla-vpn-brand-name 
 upgrade-vpn-title = Obține protecție suplimentară dincolo de browser
 upgrade-vpn-description = Alege-ți locația VPN, folosește VPN-ul pentru toate aplicațiile tale și pe până la 5 dispozitive și rămâi în siguranță în orice rețea — acasă sau prin Wi-Fi public.
 upgrade-vpn-button = Încearcă { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN în pauză
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Ți-ai folosit toți cei { $maxUsage } GB din datele VPN. Accesul se resetează luna viitoare.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN în pauză
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = Nu s-a putut conecta la VPN
 ipprotection-connection-status-generic-error-description = Încearcă din nou în câteva minute.
 ipprotection-connection-status-generic-error-try-again = Te rugăm să încerci mai târziu.
 ipprotection-connection-status-network-error-title-1 = Verifică conexiunea la internet
     .aria-label = Verifică conexiunea la internet
-ipprotection-connection-status-network-error-title = Verifică conexiunea la internet
 ipprotection-connection-status-network-error-description = Conectează-te la internet, apoi încearcă să activezi VPN-ul.
 ipprotection-connection-status-blocked-error-title-1 = VPN-ul este indisponibil
     .aria-label = VPN-ul este indisponibil
-ipprotection-connection-status-blocked-error-title = VPN-ul este indisponibil
 ipprotection-connection-status-blocked-error-description = Legislația locală nu ne permite să oferim servicii VPN în această regiune. <a data-l10n-name="learn-more-link">Află mai multe</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = VPN încorporat
     .description = Obține confidențialitate suplimentară ascunzându-ți locația când navighezi.
 ip-protection-learn-more = Află mai multe
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
-    .message = Ascunde-ți locația când navighezi în { -brand-short-name }. Obține { $maxUsage } GB de date VPN gratuite în fiecare lună.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
-    .message = Navighează cu protecție suplimentară ascunzându-ți locația. Obține { $maxUsage } GB de date VPN gratuite în fiecare lună.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

@@ -311,13 +311,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Միացրեք համա
 main-context-menu-send-to-mobile-connect-phone3 = Միացրեք սարքը՝ ներդիրներ ուղարկելու համար
 main-context-menu-send-to-mobile-connect-phone-from-link = Միացրեք սարքը՝ հղում ուղարկելու համար
 main-context-menu-send-to-mobile-connect-phone-from-page = Միացրեք սարքը՝ էջ ուղարկելու համար
-# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
-main-context-menu-send-to-mobile-enable-sync =
-    .label = Միացրեք համաժամեցումը՝ ներդիր ուղարկելու համար
-main-context-menu-send-to-mobile-connect-phone =
-    .label = Միացրեք ձեր հեռախոսը
-main-context-menu-send-to-mobile-device-missing =
-    .label = Չե՞ք տեսնում ձեր սարքը։
 main-context-menu-save-to-pocket =
     .label = Պահել էջը { -pocket-brand-name }-ում
     .accesskey = k

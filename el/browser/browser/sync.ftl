@@ -36,8 +36,6 @@ fxa-menu-send-to-mobile =
             [1] Αποστολή σε κινητή συσκευή
            *[other] Αποστολή { $tabCount } καρτελών σε κινητή συσκευή
         }
-fxa-menu-send-to-mobile-enable-sync2 = Ενεργοποιήστε τον συγχρονισμό για να στείλετε μια καρτέλα
-fxa-menu-send-to-mobile-connect-phone2 = Συνδέστε το τηλέφωνό σας
 fxa-menu-send-to-mobile-device-missing2 = Δεν βλέπετε τη συσκευή σας;
 fxviewtabrow-send-to-mobile-not-verified = Μη επαληθευμένος λογαριασμός
 fxviewtabrow-send-to-mobile-verify-account = Επαλήθευση λογαριασμού

@@ -18,7 +18,6 @@ category-home =
 pane-search-title = Nda tuku
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title2 = Ña i'í tsi ña kunka vaa
 pane-privacy-section =
     .heading = Ña i'í tsi ña kunka vaa
 pane-privacy-title = Ña i'í tsi ña kunka vaa
@@ -70,9 +69,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-default-font-size-2 =
-    .label = Kua
-    .accesskey = K
 default-font-size = Kua
     .accesskey = K
 advanced-fonts =
@@ -89,11 +85,6 @@ download-save-files-header =
     .label = Chika va'a tutu nu
 download-save-where-3 =
     .aria-label = Chika va'a tutu nu
-downloads-header-2 =
-    .label = Snuu
-download-save-where-2 =
-    .label = Chika va'a tutu nu
-    .accesskey = C
 download-header = Snuu
 download-save-where = Chika va'a tutu nu
     .accesskey = C

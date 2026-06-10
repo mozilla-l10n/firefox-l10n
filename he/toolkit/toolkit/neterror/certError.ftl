@@ -219,8 +219,6 @@ certerror-mitm-title = תכנית כלשהי מונעת מ־{ -brand-short-name 
 
 fp-certerror-page-title = אזהרה: סיכון אבטחה
 fp-certerror-body-title = נא להיזהר. משהו לא נראה תקין.
-fp-certerror-illustration-alt =
-    .alt = איור של שועל מביט בשלט אזהרה כתום.
 fp-certerror-why-site-dangerous = מה גורם לאתר להיראות מסוכן?
 fp-certerror-what-can-you-do = מה ניתן לעשות בנדון?
 fp-certerror-advanced-title = מתקדם

@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = ขยายแถบข้างเมื่อเลื่อนเมาส์ไปวางแช่
 sidebar-manage-extensions2 = จัดการส่วนขยายทั้งหมด
-sidebar-manage-extensions = จัดการส่วนขยาย
 sidebar-customize-extensions-header2 = ส่วนขยาย
 sidebar-customize-firefox-tools-header2 =
     .label = เครื่องมือ

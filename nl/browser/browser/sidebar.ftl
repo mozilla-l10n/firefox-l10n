@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Zijbalk bij aanwijzen uitvouwen
 sidebar-manage-extensions2 = Alle extensies beheren
-sidebar-manage-extensions = Extensies beheren
 sidebar-customize-extensions-header2 = Extensies
 sidebar-customize-firefox-tools-header2 =
     .label = Hulpmiddelen

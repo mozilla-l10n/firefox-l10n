@@ -509,8 +509,6 @@ newtab-widget-lists-button-add-item = ഇനം ചേർക്കുക
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = ഇനം ചേർക്കുക
     .aria-label = ഇനം ചേർക്കുക
-newtab-widget-lists-input-add-an-item =
-    .placeholder = ഇനം ചേർക്കുക
 newtab-widget-lists-input-menu-open-link = കണ്ണി തുറക്കുക
 newtab-widget-lists-input-menu-move-up = മുകളിലേക്കു് നീക്കു്
 newtab-widget-lists-input-menu-move-down = താഴോട്ടു നീക്കു്
@@ -523,6 +521,3 @@ newtab-widget-lists-name-label-default =
     .label = കാര്യപ്പട്ടിക
 newtab-widget-lists-name-placeholder-default =
     .placeholder = കാര്യപ്പട്ടിക
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = പുതിയ പട്ടിക

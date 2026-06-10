@@ -78,6 +78,4 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Silenciar som do separador
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ativar som do separador
-fxviewtabrow-send-to-mobile-enable-sync2 = Ative a sincronização para enviar um separador
-fxviewtabrow-send-to-mobile-connect-phone2 = Ligar o seu telemóvel
 fxviewtabrow-send-to-mobile-device-missing2 = Não vê o seu dispositivo?

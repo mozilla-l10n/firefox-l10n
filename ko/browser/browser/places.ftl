@@ -267,6 +267,3 @@ places-locked-prompt = { -brand-short-name } 파일을 다른 애플리케이션
 places-share-folder2 =
     .label = 폴더 공유
     .badge = 신규
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = 폴더 공유

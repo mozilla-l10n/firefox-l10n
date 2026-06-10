@@ -32,8 +32,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Käytätkö julkista Wi-Fi-verkkoa? Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää.
-# Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla viidestä sijainnista, joihin selauksesi alkuperä piilotetaan.
 ipprotection-feature-introduction-description-captive-portal = Selaa lisäsuojauksella piilottamalla sijaintisi jopa julkisissa Wi-Fi-verkoissa.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla useista eri sijainneista, joihin selauksesi alkuperä piilotetaan.
@@ -48,10 +46,6 @@ ipprotection-feature-introduction-button-secondary-remove = Poista VPN työkalup
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Poista VPN työkalupalkista
 
-## Feature introduction callout
-
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse viidestä sijainnista, jotta selaamisesi alkuperä pysyy yksityisempänä.
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Valitse missä käytät VPN:ää
@@ -61,7 +55,6 @@ ipprotection-site-settings-callout-button = Selvä
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Uutta: Vaihda sijaintiasi
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennetun VPN:n</a> avulla voit valita viidestä selaussijainnista tai antaa meidän valita nopeimman puolestasi.
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennetun VPN:n</a> ansiosta voit valita useista selaussijainneista tai antaa meidän valita sinulle nopeimman.
 ipprotection-location-selection-callout-primary-button = Kokeile
 ipprotection-location-selection-callout-secondary-button = Hylkää
@@ -72,10 +65,6 @@ ipprotection-location-selection-callout-secondary-button = Hylkää
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
 unauthenticated-private-location-message = Auttaa <a data-l10n-name="learn-more-vpn">pitämään sijaintisi yksityisenä</a> { -brand-product-name }issa.
-unauthenticated-choose-location-message = Valitse viidestä sijainnista tai anna { -brand-product-name }in valita nopein.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
 unauthenticated-choose-location-message-1 = Valitse useista sijainneista tai anna { -brand-product-name }in valita nopein.
 unauthenticated-get-started = Aloitetaan
 unauthenticated-terms-of-service-privacy-notice = Jatkamalla hyväksyt <a data-l10n-name="vpn-terms-of-service">käyttöehdot</a> ja <a data-l10n-name="vpn-privacy-notice">tietosuojakäytännön</a>.
@@ -91,10 +80,6 @@ ipprotection-settings-link =
 
 ## Status card
 
-ipprotection-connection-status-connected = VPN on päällä
-ipprotection-connection-status-disconnected = VPN on pois päältä
-ipprotection-connection-status-excluded = VPN ei ole käytössä tällä sivustolla
-ipprotection-connection-status-connecting = VPN muodostaa yhteyttä…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Sammuta VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
@@ -140,7 +125,6 @@ ipprotection-locations-subview-promo-button = Hanki { -mozilla-vpn-brand-name }
 upgrade-vpn-title = Hanki lisäsuojaa selaimen ulkopuolelle
 upgrade-vpn-description = Valitse VPN-sijaintisi, käytä VPN:ää kaikissa sovelluksissasi, jopa viidellä laitteellasi, ja pysy turvassa missä tahansa verkossa – kotona tai julkisessa Wi-Fi-verkossa.
 upgrade-vpn-button = Kokeile { -mozilla-vpn-brand-name }:ää
-ipprotection-connection-status-paused-title-1 = VPN on keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Olet käyttänyt kaikki { $maxUsage } Gt VPN-dataa. Käyttöoikeus nollautuu ensi kuussa.
@@ -149,16 +133,13 @@ ipprotection-connection-status-paused-title-2 = VPN on keskeytetty
 
 ## Messages and errors
 
-ipprotection-connection-status-generic-error-title = VPN-yhteyden muodostaminen epäonnistui
 ipprotection-connection-status-generic-error-description = Yritä uudelleen muutaman minuutin kuluttua.
 ipprotection-connection-status-generic-error-try-again = Yritä myöhemmin uudelleen.
 ipprotection-connection-status-network-error-title-1 = Tarkista Internet-yhteytesi
     .aria-label = Tarkista Internet-yhteytesi
-ipprotection-connection-status-network-error-title = Tarkista Internet-yhteytesi
 ipprotection-connection-status-network-error-description = Yhdistä internetiin ja kokeile sitten VPN:n käyttöönottoa.
 ipprotection-connection-status-blocked-error-title-1 = VPN ei ole käytettävissä
     .aria-label = VPN ei ole käytettävissä
-ipprotection-connection-status-blocked-error-title = VPN ei ole käytettävissä
 ipprotection-connection-status-blocked-error-description = Paikalliset lait estävät meitä tarjoamasta VPN-palvelua tällä alueella. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -205,16 +186,6 @@ ip-protection-description-1 =
     .label = Sisäänrakennettu VPN
     .description = Hanki lisäkerros yksityisyyttä piilottamalla todellinen sijaintisi, kun selaat.
 ip-protection-learn-more = Lue lisää
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in-2 =
-    .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
-    .message = Piilota sijaintisi selatessasi { -brand-short-name }illa. Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-not-opted-in-3 =
-    .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
-    .message = Selaa lisäsuojauksella piilottamalla sijaintisi. Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

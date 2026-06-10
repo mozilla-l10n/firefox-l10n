@@ -219,8 +219,6 @@ certerror-mitm-title = Programska oprema { -brand-short-name }u preprečuje varn
 
 fp-certerror-page-title = Opozorilo: Varnostno tveganje
 fp-certerror-body-title = Previdno. Nekaj ni videti v redu.
-fp-certerror-illustration-alt =
-    .alt = Ilustracija lisice, ki si ogleduje oranžen opozorilni znak.
 fp-certerror-why-site-dangerous = Zaradi česa je spletno mesto videti nevarno?
 fp-certerror-what-can-you-do = Kaj lahko storite?
 fp-certerror-advanced-title = Napredno

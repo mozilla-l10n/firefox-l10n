@@ -198,11 +198,6 @@ about-glean-no-data-to-display = Δεν υπάρχουν δεδομένα προ
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Οι μετρήσεις <code>DualLabeledCounter</code> δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.
-about-glean-enable-new-features-promo =
-    .message = Εργαζόμαστε για να προσθέσουμε νέες λειτουργίες! Βρίσκονται ακόμα υπό ενεργή ανάπτυξη, αλλά μπορείτε να κάνετε κλικ σε αυτό το κουμπί ενέργειας αν επιθυμείτε να τις ενεργοποιήσετε.
-    .heading = Νέες λειτουργίες καθ' οδόν!
-about-glean-enable-new-features-button = Ενεργοποίηση νέων λειτουργιών
-about-glean-disable-new-features-button = Απενεργοποίηση νέων λειτουργιών
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
     <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.

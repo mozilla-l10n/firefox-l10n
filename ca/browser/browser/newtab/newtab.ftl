@@ -673,8 +673,6 @@ newtab-widget-lists-button-add-item = Afegeix un element
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Afegeix un element
     .aria-label = Afegeix un element
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Afegeix un element
 newtab-widget-lists-input-error = Incloeu text per a afegir un element.
 newtab-widget-lists-input-menu-open-link = Obre l'enllaç
 newtab-widget-lists-input-menu-move-up = Mou cap amunt
@@ -692,9 +690,6 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Llista nova
     .aria-label = Edita el nom de la llista
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Llista nova
 newtab-widget-section-title = Ginys
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =

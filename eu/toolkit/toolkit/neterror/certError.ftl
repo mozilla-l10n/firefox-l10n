@@ -219,8 +219,6 @@ certerror-mitm-title = Softwareak { -brand-short-name }(r)i gune honetara modu s
 
 fp-certerror-page-title = Abisua: segurtasun arriskua
 fp-certerror-body-title = Kontuz. Badirudi zerbait oker dagoela.
-fp-certerror-illustration-alt =
-    .alt = Azeri baten ilustrazioa, abisu-seinale laranja bati begira dagoela.
 fp-certerror-why-site-dangerous = Zerk egiten du gunea itxuraz arriskutsu?
 fp-certerror-what-can-you-do = Zer egin dezakezu?
 fp-certerror-advanced-title = Aurreratua

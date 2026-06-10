@@ -159,12 +159,6 @@ webext-site-perms-description-gated-perms-webserial =
     Będzie można wybrać, do których urządzeń witryna ma dostęp.
     
     Witryny zazwyczaj nie mają dostępu do urządzeń podłączonych przez port szeregowy. Niewłaściwe użycie może spowodować uszkodzenia lub zagrozić bezpieczeństwu.
-webext-site-perms-description-gated-perms-serial =
-    Są to urządzenia podłączane przez porty USB lub szeregowe, takie jak mikrokontrolery, drukarki 3D i nie tylko.
-    
-    Będzie można wybrać, do których urządzeń witryna ma dostęp.
-    
-    Witryny zazwyczaj nie mają dostępu do urządzeń podłączonych przez port szeregowy. Niewłaściwe użycie może spowodować uszkodzenia lub zagrozić bezpieczeństwu.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

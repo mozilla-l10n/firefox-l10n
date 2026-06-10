@@ -148,11 +148,6 @@ about-glean-no-data-to-display = Ez dago bistaratzeko daturik.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> neurkerek ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
 about-glean-unknown-metric-type-warning = Neurkera mota ezezaguna.
-about-glean-enable-new-features-promo =
-    .message = Eginbide berriak gehitzeko lanean ari gara! Garapenean daude oraindik baina gaitu nahi badituzu, egin klik ekintzaren botoian hemen.
-    .heading = Eginbide berriak heltzear dira!
-about-glean-enable-new-features-button = Gaitu eginbide berriak
-about-glean-disable-new-features-button = Desgaitu eginbide berriak
 about-glean-about-data-explanation =
     Biltzen den datu-zerrenda arakatzeko, begiratu
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.
