@@ -760,8 +760,6 @@ newtab-widget-lists-button-add-item = Aggiungi un elemento
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Aggiungi un elemento
     .aria-label = Aggiungi un elemento
-newtab-widget-lists-input-add-an-item =
-    .placeholder = Aggiungi un elemento
 newtab-widget-lists-input-error = Includere del testo per aggiungere un elemento.
 newtab-widget-lists-input-menu-open-link = Apri link
 newtab-widget-lists-input-menu-move-up = Sposta in alto
@@ -789,11 +787,6 @@ newtab-widget-lists-name-placeholder-checklist2 =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nuova lista
     .aria-label = Modifica nome lista
-newtab-widget-lists-name-placeholder-checklist =
-    .placeholder = Lista di controllo
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = Nuova lista
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Nascondi widget
 newtab-widget-menu-change-size = Cambia dimensione
@@ -1250,4 +1243,3 @@ newtab-clock-widget-menu-button =
     .aria-label = Apri il menu per l’orologio
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Nome: { $nickname }
-
