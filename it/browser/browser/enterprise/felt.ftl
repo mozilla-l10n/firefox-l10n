@@ -54,6 +54,7 @@ felt-browser-info-console-forced-logout =
 
 felt-error-network = Errore di rete sconosciuto
 felt-error-no-network-connection = Verifica la connessione a Internet e riprova.
+felt-error-neterror-dns-not-found-title = Impossibile contattare il server
 
 ## Updates messages and related errors messages
 
