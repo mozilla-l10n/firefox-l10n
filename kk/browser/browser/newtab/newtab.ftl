@@ -1045,6 +1045,9 @@ newtab-sports-widget-match-full-time = Толық уақыт
 newtab-sports-widget-match-halftime = Үзіліс
 newtab-sports-widget-match-extra-time = Қосымша уақыт
 newtab-sports-widget-match-penalties = Пенальти
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = -
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1052,6 +1055,10 @@ newtab-sports-widget-match-penalties = Пенальти
 newtab-sports-widget-pagination-previous =
     .aria-label = Алдыңғы
     .title = Алдыңғы
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Келесі
+    .title = Келесі
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
