@@ -78,7 +78,6 @@ sidebar-show-on-the-left =
 expand-sidebar-on-hover =
     .label = Espandi la barra laterale al passaggio del mouse
 sidebar-manage-extensions2 = Gestisci tutte le estensioni
-sidebar-manage-extensions = Gestisci estensioni
 sidebar-customize-extensions-header2 = Estensioni
 sidebar-customize-firefox-tools-header2 =
     .label = Strumenti

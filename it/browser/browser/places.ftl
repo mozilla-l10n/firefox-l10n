@@ -271,6 +271,3 @@ places-locked-prompt = I segnalibri e la cronologia non potranno funzionare corr
 places-share-folder2 =
     .label = Condividi cartella
     .badge = Novità
-# Share is a verb here. Meaning to "Share" the bookmark "Folder"
-places-share-folder =
-    .label = Condividi cartella

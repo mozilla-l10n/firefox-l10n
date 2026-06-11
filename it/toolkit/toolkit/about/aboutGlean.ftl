@@ -142,11 +142,6 @@ about-glean-no-data-to-display = Nessun dato da visualizzare.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Le metriche <code>DualLabeledCounter</code> non sono ancora supportate in <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo di metrica sconosciuto.
-about-glean-enable-new-features-promo =
-    .message = Stiamo lavorando per aggiungere nuove funzioni. Sono ancora in fase di sviluppo, ma puoi fare clic sul pulsante qui accanto per attivarle.
-    .heading = Presto saranno disponibili nuove funzionalità
-about-glean-enable-new-features-button = Attiva nuove funzioni
-about-glean-disable-new-features-button = Disattiva nuove funzioni
 about-glean-about-data-explanation = Per sfogliare l’elenco dei dati raccolti, consultare il <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
