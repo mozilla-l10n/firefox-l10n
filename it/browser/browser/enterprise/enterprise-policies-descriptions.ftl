@@ -10,3 +10,4 @@ policy-Sync = Attiva o disattiva la sincronizzazione e definisci quali dati incl
 policy-CrashReportsSubmit = Configura le impostazioni per l’invio delle segnalazioni di arresto anomalo.
 policy-AIChatbot = Configura i provider di chatbot AI disponibili, il provider predefinito e le funzionalità di prompt.
 policy-AccessConnector = Configurare un access connector per l’inoltro del traffico web.
+policy-AccessConnector2 = Configurare { -enterprise-feature-access-connector } per l’inoltro del traffico web.
