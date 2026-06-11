@@ -1046,6 +1046,13 @@ newtab-sports-widget-match-halftime = Үзіліс
 newtab-sports-widget-match-extra-time = Қосымша уақыт
 newtab-sports-widget-match-penalties = Пенальти
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Алдыңғы
+    .title = Алдыңғы
+
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:
