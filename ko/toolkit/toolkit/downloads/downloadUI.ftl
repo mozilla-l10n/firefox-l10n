@@ -30,8 +30,8 @@ download-ui-confirm-offline-cancel-downloads =
 download-ui-dont-go-offline-button = 온라인 상태 유지
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
-        [1] 모든 사생활 보호 창을 닫으면, 1개의 다운로드가 취소됩니다. 사생활 보호 모드에서 나가시겠습니까?
-       *[other] 모든 사생활 보호 창을 닫으면, { $downloadsCount }개의 다운로드가 취소됩니다. 사생활 보호 모드에서 나가시겠습니까?
+        [1] 모든 사생활 보호 창을 닫으면, 다운로드 1개가 취소됩니다. 사생활 보호 모드에서 나가시겠습니까?
+       *[other] 모든 사생활 보호 창을 닫으면, 다운로드 { $downloadsCount }개가 취소됩니다. 사생활 보호 모드에서 나가시겠습니까?
     }
 download-ui-dont-leave-private-browsing-button = 사생활 보호 모드 계속하기
 download-ui-cancel-downloads-ok =
