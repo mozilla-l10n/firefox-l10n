@@ -13,6 +13,8 @@ felt-version-nightly = { $version } ({ $isodate })
 # Variables:
 #   $version (String): version of Firefox for beta and release builds
 felt-version = Version { $version }
+felt-urlbar-web-authn-anchor =
+    .tooltiptext = Ouvrir le panneau d’authentification web
 felt-window-title = { -brand-short-name } — Identification
 felt-sso-title = Connexion
 felt-sso-input-email =
@@ -52,6 +54,7 @@ felt-browser-info-console-forced-logout =
 
 felt-error-network = Erreur réseau inconnue
 felt-error-no-network-connection = Veuillez vérifier votre connexion Internet puis réessayer.
+felt-error-neterror-dns-not-found-title = Adresse introuvable
 
 ## Updates messages and related errors messages
 
