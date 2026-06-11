@@ -1027,12 +1027,12 @@ home-prefs-search-header =
 home-prefs-search-header2 =
     .label = Keresés
 home-prefs-shortcuts-header =
-    .label = Gyorskeresők
+    .label = Indítóikonok
 home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
 home-prefs-shortcuts-select =
-    .aria-label = Gyorskeresők
+    .aria-label = Indítóikonok
 home-prefs-shortcuts-by-option-sponsored =
-    .label = Szponzorált gyorskeresők
+    .label = Szponzorált indítóikonok
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 
@@ -1949,8 +1949,8 @@ addressbar-locbar-openpage-option =
     .accesskey = N
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = Gyorskeresők
-    .accesskey = G
+    .label = Indítóikonok
+    .accesskey = I
 addressbar-locbar-topsites-option =
     .label = Kedvenc oldalak
     .accesskey = K

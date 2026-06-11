@@ -316,14 +316,14 @@ newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az old
 
 ## Customization Menu
 
-newtab-custom-shortcuts-title = Gyorskeresők
+newtab-custom-shortcuts-title = Indítóikonok
 newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Gyorskeresők
+    .label = Indítóikonok
     .description = Mentett vagy felkeresett webhelyek
 newtab-custom-shortcuts-nova =
-    .label = Gyorskeresők
+    .label = Indítóikonok
 newtab-custom-row-description =
     .description = Sorok száma
 # Variables
@@ -342,7 +342,7 @@ newtab-custom-row-selector =
         [one] { $num } sor
        *[other] { $num } sor
     }
-newtab-custom-sponsored-sites = Szponzorált gyorskeresők
+newtab-custom-sponsored-sites = Szponzorált indítóikonok
 newtab-custom-pocket-title = A { -pocket-brand-name } által ajánlott
 newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
