@@ -38,9 +38,18 @@ home-homepage-title =
     .label = Početna stranica
 home-homepage-new-tabs =
     .label = Nove kartice
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Odaberi određenu web-stranicu
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Trenutačno otvorene stranice
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Zabilješke …
 
 ## Firefox Home content
 
@@ -48,11 +57,25 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Pretraga
+home-prefs-stories-header2 =
+    .label = Priče
+    .description = Izvanredni sadržaj kojeg je odabrala obitelj { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgeti
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Popisi
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
+home-prefs-mission-message2 =
+    .message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba.
+home-prefs-manage-topics-link2 =
+    .label = Upravljaj temama
+home-prefs-choose-wallpaper-link2 =
+    .label = Odaberi pozadinu
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logotip
 home-restore-defaults-srd =
     .label = Obnovi standardne postavke
     .accesskey = O
@@ -82,6 +105,9 @@ home-prefs-recent-activity-select =
     .aria-label = Nedavna aktivnost
 home-prefs-weather-header-srd =
     .label = Vremenska prognoza
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } podrška
+home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
 ## Search box component.
 
