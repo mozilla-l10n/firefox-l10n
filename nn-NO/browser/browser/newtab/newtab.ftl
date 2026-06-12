@@ -42,6 +42,20 @@ newtab-card-dismiss-button =
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-widgets-header =
+    .label = Widgetar
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lister
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Nedteljing
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klokke
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -53,12 +67,32 @@ home-prefs-sections-rows-option-srd =
 home-restore-defaults-srd =
     .label = Bruk standardinnstillingar
     .accesskey = r
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Standard)
+home-mode-choice-custom-srd =
+    .label = Tilpassa nettadresser…
+home-mode-choice-blank-srd =
+    .label = Tom side
 home-prefs-shortcuts-header-srd =
     .label = Snarvegar
 home-prefs-shortcuts-select =
     .aria-label = Snarvegar
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsa snarvegar
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Besøkte sider
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Bokmerke
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Siste nedlasting
+home-prefs-recent-activity-header-srd =
+    .label = Nyleg aktivitet
+home-prefs-recent-activity-select =
+    .aria-label = Nyleg aktivitet
+home-prefs-weather-header-srd =
+    .label = Vêr
+home-prefs-support-firefox-header-srd =
+    .label = Støtt { -brand-product-name }
 
 ## Search box component.
 
