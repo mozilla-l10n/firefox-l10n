@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Yangi varaqlar
 
 ## Custom URLs subpage
 
@@ -31,6 +33,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } qator
            *[other] { $num } qator
         }
+home-restore-defaults-srd =
+    .label = Asliga tiklash
+    .accesskey = t
+home-mode-choice-custom-srd =
+    .label = Boshqa URL manzillar
+home-mode-choice-blank-srd =
+    .label = Bo‘sh sahifa
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Homiylik maqolalari
 home-prefs-highlights-option-visited-pages-srd =
