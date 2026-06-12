@@ -46,6 +46,23 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Адрас(ы) сайта(ў)
+home-custom-homepage-address =
+    .placeholder = Увядзіце адрас
+home-custom-homepage-address-button =
+    .label = Дадаць адрас
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Пакуль не дададзены ніводны сайт.
+home-custom-homepage-delete-address-button =
+    .aria-label = Выдаліць адрас
+    .title = Выдаліць адрас
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Замяніць на
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Зараз адкрытыя старонкі
@@ -89,6 +106,20 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Каб карыстацца гэтымі функцыямі, абярыце для новых картак або новых вокнаў { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } радок
+            [few] { $num } радкі
+           *[many] { $num } радкоў
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Пашырэнне ({ $extension })
 home-restore-defaults-srd =
     .label = Аднавіць прадвызначэнні
     .accesskey = А
