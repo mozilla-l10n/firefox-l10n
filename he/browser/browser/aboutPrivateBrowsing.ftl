@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = אנו מסרבים כעת ל
 about-private-browsing-felt-privacy-v1-info-header = לא להשאיר עקבות במכשיר זה
 about-private-browsing-felt-privacy-v1-info-body = ‏{ -brand-short-name } מוחק את העוגיות, ההיסטוריה ונתוני האתר שלך כאשר כל החלונות הפרטיים שלך נסגרים.
 about-private-browsing-felt-privacy-v1-info-link = מי יכול לראות את הפעילות שלי?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = סגירת כל החלונות הפרטיים שלך מוחקת את העוגיות, ההיסטוריה ונתוני האתר שלך.

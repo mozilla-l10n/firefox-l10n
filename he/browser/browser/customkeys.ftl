@@ -20,6 +20,9 @@ customkeys-history-reopen-window = פתיחת החלון האחרון שנסגר
 customkeys-sidebar-toggle = הצגה/הסתרה של סרגל הצד
 customkeys-view-bookmarks-toolbar = הצגה/הסתרה של סרגל כלים סימניות
 customkeys-view-picture-in-picture = תמונה בתוך תמונה
+customkeys-view-add-split-view = הוספת תצוגה מפוצלת
+# Separate is a verb
+customkeys-view-separate-split-view = הפרדת התצוגה המפוצלת
 customkeys-dev-tools = כלי פיתוח
 customkeys-dev-inspector = מפקח DOM וסגנון
 customkeys-dev-webconsole = מסוף רשת

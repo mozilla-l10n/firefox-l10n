@@ -137,8 +137,17 @@ options-local-mode-choose-folder-picker-title = Eliger modalitate local plica pr
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Iste plica non existe, o non es valide.
+options-local-mode-toggle =
+    .title = Mutar iste mappage local
 options-local-mode-toggle-enable = Activar
 options-local-mode-toggle-disable = Disactivar
+options-local-mode-navigate-to =
+    .title = Navigar a iste URL de mappage
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Vole tu remover le mappage “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Adder un nove mappage local
 
 ## Advanced section
 

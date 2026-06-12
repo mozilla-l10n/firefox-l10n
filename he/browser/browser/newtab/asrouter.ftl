@@ -454,3 +454,11 @@ relay-50-masks-announcement-primary-button = מעבר אל { -relay-brand-name }
     .accesskey = מ
 relay-50-masks-announcement-secondary-button = סגירה
     .accesskey = ס
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>‏{ -brand-product-name } מקבל מראה חדש.</strong> זו הצצה לגרסה מוקדמת ולא סופית לפני ההשקה בהמשך השנה.
+nova-early-access-share-feedback-link = שיתוף משוב
+    .accesskey = מ
+nova-early-access-infobar-primary-button = הבנתי
+    .accesskey = ה

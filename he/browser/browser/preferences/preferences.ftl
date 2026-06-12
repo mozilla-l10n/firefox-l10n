@@ -1272,6 +1272,8 @@ containers-settings-button =
     .label = הגדרות
 containers-remove-button =
     .label = הסרה
+containers-section-header2 =
+    .heading = הגדרות מגירה
 
 ## Account and sync
 
