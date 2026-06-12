@@ -22,6 +22,8 @@ newtab-settings-button =
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
     .label = { $num } fila
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Páginas ntsinu
 
 ## Search box component.
 
