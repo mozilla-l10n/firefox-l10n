@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Buscar
 home-prefs-widgets-header =
@@ -56,6 +58,12 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Reloj
+home-prefs-shortcuts-header-srd =
+    .label = Accesos directos
+home-prefs-shortcuts-select =
+    .aria-label = Accesos directos
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Accesos directos patrocinados
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Historias patrocinadas
 home-prefs-highlights-option-visited-pages-srd =
