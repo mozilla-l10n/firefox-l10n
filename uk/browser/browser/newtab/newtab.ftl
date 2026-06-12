@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Домівка
+home-homepage-new-windows =
+    .label = Нові вікна
+home-homepage-new-tabs =
+    .label = Нові вкладки
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Вибрати певний сайт
@@ -74,6 +78,9 @@ home-prefs-choose-wallpaper-link2 =
     .label = Виберіть шпалеру
 home-prefs-firefox-logo-header =
     .label = Логотип { -brand-short-name }
+home-restore-defaults-srd =
+    .label = Відновити типові
+    .accesskey = т
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Типово)
 home-mode-choice-custom-srd =
