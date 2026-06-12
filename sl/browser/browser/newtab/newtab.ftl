@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Domača stran
+home-homepage-new-windows =
+    .label = Nova okna
+home-homepage-new-tabs =
+    .label = Novi zavihki
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Izberite določeno stran
@@ -80,6 +84,9 @@ home-prefs-choose-wallpaper-link2 =
     .label = Izberite si ozadje
 home-prefs-firefox-logo-header =
     .label = Logotip { -brand-short-name(sklon: "rodilnik") }
+home-restore-defaults-srd =
+    .label = Obnovi privzeto
+    .accesskey = O
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name(zacetnica: "velika") } (privzeta)
 home-mode-choice-custom-srd =
