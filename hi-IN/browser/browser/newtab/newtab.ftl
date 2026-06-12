@@ -33,6 +33,10 @@ home-mode-choice-custom-srd =
     .label = संशोधित URLs
 home-mode-choice-blank-srd =
     .label = खाली पृष्ठ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = प्रायोजित कहानियां
+home-prefs-highlights-option-visited-pages-srd =
+    .label = देखे गए पृष्ठ
 
 ## Search box component.
 
