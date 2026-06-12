@@ -46,6 +46,23 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Վեբ-կայքի հասցե(ներ)
+home-custom-homepage-address =
+    .placeholder = Մուտքագրեք հասցե
+home-custom-homepage-address-button =
+    .label = Ավելացնել հասցե
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Դեռևս կայքեր չեն ավելացվել։
+home-custom-homepage-delete-address-button =
+    .aria-label = Ջնջել հասցեն
+    .title = Ջնջել հասցեն
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Փոխարինել՝
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Բացված էջեր
