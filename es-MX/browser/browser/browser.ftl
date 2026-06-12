@@ -1309,6 +1309,8 @@ panel-save-update-username = Nombre de usuario
 panel-save-update-password = Contraseña
 panel-save-update-username-2 =
     .label = Nombre de usuario
+panel-save-update-password-2 =
+    .label = Contraseña
 
 ##
 
