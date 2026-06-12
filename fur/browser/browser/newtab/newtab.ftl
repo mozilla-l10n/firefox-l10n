@@ -34,14 +34,75 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Pagjine iniziâl
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Sielç un sît specific
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Ricercje
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listis
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizadôr
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sports
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Orloi
+home-prefs-mission-message2 =
+    .message = I nestris prudeladôrs a sostegnin la nestre mission di fâ sù un web miôr.
+home-prefs-manage-topics-link2 =
+    .label = Gjestìs argoments
+home-prefs-choose-wallpaper-link2 =
+    .label = Sielç un fonts
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Par doprâ chestis funzions, stabilìs gnovis schedis o gnûfs barcons su { -firefox-home-brand-name }.
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predefinît)
+home-mode-choice-custom-srd =
+    .label = Direzions web personalizadis…
+home-mode-choice-blank-srd =
+    .label = Pagjine vueide
+home-prefs-shortcuts-header-srd =
+    .label = Scurtis
+home-prefs-shortcuts-select =
+    .aria-label = Scurtis
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Scurtis sponsorizadis
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Storiis patrocinadis
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pagjinis visitadis
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Segnelibris
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Discjariâts plui di resint
+home-prefs-recent-activity-header-srd =
+    .label = Ativitât resinte
+home-prefs-recent-activity-select =
+    .aria-label = Ativitât resinte
+home-prefs-weather-header-srd =
+    .label = Meteo
+home-prefs-support-firefox-header-srd =
+    .label = Prudele { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Scuvierç cemût
 
 ## Search box component.
 
