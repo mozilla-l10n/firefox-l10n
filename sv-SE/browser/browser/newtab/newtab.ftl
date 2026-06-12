@@ -42,9 +42,53 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Ta bort adress
+    .title = Ta bort adress
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ersätt med
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = För närvarande öppna sidor
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bokmärken…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Sök
+home-prefs-widgets-header =
+    .label = Widgetar
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listor
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klocka
+home-prefs-mission-message2 =
+    .message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb.
+home-prefs-manage-topics-link2 =
+    .label = Hantera ämnen
+home-prefs-choose-wallpaper-link2 =
+    .label = Välj en bakgrundsbild
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logotyp
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = För att använda dessa funktioner, ställ in nya flikar eller fönster till { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Standard)
 home-mode-choice-custom-srd =
@@ -71,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = Senaste aktivitet
 home-prefs-weather-header-srd =
     .label = Väder
+home-prefs-support-firefox-header-srd =
+    .label = Stöd { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Ta reda på hur
 
 ## Search box component.
 
