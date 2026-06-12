@@ -34,6 +34,19 @@ home-homepage-new-tabs =
 
 home-prefs-firefox-logo-header =
     .label = آرم { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ردیف
+           *[other] { $num } ردیف
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = افزونه ({ $extension })
 home-restore-defaults-srd =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
