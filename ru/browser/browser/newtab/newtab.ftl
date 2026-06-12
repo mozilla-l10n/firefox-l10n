@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Домашняя страница
+home-homepage-new-windows =
+    .label = Новые окна
+home-homepage-new-tabs =
+    .label = Новые вкладки
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Выбрать определённый сайт
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name(case: "nominative_uppercase") }
 home-prefs-search-header2 =
     .label = Поиск
+home-prefs-stories-header2 =
+    .label = Истории
+    .description = Исключительный контент, курируемый семейством { -brand-product-name }
 home-prefs-widgets-header =
     .label = Виджеты
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -98,6 +105,9 @@ home-prefs-sections-rows-option-srd =
             [few] { $num } строки
            *[many] { $num } строк
         }
+home-restore-defaults-srd =
+    .label = Восстановить по умолчанию
+    .accesskey = о
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name(case: "nominative_uppercase") } (по умолчанию)
 home-mode-choice-custom-srd =
@@ -110,6 +120,8 @@ home-prefs-shortcuts-select =
     .aria-label = Ярлыки
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Спонсируемые ярлыки
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Статьи спонсоров
 home-prefs-highlights-option-visited-pages-srd =
     .label = Посещённые страницы
 home-prefs-highlights-options-bookmarks-srd =
