@@ -41,6 +41,14 @@ home-prefs-shortcuts-header-srd =
     .label = Berradennoù
 home-prefs-shortcuts-select =
     .aria-label = Berradennoù
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Sinedoù
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Pellgargadurioù nevez
+home-prefs-recent-activity-header-srd =
+    .label = Oberiantiz a-nevez
+home-prefs-recent-activity-select =
+    .aria-label = Oberiantiz a-nevez
 
 ## Search box component.
 
