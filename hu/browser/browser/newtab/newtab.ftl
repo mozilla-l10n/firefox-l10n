@@ -42,15 +42,66 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Még nincsenek webhelyek hozzáadva.
+home-custom-homepage-delete-address-button =
+    .aria-label = Cím törlése
+    .title = Cím törlése
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Csere erre:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Jelenleg megnyitott oldalak
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Könyvjelzők…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Keresés
+home-prefs-widgets-header =
+    .label = Kisalkalmazások
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listák
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Időzítő
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Óra
+home-prefs-mission-message2 =
+    .message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk.
+home-prefs-manage-topics-link2 =
+    .label = Témák kezelése
+home-prefs-choose-wallpaper-link2 =
+    .label = Válasszon egy háttérképet
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logó
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Ezen funkciók használatához állítsa be az új lapokat vagy ablakokat, hogy a { -firefox-home-brand-name }ot jelenítsék meg.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (alapértelmezett)
 home-mode-choice-custom-srd =
     .label = Egyéni webcímek…
 home-mode-choice-blank-srd =
     .label = Üres lap
+home-prefs-shortcuts-header-srd =
+    .label = Indítóikonok
+home-prefs-shortcuts-select =
+    .aria-label = Indítóikonok
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Szponzorált indítóikonok
 home-prefs-recommended-by-option-sponsored-stories-srd =
@@ -67,6 +118,9 @@ home-prefs-recent-activity-select =
     .aria-label = Legutóbbi tevékenység
 home-prefs-weather-header-srd =
     .label = Időjárás
+home-prefs-support-firefox-header-srd =
+    .label = A { -brand-product-name } támogatása
+home-prefs-mission-message-learn-more-link-srd = Tudja meg hogyan
 
 ## Search box component.
 
