@@ -25,6 +25,10 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label = { $num } ແຖວ
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ຄ່າເລີ່ມຕົ້ນ)
 home-mode-choice-custom-srd =
@@ -37,6 +41,18 @@ home-prefs-shortcuts-select =
     .aria-label = ທາງລັດ
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = ທາງລັດສະປອນເຊີ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
+home-prefs-highlights-option-visited-pages-srd =
+    .label = ຫນ້າທີ່ເຂົ້າໄປເບິ່ງແລ້ວ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = ບຸກມາກ
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = ການດາວໂຫລດລ່າສຸດ
+home-prefs-recent-activity-header-srd =
+    .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
+home-prefs-recent-activity-select =
+    .aria-label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 
 ## Search box component.
 
