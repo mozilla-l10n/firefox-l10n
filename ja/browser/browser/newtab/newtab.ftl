@@ -34,12 +34,17 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 特定のサイトを選択
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-widgets-header =
     .label = ウィジェット
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -54,6 +59,30 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 時計
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (既定)
+home-mode-choice-custom-srd =
+    .label = カスタム URL...
+home-mode-choice-blank-srd =
+    .label = 空白ページ
+home-prefs-shortcuts-header-srd =
+    .label = ショートカット
+home-prefs-shortcuts-select =
+    .aria-label = ショートカット
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = 広告ショートカット
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = 広告記事
+home-prefs-highlights-option-visited-pages-srd =
+    .label = 訪れたページ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = ブックマーク
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = 最近のダウンロード
+home-prefs-recent-activity-header-srd =
+    .label = 最近のアクティビティ
+home-prefs-recent-activity-select =
+    .aria-label = 最近のアクティビティ
 home-prefs-weather-header-srd =
     .label = 天気予報
 home-prefs-support-firefox-header-srd =
