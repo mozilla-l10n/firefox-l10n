@@ -42,9 +42,26 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Adres fuortsmite
+    .title = Adres fuortsmite
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ferfange troch
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktuele iepene siden
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Blêdwizers…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Sykje
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -59,6 +76,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Klok
+home-prefs-mission-message2 =
+    .message = Us sponsors stypje ús misje om in better web te bouwen.
+home-prefs-manage-topics-link2 =
+    .label = Underwerpen beheare
+home-prefs-choose-wallpaper-link2 =
+    .label = Kies in eftergrûn
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Stel nije ljepblêden of nije finsters yn op { -firefox-home-brand-name } om dizze funksjes te brûken.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standert)
 home-mode-choice-custom-srd =
@@ -85,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = Resinte aktiviteit
 home-prefs-weather-header-srd =
     .label = It waar
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } stypje
+home-prefs-mission-message-learn-more-link-srd = Lês hjir hoe
 
 ## Search box component.
 
