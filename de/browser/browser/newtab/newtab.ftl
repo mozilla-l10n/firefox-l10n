@@ -40,6 +40,18 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Standard)
+home-mode-choice-custom-srd =
+    .label = Benutzerdefinierte Adressen…
+home-mode-choice-blank-srd =
+    .label = Leere Seite
+home-prefs-shortcuts-header-srd =
+    .label = Verknüpfungen
+home-prefs-shortcuts-select =
+    .aria-label = Verknüpfungen
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Gesponserte Verknüpfungen
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Gesponserte Artikel
 home-prefs-highlights-option-visited-pages-srd =
