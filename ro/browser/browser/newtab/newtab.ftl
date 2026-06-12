@@ -48,6 +48,18 @@ home-prefs-shortcuts-select =
     .aria-label = Comenzi rapide
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Comenzi rapide sponsorizate
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articole sponsorizate
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pagini vizitate
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcaje
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Cele mai recente descărcări
+home-prefs-recent-activity-header-srd =
+    .label = Activitate recentă
+home-prefs-recent-activity-select =
+    .aria-label = Activitate recentă
 
 ## Search box component.
 
