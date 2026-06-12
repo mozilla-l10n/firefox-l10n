@@ -23,6 +23,14 @@ newtab-personalize-dialog-label =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } cholaj
+           *[other] { $num } taq cholaj
+        }
 home-prefs-shortcuts-header-srd =
     .label = Chojmin Okem
 home-prefs-shortcuts-select =
