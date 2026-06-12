@@ -40,6 +40,26 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Поиск
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name(case: "nominative_uppercase") } (по умолчанию)
+home-prefs-shortcuts-header-srd =
+    .label = Ярлыки
+home-prefs-shortcuts-select =
+    .aria-label = Ярлыки
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Спонсируемые ярлыки
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Посещённые страницы
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Закладки
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Недавние загрузки
+home-prefs-recent-activity-header-srd =
+    .label = Последние действия
+home-prefs-recent-activity-select =
+    .aria-label = Последние действия
 
 ## Search box component.
 
