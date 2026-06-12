@@ -42,9 +42,46 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = ახლად გახსნილი გვერდები
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = სანიშნები…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = ძიება
+home-prefs-widgets-header =
+    .label = ჩანამატები
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = სიები
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = წამმზომი
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = სპორტი
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = საათი
+home-prefs-mission-message2 =
+    .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
+home-prefs-manage-topics-link2 =
+    .label = თემების მართვა
+home-prefs-choose-wallpaper-link2 =
+    .label = ფონის არჩევა
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } – ლოგო
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = ამ შესაძლებლობებით სარგებლობისთვის მომართეთ { -firefox-home-brand-name } ახალი ჩანართებითა და ფანჯრებით.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ნაგულისხმევი)
 home-mode-choice-custom-srd =
@@ -55,6 +92,8 @@ home-prefs-shortcuts-header-srd =
     .label = მალსახმობები
 home-prefs-shortcuts-select =
     .aria-label = მალსახმობები
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = მალსახმობები დამკვეთებისგან
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = ამბები დამკვეთებისგან
 home-prefs-highlights-option-visited-pages-srd =
@@ -69,6 +108,9 @@ home-prefs-recent-activity-select =
     .aria-label = ბოლო მოქმედებები
 home-prefs-weather-header-srd =
     .label = ამინდი
+home-prefs-support-firefox-header-srd =
+    .label = თანადგომა – { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = იხილეთ, როგორ
 
 ## Search box component.
 
