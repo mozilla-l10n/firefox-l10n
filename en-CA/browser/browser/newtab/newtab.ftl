@@ -34,6 +34,15 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Homepage
+home-homepage-new-windows =
+    .label = New windows
+home-homepage-new-tabs =
+    .label = New tabs
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Choose a specific site
 
 ## Custom URLs subpage
 
@@ -77,6 +86,15 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = To use these features, set new tabs or new windows to { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restore Defaults
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Default)
+home-mode-choice-custom-srd =
+    .label = Custom URLs…
+home-mode-choice-blank-srd =
+    .label = Blank Page
 home-prefs-shortcuts-header-srd =
     .label = Shortcuts
 home-prefs-shortcuts-select =
