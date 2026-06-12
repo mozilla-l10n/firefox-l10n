@@ -47,6 +47,8 @@ home-homepage-custom-homepage-button =
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Пошук
 home-prefs-stories-header2 =
     .label = Історії
     .description = Добірні матеріали від { -brand-product-name }
