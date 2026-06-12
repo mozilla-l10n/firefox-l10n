@@ -40,8 +40,18 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = 快捷方式
+home-prefs-shortcuts-select =
+    .aria-label = 快捷方式
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = 赞助商网站
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = 赞助内容
+home-prefs-recent-activity-header-srd =
+    .label = 近期动态
+home-prefs-recent-activity-select =
+    .aria-label = 近期动态
 
 ## Search box component.
 
