@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = 赞助内容
 
 ## Search box component.
 
