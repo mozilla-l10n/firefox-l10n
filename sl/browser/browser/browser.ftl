@@ -1318,6 +1318,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 panel-save-update-username = Uporabniško ime
 panel-save-update-password = Geslo
+panel-save-update-username-2 =
+    .label = Uporabniško ime
+panel-save-update-password-2 =
+    .label = Geslo
 
 ##
 
