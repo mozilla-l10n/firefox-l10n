@@ -37,6 +37,9 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = Endurheimta sjálfgefin gildi
+    .accesskey = r
 
 ## Search box component.
 
