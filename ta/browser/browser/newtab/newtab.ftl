@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = புதிய கீற்றுகள்
 
 ## Custom URLs subpage
 
@@ -26,6 +28,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } வரிசை
            *[other] { $num } வரிசைகள்
         }
+home-restore-defaults-srd =
+    .label = முன்னிருப்புக்கு மீட்டமை
+    .accesskey = R
 home-mode-choice-custom-srd =
     .label = தனிப்பயன் உரலிகள்...
 home-mode-choice-blank-srd =
