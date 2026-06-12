@@ -34,12 +34,49 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = 首頁
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 選擇特定網站
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } 行
+           *[other] { $num } 行
+        }
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name }（預設）
+home-mode-choice-custom-srd =
+    .label = 自訂網址…
+home-mode-choice-blank-srd =
+    .label = 空白頁
+home-prefs-shortcuts-header-srd =
+    .label = 捷徑
+home-prefs-shortcuts-select =
+    .aria-label = 捷徑
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = 贊助捷徑
+home-prefs-highlights-option-visited-pages-srd =
+    .label = 造訪過的頁面
+home-prefs-highlights-options-bookmarks-srd =
+    .label = 書籤
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = 最新下載
+home-prefs-recent-activity-header-srd =
+    .label = 近期動態
+home-prefs-recent-activity-select =
+    .aria-label = 近期動態
+home-prefs-weather-header-srd =
+    .label = 天氣
 
 ## Search box component.
 
