@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Rakïj ñanj nakàa
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num }dukuáan
            *[other] { $num }ga'ì dukuáan
         }
+home-restore-defaults-srd =
+    .label = Nagi'io' ru'ua nìanj
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = Nagi'iaj mu'ù nej URL...
+home-mode-choice-blank-srd =
+    .label = Ñanj gatsìi
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Nej sa du'uej
 home-prefs-highlights-option-visited-pages-srd =
