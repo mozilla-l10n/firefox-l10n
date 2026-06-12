@@ -34,12 +34,32 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Pagină de start
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Alege un anumit site
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Șterge adresa
+    .title = Șterge adresa
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Înlocuiește cu
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pagini deschise acum
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcaje…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Caută
 home-prefs-widgets-header =
@@ -62,6 +82,8 @@ home-prefs-manage-topics-link2 =
     .label = Gestionează subiectele
 home-prefs-choose-wallpaper-link2 =
     .label = Alege o imagine de fundal
+home-prefs-firefox-logo-header =
+    .label = Logoul { -brand-short-name }
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
