@@ -40,8 +40,44 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lister
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ur
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Standard)
+home-mode-choice-custom-srd =
+    .label = Tilpassede URL'er…
+home-mode-choice-blank-srd =
+    .label = Tom side
+home-prefs-shortcuts-header-srd =
+    .label = Genveje
+home-prefs-shortcuts-select =
+    .aria-label = Genveje
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsorerede genveje
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponsorerede historier
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Besøgte sider
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Bogmærker
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Seneste filhentninger
+home-prefs-recent-activity-header-srd =
+    .label = Seneste aktivitet
+home-prefs-recent-activity-select =
+    .aria-label = Seneste aktivitet
 
 ## Search box component.
 
