@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Trang chủ
+home-homepage-new-windows =
+    .label = Cửa sổ mới
+home-homepage-new-tabs =
+    .label = Thẻ mới
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Chọn một trang web cụ thể
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Tìm kiếm
+home-prefs-stories-header2 =
+    .label = Câu chuyện
+    .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widget
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Để sử dụng các tính năng này, hãy đặt thẻ mới hoặc cửa sổ mới thành { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Khôi phục về mặc định
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Mặc định)
 home-mode-choice-custom-srd =
