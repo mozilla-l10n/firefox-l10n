@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Startowa strona
+home-homepage-new-windows =
+    .label = Nowe wokna
+home-homepage-new-tabs =
+    .label = Nowe rajtarki
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wubjerće wěste sydło
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Pytać
+home-prefs-stories-header2 =
+    .label = Stawiznički
+    .description = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
 home-prefs-widgets-header =
     .label = Asistenty
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Zo byšće tute funkcije wužiwał, stajće nowe rajtarki abo nowe wokna do { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Standard wobnowić
+    .accesskey = S
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standard)
 home-mode-choice-custom-srd =
