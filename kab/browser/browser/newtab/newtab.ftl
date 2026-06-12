@@ -31,6 +31,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Iccer amaynut
 
 ## Custom URLs subpage
 
@@ -39,6 +41,9 @@ newtab-logo-and-wordmark =
 
 home-prefs-firefox-logo-header =
     .label = Alugu n { -brand-short-name }
+home-restore-defaults-srd =
+    .label = Err-d iɣewwaṛen imezwar
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Amezwer)
 home-mode-choice-custom-srd =
