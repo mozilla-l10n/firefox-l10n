@@ -37,9 +37,17 @@ newtab-card-dismiss-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Faqe aktualisht të hapura
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Faqerojtës…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Kërko
 home-prefs-widgets-header =
@@ -56,6 +64,8 @@ home-prefs-manage-topics-link2 =
     .label = Administroni subjekte
 home-prefs-choose-wallpaper-link2 =
     .label = Zgjidhni një sfond
+home-prefs-firefox-logo-header =
+    .label = Stemë e { -brand-short-name }-it
 home-prefs-shortcuts-header-srd =
     .label = Shkurtore
 home-prefs-shortcuts-select =
