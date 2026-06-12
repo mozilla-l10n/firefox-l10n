@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Tabbe kese
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } gorol
            *[other] { $num } gorol
         }
+home-restore-defaults-srd =
+    .label = Artir Goowaaɗe
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = Heertin URLs...
+home-mode-choice-blank-srd =
+    .label = Hello Meho
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Daari joɓanaaɗi
 home-prefs-highlights-option-visited-pages-srd =
