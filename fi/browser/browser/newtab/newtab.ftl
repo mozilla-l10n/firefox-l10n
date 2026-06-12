@@ -46,6 +46,14 @@ home-prefs-shortcuts-select =
     .aria-label = Oikotiet
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsoroidut oikotiet
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsoroidut tarinat
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Vieraillut sivustot
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Kirjanmerkit
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Viimeisimmät lataukset
 
 ## Search box component.
 
