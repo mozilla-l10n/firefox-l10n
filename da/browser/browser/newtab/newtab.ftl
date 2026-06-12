@@ -31,6 +31,16 @@ newtab-card-dismiss-button =
     .title = Afvis
     .aria-label = Afvis
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +161,8 @@ newtab-menu-section-block = Bloker
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Stop med at følge
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Læs mere
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Stop med at følge emne
@@ -1008,6 +1020,9 @@ newtab-sports-widget-match-full-time = Færdigspillet
 newtab-sports-widget-match-halftime = Halvleg
 newtab-sports-widget-match-extra-time = Forlænget spilletid
 newtab-sports-widget-match-penalties = Straffe
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
