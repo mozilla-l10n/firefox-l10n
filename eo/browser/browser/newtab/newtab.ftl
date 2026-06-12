@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Eka paĝo
+home-homepage-new-windows =
+    .label = Novaj fenestroj
+home-homepage-new-tabs =
+    .label = Novaj langetoj
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elekti specifan retejon
@@ -55,6 +59,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Serĉi
+home-prefs-stories-header2 =
+    .label = Artikoloj
+    .description = Eksterordinara enhavo elektita de la familio de { -brand-product-name }
 home-prefs-widgets-header =
     .label = Komponantoj
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -82,6 +89,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Por uzi tiujn ĉi trajtojn, agordu novajn lagetojn aŭ fenestrojn en { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Remeti normojn
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Norma)
 home-mode-choice-custom-srd =
