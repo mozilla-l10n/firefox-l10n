@@ -1027,6 +1027,8 @@ newtab-sports-widget-view-schedule =
     .label = Se tidsplan
 newtab-sports-widget-follow-teams =
     .label = Følg hold
+newtab-sports-widget-view-matches =
+    .label = Se kampe
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -1077,6 +1079,14 @@ newtab-sports-widget-watch-stream-free-paid = Gratis og betalt
 newtab-sports-widget-watch-stream-paid = Betalt
 # Note: provider only streams some matches, not the full tournament.
 newtab-sports-widget-watch-stream-select-games-only = Kun udvalgte kampe
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Tilgængelig i din region
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Andre regioner
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Åben stream
+    .title = Åben stream
 newtab-sports-widget-group-stage = Gruppespillet
 newtab-sports-widget-group-a = Gruppe A
 newtab-sports-widget-group-b = Gruppe B
@@ -1098,6 +1108,8 @@ newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
     .title = Opdater scorer
     .aria-label = Opdater scorer
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Vigtige datoer
 newtab-sports-widget-upcoming = Kommende
 # Used for a match currently ongoing
 newtab-sports-widget-now = Nu
@@ -1118,6 +1130,7 @@ newtab-sports-widget-postponed = Udsat
 newtab-sports-widget-suspended = Suspenderet
 newtab-sports-widget-cancelled = Aflyst
 newtab-sports-widget-information = Information om kampen
+newtab-sports-widget-no-live-data = Liveopdateringer af kampdata opdateres ikke lige nu
 newtab-sports-widget-view-results-link = Vis resultater
 newtab-sports-widget-third-place = Tredjeplads
 # Runner-up is the team in 2nd place.
