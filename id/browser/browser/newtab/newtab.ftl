@@ -39,6 +39,8 @@ newtab-logo-and-wordmark =
 
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Pintasan bersponsor
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Konten Sponsor
 
 ## Search box component.
 
