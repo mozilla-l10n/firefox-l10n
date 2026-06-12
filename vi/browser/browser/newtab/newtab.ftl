@@ -34,12 +34,53 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Trang chủ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Chọn một trang web cụ thể
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Widget
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Danh sách
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Bộ hẹn giờ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Thể thao
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Đồng hồ
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Mặc định)
+home-mode-choice-custom-srd =
+    .label = Tùy chỉnh URL...
+home-mode-choice-blank-srd =
+    .label = Trang trắng
+home-prefs-shortcuts-header-srd =
+    .label = Lối tắt
+home-prefs-shortcuts-select =
+    .aria-label = Lối tắt
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Các lối tắt được tài trợ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Bài viết quảng cáo
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Trang đã truy cập
+home-prefs-recent-activity-header-srd =
+    .label = Hoạt động gần đây
+home-prefs-recent-activity-select =
+    .aria-label = Hoạt động gần đây
+home-prefs-weather-header-srd =
+    .label = Thời tiết
 
 ## Search box component.
 
