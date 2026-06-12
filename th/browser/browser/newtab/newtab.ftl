@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = ที่อยู่เว็บไซต์
+home-custom-homepage-address =
+    .placeholder = ป้อนที่อยู่
+home-custom-homepage-address-button =
+    .label = เพิ่มที่อยู่
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = ยังไม่ได้เพิ่มเว็บไซต์ใด
 home-custom-homepage-delete-address-button =
     .aria-label = ลบที่อยู่
     .title = ลบที่อยู่
@@ -96,6 +106,15 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = เพื่อใช้คุณลักษณะเหล่านี้ ให้ตั้งค่าแท็บใหม่หรือหน้าต่างใหม่เป็น { -firefox-home-brand-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label = { $num } แถว
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = ส่วนขยาย ({ $extension })
 home-restore-defaults-srd =
     .label = เรียกคืนค่าเริ่มต้น
     .accesskey = ร
