@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Нови јазичиња
 
 ## Custom URLs subpage
 
@@ -26,6 +28,8 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } ред
            *[other] { $num } редови
         }
+home-mode-choice-blank-srd =
+    .label = Празна страница
 home-prefs-shortcuts-header-srd =
     .label = Кратенки
 home-prefs-shortcuts-select =
