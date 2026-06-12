@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-widgets-header =
     .label = Վիջեթներ
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -73,6 +75,8 @@ home-prefs-sections-rows-option-srd =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Ընդլայնում ({ $extension })
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Հովանավորված դյուրանցումներ
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Հովանավորված կայքեր
 home-prefs-highlights-option-visited-pages-srd =
