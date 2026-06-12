@@ -60,6 +60,8 @@ home-prefs-recent-activity-header-srd =
     .label = Son etkinlikler
 home-prefs-recent-activity-select =
     .aria-label = Son etkinlikler
+home-prefs-weather-header-srd =
+    .label = Hava durumu
 
 ## Search box component.
 
