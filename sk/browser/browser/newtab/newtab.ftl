@@ -40,6 +40,17 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-restore-defaults-srd =
+    .label = Obnoviť predvolené
+    .accesskey = r
+home-prefs-shortcuts-header-srd =
+    .label = Skratky
+home-prefs-shortcuts-select =
+    .aria-label = Skratky
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponzorované skratky
 home-prefs-recent-activity-header-srd =
     .label = Nedávna aktivita
 home-prefs-recent-activity-select =
