@@ -40,11 +40,11 @@ category-nav-heading =
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = Hľadať v nastaveniach
-managed-notice = Váš prehliadač je spravovaný vašou organizáciou.
+managed-notice = Tento prehliadač je spravovaný vašou organizáciou.
 managed-notice-info-icon =
     .alt = Informácia
 managed-notice-nav =
-    .label = Váš prehliadač je spravovaný vašou organizáciou.
+    .label = Tento prehliadač je spravovaný vašou organizáciou.
 category-list =
     .aria-label = Kategórie
 pane-general-title = Všeobecné
@@ -1276,6 +1276,13 @@ containers-settings-button =
     .label = Nastavenia
 containers-remove-button =
     .label = Odstrániť
+containers-section-header2 =
+    .heading = Nastavenia kontajnera
+containers-add-button2 =
+    .label = Pridať nový kontajner
+    .accesskey = P
+containers-remove-button2 =
+    .title = Odstrániť
 
 ## Account and sync
 

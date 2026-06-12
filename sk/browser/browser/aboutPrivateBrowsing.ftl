@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Teraz automaticky odmietame m
 about-private-browsing-felt-privacy-v1-info-header = Nezanechávajte na tomto zariadení žiadne stopy
 about-private-browsing-felt-privacy-v1-info-body = Keď zatvoríte všetky súkromné okná, { -brand-short-name } odstráni vaše súbory cookie, históriu prehliadania a údaje stránok.
 about-private-browsing-felt-privacy-v1-info-link = Kto však môže vidieť moju aktivitu?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Zatvorením všetkých súkromných okien sa vymažú súbory cookie, história a údaje stránok.

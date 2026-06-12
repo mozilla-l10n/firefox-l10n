@@ -115,6 +115,20 @@ options-sourceeditor-tabsize-label = Veľkosť tabulátora
 options-sourceeditor-keybinding-label = Klávesové skratky
 options-sourceeditor-keybinding-default-label = Predvolené
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokálny režim
+options-local-mode-only-work-locally = Lokálny režim funguje iba lokálne a je vypnutý pri ladení vzdialených kontextov.
+options-local-mode-behavior = Lokálny režim umožňuje načítať lokálne súbory prostredníctvom URL adresy https bez akejkoľvek externej závislosti. URL adresy je možné načítať iba z kariet s otvorenými nástrojmi DevTools.
+options-local-mode-domain-label = Vlastná doména:
+options-local-mode-origin-input =
+    .placeholder = Zdroj pre lokálne mapovanie
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Tento zdroj je v konflikte s iným existujúcim mapovaním
+options-local-mode-origin-invalid = Tento zdroj nie je platný
+options-local-mode-folder-label = Lokálne priečinky
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

@@ -464,3 +464,11 @@ relay-50-masks-announcement-primary-button = Prejsť na { -relay-brand-name }
     .accesskey = P
 relay-50-masks-announcement-secondary-button = Zavrieť
     .accesskey = Z
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } dostáva nový vzhľad.</strong> Zobrazujete si ukážku skorej, neupravenej verzie pred uvedením na trh koncom tohto roka.
+nova-early-access-share-feedback-link = Zdieľať spätnú väzbu
+    .accesskey = Z
+nova-early-access-infobar-primary-button = Rozumiem
+    .accesskey = R
