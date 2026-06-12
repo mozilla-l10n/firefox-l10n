@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Адрес(а) веб-сайтов
+home-custom-homepage-address =
+    .placeholder = Введите адрес
+home-custom-homepage-address-button =
+    .label = Добавить адрес
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Пока не добавлено ни одного веб-сайта.
 home-custom-homepage-delete-address-button =
     .aria-label = Удалить адрес
     .title = Удалить адрес
@@ -105,6 +115,11 @@ home-prefs-sections-rows-option-srd =
             [few] { $num } строки
            *[many] { $num } строк
         }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Расширение ({ $extension })
 home-restore-defaults-srd =
     .label = Восстановить по умолчанию
     .accesskey = о
