@@ -49,6 +49,19 @@ home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponzorisane priče
 home-prefs-highlights-option-visited-pages-srd =
     .label = Posjećene stranice
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Zabilješke
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Najnovija preuzimanja
+home-prefs-recent-activity-header-srd =
+    .label = Nedavne aktivnosti
+home-prefs-recent-activity-select =
+    .aria-label = Nedavne aktivnosti
+home-prefs-weather-header-srd =
+    .label = Vrijeme
+home-prefs-support-firefox-header-srd =
+    .label = Podržite { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Saznajte kako
 
 ## Search box component.
 
