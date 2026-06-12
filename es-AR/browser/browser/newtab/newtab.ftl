@@ -42,9 +42,24 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Borrar dirección
+    .title = Borrar dirección
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplazar con
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Páginas abiertas actualmente
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcadores…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Buscar
 home-prefs-widgets-header =
@@ -61,6 +76,14 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Reloj
+home-prefs-mission-message2 =
+    .message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor.
+home-prefs-manage-topics-link2 =
+    .label = Administrar temas
+home-prefs-choose-wallpaper-link2 =
+    .label = Elegir un fondo de pantalla
+home-prefs-firefox-logo-header =
+    .label = Logo de { -brand-short-name }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom-srd =
@@ -87,6 +110,9 @@ home-prefs-recent-activity-select =
     .aria-label = Actividad reciente
 home-prefs-weather-header-srd =
     .label = Clima
+home-prefs-support-firefox-header-srd =
+    .label = Ayudar a { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descubra cómo
 
 ## Search box component.
 
