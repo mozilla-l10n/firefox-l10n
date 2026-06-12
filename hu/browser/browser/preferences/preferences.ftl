@@ -1274,6 +1274,20 @@ containers-remove-button =
     .label = Eltávolítás
 containers-section-header2 =
     .heading = Konténer beállításai
+containers-card-header2 =
+    .label = Konténerek
+    .description = A sütik szétválasztása konténerenként, így használhat különböző fiókokat ugyanazon az oldalon, és korlátozza a webhelyek közti nyomkövetést.
+containers-add-button2 =
+    .label = Új konténer hozzáadása
+    .accesskey = j
+containers-new-tab-check2 =
+    .label = Konténer kiválasztása minden új laphoz
+    .accesskey = K
+    .description = Ez minden alkalommal megnyitja a konténerek menüjét, ha megnyomja az új lap gombot.
+containers-settings-button2 =
+    .title = Beállítások
+containers-remove-button2 =
+    .title = Eltávolítás
 
 ## Account and sync
 
@@ -1281,6 +1295,9 @@ sync-group-label =
     .label = Szinkronizálás
 account-group-label2 =
     .label = Fiók
+account-disabled-group =
+    .label = Fiók
+    .description = A fiókbeállítások nem érhetők el.
 account-placeholder2 =
     .label = Nincs bejelentkezve
     .description = Jelentkezzen be és tartsa biztonságban, titkosítva az adatait, és érje el mindenhol, ahol a { -brand-short-name }ot használja.

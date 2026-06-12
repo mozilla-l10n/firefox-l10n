@@ -115,6 +115,13 @@ options-sourceeditor-tabsize-label = Tab méret
 options-sourceeditor-keybinding-label = Keybindings
 options-sourceeditor-keybinding-default-label = Default
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Helyi mód
+options-local-mode-domain-label = Egyéni domain:
+options-local-mode-folder-label = Helyi mappa:
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
