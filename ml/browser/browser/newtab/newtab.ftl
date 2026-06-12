@@ -28,6 +28,10 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = പൂമുഖം
+home-homepage-new-tabs =
+    .label = പുതിയ ടാബുകൾ
 
 ## Custom URLs subpage
 
@@ -42,6 +46,15 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-search-header2 =
     .label = തിരയുക
+home-restore-defaults-srd =
+    .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (തനതായവ)
+home-mode-choice-custom-srd =
+    .label = ഇഷ്ടാനുസൃത URL കൾ ...
+home-mode-choice-blank-srd =
+    .label = ശൂന്യമായ താൾ
 home-prefs-shortcuts-header-srd =
     .label = കുറുക്കുവഴികൾ
 home-prefs-shortcuts-select =
