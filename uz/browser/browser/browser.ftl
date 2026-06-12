@@ -124,6 +124,9 @@ clear-search-history =
     .label = Izlash tarixini tozalash
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -273,6 +276,14 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Yopish
 
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -287,6 +298,12 @@ popup-all-windows-shared = Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lis
 
 sharing-warning-window = { -brand-short-name }ni ulashyapsiz. Boshqa odamlar yangi varaqqa oʻtganingizda koʻra olishadi.
 sharing-warning-screen = Toʻliq ekranni ulashyapsiz. Boshqa odamlar yangi varaqqa oʻtganingizda koʻra olishadi.
+
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
@@ -367,6 +384,13 @@ urlbar-result-action-tabtosearch-web = { $engine } yordamida toʻgʻridan-toʻg�
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -387,6 +411,17 @@ urlbar-searchmode-actions2 = Amallar
 urlbar-searchmode-popup-add-engine = { $engineName } qoʻshish
     .title = { $engineName } qidiruv tizimini qoʻshish
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the context menu in urlbar view.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -395,6 +430,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = O‘qish ko‘rinishini yopish
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -529,6 +569,10 @@ toolbar-button-new-private-window =
     .label = Yangi maxfiy oyna
     .tooltiptext = Yangi maxfiy ko‘rish oynasida ochish ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Ushbu saytdagi bir nechta audio yoki video DRM dasturiy ta’minotidan foydalanadi. Ushbu dasturiy ta’minot { -brand-short-name } imkoniyatlarini cheklashi mumkin.
@@ -538,6 +582,10 @@ eme-notifications-drm-content-playing-manage = Sozlamalarni boshqarish
 
 panel-save-update-username = Foydalanuvchi nomi
 panel-save-update-password = Parol
+panel-save-update-username-2 =
+    .label = Foydalanuvchi nomi
+panel-save-update-password-2 =
+    .label = Parol
 
 ##
 
@@ -565,6 +613,10 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Rasm ichida rasm rejimini yashirish
     .accesskey = H
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
 
 ##
 
@@ -604,12 +656,39 @@ tabs-toolbar-list-all-tabs =
     .label = Barcha varaqlar roʻyxati
     .tooltiptext = Barcha varaqlar roʻyxati
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automatik tarzda bir qancha ma`lumotlarni { -vendor-short-name }`ga  sizning tajribangizni ochirishimiz uchun jo'natdi.
 data-reporting-notification-button =
     .label = Bo‘lishish kerak bo‘lganlarni tanlash
     .accesskey = t
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
 
 ## Autorefresh blocker
 
@@ -618,6 +697,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ushbu sahifani avtomatik 
 refresh-blocked-allow =
     .label = Ruxsat berish
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -649,3 +731,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }”ni ko“rsatish
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
