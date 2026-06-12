@@ -31,6 +31,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Novas lapelas
 
 ## Custom URLs subpage
 
@@ -39,6 +41,15 @@ newtab-logo-and-wordmark =
 
 home-prefs-firefox-logo-header =
     .label = Logotipo de { -brand-short-name }
+home-restore-defaults-srd =
+    .label = Restaurar a configuración predeterminada
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Predeterminado)
+home-mode-choice-custom-srd =
+    .label = URLs personalizados...
+home-mode-choice-blank-srd =
+    .label = Páxina en branco
 home-prefs-shortcuts-header-srd =
     .label = Atallos
 home-prefs-shortcuts-select =
