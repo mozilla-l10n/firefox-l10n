@@ -95,6 +95,8 @@ home-prefs-recent-activity-header-srd =
     .label = Attività recente
 home-prefs-recent-activity-select =
     .aria-label = Attività recente
+home-prefs-weather-header-srd =
+    .label = Meteo
 
 ## Search box component.
 
