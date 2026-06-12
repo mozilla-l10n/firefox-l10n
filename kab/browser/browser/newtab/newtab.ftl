@@ -43,6 +43,12 @@ home-mode-choice-custom-srd =
     .label = URLs iganen...
 home-mode-choice-blank-srd =
     .label = Asebter ilem
+home-prefs-shortcuts-header-srd =
+    .label = Inegzumen
+home-prefs-shortcuts-select =
+    .aria-label = Inegzumen
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Inegzumen yettwarefden
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Tiqṣidin yettwarefden
 home-prefs-highlights-option-visited-pages-srd =
@@ -57,6 +63,8 @@ home-prefs-recent-activity-select =
     .aria-label = Armud n melmi kan
 home-prefs-weather-header-srd =
     .label = Tagnawt
+home-prefs-support-firefox-header-srd =
+    .label = Allel { -brand-product-name }
 
 ## Search box component.
 
