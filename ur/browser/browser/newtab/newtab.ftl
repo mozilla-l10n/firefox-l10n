@@ -24,6 +24,8 @@ home-prefs-shortcuts-header-srd =
     .label = تیز راہ
 home-prefs-shortcuts-select =
     .aria-label = تیز راہ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = بک مارک
 
 ## Search box component.
 
