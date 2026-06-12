@@ -18,8 +18,35 @@ newtab-settings-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+           *[other] { $num } fila
+        }
+home-mode-choice-custom-srd =
+    .label = Sa´a vii URLs
+home-mode-choice-blank-srd =
+    .label = Página kuijin
+home-prefs-shortcuts-header-srd =
+    .label = Atajos
+home-prefs-shortcuts-select =
+    .aria-label = Atajos
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Da atajo íyo patrocinado
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Artículos íyo patrocinado
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Páginas nnkivɨnu
+home-prefs-highlights-options-bookmarks-srd =
+    .label = A ta´a ini noo´o
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Nxinuun Ntañu´u
+home-prefs-recent-activity-header-srd =
+    .label = Da a skuata nsá´á
+home-prefs-recent-activity-select =
+    .aria-label = Da a skuata nsá´á
 
 ## Search box component.
 
