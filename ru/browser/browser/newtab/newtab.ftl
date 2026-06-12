@@ -62,6 +62,14 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name(case: "nominative_uppercase") }
 home-prefs-search-header2 =
     .label = Поиск
+home-prefs-widgets-header =
+    .label = Виджеты
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Списки
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Спорт
@@ -112,6 +120,8 @@ home-prefs-recent-activity-header-srd =
     .label = Последние действия
 home-prefs-recent-activity-select =
     .aria-label = Последние действия
+home-prefs-weather-header-srd =
+    .label = Погода
 home-prefs-support-firefox-header-srd =
     .label = Поддержите { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Узнать как
