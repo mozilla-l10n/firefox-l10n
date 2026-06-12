@@ -89,3 +89,11 @@ containers-icon-tree =
     .label = Árbol
 containers-icon-chill =
     .label = Sacar la vuelta
+containers-window-new3 =
+    .title = Añadir nuevo contenedor
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Preferencias del contenedor { $name }
+    .style = min-width: 32em

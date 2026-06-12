@@ -1272,6 +1272,8 @@ containers-settings-button =
     .label = Ajustes
 containers-remove-button =
     .label = Remover
+containers-section-header2 =
+    .heading = Ajustes del contenedor
 
 ## Account and sync
 

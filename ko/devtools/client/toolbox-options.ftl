@@ -119,6 +119,24 @@ options-sourceeditor-keybinding-default-label = 기본 설정
 
 # The heading
 options-local-mode-label = 로컬 모드
+options-local-mode-only-work-locally = 로컬 모드는 로컬에서만 작동하며, 원격 컨텍스트를 디버깅할 때는 비활성화됩니다.
+options-local-mode-behavior = 로컬 모드를 사용하면 외부 의존성 없이 https URL을 통해 로컬 파일을 불러올 수 있습니다. 해당 URL은 개발자 도구가 열려 있는 탭에서만 불러올 수 있습니다.
+options-local-mode-domain-label = 사용자 지정 도메인:
+options-local-mode-origin-input =
+    .placeholder = 로컬 매핑을 위한 출처
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = 이 출처는 이미 존재하는 다른 매핑과 충돌합니다.
+options-local-mode-origin-invalid = 이 출처는 유효하지 않음
+options-local-mode-folder-label = 로컬 폴더:
+options-local-mode-choose-folder = 찾아보기…
+    .title = 이 매핑을 제공할 로컬 폴더를 선택하세요
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = 로컬 모드 폴더 선택: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = 이 폴더는 존재하지 않거나 유효하지 않습니다.
 
 ## Advanced section
 
