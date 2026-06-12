@@ -36,6 +36,8 @@ newtab-card-dismiss-button =
 
 home-homepage-new-windows =
     .label = Ventanas noas
+home-homepage-new-tabs =
+    .label = Ischedas noas
 
 ## Custom URLs subpage
 
@@ -57,6 +59,9 @@ home-custom-homepage-replace-with-prompt =
 
 home-prefs-firefox-logo-header =
     .label = logo de { -brand-short-name }
+home-restore-defaults-srd =
+    .label = Recùpera valores predefinidos
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (predefinidu)
 home-mode-choice-custom-srd =
