@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Son kapatılan pencereyi yeniden aç
 customkeys-sidebar-toggle = Kenar çubuğunu aç/kapat
 customkeys-view-bookmarks-toolbar = Yer imleri araç çubuğunu aç/kapat
 customkeys-view-picture-in-picture = Görüntü içinde görüntü
+customkeys-view-add-split-view = Ayrık görünüm ekle
+# Separate is a verb
+customkeys-view-separate-split-view = Ayrık görünümden çıkar
 customkeys-dev-tools = Web geliştirici araçları
 customkeys-dev-inspector = DOM ve stil denetçisi
 customkeys-dev-webconsole = Web konsolu

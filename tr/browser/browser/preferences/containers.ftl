@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Ad
+    .placeholder = Ad ekle
+containers-icon-label2 =
+    .label = Simge
+containers-color-label2 =
+    .label = Renk
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Ağaç
 containers-icon-chill =
     .label = Soğuk
+containers-window-new3 =
+    .title = Yeni kapsayıcı ekle
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } Kapsayıcısı Ayarları
+    .style = min-width: 32em

@@ -226,6 +226,18 @@ sidebar-opentabs-title = из открытых вкладок
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Закреплённые вкладки
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Окно { $winID } (текущее)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Окно { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

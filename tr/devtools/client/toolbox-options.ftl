@@ -115,6 +115,12 @@ options-sourceeditor-tabsize-label = Sekme boyutu
 options-sourceeditor-keybinding-label = Kısayol tuşları
 options-sourceeditor-keybinding-default-label = Varsayılan
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Yerel mod
+options-local-mode-folder-label = Yerel klasör:
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

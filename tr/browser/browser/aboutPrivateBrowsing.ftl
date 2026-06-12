@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Artık birçok çerez bildiri
 about-private-browsing-felt-privacy-v1-info-header = Bu cihazda iz bırakmayın
 about-private-browsing-felt-privacy-v1-info-body = Tüm gizli pencerelerinizi kapattığınızda { -brand-short-name } çerezlerinizi, gezinti geçmişinizi ve site verilerinizi siler.
 about-private-browsing-felt-privacy-v1-info-link = Etkinliğimi kimler görebilir?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Tüm gizli pencerelerinizi kapattığınızda çerezleriniz, geçmişiniz ve site verileriniz silinir.

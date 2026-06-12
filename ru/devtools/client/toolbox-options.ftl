@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Ширина табуляции
 options-sourceeditor-keybinding-label = Сочетания клавиш
 options-sourceeditor-keybinding-default-label = По умолчанию
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Локальный режим
+options-local-mode-only-work-locally = Локальный режим работает только локально и отключён при отладке удалённых контекстов
+options-local-mode-behavior = Локальный режим позволяет вам загружать локальные файлы через https URL без какой-либо зависимости извне. URL-адреса могут быть загружены только из вкладок, в которых открыты Инструменты разработчика.
+options-local-mode-domain-label = Пользовательский домен:
+options-local-mode-origin-input =
+    .placeholder = Источник локального отображения
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Этот источник конфликтует с другим существующим отображением
+options-local-mode-origin-invalid = Этот источник недействителен
+options-local-mode-folder-label = Локальная папка:
+options-local-mode-choose-folder = Обзор…
+    .title = Выберите локальную папку для обслуживания этого отображения
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Выберите папку локального режима для: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Эта папка не существует или некорректна.
+options-local-mode-toggle =
+    .title = Переключить это локальное отображение
+options-local-mode-toggle-enable = Включить
+options-local-mode-toggle-disable = Отключить
+options-local-mode-navigate-to =
+    .title = Перейти к этому URL-адресу отображения
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Вы хотите удалить отображение «{ $mappingOrigin }»?
+options-local-mode-new-mapping = Добавить новое локальное отображение
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

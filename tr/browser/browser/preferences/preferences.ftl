@@ -1272,6 +1272,12 @@ containers-settings-button =
     .label = Ayarlar
 containers-remove-button =
     .label = Sil
+containers-section-header2 =
+    .heading = Kapsayıcı ayarları
+containers-settings-button2 =
+    .title = Ayarlar
+containers-remove-button2 =
+    .title = Sil
 
 ## Account and sync
 
@@ -1279,6 +1285,9 @@ sync-group-label =
     .label = Eşitleme
 account-group-label2 =
     .label = Hesap
+account-disabled-group =
+    .label = Hesap
+    .description = Hesap ayarları kullanılamıyor.
 account-placeholder2 =
     .label = Giriş yapmadınız
     .description = Giriş yaparak verilerinizi gizli ve şifrelenmiş halde tutarken { -brand-short-name } kullandığınız her yerden onlara erişebilirsiniz.
