@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Caută
 home-prefs-shortcuts-header-srd =
     .label = Comenzi rapide
 home-prefs-shortcuts-select =
