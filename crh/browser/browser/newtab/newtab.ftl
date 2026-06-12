@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Yañı ilmekler
 
 ## Custom URLs subpage
 
@@ -26,6 +28,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } satır
            *[other] { $num } satır
         }
+home-restore-defaults-srd =
+    .label = Ögbelgilemelerni Keri Tikle
+    .accesskey = b
 home-mode-choice-custom-srd =
     .label = Özel URL'ler
 home-mode-choice-blank-srd =
