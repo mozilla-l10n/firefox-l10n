@@ -13,15 +13,6 @@ enterprise-panel-information = Sei connesso a un browser gestito dalla tua azien
 enterprise-panel-learn-more = Ulteriori informazioni
 enterprise-panel-sign-out-btn =
     .label = Disconnetti…
-# $tabCount (Number) - the number of open tabs
-enterprise-signout-prompt-title2 =
-    { $tabCount ->
-        [1] Disconnettersi da { -brand-short-name }?
-       *[other] Disconnettersi e chiudere { $tabCount } schede?
-    }
-enterprise-signout-prompt-message = Stai effettuando la disconnessione dal browser { -brand-short-name }. Per accedere nuovamente, dovrai autenticarti di nuovo tramite il provider SSO della tua azienda.
-enterprise-signout-prompt-checkbox-label = Visualizza questo messaggio al momento della disconnessione.
-enterprise-signout-prompt-primary-btn-label = Disconnetti
 enterprise-close-prompt-title = Chiudere { -brand-short-name }?
 # Variables:
 #   $tabCount (Number): The number of tabs to be closed.
