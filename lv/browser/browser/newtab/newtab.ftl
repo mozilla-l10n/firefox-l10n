@@ -36,6 +36,18 @@ home-prefs-shortcuts-select =
     .aria-label = Saīsnes
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsorētās saīsnes
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsorētie stāsti
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Apmeklētās lapas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Grāmatzīmes
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Nesenās lejupielādes
+home-prefs-recent-activity-header-srd =
+    .label = Nesenās aktivitātes
+home-prefs-recent-activity-select =
+    .aria-label = Nesenās aktivitātes
 
 ## Search box component.
 
