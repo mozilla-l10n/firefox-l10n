@@ -55,6 +55,8 @@ home-prefs-recent-activity-header-srd =
     .label = Oberiantiz a-nevez
 home-prefs-recent-activity-select =
     .aria-label = Oberiantiz a-nevez
+home-prefs-weather-header-srd =
+    .label = Liv an amzer
 
 ## Search box component.
 
