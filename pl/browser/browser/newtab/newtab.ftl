@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Strona startowa
+home-homepage-new-windows =
+    .label = Nowe okna:
+home-homepage-new-tabs =
+    .label = Nowa karta:
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wybierz inną stronę
@@ -55,6 +59,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Wyszukiwanie
+home-prefs-stories-header2 =
+    .label = Artykuły
+    .description = Wyjątkowe rzeczy wybrane przez rodzinę { -brand-product-name(case: "gen") }
 home-prefs-widgets-header =
     .label = Widżety
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -82,6 +89,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Aby korzystać z tych funkcji, ustaw nowe karty lub nowe okna na { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.
+home-restore-defaults-srd =
+    .label = Przywróć domyślne
+    .accesskey = P
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name(case: "nom", capitalization: "lower") } (domyślnie)
 home-mode-choice-custom-srd =
