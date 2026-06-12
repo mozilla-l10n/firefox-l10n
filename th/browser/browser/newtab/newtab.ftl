@@ -47,6 +47,8 @@ home-homepage-custom-homepage-button =
 
 home-mode-choice-blank-srd =
     .label = หน้าว่าง
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = เรื่องราวที่ได้รับการสนับสนุน
 
 ## Search box component.
 
