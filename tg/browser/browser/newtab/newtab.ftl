@@ -34,12 +34,40 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Саҳифаи асосӣ
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Виҷетҳо
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Пешфарз)
+home-mode-choice-custom-srd =
+    .label = Нишониҳои URL-и фармоишӣ…
+home-mode-choice-blank-srd =
+    .label = Саҳифаи холӣ
+home-prefs-shortcuts-header-srd =
+    .label = Миёнбурҳо
+home-prefs-shortcuts-select =
+    .aria-label = Миёнбурҳо
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Миёнбурҳои сарпарастӣ
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Саҳифаҳои кушодашуда
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Хатбаракҳо
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Боргириҳои охирин
+home-prefs-recent-activity-header-srd =
+    .label = Фаъолияти охирин
+home-prefs-recent-activity-select =
+    .aria-label = Фаъолияти охирин
+home-prefs-weather-header-srd =
+    .label = Обу ҳаво
 
 ## Search box component.
 
