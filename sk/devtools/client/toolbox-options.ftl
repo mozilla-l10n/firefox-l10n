@@ -128,6 +128,19 @@ options-local-mode-origin-input =
 options-local-mode-origin-conflict = Tento zdroj je v konflikte s iným existujúcim mapovaním
 options-local-mode-origin-invalid = Tento zdroj nie je platný
 options-local-mode-folder-label = Lokálne priečinky
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Vyberte priečinok lokálneho režimu pre: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Tento priečinok neexistuje alebo je neplatný.
+options-local-mode-toggle =
+    .title = Prepnúť toto lokálne mapovanie
+options-local-mode-toggle-enable = Povoliť
+options-local-mode-toggle-disable = Zakázať
+options-local-mode-navigate-to =
+    .title = Prejsť na túto URL adresu mapovania
 
 ## Advanced section
 
