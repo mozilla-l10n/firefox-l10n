@@ -26,6 +26,14 @@ home-mode-choice-custom-srd =
     .label = Atô URL...
 home-mode-choice-blank-srd =
     .label = Laman sôh
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Kisah-kisah nyang diseuponsor
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Ônwèb nyang Disaweuë
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Peutanda
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Donlod Paléng Barô
 
 ## Search box component.
 
