@@ -38,6 +38,8 @@ home-homepage-title =
     .label = Pagjine iniziâl
 home-homepage-new-windows =
     .label = Gnûfs barcons
+home-homepage-new-tabs =
+    .label = Gnovis schedis
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Sielç un sît specific
@@ -97,6 +99,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Par doprâ chestis funzions, stabilìs gnovis schedis o gnûfs barcons su { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Ripristine predefinîts
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (predefinît)
 home-mode-choice-custom-srd =
