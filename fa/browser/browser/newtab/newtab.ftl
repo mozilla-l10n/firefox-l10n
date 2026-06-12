@@ -24,6 +24,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = زبانه‌های جدید
 
 ## Custom URLs subpage
 
@@ -32,6 +34,13 @@ newtab-logo-and-wordmark =
 
 home-prefs-firefox-logo-header =
     .label = آرم { -brand-short-name }
+home-restore-defaults-srd =
+    .label = بازنشانی پیش‌فرض‌ها
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = آدرس‌های سفارشی…
+home-mode-choice-blank-srd =
+    .label = صفحهٔ خالی
 home-prefs-shortcuts-header-srd =
     .label = میان‌برها
 home-prefs-shortcuts-select =
