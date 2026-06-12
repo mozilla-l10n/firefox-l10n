@@ -226,6 +226,18 @@ sidebar-opentabs-title = 열린 탭
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = 고정된 탭
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = 창 { $winID } (현재)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = 창 { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

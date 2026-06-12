@@ -115,6 +115,11 @@ options-sourceeditor-tabsize-label = 탭 길이
 options-sourceeditor-keybinding-label = 키 바인딩
 options-sourceeditor-keybinding-default-label = 기본 설정
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = 로컬 모드
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = 이름
+    .placeholder = 이름 추가
+containers-icon-label2 =
+    .label = 아이콘
+containers-color-label2 =
+    .label = 색상
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = 나무
 containers-icon-chill =
     .label = 추운
+containers-window-new3 =
+    .title = 새 컨테이너 추가
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } 컨테이너 설정
+    .style = min-width: 32em

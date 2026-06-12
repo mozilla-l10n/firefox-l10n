@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Manage bookmarks
 quickactions-cmd-bookmarks = bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Clear recent history
+quickactions-cmd-clearrecenthistory2 = cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history
 quickactions-cmd-clearrecenthistory = clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clear History
@@ -414,6 +415,9 @@ quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Open Developer Tools
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Pick a colour
+quickactions-cmd-colorpicker = colour picker, eyedropper, pick colour
 # Opens Firefox Library
 quickactions-cmd-library = library
 quickactions-library = Open Library
@@ -470,6 +474,9 @@ quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = View page source
 quickactions-cmd-viewsource2 = view source, source, page source
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Open { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, experiment
 quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1262,6 +1269,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synced tabs
     .tooltiptext = Show tabs from other devices
+toolbar-button-send-tab =
+    .label = Send tab
+    .tooltiptext = Send current tab to another device
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1278,6 +1288,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1301,6 +1314,8 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = More…
+menu-share-windows =
+    .label = More Options
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1481,6 +1496,9 @@ reset-pbm-panel-confirm-button =
     .label = Delete session data
     .accesskey = D
 reset-pbm-panel-complete = Private session data deleted
+reset-pbm-toolbar-button2 =
+    .label = Clear Private Session
+    .tooltiptext = Clear Private Session
 
 ## Autorefresh blocker
 

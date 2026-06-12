@@ -461,6 +461,7 @@ relay-50-masks-announcement-secondary-button = 닫기
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name }가 새로운 모습으로 바뀌었습니다.</strong> 지금 보고 계신 버전은 올해 말 출시를 앞두고 있는 초기 미완성 버전입니다.
 nova-early-access-share-feedback-link = 의견 공유
     .accesskey = S
 nova-early-access-infobar-primary-button = 확인
