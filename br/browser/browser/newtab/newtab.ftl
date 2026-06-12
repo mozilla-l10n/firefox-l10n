@@ -37,6 +37,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
 home-prefs-shortcuts-header-srd =
     .label = Berradennoù
 home-prefs-shortcuts-select =
@@ -57,6 +59,8 @@ home-prefs-recent-activity-select =
     .aria-label = Oberiantiz a-nevez
 home-prefs-weather-header-srd =
     .label = Liv an amzer
+home-prefs-support-firefox-header-srd =
+    .label = Skoazellit { -brand-product-name }
 
 ## Search box component.
 
