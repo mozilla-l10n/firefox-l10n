@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Dimensione tabulazione
 options-sourceeditor-keybinding-label = Scorciatoie da tastiera
 options-sourceeditor-keybinding-default-label = Predefinito
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modalità locale
+options-local-mode-only-work-locally = La modalità locale è disponibile solo in locale e viene disattivata durante il debug di contesti remoti
+options-local-mode-behavior = La modalità Locale permette di caricare file locali tramite URL https senza dipendenze esterne. Gli URL possono essere utilizzati solo nelle schede in cui sono aperti gli strumenti di sviluppo.
+options-local-mode-domain-label = Dominio personalizzato:
+options-local-mode-origin-input =
+    .placeholder = Origine per la mappatura locale
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Questa origine è in conflitto con un’altra mappatura esistente
+options-local-mode-origin-invalid = Questa origine non è valida
+options-local-mode-folder-label = Cartella locale:
+options-local-mode-choose-folder = Sfoglia…
+    .title = Scegliere una cartella locale per questa mappatura
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Scegli la cartella in modalità locale per: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Questa cartella non esiste o non è valida.
+options-local-mode-toggle =
+    .title = Attiva/disattiva questa mappatura locale
+options-local-mode-toggle-enable = Attiva
+options-local-mode-toggle-disable = Disattiva
+options-local-mode-navigate-to =
+    .title = Vai a questo URL di mappatura
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Rimuovere la mappatura “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Aggiungi nuova mappatura locale
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
