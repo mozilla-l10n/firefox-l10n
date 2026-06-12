@@ -34,12 +34,25 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Хатняя старонка
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Выберыце канкрэтны сайт
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Зараз адкрытыя старонкі
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Закладкі…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Пошук
 home-prefs-widgets-header =
@@ -56,6 +69,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Гадзіннік
+home-prefs-mission-message2 =
+    .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
+home-prefs-manage-topics-link2 =
+    .label = Кіраванне тэмамі
+home-prefs-choose-wallpaper-link2 =
+    .label = Выбраць шпалеры
+home-prefs-firefox-logo-header =
+    .label = Лагатып { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Каб карыстацца гэтымі функцыямі, абярыце для новых картак або новых вокнаў { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (тыповая)
 home-mode-choice-custom-srd =
@@ -82,6 +108,9 @@ home-prefs-recent-activity-select =
     .aria-label = Апошняя актыўнасць
 home-prefs-weather-header-srd =
     .label = Надвор'е
+home-prefs-support-firefox-header-srd =
+    .label = Падтрымаць { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Даведацца, як
 
 ## Search box component.
 
