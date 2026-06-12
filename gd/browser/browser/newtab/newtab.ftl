@@ -29,6 +29,12 @@ home-prefs-shortcuts-select =
     .aria-label = Ath-ghoiridean
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Ath-ghoiridean sponsairichte
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Air a luchdadh a-nuas o chionn goirid
+home-prefs-recent-activity-header-srd =
+    .label = Gnìomhachd o chionn goirid
+home-prefs-recent-activity-select =
+    .aria-label = Gnìomhachd o chionn goirid
 
 ## Search box component.
 
