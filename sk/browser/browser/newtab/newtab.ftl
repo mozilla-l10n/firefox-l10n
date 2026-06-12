@@ -42,11 +42,19 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktuálne otvorené stránky
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Záložky…
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Vyhľadávanie
 home-prefs-widgets-header =
     .label = Miniaplikácie
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -61,6 +69,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Hodiny
+home-prefs-mission-message2 =
+    .message = Naši sponzori podporujú našu misiu budovať lepší web.
+home-prefs-manage-topics-link2 =
+    .label = Spravovať témy
+home-prefs-choose-wallpaper-link2 =
+    .label = Vybrať tapetu
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name(case: "gen") }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Ak chcete tieto funkcie používať, nastavte, aby sa pri otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
 home-restore-defaults-srd =
     .label = Obnoviť predvolené
     .accesskey = r
@@ -90,6 +111,9 @@ home-prefs-recent-activity-select =
     .aria-label = Nedávna aktivita
 home-prefs-weather-header-srd =
     .label = Počasie
+home-prefs-support-firefox-header-srd =
+    .label = Podpora pre { -brand-product-name(case: "acc") }
+home-prefs-mission-message-learn-more-link-srd = Pozrite sa ako
 
 ## Search box component.
 
