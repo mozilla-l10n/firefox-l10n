@@ -34,14 +34,27 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Domača stran
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Izberite določeno stran
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = trenutno odprtimi stranmi
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = zaznamki …
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name(zacetnica: "velika") }
+home-prefs-search-header2 =
+    .label = Iskanje
 home-prefs-stories-header2 =
     .label = Zgodbe
     .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
@@ -59,6 +72,24 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ura
+home-prefs-mission-message2 =
+    .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
+home-prefs-manage-topics-link2 =
+    .label = Upravljanje tem
+home-prefs-choose-wallpaper-link2 =
+    .label = Izberite si ozadje
+home-prefs-firefox-logo-header =
+    .label = Logotip { -brand-short-name(sklon: "rodilnik") }
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name(zacetnica: "velika") } (privzeta)
+home-mode-choice-custom-srd =
+    .label = Spletne strani po meri ...
+home-mode-choice-blank-srd =
+    .label = Prazna stran
+home-prefs-shortcuts-header-srd =
+    .label = Bližnjice
+home-prefs-shortcuts-select =
+    .aria-label = Bližnjice
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Bližnjice oglaševalcev
 home-prefs-recommended-by-option-sponsored-stories-srd =
@@ -75,6 +106,9 @@ home-prefs-recent-activity-select =
     .aria-label = Nedavna dejavnost
 home-prefs-weather-header-srd =
     .label = Vreme
+home-prefs-support-firefox-header-srd =
+    .label = Podprite { -brand-product-name(sklon: "tozilnik") }
+home-prefs-mission-message-learn-more-link-srd = Spoznajte, kako
 
 ## Search box component.
 
