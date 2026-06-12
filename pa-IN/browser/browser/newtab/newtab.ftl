@@ -42,6 +42,8 @@ newtab-card-dismiss-button =
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = ਖੋਜ
 home-prefs-widgets-header =
     .label = ਵਿਜੈੱਟ
 # Lists is a widget on New Tab, similar to a to-do widget
