@@ -34,6 +34,11 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Eka paĝo
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elekti specifan retejon
 
 ## Custom URLs subpage
 
@@ -51,6 +56,18 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sporto
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Norma)
+home-mode-choice-custom-srd =
+    .label = Personecigitaj URL…
+home-mode-choice-blank-srd =
+    .label = Malplena paĝo
+home-prefs-shortcuts-header-srd =
+    .label = Ŝparvojoj
+home-prefs-shortcuts-select =
+    .aria-label = Ŝparvojoj
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Patronitaj ŝparvojoj
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Patronitaj artikoloj
 home-prefs-highlights-option-visited-pages-srd =
