@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Yeni vərəqlər
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } sətir
            *[other] { $num } sətir
         }
+home-restore-defaults-srd =
+    .label = İlkin Seçənəkləri Bərpa et
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = Fərdi Ünvanlar…
+home-mode-choice-blank-srd =
+    .label = Boş Səhifə
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponsorlaşdırılmış Hekayələr
 home-prefs-highlights-option-visited-pages-srd =
