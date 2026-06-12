@@ -34,12 +34,44 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Домівка
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Вибрати певний сайт
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-stories-header2 =
+    .label = Історії
+    .description = Добірні матеріали від { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Віджети
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Списки
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Типово)
+home-mode-choice-custom-srd =
+    .label = Власні URL-адреси…
+home-mode-choice-blank-srd =
+    .label = Чиста сторінка
+home-prefs-shortcuts-header-srd =
+    .label = Ярлики
+home-prefs-shortcuts-select =
+    .aria-label = Ярлики
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Спонсоровані ярлики
+home-prefs-weather-header-srd =
+    .label = Погода
 
 ## Search box component.
 
