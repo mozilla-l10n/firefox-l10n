@@ -18,6 +18,8 @@ newtab-settings-button =
 
 ## Firefox Home content
 
+home-mode-choice-custom-srd =
+    .label = Eetz chitu' URLs…
 home-prefs-highlights-options-bookmarks-srd =
     .label = Aq'ol texhlal
 
