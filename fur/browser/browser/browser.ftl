@@ -1305,6 +1305,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Non utent
 panel-save-update-password = Password
+panel-save-update-username-2 =
+    .label = Non utent
+panel-save-update-password-2 =
+    .label = Password
 
 ##
 
