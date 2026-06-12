@@ -28,6 +28,16 @@ newtab-personalize-dialog-label =
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -74,6 +84,9 @@ newtab-topsites-image-url-label = Tugna tudmawant URL
 newtab-topsites-use-image-link = Seqdec tugna tudmawant…
 newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Sefsex
@@ -91,6 +104,9 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = S lmendad
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -132,6 +148,8 @@ newtab-menu-report = Aneqqis
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Sewḥel
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Issin ugar
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ur ṭṭafar ara asentel-a
@@ -397,6 +415,12 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -492,11 +516,17 @@ newtab-custom-wallpaper-cta = Ɛreḍ-it
 
 newtab-new-user-custom-wallpaper-cta = Ɛreḍ-it tura
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
 newtab-download-mobile-highlight-image =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
+
+## Strings for shortcuts highlight
+
 
 ## Strings for reporting issues with ads and content
 
@@ -560,3 +590,37 @@ newtab-promo-card-cta = Issin ugar
 newtab-promo-card-dismiss-button =
     .title = Zgel
     .aria-label = Zgel
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+
