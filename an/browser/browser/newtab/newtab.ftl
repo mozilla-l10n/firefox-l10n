@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Nuevas pestanyas
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } ringlera
            *[other] { $num } ringleras
         }
+home-restore-defaults-srd =
+    .label = Restaurar valors per defecto
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = URL personalizadas…
+home-mode-choice-blank-srd =
+    .label = Pachina en blanco
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Articlos esponsorizaus
 home-prefs-highlights-option-visited-pages-srd =
