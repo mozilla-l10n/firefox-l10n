@@ -44,6 +44,26 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Bilatu
+home-prefs-widgets-header =
+    .label = Widgetak
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Zerrendak
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Tenporizadorea
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Kirolak
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Erlojua
+home-prefs-mission-message2 =
+    .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
+home-prefs-manage-topics-link2 =
+    .label = Kudeatu gaiak
+home-prefs-choose-wallpaper-link2 =
+    .label = Aukeratu horma-papera
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Lehenetsia)
 home-mode-choice-custom-srd =
@@ -70,6 +90,9 @@ home-prefs-recent-activity-select =
     .aria-label = Azken jarduera
 home-prefs-weather-header-srd =
     .label = Eguraldia
+home-prefs-support-firefox-header-srd =
+    .label = Lagundu { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Ezagutu nola
 
 ## Search box component.
 
