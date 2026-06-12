@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Dirección(es) del sitio web
+home-custom-homepage-address =
+    .placeholder = Ingresar dirección
+home-custom-homepage-address-button =
+    .label = Agregar dirección
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Todavía no se agregaron sitios web.
 home-custom-homepage-delete-address-button =
     .aria-label = Borrar dirección
     .title = Borrar dirección
@@ -91,6 +101,19 @@ home-prefs-choose-wallpaper-link2 =
     .label = Elegir un fondo de pantalla
 home-prefs-firefox-logo-header =
     .label = Logo de { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } filas
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensión ({ $extension })
 home-restore-defaults-srd =
     .label = Restaurar predeterminados
     .accesskey = R
