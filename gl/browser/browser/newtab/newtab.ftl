@@ -37,6 +37,12 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = Logotipo de { -brand-short-name }
+home-prefs-shortcuts-header-srd =
+    .label = Atallos
+home-prefs-shortcuts-select =
+    .aria-label = Atallos
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Atallos patrocinados
 home-prefs-recommended-by-option-sponsored-stories-srd =
