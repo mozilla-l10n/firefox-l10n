@@ -124,6 +124,8 @@ options-local-mode-origin-input =
     .placeholder = Pochad za lokalne přirjadowanje
 options-local-mode-origin-invalid = Tutón pochad je njepłaćiwy
 options-local-mode-folder-label = Lokalny rjadowak:
+options-local-mode-choose-folder = Přepytać…
+    .title = Wubjerće lokalny rjadowak za tute přirjadowanje
 # Dialog's title when picking a folder for a mapping
 # Variables:
 #   $url (String): The url for the mapping being configured

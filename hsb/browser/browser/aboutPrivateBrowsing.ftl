@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Nětko wjele plackowych chorh
 about-private-browsing-felt-privacy-v1-info-header = Na tutym graće žane slědy njezawostajić
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } waše placki, historiju a sydłowe daty zhaša, hdyž wšě swoje priwatne wokna začinjeće.
 about-private-browsing-felt-privacy-v1-info-link = Štó móhł moju aktiwitu widźeć?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Hdyž swoje priwatne wokna začinjeće, so waše placki, historija a sydłowe daty zhašeja.

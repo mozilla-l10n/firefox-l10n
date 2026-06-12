@@ -141,6 +141,8 @@ options-local-mode-toggle =
     .title = Diese lokale Zuordnung umschalten
 options-local-mode-toggle-enable = Aktivieren
 options-local-mode-toggle-disable = Deaktivieren
+options-local-mode-navigate-to =
+    .title = Zu dieser Zuordnungs-URL navigieren
 # Dialog message prompted when clicking on the Delete button
 # Variables:
 #   $mappingOrigin (String): The origin for the mapping
