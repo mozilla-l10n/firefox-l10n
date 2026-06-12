@@ -1272,6 +1272,8 @@ containers-settings-button =
     .label = Beállítások
 containers-remove-button =
     .label = Eltávolítás
+containers-section-header2 =
+    .heading = Konténer beállításai
 
 ## Account and sync
 

@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Név
+    .placeholder = Név hozzáadása
+containers-icon-label2 =
+    .label = Ikon
+containers-color-label2 =
+    .label = Szín
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Fa
 containers-icon-chill =
     .label = Nyugalom
+containers-window-new3 =
+    .title = Új konténer hozzáadása
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } konténer beállításai
+    .style = min-width: 32em

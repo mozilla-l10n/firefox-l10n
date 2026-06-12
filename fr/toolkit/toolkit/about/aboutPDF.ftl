@@ -2,15 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-pdf-title = { -brand-short-name } Éditeur PDF
-about-pdf-header = { -brand-short-name } PDF
+about-pdf-title = Éditeur PDF de { -brand-short-name }
+about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Un outil libre et gratuit pour lire, fusionner, signer, commenter et plus encore, dans lequel la confidentialité est intégrée
 about-pdf-dropzone =
-    .title = Déposez un PDF ici pour le démarrage ou appuyez sur Entrée
+    .title = Déposez un PDF ici pour commencer ou appuyez sur Entrée
 about-pdf-dropzone-hint = Déposez un PDF ici pour commencer
 about-pdf-dropzone-privacy-hint = Les fichiers restent privés sur votre appareil.
 about-pdf-dropzone-invalid-file = Ce fichier n’est pas pris en charge. Choisissez un fichier PDF pour continuer.
-about-pdf-dropzone-error-generic = L’envoi a échoué. Réessayer plus tard.
+about-pdf-dropzone-error-generic = Échec de l’envoi. Réessayez plus tard.
 about-pdf-browse-files =
     .label = Parcourir les fichiers
 about-pdf-promo =

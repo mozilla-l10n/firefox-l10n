@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Legutóbb bezárt ablak újranyitása
 customkeys-sidebar-toggle = Oldalsáv be/ki
 customkeys-view-bookmarks-toolbar = Könyvjelzők eszköztár be/ki
 customkeys-view-picture-in-picture = Kép a képben
+customkeys-view-add-split-view = Osztott nézet hozzáadása
+# Separate is a verb
+customkeys-view-separate-split-view = Külön osztott nézet
 customkeys-dev-tools = Webfejlesztői eszközök
 customkeys-dev-inspector = DOM- és stílusvizsgáló
 customkeys-dev-webconsole = Webkonzol

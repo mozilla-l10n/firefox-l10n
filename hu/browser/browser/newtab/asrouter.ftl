@@ -461,3 +461,10 @@ relay-50-masks-announcement-primary-button = Ugrás a { -relay-brand-name }-hez
     .accesskey = U
 relay-50-masks-announcement-secondary-button = Eltüntetés
     .accesskey = E
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Visszajelzés megosztása
+    .accesskey = V
+nova-early-access-infobar-primary-button = Megértettem!
+    .accesskey = M

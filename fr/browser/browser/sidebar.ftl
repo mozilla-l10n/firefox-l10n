@@ -231,7 +231,7 @@ sidebar-opentabs-pinned-tabs =
 # Variables:
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-current-window-header =
-    .heading = Fenêtre { $winID } (courante)
+    .heading = Fenêtre { $winID } (actuelle)
 # Heading shown above the tab list for a non-focused window in the
 # Open Tabs sidebar panel.
 # Variables:
