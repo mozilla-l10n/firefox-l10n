@@ -14,6 +14,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = نئے ٹیبس
 
 ## Custom URLs subpage
 
@@ -28,6 +30,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } قطار
            *[other] { $num } قطاریں
         }
+home-restore-defaults-srd =
+    .label = طےشدہ بحال کریں
+    .accesskey = R
 home-mode-choice-custom-srd =
     .label = مخصوص …URLs
 home-mode-choice-blank-srd =
