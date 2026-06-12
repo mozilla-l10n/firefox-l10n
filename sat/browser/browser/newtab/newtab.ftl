@@ -30,6 +30,15 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ᱫᱷᱟᱹᱲ
+            [two] { $num } ᱫᱷᱟᱹᱲ ᱠᱤᱱ
+           *[other] { $num } ᱫᱷᱟᱹᱲ ᱠᱚ
+        }
 home-prefs-shortcuts-header-srd =
     .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 home-prefs-shortcuts-select =
@@ -40,6 +49,14 @@ home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 home-prefs-highlights-option-visited-pages-srd =
     .label = ᱦᱤᱨᱤ ᱠᱟᱱ ᱥᱟᱦᱴᱟ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = ᱱᱮᱱᱮ ᱰᱟᱣᱱᱞᱚᱰ ᱠᱟᱱ
+home-prefs-recent-activity-header-srd =
+    .label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
+home-prefs-recent-activity-select =
+    .aria-label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 
 ## Search box component.
 
