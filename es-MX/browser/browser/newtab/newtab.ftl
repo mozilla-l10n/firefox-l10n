@@ -38,6 +38,8 @@ home-homepage-title =
     .label = Página de inicio
 home-homepage-new-windows =
     .label = Nuevas ventanas
+home-homepage-new-tabs =
+    .label = Nuevas pestañas
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elige un sitio específico
@@ -94,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Para usar estas funciones, establece las pestañas o ventanas nuevas en { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restaurar predeterminados
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom-srd =
