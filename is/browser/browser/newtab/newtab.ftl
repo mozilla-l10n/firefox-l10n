@@ -40,6 +40,12 @@ newtab-logo-and-wordmark =
 home-restore-defaults-srd =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
+home-prefs-shortcuts-header-srd =
+    .label = Flýtileiðir
+home-prefs-shortcuts-select =
+    .aria-label = Flýtileiðir
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Kostaðar flýtileiðir
 
 ## Search box component.
 
