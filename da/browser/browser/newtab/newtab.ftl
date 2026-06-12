@@ -78,6 +78,8 @@ home-prefs-recent-activity-header-srd =
     .label = Seneste aktivitet
 home-prefs-recent-activity-select =
     .aria-label = Seneste aktivitet
+home-prefs-weather-header-srd =
+    .label = Vejr
 
 ## Search box component.
 
