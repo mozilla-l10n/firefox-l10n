@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = નવી ટૅબ્સ
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } પંક્તિ
            *[other] { $num } પંક્તિઓ
         }
+home-restore-defaults-srd =
+    .label = મૂળભૂતને પુન:સંગ્રહો
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = પોતાના URLs...
+home-mode-choice-blank-srd =
+    .label = ખાલી પાનું
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = પ્રાયોજિત વાર્તાઓ
 home-prefs-highlights-option-visited-pages-srd =
