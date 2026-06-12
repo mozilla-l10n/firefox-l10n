@@ -40,6 +40,25 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-stories-header2 =
+    .label = Приче
+    .description = Изузетан садржај који припрема { -brand-product-name } породица
+home-prefs-shortcuts-header-srd =
+    .label = Пречице
+home-prefs-shortcuts-select =
+    .aria-label = Пречице
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Спонзорисане пречице
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Спонзорисане приче
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Посећене странице
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Обележивачи
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Најновије преузимање
 
 ## Search box component.
 
