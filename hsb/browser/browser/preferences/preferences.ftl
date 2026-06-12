@@ -1280,6 +1280,15 @@ containers-settings-button =
     .label = Nastajenja
 containers-remove-button =
     .label = Wotstronić
+containers-section-header2 =
+    .heading = Nastajenja kontejnera
+containers-add-button2 =
+    .label = Nowy kontejner přidać
+    .accesskey = N
+containers-settings-button2 =
+    .title = Nastajenja
+containers-remove-button2 =
+    .title = Wotstronić
 
 ## Account and sync
 
@@ -1287,6 +1296,9 @@ sync-group-label =
     .label = Synchronizować
 account-group-label2 =
     .label = Konto
+account-disabled-group =
+    .label = Konta
+    .description = Kontowe nastajenja k dispoziciji njejsu.
 account-placeholder2 =
     .label = Njejsće přizjewjeny
     .description = Přizjewće so a wobchowajće swoje daty priwatne, zaklučowane a hnydom přistupne wšudźe, hdźež { -brand-short-name } wužiwaće.

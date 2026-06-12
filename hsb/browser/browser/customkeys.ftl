@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Posledni začinjene wokno zaso wočinić
 customkeys-sidebar-toggle = Bóčnicu přepinać
 customkeys-view-bookmarks-toolbar = Lajstu zapołožkow přepinać
 customkeys-view-picture-in-picture = Wobraz-we-wobrazu
+customkeys-view-add-split-view = Rozdźěleny napohlad přidać
+# Separate is a verb
+customkeys-view-separate-split-view = Rozdźěleny napohlad wotdźělić
 customkeys-dev-tools = Webwuwiwarske nastroje
 customkeys-dev-inspector = DOM- a stilowy inspektor
 customkeys-dev-webconsole = Webkonsola

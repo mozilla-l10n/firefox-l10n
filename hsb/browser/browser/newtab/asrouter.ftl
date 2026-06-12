@@ -467,3 +467,10 @@ relay-50-masks-announcement-primary-button = K { -relay-brand-name }
     .accesskey = K
 relay-50-masks-announcement-secondary-button = Zaćisnyć
     .accesskey = Z
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Měnjenje dźělić
+    .accesskey = M
+nova-early-access-infobar-primary-button = Sym zrozumił
+    .accesskey = S
