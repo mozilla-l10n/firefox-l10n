@@ -34,6 +34,15 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Faqe hyrëse
+home-homepage-new-windows =
+    .label = Dritare të reja
+home-homepage-new-tabs =
+    .label = Skeda të reja
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Zgjidhni një sajt specifik
 
 ## Custom URLs subpage
 
@@ -50,6 +59,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Kërko
+home-prefs-stories-header2 =
+    .label = Histori
+    .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widget-e
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -66,6 +78,15 @@ home-prefs-choose-wallpaper-link2 =
     .label = Zgjidhni një sfond
 home-prefs-firefox-logo-header =
     .label = Stemë e { -brand-short-name }-it
+home-restore-defaults-srd =
+    .label = Rikthe Parazgjedhjet
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Parazgjedhje)
+home-mode-choice-custom-srd =
+    .label = URL Vetjake…
+home-mode-choice-blank-srd =
+    .label = Faqe të Zbrazët
 home-prefs-shortcuts-header-srd =
     .label = Shkurtore
 home-prefs-shortcuts-select =
