@@ -30,6 +30,12 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+home-prefs-shortcuts-select =
+    .aria-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
 
 ## Search box component.
 
