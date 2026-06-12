@@ -36,6 +36,14 @@ home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = محتوایی از حامیان مالی
 home-prefs-highlights-option-visited-pages-srd =
     .label = صفحات بازدید شده
+home-prefs-highlights-options-bookmarks-srd =
+    .label = نشانک‌ها
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = جدیدترین بارگیری
+home-prefs-recent-activity-header-srd =
+    .label = فعالیت‌های اخیر
+home-prefs-recent-activity-select =
+    .aria-label = فعالیت‌های اخیر
 
 ## Search box component.
 
