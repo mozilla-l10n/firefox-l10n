@@ -46,6 +46,13 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Direzions di sîts web
+home-custom-homepage-address =
+    .placeholder = Inserìs une direzion
+home-custom-homepage-address-button =
+    .label = Zonte direzion
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Nol è stât zontât ancjemò nissun sît.
@@ -99,6 +106,19 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Par doprâ chestis funzions, stabilìs gnovis schedis o gnûfs barcons su { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } rie
+           *[other] { $num } riis
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Estension ({ $extension })
 home-restore-defaults-srd =
     .label = Ripristine predefinîts
     .accesskey = R
