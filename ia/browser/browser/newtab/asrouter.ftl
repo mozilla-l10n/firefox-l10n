@@ -464,5 +464,8 @@ relay-50-masks-announcement-secondary-button = Clauder
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } sta a obtener un nove apparentia.</strong> Tu previsualisa un version anticipate,  impolite, ante le lanceamento futur de iste anno,
+nova-early-access-share-feedback-link = Condivide commentos
+    .accesskey = C
 nova-early-access-infobar-primary-button = Comprendite
     .accesskey = C

@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Ora nos refusa automaticament
 about-private-browsing-felt-privacy-v1-info-header = Non lassa tracias sur iste apparato
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } dele tu cookies, chronologia e le datos del sitos web quando tu claude tote le fenestras private.
 about-private-browsing-felt-privacy-v1-info-link = Qui pote vider mi activitate?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Claudente tote tu fenestras private tu delera tu cookies, chronologia e datos de sito.

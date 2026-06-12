@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Reaperir ultime fenestra claudite
 customkeys-sidebar-toggle = Monstrar/celar le barra lateral
 customkeys-view-bookmarks-toolbar = Activar/disactivar le Barra del marcapaginas
 customkeys-view-picture-in-picture = Imagine-in-imagine
+customkeys-view-add-split-view = Adder visualisation scisse
+# Separate is a verb
+customkeys-view-separate-split-view = Separar visualisation scisse
 customkeys-dev-tools = Utensiles de disveloppator web
 customkeys-dev-inspector = Inspector del DOM e de stilo
 customkeys-dev-webconsole = Consola web

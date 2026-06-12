@@ -115,6 +115,25 @@ options-sourceeditor-tabsize-label = Wulkosć tabulatora
 options-sourceeditor-keybinding-label = Tastowe wjazanja
 options-sourceeditor-keybinding-default-label = Standard
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokalny modus
+options-local-mode-domain-label = Swójska domena:
+options-local-mode-origin-input =
+    .placeholder = Pochad za lokalne přirjadowanje
+options-local-mode-origin-invalid = Tutón pochad je njepłaćiwy
+options-local-mode-folder-label = Lokalny rjadowak:
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Rjadowak lokalneho modusa wubrać za: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Tutón rjadowak njeeksistuje abo je njepłaćiwy.
+options-local-mode-toggle-enable = Zmóžnić
+options-local-mode-toggle-disable = Znjemóžnić
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
