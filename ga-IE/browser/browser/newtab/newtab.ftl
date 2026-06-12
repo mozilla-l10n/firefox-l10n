@@ -12,12 +12,16 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Cluaisíní nua
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-blank-srd =
+    .label = Leathanach Bán
 home-prefs-highlights-options-bookmarks-srd =
     .label = Leabharmharcanna
 
