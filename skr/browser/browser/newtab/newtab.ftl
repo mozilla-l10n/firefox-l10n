@@ -21,12 +21,23 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = نویاں ٹیباں
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = ڈیفالٹس بحال کرو
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (طے شدہ)
+home-mode-choice-custom-srd =
+    .label = مرضی دے URLs …
+home-mode-choice-blank-srd =
+    .label = خالی ورقہ
 home-prefs-shortcuts-header-srd =
     .label = شارٹ کٹ
 home-prefs-shortcuts-select =
