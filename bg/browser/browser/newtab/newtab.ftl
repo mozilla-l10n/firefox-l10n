@@ -31,12 +31,23 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Нов раздел
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = Стандартни настройки
+    .accesskey = с
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (По подразбиране)
+home-mode-choice-custom-srd =
+    .label = Потребителски адреси…
+home-mode-choice-blank-srd =
+    .label = Празна страница
 home-prefs-shortcuts-header-srd =
     .label = Преки пътища
 home-prefs-shortcuts-select =
