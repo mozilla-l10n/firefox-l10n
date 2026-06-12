@@ -34,14 +34,27 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Տնային էջ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Ընտրեք որոշակի կայք
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Բացված էջեր
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Էջանիշներ…
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Որոնում
 home-prefs-widgets-header =
     .label = Վիջեթներ
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -62,6 +75,8 @@ home-prefs-manage-topics-link2 =
     .label = Կառավարել թեմաները
 home-prefs-choose-wallpaper-link2 =
     .label = Ընտրեք պաստառ
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-ի լոգո
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -75,6 +90,10 @@ home-prefs-sections-rows-option-srd =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Ընդլայնում ({ $extension })
+home-prefs-shortcuts-header-srd =
+    .label = Դյուրանցումներ
+home-prefs-shortcuts-select =
+    .aria-label = Դյուրանցումներ
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Հովանավորված դյուրանցումներ
 home-prefs-recommended-by-option-sponsored-stories-srd =
