@@ -25,6 +25,12 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (ຄ່າເລີ່ມຕົ້ນ)
+home-mode-choice-custom-srd =
+    .label = URLs ທີ່ກຳນົດເອງ…
+home-mode-choice-blank-srd =
+    .label = ຫນ້າເປົ່າ
 home-prefs-shortcuts-header-srd =
     .label = ທາງລັດ
 home-prefs-shortcuts-select =
