@@ -115,6 +115,17 @@ options-sourceeditor-tabsize-label = Velikost tabulátoru
 options-sourceeditor-keybinding-label = Klávesové zkratky
 options-sourceeditor-keybinding-default-label = Výchozí
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokální režim
+options-local-mode-only-work-locally = Lokální režim funguje pouze lokálně a je zakázán při ladění vzdálených kontextů
+options-local-mode-domain-label = Vlastní doména:
+options-local-mode-origin-invalid = Tento zdroj není platný
+options-local-mode-folder-label = Místní složka:
+options-local-mode-toggle-enable = Povolit
+options-local-mode-toggle-disable = Zakázat
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

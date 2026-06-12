@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Název
+    .placeholder = Přidat název
+containers-icon-label2 =
+    .label = Ikona
+containers-color-label2 =
+    .label = Barva
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Strom
 containers-icon-chill =
     .label = Odpočinek
+containers-window-new3 =
+    .title = Přidat nový kontejner
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Nastavení kontejneru { $name }
+    .style = min-width: 32em

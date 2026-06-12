@@ -655,3 +655,10 @@ relay-50-masks-announcement-primary-button = Přejít na { -relay-brand-name }
     .accesskey = P
 relay-50-masks-announcement-secondary-button = Zavřít
     .accesskey = Z
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Sdílet zpětnou vazbu
+    .accesskey = S
+nova-early-access-infobar-primary-button = Rozumím
+    .accesskey = R

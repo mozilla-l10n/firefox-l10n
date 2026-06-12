@@ -238,6 +238,18 @@ sidebar-opentabs-title = Otevřené panely
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Připnuté panely
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Okno { $winID } (aktuální)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Okno { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

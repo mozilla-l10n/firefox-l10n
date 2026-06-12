@@ -1442,6 +1442,15 @@ containers-settings-button =
     .label = Nastavení
 containers-remove-button =
     .label = Odstranit
+containers-section-header2 =
+    .heading = Nastavení kontejneru
+containers-add-button2 =
+    .label = Přidat nový kontejner
+    .accesskey = P
+containers-settings-button2 =
+    .title = Nastavení
+containers-remove-button2 =
+    .title = Odebrat
 
 ## Account and sync
 
@@ -1449,6 +1458,9 @@ sync-group-label =
     .label = Synchronizace
 account-group-label2 =
     .label = Účet
+account-disabled-group =
+    .label = Účet
+    .description = Nastavení účtu není k dispozici.
 account-placeholder2 =
     .label = Nejste přihlášen(a)
     .description = Přihlaste se a udržujte své údaje soukromé, šifrované a okamžitě dostupné všude, kde používáte { -brand-short-name }.

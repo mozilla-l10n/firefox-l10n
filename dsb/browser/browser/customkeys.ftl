@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Slědne zacynjone wokno zasej wócyniś
 customkeys-sidebar-toggle = Bocnicu pśešaltowaś
 customkeys-view-bookmarks-toolbar = Rědka cytańskich znamjenjow pśešaltowaś
 customkeys-view-picture-in-picture = Wobraz-we-wobrazu
+customkeys-view-add-split-view = Rozdźělony naglěd pśidaś
+# Separate is a verb
+customkeys-view-separate-split-view = Rozdźělony naglěd wótźěliś
 customkeys-dev-tools = Webwuwijaŕske rědy
 customkeys-dev-inspector = DOM- a stilowy Inspektor
 customkeys-dev-webconsole = Webkonsola
