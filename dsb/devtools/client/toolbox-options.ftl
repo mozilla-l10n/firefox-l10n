@@ -115,6 +115,39 @@ options-sourceeditor-tabsize-label = Wjelikosć tabulatora
 options-sourceeditor-keybinding-label = Tastowe wězanja
 options-sourceeditor-keybinding-default-label = Standard
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokalny modus
+options-local-mode-only-work-locally = Lokalny modus lokalnje funkcioněrujo a znjemóžnja se, gaž se zdalone konteksty za zmólkami pśepytuju
+options-local-mode-domain-label = Swójska domena:
+options-local-mode-origin-input =
+    .placeholder = Póchad za lokalne pśirědowanje
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Toś ten póchad jo w konflikśe z drugim eksistěrujucym pśirědowanim
+options-local-mode-origin-invalid = Toś ten póchad jo njepłaśiwy
+options-local-mode-folder-label = Lokalny zarědnik:
+options-local-mode-choose-folder = Pśepytaś…
+    .title = Wubjeŕśo lokalny zarědnik za pśirědowanje
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Zarědnik lokalnego modusa wubraś za: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Toś ten zarědnik njeeksistěrujo abo jo njepłaśiwy.
+options-local-mode-toggle =
+    .title = Toś to lokalne pśirědowanje pśešaltowaś
+options-local-mode-toggle-enable = Zmóžniś
+options-local-mode-toggle-disable = Znjemóžniś
+options-local-mode-navigate-to =
+    .title = K URL pśirědowanja nawigěrowaś
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Cośo pśirědowanje “{ $mappingOrigin }” wótwónoźeś?
+options-local-mode-new-mapping = Nowe lokalne pśirědowanje pśidaś
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

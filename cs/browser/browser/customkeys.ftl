@@ -20,6 +20,7 @@ customkeys-history-reopen-window = Obnovit naposledy zavřené okno
 customkeys-sidebar-toggle = Přepnout postranní lištu
 customkeys-view-bookmarks-toolbar = Přepnout lištu záložek
 customkeys-view-picture-in-picture = Obraz v obraze
+customkeys-view-add-split-view = Přidat rozdělené zobrazení
 customkeys-dev-tools = Nástroje pro webové vývojáře
 customkeys-dev-inspector = Průzkumník DOM a stylů
 customkeys-dev-webconsole = Webová konzole
