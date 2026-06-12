@@ -42,6 +42,15 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Поиск
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } строка
+            [few] { $num } строки
+           *[many] { $num } строк
+        }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name(case: "nominative_uppercase") } (по умолчанию)
 home-prefs-shortcuts-header-srd =
