@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Página de inicio
+home-homepage-new-windows =
+    .label = Nuevas ventanas
+home-homepage-new-tabs =
+    .label = Nuevas pestañas
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elige un sitio específico
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Buscar
+home-prefs-stories-header2 =
+    .label = Historias
+    .description = Contenido excepcional seleccionado por la familia { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Para usar estas funcionalidades, configura las nuevas pestañas o ventanas nuevas con { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restaurar predeterminados
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (predeterminado)
 home-mode-choice-custom-srd =
@@ -101,6 +111,8 @@ home-prefs-shortcuts-select =
     .aria-label = Atajos
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Atajos patrocinados
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Historias patrocinadas
 home-prefs-highlights-option-visited-pages-srd =
     .label = Páginas visitadas
 home-prefs-highlights-options-bookmarks-srd =
