@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Spravovať kontajnery
     .accesskey = S
+user-context-new-tab =
+    .label = Nová karta
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

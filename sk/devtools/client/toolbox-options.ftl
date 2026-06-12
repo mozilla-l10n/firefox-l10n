@@ -141,6 +141,11 @@ options-local-mode-toggle-enable = Povoliť
 options-local-mode-toggle-disable = Zakázať
 options-local-mode-navigate-to =
     .title = Prejsť na túto URL adresu mapovania
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Chcete odstrániť mapovanie “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Pridať nové lokálne mapovanie
 
 ## Advanced section
 
