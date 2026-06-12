@@ -21,12 +21,34 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = ముంగిలిపేజీ
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } వరుస
+           *[other] { $num } వరుసలు
+        }
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (అప్రమేయం)
+home-mode-choice-custom-srd =
+    .label = అభిమత URLలు…
+home-mode-choice-blank-srd =
+    .label = ఖాళీ పేజీ
+home-prefs-recent-activity-header-srd =
+    .label = ఇటీవలి కార్యకలాపం
+home-prefs-recent-activity-select =
+    .aria-label = ఇటీవలి కార్యకలాపం
+home-prefs-weather-header-srd =
+    .label = వాతావరణం
 
 ## Search box component.
 
