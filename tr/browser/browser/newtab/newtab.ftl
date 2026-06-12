@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Giriş sayfası
+home-homepage-new-windows =
+    .label = Yeni pencereler
+home-homepage-new-tabs =
+    .label = Yeni sekmeler
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Belirli bir site seç
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Arama
+home-prefs-stories-header2 =
+    .label = Haberler
+    .description = { -brand-product-name } ailesinin seçtiği harika içerikler
 home-prefs-widgets-header =
     .label = Araçlar
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Bu özellikleri kullanmak için yeni sekme veya yeni pencere ayarınızı { -firefox-home-brand-name } olarak değiştirmelisiniz.
+home-restore-defaults-srd =
+    .label = Varsayılanları geri yükle
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Varsayılan)
 home-mode-choice-custom-srd =
