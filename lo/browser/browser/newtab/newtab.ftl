@@ -19,6 +19,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = ແທັບໃຫມ່
 
 ## Custom URLs subpage
 
@@ -29,6 +31,9 @@ newtab-logo-and-wordmark =
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
     .label = { $num } ແຖວ
+home-restore-defaults-srd =
+    .label = ກູ້ຄືນຄ່າເລີ່ມຕົ້ນ
+    .accesskey = ກ
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ຄ່າເລີ່ມຕົ້ນ)
 home-mode-choice-custom-srd =
