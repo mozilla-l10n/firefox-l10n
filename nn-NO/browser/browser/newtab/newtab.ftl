@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -48,6 +50,15 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } rekkje
            *[other] { $num } rekkjer
         }
+home-restore-defaults-srd =
+    .label = Bruk standardinnstillingar
+    .accesskey = r
+home-prefs-shortcuts-header-srd =
+    .label = Snarvegar
+home-prefs-shortcuts-select =
+    .aria-label = Snarvegar
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsa snarvegar
 
 ## Search box component.
 
