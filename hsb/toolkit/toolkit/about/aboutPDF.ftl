@@ -4,6 +4,10 @@
 
 about-pdf-title = PDF-Editor { -brand-short-name }
 about-pdf-header = PDF { -brand-short-name }
+about-pdf-tagline = Darmotny nastroj za čitanje, zjednoćowanje, signowanje, komentowanje a wjace – ze zatwarjenej priwatnosću
+about-pdf-dropzone =
+    .title = Pušćće tu PDF-dataju, zo byšće započał abo tłóčće Enter
+about-pdf-dropzone-hint = Pušćće tu PDF-dataju, zo byšće započał
 about-pdf-dropzone-privacy-hint = Dataje na wašim graće priwatne wostawaja.
 about-pdf-dropzone-invalid-file = Tuta dataja so njepodpěruje. Wubjerće PDF, zo byšće pokročował.
 about-pdf-dropzone-error-generic = Nahraće njeje so přewjedło. Spytajće pozdźišo hišće raz.
