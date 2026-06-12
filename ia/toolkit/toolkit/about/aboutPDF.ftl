@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-pdf-header = PDF de { -brand-short-name }
+about-pdf-dropzone-invalid-file = Iste file non es supportate. Elige un file PDF pro continuar.
 about-pdf-set-default =
     .label = Stabilir como predeterminate
 about-pdf-dismiss =

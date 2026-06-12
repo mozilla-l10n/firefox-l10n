@@ -117,6 +117,26 @@ options-sourceeditor-keybinding-default-label = Predefinite
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Modalitate local
+options-local-mode-only-work-locally = Le modalitate local functiona solo localmente e es disactivate durante le depuration de contextos remote
+options-local-mode-behavior = Le modalitate local te permitte de cargar files local via URL https sin alcun dependentia externe. Le URLs pote solo esser cargate ab schedas con DevTools aperte.
+options-local-mode-domain-label = Dominio personal:
+options-local-mode-origin-input =
+    .placeholder = Origine del mappage local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Iste origine conflige con un altere mappage existente
+options-local-mode-origin-invalid = Iste origine non es valide
+options-local-mode-folder-label = Plica local:
+options-local-mode-choose-folder = Navigar…
+    .title = Eliger un plica local pro servir iste mappage
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Eliger modalitate local plica pro: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Iste plica non existe, o non es valide.
 options-local-mode-toggle-enable = Activar
 options-local-mode-toggle-disable = Disactivar
 
