@@ -37,9 +37,24 @@ newtab-card-dismiss-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Indiritzos de sitos web
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nissunu situ web galu agiuntu.
+home-custom-homepage-delete-address-button =
+    .aria-label = Cantzella s’indiritzu
+    .title = Cantzella s’indiritzu
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predefinidu)
+home-mode-choice-custom-srd =
+    .label = URL personalizados…
+home-mode-choice-blank-srd =
+    .label = Pàgina in biancu
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Curtzadòrgios patrotzinados
 home-prefs-recommended-by-option-sponsored-stories-srd =
