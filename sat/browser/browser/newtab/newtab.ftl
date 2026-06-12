@@ -24,6 +24,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
 
 ## Custom URLs subpage
 
@@ -39,6 +41,15 @@ home-prefs-sections-rows-option-srd =
             [two] { $num } ᱫᱷᱟᱹᱲ ᱠᱤᱱ
            *[other] { $num } ᱫᱷᱟᱹᱲ ᱠᱚ
         }
+home-restore-defaults-srd =
+    .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (ᱢᱩᱞ)
+home-mode-choice-custom-srd =
+    .label = ᱠᱩᱥᱤᱭᱟᱠ URLs…
+home-mode-choice-blank-srd =
+    .label = ᱮᱠᱷᱮᱱᱟ ᱥᱟᱦᱴᱟ
 home-prefs-shortcuts-header-srd =
     .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 home-prefs-shortcuts-select =
