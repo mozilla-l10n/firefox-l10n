@@ -1321,6 +1321,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 panel-save-update-username = Wužiwarske mjeno
 panel-save-update-password = Hesło
+panel-save-update-username-2 =
+    .label = Wužiwarske mjeno
+panel-save-update-password-2 =
+    .label = Hesło
 
 ##
 
