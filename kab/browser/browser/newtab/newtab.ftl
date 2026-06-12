@@ -37,6 +37,16 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Ticraḍ n isebtar
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Isadaren imaynuten
+home-prefs-recent-activity-header-srd =
+    .label = Armud n melmi kan
+home-prefs-recent-activity-select =
+    .aria-label = Armud n melmi kan
+home-prefs-weather-header-srd =
+    .label = Tagnawt
 
 ## Search box component.
 
