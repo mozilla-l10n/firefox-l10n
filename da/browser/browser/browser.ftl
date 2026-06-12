@@ -1293,6 +1293,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = A
 
 panel-save-update-username = Brugernavn
 panel-save-update-password = Adgangskode
+panel-save-update-username-2 =
+    .label = Brugernavn
+panel-save-update-password-2 =
+    .label = Adgangskode
 
 ##
 

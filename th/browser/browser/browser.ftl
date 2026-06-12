@@ -1289,6 +1289,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ด
 
 panel-save-update-username = ชื่อผู้ใช้
 panel-save-update-password = รหัสผ่าน
+panel-save-update-username-2 =
+    .label = ชื่อผู้ใช้
+panel-save-update-password-2 =
+    .label = รหัสผ่าน
 
 ##
 

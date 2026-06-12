@@ -28,6 +28,61 @@ newtab-personalize-dialog-label =
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = Tab baru
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label = { $num } baris
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Ekstensi ({ $extension })
+home-restore-defaults-srd =
+    .label = Pulihkan Bawaan
+    .accesskey = B
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Baku)
+home-mode-choice-custom-srd =
+    .label = URL Ubahsuai…
+home-mode-choice-blank-srd =
+    .label = Laman Kosong
+home-prefs-shortcuts-header-srd =
+    .label = Pintasan
+home-prefs-shortcuts-select =
+    .aria-label = Pintasan
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Pintasan bersponsor
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Konten Sponsor
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Laman yang Dikunjungi
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Markah
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Unduhan Terbaru
+home-prefs-recent-activity-header-srd =
+    .label = Aktivitas terbaru
+home-prefs-recent-activity-select =
+    .aria-label = Aktivitas terbaru
+home-prefs-weather-header-srd =
+    .label = Cuaca
+home-prefs-support-firefox-header-srd =
+    .label = Dukung { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Cari tahu bagaimana
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -73,6 +128,9 @@ newtab-topsites-url-validation = URL valid diperlukan
 newtab-topsites-image-url-label = URL Gambar Khusus
 newtab-topsites-use-image-link = Gunakan gambar khusus…
 newtab-topsites-image-validation = Gambar gagal dimuat. Coba URL lain.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -140,6 +198,8 @@ newtab-menu-report = Laporkan
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokir
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Pelajari lebih lanjut
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Berhenti Mengikuti Topik
@@ -450,6 +510,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -583,6 +646,9 @@ newtab-custom-wallpaper-cta = Coba sekarang
 
 newtab-new-user-custom-wallpaper-cta = Coba sekarang
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Unduh { -brand-product-name } untuk seluler
@@ -650,3 +716,37 @@ newtab-widget-timer-menu-notifications = Matikan notifikasi
 newtab-widget-timer-menu-notifications-on = Hidupkan notifikasi
 newtab-widget-timer-menu-learn-more = Pelajari lebih lanjut
 newtab-promo-card-title = Dukung { -brand-product-name }
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

@@ -662,6 +662,9 @@ sharing-warning-disable-for-session =
 
 webserial-no-ports-available = Սերիական միացքներ չկան
 
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -1276,6 +1279,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Օգտվողի անուն
 panel-save-update-password = Գաղտնաբառ
+panel-save-update-username-2 =
+    .label = Օգտվողի անուն
+panel-save-update-password-2 =
+    .label = Գաղտնաբառ
 
 ##
 

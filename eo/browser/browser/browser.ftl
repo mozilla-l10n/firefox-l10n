@@ -1304,6 +1304,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 panel-save-update-username = Nomo de uzanto
 panel-save-update-password = Pasvorto
+panel-save-update-username-2 =
+    .label = Nomo de uzanto
+panel-save-update-password-2 =
+    .label = Pasvorto
 
 ##
 

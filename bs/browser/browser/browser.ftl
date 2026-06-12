@@ -632,6 +632,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogućite zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Da biste koristili prečicu F12, prvo otvorite Alate za programere preko menija Alati pretraživača.
@@ -939,6 +942,9 @@ urlbar-result-action-switch-to-tabgroup = Prebaci se na { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Otvori { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1145,6 +1151,10 @@ toolbar-button-new-private-window =
     .label = Novi privatni prozor
     .tooltiptext = Otvori novi prozor privatnog surfanja ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj stranici koriste DRM softver, što može ograničiti šta { -brand-short-name } može uraditi s njima.
@@ -1157,6 +1167,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Korisničko ime
 panel-save-update-password = Lozinka
+panel-save-update-username-2 =
+    .label = Korisničko ime
+panel-save-update-password-2 =
+    .label = Lozinka
 
 ##
 
@@ -1461,6 +1475,9 @@ trustpanel-blocker-see-all = Vidi sve
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1558,3 +1575,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dozvolio { $count } kripto rudara
     }
 trustpanel-cryptominer-tab-list-header = Ove stranice pokušavaju kriptorudariti:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

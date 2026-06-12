@@ -1306,6 +1306,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = ਵਰਤੋਂਕਾਰ-ਨਾਂ
 panel-save-update-password = ਪਾਸਵਰਡ
+panel-save-update-username-2 =
+    .label = ਵਰਤੋਂਕਾਰ-ਨਾਂ
+panel-save-update-password-2 =
+    .label = ਪਾਸਵਰਡ
 
 ##
 

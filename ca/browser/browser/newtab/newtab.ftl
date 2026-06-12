@@ -28,6 +28,114 @@ newtab-personalize-dialog-label =
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = Pàgina d’inici
+home-homepage-new-windows =
+    .label = Finestres noves
+home-homepage-new-tabs =
+    .label = Pestanyes noves
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Tria un lloc específic
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adreces de llocs web
+home-custom-homepage-address =
+    .placeholder = Escriviu una adreça
+home-custom-homepage-address-button =
+    .label = Afegeix l'adreça
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Encara no heu afegit cap lloc web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Suprimeix l’adreça
+    .title = Suprimeix l’adreça
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplaça amb
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pàgines obertes actualment
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Adreces d'interès…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Cerca
+home-prefs-stories-header2 =
+    .label = Articles
+    .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Ginys
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Llistes
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporitzador
+home-prefs-mission-message2 =
+    .message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor.
+home-prefs-manage-topics-link2 =
+    .label = Gestiona els temes
+home-prefs-choose-wallpaper-link2 =
+    .label = Trieu un fons de pantalla
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } files
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensió ({ $extension })
+home-restore-defaults-srd =
+    .label = Restaura els valors per defecte
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Per defecte)
+home-mode-choice-custom-srd =
+    .label = URL personalitzats…
+home-mode-choice-blank-srd =
+    .label = Pàgina en blanc
+home-prefs-shortcuts-header-srd =
+    .label = Dreceres
+home-prefs-shortcuts-select =
+    .aria-label = Dreceres
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Dreceres patrocinades
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articles patrocinats
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pàgines visitades
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Adreces d'interès
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Baixada més recent
+home-prefs-recent-activity-header-srd =
+    .label = Activitat recent
+home-prefs-recent-activity-select =
+    .aria-label = Activitat recent
+home-prefs-weather-header-srd =
+    .label = Informació meteorològica
+home-prefs-support-firefox-header-srd =
+    .label = Doneu suport al { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descobriu com
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -73,6 +181,9 @@ newtab-topsites-url-validation = Es necessita un URL vàlid
 newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -140,6 +251,8 @@ newtab-menu-report = Informa
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloca
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Més informació
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Deixa de seguir el tema
@@ -607,6 +720,9 @@ newtab-new-user-custom-wallpaper-title = Trieu un fons de pantalla per a persona
 newtab-new-user-custom-wallpaper-subtitle = Decoreu cada pestanya nova al vostre gust amb fons de pantalla i colors personalitzats.
 newtab-new-user-custom-wallpaper-cta = Proveu-ho ara
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Baixeu el { -brand-product-name } per a mòbils
@@ -727,3 +843,37 @@ newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
     .title = Ignora
     .aria-label = Ignora
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

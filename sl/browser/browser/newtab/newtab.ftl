@@ -31,6 +31,124 @@ newtab-card-dismiss-button =
     .title = Zapri
     .aria-label = Zapri
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = Domača stran
+home-homepage-new-windows =
+    .label = Nova okna
+home-homepage-new-tabs =
+    .label = Novi zavihki
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Izberite določeno stran
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Naslov spletnega mesta oz. spletnih mest
+home-custom-homepage-address =
+    .placeholder = Vnesite naslov
+home-custom-homepage-address-button =
+    .label = Dodaj naslov
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Dodano ni še nobeno spletno mesto.
+home-custom-homepage-delete-address-button =
+    .aria-label = Izbriši naslov
+    .title = Izbriši naslov
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Zamenjaj s/z
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = trenutno odprtimi stranmi
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = zaznamki …
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name(zacetnica: "velika") }
+home-prefs-search-header2 =
+    .label = Iskanje
+home-prefs-stories-header2 =
+    .label = Zgodbe
+    .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Pripomočki
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Seznami
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovnik
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Šport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ura
+home-prefs-mission-message2 =
+    .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
+home-prefs-manage-topics-link2 =
+    .label = Upravljanje tem
+home-prefs-choose-wallpaper-link2 =
+    .label = Izberite si ozadje
+home-prefs-firefox-logo-header =
+    .label = Logotip { -brand-short-name(sklon: "rodilnik") }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } vrstica
+            [two] { $num } vrstici
+            [few] { $num } vrstice
+           *[other] { $num } vrstic
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Razširitev ({ $extension })
+home-restore-defaults-srd =
+    .label = Obnovi privzeto
+    .accesskey = O
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name(zacetnica: "velika") } (privzeta)
+home-mode-choice-custom-srd =
+    .label = Spletne strani po meri ...
+home-mode-choice-blank-srd =
+    .label = Prazna stran
+home-prefs-shortcuts-header-srd =
+    .label = Bližnjice
+home-prefs-shortcuts-select =
+    .aria-label = Bližnjice
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Bližnjice oglaševalcev
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Zgodbe oglaševalcev
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Obiskane strani
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Zaznamki
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Najnovejši prenos
+home-prefs-recent-activity-header-srd =
+    .label = Nedavna dejavnost
+home-prefs-recent-activity-select =
+    .aria-label = Nedavna dejavnost
+home-prefs-weather-header-srd =
+    .label = Vreme
+home-prefs-support-firefox-header-srd =
+    .label = Podprite { -brand-product-name(sklon: "tozilnik") }
+home-prefs-mission-message-learn-more-link-srd = Spoznajte, kako
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +269,8 @@ newtab-menu-section-block = Prepovej
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Nehaj slediti
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Več o tem
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Nehaj slediti temi
@@ -654,6 +774,9 @@ newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product
 newtab-new-user-custom-wallpaper-subtitle = Počutite se kot doma na vsakem novem zavihku s poljubnim ozadjem in barvami.
 newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Prenesite { -brand-product-name } za mobilne naprave
@@ -913,6 +1036,16 @@ newtab-sports-widget-runner-up = Podprvaki
 newtab-sports-widget-champions = Prvaki
 newtab-sports-widget-world-cup-champions = Zmagovalci svetovnega prvenstva 2026
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
@@ -927,6 +1060,10 @@ newtab-sports-widget-team-name-label-eng =
     .label = Anglija
 newtab-sports-widget-team-name-label-sco =
     .label = Škotska
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

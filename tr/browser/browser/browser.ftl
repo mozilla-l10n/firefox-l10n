@@ -1306,6 +1306,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = K
 
 panel-save-update-username = Kullanıcı adı
 panel-save-update-password = Parola
+panel-save-update-username-2 =
+    .label = Kullanıcı adı
+panel-save-update-password-2 =
+    .label = Parola
 
 ##
 

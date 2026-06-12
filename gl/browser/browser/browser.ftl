@@ -627,6 +627,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar o atallo F12 abra primeiro as ferramentas de desenvolvemento mediante o menú de ferramentas do navegador.
@@ -925,6 +928,9 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1131,6 +1137,10 @@ toolbar-button-new-private-window =
     .label = Nova xanela privada
     .tooltiptext = Abrir unha nova xanela de navegación privada ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Algún son ou vídeo neste sitio usa software DRM, que pode limitar o que { -brand-short-name } lle permita facer con el.
@@ -1143,6 +1153,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Nome de usuario
 panel-save-update-password = Contrasinal
+panel-save-update-username-2 =
+    .label = Nome de usuario
+panel-save-update-password-2 =
+    .label = Contrasinal
 
 ##
 
@@ -1441,6 +1455,9 @@ trustpanel-blocker-see-all = Ver todo
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1524,3 +1541,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitiu { $count } criptomineiros
     }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

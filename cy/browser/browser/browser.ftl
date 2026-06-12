@@ -1335,6 +1335,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = C
 
 panel-save-update-username = Enw Defnyddiwr
 panel-save-update-password = Cyfrinair
+panel-save-update-username-2 =
+    .label = Enw Defnyddiwr
+panel-save-update-password-2 =
+    .label = Cyfrinair
 
 ##
 

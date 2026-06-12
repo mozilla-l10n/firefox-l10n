@@ -639,6 +639,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Izslēgt koplietošanas aizsardzību šai sesijai
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, izvēlnē Pārlūka Rīki atveriet sadaļu Izstrādātāju Rīki.
@@ -979,6 +982,9 @@ urlbar-result-action-switch-to-tabgroup = Pārslēgties uz { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Atvērt { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1185,6 +1191,10 @@ toolbar-button-new-private-window =
     .label = Jauns privātais logs
     .tooltiptext = Atver jaunu privātās pārlūkošanas logu ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmanto DRM, kas var ierobežot ko { -brand-short-name } var darīt ar tiem.
@@ -1197,6 +1207,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Lietotājvārds
 panel-save-update-password = Parole
+panel-save-update-username-2 =
+    .label = Lietotājvārds
+panel-save-update-password-2 =
+    .label = Parole
 
 ##
 
@@ -1530,6 +1544,9 @@ trustpanel-blocker-see-all = Redzēt visu
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1577,3 +1594,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
        *[other] { -brand-product-name } atļāva { $count } sociālo mediju izsekotājus
     }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

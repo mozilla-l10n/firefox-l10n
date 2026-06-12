@@ -31,6 +31,128 @@ newtab-card-dismiss-button =
     .title = Închide
     .aria-label = Închide
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = Pagină de start
+home-homepage-new-windows =
+    .label = Ferestre noi
+home-homepage-new-tabs =
+    .label = File noi
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Alege un anumit site
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresă(e) site web
+home-custom-homepage-address =
+    .placeholder = Introdu adresa
+home-custom-homepage-address-button =
+    .label = Adaugă o adresă
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nu au fost adăugate încă site-uri web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Șterge adresa
+    .title = Șterge adresa
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Înlocuiește cu
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pagini deschise acum
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcaje…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Caută
+home-prefs-stories-header2 =
+    .label = Articole
+    .description = Conținut excepțional, selecționat de familia { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Widgeturi
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Liste
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Cronometru
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporturi
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ceas
+home-prefs-mission-message2 =
+    .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
+home-prefs-manage-topics-link2 =
+    .label = Gestionează subiectele
+home-prefs-choose-wallpaper-link2 =
+    .label = Alege o imagine de fundal
+home-prefs-firefox-logo-header =
+    .label = Logoul { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pentru utilizarea acestor funcționalități, setează filele noi sau ferestrele noi pe { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } rând
+            [few] { $num } rânduri
+           *[other] { $num } de rânduri
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensie ({ $extension })
+home-restore-defaults-srd =
+    .label = Restaurează valorile implicite
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = Pagina de { -firefox-home-brand-name } (Implicită)
+home-mode-choice-custom-srd =
+    .label = URL-uri personalizate…
+home-mode-choice-blank-srd =
+    .label = Pagină goală
+home-prefs-shortcuts-header-srd =
+    .label = Comenzi rapide
+home-prefs-shortcuts-select =
+    .aria-label = Comenzi rapide
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Comenzi rapide sponsorizate
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articole sponsorizate
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pagini vizitate
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcaje
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Cele mai recente descărcări
+home-prefs-recent-activity-header-srd =
+    .label = Activitate recentă
+home-prefs-recent-activity-select =
+    .aria-label = Activitate recentă
+home-prefs-weather-header-srd =
+    .label = Meteo
+home-prefs-support-firefox-header-srd =
+    .label = Susține { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Află cum
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +273,8 @@ newtab-menu-section-block = Blochează
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Nu mai urmări
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Află mai multe
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Anulează urmărirea subiectului

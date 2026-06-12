@@ -14,6 +14,51 @@ newtab-personalize-icon-label =
 newtab-personalize-dialog-label =
     .aria-label = Personalitza
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = Pestanyes noves
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } files
+        }
+home-restore-defaults-srd =
+    .label = Restaura els valors per defecte
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = URL personalitzats…
+home-mode-choice-blank-srd =
+    .label = Pàgina en blanc
+home-prefs-shortcuts-header-srd =
+    .label = Dreceres
+home-prefs-shortcuts-select =
+    .aria-label = Dreceres
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Dreceres patrocinades
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articles patrocinats
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pàgines visitades
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Adreces d'interés
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Baixada més recent
+home-prefs-recent-activity-header-srd =
+    .label = Activitat recent
+home-prefs-recent-activity-select =
+    .aria-label = Activitat recent
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -56,6 +101,9 @@ newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancel·la
@@ -73,6 +121,9 @@ newtab-confirm-delete-history-p2 = Esta acció no es pot desfer.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Patrocinat
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -108,6 +159,9 @@ newtab-menu-save-to-pocket = Guarda al { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
 newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -227,6 +281,12 @@ newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Guardeu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
 newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -267,3 +327,101 @@ newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Firefox
+
+
+## Firefox
+
+
+## Celestial
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

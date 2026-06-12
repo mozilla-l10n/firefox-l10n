@@ -9,6 +9,41 @@ newtab-page-title = Yeni Vərəq
 newtab-settings-button =
     .title = Yeni Vərəq səhifənizi fərdiləşdirin
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = Yeni vərəqlər
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } sətir
+           *[other] { $num } sətir
+        }
+home-restore-defaults-srd =
+    .label = İlkin Seçənəkləri Bərpa et
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = Fərdi Ünvanlar…
+home-mode-choice-blank-srd =
+    .label = Boş Səhifə
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsorlaşdırılmış Hekayələr
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Baxılmış Səhifələr
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Əlfəcinlər
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Son Endirmələr
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -31,6 +66,9 @@ newtab-topsites-image-url-label = Fərdi şəkil ünvanı
 newtab-topsites-use-image-link = Fərdi şəkil işlət…
 newtab-topsites-image-validation = Şəkli yükləmək mümkün olmadı. Fərqli ünvan yoxlayın.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Ləğv et
@@ -44,6 +82,12 @@ newtab-topsites-add-button = Əlavə et
 newtab-confirm-delete-history-p1 = Bu səhifənin bütün parçalarını tarixçənizdən silmək istədiyinizə əminsiniz?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu əməliyyat geri alına bilməz.
+
+## Top Sites - Sponsored label
+
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -74,6 +118,12 @@ newtab-menu-delete-history = Tarixçədən Sil
 newtab-menu-save-to-pocket = { -pocket-brand-name }-ə Saxla
 newtab-menu-delete-pocket = { -pocket-brand-name }-dən sil
 newtab-menu-archive-pocket = { -pocket-brand-name }-də arxivləşdir
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
 
 ##
 
@@ -124,6 +174,9 @@ newtab-section-menu-move-up = Yuxarı daşı
 newtab-section-menu-move-down = Aşağı daşı
 newtab-section-menu-privacy-notice = Məxfilik Bildirişi
 
+## Section aria-labels
+
+
 ## Section Headers.
 
 newtab-section-header-topsites = Qabaqcıl Saytlar
@@ -139,6 +192,9 @@ newtab-empty-section-highlights = İnternetdə gəzməyə başlayın, burada ziy
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hamısını oxudunuz. Yeni { $provider } məqalələri üçün daha sonra təkrar yoxlayın. Gözləyə bilmirsiz? Məşhur mövzu seçərək internetdən daha çox gözəl məqalələr tapın.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -147,8 +203,115 @@ newtab-pocket-more-recommendations = Daha Çox Tövsiyyələr
 newtab-pocket-cta-button = { -pocket-brand-name } əldə edin
 newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də saxlayın və möhtəşəm yeni yazıları kəşf edin.
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Uups, bu məzmunu yüklərkən nəsə səhv getdi.
 newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yeniləyin.
+
+## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Firefox
+
+
+## Firefox
+
+
+## Celestial
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

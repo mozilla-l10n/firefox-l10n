@@ -1288,6 +1288,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Tên đăng nhập
 panel-save-update-password = Mật khẩu
+panel-save-update-username-2 =
+    .label = Tên đăng nhập
+panel-save-update-password-2 =
+    .label = Mật khẩu
 
 ##
 

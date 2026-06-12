@@ -31,6 +31,129 @@ newtab-card-dismiss-button =
     .title = ارفض
     .aria-label = ارفض
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = صفحة البداية
+home-homepage-new-windows =
+    .label = نوافذ جديدة
+home-homepage-new-tabs =
+    .label = الألسنة الجديدة
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = اختر موقعًا محددًا
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = عنوان(عناوين) الموقع الإلكتروني
+home-custom-homepage-address =
+    .placeholder = أدخل العنوان
+home-custom-homepage-address-button =
+    .label = أضف عنوانًا
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = لم تُضاف أي مواقع إلكترونية حتى الآن.
+home-custom-homepage-delete-address-button =
+    .aria-label = احذف العنوان
+    .title = احذف العنوان
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = استبدل ب
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = الصفحات المفتوحة حاليًا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = العلامات…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = ابحث
+home-prefs-stories-header2 =
+    .label = القصص
+    .description = محتوى استثنائي برعاية عائلة { -brand-product-name }
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = قوائم
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = المؤقت
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = الرياضة
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = ساعة
+home-prefs-mission-message2 =
+    .message = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل.
+home-prefs-manage-topics-link2 =
+    .label = أدِر المواضيع
+home-prefs-choose-wallpaper-link2 =
+    .label = اختر خلفية
+home-prefs-firefox-logo-header =
+    .label = شعار { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = لاستخدام هذه الميزات، عيّن ألسنة جديدة أو نوافذ جديدة إلى { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [zero] لا صفوف
+            [one] صف واحد
+            [two] صفان
+            [few] { $num } صفوف
+            [many] { $num } صفا
+           *[other] { $num } صف
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = الامتداد ({ $extension })
+home-restore-defaults-srd =
+    .label = استعد المبدئيات
+    .accesskey = س
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (افتراضي)
+home-mode-choice-custom-srd =
+    .label = عناوين مخصصة…
+home-mode-choice-blank-srd =
+    .label = صفحة فارغة
+home-prefs-shortcuts-header-srd =
+    .label = الاختصارات
+home-prefs-shortcuts-select =
+    .aria-label = الاختصارات
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = الاختصارات المموّلة
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = الأخبار الممولة
+home-prefs-highlights-option-visited-pages-srd =
+    .label = الصفحات المزارة
+home-prefs-highlights-options-bookmarks-srd =
+    .label = العلامات
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = آخر ما نُزّل
+home-prefs-recent-activity-header-srd =
+    .label = أحدث الأنشطة
+home-prefs-recent-activity-select =
+    .aria-label = أحدث الأنشطة
+home-prefs-weather-header-srd =
+    .label = الطقس
+home-prefs-support-firefox-header-srd =
+    .label = ادعم { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = اكتشف كيف
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +274,8 @@ newtab-menu-section-block = احجب
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = ألغِ المتابعة
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = اطّلع على المزيد
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = ألغِ متابعة الموضوع
@@ -588,6 +713,9 @@ newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
@@ -780,6 +908,25 @@ newtab-widget-timer-celebration-message-break = أمستعد للتركيز؟
 
 newtab-sports-widget-menu-learn-more = اطّلع على المزيد
 newtab-sports-widget-skip = تخطَّ
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

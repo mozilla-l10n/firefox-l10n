@@ -21,6 +21,99 @@ newtab-card-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = بلگه هووه ای
+home-homepage-new-windows =
+    .label = نیمدری یل نۊ
+home-homepage-new-tabs =
+    .label = بلگه یل نۊ
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = نشۊوی (ا) وبگه
+home-custom-homepage-address =
+    .placeholder = زیذن نشۊوی
+home-custom-homepage-address-button =
+    .label = ٱووردن نشۊوی
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = جایونی کردن وا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = بلگه یل گۊشیڌه وابیڌه هیم سکویی
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = نشووکا…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = پیتینیڌن
+home-prefs-widgets-header =
+    .label = ویجتا
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = نومگه یل
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = زمووݩ سنج
+home-prefs-manage-topics-link2 =
+    .label = دؽوۉداری سرتالا
+home-prefs-choose-wallpaper-link2 =
+    .label = پسند شؽوات زمینه
+home-prefs-firefox-logo-header =
+    .label = لوگو { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ردیف
+           *[other] { $num } ردیف
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = وردنی ({ $extension })
+home-restore-defaults-srd =
+    .label = وورگندن پؽش فرزا
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (پؽش فرز)
+home-mode-choice-custom-srd =
+    .label = نشۊویا سفارشی…
+home-mode-choice-blank-srd =
+    .label = بلگه پتی
+home-prefs-shortcuts-header-srd =
+    .label = ره نهنگا
+home-prefs-shortcuts-select =
+    .aria-label = ره نهنگا
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = ره نهنگا هؽزگرووݩ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = وزعیتا هؽزگرووݩ
+home-prefs-highlights-option-visited-pages-srd =
+    .label = بلگه یل نیشته وابیڌه
+home-prefs-highlights-options-bookmarks-srd =
+    .label = نشووکا
+home-prefs-recent-activity-header-srd =
+    .label = فعالیتا دیندایی
+home-prefs-recent-activity-select =
+    .aria-label = فعالیتا دیندایی
+home-prefs-weather-header-srd =
+    .label = ٱو وو هوا
+home-prefs-support-firefox-header-srd =
+    .label = لادرار { -brand-product-name }
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -132,6 +225,11 @@ newtab-menu-report = گوزارش
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = مسدۊد کردن
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = قلوه دووسته بۊین
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -198,6 +296,9 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
@@ -215,6 +316,13 @@ newtab-pocket-saved = زفت وابی
 newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
 
 ## Customization Menu
 
@@ -272,6 +380,9 @@ newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
 newtab-wallpaper-dark-purple = بناوش تاریک
 newtab-wallpaper-dark-green = ساوز تاریک
+
+## Abstract
+
 
 ## Firefox
 
@@ -387,6 +498,9 @@ newtab-custom-wallpaper-cta = امتهووس کوݩ
 
 newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = دانلود { -brand-product-name } سی موبایل
@@ -489,6 +603,31 @@ newtab-promo-card-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -497,3 +636,6 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Strings for the Clock widget
+

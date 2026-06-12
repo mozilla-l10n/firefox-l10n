@@ -1276,6 +1276,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Номи корбар
 panel-save-update-password = Ниҳонвожа
+panel-save-update-username-2 =
+    .label = Номи корбар
+panel-save-update-password-2 =
+    .label = Ниҳонвожа
 
 ##
 

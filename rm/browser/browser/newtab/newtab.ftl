@@ -28,6 +28,102 @@ newtab-personalize-dialog-label =
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = Novs tabs
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adressa(s) da website(s)
+home-custom-homepage-address =
+    .placeholder = Endatar in’adressa
+home-custom-homepage-address-button =
+    .label = Agiuntar in’adressa
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Anc n’agiuntà naginas websites.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Remplazzar cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Paginas avertas actualmain
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Segnapaginas…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Tschertgar
+home-prefs-stories-header2 =
+    .label = Artitgels
+    .description = Cuntegn excepziunal tschernì da la glieud da { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Glistas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Svegliarin
+home-prefs-mission-message2 =
+    .message = Noss sponsurs sustegnan noss engaschi per crear in meglier web.
+home-prefs-firefox-logo-header =
+    .label = Logo da { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } lingia
+           *[other] { $num } lingias
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensiun ({ $extension })
+home-restore-defaults-srd =
+    .label = Restaurar il standard
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predefinì)
+home-mode-choice-custom-srd =
+    .label = Adressas d'internet persunalisadas…
+home-mode-choice-blank-srd =
+    .label = Pagina vida
+home-prefs-shortcuts-header-srd =
+    .label = Scursanidas
+home-prefs-shortcuts-select =
+    .aria-label = Scursanidas
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Scursanidas sponsuradas
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Artitgels sponsurads
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Paginas visitadas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Segnapaginas
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = L'ultima telechargiada
+home-prefs-recent-activity-header-srd =
+    .label = Activitad recenta
+home-prefs-recent-activity-select =
+    .aria-label = Activitad recenta
+home-prefs-weather-header-srd =
+    .label = Aura
+home-prefs-support-firefox-header-srd =
+    .label = Sustegnair { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Vegnir a savair co quai va
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -73,6 +169,9 @@ newtab-topsites-url-validation = In URL valid è necessari
 newtab-topsites-image-url-label = URL dal maletg persunalisà
 newtab-topsites-use-image-link = Utilisar in maletg persunalisà…
 newtab-topsites-image-validation = Impussibel da chargiar il maletg. Emprova in auter URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -140,6 +239,8 @@ newtab-menu-report = Rapportar
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloccar
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Ulteriuras infurmaziuns
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Betg pli suandar il tema
@@ -607,6 +708,9 @@ newtab-new-user-custom-wallpaper-title = Tscherna in maletg dal fund davos per p
 newtab-new-user-custom-wallpaper-subtitle = Persunalisescha novs tabs cun tscherner tes agen maletg dal fund davos ed atgnas colurs.
 newtab-new-user-custom-wallpaper-cta = Ussa empruvar
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Telechargia { -brand-product-name } per apparats mobils
@@ -727,3 +831,37 @@ newtab-promo-card-cta = Ulteriuras infurmaziuns
 newtab-promo-card-dismiss-button =
     .title = Serrar
     .aria-label = Serrar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

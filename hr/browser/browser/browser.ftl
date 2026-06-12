@@ -653,6 +653,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deaktiviraj zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Za korištenje prečaca F12 najprije otvori programerske alate putem izbornika „Alati”.
@@ -1287,6 +1290,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = O
 
 panel-save-update-username = Korisničko ime
 panel-save-update-password = Lozinka
+panel-save-update-username-2 =
+    .label = Korisničko ime
+panel-save-update-password-2 =
+    .label = Lozinka
 
 ##
 

@@ -640,6 +640,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
@@ -983,6 +986,9 @@ urlbar-result-action-switch-to-tabgroup = Превключване към { $gro
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Отваряне на { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1189,6 +1195,10 @@ toolbar-button-new-private-window =
     .label = Поверителен прозорец
     .tooltiptext = Отваряне на поверителен прозорец ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Аудио или видеозапис от страницата използва софтуер за DRM, който може да ограничи какво { -brand-short-name } ви позволява да правите с тях.
@@ -1201,6 +1211,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = р
 
 panel-save-update-username = Потребителско име
 panel-save-update-password = Парола
+panel-save-update-username-2 =
+    .label = Потребителско име
+panel-save-update-password-2 =
+    .label = Парола
 
 ##
 
@@ -1615,3 +1629,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } позволи { $count } криптоминьора
     }
 trustpanel-cryptominer-tab-list-header = Следните сайтове се опитват да използват криптоминьори:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

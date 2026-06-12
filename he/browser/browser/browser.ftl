@@ -1305,6 +1305,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ס
 
 panel-save-update-username = שם משתמש
 panel-save-update-password = ססמה
+panel-save-update-username-2 =
+    .label = שם משתמש
+panel-save-update-password-2 =
+    .label = ססמה
 
 ##
 

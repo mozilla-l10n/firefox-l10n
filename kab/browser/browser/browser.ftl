@@ -622,6 +622,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I useqdec n unezgum F12, ldi qbel DevTools seg wumuɣ n yifecka n yiminig.
@@ -945,6 +948,9 @@ urlbar-result-action-switch-to-tabgroup = Uɣal ɣer { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Ldi { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1150,6 +1156,10 @@ toolbar-button-new-private-window =
     .label = Asfaylu amaynut n tunigin tusligt
     .tooltiptext = Asfaylu amaynut n tunigin tusligt ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
@@ -1162,6 +1172,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Isem n useqdac
 panel-save-update-password = Awal uffir
+panel-save-update-username-2 =
+    .label = Isem n useqdac
+panel-save-update-password-2 =
+    .label = Awal uffir
 
 ##
 
@@ -1246,6 +1260,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1329,6 +1346,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -1439,3 +1459,6 @@ urlbar-trust-icon-notsecure-label = Mačči d aγelsan
 trustpanel-insecure-section-header = Tuqqna-inek d taraɣellsant
 trustpanel-list-label-tracking-content = Agbur n uḍfaṛ
 trustpanel-tracking-content-tab-list-header = Ismal-a ttaɛraḍen ad ak⋅akem-ḍefren:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

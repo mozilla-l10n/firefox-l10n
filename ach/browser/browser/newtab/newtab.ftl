@@ -9,6 +9,31 @@ newtab-page-title = Dirica matidi manyen
 newtab-settings-button =
     .title = Yub potbuk me dirica matidi mamegi manyen
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = Dirica matino manyen
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+home-restore-defaults-srd =
+    .label = Dwok makwongo
+    .accesskey = D
+home-mode-choice-blank-srd =
+    .label = Potbuk ma nono
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Lok ma kicwako
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Potbuk ma kilimo
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Alamabuk
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Gam ma cokcoki loyo
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -31,6 +56,9 @@ newtab-topsites-image-url-label = URL me cal ma kiyubo
 newtab-topsites-use-image-link = Tii ki cal ma kiyubo…
 newtab-topsites-image-validation = Cano cal pe olare. Tem URL mukene.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Kwer
@@ -44,6 +72,12 @@ newtab-topsites-add-button = Medi
 newtab-confirm-delete-history-p1 = Imoko ni imito kwanyo nyig jami weng me potbuk man ki i gin mukato mamegi?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
+
+## Top Sites - Sponsored label
+
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -78,6 +112,9 @@ newtab-menu-delete-history = Kwany ki ii gin mukato
 newtab-menu-save-to-pocket = Gwok i { -pocket-brand-name }
 newtab-menu-delete-pocket = Kwany ki ii { -pocket-brand-name }
 newtab-menu-archive-pocket = Kan i { -pocket-brand-name }
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -175,6 +212,12 @@ newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik w
 newtab-pocket-save = Gwoki
 newtab-pocket-saved = Kigwoko
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -184,3 +227,101 @@ newtab-error-fallback-refresh-link = Nwo cano potbuk me temo odoco.
 ## Customization Menu
 
 newtab-custom-close-button = Lor
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Firefox
+
+
+## Firefox
+
+
+## Celestial
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

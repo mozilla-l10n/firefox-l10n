@@ -14,6 +14,54 @@ newtab-personalize-icon-label =
 newtab-personalize-dialog-label =
     .aria-label = Tinkinti
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = Naujos kortelės
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } eilutė
+            [few] { $num } eilutės
+           *[other] { $num } eilučių
+        }
+home-restore-defaults-srd =
+    .label = Atstatyti numatytąsias
+    .accesskey = A
+home-mode-choice-default-fx-srd =
+    .label = „{ -firefox-home-brand-name }“ (numatytasis)
+home-mode-choice-custom-srd =
+    .label = Kiti URL…
+home-mode-choice-blank-srd =
+    .label = Tuščias puslapis
+home-prefs-shortcuts-header-srd =
+    .label = Leistukai
+home-prefs-shortcuts-select =
+    .aria-label = Leistukai
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Rėmėjų leistukai
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Rėmėjų straipsniai
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Aplankyti tinklalapiai
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Adresynas
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Paskiausias atsisiuntimas
+home-prefs-recent-activity-header-srd =
+    .label = Paskiausia veikla
+home-prefs-recent-activity-select =
+    .aria-label = Paskiausia veikla
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -56,6 +104,9 @@ newtab-topsites-image-url-label = Kitoks paveikslo URL
 newtab-topsites-use-image-link = Naudoti kitą paveikslą…
 newtab-topsites-image-validation = Nepavyko įkelti paveikslo. Pabandykite kitokį URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Atsisakyti
@@ -73,6 +124,9 @@ newtab-confirm-delete-history-p2 = Atlikus šį veiksmą, jo atšaukti neįmanom
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Remiama
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -108,6 +162,9 @@ newtab-menu-save-to-pocket = Įrašyti į „{ -pocket-brand-name }“
 newtab-menu-delete-pocket = Trinti iš „{ -pocket-brand-name }“
 newtab-menu-archive-pocket = Archyvuoti per „{ -pocket-brand-name }“
 newtab-menu-show-privacy-info = Mūsų rėmėjai ir jūsų privatumas
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -227,6 +284,12 @@ newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
 newtab-pocket-pocket-firefox-family = „{ -pocket-brand-name }“ yra „{ -brand-product-name }“ šeimos dalis
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -269,3 +332,101 @@ newtab-custom-recent-title = Paskiausia veikla
 newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
 newtab-custom-close-button = Užverti
 newtab-custom-settings = Keisti daugiau nuostatų
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Firefox
+
+
+## Firefox
+
+
+## Celestial
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

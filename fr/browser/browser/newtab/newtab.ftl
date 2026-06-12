@@ -31,6 +31,127 @@ newtab-card-dismiss-button =
     .title = Ignorer
     .aria-label = Ignorer
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = Page d’accueil
+home-homepage-new-windows =
+    .label = Nouvelles fenêtres
+home-homepage-new-tabs =
+    .label = Nouveaux onglets
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Choisir un site en particulier
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresse(s) de site web
+home-custom-homepage-address =
+    .placeholder = Saisissez une adresse
+home-custom-homepage-address-button =
+    .label = Ajouter une adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Aucun site web ajouté pour l’instant.
+home-custom-homepage-delete-address-button =
+    .aria-label = Supprimer l’adresse
+    .title = Supprimer l’adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Remplacer par
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pages ouvertes actuellement
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marque-pages…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Recherche
+home-prefs-stories-header2 =
+    .label = Articles
+    .description = Contenu exceptionnel sélectionné par les membres de la gamme de produits { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listes
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Minuteur
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Horloge
+home-prefs-mission-message2 =
+    .message = Nos sponsors soutiennent notre mission de créer un meilleur Web.
+home-prefs-manage-topics-link2 =
+    .label = Gérer les sujets
+home-prefs-choose-wallpaper-link2 =
+    .label = Choisir un fond d’écran
+home-prefs-firefox-logo-header =
+    .label = Logo de { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pour utiliser ces fonctionnalités, choisissez la { -firefox-home-brand-name } pour les nouveaux onglets ou les nouvelles fenêtres.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ligne
+           *[other] { $num } lignes
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extension ({ $extension })
+home-restore-defaults-srd =
+    .label = Configuration par défaut
+    .accesskey = C
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (par défaut)
+home-mode-choice-custom-srd =
+    .label = Adresses web personnalisées…
+home-mode-choice-blank-srd =
+    .label = Page vide
+home-prefs-shortcuts-header-srd =
+    .label = Raccourcis
+home-prefs-shortcuts-select =
+    .aria-label = Raccourcis
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Raccourcis sponsorisés
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articles sponsorisés
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pages visitées
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marque-pages
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Dernier téléchargement
+home-prefs-recent-activity-header-srd =
+    .label = Activité récente
+home-prefs-recent-activity-select =
+    .aria-label = Activité récente
+home-prefs-weather-header-srd =
+    .label = Météo
+home-prefs-support-firefox-header-srd =
+    .label = Soutenir { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Découvrir comment
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +272,8 @@ newtab-menu-section-block = Bloquer
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Ne plus suivre
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = En savoir plus
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ne plus suivre ce sujet

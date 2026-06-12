@@ -19,6 +19,60 @@ newtab-personalize-dialog-label =
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-new-tabs =
+    .label = නව පටිති
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] පේළි { $num }
+           *[other] පේළි { $num }
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = ({ $extension }) දිගුව
+home-restore-defaults-srd =
+    .label = පෙරනිමියට ප්‍රත්‍යර්පණය
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (පෙරනිමි)
+home-mode-choice-custom-srd =
+    .label = අභිරුචි ඒ.ස.නි...
+home-mode-choice-blank-srd =
+    .label = හිස් පිටුව
+home-prefs-shortcuts-header-srd =
+    .label = කෙටිමං
+home-prefs-shortcuts-select =
+    .aria-label = කෙටිමං
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = අනුග්‍රහය ලද කෙටිමං
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = අනුග්‍රහය ලද කතා
+home-prefs-highlights-option-visited-pages-srd =
+    .label = දුටු පිටු
+home-prefs-highlights-options-bookmarks-srd =
+    .label = පොත්යොමු
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = වඩාත්ම මෑත බාගැනීම්
+home-prefs-recent-activity-header-srd =
+    .label = මෑත ක්‍රියාකාරකම
+home-prefs-recent-activity-select =
+    .aria-label = මෑත ක්‍රියාකාරකම
+home-prefs-weather-header-srd =
+    .label = කාලගුණය
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -65,6 +119,9 @@ newtab-topsites-image-url-label = අභිරුචි රූපයේ ඒ.ස.
 newtab-topsites-use-image-link = අභිරුචි රූපයක් යොදා ගන්න...
 newtab-topsites-image-validation = රූපය පූරණයට අසමත් විය. අන් ඒ.ස.නි. බලන්න.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = අවලංගු කරන්න
@@ -81,6 +138,9 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාමාර්�
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = අනුග්‍රහය ලද
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -116,6 +176,11 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්
 newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
 newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්‍ෂණය
 newtab-menu-show-privacy-info = අපගේ අනුග්‍රහකයින් හා ඔබගේ පෞද්ගලිකත්‍වය
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = තව දැනගන්න
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -225,6 +290,9 @@ newtab-toast-dismiss-button =
     .title = ඉවතලන්න
     .aria-label = ඉවතලන්න
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -285,6 +353,9 @@ newtab-wallpaper-pink = රෝස
 newtab-wallpaper-light-pink = ලා රෝස
 newtab-wallpaper-red = රතු
 
+## Abstract
+
+
 ## Firefox
 
 newtab-wallpaper-feature-highlight-button = තේරුණා
@@ -295,6 +366,12 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -319,12 +396,81 @@ newtab-weather-menu-learn-more = තව දැනගන්න
 # This message is shown if user is working offline
 newtab-weather-error-not-available = කාලගුණ දත්ත දැනට නොතිබේ.
 
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
 newtab-section-blocked-button = අවහිරයි
 
+## Confirmation modal for blocking a section
+
+
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-blocked-topics = අවහිරයි
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+

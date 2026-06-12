@@ -658,6 +658,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disativa sa protetzione de cumpartzidura pro custa sessione
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de ainas de su navigadore.
@@ -1286,6 +1289,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Nòmine utente
 panel-save-update-password = Crae
+panel-save-update-username-2 =
+    .label = Nòmine utente
+panel-save-update-password-2 =
+    .label = Crae
 
 ##
 

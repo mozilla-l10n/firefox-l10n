@@ -1305,6 +1305,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 panel-save-update-username = Käyttäjätunnus
 panel-save-update-password = Salasana
+panel-save-update-username-2 =
+    .label = Käyttäjätunnus
+panel-save-update-password-2 =
+    .label = Salasana
 
 ##
 

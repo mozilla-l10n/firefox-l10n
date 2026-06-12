@@ -31,6 +31,128 @@ newtab-card-dismiss-button =
     .title = Zavrieť
     .aria-label = Zavrieť
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = Domovská stránka
+home-homepage-new-windows =
+    .label = Nové okná
+home-homepage-new-tabs =
+    .label = Nové karty
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Vyberte konkrétnu stránku
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresy webových stránok
+home-custom-homepage-address =
+    .placeholder = Zadajte adresu
+home-custom-homepage-address-button =
+    .label = Pridať adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Zatiaľ neboli pridané žiadne webové stránky.
+home-custom-homepage-delete-address-button =
+    .aria-label = Odstrániť adresu
+    .title = Odstrániť adresu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Nahradiť s
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktuálne otvorené stránky
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Záložky…
+
+## Firefox Home content
+
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Vyhľadávanie
+home-prefs-stories-header2 =
+    .label = Príbehy
+    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Miniaplikácie
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Zoznamy
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovač
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Šport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Hodiny
+home-prefs-mission-message2 =
+    .message = Naši sponzori podporujú našu misiu budovať lepší web.
+home-prefs-manage-topics-link2 =
+    .label = Spravovať témy
+home-prefs-choose-wallpaper-link2 =
+    .label = Vybrať tapetu
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name(case: "gen") }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Ak chcete tieto funkcie používať, nastavte, aby sa pri otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } riadok
+            [few] { $num } riadky
+           *[other] { $num } riadkov
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Rozšírenie ({ $extension })
+home-restore-defaults-srd =
+    .label = Obnoviť predvolené
+    .accesskey = r
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predvolené)
+home-mode-choice-custom-srd =
+    .label = Vlastné URL adresy…
+home-mode-choice-blank-srd =
+    .label = Prázdna stránka
+home-prefs-shortcuts-header-srd =
+    .label = Skratky
+home-prefs-shortcuts-select =
+    .aria-label = Skratky
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponzorované skratky
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponzorované stránky
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Navštívené stránky
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Záložky
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Nedávne sťahovania
+home-prefs-recent-activity-header-srd =
+    .label = Nedávna aktivita
+home-prefs-recent-activity-select =
+    .aria-label = Nedávna aktivita
+home-prefs-weather-header-srd =
+    .label = Počasie
+home-prefs-support-firefox-header-srd =
+    .label = Podpora pre { -brand-product-name(case: "acc") }
+home-prefs-mission-message-learn-more-link-srd = Pozrite sa ako
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +273,8 @@ newtab-menu-section-block = Blokovať
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Prestať sledovať
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Ďalšie informácie
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Prestať sledovať tému
