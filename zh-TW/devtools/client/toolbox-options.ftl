@@ -117,8 +117,17 @@ options-sourceeditor-keybinding-default-label = 預設
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = 本機模式
 options-local-mode-domain-label = 自訂網域：
 options-local-mode-origin-invalid = 此來源無效
+options-local-mode-folder-label = 本機資料夾：
+options-local-mode-choose-folder = 瀏覽…
+    .title = 請選擇要用來提供對映的本地端資料夾
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = 請選擇下列網址的本機模式資料夾：{ $url }
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = 此資料夾不存在或無效。

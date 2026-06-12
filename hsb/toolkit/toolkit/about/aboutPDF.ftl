@@ -6,6 +6,7 @@ about-pdf-title = PDF-Editor { -brand-short-name }
 about-pdf-header = PDF { -brand-short-name }
 about-pdf-dropzone-privacy-hint = Dataje na wašim graće priwatne wostawaja.
 about-pdf-dropzone-invalid-file = Tuta dataja so njepodpěruje. Wubjerće PDF, zo byšće pokročował.
+about-pdf-dropzone-error-generic = Nahraće njeje so přewjedło. Spytajće pozdźišo hišće raz.
 about-pdf-browse-files =
     .label = Dataje přepytać
 about-pdf-set-default =

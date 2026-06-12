@@ -461,6 +461,7 @@ relay-50-masks-announcement-secondary-button = 知道了！
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } 即將有全新風貌。</strong>您目前正在體驗仍處於早期、未雕琢過的版本，今年稍晚才會正式推出。
 nova-early-access-share-feedback-link = 分享意見回饋
     .accesskey = S
 nova-early-access-infobar-primary-button = 知道了！
