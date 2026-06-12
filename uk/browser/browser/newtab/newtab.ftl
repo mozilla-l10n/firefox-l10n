@@ -42,6 +42,12 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Поточні відкриті сторінки
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Закладки…
 
 ## Firefox Home content
 
@@ -60,6 +66,14 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
+home-prefs-mission-message2 =
+    .message = Наші спонсори підтримують нашу місію зі створення кращого інтернету.
+home-prefs-manage-topics-link2 =
+    .label = Керувати темами
+home-prefs-choose-wallpaper-link2 =
+    .label = Виберіть шпалеру
+home-prefs-firefox-logo-header =
+    .label = Логотип { -brand-short-name }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Типово)
 home-mode-choice-custom-srd =
@@ -86,6 +100,9 @@ home-prefs-recent-activity-select =
     .aria-label = Нещодавня активність
 home-prefs-weather-header-srd =
     .label = Погода
+home-prefs-support-firefox-header-srd =
+    .label = Підтримка { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Дізнайтеся як
 
 ## Search box component.
 
