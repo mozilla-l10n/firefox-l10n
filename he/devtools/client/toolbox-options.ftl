@@ -130,6 +130,24 @@ options-local-mode-origin-invalid = מקור זה אינו תקין
 options-local-mode-folder-label = תיקייה מקומית:
 options-local-mode-choose-folder = עיון…
     .title = בחירת תיקייה מקומי שתשמש עבור מיפוי זה
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = בחירת תיקיית מצב מקומי עבור: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = תיקייה זו אינה קיימת, או שהיא לא חוקית.
+options-local-mode-toggle =
+    .title = הפעלה/השבתה של המיפוי המקומי הזה
+options-local-mode-toggle-enable = הפעלה
+options-local-mode-toggle-disable = השבתה
+options-local-mode-navigate-to =
+    .title = ניווט לכתובת המיפוי הזו
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = האם ברצונך להסיר את המיפוי ״{ $mappingOrigin }״?
+options-local-mode-new-mapping = הוספת מיפוי מקומי חדש
 
 ## Advanced section
 
