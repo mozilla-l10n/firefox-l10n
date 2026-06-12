@@ -26,6 +26,10 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } riga
            *[other] { $num } righi
         }
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Artìculi spunzurizzati
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pàggini visitati
 home-prefs-highlights-options-bookmarks-srd =
     .label = Nzingalibbra
 home-prefs-highlights-option-most-recent-download-srd =
