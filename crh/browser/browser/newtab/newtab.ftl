@@ -26,6 +26,10 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } satır
            *[other] { $num } satır
         }
+home-mode-choice-custom-srd =
+    .label = Özel URL'ler
+home-mode-choice-blank-srd =
+    .label = Boş saife
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponsorlı Hikâyeler
 home-prefs-highlights-option-visited-pages-srd =
