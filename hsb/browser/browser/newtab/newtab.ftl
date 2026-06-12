@@ -40,6 +40,32 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (standard)
+home-mode-choice-custom-srd =
+    .label = Swójske URL…
+home-mode-choice-blank-srd =
+    .label = Prózdna strona
+home-prefs-shortcuts-header-srd =
+    .label = Zwjazanja
+home-prefs-shortcuts-select =
+    .aria-label = Zwjazanja
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponserowane zwjazanja
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponserowane stawizny
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Wopytane strony
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Zapołožki
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Najnowše sćehnjenje
+home-prefs-recent-activity-header-srd =
+    .label = Najnowša aktiwita
+home-prefs-recent-activity-select =
+    .aria-label = Najnowša aktiwita
+home-prefs-weather-header-srd =
+    .label = Wjedro
 
 ## Search box component.
 
