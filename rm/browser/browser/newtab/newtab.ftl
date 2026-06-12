@@ -34,6 +34,12 @@ newtab-logo-and-wordmark =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Paginas avertas actualmain
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Segnapaginas…
 
 ## Firefox Home content
 
@@ -54,6 +60,8 @@ home-prefs-timer-header =
     .label = Svegliarin
 home-prefs-mission-message2 =
     .message = Noss sponsurs sustegnan noss engaschi per crear in meglier web.
+home-prefs-firefox-logo-header =
+    .label = Logo da { -brand-short-name }
 home-prefs-shortcuts-header-srd =
     .label = Scursanidas
 home-prefs-shortcuts-select =
