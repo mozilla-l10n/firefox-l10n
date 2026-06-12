@@ -654,6 +654,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice innealan a’ bhrabhsair.
@@ -1017,6 +1020,9 @@ urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1266,6 +1272,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = d
 
 panel-save-update-username = Ainm-cleachdaiche
 panel-save-update-password = Facal-faire
+panel-save-update-username-2 =
+    .label = Ainm-cleachdaiche
+panel-save-update-password-2 =
+    .label = Facal-faire
 
 ##
 
@@ -1728,3 +1738,6 @@ trustpanel-blocker-section-header2 =
         [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
        *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
