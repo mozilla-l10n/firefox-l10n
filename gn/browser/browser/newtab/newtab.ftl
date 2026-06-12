@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Ñanduti kundaharape(ita)
+home-custom-homepage-address =
+    .placeholder = Ehai kundaharape
+home-custom-homepage-address-button =
+    .label = Embojuaju kundaharape
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ndaipóri ñanduti rogue mbojuajupyre.
 home-custom-homepage-delete-address-button =
     .aria-label = Embogue kundaharape
     .title = Embogue kundaharape
@@ -96,6 +106,19 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Eiporu hag̃ua ko’ã tembiapoite, emboheko tendayke térã ovetã pyahu { -firefox-home-brand-name } ndive.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } rysýi
+           *[other] { $num } rysýi
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Jepysokue ({ $extension })
 home-restore-defaults-srd =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
