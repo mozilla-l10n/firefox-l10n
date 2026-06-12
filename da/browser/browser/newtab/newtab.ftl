@@ -34,12 +34,27 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Startside
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Vælg et specifik websted
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktuelt åbnede sider
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bogmærker…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Søg
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -54,6 +69,14 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ur
+home-prefs-mission-message2 =
+    .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
+home-prefs-manage-topics-link2 =
+    .label = Håndter emner
+home-prefs-choose-wallpaper-link2 =
+    .label = Vælg en baggrund
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Standard)
 home-mode-choice-custom-srd =
@@ -80,6 +103,9 @@ home-prefs-recent-activity-select =
     .aria-label = Seneste aktivitet
 home-prefs-weather-header-srd =
     .label = Vejr
+home-prefs-support-firefox-header-srd =
+    .label = Støt { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 
 ## Search box component.
 
