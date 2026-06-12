@@ -42,11 +42,26 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = ลบที่อยู่
+    .title = ลบที่อยู่
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = แทนที่ด้วย
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = หน้าที่เปิดปัจจุบัน
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = ที่คั่นหน้า…
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = ค้นหา
 home-prefs-widgets-header =
     .label = วิดเจ็ต
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -61,6 +76,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = นาฬิกา
+home-prefs-mission-message2 =
+    .message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
+home-prefs-manage-topics-link2 =
+    .label = จัดการหัวข้อ
+home-prefs-choose-wallpaper-link2 =
+    .label = เลือกวอลล์เปเปอร์
+home-prefs-firefox-logo-header =
+    .label = โลโก้ { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = เพื่อใช้คุณลักษณะเหล่านี้ ให้ตั้งค่าแท็บใหม่หรือหน้าต่างใหม่เป็น { -firefox-home-brand-name }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ค่าเริ่มต้น)
 home-mode-choice-custom-srd =
@@ -87,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = กิจกรรมล่าสุด
 home-prefs-weather-header-srd =
     .label = พยากรณ์อากาศ
+home-prefs-support-firefox-header-srd =
+    .label = ร่วมสนับสนุน { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = ค้นหาว่าทำอย่างไร
 
 ## Search box component.
 
