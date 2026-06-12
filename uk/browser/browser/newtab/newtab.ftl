@@ -46,6 +46,20 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Адреса вебсайту
+home-custom-homepage-address =
+    .placeholder = Введіть адресу
+home-custom-homepage-address-button =
+    .label = Додати адресу
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ще не додано жодного вебсайту.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Замінити на
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Поточні відкриті сторінки
@@ -78,6 +92,20 @@ home-prefs-choose-wallpaper-link2 =
     .label = Виберіть шпалеру
 home-prefs-firefox-logo-header =
     .label = Логотип { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } рядок
+            [few] { $num } рядки
+           *[many] { $num } рядків
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Розширення ({ $extension })
 home-restore-defaults-srd =
     .label = Відновити типові
     .accesskey = т
