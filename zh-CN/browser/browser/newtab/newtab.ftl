@@ -40,6 +40,12 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name }（默认）
+home-mode-choice-custom-srd =
+    .label = 自定义网址…
+home-mode-choice-blank-srd =
+    .label = 空白页
 home-prefs-shortcuts-header-srd =
     .label = 快捷方式
 home-prefs-shortcuts-select =
@@ -48,6 +54,12 @@ home-prefs-shortcuts-by-option-sponsored-srd =
     .label = 赞助商网站
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = 赞助内容
+home-prefs-highlights-option-visited-pages-srd =
+    .label = 访问过的页面
+home-prefs-highlights-options-bookmarks-srd =
+    .label = 书签
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = 最近下载
 home-prefs-recent-activity-header-srd =
     .label = 近期动态
 home-prefs-recent-activity-select =
