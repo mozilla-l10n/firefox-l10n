@@ -458,3 +458,10 @@ relay-50-masks-announcement-primary-button = { -relay-brand-name }로 이동
     .accesskey = G
 relay-50-masks-announcement-secondary-button = 닫기
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = 의견 공유
+    .accesskey = S
+nova-early-access-infobar-primary-button = 확인
+    .accesskey = G

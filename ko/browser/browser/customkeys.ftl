@@ -20,6 +20,9 @@ customkeys-history-reopen-window = 마지막으로 닫은 창 다시 열기
 customkeys-sidebar-toggle = 사이드바 표시/숨기기
 customkeys-view-bookmarks-toolbar = 북마크 도구 모음 표시/숨기기
 customkeys-view-picture-in-picture = 화면 속 화면
+customkeys-view-add-split-view = 분할 화면 추가
+# Separate is a verb
+customkeys-view-separate-split-view = 분할 화면 종료
 customkeys-dev-tools = 웹 개발자 도구
 customkeys-dev-inspector = DOM 및 스타일 검사기
 customkeys-dev-webconsole = 웹 콘솔

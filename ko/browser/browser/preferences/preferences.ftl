@@ -1256,6 +1256,22 @@ containers-settings-button =
     .label = 설정
 containers-remove-button =
     .label = 삭제
+containers-section-header2 =
+    .heading = 컨테이너 설정
+containers-card-header2 =
+    .label = 컨테이너
+    .description = 쿠키를 컨테이너별로 분리하여 동일한 사이트에서 여러 계정을 사용할 수 있도록 하고 사이트 간 추적을 제한하세요.
+containers-add-button2 =
+    .label = 새 컨테이너 추가
+    .accesskey = A
+containers-new-tab-check2 =
+    .label = 새 탭마다 컨테이너 선택
+    .accesskey = S
+    .description = 새 탭 열기 버튼을 누를 때마다 컨테이너 메뉴가 열립니다.
+containers-settings-button2 =
+    .title = 설정
+containers-remove-button2 =
+    .title = 제거
 
 ## Account and sync
 
@@ -1263,6 +1279,9 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = 계정
+account-disabled-group =
+    .label = 계정
+    .description = 계정 설정을 사용할 수 없습니다.
 account-placeholder2 =
     .label = 로그인되어 있지 않음
     .description = 로그인하여 { -brand-short-name }를 사용하는 모든 곳에서 데이터를 안전하게 보호하고, 암호화하며, 언제 어디서나 즉시 사용할 수 있도록 하세요.
