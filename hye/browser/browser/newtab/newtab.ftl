@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Նոր Ներդիրներ
 
 ## Custom URLs subpage
 
@@ -31,6 +33,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } տող
            *[other] { $num } տողեր
         }
+home-restore-defaults-srd =
+    .label = Վերականգնել սկզբնադիր
+    .accesskey = Վ
 home-mode-choice-custom-srd =
     .label = Յարմարեցուած URL-ներ...
 home-mode-choice-blank-srd =
