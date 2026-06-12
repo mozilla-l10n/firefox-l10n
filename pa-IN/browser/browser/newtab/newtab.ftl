@@ -40,6 +40,10 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-mode-choice-custom-srd =
+    .label = …ਚੁਣਿੰਦਾ URL
+home-mode-choice-blank-srd =
+    .label = ਖ਼ਾਲੀ ਸਫ਼ਾ
 
 ## Search box component.
 
