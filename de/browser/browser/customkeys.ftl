@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Zuletzt geschlossenes Fenster wieder öffnen
 customkeys-sidebar-toggle = Sidebar umschalten
 customkeys-view-bookmarks-toolbar = Lesezeichen-Symbolleiste umschalten
 customkeys-view-picture-in-picture = Bild-im-Bild (PiP)
+customkeys-view-add-split-view = Geteilte Ansicht hinzufügen
+# Separate is a verb
+customkeys-view-separate-split-view = Geteilte Ansicht beenden
 customkeys-dev-tools = Werkzeuge für Web-Entwickler
 customkeys-dev-inspector = DOM- und Stil-Untersuchung
 customkeys-dev-webconsole = Web-Konsole
