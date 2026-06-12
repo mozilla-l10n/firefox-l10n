@@ -42,9 +42,24 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = מחיקת כתובת
+    .title = מחיקת כתובת
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = החלפה עם
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = הדפים הפתוחים הנוכחיים
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = סימניות…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = חיפוש
 home-prefs-widgets-header =
@@ -61,6 +76,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = שעון
+home-prefs-mission-message2 =
+    .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
+home-prefs-manage-topics-link2 =
+    .label = ניהול נושאים
+home-prefs-choose-wallpaper-link2 =
+    .label = בחירת תמונת רקע
+home-prefs-firefox-logo-header =
+    .label = הסמל של { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = כדי להשתמש באפשרויות אלה, יש להגדיר את הלשונית החדשה או חלונות חדשים כ{ -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ברירת מחדל)
 home-mode-choice-custom-srd =
@@ -87,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = פעילות אחרונה
 home-prefs-weather-header-srd =
     .label = מזג אוויר
+home-prefs-support-firefox-header-srd =
+    .label = תמיכה ב־{ -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = כיצד?
 
 ## Search box component.
 
