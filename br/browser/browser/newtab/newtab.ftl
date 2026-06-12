@@ -37,6 +37,10 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = Berradennoù
+home-prefs-shortcuts-select =
+    .aria-label = Berradennoù
 
 ## Search box component.
 
