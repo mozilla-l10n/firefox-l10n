@@ -34,6 +34,15 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Página de inicio
+home-homepage-new-windows =
+    .label = Nuevas ventanas
+home-homepage-new-tabs =
+    .label = Nuevas pestañas
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elija un sitio específico
 
 ## Custom URLs subpage
 
@@ -57,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Buscar
+home-prefs-stories-header2 =
+    .label = Historias
+    .description = Contenido excepcional seleccionado por la familia { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -84,6 +96,15 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Para usar estas funcionalidades, configure las nuevas pestañas o ventanas nuevas con { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restaurar ajustes predeterminados
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Predeterminado)
+home-mode-choice-custom-srd =
+    .label = URLs personalizadas...
+home-mode-choice-blank-srd =
+    .label = Página en blanco
 home-prefs-shortcuts-header-srd =
     .label = Accesos directos
 home-prefs-shortcuts-select =
