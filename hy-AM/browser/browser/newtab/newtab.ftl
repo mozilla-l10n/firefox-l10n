@@ -40,6 +40,14 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Հովանավորված կայքեր
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Այցելած էջեր
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Էջանիշեր
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Ամենավերջին ներբեռնումը
 
 ## Search box component.
 
