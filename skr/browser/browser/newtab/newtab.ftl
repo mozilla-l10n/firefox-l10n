@@ -29,6 +29,19 @@ home-homepage-new-tabs =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } قطار
+           *[other] { $num } قطاراں
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = ایکسٹنشن ({ $extension })
 home-restore-defaults-srd =
     .label = ڈیفالٹس بحال کرو
     .accesskey = R
