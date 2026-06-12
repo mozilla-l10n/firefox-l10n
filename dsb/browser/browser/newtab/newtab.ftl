@@ -42,9 +42,26 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Adresu lašowaś
+    .title = Adresu lašowaś
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Wuměniś z
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktualne wócynjone boki
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Cytańske znamjenja…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Pytaś
 home-prefs-widgets-header =
     .label = Asistenty
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -53,6 +70,25 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Měritko casa
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Zeger
+home-prefs-mission-message2 =
+    .message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili.
+home-prefs-manage-topics-link2 =
+    .label = Temy zastojaś
+home-prefs-choose-wallpaper-link2 =
+    .label = Wubjeŕśo slězynowy wobraz
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Aby toś te funkcije wužywał, stajśo nowe rejtariki abo nowe wokna do { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standard)
 home-mode-choice-custom-srd =
@@ -79,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = Nejnowša aktiwita
 home-prefs-weather-header-srd =
     .label = Wjedro
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } pódpěraś
+home-prefs-mission-message-learn-more-link-srd = Zgóńśo kak
 
 ## Search box component.
 
