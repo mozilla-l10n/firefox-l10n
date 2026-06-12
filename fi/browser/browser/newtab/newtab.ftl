@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Etusivu
+home-homepage-new-windows =
+    .label = Uudet ikkunat
+home-homepage-new-tabs =
+    .label = Uudet välilehdet
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Valitse tietty sivusto
@@ -65,6 +69,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Haku
+home-prefs-stories-header2 =
+    .label = Tarinat
+    .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
 home-prefs-widgets-header =
     .label = Widgetit
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -92,6 +99,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Käyttääksesi näitä ominaisuuksia, aseta uudet välilehdet tai uudet ikkunat { -firefox-home-brand-name }iin.
+home-restore-defaults-srd =
+    .label = Palauta oletukset
+    .accesskey = P
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Oletus)
 home-mode-choice-custom-srd =
