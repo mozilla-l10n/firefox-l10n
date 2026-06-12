@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Vi nekter nå automatisk mang
 about-private-browsing-felt-privacy-v1-info-header = Etterlat ingen spor på denne enheten
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } sletter infokapsler, historikk og nettstedsdata når du lukker alle dine private vinduer.
 about-private-browsing-felt-privacy-v1-info-link = Hvem kan ha mulighet til å se aktiviteten min?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Når du lukker alle private vinduer, slettes infokapslene, historikken og nettstedsdataene dine.

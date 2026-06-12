@@ -1272,6 +1272,22 @@ containers-settings-button =
     .label = Innstillinger
 containers-remove-button =
     .label = Fjern
+containers-section-header2 =
+    .heading = Beholderinstillinger
+containers-card-header2 =
+    .label = Beholdere
+    .description = Skill infokapsler mellom beholdere, slik at du kan bruke forskjellige kontoer på samme nettsted og begrense sporing på tvers av nettsteder.
+containers-add-button2 =
+    .label = Legg til ny beholder
+    .accesskey = L
+containers-new-tab-check2 =
+    .label = Velg en beholder for hver nye fane
+    .accesskey = V
+    .description = Dette åpner beholdermenyen hver gang du trykker på knappen for å åpne en ny fane.
+containers-settings-button2 =
+    .title = Innstillinger
+containers-remove-button2 =
+    .title = Fjern
 
 ## Account and sync
 
@@ -1279,6 +1295,9 @@ sync-group-label =
     .label = Synkronisering
 account-group-label2 =
     .label = Konto
+account-disabled-group =
+    .label = Konto
+    .description = Kontoinnstillinger er ikke tilgjengelige.
 account-placeholder2 =
     .label = Du er ikke logget inn
     .description = Logg inn og hold dataene dine private, krypterte og umiddelbart tilgjengelige overalt der du bruker { -brand-short-name }.

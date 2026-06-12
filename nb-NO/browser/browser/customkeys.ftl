@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Gjenåpne sist lukkede vindu
 customkeys-sidebar-toggle = Slå av/på sidestolpe
 customkeys-view-bookmarks-toolbar = Vis/skjul bokmerkeverktøylinjen
 customkeys-view-picture-in-picture = Bilde-i-bilde
+customkeys-view-add-split-view = Legg til delt visning
+# Separate is a verb
+customkeys-view-separate-split-view = Separat delt visning
 customkeys-dev-tools = Verktøy for webutviklere
 customkeys-dev-inspector = DOM and Style Inspector
 customkeys-dev-webconsole = Web Console
