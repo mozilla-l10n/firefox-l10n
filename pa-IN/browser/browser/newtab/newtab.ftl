@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = ਮੁੱਖ ਸਫ਼ਾ
+home-homepage-new-windows =
+    .label = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
+home-homepage-new-tabs =
+    .label = ਨਵੀਆਂ ਟੈਬਾਂ
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
@@ -55,6 +59,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = ਖੋਜ
+home-prefs-stories-header2 =
+    .label = ਲੇਖ
+    .description = { -brand-product-name } ਸਮੂਹ ਵਲੋਂ ਤਿਆਰ ਕੀਤੀ ਖਾਸ ਸਮੱਗਰੀ
 home-prefs-widgets-header =
     .label = ਵਿਜੈੱਟ
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -82,6 +89,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = ਇਹ ਫ਼ੀਚਰਾਂ ਨੂੰ ਵਰਤਣ ਲਈ { -firefox-home-brand-name } ਵਾਸਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਜਾਂ ਨਵੀ ਵਿੰਡੋ ਨੂੰ ਸੈੱਟ ਕਰੋ।
+home-restore-defaults-srd =
+    .label = ਮੂਲ ਬਹਾਲ ਕਰੋ
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ਮੂਲ)
 home-mode-choice-custom-srd =
