@@ -120,6 +120,34 @@ options-sourceeditor-keybinding-default-label = Standert
 # The heading
 options-local-mode-label = Lokale modus
 options-local-mode-only-work-locally = Lokale modus wurket allinnich lokaal en is útskeakele by it debuggen fan eksterne konteksten
+options-local-mode-behavior = Yn Lokale modus kinne jo lokale bestannen lade fia de https-URL sûnder eksterne ôfhinklikens. De URL’s kinne allinnich laden wurde fan ljepblêden mei DevTools iepene út.
+options-local-mode-domain-label = Oanpast domein:
+options-local-mode-origin-input =
+    .placeholder = Oarsprong foar de lokale tawizing
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Dizze oarsprong is yn konflikt mei in oare besteande tawizing
+options-local-mode-origin-invalid = Dizze oarsprong is ûnjildich
+options-local-mode-folder-label = Lokale map:
+options-local-mode-choose-folder = Blêdzje…
+    .title = Kies in lokale map foar dizze tawizing
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Map yn lokale modus kieze foar: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Dizze map bestiet net, of is ûnjildich.
+options-local-mode-toggle =
+    .title = Dizze lokale tawizing yn-/útskeakelje
+options-local-mode-toggle-enable = Ynskeakelje
+options-local-mode-toggle-disable = Utskeakelje
+options-local-mode-navigate-to =
+    .title = Nei dizze tawizings-URL navigearje
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Wolle jo de tawizing ‘{ $mappingOrigin }’ fuortsmite?
+options-local-mode-new-mapping = In nije lokale tawizing tafoegje
 
 ## Advanced section
 

@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteners beheare
     .accesskey = K
+user-context-new-tab =
+    .label = Nij ljepblêd
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
