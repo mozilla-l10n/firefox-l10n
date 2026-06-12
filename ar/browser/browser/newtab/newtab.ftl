@@ -104,6 +104,23 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = لاستخدام هذه الميزات، عيّن ألسنة جديدة أو نوافذ جديدة إلى { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [zero] لا صفوف
+            [one] صف واحد
+            [two] صفان
+            [few] { $num } صفوف
+            [many] { $num } صفا
+           *[other] { $num } صف
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = الامتداد ({ $extension })
 home-restore-defaults-srd =
     .label = استعد المبدئيات
     .accesskey = س
