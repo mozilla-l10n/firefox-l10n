@@ -40,6 +40,25 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Curtzadòrgios patrotzinados
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Istòrias patrotzinadas
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pàginas bisitadas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Sinnalibros
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Iscarrigamentos reghentes
+home-prefs-recent-activity-header-srd =
+    .label = Atividade reghente
+home-prefs-recent-activity-select =
+    .aria-label = Atividade reghente
+home-prefs-weather-header-srd =
+    .label = Tempus
+home-prefs-support-firefox-header-srd =
+    .label = Agiuda a { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Iscoberi comente
 
 ## Search box component.
 
