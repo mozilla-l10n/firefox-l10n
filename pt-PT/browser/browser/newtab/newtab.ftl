@@ -36,12 +36,20 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Página inicial
+home-homepage-new-windows =
+    .label = Novas janelas
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Escolha um site específico
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Páginas atualmente abertas
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcadores…
 
 ## Firefox Home content
 
@@ -63,6 +71,22 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Desportos
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Relógio
+home-prefs-mission-message2 =
+    .message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor.
+home-prefs-manage-topics-link2 =
+    .label = Gerir tópicos
+home-prefs-choose-wallpaper-link2 =
+    .label = Escolha um fundo
+home-prefs-firefox-logo-header =
+    .label = Logótipo do { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para utilizar estas funcionalidades, defina os novos separadores ou as novas janelas para o { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = (Padrão) { -firefox-home-brand-name }
 home-mode-choice-custom-srd =
@@ -89,6 +113,9 @@ home-prefs-recent-activity-select =
     .aria-label = Atividade recente
 home-prefs-weather-header-srd =
     .label = Meteorologia
+home-prefs-support-firefox-header-srd =
+    .label = Apoiar o { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descubra como
 
 ## Search box component.
 
