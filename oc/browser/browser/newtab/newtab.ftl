@@ -37,6 +37,18 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-mode-choice-custom-srd =
+    .label = Adreças personalizadas…
+home-mode-choice-blank-srd =
+    .label = Pagina voida
+home-prefs-shortcuts-header-srd =
+    .label = Acorchis
+home-prefs-shortcuts-select =
+    .aria-label = Acorchis
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Acorchis pairinejats
+home-prefs-weather-header-srd =
+    .label = Metèo
 
 ## Search box component.
 
