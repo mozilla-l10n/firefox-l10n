@@ -20,6 +20,9 @@ customkeys-history-reopen-window = เปิดหน้าต่างที่
 customkeys-sidebar-toggle = เปิด/ปิดแถบข้าง
 customkeys-view-bookmarks-toolbar = แสดง/ซ่อนแถบเครื่องมือที่คั่นหน้า
 customkeys-view-picture-in-picture = ภาพที่เล่นควบคู่
+customkeys-view-add-split-view = เพิ่มมุมมองแยก
+# Separate is a verb
+customkeys-view-separate-split-view = แบ่งมุมมองแยก
 customkeys-dev-tools = เครื่องมือนักพัฒนาเว็บ
 customkeys-dev-inspector = ตัวตรวจสอบ DOM และสไตล์
 customkeys-dev-webconsole = คอนโซลเว็บ

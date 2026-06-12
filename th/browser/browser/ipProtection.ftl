@@ -27,11 +27,14 @@ ipprotection-feature-introduction-title = ขอแนะนำ VPN ที่พ
 ipprotection-feature-introduction-link-text-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = เพิ่มความเป็นส่วนตัวอีกขั้น
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN ในตัวของ { -brand-product-name }</a> จะช่วยปกป้องการเรียกดูของคุณ เลือกจากหลายตำแหน่งที่ตั้งเพื่อปกปิดตำแหน่งการเรียกดูให้เป็นส่วนตัวขึ้น
 ipprotection-feature-introduction-link-text-private-browsing-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ แม้ในขณะที่คุณอยู่ในหน้าต่างส่วนตัว
 ipprotection-feature-introduction-description-private-browsing = ท่องเว็บได้อย่างปลอดภัยยิ่งขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณ แม้ว่าคุณจะอยู่ในหน้าต่างส่วนตัวก็ตาม
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = ใช้งาน Wi-Fi สาธารณะอยู่เหรอ? ลองใช้ VPN ในตัวของ { -brand-product-name } สิ
 ipprotection-feature-introduction-description-captive-portal = ท่องเว็บได้อย่างปลอดภัยยิ่งขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณ แม้ว่าจะใช้ Wi-Fi สาธารณะก็ตาม
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = ได้รับ<a data-l10n-name="learn-more-vpn">ความเป็นส่วนตัวมากขึ้น</a>โดยเลือกจากหลายตำแหน่งที่ตั้งเพื่อปกปิดตำแหน่งการเรียกดู
 ipprotection-feature-introduction-button-primary = ถัดไป
 ipprotection-feature-introduction-button-secondary-not-now = ไม่ใช่ตอนนี้
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -52,6 +55,7 @@ ipprotection-site-settings-callout-button = เข้าใจแล้ว
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = ใหม่: เปลี่ยนตำแหน่งที่ตั้งของคุณ
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">VPN ในตัวของ { -brand-product-name }</a> ให้คุณเลือกจากตำแหน่งที่ตั้งการเรียกดูหลายจุด หรือให้เราเลือกจากตำแหน่งที่เร็วที่สุดให้คุณ
 ipprotection-location-selection-callout-primary-button = ลองดู
 ipprotection-location-selection-callout-secondary-button = ปิด
 
@@ -182,6 +186,11 @@ ip-protection-description-1 =
     .label = VPN ในตัว
     .description = รับความเป็นส่วนตัวที่มากขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณขณะท่องเว็บ
 ip-protection-learn-more = เรียนรู้เพิ่มเติม
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = ลองใช้ VPN ในตัวของ { -brand-short-name }
+    .message = เรียกดูด้วยการปกป้องที่เพิ่มขึ้นโดยซ่อนตำแหน่งของคุณ
 ip-protection-not-opted-in-button = เริ่มต้นใช้งาน
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
