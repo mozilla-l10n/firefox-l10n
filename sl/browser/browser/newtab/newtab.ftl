@@ -45,8 +45,34 @@ home-prefs-content-header =
 home-prefs-stories-header2 =
     .label = Zgodbe
     .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Pripomočki
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Seznami
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovnik
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Šport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ura
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Bližnjice oglaševalcev
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Zgodbe oglaševalcev
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Obiskane strani
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Zaznamki
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Najnovejši prenos
+home-prefs-recent-activity-header-srd =
+    .label = Nedavna dejavnost
+home-prefs-recent-activity-select =
+    .aria-label = Nedavna dejavnost
 home-prefs-weather-header-srd =
     .label = Vreme
 
