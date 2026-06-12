@@ -24,12 +24,83 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = بلگه هووه ای
 
 ## Custom URLs subpage
 
+home-custom-homepage-address =
+    .placeholder = زیذن نشۊوی
+home-custom-homepage-address-button =
+    .label = ٱووردن نشۊوی
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = جایونی کردن وا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = بلگه یل گۊشیڌه وابیڌه هیم سکویی
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = نشووکا…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = پیتینیڌن
+home-prefs-widgets-header =
+    .label = ویجتا
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = نومگه یل
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = زمووݩ سنج
+home-prefs-manage-topics-link2 =
+    .label = دؽوۉداری سرتالا
+home-prefs-choose-wallpaper-link2 =
+    .label = پسند شؽوات زمینه
+home-prefs-firefox-logo-header =
+    .label = لوگو { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ردیف
+           *[other] { $num } ردیف
+        }
+home-restore-defaults-srd =
+    .label = وورگندن پؽش فرزا
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (پؽش فرز)
+home-mode-choice-custom-srd =
+    .label = نشۊویا سفارشی…
+home-mode-choice-blank-srd =
+    .label = بلگه پتی
+home-prefs-shortcuts-header-srd =
+    .label = ره نهنگا
+home-prefs-shortcuts-select =
+    .aria-label = ره نهنگا
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = ره نهنگا هؽزگرووݩ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = وزعیتا هؽزگرووݩ
+home-prefs-highlights-option-visited-pages-srd =
+    .label = بلگه یل نیشته وابیڌه
+home-prefs-highlights-options-bookmarks-srd =
+    .label = نشووکا
+home-prefs-recent-activity-header-srd =
+    .label = فعالیتا دیندایی
+home-prefs-recent-activity-select =
+    .aria-label = فعالیتا دیندایی
+home-prefs-weather-header-srd =
+    .label = ٱو وو هوا
+home-prefs-support-firefox-header-srd =
+    .label = لادرار { -brand-product-name }
 
 ## Search box component.
 
