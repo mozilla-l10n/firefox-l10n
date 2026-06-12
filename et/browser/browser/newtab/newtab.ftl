@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Uued kaardid
 
 ## Custom URLs subpage
 
@@ -31,6 +33,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } rida
            *[other] { $num } rida
         }
+home-restore-defaults-srd =
+    .label = Taasta vaikeväärtused
+    .accesskey = T
 home-mode-choice-custom-srd =
     .label = kohandatud URLid…
 home-mode-choice-blank-srd =
