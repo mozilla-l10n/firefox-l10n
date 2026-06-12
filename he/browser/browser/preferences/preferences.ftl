@@ -1274,6 +1274,20 @@ containers-remove-button =
     .label = הסרה
 containers-section-header2 =
     .heading = הגדרות מגירה
+containers-card-header2 =
+    .label = מגירות
+    .description = הפרדת עוגיות על־ידי מגירות כך שניתן להשתמש בחשבונות שונים באותו האתר, ולהגביל מעקב חוצה אתרים.
+containers-add-button2 =
+    .label = הוספת מגירה חדשה
+    .accesskey = ה
+containers-new-tab-check2 =
+    .label = בחירת מגירה עבור כל לשונית חדשה
+    .accesskey = ב
+    .description = אפשרות זו תפתח את תפריט המגירות בכל פעם שלוחצים על כפתור הלשונית החדשה.
+containers-settings-button2 =
+    .title = הגדרות
+containers-remove-button2 =
+    .title = הסרה
 
 ## Account and sync
 
@@ -1281,6 +1295,9 @@ sync-group-label =
     .label = סנכרון
 account-group-label2 =
     .label = חשבון
+account-disabled-group =
+    .label = חשבון
+    .description = הגדרות החשבון אינן זמינות.
 account-placeholder2 =
     .label = לא נכנסת לחשבון
     .description = ניתן להתחבר ולשמור על הנתונים שלך פרטיים, מוצפנים ונגישים באופן מיידי בכל מקום בו משתמשים ב־{ -brand-short-name }.

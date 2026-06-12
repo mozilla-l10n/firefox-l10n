@@ -115,6 +115,22 @@ options-sourceeditor-tabsize-label = גודל Tab
 options-sourceeditor-keybinding-label = קיצורי מקשים
 options-sourceeditor-keybinding-default-label = בררת מחדל
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = מצב מקומי
+options-local-mode-only-work-locally = מצב מקומי פועל באופן מקומי בלבד והוא מושבת בעת ניפוי שגיאות של הקשרים מרוחקים
+options-local-mode-behavior = מצב מקומי מאפשר לך לטעון קבצים מקומיים דרך כתובת https ללא כל תלות חיצונית. ניתן לטעון את הכתובות רק מלשוניות שבהן כלי הפיתוח פתוחים.
+options-local-mode-domain-label = מתחם מותאם אישית:
+options-local-mode-origin-input =
+    .placeholder = המקור עבור המיפוי המקומי
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = מקור זה מתנגש עם מיפוי קיים אחר
+options-local-mode-origin-invalid = מקור זה אינו תקין
+options-local-mode-folder-label = תיקייה מקומית:
+options-local-mode-choose-folder = עיון…
+    .title = בחירת תיקייה מקומי שתשמש עבור מיפוי זה
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
