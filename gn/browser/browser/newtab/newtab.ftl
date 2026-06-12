@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Kuatiarogue ñepyrũha
+home-homepage-new-windows =
+    .label = Ovetã pyahu
+home-homepage-new-tabs =
+    .label = tendayke pyahu
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Eiporavo peteĩ tendaite
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Heka
+home-prefs-stories-header2 =
+    .label = Tembiasakue
+    .description = Tetepy oiporavóva { -brand-product-name } reheguáva
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
