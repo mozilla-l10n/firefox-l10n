@@ -40,6 +40,28 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (výchozí)
+home-mode-choice-custom-srd =
+    .label = Vlastní adresy…
+home-mode-choice-blank-srd =
+    .label = Prázdná stránka
+home-prefs-shortcuts-header-srd =
+    .label = Zkratky
+home-prefs-shortcuts-select =
+    .aria-label = Zkratky
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponzorované zkratky
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Navštívené stránky
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Záložky
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Nedávná stahování
+home-prefs-recent-activity-header-srd =
+    .label = Nedávná aktivita
+home-prefs-recent-activity-select =
+    .aria-label = Nedávná aktivita
 
 ## Search box component.
 
