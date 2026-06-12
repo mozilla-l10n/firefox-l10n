@@ -31,6 +31,18 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } տող
            *[other] { $num } տողեր
         }
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Հովանաւորուած կայքեր
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Այցելած էջեր
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Էջանիշեր
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Ամենավերջին ներբեռնումը
+home-prefs-recent-activity-header-srd =
+    .label = Վերջին գործողութիւնը
+home-prefs-recent-activity-select =
+    .aria-label = Վերջին գործողութիւնը
 
 ## Search box component.
 
