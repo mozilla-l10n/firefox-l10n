@@ -37,6 +37,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Pintasan bersponsor
 
 ## Search box component.
 
