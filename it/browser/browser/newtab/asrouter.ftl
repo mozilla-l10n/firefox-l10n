@@ -457,3 +457,11 @@ relay-50-masks-announcement-primary-button = Vai a { -relay-brand-name }
     .accesskey = V
 relay-50-masks-announcement-secondary-button = Chiudi
     .accesskey = C
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>È in arrivo un nuovo look per { -brand-product-name }.</strong> Quello che vedi è un’anteprima di una versione ancora in evoluzione, prima del lancio ufficiale previsto entro la fine dell’anno.
+nova-early-access-share-feedback-link = Condividi feedback
+    .accesskey = C
+nova-early-access-infobar-primary-button = OK
+    .accesskey = O
