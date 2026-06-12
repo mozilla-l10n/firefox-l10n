@@ -46,6 +46,23 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresy webových stránok
+home-custom-homepage-address =
+    .placeholder = Zadajte adresu
+home-custom-homepage-address-button =
+    .label = Pridať adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Zatiaľ neboli pridané žiadne webové stránky.
+home-custom-homepage-delete-address-button =
+    .aria-label = Odstrániť adresu
+    .title = Odstrániť adresu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Nahradiť s
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Aktuálne otvorené stránky
@@ -89,6 +106,20 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Ak chcete tieto funkcie používať, nastavte, aby sa pri otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } riadok
+            [few] { $num } riadky
+           *[other] { $num } riadkov
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Rozšírenie ({ $extension })
 home-restore-defaults-srd =
     .label = Obnoviť predvolené
     .accesskey = r
