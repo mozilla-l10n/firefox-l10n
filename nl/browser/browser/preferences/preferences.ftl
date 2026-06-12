@@ -1272,6 +1272,22 @@ containers-settings-button =
     .label = Instellingen
 containers-remove-button =
     .label = Verwijderen
+containers-section-header2 =
+    .heading = Containerinstellingen
+containers-card-header2 =
+    .label = Containers
+    .description = Cookies per container scheiden, zodat u verschillende accounts op dezelfde website kunt gebruiken en cross-sitetracking kunt beperken.
+containers-add-button2 =
+    .label = Nieuwe container toevoegen
+    .accesskey = v
+containers-new-tab-check2 =
+    .label = Selecteer een container voor elk nieuw tabblad
+    .accesskey = S
+    .description = Dit opent het containermenu telkens als u op de knop om een nieuw tabblad te openen drukt.
+containers-settings-button2 =
+    .title = Instellingen
+containers-remove-button2 =
+    .title = Verwijderen
 
 ## Account and sync
 
@@ -1279,6 +1295,9 @@ sync-group-label =
     .label = Synchronisatie
 account-group-label2 =
     .label = Account
+account-disabled-group =
+    .label = Account
+    .description = Accountinstellingen zijn niet beschikbaar.
 account-placeholder2 =
     .label = U bent niet aangemeld
     .description = Meld u aan en houd uw gegevens privé, versleuteld en direct toegankelijk, overal waar u { -brand-short-name } gebruikt.

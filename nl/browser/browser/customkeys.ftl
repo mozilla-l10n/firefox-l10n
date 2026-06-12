@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Laatst gesloten venster opnieuw openen
 customkeys-sidebar-toggle = Zijbalk in-/uitschakelen
 customkeys-view-bookmarks-toolbar = Bladwijzerwerkbalk in-/uitschakelen
 customkeys-view-picture-in-picture = Picture-in-Picture
+customkeys-view-add-split-view = Gesplitste weergave toevoegen
+# Separate is a verb
+customkeys-view-separate-split-view = Gesplitste weergave afzonderen
 customkeys-dev-tools = Webontwikkelaarshulpmiddelen
 customkeys-dev-inspector = DOM- en stijlcontrole
 customkeys-dev-webconsole = Webconsole

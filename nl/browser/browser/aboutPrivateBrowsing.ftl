@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Veel cookiebanners worden nu 
 about-private-browsing-felt-privacy-v1-info-header = Laat geen sporen achter op dit apparaat
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } verwijdert uw cookies, geschiedenis en websitegegevens wanneer u al uw privévensters sluit.
 about-private-browsing-felt-privacy-v1-info-link = Wie kan mijn activiteit zien?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Door al uw privévensters te sluiten, worden uw cookies, geschiedenis en websitegegevens verwijderd.

@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Tabgrootte
 options-sourceeditor-keybinding-label = Sneltoetsen
 options-sourceeditor-keybinding-default-label = Standaard
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokale modus
+options-local-mode-only-work-locally = Lokale modus werkt alleen lokaal en is uitgeschakeld bij het debuggen van externe contexten
+options-local-mode-behavior = In Lokale modus kunt u lokale bestanden laden via de https-URL zonder enige externe afhankelijkheid. De URL’s kunnen alleen vanuit tabbladen met geopende DevTools worden geladen.
+options-local-mode-domain-label = Aangepast domein:
+options-local-mode-origin-input =
+    .placeholder = Oorsprong voor de lokale toewijzing
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Deze oorsprong conflicteert met een andere bestaande toewijzing
+options-local-mode-origin-invalid = Deze oorsprong is ongeldig
+options-local-mode-folder-label = Lokale map:
+options-local-mode-choose-folder = Bladeren…
+    .title = Kies een lokale map voor deze toewijzing
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Map in lokale modus kiezen voor: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Deze map bestaat niet, of is ongeldig.
+options-local-mode-toggle =
+    .title = Deze lokale toewijzing in-/uitschakelen
+options-local-mode-toggle-enable = Inschakelen
+options-local-mode-toggle-disable = Uitschakelen
+options-local-mode-navigate-to =
+    .title = Naar deze toewijzings-URL navigeren
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Wilt u de toewijzing ‘{ $mappingOrigin }’ verwijderen?
+options-local-mode-new-mapping = Een nieuwe lokale toewijzing toevoegen
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
