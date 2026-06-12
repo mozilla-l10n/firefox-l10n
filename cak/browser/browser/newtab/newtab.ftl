@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = K'ak'a' taq ruwi'
 
 ## Custom URLs subpage
 
@@ -31,6 +33,15 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } cholaj
            *[other] { $num } taq cholaj
         }
+home-restore-defaults-srd =
+    .label = Ketzolij ri E K'o wi
+    .accesskey = K
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (K'o wi)
+home-mode-choice-custom-srd =
+    .label = Ichinan URLs...
+home-mode-choice-blank-srd =
+    .label = Kowöl Ruxaq
 home-prefs-shortcuts-header-srd =
     .label = Chojmin Okem
 home-prefs-shortcuts-select =
