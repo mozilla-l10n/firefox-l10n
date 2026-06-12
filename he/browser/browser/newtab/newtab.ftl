@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = חיפוש
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = סיפורים ממומנים
 
