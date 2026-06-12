@@ -37,6 +37,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = Alugu n { -brand-short-name }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Amezwer)
 home-mode-choice-custom-srd =
