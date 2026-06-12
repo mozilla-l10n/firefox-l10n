@@ -69,6 +69,8 @@ home-prefs-recent-activity-header-srd =
     .label = Senaste aktivitet
 home-prefs-recent-activity-select =
     .aria-label = Senaste aktivitet
+home-prefs-weather-header-srd =
+    .label = Väder
 
 ## Search box component.
 
