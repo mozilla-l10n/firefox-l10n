@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = တပ်ဗ်အသစ်များ
 
 ## Custom URLs subpage
 
@@ -25,6 +27,13 @@ home-prefs-sections-rows-option-srd =
         { $num ->
            *[other] { $num } တန်း
         }
+home-restore-defaults-srd =
+    .label = မူလအတိုင်း ပြန်ထားပါ
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = စိတ်ကြိုက် URL များ...
+home-mode-choice-blank-srd =
+    .label = စာမျက်နှာအလွတ်
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = ထောက်ပံ့ထာသော ဇာတ်လမ်းများ
 home-prefs-highlights-option-visited-pages-srd =
