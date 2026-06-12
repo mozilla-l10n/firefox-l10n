@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = بازدەری نوێ
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } ڕیز
            *[other] { $num } ڕیز
         }
+home-restore-defaults-srd =
+    .label = بنەرەتی بهێنەوە
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = بەستەری خوازراو...
+home-mode-choice-blank-srd =
+    .label = پەڕەی بۆش
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = چیرۆکی سپۆنسەرکراو
 home-prefs-highlights-option-visited-pages-srd =
