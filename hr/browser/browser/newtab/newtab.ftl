@@ -40,6 +40,8 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Pretraga
 home-prefs-widgets-header =
     .label = Widgeti
 # Lists is a widget on New Tab, similar to a to-do widget
