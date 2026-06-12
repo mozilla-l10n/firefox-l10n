@@ -1303,6 +1303,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = B
 
 panel-save-update-username = Erabiltzaile-izena
 panel-save-update-password = Pasahitza
+panel-save-update-username-2 =
+    .label = Erabiltzaile-izena
+panel-save-update-password-2 =
+    .label = Pasahitza
 
 ##
 
