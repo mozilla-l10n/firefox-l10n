@@ -33,15 +33,47 @@ newtab-logo-and-wordmark =
 
 home-homepage-title =
     .label = Pàgina d’inici
+home-homepage-new-windows =
+    .label = Finestres noves
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Tria un lloc específic
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adreces de llocs web
+home-custom-homepage-address =
+    .placeholder = Escriviu una adreça
+home-custom-homepage-address-button =
+    .label = Afegeix l'adreça
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Encara no heu afegit cap lloc web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Suprimeix l’adreça
+    .title = Suprimeix l’adreça
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplaça amb
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pàgines obertes actualment
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Adreces d'interès…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Cerca
+home-prefs-stories-header2 =
+    .label = Articles
+    .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
 home-prefs-widgets-header =
     .label = Ginys
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -62,6 +94,12 @@ home-mode-choice-custom-srd =
     .label = URL personalitzats…
 home-mode-choice-blank-srd =
     .label = Pàgina en blanc
+home-prefs-shortcuts-header-srd =
+    .label = Dreceres
+home-prefs-shortcuts-select =
+    .aria-label = Dreceres
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Dreceres patrocinades
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Articles patrocinats
 home-prefs-highlights-option-visited-pages-srd =
