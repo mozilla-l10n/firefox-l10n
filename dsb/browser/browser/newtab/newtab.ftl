@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Startowy bok
+home-homepage-new-windows =
+    .label = Nowe wokna
+home-homepage-new-tabs =
+    .label = Nowe rejtariki
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wubjeŕśo wěste sedło
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Pytaś
+home-prefs-stories-header2 =
+    .label = Tšojenja
+    .description = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo
 home-prefs-widgets-header =
     .label = Asistenty
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Aby toś te funkcije wužywał, stajśo nowe rejtariki abo nowe wokna do { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Standard wótnowiś
+    .accesskey = S
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standard)
 home-mode-choice-custom-srd =
