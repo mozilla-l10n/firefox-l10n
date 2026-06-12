@@ -34,6 +34,14 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = തിരയുക
+home-prefs-shortcuts-header-srd =
+    .label = കുറുക്കുവഴികൾ
+home-prefs-shortcuts-select =
+    .aria-label = കുറുക്കുവഴികൾ
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
 
 ## Search box component.
 
