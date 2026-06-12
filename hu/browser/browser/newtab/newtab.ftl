@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Kezdőlap
+home-homepage-new-windows =
+    .label = Új ablakok
+home-homepage-new-tabs =
+    .label = Új lapok
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Válasszon egy adott oldalt
@@ -65,6 +69,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Keresés
+home-prefs-stories-header2 =
+    .label = Történetek
+    .description = Kivételes tartalmak a { -brand-product-name } család válogatásában
 home-prefs-widgets-header =
     .label = Kisalkalmazások
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -92,6 +99,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Ezen funkciók használatához állítsa be az új lapokat vagy ablakokat, hogy a { -firefox-home-brand-name }ot jelenítsék meg.
+home-restore-defaults-srd =
+    .label = Alapértelmezések visszaállítása
+    .accesskey = A
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (alapértelmezett)
 home-mode-choice-custom-srd =
