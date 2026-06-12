@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Pestanyes noves
 
 ## Custom URLs subpage
 
@@ -31,6 +33,19 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } fila
            *[other] { $num } files
         }
+home-restore-defaults-srd =
+    .label = Restaura els valors per defecte
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = URL personalitzats…
+home-mode-choice-blank-srd =
+    .label = Pàgina en blanc
+home-prefs-shortcuts-header-srd =
+    .label = Dreceres
+home-prefs-shortcuts-select =
+    .aria-label = Dreceres
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Dreceres patrocinades
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Articles patrocinats
 home-prefs-highlights-option-visited-pages-srd =
