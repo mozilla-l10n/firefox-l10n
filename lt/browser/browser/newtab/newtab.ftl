@@ -38,6 +38,18 @@ home-prefs-shortcuts-select =
     .aria-label = Leistukai
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Rėmėjų leistukai
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Rėmėjų straipsniai
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Aplankyti tinklalapiai
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Adresynas
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Paskiausias atsisiuntimas
+home-prefs-recent-activity-header-srd =
+    .label = Paskiausia veikla
+home-prefs-recent-activity-select =
+    .aria-label = Paskiausia veikla
 
 ## Search box component.
 
