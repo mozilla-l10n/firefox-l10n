@@ -539,7 +539,7 @@ newtab-weather-opt-in-yes =
     .label = Áno
 newtab-weather-opt-in-headline = Získajte lokálnu predpoveď počasia
 newtab-weather-opt-in-use-location =
-    .label = Použiť lokalitu
+    .label = Použiť polohu
 newtab-weather-opt-in-choose-location = Vybrať lokalitu
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
