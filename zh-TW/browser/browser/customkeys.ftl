@@ -20,6 +20,9 @@ customkeys-history-reopen-window = 回復關閉的視窗
 customkeys-sidebar-toggle = 切換側邊欄
 customkeys-view-bookmarks-toolbar = 切換書籤工具列
 customkeys-view-picture-in-picture = 子母畫面
+customkeys-view-add-split-view = 新增分割畫面
+# Separate is a verb
+customkeys-view-separate-split-view = 分離分割畫面
 customkeys-dev-tools = 網頁開發者工具
 customkeys-dev-inspector = DOM 與樣式檢測器
 customkeys-dev-webconsole = 網頁主控台

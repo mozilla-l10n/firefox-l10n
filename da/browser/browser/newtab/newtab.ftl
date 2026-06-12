@@ -490,6 +490,8 @@ newtab-custom-widget-sports-toggle =
     .label = VM
 newtab-custom-widget-clock-toggle =
     .label = Ur
+newtab-custom-widget-sports-toggle2 =
+    .label = Sport
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -1093,6 +1095,9 @@ newtab-sports-widget-round-16 = Ottendedelsfinaler
 newtab-sports-widget-quarter-finals = Kvartfinaler
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Opdater scorer
+    .aria-label = Opdater scorer
 newtab-sports-widget-upcoming = Kommende
 # Used for a match currently ongoing
 newtab-sports-widget-now = Nu
@@ -1126,6 +1131,26 @@ newtab-sports-widget-match-full-time = Færdigspillet
 newtab-sports-widget-match-halftime = Halvleg
 newtab-sports-widget-match-extra-time = Forlænget spilletid
 newtab-sports-widget-match-penalties = Straffe
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = mod
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Forrige
+    .title = Forrige
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Næste
+    .title = Næste
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Livekamp { $index } af { $total }
+    .title = Livekamp { $index } af { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1186,6 +1211,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = England
 newtab-sports-widget-team-name-label-sco =
     .label = Skotland
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Ikke fastlagt endnu
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.

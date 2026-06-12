@@ -119,6 +119,9 @@ options-sourceeditor-keybinding-default-label = 預設
 
 options-local-mode-domain-label = 自訂網域：
 options-local-mode-origin-invalid = 此來源無效
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = 此資料夾不存在或無效。
 options-local-mode-toggle-enable = 啟用
 options-local-mode-toggle-disable = 停用
 
