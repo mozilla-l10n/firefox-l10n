@@ -18,10 +18,26 @@ newtab-settings-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ओळ
+           *[other] { $num } ओळी
+        }
 home-mode-choice-custom-srd =
     .label = सानुकूलीत URLs...
 home-mode-choice-blank-srd =
     .label = रिक्त पृष्ठ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = प्रायोजित कथा
+home-prefs-highlights-option-visited-pages-srd =
+    .label = भेट दिलेली पृष्ठे
+home-prefs-highlights-options-bookmarks-srd =
+    .label = वाचनखुणा
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = अलीकडचे डाउनलोड
 
 ## Search box component.
 
