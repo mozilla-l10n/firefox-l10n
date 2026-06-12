@@ -40,6 +40,15 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name(zacetnica: "velika") }
+home-prefs-stories-header2 =
+    .label = Zgodbe
+    .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Bližnjice oglaševalcev
+home-prefs-weather-header-srd =
+    .label = Vreme
 
 ## Search box component.
 
