@@ -23,6 +23,8 @@ newtab-logo-and-wordmark =
 
 home-homepage-title =
     .label = ముంగిలిపేజీ
+home-homepage-new-tabs =
+    .label = కొత్త ట్యాబు
 
 ## Custom URLs subpage
 
@@ -37,6 +39,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } వరుస
            *[other] { $num } వరుసలు
         }
+home-restore-defaults-srd =
+    .label = అప్రమేయాలను పునరుద్ధరించు
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (అప్రమేయం)
 home-mode-choice-custom-srd =
