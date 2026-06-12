@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = דף הבית
+home-homepage-new-windows =
+    .label = חלונות חדשים
+home-homepage-new-tabs =
+    .label = לשוניות חדשות
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = בחירה באתר מסוים
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = חיפוש
+home-prefs-stories-header2 =
+    .label = סיפורים
+    .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
 home-prefs-widgets-header =
     .label = ווידג’טים
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = כדי להשתמש באפשרויות אלה, יש להגדיר את הלשונית החדשה או חלונות חדשים כ{ -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = שחזור ברירות מחדל
+    .accesskey = ש
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ברירת מחדל)
 home-mode-choice-custom-srd =
