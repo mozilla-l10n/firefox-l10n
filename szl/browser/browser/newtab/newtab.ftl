@@ -32,6 +32,8 @@ home-prefs-sections-rows-option-srd =
             [few] { $num } wiersze
            *[many] { $num } wierszōw
         }
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Spōnsorowane nowiny
 home-prefs-highlights-option-visited-pages-srd =
     .label = Nawiedzōne strōny
 home-prefs-highlights-options-bookmarks-srd =
