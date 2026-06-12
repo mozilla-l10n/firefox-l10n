@@ -14,6 +14,8 @@ newtab-settings-button =
 
 home-homepage-new-windows =
     .label = បង្អួចថ្មី
+home-homepage-new-tabs =
+    .label = ផ្ទាំងថ្មី
 
 ## Custom URLs subpage
 
@@ -33,6 +35,11 @@ home-prefs-sections-rows-option-srd =
         { $num ->
            *[other] { $num } ជួរ
         }
+home-restore-defaults-srd =
+    .label = ស្ដារ​លំនាំ​ដើម
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = URL ផ្ទាល់ខ្លួន…
 home-mode-choice-blank-srd =
     .label = ទំព័រទទេ
 home-prefs-recommended-by-option-sponsored-stories-srd =
