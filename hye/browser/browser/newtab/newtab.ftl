@@ -31,6 +31,10 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } տող
            *[other] { $num } տողեր
         }
+home-mode-choice-custom-srd =
+    .label = Յարմարեցուած URL-ներ...
+home-mode-choice-blank-srd =
+    .label = Դատարկ էջ
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Հովանաւորուած կայքեր
 home-prefs-highlights-option-visited-pages-srd =
