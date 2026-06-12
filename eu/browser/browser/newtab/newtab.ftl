@@ -42,6 +42,8 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Bilatu
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Babesleen istorioak
 
 ## Search box component.
 
