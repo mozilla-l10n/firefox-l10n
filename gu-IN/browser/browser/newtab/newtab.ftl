@@ -30,6 +30,10 @@ home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = પ્રાયોજિત વાર્તાઓ
 home-prefs-highlights-option-visited-pages-srd =
     .label = મુલાકાત લીધેલા પૃષ્ઠો
+home-prefs-highlights-options-bookmarks-srd =
+    .label = બુકમાર્ક્સ
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = સૌથી તાજેતરની ડાઉનલોડ
 
 ## Search box component.
 
