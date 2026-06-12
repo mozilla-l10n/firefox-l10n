@@ -34,6 +34,8 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Pagina initial
 
 ## Custom URLs subpage
 
@@ -46,6 +48,14 @@ home-mode-choice-custom-srd =
     .label = URLs personalisate...
 home-mode-choice-blank-srd =
     .label = Pagina vacue
+home-prefs-shortcuts-header-srd =
+    .label = Accessos directe
+home-prefs-shortcuts-select =
+    .aria-label = Accessos directe
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Accessos directe sponsorisate
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articulos sponsorisate
 home-prefs-highlights-option-visited-pages-srd =
     .label = Paginas visitate
 home-prefs-highlights-options-bookmarks-srd =
