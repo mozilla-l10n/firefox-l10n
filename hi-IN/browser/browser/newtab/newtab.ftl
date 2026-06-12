@@ -37,6 +37,10 @@ home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = प्रायोजित कहानियां
 home-prefs-highlights-option-visited-pages-srd =
     .label = देखे गए पृष्ठ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = बुकमार्क
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = सबसे हालिया डाउनलोड
 
 ## Search box component.
 
