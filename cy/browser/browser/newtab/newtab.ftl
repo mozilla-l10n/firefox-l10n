@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Tudalen Cartref
+home-homepage-new-windows =
+    .label = Ffenestri newydd
+home-homepage-new-tabs =
+    .label = Tabiau newydd
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Dewis safle penodol
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Chwilio
+home-prefs-stories-header2 =
+    .label = Straeon
+    .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
 home-prefs-widgets-header =
     .label = Teclynnau
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = I ddefnyddio'r nodweddion hyn, gosodwch dabiau newydd neu ffenestri newydd i { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Adfer y Rhagosodiadau
+    .accesskey = A
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Rhagosodedig)
 home-mode-choice-custom-srd =
