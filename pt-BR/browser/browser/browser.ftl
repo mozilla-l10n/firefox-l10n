@@ -1304,6 +1304,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Nome de usuário
 panel-save-update-password = Senha
+panel-save-update-username-2 =
+    .label = Nome de usuário
+panel-save-update-password-2 =
+    .label = Senha
 
 ##
 
