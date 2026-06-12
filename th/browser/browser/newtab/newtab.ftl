@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = หน้าแรก
+home-homepage-new-windows =
+    .label = หน้าต่างใหม่
+home-homepage-new-tabs =
+    .label = แท็บใหม่
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = เลือกไซต์ที่ต้องการ
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = ค้นหา
+home-prefs-stories-header2 =
+    .label = เรื่องราว
+    .description = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
 home-prefs-widgets-header =
     .label = วิดเจ็ต
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = เพื่อใช้คุณลักษณะเหล่านี้ ให้ตั้งค่าแท็บใหม่หรือหน้าต่างใหม่เป็น { -firefox-home-brand-name }
+home-restore-defaults-srd =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ค่าเริ่มต้น)
 home-mode-choice-custom-srd =
