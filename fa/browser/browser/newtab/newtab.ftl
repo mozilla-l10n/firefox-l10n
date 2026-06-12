@@ -30,6 +30,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = میانبرهایی از حامیان مالی
 
 ## Search box component.
 
