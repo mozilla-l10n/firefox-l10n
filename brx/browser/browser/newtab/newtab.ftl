@@ -10,6 +10,8 @@ newtab-page-title = गोदान टेब
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = गोदान टेबफोर
 
 ## Custom URLs subpage
 
@@ -24,6 +26,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } सारि
            *[other] { $num } सारिफोर
         }
+home-restore-defaults-srd =
+    .label = डिफल्टखौ मोनफिन
+    .accesskey = R
 home-mode-choice-custom-srd =
     .label = कास्टम URLs...
 home-prefs-highlights-option-visited-pages-srd =
