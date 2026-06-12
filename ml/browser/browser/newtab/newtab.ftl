@@ -31,6 +31,12 @@ newtab-logo-and-wordmark =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = അടയാളക്കുറിപ്പുകൾ…
 
 ## Firefox Home content
 
@@ -50,6 +56,12 @@ home-prefs-highlights-options-bookmarks-srd =
     .label = ബുക്ക്മാർക്കുകൾ
 home-prefs-highlights-option-most-recent-download-srd =
     .label = ഏറ്റവും അടുത്തിടെ ഇറക്കിവച്ച സാധനം
+home-prefs-recent-activity-header-srd =
+    .label = ഒടുവിലുള്ള പ്രവൎത്തനം
+home-prefs-recent-activity-select =
+    .aria-label = ഒടുവിലുള്ള പ്രവൎത്തനം
+home-prefs-weather-header-srd =
+    .label = കാലാവസ്ഥ
 
 ## Search box component.
 
