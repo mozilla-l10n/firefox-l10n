@@ -36,6 +36,10 @@ home-prefs-shortcuts-select =
     .aria-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
+home-prefs-highlights-option-visited-pages-srd =
+    .label = ᱦᱤᱨᱤ ᱠᱟᱱ ᱥᱟᱦᱴᱟ
 
 ## Search box component.
 
