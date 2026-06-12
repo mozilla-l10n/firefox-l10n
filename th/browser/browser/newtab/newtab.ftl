@@ -34,12 +34,19 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = หน้าแรก
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = เลือกไซต์ที่ต้องการ
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-blank-srd =
+    .label = หน้าว่าง
 
 ## Search box component.
 
