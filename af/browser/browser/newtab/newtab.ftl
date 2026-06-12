@@ -10,12 +10,16 @@ newtab-page-title = Nuwe Oortjie
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Nuwe oortjies
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-blank-srd =
+    .label = Leë bladsy
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Geborgde Verhale
 home-prefs-highlights-option-visited-pages-srd =
