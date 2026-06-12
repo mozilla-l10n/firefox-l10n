@@ -16,6 +16,14 @@ newtab-page-title = गोदान टेब
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } सारि
+           *[other] { $num } सारिफोर
+        }
 home-mode-choice-custom-srd =
     .label = कास्टम URLs...
 home-prefs-highlights-option-visited-pages-srd =
