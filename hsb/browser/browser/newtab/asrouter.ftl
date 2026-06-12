@@ -470,6 +470,7 @@ relay-50-masks-announcement-secondary-button = Zaćisnyć
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } nowy napohlad dóstanje.</strong> Widźiće přehlad zažneje, njehotoweje wersije do wozjewjenja pozdźišo w tutym lěće.
 nova-early-access-share-feedback-link = Měnjenje dźělić
     .accesskey = M
 nova-early-access-infobar-primary-button = Sym zrozumił

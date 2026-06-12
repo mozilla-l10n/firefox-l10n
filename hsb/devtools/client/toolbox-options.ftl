@@ -119,6 +119,7 @@ options-sourceeditor-keybinding-default-label = Standard
 
 # The heading
 options-local-mode-label = Lokalny modus
+options-local-mode-only-work-locally = Lokalny modus lokalnje funguje a znjemóžnja so, hdyž so zdalene konteksty za zmylkami přepytuja
 options-local-mode-domain-label = Swójska domena:
 options-local-mode-origin-input =
     .placeholder = Pochad za lokalne přirjadowanje
