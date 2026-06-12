@@ -34,9 +34,20 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = ਮੁੱਖ ਸਫ਼ਾ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = ਇਸ ਵੇਲੇ ਖੁੱਲ੍ਹੇ ਸਫ਼ੇ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = …ਬੁੱਕਮਾਰਕ
 
 ## Firefox Home content
 
@@ -58,6 +69,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = ਘੜੀ
+home-prefs-mission-message2 =
+    .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
+home-prefs-manage-topics-link2 =
+    .label = ਵਿਸ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
+home-prefs-choose-wallpaper-link2 =
+    .label = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } ਲੋਗੋ
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = ਇਹ ਫ਼ੀਚਰਾਂ ਨੂੰ ਵਰਤਣ ਲਈ { -firefox-home-brand-name } ਵਾਸਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਜਾਂ ਨਵੀ ਵਿੰਡੋ ਨੂੰ ਸੈੱਟ ਕਰੋ।
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ਮੂਲ)
 home-mode-choice-custom-srd =
@@ -84,6 +108,9 @@ home-prefs-recent-activity-select =
     .aria-label = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
 home-prefs-weather-header-srd =
     .label = ਮੌਸਮ
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
+home-prefs-mission-message-learn-more-link-srd = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
 
 ## Search box component.
 
