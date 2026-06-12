@@ -40,6 +40,39 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Վիջեթներ
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Ցանկեր
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Ժամաչափ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Սպորտ
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ժամացույց
+home-prefs-mission-message2 =
+    .message = Մեր հովանավորները աջակցում են մեր առաքելությանը՝ ստեղծել ավելի լավ կայք։
+home-prefs-manage-topics-link2 =
+    .label = Կառավարել թեմաները
+home-prefs-choose-wallpaper-link2 =
+    .label = Ընտրեք պաստառ
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } տող
+           *[other] { $num } տողեր
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Ընդլայնում ({ $extension })
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Հովանավորված կայքեր
 home-prefs-highlights-option-visited-pages-srd =
@@ -48,6 +81,15 @@ home-prefs-highlights-options-bookmarks-srd =
     .label = Էջանիշեր
 home-prefs-highlights-option-most-recent-download-srd =
     .label = Ամենավերջին ներբեռնումը
+home-prefs-recent-activity-header-srd =
+    .label = Վերջին ակտիվություն
+home-prefs-recent-activity-select =
+    .aria-label = Վերջին ակտիվություն
+home-prefs-weather-header-srd =
+    .label = Եղանակ
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name }-ի աջակցում
+home-prefs-mission-message-learn-more-link-srd = Իմացեք, թե ինչպես
 
 ## Search box component.
 
