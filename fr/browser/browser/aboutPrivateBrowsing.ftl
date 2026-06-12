@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Désormais, nous refusons aut
 about-private-browsing-felt-privacy-v1-info-header = Ne laissez aucune trace sur cet appareil
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } efface cookies, historique de navigation et données de sites lorsque vous fermez toutes les fenêtres de navigation privée.
 about-private-browsing-felt-privacy-v1-info-link = Qui peut voir mon activité ?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = La fermeture de toutes vos fenêtres privées supprime vos cookies, votre historique et les données des sites.

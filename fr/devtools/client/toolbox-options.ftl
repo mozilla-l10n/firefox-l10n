@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Taille des tabulations
 options-sourceeditor-keybinding-label = Raccourcis clavier
 options-sourceeditor-keybinding-default-label = Par défaut
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Mode local
+options-local-mode-only-work-locally = Le mode local ne fonctionne que localement et est désactivé lors du débogage de contextes distants
+options-local-mode-behavior = Le mode local vous permet de charger des fichiers locaux via une URL https sans dépendance externe. Les adresses ne peuvent être chargées qu’à partir d’onglets dans lesquels les outils de développement sont ouverts.
+options-local-mode-domain-label = Domaine personnalisé :
+options-local-mode-origin-input =
+    .placeholder = Origine du mappage local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Cette origine est en conflit avec un autre mappage existant
+options-local-mode-origin-invalid = Cette origine est invalide
+options-local-mode-folder-label = Dossier local :
+options-local-mode-choose-folder = Parcourir…
+    .title = Choisir un dossier local pour fournir ce mappage
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Choisir un dossier en mode local pour : { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Ce dossier n’existe pas ou n’est pas valide.
+options-local-mode-toggle =
+    .title = Activer/Désactiver ce mappage local
+options-local-mode-toggle-enable = Activer
+options-local-mode-toggle-disable = Désactiver
+options-local-mode-navigate-to =
+    .title = Se rendre vers cette URL de mappage
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Voulez-vous supprimer le mappage « { $mappingOrigin } » ?
+options-local-mode-new-mapping = Ajouter un nouveau mappage local
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
