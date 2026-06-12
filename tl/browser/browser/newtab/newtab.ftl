@@ -31,6 +31,8 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } hilera
            *[other] { $num } hilera
         }
+home-mode-choice-blank-srd =
+    .label = Blangkong Pahina
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Mga Na-sponsor na Kwento
 home-prefs-highlights-option-visited-pages-srd =
