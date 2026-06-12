@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Mga bagong tab
 
 ## Custom URLs subpage
 
@@ -31,6 +33,11 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } hilera
            *[other] { $num } hilera
         }
+home-restore-defaults-srd =
+    .label = Ibalik sa dating ayos
+    .accesskey = I
+home-mode-choice-custom-srd =
+    .label = Custom URLs...
 home-mode-choice-blank-srd =
     .label = Blangkong Pahina
 home-prefs-recommended-by-option-sponsored-stories-srd =
