@@ -41,6 +41,11 @@ home-prefs-sections-rows-option-srd =
             [two] { $num } ᱫᱷᱟᱹᱲ ᱠᱤᱱ
            *[other] { $num } ᱫᱷᱟᱹᱲ ᱠᱚ
         }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ({ $extension })
 home-restore-defaults-srd =
     .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
     .accesskey = R
