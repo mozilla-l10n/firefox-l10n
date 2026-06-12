@@ -36,26 +36,76 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Página de inicio
+home-homepage-new-windows =
+    .label = Nuevas ventanas
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elige un sitio específico
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Eliminar dirección
+    .title = Eliminar dirección
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplazar con
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Páginas abiertas actualmente
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcadores…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Buscar
 home-prefs-stories-header2 =
     .label = Historias
     .description = Contenido excepcional seleccionado por la familia { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Deportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Reloj
+home-prefs-mission-message2 =
+    .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
+home-prefs-manage-topics-link2 =
+    .label = Administrar temas
+home-prefs-choose-wallpaper-link2 =
+    .label = Selecciona un fondo de pantalla
+home-prefs-firefox-logo-header =
+    .label = Logotipo de { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para usar estas funciones, establece las pestañas o ventanas nuevas en { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom-srd =
     .label = Personalizar URLs...
 home-mode-choice-blank-srd =
     .label = Página en blanco
+home-prefs-shortcuts-header-srd =
+    .label = Atajos
+home-prefs-shortcuts-select =
+    .aria-label = Atajos
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Atajos patrocinados
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Artículos patrocinados
 home-prefs-highlights-option-visited-pages-srd =
@@ -70,6 +120,9 @@ home-prefs-recent-activity-select =
     .aria-label = Actividad reciente
 home-prefs-weather-header-srd =
     .label = Clima
+home-prefs-support-firefox-header-srd =
+    .label = Soporte { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descubre cómo
 
 ## Search box component.
 
