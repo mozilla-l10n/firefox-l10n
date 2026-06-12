@@ -30,6 +30,12 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = آرم { -brand-short-name }
+home-prefs-shortcuts-header-srd =
+    .label = میان‌برها
+home-prefs-shortcuts-select =
+    .aria-label = میان‌برها
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = میانبرهایی از حامیان مالی
 home-prefs-recommended-by-option-sponsored-stories-srd =
