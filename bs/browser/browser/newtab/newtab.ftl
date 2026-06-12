@@ -37,6 +37,10 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponzorisane priče
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Posjećene stranice
 
 ## Search box component.
 
