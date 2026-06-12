@@ -40,10 +40,42 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-widgets-header =
+    .label = ਵਿਜੈੱਟ
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = ਸੂਚੀਆਂ
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = ਟਾਈਮਰ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = ਖੇਡਾਂ
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = ਘੜੀ
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (ਮੂਲ)
 home-mode-choice-custom-srd =
     .label = …ਚੁਣਿੰਦਾ URL
 home-mode-choice-blank-srd =
     .label = ਖ਼ਾਲੀ ਸਫ਼ਾ
+home-prefs-shortcuts-header-srd =
+    .label = ਸ਼ਾਰਟਕੱਟ
+home-prefs-shortcuts-select =
+    .aria-label = ਸ਼ਾਰਟਕੱਟ
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = ਸਪਾਂਸਰ ਕੀਤੇ ਸ਼ਾਰਟਕੱਟ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਕਹਾਣੀਆਂ
+home-prefs-recent-activity-header-srd =
+    .label = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
+home-prefs-recent-activity-select =
+    .aria-label = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
+home-prefs-weather-header-srd =
+    .label = ਮੌਸਮ
 
 ## Search box component.
 
