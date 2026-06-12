@@ -92,3 +92,8 @@ containers-icon-chill =
 containers-window-new3 =
     .title = Add New Container
     .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } Container Settings
+    .style = min-width: 32em

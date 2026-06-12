@@ -1272,6 +1272,22 @@ containers-settings-button =
     .label = Settings
 containers-remove-button =
     .label = Remove
+containers-section-header2 =
+    .heading = Container settings
+containers-card-header2 =
+    .label = Containers
+    .description = Separate cookies by container so you can use different accounts on the same site and limit cross-site tracking.
+containers-add-button2 =
+    .label = Add new container
+    .accesskey = A
+containers-new-tab-check2 =
+    .label = Select a container for each new tab
+    .accesskey = S
+    .description = This will open the containers menu every time you press the open new tab button.
+containers-settings-button2 =
+    .title = Settings
+containers-remove-button2 =
+    .title = Remove
 
 ## Account and sync
 
@@ -1279,6 +1295,9 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = Account
+account-disabled-group =
+    .label = Account
+    .description = Account settings are unavailable.
 account-placeholder2 =
     .label = You’re not signed in
     .description = Sign in and keep your data private, encrypted, and instantly accessible everywhere you use { -brand-short-name }.

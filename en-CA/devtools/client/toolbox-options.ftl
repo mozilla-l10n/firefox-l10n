@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Truncate DOM attributes
 options-collapse-attrs-tooltip =
     .title = Truncate long attributes in the inspector
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Show comments
+options-show-comments-tooltip =
+    .title = Display comment nodes in the inspector
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Click and drag to edit size values
 options-inspector-draggable-properties-tooltip =
@@ -113,6 +117,36 @@ options-sourceeditor-keybinding-default-label = Default
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Local Mode
+options-local-mode-only-work-locally = Local Mode only works locally and is disabled when debugging remote contexts
+options-local-mode-behavior = Local Mode allows you to load local files via https URL without any external dependency. The URLs can only be loaded from tabs with DevTools opened.
+options-local-mode-domain-label = Custom domain:
+options-local-mode-origin-input =
+    .placeholder = Origin for the local mapping
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = This origin conflicts with another existing mapping
+options-local-mode-origin-invalid = This origin is invalid
+options-local-mode-folder-label = Local folder:
+options-local-mode-choose-folder = Browse…
+    .title = Choose a local folder to serve this mapping
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Choose local mode folder for: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = This folder doesn’t exists, or is invalid.
+options-local-mode-toggle =
+    .title = Toggle this local mapping
+options-local-mode-toggle-enable = Enable
+options-local-mode-toggle-disable = Disable
+options-local-mode-navigate-to =
+    .title = Navigate to this mapping URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Do you want to remove “{ $mappingOrigin }” mapping?
 options-local-mode-new-mapping = Add a new local mapping
 
 ## Advanced section
