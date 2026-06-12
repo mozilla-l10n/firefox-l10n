@@ -1306,6 +1306,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = Poruhára réra
 panel-save-update-password = Ñe’ẽñemi
+panel-save-update-username-2 =
+    .label = Poruhára réra
+panel-save-update-password-2 =
+    .label = Ñe’ẽñemi
 
 ##
 
