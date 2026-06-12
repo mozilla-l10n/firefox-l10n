@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Tab barô
 
 ## Custom URLs subpage
 
@@ -22,6 +24,9 @@ newtab-settings-button =
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
     .label = { $num } baréh
+home-restore-defaults-srd =
+    .label = Peubalek Baku
+    .accesskey = P
 home-mode-choice-custom-srd =
     .label = Atô URL...
 home-mode-choice-blank-srd =
