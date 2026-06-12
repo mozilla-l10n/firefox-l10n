@@ -474,6 +474,12 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = මෙම වාරය සඳහා බෙදාගැනීමේ ආරක්‍ෂාව අබල කරන්න
 
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -585,6 +591,13 @@ urlbar-result-action-copy-to-clipboard = පිටපතක්
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -616,6 +629,9 @@ urlbar-result-action-search-bookmarks = පොත්යොමු සොයන්
 urlbar-result-action-search-history = ඉතිහාසය සොයන්න
 urlbar-result-action-search-tabs = සෙවුම් පටිති
 urlbar-result-action-search-actions = ක්‍රියාමාර්ග සොයන්න
+
+## Used in the context menu in urlbar view.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -796,6 +812,10 @@ toolbar-button-new-private-window =
     .label = නව පෞද්ගලික කවුළුව
     .tooltiptext = නව පෞද්. පිරික්සුම් කවුළුවක් අරින්න ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = මෙම වියමන අඩවියෙහි තිබෙන ඇතැම් හඬපට හෝ දෘශ්‍යක සඳහා DRM මෘදුකාංග භාවිතා කරන නිසා { -brand-short-name } හරහා ඔබට එය සමඟ කළ හැකි දෑ සීමා විය හැකිය.
@@ -808,6 +828,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = පරිශ්‍රීලක නාමය
 panel-save-update-password = මුරපදය
+panel-save-update-username-2 =
+    .label = පරිශ්‍රීලක නාමය
+panel-save-update-password-2 =
+    .label = මුරපදය
 
 ##
 
@@ -835,6 +859,10 @@ popups-infobar-dont-show-message =
 edit-popup-settings =
     .label = උත්පතන සැකසුම් කළමනාකරණය…
     .accesskey = M
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
 
 ##
 
@@ -873,6 +901,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = සියළු පටිති ලේඛනය
     .tooltiptext = සියළු පටිති ලේඛනය
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -916,6 +947,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         දිගු
         ඇතැම් දිගු සඳහා ඉඩ නොදේ
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -984,3 +1019,19 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = බහාලුමෙහි පෙන්වන්න
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
