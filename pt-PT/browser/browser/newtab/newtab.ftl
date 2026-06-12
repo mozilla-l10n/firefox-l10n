@@ -63,6 +63,10 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Desportos
+home-mode-choice-default-fx-srd =
+    .label = (Padrão) { -firefox-home-brand-name }
+home-mode-choice-custom-srd =
+    .label = URLs personalizados...
 home-mode-choice-blank-srd =
     .label = Página em branco
 home-prefs-shortcuts-header-srd =
