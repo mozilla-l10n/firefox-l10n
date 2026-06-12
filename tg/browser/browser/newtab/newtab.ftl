@@ -36,14 +36,51 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Саҳифаи асосӣ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Интихоб кардани сомонаи муайян
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Нест кардани нишонӣ
+    .title = Нест кардани нишонӣ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Иваз кардан бо
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Саҳифаҳои кушодашудаи ҷорӣ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Хатбаракҳо…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Ҷустуҷӯ
 home-prefs-widgets-header =
     .label = Виҷетҳо
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Рӯйхатҳо
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Вақтсанҷ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Варзишҳо
+home-prefs-mission-message2 =
+    .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
+home-prefs-manage-topics-link2 =
+    .label = Идоракунии мавзуъҳо
+home-prefs-choose-wallpaper-link2 =
+    .label = Тасвири заминаиеро интихоб намоед
+home-prefs-firefox-logo-header =
+    .label = Ангораи «{ -brand-short-name }»
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Пешфарз)
 home-mode-choice-custom-srd =
@@ -68,6 +105,9 @@ home-prefs-recent-activity-select =
     .aria-label = Фаъолияти охирин
 home-prefs-weather-header-srd =
     .label = Обу ҳаво
+home-prefs-support-firefox-header-srd =
+    .label = Дастгирӣ кардани «{ -brand-product-name }»
+home-prefs-mission-message-learn-more-link-srd = Бифаҳмед, ки чӣ тавр
 
 ## Search box component.
 
