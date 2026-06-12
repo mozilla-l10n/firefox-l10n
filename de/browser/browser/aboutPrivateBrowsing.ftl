@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Viele Cookie-Banner lehnen wi
 about-private-browsing-felt-privacy-v1-info-header = Auf diesem Gerät keine Spuren hinterlassen
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } löscht Ihre Cookies, Chronik und Website-Daten, wenn Sie alle Ihre privaten Fenster schließen.
 about-private-browsing-felt-privacy-v1-info-link = Wer könnte meine Aktivität sehen?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Wenn Sie alle Ihre privaten Fenster schließen, werden Ihre Cookies, Chronik und Website-Daten gelöscht.
