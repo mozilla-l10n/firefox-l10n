@@ -1256,6 +1256,11 @@ containers-settings-button =
     .label = การตั้งค่า
 containers-remove-button =
     .label = เอาออก
+containers-section-header2 =
+    .heading = การตั้งค่าที่แยกข้อมูล
+containers-add-button2 =
+    .label = เพิ่มการแยกข้อมูลใหม่
+    .accesskey = พ
 
 ## Account and sync
 
