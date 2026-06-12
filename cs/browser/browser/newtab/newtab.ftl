@@ -64,6 +64,8 @@ home-prefs-recent-activity-header-srd =
     .label = Nedávná aktivita
 home-prefs-recent-activity-select =
     .aria-label = Nedávná aktivita
+home-prefs-weather-header-srd =
+    .label = Počasí
 
 ## Search box component.
 
