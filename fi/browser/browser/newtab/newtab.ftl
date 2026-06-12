@@ -40,6 +40,17 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Widgetit
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listat
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Oletus)
+home-mode-choice-custom-srd =
+    .label = Omat osoitteet…
+home-mode-choice-blank-srd =
+    .label = Tyhjä sivu
 home-prefs-shortcuts-header-srd =
     .label = Oikotiet
 home-prefs-shortcuts-select =
@@ -54,6 +65,12 @@ home-prefs-highlights-options-bookmarks-srd =
     .label = Kirjanmerkit
 home-prefs-highlights-option-most-recent-download-srd =
     .label = Viimeisimmät lataukset
+home-prefs-recent-activity-header-srd =
+    .label = Viimeisin toiminta
+home-prefs-recent-activity-select =
+    .aria-label = Viimeisin toiminta
+home-prefs-weather-header-srd =
+    .label = Sää
 
 ## Search box component.
 
