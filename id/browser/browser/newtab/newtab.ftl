@@ -37,12 +37,18 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Baku)
 home-mode-choice-custom-srd =
     .label = URL Ubahsuai…
 home-mode-choice-blank-srd =
     .label = Laman Kosong
+home-prefs-shortcuts-header-srd =
+    .label = Pintasan
+home-prefs-shortcuts-select =
+    .aria-label = Pintasan
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Pintasan bersponsor
 home-prefs-recommended-by-option-sponsored-stories-srd =
