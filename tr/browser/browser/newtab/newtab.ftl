@@ -42,6 +42,12 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Arama
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Varsayılan)
+home-mode-choice-custom-srd =
+    .label = Özel adresler…
+home-mode-choice-blank-srd =
+    .label = Boş sayfa
 home-prefs-shortcuts-header-srd =
     .label = Kısayollar
 home-prefs-shortcuts-select =
