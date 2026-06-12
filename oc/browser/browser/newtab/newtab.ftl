@@ -31,12 +31,19 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Onglets novèls
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = Restablir los paramètres per defaut
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (per defaut)
 home-mode-choice-custom-srd =
     .label = Adreças personalizadas…
 home-mode-choice-blank-srd =
