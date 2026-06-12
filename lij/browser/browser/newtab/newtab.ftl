@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Neuvi feuggi
 
 ## Custom URLs subpage
 
@@ -26,6 +28,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } riga
            *[other] { $num } righe
         }
+home-restore-defaults-srd =
+    .label = Repiggia predefinii
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = Indirissi cliénti...
+home-mode-choice-blank-srd =
+    .label = Pagina gianca
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Stöie sponsorizæ
 home-prefs-highlights-option-visited-pages-srd =
