@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = नवीन टॅब
 
 ## Custom URLs subpage
 
@@ -26,6 +28,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } ओळ
            *[other] { $num } ओळी
         }
+home-restore-defaults-srd =
+    .label = पूर्वनिर्धारित स्थितित आणा
+    .accesskey = R
 home-mode-choice-custom-srd =
     .label = सानुकूलीत URLs...
 home-mode-choice-blank-srd =
