@@ -34,12 +34,52 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Startside
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Velg et bestemt nettsted
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Widgeter
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lister
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Nedtelling
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klokke
+home-prefs-mission-message2 =
+    .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
+home-prefs-manage-topics-link2 =
+    .label = Behandle emner
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (standard)
+home-mode-choice-custom-srd =
+    .label = Tilpassede nettadresser…
+home-mode-choice-blank-srd =
+    .label = Blank side
+home-prefs-shortcuts-header-srd =
+    .label = Snarveier
+home-prefs-shortcuts-select =
+    .aria-label = Snarveier
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsede snarveier
+home-prefs-weather-header-srd =
+    .label = Vær
+home-prefs-support-firefox-header-srd =
+    .label = Støtt { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Finn ut hvordan
 
 ## Search box component.
 
