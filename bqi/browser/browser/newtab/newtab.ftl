@@ -26,6 +26,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = بلگه هووه ای
+home-homepage-new-windows =
+    .label = نیمدری یل نۊ
+home-homepage-new-tabs =
+    .label = بلگه یل نۊ
 
 ## Custom URLs subpage
 
