@@ -1312,6 +1312,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = к
 
 panel-save-update-username = Имя пользователя
 panel-save-update-password = Пароль
+panel-save-update-username-2 =
+    .label = Имя пользователя
+panel-save-update-password-2 =
+    .label = Пароль
 
 ##
 
