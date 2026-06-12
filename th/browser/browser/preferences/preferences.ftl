@@ -1264,6 +1264,14 @@ containers-card-header2 =
 containers-add-button2 =
     .label = เพิ่มที่แยกข้อมูลใหม่
     .accesskey = พ
+containers-new-tab-check2 =
+    .label = เลือกที่แยกข้อมูลสำหรับแต่ละแท็บใหม่
+    .accesskey = ล
+    .description = การดำเนินการนี้จะเปิดเมนูที่แยกข้อมูลทุกครั้งที่คุณกดปุ่มแท็บใหม่
+containers-settings-button2 =
+    .title = การตั้งค่า
+containers-remove-button2 =
+    .title = เอาออก
 
 ## Account and sync
 
@@ -1271,6 +1279,9 @@ sync-group-label =
     .label = การซิงค์
 account-group-label2 =
     .label = บัญชี
+account-disabled-group =
+    .label = บัญชี
+    .description = การตั้งค่าบัญชีไม่พร้อมใช้งาน
 account-placeholder2 =
     .label = คุณไม่ได้ลงชื่อเข้า
     .description = ลงชื่อเข้าและเก็บรักษาข้อมูลของคุณให้เป็นส่วนตัว ถูกเข้ารหัสลับ และสามารถเข้าถึงได้ทันทีในทุกที่ที่คุณใช้ { -brand-short-name }

@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = จัดการที่แยกข้อมูล
     .accesskey = จ
+user-context-new-tab =
+    .label = แท็บใหม่
+    .accesskey = ห
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
