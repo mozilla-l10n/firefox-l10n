@@ -37,6 +37,12 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Amezwer)
+home-mode-choice-custom-srd =
+    .label = URLs iganen...
+home-mode-choice-blank-srd =
+    .label = Asebter ilem
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Tiqṣidin yettwarefden
 home-prefs-highlights-option-visited-pages-srd =
