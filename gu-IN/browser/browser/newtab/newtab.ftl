@@ -18,6 +18,14 @@ newtab-settings-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } પંક્તિ
+           *[other] { $num } પંક્તિઓ
+        }
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = પ્રાયોજિત વાર્તાઓ
 home-prefs-highlights-option-visited-pages-srd =
