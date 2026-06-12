@@ -121,6 +121,9 @@ options-sourceeditor-keybinding-default-label = Default
 options-local-mode-label = Helyi mód
 options-local-mode-domain-label = Egyéni domain:
 options-local-mode-folder-label = Helyi mappa:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Ez a mappa nem létezik vagy érvénytelen.
 
 ## Advanced section
 
