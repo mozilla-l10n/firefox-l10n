@@ -40,6 +40,33 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Kërko
+home-prefs-widgets-header =
+    .label = Widget-e
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lista
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Kohëmatës
+home-prefs-mission-message2 =
+    .message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë.
+home-prefs-manage-topics-link2 =
+    .label = Administroni subjekte
+home-prefs-choose-wallpaper-link2 =
+    .label = Zgjidhni një sfond
+home-prefs-shortcuts-header-srd =
+    .label = Shkurtore
+home-prefs-shortcuts-select =
+    .aria-label = Shkurtore
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Shkurtore të sponsorizuara
+home-prefs-weather-header-srd =
+    .label = Moti
+home-prefs-support-firefox-header-srd =
+    .label = Përkrahni { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Mësoni se si
 
 ## Search box component.
 
