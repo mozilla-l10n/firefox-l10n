@@ -28,6 +28,12 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = කෙටිමං
+home-prefs-shortcuts-select =
+    .aria-label = කෙටිමං
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = අනුග්‍රහය ලද කෙටිමං
 home-prefs-highlights-option-visited-pages-srd =
     .label = දුටු පිටු
 home-prefs-highlights-options-bookmarks-srd =
