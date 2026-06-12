@@ -31,6 +31,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Novi tabovi
 
 ## Custom URLs subpage
 
@@ -39,6 +41,15 @@ newtab-logo-and-wordmark =
 
 home-prefs-firefox-logo-header =
     .label = { -brand-short-name } logo
+home-restore-defaults-srd =
+    .label = Vrati na početne vrijednosti
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Zadano)
+home-mode-choice-custom-srd =
+    .label = Prilagođeni URL-ovi…
+home-mode-choice-blank-srd =
+    .label = Prazna stranica
 home-prefs-shortcuts-header-srd =
     .label = Prečice
 home-prefs-shortcuts-select =
