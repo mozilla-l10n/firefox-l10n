@@ -34,6 +34,8 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-windows =
+    .label = Ventanas noas
 
 ## Custom URLs subpage
 
@@ -46,15 +48,25 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Cantzella s’indiritzu
     .title = Cantzella s’indiritzu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Sostitui cun
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = logo de { -brand-short-name }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (predefinidu)
 home-mode-choice-custom-srd =
     .label = URL personalizados…
 home-mode-choice-blank-srd =
     .label = Pàgina in biancu
+home-prefs-shortcuts-header-srd =
+    .label = Curtzadòrgios
+home-prefs-shortcuts-select =
+    .aria-label = Curtzadòrgios
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Curtzadòrgios patrotzinados
 home-prefs-recommended-by-option-sponsored-stories-srd =
