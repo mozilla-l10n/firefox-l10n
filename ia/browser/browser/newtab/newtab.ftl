@@ -40,6 +40,14 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcapaginas
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Ultime discargamento
+home-prefs-recent-activity-header-srd =
+    .label = Recente activitate
+home-prefs-recent-activity-select =
+    .aria-label = Recente activitate
 
 ## Search box component.
 
