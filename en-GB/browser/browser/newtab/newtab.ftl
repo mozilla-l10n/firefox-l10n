@@ -34,12 +34,49 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Homepage
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Choose a specific site
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lists
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Default)
+home-mode-choice-custom-srd =
+    .label = Custom URLs…
+home-mode-choice-blank-srd =
+    .label = Blank Page
+home-prefs-shortcuts-header-srd =
+    .label = Shortcuts
+home-prefs-shortcuts-select =
+    .aria-label = Shortcuts
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsored shortcuts
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Visited pages
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Bookmarks
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Most recent download
+home-prefs-recent-activity-header-srd =
+    .label = Recent activity
+home-prefs-recent-activity-select =
+    .aria-label = Recent activity
+home-prefs-weather-header-srd =
+    .label = Weather
 
 ## Search box component.
 
