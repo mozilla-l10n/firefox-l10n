@@ -34,12 +34,26 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Page d’accueil
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Choisir un site en particulier
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = Configuration par défaut
+    .accesskey = C
+home-mode-choice-custom-srd =
+    .label = Adresses web personnalisées…
+home-mode-choice-blank-srd =
+    .label = Page vide
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Raccourcis sponsorisés
 
 ## Search box component.
 
