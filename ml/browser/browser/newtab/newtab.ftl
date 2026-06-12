@@ -35,6 +35,16 @@ home-homepage-new-tabs =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = വെബ്ബിട വിലാസം(കൾ)
+home-custom-homepage-address =
+    .placeholder = വിലാസം നല്കുക
+home-custom-homepage-address-button =
+    .label = വിലാസം ചേൎക്കുക
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
@@ -46,6 +56,19 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-search-header2 =
     .label = തിരയുക
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } വരികൾ
+           *[other] { $num } വരികൾ
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = വിപുലീകരണം ({ $extension })
 home-restore-defaults-srd =
     .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
     .accesskey = R
