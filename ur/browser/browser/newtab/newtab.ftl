@@ -20,12 +20,30 @@ newtab-personalize-dialog-label =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } قطار
+           *[other] { $num } قطاریں
+        }
+home-mode-choice-custom-srd =
+    .label = مخصوص …URLs
+home-mode-choice-blank-srd =
+    .label = خالی صفحہ
 home-prefs-shortcuts-header-srd =
     .label = تیز راہ
 home-prefs-shortcuts-select =
     .aria-label = تیز راہ
 home-prefs-highlights-options-bookmarks-srd =
     .label = بک مارک
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = حالیہ ڈاؤن لوڈ شدہ
+home-prefs-recent-activity-header-srd =
+    .label = حالیہ سرگرمی
+home-prefs-recent-activity-select =
+    .aria-label = حالیہ سرگرمی
 
 ## Search box component.
 
