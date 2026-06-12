@@ -1304,6 +1304,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Α
 
 panel-save-update-username = Όνομα χρήστη
 panel-save-update-password = Κωδικός πρόσβασης
+panel-save-update-username-2 =
+    .label = Όνομα χρήστη
+panel-save-update-password-2 =
+    .label = Κωδικός πρόσβασης
 
 ##
 
