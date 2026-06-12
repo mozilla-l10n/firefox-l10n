@@ -37,6 +37,24 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = Преки пътища
+home-prefs-shortcuts-select =
+    .aria-label = Преки пътища
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Спонсорирани препратки
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Посетени страници
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Отметки
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Последни изтегляния
+home-prefs-recent-activity-header-srd =
+    .label = Последна активност
+home-prefs-recent-activity-select =
+    .aria-label = Последна активност
+home-prefs-weather-header-srd =
+    .label = Времето
 
 ## Search box component.
 
