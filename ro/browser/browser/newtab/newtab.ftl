@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Pagină de start
+home-homepage-new-windows =
+    .label = Ferestre noi
+home-homepage-new-tabs =
+    .label = File noi
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Alege un anumit site
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Caută
+home-prefs-stories-header2 =
+    .label = Articole
+    .description = Conținut excepțional, selecționat de familia { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgeturi
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Pentru utilizarea acestor funcționalități, setează filele noi sau ferestrele noi pe { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restaurează valorile implicite
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = Pagina de { -firefox-home-brand-name } (Implicită)
 home-mode-choice-custom-srd =
