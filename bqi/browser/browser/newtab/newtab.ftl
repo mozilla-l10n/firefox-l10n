@@ -33,6 +33,9 @@ home-homepage-new-tabs =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = نشۊوی (ا) وبگه
 home-custom-homepage-address =
     .placeholder = زیذن نشۊوی
 home-custom-homepage-address-button =
@@ -76,6 +79,11 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } ردیف
            *[other] { $num } ردیف
         }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = وردنی ({ $extension })
 home-restore-defaults-srd =
     .label = وورگندن پؽش فرزا
     .accesskey = R
