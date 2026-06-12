@@ -26,6 +26,13 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } row
            *[other] { $num } rows
         }
+home-restore-defaults-srd =
+    .label = डिफ़ॉल्ट पुनः स्थापित करें
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = संशोधित URLs
+home-mode-choice-blank-srd =
+    .label = खाली पृष्ठ
 
 ## Search box component.
 
