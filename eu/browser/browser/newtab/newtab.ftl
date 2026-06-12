@@ -40,10 +40,36 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Bilatu
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Lehenetsia)
+home-mode-choice-custom-srd =
+    .label = URL pertsonalizatuak…
+home-mode-choice-blank-srd =
+    .label = Orri zuria
+home-prefs-shortcuts-header-srd =
+    .label = Lasterbideak
+home-prefs-shortcuts-select =
+    .aria-label = Lasterbideak
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Babesleen lasterbideak
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Babesleen istorioak
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Bisitatutako orriak
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Laster-markak
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Azken deskarga
+home-prefs-recent-activity-header-srd =
+    .label = Azken jarduera
+home-prefs-recent-activity-select =
+    .aria-label = Azken jarduera
+home-prefs-weather-header-srd =
+    .label = Eguraldia
 
 ## Search box component.
 
