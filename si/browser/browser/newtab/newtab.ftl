@@ -28,6 +28,16 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-highlights-option-visited-pages-srd =
+    .label = දුටු පිටු
+home-prefs-highlights-options-bookmarks-srd =
+    .label = පොත්යොමු
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = වඩාත්ම මෑත බාගැනීම්
+home-prefs-recent-activity-header-srd =
+    .label = මෑත ක්‍රියාකාරකම
+home-prefs-recent-activity-select =
+    .aria-label = මෑත ක්‍රියාකාරකම
 
 ## Search box component.
 
