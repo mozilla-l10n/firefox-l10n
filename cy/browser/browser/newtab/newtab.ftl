@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Cyfeiriad(au) gwefan
+home-custom-homepage-address =
+    .placeholder = Rhowch gyfeiriad
+home-custom-homepage-address-button =
+    .label = Ychwanegu cyfeiriad
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Dim gwefannau wedi'u hychwanegu eto.
 home-custom-homepage-delete-address-button =
     .aria-label = Dileu cyfeiriad
     .title = Dileu cyfeiriad
@@ -96,6 +106,23 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = I ddefnyddio'r nodweddion hyn, gosodwch dabiau newydd neu ffenestri newydd i { -firefox-home-brand-name }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [zero] { $num } rhesi
+            [one] { $num } rhes
+            [two] { $num } res
+            [few] { $num } rhes
+            [many] { $num } rhes
+           *[other] { $num } rhes
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Estyniad ( { $extension } )
 home-restore-defaults-srd =
     .label = Adfer y Rhagosodiadau
     .accesskey = A
