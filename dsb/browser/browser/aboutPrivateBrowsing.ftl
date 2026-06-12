@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Něnto wjele cookiejowych ch�
 about-private-browsing-felt-privacy-v1-info-header = Na toś tom rěźe žedne slědy njezawóstajiś
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } waše cookieje, historiju a sedłowe daty wulašujo, gaž wšykne swóje priwatne wokna zacynjaśo.
 about-private-browsing-felt-privacy-v1-info-link = Chto mógał móju aktiwitu wiźeś?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Gaž swóje priwatne wokna zacynjaśo, se waše cookieje, historija a sedłowe daty wulašuju.
