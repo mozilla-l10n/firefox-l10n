@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Tab baru
 
 ## Custom URLs subpage
 
@@ -22,6 +24,13 @@ newtab-settings-button =
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
     .label = { $num } baris
+home-restore-defaults-srd =
+    .label = Pulih Piawai
+    .accesskey = P
+home-mode-choice-custom-srd =
+    .label = URLs Penyesuaian...
+home-mode-choice-blank-srd =
+    .label = Halaman Kosong
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Kisah Tajaan
 home-prefs-highlights-option-visited-pages-srd =
