@@ -40,6 +40,10 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-recent-activity-header-srd =
+    .label = Nedávna aktivita
+home-prefs-recent-activity-select =
+    .aria-label = Nedávna aktivita
 
 ## Search box component.
 
