@@ -46,6 +46,8 @@ home-prefs-recent-activity-header-srd =
     .label = මෑත ක්‍රියාකාරකම
 home-prefs-recent-activity-select =
     .aria-label = මෑත ක්‍රියාකාරකම
+home-prefs-weather-header-srd =
+    .label = කාලගුණය
 
 ## Search box component.
 
