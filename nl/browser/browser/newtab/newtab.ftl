@@ -42,9 +42,24 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Adres verwijderen
+    .title = Adres verwijderen
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Vervangen door
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Huidige geopende pagina’s
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bladwijzers…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Zoeken
 home-prefs-widgets-header =
@@ -61,6 +76,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Klok
+home-prefs-mission-message2 =
+    .message = Onze sponsors steunen onze missie om een beter web te bouwen.
+home-prefs-manage-topics-link2 =
+    .label = Onderwerpen beheren
+home-prefs-choose-wallpaper-link2 =
+    .label = Kies een achtergrond
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Stel nieuwe tabbladen of nieuwe vensters in op { -firefox-home-brand-name } om deze functies te gebruiken.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standaard)
 home-mode-choice-custom-srd =
@@ -87,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = Recente activiteit
 home-prefs-weather-header-srd =
     .label = Weer
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } ondersteunen
+home-prefs-mission-message-learn-more-link-srd = Lees hier hoe
 
 ## Search box component.
 
