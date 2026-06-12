@@ -40,6 +40,12 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = Oikotiet
+home-prefs-shortcuts-select =
+    .aria-label = Oikotiet
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsoroidut oikotiet
 
 ## Search box component.
 
