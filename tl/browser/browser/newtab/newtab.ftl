@@ -31,6 +31,10 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } hilera
            *[other] { $num } hilera
         }
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Mga Binisitang Pahina
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Mga Bookmark
 home-prefs-highlights-option-most-recent-download-srd =
     .label = Mga Download Kamakailan
 home-prefs-recent-activity-header-srd =
