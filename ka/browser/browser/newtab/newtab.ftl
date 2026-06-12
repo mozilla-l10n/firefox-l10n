@@ -36,12 +36,39 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = საწყისი გვერდი
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = აირჩიეთ ცალკეული საიტი
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (ნაგულისხმევი)
+home-mode-choice-custom-srd =
+    .label = მითითებული URL-მისამართები...
+home-mode-choice-blank-srd =
+    .label = ცარიელი გვერდი
+home-prefs-shortcuts-header-srd =
+    .label = მალსახმობები
+home-prefs-shortcuts-select =
+    .aria-label = მალსახმობები
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = ამბები დამკვეთებისგან
+home-prefs-highlights-option-visited-pages-srd =
+    .label = მონახულებული გვერდები
+home-prefs-highlights-options-bookmarks-srd =
+    .label = სანიშნები
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = ბოლო ჩამოტვირთვები
+home-prefs-recent-activity-header-srd =
+    .label = ბოლო მოქმედებები
+home-prefs-recent-activity-select =
+    .aria-label = ბოლო მოქმედებები
+home-prefs-weather-header-srd =
+    .label = ამინდი
 
 ## Search box component.
 
