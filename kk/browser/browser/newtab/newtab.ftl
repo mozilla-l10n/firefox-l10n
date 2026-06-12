@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Үй парағы
+home-homepage-new-windows =
+    .label = Жаңа терезелер
+home-homepage-new-tabs =
+    .label = Жаңа беттер
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Белгілі бір сайтты таңдау
@@ -92,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Бұл мүмкіндіктерді пайдалану үшін жаңа беттерді немесе жаңа терезелерді { -firefox-home-brand-name } күйіне орнатыңыз.
+home-restore-defaults-srd =
+    .label = Бастапқы мәндерін қайтару
+    .accesskey = ы
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Үнсіз келісім бойынша)
 home-mode-choice-custom-srd =
