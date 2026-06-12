@@ -40,6 +40,42 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Пошук
+home-prefs-widgets-header =
+    .label = Віджэты
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Спісы
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Гадзіннік
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (тыповая)
+home-mode-choice-custom-srd =
+    .label = Свае URL-адрасы…
+home-mode-choice-blank-srd =
+    .label = Пустая старонка
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Артыкулы ад спонсараў
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Наведаныя старонкі
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Закладкі
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Нядаўнія сцягванні
+home-prefs-recent-activity-header-srd =
+    .label = Апошняя актыўнасць
+home-prefs-recent-activity-select =
+    .aria-label = Апошняя актыўнасць
+home-prefs-weather-header-srd =
+    .label = Надвор'е
 
 ## Search box component.
 
