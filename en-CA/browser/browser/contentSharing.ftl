@@ -50,3 +50,6 @@ content-sharing-modal-too-many-pages =
         }
     .message = Try again after one of your pages expires.
 content-sharing-modal-some-invalid-links = Some links can’t be shared.
+content-sharing-modal-generic-error-2 =
+    .heading = Something went wrong
+    .message = We couldn’t create your shared page this time. Try again later.

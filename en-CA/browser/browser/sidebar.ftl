@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-contextual-password-manager =
     .label = Passwords
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Open Tabs
 sidebar-options-menu-button =
     .title = Open menu
 
@@ -58,6 +63,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Manage { -brand-short-name } settings
 sidebar-vertical-tabs =
     .label = Vertical tabs
+sidebar-settings2 =
+    .label = Settings
 sidebar-settings =
     .label = Sidebar settings
 sidebar-hide-tabs-and-sidebar =
@@ -70,6 +77,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expand sidebar on hover
+sidebar-manage-extensions2 = Manage all extensions
+sidebar-customize-extensions-header2 = Extensions
+sidebar-customize-firefox-tools-header2 =
+    .label = Tools
 
 ## Labels for sidebar context menu items
 
@@ -134,6 +145,11 @@ sidebar-menu-history-label =
     .label = History
 sidebar-menu-synced-tabs-label =
     .label = Tabs from other devices
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Open tabs
 sidebar-menu-bookmarks-label =
     .label = Bookmarks
 sidebar-menu-customize-label =
@@ -180,6 +196,10 @@ sidebar-menu-history-header =
     .heading = History
 sidebar-menu-syncedtabs-header =
     .heading = Tabs from other devices
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Open tabs
 sidebar-menu-cpm-header =
     .heading = Passwords
 sidebar-menu-bookmarks-header =
@@ -199,6 +219,9 @@ sidebar-bookmarks-folder-mobile = Mobile Bookmarks
 sidebar-customize-title = Customize sidebar
 sidebar-history-title = History
 sidebar-syncedtabs-title = Tabs from other devices
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Open tabs
 
 ## Context for closing synced tabs when hovering over the items
 

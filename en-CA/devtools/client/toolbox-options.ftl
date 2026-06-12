@@ -111,6 +111,10 @@ options-sourceeditor-tabsize-label = Tab size
 options-sourceeditor-keybinding-label = Keybindings
 options-sourceeditor-keybinding-default-label = Default
 
+## Local Mode section
+
+options-local-mode-new-mapping = Add a new local mapping
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

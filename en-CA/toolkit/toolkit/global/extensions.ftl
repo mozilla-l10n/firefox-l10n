@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Deny
     .accesskey = D
 webext-perms-host-description-all-urls = Access your data for all websites
+webext-perms-host-description-file-urls = Access local files on your computer
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Access your data for sites in the { $domain } domain
@@ -148,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     These are usually plug-in devices like audio synthesizers, but might also be built into your computer.
     
     Websites are normally not allowed to access MIDI devices. Improper usage could cause damage or compromise security.
+webext-site-perms-description-gated-perms-webserial =
+    These are devices like microcontrollers, 3D printers, and other devices that connect via USB, serial ports, or Bluetooth.
+    
+    You will be able to choose which devices the website can access.
+    
+    Websites are normally not allowed to access serial devices. Improper usage could cause damage or compromise security.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
