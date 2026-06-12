@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Namn
+    .placeholder = Legg til eit namn
+containers-icon-label2 =
+    .label = Ikon
+containers-color-label2 =
+    .label = Farge
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name

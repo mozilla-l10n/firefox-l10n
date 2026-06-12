@@ -1272,6 +1272,12 @@ containers-settings-button =
     .label = Innstillingar
 containers-remove-button =
     .label = Fjern
+containers-section-header2 =
+    .heading = Behaldarinnstillingar
+containers-settings-button2 =
+    .title = Innstillingar
+containers-remove-button2 =
+    .title = Fjern
 
 ## Account and sync
 

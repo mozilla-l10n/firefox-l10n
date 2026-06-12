@@ -115,6 +115,12 @@ options-sourceeditor-tabsize-label = Tab size
 options-sourceeditor-keybinding-label = Keybindings
 options-sourceeditor-keybinding-default-label = Default
 
+## Local Mode section
+
+options-local-mode-folder-label = Lokal mappe:
+options-local-mode-toggle-enable = Slå på
+options-local-mode-toggle-disable = Slå av
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
