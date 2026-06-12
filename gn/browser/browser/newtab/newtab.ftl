@@ -31,6 +31,16 @@ newtab-card-dismiss-button =
     .title = Mboyke
     .aria-label = Mboyke
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +161,8 @@ newtab-menu-section-block = Joko
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Ndahapykuehovéima
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Eikuaave
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Anive ehapykueho téma
@@ -1047,6 +1059,9 @@ newtab-sports-widget-match-full-time = Partído opámava
 newtab-sports-widget-match-halftime = Jepytu’u
 newtab-sports-widget-match-extra-time = Aravo’i juapyvegua
 newtab-sports-widget-match-penalties = Penal jechuta
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
