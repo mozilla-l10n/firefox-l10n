@@ -42,6 +42,14 @@ home-prefs-shortcuts-select =
     .aria-label = കുറുക്കുവഴികൾ
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കഥകൾ
+home-prefs-highlights-option-visited-pages-srd =
+    .label = സന്ദർശിച്ച പേജുകൾ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = ബുക്ക്മാർക്കുകൾ
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = ഏറ്റവും അടുത്തിടെ ഇറക്കിവച്ച സാധനം
 
 ## Search box component.
 
