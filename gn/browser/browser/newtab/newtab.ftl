@@ -42,6 +42,9 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Heka
+home-restore-defaults-srd =
+    .label = mbopyahujey techa mboyvegua
+    .accesskey = m
 
 ## Search box component.
 
