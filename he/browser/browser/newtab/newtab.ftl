@@ -34,6 +34,11 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = דף הבית
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = בחירה באתר מסוים
 
 ## Custom URLs subpage
 
@@ -42,8 +47,46 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = חיפוש
+home-prefs-widgets-header =
+    .label = ווידג’טים
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = רשימות
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = שעון עצר
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = ספורט
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = שעון
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (ברירת מחדל)
+home-mode-choice-custom-srd =
+    .label = כתובות מותאמות אישית…
+home-mode-choice-blank-srd =
+    .label = דף ריק
+home-prefs-shortcuts-header-srd =
+    .label = קיצורי דרך
+home-prefs-shortcuts-select =
+    .aria-label = קיצורי דרך
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = קיצורי דרך ממומנים
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = סיפורים ממומנים
+home-prefs-highlights-option-visited-pages-srd =
+    .label = עמודים בהם ביקרת
+home-prefs-highlights-options-bookmarks-srd =
+    .label = סימניות
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = ההורדות האחרונות
+home-prefs-recent-activity-header-srd =
+    .label = פעילות אחרונה
+home-prefs-recent-activity-select =
+    .aria-label = פעילות אחרונה
+home-prefs-weather-header-srd =
+    .label = מזג אוויר
 
 ## Search box component.
 
