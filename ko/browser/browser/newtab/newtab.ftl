@@ -34,12 +34,43 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = 홈페이지
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 특정 사이트 선택
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (기본값)
+home-mode-choice-custom-srd =
+    .label = 사용자 지정 URL…
+home-mode-choice-blank-srd =
+    .label = 빈 페이지
+home-prefs-shortcuts-header-srd =
+    .label = 바로 가기
+home-prefs-shortcuts-select =
+    .aria-label = 바로 가기
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = 스폰서 바로 가기
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = 스폰서 소식
+home-prefs-highlights-option-visited-pages-srd =
+    .label = 방문한 페이지
+home-prefs-highlights-options-bookmarks-srd =
+    .label = 북마크
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = 가장 최근 다운로드
+home-prefs-recent-activity-header-srd =
+    .label = 최근 활동
+home-prefs-recent-activity-select =
+    .aria-label = 최근 활동
+home-prefs-weather-header-srd =
+    .label = 날씨
 
 ## Search box component.
 
