@@ -647,6 +647,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilisar la cumbinaziun da tastas F12, l'emprim avrir ils utensils per sviluppaders via il menu «Utensils dal navigatur».
@@ -1005,6 +1008,9 @@ urlbar-result-action-switch-to-tabgroup = Midar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avrir { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1254,6 +1260,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 panel-save-update-username = Num d'utilisader
 panel-save-update-password = Pled-clav
+panel-save-update-username-2 =
+    .label = Num d'utilisader
+panel-save-update-password-2 =
+    .label = Pled-clav
 
 ##
 
@@ -1681,3 +1691,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
        *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
