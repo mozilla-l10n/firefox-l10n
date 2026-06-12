@@ -45,6 +45,14 @@ home-homepage-custom-homepage-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ligne
+           *[other] { $num } lignes
+        }
 home-restore-defaults-srd =
     .label = Configuration par défaut
     .accesskey = C
