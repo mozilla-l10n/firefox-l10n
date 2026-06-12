@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Domovská stránka
+home-homepage-new-windows =
+    .label = Nová okna
+home-homepage-new-tabs =
+    .label = V novém panelu
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Zvolte konkrétní stránku
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Hledat
+home-prefs-stories-header2 =
+    .label = Příběhy
+    .description = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
 home-prefs-widgets-header =
     .label = Widgety
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -93,6 +100,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Chcete-li tyto funkce využívat, nastavte pro nové panely nebo okna načítání { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Obnovit výchozí
+    .accesskey = O
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (výchozí)
 home-mode-choice-custom-srd =
