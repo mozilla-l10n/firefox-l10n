@@ -44,6 +44,8 @@ home-homepage-new-tabs =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Pretraga
 home-prefs-widgets-header =
@@ -60,6 +62,12 @@ home-mode-choice-custom-srd =
     .label = Prilagođeni URL-ovi …
 home-mode-choice-blank-srd =
     .label = Prazna stranica
+home-prefs-shortcuts-header-srd =
+    .label = Prečaci
+home-prefs-shortcuts-select =
+    .aria-label = Prečaci
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponzorirani prečaci
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponzorirane priče
 home-prefs-highlights-option-visited-pages-srd =
