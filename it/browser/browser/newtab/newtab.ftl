@@ -31,6 +31,71 @@ newtab-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+home-homepage-title =
+    .label = Pagina iniziale
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Scegli un sito specifico
+
+## Custom URLs subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Indirizzi di siti web
+home-custom-homepage-address =
+    .placeholder = Inserisci indirizzo
+home-custom-homepage-address-button =
+    .label = Aggiungi indirizzo
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Non è stato ancora aggiunto alcun sito.
+
+## Firefox Home content
+
+home-prefs-stories-header2 =
+    .label = Storie
+    .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } righe
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Estensione ({ $extension })
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predefinita)
+home-mode-choice-custom-srd =
+    .label = Indirizzi personalizzati…
+home-mode-choice-blank-srd =
+    .label = Pagina vuota
+home-prefs-shortcuts-header-srd =
+    .label = Scorciatoie
+home-prefs-shortcuts-select =
+    .aria-label = Scorciatoie
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Scorciatoie sponsorizzate
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articoli sponsorizzati
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pagine visitate
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Segnalibri
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Download più recenti
+home-prefs-recent-activity-header-srd =
+    .label = Attività recente
+home-prefs-recent-activity-select =
+    .aria-label = Attività recente
+
 ## Search box component.
 
 # "Search" is a verb/action
