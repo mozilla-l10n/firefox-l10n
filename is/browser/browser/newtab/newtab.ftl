@@ -37,6 +37,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-táknmerki
 home-restore-defaults-srd =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
@@ -66,6 +68,9 @@ home-prefs-recent-activity-select =
     .aria-label = Nýleg virkni
 home-prefs-weather-header-srd =
     .label = Veður
+home-prefs-support-firefox-header-srd =
+    .label = Styddu við { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Finndu út hvernig
 
 ## Search box component.
 
