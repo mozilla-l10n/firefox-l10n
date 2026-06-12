@@ -40,6 +40,24 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = ウィジェット
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = ToDo リスト
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = タイマー
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = スポーツ
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = 時計
+home-prefs-weather-header-srd =
+    .label = 天気予報
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } を支援
 
 ## Search box component.
 
