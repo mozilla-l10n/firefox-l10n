@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = 主页
+home-homepage-new-windows =
+    .label = 新窗口
+home-homepage-new-tabs =
+    .label = 新标签页
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 选择特定网站
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = 搜索
+home-prefs-stories-header2 =
+    .label = 文章
+    .description = 由 { -brand-product-name } 系列产品推荐的精选内容
 home-prefs-widgets-header =
     .label = 小组件
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = 将新标签页或新窗口设置为 { -firefox-home-brand-name }以使用此功能。
+home-restore-defaults-srd =
+    .label = 恢复默认设置
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name }（默认）
 home-mode-choice-custom-srd =
