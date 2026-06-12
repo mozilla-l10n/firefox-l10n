@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = ניהול מגירות
     .accesskey = ג
+user-context-new-tab =
+    .label = לשונית חדשה
+    .accesskey = ל
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
