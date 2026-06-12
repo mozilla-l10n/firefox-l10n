@@ -57,6 +57,8 @@ home-prefs-recent-activity-select =
     .aria-label = Последна активност
 home-prefs-weather-header-srd =
     .label = Времето
+home-prefs-support-firefox-header-srd =
+    .label = Подкрепете { -brand-product-name }
 
 ## Search box component.
 
