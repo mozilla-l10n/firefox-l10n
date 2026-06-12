@@ -40,6 +40,20 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Arama
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsorlu haberler
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Ziyaret ettiğim sayfalar
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Yer imleri
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Son indirme
+home-prefs-recent-activity-header-srd =
+    .label = Son etkinlikler
+home-prefs-recent-activity-select =
+    .aria-label = Son etkinlikler
 
 ## Search box component.
 
