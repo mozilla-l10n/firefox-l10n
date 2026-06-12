@@ -117,8 +117,27 @@ options-sourceeditor-keybinding-default-label = Standard
 
 ## Local Mode section
 
+options-local-mode-domain-label = Benutzerdefinierte Domain:
+options-local-mode-origin-input =
+    .placeholder = Ursprung für die lokale Zuordnung
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Dieser Ursprung steht in Konflikt mit einer anderen bestehenden Zuordnung
+options-local-mode-origin-invalid = Dieser Ursprung ist ungültig
+options-local-mode-folder-label = Lokaler Ordner:
+options-local-mode-choose-folder = Durchsuchen…
+    .title = Wählen Sie einen lokalen Ordner für diese Zuordnung aus
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Lokalen Modus wählen für: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Dieser Ordner existiert nicht, oder ist ungültig.
+options-local-mode-toggle =
+    .title = Diese lokale Zuordnung umschalten
 options-local-mode-toggle-enable = Aktivieren
 options-local-mode-toggle-disable = Deaktivieren
+options-local-mode-new-mapping = Neue lokale Zuordnung hinzufügen
 
 ## Advanced section
 
