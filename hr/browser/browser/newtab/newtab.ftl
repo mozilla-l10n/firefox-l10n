@@ -34,6 +34,8 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Početna stranica
 home-homepage-new-tabs =
     .label = Nove kartice
 
@@ -52,6 +54,12 @@ home-prefs-lists-header =
 home-restore-defaults-srd =
     .label = Obnovi standardne postavke
     .accesskey = O
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (standardno)
+home-mode-choice-custom-srd =
+    .label = Prilagođeni URL-ovi …
+home-mode-choice-blank-srd =
+    .label = Prazna stranica
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponzorirane priče
 home-prefs-highlights-option-visited-pages-srd =
@@ -64,6 +72,8 @@ home-prefs-recent-activity-header-srd =
     .label = Nedavna aktivnost
 home-prefs-recent-activity-select =
     .aria-label = Nedavna aktivnost
+home-prefs-weather-header-srd =
+    .label = Vremenska prognoza
 
 ## Search box component.
 
