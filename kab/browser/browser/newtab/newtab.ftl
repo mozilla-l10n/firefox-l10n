@@ -37,6 +37,10 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Tiqṣidin yettwarefden
+home-prefs-highlights-option-visited-pages-srd =
+    .label = isebtar yettwarzan
 home-prefs-highlights-options-bookmarks-srd =
     .label = Ticraḍ n isebtar
 home-prefs-highlights-option-most-recent-download-srd =
