@@ -137,6 +137,17 @@ options-local-mode-choose-folder-picker-title = 로컬 모드 폴더 선택: { $
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = 이 폴더는 존재하지 않거나 유효하지 않습니다.
+options-local-mode-toggle =
+    .title = 이 로컬 매핑 전환
+options-local-mode-toggle-enable = 사용함
+options-local-mode-toggle-disable = 사용 안 함
+options-local-mode-navigate-to =
+    .title = 이 매핑 URL로 이동
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = “{ $mackingOrigin }” 매핑을 제거하시겠습니까?
+options-local-mode-new-mapping = 새 로컬 매핑 추가
 
 ## Advanced section
 
