@@ -56,6 +56,8 @@ home-prefs-sections-rows-option-srd =
 home-restore-defaults-srd =
     .label = Configuration par défaut
     .accesskey = C
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (par défaut)
 home-mode-choice-custom-srd =
     .label = Adresses web personnalisées…
 home-mode-choice-blank-srd =
@@ -76,6 +78,8 @@ home-prefs-recent-activity-header-srd =
     .label = Activité récente
 home-prefs-recent-activity-select =
     .aria-label = Activité récente
+home-prefs-weather-header-srd =
+    .label = Météo
 
 ## Search box component.
 
