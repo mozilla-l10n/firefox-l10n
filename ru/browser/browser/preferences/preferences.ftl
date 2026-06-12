@@ -1276,6 +1276,22 @@ containers-settings-button =
     .label = Настройки
 containers-remove-button =
     .label = Удалить
+containers-section-header2 =
+    .heading = Настройки контейнера
+containers-card-header2 =
+    .label = Контейнеры
+    .description = Разделите куки по контейнерам, и таим образом вы можете использовать разные аккаунты на одном и том же сайте и ограничить межсайтовое отслеживание.
+containers-add-button2 =
+    .label = Добавить новый контейнер
+    .accesskey = Ф
+containers-new-tab-check2 =
+    .label = Выбирать контейнер для каждой новой вкладки
+    .accesskey = Ы
+    .description = Это вызывает меню контейнеров каждый раз, когда вы нажимаете кнопку открытия новой вкладки.
+containers-settings-button2 =
+    .title = Настройки
+containers-remove-button2 =
+    .title = Удалить
 
 ## Account and sync
 

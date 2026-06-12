@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Восстановление последне
 customkeys-sidebar-toggle = Показать/скрыть боковую панель
 customkeys-view-bookmarks-toolbar = Включить/выключить панель закладок
 customkeys-view-picture-in-picture = Картинка в картинке
+customkeys-view-add-split-view = Добавить разделение экрана
+# Separate is a verb
+customkeys-view-separate-split-view = Убрать разделение экрана
 customkeys-dev-tools = Инструменты веб-разработчика
 customkeys-dev-inspector = Инспектор DOM и стилей
 customkeys-dev-webconsole = Веб-консоль
