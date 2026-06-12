@@ -31,6 +31,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-windows =
+    .label = Fenèstra novèla
 home-homepage-new-tabs =
     .label = Onglets novèls
 
