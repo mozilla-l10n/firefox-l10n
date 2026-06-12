@@ -48,6 +48,8 @@ home-homepage-custom-homepage-button =
 home-prefs-stories-header2 =
     .label = Historias
     .description = Contenido excepcional seleccionado por la familia { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Widgets
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom-srd =
@@ -66,6 +68,8 @@ home-prefs-recent-activity-header-srd =
     .label = Actividad reciente
 home-prefs-recent-activity-select =
     .aria-label = Actividad reciente
+home-prefs-weather-header-srd =
+    .label = Clima
 
 ## Search box component.
 
