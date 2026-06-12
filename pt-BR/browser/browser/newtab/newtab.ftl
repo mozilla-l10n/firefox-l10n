@@ -42,6 +42,19 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Excluir endereço
+    .title = Excluir endereço
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Substituir por
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Páginas abertas no momento
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Favoritos…
 
 ## Firefox Home content
 
@@ -63,6 +76,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Relógio
+home-prefs-mission-message2 =
+    .message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor.
+home-prefs-manage-topics-link2 =
+    .label = Gerenciar tópicos
+home-prefs-choose-wallpaper-link2 =
+    .label = Escolher um fundo de tela
+home-prefs-firefox-logo-header =
+    .label = Logotipo do { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para usar esses recursos, defina novas abas ou novas janelas no { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -100,6 +126,9 @@ home-prefs-recent-activity-select =
     .aria-label = Atividade recente
 home-prefs-weather-header-srd =
     .label = Tempo
+home-prefs-support-firefox-header-srd =
+    .label = Apoie o { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descubra como
 
 ## Search box component.
 
