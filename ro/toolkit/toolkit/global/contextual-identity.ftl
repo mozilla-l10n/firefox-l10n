@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestionează containerele
     .accesskey = O
+user-context-new-tab =
+    .label = Filă nouă
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

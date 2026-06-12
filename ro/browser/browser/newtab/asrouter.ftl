@@ -464,3 +464,10 @@ relay-50-masks-announcement-primary-button = Mergi la { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Închide
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Trimite feedback
+    .accesskey = S
+nova-early-access-infobar-primary-button = Am înțeles
+    .accesskey = G

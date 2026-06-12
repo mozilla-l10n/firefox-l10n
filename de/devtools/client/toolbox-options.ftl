@@ -117,6 +117,10 @@ options-sourceeditor-keybinding-default-label = Standard
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Lokaler Modus
+options-local-mode-only-work-locally = Der Lokale Modus funktioniert nur lokal und ist beim Debuggen externer Kontexte deaktiviert
+options-local-mode-behavior = Der lokale Modus ermöglicht es Ihnen, lokale Dateien über die https-URL ohne externe Abhängigkeit zu laden. Die URLs können nur aus Tabs geladen werden, bei denen die Entwicklerwerkzeuge geöffnet sind.
 options-local-mode-domain-label = Benutzerdefinierte Domain:
 options-local-mode-origin-input =
     .placeholder = Ursprung für die lokale Zuordnung
@@ -137,6 +141,10 @@ options-local-mode-toggle =
     .title = Diese lokale Zuordnung umschalten
 options-local-mode-toggle-enable = Aktivieren
 options-local-mode-toggle-disable = Deaktivieren
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Wollen Sie die "{ $mappingOrigin }“-Zuweisung entfernen?
 options-local-mode-new-mapping = Neue lokale Zuordnung hinzufügen
 
 ## Advanced section

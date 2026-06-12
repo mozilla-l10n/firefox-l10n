@@ -15,6 +15,8 @@ containers-window-close =
 containers-name-label2 =
     .label = Name
     .placeholder = Name hinzufügen
+containers-icon-label2 =
+    .label = Symbol
 containers-color-label2 =
     .label = Farbe
 # This is a term to store style to be applied

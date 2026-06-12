@@ -115,6 +115,11 @@ options-sourceeditor-tabsize-label = Mărimea tabulării
 options-sourceeditor-keybinding-label = Combinații de taste
 options-sourceeditor-keybinding-default-label = Implicite
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Mod local
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

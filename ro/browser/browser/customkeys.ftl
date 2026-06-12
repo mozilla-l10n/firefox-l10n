@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Redeschide ultima fereastră închisă
 customkeys-sidebar-toggle = Comută bara laterală
 customkeys-view-bookmarks-toolbar = Comută între marcaje și bara de instrumente
 customkeys-view-picture-in-picture = Imagine în imagine
+customkeys-view-add-split-view = Adaugă ecran divizat
+# Separate is a verb
+customkeys-view-separate-split-view = Separă ecranul divizat
 customkeys-dev-tools = Instrumente pentru dezvoltatori web
 customkeys-dev-inspector = Inspector DOM și de stil
 customkeys-dev-webconsole = Consolă web

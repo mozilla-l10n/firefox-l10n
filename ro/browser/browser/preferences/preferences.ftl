@@ -1276,6 +1276,15 @@ containers-settings-button =
     .label = Setări
 containers-remove-button =
     .label = Elimină
+containers-section-header2 =
+    .heading = Setări container
+containers-add-button2 =
+    .label = Adaugă un container nou
+    .accesskey = A
+containers-settings-button2 =
+    .title = Setări
+containers-remove-button2 =
+    .title = Elimină
 
 ## Account and sync
 
