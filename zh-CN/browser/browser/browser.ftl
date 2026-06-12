@@ -1288,6 +1288,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = 用户名
 panel-save-update-password = 密码
+panel-save-update-username-2 =
+    .label = 用户名
+panel-save-update-password-2 =
+    .label = 密码
 
 ##
 
