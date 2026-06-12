@@ -45,6 +45,8 @@ home-homepage-custom-homepage-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Buscar
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -71,6 +73,18 @@ home-prefs-shortcuts-select =
     .aria-label = Accesos directos
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Accesos directos patrocinados
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Historias patrocinadas
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Sitios visitados
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcadores
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Descargado recientemente
+home-prefs-recent-activity-header-srd =
+    .label = Actividad reciente
+home-prefs-recent-activity-select =
+    .aria-label = Actividad reciente
 home-prefs-weather-header-srd =
     .label = Clima
 
