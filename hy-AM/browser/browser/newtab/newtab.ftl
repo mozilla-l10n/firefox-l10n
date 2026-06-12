@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Տնային էջ
+home-homepage-new-windows =
+    .label = Նոր պատուհաններ
+home-homepage-new-tabs =
+    .label = Նոր ներդիրներ
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Ընտրեք որոշակի կայք
@@ -90,6 +94,15 @@ home-prefs-sections-rows-option-srd =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Ընդլայնում ({ $extension })
+home-restore-defaults-srd =
+    .label = Վերականգնել սկզբնադիրը
+    .accesskey = R
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (սկզբնադիր)
+home-mode-choice-custom-srd =
+    .label = Հարմարեցված URL-ներ...
+home-mode-choice-blank-srd =
+    .label = Դատարկ էջ
 home-prefs-shortcuts-header-srd =
     .label = Դյուրանցումներ
 home-prefs-shortcuts-select =
