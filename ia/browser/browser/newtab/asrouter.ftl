@@ -461,3 +461,8 @@ relay-50-masks-announcement-primary-button = Ir a { -relay-brand-name }
     .accesskey = I
 relay-50-masks-announcement-secondary-button = Clauder
     .accesskey = C
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-primary-button = Comprendite
+    .accesskey = C

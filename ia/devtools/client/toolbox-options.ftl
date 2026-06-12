@@ -115,6 +115,11 @@ options-sourceeditor-tabsize-label = Dimension del tabulation
 options-sourceeditor-keybinding-label = Assignationes de claves
 options-sourceeditor-keybinding-default-label = Predefinite
 
+## Local Mode section
+
+options-local-mode-toggle-enable = Activar
+options-local-mode-toggle-disable = Disactivar
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

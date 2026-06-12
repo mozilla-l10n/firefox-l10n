@@ -226,6 +226,12 @@ sidebar-opentabs-title = Schedas aperte
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Scedas fixate per spinula
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Fenestra { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

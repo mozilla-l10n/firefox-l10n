@@ -1272,6 +1272,15 @@ containers-settings-button =
     .label = Parametros
 containers-remove-button =
     .label = Remover
+containers-section-header2 =
+    .heading = Configurationes de contentor
+containers-add-button2 =
+    .label = Adder nove contentor
+    .accesskey = A
+containers-settings-button2 =
+    .title = Configurationes
+containers-remove-button2 =
+    .title = Remover
 
 ## Account and sync
 

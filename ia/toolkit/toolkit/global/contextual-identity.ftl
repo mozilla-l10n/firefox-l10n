@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Gerer le contentores
     .accesskey = o
+user-context-new-tab =
+    .label = Nove scheda
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
