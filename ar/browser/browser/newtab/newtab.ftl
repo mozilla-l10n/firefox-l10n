@@ -34,12 +34,31 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-windows =
+    .label = نوافذ جديدة
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = ابحث
+home-prefs-stories-header2 =
+    .label = القصص
+    .description = محتوى استثنائي برعاية عائلة { -brand-product-name }
+home-prefs-shortcuts-header-srd =
+    .label = الاختصارات
+home-prefs-shortcuts-select =
+    .aria-label = الاختصارات
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = الاختصارات المموّلة
+home-prefs-recent-activity-header-srd =
+    .label = أحدث الأنشطة
+home-prefs-recent-activity-select =
+    .aria-label = أحدث الأنشطة
 
 ## Search box component.
 
