@@ -40,6 +40,18 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Gesponserte Artikel
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Besuchte Seiten
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Lesezeichen
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Neueste Downloads
+home-prefs-recent-activity-header-srd =
+    .label = Neueste Aktivität
+home-prefs-recent-activity-select =
+    .aria-label = Neueste Aktivität
 
 ## Search box component.
 
