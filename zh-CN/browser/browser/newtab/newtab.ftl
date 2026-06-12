@@ -64,6 +64,8 @@ home-prefs-recent-activity-header-srd =
     .label = 近期动态
 home-prefs-recent-activity-select =
     .aria-label = 近期动态
+home-prefs-weather-header-srd =
+    .label = 天气
 
 ## Search box component.
 
