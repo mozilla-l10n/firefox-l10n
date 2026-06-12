@@ -12,12 +12,17 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-windows =
+    .label = បង្អួចថ្មី
 
 ## Custom URLs subpage
 
 home-custom-homepage-delete-address-button =
     .aria-label = លុបអាសយដ្ឋាន
     .title = លុបអាសយដ្ឋាន
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = ចំណាំ…
 
 ## Firefox Home content
 
