@@ -12,12 +12,16 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = ಹೊಸ ಟ್ಯಾಬ್ ಗಳು
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-blank-srd =
+    .label = ಖಾಲಿ ಪುಟ
 home-prefs-highlights-option-visited-pages-srd =
     .label = ಭೇಟಿಕೊಟ್ಟ ಪುಟಗಳು
 home-prefs-highlights-options-bookmarks-srd =
