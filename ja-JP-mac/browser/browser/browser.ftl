@@ -415,13 +415,13 @@ quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 開発ツールを開く
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
-quickactions-cmd-inspector = inspector, devtools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
+quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -474,10 +474,10 @@ quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ページのソースを表示
 quickactions-cmd-viewsource2 = view source, source, page source
-quickactions-cmd-viewsource = view source, source
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = { -firefoxlabs-brand-name } を開く
 quickactions-cmd-labs = labs, experiment
+quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = クイックアクションについての詳細
@@ -1292,6 +1292,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-username = ユーザー名
 panel-save-update-password = パスワード
+panel-save-update-username-2 =
+    .label = ユーザー名
+panel-save-update-password-2 =
+    .label = パスワード
 
 ##
 
