@@ -27,6 +27,14 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = شارٹ کٹ
+home-prefs-shortcuts-select =
+    .aria-label = شارٹ کٹ
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = سپانسر تھئے شارٹ کٹ
+home-prefs-weather-header-srd =
+    .label = موسم
 
 ## Search box component.
 
