@@ -34,6 +34,8 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Nove kartice
 
 ## Custom URLs subpage
 
@@ -47,6 +49,9 @@ home-prefs-widgets-header =
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Popisi
+home-restore-defaults-srd =
+    .label = Obnovi standardne postavke
+    .accesskey = O
 
 ## Search box component.
 
