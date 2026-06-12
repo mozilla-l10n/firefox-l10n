@@ -45,8 +45,34 @@ home-homepage-custom-homepage-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-widgets-header =
+    .label = วิดเจ็ต
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = รายการ
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = ตัวจับเวลา
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = กีฬา
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = นาฬิกา
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (ค่าเริ่มต้น)
+home-mode-choice-custom-srd =
+    .label = URL กำหนดเอง…
 home-mode-choice-blank-srd =
     .label = หน้าว่าง
+home-prefs-shortcuts-header-srd =
+    .label = ทางลัด
+home-prefs-shortcuts-select =
+    .aria-label = ทางลัด
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = ทางลัดที่ได้รับการสนับสนุน
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = เรื่องราวที่ได้รับการสนับสนุน
 home-prefs-highlights-option-visited-pages-srd =
@@ -55,6 +81,12 @@ home-prefs-highlights-options-bookmarks-srd =
     .label = ที่คั่นหน้า
 home-prefs-highlights-option-most-recent-download-srd =
     .label = การดาวน์โหลดล่าสุด
+home-prefs-recent-activity-header-srd =
+    .label = กิจกรรมล่าสุด
+home-prefs-recent-activity-select =
+    .aria-label = กิจกรรมล่าสุด
+home-prefs-weather-header-srd =
+    .label = พยากรณ์อากาศ
 
 ## Search box component.
 
