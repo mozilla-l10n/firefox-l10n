@@ -12,6 +12,8 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Da pestaña jíía
 
 ## Custom URLs subpage
 
@@ -25,6 +27,9 @@ home-prefs-sections-rows-option-srd =
         { $num ->
            *[other] { $num } fila
         }
+home-restore-defaults-srd =
+    .label = Natee tuku predeterminados
+    .accesskey = R
 home-mode-choice-custom-srd =
     .label = Sa´a vii URLs
 home-mode-choice-blank-srd =
