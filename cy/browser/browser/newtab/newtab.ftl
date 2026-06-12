@@ -34,12 +34,57 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Tudalen Cartref
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Dewis safle penodol
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Teclynnau
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Rhestrau
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Amserydd
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Chwaraeon
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Cloc
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Rhagosodedig)
+home-mode-choice-custom-srd =
+    .label = URLau Cyfaddas...
+home-mode-choice-blank-srd =
+    .label = Tudalen Wag
+home-prefs-shortcuts-header-srd =
+    .label = Llwybrau Byr
+home-prefs-shortcuts-select =
+    .aria-label = Llwybrau Byr
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Llwybrau byr wedi'u noddi
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Straeon wedi’u noddi
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Tudalennau Ymwelwyd â Nhw
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Nodau Tudalen
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Y Llwytho i Lawr Diweddaraf
+home-prefs-recent-activity-header-srd =
+    .label = Gweithgaredd diweddar
+home-prefs-recent-activity-select =
+    .aria-label = Gweithgaredd diweddar
+home-prefs-weather-header-srd =
+    .label = Y Tywydd
 
 ## Search box component.
 
