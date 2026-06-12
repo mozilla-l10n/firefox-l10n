@@ -1300,6 +1300,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = უ
 
 panel-save-update-username = მომხმარებელი
 panel-save-update-password = პაროლი
+panel-save-update-username-2 =
+    .label = მომხმარებელი
+panel-save-update-password-2 =
+    .label = პაროლი
 
 ##
 
