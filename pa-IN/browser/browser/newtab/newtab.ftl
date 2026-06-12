@@ -31,6 +31,16 @@ newtab-card-dismiss-button =
     .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +161,8 @@ newtab-menu-section-block = ਪਾਬੰਦੀ
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = ਹੋਰ ਜਾਣੋ
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = ਵਿਸ਼ੇ ਨੂੰ ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
