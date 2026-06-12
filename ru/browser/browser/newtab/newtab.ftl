@@ -34,14 +34,53 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Домашняя страница
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Выбрать определённый сайт
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Удалить адрес
+    .title = Удалить адрес
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Заменить на
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Текущие открытые страницы
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Закладки…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name(case: "nominative_uppercase") }
 home-prefs-search-header2 =
     .label = Поиск
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Часы
+home-prefs-mission-message2 =
+    .message = Наши спонсоры поддерживают нашу миссию по созданию лучшего Интернета.
+home-prefs-manage-topics-link2 =
+    .label = Управление темами
+home-prefs-choose-wallpaper-link2 =
+    .label = Выберите обои
+home-prefs-firefox-logo-header =
+    .label = Логотип { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Чтобы использовать эти функции, настройте для новых вкладок или новых окон { -firefox-home-brand-name(case: "genitive") }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -53,6 +92,10 @@ home-prefs-sections-rows-option-srd =
         }
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name(case: "nominative_uppercase") } (по умолчанию)
+home-mode-choice-custom-srd =
+    .label = Мои URL-адреса…
+home-mode-choice-blank-srd =
+    .label = Пустая страница
 home-prefs-shortcuts-header-srd =
     .label = Ярлыки
 home-prefs-shortcuts-select =
@@ -69,6 +112,9 @@ home-prefs-recent-activity-header-srd =
     .label = Последние действия
 home-prefs-recent-activity-select =
     .aria-label = Последние действия
+home-prefs-support-firefox-header-srd =
+    .label = Поддержите { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Узнать как
 
 ## Search box component.
 
