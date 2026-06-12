@@ -34,12 +34,35 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Startsida
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Välj en specifik webbplats
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Standard)
+home-mode-choice-custom-srd =
+    .label = Anpassade webbadresser...
+home-mode-choice-blank-srd =
+    .label = Tom sida
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsrade berättelser
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Besökta sidor
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Bokmärken
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Senaste nedladdning
+home-prefs-recent-activity-header-srd =
+    .label = Senaste aktivitet
+home-prefs-recent-activity-select =
+    .aria-label = Senaste aktivitet
 
 ## Search box component.
 
