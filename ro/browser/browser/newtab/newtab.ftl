@@ -40,6 +40,12 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-header-srd =
+    .label = Comenzi rapide
+home-prefs-shortcuts-select =
+    .aria-label = Comenzi rapide
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Comenzi rapide sponsorizate
 
 ## Search box component.
 
