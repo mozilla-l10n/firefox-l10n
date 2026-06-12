@@ -18,10 +18,26 @@ newtab-settings-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ред
+           *[other] { $num } редови
+        }
 home-prefs-shortcuts-header-srd =
     .label = Кратенки
 home-prefs-shortcuts-select =
     .aria-label = Кратенки
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Спонзорирани приказни
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Посетени страници
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Обележувачи
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Последно преземање
 
 ## Search box component.
 
