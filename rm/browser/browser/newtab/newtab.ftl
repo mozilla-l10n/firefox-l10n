@@ -37,8 +37,43 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Tschertgar
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Glistas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Svegliarin
+home-prefs-mission-message2 =
+    .message = Noss sponsurs sustegnan noss engaschi per crear in meglier web.
+home-prefs-shortcuts-header-srd =
+    .label = Scursanidas
+home-prefs-shortcuts-select =
+    .aria-label = Scursanidas
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Scursanidas sponsuradas
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Artitgels sponsurads
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Paginas visitadas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Segnapaginas
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = L'ultima telechargiada
+home-prefs-recent-activity-header-srd =
+    .label = Activitad recenta
+home-prefs-recent-activity-select =
+    .aria-label = Activitad recenta
+home-prefs-weather-header-srd =
+    .label = Aura
+home-prefs-support-firefox-header-srd =
+    .label = Sustegnair { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Vegnir a savair co quai va
 
 ## Search box component.
 
