@@ -41,6 +41,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Tschertgar
+home-prefs-stories-header2 =
+    .label = Artitgels
+    .description = Cuntegn excepziunal tschernì da la glieud da { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
