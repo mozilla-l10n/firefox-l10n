@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Αρχική σελίδα
+home-homepage-new-windows =
+    .label = Νέα παράθυρα
+home-homepage-new-tabs =
+    .label = Νέες καρτέλες
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Επιλογή συγκεκριμένου ιστοτόπου
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Αναζήτηση
+home-prefs-stories-header2 =
+    .label = Άρθρα
+    .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
 home-prefs-widgets-header =
     .label = Γραφικά στοιχεία
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Για να χρησιμοποιήσετε αυτές τις λειτουργίες, ρυθμίστε τις νέες καρτέλες ή τα νέα παράθυρα στην { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Επαναφορά προεπιλογών
+    .accesskey = Ε
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Προεπιλογή)
 home-mode-choice-custom-srd =
