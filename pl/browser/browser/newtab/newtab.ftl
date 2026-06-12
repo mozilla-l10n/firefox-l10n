@@ -42,6 +42,12 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = obecnie otwarte strony
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = zakładki…
 
 ## Firefox Home content
 
@@ -60,6 +66,22 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Zegar
+home-prefs-mission-message2 =
+    .message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
+home-prefs-manage-topics-link2 =
+    .label = Zarządzaj tematami
+home-prefs-choose-wallpaper-link2 =
+    .label = Wybierz tapetę
+home-prefs-firefox-logo-header =
+    .label = Logo { -brand-short-name(case: "gen") }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Aby korzystać z tych funkcji, ustaw nowe karty lub nowe okna na { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name(case: "nom", capitalization: "lower") } (domyślnie)
 home-mode-choice-custom-srd =
@@ -86,6 +108,9 @@ home-prefs-recent-activity-select =
     .aria-label = Ostatnia aktywność
 home-prefs-weather-header-srd =
     .label = Pogoda
+home-prefs-support-firefox-header-srd =
+    .label = Wspieraj { -brand-product-name(case: "acc") }
+home-prefs-mission-message-learn-more-link-srd = Więcej informacji
 
 ## Search box component.
 
