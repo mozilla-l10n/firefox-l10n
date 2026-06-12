@@ -34,14 +34,61 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Αρχική σελίδα
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Επιλογή συγκεκριμένου ιστοτόπου
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Διαγραφή διεύθυνσης
+    .title = Διαγραφή διεύθυνσης
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Αντικατάσταση με
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Τρέχουσες ανοικτές σελίδες
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Σελιδοδείκτες…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Αναζήτηση
+home-prefs-widgets-header =
+    .label = Γραφικά στοιχεία
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Λίστες
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Αντίστροφη μέτρηση
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Αθλήματα
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ρολόι
+home-prefs-mission-message2 =
+    .message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο.
+home-prefs-manage-topics-link2 =
+    .label = Διαχείριση θεμάτων
+home-prefs-choose-wallpaper-link2 =
+    .label = Επιλογή ταπετσαρίας
+home-prefs-firefox-logo-header =
+    .label = Λογότυπο { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Για να χρησιμοποιήσετε αυτές τις λειτουργίες, ρυθμίστε τις νέες καρτέλες ή τα νέα παράθυρα στην { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Προεπιλογή)
 home-mode-choice-custom-srd =
@@ -54,6 +101,8 @@ home-prefs-shortcuts-select =
     .aria-label = Συντομεύσεις
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Χορηγούμενες συντομεύσεις
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Χορηγούμενα άρθρα
 home-prefs-highlights-option-visited-pages-srd =
     .label = Σελίδες που έχετε επισκεφθεί
 home-prefs-highlights-options-bookmarks-srd =
@@ -66,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = Πρόσφατη δραστηριότητα
 home-prefs-weather-header-srd =
     .label = Καιρός
+home-prefs-support-firefox-header-srd =
+    .label = Υποστηρίξτε το { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Μάθετε πώς
 
 ## Search box component.
 
