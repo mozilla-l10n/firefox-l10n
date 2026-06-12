@@ -13,15 +13,6 @@ enterprise-panel-information = Vous êtes identifiés dans un navigateur géré 
 enterprise-panel-learn-more = En savoir plus
 enterprise-panel-sign-out-btn =
     .label = Se déconnecter…
-# $tabCount (Number) - the number of open tabs
-enterprise-signout-prompt-title2 =
-    { $tabCount ->
-        [one] Se déconnecter de { -brand-short-name } ?
-       *[other] Se déconnecter et fermer { $tabCount } onglets ?
-    }
-enterprise-signout-prompt-message = Vous êtes sur le point de vous déconnecter de votre navigateur { -brand-short-name }. Pour pouvoir l’utiliser à nouveau, vous devrez vous ré-authentifier via le fournisseur d’identification de votre entreprise.
-enterprise-signout-prompt-checkbox-label = Afficher ce message lors de la déconnexion.
-enterprise-signout-prompt-primary-btn-label = Déconnexion
 enterprise-close-prompt-title = Fermer { -brand-short-name } ?
 # Variables:
 #   $tabCount (Number): The number of tabs to be closed.
