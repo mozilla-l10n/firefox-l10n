@@ -42,10 +42,50 @@ newtab-card-dismiss-button =
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-stories-header2 =
+    .label = Stories
+    .description = Exceptional content curated by the { -brand-product-name } family
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lists
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sports
+home-prefs-mission-message2 =
+    .message = Our sponsors support our mission to build a better web.
+home-prefs-manage-topics-link2 =
+    .label = Manage topics
+home-prefs-choose-wallpaper-link2 =
+    .label = Choose a wallpaper
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = To use these features, set new tabs or new windows to { -firefox-home-brand-name }.
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsored shortcuts
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponsored stories
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Visited pages
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Bookmarks
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Most recent download
+home-prefs-recent-activity-header-srd =
+    .label = Recent activity
+home-prefs-recent-activity-select =
+    .aria-label = Recent activity
+home-prefs-weather-header-srd =
+    .label = Weather
+home-prefs-support-firefox-header-srd =
+    .label = Support { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Find out how
 
 ## Search box component.
 
