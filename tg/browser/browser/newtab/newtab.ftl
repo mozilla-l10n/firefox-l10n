@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Нишони(ҳо)и сомона
+home-custom-homepage-address =
+    .placeholder = Нишониеро ворид намоед
+home-custom-homepage-address-button =
+    .label = Илова кардани нишонӣ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = То ҳол ягон сомона илова карда нашудааст.
 home-custom-homepage-delete-address-button =
     .aria-label = Нест кардани нишонӣ
     .title = Нест кардани нишонӣ
@@ -88,6 +98,19 @@ home-prefs-choose-wallpaper-link2 =
     .label = Тасвири заминаиеро интихоб намоед
 home-prefs-firefox-logo-header =
     .label = Ангораи «{ -brand-short-name }»
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } сатр
+           *[other] { $num } сатр
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Васеъшавӣ ({ $extension })
 home-restore-defaults-srd =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
