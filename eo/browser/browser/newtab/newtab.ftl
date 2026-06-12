@@ -42,9 +42,19 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Nune malfermitaj paĝoj
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Legosignoj…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Serĉi
 home-prefs-widgets-header =
     .label = Komponantoj
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -56,6 +66,22 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sporto
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Horloĝo
+home-prefs-mission-message2 =
+    .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
+home-prefs-manage-topics-link2 =
+    .label = Administri temojn
+home-prefs-choose-wallpaper-link2 =
+    .label = Elekti ekranfonon
+home-prefs-firefox-logo-header =
+    .label = Emblemo de { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Por uzi tiujn ĉi trajtojn, agordu novajn lagetojn aŭ fenestrojn en { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Norma)
 home-mode-choice-custom-srd =
@@ -82,6 +108,9 @@ home-prefs-recent-activity-select =
     .aria-label = Ĵusa agado
 home-prefs-weather-header-srd =
     .label = Vetero
+home-prefs-support-firefox-header-srd =
+    .label = Helpi { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Malkovri kiel
 
 ## Search box component.
 
