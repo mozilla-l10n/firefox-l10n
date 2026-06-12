@@ -1304,6 +1304,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = g
 
 panel-save-update-username = Användarnamn
 panel-save-update-password = Lösenord
+panel-save-update-username-2 =
+    .label = Användarnamn
+panel-save-update-password-2 =
+    .label = Lösenord
 
 ##
 
