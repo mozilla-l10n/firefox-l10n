@@ -17,12 +17,23 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Tabaichean ùra
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = Aisig na bun-roghainnean
+    .accesskey = r
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (bun-roghainn)
+home-mode-choice-custom-srd =
+    .label = URLaichean gnàthaichte...
+home-mode-choice-blank-srd =
+    .label = Duilleag bhàn
 home-prefs-shortcuts-header-srd =
     .label = Ath-ghoiridean
 home-prefs-shortcuts-select =
