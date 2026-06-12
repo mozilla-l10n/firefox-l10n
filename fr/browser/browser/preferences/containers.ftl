@@ -90,7 +90,7 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Détente
 containers-window-new3 =
-    .title = Ajouter un nouveau contexte
+    .title = Ajouter un nouveau conteneur
     .style = min-width: 34em
 # Variables
 #   $name (String) - Name of the container

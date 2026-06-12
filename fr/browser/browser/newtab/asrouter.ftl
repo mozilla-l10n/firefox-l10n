@@ -463,7 +463,7 @@ relay-50-masks-announcement-secondary-button = Ignorer
 
 ## Nova Early Access Infobar
 
-nova-early-access-infobar-title = <strong>{ -brand-product-name } fait peau neuve.</strong> Vous allez en tester une première version, non aboutie, avant un lancement dans l’année.
+nova-early-access-infobar-title = <strong>{ -brand-product-name } fait peau neuve.</strong> Vous testez ici une version préliminaire, encore en cours de développement, avant son lancement prévu plus tard cette année.
 nova-early-access-share-feedback-link = Donner mon avis
     .accesskey = D
 nova-early-access-infobar-primary-button = J’ai compris
