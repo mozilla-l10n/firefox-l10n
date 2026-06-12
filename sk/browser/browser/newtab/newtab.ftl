@@ -34,6 +34,11 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Domovská stránka
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Vyberte konkrétnu stránku
 
 ## Custom URLs subpage
 
@@ -42,9 +47,29 @@ newtab-card-dismiss-button =
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-widgets-header =
+    .label = Miniaplikácie
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Zoznamy
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovač
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Šport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Hodiny
 home-restore-defaults-srd =
     .label = Obnoviť predvolené
     .accesskey = r
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predvolené)
+home-mode-choice-custom-srd =
+    .label = Vlastné URL adresy…
+home-mode-choice-blank-srd =
+    .label = Prázdna stránka
 home-prefs-shortcuts-header-srd =
     .label = Skratky
 home-prefs-shortcuts-select =
@@ -53,10 +78,18 @@ home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponzorované skratky
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponzorované stránky
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Navštívené stránky
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Záložky
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Nedávne sťahovania
 home-prefs-recent-activity-header-srd =
     .label = Nedávna aktivita
 home-prefs-recent-activity-select =
     .aria-label = Nedávna aktivita
+home-prefs-weather-header-srd =
+    .label = Počasie
 
 ## Search box component.
 
