@@ -37,11 +37,19 @@ newtab-card-dismiss-button =
 
 ## Custom URLs subpage
 
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Current opened pages
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bookmarks…
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Search
 home-prefs-stories-header2 =
     .label = Stories
     .description = Exceptional content curated by the { -brand-product-name } family
@@ -62,11 +70,17 @@ home-prefs-manage-topics-link2 =
     .label = Manage topics
 home-prefs-choose-wallpaper-link2 =
     .label = Choose a wallpaper
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logo
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = To use these features, set new tabs or new windows to { -firefox-home-brand-name }.
+home-prefs-shortcuts-header-srd =
+    .label = Shortcuts
+home-prefs-shortcuts-select =
+    .aria-label = Shortcuts
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsored shortcuts
 home-prefs-recommended-by-option-sponsored-stories-srd =
