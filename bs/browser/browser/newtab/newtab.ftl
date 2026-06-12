@@ -37,6 +37,14 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logo
+home-prefs-shortcuts-header-srd =
+    .label = Prečice
+home-prefs-shortcuts-select =
+    .aria-label = Prečice
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponzorisane prečice
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponzorisane priče
 home-prefs-highlights-option-visited-pages-srd =
