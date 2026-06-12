@@ -13,3 +13,7 @@ about-pdf-dropzone-invalid-file = Dit bestand wordt niet ondersteund. Kies een P
 about-pdf-dropzone-error-generic = De upload is mislukt. Probeer het later opnieuw.
 about-pdf-browse-files =
     .label = Door bestanden bladeren
+about-pdf-set-default =
+    .label = Instellen als standaard
+about-pdf-dismiss =
+    .label = Sluiten

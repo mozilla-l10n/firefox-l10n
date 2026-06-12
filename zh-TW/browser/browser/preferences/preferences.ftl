@@ -1260,6 +1260,15 @@ containers-settings-button =
     .label = 選項
 containers-remove-button =
     .label = 移除
+containers-section-header2 =
+    .heading = 容器設定
+containers-add-button2 =
+    .label = 新增容器
+    .accesskey = A
+containers-settings-button2 =
+    .title = 設定
+containers-remove-button2 =
+    .title = 移除
 
 ## Account and sync
 
@@ -1267,6 +1276,9 @@ sync-group-label =
     .label = 同步
 account-group-label2 =
     .label = 帳號
+account-disabled-group =
+    .label = 帳號
+    .description = 暫時無法調整帳號設定。
 account-placeholder2 =
     .label = 您尚未登入
     .description = 登入後即可將您的資料用有隱私、加密的方式即時同步到您所有裝置上的 { -brand-short-name }。

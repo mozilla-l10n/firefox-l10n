@@ -458,3 +458,10 @@ relay-50-masks-announcement-primary-button = 前往 { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = 知道了！
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = 分享意見回饋
+    .accesskey = S
+nova-early-access-infobar-primary-button = 知道了！
+    .accesskey = G

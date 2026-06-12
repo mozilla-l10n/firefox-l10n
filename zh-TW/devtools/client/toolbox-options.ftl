@@ -115,6 +115,13 @@ options-sourceeditor-tabsize-label = Tab 大小
 options-sourceeditor-keybinding-label = Keybinding
 options-sourceeditor-keybinding-default-label = 預設
 
+## Local Mode section
+
+options-local-mode-domain-label = 自訂網域：
+options-local-mode-origin-invalid = 此來源無效
+options-local-mode-toggle-enable = 啟用
+options-local-mode-toggle-disable = 停用
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
