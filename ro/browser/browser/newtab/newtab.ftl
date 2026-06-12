@@ -42,6 +42,37 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Caută
+home-prefs-widgets-header =
+    .label = Widgeturi
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Liste
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Cronometru
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporturi
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Ceas
+home-prefs-mission-message2 =
+    .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
+home-prefs-manage-topics-link2 =
+    .label = Gestionează subiectele
+home-prefs-choose-wallpaper-link2 =
+    .label = Alege o imagine de fundal
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pentru utilizarea acestor funcționalități, setează filele noi sau ferestrele noi pe { -firefox-home-brand-name }.
+home-mode-choice-default-fx-srd =
+    .label = Pagina de { -firefox-home-brand-name } (Implicită)
+home-mode-choice-custom-srd =
+    .label = URL-uri personalizate…
+home-mode-choice-blank-srd =
+    .label = Pagină goală
 home-prefs-shortcuts-header-srd =
     .label = Comenzi rapide
 home-prefs-shortcuts-select =
@@ -60,6 +91,11 @@ home-prefs-recent-activity-header-srd =
     .label = Activitate recentă
 home-prefs-recent-activity-select =
     .aria-label = Activitate recentă
+home-prefs-weather-header-srd =
+    .label = Meteo
+home-prefs-support-firefox-header-srd =
+    .label = Susține { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Află cum
 
 ## Search box component.
 
