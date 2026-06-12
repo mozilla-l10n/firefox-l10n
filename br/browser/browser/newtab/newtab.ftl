@@ -41,6 +41,22 @@ home-homepage-new-tabs =
 
 home-prefs-firefox-logo-header =
     .label = Logo { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } renk
+            [two] { $num } renk
+            [few] { $num } renk
+            [many] { $num } a renkoù
+           *[other] { $num } renk
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Askouezh ({ $extension })
 home-restore-defaults-srd =
     .label = Assav an arventennoù dre ziouer
     .accesskey = A
