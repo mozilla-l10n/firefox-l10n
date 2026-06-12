@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Homepage
+home-homepage-new-windows =
+    .label = New windows
+home-homepage-new-tabs =
+    .label = New tabs
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Choose a specific site
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Search
+home-prefs-stories-header2 =
+    .label = Stories
+    .description = Exceptional content curated by the { -brand-product-name } family
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = To use these features, set new tabs or new windows to { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restore Defaults
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Default)
 home-mode-choice-custom-srd =
