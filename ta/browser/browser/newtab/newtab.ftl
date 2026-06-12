@@ -18,6 +18,14 @@ newtab-settings-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } வரிசை
+           *[other] { $num } வரிசைகள்
+        }
 home-mode-choice-custom-srd =
     .label = தனிப்பயன் உரலிகள்...
 home-mode-choice-blank-srd =
