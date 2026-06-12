@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Startside
+home-homepage-new-windows =
+    .label = Nije finsters
+home-homepage-new-tabs =
+    .label = Nije ljepblêden
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Kies in spesifike website
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Sykje
+home-prefs-stories-header2 =
+    .label = Ferhalen
+    .description = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Stel nije ljepblêden of nije finsters yn op { -firefox-home-brand-name } om dizze funksjes te brûken.
+home-restore-defaults-srd =
+    .label = Standert werstelle
+    .accesskey = w
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standert)
 home-mode-choice-custom-srd =
