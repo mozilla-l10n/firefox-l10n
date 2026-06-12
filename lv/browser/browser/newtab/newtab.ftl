@@ -30,6 +30,15 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [zero] { $num } rindu
+            [one] { $num } rinda
+           *[other] { $num } rindas
+        }
 home-prefs-shortcuts-header-srd =
     .label = Saīsnes
 home-prefs-shortcuts-select =
@@ -48,6 +57,8 @@ home-prefs-recent-activity-header-srd =
     .label = Nesenās aktivitātes
 home-prefs-recent-activity-select =
     .aria-label = Nesenās aktivitātes
+home-prefs-weather-header-srd =
+    .label = Laikapstākļi
 
 ## Search box component.
 
