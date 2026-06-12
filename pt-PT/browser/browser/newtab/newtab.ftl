@@ -45,10 +45,41 @@ home-homepage-custom-homepage-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Pesquisar
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Desportos
 home-mode-choice-blank-srd =
     .label = Página em branco
+home-prefs-shortcuts-header-srd =
+    .label = Atalhos
+home-prefs-shortcuts-select =
+    .aria-label = Atalhos
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Atalhos patrocinados
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Páginas visitadas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcadores
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Transferência mais recente
+home-prefs-recent-activity-header-srd =
+    .label = Atividade recente
+home-prefs-recent-activity-select =
+    .aria-label = Atividade recente
+home-prefs-weather-header-srd =
+    .label = Meteorologia
 
 ## Search box component.
 
