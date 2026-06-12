@@ -600,9 +600,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = از کار انداختن محافظت هم‌رسانی برای این نشست
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = برای استفاده از میانبر F12، ابتدا ابزارهای توسعه‌دهندگان را از طریق منوی ابزار مرورگر باز کنید.
@@ -834,9 +831,6 @@ urlbar-result-action-switch-to-tabgroup = جابجایی به { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = باز کردن { $group }
 
-## Used in the context menu in urlbar view.
-
-
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1028,10 +1022,6 @@ toolbar-button-new-private-window =
     .label = پنجره ناشناس جدید
     .tooltiptext = باز کردن پنجره جدید مرور ناشناس ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ویدئو یا صدا در این سایت به نرم‌افزار DRM نیاز دارد، که امکان دارد امکاناتی که { -brand-short-name } به شما میدهد را محدود کند.
@@ -1129,9 +1119,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
-
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1252,16 +1239,6 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = نمایش «‪{ $popupURI }‬»
 
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = پایان نصب
@@ -1270,13 +1247,3 @@ onboarding-checklist-button-label = پایان نصب
 
 trustpanel-clear-cookies-subview-button-cancel = انصراف
 trustpanel-blocker-see-all = نمايش همه
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

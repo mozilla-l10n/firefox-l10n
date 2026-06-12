@@ -34,9 +34,6 @@ newtab-logo-and-wordmark =
 home-homepage-new-tabs =
     .label = Ivinelloù nevez
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 home-prefs-firefox-logo-header =
@@ -135,9 +132,6 @@ newtab-topsites-image-url-label = URL ar skeudenn personelaet
 newtab-topsites-use-image-link = Ober gant ur skeudenn personelaet…
 newtab-topsites-image-validation = N'haller ket kargan ar skeudenn. Klaskit gant un URL disheñvel.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Nullañ
@@ -155,9 +149,6 @@ newtab-confirm-delete-history-p2 = Ne c'haller ket dizober ar gwezh-mañ.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Paeroniet
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -451,9 +442,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
 ## Celestial
 
 newtab-wallpaper-celestial-lunar-eclipse = Fallaenn loar
@@ -536,18 +524,6 @@ newtab-section-mangage-topics-followed-topics = O heuliañ
 newtab-section-mangage-topics-blocked-topics = Stanket
 newtab-custom-wallpaper-cta = Esaeañ
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting issues with ads and content
 
 newtab-report-cancel = Nullañ
@@ -560,40 +536,3 @@ newtab-widget-lists-label-new =
     .label = Nevez
 newtab-widget-lists-menu-create = Krouiñ ur roll nevez
 newtab-widget-lists-input-menu-open-link = Digeriñ an ere
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

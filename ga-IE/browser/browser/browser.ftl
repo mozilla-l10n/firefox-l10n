@@ -341,9 +341,6 @@ browser-tab-unblock =
        *[other] PLAY { $count } TABS
     }
 
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-speaker-icon =
@@ -357,12 +354,6 @@ popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáile�
 
 sharing-warning-proceed-to-tab =
     .label = Lean ar aghaidh go Cluaisín
-
-## WebSerial "select a port" popup
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -483,13 +474,6 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -569,9 +553,6 @@ urlbar-result-action-switch-to-tabgroup = Athraigh go { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Oscail { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -653,11 +634,6 @@ bookmarks-other-bookmarks-menu =
 bookmarks-mobile-bookmarks-menu =
     .label = Leabharmharcanna Soghluaiste
 
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
-
 ##
 
 bookmarks-search =
@@ -688,9 +664,6 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sábháil i b{ -pocket-brand-name }
     .tooltiptext = Sábháil i b{ -pocket-brand-name }
-
-## Repair text encoding toolbar button
-
 
 ##
 
@@ -727,10 +700,6 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Fuinneog Nua Phríobháideach
     .tooltiptext = Oscail Fuinneog Nua Phríobháideach ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -778,10 +747,6 @@ picture-in-picture-hide-toggle =
     .label = Folaigh an Scoránú Pictiúr-i-bPictiúr
     .accesskey = F
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -820,15 +785,9 @@ tabs-toolbar-list-all-tabs =
     .label = Liostaigh gach cluaisín
     .tooltiptext = Liostaigh gach cluaisín
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Taispeáin dom conas
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -882,9 +841,6 @@ refresh-blocked-allow =
     .label = Ceadaigh
     .accesskey = A
 
-## Firefox Relay integration
-
-
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -932,19 +888,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Taispeáin san Fhillteán
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

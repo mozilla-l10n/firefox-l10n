@@ -15,9 +15,6 @@ newtab-settings-button =
 home-homepage-new-tabs =
     .label = Tab baru
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 # Variables:
@@ -62,9 +59,6 @@ newtab-topsites-image-url-label = URL Imej Penyesuaian
 newtab-topsites-use-image-link = Guna imej penyesuaian…
 newtab-topsites-image-validation = Imej gagal dimuatkan. Cuba URL lain.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Batal
@@ -78,12 +72,6 @@ newtab-topsites-add-button = Tambah
 newtab-confirm-delete-history-p1 = Adakah anda pasti mahu membuang setiap contoh halaman ini daripada sejarah anda?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tindakan ini tidak boleh dibatalkan.
-
-## Top Sites - Sponsored label
-
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -114,12 +102,6 @@ newtab-menu-delete-history = Buang daripada Sejarah
 newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Buang dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkib dalam { -pocket-brand-name }
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
 
 ##
 
@@ -170,9 +152,6 @@ newtab-section-menu-move-up = Pindah Atas
 newtab-section-menu-move-down = Pindah Bawah
 newtab-section-menu-privacy-notice = Notis Privasi
 
-## Section aria-labels
-
-
 ## Section Headers.
 
 newtab-section-header-topsites = Laman Teratas
@@ -188,9 +167,6 @@ newtab-empty-section-highlights = Mulakan melayar dan kami akan paparkan beberap
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Anda sudah di sini. Tapi sila datang lagi untuk mendapatkan lebih banyak berita hangat daripada { $provider }. Tidak boleh tunggu? Pilih topik untuk mendapatkannya dari serata dunia.
 
-## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
-
-
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -199,115 +175,8 @@ newtab-pocket-more-recommendations = Saranan Lain
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda suka dalam { -pocket-brand-name } dan jana minda dengan bahan bacaan yang menarik.
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Ooops, ada kesilapan memuatkan kandungan ini.
 newtab-error-fallback-refresh-link = Muat semula halaman untuk cuba lagi.
-
-## Customization Menu
-
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

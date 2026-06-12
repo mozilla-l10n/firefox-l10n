@@ -14,13 +14,6 @@ newtab-personalize-icon-label =
 newtab-personalize-dialog-label =
     .aria-label = ব্যক্তিগতকৰণ কৰক
 
-## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
-## Homepage panel
-
-
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
@@ -69,9 +62,6 @@ newtab-topsites-image-url-label = কাষ্টম ছবিৰ URL
 newtab-topsites-use-image-link = কাষ্টম ছবি ব্যৱহাৰ কৰক…
 newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল হ'ল। বেলেগ এটা URL পৰীক্ষা কৰক।
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = বাতিল কৰক
@@ -88,9 +78,6 @@ newtab-confirm-delete-history-p2 = এই কাৰ্য্য পিছত প
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = পৃষ্ঠপোষকতা কৰা
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -126,9 +113,6 @@ newtab-menu-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থও�
 newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা মচি পেলাওক
 newtab-menu-archive-pocket = { -pocket-brand-name }-ত আৰ্কাইভ কৰক
 newtab-menu-show-privacy-info = আমাৰ স্পঞ্চৰ আৰু আপোনাৰ গোপনিয়তা
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -203,9 +187,6 @@ newtab-section-header-recent-activity = শেহতীয়া কাৰ্যক
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰামৰ্শিত
 
-## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = আপুনি সকলো চালে!
@@ -219,12 +200,6 @@ newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এ�
 
 newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -251,101 +226,3 @@ newtab-custom-row-selector =
        *[other] { $num }টা শাৰী
     }
 newtab-custom-close-button = বন্ধ কৰক
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

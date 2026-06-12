@@ -647,9 +647,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Вимкнути захист спільного доступу для цього сеансу
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Для використання клавіші швидкого доступу F12 спершу відкрийте інструменти веброзробника через меню браузера.
@@ -1010,9 +1007,6 @@ urlbar-result-action-switch-to-tabgroup = Перемкнути на { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Відкрити { $group }
 
-## Used in the context menu in urlbar view.
-
-
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1221,10 +1215,6 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Поділитися
     .tooltiptext = Поділитися цією сторінкою
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1683,6 +1673,3 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> елементи стеження заблоковано на цьому сайті
        *[many] <span data-l10n-name="count">{ $count }</span> елементів стеження заблоковано на цьому сайті
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

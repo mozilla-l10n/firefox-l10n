@@ -604,9 +604,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = এই সেশনের জন্য শেয়ারিং সুরক্ষা অক্ষম করুন৷
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 শর্টকাট ব্যবহার করতে, প্রথমে ব্রাউজার টুলস মেনুর মাধ্যমে DevTools খুলুন।
@@ -757,9 +754,6 @@ urlbar-result-dismissal-acknowledgment-market = আপনার প্রতি�
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর এই পরামর্শগুলি দেখবেন না।
 
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-dropmarker =
@@ -808,9 +802,6 @@ urlbar-result-action-search-tabs = অনুসন্ধান ট্যাব
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = খুলুন { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -995,10 +986,6 @@ toolbar-button-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
     .tooltiptext = একটি নতুন ব্যক্তিগত ব্রাউজিং উইন্ডো খুলুন ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
@@ -1042,10 +1029,6 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = পিকচার-ইন-পিকচার টগল লুকান
     .accesskey = H
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -1113,21 +1096,6 @@ private-browsing-indicator-label = ব্যক্তিগত ব্রাউ�
 private-browsing-indicator-tooltip =
     .tooltiptext = ব্যক্তিগত ব্রাউজিং
 content-analysis-panel-title = তথ্য সুরক্ষা
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
 
 ## Private browsing reset button
 
@@ -1209,9 +1177,6 @@ trustpanel-clear-cookies-subview-button-cancel = বাতিল
 trustpanel-siteinformation-morelink = আরও সাইটের তথ্য
 trustpanel-blocker-see-all = সব দেখুন
 
-## The urlbar trust icon & panel
-
-
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1221,6 +1186,3 @@ trustpanel-list-label-tracking-content = ট্র্যাকিং কন্�
 trustpanel-tracking-content-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
 trustpanel-fingerprinter-list-header = এই সাইটগুলো আপনার ফিঙ্গারপ্রিন্ট নেওয়ার চেষ্টা করছে:
 trustpanel-cryptominer-tab-list-header = এই সাইটগুলো ক্রিপ্টো মাইনিং করার চেষ্টা করছে:
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

@@ -15,9 +15,6 @@ newtab-settings-button =
 home-homepage-new-tabs =
     .label = Xikua tsa'a
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 # Variables:
@@ -52,24 +49,12 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Chaa a chisti'in iin URL
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Kunchatu
 newtab-topsites-delete-history-button = Stoò ntii ña niya'a
 newtab-topsites-save-button = Chika vaà
 newtab-topsites-add-button = Chikaa
-
-## Top Sites - Delete history confirmation dialog.
-
-
-## Top Sites - Sponsored label
-
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -100,12 +85,6 @@ newtab-menu-delete-history = Stoò ntii ña ntsinu
 newtab-menu-save-to-pocket = Chika va'a nu { -pocket-brand-name }
 newtab-menu-delete-pocket = Stoo ña inka nu{ -pocket-brand-name }
 newtab-menu-archive-pocket = Chika va'a nu { -pocket-brand-name }
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
 
 ##
 
@@ -167,9 +146,6 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Sitios favoritos
 
-## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = kitsà tuku
@@ -180,114 +156,3 @@ newtab-discovery-empty-section-topstories-loading = Sachuin
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-cta-button = Nduku { -pocket-brand-name }
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
-## Error Fallback Content.
-## This message and suggested action link are shown in each section of UI that fails to render.
-
-
-## Customization Menu
-
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

@@ -561,9 +561,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ایں سیشن کیتے شیئرنگ تحفظ کوں غیر فعال کرو
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 شاٹ کٹ استعمال کرݨ کیتے، پہلے DevTools بذریعہ براؤزر ٹول مینیو کھولو۔
@@ -703,9 +700,6 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 urlbar-result-realtime-opt-in-dismiss = فارغ کرو
 
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -763,9 +757,6 @@ urlbar-result-action-search-bookmarks = نشانیاں ڳولو
 urlbar-result-action-search-history = تاریخ ڳولو
 urlbar-result-action-search-tabs = ٹیبز ڳولو
 urlbar-result-action-search-actions = ایکشن ڳولو
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -974,10 +965,6 @@ toolbar-button-new-private-window =
     .label = نویں نجی ونڈو
     .tooltiptext = ہک نویں نجی براؤزنگ ونڈو کھولو ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ایں سائٹ تے کجھ آڈیو یا وڈیو DRM سافٹ ویئر استعمال کریندیاں ہن جیندی وجہ توں جیڑھا { -brand-short-name } ایندے نال تہاکوں کرݨ ݙیسے، ایندے اُتے کجھ حداں ہوسن۔
@@ -1073,9 +1060,6 @@ tabs-toolbar-list-all-tabs =
     .label = تمام ٹیبز دی تندیر بݨاؤ
     .tooltiptext = تمام ٹیبز دی تندیر بݨاؤ
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1127,10 +1111,6 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
 
 ## Private browsing reset button
 
@@ -1223,20 +1203,7 @@ file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
 
-## Onboarding Finish Setup checklist
-
-
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-clear = صاف کرو
 trustpanel-clear-cookies-subview-button-cancel = منسوخ
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

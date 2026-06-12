@@ -1157,9 +1157,6 @@ newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-
 newtab-sports-widget-match-full-time = Finalizado
 newtab-sports-widget-match-penalties = Penalties
 
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:

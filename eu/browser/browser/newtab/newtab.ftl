@@ -1172,9 +1172,6 @@ newtab-sports-widget-match-halftime = Atsedenaldia
 newtab-sports-widget-match-extra-time = Luzapena
 newtab-sports-widget-match-penalties = Penaltiak
 
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:

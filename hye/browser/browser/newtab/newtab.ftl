@@ -20,9 +20,6 @@ newtab-personalize-dialog-label =
 home-homepage-new-tabs =
     .label = Նոր Ներդիրներ
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 # Variables:
@@ -105,9 +102,6 @@ newtab-topsites-image-url-label = Հարմարեցուած նկարի URL
 newtab-topsites-use-image-link = Աւգտագործել հարմարեցուած նկար…
 newtab-topsites-image-validation = Նկարը չհաջողուեց բեռնել։ Փորձեք այլ URL։
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Չեղարկել
@@ -125,9 +119,6 @@ newtab-confirm-delete-history-p2 = Այս գործողութիւնը չի կար
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Հովանաւորուում է
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -163,9 +154,6 @@ newtab-menu-save-to-pocket = Պահպանել { -pocket-brand-name }-ում
 newtab-menu-delete-pocket = Ջնջել { -pocket-brand-name }-ից
 newtab-menu-archive-pocket = Արխիւացնել { -pocket-brand-name }-ում
 newtab-menu-show-privacy-info = Մեր հովանաւորները եւ Ձեր գաղտնիութիւնը
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -281,12 +269,6 @@ newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } պատկանում է { -brand-product-name } ընտանիքին
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -327,101 +309,3 @@ newtab-custom-recent-title = Վերջին գործողութիւնը
 newtab-custom-recent-subtitle = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորումներ
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

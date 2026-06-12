@@ -638,9 +638,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Slökkva á deilivörn fyrir þessa lotu
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Til að nota F12 flýtileiðina skaltu fyrst opna DevTools í gegnum valmyndina fyrir vafraverkfærin.
@@ -989,9 +986,6 @@ urlbar-result-action-switch-to-tabgroup = Skipta yfir í { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Opna { $group }
 
-## Used in the context menu in urlbar view.
-
-
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1197,10 +1191,6 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nýr huliðsgluggi
     .tooltiptext = Opna nýjan glugga í huliðsstillingu ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1633,6 +1623,3 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } leyfði { $count } rafmyntagrafara
     }
 trustpanel-cryptominer-tab-list-header = Þessi vefsvæði eru að reyna að grafa eftir rafmyntum hjá þér:
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

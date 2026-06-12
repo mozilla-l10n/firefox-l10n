@@ -1171,9 +1171,6 @@ newtab-sports-widget-match-halftime = Jepytu’u
 newtab-sports-widget-match-extra-time = Aravo’i juapyvegua
 newtab-sports-widget-match-penalties = Penal jechuta
 
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:
