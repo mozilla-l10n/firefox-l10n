@@ -37,6 +37,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Atallos patrocinados
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Historias patrocinadas
 home-prefs-highlights-option-visited-pages-srd =
