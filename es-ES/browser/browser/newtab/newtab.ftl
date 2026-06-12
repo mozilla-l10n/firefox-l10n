@@ -42,6 +42,34 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Buscar
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Deportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Reloj
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Historias patrocinadas
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Páginas visitadas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcadores
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Descargas más recientes
+home-prefs-recent-activity-header-srd =
+    .label = Actividad reciente
+home-prefs-recent-activity-select =
+    .aria-label = Actividad reciente
+home-prefs-weather-header-srd =
+    .label = El tiempo
 
 ## Search box component.
 
