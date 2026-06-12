@@ -49,6 +49,12 @@ home-mode-choice-blank-srd =
     .label = หน้าว่าง
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = เรื่องราวที่ได้รับการสนับสนุน
+home-prefs-highlights-option-visited-pages-srd =
+    .label = หน้าที่เยี่ยมชมแล้ว
+home-prefs-highlights-options-bookmarks-srd =
+    .label = ที่คั่นหน้า
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = การดาวน์โหลดล่าสุด
 
 ## Search box component.
 
