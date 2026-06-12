@@ -34,12 +34,57 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Startside
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Kies in spesifike website
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listen
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klok
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (standert)
+home-mode-choice-custom-srd =
+    .label = Oanpaste URL’s
+home-mode-choice-blank-srd =
+    .label = Lege side
+home-prefs-shortcuts-header-srd =
+    .label = Fluchkeppelingen
+home-prefs-shortcuts-select =
+    .aria-label = Fluchkeppelingen
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsore fluchkeppelingen
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsore ferhalen
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Besochte siden
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Blêdwizers
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Meast resinte download
+home-prefs-recent-activity-header-srd =
+    .label = Resinte aktiviteit
+home-prefs-recent-activity-select =
+    .aria-label = Resinte aktiviteit
+home-prefs-weather-header-srd =
+    .label = It waar
 
 ## Search box component.
 
