@@ -24,6 +24,8 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Jaunas cilnes
 
 ## Custom URLs subpage
 
@@ -39,6 +41,15 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } rinda
            *[other] { $num } rindas
         }
+home-restore-defaults-srd =
+    .label = Atjaunot noklusējumus
+    .accesskey = n
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (noklusējuma)
+home-mode-choice-custom-srd =
+    .label = Pielāgotas adreses...
+home-mode-choice-blank-srd =
+    .label = Tukša lapa
 home-prefs-shortcuts-header-srd =
     .label = Saīsnes
 home-prefs-shortcuts-select =
