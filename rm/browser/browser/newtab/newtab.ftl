@@ -37,6 +37,8 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Tschertgar
 
 ## Search box component.
 
