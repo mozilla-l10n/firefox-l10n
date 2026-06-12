@@ -36,6 +36,8 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Početna stranica
+home-homepage-new-windows =
+    .label = Novi prozori
 home-homepage-new-tabs =
     .label = Nove kartice
 # This option leads to the "Custom Homepage" subpage
