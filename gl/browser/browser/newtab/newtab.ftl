@@ -37,6 +37,23 @@ newtab-logo-and-wordmark =
 
 ## Firefox Home content
 
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Historias patrocinadas
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Páxinas visitadas
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marcadores
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = A descarga máis recente
+home-prefs-recent-activity-header-srd =
+    .label = Actividade recente
+home-prefs-recent-activity-select =
+    .aria-label = Actividade recente
+home-prefs-weather-header-srd =
+    .label = Tempo
+home-prefs-support-firefox-header-srd =
+    .label = Apoiar a { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descubre como
 
 ## Search box component.
 
