@@ -31,6 +31,16 @@ newtab-card-dismiss-button =
     .title = 閉じる
     .aria-label = 閉じる
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -748,8 +758,6 @@ newtab-widget-lists-button-add-item = アイテムを追加
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = アイテムを追加します
     .aria-label = アイテムを追加
-newtab-widget-lists-input-add-an-item =
-    .placeholder = アイテムを追加します
 newtab-widget-lists-input-error = 追加するアイテムにテキストを含めてください
 newtab-widget-lists-input-menu-open-link = リンクを開く
 newtab-widget-lists-input-menu-move-up = 上へ移動
@@ -777,11 +785,6 @@ newtab-widget-lists-name-placeholder-checklist2 =
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = 新しいリスト
     .aria-label = リスト名を編集
-newtab-widget-lists-name-placeholder-checklist =
-    .placeholder = チェックリスト
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-name-placeholder-new =
-    .placeholder = 新しいリスト
 newtab-widget-section-title = ウィジェット
 newtab-widget-menu-hide = ウィジェットを隠す
 newtab-widget-menu-change-size = サイズを変更
