@@ -33,6 +33,8 @@ home-prefs-shortcuts-select =
     .aria-label = Otseteed
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsitud otseteed
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsitud postitused
 
 ## Search box component.
 
