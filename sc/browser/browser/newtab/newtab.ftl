@@ -59,6 +59,19 @@ home-custom-homepage-replace-with-prompt =
 
 home-prefs-firefox-logo-header =
     .label = logo de { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } rigas
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Estensione ({ $extension })
 home-restore-defaults-srd =
     .label = Recùpera valores predefinidos
     .accesskey = R
