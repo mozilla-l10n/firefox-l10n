@@ -44,6 +44,8 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsored shortcuts
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsored stories
 
 ## Search box component.
 
