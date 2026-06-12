@@ -15,6 +15,8 @@ newtab-personalize-icon-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Llingüetes nueves
 
 ## Custom URLs subpage
 
@@ -29,6 +31,11 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } filera
            *[other] { $num } fileres
         }
+home-restore-defaults-srd =
+    .label = Reafitar
+    .accesskey = R
+home-mode-choice-custom-srd =
+    .label = URLs personalizaes...
 home-mode-choice-blank-srd =
     .label = Páxina balera
 home-prefs-shortcuts-header-srd =
