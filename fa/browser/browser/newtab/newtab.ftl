@@ -32,6 +32,10 @@ newtab-logo-and-wordmark =
 
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = میانبرهایی از حامیان مالی
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = محتوایی از حامیان مالی
+home-prefs-highlights-option-visited-pages-srd =
+    .label = صفحات بازدید شده
 
 ## Search box component.
 
