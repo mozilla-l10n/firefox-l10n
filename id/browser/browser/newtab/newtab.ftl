@@ -41,6 +41,21 @@ home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Pintasan bersponsor
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Konten Sponsor
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Laman yang Dikunjungi
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Markah
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Unduhan Terbaru
+home-prefs-recent-activity-header-srd =
+    .label = Aktivitas terbaru
+home-prefs-recent-activity-select =
+    .aria-label = Aktivitas terbaru
+home-prefs-weather-header-srd =
+    .label = Cuaca
+home-prefs-support-firefox-header-srd =
+    .label = Dukung { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Cari tahu bagaimana
 
 ## Search box component.
 
