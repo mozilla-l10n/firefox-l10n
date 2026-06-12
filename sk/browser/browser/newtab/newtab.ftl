@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Domovská stránka
+home-homepage-new-windows =
+    .label = Nové okná
+home-homepage-new-tabs =
+    .label = Nové karty
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Vyberte konkrétnu stránku
@@ -55,6 +59,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Vyhľadávanie
+home-prefs-stories-header2 =
+    .label = Príbehy
+    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 home-prefs-widgets-header =
     .label = Miniaplikácie
 # Lists is a widget on New Tab, similar to a to-do widget
