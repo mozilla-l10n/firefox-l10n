@@ -34,12 +34,49 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Startowy bok
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wubjeŕśo wěste sedło
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Asistenty
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lisćiny
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Měritko casa
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (standard)
+home-mode-choice-custom-srd =
+    .label = Swójske URL…
+home-mode-choice-blank-srd =
+    .label = Prozny bok
+home-prefs-shortcuts-header-srd =
+    .label = Zwězanja
+home-prefs-shortcuts-select =
+    .aria-label = Zwězanja
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponserowane zwězanja
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Woglědane boki
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Cytańske znamjenja
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Nejnowše ześěgnjenje
+home-prefs-recent-activity-header-srd =
+    .label = Nejnowša aktiwita
+home-prefs-recent-activity-select =
+    .aria-label = Nejnowša aktiwita
+home-prefs-weather-header-srd =
+    .label = Wjedro
 
 ## Search box component.
 
