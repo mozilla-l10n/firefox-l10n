@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = 首頁
+home-homepage-new-windows =
+    .label = 新視窗
+home-homepage-new-tabs =
+    .label = 新分頁
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 選擇特定網站
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = 搜尋
+home-prefs-stories-header2 =
+    .label = 文章
+    .description = 由 { -brand-product-name } 產品家族精選的內容文章
 home-prefs-widgets-header =
     .label = 小工具
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -97,6 +104,9 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } 行
            *[other] { $num } 行
         }
+home-restore-defaults-srd =
+    .label = 回復為預設值
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name }（預設）
 home-mode-choice-custom-srd =
@@ -109,6 +119,8 @@ home-prefs-shortcuts-select =
     .aria-label = 捷徑
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = 贊助捷徑
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = 贊助內容
 home-prefs-highlights-option-visited-pages-srd =
     .label = 造訪過的頁面
 home-prefs-highlights-options-bookmarks-srd =
