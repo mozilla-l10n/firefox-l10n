@@ -74,6 +74,16 @@ home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Спонсоровані ярлики
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Матеріали від спонсорів
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Відвідані сторінки
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Закладки
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Останні завантаження
+home-prefs-recent-activity-header-srd =
+    .label = Нещодавня активність
+home-prefs-recent-activity-select =
+    .aria-label = Нещодавня активність
 home-prefs-weather-header-srd =
     .label = Погода
 
