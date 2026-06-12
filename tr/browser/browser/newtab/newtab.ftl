@@ -42,6 +42,12 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Arama
+home-prefs-shortcuts-header-srd =
+    .label = Kısayollar
+home-prefs-shortcuts-select =
+    .aria-label = Kısayollar
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsorlu kısayollar
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponsorlu haberler
 home-prefs-highlights-option-visited-pages-srd =
