@@ -42,9 +42,53 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = 주소 삭제
+    .title = 주소 삭제
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 대체:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = 현재 열려있는 페이지
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = 북마크…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = 검색
+home-prefs-widgets-header =
+    .label = 위젯
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = 목록
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = 타이머
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = 스포츠
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = 시계
+home-prefs-mission-message2 =
+    .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
+home-prefs-manage-topics-link2 =
+    .label = 주제 관리
+home-prefs-choose-wallpaper-link2 =
+    .label = 배경 화면 선택
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } 로고
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = 이 기능을 사용하려면, 새 탭이나 새 창을 { -firefox-home-brand-name }으로 설정하세요.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (기본값)
 home-mode-choice-custom-srd =
@@ -71,6 +115,9 @@ home-prefs-recent-activity-select =
     .aria-label = 최근 활동
 home-prefs-weather-header-srd =
     .label = 날씨
+home-prefs-support-firefox-header-srd =
+    .label = { -brand-product-name } 지원
+home-prefs-mission-message-learn-more-link-srd = 방법 알아보기
 
 ## Search box component.
 
