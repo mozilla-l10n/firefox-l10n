@@ -52,6 +52,18 @@ home-prefs-lists-header =
 home-restore-defaults-srd =
     .label = Obnovi standardne postavke
     .accesskey = O
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponzorirane priče
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Posjećene stranice
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Zabilješke
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Najnovije preuzimanje
+home-prefs-recent-activity-header-srd =
+    .label = Nedavna aktivnost
+home-prefs-recent-activity-select =
+    .aria-label = Nedavna aktivnost
 
 ## Search box component.
 
