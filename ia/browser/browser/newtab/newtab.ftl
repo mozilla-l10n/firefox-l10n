@@ -40,6 +40,14 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (predefinite)
+home-mode-choice-custom-srd =
+    .label = URLs personalisate...
+home-mode-choice-blank-srd =
+    .label = Pagina vacue
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Paginas visitate
 home-prefs-highlights-options-bookmarks-srd =
     .label = Marcapaginas
 home-prefs-highlights-option-most-recent-download-srd =
@@ -48,6 +56,8 @@ home-prefs-recent-activity-header-srd =
     .label = Recente activitate
 home-prefs-recent-activity-select =
     .aria-label = Recente activitate
+home-prefs-weather-header-srd =
+    .label = Meteo
 
 ## Search box component.
 
