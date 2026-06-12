@@ -42,6 +42,30 @@ newtab-card-dismiss-button =
 
 home-prefs-search-header2 =
     .label = Αναζήτηση
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Προεπιλογή)
+home-mode-choice-custom-srd =
+    .label = Προσαρμοσμένα URL…
+home-mode-choice-blank-srd =
+    .label = Κενή σελίδα
+home-prefs-shortcuts-header-srd =
+    .label = Συντομεύσεις
+home-prefs-shortcuts-select =
+    .aria-label = Συντομεύσεις
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Χορηγούμενες συντομεύσεις
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Σελίδες που έχετε επισκεφθεί
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Σελιδοδείκτες
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Πιο πρόσφατες λήψεις
+home-prefs-recent-activity-header-srd =
+    .label = Πρόσφατη δραστηριότητα
+home-prefs-recent-activity-select =
+    .aria-label = Πρόσφατη δραστηριότητα
+home-prefs-weather-header-srd =
+    .label = Καιρός
 
 ## Search box component.
 
