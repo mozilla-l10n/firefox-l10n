@@ -36,12 +36,30 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Pagjine iniziâl
+home-homepage-new-windows =
+    .label = Gnûfs barcons
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Sielç un sît specific
 
 ## Custom URLs subpage
 
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nol è stât zontât ancjemò nissun sît.
+home-custom-homepage-delete-address-button =
+    .aria-label = Elimine la direzion
+    .title = Elimine la direzion
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Sostituìs cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pagjinis viertis in chest moment
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Segnelibris…
 
 ## Firefox Home content
 
@@ -49,6 +67,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Ricercje
+home-prefs-stories-header2 =
+    .label = Storiis
+    .description = Contignûts ecezionâi curâts de famee di prodots { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -69,6 +90,8 @@ home-prefs-manage-topics-link2 =
     .label = Gjestìs argoments
 home-prefs-choose-wallpaper-link2 =
     .label = Sielç un fonts
+home-prefs-firefox-logo-header =
+    .label = Logo di { -brand-short-name }
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
