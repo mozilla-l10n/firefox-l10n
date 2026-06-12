@@ -1307,6 +1307,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = E
 
 panel-save-update-username = Felhasználónév
 panel-save-update-password = Jelszó
+panel-save-update-username-2 =
+    .label = Felhasználónév
+panel-save-update-password-2 =
+    .label = Jelszó
 
 ##
 
