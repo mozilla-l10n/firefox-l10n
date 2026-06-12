@@ -41,6 +41,19 @@ home-homepage-new-tabs =
 
 home-prefs-firefox-logo-header =
     .label = Logotipo de { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } filas
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensión ({ $extension })
 home-restore-defaults-srd =
     .label = Restaurar a configuración predeterminada
     .accesskey = R
