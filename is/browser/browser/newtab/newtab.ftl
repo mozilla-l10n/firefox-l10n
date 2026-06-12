@@ -46,6 +46,8 @@ home-prefs-shortcuts-select =
     .aria-label = Flýtileiðir
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Kostaðar flýtileiðir
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Kostaðar sögur
 
 ## Search box component.
 
