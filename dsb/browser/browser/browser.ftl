@@ -1321,6 +1321,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 panel-save-update-username = Wužywaŕske mě
 panel-save-update-password = Gronidło
+panel-save-update-username-2 =
+    .label = Wužywaŕske mě
+panel-save-update-password-2 =
+    .label = Gronidło
 
 ##
 
