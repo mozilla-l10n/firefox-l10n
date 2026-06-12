@@ -1258,8 +1258,11 @@ containers-remove-button =
     .label = เอาออก
 containers-section-header2 =
     .heading = การตั้งค่าที่แยกข้อมูล
+containers-card-header2 =
+    .label = ที่แยกข้อมูล
+    .description = แยกคุกกี้ด้วยที่แยกข้อมูลเพื่อให้คุณสามารถใช้บัญชีต่าง ๆ บนไซต์เดียวกันและจำกัดการติดตามข้ามไซต์ได้
 containers-add-button2 =
-    .label = เพิ่มการแยกข้อมูลใหม่
+    .label = เพิ่มที่แยกข้อมูลใหม่
     .accesskey = พ
 
 ## Account and sync

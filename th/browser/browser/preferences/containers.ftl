@@ -90,10 +90,10 @@ containers-icon-tree =
 containers-icon-chill =
     .label = ผ่อนคลาย
 containers-window-new3 =
-    .title = เพิ่มการแยกข้อมูลใหม่
+    .title = เพิ่มที่แยกข้อมูลใหม่
     .style = min-width: 32em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = การตั้งค่าการแยกข้อมูล { $name }
+    .title = การตั้งค่าที่แยกข้อมูล { $name }
     .style = min-width: 32em
