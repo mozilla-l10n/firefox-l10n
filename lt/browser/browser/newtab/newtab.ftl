@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Naujos kortelės
 
 ## Custom URLs subpage
 
@@ -32,6 +34,15 @@ home-prefs-sections-rows-option-srd =
             [few] { $num } eilutės
            *[other] { $num } eilučių
         }
+home-restore-defaults-srd =
+    .label = Atstatyti numatytąsias
+    .accesskey = A
+home-mode-choice-default-fx-srd =
+    .label = „{ -firefox-home-brand-name }“ (numatytasis)
+home-mode-choice-custom-srd =
+    .label = Kiti URL…
+home-mode-choice-blank-srd =
+    .label = Tuščias puslapis
 home-prefs-shortcuts-header-srd =
     .label = Leistukai
 home-prefs-shortcuts-select =
