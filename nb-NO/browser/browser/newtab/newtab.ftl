@@ -42,9 +42,29 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ingen nettsteder lagt til ennå.
+home-custom-homepage-delete-address-button =
+    .aria-label = Slett adresse
+    .title = Slett adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Erstatt med
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Gjeldende åpnede sider
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bokmerker…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Søk
 home-prefs-widgets-header =
     .label = Widgeter
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -63,6 +83,15 @@ home-prefs-mission-message2 =
     .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link2 =
     .label = Behandle emner
+home-prefs-choose-wallpaper-link2 =
+    .label = Velg et bakgrunnsbilde
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = For å bruke disse funksjonene må du sette nye faner eller nye vinduer til { -firefox-home-brand-name }.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standard)
 home-mode-choice-custom-srd =
