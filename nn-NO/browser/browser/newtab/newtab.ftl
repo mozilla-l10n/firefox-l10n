@@ -34,14 +34,34 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Startside
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Vel ein bestemt nettstad
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Slett adresse
+    .title = Slett adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Erstatt med:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Gjeldande opna sider
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bokmerke…
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Søk
 home-prefs-widgets-header =
     .label = Widgetar
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -56,6 +76,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Klokke
+home-prefs-mission-message2 =
+    .message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett.
+home-prefs-manage-topics-link2 =
+    .label = Handsam emne
+home-prefs-choose-wallpaper-link2 =
+    .label = Vel eit bakgrunnsbilde
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name }-logo
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = For å bruke desse funksjonane må du stille inn nye faner eller nye vindauge til { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -79,6 +112,8 @@ home-prefs-shortcuts-select =
     .aria-label = Snarvegar
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Sponsa snarvegar
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Sponsa historiar
 home-prefs-highlights-option-visited-pages-srd =
     .label = Besøkte sider
 home-prefs-highlights-options-bookmarks-srd =
@@ -93,6 +128,7 @@ home-prefs-weather-header-srd =
     .label = Vêr
 home-prefs-support-firefox-header-srd =
     .label = Støtt { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Finn ut korleis
 
 ## Search box component.
 
