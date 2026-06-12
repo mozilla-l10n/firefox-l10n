@@ -36,14 +36,59 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Kuatiarogue ñepyrũha
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Eiporavo peteĩ tendaite
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Embogue kundaharape
+    .title = Embogue kundaharape
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Emyengovia kóvandi
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Kuatiarogue ijurujavahína
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Techaukahaita…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Heka
+home-prefs-widgets-header =
+    .label = Widgets
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Tysyieta
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Aravojere
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Jehugarã
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Aravopapaha
+home-prefs-mission-message2 =
+    .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
+home-prefs-manage-topics-link2 =
+    .label = Eñangareko témare
+home-prefs-choose-wallpaper-link2 =
+    .label = Eiporavo mba’erechaha rugua
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } ra’ãnga’i
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Eiporu hag̃ua ko’ã tembiapoite, emboheko tendayke térã ovetã pyahu { -firefox-home-brand-name } ndive.
 home-restore-defaults-srd =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
@@ -73,6 +118,9 @@ home-prefs-recent-activity-select =
     .aria-label = Tembiapo ramovegua
 home-prefs-weather-header-srd =
     .label = Arapytu
+home-prefs-support-firefox-header-srd =
+    .label = Eipytyvõ { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Eikuaa mba’éichapa
 
 ## Search box component.
 
