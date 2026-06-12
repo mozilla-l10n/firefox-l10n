@@ -34,6 +34,12 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = ホームページ
+home-homepage-new-windows =
+    .label = 新規ウインドウ
+home-homepage-new-tabs =
+    .label = 新規タブ
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 特定のサイトを選択
@@ -60,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = 検索
+home-prefs-stories-header2 =
+    .label = ストーリー
+    .description = { -brand-product-name } ファミリーに選ばれた優良コンテンツ
 home-prefs-widgets-header =
     .label = ウィジェット
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -87,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = これらの機能を使用するには、新規タブまたは新規ウインドウを { -firefox-home-brand-name } に設定してください。
+home-restore-defaults-srd =
+    .label = デフォルトに戻す
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (デフォルト)
 home-mode-choice-custom-srd =
