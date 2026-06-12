@@ -30,6 +30,10 @@ home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = স্পন্সর করা স্টোরি
 home-prefs-highlights-option-visited-pages-srd =
     .label = ঘুরে আসা পেজ
+home-prefs-highlights-options-bookmarks-srd =
+    .label = বুকমার্ক
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = সর্বশেষ ডাউনলোড
 
 ## Search box component.
 
