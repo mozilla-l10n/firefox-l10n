@@ -38,6 +38,8 @@ home-homepage-title =
     .label = Página inicial
 home-homepage-new-windows =
     .label = Novas janelas
+home-homepage-new-tabs =
+    .label = Novos separadores
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Escolha um site específico
@@ -87,6 +89,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Para utilizar estas funcionalidades, defina os novos separadores ou as novas janelas para o { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Restaurar predefinições
+    .accesskey = R
 home-mode-choice-default-fx-srd =
     .label = (Padrão) { -firefox-home-brand-name }
 home-mode-choice-custom-srd =
