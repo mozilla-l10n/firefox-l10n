@@ -40,6 +40,10 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsored shortcuts
 
 ## Search box component.
 
