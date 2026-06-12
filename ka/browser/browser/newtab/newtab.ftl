@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = საწყისი გვერდი
+home-homepage-new-windows =
+    .label = ახალი ფანჯრები
+home-homepage-new-tabs =
+    .label = ახალი ჩანართები
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = აირჩიეთ ცალკეული საიტი
@@ -55,6 +59,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = ძიება
+home-prefs-stories-header2 =
+    .label = ამბები
+    .description = გამორჩეული მასალები, რომელთაც გთავაზობთ { -brand-product-name }-ოჯახი
 home-prefs-widgets-header =
     .label = ჩანამატები
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -82,6 +89,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = ამ შესაძლებლობებით სარგებლობისთვის მომართეთ { -firefox-home-brand-name } ახალი ჩანართებითა და ფანჯრებით.
+home-restore-defaults-srd =
+    .label = ნაგულისხმევის აღდგენა
+    .accesskey = ნ
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (ნაგულისხმევი)
 home-mode-choice-custom-srd =
