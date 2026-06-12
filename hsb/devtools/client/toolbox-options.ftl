@@ -123,6 +123,8 @@ options-local-mode-only-work-locally = Lokalny modus lokalnje funguje a znjemó�
 options-local-mode-domain-label = Swójska domena:
 options-local-mode-origin-input =
     .placeholder = Pochad za lokalne přirjadowanje
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Tutón pochad je w konflikće z druhim eksistowacym přirjadowanjom
 options-local-mode-origin-invalid = Tutón pochad je njepłaćiwy
 options-local-mode-folder-label = Lokalny rjadowak:
 options-local-mode-choose-folder = Přepytać…
@@ -134,8 +136,17 @@ options-local-mode-choose-folder-picker-title = Rjadowak lokalneho modusa wubra�
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Tutón rjadowak njeeksistuje abo je njepłaćiwy.
+options-local-mode-toggle =
+    .title = Tute lokalne přirjadowanje přepinać
 options-local-mode-toggle-enable = Zmóžnić
 options-local-mode-toggle-disable = Znjemóžnić
+options-local-mode-navigate-to =
+    .title = K URL přirjadowanja nawigěrować
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Chceće přirjadowanje “{ $mappingOrigin }” wotstronić?
+options-local-mode-new-mapping = Nowe lokalne přirjadowanje přidać
 
 ## Advanced section
 
