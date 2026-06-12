@@ -12,12 +12,19 @@ newtab-settings-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Dirica matino manyen
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-restore-defaults-srd =
+    .label = Dwok makwongo
+    .accesskey = D
+home-mode-choice-blank-srd =
+    .label = Potbuk ma nono
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Lok ma kicwako
 home-prefs-highlights-option-visited-pages-srd =
