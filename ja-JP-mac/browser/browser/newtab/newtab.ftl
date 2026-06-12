@@ -40,11 +40,26 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = アドレスを削除
+    .title = アドレスを削除します
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 置き換え:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = 現在開いているページ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = ブックマーク...
 
 ## Firefox Home content
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = 検索
 home-prefs-widgets-header =
     .label = ウィジェット
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -59,6 +74,19 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 時計
+home-prefs-mission-message2 =
+    .message = スポンサーは、より良いウェブを構築するという私たちの使命を支援しています。
+home-prefs-manage-topics-link2 =
+    .label = トピックを管理
+home-prefs-choose-wallpaper-link2 =
+    .label = 壁紙を選択
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } ロゴ
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = これらの機能を使用するには、新規タブまたは新規ウインドウを { -firefox-home-brand-name } に設定してください。
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (デフォルト)
 home-mode-choice-custom-srd =
@@ -87,6 +115,7 @@ home-prefs-weather-header-srd =
     .label = 天気予報
 home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name } を支援
+home-prefs-mission-message-learn-more-link-srd = 支援の詳細情報
 
 ## Search box component.
 
