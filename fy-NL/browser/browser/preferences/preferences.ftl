@@ -1272,6 +1272,22 @@ containers-settings-button =
     .label = Ynstellingen
 containers-remove-button =
     .label = Fuortsmite
+containers-section-header2 =
+    .heading = Kontenerynstellingen
+containers-card-header2 =
+    .label = Konteners
+    .description = Cookies per kontener skiede, sadat jo ferskate accounts op deselde website brûke kinne en cross-sitetracking beheine kinne.
+containers-add-button2 =
+    .label = Nije kontener tafoegje
+    .accesskey = f
+containers-new-tab-check2 =
+    .label = Selektearje in kontener foar elk nij ljepblêd
+    .accesskey = S
+    .description = Dit iepenet it kontenermenu hieltyd as jo op de knop om in nij ljepblêd te iepenjen drukke.
+containers-settings-button2 =
+    .title = Ynstellingen
+containers-remove-button2 =
+    .title = Fuortsmite
 
 ## Account and sync
 
@@ -1279,6 +1295,9 @@ sync-group-label =
     .label = Syngronisaasje
 account-group-label2 =
     .label = Account
+account-disabled-group =
+    .label = Account
+    .description = Accountynstellingen binne net beskikber.
 account-placeholder2 =
     .label = Jo binne net oanmeld
     .description = Meld jo oan en hâld jo gegevens privee, fersifere en daliks tagonklik, oeral wêr’t jo { -brand-short-name } brûke.

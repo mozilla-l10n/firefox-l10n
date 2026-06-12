@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Lêst sletten finster opnij iepenje
 customkeys-sidebar-toggle = Sidebalke yn-/útskeakelje
 customkeys-view-bookmarks-toolbar = Blêdwizerarkbalke yn-/útskeakelje
 customkeys-view-picture-in-picture = Picture-in-Picture
+customkeys-view-add-split-view = Splitste werjefte tafoegje
+# Separate is a verb
+customkeys-view-separate-split-view = Splitste werjefte ôfsûnderje
 customkeys-dev-tools = Webûntwikkelersark
 customkeys-dev-inspector = DOM- en stylkontrôle
 customkeys-dev-webconsole = Webkonsole

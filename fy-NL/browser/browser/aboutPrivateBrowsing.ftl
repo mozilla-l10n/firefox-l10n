@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = In protte cookiebanners wurde
 about-private-browsing-felt-privacy-v1-info-header = Lit gjin spoaren efter op dit apparaat
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } wisket jo cookies, skiednis en websitegegevens as jo al jo priveefinsters slute.
 about-private-browsing-felt-privacy-v1-info-link = Wa kin myn aktiviteit sjen?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Troch al jo priveefinsters te sluten, wurde jo cookies, skiednis en websitegegevens fuortsmiten.

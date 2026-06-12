@@ -461,3 +461,11 @@ relay-50-masks-announcement-primary-button = Nei { -relay-brand-name }
     .accesskey = N
 relay-50-masks-announcement-secondary-button = Slute
     .accesskey = S
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } krijt in nij úterlik.</strong> Jo besjogge in betide, net-polyste ferzje foarôfgeand oan de lansearring letter dit jier.
+nova-early-access-share-feedback-link = Kommentaar diele
+    .accesskey = K
+nova-early-access-infobar-primary-button = Begrepen
+    .accesskey = g

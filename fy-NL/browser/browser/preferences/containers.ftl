@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Namme
+    .placeholder = Foegje in namme ta
+containers-icon-label2 =
+    .label = Piktogram
+containers-color-label2 =
+    .label = Kleur
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Beam
 containers-icon-chill =
     .label = Ferdivedaasje
+containers-window-new3 =
+    .title = Nije kontener tafoegje
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Ynstellingen fan kontener { $name }
+    .style = min-width: 32em

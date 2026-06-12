@@ -115,6 +115,12 @@ options-sourceeditor-tabsize-label = Ljepgrutte
 options-sourceeditor-keybinding-label = Fluchtoetsen
 options-sourceeditor-keybinding-default-label = Standert
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokale modus
+options-local-mode-only-work-locally = Lokale modus wurket allinnich lokaal en is útskeakele by it debuggen fan eksterne konteksten
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
