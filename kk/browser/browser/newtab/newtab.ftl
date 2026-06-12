@@ -40,6 +40,32 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-stories-header2 =
+    .label = Хикаялар
+    .description = { -brand-product-name } отбасының таңдауы бойынша ұсынылған ерекше мазмұн
+home-prefs-widgets-header =
+    .label = Виджеттер
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Тізімдер
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Үнсіз келісім бойынша)
+home-mode-choice-custom-srd =
+    .label = Таңдауыңызша URL адрестері…
+home-mode-choice-blank-srd =
+    .label = Бос бет
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Демеушілік жарлықтары
+home-prefs-weather-header-srd =
+    .label = Ауа райы
 
 ## Search box component.
 
