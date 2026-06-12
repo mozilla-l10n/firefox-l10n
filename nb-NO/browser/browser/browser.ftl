@@ -1304,6 +1304,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 panel-save-update-username = Brukernavn
 panel-save-update-password = Passord
+panel-save-update-username-2 =
+    .label = Brukernavn
+panel-save-update-password-2 =
+    .label = Passord
 
 ##
 
