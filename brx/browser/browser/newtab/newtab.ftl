@@ -16,8 +16,14 @@ newtab-page-title = गोदान टेब
 
 ## Firefox Home content
 
+home-mode-choice-custom-srd =
+    .label = कास्टम URLs...
 home-prefs-highlights-option-visited-pages-srd =
     .label = थांखांनाय पेजफोर
+home-prefs-highlights-options-bookmarks-srd =
+    .label = बुकमाकॅफोर
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = दानिवौसो डाउनल'ड खालामनाया
 
 ## Search box component.
 
