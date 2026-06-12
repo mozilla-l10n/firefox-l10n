@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Reabrir última ventana cerrada
 customkeys-sidebar-toggle = Barra lateral
 customkeys-view-bookmarks-toolbar = Alternar barra de marcadores
 customkeys-view-picture-in-picture = Picture-in-Picture
+customkeys-view-add-split-view = Añadir vista dividida
+# Separate is a verb
+customkeys-view-separate-split-view = Separar vista dividida
 customkeys-dev-tools = Herramientas de desarrollador web
 customkeys-dev-inspector = Inspector DOM y de estilo
 customkeys-dev-webconsole = Consola web

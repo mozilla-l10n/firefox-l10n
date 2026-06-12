@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Ahora rechazamos automáticam
 about-private-browsing-felt-privacy-v1-info-header = No dejes rastros en este dispositivo
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } elimina tus cookies, historial y datos del sitio cuando cierras todas tus ventanas privadas.
 about-private-browsing-felt-privacy-v1-info-link = ¿Quién podría ver mi actividad?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Cerrar todas las ventanas privadas elimina las cookies, el historial y los datos del sitio.
