@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Hasiera-orria
+home-homepage-new-windows =
+    .label = Leiho berriak
+home-homepage-new-tabs =
+    .label = Fitxa berriak
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Aukeratu gune zehatza
@@ -92,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Eginbide hauek erabiltzeko, ezarri fitxa edo leiho berriak '{ -firefox-home-brand-name }' aukerara.
+home-restore-defaults-srd =
+    .label = Berrezarri lehenetsiak
+    .accesskey = B
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Lehenetsia)
 home-mode-choice-custom-srd =
