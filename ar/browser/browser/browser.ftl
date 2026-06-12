@@ -1331,6 +1331,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ه
 
 panel-save-update-username = اسم المستخدم
 panel-save-update-password = كلمة السر
+panel-save-update-username-2 =
+    .label = اسم المستخدم
+panel-save-update-password-2 =
+    .label = كلمة السر
 
 ##
 
