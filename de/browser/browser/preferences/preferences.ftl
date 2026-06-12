@@ -1274,6 +1274,20 @@ containers-remove-button =
     .label = Löschen
 containers-section-header2 =
     .heading = Einstellungen für Tab-Umgebungen
+containers-card-header2 =
+    .label = Tab-Umgebungen
+    .description = Trennen Sie Cookies durch Tab-Umgebungen, damit Sie verschiedene Konten auf derselben Website verwenden und das Seitenübergreifende Tracking einschränken können.
+containers-add-button2 =
+    .label = Neue Tab-Umgebung hinzufügen
+    .accesskey = N
+containers-new-tab-check2 =
+    .label = Tab-Umgebung für jeden neuen Tab wählen
+    .accesskey = w
+    .description = Dadurch wird das Tab-Umgebungs-Menü jedes Mal geöffnet, wenn Sie die Schaltfläche Neuer Tab öffnen drücken.
+containers-settings-button2 =
+    .title = Einstellungen
+containers-remove-button2 =
+    .title = Entfernen
 
 ## Account and sync
 
@@ -1281,6 +1295,9 @@ sync-group-label =
     .label = Synchronisation
 account-group-label2 =
     .label = Konto
+account-disabled-group =
+    .label = Konto
+    .description = Kontoeinstellungen sind nicht verfügbar.
 account-placeholder2 =
     .label = Sie sind nicht angemeldet
     .description = Melden Sie sich an und sorgen Sie dafür, dass Ihre Daten privat, verschlüsselt und überall, wo Sie { -brand-short-name } nutzen, sofort verfügbar sind.
