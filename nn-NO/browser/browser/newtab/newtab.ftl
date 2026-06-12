@@ -40,6 +40,14 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } rekkje
+           *[other] { $num } rekkjer
+        }
 
 ## Search box component.
 
