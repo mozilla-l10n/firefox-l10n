@@ -31,12 +31,42 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Pàgina d’inici
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Tria un lloc específic
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Ginys
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Llistes
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporitzador
+home-prefs-mission-message2 =
+    .message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor.
+home-prefs-manage-topics-link2 =
+    .label = Gestiona els temes
+home-prefs-choose-wallpaper-link2 =
+    .label = Trieu un fons de pantalla
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Per defecte)
+home-mode-choice-custom-srd =
+    .label = URL personalitzats…
+home-mode-choice-blank-srd =
+    .label = Pàgina en blanc
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Articles patrocinats
+home-prefs-support-firefox-header-srd =
+    .label = Doneu suport al { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Descobriu com
 
 ## Search box component.
 
