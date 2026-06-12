@@ -43,12 +43,23 @@ settings-data-backup-last-backup-location-show-in-folder = Намоиш дода
 settings-data-backup-last-backup-location-edit = Таҳрир кардан…
 settings-data-create-backup-error = Ҳангоми таҳияи нусхаи эҳтиётӣ дар санаи { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } хато ба миён омад
 settings-sensitive-data-encryption-description = Нусхаи эҳтиётии ниҳонвожаҳо ва тарзҳои пардохти худро таҳия кунед ва, инчунин, тамоми маълумоти худро бо истифода аз имкони рамзгузорӣ ба таври бехатар нигоҳ доред.
+settings-data-toggle-encryption-label2 =
+    .label = Сохтани нусхаи эҳтиётии маълумоти махфии шумо
+    .description = Нусхаи эҳтиётии ниҳонвожаҳо ва усулҳои пардохти худро созед, инчунин, ҳамаи маълумоти худро бо рамзгузорӣ ба таври бехатар нигоҳ доред.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Номи файл: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Маълумоти худро барқарор созед
+    .description = Маълумоти «{ -brand-product-name }»-и худро аз нусхаи эҳтиётии охирин барқарор созед.
+settings-data-backup-restore-scheduled-off =
+    .label = Маълумоти худро барқарор созед
+    .description = Барои барқарор кардани маълумоти худ, нусхаи эҳтиётии «{ -brand-product-name }»-ро аз дастгоҳи дигар истифода баред.
 
 ##
 
+settings-sensitive-data =
+    .label = Маълумоти махфӣ
 settings-data-toggle-encryption-support-link = Маълумоти бештар
 settings-data-change-password2 =
     .label = Иваз кардани ниҳонвожа
