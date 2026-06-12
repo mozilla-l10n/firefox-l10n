@@ -34,12 +34,39 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Kezdőlap
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Válasszon egy adott oldalt
 
 ## Custom URLs subpage
 
 
 ## Firefox Home content
 
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (alapértelmezett)
+home-mode-choice-custom-srd =
+    .label = Egyéni webcímek…
+home-mode-choice-blank-srd =
+    .label = Üres lap
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Szponzorált indítóikonok
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Szponzorált történetek
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Látogatott oldalak
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Könyvjelzők
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Legutóbbi letöltés
+home-prefs-recent-activity-header-srd =
+    .label = Legutóbbi tevékenység
+home-prefs-recent-activity-select =
+    .aria-label = Legutóbbi tevékenység
+home-prefs-weather-header-srd =
+    .label = Időjárás
 
 ## Search box component.
 
