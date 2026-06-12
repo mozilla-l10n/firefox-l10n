@@ -34,6 +34,8 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Kuatiarogue ñepyrũha
 
 ## Custom URLs subpage
 
@@ -45,6 +47,32 @@ home-prefs-search-header2 =
 home-restore-defaults-srd =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Ijypykue)
+home-mode-choice-custom-srd =
+    .label = URLs ñemomba’e…
+home-mode-choice-blank-srd =
+    .label = Kuatiarogue morotĩva
+home-prefs-shortcuts-header-srd =
+    .label = Jeike pya’eha
+home-prefs-shortcuts-select =
+    .aria-label = Jeike pya’eha
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Jeike pya’eha jehepyme’ẽpyre
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Tembiasakue jehepyme’ẽguáva
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Tenda jeikepyre
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Techaukaha
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Oñemboguejy ramovéva
+home-prefs-recent-activity-header-srd =
+    .label = Tembiapo ramovegua
+home-prefs-recent-activity-select =
+    .aria-label = Tembiapo ramovegua
+home-prefs-weather-header-srd =
+    .label = Arapytu
 
 ## Search box component.
 
