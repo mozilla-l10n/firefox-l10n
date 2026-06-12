@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Página inicial
+home-homepage-new-windows =
+    .label = Novas janelas
+home-homepage-new-tabs =
+    .label = Novas abas
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Escolher um site específico
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Pesquisa
+home-prefs-stories-header2 =
+    .label = Histórias
+    .description = Conteúdo excepcional selecionado pela família { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
