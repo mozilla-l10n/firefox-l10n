@@ -46,6 +46,23 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresy stron
+home-custom-homepage-address =
+    .placeholder = Wpisz adres
+home-custom-homepage-address-button =
+    .label = Dodaj adres
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nie dodano jeszcze żadnych stron.
+home-custom-homepage-delete-address-button =
+    .aria-label = Usuń adres
+    .title = Usuń adres
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Zastąp przez
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = obecnie otwarte strony
@@ -89,6 +106,20 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Aby korzystać z tych funkcji, ustaw nowe karty lub nowe okna na { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } wiersz
+            [few] { $num } wiersze
+           *[many] { $num } wierszy
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Rozszerzenie ({ $extension })
 home-restore-defaults-srd =
     .label = Przywróć domyślne
     .accesskey = P
