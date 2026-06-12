@@ -38,6 +38,11 @@ home-homepage-title =
     .label = Почетна страница
 home-homepage-new-windows =
     .label = Нови прозори
+home-homepage-new-tabs =
+    .label = Нови језичци:
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Изаберите одређени сајт
 
 ## Custom URLs subpage
 
@@ -99,6 +104,15 @@ home-prefs-choose-wallpaper-link2 =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Да бисте употребили ове могућности, подесите нове језичке картице или нове прозоре на { -firefox-home-brand-name }.
+home-restore-defaults-srd =
+    .label = Врати на подразумевано
+    .accesskey = В
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (Подразумевано)
+home-mode-choice-custom-srd =
+    .label = прилагођена адреса…
+home-mode-choice-blank-srd =
+    .label = празна страница
 home-prefs-shortcuts-header-srd =
     .label = Пречице
 home-prefs-shortcuts-select =
