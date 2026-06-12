@@ -36,6 +36,10 @@ newtab-card-dismiss-button =
 
 home-homepage-title =
     .label = Startpagina
+home-homepage-new-windows =
+    .label = Nieuwe vensters
+home-homepage-new-tabs =
+    .label = Nieuwe tabbladen
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Kies een specifieke website
@@ -62,6 +66,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Zoeken
+home-prefs-stories-header2 =
+    .label = Verhalen
+    .description = Uitzonderlijke inhoud, verzameld door de { -brand-product-name }-familie
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -89,6 +96,9 @@ home-prefs-firefox-logo-header =
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
     .message = Stel nieuwe tabbladen of nieuwe vensters in op { -firefox-home-brand-name } om deze functies te gebruiken.
+home-restore-defaults-srd =
+    .label = Standaardwaarden herstellen
+    .accesskey = S
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (standaard)
 home-mode-choice-custom-srd =
