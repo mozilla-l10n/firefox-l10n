@@ -31,6 +31,16 @@ newtab-card-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
 
+## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
+## Homepage panel
+
+
+## Custom URLs subpage
+
+
+## Firefox Home content
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -151,6 +161,8 @@ newtab-menu-section-block = Bloquear
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Dejar de seguir
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Saber más
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Dejar de seguir el tema
@@ -1033,6 +1045,9 @@ newtab-sports-widget-world-cup-champions = Campeones de la Copa del Mundo 2026
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Finalizado
 newtab-sports-widget-match-penalties = Penalties
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
