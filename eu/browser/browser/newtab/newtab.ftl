@@ -34,9 +34,27 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Hasiera-orria
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Aukeratu gune zehatza
 
 ## Custom URLs subpage
 
+home-custom-homepage-delete-address-button =
+    .aria-label = Ezabatu helbidea
+    .title = Ezabatu helbidea
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ordeztu honekin
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Unean irekitako orriak
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Laster-markak…
 
 ## Firefox Home content
 
@@ -44,6 +62,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Bilatu
+home-prefs-stories-header2 =
+    .label = Istorioak
+    .description = { -brand-product-name } familiak hautatutako aparteko edukia
 home-prefs-widgets-header =
     .label = Widgetak
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -64,6 +85,13 @@ home-prefs-manage-topics-link2 =
     .label = Kudeatu gaiak
 home-prefs-choose-wallpaper-link2 =
     .label = Aukeratu horma-papera
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logoa
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Eginbide hauek erabiltzeko, ezarri fitxa edo leiho berriak '{ -firefox-home-brand-name }' aukerara.
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Lehenetsia)
 home-mode-choice-custom-srd =
