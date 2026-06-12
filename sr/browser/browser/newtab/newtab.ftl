@@ -99,6 +99,8 @@ home-prefs-manage-topics-link2 =
     .label = Управљај темама
 home-prefs-choose-wallpaper-link2 =
     .label = Изаберите позадину
+home-prefs-firefox-logo-header =
+    .label = Логотип { -brand-short-name }-а
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
