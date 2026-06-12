@@ -1272,6 +1272,8 @@ containers-settings-button =
     .label = Einstellungen
 containers-remove-button =
     .label = Löschen
+containers-section-header2 =
+    .heading = Einstellungen für Tab-Umgebungen
 
 ## Account and sync
 

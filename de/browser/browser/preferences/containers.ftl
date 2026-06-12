@@ -87,3 +87,11 @@ containers-icon-tree =
     .label = Baum
 containers-icon-chill =
     .label = Entspannung
+containers-window-new3 =
+    .title = Neue Umgebung hinzufügen
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Einstellungen für Umgebung "{ $name }"
+    .style = min-width: 32em
