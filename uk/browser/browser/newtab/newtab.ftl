@@ -72,6 +72,8 @@ home-prefs-shortcuts-select =
     .aria-label = Ярлики
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Спонсоровані ярлики
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Матеріали від спонсорів
 home-prefs-weather-header-srd =
     .label = Погода
 
