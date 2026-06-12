@@ -40,6 +40,12 @@ newtab-logo-and-wordmark =
 home-restore-defaults-srd =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
+home-mode-choice-default-fx-srd =
+    .label = { -firefox-home-brand-name } (sjálfgefið)
+home-mode-choice-custom-srd =
+    .label = Sérsniðin vefslóð…
+home-mode-choice-blank-srd =
+    .label = Tóm síða
 home-prefs-shortcuts-header-srd =
     .label = Flýtileiðir
 home-prefs-shortcuts-select =
@@ -48,6 +54,18 @@ home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Kostaðar flýtileiðir
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Kostaðar sögur
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Heimsóttar síður
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Bókamerki
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Síðasta niðurhal
+home-prefs-recent-activity-header-srd =
+    .label = Nýleg virkni
+home-prefs-recent-activity-select =
+    .aria-label = Nýleg virkni
+home-prefs-weather-header-srd =
+    .label = Veður
 
 ## Search box component.
 
