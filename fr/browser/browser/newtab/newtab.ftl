@@ -52,8 +52,22 @@ home-mode-choice-custom-srd =
     .label = Adresses web personnalisées…
 home-mode-choice-blank-srd =
     .label = Page vide
+home-prefs-shortcuts-header-srd =
+    .label = Raccourcis
+home-prefs-shortcuts-select =
+    .aria-label = Raccourcis
 home-prefs-shortcuts-by-option-sponsored-srd =
     .label = Raccourcis sponsorisés
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Pages visitées
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Marque-pages
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Dernier téléchargement
+home-prefs-recent-activity-header-srd =
+    .label = Activité récente
+home-prefs-recent-activity-select =
+    .aria-label = Activité récente
 
 ## Search box component.
 
