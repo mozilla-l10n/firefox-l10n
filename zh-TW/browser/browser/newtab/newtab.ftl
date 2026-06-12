@@ -46,6 +46,16 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = 網站網址
+home-custom-homepage-address =
+    .placeholder = 請輸入網址
+home-custom-homepage-address-button =
+    .label = 新增網址
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = 尚未加入任何網站。
 home-custom-homepage-delete-address-button =
     .aria-label = 刪除地址
     .title = 刪除地址
@@ -104,6 +114,11 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } 行
            *[other] { $num } 行
         }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = 擴充套件（{ $extension }）
 home-restore-defaults-srd =
     .label = 回復為預設值
     .accesskey = R
