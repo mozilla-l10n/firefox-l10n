@@ -26,6 +26,10 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } पक्ति
            *[other] { $num } पक्ति
         }
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = प्रायोजित गरिएको कथाहरू
+home-prefs-highlights-option-visited-pages-srd =
+    .label = भ्रमण गरिएका पृष्ठहरू
 home-prefs-highlights-options-bookmarks-srd =
     .label = पुस्तकचिनोहरू
 home-prefs-highlights-option-most-recent-download-srd =
