@@ -45,6 +45,8 @@ home-homepage-custom-homepage-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Tìm kiếm
 home-prefs-widgets-header =
     .label = Widget
 # Lists is a widget on New Tab, similar to a to-do widget
