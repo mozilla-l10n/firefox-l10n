@@ -40,6 +40,31 @@ newtab-card-dismiss-button =
 
 ## Firefox Home content
 
+home-prefs-widgets-header =
+    .label = Komponantoj
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listoj
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Tempumilo
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporto
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Patronitaj artikoloj
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Vizititaj paĝoj
+home-prefs-highlights-options-bookmarks-srd =
+    .label = Legosignoj
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = Lasta elŝuto
+home-prefs-recent-activity-header-srd =
+    .label = Ĵusa agado
+home-prefs-recent-activity-select =
+    .aria-label = Ĵusa agado
+home-prefs-weather-header-srd =
+    .label = Vetero
 
 ## Search box component.
 
