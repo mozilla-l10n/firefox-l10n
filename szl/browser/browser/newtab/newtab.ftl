@@ -17,6 +17,8 @@ newtab-personalize-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-new-tabs =
+    .label = Nowe karty
 
 ## Custom URLs subpage
 
@@ -32,6 +34,19 @@ home-prefs-sections-rows-option-srd =
             [few] { $num } wiersze
            *[many] { $num } wierszōw
         }
+home-restore-defaults-srd =
+    .label = Wrōć bazowe
+    .accesskey = W
+home-mode-choice-custom-srd =
+    .label = Włosne adresy…
+home-mode-choice-blank-srd =
+    .label = Prōzno strōna
+home-prefs-shortcuts-header-srd =
+    .label = Skrōty
+home-prefs-shortcuts-select =
+    .aria-label = Skrōty
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Spōnsorowane skrōty
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Spōnsorowane nowiny
 home-prefs-highlights-option-visited-pages-srd =
