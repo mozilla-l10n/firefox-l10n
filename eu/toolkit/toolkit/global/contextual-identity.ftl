@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Kudeatu edukiontziak
     .accesskey = o
+user-context-new-tab =
+    .label = Fitxa berria
+    .accesskey = b
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

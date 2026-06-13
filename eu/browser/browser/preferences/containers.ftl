@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Izena
+    .placeholder = Gehitu izena
+containers-icon-label2 =
+    .label = Ikonoa
+containers-color-label2 =
+    .label = Kolorea
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Zuhaitza
 containers-icon-chill =
     .label = Lasaitasuna
+containers-window-new3 =
+    .title = Gehitu edukiontzi berria
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } edukiontziaren ezarpenak
+    .style = min-width: 32em

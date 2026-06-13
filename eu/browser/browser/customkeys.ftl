@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Ireki berriro itxitako azken leihoa
 customkeys-sidebar-toggle = Txandakatu alboko barra
 customkeys-view-bookmarks-toolbar = Txandakatu laster-marken tresna-barra
 customkeys-view-picture-in-picture = Bideoa beste leiho batean
+customkeys-view-add-split-view = Gehitu ikuspegi zatitua
+# Separate is a verb
+customkeys-view-separate-split-view = Banandu ikuspegi zatitua
 customkeys-dev-tools = Web garatzaile-tresnak
 customkeys-dev-inspector = DOM- eta estilo-ikuskatzailea
 customkeys-dev-webconsole = Web kontsola

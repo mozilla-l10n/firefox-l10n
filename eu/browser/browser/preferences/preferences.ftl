@@ -1272,6 +1272,15 @@ containers-settings-button =
     .label = Ezarpenak
 containers-remove-button =
     .label = Kendu
+containers-section-header2 =
+    .heading = Edukiontziaren ezarpenak
+containers-add-button2 =
+    .label = Gehitu edukiontzi berria
+    .accesskey = G
+containers-settings-button2 =
+    .title = Ezarpenak
+containers-remove-button2 =
+    .title = Kendu
 
 ## Account and sync
 

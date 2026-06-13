@@ -460,3 +460,10 @@ relay-50-masks-announcement-primary-button = Joan { -relay-brand-name }(e)ra
     .accesskey = o
 relay-50-masks-announcement-secondary-button = Baztertu
     .accesskey = B
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Partekatu iritzia
+    .accesskey = a
+nova-early-access-infobar-primary-button = Ulertuta
+    .accesskey = U

@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Eman hondatutako gunearen berri
 report-broken-site-panel-intro-text = Zure txostenak { -brand-product-name }(e)n arazoak ulertu eta konpontzen laguntzen digu, horrela denontzat hobetzeko.
 report-broken-site-panel-learn-more-link = Argibide gehiago
+report-broken-site-panel-url-label = Hondatutako gunearen URLa
 report-broken-site-panel-reason-intro-text = Zer ez dabil?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Gunea ez da kargatzen

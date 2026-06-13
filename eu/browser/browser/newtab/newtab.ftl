@@ -1171,6 +1171,20 @@ newtab-sports-widget-match-full-time = Partidaren amaiera
 newtab-sports-widget-match-halftime = Atsedenaldia
 newtab-sports-widget-match-extra-time = Luzapena
 newtab-sports-widget-match-penalties = Penaltiak
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = -
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Aurrekoa
+    .title = Aurrekoa
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Hurrengoa
+    .title = Hurrengoa
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1231,6 +1245,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Ingalaterra
 newtab-sports-widget-team-name-label-sco =
     .label = Eskozia
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Zehazteke
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.

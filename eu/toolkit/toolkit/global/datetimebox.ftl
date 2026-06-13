@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Egutegia
+datetime-time =
+    .aria-label = Ordua
