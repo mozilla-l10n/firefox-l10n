@@ -128,6 +128,8 @@ options-local-mode-origin-input =
 options-local-mode-origin-conflict = This origin conflicts with another existing mapping
 options-local-mode-origin-invalid = This origin is invalid
 options-local-mode-folder-label = Lokal mappe:
+options-local-mode-choose-folder = Browse…
+    .title = Choose a local folder to serve this mapping
 # Dialog's title when picking a folder for a mapping
 # Variables:
 #   $url (String): The url for the mapping being configured
