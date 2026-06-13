@@ -146,7 +146,7 @@ options-local-mode-navigate-to =
 # Dialog message prompted when clicking on the Delete button
 # Variables:
 #   $mappingOrigin (String): The origin for the mapping
-options-local-mode-confirm-deletion = “{ $mackingOrigin }” 매핑을 제거하시겠습니까?
+options-local-mode-confirm-deletion = “{ $mappingOrigin }” 매핑을 제거하시겠습니까?
 options-local-mode-new-mapping = 새 로컬 매핑 추가
 
 ## Advanced section
