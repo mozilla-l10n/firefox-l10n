@@ -473,6 +473,7 @@ relay-50-masks-announcement-secondary-button = Одбаци
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } добија нови изглед.</strong> Пред вама је рано, радно издање које још увек усавршавамо пре објављивања крајем ове године.
 nova-early-access-share-feedback-link = Пошаљите примедбе
     .accesskey = б
 nova-early-access-infobar-primary-button = Важи

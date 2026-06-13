@@ -74,3 +74,7 @@ about-private-browsing-cookie-banners-promo-body = Сада аутоматски
 about-private-browsing-felt-privacy-v1-info-header = Не остављајте трагове на овом уређају
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } брише ваше колачиће, историју и податке са сајтова када затворите све приватне прозоре.
 about-private-browsing-felt-privacy-v1-info-link = Ко може да види моју активност?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Затварање свих приватних прозора обрисаће колачиће, историју и податке странице.
