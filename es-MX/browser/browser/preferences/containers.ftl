@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Nombre
+    .placeholder = Agregar un nombre
+containers-icon-label2 =
+    .label = Ícono
+containers-color-label2 =
+    .label = Color
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Árbol
 containers-icon-chill =
     .label = Enfriar
+containers-window-new3 =
+    .title = Agregar nuevo contenedor
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Ajustes del contenedor { $name }
+    .style = min-width: 32em

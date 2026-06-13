@@ -1272,6 +1272,22 @@ containers-settings-button =
     .label = Ajustes
 containers-remove-button =
     .label = Eliminar
+containers-section-header2 =
+    .heading = Ajustes del contenedor
+containers-card-header2 =
+    .label = Contenedores
+    .description = Separa las cookies por contenedor para que puedas usar diferentes cuentas en el mismo sitio y limitar el rastreo entre sitios.
+containers-add-button2 =
+    .label = Agregar nuevo contenedor
+    .accesskey = A
+containers-new-tab-check2 =
+    .label = Selecciona un contenedor para cada pestaña nueva
+    .accesskey = S
+    .description = Esto abrirá el menú de contenedores cada vez que presiones el botón de nueva pestaña.
+containers-settings-button2 =
+    .title = Ajustes
+containers-remove-button2 =
+    .title = Eliminar
 
 ## Account and sync
 
@@ -1279,6 +1295,9 @@ sync-group-label =
     .label = Sincronizar
 account-group-label2 =
     .label = Cuenta
+account-disabled-group =
+    .label = Cuenta
+    .description = Los ajustes de la cuenta no están disponibles.
 account-placeholder2 =
     .label = No has iniciado sesión
     .description = Inicia sesión y mantén tus datos privados, cifrados y siempre disponibles dondequiera que uses { -brand-short-name }.

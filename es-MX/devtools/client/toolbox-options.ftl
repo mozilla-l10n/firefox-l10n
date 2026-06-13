@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Tamaño de la pestaña
 options-sourceeditor-keybinding-label = Combinaciones de teclas
 options-sourceeditor-keybinding-default-label = Predeterminado
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modo local
+options-local-mode-only-work-locally = El modo local solo funciona localmente y se desactiva al depurar contextos remotos.
+options-local-mode-behavior = El modo local te permite cargar archivos locales a través de URL https sin ninguna dependencia externa. Las URL solo se pueden cargar desde pestañas que tengan las DevTools abiertas.
+options-local-mode-domain-label = Dominio personalizado:
+options-local-mode-origin-input =
+    .placeholder = Origen para el mapeo local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Este origen entra en conflicto con otro mapeo existente.
+options-local-mode-origin-invalid = Este origen no es válido
+options-local-mode-folder-label = Carpeta local:
+options-local-mode-choose-folder = Buscar…
+    .title = Elige una carpeta local para vincular este mapeo
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Elige la carpeta de modo local para: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Esta carpeta no existe o no es válida.
+options-local-mode-toggle =
+    .title = Alterna este mapeo local
+options-local-mode-toggle-enable = Habilitar
+options-local-mode-toggle-disable = Deshabilitar
+options-local-mode-navigate-to =
+    .title = Ir a la URL de este mapeo
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = ¿Quieres eliminar el mapeo “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Agregar un nuevo mapeo local
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
