@@ -1341,6 +1341,8 @@ containers-settings-button =
     .label = Подешавања
 containers-remove-button =
     .label = Уклони
+containers-section-header2 =
+    .heading = Подешавања контејнера
 
 ## Account and sync
 

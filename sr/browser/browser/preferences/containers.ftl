@@ -17,6 +17,8 @@ containers-name-label2 =
     .placeholder = Додајте назив
 containers-icon-label2 =
     .label = Иконица
+containers-color-label2 =
+    .label = Боја
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -87,3 +89,11 @@ containers-icon-tree =
     .label = Дрво
 containers-icon-chill =
     .label = Опуштено
+containers-window-new3 =
+    .title = Додај нови контејнер
+    .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Подешавања контејнера { $name }
+    .style = min-width: 45em
