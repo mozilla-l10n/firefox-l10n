@@ -1276,6 +1276,22 @@ containers-settings-button =
     .label = Налады
 containers-remove-button =
     .label = Выдаліць
+containers-section-header2 =
+    .heading = Налады кантэйнера
+containers-card-header2 =
+    .label = Кантэйнеры
+    .description = Раздзяляюць кукі па кантэйнерах, каб вы маглі выкарыстоўваць розныя ўліковыя запісы на адным сайце і абмежаваць міжсайтавае сачэнне.
+containers-add-button2 =
+    .label = Дадаць новы кантэйнер
+    .accesskey = Д
+containers-new-tab-check2 =
+    .label = Выбіраць кантэйнер для кожнай новай карткі
+    .accesskey = ы
+    .description = Будзе адкрываць меню кантэйнераў кожны раз, калі вы націскаеце кнопку адкрыцця новай карткі.
+containers-settings-button2 =
+    .title = Налады
+containers-remove-button2 =
+    .title = Выдаліць
 
 ## Account and sync
 
@@ -1283,6 +1299,9 @@ sync-group-label =
     .label = Сінхранізацыя
 account-group-label2 =
     .label = Уліковы запіс
+account-disabled-group =
+    .label = Уліковы запіс
+    .description = Налады ўліковага запісу недаступныя.
 account-placeholder2 =
     .label = Вы не ўвайшлі
     .description = Увайдзіце і трымайце свае звесткі прыватнымі, зашыфраванымі і імгненна даступнымі ўсюды, дзе вы карыстаецеся { -brand-short-name }.
