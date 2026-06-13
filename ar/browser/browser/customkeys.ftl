@@ -20,6 +20,9 @@ customkeys-history-reopen-window = أعِد فتح آخر نافذة مغلقة
 customkeys-sidebar-toggle = بدّل ظهور الشريط الجانبي
 customkeys-view-bookmarks-toolbar = بدّل شريط أدوات العلامات
 customkeys-view-picture-in-picture = فديو معترِض
+customkeys-view-add-split-view = أضف عرض منقسم
+# Separate is a verb
+customkeys-view-separate-split-view = عرض مقسم منفصل
 customkeys-dev-tools = أدوات مطوّري الوِب
 customkeys-dev-inspector = فاحص DOM والأنماط
 customkeys-dev-webconsole = معراض الوِب

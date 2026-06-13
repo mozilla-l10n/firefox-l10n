@@ -194,6 +194,8 @@ leaf-avatar-alt =
     .alt = ورقة شجر
 lightbulb-avatar-alt =
     .alt = مصباح كهربائي
+paw-print-avatar-alt =
+    .alt = بصمة مخلب
 shopping-avatar-alt =
     .alt = عربة تسوق
 star-avatar-alt =
@@ -228,6 +230,7 @@ leaf-avatar = ورقة شجر
 lightbulb-avatar = مصباح كهربائي
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = رسالة
+paw-print-avatar = بصمة مخلب
 picture-avatar = صورة
 shopping-avatar = عربة تسوق
 star-avatar = النجمة

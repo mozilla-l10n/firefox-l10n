@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = نحن الآن نرفض تل
 about-private-browsing-felt-privacy-v1-info-header = لا تترك أي أثر على هذا الجهاز
 about-private-browsing-felt-privacy-v1-info-body = يحذف { -brand-short-name } الكعكات، و التأريخ، و بيانات الموقع عندما تغلق كل نوافذك الخاصة.
 about-private-browsing-felt-privacy-v1-info-link = من يمكنه رؤية نشاطي؟
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = يؤدي إغلاق جميع نوافذك الخاصة إلى حذف ملفات تعريف الارتباط وسجل التصفح وبيانات الموقع.

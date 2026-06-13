@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = الاسم
+    .placeholder = أضف اسم
+containers-icon-label2 =
+    .label = الأيقونة
+containers-color-label2 =
+    .label = اللون
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = شجرة
 containers-icon-chill =
     .label = راحة
+containers-window-new3 =
+    .title = أضف حاوية جديدة
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = إعدادات الحاوية { $name }
+    .style = min-width: 32em

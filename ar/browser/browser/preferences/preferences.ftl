@@ -1276,6 +1276,14 @@ containers-settings-button =
     .label = الإعدادات
 containers-remove-button =
     .label = أزِل
+containers-section-header2 =
+    .heading = إعدادات الحاوية
+containers-card-header2 =
+    .label = الحاويات
+    .description = افصل ملفات تعريف الارتباط حسب الحاوية حتى تتمكن من استخدام حسابات مختلفة على نفس الموقع والحد من التعقّب عبر المواقع.
+containers-add-button2 =
+    .label = أضف حاوية جديدة
+    .accesskey = ض
 
 ## Account and sync
 
