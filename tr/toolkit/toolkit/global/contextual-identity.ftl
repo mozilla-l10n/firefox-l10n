@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Kapsayıcıları yönet
     .accesskey = K
+user-context-new-tab =
+    .label = Yeni sekme
+    .accesskey = Y
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

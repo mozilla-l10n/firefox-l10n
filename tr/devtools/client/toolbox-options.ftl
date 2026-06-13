@@ -120,6 +120,7 @@ options-sourceeditor-keybinding-default-label = Varsayılan
 # The heading
 options-local-mode-label = Yerel mod
 options-local-mode-only-work-locally = Yerel mod yalnızca yerel olarak çalışır ve uzak bağlamlarda hata ayıklarken devre dışı bırakılır
+options-local-mode-behavior = Yerel mod, herhangi bir harici bağımlılık olmadan yerel dosyaları https adresi üzerinden yüklemenizi sağlar. Bu adresler yalnızca geliştirici araçlarının açık olduğu sekmelerden yüklenebilir.
 options-local-mode-domain-label = Özel alan adı:
 options-local-mode-origin-input =
     .placeholder = Yerel eşlemenin kökeni
@@ -127,6 +128,8 @@ options-local-mode-origin-input =
 options-local-mode-origin-conflict = Bu köken başka bir eşleme ile çakışıyor
 options-local-mode-origin-invalid = Bu köken geçersiz
 options-local-mode-folder-label = Yerel klasör:
+options-local-mode-choose-folder = Göz at…
+    .title = Bu eşlemeyi sunmak için bir yerel klasör seç
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Bu klasör mevcut değil veya geçersiz.
