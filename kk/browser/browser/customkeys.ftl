@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Соңғы жабылған терезені 
 customkeys-sidebar-toggle = Бүйір панелін көрсету/жасыру
 customkeys-view-bookmarks-toolbar = Бетбелгілер панелін көрсету/жасыру
 customkeys-view-picture-in-picture = Суреттегі сурет
+customkeys-view-add-split-view = Бөлінген көріністі қосу
+# Separate is a verb
+customkeys-view-separate-split-view = Бөлінген көріністі ажырату
 customkeys-dev-tools = Веб-әзірлеуші құралдары
 customkeys-dev-inspector = DOM және стильдер бақылаушысы
 customkeys-dev-webconsole = Веб консолі

@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Күнтізбе
+datetime-time =
+    .aria-label = Уақыт

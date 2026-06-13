@@ -115,6 +115,11 @@ options-sourceeditor-tabsize-label = Табуляция өлшемі
 options-sourceeditor-keybinding-label = Пернетақта байланыстары
 options-sourceeditor-keybinding-default-label = Бастапқы
 
+## Local Mode section
+
+options-local-mode-toggle-enable = Іске қосу
+options-local-mode-toggle-disable = Сөндіру
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

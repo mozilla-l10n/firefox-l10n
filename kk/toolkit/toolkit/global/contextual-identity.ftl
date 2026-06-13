@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Контейнерлерді басқару
     .accesskey = о
+user-context-new-tab =
+    .label = Жаңа бет
+    .accesskey = Ж
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
