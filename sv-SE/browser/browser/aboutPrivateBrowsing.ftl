@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Vi vägrar nu automatiskt må
 about-private-browsing-felt-privacy-v1-info-header = Lämna inga spår på den här enheten
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } raderar dina kakor, historik och webbplatsdata när du stänger alla dina privata fönster.
 about-private-browsing-felt-privacy-v1-info-link = Vem kan kanske se min aktivitet?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Om du stänger alla dina privata fönster raderas dina kakor, din historik och dina webbplatsdata.

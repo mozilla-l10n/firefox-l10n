@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Tabbstorlek
 options-sourceeditor-keybinding-label = Snabbtangenter
 options-sourceeditor-keybinding-default-label = Standard
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Lokalt läge
+options-local-mode-only-work-locally = Lokalt läge fungerar endast lokalt och är inaktiverat vid felsökning av fjärrkontexter
+options-local-mode-behavior = Lokalt läge låter dig ladda lokala filer via https-URL utan externa beroenden. URL:erna kan bara laddas från flikar med DevTools öppna.
+options-local-mode-domain-label = Anpassad domän:
+options-local-mode-origin-input =
+    .placeholder = Ursprung för den lokala mappningen
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Detta ursprung är i konflikt med en annan befintlig mappning
+options-local-mode-origin-invalid = Detta ursprung är ogiltigt
+options-local-mode-folder-label = Lokal mapp:
+options-local-mode-choose-folder = Bläddra…
+    .title = Välj en lokal mapp för att hantera denna mappning
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Välj mapp för lokalt läge för: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Den här mappen finns inte eller är ogiltig.
+options-local-mode-toggle =
+    .title = Växla denna lokala mappning
+options-local-mode-toggle-enable = Aktivera
+options-local-mode-toggle-disable = Inaktivera
+options-local-mode-navigate-to =
+    .title = Navigera till denna mappnings-URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Vill du ta bort mappningen “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Lägg till en ny lokal mappning
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

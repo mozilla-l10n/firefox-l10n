@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Namn
+    .placeholder = Lägg till ett namn
+containers-icon-label2 =
+    .label = Ikon
+containers-color-label2 =
+    .label = Färg
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Träd
 containers-icon-chill =
     .label = Relax
+containers-window-new3 =
+    .title = Lägg till ny behållare
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Behållarinställningar för { $name }
+    .style = min-width: 32em

@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Hantera behållare
     .accesskey = b
+user-context-new-tab =
+    .label = Ny flik
+    .accesskey = f
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

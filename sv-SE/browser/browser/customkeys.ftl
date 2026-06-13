@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Återställ senast stängda fönster
 customkeys-sidebar-toggle = Visa/dölj sidofält
 customkeys-view-bookmarks-toolbar = Växla bokmärkesfältet
 customkeys-view-picture-in-picture = Bild-i-bild
+customkeys-view-add-split-view = Lägg till delad vy
+# Separate is a verb
+customkeys-view-separate-split-view = Separera delad vy
 customkeys-dev-tools = Verktyg för webbutvecklare
 customkeys-dev-inspector = DOM och stilinspektör
 customkeys-dev-webconsole = Webbkonsol

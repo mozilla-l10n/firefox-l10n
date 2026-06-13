@@ -1272,6 +1272,22 @@ containers-settings-button =
     .label = Inställningar
 containers-remove-button =
     .label = Ta bort
+containers-section-header2 =
+    .heading = Behållarinställningar
+containers-card-header2 =
+    .label = Behållare
+    .description = Separera kakor efter behållare så att du kan använda olika konton på samma webbplats och begränsa spårning mellan webbplatser.
+containers-add-button2 =
+    .label = Lägg till ny behållare
+    .accesskey = L
+containers-new-tab-check2 =
+    .label = Välj en behållare för varje ny flik
+    .accesskey = b
+    .description = Detta öppnar behållarmenyn varje gång du trycker på knappen Öppna ny flik.
+containers-settings-button2 =
+    .title = Inställningar
+containers-remove-button2 =
+    .title = Ta bort
 
 ## Account and sync
 
@@ -1279,6 +1295,9 @@ sync-group-label =
     .label = Synkronisering
 account-group-label2 =
     .label = Konto
+account-disabled-group =
+    .label = Konto
+    .description = Kontoinställningarna är inte tillgängliga.
 account-placeholder2 =
     .label = Du är inte inloggad
     .description = Logga in och håll dina data privata, krypterade och direkt tillgängliga överallt där du använder { -brand-short-name }.
