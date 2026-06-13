@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = أدِر الحاويات
     .accesskey = ح
+user-context-new-tab =
+    .label = لسان جديد
+    .accesskey = ل
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

@@ -77,6 +77,27 @@ options-sourceeditor-tabsize-label = حجم اللسان
 options-sourceeditor-keybinding-label = ربطات المفاتيح
 options-sourceeditor-keybinding-default-label = المبدئي
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = الوضع المحلي
+options-local-mode-only-work-locally = يعمل الوضع المحلي محليًا فقط ويُعطَّل عند تصحيح سياقات بعيدة
+options-local-mode-domain-label = نطاق مخصص:
+options-local-mode-folder-label = مجلد المحلي:
+options-local-mode-choose-folder = تصفّح…
+    .title = اختر مجلدًا محليًا لاستخدامه في هذا التعيين
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = اختر مجلد الوضع المحلي لـ: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = هذا المجلد غير موجود، أو غير صالح.
+options-local-mode-toggle =
+    .title = بدّل هذا التعيين المحلي
+options-local-mode-toggle-enable = فعّل
+options-local-mode-toggle-disable = عطّل
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

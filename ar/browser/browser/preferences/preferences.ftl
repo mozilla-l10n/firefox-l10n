@@ -1284,6 +1284,14 @@ containers-card-header2 =
 containers-add-button2 =
     .label = أضف حاوية جديدة
     .accesskey = ض
+containers-new-tab-check2 =
+    .label = حدّد حاويًا لكلّ لسان جديد
+    .accesskey = د
+    .description = سيؤدي ذلك إلى فتح قائمة الحاويات في كل مرة تضغط فيها على زر ”افتح في لسان جديد“.
+containers-settings-button2 =
+    .title = الإعدادات
+containers-remove-button2 =
+    .title = أزِل
 
 ## Account and sync
 
@@ -1291,6 +1299,9 @@ sync-group-label =
     .label = المزامنة
 account-group-label2 =
     .label = الحساب
+account-disabled-group =
+    .label = الحساب
+    .description = إعدادات الحساب غير متاحة.
 account-placeholder2 =
     .label = لست والجًا
     .description = لِج وحافظ على خصوصية بياناتك وتعميتها، مع إمكانية الوصول إليها فورًا في كل مكان تستخدم فيه { -brand-short-name }.
