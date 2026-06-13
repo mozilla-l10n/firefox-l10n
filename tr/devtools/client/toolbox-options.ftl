@@ -119,7 +119,28 @@ options-sourceeditor-keybinding-default-label = Varsayılan
 
 # The heading
 options-local-mode-label = Yerel mod
+options-local-mode-only-work-locally = Yerel mod yalnızca yerel olarak çalışır ve uzak bağlamlarda hata ayıklarken devre dışı bırakılır
+options-local-mode-domain-label = Özel alan adı:
+options-local-mode-origin-input =
+    .placeholder = Yerel eşlemenin kökeni
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Bu köken başka bir eşleme ile çakışıyor
+options-local-mode-origin-invalid = Bu köken geçersiz
 options-local-mode-folder-label = Yerel klasör:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Bu klasör mevcut değil veya geçersiz.
+options-local-mode-toggle =
+    .title = Bu yerel eşlemeyi aç/kapat
+options-local-mode-toggle-enable = Etkinleştir
+options-local-mode-toggle-disable = Devre dışı bırak
+options-local-mode-navigate-to =
+    .title = Bu eşleme adresine git
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = “{ $mappingOrigin }” eşlemesini kaldırmak istiyor musunuz?
+options-local-mode-new-mapping = Yeni yerel eşleme ekle
 
 ## Advanced section
 
