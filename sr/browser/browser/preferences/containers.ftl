@@ -12,6 +12,11 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Назив
+    .placeholder = Додајте назив
+containers-icon-label2 =
+    .label = Иконица
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name

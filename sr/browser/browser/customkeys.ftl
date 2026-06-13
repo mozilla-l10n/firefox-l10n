@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Поново отвори последњи з
 customkeys-sidebar-toggle = Прикажи/сакриј бочну површ
 customkeys-view-bookmarks-toolbar = Окините алатну траку обележивача
 customkeys-view-picture-in-picture = Слика у слици
+customkeys-view-add-split-view = Додај подељени приказ
+# Separate is a verb
+customkeys-view-separate-split-view = Раздвој подељени приказ
 customkeys-dev-tools = Веб развојни алати
 customkeys-dev-inspector = Инспектор DOM-а и стилова
 customkeys-dev-webconsole = Веб конзола
