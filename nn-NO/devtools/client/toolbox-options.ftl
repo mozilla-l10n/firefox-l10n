@@ -117,6 +117,16 @@ options-sourceeditor-keybinding-default-label = Default
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Local Mode
+options-local-mode-only-work-locally = Local Mode only works locally and is disabled when debugging remote contexts
+options-local-mode-behavior = Local Mode allows you to load local files via https URL without any external dependency. The URLs can only be loaded from tabs with DevTools opened.
+options-local-mode-domain-label = Custom domain:
+options-local-mode-origin-input =
+    .placeholder = Origin for the local mapping
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = This origin conflicts with another existing mapping
+options-local-mode-origin-invalid = This origin is invalid
 options-local-mode-folder-label = Lokal mappe:
 options-local-mode-toggle-enable = Slå på
 options-local-mode-toggle-disable = Slå av

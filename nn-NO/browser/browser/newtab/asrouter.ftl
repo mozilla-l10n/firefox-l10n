@@ -460,3 +460,11 @@ relay-50-masks-announcement-primary-button = Gå til { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Ignorer
     .accesskey = g
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } får ein ny utsjånad.</strong> Du ser ein tidleg og uferdig versjon før lanseringa seinare i år.
+nova-early-access-share-feedback-link = Del tilbakemelding
+    .accesskey = D
+nova-early-access-infobar-primary-button = Eg forstår
+    .accesskey = E

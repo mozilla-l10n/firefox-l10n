@@ -89,3 +89,11 @@ containers-icon-tree =
     .label = Tre
 containers-icon-chill =
     .label = Avslapping
+containers-window-new3 =
+    .title = Legg til ny behaldar
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Behaldarinstillingar for { $name }
+    .style = min-width: 32em

@@ -226,6 +226,12 @@ sidebar-opentabs-title = Opne faner
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Festa faner
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Vindauge { $winID } (gjeldande)
 # Heading shown above the tab list for a non-focused window in the
 # Open Tabs sidebar panel.
 # Variables:
