@@ -128,8 +128,24 @@ options-local-mode-origin-input =
 options-local-mode-origin-conflict = This origin conflicts with another existing mapping
 options-local-mode-origin-invalid = This origin is invalid
 options-local-mode-folder-label = Lokal mappe:
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Choose local mode folder for: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = This folder doesn’t exists, or is invalid.
+options-local-mode-toggle =
+    .title = Toggle this local mapping
 options-local-mode-toggle-enable = Slå på
 options-local-mode-toggle-disable = Slå av
+options-local-mode-navigate-to =
+    .title = Navigate to this mapping URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Do you want to remove “{ $mappingOrigin }” mapping?
+options-local-mode-new-mapping = Add a new local mapping
 
 ## Advanced section
 
