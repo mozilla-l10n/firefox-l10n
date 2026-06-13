@@ -1274,6 +1274,13 @@ containers-remove-button =
     .label = Remover
 containers-section-header2 =
     .heading = Ajustes del contenedor
+containers-add-button2 =
+    .label = Añadir nuevo contenedor
+    .accesskey = A
+containers-settings-button2 =
+    .title = Ajustes
+containers-remove-button2 =
+    .title = Eliminar
 
 ## Account and sync
 
@@ -1281,6 +1288,9 @@ sync-group-label =
     .label = Sincronización
 account-group-label2 =
     .label = Cuenta
+account-disabled-group =
+    .label = Cuenta
+    .description = Los ajustes de la cuenta no están disponibles.
 account-placeholder2 =
     .label = No te has conectado
     .description = Conéctate y mantén tus datos privados, cifrados e instantáneamente accesibles desde todas partes en que uses { -brand-short-name }.

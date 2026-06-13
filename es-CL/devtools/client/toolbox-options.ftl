@@ -115,6 +115,39 @@ options-sourceeditor-tabsize-label = Tamaño de la tabulación
 options-sourceeditor-keybinding-label = Combinaciones de teclas
 options-sourceeditor-keybinding-default-label = Predefinido
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modo local
+options-local-mode-only-work-locally = El modo local solo funciona localmente y se desactiva al depurar contextos remotos
+options-local-mode-domain-label = Dominio personalizado:
+options-local-mode-origin-input =
+    .placeholder = Origen del mapeo local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Este origen entra en conflicto con otro mapeo existente
+options-local-mode-origin-invalid = Este origen no es válido
+options-local-mode-folder-label = Carpeta local:
+options-local-mode-choose-folder = Examinar…
+    .title = Elige una carpeta local para entregar este mapeo
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Seleccione la carpeta de modo local para: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Esta carpeta no existe o no es válida.
+options-local-mode-toggle =
+    .title = Activar/desactivar este mapa local
+options-local-mode-toggle-enable = Habilitar
+options-local-mode-toggle-disable = Desactivar
+options-local-mode-navigate-to =
+    .title = Navegue a esta URL de mapeo
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = ¿Desea eliminar el mapeo “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Añadir un nuevo mapa local
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
