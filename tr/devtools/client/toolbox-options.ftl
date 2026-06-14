@@ -130,6 +130,10 @@ options-local-mode-origin-invalid = Bu köken geçersiz
 options-local-mode-folder-label = Yerel klasör:
 options-local-mode-choose-folder = Göz at…
     .title = Bu eşlemeyi sunmak için bir yerel klasör seç
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = { $url } için yerel mod klasörünü seçin
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Bu klasör mevcut değil veya geçersiz.
