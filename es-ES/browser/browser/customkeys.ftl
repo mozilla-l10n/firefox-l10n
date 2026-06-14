@@ -14,6 +14,7 @@ customkeys-reset-all = Restablecer todos los atajos a sus valores predeterminado
 customkeys-conflict-confirm = Esta tecla ya está asignada a { $conflict }. ¿Quiere reemplazarla?
 customkeys-reset-all-confirm = ¿Está seguro de querer restablecer todos los atajos de teclado a sus valores predeterminados?
 customkeys-file-duplicate-tab = Duplicar pestaña
+customkeys-file-focus-search = Ir a la barra de búsqueda
 customkeys-history-reopen-tab = Volver a abrir la última pestaña cerrada
 customkeys-history-reopen-window = Volver a abrir la última ventana cerrada
 customkeys-sidebar-toggle = Cambiar barra lateral
