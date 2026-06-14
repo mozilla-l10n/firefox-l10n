@@ -154,6 +154,12 @@ autofill-card-expires-month = Der.t. mēnesis
 autofill-card-expires-year = Der.t. gads
 autofill-card-billing-address = Rēķina adrese
 autofill-card-network = Kartes veids
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = kredītkartes, kredīts, kartes, debetkartes, debets, maks, norēķināšanās
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
