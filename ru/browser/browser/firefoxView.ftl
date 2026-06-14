@@ -103,8 +103,8 @@ firefoxview-collapse-button-hide =
     .title = Скрыть список
 firefoxview-overview-nav = Недавний просмотр
     .title = Недавний просмотр
-firefoxview-overview-header = Недавний просмотр
-    .title = Недавний просмотр
+firefoxview-overview-header = Недавно посещённые
+    .title = Недавно посещённые
 
 ## History in this context refers to browser history
 
@@ -156,7 +156,7 @@ firefoxview-search-text-box-recentbrowsing =
     .placeholder = Поиск
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
-    .placeholder = История поиска
+    .placeholder = Поиск по истории
 # Placeholder for the input field to search in bookmarks ("search" is a verb).
 firefoxview-search-text-box-bookmarks =
     .placeholder = Поиск в закладках
