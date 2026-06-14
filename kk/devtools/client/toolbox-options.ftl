@@ -117,6 +117,7 @@ options-sourceeditor-keybinding-default-label = Бастапқы
 
 ## Local Mode section
 
+options-local-mode-folder-label = Жергілікті бума:
 options-local-mode-toggle-enable = Іске қосу
 options-local-mode-toggle-disable = Сөндіру
 

@@ -1272,6 +1272,12 @@ containers-settings-button =
     .label = Баптаулар
 containers-remove-button =
     .label = Өшіру
+containers-section-header2 =
+    .heading = Контейнер баптаулары
+containers-settings-button2 =
+    .title = Баптаулар
+containers-remove-button2 =
+    .title = Өшіру
 
 ## Account and sync
 

@@ -458,3 +458,10 @@ relay-50-masks-announcement-primary-button = { -relay-brand-name } ішіне ө
     .accesskey = т
 relay-50-masks-announcement-secondary-button = Елемеу
     .accesskey = м
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Пікір қалдыру
+    .accesskey = л
+nova-early-access-infobar-primary-button = Түсіндім
+    .accesskey = Т
