@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Ricarica scheda
     .accesskey = R
+reload-tab2 =
+    .label = Ricarica
+    .accesskey = R
 select-all-tabs =
     .label = Seleziona tutte le schede
     .accesskey = z
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Duplica scheda
     .accesskey = D
+duplicate-tab2 =
+    .label = Duplica
+    .accesskey = D
 duplicate-tabs =
     .label = Duplica schede
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duplica
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Appunta scheda
     .accesskey = h
+tab-context-pin-tab2 =
+    .label = Appunta
+    .accesskey = u
 unpin-tab =
     .label = Rilascia scheda
     .accesskey = h
+tab-context-unpin-tab2 =
+    .label = Rilascia
+    .accesskey = c
 pin-selected-tabs =
     .label = Appunta schede
     .accesskey = h
@@ -67,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Aggiungi scheda ai segnalibri…
     .accesskey = A
+tab-context-bookmark-tab2 =
+    .label = Aggiungi ai segnalibri
+    .accesskey = A
 tab-context-open-in-new-container-tab =
     .label = Apri in nuova scheda contenitore
     .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = Apri in nuova scheda contenitore
+    .accesskey = c
 move-to-start =
     .label = Sposta all’inizio
     .accesskey = z
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
+tab-context-close-multiple-tabs2 =
+    .label = Chiudi più schede
+    .accesskey = u
 tab-context-close-duplicate-tabs =
     .label = Chiudi schede duplicate
     .accesskey = e
+tab-context-close-duplicate-tabs2 =
+    .label = Chiudi duplicati di questa scheda
+    .accesskey = d
 tab-context-share-url =
     .label = Condividi
     .accesskey = o
@@ -120,6 +147,14 @@ tab-context-close-n-tabs =
            *[other] Chiudi { $tabCount } schede
         }
     .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Chiudi
+            [one] Chiudi { $tabCount } scheda
+           *[other] Chiudi { $tabCount } schede
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -127,6 +162,19 @@ tab-context-move-tabs =
            *[other] Sposta schede
         }
     .accesskey = t
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Sposta scheda in
+            [one] Sposta { $tabCount } scheda in
+           *[other] Sposta { $tabCount } schede in
+        }
+    .accesskey = S
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Sposta schermo diviso in
+    .accesskey = m
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -135,6 +183,9 @@ tab-context-send-to-device =
            *[other] Invia { $tabCount } schede a dispositivo
         }
     .accesskey = v
+tab-context-send-to-device2 =
+    .label = Invia ai tuoi dispositivi
+    .accesskey = I
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -161,3 +212,7 @@ tab-context-unload-n-tabs =
            *[other] Scarica { $tabCount } schede dalla memoria
         }
     .accesskey = r
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Scarica
+    .accesskey = S

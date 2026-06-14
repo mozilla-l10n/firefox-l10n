@@ -181,8 +181,14 @@ tabbrowser-customizemode-tab-title = Personalizza { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Disattiva audio nella scheda
     .accesskey = i
+tabbrowser-context-mute-tab2 =
+    .label = Disattiva audio
+    .accesskey = v
 tabbrowser-context-unmute-tab =
     .label = Attiva audio nella scheda
+    .accesskey = i
+tabbrowser-context-unmute-tab2 =
+    .label = Attiva audio
     .accesskey = i
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
