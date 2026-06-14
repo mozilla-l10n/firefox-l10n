@@ -1270,6 +1270,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinhronizētās cilnes
     .tooltiptext = Parādīt cilnes no citām ierīcēm
+toolbar-button-send-tab =
+    .label = Sūtīt cilni
+    .tooltiptext = Sūtīt pašreizējo cilni uz citu ierīci
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1278,6 +1281,17 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Dalīties
     .tooltiptext = Dalīties ar šo lapu
+toolbar-button-tab-groups =
+    .label = Ciļņu kopas
+    .tooltiptext = Rādīt jūsu ciļņu kopas
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1301,6 +1315,18 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Vairāk…
+menu-share-windows =
+    .label = Vairāk iespēju
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [zero] Kopēt { $count } saites
+            [one] Kopēt saiti
+           *[other] Kopēt { $count } saites
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Kopēt saiti
     .accesskey = K
@@ -1455,6 +1481,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Beigt privāto sesiju
     .tooltiptext = Beigt privāto sesiju
+reset-pbm-panel-heading2 = Notīrīt datus un sākt jaunu privātu sesiju?
 reset-pbm-panel-heading = Beigt savu privāto sesiju?
 reset-pbm-panel-description = Aizvērt visas privātās cilnes un dzēst vēsturi, sīkdatnes un visus citus vietnes datus.
 reset-pbm-panel-always-ask-checkbox =
@@ -1463,10 +1490,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Atcelt
     .accesskey = c
+reset-pbm-panel-confirm-button2 =
+    .label = Notīrīt privāto sesiju
+    .accesskey = I
 reset-pbm-panel-confirm-button =
     .label = Dzēst sesijas datus
     .accesskey = D
 reset-pbm-panel-complete = Privātās sesijas dati ir izdzēsti
+reset-pbm-toolbar-button2 =
+    .label = Notīrīt privāto sesiju
+    .tooltiptext = Notīrīt privāto sesiju
 
 ## Autorefresh blocker
 
@@ -1683,3 +1716,14 @@ trustpanel-social-tracking-not-blocking-tab-header =
     }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:
 trustpanel-cryptominer-tab-list-header = Šīs vietnes mēģina iegūt kriptovalūtu:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Vai jums ir konts šajā vietnē?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Paslēpt
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Sākt bezmaksas skenēšanu
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Pārlādēt
+    .accesskey = R
+reduced-protection-infobar-never-show-button = Vairs nerādīt
+    .accesskey = D

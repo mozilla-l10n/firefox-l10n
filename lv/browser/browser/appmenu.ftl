@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Jauns privātais logs
 appmenuitem-history =
     .label = Vēsture
+appmenuitem-tab-groups =
+    .label = Ciļņu kopas
 appmenuitem-downloads =
     .label = Lejupielādes
 appmenuitem-passwords =
@@ -170,6 +172,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Atvērt profilētāja paneli
+    .tooltiptext = Atvērt profilētāja paneli
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -209,6 +214,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Priekšiestatījums atkļūdošanai ar { -brand-shorter-name }. Augsts virstēriņš, izmantojiet nevis darbam, kam ir vajadzīga augsta veiktspēja, bet lai saprastu pārlūkprogrammas uzvedību.
 profiler-popup-presets-debug-label =
     .label = Atkļūdošana
+profiler-popup-presets-web-compat-label =
+    .label = Tīmekļa saderība
 profiler-popup-presets-custom-label =
     .label = Pielāgots
 
@@ -274,6 +281,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Pielāgot rīkjoslu…
+appmenu-abouttranslations =
+    .label = Tulkot…
 appmenu-developer-tools-subheader = Pārlūka rīki
 appmenu-developer-tools-extensions =
     .label = Paplašinājumi izstrādātājiem
@@ -289,8 +298,13 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskējiet savu īsto e-pastu un tālruni
 appmenuitem-services-relay-description = Atvērt e-pasta masku informācijas paneli
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Iegūstiet visas ierīces aizsardzību
 appmenuitem-vpn-description = Aizsargājiet savas tiešsaistes aktivitātes
 appmenu-services-header = Mani pakalpojumi
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Izmēģiniet citus Mozilla aizsardzības rīkus:
 appmenu-other-protection-header = Izmēģiniet citus aizsardzības rīkus no { -vendor-short-name }:
 
 ## Profiles panel
@@ -298,6 +312,8 @@ appmenu-other-protection-header = Izmēģiniet citus aizsardzības rīkus no { -
 appmenu-other-profiles = Citi profili
 appmenu-manage-profiles =
     .label = Pārvaldīt profilus
+appmenu-copy-profile =
+    .label = Kopēt šo profilu
 appmenu-create-profile =
     .label = Jauns profils
 appmenu-edit-profile =
