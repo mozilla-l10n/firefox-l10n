@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Tagad mēs automātiski norai
 about-private-browsing-felt-privacy-v1-info-header = Neatstājiet uz šīs ierīces pēdas
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } izdzēš jūsu sīkdatnes, vēsturi un vietņu datus, kad aizverat visus savus privātos logus.
 about-private-browsing-felt-privacy-v1-info-link = Kas varētu redzēt manas darbības?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Aizverot visus privātos logus, tiek dzēsti sīkfaili, vēsture un vietņu dati.

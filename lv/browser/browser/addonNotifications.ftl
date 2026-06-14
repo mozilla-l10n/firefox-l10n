@@ -36,6 +36,7 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuvi MIDI (mūzikas instrumentu ciparsaskarne) ierīcēm. Ierīces piekļuvi var ieslēgt, uzinstalējot papildinājumu.
 site-permission-install-first-prompt-midi-message = Nevar galvot par šīs piekļuves drošumu. Turpiniet tikai tad, ja uzticaties šai vietnei.
+site-permission-install-first-prompt-serial-header = Šī vietne prasa piekļuvi seriālā porta ierīcēm. Piekļuvi ierīcēm var iespējot, instalējot paplašinājumu.
 
 ##
 

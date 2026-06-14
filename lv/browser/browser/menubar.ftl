@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Iestatījumi
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Iestatījumi…
 menu-application-services =
     .label = Servisi
 menu-application-hide-this =
@@ -87,6 +90,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Kopīgot
     .accesskey = K
+menu-file-share-qrcode =
+    .label = Ģenerēt QR kodu...
+    .accesskey = Q
 menu-file-print-setup =
     .label = Lapas iestatījumi…
     .accesskey = u
@@ -244,8 +250,15 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Profili
+menu-profiles-manage-profiles =
+    .label = Pārvaldīt profilus
 menu-profiles-new-profile =
     .label = Jauns profils
+menu-profiles-menu =
+    .label = Profili
+    .accesskey = P
 
 ## Tools Menu
 
@@ -255,6 +268,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Lejupielādes
     .accesskey = d
+menu-tools-extensions-and-themes =
+    .label = Paplašinājumi un tēmas
+    .accesskey = P
 menu-tools-addons-and-themes =
     .label = Papildinājumi un motīvi
     .accesskey = P

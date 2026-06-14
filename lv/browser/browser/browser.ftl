@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Saglabāt šo lapu grāmatzīmēs ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Dalītais skats
+    .aria-label = Dalītais skats
 
 ## Searchbar context menu
 
@@ -432,6 +435,9 @@ quickactions-cmd-restart = pārstartēt
 # Opens the screenshot tool
 quickactions-screenshot3 = Uzņemt ekrānuzņēmumu
 quickactions-cmd-screenshot2 = ekrānuzņēmums, veikt ekrānuzņēmumu, ekrānattēls
+# Opens about:translations
+quickactions-translate = Tulkot
+quickactions-cmd-translate = tulkot
 quickactions-cmd-screenshot = ekrānuzņēmums
 # Opens about:preferences
 quickactions-settings2 = Pārvaldīt iestatījumus
@@ -533,6 +539,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Jūsu savienojums ar šo lapu nav drošs.
 identity-connection-verified = Jūsu savienojums ar šo lapu ir drošs.
 identity-ev-owner-label = Sertifikāts izsniegts:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalificēts, kā noteikts ES regulā 2024/1183.
 identity-description-custom-root2 = Mozilla neatpazīst šo sertifikāta izdevēju. Iespējams, to ir pievienojis jūsu operētājsistēma vai administrators.
 identity-remove-cert-exception =
     .label = Noņemt izņēmumu
@@ -566,6 +574,9 @@ browser-window-restore-down-button =
     .tooltiptext = Atjaunot lejup
 browser-window-close-button =
     .tooltiptext = Aizvērt
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Atgriezties
 
 ## Tab actions
 
@@ -731,6 +742,7 @@ urlbar-result-action-search-in-private = Meklēt privātajā logā
 urlbar-result-action-search-w-engine = Meklēt ar { $engine }
 urlbar-result-action-sponsored = Sponsorēts
 urlbar-result-action-switch-tab = Pārslēgties uz cilni
+urlbar-result-action-move-tab-to-split-view = Pārvietot cilni uz dalīto skatu
 urlbar-result-action-visit = Apmeklēt
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -770,6 +782,14 @@ urlbar-result-action-copy-to-clipboard = Kopēt
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nav noteikts
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } paplašinājums
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Ieteikums
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -827,6 +847,8 @@ urlbar-result-weather-title-city-only = { $city }: <strong>{ $temperature }°{ $
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Prasīt
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -847,6 +869,9 @@ urlbar-result-menu-dont-show-market =
     .label = Nerādīt tirgus ieteikumus
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Paldies par atsauksmi! Vairs neredzēsiet tirgus ieteikumus.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Akciju tirgus ieteikumi
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Paldies par atsauksmi! Vairs neredzēsiet šos ieteikumus.
@@ -1166,6 +1191,27 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Paroles
     .tooltiptext = Skatīt un pārvaldīt savas saglabātās paroles
+qrcode-copy-button =
+    .label = Kopēt
+qrcode-copy-success =
+    .message = QR kods nokopēts starpliktuvē.
+qrcode-copy-error =
+    .message = Neizdevās nokopēt QR kodu.
+qrcode-save-button =
+    .label = Saglabāt
+qrcode-save-success =
+    .message = QR kods saglabāts.
+qrcode-save-error =
+    .message = Neizdevās saglabāt QR kodu.
+qrcode-save-title = Saglabāt QR kodu
+qrcode-save-filter-png = PNG attēls
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR kods
+qrcode-dialog-title = QR kods
+qrcode-image =
+    .aria-label = QR kods
+qrcode-close-button =
+    .aria-label = Aizvērt
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1184,6 +1230,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Jauns privātais logs
     .tooltiptext = Atver jaunu privātās pārlūkošanas logu ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Dalīties
+    .tooltiptext = Dalīties ar šo lapu
 
 ## EME notification panel
 
@@ -1534,6 +1583,13 @@ trustpanel-blocker-see-all = Redzēt visu
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Nav drošs
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1581,3 +1637,4 @@ trustpanel-social-tracking-not-blocking-tab-header =
        *[other] { -brand-product-name } atļāva { $count } sociālo mediju izsekotājus
     }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:
+trustpanel-cryptominer-tab-list-header = Šīs vietnes mēģina iegūt kriptovalūtu:
