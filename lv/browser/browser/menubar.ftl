@@ -242,6 +242,11 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobilās grāmatzīmes
 
+## Profiles Menu
+
+menu-profiles-new-profile =
+    .label = Jauns profils
+
 ## Tools Menu
 
 menu-tools =
