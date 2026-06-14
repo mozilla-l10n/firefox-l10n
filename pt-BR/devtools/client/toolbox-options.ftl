@@ -115,6 +115,19 @@ options-sourceeditor-tabsize-label = Tamanho da tabulação
 options-sourceeditor-keybinding-label = Associação de teclas
 options-sourceeditor-keybinding-default-label = Normal
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modo local
+options-local-mode-domain-label = Domínio personalizado:
+options-local-mode-origin-invalid = Esta origem é inválida
+options-local-mode-folder-label = Pasta local:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Esta pasta não existe ou é inválida.
+options-local-mode-toggle-enable = Ativar
+options-local-mode-toggle-disable = Desativar
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

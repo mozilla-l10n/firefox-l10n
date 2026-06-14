@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Gerenciar contêineres
     .accesskey = O
+user-context-new-tab =
+    .label = Nova aba
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
