@@ -37,6 +37,7 @@ xpinstall-prompt-install =
 site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuvi MIDI (mūzikas instrumentu ciparsaskarne) ierīcēm. Ierīces piekļuvi var ieslēgt, uzinstalējot papildinājumu.
 site-permission-install-first-prompt-midi-message = Nevar galvot par šīs piekļuves drošumu. Turpiniet tikai tad, ja uzticaties šai vietnei.
 site-permission-install-first-prompt-serial-header = Šī vietne prasa piekļuvi seriālā porta ierīcēm. Piekļuvi ierīcēm var iespējot, instalējot paplašinājumu.
+site-permission-install-first-prompt-serial-message = Šīs piekļuves drošība netiek garantēta. Turpiniet tikai tad, ja uzticaties šai vietnei.
 
 ##
 
@@ -145,6 +146,7 @@ addon-local-install-no-addon-name-error-file-access = Papildinājumu nevarēja i
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nevarēja uzinstalēt, jo tas nav saderīgs ar { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } pārkāpj Mozilla pamatnostādnes, un to { -brand-short-name } nevar instalēt.
+addon-install-error-soft-blocked2 = { $addonName } ir ierobežots un to nevar instalēt ierīcē { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } nevar uzinstalēt, jo tas rada lielu drošības un stabilitātes risku.
 addon-install-error-soft-blocked = { $addonName } pārkāpj Mozilla pamatnostādnes, un to { -brand-short-name } nevar instalēt.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

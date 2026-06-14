@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Mainīt, vai varat saņemt paziņojumus no šīs vietnes
 urlbar-midi-notification-anchor =
     .tooltiptext = Atvērt MIDI paneli
+urlbar-serial-notification-anchor =
+    .tooltiptext = Atvērt seriālā porta paneli
 urlbar-eme-notification-anchor =
     .tooltiptext = Pārvaldīt DRM programmatūras izmantošanu
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Jūs esat bloķējis šīs lapas pamatnes datu ieguvi.
 urlbar-midi-blocked =
     .tooltiptext = Jūs esat bloķējis MIDI piekļuvi šai tīmekļa vietnei.
+urlbar-serial-blocked =
+    .tooltiptext = Jūs esat bloķējis šīs vietnes piekļuvi seriālajam portam.
 urlbar-install-blocked =
     .tooltiptext = Jūs liedzāt papildinājumu instalēšanu šai tīmekļa vietnei.
 # Variables
@@ -387,6 +391,7 @@ quickactions-bookmarks2 = Pārvaldīt grāmatzīmes
 quickactions-cmd-bookmarks = grāmatzīmes
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Notīrīt neseno vēsturi
+quickactions-cmd-clearrecenthistory2 = sīkfaili, notīrīt sīkfailus, kešatmiņa, notīrīt kešatmiņu, pārlūkošanas dati, notīrīt pārlūkošanas datus, vēsture, notīrīt neseno vēsturi
 quickactions-cmd-clearrecenthistory = notīrīt neseno vēsturi, vēsturi
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Notīrīt vēsturi
@@ -410,10 +415,18 @@ quickactions-cmd-help = palīdzība, atbalsts
 # Opens the devtools web inspector
 quickactions-inspector2 = Atvērt izstrādātāju rīkus
 quickactions-cmd-inspector2 = inspektors, pārraugs, izstrādātāju rīki
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Izvēlieties krāsu
+quickactions-cmd-colorpicker = krāsu atlasītājs, pipete, krāsas izvēle
+# Opens Firefox Library
+quickactions-cmd-library = bibliotēka
+quickactions-library = Atvērt bibliotēku
 quickactions-cmd-inspector = inspektors, izstrādātāju rīki
 # Opens about:logins
 quickactions-logins2 = Pārvaldīt paroles
 quickactions-cmd-logins = lietotājvārdi, paroles
+# Mutes all tabs playing audio
+quickactions-mute = Izslēgt cilnes, kuras atskaņo audio
 # Opens about:addons page in the plugins section
 quickactions-plugins = Pārvaldīt spraudņus
 quickactions-cmd-plugins = spraudņi
@@ -457,6 +470,9 @@ quickactions-cmd-update = atjaunināt
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Skatīt lapas pirmkodu
 quickactions-cmd-viewsource2 = apskatīt pirmkodu, pirmkods, lapas pirmkods
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Atvērt { -firefoxlabs-brand-name }
+quickactions-cmd-labs = laboratorijas, eksperiments
 quickactions-cmd-viewsource = apskatīt pirmkodu, pirmkods
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -649,6 +665,11 @@ sharing-warning-proceed-to-tab =
     .label = Pāriet uz cilni
 sharing-warning-disable-for-session =
     .label = Izslēgt koplietošanas aizsardzību šai sesijai
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Izvēlieties seriālo portu:
+webserial-no-ports-available = Nav pieejamu seriālo portu
 
 ## DevTools F12 popup
 
@@ -987,7 +1008,11 @@ urlbar-searchmode-popup-add-engine = Pievienot “{ $engineName }”
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Meklēt ar:
 urlbar-searchmode-popup-search-settings-panelitem = Meklēšanās iestatījumi
+urlbar-searchmode-popup-settings-panelitem = Iestatījumi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1003,6 +1028,21 @@ urlbar-result-action-switch-to-tabgroup = Pārslēgties uz { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Atvērt { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Atvērt jaunā cilnē
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Atvērt jaunā konteinera cilnē
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Atvērt jaunā logā
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Atvērt jaunā privātā logā
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1076,6 +1116,9 @@ fullscreen-warning-no-domain = Šis dokuments tagad ir pilnekrāna režīmā
 fullscreen-exit-button = Iziet no pilnekrāna režīma (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
+fullscreen-keyboardlock-exit-button = Iziet no pilnekrāna režīma (nospiediet un turiet Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Iziet no pilnekrāna režīma (nospiediet un turiet taustiņu Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1191,6 +1234,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Paroles
     .tooltiptext = Skatīt un pārvaldīt savas saglabātās paroles
+qrcode-panel-error =
+    .message = Neizdevās ģenerēt QR kodu. Lūdzu, mēģiniet vēlreiz.
 qrcode-copy-button =
     .label = Kopēt
 qrcode-copy-success =
