@@ -463,6 +463,7 @@ relay-50-masks-announcement-secondary-button = Baztertu
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name }(e)k itxura berria izango du.</strong> Amaitu gabeko bertsio goiztiar baten aurrebista duzu hau, urtean beranduago kaleratuko dena.
 nova-early-access-share-feedback-link = Partekatu iritzia
     .accesskey = a
 nova-early-access-infobar-primary-button = Ulertuta

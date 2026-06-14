@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Tabulazioaren tamaina
 options-sourceeditor-keybinding-label = Tekla-konbinazioak
 options-sourceeditor-keybinding-default-label = Lehenetsia
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modu lokala
+options-local-mode-only-work-locally = Modu lokala lokalki dabil soilik eta desaktibatuta dago urruneko testuinguruak araztean
+options-local-mode-behavior = Modu lokalaren bidez fitxategi lokalak https URL bidez karga ditzakezu kanpoko menpekotasunik gabe. Garatzaile-tresnak irekita dituzten fitxetatik soilik karga daitezke URLak.
+options-local-mode-domain-label = Domeinu pertsonalizatua:
+options-local-mode-origin-input =
+    .placeholder = Mapatze lokalerako jatorria
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Jatorri honek gatazka egiten du lehendik dagoen beste mapatze batekin
+options-local-mode-origin-invalid = Jatorri hau baliogabea da
+options-local-mode-folder-label = Karpeta lokala:
+options-local-mode-choose-folder = Arakatu…
+    .title = Aukeratu mapatze hau zerbitzatzeko karpeta lokala
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Aukeratu modu lokaleko karpeta honentzat: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Karpeta ez dago edo ez da baliozkoa.
+options-local-mode-toggle =
+    .title = Txandakatu mapatze lokal hau
+options-local-mode-toggle-enable = Gaitu
+options-local-mode-toggle-disable = Desgaitu
+options-local-mode-navigate-to =
+    .title = Nabigatu mapatze-URL honetara
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = "{ $mappingOrigin }" mapatzea ezabatu nahi duzu?
+options-local-mode-new-mapping = Gehitu mapatze lokal berria
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
