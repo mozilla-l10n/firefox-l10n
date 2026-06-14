@@ -1272,6 +1272,18 @@ containers-settings-button =
     .label = Ajustes
 containers-remove-button =
     .label = Eliminar
+containers-section-header2 =
+    .heading = Ajustes del contenedor
+containers-card-header2 =
+    .label = Contenedores
+    .description = Separar las cookies por contenedor para poder utilizar diferentes cuentas en el mismo sitio web y limitar el seguimiento entre sitios.
+containers-add-button2 =
+    .label = Añadir nuevo contenedor
+    .accesskey = A
+containers-settings-button2 =
+    .title = Ajustes
+containers-remove-button2 =
+    .title = Eliminar
 
 ## Account and sync
 

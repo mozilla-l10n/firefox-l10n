@@ -6,4 +6,5 @@ default-browser-agent-task-description = Noklusējuma pārlūka aģenta uzdevums
 default-browser-notification-header-text = Turpināt izmantot { -brand-short-name }?
 default-browser-notification-body-text = Jūsu noklusējuma pārlūkprogramma nesen tika mainīta. Spiediet, lai atjaunotu { -brand-short-name } kā noklusējuma lietotni.
 default-browser-notification-yes-button-text = Jā
+default-browser-notification-privacy-no-button-text = Nē, paldies
 default-browser-notification-no-button-text = Nē

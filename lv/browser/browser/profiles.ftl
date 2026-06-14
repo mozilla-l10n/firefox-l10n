@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-heading = Izvēlieties { -brand-short-name } profilu
 profile-window-create-profile = Izveidot profilu
 profile-card-edit-button =
     .title = Rediģēt profilu
@@ -40,6 +41,8 @@ avatar-selector-cancel-button =
     .label = Atcelt
 avatar-selector-save-button =
     .label = Saglabāt
+avatar-selector-upload-file = Augšupielādēt failu
+avatar-selector-drag-file = Vai arī velciet failu šeit
 avatar-selector-add-image = Pievienot attēlu
 avatar-selector-crop = Apgriezt
 edit-profile-page-profile-saved = Saglabāts

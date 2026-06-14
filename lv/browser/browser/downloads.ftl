@@ -183,6 +183,18 @@ downloads-history =
 downloads-details =
     .title = Lejupielādes informācija
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-details =
+    .title = Faili paliek jūsu ierīcē
+downloads-private-browsing-message = Ikviens, kas izmanto šo ierīci, pat ja aizverat visus privātos logus, var redzēt lejupielādes.
+downloads-private-browsing-delete-button =
+    .label = Dzēst failus automātiski
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = Sapratu
+    .accesskey = G
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
