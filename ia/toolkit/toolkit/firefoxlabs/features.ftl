@@ -98,4 +98,4 @@ experimental-features-semantic-history-search-description = Usa un modello local
 # Tab Notes
 experimental-features-tab-notes =
     .label = Notas sur schedas
-experimental-features-tab-notes-description = Notas sur schedas es un function experimental que te permitte de adder notas collose al schedas de tu navigator. Nos multo placerea tu commentario dum nos continua a meliorar iste functionalitate. <a data-l10n-name="connect">Condivide tu commentario</a>
+experimental-features-tab-notes-description = Notas de scheda es un function experimental que te permitte adder notas adhesive al schedas de tu navigator. Nota contexto, rememorationes o passos proxime pro poter retornar e recordar proque tu lo aperiva. Nos amarea reciper tu opiniones durante que nos continua a meliorar iste function. <a data-l10n-name="connect">Condivide tu commentario</a>
