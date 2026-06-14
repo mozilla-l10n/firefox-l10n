@@ -246,3 +246,13 @@ privacy-metrics-empty = No hay rastreadores bloqueados esta semana. { -brand-sho
 privacy-metrics-loading = Cargando estadísticas de protección…
 privacy-metrics-error = No se han podido cargar las estadísticas de protección.
 privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no guarda el registro de lo que se bloqueó.
+
+## VPN promo card and banner
+
+protections-vpn-title = Lleve la protección de privacidad más allá del navegador
+protections-vpn-header-content = Proteja todo su dispositivo con { -mozilla-vpn-brand-name }. Con un solo toque, se cifra todo el tráfico y oculta su ubicación.
+protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Suscrito
+protections-vpn-banner-header = Protección que se extiende más allá del navegador
+protections-vpn-banner-content = Pruebe { -mozilla-vpn-brand-name } sin riesgos y vea por qué TechRadar dice que “su velocidad, simplicidad y bajo precio mensual hacen que valga la pena probarla”.
+protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }

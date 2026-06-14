@@ -41,3 +41,5 @@ default-browser-guidance-notification-body-instruction-win11 =
 default-browser-guidance-notification-info-page = Rādīt vairāk
 default-browser-guidance-notification-dismiss = Gatavs
 default-browser-guidance-notification-v2-title = Pabeidziet { -brand-short-name } iestatīšanu par savu noklusējuma pārlūkprogrammu
+default-browser-guidance-notification-v2-body = Iestatījumos izvēlieties "Iestatīt kā noklusējuma" { -brand-short-name }
+default-browser-guidance-notification-v2-title-only = Iestatījumos pabeidziet { -brand-short-name } iestatīšanu par noklusējuma pārlūkprogrammu.
