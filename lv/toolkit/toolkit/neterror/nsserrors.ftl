@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Servera piedāvātajā sertifikāt
 mozilla-pkix-error-empty-issuer-name = Serveris piedāvāja sertifikātu, ar tukšu izdevēja nosaukumu.
 mozilla-pkix-error-additional-policy-constraint-failed = Papildus politikas ierobežojuma pārbaude neizdevās pārbaudot šo sertifikātu.
 mozilla-pkix-error-self-signed-cert = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
+mozilla-pkix-error-issuer-no-longer-trusted = Sertifikācijas institūcija, kura izsniedza sertifikātu, bija neuzticama pirms sertifikāts tika izsniegts.
 xp-java-remove-principal-error = Nevar aizvākt direktoru
 xp-java-delete-privilege-error = Nevar nodzēst privilēģiju
 xp-java-cert-not-exists-error = Direktoram nav sertifikāta

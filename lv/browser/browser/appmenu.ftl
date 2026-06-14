@@ -214,6 +214,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Priekšiestatījums atkļūdošanai ar { -brand-shorter-name }. Augsts virstēriņš, izmantojiet nevis darbam, kam ir vajadzīga augsta veiktspēja, bet lai saprastu pārlūkprogrammas uzvedību.
 profiler-popup-presets-debug-label =
     .label = Atkļūdošana
+profiler-popup-presets-web-compat-description = Ieteicamais iepriekšiestatījums tīmekļa saderības problēmu novēršanai tīmekļa vietnēs, ne veiktspējas izsekošanai.
 profiler-popup-presets-web-compat-label =
     .label = Tīmekļa saderība
 profiler-popup-presets-custom-label =
