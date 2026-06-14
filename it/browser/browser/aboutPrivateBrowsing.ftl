@@ -82,4 +82,3 @@ about-private-browsing-felt-privacy-v1-info-link = Chi potrebbe vedere la mia at
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Quando si chiudono tutte le finestre anonime, cookie, cronologia e dati dei siti web vengono eliminati.
-

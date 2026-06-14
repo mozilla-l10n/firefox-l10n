@@ -20,4 +20,3 @@ about-pdf-set-default =
     .label = Imposta come predefinito
 about-pdf-dismiss =
     .label = Chiudi
-

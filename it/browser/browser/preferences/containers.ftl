@@ -97,4 +97,3 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Impostazioni per contenitore { $name }
     .style = min-width: 32em
-
