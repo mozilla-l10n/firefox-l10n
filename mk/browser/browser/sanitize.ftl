@@ -52,7 +52,7 @@ data-section-label = Податоци
 item-offline-apps =
     .label = Локалните податоци за мрежни места
     .accesskey = о
-sanitize-everything-undo-warning = Ова дејство не може да се одврати.
+sanitize-everything-undo-warning = Ова е неповратна акција.
 window-close =
     .key = w
 sanitize-button-ok =
@@ -68,4 +68,4 @@ sanitize-everything-warning = Цела пребарувачка историја
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Сите селектирани предмети ќе се избришат.
+sanitize-selected-warning = Сите избрани ставки ќе се избришат.

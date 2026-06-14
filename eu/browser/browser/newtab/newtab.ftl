@@ -1174,6 +1174,8 @@ newtab-sports-widget-match-penalties = Penaltiak
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = -
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Adi egon hurrengo partiden xehetasunetara
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1185,6 +1187,12 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .aria-label = Hurrengoa
     .title = Hurrengoa
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Zuzeneko partida { $index }/{ $total }
+    .title = Zuzeneko partida { $index }/{ $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.

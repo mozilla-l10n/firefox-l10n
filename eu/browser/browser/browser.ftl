@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Kudeatu laster-markak
 quickactions-cmd-bookmarks = laster-markak
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Garbitu azken historia
+quickactions-cmd-clearrecenthistory2 = cookieak, garbitu cookieak, cachea, garbitu cachea, nabigatze-datuak, garbitu nabigatze-datuak, historia, garbitu azkenaldiko historia
 quickactions-cmd-clearrecenthistory = garbitu azken historia, historia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Garbitu historia
