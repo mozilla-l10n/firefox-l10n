@@ -1272,6 +1272,18 @@ containers-settings-button =
     .label = Configurações
 containers-remove-button =
     .label = Remover
+containers-section-header2 =
+    .heading = Configurações de contêineres
+containers-card-header2 =
+    .label = Contêineres
+    .description = Separe cookies por contêiner para poder usar contas diferentes no mesmo site e limitar o rastreamento entre sites.
+containers-add-button2 =
+    .label = Adicionar novo contêiner
+    .accesskey = A
+containers-settings-button2 =
+    .title = Configurações
+containers-remove-button2 =
+    .title = Remover
 
 ## Account and sync
 
@@ -1279,6 +1291,9 @@ sync-group-label =
     .label = Sincronização
 account-group-label2 =
     .label = Conta
+account-disabled-group =
+    .label = Conta
+    .description = As configurações da conta não estão disponíveis.
 account-placeholder2 =
     .label = Você não está conectado.
     .description = Entre na sua conta e mantenha seus dados privativos, criptografados e acessíveis imediatamente onde quer que use o { -brand-short-name }.
