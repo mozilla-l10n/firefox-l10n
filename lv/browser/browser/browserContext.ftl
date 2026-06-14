@@ -273,6 +273,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Skatīt aprakstu
     .accesskey = p
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Meklēt attēlu ar { $engine }
+    .accesskey = e
 main-context-menu-video-save-as =
     .label = Saglabāt video kā…
     .accesskey = g
@@ -397,3 +402,5 @@ main-context-menu-reveal-password =
     .accesskey = A
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Jaunums
+main-context-menu-pdfjs-copy-page =
+    .label = Kopēt lapu
