@@ -876,6 +876,36 @@ urlbar-result-weather-provider-sponsored = { $provider } · На правах р
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спросить
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Вы посещали последний раз { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Вы посещали последний раз { $daysAgo } день назад
+        [few] Вы посещали последний раз { $daysAgo } дня назад
+       *[many] Вы посещали последний раз { $daysAgo } дней назад
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Вы посещали последний раз { $weeksAgo } неделю назад
+        [few] Вы посещали последний раз { $weeksAgo } недели назад
+       *[many] Вы посещали последний раз { $weeksAgo } недель назад
+    }
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
