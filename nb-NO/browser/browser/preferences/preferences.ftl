@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Åpne { -brand-short-name } automatisk når datamaskinen din starter opp
     .accesskey = p
 windows-launch-on-login-disabled = Denne innstillingen er deaktivert i Windows. For å endre, gå til <a data-l10n-name="startup-link">Oppstartsapper</a> i Systeminnstillinger.
+windows-launch-on-login-open-new-tab =
+    .label = Åpne også en ny fane
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Aktiver denne innstillingen ved å merke av for «{ profile-manager-use-selected.label }» i «Velg brukerprofil»-vinduet.
 startup-restore-warn-on-quit =
     .label = Advarer når du avslutter nettleseren

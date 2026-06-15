@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = Tilpass { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Lyd av i fane
     .accesskey = D
+tabbrowser-context-mute-tab2 =
+    .label = Slå av lyd
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Lyd på i fane
     .accesskey = d
+tabbrowser-context-unmute-tab2 =
+    .label = Slå på lyd
+    .accesskey = p
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Lyd av i faner
