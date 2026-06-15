@@ -183,13 +183,13 @@ tabbrowser-context-mute-tab =
     .accesskey = L
 tabbrowser-context-mute-tab2 =
     .label = Ljud av
-    .accesskey = L
+    .accesskey = a
 tabbrowser-context-unmute-tab =
     .label = Ljud på för flik
     .accesskey = j
 tabbrowser-context-unmute-tab2 =
     .label = Ljud på
-    .accesskey = L
+    .accesskey = p
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Ljud av för flikar

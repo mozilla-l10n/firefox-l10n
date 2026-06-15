@@ -302,7 +302,7 @@ launch-on-login-infobar-final-reject-button = Nej tack
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-title = Öppna { -brand-short-name } nästa gång din dator startar?
-launch-on-login-spotlight-startup-checkbox = Starta { -brand-short-name } vid start
+launch-on-login-spotlight-startup-checkbox = Starta { -brand-short-name } vid uppstart
 launch-on-login-spotlight-pin-taskbar-checkbox = Fäst till aktivitetsfältet
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing

@@ -193,7 +193,7 @@ windows-launch-on-login =
 windows-launch-on-login-disabled = Den här inställningen har inaktiverats i Windows. För att ändra, besök <a data-l10n-name="startup-link">Autostart-appar</a> i Systeminställningar.
 windows-launch-on-login-open-new-tab =
     .label = Öppna också en ny flik
-    .accesskey = Ö
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Aktivera den här inställningen genom att markera "{ profile-manager-use-selected.label }" i fönstret "Välj användarprofil".
 startup-restore-warn-on-quit =
     .label = Varna när du avslutar webbläsaren

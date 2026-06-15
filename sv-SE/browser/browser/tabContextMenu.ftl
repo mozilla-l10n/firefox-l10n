@@ -13,8 +13,8 @@ reload-tab =
     .label = Uppdatera flik
     .accesskey = U
 reload-tab2 =
-    .label = Uppdatera
-    .accesskey = U
+    .label = Ladda om
+    .accesskey = L
 select-all-tabs =
     .label = Välj alla flikar
     .accesskey = V
@@ -89,8 +89,8 @@ tab-context-open-in-new-container-tab =
     .label = Öppna i ny innehållsflik
     .accesskey = n
 tab-context-open-in-new-container-tab2 =
-    .label = Öppna i en ny innehållsflik
-    .accesskey = Ö
+    .label = Öppna i en ny behållarflik
+    .accesskey = b
 move-to-start =
     .label = Flytta till början
     .accesskey = b
@@ -108,14 +108,14 @@ tab-context-close-multiple-tabs =
     .label = Stäng flera flikar
     .accesskey = f
 tab-context-close-multiple-tabs2 =
-    .label = Stäng multipel
-    .accesskey = S
+    .label = Stäng flera
+    .accesskey = f
 tab-context-close-duplicate-tabs =
     .label = Stäng dubbletter av flikar
     .accesskey = d
 tab-context-close-duplicate-tabs2 =
     .label = Stäng dubbletter av denna flik
-    .accesskey = S
+    .accesskey = d
 tab-context-share-url =
     .label = Dela
     .accesskey = D
@@ -151,7 +151,6 @@ tab-context-close-n-tabs2 =
     .label =
         { $tabCount ->
             [1] Stäng
-            [one] Stäng { $tabCount } flikar
            *[other] Stäng { $tabCount } flikar
         }
     .accesskey = S
@@ -168,14 +167,13 @@ tab-context-move-tabs2 =
     .label =
         { $tabCount ->
             [1] Flytta flik till
-            [one] Flytta { $tabCount } flikar till
-           *[other] Flytta { $tabCount } flikar till
+           *[other] Flytta { $tabCount } flikat till
         }
     .accesskey = F
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Flytta delad vy till
-    .accesskey = F
+    .accesskey = d
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -186,7 +184,7 @@ tab-context-send-to-device =
     .accesskey = S
 tab-context-send-to-device2 =
     .label = Skicka till dina enheter
-    .accesskey = S
+    .accesskey = e
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =

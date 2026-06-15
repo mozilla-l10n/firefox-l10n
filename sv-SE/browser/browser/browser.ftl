@@ -886,8 +886,8 @@ urlbar-result-explanation-last-visited-relative = Du besökte senast { $date }
 #   $daysAgo (number) - The number of days ago
 urlbar-result-explanation-last-visited-days =
     { $daysAgo ->
-        [one] Ditt besök senast för { $daysAgo } dag sedan
-       *[other] Du senast besökte { $daysAgo } dagar sedan
+        [one] Du besökte senast för { $daysAgo } dag sedan
+       *[other] Du besökte senast för { $daysAgo } dagar sedan
     }
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.
@@ -895,8 +895,8 @@ urlbar-result-explanation-last-visited-days =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks =
     { $weeksAgo ->
-        [one] Du var här senast för { $weeksAgo } vecka sedan
-       *[other] Du senast besökte { $weeksAgo } veckor sedan
+        [one] Du besökte senast för { $weeksAgo } vecka sedan
+       *[other] Du besökte senast för { $weeksAgo } veckor sedan
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
@@ -904,14 +904,14 @@ urlbar-result-explanation-last-visited-weeks =
 #   $monthsAgo (number) - The number of months ago
 urlbar-result-explanation-last-visited-months =
     { $monthsAgo ->
-        [one] Du var här senast för { $monthsAgo } månad sedan
-       *[other] Du senast besökte { $monthsAgo } månader sedan
+        [one] Du besökte senast för { $monthsAgo } månad sedan
+       *[other] Du besökte senast för { $monthsAgo } månader sedan
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
 #   $date (string) - A localized absolute date string
-urlbar-result-explanation-last-visited-absolute = Du senast besökte den { $date }
+urlbar-result-explanation-last-visited-absolute = Du besökte senast { $date }
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
