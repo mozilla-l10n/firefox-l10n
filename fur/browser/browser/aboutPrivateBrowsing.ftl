@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = O refudìn in automatic tancj
 about-private-browsing-felt-privacy-v1-info-header = No sta lassâ segns su chest dispositîf
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } al elimine i cookies, la cronologjie e i dâts dai sîts cuant che tu sieris ducj i barcons privâts.
 about-private-browsing-felt-privacy-v1-info-link = Cui podaressial viodi la mê ativitât?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Cuant che tu sieris ducj i barcons privâts a vegnin eliminâts i cookies, la cronologjie e i dâts dal sît.
