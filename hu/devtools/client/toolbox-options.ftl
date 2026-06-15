@@ -122,11 +122,32 @@ options-local-mode-label = Helyi mód
 options-local-mode-only-work-locally = A Helyi mód csak helyileg működik, és távoli környezetek hibakeresésekor le van tiltva
 options-local-mode-behavior = A Helyi mód lehetővé teszi, hogy helyi fájlokat töltsön be https webcímen keresztül, külső függőség nélkül. A webcímek csak megnyitott fejlesztői eszközök mellett tölthetők be.
 options-local-mode-domain-label = Egyéni domain:
+options-local-mode-origin-input =
+    .placeholder = A helyi hozzárendelés eredete
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Ez az eredet ütközik egy másik létező hozzárendeléssel
 options-local-mode-origin-invalid = Ez az eredet érvénytelen
 options-local-mode-folder-label = Helyi mappa:
+options-local-mode-choose-folder = Tallózás…
+    .title = Válasszon helyi mappát a hozzárendelés kiszolgálásához
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Válasszon helyi módú mappát a következőhöz: { $url }
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Ez a mappa nem létezik vagy érvénytelen.
+options-local-mode-toggle =
+    .title = Helyi hozzárendelés be/ki
+options-local-mode-toggle-enable = Engedélyezés
+options-local-mode-toggle-disable = Letiltás
+options-local-mode-navigate-to =
+    .title = Navigálás erre a hozzárendelési webcímre
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Biztos, hogy eltávolítja a(z) „{ $mappingOrigin }” hozzárendelést?
+options-local-mode-new-mapping = Új helyi hozzárendelés hozzáadása
 
 ## Advanced section
 

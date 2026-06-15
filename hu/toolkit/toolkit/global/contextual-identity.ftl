@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Konténerek kezelése
     .accesskey = O
+user-context-new-tab =
+    .label = Új lap
+    .accesskey = j
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
