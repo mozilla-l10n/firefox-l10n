@@ -33,6 +33,8 @@ ipprotection-feature-introduction-description-private-browsing = Navegueu amb pr
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = En una Wi-Fi pública? Proveu la VPN integrada del { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegueu amb protecció addicional amagant la ubicació, fins i tot en xarxes Wi-Fi públiques.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Obteniu <a data-l10n-name="learn-more-vpn">més privadesa</a> triant entre diverses ubicacions per amagar des d'on navegueu.
 ipprotection-feature-introduction-button-primary = Següent
 ipprotection-feature-introduction-button-secondary-not-now = Ara no
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -53,6 +55,7 @@ ipprotection-site-settings-callout-button = Entesos
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nou: Canvieu la vostra ubicació
+ipprotection-location-selection-callout-description-1 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> us permet triar entre diverses ubicacions de navegació o deixar que nosaltres triem la més ràpida.
 ipprotection-location-selection-callout-primary-button = Proveu-ho
 ipprotection-location-selection-callout-secondary-button = Descarta
 
@@ -62,6 +65,7 @@ ipprotection-location-selection-callout-secondary-button = Descarta
 unauthenticated-vpn-title = Proveu la VPN integrada del { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Amagueu la vostra ubicació</a> mentre navegueu amb el { -brand-product-name }.
 unauthenticated-private-location-message = Ajuda a <a data-l10n-name="learn-more-vpn">mantenir la privadesa de la vostra ubicació</a> al { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Trieu entre diverses ubicacions o deixeu que el { -brand-product-name } triï la més ràpida.
 unauthenticated-get-started = Comença
 unauthenticated-terms-of-service-privacy-notice = En continuar, accepteu les <a data-l10n-name="vpn-terms-of-service">condicions d'ús del servei</a> i l'<a data-l10n-name="vpn-privacy-notice">avís de privadesa</a>.
 site-exclusion-toggle-enabled-1 =
@@ -70,6 +74,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Fes servir la VPN per a aquest lloc
     .aria-label = La VPN està desactivada per a aquest lloc
+site-exclusion-toggle-description = El lloc web no funciona? Proveu de desactivar la VPN.
 ipprotection-settings-link =
     .label = Paràmetres
 
@@ -88,11 +93,14 @@ ipprotection-button-connecting = S'està activant…
 ## VPN paused state
 
 upgrade-vpn-title = Obteniu protecció addicional més enllà del navegador
+upgrade-vpn-description = Trieu la ubicació de la VPN, utilitzeu la VPN per a totes les aplicacions i fins a 5 dispositius, i protegiu la vostra connexió en qualsevol xarxa, ja sigui a casa o en una Wi-Fi pública.
+upgrade-vpn-button = Proveu el { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-2 = La VPN està en pausa
     .aria-label = La VPN està en pausa
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-description = Torneu-ho a provar d'aquí a uns minuts.
 ipprotection-connection-status-network-error-title-1 = Comproveu la connexió a Internet
     .aria-label = Comproveu la connexió a Internet
 ipprotection-connection-status-blocked-error-title-1 = La VPN no està disponible
