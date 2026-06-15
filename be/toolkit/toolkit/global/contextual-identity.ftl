@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Кіраваць кантэйнерамі
     .accesskey = К
+user-context-new-tab =
+    .label = Новая картка
+    .accesskey = т
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

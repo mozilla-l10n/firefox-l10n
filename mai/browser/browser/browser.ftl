@@ -284,8 +284,9 @@ urlbar-go-button2 =
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".

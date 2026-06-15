@@ -115,6 +115,12 @@ options-sourceeditor-tabsize-label = Шырыня табуляцыі
 options-sourceeditor-keybinding-label = Клавіятурныя скароты
 options-sourceeditor-keybinding-default-label = Прадвызначана
 
+## Local Mode section
+
+options-local-mode-domain-label = Карыстальніцкі дамен:
+options-local-mode-toggle-enable = Уключыць
+options-local-mode-toggle-disable = Адключыць
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

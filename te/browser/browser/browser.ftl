@@ -575,8 +575,9 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = పేజీ చర్యలు
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = అంతరంగిక కిటికీలో వెతుకు
