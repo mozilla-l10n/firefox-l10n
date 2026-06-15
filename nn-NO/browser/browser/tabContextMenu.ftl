@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Oppdater fane
     .accesskey = O
+reload-tab2 =
+    .label = Oppdater
+    .accesskey = O
 select-all-tabs =
     .label = Vel alle faner
     .accesskey = f
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Dupliser fane
     .accesskey = D
+duplicate-tab2 =
+    .label = Duplikat
+    .accesskey = D
 duplicate-tabs =
     .label = Dupliser faner
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duplikat
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Fest fane
     .accesskey = F
+tab-context-pin-tab2 =
+    .label = Fest
+    .accesskey = F
 unpin-tab =
     .label = Løys fane
     .accesskey = s
+tab-context-unpin-tab2 =
+    .label = Løys
+    .accesskey = L
 pin-selected-tabs =
     .label = Fest faner
     .accesskey = F
@@ -67,8 +82,14 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Bokmerk fane…
     .accesskey = B
+tab-context-bookmark-tab2 =
+    .label = Bokmerke
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Opne i ny behaldarfane
+    .accesskey = O
+tab-context-open-in-new-container-tab2 =
+    .label = Opne i ei ny behaldarfane
     .accesskey = O
 move-to-start =
     .label = Flytt heilt til venstre
@@ -88,6 +109,9 @@ tab-context-close-multiple-tabs =
     .accesskey = f
 tab-context-close-duplicate-tabs =
     .label = Lat att dupliserte faner
+    .accesskey = a
+tab-context-close-duplicate-tabs2 =
+    .label = Lat att duplikat av denne fana
     .accesskey = a
 tab-context-share-url =
     .label = Del
@@ -127,6 +151,10 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Flytt splitt vising til
+    .accesskey = F
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -134,6 +162,9 @@ tab-context-send-to-device =
             [1] Send til eining
            *[other] Send { $tabCount } faner til eining
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = Send til einingane dine
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =

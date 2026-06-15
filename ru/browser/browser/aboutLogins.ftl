@@ -16,7 +16,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = Добавить пароль
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
-fxaccounts-sign-in-sync-button = Войдите для синхронизации
+fxaccounts-sign-in-sync-button = Войдите в синхронизацию
 fxaccounts-avatar-button =
     .title = Управление аккаунтом
 
