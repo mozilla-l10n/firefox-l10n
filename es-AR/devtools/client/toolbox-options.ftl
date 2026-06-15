@@ -115,6 +115,12 @@ options-sourceeditor-tabsize-label = Tamaño de tabulación
 options-sourceeditor-keybinding-label = Keybindings
 options-sourceeditor-keybinding-default-label = Predeterminados
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modo local
+options-local-mode-only-work-locally = El modo local solo funciona localmente y está deshabilitado al depurar contextos remotos
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
