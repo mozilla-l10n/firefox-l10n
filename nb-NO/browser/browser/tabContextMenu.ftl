@@ -135,6 +135,9 @@ tab-context-send-to-device =
            *[other] Send { $tabCount } faner til enhet
         }
     .accesskey = n
+tab-context-send-to-device2 =
+    .label = Send til enhetene dine
+    .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =

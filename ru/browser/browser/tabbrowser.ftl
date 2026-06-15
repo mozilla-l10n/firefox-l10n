@@ -200,9 +200,15 @@ tabbrowser-customizemode-tab-title = Настройка { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Отключить звук вкладки
     .accesskey = О
+tabbrowser-context-mute-tab2 =
+    .label = Отключить звук
+    .accesskey = Ь
 tabbrowser-context-unmute-tab =
     .label = Включить звук вкладки
     .accesskey = в
+tabbrowser-context-unmute-tab2 =
+    .label = Включить звук
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Отключить звук вкладок

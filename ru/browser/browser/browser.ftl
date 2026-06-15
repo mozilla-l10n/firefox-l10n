@@ -905,6 +905,26 @@ urlbar-result-explanation-last-visited-weeks =
         [few] Вы посещали последний раз { $weeksAgo } недели назад
        *[many] Вы посещали последний раз { $weeksAgo } недель назад
     }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Последний раз вы посещали { $monthsAgo } месяц назад
+        [few] Последний раз вы посещали { $monthsAgo } месяца назад
+       *[many] Последний раз вы посещали { $monthsAgo } месяцев назад
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Вы посещали последний раз { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Добавлено в закладки { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

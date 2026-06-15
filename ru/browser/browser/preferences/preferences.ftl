@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Открывать { -brand-short-name } автоматически при загрузке компьютера
     .accesskey = м
 windows-launch-on-login-disabled = Эта настройка отключена в Windows. Чтобы изменить это, откройте <a data-l10n-name="startup-link">Автозагрузка приложений</a> в настройках системы.
+windows-launch-on-login-open-new-tab =
+    .label = Также открыть новую вкладку
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Включите эту настройку, установив флажок «{ profile-manager-use-selected.label }» в окне «Выбор профиля пользователя».
 startup-restore-warn-on-quit =
     .label = Предупреждать при выходе из браузера
