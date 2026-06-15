@@ -25,14 +25,6 @@ clear-site-data-cookies-empty =
     .label = Infokapsler og nettstedsdata
     .accesskey = s
 clear-site-data-cookies-info = Du kan bli logget ut av nettsider du har fjernet data fra
-# The parameters in parentheses in this string describe disk usage
-# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
-# Variables:
-#   $amount (Number) - Amount of cache currently stored on disk
-#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
-clear-site-data-cache-with-data =
-    .label = Hurtiglagret (cachet) nettinnhold ({ $amount } { $unit })
-    .accesskey = s
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -40,7 +32,7 @@ clear-site-data-cache-with-data =
 # to avoid flickering.
 clear-site-data-cache-empty =
     .label = Hurtiglagret (cachet) nettinnhold
-    .accesskey = s
+    .accesskey = u
 clear-site-data-cache-info = Krever at nettsider laster bilder og data på nytt
 clear-site-data-dialog =
     .buttonlabelaccept = Tøm
