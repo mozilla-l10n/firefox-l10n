@@ -214,9 +214,9 @@ preferences-fonts-header2 =
     .label = Фонтови
 preferences-fonts-header = Фонтови
 default-font = Основен фонт
-    .accesskey = Д
+    .accesskey = О
 default-font-size = Големина
-    .accesskey = С
+    .accesskey = Г
 advanced-fonts =
     .label = Напредно…
     .accesskey = Н
@@ -342,8 +342,8 @@ update-in-progress-cancel-button = &Продолжи
 
 performance-title = Перформанси
 performance-use-recommended-settings-checkbox =
-    .label = Користете препорачани поставки за перформанси
-    .accesskey = у
+    .label = Користи препорачани поставки за перформанси
+    .accesskey = К
 performance-settings-learn-more = Дознајте повеќе
 performance-allow-hw-accel =
     .label = Користи хардверско забрзување кога е достапно
@@ -354,6 +354,10 @@ performance-default-content-process-count =
     .label = { $num } (основно)
 performance-group =
     .label = Перформанси
+performance-use-recommended-settings-checkbox-2 =
+    .label = Користи препорачани поставки за перформанси
+    .description = Овие поставки се прилагодени на вашиот хардвер и оперативен систем
+    .accesskey = К
 
 ## Accessibility page
 
@@ -366,7 +370,7 @@ browsing-use-smooth-scrolling =
     .accesskey = М
 browsing-use-onscreen-keyboard =
     .label = Прикажи тастатура за допир кога тоа е потребно
-    .accesskey = k
+    .accesskey = к
 browsing-use-cursor-navigation =
     .label = Овозможи прелистување со тастатура
     .accesskey = в
@@ -459,9 +463,6 @@ home-prefs-sections-rows-option =
 
 search-engine-default-header = Основен пребарувач
 search-suggestions-header = Предлози за пребарување
-search-suggestions-option =
-    .label = Прикажувај предлог-пребарувања
-    .accesskey = s
 search-suggestions-cant-show-2 =
     .message = Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи { -brand-short-name } е прилагоден никогаш да не ја снима историјата на прелистување.
 search-suggestions-cant-show = Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи { -brand-short-name } е прилагоден никогаш да не ја снима историјата на прелистување.
@@ -472,10 +473,10 @@ search-choose-keyword-column =
     .label = Клучен збор
 search-restore-default =
     .label = Врати ги основните пербарувачи
-    .accesskey = d
+    .accesskey = о
 search-remove-engine =
-    .label = Избриши
-    .accesskey = r
+    .label = Отстрани
+    .accesskey = р
 search-find-more-link = Пронајди уште пребарувачи
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -592,8 +593,8 @@ forms-exceptions =
     .accesskey = ч
 forms-breach-alerts-learn-more-link = Дознајте повеќе
 forms-saved-logins =
-    .label = Снимени најави …
-    .accesskey = L
+    .label = Снимени најави…
+    .accesskey = н
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -652,7 +653,7 @@ cookies-site-data-group =
 
 addressbar-locbar-bookmarks-option =
     .label = Обележувачи
-    .accesskey = к
+    .accesskey = б
 addressbar-locbar-openpage-option =
     .label = Отворени јазичиња
     .accesskey = о
@@ -673,13 +674,13 @@ content-blocking-warning-title = Внимание!
 content-blocking-warning-learn-how = Дознајте како
 content-blocking-tracking-protection-option-all-windows =
     .label = Во сите прозорци
-    .accesskey = а
+    .accesskey = с
 content-blocking-option-private =
     .label = Само во приватни прозорци
     .accesskey = п
 content-blocking-cookies-label =
     .label = Колачиња
-    .accesskey = ц
+    .accesskey = К
 content-blocking-expand-section =
     .tooltiptext = Повеќе информации
 

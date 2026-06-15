@@ -34,7 +34,7 @@ welcome-back-page-title = Успех!
 welcome-back-page-info = { -brand-short-name } веќе се користи.
 welcome-back-restore-button =
     .label = Да започнеме!
-    .accesskey = Л
+    .accesskey = Д
 welcome-back-restore-all-label = Врати ги сите прозорци и јазичиња
 welcome-back-restore-some-label = Врати ги само тие што сакаш
 welcome-back-page-info-link = Вашите додатоци и прилагодувања беа избришани и прелистувачот е вратен на основните прилагодувања. Ако ова не го реши вашиот проблем, <a data-l10n-name="link-more">дознајте повеќе за тоа што Вие можете да направите.</a>

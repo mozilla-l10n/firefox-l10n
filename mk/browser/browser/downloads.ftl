@@ -99,7 +99,7 @@ downloads-cancel-download =
 # the panel at all.
 downloads-history =
     .label = Прикажи ги сите преземања
-    .accesskey = S
+    .accesskey = с
 # This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =

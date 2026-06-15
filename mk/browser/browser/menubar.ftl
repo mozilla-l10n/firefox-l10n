@@ -236,5 +236,5 @@ menu-help =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = Пријавете измамничка страница
-    .accesskey = D
+    .label = Пријави измамничко место…
+    .accesskey = з
