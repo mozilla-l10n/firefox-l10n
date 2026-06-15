@@ -216,9 +216,15 @@ tabbrowser-customizemode-tab-title = خصّص { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = اكتم اللسان
     .accesskey = ك
+tabbrowser-context-mute-tab2 =
+    .label = اكتم
+    .accesskey = ك
 tabbrowser-context-unmute-tab =
     .label = أطلِق صوت اللسان
     .accesskey = ط
+tabbrowser-context-unmute-tab2 =
+    .label = أطلق الصوت
+    .accesskey = ل
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = اكتم الألسنة
