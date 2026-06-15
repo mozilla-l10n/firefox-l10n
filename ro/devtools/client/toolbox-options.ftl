@@ -120,6 +120,34 @@ options-sourceeditor-keybinding-default-label = Implicite
 # The heading
 options-local-mode-label = Mod local
 options-local-mode-only-work-locally = Modul local funcționează doar local și este dezactivat la depanarea contextelor de la distanță
+options-local-mode-behavior = Modul local îți permite să încarci fișiere locale prin URL https fără nicio dependență externă. URL-urile pot fi încărcate doar din filele cu DevTools deschise.
+options-local-mode-domain-label = Domeniu personalizat:
+options-local-mode-origin-input =
+    .placeholder = Originea mapării locale
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Originea este în conflict cu o altă mapare existentă
+options-local-mode-origin-invalid = Originea este invalidă
+options-local-mode-folder-label = Dosar local:
+options-local-mode-choose-folder = Răsfoiește…
+    .title = Alege un dosar local pentru a servi această mapare
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Alege dosarul în modul local pentru: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Dosarul nu există sau este nevalid.
+options-local-mode-toggle =
+    .title = Activează/dezactivează această mapare locală
+options-local-mode-toggle-enable = Activează
+options-local-mode-toggle-disable = Dezactivează
+options-local-mode-navigate-to =
+    .title = Navighează la această adresă URL de mapare
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Vrei să elimini maparea „{ $mappingOrigin }”?
+options-local-mode-new-mapping = Adăugă o nouă mapare locală
 
 ## Advanced section
 
