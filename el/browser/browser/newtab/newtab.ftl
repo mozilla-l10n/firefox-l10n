@@ -1171,6 +1171,9 @@ newtab-sports-widget-match-full-time = Κανονική διάρκεια
 newtab-sports-widget-match-halftime = Ημίχρονο
 newtab-sports-widget-match-extra-time = Παράταση
 newtab-sports-widget-match-penalties = Πέναλτι
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = εναντίον
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 

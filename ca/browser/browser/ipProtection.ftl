@@ -95,6 +95,8 @@ ipprotection-connection-status-disconnected-1 = La VPN està desactivada
     .aria-label = La VPN està desactivada
 ipprotection-connection-status-excluded-1 = La VPN està desactivada per a aquest lloc web
     .aria-label = La VPN està desactivada per a aquest lloc web
+ipprotection-connection-status-connecting-1 = La VPN s'està connectant…
+    .aria-label = La VPN s'està connectant…
 
 ## Location controls
 
@@ -102,12 +104,27 @@ ipprotection-connection-status-excluded-1 = La VPN està desactivada per a aques
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Ubicació: recomanada
 ipprotection-recommended-location-description = El { -brand-product-name } troba la ubicació més ràpida
+ipprotection-recommended-location-badge = NOVETAT
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Ubicació: { $country }
+ipprotection-locations-subview =
+    .title = Trieu la ubicació
+ipprotection-locations-subview-description = Trieu una ubicació diferent des de la qual navegar.
+ipprotecion-locations-subview-recommended-label = Recomanada
+ipprotection-locations-subview-recommended-description = Troba la ubicació més ràpida
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = No disponible
+ipprotection-locations-subview-promo =
+    .heading = Protegeix-vos més amb el { -mozilla-vpn-brand-name }
+    .message = Trieu entre més de 300 ubicacions i protegiu totes les vostres aplicacions en un màxim de 5 dispositius.
+ipprotection-locations-subview-promo-button = Obteniu { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
 upgrade-vpn-title = Obteniu protecció addicional més enllà del navegador
 upgrade-vpn-description = Trieu la ubicació de la VPN, utilitzeu la VPN per a totes les aplicacions i fins a 5 dispositius, i protegiu la vostra connexió en qualsevol xarxa, ja sigui a casa o en una Wi-Fi pública.
-upgrade-vpn-button = Proveu el { -mozilla-vpn-brand-name }
+upgrade-vpn-button = Proveu { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-2 = La VPN està en pausa
     .aria-label = La VPN està en pausa
 
@@ -142,7 +159,7 @@ ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a
 
 ## IP Protection bandwidth callouts
 
-ipprotection-bandwidth-upgrade-title = Us agrada la VPN integrada? Obteniu encara més protecció fora del { -brand-product-name } amb el { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-title = Us agrada la VPN integrada? Obtingueu encara més protecció fora del { -brand-product-name } amb { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Trieu una ubicació VPN i afegiu protecció a totes les vostres aplicacions en un màxim de 5 dispositius, tant si sou a casa com en una xarxa Wi-Fi pública.
 
 ## IP Protection bandwidth warning infobar
@@ -153,15 +170,46 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Us esteu apropant a
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Gairebé no us queden dades de VPN.</strong> Us queden { $usageLeft } GB. Quan les hàgiu esgotat, la VPN es posarà en pausa fins que les dades es restableixin a principis del mes que ve.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Gairebé no us queden dades de VPN.</strong> Us queden { $usageLeft } MB. Quan les hàgiu esgotat, la VPN es posarà en pausa fins que les dades es restableixin a principis del mes que ve.
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = VPN integrada per a millorar la privadesa mentre es navega amb el { -brand-short-name }.
 ip-protection-description-1 =
     .label = VPN integrada
     .description = Obteniu més privadesa amagant la vostra ubicació mentre navegueu.
+ip-protection-learn-more = Més informació
+ip-protection-not-opted-in-button = Primers passos
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Gestioneu els paràmetres de llocs web
+    .description =
+        { $count ->
+            [one] { $count } lloc web
+           *[other] { $count } llocs web
+        }
+ip-protection-autostart =
+    .label = Activa la VPN automàticament
+ip-protection-autostart-checkbox =
+    .label = Quan obri el { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = En finestres privades
+ip-protection-vpn-upgrade-link =
+    .label = Obteniu encara més protecció fora del { -brand-short-name } amb { -mozilla-vpn-brand-name }
+    .description = Trieu ubicacions personalitzades de VPN i afegiu protecció a totes les aplicacions en un màxim de cinc dispositius, ja sigui des de casa o en una Wi-Fi pública.
 ip-protection-vpn-upgrade-link-1 =
     .label = Protegiu-vos encara més amb el { -mozilla-vpn-brand-name }
     .description = Trieu entre més de 300 ubicacions i protegiu totes les aplicacions en un màxim de 5 dispositius.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Gestioneu els paràmetres de llocs web
 
 ## IP Protection Bandwidth
 

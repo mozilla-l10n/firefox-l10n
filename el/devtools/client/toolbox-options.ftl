@@ -115,6 +115,14 @@ options-sourceeditor-tabsize-label = Μέγεθος καρτέλας
 options-sourceeditor-keybinding-label = Συντομεύσεις πλήκτρων
 options-sourceeditor-keybinding-default-label = Προεπιλογή
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Τοπική λειτουργία
+options-local-mode-folder-label = Τοπικός φάκελος:
+options-local-mode-toggle-enable = Ενεργοποίηση
+options-local-mode-toggle-disable = Απενεργοποίηση
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

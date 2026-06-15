@@ -1272,6 +1272,10 @@ containers-settings-button =
     .label = Ρυθμίσεις
 containers-remove-button =
     .label = Αφαίρεση
+containers-settings-button2 =
+    .title = Ρυθμίσεις
+containers-remove-button2 =
+    .title = Αφαίρεση
 
 ## Account and sync
 
@@ -1279,6 +1283,9 @@ sync-group-label =
     .label = Συγχρονισμός
 account-group-label2 =
     .label = Λογαριασμός
+account-disabled-group =
+    .label = Λογαριασμός
+    .description = Δεν είναι διαθέσιμες οι ρυθμίσεις λογαριασμού.
 account-placeholder2 =
     .label = Δεν έχετε συνδεθεί
     .description = Συνδεθείτε και διατηρήστε τα δεδομένα σας ιδιωτικά, κρυπτογραφημένα και άμεσα προσβάσιμα, οπουδήποτε χρησιμοποιείτε το { -brand-short-name }.

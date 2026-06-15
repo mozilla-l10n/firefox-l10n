@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Διαχείριση θεματικών ενοτήτων
     .accesskey = Θ
+user-context-new-tab =
+    .label = Νέα καρτέλα
+    .accesskey = Ν
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

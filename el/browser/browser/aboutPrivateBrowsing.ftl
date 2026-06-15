@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Απορρίπτουμε πλ
 about-private-browsing-felt-privacy-v1-info-header = Περιηγηθείτε χωρίς να αφήνετε ίχνη σε αυτήν τη συσκευή
 about-private-browsing-felt-privacy-v1-info-body = Το { -brand-short-name } διαγράφει τα cookie, το ιστορικό και τα δεδομένα ιστοτόπων σας όταν κλείνετε όλα τα ιδιωτικά σας παράθυρα.
 about-private-browsing-felt-privacy-v1-info-link = Ποιος ενδέχεται να μπορεί να δει τη δραστηριότητά μου;
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Κλείνοντας όλα τα ιδιωτικά παράθυρά σας, διαγράφονται τα cookie, το ιστορικό και τα δεδομένα ιστοτόπων σας.

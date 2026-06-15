@@ -460,3 +460,10 @@ relay-50-masks-announcement-primary-button = Μετάβαση στο { -relay-br
     .accesskey = Μ
 relay-50-masks-announcement-secondary-button = Απόρριψη
     .accesskey = ψ
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Αποστολή σχολίων
+    .accesskey = σ
+nova-early-access-infobar-primary-button = Το κατάλαβα
+    .accesskey = κ
