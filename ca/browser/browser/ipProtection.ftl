@@ -89,6 +89,19 @@ ipprotection-button-turn-vpn-off-excluded-site = Desactiva la VPN a tot arreu
 ipprotection-button-turn-vpn-on = Activa la VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = S'està activant…
+ipprotection-connection-status-connected-1 = La VPN està activada
+    .aria-label = La VPN està activada
+ipprotection-connection-status-disconnected-1 = La VPN està desactivada
+    .aria-label = La VPN està desactivada
+ipprotection-connection-status-excluded-1 = La VPN està desactivada per a aquest lloc web
+    .aria-label = La VPN està desactivada per a aquest lloc web
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Ubicació: recomanada
+ipprotection-recommended-location-description = El { -brand-product-name } troba la ubicació més ràpida
 
 ## VPN paused state
 
@@ -101,12 +114,45 @@ ipprotection-connection-status-paused-title-2 = La VPN està en pausa
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-description = Torneu-ho a provar d'aquí a uns minuts.
+ipprotection-connection-status-generic-error-try-again = Torneu-ho a provar més tard.
 ipprotection-connection-status-network-error-title-1 = Comproveu la connexió a Internet
     .aria-label = Comproveu la connexió a Internet
+ipprotection-connection-status-network-error-description = Connecteu-vos a Internet i, a continuació, proveu d'activar la VPN.
 ipprotection-connection-status-blocked-error-title-1 = La VPN no està disponible
     .aria-label = La VPN no està disponible
+ipprotection-connection-status-blocked-error-description = Les lleis locals ens impedeixen oferir el servei VPN en aquesta regió. <a data-l10n-name="learn-more-link">Més informació</a>
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Us esteu apropant al límit de la VPN
+    .message = Teniu disponibles { $usageLeft } GB de { $maxUsage } GB aquest mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Us esteu apropant al límit de la VPN
+    .message = Teniu disponibles { $usageLeft } MB de { $maxUsage } GB aquest mes.
+ipprotection-message-continuous-onboarding-intro = Activeu la VPN per a ocultar la ubicació i afegir xifratge addicional a la navegació.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configureu la VPN perquè s'activi</a> cada vegada que obriu el { -brand-short-name } per obtenir una capa addicional de protecció.
+ipprotection-message-continuous-onboarding-site-settings = El { -brand-short-name } recordarà quins llocs web heu configurat per a utilitzar la VPN. Podeu actualitzar-los  en qualsevol moment a la <a data-l10n-name="setting-link">configuració</a>.
+confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN està desactivada per a aquest lloc web
 ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a la VPN
     .aria-label = No s'ha pogut connectar a la VPN
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Us agrada la VPN integrada? Obteniu encara més protecció fora del { -brand-product-name } amb el { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Trieu una ubicació VPN i afegiu protecció a totes les vostres aplicacions en un màxim de 5 dispositius, tant si sou a casa com en una xarxa Wi-Fi pública.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Us esteu apropant al límit de la VPN.</strong> Us queden { $usageLeft } GB. Les vostres dades es restabliran a principis del mes que ve.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Gairebé no us queden dades de VPN.</strong> Us queden { $usageLeft } GB. Quan les hàgiu esgotat, la VPN es posarà en pausa fins que les dades es restableixin a principis del mes que ve.
 
 ## IP Protection Settings
 
