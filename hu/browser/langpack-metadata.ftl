@@ -9,4 +9,4 @@
 langpack-creator = FSF.hu
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
-langpack-contributors = Tímár András
+langpack-contributors = Tímár András, Németh László, Meskó Balázs
