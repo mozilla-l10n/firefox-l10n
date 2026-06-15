@@ -210,6 +210,7 @@ ip-protection-vpn-upgrade-link-1 =
 
 ip-protection-exceptions-dialog-window =
     .title = Gestioneu els paràmetres de llocs web
+ip-protection-exclusions-desc = Feu servir la VPN per a tots els llocs web tret dels d'aquesta llista. Afegiu un lloc web aquí o obriu la VPN.
 
 ## IP Protection Bandwidth
 

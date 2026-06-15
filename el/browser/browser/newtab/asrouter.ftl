@@ -463,6 +463,7 @@ relay-50-masks-announcement-secondary-button = Απόρριψη
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>Το { -brand-product-name } αποκτά νέα εμφάνιση.</strong> Κάνετε προεπισκόπηση μιας πρώιμης, μη τελειοποιημένης έκδοσης πριν από την κυκλοφορία της αργότερα μέσα στο έτος.
 nova-early-access-share-feedback-link = Αποστολή σχολίων
     .accesskey = σ
 nova-early-access-infobar-primary-button = Το κατάλαβα

@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-pdf-tagline = Ένα δωρεάν εργαλείο για ανάγνωση, συγχώνευση, υπογραφή, σχολιασμό και πολλά άλλα, με σεβασμό στο απόρρητό σας
+about-pdf-dropzone =
+    .title = Αποθέστε ένα PDF εδώ για να ξεκινήσετε ή πατήστε το Enter
+about-pdf-dropzone-hint = Αποθέστε ένα PDF εδώ για να ξεκινήσετε
+about-pdf-dropzone-invalid-file = Αυτό το αρχείο δεν υποστηρίζεται. Επιλέξτε ένα PDF για να συνεχίσετε.
 about-pdf-set-default =
     .label = Ορισμός ως προεπιλογή
 about-pdf-dismiss =
