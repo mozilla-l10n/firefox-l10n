@@ -302,6 +302,18 @@ launch-on-login-infobar-final-message = <strong>{ -brand-short-name } ma so kó�
 launch-on-login-infobar-final-reject-button = Ně, dźakuju so
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = K nadawkowej lajsće připjeć
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Předchadne wokna a rajtarki wočinić
+launch-on-login-spotlight-primary-button = { -brand-short-name } składować a začinić
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.

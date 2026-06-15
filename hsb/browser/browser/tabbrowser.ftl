@@ -209,9 +209,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } přiměrić
 tabbrowser-context-mute-tab =
     .label = Rajtark zněmić
     .accesskey = n
+tabbrowser-context-mute-tab2 =
+    .label = Zynk wupinać
+    .accesskey = u
 tabbrowser-context-unmute-tab =
     .label = Zněmjenje rajtarka anulować
     .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Zynk zapinać
+    .accesskey = z
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Rajtarki zněmić

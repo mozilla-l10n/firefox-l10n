@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Rajtark znowa začitać
     .accesskey = R
+reload-tab2 =
+    .label = Znowa začitać
+    .accesskey = Z
 select-all-tabs =
     .label = Wšě rajtarki wubrać
     .accesskey = r
@@ -24,9 +27,15 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Rajtark podwojić
     .accesskey = T
+duplicate-tab2 =
+    .label = Dwójny
+    .accesskey = D
 duplicate-tabs =
     .label = Rajtarki podwojić
     .accesskey = R
+duplicate-tabs2 =
+    .label = Dwójny
+    .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Rajtark připinyć
     .accesskey = R
+tab-context-pin-tab2 =
+    .label = Připjeć
+    .accesskey = P
 unpin-tab =
     .label = Rajtark wotpinyć
     .accesskey = w
+tab-context-unpin-tab2 =
+    .label = Wotpjeć
+    .accesskey = o
 pin-selected-tabs =
     .label = Rajtarki připinyć
     .accesskey = R
@@ -67,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Rajtark jako zapołožku składować …
     .accesskey = R
+tab-context-bookmark-tab2 =
+    .label = Zapołožka
+    .accesskey = Z
 tab-context-open-in-new-container-tab =
     .label = W nowym kontejnerowym rajtarku wočinić
     .accesskey = k
+tab-context-open-in-new-container-tab2 =
+    .label = W nowym kontejnerowym rajtarku wočinić
+    .accesskey = n
 move-to-start =
     .label = K spočatkej přesunyć
     .accesskey = K
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Wjacore rajtarki začinić
     .accesskey = W
+tab-context-close-multiple-tabs2 =
+    .label = Wjacore začinić
+    .accesskey = W
 tab-context-close-duplicate-tabs =
     .label = Dwójne rajtarki začinić
     .accesskey = D
+tab-context-close-duplicate-tabs2 =
+    .label = Dwójne rajtarki tutoho rajtarka začinić
+    .accesskey = r
 tab-context-share-url =
     .label = Dźělić
     .accesskey = D
@@ -126,6 +153,16 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } rajtarkow začinić
         }
     .accesskey = z
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Začinić
+            [one] { $tabCount } rajtark začinić
+            [two] { $tabCount } rajtarkaj začinić
+            [few] { $tabCount } rajtarki začinić
+           *[other] { $tabCount } rajtarkow začinić
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -147,6 +184,9 @@ tab-context-send-to-device =
            *[other] { $tabCount } rajtarkow na grat pósłać
         }
     .accesskey = r
+tab-context-send-to-device2 =
+    .label = Na waše graty pósłać
+    .accesskey = s
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -182,3 +222,7 @@ tab-context-unload-n-tabs =
            *[other] { $tabCount } rajtarkow pušćić
         }
     .accesskey = r
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Wotstronić
+    .accesskey = o

@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = { -brand-short-name } awtomatisce wočinić, hdyž so waš ličak startuje
     .accesskey = a
 windows-launch-on-login-disabled = Tute nastajenje je so we Windows znjemóžniło. Zo byšće nastajenje změnił, wopytajće <a data-l10n-name="startup-link">Autostart</a> w systemowych nastajenjach.
+windows-launch-on-login-open-new-tab =
+    .label = Nowy rajtark tež wočinić
+    .accesskey = N
 windows-launch-on-login-profile-disabled = Markěrujće “{ profile-manager-use-selected.label }” we woknje „Wužiwarski profil wubrać“, zo byšće tute nastajenje zmóžnił.
 startup-restore-warn-on-quit =
     .label = Warnować, hdyž so wobhladowak kónči
