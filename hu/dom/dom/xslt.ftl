@@ -34,7 +34,7 @@ xslt-load-blocked-error = Az XSLT-stíluslap betöltése biztonsági okokból bl
 xpath-invalid-expression-evaluated = Érvénytelen kifejezés van kiértékelés alatt.
 xpath-unbalanced-curly-brace = Pár nélküli kapcsos zárójel.
 xslt-bad-node-name = Érvénytelen QName-mel rendelkező elem létrehozása.
-xslt-var-already-set = Variable binding shadows variable binding within the same template.
+xslt-var-already-set = A változókötés elfed egy ugyanabban a sablonban lévő másik változókötést.
 xslt-call-to-key-not-allowed = A kulcsfüggvény hívása nem engedélyezett.
 # Other failures, not found in the previous ones.
 # Variables:
