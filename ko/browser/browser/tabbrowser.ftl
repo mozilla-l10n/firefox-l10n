@@ -155,9 +155,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } 사용자 지정
 tabbrowser-context-mute-tab =
     .label = 탭 음소거
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = 음소거
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = 탭 음소거 해제
     .accesskey = M
+tabbrowser-context-unmute-tab2 =
+    .label = 음소거 해제
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = 탭 음소거
