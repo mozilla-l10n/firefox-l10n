@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = Betűk
+    .title = Betűkészletek
 fonts-window-close =
     .key = w
 
@@ -26,7 +26,7 @@ fonts-langgroup-trad-chinese =
 fonts-langgroup-cyrillic =
     .label = Cirill
 fonts-langgroup-devanagari =
-    .label = Devanagari
+    .label = Dévanágari
 fonts-langgroup-ethiopic =
     .label = Etióp
 fonts-langgroup-georgian =
@@ -51,13 +51,13 @@ fonts-langgroup-korean =
 fonts-langgroup-latin =
     .label = latin
 fonts-langgroup-malayalam =
-    .label = Malayalam
+    .label = Malajálam
 fonts-langgroup-math =
     .label = Matematika
 fonts-langgroup-odia =
     .label = Odia
 fonts-langgroup-sinhala =
-    .label = Sinhala
+    .label = Szingaléz
 fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
