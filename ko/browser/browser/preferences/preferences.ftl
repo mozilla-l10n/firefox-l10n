@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = 컴퓨터가 시작될 때 자동으로 { -brand-short-name } 열기
     .accesskey = O
 windows-launch-on-login-disabled = 이 설정은 Windows에서 비활성화되었습니다. 변경하려면, 시스템 설정에서 <a data-l10n-name="startup-link">시작 프로그램</a>을 방문하세요.
+windows-launch-on-login-open-new-tab =
+    .label = 새 탭도 열기
+    .accesskey = n
 windows-launch-on-login-profile-disabled = “사용자 프로필 선택” 창에서 “{ profile-manager-use-selected.label }”에 체크하여 이 설정을 활성화하세요.
 startup-restore-warn-on-quit =
     .label = 브라우저 종료시 경고

@@ -293,6 +293,18 @@ launch-on-login-infobar-final-message = <strong>컴퓨터를 다시 시작할 �
 launch-on-login-infobar-final-reject-button = 아니요
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = 작업 표시줄에 고정
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = 이전 창 및 탭 열기
+launch-on-login-spotlight-primary-button = { -brand-short-name } 저장 후 닫기
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.

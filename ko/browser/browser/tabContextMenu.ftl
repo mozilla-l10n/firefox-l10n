@@ -107,7 +107,13 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = 여러 탭 닫기
     .accesskey = M
+tab-context-close-multiple-tabs2 =
+    .label = 여러 탭 닫기
+    .accesskey = M
 tab-context-close-duplicate-tabs =
+    .label = 중복 탭 닫기
+    .accesskey = x
+tab-context-close-duplicate-tabs2 =
     .label = 중복 탭 닫기
     .accesskey = x
 tab-context-share-url =
@@ -141,12 +147,31 @@ tab-context-close-n-tabs =
            *[other] 탭 { $tabCount }개 닫기
         }
     .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] 닫기
+           *[other] 탭 { $tabCount }개 닫기
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
             [1] 탭 이동
            *[other] 탭 이동
         }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] 탭 이동
+           *[other] 탭 { $tabCount }개 이동
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = 분할 화면 이동
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
@@ -155,6 +180,9 @@ tab-context-send-to-device =
             [1] 기기로 보내기
            *[other] 탭 { $tabCount }개를 기기로 보내기
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = 내 기기로 보내기
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -177,4 +205,8 @@ tab-context-unload-n-tabs =
             [1] 탭 언로드
            *[other] 탭 { $tabCount }개 언로드
         }
+    .accesskey = U
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = 언로드
     .accesskey = U
