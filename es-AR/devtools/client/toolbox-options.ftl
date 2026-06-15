@@ -120,6 +120,20 @@ options-sourceeditor-keybinding-default-label = Predeterminados
 # The heading
 options-local-mode-label = Modo local
 options-local-mode-only-work-locally = El modo local solo funciona localmente y está deshabilitado al depurar contextos remotos
+options-local-mode-behavior = El modo local permite cargar archivos locales a través de una URL https sin ninguna dependencia externa. Las URL solo se pueden cargar desde pestañas con DevTools abierto.
+options-local-mode-domain-label = Dominio personalizado:
+options-local-mode-origin-input =
+    .placeholder = Origen para el mapeo local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Este origen entra en conflicto con otro mapeo existente
+options-local-mode-origin-invalid = Este origen no es válido
+options-local-mode-folder-label = Carpeta local:
+options-local-mode-choose-folder = Examinar…
+    .title = Seleccionar una carpeta local para servir este mapeo
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Seleccionar carpeta de modo local para: { $url }
 
 ## Advanced section
 
