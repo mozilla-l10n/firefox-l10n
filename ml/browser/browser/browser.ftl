@@ -1008,6 +1008,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = ഒളിവാക്കുകൾ
     .tooltiptext = കരുതിവച്ച ഒളിവാക്കുകളെ കാണുകയും കൈകാര്യവം ചെയ്യുക
+qrcode-close-button =
+    .aria-label = അടയ്ക്കുക
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

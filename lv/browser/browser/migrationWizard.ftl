@@ -199,6 +199,10 @@ migration-safari-password-import-step1 = Programmā Safari atveriet izvēlni Saf
 migration-safari-password-import-step2 = Spiediet uz pogas <img data-l10n-name="safari-icon-3dots"/> un izvēlieties "Export All Passwords".
 migration-safari-password-import-step3 = Saglabāt paroļu datni
 migration-safari-password-import-step4 = Izmantojiet tālāk esošo “Atlasīt datni”, lai izvēlētos saglabāto paroļu datni
+migration-chrome-windows-password-import-header = Kā importēt paroles no Chrome
+migration-chrome-windows-password-import-steps-header = Pārlūkā Chrome:
+migration-chrome-windows-password-import-step2 = Izvēlnē atlasiet “Iestatījumi”.
+migration-chrome-windows-password-import-step3 = Izvēlieties “Lejupielādēt failu” un saglabājiet to savā ierīcē.
 migration-manual-password-import-skip-button = Izlaist
 migration-manual-password-import-select-button = Atlasīt datni
 migration-safari-password-import-skip-button = Izlaist

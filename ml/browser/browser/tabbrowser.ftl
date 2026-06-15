@@ -194,5 +194,8 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-note-editor-button-cancel =
+    .label = റദ്ദാക്കുക
+    .accesskey = റ
 tab-note-panel-add-note-new-badge =
     .label = പുതിയതു്

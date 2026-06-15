@@ -166,8 +166,32 @@ preferences-data-migration-description = Importēt grāmatzīmes, paroles, vēst
 preferences-data-migration-button =
     .label = Importēt datus
     .accesskey = m
+preferences-profiles-section-header =
+    .label = Profili
+    .description = Katram profilam ir atsevišķi pārlūkošanas dati un iestatījumi, tostarp vēsture, paroles un citi.
+preferences-manage-profiles-learn-more = Uzzināt vairāk
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopēt esošu profilu
+    .description = Jaunajā profilā tiks kopēti jūsu iestatījumi, paplašinājumi, vēsture un saglabātie dati, piemēram, grāmatzīmes un paroles, bet ne jūsu konta vai sinhronizācijas informācija.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Kopējamais profils
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Izvēlieties profilu
+preferences-copy-profile-button = Kopēt
 tabs-group-header2 =
     .label = Cilnes
+tabs-interaction-heading =
+    .label = Mijiedarbība
+tabs-containers-heading =
+    .label = Konteineri
+tabs-closing-heading =
+    .label = Aizveram
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab slēdzas starp cilnēm to izmantošanas secībā
@@ -175,6 +199,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Vērt saites cilnēs nevis jaunos logos
     .accesskey = v
+open-external-link-next-to-active-tab =
+    .label = Atveriet saites no lietotnēm blakus aktīvajai cilnei
 confirm-on-close-multiple-tabs =
     .label = Apstiprināt, pirms aizvērt vairākas cilnes
     .accesskey = v
@@ -239,6 +265,16 @@ containers-remove-cancel-button = Nenoņemt šo konteineru
 settings-tabs-show-image-in-preview =
     .label = Rādīt attēla priekšskatījumu, virzot kursoru uz cilnes
     .accessKey = d
+browser-layout-header = Pārlūkprogrammas izkārtojums
+browser-layout-horizontal-tabs =
+    .label = Horizontālas cilnes
+browser-layout-horizontal-tabs-desc = Rādīt pārlūkprogrammas augšdaļā
+browser-layout-vertical-tabs =
+    .label = Vertikālas cilnes
+browser-layout-vertical-tabs-desc = Rādīt sānā, sānjoslā
+browser-layout-show-sidebar =
+    .label = Rādīt sānjoslu
+browser-layout-show-sidebar-desc = Ātri piekļūstiet grāmatzīmēm, cilnēm no tālruņa, mākslīgā intelekta tērzēšanas robotiem un citām funkcijām, nepametot galveno skatu.
 
 ## General Section - Language & Appearance
 
@@ -251,6 +287,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tumšs
     .title = Izmantot tumšu izskatu vietņu fonam un saturam.
+web-appearance-group =
+    .aria-label = Vietnes izskats
 preferences-web-appearance-choice-auto = Automātiski
 preferences-web-appearance-choice-light = Gaišs
 preferences-web-appearance-choice-dark = Tumšs

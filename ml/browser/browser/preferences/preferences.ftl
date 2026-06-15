@@ -960,6 +960,7 @@ payments-list-header =
     .label = പണമടക്കൽ മുറകൾ
 payments-delete-payment-prompt-title = ഈ പണമടക്കല്മുറ മായ്ക്കണോ?
 payments-delete-payment-prompt-confirm-button = മായ്ക്കുക
+payments-delete-payment-prompt-cancel-button = റദ്ദാക്കുക
 addreses-edit-address-button-label =
     .aria-label = തിരുത്തുക
 addresses-delete-address-prompt-title = ഈ വിലാസം മായ്ക്കട്ടെ?
@@ -1291,5 +1292,7 @@ choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിര
 
 ## AI controls page
 
+preferences-ai-controls-block-confirmation-cancel =
+    .label = റദ്ദാക്കുക
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }

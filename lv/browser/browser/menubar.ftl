@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Iestatījumi…
+menu-application-set-as-default =
+    .label = Iestatīt { -brand-shorter-name } kā noklusējuma pārlūkprogrammu
 menu-application-services =
     .label = Servisi
 menu-application-hide-this =
@@ -256,6 +258,10 @@ menu-profiles-manage-profiles =
     .label = Pārvaldīt profilus
 menu-profiles-new-profile =
     .label = Jauns profils
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (pašreizējais)
 menu-profiles-menu =
     .label = Profili
     .accesskey = P
