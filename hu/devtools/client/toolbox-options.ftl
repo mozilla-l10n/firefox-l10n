@@ -119,7 +119,10 @@ options-sourceeditor-keybinding-default-label = Default
 
 # The heading
 options-local-mode-label = Helyi mód
+options-local-mode-only-work-locally = A Helyi mód csak helyileg működik, és távoli környezetek hibakeresésekor le van tiltva
+options-local-mode-behavior = A Helyi mód lehetővé teszi, hogy helyi fájlokat töltsön be https webcímen keresztül, külső függőség nélkül. A webcímek csak megnyitott fejlesztői eszközök mellett tölthetők be.
 options-local-mode-domain-label = Egyéni domain:
+options-local-mode-origin-invalid = Ez az eredet érvénytelen
 options-local-mode-folder-label = Helyi mappa:
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)

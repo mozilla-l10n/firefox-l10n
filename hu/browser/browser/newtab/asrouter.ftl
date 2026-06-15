@@ -464,6 +464,7 @@ relay-50-masks-announcement-secondary-button = Eltüntetés
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>A { -brand-product-name } új kinézetet kap.</strong> Egy korai, csiszolatlan verzióelőzetest használ, az év későbbi részében történő megjelenése előtt.
 nova-early-access-share-feedback-link = Visszajelzés megosztása
     .accesskey = V
 nova-early-access-infobar-primary-button = Megértettem!

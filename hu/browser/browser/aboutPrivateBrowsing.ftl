@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Mostantól számos sütibanne
 about-private-browsing-felt-privacy-v1-info-header = Ne hagyjon nyomot ezen az eszközön
 about-private-browsing-felt-privacy-v1-info-body = A { -brand-short-name } törli a sütiket, előzményeket és oldaladatokat, amikor bezárja az összes privát ablakot.
 about-private-browsing-felt-privacy-v1-info-link = Ki láthatja a tevékenységemet?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Az összes privát ablak bezárása törli a sütijeit, előzményeit és oldaladatait.
