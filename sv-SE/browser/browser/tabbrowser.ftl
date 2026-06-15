@@ -181,9 +181,15 @@ tabbrowser-customizemode-tab-title = Anpassa { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Ljud av för flik
     .accesskey = L
+tabbrowser-context-mute-tab2 =
+    .label = Ljud av
+    .accesskey = L
 tabbrowser-context-unmute-tab =
     .label = Ljud på för flik
     .accesskey = j
+tabbrowser-context-unmute-tab2 =
+    .label = Ljud på
+    .accesskey = L
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Ljud av för flikar

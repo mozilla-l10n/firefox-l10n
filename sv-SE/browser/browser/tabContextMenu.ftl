@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Uppdatera flik
     .accesskey = U
+reload-tab2 =
+    .label = Uppdatera
+    .accesskey = U
 select-all-tabs =
     .label = Välj alla flikar
     .accesskey = V
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Duplicera flik
     .accesskey = D
+duplicate-tab2 =
+    .label = Duplicera
+    .accesskey = D
 duplicate-tabs =
     .label = Duplicera flikar
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duplicera
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,8 +61,14 @@ reload-tabs =
 pin-tab =
     .label = Fäst flik
     .accesskey = F
+tab-context-pin-tab2 =
+    .label = Fäst
+    .accesskey = F
 unpin-tab =
     .label = Lösgör flik
+    .accesskey = L
+tab-context-unpin-tab2 =
+    .label = Lösgör
     .accesskey = L
 pin-selected-tabs =
     .label = Fäst flikar
@@ -67,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Bokmärk flik…
     .accesskey = B
+tab-context-bookmark-tab2 =
+    .label = Bokmärke
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Öppna i ny innehållsflik
     .accesskey = n
+tab-context-open-in-new-container-tab2 =
+    .label = Öppna i en ny innehållsflik
+    .accesskey = Ö
 move-to-start =
     .label = Flytta till början
     .accesskey = b
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Stäng flera flikar
     .accesskey = f
+tab-context-close-multiple-tabs2 =
+    .label = Stäng multipel
+    .accesskey = S
 tab-context-close-duplicate-tabs =
     .label = Stäng dubbletter av flikar
     .accesskey = d
+tab-context-close-duplicate-tabs2 =
+    .label = Stäng dubbletter av denna flik
+    .accesskey = S
 tab-context-share-url =
     .label = Dela
     .accesskey = D
@@ -120,6 +147,14 @@ tab-context-close-n-tabs =
            *[other] Stäng { $tabCount } flikar
         }
     .accesskey = S
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Stäng
+            [one] Stäng { $tabCount } flikar
+           *[other] Stäng { $tabCount } flikar
+        }
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -128,6 +163,19 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Flytta flik till
+            [one] Flytta { $tabCount } flikar till
+           *[other] Flytta { $tabCount } flikar till
+        }
+    .accesskey = F
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Flytta delad vy till
+    .accesskey = F
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -135,6 +183,9 @@ tab-context-send-to-device =
             [1] Skicka till enhet
            *[other] Skicka { $tabCount } flikar till enhet
         }
+    .accesskey = S
+tab-context-send-to-device2 =
+    .label = Skicka till dina enheter
     .accesskey = S
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -162,4 +213,8 @@ tab-context-unload-n-tabs =
             [1] Frigör flik
            *[other] Frigör { $tabCount } flikar
         }
+    .accesskey = F
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Frigör
     .accesskey = F

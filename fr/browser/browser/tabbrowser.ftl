@@ -177,9 +177,15 @@ tabbrowser-customizemode-tab-title = Personnaliser { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Couper le son de l’onglet
     .accesskey = R
+tabbrowser-context-mute-tab2 =
+    .label = Muet
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Réactiver le son de l’onglet
     .accesskey = R
+tabbrowser-context-unmute-tab2 =
+    .label = Audible
+    .accesskey = A
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Couper le son des onglets
