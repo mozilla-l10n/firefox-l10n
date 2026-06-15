@@ -119,6 +119,7 @@ options-sourceeditor-keybinding-default-label = Implicite
 
 # The heading
 options-local-mode-label = Mod local
+options-local-mode-only-work-locally = Modul local funcționează doar local și este dezactivat la depanarea contextelor de la distanță
 
 ## Advanced section
 

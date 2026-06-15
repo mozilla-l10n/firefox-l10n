@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Vom refuza acum în mod autom
 about-private-browsing-felt-privacy-v1-info-header = Nu lăsa urme pe acest dispozitiv
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } șterge cookie-urile, istoricul și datele site-urilor când închideți toate ferestrele private.
 about-private-browsing-felt-privacy-v1-info-link = Cine ar putea să îmi vadă activitatea?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Închiderea tuturor ferestrelor private șterge cookie-urile, istoricul și datele site-ului.

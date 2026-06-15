@@ -467,6 +467,7 @@ relay-50-masks-announcement-secondary-button = Închide
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } primește o nouă înfățișare.</strong> Previzualizezi o versiune timpurie, încă nefinalizată, înainte de lansarea de mai târziu din acest an.
 nova-early-access-share-feedback-link = Trimite feedback
     .accesskey = S
 nova-early-access-infobar-primary-button = Am înțeles
