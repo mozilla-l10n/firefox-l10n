@@ -7,7 +7,7 @@
 # For developers, this duplicates command because the label attribute is required.
 
 fxviewtabrow-mute-tab = Замолчи јазиче
-    .accesskey = M
+    .accesskey = м
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
