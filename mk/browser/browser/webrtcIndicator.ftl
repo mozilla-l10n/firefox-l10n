@@ -27,7 +27,7 @@ webrtc-action-block =
     .accesskey = Б
 webrtc-action-always-block =
     .label = Секогаш блокирај
-    .accesskey = Њ
+    .accesskey = к
 
 ##
 

@@ -232,7 +232,7 @@ fx-translate-web-pages = { -translations-brand-name }
 translate-attribution = Преводи на <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Исклучоци…
-    .accesskey = х
+    .accesskey = к
 
 ## General Section - Files and Applications
 
@@ -463,6 +463,9 @@ home-prefs-sections-rows-option =
 
 search-engine-default-header = Основен пребарувач
 search-suggestions-header = Предлози за пребарување
+search-suggestions-option =
+    .label = Прикажувај предлог-пребарувања
+    .accesskey = р
 search-suggestions-cant-show-2 =
     .message = Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи { -brand-short-name } е прилагоден никогаш да не ја снима историјата на прелистување.
 search-suggestions-cant-show = Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи { -brand-short-name } е прилагоден никогаш да не ја снима историјата на прелистување.
@@ -520,8 +523,8 @@ sync-signedin-unverified = { $email } не е потврдена.
 ##
 
 sync-sign-in =
-    .label = Најавете се
-    .accesskey = г
+    .label = Пријави се
+    .accesskey = р
 
 ## Sync section - enabling or disabling sync.
 
@@ -567,7 +570,7 @@ sync-device-name-cancel =
     .accesskey = к
 sync-device-name-save =
     .label = Сними
-    .accesskey = в
+    .accesskey = м
 sync-connect-another-device = Поврзете друг уред
 sync-connect-another-device-2 =
     .label = Поврзете друг уред
@@ -743,11 +746,11 @@ data-collection-studies-link =
 security-header = Безбедност
 security-enable-safe-browsing =
     .label = Блокирај ги опасните и измамнички содржини
-    .accesskey = B
+    .accesskey = Б
 security-enable-safe-browsing-link = Дознајте повеќе
 security-block-downloads =
     .label = Блокирај ги опасните преземања
-    .accesskey = D
+    .accesskey = п
 
 ## Privacy Section - Certificates
 

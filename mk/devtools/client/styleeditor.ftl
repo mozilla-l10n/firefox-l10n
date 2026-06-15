@@ -30,7 +30,7 @@ styleeditor-find-again =
     .accesskey = а
 styleeditor-go-to-line =
     .label = Скокни на линија…
-    .accesskey = J
+    .accesskey = ј
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -65,7 +65,7 @@ safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitena
 safeb-blocked-harmful-page-learn-more = Дознајте повеќе за Заштитата од риболов и злонамерен софтвер што ја има { -brand-short-name } на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Ова не е измамничко место...
-    .accesskey = д
+    .accesskey = м
 
 ## Variables:
 ##  $addonName (string) - the name of the harmful add-on

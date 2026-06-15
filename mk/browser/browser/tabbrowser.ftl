@@ -40,11 +40,11 @@ tabbrowser-customizemode-tab-title = Прилагодување на { -brand-sh
 
 tabbrowser-context-mute-tab =
     .label = Замолчи јазиче
-    .accesskey = M
+    .accesskey = м
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Замолчи јазичиња
-    .accesskey = M
+    .accesskey = м
 
 ## Tab manager menu buttons
 ## Variables:
