@@ -555,7 +555,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Jūsu savienojums ar šo lapu nav drošs.
 identity-connection-verified = Jūsu savienojums ar šo lapu ir drošs.
 identity-ev-owner-label = Sertifikāts izsniegts:
-identity-verifier-label = Pārbaudījis:{ " " }
+identity-verifier-label = Pārbaudījis:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalificēts, kā noteikts ES regulā 2024/1183.
 identity-description-custom-root2 = Mozilla neatpazīst šo sertifikāta izdevēju. Iespējams, to ir pievienojis jūsu operētājsistēma vai administrators.
