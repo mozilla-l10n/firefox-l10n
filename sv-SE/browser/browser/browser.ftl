@@ -879,7 +879,7 @@ urlbar-result-action-ai-chat = Fråga
 # following relative dates: "yesterday", "today"
 # Variables:
 #   $date (string) - A localized relative date string
-urlbar-result-explanation-last-visited-relative = Du senast besökta { $date }
+urlbar-result-explanation-last-visited-relative = Du besökte senast { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
