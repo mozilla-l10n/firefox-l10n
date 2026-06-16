@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Ora
 time-spinner-minute-label =
     .aria-label = Minuto
+time-spinner-second-label =
+    .aria-label = Secondo
+time-spinner-millisecond-label =
+    .aria-label = Millisecondo
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Minuto precedente
 time-spinner-minute-next =
     .aria-label = Minuto successivo
+time-spinner-second-previous =
+    .aria-label = Secondo precedente
+time-spinner-second-next =
+    .aria-label = Secondo successivo
+time-spinner-millisecond-previous =
+    .aria-label = Millisecondo precedente
+time-spinner-millisecond-next =
+    .aria-label = Millisecondo successivo
 time-spinner-day-period-previous =
     .aria-label = Periodo del giorno precedente
 time-spinner-day-period-next =
