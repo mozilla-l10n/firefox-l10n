@@ -109,6 +109,13 @@ options-sourceeditor-tabsize-label = Kích cỡ phím tab
 options-sourceeditor-keybinding-label = Tổ hợp phím
 options-sourceeditor-keybinding-default-label = Mặc định
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Chế độ cục bộ (local mode)
+options-local-mode-only-work-locally = Chế độ cục bộ chỉ hoạt động cục bộ và bị vô hiệu hóa khi gỡ lỗi trong môi trường từ xa
+options-local-mode-behavior = Chế độ cục bộ cho phép bạn tải các tệp cục bộ thông qua URL HTTPS mà không cần bất kỳ phụ thuộc bên ngoài nào. Các URL chỉ có thể được tải từ các thẻ khi DevTools đang mở.
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

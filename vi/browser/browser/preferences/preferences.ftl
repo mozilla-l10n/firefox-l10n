@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Tự động mở { -brand-short-name } khi máy tính của bạn khởi động
     .accesskey = O
 windows-launch-on-login-disabled = Tùy chọn này đã bị tắt trong Windows. Để thay đổi, hãy truy cập <a data-l10n-name="startup-link">Ứng dụng khởi động</a> trong Cài đặt hệ thống.
+windows-launch-on-login-open-new-tab =
+    .label = Cũng mở trong một thẻ mới
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Kích hoạt tùy chỉnh này bằng cách đánh dấu hộp kiểm “{ profile-manager-use-selected.label }” trong cửa sổ “Chọn hồ sơ người dùng”.
 startup-restore-warn-on-quit =
     .label = Cảnh báo bạn khi thoát khỏi trình duyệt
@@ -1256,6 +1259,22 @@ containers-settings-button =
     .label = Cài đặt
 containers-remove-button =
     .label = Loại bỏ
+containers-section-header2 =
+    .heading = Cài đặt ngăn chứa thẻ
+containers-card-header2 =
+    .label = Ngăn chứa thẻ
+    .description = Tách riêng cookie theo từng ngăn chứa để bạn có thể sử dụng các tài khoản khác nhau trên cùng một trang web và hạn chế việc theo dõi liên trang web.
+containers-add-button2 =
+    .label = Thêm ngăn chứa
+    .accesskey = A
+containers-new-tab-check2 =
+    .label = Chọn một ngăn chứa cho mỗi thẻ mới
+    .accesskey = S
+    .description = Thao tác này sẽ mở menu chứa các ngăn chứa mỗi khi bạn nhấn nút mở thẻ mới.
+containers-settings-button2 =
+    .title = Cài đặt
+containers-remove-button2 =
+    .title = Xóa
 
 ## Account and sync
 
@@ -1263,6 +1282,9 @@ sync-group-label =
     .label = Đồng bộ hóa
 account-group-label2 =
     .label = Tài khoản
+account-disabled-group =
+    .label = Tài khoản
+    .description = Cài đặt tài khoản không khả dụng.
 account-placeholder2 =
     .label = Bạn chưa đăng nhập
     .description = Đăng nhập và giữ dữ liệu của bạn riêng tư, được mã hoá và có thể truy cập ngay lập tức mọi lúc mọi nơi bạn sử dụng { -brand-short-name }.

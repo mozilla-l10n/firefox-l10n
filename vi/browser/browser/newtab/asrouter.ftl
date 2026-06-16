@@ -476,3 +476,7 @@ relay-50-masks-announcement-secondary-button = Bỏ qua
 ## Nova Early Access Infobar
 
 nova-early-access-infobar-title = <strong>{ -brand-product-name } đang được khoác lên mình diện mạo mới.</strong> Bạn đang xem trước phiên bản thử nghiệm, chưa hoàn thiện trước khi ra mắt chính thức vào cuối năm nay.
+nova-early-access-share-feedback-link = Để lại phản hồi
+    .accesskey = S
+nova-early-access-infobar-primary-button = Đã hiểu
+    .accesskey = G
