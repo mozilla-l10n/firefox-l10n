@@ -200,15 +200,39 @@ addon-open-about-debugging = Дебагирање на додатоци
 
 shortcuts-input =
     .placeholder = Напишете кратенка
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Отстрани кратенка
+shortcuts-browserAction2 = Активирај копче од алатникот
+shortcuts-pageAction = Активирај дејство на страницата
+shortcuts-sidebarAction = Вклучи странична лента
 shortcuts-modifier-mac = Вклучи Ctrl, Alt или ⌘
 shortcuts-modifier-other = Вклучи Ctrl или Alt
+shortcuts-invalid = Неважечка комбинација
 shortcuts-letter = Внеси буква
+shortcuts-system = Не може да се замени кратенка на { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Дупликат кратенка
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } се користи како кратенка во повеќе од еден случај. Дупликат кратенките може да предизвикаат неочекувано однесување.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } се користи како кратенка во повеќе од еден случај. Дупликат кратенките може да предизвикаат неочекувано однесување.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Веќе е во употреба од { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Прикажи { $numberToShow } повеќе
+       *[other] Прикажи { $numberToShow } повеќе
+    }
 shortcuts-card-collapse-button = Прикажи помалку
 header-back-button =
     .title = Оди назад
