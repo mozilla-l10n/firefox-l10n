@@ -113,6 +113,9 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Clauder schedas duplicate
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Clauder duplicatos de iste scheda
+    .accesskey = d
 tab-context-share-url =
     .label = Compartir
     .accesskey = o
@@ -145,6 +148,13 @@ tab-context-close-n-tabs =
            *[other] Clauder { $tabCount } schedas
         }
     .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Clauder { $tabCount } scheda
+           *[other] Clauder { $tabCount } schedas
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -153,6 +163,19 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = i
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Mover scheda a
+            [one] Mover { $tabCount } scheda a
+           *[other] Mover { $tabCount } schedas a
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Mover visualisation scisse a
+    .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -161,6 +184,9 @@ tab-context-send-to-device =
             [one] Inviar un scheda a apparato
            *[other] Inviar { $tabCount } schedas a apparato
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = Inviar a tu apparatos
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -189,3 +215,7 @@ tab-context-unload-n-tabs =
            *[other] Evacuar { $tabCount } schedas
         }
     .accesskey = L
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Remover
+    .accesskey = R
