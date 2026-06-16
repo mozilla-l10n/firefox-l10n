@@ -115,6 +115,27 @@ options-sourceeditor-keybinding-default-label = Mặc định
 options-local-mode-label = Chế độ cục bộ (local mode)
 options-local-mode-only-work-locally = Chế độ cục bộ chỉ hoạt động cục bộ và bị vô hiệu hóa khi gỡ lỗi trong môi trường từ xa
 options-local-mode-behavior = Chế độ cục bộ cho phép bạn tải các tệp cục bộ thông qua URL HTTPS mà không cần bất kỳ phụ thuộc bên ngoài nào. Các URL chỉ có thể được tải từ các thẻ khi DevTools đang mở.
+options-local-mode-folder-label = Thư mục cục bộ:
+options-local-mode-choose-folder = Duyệt…
+    .title = Chọn một thư mục cục bộ để lưu trữ mapping này
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Chọn thư mục chế độ cục bộ cho: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Thư mục này không tồn tại hoặc không hợp lệ.
+options-local-mode-toggle =
+    .title = Kích hoạt/vô hiệu hoá mapping cục bộ này
+options-local-mode-toggle-enable = Kích hoạt
+options-local-mode-toggle-disable = Vô hiệu hóa
+options-local-mode-navigate-to =
+    .title = Điều hướng đến URL mapping này
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Bạn có muốn xoá mapping “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Thêm một mapping cục bộ mới
 
 ## Advanced section
 
