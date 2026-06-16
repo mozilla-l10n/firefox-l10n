@@ -107,8 +107,14 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = סגירת לשוניות מרובות
     .accesskey = מ
+tab-context-close-multiple-tabs2 =
+    .label = סגירה מרובה
+    .accesskey = מ
 tab-context-close-duplicate-tabs =
     .label = סגירת לשוניות כפולות
+    .accesskey = כ
+tab-context-close-duplicate-tabs2 =
+    .label = סגירת כפילויות של לשונית זו
     .accesskey = כ
 tab-context-share-url =
     .label = שיתוף
@@ -142,6 +148,13 @@ tab-context-close-n-tabs =
            *[other] סגירת { $tabCount } לשוניות
         }
     .accesskey = ס
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] סגירה
+           *[other] סגירת { NUMBER($tabCount) } לשוניות
+        }
+    .accesskey = ס
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -149,6 +162,18 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] העברת לשונית אל
+           *[other] העברת { NUMBER($tabCount) } לשוניות אל
+        }
+    .accesskey = ע
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = העברת התצוגה המפוצלת אל
+    .accesskey = צ
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -157,6 +182,9 @@ tab-context-send-to-device =
             [one] שליחת לשונית אחת למכשיר
            *[other] שליחת { $tabCount } לשוניות למכשיר
         }
+    .accesskey = ש
+tab-context-send-to-device2 =
+    .label = שליחה למכשירים שלך
     .accesskey = ש
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -184,3 +212,7 @@ tab-context-unload-n-tabs =
            *[other] ביטול טעינת { $tabCount } לשוניות
         }
     .accesskey = ב
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = ביטול טעינה
+    .accesskey = ט
