@@ -115,6 +115,40 @@ options-sourceeditor-tabsize-label = Maint tab
 options-sourceeditor-keybinding-label = Rhwymwyr allwedd
 options-sourceeditor-keybinding-default-label = Rhagosodiad
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modd Lleol
+options-local-mode-only-work-locally = Dim ond yn lleol y mae'r Modd Lleol yn gweithio ac mae'n cael ei analluogi wrth ddadfygio cyd-destunau pell
+options-local-mode-behavior = Mae'r Modd Lleol yn caniatáu ichi lwytho ffeiliau lleol trwy URL https heb unrhyw ddibyniaeth allanol. Dim ond o dabiau y mae DevTools wedi'u hagor y mae modd llwytho'r URLau.
+options-local-mode-domain-label = Parth cyfaddas:
+options-local-mode-origin-input =
+    .placeholder = Tarddiad ar gyfer y mapiau lleol
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Mae'r tarddiad hwn yn gwrthdaro â mapio arall sy'n bodoli
+options-local-mode-origin-invalid = Mae'r tarddiad hwn yn annilys
+options-local-mode-folder-label = Ffolder leol:
+options-local-mode-choose-folder = Pori…
+    .title = Dewiswch ffolder leol i weini'r mapio hwn
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Dewiswch ffolder modd lleol ar gyfer: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Dyw'r ffolder hwn ddim yn bodoli, neu mae'n annilys.
+options-local-mode-toggle =
+    .title = Toglo'r mapio lleol hwn
+options-local-mode-toggle-enable = Galluogi
+options-local-mode-toggle-disable = Analluogi
+options-local-mode-navigate-to =
+    .title = Llywiwch i'r URL mapio hwn
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Ydych chi am dynnu mapio “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Ychwanegu mapio lleol newydd
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Giờ đây, chúng tôi tự
 about-private-browsing-felt-privacy-v1-info-header = Không để lại dấu vết trên thiết bị này
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } xóa cookie, lịch sử và dữ liệu trang web của bạn khi bạn đóng tất cả các cửa sổ riêng tư của mình.
 about-private-browsing-felt-privacy-v1-info-link = Ai có thể xem hoạt động của tôi?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Việc đóng tất cả các cửa sổ riêng tư sẽ xóa cookie, lịch sử và dữ liệu trang web của bạn.

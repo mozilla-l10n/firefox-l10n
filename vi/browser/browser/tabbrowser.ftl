@@ -155,8 +155,14 @@ tabbrowser-customizemode-tab-title = Tùy biến { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Tắt tiếng thẻ
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Tắt tiếng
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Bật tiếng thẻ
+    .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Bỏ tắt tiếng
     .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
