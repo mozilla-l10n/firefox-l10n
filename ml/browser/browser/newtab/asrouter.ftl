@@ -225,6 +225,18 @@ launch-on-login-infobar-reject-button = ഇപ്പോഴല്ല
 launch-on-login-infobar-final-reject-button = വേണ്ട, നന്ദി
     .accesskey = വ
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = കാര്യപ്പട്ടയിലേക്കു കുത്തിവയ്ക്കുക
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = മുമ്പത്തെ ജാലകങ്ങളും ടാബുകളും തുറക്കുക
+launch-on-login-spotlight-primary-button = { -brand-short-name }-നെ കരുതിവയ്ക്കുകയും അടയ്ക്കുകയും ചെയ്യുക
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = കണ്ണികൾ { -brand-short-name } വഴി തുറക്കുക

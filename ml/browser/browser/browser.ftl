@@ -712,6 +712,53 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = താങ്ങൾ { $date }-നാണു് ഒടുവിൽ സന്ദൎശിച്ചതു്
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] താങ്ങൾ ഒടുവിൽ സന്ദൎശിച്ചതു് { $daysAgo } മുമ്പെയാണു്
+       *[other] താങ്ങൾ ഒടുവിൽ സന്ദൎശിച്ചതു് { $daysAgo } മുമ്പെയാണു്
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] താങ്ങൾ ഒടുവിൽ സന്ദൎശിച്ചതു് { $weeksAgo } ആഴ്ച മുമ്പെയാണു്
+       *[other] താങ്ങൾ ഒടുവിൽ സന്ദൎശിച്ചതു് { $weeksAgo } ആഴ്ച മുമ്പെയാണു്
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] താങ്ങൾ ഒടുവിൽ സന്ദൎശിച്ചതു് { $weeksAgo } മാസം മുമ്പെയാണു്
+       *[other] താങ്ങൾ ഒടുവിൽ സന്ദൎശിച്ചതു് { $weeksAgo } മാസം മുമ്പെയാണു്
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = താങ്ങൾ { $date }-നാണു് ഒടുവിൽ സന്ദൎശിച്ചതു്
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = കുറിച്ചിട്ട തിയ്യതി: { $date }
+
 ## These strings are used for suggestions of important dates in the urlbar.
 
 # The name of an event and the number of days until it starts separated by a
