@@ -107,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Cau Tabiau Lluosog
     .accesskey = L
+tab-context-close-multiple-tabs2 =
+    .label = Cau Lluosog
+    .accesskey = L
 tab-context-close-duplicate-tabs =
     .label = Cau Tabiau Dyblyg
     .accesskey = T
+tab-context-close-duplicate-tabs2 =
+    .label = Cau Dyblygiadau'r Tab Hwn
+    .accesskey = a
 tab-context-share-url =
     .label = Rhannu
     .accesskey = R
@@ -151,6 +157,18 @@ tab-context-close-n-tabs =
            *[other] Cau { $tabCount } Tab
         }
     .accesskey = T
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Cau
+            [zero] Cau { $tabCount } Tabiau
+            [one] Cau { $tabCount } Tab
+            [two] Cau { $tabCount } Dab
+            [few] Cau { $tabCount } Tab
+            [many] Cau { $tabCount } Thab
+           *[other] Cau { $tabCount } Tab
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -163,6 +181,23 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Symud Tab i
+            [zero] Symud { $tabCount } Tabiau i
+            [one] Symud { $tabCount } Tab i
+            [two] Symud { $tabCount } Dab i
+            [few] Symud { $tabCount } Tab i
+            [many] Symud { $tabCount } Thab i
+           *[other] Symud { $tabCount } Tab i
+        }
+    .accesskey = S
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Symud Golwg Hollt i
+    .accesskey = G
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -176,6 +211,9 @@ tab-context-send-to-device =
            *[other] Anfon { $tabCount } Tab i Ddyfais
         }
     .accesskey = A
+tab-context-send-to-device2 =
+    .label = Anfon at Eich Dyfeisiau
+    .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -216,3 +254,7 @@ tab-context-unload-n-tabs =
            *[other] Dadlwytho { $tabCount } Tab
         }
     .accesskey = D
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Llwytho i fyny
+    .accesskey = L

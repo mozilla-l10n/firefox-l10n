@@ -26,7 +26,7 @@ user-context-none =
     .accesskey = D
 user-context-manage-containers =
     .label = Rheoli Cynwysyddion
-    .accesskey = R
+    .accesskey = h
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
