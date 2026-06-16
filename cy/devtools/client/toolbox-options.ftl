@@ -118,7 +118,7 @@ options-sourceeditor-keybinding-default-label = Rhagosodiad
 ## Local Mode section
 
 # The heading
-options-local-mode-label = Modd Lleol
+options-local-mode-label = Y Modd Lleol
 options-local-mode-only-work-locally = Dim ond yn lleol y mae'r Modd Lleol yn gweithio ac mae'n cael ei analluogi wrth ddadfygio cyd-destunau pell
 options-local-mode-behavior = Mae'r Modd Lleol yn caniatáu ichi lwytho ffeiliau lleol trwy URL https heb unrhyw ddibyniaeth allanol. Dim ond o dabiau y mae DevTools wedi'u hagor y mae modd llwytho'r URLau.
 options-local-mode-domain-label = Parth cyfaddas:

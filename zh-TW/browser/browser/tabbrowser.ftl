@@ -153,9 +153,15 @@ tabbrowser-customizemode-tab-title = 自訂 { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = 分頁靜音
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = 靜音
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = 取消分頁靜音
     .accesskey = M
+tabbrowser-context-unmute-tab2 =
+    .label = 取消靜音
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = 分頁靜音

@@ -4,7 +4,7 @@
 
 about-pdf-title = Golygydd PDF { -brand-short-name }
 about-pdf-header = { -brand-short-name } PDF
-about-pdf-tagline = Teclyn am ddim ar gyfer darllen, uno, arwyddo, rhoi sylwadau, a mwy - gyda phreifatrwydd yn rhan ohono
+about-pdf-tagline = Teclyn am ddim ar gyfer darllen, uno, llofnodi, rhoi sylwadau, a mwy - gyda phreifatrwydd yn rhan ohono
 about-pdf-dropzone =
     .title = Gollyngwch PDF yma i ddechrau neu bwyso Enter
 about-pdf-dropzone-hint = Gollyngwch PDF yma i ddechrau
