@@ -184,6 +184,10 @@ tab-context-move-tabs2 =
            *[other] { $tabCount } rajtarkow přesunyć do
         }
     .accesskey = s
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Dźěleny napohlad přesunyć do
+    .accesskey = l
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
