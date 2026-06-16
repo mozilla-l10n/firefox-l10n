@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Оновити вкладку
     .accesskey = О
+reload-tab2 =
+    .label = Перезавантажити
+    .accesskey = П
 select-all-tabs =
     .label = Вибрати всі вкладки
     .accesskey = б
@@ -24,9 +27,15 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Дублювати вкладку
     .accesskey = ю
+duplicate-tab2 =
+    .label = Дублювати
+    .accesskey = б
 duplicate-tabs =
     .label = Дублювати вкладки
     .accesskey = ю
+duplicate-tabs2 =
+    .label = Дублювати
+    .accesskey = б
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -52,8 +61,14 @@ reload-tabs =
 pin-tab =
     .label = Закріпити вкладку
     .accesskey = З
+tab-context-pin-tab2 =
+    .label = Закріпити
+    .accesskey = З
 unpin-tab =
     .label = Відкріпити вкладку
+    .accesskey = В
+tab-context-unpin-tab2 =
+    .label = Відкріпити
     .accesskey = В
 pin-selected-tabs =
     .label = Закріпити вкладки
@@ -67,7 +82,13 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Додати вкладку до закладок…
     .accesskey = и
+tab-context-bookmark-tab2 =
+    .label = Додати закладку
+    .accesskey = к
 tab-context-open-in-new-container-tab =
+    .label = Відкрити в новій вкладці контейнера
+    .accesskey = й
+tab-context-open-in-new-container-tab2 =
     .label = Відкрити в новій вкладці контейнера
     .accesskey = й
 move-to-start =
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Закрити кілька вкладок
     .accesskey = к
+tab-context-close-multiple-tabs2 =
+    .label = Закрити декілька
+    .accesskey = и
 tab-context-close-duplicate-tabs =
     .label = Закрити дублікати вкладок
     .accesskey = б
+tab-context-close-duplicate-tabs2 =
+    .label = Закрити дублікати цієї вкладки
+    .accesskey = є
 tab-context-share-url =
     .label = Поділитися
     .accesskey = я
@@ -122,6 +149,15 @@ tab-context-close-n-tabs =
            *[many] Закрити { $tabCount } вкладок
         }
     .accesskey = к
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Закрити
+            [one] Закрити { $tabCount } вкладку
+            [few] Закрити { $tabCount } вкладки
+           *[many] Закрити { $tabCount } вкладок
+        }
+    .accesskey = т
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -130,6 +166,20 @@ tab-context-move-tabs =
            *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = м
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Перемістити вкладку
+            [one] Перемістити { $tabCount } вкладку
+            [few] Перемістити { $tabCount } вкладки
+           *[many] Перемістити { $tabCount } вкладок
+        }
+    .accesskey = е
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Перемістити розділений екран
+    .accesskey = с
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -139,6 +189,9 @@ tab-context-send-to-device =
            *[many] Надіслати { $tabCount } вкладок на пристрій
         }
     .accesskey = с
+tab-context-send-to-device2 =
+    .label = Надіслати на пристрої
+    .accesskey = о
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -168,3 +221,7 @@ tab-context-unload-n-tabs =
            *[many] Вивантажити { $tabCount } вкладок
         }
     .accesskey = В
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Вивантажити
+    .accesskey = а
