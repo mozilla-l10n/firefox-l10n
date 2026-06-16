@@ -90,7 +90,7 @@ tab-context-open-in-new-container-tab =
     .accesskey = e
 tab-context-open-in-new-container-tab2 =
     .label = Ouvrir dans un nouvel onglet conteneur
-    .accesskey = O
+    .accesskey = d
 move-to-start =
     .label = Déplacer vers le début
     .accesskey = S
@@ -109,13 +109,13 @@ tab-context-close-multiple-tabs =
     .accesskey = l
 tab-context-close-multiple-tabs2 =
     .label = Fermer plusieurs onglets
-    .accesskey = F
+    .accesskey = o
 tab-context-close-duplicate-tabs =
     .label = Fermer les onglets en double
     .accesskey = u
 tab-context-close-duplicate-tabs2 =
     .label = Fermer les doublons de cet onglet
-    .accesskey = F
+    .accesskey = e
 tab-context-share-url =
     .label = Partager
     .accesskey = P
@@ -153,7 +153,6 @@ tab-context-close-n-tabs2 =
     .label =
         { $tabCount ->
             [1] Fermer
-            [one] Fermer { $tabCount } onglets
            *[other] Fermer { $tabCount } onglets
         }
     .accesskey = F
@@ -169,14 +168,13 @@ tab-context-move-tabs2 =
     .label =
         { $tabCount ->
             [1] Déplacer l’onglet vers
-            [one] Déplacer { $tabCount } onglets vers
            *[other] Déplacer { $tabCount } onglets vers
         }
-    .accesskey = D
+    .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Déplacer la vue scindée vers
-    .accesskey = D
+    .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -217,4 +215,4 @@ tab-context-unload-n-tabs =
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
     .label = Décharger
-    .accesskey = D
+    .accesskey = h
