@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Aggiornamento non riuscito - sistema non compatibile
 appmenuitem-banner-update-restart =
     .label = Aggiornamento disponibile — riavvia adesso
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Prova il nuovo { -brand-short-name }. Le tue schede resteranno al loro posto.
+appmenu-nova-update-link = Riavvia per aggiornare
+appmenu-nova-fxa-sign-in = Accedi
+appmenu-nova-switch-device-promo =
+    .message = Stai per cambiare dispositivo? Porta { -brand-short-name } sempre con te!
+appmenu-nova-switch-device-link = Come migrare i tuoi dati
 appmenuitem-new-tab =
     .label = Nuova scheda
 appmenuitem-new-window =
