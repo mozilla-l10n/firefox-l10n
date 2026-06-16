@@ -293,9 +293,8 @@ tab-context-move-tab-to-new-group =
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Ajouter l’onglet au groupe
-            [one] Ajouter l’onglet au groupe
-           *[other] Ajouter les onglets au groupe
+            [1] Ajouter l’onglet à un groupe
+           *[other] Ajouter les onglets à un groupe
         }
     .accesskey = A
 tab-context-move-split-view-to-new-group =
@@ -308,8 +307,8 @@ tab-context-move-split-view-to-new-group =
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
-            [1] Ajouter la vue scindée au groupe
-           *[other] Ajouter les vues scindées au groupe
+            [1] Ajouter la vue scindée à un groupe
+           *[other] Ajouter les vues scindées à un groupe
         }
     .accesskey = A
 tab-context-move-tab-to-group-saved-groups =
