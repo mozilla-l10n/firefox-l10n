@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Tên
+    .placeholder = Thêm tên
+containers-icon-label2 =
+    .label = Biểu tượng
+containers-color-label2 =
+    .label = Màu
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Cây
 containers-icon-chill =
     .label = Khuôn
+containers-window-new3 =
+    .title = Thêm ngăn chứa mới
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Cài đặt ngăn chứa { $name }
+    .style = min-width: 32em

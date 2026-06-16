@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Mở lại cửa sổ đã đóng gần đây
 customkeys-sidebar-toggle = Bật/tắt thanh lề
 customkeys-view-bookmarks-toolbar = Bật/tắt thanh công cụ dấu trang
 customkeys-view-picture-in-picture = Hình trong hình
+customkeys-view-add-split-view = Chế độ chia cửa sổ
+# Separate is a verb
+customkeys-view-separate-split-view = Tách các thẻ
 customkeys-dev-tools = Công cụ phát triển Web
 customkeys-dev-inspector = Trình kiểm tra DOM và kiểu mẫu
 customkeys-dev-webconsole = Web Console

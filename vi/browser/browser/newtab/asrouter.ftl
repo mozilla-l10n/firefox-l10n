@@ -293,6 +293,20 @@ launch-on-login-infobar-final-message = <strong>Mở { -brand-short-name } mỗi
 launch-on-login-infobar-final-reject-button = Không phải bây giờ
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Mở { -brand-short-name } vào lần tiếp theo bạn khởi động máy tính?
+launch-on-login-spotlight-startup-checkbox = Khởi chạy { -brand-short-name } lúc máy tính khởi động
+launch-on-login-spotlight-pin-taskbar-checkbox = Ghim vào thanh tác vụ
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Mở các cửa sổ và thẻ trước đó
+launch-on-login-spotlight-primary-button = Lưu và đóng { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -458,3 +472,7 @@ relay-50-masks-announcement-primary-button = Đi đến { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Bỏ qua
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } đang được khoác lên mình diện mạo mới.</strong> Bạn đang xem trước phiên bản thử nghiệm, chưa hoàn thiện trước khi ra mắt chính thức vào cuối năm nay.
