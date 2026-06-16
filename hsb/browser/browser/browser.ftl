@@ -897,10 +897,10 @@ urlbar-result-explanation-last-visited-relative = Posledni wopyt { $date }
 #   $daysAgo (number) - The number of days ago
 urlbar-result-explanation-last-visited-days =
     { $daysAgo ->
-        [one] Posledni wopyt před { $daysAgo } dźeń
-        [two] Posledni wopyt před { $daysAgo } dnjej
-        [few] Posledni wopyt před { $daysAgo } dny
-       *[other] Posledni wopyt před { $daysAgo } dnjow
+        [one] Posledni wopyt před { $daysAgo } dnjom
+        [two] Posledni wopyt před { $daysAgo } dnjomaj
+        [few] Posledni wopyt před { $daysAgo } dnjemi
+       *[other] Posledni wopyt před { $daysAgo } dnjemi
     }
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.

@@ -173,6 +173,21 @@ tab-context-move-tabs =
            *[other] { $tabCount } rejtarikow pśesunuś
         }
     .accesskey = s
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Rejtarik pśesunuś do
+            [one] { $tabCount } rejtarik pśesunuś do
+            [two] { $tabCount } rejtarika pśesunuś do
+            [few] { $tabCount } rejtariki pśesunuś do
+           *[other] { $tabCount } rejtarikow pśesunuś do
+        }
+    .accesskey = R
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Źělony naglěd pśesunuś do
+    .accesskey = l
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

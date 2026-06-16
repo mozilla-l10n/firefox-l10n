@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } oanpasse
 tabbrowser-context-mute-tab =
     .label = Ljepblêd dempe
     .accesskey = d
+tabbrowser-context-mute-tab2 =
+    .label = Lûd út
+    .accesskey = L
 tabbrowser-context-unmute-tab =
     .label = Ljepblêd dempe opheffe
     .accesskey = d
+tabbrowser-context-unmute-tab2 =
+    .label = Lûd oan
+    .accesskey = o
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Ljepblêden dempe

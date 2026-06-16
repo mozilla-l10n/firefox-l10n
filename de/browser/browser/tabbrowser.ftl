@@ -183,8 +183,14 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } anpassen
 tabbrowser-context-mute-tab =
     .label = Tab stummschalten
     .accesskey = m
+tabbrowser-context-mute-tab2 =
+    .label = Stumm schalten
+    .accesskey = m
 tabbrowser-context-unmute-tab =
     .label = Stummschaltung für Tab aufheben
+    .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Stummschaltung aufheben
     .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =

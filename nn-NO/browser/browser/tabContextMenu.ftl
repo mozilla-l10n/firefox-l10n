@@ -107,6 +107,9 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Lat att fleire faner
     .accesskey = f
+tab-context-close-multiple-tabs2 =
+    .label = Lat att fleire
+    .accesskey = L
 tab-context-close-duplicate-tabs =
     .label = Lat att dupliserte faner
     .accesskey = a
@@ -144,11 +147,26 @@ tab-context-close-n-tabs =
            *[other] Lat att { $tabCount } faner
         }
     .accesskey = L
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Lat att
+           *[other] Lat att { $tabCount } faner
+        }
+    .accesskey = L
 tab-context-move-tabs =
     .label =
         { $tabCount ->
             [1] Flytt fane
            *[other] Flytt faner
+        }
+    .accesskey = F
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Flytt fane til
+           *[other] Flytt { $tabCount } faner til
         }
     .accesskey = F
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
@@ -191,4 +209,8 @@ tab-context-unload-n-tabs =
             [1] Frigjer fane
            *[other] Frigjer { $tabCount } faner
         }
+    .accesskey = F
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Frigjer
     .accesskey = F

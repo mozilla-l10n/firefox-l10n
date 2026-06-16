@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Ail agor ffenestr Caewyd Diwethaf
 customkeys-sidebar-toggle = Toglo'r Bar Ochr
 customkeys-view-bookmarks-toolbar = Toglo Bar Offer Nodau Tudalen
 customkeys-view-picture-in-picture = Llun-mewn-Llun
+customkeys-view-add-split-view = Ychwanegu Golwg Hollt
+# Separate is a verb
+customkeys-view-separate-split-view = Gwahanu Golwg Hollt
 customkeys-dev-tools = Offer Datblygwr Gwe
 customkeys-dev-inspector = Arsylwr DOM ac Arddull
 customkeys-dev-webconsole = Consol Gwe

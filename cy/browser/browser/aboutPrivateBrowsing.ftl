@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Rydyn ni nawr yn gwrthod llaw
 about-private-browsing-felt-privacy-v1-info-header = Peidio â gadael unrhyw olion ar y ddyfais hon
 about-private-browsing-felt-privacy-v1-info-body = Mae { -brand-short-name } yn dileu eich cwcis, hanes, a data gwefan pan fyddwch yn cau eich holl ffenestri preifat.
 about-private-browsing-felt-privacy-v1-info-link = Pwy all weld fy ngweithgarwch?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Mae cau eich holl ffenestri preifat yn dileu eich cwcis, hanes a data gwefan.

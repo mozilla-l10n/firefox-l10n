@@ -308,6 +308,20 @@ launch-on-login-infobar-final-message = <strong>Agor { -brand-short-name } bob t
 launch-on-login-infobar-final-reject-button = Dim diolch
     .accesskey = D
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Agor { -brand-short-name } y tro nesaf y bydd eich cyfrifiadur yn cychwyn?
+launch-on-login-spotlight-startup-checkbox = Agor { -brand-short-name } wrth gychwyn
+launch-on-login-spotlight-pin-taskbar-checkbox = Pinio i'r bar tasgau
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Agor ffenestri a thabiau blaenorol
+launch-on-login-spotlight-primary-button = Cadw a chau { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -473,3 +487,11 @@ relay-50-masks-announcement-primary-button = Ewch i { -relay-brand-name }
     .accesskey = E
 relay-50-masks-announcement-secondary-button = Cau
     .accesskey = C
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>Mae { -brand-product-name } yn cael gwedd newydd.</strong> Rydych chi'n cael rhagolwg o fersiwn cynnar heb ei sgleinio cyn ei lansio yn ddiweddarach eleni.
+nova-early-access-share-feedback-link = Rhannu adborth
+    .accesskey = R
+nova-early-access-infobar-primary-button = Iawn
+    .accesskey = I

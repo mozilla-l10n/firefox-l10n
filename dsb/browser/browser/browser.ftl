@@ -882,6 +882,59 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pšašaś se
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Slědny woglěd { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Slědny woglěd pśed { $daysAgo } dnjom
+        [two] Slědny woglěd pśed { $daysAgo } dnjoma
+        [few] Slědny woglěd pśed { $daysAgo } dnjami
+       *[other] Slědny woglěd pśed { $daysAgo } dnjami
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Slědny woglěd pśed { $weeksAgo } tyźenjom
+        [two] Slědny woglěd pśed { $weeksAgo } tyźenjoma
+        [few] Slědny woglěd pśed { $weeksAgo } tyźenjami
+       *[other] Slědny woglěd pśed { $weeksAgo } tyźenjami
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Slědny woglěd pśed { $monthsAgo } mjasecom
+        [two] Slědny woglěd pśed { $monthsAgo } mjasecoma
+        [few] Slědny woglěd pśed { $monthsAgo } mjasecami
+       *[other] Slědny woglěd pśed { $monthsAgo } mjasecami
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Slědny woglěd dnja { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Jo se { $date } ako cytańske znamje składł
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 

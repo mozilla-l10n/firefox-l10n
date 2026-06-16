@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = { -brand-short-name } automatysk iepenje by it opstarten fan jo computer
     .accesskey = a
 windows-launch-on-login-disabled = Dizze foarkar is útskeakele yn Windows. Gean nei <a data-l10n-name="startup-link">Apps</a> yn Systeemynstellingen om dit te wizigjen.
+windows-launch-on-login-open-new-tab =
+    .label = Ek in nij ljepblêd iepenje
+    .accesskey = b
 windows-launch-on-login-profile-disabled = Skeakelje dizze foarkar yn troch ‘{ profile-manager-use-selected.label }’ yn it finster ‘Brûkersprofyl kieze’ oan te finken.
 startup-restore-warn-on-quit =
     .label = Warskôgje by it ôfsluten fan de browser
