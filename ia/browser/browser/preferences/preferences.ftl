@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Aperir { -brand-short-name } automaticamente quando on accende tu computator
     .accesskey = A
 windows-launch-on-login-disabled = Iste preferentia ha essite disactivate in Windows. In Parametros, aperi <a data-l10n-name="startup-link">Apps initial</a> pro modificar lo.
+windows-launch-on-login-open-new-tab =
+    .label = Alsi aperir un nove scheda
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Activa iste preferentia verificante “{ profile-manager-use-selected.label }” in le fenestra “Seliger profilo de usator”.
 startup-restore-warn-on-quit =
     .label = Advertir te quando tu quita le navigator
