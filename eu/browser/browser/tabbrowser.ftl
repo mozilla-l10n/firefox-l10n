@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = Pertsonalizatu { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Mututu fitxa
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Mututu
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Ez mututu fitxa
     .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Ez mututu
+    .accesskey = z
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Mututu fitxak

@@ -871,6 +871,53 @@ urlbar-result-weather-provider-sponsored = { $provider } · Babeslea
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Galdetu
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Azkenekoz bisitatutako data: { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Azkenekoz atzo bisitatu zenuen
+       *[other] Azkenekoz duela { $daysAgo } egun bisitatu zenuen
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Azkenekoz duela aste { $weeksAgo } bisitatu zenuen
+       *[other] Azkenekoz duela { $weeksAgo } aste bisitatu zenuen
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Azkenekoz duela hilabete bisitatu zenuen
+       *[other] Azkenekoz duela { $monthsAgo } hilabete bisitatu zenuen
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Azkenekoz ondorengo datan bisitatu zenuen: { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Laster-marka egindako data: { $date }
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 

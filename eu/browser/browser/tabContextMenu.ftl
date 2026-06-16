@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Berritu fitxa
     .accesskey = r
+reload-tab2 =
+    .label = Berritu
+    .accesskey = B
 select-all-tabs =
     .label = Hautatu fitxa guztiak
     .accesskey = z
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Bikoiztu fitxa
     .accesskey = B
+duplicate-tab2 =
+    .label = Bikoiztu
+    .accesskey = B
 duplicate-tabs =
     .label = Bikoiztu fitxak
+    .accesskey = B
+duplicate-tabs2 =
+    .label = Bikoiztu
     .accesskey = B
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Ainguratu fitxa
     .accesskey = A
+tab-context-pin-tab2 =
+    .label = Ainguratu
+    .accesskey = A
 unpin-tab =
     .label = Desainguratu fitxa
     .accesskey = a
+tab-context-unpin-tab2 =
+    .label = Desainguratu
+    .accesskey = D
 pin-selected-tabs =
     .label = Ainguratu fitxak
     .accesskey = A
@@ -67,7 +82,13 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Egin fitxaren laster-marka…
     .accesskey = m
+tab-context-bookmark-tab2 =
+    .label = Egin laster-marka
+    .accesskey = m
 tab-context-open-in-new-container-tab =
+    .label = Ireki edukiontzi-fitxa berrian
+    .accesskey = e
+tab-context-open-in-new-container-tab2 =
     .label = Ireki edukiontzi-fitxa berrian
     .accesskey = e
 move-to-start =
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Itxi hainbat fitxa
     .accesskey = h
+tab-context-close-multiple-tabs2 =
+    .label = Itxi hainbat
+    .accesskey = h
 tab-context-close-duplicate-tabs =
     .label = Itxi bikoiztutako fitxak
     .accesskey = b
+tab-context-close-duplicate-tabs2 =
+    .label = Itxi fitxa honen kopiak
+    .accesskey = x
 tab-context-share-url =
     .label = Partekatu
     .accesskey = a
@@ -120,6 +147,13 @@ tab-context-close-n-tabs =
            *[other] Itxi { $tabCount } fitxa
         }
     .accesskey = x
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Itxi
+           *[other] Itxi { $tabCount } fitxa
+        }
+    .accesskey = x
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -128,6 +162,18 @@ tab-context-move-tabs =
            *[other] Mugitu fitxak
         }
     .accesskey = M
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Aldatu fitxa lekuz hona
+           *[other] Aldatu { $tabCount } fitxa lekuz hona
+        }
+    .accesskey = d
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Aldatu lekuz ikuspegi zatitua hona
+    .accesskey = d
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -136,6 +182,9 @@ tab-context-send-to-device =
             [one] Bidali fitxa bat gailura
            *[other] Bidali { $tabCount } fitxa gailura
         }
+    .accesskey = d
+tab-context-send-to-device2 =
+    .label = Bidali zure gailuetara
     .accesskey = d
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -164,3 +213,7 @@ tab-context-unload-n-tabs =
            *[other] Hustu { $tabCount } fitxa
         }
     .accesskey = A
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Hustu
+    .accesskey = u
