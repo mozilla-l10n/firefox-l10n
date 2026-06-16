@@ -297,6 +297,12 @@ launch-on-login-infobar-final-reject-button = לא תודה
 
 launch-on-login-spotlight-title = לפתוח את { -brand-short-name } בפעם הבאה כשהמחשב שלך יופעל?
 launch-on-login-spotlight-startup-checkbox = הפעלת { -brand-short-name } בעת הדלקת המחשב
+launch-on-login-spotlight-pin-taskbar-checkbox = הצמדה לשורת המשימות
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = פתיחת חלונות ולשוניות קודמות
+launch-on-login-spotlight-primary-button = שמירה וסגירת { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 

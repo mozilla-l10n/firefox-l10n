@@ -139,6 +139,13 @@ options-local-mode-choose-folder-picker-title = Seleccionar carpeta de modo loca
 options-local-mode-folder-invalid = Esta carpeta no existe o no es válida.
 options-local-mode-toggle-enable = Habilitar
 options-local-mode-toggle-disable = Deshabilitar
+options-local-mode-navigate-to =
+    .title = Navegar a esta URL de mapeo
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = ¿Desea eliminar el mapeo “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Agregar un nuevo mapeo local
 
 ## Advanced section
 

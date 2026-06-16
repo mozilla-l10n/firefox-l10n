@@ -181,9 +181,15 @@ tabbrowser-customizemode-tab-title = התאמה אישית של { -brand-short-n
 tabbrowser-context-mute-tab =
     .label = השתקת לשונית
     .accesskey = ש
+tabbrowser-context-mute-tab2 =
+    .label = השתקה
+    .accesskey = ה
 tabbrowser-context-unmute-tab =
     .label = ביטול השתקת לשונית
     .accesskey = ש
+tabbrowser-context-unmute-tab2 =
+    .label = ביטול השתקה
+    .accesskey = ב
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = השתקת לשוניות
