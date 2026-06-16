@@ -898,8 +898,8 @@ urlbar-result-explanation-last-visited-days =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks =
     { $weeksAgo ->
-        [one] Uw laatste bezoek was { NUMBER($weeksAgo) } week geleden
-       *[other] Uw laatste bezoek was { NUMBER($weeksAgo) } weken geleden
+        [one] Uw laatste bezoek was { $weeksAgo } week geleden
+       *[other] Uw laatste bezoek was { $weeksAgo } weken geleden
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
@@ -907,8 +907,8 @@ urlbar-result-explanation-last-visited-weeks =
 #   $monthsAgo (number) - The number of months ago
 urlbar-result-explanation-last-visited-months =
     { $monthsAgo ->
-        [one] Uw laatste bezoek was { NUMBER($monthsAgo) } maand geleden
-       *[other] Uw laatste bezoek was { NUMBER($monthsAgo) } maanden geleden
+        [one] Uw laatste bezoek was { $monthsAgo } maand geleden
+       *[other] Uw laatste bezoek was { $monthsAgo } maanden geleden
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"

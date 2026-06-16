@@ -895,8 +895,8 @@ urlbar-result-explanation-last-visited-days =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks =
     { $weeksAgo ->
-        [one] Ultime visita { $daysAgo } septimana retro
-       *[other] Ultime visita { $daysAgo } septimanas retro
+        [one] Ultime visita { $weeksAgo } septimana retro
+       *[other] Ultime visita { $weeksAgo } septimanas retro
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
@@ -904,8 +904,8 @@ urlbar-result-explanation-last-visited-weeks =
 #   $monthsAgo (number) - The number of months ago
 urlbar-result-explanation-last-visited-months =
     { $monthsAgo ->
-        [one] Ultime visita { $daysAgo } mense retro
-       *[other] Ultime visita { $daysAgo } menses retro
+        [one] Ultime visita { $monthsAgo } mense retro
+       *[other] Ultime visita { $monthsAgo } menses retro
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
