@@ -173,6 +173,17 @@ tab-context-move-tabs =
            *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Rajtark přesunyć do
+            [one] { $tabCount } rajtark přesunyć do
+            [two] { $tabCount } rajtarkaj přesunyć do
+            [few] { $tabCount } rajtarki přesunyć do
+           *[other] { $tabCount } rajtarkow přesunyć do
+        }
+    .accesskey = s
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
