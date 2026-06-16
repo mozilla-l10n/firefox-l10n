@@ -200,9 +200,15 @@ tabbrowser-customizemode-tab-title = Уладкаванне { -brand-short-name 
 tabbrowser-context-mute-tab =
     .label = Сцішыць картку
     .accesskey = С
+tabbrowser-context-mute-tab2 =
+    .label = Сцішыць
+    .accesskey = ь
 tabbrowser-context-unmute-tab =
     .label = Раз-цішыць картку
     .accesskey = Р
+tabbrowser-context-unmute-tab2 =
+    .label = Разцішыць
+    .accesskey = ь
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Выключыць гук картак
