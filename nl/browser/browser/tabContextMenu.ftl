@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Tabblad vernieuwen
     .accesskey = n
+reload-tab2 =
+    .label = Vernieuwen
+    .accesskey = V
 select-all-tabs =
     .label = Alle tabbladen selecteren
     .accesskey = b
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Tabblad dupliceren
     .accesskey = u
+duplicate-tab2 =
+    .label = Duplicaat
+    .accesskey = u
 duplicate-tabs =
     .label = Tabbladen dupliceren
+    .accesskey = u
+duplicate-tabs2 =
+    .label = Duplicaat
     .accesskey = u
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Tabblad vastmaken
     .accesskey = v
+tab-context-pin-tab2 =
+    .label = Vastmaken
+    .accesskey = V
 unpin-tab =
     .label = Tabblad losmaken
     .accesskey = l
+tab-context-unpin-tab2 =
+    .label = Losmaken
+    .accesskey = L
 pin-selected-tabs =
     .label = Tabbladen vastmaken
     .accesskey = v
@@ -67,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Bladwijzer voor tabblad maken…
     .accesskey = B
+tab-context-bookmark-tab2 =
+    .label = Bladwijzer maken
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Openen in nieuw containertabblad
     .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = Openen in een nieuw containertabblad
+    .accesskey = p
 move-to-start =
     .label = Verplaatsen naar begin
     .accesskey = b
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Meerdere tabbladen sluiten
     .accesskey = M
+tab-context-close-multiple-tabs2 =
+    .label = Meerdere sluiten
+    .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = Dubbele tabbladen sluiten
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Duplicaten van dit tabblad sluiten
+    .accesskey = c
 tab-context-share-url =
     .label = Delen
     .accesskey = e
@@ -122,6 +149,14 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } tabbladen sluiten
         }
     .accesskey = s
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Sluiten
+            [one] { $tabCount } tabblad sluiten
+           *[other] { $tabCount } tabbladen sluiten
+        }
+    .accesskey = s
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -130,6 +165,19 @@ tab-context-move-tabs =
            *[other] Tabbladen verplaatsen
         }
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Tabblad verplaatsen naar
+            [one] { $tabCount } tabblad verplaatsen naar
+           *[other] { $tabCount } tabbladen verplaatsen naar
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Gesplitste weergave verplaatsen naar
+    .accesskey = p
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -138,6 +186,9 @@ tab-context-send-to-device =
             [one] { $tabCount } tabblad naar apparaat verzenden
            *[other] { $tabCount } tabbladen naar apparaat verzenden
         }
+    .accesskey = z
+tab-context-send-to-device2 =
+    .label = Naar uw apparaten verzenden
     .accesskey = z
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -167,3 +218,7 @@ tab-context-unload-n-tabs =
            *[other] { $tabCount } tabbladen ontladen
         }
     .accesskey = o
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Ontladen
+    .accesskey = O

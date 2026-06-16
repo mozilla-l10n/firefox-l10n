@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } aanpassen
 tabbrowser-context-mute-tab =
     .label = Tabblad dempen
     .accesskey = d
+tabbrowser-context-mute-tab2 =
+    .label = Dempen
+    .accesskey = D
 tabbrowser-context-unmute-tab =
     .label = Tabblad dempen opheffen
     .accesskey = d
+tabbrowser-context-unmute-tab2 =
+    .label = Dempen opheffen
+    .accesskey = o
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Tabbladen dempen
