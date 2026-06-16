@@ -120,14 +120,34 @@ options-sourceeditor-keybinding-default-label = Normal
 # The heading
 options-local-mode-label = Modo local
 options-local-mode-only-work-locally = O modo local funciona apenas localmente e é desativado ao depurar contextos remotos
+options-local-mode-behavior = O modo local permite carregar arquivos locais via URL https sem nenhuma dependência externa. As URLs só podem ser carregadas a partir de abas com as ferramentas de desenvolvimento abertas.
 options-local-mode-domain-label = Domínio personalizado:
+options-local-mode-origin-input =
+    .placeholder = Origem do mapeamento local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Esta origem está em conflito com outro mapeamento existente
 options-local-mode-origin-invalid = Esta origem é inválida
 options-local-mode-folder-label = Pasta local:
+options-local-mode-choose-folder = Procurar…
+    .title = Escolher uma pasta local para servir este mapeamento
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Escolher pasta do modo local de: { $url }
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Esta pasta não existe ou é inválida.
+options-local-mode-toggle =
+    .title = Ativar/desativar este mapeamento local
 options-local-mode-toggle-enable = Ativar
 options-local-mode-toggle-disable = Desativar
+options-local-mode-navigate-to =
+    .title = Acessar esta URL de mapeamento
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Quer remover o mapeamento “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Adicionar novo mapeamento local
 
 ## Advanced section
 
