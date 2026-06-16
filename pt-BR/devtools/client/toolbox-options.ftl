@@ -119,6 +119,7 @@ options-sourceeditor-keybinding-default-label = Normal
 
 # The heading
 options-local-mode-label = Modo local
+options-local-mode-only-work-locally = O modo local funciona apenas localmente e é desativado ao depurar contextos remotos
 options-local-mode-domain-label = Domínio personalizado:
 options-local-mode-origin-invalid = Esta origem é inválida
 options-local-mode-folder-label = Pasta local:
