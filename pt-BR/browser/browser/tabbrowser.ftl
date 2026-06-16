@@ -186,9 +186,15 @@ tabbrowser-customizemode-tab-title = Personalizar o { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Silenciar aba
     .accesskey = S
+tabbrowser-context-mute-tab2 =
+    .label = Silenciar
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Ativar som da aba
     .accesskey = s
+tabbrowser-context-unmute-tab2 =
+    .label = Ativar som
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Silenciar abas

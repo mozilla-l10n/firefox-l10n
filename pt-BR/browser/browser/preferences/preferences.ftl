@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Abrir o { -brand-short-name } automaticamente ao iniciar o computador
     .accesskey = A
 windows-launch-on-login-disabled = Esta preferência foi desativada no Windows. Para alterar, visite <a data-l10n-name="startup-link">Aplicativos de inicialização</a> nas configurações do sistema.
+windows-launch-on-login-open-new-tab =
+    .label = Também abrir uma nova aba
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Ative esta preferência marcando “{ profile-manager-use-selected.label }” na janela “Perfil de usuário”.
 startup-restore-warn-on-quit =
     .label = Avisar ao sair do navegador

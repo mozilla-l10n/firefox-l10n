@@ -302,6 +302,13 @@ launch-on-login-infobar-final-reject-button = Não, obrigado
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-title = Abrir o { -brand-short-name } na próxima vez que ligar o computador?
+launch-on-login-spotlight-startup-checkbox = Abrir o { -brand-short-name } ao iniciar
+launch-on-login-spotlight-pin-taskbar-checkbox = Fixar na barra de tarefas
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Abrir janelas e abas anteriores
+launch-on-login-spotlight-primary-button = Salvar e fechar o { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
