@@ -898,8 +898,8 @@ urlbar-result-explanation-last-visited-days =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks =
     { $weeksAgo ->
-        [one] La última visita fue hace { NUMBER($weeksAgo) } semana
-       *[other] La última visita fue hace { NUMBER($weeksAgo) } semanas
+        [one] La última visita fue hace { $weeksAgo } semana
+       *[other] La última visita fue hace { $weeksAgo } semanas
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.

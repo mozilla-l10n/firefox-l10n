@@ -152,7 +152,7 @@ tab-context-close-n-tabs2 =
     .label =
         { $tabCount ->
             [1] סגירה
-           *[other] סגירת { NUMBER($tabCount) } לשוניות
+           *[other] סגירת { $tabCount } לשוניות
         }
     .accesskey = ס
 tab-context-move-tabs =
@@ -167,7 +167,7 @@ tab-context-move-tabs2 =
     .label =
         { $tabCount ->
             [1] העברת לשונית אל
-           *[other] העברת { NUMBER($tabCount) } לשוניות אל
+           *[other] העברת { $tabCount } לשוניות אל
         }
     .accesskey = ע
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
