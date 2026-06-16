@@ -307,7 +307,7 @@ launch-on-login-spotlight-pin-taskbar-checkbox = Épingler à la barre des tâch
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Ouvrir les fenêtres et onglets précédents
-launch-on-login-spotlight-primary-button = Économiser et fermer { -brand-short-name }
+launch-on-login-spotlight-primary-button = Enregistrer et fermer { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
