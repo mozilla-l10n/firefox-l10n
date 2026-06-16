@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Адкрываць { -brand-short-name } аўтаматычна пры запуску камп'ютара
     .accesskey = ў
 windows-launch-on-login-disabled = Гэты параметр быў адключаны ў Windows. Каб змяніць яго, адкрыйце <a data-l10n-name="startup-link">Аўтазагрузка праграм</a> у наладах сістэмы.
+windows-launch-on-login-open-new-tab =
+    .label = Таксама адкрыць новую картку
+    .accesskey = т
 windows-launch-on-login-profile-disabled = Уключыце гэты параметр, адзначыўшы «{ profile-manager-use-selected.label }» у акне «Выбар профілю карыстальніка».
 startup-restore-warn-on-quit =
     .label = Папярэджваць пры выхадзе з браўзера

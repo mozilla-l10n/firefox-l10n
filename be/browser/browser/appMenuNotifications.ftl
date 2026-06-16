@@ -5,7 +5,7 @@
 appmenu-update-available2 =
     .label = Даступна абнаўленне
     .buttonlabel = Сцягнуць
-    .buttonaccesskey = ц
+    .buttonaccesskey = { "" }
     .secondarybuttonlabel = Адхіліць
     .secondarybuttonaccesskey = ь
 appmenu-update-available-message2 = Сцягніце найноўшую версію { -brand-shorter-name }.
