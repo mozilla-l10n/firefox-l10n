@@ -153,6 +153,16 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } rejtarikow zacyniś
         }
     .accesskey = z
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Zacyniś
+            [one] { $tabCount } rejtarik zacyniś
+            [two] { $tabCount } rejtarika zacyniś
+            [few] { $tabCount } rejtariku zacyniś
+           *[other] { $tabCount } rejtarikow zacyniś
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -173,6 +183,9 @@ tab-context-send-to-device =
             [few] { $tabCount } rejtariki na rěd pósłaś
            *[other] { $tabCount } rejtarikow na rěd pósłaś
         }
+    .accesskey = r
+tab-context-send-to-device2 =
+    .label = Na waše rědy pósłaś
     .accesskey = r
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -208,3 +221,7 @@ tab-context-unload-n-tabs =
            *[other] { $tabCount } rejtarikow pušćiś
         }
     .accesskey = r
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Wótpóraś
+    .accesskey = t
