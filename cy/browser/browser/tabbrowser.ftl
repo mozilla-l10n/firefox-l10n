@@ -227,8 +227,14 @@ tabbrowser-customizemode-tab-title = Cyfaddasu { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Tewi Tab
     .accesskey = T
+tabbrowser-context-mute-tab2 =
+    .label = Tewi
+    .accesskey = T
 tabbrowser-context-unmute-tab =
     .label = Dad-dewi Tab
+    .accesskey = D
+tabbrowser-context-unmute-tab2 =
+    .label = Dad-dewi
     .accesskey = D
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =

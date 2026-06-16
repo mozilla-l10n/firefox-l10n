@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Agor { -brand-short-name } yn awtomatig pan fydd eich cyfrifiadur yn cychwyn
     .accesskey = A
 windows-launch-on-login-disabled = Mae'r dewis hwn wedi'i analluogi yn Windows. I'w newid, ewch i <a data-l10n-name="startup-link">Startup Apps</a> yng ngosodiadau System.
+windows-launch-on-login-open-new-tab =
+    .label = Hefyd agor tab newydd
+    .accesskey = H
 windows-launch-on-login-profile-disabled = Galluogwch y dewis hwn trwy dicio “{ profile-manager-use-selected.label }” yn y ffenestr “Dewis Proffil Defnyddiwr”.
 startup-restore-warn-on-quit =
     .label = Rhybuddio wrth adael y porwr
@@ -1288,6 +1291,22 @@ containers-settings-button =
     .label = Gosodiadau
 containers-remove-button =
     .label = Tynnu
+containers-section-header2 =
+    .heading = Gosodiadau cynhwysydd
+containers-card-header2 =
+    .label = Cynwysyddion
+    .description = Gwahanwch gwcis yn ôl cynwysyddion fel bod modd i chi ddefnyddio cyfrifon gwahanol ar yr un gwefannau a chyfyngu tracio traws-gwefan.
+containers-add-button2 =
+    .label = Ychwanegu cynhwysydd newydd
+    .accesskey = Y
+containers-new-tab-check2 =
+    .label = Dewis cynhwysydd ar gyfer pob tab newydd
+    .accesskey = D
+    .description = Bydd hyn yn agor y ddewislen cynhwysyddion bob tro fyddwch yn pwyso'r botwm agor tab newydd.
+containers-settings-button2 =
+    .title = Gosodiadau
+containers-remove-button2 =
+    .title = Tynnu
 
 ## Account and sync
 
@@ -1295,6 +1314,9 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = Cyfrif
+account-disabled-group =
+    .label = Cyfrif
+    .description = Dyw gosodiadau cyfrif ddim ar gael.
 account-placeholder2 =
     .label = Dydych chi heb fewngofnodi
     .description = Mewngofnodwch a  chadw'ch data yn breifat, wedi'i amgryptio ac ar gael yn syth lle bynnag fyddwch yn defnyddio { -brand-short-name }.
