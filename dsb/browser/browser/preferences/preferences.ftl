@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = { -brand-short-name } awtomatiski wócyniś, gaž se wašo licadło startujo
     .accesskey = c
 windows-launch-on-login-disabled = Toś to nastajenje jo se znjemóžniło we Windows. Aby nastajenje změnił, woglědajśo se k <a data-l10n-name="startup-link">Autostart</a> w systemowych nastajenjach.
+windows-launch-on-login-open-new-tab =
+    .label = Teke nowy rejtarik wócyniś
+    .accesskey = T
 windows-launch-on-login-profile-disabled = Markěrujśo “{ profile-manager-use-selected.label }” we woknje „Wužywaŕski profil wubraś“, aby toś to nastajenje zmóžnił.
 startup-restore-warn-on-quit =
     .label = Warnowaś, gaž se wobglědowak kóńcy

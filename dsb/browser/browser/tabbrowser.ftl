@@ -209,9 +209,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } pśiměriś
 tabbrowser-context-mute-tab =
     .label = Rejtarik nimy cyniś
     .accesskey = R
+tabbrowser-context-mute-tab2 =
+    .label = Zuk wušaltowaś
+    .accesskey = u
 tabbrowser-context-unmute-tab =
     .label = Rejtarik głosny cyniś
     .accesskey = t
+tabbrowser-context-unmute-tab2 =
+    .label = Zuk zašaltowaś
+    .accesskey = z
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Rejtariki nime cyniś
