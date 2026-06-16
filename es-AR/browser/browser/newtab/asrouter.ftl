@@ -304,6 +304,11 @@ launch-on-login-infobar-final-reject-button = No, gracias
 launch-on-login-spotlight-title = ¿Abrir { -brand-short-name } la próxima vez que se inicie la computadora?
 launch-on-login-spotlight-startup-checkbox = Iniciar { -brand-short-name } al arrancar
 launch-on-login-spotlight-pin-taskbar-checkbox = Pegar a la barra de tareas
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Abrir ventanas y pestañas anteriores
+launch-on-login-spotlight-primary-button = Guardar y cerrar { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -472,6 +477,7 @@ relay-50-masks-announcement-secondary-button = Descartar
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } tendrá una nueva apariencia.</strong> Estamos mostrándole una vista previa de una versión sin pulir antes del lanzamiento a finales de este año.
 nova-early-access-share-feedback-link = Compartir opinión
     .accesskey = n
 nova-early-access-infobar-primary-button = Entendido

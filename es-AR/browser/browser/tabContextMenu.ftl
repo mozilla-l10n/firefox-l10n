@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Recargar pestaña
     .accesskey = r
+reload-tab2 =
+    .label = Recargar
+    .accesskey = R
 select-all-tabs =
     .label = Seleccionar todas las pestañas
     .accesskey = S
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Duplicar pestaña
     .accesskey = D
+duplicate-tab2 =
+    .label = Duplicar
+    .accesskey = D
 duplicate-tabs =
     .label = Duplicar pestañas
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duplicar
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Pegar pestaña
     .accesskey = P
+tab-context-pin-tab2 =
+    .label = Pegar
+    .accesskey = P
 unpin-tab =
     .label = Despegar pestaña
     .accesskey = P
+tab-context-unpin-tab2 =
+    .label = Despegar
+    .accesskey = p
 pin-selected-tabs =
     .label = Pegar pestañas
     .accesskey = P
@@ -69,6 +84,9 @@ tab-context-bookmark-tab =
     .accesskey = m
 tab-context-open-in-new-container-tab =
     .label = Abrir en nueva pestaña contenedora
+    .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = Abrir en una nueva pestaña contenedora
     .accesskey = e
 move-to-start =
     .label = Mover al Inicio
@@ -86,9 +104,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Cerrar varias pestañas
     .accesskey = e
+tab-context-close-multiple-tabs2 =
+    .label = Cerrar múltiples
+    .accesskey = m
 tab-context-close-duplicate-tabs =
     .label = Cerrar pestañas duplicadas
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Cerrar duplicados de esta pestaña
+    .accesskey = x
 tab-context-share-url =
     .label = Compartir
     .accesskey = m
@@ -122,6 +146,14 @@ tab-context-close-n-tabs =
            *[other] Cerrar { $tabCount } pestañas
         }
     .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Cerrar
+            [one] Cerrar { $tabCount } pestaña
+           *[other] Cerrar { $tabCount } pestañas
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -129,6 +161,19 @@ tab-context-move-tabs =
             [one] Mover pestaña
            *[other] Mover pestañas
         }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Mover pestaña a
+            [one] Mover { $tabCount } pestaña a
+           *[other] Mover { $tabCount } pestañas a
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Mover vista dividida a
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
@@ -138,6 +183,9 @@ tab-context-send-to-device =
             [one] Enviar { $tabCount } pestaña a dispositivo
            *[other] Enviar { $tabCount } pestañas a dispositivo
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = Enviar a sus dispositivos
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -166,4 +214,8 @@ tab-context-unload-n-tabs =
             [one] Liberar pestaña
            *[other] Liberar { $tabCount } pestañas
         }
+    .accesskey = g
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Descargar
     .accesskey = g
