@@ -257,6 +257,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ഉപകരണപ്പട്ട ഇഷ്ടാനുസൃതമാക്കുക …
+appmenu-abouttranslations =
+    .label = മൊഴിമാറ്റുക…
 appmenu-developer-tools-subheader = അന്വേഷിയന്ത്രം ഉപകരണങ്ങൾ
 appmenu-developer-tools-extensions =
     .label = വികസിതാക്കൾക്കുള്ള വിപുലീകരണങ്ങൾ
