@@ -479,4 +479,3 @@ nova-early-access-share-feedback-link = Condividi feedback
     .accesskey = C
 nova-early-access-infobar-primary-button = OK
     .accesskey = O
-
