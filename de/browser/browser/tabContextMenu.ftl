@@ -173,6 +173,10 @@ tab-context-move-tabs2 =
            *[other] { $tabCount } Tabs verschieben
         }
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Geteilte Ansicht verschieben
+    .accesskey = A
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -181,6 +185,9 @@ tab-context-send-to-device =
             [one] Tab an Gerät senden
            *[other] { $tabCount } Tabs an Gerät senden
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = An Gerät senden
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -209,3 +216,7 @@ tab-context-unload-n-tabs =
            *[other] { $tabCount } Tabs entladen
         }
     .accesskey = e
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Entladen
+    .accesskey = E
