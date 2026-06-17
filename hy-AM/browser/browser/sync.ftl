@@ -27,6 +27,7 @@ fxa-menu-send-to-device =
             [one] Ուղարկել { $tabCount } ներդիրներ սարքի
            *[other] Ուղարկել { $tabCount } ներդիրներ սարքի
         }
+fxviewtabrow-send-to-mobile-verify-account = Հաստատեք ձեր հաշիվը
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

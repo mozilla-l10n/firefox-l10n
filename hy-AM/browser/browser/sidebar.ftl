@@ -166,16 +166,35 @@ sidebar-menu-history-header =
     .heading = Պատմություն
 sidebar-menu-syncedtabs-header =
     .heading = Ներդիրներ այլ սարքերից
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Բացել ներդիրները
 sidebar-menu-cpm-header =
     .heading = Գաղտնաբառեր
 sidebar-panel-header-close-button =
     .tooltiptext = Փակել
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-other = Այլ Էջանիշեր
+sidebar-bookmarks-folder-mobile = Բջջային էջանիշեր
 
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Հարմարեցնել կողագոտին
 sidebar-history-title = Պատմություն
 sidebar-syncedtabs-title = Ներդիրներ այլ սարքերից
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Ամրացված ներդիրներ
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Պատուհան՝ { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 
