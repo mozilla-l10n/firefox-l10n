@@ -1275,6 +1275,9 @@ containers-remove-button =
     .label = Gjave
 containers-section-header2 =
     .heading = Impostazions contignidôr
+containers-card-header2 =
+    .label = Contignidôrs
+    .description = Separe i cookies par contignidôr, cussì tu puedis doprâ plui accounts tal stes sît e limitâ lis spiis inter-sît.
 
 ## Account and sync
 
