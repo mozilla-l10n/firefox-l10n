@@ -68,7 +68,7 @@ unpin-tab =
     .label = Tab ablösen
     .accesskey = b
 tab-context-unpin-tab2 =
-    .label = ablösen
+    .label = Tab ablösen
     .accesskey = b
 pin-selected-tabs =
     .label = Tabs anheften
@@ -82,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Tab als Lesezeichen hinzufügen…
     .accesskey = L
+tab-context-bookmark-tab2 =
+    .label = Als Lesezeichen hinzufügen
+    .accesskey = L
 tab-context-open-in-new-container-tab =
     .label = In neuem Tab in Umgebung öffnen
     .accesskey = U
+tab-context-open-in-new-container-tab2 =
+    .label = In neuem Tab in Umgebung öffnen
+    .accesskey = m
 move-to-start =
     .label = An Anfang verschieben
     .accesskey = A
@@ -101,7 +107,13 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Mehrere Tabs schließen
     .accesskey = M
+tab-context-close-multiple-tabs2 =
+    .label = Mehrere Tabs schließen
+    .accesskey = M
 tab-context-close-duplicate-tabs =
+    .label = Doppelte Tabs schließen
+    .accesskey = D
+tab-context-close-duplicate-tabs2 =
     .label = Doppelte Tabs schließen
     .accesskey = D
 tab-context-share-url =
@@ -136,12 +148,29 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } Tabs schließen
         }
     .accesskey = c
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Schließen
+            [one] { $tabCount } Tab schließen
+           *[other] { $tabCount } Tabs schließen
+        }
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
             [1] Tab verschieben
             [one] Tab verschieben
            *[other] Tabs verschieben
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Tab verschieben
+            [one] { $tabCount } Tab verschieben
+           *[other] { $tabCount } Tabs verschieben
         }
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
