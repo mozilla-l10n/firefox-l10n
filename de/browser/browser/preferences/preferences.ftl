@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = { -brand-short-name } automatisch öffnen, wenn der Rechner gestartet wird
     .accesskey = ö
 windows-launch-on-login-disabled = Diese Einstellung wurde in Windows deaktiviert. Zum Ändern besuchen Sie <a data-l10n-name="startup-link">Autostart</a> in den Systemeinstellungen.
+windows-launch-on-login-open-new-tab =
+    .label = Außerdem einen neuen Tab öffnen
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Um diese Einstellung zu aktivieren, klicken Sie auf "{ profile-manager-use-selected.label }" im Fenster "Benutzerprofil wählen".
 startup-restore-warn-on-quit =
     .label = Beim Beenden des Browsers warnen

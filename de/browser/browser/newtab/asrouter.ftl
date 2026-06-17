@@ -308,6 +308,7 @@ launch-on-login-spotlight-pin-taskbar-checkbox = An die Taskleiste anheften
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Vorherige Fenster und Tabs öffnen
+launch-on-login-spotlight-primary-button = { -brand-short-name } speichern und schließen
 
 ## Tail Fox Set Default Spotlight
 
