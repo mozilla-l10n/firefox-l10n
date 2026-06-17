@@ -492,15 +492,35 @@ settings-translations-subpage-never-translate-header =
     .label = Никога да не се превеждат тези езици
 settings-translations-subpage-never-translate-sites-header =
     .label = Тези сайтове никога да не бъдат превеждани
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = За да добавите сайт, отворете панела за преводи <img data-l10n-name="translations-icon"/>, изберете <img data-l10n-name="settings-icon"/> настройки за превод, след което изберете „Тези сайтове никога да не бъдат превеждани“
 settings-translations-subpage-language-select-option =
     .label = Добавяне на език
+settings-translations-subpage-language-add-button =
+    .aria-label = Добавяне на език
+    .title = Добавяне на език
+settings-translations-subpage-download-languages-header =
+    .label = Изтегляне на езици
+settings-translations-subpage-download-languages-select-option =
+    .label = Изберете език
+settings-translations-subpage-download-retry-button =
+    .label = Опитайте отново
+settings-translations-subpage-no-sites-added =
+    .label = Няма добавени сайтове
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Използване настройките на вашата операционна система за „{ $localeName }“, за форматирането на датата, часовете, числата и други величини.
+settings-spellcheck-header =
+    .label = Проверка на правописа
 check-user-spelling =
     .label = Проверяване на правописа при въвеждане
     .accesskey = в
+spellcheck-download-dictionaries =
+    .label = Изтегляне на речници
+spellcheck-promo =
+    .heading = Как да използвате проверка на правописа
+    .message = Кликнете с десен бутон върху текстово поле, за да пуснете/спрете правописната проверка или да смените езика. Функцията не се поддържа от всички полета.
 
 ## General Section - Files and Applications
 
@@ -669,6 +689,19 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Относно { -brand-short-name }
+
+## Firefox support
+
+support-application-heading =
+    .label = Поддръжка на { -brand-short-name }
+    .description = Отстранявайте проблеми или споделяйте идеи с общността.
+support-get-help =
+    .label = Получете помощ
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -698,6 +731,8 @@ performance-use-recommended-settings-checkbox-2 =
 ## Accessibility page
 
 browsing-title = Разглеждане
+browsing-group-label =
+    .aria-label = Разглеждане
 browsing-use-autoscroll =
     .label = Автоматично плъзгане
     .accesskey = А
@@ -776,6 +811,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Начална страница и нови прозорци
+home-homepage-new-windows =
+    .label = Нови прозорци
 home-newtabs-mode-label = Нов раздел
 home-homepage-new-tabs =
     .label = Нов раздел
@@ -882,12 +919,21 @@ home-prefs-weather-header =
     .label = Времето
 home-prefs-weather-description = Днешната прогноза
 home-prefs-weather-learn-more-link = Научете повече
+home-prefs-widgets-header =
+    .label = Приспособления
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Списъци
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Часовник
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Подкрепете { -brand-product-name }
+home-prefs-manage-topics-link = Управление на теми
 home-prefs-manage-topics-link2 =
     .label = Управление на теми
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
@@ -975,6 +1021,7 @@ search-keyword-warning-title = Дублиране на ключовата дум
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
 search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
+remove-addon-engine-alert = За да премахнете тази търсачка, премахнете свързаната добавка.
 search-engine-group =
     .label = Стандартна търсеща машина
 search-default-engine =
