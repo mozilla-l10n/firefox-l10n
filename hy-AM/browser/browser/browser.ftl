@@ -1593,6 +1593,7 @@ trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
 trustpanel-description-enabled2 = Դուք պաշտպանված եք: Եթե ինչ-որ բան նկատենք, ձեզ կտեղեկացնենք։
 trustpanel-header-enabled-insecure = Զգույշ եղեք այս կայքում
+trustpanel-description-enabled-insecure = { -brand-product-name }-ը նկատել է կասկածելի բան։
 trustpanel-header-disabled = Դուք անջատեցիք պաշտպանությունը
 trustpanel-clear-cookies-button = Մաքրել թխուկները և կայքի տվյալները
 trustpanel-privacy-link = Գաղտնիության կարգավորումներ
@@ -1624,6 +1625,7 @@ trustpanel-blocked-header = { -brand-product-name }-ն արգելափակել է
 trustpanel-tracking-header = { -brand-product-name }-ը թույլատրել է հետևյալները, որպեսզի կայքերը չխափանվեն.
 trustpanel-tracking-description = Առանց հետագծիչների, որոշ կոճակներ, ձևեր և մուտքի դաշտեր կարող են չաշխատել։
 trustpanel-insecure-section-header = Ձեր միացումն անվտանգ չէ
+trustpanel-insecure-description = Այս կայքին ուղարկվող տվյալները գաղտնագրված չեն։ Դրանք կարող են դիտվել, գողացվել կամ փոփոխվել։
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } միջկայքային հետևող թխուկ

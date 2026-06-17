@@ -51,3 +51,7 @@ about-reader-toolbar-savetopocket = Պահել { -pocket-brand-name }-ում
 
 about-reader-fxtheme-tab = Սկզբնադիր
 about-reader-customtheme-tab = Հարմարեցված
+
+## Reader View text and layout menu
+
+about-reader-advanced-layout-header = Ընդլայնված
