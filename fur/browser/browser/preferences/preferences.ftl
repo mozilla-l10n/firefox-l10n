@@ -1278,6 +1278,17 @@ containers-section-header2 =
 containers-card-header2 =
     .label = Contignidôrs
     .description = Separe i cookies par contignidôr, cussì tu puedis doprâ plui accounts tal stes sît e limitâ lis spiis inter-sît.
+containers-add-button2 =
+    .label = Zonte gnûf contignidôr
+    .accesskey = Z
+containers-new-tab-check2 =
+    .label = Sielç un contignidôr par ogni gnove schede
+    .accesskey = S
+    .description = Al vignarà vierzût il menù dai contignidôrs ogni volte che tu frachis il boton par vierzi une gnove schede.
+containers-settings-button2 =
+    .title = Impostazions
+containers-remove-button2 =
+    .title = Gjave
 
 ## Account and sync
 
@@ -1285,6 +1296,9 @@ sync-group-label =
     .label = Sincronizazion
 account-group-label2 =
     .label = Account
+account-disabled-group =
+    .label = Account
+    .description = Lis impostazions pal account no son disponibilis.
 account-placeholder2 =
     .label = No tu âs fat l’acès
     .description = Jentre cu lis credenziâls e ten i tiei dâts risiervâts, cifrâts e a disposizion dapardut là che tu dopris { -brand-short-name }.
@@ -2485,10 +2499,13 @@ choose-download-folder-title = Sielç une cartele pai files discjamâts:
 
 ## AI controls page
 
+preferences-ai-controls-description = Cun { -brand-short-name } tu âs simpri une sielte, ancje par doprâ o mancul lis gnovis funzionalitâts basadis su la IA. Ca di pôc a rivaran gnûfs controi.
 preferences-ai-controls-block-ai-label = Bloche i mioraments basâts su la IA.
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Se tu blochis cheste funzion in { -brand-short-name }, no tu viodarâs i mioraments basâts su la IA, sedino gnûfs o za esistents, ni tu viodarâs i barcons a comparse relatîfs. <a data-l10n-name="link">Scuvierç altris detais</a> su ce che al è includût e cemût controlâ lis funzionalitâts basadis sul tradizionâl machine learning (aprendiment de machine), come i sugjeriments di ricercje e lis racomandazions.
+preferences-ai-controls-blocked-message =
+    .message = Tant che impostazion predefinide, lis funzionalitâts basadis su la IA, sedino gnovis o za presintis, a saran blocadis. Par ativâ une specifiche funzion, dopre i controi chi sot.
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
