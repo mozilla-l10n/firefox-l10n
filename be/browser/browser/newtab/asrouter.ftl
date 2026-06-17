@@ -299,6 +299,13 @@ launch-on-login-infobar-final-message = <strong>Адкрываць { -brand-shor
 launch-on-login-infobar-final-reject-button = Не, дзякуй
     .accesskey = е
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Адкрываць { -brand-short-name } пры наступным запуску камп'ютара?
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
