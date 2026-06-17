@@ -308,6 +308,7 @@ launch-on-login-spotlight-pin-taskbar-checkbox = Fisse te sbare des aplicazions
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Vierç schedis e barcons che a jerin vierzûts la volte prime
+launch-on-login-spotlight-primary-button = Salve e siere { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -474,3 +475,11 @@ relay-50-masks-announcement-primary-button = Va su { -relay-brand-name }
     .accesskey = V
 relay-50-masks-announcement-secondary-button = Siere
     .accesskey = S
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>Al sta par rivâ un gnûf aspiet par { -brand-product-name }.</strong> Chê che tu viodis e je une anteprime di une version che e je ancjemò in evoluzion e che e vignarà fûr plui indevant chest an.
+nova-early-access-share-feedback-link = Condivît opinion
+    .accesskey = o
+nova-early-access-infobar-primary-button = Capît
+    .accesskey = C
