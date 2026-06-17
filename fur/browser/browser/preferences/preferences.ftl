@@ -2504,6 +2504,51 @@ preferences-doh-advanced-button =
 preferences-doh-advanced-section =
     .label = Impostazions avanzadis
     .description = Il mecanisim di risoluzion dai nons di domini midiant HTTPS (DoH) al cifre lis ricercjis sui sîts in mût che al sedi plui dificil pal tô furnidôr di internet, o par altris, viodi ce che tu stâs visitant.
+preferences-doh-manage-exceptions2 =
+    .label = Gjestìs ecezions
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Predefinît
+    .description = Dopre il DNS sigûr dulà che al è disponibil
+preferences-doh-radio-custom =
+    .label = Personalizât
+    .description = Dopre simpri un DNS sigûr vint il control sul to furnidôr di servizis internet e su la modalitât di repeç
+preferences-doh-radio-off =
+    .label = Disativât
+    .description = Dopre il to risolvidôr di nons (DNS) predefinît
+preferences-doh-fallback-label =
+    .label = Visimi simpri se il DNS sigûr nol è disponibil
+preferences-doh-status-item-off =
+    .message = DNS sore HTTPS al è disativât
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS sore HTTPS nol funzione parcè che al è vignût fûr un erôr ({ $reason }) intant che si cirive di doprâ il furnidôr { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS sore HTTPS nol funzione parcè che o vin ricevût un URL che nol jere valit ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sore HTTPS al dopre il furnidôr { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS sore HTTPS nol funzione parcè che al è vignût fûr un erôr ({ $reason }) intant che si cirive di doprâ il furnidôr locâl { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS sore HTTPS al dopre il furnidôr locâl { $name }
+preferences-doh-select-resolver-label =
+    .label = Sielç il furnidôr:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Dopre chest furnidôr pe risoluzion DNS sore HTTPS
 
 ## The following strings are used in the Download section of settings
 
