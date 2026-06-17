@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = A { -brand-short-name } automatikus megnyitása a számítógép indításakor
     .accesskey = m
 windows-launch-on-login-disabled = Ez a beállítás le lett tiltva a Windowsban. A módosításhoz nyissa meg az <a data-l10n-name="startup-link">Indítási alkalmazások</a> oldalt a Rendszerbeállításokban.
+windows-launch-on-login-open-new-tab =
+    .label = Valamint új lap megnyitása
+    .accesskey = j
 windows-launch-on-login-profile-disabled = Engedélyezze ezt a beállítást a „{ profile-manager-use-selected.label }” kiválasztásával a „Felhasználói profil kiválasztása” ablakban.
 startup-restore-warn-on-quit =
     .label = Figyelmeztetés, amikor kilép a böngészőből

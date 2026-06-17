@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } testreszabása
 tabbrowser-context-mute-tab =
     .label = Lap némítása
     .accesskey = n
+tabbrowser-context-mute-tab2 =
+    .label = Némítás
+    .accesskey = N
 tabbrowser-context-unmute-tab =
     .label = Lap visszahangosítása
     .accesskey = v
+tabbrowser-context-unmute-tab2 =
+    .label = Némítás feloldása
+    .accesskey = f
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Lapok némítása

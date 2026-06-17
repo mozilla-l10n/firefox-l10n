@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>Mindig megnyissa a { -brand-shor
 launch-on-login-infobar-final-reject-button = Köszönöm, nem
     .accesskey = n
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = A { -brand-short-name } automatikus megnyitása a számítógép indításakor?
+launch-on-login-spotlight-startup-checkbox = A { -brand-short-name } futtatása rendszerindításkor
+launch-on-login-spotlight-pin-taskbar-checkbox = Rögzítés a tálcára
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Korábbi ablakok és lapok megnyitása
+launch-on-login-spotlight-primary-button = A { -brand-short-name } mentése és bezárása
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
