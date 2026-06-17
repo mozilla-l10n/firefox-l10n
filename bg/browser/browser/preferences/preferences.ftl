@@ -465,6 +465,21 @@ website-preferred-language =
     .label = Предпочитани езици
 website-add-language =
     .label = Добавяне на език
+website-add-language-button =
+    .aria-label = Добавяне на избрания език
+    .title = Добавяне на избрания език
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Премахване на { $locale }
+    .title = Премахване на { $locale }
 choose-button =
     .label = Избиране…
     .accesskey = И
@@ -474,6 +489,9 @@ manage-browser-languages-button =
     .accesskey = з
 confirm-browser-language-change-description = Рестартирайте { -brand-short-name }, за да бъдат приложени промените
 confirm-browser-language-change-button = Прилагане и рестартиране
+browser-language-heading =
+    .label = Език на браузъра
+    .description = Изберете езика, който ще се използва за показване на менюта, съобщения и известия от { -brand-short-name }.
 browser-language-install-error =
     .message = { -brand-short-name } в момента не може да обнови езиците. Проверете връзката с интернет или опитайте отново.
 translate-web-pages =
@@ -492,6 +510,8 @@ settings-translations-header =
     .description = Превеждане на страници или избран текст. За да защитим поверителността ви, преводите остават на вашето устройство.
 settings-translations-offer-to-translate-label =
     .label = Предлагане на превод на цялата страница
+settings-translations-subpage-header =
+    .heading = Още настройки за превод
 settings-translations-subpage-speed-up-translation-header =
     .label = Ускорен превод
     .description = Сваляне на езикови пакети за по-бърз превод и работа офлайн.

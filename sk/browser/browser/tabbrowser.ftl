@@ -200,9 +200,15 @@ tabbrowser-customizemode-tab-title = Prispôsobenie { -brand-short-name(case: "g
 tabbrowser-context-mute-tab =
     .label = Stlmiť zvuk na karte
     .accesskey = u
+tabbrowser-context-mute-tab2 =
+    .label = Stlmiť
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Zapnúť zvuk na karte
     .accesskey = u
+tabbrowser-context-unmute-tab2 =
+    .label = Zrušiť stlmenie
+    .accesskey = s
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Stlmiť zvuk na kartách
