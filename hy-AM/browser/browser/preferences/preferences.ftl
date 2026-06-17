@@ -1133,6 +1133,7 @@ search-edit-engine =
     .label = Խմբագրել
     .accesskey = E
 search-find-more-link = Գտնել լրացուցիչ որոնիչներ
+search-filtering-for-add-engine = Հավելել որոնիչ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Կրկնել հիմաբառը
@@ -1151,6 +1152,9 @@ search-engine-group =
     .label = Սկզբնադիր որոնիչ
 search-default-engine =
     .aria-label = Սկզբնադիր որոնիչ
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Որոնում
 
 ## Containers Section
 
@@ -1169,6 +1173,15 @@ containers-settings-button =
     .label = Կարգավորումներ
 containers-remove-button =
     .label = Հեռացնել
+containers-section-header2 =
+    .heading = Պարունակի կարգավորումներ
+containers-add-button2 =
+    .label = Ավելացնել նոր պարունակ
+    .accesskey = A
+containers-settings-button2 =
+    .title = Կարգավորումներ
+containers-remove-button2 =
+    .title = Հեռացնել
 
 ## Account and sync
 
@@ -1176,6 +1189,8 @@ sync-group-label =
     .label = Համաժամեցում
 account-group-label2 =
     .label = Հաշիվ
+account-sync-section =
+    .heading = Հաշիվ և համաժամեցում
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1302,6 +1317,8 @@ sync-currently-syncing-settings = Կարգավորումներ
 sync-manage-options =
     .label = Կառավարել համաժամացումը…
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Կապախզել
 sync-change-options =
     .label = Փոխել…
     .accesskey = C
@@ -1629,6 +1646,8 @@ history-remember-label = { -brand-short-name }-ը
     .accesskey = ը
 history-remember-option-all =
     .label = կհիշի պատմությունը
+history-remember-option-custom2 =
+    .label = Հարմարեցնել պատմությունը
 history-remember-option-never =
     .label = երբեք չի հիշի պատմությունը
 history-remember-option-custom =
@@ -1659,6 +1678,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Մաքրել պատմությունը…
     .accesskey = s
+history-header2 =
+    .heading = Պատմություն
 history-group =
     .label = Պատմություն
 
@@ -1714,6 +1735,9 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+sitedata-settings3 =
+    .label = Մաքրել տվյալները որոշակի կայքերի համար
+    .accesskey = s
 sitedata-cookies-exceptions3 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
@@ -1781,6 +1805,9 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
     .accesskey = վ
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Առաջարկներ { -brand-short-name }-ից
 addressbar-locbar-suggest-nonsponsored-desc = Ստացեք առաջարկներ համացանցից՝ կապված ձեր որոնման հետ։
 addressbar-locbar-suggest-sponsored-option =
     .label = Առաջարկություններ հովանավորներից
@@ -1792,6 +1819,8 @@ addressbar-locbar-suggest-sponsored-option =
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Ստանալ առաջարկներ Mozilla-ից՝ մուտքագրելիս
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Վերականգնել առաջարկները
 addressbar-quickactions-learn-more = Իմանալ ավելին
 addressbar-dismissed-suggestions-label = Մերժված առաջարկներ
 addressbar-restore-dismissed-suggestions-button =
@@ -2000,6 +2029,8 @@ permissions-notification2 =
 permissions-header3 =
     .label = Թույլտվություններ
     .description = Կառավարեք, թե որ կայքերը կարող են մատչվել, կառավարվել կամ գործարկվել:
+pane-permissions-data-title2 = Թույլտվություններ և տվյալներ
+    .title = Թույլտվություններ և տվյալներ
 
 ## Privacy Section - Data Collection
 
@@ -2139,6 +2170,9 @@ certs-description3 =
 certs-view2 =
     .label = Կառավարել վկայագրերը
     .accesskey = C
+certs-devices2 =
+    .label = Կառավարեք անվտանգության սարքերը
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 

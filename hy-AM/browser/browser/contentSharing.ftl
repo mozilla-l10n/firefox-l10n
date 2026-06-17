@@ -16,7 +16,14 @@ content-sharing-tabs-title =
         [one] { $count } ներդիր
        *[other] { $count } ներդիրներ
     }
+content-sharing-modal-view-page-2 =
+    .label = Նախադիտման էջ
 content-sharing-modal-copy-link =
     .label = Պատճենել հղումը
+content-sharing-modal-generating-page =
+    .label = Էջի ստեղծում…
 content-sharing-modal-link-copied =
     .label = Հղումը պատճենվեց
+content-sharing-modal-sign-in-2 =
+    .label = Մուտք գործեք՝ համօգտագործելու համար
+content-sharing-modal-title-signed-in = Ձեր հղումները պատրաստ են կիսվելու համար

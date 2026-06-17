@@ -470,6 +470,8 @@ quickactions-cmd-update = արդիացնել
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Դիտել էջի աղբյուրը
 quickactions-cmd-viewsource2 = դիտել աղբյուրը, աղբյուր, էջի աղբյուրը
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Բացել { -firefoxlabs-brand-name }-ը
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -660,6 +662,7 @@ sharing-warning-disable-for-session =
 
 ## WebSerial "select a port" popup
 
+webserial-select-port-label = Ընտրեք սերիական միացք՝
 webserial-no-ports-available = Սերիական միացքներ չկան
 
 ## URL Bar
@@ -859,6 +862,21 @@ urlbar-result-weather-provider-sponsored = { $provider } ∙ Հովանավոր�
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Հարցնել
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Դուք վերջին անգամ այցելել եք { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Էջանշված է { $date }
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -973,6 +991,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, ընտրեք որոնիչ
 urlbar-searchmode-button-no-engine2 =
     .title = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Բանալի բառերի որոնումը անջատված է
 urlbar-searchmode-dropmarker2 =
     .title = Ավելացնել որոնիչ
 urlbar-searchmode-bookmarks2 = Էջանիշեր
@@ -1099,6 +1120,8 @@ fullscreen-warning-no-domain = Փաստաթուղթը այժմ լիաէկրան 
 fullscreen-exit-button = Դուրս գալ Լիաէկրանից (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Դուրս գալ Լիաէկրանից (esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Ելք լիաէկրանից (սեղմեք և պահեք Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1264,6 +1287,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1640,6 +1666,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name }-ը արգելափակել է { $count } մատնահետք հավաքող
        *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
     }
+trustpanel-fingerprinter-list-header = Այս կայքերը փորձում են ձեր մատնահետքը վերցնել՝
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Բաց թողնել
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Սկսեք անվճար սկանավորումը
 trustpanel-blocker-section-header2 =

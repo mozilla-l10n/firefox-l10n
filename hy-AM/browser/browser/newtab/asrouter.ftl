@@ -268,6 +268,19 @@ launch-on-login-infobar-final-message = <strong>Բացե՞լ { -brand-short-name
 launch-on-login-infobar-final-reject-button = Ոչ, շնորհակալություն
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-startup-checkbox = Գործարկել { -brand-short-name }-ը մեկնարկի ժամանակ
+launch-on-login-spotlight-pin-taskbar-checkbox = Ամրացնել Խնդրագոտուն
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Բացել նախորդ պատուհանները և ներդիրները
+launch-on-login-spotlight-primary-button = Պահպանել և փակել { -brand-short-name }-ը
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = Բացել իմ հղումները { -brand-short-name }-ով
