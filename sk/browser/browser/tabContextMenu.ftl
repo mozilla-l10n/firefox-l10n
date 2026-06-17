@@ -88,6 +88,9 @@ tab-context-bookmark-tab2 =
 tab-context-open-in-new-container-tab =
     .label = Otvoriť na novej kontajnerovej karte
     .accesskey = k
+tab-context-open-in-new-container-tab2 =
+    .label = Otvoriť na novej kontajnerovej karte
+    .accesskey = k
 move-to-start =
     .label = Presunúť na začiatok
     .accesskey = z
@@ -104,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Zavrieť viaceré karty
     .accesskey = c
+tab-context-close-multiple-tabs2 =
+    .label = Zavrieť viacero
+    .accesskey = v
 tab-context-close-duplicate-tabs =
     .label = Zavrieť duplicitné karty
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Zavrieť duplikáty tejto karty
+    .accesskey = d
 tab-context-share-url =
     .label = Zdieľať
     .accesskey = e
@@ -142,6 +151,16 @@ tab-context-close-n-tabs =
            *[other] Zavrieť { $tabCount } kariet
         }
     .accesskey = Z
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Zavrieť
+            [one] Zavrieť
+            [few] Zavrieť { $tabCount } karty
+            [many] Zavrieť { $tabCount } kariet
+           *[other] Zavrieť { $tabCount } kariet
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -160,6 +179,9 @@ tab-context-send-to-device =
            *[other] Odoslať { $tabCount } kariet do zariadenia
         }
     .accesskey = d
+tab-context-send-to-device2 =
+    .label = Odoslať do vašich zariadení
+    .accesskey = c
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -192,4 +214,8 @@ tab-context-unload-n-tabs =
             [many] Uvoľniť { $tabCount } kariet
            *[other] Uvoľniť { $tabCount } kariet
         }
+    .accesskey = U
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Uvoľniť
     .accesskey = U
