@@ -694,6 +694,13 @@ update-in-progress-cancel-button = &Продължаване
 about-firefox-header =
     .heading = Относно { -brand-short-name }
 
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Известия
+update-application-updates-managed-by-os =
+    .message = Обновяванията се управляват от вашата операционна система
+
 ## Firefox support
 
 support-application-heading =
@@ -757,6 +764,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Търсене на текст при започване на въвеждане
     .accesskey = Т
+settings-media-group =
+    .label = Медия
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Използване на картина в картината
+    .accesskey = в
 browsing-picture-in-picture-toggle-enabled =
     .label = Включване на видео картина в картината
     .accesskey = к
@@ -764,6 +776,8 @@ browsing-picture-in-picture-learn-more = Научете повече
 browsing-media-control =
     .label = Управление на медия чрез клавиатура, слушалки или виртуално устройство
     .accesskey = У
+recommendations-group =
+    .label = Препоръки
 browsing-media-control-learn-more = Научете повече
 browsing-cfr-recommendations =
     .label = Препоръчване на разширения
@@ -779,6 +793,12 @@ browsing-group =
 
 preferences-accessibility-header =
     .heading = Достъпност
+preferences-fonts-family =
+    .label = Семейство шрифтове
+    .accesskey = С
+preferences-fonts-size =
+    .label = Размер на шрифта
+    .accesskey = Р
 preferences-fonts-advanced-settings =
     .label = Разширени настройки
     .accesskey = з
@@ -799,9 +819,13 @@ network-proxy-group2 =
 
 home-new-windows-tabs-header = Нови прозорци и раздели
 home-new-windows-tabs-description2 = Изберете какво да виждате при отваряне на началната страница, нови прозорци или раздели.
+home-section =
+    .heading = Начало и стартиране
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Браузър по подразбиране
 is-default-browser-2 =
     .message = { -brand-short-name } е вашият браузър по подразбиране. Добър избор.
 set-as-my-default-browser-2 =
@@ -869,6 +893,8 @@ home-custom-homepage-current-pages-button =
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
 home-prefs-content-description2 = Изберете съдържанието, което искате на { -firefox-home-brand-name }.
+home-prefs-firefox-logo-header =
+    .label = Лого на { -brand-short-name }
 home-prefs-search-header =
     .label = Търсене в Мрежата
 home-prefs-shortcuts-header =
@@ -927,6 +953,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Часовник
@@ -976,6 +1005,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = р
 search-suggestions-cant-show-2 =
     .message = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
+addressbar-header-1 =
+    .label = Адресна лента
+    .description = Изберете кои предложения да се показват в адресната лента
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Показване на предложения от { -brand-short-name } и нашите партньори в адресната лента.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1286,6 +1322,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Пароли
     .searchkeywords = данни за вход
+forms-passwords-header =
+    .label = Пароли
+    .aria-label = Пароли
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Питане за запазване на паролите
