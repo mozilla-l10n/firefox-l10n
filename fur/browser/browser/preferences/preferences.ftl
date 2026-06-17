@@ -2490,6 +2490,20 @@ preferences-doh-exceptions-description = { -brand-short-name } nol doprarà il D
 preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protezion predefinide
+    .description = Dopre il DNS sigûr dulà che al è disponibil.
+preferences-doh-overview-custom =
+    .label = Personalizade
+    .description = Dopre simpri il DNS sigûr vint il control sul tô provider e il compuartament di repeç.
+preferences-doh-overview-off =
+    .label = Disativade
+    .description = Dopre il to risolutôr DNS predefinît.
+preferences-doh-advanced-button =
+    .label = Impostazions avanzadis
+preferences-doh-advanced-section =
+    .label = Impostazions avanzadis
+    .description = Il mecanisim di risoluzion dai nons di domini midiant HTTPS (DoH) al cifre lis ricercjis sui sîts in mût che al sedi plui dificil pal tô furnidôr di internet, o par altris, viodi ce che tu stâs visitant.
 
 ## The following strings are used in the Download section of settings
 
@@ -2541,6 +2555,18 @@ preferences-ai-controls-state-description-available = <strong>Disponibile:</stro
 preferences-ai-controls-state-description-enabled = <strong>Ativade:</strong> tu âs ativade cheste funzion.
 preferences-ai-controls-state-description-blocked = <strong>Blocade:</strong> ni tu viodarâs la funzion ni tu podarâs doprâle. Se e dopre la IA sul dispositîf, ducj i modei za discjariâts a vignaran gjavâts.
 preferences-ai-controls-block-confirmation-heading = Blocâ i mioraments basâts su la IA?
+preferences-ai-controls-block-confirmation-description = In { -brand-short-name } no tu viodarâs mioraments basâts su la IA, sedino gnûfs o za presints, ni i relatîfs messaçs a comparse. Dopo, tu podarâs sblocâ dutis lis funzions che tu desideris continuâ a doprâ.
+preferences-ai-controls-block-confirmation-features-start = Ce che al vignarà blocât:
+preferences-ai-controls-block-confirmation-translations = Traduzions
+preferences-ai-controls-block-confirmation-pdfjs = Test alternatîf pes imagjins tal visualizadôr PDF di { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugjeriments pai grups di schedis
+preferences-ai-controls-block-confirmation-key-points = Ponts di rilêf tes anteprimis dai colegaments
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Furnidôrs di chatbot inte sbare laterâl
+preferences-ai-controls-block-confirmation-features-after = Il bloc al cjape dentri ancje lis estensions che doprin la IA di { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Anule
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloche
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
