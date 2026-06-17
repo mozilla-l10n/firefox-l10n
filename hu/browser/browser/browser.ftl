@@ -919,7 +919,7 @@ urlbar-result-explanation-last-visited-absolute = Utolsó látogatás: { $date }
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
 #   $date (string) - A localized absolute date string
-urlbar-result-explanation-bookmarked = Könyvjelzőzve: { $url }
+urlbar-result-explanation-bookmarked = Könyvjelzőzve: { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

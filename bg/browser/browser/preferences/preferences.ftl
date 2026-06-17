@@ -1233,7 +1233,7 @@ sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
     .label = { $name }
-    .description = { $name }
+    .description = { $email }
 
 ##
 
