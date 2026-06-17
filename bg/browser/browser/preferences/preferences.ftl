@@ -514,13 +514,23 @@ settings-translations-subpage-download-languages-header =
     .label = Изтегляне на езици
 settings-translations-subpage-download-languages-select-option =
     .label = Изберете език
+settings-translations-subpage-download-languages-button =
+    .aria-label = Изтегляне на език
+    .title = Изтегляне на език
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
     .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Няма изтеглени езици
+settings-translations-subpage-no-languages-added =
+    .label = Няма добавени езици
+settings-translations-subpage-download-progress = Изтеглянето се извършва…
 settings-translations-subpage-download-retry-button =
     .label = Опитайте отново
+settings-translations-subpage-download-delete-button =
+    .label = Изтриване
 settings-translations-subpage-download-cancel-button =
     .label = Отмяна
 settings-translations-subpage-no-sites-added =

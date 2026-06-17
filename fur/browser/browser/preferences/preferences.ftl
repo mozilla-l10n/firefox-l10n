@@ -2516,6 +2516,31 @@ preferences-ai-controls-translations-more-link = Altris impostazions pes traduzi
 preferences-ai-controls-pdfjs-control =
     .label = Test alternatîf pes imagjins tal visualizadôr PDF di { -brand-short-name }
     .description = Cuant che tu zontis imagjins ai PDFs, a vegnin zontadis descrizions par rindilis plui acessibilis.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugjeriments pai grups di schedis
+    .description = Fati dâ sugjeriments su cemût clamâ i grups e organizâ lis tôs schedis.
+preferences-ai-controls-key-points-control =
+    .label = Ponts di rilêf tes anteprimis dai colegaments
+    .description = Viôt une curte sintesi prime di vierzi un colegament.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Furnidôrs di chatbot IA te sbare laterâl
+    .description = Ten di voli un chatbot cuant che tu navighis. Sielç tra Anthropic Claude, ChatGPT, Copilot, Google Gemini, e Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot te sbare laterâl
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponibile
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ativade
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blocade
+preferences-ai-controls-state-description-before = Significât des opzions:
+preferences-ai-controls-state-description-available = <strong>Disponibile:</strong>  tu viodarâs la funzion e tu podarâs doprâle.
+preferences-ai-controls-state-description-enabled = <strong>Ativade:</strong> tu âs ativade cheste funzion.
+preferences-ai-controls-state-description-blocked = <strong>Blocade:</strong> ni tu viodarâs la funzion ni tu podarâs doprâle. Se e dopre la IA sul dispositîf, ducj i modei za discjariâts a vignaran gjavâts.
+preferences-ai-controls-block-confirmation-heading = Blocâ i mioraments basâts su la IA?
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
