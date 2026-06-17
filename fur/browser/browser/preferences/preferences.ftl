@@ -2506,6 +2506,16 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = Se tu blochis cheste funzion in { -brand-short-name }, no tu viodarâs i mioraments basâts su la IA, sedino gnûfs o za esistents, ni tu viodarâs i barcons a comparse relatîfs. <a data-l10n-name="link">Scuvierç altris detais</a> su ce che al è includût e cemût controlâ lis funzionalitâts basadis sul tradizionâl machine learning (aprendiment de machine), come i sugjeriments di ricercje e lis racomandazions.
 preferences-ai-controls-blocked-message =
     .message = Tant che impostazion predefinide, lis funzionalitâts basadis su la IA, sedino gnovis o za presintis, a saran blocadis. Par ativâ une specifiche funzion, dopre i controi chi sot.
+preferences-ai-controls-on-device-group =
+    .label = IA sul dispositîf
+    .description = Chestis funzions a doprin piçui modei di IA che a vegnin discjariâts sul tô dispositîf cuant che tu lis dopris. Fasint cussì la tô riservatece e ven tutelade.
+preferences-ai-controls-translations-control =
+    .label = Traduzions
+    .description = Navighe sul web cence interuzions te tô lenghe preferide.
+preferences-ai-controls-translations-more-link = Altris impostazions pes traduzions
+preferences-ai-controls-pdfjs-control =
+    .label = Test alternatîf pes imagjins tal visualizadôr PDF di { -brand-short-name }
+    .description = Cuant che tu zontis imagjins ai PDFs, a vegnin zontadis descrizions par rindilis plui acessibilis.
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 
