@@ -181,9 +181,15 @@ tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Enmudecer pestaña
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Enmudecer
+    .accesskey = m
 tabbrowser-context-unmute-tab =
     .label = Desenmudecer pestaña
     .accesskey = M
+tabbrowser-context-unmute-tab2 =
+    .label = Desenmudecer
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Enmudecer pestañas

@@ -302,7 +302,7 @@ launch-on-login-infobar-final-reject-button = No graciis
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-title = Vierzi { -brand-short-name } la prossime volte che il computer si invie?
-launch-on-login-spotlight-startup-checkbox = Fâs partî { -brand-short-name } al inviament{ " " }
+launch-on-login-spotlight-startup-checkbox = Fâs partî { -brand-short-name } al inviament
 launch-on-login-spotlight-pin-taskbar-checkbox = Fisse te sbare des aplicazions
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing

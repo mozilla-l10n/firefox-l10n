@@ -5,3 +5,15 @@
 about-pdf-title = Editor de PDF de { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Una herramienta gratuita para leer, fusionar, firmar, comentar y más, con privacidad incorporada
+about-pdf-dropzone =
+    .title = Arrastre un PDF acá para empezar o presione Enter
+about-pdf-dropzone-hint = Arrastre un PDF acá para empezar
+about-pdf-dropzone-privacy-hint = Los archivos permanecen privados en el dispositivo.
+about-pdf-dropzone-invalid-file = Este archivo no está soportado. Elija un PDF para continuar.
+about-pdf-dropzone-error-generic = La carga no se completó. Vuelva a intentarlo más tarde.
+about-pdf-browse-files =
+    .label = Examinar archivos
+about-pdf-set-default =
+    .label = Hacer predeterminado
+about-pdf-dismiss =
+    .label = Descartar
