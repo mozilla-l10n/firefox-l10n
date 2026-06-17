@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Torne vierç l’ultin barcon sierât
 customkeys-sidebar-toggle = Ative/disative sbare laterâl
 customkeys-view-bookmarks-toolbar = Comute la sbare dai segnelibris
 customkeys-view-picture-in-picture = Picture-in-Picture
+customkeys-view-add-split-view = Zonte schermi dividût
+# Separate is a verb
+customkeys-view-separate-split-view = Separe schermi dividût
 customkeys-dev-tools = Struments pai svilupadôrs dal web
 customkeys-dev-inspector = Ispetôr DOM e stîi
 customkeys-dev-webconsole = Console web
