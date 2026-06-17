@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Արգելափակված էջ
 neterror-captive-portal-page-title = Մուտք գործել ցանց
 neterror-dns-not-found-title = Սպասարկիչը չի գտնվել
 neterror-malformed-uri-page-title = Անվավեր URL
+general-body-title = Զգույշ եղեք։ Ինչ-որ բան այն չէ։
 problem-with-this-site-title = Կարծես թե այս կայքի հետ կապված խնդիր կա
 
 ## Error page actions
@@ -23,7 +24,7 @@ neterror-open-portal-login-page-button = Բացել ցանց մուտք գործ
 neterror-override-exception-button = Ընդունել վտանգը և շարունակել
 neterror-pref-reset-button = Վերականգնել սկզբնադիր կարգավորումները
 neterror-return-to-previous-page-button = Հետ գնալ
-neterror-return-to-previous-page-recommended-button = Հետ գնալ (առաջարկվում է)
+neterror-return-to-previous-page-recommended-button = Գնալ ետ (խորհուրդ է տրվում)
 neterror-try-again-button-2 = Կրկին փորձել
     .accesskey = T
 neterror-try-again-button = Կրկին փորձել
