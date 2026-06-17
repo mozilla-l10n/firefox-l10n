@@ -120,6 +120,7 @@ options-sourceeditor-keybinding-default-label = Predefinido
 # The heading
 options-local-mode-label = Modo local
 options-local-mode-only-work-locally = El modo local solo funciona localmente y se desactiva al depurar contextos remotos
+options-local-mode-behavior = El modo local permite cargar archivos locales mediante una URL HTTPS sin dependencias externas. Las URL solo se pueden cargar desde pestañas con las herramientas para desarrolladores abiertas.
 options-local-mode-domain-label = Dominio personalizado:
 options-local-mode-origin-input =
     .placeholder = Origen del mapeo local

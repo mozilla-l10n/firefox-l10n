@@ -883,6 +883,43 @@ urlbar-result-action-ai-chat = Pregunta
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative = Tu última visita fue { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Tu última visita fue hace { $daysAgo } día
+       *[other] Tu última visita fue hace { $daysAgo } días
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Tu última visita fue hace { $weeksAgo } semana
+       *[other] Tu última visita fue hace { $weeksAgo } semanas
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Tu última visita fue hace { $monthsAgo } mese
+       *[other] Tu última visita fue hace { $monthsAgo } meses
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Tu última visita fue el { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Marcado como favorito { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
