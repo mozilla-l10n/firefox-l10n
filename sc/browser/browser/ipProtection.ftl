@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Iscoberi sa VPN, immoe a disponimentu deretu dae su navigadore
+ipprotection-feature-introduction-title-1 = Proa sa VPN integrada de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Imprea sa <a data-l10n-name="learn-more-vpn">VPN nostra</a>, una funtzionalidade noa e integrada pro cuare sa positzione tua e amparare is datos tuos.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Imprea sa <a data-l10n-name="learn-more-vpn">VPN nostra</a>, una funtzionalidade noa e integrada pro cuare sa positzione tua e amparare is datos tuos, fintzas cando ses impreende sa Navigatzione privada.
 ipprotection-feature-introduction-description-private-browsing = Nàviga in una manera galu prus segura cuende sa positzione tua, fintzas cando impreas una ventana privada.
@@ -35,6 +36,7 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gràtzias
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = No, gràtzias
+ipprotection-feature-introduction-button-get-started = Cumintza
 
 ## Site settings callout
 
@@ -110,10 +112,28 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativad
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-autostart-private-checkbox =
     .label = In ventanas privadas
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
