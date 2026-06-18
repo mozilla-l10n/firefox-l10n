@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בדפדפן שלך
+ipprotection-feature-introduction-title-1 = לנסות את ה־VPN המובנה של { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת של פרטיות
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = הסרת VPN מסרגל הכלים
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = הסרת VPN מסרגל הכלים
+ipprotection-feature-introduction-button-get-started = תחילת עבודה
 
 ## Site settings callout
 
