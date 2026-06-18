@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimessasi
+ipprotection-feature-introduction-title-1 = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Poista VPN työkalupalkista
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Poista VPN työkalupalkista
+ipprotection-feature-introduction-button-get-started = Aloitetaan
 
 ## Site settings callout
 
