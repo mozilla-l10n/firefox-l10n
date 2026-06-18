@@ -19,7 +19,6 @@ category-home =
 pane-search-title = অনুসন্ধান
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title2 = গোপনীয়তা ও নিরাপত্তা
 pane-privacy-section =
     .heading = গোপনীয়তা ও নিরাপত্তা
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
@@ -148,12 +147,6 @@ containers-remove-cancel-button = এই কন্টেইনার অপস�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ভাষা ও অবয়ব
-default-font-2 =
-    .label = ডিফল্ট ফন্ট
-    .accesskey = D
-default-font-size-2 =
-    .label = আকার
-    .accesskey = S
 default-font = ডিফল্ট ফন্ট
     .accesskey = D
 default-font-size = আকার
@@ -194,11 +187,6 @@ download-save-files-header =
     .label = ফাইল সংরক্ষণের স্থান
 download-save-where-3 =
     .aria-label = ফাইল সংরক্ষণের স্থান
-downloads-header-2 =
-    .label = ডাউনলোড
-download-save-where-2 =
-    .label = ফাইল সংরক্ষণের স্থান
-    .accesskey = v
 download-header = ডাউনলোড
 download-save-where = ফাইল সংরক্ষণের স্থান
     .accesskey = v
@@ -216,9 +204,6 @@ download-choose-folder =
 download-always-ask-where =
     .label = যেখানে ফাইল সংরক্ষণ করবেন তা সর্বদা জিজ্ঞাসা করবে
     .accesskey = A
-applications-setting =
-    .label = অ্যাপ্লিকেশন
-    .description = { -brand-short-name } কিভাবে আপনার ওয়েব বা অন্য কোন অ্যাপ্লিকেশন থেকে ডাউনলোড করা ফাইল নিয়ন্ত্রণ করবে তা নির্বাচন করুন।
 applications-header = অ্যাপ্লিকেশন
 applications-description = { -brand-short-name } কিভাবে আপনার ওয়েব বা অন্য কোন অ্যাপ্লিকেশন থেকে ডাউনলোড করা ফাইল নিয়ন্ত্রণ করবে তা নির্বাচন করুন।
 applications-filter =
@@ -958,5 +943,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
