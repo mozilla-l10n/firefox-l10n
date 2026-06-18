@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Aktulaizacija njejo móžna – system jo inkompatibelny
 appmenuitem-banner-update-restart =
     .label = Aktualizacija k dispoziciji – něnto znowego startowaś
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Dostańśo nowy { -brand-short-name }. Wobchowajśo wšykne swóje rejtariki.
+appmenu-nova-update-link = Za aktualizaciju znowego startowaś
+appmenu-nova-fxa-sign-in = Pśizjawiś
+appmenu-nova-switch-device-promo =
+    .message = Dostanjośo skóro nowy rěd? Wzejśo { -brand-short-name } ze sobu!
+appmenu-nova-switch-device-link = Kak waše daty migrěrujośo
 appmenuitem-new-tab =
     .label = Nowy rejtarik
 appmenuitem-new-window =

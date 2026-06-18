@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Wužywajśo naš nowy <a data-l1
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dalšnu rowninu priwatnosći pśidaś
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga wašo pśeglědowanje šćitaś. Wubjeŕśo z někotarych stojnišćow, źož cośo priwatnjej pśeglědowaś.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga waše pśeglědowanje šćitaś. Wubjeŕśo z někotarych stojnišćow, źož cośo priwatnjej pśeglědowaś.
+ipprotection-feature-introduction-link-text-privacy-3 = Wubjeŕśo z někotarych stojnišćow, aby schował, źož pśeglědujośo, aby <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> dostał.
+ipprotection-feature-introduction-text-summer-promo-1 = Zmóžniśo jen, aby swójo pśeglědowanje priwatnjejše źaržał. <a data-l10n-name="summer-promo-link">Dostańśo njewobgranicowanu šyrokosć pasma</a> a wěcej stojnišćow, z kótarychž móžośo pśeglědowaś. Něnto až do 31. awgusta.
+ipprotection-feature-introduction-title-summer-promo = Maśo drogowańske plany? Wzejśo priwatnosć ze sobu.
+ipprotection-feature-introduction-description-summer-promo = Pókšacujśo ze zatwarjonym VPN { -brand-product-name }: wěcej stojnišćow, njewobgranicowana šyrokosć pasma. Něnto až do 31. awgusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-description-private-browsing = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo gaby wy był w priwatnem woknje.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje rědki wótwónoźeś
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN ze symboloweje rědki wótwónoźeś
+ipprotection-feature-introduction-button-open-vpn = VPN wócyniś
 ipprotection-feature-introduction-button-get-started = Prědne kšace
 
 ## Site settings callout
@@ -159,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Zmóžniśo VPN, aby swójo s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžniśo VPN</a> za pśidatnu šćitnu rowninu, kuždy raz, gaž { -brand-short-name } wócynjaśo.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } se na to dopomina, za kótare websedła se ma VPN wužywaś. Aktualizěrujśo toś te kuždy cas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jo za toś to sedło znjemóžnjony
+ipprotection-open-button = { -brand-product-name } wócyniś
+ipprotection-come-back-title = Wrośćo se, aby zatwarjony VPN wopytał
+ipprotection-message-body-hide-location = Schowajśo swójo stojnišćo, gaž z { -brand-product-name } pśeglědujośo, za wěcej priwatnosći a kontrole.
 ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN njejo móžny
     .aria-label = Zwisk z VPN njejo móžny
 
@@ -230,6 +239,11 @@ ip-protection-exclusions-desc = Wužywajśo VPN za wšykne websedła mimo za te,
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB z { $maxUsage } GB toś ten mjasec wušej
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> z { $maxUsage } GB wušej
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -238,6 +252,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB z { $maxUsage } GB wušej
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB z { $maxUsage } GB toś ten mjasec wušej
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> z { $maxUsage } GB wušej
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
