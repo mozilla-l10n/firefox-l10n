@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Qua vegn il VPN, ussa directamain en tes navigatur
+ipprotection-feature-introduction-title-1 = Emprova il VPN integrà da { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Utilisescha noss nov <a data-l10n-name="learn-more-vpn">VPN integrà</a> per zuppentar tia posiziun e proteger tias datas.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisescha noss nov <a data-l10n-name="learn-more-vpn">VPN integrà</a> per zuppentar tia posiziun e proteger tias datas, era sche ti ta chattas en ina fanestra privata.
 ipprotection-feature-introduction-description-private-browsing = Navighescha a moda anc pli segira cun zuppentar tia posiziun, era sche ti ta chattas en ina fanestra privata.
@@ -35,12 +36,16 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Na, grazia
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Na, grazia
+ipprotection-feature-introduction-button-get-started = Cumenzar
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Tscherna nua utilisar il VPN
 ipprotection-site-settings-callout-subtitle = Deactivescha il VPN per ina website specifica e nus tegnain endament quai per la proxima visita.
 ipprotection-site-settings-callout-button = Chapì
+
+## Location selection callout
+
 
 ## Panel
 
@@ -76,6 +81,9 @@ ipprotection-connection-status-excluded-1 = Il VPN è deactivà per questa websi
     .aria-label = Il VPN è deactivà per questa website
 ipprotection-connection-status-connecting-1 = Il VPN connectescha…
     .aria-label = Il VPN connectescha…
+
+## Location controls
+
 
 ## VPN paused state
 
@@ -151,3 +159,18 @@ ip-protection-autostart-checkbox =
     .label = Cura che jau avr { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = En fanestras privatas
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
+
+## IP Protection alerts
+
