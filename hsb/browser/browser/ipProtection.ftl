@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we wašim wobhladowaku
+ipprotection-feature-introduction-title-1 = Wupruwujće zatwarjeny VPN { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće přidać
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje lajsty wotstronić
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN ze symboloweje lajsty wotstronić
+ipprotection-feature-introduction-button-get-started = Prěnje kroki
 
 ## Site settings callout
 
