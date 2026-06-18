@@ -45,6 +45,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Уклоните ВПН из траке са алаткама
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Уклоните ВПН из траке са алаткама
+ipprotection-feature-introduction-button-get-started = Крените
 
 ## Site settings callout
 
