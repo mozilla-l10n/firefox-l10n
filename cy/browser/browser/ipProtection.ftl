@@ -45,6 +45,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Tynnu VPN o'r bar offer
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Tynnu VPN o'r bar offer
+ipprotection-feature-introduction-button-get-started = Cychwyn arni
 
 ## Site settings callout
 
