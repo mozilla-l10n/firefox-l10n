@@ -1164,6 +1164,9 @@ newtab-sports-widget-third-place = Hirugarren postua
 newtab-sports-widget-runner-up = Txapeldunordea
 newtab-sports-widget-champions = Txapeldunak
 newtab-sports-widget-world-cup-champions = 2026ko Munduko Koparen Txapeldunak
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = 2026ko txapeldunak
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }

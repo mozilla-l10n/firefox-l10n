@@ -15,6 +15,11 @@ appmenuitem-banner-update-unsupported =
     .label = تعذّر التحديث — النظام غير متطابق
 appmenuitem-banner-update-restart =
     .label = يتوفّر تحديث — أعِد التشغيل
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = احصل على إنعاش { -brand-short-name }. احتفظ بجميع علاماتك.
+appmenu-nova-update-link = أعد التشغيل للتحديث
+appmenu-nova-fxa-sign-in = لِج
 appmenuitem-new-tab =
     .label = لسان جديد
 appmenuitem-new-window =

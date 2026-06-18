@@ -48,6 +48,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Kendu VPNa tresna-barratik
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Kendu VPNa tresna-barratik
+ipprotection-feature-introduction-button-open-vpn = Ireki VPNa
 ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
 
 ## Site settings callout
@@ -161,6 +162,8 @@ ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena e
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }(e)k gogoratu egingo ditu VPN bidez sartzeko ezarri dituzun webguneak. Eguneratu hauek edonoiz <a data-l10n-name="setting-link">ezarpenetan</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
+ipprotection-open-button = Ireki { -brand-product-name }
+ipprotection-come-back-title = Itzuli integratutako VPNa probatzeko
 ipprotection-connection-status-generic-error-title-1 = Ezin da VPNra konektatu
     .aria-label = Ezin da VPNra konektatu
 
