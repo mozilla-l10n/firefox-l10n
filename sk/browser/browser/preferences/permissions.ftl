@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Na tomto mieste môžete určiť, ktoré stránky môžu alebo nemôžu využívať cookies a údaje stránok. Zadajte presnú adresu stránky, potom kliknite na tlačidlo Zakázať, Povoliť pre reláciu alebo na Povoliť.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Výnimky – Vymazať históriu pri vypnutí
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Môžete určiť, ktoré webové stránky si uchovajú svoje údaje, keď { -brand-short-name } vymaže históriu pri zatvorení. Zadajte presnú adresu stránky, ktorú chcete spravovať, a potom kliknite na tlačidlo Povoliť.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

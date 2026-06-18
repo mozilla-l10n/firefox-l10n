@@ -19,6 +19,7 @@ appmenu-nova-update-link = Start om for å oppdatere
 appmenu-nova-fxa-sign-in = Logg inn
 appmenu-nova-switch-device-promo =
     .message = Får du deg ei ny eining snart? Ta { -brand-short-name } med deg!
+appmenu-nova-switch-device-link = Slik migrerer du dataa dine
 appmenuitem-new-tab =
     .label = Ny fane
 appmenuitem-new-window =

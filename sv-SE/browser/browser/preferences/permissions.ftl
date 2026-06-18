@@ -93,7 +93,7 @@ permissions-exceptions-cookie-desc = Du kan ange vilka webbplatser som alltid el
 permissions-exceptions-shutdown-clearing-window =
     .title = Undantag - Rensa historik vid avstängning
     .style = { permissions-window2.style }
-permissions-exceptions-shutdown-clearing-desc = Du kan ange vilka webbplatser som kommer att spara sin data när { -brand-short-name } rensar historiken vid stängning. Skriv in den exakta adressen till den webbplats du vill hantera och klicka sedan på Tillåt.
+permissions-exceptions-shutdown-clearing-desc = Du kan ange vilka webbplatser som ska behålla sina data när { -brand-short-name } rensar historiken vid stängning. Skriv in den exakta adressen till webbplatsen du vill hantera och klicka sedan på Tillåt.
 
 ## Exceptions - HTTPS-Only Mode
 
