@@ -2626,6 +2626,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Bloki
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Regiloj de AI
 
 ## Privacy and security status card
 
