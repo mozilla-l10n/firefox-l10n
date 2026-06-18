@@ -2636,6 +2636,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Блоктау
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = ЖИ басқару элементтері
 
 ## Privacy and security status card
 
