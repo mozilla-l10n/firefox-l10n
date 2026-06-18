@@ -2652,6 +2652,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = أنظمة التحكم بالذكاء الاصطناعي
 
 ## Privacy and security status card
 
