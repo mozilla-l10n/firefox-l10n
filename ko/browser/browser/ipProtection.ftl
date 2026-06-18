@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
+ipprotection-feature-introduction-title-1 = { -brand-product-name }에 내장된 VPN을 사용해 보세요
 ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 데이터를 보호하세요.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 또 다른 개인 정보 보호 계층 추가
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = 도구 모음에서 VPN 제거
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 도구 모음에서 VPN 제거
+ipprotection-feature-introduction-button-get-started = 시작하기
 
 ## Site settings callout
 
