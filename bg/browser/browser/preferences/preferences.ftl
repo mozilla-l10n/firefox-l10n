@@ -585,6 +585,9 @@ download-save-files-header =
     .label = Запазване на файловете в
 download-save-where-3 =
     .aria-label = Запазване на файловете в
+download-always-ask-where2 =
+    .label = Питане къде да бъдат запазвани файловете преди изтегляне
+    .accesskey = П
 download-header = Изтегляния
 download-save-where = Запазване на файловете в
     .accesskey = З
@@ -775,6 +778,8 @@ support-application-heading =
     .description = Отстранявайте проблеми или споделяйте идеи с общността.
 support-get-help =
     .label = Получете помощ
+support-share-ideas =
+    .label = Споделяне на идеи и обратна връзка
 
 ## General Section - Performance
 
@@ -2066,6 +2071,8 @@ permissions-location2 =
     .label = Местоположение
 permissions-localhost2 =
     .label = Приложения и услуги за устройството
+permissions-local-network2 =
+    .label = Устройства в локалната мрежа
 permissions-xr2 =
     .label = Виртуална реалност
 permissions-camera2 =
@@ -2096,6 +2103,8 @@ collection-description = Стремим се да ви предоставяме 
 collection-privacy-notice = Политика на поверителност
 collection-health-report-telemetry-disabled = Вече не позволявате на { -vendor-short-name } да събира технически данни и данни за взаимодействията. Всички стари данни ще бъдат изтрити в рамките на 30 дни.
 collection-health-report-telemetry-disabled-link = Научете повече
+backup-multi-profile-warning-message =
+    .message = За да сте сигурни, че тази промяна е включена във вашите резервни копия, отворете всеки профил и изберете „Архивиране сега“ в настройките.
 addon-recommendations3 =
     .label = Разрешаване на препоръки за персонализирани разширения
     .description = Получавайте препоръки за разширения, за да подобрите изживяването си при сърфиране.
@@ -2153,6 +2162,8 @@ data-collection =
     .description = Стремим се да ви предоставяме възможности и да събираме само минимума данни, необходими за подобряване на { -brand-product-name }, което ще е от полза за всички.
     .searchkeywords = събиране данни
 data-collection-link = Вижте Политиката за лични данни
+data-collection-preferences-across-profiles =
+    .message = Тези настройки важат за всеки профил в { -brand-product-name } на това устройство.
 data-collection-profiles-link = Преглед на всички профили
 data-collection-health-report-telemetry-disabled =
     .message = Вече не позволявате на { -vendor-short-name } да събира технически данни и данни за взаимодействията. Всички стари данни ще бъдат изтрити в рамките на 30 дни.
@@ -2372,10 +2383,20 @@ preferences-ai-controls-header2 =
 
 ## Privacy and security status card
 
+security-privacy-status-problem-helper-label = Преглед на проблемите
 security-privacy-status-update-needed-label = Налична е нова версия на { -brand-short-name }.
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Подобрена защита от проследяване
+    .description = Сайтовете използват тракери, за да ви следят онлайн и да ви показват неприятни реклами. { -brand-short-name } ви защитава, докато сърфирате, като блокира тракерите автоматично, така че вие ​​контролирате дигиталната си следа.
+preferences-etp-level-standard =
+    .label = Стандартно (по подразбиране)
+    .description = Силни, надеждни защити, които работят гладко с повечето сайтове.
+preferences-etp-level-strict =
+    .label = Строга
+    .description = По-силна защита, която блокира повечето тракери, но може да причини прекъсване на някои сайтове.
 preferences-etp-custom-cookies-enabled =
     .label = Бисквитки
 preferences-etp-custom-cookie-behavior =
