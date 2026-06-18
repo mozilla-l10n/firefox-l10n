@@ -32,8 +32,8 @@ ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan flera platser för att dölja var du surfar.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktivera den för att hålla din surfning mer privat. <a data-l10n-name="summer-promo-link">Få obegränsad bandbredd</a> och fler platser att surfa från. Nu fram till den 31 augusti.
-ipprotection-feature-introduction-title-summer-promo = Har du resplaner? Ta med dig integritet.
-ipprotection-feature-introduction-description-summer-promo = Gå längre med { -brand-product-name }:s inbyggda VPN: fler platser, obegränsad bandbredd. Nu till och med den 31 augusti.
+ipprotection-feature-introduction-title-summer-promo = Har du resplaner? Ta med dig din integritet.
+ipprotection-feature-introduction-description-summer-promo = Nå längre med { -brand-product-name }:s inbyggda VPN: fler platser, obegränsad bandbredd. Nu fram till 31 augusti.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -167,7 +167,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN är avstängt för den här webbplatsen
 ipprotection-open-button = Öppna { -brand-product-name }
 ipprotection-come-back-title = Kom tillbaka för att prova inbyggt VPN
-ipprotection-message-body-hide-location = Dölj din plats när du surfar i { -brand-product-name } för mer sekretess och kontroll.
+ipprotection-message-body-hide-location = Dölj din plats när du surfar i { -brand-product-name } för mer integritet och kontroll.
 ipprotection-connection-status-generic-error-title-1 = Kunde inte ansluta till VPN
     .aria-label = Kunde inte ansluta till VPN
 

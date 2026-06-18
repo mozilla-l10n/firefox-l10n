@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju
 permissions-exceptions-shutdown-clearing-window =
     .title = Wuwześa – Historiju pśi kóńcenju lašowaś
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Móžośo pódaś, kótare websedła swóje daty wobchowaju, gaž { -brand-short-name } historiju pśi zacynjanju lašujo. Zapódajśo eksaktnu adresu sedła, kótarež cośo zastojaś a klikniśo pón na Dowóliś.
 
 ## Exceptions - HTTPS-Only Mode
 

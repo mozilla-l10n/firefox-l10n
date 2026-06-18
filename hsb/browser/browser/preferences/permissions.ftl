@@ -93,7 +93,7 @@ permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa 
 permissions-exceptions-shutdown-clearing-window =
     .title = Wuwzaća – Historiju při kónčenju zhašeć
     .style = { permissions-window2.style }
-permissions-exceptions-shutdown-clearing-desc = Móžeće podać, kotre websydła swoje daty wobchować, hdyž { -brand-short-name } historiju při začinjenju zhaša. Zapisajće eksaktnu adresu sydła, kotrež chceće rjadować a klikńće potom na Dowolić.
+permissions-exceptions-shutdown-clearing-desc = Móžeće podać, kotre websydła swoje daty wobchowuja, hdyž { -brand-short-name } historiju při začinjenju zhaša. Zapisajće eksaktnu adresu sydła, kotrež chceće rjadować a klikńće potom na Dowolić.
 
 ## Exceptions - HTTPS-Only Mode
 

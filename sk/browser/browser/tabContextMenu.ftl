@@ -168,6 +168,17 @@ tab-context-move-tabs =
            *[other] Presunúť karty
         }
     .accesskey = s
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Presunúť kartu do
+            [one] Presunúť kartu do
+            [few] Presunúť { $tabCount } karty do
+            [many] Presunúť { $tabCount } kariet do
+           *[other] Presunúť { $tabCount } kariet do
+        }
+    .accesskey = r
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Presunúť rozdelené zobrazenie do

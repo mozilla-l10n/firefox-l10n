@@ -30,6 +30,10 @@ ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10
 ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkromia
 ipprotection-feature-introduction-link-text-privacy-1 = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z niekoľkých lokalít, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN vstavaná vo <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "loc") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z viacerých lokalít, aby ste si zachovali väčšie súkromie pri prehliadaní.
+ipprotection-feature-introduction-link-text-privacy-3 = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z viacerých lokalít, ak chcete skryť odkiaľ prehliadate.
+ipprotection-feature-introduction-text-summer-promo-1 = Zapnite si ju a zachovajte si súkromie pri prehliadaní. <a data-l10n-name="summer-promo-link">Získajte neobmedzenú šírku pásma</a> a viac lokalít na prehliadanie. Platí do 31. augusta.
+ipprotection-feature-introduction-title-summer-promo = Máte cestovné plány? Vezmite si so sebou súkromie.
+ipprotection-feature-introduction-description-summer-promo = Zájdite ďalej s VPN vstavanou vo { -brand-product-name(case: "loc") }: viac lokalít, neobmedzená šírka pásma. Platí do 31. augusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -47,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Odstrániť VPN z panela nástrojov
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrániť VPN z panela nástrojov
+ipprotection-feature-introduction-button-open-vpn = Otvoriť VPN
 ipprotection-feature-introduction-button-get-started = Začíname
 
 ## Site settings callout
@@ -160,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pre túto stránku vypnutá
+ipprotection-open-button = Otvoriť { -brand-product-name(case: "acc") }
+ipprotection-come-back-title = Vráťte sa a vyskúšajte vstavanú VPN
+ipprotection-message-body-hide-location = Skryte svoju polohu pri prehliadaní vo { -brand-product-name(case: "loc") } a získate väčšiu ochranu súkromia a kontrolu.
 ipprotection-connection-status-generic-error-title-1 = Nepodarilo sa pripojiť k VPN
     .aria-label = Nepodarilo sa pripojiť k VPN
 
@@ -231,6 +239,11 @@ ip-protection-exclusions-desc = Použite VPN pre všetky webové stránky okrem 
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Tento mesiac zostáva { $usageLeft } GB z { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Zostáva <span data-l10n-name="usage">{ $usageLeft } GB</span> z { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -239,6 +252,11 @@ ip-protection-bandwidth-left-gb = Zostáva { $usageLeft } GB z { $maxUsage } G
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Tento mesiac zostáva { $usageLeft } MB z { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Zostáva <span data-l10n-name="usage">{ $usageLeft } MB</span> z { $maxUsage } MB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

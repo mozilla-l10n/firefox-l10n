@@ -128,6 +128,8 @@ options-local-mode-origin-input =
 options-local-mode-origin-conflict = Tento zdroj je v konflikte s iným existujúcim mapovaním
 options-local-mode-origin-invalid = Tento zdroj nie je platný
 options-local-mode-folder-label = Lokálne priečinky
+options-local-mode-choose-folder = Prehľadávať…
+    .title = Vyberte lokálny priečinok pre toto mapovanie
 # Dialog's title when picking a folder for a mapping
 # Variables:
 #   $url (String): The url for the mapping being configured
