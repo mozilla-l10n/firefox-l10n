@@ -886,7 +886,7 @@ urlbar-result-action-ai-chat = Opýtať sa
 # following relative dates: "yesterday", "today"
 # Variables:
 #   $date (string) - A localized relative date string
-urlbar-result-explanation-last-visited-relative = Posledná návšteva { $date }
+urlbar-result-explanation-last-visited-relative = Naposledy navštívená { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -897,6 +897,28 @@ urlbar-result-explanation-last-visited-days =
         [few] Naposledy navštívená pred { $daysAgo } dňami
         [many] Naposledy navštívená pred { $daysAgo } dňami
        *[other] Naposledy navštívená pred { $daysAgo } dňami
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Naposledy navštívená pred týždňom
+        [few] Naposledy navštívená pred { $weeksAgo } týždňami
+        [many] Naposledy navštívená pred { $weeksAgo } týždňami
+       *[other] Naposledy navštívená pred { $weeksAgo } týždňami
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Naposledy navštívená pred mesiacom
+        [few] Naposledy navštívená pred { $weeksAgo } mesiacmi
+        [many] Naposledy navštívená pred { $weeksAgo } mesiacmi
+       *[other] Naposledy navštívená pred { $weeksAgo } mesiacmi
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"

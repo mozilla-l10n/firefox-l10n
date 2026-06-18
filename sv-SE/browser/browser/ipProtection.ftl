@@ -29,9 +29,9 @@ ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-na
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lägg till ytterligare ett lager av sekretess
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplatta mer privat.
-ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">extra sekretess</a> genom att välja från flera platser för att dölja där du surfar.
-ipprotection-feature-introduction-text-summer-promo-1 = Slå på den för att hålla din surfning mer privat. <a data-l10n-name="summer-promo-link">Få obegränsad bandbredd</a> och fler platser att surfa från. Nu till och med den 31 augusti.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
+ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan flera platser för att dölja var du surfar.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktivera den för att hålla din surfning mer privat. <a data-l10n-name="summer-promo-link">Få obegränsad bandbredd</a> och fler platser att surfa från. Nu fram till den 31 augusti.
 ipprotection-feature-introduction-title-summer-promo = Har du resplaner? Ta med dig integritet.
 ipprotection-feature-introduction-description-summer-promo = Gå längre med { -brand-product-name }:s inbyggda VPN: fler platser, obegränsad bandbredd. Nu till och med den 31 augusti.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.

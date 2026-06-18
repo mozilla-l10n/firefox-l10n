@@ -30,4 +30,4 @@ all-tabs-menu-tab-groups-sub-view =
     .title = Flikgrupper
 # "Search" is a verb, as in "Search through all tabs".
 all-tabs-menu-search-all-tabs =
-    .label = Sök alla flikar
+    .label = Sök i alla flikar
