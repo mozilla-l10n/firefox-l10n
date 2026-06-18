@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Predstavljanje VPN-a, sada izravno u tvom pregledniku
+ipprotection-feature-introduction-title-1 = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka, čak i kada se nalaziš u privatnom prozoru.
 ipprotection-feature-introduction-description-private-browsing = Pretraži s dodatnom zaštitom, skrivanjem svoje lokacije čak i kada si u privatnom prozoru.
@@ -35,12 +36,16 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne hvala
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Ne hvala
+ipprotection-feature-introduction-button-get-started = Započni
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Odaberi gdje koristiš VPN
 ipprotection-site-settings-callout-subtitle = Isključi VPN za određenu stranicu i mi ćemo je zapamtiti sljedeći put kada je posjetiš.
 ipprotection-site-settings-callout-button = Razumijem
+
+## Location selection callout
+
 
 ## Panel
 
@@ -77,6 +82,9 @@ ipprotection-connection-status-excluded-1 = VPN je isključen za ovu web-stranic
 ipprotection-connection-status-connecting-1 = VPN se spaja …
     .aria-label = VPN se spaja …
 
+## Location controls
+
+
 ## VPN paused state
 
 upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
@@ -106,6 +114,12 @@ ipprotection-message-continuous-onboarding-intro = Uključi VPN za skrivanje tvo
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
 ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN-om
     .aria-label = Neuspjelo povezivanje VPN-om
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -173,6 +187,9 @@ ip-protection-bandwidth-header-1 = Mjesečno ograničenje podataka
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
 ipprotection-bandwidth-reset-text = Uključi VPN za dodatno poboljšanje privatnosti, besplatno svaki mjesec.
 ipprotection-bandwidth-reset-button = Razumijem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
