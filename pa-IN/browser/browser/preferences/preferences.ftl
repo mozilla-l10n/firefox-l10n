@@ -2635,6 +2635,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = ਪਾਬੰਦੀ
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = AI ਕੰਟਰੋਲ
 
 ## Privacy and security status card
 
