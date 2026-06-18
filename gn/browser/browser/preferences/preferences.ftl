@@ -2614,6 +2614,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Joko
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = IA mongu’eha
 
 ## Privacy and security status card
 
