@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = ขอแนะนำ VPN ที่พร้อมใช้งานได้ทันทีในเบราว์เซอร์ของคุณ
+ipprotection-feature-introduction-title-1 = ลองใช้ VPN ในตัวของ { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = เพิ่มความเป็นส่วนตัวอีกขั้น
