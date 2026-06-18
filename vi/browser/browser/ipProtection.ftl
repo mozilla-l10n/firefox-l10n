@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Giới thiệu VPN, giờ đây đã có ngay trong trình duyệt của bạn.
+ipprotection-feature-introduction-title-1 = Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Thêm một lớp bảo mật nữa
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Xoá VPN khỏi thanh công cụ
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Xoá VPN khỏi thanh công cụ
+ipprotection-feature-introduction-button-get-started = Bắt đầu
 
 ## Site settings callout
 
