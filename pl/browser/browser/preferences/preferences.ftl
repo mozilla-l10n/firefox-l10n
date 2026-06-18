@@ -2634,6 +2634,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Zablokuj
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Sterowanie SI
 
 ## Privacy and security status card
 
