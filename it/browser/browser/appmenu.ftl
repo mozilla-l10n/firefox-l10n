@@ -17,7 +17,7 @@ appmenuitem-banner-update-restart =
     .label = Aggiornamento disponibile — riavvia adesso
 # Fresh Firefox refers to the new updated UI
 appmenu-nova-update-promo =
-    .message = Prova il nuovo { -brand-short-name }. Le tue schede resteranno al loro posto.
+    .message = Installa la nuova versione di { -brand-short-name }. Le tue schede resteranno al loro posto.
 appmenu-nova-update-link = Riavvia per aggiornare
 appmenu-nova-fxa-sign-in = Accedi
 appmenu-nova-switch-device-promo =
