@@ -90,11 +90,6 @@ download-save-files-header =
     .label = न धारिका जतन करात
 download-save-where-3 =
     .aria-label = न धारिका जतन करात
-downloads-header-2 =
-    .label = डाऊनलोड
-download-save-where-2 =
-    .label = न धारिका जतन करात
-    .accesskey = v
 download-header = डाऊनलोड
 download-save-where = न धारिका जतन करात
     .accesskey = v
@@ -472,5 +467,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
