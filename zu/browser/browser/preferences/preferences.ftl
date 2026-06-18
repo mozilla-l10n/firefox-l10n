@@ -82,11 +82,6 @@ download-save-files-header =
     .label = Gcina amafayela ku
 download-save-where-3 =
     .aria-label = Gcina amafayela ku
-downloads-header-2 =
-    .label = Okulayishiwe kwangeniswa
-download-save-where-2 =
-    .label = Gcina amafayela ku
-    .accesskey = i
 download-header = Okulayishiwe kwangeniswa
 download-save-where = Gcina amafayela ku
     .accesskey = i
@@ -433,5 +428,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
