@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = ブラウザーに内蔵された VPN をご紹介します
+ipprotection-feature-introduction-title-1 = { -brand-product-name } の組み込み VPN をお試しください
 ipprotection-feature-introduction-link-text-2 = 新たな <a data-l10n-name="learn-more-vpn">組み込み VPN</a> を利用すると、あなたの現在位置を隠してユーザーデータを保護します。
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = プライバシーの別のレイヤーを追加
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = ツールバーから VPN を削除
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = ツールバーから VPN を削除
+ipprotection-feature-introduction-button-get-started = はじめる
 
 ## Site settings callout
 
