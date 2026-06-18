@@ -82,11 +82,6 @@ download-save-files-header =
     .label = Pelan tomar bike li
 download-save-where-3 =
     .aria-label = Pelan tomar bike li
-downloads-header-2 =
-    .label = Jêbarkirî
-download-save-where-2 =
-    .label = Pelan tomar bike li
-    .accesskey = t
 download-header = Jêbarkirî
 download-save-where = Pelan tomar bike li
     .accesskey = t
@@ -435,5 +430,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
