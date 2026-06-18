@@ -28,10 +28,10 @@ firefoxview-tabpickup-description = Mở trang từ các thiết bị khác.
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% hoàn thành
 firefoxview-tabpickup-step-signin-header = Chuyển đổi liền mạch giữa các thiết bị
-firefoxview-tabpickup-step-signin-description = Để truy cập các thẻ điện thoại của bạn tại đây, trước tiên hãy đăng nhập hoặc tạo tài khoản.
+firefoxview-tabpickup-step-signin-description = Để truy cập các thẻ trên ứng dụng di động của bạn tại đây, trước tiên hãy đăng nhập hoặc tạo tài khoản.
 firefoxview-tabpickup-step-signin-primarybutton = Tiếp tục
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } của riêng bạn trên tất cả các thiết bị
-firefoxview-syncedtabs-signin-description-2 = Để được xem các thẻ đang mở trên điện thoại và các thiết bị khác của bạn, hãy đăng nhập hoặc đăng ký tài khoản. Với tài khoản, bạn cũng có thể đồng bộ hoá mật khẩu, lịch sử của bạn và hơn thế nữa.
+firefoxview-syncedtabs-signin-description-2 = Để được xem các thẻ đang mở trên ứng dụng di động và các thiết bị khác của bạn, hãy đăng nhập hoặc đăng ký tài khoản. Với tài khoản, bạn cũng có thể đồng bộ hoá mật khẩu, lịch sử của bạn và hơn thế nữa.
 firefoxview-syncedtabs-signin-primarybutton-2 = Đăng nhập
 firefoxview-tabpickup-adddevice-header = Đồng bộ hóa { -brand-product-name } trên điện thoại hoặc máy tính bảng của bạn
 firefoxview-tabpickup-adddevice-description = Tải xuống { -brand-product-name } cho điện thoại di động và đăng nhập vào đó.
