@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = VPN ਪੇਸ਼ ਹੈ, ਹੁਣ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਵਿੱਚ ਹੀ
+ipprotection-feature-introduction-title-1 = { -brand-product-name } ਦੇ ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
 ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਹੋਰ ਪਰਤ ਜੋੜੋ
