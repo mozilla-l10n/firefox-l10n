@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = È possibile specificare quali siti web potranno o meno salvare cookie e dati. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Blocca, Consenti per la sessione o Consenti.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Eccezioni - Cancellazione cronologia alla chiusura
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = È possibile specificare quali siti web conserveranno i propri dati quando { -brand-short-name } cancellerà la cronologia alla chiusura. Digitare l’indirizzo esatto del sito che si desidera aggiungere e fare clic su Consenti.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

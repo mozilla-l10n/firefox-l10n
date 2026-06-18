@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Usa la nostra nuova <a data-l10n
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aggiungi un ulteriore livello di privacy
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrata di { -brand-product-name }</a> contribuisce a proteggere la tua navigazione. Scegli tra diverse posizioni per rendere più riservata la tua attività online.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrata di { -brand-product-name }</a> contribuisce a proteggere la tua navigazione. Scegli tra diverse posizioni per rendere più riservata la tua attività online.
+ipprotection-feature-introduction-link-text-privacy-3 = Ottieni <a data-l10n-name="learn-more-vpn">maggiore privacy</a> scegliendo tra diverse posizioni per nascondere da dove ti connetti.
+ipprotection-feature-introduction-text-summer-promo-1 = Attivala per proteggere meglio la tua privacy online. <a data-l10n-name="summer-promo-link">Approfitta della banda illimitata</a> e della possibilità di scegliere tra diverse posizioni da cui navigare. Offerta valida fino al 31 agosto.
+ipprotection-feature-introduction-title-summer-promo = Hai in programma un viaggio? Porta la tua privacy sempre con te.
+ipprotection-feature-introduction-description-summer-promo = Supera i confini con la VPN integrata di { -brand-product-name }: più posizioni, banda illimitata. Solo fino al 31 agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati, anche quando ti trovi in una finestra anonima
 ipprotection-feature-introduction-description-private-browsing = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi una finestra anonima.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Rimuovi VPN dalla barra degli strumenti
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Rimuovi VPN dalla barra degli strumenti
+ipprotection-feature-introduction-button-open-vpn = Apri VPN
 ipprotection-feature-introduction-button-get-started = Inizia
 
 ## Site settings callout
@@ -159,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Attiva la VPN per nascondere 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN per attivarsi</a> ogni volta che apri { -brand-short-name } così da aggiungere un ulteriore livello di protezione.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } terrà traccia dei siti web per cui hai scelto di usare la VPN. Puoi modificarli in qualsiasi momento nelle <a data-l10n-name="setting-link">impostazioni</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN è disattivata per questo sito
+ipprotection-open-button = Apri { -brand-product-name }
+ipprotection-come-back-title = Torna e prova la VPN integrata
+ipprotection-message-body-hide-location = Proteggi la tua privacy e rimani in controllo nascondendo la tua posizione quando navighi con { -brand-product-name }.
 ipprotection-connection-status-generic-error-title-1 = Impossibile connettersi alla VPN
     .aria-label = Impossibile connettersi alla VPN
 

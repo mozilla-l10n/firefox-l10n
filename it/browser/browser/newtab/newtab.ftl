@@ -1167,6 +1167,9 @@ newtab-sports-widget-third-place = Terzo posto
 newtab-sports-widget-runner-up = Secondi classificati
 newtab-sports-widget-champions = Campioni
 newtab-sports-widget-world-cup-champions = Campioni della Coppa del Mondo 2026
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Campioni 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
