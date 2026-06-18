@@ -88,6 +88,10 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = يمكنك تحديد المواقع التي يُسمح لها دائمًا أو لا يُسمح أبدًا باستخدام الكعكات و بيانات الموقع.  اكتب عنوان الموقع الذي تريد إدارته بدقة ثم انقر فوق ”احجب“، أو ”اسمح لهذه لجلسة“، أو ”اسمح“.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-desc = يمكنك تحديد المواقع الإلكترونية التي ستحتفظ ببياناتها عند محو تأريخ التصفح باستخدام { -brand-short-name } عند الإغلاق. اكتب عنوان الموقع الذي تريد إدارته بدقة، ثم انقر على "اسمح".
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

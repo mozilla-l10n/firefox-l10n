@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = ساعة
 time-spinner-minute-label =
     .aria-label = دقيقة
+time-spinner-second-label =
+    .aria-label = ثانية
+time-spinner-millisecond-label =
+    .aria-label = ميلي ثانية
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = الدقيقة الماضية
 time-spinner-minute-next =
     .aria-label = الدقيقة التالية
+time-spinner-second-previous =
+    .aria-label = الثانية السابقة
+time-spinner-second-next =
+    .aria-label = الثانية التالية
+time-spinner-millisecond-previous =
+    .aria-label = الميلي ثانية السابقة
+time-spinner-millisecond-next =
+    .aria-label = الميلي ثانية التالية
 time-spinner-day-period-previous =
     .aria-label = الفترة الماضية من اليوم
 time-spinner-day-period-next =
