@@ -45,6 +45,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Elimina la VPN de la barra d'eines
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimina la VPN de la barra d'eines
+ipprotection-feature-introduction-button-get-started = Comença
 
 ## Site settings callout
 
