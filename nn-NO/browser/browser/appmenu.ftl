@@ -15,6 +15,9 @@ appmenuitem-banner-update-unsupported =
     .label = Kan ikkje oppdatere — systemet er inkompatibelt
 appmenuitem-banner-update-restart =
     .label = Oppdatering tilgjengeleg — start på nytt
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Få ein ny { -brand-short-name }. Behald alle fanene dine.
 appmenu-nova-update-link = Start om for å oppdatere
 appmenu-nova-fxa-sign-in = Logg inn
 appmenu-nova-switch-device-promo =
