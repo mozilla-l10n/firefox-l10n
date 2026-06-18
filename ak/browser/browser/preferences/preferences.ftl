@@ -85,11 +85,6 @@ download-save-files-header =
     .label = Sie mfael kɔ
 download-save-where-3 =
     .aria-label = Sie mfael kɔ
-downloads-header-2 =
-    .label = Ntwe
-download-save-where-2 =
-    .label = Sie mfael kɔ
-    .accesskey = e
 download-header = Ntwe
 download-save-where = Sie mfael kɔ
     .accesskey = e
@@ -436,5 +431,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
