@@ -87,11 +87,6 @@ download-save-files-header =
     .label = Dáma jone bénomo
 download-save-where-3 =
     .aria-label = Dáma jone bénomo
-downloads-header-2 =
-    .label = Yúnua
-download-save-where-2 =
-    .label = Dáma jone bénomo
-    .accesskey = D
 download-header = Yúnua
 download-save-where = Dáma jone bénomo
     .accesskey = D
@@ -440,5 +435,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
