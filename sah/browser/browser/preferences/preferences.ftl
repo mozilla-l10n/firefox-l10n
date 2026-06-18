@@ -85,11 +85,6 @@ download-save-files-header =
     .label = Билэни угуу суола
 download-save-where-3 =
     .aria-label = Билэни угуу суола
-downloads-header-2 =
-    .label = Хачайдааһыннар
-download-save-where-2 =
-    .label = Билэни угуу суола
-    .accesskey = л
 download-header = Хачайдааһыннар
 download-save-where = Билэни угуу суола
     .accesskey = л
@@ -434,5 +429,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
