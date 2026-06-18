@@ -29,6 +29,8 @@ ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l1
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće přidać
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
+ipprotection-feature-introduction-link-text-privacy-3 = Wubjerće z wjacorych stejnišćow, zo byšće schował, hdźež přehladujeće, zo byšće <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> dóstał.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
 # Used for callout shown on login to public wi-fi through a captive portal

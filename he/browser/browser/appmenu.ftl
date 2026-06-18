@@ -15,6 +15,9 @@ appmenuitem-banner-update-unsupported =
     .label = לא ניתן לעדכן — מערכת לא נתמכת
 appmenuitem-banner-update-restart =
     .label = עדכון זמין — הפעלה מחדש כעת
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = קבלו { -brand-short-name } רענן. כל הלשוניות שלך ייפתחו מחדש.
 appmenu-nova-update-link = הפעלה מחדש לעדכון
 appmenu-nova-fxa-sign-in = כניסה
 appmenu-nova-switch-device-promo =
