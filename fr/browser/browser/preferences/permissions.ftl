@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Vous pouvez indiquer les sites web qui sont toujours ou ne sont jamais autorisés à utiliser des cookies ou des données de sites. Saisissez l’adresse exacte du site et cliquez sur Bloquer, Autoriser pour la session, ou Autoriser.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Exceptions - Effacez l’historique à la fermeture
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Vous pouvez spécifier quels sites web conserveront leurs données lorsque { -brand-short-name } efface l’historique à la fermeture. Saisissez l’adresse exacte du site que vous souhaitez gérer puis cliquez sur Autoriser.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

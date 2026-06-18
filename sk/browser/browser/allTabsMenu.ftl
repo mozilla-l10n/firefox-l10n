@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Nová kontajnerová karta
 all-tabs-menu-hidden-tabs =
     .label = Skryté karty
+all-tabs-menu-close-duplicate-tabs =
+    .label = Zavrieť duplicitné karty
 all-tabs-menu-manage-user-context =
     .label = Spravovať kontajnery
     .accesskey = S
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Skupiny kariet
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Hľadať vo všetkých kartách{ " " }

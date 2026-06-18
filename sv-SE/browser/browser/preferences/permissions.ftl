@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Du kan ange vilka webbplatser som alltid eller aldrig får använda kakor och webbplatsdata.  Skriv den exakta adressen till den webbplats du vill hantera och klicka sedan på Blockera, Tillåt för sessionen eller Tillåt.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Undantag - Rensa historik vid avstängning
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Du kan ange vilka webbplatser som kommer att spara sin data när { -brand-short-name } rensar historiken vid stängning. Skriv in den exakta adressen till den webbplats du vill hantera och klicka sedan på Tillåt.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

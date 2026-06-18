@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Nebolo možné aktualizovať — nekompatibilný systém
 appmenuitem-banner-update-restart =
     .label = K dispozícii je aktualizácia — reštartovať
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Získajte nový { -brand-short-name(case: "acc") }. Majte všetko pod kontrolou.
+appmenu-nova-update-link = Reštartovať a aktualizovať
+appmenu-nova-fxa-sign-in = Prihlásiť sa
+appmenu-nova-switch-device-promo =
+    .message = Čoskoro si zaobstaráte nové zariadenie? Vezmite si{ -brand-short-name(case: "acc") } so sebou.
+appmenu-nova-switch-device-link = Ako migrovať údaje
 appmenuitem-new-tab =
     .label = Nová karta
 appmenuitem-new-window =
