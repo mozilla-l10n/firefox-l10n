@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
+ipprotection-feature-introduction-title-1 = Provu la integritan VPN de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ilaro
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Forigi VPN el la ilaro
+ipprotection-feature-introduction-button-get-started = Unuaj paŝoj
 
 ## Site settings callout
 
