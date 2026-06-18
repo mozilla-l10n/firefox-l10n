@@ -7,6 +7,13 @@ search-header =
     .placeholder = Пребарај на addons.mozilla.org
     .searchbuttonlabel = Пребарај
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+list-empty-get-extensions-message = Земете екстензии и теми од <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Земете речници од <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Земете јазични пакети од <a data-l10n-name="get-extensions">{ $domain }</a>
+
 ##
 
 list-empty-installed =
@@ -55,6 +62,7 @@ detail-private-browsing-label = Дозволи во приватни прозо�
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не е дозволено во приватни прозорчиња
+detail-private-disallowed-description2 = Ова проширување не работи во приватно сурфање. <a data-l10n-name="learn-more">Дознајте повеќе</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Бара пристап до привататни прозорци
 detail-private-browsing-on =

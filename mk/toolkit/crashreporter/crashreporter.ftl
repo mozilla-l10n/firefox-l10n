@@ -45,3 +45,5 @@ crashreporter-error-no-home-dir = Недостасува домашниот ди
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Не успеа преместувањето од { $from } во { $to }
+crashreporter-error-version-eol = Крај на животниот век на верзијата: извештаите за уривања повеќе не се прифаќаат.
+crashreporter-error-failed-to-generate-minidump = Апликацијата не успеа да генерира информации за уривање.
