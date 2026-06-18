@@ -29,6 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere steder for å gjøre hvor du surfer mer privat.
+ipprotection-feature-introduction-title-summer-promo = Skal du ut og reise? Ta personvernet med deg.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +47,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra verktøylinjen
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra verktøylinjen
+ipprotection-feature-introduction-button-open-vpn = Åpen VPN
 ipprotection-feature-introduction-button-get-started = Kom i gang
 
 ## Site settings callout
@@ -159,6 +161,8 @@ ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Sett VPN til å slå seg på</a> hver gang du åpner { -brand-short-name } for et ekstra lag med beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker hvilke nettsteder du har satt til å bruke VPN. Oppdater disse i <a data-l10n-name="setting-link">innstillinger</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette nettstedet
+ipprotection-open-button = Åpne { -brand-product-name }
+ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
 ipprotection-connection-status-generic-error-title-1 = Kunne ikke koble til VPN
     .aria-label = Kunne ikke koble til VPN
 
@@ -228,6 +232,11 @@ ip-protection-exclusions-desc = Bruk VPN for alle nettsteder unntatt de på denn
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB av { $maxUsage } GB igjen denne måneden
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> av { $maxUsage } GB igjen
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +245,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB av { $maxUsage } GB igjen
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB av { $maxUsage } GB igjen denne måneden
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> av { $maxUsage } GB igjen
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

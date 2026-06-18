@@ -1079,6 +1079,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Bare fulgte lag
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Laster inn flere treff…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Se

@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Ny beholderfane
 all-tabs-menu-hidden-tabs =
     .label = Skjulte faner
+all-tabs-menu-close-duplicate-tabs =
+    .label = Lukk dupliserte faner
 all-tabs-menu-manage-user-context =
     .label = Behandle beholdere
     .accesskey = o
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Fanegrupper
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Søk i alle faner
