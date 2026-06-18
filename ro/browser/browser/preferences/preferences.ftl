@@ -2649,6 +2649,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Comenzi AI
 
 ## Privacy and security status card
 
