@@ -497,8 +497,8 @@ tab-context-open-in-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Samostatné rozdelené zobrazenie
-    .accesskey = S
+    .label = Rozpojiť rozdelené zobrazenie
+    .accesskey = e
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
     .label = Otočiť poradie kariet

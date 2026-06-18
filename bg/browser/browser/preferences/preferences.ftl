@@ -2326,9 +2326,6 @@ connection-dns-over-https-url-item =
 preferences-doh-custom-provider-label =
     .aria-label = Въведете адрес на доставчик по избор
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Плот
@@ -2422,6 +2419,3 @@ preferences-etp-custom-known-fingerprinting-protection-enabled =
     .label = Познати скриптове, които събират данни
 preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Подозрителни скриптове, които събират данни
-
-## Warnings section
-

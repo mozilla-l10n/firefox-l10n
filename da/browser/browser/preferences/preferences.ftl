@@ -1548,9 +1548,6 @@ forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2494,6 +2491,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
-
-## Warnings section
-

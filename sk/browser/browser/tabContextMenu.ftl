@@ -168,6 +168,10 @@ tab-context-move-tabs =
            *[other] Presunúť karty
         }
     .accesskey = s
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Presunúť rozdelené zobrazenie do
+    .accesskey = P
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =

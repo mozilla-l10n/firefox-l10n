@@ -44,9 +44,6 @@ ipprotection-site-settings-callout-title = Tscherna nua utilisar il VPN
 ipprotection-site-settings-callout-subtitle = Deactivescha il VPN per ina website specifica e nus tegnain endament quai per la proxima visita.
 ipprotection-site-settings-callout-button = Chapì
 
-## Location selection callout
-
-
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -81,9 +78,6 @@ ipprotection-connection-status-excluded-1 = Il VPN è deactivà per questa websi
     .aria-label = Il VPN è deactivà per questa website
 ipprotection-connection-status-connecting-1 = Il VPN connectescha…
     .aria-label = Il VPN connectescha…
-
-## Location controls
-
 
 ## VPN paused state
 
@@ -159,18 +153,3 @@ ip-protection-autostart-checkbox =
     .label = Cura che jau avr { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = En fanestras privatas
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

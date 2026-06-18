@@ -7,11 +7,6 @@
 
 
 ## These labels are used by screenreaders and other assistive technology
-## to indicate the purpose of this picker as both a calendar with a month-year
-## and a time selection dialog for HTML's <input type="datetime-local">
-
-
-## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's default <input type="date">
 
@@ -19,9 +14,6 @@ date-picker-label =
     .aria-label = Pumili ng petsa
 date-spinner-label =
     .aria-label = Pumili ng buwan at taon
-
-## Text of the clear button
-
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
@@ -52,17 +44,3 @@ date-spinner-year-previous =
     .aria-label = Nakaraang taon
 date-spinner-year-next =
     .aria-label = Susunod na taon
-
-## This label is used by screenreaders and other assistive technology
-## to indicate the purpose of a time picker dialog
-## for HTML's default <input type="time">
-
-
-## These labels are used by screenreaders and other assistive technology
-## to indicate the type of a value/unit that is being selected within a
-## time spinners on a timepicker dialog
-
-
-## These labels are used by screenreaders and other assistive technology
-## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
-

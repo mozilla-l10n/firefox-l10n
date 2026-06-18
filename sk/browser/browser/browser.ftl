@@ -887,6 +887,27 @@ urlbar-result-action-ai-chat = Opýtať sa
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative = Posledná návšteva { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Naposledy navštívená pred { $daysAgo } dňom
+        [few] Naposledy navštívená pred { $daysAgo } dňami
+        [many] Naposledy navštívená pred { $daysAgo } dňami
+       *[other] Naposledy navštívená pred { $daysAgo } dňami
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Naposledy navštívená dňa { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Uložené do záložiek dňa { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
