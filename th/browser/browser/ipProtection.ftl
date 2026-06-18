@@ -45,6 +45,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = เอา VPN ออกจากแถบเครื่องมือ
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = เอา VPN ออกจากแถบเครื่องมือ
+ipprotection-feature-introduction-button-get-started = เริ่มต้นใช้งาน
 
 ## Site settings callout
 
