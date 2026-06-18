@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Du kan spesifisere hvilke nettsteder som alltid eller aldri får bruke infokapsler og nettsteddata.  Skriv inn den eksakte adressen til nettstedet du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Unntak – Tøm historikk ved avslutning
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Du kan angi hvilke nettsteder som skal beholde dataene sine når { -brand-short-name } tømmer historikken ved avslutning. Skriv inn den nøyaktige adressen til nettstedet du vil behandle, og klikk deretter på Tillat.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

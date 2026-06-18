@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = 업데이트할 수 없음 — 시스템이 호환되지 않음
 appmenuitem-banner-update-restart =
     .label = 업데이트 있음 — 지금 다시 시작
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = 새 { -brand-short-name }를 받으세요. 모든 탭을 유지하세요.
+appmenu-nova-update-link = 업데이트를 위해 다시 시작
+appmenu-nova-fxa-sign-in = 로그인
+appmenu-nova-switch-device-promo =
+    .message = 곧 새 기기를 받게 되나요? { -brand-short-name }와 함께 하세요!
+appmenu-nova-switch-device-link = 데이터 이전 방법
 appmenuitem-new-tab =
     .label = 새 탭
 appmenuitem-new-window =

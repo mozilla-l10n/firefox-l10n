@@ -1633,6 +1633,7 @@ forms-primary-pw-use-2 =
     .accesskey = B
 forms-primary-pw-set =
     .label = Angi hovedpassord
+forms-primary-pw-on-2 = Hovedpassord er <strong>PÅ</strong>
 forms-primary-pw-on =
     .label = Hovedpassord er PÅ
 forms-primary-pw-change-2 =

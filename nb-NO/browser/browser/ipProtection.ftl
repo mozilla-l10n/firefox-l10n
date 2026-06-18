@@ -31,7 +31,9 @@ ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med perso
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere steder for å gjøre hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere steder for å gjøre hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere steder for å skjule hvor du surfer.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjøre surfingen din mer privat. <a data-l10n-name="summer-promo-link">Få ubegrenset båndbredde</a> og flere steder å surfe fra. Nå til og med 31. august.
 ipprotection-feature-introduction-title-summer-promo = Skal du ut og reise? Ta personvernet med deg.
+ipprotection-feature-introduction-description-summer-promo = Få mer ut av { -brand-product-name } sin innebygde VPN: flere steder, ubegrenset båndbredde. Nå til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -165,6 +167,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette nettstedet
 ipprotection-open-button = Åpne { -brand-product-name }
 ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
+ipprotection-message-body-hide-location = Skjul posisjonen din når du surfer med { -brand-product-name } for mer personvern og kontroll.
 ipprotection-connection-status-generic-error-title-1 = Kunne ikke koble til VPN
     .aria-label = Kunne ikke koble til VPN
 
