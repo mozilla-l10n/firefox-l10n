@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Nove scheda contentor
 all-tabs-menu-hidden-tabs =
     .label = Schedas celate
+all-tabs-menu-close-duplicate-tabs =
+    .label = Clauder schedas duplicate
 all-tabs-menu-manage-user-context =
     .label = Gerer le contentores
     .accesskey = o
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Gruppos de schedas
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Cercar in tote le schedas

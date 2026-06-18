@@ -32,6 +32,7 @@ ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-privacy-3 = Wubjerće z wjacorych stejnišćow, zo byšće schował, hdźež přehladujeće, zo byšće <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> dóstał.
 ipprotection-feature-introduction-title-summer-promo = Maće pućowanske plany? Wzmiće priwatnosć ze sobu.
+ipprotection-feature-introduction-description-summer-promo = Pokročujće ze zatwarjenym VPN { -brand-product-name }: wjace stejnišćow, njewobmjezowana šěrokosć pasma. Nětko hač do 31. awgusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -165,6 +166,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydło znjemóžnjeny
 ipprotection-open-button = { -brand-product-name } wočinić
 ipprotection-come-back-title = Wróćće so, zo byšće zatwarjeny VPN wupruwował
+ipprotection-message-body-hide-location = Schowajće swoje stejnišćo, hdyž z { -brand-product-name } přehladujeće, za wjace priwatnosće a kontrole.
 ipprotection-connection-status-generic-error-title-1 = Zwisk z VPN móžny njeje
     .aria-label = Zwisk z VPN móžny njeje
 

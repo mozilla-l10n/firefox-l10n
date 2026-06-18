@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Actualisation fallite — systema non compatibile
 appmenuitem-banner-update-restart =
     .label = Actualisation disponibile — reinitiar ora
+appmenu-nova-fxa-sign-in = Aperir session
 appmenuitem-new-tab =
     .label = Nove scheda
 appmenuitem-new-window =
