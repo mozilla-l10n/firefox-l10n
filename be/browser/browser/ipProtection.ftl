@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпер прама ў вашым браўзеры
+ipprotection-feature-introduction-title-1 = Паспрабуйце ўбудаваны VPN ад { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Выдаліць VPN з паліцы прылад
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Выдаліць VPN з паліцы прылад
+ipprotection-feature-introduction-button-get-started = Пачаць
 
 ## Site settings callout
 
