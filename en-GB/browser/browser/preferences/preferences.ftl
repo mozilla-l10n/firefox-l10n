@@ -2648,6 +2648,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Block
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = AI controls
 
 ## Privacy and security status card
 
