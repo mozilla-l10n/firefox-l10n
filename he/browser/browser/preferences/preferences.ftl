@@ -2647,6 +2647,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = חסימה
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = בקרי בינה מלאכותית
 
 ## Privacy and security status card
 
