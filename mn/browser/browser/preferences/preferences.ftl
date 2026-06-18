@@ -82,11 +82,6 @@ download-save-files-header =
     .label = Файлыг энд хадгал
 download-save-where-3 =
     .aria-label = Файлыг энд хадгал
-downloads-header-2 =
-    .label = Файл татаж авах үед
-download-save-where-2 =
-    .label = Файлыг энд хадгал
-    .accesskey = д
 download-header = Файл татаж авах үед
 download-save-where = Файлыг энд хадгал
     .accesskey = д
@@ -407,5 +402,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
