@@ -2631,6 +2631,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Estä
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Tekoälyn säätimet
 
 ## Privacy and security status card
 
