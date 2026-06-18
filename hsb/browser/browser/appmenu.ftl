@@ -15,8 +15,13 @@ appmenuitem-banner-update-unsupported =
     .label = Aktualizacija móžna njeje – system je inkompatibelny
 appmenuitem-banner-update-restart =
     .label = Aktualizacija k dispoziciji – nětko znowa startować
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Dóstańće nowy { -brand-short-name }. Wobchowajće wšě swoje rajtarki.
 appmenu-nova-update-link = Za aktualizaciju znowa startować
 appmenu-nova-fxa-sign-in = Přizjewić
+appmenu-nova-switch-device-promo =
+    .message = Dóstanjeće bórze nowy grat? Wzmiće { -brand-short-name } ze sobu!
 appmenu-nova-switch-device-link = Kak waše daty migrujeće
 appmenuitem-new-tab =
     .label = Nowy rajtark
