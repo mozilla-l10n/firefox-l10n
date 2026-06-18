@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
+ipprotection-feature-introduction-title-1 = Yerleşik { -brand-product-name } VPN’i deneyin
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha artırın
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN’i araç çubuğundan kaldır
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN’i araç çubuğundan kaldır
+ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
 
 ## Site settings callout
 
