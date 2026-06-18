@@ -1629,6 +1629,9 @@ forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2589,6 +2592,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Prepovej
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Nadzor UI
 
 ## Privacy and security status card
 
