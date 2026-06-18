@@ -2633,6 +2633,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Αποκλεισμός
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Επιλογές ελέγχου ΤΝ
 
 ## Privacy and security status card
 
