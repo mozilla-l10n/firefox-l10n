@@ -78,11 +78,6 @@ download-save-files-header =
     .label = Zapiszë lopczi do
 download-save-where-3 =
     .aria-label = Zapiszë lopczi do
-downloads-header-2 =
-    .label = Zladënczi
-download-save-where-2 =
-    .label = Zapiszë lopczi do
-    .accesskey = o
 download-header = Zladënczi
 download-save-where = Zapiszë lopczi do
     .accesskey = o
@@ -429,5 +424,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
