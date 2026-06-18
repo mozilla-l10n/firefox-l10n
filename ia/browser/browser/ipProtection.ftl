@@ -29,6 +29,8 @@ ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-nam
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adder un altere nivello de confidentialitate
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener ubi tu naviga plus private.
+ipprotection-feature-introduction-text-summer-promo-1 = Activa lo pro mantener tu navigation plus private. <a data-l10n-name="summer-promo-link">Obtene largessa de banda illimitate</a> e plus positiones de que navigar. Ora usque le 31 augusto.
+ipprotection-feature-introduction-description-summer-promo = Ir ultra con le VPN integrate de { -brand-product-name }: plus positiones, illimitate largessa de banda. Ora usque le 31 augusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
 # Used for callout shown on login to public wi-fi through a captive portal

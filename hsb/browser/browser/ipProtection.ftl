@@ -31,6 +31,7 @@ ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće př
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-privacy-3 = Wubjerće z wjacorych stejnišćow, zo byšće schował, hdźež přehladujeće, zo byšće <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> dóstał.
+ipprotection-feature-introduction-text-summer-promo-1 = Zmóžńće jón, zo byšće swoje přehladowanje priwatniše dźeržał. <a data-l10n-name="summer-promo-link">Dóstańće njewobmjezowanu šěrokosć pasma</a> a wjace stejnišćow, z kotrychž móžeće přehladować. Nětko hač do 31. awgusta.
 ipprotection-feature-introduction-title-summer-promo = Maće pućowanske plany? Wzmiće priwatnosć ze sobu.
 ipprotection-feature-introduction-description-summer-promo = Pokročujće ze zatwarjenym VPN { -brand-product-name }: wjace stejnišćow, njewobmjezowana šěrokosć pasma. Nětko hač do 31. awgusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
