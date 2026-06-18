@@ -85,11 +85,6 @@ download-save-files-header =
     .label = Boloka difaele go
 download-save-where-3 =
     .aria-label = Boloka difaele go
-downloads-header-2 =
-    .label = Ditaollo
-download-save-where-2 =
-    .label = Boloka difaele go
-    .accesskey = k
 download-header = Ditaollo
 download-save-where = Boloka difaele go
     .accesskey = k
@@ -436,5 +431,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 
