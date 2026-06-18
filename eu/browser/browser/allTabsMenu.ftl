@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Edukiontzi-fitxa berria
 all-tabs-menu-hidden-tabs =
     .label = Ezkutatutako fitxak
+all-tabs-menu-close-duplicate-tabs =
+    .label = Itxi bikoiztutako fitxak
 all-tabs-menu-manage-user-context =
     .label = Kudeatu edukiontziak
     .accesskey = o
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Fitxa-taldeak
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Bilatu fitxa guztietan
