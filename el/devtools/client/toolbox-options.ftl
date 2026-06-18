@@ -119,6 +119,8 @@ options-sourceeditor-keybinding-default-label = Προεπιλογή
 
 # The heading
 options-local-mode-label = Τοπική λειτουργία
+options-local-mode-domain-label = Προσαρμοσμένος τομέας:
+options-local-mode-origin-invalid = Αυτή η προέλευση δεν είναι έγκυρη
 options-local-mode-folder-label = Τοπικός φάκελος:
 options-local-mode-toggle-enable = Ενεργοποίηση
 options-local-mode-toggle-disable = Απενεργοποίηση

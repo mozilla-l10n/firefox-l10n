@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Νέα θεματική καρτέλα
 all-tabs-menu-hidden-tabs =
     .label = Κρυμμένες καρτέλες
+all-tabs-menu-close-duplicate-tabs =
+    .label = Κλείσιμο διπλών καρτελών
 all-tabs-menu-manage-user-context =
     .label = Διαχείριση θεματικών ενοτήτων
     .accesskey = θ
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Ομάδες καρτελών
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Αναζήτηση σε όλες τις καρτέλες

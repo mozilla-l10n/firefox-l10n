@@ -24,8 +24,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Αντιγραφή καρτέλας
     .accesskey = Α
+duplicate-tab2 =
+    .label = Αντιγραφή
+    .accesskey = Α
 duplicate-tabs =
     .label = Αντιγραφή καρτελών
+    .accesskey = Α
+duplicate-tabs2 =
+    .label = Αντιγραφή
     .accesskey = Α
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +58,15 @@ reload-tabs =
 pin-tab =
     .label = Καρφίτσωμα καρτέλας
     .accesskey = ρ
+tab-context-pin-tab2 =
+    .label = Καρφίτσωμα
+    .accesskey = ρ
 unpin-tab =
     .label = Ξεκαρφίτσωμα καρτέλας
     .accesskey = κ
+tab-context-unpin-tab2 =
+    .label = Ξεκαρφίτσωμα
+    .accesskey = ρ
 pin-selected-tabs =
     .label = Καρφίτσωμα καρτελών
     .accesskey = Κ
@@ -67,6 +79,9 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη…
     .accesskey = Π
+tab-context-bookmark-tab2 =
+    .label = Σελιδοδείκτης
+    .accesskey = Σ
 tab-context-open-in-new-container-tab =
     .label = Άνοιγμα σε νέα θεματική καρτέλα
     .accesskey = ι
@@ -161,3 +176,7 @@ tab-context-unload-n-tabs =
            *[other] Εκφόρτωση { $tabCount } καρτελών
         }
     .accesskey = Ε
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Εκφόρτωση
+    .accesskey = φ

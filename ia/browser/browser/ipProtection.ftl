@@ -29,7 +29,10 @@ ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-nam
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adder un altere nivello de confidentialitate
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener ubi tu naviga plus private.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener plus private ubi tu naviga.
+ipprotection-feature-introduction-link-text-privacy-3 = Obtene <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> seligente de plure positiones pro celar ubi tu naviga.
 ipprotection-feature-introduction-text-summer-promo-1 = Activa lo pro mantener tu navigation plus private. <a data-l10n-name="summer-promo-link">Obtene largessa de banda illimitate</a> e plus positiones de que navigar. Ora usque le 31 augusto.
+ipprotection-feature-introduction-title-summer-promo = Recipeva planos de viage? Porta con te le confidentialitate.
 ipprotection-feature-introduction-description-summer-promo = Ir ultra con le VPN integrate de { -brand-product-name }: plus positiones, illimitate largessa de banda. Ora usque le 31 augusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
@@ -48,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Remover le VPN ab le barra del instrumentos
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover le VPN ab le barra del instrumentos
+ipprotection-feature-introduction-button-open-vpn = Aperir VPN
 ipprotection-feature-introduction-button-get-started = Comenciar
 
 ## Site settings callout
@@ -161,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Activa le VPN pro celar tu po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Predefinir VPN pro activar se</a> cata vice tu aperi { -brand-short-name } pro un strato ulterior de protection.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memorara que sitos web tu ha configurate pro usar le VPN. Actualisa istos in <a data-l10n-name="setting-link">parametros</a> quandocunque.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Le VPN es disactivate pro iste sito
+ipprotection-open-button = Aperir { -brand-product-name }
+ipprotection-come-back-title = Come back to try built-in VPN
+ipprotection-message-body-hide-location = Cela tu position quando tu naviga in { -brand-product-name } pro plus confidentialitate e plus controlo.
 ipprotection-connection-status-generic-error-title-1 = Impossibile connecter se al VPN
     .aria-label = Impossibile connecter se al VPN
 
@@ -230,6 +237,11 @@ ip-protection-exclusions-desc = Usar VPN pro omnes sitos web salvo illos sur ist
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB de { $maxUsage } GB restante iste mense
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="uso">{ $usageLeft } MB</span> de { $maxUsage } GB restante
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
