@@ -15,6 +15,9 @@ appmenuitem-banner-update-unsupported =
     .label = Actualisation fallite — systema non compatibile
 appmenuitem-banner-update-restart =
     .label = Actualisation disponibile — reinitiar ora
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Habe un fresc { -brand-short-name }. Mantene tote tu schedas.
 appmenu-nova-update-link = Reinitialisa pro actualisar
 appmenu-nova-fxa-sign-in = Aperir session
 appmenu-nova-switch-device-promo =
