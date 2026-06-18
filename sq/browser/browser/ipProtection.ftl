@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Ju paraqesim VPN-në, tanimë drejt e nga brenda shfletuesit tuaj
+ipprotection-feature-introduction-title-1 = Provoni VPN-në e brendshme të { -brand-product-name }-it
 ipprotection-feature-introduction-link-text-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
 ipprotection-feature-introduction-button-primary = Pasuesja
@@ -33,12 +34,16 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Jo, faleminderit
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Jo, faleminderit
+ipprotection-feature-introduction-button-get-started = Fillojani
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Zgjidhni se ku përdorni VPN
 ipprotection-site-settings-callout-subtitle = Çaktivizoni VPN-në për një sajt specifik dhe do ta mbajmë mend herës tjetër që e vizitoni.
 ipprotection-site-settings-callout-button = E mora vesh
+
+## Location selection callout
+
 
 ## Panel
 
@@ -73,6 +78,9 @@ ipprotection-connection-status-excluded-1 = VPN-ja është e mbyllur për këtë
     .aria-label = VPN-ja është e mbyllur për këtë sajt
 ipprotection-connection-status-connecting-1 = VPN-ja po lidhet…
     .aria-label = VPN-ja po lidhet…
+
+## Location controls
+
 
 ## VPN paused state
 

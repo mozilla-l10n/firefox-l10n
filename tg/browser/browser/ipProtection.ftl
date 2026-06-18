@@ -33,6 +33,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Тоза кардани «VPN» аз навори абзорҳо
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Тоза кардани «VPN» аз навори абзорҳо
+ipprotection-feature-introduction-button-get-started = Оғози кор
 
 ## Site settings callout
 
@@ -109,6 +110,12 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = «VPN» барои �
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар
@@ -123,9 +130,15 @@ ip-protection-autostart-private-checkbox =
 ip-protection-exceptions-dialog-window =
     .title = Идоракунии танзимоти сомона
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

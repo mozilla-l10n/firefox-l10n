@@ -78,12 +78,16 @@ pane-appearance-title = Apparentia
     .title = { pane-appearance-title }
 pane-downloads-title2 = Discargamentos
     .title = Discargamentos
+pane-downloads3 =
+    .heading = Discargamentos
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accessibilitate
     .title = { pane-accessibility-title }
 pane-languages-title2 = Linguas
     .title = Linguas
+preferences-languages-header3 =
+    .heading = Linguas
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2648,6 +2652,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Blocar
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Controlos de IA
 
 ## Privacy and security status card
 

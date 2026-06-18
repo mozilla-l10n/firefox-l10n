@@ -78,12 +78,16 @@ pane-appearance-title = Görünüm
     .title = { pane-appearance-title }
 pane-downloads-title2 = İndirilenler
     .title = İndirilenler
+pane-downloads3 =
+    .heading = İndirilenler
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Erişilebilirlik
     .title = { pane-accessibility-title }
 pane-languages-title2 = Diller
     .title = Diller
+preferences-languages-header3 =
+    .heading = Diller
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2645,6 +2649,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Engelle
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Yapay zekâ kontrolleri
 
 ## Privacy and security status card
 

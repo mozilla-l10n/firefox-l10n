@@ -89,11 +89,6 @@ download-save-files-header =
     .label = Bolokela difaele ko
 download-save-where-3 =
     .aria-label = Bolokela difaele ko
-downloads-header-2 =
-    .label = Dikopololo
-download-save-where-2 =
-    .label = Bolokela difaele ko
-    .accesskey = B
 download-header = Dikopololo
 download-save-where = Bolokela difaele ko
     .accesskey = B
@@ -387,5 +382,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 

@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = 向您介紹直接內建於瀏覽器的 VPN 功能
+ipprotection-feature-introduction-title-1 = 試用 { -brand-product-name } 的內建 VPN
 ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料。
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 加上一層隱私保護
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = 自工具列移除 VPN
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 自工具列移除 VPN
+ipprotection-feature-introduction-button-get-started = 開始使用
 
 ## Site settings callout
 

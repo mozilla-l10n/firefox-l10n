@@ -24,6 +24,7 @@ ipprotection-title = ВПН
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Представљамо ВПН, сада директно у вашем прегледачу
+ipprotection-feature-introduction-title-1 = Испробајте { -brand-product-name } уграђени ВПН
 ipprotection-feature-introduction-link-text-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Додајте још један слој приватности
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Уклоните ВПН из траке са алаткама
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Уклоните ВПН из траке са алаткама
+ipprotection-feature-introduction-button-get-started = Крените
 
 ## Site settings callout
 

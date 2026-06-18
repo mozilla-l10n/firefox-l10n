@@ -78,12 +78,16 @@ pane-appearance-title = Изглед
     .title = { pane-appearance-title }
 pane-downloads-title2 = Преузимања
     .title = Преузимања
+pane-downloads3 =
+    .heading = Преузимања
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Приступачност
     .title = { pane-accessibility-title }
 pane-languages-title2 = Језици
     .title = Језици
+preferences-languages-header3 =
+    .heading = Језици
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2733,6 +2737,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Блокирај
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = ВИ контроле
 
 ## Privacy and security status card
 

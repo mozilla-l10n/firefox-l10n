@@ -20,6 +20,7 @@ ipprotection-experiment-badge =
 
 ## Buttons used for all feature introduction callouts
 
+ipprotection-feature-introduction-title-1 = VPN منی { -brand-product-name } ن امتهووݩ کۊنین
 ipprotection-feature-introduction-button-primary = بئڌی
 ipprotection-feature-introduction-button-secondary-not-now = سکو ن
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -27,11 +28,15 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = ن ممنووݩ
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = ن ممنووݩ
+ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = پسند کۊنین ک VPN ن کوینا و کار اگیرین
 ipprotection-site-settings-callout-button = فئمیم
+
+## Location selection callout
+
 
 ## Panel
 
@@ -67,6 +72,9 @@ ipprotection-connection-status-excluded-1 = VPN سی ای وبگه کۊر هڌ
 ipprotection-connection-status-connecting-1 = VPN هونی منپیز ابۊ…
     .aria-label = VPN هونی منپیز ابۊ…
 
+## Location controls
+
+
 ## VPN paused state
 
 upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
@@ -76,6 +84,12 @@ upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
 ipprotection-connection-status-network-error-title-1 = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
     .aria-label = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -93,9 +107,15 @@ ip-protection-autostart-private-checkbox =
 ip-protection-exceptions-dialog-window =
     .title = دؽوۉداری سامووا وبگه
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

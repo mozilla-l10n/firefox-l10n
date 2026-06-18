@@ -78,12 +78,16 @@ pane-appearance-title = Napohlad
     .title = { pane-appearance-title }
 pane-downloads-title2 = Sćehnjenja
     .title = Sćehnjenja
+pane-downloads3 =
+    .heading = Sćehnjenja
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Bjezbarjernosć
     .title = { pane-accessibility-title }
 pane-languages-title2 = Rěče
     .title = Rěče
+preferences-languages-header3 =
+    .heading = Rěče
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2656,6 +2660,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Blokować
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Wodźenske elementy KI
 
 ## Privacy and security status card
 

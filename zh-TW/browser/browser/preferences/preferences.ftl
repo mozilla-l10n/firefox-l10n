@@ -78,12 +78,16 @@ pane-appearance-title = 外觀設定
     .title = { pane-appearance-title }
 pane-downloads-title2 = 下載
     .title = 下載
+pane-downloads3 =
+    .heading = 下載
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = 輔助功能
     .title = { pane-accessibility-title }
 pane-languages-title2 = 語言
     .title = 語言
+preferences-languages-header3 =
+    .heading = 語言
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2636,6 +2640,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = 封鎖
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = AI 控制
 
 ## Privacy and security status card
 

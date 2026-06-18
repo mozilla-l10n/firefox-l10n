@@ -78,12 +78,16 @@ pane-appearance-title = Gwedd
     .title = { pane-appearance-title }
 pane-downloads-title2 = Llwythi
     .title = Llwythi
+pane-downloads3 =
+    .heading = Llwythi
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Hygyrchedd
     .title = { pane-accessibility-title }
 pane-languages-title2 = Iaith
     .title = Iaith
+preferences-languages-header3 =
+    .heading = Iaith
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2664,6 +2668,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Rhwystro
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Rheoli AI
 
 ## Privacy and security status card
 

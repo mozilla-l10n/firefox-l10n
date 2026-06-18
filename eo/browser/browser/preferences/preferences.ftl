@@ -78,12 +78,16 @@ pane-appearance-title = Aspekto
     .title = { pane-appearance-title }
 pane-downloads-title2 = Elŝutoj
     .title = Elŝutoj
+pane-downloads3 =
+    .heading = Elŝutoj
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Alirebleco
     .title = { pane-accessibility-title }
 pane-languages-title2 = Lingvoj
     .title = Lingvoj
+preferences-languages-header3 =
+    .heading = Lingvoj
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2626,6 +2630,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Bloki
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Regiloj de AI
 
 ## Privacy and security status card
 

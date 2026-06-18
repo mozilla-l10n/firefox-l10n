@@ -78,12 +78,16 @@ pane-appearance-title = Aspect
     .title = { pane-appearance-title }
 pane-downloads-title2 = Descărcări
     .title = Descărcări
+pane-downloads3 =
+    .heading = Descărcări
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Accesibilitate
     .title = { pane-accessibility-title }
 pane-languages-title2 = Limbi
     .title = Limbi
+preferences-languages-header3 =
+    .heading = Limbi
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2649,6 +2653,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Comenzi AI
 
 ## Privacy and security status card
 

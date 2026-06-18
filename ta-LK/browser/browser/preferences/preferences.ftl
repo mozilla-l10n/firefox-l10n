@@ -68,11 +68,6 @@ download-save-files-header =
     .label = கோப்புகளை இங்கே சேமிக்க
 download-save-where-3 =
     .aria-label = கோப்புகளை இங்கே சேமிக்க
-downloads-header-2 =
-    .label = பதிவிறக்கங்கள்
-download-save-where-2 =
-    .label = கோப்புகளை இங்கே சேமிக்க
-    .accesskey = v
 download-header = பதிவிறக்கங்கள்
 download-save-where = கோப்புகளை இங்கே சேமிக்க
     .accesskey = v
@@ -357,5 +352,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 

@@ -72,11 +72,6 @@ download-save-files-header =
     .label = Kubika dosiye mu
 download-save-where-3 =
     .aria-label = Kubika dosiye mu
-downloads-header-2 =
-    .label = Ibyakuruwe
-download-save-where-2 =
-    .label = Kubika dosiye mu
-    .accesskey = K
 download-header = Ibyakuruwe
 download-save-where = Kubika dosiye mu
     .accesskey = K
@@ -349,5 +344,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 

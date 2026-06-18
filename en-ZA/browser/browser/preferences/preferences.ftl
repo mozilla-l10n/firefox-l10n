@@ -103,11 +103,6 @@ download-save-files-header =
     .label = Save files to
 download-save-where-3 =
     .aria-label = Save files to
-downloads-header-2 =
-    .label = Downloads
-download-save-where-2 =
-    .label = Save files to
-    .accesskey = v
 download-header = Downloads
 download-save-where = Save files to
     .accesskey = v
@@ -527,5 +522,4 @@ preferences-ai-controls-header2 =
 
 
 ## Warnings section
-
 

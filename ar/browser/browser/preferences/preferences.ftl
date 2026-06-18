@@ -78,12 +78,16 @@ pane-appearance-title = المظهر
     .title = { pane-appearance-title }
 pane-downloads-title2 = التنزيلات
     .title = التنزيلات
+pane-downloads3 =
+    .heading = التنزيلات
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = الإتاحة
     .title = { pane-accessibility-title }
 pane-languages-title2 = اللغات
     .title = اللغات
+preferences-languages-header3 =
+    .heading = اللغات
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2652,6 +2656,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = أنظمة التحكم بالذكاء الاصطناعي
 
 ## Privacy and security status card
 

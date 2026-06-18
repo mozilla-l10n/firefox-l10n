@@ -78,12 +78,16 @@ pane-appearance-title = Aspiet
     .title = { pane-appearance-title }
 pane-downloads-title2 = Discjariâts
     .title = Discjariâts
+pane-downloads3 =
+    .heading = Discjariâts
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Acès facilitât
     .title = { pane-accessibility-title }
 pane-languages-title2 = Lenghis
     .title = Lenghis
+preferences-languages-header3 =
+    .heading = Lenghis
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2550,11 +2554,17 @@ connection-dns-over-https-url-item =
     .label = { $name }
     .tooltiptext = Dopre chest furnidôr pe risoluzion DNS sore HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2614,8 +2624,16 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Bloche
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Controi IA
+
+## Privacy and security status card
+
 
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
+
+## Warnings section
+

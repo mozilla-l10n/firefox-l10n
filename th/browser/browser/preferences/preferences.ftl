@@ -78,12 +78,16 @@ pane-appearance-title = รูปลักษณ์
     .title = { pane-appearance-title }
 pane-downloads-title2 = ดาวน์โหลด
     .title = ดาวน์โหลด
+pane-downloads3 =
+    .heading = ดาวน์โหลด
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = การช่วยเข้าถึง
     .title = { pane-accessibility-title }
 pane-languages-title2 = ภาษา
     .title = ภาษา
+preferences-languages-header3 =
+    .heading = ภาษา
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2629,6 +2633,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = ปิดกั้น
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = ส่วนควบคุม AI
 
 ## Privacy and security status card
 

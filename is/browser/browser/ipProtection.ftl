@@ -28,6 +28,7 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Nei takk
+ipprotection-feature-introduction-button-get-started = Hefjast handa
 
 ## Site settings callout
 
@@ -81,6 +82,15 @@ ipprotection-connection-status-paused-description-1 = Þú hefur notað öll { $
 ipprotection-connection-status-paused-title-2 = VPN er í biðstöðu
     .aria-label = VPN er í biðstöðu
 
+## Messages and errors
+
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Frekari upplýsingar
@@ -111,6 +121,12 @@ ip-protection-exceptions-dialog-window =
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

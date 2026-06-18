@@ -78,12 +78,16 @@ pane-appearance-title = Εμφάνιση
     .title = { pane-appearance-title }
 pane-downloads-title2 = Λήψεις
     .title = Λήψεις
+pane-downloads3 =
+    .heading = Λήψεις
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Προσβασιμότητα
     .title = { pane-accessibility-title }
 pane-languages-title2 = Γλώσσες
     .title = Γλώσσες
+preferences-languages-header3 =
+    .heading = Γλώσσες
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2633,6 +2637,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Αποκλεισμός
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Επιλογές ελέγχου ΤΝ
 
 ## Privacy and security status card
 

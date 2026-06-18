@@ -78,12 +78,16 @@ pane-appearance-title = Itxura
     .title = { pane-appearance-title }
 pane-downloads-title2 = Deskargak
     .title = Deskargak
+pane-downloads3 =
+    .heading = Deskargak
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Erabilgarritasuna
     .title = { pane-accessibility-title }
 pane-languages-title2 = Hizkuntzak
     .title = Hizkuntzak
+preferences-languages-header3 =
+    .heading = Hizkuntzak
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2648,6 +2652,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Blokeatu
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = AA kontrolak
 
 ## Privacy and security status card
 

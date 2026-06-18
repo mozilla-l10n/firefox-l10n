@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od razu w przeglądarce
+ipprotection-feature-introduction-title-1 = Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Usuń VPN z paska narzędzi
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Usuń VPN z paska narzędzi
+ipprotection-feature-introduction-button-get-started = Zacznij teraz
 
 ## Site settings callout
 

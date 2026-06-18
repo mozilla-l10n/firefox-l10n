@@ -78,12 +78,16 @@ pane-appearance-title = ਦਿੱਖ
     .title = { pane-appearance-title }
 pane-downloads-title2 = ਡਾਊਨਲੋਡ
     .title = ਡਾਊਨਲੋਡ
+pane-downloads3 =
+    .heading = ਡਾਊਨਲੋਡ
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = ਅਸੈੱਸਬਿਲਟੀ
     .title = { pane-accessibility-title }
 pane-languages-title2 = ਭਾਸ਼ਾਵਾਂ
     .title = ਭਾਸ਼ਾਵਾਂ
+preferences-languages-header3 =
+    .heading = ਭਾਸ਼ਾਵਾਂ
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2631,6 +2635,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = ਪਾਬੰਦੀ
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = AI ਕੰਟਰੋਲ
 
 ## Privacy and security status card
 

@@ -78,12 +78,16 @@ pane-appearance-title = 모양
     .title = { pane-appearance-title }
 pane-downloads-title2 = 다운로드
     .title = 다운로드
+pane-downloads3 =
+    .heading = 다운로드
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = 접근성
     .title = { pane-accessibility-title }
 pane-languages-title2 = 언어
     .title = 언어
+preferences-languages-header3 =
+    .heading = 언어
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2632,6 +2636,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = 차단
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = AI 제어
 
 ## Privacy and security status card
 

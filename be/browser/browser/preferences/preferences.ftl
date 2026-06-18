@@ -78,12 +78,16 @@ pane-appearance-title = Выгляд
     .title = { pane-appearance-title }
 pane-downloads-title2 = Сцягванні
     .title = Сцягванні
+pane-downloads3 =
+    .heading = Сцягванні
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Даступнасць
     .title = { pane-accessibility-title }
 pane-languages-title2 = Мовы
     .title = Мовы
+preferences-languages-header3 =
+    .heading = Мовы
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2652,6 +2656,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Блакаваць
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = Кіраванне штучным інтэлектам
 
 ## Privacy and security status card
 

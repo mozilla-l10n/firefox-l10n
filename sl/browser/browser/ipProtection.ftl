@@ -23,6 +23,7 @@ ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
+ipprotection-feature-introduction-title-1 = Preizkusite { -brand-product-name }ov vgrajeni VPN
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Povezani na javni Wi-Fi? Preizkusite { -brand-product-name }ov vgrajeni VPN.
 ipprotection-feature-introduction-button-primary = Naprej
@@ -35,6 +36,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Odstrani VPN iz orodne vrstice
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrani VPN iz orodne vrstice
+ipprotection-feature-introduction-button-get-started = Začni
 
 ## Site settings callout
 
@@ -124,6 +126,9 @@ ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mo
 
 ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si zaščito tudi zunaj { -brand-product-name(sklon: "rodilnik") } z { -mozilla-vpn-brand-name }.
 
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -155,9 +160,15 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

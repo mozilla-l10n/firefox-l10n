@@ -78,12 +78,16 @@ pane-appearance-title = מראה
     .title = { pane-appearance-title }
 pane-downloads-title2 = הורדות
     .title = הורדות
+pane-downloads3 =
+    .heading = הורדות
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = נגישות
     .title = { pane-accessibility-title }
 pane-languages-title2 = שפות
     .title = שפות
+preferences-languages-header3 =
+    .heading = שפות
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2647,6 +2651,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = חסימה
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = בקרי בינה מלאכותית
 
 ## Privacy and security status card
 

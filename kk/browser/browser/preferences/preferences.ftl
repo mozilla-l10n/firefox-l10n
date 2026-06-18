@@ -78,12 +78,16 @@ pane-appearance-title = Сыртқы түрі
     .title = { pane-appearance-title }
 pane-downloads-title2 = Жүктемелер
     .title = Жүктемелер
+pane-downloads3 =
+    .heading = Жүктемелер
 pane-downloads2 =
     .heading = { pane-downloads-title2 }
 pane-accessibility-title = Қолжетімділік
     .title = { pane-accessibility-title }
 pane-languages-title2 = Тілдер
     .title = Тілдер
+preferences-languages-header3 =
+    .heading = Тілдер
 preferences-languages-header2 =
     .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -2632,6 +2636,8 @@ preferences-ai-controls-block-confirmation-confirm =
     .label = Блоктау
 preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
+preferences-ai-controls-header3 =
+    .heading = ЖИ басқару элементтері
 
 ## Privacy and security status card
 
