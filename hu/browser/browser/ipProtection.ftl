@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
+ipprotection-feature-introduction-title-1 = Próbálja ki a { -brand-product-name } beépített VPN-jét
 ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvédelmi réteget
@@ -45,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN eltávolítása az eszköztárról
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN eltávolítása az eszköztárról
+ipprotection-feature-introduction-button-get-started = Kezdő lépések
 
 ## Site settings callout
 
