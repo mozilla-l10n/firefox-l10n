@@ -31,6 +31,8 @@ ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy-3 = ניתן לקבל <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> על־ידי בחירה מבין מספר מיקומים להסתרת המקום שממנו מתבצעת הגלישה.
+ipprotection-feature-introduction-text-summer-promo-1 = ניתן להפעיל אותו כדי לגלוש בפרטיות רבה יותר. <a data-l10n-name="summer-promo-link">קבלו רוחב פס בלתי מוגבל</a> ויותר מיקומים לגלישה מהם. מעכשיו ועד 31 באוגוסט.
+ipprotection-feature-introduction-title-summer-promo = מתכננים לטייל? קחו את הפרטיות שלכם איתכם.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
 # Used for callout shown on login to public wi-fi through a captive portal
