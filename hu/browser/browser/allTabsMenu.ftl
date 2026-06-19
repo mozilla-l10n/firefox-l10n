@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Új konténerlap
 all-tabs-menu-hidden-tabs =
     .label = Rejtett lapok
+all-tabs-menu-close-duplicate-tabs =
+    .label = Ismétlődő lapok bezárása
 all-tabs-menu-manage-user-context =
     .label = Konténerek kezelése
     .accesskey = O
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Lapcsoportok
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Összes lap keresése
