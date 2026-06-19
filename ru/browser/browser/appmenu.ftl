@@ -18,6 +18,11 @@ appmenuitem-banner-update-restart =
 # Fresh Firefox refers to the new updated UI
 appmenu-nova-update-promo =
     .message = Получите новый { -brand-short-name }. Сохраните все ваши вкладки.
+appmenu-nova-update-link = Перезапустить для обновления
+appmenu-nova-fxa-sign-in = Войти
+appmenu-nova-switch-device-promo =
+    .message = Скоро появится новое устройство? Возьмите { -brand-short-name } с собой!
+appmenu-nova-switch-device-link = Как перенести ваши данные
 appmenuitem-new-tab =
     .label = Новая вкладка
 appmenuitem-new-window =
