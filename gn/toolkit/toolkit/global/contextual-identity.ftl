@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Guerekoha ñangarekohára
     .accesskey = o
+user-context-new-tab =
+    .label = Tendayke pyahu
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

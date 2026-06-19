@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Aravo
 time-spinner-minute-label =
     .aria-label = Aravo’i
+time-spinner-second-label =
+    .aria-label = Aravo’ive
+time-spinner-millisecond-label =
+    .aria-label = Aravo’ieteve
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Aravo’i ohasaramóva
 time-spinner-minute-next =
     .aria-label = Aravo’i og̃uahẽtava
+time-spinner-second-previous =
+    .aria-label = Aravo’ive ohasaramóva
+time-spinner-second-next =
+    .aria-label = Aravo’ive oútava
+time-spinner-millisecond-previous =
+    .aria-label = Aravo’ieteve ohasaramóva
+time-spinner-millisecond-next =
+    .aria-label = Aravo’ieteve oútava
 time-spinner-day-period-previous =
     .aria-label = Ara ohasaramóva pukukue
 time-spinner-day-period-next =

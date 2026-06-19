@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Arapapaha
+datetime-time =
+    .aria-label = Aravo
