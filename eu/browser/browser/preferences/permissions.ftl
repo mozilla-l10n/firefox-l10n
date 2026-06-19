@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz
 permissions-exceptions-shutdown-clearing-window =
     .title = Salbuespenak - Garbitu historia itzaltzean
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Datuak mantenduko dituzten webguneak zehaztu ditzakezu { -brand-short-name }(e)k ixtean historia garbitzen duenerako. Idatzi kudeatu nahi duzun gunearen helbide zehatza eta egin klik 'Baimendu' botoian.
 
 ## Exceptions - HTTPS-Only Mode
 
