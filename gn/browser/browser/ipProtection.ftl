@@ -46,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Embogue VPN tembiporu rupágui
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Embogue VPN tembiporu rupágui
+ipprotection-feature-introduction-button-open-vpn = Embojuruja VPN
 ipprotection-feature-introduction-button-get-started = Eñepyrũ
 
 ## Site settings callout
@@ -159,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Emboheko VPN ikatu hag̃uáicha hendy</a> oñembojuruja nove { -brand-short-name } peteĩ ñemo’ãverã.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } imandu’áta mba’e ñanduti roguépa oñemboheko oiporu hag̃ua VPN. Embohekopyahu <a data-l10n-name="setting-link">ñemboheko</a> ejapose vove.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
+ipprotection-open-button = Embojuruja { -brand-product-name }
+ipprotection-come-back-title = Ejevy eiporu hag̃ua VPN jehe’apype
 ipprotection-connection-status-generic-error-title-1 = Ndaikatúi eike VPN-pe
     .aria-label = Ndaikatúi eike VPN-pe
 

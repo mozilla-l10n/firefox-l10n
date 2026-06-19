@@ -41,3 +41,6 @@ content-sharing-modal-no-shareable-links =
     .heading = Ndaipóri juajuha emoherakuã hag̃ua
     .message = Emoherakuãkuaa juajuha ñanduti retepýpe añoite.
 content-sharing-modal-some-invalid-links = Oĩ juajuha emoherakuãkuaa’ỹva.
+content-sharing-modal-generic-error-2 =
+    .heading = Oĩvaicha osẽvaíva
+    .message = Nde kuatiarogue moherakuãpyre noñemoheñói gueteri. Eha’ã jey ag̃ave.

@@ -295,6 +295,14 @@ launch-on-login-infobar-final-message = <strong>¿Embojuruja { -brand-short-name
 launch-on-login-infobar-final-reject-button = Nahániri, aguyje
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = ¿Embjuruja { -brand-short-name } emyandývo ne mohendaha?
+launch-on-login-spotlight-startup-checkbox = Emoñepyrũ { -brand-short-name } eku’évo
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.

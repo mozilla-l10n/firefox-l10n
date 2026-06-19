@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Megadhatja mely webhelyek nem használhatnak soha sütiket és oldaladatokat, illetve melyek használhatnak mindig. Írja be a kezelendő oldal pontos címét, majd kattintson a Tiltás, Engedélyezés a munkamenetben, vagy az Engedélyezés gombra.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Kivételek – előzmények törlése leállításkor
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Megadhatja azokat a webhelyeket, amelyekről akkor is megtartja az adatokat, ha a { -brand-short-name } bezáráskor törli az előzményeket. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

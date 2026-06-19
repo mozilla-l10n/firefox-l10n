@@ -20,6 +20,7 @@ customkeys-history-reopen-window = Eipe’a jey tendayke oñembotyramóva
 customkeys-sidebar-toggle = Emyandy térã embogue tenda yke
 customkeys-view-bookmarks-toolbar = Embojopyru techaukaha rembiporu renda
 customkeys-view-picture-in-picture = Picture-in-picture
+customkeys-view-add-split-view = Embojuaju jehecha pehẽmbyre
 customkeys-dev-tools = Mboguatahára rembiporu
 customkeys-dev-inspector = DOM ha Moambuekuaáva mbohekoha
 customkeys-dev-webconsole = Mba’e’okarupa

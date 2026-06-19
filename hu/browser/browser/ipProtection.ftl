@@ -166,6 +166,7 @@ ipprotection-message-continuous-onboarding-site-settings = A { -brand-short-name
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN ki van kapcsolva ezen a webhelyen
 ipprotection-open-button = A { -brand-product-name } megnyitása
 ipprotection-come-back-title = Térjen vissza, és próbálja ki a beépített VPN-t
+ipprotection-message-body-hide-location = Rejtse el a tartózkodási helyét a { -brand-product-name } böngészőben a nagyobb adatvédelem és irányítás érdekében.
 ipprotection-connection-status-generic-error-title-1 = Nem sikerült kapcsolódni a VPN-hez
     .aria-label = Nem sikerült kapcsolódni a VPN-hez
 
@@ -235,6 +236,11 @@ ip-protection-exclusions-desc = VPN használata az összes webhelyhez, kivéve a
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB / { $maxUsage } GB maradt ebben a hónapban
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> / { $maxUsage } GB maradt
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -243,6 +249,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB / { $maxUsage } GB maradt
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB / { $maxUsage } GB maradt ebben a hónapban
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> / { $maxUsage } GB maradt
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
