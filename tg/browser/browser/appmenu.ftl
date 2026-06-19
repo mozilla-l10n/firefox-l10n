@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Навсозӣ намешавад — низом мувофиқат намекунад
 appmenuitem-banner-update-restart =
     .label = Навсозӣ дастрас аст — ҳозир браузерро аз нав оғоз кунед
+appmenu-nova-fxa-sign-in = Ворид шудан
 appmenuitem-new-tab =
     .label = Варақаи нав
 appmenuitem-new-window =

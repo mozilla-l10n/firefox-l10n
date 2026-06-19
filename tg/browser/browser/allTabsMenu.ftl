@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Варақаи нави дарбаргиранда
 all-tabs-menu-hidden-tabs =
     .label = Варақаҳои пинҳоншуда
+all-tabs-menu-close-duplicate-tabs =
+    .label = Пӯшидани варақаҳои такрорӣ
 all-tabs-menu-manage-user-context =
     .label = Идоракунии дарбаргирандаҳо
     .accesskey = И
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Гурӯҳҳои варақаҳо
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Ҷустуҷӯ дар ҳамаи варақаҳо
