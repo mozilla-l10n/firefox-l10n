@@ -29,6 +29,10 @@ ipprotection-feature-introduction-link-text-2 = Utilizar nuestra nueva <a data-l
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Agrega otra capa de privacidad
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre varias ubicaciones para mantener una mayor privacidad al navegar.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te protege mientras navegas. Escoge entre múltiples ubicaciones virtuales para mantener tu ubicación real privada.
+ipprotection-feature-introduction-link-text-privacy-3 = Obtén <a data-l10n-name="learn-more-vpn">mayor privacidad</a> eligiendo entre múltiples ubicaciones para ocultar el lugar donde navegas.
+ipprotection-feature-introduction-text-summer-promo-1 = Actívala para mayor privacidad al navegar. <a data-l10n-name="summer-promo-link">Obtén ancho de banda ilimitado</a> y más opciones de ubicación virtual para navegar. Disponible hasta el 31 de agosto.
+ipprotection-feature-introduction-title-summer-promo = ¿Tienes planes de viaje? Viaja con privacidad.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos, incluso si estás en una ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navega con protección extra ocultando tu ubicación, incluso cuando estés en una ventana privada.
 # Used for callout shown on login to public wi-fi through a captive portal

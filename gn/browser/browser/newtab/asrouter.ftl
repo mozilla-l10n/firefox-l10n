@@ -302,6 +302,12 @@ launch-on-login-infobar-final-reject-button = Nahániri, aguyje
 
 launch-on-login-spotlight-title = ¿Embjuruja { -brand-short-name } emyandývo ne mohendaha?
 launch-on-login-spotlight-startup-checkbox = Emoñepyrũ { -brand-short-name } eku’évo
+launch-on-login-spotlight-pin-taskbar-checkbox = Embojuaju tembiaporã rupáre
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Embojuruja ovetã ha tendayke ymavegua
+launch-on-login-spotlight-primary-button = Eñongatu ha emboty { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -468,3 +474,10 @@ relay-50-masks-announcement-primary-button = Eike { -relay-brand-name }-pe
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Emboyke
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Emoherakuã ne remiandu
+    .accesskey = S
+nova-early-access-infobar-primary-button = Aikũmby
+    .accesskey = G
