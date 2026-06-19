@@ -23,6 +23,7 @@ ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
+ipprotection-feature-introduction-description-captive-portal = Аз тамошобинӣ бо муҳофизати иловагӣ тавассути пинҳон кардани ҷойгиршавии худ, ҳатто дар шабакаҳои ҷамъиятии «Wi-Fi» истифода баред.
 ipprotection-feature-introduction-button-primary = Навбатӣ
 ipprotection-feature-introduction-button-secondary-not-now = Ҳоло не
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =

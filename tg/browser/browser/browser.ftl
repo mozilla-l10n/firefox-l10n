@@ -410,6 +410,8 @@ quickactions-cmd-help = кумак, дастгирӣ
 # Opens the devtools web inspector
 quickactions-inspector2 = Кушодани абзорҳои барномарезӣ
 quickactions-cmd-inspector2 = тафтишкунанда, абзорҳои барномарезӣ, inspector, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Рангеро интихоб кунед
 # Opens Firefox Library
 quickactions-cmd-library = китобхона
 quickactions-library = Кушодани китобхона
@@ -460,6 +462,8 @@ quickactions-cmd-update = навсозӣ кардан
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Дидани манбаи саҳифа
 quickactions-cmd-viewsource2 = дидани манбаъ, манбаъ, манбаи саҳифа, view source, source, page source
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Кушодани «{ -firefoxlabs-brand-name }»
 quickactions-cmd-viewsource = намоиши манбаъ, манбаъ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
