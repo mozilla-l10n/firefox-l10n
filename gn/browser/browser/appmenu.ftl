@@ -15,6 +15,11 @@ appmenuitem-banner-update-unsupported =
     .label = Ndaikatúi embohekopyahu — ndojokupytýi apopyvusu
 appmenuitem-banner-update-restart =
     .label = Eiporukuaáma ñembohekopyahu — Emoñepyrũjey ko’ág̃a
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Ehupyty { -brand-short-name } pyahu. Eñongatu opaite ne rendayke.
+appmenu-nova-update-link = Emoñepyrũjey embohekopyahu hag̃ua
+appmenu-nova-fxa-sign-in = Eñepyrũ tembiapo
 appmenuitem-new-tab =
     .label = Tendayke pyahu
 appmenuitem-new-window =
