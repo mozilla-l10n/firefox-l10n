@@ -1083,7 +1083,7 @@ newtab-sports-widget-show-less =
 newtab-sports-widget-followed-only-toggle =
     .label = Seules les équipes suivies
 # Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Chargement des autres occurrences…
+newtab-sports-widget-loading-more = Chargement des autres matchs…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Regarder
@@ -1165,7 +1165,7 @@ newtab-sports-widget-champions = Champions
 newtab-sports-widget-world-cup-champions = Champions du monde 2026
 # Compact champions label for the medium-size widget result card; the larger
 # card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Championnes 2026
+newtab-sports-widget-world-cup-champions-short = Champions 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }

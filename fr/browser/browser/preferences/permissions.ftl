@@ -91,7 +91,7 @@ permissions-exceptions-cookie-desc = Vous pouvez indiquer les sites web qui sont
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Exceptions - Effacez l’historique à la fermeture
+    .title = Exceptions - Effacer l’historique à la fermeture
     .style = { permissions-window2.style }
 permissions-exceptions-shutdown-clearing-desc = Vous pouvez spécifier quels sites web conserveront leurs données lorsque { -brand-short-name } efface l’historique à la fermeture. Saisissez l’adresse exacte du site que vous souhaitez gérer puis cliquez sur Autoriser.
 
