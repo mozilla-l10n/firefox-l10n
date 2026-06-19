@@ -31,6 +31,9 @@ ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geru
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-3 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktiba ezazu zure nabigazioa pribatuago mantentzeko. <a data-l10n-name="summer-promo-link">Eskuratu banda-zabalera mugagabea</a> eta nabigatu beharreko kokapen gehiago. Orain abuztuaren 31ra arte.
+ipprotection-feature-introduction-title-summer-promo = Bidaia-planak dituzu? Eraman pribatutasuna alboan.
+ipprotection-feature-introduction-description-summer-promo = Joan urrutirago { -brand-product-name }(r)en integratutako VPNarekin: kokapen gehiago, banda-zabalera mugagabea. Orain abuztuaren 31ra arte.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -164,6 +167,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
 ipprotection-open-button = Ireki { -brand-product-name }
 ipprotection-come-back-title = Itzuli integratutako VPNa probatzeko
+ipprotection-message-body-hide-location = Ezkutatu zure kokapena { -brand-product-name }(e)n nabigatzean pribatutasun eta kontrol gehiagorako.
 ipprotection-connection-status-generic-error-title-1 = Ezin da VPNra konektatu
     .aria-label = Ezin da VPNra konektatu
 
@@ -233,6 +237,11 @@ ip-protection-exclusions-desc = Erabili VPNa webgune guztientzat zerrenda honeta
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB falta dituzu hilabeteko { $maxUsage } GBtik
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> faltan { $maxUsage } GBtik
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -241,6 +250,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB faltan { $maxUsage } GBtik
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB falta dituzu hilabeteko { $maxUsage } MBtik
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> faltan { $maxUsage } GBtik
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

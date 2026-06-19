@@ -88,6 +88,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz ez erabiltzeko baimena duten webguneak zehatz ditzakezu. Idatzi kudeatu nahi duzun gunearen helbide zehatza eta egin klik 'Blokeatu', 'Baimendu saiorako' edo 'Baimendu' botoian.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Salbuespenak - Garbitu historia itzaltzean
+    .style = { permissions-window2.style }
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

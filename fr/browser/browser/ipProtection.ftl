@@ -29,8 +29,8 @@ ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ajoutez une couche supplémentaire de confidentialité
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez parmi plusieurs emplacements pour renforcer la confidentialité de vos activités en ligne.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN intégré de { -brand-product-name }</a> vous aide à protéger votre navigation. Choisissez parmi plusieurs emplacements pour garder une navigation plus privée.
-ipprotection-feature-introduction-link-text-privacy-3 = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi plusieurs emplacements où vous masquer vos pages.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez parmi plusieurs emplacements pour renforcer la confidentialité de vos activités en ligne.
+ipprotection-feature-introduction-link-text-privacy-3 = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi plusieurs emplacements pour dissimuler votre localisation.
 ipprotection-feature-introduction-text-summer-promo-1 = Activez-le pour une navigation plus privée. <a data-l10n-name="summer-promo-link">Obtenez une bande passante illimitée</a> et la possibilité de naviguer depuis davantage de lieux. Maintenant jusqu’au 31 août.
 ipprotection-feature-introduction-title-summer-promo = Vous avez des projets de voyage ? Emportez votre vie privée avec vous.
 ipprotection-feature-introduction-description-summer-promo = Allez plus loin avec le VPN intégré de { -brand-product-name } : plus d’emplacements, une bande passante illimitée. Maintenant jusqu’au 31 août.
