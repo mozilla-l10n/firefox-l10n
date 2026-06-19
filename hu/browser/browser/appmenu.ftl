@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Nem lehet frissíteni – a rendszer nem kompatibilis
 appmenuitem-banner-update-restart =
     .label = Frissítés érhető el – újraindítás most
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Szerezzen be friss { -brand-short-name } böngészőt. Tartsa meg az összes lapját.
+appmenu-nova-update-link = Újraindítás a frissítéshez.
+appmenu-nova-fxa-sign-in = Bejelentkezés
+appmenu-nova-switch-device-promo =
+    .message = Hamarosan új eszközt kap? Vigye magával a { -brand-short-name } böngészőt!
+appmenu-nova-switch-device-link = Hogyan költöztesse át az adatait
 appmenuitem-new-tab =
     .label = Új lap
 appmenuitem-new-window =

@@ -29,6 +29,10 @@ ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-n
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvédelmi réteget
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
+ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">{ -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
+ipprotection-feature-introduction-link-text-privacy-3 = Kapjon <a data-l10n-name="learn-more-vpn">további adatvédelmet</a> azáltal, hogy választ több hely közül, hogy elrejtse a böngészési helyét.
+ipprotection-feature-introduction-title-summer-promo = Utazási tervei vannak? Vigye magával az adatvédelmet.
+ipprotection-feature-introduction-description-summer-promo = Jusson tovább a { -brand-product-name } beépített VPN-jével: több hely, korlátlan sávszélesség. Mostantól augusztus 31-ig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +50,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN eltávolítása az eszköztárról
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN eltávolítása az eszköztárról
+ipprotection-feature-introduction-button-open-vpn = VPN megnyitása
 ipprotection-feature-introduction-button-get-started = Kezdő lépések
 
 ## Site settings callout
