@@ -18,6 +18,11 @@ appmenuitem-banner-update-restart =
 # Fresh Firefox refers to the new updated UI
 appmenu-nova-update-promo =
     .message = Hol Sie sich einen neuen { -brand-short-name }. Behalten Sie alle Ihre Tabs.
+appmenu-nova-update-link = Zum Update neu starten
+appmenu-nova-fxa-sign-in = Anmelden
+appmenu-nova-switch-device-promo =
+    .message = Erhalten Sie bald ein neues Gerät? Nehmen Sie { -brand-short-name } mit!
+appmenu-nova-switch-device-link = So übernehmen Sie Ihre Daten
 appmenuitem-new-tab =
     .label = Neuer Tab
 appmenuitem-new-window =
