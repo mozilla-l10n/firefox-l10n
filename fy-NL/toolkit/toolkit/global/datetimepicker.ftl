@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Oere
 time-spinner-minute-label =
     .aria-label = Minút
+time-spinner-second-label =
+    .aria-label = Sekonde
+time-spinner-millisecond-label =
+    .aria-label = Millisekonde
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
