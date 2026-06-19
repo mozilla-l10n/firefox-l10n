@@ -50,3 +50,13 @@ more-from-moz-solo-title-2 = Сомонасоз дар асоси «{ -solo-ai-b
 more-from-moz-mdn-description = Омӯзиши сомонасозӣ ва коркарди веб бо истифода аз дастурҳо ва тавсияҳои ройгон ва ҳамаҷониба.
 more-from-moz-mdn-button = Омӯзиши сомонасозӣ ва коркарди веб
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = Ба даст овардани «{ -monitor-brand-short-name }»
+more-from-moz-mozilla-vpn-box-link =
+    .label = Ба даст овардани «{ -mozilla-vpn-brand-name }»
+more-from-moz-firefox-relay-box-link =
+    .label = Ба даст овардани «{ -relay-brand-short-name }»

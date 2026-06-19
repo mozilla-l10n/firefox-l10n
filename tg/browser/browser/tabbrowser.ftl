@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = Танзимоти { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Хомӯш кардани садо дар варақа
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Бесадо кардан
+    .accesskey = Б
 tabbrowser-context-unmute-tab =
     .label = Фаъол кардани садо дар варақа
     .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Фаъол кардани садо
+    .accesskey = Ф
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Хомӯш кардани садо дар варақаҳо
@@ -263,6 +269,14 @@ tab-context-unnamed-group =
     .label = Гурӯҳи беном
 tab-group-name-default = Гурӯҳи беном
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Гурӯҳҳои варақаҳо
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -335,6 +349,14 @@ tab-group-overflow-count-tooltip =
         [one] { $tabCount } варақаи дигар
        *[other] { $tabCount } варақаи дигар
     }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-button = Эҷод кардани гурӯҳи варақаҳо
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Гурӯҳи нав
 
 ## Open/saved tab group context menu
 

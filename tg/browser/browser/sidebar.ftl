@@ -70,6 +70,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Баркушодани навори ҷонибӣ ҳангоми гузоштани нишондиҳандаи муш ба болои он
+sidebar-customize-extensions-header2 = Васеъшавиҳо
+sidebar-customize-firefox-tools-header2 =
+    .label = Абзорҳо
 
 ## Labels for sidebar context menu items
 
@@ -119,6 +122,10 @@ sidebar-history-context-menu-delete-pages =
 
 ## Labels for sidebar bookmarks context menu items
 
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Таҳрир кардани хатбарак…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Нест кардани хатбарак
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Нест кардан
 
@@ -130,6 +137,11 @@ sidebar-menu-history-label =
     .label = Таърих
 sidebar-menu-synced-tabs-label =
     .label = Варақаҳо аз дастгоҳҳои дигар
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Варақаҳои кушодашуда
 sidebar-menu-bookmarks-label =
     .label = Хатбаракҳо
 sidebar-menu-customize-label =
@@ -176,6 +188,10 @@ sidebar-menu-history-header =
     .heading = Таърих
 sidebar-menu-syncedtabs-header =
     .heading = Варақаҳо аз дастгоҳҳои дигар
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Варақаҳои кушодашуда
 sidebar-menu-cpm-header =
     .heading = Ниҳонвожаҳо
 sidebar-menu-bookmarks-header =
@@ -195,6 +211,25 @@ sidebar-bookmarks-folder-mobile = Хатбаракҳои мобилӣ
 sidebar-customize-title = Фармоишдиҳии навори ҷонибӣ
 sidebar-history-title = Таърих
 sidebar-syncedtabs-title = Варақаҳо аз дастгоҳҳои дигар
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Варақаҳои кушодашуда
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Варақаҳои васлшуда
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Равзанаи { $winID } (ҷорӣ)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Равзанаи { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

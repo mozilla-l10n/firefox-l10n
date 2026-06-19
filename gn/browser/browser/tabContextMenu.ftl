@@ -184,3 +184,7 @@ tab-context-unload-n-tabs =
            *[other] Emboguejy { $tabCount } umi tendayke
         }
     .accesskey = U
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Mboguejy
+    .accesskey = U
