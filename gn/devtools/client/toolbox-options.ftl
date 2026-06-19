@@ -117,6 +117,8 @@ options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Ayvu pypegua
 options-local-mode-domain-label = Mba’eteete mboavapyre:
 options-local-mode-origin-input =
     .placeholder = Mapeo local peguarã reñoiha
@@ -139,6 +141,10 @@ options-local-mode-toggle-enable = Embojuruja
 options-local-mode-toggle-disable = Embogue
 options-local-mode-navigate-to =
     .title = Eikundaha ko URL mapeoguándi
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = ¿Emboguese añetehápe pe mapeo “{ $mappingOrigin }”?
 options-local-mode-new-mapping = Embojuaju mapeo pypeguáva pyahu
 
 ## Advanced section
