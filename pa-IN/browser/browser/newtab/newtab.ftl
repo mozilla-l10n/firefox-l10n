@@ -1082,6 +1082,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = ਸਿਰਫ਼ ਫ਼ਾਲੋ ਕੀਤੀਆਂ ਟੀਮਾਂ
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = …ਹੋਰ ਮੈਚ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = ਵੇਖੋ
@@ -1168,6 +1170,11 @@ newtab-sports-widget-match-full-time = ਸਾਰਾ ਸਮਾਂ
 newtab-sports-widget-match-halftime = ਅੱਧਾ ਟਾਈਮ
 newtab-sports-widget-match-extra-time = ਵਾਧੂ ਟਾਈਮ
 newtab-sports-widget-match-penalties = ਪਨੈਲਟੀਆਂ
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = ਬਨਾਮ
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = ਆਉਣ ਵਾਲੇ ਮੈਚਾਂ ਦੇ ਵੇਰਵਿਆਂ ਲਈ ਤਿਆਰ ਰਹੋ
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1250,9 +1257,12 @@ newtab-sports-widget-team-name-label-sco =
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = ਵਰਲਡ ਕੱਪ ਨੂੰ ਨਵੇਂ ਵਾਲਪੇਪਰ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ
+newtab-sports-widget-message-wallpapers-body = ਟੂਰਨਾਮੈਂਟ ਲਈ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਕੁਝ ਮੈਚ ਵਾਲੇ ਦਿਨਾਂ ਵਰਗੀ ਊਰਜਾ ਲਿਆਓ।
 newtab-sports-widget-message-wallpapers-cta = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 newtab-sports-widget-message-add-widgets-cta =
     .label = ਵਿਜੈੱਟ ਜੋੜੋ
+newtab-sports-widget-message-day-in-play-title = { -brand-product-name } ਵਿਜੈਟ ਨਾਲ ਆਪਣੇ ਦਿਨ ਵਿੱਚ ਖੇਡ ਨੂੰ ਬਣਾਈ ਰੱਖੋ
+newtab-sports-widget-message-day-in-play-body = ਵਰਲਡ ਕੱਪ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ, ਕੰਮ ਕਰਦੇ ਰਹੋ, ਸੰਸਾਰ ਭਰ ਦੇ ਟਾਈਮ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
 newtab-sports-widget-message-explore-widgets-cta =
     .label = ਵਿਜੈੱਟ ਲੱਭੋ
 

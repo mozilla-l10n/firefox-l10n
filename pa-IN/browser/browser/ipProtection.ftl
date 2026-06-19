@@ -29,6 +29,9 @@ ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ 
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਹੋਰ ਪਰਤ ਜੋੜੋ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਦਾ ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਲਈ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਥਾਂ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਵਾਸਤੇ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਦੀ ਚੋਣ ਕਰੋ।
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ।
+ipprotection-feature-introduction-link-text-privacy-3 = ਤੁਸੀਂ ਜਿੱਥੋਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ, ਉਸ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣ ਕੇ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਵੋ।
+ipprotection-feature-introduction-text-summer-promo-1 = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਇਸ ਨੂੰ ਚਾਲੂ ਕਰੋ। <a data-l10n-name="summer-promo-link">ਬੇਅੰਤ ਬੈਂਡਵਿਦਥ</a> ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਹੋਰ ਟਿਕਾਣੇ ਲਵੋ। ਹੁਣ 31 ਅਗਸਤ ਤੱਕ।
 ipprotection-feature-introduction-title-summer-promo = ਸੈਰ ਸਪਾਟਾ ਦਾ ਸੋਚ ਰਹੇ ਹੋ? ਆਪਣੇ ਨਾਲ ਪਰਦੇਦਾਰੀ ਨੂੰ ਰੱਖੋ।
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } ਨਾਲ ਮੌਜੂਦ VPN ਦਾ ਫਾਇਦਾ ਲਵੋ: ਹੋਰ ਟਿਕਾਣੇ, ਬੇਅੰਤ ਬੈਂਡਵਿਦਥ। ਹੁਣ 31 ਅਗਸਤ ਤੱਕ।
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
@@ -164,6 +167,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
 ipprotection-open-button = { -brand-product-name } ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-come-back-title = ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਉਣ ਲਈ ਵਾਪਸ ਜਾਓ
+ipprotection-message-body-hide-location = ਹੋਰ ਪਰਦੇਦਾਰੀ ਅਤੇ ਕੰਟਰੋਲ ਵਾਸਤੇ { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।
 ipprotection-connection-status-generic-error-title-1 = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
     .aria-label = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 
