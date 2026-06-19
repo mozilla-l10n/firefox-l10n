@@ -13,3 +13,7 @@ about-pdf-dropzone-invalid-file = Ko marandurenda ndojokupytýi. Eiporavo PDF ek
 about-pdf-dropzone-error-generic = Pe jehupi ndoikói hekópete. Eha’ãjey upe rire.
 about-pdf-browse-files =
     .label = Ejeporeka marandurendáre
+about-pdf-set-default =
+    .label = Eipuru ijypykuérõ
+about-pdf-dismiss =
+    .label = Emboyke

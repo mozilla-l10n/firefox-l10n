@@ -115,6 +115,10 @@ options-sourceeditor-tabsize-label = Tendayke tuichakue
 options-sourceeditor-keybinding-label = Jehaiha mbojopyru
 options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
 
+## Local Mode section
+
+options-local-mode-domain-label = Mba’eteete mboavapyre:
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

@@ -50,6 +50,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = הסרת VPN מסרגל הכלים
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = הסרת VPN מסרגל הכלים
+ipprotection-feature-introduction-button-open-vpn = פתיחת VPN
 ipprotection-feature-introduction-button-get-started = תחילת עבודה
 
 ## Site settings callout
