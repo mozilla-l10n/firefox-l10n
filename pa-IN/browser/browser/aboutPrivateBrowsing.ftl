@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = ਅਸੀਂ ਕੂਕੀ ਬ
 about-private-browsing-felt-privacy-v1-info-header = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਕੋਈ ਪੈੜ੍ਹਾਂ ਨਾ ਛੱਡੋ
 about-private-browsing-felt-privacy-v1-info-body = ਜਦੋਂ ਵੀ ਆਪਣੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਕੂਕੀਜ਼, ਅਤੀਤ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾ ਦਿੰਦਾ ਹੈ।
 about-private-browsing-felt-privacy-v1-info-link = ਮੇਰੀ ਸਰਗਰਮੀ ਨੂੰ ਭਲਾ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਕੂਕੀਜ਼, ਅਤੀਤ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ।

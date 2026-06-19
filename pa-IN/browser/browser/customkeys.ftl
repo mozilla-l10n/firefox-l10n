@@ -20,6 +20,9 @@ customkeys-history-reopen-window = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਵਿੰ
 customkeys-sidebar-toggle = ਬਾਹੀ ਬਦਲੋ
 customkeys-view-bookmarks-toolbar = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਬਦਲੋ
 customkeys-view-picture-in-picture = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
+customkeys-view-add-split-view = ਵੰਡੀ ਹੋਈ ਝਲਕ ਜੋੜੋ
+# Separate is a verb
+customkeys-view-separate-split-view = ਵੰਡੀ ਹੋਈ ਝਲਕ ਵਿੱਚ ਵੱਖਰਾ ਕਰੋ
 customkeys-dev-tools = ਵੈੱਬ ਡਿਵੈਲਪਰ ਟੂਲ
 customkeys-dev-inspector = DOM ਅਤੇ ਸਟਾਈਲ ਇੰਸਪੈਕਟਰ
 customkeys-dev-webconsole = ਵੈੱਬ ਕਨਸੋਲ

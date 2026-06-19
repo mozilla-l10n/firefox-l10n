@@ -29,6 +29,8 @@ ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ 
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਹੋਰ ਪਰਤ ਜੋੜੋ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਦਾ ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਲਈ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਥਾਂ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਵਾਸਤੇ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਦੀ ਚੋਣ ਕਰੋ।
+ipprotection-feature-introduction-title-summer-promo = ਸੈਰ ਸਪਾਟਾ ਦਾ ਸੋਚ ਰਹੇ ਹੋ? ਆਪਣੇ ਨਾਲ ਪਰਦੇਦਾਰੀ ਨੂੰ ਰੱਖੋ।
+ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } ਨਾਲ ਮੌਜੂਦ VPN ਦਾ ਫਾਇਦਾ ਲਵੋ: ਹੋਰ ਟਿਕਾਣੇ, ਬੇਅੰਤ ਬੈਂਡਵਿਦਥ। ਹੁਣ 31 ਅਗਸਤ ਤੱਕ।
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-description-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋਵੋ।
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +48,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
+ipprotection-feature-introduction-button-open-vpn = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-feature-introduction-button-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 
 ## Site settings callout
@@ -159,6 +162,8 @@ ipprotection-message-continuous-onboarding-intro = ਬਰਾਊਜ਼ ਕਰਨ ਦ
 ipprotection-message-continuous-onboarding-autostart = ਵਾਧੂ ਸੁਰੱਖਿਆ ਜੋੜਨ ਲਈ ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਹਰ ਵਾਰ <a data-l10n-name="setting-link">VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ</a>।
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ਯਾਦ ਰੱਖੇਗਾ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ VPN ਸੈੱਟ ਕੀਤਾ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ <a data-l10n-name="setting-link">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਅੱਪਡੇਟ ਕਰੋ।
 confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+ipprotection-open-button = { -brand-product-name } ਨੂੰ ਖੋਲ੍ਹੋ
+ipprotection-come-back-title = ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਉਣ ਲਈ ਵਾਪਸ ਜਾਓ
 ipprotection-connection-status-generic-error-title-1 = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
     .aria-label = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 
@@ -228,6 +233,11 @@ ip-protection-exclusions-desc = ਇਸ ਸੂਚੀ ਵਿੱਚ ਦਿੱਤੀ
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = ਇਸ ਮਹੀਨੇ ਲਈ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਹੈ
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = { " " }{ $maxUsage } GB ਵਿੱਚੋਂ <span data-l10n-name="usage">{ $usageLeft } GB</span> ਬਾਕੀ
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +246,11 @@ ip-protection-bandwidth-left-gb = { $maxUsage } GB ਵਿੱਚੋਂ { $usageLe
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = ਇਸ ਮਹੀਨੇ ਲਈ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } MB ਬਾਕੀ ਹੈ
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = { " " }{ $maxUsage } GB ਵਿੱਚੋਂ <span data-l10n-name="usage">{ $usageLeft } MB</span> ਬਾਕੀ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

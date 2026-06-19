@@ -458,6 +458,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Само на текста
     .accesskey = т
+preferences-text-zoom-override-warning2 =
+    .message = Ако „Мащабиране само на текста“ е включено и мащабирането по подразбиране не е 100%, някои сайтове може да не показват съдържанието правилно.
 preferences-text-zoom-override-warning =
     .message = Предупреждение: Ако изберете „Мащабиране само на текста“ и мащабирането по подразбиране не е 100%, това може да доведе до некоректното изобразяване при някои сайтове.
 language-header = Език
@@ -561,6 +563,10 @@ settings-translations-subpage-no-languages-added =
 settings-translations-subpage-download-progress = Изтеглянето се извършва…
 settings-translations-subpage-download-retry-button =
     .label = Опитайте отново
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Изтриване на { $language } ({ $size } MB)?
 settings-translations-subpage-download-delete-button =
     .label = Изтриване
 settings-translations-subpage-download-cancel-button =
@@ -592,6 +598,9 @@ download-save-where-3 =
 download-always-ask-where2 =
     .label = Питане къде да бъдат запазвани файловете преди изтегляне
     .accesskey = П
+download-private-browsing-delete2 =
+    .label = Изтриване на изтегляния на поверителен прозорец при затваряне
+    .accesskey = з
 download-header = Изтегляния
 download-save-where = Запазване на файловете в
     .accesskey = З
@@ -740,6 +749,9 @@ update-application-background-enabled =
     .accesskey = н
 update-application-warning-cross-user-setting-2 =
     .message = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Показване на по-малко напомняния за актуализации
+    .accesskey = м
 update-application-warning-cross-user-setting = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
@@ -819,6 +831,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Автоматично плъзгане
     .accesskey = А
+keyboard-and-scrolling-group =
+    .label = Навигация и прелистване с клавиатурата
+motion-and-link-group =
+    .label = Оформяне на движение и връзки
 browsing-use-smooth-scrolling =
     .label = Плавно плъзгане
     .accesskey = л
@@ -848,6 +864,9 @@ browsing-picture-in-picture-toggle-enabled-2 =
 browsing-picture-in-picture-toggle-enabled =
     .label = Включване на видео картина в картината
     .accesskey = к
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Продължаване на възпроизвеждането на видеоклипове в картина в картината, когато превключвате разделите
+    .accesskey = ч
 browsing-picture-in-picture-learn-more = Научете повече
 browsing-media-control =
     .label = Управление на медия чрез клавиатура, слушалки или виртуално устройство
@@ -965,12 +984,18 @@ home-custom-homepage-card-header =
     .label = Адрес (или адреси) на уебсайта
 home-custom-homepage-address =
     .placeholder = Въведете адрес
+home-custom-homepage-address-button =
+    .label = Добавяне на адрес
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Все още няма добавени уебсайтове.
 home-custom-homepage-delete-address-button =
     .aria-label = Изтриване на адреса
     .title = Изтриване на адреса
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Замяна с
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Текущо отворени страници
@@ -1111,6 +1136,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Показване на предложения при търсене в резултатите от адресната лента
     .accesskey = р
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Показване на предложения за търсене преди историята на сърфиране в резултатите от адресната лента
 search-suggestions-cant-show-2 =
     .message = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
 addressbar-header-1 =
@@ -1175,6 +1207,7 @@ search-keyword-warning-title = Дублиране на ключовата дум
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
 search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
+remove-engine-confirmation = Сигурни ли сте, че искате да премахнете тази търсеща машина?
 remove-engine-remove = Премахване
 remove-addon-engine-alert = За да премахнете тази търсачка, премахнете свързаната добавка.
 search-engine-group =

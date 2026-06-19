@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ
 all-tabs-menu-hidden-tabs =
     .label = ਲੁਕਵੀਆਂ ਟੈਬਾਂ
+all-tabs-menu-close-duplicate-tabs =
+    .label = ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
 all-tabs-menu-manage-user-context =
     .label = ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ
     .accesskey = O
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = ਟੈਗ ਗਰੁੱਪ
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = ਸਭ ਟੈਬਾਂ ਵਿੱਚ ਖੋਜੋ

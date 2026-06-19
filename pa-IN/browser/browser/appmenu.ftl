@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ — ਸਿਸਟਮ ਮਾਫ਼ਕ ਨਹੀਂ ਹੈ
 appmenuitem-banner-update-restart =
     .label = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = ਨਵਾਂ { -brand-short-name } ਲਵੋਂ। ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਰੱਖੋ।
+appmenu-nova-update-link = ਅੱਪਡੇਟ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+appmenu-nova-fxa-sign-in = ਸਾਈਨ ਇਨ
+appmenu-nova-switch-device-promo =
+    .message = ਛੇਤੀ ਹੀ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈ ਰਹੇ ਹੋ? { -brand-short-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ!
+appmenu-nova-switch-device-link = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਕਿਵੇਂ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ
 appmenuitem-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
 appmenuitem-new-window =
