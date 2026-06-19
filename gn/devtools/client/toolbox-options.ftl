@@ -126,6 +126,20 @@ options-local-mode-origin-invalid = Ko teñoiha ndoikói
 options-local-mode-folder-label = Ñongatuha pypegua:
 options-local-mode-choose-folder = Kundaha…
     .title = Eiporavo ñongatuha pypegua oiko hag̃ua ko me’ẽmby
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Eiporavo ñongatuha pypeguávape g̃uarã: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Ko ñongatuha ndaiporivoi térã ndoikói.
+options-local-mode-toggle =
+    .title = Emyandy/embogue ko ñeme’ẽ pypeguáva
+options-local-mode-toggle-enable = Embojuruja
+options-local-mode-toggle-disable = Embogue
+options-local-mode-navigate-to =
+    .title = Eikundaha ko URL mapeoguándi
+options-local-mode-new-mapping = Embojuaju mapeo pypeguáva pyahu
 
 ## Advanced section
 
