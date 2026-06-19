@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Feu servir la nostra nova <a dat
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Afegiu una altra capa de privadesa
 ipprotection-feature-introduction-link-text-privacy-1 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per a navegar amb més privadesa.
+ipprotection-feature-introduction-link-text-privacy-2 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per mantenir la privadesa dels llocs des d'on navegueu.
+ipprotection-feature-introduction-link-text-privacy-3 = Obteniu <a data-l10n-name="learn-more-vpn">més privadesa</a> triant entre diverses ubicacions per amagar des d'on navegueu.
+ipprotection-feature-introduction-text-summer-promo-1 = Activeu-ho per mantenir la privadesa de la navegació. <a data-l10n-name="summer-promo-link">Obteniu amplada de banda il·limitada</a> i més ubicacions des de les quals navegar. Ara fins al 31 d'agost.
+ipprotection-feature-introduction-title-summer-promo = Teniu pensat anar de viatge? Emporteu-vos-hi la privadesa.
+ipprotection-feature-introduction-description-summer-promo = Aneu més lluny amb la VPN integrada del { -brand-product-name }: més ubicacions, amplada de banda il·limitada. Ara fins al 31 d'agost.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades, fins i tot des d'una finestra privada.
 ipprotection-feature-introduction-description-private-browsing = Navegueu amb protecció addicional amagant la vostra ubicació, fins i tot des d'una finestra privada.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Elimina la VPN de la barra d'eines
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimina la VPN de la barra d'eines
+ipprotection-feature-introduction-button-open-vpn = Obre la VPN
 ipprotection-feature-introduction-button-get-started = Comença
 
 ## Site settings callout
@@ -127,6 +133,9 @@ ipprotection-locations-subview-promo-button = Obteniu { -mozilla-vpn-brand-name 
 upgrade-vpn-title = Obteniu protecció addicional més enllà del navegador
 upgrade-vpn-description = Trieu la ubicació de la VPN, utilitzeu la VPN per a totes les aplicacions i fins a 5 dispositius, i protegiu la vostra connexió en qualsevol xarxa, ja sigui a casa o en una Wi-Fi pública.
 upgrade-vpn-button = Proveu { -mozilla-vpn-brand-name }
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Heu utilitzat tots els { $maxUsage } GB de dades de la vostra VPN. L'accés es restablirà el mes que ve.
 ipprotection-connection-status-paused-title-2 = La VPN està en pausa
     .aria-label = La VPN està en pausa
 
@@ -156,6 +165,8 @@ ipprotection-message-continuous-onboarding-intro = Activeu la VPN per a ocultar 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configureu la VPN perquè s'activi</a> cada vegada que obriu el { -brand-short-name } per obtenir una capa addicional de protecció.
 ipprotection-message-continuous-onboarding-site-settings = El { -brand-short-name } recordarà quins llocs web heu configurat per a utilitzar la VPN. Podeu actualitzar-los  en qualsevol moment a la <a data-l10n-name="setting-link">configuració</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN està desactivada per a aquest lloc web
+ipprotection-open-button = Obre el { -brand-product-name }
+ipprotection-come-back-title = Torneu per provar la VPN integrada
 ipprotection-connection-status-generic-error-title-1 = No s'ha pogut connectar a la VPN
     .aria-label = No s'ha pogut connectar a la VPN
 
@@ -216,6 +227,18 @@ ip-protection-exclusions-desc = Feu servir la VPN per a tots els llocs web tret 
 
 ## IP Protection Bandwidth
 
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Queden { $usageLeft } GB de { $maxUsage } GB aquest mes
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Queden { $usageLeft } GB de { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Queden { $usageLeft } MB de { $maxUsage } GB aquest mes
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
