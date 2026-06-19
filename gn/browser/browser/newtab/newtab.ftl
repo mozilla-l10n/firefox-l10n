@@ -1084,6 +1084,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Aty ojesegíva añoite
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Ehupive ojojoguáva…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Ehecha
@@ -1170,6 +1172,22 @@ newtab-sports-widget-match-full-time = Partído opámava
 newtab-sports-widget-match-halftime = Jepytu’u
 newtab-sports-widget-match-extra-time = Aravo’i juapyvegua
 newtab-sports-widget-match-penalties = Penal jechuta
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = vs
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Eñatende eikuaa hag̃ua oikóva partído rehegua.
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Mboyvegua
+    .title = Mboyvegua
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Tenonde
+    .title = Tenonde
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
