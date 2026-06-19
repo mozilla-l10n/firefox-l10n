@@ -30,6 +30,8 @@ ipprotection-feature-introduction-link-text-2 = Eiporu ore <a data-l10n-name="le
 ipprotection-feature-introduction-title-privacy = Embojuaju ambue tekoñemiverã
 ipprotection-feature-introduction-link-text-privacy-1 = VPN oñemohendapyréva <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> rehegua oipytyvõ omo’ã hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn"> VPN ojuajupyréva { -brand-product-name }</a> rehegua oipytyvõ omo’ãkuaa hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
+ipprotection-feature-introduction-link-text-privacy-3 = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo heta tendaite apytégui eñomi hag̃ua eikundahaha.
+ipprotection-feature-introduction-title-summer-promo = ¿Eviajasépa? Egueraha nendive nde rekoñemi.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã, oĩramo jepe ovetã ñemíme.
 ipprotection-feature-introduction-description-private-browsing = Ñeikundaha ñemo’ãve ndive oñomívo péicha pe hendaite, taha’e jepe ovetã ñemíme.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -232,6 +234,11 @@ ip-protection-exclusions-desc = Eiporu VPN opaite ñanduti rogue ha’eỹva ko 
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Oĩntema { $usageLeft } GB { $maxUsage } GB ko jasýpe
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> { $maxUsage } rehegua GB hembýva
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -240,6 +247,11 @@ ip-protection-bandwidth-left-gb = Oĩntema { $usageLeft } GB { $maxUsage } GB-gu
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Oĩntema { $usageLeft } MB { $maxUsage } GB ko jasýpe
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> { $maxUsage } rehegua GB hembýva
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
