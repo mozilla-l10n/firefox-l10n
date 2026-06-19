@@ -17,11 +17,11 @@ appmenuitem-banner-update-restart =
     .label = Mise à jour disponible — redémarrer maintenant
 # Fresh Firefox refers to the new updated UI
 appmenu-nova-update-promo =
-    .message = Obtenir une nouvelle valeur de { -brand-short-name }. Conservez tous vos onglets.
+    .message = Installez la nouvelle version de { -brand-short-name }. Vos onglets seront conservés.
 appmenu-nova-update-link = Redémarrer pour mettre à jour
-appmenu-nova-fxa-sign-in = Connexion
+appmenu-nova-fxa-sign-in = Se connecter
 appmenu-nova-switch-device-promo =
-    .message = Vous recevrez bientôt un nouvel appareil ? Emportez { -brand-short-name } avec vous !
+    .message = Vous allez bientôt changer d’appareil ? Emportez { -brand-short-name } avec vous !
 appmenu-nova-switch-device-link = Comment migrer vos données
 appmenuitem-new-tab =
     .label = Nouvel onglet
