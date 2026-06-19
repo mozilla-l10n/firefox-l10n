@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = You can specify which web sites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Exceptions - Clear History on Shutdown
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = You can specify which web sites will keep their data when { -brand-short-name } clears history on close. Type the exact address of the site you want to manage and then click Allow.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
