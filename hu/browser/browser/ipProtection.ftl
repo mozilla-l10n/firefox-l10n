@@ -164,6 +164,8 @@ ipprotection-message-continuous-onboarding-intro = Kapcsolja be a VPN-t, hogy el
 ipprotection-message-continuous-onboarding-autostart = A további védelem érdekében <a data-l10n-name="setting-link">állítsa be, hogy a VPN automatikusan bekapcsolódjon</a> a { -brand-short-name } indításakor.
 ipprotection-message-continuous-onboarding-site-settings = A { -brand-short-name } megjegyzi, hogy mely webhelyeken állította be, hogy VPN-t használjanak. Ezeket bármikor frissítheti a <a data-l10n-name="setting-link">beállításokban</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN ki van kapcsolva ezen a webhelyen
+ipprotection-open-button = A { -brand-product-name } megnyitása
+ipprotection-come-back-title = Térjen vissza, és próbálja ki a beépített VPN-t
 ipprotection-connection-status-generic-error-title-1 = Nem sikerült kapcsolódni a VPN-hez
     .aria-label = Nem sikerült kapcsolódni a VPN-hez
 
