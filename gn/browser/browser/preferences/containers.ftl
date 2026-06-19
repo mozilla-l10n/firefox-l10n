@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Téra
+    .placeholder = Ehai téra
+containers-icon-label2 =
+    .label = Ta’ãngachu’i
+containers-color-label2 =
+    .label = Sa’y
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Yvyra
 containers-icon-chill =
     .label = To’ysã
+containers-window-new3 =
+    .title = Embojuaju mba’yru pyahu
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } Mba’yru ñemboheko
+    .style = min-width: 32em

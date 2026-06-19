@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Ниҳонвожаи нусхаи эҳтиётии гувоҳнома (такроран):
 set-password-reminder = Диққат: Агар шумо ниҳонвожаи нусхаи эҳтиётии гувоҳномаи худро фаромӯш кунед, шумо дигар наметавонед, ки ин нусхаи эҳтиётиро барқарор созед. Лутфан, онро сабт карда, дар ҷойи бехатар нигоҳ доред.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Санҷиши ҳаққонияти маҳфуз
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Лутфан, санҷиши ҳаққониятро бо дастгоҳи амният ({ $tokenName }) иҷро намоед. Тазри иҷрокунии ин амал аз дастгоҳ вобаста аст (барои мисол, ба воситаи хонандаи нақши ангуштон ё воридкунии рамз ба воситаи клавиатураи рақамӣ).
+
 ## Protected authentication alert
 
 # Variables:
