@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = U kunt opgeven welke websites altijd of nooit toestemming hebben om cookies en websitegegevens te gebruiken. Typ het exacte adres van de website die u wilt beheren en klik vervolgens op Blokkeren, Toestaan voor sessie of Toestaan.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Uitzonderingen - Geschiedenis wissen bij afsluiten
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = U kunt opgeven welke websites hun gegevens behouden wanneer { -brand-short-name } geschiedenis bij afsluiten wist. Typ het exacte adres van de website die u wilt beheren en klik vervolgens op Toestaan.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

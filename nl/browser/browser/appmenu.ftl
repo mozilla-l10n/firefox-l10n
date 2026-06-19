@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Kan niet bijwerken – systeem niet compatibel
 appmenuitem-banner-update-restart =
     .label = Update beschikbaar – nu herstarten
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Ontvang een nieuwe { -brand-short-name }. Behoud al uw tabbladen.
+appmenu-nova-update-link = Herstarten om bij te werken
+appmenu-nova-fxa-sign-in = Aanmelden
+appmenu-nova-switch-device-promo =
+    .message = Krijgt u binnenkort een nieuw apparaat? Neem { -brand-short-name } met u mee!
+appmenu-nova-switch-device-link = Uw gegevens migreren
 appmenuitem-new-tab =
     .label = Nieuw tabblad
 appmenuitem-new-window =
