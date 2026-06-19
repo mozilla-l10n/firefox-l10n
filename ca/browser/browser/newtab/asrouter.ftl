@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Voleu que s’obri el { -brand-s
 launch-on-login-infobar-final-reject-button = No, gràcies
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Voleu obrir el { -brand-short-name } la propera vegada que s'iniciï l'ordinador?
+launch-on-login-spotlight-startup-checkbox = Inicia el { -brand-short-name } a l'inici
+launch-on-login-spotlight-pin-taskbar-checkbox = Fixa a la barra de tasques
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Obre les finestres i pestanyes anteriors
+launch-on-login-spotlight-primary-button = Desa i tanca el { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -305,6 +319,12 @@ tail-fox-spotlight-title = Allibereu-vos dels elements de seguiment
 tail-fox-spotlight-subtitle = Acomiadeu-vos dels carregosos elements de seguiment de publicitat i gaudiu d'una experiència d'Internet més segura i més ràpida.
 tail-fox-spotlight-primary-button = Obre els enllaços amb el { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ara no
+
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Torneu a la privadesa integrada
+welcome-back-spotlight-subtitle = Us tornem a donar la benvinguda a l'únic gran navegador impulsat per una entitat sense ànim de lucre. Protegim les vostres dades amb mesures addicionals allà on navegueu.
+welcome-back-embedded-import-title = Importeu les vostres dades i que el { -brand-short-name } us faci sentir com a casa
 
 ## Root Certificate Succession Infobar
 

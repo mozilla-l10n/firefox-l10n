@@ -1633,6 +1633,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Predefinir contrasigno primari
+forms-primary-pw-on-2 = Le contrasigno primari es <strong>ACTIVE</strong>
 forms-primary-pw-on =
     .label = Le contrasigno primari es ACTIVE
 forms-primary-pw-change-2 =
