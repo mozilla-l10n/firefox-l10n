@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = שעה
 time-spinner-minute-label =
     .aria-label = דקה
+time-spinner-second-label =
+    .aria-label = שנייה
+time-spinner-millisecond-label =
+    .aria-label = אלפית השנייה
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = הדקה הקודמת
 time-spinner-minute-next =
     .aria-label = הדקה הבאה
+time-spinner-second-previous =
+    .aria-label = השנייה הקודמת
+time-spinner-second-next =
+    .aria-label = השנייה הבאה
+time-spinner-millisecond-previous =
+    .aria-label = אלפית השנייה הקודמת
+time-spinner-millisecond-next =
+    .aria-label = אלפית השנייה הבאה
 time-spinner-day-period-previous =
     .aria-label = החלק הקודם של היממה
 time-spinner-day-period-next =

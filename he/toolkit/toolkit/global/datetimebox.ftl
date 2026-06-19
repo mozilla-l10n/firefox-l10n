@@ -28,7 +28,7 @@ datetime-minute =
 datetime-second =
     .aria-label = שניות
 datetime-millisecond =
-    .aria-label = מילישניות
+    .aria-label = אלפיות השנייה
 datetime-dayperiod =
     .aria-label = AM/PM
 
