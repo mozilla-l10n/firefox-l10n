@@ -914,6 +914,11 @@ urlbar-result-explanation-last-visited-months =
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-last-visited-absolute = Eikeramoveha ha’e { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Techaukahápe ñongatupyre { $date }-pe
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

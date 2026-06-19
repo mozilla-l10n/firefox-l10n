@@ -29,4 +29,15 @@ content-sharing-modal-title-2 = Emoherakuã ko’ã kuatiarogue ejaposéva ndive
 content-sharing-modal-title-signed-in = Nde juajuhaita oĩma hemoherakuã hag̃uáicha
 content-sharing-modal-description-2 = Eike emoheñói hag̃ua kuatiarogue juajuha hasy’ỹva imoherakuã. Ndaikatúi embosako’i térã embogue ha hu’ãta 7 árape.
 content-sharing-modal-policy = Emoherakuãvo, emoneĩ ore <a data-l10n-name="aup-link">Jeporurã reko ñemoneĩva</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Oikéta hetavéramo { $count } joajuha
+       *[other] Oikéta hetavéramo { $count } joajuha
+    }
+content-sharing-modal-no-shareable-links =
+    .heading = Ndaipóri juajuha emoherakuã hag̃ua
+    .message = Emoherakuãkuaa juajuha ñanduti retepýpe añoite.
 content-sharing-modal-some-invalid-links = Oĩ juajuha emoherakuãkuaa’ỹva.
