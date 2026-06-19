@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Вы можете указать, каким веб-сайтам разрешено всегда или никогда использовать куки и данные сайтов.  Введите точный адрес сайта и нажмите кнопку «Блокировать», «Разрешить на сессию» или «Разрешить».
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Исключения — Удаление истории при выходе
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Вы можете указать, какие веб-сайты будут сохранять свои данные, когда { -brand-short-name } удалит историю при закрытии. Введите точный адрес сайта, которым вы хотите управлять, и нажмите кнопку «Разрешить».
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

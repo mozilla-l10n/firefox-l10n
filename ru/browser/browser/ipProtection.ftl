@@ -251,6 +251,11 @@ ip-protection-bandwidth-left-gb = Осталось { $usageLeft } ГБ из { $m
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = В этом месяце осталось { $usageLeft } МБ из { $maxUsage } ГБ
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Осталось <span data-l10n-name="usage">{ $usageLeft } МБ</span> из { $maxUsage } ГБ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
