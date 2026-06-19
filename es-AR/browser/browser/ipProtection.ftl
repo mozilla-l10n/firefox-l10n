@@ -166,6 +166,7 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web se configuraron para usar VPN. Actualice estos en <a data-l10n-name="setting-link">configuración</a> en cualquier momento.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN desactivada para este sitio
 ipprotection-open-button = Abrir { -brand-product-name }
+ipprotection-message-body-hide-location = Oculte su ubicación cuando navegue en { -brand-product-name } para obtener más privacidad y control.
 ipprotection-connection-status-generic-error-title-1 = No se pudo conectar a la VPN
     .aria-label = No se pudo conectar a la VPN
 
@@ -235,6 +236,11 @@ ip-protection-exclusions-desc = Usar VPN para todos los sitios web excepto los d
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Quedan { $usageLeft } GB de { $maxUsage } GB este mes
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> de { $maxUsage } GB restantes
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -243,6 +249,11 @@ ip-protection-bandwidth-left-gb = Quedan { $usageLeft } GB de { $maxUsage } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Quedan { $usageLeft } MB de { $maxUsage } GB este mes
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> de { $maxUsage } GB restantes
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

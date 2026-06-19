@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puede especificar qué sitios web siempre o nunca pueden usar cookies y datos del sitio.  Escriba la dirección exacta del sitio que desea administrar y luego haga clic en Bloquear, Permitir sesión o Permitir.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Excepciones - Borrar historial al apagar
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Puede especificar qué sitios web mantendrán sus datos cuando { -brand-short-name } elimine el historial al cerrar. Ingrese la dirección exacta del sitio que desea administrar y luego haga clic en Permitir.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
