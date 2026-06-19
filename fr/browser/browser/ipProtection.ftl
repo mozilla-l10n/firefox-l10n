@@ -247,8 +247,8 @@ ip-protection-bandwidth-left-this-month-gb =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb-1 =
     { $usageLeft ->
-        [one] <span data-l10n-name="usage">{ $usageLeft } Go restant</span> sur { $maxUsage } Go
-       *[other] <span data-l10n-name="usage">{ $usageLeft } Go restants</span> sur { $maxUsage } Go
+        [one] <span data-l10n-name="usage">{ $usageLeft } Go</span> restant sur { $maxUsage } Go
+       *[other] <span data-l10n-name="usage">{ $usageLeft } Go</span> restants sur { $maxUsage } Go
     }
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -270,7 +270,11 @@ ip-protection-bandwidth-left-this-month-mb =
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } Mo</span> sur { $maxUsage } Go
+ip-protection-bandwidth-left-mb-1 =
+    { $usageLeft ->
+        [one] <span data-l10n-name="usage">{ $usageLeft } Mo</span> restant sur { $maxUsage } Go
+       *[other] <span data-l10n-name="usage">{ $usageLeft } Mo</span> restants sur { $maxUsage } Go
+    }
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
