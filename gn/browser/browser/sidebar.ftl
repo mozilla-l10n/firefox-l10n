@@ -10,7 +10,7 @@ menu-view-contextual-password-manager =
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
 menu-view-open-tabs =
-    .label = Embojuruja Tendaykeita
+    .label = Tendaykeita ijurujáva
 sidebar-options-menu-button =
     .title = Eike poravorãme
 
