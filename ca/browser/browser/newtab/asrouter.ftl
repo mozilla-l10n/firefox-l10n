@@ -428,6 +428,14 @@ windows-10-eos-feature-toast-subtitle = A petició popular, el { -brand-product-
 windows-10-eos-feature-toast-whats-new-button = Descobriu les novetats
 windows-10-eos-feature-toast-dismiss-button = Descarta
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft ha deixat d'oferir suport per al Windows 10</strong> Feu una còpia de seguretat de la vostra informació per tenir el { -brand-product-name } a punt per al Windows 11.
+windows-10-eos-global-infobar-primary-button = Activa la còpia de seguretat
+    .accesskey = A
+windows-10-eos-global-infobar-learn-more-link = Més informació
+    .accessKey = M
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -456,3 +464,19 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Estableix com a predeterminat
 set-default-menu-message-primary-button-variant = Estableix com a navegador principal
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 màscares de correu electrònic, de regal
+relay-50-masks-announcement-subtitle = Ara obteniu 50 màscares gratuïtes (en lloc de 5). Feu-ne servir una per a cada compte per mantenir la vostra adreça electrònica real privada.
+relay-50-masks-announcement-primary-button = Ves a { -relay-brand-name }
+    .accesskey = V
+relay-50-masks-announcement-secondary-button = Ignora
+    .accesskey = I
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = El <strong>{ -brand-product-name } té un nou aspecte</strong>. Esteu veient un avenç d'una versió preliminar i no definitiva abans del llançament que es farà a finals d'any.
+nova-early-access-share-feedback-link = Comparteix els comentaris
+    .accesskey = C

@@ -841,6 +841,9 @@ newtab-widget-lists-input-menu-move-up = Mou cap amunt
 newtab-widget-lists-input-menu-move-down = Mou cap avall
 newtab-widget-lists-input-menu-delete = Suprimeix
 newtab-widget-lists-input-menu-edit = Edita
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancel·la
+    .title = Cancel·la
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crea una llista nova
@@ -848,11 +851,23 @@ newtab-widget-lists-name-label-default =
     .label = Llista de tasques
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Llista de tasques
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Llista de comprovació
+    .aria-label = Edita el nom de la llista
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Llista nova
     .aria-label = Edita el nom de la llista
 newtab-widget-section-title = Ginys
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Mou
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Esquerra
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Dreta
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Amaga els ginys
@@ -863,6 +878,24 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimitza els widgets
     .aria-label = Minimitza tots els widgets a mida compacta
+newtab-widget-section-menu-button =
+    .title = Menú de ginys
+    .aria-label = Obre el menú dels ginys
+newtab-widget-add-widgets-button =
+    .aria-label = Afegeix el giny
+    .title = Afegeix el giny
+newtab-widget-section-menu-manage = Gestioneu els ginys
+newtab-widget-section-menu-hide-all = Amaga els ginys
+newtab-widget-section-menu-learn-more = Més informació
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Mostra més ginys
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Mostra menys ginys
+newtab-widget-lists-name-default = Llista de comprovació
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
