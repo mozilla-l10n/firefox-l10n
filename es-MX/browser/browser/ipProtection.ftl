@@ -33,6 +33,7 @@ ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-3 = Obtén <a data-l10n-name="learn-more-vpn">mayor privacidad</a> eligiendo entre múltiples ubicaciones para ocultar el lugar donde navegas.
 ipprotection-feature-introduction-text-summer-promo-1 = Actívala para mayor privacidad al navegar. <a data-l10n-name="summer-promo-link">Obtén ancho de banda ilimitado</a> y más opciones de ubicación virtual para navegar. Disponible hasta el 31 de agosto.
 ipprotection-feature-introduction-title-summer-promo = ¿Tienes planes de viaje? Viaja con privacidad.
+ipprotection-feature-introduction-description-summer-promo = No te quedes atrás. La VPN integrada de { -brand-product-name } te da más ubicaciones virtuales y ancho de banda ilimitado hasta el 31 de agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos, incluso si estás en una ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navega con protección extra ocultando tu ubicación, incluso cuando estés en una ventana privada.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -50,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Quitar VPN de la barra de herramientas
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Quitar VPN de la barra de herramientas
+ipprotection-feature-introduction-button-open-vpn = Abrir VPN
 ipprotection-feature-introduction-button-get-started = Comenzar
 
 ## Site settings callout
@@ -163,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN para que se active</a> cada vez que abras { -brand-short-name } y así tener una capa extra de protección.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web has configurado para usar la VPN. Puedes actualizar estos <a data-l10n-name="setting-link">ajustes</a> en cualquier momento.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
+ipprotection-open-button = Abrir { -brand-product-name }
+ipprotection-come-back-title = Regresa para probar la VPN integrada
+ipprotection-message-body-hide-location = Oculta tu ubicación real cuando navegas en { -brand-product-name } para tener mayor control y privacidad.
 ipprotection-connection-status-generic-error-title-1 = No se pudo conectar a la VPN
     .aria-label = No se pudo conectar a la VPN
 
@@ -232,6 +237,11 @@ ip-protection-exclusions-desc = Usa una VPN para todos los sitios web excepto lo
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB de { $maxUsage } GB restantes este mes
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage"> { $usageLeft } GB</span> de { $maxUsage } GB restantes
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -240,6 +250,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB de { $maxUsage } GB restante
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB de { $maxUsage } GB restantes este mes
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage"> { $usageLeft } MB</span> de { $maxUsage } GB restantes
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
