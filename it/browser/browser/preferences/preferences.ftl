@@ -1287,6 +1287,9 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Aggiungi nuovo contenitore
     .accesskey = n
+containers-new-tab-check3 =
+    .label = Scegli un contenitore per ogni nuova scheda
+    .accesskey = c
 containers-new-tab-check2 =
     .label = Scegli un contenitore per ogni nuova scheda
     .accesskey = c
@@ -2829,4 +2832,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = La configurazione automatica del proxy è attiva
     .description = La configurazione automatica del proxy potrebbe consentire a reti non affidabili di monitorare la tua attività.
-
