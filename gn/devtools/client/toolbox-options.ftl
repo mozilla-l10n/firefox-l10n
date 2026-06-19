@@ -118,6 +118,14 @@ options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
 ## Local Mode section
 
 options-local-mode-domain-label = Mba’eteete mboavapyre:
+options-local-mode-origin-input =
+    .placeholder = Mapeo local peguarã reñoiha
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Ko teñoiha ojoavy ambue mapeo oĩmavavoi ndive
+options-local-mode-origin-invalid = Ko teñoiha ndoikói
+options-local-mode-folder-label = Ñongatuha pypegua:
+options-local-mode-choose-folder = Kundaha…
+    .title = Eiporavo ñongatuha pypegua oiko hag̃ua ko me’ẽmby
 
 ## Advanced section
 
