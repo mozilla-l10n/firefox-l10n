@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Jo kinne opjaan hokker websites altyd of nea tastimming hawwe om cookies en websitegegevens te brûken. Typ it eksakte adres fan de website dy’t jo beheare wolle en klik dêrnei op Blokkearje, Tastean foar sesje of Tastean.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Utsûnderingen - Skiednis wiskje by ôfsluten
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Jo kinne opjaan hokker websites harren gegevens behâlde wannear’t { -brand-short-name } skiednis by ôfsluten wisket. Typ it eksakte adres fan de website dy’t jo beheare wolle en klik dernei op Tastean.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

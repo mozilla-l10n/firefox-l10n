@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Kin net bywurkje – systeem net kompatibel
 appmenuitem-banner-update-restart =
     .label = Fernijing beskikber – no opnij starte
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Untfang in nije { -brand-short-name }. Behâld al jo ljebblêden.
+appmenu-nova-update-link = Opnij starte om by te wurkjen
+appmenu-nova-fxa-sign-in = Oanmelde
+appmenu-nova-switch-device-promo =
+    .message = Krije jo ynkoarten in nij apparaat? Nim { -brand-short-name } mei jo mei!
+appmenu-nova-switch-device-link = Jo gegevens migrearje
 appmenuitem-new-tab =
     .label = Nij ljepblêd
 appmenuitem-new-window =

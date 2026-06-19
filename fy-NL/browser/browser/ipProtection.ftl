@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Brûk ús nije <a data-l10n-name
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Foegje noch in laach privacy ta
 ipprotection-feature-introduction-link-text-privacy-1 = De ynboude VPN fan <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út ferskate lokaasjes om jo navigaasje mear privee te hâlden.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">De ynboude VPN fan { -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út meardere lokaasjes om jo navigaasje mear privee te hâlden.
+ipprotection-feature-introduction-link-text-privacy-3 = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út meardere lokaasjes  om te ferbergjen wêr’t jo sneupe.
+ipprotection-feature-introduction-text-summer-promo-1 = Skeakelje it yn om jo navigaasje mear privee te hâlden. <a data-l10n-name="summer-promo-link">Untfang ûnbeheinde bânbreedte</a> en mear lokaasjes om fan te blêdzjen. No oant en mei 31 augustus.
+ipprotection-feature-introduction-title-summer-promo = Hawwe jo reisplannen? Nim jo privacy mei jo mei.
+ipprotection-feature-introduction-description-summer-promo = Gean fierder mei de ynboude VPN fan { -brand-product-name }: mear lokaasjes, ûnbeheinde bânbreedte. No oant en mei 31 augustus.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen, sels as jo yn in priveefinster binne.
 ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN fan arkbalke fuortsmite
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN fan arkbalke fuortsmite
+ipprotection-feature-introduction-button-open-vpn = VPN iepenje
 ipprotection-feature-introduction-button-get-started = Begjinne
 
 ## Site settings callout
@@ -159,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Skeakelje VPN yn om jo lokaas
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN yn om</a> hieltyd as jo { -brand-short-name } iepenje yn te skeakeljen foar in ekstra beskermingslaach.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ûnthâldt hokker websites jo ynsteld hawwe foar it gebrûk fan VPN. Wurkje dizze op elk winske momint by yn de <a data-l10n-name="setting-link">ynstellingen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizze website
+ipprotection-open-button = { -brand-product-name } iepenje
+ipprotection-come-back-title = Kom werom om de ynboude VPN te probearjen
+ipprotection-message-body-hide-location = Ferbergje jo lokaasje as jo navigearje yn { -brand-product-name } foar mear privacy en kontrôle.
 ipprotection-connection-status-generic-error-title-1 = Kin net ferbine mei VPN
     .aria-label = Kin net ferbine mei VPN
 
@@ -228,6 +237,11 @@ ip-protection-exclusions-desc = VPN foar alle websites brûke, útsein websites 
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB fan { $maxUsage } GB restearjend dizze moanne
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> fan { $maxUsage } GB restearjend
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +250,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB fan { $maxUsage } GB restear
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB fan { $maxUsage } GB restearjend dizze moanne
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> fan { $maxUsage } GB restearjend
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

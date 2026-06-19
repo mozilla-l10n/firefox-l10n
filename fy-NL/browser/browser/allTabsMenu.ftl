@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Nij kontenerljepblêd
 all-tabs-menu-hidden-tabs =
     .label = Ferstoppe ljepblêden
+all-tabs-menu-close-duplicate-tabs =
+    .label = Dûbele ljepblêden slute
 all-tabs-menu-manage-user-context =
     .label = Konteners beheare
     .accesskey = K
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Ljepblêdgroepen
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Alle ljepblêden trochsykje

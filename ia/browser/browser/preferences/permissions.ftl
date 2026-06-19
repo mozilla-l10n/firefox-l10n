@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o 
 permissions-exceptions-shutdown-clearing-window =
     .title = Exceptiones - Vacuar chronologia al clausura
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Tu pote specificar que sitos web retenera lor datos quando { -brand-short-name } cancellara tu chronologia al clausura. Typa le adresse exacte del sito que tu vole gerer e pois clicca Permitter.
 
 ## Exceptions - HTTPS-Only Mode
 
