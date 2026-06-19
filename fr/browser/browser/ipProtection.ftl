@@ -31,9 +31,9 @@ ipprotection-feature-introduction-title-privacy = Ajoutez une couche supplément
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez parmi plusieurs emplacements pour renforcer la confidentialité de vos activités en ligne.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez parmi plusieurs emplacements pour renforcer la confidentialité de vos activités en ligne.
 ipprotection-feature-introduction-link-text-privacy-3 = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi plusieurs emplacements pour dissimuler votre localisation.
-ipprotection-feature-introduction-text-summer-promo-1 = Activez-le pour une navigation plus privée. <a data-l10n-name="summer-promo-link">Obtenez une bande passante illimitée</a> et la possibilité de naviguer depuis davantage de lieux. Maintenant jusqu’au 31 août.
-ipprotection-feature-introduction-title-summer-promo = Vous avez des projets de voyage ? Emportez votre vie privée avec vous.
-ipprotection-feature-introduction-description-summer-promo = Allez plus loin avec le VPN intégré de { -brand-product-name } : plus d’emplacements, une bande passante illimitée. Maintenant jusqu’au 31 août.
+ipprotection-feature-introduction-text-summer-promo-1 = Activez-le pour renforcer la confidentialité de votre navigation. <a data-l10n-name="summer-promo-link">Profitez d’une bande passante illimitée</a> et accédez à encore plus d’emplacements depuis lesquels naviguer. Offre valable jusqu’au 31 août.
+ipprotection-feature-introduction-title-summer-promo = Vous avez des projets de voyage ? Protégez votre vie privée partout où vous allez.
+ipprotection-feature-introduction-description-summer-promo = Allez plus loin avec le VPN intégré à { -brand-product-name } : plus d’emplacements et bande passante illimitée. Offre valable jusqu’au 31 août.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
 ipprotection-feature-introduction-description-private-browsing = Naviguez avec une protection supplémentaire en masquant votre localisation, même dans une fenêtre de navigation privée.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -167,7 +167,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = Le VPN est désactivé pour ce site
 ipprotection-open-button = Ouvrir { -brand-product-name }
 ipprotection-come-back-title = Revenez essayer le VPN intégré
-ipprotection-message-body-hide-location = Masquez votre localisation lorsque vous naviguez dans { -brand-product-name }, pour plus de contrôle et de confidentialité.
+ipprotection-message-body-hide-location = Masquez votre localisation lorsque vous naviguez avec { -brand-product-name } pour plus de confidentialité et de contrôle.
 ipprotection-connection-status-generic-error-title-1 = Impossible de se connecter au VPN
     .aria-label = Impossible de se connecter au VPN
 
