@@ -15,6 +15,11 @@ appmenuitem-banner-update-unsupported =
     .label = No s'ha pogut actualitzar — sistema incompatible
 appmenuitem-banner-update-restart =
     .label = Hi ha una actualització — reinicia ara
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Obteniu un { -brand-short-name } nou. Conserveu totes les teves pestanyes.
+appmenu-nova-update-link = Reinicieu per actualitzar
+appmenu-nova-fxa-sign-in = Inicia la sessió
 appmenuitem-new-tab =
     .label = Pestanya nova
 appmenuitem-new-window =

@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Pestanya de contenidor nova
 all-tabs-menu-hidden-tabs =
     .label = Pestanyes ocultes
+all-tabs-menu-close-duplicate-tabs =
+    .label = Tanca les pestanyes duplicades
 all-tabs-menu-manage-user-context =
     .label = Gestiona els contenidors
     .accesskey = o
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grups de pestanyes
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Cerca a totes les pestanyes
