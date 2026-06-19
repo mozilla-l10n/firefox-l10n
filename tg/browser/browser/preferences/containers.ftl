@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Ном
+    .placeholder = Номеро илова намоед
+containers-icon-label2 =
+    .label = Нишона
+containers-color-label2 =
+    .label = Ранг
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Дарахт
 containers-icon-chill =
     .label = Истироҳат
+containers-window-new3 =
+    .title = Илова кардани дарбаргирандаи нав
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Танзимоти дарбаргирандаи { $name }
+    .style = min-width: 32em

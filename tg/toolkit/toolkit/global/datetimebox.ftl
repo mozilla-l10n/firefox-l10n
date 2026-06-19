@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Тақвим
+datetime-time =
+    .aria-label = Вақт

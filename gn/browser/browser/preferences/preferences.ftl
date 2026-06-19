@@ -1272,6 +1272,15 @@ containers-settings-button =
     .label = Ñemboheko
 containers-remove-button =
     .label = Mboguete
+containers-section-header2 =
+    .heading = Mba’yru ñemboheko
+containers-add-button2 =
+    .label = Embojuaju mba’yru pyahu
+    .accesskey = A
+containers-settings-button2 =
+    .title = Ñemboheko
+containers-remove-button2 =
+    .title = Mboguete
 
 ## Account and sync
 
@@ -1279,6 +1288,9 @@ sync-group-label =
     .label = Mbojuehe
 account-group-label2 =
     .label = Mba’ete
+account-disabled-group =
+    .label = Mba’ete
+    .description = Mba’ete ñemboheko ndojeporukuaái.
 account-placeholder2 =
     .label = Avave ndojeikéi gueteri
     .description = Eike ha eñongatu nde VPN mba’ekuaarã ñemi, ipapapypy ha ojeikekuaaha opaite reiporusehápe { -brand-short-name }.

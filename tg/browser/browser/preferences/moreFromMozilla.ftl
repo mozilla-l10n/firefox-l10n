@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Бештар аз «{ -vendor-short-name }»
+more-from-moz-page-header =
+    .heading = Бештар аз «{ -vendor-short-name }»
 more-from-moz-category =
     .tooltiptext = Бештар аз «{ -vendor-short-name }»
 more-from-moz-subtitle = Маҳсулоти { -vendor-short-name }-и дигареро озмоед, ки барои дастгирии Интернети солим кор мекунанд.

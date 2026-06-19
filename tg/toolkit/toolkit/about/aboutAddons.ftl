@@ -41,7 +41,7 @@ detail-version =
 detail-last-updated =
     .label = Санаи навсозии охирин
 addon-detail-description-expand = Бештар нишон диҳед
-addon-detail-description-collapse = Камтар нишон диҳед
+addon-detail-description-collapse = Камтар нишон додан
 detail-contributions-description = Барномасози ин ҷузъи иловагӣ мепурсад, ки шумо рушди минбаъдаи барномаро бо саҳмгузории андак дастгирӣ намоед.
 detail-contributions-button = Мусоидат
     .title = Барои рушди минбаъдаи ин ҷузъи иловагӣ мусоидат намоед
@@ -122,6 +122,8 @@ private-browsing-description2 =
     ва ба фаъолияти шумо дар Интернет дастрасӣ пайдо намекунад.
     Мо барои таъмини тамошобинии хусусии шумо дар Интернет, ин тағйирот ворид кардем.
     <label data-l10n-name="private-browsing-learn-more">Дар бораи идоракунии танзимоти васеъшавӣ маълумоти бештар гиред</label>
+aboutaddons-sidebar =
+    .heading = Ҷузъҳои иловагӣ
 addon-category-discover = Тавсияҳо
 addon-category-discover-title =
     .title = Тавсияҳо
@@ -260,7 +262,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Намоиш додани { $numberToShow } дигар
     }
-shortcuts-card-collapse-button = Камтар нишон диҳед
+shortcuts-card-collapse-button = Камтар нишон додан
 header-back-button =
     .title = Бозгашт
 

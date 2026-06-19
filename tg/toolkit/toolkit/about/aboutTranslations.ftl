@@ -19,6 +19,12 @@ about-translations-language-load-error-message-2 =
 about-translations-language-load-error-button = Аз нав кӯшиш кардан
 about-translations-translation-error-subtext = Лутфан, аз нав кӯшиш кунед.
 about-translations-translation-error-button = Аз нав кӯшиш кардан
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Мутаассифона, айни ҳол тарҷумаҳо аз забони «{ $language }» дастгирӣ намешаванд
+about-translations-detected-language-unsupported-heading-unknown-2 = Мутаассифона, айни ҳол тарҷумаҳо аз ин забон дастгирӣ намешаванд
+about-translations-detected-language-unsupported-subtext = Лутфан, забони дигареро интихоб намоед.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Матнеро барои тарҷума илова кунед

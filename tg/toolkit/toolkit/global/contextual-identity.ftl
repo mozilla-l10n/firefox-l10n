@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Идоракунии дарбаргирандаҳо
     .accesskey = И
+user-context-new-tab =
+    .label = Варақаи нав
+    .accesskey = В
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
