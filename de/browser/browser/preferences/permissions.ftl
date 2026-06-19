@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Sie können festlegen, welchen Websites Sie immer oder niemals erlauben möchten, Cookies und Website-Daten zu verwenden. Geben Sie bitte die exakte Adresse der Website ein, die Sie verwalten möchten, und klicken Sie dann Blockieren, für diese Sitzung erlauben oder Erlauben.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Ausnahmen - Chronik beim Beenden löschen
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Sie können angeben, welche Websites ihre Daten behalten, wenn { -brand-short-name } die Chronik beim Schließen löscht. Geben Sie die genaue Adresse der Website ein, die Sie verwalten möchten, und klicken Sie dann auf Erlauben.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

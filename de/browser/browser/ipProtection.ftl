@@ -29,6 +29,9 @@ ipprotection-feature-introduction-link-text-2 = Verwenden Sie unser neues <a dat
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Fügen Sie eine weitere Ebene für den Datenschutz hinzu
 ipprotection-feature-introduction-link-text-privacy-1 = Das integrierte VPN von <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> schützt Ihr Surfen. Wählen Sie einen von mehreren Orten, um Ihre Privatsphäre beim Surfen zu schützen.
+ipprotection-feature-introduction-link-text-privacy-2 = Das <a data-l10n-name="learn-more-vpn"> integrierte VPN von { -brand-product-name }</a> trägt zum Schutz Ihrer Online-Aktivitäten bei. Wählen Sie aus 5 Standorten aus, um Ihre Privatsphäre beim Surfen zu schützen.
+ipprotection-feature-introduction-link-text-privacy-3 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Standorten wählen, um zu verbergen, von wo aus Sie im Internet surfen.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktivieren Sie es, um Ihr Surfen privater zu gestalten. <a data-l10n-name="summer-promo-link">Holen Sie sich unbegrenzte Bandbreite</a> und mehr Standorte zum Surfen. Jetzt bis zum 31. August.
 ipprotection-feature-introduction-title-summer-promo = Haben Sie Reisepläne? Nehmen Sie Privatsphäre mit.
 ipprotection-feature-introduction-description-summer-promo = Kommen Sie noch weiter mit dem integrierten VPN von { -brand-product-name }: mehr Standorte, unbegrenzte Bandbreite. Jetzt bis zum 31. August.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
