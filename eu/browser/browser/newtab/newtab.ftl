@@ -1085,6 +1085,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Jarraitzen ditudan taldeak soilik
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Partida gehiago kargatzen…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Ikusi
