@@ -31,6 +31,9 @@ ipprotection-feature-introduction-title-privacy = Zonte un altri nivel di riserv
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra varis lûcs par rindi plui riservade la tô ativitât in rêt.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra diviersis posizions par rindi plui privade la tô ativitât in rêt.
 ipprotection-feature-introduction-link-text-privacy-3 = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra diviersis posizions cussì di platâ di dulà che tu ti conetis.
+ipprotection-feature-introduction-text-summer-promo-1 = Ativile, par mantignî ancjemò plui privade la tô navigazion in rêt. <a data-l10n-name="summer-promo-link">Aprofite de largjece di bande ilimitade</a> e de pussibilitât di sielzi tra diviersis posizions di dulà navigâ. La ufierte e je valide fin ai 31 di Avost.
+ipprotection-feature-introduction-title-summer-promo = Âstu tal cjâf di fâ un viaç? Puartiti daûr la tô riservatece.
+ipprotection-feature-introduction-description-summer-promo = Supere i confins cu la VPN integrade di { -brand-product-name }: plui posizions, bande ilimitade. Nome fin ai 31 di Avost.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts, ancje cuant tu sês intun barcon privât .
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -48,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Gjave VPN de sbare dai struments
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Gjave VPN de sbare dai struments
+ipprotection-feature-introduction-button-open-vpn = Vierç VPN
 ipprotection-feature-introduction-button-get-started = Scomence
 
 ## Site settings callout
@@ -161,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Ative la VPN par platâ la t�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN in mût che si ativi</a> ogni volte che tu vierzis { -brand-short-name }, cussì di zontâ un nivel in plui di protezion.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si visarà i sîts dulà che tu âs decidût di doprâ la VPN. Tu puedis inzornâju in ogni moment tes <a data-l10n-name="setting-link">impostazions</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN e je disative par chest sît
+ipprotection-open-button = Vierç { -brand-product-name }
+ipprotection-come-back-title = Torne e prove la VPN integrade
+ipprotection-message-body-hide-location = Plate la tô posizion intant che tu navighis in { -brand-product-name } par vê plui riservatece e tignî in man la situazion.
 ipprotection-connection-status-generic-error-title-1 = Impussibil conetisi ae VPN
     .aria-label = Impussibil conetisi ae VPN
 
@@ -230,6 +237,11 @@ ip-protection-exclusions-desc = Dopre la VPN par ducj i sîts, gjavâts chei che
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Ti restin ancjemò { $usageLeft } GB di { $maxUsage } GB chest mês.
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> di { $maxUsage } GB ancjemò disponibii
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -238,6 +250,11 @@ ip-protection-bandwidth-left-gb = Ti restin { $usageLeft } GB di { $maxUsage } G
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Ti restin ancjemò { $usageLeft } MB di { $maxUsage } GB chest mês.
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> di { $maxUsage } GB ancjemò disponibii
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
