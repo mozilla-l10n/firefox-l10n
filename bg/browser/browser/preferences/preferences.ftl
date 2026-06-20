@@ -1159,6 +1159,8 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Показване на думите на търсенето в адресната лента на страниците с резултати
+search-suggestions-header-2 =
+    .label = Предложения от търсещите машини
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1283,6 +1285,9 @@ sync-signedout-description2 = Синхронизирайте вашите отм
 sync-signedout-account-signin3 =
     .label = Вписване за синхронизиране…
     .accesskey = и
+sync-signedout-account-signin-4 =
+    .label = Влезте в профила си, за да започнете синхронизирането
+    .accesskey = В
 sync-signedout-account-short =
     .label = Вписване
     .accesskey = В
@@ -1589,6 +1594,13 @@ forms-primary-pw-use-2 =
     .label = Използвайте основна парола
     .description = Добавя допълнителен слой сигурност, за да защити запазените ви пароли.
     .accesskey = й
+forms-primary-pw-set =
+    .label = Задаване на главна парола
+forms-primary-pw-on =
+    .label = Главната парола е ВКЛЮЧЕНА
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Изключете го
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Изисква се влизане в устройство за попълването и управлението на паролите
@@ -1847,12 +1859,20 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Изключения…
     .accesskey = з
+sitedata-cookies-exceptions2 =
+    .label = Управление на изключенията
+    .accesskey = и
+    .description = Можете да посочите кои уебсайтове винаги или никога не са разрешени за използване на бисквитки и данни за сайта.
 sitedata-heading =
     .label = Данни за сърфирането
     .description = Управлявайте вашите бисквитки, история, кеш, данни за сайтове и др.
 sitedata-settings3 =
     .label = Изчистване на данни за конкретни сайтове
     .accesskey = ч
+sitedata-cookies-exceptions3 =
+    .label = Управление на изключенията
+    .accesskey = У
+    .description = Изберете как конкретни сайтове обработват бисквитки и данни за сайта.
 cookies-site-data-group =
     .label = Бисквитки и данни на страници
 
