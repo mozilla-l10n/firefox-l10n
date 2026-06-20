@@ -15,6 +15,10 @@ appmenuitem-banner-update-unsupported =
     .label = Навсозӣ намешавад — низом мувофиқат намекунад
 appmenuitem-banner-update-restart =
     .label = Навсозӣ дастрас аст — ҳозир браузерро аз нав оғоз кунед
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Навсозии «{ -brand-short-name }»-ро ба даст оред. Ҳамаи варақаҳои худро нигоҳ доред.
+appmenu-nova-update-link = Барои татбиқи навсозӣ аз нав оғоз кунед
 appmenu-nova-fxa-sign-in = Ворид шудан
 appmenuitem-new-tab =
     .label = Варақаи нав
