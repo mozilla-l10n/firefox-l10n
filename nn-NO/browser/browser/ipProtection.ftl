@@ -29,7 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire stader for å gjere kvar du surfar meir privat.
-ipprotection-feature-introduction-link-text-privacy-2 = Det integrerte VPN-et til { -brand-product-name } hjelper til med å beskytte surfinga di. Vel mellom fleire stadar for å beskytte personvernet ditt når du surfar.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Det integrerte VPN-et til { -brand-product-name }</a> hjelper til med å beskytte surfinga di. Vel mellom fleire stadar for å beskytte personvernet ditt når du surfar.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire stadar for å skjule kvar du surfar.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjere surfinga di meir privat. <a data-l10n-name="summer-promo-link">Få uavgrensa bandbreidde</a> og fleire stadar å surfe frå. No til og med 31. august.
 ipprotection-feature-introduction-title-summer-promo = Skal du ut å reise? Ta personvernet med deg.
