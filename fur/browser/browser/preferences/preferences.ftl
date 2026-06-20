@@ -2659,7 +2659,7 @@ security-privacy-status-trackers-label =
        *[other] { $trackerCount } spiis blocadis intal ultin mês
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
-security-privacy-status-strict-enabled-label = Tu stâs doprant la <a data-l10n-name="strict-tracking-protection">protezion rigorose</a>
+security-privacy-status-strict-enabled-label = Tu stâs doprant la <a data-l10n-name="strict-tracking-protection">protezion restritive</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Tu stâs doprant la <a data-l10n-name="custom-tracking-protection">protezion personalizade</a>
 security-privacy-status-up-to-date-label = Tu âs instalade la ultime e plui sigure version di { -brand-short-name }
@@ -2689,5 +2689,18 @@ preferences-etp-status-header =
 preferences-etp-level-standard =
     .label = Standard (predefinît)
     .description = Fuarte e afidabile protezion che e funzione ben cu la maiorance dai sîts web.
+preferences-etp-level-strict =
+    .label = Restritive
+    .description = Protezions plui fuartis che a fermin plui spiis, ma che a puedin creâ malfunzionaments su cualchi sît.
+preferences-etp-level-custom =
+    .label = Personalizade
+    .description = Sielç ce protezion ativâ o disativâ.
+preferences-etp-status-advanced-button =
+    .label = Impostazions avanzadis
+preferences-etp-status-protections-dashboard-link =
+    .label = Viôt il cruscot cu lis protezions personalizadis
+    .description = Viôt tropis spiis insidiosis che { -brand-short-name } al à blocât par te, includudis spiis dai social media, rilevadôrs di stamp numeric e minadôrs di criptomonede.
+preferences-etp-header =
+    .heading = Protezion miorade da lis spiis
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît

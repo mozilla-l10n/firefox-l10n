@@ -104,6 +104,9 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Κλείσιμο πολλαπλών καρτελών
     .accesskey = π
+tab-context-close-multiple-tabs2 =
+    .label = Κλείσιμο πολλαπλών
+    .accesskey = μ
 tab-context-close-duplicate-tabs =
     .label = Κλείσιμο διπλών καρτελών
     .accesskey = λ
@@ -138,6 +141,13 @@ tab-context-close-n-tabs =
            *[other] Κλείσιμο { $tabCount } καρτελών
         }
     .accesskey = Κ
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Κλείσιμο
+           *[other] Κλείσιμο { $tabCount } καρτελών
+        }
+    .accesskey = Κ
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -145,6 +155,18 @@ tab-context-move-tabs =
            *[other] Μετακίνηση καρτελών
         }
     .accesskey = τ
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Μετακίνηση καρτέλας σε
+           *[other] Μετακίνηση { $tabCount } καρτελών σε
+        }
+    .accesskey = ν
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Μετακίνηση διαχωρισμένης προβολής σε
+    .accesskey = ν
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -152,6 +174,9 @@ tab-context-send-to-device =
             [1] Αποστολή σε συσκευή
            *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
         }
+    .accesskey = π
+tab-context-send-to-device2 =
+    .label = Αποστολή στις συσκευές
     .accesskey = π
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
