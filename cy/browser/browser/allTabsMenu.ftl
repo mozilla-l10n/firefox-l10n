@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Tab Cynhwysydd Newydd
 all-tabs-menu-hidden-tabs =
     .label = Tabiau Cudd
+all-tabs-menu-close-duplicate-tabs =
+    .label = Cau Tabiau Dyblyg
 all-tabs-menu-manage-user-context =
     .label = Rheoli Cynwysyddion
     .accesskey = h
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grwpiau tabiau
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Chwilio'r Tabiau i Gyd
