@@ -30,6 +30,10 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire stader for å gjere kvar du surfar meir privat.
 ipprotection-feature-introduction-link-text-privacy-2 = Det integrerte VPN-et til { -brand-product-name } hjelper til med å beskytte surfinga di. Vel mellom fleire stadar for å beskytte personvernet ditt når du surfar.
+ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire stadar for å skjule kvar du surfar.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjere surfinga di meir privat. <a data-l10n-name="summer-promo-link">Få uavgrensa bandbreidde</a> og fleire stadar å surfe frå. No til og med 31. august.
+ipprotection-feature-introduction-title-summer-promo = Skal du ut å reise? Ta personvernet med deg.
+ipprotection-feature-introduction-description-summer-promo = Få meir ut av { -brand-product-name } sitt innebygde VPN: fleire stadar, uavgrensa bandbreidde. No til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -47,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Fjern VPN frå verktøylinja
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN frå verktøylinja
+ipprotection-feature-introduction-button-open-vpn = Opne VPN
 ipprotection-feature-introduction-button-get-started = Kom i gang
 
 ## Site settings callout
@@ -160,6 +165,8 @@ ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Still inn VPN til å slå seg på</a> kvar gong du opnar { -brand-short-name } for eit ekstra lag med vern.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hugsar kva nettstadar du har stilt inn til å bruke VPN. Oppdater desse i <a data-l10n-name="setting-link">innstillingar</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
+ipprotection-open-button = Opne { -brand-product-name }
+ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
 ipprotection-connection-status-generic-error-title-1 = Klarte ikkje å kople til VPN
     .aria-label = Klarte ikkje å kople til VPN
 
