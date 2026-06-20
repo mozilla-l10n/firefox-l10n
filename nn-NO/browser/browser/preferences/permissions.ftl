@@ -90,6 +90,9 @@ permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som a
 
 ## Exceptions - Clear on Shutdown
 
+permissions-exceptions-shutdown-clearing-window =
+    .title = Unntak – Tøm historikk ved avslutting
+    .style = { permissions-window2.style }
 permissions-exceptions-shutdown-clearing-desc = Du kan angi kva nettstadar som skal behalde dataa sine når { -brand-short-name } tømmer historikken ved avslutning. Skriv inn den nøyaktige adressa til nettstaden du vil behandle, og klikk deretter på Tillat.
 
 ## Exceptions - HTTPS-Only Mode
