@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Rimuovi tutti i siti web
     .accesskey = t
+permissions-save-changes-2 =
+    .buttonlabelaccept = Salva modifiche
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Salva modifiche
     .buttonaccesskeyaccept = S
@@ -240,4 +243,3 @@ permissions-doh-remove =
 permissions-doh-remove-all =
     .label = Rimuovi tutti
     .accesskey = u
-
