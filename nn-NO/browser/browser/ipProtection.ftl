@@ -29,6 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire stader for å gjere kvar du surfar meir privat.
+ipprotection-feature-introduction-link-text-privacy-2 = Det integrerte VPN-et til { -brand-product-name } hjelper til med å beskytte surfinga di. Vel mellom fleire stadar for å beskytte personvernet ditt når du surfar.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
 # Used for callout shown on login to public wi-fi through a captive portal
