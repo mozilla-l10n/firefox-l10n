@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Gallwch bennu pa wefannau sy'n cael defnyddio cwcis a data gwefannau, neu beidio.  Teipiwch union gyfeiriad y wefan rydych am ei reoli ac yna clicio Rhwystro, Caniatáu am y Sesiwn neu Caniatáu.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Eithriadau - Clirio Hanes wrth Gau
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Gallwch chi nodi pa wefannau fydd yn cadw eu data pan fydd { -brand-short-name } yn clirio hanes wrth gau. Teipiwch union gyfeiriad y wefan rydych chi am ei rheoli ac yna cliciwch Caniatáu.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

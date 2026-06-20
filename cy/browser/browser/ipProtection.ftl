@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-nam
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
 ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
+ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
+ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o blith nifer o leoliadau i guddio lle rydych chi'n pori.
+ipprotection-feature-introduction-text-summer-promo-1 = Trowch ef ymlaen i gadw'ch pori yn fwy preifat. <a data-l10n-name="summer-promo-link">Cael lled band anghyfyngedig</a> a mwy o leoliadau i bori ynddynt. Nawr tan Awst 31.
+ipprotection-feature-introduction-title-summer-promo = Oes gennych chi gynlluniau teithio? Ewch â phreifatrwydd gyda chi.
+ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN mewnol { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Tynnu VPN o'r bar offer
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Tynnu VPN o'r bar offer
+ipprotection-feature-introduction-button-open-vpn = Agor y VPN
 ipprotection-feature-introduction-button-get-started = Cychwyn arni
 
 ## Site settings callout
@@ -159,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Trowch y VPN ymlaen i guddio'
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Gosod y VPN i droi ymlaen</a> bob tro byddwch yn agor { -brand-short-name } am haen ychwanegol o ddiogelwch.
 ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-name } yn cofio pa wefannau rydych chi wedi'u gosod i ddefnyddio'r VPN. Diweddarwch y rhain yn y  <a data-l10n-name="setting-link">gosodiadau</a> ar unrhyw bryd.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Mae'r VPN i ffwrdd ar y wefan hon
+ipprotection-open-button = Agor { -brand-product-name }
+ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN mewnol
+ipprotection-message-body-hide-location = Cuddiwch eich lleoliad pan fyddwch yn pori yn { -brand-product-name } am fwy o breifatrwydd a rheolaeth.
 ipprotection-connection-status-generic-error-title-1 = Methu cysylltu â'r VPN
     .aria-label = Methu cysylltu â'r VPN
 
@@ -232,6 +241,11 @@ ip-protection-exclusions-desc = Defnyddiwch y VPN ar gyfer pob gwefan ac eithrio
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB o { $maxUsage } GB ar ôl y mis hwn
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> o { $maxUsage } GB ar ôl
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -240,6 +254,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB o { $maxUsage } GB ar ôl
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } GB o { $maxUsage } GB ar ôl y mis hwn
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> o { $maxUsage } GB ar ôl
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
