@@ -103,12 +103,12 @@ about-processes-with-coop-coep-process-private = { $origin } — Preifat ({ $pid
 #                   Can be an empty string if the process is idle.
 about-processes-active-threads =
     { $active ->
-        [zero] { $active } edafedd gweithredol allan o { $number }:{ $list }
-        [one] { $active } edafedd gweithredol allan o { $number }:{ $list }
-        [two] { $active } edafedd gweithredol allan o { $number }:{ $list }
-        [few] { $active } edafedd gweithredol allan o { $number }:{ $list }
-        [many] { $active } edafedd gweithredol allan o { $number }:{ $list }
-       *[other] { $active } edafedd gweithredol allan o { $number }:{ $list }
+        [zero] { $active } edafedd gweithredol allan o { $number }: { $list }
+        [one] { $active } edefyn gweithredol allan o { $number }: { $list }
+        [two] { $active } edefyn gweithredol allan o { $number }: { $list }
+        [few] { $active } edefyn gweithredol allan o { $number }: { $list }
+        [many] { $active } edefyn gweithredol allan o { $number }: { $list }
+       *[other] { $active } edefyn gweithredol allan o { $number }: { $list }
     }
 # Single-line summary of threads (idle process)
 # Variables:
