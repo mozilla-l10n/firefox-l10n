@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Sekmeyi tazele
     .accesskey = z
+reload-tab2 =
+    .label = Tazele
+    .accesskey = z
 select-all-tabs =
     .label = Tüm sekmeleri seç
     .accesskey = ü
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Sekmeyi çoğalt
     .accesskey = o
+duplicate-tab2 =
+    .label = Çoğalt
+    .accesskey = o
 duplicate-tabs =
     .label = Sekmeleri çoğalt
+    .accesskey = o
+duplicate-tabs2 =
+    .label = Çoğalt
     .accesskey = o
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".

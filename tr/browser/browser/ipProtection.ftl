@@ -46,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN’i araç çubuğundan kaldır
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN’i araç çubuğundan kaldır
+ipprotection-feature-introduction-button-open-vpn = VPN’i aç
 ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
 
 ## Site settings callout
