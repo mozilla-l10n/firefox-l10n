@@ -5,7 +5,7 @@
 customize-mode-restore-defaults =
     .label = Adfer y Rhagosodiadau
 customize-mode-menu-and-toolbars-header = Llusgwch eich hoff eitemau i'r bar offer neu'r ddewislen ychwanegol.
-customize-mode-overflow-list-title = Dewislen Gorlif
+customize-mode-overflow-list-title = Dewislen Ychwanegol
 customize-mode-uidensity =
     .label = Dwysedd
 customize-mode-done =
