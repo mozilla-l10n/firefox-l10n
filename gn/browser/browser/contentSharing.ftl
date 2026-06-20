@@ -28,6 +28,7 @@ content-sharing-modal-sign-in-2 =
 content-sharing-modal-title-2 = Emoherakuã ko’ã kuatiarogue ejaposéva ndive
 content-sharing-modal-title-signed-in = Nde juajuhaita oĩma hemoherakuã hag̃uáicha
 content-sharing-modal-description-2 = Eike emoheñói hag̃ua kuatiarogue juajuha hasy’ỹva imoherakuã. Ndaikatúi embosako’i térã embogue ha hu’ãta 7 árape.
+content-sharing-modal-description-signed-in = Eike emoheñói hag̃ua kuatiarogue juajuha hasy’ỹva imoherakuã. Ndaikatúi embosako’i térã embogue ha hu’ãta 7 árape.
 content-sharing-modal-policy = Emoherakuãvo, emoneĩ ore <a data-l10n-name="aup-link">Jeporurã reko ñemoneĩva</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.

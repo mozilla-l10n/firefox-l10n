@@ -391,6 +391,7 @@ quickactions-bookmarks2 = Eñangareko techaukaháre
 quickactions-cmd-bookmarks = techaukaha
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tembiasakue ramovéva ñembogue
+quickactions-cmd-clearrecenthistory2 = kookieita, embogue kookie, kache, embogue kache, ñeikundaha mba’ekuaarã, embogue ñeikundaha mba’ekuaarã, tembiasakue, embogue tembiasakue ipyahúva
 quickactions-cmd-clearrecenthistory = Embogue tembiasakue ramovéva, tembiasakue
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Embogue Tembiasakue

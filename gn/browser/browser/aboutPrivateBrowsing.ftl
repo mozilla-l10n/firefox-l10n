@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Ko’ág̃a romboyke pya’e 
 about-private-browsing-felt-privacy-v1-info-header = Ani eheja ko mba’e’oka rapykuere
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } ombogue kookie, tembiasakue ha mba’ekuaarã tendápe embotypávo ne rovetã ñemiguáva.
 about-private-browsing-felt-privacy-v1-info-link = Mávapa ohechakuaa che rembiapo
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Oñembotývo ovetãita ñemi oguéta kookieita, tembiasakue ha tenda mba’ekuaarãita.
