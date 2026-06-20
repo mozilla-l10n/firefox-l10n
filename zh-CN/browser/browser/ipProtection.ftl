@@ -46,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = 从工具栏移除 VPN
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 从工具栏移除 VPN
+ipprotection-feature-introduction-button-open-vpn = 打开 VPN
 ipprotection-feature-introduction-button-get-started = 开始使用
 
 ## Site settings callout
