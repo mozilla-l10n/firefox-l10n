@@ -29,6 +29,8 @@ ipprotection-feature-introduction-link-text-2 = Dopre la nestre gnove <a data-l1
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Zonte un altri nivel di riservatece
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra varis lûcs par rindi plui riservade la tô ativitât in rêt.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra diviersis posizions par rindi plui privade la tô ativitât in rêt.
+ipprotection-feature-introduction-link-text-privacy-3 = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra diviersis posizions cussì di platâ di dulà che tu ti conetis.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts, ancje cuant tu sês intun barcon privât .
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
 # Used for callout shown on login to public wi-fi through a captive portal
