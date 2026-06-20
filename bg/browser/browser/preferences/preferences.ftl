@@ -561,6 +561,10 @@ settings-translations-subpage-no-languages-downloaded =
 settings-translations-subpage-no-languages-added =
     .label = Няма добавени езици
 settings-translations-subpage-download-progress = Изтеглянето се извършва…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Не може да се изтегли { $language } ({ $size } MB)
 settings-translations-subpage-download-retry-button =
     .label = Опитайте отново
 # Variables:
@@ -785,6 +789,9 @@ about-firefox-header =
 
 ## Firefox updates
 
+update-application-heading =
+    .label = Актуализации на { -brand-short-name }
+    .description = Актуализациите подобряват скоростта, стабилността и сигурността на { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Известия
 update-application-updates-managed-by-os =
@@ -932,6 +939,8 @@ home-default-browser-title =
     .label = Браузър по подразбиране
 is-default-browser-2 =
     .message = { -brand-short-name } е вашият браузър по подразбиране. Добър избор.
+is-not-default-browser-2 =
+    .message = Ехо-о, { -brand-short-name } не е вашият стандартен браузър.
 set-as-my-default-browser-2 =
     .label = Задаване като стандартен
     .accesskey = с
@@ -1168,6 +1177,11 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Показване на думите на търсенето в адресната лента на страниците с резултати
+search-separate-default-engine-2 =
+    .label = Използване на друга търсеща машина по подразбиране в поверителните прозорци
+    .accesskey = д
+search-separate-default-engine-dropdown =
+    .aria-label = Търсеща машина по подразбиране в поверителни прозорци
 search-suggestions-header-2 =
     .label = Предложения от търсещите машини
 # With this option enabled, on the search results page
@@ -1227,6 +1241,10 @@ search-keyword-warning-title = Дублиране на ключовата дум
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
 search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Вече има търсеща машина с име „{ $name }“. Моля, изберете друго име.
 remove-engine-confirmation = Сигурни ли сте, че искате да премахнете тази търсеща машина?
 remove-engine-remove = Премахване
 remove-addon-engine-alert = За да премахнете тази търсачка, премахнете свързаната добавка.
@@ -2591,6 +2609,8 @@ preferences-etp-reload-tabs-hint =
     .message = Презаредете разделите, за да бъдат приложени тези промени.
 preferences-etp-reload-tabs-hint-button =
     .label = Презареждане на всички раздели
+preferences-etp-reset-standard-button =
+    .label = Нулиране до стандартно
 preferences-etp-custom-control-group =
     .label = Защита от проследяване
     .description = Изберете кои функции за защита да бъдат активирани или деактивирани.
@@ -2618,3 +2638,5 @@ preferences-etp-custom-known-fingerprinting-protection-enabled =
     .label = Познати скриптове, които събират данни
 preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Подозрителни скриптове, които събират данни
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Съмнения за снемане на цифрови отпечатъци

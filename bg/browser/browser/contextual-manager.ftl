@@ -62,6 +62,16 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Паролите са внесени
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Нови: { $added }, Актуализирани: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Нови: { $added }, Актуализирани: { $modified }, Дубликати: { $no_change }, Грешки: { $error }
 contextual-manager-passwords-import-detailed-report = Подробен доклад
 contextual-manager-passwords-import-success-button = Готово
 contextual-manager-passwords-import-error-heading-and-message =
@@ -69,11 +79,14 @@ contextual-manager-passwords-import-error-heading-and-message =
     .message = Уверете се, че файлът ви включва колона за уебсайтове, потребителски имена и пароли.
 contextual-manager-passwords-import-error-button-try-again = Опитайте отново
 contextual-manager-passwords-import-error-button-cancel = Отказ
+contextual-manager-passwords-import-learn-more = Научете за внасянето на пароли
 contextual-manager-passwords-export-success-heading =
     .heading = Паролите са изнесени
 contextual-manager-passwords-export-success-button = Готово
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Изнасяне на паролите във файл?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = След като изнесете паролите, препоръчваме да изтриете файла, за да не може други хора, които ползват това устройство, да видят вашите пароли.
 contextual-manager-export-passwords-dialog-confirm-button = Продължете с изнасянето
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Изнасяне на пароли от { -brand-short-name }
@@ -119,9 +132,26 @@ contextual-manager-passwords-password-label = Парола
     .data-after = Копирана
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Филтриране на пароли
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Парола е добавена за { $url }
 contextual-manager-passwords-add-password-success-button = Преглед
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Парола и потребителско име за { $url } вече съществуват.
+contextual-manager-passwords-password-already-exists-error-button = Идете към паролата.
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Паролата е запазена.
 contextual-manager-passwords-update-password-success-button = Готово
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Потребителското име е запазено.
 contextual-manager-passwords-delete-password-success-button = Готово
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Всички ({ $total })
 # Radiobutton label to display total number of alerts
 #   $total (number) - Total number of alerts
 contextual-manager-passwords-radiobutton-alerts = Сигнали ({ $total })
@@ -140,6 +170,7 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Препоръчителна промяна на паролата
     .message = Паролите от този уебсайт са докладвани като откраднати или изтекли. Сменете паролата си, за да защитите вашия профил.
+contextual-manager-passwords-breached-origin-link-message = Как { -brand-product-name } узнава за пробиви?
 contextual-manager-passwords-change-password-button = Промяна на парола
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Препоръчва се промяна на паролата
@@ -149,16 +180,21 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Добавете потребителско име
     .message = Добавете потребителско име за по-бързо вписване.
 contextual-manager-passwords-add-username-button = Добавяне на потребителско име
+contextual-manager-passwords-title = Пароли
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Добавяне на парола
+contextual-manager-passwords-update-label =
+    .label = Актуализиране на паролата
 contextual-manager-passwords-edit-label =
     .label = Редактиране на паролата
 contextual-manager-passwords-remove-label =
     .title = Премахване на паролата
+contextual-manager-passwords-origin-tooltip = Въведете точния адрес, откъдето ще се вписвате към този сайт.
 contextual-manager-passwords-username-tooltip = Въведете потребителското име, имейл адреса или номера на профила, които използвате за вход.
+contextual-manager-passwords-password-tooltip = Въведете паролата, ползвана за вписване в този профил.
 
 ## Password Card
 
@@ -170,8 +206,15 @@ contextual-manager-copy-icon =
     .alt = Копиране
 contextual-manager-check-icon-username =
     .alt = Копирано
+contextual-manager-check-icon-password =
+    .alt = Копирано
 contextual-manager-alert-icon =
     .alt = Предупреждение
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Идете на { $url }
+    .title = Идете на { $url }
 contextual-manager-password-login-line =
     .aria-label = Копиране на паролата
     .title = Копиране на паролата

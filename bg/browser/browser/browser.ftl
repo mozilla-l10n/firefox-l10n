@@ -1620,3 +1620,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } позволи { $count } криптоминьора
     }
 trustpanel-cryptominer-tab-list-header = Следните сайтове се опитват да използват криптоминьори:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> Проследяващият скрипт е блокиран на този сайт.
+       *[other] <span data-l10n-name="count">{ $count }</span> Проследяващите скриптове са блокирани на този сайт.
+    }
