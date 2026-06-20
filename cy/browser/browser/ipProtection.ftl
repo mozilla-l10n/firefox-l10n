@@ -31,7 +31,7 @@ ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifat
 ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o blith nifer o leoliadau i guddio lle rydych chi'n pori.
-ipprotection-feature-introduction-text-summer-promo-1 = Trowch ef ymlaen i gadw'ch pori yn fwy preifat. <a data-l10n-name="summer-promo-link">Cael lled band anghyfyngedig</a> a mwy o leoliadau i bori ynddynt. Nawr tan Awst 31.
+ipprotection-feature-introduction-text-summer-promo-1 = Trowch ef ymlaen i gadw'ch pori yn fwy preifat. <a data-l10n-name="summer-promo-link">Cael lled band diderfyn</a> a mwy o leoliadau i bori ynddyn nhw. Nawr tan Awst 31.
 ipprotection-feature-introduction-title-summer-promo = Oes gennych chi gynlluniau teithio? Ewch â phreifatrwydd gyda chi.
 ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN mewnol { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.

@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Awr
 time-spinner-minute-label =
     .aria-label = Munud
+time-spinner-second-label =
+    .aria-label = Eiliad
+time-spinner-millisecond-label =
+    .aria-label = Milieiliad
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Y funud flaenorol
 time-spinner-minute-next =
     .aria-label = Y funud nesaf
+time-spinner-second-previous =
+    .aria-label = Yr ail flaenorol
+time-spinner-second-next =
+    .aria-label = Yr eiliad nesaf
+time-spinner-millisecond-previous =
+    .aria-label = Y milieiliad blaenorol
+time-spinner-millisecond-next =
+    .aria-label = Y milieiliad nesaf
 time-spinner-day-period-previous =
     .aria-label = Cyfnod blaenorol y dydd
 time-spinner-day-period-next =
