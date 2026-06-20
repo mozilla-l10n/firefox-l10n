@@ -2659,7 +2659,7 @@ security-privacy-status-trackers-label =
        *[other] { $trackerCount } spiis blocadis intal ultin mês
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
-security-privacy-status-strict-enabled-label = Tu stâs doprant la <a data-l10n-name="strict-tracking-protection">protezion restritive</a>
+security-privacy-status-strict-enabled-label = Tu stâs doprant la <a data-l10n-name="strict-tracking-protection">protezion rigorose</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Tu stâs doprant la <a data-l10n-name="custom-tracking-protection">protezion personalizade</a>
 security-privacy-status-up-to-date-label = Tu âs instalade la ultime e plui sigure version di { -brand-short-name }
@@ -2671,8 +2671,23 @@ security-privacy-status-update-button-label =
     .label = Inzorne { -brand-short-name }
 security-privacy-image-warning =
     .alt = Un scût cul pont esclamatîf par mostrâti preocupazion sui tiei avîs di sigurece.
+security-privacy-image-ok =
+    .alt = Un scût segnât par mostrâ che no tu âs problemis di sigurece in pîts
+security-privacy-issue-card =
+    .heading = Avîs di sigurece
+issue-card-reset-button =
+    .label = Ripristine
+issue-card-dismiss-button =
+    .tooltiptext = Ignore
+    .aria-label = Ignore
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Protezion miorade da lis spiis
+    .description = I sîts web a doprin spiis par stâ daûr ai tiei moviments in rêt e par mostrâti publicitât invasive. { -brand-short-name } ti fâs scût intant che tu navighis e ti bloche in automatic lis spiis, cussì che tu âs tu il plen control de tô ativitât digjitâl.
+preferences-etp-level-standard =
+    .label = Standard (predefinît)
+    .description = Fuarte e afidabile protezion che e funzione ben cu la maiorance dai sîts web.
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît

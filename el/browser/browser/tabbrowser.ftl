@@ -183,8 +183,14 @@ tabbrowser-customizemode-tab-title = Προσαρμογή του { -brand-short-
 tabbrowser-context-mute-tab =
     .label = Σίγαση καρτέλας
     .accesskey = σ
+tabbrowser-context-mute-tab2 =
+    .label = Σίγαση
+    .accesskey = Σ
 tabbrowser-context-unmute-tab =
     .label = Άρση σίγασης καρτέλας
+    .accesskey = σ
+tabbrowser-context-unmute-tab2 =
+    .label = Άρση σίγασης
     .accesskey = σ
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
