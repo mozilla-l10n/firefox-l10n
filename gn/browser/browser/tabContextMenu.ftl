@@ -88,6 +88,9 @@ tab-context-bookmark-tab2 =
 tab-context-open-in-new-container-tab =
     .label = Ijuruja guerekoha rendayke pyahúpe
     .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = Eike mbyatyha rendayke pyahúpe
+    .accesskey = e
 move-to-start =
     .label = Eguerova Ñepyrũme
     .accesskey = S
@@ -104,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Emboty tendaykeita
     .accesskey = M
+tab-context-close-multiple-tabs2 =
+    .label = Emboty Hekoetáva
+    .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = Emboty tendayke ikõiva
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Emboty tendayke ikõiva
+    .accesskey = x
 tab-context-share-url =
     .label = Moherakuã
     .accesskey = h
@@ -140,6 +149,14 @@ tab-context-close-n-tabs =
            *[other] Emboty { $tabCount } tendaykekuéra
         }
     .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Emboty
+            [one] Emboty { $tabCount } Tendayke
+           *[other] Emboty { $tabCount } Tendaykeita
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -147,6 +164,19 @@ tab-context-move-tabs =
             [one] Eguerova tendaykekuéra
            *[other] Eguerova tendaykekuéra
         }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Emongu’e tendayke amo
+            [one] Emongu’e { $tabCount } tendayke amo
+           *[other] Emongu’e { $tabCount } tendaykeita amo
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Emongu’e jehechaha pehẽ amo
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
@@ -156,6 +186,9 @@ tab-context-send-to-device =
            *[other] Send { $tabCount } Tabs to Device
         }
     .accesskey = Emondo { $tabCount } tendayke mba’e’okápe
+tab-context-send-to-device2 =
+    .label = Emondo ne mba’e’okaitápe
+    .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
