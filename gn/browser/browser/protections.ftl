@@ -246,6 +246,8 @@ privacy-metrics-private-window = { -brand-short-name } ojoko gueteri tapykuehoha
 
 ## VPN promo card and banner
 
+protections-vpn-title = Eraha tekoñemi ñemo’ã mombyryve kundaháragui
 protections-get-vpn-link = Ereko { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Mboheraguapypyre
 protections-vpn-banner-header = Ñemo’ã ohovéva pe kundaháragui.
+protections-vpn-banner-link = Ereko { -mozilla-vpn-brand-name }

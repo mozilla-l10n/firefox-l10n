@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Emombe’u tenda vai
 report-broken-site-panel-intro-text = Ne marandu’i orepytyvõta roikumby ha romyatyrõ hag̃ua apañuái { -brand-product-name } jeiko porãve rekávo.
 report-broken-site-panel-learn-more-link = Eikuaave
+report-broken-site-panel-url-label = Tenda URL osómava
 report-broken-site-panel-reason-intro-text = ¿Mba’e upe ndoikóiva?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Tenda nomyanyhẽi
