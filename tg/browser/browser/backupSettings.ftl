@@ -117,6 +117,12 @@ restore-from-backup-password-description = Ин имкон қулфи нусха
 restore-from-backup-cancel-button = Бекор кардан
 restore-from-backup-confirm-button = Барқарор кардан ва аз нав оғоз намудан
 restore-from-backup-restoring-button = Дар ҳоли барқарорсозӣ…
+restore-from-backup-type-group-label =
+    .label = Профили ҷориро иваз мекунед?
+restore-from-backup-type-replace =
+    .label = Иваз кардани ҳамаи маълумот бо ин нусхаи эҳтиётӣ
+restore-from-backup-type-add =
+    .label = Нигоҳ доштани маълумот ва эҷод кардани профили нав
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
