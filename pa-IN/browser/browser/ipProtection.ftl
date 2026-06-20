@@ -241,7 +241,7 @@ ip-protection-bandwidth-left-this-month-gb = ਇਸ ਮਹੀਨੇ ਲਈ { $ma
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-gb-1 = { " " }{ $maxUsage } GB ਵਿੱਚੋਂ <span data-l10n-name="usage">{ $usageLeft } GB</span> ਬਾਕੀ
+ip-protection-bandwidth-left-gb-1 = { $maxUsage } GB ਵਿੱਚੋਂ <span data-l10n-name="usage">{ $usageLeft } GB</span> ਬਾਕੀ
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,11 +250,6 @@ ip-protection-bandwidth-left-gb = { $maxUsage } GB ਵਿੱਚੋਂ { $usageLe
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = ਇਸ ਮਹੀਨੇ ਲਈ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } MB ਬਾਕੀ ਹੈ
-# The text inside the <span> is emphasized to highlight the amount of data left.
-# Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-mb-1 = { " " }{ $maxUsage } GB ਵਿੱਚੋਂ <span data-l10n-name="usage">{ $usageLeft } MB</span> ਬਾਕੀ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
