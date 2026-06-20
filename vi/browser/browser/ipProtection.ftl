@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="l
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Thêm một lớp bảo mật nữa
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm khác nhau để giữ cho nơi bạn duyệt web được riêng tư hơn.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm để giữ cho nơi bạn duyệt web được riêng tư hơn.
+ipprotection-feature-introduction-link-text-privacy-3 = Nhận <a data-l10n-name="learn-more-vpn">tăng cường quyền riêng tư</a> bằng cách chọn một trong nhiều địa điểm để ẩn nơi bạn duyệt web.
+ipprotection-feature-introduction-text-summer-promo-1 = Hãy bật tính năng này để duyệt web riêng tư hơn. <a data-l10n-name="summer-promo-link">Nhận băng thông không giới hạn</a> và nhiều địa điểm khác để bạn lựa chọn. Từ nay đến hết ngày 31 tháng 8.
+ipprotection-feature-introduction-title-summer-promo = Bạn có kế hoạch du lịch? Hãy mang theo sự riêng tư bên mình.
+ipprotection-feature-introduction-description-summer-promo = Mở rộng phạm vi phủ sóng với VPN tích hợp sẵn của { -brand-product-name }: nhiều địa điểm hơn, băng thông không giới hạn. Áp dụng từ nay đến hết ngày 31 tháng 8.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
 # Used for callout shown on login to public wi-fi through a captive portal
