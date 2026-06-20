@@ -1071,6 +1071,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Chỉ các đội đã theo dõi
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Đang tải thêm kết quả phù hợp…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Xem
@@ -1150,6 +1152,9 @@ newtab-sports-widget-third-place = Hạng ba
 newtab-sports-widget-runner-up = Á quân
 newtab-sports-widget-champions = Nhà vô địch
 newtab-sports-widget-world-cup-champions = Nhà vô địch World Cup 2026
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Nhà vô địch năm 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
