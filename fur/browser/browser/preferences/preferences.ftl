@@ -1631,6 +1631,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Stabilìs password principâl
+forms-primary-pw-on-2 = La password principâl e je <strong>ATIVE</strong>
 forms-primary-pw-on =
     .label = La password principâl e je ATIVE
 forms-primary-pw-change-2 =
@@ -1833,6 +1834,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Impostazions…
     .accesskey = t
+history-shutdown-exceptions =
+    .label = Gjestìs ecezions
+    .accesskey = x
 history-clear-button =
     .label = Nete la cronologjie…
     .accesskey = s
@@ -2553,6 +2557,10 @@ preferences-doh-select-resolver-label =
 connection-dns-over-https-url-item =
     .label = { $name }
     .tooltiptext = Dopre chest furnidôr pe risoluzion DNS sore HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Inserìs un URL personalizât pal funidôr
+preferences-doh-header2 =
+    .heading = DNS sore HTTPS
 
 ## The following strings are used in the Download section of settings
 

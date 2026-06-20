@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts di sîts.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Ecezions - Sierant nete la cronologjie
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Tu puedis specificâ i sîts web che a puedin tignî i lôr dâts cuant che, sierantsi, { -brand-short-name } al nete la cronologjie. Scrîf la direzion esate dal  sît che tu desideris zontâ e fâs clic su Permet.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
