@@ -300,6 +300,8 @@ launch-on-login-infobar-final-reject-button = Όχι, ευχαριστώ
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Να ανοίξει αυτόματα το { -brand-short-name } στην επόμενη εκκίνηση του υπολογιστή σας;
+launch-on-login-spotlight-startup-checkbox = Άνοιγμα του { -brand-short-name } κατά την εκκίνηση
 launch-on-login-spotlight-pin-taskbar-checkbox = Καρφίτσωμα στη γραμμή εργασιών
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing

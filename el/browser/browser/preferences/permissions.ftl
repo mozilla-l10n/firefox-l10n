@@ -88,6 +88,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται πάντα ή δεν επιτρέπεται ποτέ η χρήση των cookie και των δεδομένων ιστοτόπων. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να διαχειριστείτε και έπειτα, επιλέξτε «Φραγή», «Αποδοχή για τη συνεδρία» ή «Αποδοχή».
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Εξαιρέσεις - Απαλοιφή ιστορικού κατά τον τερματισμό λειτουργίας
+    .style = { permissions-window2.style }
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

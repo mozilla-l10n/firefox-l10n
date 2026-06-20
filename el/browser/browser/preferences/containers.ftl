@@ -89,3 +89,11 @@ containers-icon-tree =
     .label = Δέντρο
 containers-icon-chill =
     .label = Ξεκούραση
+containers-window-new3 =
+    .title = Προσθήκη νέας θεματικής ενότητας
+    .style = min-width: 35em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
+    .style = min-width: 35em

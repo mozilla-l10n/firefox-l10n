@@ -2580,6 +2580,15 @@ desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
 
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aspiet
+browser-theme-manage-link =
+    .label = Gjestìs i temis di { -brand-short-name }
+related-settings-group =
+    .label = Impostazions coreladis
+
 ## AI controls page
 
 preferences-ai-controls-description = Cun { -brand-short-name } tu âs simpri une sielte, ancje par doprâ o mancul lis gnovis funzionalitâts basadis su la IA. Ca di pôc a rivaran gnûfs controi.
@@ -2702,5 +2711,14 @@ preferences-etp-status-protections-dashboard-link =
     .description = Viôt tropis spiis insidiosis che { -brand-short-name } al à blocât par te, includudis spiis dai social media, rilevadôrs di stamp numeric e minadôrs di criptomonede.
 preferences-etp-header =
     .heading = Protezion miorade da lis spiis
+preferences-etp-advanced-settings-group =
+    .label = Impostazions avanzadis
+    .description = I sîts web a doprin spiis par stâ daûr dai tiei moviments in rêt e mostrâti  publicitât invasive. { -brand-short-name } ti fâs scût intant che tu navighis, blocant in automatic la plui part des spiis cussì che tu sês tu a vê il control su la tô ativitât digjitâl.
+preferences-etp-customize-button =
+    .label = Personalize la protezion da lis spiis
+preferences-etp-reload-tabs-hint =
+    .message = Torne cjarie lis schedis par aplicâ chestis modifichis.
+preferences-etp-reload-tabs-hint-button =
+    .label = Torne cjame dutis lis schedis
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
