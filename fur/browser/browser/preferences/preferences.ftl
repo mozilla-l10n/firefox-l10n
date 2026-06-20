@@ -462,6 +462,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ingrandìs dome il test
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Se “Ingrandìs nome il test” al è atîf e il zoom predefinît al è diviers di 100%, al è pussibil che il contignût di cualchi sît nol vegni visualizât ben.
 preferences-text-zoom-override-warning =
     .message = Atenzion: se tu selezionis “Ingrandìs dome il test” e il zoom predefinît nol è metût a 100%, cualchi sît o contignût al podarès funzionâ mâl.
 language-header = Lenghe
@@ -2656,6 +2658,19 @@ security-privacy-status-trackers-label =
         [one] { $trackerCount } spie blocade intal ultin mês
        *[other] { $trackerCount } spiis blocadis intal ultin mês
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Tu stâs doprant la <a data-l10n-name="strict-tracking-protection">protezion restritive</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Tu stâs doprant la <a data-l10n-name="custom-tracking-protection">protezion personalizade</a>
+security-privacy-status-up-to-date-label = Tu âs instalade la ultime e plui sigure version di { -brand-short-name }
+security-privacy-status-update-needed-label = E je disponibile une gnove version di { -brand-short-name }.
+security-privacy-status-update-error-label = { -brand-short-name } al à fastidis a inzornâsi
+security-privacy-status-update-checking-label = { -brand-short-name } al sta controlant la presince di inzornaments
+security-privacy-status-update-needed-description = Inzorne par vê i ultins mioraments in velocitât, stabilitât e sigurece.
+security-privacy-status-update-button-label =
+    .label = Inzorne { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un scût cul pont esclamatîf par mostrâti preocupazion sui tiei avîs di sigurece.
 
 ## Enhanced Tracking Protection (ETP) status section
 
