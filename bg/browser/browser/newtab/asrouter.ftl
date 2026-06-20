@@ -368,3 +368,9 @@ windows-10-eos-feature-toast-dismiss-button = Прекратяване
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Научете повече
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } не е вашият основен браузър
+set-default-menu-message-row-layout-title = Направете { -brand-short-name } основен браузър
+set-default-menu-message-primary-button-variant = Задаване като основен браузър
