@@ -2562,6 +2562,11 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS sore HTTPS
 
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Sigurece de conession e dal software
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
