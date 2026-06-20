@@ -88,6 +88,10 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som alltid eller aldri får bruke infokapslar og nettstad-data.  Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-desc = Du kan angi kva nettstadar som skal behalde dataa sine når { -brand-short-name } tømmer historikken ved avslutning. Skriv inn den nøyaktige adressa til nettstaden du vil behandle, og klikk deretter på Tillat.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

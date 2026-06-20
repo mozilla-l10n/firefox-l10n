@@ -1083,6 +1083,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Berre følgde lag
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Lastar inn fleire treff…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Sjå
@@ -1162,6 +1164,9 @@ newtab-sports-widget-third-place = Tredjeplass
 newtab-sports-widget-runner-up = Andreplass
 newtab-sports-widget-champions = Meistrar
 newtab-sports-widget-world-cup-champions = VM 2026 – verds­meistrar
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Verdsmeistrar 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
