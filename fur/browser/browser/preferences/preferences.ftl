@@ -2566,6 +2566,11 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Sigurece de conession e dal software
+preferences-connection-link-section =
+    .label = Sigurece de conession e dal software
+    .description = Scuvierç cemût che lis conessions a restin siguris, il software danôs al ven blocât e i sîts web a vegnin verificâts.
+preferences-connection-link-button =
+    .label = Impostazions avanzadis
 
 ## The following strings are used in the Download section of settings
 
@@ -2633,6 +2638,24 @@ preferences-ai-controls-header2 =
     .heading = { pane-ai-controls-title2 }
 preferences-ai-controls-header3 =
     .heading = Controi IA
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } al è in vuaite
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } al sugjerìs cualchi modifiche par miorâ la sigurece
+security-privacy-status-ok-label = La protezion miorade da lis spiis e je ative
+security-privacy-status-problem-label = O vin cjatât impostazions che a van a tocjâ la tô protezion
+security-privacy-status-problem-helper-label = Viôt i problemis
+security-privacy-status-pending-trackers-label = Ricercje dal numar di spiis blocadis di { -brand-short-name } tal ultin mês
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } spie blocade intal ultin mês
+       *[other] { $trackerCount } spiis blocadis intal ultin mês
+    }
 
 ## Enhanced Tracking Protection (ETP) status section
 
