@@ -31,6 +31,7 @@ ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvéd
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">{ -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-privacy-3 = Kapjon <a data-l10n-name="learn-more-vpn">további adatvédelmet</a> azáltal, hogy választ több hely közül, hogy elrejtse a böngészési helyét.
+ipprotection-feature-introduction-text-summer-promo-1 = Kapcsolja be, hogy a böngészése bizalmasabb legyen. <a data-l10n-name="summer-promo-link">Korlátlan sávszélesség</a> és még több hely, ahonnan böngészhet. Most augusztus 31-ig.
 ipprotection-feature-introduction-title-summer-promo = Utazási tervei vannak? Vigye magával az adatvédelmet.
 ipprotection-feature-introduction-description-summer-promo = Jusson tovább a { -brand-product-name } beépített VPN-jével: több hely, korlátlan sávszélesség. Mostantól augusztus 31-ig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
