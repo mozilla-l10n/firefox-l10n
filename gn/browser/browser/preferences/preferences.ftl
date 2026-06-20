@@ -829,6 +829,10 @@ performance-default-content-process-count =
     .label = { $num } (ijypykue)
 performance-group =
     .label = Mba’eaporã
+performance-use-recommended-settings-checkbox-2 =
+    .label = Eiporu tembiapokue je’epyre moĩporã
+    .description = Ko’ã ñemoĩporã ojokupyty nde hardware ha apopyvusu oikóva rehe.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -1274,6 +1278,9 @@ containers-remove-button =
     .label = Mboguete
 containers-section-header2 =
     .heading = Mba’yru ñemboheko
+containers-card-header2 =
+    .label = Mba’eryruita
+    .description = Eipe’a ojuehegui kookieita peteĩteĩva mba’yru rupi eiporu hag̃ua ambue mba’ete ha emombyky tapykueho tendaita apytépe.
 containers-add-button2 =
     .label = Embojuaju mba’yru pyahu
     .accesskey = A
@@ -1619,6 +1626,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Emboaje ñe’ẽñemi ha’etéva
+forms-primary-pw-on-2 = Ñe’ẽñemi ha’evéva <strong>HENDY</strong>
 forms-primary-pw-on =
     .label = Ñe’ẽñemi ha’etéva hendyhína
 forms-primary-pw-change-2 =
