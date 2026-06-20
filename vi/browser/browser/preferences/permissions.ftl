@@ -88,6 +88,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web. Nhập địa chỉ chính xác của trang web bạn muốn quản lý và sau đó nhấp vào Chặn, Chỉ cho phép với phiên này hoặc Cho phép.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Ngoại lệ - Xóa lịch sử khi tắt máy
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Bạn có thể chỉ định những trang web nào sẽ giữ lại dữ liệu khi { -brand-short-name } xóa lịch sử lúc đóng ứng dụng. Nhập địa chỉ chính xác của trang web bạn muốn quản lý rồi nhấp vào Cho phép.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

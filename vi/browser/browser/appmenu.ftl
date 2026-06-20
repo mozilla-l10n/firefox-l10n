@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Không thể cập nhật — hệ thống không tương thích
 appmenuitem-banner-update-restart =
     .label = Đã có bản cập nhật — khởi động lại ngay
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Giữ { -brand-short-name } của bạn luôn mới nhất. Giữ nguyên các thẻ của bạn.
+appmenu-nova-update-link = Khởi động lại để cập nhật
+appmenu-nova-fxa-sign-in = Đăng nhập
+appmenu-nova-switch-device-promo =
+    .message = Sắp mua thiết bị mới? Hãy mang theo { -brand-short-name } bên bạn!
+appmenu-nova-switch-device-link = Cách di chuyển dữ liệu của bạn
 appmenuitem-new-tab =
     .label = Thẻ mới
 appmenuitem-new-window =

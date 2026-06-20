@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Giờ
 time-spinner-minute-label =
     .aria-label = Phút
+time-spinner-second-label =
+    .aria-label = Giây
+time-spinner-millisecond-label =
+    .aria-label = Mili giây
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Phút trước
 time-spinner-minute-next =
     .aria-label = Phút tiếp theo
+time-spinner-second-previous =
+    .aria-label = Giây trước
+time-spinner-second-next =
+    .aria-label = Giây tiếp theo
+time-spinner-millisecond-previous =
+    .aria-label = Mili giây trước
+time-spinner-millisecond-next =
+    .aria-label = Mili giây tiếp theo
 time-spinner-day-period-previous =
     .aria-label = Thời gian trong ngày trước đó
 time-spinner-day-period-next =

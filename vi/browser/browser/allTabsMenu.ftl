@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Ngăn chứa thẻ mới
 all-tabs-menu-hidden-tabs =
     .label = Thẻ đã ẩn
+all-tabs-menu-close-duplicate-tabs =
+    .label = Đóng các thẻ trùng
 all-tabs-menu-manage-user-context =
     .label = Quản lý ngăn chứa
     .accesskey = O
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Nhóm thẻ
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Tìm kiếm tất cả các thẻ
