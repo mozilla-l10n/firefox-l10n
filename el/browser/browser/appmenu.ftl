@@ -15,10 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Αδυναμία ενημέρωσης — μη συμβατό σύστημα
 appmenuitem-banner-update-restart =
     .label = Διαθέσιμη ενημέρωση — επανεκκίνηση τώρα
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Αποκτήστε ένα νέο { -brand-short-name }. Διατηρήστε όλες τις καρτέλες σας.
 appmenu-nova-update-link = Επανεκκίνηση για ενημέρωση
 appmenu-nova-fxa-sign-in = Σύνδεση
 appmenu-nova-switch-device-promo =
     .message = Θα αποκτήσετε σύντομα νέα συσκευή; Πάρτε το { -brand-short-name } μαζί σας!
+appmenu-nova-switch-device-link = Τρόπος μεταφοράς δεδομένων
 appmenuitem-new-tab =
     .label = Νέα καρτέλα
 appmenuitem-new-window =
