@@ -41,6 +41,15 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = Ndaipóri juajuha emoherakuã hag̃ua
     .message = Emoherakuãkuaa juajuha ñanduti retepýpe añoite.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Emoherakuã { $count } kuatiarogue
+           *[other] Emoherakuã { $count } kuatiarogueita
+        }
+    .message = Eha’ã jey peteĩva umi kuatiarogue oikove’ỹ mboyve.
 content-sharing-modal-some-invalid-links = Oĩ juajuha emoherakuãkuaa’ỹva.
 content-sharing-modal-generic-error-2 =
     .heading = Oĩvaicha osẽvaíva
