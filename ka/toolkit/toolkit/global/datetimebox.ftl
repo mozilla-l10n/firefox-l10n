@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = კალენდარი
+datetime-time =
+    .aria-label = დრო

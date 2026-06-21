@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>გაიხსნას { -bran
 launch-on-login-infobar-final-reject-button = არა, გმადლობთ
     .accesskey = რ
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = გაეშვას { -brand-short-name } შემდეგ ჯერზე კომპიუტერის ჩართვისას?
+launch-on-login-spotlight-startup-checkbox = გაეშვას { -brand-short-name } ჩართვისას
+launch-on-login-spotlight-pin-taskbar-checkbox = სამუშაო ზოლზე მიმაგრება
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = წინა ფანჯრებისა და ჩანართების გახსნა
+launch-on-login-spotlight-primary-button = შეინახოს და დაიხუროს { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -461,3 +475,11 @@ relay-50-masks-announcement-primary-button = იხილეთ { -relay-brand-n
     .accesskey = ხ
 relay-50-masks-announcement-secondary-button = აცილება
     .accesskey = ც
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } იძენს ახალ იერსახეს.</strong> თქვენ ხედავთ ადრეულ ვერსიას, ჯერ კიდევ დაუხვეწავს, მიმდინარე წლის ბოლოს გამოშვებამდე.
+nova-early-access-share-feedback-link = გამოგვეხმაურეთ
+    .accesskey = მ
+nova-early-access-infobar-primary-button = გასაგებია
+    .accesskey = გ

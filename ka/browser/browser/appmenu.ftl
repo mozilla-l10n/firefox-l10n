@@ -15,6 +15,9 @@ appmenuitem-banner-update-unsupported =
     .label = ვერ განახლდება — შეუთავსებელია
 appmenuitem-banner-update-restart =
     .label = გასაახლებელია — გადატვირთვა
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = გამოიყენეთ ახალი { -brand-short-name }. შეინარჩუნეთ ყველა თქვენი ჩანართი.
 appmenuitem-new-tab =
     .label = ახალი ჩანართი
 appmenuitem-new-window =

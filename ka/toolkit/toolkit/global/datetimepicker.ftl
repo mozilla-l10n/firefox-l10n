@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = საათი
 time-spinner-minute-label =
     .aria-label = წუთი
+time-spinner-second-label =
+    .aria-label = წამი
+time-spinner-millisecond-label =
+    .aria-label = მილიწამი
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = წინა წუთი
 time-spinner-minute-next =
     .aria-label = მომდევნო წუთი
+time-spinner-second-previous =
+    .aria-label = წინა წამი
+time-spinner-second-next =
+    .aria-label = შემდეგი წამი
+time-spinner-millisecond-previous =
+    .aria-label = წინა მილიწამი
+time-spinner-millisecond-next =
+    .aria-label = შემდეგი მილიწამი
 time-spinner-day-period-previous =
     .aria-label = დღის წინა მონაკვეთი
 time-spinner-day-period-next =
