@@ -23,6 +23,10 @@ ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Як қабати дигари махфиятро илова намоед
+ipprotection-feature-introduction-link-text-privacy-1 = Барномаи <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти «{ -brand-product-name }»</a> барои муҳофизати тамошобинии шумо кумак мерасонад. Аз якчанд ҷойгиршавӣ истифода баред, то тавонед ҷойгиршавии тамошобинии худро махфӣ нигоҳ доред.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Барои пинҳон кардани ҷойгиршавии худ ва ҳифз кардани маълумоти шахсии худ, ҳатто ҳангоми истифодаи варақаи хусусӣ, аз <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти нави мо</a> истифода баред.
 ipprotection-feature-introduction-description-captive-portal = Аз тамошобинӣ бо муҳофизати иловагӣ тавассути пинҳон кардани ҷойгиршавии худ, ҳатто дар шабакаҳои ҷамъиятии «Wi-Fi» истифода баред.
 ipprotection-feature-introduction-button-primary = Навбатӣ
 ipprotection-feature-introduction-button-secondary-not-now = Ҳоло не
