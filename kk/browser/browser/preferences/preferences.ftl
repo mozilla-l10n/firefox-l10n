@@ -195,6 +195,9 @@ windows-launch-on-login =
     .label = Компьютеріңіз іске қосылғанда { -brand-short-name } қолданбасын автоматты түрде іске қосу
     .accesskey = о
 windows-launch-on-login-disabled = Бұл баптау Windows жүйесінде сөндірілген. Оны өзгерту үшін, Жүйе баптауларынан <a data-l10n-name="startup-link">Қолданбалардың автоматты іске қосылуы</a> қараңыз.
+windows-launch-on-login-open-new-tab =
+    .label = Сондай-ақ жаңа бетті ашу
+    .accesskey = ж
 windows-launch-on-login-profile-disabled = "Пайдаланушы профилін таңдау" терезесіндегі "{ profile-manager-use-selected.label }" жалаушасын орнату арқылы бұл баптауды іске қосыңыз.
 startup-restore-warn-on-quit =
     .label = Браузерден шыққан кезде ескерту

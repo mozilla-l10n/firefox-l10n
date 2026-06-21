@@ -303,6 +303,7 @@ launch-on-login-spotlight-pin-taskbar-checkbox = Тапсырмалар пане
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Алдыңғы терезелер мен беттерді ашу
+launch-on-login-spotlight-primary-button = Сақтау және { -brand-short-name } жабу
 
 ## Tail Fox Set Default Spotlight
 
@@ -472,6 +473,7 @@ relay-50-masks-announcement-secondary-button = Елемеу
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } жаңа сыртқы түріне ие болуда.</strong> Сіз осы жылдың соңында іске қосылғанға дейінгі ерте, өңделмеген нұсқасын алдын ала қарап жатырсыз.
 nova-early-access-share-feedback-link = Пікір қалдыру
     .accesskey = л
 nova-early-access-infobar-primary-button = Түсіндім

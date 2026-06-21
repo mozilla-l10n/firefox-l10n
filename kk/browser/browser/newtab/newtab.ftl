@@ -1161,6 +1161,9 @@ newtab-sports-widget-third-place = Үшінші орын
 newtab-sports-widget-runner-up = Екінші орын алған
 newtab-sports-widget-champions = Чемпиондар
 newtab-sports-widget-world-cup-champions = 2026 ӘЧ чемпиондары
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = 2026 чемпиондары
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
