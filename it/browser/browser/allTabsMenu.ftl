@@ -31,4 +31,3 @@ all-tabs-menu-tab-groups-sub-view =
 # "Search" is a verb, as in "Search through all tabs".
 all-tabs-menu-search-all-tabs =
     .label = Cerca in tutte le schede
-
