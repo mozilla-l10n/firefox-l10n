@@ -2192,6 +2192,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блокиране на изскачащи прозорци и пренасочвания от трети страни
     .accesskey = Б
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Управление на изключенията
+    .description = Добавяне на уебсайтове, които могат да отварят изскачащи прозорци и да използват пренасочвания на трети страни.
+    .accesskey = е
+    .searchkeywords = изскачащи прозорци
 permissions-addon-exceptions2 =
     .label = Изберете кои уебсайтове могат да инсталират разширения
     .accesskey = И
