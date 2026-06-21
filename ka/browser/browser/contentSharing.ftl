@@ -28,6 +28,7 @@ content-sharing-modal-sign-in-2 =
 content-sharing-modal-title-2 = გაუზიარეთ გვერდები ნებისმიერს
 content-sharing-modal-title-signed-in = თქვენი ბმულები მზადაა გასაზიარებლად
 content-sharing-modal-description-2 = შედით ანგარიშზე ბმულების იოლად გასაზიარებელი გვერდის შესაქმნელად. შესაძლებელი იქნება მისი ჩასწორება ან წაშლა და ვადა გაუვა 7 დღეში.
+content-sharing-modal-description-signed-in = საშუალებას გაძლევთ შექმნათ ბმულების იოლად გასაზიარებელი გვერდი. შესაძლებელი იქნება მისი ჩასწორება ან წაშლა და ვადა გაუვა 7 დღეში.
 content-sharing-modal-policy = გაზიარებით დაეთანხმებით ჩვენს <a data-l10n-name="aup-link">მართლზომიერი გამოყენების დებულებას</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.

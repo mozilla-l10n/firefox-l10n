@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = ჩანართის განახლება
     .accesskey = გ
+reload-tab2 =
+    .label = გაახლება
+    .accesskey = ხ
 select-all-tabs =
     .label = ყველა ჩანართის შერჩევა
     .accesskey = შ
@@ -52,8 +55,14 @@ reload-tabs =
 pin-tab =
     .label = ჩანართის მიმაგრება
     .accesskey = მ
+tab-context-pin-tab2 =
+    .label = მიმაგრება
+    .accesskey = გ
 unpin-tab =
     .label = მიმაგრების მოხსნა
+    .accesskey = ნ
+tab-context-unpin-tab2 =
+    .label = მოხსნა
     .accesskey = ნ
 pin-selected-tabs =
     .label = ჩანართების მიმაგრება
@@ -67,7 +76,13 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = ჩანართის ჩანიშვნა…
     .accesskey = ნ
+tab-context-bookmark-tab2 =
+    .label = ჩანიშვნა
+    .accesskey = ვ
 tab-context-open-in-new-container-tab =
+    .label = გახსნა ახალ სათავს ჩანართში
+    .accesskey = თ
+tab-context-open-in-new-container-tab2 =
     .label = გახსნა ახალ სათავს ჩანართში
     .accesskey = თ
 move-to-start =
@@ -86,8 +101,14 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = რამდენიმე ჩანართის დახურვა
     .accesskey = რ
+tab-context-close-multiple-tabs2 =
+    .label = რამდენიმეს დახურვა
+    .accesskey = დ
 tab-context-close-duplicate-tabs =
     .label = გამეორებული ჩანართების დახურვა
+    .accesskey = ო
+tab-context-close-duplicate-tabs2 =
+    .label = ამ ჩანართის გამეორებულების დახურვა
     .accesskey = ო
 tab-context-share-url =
     .label = გაზიარება
@@ -127,6 +148,10 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = გაყოფილი ხედის გადატანა
+    .accesskey = ყ
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -134,6 +159,9 @@ tab-context-send-to-device =
             [1] მოწყობილობაზე გაგზავნა
            *[other] გაგზავნეთ { $tabCount } ჩანართი სხვა მოწყობილობაზე
         }
+    .accesskey = ზ
+tab-context-send-to-device2 =
+    .label = მოწყობილობაზე გაგზავნა
     .accesskey = ზ
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -160,4 +188,8 @@ tab-context-unload-n-tabs =
             [1] ჩანართის განტვირთვა
            *[other] { $tabCount } ჩანართის განტვირთვა
         }
+    .accesskey = ტ
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = განტვირთვა
     .accesskey = ტ
