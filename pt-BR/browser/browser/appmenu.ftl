@@ -22,6 +22,7 @@ appmenu-nova-update-link = Reiniciar para atualizar
 appmenu-nova-fxa-sign-in = Entrar
 appmenu-nova-switch-device-promo =
     .message = Vai trocar de dispositivo? Leve o { -brand-short-name } com você!
+appmenu-nova-switch-device-link = Como migrar seus dados
 appmenuitem-new-tab =
     .label = Nova aba
 appmenuitem-new-window =
