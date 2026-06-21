@@ -18,6 +18,11 @@ appmenuitem-banner-update-restart =
 # Fresh Firefox refers to the new updated UI
 appmenu-nova-update-promo =
     .message = გამოიყენეთ ახალი { -brand-short-name }. შეინარჩუნეთ ყველა თქვენი ჩანართი.
+appmenu-nova-update-link = გასაახლებლად კვლავ გაუშვით
+appmenu-nova-fxa-sign-in = შესვლა
+appmenu-nova-switch-device-promo =
+    .message = მალე გადადიხართ ახალ მოწყობილობაზე? თან წაიყოლეთ { -brand-short-name }!
+appmenu-nova-switch-device-link = როგორ გადაიტანოთ თქვენი მონაცემები
 appmenuitem-new-tab =
     .label = ახალი ჩანართი
 appmenuitem-new-window =

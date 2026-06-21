@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = სათავსების მართვა
     .accesskey = თ
+user-context-new-tab =
+    .label = ახალი ჩანართი
+    .accesskey = ხ
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

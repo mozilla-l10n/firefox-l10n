@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = ახლა უკვე თ
 about-private-browsing-felt-privacy-v1-info-header = გამოიყენეთ მოწყობილობა კვალის დაუტოვებლად
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } წაშლის თქვენს ფუნთუშებს, ისტორიასა და საიტის მონაცემებს ყველა პირადი ფანჯრის დახურვისას.
 about-private-browsing-felt-privacy-v1-info-link = ვისთვის შეიძლება იყოს ხილული ჩემი საქმიანობა?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = ყველა პირადი ფანჯრის დახურვის შემთხვევაში თქვენი ფუნთუშები, ისტორია და საიტის მონაცემები წაიშლება.
