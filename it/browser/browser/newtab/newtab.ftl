@@ -974,6 +974,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Disattiva notifiche
 newtab-widget-timer-menu-notifications-on = Attiva le notifiche
 newtab-widget-timer-menu-learn-more = Ulteriori informazioni
+newtab-widget-timer-menu-button =
+    .aria-label = Opzioni timer
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Notizie in primo piano
 newtab-daily-briefing-card-menu-dismiss = Chiudi
