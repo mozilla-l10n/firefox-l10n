@@ -123,6 +123,7 @@ restore-from-backup-type-replace =
     .label = Иваз кардани ҳамаи маълумот бо ин нусхаи эҳтиётӣ
 restore-from-backup-type-add =
     .label = Нигоҳ доштани маълумот ва эҷод кардани профили нав
+restore-from-backup-profiles-disabled-message = Ин амал ҳамаи маълумоти ҷории «{ -brand-short-name }»-и шуморо бо нусхаи эҳтиётии шумо иваз мекунад.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -213,6 +214,7 @@ backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, а
 
 backup-file-header = «{ -brand-short-name }» барои барқарорсозӣ омода аст
 backup-file-title = Барқарор кардани «{ -brand-short-name }»
+backup-file-intro = Ба тамошобинӣ баргардед ва ҳамаи хатбаракҳо, таърих ва дигар маълумоти худро барқарор созед. <a data-l10n-name="backup-file-support-link">Маълумоти бештар</a>
 backup-file-path-label = Файли нусхаи эҳтиётӣ:
 backup-file-encryption-state-label = Рамзгузоришуда:
 backup-file-encryption-state-value-encrypted = Ҳа
@@ -226,6 +228,7 @@ backup-file-how-to-restore-header = Тарзи барқарорсозӣ:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Менюи барномаро аз рӯйи аломати ☰ кушоед ва ба Танзимот > Ҳамоҳангсозӣ гузаред
+backup-file-moz-browser-restore-step-2-1 = «Маълумоти худро барқарор созед»-ро зер кунед ва ин файлро интихоб намоед
 backup-file-moz-browser-restore-step-2 = Имкони «Файли нусхаи эҳтиётиро интихоб кунед…»-ро зер кунед ва ин файлро интихоб намоед
 backup-file-moz-browser-restore-step-3 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
 backup-file-other-browser-restore-step-1 = Боргирӣ ва насб кардани «{ -brand-short-name }»
@@ -233,6 +236,7 @@ backup-file-download-moz-browser-button = Боргирӣ кардан
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Браузери «{ -brand-short-name }»-ро оғоз кунед, менюи барномаро аз рӯйи аломати ☰ кушоед ва ба Танзимот > Ҳамоҳангсозӣ гузаред
+backup-file-other-browser-restore-step-3-1 = «Маълумоти худро барқарор созед»-ро зер кунед ва ин файлро интихоб намоед
 backup-file-other-browser-restore-step-3 = Имкони «Файли нусхаи эҳтиётиро интихоб кунед…»-ро зер кунед ва ин файлро интихоб намоед
 backup-file-other-browser-restore-step-4 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
 
@@ -247,6 +251,15 @@ other-backup-files-founds =
         [one] <b>Эзоҳ:</b> { $numberOfOtherBackupsFound } файли дигари нусхаи эҳтиётӣ пайдо шуд
        *[other] <b>Эзоҳ:</b> { $numberOfOtherBackupsFound } файли дигари нусхаи эҳтиётӣ пайдо шуд
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = Профили «<b>{ $profileName }</b>» санаи { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } дар «{ $machineName }» сохта шудааст
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Аз «{ $deviceName }» санаи { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } соати { DATETIME($date, hour: "2-digit", minute: "2-digit") } барқарор карда шуд
 backup-file-restore-file-validation-error = Ин файл кор намекунад. Кӯшиш кунед, ки файли дигареро интихоб намоед. <a data-l10n-name="restore-problems">Ҳанӯз мушкилӣ мекашед?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ягон файл интихоб карда нашуд
