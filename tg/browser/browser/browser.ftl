@@ -284,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Шумо барои ин сомона гирифтани маълумотро аз canvas манъ кардед.
 urlbar-midi-blocked =
     .tooltiptext = Шумо барои ин сомона дастрасии «MIDI»-ро манъ кардед.
+urlbar-serial-blocked =
+    .tooltiptext = Шумо барои ин сомона дастрасиро ба даргоҳи силсилавӣ манъ кардед.
 urlbar-install-blocked =
     .tooltiptext = Шумо барои ин сомона насбкунии ҷузъи иловагиро манъ кардед.
 # Variables
@@ -389,6 +391,7 @@ quickactions-bookmarks2 = Идоракунии хатбаракҳо
 quickactions-cmd-bookmarks = хатбаракҳо
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Пок кардани таърихи охирин
+quickactions-cmd-clearrecenthistory2 = кукиҳо, тоза кардани кукиҳо, кэш, тоза кардани кэш, маълумоти тамошобинӣ, тоза кардани маълумоти тамошобинӣ, таърих, тоза кардани таърихи охирин
 quickactions-cmd-clearrecenthistory = пок кардани таърихи охирин, таърих
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Пок кардани таърих
