@@ -1726,6 +1726,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Сомонаҳои зерин фаъолияти криптомайнингро кӯшиш мекунанд:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Дар ин сомона ҳисоб доред?
+trustpanel-breachalerts-anonymous-breached-description = «{ -brand-product-name }» муайян кард, ки ин сомона дар давоми 12 моҳи охир ба вайроншавии амнияти маълумот дучор шудааст. Санҷед, ки оё ин ба шумо ҳам дахл дорад.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Нодида гузарондан
 trustpanel-blocker-section-header2 =
     { $count ->
