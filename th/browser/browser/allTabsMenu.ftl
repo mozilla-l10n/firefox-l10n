@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = แท็บแยกข้อมูลใหม่
 all-tabs-menu-hidden-tabs =
     .label = แท็บที่ซ่อนอยู่
+all-tabs-menu-close-duplicate-tabs =
+    .label = ปิดแท็บที่ซ้ำกัน
 all-tabs-menu-manage-user-context =
     .label = จัดการที่แยกข้อมูล
     .accesskey = จ
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = กลุ่มแท็บ
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = ค้นหาแท็บทั้งหมด
