@@ -950,6 +950,8 @@ newtab-sports-widget-watch-dialog-close =
     .title = Пӯшидан
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Ройгон
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Минтақаҳои дигар
 newtab-sports-widget-group-stage = Марҳилаи гурӯҳӣ
 newtab-sports-widget-group-a = Гурӯҳи «A»
 newtab-sports-widget-group-b = Гурӯҳи «B»
@@ -1049,6 +1051,13 @@ newtab-clock-widget-button-save = Нигоҳ доштан
 newtab-clock-widget-button-remove-clock =
     .title = Тоза кардани соат
     .aria-label = Тоза кардани соат
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
 newtab-clock-widget-add-clock-form =
     .aria-label = Илова кардани соат
 newtab-clock-widget-edit-clock-form =

@@ -26,7 +26,9 @@ ipprotection-title = VPN
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Як қабати дигари махфиятро илова намоед
 ipprotection-feature-introduction-link-text-privacy-1 = Барномаи <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти «{ -brand-product-name }»</a> барои муҳофизати тамошобинии шумо кумак мерасонад. Аз якчанд ҷойгиршавӣ истифода баред, то тавонед ҷойгиршавии тамошобинии худро махфӣ нигоҳ доред.
+ipprotection-feature-introduction-link-text-privacy-2 = Барномаи <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти «{ -brand-product-name }»</a> барои муҳофизати тамошобинии шумо кумак мерасонад. Аз зиёда аз як ҷойгиршавӣ истифода баред, то тавонед ҷойгиршавии тамошобинии худро махфӣ нигоҳ доред.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Барои пинҳон кардани ҷойгиршавии худ ва ҳифз кардани маълумоти шахсии худ, ҳатто ҳангоми истифодаи варақаи хусусӣ, аз <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти нави мо</a> истифода баред.
+ipprotection-feature-introduction-description-private-browsing = Ҳатто ҳангоми истифодаи варақаи хусусӣ аз тамошобинӣ бо муҳофизати иловагӣ тавассути пинҳон кардани ҷойгиршавии худ истифода баред.
 ipprotection-feature-introduction-description-captive-portal = Аз тамошобинӣ бо муҳофизати иловагӣ тавассути пинҳон кардани ҷойгиршавии худ, ҳатто дар шабакаҳои ҷамъиятии «Wi-Fi» истифода баред.
 ipprotection-feature-introduction-button-primary = Навбатӣ
 ipprotection-feature-introduction-button-secondary-not-now = Ҳоло не
@@ -38,6 +40,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Тоза кардани «VPN» аз навори абзорҳо
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Тоза кардани «VPN» аз навори абзорҳо
+ipprotection-feature-introduction-button-open-vpn = Кушодани «VPN»
 ipprotection-feature-introduction-button-get-started = Оғози кор
 
 ## Site settings callout
@@ -93,9 +96,11 @@ ipprotection-recommended-location-badge = НАВ
 ipprotection-location-country-button = Ҷойгиршавӣ: { $country }
 ipprotection-locations-subview =
     .title = Интихоби ҷойгиршавӣ
+ipprotection-locations-subview-description = Барои идомаи тамошобинӣ, ҷойгиршавии дигареро интихоб намоед.
 ipprotecion-locations-subview-recommended-label = Тавсияшуда
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Дастнорас
+ipprotection-locations-subview-promo-button = Ба даст овардани «{ -mozilla-vpn-brand-name }»
 
 ## VPN paused state
 
@@ -119,6 +124,15 @@ ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайвас
 
 ip-protection-learn-more = Маълумоти бештар
 ip-protection-not-opted-in-button = Оғози кор
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Идоракунии танзимоти сомона
+    .description =
+        { $count ->
+            [one] { $count } сомона
+           *[other] { $count } сомона
+        }
 ip-protection-autostart =
     .label = Фаъол кардани «VPN» ба таври худкор
 ip-protection-autostart-private-checkbox =
