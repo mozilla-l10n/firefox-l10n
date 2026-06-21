@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Você pode especificar alguns sites para se
 permissions-exceptions-shutdown-clearing-window =
     .title = Exceções - Limpar histórico ao fechar
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Você pode especificar quais sites mantêm seus dados quando o { -brand-short-name } limpa o histórico ao fechar. Digite o endereço exato do site que você quer configurar e clique em Permitir.
 
 ## Exceptions - HTTPS-Only Mode
 
