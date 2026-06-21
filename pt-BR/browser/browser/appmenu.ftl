@@ -15,6 +15,13 @@ appmenuitem-banner-update-unsupported =
     .label = Não foi possível atualizar — sistema incompatível
 appmenuitem-banner-update-restart =
     .label = Atualização disponível, reiniciar o Firefox
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Instale uma nova versão do { -brand-short-name }. Suas abas são restauradas.
+appmenu-nova-update-link = Reiniciar para atualizar
+appmenu-nova-fxa-sign-in = Entrar
+appmenu-nova-switch-device-promo =
+    .message = Vai trocar de dispositivo? Leve o { -brand-short-name } com você!
 appmenuitem-new-tab =
     .label = Nova aba
 appmenuitem-new-window =
