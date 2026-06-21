@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = ახალი სათავსი ჩანართი
 all-tabs-menu-hidden-tabs =
     .label = დამალული ჩანართები
+all-tabs-menu-close-duplicate-tabs =
+    .label = გამეორებული ჩანართების დახურვა
 all-tabs-menu-manage-user-context =
     .label = სათავსების მართვა
     .accesskey = თ
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = ჩანართის ჯგუფები
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = ძიება ყველა ჩანართში

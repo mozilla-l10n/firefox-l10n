@@ -141,6 +141,13 @@ options-local-mode-toggle =
     .title = Toggle this local mapping
 options-local-mode-toggle-enable = Enable
 options-local-mode-toggle-disable = Disable
+options-local-mode-navigate-to =
+    .title = Navigate to this mapping URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Do you want to remove “{ $mappingOrigin }” mapping?
+options-local-mode-new-mapping = Add a new local mapping
 
 ## Advanced section
 
