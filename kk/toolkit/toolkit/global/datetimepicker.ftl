@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Сағат
 time-spinner-minute-label =
     .aria-label = Минут
+time-spinner-second-label =
+    .aria-label = Секунд
+time-spinner-millisecond-label =
+    .aria-label = Миллисекунд
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Алдыңғы минут
 time-spinner-minute-next =
     .aria-label = Келесі минут
+time-spinner-second-previous =
+    .aria-label = Алдыңғы секунд
+time-spinner-second-next =
+    .aria-label = Келесі секунд
+time-spinner-millisecond-previous =
+    .aria-label = Алдыңғы миллисекунд
+time-spinner-millisecond-next =
+    .aria-label = Келесі миллисекунд
 time-spinner-day-period-previous =
     .aria-label = Күннің алдыңғы кезеңі
 time-spinner-day-period-next =

@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-pdf-header = { -brand-short-name } PDF
+about-pdf-dropzone-hint = Бастау үшін PDF файлын осы жерге тастаңыз
+about-pdf-dropzone-privacy-hint = Файлдар сіздің құрылғыңызда жеке болып сақталады.
+about-pdf-dropzone-invalid-file = Бұл файлға қолдау көрсетілмейді. Жалғастыру үшін PDF файлын таңдаңыз.
+about-pdf-dropzone-error-generic = Жүктеу орындалмады. Кейінірек қайталап көріңіз.
 about-pdf-browse-files =
     .label = Файлдарды шолу
 about-pdf-set-default =

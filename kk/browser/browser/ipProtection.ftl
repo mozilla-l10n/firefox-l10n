@@ -46,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = VPN-ды саймандар тақтасынан алып тастау
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN-ды саймандар тақтасынан алып тастау
+ipprotection-feature-introduction-button-open-vpn = VPN ашу
 ipprotection-feature-introduction-button-get-started = Бастау
 
 ## Site settings callout
@@ -159,6 +160,8 @@ ipprotection-message-continuous-onboarding-intro = Орналасқан жері
 ipprotection-message-continuous-onboarding-autostart = { -brand-short-name } браузерін әр ашқан сайын қосымша қорғаныс қабатын қамтамасыз ету үшін <a data-l10n-name="setting-link">VPN-ді автоматты түрде іске қосылатындай етіп баптаңыз</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } қай веб-сайттар үшін VPN қолдануды таңдағаныңызды есте сақтайды. Бұл тізімді кез келген уақытта <a data-l10n-name="setting-link">баптаулар</a> бөлімінде өзгерте аласыз.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN бұл сайт үшін сөндірулі тұр
+ipprotection-open-button = { -brand-product-name } ашу
+ipprotection-come-back-title = Кірістірілген VPN-ді қолданып көру үшін оралыңыз
 ipprotection-connection-status-generic-error-title-1 = VPN-ге қосылу мүмкін болмады
     .aria-label = VPN-ге қосылу мүмкін болмады
 
