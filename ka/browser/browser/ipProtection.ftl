@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = გამოიყენეთ �
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = დაამატეთ პირადულობის კიდევ ერთი შრე
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> დაგეხმარებათ გვერდების უსაფრთხოდ მონახულებაში. აირჩიეთ არაერთი მდებარეობიდან რომელიმე მეტად პირადი მოგზაურობისთვის ვებსივრცეში.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> დაგეხმარებათ გვერდების უსაფრთხოდ მონახულებაში. აირჩიეთ ერთ-ერთი რამდენიმე მდებარეობიდან ვებსივრცეში მეტად პირადი მოგზაურობისთვის.
+ipprotection-feature-introduction-link-text-privacy-3 = ისარგებლეთ <a data-l10n-name="learn-more-vpn">დამატებითი პირადულობით</a> რამდენიმე მდებარეობის შერჩევით საკუთარი ადგილსამყოფლის დასაფარად.
+ipprotection-feature-introduction-text-summer-promo-1 = ჩართეთ გვერდების კიდევ უფრო პირადულად მონახულებისთვის. <a data-l10n-name="summer-promo-link">მიიღეთ შეუზღუდავი გამტარუნარიანობა</a> და უფრო მეტი ადგილმდებარეობა ვებსივრცეში სამოგზაუროდ. ახლა უკვე 31 აგვისტომდე.
+ipprotection-feature-introduction-title-summer-promo = გეგმავთ მოგზაურობას? თან წაიყოლეთ პირადულობა.
+ipprotection-feature-introduction-description-summer-promo = უფრო შორს წასვლის საშუალება გაძლევთ { -brand-product-name } ჩაშენებული VPN-ით: მეტი ადგილმდებარეობა, შეუზღუდავი გამტარუნარიანობა. ახლა უკვე 31 აგვისტომდე.
 ipprotection-feature-introduction-link-text-private-browsing-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად პირადი ფანჯრით სარგებლობის დროსაც.
 ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = მოცილდეს VPN ხელსაწყოთა ზოლიდან
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = მოცილდეს VPN ხელსაწყოთა ზოლიდან
+ipprotection-feature-introduction-button-open-vpn = გახსენით VPN
 ipprotection-feature-introduction-button-get-started = დაიწყეთ
 
 ## Site settings callout
@@ -159,6 +165,8 @@ ipprotection-message-continuous-onboarding-intro = ჩართეთ VPN, რ�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">VPN ჩაირთოს</a> ყოველ ჯერზე, როცა კი გაეშვება { -brand-short-name } დაცვის დამატებითი შრით უზრუნველსაყოფად.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } დაიხსომებს, რომელი საიტებისთვის უნდა გამოიყენოს VPN. შეცვლა ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="setting-link">პარამეტრებიდან</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN გამორთულია ამ საიტზე
+ipprotection-open-button = გახსენით { -brand-product-name }
+ipprotection-come-back-title = დაბრუნდით და მოსინჯეთ ჩაშენებული VPN
 ipprotection-connection-status-generic-error-title-1 = ვერ მიუერთდა VPN
     .aria-label = ვერ მიუერთდა VPN
 
@@ -228,6 +236,11 @@ ip-protection-exclusions-desc = გამოიყენეთ VPN ყველ�
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = ამ თვეში დარჩენილია { $usageLeft } ᲒᲑ, სულ { $maxUsage } ᲒᲑ
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } ᲒᲑ</span> დარჩა, სულ { $maxUsage } ᲒᲑ
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +249,11 @@ ip-protection-bandwidth-left-gb = დარჩა { $usageLeft } ᲒᲑ, სუ�
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = ამ თვეში დარჩენილია { $usageLeft } ᲛᲑ, სულ { $maxUsage } ᲒᲑ
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } ᲛᲑ</span> დარჩა, სულ { $maxUsage } ᲒᲑ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
