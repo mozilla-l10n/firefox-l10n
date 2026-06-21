@@ -417,6 +417,7 @@ quickactions-inspector2 = Кушодани абзорҳои барномарез
 quickactions-cmd-inspector2 = тафтишкунанда, абзорҳои барномарезӣ, inspector, devtools, dev tools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Рангеро интихоб кунед
+quickactions-cmd-colorpicker = чинандаи ранг, абзори чинандаи ранг, интихоби ранг
 # Opens Firefox Library
 quickactions-cmd-library = китобхона
 quickactions-library = Кушодани китобхона
@@ -424,6 +425,8 @@ quickactions-cmd-inspector = тафтишкунанда, абзорҳои бар
 # Opens about:logins
 quickactions-logins2 = Идоракунии ниҳонвожаҳо
 quickactions-cmd-logins = воридшавиҳо, ниҳонвожаҳо
+# Mutes all tabs playing audio
+quickactions-mute = Хомӯш кардани садо дар варақаҳое, ки аудиоро пахш мекунанд
 # Opens about:addons page in the plugins section
 quickactions-plugins = Идоракунии плагинҳо
 quickactions-cmd-plugins = плагинҳо
@@ -1461,6 +1464,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Анҷом додани ҷаласаи хусусӣ
     .tooltiptext = Анҷом додани ҷаласаи хусусӣ
+reset-pbm-panel-description2 = Ин амал таърих, кукиҳо ва тамоми маълумоти дигари сомонаро бе пӯшидани варақаи хусусии шумо нест мекунад.
 reset-pbm-panel-heading = Ҷаласаи хусусии худро ба анҷом мерасонед?
 reset-pbm-panel-description = Ҳамаи варақаҳои хусусиро мепӯшад ва таърих, кукиҳо ва маълумоти дигари сомонаҳоро нест мекунад.
 reset-pbm-panel-always-ask-checkbox =
