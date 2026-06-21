@@ -167,6 +167,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN გამორთულია ამ საიტზე
 ipprotection-open-button = გახსენით { -brand-product-name }
 ipprotection-come-back-title = დაბრუნდით და მოსინჯეთ ჩაშენებული VPN
+ipprotection-message-body-hide-location = დამალეთ თქვენი მდებარეობა, როცა { -brand-product-name } გვერდებს მოინახულებს, დამატებითი პირადულობისა და უკეთ განკარგვისთვის.
 ipprotection-connection-status-generic-error-title-1 = ვერ მიუერთდა VPN
     .aria-label = ვერ მიუერთდა VPN
 

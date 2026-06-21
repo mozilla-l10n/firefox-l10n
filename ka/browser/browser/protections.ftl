@@ -244,3 +244,12 @@ privacy-metrics-empty = ამ კვირაში მეთვალყურ
 privacy-metrics-loading = იტვირთება დაცვის აღრციხვები…
 privacy-metrics-error = დაცვის აღრიცხვები ვერ ჩაიტვირთა.
 privacy-metrics-private-window = { -brand-short-name } არ წყვეტს მეთვალყურეების შეზღუდვას პირად ჩანართებში, მაგრამ არ აღრიცხავს, რას შეზღუდავს.
+
+## VPN promo card and banner
+
+protections-vpn-title = მიიღეთ დამატებითი დაცვა ბრაუზერს მიღმაც
+protections-vpn-header-content = მოწყობილობის სრულად დაცვისთვის გამოიყენეთ { -mozilla-vpn-brand-name }. ერთი შეხებით შიფრავს ყველა მიმოცვლილ მონაცემს და მალავს თქვენს მდებარეობას.
+protections-get-vpn-link = გამოიყენეთ { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: გამოწერილი
+protections-vpn-banner-header = დაცვა, რომელიც ბრაუზერის მიღმაც ვრცელდება
+protections-vpn-banner-link = გამოიყენეთ { -mozilla-vpn-brand-name }

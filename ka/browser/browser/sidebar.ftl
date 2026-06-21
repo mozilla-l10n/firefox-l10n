@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = AI-თანამოსაუბრე
 menu-view-contextual-password-manager =
     .label = პაროლები
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = გახსნილი ჩანართები
 sidebar-options-menu-button =
     .title = მენიუს გახსნა
 
@@ -140,6 +145,11 @@ sidebar-menu-history-label =
     .label = ისტორია
 sidebar-menu-synced-tabs-label =
     .label = ჩანართები სხვა მოწყობილობებიდან
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = გახსნილი ჩანართები
 sidebar-menu-bookmarks-label =
     .label = სანიშნები
 sidebar-menu-customize-label =
@@ -186,6 +196,10 @@ sidebar-menu-history-header =
     .heading = ისტორია
 sidebar-menu-syncedtabs-header =
     .heading = ჩანართები სხვა მოწყობილობებიდან
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = გახსნილი ჩანართები
 sidebar-menu-cpm-header =
     .heading = პაროლები
 sidebar-menu-bookmarks-header =
@@ -205,6 +219,25 @@ sidebar-bookmarks-folder-mobile = მობილურის სანიშნ
 sidebar-customize-title = გვერდითი ზოლის მორგება
 sidebar-history-title = ისტორია
 sidebar-syncedtabs-title = ჩანართები სხვა მოწყობილობებიდან
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = გახსნილი ჩანართები
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = მიმაგრებული ჩანართები
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = ფანჯარა { $winID } (მიმდინარე)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = ფანჯარა { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 
