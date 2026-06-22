@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Sobib
     .buttonaccesskey = S
 appmenu-addon-post-install-message3 = Halda lisasid ja teemasid rakenduse menüü kaudu.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Saad õigusi ja andme-eelistusi igal ajal <a data-l10n-name="settings-link">laienduse sätetes</a> uuendada.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Laiendus kinnitatakse tööriistaribale
+    .accesskey = k
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sellel laiendusel lubatakse käivituda privaatsetes akendes
     .accesskey = S
