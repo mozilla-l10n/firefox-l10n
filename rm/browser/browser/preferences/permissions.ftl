@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Allontanar tut las websites
     .accesskey = t
+permissions-save-changes-2 =
+    .buttonlabelaccept = Memorisar las midadas
+    .buttonaccesskeyaccept = M
 permission-dialog =
     .buttonlabelaccept = Memorisar las midadas
     .buttonaccesskeyaccept = M
@@ -84,6 +87,9 @@ permissions-exceptions-cookie-window2 =
     .title = Excepziuns - Cookies e datas da websites
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ti pos definir per mintga website schebain ella dastga adina u mai utilisar cookies e datas da websites. Tippa l'adressa exacta da la website e clicca lura sin «Bloccar», «Permetter per questa sesida» u sin «Permetter».
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
