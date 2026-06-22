@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Выдаліць усе вэб-сайты
     .accesskey = ы
+permissions-save-changes-2 =
+    .buttonlabelaccept = Захаваць змены
+    .buttonaccesskeyaccept = Ы
 permission-dialog =
     .buttonlabelaccept = Захаваць змены
     .buttonaccesskeyaccept = Ы
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Выключэнні - Кукі і дадзеныя сайтаў
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім вэб-сайтам заўжды дазволена або забаронена выкарыстоўваць кукі і дадзеныя сайтаў.  Упішыце дакладны адрас сайта, якім вы хочаце распарадзіцца, і націсніце Блакаваць, Дазволіць на сеанс, або Дазволіць.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
