@@ -285,6 +285,9 @@ about-debugging-worker-push-service =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = පටිත්ත පූරණය වී අවසන් නැති නිසා සෝදිසි කළ නොහැකිය
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = පණිවිඩය වසන්න
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = පණිවිඩය වසන්න
 # Label text used for the error details of message component.
