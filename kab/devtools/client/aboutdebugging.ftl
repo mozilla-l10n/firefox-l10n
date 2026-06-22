@@ -327,6 +327,9 @@ about-debugging-multiprocess-toolbox-name = Tabwaḍt n yifecka aget akala
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Akala agejdan akked ukala n ugbur i yiminig asaḍas
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Mdel izen
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mdel izen
 # Label text used for the error details of message component.

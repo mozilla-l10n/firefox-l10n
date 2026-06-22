@@ -28,6 +28,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Sna kuaiyo nuu Web
     .accesskey = S
+permissions-save-changes-2 =
+    .buttonlabelaccept = Chuva´a nsama
+    .buttonaccesskeyaccept = C
 permission-dialog =
     .buttonlabelaccept = Chuva´a nsama
     .buttonaccesskeyaccept = C
@@ -58,12 +61,24 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Nuu ka̱a̱ servidor ntu vatu
 permissions-invalid-uri-label = Nejika chu´unu iin nuu vatu
 
+## Exceptions - Tracking Protection
+
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Excepciones: Cookies ji datos sitio
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka íchi cookies ji datos sitio. Tee dirección vatu sitio kuvinu tetiñunu je kuaxin kasɨ, kuvi nuu ya'a a xíín kuvi.
+
+## Exceptions - Clear on Shutdown
+
+
+## Exceptions - HTTPS-Only Mode
+
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -79,12 +94,18 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Da nuu kajie´e sesión nuu da web nchuva´a
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Sitio web íyo permitidos - Chu'un complementos
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Kuvi kachinu ne´iin da nuu web kuvi chu'un ka̱a̱ chunta'an. Chu´u dirección noo´o je kuaxin kuvi.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -118,6 +139,12 @@ permissions-site-camera-window2 =
 permissions-site-camera-disable-label =
     .label = Kasɨ solicitudes jíía jikatu´un kivɨ nuu ka̱a̱ nátava
 
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -126,3 +153,8 @@ permissions-site-microphone-window2 =
 permissions-site-microphone-desc = Da nuu web ya´a kuvi kivɨ nuu ka̱a̱ micrófono. Kuvi kachinu ne´i da web kuvi nuu ka̱a̱ micrófono. Suni kuvi kasɨnɨ solicitudes jíía kuvi kivɨ nuu micrófono.
 permissions-site-microphone-disable-label =
     .label = Kasɨ solicitudes jíía kuvi kivɨ nuu ka̱a̱ micrófono
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

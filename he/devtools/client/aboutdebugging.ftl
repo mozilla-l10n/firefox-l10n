@@ -290,6 +290,9 @@ about-debugging-multiprocess-toolbox-name = ארגז כלים מרובה תהל�
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = התהליך הראשי ותהליכי התוכן עבור דפדפן היעד
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = סגירת הודעה
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = סגירת הודעה
 # Label text used for the error details of message component.

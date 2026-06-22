@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = ყველა საიტის მოცილება
     .accesskey = ყ
+permissions-save-changes-2 =
+    .buttonlabelaccept = ცვლილებების შენახვა
+    .buttonaccesskeyaccept = შ
 permission-dialog =
     .buttonlabelaccept = ცვლილებების შენახვა
     .buttonaccesskeyaccept = შ
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = გამონაკლისები – ფუნთუშები და საიტის მონაცემები
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ფუნთუშებისა და საიტის მონაცემების გამოყენება.  აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას, სეანსზე დაშვებას ან აკრძალვას.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 

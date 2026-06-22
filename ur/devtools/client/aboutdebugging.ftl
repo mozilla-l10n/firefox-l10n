@@ -214,6 +214,9 @@ about-debugging-worker-push-service =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = پیغام بند کریں
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = پیغام بند کریں
 # Label text used for the error details of message component.

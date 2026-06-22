@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Көппроцестік сайма�
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Мақсат браузері үшін басты процесс және мазмұн процестері
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Хабарламаны жабу
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Хабарламаны жабу
 # Label text used for the error details of message component.

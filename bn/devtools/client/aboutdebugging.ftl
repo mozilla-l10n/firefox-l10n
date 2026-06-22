@@ -324,6 +324,9 @@ about-debugging-multiprocess-toolbox-name = মাল্টিপ্রসেস
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = নির্ধারিত (টার্গেট) ব্রাউজারের জন্য মেইন প্রসেস এবং কনটেন্ট প্রসেস
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = বার্তা বন্ধ করুন
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = বার্তা বন্ধ করুন
 # Label text used for the error details of message component.

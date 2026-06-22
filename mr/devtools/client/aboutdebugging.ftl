@@ -178,6 +178,9 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
     .label = पुश सेवा
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = संदेश बंद करा
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = संदेश बंद करा
 # Label text used for the error details of message component.

@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Cassele dai imprescj multiprocès
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Procès principâl e procès pai contignûts pal navigadôr di destinazion
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Siere il messaç
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Siere il messaç
 # Label text used for the error details of message component.

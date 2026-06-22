@@ -32,10 +32,6 @@ category-privacy =
 pane-sync-title3 = Sinxronizatsiya
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-search-results-header = { -brand-short-name } Tajriba: Ehtiyotkorlik bilan foydalaning
@@ -61,6 +57,17 @@ should-restart-title = { -brand-short-name }`ni qayta ishga tushirish
 should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
 cancel-no-restart-button = Bekor qilish
 restart-later = Keyinroq qayta ishga tushirish
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -317,6 +324,15 @@ update-in-progress-ok-button = &Rad etish
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Davom etish
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Samaradorlik
@@ -364,6 +380,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Batafsil
 browsing-group =
     .label = Koʻrish
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -414,6 +433,12 @@ use-current-pages =
 choose-bookmark =
     .label = Xatcho‘pdan foydalanish
     .accesskey = X
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -569,6 +594,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tasdiqlanmagan.
 sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -726,6 +756,15 @@ forms-master-pw-change =
     .accesskey = u
 forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Tarix
@@ -785,6 +824,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Kuki va sayt ma’lumotlari
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Manzil paneli
@@ -799,6 +844,22 @@ addressbar-locbar-openpage-option =
     .label = Varaqlarni ochish
     .accesskey = o
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -856,6 +917,9 @@ addon-recommendations-link = Batafsil
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -887,13 +951,32 @@ certs-devices =
     .accesskey = X
 certs-devices-enable-fips = FIPS’ni yoqib qo‘yish
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ish stoli
 downloads-folder-name = Yuklab olishlar
 choose-download-folder-title = Yuklanish jildini tanlang:
 
+## Appearance page
+
+
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

@@ -26,10 +26,6 @@ pane-privacy-section =
 pane-privacy-title = গোপনীয়তা & নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -896,8 +892,6 @@ choose-download-folder-title = ডাউনলোড ফোল্ডার ন�
 
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
 
 ## Privacy and security status card
 

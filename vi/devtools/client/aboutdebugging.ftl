@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Hộp công cụ đa xử lý
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Quy trình chính và quy trình nội dung cho trình duyệt đích
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Đóng thông báo
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Đóng thông báo
 # Label text used for the error details of message component.

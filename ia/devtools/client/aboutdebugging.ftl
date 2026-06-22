@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Instrumentario multiprocesso
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Processo principal e processos de contento pro le navigator de destination
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Clauder message
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Clauder message
 # Label text used for the error details of message component.

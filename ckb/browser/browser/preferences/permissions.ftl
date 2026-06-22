@@ -28,6 +28,9 @@ permissions-remove =
 permissions-remove-all =
     .label = هەموو ماڵپەڕەکان بسڕەوە
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
+    .buttonaccesskeyaccept = گ
 permission-dialog =
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
     .buttonaccesskeyaccept = گ
@@ -57,3 +60,59 @@ permissions-capabilities-listitem-allow-session =
 
 permissions-invalid-uri-title = ناوی پاوان هەڵەیە
 permissions-invalid-uri-label = ناوی پاوانی گونجاو بنووسە
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Clear on Shutdown
+
+
+## Exceptions - HTTPS-Only Mode
+
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Saved Passwords
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Autoplay
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Virtual Reality
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
+## Site Permissions - Microphone
+
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Премахване на всички страници
     .accesskey = в
+permissions-save-changes-2 =
+    .buttonlabelaccept = Запазване
+    .buttonaccesskeyaccept = З
 permission-dialog =
     .buttonlabelaccept = Запазване
     .buttonaccesskeyaccept = З
@@ -85,12 +88,18 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Може да укажете на кои страници винаги е разрешено или забранено да използват бисквитки и данни на страници. Въведете точния адрес на страницата, която искате да настроите и изберете „Забраняване“, „Разрешаване за сесията“ или „Разрешаване“.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Изключения – Режим „само HTTPS“
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Можете да изключите режима „само HTTPS“ за конкретни страници. { -brand-short-name } няма да опитва да надстройва връзката към HTTPS за тези страници. Изключенията не се прилагат за поверителни прозорци.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -165,6 +174,12 @@ permissions-site-camera-desc = Следните страници са поиск
 permissions-site-camera-disable-label =
     .label = Спиране на всички нови запитвания за достъп до камерата
 permissions-site-camera-disable-desc = По този начин ще попречите на страниците, които не са в списъка да искат разрешение за достъп до камерата. Спирането на достъпа да камерата ви може да наруши работата на страниците.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 

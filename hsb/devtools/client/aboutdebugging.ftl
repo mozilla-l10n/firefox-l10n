@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Multiprocesowe graty
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Hłowny proces a wobsahowe procesy za cilowy wobhladowak
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Zdźělenku začinić
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zdźělenku začinić
 # Label text used for the error details of message component.

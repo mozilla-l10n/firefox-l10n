@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Eliminar todos los sitios web
     .accesskey = a
+permissions-save-changes-2 =
+    .buttonlabelaccept = Guardar cambios
+    .buttonaccesskeyaccept = G
 permission-dialog =
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = G
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Excepciones: Cookies y datos del sitio
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puede especificar qué sitios web pueden o no pueden utilizar siempre cookies y datos del sitio.  Escriba la dirección exacta del sitio que quiera gestionar y haga clic en Bloquear, Permitir en esta sesión o Permitir.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 

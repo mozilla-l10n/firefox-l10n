@@ -305,6 +305,9 @@ about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = ຂະບວນການຕົ້ນຕໍ ແລະ ຂະບວນການເນື້ອຫາສໍາລັບຕົວທ່ອງເວັບເປົ້າຫມາຍ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = ປິດຂໍ້ຄວາມ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ປິດຂໍ້ຄວາມ
 # Label text used for the error details of message component.

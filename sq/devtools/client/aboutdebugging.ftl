@@ -331,6 +331,9 @@ about-debugging-multiprocess-toolbox-name = Kuti mjetesh Multiproces
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Procesi Kryesor dhe Procese Lënde për shfletuesin e synuar
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Mbylle mesazhin
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mbylle mesazhin
 # Label text used for the error details of message component.

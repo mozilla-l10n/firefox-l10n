@@ -104,6 +104,9 @@ about-debugging-worker-action-unregister = លុប​ការ​ចុះ​�
 about-debugging-worker-origin =
     .label = ប្រភពដើម
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = បិទសារ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = បិទសារ
 # Label text used for the error details of message component.

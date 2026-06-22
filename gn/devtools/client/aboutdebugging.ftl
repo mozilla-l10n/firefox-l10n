@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Tembiporu ryru hembiapoitáva
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Tapereko ha’etéva ha tetepy rapereko kundahára ohotahápe g̃uarã
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Emboty ñe’ẽmondo
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Emboty ñe’ẽmondo
 # Label text used for the error details of message component.

@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
+permissions-save-changes-2 =
+    .buttonlabelaccept = Зберегти зміни
+    .buttonaccesskeyaccept = З
 permission-dialog =
     .buttonlabelaccept = Зберегти зміни
     .buttonaccesskeyaccept = З
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Винятки – файли cookie та дані сайтів
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ви можете вказати, яким вебсайтам завжди дозволяти, а яким ніколи не дозволяти використовувати файли cookie та дані сайтів.  Введіть точну адресу сайту, який ви хочете додати, потім натисніть Блокувати, Дозволити на сеанс чи Дозволити.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 

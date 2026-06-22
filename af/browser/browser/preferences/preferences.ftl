@@ -21,10 +21,6 @@ pane-privacy-section =
 pane-privacy-title = Privaatheid en sekuriteit
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -46,6 +42,17 @@ should-restart-title = Herbegin { -brand-short-name }
 should-restart-ok = Herbegin { -brand-short-name } nou
 cancel-no-restart-button = Kanselleer
 restart-later = Herbegin later
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -250,6 +257,15 @@ update-application-use-service =
     .label = Gebruik 'n agtergronddiens om bywerkings te installeer
     .accesskey = a
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Werkverrigting
@@ -297,6 +313,9 @@ browsing-cfr-recommendations-learn-more = Meer inligting
 browsing-group =
     .label = Blaai
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-proxy-connection-settings =
@@ -335,6 +354,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gebruik boekmerk…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -400,6 +425,9 @@ containers-add-button =
 containers-remove-button =
     .label = Verwyder
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -434,6 +462,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } is nie geverifieer nie.
 sync-signedin-login-failure = Meld aan om { $email } te herkoppel.
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-remove-account =
@@ -442,6 +475,9 @@ sync-remove-account =
 sync-sign-in =
     .label = Meld aan
     .accesskey = M
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -532,6 +568,15 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Kon nie wagwoord verander nie
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Geskiedenis
@@ -578,6 +623,12 @@ sitedata-learn-more = Meer inligting
 cookies-site-data-group =
     .label = Koekies en webwerf-data
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-locbar-history-option =
@@ -595,6 +646,10 @@ addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soeke
 
 content-blocking-enhanced-tracking-protection = Gevorderde beskerming van spoorsnyers
 content-blocking-learn-more = Meer inligting
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -658,6 +713,9 @@ permissions-notification2 =
 
 collection-health-report-link = Meer inligting
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -682,13 +740,32 @@ certs-enable-ocsp =
     .accesskey = B
 certs-devices-enable-fips = Aktiveer FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Werkskerm
 downloads-folder-name = Aflaaie
 choose-download-folder-title = Kies aflaaivouer:
 
+## Appearance page
+
+
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

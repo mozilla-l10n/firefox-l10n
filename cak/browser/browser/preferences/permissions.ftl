@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l
     .accesskey = y
+permissions-save-changes-2 =
+    .buttonlabelaccept = Keyak Jaloj
+    .buttonaccesskeyaccept = K
 permission-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = K
@@ -84,12 +87,18 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l ruxaq junelïk o majub'ey nikokisaj kaxlanwey o kitzij ruxaq.  Tatz'ib'aj ri tz'aqät rochochib'al ruxaq nawajo' nanuk'samajij k'a ri' tapitz'a' pa Tiq'at, Tiya' Q'ij chi re ri Molojri'ïl, o Tiya' Q'ij.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Taq cha'oj - Xa xe Rub'anikil-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Yatikïr nachüp ri rub'anikil HTTPS-Only kichin cha'on ajk'amaya'l taq ruxaq. { -brand-short-name } man xtutojtob'ej ta xtuk'ëx ri okem richin nijikib'äx ri HTTPS pa ri taq ruxaq ri'. Ri taq cha'oj man nokisäx pa ichinan taq tzuwäch.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -104,6 +113,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Taq man relik ta - Yakon kitikirib'al taq molojri'ïl
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Man xkeyak ta kan ri kitikirib'al taq kimolojri'ïl re taq ajk'amaya'l ruxaq re'
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -158,6 +170,12 @@ permissions-site-camera-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richi
 permissions-site-camera-disable-label =
     .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan elesäy awachib'al
 permissions-site-camera-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan elesäy awachib'al. We yeq'at ri taq okem pan elesäy awachib'al nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 

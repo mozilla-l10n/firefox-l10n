@@ -24,10 +24,6 @@ pane-privacy-section =
 pane-privacy-title = Dateschutz & Sécherheet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -103,6 +99,10 @@ browser-containers-settings =
     .accesskey = A
 startup-group =
     .label = Start
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -203,6 +203,15 @@ update-application-auto =
     .label = Updaten automatesch installéieren (recommandéiert)
     .accesskey = A
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -216,12 +225,18 @@ browsing-search-on-start-typing =
     .label = Nom Text siche während dem Tippen
     .accesskey = x
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-proxy-connection-learn-more = Fir méi ze wëssen
 network-proxy-connection-settings =
     .label = Astellungen...
     .accesskey = A
+
+## Home Section
+
 
 ## Home Section - Default Browser
 
@@ -255,6 +270,21 @@ choose-bookmark =
     .label = Lieszeeche benotzen...
     .accesskey = B
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-choose-engine-column =
@@ -269,6 +299,35 @@ search-remove-engine =
 
 containers-remove-button =
     .label = Läschen
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -311,15 +370,58 @@ sync-verification-sent-body = E Link zur Bestätegung ass un { $email } geschéc
 sync-verification-not-sent-title = D'Bestätegung konnt net geschéckt ginn
 sync-verification-not-sent-body = Et ass eis net méiglech d'Bestätegungsemail dëse Moment ze schécken, probéier wegl méi spéit nach emol.
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
+## Privacy Panel Settings
+
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
+## Privacy Section - History
+
+
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Fir méi ze wëssen
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Lieszeechen
     .accesskey = k
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -344,6 +446,9 @@ permissions-notification2 =
 
 collection-health-report-link = Fir méi ze wëssen
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -352,7 +457,32 @@ collection-health-report-link = Fir méi ze wëssen
 security-header = Sécherheet
 security-enable-safe-browsing-link = Fir méi ze wëssen
 
+## Privacy Section - Certificates
+
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
+## The following strings are used in the Download section of settings
+
+
+## Appearance page
+
+
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

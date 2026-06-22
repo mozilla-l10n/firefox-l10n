@@ -24,10 +24,6 @@ pane-privacy-section =
 pane-privacy-title = Privasi & Keselamatan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -282,6 +278,15 @@ update-application-use-service =
     .label = Gunakan servis latar belakang bagi pemasangan versi terkini
     .accesskey = b
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestasi
@@ -328,6 +333,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Ketahui Selanjutnya
 browsing-group =
     .label = Menyemak
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -378,6 +386,12 @@ use-current-pages =
 choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -472,6 +486,9 @@ containers-add-button =
 containers-remove-button =
     .label = Buang
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -506,6 +523,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -517,6 +539,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -606,6 +634,15 @@ forms-master-pw-change =
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sejarah
@@ -685,6 +722,12 @@ sitedata-settings =
     .accesskey = U
 cookies-site-data-group =
     .label = Kuki dan Data Laman
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -794,6 +837,9 @@ collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi 
 data-collection-studies-link =
     .label = Papar kajian { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -826,13 +872,32 @@ certs-devices =
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Muat turun
 choose-download-folder-title = Pilih Folder Muat turun:
 
+## Appearance page
+
+
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

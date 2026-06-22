@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = k
+permissions-save-changes-2 =
+    .buttonlabelaccept = Tallenna muutokset
+    .buttonaccesskeyaccept = T
 permission-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Poikkeukset - Evästeet ja sivustotiedot
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa asettaa evästeitä ja tallentaa tietoja tietokoneellesi. Kirjoita sivuston osoite ja napsauta Salli, Salli istunnon ajaksi tai Estä.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 

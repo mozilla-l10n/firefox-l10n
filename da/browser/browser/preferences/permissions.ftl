@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Fjern alle websteder
     .accesskey = a
+permissions-save-changes-2 =
+    .buttonlabelaccept = Gem ændringer
+    .buttonaccesskeyaccept = G
 permission-dialog =
     .buttonlabelaccept = Gem ændringer
     .buttonaccesskeyaccept = G
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Undtagelser - cookies og websteds-data
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data. Indtast adressen på webstedet, du ønsker at angive tilladelser for, og klik på Bloker, Tillad for sessionen eller Tillad
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 

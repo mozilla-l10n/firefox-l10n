@@ -84,6 +84,9 @@ about-debugging-extension-location =
 about-debugging-worker-scope =
     .label = Raon feidhme
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Dún an teachtaireacht
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Dún an teachtaireacht
 # Label text used for default state of details of message component.

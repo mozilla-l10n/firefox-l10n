@@ -21,10 +21,6 @@ pane-privacy-section =
 pane-privacy-title = गोपनीयता आ सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -46,6 +42,20 @@ should-restart-title = { -brand-short-name } फेर आरंभ करू
 should-restart-ok = { -brand-short-name } केँ अखन फेर आरंभ करू
 restart-later = कनि काल मे फेर सँ शुरू करू
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = आरंभन
@@ -59,6 +69,13 @@ show-tabs-in-taskbar =
     .accesskey = k
 startup-group =
     .label = आरंभन
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -160,6 +177,15 @@ update-application-use-service =
     .label = अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू
     .accesskey = b
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -181,11 +207,20 @@ browsing-use-cursor-navigation =
 browsing-group =
     .label = ब्राउजिंग
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -203,6 +238,12 @@ use-current-pages =
 choose-bookmark =
     .label = पुस्तकचिह्नक प्रयोग करू…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -270,6 +311,16 @@ search-engine-group =
 search-default-engine =
     .aria-label = तयशुदा खोज इंजिन
 
+## Containers Section
+
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-profile-picture =
@@ -284,6 +335,20 @@ sync-profile-picture-with-alt =
 
 sync-signedin-unverified = { $email } सत्यापित नहि अछि.
 sync-signedin-login-failure = फिनु सँ कनेक्ट करबाक लेल साइन इन करू { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -310,6 +375,12 @@ sync-device-name-input =
 
 sync-verification-sent-title = सत्यापन भेजल गेल
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Panel Settings
 
 forms-exceptions =
@@ -325,6 +396,15 @@ forms-master-pw-change =
     .label = मुख्य गुड़किल्ली बदलू…
     .accesskey = M
 forms-master-pw-fips-desc = गुड़किल्ली बदलनाइ विफल
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -352,6 +432,15 @@ history-clear-on-close-settings =
 history-group =
     .label = इतिहास
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
@@ -360,6 +449,22 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = टैब खोलू
     .accesskey = O
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -373,6 +478,18 @@ permissions-addon-exceptions =
 permissions-notification2 =
     .label = सूचना
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्र
@@ -381,13 +498,32 @@ certs-enable-ocsp =
     .accesskey = Q
 certs-devices-enable-fips = FIPS सक्रिय  करू
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटाप
 downloads-folder-name = डाउनलोड
 choose-download-folder-title = डाउनलोड फोल्डर चुनू:
 
+## Appearance page
+
+
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

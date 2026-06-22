@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Multiprozesuko tresna-kutxa
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Helburu-nabigatzailearen prozesu nagusia eta eduki-prozesua
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Itxi mezua
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Itxi mezua
 # Label text used for the error details of message component.

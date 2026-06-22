@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Уклони све
     .accesskey = с
+permissions-save-changes-2 =
+    .buttonlabelaccept = Сачувај
+    .buttonaccesskeyaccept = С
 permission-dialog =
     .buttonlabelaccept = Сачувај
     .buttonaccesskeyaccept = С
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Колачићи и подаци о сајтовима – изузеци
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Овде можете да наведете којим веб-сајтовима је дозвољено или забрањено да користе колачиће и податке о сајтовима. Унесите адресу сајта и кликните на „Блокирај”, „Дозволи док траје сесија” или „Дозволи”.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 

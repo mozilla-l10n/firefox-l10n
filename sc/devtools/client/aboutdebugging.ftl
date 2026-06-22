@@ -220,6 +220,9 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
     .label = Servìtziu Push
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Serra su messàgiu
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Serra su messàgiu
 # Label text used for the error details of message component.

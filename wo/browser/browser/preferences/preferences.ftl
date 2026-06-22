@@ -9,10 +9,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -23,6 +19,23 @@ focus-search =
 close-button =
     .aria-label = Tëj
 
+## Browser Restart Dialog
+
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Tàmbali
@@ -32,6 +45,13 @@ show-tabs-in-taskbar =
     .accesskey = n
 startup-group =
     .label = Tàmbali
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -126,6 +146,15 @@ update-application-use-service =
     .label = Jëfandikool ab sarwiisu laltu ngir samp yeesal yi
     .accesskey = k
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -147,11 +176,20 @@ browsing-use-cursor-navigation =
 browsing-group =
     .label = Joow mi
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-proxy-connection-settings =
     .label = Parameetar…
     .accesskey = P
+
+## Home Section
+
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -170,6 +208,21 @@ choose-bookmark =
     .label = Mandarga xët...
     .accesskey = M
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -182,6 +235,38 @@ search-keyword-warning-title = Caabi baat bi dafa seex
 search-keyword-warning-engine = Tànn nga caabi baat bu « { $name } » di jëfandikoo, tànnal beneen.
 search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di jëfandikoo, tànnal beneen.
 
+## Containers Section
+
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -190,6 +275,19 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Jaar jaar
     .accesskey = r
+
+## The device name controls.
+
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Panel Settings
 
@@ -203,6 +301,15 @@ forms-master-pw-change =
     .label = Soppi baatu jàll bi gëna am solo…
     .accesskey = o
 forms-master-pw-fips-desc = Baatu jàll bi lajj na
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -229,6 +336,34 @@ history-clear-on-close-settings =
     .label = Parameetar…
     .accesskey = P
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Search Section
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-block-popups =
@@ -238,10 +373,31 @@ permissions-addon-exceptions =
     .label = Seppi yi…
     .accesskey = S
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = Sarsifikaa
 certs-devices-enable-fips = Suqali FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
@@ -249,7 +405,17 @@ desktop-folder-name = Biro
 downloads-folder-name = Yeb yi
 choose-download-folder-title = Tànn wayndare yeb:
 
+## Appearance page
+
+
 ## AI controls page
 
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

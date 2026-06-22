@@ -331,6 +331,9 @@ about-debugging-multiprocess-toolbox-name = 多进程工具箱
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = 目标浏览器的主进程和内容进程
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = 关闭消息
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = 关闭消息
 # Label text used for the error details of message component.

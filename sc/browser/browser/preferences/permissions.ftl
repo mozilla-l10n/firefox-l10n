@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Boga totu is sitos web
     .accesskey = t
+permissions-save-changes-2 =
+    .buttonlabelaccept = Sarva is modìficas
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Sarva is modìficas
     .buttonaccesskeyaccept = S
@@ -85,6 +88,9 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Podes pretzisare a cales sitos web est semper o mai permìtidu de impreare testimòngios (cookies) e datos de is sitos. Iscrie s'indiritzu esatu de su situ chi boles gestire e luego incarca Bloca, Permite in sa sessione, o Permite.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -92,6 +98,9 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de agiornare sa connessione a sa versione de HTTPS segura pro custos sitos. Is etzetziones non s'ant a aplicare a is ventanas privadas.
 permissions-exceptions-https-only-desc2 = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de atualizare sa connessione a sa versione de HTTPS segura pro custos sitos.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -167,6 +176,12 @@ permissions-site-camera-desc = Is sitos web imbenientes ant rechestu de atzèder
 permissions-site-camera-disable-label =
     .label = Bloca is rechestas noas de atzessu a sa fotocàmera
 permissions-site-camera-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu de atzèdere a sa fotocàmera tua. Blochende s'atzessu a sa fotocàmera, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 

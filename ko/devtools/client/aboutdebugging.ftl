@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = 다중 프로세스 도구상자
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = 대상 브라우저의 메인 프로세스 및 콘텐츠 프로세스
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = 메시지 닫기
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = 메시지 닫기
 # Label text used for the error details of message component.

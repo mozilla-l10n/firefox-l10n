@@ -70,10 +70,6 @@ pane-ai-controls-title2 = Controls d’IA
     .title = Controls d’IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Experiments del { -brand-short-name }
@@ -708,6 +704,12 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -789,6 +791,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1490,6 +1495,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 windows-passkey-settings-label = Gestiona les claus d'accés en els paràmetres del sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2277,11 +2285,17 @@ preferences-doh-manage-exceptions =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2291,8 +2305,6 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel·la
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloca
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
 preferences-ai-controls-header3 =
     .heading = Controls d’IA
 
@@ -2322,3 +2334,6 @@ issue-card-dismiss-button =
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Aïlla les galetes entre llocs
+
+## Warnings section
+

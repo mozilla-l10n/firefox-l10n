@@ -73,16 +73,12 @@ pane-downloads-title2 = Ներբեռնումներ
     .title = Ներբեռնումներ
 pane-downloads3 =
     .heading = Ներբեռնումներ
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Մատչելիություն
     .title = { pane-accessibility-title }
 pane-languages-title2 = Լեզուներ
     .title = Լեզուներ
 preferences-languages-header3 =
     .heading = Լեզուներ
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } Փորձեր
@@ -1535,6 +1531,9 @@ forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2326,8 +2325,6 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Չեղարկել
 preferences-ai-controls-block-confirmation-confirm =
     .label = Արգելափակել
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
 preferences-ai-controls-header3 =
     .heading = ԱԲ կառավարում
 
@@ -2354,3 +2351,6 @@ preferences-etp-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Մեկուսացնել միջկայքային թխուկները
+
+## Warnings section
+

@@ -63,10 +63,6 @@ pane-ai-controls-title2 = Controllos de s’IA
     .title = Controllos de s’IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Esperimentos de { -brand-short-name }
@@ -682,6 +678,15 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -754,6 +759,9 @@ browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Cunfiguratzione de rete
@@ -812,6 +820,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -1383,6 +1394,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 windows-passkey-settings-label = Gesti is craes de atzessu in is cunfiguratziones de su sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2042,11 +2056,17 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
 downloads-folder-name = Iscarrigamentos
 choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2071,11 +2091,15 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulla
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloca
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
 preferences-ai-controls-header3 =
     .heading = Controllos de s’IA
 
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

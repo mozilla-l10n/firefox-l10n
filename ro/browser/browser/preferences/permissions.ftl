@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Elimină toate site-urile web
     .accesskey = E
+permissions-save-changes-2 =
+    .buttonlabelaccept = Salvează schimbările
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Salvează schimbările
     .buttonaccesskeyaccept = S
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Excepții - Cookie-uri și date ale site-urilor
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a folosi cookie-uri și date ale site-urilor.  Tastează adresa exactă a site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează, Permite pentru sesiune sau Permite.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
