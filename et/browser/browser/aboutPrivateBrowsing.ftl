@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Keeldume nüüd automaatselt 
 about-private-browsing-felt-privacy-v1-info-header = Ära jäta sellesse seadmesse jälgi
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } kustutab küpsised, ajaloo ja saidiandmed, kui sulged kõik privaatsed aknad.
 about-private-browsing-felt-privacy-v1-info-link = Kes võib minu tegevust näha?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Kõigi privaatsete akende sulgemine kustutab küpsised, ajaloo ja saitide andmed.
