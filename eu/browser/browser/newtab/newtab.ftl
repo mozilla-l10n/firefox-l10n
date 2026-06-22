@@ -971,6 +971,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Desaktibatu jakinarazpenak
 newtab-widget-timer-menu-notifications-on = Aktibatu jakinarazpenak
 newtab-widget-timer-menu-learn-more = Argibide gehiago
+newtab-widget-timer-menu-button =
+    .aria-label = Tenporizadorearen aukerak
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Lerroburu garrantzitsuenak
 newtab-daily-briefing-card-menu-dismiss = Baztertu
@@ -1129,7 +1131,7 @@ newtab-sports-widget-group-i = I Multzoa
 newtab-sports-widget-group-j = J Multzoa
 newtab-sports-widget-group-k = K Multzoa
 newtab-sports-widget-group-l = L Multzoa
-newtab-sports-widget-round-32 = Final hogeita hamabirenak
+newtab-sports-widget-round-32 = Final hamaseirenak
 newtab-sports-widget-round-16 = Final hamaseirenak
 newtab-sports-widget-quarter-finals = Final laurdenak
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
@@ -1172,7 +1174,7 @@ newtab-sports-widget-world-cup-champions-short = 2026ko txapeldunak
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-newtab-sports-widget-match-full-time = Partidaren amaiera
+newtab-sports-widget-match-full-time = Amaituta
 newtab-sports-widget-match-halftime = Atsedenaldia
 newtab-sports-widget-match-extra-time = Luzapena
 newtab-sports-widget-match-penalties = Penaltiak

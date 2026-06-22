@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Galdetu { $provider } hornitzaileari
 genai-menu-new-badge = Berria
 genai-menu-summarize-page = Laburbildu orria
+genai-input-ask-smart-window =
+    .placeholder = Galdetu…
 genai-input-ask-generic =
     .placeholder = Galdetu AA txaterako botari…
 # $provider (string) - name of the provider
@@ -105,6 +107,9 @@ genai-menu-ask-provider-2 =
     .accesskey = G
 genai-menu-no-provider-2 =
     .label = Galdetu AA txaterako botari
+    .accesskey = G
+genai-menu-ask-smart-window =
+    .label = Galdetu…
     .accesskey = G
 
 ## Chatbot header
