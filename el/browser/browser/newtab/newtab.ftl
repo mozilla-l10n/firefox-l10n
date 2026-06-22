@@ -972,6 +972,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+newtab-widget-timer-menu-button =
+    .aria-label = Επιλογές αντίστροφης μέτρησης
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Κορυφαίες επικεφαλίδες
 newtab-daily-briefing-card-menu-dismiss = Απόρριψη
