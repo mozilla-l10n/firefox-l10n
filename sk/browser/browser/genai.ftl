@@ -112,6 +112,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Opýtajte sa AI chatbota
     .accesskey = c
+genai-menu-ask-smart-window =
+    .label = Opýtajte sa…
+    .accesskey = O
 
 ## Chatbot header
 

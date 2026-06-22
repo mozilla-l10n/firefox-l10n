@@ -971,6 +971,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Vypnúť upozornenia
 newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
 newtab-widget-timer-menu-learn-more = Ďalšie informácie
+newtab-widget-timer-menu-button =
+    .aria-label = Možnosti časovača
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Najlepšie titulky
 newtab-daily-briefing-card-menu-dismiss = Zavrieť
