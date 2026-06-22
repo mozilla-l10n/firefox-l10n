@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Caixa de ferramentas de múltiples p
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Procesos principais e procesos de contido para o navegador de destino
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Pechar mensaxe
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Pechar mensaxe
 # Label text used for the error details of message component.
