@@ -257,6 +257,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង…
+appmenu-abouttranslations =
+    .label = បកប្រែ…
 appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក
 appmenu-developer-tools-extensions =
     .label = ផ្នែកបន្ថែមសម្រាប់អ្នកអភិវឌ្ឍន៍

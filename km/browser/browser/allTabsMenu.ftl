@@ -19,6 +19,7 @@ all-tabs-menu-synced-tabs =
 # "Recent" refers to tab groups being sorted in recently used order. We show up
 # to five of these in this section.
 all-tabs-menu-recent-tab-groups-header = ក្រុមផ្ទាំងថ្មីៗ
+all-tabs-menu-current-window-header = បង្អួចបច្ចុប្បន្ន
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = បង្ហាញ​ទាំងអស់
