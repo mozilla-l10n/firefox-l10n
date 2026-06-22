@@ -88,18 +88,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig am bi no nach bi cead an-còmhnaidh briosgaidean is dàta làraichean a chleachdadh. Cuir a-steach seòlaidh pongail na làraich a tha thu airson stiùireadh agus an uairsin briog air “Bac”, “Ceadaich rè an t-seisein” no “Ceadaich”.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Eisgeachdan – Modh HTTPS a-mhàin
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = ’S urrainn dhut am modh HTTPS a-mhàin a chur dheth do làraichean-lìn sònraichte. Chan fheuch { -brand-short-name } ris an ceangal àrdachadh gu HTTPS tèarainte dha na làraichean ud. Cha bhi na h-eisgeachdan an sàs air uinneagan prìobhaideach.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -114,9 +108,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Eisgeachdan – Clàraidhean a-steach sàbhailte
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Cha dèid clàraidhean a-steach air na làraichean-lìn a leanas a shàbhaladh
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -171,12 +162,6 @@ permissions-site-camera-desc = Dh’iarr na làraichean-lìn a leanas cead air a
 permissions-site-camera-disable-label =
     .label = Bac iarrtasan ùra a dh’iarras cead air a’ chamara agad
 permissions-site-camera-disable-desc = Cumaidh seo làrach-lìn sam bith nach eil air an liosta gu h-àrd o chead iarraidh air a’ chamara agad. Ma bhacas tu cead air a’ chamara agad, dh’fhaoidte nach obraich cuid a ghleusan air làraichean-lìn tuilleadh.
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

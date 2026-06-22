@@ -89,32 +89,11 @@ permissions-exceptions-cookie-window2 =
     .title = استسنایل - کۊکیا وو داده یل وبگه
     .style = { permissions-window2.style }
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = مووردا استسنا - هالت تینا HTTPS
     .style = { permissions-window2.style }
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
-
-## Exceptions - Pop-ups
-
-
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
-## Exceptions - Add-ons
-
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -123,24 +102,6 @@ permissions-site-notification-window2 =
     .style = { permissions-window2.style }
 permissions-site-notification-disable-label =
     .label = درخاستا نۊ سی هشتن وارسۊویا ن مسدۊد کۊنین
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
-## Site Permissions - Microphone
-
 
 ## Site Permissions - Speaker
 ##

@@ -91,9 +91,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Možeš odrediti web-stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web-stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

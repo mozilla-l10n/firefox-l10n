@@ -91,9 +91,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ ਉਸ ਸਾਈਟ ਦਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਲਿਖੋ, ਜਿਸ ਦਾ ਤੁਸੀਂ ਬੰਦੋਬਸਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਫਿਰ ਪਾਬੰਦੀ ਲਾਓ, ਸੈਸ਼ਨ ਲਈ ਇਜਾਜ਼ਤ ਦਿਓ, ਜਾਂ ਇਜਾਜ਼ਤ ਦਿਓ।
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

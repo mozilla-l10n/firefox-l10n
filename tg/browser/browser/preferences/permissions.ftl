@@ -91,9 +91,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо ҳамеша ё ҳеҷ гоҳ барои истифодаи кукиҳо ва маълумоти сомона иҷозат доранд ё надоранд.  Нишонии дақиқи сомонаеро, ки мехоҳед идора кунед, ворид намоед ва пас тугмаи «Манъ кардан», «Барои ҷаласа иҷозат додан» ё «Иҷозат додан»-ро зер кунед.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

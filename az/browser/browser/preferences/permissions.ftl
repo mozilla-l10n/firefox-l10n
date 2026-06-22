@@ -54,24 +54,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Etibarsız bir domen adı daxil etdiniz
 permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = İstisnalar: Çərəzlər və Sayt Məlumatları
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Hansı saytların çərəz və sayt məlumatlarını işlədib-işlətməyəcəyini dəqiqləşdirə bilərsiz. İdarə etmək istədiyiniz saytın ünvanını yazaraq Əngəllə, Sessiya üçün icazə ver və ya İcazə ver-ə klikləyə bilərsiz.
-
-## Exceptions - Clear on Shutdown
-
-
-## Exceptions - HTTPS-Only Mode
-
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -87,18 +75,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdakı saytlar üçün hesablar saxlanılmayacaq
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = İcazə verilən saytlar - Əlavə quraşdırılması
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləcəyini seçə bilərsiniz. İcaz vermək istədiyiniz saytın tam ünvanını yazdıqdan sonra "İcazə ver"-ə klikləyin.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -120,9 +102,6 @@ permissions-site-location-disable-label =
     .label = Məkanınız üçün icazə istəyən yeni istəkləri əngəllə
 permissions-site-location-disable-desc = Bu yuxarıda olmayan bütün saytların mövqeyinizi istəmələrini əngəlləyəcək. Mövqeyinizi almağı əngəlləmə bəzi sayt özəlliklərini poza bilər.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -133,12 +112,6 @@ permissions-site-camera-disable-label =
     .label = Kameranız üçün icazə istəyən yeni istəkləri əngəllə
 permissions-site-camera-disable-desc = Bu yuxarıda olmayan bütün saytların kameranız üçün icazə istəmələrini əngəlləyəcək. Kameranızı işlətməyi əngəlləmə bəzi sayt özəlliklərini poza bilər.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -148,8 +121,3 @@ permissions-site-microphone-desc = Aşağıdakı saytlar mikrofonunuz üçün ic
 permissions-site-microphone-disable-label =
     .label = Mikrofonunuz üçün icazə istəyən yeni istəkləri əngəllə
 permissions-site-microphone-disable-desc = Bu yuxarıda olmayan bütün saytların mikrofonunuz üçün icazə istəmələrini əngəlləyəcək. Mikrofonunuzu işlətməyi əngəlləmə bəzi sayt özəlliklərini poza bilər.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

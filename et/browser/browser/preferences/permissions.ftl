@@ -84,18 +84,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Siin saad määrata, millistel saitidel on alati või mitte kunagi lubatud küpsiste ja saidi andmete kasutamine.  Sisesta hallatava saidi täpne aadress ning seejärel klõpsa Bloki, Luba selleks seansiks või Luba.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = HTTPS-režiim - erandid
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Kindlate saitide puhul on võimalik HTTPS-režiim välja lülitada. Nende saitide puhul ei ürita { -brand-short-name } ühendust turvaliseks sundida. Erandid ei rakendu privaatsetele akendele.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -110,9 +104,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Erandid - Salvestatud kasutajakontod
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Järgnevate saitide kasutajakontosid ei salvestata
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -168,12 +159,6 @@ permissions-site-camera-disable-label =
     .label = Bloki uued kaamerale ligipääsemise soovid
 permissions-site-camera-disable-desc = See takistab kõigil ülal mitte välja toodud saitidel kaamerale ligipääsu kohta soovi avaldada. Kaamerale ligipääsu blokkimine võib põhjustada probleeme mõne saidi töötamises.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -183,8 +168,3 @@ permissions-site-microphone-desc = Järgmised saidid on avaldanud soovi ligipä�
 permissions-site-microphone-disable-label =
     .label = Bloki uued mikrofonile ligipääsemise soovid
 permissions-site-microphone-disable-desc = See takistab kõigil ülal mitte välja toodud saitidel mikrofonile ligipääsu kohta soovi avaldada. Mikrofonile ligipääsu blokkimine võib põhjustada probleeme mõne saidi töötamises.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

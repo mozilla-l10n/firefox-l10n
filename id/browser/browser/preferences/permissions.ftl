@@ -88,9 +88,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang diizinkan atau tidak diizinkan untuk menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -183,9 +180,6 @@ permissions-site-camera-disable-desc = Ini akan mencegah situs web apa pun yang 
 permissions-site-localhost-window =
     .title = Pengaturan - Aplikasi dan layanan perangkat
     .style = { permissions-window2.style }
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

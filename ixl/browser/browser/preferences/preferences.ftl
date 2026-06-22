@@ -30,17 +30,6 @@ should-restart-title = La xe'tisal { -brand-short-name }
 cancel-no-restart-button = Ya'sakan
 restart-later = Xamtel la xe'tisal
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = ichukax tok'eb'al
@@ -51,10 +40,6 @@ browser-containers-learn-more = Ootzi ka'te
 browser-containers-settings =
     .label = Ib'anax tuche'…
     .accesskey = I
-
-## Variables:
-##   $tabCount (number) - Number of tabs
-
 
 ##
 
@@ -113,15 +98,6 @@ update-in-progress-ok-button = &Eesa kan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Yakeb'en
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-settings-learn-more = Ootzi ka'te
@@ -135,9 +111,6 @@ performance-default-content-process-count =
 browsing-picture-in-picture-learn-more = Ootzi ka'te
 browsing-cfr-recommendations-learn-more = Ootzi ka'te
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-proxy-connection-learn-more = Ootzi ka'te
@@ -145,28 +118,10 @@ network-proxy-connection-settings =
     .label = Ib'anax tuche'…
     .accesskey = I
 
-## Home Section
-
-
-## Home Section - Default Browser
-
-
 ## Custom Homepage subpage
 
 home-mode-choice-custom =
     .label = Eetz chitu' URLs…
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
-## Home Section - Firefox Home Content Customization
-
-
-## Home Section - Firefox Home Content Customization
-
 
 ##
 
@@ -184,13 +139,6 @@ search-remove-engine =
 containers-remove-button =
     .label = Sojsa el
 
-## Account and sync
-
-
-## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
 ## Firefox account - Signed in
 
 sync-manage-account = La eel isuuchil u atinb'ale'
@@ -198,22 +146,6 @@ sync-manage-account = La eel isuuchil u atinb'ale'
 sync-manage-account2 =
     .label = La eel isuuchil u atinb'ale'
     .accesskey = o
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
-##
-
-
-## Sync section - enabling or disabling sync.
-
 
 ## The list of things currently syncing.
 
@@ -236,28 +168,9 @@ sync-device-name-save =
     .label = Kola
     .accesskey = v
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
-
-## Privacy Section - Logins and Passwords
-
-
 ## Privacy Panel Settings
 
 forms-breach-alerts-learn-more-link = Ootzi ka'te
-
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -268,12 +181,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Ootzi ka'te
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -300,9 +207,6 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -333,9 +237,6 @@ collection-health-report-telemetry-disabled-link = Ootzi ka'te
 collection-health-report-link = Ootzi ka'te
 addon-recommendations-link = Ootzi ka'te
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -343,33 +244,6 @@ addon-recommendations-link = Ootzi ka'te
 
 security-enable-safe-browsing-link = Ootzi ka'te
 
-## Privacy Section - Certificates
-
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 downloads-folder-name = Eq'omal ku'tzan
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

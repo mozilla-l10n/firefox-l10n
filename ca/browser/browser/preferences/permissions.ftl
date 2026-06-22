@@ -88,9 +88,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Podeu especificar quins llocs web poden utilitzar galetes i dades dels llocs. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Bloca, Permet durant la sessió o Permet.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -98,9 +95,6 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a aquests llocs. Les excepcions no s'apliquen a les finestres privades.
 permissions-exceptions-https-only-desc2 = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura per a aquests llocs.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -176,12 +170,6 @@ permissions-site-camera-desc = Els llocs web següents han sol·licitat accés a
 permissions-site-camera-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la càmera
 permissions-site-camera-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la càmera. Blocar l'accés a la càmera podria fer que algunes funcions dels llocs web no funcionin correctament.
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

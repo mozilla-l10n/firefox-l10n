@@ -91,9 +91,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon totjorn o jamai utilizar los cookies e las donadas. Picatz l’adreça del site que volètz gerir e clicar Blocar, Autorizar pendent la session, o Autorizar.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -101,9 +98,6 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podètz desactivar lo mòde HTTPS solament per de sites especifics. { -brand-short-name } ensajarà pas de passar a una connexion HTTPS segura per aqueles sites. Las excepcions s’aplican pas a las fenèstras de navegacion privada.
 permissions-exceptions-https-only-desc2 = Podètz desactivar lo mòde HTTPS solament per de sites especifics. { -brand-short-name } ensajarà pas de passar a una connexion HTTPS segura per aqueles sites.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -179,12 +173,6 @@ permissions-site-camera-desc = Los sites seguents an demandat l’accès a vòst
 permissions-site-camera-disable-label =
     .label = Blocar las novèlas demandas d’accès a la camèra
 permissions-site-camera-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar l’accès a vòstra camèra. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

@@ -86,17 +86,11 @@ permissions-exceptions-cookie-window2 =
     .title = വിട്ടുവീഴ്ചകൾ - കുക്കികളും സൈറ്റ് ഡാറ്റയും
     .style = { permissions-window2.style }
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = വിട്ടുവീഴ്ചകൾ - HTTPS-മാത്രം പരി
     .style = { permissions-window2.style }
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -125,9 +119,6 @@ permissions-exceptions-addons-window2 =
     .title = അനുവദിച്ച വെബിടങ്ങൾ - ആഡ്-ഓൺ സ്ഥാപിക്കൽ
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സൈറ്റുകള്‍ ആഡ്‌-ഓണുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം എന്ന് താങ്കള്‍ക്ക്‌ നിഷ്കര്‍ഷിക്കാം. അനുവദിക്കെണ്ട സൈറ്റിന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്‌ത ശേഷം, അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -162,12 +153,6 @@ permissions-site-camera-window2 =
 permissions-site-camera-desc = താഴെപ്പറയുന്ന വെബിടങ്ങൾ താങ്ങളുടെ ക്യാമറ ഉപയോഗിക്കാൻ അഭ്യൎത്ഥിച്ചിട്ടുണ്ടു്. ഏതൊക്കെ വെബിടങ്ങൾക്കു് താങ്ങളുടെ ക്യാമറ ഉപയോഗിക്കാൻ അനുവാദമുണ്ടെന്നു് താങ്ങൾക്കു് വ്യക്തമാക്കാം. താങ്ങളുടെ ക്യാമറ ഉപയോഗിക്കാൻ ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യൎത്ഥനകൾ തടയാനും താങ്ങൾക്കു് പറ്റും.
 permissions-site-camera-disable-label =
     .label = നിങ്ങളുടെ ക്യാമറ പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

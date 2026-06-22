@@ -88,9 +88,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں کوکیاں تے سائٹ دا ڈیٹا استعمال کرݨ دی ہمیشہ یا کݙاہیں اجازت کائنی۔ جیڑھی سائٹ دا تساں انتظام کرݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول بلاک کرو، سیشن کیتے اجازت ݙیوو، یا اجازت ݙیوو تے کلک کرو۔
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -98,9 +95,6 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = تساں مخصوص ویب سائٹاں کیتے صرف HTTPS موڈ کوں بند کر سڳدے او۔ { -brand-short-name } انہاں سائٹاں کیتے HTTPS کوں محفوظ بݨاوݨ کیتے کنکشن کوں اپ گریڈ کرݨ دی کوشش نہ کریسے۔ مستثنیات نجی ونڈوز تے لاگو نہیں تھیندیاں۔
 permissions-exceptions-https-only-desc2 = تساں مخصوص ویب سائٹاں کیتے صرف HTTPS موڈ کوں بند کر سڳدے ہو۔ { -brand-short-name } انہاں سائٹاں کیتے HTTPS کوں محفوظ بݨاوݨ کیتے کنکشن کوں اپ گریڈ کرݨ دی کوشش نہ کریسے۔
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -176,12 +170,6 @@ permissions-site-camera-desc = ہیٹھ درج ویب سائٹاں تہاݙے ک
 permissions-site-camera-disable-label =
     .label = اپݨے کیمرے تک رسائی کیتے پچھݨ والیاں نویاں درخواستاں کوں روکو۔
 permissions-site-camera-disable-desc = ایہ کہیں وی ویب سائٹ کوں تہاݙے کیمرے تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھا اوتے درج کائنی۔ تہاݙے کیمرے تک رسائی کوں روکݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

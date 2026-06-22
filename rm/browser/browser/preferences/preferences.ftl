@@ -589,12 +589,6 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
-## About Firefox
-
-
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -677,9 +671,6 @@ browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
 browsing-group =
     .label = Navigaziun
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Parameters da la rait
@@ -734,9 +725,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
-
-## Home Section - Home Page Customization
-
 
 ## Custom Homepage subpage
 
@@ -1021,11 +1009,6 @@ sync-manage-account2 =
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -1290,9 +1273,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriuras infurmaziuns
 forms-windows-sso-desc = Administrar ils contos en ils parameters da tes apparat
 windows-passkey-settings-label = Administrar las clavs d’access (passkeys) en ils parameters dal sistem
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1954,28 +1934,13 @@ preferences-doh-manage-exceptions =
     .label = Administrar las excepziuns…
     .accesskey = A
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
 
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isolar cookies interpaginals
-
-## Warnings section
-

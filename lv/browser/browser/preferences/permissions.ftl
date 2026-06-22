@@ -88,9 +88,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un kurām nav atļauts izmantot sīkdatnes un kešatmiņu. Ierakstiet precīzu lapas adresi un klikšķiniet uz Bloķēt, Atļaut uz sesiju  vai Atļaut.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -98,9 +95,6 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS. Izņēmumi neattiecas uz privātajiem logiem.
 permissions-exceptions-https-only-desc2 = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -176,12 +170,6 @@ permissions-site-camera-desc = Šīs lapas ir lūgušas pieeju jūsu kamerai. J�
 permissions-site-camera-disable-label =
     .label = Bloķēt nākotnes lūgumus atļaut piekļuvi kamerai
 permissions-site-camera-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi kamerai. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
-
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
 
 ## Site Permissions - Microphone
 

@@ -84,18 +84,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puetz especificar los puestos web a qui se permite siempre u no se permite nunca usar cookies y datos d'o puesto.  Escribe l'adreza exacta d'o puesto que quiers chestionar y fe clic en Blocar, Permitir per esta sesión u Permitir.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Excepcions - Modo HTTPS nomás
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puetz desactivar lo modo "HTTPS nomás" en pachinas web especificas. { -brand-short-name } no mirará de cambiar a una connexión HTTPS segura en ixes puestos. Las excepcions no s'aplican en as finestras privadas.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -110,9 +104,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Excepcions - Inicios de sesión alzaus
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No s'alzarán los datos d'inicio en os siguients puestos web
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -168,12 +159,6 @@ permissions-site-camera-disable-label =
     .label = Blocar nuevas demandas d'acceso a la camara
 permissions-site-camera-disable-desc = Esto privará que garra puesto web no listau alto pueda demandar permiso pa acceder ta la tuya camara. Blocar l'acceso a la camara puede trencar bella caracteristica de bell puesto web.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -183,8 +168,3 @@ permissions-site-microphone-desc = Los siguients puestos web han demandau acceso
 permissions-site-microphone-disable-label =
     .label = Blocar nuevas demandas d'acceso a lo microfono
 permissions-site-microphone-disable-desc = Esto privará que garra puesto web no listau alto pueda demandar permiso d'acceso a lo tuyo microfono. Blocar l'acceso a lo microfono puede trencar bella caracteristica de bell puesto web.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

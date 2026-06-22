@@ -84,18 +84,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Կարող էք յատկորոշել, թե որ կայքերին է թոյլատրուում միշտ կամ երբեք աւգտագործել նշոցիկեր եւ կայքի տուեալները:  Մուտքագրէք կայքի յստակ հասցէ, որը ցանկանում էք կառավարել եւ սեղմէք Արգելափակել, Թոյլատրել աշխատաշրջանի համար կամ Թոյլատրել:
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Բացառութիւններ - HTTPS-Only Mode
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Կարող էք անջատել HTTPS-Only Mode-ը որոշ կայքերի համար։ { -brand-short-name } -ը չի փորձի թարմացնել HTTPS կապը այս կայքերի համար: Բացառութիւնները չեն ազդում գաղտնի պատուհանների վրայ:
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -110,9 +104,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Բացառութիւններ՝ պահուած մտից անուններում
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Հետեւեալ կայքերի համար մտից անունները չեն պահպանուի
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -168,12 +159,6 @@ permissions-site-camera-disable-label =
     .label = Արգելափակել ձեր խցիկը մատչելու նոր հարցումները
 permissions-site-camera-disable-desc = Սա կկանխի ցանկում չնշուած ցանկացած կայքի կողմից ձեր խցիկը մատչելու հարցումը: Խցիկը մատչելու արգելափակումը կարող է ընդհատել կայքերի որոշ յուրահատկութիւնները:
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -183,8 +168,3 @@ permissions-site-microphone-desc = Հետեւեալ կայքերը ձեր խոս
 permissions-site-microphone-disable-label =
     .label = Արգելափակել ձեր խոսափողը մատչելու նոր հարցումները
 permissions-site-microphone-disable-desc = Ցանկում չընդգրկուած կայքէջերը չեն կարող թոյլտուութիւն խնդրել Ձեր խաւսափողին հասանելիութիւն ունենալու համար: Այս արգելափակումը կարող է խափանել կայքի որոշ առանձնայատկութիւններ:
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

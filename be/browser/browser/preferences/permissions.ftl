@@ -91,9 +91,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім вэб-сайтам заўжды дазволена або забаронена выкарыстоўваць кукі і дадзеныя сайтаў.  Упішыце дакладны адрас сайта, якім вы хочаце распарадзіцца, і націсніце Блакаваць, Дазволіць на сеанс, або Дазволіць.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

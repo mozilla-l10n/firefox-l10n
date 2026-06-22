@@ -54,24 +54,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Innde Koɗol Naatnangol Moƴƴaani
 permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Paltooje - Kuukiije kam e Keɓe Lowre
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Aɗa waawi hollitde hol lowe geese jamiraaɗe daañaa huutoraade kuuke e keɓe lowre. Tappu ñiiɓirde lowre njiɗ-ɗaa toppitaade ndee, ndobo-ɗaa e Faddo, Yamir wonande rogere walla Yamir.
-
-## Exceptions - Clear on Shutdown
-
-
-## Exceptions - HTTPS-Only Mode
-
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -87,18 +75,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Baccooje e ɗeeɗoo lowe ndanndoytaake
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Lowe Jamiraaɗe - Aafgol ɓeyditte
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo aaf ɓeyditte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -120,9 +102,6 @@ permissions-site-location-disable-label =
     .label = Daaƴ ɗaɓɓitanɗe kese naamnotooɗe yettaade nokku maa
 permissions-site-location-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka dow ɗoo ɗaɓɓit-de yamiroore ngam heɓde nokkuure maa. Daaƴde keɓgol nokkuure maa ina waawi helde won e fannuuji lowre ndee.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -133,12 +112,6 @@ permissions-site-camera-disable-label =
     .label = Daaƴ ɗaɓɓitte kese naamnotooɗe heɓde kameraa maa
 permissions-site-camera-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka dow ɗoo ɗaɓɓit-de yamiroore ngam heɓde kamera maa. Daaƴde keɓgol kameraa maa ina waawi helde won e fannuuji lowre ndee.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -148,8 +121,3 @@ permissions-site-microphone-desc = Ɗee lowe ɗaɓɓitii yettaade mikoroo maa. A
 permissions-site-microphone-disable-label =
     .label = Daaƴ ɗaɓɓitte kese naamnotooɗe yettaade mikoroo maa
 permissions-site-microphone-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka dow ɗoo ɗaɓɓit-de yamiroore yettaade mikoroo maa. Daaƴde jettagol mikoroo maa ina waawi helde won e fannuuji lowre ndee.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -87,18 +87,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo pahihintulutang gumamit ng mga cookie at site data. I-type ang mismong address ng site na gusto mong i-manage at pindutin ang Harangin, Payagan para sa Session, o Payagan.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Mga Exception - HTTPS-Only Mode
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Maaari mong patayin ang HTTPS-Only Mode para sa mga tukoy na website. Hindi susubukang i-upgrade ng { -brand-short-name } ang koneksyon upang ma-secure ang HTTPS para sa mga site na iyon. Ang mga exception ay hindi nalalapat sa mga pribadong bintana.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -113,9 +107,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod na website ay hindi ise-save
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -171,12 +162,6 @@ permissions-site-camera-disable-label =
     .label = I-block ang mga bagong kahilingan na humihiling na ma-access ang iyong camera
 permissions-site-camera-disable-desc = Ito ang pipigil sa mga website na wala sa listahan upang humingi ng permiso na i-access ang iyong camera. Ang pagblock ng access sa iyong camera ay maaaring makasira sa ibang features ng website.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -186,8 +171,3 @@ permissions-site-microphone-desc = Ang mga sumusunod na website ay humihingi ng 
 permissions-site-microphone-disable-label =
     .label = I-block ang mga humihingi ng pahintulot na i-access ang iyong microphone
 permissions-site-microphone-disable-desc = Pipigilan nito ang kahit na anong website na hindi kasama sa listahan sa paghingi ng permiso upang i-access ang iyong microphone. Ang pagblock ng access sa iyong microphone ay maaaring makasira sa ibang features ng website.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

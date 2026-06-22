@@ -84,18 +84,12 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ye can set oot whit wabsites are ayeweys or nivver allooed tae yaise cookies and site data.  Type the exact address o the site ye want tae manage and then click Block, Alloo fur Session, or Alloo.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Exceptions - HTTPS-Anely Mode
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Ye can turn aff HTTPS-Anely Mode fur specific wabsites. { -brand-short-name } willnae ettle tae upgrade the connection tae siccar HTTPS fur thae sites. Exceptions dinnae apply tae private windaes.
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
 
 ## Exceptions - Pop-ups
 
@@ -110,9 +104,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Exceptions - Saved Logins
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins fur the follaein wabsites willnae be saved
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -168,12 +159,6 @@ permissions-site-camera-disable-label =
     .label = Block new speirins fur tae hae ingang tae yer camera
 permissions-site-camera-disable-desc = This will stap onie wabsites no listit abuin fae speirin efter permeesion tae hae ingang tae yer camera. Blockin ingang tae yer camera micht brek some wabsite featurs.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -183,8 +168,3 @@ permissions-site-microphone-desc = The follaein wabsites hae speirt fur tae hae 
 permissions-site-microphone-disable-label =
     .label = Block new speirins fur tae hae ingang tae yer microphone
 permissions-site-microphone-disable-desc = This will stap onie wabsites no listit abuin fae speirin efter permeesion tae hae ingang tae yer microphone. Blockin ingang tae yer microphone micht brek some wabsite featurs.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

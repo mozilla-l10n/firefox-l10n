@@ -338,15 +338,6 @@ update-in-progress-ok-button = &Отфрли
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продолжи
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Перформанси
@@ -389,9 +380,6 @@ browsing-cfr-recommendations-learn-more = Дознајте повеќе
 browsing-group =
     .label = Прелистување
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Мрежни поставки
@@ -403,9 +391,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Нови прозорци и јазичиња
-
-## Home Section - Default Browser
-
 
 ## Custom Homepage subpage
 
@@ -431,12 +416,6 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележувач...
     .accesskey = б
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -527,13 +506,6 @@ containers-settings-button =
 containers-remove-button =
     .label = Избриши
 
-## Account and sync
-
-
-## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
 ## Firefox account - Signed in
 
 sync-profile-picture =
@@ -547,11 +519,6 @@ sync-profile-picture-with-alt =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не е потврдена.
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -622,9 +589,6 @@ sync-verification-not-sent-body = Не сме во можност да испр�
 
 privacy-header = Приватност на прелистувачот
 
-## Privacy Section - Logins and Passwords
-
-
 ## Privacy Panel Settings
 
 forms-exceptions =
@@ -642,15 +606,9 @@ forms-master-pw-change =
     .accesskey = г
 forms-master-pw-fips-desc = Промената на лозинката не успеа
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -694,12 +652,6 @@ sitedata-option-block-unvisited =
 cookies-site-data-group =
     .label = Колачиња и податоци за мрежно место
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
@@ -712,10 +664,6 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Дознајте повеќе
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
 
 ##
 
@@ -738,9 +686,6 @@ content-blocking-cookies-label =
     .accesskey = К
 content-blocking-expand-section =
     .tooltiptext = Повеќе информации
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -793,9 +738,6 @@ addon-recommendations-link = Дознајте повеќе
 data-collection-studies-link =
     .label = Погледнете ги студиите на { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -819,31 +761,13 @@ certs-devices-enable-fips = Овозможи FIPS
 
 httpsonly-learn-more = Дознајте повеќе
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Работна површина
 downloads-folder-name = Преземања
 choose-download-folder-title = Изберете папка за преземања:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header3 =
     .heading = Контроли за ВИ
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

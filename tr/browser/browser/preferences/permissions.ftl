@@ -91,9 +91,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site verilerini her zaman kullanabileceğini veya hiç kullanmayacağını belirleyebilirsiniz.  Yönetmek istediğiniz sitenin tam adresini yazıp “Engelle”, “Oturum boyunca izin ver” veya “İzin ver”e tıklayın.
 
-## Exceptions - Clear on Shutdown
-
-
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

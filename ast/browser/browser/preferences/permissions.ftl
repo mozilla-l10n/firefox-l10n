@@ -74,15 +74,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempres o enxamás van tener permisu pa usar cookies y datos de los sitios. Teclexa la direición exauta del sitiu que quies xestionar y dempués calca «Bloquiar», «Permitir na sesión» o «Permitir»
 
-## Exceptions - Clear on Shutdown
-
-
-## Exceptions - HTTPS-Only Mode
-
-
-## Exceptions - Pop-ups And Third-Party Redirects
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -96,9 +87,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Esceiciones - Anicios de sesión guardaos
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesión de los sitios web de darréu
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -154,12 +142,6 @@ permissions-site-camera-disable-label =
     .label = Bloquiar les solicitúes nueves p'acceder a la cámara
 permissions-site-camera-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder a la cámara. Bloquiar l'accesu a la cámara pue estropiar les carauterístiques de dalgunos sitios web.
 
-## Site Permissions - Loopback network
-
-
-## Site Permissions - Local network
-
-
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -169,8 +151,3 @@ permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'acces
 permissions-site-microphone-disable-label =
     .label = Bloquiar les solicitúes nueves p'acceder al micrófonu
 permissions-site-microphone-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder al micrófonu. Bloquiar l'accesu al micrófonu pue estropiar les carauterístiques de dalgunos sitios web.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-
