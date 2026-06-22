@@ -324,6 +324,9 @@ about-debugging-multiprocess-toolbox-name = ᱟᱭᱢᱟᱠᱟᱹᱢᱤᱦᱚᱨ
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = ᱢᱩᱞ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱞᱚᱠᱷᱭᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = ᱠᱷᱚᱵᱚᱨ ᱵᱚᱸᱫ ᱢᱮ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ᱠᱷᱚᱵᱚᱨ ᱵᱚᱸᱫ ᱢᱮ
 # Label text used for the error details of message component.
