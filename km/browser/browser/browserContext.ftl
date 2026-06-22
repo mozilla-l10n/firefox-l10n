@@ -318,3 +318,9 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = ថ្មី
+main-context-menu-pdfjs-copy-page =
+    .label = ចម្លងទំព័រ
+main-context-menu-pdfjs-cut-page =
+    .label = កាត់ទំព័រ
+main-context-menu-pdfjs-delete-page =
+    .label = លុបទំព័រ

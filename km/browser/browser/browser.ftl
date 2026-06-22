@@ -2,6 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — ការរុករកឯកជន
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — ការរុករកឯកជន
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
