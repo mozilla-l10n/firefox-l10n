@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Pašalinti visas svetaines
     .accesskey = v
+permissions-save-changes-2 =
+    .buttonlabelaccept = Įrašyti pakeitimus
+    .buttonaccesskeyaccept = r
 permission-dialog =
     .buttonlabelaccept = Įrašyti pakeitimus
     .buttonaccesskeyaccept = r
@@ -85,12 +88,18 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Galite nurodyti kurioms svetainėms visada, arba niekada, leidžiate naudoti slapukus bei svetainių duomenis.  Įveskite tikslų adresą svetainės, kuriai norite atlikti pakeitimus, ir tada spustelėkite „Neleisti“, „Leisti vienam seansui“, arba „Leisti“.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Išimtys – tik HTTPS veiksena
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Galite išjungti tik HTTPS veikseną tam tikroms svetainėms. „{ -brand-short-name }“ šioms svetainėms nebandys apsaugoti ryšio su HTTPS. Išimtys negalioja privačiojo naršymo languose.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -105,6 +114,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Išimtys – įrašyti prisijungimai
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prisijungimai prie šių svetainių nebus įrašomi
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -160,6 +172,12 @@ permissions-site-camera-disable-label =
     .label = Blokuoti naujus kameros naudojimo prašymus
 permissions-site-camera-disable-desc = Tai neleis svetainėms, neišvardintoms aukščiau, prašyti leidimo naudoti jūsų kamerą. Kameros naudojimo blokavimas gali sutrikdyti svetainių funkcionalumą.
 
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -169,3 +187,8 @@ permissions-site-microphone-desc = Šios svetainės prašo leidimo naudoti jūs�
 permissions-site-microphone-disable-label =
     .label = Blokuoti naujus mikrofono naudojimo prašymus
 permissions-site-microphone-disable-desc = Tai neleis svetainėms, neišvardintoms aukščiau, prašyti leidimo naudoti jūsų mikrofoną. Mikrofono naudojimo blokavimas gali sutrikdyti svetainių funkcionalumą.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
