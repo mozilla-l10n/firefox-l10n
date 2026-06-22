@@ -295,6 +295,9 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
     .label = Servisiô Push
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Nar'a riña mensâje
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Nar'a riña mensâje
 # Label text used for the error details of message component.
