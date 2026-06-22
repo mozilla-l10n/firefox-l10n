@@ -125,6 +125,9 @@ about-debugging-worker-scope =
 about-debugging-worker-origin =
     .label = പിറവി
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = സന്ദേശം അടയ്ക്കുക
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = സന്ദേശം അടയ്ക്കുക
 # Label text used for the error details of message component.
