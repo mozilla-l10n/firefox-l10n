@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Vista breytingar
+    .buttonaccesskeyaccept = V
 permission-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = V
@@ -84,6 +87,9 @@ permissions-exceptions-cookie-window2 =
     .title = Undantekningar - Vefkökur og gögn vefsvæðis
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma vefkökur og gögn.  Settu inn nákvæma slóð fyrir það vefsvæði sem þú vilt sýsla með og smelltu svo á að loka, leyfa fyrir lotu eða leyfa.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -173,6 +179,12 @@ permissions-site-camera-desc = Eftirfarandi vefsvæði hafa beðið um að fá a
 permissions-site-camera-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að myndavél
 permissions-site-camera-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um aðgang að myndavél. Ef það er lokað á myndavél gæti það haft áhrif á suma eiginleika vefsvæðis.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 
