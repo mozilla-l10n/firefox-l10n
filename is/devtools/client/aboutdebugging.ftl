@@ -260,6 +260,9 @@ about-debugging-worker-scope =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Flipi er ekki fullhlaðinn og ekki hægt að skoða hann
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Loka skilaboðum
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Loka skilaboðum
 # Label text used for the error details of message component.
