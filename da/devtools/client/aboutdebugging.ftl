@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Multiproces-værktøj
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Hovedproces og indholdsprocesser for mål-browseren
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Luk besked
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Luk besked
 # Label text used for the error details of message component.
