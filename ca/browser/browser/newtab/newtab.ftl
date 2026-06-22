@@ -28,8 +28,8 @@ newtab-personalize-dialog-label =
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Ignora
-    .aria-label = Ignora
+    .title = Tanca
+    .aria-label = Tanca
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -867,6 +867,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completats ({ $number })
+newtab-widget-lists-celebration-headline = Molt bé
+newtab-widget-lists-celebration-subhead = Tot al dia
 newtab-widget-task-list-menu-copy = Copia
 newtab-widget-lists-menu-edit = Edita el nom de la llista
 newtab-widget-lists-menu-edit2 =
@@ -893,6 +895,8 @@ newtab-widget-lists-dropdown-create =
     .label = + Crea una llista nova
 newtab-widget-lists-name-label-default =
     .label = Llista de tasques
+newtab-widget-lists-name-label-checklist =
+    .label = Llista de comprovació
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Llista de tasques
 newtab-widget-lists-name-placeholder-checklist2 =
@@ -904,6 +908,7 @@ newtab-widget-lists-name-placeholder-new2 =
     .aria-label = Edita el nom de la llista
 newtab-widget-section-title = Ginys
 newtab-widget-menu-hide = Amaga el giny
+newtab-widget-menu-change-size = Canvia la mida
 # Parent label for a submenu in the widget menu that reorders the widget
 # among its siblings. "Left" and "Right" appear as items inside this submenu.
 newtab-widget-menu-move = Mou
@@ -913,6 +918,9 @@ newtab-widget-menu-move-left = Esquerra
 # Submenu item under "Move"; moves the widget one position to the right.
 # RTL locales should translate this as "Left".
 newtab-widget-menu-move-right = Dreta
+newtab-widget-size-small = Petita
+newtab-widget-size-medium = Mitjana
+newtab-widget-size-large = Grossa
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Amaga els ginys
@@ -932,6 +940,7 @@ newtab-widget-add-widgets-button =
 newtab-widget-section-menu-manage = Gestioneu els ginys
 newtab-widget-section-menu-hide-all = Amaga els ginys
 newtab-widget-section-menu-learn-more = Més informació
+newtab-widget-section-feedback = Digueu-nos què penseu
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
@@ -961,6 +970,12 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Desactiva les notificacions
 newtab-widget-timer-menu-notifications-on = Activa les notificacions
 newtab-widget-timer-menu-learn-more = Més informació
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Titulars principals
+newtab-daily-briefing-card-menu-dismiss = Tanca
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = S'ha actualitzat fa { $minutes } min
 newtab-widget-message-title = Mantingueu la concentració amb les llistes i amb un temporitzador integrat
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Des de recordatoris ràpids fins a tasques diàries pendents, sessions de concentració o pauses d'estirament: manteniu la productivitat i la puntualitat.
@@ -970,3 +985,12 @@ newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
     .title = Ignora
     .aria-label = Ignora
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Tanca
+    .aria-label = Tanca
