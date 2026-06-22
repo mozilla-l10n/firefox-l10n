@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Ukloni sve web stranice
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Spasi promjene
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Spasi promjene
     .buttonaccesskeyaccept = S
@@ -85,6 +88,9 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Možete navesti kojim web stranica je uvijek ili nikad nije dozvoljeno koristiti kolačiće i podatke stranice. Unesite tačnu adresu stranice koju želite urediti i kliknite Blokiraj, Dozvoli za sesiju, ili Dozvoli.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -92,6 +98,9 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Možete isključiti način rada samo za HTTPS za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu za siguran HTTPS za te web stranice. Izuzeci se ne odnose na privatne prozore.
 permissions-exceptions-https-only-desc2 = Možete isključiti način rada samo za HTTPS za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu za siguran HTTPS za te web stranice.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -167,6 +176,12 @@ permissions-site-camera-desc = Sljedeće stranice su zahtijevale pristup vašoj 
 permissions-site-camera-disable-label =
     .label = Blokiraj nove zahtjeve u kojima se traži dozvola za pristup vašoj kameri
 permissions-site-camera-disable-desc = Ovo će onemogućiti bilo koju stranicu koja nije prikazana iznad od slanja zahtijeva za dozvolu za pristup vašoj kameri. Blokiranje pristupa vašoj kameri može onemogućiti neke mogućnosti web stranice.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 
