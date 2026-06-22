@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Спросить у { $provider }
 genai-menu-new-badge = Новый
 genai-menu-summarize-page = Резюме по странице
+genai-input-ask-smart-window =
+    .placeholder = Спросить…
 genai-input-ask-generic =
     .placeholder = Спросить у ИИ-чат-бота…
 # $provider (string) - name of the provider
@@ -108,6 +110,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Спросить ИИ-чат-бота
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = Спросить…
+    .accesskey = z
 
 ## Chatbot header
 

@@ -971,6 +971,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Отключить уведомления
 newtab-widget-timer-menu-notifications-on = Включить уведомления
 newtab-widget-timer-menu-learn-more = Подробнее
+newtab-widget-timer-menu-button =
+    .aria-label = Настройки таймера
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Самые популярные новости
 newtab-daily-briefing-card-menu-dismiss = Скрыть
