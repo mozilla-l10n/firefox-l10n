@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = See sait taotleb juurdepääsu sinu MIDI-seadmetele (Musical Instrument Digital Interface). Juurdepääsu seadmetele saab lubada lisa paigaldamise teel.
 site-permission-install-first-prompt-midi-message = Selle juurdepääsu ohutust ei garanteerita. Jätka ainult siis, kui usaldad seda saiti.
+site-permission-install-first-prompt-serial-header = See sait taotleb juurdepääsu sinu jadapordiga seadmetele. Juurdepääsu seadmetele saab lubada lisa paigaldamise teel.
+site-permission-install-first-prompt-serial-message = Selle juurdepääsu ohutust ei garanteerita. Jätka ainult siis, kui usaldad seda saiti.
 
 ##
 
@@ -81,6 +83,8 @@ addon-removal-title = Kas eemaldada lisa { $name }?
 addon-removal-message = Kas soovid laienduse { $name } { -brand-shorter-name }ist eemaldada?
 addon-removal-button = Eemalda
 addon-removal-abuse-report-checkbox = Teavita { -vendor-short-name }t sellest lisast
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Kui kasutad funktsionaalsust või laiendusi, mis kasutavad seda mudelit, lisatakse see uuesti.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -123,15 +127,18 @@ addon-install-error-corrupt-file = Sellelt saidilt allalaaditud lisa polnud või
 addon-install-error-file-access = Lisa { $addonName } polnud võimalik paigaldada, kuna { -brand-short-name } ei saanud muuta vajalikku faili.
 addon-install-error-not-signed = { -brand-short-name } ei lubanud sellel saidil verifitseerimata lisa paigaldada.
 addon-install-error-invalid-domain = Sellest asukohast pole võimalik laiendust { $addonName } paigaldada.
+addon-install-error-no-addon-name-file-access = Lisa polnud võimalik paigaldada, kuna { -brand-short-name } ei saanud muuta vajalikku faili.
 addon-local-install-error-network-failure = Seda lisa polnud võimalik paigaldada, kuna esines viga failisüsteemis.
 addon-local-install-error-incorrect-hash = Seda lisa polnud võimalik paigaldada, kuna see ei sobinud lisaga, mida { -brand-short-name } ootas.
 addon-local-install-error-corrupt-file = Seda lisa polnud võimalik paigaldada, kuna see on vigane.
 addon-local-install-error-file-access = Lisa { $addonName } polnud võimalik paigaldada, kuna { -brand-short-name } ei saanud muuta vajalikku faili.
 addon-local-install-error-not-signed = Seda lisa polnud võimalik paigaldada, kuna see pole verifitseeritud.
+addon-local-install-no-addon-name-error-file-access = Lisa polnud võimalik paigaldada, kuna { -brand-short-name } ei saanud muuta vajalikku faili.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Lisa { $addonName } polnud võimalik paigaldada, kuna see ei ühildu { -brand-short-name }i versiooniga { $appVersion }.
 addon-install-error-hard-blocked = Lisa { $addonName } rikub Mozilla eeskirju ja seda pole võimalik { -brand-short-name }i paigaldada.
+addon-install-error-soft-blocked2 = Lisa { $addonName } on keelatud ja seda pole võimalik { -brand-short-name }i paigaldada.
 addon-install-error-blocklisted = Lisa { $addonName } polnud võimalik paigaldada, kuna see võib põhjustada tõsiseid stabiilsuse või turvalisuse probleeme.
 addon-install-error-soft-blocked = Lisa { $addonName } rikub Mozilla eeskirju ja seda pole võimalik { -brand-short-name }i paigaldada.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
