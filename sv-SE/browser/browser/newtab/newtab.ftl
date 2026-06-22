@@ -972,6 +972,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Stäng av aviseringar
 newtab-widget-timer-menu-notifications-on = Slå på aviseringar
 newtab-widget-timer-menu-learn-more = Läs mer
+newtab-widget-timer-menu-button =
+    .aria-label = Alternativ för timer
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topprubriker
 newtab-daily-briefing-card-menu-dismiss = Ignorera
