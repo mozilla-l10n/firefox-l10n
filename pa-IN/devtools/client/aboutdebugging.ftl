@@ -309,6 +309,9 @@ about-debugging-zombie-tab-inspect-action-disabled =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = ਮਲਟੀ-ਪ੍ਰੋਸੈਸ ਟੂਬਬਾਕਸ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ
 # Label text used for the error details of message component.
