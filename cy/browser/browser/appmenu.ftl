@@ -18,6 +18,7 @@ appmenuitem-banner-update-restart =
 # Fresh Firefox refers to the new updated UI
 appmenu-nova-update-promo =
     .message = Cael { -brand-short-name } newydd. Cadwch eich tabiau i gyd.
+appmenu-nova-update-link = Ailgychwyn i ddiweddaru
 appmenu-nova-fxa-sign-in = Mewngofnodi
 appmenu-nova-switch-device-promo =
     .message = Yn cael dyfais newydd cyn bo hir? Ewch â { -brand-short-name } gyda chi!
