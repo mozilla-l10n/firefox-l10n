@@ -34,6 +34,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Wyciep wszyskie strōny
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Spamiyntej zmiany
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Spamiyntej zmiany
     .buttonaccesskeyaccept = S
@@ -81,12 +84,18 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm używać cookies i danych strōn. Wkludź akuratno adresa strōny, na keryj chcesz tym regiyrować, a potym kliknij: Szperuj, Przizwōl na ta sesyjo abo Przizwōl.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Wyjōntki - tryb HTTPS-Only
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Możesz wyłōnczyć tryb Ino-HTTPS do niykerych strōn. { -brand-short-name } niy bydzie prōbowoł zmiynić połōnczynio ś nimi na bezpieczne HTTPS. Wyjōntki niy tykajōm sie prywatnych ôkiyn.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -101,6 +110,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Spamiyntane dane logowanio - wyjōntki
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Dane logowanio do tych strōn niy bydōm spamiyntowane
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -156,6 +168,12 @@ permissions-site-camera-disable-label =
     .label = Szperuj nowe prośby ô zgoda na dostymp do twojij kamery
 permissions-site-camera-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojij kamery. Przi zaszperowanym dostympie do kamery niykere funkcyje strōn mogōm niy fungować dobrze.
 
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -165,3 +183,8 @@ permissions-site-microphone-desc = Te strōny poprosiyły ô zgoda na dostymp do
 permissions-site-microphone-disable-label =
     .label = Szperuj nowe prośby ô zgoda na dostymp do twojigo mikrofōnu
 permissions-site-microphone-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojigo mikrofōnu. Przi zaszperowanym dostympie do mikrofōnu niykere funkcyje strōn mogōm niy fungować dobrze.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
