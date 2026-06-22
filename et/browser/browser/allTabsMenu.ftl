@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Uus konteinerkaart
 all-tabs-menu-hidden-tabs =
     .label = Peidetud kaardid
+all-tabs-menu-close-duplicate-tabs =
+    .label = Sulge dubleerivad kaardid
+all-tabs-menu-view-all-tabs =
+    .label = Kuva kõiki kaarte
 all-tabs-menu-manage-user-context =
     .label = Halda konteinereid
     .accesskey = H
@@ -26,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Kaardigrupid
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Otsi kõikide kaartide hulgast
