@@ -130,6 +130,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Ava link uuel kaardil
     .accesskey = k
+main-context-menu-open-link-split-view =
+    .label = Ava link jagatud vaates
+    .accesskey = j
 main-context-menu-open-link-container-tab =
     .label = Ava link uuel konteinerkaardil
     .accesskey = t
@@ -160,6 +163,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopeeri link
     .accesskey = K
+main-context-menu-preview-link =
+    .label = Ava lingi eelvaade
+    .accesskey = e
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
@@ -267,6 +273,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Vaata kirjeldust
     .accesskey = k
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Otsi pilti otsingumootoriga { $engine }
+    .accesskey = i
 main-context-menu-video-save-as =
     .label = Salvesta video kui…
     .accesskey = v
@@ -282,6 +293,21 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Saada audio e-postiga…
     .accesskey = u
+main-context-menu-send-to-device-2 =
+    .label = Edasta seadmele
+    .accesskey = d
+main-context-menu-send-to-mobile-2 =
+    .label = Edasta mobiilile
+    .accesskey = b
+main-context-menu-send-to-mobile-sign-in = Kaartide edastamiseks logi sisse
+main-context-menu-send-to-mobile-enable-sync2 = Kaartide saatmiseks luba sünkroniseerimine
+main-context-menu-send-to-mobile-connect-phone2 = Ühenda oma telefon
+main-context-menu-send-to-mobile-device-missing2 = Ei näe oma seadet?
+main-context-menu-send-to-mobile-sign-in-from-link = Lingi edastamiseks logi sisse
+main-context-menu-send-to-mobile-sign-in-from-page = Lehe edastamiseks logi sisse
+main-context-menu-send-to-mobile-enable-sync3 = Kaartide edastamiseks lülita Sync sisse
+main-context-menu-send-to-mobile-enable-sync-from-link = Lingi edastamiseks lülita Sync sisse
+main-context-menu-send-to-mobile-enable-sync-from-page = Lehe edastamiseks lülita Sync sisse
 main-context-menu-save-to-pocket =
     .label = Salvesta leht { -pocket-brand-name }isse
     .accesskey = k
