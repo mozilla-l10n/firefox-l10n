@@ -108,6 +108,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Pregunta a un chatbot de IA
     .accesskey = z
+genai-menu-ask-smart-window =
+    .label = Preguntar…
+    .accesskey = Z
 
 ## Chatbot header
 

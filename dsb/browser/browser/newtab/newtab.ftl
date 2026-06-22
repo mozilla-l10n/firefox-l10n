@@ -978,6 +978,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Zdźělenja znjemóžniś
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžniś
 newtab-widget-timer-menu-learn-more = Dalšne informacije
+newtab-widget-timer-menu-button =
+    .aria-label = Casowe nastajenja
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Wažne głowne nadpisma
 newtab-daily-briefing-card-menu-dismiss = Zachyśiś
