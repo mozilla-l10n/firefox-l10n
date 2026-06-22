@@ -28,6 +28,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Guyun daran sitio web
     .accesskey = G
+permissions-save-changes-2 =
+    .buttonlabelaccept = Na’nïnj sà’ sa nadunat
+    .buttonaccesskeyaccept = s
 permission-dialog =
     .buttonlabelaccept = Na’nïnj sà’ sa nadunat
     .buttonaccesskeyaccept = s
@@ -71,6 +74,15 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ga'ue gatajt ahuin sitio web ga'ue garasun yitïnj kookies ni si dato sitio na. Gachun si direksion sitio ruhuat gini'iaj ni ga'uit 'ngo klik riñ taj garun'. Ga'nïn riña sesión na àsi ma ga'nïn.
 
+## Exceptions - Clear on Shutdown
+
+
+## Exceptions - HTTPS-Only Mode
+
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -84,6 +96,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Exsepsion - Nej sesión na'nîn so'
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nej sesión gayi'i ñuna nī nitaj si nu sa'aj guenda a'ngò nej sitio web
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -119,6 +134,9 @@ permissions-site-location-disable-label =
     .label = Garun' riña nej solisitû achín ni'iaj gatu riña aché nut
 permissions-site-location-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si taj si yugui nī da'ui gachinj ni'ià da' gatu riña achré nunt. Nga rajsunt na nī ga'ue si hua 'ngo sa si ga'ue gi'iaj sun hue'é riña sitio na.
 
+## Site Permissions - Virtual Reality
+
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -129,6 +147,12 @@ permissions-site-camera-disable-label =
     .label = Garun' riña nej sa achín ni'iaj gatu riña si kamarat
 permissions-site-camera-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si taj si yugui nī da'ui gachinj ni'ià da' gatu riña si kamarat. 'Ngà garánt riña si kamarat ni hua da'aj sitio nī si gi'iaj sun hue'ej.
 
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -138,3 +162,8 @@ permissions-site-microphone-desc = Nej sitio na achín ni'iaj da' gatu ma riña 
 permissions-site-microphone-disable-label =
     .label = Garun' riña nej sa achín ni'iaj gatu riña si microfonot
 permissions-site-microphone-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si tāj si yugui nī da'ui gachinj ni'ià da' gatu riña si mikrofonot. 'Ngà garánt riña si mikrofonot nī hua da'aj sitio nī si gi'iaj sun hue'ej.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
