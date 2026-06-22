@@ -61,6 +61,7 @@ neterror-dns-not-found-hint-try-again = 나중에 다시 시도하세요
 neterror-dns-not-found-hint-check-network = 네트워크 연결을 확인해 보세요
 neterror-dns-not-found-hint-firewall = { -brand-short-name }에 웹 액세스 권한이 있는지 확인하세요 (연결되어 있지만 방화벽 뒤에 있을 수 있음)
 neterror-dns-not-found-hint-check-network-2 = 네트워크 연결을 확인해 보세요.
+neterror-dns-not-found-hint-firewall-2 = { -brand-short-name }에 웹 액세스 권한이 있는지 확인하세요 (연결되어 있지만 방화벽 뒤에 있을 수 있음).
 neterror-dns-not-found-offline-hint-header = <strong>이렇게 해보세요:</strong>
 neterror-dns-not-found-offline-hint-different-device = 다른 기기에서 연결을 시도하세요.
 neterror-dns-not-found-offline-hint-modem = 모뎀이나 공유기를 확인해 보세요.
