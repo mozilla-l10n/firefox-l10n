@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Барлық вебсайттарды өшіру
     .accesskey = р
+permissions-save-changes-2 =
+    .buttonlabelaccept = Өзгерістерді сақтау
+    .buttonaccesskeyaccept = с
 permission-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Ережелерден тыс - Cookies файлдары және сайт деректері
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Қай веб-сайттарға cookies файлдарын және сайт деректерін сақтауға әрқашан немесе ешқашан рұқсат етілмегенін көрсете аласыз. Басқару үшін сайттың нақты адресін енгізіп, Бұғаттау, Тек осы сессияға рұқсат беру немесе Рұқсат етуді таңдаңыз.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
