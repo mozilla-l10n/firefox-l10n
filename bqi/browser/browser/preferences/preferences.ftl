@@ -58,10 +58,6 @@ pane-ai-controls-title2 = کونتورولا هۊش مسنۊعی
     .title = کونتورولا هۊش مسنۊعی
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = آزمایشا { -brand-short-name }
@@ -204,6 +200,10 @@ browser-containers-settings =
     .accesskey = i
 startup-group =
     .label = ره وندن
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -472,6 +472,12 @@ update-in-progress-ok-button = &دیر وندن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &رئڌن وا پؽش
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-get-help =
@@ -500,6 +506,9 @@ browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
     .label = گشتن
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -819,6 +828,13 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
@@ -849,6 +865,9 @@ forms-primary-pw-learn-more-link = قلوه دووسته بۊین
 forms-master-pw-fips-desc = آلشت رزم شکست خرد
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
 forms-windows-sso-desc = هساوا ن من سامووا دسگا خوتووݩ دؽوۉداری کۊنین
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -957,6 +976,9 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1141,6 +1163,9 @@ collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز
 addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1199,9 +1224,15 @@ preferences-doh-manage-exceptions =
     .label = دؽوۉداری استسنایل…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 downloads-folder-name = دانلودا
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -1219,8 +1250,6 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = لقو
 preferences-ai-controls-block-confirmation-confirm =
     .label = مسدۊد کردن
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
 preferences-ai-controls-header3 =
     .heading = کونتورولا هۊش مسنۊعی
 
@@ -1269,3 +1298,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = جا کلکا مشکۊک
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = جا کلکا مشکۊک
+
+## Warnings section
+
