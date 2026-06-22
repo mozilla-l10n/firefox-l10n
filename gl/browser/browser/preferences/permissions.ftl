@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Retirar todos os sitios web
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Gardar cambios
+    .buttonaccesskeyaccept = b
 permission-dialog =
     .buttonlabelaccept = Gardar cambios
     .buttonaccesskeyaccept = b
@@ -85,6 +88,9 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Pode especificar que sitios web teñen permiso ou non para usar cookies e datos do sitio. Escriba o enderezo exacto do sitio que quere xestionar e prema Bloquear, Permitir nesta sesión ou Permitir.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -92,6 +98,9 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Pode desactivar o modo só HTTPS para sitios web específicos. { -brand-short-name } non intentará anovar a conexión a HTTPS seguros para eses sitios. As excepcións non se aplican ás xanelas privadas.
 permissions-exceptions-https-only-desc2 = Podes desactivar o modo só HTTPS para sitios web específicos. { -brand-short-name } non tentará actualizar a conexión a HTTPS seguro neses sitios.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -173,6 +182,9 @@ permissions-site-camera-disable-desc = Isto evitará que os sitios web non lista
 permissions-site-localhost-window =
     .title = Configuración: aplicacións e servizos do dispositivo
     .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 
