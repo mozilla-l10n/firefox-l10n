@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Kkes akk ismal web
     .accesskey = w
+permissions-save-changes-2 =
+    .buttonlabelaccept = Sekles asnifel
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Sekles asnifel
     .buttonaccesskeyaccept = S
@@ -84,6 +87,9 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tzemreḍ ad temmleḍ ismal web yettwasirgen dima neɣ urǧin ttwasirgen ad sqedcen isefka n yismal. Sekcem tansa n usmel sakin sit ɣef Sewḥel, Sireg i tɣimit, neɣ Sireg.
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
@@ -91,6 +97,9 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Tzemreḍ ad tsenseḍ askar HTTPS kan i yismal web isdiden. { -brand-short-name } ur yettaεraḍ ara ad ileqqem tuqqna ɣer HTTPS aɣellsan i yismal-a. Tisuraf ur ttusnasent ara i yisfuyla usligen.
 permissions-exceptions-https-only-desc2 = Tzemreḍ ad tsenseḍ askar HTTPS kan i yismal web isdiden. { -brand-short-name } ur yettaεraḍ ara ad ileqqem tuqqna ɣer HTTPS aɣellsan i yismal-a.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -166,6 +175,12 @@ permissions-site-camera-desc = Ismal-agi web sutren anekcum γer tkamiṛat-inek
 permissions-site-camera-disable-label =
     .label = Sewḥel isuturen imaynuten n unekcum ɣer tkamiṛat
 permissions-site-camera-disable-desc = Aya ad isewḥel asuter n tsirag n unekcum γer tkamiṛat inek i yusmal ur nelli deg tebdart. asewḥel n unekcum γer tkamiṛat izmer ad iṛeẓ timahaltin n usmel.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 
