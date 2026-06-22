@@ -37,6 +37,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Lemel kuit an holl lec'hiennoù
     .accesskey = h
+permissions-save-changes-2 =
+    .buttonlabelaccept = Enrollañ ar c'hemmoù
+    .buttonaccesskeyaccept = E
 permission-dialog =
     .buttonlabelaccept = Enrollañ ar c'hemmoù
     .buttonaccesskeyaccept = E
@@ -84,12 +87,18 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Gallout a ri despizañ pe lec'hiennoù a vo aotreet pe difennet da arverañ toupinoù ha roadennoù lec'hienn. Biziatait chomlec'h al lec'hienn a fell deoc'h merañ ha klikit war "Stankañ", "Aotren evit an estez" pe "Aotren".
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Nemedennoù - Mod HTTPS hepken
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Gallout a rit diweredekaat ar mod HTTPS-hepken evit lec’hiennoù dibabet. { -brand-short-name } na glasko ket da wellaat ar c’hennask d'unan HTTPS diogel evit al lec’hiennoù-se. N’eo ket arloet an nemedennoù evit ar prenestroù prevez.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -165,6 +174,12 @@ permissions-site-camera-desc = Goulennet eo bet gant al lec'hiennoù da-heul hae
 permissions-site-camera-disable-label =
     .label = Stankañ ar goulennoù haeziñ ho kamera nevez
 permissions-site-camera-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haezi ho kamera. Kement-se a c'hall terriñ keweriusterioù ’zo el lec'hiennoù.
+
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
 
 ## Site Permissions - Microphone
 
