@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Spremi promjene
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Spremi promjene
     .buttonaccesskeyaccept = S
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Iznimke – kolačići i podaci webestranice
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Možeš odrediti web-stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web-stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
