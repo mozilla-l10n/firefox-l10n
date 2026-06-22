@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Uložit změny
+    .buttonaccesskeyaccept = U
 permission-dialog =
     .buttonlabelaccept = Uložit změny
     .buttonaccesskeyaccept = U
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Výjimky pro používání cookies a dat stránek
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Zde můžete určit, které servery mohou nebo nesmí používat cookies a data stránek. Zadejte přesnou adresu serveru a klepněte na tlačítko Blokovat, Povolit pro relaci nebo Povolit.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
