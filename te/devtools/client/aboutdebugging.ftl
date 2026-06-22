@@ -93,6 +93,9 @@ about-debugging-tmp-extension-remove-button = తొలగించు
 about-debugging-extension-location =
     .label = స్థానం
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = సందేశాన్ని మూసివేయి
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = సందేశాన్ని మూసివేయి
 # Label text used for the error details of message component.
