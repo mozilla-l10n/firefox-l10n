@@ -968,6 +968,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = 關閉通知
 newtab-widget-timer-menu-notifications-on = 開啟通知
 newtab-widget-timer-menu-learn-more = 更多資訊
+newtab-widget-timer-menu-button =
+    .aria-label = 計時器選項
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 頭條新聞
 newtab-daily-briefing-card-menu-dismiss = 知道了！
