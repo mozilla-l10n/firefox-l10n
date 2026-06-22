@@ -171,6 +171,9 @@ quickactions-cmd-clearrecenthistory = សម្អាតប្រវត្តិ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = សម្អាត​ប្រវត្តិ
 quickactions-cmd-clearhistory = សម្អាត​ប្រវត្តិ
+# Opens about:translations
+quickactions-translate = បកប្រែ
+quickactions-cmd-translate = បកប្រែ
 quickactions-cmd-themes = រចនាប័ទ្ម
 
 ## Bookmark Panel
