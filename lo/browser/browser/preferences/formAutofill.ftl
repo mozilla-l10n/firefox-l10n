@@ -20,6 +20,20 @@ autofill-manage-edit-button = ແກ້ໄຂ…
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+address-capture-update-doorhanger-header = ຕ້ອງການອັບເດດທີ່ຢູ່ຫລືບໍ?
+address-capture-edit-doorhanger-header = ແກ້ໄຂທີ່ຢູ່
+address-capture-save-button =
+    .label = ບັນທຶກ
+    .accessKey = S
+address-capture-not-now-button =
+    .label = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
+    .accessKey = N
+address-capture-cancel-button =
+    .label = ຍົກເລີກ
+    .accessKey = C
+address-capture-update-button =
+    .label = ອັບເດດ
+    .accessKey = U
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ແກ້ໄຂທີ່ຢູ່
 autofill-address-given-name = ຊື່ແທ້
