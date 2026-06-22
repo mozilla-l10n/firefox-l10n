@@ -80,16 +80,12 @@ pane-downloads-title2 = Discjariâts
     .title = Discjariâts
 pane-downloads3 =
     .heading = Discjariâts
-pane-downloads2 =
-    .heading = { pane-downloads-title2 }
 pane-accessibility-title = Acès facilitât
     .title = { pane-accessibility-title }
 pane-languages-title2 = Lenghis
     .title = Lenghis
 preferences-languages-header3 =
     .heading = Lenghis
-preferences-languages-header2 =
-    .heading = { pane-languages-title2 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Esperiments di { -brand-short-name }
@@ -2645,8 +2641,6 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anule
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloche
-preferences-ai-controls-header2 =
-    .heading = { pane-ai-controls-title2 }
 preferences-ai-controls-header3 =
     .heading = Controi IA
 
@@ -2722,3 +2716,6 @@ preferences-etp-reload-tabs-hint-button =
     .label = Torne cjame dutis lis schedis
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
+
+## Warnings section
+
