@@ -307,6 +307,9 @@ about-debugging-multiprocess-toolbox-name = Noczynia do mocki procesōw
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Głōwny proces i procesy zawartości do cylowyj przeglōndarki
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Zawrzij wiadōmość
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zawrzij wiadōmość
 # Label text used for the error details of message component.
