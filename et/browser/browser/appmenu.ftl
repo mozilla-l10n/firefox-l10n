@@ -210,6 +210,8 @@ profiler-popup-presets-media-description2 = Preset for investigating audio and v
 profiler-popup-presets-media-label =
     .label = Media
 profiler-popup-presets-ml-description = Preset for investigating machine learning bugs in { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Machine Learning
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Network
@@ -220,6 +222,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Eelseadistus { -brand-shorter-name }I silumiseks. Suur üldkulu — ära kasuta jõudlust vajavaks tööks, vaid keskendu veebilehitseja käitumise mõistmisele.
 profiler-popup-presets-debug-label =
     .label = Silumine
+profiler-popup-presets-web-compat-description = Recommended preset for debugging web compatibility issues in websites, rather than tracking performance.
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Custom
 
@@ -285,6 +290,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Kohanda tööriistariba…
+appmenu-abouttranslations =
+    .label = Tõlgi…
 appmenu-developer-tools-subheader = Browser tools
 appmenu-developer-tools-extensions =
     .label = Extensions for developers
@@ -300,8 +307,13 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Peida oma tegelik e-post ja telefon
 appmenuitem-services-relay-description = Käivita e-posti maskide juhtpaneel
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Hangi kogu seadme kaitse
 appmenuitem-vpn-description = Kaitse oma veebitegevust
 appmenu-services-header = Minu teenused
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Proovi teisi Mozilla kaitsetööriistu:
 appmenu-other-protection-header = Proovi teisi kaitsetööriistu pakkujalt { -vendor-short-name }:
 
 ## Profiles panel
@@ -309,6 +321,8 @@ appmenu-other-protection-header = Proovi teisi kaitsetööriistu pakkujalt { -ve
 appmenu-other-profiles = Muud profiilid
 appmenu-manage-profiles =
     .label = Profiilide haldamine
+appmenu-copy-profile =
+    .label = Copy this profile
 appmenu-create-profile =
     .label = Uus profiil
 appmenu-edit-profile =
