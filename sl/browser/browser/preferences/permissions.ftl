@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Odstrani vsa spletna mesta
     .accesskey = v
+permissions-save-changes-2 =
+    .buttonlabelaccept = Shrani spremembe
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Shrani spremembe
     .buttonaccesskeyaccept = S
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Izjeme – Piškotki in podatki strani
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani. Vnesite točen naslov spletnega mesta in nato kliknite gumb Prepovej, Dovoli v tej seji ali Dovoli.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
