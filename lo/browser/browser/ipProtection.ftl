@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Toolbar button tooltip reflects VPN state
+
+ipprotection-button =
+    .label = VPN
+    .tooltiptext = VPN
+ipprotection-button-error =
+    .label = ເປີດ VPN
+    .tooltiptext = ເປີດ VPN
+
+##
+
+# The word "Beta" is intended to be uppercase in the experiment label.
+ipprotection-experiment-badge =
+    .label = ເບຕ້າ
+ipprotection-help-button =
+    .tooltiptext = ເປີດໜ້າຊ່ວຍເຫຼືອ VPN
+ipprotection-title = VPN
+
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-primary = ຕໍ່ໄປ
