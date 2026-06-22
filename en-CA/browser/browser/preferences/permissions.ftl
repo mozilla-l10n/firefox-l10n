@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Remove All Websites
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = Save Changes
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = Save Changes
     .buttonaccesskeyaccept = S
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = You can specify which websites are always or never allowed to use cookies and site data. Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
