@@ -40,6 +40,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Hiqi Krejt Sajtet
     .accesskey = k
+permissions-save-changes-2 =
+    .buttonlabelaccept = Ruaji Ndryshimet
+    .buttonaccesskeyaccept = R
 permission-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-window2 =
     .title = Përjashtime - “Cookies” dhe të Dhëna Sajtesh
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet përherë ose kurrë të përdorin “cookies” dhe të dhëna sajtesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni Bllokoje, Lejoje për Sesion, ose Lejoje.
+
+## Exceptions - Clear on Shutdown
+
 
 ## Exceptions - HTTPS-Only Mode
 
