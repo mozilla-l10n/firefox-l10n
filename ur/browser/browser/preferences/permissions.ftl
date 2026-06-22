@@ -34,6 +34,9 @@ permissions-remove =
 permissions-remove-all =
     .label = تمام ویب سائٹیں ہٹائیں
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = تبدیلیاں محفوظ کریں
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = تبدیلیاں محفوظ کریں
     .buttonaccesskeyaccept = S
@@ -81,6 +84,15 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = آپ اختصاص کر سکتے ہیں کی کس ویب سائٹس کو ہمیشہ یا کبھی کوکیز اور سائٹ کا ڈیٹا کو استعمال کرنے کی اجازت ہے۔ اس سائٹ کا پرا نام ٹائپ کرے جسکا آپ انتظام کرنا چاھتے ہے اور پھر کلک کریں بلاک، سیشن کے لئے اجازت دے، یا اجازت دے۔
 
+## Exceptions - Clear on Shutdown
+
+
+## Exceptions - HTTPS-Only Mode
+
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -94,6 +106,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = استثنیات ۔ محفوظ شدہ لاگ ان
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے لئے لاگ ان کو محفوظ نہیں کیا جائے گا
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -146,6 +161,12 @@ permissions-site-camera-disable-label =
     .label = اپنے کیمرے تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
 permissions-site-camera-disable-desc = یہ کسی بھی ویب سائٹ کو آپکے کیمرے کے رسائی کی اجازت کی درخواست کرنے سے روکتا ہے جو اوپر درج نہیں ہے۔ آپکے کیمرے کے رسائی کو روکنے سے ویب سائٹ کی کچھ خوبی وقفہ ہو سکتی ہے۔
 
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -155,3 +176,8 @@ permissions-site-microphone-desc = مندرجہ ذیل ویب سائٹ نے آپ
 permissions-site-microphone-disable-label =
     .label = اپنے مائیکروفون تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
 permissions-site-microphone-disable-desc = یہ کسی بھی ویب سائٹ کو آپکے مائکروفون کے رسائی کی اجازت کی درخواست کرنے سے روکتا ہے جو اوپر درج نہیں ہے۔ آپکے مائکروفون کے رسائی کو روکنے سے ویب سائٹ کی کچھ خوبی وقفہ ہو سکتی ہے۔
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
