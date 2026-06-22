@@ -340,3 +340,4 @@ about-debugging-message-details-label-error = Dettagli errore
 about-debugging-message-details-label-warning = Dettagli avviso
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Dettagli
+
