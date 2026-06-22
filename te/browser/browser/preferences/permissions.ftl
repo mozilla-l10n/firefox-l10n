@@ -34,6 +34,9 @@ permissions-remove =
 permissions-remove-all =
     .label = వెబ్‌సైట్లన్నీ తీసివేయి
     .accesskey = e
+permissions-save-changes-2 =
+    .buttonlabelaccept = మార్పులను భద్రపరచు
+    .buttonaccesskeyaccept = S
 permission-dialog =
     .buttonlabelaccept = మార్పులను భద్రపరచు
     .buttonaccesskeyaccept = S
@@ -80,11 +83,17 @@ permissions-exceptions-cookie-window2 =
     .title = మినహాయింపులు - కుకీలు, సైటు డేటా
     .style = { permissions-window2.style }
 
+## Exceptions - Clear on Shutdown
+
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = మినహాయింపులు - HTTPS- మాత్రమే రీతి
     .style = { permissions-window2.style }
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
 
 ## Exceptions - Pop-ups
 
@@ -99,6 +108,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = మినహాయింపులు - భద్రపరిచన ప్రవేశాలు
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ఈ క్రింది వెబ్‌సైట్ల ప్రవేశాలు భద్రపరచబడవు
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -143,6 +155,12 @@ permissions-site-camera-window2 =
 permissions-site-camera-disable-label =
     .label = మీ కెమేరాను వాడుటకై వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు
 
+## Site Permissions - Loopback network
+
+
+## Site Permissions - Local network
+
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
@@ -150,3 +168,8 @@ permissions-site-microphone-window2 =
     .style = { permissions-window2.style }
 permissions-site-microphone-disable-label =
     .label = మీ మైక్రోఫోనును వాడుటకై వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
