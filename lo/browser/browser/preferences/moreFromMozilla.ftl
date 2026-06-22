@@ -41,4 +41,4 @@ more-from-moz-mozilla-monitor-button = ດາວໂຫລດ { -monitor-brand-sh
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = ສ້າງເວັບໄຊທຂອງທ່ານທັນທີ ແລະ ເຊື່ອມຕໍ່ກັບໂດເມນທີ່ທ່ານກຳນົດເອງໄດ້ໂດຍບໍ່ເສຍຄ່າ.
 more-from-moz-solo-button = ທົດລອງນຳໃຊ້ { -solo-ai-brand-name }
-more-from-moz-solo-title-2 = ຜູ້ສ້າງເວັບໄຊທດ້ວຍ AI ຂອງ { -solo-ai-brand-name }{ " " }
+more-from-moz-solo-title-2 = ຜູ້ສ້າງເວັບໄຊທດ້ວຍ AI ຂອງ { -solo-ai-brand-name }
