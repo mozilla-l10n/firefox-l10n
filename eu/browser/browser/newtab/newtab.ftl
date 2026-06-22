@@ -1132,7 +1132,7 @@ newtab-sports-widget-group-j = J Multzoa
 newtab-sports-widget-group-k = K Multzoa
 newtab-sports-widget-group-l = L Multzoa
 newtab-sports-widget-round-32 = Final hamaseirenak
-newtab-sports-widget-round-16 = Final hamaseirenak
+newtab-sports-widget-round-16 = Final zortzirenak
 newtab-sports-widget-quarter-finals = Final laurdenak
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ZUZENEAN
