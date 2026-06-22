@@ -480,3 +480,5 @@ relay-50-masks-announcement-secondary-button = Ignora
 nova-early-access-infobar-title = El <strong>{ -brand-product-name } té un nou aspecte</strong>. Esteu veient un avenç d'una versió preliminar i no definitiva abans del llançament que es farà a finals d'any.
 nova-early-access-share-feedback-link = Comparteix els comentaris
     .accesskey = C
+nova-early-access-infobar-primary-button = Entesos
+    .accesskey = E
