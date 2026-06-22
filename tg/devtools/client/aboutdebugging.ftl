@@ -329,6 +329,9 @@ about-debugging-multiprocess-toolbox-name = Қуттии абзорҳои сар
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Раванди асосӣ ва равандҳои муҳтаво барои браузери мақсаддор
 # Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon2 =
+    .tooltiptext = Пӯшидани паём
+# Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Пӯшидани паём
 # Label text used for the error details of message component.
