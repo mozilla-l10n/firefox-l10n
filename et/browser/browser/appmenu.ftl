@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Uuendamine pole võimalik — süsteem pole ühilduv
 appmenuitem-banner-update-restart =
     .label = Uuendus on saadaval — taaskäivita kohe
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Hangi värske { -brand-short-name }. Säilita kõik oma kaardid.
+appmenu-nova-update-link = Uuendamiseks taaskäivita
+appmenu-nova-fxa-sign-in = Logi sisse
+appmenu-nova-switch-device-promo =
+    .message = Kas saad peagi uue seadme? Võta { -brand-short-name } kaasa!
+appmenu-nova-switch-device-link = Kuidas oma andmeid migreerida
 appmenuitem-new-tab =
     .label = Uus kaart
 appmenuitem-new-window =
@@ -23,10 +31,16 @@ appmenuitem-new-private-window =
     .label = Uus privaatne aken
 appmenuitem-history =
     .label = Ajalugu
+appmenuitem-tab-groups =
+    .label = Kaardigrupid
 appmenuitem-downloads =
     .label = Allalaadimised
 appmenuitem-passwords =
     .label = Paroolid
+appmenuitem-extensions-and-themes =
+    .label = Laiendused ja teemad
+appmenuitem-extensions =
+    .label = Laiendused
 appmenuitem-addons-and-themes =
     .label = Lisad ja teemad
 appmenuitem-print =
@@ -166,6 +180,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Open the profiler panel
+    .tooltiptext = Open the profiler panel
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -192,6 +209,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-ml-description = Preset for investigating machine learning bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Network
