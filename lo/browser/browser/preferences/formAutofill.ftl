@@ -34,12 +34,24 @@ address-capture-cancel-button =
 address-capture-update-button =
     .label = ອັບເດດ
     .accessKey = U
+address-capture-manage-address-button =
+    .label = ການຕັ້ງຄ່າທີ່ຢູ່
+address-capture-learn-more-button =
+    .label = ຮຽນຮູ້ເພີ່ມເຕີມ
+address-capture-open-menu-button =
+    .aria-label = ເປີດເມນູ
+address-capture-edit-address-button =
+    .aria-label = ແກ້ໄຂທີ່ຢູ່
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = ເພີ່ມທີ່ຢູ່
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ແກ້ໄຂທີ່ຢູ່
 autofill-address-given-name = ຊື່ແທ້
 autofill-address-additional-name = ຊື່ກາງ
 autofill-address-family-name = ນາມສະກຸນ
+autofill-address-name = ຊື່
 autofill-address-organization = ອົງການຈັດຕັ້ງ
+autofill-address-street-address = ທີ່​ຢູ່​ຖະ​ຫນົນ
 autofill-address-street = ທີ່​ຢູ່​ຖະ​ຫນົນ
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -107,6 +119,7 @@ autofill-address-eircode = Eircode
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = ເພີ່ມທີ່ຢູ່ໃໝ່
 autofill-address-country = ປະເທດ ຫຼືພາກພື້ນ
+autofill-address-country-only = ປະເທດ
 autofill-address-tel = ໂທລະສັບ
 autofill-address-email = ອີເມວ
 autofill-cancel-button = ຍົກເລີກ
@@ -116,6 +129,11 @@ autofill-country-warning-message = ການຕື່ມແບບຟອມອັ
 autofill-add-new-card-title = ເພີ່ມບັດເຄຣດິດໃໝ່
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ແກ້ໄຂບັດເຄຣດິດ
+autofill-message-tooltip = ເບິ່ງຂໍ້ຄວາມກ່ຽວກັບການຕື່ມຂໍ້ມູນອັດຕະໂນມັດ
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = ເພີ່ມບັດ
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = ແກ້ໄຂບັດ
 autofill-card-number = ເລກບັດ
 autofill-card-invalid-number = ກະລຸນາໃສ່ໝາຍເລກບັດທີ່ຖືກຕ້ອງ
 autofill-card-name-on-card = ຊື່ໃນບັດ
@@ -123,6 +141,12 @@ autofill-card-expires-month = ໝົດອາຍຸ ເດືອນ
 autofill-card-expires-year = ໝົດອາຍຸ ປີ
 autofill-card-billing-address = ທີ່ຢູ່ໃບບິນ
 autofill-card-network = ປະເພດບັດ
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = ບັດເຄຣດິດ, ເຄຣດິດ, ບັດຕ່າງໆ, ບັດເດບິດ, ເດບິດ, ກະເປົາເງິນ, ການຈ່າຍເງິນ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
