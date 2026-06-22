@@ -61,3 +61,7 @@ ip-protection-autostart-checkbox =
     .label = ເມື່ອຂ້ອຍເປີດ { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = ໃນຫນ້າຕ່າງສ່ວນຕົວ
+
+## IP Protection alerts
+
+vpn-error-alert-body = ລອງໃໝ່ໃນພາຍຫຼັງ.

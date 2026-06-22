@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+colors-dialog2 =
+    .title = ສີ
+    .style = min-width: 41em;
 colors-close-key =
     .key = w
 colors-page-override = ຂຽນທັບສີທີ່ລະບຸໂດຍຫນ້າດ້ວຍອັນທີ່ທ່ານເລືອກໄວ້ດ້ານເທິງ
