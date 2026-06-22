@@ -972,6 +972,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-learn-more = További tudnivalók
+newtab-widget-timer-menu-button =
+    .aria-label = Időzítő beállításai
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Legfontosabb szalagcímek
 newtab-daily-briefing-card-menu-dismiss = Eltüntetés

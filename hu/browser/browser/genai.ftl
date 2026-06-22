@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = A(z) { $provider } megkérdezése
 genai-menu-new-badge = Új
 genai-menu-summarize-page = Oldal összegzése
+genai-input-ask-smart-window =
+    .placeholder = Kérdés…
 genai-input-ask-generic =
     .placeholder = Az MI csevegőbot megkérdezése…
 # $provider (string) - name of the provider
@@ -106,6 +108,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = MI csevegőbot megkérdezése
     .accesskey = c
+genai-menu-ask-smart-window =
+    .label = Kérdés…
+    .accesskey = K
 
 ## Chatbot header
 
