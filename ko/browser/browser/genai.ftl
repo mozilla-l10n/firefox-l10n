@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = { $provider }에게 물어보기
 genai-menu-new-badge = 새 기능
 genai-menu-summarize-page = 페이지 요약
+genai-input-ask-smart-window =
+    .placeholder = 묻기…
 genai-input-ask-generic =
     .placeholder = AI 챗봇에게 물어보기…
 # $provider (string) - name of the provider
@@ -98,6 +100,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = AI 챗봇에게 물어보기
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = 묻기…
+    .accesskey = z
 
 ## Chatbot header
 

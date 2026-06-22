@@ -966,6 +966,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = 알림 끄기
 newtab-widget-timer-menu-notifications-on = 알림 켜기
 newtab-widget-timer-menu-learn-more = 더 알아보기
+newtab-widget-timer-menu-button =
+    .aria-label = 타이머 옵션
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 주요 헤드라인
 newtab-daily-briefing-card-menu-dismiss = 닫기
