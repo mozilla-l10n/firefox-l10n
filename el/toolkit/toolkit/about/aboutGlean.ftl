@@ -93,14 +93,14 @@ about-glean-li-for-visit-gdpv =
 about-glean-adhoc-explanation =
     Για περισσότερες δοκιμές <i>ad hoc</i>,
     μπορείτε να καθορίσετε την τρέχουσα τιμή ενός συγκεκριμένου τμήματος ενοργάνισης
-    ανοίγοντας μια κονσόλα devtools εδώ στο <code>about:glean</code>
+    ανοίγοντας μια κονσόλα εργαλείων ανάπτυξης εδώ στο <code>about:glean</code>
     και χρησιμοποιώντας το <code>testGetValue()</code> API όπως το
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Για περισσότερες δοκιμές <i>ad hoc</i>,
     μπορείτε να καθορίσετε την τρέχουσα τιμή ενός συγκεκριμένου τμήματος ενοργάνισης
-    ανοίγοντας μια κονσόλα devtools εδώ στο <code>about:glean</code>
+    ανοίγοντας μια κονσόλα εργαλείων ανάπτυξης εδώ στο <code>about:glean</code>
     και χρησιμοποιώντας το API <code>testGetValue()</code>, όπως το
     <code>Glean.metricCategory.metricName.testGetValue()</code>,
     για μια μέτρηση με το όνομα <code>metric.category.metric_name</code>.

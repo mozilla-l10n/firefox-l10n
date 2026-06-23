@@ -37,7 +37,7 @@ flextype-dual = Στοιχεία/περιέκτης flex
 # Variables
 # $action (string) - Will either be remote-node-picker-notice-action-desktop or
 #                    remote-node-picker-notice-action-touch
-remote-node-picker-notice = Ενεργοποιήθηκε η Επιλογή κόμβου του DevTools. { $action }
+remote-node-picker-notice = Ενεργοποιήθηκε η Επιλογή κόμβου των εργαλείων ανάπτυξης. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Κάντε κλικ σε ένα στοιχείο για να το επιλέξετε στην Επιθεώρηση
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android

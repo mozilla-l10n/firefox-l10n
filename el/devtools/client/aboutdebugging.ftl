@@ -190,7 +190,7 @@ about-debugging-runtime-service-workers-not-compatible = Οι ρυθμίσεις
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Η έκδοση του συνδεδεμένου προγράμματος περιήγησης είναι παλιά ({ $runtimeVersion }). Η ελάχιστη υποστηριζόμενη έκδοση είναι ({ $minVersion }). Αυτή η διαμόρφωση δεν υποστηρίζεται και ενδέχεται να προκαλέσει αποτυχία του DevTools. Ενημερώστε το συνδεδεμένο πρόγραμμα περιήγησης. <a>Επίλυση προβλημάτων</a>
+about-debugging-browser-version-too-old = Η έκδοση του συνδεδεμένου προγράμματος περιήγησης είναι παλιά ({ $runtimeVersion }). Η ελάχιστη υποστηριζόμενη έκδοση είναι ({ $minVersion }). Αυτή η διαμόρφωση δεν υποστηρίζεται και ενδέχεται να προκαλέσει αποτυχία των εργαλείων ανάπτυξης. Ενημερώστε το συνδεδεμένο πρόγραμμα περιήγησης. <a>Επίλυση προβλημάτων</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Αυτή η έκδοση του Firefox δεν μπορεί να χρησιμοποιηθεί για έλεγχο σφαλμάτων στο Firefox για Android (68). Προτείνουμε να εγκαταστήσετε το Firefox για Android Nightly στο τηλέφωνό σας για δοκιμή. <a>Περισσότερες λεπτομέρειες</a>
@@ -200,7 +200,7 @@ about-debugging-browser-version-too-old-fennec = Αυτή η έκδοση του
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης ({ $runtimeVersion }, buildID: { $runtimeID }) είναι πιο πρόσφατο από το { -brand-shorter-name } ({ $localVersion }, buildID: { $localID }) που χρησιμοποιείτε. Αυτή η διαμόρφωση δεν υποστηρίζεται και ενδέχεται να προκαλέσει αποτυχία του DevTools. Ενημερώστε το Firefox. <a>Επίλυση προβλημάτων</a>
+about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης ({ $runtimeVersion }, buildID: { $runtimeID }) είναι πιο πρόσφατο από το { -brand-shorter-name } ({ $localVersion }, buildID: { $localID }) που χρησιμοποιείτε. Αυτή η διαμόρφωση δεν υποστηρίζεται και ενδέχεται να προκαλέσει αποτυχία των εργαλείων ανάπτυξης. Ενημερώστε το Firefox. <a>Επίλυση προβλημάτων</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

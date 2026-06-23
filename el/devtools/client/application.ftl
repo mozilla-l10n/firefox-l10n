@@ -77,7 +77,7 @@ manifest-loaded-ok = Η δήλωση φορτώθηκε.
 manifest-loaded-error = Προέκυψε σφάλμα κατά τη φόρτωσης της δήλωσης:
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
-manifest-loaded-devtools-error = Σφάλμα Firefox DevTools
+manifest-loaded-devtools-error = Σφάλμα εργαλείων ανάπτυξης Firefox
 # Text displayed when the page has no manifest available
 manifest-non-existing = Δεν βρέθηκε δήλωση προς επιθεώρηση.
 # Text displayed when the page has a manifest embedded in a Data URL and
