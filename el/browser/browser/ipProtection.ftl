@@ -32,6 +32,8 @@ ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες για ακόμη πιο ιδιωτική πλοήγηση.
 ipprotection-feature-introduction-link-text-privacy-3 = Απολαύστε <a data-l10n-name="learn-more-vpn">επιπλέον απόρρητο</a> επιλέγοντας ανάμεσα σε πολλαπλές τοποθεσίες για να αποκρύψετε το μέρος απ' όπου περιηγείστε.
 ipprotection-feature-introduction-text-summer-promo-1 = Ενεργοποιήστε το για να κάνετε την περιήγησή σας πιο ιδιωτική. <a data-l10n-name="summer-promo-link">Επωφεληθείτε από απεριόριστο εύρος ζώνης</a> και περιηγηθείτε μέσω περισσότερων τοποθεσιών από σήμερα έως τις 31 Αυγούστου.
+ipprotection-feature-introduction-title-summer-promo = Έχετε ταξιδιωτικά σχέδια; Πάρτε το απόρρητο μαζί σας.
+ipprotection-feature-introduction-description-summer-promo = Κάντε περισσότερα με το ενσωματωμένο VPN του { -brand-product-name }: περισσότερες τοποθεσίες, απεριόριστο εύρος ζώνης. Έως τις 31 Αυγούστου.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας, ακόμα και σε ιδιωτικά παράθυρα.
 ipprotection-feature-introduction-description-private-browsing = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα κι όταν βρίσκεστε σε ιδιωτικό παράθυρο.
 # Used for callout shown on login to public wi-fi through a captive portal

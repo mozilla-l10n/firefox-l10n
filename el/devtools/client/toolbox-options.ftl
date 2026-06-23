@@ -119,9 +119,14 @@ options-sourceeditor-keybinding-default-label = Προεπιλογή
 
 # The heading
 options-local-mode-label = Τοπική λειτουργία
+options-local-mode-only-work-locally = Η τοπική λειτουργία λειτουργεί μόνο τοπικά και απενεργοποιείται κατά τον έλεγχο για σφάλματα σε απομακρυσμένα περιβάλλοντα
 options-local-mode-domain-label = Προσαρμοσμένος τομέας:
 options-local-mode-origin-invalid = Αυτή η προέλευση δεν είναι έγκυρη
 options-local-mode-folder-label = Τοπικός φάκελος:
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Επιλογή φακέλου τοπικής λειτουργίας για: { $url }
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Αυτός ο φάκελος δεν υπάρχει ή δεν είναι έγκυρος.
