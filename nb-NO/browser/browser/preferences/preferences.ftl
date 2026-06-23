@@ -1092,7 +1092,7 @@ home-prefs-lists-header =
     .label = Lister
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
-    .label = Nedtelling
+    .label = Timer
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport

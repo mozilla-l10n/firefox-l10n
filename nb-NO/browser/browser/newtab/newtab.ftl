@@ -86,7 +86,7 @@ home-prefs-lists-header =
     .label = Lister
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
-    .label = Nedtelling
+    .label = Timer
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
@@ -488,7 +488,7 @@ newtab-custom-widget-weather-toggle =
 newtab-custom-widget-lists-toggle =
     .label = Lister
 newtab-custom-widget-timer-toggle =
-    .label = Nedtelling
+    .label = Timer
 newtab-custom-widget-sports-toggle =
     .label = VM
 newtab-custom-widget-clock-toggle =
@@ -971,6 +971,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Slå av varsler
 newtab-widget-timer-menu-notifications-on = Slå på varsler
 newtab-widget-timer-menu-learn-more = Les mer
+newtab-widget-timer-menu-button =
+    .aria-label = Timer-innstillinger
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Toppoverskrifter
 newtab-daily-briefing-card-menu-dismiss = Ignorer
@@ -1003,7 +1005,7 @@ newtab-promo-card-dismiss-button =
 newtab-widget-timer-start-aria =
     .aria-label =
         { $minutes ->
-           *[other] Start { $minutes }-minutt nedtelling
+           *[other] Start { $minutes }-minutt timer
         }
 newtab-widget-timer-pause-aria =
     .aria-label = Sett nedtelleren på pause
@@ -1016,7 +1018,7 @@ newtab-widget-timer-decrease-min =
 newtab-widget-timer-increase-min =
     .title = Øk med 1 minutt
 newtab-widget-timer-mode-group =
-    .aria-label = Nedtellingsmodus
+    .aria-label = Timermodus
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Fokus
 # Small label shown beneath the live time while the break timer is running or paused.
