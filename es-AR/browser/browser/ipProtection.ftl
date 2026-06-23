@@ -166,6 +166,7 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web se configuraron para usar VPN. Actualice estos en <a data-l10n-name="setting-link">configuración</a> en cualquier momento.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN desactivada para este sitio
 ipprotection-open-button = Abrir { -brand-product-name }
+ipprotection-come-back-title = Vuelva para probar la VPNinctegrada
 ipprotection-message-body-hide-location = Oculte su ubicación cuando navegue en { -brand-product-name } para obtener más privacidad y control.
 ipprotection-connection-status-generic-error-title-1 = No se pudo conectar a la VPN
     .aria-label = No se pudo conectar a la VPN
