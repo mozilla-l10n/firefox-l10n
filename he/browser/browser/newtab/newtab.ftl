@@ -966,6 +966,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = כיבוי התרעות
 newtab-widget-timer-menu-notifications-on = הפעלת התרעות
 newtab-widget-timer-menu-learn-more = מידע נוסף
+newtab-widget-timer-menu-button =
+    .aria-label = אפשרויות שעון עצר
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = כותרות מובילות
 newtab-daily-briefing-card-menu-dismiss = סגירה
