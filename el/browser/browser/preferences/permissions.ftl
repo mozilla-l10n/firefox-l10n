@@ -94,8 +94,8 @@ permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Εξαιρέσεις - Απαλοιφή ιστορικού κατά τον τερματισμό λειτουργίας
     .style = { permissions-window2.style }
+    .title = Εξαιρέσεις - Απαλοιφή ιστορικού κατά το κλείσιμο
 permissions-exceptions-shutdown-clearing-desc = Μπορείτε να καθορίσετε ποιοι ιστότοποι θα διατηρούν τα δεδομένα τους όταν το { -brand-short-name } διαγράφει το ιστορικό κατά το κλείσιμο. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να διαχειριστείτε και επιλέξτε «Αποδοχή».
 
 ## Exceptions - HTTPS-Only Mode

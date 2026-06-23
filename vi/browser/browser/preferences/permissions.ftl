@@ -94,8 +94,8 @@ permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nà
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Ngoại lệ - Xóa lịch sử khi tắt máy
     .style = { permissions-window2.style }
+    .title = Ngoại lệ - Xóa lịch sử khi tắt trình duyệt
 permissions-exceptions-shutdown-clearing-desc = Bạn có thể chỉ định những trang web nào sẽ giữ lại dữ liệu khi { -brand-short-name } xóa lịch sử lúc đóng ứng dụng. Nhập địa chỉ chính xác của trang web bạn muốn quản lý rồi nhấp vào Cho phép.
 
 ## Exceptions - HTTPS-Only Mode
