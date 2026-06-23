@@ -4,7 +4,7 @@
 
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
-account-finish-account-setup = Conpleta configuraçion de l'account
+account-finish-account-setup = Conpleta configuraçion account
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Account disconesso
@@ -45,6 +45,9 @@ account-send-tab-to-device-verify = Verifico o teu conto…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = Account
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Sto computer oua o l’é connesso con { $deviceName }.

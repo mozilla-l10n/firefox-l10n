@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Critei aziendali
+aboutpolicies-page-heading =
+    .heading = Informaçion in sci Critei
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Ativo
 errors-tab = Eroî

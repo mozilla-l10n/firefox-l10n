@@ -110,6 +110,8 @@ about-logins-login-intro-heading-message = Sarvite e poule segrete inte 'n pòst
 ## Login
 
 login-item-new-login-title = Crea neuvo acesso
+# Header for adding a password
+about-logins-login-item-new-login-title = Azonzi poula segreta
 login-item-edit-button = Cangia
 about-logins-login-item-remove-button = Scancella
 login-item-origin-label = Indirisso
@@ -126,6 +128,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Còpia
 login-item-copied-password-button-text = Copiou!
 login-item-save-changes-button = Sarva cangiamenti
+about-logins-login-item-save-changes-button = Sarva
 login-item-save-new-button = Sarva
 login-item-cancel-button = Anulla
 
@@ -133,7 +136,11 @@ login-item-cancel-button = Anulla
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Creou
+login-item-timeline-action-updated = Agiornamento
 login-item-timeline-action-used = Deuviou
 
 ## OS Authentication dialog

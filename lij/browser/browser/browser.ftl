@@ -48,6 +48,78 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navegaçion privâ
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name }  Navegaçion Privâ
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegaçion Privâ
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navegaçion Privâ
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navegaçion Privâ
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegaçion Privâ
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegaçion Privâ
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navegaçion Privâ
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegaçion Privâ
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
+browser-main-window-default-title = { -brand-full-name }
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — Navegaçion Privâ
+       *[other] { -brand-full-name } Navegaçion Privâ
+    }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navegaçion Privâ
 
 ##
 
@@ -114,6 +186,14 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Fatte agiutâ
     .accesskey = a
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Informaçion in sce { -firefox-suggest-brand-name }
+    .accesskey = I
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Gestisci { -firefox-suggest-brand-name }
+    .accesskey = G
+urlbar-result-menu-show-less-frequently =
+    .label = Mostra de meno
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -125,6 +205,8 @@ urlbar-search-tips-redirect-2 = Iniçia a çercâ chi pe vedde i conseggi da { $
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Segnalibbri
+urlbar-search-mode-tabs = Feuggi
 urlbar-search-mode-history = Stöia
 urlbar-search-mode-actions = Açioin
 
@@ -158,6 +240,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Azonzi ai segnalibri ({ $shortcut })
+urlbar-split-view-button =
+    .aria-label = Schermo divizo
+    .tooltiptext = Schermo divizo
 
 ## Searchbar context menu
 
@@ -214,6 +299,8 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Segnalibbri ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Feuggi ({ $restrict })
 search-one-offs-history =
@@ -240,12 +327,25 @@ quickactions-cmd-downloads = scaregamenti
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestisci estenscioin
 quickactions-cmd-extensions = estenscioin
+# Opens Firefox View
+quickactions-firefoxview = Arvi { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = arvi { -firefoxview-brand-name }, { -firefoxview-brand-name }, arvi view, view
+# Opens SUMO home page
+quickactions-help = Guidda de { -brand-product-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Arvi Strumenti do svilupatô
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Çerni 'n cô
+quickactions-library = Arvi Libraia
 quickactions-cmd-plugins = Plugin
 # Opens the print dialog
 quickactions-print2 = Stanpa pagina
 quickactions-cmd-print = stanpa
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Sarva pagina comme PDF
 # Opens a new private browsing window
 quickactions-private2 = Arvi barcon privòu
 quickactions-cmd-private = navegaçion privâ
@@ -264,6 +364,8 @@ quickactions-viewsource2 = Mostra sorgente da pagina
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Azonzi segnalibbro
+bookmarks-edit-bookmark = Cangia segnalibbro
 bookmark-panel-cancel =
     .label = Anulla
     .accesskey = A
@@ -279,6 +381,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Fanni vedde l'editô quande sarvo
     .accesskey = F
+bookmark-panel-save-button =
+    .label = Sarva
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -290,6 +394,10 @@ bookmark-panel =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-site-information = Informaçion do scito pe { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Seguessa da conescion pe { $host }
 identity-connection-not-secure = Conescion no segua
 identity-connection-secure = Conescion segua
 identity-connection-internal = Sta chi a l'é 'na pagina segua de { -brand-short-name }.
