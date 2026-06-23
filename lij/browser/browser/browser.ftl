@@ -340,6 +340,10 @@ quickactions-inspector2 = Arvi Strumenti do svilupatô
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Çerni 'n cô
 quickactions-library = Arvi Libraia
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silençia, zitto, sssssh
 quickactions-cmd-plugins = Plugin
 # Opens the print dialog
 quickactions-print2 = Stanpa pagina
@@ -357,6 +361,9 @@ quickactions-restart = Arvi torna { -brand-short-name }
 quickactions-cmd-restart = arvi torna
 # Opens the screenshot tool
 quickactions-screenshot3 = Fanni föto do schermo
+# Opens about:translations
+quickactions-translate = Traduci
+quickactions-cmd-translate = Traduci
 quickactions-cmd-screenshot = föto do schermo
 quickactions-cmd-update = agiorna
 # Opens the view-source UI with current pages source

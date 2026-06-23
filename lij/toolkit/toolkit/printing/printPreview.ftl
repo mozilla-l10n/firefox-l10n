@@ -31,17 +31,24 @@ printpreview-print =
     .accesskey = p
 printpreview-of =
     .value = de
+printpreview-custom-scale-prompt-title = Scaa personale
 printpreview-page-setup =
     .label = Inpòsta pagina…
     .accesskey = I
 printpreview-page =
     .value = Pagina:
     .accesskey = P
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } de { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Primma pagina
@@ -54,3 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Urtima pagina
+printpreview-homearrow-button =
+    .title = Primma pagina
+printpreview-previousarrow-button =
+    .title = Pagina precedente
+printpreview-nextarrow-button =
+    .title = Pròscima pagina
+printpreview-endarrow-button =
+    .title = Urtima pagina

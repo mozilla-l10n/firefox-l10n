@@ -13,4 +13,22 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Iniçia
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-button = Pròscimo
 callout-pdfjs-draw-button = Reçevuo!
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-primary-button-label = Arvi { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Scancella
+
+## Split Dismiss Button Labels
+
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = No mostrâ ciù sto conseggio
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Meno conseggi
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Ciù inpostaçioin

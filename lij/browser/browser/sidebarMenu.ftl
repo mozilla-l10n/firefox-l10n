@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Segnalibbri
+sidebar-menu-bookmarks-2 = Segnalibbri
 sidebar-menu-history =
     .label = Stöia
 sidebar-menu-synced-tabs =

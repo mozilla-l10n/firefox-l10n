@@ -16,6 +16,7 @@ styleeditor-save-button = Sarva
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Editô do stile
+styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Scrivi o CSS chi.
 styleeditor-no-stylesheet = Sta pagina a no l'à feuggio de stile.
