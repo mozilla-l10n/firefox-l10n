@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = 無法更新 — 系統不相容
 appmenuitem-banner-update-restart =
     .label = 已推出更新 — 立即重新啟動
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = 下載全新的 { -brand-short-name }。所有分頁都會保留。
+appmenu-nova-update-link = 重新啟動即可更新
+appmenu-nova-fxa-sign-in = 登入
+appmenu-nova-switch-device-promo =
+    .message = 快要換新裝置了嗎？把 { -brand-short-name } 一起帶走！
+appmenu-nova-switch-device-link = 如何轉移您的資料
 appmenuitem-new-tab =
     .label = 開新分頁
 appmenuitem-new-window =

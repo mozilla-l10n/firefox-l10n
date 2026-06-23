@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = 新增容器分頁
 all-tabs-menu-hidden-tabs =
     .label = 隱藏分頁
+all-tabs-menu-close-duplicate-tabs =
+    .label = 關閉重複的分頁
 all-tabs-menu-view-all-tabs =
     .label = 檢視所有分頁
 all-tabs-menu-manage-user-context =
@@ -28,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = 分頁群組
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = 搜尋所有分頁

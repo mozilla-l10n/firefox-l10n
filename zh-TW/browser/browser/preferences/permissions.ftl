@@ -91,6 +91,10 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = 您可以指定哪些網站是否可以設定 Cookie 和儲存網站資料。請在下方輸入要指定的完整網址，然後點擊「封鎖」、「此次瀏覽階段允許」或「允許」。
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-desc = 您可以指定在關閉 { -brand-short-name } 並清除瀏覽紀錄時，要保留哪些網站的資料。請輸入完整網址後按「允許」。
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

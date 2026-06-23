@@ -29,6 +29,9 @@ ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 加上一層隱私保護
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從多個連線位置任選，讓您上網更有隱私。
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從多個連線位置任選，讓您上網更有隱私。
+ipprotection-feature-introduction-link-text-privacy-3 = 從多個地點任選，隱藏您的實際上網位置，讓<a data-l10n-name="learn-more-vpn">上網更有隱私</a>。
+ipprotection-feature-introduction-title-summer-promo = 準備要旅行嗎？讓隱私隨身帶著走。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +49,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = 自工具列移除 VPN
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 自工具列移除 VPN
+ipprotection-feature-introduction-button-open-vpn = 開啟 VPN
 ipprotection-feature-introduction-button-get-started = 開始使用
 
 ## Site settings callout
@@ -159,6 +163,7 @@ ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的
 ipprotection-message-continuous-onboarding-autostart = 設定在每次開啟 { -brand-short-name } 時<a data-l10n-name="setting-link">就自動開啟 VPN</a>，讓您受到更多一層保護。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 會記得您設定要讓哪些網站透過 VPN 開啟。也可隨時到<a data-l10n-name="setting-link">設定</a>當中調整。
 confirmation-hint-ipprotection-navigated-to-excluded-site = 已對此網站關閉 VPN 連線
+ipprotection-open-button = 開啟 { -brand-product-name }
 ipprotection-connection-status-generic-error-title-1 = 無法連線至 VPN
     .aria-label = 無法連線至 VPN
 

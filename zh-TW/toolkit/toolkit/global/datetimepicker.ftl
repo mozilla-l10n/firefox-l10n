@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = 時
 time-spinner-minute-label =
     .aria-label = 分
+time-spinner-second-label =
+    .aria-label = 秒
+time-spinner-millisecond-label =
+    .aria-label = 毫秒
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = 前一分鐘
 time-spinner-minute-next =
     .aria-label = 後一分鐘
+time-spinner-second-previous =
+    .aria-label = 前一秒
+time-spinner-second-next =
+    .aria-label = 下一秒
+time-spinner-millisecond-previous =
+    .aria-label = 前一毫秒
+time-spinner-millisecond-next =
+    .aria-label = 下一毫秒
 time-spinner-day-period-previous =
     .aria-label = 前半天
 time-spinner-day-period-next =
