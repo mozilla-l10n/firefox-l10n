@@ -196,6 +196,9 @@ urlbar-result-menu-manage-firefox-suggest =
     .accesskey = G
 urlbar-result-menu-show-less-frequently =
     .label = Mostra de meno
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Arvi menû
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -320,6 +323,7 @@ quickactions-cmd-addons2 = Conponenti azonti
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gestisci segnalibbri
 quickactions-cmd-bookmarks = segnalibbri
+quickactions-cmd-clearrecenthistory = scancella a stöia ciù neuva, stöia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Scancella Stöia
 quickactions-cmd-clearhistory = scancella stöia
@@ -341,6 +345,8 @@ quickactions-help = Guidda de { -brand-product-name }
 quickactions-inspector2 = Arvi Strumenti do svilupatô
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Çerni 'n cô
+# Opens Firefox Library
+quickactions-cmd-library = Libraia
 quickactions-library = Arvi Libraia
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
@@ -352,6 +358,7 @@ quickactions-print2 = Stanpa pagina
 quickactions-cmd-print = stanpa
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sarva pagina comme PDF
+quickactions-cmd-savepdf2 = pdf, sarva pagina
 # Opens a new private browsing window
 quickactions-private2 = Arvi barcon privòu
 quickactions-cmd-private = navegaçion privâ
@@ -367,9 +374,13 @@ quickactions-screenshot3 = Fanni föto do schermo
 quickactions-translate = Traduci
 quickactions-cmd-translate = Traduci
 quickactions-cmd-screenshot = föto do schermo
+quickactions-cmd-themes = Temi
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Agiorna { -brand-short-name }
 quickactions-cmd-update = agiorna
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Mostra sorgente da pagina
+quickactions-cmd-viewsource = veddi sorgente, sorgente
 
 ## Bookmark Panel
 
@@ -427,6 +438,8 @@ identity-clear-site-data =
     .label = Scancella cookie e dæti di sciti…
 identity-connection-not-secure-security-view = Ti no ê conesso in mòddo seguo a sto scito.
 identity-ev-owner-label = Certificati publicou da:
+identity-verifier-label = Verificou da:
+identity-cert-exception-overridden = T’æ azonto 'na eceçion de seguessa pe sto scito.
 identity-remove-cert-exception =
     .label = Scancella Eceçion
     .accesskey = S
@@ -453,10 +466,46 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Riduci
+browser-window-maximize-button =
+    .tooltiptext = Mascimizza
 browser-window-restore-down-button =
     .tooltiptext = Repiggia zù
 browser-window-close-button =
     .tooltiptext = Særa
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Inderæ
+
+## Tab actions
+
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = RIPRODUÇION
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MUTTO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = RIPRODUÇION AOTOMATICA BLOCÂ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] DIZATIVA AODIO FEUGGIO
+       *[other] DIZATIVA AODIO { $count } FEUGGI
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ATIVA AODIO FEUGGIO
+       *[other] ATIVA AODIO { $count } FEUGGI
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] RIPRODUXI FEUGGIO
+       *[other] RIPRODUXI { $count } FEUGGI
+    }
 
 ## WebRTC Pop-up notifications
 
@@ -491,6 +540,38 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Scrivi indirisso ò iniçia riçerca
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .aria-label = Çerca con { $engine }
+    .placeholder = Çerca inta Ræ
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Scrivi termini de riçerca
+    .aria-label = Çerca { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .aria-label = Çerca segnalibbri
+    .placeholder = Scrivi termini de riçerca
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .aria-label = Çerca inta stöia
+    .placeholder = Scrivi termini de riçerca
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .aria-label = Çerca feuggi
+    .placeholder = Scrivi termini de riçerca
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .aria-label = Çerca açioin
+    .placeholder = Scrivi termini de riçerca
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -518,6 +599,8 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = Çerca con { $engine }
 urlbar-result-action-switch-tab = Vanni a-o feuggio
 urlbar-result-action-visit = Vixita
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Còpia
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
@@ -540,6 +623,19 @@ urlbar-searchmode-actions2 = Açioin
 urlbar-result-action-search-bookmarks = Çerca Segnalibbri
 urlbar-result-action-search-history = Çerca Stöia
 urlbar-result-action-search-tabs = Çerca inte schede.
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Passa a { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Arvi { $group }
+
+## Labels shown above groups of urlbar results
+
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Reader View toolbar buttons
 
