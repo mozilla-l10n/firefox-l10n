@@ -459,8 +459,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Tieni { -brand-short-name } sempre a portata di mano: impostalo come predefinito e mantienilo nel Dock.
        *[other] Tieni { -brand-short-name } sempre a portata di mano: impostalo come predefinito e mantienilo nella barra delle applicazioni.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Tieni { -brand-short-name } sempre a portata di mano
+       *[other] Apri tutti i link con { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Impostalo come browser predefinito e mantienilo nel Dock.
+       *[other] Naviga più velocemente e proteggi automaticamente la tua privacy.
+    }
 set-default-menu-message-primary-button = Imposta come predefinito
 set-default-menu-message-primary-button-variant = Imposta come browser principale
+set-default-menu-message-primary-button-short-variant = Imposta { -brand-short-name } come predefinito
 
 ## Firefox Relay 50 Masks Announcement
 

@@ -271,4 +271,3 @@ link-preview-onboarding-close = Chiudi
 link-preview-first-time-setup-title = Configurazione iniziale
 # Message for the first-time setup modal
 link-preview-first-time-setup-message = Questa operazione potrebbe richiedere alcuni minuti. I punti chiave verranno visualizzati più velocemente la prossima volta.
-
