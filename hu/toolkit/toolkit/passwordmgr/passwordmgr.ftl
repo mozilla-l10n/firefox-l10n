@@ -10,10 +10,10 @@
 password-manager-save-password-message = Menti a jelszót ehhez: { $host }?
 password-manager-save-password-button-deny =
     .label = Most nem
-    .accesskey = M
+    .accesskey = n
 password-manager-save-password-button-allow =
     .label = Mentés
-    .accesskey = e
+    .accesskey = M
 password-manager-save-password-button-never =
     .label = Sose mentse
     .accesskey = S
