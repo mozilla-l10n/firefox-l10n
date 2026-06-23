@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Gofyn i { $provider }
 genai-menu-new-badge = Newydd
 genai-menu-summarize-page = Crynhoi Tudalen
+genai-input-ask-smart-window =
+    .placeholder = Gofynnwch…
 genai-input-ask-generic =
     .placeholder = Gofyn i'r sgwrsfot AI…
 # $provider (string) - name of the provider
@@ -113,6 +115,9 @@ genai-menu-ask-provider-2 =
     .accesskey = G
 genai-menu-no-provider-2 =
     .label = Gofyn i Sgwrsfot AI
+    .accesskey = G
+genai-menu-ask-smart-window =
+    .label = Gofynnwch…
     .accesskey = G
 
 ## Chatbot header
