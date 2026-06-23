@@ -954,7 +954,7 @@ newtab-widget-lists-name-default = Sjekkliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
-newtab-widget-timer-notification-title = Nedtelling
+newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Fokustiden er over. Bra jobbet. Trenger du en pause?
 newtab-widget-timer-notification-break = Pausen din er over. Klar til å fokusere?
 newtab-widget-timer-notification-warning = Varsler er av

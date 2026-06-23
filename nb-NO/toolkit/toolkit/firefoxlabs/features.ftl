@@ -74,11 +74,11 @@ experimental-features-newtab-widget-timer =
     .label = Timer på { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-new =
     .label = Timer
-experimental-features-newtab-widget-timer-description = Sett en timer for å holde fokus, minne deg på å holde deg på sporet eller minne deg på å lade opp. <a data-l10n-name="connect">Del tilbakemelding</a>
+experimental-features-newtab-widget-timer-description = Still inn en timer for å holde fokus, gi deg et lite puff for å holde deg på sporet, eller minne deg på å ta en pause. <a data-l10n-name="connect">Del tilbakemeldinger</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lister og timer på { -firefox-home-brand-name }
-experimental-features-newtab-widget-lists-and-timer-description = Hold huskelisten din lett tilgjengelig når du åpner en ny fane. Fra pakkelister til handlelister – lag planene dine i { -brand-product-name }. Sett en timer for å holde fokus, minne deg på å holde deg på sporet eller ta en pause. <a data-l10n-name="connect">Del tilbakemelding</a>
+experimental-features-newtab-widget-lists-and-timer-description = Hold huskelisten din lett tilgjengelig når du åpner en ny fane. Fra pakkelister til handlelister – lag planene dine i { -brand-product-name }. Still inn en timer for å holde fokus, minne deg på å holde deg på sporet eller ta en pause. <a data-l10n-name="connect">Del tilbakemelding</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Værmeldinger
