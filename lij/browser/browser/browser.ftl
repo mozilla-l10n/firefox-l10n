@@ -546,7 +546,7 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .aria-label = Çerca con { $engine }
+    .aria-label = Çerca con { $name }
     .placeholder = Çerca inta Ræ
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
