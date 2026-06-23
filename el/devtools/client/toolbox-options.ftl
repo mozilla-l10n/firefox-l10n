@@ -122,6 +122,9 @@ options-local-mode-label = Τοπική λειτουργία
 options-local-mode-domain-label = Προσαρμοσμένος τομέας:
 options-local-mode-origin-invalid = Αυτή η προέλευση δεν είναι έγκυρη
 options-local-mode-folder-label = Τοπικός φάκελος:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Αυτός ο φάκελος δεν υπάρχει ή δεν είναι έγκυρος.
 options-local-mode-toggle-enable = Ενεργοποίηση
 options-local-mode-toggle-disable = Απενεργοποίηση
 
