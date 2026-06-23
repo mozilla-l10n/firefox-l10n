@@ -972,6 +972,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Notifikaasjes útskeakelje
 newtab-widget-timer-menu-notifications-on = Notifikaasjes ynskeakelje
 newtab-widget-timer-menu-learn-more = Mear ynfo
+newtab-widget-timer-menu-button =
+    .aria-label = Timeropsjes
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topberjochten
 newtab-daily-briefing-card-menu-dismiss = Slute

@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = { $provider } freegje
 genai-menu-new-badge = Nij
 genai-menu-summarize-page = Side gearfetsje
+genai-input-ask-smart-window =
+    .placeholder = Fragen…
 genai-input-ask-generic =
     .placeholder = AI-chatbot freegje…
 # $provider (string) - name of the provider
@@ -104,6 +106,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = In AI-chatbot freegje
     .accesskey = c
+genai-menu-ask-smart-window =
+    .label = Fragen…
+    .accesskey = F
 
 ## Chatbot header
 
