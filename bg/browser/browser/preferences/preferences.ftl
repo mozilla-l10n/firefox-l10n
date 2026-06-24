@@ -2534,6 +2534,11 @@ preferences-doh-status-item-not-active-bad-url =
 preferences-doh-status-item-active =
     .message = DNS през HTTPS използва доставчика { $name }
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS през HTTPS не работи, защото се натъкнахме на грешка ({ $reason }) при опит за използване на местния доставчик { $name }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
     .message = DNS през HTTPS използва местния доставчик { $name }
@@ -2574,6 +2579,9 @@ browser-theme-group =
     .description = Стилизирайте { -brand-short-name } по ваш начин. Тематичните цветове се отнасят за лентите с инструменти, менютата и съобщенията.
 browser-theme-manage-link =
     .label = Управление на темите на { -brand-short-name }
+appearance-window-density-group =
+    .label = Плътност на прозореца
+    .description = Регулирайте разстоянието около елементите на прозореца като лента с инструменти, раздели и странична лента.
 appearance-window-density-radio-group =
     .aria-label = Плътност на прозореца
 appearance-window-density-automatic =
@@ -2675,6 +2683,10 @@ security-privacy-status-trackers-label =
         [one] { $trackerCount } тракера са блокирани през последния месец
        *[other] { $trackerCount } тракера са блокирани през последния месец
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Имате <a data-l10n-name="strict-tracking-protection">строга защита</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Разполагате с <a data-l10n-name="custom-tracking-protection">персонализирана защита</a>
 security-privacy-status-up-to-date-label = Разполагате с най-новото и безопасно издание на { -brand-short-name }
 security-privacy-status-update-needed-label = Налична е нова версия на { -brand-short-name }.
 security-privacy-status-update-error-label = { -brand-short-name } среща проблем със собствената си актуализация
@@ -2773,6 +2785,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-third-party-cookies =
+    .label = Бисквитките от трети страни са разрешени
+    .description = Бисквитките от трети страни се ползват за проследяване при посещаване на различни сайтове.
+security-privacy-issue-warning-password-manager =
+    .label = Управлението на пароли е изключено
+    .description = Мениджърите на пароли ви помагат да съхранявате силни пароли за вашите акаунти.
 security-privacy-issue-warning-popup-blocker =
     .label = Блокирането на изскачащи прозорци е изключено
     .description = Изскачащите прозорци са досадни и потенциално вредни.
@@ -2785,3 +2803,9 @@ security-privacy-issue-warning-safe-browsing =
 security-privacy-issue-warning-doh =
     .label = DNS през HTTPS е изключен
     .description = DNS през HTTPS крие какви сайтове посещавате от вашия мрежов доставчик.
+security-privacy-issue-warning-ech =
+    .label = Клиентът за шифроване Hello е изключен
+    .description = Клиентът за шифроване Hello скрива кои сайтове посещавате от вашия доставчик на интернет.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Автоматичното конфигуриране на прокси е включено
+    .description = Автоматичното конфигуриране на прокси може да позволи на ненадеждни мрежи да наблюдават вашата дейност.
