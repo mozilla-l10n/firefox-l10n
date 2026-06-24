@@ -211,3 +211,7 @@ tab-context-unload-n-tabs =
            *[other] Unload { $tabCount } Tabs
         }
     .accesskey = Unload { $tabCount } Tabs
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = ਅਣ-ਲੋਡ ਕਰੋ
+    .accesskey = U

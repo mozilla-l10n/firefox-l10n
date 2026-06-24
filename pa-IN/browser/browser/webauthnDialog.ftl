@@ -68,3 +68,13 @@ webauthn-allow = ਮਨਜ਼ੂਰ
     .accesskey = A
 webauthn-block = ਪਾਬੰਦੀ
     .accesskey = B
+webauthn-continue = ਜਾਰੀ ਰੱਖੋ
+    .accesskey = n
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } { $rpId } ਲਈ ਪਾਸ-ਕੀ ਬਣਾਉਣੀ ਚਾਹੁੰਦੀ ਹੈ।
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } { $rpId } ਲਈ ਪਾਸ-ਕੀ ਵਰਤਣੀ ਚਾਹੁੰਦੀ ਹੈ।
