@@ -37,6 +37,7 @@ ipprotection-feature-introduction-link-text-privacy-1 =
         [with-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN { -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
        *[no-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
     }
+ipprotection-feature-introduction-title-summer-promo = Máte nějaké cestovatelské plány? Vezměte si soukromí s sebou.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -58,6 +59,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Odebrat VPN z nástrojové lišty
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odebrat VPN z nástrojové lišty
+ipprotection-feature-introduction-button-open-vpn = Otevřít VPN
 ipprotection-feature-introduction-button-get-started = Začínáme
 
 ## Site settings callout
@@ -191,6 +193,7 @@ ipprotection-message-continuous-onboarding-autostart =
     }
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si bude pamatovat, které stránky jste nastavili pro používání VPN. Toto můžete kdykoliv změnit v <a data-l10n-name="setting-link">nastavení</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pro tuto stránku vypnutá
+ipprotection-come-back-title = Vraťte se a vyzkoušejte vestavěnou VPN
 ipprotection-connection-status-generic-error-title-1 = Nepodařilo se připojit k VPN
     .aria-label = Nepodařilo se připojit k VPN
 
@@ -274,6 +277,11 @@ ip-protection-exclusions-desc = Používat VPN pro všechny webové stránky kro
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Zbývá { $usageLeft } GB z { $maxUsage } GB pro tento měsíc
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Zbývá <span data-l10n-name="usage">{ $usageLeft } GB</span> z { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -282,6 +290,11 @@ ip-protection-bandwidth-left-gb = Zbývá { $usageLeft } GB z { $maxUsage } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Zbývá { $usageLeft } MB z { $maxUsage } GB pro tento měsíc
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Zbývá <span data-l10n-name="usage">{ $usageLeft } MB</span> z { $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
