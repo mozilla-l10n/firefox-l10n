@@ -96,6 +96,7 @@ permissions-exceptions-cookie-desc = Puedes especificar qué sitios siempre o nu
 permissions-exceptions-shutdown-clearing-window =
     .title = Excepciones - Borrar historial al apagar el sistema.
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Puedes especificar qué sitios web conservarán tus datos cuando { -brand-short-name } borre el historial al cerrar. Escribe la dirección exacta del sitio que deseas administrar y, a continuación, haz clic en Permitir.
 
 ## Exceptions - HTTPS-Only Mode
 
