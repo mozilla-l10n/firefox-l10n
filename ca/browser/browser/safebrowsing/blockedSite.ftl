@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Aquest lloc web és enganyós
 safeb-blocked-malware-page-title = Si visiteu aquest lloc web, podríeu malmetre l'ordinador
 safeb-blocked-unwanted-page-title = El lloc web que voleu visitar pot contenir programes maliciosos
 safeb-blocked-harmful-page-title = El lloc web que voleu visitar pot contenir programari maliciós
+safeb-blocked-addon-page-title = S'ha blocat aquest lloc per a la vostra seguretat
 safeb-blocked-phishing-page-short-desc = El { -brand-short-name } ha blocat aquesta pàgina perquè podria intentar enganyar-vos perquè feu alguna acció perillosa, com instal·lar programari o revelar informació personal (per exemple, contrasenyes o targetes de crèdit).
 safeb-blocked-malware-page-short-desc = El { -brand-short-name } ha blocat aquesta pàgina perquè podria intentar instal·lar programari maliciós que pot robar la vostra informació personal de l'ordinador o suprimir-la.
 safeb-blocked-unwanted-page-short-desc = El { -brand-short-name } ha blocat aquesta pàgina perquè podria intentar enganyar-vos perquè instal·leu programes que poden perjudicar la vostra experiència de navegació (per exemple, us poden canviar la pàgina d'inici o mostrar anuncis addicionals als llocs que visiteu).
 safeb-blocked-harmful-page-short-desc = El { -brand-short-name } ha blocat aquesta pàgina perquè podria intentar instal·lar aplicacions perilloses que roben la vostra informació o l'eliminen (per exemple, fotos, contrasenyes, missatges i targetes de crèdit).
+safeb-blocked-addon-page-short-desc = El { -brand-short-name } ha blocat aquesta pàgina perquè un dels complements ha intentat obrir-la. Aquest lloc es podria utilitzar per robar informació, com ara contrasenyes o números de targeta de crèdit.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Assessorament proporcionat per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,12 @@ safeb-blocked-harmful-page-learn-more = Per obtenir més informació sobre la pr
 safeb-palm-notdeceptive =
     .label = No és cap lloc enganyós…
     .accesskey = N
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Per què s'ha blocat aquest lloc web?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> pot estar relacionat amb activitats enganyoses i malicioses.
+safeb-blocked-addon-page-error-desc3-override = <strong>Què hi podeu fer?</strong>
+safeb-blocked-addon-page-error-desc4-override = Per evitar que això torni a passar, podeu eliminar o desactivar <strong>{ $addonName }</strong> des d'about:addons.

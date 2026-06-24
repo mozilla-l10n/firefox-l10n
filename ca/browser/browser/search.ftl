@@ -40,10 +40,44 @@ remove-search-engine-button = D'acord
 
 reset-search-settings-button = D’acord
 
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine-add = Afegeix
+install-search-engine-no = No
+
 ## The following strings are used as input labels.
 
 add-engine-window =
     .title = Afegeix un motor de cerca
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Edita el motor de cerca
+    .style = min-width: 32em;
 add-engine-button = Afegeix un motor personalitzat
 add-engine-name = Nom del motor de cerca
+add-engine-url2 = URL amb %s en el lloc del terme de cerca
+add-engine-keyword2 = Paraula clau (opcional)
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-name-placeholder =
+    .placeholder = per exemple, Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = per exemple, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = per exemple, @mdn
+
+## The following strings are used as error messages.
+
+add-engine-keyword-exists = Aquesta paraula clau ja s'està utilitzant. Proveu-ne una altra.
+add-engine-name-exists = Aquest nom ja s'està utilitzant. Trieu-ne un altre.
+add-engine-no-name = Afegiu un nom.
+add-engine-no-url = Introduïu un URL.
+add-engine-invalid-url = Aquest URL no sembla correcte. Reviseu-lo i torneu-ho a provar.
+add-engine-invalid-protocol = Aquest URL no sembla correcte. Feu servir un URL que comenci per http o https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Proveu d'incloure %s en el lloc del terme de cerca.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Proveu d'incloure %s en el lloc del terme de cerca.
