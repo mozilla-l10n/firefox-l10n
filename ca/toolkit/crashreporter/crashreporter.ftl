@@ -31,3 +31,10 @@ crashreporter-crash-identifier = ID de fallada: { $id }
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = No s'ha pogut obrir el fitxer ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = No s'ha pogut carregar el fitxer ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = No s'ha pogut crear el directori ({ $path })
+crashreporter-error-no-home-dir = Falta el directori d'inici
