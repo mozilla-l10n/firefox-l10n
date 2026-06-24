@@ -217,6 +217,9 @@ shortcuts-no-addons = No teniu cap extensió activada.
 shortcuts-no-commands = Les extensions següents no tenen dreceres:
 shortcuts-input =
     .placeholder = Escriviu una drecera
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Elimina la drecera
 shortcuts-browserAction2 = Activa el botó de la barra d'eines
 shortcuts-pageAction = Activeu l'acció de la pàgina
 shortcuts-sidebarAction = Mostra/amaga la barra lateral
