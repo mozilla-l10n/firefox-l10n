@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Chi potrebbe vedere la mia at
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Quando si chiudono tutte le finestre anonime vengono eliminati cookie, cronologia e dati dei siti web.
+about-private-browsing-nova-info-link = Chi potrebbe comunque vedere la mia attività?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = La tua navigazione non verrà salvata
+about-private-browsing-nova-info-subheader = Cancelleremo tutte le ricerche e gli accessi effettuati quando chiudi questa finestra. Le protezioni integrate di { -brand-short-name }, come il blocco degli elementi traccianti, rimangono attive.
