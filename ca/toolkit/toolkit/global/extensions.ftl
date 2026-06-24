@@ -15,7 +15,23 @@ webext-perms-header-with-perms = Voleu afegir { $extension }? Aquesta extensió 
 webext-perms-header-unsigned = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font.
 webext-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font. Aquesta extensió tindrà permís per:
 webext-perms-sideload-header = S'ha afegit { $extension }
+webext-perms-optional-perms-header2 = { $extension } sol·licita permisos addicionals.
 webext-perms-optional-perms-header = { $extension } sol·licita permisos addicionals.
+webext-perms-header2 = Afegeix { $extension }
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = Permisos necessaris:
+webext-perms-header-optional-settings = Paràmetres opcionals:
+webext-perms-header-update-required-perms = Permisos necessaris nous:
+webext-perms-header-optional-required-perms = Permisos nous:
+webext-perms-header-data-collection-is-none = Recollida de dades:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Recollida de dades necessàries nova:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Recollida de dades nova:
 
 ##
 
