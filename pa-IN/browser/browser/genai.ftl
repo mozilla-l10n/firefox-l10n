@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ
 genai-menu-new-badge = ਨਵਾਂ
 genai-menu-summarize-page = ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ
+genai-input-ask-smart-window =
+    .placeholder = …ਪੁੱਛੋ
 genai-input-ask-generic =
     .placeholder = …AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
 # $provider (string) - name of the provider
@@ -104,6 +106,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = …ਪੁੱਛੋ
+    .accesskey = z
 
 ## Chatbot header
 

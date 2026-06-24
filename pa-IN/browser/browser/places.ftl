@@ -266,3 +266,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਸਿਸਟਮ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ, ਕਿਉਂਕਿ { -brand-short-name } ਦੀ ਇੱਕ ਫਾਈਲ ਨੂੰ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਕੁਝ ਸੁਰੱਖਿਆ ਸਾਫਟਵੇਅਰ ਇਸ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰ ਸਕਦੇ ਹਨ।
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = ਨਵਾਂ
+    .label = ਫੋਲਡਰ ਸਾਂਝਾ ਕਰੋ

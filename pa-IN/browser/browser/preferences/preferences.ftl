@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = ਜਦੋਂ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਸ਼ੁਰੂ ਹੋਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਖੋਲ੍ਹੋ
     .accesskey = O
 windows-launch-on-login-disabled = ਇਸ ਪਸੰਦ ਨੂੰ Windows ਵਿੱਚ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ। ਬਦਲਣ ਲਈ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ <a data-l10n-name="startup-link">Startup Apps</a> ਨੂੰ ਵੇਖੋ।
+windows-launch-on-login-open-new-tab =
+    .label = ਇੱਕ ਨਵੀਂ ਟੈਬ ਵੀ ਖੋਲ੍ਹੋ
+    .accesskey = n
 windows-launch-on-login-profile-disabled = “ਵਰਤੋਂਕਾਰ ਪਰੋਫਾਇਲ ਚੁਣੋ” ਵਿੱਚ “{ profile-manager-use-selected.label }” ਚੁਣ ਕੇ ਇਸ ਪਸੰਦ ਨੂੰ ਸਮਰੱਥ ਕਰੋ।
 startup-restore-warn-on-quit =
     .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
@@ -1272,6 +1275,14 @@ containers-settings-button =
     .label = ਸੈਟਿੰਗਾਂ
 containers-remove-button =
     .label = ਹਟਾਓ
+containers-section-header2 =
+    .heading = ਕਨਟੇਨਰ ਸੈਟਿੰਗਾਂ
+containers-card-header2 =
+    .label = ਕਨਟੇਨਰ
+    .description = ਕਨਟੇਨਰ ਨਾਲ ਕੂਕੀਜ਼ ਵੱਖਰੇ ਕਰੋ ਤਾਂ ਕਿ ਤੁਸੀਂ ਇੱਕ ਸਾਈਟ ਲਈ ਵੱਖ-ਵੱਖ ਖਾਤਿਆਂ ਨੂੰ ਵਰਤ ਸਕੋ ਅਤੇ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਸੀਮਿਤ ਕਰ ਸਕੋ।
+containers-add-button2 =
+    .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .accesskey = A
 
 ## Account and sync
 

@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = ਨਵਾਂ
+    .placeholder = ਇੱਕ ਨਾਂ ਜੋੜੋ
+containers-icon-label2 =
+    .label = ਆਈਕਾਨ
+containers-color-label2 =
+    .label = ਰੰਗ
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = ਦਰੱਖਤ
 containers-icon-chill =
     .label = ਠੰਢ
+containers-window-new3 =
+    .title = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = { $name } ਕਨਟੇਨਰ ਸੈਟਿੰਗਾਂ
+    .style = min-width: 32em

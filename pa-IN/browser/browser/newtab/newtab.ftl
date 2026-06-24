@@ -971,6 +971,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
 newtab-widget-timer-menu-notifications-on = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
 newtab-widget-timer-menu-learn-more = ਹੋਰ ਜਾਣੋ
+newtab-widget-timer-menu-button =
+    .aria-label = ਟਾਈਮਰ ਚੋਣਾਂ
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = ਚੋਟੀਆਂ ਦੀਆਂ ਸੁਰਖੀਆਂ
 newtab-daily-briefing-card-menu-dismiss = ਖ਼ਾਰਜ ਕਰੋ
