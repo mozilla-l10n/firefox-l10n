@@ -202,3 +202,43 @@ bar-tooltip-cryptominer =
             [one] { $count } miner de criptomonedes ({ $percentage }%)
            *[other] { $count } miners de criptomonedes ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Proteccions de privadesa
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] Se n'ha bloquejat { $count } aquesta setmana
+       *[other] Se n'han bloquejat { $count } aquesta setmana
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } element de seguiment
+       *[other] { $count } elements de seguiment
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } generador d’empremtes digitals
+       *[other] { $count } generadors d’empremtes digitals
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } galeta de seguiment
+       *[other] { $count } galetes de seguiment
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } element de seguiment social
+       *[other] { $count } elements de seguiment social
+    }
+privacy-metrics-loading = S'estan carregant les estadístiques de protecció…
+privacy-metrics-error = No s'han pogut carregar les estadístiques de protecció.
+privacy-metrics-private-window = En les finestres privades, el { -brand-short-name } segueix blocant els elements de seguiment, però no conserva cap registre d'allò que bloca.
