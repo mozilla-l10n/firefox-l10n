@@ -94,8 +94,8 @@ permissions-exceptions-cookie-desc = באפשרותך לציין אילו אתר
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = חריגות - ניקוי היסטוריה בעת הכיבוי
     .style = { permissions-window2.style }
+    .title = חריגות - ניקוי היסטוריה בעת סגירת הדפדפן
 permissions-exceptions-shutdown-clearing-desc = באפשרותך לציין אילו אתרים ישאירו את הנתונים שלהם כאשר { -brand-short-name } מנקה את ההיסטוריה בעת סגירה. יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ולאחר מכן ללחוץ על ״לאפשר״.
 
 ## Exceptions - HTTPS-Only Mode
