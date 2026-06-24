@@ -855,6 +855,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = عطّل الإشعارات
 newtab-widget-timer-menu-notifications-on = فعّل الإشعارات
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
+newtab-widget-timer-menu-button =
+    .aria-label = خيارات المؤقت
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = أهم العناوين
 newtab-daily-briefing-card-menu-dismiss = أهمِل
