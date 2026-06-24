@@ -43,3 +43,14 @@ about-glean-feedback-settings-only =
     .message = Asetukset käytössä!
 about-glean-feedback-settings-and-ping =
     .message = Asetukset käytössä ja ping lähetetty!
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nimi
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tyyppi
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Arvo
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Toiminnot
+about-glean-metrics-table-settings-button = Asetukset
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Suodatin
