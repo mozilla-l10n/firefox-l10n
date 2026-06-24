@@ -1789,6 +1789,7 @@ forms-primary-pw-use-2 =
     .accesskey = h
 forms-primary-pw-set =
     .label = Nastavit hlavní heslo
+forms-primary-pw-on-2 = Hlavní heslo je <strong>ZAPNUTÉ</strong>
 forms-primary-pw-on =
     .label = Hlavní heslo je ZAPNUTÉ
 forms-primary-pw-change-2 =
@@ -1995,6 +1996,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Nastavení…
     .accesskey = t
+history-shutdown-exceptions =
+    .label = Spravovat výjimky
+    .accesskey = v
 history-clear-button =
     .label = Vymazat historii…
     .accesskey = V
@@ -2893,6 +2897,8 @@ browser-theme-manage-link =
             [with-cases] Spravovat vzhledy { -brand-short-name(case: "gen") }
            *[no-cases] Spravovat vzhledy aplikace { -brand-short-name }
         }
+appearance-window-density-radio-group =
+    .aria-label = Hustota oken
 related-settings-group =
     .label = Související nastavení
 related-settings-accessibility-link =

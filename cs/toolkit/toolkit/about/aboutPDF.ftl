@@ -8,6 +8,14 @@ about-pdf-title =
        *[no-cases] PDF editor v aplikaci { -brand-short-name }
     }
 about-pdf-header = { -brand-short-name } PDF
+about-pdf-dropzone =
+    .title = Sem pro začátek přetáhněte PDF nebo stiskněte Enter
+about-pdf-dropzone-hint = Pro začátek sem přetáhněte PDF
+about-pdf-dropzone-privacy-hint = Soubory zůstávají v soukromí na vašem zařízení.
+about-pdf-dropzone-invalid-file = Tento soubor není podporován. Pro pokračování vyberte PDF.
+about-pdf-dropzone-error-generic = Nahrávání se nezdařilo. Zkuste to znovu později.
+about-pdf-browse-files =
+    .label = Procházet soubory
 about-pdf-set-default =
     .label = Nastavit jako výchozí
 about-pdf-dismiss =

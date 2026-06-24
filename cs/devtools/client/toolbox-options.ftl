@@ -125,6 +125,11 @@ options-local-mode-origin-invalid = Tento zdroj není platný
 options-local-mode-folder-label = Místní složka:
 options-local-mode-toggle-enable = Povolit
 options-local-mode-toggle-disable = Zakázat
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Chcete odstranit mapování „{ $mappingOrigin }“?
+options-local-mode-new-mapping = Přidá nové místní mapování
 
 ## Advanced section
 
