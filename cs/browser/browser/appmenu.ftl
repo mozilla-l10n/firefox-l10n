@@ -19,6 +19,15 @@ appmenuitem-banner-update-unsupported =
     .label = Nekompatibilní systém pro novou aktualizaci
 appmenuitem-banner-update-restart =
     .label = Nová aktualizace — restartovat
+appmenu-nova-update-link = Restartovat a aktualizovat
+appmenu-nova-fxa-sign-in = Přihlásit se
+appmenu-nova-switch-device-promo =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Získáte v brzké době nové zařízení? Vezměte si { -brand-short-name(case: "acc") } s sebou!
+           *[no-cases] Získáte v brzké době nové zařízení? Vezměte si aplikaci { -brand-short-name } s sebou!
+        }
+appmenu-nova-switch-device-link = Jak převést vaše data
 appmenuitem-new-tab =
     .label = Nový panel
 appmenuitem-new-window =

@@ -82,3 +82,7 @@ about-private-browsing-cookie-banners-promo-body = Nyní automaticky odmítáme 
 about-private-browsing-felt-privacy-v1-info-header = Nezanechá stopy
 about-private-browsing-felt-privacy-v1-info-body = Když zavřete všechna anonymní okna, { -brand-short-name } vymaže vaše cookies, historii a data stránek.
 about-private-browsing-felt-privacy-v1-info-link = Kdo může vidět mou aktivitu?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Zavřením všech anonymních oken smažete cookies, historii a data stránek.
