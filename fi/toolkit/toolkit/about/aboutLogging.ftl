@@ -22,6 +22,8 @@ about-logging-some-elements-disabled = Lokitus määritetty URL-osoitteen kautta
 about-logging-log-modules-selection = Lokimoduulin valinta
 about-logging-new-log-modules = Uudet lokimoduulit:
 about-logging-logging-to-file = Lokitetaan tiedostoon
+about-logging-no-log-modules = Ei mitään
+about-logging-no-log-file = Ei mitään
 about-logging-logging-preset-selector-text = Lokituksen esiasetus:
 
 ## Logging presets

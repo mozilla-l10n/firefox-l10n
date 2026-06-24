@@ -333,6 +333,9 @@ has-seccomp-bpf = Seccomp-BPF (Järjestelmäkutsujen suodatus)
 has-seccomp-tsync = Seccomp-säikeiden synkronointi
 has-user-namespaces = Käyttäjän nimiavaruudet
 has-privileged-user-namespaces = Käyttäjän nimiavaruudet etuoikeutetuille prosesseille
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Järjestelmäsi ei salli tätä ominaisuutta. Tämä voi rajoittaa { -brand-short-name } -palvelun suojausominaisuuksia.
 can-sandbox-content = Sisältöprosessin suorittaminen hiekkalaatikossa
 can-sandbox-media = Medialiitännäisen suorittaminen hiekkalaatikossa
 content-sandbox-level = Sisältöprosessin hiekkalaatikkotaso
