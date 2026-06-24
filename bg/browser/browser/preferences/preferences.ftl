@@ -2105,6 +2105,7 @@ content-blocking-convenience-exceptions-3 =
     .label = Поправяне на незначителни проблеми със сайта
     .description = Възстановяване на неща като видеоклипове в статия или секции за коментари чрез отблокиране на елементи, които могат да съдържат тракери. Това може да намали проблемите на сайта, но предлага по-малко защита. Трябва да се използва с поправки за основни проблеми.
 content-blocking-baseline-uncheck-warning-dialog-title = Сигурни ли сте, че искате да изключите корекциите?
+content-blocking-baseline-uncheck-warning-dialog-body = Тази настройка помага за отстраняването на най-често срещаните проблеми със сайта. Ако е изключено някои сайтове може да не работят, а { -brand-short-name } няма да може да помогне за отстраняването на тези проблеми.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Изключване на корекциите
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Дръжте корекциите включени
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
@@ -2527,6 +2528,11 @@ preferences-doh-status-item-off =
     .message = DNS през HTTPS е изключен
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS през HTTPS не работи, защото срещнахме грешка ({ $reason }) при опит за използване на доставчика { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = DNS през HTTPS не работи, защото получихме невалиден URL ({ $reason })
 # Variables:
@@ -2610,6 +2616,7 @@ related-settings-tabs-browsing-link =
 
 ## AI controls page
 
+preferences-ai-controls-description = Винаги имате избор в { -brand-short-name }, включително дали да използвате функции, подобрени с AI. Очаквайте още контроли скоро.
 preferences-ai-controls-block-ai-label = Блокиране на AI подобренията
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
