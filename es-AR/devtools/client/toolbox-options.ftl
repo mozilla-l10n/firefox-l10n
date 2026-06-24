@@ -137,6 +137,8 @@ options-local-mode-choose-folder-picker-title = Seleccionar carpeta de modo loca
 # Error shown when the folder is invalid
 # (can easily be triggered when using about:config and changing underlying mappings prefs)
 options-local-mode-folder-invalid = Esta carpeta no existe o no es válida.
+options-local-mode-toggle =
+    .title = Activar/desactivar este mapeo local
 options-local-mode-toggle-enable = Habilitar
 options-local-mode-toggle-disable = Deshabilitar
 options-local-mode-navigate-to =
