@@ -1301,6 +1301,9 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = Профил
+account-disabled-group =
+    .label = Сметка
+    .description = Настройките за сметката не са достъпни.
 account-placeholder2 =
     .label = Не сте вписани
     .description = Влезте и запазете данните си поверителни, криптирани и незабавно достъпни навсякъде, където използвате { -brand-short-name }.
@@ -2609,6 +2612,8 @@ appearance-window-density-touch =
     .description = Увеличени елементи на интерфейса и по-големи интерактивни бутони, оптимизирани за работа с тъчскрийн.
 related-settings-group =
     .label = Свързани настройки
+related-settings-accessibility-link =
+    .label = Персонализирайте настройките за мащабиране и шрифт в секцията Достъпност
 related-settings-home-link =
     .label = Персонализирайте { -firefox-home-brand-name }
 related-settings-tabs-browsing-link =
@@ -2743,6 +2748,8 @@ preferences-etp-reload-tabs-hint =
     .message = Презаредете разделите, за да бъдат приложени тези промени.
 preferences-etp-reload-tabs-hint-button =
     .label = Презареждане на всички раздели
+preferences-etp-rfp-warning-message =
+    .message = Използвате резистентно снемане на пръстови отпечатъци (RFP), което заменя някои от настройките за защита от пръстови отпечатъци на { -brand-short-name }. Това може да наруши работата на някои сайтове.
 preferences-etp-level-warning-message =
     .heading = Внимание! Някои сайтове може да не работят според очакванията.
     .message = Някои сайтове вграждат тракери (елементи за проследяване) във функциите или съдържанието си. Когато { -brand-short-name } ги блокира, сайтът може да изглежда развален. Опитайте да използвате „Докладване на проблем със сайта“ или изключете защитата от проследяване за този сайт.
@@ -2792,6 +2799,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Известните скриптове не са блокирани
+    .description = Това може да позволи на някои тракери да ви следват без бисквитки.
 security-privacy-issue-warning-third-party-cookies =
     .label = Бисквитките от трети страни са разрешени
     .description = Бисквитките от трети страни се ползват за проследяване при посещаване на различни сайтове.
