@@ -21,6 +21,9 @@ permissions-session =
 permissions-allow =
     .label = Permet
     .accesskey = P
+permissions-add =
+    .label = Afegeix
+    .accesskey = A
 permissions-button-off =
     .label = Desactiva
     .accesskey = D
@@ -96,6 +99,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a aquests llocs. Les excepcions no s'apliquen a les finestres privades.
 permissions-exceptions-https-only-desc2 = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura per a aquests llocs.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Llocs web permesos - Finestres emergents i redireccions de tercers
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -170,6 +179,18 @@ permissions-site-camera-desc = Els llocs web següents han sol·licitat accés a
 permissions-site-camera-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la càmera
 permissions-site-camera-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la càmera. Blocar l'accés a la càmera podria fer que algunes funcions dels llocs web no funcionin correctament.
+
+## Site Permissions - Loopback network
+
+permissions-site-localhost-window =
+    .style = { permissions-window2.style }
+    .title = Paràmetres - Aplicacions i serveis del dispositiu
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .style = { permissions-window2.style }
+    .title = Paràmetres - Dispositius de la xarxa local
 
 ## Site Permissions - Microphone
 

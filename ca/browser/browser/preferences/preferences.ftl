@@ -1114,6 +1114,9 @@ search-engine-group =
     .label = Motor de cerca per defecte
 search-default-engine =
     .aria-label = Motor de cerca per defecte
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Cerca
 
 ## Containers Section
 
@@ -1137,6 +1140,13 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronització
+account-group-label2 =
+    .label = Compte
+account-placeholder2 =
+    .label = No heu iniciat la sessió
+    .description = Inicieu la sessió i mantingueu les vostres dades privades, xifrades i accessibles instantàniament arreu on useu el { -brand-short-name }
+account-sync-section =
+    .heading = Compte i sincronització
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1259,6 +1269,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Actualment, sincronitzeu aquests elements en tots els vostres dispositius connectats:
 sync-syncing-across-devices-heading-2 = Dades sincronitzades entre dispositius
+sync-syncing-across-devices-empty-state2 =
+    .label = Gestiona les dades sincronitzades
+    .description = Encara no esteu sincronitzant res… Comenceu a sincronitzar per accedir a totes les vostres dades en tots els vostres dispositius.
 sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestanyes obertes
@@ -1275,6 +1288,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Gestiona les dades sincronitzades
     .accesskey = G
+settings-sync-disconnect-button =
+    .label = Desconnecta
 sync-change-options =
     .label = Canvia…
     .accesskey = C
@@ -2055,6 +2070,7 @@ collection-header2 = Ús i recollida de dades i del { -brand-short-name }
     .searchkeywords = telemetria
 preferences-collection-description = Ens esforcem per oferir-vos opcions i només recollim el mínim de dades necessàries per millorar el { -brand-product-name } per a tothom.
 preferences-collection-privacy-notice = Mostra l'avís de privadesa
+preferences-across-profiles = Aquests paràmetres s'apliquen a tots els perfils del { -brand-product-name } d'aquest dispositiu.
 preferences-view-profiles = Mostra tots els perfils
 collection-description = Ens esforcem per oferir-vos opcions i només recollim allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
 collection-privacy-notice = Avís de privadesa
@@ -2093,6 +2109,7 @@ collection-health-report-disabled2 = L'informe de dades està desactivat en la c
 collection-backlogged-crash-reports2 =
     .label = Envia automàticament informes de fallada
     .accesskey = c
+collection-backlogged-crash-reports-description = Això ajuda a { -vendor-short-name } a diagnosticar i solucionar problemes del navegador. Els informes poden incloure dades personals o confidencials.
 addon-recommendations =
     .label = Permet que el { -brand-short-name } faci recomanacions personalitzades d'extensions
 addon-recommendations-link = Més informació
@@ -2211,6 +2228,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Mode només HTTPS
     .description = Permet només connexions segures als llocs web. El { -brand-short-name } us preguntarà abans de connectar-se de manera no segura.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2281,8 +2300,24 @@ choose-download-folder-title = Tria la carpeta de baixades:
 
 ## AI controls page
 
+preferences-ai-controls-block-ai-label = Bloca les millores basades en IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-control =
+    .label = Traduccions
+    .description = Navegueu sense problemes per la web en la vostra llengua preferida.
+preferences-ai-controls-translations-more-link = Més paràmetres de traducció
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponible
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Activat
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blocat
+preferences-ai-controls-block-confirmation-translations = Traduccions
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggeriments de grups de pestanyes
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel·la
 preferences-ai-controls-block-confirmation-confirm =

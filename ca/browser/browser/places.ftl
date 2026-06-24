@@ -266,3 +266,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Les adreces d'interès i l'historial no seran funcionals perquè un dels fitxers del { -brand-short-name } l'utilitza una altra aplicació. Cert programari de seguretat podria estar provocant aquest problema.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = Nou
+    .label = Comparteix la carpeta

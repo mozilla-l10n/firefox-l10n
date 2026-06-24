@@ -579,6 +579,7 @@ onboarding-refresh-pin-set-default-subtitle = Protegim les vostres dades i imped
 onboarding-refresh-pin-set-default-title = Esteu en bones grapes
 onboarding-refresh-import-subtitle = Importeu les contrasenyes, les adreces d'interès, l'historial i molt més.
 onboarding-refresh-import-title = Sentiu-vos com a casa amb el { -brand-short-name }
+onboarding-refresh-onboarding-addons-subtitle = Les extensions són petites aplicacions que permeten personalitzar el { -brand-short-name }. Poden incrementar la privadesa, millorar la productivitat, canviar l'aspecte del { -brand-short-name } i molt més.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Doneu impuls a la vostra navegació
 onboarding-refresh-sync-subtitle = Accediu a les adreces d'interès, les contrasenyes i molt més arreu on tingueu una sessió iniciada en el { -brand-short-name }. A més, les vostres dades estan xifrades perquè no les pugui veure ningú més.
