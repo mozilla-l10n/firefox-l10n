@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Kthehu mbrapsht
+back-nav-button-title2 =
+    .title = Kthehu mbrapsht
+    .aria-label = Kthehu mbrapsht
