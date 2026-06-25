@@ -82,3 +82,4 @@ about-private-browsing-felt-privacy-v1-info-link = Quem pode ver minha atividade
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Fechar todas as janelas privativas exclui seus cookies, histórico e dados de sites.
+about-private-browsing-nova-info-link = Quem ainda pode ver minha atividade?
