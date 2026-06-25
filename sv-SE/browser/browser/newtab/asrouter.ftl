@@ -463,8 +463,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Ha alltid { -brand-short-name } nära till hands — gör den till din standard och behåll den i Dock.
        *[other] Ha alltid { -brand-short-name } nära till hands — gör den till din standard och behåll den i aktivitetsfältet.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Ha alltid { -brand-short-name } nära till hands
+       *[other] Öppna alla länkar med { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Gör den till din standard och behåll den i Dock.
+       *[other] Få snabbare surfning och automatiskt integritetsskydd.
+    }
 set-default-menu-message-primary-button = Ange som standard
 set-default-menu-message-primary-button-variant = Ange som primär webbläsare
+set-default-menu-message-primary-button-short-variant = Gör { -brand-short-name } till standard
 
 ## Firefox Relay 50 Masks Announcement
 
