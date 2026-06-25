@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Doties atpakaļ
+back-nav-button-title2 =
+    .title = Doties atpakaļ
+    .aria-label = Doties atpakaļ
