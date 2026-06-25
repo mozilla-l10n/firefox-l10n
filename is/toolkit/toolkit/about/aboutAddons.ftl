@@ -120,6 +120,8 @@ private-browsing-description2 =
     huliðsvafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
     þar. Við höfum gert þessa breytingu til að halda huliðsvafri þínu leyndu.
     <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum forritsauka</label>
+aboutaddons-sidebar =
+    .heading = Viðbætur
 addon-category-discover = Mælt með
 addon-category-discover-title =
     .title = Mælt með
@@ -463,7 +465,10 @@ available-updates-heading = Tiltækar uppfærslur
 recent-updates-heading = Nýlegar uppfærslur
 release-notes-loading = Hleður…
 release-notes-error = Því miður kom upp villa við að sýna útgáfuupplýsingar.
+addon-permissions-heading = Heimildir
 addon-permissions-empty2 = Þessi forritsauki þarf engar heimildir.
+addon-permissions-required-label = Nauðsynlegt:
+addon-permissions-optional-label = Valkvætt:
 addon-permissions-empty = Þessi forritsauki þarf engar heimildir
 addon-permissions-required = Nauðsynlegar heimildir fyrir kjarnavirkni:
 addon-permissions-optional = Valfrjálsar heimildir fyrir aukna virkni:
@@ -559,6 +564,7 @@ permissions-data-addon-button = Heimildir og gögn
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Notað af { $extensionName } forritsaukanum
+addon-permissions-data-collection-heading = Gagnasöfnun
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
