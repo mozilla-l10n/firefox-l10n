@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = 뒤로 가기
+back-nav-button-title2 =
+    .title = 뒤로 가기
+    .aria-label = 뒤로 가기
