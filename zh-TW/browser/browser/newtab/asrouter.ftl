@@ -460,6 +460,16 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的 Dock，方便隨手開啟。
        *[other] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的工具列，方便隨手開啟。
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 設為預設程式
+       *[other] 用 { -brand-short-name } 開啟所有鏈結
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] 設為預設程式，並放置於 Dock 中。
+       *[other] 讓上網更快、自動保護您的隱私。
+    }
 set-default-menu-message-primary-button = 設為預設瀏覽器
 set-default-menu-message-primary-button-variant = 設為主要瀏覽器
 set-default-menu-message-primary-button-short-variant = 將 { -brand-short-name } 設為預設瀏覽器
