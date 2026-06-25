@@ -82,3 +82,4 @@ about-private-browsing-felt-privacy-v1-info-link = Kven kan kanskje sjå aktivit
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Når du lèt att alle private vindauge, vert infokapslane, historikken og nettstaddataa dine sletta.
+about-private-browsing-nova-info-link = Kven kan framleis sjå aktiviteten min?
