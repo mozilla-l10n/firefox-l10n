@@ -83,3 +83,4 @@ about-private-browsing-felt-privacy-v1-info-link = Hvem kan ha mulighet til å s
 
 about-private-browsing-nova-info-body = Når du lukker alle private vinduer, slettes infokapslene, historikken og nettstedsdataene dine.
 about-private-browsing-nova-info-link = Hvem kan fortsatt se aktiviteten min?
+about-private-browsing-nova-info-subheader = Vi sletter alle søk og innlogginger når du lukker dette vinduet. { -brand-short-name } sin innebygde beskyttelse er også aktiv her, for eksempel blokkering av sporere.
