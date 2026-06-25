@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Cine ar putea să îmi vadă 
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Închiderea tuturor ferestrelor private șterge cookie-urile, istoricul și datele site-ului.
+about-private-browsing-nova-info-link = Cine ar putea să-mi vadă în continuare activitatea?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Navigarea ta nu este înregistrată
+about-private-browsing-nova-info-subheader = Vom șterge toate căutările și autentificările când închizi această fereastră. Protecțiile încorporate din { -brand-short-name } sunt și aici, cum ar fi blocarea elementelor de urmărire.

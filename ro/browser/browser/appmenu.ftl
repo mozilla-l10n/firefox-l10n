@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Nu se poate actualiza — sistem incompatibil
 appmenuitem-banner-update-restart =
     .label = Actualizare disponibilă — repornește acum
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Obține un { -brand-short-name } nou. Păstrează-ți toate filele.
+appmenu-nova-update-link = Repornește pentru actualizare
+appmenu-nova-fxa-sign-in = Intră în cont
+appmenu-nova-switch-device-promo =
+    .message = Primești în curând un dispozitiv nou? Ia { -brand-short-name } cu tine!
+appmenu-nova-switch-device-link = Cum să-ți migrezi datele
 appmenuitem-new-tab =
     .label = Filă nouă
 appmenuitem-new-window =

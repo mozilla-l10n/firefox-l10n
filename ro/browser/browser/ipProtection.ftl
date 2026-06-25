@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de confidențialitate
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ul încorporat din { -brand-product-name }</a> ajută la protejarea ta în timpul navigării. Alege din mai multe locații ca să îți păstrezi mai private locurile pe unde intri.
+ipprotection-feature-introduction-link-text-privacy-2 = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre locații multiple pentru confidențialitatea locurilor pe unde mergi pe internet.
+ipprotection-feature-introduction-link-text-privacy-3 = Obține <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> alegând dintre locații multiple pentru a ascunde pe unde mergi pe internet.
+ipprotection-feature-introduction-text-summer-promo-1 = Activează-l pentru a-ți menține navigarea mai privată. <a data-l10n-name="summer-promo-link">Beneficiază de lățime de bandă nelimitată</a> și de mai multe locații din care să navighezi. Acum până pe 31 august.
+ipprotection-feature-introduction-title-summer-promo = Ai planuri de călătorie? Ia confidențialitatea cu tine.
+ipprotection-feature-introduction-description-summer-promo = Mergi mai departe cu VPN-ul încorporat în { -brand-product-name }: mai multe locații, lățime de bandă nelimitată. Acum până pe 31 august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
 # Used for callout shown on login to public wi-fi through a captive portal
