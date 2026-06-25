@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Επιστροφή
+back-nav-button-title2 =
+    .title = Επιστροφή
+    .aria-label = Επιστροφή
