@@ -469,8 +469,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a zachowajśo jen w swójim doku.
        *[other] Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a zachowajśo jen w nadawkowej rědce.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } k ruce wobchowaś
+       *[other] Wšykne wótkaze z { -brand-short-name } wócyniś
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] K standardoju cyniś a wašomu dokoju pśidaś.
+       *[other] Wobstarajśo se malsnjejše pśeglědowanje a awtomatiske šćit priwatnosći.
+    }
 set-default-menu-message-primary-button = Ako standard wužywaś
 set-default-menu-message-primary-button-variant = Ako głowny wobglědowak nastajiś
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } k standardnemu wobglědowakoju cyniś
 
 ## Firefox Relay 50 Masks Announcement
 

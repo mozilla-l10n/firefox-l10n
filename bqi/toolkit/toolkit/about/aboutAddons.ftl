@@ -15,6 +15,7 @@ detail-home-value =
     .value = { detail-home.label }
 addon-restart-now =
     .label = سکو دووارته ره ون
+disabled-unsigned-learn-more = زبار قپ ریتا ایما سی هیاری و زفت وابیڌن ٱمنیت ریتور ایسا قلوه دووسته بۊین.
 addon-category-extension = وردنی یل
 addon-category-extension-title =
     .title = وردنی یل
@@ -53,9 +54,15 @@ addon-detail-homepage-label = بلگه هووه ای
 
 ##
 
+addon-permissions-learnmore = زبار موجوزا قلوه دووسته بۊین
 recommended-extensions-heading = وردنی یل پؽشنهاڌ بیڌه
 
 ## Page headings
 
 locale-heading = زووا خوتووݩ ن دؽوۉداری کۊنین
 shortcuts-heading = دؽوۉداری ره نهنگا وردنی
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+addon-data-collection-learnmore = زبار کتن کردن داده یل قلوه دووسته بۊین

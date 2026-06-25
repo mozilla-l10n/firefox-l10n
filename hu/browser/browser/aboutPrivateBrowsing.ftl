@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Ki láthatja a tevékenysége
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Az összes privát ablak bezárása törli a sütijeit, előzményeit és oldaladatait.
+about-private-browsing-nova-info-link = Ki láthatja továbbra is a tevékenységemet?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = A böngészése nyomai törölve lesznek
+about-private-browsing-nova-info-subheader = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja ezt az ablakot. A { -brand-short-name } beépített védelme itt is be van kapcsolva, például a nyomkövetők blokkolása.

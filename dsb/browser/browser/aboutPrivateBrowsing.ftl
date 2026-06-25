@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Chto mógał móju aktiwitu w
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Gaž swóje priwatne wokna zacynjaśo, se waše cookieje, historija a sedłowe daty wulašuju.
+about-private-browsing-nova-info-link = Chto mógał hyšći móju aktiwitu wiźeś?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Wašo pśeglědowanje se njeskładujo
+about-private-browsing-nova-info-subheader = Wulašujomy kužde pytanje a pśizjawjenje, gaž toś to wokno zacynjaśo. Šćit, kótaryž jo w { -brand-short-name } zatwarjony, jo how teke zmóžnjony, na pśikład blokěrowanje pśeslědowakow.

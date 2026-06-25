@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Кто может видет�
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Закрытие всех ваших приватных окон удаляет ваши куки, историю и данные сайтов.
+about-private-browsing-nova-info-link = Кто ещё может видеть мою активность?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Вас не записывают
+about-private-browsing-nova-info-subheader = Мы удалим все поисковые запросы и входы, когда вы закроете это окно. Встроенная защита { -brand-short-name } тоже включена, например, блокировка трекеров.

@@ -466,8 +466,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Держите { -brand-short-name } под рукой — сделайте его браузером по умолчанию и оставьте его в доке.
        *[other] Держите { -brand-short-name } под рукой — сделайте его браузером по умолчанию и оставьте его на панели задач.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Держите { -brand-short-name } под рукой
+       *[other] Открывать все ссылки с помощью { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Сделайте его браузером по умолчанию и сохраните в свой Dock
+       *[other] Получите более быстрый веб-сёрфинг и автоматическую защиту приватности.
+    }
 set-default-menu-message-primary-button = Установить по умолчанию
 set-default-menu-message-primary-button-variant = Установить основным браузером
+set-default-menu-message-primary-button-short-variant = Сделать { -brand-short-name } браузером по умолчанию
 
 ## Firefox Relay 50 Masks Announcement
 

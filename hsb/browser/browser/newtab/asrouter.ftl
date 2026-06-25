@@ -474,6 +474,11 @@ set-default-menu-message-split-layout-title =
         [macos] { -brand-short-name } k ruce wobchować
        *[other] Wšě wotkazy z { -brand-short-name } wočinić
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] K standardej činić a wašemu dokej přidać
+       *[other] Wobstarajće sej spěšniše přehladowanje a awtomatiske škit priwatnosće.
+    }
 set-default-menu-message-primary-button = Jako standard wužiwać
 set-default-menu-message-primary-button-variant = Jako hłowny wobhladowak nastajić
 set-default-menu-message-primary-button-short-variant = { -brand-short-name } k standardnemu wobhladowakej činić

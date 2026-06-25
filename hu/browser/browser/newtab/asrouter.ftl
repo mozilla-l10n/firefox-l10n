@@ -463,8 +463,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezetté, és tartsa a Dokkon.
        *[other] Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezetté, és tartsa a tálcán.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Tartsa a { -brand-short-name } böngészőt egy karnyújtásnyira
+       *[other] Nyissa meg az összes hivatkozást a { -brand-short-name } böngészővel
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Tegye alapértelmezetté, és tartsa a Dokkban.
+       *[other] Kapjon gyorsabb böngészést és automatikus adatvédelmet.
+    }
 set-default-menu-message-primary-button = Beállítás alapértelmezettként
 set-default-menu-message-primary-button-variant = Beállítás elsődleges böngészőként
+set-default-menu-message-primary-button-short-variant = A { -brand-short-name } alapértelmezetté tétele
 
 ## Firefox Relay 50 Masks Announcement
 
