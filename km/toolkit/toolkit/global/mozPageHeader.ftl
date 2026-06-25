@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = ថយ​ក្រោយ
+back-nav-button-title2 =
+    .title = ថយ​ក្រោយ
+    .aria-label = ថយ​ក្រោយ
