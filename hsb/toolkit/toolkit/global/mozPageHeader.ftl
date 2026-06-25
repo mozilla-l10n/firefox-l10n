@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Wróćo
+back-nav-button-title2 =
+    .title = Wróćo
+    .aria-label = Wróćo

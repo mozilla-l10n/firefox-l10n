@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Nazaj
+back-nav-button-title2 =
+    .title = Nazaj
+    .aria-label = Nazaj

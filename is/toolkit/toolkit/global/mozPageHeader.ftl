@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Fara til baka
+back-nav-button-title2 =
+    .title = Fara til baka
+    .aria-label = Fara til baka

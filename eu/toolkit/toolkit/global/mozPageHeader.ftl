@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Joan atzera
+back-nav-button-title2 =
+    .title = Joan atzera
+    .aria-label = Joan atzera

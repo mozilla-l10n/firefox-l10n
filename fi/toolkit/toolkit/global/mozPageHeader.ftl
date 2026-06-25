@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Palaa edelliseen
+back-nav-button-title2 =
+    .title = Palaa edelliseen
+    .aria-label = Palaa edelliseen

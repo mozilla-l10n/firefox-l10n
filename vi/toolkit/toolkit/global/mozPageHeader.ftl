@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Quay lại
+back-nav-button-title2 =
+    .title = Quay lại
+    .aria-label = Quay lại

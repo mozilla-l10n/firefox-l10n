@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Вярнуцца назад
+back-nav-button-title2 =
+    .title = Вярнуцца назад
+    .aria-label = Вярнуцца назад

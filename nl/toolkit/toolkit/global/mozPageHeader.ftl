@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Terug
+back-nav-button-title2 =
+    .title = Terug
+    .aria-label = Terug

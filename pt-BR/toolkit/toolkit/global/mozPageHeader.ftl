@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Voltar
+back-nav-button-title2 =
+    .title = Voltar
+    .aria-label = Voltar

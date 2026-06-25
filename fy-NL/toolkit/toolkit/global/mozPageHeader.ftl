@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Tebek
+back-nav-button-title2 =
+    .title = Tebek
+    .aria-label = Tebek

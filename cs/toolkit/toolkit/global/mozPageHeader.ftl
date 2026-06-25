@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Zpátky
+back-nav-button-title2 =
+    .title = Zpátky
+    .aria-label = Zpátky

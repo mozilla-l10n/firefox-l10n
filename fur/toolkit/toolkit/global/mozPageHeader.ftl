@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Torne indaûr
+back-nav-button-title2 =
+    .title = Torne indaûr
+    .aria-label = Torne indaûr

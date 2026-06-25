@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Ugrás vissza
+back-nav-button-title2 =
+    .title = Ugrás vissza
+    .aria-label = Ugrás vissza

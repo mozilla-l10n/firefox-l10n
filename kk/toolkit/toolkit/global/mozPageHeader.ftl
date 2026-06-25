@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Артқа
+back-nav-button-title2 =
+    .title = Артқа
+    .aria-label = Артқа

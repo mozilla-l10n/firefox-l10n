@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = ਵਾਪਸ ਜਾਓ
+back-nav-button-title2 =
+    .title = ਵਾਪਸ ਜਾਓ
+    .aria-label = ਵਾਪਸ ਜਾਓ

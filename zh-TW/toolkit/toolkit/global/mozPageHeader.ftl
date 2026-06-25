@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = 回上一頁
+back-nav-button-title2 =
+    .title = 回上一頁
+    .aria-label = 回上一頁

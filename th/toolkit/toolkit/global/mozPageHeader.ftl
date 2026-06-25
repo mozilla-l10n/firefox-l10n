@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = ย้อนกลับ
+back-nav-button-title2 =
+    .title = ย้อนกลับ
+    .aria-label = ย้อนกลับ
