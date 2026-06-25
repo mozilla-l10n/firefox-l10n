@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = 返回
+back-nav-button-title2 =
+    .title = 返回
+    .aria-label = 返回
