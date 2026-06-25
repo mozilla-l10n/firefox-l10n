@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Mynd nôl
+back-nav-button-title2 =
+    .title = Mynd nôl
+    .aria-label = Mynd nôl
