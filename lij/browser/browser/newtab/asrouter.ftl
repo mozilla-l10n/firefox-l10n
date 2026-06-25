@@ -139,6 +139,18 @@ pdf-default-notification-decline-button =
 launch-on-login-infobar-final-reject-button = No graçie
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Arvî { -brand-short-name } a-a proscima acençion de l'elaboratô?
+launch-on-login-spotlight-startup-checkbox = Arvi { -brand-short-name } quando t'açendi l'elaboratô
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Arvi barcoin e feuggi existenti
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-primary-button =
@@ -158,3 +170,4 @@ root-certificate-windows-background-notification-update-button = Agiorna { -bran
 fxa-menu-message-close-button =
     .title = Særa
     .aria-label = Særa
+fxa-menu-message-sign-up-button = Registrite

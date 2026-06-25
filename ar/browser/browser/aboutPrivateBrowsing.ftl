@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = من يمكنه رؤية نش
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = يؤدي إغلاق جميع نوافذك الخاصة إلى حذف ملفات تعريف الارتباط وسجل التصفح وبيانات الموقع.
+about-private-browsing-nova-info-link = مَن قد يكون قادرًا على رؤية نشاطي؟
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = أنت خارج نطاق التسجيل
+about-private-browsing-nova-info-subheader = سنحذف جميع عمليات البحث والولوج عند إغلاق هذه النافذة. كما تتضمن هذه النافذة أيضًا وسائل الحماية المدمجة في { -brand-short-name }، مثل حظر المتعقّبات.
