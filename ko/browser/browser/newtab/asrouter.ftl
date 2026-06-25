@@ -462,6 +462,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = 기본으로 설정
 set-default-menu-message-primary-button-variant = 기본 브라우저로 설정
+set-default-menu-message-primary-button-short-variant = { -brand-short-name }를 기본 브라우저로 설정
 
 ## Firefox Relay 50 Masks Announcement
 

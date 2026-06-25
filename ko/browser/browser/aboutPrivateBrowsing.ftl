@@ -82,3 +82,8 @@ about-private-browsing-felt-privacy-v1-info-link = 누가 내 활동을 볼 수 
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = 모든 사생활 보호 창을 닫으면 쿠키, 기록 및 사이트 데이터가 삭제됩니다.
+about-private-browsing-nova-info-link = 누가 여전히 내 활동을 볼 수 있나요?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = 기록이 남지 않습니다
