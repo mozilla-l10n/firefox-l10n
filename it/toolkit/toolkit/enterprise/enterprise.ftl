@@ -73,3 +73,6 @@ enterprise-access-connector-status-label-active = attivo
 enterprise-access-connector-status-label-inactive = disattivato
 crashed-policy-auto-submit-title = I rapporti sugli arresti anomali ci aiutano a migliorare
 crashed-policy-auto-submit-message = L’amministratore ha configurato { -brand-short-name } per l’invio automatico delle segnalazioni di arresto anomalo.
+fp-neterror-access-connector-error-title = Impossibile raggiungere questo sito web
+fp-neterror-access-connector-error-description = La tua organizzazione utilizza un servizio di connessione sicura per questo sito web, ma il servizio non è al momento disponibile.
+fp-neterror-access-connector-error-contact-admin = Riprova più tardi o contatta l’amministratore se hai bisogno di accedere.
