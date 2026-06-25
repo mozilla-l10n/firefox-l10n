@@ -469,8 +469,14 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a wobchowajće jón w swojim doku.
        *[other] Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a wobchowajće jón w swojej nadawkej lajsće.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } k ruce wobchować
+       *[other] Wšě wotkazy z { -brand-short-name } wočinić
+    }
 set-default-menu-message-primary-button = Jako standard wužiwać
 set-default-menu-message-primary-button-variant = Jako hłowny wobhladowak nastajić
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } k standardnemu wobhladowakej činić
 
 ## Firefox Relay 50 Masks Announcement
 

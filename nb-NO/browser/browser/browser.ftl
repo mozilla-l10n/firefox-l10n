@@ -440,6 +440,7 @@ quickactions-cmd-print = utskrift, skriv ut
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lagre side som PDF
 quickactions-cmd-savepdf2 = pdf, lagre side
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åpne privat vindu
 quickactions-cmd-private = privat nettlesing

@@ -5,7 +5,7 @@
 
 ## Error page titles
 
-neterror-page-title = Էջը բեռնելու խնդիր
+neterror-page-title = Էջի բեռնման խնդիր
 certerror-page-title = Զգուշացում․ Հավանական ավտանգության վտանգ է առկա
 certerror-sts-page-title = Չկապվեց․ Անվտանգության հնարավոր պոտենցիալ
 neterror-blocked-by-policy-page-title = Արգելափակված էջ
@@ -146,6 +146,7 @@ neterror-response-status-code = Սխալի կոդ՝ { $responsestatus } { $respo
 
 fp-neterror-connection-intro = { -brand-short-name }-ը չկարողացավ անվտանգ կապակցում հաստատել { $hostname } սպասարկիչի հետ։
 fp-neterror-offline-intro = { -brand-short-name }-ը չի կարողանում կապակցվել <strong>{ $hostname } </strong> սպասարկիչի հետ:
+fp-neterror-offline-intro-2 = { -brand-short-name }-ը չի կարողանում միանալ <strong>{ $hostname } </strong> հասցեով գտնվող սերվերին։
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> սպասարկիչը չափազանց երկար է պատասխանում։
 fp-neterror-offline-what-can-you-do-body = Փորձեք կապակցվել այլ սարքից։ Ստուգեք ձեր մոդեմը կամ երթուղիչը։ Անջատեք և վերամիացեք Wi-Fi-ին։
 fp-neterror-vpn-error-description = Փորձեք կրկին մի քանի րոպեից։
