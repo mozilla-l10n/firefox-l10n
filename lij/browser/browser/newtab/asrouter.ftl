@@ -53,6 +53,10 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizza i teu segnalibbri dapertùtto.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizza i segnalibbri òua…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .title = Særa
+    .aria-label = Pomello pe serâ
+fxa-adoption-primary-button-label = Registrite
 
 ## Protections panel
 
@@ -103,6 +107,10 @@ firefoxview-cfr-primarybutton = Preuvilo
 firefoxview-cfr-secondarybutton = Oua no
     .accesskey = n
 
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-secondarybutton = Sâta
+
 ## Cookie Banner Handling CFR
 
 cfr-cbh-dismiss-button = Oua no
@@ -119,3 +127,34 @@ fxa-sync-cfr-primary = Atre informaçioin
     .accesskey = A
 fxa-sync-cfr-secondary = Ricordimelo dòppo
     .accesskey = R
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-decline-button =
+    .label = Oua no
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = No graçie
+    .accesskey = N
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = Agiorna oua
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Dòppo
+    .accesskey = D
+
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Atre informaçioin
+root-certificate-windows-background-notification-update-button = Agiorna { -brand-short-name }
+
+## FxA Menu Message variants
+
+fxa-menu-message-close-button =
+    .title = Særa
+    .aria-label = Særa

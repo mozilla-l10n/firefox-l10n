@@ -462,6 +462,11 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el navegador predeterminado y péguelo en el Dock.
        *[other] Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el navegador predeterminado y péguelo en la barra de tareas.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Mantenga { -brand-short-name } a su alcance
+       *[other] Abrir todos los enlaces con { -brand-short-name }
+    }
 set-default-menu-message-primary-button = Hacer predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador primario
 set-default-menu-message-primary-button-short-variant = Hacer que { -brand-short-name } sea el predeterminado

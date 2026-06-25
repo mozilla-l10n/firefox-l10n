@@ -82,3 +82,4 @@ about-private-browsing-felt-privacy-v1-info-link = מי יכול לראות את
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = סגירת כל החלונות הפרטיים שלך מוחקת את העוגיות, ההיסטוריה ונתוני האתר שלך.
+about-private-browsing-nova-info-link = מי יכול עדיין לראות את הפעילות שלי?

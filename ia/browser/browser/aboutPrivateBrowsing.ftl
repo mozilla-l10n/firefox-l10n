@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Qui pote vider mi activitate?
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Claudente tote tu fenestras private tu delera tu cookies, chronologia e datos de sito.
+about-private-browsing-nova-info-link = Qui pote ancora vider mi activitate?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Tu navigation non sera registrate
+about-private-browsing-nova-info-subheader = Nos cancellara cata recerca e accesso quando tu claudera iste fenestra. Le protectiones integrate de { -brand-short-name }, como le blocada del traciatores, es ancota attive ci.

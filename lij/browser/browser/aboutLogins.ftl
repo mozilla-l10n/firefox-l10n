@@ -296,3 +296,7 @@ about-logins-import-report-row-description-error = Erô: Manca 'n canpo
 
 about-logins-import-report-row-description-error-multiple-values = Erô: Gh'é tanti valoî pe { $field }
 about-logins-import-report-row-description-error-missing-field = Erô: Manca { $field }
+
+## Logins import report page
+
+about-logins-import-report-page-title = Riepilogo de l'inportaçion
