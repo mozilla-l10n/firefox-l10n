@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Slědk
+back-nav-button-title2 =
+    .title = Slědk
+    .aria-label = Slědk
