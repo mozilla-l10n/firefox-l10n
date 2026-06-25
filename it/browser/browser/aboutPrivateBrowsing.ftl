@@ -88,3 +88,4 @@ about-private-browsing-nova-info-link = Chi potrebbe comunque vedere la mia atti
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = La tua navigazione non verrà salvata
 about-private-browsing-nova-info-subheader = Cancelleremo tutte le ricerche e gli accessi effettuati quando chiudi questa finestra. Le protezioni integrate di { -brand-short-name }, come il blocco degli elementi traccianti, rimangono attive.
+
