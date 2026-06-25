@@ -463,8 +463,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en voeg het aan uw Dock toe.
        *[other] Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en zet het vast aan uw taakbalk.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Houd { -brand-short-name } binnen handbereik
+       *[other] Alle koppelingen openen met { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Maak het uw standaardbrowser en voeg het aan uw Dock toe.
+       *[other] Ontvang sneller surfen en automatische privacybescherming.
+    }
 set-default-menu-message-primary-button = Instellen als standaard
 set-default-menu-message-primary-button-variant = Instellen als primaire browser
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } uw standaardbrowser maken
 
 ## Firefox Relay 50 Masks Announcement
 

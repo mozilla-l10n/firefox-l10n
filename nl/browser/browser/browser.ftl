@@ -440,6 +440,9 @@ quickactions-cmd-print = afdrukken
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Pagina opslaan als PDF
 quickactions-cmd-savepdf2 = pdf, pagina opslaan
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = PDF-editor openen
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Privévenster openen
 quickactions-cmd-private = privénavigatie

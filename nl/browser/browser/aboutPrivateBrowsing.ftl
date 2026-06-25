@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Wie kan mijn activiteit zien?
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Door al uw privévensters te sluiten, worden uw cookies, geschiedenis en websitegegevens verwijderd.
+about-private-browsing-nova-info-link = Wie kan mijn activiteit nog zien?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Uw activiteit wordt niet vastgelegd
+about-private-browsing-nova-info-subheader = We wissen elke zoekopdracht en aanmelding wanneer u dit venster sluit. De ingebouwde bescherming van { -brand-short-name } is hier ook aanwezig, net als het blokkeren van trackers.
