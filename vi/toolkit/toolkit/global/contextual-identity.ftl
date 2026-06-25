@@ -28,7 +28,7 @@ user-context-manage-containers =
     .label = Quản lý ngăn chứa
     .accesskey = O
 user-context-new-tab =
-    .label = Thẻ mới
+    .label = Không ngăn chứa
     .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
