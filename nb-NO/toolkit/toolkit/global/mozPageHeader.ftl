@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Gå tilbake
+back-nav-button-title2 =
+    .title = Gå tilbake
+    .aria-label = Gå tilbake
