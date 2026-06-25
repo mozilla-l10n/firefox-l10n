@@ -82,3 +82,4 @@ about-private-browsing-felt-privacy-v1-info-link = Kto však môže vidieť moju
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Zatvorením všetkých súkromných okien sa vymažú súbory cookie, história a údaje stránok.
+about-private-browsing-nova-info-link = Kto by mohol stále vidieť moju aktivitu?
