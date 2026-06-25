@@ -462,8 +462,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Ha { -brand-short-name } lett tilgjengelig – gjør den til standard og behold den i Dock.
        *[other] Ha { -brand-short-name } lett tilgjengelig – gjør den til standard og behold den på oppgavelinjen.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Ha { -brand-short-name } lett tilgjengelig
+       *[other] Åpne alle lenker med { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Gjør den til standardnettleseren din og behold den i Dock.
+       *[other] Få raskere surfing og automatisk personvernbeskyttelse.
+    }
 set-default-menu-message-primary-button = Bruk som standard
 set-default-menu-message-primary-button-variant = Bruk som primær nettleser
+set-default-menu-message-primary-button-short-variant = Gjør { -brand-short-name } til standardnettleser
 
 ## Firefox Relay 50 Masks Announcement
 
