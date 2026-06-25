@@ -466,8 +466,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Majte { -brand-short-name(case: "acc") } vždy poruke – nastavte si ho ako predvolený a pridajte si ho do Docku.
        *[other] Majte { -brand-short-name(case: "acc") } vždy poruke – nastavte si ho ako predvolený a pripnite ho na paneli úloh.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Mať { -brand-short-name(case: "acc") } na dosah ruky
+       *[other] Otvárať všetky odkazy pomocou { -brand-short-name(case: "gen") }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Nastaviť ako predvolený prehliadač a pridať do Docku.
+       *[other] Získajte rýchlejšie prehliadanie a automatickú ochranu súkromia.
+    }
 set-default-menu-message-primary-button = Nastaviť ako predvolený
 set-default-menu-message-primary-button-variant = Nastaviť ako hlavný prehliadač
+set-default-menu-message-primary-button-short-variant = Nastaviť { -brand-short-name(case: "acc") } ako predvolený
 
 ## Firefox Relay 50 Masks Announcement
 
