@@ -217,6 +217,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 
 about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
 about-logins-confirm-export-dialog-confirm-button = Espòrta…
+about-logins-confirm-export-dialog-confirm-button2 = Vanni avanti con l'esportaçion
 about-logins-alert-import-title = Inportaçion terminâ
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
@@ -274,10 +275,14 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Inportaçion terminâ
+about-logins-import-dialog-done = Fæto
+about-logins-import-dialog-error-title = Erô de inportaçion
+about-logins-import-dialog-error-file-format-title = Erô into formou do schedaio
 about-logins-import-dialog-error-file-permission-title = No ariescio a lêze o schedaio
 about-logins-import-dialog-error-unable-to-read-title = No ariescio a elaborâ o schedaio
 about-logins-import-dialog-error-unable-to-read-description = Asegûate de seleçionâ 'n schedaio CSV ò TSV
 about-logins-import-dialog-error-learn-more = Pe saveine de ciù
+about-logins-import-dialog-error-try-import-again = Preuva torna l'inportaçion…
 about-logins-import-dialog-error-cancel = Anulla
 #
 # Variables:

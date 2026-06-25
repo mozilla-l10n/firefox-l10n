@@ -464,6 +464,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Hacer predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador primario
+set-default-menu-message-primary-button-short-variant = Hacer que { -brand-short-name } sea el predeterminado
 
 ## Firefox Relay 50 Masks Announcement
 

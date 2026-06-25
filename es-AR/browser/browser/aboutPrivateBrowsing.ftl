@@ -82,3 +82,5 @@ about-private-browsing-felt-privacy-v1-info-link = ¿Quién podría ver mi activ
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Cerrar todas las ventanas privadas borra las cookies, el historial y los datos del sitio.
+about-private-browsing-nova-info-link = ¿Quién podría seguir viendo mi actividad?
+about-private-browsing-nova-info-subheader = Borraremos todas las búsquedas e inicios de sesión al cerrar esta ventana. Las protecciones integradas de { -brand-short-name } también están acá, como bloquear rastreadores.
