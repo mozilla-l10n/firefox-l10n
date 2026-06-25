@@ -244,6 +244,11 @@ windows-10-eos-sync-callout-get-started-button = ناهاڌن پا کار
 windows-10-eos-feature-toast-whats-new-button = چیا نۊ ن بنیرین
 windows-10-eos-feature-toast-dismiss-button = رڌ کردن
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = قلوه دووسته بۊین
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

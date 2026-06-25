@@ -559,6 +559,7 @@ newtab-widget-section-hide-all-button =
     .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
 newtab-widget-section-menu-manage = دؽوۉداری ویجتا
+newtab-widget-section-menu-learn-more = قلوه دووسته بۊین
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -584,6 +585,10 @@ newtab-promo-card-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+##
+
+newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -592,3 +597,7 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Strings for the Clock widget
+
+newtab-clock-widget-menu-learn-more = قلوه دووسته بۊین

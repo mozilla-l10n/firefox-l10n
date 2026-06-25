@@ -71,6 +71,7 @@ genai-options-show-shortcut =
 
 genai-onboarding-primary = رئڌن وا پؽش
 genai-onboarding-secondary = بستن
+genai-onboarding-claude-learn = زبار Claude قلوه دووسته بۊین
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = زبار ChatGPT قلوه دووسته بۊین
