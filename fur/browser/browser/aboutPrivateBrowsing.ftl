@@ -82,3 +82,8 @@ about-private-browsing-felt-privacy-v1-info-link = Cui podaressial viodi la mê 
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Cuant che tu sieris ducj i barcons privâts a vegnin eliminâts i cookies, la cronologjie e i dâts dal sît.
+about-private-browsing-nova-info-link = Cui podaraial viodi in ogni câs la mê ativitât?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = La tô navigazion no vignarà salvade

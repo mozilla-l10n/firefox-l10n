@@ -440,6 +440,9 @@ quickactions-cmd-print = stampe
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salve pagjine come PDF
 quickactions-cmd-savepdf2 = pdf, salve pagjine
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Vierç editôr PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Vierç barcon privât
 quickactions-cmd-private = navigazion privade
