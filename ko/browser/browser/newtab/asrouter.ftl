@@ -460,6 +460,16 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] { -brand-short-name }를 손쉽게 사용할 수 있습니다. 기본 브라우저로 설정하고 독에 넣으세요.
        *[other] { -brand-short-name }를 손쉽게 사용할 수 있습니다. 기본 브라우저로 설정하고 작업 표시줄에 고정하세요.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }로 모든 링크 열기
+       *[other] { -brand-short-name }로 모든 링크 열기
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] 더 빠른 탐색과 자동으로 개인 정보를 보호해주는 기능을 이용하세요.
+       *[other] 더 빠른 탐색과 자동으로 개인 정보를 보호해주는 기능을 이용하세요.
+    }
 set-default-menu-message-primary-button = 기본으로 설정
 set-default-menu-message-primary-button-variant = 기본 브라우저로 설정
 set-default-menu-message-primary-button-short-variant = { -brand-short-name }를 기본 브라우저로 설정
