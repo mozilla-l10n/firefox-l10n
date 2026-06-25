@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Orologio
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Privacy
 home-prefs-mission-message2 =
     .message = Gli sponsor sostengono la nostra missione per un Web migliore.
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Sostieni { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Scopri come
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Ulteriori informazioni
 
 ## Search box component.
 
@@ -498,6 +506,8 @@ newtab-custom-widget-clock-toggle =
     .label = Orologio
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+newtab-custom-widget-privacy-toggle =
+    .label = Privacy
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
@@ -1170,7 +1180,7 @@ newtab-sports-widget-third-place = Terzo posto
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Secondi classificati
 newtab-sports-widget-champions = Campioni
-newtab-sports-widget-world-cup-champions = Campioni della Coppa del Mondo 2026
+newtab-sports-widget-world-cup-champions = Campioni della Coppa del mondo 2026
 # Compact champions label for the medium-size widget result card; the larger
 # card uses newtab-sports-widget-world-cup-champions.
 newtab-sports-widget-world-cup-champions-short = Campioni 2026
@@ -1272,6 +1282,8 @@ newtab-sports-widget-team-tbd = Da definire
 newtab-sports-widget-message-wallpapers-title = Dai il via ai Mondiali con i nuovi sfondi
 newtab-sports-widget-message-wallpapers-body = Porta un po’ di atmosfera da stadio nel tuo browser durante il torneo.
 newtab-sports-widget-message-wallpapers-cta = Scegli sfondo
+newtab-sports-widget-message-wallpapers-semifinals-title = Ottieni un nuovo sfondo per le semifinali
+newtab-sports-widget-message-wallpapers-semifinals-body = Prepara il terreno per le partite più importanti dei Mondiali.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Aggiungi widget
 newtab-sports-widget-message-day-in-play-title = Rendi la tua giornata più dinamica con i widget di { -brand-product-name }

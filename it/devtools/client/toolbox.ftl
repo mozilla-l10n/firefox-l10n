@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Disattiva Sempre in primo piano
     .title = Gli strumenti di sviluppo verranno riavviati
 toolbox-always-on-top-disabled2 = Attiva Sempre in primo piano
     .title = Gli strumenti di sviluppo verranno riavviati
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = È possibile caricare questo documento anche da “{ $url }” utilizzando la funzione “Local Mode” di DevTools, attivabile dal pannello delle impostazioni.
+toolbox-local-mode-notice-add-to-settings-button = Aggiungi alle impostazioni
+toolbox-local-mode-notice-try-it-button = Prova
+toolbox-local-mode-notice-navigate-to-existing-mapping = Passa alla mappatura esistente
+toolbox-local-mode-notice-always-hide = Non mostrare di nuovo questo messaggio
