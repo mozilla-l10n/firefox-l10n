@@ -83,3 +83,8 @@ about-private-browsing-felt-privacy-v1-info-link = מי יכול לראות את
 
 about-private-browsing-nova-info-body = סגירת כל החלונות הפרטיים שלך מוחקת את העוגיות, ההיסטוריה ונתוני האתר שלך.
 about-private-browsing-nova-info-link = מי יכול עדיין לראות את הפעילות שלי?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = היסטוריית הגלישה שלך תימחק
+about-private-browsing-nova-info-subheader = נמחק כל חיפוש והתחברות לאתרים כשחלון זה ייסגר. ההגנות המובנות של { -brand-short-name } מופעלות גם כאן, כמו חסימת רכיבי מעקב.

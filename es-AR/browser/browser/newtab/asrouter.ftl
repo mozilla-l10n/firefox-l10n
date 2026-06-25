@@ -467,6 +467,11 @@ set-default-menu-message-split-layout-title =
         [macos] Mantenga { -brand-short-name } a su alcance
        *[other] Abrir todos los enlaces con { -brand-short-name }
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Hágalo predeterminado y manténgalo en el Dock
+       *[other] Tenga una navegación más rápida y protección automática de la privacidad.
+    }
 set-default-menu-message-primary-button = Hacer predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador primario
 set-default-menu-message-primary-button-short-variant = Hacer que { -brand-short-name } sea el predeterminado

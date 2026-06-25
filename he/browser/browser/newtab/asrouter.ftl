@@ -456,8 +456,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כברירת המחדל ולשמור אותו ב־Dock שלך.
        *[other] כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כברירת המחדל ולהצמיד אותו לשורת המשימות.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] ‏{ -brand-short-name } תמיד בהישג יד
+       *[other] פתיחת כל הקישורים באמצעות { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] ניתן להפוך אותו לברירת המחדל ולשמור אותו ב־Dock שלך
+       *[other] קבלת גלישה מהירה יותר והגנת פרטיות אוטומטית.
+    }
 set-default-menu-message-primary-button = הגדרה כברירת מחדל
 set-default-menu-message-primary-button-variant = הגדרה כדפדפן הראשי
+set-default-menu-message-primary-button-short-variant = הגדרת { -brand-short-name } כדפדפן ברירת המחדל
 
 ## Firefox Relay 50 Masks Announcement
 

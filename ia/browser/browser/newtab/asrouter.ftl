@@ -468,6 +468,11 @@ set-default-menu-message-split-layout-title =
         [macos] Tene { -brand-short-name } a portata de tu manos
        *[other] Aperir tote le ligamines con { -brand-short-name }
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Rende lo tu predefinite e tene lo in tu bassino.
+       *[other] Obtene navigation plus veloce e protection automatic del confidentialitate.
+    }
 set-default-menu-message-primary-button = Render predefinite
 set-default-menu-message-primary-button-variant = Configura lo como navigator primari
 set-default-menu-message-primary-button-short-variant = Rende  { -brand-short-name } predefinite
