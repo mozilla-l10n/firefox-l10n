@@ -462,6 +462,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = 設為預設瀏覽器
 set-default-menu-message-primary-button-variant = 設為主要瀏覽器
+set-default-menu-message-primary-button-short-variant = 將 { -brand-short-name } 設為預設瀏覽器
 
 ## Firefox Relay 50 Masks Announcement
 
