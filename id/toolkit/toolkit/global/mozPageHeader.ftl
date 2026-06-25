@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Kembali
+back-nav-button-title2 =
+    .title = Kembali
+    .aria-label = Kembali
