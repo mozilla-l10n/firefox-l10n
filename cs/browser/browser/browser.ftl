@@ -994,10 +994,10 @@ urlbar-result-explanation-last-visited-days =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks =
     { $weeksAgo ->
-        [one] Naposledy navštívena před { $daysAgo } týdnem
-        [few] Naposledy navštívena před { $daysAgo } týdny
-        [many] Naposledy navštívena před { $daysAgo } týdny
-       *[other] Naposledy navštívena před { $daysAgo } týdny
+        [one] Naposledy navštívena před { $weeksAgo } týdnem
+        [few] Naposledy navštívena před { $weeksAgo } týdny
+        [many] Naposledy navštívena před { $weeksAgo } týdny
+       *[other] Naposledy navštívena před { $weeksAgo } týdny
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
@@ -1005,10 +1005,10 @@ urlbar-result-explanation-last-visited-weeks =
 #   $monthsAgo (number) - The number of months ago
 urlbar-result-explanation-last-visited-months =
     { $monthsAgo ->
-        [one] Naposledy navštívena před { $daysAgo } měsícem
-        [few] Naposledy navštívena před { $daysAgo } měsíci
-        [many] Naposledy navštívena před { $daysAgo } měsíci
-       *[other] Naposledy navštívena před { $daysAgo } měsíci
+        [one] Naposledy navštívena před { $monthsAgo }měsícem
+        [few] Naposledy navštívena před { $monthsAgo } měsíci
+        [many] Naposledy navštívena před { $monthsAgo } měsíci
+       *[other] Naposledy navštívena před { $monthsAgo } měsíci
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
