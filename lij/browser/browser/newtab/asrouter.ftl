@@ -150,6 +150,11 @@ launch-on-login-spotlight-startup-checkbox = Arvi { -brand-short-name } quando t
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Arvi barcoin e feuggi existenti
+launch-on-login-spotlight-primary-button = Sarva e særa { -brand-short-name }
+
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Vanni a-a privacy integrâ
 
 ## Root Certificate Succession Infobar
 
@@ -171,3 +176,14 @@ fxa-menu-message-close-button =
     .title = Særa
     .aria-label = Særa
 fxa-menu-message-sign-up-button = Registrite
+fxa-menu-message-sign-in-button = Intra
+fxa-menu-message-sync-button = Iniçia a sincronizaçion
+fxa-menu-message-sync-devices-secondary-text = Piggite subito e-e teu informaçioin comme segnalibbri e poule segrete, donde se segge ti deuvi { -brand-short-name }.
+fxa-menu-message-sync-devices-collapsed-text = Scincronizza tutti i teu dispoxitivi
+fxa-menu-message-backup-data-primary-text = Sarva i dæti do navegatô
+fxa-menu-message-backup-data-collapsed-text = Sarva i dæti do navegatô
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-set-default-checkbox = Inpòsta { -brand-short-name } comme predefinio
+multi-cta-fox-doodle-pin-startmenu-checkbox = Azonzi { -brand-short-name } a-o menû de inçio

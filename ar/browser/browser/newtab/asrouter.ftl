@@ -456,8 +456,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] أبقِ { -brand-short-name } في متناول يدك — اجعله خيارك المبدئي واحتفظ به في الرصف.
        *[other] أبقِ { -brand-short-name } في متناول يدك — اجعله خيارك المبدئي واحتفظ به في شريط المهام.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] اجعل { -brand-short-name } في متناول يدك
+       *[other] افتح جميع الروابط باستخدام { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] اجعله التطبيق المبدئي واحتفظ به في الرصف.
+       *[other] احصل على تصفح أسرع وحماية تلقائية للخصوصية.
+    }
 set-default-menu-message-primary-button = اجعله المبدئي
 set-default-menu-message-primary-button-variant = اضبطه ليكون المتصفّح الأساسي
+set-default-menu-message-primary-button-short-variant = اجعل { -brand-short-name } المبدئي
 
 ## Firefox Relay 50 Masks Announcement
 
