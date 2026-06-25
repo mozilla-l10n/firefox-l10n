@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Guevijey
+back-nav-button-title2 =
+    .title = Guevijey
+    .aria-label = Guevijey
