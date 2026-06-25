@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Inaktivera alltid överst
     .title = Detta kommer att starta om utvecklarverktygen
 toolbox-always-on-top-disabled2 = Aktivera alltid överst
     .title = Detta kommer att starta om utvecklarverktygen
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Det här dokumentet kan också laddas från "{ $url }" med DevTools "Lokalt läge", som kan aktiveras i inställningspanelen.
+toolbox-local-mode-notice-add-to-settings-button = Lägg till i inställningar
+toolbox-local-mode-notice-try-it-button = Prova den
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navigera till befintlig mappning
+toolbox-local-mode-notice-always-hide = Visa mig inte det här igen

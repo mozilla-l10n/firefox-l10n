@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Klocka
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Sekretess
 home-prefs-mission-message2 =
     .message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb.
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Stöd { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Ta reda på hur
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Läs mer
 
 ## Search box component.
 
@@ -496,6 +504,8 @@ newtab-custom-widget-clock-toggle =
     .label = Klocka
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+newtab-custom-widget-privacy-toggle =
+    .label = Sekretess
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
@@ -1269,6 +1279,8 @@ newtab-sports-widget-team-tbd = Kommer att bestämmas
 newtab-sports-widget-message-wallpapers-title = Sparka igång VM med nya bakgrundsbilder
 newtab-sports-widget-message-wallpapers-body = Ta med lite energi till din webbläsare under tävlingen.
 newtab-sports-widget-message-wallpapers-cta = Välj bakgrundsbild
+newtab-sports-widget-message-wallpapers-semifinals-title = Få en ny bakgrundsbild inför semislutspelen
+newtab-sports-widget-message-wallpapers-semifinals-body = Dubbla för världscupens största matcher.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lägg till widgetar
 newtab-sports-widget-message-day-in-play-title = Håll igång dagen med { -brand-product-name } widgets
