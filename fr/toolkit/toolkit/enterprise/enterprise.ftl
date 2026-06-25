@@ -73,3 +73,6 @@ enterprise-access-connector-status-label-active = actif
 enterprise-access-connector-status-label-inactive = inactif
 crashed-policy-auto-submit-title = Les rapports de plantage nous aident à nous améliorer
 crashed-policy-auto-submit-message = Votre administrateur a paramétré { -brand-short-name } pour envoyer automatiquement les rapports de plantage.
+fp-neterror-access-connector-error-title = Impossible d’accéder à ce site web
+fp-neterror-access-connector-error-description = Votre organisation fait transiter ce site par un service de connexion sécurisée, mais ce service est actuellement indisponible.
+fp-neterror-access-connector-error-contact-admin = Réessayez ultérieurement, ou contactez votre administrateur si vous avez besoin d’y accéder.
