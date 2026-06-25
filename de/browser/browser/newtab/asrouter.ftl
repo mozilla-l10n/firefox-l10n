@@ -463,8 +463,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Haben Sie { -brand-short-name } immer zur Hand – legen Sie ihn als Standard fest und behalten Sie ihn im Dock.
        *[other] Haben Sie { -brand-short-name } immer zur Hand – legen Sie ihn als Standard fest und behalten Sie ihn in Ihrer Taskleiste.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Halten Sie { -brand-short-name } immer griffbereit
+       *[other] Alle Links mit { -brand-short-name } öffnen
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Zum Standard machen und zum Dock hinzufügen.
+       *[other] Holen Sie sich schnelleres Surfen und automatischen Datenschutz.
+    }
 set-default-menu-message-primary-button = Als Standard festlegen
 set-default-menu-message-primary-button-variant = Als Standardbrowser festlegen
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } als Standard setzen
 
 ## Firefox Relay 50 Masks Announcement
 
