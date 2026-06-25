@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Idi natrag
+back-nav-button-title2 =
+    .title = Idi natrag
+    .aria-label = Idi natrag
