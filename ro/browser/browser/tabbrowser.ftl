@@ -196,8 +196,14 @@ tabbrowser-customizemode-tab-title = Personalizează { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Dezactivează sunetul filei
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Dezactivează sunetul
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Activează sunetul filei
+    .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Activează sunetul
     .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =

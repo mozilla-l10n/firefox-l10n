@@ -299,6 +299,20 @@ launch-on-login-infobar-final-message = <strong>Setezi { -brand-short-name } să
 launch-on-login-infobar-final-reject-button = Nu, mulțumesc
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Deschizi { -brand-short-name } data viitoare când pornești calculatorul?
+launch-on-login-spotlight-startup-checkbox = Lansează { -brand-short-name } la pornire
+launch-on-login-spotlight-pin-taskbar-checkbox = Fixează în bara de activități
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Deschide ferestrele și filele închise anterior
+launch-on-login-spotlight-primary-button = Salvează și închide { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -452,8 +466,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Păstrează { -brand-short-name } la îndemână — setează-l ca browser implicit și ține-l în Dock.
        *[other] Păstrează { -brand-short-name } la îndemână — setează-l ca browser implicit și ține-l în bara de sarcini.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Ține { -brand-short-name } la îndemână
+       *[other] Deschide toate linkurile cu { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Setează-l ca implicit și păstrează-l în Dock.
+       *[other] Obține o navigare mai rapidă și protecție automată a confidențialității.
+    }
 set-default-menu-message-primary-button = Setează ca implicit
 set-default-menu-message-primary-button-variant = Setează ca browser primar
+set-default-menu-message-primary-button-short-variant = Setează { -brand-short-name } ca implicit
 
 ## Firefox Relay 50 Masks Announcement
 

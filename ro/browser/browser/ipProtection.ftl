@@ -51,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Elimină VPN-ul din bara de instrumente
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimină VPN-ul din bara de instrumente
+ipprotection-feature-introduction-button-open-vpn = Deschide VPN-ul
 ipprotection-feature-introduction-button-get-started = Începe
 
 ## Site settings callout
@@ -164,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Activează VPN-ul pentru a-ț
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Setează VPN-ul să se activeze</a> de fiecare dată când deschizi { -brand-short-name } pentru un nivel suplimentar de protecție.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } va reține site-urile web pe care le-ai configurat să utilizeze VPN. Poți actualiza oricând opțiunile din <a data-l10n-name="setting-link">setări</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ul este dezactivat pentru acest site
+ipprotection-open-button = Deschide { -brand-product-name }
+ipprotection-come-back-title = Revino să încerci VPN-ul încorporat
+ipprotection-message-body-hide-location = Ascunde-ți locația când navighezi în { -brand-product-name } pentru mai multă confidențialitate și control.
 ipprotection-connection-status-generic-error-title-1 = Nu s-a putut conecta la VPN
     .aria-label = Nu s-a putut conecta la VPN
 
@@ -234,6 +238,11 @@ ip-protection-exclusions-desc = Folosește VPN pe toate site-urile web, cu excep
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB din { $maxUsage } GB rămași luna aceasta
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Mai ai <span data-l10n-name="usage">{ $usageLeft } GB</span> din { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -242,6 +251,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB din { $maxUsage } GB rămaș
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB din { $maxUsage } GB rămași luna aceasta
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Mai ai <span data-l10n-name="usage">{ $usageLeft } MB</span> din { $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
