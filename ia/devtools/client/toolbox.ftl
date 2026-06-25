@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Disactivar sempre al summitate
     .title = Isto reinitiara le Utensiles de disveloppator
 toolbox-always-on-top-disabled2 = Activar sempre al summitate
     .title = Isto reinitiara le Utensiles de disveloppator
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Iste documento poterea alsi esser cargate de  “{ $url }” per DevTools “Local Mode”, que pote esser activate in le pannello del configurationes.
+toolbox-local-mode-notice-add-to-settings-button = Adder a configurationes
+toolbox-local-mode-notice-try-it-button = Prova lo
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navigar a mappage existente
+toolbox-local-mode-notice-always-hide = Non monstrar me isto de novo

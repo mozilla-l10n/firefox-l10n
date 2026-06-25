@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Horologio
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Confidentialitate
 home-prefs-mission-message2 =
     .message = Nostre patrocinatores supporta nostre mission pro construer un web melior.
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Supporta { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Discoperi como
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Pro saper plus
 
 ## Search box component.
 
@@ -492,6 +500,8 @@ newtab-custom-widget-clock-toggle =
     .label = Horologio
 newtab-custom-widget-sports-toggle2 =
     .label = Sports
+newtab-custom-widget-privacy-toggle =
+    .label = Confidentialitate
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -1266,6 +1276,8 @@ newtab-sports-widget-team-tbd = A definir
 newtab-sports-widget-message-wallpapers-title = Lancea le Cuppa del mundo con nove fundos de schermo
 newtab-sports-widget-message-wallpapers-body = Apporta alcun energia de die de match a tu navigator pro le torneo.
 newtab-sports-widget-message-wallpapers-cta = Eliger fundo
+newtab-sports-widget-message-wallpapers-semifinals-title = Obtene un nove fundo de schermo pro le semifinales
+newtab-sports-widget-message-wallpapers-semifinals-body = Definir le stage pro le major matches de Cuppa del Mundo .
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adder widgets
 newtab-sports-widget-message-day-in-play-title = Mantene tu die in joco con le widgets de  { -brand-product-name }
