@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Retroceder
+back-nav-button-title2 =
+    .title = Retroceder
+    .aria-label = Retroceder
