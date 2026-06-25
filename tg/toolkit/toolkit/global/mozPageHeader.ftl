@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Бозгашт
+back-nav-button-title2 =
+    .title = Бозгашт
+    .aria-label = Бозгашт
