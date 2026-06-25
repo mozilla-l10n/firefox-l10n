@@ -439,8 +439,8 @@ etp-strict-exceptions-infobar-not-now = Ei nyt
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } ei ole järjestelmän oletusselain
-set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ei ole ensisijainen selain
-set-default-menu-message-row-layout-title = Aseta { -brand-short-name } ensisijaiseksi selaimeksi
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ei ole oletusselain
+set-default-menu-message-row-layout-title = Aseta { -brand-short-name } oletusselaimeksi
 set-default-menu-message-row-layout-title-variant = Aseta { -brand-short-name } oletusselaimeksi
 set-default-menu-message-row-layout-subtitle = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
 set-default-menu-message-row-layout-subtitle-variant =
