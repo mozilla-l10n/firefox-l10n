@@ -4,3 +4,6 @@
 
 back-nav-button-title =
     .title = Iri reen
+back-nav-button-title2 =
+    .title = Iri reen
+    .aria-label = Iri reen
