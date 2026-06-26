@@ -1280,6 +1280,7 @@ newtab-sports-widget-message-wallpapers-title = Ξεκινήστε το Παγκ
 newtab-sports-widget-message-wallpapers-body = Φέρτε λίγη από την ατμόσφαιρα των αγώνων στο πρόγραμμα περιήγησής σας, καθ' όλη τη διάρκεια του τουρνουά.
 newtab-sports-widget-message-wallpapers-cta = Επιλογή ταπετσαρίας
 newtab-sports-widget-message-wallpapers-semifinals-title = Αποκτήστε μια νέα ταπετσαρία για τους ημιτελικούς
+newtab-sports-widget-message-wallpapers-semifinals-body = Προετοιμάστε το έδαφος για τους μεγαλύτερους αγώνες του Παγκοσμίου Κυπέλλου.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Προσθήκη γραφικών στοιχείων
 newtab-sports-widget-message-day-in-play-title = Διατηρήστε την ημέρα σας γεμάτη δράση με τα γραφικά στοιχεία του { -brand-product-name }

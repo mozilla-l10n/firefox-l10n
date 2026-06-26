@@ -47,4 +47,10 @@ toolbox-always-on-top-disabled2 = Ενεργοποίηση προβολής «Π
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Μπορείτε επίσης να φορτώσετε αυτό το έγγραφο από το «{ $url }» μέσω της «Τοπικής λειτουργίας» των εργαλείων ανάπτυξης, η οποία μπορεί να ενεργοποιηθεί στον πίνακα ρυθμίσεων.
+toolbox-local-mode-notice-add-to-settings-button = Προσθήκη στις ρυθμίσεις
 toolbox-local-mode-notice-try-it-button = Δοκιμή
+toolbox-local-mode-notice-navigate-to-existing-mapping = Πλοήγηση σε υπάρχουσα αντιστοίχιση
+toolbox-local-mode-notice-always-hide = Να μην εμφανιστεί ξανά
