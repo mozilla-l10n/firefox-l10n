@@ -149,8 +149,17 @@ sidebar-menu-syncedtabs-header =
     .heading = بلگه یل ز دسگا یل دیری
 sidebar-menu-cpm-header =
     .heading = رزما
+sidebar-menu-bookmarks-header =
+    .heading = نشووکا
 sidebar-panel-header-close-button =
     .tooltiptext = بستن
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = نومگه نشووکا
+sidebar-bookmarks-folder-toolbar = نوار ٱوزار نشووکا
+sidebar-bookmarks-folder-other = نشووکا دیری
+sidebar-bookmarks-folder-mobile = نشووکا تیلیفووݩ
 
 ## Titles for sidebar menu panels.
 
