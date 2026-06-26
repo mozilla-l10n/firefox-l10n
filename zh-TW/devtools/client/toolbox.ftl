@@ -47,6 +47,9 @@ toolbox-always-on-top-disabled2 = 開啟總是顯示在最上層功能
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = 從開發者工具的設定面板當中開啟「本機模式」後，此文件也可以從「{ $url }」載入。
 toolbox-local-mode-notice-add-to-settings-button = 新增至設定
 toolbox-local-mode-notice-try-it-button = 試試看
 toolbox-local-mode-notice-navigate-to-existing-mapping = 前往現有的對應
