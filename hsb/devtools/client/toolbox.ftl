@@ -43,3 +43,10 @@ toolbox-always-on-top-enabled2 = Horjeka přeco znjemóžnić
     .title = To budźe wuwiwarske nastroje znowa startować
 toolbox-always-on-top-disabled2 = Horjeka přeco zmóžnić
     .title = To budźe wuwiwarske nastroje znowa startować
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Nastajenjam přidać
+toolbox-local-mode-notice-try-it-button = Wupruwujće jón
+toolbox-local-mode-notice-always-hide = Hižo so njepokazać

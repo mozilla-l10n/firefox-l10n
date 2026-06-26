@@ -440,6 +440,9 @@ quickactions-cmd-print = presi
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Konservi paĝon kiel PDF
 quickactions-cmd-savepdf2 = pdf, konservi paĝon
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Malfermi redaktilon PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Malfermi privatan fenestron
 quickactions-cmd-private = privata retumo
@@ -870,6 +873,48 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patronita
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Demandi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Lasta visito { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Lasta vizito antaŭ tago
+       *[other] Lasta vizito antaŭ { $daysAgo } tagoj
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Lasta vizito antaŭ semajno
+       *[other] Lasta vizito antaŭ { $weeksAgo } semajnoj
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Lasta vizito antaŭ monato
+       *[other] Lasta vizito antaŭ { $monthsAgo } monatoj
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Lasta vizito { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
