@@ -1264,6 +1264,7 @@ newtab-sports-widget-team-tbd = 尚未決定
 newtab-sports-widget-message-wallpapers-title = 使用新的背景圖片，為世足賽拉開序幕
 newtab-sports-widget-message-wallpapers-body = 將賽事的活力帶進您的瀏覽器。
 newtab-sports-widget-message-wallpapers-cta = 挑選背景圖
+newtab-sports-widget-message-wallpapers-semifinals-title = 獲得準決賽的新背景圖
 newtab-sports-widget-message-add-widgets-cta =
     .label = 新增小工具
 newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 小工具隨時關注最新足球賽事
