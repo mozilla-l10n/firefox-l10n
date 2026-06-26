@@ -935,6 +935,12 @@ urlbar-result-action-open-saved-tabgroup = گۊشیڌن { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = گۊشیڌن من بلگه نۊ
     .accesskey = w
+urlbar-view-context-menu-open-in-window =
+    .label = گۊشیڌن من نیمدری نۊ
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = گۊشیڌن من نیمدری سیخومی نۊ
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 

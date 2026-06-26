@@ -30,5 +30,17 @@ customkeys-nav-forward = جلاو رئڌن
 customkeys-nav-home = هووه
 customkeys-nav-reload = گۊشیڌن دووارته
 customkeys-nav-stop = واڌاشتن
+customkeys-nav-select-tab-1 = و بلگه 1 بریوین
+customkeys-nav-select-tab-2 = و بلگه 2 بریوین
+customkeys-nav-select-tab-3 = و بلگه 3 بریوین
+customkeys-nav-select-tab-4 = و بلگه 4 بریوین
+customkeys-nav-select-tab-5 = و بلگه 5 بریوین
+customkeys-nav-select-tab-6 = و بلگه 6 بریوین
+customkeys-nav-select-tab-7 = و بلگه 7 بریوین
+customkeys-nav-select-tab-8 = و بلگه 8 بریوین
+customkeys-nav-select-last-tab = رئڌن و بلگه دیندایی
+customkeys-nav-toggle-mute = بؽ دونگ/وا دونگ کردن آرنگ
+customkeys-edit-find-previous = جوستن پؽشی
+customkeys-tools-screenshot = شؽوات ز بلگه بگیرین
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ناموعتبر
