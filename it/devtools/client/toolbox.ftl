@@ -54,3 +54,4 @@ toolbox-local-mode-notice-add-to-settings-button = Aggiungi alle impostazioni
 toolbox-local-mode-notice-try-it-button = Prova
 toolbox-local-mode-notice-navigate-to-existing-mapping = Passa alla mappatura esistente
 toolbox-local-mode-notice-always-hide = Non mostrare di nuovo questo messaggio
+
