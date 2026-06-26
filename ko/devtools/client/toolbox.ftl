@@ -47,6 +47,9 @@ toolbox-always-on-top-disabled2 = 항상 맨 위에 활성화
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = 이 문서는 개발자 도구 “로컬 모드”를 사용하여 “{ $url }”에서 로드할 수도 있으며, 이는 설정 패널에서 활성화할 수 있습니다.
 toolbox-local-mode-notice-add-to-settings-button = 설정에 추가
 toolbox-local-mode-notice-try-it-button = 사용해 보기
 toolbox-local-mode-notice-navigate-to-existing-mapping = 기존 매핑으로 이동
