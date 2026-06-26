@@ -169,7 +169,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = سی آلشت و من ٱووڌن تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
+about-logins-edit-login-os-auth-dialog-message-win = سی آلشت و من ٱووڌن تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = آلشت دووسمندیا و من ٱووڌن زفت وابیڌه
@@ -181,22 +181,22 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } هونی قپ ریت اکونه تا آلشت سامووا سی رزما ن ٱنجوم بڌه. سی هشتن ای کار، وا دسگا خوتووݩ و من بیاین.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = سی آلشت رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
+about-logins-edit-login-os-auth-dialog-message2-win = سی آلشت رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = آلشت رزم زفت وابیڌه
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = سی نیشتن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
+about-logins-reveal-password-os-auth-dialog-message-win = سی نیشتن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = رزم زفت وابیڌه ن وادیاری بیارین
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = سی لف گیری رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
+about-logins-copy-password-os-auth-dialog-message-win = سی لف گیری رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = سی و در کشیڌن و من ٱووڌنا تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
+about-logins-export-password-os-auth-dialog-message-win = سی و در کشیڌن و من ٱووڌنا تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = و در کشیڌن نوما منتوری وو رزما زفت وابیڌه
