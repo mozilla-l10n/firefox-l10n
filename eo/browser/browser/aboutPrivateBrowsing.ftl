@@ -78,3 +78,8 @@ about-private-browsing-cookie-banners-promo-body = Ne nun aŭtomate rifuzas plur
 about-private-browsing-felt-privacy-v1-info-header = Lasu neniun spuron en tiu ĉi aparato
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } forigos viajn kuketojn, historion kaj retejajn datumojn kiam vi fermos ĉiujn viajn privatajn fenestrojn.
 about-private-browsing-felt-privacy-v1-info-link = Kiu povus vidi mian retumon?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = La fermo de ĉiuj privataj fenestroj forigos viajn kuketojn, historion kaj retejajn datumojn.
+about-private-browsing-nova-info-link = Kio plu povus vidi mian retumon?

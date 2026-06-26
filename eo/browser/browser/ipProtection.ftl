@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
+ipprotection-feature-introduction-link-text-privacy-3 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
+ipprotection-feature-introduction-text-summer-promo-1 = Ŝaltu por teni vian retumon pli privata. <a data-l10n-name="summer-promo-link">Havu senliman trafikon</a> kaj pli da lokoj, el kie retumi. Propono valida ĝis la 31 de aŭgusto.
+ipprotection-feature-introduction-title-summer-promo = Ĉu vi pretas vojaĝi? Portu privatecon kun vi.
+ipprotection-feature-introduction-description-summer-promo = Iru eĉ pli for per la integrita VPN de { -brand-product-name }: pli da lokoj, senlima trafiko. Propono valida ĝis la 31 de aŭgusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en privata fenestro.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ilaro
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Forigi VPN el la ilaro
+ipprotection-feature-introduction-button-open-vpn = Malermi VPN
 ipprotection-feature-introduction-button-get-started = Unuaj paŝoj
 
 ## Site settings callout
@@ -159,6 +165,9 @@ ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian poz
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memoros la retejojn kiujn vi agordis por viziti pere de VPN. Vi povas modifi ilin iam ajn en <a data-l10n-name="setting-link">agordoj</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
+ipprotection-open-button = Malfermi { -brand-product-name }
+ipprotection-come-back-title = Revenu provi la integritan VPN
+ipprotection-message-body-hide-location = Kaŝu vian pozicion kiam dum vi retumas per { -brand-product-name } por havi pli da privateco kaj rego.
 ipprotection-connection-status-generic-error-title-1 = Ne eblis konektiĝi al la VPN
     .aria-label = Ne eblis konektiĝi al la VPN
 
@@ -228,6 +237,11 @@ ip-protection-exclusions-desc = Uzi VPN por ĉiuj retejoj, krom por tiuj en tiu 
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Ĉi monate restas { $usageLeft } GB el { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">restas { $usageLeft } GB</span> el { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +250,11 @@ ip-protection-bandwidth-left-gb = Restas { $usageLeft } GB el { $maxUsage } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Ĉi monate restas { $usageLeft } MB el { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">restas { $usageLeft } MB</span> el { $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
