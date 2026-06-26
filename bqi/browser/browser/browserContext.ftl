@@ -380,3 +380,5 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = نۊ
 main-context-menu-pdfjs-copy-page =
     .label = لف گیری بلگه
+main-context-menu-pdfjs-delete-page =
+    .label = پاک کردن بلگه

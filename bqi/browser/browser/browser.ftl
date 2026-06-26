@@ -461,6 +461,8 @@ quickactions-cmd-update = ورۊ رسۊوی
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = نیشتن کود بونچک بلگه
 quickactions-cmd-viewsource2 = نیشتن بونچک، بونچک، بونچک بلگه
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = گۊشیڌن { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = نیشتن بونچک، بونچک
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -526,9 +528,14 @@ identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
 identity-clear-site-data =
     .label = پاک کردن کۊکیا وو داده یل وبگه…
+identity-connection-not-secure-security-view = ایسا و جۊر ٱمن و ای وبگه منپیز نوابیڌین.
+identity-connection-verified = ایسا و جۊر ٱمن و ای وبگه منپیز وابیڌین.
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = ز ری موقررات (EU) 2024/1183 واجد شرایت هڌ.
 identity-remove-cert-exception =
     .label = پاک کردن استسنا
     .accesskey = R
+identity-description-active-blocked2 = { -brand-short-name } بشنایی ز ای بلگه ک ٱمن نؽڌن ن، مسدۊد کرده.
 identity-enable-mixed-content-blocking =
     .label = فعال کردن زفت وابیڌن
     .accesskey = E
