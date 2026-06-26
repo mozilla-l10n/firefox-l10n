@@ -28,6 +28,10 @@ settings-data-backup-trigger-button = هیم سکو لادراری بگر
 settings-data-backup-in-progress-button = لادراری گرؽڌن هونی ٱنجوم ابۊ…
 settings-data-backup-in-progress-message =
     .message = لادراری گرؽڌن هونی ٱنجوم ابۊ…
+settings-data-backup-scheduled-backups-on2 =
+    .label = لادراری گرؽڌن رۊشن هڌ
+settings-data-backup-scheduled-backups-off2 =
+    .label = لادراری گرؽڌن کۊر هڌ
 settings-data-backup-last-backup-location-show-in-folder = نشووݩ داڌن من دوبلگه
 settings-data-backup-last-backup-location-edit = آلشت…
 # Variables:
