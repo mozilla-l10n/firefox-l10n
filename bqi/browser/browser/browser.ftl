@@ -1084,6 +1084,17 @@ qrcode-save-button =
     .label = زفت
 qrcode-save-success =
     .message = کود QR زفت وابی.
+qrcode-save-error =
+    .message = منه زفت کردن کود QR شکست خرد.
+qrcode-save-title = زفت کردن کود QR
+qrcode-save-filter-png = شؽوات PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR کود
+qrcode-dialog-title = QR کود
+qrcode-image =
+    .aria-label = QR کود
+qrcode-close-button =
+    .aria-label = بستن
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1106,6 +1117,14 @@ toolbar-button-share-tab =
     .label = یک رسۊوی
     .tooltiptext = یک رسۊوی ای بلگه
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
@@ -1127,6 +1146,8 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = قلوه…
+menu-share-windows =
+    .label = گۊزینه یل بیشتر
 menu-share-copy-link =
     .label = لف گیری لینگ
     .accesskey = L
@@ -1375,3 +1396,11 @@ trustpanel-list-label-fingerprinter =
         [one] { $count } جا کلک
        *[other] { $count } جا کلک
     }
+trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = گۊشیڌن دووارته
+    .accesskey = R
+reduced-protection-infobar-never-show-button = دی یونه نشووݩ مڌه
+    .accesskey = D
