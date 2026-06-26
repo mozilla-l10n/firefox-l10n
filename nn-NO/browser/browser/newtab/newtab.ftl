@@ -1277,6 +1277,7 @@ newtab-sports-widget-team-tbd = Skal bestemmast
 newtab-sports-widget-message-wallpapers-title = Spark i gang VM med nye bakgrunnsbilde
 newtab-sports-widget-message-wallpapers-body = Gi nettlesaren litt kampstemning under turneringa.
 newtab-sports-widget-message-wallpapers-cta = Vel bakgrunnsbilde
+newtab-sports-widget-message-wallpapers-semifinals-title = Få ein ny bakgrunn for semifinalane
 newtab-sports-widget-message-add-widgets-cta =
     .label = Legg til widgetar
 newtab-sports-widget-message-day-in-play-title = Hald dagen i gang med widgetar i { -brand-product-name }

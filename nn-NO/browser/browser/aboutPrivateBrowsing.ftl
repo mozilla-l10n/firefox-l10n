@@ -83,3 +83,8 @@ about-private-browsing-felt-privacy-v1-info-link = Kven kan kanskje sjå aktivit
 
 about-private-browsing-nova-info-body = Når du lèt att alle private vindauge, vert infokapslane, historikken og nettstaddataa dine sletta.
 about-private-browsing-nova-info-link = Kven kan framleis sjå aktiviteten min?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Du etterlèt ingen spor
+about-private-browsing-nova-info-subheader = Vi slettar alle søk og innloggingar når du lèt att dette vindauget. { -brand-short-name } sitt innebygde vern er også aktivt her, til dømes blokkering av sporarar.
