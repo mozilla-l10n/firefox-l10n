@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Klokke
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Personvern
 home-prefs-mission-message2 =
     .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Støtt { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Finn ut hvordan
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Les mer
 
 ## Search box component.
 
@@ -495,6 +503,8 @@ newtab-custom-widget-clock-toggle =
     .label = Klokke
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+newtab-custom-widget-privacy-toggle =
+    .label = Personvern
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
