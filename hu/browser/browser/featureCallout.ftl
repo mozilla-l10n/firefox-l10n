@@ -55,7 +55,7 @@ fx-view-discoverability-secondary-button-label = Eltüntetés
 
 # Blocks the message from showing again
 split-dismiss-button-dont-show-option =
-    .label = Ne jelenítse meg újra ezt a javaslatot
+    .label = Ne jelenjen meg újra ez a javaslat
 # Dismisses message and reduces frequency of message
 split-dismiss-button-show-fewer-option =
     .label = Kevesebb javaslat megjelenítése

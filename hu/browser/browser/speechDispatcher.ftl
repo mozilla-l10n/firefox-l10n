@@ -12,5 +12,5 @@ speech-dispatcher-missing-symbol = Nem használhatja a beszédszintézist, mert 
 speech-dispatcher-open-fail = Nem használhatja a beszédszintézist, mert a Speech Dispatcher nem nyílik meg.
 speech-dispatcher-no-voices = Nem használhatja a beszédszintézist, mert a hangok nem érhetők el a Speech Dispatcherben.
 speech-dispatcher-dismiss-button =
-    .label = Ne mutassa ezt újra
+    .label = Ne jelenjen meg újra
     .accesskey = N

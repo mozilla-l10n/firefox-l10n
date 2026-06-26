@@ -223,7 +223,7 @@ urlbar-result-menu-report-inaccurate-location =
 urlbar-result-menu-show-less-frequently =
     .label = Megjelenítés ritkábban
 urlbar-result-menu-dont-show-weather-suggestions =
-    .label = Ne jelenítsen meg időjárási javaslatokat
+    .label = Ne jelenjenek meg időjárási javaslatok
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = Menü megnyitása
@@ -937,10 +937,10 @@ urlbar-result-realtime-opt-in-allow = Javaslatok megjelenítése
 urlbar-result-realtime-opt-in-not-now = Most nem
 urlbar-result-realtime-opt-in-dismiss = Eltüntetés
 urlbar-result-realtime-opt-in-dismiss-all =
-    .label = Ne jelenítse meg ezeket a javaslatokat
+    .label = Ne jelenjenek meg ezek a javaslatok
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
-    .label = Ne jelenítsen meg pénzpiaci javaslatokat
+    .label = Ne jelenjenek meg pénzpiaci javaslatok
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Köszönjük a visszajelzését. Többé nem fogja látni az pénzpiaci javaslatokat.
 # This a11y label is read by screen readers when an item in the row is selected.
@@ -1127,7 +1127,7 @@ urlbar-group-sponsored =
     .label = Szponzorált
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
-    .label = Ne jelenítse meg a felkapott kereséseket
+    .label = Ne jelenjenek meg a felkapott keresések
     .accesskey = N
 urlbar-result-menu-trending-why =
     .label = Miért látom ezt?

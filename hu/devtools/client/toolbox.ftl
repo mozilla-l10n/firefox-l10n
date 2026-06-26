@@ -43,3 +43,11 @@ toolbox-always-on-top-enabled2 = „Mindig felül” letiltása
     .title = Ez újraindítja a fejlesztői eszközöket
 toolbox-always-on-top-disabled2 = „Mindig felül” engedélyezése
     .title = Ez újraindítja a fejlesztői eszközöket
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Hozzáadás a beállításokhoz
+toolbox-local-mode-notice-try-it-button = Kipróbálás
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navigálás a meglévő hozzárendeléshez
+toolbox-local-mode-notice-always-hide = Ne jelenítse meg ezt újra

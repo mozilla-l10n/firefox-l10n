@@ -18,7 +18,7 @@ cfr-doorhanger-extension-ok-button = Hozzáadás most
     .accesskey = a
 cfr-doorhanger-extension-manage-settings-button = Ajánlási beállítások kezelése
     .accesskey = A
-cfr-doorhanger-extension-never-show-recommendation = Ne mutassa ezt az ajánlást
+cfr-doorhanger-extension-never-show-recommendation = Ne jelenjen meg ez az ajánlás
     .accesskey = N
 cfr-doorhanger-extension-learn-more-link = További tudnivalók
 # This string is used on a new line below the add-on name
