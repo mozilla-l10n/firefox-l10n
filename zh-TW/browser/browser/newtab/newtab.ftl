@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 時鐘
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = 隱私權
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = 支持 { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = 看看是如何達成的
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = 更多資訊
 
 ## Search box component.
 
@@ -492,6 +500,8 @@ newtab-custom-widget-clock-toggle =
     .label = 時鐘
 newtab-custom-widget-sports-toggle2 =
     .label = 體育
+newtab-custom-widget-privacy-toggle =
+    .label = 隱私權
 newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具
