@@ -1279,6 +1279,7 @@ newtab-sports-widget-message-wallpapers-title = חגגו את פתיחת המו�
 newtab-sports-widget-message-wallpapers-body = הכניסו לדפדפן שלכם אווירת יום משחק לטורניר.
 newtab-sports-widget-message-wallpapers-cta = בחירת תמונת רקע
 newtab-sports-widget-message-wallpapers-semifinals-title = קבלת תמונת רקע חדשה לחצי הגמר
+newtab-sports-widget-message-wallpapers-semifinals-body = הכינו את המסך למשחקים הגדולים ביותר של המונדיאל.
 newtab-sports-widget-message-add-widgets-cta =
     .label = הוספת ווידג'טים
 newtab-sports-widget-message-day-in-play-title = להישאר במשחק עם הווידג’טים של { -brand-product-name }

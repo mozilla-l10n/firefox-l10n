@@ -37,3 +37,14 @@ toolbox-mode-parent-process-label = תהליך הורה בלבד
 toolbox-mode-parent-process-sub-label = (מהיר)
 toolbox-mode-parent-process-container =
     .title = מתמקד רק במשאבים מתהליך ההורה.
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = ניתן לטעון מסמך זה גם מ־״{ $url }״ באמצעות ״מצב מקומי״ של כלי הפיתוח, אותו ניתן להפעיל בחלונית ההגדרות.
+toolbox-local-mode-notice-add-to-settings-button = הוספה להגדרות
+toolbox-local-mode-notice-try-it-button = בואו ננסה
+toolbox-local-mode-notice-navigate-to-existing-mapping = ניווט למיפוי הנוכחי
+toolbox-local-mode-notice-always-hide = לא להציג הודעה זו שוב
