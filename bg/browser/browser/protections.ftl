@@ -135,3 +135,7 @@ bar-tooltip-cryptominer =
             [one] { $count } добиване на криптовалути ({ $percentage }%)
            *[other] { $count } добиване на криптовалути ({ $percentage }%)
         }
+
+## VPN promo card and banner
+
+protections-vpn-banner-link = Вземете { -mozilla-vpn-brand-name }
