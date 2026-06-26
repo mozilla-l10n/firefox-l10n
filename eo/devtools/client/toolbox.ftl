@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Malaktivigi 'ĉiam supre'
     .title = Tio ĉi rekomencos la ilojn por programistoj
 toolbox-always-on-top-disabled2 = Aktivigi 'ĉiam supre'
     .title = Tio ĉi rekomencos la ilojn por programistoj
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Tiu ĉi dokumento povus esti ŝargita ankaŭ el “{ $url }” per la “Loka reĝimo” de la iloj por programistoj. kiun oni povas aktivigi en la panelo de agordoj.
+toolbox-local-mode-notice-add-to-settings-button = Aldoni al agordoj
+toolbox-local-mode-notice-try-it-button = Provi
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navigi al ekzistanta mapigado
+toolbox-local-mode-notice-always-hide = Ne montri tiun ĉi mesaĝon denove

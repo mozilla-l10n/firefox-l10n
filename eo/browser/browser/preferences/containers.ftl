@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Nomo
+    .placeholder = Aldoni nomon
+containers-icon-label2 =
+    .label = Emblemo
+containers-color-label2 =
+    .label = Koloro
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Arbo
 containers-icon-chill =
     .label = Malstreĉo
+containers-window-new3 =
+    .title = Aldoni novan ingon
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Ingaj agordoj de { $name }
+    .style = min-width: 32em

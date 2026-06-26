@@ -83,3 +83,8 @@ about-private-browsing-felt-privacy-v1-info-link = Kiu povus vidi mian retumon?
 
 about-private-browsing-nova-info-body = La fermo de ĉiuj privataj fenestroj forigos viajn kuketojn, historion kaj retejajn datumojn.
 about-private-browsing-nova-info-link = Kio plu povus vidi mian retumon?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Via retuma historio ne estos registrita.
+about-private-browsing-nova-info-subheader = Ni viŝos ĉiun serĉon kaj seancon kiam vi fermos tiun ĉi fenestron. La integritaj protektoj de { -brand-short-name }, ekzemple la blokado de spuriloj, ankaŭ ekzistas ĉi tie.
