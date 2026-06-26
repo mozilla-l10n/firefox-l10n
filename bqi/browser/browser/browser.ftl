@@ -408,6 +408,11 @@ quickactions-cmd-help = هیاری، لادراری
 # Opens the devtools web inspector
 quickactions-inspector2 = گۊشیڌن ٱوزارا برنومه نویس
 quickactions-cmd-inspector2 = واجۊر کوݩ، واجۊری، ٱوزارا برنومه نویس
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = پسند ی رنگ
+# Opens Firefox Library
+quickactions-cmd-library = کتاو هووه
+quickactions-library = گۊشیڌن کتاو هووه
 quickactions-cmd-inspector = واجۊری، ٱوزارا برنومه نویسی
 # Opens about:logins
 quickactions-logins2 = دؽوۉداری رزما
@@ -421,6 +426,7 @@ quickactions-cmd-print = چاپ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = زفت کردن بلگه و عونوان PDF
 quickactions-cmd-savepdf2 = pdf، زفت بلگه
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = گۊشیڌن نیمدری سیخومی
 quickactions-cmd-private = گشتن سیخومی
@@ -1074,6 +1080,10 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = رزما
     .tooltiptext = نیشتن وو دؽوۉداری رزما زفت وابیڌه
+qrcode-save-button =
+    .label = زفت
+qrcode-save-success =
+    .message = کود QR زفت وابی.
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

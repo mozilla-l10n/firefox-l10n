@@ -32,6 +32,9 @@ settings-data-backup-scheduled-backups-on2 =
     .label = لادراری گرؽڌن رۊشن هڌ
 settings-data-backup-scheduled-backups-off2 =
     .label = لادراری گرؽڌن کۊر هڌ
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = جاگه لادراری گرؽڌن
 settings-data-backup-last-backup-location-show-in-folder = نشووݩ داڌن من دوبلگه
 settings-data-backup-last-backup-location-edit = آلشت…
 # Variables:
@@ -40,7 +43,11 @@ settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
 
 ##
 
+settings-sensitive-data =
+    .label = داده یل هساس
 settings-data-toggle-encryption-support-link = قلوه دووسته بۊین
+settings-data-change-password2 =
+    .label = آلشت رزم
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 

@@ -378,3 +378,5 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
+main-context-menu-pdfjs-copy-page =
+    .label = لف گیری بلگه
