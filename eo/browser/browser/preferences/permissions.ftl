@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Vi povas specifi la retejojn kiuj ĉiam aŭ neniam rajtos uzi kuketojn kaj retejajn datumojn. Tajpu la ekzaktan adreson de la retejo, kiun vi volas administri kaj poste alklaku Bloki, Permesi dum seanco, aŭ Permesi.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Esceptoj - Viŝi historion je malŝalto
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Vi povas difini, kiuj retejoj gardos siajn datumojn kiam { -brand-short-name } viŝas historion je fermo. Tajpu la ekzaktan adreson de la retejo, kiun vi volas rajtigi, kaj poste alklaku Permesi.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

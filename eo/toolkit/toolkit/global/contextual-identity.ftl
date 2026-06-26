@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Administri ingojn
     .accesskey = i
+user-context-new-tab =
+    .label = Nova langeto
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

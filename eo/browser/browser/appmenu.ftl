@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Ne eblas ĝisdatigi — nekongrua sistemo
 appmenuitem-banner-update-restart =
     .label = Ĝisdatigo disponebla — restartigi nun
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Instalu freŝan { -brand-short-name }. Gardu ĉiujn viajn langetojn.
+appmenu-nova-update-link = Restartigi por ĝisdatigi
+appmenu-nova-fxa-sign-in = Komenci seancon
+appmenu-nova-switch-device-promo =
+    .message = Ĉu vi baldaŭ havos novan aparaton? Portu { -brand-short-name } kun vi!
+appmenu-nova-switch-device-link = Kiel migrigi viajn datumojn.
 appmenuitem-new-tab =
     .label = Nova langeto
 appmenuitem-new-window =

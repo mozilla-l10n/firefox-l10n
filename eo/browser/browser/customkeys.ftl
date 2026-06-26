@@ -20,6 +20,9 @@ customkeys-history-reopen-window = Malfermi denove la laste fermitan fenestron
 customkeys-sidebar-toggle = Montri/kaŝi flankan strion
 customkeys-view-bookmarks-toolbar = Montri/kaŝi la ilaron de legosignoj
 customkeys-view-picture-in-picture = Inkrustita video
+customkeys-view-add-split-view = Aldoni apartigitan vidon
+# Separate is a verb
+customkeys-view-separate-split-view = Apartigi la apartigitan vidon
 customkeys-dev-tools = Iloj por programistoj
 customkeys-dev-inspector = Inspektilo de DOM kaj stiloj
 customkeys-dev-webconsole = Teksaĵa konzolo

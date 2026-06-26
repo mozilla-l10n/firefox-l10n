@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Górjejce pśecej znjemóžniś
     .title = To buźo wuwijaŕske rědy znowego startowaś
 toolbox-always-on-top-disabled2 = Górjejce pśecej zmóžniś
     .title = To buźo wuwijaŕske rědy znowego startowaś
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Toś ten dokument dajo se teke z pomocu lokalnego modusa wuwijańskich rědow z “{ $url }” zacytaś, kótaryž dajo se we wobceŕku nastajenjow zmóžniś.
+toolbox-local-mode-notice-add-to-settings-button = Nastajenjam pśidaś
+toolbox-local-mode-notice-try-it-button = Wopytajśo jen
+toolbox-local-mode-notice-navigate-to-existing-mapping = K eksistěrujucemu pśirědowanjeju nawigěrowaś
+toolbox-local-mode-notice-always-hide = Wěcej njepokazaś
