@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Altyd boppe oan útskeakelje
     .title = Dit start de Untwikkelershelpmiddelen opnij
 toolbox-always-on-top-disabled2 = Altyd boppe oan ynskeakelje
     .title = Dit start de Untwikkelershelpmiddelen opnij
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Dit dokumint kin ek laden wurde fan ‘{ $url }’ ôf mei help fan DevTools ‘Lokale modus’, dy’t ynskeakele wurde kin yn it ynstellingenpaniel.
+toolbox-local-mode-notice-add-to-settings-button = Tafoegje oan ynstellingen
+toolbox-local-mode-notice-try-it-button = Probearje
+toolbox-local-mode-notice-navigate-to-existing-mapping = Nei besteande tawizing navigearje
+toolbox-local-mode-notice-always-hide = Dit net mear toane
