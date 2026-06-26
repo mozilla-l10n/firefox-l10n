@@ -43,3 +43,11 @@ toolbox-always-on-top-enabled2 = Disable always on top
     .title = This will restart the Developer Tools
 toolbox-always-on-top-disabled2 = Enable always on top
     .title = This will restart the Developer Tools
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Add to settings
+toolbox-local-mode-notice-try-it-button = Try it
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navigate to existing mapping
+toolbox-local-mode-notice-always-hide = Don’t show me this again
