@@ -391,6 +391,7 @@ quickactions-bookmarks2 = أدِر العلامات
 quickactions-cmd-bookmarks = العلامات
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = امسح التأريخ الحالي
+quickactions-cmd-clearrecenthistory2 = ملفات تعريف الارتباط، مسح ملفات تعريف الارتباط، ذاكرة التخزين المؤقت، مسح ذاكرة التخزين المؤقت، بيانات التصفح، مسح بيانات التصفح، تأريخ التصفح، مسح سجل التصفح الأخير
 quickactions-cmd-clearrecenthistory = امسح التأريخ الحالي, التأريخ, clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = امسح التأريخ
@@ -414,6 +415,9 @@ quickactions-cmd-help = المساعدة والدعم
 # Opens the devtools web inspector
 quickactions-inspector2 = افتح أدوات المطورين
 quickactions-cmd-inspector2 = المفتش, أدوات التطوير, أدوات التطوير, inspector, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = اختر لونًا
+quickactions-cmd-colorpicker = منتقي الألوان، قطارة الألوان، اختر لونًا
 # Opens Firefox Library
 quickactions-cmd-library = المكتبة
 quickactions-library = افتح المكتبة
@@ -898,6 +902,16 @@ urlbar-result-action-ai-chat = اسأل
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative = آخر زيارة لك { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = آخر زيارة لك كانت { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = مُعلّمة { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
