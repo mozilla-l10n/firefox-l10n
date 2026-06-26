@@ -33,7 +33,7 @@ split-dismiss-button-manage-settings-option =
     .label = دؽوۉداری سامووا
 # Accessibility label for dropdown menu button
 split-dismiss-button-default-label =
-    .title = گۊزینه یل بیشتر
+    .title = گۊزینه یل قلوه
 
 ## Bookmarks toolbar callout strings
 

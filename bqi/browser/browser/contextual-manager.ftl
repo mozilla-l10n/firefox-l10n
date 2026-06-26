@@ -7,9 +7,9 @@ contextual-manager-filter-input =
     .key = F
     .aria-label = پیتینیڌن رزما
 contextual-manager-menu-more-options-button =
-    .title = گۊزینه یل بیشتر
+    .title = گۊزینه یل قلوه
 contextual-manager-more-options-popup =
-    .aria-label = گۊزینه یل بیشتر
+    .aria-label = گۊزینه یل قلوه
 
 ## Passwords
 
