@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Ĉu malfermi { -brand-short-name
 launch-on-login-infobar-final-reject-button = Ne, dankon
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Ĉu malfermi { -brand-short-name } venontfoje, kiam la komputilo ŝaltiĝas?
+launch-on-login-spotlight-startup-checkbox = Malfermi { -brand-short-name } je restarto
+launch-on-login-spotlight-pin-taskbar-checkbox = Alpingli al la taska ilaro
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Malfermi antaŭajn fenestrojn kaj langetojn
+launch-on-login-spotlight-primary-button = Konservi kaj fermi { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -448,8 +462,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la Dock.
        *[other] Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la taska strio.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Tenu { -brand-short-name } ĉemane
+       *[other] Malfermi ĉiujn ligilojn per { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Igu ĝin via norma retumilo kaj gardi ĝin en via Dock.
+       *[other] Profitu pli rapidan retumon kaj aŭtomatan protekton de privateco.
+    }
 set-default-menu-message-primary-button = Elekti kiel norma
 set-default-menu-message-primary-button-variant = Difini kiel ĉefa retumilo
+set-default-menu-message-primary-button-short-variant = Igi { -brand-short-name } la norma retumilo
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -460,3 +485,11 @@ relay-50-masks-announcement-primary-button = Iri al { -relay-brand-name }
     .accesskey = I
 relay-50-masks-announcement-secondary-button = Ignori
     .accesskey = g
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } renoviĝas.</strong> Vi nun vidas preparan, nepoluritan version, kiu estos eldonita poste dum tiu ĉi jaro.
+nova-early-access-share-feedback-link = Sendi komentojn
+    .accesskey = k
+nova-early-access-infobar-primary-button = Mi komprenis
+    .accesskey = k
