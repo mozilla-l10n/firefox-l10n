@@ -22,17 +22,25 @@ contextual-manager-passwords-command-options = گۊزینه یل
 contextual-manager-passwords-command-settings = سامووا
 contextual-manager-passwords-command-help = هیاری
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = سی و در کشیڌن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to export a password in about:logins
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = و در کشیڌن رزما زفت وابیڌه
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = سی نیشتن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = رزم زفت وابیڌه ن وادیاری بیارین
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = سی آلشت رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = آلشت رزم زفت وابیڌه
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = سی لف گیری رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه

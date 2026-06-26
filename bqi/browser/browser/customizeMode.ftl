@@ -30,5 +30,7 @@ customize-mode-uidensity-menu-compact-unsupported =
 customize-mode-undo-cmd =
     .label = وورگندن
 customize-mode-lwthemes-link = دؽوۉداری زمینه یل
+customize-mode-touchbar-cmd =
+    .label = سفارشی کردن نوار لمسی…
 customize-mode-downloads-button-autohide =
     .label = بؽڌار کردن دویمه مجال پتی بیڌن
