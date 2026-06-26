@@ -50,4 +50,4 @@ toolbox-always-on-top-disabled2 = „Mindig felül” engedélyezése
 toolbox-local-mode-notice-add-to-settings-button = Hozzáadás a beállításokhoz
 toolbox-local-mode-notice-try-it-button = Kipróbálás
 toolbox-local-mode-notice-navigate-to-existing-mapping = Navigálás a meglévő hozzárendeléshez
-toolbox-local-mode-notice-always-hide = Ne jelenítse meg ezt újra
+toolbox-local-mode-notice-always-hide = Ne jelenjen meg ez újra

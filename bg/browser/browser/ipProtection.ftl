@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Toolbar button tooltip reflects VPN state
+
+ipprotection-button =
+    .label = VPN
+    .tooltiptext = VPN
+
 ## Messages and errors
 
 ipprotection-connection-status-network-error-description = Свържете се с интернет, след което опитайте да включите VPN.
