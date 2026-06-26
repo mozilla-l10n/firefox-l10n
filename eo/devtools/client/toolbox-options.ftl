@@ -115,6 +115,26 @@ options-sourceeditor-tabsize-label = Spacoj po tabo
 options-sourceeditor-keybinding-label = Klavkombinoj
 options-sourceeditor-keybinding-default-label = Normaj
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = Loka reĝimo
+options-local-mode-only-work-locally = Loka reĝimo nur funkcias surloke kaj ĝi estos malaktivigita dum senerarigo en foraj kuntekstoj
+options-local-mode-behavior = La loka reĝimo permesas al vi ŝargi lokajn dosierojn per retadreso https sen iu ajn ekstera dependo. Nur eblas ŝargi tiujn retadresojn en langetoj kiu havas malfermitaj la ilojn por programistoj.
+options-local-mode-domain-label = Personecigita nomregno:
+options-local-mode-origin-input =
+    .placeholder = Origino de la loka mapigado
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Tiu ĉi origino konfliktas kun alia ekzistanta mapigado
+options-local-mode-origin-invalid = Tiu ĉi origino estas nevalida
+options-local-mode-folder-label = Loka dosierujo:
+options-local-mode-choose-folder = Esplori…
+    .title = Elektu lokan dosierujon por servi tiun ĉi mapigadon
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Elektu dosierujon por loka reĝimo por: { $url }
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

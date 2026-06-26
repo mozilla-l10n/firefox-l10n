@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Nova inga langeto
 all-tabs-menu-hidden-tabs =
     .label = Kaŝitaj langetoj
+all-tabs-menu-close-duplicate-tabs =
+    .label = Fermi duobligitajn langetojn
+all-tabs-menu-view-all-tabs =
+    .label = Montri ĉiujn langetojn
 all-tabs-menu-manage-user-context =
     .label = Administri ingojn
     .accesskey = i
@@ -26,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grupoj de langetoj
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Serĉi en ĉiuj langetoj
