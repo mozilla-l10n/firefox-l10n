@@ -47,6 +47,9 @@ toolbox-always-on-top-disabled2 = Enable always on top
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = This document could also be loaded from “{ $url }” using DevTools “Local Mode”, which can be enabled in the settings panel.
 toolbox-local-mode-notice-add-to-settings-button = Add to settings
 toolbox-local-mode-notice-try-it-button = Try it
 toolbox-local-mode-notice-navigate-to-existing-mapping = Navigate to existing mapping

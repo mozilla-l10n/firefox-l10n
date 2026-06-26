@@ -467,6 +467,11 @@ set-default-menu-message-split-layout-title =
         [macos] Ha { -brand-short-name } lett tilgjengeleg
        *[other] Opne alle lenker med { -brand-short-name }
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Bruk han som standardnettlesaren din og behald han i Dock.
+       *[other] Få raskare surfing og automatisk ivaretaking av personvern.
+    }
 set-default-menu-message-primary-button = Vel som standard
 set-default-menu-message-primary-button-variant = Vel som primærnettlesar
 set-default-menu-message-primary-button-short-variant = Bruk { -brand-short-name } som standardnettlesar
