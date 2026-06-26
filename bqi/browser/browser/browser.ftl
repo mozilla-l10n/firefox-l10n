@@ -913,6 +913,7 @@ urlbar-searchmode-popup-one-off-header = ای کرت پیتینیڌن وا:
 # reset after submitting.
 urlbar-searchmode-popup-header = پیتینیڌن وا:
 urlbar-searchmode-popup-search-settings-panelitem = پیتینیڌن سامووا
+urlbar-searchmode-popup-settings-panelitem = سامووا
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
