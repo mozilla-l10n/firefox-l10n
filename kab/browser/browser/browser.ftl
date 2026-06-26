@@ -391,6 +391,9 @@ quickactions-cmd-help = tallalt
 # Opens the devtools web inspector
 quickactions-inspector2 = Ldi ifecka n tneflit
 quickactions-cmd-inspector2 = amaswaḍ, ifecka n usnefli
+# Opens Firefox Library
+quickactions-cmd-library = tamkarḍit
+quickactions-library = Ldi tamkarḍit
 quickactions-cmd-inspector = amaswaḍ, devtools
 # Opens about:logins
 quickactions-logins2 = Sefrek awalen uffiren
@@ -404,6 +407,9 @@ quickactions-cmd-print = siggez
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sekles asebter s PDF
 quickactions-cmd-savepdf2 = pdf, asebter n usekles
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Ldi deg wemaẓrag n PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ldi asfaylu uslig
 quickactions-cmd-private = tunigin tusligt
@@ -811,6 +817,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ⋅ S lmendad
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Suter
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -929,7 +937,11 @@ urlbar-searchmode-popup-add-engine = Rnu “{ $engineName }”
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Tikkelt-a, nadi s:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Nadi s:
 urlbar-searchmode-popup-search-settings-panelitem = Iɣewwaren n unadi
+urlbar-searchmode-popup-settings-panelitem = Iɣewwaren
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -945,6 +957,15 @@ urlbar-result-action-switch-to-tabgroup = Uɣal ɣer { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Ldi { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Ldi deg yiccer amaynut
+    .accesskey = L
+urlbar-view-context-menu-open-in-window =
+    .label = Ldi deg usfaylu amaynut
+    .accesskey = n
 
 ## Labels shown above groups of urlbar results
 
@@ -1132,6 +1153,14 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Awalen uffiren
     .tooltiptext = Sken, tesferkeḍ awalen uffiren yettwaseklasen
+qrcode-save-filter-png = Tugna PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = Tangalt n QR
+qrcode-dialog-title = Tangalt n QR
+qrcode-image =
+    .aria-label = Tangalt QR
+qrcode-close-button =
+    .aria-label = Mdel
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1145,6 +1174,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Iccaren yemtawin
     .tooltiptext = Sken iccaren seg ibenkan-nniḍen
+toolbar-button-send-tab =
+    .label = Azen iccer
+    .tooltiptext = { "" }
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1173,6 +1205,8 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ugar…
+menu-share-windows =
+    .label = Ugar n tnefrunin
 menu-share-copy-link =
     .label = Nɣel aseɣwen
     .accesskey = l
@@ -1322,10 +1356,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Sefsex
     .accesskey = S
+reset-pbm-panel-confirm-button2 =
+    .label = Sfeḍ tiɣimit tusligt
+    .accesskey = S
 reset-pbm-panel-confirm-button =
     .label = Kkes isefka n tɣimit
     .accesskey = K
 reset-pbm-panel-complete = Isefka n tɣimit tusligt ttwakksen
+reset-pbm-toolbar-button2 =
+    .label = Sfeḍ tiɣimit tusligt
+    .tooltiptext = Sfeḍ tiɣimit tusligt
 
 ## Autorefresh blocker
 

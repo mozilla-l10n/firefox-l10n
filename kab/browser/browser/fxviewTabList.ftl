@@ -74,3 +74,4 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Susem iccer
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Kkes tasusmi n yiccer
+fxviewtabrow-send-to-mobile-verify-account = Senqed amiḍan-ik

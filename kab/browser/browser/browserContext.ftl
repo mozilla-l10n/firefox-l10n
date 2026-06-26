@@ -394,3 +394,9 @@ main-context-menu-reveal-password =
     .accesskey = S
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Amaynut
+main-context-menu-pdfjs-copy-page =
+    .label = Nɣel asebter
+main-context-menu-pdfjs-cut-page =
+    .label = Gzem asebter
+main-context-menu-pdfjs-delete-page =
+    .label = Kkes asebter

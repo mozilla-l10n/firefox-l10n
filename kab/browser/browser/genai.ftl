@@ -24,6 +24,8 @@ genai-menu-remove-sidebar =
     .label = Kkes seg ufeggag n yifecka
 genai-menu-new-badge = Amaynut
 genai-menu-summarize-page = Segzel asebter
+genai-input-ask-smart-window =
+    .placeholder = Steqsi…
 genai-input-ask-generic =
     .placeholder = Ssuter deg AI chatbot…
 # $provider (string) - name of the provider
@@ -43,6 +45,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Ssuter AI chatbot
     .accesskey = z
+genai-menu-ask-smart-window =
+    .label = Steqsi…
+    .accesskey = S
 
 ## Chatbot header
 

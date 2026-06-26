@@ -81,6 +81,11 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ala, tanemmirt
 perplexity-callout-secondary-label-1 = Zgel
 perplexity-callout-secondary-label-2 = Awi-t
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-primary-label = Ɛreḍ Startpage
+
 ## Account Adoption Passwords callout strings
 
 # Opens Mozilla accounts sign-up page
@@ -97,6 +102,7 @@ windows-10-eos-sync-new-device-primary-label = Mtawi tura
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sken izwal n waccaren deg ufeggag adisan
+sidebar-deprecation-cta-button = Ɛreḍ-it tura
 
 ## Sidebar Vertical Tabs Strings
 
@@ -134,6 +140,7 @@ sidebar-callout-survey-strongly-disagree = Ur qbileɣ ara aṭas
 sidebar-callout-survey-none-of-above = Ula d yiwen seg yisumar-a
 sidebar-callout-survey-submit = Azen
 sidebar-callout-survey-thank-you = Tanemmirt ɣef tekti-ik!
+splitview-onboarding-callout-cta-1 = Ɛreḍ-it tura
 unified-search-callout-primary-label = Ɣer zdat
 unified-search-callout-secondary-label = Zgel
 unified-search-engines-callout-title = Nadi s yinegzumen

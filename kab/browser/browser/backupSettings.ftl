@@ -63,6 +63,7 @@ disable-backup-encryption-confirm-button = Kkes awal n uεeddi
 backup-file-encryption-state-value-encrypted = Ih
 backup-file-encryption-state-value-not-encrypted = Ala
 backup-file-creation-device-label = Ibenk:
+backup-file-download-moz-browser-button = Sader
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup

@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Ποιος ενδέχεται
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Κλείνοντας όλα τα ιδιωτικά παράθυρά σας, διαγράφονται τα cookie, το ιστορικό και τα δεδομένα ιστοτόπων σας.
+about-private-browsing-nova-info-link = Ποιος μπορεί ακόμα να δει τη δραστηριότητά μου;
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Η δραστηριότητά σας δεν θα αποθηκευτεί
+about-private-browsing-nova-info-subheader = Θα διαγραφεί κάθε αναζήτηση και σύνδεση όταν κλείσετε αυτό το παράθυρο. Τα ενσωματωμένα μέτρα προστασίας του { -brand-short-name }, όπως ο αποκλεισμός ιχνηλατών, είναι ενεργοποιημένα και εδώ.

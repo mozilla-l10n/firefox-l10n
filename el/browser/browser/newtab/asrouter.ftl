@@ -462,8 +462,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και κρατήστε το στο Dock σας.
        *[other] Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και κρατήστε το στη γραμμή εργασιών σας.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Κρατήστε το { -brand-short-name } κοντά σας
+       *[other] Άνοιγμα όλων των συνδέσμων με το { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Ορίστε το ως προεπιλογή και διατηρήστε το στο Dock σας.
+       *[other] Απολαύστε ταχύτερη περιήγηση και αυτόματη προστασία απορρήτου.
+    }
 set-default-menu-message-primary-button = Ορισμός ως προεπιλογή
 set-default-menu-message-primary-button-variant = Ορισμός ως κύριο πρόγραμμα περιήγησης
+set-default-menu-message-primary-button-short-variant = Ορισμός του { -brand-short-name } ως προεπιλογής
 
 ## Firefox Relay 50 Masks Announcement
 
