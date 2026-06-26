@@ -49,4 +49,5 @@ toolbox-always-on-top-disabled2 = 항상 맨 위에 활성화
 
 toolbox-local-mode-notice-add-to-settings-button = 설정에 추가
 toolbox-local-mode-notice-try-it-button = 사용해 보기
+toolbox-local-mode-notice-navigate-to-existing-mapping = 기존 매핑으로 이동
 toolbox-local-mode-notice-always-hide = 다시 표시 안 함
