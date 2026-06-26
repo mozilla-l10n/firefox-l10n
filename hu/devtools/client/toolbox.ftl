@@ -47,6 +47,9 @@ toolbox-always-on-top-disabled2 = „Mindig felül” engedélyezése
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Ez a dokumentum a „{ $url }” címről is betölthető a fejlesztői eszközök „Helyi mód” lehetőségének használatával, melyet a beállítások panelen engedélyezhet.
 toolbox-local-mode-notice-add-to-settings-button = Hozzáadás a beállításokhoz
 toolbox-local-mode-notice-try-it-button = Kipróbálás
 toolbox-local-mode-notice-navigate-to-existing-mapping = Navigálás a meglévő hozzárendeléshez

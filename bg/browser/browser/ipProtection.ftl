@@ -8,6 +8,15 @@
 ipprotection-button =
     .label = VPN
     .tooltiptext = VPN
+ipprotection-button-error =
+    .label = Включване на VPN
+    .tooltiptext = Включване на VPN
+
+##
+
+ipprotection-help-button =
+    .tooltiptext = Отворете страницата за поддръжка на VPN
+ipprotection-title = VPN
 
 ## Messages and errors
 

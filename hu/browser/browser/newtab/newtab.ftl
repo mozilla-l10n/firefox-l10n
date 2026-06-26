@@ -1281,6 +1281,7 @@ newtab-sports-widget-message-wallpapers-title = Indítsa a világbajnokságot ú
 newtab-sports-widget-message-wallpapers-body = Vigyen egy kis játékos energiát a böngészőjébe a bajnokság alatt.
 newtab-sports-widget-message-wallpapers-cta = Háttérkép választása
 newtab-sports-widget-message-wallpapers-semifinals-title = Szerezzen új háttérképet az elődöntőkhöz
+newtab-sports-widget-message-wallpapers-semifinals-body = Készítsd elő a színteret a világbajnokság legnagyobb mérkőzéseire!
 newtab-sports-widget-message-add-widgets-cta =
     .label = Kisalkalmazások hozzáadása
 newtab-sports-widget-message-day-in-play-title = Maradjon játékban egész nap a { -brand-product-name } kisalkalmazásaival
