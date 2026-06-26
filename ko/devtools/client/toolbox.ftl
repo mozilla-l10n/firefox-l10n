@@ -43,3 +43,10 @@ toolbox-always-on-top-enabled2 = 항상 맨 위에 비활성화
     .title = 개발자 도구가 다시 시작됩니다.
 toolbox-always-on-top-disabled2 = 항상 맨 위에 활성화
     .title = 개발자 도구가 다시 시작됩니다.
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = 설정에 추가
+toolbox-local-mode-notice-try-it-button = 사용해 보기
+toolbox-local-mode-notice-always-hide = 다시 표시 안 함

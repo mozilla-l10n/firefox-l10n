@@ -6,4 +6,5 @@ default-browser-agent-task-description = Tawuri n yimeggi n yiminig amezwer isut
 default-browser-notification-header-text = Qqim kan deg useqdec n { -brand-short-name }?
 default-browser-notification-body-text = Iminig-ik·im amezwer yettwabeddel melmi kan. Sit i tririt n { -brand-short-name } s wudem umezwer.
 default-browser-notification-yes-button-text = Ih
+default-browser-notification-privacy-no-button-text = Uhu, tanemmirt
 default-browser-notification-no-button-text = Uhu
