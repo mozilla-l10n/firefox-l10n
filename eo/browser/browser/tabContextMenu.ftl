@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Reŝargi langeton
     .accesskey = R
+reload-tab2 =
+    .label = Reŝargi
+    .accesskey = R
 select-all-tabs =
     .label = Elekti ĉiujn langetojn
     .accesskey = E
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Duobligi langeton
     .accesskey = D
+duplicate-tab2 =
+    .label = Duobligi
+    .accesskey = D
 duplicate-tabs =
     .label = Duobligi langetojn
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duobligi
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,8 +61,14 @@ reload-tabs =
 pin-tab =
     .label = Alpingli langeton
     .accesskey = l
+tab-context-pin-tab2 =
+    .label = Alpingli
+    .accesskey = A
 unpin-tab =
     .label = Depingli langeton
+    .accesskey = D
+tab-context-unpin-tab2 =
+    .label = Depingli
     .accesskey = D
 pin-selected-tabs =
     .label = Alpingli langetojn
@@ -67,7 +82,13 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Aldoni langeton al legosignoj…
     .accesskey = l
+tab-context-bookmark-tab2 =
+    .label = Aldoni al legosignoj
+    .accesskey = l
 tab-context-open-in-new-container-tab =
+    .label = Malfermi en nova inga langeto
+    .accesskey = i
+tab-context-open-in-new-container-tab2 =
     .label = Malfermi en nova inga langeto
     .accesskey = i
 move-to-start =
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Fermi plurajn langetojn
     .accesskey = F
+tab-context-close-multiple-tabs2 =
+    .label = Fermi plurajn
+    .accesskey = F
 tab-context-close-duplicate-tabs =
     .label = Fermi duobligitajn langetojn
     .accesskey = d
+tab-context-close-duplicate-tabs2 =
+    .label = Fermi kopiojn de tiu ĉi langeto
+    .accesskey = k
 tab-context-share-url =
     .label = Dividi
     .accesskey = D
@@ -122,6 +149,13 @@ tab-context-close-n-tabs =
            *[other] Fermi { $tabCount } langetojn
         }
     .accesskey = l
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Fermi
+           *[other] Fermi { $tabCount } langetojn
+        }
+    .accesskey = F
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -130,6 +164,18 @@ tab-context-move-tabs =
            *[other] Movi langetojn
         }
     .accesskey = M
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Movi langeton al
+           *[other] Movi { $tabCount } langetojn al
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Movi apartigitan vidon al
+    .accesskey = a
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -138,6 +184,9 @@ tab-context-send-to-device =
            *[other] Send { $tabCount } Tabs to Device
         }
     .accesskey = n
+tab-context-send-to-device2 =
+    .label = Sendi al viaj aparatoj
+    .accesskey = S
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -164,3 +213,7 @@ tab-context-unload-n-tabs =
            *[other] Unload { $tabCount } Tabs
         }
     .accesskey = L
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Malŝargi
+    .accesskey = M

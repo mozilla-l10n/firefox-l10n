@@ -123,9 +123,9 @@ options-local-mode-only-work-locally = Loka reĝimo nur funkcias surloke kaj ĝi
 options-local-mode-behavior = La loka reĝimo permesas al vi ŝargi lokajn dosierojn per retadreso https sen iu ajn ekstera dependo. Nur eblas ŝargi tiujn retadresojn en langetoj kiu havas malfermitaj la ilojn por programistoj.
 options-local-mode-domain-label = Personecigita nomregno:
 options-local-mode-origin-input =
-    .placeholder = Origino de la loka mapigado
+    .placeholder = Origino de la loka mapigo
 # Errors shown when the origin input has an error
-options-local-mode-origin-conflict = Tiu ĉi origino konfliktas kun alia ekzistanta mapigado
+options-local-mode-origin-conflict = Tiu ĉi origino konfliktas kun alia ekzistanta mapigo
 options-local-mode-origin-invalid = Tiu ĉi origino estas nevalida
 options-local-mode-folder-label = Loka dosierujo:
 options-local-mode-choose-folder = Esplori…
@@ -134,6 +134,20 @@ options-local-mode-choose-folder = Esplori…
 # Variables:
 #   $url (String): The url for the mapping being configured
 options-local-mode-choose-folder-picker-title = Elektu dosierujon por loka reĝimo por: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Tiu ĉi dosierujo ne ekzistas, aŭ ĝi ne estas valida.
+options-local-mode-toggle =
+    .title = Aktivigi aŭ malaktivigi tiun ĉi lokan mapigon
+options-local-mode-toggle-enable = Aktivigi
+options-local-mode-toggle-disable = Malaktivigi
+options-local-mode-navigate-to =
+    .title = Navigi al la URL de tiu ĉi mapigo
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Ĉu vi volas forigi la mapigon “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Aldoni novan lokan mapigon
 
 ## Advanced section
 
