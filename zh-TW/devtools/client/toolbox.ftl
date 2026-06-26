@@ -43,3 +43,11 @@ toolbox-always-on-top-enabled2 = 關閉總是顯示在最上層功能
     .title = 將重新啟動開發者工具
 toolbox-always-on-top-disabled2 = 開啟總是顯示在最上層功能
     .title = 將重新啟動開發者工具
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = 新增至設定
+toolbox-local-mode-notice-try-it-button = 試試看
+toolbox-local-mode-notice-navigate-to-existing-mapping = 前往現有的對應
+toolbox-local-mode-notice-always-hide = 不要再顯示此訊息
