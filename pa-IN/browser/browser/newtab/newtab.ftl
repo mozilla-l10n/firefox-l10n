@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = ਘੜੀ
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = ਪਰਦੇਦਾਰੀ
 home-prefs-mission-message2 =
     .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
 home-prefs-mission-message-learn-more-link-srd = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
 ## Search box component.
 
@@ -495,6 +503,8 @@ newtab-custom-widget-clock-toggle =
     .label = ਘੜੀ
 newtab-custom-widget-sports-toggle2 =
     .label = ਖੇਡਾਂ
+newtab-custom-widget-privacy-toggle =
+    .label = ਪਰਦੇਦਾਰੀ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
 newtab-custom-widget-section-toggle =
     .label = ਵਿਜੈੱਟ
@@ -1267,6 +1277,8 @@ newtab-sports-widget-team-tbd = ਪਤਾ ਲੱਗਣਾ ਹੈ
 newtab-sports-widget-message-wallpapers-title = ਵਰਲਡ ਕੱਪ ਨੂੰ ਨਵੇਂ ਵਾਲਪੇਪਰ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ
 newtab-sports-widget-message-wallpapers-body = ਟੂਰਨਾਮੈਂਟ ਲਈ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਕੁਝ ਮੈਚ ਵਾਲੇ ਦਿਨਾਂ ਵਰਗੀ ਊਰਜਾ ਲਿਆਓ।
 newtab-sports-widget-message-wallpapers-cta = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
+newtab-sports-widget-message-wallpapers-semifinals-title = ਸੈਮੀ-ਫਾਈਨਲ ਲਈ ਨਵਾਂ ਵਾਲਪੇਪਰ ਲਵੋ
+newtab-sports-widget-message-wallpapers-semifinals-body = ਵਰਲਡ ਕੱਪ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਮੈਚਾਂ ਲਈ ਸਟੇਜ ਸਜਾਓ।
 newtab-sports-widget-message-add-widgets-cta =
     .label = ਵਿਜੈੱਟ ਜੋੜੋ
 newtab-sports-widget-message-day-in-play-title = { -brand-product-name } ਵਿਜੈਟ ਨਾਲ ਆਪਣੇ ਦਿਨ ਵਿੱਚ ਖੇਡ ਨੂੰ ਬਣਾਈ ਰੱਖੋ

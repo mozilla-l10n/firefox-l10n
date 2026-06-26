@@ -462,8 +462,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੋਲ ਰੱਖੋ — ਇਸ ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਤੇ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ।
        *[other] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੋਲ ਰੱਖੋ — ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ ਤੇ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਰੱਖੋ।
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੋਲ ਰੱਖੋ
+       *[other] ਸਾਰੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] ਇਸ ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਣਾਓ ਅਤੇ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ।
+       *[other] ਵੱਧ ਤੇਜ਼ ਬਰਾਊਜ਼ਿੰਗ ਕਰੋ ਅਤੇ ਪਰਦੇਦਾਰੀ ਨੂੰ ਆਪਣੇ-ਆਪ ਸੁਰੱਖਿਆ ਦਿਓ।
+    }
 set-default-menu-message-primary-button = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
 set-default-menu-message-primary-button-variant = ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } ਨੂੰ ਡਿਫਾਲਟ ਬਣਾਓ
 
 ## Firefox Relay 50 Masks Announcement
 
