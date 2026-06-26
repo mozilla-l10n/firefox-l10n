@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Zakázať Vždy navrchu
     .title = Týmto sa reštartujú Nástroje pre vývojárov
 toolbox-always-on-top-disabled2 = Povoliť Vždy navrchu
     .title = Týmto sa reštartujú Nástroje pre vývojárov
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Tento dokument je možné načítať aj z “{ $url }” pomocou “Lokálneho režimu” vo Vývojárskych nástrojoch, ktorý je možné povoliť v paneli nastavení.
+toolbox-local-mode-notice-add-to-settings-button = Pridať do nastavení
+toolbox-local-mode-notice-try-it-button = Vyskúšajte to
+toolbox-local-mode-notice-navigate-to-existing-mapping = Prejsť na existujúce mapovanie
+toolbox-local-mode-notice-always-hide = Nabudúce nezobrazovať

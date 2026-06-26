@@ -86,5 +86,5 @@ about-private-browsing-nova-info-link = Kto by mohol stále vidieť moju aktivit
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
-about-private-browsing-nova-info-header = Údaje o vašom prehliadaní nebudú zaznamenané
+about-private-browsing-nova-info-header = História vášho prehliadania nebude zaznamenaná
 about-private-browsing-nova-info-subheader = Po zatvorení tohto okna vymažeme všetky vyhľadávania a prihlásenia. Vstavané ochrany { -brand-short-name(case: "gen") } sú tiež zapnuté, napríklad blokovanie sledovacích prvkov.
