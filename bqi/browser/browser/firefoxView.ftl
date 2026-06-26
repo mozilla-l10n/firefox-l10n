@@ -26,6 +26,7 @@ firefoxview-tabpickup-adddevice-learn-how = قلوه دووسته بۊین
 firefoxview-tabpickup-synctabs-learn-how = قلوه دووسته بۊین
 firefoxview-tabpickup-synctabs-primarybutton = هوم گوم کردن بلگه یل واز
 firefoxview-syncedtabs-loading-header = هوم گوم کردن هونی ٱنجوم ابۊ
+firefoxview-tabpickup-network-offline-header = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 firefoxview-tabpickup-network-offline-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-sync-error-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-password-locked-link = قلوه دووسته بۊین

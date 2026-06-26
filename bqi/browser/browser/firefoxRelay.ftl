@@ -5,6 +5,9 @@
 firefox-relay-get-unlimited-masks =
     .label = دؽوۉداری ماسکا
     .accesskey = M
+firefox-relay-dismiss =
+    .label = رڌ کردن
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = زفت وابیڌن نشۊوی ایمیل ایسا:
 firefox-relay-use-mask-title-1 = و کار گرؽڌن ماسک ایمیل
@@ -34,6 +37,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = ی ماسک ایمیل مۊفتی بگیرین
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = سبت نوم
     .accesskey = S
