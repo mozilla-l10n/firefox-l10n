@@ -40,3 +40,8 @@ toolbox-always-on-top-enabled2 = Изключване винаги най-отг
     .title = Ще рестартира Инструментите за разработчици
 toolbox-always-on-top-disabled2 = Включване винаги най-отгоре
     .title = Ще рестартира инструментите за разработчици
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Добавяне към настройки
