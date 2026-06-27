@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Cloc
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Preifatrwydd
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link2 =
@@ -155,6 +158,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Cefnogi { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Dyma sut
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Dysgu rhagor
 
 ## Search box component.
 
@@ -509,6 +517,8 @@ newtab-custom-widget-clock-toggle =
     .label = Cloc
 newtab-custom-widget-sports-toggle2 =
     .label = Chwaraeon
+newtab-custom-widget-privacy-toggle =
+    .label = Preifatrwydd
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau
@@ -1295,6 +1305,7 @@ newtab-sports-widget-team-tbd = I'w benderfynu
 newtab-sports-widget-message-wallpapers-title = Cychwyn Cwpan y Byd gyda phapurau wal newydd
 newtab-sports-widget-message-wallpapers-body = Dewch ag ychydig o egni diwrnod gêm i'ch porwr ar gyfer y twrnamaint.
 newtab-sports-widget-message-wallpapers-cta = Dewis papur wal
+newtab-sports-widget-message-wallpapers-semifinals-title = Cael papur wal newydd ar gyfer y rowndiau cynderfynol
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ychwanegu teclyn
 newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gyda theclynnau { -brand-product-name }

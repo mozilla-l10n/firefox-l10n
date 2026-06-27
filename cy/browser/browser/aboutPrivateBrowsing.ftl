@@ -87,3 +87,4 @@ about-private-browsing-nova-info-link = Pwy sy'n dal i allu gweld beth rwy'n gwn
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Bydd eich hanes pori'n cael ei ddileu
+about-private-browsing-nova-info-subheader = Byddwn yn dileu eich holl chwilio a mewngofnodi pan fyddwch yn cau'r ffenestr hon. Mae diogeledd cynhenid { -brand-short-name } ymlaen yma hefyd, fel rhwystro tracwyr.

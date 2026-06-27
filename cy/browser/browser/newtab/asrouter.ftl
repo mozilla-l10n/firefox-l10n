@@ -475,8 +475,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Cadwch { -brand-short-name } wrth law — gwnewch e eich prif borwr a'i gadw'n eich Doc.
        *[other] Cadwch { -brand-short-name } wrth law — gwnewch e eich prif borwr a'i gadw'n eich Doc.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Cadw { -brand-short-name } wrth law
+       *[other] Agor pob do.en gyda { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Ei wneud eich porwr arferol a'i gadw yn eich Doc
+       *[other] Cael pori cyflymach a diogelwch preifatrwydd awtomatig.
+    }
 set-default-menu-message-primary-button = Gosod fel y rhagosodiad
 set-default-menu-message-primary-button-variant = Gosod fel eich prif borwr
+set-default-menu-message-primary-button-short-variant = Gwneud { -brand-short-name } eich porwr arferol
 
 ## Firefox Relay 50 Masks Announcement
 

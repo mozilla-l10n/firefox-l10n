@@ -440,6 +440,9 @@ quickactions-cmd-print = argraffu
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Cadw tudalen fel PDF
 quickactions-cmd-savepdf2 = pdf, cadw tudalen
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Agor golygydd PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Agor ffenestr breifat
 quickactions-cmd-private = pori preifat
