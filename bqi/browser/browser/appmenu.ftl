@@ -15,7 +15,9 @@ appmenuitem-banner-update-unsupported =
     .label = نتره ورۊ رسۊوی کونه — سیستوم سازگار نؽ
 appmenuitem-banner-update-restart =
     .label = ورۊ رسۊوی داری — ره وندن دووارته
+appmenu-nova-update-link = سی ورۊ رسۊوی ز نۊ رس ونین
 appmenu-nova-fxa-sign-in = و من ٱووڌن
+appmenu-nova-switch-device-link = چتاور داده یل خومووه جا گورو کۊنیم
 appmenuitem-new-tab =
     .label = بلگه نۊ
 appmenuitem-new-window =
@@ -129,6 +131,8 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = ب در وندن دووسمندیا قلوه
 profiler-popup-description-title =
     .value = زفت، تجزیه وو تئلیل، یک رسۊوی
 profiler-popup-learn-more-button =
