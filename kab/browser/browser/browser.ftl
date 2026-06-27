@@ -1174,9 +1174,6 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Iccaren yemtawin
     .tooltiptext = Sken iccaren seg ibenkan-nniḍen
-toolbar-button-send-tab =
-    .label = Azen iccer
-    .tooltiptext = { "" }
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
