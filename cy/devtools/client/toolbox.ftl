@@ -43,3 +43,13 @@ toolbox-always-on-top-enabled2 = Analluogau bob tro ar y brig
     .title = Bydd hyn yn ail-gychwyn yr Offer Datblygwyr
 toolbox-always-on-top-disabled2 = Galluogi bob tro ar y brig
     .title = Bydd hyn yn ail-gychwyn yr Offer Datblygwyr
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Mae modd llwytho'r ddogfen hon hefyd o “{ $url }” gan ddefnyddio DevTools “Modd Lleol”, ar ôl  ei alluogi yn y panel gosodiadau.
+toolbox-local-mode-notice-add-to-settings-button = Ychwanegu at y gosodiadau
+toolbox-local-mode-notice-try-it-button = Rhowch gynnig arni
+toolbox-local-mode-notice-navigate-to-existing-mapping = Llywiwch i'r mapio presennol

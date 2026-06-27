@@ -1306,6 +1306,7 @@ newtab-sports-widget-message-wallpapers-title = Cychwyn Cwpan y Byd gyda phapura
 newtab-sports-widget-message-wallpapers-body = Dewch ag ychydig o egni diwrnod gêm i'ch porwr ar gyfer y twrnamaint.
 newtab-sports-widget-message-wallpapers-cta = Dewis papur wal
 newtab-sports-widget-message-wallpapers-semifinals-title = Cael papur wal newydd ar gyfer y rowndiau cynderfynol
+newtab-sports-widget-message-wallpapers-semifinals-body = Patatoi ar gyfer gemau mwyaf Cwpan y Byd.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ychwanegu teclyn
 newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gyda theclynnau { -brand-product-name }
