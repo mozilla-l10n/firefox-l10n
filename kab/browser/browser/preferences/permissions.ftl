@@ -138,7 +138,7 @@ permissions-site-notification-window2 =
 permissions-site-notification-desc = Ismal-agi web sutren-d asireg i tuzna n ilɣa. Tzemreḍ ad tferneḍ anwa ismal izemren ad ak-d-aznen ilɣa. Tzemreḍ daɣen ad teswaḥleḍ asuter imaynuten.
 permissions-site-notification-disable-label =
     .label = Sewḥel isuturen n usiregn ilɣa imaynuten
-permissions-site-notification-disable-desc = Aya ad isewḥel asuter n tsirag n tuzna n ilγa i yusmal ur nelli deg tebdart. asewḥel n ilγa izmer ad iṛeẓ timahaltin n usmel.
+permissions-site-notification-disable-desc = Aya ad isewḥel asuter n tsirag n tuzna n ilɣa i yusmal ur nelli deg tebdart. asewḥel n ilɣa izmer ad iṛeẓ timahaltin n usmel.
 
 ## Site Permissions - Location
 

@@ -226,7 +226,7 @@ browser-containers-enabled =
     .accesskey = R
 browser-containers-learn-more = Issin ugar
 browser-containers-settings =
-    .label = Iγewwaṛen…
+    .label = Iɣewwaṛen…
     .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
 startup-group =
@@ -496,7 +496,7 @@ drm-group =
     .label = Izerfan n usefrek n ugbur umḍin (DRM)
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
-    .label = Γɣaṛ agbur ittwaḥerzen s DRM-
+    .label = Ɣɣaṛ agbur ittwaḥerzen s DRM-
     .accesskey = Γ
 play-drm-content-learn-more = Issin ugar
 update-application-title = Ileqman n { -brand-short-name }
@@ -1454,7 +1454,7 @@ permissions-speaker = Tafrant n win yettmeslayen
 permissions-speaker-settings =
     .label = Iɣewwaren…
     .accesskey = ɣ
-permissions-notification = Ilγa
+permissions-notification = Ilɣa
 permissions-notification-settings =
     .label = Iɣewwaṛen…
     .accesskey = b
@@ -1494,7 +1494,7 @@ permissions-camera2 =
 permissions-microphone2 =
     .label = Asawaḍ
 permissions-notification2 =
-    .label = Ilγa
+    .label = Ilɣa
 
 ## Privacy Section - Data Collection
 

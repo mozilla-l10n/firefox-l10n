@@ -12,7 +12,7 @@ autofill-use-payment-method-os-prompt-macos = seqdec talɣut n tarrayt n uxelle�
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = sken talɣut n tarrayt n uxelleṣ i yettwaḥerzen
 # The link leads users to Form Autofill browser preferences.
-autofill-options-link = Iγewwaren n usekcem s wudem awurman deg iferka
+autofill-options-link = Iɣewwaren n usekcem s wudem awurman deg iferka
 autofill-options-link-osx = Ismenyifen n usekcem s wudem awurman
 
 ## The credit card capture doorhanger
@@ -75,7 +75,7 @@ autofill-phishing-warningmessage = Ččar s wudem awurman { $categories }
 autofill-category-address = tansa
 autofill-category-name = isem
 autofill-category-organization = takebbanit
-autofill-category-tel = tiliγri
+autofill-category-tel = tiliɣri
 autofill-category-email = imayl
 # This string is used in drop down suggestion when users try to autofill credit
 # card on an insecure website (without https).

@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Inagan n tuqna akked isefka n usmel
     .accesskey = S
-clear-site-data-cookies-info = Izmer ad tefγeḍ seg ismal web ma tsefḍeḍ
+clear-site-data-cookies-info = Izmer ad tefɣeḍ seg ismal web ma tsefḍeḍ
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:

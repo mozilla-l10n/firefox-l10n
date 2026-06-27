@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 moz-button-more-options =
-    .title = Ugar n iγewwaṛen
+    .title = Ugar n iɣewwaṛen
     .aria-label = Ugar n iɣewwaṛen

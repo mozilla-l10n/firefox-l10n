@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = Talγut γef usefrek n tansiwin URL
+url-classifier-title = Talɣut ɣef usefrek n tansiwin URL
 url-classifier-search-title = Nadi
 url-classifier-search-result-title = Igmaḍ
 # Variables:
@@ -36,18 +36,18 @@ url-classifier-cache-prefix = Azdawṣil
 url-classifier-cache-ncache-expiry = Tuffirt tuzdirt temmut
 url-classifier-cache-fullhash = Adway iččuren
 url-classifier-cache-pcache-expiry = Tuffirt tufrirt temmut
-url-classifier-debug-title = Taseγtit
-url-classifier-debug-module-btn = Sbadu izegrar iγmisen
+url-classifier-debug-title = Taseɣtit
+url-classifier-debug-module-btn = Sbadu izegrar iɣmisen
 url-classifier-debug-file-btn = Sbadu afaylu aɣmis
-url-classifier-debug-js-log-chk = Rmed aγmis JS
-url-classifier-debug-sb-modules = Izegrar n uγmis i iminig aγelsan
+url-classifier-debug-js-log-chk = Rmed aɣmis JS
+url-classifier-debug-sb-modules = Izegrar n uɣmis i iminig aɣelsan
 url-classifier-debug-modules = Izegrar iɣmisen imiranen
-url-classifier-debug-sbjs-modules = Aγmis n tunigin taɣelsant
+url-classifier-debug-sbjs-modules = Aɣmis n tunigin taɣelsant
 url-classifier-debug-file = Afaylu aɣmis amiran
 url-classifier-trigger-update = Sker aleqem
 url-classifier-not-available = N/A
-url-classifier-disable-sbjs-log = Sens aγmis n tunigin taɣelsant
-url-classifier-enable-sbjs-log = Rmed aγmis n tunigin JS taɣelsant
+url-classifier-disable-sbjs-log = Sens aɣmis n tunigin taɣelsant
+url-classifier-enable-sbjs-log = Rmed aɣmis n tunigin JS taɣelsant
 url-classifier-enabled = Irmed
 url-classifier-disabled = Arurmid
 url-classifier-updating = Aleqqem

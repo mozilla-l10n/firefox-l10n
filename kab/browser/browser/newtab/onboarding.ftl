@@ -10,7 +10,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = Ansuf γer { -brand-short-name }
+onboarding-welcome-header = Ansuf ɣer { -brand-short-name }
 onboarding-start-browsing-button-label = Bdu tunigin
 onboarding-not-now-button-label = Mačči tura
 mr1-onboarding-get-started-primary-button-label = Bdu

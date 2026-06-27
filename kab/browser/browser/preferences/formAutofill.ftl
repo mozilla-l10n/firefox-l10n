@@ -75,7 +75,7 @@ autofill-address-townland = Tamurt
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-autofill-address-city = Aγrem
+autofill-address-city = Aɣrem
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-district = Tamnaḍt
@@ -123,9 +123,9 @@ autofill-address-eircode = Tangalt n irlanda
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Rnu tansa tamaynut
-autofill-address-country = Tamnaḍt neγ tamurt
+autofill-address-country = Tamnaḍt neɣ tamurt
 autofill-address-country-only = Tamurt
-autofill-address-tel = Tiliγri
+autofill-address-tel = Tiliɣri
 autofill-address-email = Imayl
 autofill-cancel-button = Sefsex
 autofill-save-button = Sekles

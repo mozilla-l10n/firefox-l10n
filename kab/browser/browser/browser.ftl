@@ -595,9 +595,9 @@ browser-tab-unmute =
     }
 browser-tab-unblock =
     { $count ->
-        [1] ΓEṚ ICCER
-        [one] ΓEṚ ICCER
-       *[other] ΓEṚ ACCAREN N { $count }
+        [1] ƔEṚ ICCER
+        [one] ƔEṚ ICCER
+       *[other] ƔEṚ ACCAREN N { $count }
     }
 
 ## Bookmarks toolbar items
@@ -1505,7 +1505,7 @@ trustpanel-blocker-header =
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
-urlbar-trust-icon-notsecure-label = Mačči d aγelsan
+urlbar-trust-icon-notsecure-label = Mačči d aɣelsan
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

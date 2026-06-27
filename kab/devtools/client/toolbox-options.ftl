@@ -72,7 +72,7 @@ options-screenshot-clipboard-only-label = Seg tuṭṭfa n ugdil ɣer ɣef wafus
 options-screenshot-clipboard-tooltip2 =
     .title = Isseklas tuṭṭfa n ugdil srid ɣer ɣefwafus
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Γeṛ ameslaw n tkamirat
+options-screenshot-audio-label = Ɣeṛ ameslaw n tkamirat
 options-screenshot-audio-tooltip =
     .title = Ad irmed amesalw n tkamirat m'ara ad teṭfeḍ agdil
 
@@ -96,7 +96,7 @@ options-sourceeditor-keybinding-default-label = Amezwer
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
-options-context-advanced-settings = Iγewwaṛen leqqayen
+options-context-advanced-settings = Iɣewwaṛen leqqayen
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Arurmid uffir HTTP ( ma telddi Tanaka n ifecka )
 options-disable-http-cache-tooltip =

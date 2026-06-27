@@ -8,9 +8,9 @@
 preonboarding-title = Ansuf ɣer { -brand-product-name }
 preonboarding-primary-cta = Sentem syen kemmel
 preonboarding-primary-cta-v2 = Kemmel
-preonboarding-manage-and-read-header-v2 = Γeṛ tiwtilin n useqdec akked tsertit tabaḍnit. Sefrek iɣewwaren niḍen.
+preonboarding-manage-and-read-header-v2 = Ɣeṛ tiwtilin n useqdec akked tsertit tabaḍnit. Sefrek iɣewwaren niḍen.
 # Label for header style button that toggles showing the Terms of Use
-preonboarding-terms-of-use-header-button-title = Γeṛ tiwtilin-nneɣ n useqdec
+preonboarding-terms-of-use-header-button-title = Ɣeṛ tiwtilin-nneɣ n useqdec
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Ɣeṛ tasertit-nneɣ n tbaḍnit
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
