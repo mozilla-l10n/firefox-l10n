@@ -53,3 +53,4 @@ toolbox-local-mode-notice = Mae modd llwytho'r ddogfen hon hefyd o “{ $url }�
 toolbox-local-mode-notice-add-to-settings-button = Ychwanegu at y gosodiadau
 toolbox-local-mode-notice-try-it-button = Rhowch gynnig arni
 toolbox-local-mode-notice-navigate-to-existing-mapping = Llywiwch i'r mapio presennol
+toolbox-local-mode-notice-always-hide = Peidio â dangos hwn i mi eto

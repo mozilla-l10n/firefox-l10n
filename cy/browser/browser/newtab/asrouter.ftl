@@ -478,7 +478,7 @@ set-default-menu-message-row-layout-subtitle-variant =
 set-default-menu-message-split-layout-title =
     { PLATFORM() ->
         [macos] Cadw { -brand-short-name } wrth law
-       *[other] Agor pob do.en gyda { -brand-short-name }
+       *[other] Agor pob dolen gyda { -brand-short-name }
     }
 set-default-menu-message-split-layout-subtitle =
     { PLATFORM() ->
