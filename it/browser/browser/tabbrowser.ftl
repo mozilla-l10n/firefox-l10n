@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Ridimensiona le schede divise
+tab-devtools-splitter =
+    .aria-label = Ridimensiona il pannello strumenti di sviluppo
 
 ## Tooltips for tab audio control
 ## Variables:
