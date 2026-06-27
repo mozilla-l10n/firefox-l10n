@@ -208,6 +208,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = و در کشیڌن
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = سی نیشتن و من ٱووڌنا وو رزما زفت وابیڌه خوتووݩ، رزم ٱسلی ن بزنین
 master-password-reload-button =
     .label = و من ٱووڌن
     .accesskey = L
@@ -244,6 +245,11 @@ about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] پاک کردن { $count } و من ٱووڌن؟
        *[other] پاک کردن پوی { $count } و من ٱووڌن؟
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
+       *[other] پوی { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
