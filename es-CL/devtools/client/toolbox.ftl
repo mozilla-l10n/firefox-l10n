@@ -47,6 +47,10 @@ toolbox-always-on-top-disabled2 = Activar siempre visible
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Este documento también se puede cargar desde “{ $url }” usando el “Modo local” de DevTools, que se puede habilitar en el panel de configuración.
+toolbox-local-mode-notice-add-to-settings-button = Agregar a la configuración
 toolbox-local-mode-notice-try-it-button = Pruébalo
 toolbox-local-mode-notice-navigate-to-existing-mapping = Navegar a los mapas existentes
 toolbox-local-mode-notice-always-hide = No volver a mostrar

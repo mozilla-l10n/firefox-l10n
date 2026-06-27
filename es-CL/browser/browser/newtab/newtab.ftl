@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Reloj
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Privacidad
 home-prefs-mission-message2 =
     .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
 home-prefs-manage-topics-link2 =
@@ -151,6 +154,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Apoyar a { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Descubre cómo
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Aprender más
 
 ## Search box component.
 
@@ -492,6 +500,8 @@ newtab-custom-widget-clock-toggle =
     .label = Reloj
 newtab-custom-widget-sports-toggle2 =
     .label = Deportes
+newtab-custom-widget-privacy-toggle =
+    .label = Privacidad
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -1266,6 +1276,8 @@ newtab-sports-widget-team-tbd = Por determinar
 newtab-sports-widget-message-wallpapers-title = Da el puntapié inicial a la Copa del Mundo con nuevos fondos de pantalla
 newtab-sports-widget-message-wallpapers-body = Recibe la energía de los partidos en tu navegador.
 newtab-sports-widget-message-wallpapers-cta = Elegir fondo de pantalla
+newtab-sports-widget-message-wallpapers-semifinals-title = Consigue un nuevo fondo de pantalla para las semifinales
+newtab-sports-widget-message-wallpapers-semifinals-body = Prepara el escenario para los partidos más importantes del Mundial.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Añadir widgets
 newtab-sports-widget-message-day-in-play-title = Llena tu día con los partidos usando los widgets de { -brand-product-name }
