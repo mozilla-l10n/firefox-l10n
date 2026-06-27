@@ -370,6 +370,11 @@ about-logins-import-dialog-items-no-change2 =
         [one] <span>و من ٱووڌنا تکراری جۊرستن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابی)</span>
        *[other] <span>و من ٱووڌنا تکراری جۊرستن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابی)</span>
     }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من نووڌن)</span>
+       *[other] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من نووڌن)</span>
+    }
 about-logins-import-dialog-done = ٱنجوم وابی
 about-logins-import-dialog-error-title = ختا و من ٱووڌن دووسمندیا
 about-logins-import-dialog-error-file-format-title = موشکل فورمت فایل
