@@ -7,6 +7,9 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = تم سیستوم — خوتکار
+extension-default-theme-description =
+    و کار گرؽڌن سامووا سیستوم عامل
+    سی دویمه یل، نومگه یل وو نیمدری یل.
 extension-firefox-compact-light-name = رۊشن
 extension-firefox-compact-light-description = ی زمینه وا تئر رنگی رۊشن.
 extension-firefox-compact-dark-name = تاریک

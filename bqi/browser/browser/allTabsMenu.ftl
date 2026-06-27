@@ -9,6 +9,8 @@ all-tabs-menu-hidden-tabs =
     .label = بلگه یل بؽڌاری
 all-tabs-menu-close-duplicate-tabs =
     .label = بستن بلگه یل تکراری
+all-tabs-menu-view-all-tabs =
+    .label = نیشتن پوی بلگه یل
 all-tabs-menu-manage-user-context =
     .label = دؽوۉداری کانتینرا
     .accesskey = o
@@ -26,3 +28,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = بونکۊیل بلگه
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = پیتینیڌن پوی بلگه یل
