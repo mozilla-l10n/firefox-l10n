@@ -569,11 +569,11 @@ browser-window-return-to-opener =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = TAΓURI
+browser-tab-audio-playing2 = TAƔURI
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = ISUSEM
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = TAΓURI TAWURMANT TETTUSEWḤEL
+browser-tab-audio-blocked = TAƔURI TAWURMANT TETTUSEWḤEL
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = TUGNA-DEG-TUGNA
 
@@ -978,9 +978,15 @@ urlbar-result-action-open-saved-tabgroup = Ldi { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Ldi deg yiccer amaynut
     .accesskey = L
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Ldi deg yiccer n umagbar amaynut
+    .accesskey = m
 urlbar-view-context-menu-open-in-window =
     .label = Ldi deg usfaylu amaynut
     .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Ldi deg usfaylu uslig amaynut
+    .accesskey = m
 
 ## Labels shown above groups of urlbar results
 
@@ -1510,5 +1516,7 @@ trustpanel-tracking-content-tab-list-header = Ismal-a ttaɛraḍen ad ak⋅akem-
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+reduced-protection-infobar-reload-button = Ales asali
+    .accesskey = A
 reduced-protection-infobar-never-show-button = Ur d-skan ara tikkelt nniḍen
     .accesskey = U

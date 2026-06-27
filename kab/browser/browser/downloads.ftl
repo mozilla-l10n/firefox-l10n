@@ -176,8 +176,8 @@ downloads-cancel-download =
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = Sken akkw yIsadaren
-    .accesskey = w
+    .label = Sken-d akk isadaren
+    .accesskey = S
 # This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =

@@ -4,7 +4,7 @@
 
 about-policies-title = Tasertit n tkebbanit
 aboutpolicies-page-heading =
-    .heading = Γef tsertiyn
+    .heading = Ɣef tsertiyin
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Urmid
 errors-tab = Tuccḍiwin

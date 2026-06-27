@@ -7,7 +7,7 @@ contextual-manager-filter-input =
     .key = F
     .aria-label = Nadi awalen uffiren
 contextual-manager-menu-more-options-button =
-    .title = Ugar n iγewwaṛen
+    .title = Ugar n iɣewwaṛen
 contextual-manager-more-options-popup =
     .aria-label = Ugar n iɣewwaṛen
 
