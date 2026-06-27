@@ -88,7 +88,7 @@ smartblock-placeholder-button-text = Разрешаване от { $websitehost 
 ##
 
 protections-panel-settings-label = Настройки на защитите
-protections-panel-protectionsdashboard-label = Табло със защити
+protections-panel-protectionsdashboard-label = Табло за управление на защитата
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

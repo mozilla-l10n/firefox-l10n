@@ -22,8 +22,8 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } продължава да спира проследяванията и в поверителни прозорци, но не ги отчита в статистиката.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Проследявания, спрени от { -brand-short-name } тази седмица
-protection-report-webpage-title = Табло със защити
-protection-report-page-content-title = Табло със защити
+protection-report-webpage-title = Табло за управление на защитата
+protection-report-page-content-title = Табло за управление на защитата
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = Докато ползвате и разглеждате интернет, { -brand-short-name } може да защитава вашата поверителност без вашата намеса. Това е персонализирано обобщение на тези защити, включително инструментите за поемане на контрол върху вашата онлайн сигурност.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
