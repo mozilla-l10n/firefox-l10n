@@ -82,3 +82,8 @@ about-private-browsing-felt-privacy-v1-info-link = Pwy all weld fy ngweithgarwch
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Mae cau eich holl ffenestri preifat yn dileu eich cwcis, hanes a data gwefan.
+about-private-browsing-nova-info-link = Pwy sy'n dal i allu gweld beth rwy'n gwneud?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Bydd eich hanes pori'n cael ei ddileu
