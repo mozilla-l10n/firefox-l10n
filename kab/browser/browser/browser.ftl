@@ -391,6 +391,8 @@ quickactions-cmd-help = tallalt
 # Opens the devtools web inspector
 quickactions-inspector2 = Ldi ifecka n tneflit
 quickactions-cmd-inspector2 = amaswaḍ, ifecka n usnefli
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Fren ini
 # Opens Firefox Library
 quickactions-cmd-library = tamkarḍit
 quickactions-library = Ldi tamkarḍit
@@ -444,6 +446,8 @@ quickactions-cmd-update = Leqqem
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Tangalt taɣbalut n usebter
 quickactions-cmd-viewsource2 = sken aɣbalu, tangalt aɣbalut, asebter aɣbalu
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Ldi { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = sken aɣbalu, aɣbalu
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -558,6 +562,9 @@ browser-window-restore-down-button =
     .tooltiptext = Err-d
 browser-window-close-button =
     .tooltiptext = Mdel
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Uɣal
 
 ## Tab actions
 
@@ -760,6 +767,14 @@ urlbar-result-action-copy-to-clipboard = Nɣel
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = d arbadu
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Asiɣzef n { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Yettuwelleh
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -1153,6 +1168,11 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Awalen uffiren
     .tooltiptext = Sken, tesferkeḍ awalen uffiren yettwaseklasen
+qrcode-copy-button =
+    .label = Nɣel
+qrcode-save-button =
+    .label = Sekles
+qrcode-save-title = Sekles tangalt QR
 qrcode-save-filter-png = Tugna PNG
 qrcode-save-filename = qrcode.png
 qrcode-window-title = Tangalt n QR
@@ -1174,11 +1194,17 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Iccaren yemtawin
     .tooltiptext = Sken iccaren seg ibenkan-nniḍen
+toolbar-button-send-tab =
+    .label = Azen iccer
+    .tooltiptext = Azen iccer amiran ɣer yibenk nniḍen
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Asfaylu amaynut n tunigin tusligt
     .tooltiptext = Asfaylu amaynut n tunigin tusligt ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Bḍu
+    .tooltiptext = Bḍu asebter-a
 
 ## EME notification panel
 
@@ -1481,3 +1507,8 @@ urlbar-trust-icon-notsecure-label = Mačči d aγelsan
 trustpanel-insecure-section-header = Tuqqna-inek d taraɣellsant
 trustpanel-list-label-tracking-content = Agbur n uḍfaṛ
 trustpanel-tracking-content-tab-list-header = Ismal-a ttaɛraḍen ad ak⋅akem-ḍefren:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-never-show-button = Ur d-skan ara tikkelt nniḍen
+    .accesskey = U
