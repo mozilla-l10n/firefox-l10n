@@ -46,3 +46,10 @@ about-private-browsing-cookie-banners-promo-button = کم کردن بنرا کۊ
 about-private-browsing-felt-privacy-v1-info-header = هیچ توری ری ای دسگا نهلی و جا
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کۊکیا، ویرگار وو داده یل وبگه ایسا ن هر سا ک پوی نیمدری یل سیخومی خوتووݩ ن بووندین، پاک اکونه.
 about-private-browsing-felt-privacy-v1-info-link = کؽ گاشڌ ترسته بۊ فعالیت مونه بنیره؟
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = ایسا ز هالت زفت و در زیڌین
