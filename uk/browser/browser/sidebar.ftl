@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = Чат-бот з ШІ
 menu-view-contextual-password-manager =
     .label = Паролі
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Відкриті вкладки
 sidebar-options-menu-button =
     .title = Відкрити меню
 
@@ -58,6 +63,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Керувати налаштуваннями { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикальні вкладки
+sidebar-settings2 =
+    .label = Налаштування
 sidebar-settings =
     .label = Налаштування бічної панелі
 sidebar-hide-tabs-and-sidebar =
@@ -70,6 +77,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Розгортати бічну панель при наведенні
+sidebar-manage-extensions2 = Керувати всіма розширеннями
+sidebar-customize-extensions-header2 = Розширення
+sidebar-customize-firefox-tools-header2 =
+    .label = Інструменти
 
 ## Labels for sidebar context menu items
 
@@ -117,6 +128,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Видалити сторінки з історії
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Редагувати закладку…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Видалити закладку
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Видалити
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -125,6 +145,11 @@ sidebar-menu-history-label =
     .label = Історія
 sidebar-menu-synced-tabs-label =
     .label = Вкладки з інших пристроїв
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Відкриті вкладки
 sidebar-menu-bookmarks-label =
     .label = Закладки
 sidebar-menu-customize-label =
@@ -171,16 +196,48 @@ sidebar-menu-history-header =
     .heading = Історія
 sidebar-menu-syncedtabs-header =
     .heading = Вкладки з інших пристроїв
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Відкриті вкладки
 sidebar-menu-cpm-header =
     .heading = Паролі
+sidebar-menu-bookmarks-header =
+    .heading = Закладки
 sidebar-panel-header-close-button =
     .tooltiptext = Закрити
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Меню закладок
+sidebar-bookmarks-folder-toolbar = Панель закладок
+sidebar-bookmarks-folder-other = Інші закладки
+sidebar-bookmarks-folder-mobile = Мобільні закладки
 
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Налаштування бічної панелі
 sidebar-history-title = Історія
 sidebar-syncedtabs-title = Вкладки з інших пристроїв
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Відкриті вкладки
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Закріплені вкладки
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Вікно { $winID } (поточне)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Вікно { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

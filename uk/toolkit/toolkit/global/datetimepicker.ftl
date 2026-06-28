@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Година
 time-spinner-minute-label =
     .aria-label = Хвилина
+time-spinner-second-label =
+    .aria-label = Секунда
+time-spinner-millisecond-label =
+    .aria-label = Мілісекунда
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Попередня хвилина
 time-spinner-minute-next =
     .aria-label = Наступна хвилина
+time-spinner-second-previous =
+    .aria-label = Попередня секунда
+time-spinner-second-next =
+    .aria-label = Наступна секунда
+time-spinner-millisecond-previous =
+    .aria-label = Попередня мілісекунда
+time-spinner-millisecond-next =
+    .aria-label = Наступна мілісекунда
 time-spinner-day-period-previous =
     .aria-label = Попередній період дня
 time-spinner-day-period-next =

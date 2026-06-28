@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Скорочувати атрибути DOM
 options-collapse-attrs-tooltip =
     .title = Скорочувати довгі атрибути в інспекторі
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Показати коментарі
+options-show-comments-tooltip =
+    .title = Відображати вузли коментарів в інспекторі
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Клацніть і потягніть для редагування значень розмірів
 options-inspector-draggable-properties-tooltip =
@@ -110,6 +114,40 @@ options-sourceeditor-expandtab-label = Відступ за допомогою п
 options-sourceeditor-tabsize-label = Розмір табуляції
 options-sourceeditor-keybinding-label = Сполучення клавіш
 options-sourceeditor-keybinding-default-label = Типово
+
+## Local Mode section
+
+# The heading
+options-local-mode-label = Локальний режим
+options-local-mode-only-work-locally = Локальний режим працює лише локально та вимикається під час налагодження віддалених контекстів.
+options-local-mode-behavior = Локальний режим дозволяє завантажувати локальні файли через URL-адреси https без будь-якої зовнішньої залежності. URL-адреси можна завантажувати лише з вкладок, у яких відкрито DevTools.
+options-local-mode-domain-label = Власний домен:
+options-local-mode-origin-input =
+    .placeholder = Джерело для локального зіставлення
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Це джерело конфліктує з іншим наявним зіставленням
+options-local-mode-origin-invalid = Це джерело недійсне
+options-local-mode-folder-label = Локальна тека:
+options-local-mode-choose-folder = Огляд…
+    .title = Вибір локальної теки, що слугуватиме для цього зіставлення
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Виберіть теку локального режиму для: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Цієї теки не існує або вона недійсна.
+options-local-mode-toggle =
+    .title = Перемикання цього локального зіставлення
+options-local-mode-toggle-enable = Увімкнути
+options-local-mode-toggle-disable = Вимкнути
+options-local-mode-navigate-to =
+    .title = Перейти до цієї URL-адреси зіставлення
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Ви хочете вилучити зіставлення “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Додати нове локальне зіставлення
 
 ## Advanced section
 
