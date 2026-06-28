@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Назва
+    .placeholder = Додати назву
+containers-icon-label2 =
+    .label = Піктограма
+containers-color-label2 =
+    .label = Колір
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = Дерево
 containers-icon-chill =
     .label = Застуда
+containers-window-new3 =
+    .title = Додати новий контейнер
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Налаштування контейнера { $name }
+    .style = min-width: 32em

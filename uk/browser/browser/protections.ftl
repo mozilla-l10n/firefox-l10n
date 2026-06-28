@@ -218,3 +218,67 @@ bar-tooltip-cryptominer =
             [few] { $count } криптомайнери ({ $percentage }%)
            *[many] { $count } криптомайнерів ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Захист приватності
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } заблоковано цього тижня
+        [few] { $count } заблоковано цього тижня
+       *[many] { $count } заблоковано цього тижня
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } вистежувач
+        [few] { $count } вистежувачі
+       *[many] { $count } вистежувачів
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } зчитувач цифрового відбитка
+        [few] { $count } зчитувачі цифрового відбитка
+       *[many] { $count } зчитувачів цифрового відбитка
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } файл cookie стеження
+        [few] { $count } файли cookie стеження
+       *[many] { $count } файлів cookie стеження
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } вистежувач соціальних мереж
+        [few] { $count } вистежувачі соціальних мереж
+       *[many] { $count } вистежувачів соціальних мереж
+    }
+privacy-metrics-empty = Цього тижня не заблоковано жодного елемента стеження. { -brand-short-name } захищає вас від зазначених загроз під час перегляду вебсторінок.
+privacy-metrics-loading = Завантаження статистики захисту…
+privacy-metrics-error = Не вдалося завантажити статистику захисту.
+privacy-metrics-private-window = { -brand-short-name } продовжує блокувати стеження в приватних вікнах, але не веде облік заблокованих елементів.
+
+## VPN promo card and banner
+
+protections-vpn-title = Захист приватності не обмежується лише браузером
+protections-vpn-header-content = Захистіть свій пристрій за допомогою { -mozilla-vpn-brand-name }. Одним дотиком зашифруйте весь трафік і приховайте своє розташування.
+protections-get-vpn-link = Отримати { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: передплачено
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Завдяки використанню { -mozilla-vpn-brand-name } шифрується весь ваш трафік і приховується ваше розташування щонайбільше на { $count } пристрої. Отримайте максимум від своєї передплати – встановіть з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] Завдяки використанню { -mozilla-vpn-brand-name } шифрується весь ваш трафік і приховується ваше розташування щонайбільше на { $count } пристроях. Отримайте максимум від своєї передплати – встановіть з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[many] Завдяки використанню { -mozilla-vpn-brand-name } шифрується весь ваш трафік і приховується ваше розташування щонайбільше на { $count } пристроях. Отримайте максимум від своєї передплати – встановіть з <a data-l10n-name="playstore-link">Google Play Store</a> або <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Захист, що виходить за межі браузера
+protections-vpn-banner-content = Спробуйте { -mozilla-vpn-brand-name } без ризику та дізнайтеся, чому TechRadar вважає: "Його швидкість, простота й низька щомісячна ціна роблять його вартим уваги".
+protections-vpn-banner-link = Отримати { -mozilla-vpn-brand-name }
