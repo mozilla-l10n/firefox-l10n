@@ -87,4 +87,4 @@ about-private-browsing-nova-info-link = מי יכול עדיין לראות את
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = היסטוריית הגלישה שלך תימחק
-about-private-browsing-nova-info-subheader = נמחק כל חיפוש והתחברות לאתרים כשחלון זה ייסגר. ההגנות המובנות של { -brand-short-name } מופעלות גם כאן, כמו חסימת רכיבי מעקב.
+about-private-browsing-nova-info-subheader = אנחנו נמחק כל חיפוש והתחברות לאתרים כשחלון זה ייסגר. ההגנות המובנות של { -brand-short-name } מופעלות גם כאן, כמו חסימת רכיבי מעקב.
