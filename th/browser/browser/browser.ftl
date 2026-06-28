@@ -440,6 +440,9 @@ quickactions-cmd-print = พิมพ์
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = บันทึกหน้าเป็น PDF
 quickactions-cmd-savepdf2 = pdf, บันทึกหน้า
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = เปิดตัวแก้ไข PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = เปิดหน้าต่างส่วนตัว
 quickactions-cmd-private = การเรียกดูแบบส่วนตัว

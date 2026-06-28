@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น อนุญาตในเซสชัน หรือ อนุญาต
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = ข้อยกเว้น - ล้างประวัติเมื่อปิดโปรแกรม
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = คุณสามารถระบุเว็บไซต์ที่เก็บข้อมูลไว้เมื่อ { -brand-short-name } ล้างประวัติตอนปิดได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก อนุญาต
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
