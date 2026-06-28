@@ -83,3 +83,7 @@ about-private-browsing-felt-privacy-v1-info-link = Quem pode ver minha atividade
 
 about-private-browsing-nova-info-body = Fechar todas as janelas privativas exclui seus cookies, histórico e dados de sites.
 about-private-browsing-nova-info-link = Quem ainda pode ver minha atividade?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Sua atividade de navegação não será salva
