@@ -5,4 +5,5 @@
 
 ## Logging presets
 
+about-logging-preset-networking-label = شبکه
 about-logging-preset-networking-cookie-label = کۊکیا

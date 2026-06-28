@@ -8,3 +8,4 @@
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-extension-process = وردنی یل ({ $pid })
+about-processes-socket-process = شبکه ({ $pid })

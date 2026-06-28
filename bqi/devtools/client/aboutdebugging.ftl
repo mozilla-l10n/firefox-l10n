@@ -74,6 +74,9 @@ about-debugging-setup-usb-updating-button = هونی ورۊ رسۊوی ابۊ…
 about-debugging-setup-usb-status-enabled = و کار وسته
 about-debugging-setup-usb-status-disabled = ز کار وسته
 about-debugging-setup-usb-status-updating = هونی ورۊ رسۊوی ابۊ…
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = جاگه مکووی شبکه
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = ٱووردن
