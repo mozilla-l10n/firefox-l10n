@@ -377,8 +377,12 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = ٱنجوم وابی
 about-logins-import-dialog-error-title = ختا و من ٱووڌن دووسمندیا
+about-logins-import-dialog-error-conflicting-values-title = چن مفدار موتناقز سی ی و من ٱووڌن
+about-logins-import-dialog-error-conflicting-values-description = سی نمووه: نوم منتوری یل، رزما، نشۊوی پوشت سر یک سی ی و من ٱووڌن.
 about-logins-import-dialog-error-file-format-title = موشکل فورمت فایل
+about-logins-import-dialog-error-file-format-description = سر بلگه یل سۊتۊن زبال نؽن یا بلا وابینه. موتمعن بۊین ک ای فایل  سۊتۊنایی سی نوم منتوری، رزم وو URL داره.
 about-logins-import-dialog-error-file-permission-title = نتره فایل ن بوخووه
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } موجوز خوندن فایل ن نڌاره. موجوزا فایل ن آلشت کۊنین.
 about-logins-import-dialog-error-unable-to-read-title = فایل نتره ک تجزیه بۊ
 about-logins-import-dialog-error-unable-to-read-description = موتمعن بۊین ک ی فایل CSV یا TSV پسند کردین.
 about-logins-import-dialog-error-no-logins-imported = هیچ دووسمندی زبار و من ٱووڌن و سیستوم و من نووڌه
@@ -440,6 +444,11 @@ about-logins-import-report-no-change2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابی)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابی)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ختا</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
+       *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ختا</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
     }
 
 ## Logins import report page
