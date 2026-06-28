@@ -463,6 +463,16 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Tenha o { -brand-short-name } à mão, torne o padrão e mantenha no Dock.
        *[other] Tenha o { -brand-short-name } à mão, torne o padrão e mantenha na barra de tarefas.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Abra todos os links com o { -brand-short-name }
+       *[other] Abra todos os links com o { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Torne o navegador padrão e mantenha no Dock.
+       *[other] Tenha uma navegação mais rápida e proteções automáticas de privacidade.
+    }
 set-default-menu-message-primary-button = Definir como padrão
 set-default-menu-message-primary-button-variant = Definir como navegador principal
 set-default-menu-message-primary-button-short-variant = Tornar o { -brand-short-name } o navegador padrão

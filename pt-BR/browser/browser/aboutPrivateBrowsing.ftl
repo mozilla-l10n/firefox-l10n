@@ -87,3 +87,4 @@ about-private-browsing-nova-info-link = Quem ainda pode ver minha atividade?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Sua atividade de navegação não será salva
+about-private-browsing-nova-info-subheader = Todas as pesquisas e acessos a contas serão excluídas quando você fechar esta janela. As proteções integradas do { -brand-short-name } também estão ativadas aqui, como bloqueio de rastreadores.
