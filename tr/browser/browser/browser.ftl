@@ -440,6 +440,9 @@ quickactions-cmd-print = yazdır
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sayfayı PDF olarak kaydet
 quickactions-cmd-savepdf2 = pdf, sayfayı kaydet
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = PDF düzenleyicisini aç
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Gizli pencere aç
 quickactions-cmd-private = gizli gezinti

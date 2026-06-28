@@ -82,3 +82,8 @@ about-private-browsing-felt-privacy-v1-info-link = Etkinliğimi kimler görebili
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Tüm gizli pencerelerinizi kapattığınızda çerezleriniz, geçmişiniz ve site verileriniz silinir.
+about-private-browsing-nova-info-link = Yaptıklarımı kimler hâlâ görebilir?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Gezinti geçmişiniz kaydedilmiyor

@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor
 genai-menu-new-badge = Yeni
 genai-menu-summarize-page = Sayfayı özetle
+genai-input-ask-smart-window =
+    .placeholder = Sor…
 genai-input-ask-generic =
     .placeholder = Yapay zekâ sohbet botuna sor…
 # $provider (string) - name of the provider
