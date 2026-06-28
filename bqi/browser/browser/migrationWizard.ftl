@@ -162,6 +162,7 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = و من ٱووردن رزما ز سافاری
 migration-safari-password-import-steps-header = سی و من ٱووردن رزما ز سافاری
 migration-chrome-windows-password-import-steps-header = من کروم:
+migration-chrome-windows-password-import-step2 = ز نومگه، گۊزینه ”سامووا” ن پسند کۊنین.
 migration-manual-password-import-skip-button = گوم زیڌن
 migration-manual-password-import-select-button = پسند فایل
 migration-safari-password-import-skip-button = گوم زیڌن

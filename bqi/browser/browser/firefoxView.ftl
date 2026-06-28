@@ -25,10 +25,12 @@ firefoxview-syncedtabs-signin-primarybutton-2 = و من ٱووڌن
 firefoxview-tabpickup-adddevice-learn-how = قلوه دووسته بۊین
 firefoxview-tabpickup-synctabs-learn-how = قلوه دووسته بۊین
 firefoxview-tabpickup-synctabs-primarybutton = هوم گوم کردن بلگه یل واز
+firefoxview-syncedtabs-synctabs-header = سامووا هوم گوم کردن خوتووݩ ن ورۊ کۊنین
 firefoxview-syncedtabs-loading-header = هوم گوم کردن هونی ٱنجوم ابۊ
 firefoxview-tabpickup-network-offline-header = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 firefoxview-tabpickup-network-offline-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-sync-error-primarybutton = قپ ریت دووارته
+firefoxview-tabpickup-sync-disconnected-primarybutton = رۊشن کردن هوم گوم کردن من سامووا
 firefoxview-tabpickup-password-locked-link = قلوه دووسته بۊین
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">قلوه دووسته بۊین</a>
 firefoxview-tabpickup-signed-out-header = سی منپیز دووارته و من بیاین

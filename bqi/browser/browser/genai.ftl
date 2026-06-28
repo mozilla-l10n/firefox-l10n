@@ -108,5 +108,8 @@ genai-model-optin-cancel =
 
 # Text for the retry link when generation fails
 link-preview-generation-retry = قپ ریت دووارته
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = لینگ پؽش نشووݩ سامووا
 # Onboarding card Close button
 link-preview-onboarding-close = بستن

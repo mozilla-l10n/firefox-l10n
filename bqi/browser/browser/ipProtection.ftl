@@ -83,6 +83,15 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگ
 
 ip-protection-learn-more = قلوه دووسته بۊین
 ip-protection-not-opted-in-button = ناهاڌن پا کار
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = دؽوۉداری سامووا وبگه
+    .description =
+        { $count ->
+            [one] { $count } وبگه
+           *[other] { $count } وبگه
+        }
 ip-protection-autostart =
     .label = رۊشن کردن خوتکار VPN
 ip-protection-autostart-checkbox =

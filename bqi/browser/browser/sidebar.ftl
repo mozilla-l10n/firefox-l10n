@@ -54,6 +54,8 @@ sidebar-customize-extensions-header = وردنی یل نوار کلی
 sidebar-customize-firefox-tools-header =
     .label = ٱوزارا { -brand-product-name }
 sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
+sidebar-settings2 =
+    .label = سامووا
 sidebar-settings =
     .label = سامووا نوار کلی
 

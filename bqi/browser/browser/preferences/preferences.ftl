@@ -677,6 +677,8 @@ containers-settings-button =
     .label = سامووا
 containers-remove-button =
     .label = پاک کردن
+containers-settings-button2 =
+    .title = سامووا
 
 ## Account and sync
 
@@ -1194,6 +1196,13 @@ preferences-doh-select-resolver = پسند جۊر کوݩ:
 preferences-doh-manage-exceptions =
     .label = دؽوۉداری استسنایل…
     .accesskey = x
+preferences-doh-advanced-button =
+    .label = سامووا پؽش رئڌه
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = سامووا پؽش رئڌه
 
 ## The following strings are used in the Download section of settings
 
