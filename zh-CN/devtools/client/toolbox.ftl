@@ -43,3 +43,10 @@ toolbox-always-on-top-enabled2 = 禁用“总显示在最前端”
     .title = 将重启开发者工具
 toolbox-always-on-top-disabled2 = 启用“总显示在最前端”
     .title = 将重启开发者工具
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = 添加到设置
+toolbox-local-mode-notice-try-it-button = 试试看
+toolbox-local-mode-notice-always-hide = 不再显示

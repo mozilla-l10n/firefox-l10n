@@ -20,9 +20,9 @@ content-sharing-modal-sign-in-2 =
     .label = 登录以分享
 content-sharing-modal-title-2 = 与其他人分享这些页面
 content-sharing-modal-title-signed-in = 您的链接已可分享
-content-sharing-modal-description-2 = 登录以为链接创建便于分享的页面。创建后不能再编辑或删除，并将在 7 天后失效。
+content-sharing-modal-description-2 = 登录后即可为链接创建便于分享的页面。创建后不能再编辑或删除，并将在 7 天后失效。
 content-sharing-modal-description-signed-in = 已为您的链接创建便于分享的页面。页面无法编辑或删除，并将在 7 天后失效。
-content-sharing-modal-policy = 共享即表示您同意我们的<a data-l10n-name="aup-link">可接受使用政策</a>
+content-sharing-modal-policy = 分享即表示您同意我们的<a data-l10n-name="aup-link">可接受使用政策</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.

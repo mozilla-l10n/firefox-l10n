@@ -115,6 +115,14 @@ options-sourceeditor-tabsize-label = 制表符宽度
 options-sourceeditor-keybinding-label = 按键绑定
 options-sourceeditor-keybinding-default-label = 默认设置
 
+## Local Mode section
+
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = 文件夹不存在或无效。
+options-local-mode-toggle-enable = 启用
+options-local-mode-toggle-disable = 禁用
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
