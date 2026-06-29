@@ -22,7 +22,7 @@ about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">do
 about-telemetry-telemetry-dashboard = Cui <a data-l10n-name="dashboard-link">panei di Telemetry</a> al e pussibil visualizâ i dâts di Mozilla ricevûts cun Telemetry.
 about-telemetry-telemetry-probe-dictionary = Il <a data-l10n-name="probe-dictionary-link">dizionari des sondis</a> al conten detais e descrizions des sondis (“probe”) tirâts sù di Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Vierç in tal visôr JSON
-about-telemetry-home-section = Home
+about-telemetry-home-section = Introduzion
 about-telemetry-general-data-section = Dâts gjenerai
 about-telemetry-environment-data-section = Dâts ambient
 about-telemetry-session-info-section = Informazions de session
