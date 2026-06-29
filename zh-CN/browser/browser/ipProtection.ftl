@@ -161,6 +161,7 @@ ipprotection-message-continuous-onboarding-autostart = 将 VPN <a data-l10n-name
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 将记住您设置为使用 VPN 的网站。您随时可在<a data-l10n-name="setting-link">设置</a>中更新网站。
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN 已为此网站关闭
 ipprotection-open-button = 打开 { -brand-product-name }
+ipprotection-come-back-title = 继续试用内置VPN
 ipprotection-message-body-hide-location = 在 { -brand-product-name } 中浏览时隐藏您的位置，更好地保护隐私和控制权。
 ipprotection-connection-status-generic-error-title-1 = 无法连接 VPN
     .aria-label = 无法连接 VPN
