@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = 管理身份
     .accesskey = O
+user-context-new-tab =
+    .label = 新建标签页
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
