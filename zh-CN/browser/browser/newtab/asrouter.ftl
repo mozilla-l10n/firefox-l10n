@@ -466,6 +466,7 @@ set-default-menu-message-split-layout-title =
     }
 set-default-menu-message-primary-button = 设为默认浏览器
 set-default-menu-message-primary-button-variant = 设为主浏览器
+set-default-menu-message-primary-button-short-variant = 将 { -brand-short-name } 设为默认浏览器
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -476,3 +477,8 @@ relay-50-masks-announcement-primary-button = 前往 { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = 知道了
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = 分享反馈
+    .accesskey = S

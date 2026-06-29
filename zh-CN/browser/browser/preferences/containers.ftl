@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = 名称
+    .placeholder = 添加名称
+containers-icon-label2 =
+    .label = 图标
+containers-color-label2 =
+    .label = 颜色
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,11 @@ containers-icon-tree =
     .label = 树木
 containers-icon-chill =
     .label = 墨镜
+containers-window-new3 =
+    .title = 添加新身份
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = “{ $name }”身份设置
+    .style = min-width: 32em
