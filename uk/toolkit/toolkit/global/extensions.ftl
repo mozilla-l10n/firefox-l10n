@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = Заборонити
     .accesskey = б
 webext-perms-host-description-all-urls = Доступ до ваших даних на всіх вебсайтах
+webext-perms-host-description-file-urls = Доступ до локальних файлів на вашому комп'ютері
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Доступ до ваших даних для сайтів у домені { $domain }
@@ -141,6 +142,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } запит
 
 webext-site-perms-header-with-gated-perms-midi = Цей додаток надає { $hostname } доступ до MIDI-пристроїв.
 webext-site-perms-header-with-gated-perms-midi-sysex = Цей додаток надає { $hostname } доступ до MIDI-пристроїв (з підтримкою SysEx).
+webext-site-perms-header-with-gated-perms-serial = Цей додаток надає { $hostname } доступ до ваших послідовних пристроїв.
 
 ##
 
@@ -151,6 +153,12 @@ webext-site-perms-description-gated-perms-midi =
     Зазвичай це підключені пристрої, як-от синтезатори, але також можуть бути вбудовані в комп'ютер засоби.
     
     Зазвичай вебсайтам не дозволяється отримувати доступ до пристроїв MIDI. Неналежне використання може пошкодити систему або поставити під загрозу безпеку.
+webext-site-perms-description-gated-perms-webserial =
+    Це такі пристрої, як мікроконтролери, 3D-принтери й інші пристрої, що під'єднуються через USB, послідовні порти або Bluetooth.
+    
+    Ви зможете вибрати, до яких пристроїв вебсайт матиме доступ.
+    
+    Вебсайтам зазвичай не дозволено отримувати доступ до послідовних пристроїв. Неправильне використання може призвести до пошкодження або поставити під загрозу безпеку.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -165,6 +173,7 @@ webext-site-perms-header-unsigned-with-perms = Додати { $extension }? Це
 
 webext-site-perms-midi = Доступ до пристроїв MIDI
 webext-site-perms-midi-sysex = Доступ до пристроїв MIDI з підтримкою SysEx
+webext-site-perms-serial = Доступ до послідовних пристроїв
 
 ## Colorway theme migration
 

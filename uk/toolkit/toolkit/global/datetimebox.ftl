@@ -41,3 +41,5 @@ datetime-dayperiod =
 
 datetime-calendar =
     .aria-label = Календар
+datetime-time =
+    .aria-label = Час
