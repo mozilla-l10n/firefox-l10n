@@ -33,7 +33,7 @@ about-private-browsing-focus-promo-text = Мобилното ни приложе
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Вземете поверителното разглеждане на телефона си
-about-private-browsing-focus-promo-text-b = Използвайте { -focus-brand-name } за онова търсене, което не искате да правите с основния си мобилен четец.
+about-private-browsing-focus-promo-text-b = Използвайте { -focus-brand-name } за онова търсене, което не искате да правите с основния си мобилен браузър.
 about-private-browsing-focus-promo-header-c = Следващо ниво поверителност за мобилни устройства
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } изчиства историята всеки път, а също спира реклами и проследяване.
 # This string is the title for the banner for search engine selection

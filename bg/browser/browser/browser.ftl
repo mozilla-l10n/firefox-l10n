@@ -609,7 +609,7 @@ browser-tab-unblock =
 
 browser-import-button2 =
     .label = Внасяне на отметки…
-    .tooltiptext = Внасяне на отметки от друг четец във { -brand-short-name }.
+    .tooltiptext = Внасяне на отметки от друг браузър във { -brand-short-name }.
 bookmarks-toolbar-empty-message = За бърз достъп, поставете вашите отметки тук, на лентата с отметки. <a data-l10n-name="manage-bookmarks">Управление на отметки…</a>
 
 ## WebRTC Pop-up notifications
@@ -1286,7 +1286,7 @@ navbar-search =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = Раздели на четеца
+    .aria-label = Раздели на браузъра
 tabs-toolbar-new-tab =
     .label = Нов раздел
 tabs-toolbar-list-all-tabs =
