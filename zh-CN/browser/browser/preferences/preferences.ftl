@@ -1264,6 +1264,8 @@ containers-settings-button =
     .label = 设置
 containers-remove-button =
     .label = 移除
+containers-section-header2 =
+    .heading = 身份设置
 
 ## Account and sync
 
