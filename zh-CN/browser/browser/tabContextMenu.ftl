@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = 刷新标签页
     .accesskey = R
+reload-tab2 =
+    .label = 重新加载
+    .accesskey = R
 select-all-tabs =
     .label = 选择所有标签页
     .accesskey = S
@@ -52,9 +55,15 @@ reload-tabs =
 pin-tab =
     .label = 固定标签页
     .accesskey = P
+tab-context-pin-tab2 =
+    .label = 固定
+    .accesskey = P
 unpin-tab =
     .label = 取消固定标签页
     .accesskey = b
+tab-context-unpin-tab2 =
+    .label = 取消固定
+    .accesskey = p
 pin-selected-tabs =
     .label = 固定标签页
     .accesskey = P
@@ -67,7 +76,13 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = 为标签页添加书签…
     .accesskey = B
+tab-context-bookmark-tab2 =
+    .label = 添加书签
+    .accesskey = B
 tab-context-open-in-new-container-tab =
+    .label = 新建身份标签页打开
+    .accesskey = e
+tab-context-open-in-new-container-tab2 =
     .label = 新建身份标签页打开
     .accesskey = e
 move-to-start =
@@ -117,6 +132,13 @@ tab-context-close-n-tabs =
     .label =
         { $tabCount ->
             [1] 关闭标签页
+           *[other] 关闭 { $tabCount } 个标签页
+        }
+    .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] 关闭
            *[other] 关闭 { $tabCount } 个标签页
         }
     .accesskey = C

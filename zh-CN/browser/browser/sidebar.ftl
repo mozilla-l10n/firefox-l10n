@@ -226,6 +226,18 @@ sidebar-opentabs-title = 打开的标签页
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = 固定的标签页
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = 窗口 { $winID }（当前）
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = 窗口 { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 
