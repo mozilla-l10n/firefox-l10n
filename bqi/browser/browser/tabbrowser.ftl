@@ -161,10 +161,18 @@ tab-group-editor-color-selector2-pink = آل
     .title = آل
 tab-group-editor-color-selector2-red = سوئر
     .title = سوئر
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — بسته وابیڌه
 tab-group-description = { $tabGroupName } — بونکۊ بلگه
 tab-context-unnamed-group =
     .label = بونکۊ بؽ نوم
 tab-group-name-default = بونکۊ بؽ نوم
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-closed-description = نومگه بلگه یل بسته وابی
 
 ##
 
@@ -241,3 +249,5 @@ tab-context-badge-new = نۊ
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = بلگه یل چواسه
+split-view-menuitem-close-both-tabs =
+    .label = بستن هر دو تا بلگه
