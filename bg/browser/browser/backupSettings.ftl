@@ -19,6 +19,9 @@ backup-folder-name = Възстановяване на { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } Резервни копия
+settings-data-backup-header2 =
+    .label = Архивиране
+    .description = Автоматично защитава вашите отметки, история и други данни.
 settings-data-backup-toggle = Управление на резервните копия
 settings-data-backup-toggle-on2 =
     .label = Включване на резервните копия
@@ -26,6 +29,13 @@ settings-data-backup-trigger-button = Архивиране
 settings-data-backup-in-progress-button = Архивирането е в процес на изпълнение…
 settings-data-backup-in-progress-message =
     .message = Архивиране в ход...
+settings-data-backup-scheduled-backups-on2 =
+    .label = Архивирането е ВКЛЮЧЕНО
+settings-data-backup-scheduled-backups-off2 =
+    .label = Архивирането е ИЗКЛЮЧЕНО
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Местоположение на резервното копие
 settings-data-backup-last-backup-location-show-in-folder = Показване в папката
 settings-data-backup-last-backup-location-edit = Редактиране…
 settings-data-create-backup-error = Възникна грешка при създаване на резервно копие на { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -35,6 +45,7 @@ settings-data-backup-last-backup-filename = Име на файл: { $fileName }
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Включване на архивиране
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Местоположение
 turn-on-scheduled-backups-location-choose-button =
