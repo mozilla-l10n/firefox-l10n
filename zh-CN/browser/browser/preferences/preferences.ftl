@@ -1266,6 +1266,16 @@ containers-remove-button =
     .label = 移除
 containers-section-header2 =
     .heading = 身份设置
+containers-add-button2 =
+    .label = 添加新身份
+    .accesskey = A
+containers-new-tab-check3 =
+    .label = 每次新建标签页时选择身份
+    .accesskey = S
+containers-settings-button2 =
+    .title = 设置
+containers-remove-button2 =
+    .title = 移除
 
 ## Account and sync
 
@@ -1273,6 +1283,9 @@ sync-group-label =
     .label = 同步
 account-group-label2 =
     .label = 账户
+account-disabled-group =
+    .label = 账户
+    .description = 无可用账户设置。
 account-placeholder2 =
     .label = 您尚未登录
     .description = 登录以加密保护数据、确保数据私密，并可在使用 { -brand-short-name } 的各设备上触手可得。
