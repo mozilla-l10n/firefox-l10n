@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = 询问 { $provider }
 genai-menu-new-badge = 新
 genai-menu-summarize-page = 生成页面摘要
+genai-input-ask-smart-window =
+    .placeholder = 询问…
 genai-input-ask-generic =
     .placeholder = 询问 AI 聊天机器人…
 # $provider (string) - name of the provider
@@ -98,6 +100,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = 询问 AI 聊天机器人
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = 询问…
+    .accesskey = z
 
 ## Chatbot header
 

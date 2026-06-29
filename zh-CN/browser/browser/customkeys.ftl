@@ -20,6 +20,9 @@ customkeys-history-reopen-window = 重新打开上次关闭的窗口
 customkeys-sidebar-toggle = 打开/关闭侧栏
 customkeys-view-bookmarks-toolbar = 打开/关闭书签工具栏
 customkeys-view-picture-in-picture = 画中画
+customkeys-view-add-split-view = 添加分屏
+# Separate is a verb
+customkeys-view-separate-split-view = 解除分屏
 customkeys-dev-tools = Web 开发者工具
 customkeys-dev-inspector = DOM 和样式查看器
 customkeys-dev-webconsole = Web 控制台
