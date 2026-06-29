@@ -1284,6 +1284,7 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-description = پوی بلگه یل سیخومی بسته وابیڌه وو ویرگار وو کۊکیا وو داده پوی وبگه یل دی پاک ابۊن.
 reset-pbm-panel-always-ask-checkbox =
     .label = هی ز مو پۊرسیڌه بۊ
     .accesskey = A

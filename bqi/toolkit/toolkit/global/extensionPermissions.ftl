@@ -10,6 +10,7 @@
 webext-perms-description-bookmarks = خوندن وو سامووݩ نشووکا
 webext-perms-description-management = نزارت ری و کار گرؽڌن وردنی یل وو دؽوۉداری زمینه یل
 webext-perms-description-notifications = نشووݩ داڌن وارسۊویا ری بلگه سی ایسا
+webext-perms-description-sessions = دسرسی و بلگه یل بسته وابیڌه دیندایی
 
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.

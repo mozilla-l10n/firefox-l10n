@@ -9,6 +9,7 @@ callout-primary-complete-button-label = فئمیم!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-recently-closed-title = بلگه یل بسته وابیڌه خوتووݩ ن من ی دمووݩ وورگنین
 callout-firefox-view-colorways-title = ی رنگ پیشکینیڌه وابیڌه ن بیارین
 callout-firefox-view-colorways-reminder-title = رنگ بندیا دیندایی ایما ن بجۊرین
 
