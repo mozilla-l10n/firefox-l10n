@@ -448,6 +448,8 @@ onboarding-checklist-pin = Ghim { -brand-short-name } vào thanh tác vụ
 onboarding-checklist-import = Nhập từ trình duyệt trước
 onboarding-checklist-extension = Thêm tiện ích
 onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản của bạn
+onboarding-checklist-minimize =
+    .label = Thu nhỏ
 
 ## Tab Groups feature onboarding strings
 

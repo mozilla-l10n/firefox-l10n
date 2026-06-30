@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Vị trí
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (đề xuất)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Chọn một đường dẫn
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Chọn…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Bật sao lưu
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Đã xảy ra sự cố với thư mục sao lưu bạn đã chọn. Hãy chọn một thư mục khác và thử lại.
+turn-on-scheduled-backups-error-default-dir-denied = Chúng tôi không thể truy cập thư mục sao lưu của bạn. Thử chọn một đường dẫn khác.
 backup-error-file-system = Đã xảy ra sự cố với thư mục sao lưu bạn đã chọn khi sao lưu { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

@@ -460,8 +460,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Luôn giữ { -brand-short-name } trong tầm tay — đặt nó làm trình duyệt mặc định và giữ nó trong thanh Dock của bạn.
        *[other] Luôn giữ { -brand-short-name } trong tầm tay — đặt nó làm trình duyệt mặc định và giữ nó trong thanh tác vụ của bạn.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Luôn giữ { -brand-short-name } trong tầm tay bạn
+       *[other] Mở tất cả các liên kết bằng { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Đặt nó làm mặc định và giữ nó trong Dock.
+       *[other] Tận hưởng tốc độ duyệt web nhanh hơn và bảo vệ quyền riêng tư tự động.
+    }
 set-default-menu-message-primary-button = Đặt làm mặc định
 set-default-menu-message-primary-button-variant = Đặt làm trình duyệt mặc định
+set-default-menu-message-primary-button-short-variant = Đặt { -brand-short-name } làm trình duyệt mặc định
 
 ## Firefox Relay 50 Masks Announcement
 
