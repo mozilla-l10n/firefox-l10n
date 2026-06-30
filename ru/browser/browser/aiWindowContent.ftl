@@ -40,3 +40,22 @@ action-log-checking-memories = Проверка воспоминаний
 action-log-checked-memories = Воспоминания проверены
 action-log-searching-settings = Поиск по настройкам
 action-log-searched-settings = Совершён поиск по настройкам
+action-log-searching-world-cup-matches = Поиск по матчам ЧМ
+action-log-searched-world-cup-matches = Совершён поиск по матчам ЧМ
+action-log-checking-world-cup-live = Проверка прямых трансляции матчей ЧМ
+action-log-checked-world-cup-live = Проведена проверка прямых матчей ЧМ
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Выполнен { $count } шаг
+        [few] Выполнено { $count } шага
+       *[many] Выполнено { $count } шагов
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = На этой вкладке загружены результаты поиска. Анализ…

@@ -7,6 +7,7 @@
 
 smartwindow-assistant-error-generic-header = Un problema ha occurrite. Retenta.
 smartwindow-retry-btn = Retentar
+smartwindow-clear-btn = Nove chat
 smartwindow-signin-btn = Aperir session
 
 ## Assistant Message footer
