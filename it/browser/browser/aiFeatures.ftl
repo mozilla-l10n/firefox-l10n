@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
-smart-window-block-title = Bloccare la funzione { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }?
+smart-window-block-title = Bloccare { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") }?
 smart-window-block-description-both = Le chat e le memorie delle { -smart-window-brand-name } verranno eliminate.
 smart-window-block-description-chats = Le chat delle { -smart-window-brand-name } verranno eliminate.
 smart-window-block-description-memories = Le memorie delle { -smart-window-brand-name } verranno eliminate.
@@ -55,7 +55,7 @@ smart-window-model-custom-url =
 smart-window-model-custom-token =
     .label = Chiave API o token di autenticazione, se necessario
 smart-window-model-custom-info =
-    .message = Se utilizzi un modello personalizzato, le { -smart-window-brand-name } potrebbero non funzionare correttamente.
+    .message = Se utilizzi un modello personalizzato, le { -smart-window-brand-name } potrebbero non funzionare come previsto.
 smart-window-model-custom-more-link = Ulteriori informazioni sui modelli personalizzati
 smart-window-model-custom-save =
     .label = Salva
@@ -74,10 +74,10 @@ ai-window-manage-memories-header =
     .description = Le memorie sono salvate localmente su questo dispositivo per proteggere la tua privacy. Si aggiornano alcune volte al giorno mentre usi le { -smart-window-brand-name }, quindi le attività più recenti potrebbero non essere immediatamente disponibili.
 ai-window-no-memories =
     .label = Ancora nessuna memoria
-    .description = Man mano che la funzione { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") } impara dalle tue attività, potrai vedere qui le tue memorie.
+    .description = Man mano che { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") } impara dalle tue attività, potrai vedere qui le tue memorie.
 ai-window-no-memories-learning-off =
     .label = Nessuna memoria disponibile
-    .description = Poiché l’apprendimento dalle attività è disattivato, la funzione { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") } non crea memorie.
+    .description = Poiché l’apprendimento dalle attività è disattivato, { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") } non crea memorie.
 ai-window-delete-all-memories-button =
     .label = Elimina tutto
 ai-window-delete-all-memories-title = Eliminare tutte le memorie?

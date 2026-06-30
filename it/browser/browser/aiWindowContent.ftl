@@ -23,7 +23,7 @@ smartwindow-assistant-error-capacity-header = È stato raggiunto il limite di ca
 smartwindow-assistant-error-budget-body = È comunque possibile navigare in questa finestra. La chat tornerà disponibile quando il tuo limite giornaliero verrà ripristinato.
 smartwindow-assistant-error-many-requests-header = Attendi un momento e riprova. Hai inviato troppi messaggi in poco tempo.
 smartwindow-assistant-error-max-length-header = È ora di iniziare una nuova chat. Questa ha raggiunto il limite massimo di lunghezza.
-smartwindow-assistant-error-request-blocked-header = La funzione { -smart-window-brand-name } non riesce a connettersi al server. Prova a cambiare rete o disattiva la VPN.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } non riesce a connettersi al server. Prova a cambiare rete o disattiva la VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Errore del server (HTTP { $status }). Riprova.
