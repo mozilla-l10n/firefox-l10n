@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Ath-ghoiridean a’ mheur-chlàir
 customkeys-search = Lorg:
 customkeys-change = Atharraich
@@ -36,6 +39,22 @@ customkeys-nav-home = Dhachaigh
 customkeys-nav-reload = Ath-luchdaich
 customkeys-nav-reload-skip-cache = Ath-luchdaich (tar-àithn an tasgadan)
 customkeys-nav-stop = Sguir dheth
+customkeys-category-navigation-2 =
+    .heading = Seòladaireachd
 customkeys-caution-message = ’S e gleus probhail a tha seo agus dh’fhaodte nach obraich e mar bu chòir.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Mì-dhligheach
+customkeys-key-clear =
+    .aria-label = Falamhaich
+    .tooltiptext = Falamhaich
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Brùth iuchair ùr:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
