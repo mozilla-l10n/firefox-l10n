@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-smartwindow-messages-document-title = { -smart-window-brand-name } messages instantanés
+smartwindow-messages-document-title = Messages de la discussion de la { -smart-window-brand-name }
 
 ## Context chips in the chat content
 
@@ -166,13 +166,13 @@ action-log-searching-settings = Recherche dans les paramètres
 action-log-searched-settings = Rechercher dans les paramètres effectuée
 action-log-searching-world-cup-matches = Recherche des matchs de la Coupe du monde
 action-log-searched-world-cup-matches = Recherche des matchs de la Coupe du monde effectuée
-action-log-checking-world-cup-live = Consulter les matches de la Coupe du monde en direct
-action-log-checked-world-cup-live = Matches de la Coupe du monde consultés en direct
+action-log-checking-world-cup-live = Vérification des matchs de la Coupe du monde en direct
+action-log-checked-world-cup-live = Vérification des matchs de la Coupe du monde en direct effectuée
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =
     { $count ->
-        [one] 1 étape complétée
+        [one] 1 étape terminée
        *[other] { $count } étapes terminées
     }
 

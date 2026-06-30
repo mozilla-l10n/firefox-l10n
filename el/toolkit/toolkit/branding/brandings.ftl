@@ -74,3 +74,32 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
+-smart-window-brand-name =
+    { $capitalization ->
+        [lower]
+            { $count ->
+                [other]
+                    { $case ->
+                        [gen] έξυπνων παραθύρων
+                       *[nom] έξυπνα παράθυρα
+                    }
+               *[one]
+                    { $case ->
+                        [gen] έξυπνου παραθύρου
+                       *[nom] έξυπνο παράθυρο
+                    }
+            }
+       *[upper]
+            { $count ->
+                [other]
+                    { $case ->
+                        [gen] Έξυπνων παραθύρων
+                       *[nom] Έξυπνα παράθυρα
+                    }
+               *[one]
+                    { $case ->
+                        [gen] Έξυπνου παραθύρου
+                       *[nom] Έξυπνο παράθυρο
+                    }
+            }
+    }
