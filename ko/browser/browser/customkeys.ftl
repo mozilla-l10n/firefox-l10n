@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = 키보드 단축키
 customkeys-search = 검색:
 customkeys-change = 변경
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = 마지막 탭으로 이동
 customkeys-nav-toggle-mute = 오디오 음소거/음소거 해제
 customkeys-edit-find-previous = 이전 찾기
 customkeys-tools-screenshot = 스크린샷 찍기
+customkeys-category-navigation-2 =
+    .heading = 탐색
 customkeys-caution-message = 이 기능은 실험적이며 예상대로 작동하지 않을 수 있습니다.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = 유효하지 않음
+customkeys-key-clear =
+    .aria-label = 지우기
+    .tooltiptext = 지우기
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = 새 키 누르기:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
