@@ -67,3 +67,4 @@
                *[lowercase] finestre smart
             }
     }
+

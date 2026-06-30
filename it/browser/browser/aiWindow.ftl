@@ -304,3 +304,4 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Cambia modalità: visualizzazione a griglia
     .tooltiptext = Visualizzazione a griglia
+

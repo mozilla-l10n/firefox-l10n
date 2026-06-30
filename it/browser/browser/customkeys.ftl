@@ -108,3 +108,4 @@ customkeys-search-input =
 customkeys-description = Personalizza le modalità di navigazione e interazione con { -brand-short-name }.
 customkeys-support-link-text = Ulteriori informazioni
 customkeys-reset-all-button = Ripristina predefiniti
+
