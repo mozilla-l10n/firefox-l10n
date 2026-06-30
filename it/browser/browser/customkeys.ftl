@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Questa funzione è sperimentale e potrebbe non funzionare come previsto.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Non valido
+customkeys-shortcut-unassigned =
+    .placeholder = Aggiungi scorciatoia
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Scorciatoia per: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Modifica
+    .tooltiptext = Modifica
 customkeys-key-clear =
     .aria-label = Cancella
     .tooltiptext = Cancella
+customkeys-key-reset =
+    .aria-label = Ripristina
+    .tooltiptext = Ripristina
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Premi nuovo tasto:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Rimuovere un’altra scorciatoia?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Questa chiave è già utilizzata da “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Utilizza comunque
+customkeys-conflict-confirm-button-cancel = Annulla
+customkeys-reset-all-confirm-title = Ripristinare le impostazioni predefinite?
+customkeys-reset-all-confirm-body = Tutte le scorciatoie da tastiera personalizzate che hai creato saranno eliminate.
+customkeys-reset-all-confirm-button-confirm = Ripristina predefiniti
+customkeys-reset-all-confirm-button-cancel = Annulla
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra laterale
+customkeys-title-heading =
+    .heading = Scorciatoie da tastiera
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Cerca nelle scorciatoie
+    .placeholder = Cerca nelle scorciatoie
+customkeys-description = Personalizza le modalità di navigazione e interazione con { -brand-short-name }.
+customkeys-support-link-text = Ulteriori informazioni
+customkeys-reset-all-button = Ripristina predefiniti

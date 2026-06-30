@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Schede aperte
 sidebar-options-menu-button =
     .title = Apri menu
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Ridimensiona la barra laterale
 
 ## Labels for sidebar history panel
 
