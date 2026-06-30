@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Tính năng này đang trong giai đoạn thử nghiệm và có thể không hoạt động như mong đợi.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Không hợp lệ
+customkeys-shortcut-unassigned =
+    .placeholder = Thêm phím tắt
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Phím tắt cho: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Chỉnh sửa
+    .tooltiptext = Chỉnh sửa
 customkeys-key-clear =
     .aria-label = Xóa
     .tooltiptext = Xóa
+customkeys-key-reset =
+    .aria-label = Khôi phục
+    .tooltiptext = Khôi phục
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Nhấn phím mới:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Xoá các phím tắt khác?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Phím này đã được sử dụng bởi “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Vẫn sử dụng
+customkeys-conflict-confirm-button-cancel = Hủy bỏ
+customkeys-reset-all-confirm-title = Khôi phục về mặc định?
+customkeys-reset-all-confirm-body = Mọi phím tắt tùy chỉnh mà bạn đã tạo sẽ bị xóa.
+customkeys-reset-all-confirm-button-confirm = Khôi phục về mặc định
+customkeys-reset-all-confirm-button-cancel = Hủy bỏ
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Thanh lề
+customkeys-title-heading =
+    .heading = Các phím tắt bàn phím
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Tìm kiếm phím tắt
+    .placeholder = Tìm kiếm phím tắt
+customkeys-description = Kiểm soát cách bạn di chuyển và tương tác với { -brand-short-name }.
+customkeys-support-link-text = Tìm hiểu thêm
+customkeys-reset-all-button = Khôi phục về mặc định
