@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name(form: "upper-singular") }
-smart-window-block-title = Bloquer { -smart-window-brand-name } ?
+smart-window-block-title = Bloquer la fonctionnalité { -smart-window-brand-name(form: "upper-singular") } ?
 smart-window-block-description-both = Cette action supprimera vos { -smart-window-brand-name } discussions et vos mémoires.
 smart-window-block-description-chats = Vos discussions de { -smart-window-brand-name } seront supprimées.
 smart-window-block-description-memories = Cette action supprimera vos { -smart-window-brand-name } souvenir.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
-    .description = Posez des questions, comparez les pages et obtenez des suggestions personnalisées avec un assistant intégré.
+    .label = { -smart-window-brand-name(form: "upper-singular") }
+    .description = Posez des questions, comparez des pages et obtenez des suggestions personnalisées avec un assistant intégré.
 smart-window-select-label =
-    .label = { -smart-window-brand-name }
+    .label = { -smart-window-brand-name(form: "upper-singular") }
 ai-window-activate-link =
-    .label = Démarrer
+    .label = Commencer
 ai-window-personalize-button =
-    .label = { -smart-window-brand-name } paramètres
+    .label = Paramètres des { -smart-window-brand-name(form: "lower-plural") }
 ai-window-personalize-header =
-    .heading = { -smart-window-brand-name }
+    .heading = { -smart-window-brand-name(form: "upper-singular") }
 ai-window-default-section =
     .label = Paramètres par défaut
 ai-window-is-default-window =

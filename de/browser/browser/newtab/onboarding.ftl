@@ -449,6 +449,10 @@ onboarding-checklist-pin = { -brand-short-name } an Taskleiste anheften
 onboarding-checklist-import = Aus vorherigem Browser importieren
 onboarding-checklist-extension = Eine Erweiterung hinzufügen
 onboarding-checklist-sign-up = Registriere dich oder melde dich mit deinem Konto an
+onboarding-checklist-minimize =
+    .label = Minimieren
+onboarding-checklist-remove =
+    .label = Checkliste entfernen
 
 ## Tab Groups feature onboarding strings
 

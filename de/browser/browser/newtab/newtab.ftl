@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Datenschutz
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Aktien
 home-prefs-mission-message2 =
     .message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Web zu erschaffen.
 home-prefs-manage-topics-link2 =
@@ -160,6 +163,15 @@ home-prefs-mission-message-learn-more-link-srd = Erfahren, wie das geht
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Weitere Informationen
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Ticker-Symbole durchsuchen
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Aktien ausblenden
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Weitere Informationen
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +207,7 @@ newtab-topsites-add-shortcut-label = Verknüpfung hinzufügen
 newtab-topsites-add-shortcut-title =
     .title = Verknüpfung hinzufügen
     .aria-label = Verknüpfung hinzufügen
+newtab-shortcuts-pinned-area = Angehefteter Bereich
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Name eingeben
@@ -506,6 +519,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Datenschutz
+newtab-custom-widget-stocks-toggle =
+    .label = Aktien
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

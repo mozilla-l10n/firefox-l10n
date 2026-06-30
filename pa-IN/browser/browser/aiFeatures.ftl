@@ -65,27 +65,29 @@ ai-window-memories-section =
     .description = { -brand-short-name } ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖ ਕੇ ਮੈਮੋਰੀਆਂ ਬਣਾ ਸਕਦਾ ਹੈ। ਉਹਨਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਨਿੱਜੀ ਜਵਾਬ ਦੇਣ ਲਈ ਮਦਦ ਵਜੋਂ ਵਰਤਿਆ ਜਾਦਾ ਹੈ ਅਤੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਲੋਕਲ ਹੀ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ।
 ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name } ਵਿੱਚ ਚੈਟਾਂ ਬਾਰੇ ਸਿੱਖੋ
+ai-window-learn-from-browsing-activity =
+    .label = ਕਲਾਸਿਕ ਅਤੇ { -smart-window-brand-name(plural-form: "true") } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਸਿੱਖੋ
 ai-window-manage-memories-button =
-    .label = ਮੈਮੋਰੀਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .label = ਯਾਦਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 ai-window-manage-memories-header =
-    .heading = ਮੈਮੋਰੀਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
-    .description = ਮੈਮੋਰੀਆਂ ਨੂੰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੀ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ { -smart-window-brand-name } ਨੂੰ ਵਰਤਦੇ ਹੋ ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਦਿਨ ਵਿੱਚ ਕਈ ਵਾਰ ਤਾਜ਼ਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ ਉਹ ਸੱਜਰੀ ਸਰਗਰਮੀ ਨਾਲ ਅੱਪਡੇਟ ਰਹਿ ਸਕਣ।
+    .heading = ਯਾਦਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .description = ਯਾਦਾਂ ਨੂੰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੀ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ { -smart-window-brand-name } ਨੂੰ ਵਰਤਦੇ ਹੋ ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਦਿਨ ਵਿੱਚ ਕਈ ਵਾਰ ਤਾਜ਼ਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ ਉਹ ਸੱਜਰੀ ਸਰਗਰਮੀ ਨਾਲ ਅੱਪਡੇਟ ਰਹਿ ਸਕਣ।
 ai-window-no-memories =
-    .label = ਹਾਲੇ ਕੋਈ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ।
-    .description = ਜਿਵੇਂ ਜਿਵੇਂ { -smart-window-brand-name } ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖਦੀ ਹੈ ਤਾਂ, ਤੁਸੀਂ ਮੈਮੋਰੀਆਂ ਨੂੰ ਇੱਥੇ ਵੇਖੋਗੇ।
+    .label = ਹਾਲੇ ਕੋਈ ਯਾਦ ਨਹੀਂ ਹੈ।
+    .description = ਜਿਵੇਂ ਜਿਵੇਂ { -smart-window-brand-name } ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖਦੀ ਹੈ ਤਾਂ, ਤੁਸੀਂ ਯਾਦਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖੋਗੇ।
 ai-window-no-memories-learning-off =
-    .label = ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਮੈਮਰੀ ਨਹੀਂ ਹੈ
-    .description = ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖਣਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -smart-window-brand-name } ਮੈਮੋਰੀਆਂ ਨਹੀਂ ਬਣਾ ਰਹੀ ਹੈ।
+    .label = ਵੇਖਾਉਣ ਲਈ ਕੋਈ ਯਾਦ ਨਹੀਂ ਹੈ
+    .description = ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖਣਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -smart-window-brand-name } ਯਾਦਾਂ ਨਹੀਂ ਬਣਾ ਰਹੀ ਹੈ।
 ai-window-delete-all-memories-button =
     .label = ਸਭ ਨੂੰ ਹਟਾਓ
-ai-window-delete-all-memories-title = ਸਾਰੀਆਂ ਮੈਮੋਰੀਆਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+ai-window-delete-all-memories-title = ਸਾਰੀਆਂ ਯਾਦਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = ਮੌਜੂਦਾ ਮੈਮੋਰੀਆਂ ਨੂੰ ਹਟਾਇਆ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਜੇ ਤੁਸੀਂ ਕੋਈ ਨਵੀਂ ਮੈਮੋਰੀ ਨਹੀਂ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ { -smart-window-brand-name } ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ “…ਤੋਂ ਸਿੱਖੋ” ਦੀਆਂ ਚੋਣਾਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿਓ।
+ai-window-delete-all-memories-message = ਮੌਜੂਦਾ ਯਾਦਾਂ ਨੂੰ ਹਟਾਇਆ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਜੇ ਤੁਸੀਂ ਕੋਈ ਨਵੀਂ ਯਾਦ ਨਹੀਂ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ { -smart-window-brand-name } ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ “…ਤੋਂ ਸਿੱਖੋ” ਦੀਆਂ ਚੋਣਾਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿਓ।
 ai-window-delete-all-memories-confirm = ਹਟਾਓ
 ai-window-delete-all-memories-cancel = ਰੱਦ ਕਰੋ
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = ਮੈਮੋਰੀ ਨੂੰ ਹਟਾਓ
+    .title = ਯਾਦਾਂ ਨੂੰ ਹਟਾਓ
     .aria-label = { $label } ਨੂੰ ਹਟਾਓ
