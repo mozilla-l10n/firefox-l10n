@@ -216,3 +216,6 @@ aiwindow-ai-chat-grid-view-controls =
 aiwindow-ai-chat-grid-list-view =
     .aria-label = Переключение режима: Списком
     .tooltiptext = Просмотр в виде списка
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Переключение режим: Сеткой
+    .tooltiptext = Просмотр в виде сетки
