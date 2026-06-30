@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = 键盘快捷键
 customkeys-search = 搜索：
 customkeys-change = 更改
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = 转到末尾标签页
 customkeys-nav-toggle-mute = 静音/取消静音
 customkeys-edit-find-previous = 查找上一个
 customkeys-tools-screenshot = 截图
+customkeys-category-navigation-2 =
+    .heading = 导航
 customkeys-caution-message = 此功能为实验功能，可能无法按预期工作。
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = 无效
+customkeys-key-clear =
+    .aria-label = 清空
+    .tooltiptext = 清空
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = 按下新的键：
+
+## Confirmation dialogs
+
+
+## Sidebar
+
