@@ -39,7 +39,7 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = ਸਾਂਝੇ ਵੈੱਬ ਪਰੋਸੈਸ ({ $pid })
-about-processes-file-process = ਫ਼ਾਈਲਾਂ ({ $pid })
+about-processes-file-process = ਫ਼ਾਇਲਾਂ ({ $pid })
 about-processes-extension-process = ਇਕਸਟੈਨਸ਼ਨ ({ $pid })
 about-processes-privilegedabout-process = ਸਫ਼ਿਆਂ ਬਾਰੇ ({ $pid })
 about-processes-plugin-process = ਪਲੱਗਇਨ ({ $pid })

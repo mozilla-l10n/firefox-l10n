@@ -68,19 +68,19 @@ ai-window-learn-from-chat-activity =
 ai-window-learn-from-browsing-activity =
     .label = Apprenez en naviguant dans la version classique et { -smart-window-brand-name(plural-form: "true") }
 ai-window-manage-memories-button =
-    .label = Gérer les mémoires
+    .label = Gérer les souvenirs
 ai-window-manage-memories-header =
-    .heading = Gérer les mémoires
-    .description = La mémoire est stockée localement sur cet appareil afin de protéger votre vie privée. Elles sont actualisées plusieurs fois par jour lorsque vous utilisez { -smart-window-brand-name }. L’activité récente peut donc prendre un certain temps avant d’être répercutée.
+    .heading = Gérer les souvenirs
+    .description = Les souvenirs sont stockés localement sur cet appareil afin de protéger votre vie privée. Ils sont actualisés plusieurs fois par jour lorsque vous utilisez la { -smart-window-brand-name }. L’activité récente peut donc prendre un certain temps avant d’être prise en compte.
 ai-window-no-memories =
     .label = Aucun souvenir pour l’instant
-    .description = Si { -smart-window-brand-name } apprend de votre activité, vous retrouverez des bons mémoires ici.
+    .description = Au fur et à mesure que la { -smart-window-brand-name } apprend de vos habitudes, vous verrez apparaître ici des souvenirs.
 ai-window-no-memories-learning-off =
     .label = Aucun souvenir à afficher
     .description = Apprendre de ses activités n’est pas possible, donc { -smart-window-brand-name } ne crée pas de mémoires.
 ai-window-delete-all-memories-button =
     .label = Tout supprimer
-ai-window-delete-all-memories-title = Supprimer tous les souvenir ?
+ai-window-delete-all-memories-title = Supprimer tous les souvenirs ?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
 ai-window-delete-all-memories-message = Les mémoires existantes seront supprimées. Si vous ne souhaitez pas créer de nouveaux mémoires, décochez les options « Abonnez-vous à… » dans les paramètres de { -smart-window-brand-name }.
@@ -89,5 +89,5 @@ ai-window-delete-all-memories-cancel = Annuler
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Effacer de la mémoire
+    .title = Supprimer ce souvenir
     .aria-label = Supprimer { $label }

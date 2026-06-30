@@ -51,7 +51,7 @@ contextual-manager-passwords-import-file-picker-import-button = ਇੰਪੋਰ�
 contextual-manager-passwords-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV ਦਸਤਾਵੇਜ਼
-       *[other] CSV ਫ਼ਾਈਲ
+       *[other] CSV ਫ਼ਾਇਲ
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.

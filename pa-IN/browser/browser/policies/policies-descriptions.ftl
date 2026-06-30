@@ -105,7 +105,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = ਨਿਰਧਾਰਤ 
 
 ##
 
-policy-LocalFileLinks = ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਲੋਕਲ ਫ਼ਾਈਲਾਂ ਲਈ ਲਿੰਕ ਦੀ ਆਗਿਆ ਦਿਓ।
+policy-LocalFileLinks = ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਲੋਕਲ ਫ਼ਾਇਲਾਂ ਲਈ ਲਿੰਕ ਕਰਨ ਦੀ ਮਨਜੂਰੀ ਦਿਓ।
 policy-LocalNetworkAccess = ਲੋਕਲ ਨੈੱਟਵਰਕ ਪਹੁੰਚ ਲਈ ਜਾਂਚ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-ManagedBookmarks =
     ਪਰਸ਼ਾਸਕ ਵਲੋਂ ਇੰਤਜ਼ਾਮ ਕੀਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦੀ ਸੂਚੀ ਸੰਰਚਿਤ ਕਰਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਵਰਤੋਂਕਾਰ

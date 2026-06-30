@@ -49,3 +49,50 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = Kopier tabell
     .tooltiptext = Kopier tabell
+aiwindow-thumbs-up =
+    .aria-label = Gi positiv tilbakemelding
+    .tooltiptext = Gi positiv tilbakemelding
+aiwindow-thumbs-down =
+    .aria-label = Gi negativ tilbakemelding
+    .tooltiptext = Gi negativ tilbakemelding
+aiwindow-applied-memories-popover =
+    .aria-label = Minnepanel
+aiwindow-applied-memories-list =
+    .aria-label = Minner
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Slett { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .tooltiptext = Gå til bunnen
+    .aria-label = Gå til bunnen av chatten
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Prøv på nytt
+smartwindow-nl-retry-message = Hvis du fortsatt vil lukke faner, velg <strong>Prøv igjen</strong> og gjør valget ditt i kortet som åpnes.
+smartwindow-nl-retry-group-tabs-message = Hvis du fortsatt vil gruppere faner, velg <strong>Prøv igjen</strong> og velg hvilke i kortet som åpnes.
+smartwindow-nl-thinking = Ser etter samsvarende faner…
+smartwindow-loading-assistant-response =
+    .aria-label = Laster inn svar fra assistenten
+smartwindow-nl-undo-button =
+    .label = Angre
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Lukket { $count } fane
+       *[other] Lukket { $count } faner
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Ferdig! Fanen er lukket.
+       *[other] Ferdig! Fanene er lukket.
+    }
+smart-window-closed-tabs-row-label = Lukkede faner
