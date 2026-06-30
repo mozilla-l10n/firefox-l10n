@@ -147,8 +147,14 @@ autofill-message-tooltip = Sken izen yerzan taččart tawurmant
 autofill-add-card-title = Rnu takarḍa
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Ẓreg takarḍa
+autofill-card-number-2 =
+    .label = Uṭṭun n tkeṛḍa
 autofill-card-number = Uṭṭun n tkeṛḍa
 autofill-card-invalid-number = Ma ulac aɣilif, sekcem uṭṭun n tkeṛḍa ameɣtu
+autofill-card-name-on-card-2 =
+    .label = Isem deg tkarḍa
+autofill-card-billing-address-2 =
+    .label = Tansa n tuzna n tfaturt
 autofill-card-name-on-card = Isem deg tkarḍa
 autofill-card-expires-month = Aggur n tagara
 autofill-card-expires-year = Aseggas n tagara
