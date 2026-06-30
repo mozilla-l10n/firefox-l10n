@@ -282,8 +282,8 @@ smart-window-default-promo-additional-button = Plus tard
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Donner mon avis
-aiwindow-feedback-what-worked-well = Qu’est-ce qui a bien fonctionné ? Pas d'informations personnelles, s'il vous plaît.
-aiwindow-feedback-choose-any = Choisissez tout ce qui s’applique
+aiwindow-feedback-what-worked-well = Qu’est-ce qui a bien fonctionné ? Merci de ne pas inclure d’informations personnelles.
+aiwindow-feedback-choose-any = Sélectionnez toutes les propositions pertinentes
 aiwindow-feedback-add-details = Ajoutez des détails si vous le souhaitez. Pas d'informations personnelles, s'il vous plaît.
 aiwindow-feedback-disclaimer = Envoyer partage vos commentaires et ce chat pour aider { -brand-shorter-name } à améliorer { -smart-window-brand-name }. Vos autres discussions restent privées. <a data-l10n-name="learn-more">En savoir plus</a>
 aiwindow-feedback-submit = Envoyer
