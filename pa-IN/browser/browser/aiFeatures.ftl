@@ -4,6 +4,12 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = { -smart-window-brand-name } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ ਹੈ?
+smart-window-block-description-both = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਚੈਟਾਂ ਅਤੇ ਮੈਮੋਰੀਆਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
+smart-window-block-description-chats = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਚੈਟਾਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
+smart-window-block-description-memories = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਮੈਮੋਰੀਆਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
+ai-window-features-group =
+    .label = { -smart-window-brand-name }
+    .description = ਨਾਲ ਮੌਜੂਦ ਸਹਾਇਕ ਨੂੰ ਸਵਾਲ ਪੁੱਛੋ, ਸਫ਼ਿਆਂ ਦੀ ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਨਿੱਜੀ ਬਣਾਏ ਹੋਏ ਸੁਝਾਅ ਲਵੋ।
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =

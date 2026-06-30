@@ -62,11 +62,47 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = ਇਹ ਫ਼ੀਚਰ ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਸ਼ਾਇਦ ਆਸ ਮੁਤਾਬਕ ਕੰਮ ਨਾ ਕਰੇ।
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ਗ਼ੈਰ-ਵਾਜਬ
+customkeys-shortcut-unassigned =
+    .placeholder = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = ਸ਼ਾਰਟਕੱਟ: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = ਸੋਧੋ
+    .tooltiptext = ਸੋਧੋ
 customkeys-key-clear =
     .aria-label = ਮਿਟਾਓ
     .tooltiptext = ਮਿਟਾਓ
+customkeys-key-reset =
+    .aria-label = ਬਹਾਲ ਕਰੋ
+    .tooltiptext = ਬਹਾਲ ਕਰੋ
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = ਨਵੀਂ ਸਵਿੱਚ ਦੱਬੋ:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = ਹੋਰ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = ਇਸ ਸਵਿੱਚ ਪਹਿਲਾਂ ਹੀ “{ $conflict }” ਵਲੋਂ ਵਰਤੀ ਜਾ ਰਹੀ ਹੈ।
+customkeys-conflict-confirm-button-confirm = ਕਿਵੇਂ ਵੀ ਵਰਤੋਂ
+customkeys-conflict-confirm-button-cancel = ਰੱਦ ਕਰੋ
+customkeys-reset-all-confirm-title = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਹੈ?
+customkeys-reset-all-confirm-button-confirm = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
+customkeys-reset-all-confirm-button-cancel = ਰੱਦ ਕਰੋ
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = ਬਾਹੀ
+customkeys-title-heading =
+    .heading = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
+    .placeholder = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
+customkeys-support-link-text = ਹੋਰ ਜਾਣੋ
+customkeys-reset-all-button = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ

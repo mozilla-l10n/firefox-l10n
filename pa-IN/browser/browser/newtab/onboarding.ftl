@@ -449,6 +449,10 @@ onboarding-checklist-pin = { -brand-short-name } ਨੂੰ ਟਾਸਕਬਾਰ
 onboarding-checklist-import = ਪਿਛਲੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
 onboarding-checklist-extension = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਜੋੜੋ
 onboarding-checklist-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
+onboarding-checklist-minimize =
+    .label = ਘੱਟੋ-ਘੱਟ
+onboarding-checklist-remove =
+    .label = ਚੈਕ-ਲਿਸਟ ਨੂੰ ਹਟਾਓ
 
 ## Tab Groups feature onboarding strings
 

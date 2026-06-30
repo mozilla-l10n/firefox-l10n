@@ -148,11 +148,15 @@ autofill-add-card-title = ਕਾਰਡ ਜੋੜੋ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = ਕਾਰਡ ਨੂੰ ਸੋਧੋ
 autofill-card-number-2 =
-    .label = ਕਾਰਡ ਨੰਬਰ
+    .label = ਕਾਰਡ ਦਾ ਨੰਬਰ
 autofill-card-number = ਕਾਰਡ ਨੰਬਰ
 autofill-card-invalid-number = ਢੁੱਕਵਾਂ ਕਾਰਡ ਨੰਬਰ ਦਿਓ
 autofill-card-name-on-card-2 =
-    .label = ਕਾਰਡ 'ਤੇ ਨਾਂ
+    .label = ਕਾਰਡ ਉੱਤੇ ਨਾਂ
+autofill-card-expires-month-2 =
+    .label = ਮਿਆਦ ਮਹੀਨਾ
+autofill-card-expires-year-2 =
+    .label = ਮਿਆਦ ਸਾਲ
 autofill-card-billing-address-2 =
     .label = ਬਿੱਲ ਲਈ ਸਿਰਨਾਵਾਂ
 autofill-card-name-on-card = ਕਾਰਡ 'ਤੇ ਨਾਂ

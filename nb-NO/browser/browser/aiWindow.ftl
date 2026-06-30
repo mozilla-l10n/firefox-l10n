@@ -107,6 +107,46 @@ aiwindow-firstrun-model-chip-subtitle = Modell { $model } fra { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Passer godt til de fleste behov
 aiwindow-firstrun-model-personal-label = Personlig
+aiwindow-firstrun-model-personal-body = Mest tilpassede svar
+aiwindow-firstrun-button = La oss starte!
+aiwindow-firstrun-back-button = Tilbake
+aiwindow-firstrun-next-button = Neste
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Hurtig
+aiwindow-input-model-select-button-label-allpurpose = Fleksibel
+aiwindow-input-model-select-button-label-personal = Personlig
+aiwindow-input-model-select-button-label-custom = Tilpasset
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Bruk din egen LLM
+aiwindow-input-model-select-default-badge =
+    .label = Standard
+    .title = Valgt standardmodell
+aiwindow-input-model-select-settings-link = Modellinnstillinger
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Mer nyttige svar, på dine premisser
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kan lære av chattene dine, nettlesingen din eller begge deler for å opprette minner. Det gjør svarene mer nyttige over tid.
+aiwindow-firstrun-memories-conversation-title = Hold samtalen i gang
+aiwindow-firstrun-memories-conversation-body = Å lære fra chatter betyr at du slipper å gjenta deg selv like ofte.
+aiwindow-firstrun-memories-relevance-title = Mer relevante svar
+aiwindow-firstrun-memories-relevance-body = Å lære fra nettlesing gir { -smart-window-brand-name } et større bilde.
+aiwindow-firstrun-memories-privacy-title = Designet for personvern
+aiwindow-firstrun-memories-privacy-body = Minner lagres på denne enheten. Slett dem eller slå dem av når som helst.
+aiwindow-firstrun-memories-choose-label = Velg hva { -smart-window-brand-name } lærer av
+aiwindow-firstrun-memories-checkbox-chats = Chatter i { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Nettlesing i { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Endre dette i innstillingene når som helst.
+aiwindow-firstrun-memories-no-create = Skjønner. { -smart-window-brand-name } vil ikke opprette minner. Du kan endre dette i innstillingene når som helst.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Gjør { -smart-window-brand-name } til ditt foretrukne valg
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
@@ -199,3 +239,17 @@ aiwindow-feedback-reason-lacks-personalization = Mangler tilpasning eller kontek
 aiwindow-feedback-reason-performance-or-usability = Problem med ytelse eller brukervennlighet
 aiwindow-feedback-reason-harmful-or-offensive = Skadelig eller støtende
 aiwindow-feedback-reason-other = Annet
+aiwindow-feedback-preview-report = Vis chatdetaljer
+aiwindow-feedback-preview-report-with-page = Vis chat- og sidedetaljer
+aiwindow-feedback-include-page-content = Del sidene som refereres til i denne chatten
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Bytt visningsoppsett
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Bytt modus: Listevisning
+    .tooltiptext = Listevisning
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Bytt modus: Rutenettvisning
+    .tooltiptext = Rutenettvisning

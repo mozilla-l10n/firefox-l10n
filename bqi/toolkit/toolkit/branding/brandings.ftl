@@ -18,6 +18,9 @@
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
 -yelp-brand-name = Yelp
+
+##
+
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = هووه Firefox

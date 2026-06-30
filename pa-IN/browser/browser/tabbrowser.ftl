@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = ਵੰਡ ਝਲਕ ਟੈਬਾਂ ਦਾ ਆਕਾਰ ਬਦਲੋ
+tab-devtools-splitter =
+    .aria-label = ਡਿਵੈਲਪਰ ਟੂਲ ਪੈਨਲ ਦਾ ਆਕਾਰ ਬਦਲੋ
 
 ## Tooltips for tab audio control
 ## Variables:

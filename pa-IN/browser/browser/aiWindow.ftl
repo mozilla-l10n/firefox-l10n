@@ -254,3 +254,26 @@ smart-window-default-promo-additional-button = ਹੁਣੇ ਨਹੀਂ
 
 aiwindow-feedback-modal-title = ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
 aiwindow-feedback-what-worked-well = ਕਿਹੜੀ ਚੀਜ਼ ਕੰਮ ਕਰਦੀ ਸੀ? ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਦਿਓ ਜੀ।
+aiwindow-feedback-choose-any = ਲਾਗੂ ਹੋਣ ਵਾਲੀ ਕੋਈ ਵੀ ਚੀਜ਼ ਚੁਣੋ
+aiwindow-feedback-add-details = ਜੇ ਤੁਸੀਂ ਚਾਹੋ ਤਾਂ ਵੇਰਵੇ ਵੀ ਭਰ ਦਿਓ। ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਦਿਓ ਜੀ।
+aiwindow-feedback-submit = ਭੇਜੋ
+aiwindow-feedback-cancel = ਰੱਦ ਕਰੋ
+aiwindow-feedback-reason-incorrect-or-misleading = ਗਲਤ ਜਾਂ ਗੁੰਮਰਾਹਕੁੰਨ
+aiwindow-feedback-reason-doesnt-address-my-request = ਮੇਰੀ ਬੇਨਤੀ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦਾ ਹੈ
+aiwindow-feedback-reason-lacks-personalization = ਨਿੱਜੀ ਬਣਾਉਣ ਜਾਂ ਪ੍ਰਸੰਗ ਦੀ ਕਮੀ ਹੈ
+aiwindow-feedback-reason-performance-or-usability = ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਂ ਵਰਤੋਂ ਦਾ ਮਸਲਾ
+aiwindow-feedback-reason-harmful-or-offensive = ਨੁਕਸਾਨਦੇਹ ਜਾਂ ਅਪਮਾਨਜਨਕ
+aiwindow-feedback-reason-other = ਹੋਰ
+aiwindow-feedback-preview-report = ਚੈਟ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖੋ
+aiwindow-feedback-preview-report-with-page = ਚੈਟ ਅਤੇ ਸਫ਼ੇ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖੋ
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = ਵੇਖਣ ਝਲਕ ਨੂੰ ਬਦਲੋ
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = ਮੋਡ ਨੂੰ ਬਦਲੋ: ਸੂਚੀ ਝਲਕ
+    .tooltiptext = ਸੂਚੀ ਦੇ ਰੂਪ ਵਿੱਚ ਝਲਕ
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = ਸਵਿੱਚ ਬਦਲੋ: ਗਰਿੱਡ ਝਲਕ
+    .tooltiptext = ਗਰਿੱਡ ਦੇ ਰੂਪ ਵਿੱਚ ਝਲਕ

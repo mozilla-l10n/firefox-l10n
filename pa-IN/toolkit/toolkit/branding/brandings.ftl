@@ -36,6 +36,9 @@
 -thunderbird-brand-short-name = Thunderbird
 -mdn-brand-name = MDN ਵੈੱਬ ਦਸਤਾਵੇਜ਼
 -yelp-brand-name = Yelp
+
+##
+
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
@@ -54,3 +57,8 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox ਲੈਬ
+-smart-window-brand-name =
+    { $plural-form ->
+        [true] ਸਮਾਰਟ ਵਿੰਡੋ
+       *[false] ਸਮਾਰਟ ਵਿੰਡੋ
+    }

@@ -36,6 +36,9 @@
 -thunderbird-brand-short-name = Thunderbird
 -mdn-brand-name = Documentos web de MDN
 -yelp-brand-name = Yelp
+
+##
+
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
@@ -57,7 +60,7 @@
 -smart-window-brand-name =
     { $form ->
         [upper-singular] Ventana inteligente
-        [upper-plural] Ventanas inteligentes
         [lower-singular] ventana inteligente
-       *[lower-plural] ventanas inteligentes
+        [lower-plural] ventanas inteligentes
+       *[upper-plural] Ventanas inteligentes
     }

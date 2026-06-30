@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
 sidebar-options-menu-button =
     .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = ਬਾਹੀ ਦਾ ਆਕਾਰ ਬਦਲੋ
 
 ## Labels for sidebar history panel
 
