@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = കട്ടപ്പലക കുറുക്കുവഴികള്‍
 customkeys-search = തിരയുക:
 customkeys-change = മാറ്റുക
@@ -17,3 +20,19 @@ customkeys-nav-forward = മുന്നോട്ടു്
 customkeys-nav-home = പൂമുറ്റം
 customkeys-nav-reload = പുതുക്കുക
 customkeys-nav-stop = നിറുത്തുക
+customkeys-category-navigation-2 =
+    .heading = വഴികാട്ടൽവ്യവസ്ഥ
+customkeys-key-clear =
+    .aria-label = മായ്ക്കുക
+    .tooltiptext = മായ്ക്കുക
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = പുതിയ കട്ട അമൎത്തുക
+
+## Confirmation dialogs
+
+
+## Sidebar
+
