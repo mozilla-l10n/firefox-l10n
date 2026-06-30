@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Tairenda mbopya’eha
 customkeys-search = Heka:
 customkeys-change = Moambue
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Eho kuatiarogue pahápe
 customkeys-nav-toggle-mute = Emokirĩ/Emyandy mba’epu
 customkeys-edit-find-previous = Eheka Mboyvegua
 customkeys-tools-screenshot = Ejapyhy mba’erechaha
+customkeys-category-navigation-2 =
+    .heading = Ñeikundaha
 customkeys-caution-message = Ko tembiapoite ojejaporamo ha upévare ndoikoporãi gueteri.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Oiko’ỹva
+customkeys-key-clear =
+    .aria-label = Mopotĩ
+    .tooltiptext = Mopotĩ
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Ejopy jehaiha pyahu:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
