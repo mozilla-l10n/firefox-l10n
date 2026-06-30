@@ -6,15 +6,15 @@
 ## Chrome
 
 main-context-menu-open-link-new-smart-window =
-    .label = Ouvrir le lien dans un nouveau { -smart-window-brand-name }
+    .label = Ouvrir le lien dans une nouvelle { -smart-window-brand-name }
     .accesskey = O
 appmenuitem-new-ai-window =
-    .label = Nouveau { -smart-window-brand-name }
-    .value = Nouveau { -smart-window-brand-name }
+    .label = Nouvelle { -smart-window-brand-name }
+    .value = Nouvelle { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Nouvelle fenêtre classique
 menu-file-new-ai-window =
-    .label = Nouveau { -smart-window-brand-name }
+    .label = Nouvelle { -smart-window-brand-name }
 menu-file-new-classic-window =
     .label = Nouvelle fenêtre classique
 menu-history-chats =
@@ -32,9 +32,6 @@ toolbar-button-ai-window-toggle =
 ai-window-toggleview-switch-classic =
     .label = Fenêtre classique
     .value = Fenêtre classique
-ai-window-toggleview-switch-classic-description =
-    .label = Navigation standard
-    .value = Navigation standard
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }

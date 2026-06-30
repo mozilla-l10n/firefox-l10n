@@ -166,7 +166,7 @@ newtab-privacy-menu-learn-more = En savoir plus
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Rechercher des symboles
+newtab-stocks-menu-search = Rechercher des codes mnémoniques
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Masquer les actions
 # Context menu item linking to more information about the Stocks widget.

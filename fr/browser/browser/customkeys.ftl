@@ -103,8 +103,8 @@ customkeys-title-heading =
     .heading = Raccourcis clavier
 # Search is a verb, as in "search through shortcuts".
 customkeys-search-input =
-    .aria-label = Raccourcis pour la recherche
-    .placeholder = Raccourcis pour la recherche
+    .aria-label = Rechercher parmi les raccourcis
+    .placeholder = Rechercher parmi les raccourcis
 customkeys-description = Contrôlez vos déplacements et vos interactions avec { -brand-short-name }.
 customkeys-support-link-text = En savoir plus
-customkeys-reset-all-button = Restaurer moteurs par défaut
+customkeys-reset-all-button = Restaurer les raccourcis par défaut

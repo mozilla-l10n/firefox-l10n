@@ -15,7 +15,7 @@ sidebar-options-menu-button =
     .title = Ouvrir le menu
 # Accessible label for the splitter used to resize the sidebar.
 sidebar-resize-splitter =
-    .aria-label = Redimensionner la barre latérale
+    .aria-label = Redimensionner le panneau latéral
 
 ## Labels for sidebar history panel
 

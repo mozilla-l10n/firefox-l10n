@@ -62,11 +62,31 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere annerledes enn forventet.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
+customkeys-shortcut-unassigned =
+    .placeholder = Legg til snarvei
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Hurtigtast for: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Rediger
+    .tooltiptext = Rediger
 customkeys-key-clear =
     .aria-label = Tøm
     .tooltiptext = Tøm
+customkeys-key-reset =
+    .aria-label = Gjenopprett
+    .tooltiptext = Gjenopprett
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Trykk ny hurtigtast:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Fjerne en annen hurtigtast?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Denne hurtigtasten er allerede i bruk av «{ $conflict }».
+customkeys-conflict-confirm-button-confirm = Bruk likevel
+customkeys-conflict-confirm-button-cancel = Avbryt
