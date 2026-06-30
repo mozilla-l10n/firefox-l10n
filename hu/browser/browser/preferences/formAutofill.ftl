@@ -147,8 +147,14 @@ autofill-message-tooltip = Üzenet megtekintése az automatikus kitöltésről
 autofill-add-card-title = Kártya hozzáadása
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kártya szerkesztése
+autofill-card-number-2 =
+    .label = Kártyaszám
 autofill-card-number = Kártyaszám
 autofill-card-invalid-number = Írjon be érvényes kártyaszámot
+autofill-card-name-on-card-2 =
+    .label = Kártyán szereplő név
+autofill-card-billing-address-2 =
+    .label = Számlázási cím
 autofill-card-name-on-card = Kártyán szereplő név
 autofill-card-expires-month = Lejárat hónapja
 autofill-card-expires-year = Lejárat éve
