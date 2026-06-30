@@ -127,8 +127,14 @@ autofill-edit-card-password-prompt =
        *[other] { -brand-short-name } ණය පතෙහි තොරතුරු පෙන්වීමට උත්සාහ කරයි.
     }
 autofill-message-tooltip = ස්වයං පිරවීම පිළිබඳ පණිවිඩය බලන්න
+autofill-card-number-2 =
+    .label = ණයපත් අංකය
 autofill-card-number = ණයපත් අංකය
 autofill-card-invalid-number = වලංගු ණයපත් අංකයක් යොදන්න
+autofill-card-name-on-card-2 =
+    .label = ණයපත මත නම
+autofill-card-billing-address-2 =
+    .label = ලදුපත් ලිපිනය
 autofill-card-name-on-card = ණයපත මත නම
 autofill-card-expires-month = කල් ඉකු. මාසය
 autofill-card-expires-year = කල් ඉකු. වසර
