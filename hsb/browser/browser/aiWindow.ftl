@@ -5,16 +5,35 @@
 
 ## Chrome
 
+appmenuitem-new-ai-window =
+    .label = Nowe { -smart-window-brand-name }
+    .value = Nowe { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Nowe klasiske wokno
 menu-file-new-ai-window =
     .label = Nowe { -smart-window-brand-name }
 menu-file-new-classic-window =
     .label = Nowe klasiske wokno
+menu-history-chats =
+    .label = Chaty
 smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Nowy rajtark
 
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic =
+    .label = Klasiske wokno
+    .value = Klasiske wokno
+ai-window-toggleview-switch-classic-description =
+    .label = Standardne přehladowanje
+    .value = Standardne přehladowanje
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-private =
+    .label = Priwatne wokno
+ai-window-toggleview-open-private =
+    .label = Nowe priwatne wokno wočinić
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasiske wokno
 

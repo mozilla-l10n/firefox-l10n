@@ -18,9 +18,25 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Něšto je so nimokuliło. Prošu spytajće hišće raz.
+smartwindow-assistant-error-account-header = Zo byšće { -smart-window-brand-name } wužiwał, dyrbiće so přizjewić.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Serwerowy zmylk (HTTP { $status }). Spytajće prošu hišće raz.
+smartwindow-retry-btn = Hišće raz spytać
+smartwindow-signin-btn = Přizjewić
 
 ## Assistant Message footer
 
+aiwindow-memories-learn-more = Dalše informacije
+aiwindow-retry =
+    .aria-label = Hišće raz spytać
+    .tooltiptext = Hišće raz spytać
+aiwindow-copy-message =
+    .aria-label = Powěsć kopěrować
+    .tooltiptext = Kopěrować
+aiwindow-copy-table =
+    .aria-label = Tabelu kopěrować
+    .tooltiptext = Tabelu kopěrować
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -54,3 +70,4 @@ smart-window-restored-row-label =
     }
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Zeskupić
+smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
