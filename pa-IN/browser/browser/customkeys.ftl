@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
 customkeys-search = ਖੋਜ:
 customkeys-change = ਬਦਲੋ
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = ਆਖਰੀ ਟੈਬ ਉੱਤੇ ਜਾਓ
 customkeys-nav-toggle-mute = ਆਡੀਓ ਨੂੰ ਮੌਨ/ਅਣ-ਮੌਨ ਕਰੋ
 customkeys-edit-find-previous = ਪਿੱਛੇ ਖੋਜ
 customkeys-tools-screenshot = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
+customkeys-category-navigation-2 =
+    .heading = ਨੇਵੀਗੇਸ਼ਨ
 customkeys-caution-message = ਇਹ ਫ਼ੀਚਰ ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਸ਼ਾਇਦ ਆਸ ਮੁਤਾਬਕ ਕੰਮ ਨਾ ਕਰੇ।
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ਗ਼ੈਰ-ਵਾਜਬ
+customkeys-key-clear =
+    .aria-label = ਮਿਟਾਓ
+    .tooltiptext = ਮਿਟਾਓ
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = ਨਵੀਂ ਸਵਿੱਚ ਦੱਬੋ:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
