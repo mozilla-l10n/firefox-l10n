@@ -146,8 +146,14 @@ autofill-message-tooltip = Տեսնել ինքնալրացման մասին հա
 autofill-add-card-title = Ավելացնել քարտ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Խմբագրել քարտը
+autofill-card-number-2 =
+    .label = Քատի համարը
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Մուտքագրեք ճիշտ քարտի համար
+autofill-card-name-on-card-2 =
+    .label = Անունը քարտի վրա
+autofill-card-billing-address-2 =
+    .label = Վճարման հասցե
 autofill-card-name-on-card = Անունը քարտի վրա
 autofill-card-expires-month = Սպռ. ամիս
 autofill-card-expires-year = Սպռ. տարի
