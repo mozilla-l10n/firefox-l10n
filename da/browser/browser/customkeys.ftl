@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Tastaturgenveje
 customkeys-search = Søg:
 customkeys-change = Skift
@@ -51,6 +54,22 @@ customkeys-nav-select-last-tab = Gå til sidste faneblad
 customkeys-nav-toggle-mute = Slå lyd til/fra
 customkeys-edit-find-previous = Find forrige
 customkeys-tools-screenshot = Tag et skærmbillede
+customkeys-category-navigation-2 =
+    .heading = Navigation
 customkeys-caution-message = Denne funktion er eksperimentel og virker muligvis ikke som forventet.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
+customkeys-key-clear =
+    .aria-label = Ryd
+    .tooltiptext = Ryd
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Tryk på en ny tast:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
