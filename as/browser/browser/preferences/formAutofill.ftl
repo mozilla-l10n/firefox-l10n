@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-এ ক্ৰেডিট কাৰ্ডৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে। তলৰ এই উইণ্ড'জ একাউণ্টত প্ৰৱেশাধিকাৰ নিশ্চিত কৰক।
        *[other] { -brand-short-name }-এ ক্ৰেডিট কাৰ্ডৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে।
     }
+autofill-card-number-2 =
+    .label = কাৰ্ড নম্বৰ
 autofill-card-number = কাৰ্ড নম্বৰ
 autofill-card-invalid-number = অনুগ্ৰহ কৰি এটা বৈধ কাৰ্ড নম্বৰ প্ৰবিষ্ট কৰক
+autofill-card-name-on-card-2 =
+    .label = কাৰ্ডত নাম
+autofill-card-billing-address-2 =
+    .label = বিল পঠিওৱা ঠিকনা
 autofill-card-name-on-card = কাৰ্ডত নাম
 autofill-card-expires-month = সমাপ্তিৰ মাহ
 autofill-card-expires-year = সমাপ্তিৰ বছৰ
