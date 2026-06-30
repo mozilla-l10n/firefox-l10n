@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Спалучэнні клавіш
 customkeys-search = Пошук:
 customkeys-change = Змяніць
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Перайсці на апошнюю картк
 customkeys-nav-toggle-mute = Уключыць/выключыць гук
 customkeys-edit-find-previous = Знайсці папярэдняе
 customkeys-tools-screenshot = Зрабіць здымак экрана
+customkeys-category-navigation-2 =
+    .heading = Навігацыя
 customkeys-caution-message = Гэтая функцыя эксперыментальная і можа не працаваць належным чынам.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Не сапраўдны
+customkeys-key-clear =
+    .aria-label = Ачысціць
+    .tooltiptext = Ачысціць
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Націсніце новую клавішу:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
