@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = კლავიატურის მალსახმობები
 customkeys-search = ძიება:
 customkeys-change = შეცვლა
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = გადასვლა ბოლო ჩან
 customkeys-nav-toggle-mute = ხმის დადუმება/ჩართვა
 customkeys-edit-find-previous = წინას პოვნა
 customkeys-tools-screenshot = ეკრანის ანაბეჭდის აღება
+customkeys-category-navigation-2 =
+    .heading = გადაადგილება
 customkeys-caution-message = ეს შესაძლებლობა საცდელია და შესაძლოა სათანადოდ ვერ იმუშაოს.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = უმართებულო
+customkeys-key-clear =
+    .aria-label = გასუფთავება
+    .tooltiptext = გასუფთავება
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = დააჭირეთ ახალ ღილაკს:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
