@@ -31,6 +31,11 @@ autofill-address-street = Kanonge me yoo gudo
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
+
 autofill-address-city = Boma
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -61,8 +66,12 @@ autofill-country-warning-message = Pongo pwom pire kene kombedi tye pi lobo mogo
 autofill-add-new-card-title = Med kad me bank manyen
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Yub kad me bank
+autofill-card-number-2 =
+    .label = Namba me kad
 autofill-card-number = Namba me kad
 autofill-card-invalid-number = Tim ber iket namba kad matye atir
+autofill-card-name-on-card-2 =
+    .label = Nying ma i kad
 autofill-card-name-on-card = Nying ma i kad
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
