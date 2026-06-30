@@ -147,8 +147,14 @@ autofill-message-tooltip = Skoða skilaboð um sjálfvirka útfyllingu
 autofill-add-card-title = Bæta við korti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Breyta greiðslukorti
+autofill-card-number-2 =
+    .label = Kortanúmer
 autofill-card-number = Kortanúmer
 autofill-card-invalid-number = Settu inn gilt kortanúmer
+autofill-card-name-on-card-2 =
+    .label = Nafn á korti
+autofill-card-billing-address-2 =
+    .label = Heimilisfang innheimtu
 autofill-card-name-on-card = Nafn á korti
 autofill-card-expires-month = Gildistími mánuður
 autofill-card-expires-year = Gildistími ár
