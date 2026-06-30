@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Các thẻ đang mở
 sidebar-options-menu-button =
     .title = Mở menu
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Thay đổi kích thước thanh lề
 
 ## Labels for sidebar history panel
 

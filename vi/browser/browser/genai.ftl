@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Hỏi { $provider }
 genai-menu-new-badge = Mới
 genai-menu-summarize-page = Tóm tắt trang
+genai-input-ask-smart-window =
+    .placeholder = Hỏi…
 genai-input-ask-generic =
     .placeholder = Hỏi chatbot AI…
 # $provider (string) - name of the provider
@@ -104,6 +106,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Hỏi một chatbot AI
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = Hỏi…
+    .accesskey = z
 
 ## Chatbot header
 
