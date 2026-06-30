@@ -62,11 +62,35 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Iste function es experimental e pote non functionar como expectate.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Non valide
+customkeys-shortcut-unassigned =
+    .placeholder = Adder via breve
+customkeys-key-edit =
+    .aria-label = Modificar
+    .tooltiptext = Modificar
 customkeys-key-clear =
     .aria-label = Vacuar
     .tooltiptext = Vacuar
+customkeys-key-reset =
+    .aria-label = Restaurar
+    .tooltiptext = Restaurar
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Pulsar nove clave:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Cancellar
+customkeys-reset-all-confirm-title = Restaurar le parametros predefinite?
+customkeys-reset-all-confirm-button-confirm = Restaurar le parametros predefinite
+customkeys-reset-all-confirm-button-cancel = Cancellar
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra lateral
+customkeys-title-heading =
+    .heading = Vias breve de claviero
+customkeys-support-link-text = Pro saper plus
+customkeys-reset-all-button = Restaurar le parametros predefinite

@@ -62,11 +62,23 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Tuta funkcija je eksperimentelna a njedźěła snano kaž wočakowane.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Njepłaćiwy
+customkeys-key-edit =
+    .aria-label = Wobdźěłać
+    .tooltiptext = Wobdźěłać
 customkeys-key-clear =
     .aria-label = Zhašeć
     .tooltiptext = Zhašeć
+customkeys-key-reset =
+    .aria-label = Wobnowić
+    .tooltiptext = Wobnowić
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Tłóčće nowu tastu:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Přetorhnyć
+customkeys-reset-all-confirm-title = Standardy wobnowić?
+customkeys-reset-all-confirm-button-confirm = Standardy wobnowić

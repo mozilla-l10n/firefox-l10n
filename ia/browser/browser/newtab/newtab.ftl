@@ -160,6 +160,11 @@ home-prefs-mission-message-learn-more-link-srd = Discoperi como
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Pro saper plus
 
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Pro saper plus
+
 ## Search box component.
 
 # "Search" is a verb/action

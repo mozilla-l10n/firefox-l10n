@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Multiprocesowe graty
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Hłowny proces a wobsahowe procesy za cilowy wobhladowak
+about-debugging-message-error-icon =
+    .alt = Zmylkowy symbol
+about-debugging-message-info-icon =
+    .alt = Informaciski symbol
+about-debugging-message-warning-icon =
+    .alt = Warnowanski symbol
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Zdźělenku začinić

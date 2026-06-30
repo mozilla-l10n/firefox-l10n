@@ -70,3 +70,20 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Жаңа пернені басыңыз:
+
+## Confirmation dialogs
+
+customkeys-reset-all-confirm-button-cancel = Бас тарту
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Бүйір панелі
+customkeys-title-heading =
+    .heading = Пернетақта жарлықтары
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Жарлықтардан іздеу
+    .placeholder = Жарлықтардан іздеу
+customkeys-support-link-text = Көбірек білу
+customkeys-reset-all-button = Бастапқы мәндерін қайтару

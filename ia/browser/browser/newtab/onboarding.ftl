@@ -448,6 +448,10 @@ onboarding-checklist-pin = Adde { -brand-short-name } al barra de apps
 onboarding-checklist-import = Importa ab le previe navigator
 onboarding-checklist-extension = Adde un extension
 onboarding-checklist-sign-up = Registrate o accede a tu conto
+onboarding-checklist-minimize =
+    .label = Minimisar
+onboarding-checklist-remove =
+    .label = Remover lista de controlo
 
 ## Tab Groups feature onboarding strings
 
