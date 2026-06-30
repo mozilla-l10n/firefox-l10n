@@ -60,6 +60,8 @@ autofill-address-country = País o rexón
 autofill-address-tel = Teléfonu
 autofill-cancel-button = Encaboxar
 autofill-save-button = Guardar
+autofill-card-name-on-card-2 =
+    .label = Titular de la tarxeta
 autofill-card-name-on-card = Titular de la tarxeta
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
