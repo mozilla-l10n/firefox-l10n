@@ -11,15 +11,36 @@ main-context-menu-open-link-new-smart-window =
 appmenuitem-new-ai-window =
     .label = Νέο { -smart-window-brand-name(form: "lowerSingularNom") }
     .value = Νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+appmenuitem-new-classic-window =
+    .label = Νέο κλασικό παράθυρο
 menu-file-new-ai-window =
     .label = Νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+menu-file-new-classic-window =
+    .label = Νέο κλασικό παράθυρο
+menu-history-chats =
+    .label = Συνομιλίες
+menu-history-chats-recent =
+    .label = Πρόσφατες συνομιλίες
 smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Νέα καρτέλα
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Τύπος παραθύρου
+    .tooltiptext = Εναλλαγή μεταξύ κλασικών και έξυπνων παραθύρων.
+ai-window-toggleview-switch-classic =
+    .label = Κλασικό παράθυρο
+    .value = Κλασικό παράθυρο
+ai-window-toggleview-switch-classic-description =
+    .label = Τυπική περιήγηση
+    .value = Τυπική περιήγηση
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Ερώτηση κατά την περιήγηση
+    .value = Ερώτηση κατά την περιήγηση
 ai-window-toggleview-switch-private =
     .label = Ιδιωτικό παράθυρο
 ai-window-toggleview-open-private =
@@ -34,8 +55,19 @@ aiwindow-input-cta-submit-label-navigate = Μετάβαση
 aiwindow-input-cta-submit-label-search = Αναζήτηση
 aiwindow-input-cta-submit-label-stop = Διακοπή
 aiwindow-input-cta-menu-label-chat = Ερώτηση
+aiwindow-input-cta-menu-label-navigate = Μετάβαση στον ιστότοπο
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Αναζήτηση με { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Αναζήτηση με…
 aiwindow-input-cta-search-submenu-header = Αναζήτηση
+aiwindow-input-cta-stop-button =
+    .title = Διακοπή απάντησης
+    .aria-label = Διακοπή της δημιουργίας απάντησης
+
+## Mentions
+
+smartbar-mentions-list-no-results-label = Δεν βρέθηκαν αποτελέσματα
+smartbar-mentions-list-recent-tabs-label = Πρόσφατες καρτέλες
 
 ## Website Chip
 
@@ -45,11 +77,33 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Καλώς ορίσατε στο { -smart-window-brand-name(form: "uppperSingularNom") }
+aiwindow-firstrun-model-fast-label = Γρήγορο
+aiwindow-firstrun-model-fast-body = Απαντά γρήγορα
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Μοντέλο { $model } από την { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Ευέλικτο
+aiwindow-firstrun-model-allpurpose-body = Ιδανική επιλογή για τις περισσότερες ανάγκες
+aiwindow-firstrun-model-personal-label = Προσωπικό
+aiwindow-firstrun-model-personal-body = Οι πιο προσαρμοσμένες απαντήσεις
+aiwindow-firstrun-button = Ας ξεκινήσουμε
 aiwindow-firstrun-back-button = Πίσω
 aiwindow-firstrun-next-button = Επόμενο
 
 ## These are labels describing model types in the smartbar model select.
 
+aiwindow-input-model-select-button-label-fast = Γρήγορο
+aiwindow-input-model-select-button-label-allpurpose = Ευέλικτο
+aiwindow-input-model-select-button-label-personal = Προσωπικό
+aiwindow-input-model-select-button-label-custom = Προσαρμοσμένο
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Χρησιμοποιήστε το δικό σας LLM
+aiwindow-input-model-select-default-badge =
+    .label = Προεπιλεγμένο
+    .title = Το προεπιλεγμένο μοντέλο
 aiwindow-input-model-select-settings-link = Ρυθμίσεις μοντέλου
 
 ## Ask Toolbar Button
@@ -130,3 +184,21 @@ smart-window-default-promo-additional-button = Όχι τώρα
 aiwindow-feedback-modal-title = Αποστολή σχολίων
 aiwindow-feedback-submit = Υποβολή
 aiwindow-feedback-cancel = Ακύρωση
+aiwindow-feedback-reason-incorrect-or-misleading = Λάθος ή παραπλανητικό
+aiwindow-feedback-reason-lacks-personalization = Χωρίς εξατομίκευση ή σχετικό πλαίσιο
+aiwindow-feedback-reason-performance-or-usability = Ζήτημα επιδόσεων ή χρηστικότητας
+aiwindow-feedback-reason-harmful-or-offensive = Επιβλαβές ή προσβλητικό
+aiwindow-feedback-reason-other = Άλλο
+aiwindow-feedback-preview-report = Προβολή λεπτομερειών συνομιλίας
+aiwindow-feedback-preview-report-with-page = Προβολή λεπτομερειών συνομιλίας και σελίδας
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Αλλαγή διάταξης προβολής
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Εναλλαγή λειτουργίας: Προβολή λίστας
+    .tooltiptext = Προβολή λίστας
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Εναλλαγή λειτουργίας: Προβολή πλέγματος
+    .tooltiptext = Προβολή πλέγματος

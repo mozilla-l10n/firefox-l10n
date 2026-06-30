@@ -16,18 +16,18 @@ smart-window-context-chips-tag-count =
 
 ## Error messages in the chat content
 
-smartwindow-assistant-error-generic-header = Noe gikk galt. Prøv igjen.
+smartwindow-assistant-error-generic-header = Noe gikk galt. Prøv på nytt.
 smartwindow-assistant-error-budget-header = Du har nådd dagens chatgrense.
 smartwindow-assistant-error-account-header = Du må logge inn for å bruke { -smart-window-brand-name }.
-smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } har nådd kapasitetstaket. Prøv igjen senere.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } har nådd kapasitetstaket. Prøv på nytt senere.
 smartwindow-assistant-error-budget-body = Du kan fortsatt surfe i dette vinduet. Chat blir tilgjengelig igjen når den daglige grensen tilbakestilles.
-smartwindow-assistant-error-many-requests-header = Vent litt og prøv igjen. For mange meldinger ble sendt på kort tid.
+smartwindow-assistant-error-many-requests-header = Vent litt og prøv på nytt. For mange meldinger ble sendt på kort tid.
 smartwindow-assistant-error-max-length-header = Det er på tide å starte en ny chat. Denne har nådd lengdegrensen.
 smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } fikk ikke kontakt med serveren. Prøv et annet nettverk eller slå av VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
-smartwindow-assistant-error-http-header = Serverfeil (HTTP { $status }). Prøv igjen.
-smartwindow-retry-btn = Prøv igjen
+smartwindow-assistant-error-http-header = Serverfeil (HTTP { $status }). Prøv på nytt.
+smartwindow-retry-btn = Prøv på nytt
 smartwindow-clear-btn = Ny chat
 smartwindow-signin-btn = Logg inn
 
@@ -75,8 +75,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Prøv på nytt
-smartwindow-nl-retry-message = Hvis du fortsatt vil lukke faner, velg <strong>Prøv igjen</strong> og gjør valget ditt i kortet som åpnes.
-smartwindow-nl-retry-group-tabs-message = Hvis du fortsatt vil gruppere faner, velg <strong>Prøv igjen</strong> og velg hvilke i kortet som åpnes.
+smartwindow-nl-retry-message = Hvis du fortsatt vil lukke faner, velg <strong>Prøv på nytt</strong> og gjør valget ditt i kortet som åpnes.
+smartwindow-nl-retry-group-tabs-message = Hvis du fortsatt vil gruppere faner, velg <strong>Prøv på nytt</strong> og velg hvilke i kortet som åpnes.
 smartwindow-nl-thinking = Ser etter samsvarende faner…
 smartwindow-loading-assistant-response =
     .aria-label = Laster inn svar fra assistenten
