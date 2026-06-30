@@ -147,8 +147,14 @@ autofill-message-tooltip = Паглядзець паведамленне пра 
 autofill-add-card-title = Дадаць карту
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Змяніць карту
+autofill-card-number-2 =
+    .label = Нумар карткі
 autofill-card-number = Нумар карткі
 autofill-card-invalid-number = Калі ласка, увядзіце сапраўдны нумар карты
+autofill-card-name-on-card-2 =
+    .label = Імя на картцы
+autofill-card-billing-address-2 =
+    .label = Плацежны адрас
 autofill-card-name-on-card = Імя на картцы
 autofill-card-expires-month = Месяц тэрміну дзеяння
 autofill-card-expires-year = Год тэрміну дзеяння
