@@ -151,8 +151,14 @@ autofill-message-tooltip = Zobrazit zprávu o automatickém vyplňování
 autofill-add-card-title = Přidat kartu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Upravit kartu
+autofill-card-number-2 =
+    .label = Číslo karty
 autofill-card-number = Číslo karty
 autofill-card-invalid-number = Zadejte prosím platné číslo platební karty
+autofill-card-name-on-card-2 =
+    .label = Jméno na kartě
+autofill-card-billing-address-2 =
+    .label = Fakturační adresa
 autofill-card-name-on-card = Jméno na kartě
 autofill-card-expires-month = Měsíc expirace
 autofill-card-expires-year = Rok expirace
