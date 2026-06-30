@@ -91,6 +91,7 @@ customkeys-conflict-confirm-body = Αυτό το πλήκτρο χρησιμοπ
 customkeys-conflict-confirm-button-confirm = Χρήση ούτως ή άλλως
 customkeys-conflict-confirm-button-cancel = Ακύρωση
 customkeys-reset-all-confirm-title = Επαναφορά προεπιλογών;
+customkeys-reset-all-confirm-body = Θα καταργηθούν όλες οι προσαρμοσμένες συντομεύσεις πληκτρολογίου που έχετε δημιουργήσει.
 customkeys-reset-all-confirm-button-confirm = Επαναφορά προεπιλογών
 customkeys-reset-all-confirm-button-cancel = Ακύρωση
 
@@ -104,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Αναζήτηση συντομεύσεων
     .placeholder = Αναζήτηση συντομεύσεων
+customkeys-description = Ελέγξτε τον τρόπο με τον οποίο πλοηγείστε και αλληλεπιδράτε με το { -brand-short-name }.
 customkeys-support-link-text = Μάθετε περισσότερα
 customkeys-reset-all-button = Επαναφορά προεπιλογών

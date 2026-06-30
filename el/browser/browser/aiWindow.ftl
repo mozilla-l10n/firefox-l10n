@@ -71,12 +71,15 @@ smartbar-mentions-list-recent-tabs-label = Πρόσφατες καρτέλες
 
 ## Website Chip
 
+aiwindow-website-chip-history-deleted = Το ιστορικό διαγράφηκε
 aiwindow-website-chip-remove-button =
     .aria-label = Αφαίρεση
 
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Καλώς ορίσατε στο { -smart-window-brand-name(form: "uppperSingularNom") }
+aiwindow-firstrun-model-title = Τι είναι σημαντικό για εσάς;
+aiwindow-firstrun-model-subtitle = Επιλέξτε ένα μοντέλο για το { -smart-window-brand-name(form: "lowerSingularNom") }. Μπορείτε να το αλλάξετε ανά πάσα στιγμή.
 aiwindow-firstrun-model-fast-label = Γρήγορο
 aiwindow-firstrun-model-fast-body = Απαντά γρήγορα
 # $model (string) - The name of the AI model
@@ -106,6 +109,19 @@ aiwindow-input-model-select-default-badge =
     .title = Το προεπιλεγμένο μοντέλο
 aiwindow-input-model-select-settings-link = Ρυθμίσεις μοντέλου
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Πιο χρήσιμες απαντήσεις, με τους δικούς σας όρους
+aiwindow-firstrun-memories-relevance-title = Πιο σχετικές απαντήσεις
+aiwindow-firstrun-memories-privacy-title = Ιδιωτικό εκ κατασκευής
+aiwindow-firstrun-memories-checkbox-chats = Συνομιλίες στο { -smart-window-brand-name(form: "lowerSingularNom") }
+aiwindow-firstrun-memories-checkbox-browsing = Περιήγηση σε όλο το { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Ενημερώστε τις επιλογές σας στις ρυθμίσεις, ανά πάσα στιγμή.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = Αλλάξτε τις επιλογές σας στις ρυθμίσεις, ανά πάσα στιγμή
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
@@ -123,6 +139,10 @@ aiwindow-close-sidebar =
     .aria-label = Κλείσιμο
     .tooltiptext = Κλείσιμο
 
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Μετάβαση στο { -smart-window-brand-name(form: "lowerSingularNom") };
+
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
@@ -133,6 +153,11 @@ smartwindow-footer-history =
     .label = Ιστορικό
     .aria-label = Ιστορικό
     .tooltiptext = Ιστορικό
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Η τεχνητή νοημοσύνη μπορεί να κάνει λάθη.
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
@@ -154,11 +179,41 @@ firefoxview-chat-date-yesterday = Χθες - { DATETIME($date, dateStyle: "full"
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Επιστρέψτε στις συνομιλίες σας
+firefoxview-chats-empty-description = Καθώς χρησιμοποιείτε το { -smart-window-brand-name(form: "lowerSingularNom") }, οι συνομιλίες σας θα αποθηκεύονται εδώ.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } συνομιλία
+       *[other] { $count } συνομιλίες
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Ιστορικό περιήγησης, λήψεων και συνομιλιών
+    .accesskey = π
+item-history-downloads-and-chat-description = Διαγράφει το ιστορικό ιστοτόπων, λήψεων και συνομιλιών
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
     .label = Επιλογή όλων
     .aria-label = Επιλογή όλων
+smart-window-confirm-deselect-all =
+    .aria-label = Αποεπιλογή όλων
+    .label = Αποεπιλογή όλων
+smart-window-close-confirm =
+    .aria-label = Ακύρωση αιτήματος και κλείσιμο
+    .tooltiptext = Ακύρωση αιτήματος και κλείσιμο
 smart-window-confirm-close-tab = Κλείσιμο
 # Variables
 #   $count (number) - Number of tabs to close
@@ -182,9 +237,12 @@ smart-window-default-promo-additional-button = Όχι τώρα
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Αποστολή σχολίων
+aiwindow-feedback-choose-any = Επιλέξτε όλα όσα ισχύουν
+aiwindow-feedback-add-details = Προσθέστε λεπτομέρειες αν το επιθυμείτε, χωρίς όμως προσωπικά στοιχεία.
 aiwindow-feedback-submit = Υποβολή
 aiwindow-feedback-cancel = Ακύρωση
 aiwindow-feedback-reason-incorrect-or-misleading = Λάθος ή παραπλανητικό
+aiwindow-feedback-reason-doesnt-address-my-request = Δεν ικανοποιεί το αίτημά μου
 aiwindow-feedback-reason-lacks-personalization = Χωρίς εξατομίκευση ή σχετικό πλαίσιο
 aiwindow-feedback-reason-performance-or-usability = Ζήτημα επιδόσεων ή χρηστικότητας
 aiwindow-feedback-reason-harmful-or-offensive = Επιβλαβές ή προσβλητικό

@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Diese Funktion ist experimentell und funktioniert möglicherweise nicht wie erwartet.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ungültig
+customkeys-shortcut-unassigned =
+    .placeholder = Tastenkombination hinzufügen
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Tastenkombination für: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Bearbeiten
+    .tooltiptext = Bearbeiten
 customkeys-key-clear =
     .aria-label = Löschen
     .tooltiptext = Löschen
+customkeys-key-reset =
+    .aria-label = Wiederherstellen
+    .tooltiptext = Wiederherstellen
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Neue Taste drücken:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Eine andere Tastenkombination entfernen?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Dieser Tastenkombination wird bereits für "{ $conflict }" verwendet.
+customkeys-conflict-confirm-button-confirm = Trotzdem verwenden
+customkeys-conflict-confirm-button-cancel = Abbrechen
+customkeys-reset-all-confirm-title = Standard wiederherstellen?
+customkeys-reset-all-confirm-body = Alle benutzerdefinierten Tastenkombinationen, die Sie erstellt haben, werden entfernt.
+customkeys-reset-all-confirm-button-confirm = Standards wiederherstellen
+customkeys-reset-all-confirm-button-cancel = Abbrechen
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidebar
+customkeys-title-heading =
+    .heading = Tastenkombinationen
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Tastenkombinationen suchen
+    .placeholder = Tastenkombinationen suchen
+customkeys-description = Kontrollieren Sie, wie Sie sich mit { -brand-short-name } bewegen und interagieren.
+customkeys-support-link-text = Weitere Informationen
+customkeys-reset-all-button = Standards wiederherstellen

@@ -58,9 +58,7 @@
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
-    { $form ->
-        [upper-singular] Ventana inteligente
-        [lower-singular] ventana inteligente
-        [lower-plural] ventanas inteligentes
-       *[upper-plural] Ventanas inteligentes
+    { $plural-form ->
+        [true] Ventanas inteligentes
+       *[false] Ventana inteligente
     }

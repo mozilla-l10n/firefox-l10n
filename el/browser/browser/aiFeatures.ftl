@@ -75,9 +75,15 @@ ai-window-manage-memories-header =
 ai-window-no-memories =
     .label = Δεν υπάρχουν ακόμα αναμνήσεις
     .description = Όσο το { -smart-window-brand-name(form: "lowerSingularNom") } μαθαίνει από το δραστηριότητά σας, θα βλέπετε τις αναμνήσεις εδώ.
+ai-window-no-memories-learning-off =
+    .label = Καμία ανάμνηση προς εμφάνιση
+    .description = Η εκμάθηση από τη δραστηριότητα είναι απενεργοποιημένη, επομένως το { -smart-window-brand-name(form: "lowerSingularNom") } δεν δημιουργεί αναμνήσεις.
 ai-window-delete-all-memories-button =
     .label = Διαγραφή όλων
 ai-window-delete-all-memories-title = Διαγραφή όλων των αναμνήσεων;
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Οι υπάρχουσες αναμνήσεις θα διαγραφούν. Εάν δεν θέλετε να δημιουργηθούν νέες, απενεργοποιήστε τις επιλογές «Εκμάθηση από…» στις ρυθμίσεις του { -smart-window-brand-name(form: "lowerSingularGen") }.
 ai-window-delete-all-memories-confirm = Διαγραφή
 ai-window-delete-all-memories-cancel = Ακύρωση
 # Variables:

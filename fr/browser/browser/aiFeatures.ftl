@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name(form: "upper-singular") }
 smart-window-block-title = Bloquer { -smart-window-brand-name } ?
 smart-window-block-description-both = Cette action supprimera vos { -smart-window-brand-name } discussions et vos mémoires.
 smart-window-block-description-chats = Vos discussions de { -smart-window-brand-name } seront supprimées.
@@ -71,7 +71,7 @@ ai-window-manage-memories-button =
     .label = Gérer les souvenirs
 ai-window-manage-memories-header =
     .heading = Gérer les souvenirs
-    .description = Les souvenirs sont stockés localement sur cet appareil afin de protéger votre vie privée. Ils sont actualisés plusieurs fois par jour lorsque vous utilisez la { -smart-window-brand-name }. L’activité récente peut donc prendre un certain temps avant d’être prise en compte.
+    .description = Les souvenirs sont stockés localement sur cet appareil afin de protéger votre vie privée. Ils sont actualisés plusieurs fois par jour lorsque vous utilisez les { -smart-window-brand-name(form: "lower-plural") }. L’activité récente peut donc prendre un certain temps avant d’être prise en compte.
 ai-window-no-memories =
     .label = Aucun souvenir pour l’instant
     .description = Au fur et à mesure que la { -smart-window-brand-name } apprend de vos habitudes, vous verrez apparaître ici des souvenirs.

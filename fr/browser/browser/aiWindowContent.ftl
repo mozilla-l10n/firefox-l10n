@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-smartwindow-messages-document-title = Messages de la discussion de la { -smart-window-brand-name }
+smartwindow-messages-document-title = Messages de la discussion de la { -smart-window-brand-name(form: "lower-singular") }
 
 ## Context chips in the chat content
 
@@ -18,12 +18,12 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Une erreur est survenue. Merci de réessayer plus tard.
 smartwindow-assistant-error-budget-header = Vous avez atteint la limite de discussion pour aujourd’hui.
-smartwindow-assistant-error-account-header = Pour utiliser la { -smart-window-brand-name }, vous devez vous connecter.
-smartwindow-assistant-error-capacity-header = La { -smart-window-brand-name } est actuellement saturée. Veuillez réessayer plus tard.
+smartwindow-assistant-error-account-header = Pour utiliser la { -smart-window-brand-name(form: "lower-singular") }, vous devez vous connecter.
+smartwindow-assistant-error-capacity-header = La { -smart-window-brand-name(form: "lower-singular") } est actuellement saturée. Veuillez réessayer plus tard.
 smartwindow-assistant-error-budget-body = Vous pouvez toujours naviguer dans cette fenêtre. La discussion sera à nouveau disponible une fois votre limite quotidienne réinitialisée.
 smartwindow-assistant-error-many-requests-header = Veuillez patienter puis réessayer. Trop de messages ont été envoyés en peu de temps.
 smartwindow-assistant-error-max-length-header = Il est temps de lancer une nouvelle discussion. Celle-ci a atteint sa limite de longueur.
-smartwindow-assistant-error-request-blocked-header = La { -smart-window-brand-name } n’a pas réussi à se connecter au serveur. Essayez avec un autre réseau ou désactivez votre VPN.
+smartwindow-assistant-error-request-blocked-header = La { -smart-window-brand-name(form: "lower-singular") } n’a pas réussi à se connecter au serveur. Essayez avec un autre réseau ou désactivez votre VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Erreur serveur (HTTP { $status }). Veuillez réessayer.

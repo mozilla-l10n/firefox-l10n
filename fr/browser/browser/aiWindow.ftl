@@ -6,7 +6,7 @@
 ## Chrome
 
 main-context-menu-open-link-new-smart-window =
-    .label = Ouvrir le lien dans une nouvelle { -smart-window-brand-name }
+    .label = Ouvrir le lien dans une nouvelle { -smart-window-brand-name(form: "lower-singular") }
     .accesskey = O
 appmenuitem-new-ai-window =
     .label = Nouvelle { -smart-window-brand-name }

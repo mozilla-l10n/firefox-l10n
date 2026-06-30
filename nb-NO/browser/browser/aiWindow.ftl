@@ -147,10 +147,65 @@ aiwindow-firstrun-memories-no-create = Skjønner. { -smart-window-brand-name } v
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = Gjør { -smart-window-brand-name } til ditt foretrukne valg
+aiwindow-firstrun-default-subtitle = Surf, søk og still spørsmål på ett sted. Du kan fortsatt åpne private vinduer og klassiske vinduer når du vil.
+aiwindow-firstrun-default-checkbox-label = Åpne alltid { -brand-product-name } i { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Bytt i innstillingene når som helst
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Spør
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .tooltiptext = Bruk minner i svar når det er nyttig
+    .aria-label = Minner på
+aiwindow-memories-off =
+    .tooltiptext = Ikke bruk minner i svar
+    .aria-label = Minner av
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Ny chat
+    .tooltiptext = Ny chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Lukk
+    .tooltiptext = Lukk
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synkroniserte data blir værende på kontoen din. Åpne { -smart-window-brand-name(plural-form: "true") } vil bytte til klassiske vinduer.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Bytt til { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Chatter
+    .aria-label = Chatter
+    .tooltiptext = Chatter
+smartwindow-footer-history =
+    .label = Historikk
+    .aria-label = Historikk
+    .tooltiptext = Historikk
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI kan gjøre feil.
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
+firefoxview-chats-nav = Chatter
+    .title = Chatter
 firefoxview-chats-header = Chatter
 firefoxview-chat-context-delete = Slett fra chatter
     .accesskey = S

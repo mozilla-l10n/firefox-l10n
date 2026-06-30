@@ -17,6 +17,7 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Κάτι πήγε στραβά. Δοκιμάστε ξανά.
+smartwindow-assistant-error-budget-header = Έχετε φτάσει το σημερινό όριο συνομιλιών.
 smartwindow-assistant-error-account-header = Για τη χρήση του { -smart-window-brand-name(form: "lowerSingularGen") }, απαιτείται σύνδεση.
 smartwindow-retry-btn = Δοκιμή ξανά
 smartwindow-clear-btn = Νέα συνομιλία
