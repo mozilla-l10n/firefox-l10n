@@ -75,12 +75,83 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Retentar
+smartwindow-nl-retry-message = Si tu ancora vole clauder schedas, elige <strong>Retentar</strong> e face tu selection in le carta que tu aperi.
+smartwindow-nl-retry-group-tabs-message = Si tu ancora vole aggruppar schedas, elige <strong>Retentar</strong> e elige qual in le pannello que se aperi.
+smartwindow-nl-thinking = Recerca del schedas correspondente…
+smartwindow-loading-assistant-response =
+    .aria-label = Cargante responsa del assistente
 smartwindow-nl-undo-button =
     .label = Disfacer
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Claudite { $count } scheda
+       *[other] Claudite { $count } schedas
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Facite! Scheda claudite.
+       *[other] Facite! Schedas claudite.
+    }
 smart-window-closed-tabs-row-label = Schedas claudite
+smart-window-closed-and-restored-label = Restaurate { $count } scheda
+smart-window-restored-row-label =
+    { $count ->
+        [one] Restaurate { $count } scheda
+       *[other] Restaurate { $count } schedas
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Scheda claudite, pois restaurate.
+       *[other] Schedas claudite, pois restaurate.
+    }
+smart-window-cancelled-label = Requesta cancellate.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Gruppo
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Regruppar { $count } scheda
+       *[other] Regruppar { $count } schedas
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Gruppate { $count } scheda
+       *[other] Gruppate { $count } schedas
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Create le gruppo “{ $label }” e addite { $count } scheda.
+       *[other] Create le gruppo “{ $label }” e addite { $count } schedas.
+    }
+smart-window-grouped-tabs-row-label = Schedas regruppate
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Schedas de-gruppate
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } scheda gruppate, pois de-gruppate.
+       *[other] { $count } schedas gruppate, pois de-gruppate.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] De-gruppate { $count } scheda
+       *[other] De-gruppate { $count } schedas
+    }
+
+## Action log
+
+action-log-searching-tabs = Recerca de schedas
+action-log-searched-open-tabs = Recercate schedas aperte
+action-log-searching-history = Recerca del chronologia
+action-log-searched-history = Chronologia recercate
