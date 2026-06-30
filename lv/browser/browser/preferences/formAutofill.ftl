@@ -147,8 +147,14 @@ autofill-message-tooltip = Skatīt ziņojumu par automātisko aizpildīšanu
 autofill-add-card-title = Pievienot karti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Rediģēt karti
+autofill-card-number-2 =
+    .label = Kartes numurs
 autofill-card-number = Kartes numurs
 autofill-card-invalid-number = Lūdzu, ievadiet derīgu kredītkartes numuru
+autofill-card-name-on-card-2 =
+    .label = Kartes īpašnieks
+autofill-card-billing-address-2 =
+    .label = Rēķina adrese
 autofill-card-name-on-card = Kartes īpašnieks
 autofill-card-expires-month = Der.t. mēnesis
 autofill-card-expires-year = Der.t. gads
