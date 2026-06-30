@@ -65,3 +65,27 @@ ai-window-memories-section =
     .description = ‏{ -brand-short-name } יכול ללמוד מהפעילות שלך כדי ליצור זכרונות. הם משמשים להתאמה אישית של התשובות ומאוחסנים באופן מקומי במכשיר הזה.
 ai-window-learn-from-chat-activity =
     .label = ללמוד מצ’אטים ב־{ -smart-window-brand-name }
+ai-window-manage-memories-button =
+    .label = ניהול זכרונות
+ai-window-manage-memories-header =
+    .heading = ניהול זכרונות
+    .description = הזיכרונות מאוחסנים באופן מקומי במכשיר הזה כדי לסייע בהגנה על הפרטיות שלך. הם מתרעננים כמה פעמים ביום בזמן השימוש ב־{ -smart-window-brand-name }, ולכן ייתכן שיחלוף זמן עד שפעילות שביצעת לאחרונה תשתקף בהם.
+ai-window-no-memories =
+    .label = אין עדיין זכרונות
+    .description = ברגע ש־{ -smart-window-brand-name } ילמד מהפעילות שלך, הזכרונות יוצגו כאן.
+ai-window-no-memories-learning-off =
+    .label = אין זכרונות להצגה
+    .description = הלמידה מהפעילות כבויה, לכן { -smart-window-brand-name } לא יוצר זכרונות.
+ai-window-delete-all-memories-button =
+    .label = מחיקת הכל
+ai-window-delete-all-memories-title = למחוק את כל הזכרונות?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = זכרונות קיימים יימחקו. אם אין ברצונך שיווצרו זכרונות חדשים, יש לבטל את הסימון של האפשרויות של ״ללמוד מ…״ בהגדרות של { -smart-window-brand-name }.
+ai-window-delete-all-memories-confirm = מחיקה
+ai-window-delete-all-memories-cancel = ביטול
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = מחיקת זכרון
+    .aria-label = מחיקת { $label }

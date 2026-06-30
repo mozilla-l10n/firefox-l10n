@@ -11,7 +11,7 @@ genai-settings-chat-copilot-links = Ved å velge Copilot godtar du <a data-l10n-
 genai-settings-chat-gemini-links = Ved å velge Google Gemini godtar du <a data-l10n-name="link1">Googles bruksvilkår</a>, <a data-l10n-name="link2">retningslinjene for forbudt bruk av generativ AI</a> og <a data-l10n-name="link3">personvernerklæringen for Gemini-apper</a>.
 genai-settings-chat-huggingchat-links = Ved å velge HuggingChat godtar du <a data-l10n-name="link1">HuggingChats personvernpraksis</a> og <a data-l10n-name="link2">personvernpraksisen for Hugging Face</a>.
 genai-settings-chat-lechat-links = Ved å velge Le Chat Mistral godtar du Mistral AIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
-genai-settings-chat-localhost-links = Ta med din egen private lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
+genai-settings-chat-localhost-links = Ta med din egen private lokale chatbot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

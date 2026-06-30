@@ -241,9 +241,9 @@ firefoxview-search-chat-results-count =
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat =
-    .label = Historique de navigation, des téléchargements et des discussions en ligne
+    .label = Historique de navigation, des téléchargements et des discussions
     .accesskey = H
-item-history-downloads-and-chat-description = Efface l’historique des sites, des téléchargements et de la messagerie instantanée
+item-history-downloads-and-chat-description = Efface l’historique des sites, des téléchargements et des discussions
 
 ## Natural Language Interactions
 
@@ -261,7 +261,7 @@ smart-window-confirm-close-tab = Fermer
 #   $count (number) - Number of tabs to close
 smart-window-confirm-close-tabs =
     { $count ->
-        [one] Fermer l’onglet { $count }
+        [one] Fermer { $count } onglet
        *[other] Fermer { $count } onglets
     }
 
