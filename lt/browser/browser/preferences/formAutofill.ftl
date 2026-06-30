@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] „{ -brand-short-name }“ bando parodyti banko kortelės informaciją. Žemiau patvirtinkite prieigą prie šios „Windows“ paskyros.
        *[other] „{ -brand-short-name }“ bando parodyti banko kortelės informaciją.
     }
+autofill-card-number-2 =
+    .label = Kortelės numeris
 autofill-card-number = Kortelės numeris
 autofill-card-invalid-number = Įveskite teisingą kortelės numerį
+autofill-card-name-on-card-2 =
+    .label = Vardas ant kortelės
+autofill-card-billing-address-2 =
+    .label = Adresas sąskaitoms
 autofill-card-name-on-card = Vardas ant kortelės
 autofill-card-expires-month = Pab. mėnuo
 autofill-card-expires-year = Pab. metai
