@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = This feature is experimental and may not work as expected.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Invalid
+customkeys-shortcut-unassigned =
+    .placeholder = Add shortcut
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Shortcut for: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Edit
+    .tooltiptext = Edit
 customkeys-key-clear =
     .aria-label = Clear
     .tooltiptext = Clear
+customkeys-key-reset =
+    .aria-label = Restore
+    .tooltiptext = Restore
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Press new key:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Remove another shortcut?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = This key is already used by “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Use anyway
+customkeys-conflict-confirm-button-cancel = Cancel
+customkeys-reset-all-confirm-title = Restore defaults?
+customkeys-reset-all-confirm-body = Any custom keyboard shortcuts you’ve created will be removed.
+customkeys-reset-all-confirm-button-confirm = Restore defaults
+customkeys-reset-all-confirm-button-cancel = Cancel
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidebar
+customkeys-title-heading =
+    .heading = Keyboard Shortcuts
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Search shortcuts
+    .placeholder = Search shortcuts
+customkeys-description = Control how you move around and interact with { -brand-short-name }.
+customkeys-support-link-text = Learn more
+customkeys-reset-all-button = Restore defaults

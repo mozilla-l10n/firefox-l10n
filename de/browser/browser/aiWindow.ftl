@@ -52,3 +52,117 @@ aiwindow-input-cta-submit-label-navigate = Los
 aiwindow-input-cta-submit-label-search = Suchen
 aiwindow-input-cta-submit-label-stop = Stopp
 aiwindow-input-cta-menu-label-chat = Fragen
+aiwindow-input-cta-menu-label-navigate = Zur Website gehen
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Mit { $searchEngineName } suchen
+aiwindow-input-cta-menu-label-search-with = Suchen mit…
+aiwindow-input-cta-search-submenu-header = Suchen
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Fragen, suchen oder eine URL eingeben
+
+## Mentions
+
+smartbar-mentions-list-no-results-label = Keine Ergebnisse gefunden
+
+## Website Chip
+
+aiwindow-website-chip-history-deleted = Chronik gelöscht
+aiwindow-website-chip-remove-button =
+    .aria-label = Entfernen
+
+## Firstrun onboarding
+
+aiwindow-firstrun-button = Los geht's
+aiwindow-firstrun-back-button = Zurück
+aiwindow-firstrun-next-button = Weiter
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Schnell
+aiwindow-input-model-select-button-label-allpurpose = Flexibel
+aiwindow-input-model-select-button-label-personal = Persönlich
+aiwindow-input-model-select-button-label-custom = Benutzerdefiniert
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-default-badge =
+    .label = Standard
+    .title = Das ausgewählte Standard-Modell
+aiwindow-input-model-select-settings-link = Modell-Einstellungen
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Schließen
+    .tooltiptext = Schließen
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Heute - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Gestern - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } Chat
+       *[other] { $count } Chats
+    }
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Alles auswählen
+    .aria-label = Alles auswählen
+smart-window-confirm-deselect-all =
+    .label = Alles abwählen
+    .aria-label = Alles abwählen
+smart-window-close-confirm =
+    .aria-label = Anfrage abbrechen und schließen
+    .tooltiptext = Anfrage abbrechen und schließen
+smart-window-confirm-close-tab = Schließen
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] { $count } Tab schließen
+       *[other] { $count } Tabs schließen
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Tab geschlossen
+smartwindow-close-tab-callout-subtitle = Tabs aus der Chronik jederzeit wieder öffnen.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Als Standard festlegen
+smart-window-default-promo-additional-button = Nicht jetzt
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Sagen Sie Ihre Meinung
+aiwindow-feedback-submit = Absenden
+aiwindow-feedback-cancel = Abbrechen
+aiwindow-feedback-reason-incorrect-or-misleading = Falsch oder irreführend
+aiwindow-feedback-reason-doesnt-address-my-request = Das geht nicht auf meine Anfrage ein
+aiwindow-feedback-reason-lacks-personalization = Es fehlt an Personalisierung oder Kontext
+aiwindow-feedback-reason-performance-or-usability = Problem mit Leistung oder Benutzerfreundlichkeit
+aiwindow-feedback-reason-harmful-or-offensive = Gefährdend oder anstößig
+aiwindow-feedback-reason-other = Sonstiges
+aiwindow-feedback-preview-report = Chat-Details anzeigen
+aiwindow-feedback-preview-report-with-page = Chat- und Seitendetails anzeigen
+aiwindow-feedback-include-page-content = Die in diesem Chat referenzierten Seiten teilen
