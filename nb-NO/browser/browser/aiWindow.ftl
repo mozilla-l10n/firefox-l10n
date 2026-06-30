@@ -190,3 +190,12 @@ aiwindow-feedback-modal-title = Del tilbakemelding
 aiwindow-feedback-what-worked-well = Hva fungerte bra? Ikke oppgi personlig informasjon.
 aiwindow-feedback-choose-any = Velg det som passer
 aiwindow-feedback-add-details = Legg til detaljer hvis du vil. Ikke oppgi personlig informasjon.
+aiwindow-feedback-disclaimer = Når du sender inn dette, deler du tilbakemeldingen din og denne chatten for å hjelpe { -brand-shorter-name } med å forbedre { -smart-window-brand-name }. De andre chattene dine forblir private. <a data-l10n-name="learn-more">Les mer</a>
+aiwindow-feedback-submit = Send inn
+aiwindow-feedback-cancel = Avbryt
+aiwindow-feedback-reason-incorrect-or-misleading = Feil eller misvisende
+aiwindow-feedback-reason-doesnt-address-my-request = Besvarer ikke forespørselen min
+aiwindow-feedback-reason-lacks-personalization = Mangler tilpasning eller kontekst
+aiwindow-feedback-reason-performance-or-usability = Problem med ytelse eller brukervennlighet
+aiwindow-feedback-reason-harmful-or-offensive = Skadelig eller støtende
+aiwindow-feedback-reason-other = Annet

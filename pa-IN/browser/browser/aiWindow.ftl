@@ -253,3 +253,4 @@ smart-window-default-promo-additional-button = ਹੁਣੇ ਨਹੀਂ
 ## Feedback modal
 
 aiwindow-feedback-modal-title = ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
+aiwindow-feedback-what-worked-well = ਕਿਹੜੀ ਚੀਜ਼ ਕੰਮ ਕਰਦੀ ਸੀ? ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਦਿਓ ਜੀ।
