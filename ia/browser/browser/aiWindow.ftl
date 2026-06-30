@@ -59,6 +59,10 @@ aiwindow-input-model-select-button-label-custom = Personalisate
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Usa tu proprie GML
+aiwindow-input-model-select-default-badge =
+    .label = Predefinite
+    .title = Le modello predefinite eligite
 
 ## Ask Toolbar Button
 
