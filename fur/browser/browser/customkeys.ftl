@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Frache un gnûf tast:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

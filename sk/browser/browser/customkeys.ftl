@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Stlačte nový kláves:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

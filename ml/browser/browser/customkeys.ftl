@@ -30,9 +30,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = പുതിയ കട്ട അമൎത്തുക
-
-## Confirmation dialogs
-
-
-## Sidebar
-

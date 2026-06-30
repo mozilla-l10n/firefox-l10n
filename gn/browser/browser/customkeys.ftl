@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Ejopy jehaiha pyahu:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

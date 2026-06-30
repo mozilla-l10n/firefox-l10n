@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pulse la nueva tecla:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

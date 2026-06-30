@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pulsar nove clave:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

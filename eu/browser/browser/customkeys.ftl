@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Sakatu tekla berria:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

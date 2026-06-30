@@ -49,9 +49,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Tekan tombol baru:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

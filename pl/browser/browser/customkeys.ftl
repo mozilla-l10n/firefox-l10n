@@ -67,9 +67,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Naciśnij nowy klawisz:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

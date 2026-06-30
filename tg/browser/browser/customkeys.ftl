@@ -66,9 +66,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Тугмаи навро пахш кунед:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

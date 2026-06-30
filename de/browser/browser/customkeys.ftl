@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Neue Taste drücken:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

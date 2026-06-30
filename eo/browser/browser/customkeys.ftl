@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Premu novan klavon:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

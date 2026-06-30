@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Nhấn phím mới:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

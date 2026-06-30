@@ -31,11 +31,6 @@ autofill-address-street = Kanonge me yoo gudo
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Boma
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form

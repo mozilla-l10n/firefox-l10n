@@ -202,6 +202,8 @@
     }
     .gender = masculine
     .declinable = true
+-thunderbird-brand-name = Mozilla Thunderbird
+-thunderbird-brand-short-name = Thunderbird
 -mdn-brand-name = MDN Web Docs
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
@@ -286,7 +288,3 @@
     }
     .gender = masculine
     .declinable = true
-
--thunderbird-brand-short-name = Thunderbird
-
--thunderbird-brand-name = Mozilla Thunderbird

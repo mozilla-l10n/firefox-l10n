@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pressione a nova tecla:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

@@ -31,9 +31,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = ກົດປຸ່ມໃໝ່:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = დააჭირეთ ახალ ღილაკს:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

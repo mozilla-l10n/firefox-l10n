@@ -13,12 +13,3 @@ customkeys-nav-stop = توقف
 customkeys-key-clear =
     .aria-label = پاک کردن
     .tooltiptext = پاک کردن
-
-## Shortcut actions
-
-
-## Confirmation dialogs
-
-
-## Sidebar
-

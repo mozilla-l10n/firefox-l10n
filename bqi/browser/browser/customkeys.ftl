@@ -57,9 +57,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = کیلیت نۊ ن فشار بڌین:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

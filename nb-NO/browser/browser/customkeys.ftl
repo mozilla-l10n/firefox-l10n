@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Trykk ny hurtigtast:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

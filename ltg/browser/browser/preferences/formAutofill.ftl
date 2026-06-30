@@ -31,11 +31,6 @@ autofill-address-street = Adrese
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Piļsāta
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -79,6 +74,3 @@ autofill-card-name-on-card = Kartes eipašnīks
 autofill-card-expires-month = Deireiguma beigu mieness
 autofill-card-expires-year = Deireiguma beigu gods
 autofill-card-billing-address = Moksōšonys adrese
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

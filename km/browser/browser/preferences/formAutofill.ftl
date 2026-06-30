@@ -37,11 +37,6 @@ autofill-address-street = អាសយ​ដ្ឋាន​វិថី
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = ទីក្រុង
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -79,6 +74,3 @@ autofill-card-invalid-number = សូមបញ្ចូលលេខកាតត�
 autofill-card-name-on-card-2 =
     .label = ឈ្មោះ​លើ​កាត
 autofill-card-name-on-card = ឈ្មោះ​លើ​កាត
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

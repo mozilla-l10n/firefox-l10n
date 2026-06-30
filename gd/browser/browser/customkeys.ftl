@@ -52,9 +52,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Brùth iuchair ùr:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

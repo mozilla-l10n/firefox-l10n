@@ -52,9 +52,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Սեղմեք նոր ստեղնը՝
-
-## Confirmation dialogs
-
-
-## Sidebar
-

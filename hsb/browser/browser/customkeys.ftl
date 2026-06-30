@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Tłóčće nowu tastu:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

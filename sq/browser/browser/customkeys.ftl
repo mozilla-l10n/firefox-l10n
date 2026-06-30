@@ -52,9 +52,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Shtypni tast të ri:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

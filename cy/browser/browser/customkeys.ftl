@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pwyswch fysell newydd:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

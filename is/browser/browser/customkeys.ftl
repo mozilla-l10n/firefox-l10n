@@ -40,9 +40,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Ýttu á nýjan lykil:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

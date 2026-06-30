@@ -31,6 +31,8 @@
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
 -solo-ai-brand-name = Solo
+-thunderbird-brand-name = Mozilla Thunderbird
+-thunderbird-brand-short-name = Thunderbird
 -yelp-brand-name = Yelp
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
@@ -46,7 +48,3 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
-
--thunderbird-brand-short-name = Thunderbird
-
--thunderbird-brand-name = Mozilla Thunderbird

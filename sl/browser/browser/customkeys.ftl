@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pritisnite novo tipko:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

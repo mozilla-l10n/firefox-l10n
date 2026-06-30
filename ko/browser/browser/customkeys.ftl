@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = 새 키 누르기:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

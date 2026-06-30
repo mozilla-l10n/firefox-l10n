@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Жаңа пернені басыңыз:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

@@ -25,11 +25,6 @@ autofill-address-organization = நிறுவனம்
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = நகரம்
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -38,11 +33,6 @@ autofill-address-city = நகரம்
 
 autofill-address-state = மாநிலம்
 
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
-
 ##
 
 autofill-address-country = நாடு அல்லது பிராந்தியம்
@@ -50,6 +40,3 @@ autofill-country-warning-message = படிவம் தானியங்க�
 autofill-card-billing-address-2 =
     .label = விலைப்பட்டியல் முகவரி
 autofill-card-billing-address = விலைப்பட்டியல் முகவரி
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

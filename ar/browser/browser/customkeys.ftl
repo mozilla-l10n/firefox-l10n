@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = اضغط على مفتاح جديد:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

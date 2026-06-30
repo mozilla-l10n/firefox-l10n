@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Druk op nieuwe toets:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

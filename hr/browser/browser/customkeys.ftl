@@ -53,9 +53,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pritisni novu tipku:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

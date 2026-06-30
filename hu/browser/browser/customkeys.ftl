@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Nyomja meg az új billentyűt:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

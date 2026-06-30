@@ -67,9 +67,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Paina uutta näppäintä:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

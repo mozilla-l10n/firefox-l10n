@@ -52,9 +52,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Smatga la nova tasta:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

@@ -50,9 +50,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Sit ɣef tqeffalt tamaynut:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

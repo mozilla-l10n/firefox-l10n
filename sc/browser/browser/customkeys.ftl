@@ -53,9 +53,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Incarca sa tecla noa:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

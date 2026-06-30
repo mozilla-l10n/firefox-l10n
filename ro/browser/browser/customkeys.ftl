@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Apasă tasta nouă:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

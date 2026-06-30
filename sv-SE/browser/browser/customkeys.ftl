@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Tryck på ny tangent:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

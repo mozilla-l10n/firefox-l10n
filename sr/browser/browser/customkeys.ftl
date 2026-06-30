@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Притисните нови тастер:
-
-## Confirmation dialogs
-
-
-## Sidebar
-

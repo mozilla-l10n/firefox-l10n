@@ -70,9 +70,3 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = 按下新的键：
-
-## Confirmation dialogs
-
-
-## Sidebar
-
