@@ -109,6 +109,8 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } iক্রেডিট কার্ডের তথ্য দেখানোর চেষ্টা করছে। নীচে এই উইন্ডোজ অ্যাকাউন্টে অ্যাক্সেস নিশ্চিত করুন।
        *[other] { -brand-short-name } ক্রেডিট কার্ডের তথ্য দেখানোর চেষ্টা করছে।
     }
+autofill-card-number-2 =
+    .label = কার্ড নম্বর
 autofill-card-number = কার্ড নম্বর
 autofill-card-invalid-number = অনুগ্রহ করে কার্যকর কার্ড নম্বর দিন
 autofill-card-name-on-card-2 =
