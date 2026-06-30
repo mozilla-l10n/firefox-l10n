@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد. دسترسی به این حساب Windows را در زیر تأیید کنید.
        *[other] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد.
     }
+autofill-card-number-2 =
+    .label = شماره کارت
 autofill-card-number = شماره کارت
 autofill-card-invalid-number = لطفا یک شماره کارت اعتباری معتبر وارد کنید
+autofill-card-name-on-card-2 =
+    .label = نام روی کارت
+autofill-card-billing-address-2 =
+    .label = آدرس قبض
 autofill-card-name-on-card = نام روی کارت
 autofill-card-expires-month = ماه انقضا
 autofill-card-expires-year = سال انقضا
