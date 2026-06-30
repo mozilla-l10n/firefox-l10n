@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Wočinjene rajtarki
 sidebar-options-menu-button =
     .title = Meni wočinić
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Wulkosć bóčnicy změnić
 
 ## Labels for sidebar history panel
 

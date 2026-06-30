@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-description-both = Isto delera tu chats e tu memorias de { -smart-window-brand-name }.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =

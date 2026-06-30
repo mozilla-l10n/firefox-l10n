@@ -49,6 +49,10 @@ aiwindow-input-cta-menu-label-search = Z { $searchEngineName } pytać
 aiwindow-input-cta-menu-label-search-with = Pytać z…
 aiwindow-input-cta-search-submenu-header = Pytać
 
+## Smartbar
+
+smartbar-placeholder-hint-3 = Zapodajće webadresu…
+
 ## Mentions
 
 smartbar-mentions-list-no-results-label = Žane wuslědki namakane
@@ -65,6 +69,7 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Witajće k { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Što je wam wažne?
 aiwindow-firstrun-model-fast-label = Spěšny
+aiwindow-firstrun-model-fast-body = Wotmołwja spěšnje
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Model { $model } wot { $ownerName }
@@ -89,10 +94,71 @@ aiwindow-input-model-select-default-badge =
     .title = Wubrany standardny  model
 aiwindow-input-model-select-settings-link = Modelowe nastajenja
 
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Prašeć so
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nowy chat
+    .tooltiptext = Nowy chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Začinić
+    .tooltiptext = Začinić
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = K { -smart-window-brand-name } přeńć
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Chaty
+    .aria-label = Chaty
+    .tooltiptext = Chaty
+smartwindow-footer-history =
+    .label = Historija
+    .aria-label = Historija
+    .tooltiptext = Historija
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chaty
+    .title = Chaty
+firefoxview-chats-header = Chaty
+firefoxview-chat-context-delete = Z chatow zhašeć
+    .accesskey = Z
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Chaty přepytać
+
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-chat-date-today = Dźensa – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Wčera – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chat
+        [two] { $count } chataj
+        [few] { $count } chaty
+       *[other] { $count } chatow
+    }
 
 ## Natural Language Interactions
 
@@ -118,6 +184,8 @@ smartwindow-close-tab-callout-title = Rajtark je začinjeny
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = { -smart-window-brand-name } k wašemu standardej činić?
+smart-window-default-promo-message = { -brand-short-name } so kóždy raz w { -smart-window-brand-name } wočinja.
 smart-window-default-promo-primary-button = Jako standard wužiwać
 smart-window-default-promo-additional-button = Nic nětko
 

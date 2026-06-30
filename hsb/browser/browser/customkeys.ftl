@@ -62,6 +62,11 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Tuta funkcija je eksperimentelna a njedźěła snano kaž wočakowane.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Njepłaćiwy
+customkeys-shortcut-unassigned =
+    .placeholder = Tastowu skrótšenku přidać
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Tastowa skrótšenka za: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Wobdźěłać
     .tooltiptext = Wobdźěłać

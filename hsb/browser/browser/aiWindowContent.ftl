@@ -23,6 +23,7 @@ smartwindow-assistant-error-account-header = Zo byšće { -smart-window-brand-na
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serwerowy zmylk (HTTP { $status }). Spytajće prošu hišće raz.
 smartwindow-retry-btn = Hišće raz spytać
+smartwindow-clear-btn = Nowy chat
 smartwindow-signin-btn = Přizjewić
 
 ## Assistant Message footer
