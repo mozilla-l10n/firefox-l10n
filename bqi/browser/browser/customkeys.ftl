@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = ره نهنگا تخته کیلیت
 customkeys-search = پیتینیڌن:
 customkeys-change = آلشت
@@ -42,5 +45,21 @@ customkeys-nav-select-last-tab = رئڌن و بلگه دیندایی
 customkeys-nav-toggle-mute = بؽ دونگ/وا دونگ کردن آرنگ
 customkeys-edit-find-previous = جوستن پؽشی
 customkeys-tools-screenshot = شؽوات ز بلگه بگیرین
+customkeys-category-navigation-2 =
+    .heading = ناوبری
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ناموعتبر
+customkeys-key-clear =
+    .aria-label = پاک کردن
+    .tooltiptext = پاک کردن
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = کیلیت نۊ ن فشار بڌین:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
