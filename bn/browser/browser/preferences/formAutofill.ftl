@@ -111,6 +111,10 @@ autofill-edit-card-password-prompt =
     }
 autofill-card-number = কার্ড নম্বর
 autofill-card-invalid-number = অনুগ্রহ করে কার্যকর কার্ড নম্বর দিন
+autofill-card-name-on-card-2 =
+    .label = কার্ডের উপর নাম
+autofill-card-billing-address-2 =
+    .label = বিল পাঠানোর ঠিকানা
 autofill-card-name-on-card = কার্ডের উপর নাম
 autofill-card-expires-month = মেয়াদোত্তীর্ণের মাস
 autofill-card-expires-year = মেয়াদোত্তীর্ণের বছর
