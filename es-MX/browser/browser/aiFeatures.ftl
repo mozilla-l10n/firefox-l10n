@@ -23,3 +23,29 @@ ai-window-default-section =
 ai-window-is-default-window =
     .label = Utilizar { -smart-window-brand-name(form: "lower-plural") } por defecto
     .description = Abrir una { -smart-window-brand-name } al iniciar o reiniciar { -brand-short-name }, o al abrir vínculos desde otras aplicaciones.
+ai-window-open-sidebar =
+    .label = Abrir asistente automáticamente
+    .description = Mostrar la barra lateral del asistente en cada pestaña nueva. Puedes cerrar la barra cuando quieras.
+smart-window-model-section =
+    .label = Modelo para el asistente
+    .description = Escoge un modelo según los aspectos que son importantes para ti.
+smart-window-model-learn-link = Aprender sobre modelos
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast =
+    .label = Rápido: obtén respuestas rápidamente
+    .description = Modelo { $model } de { $ownerName }
+smart-window-model-flexible =
+    .label = Flexible: ideal para la un uso general
+    .description = Modelo { $model } de { $ownerName }
+smart-window-model-personal =
+    .label = Personalizado: respuestas adaptadas a necesidades específicas
+    .description = Modelo { $model } de { $ownerName }
+smart-window-model-custom =
+    .label = Individual: usa tu propio LLM
+smart-window-model-custom-name =
+    .label = Nombre del modelo
+    .placeholder = Por ejemplo: glm4
