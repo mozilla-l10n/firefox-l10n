@@ -125,12 +125,12 @@ aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = Utilisez votre propre LLM
 aiwindow-input-model-select-default-badge =
     .label = Par défaut
-    .title = Le modèle par défaut sélectionné
+    .title = Le modèle sélectionné par défaut
 aiwindow-input-model-select-settings-link = Paramètres du modèle
 
 ## Firstrun memories onboarding
 
-aiwindow-firstrun-memories-title = Plus de réponses utiles, selon vos conditions
+aiwindow-firstrun-memories-title = Des réponses plus pertinentes, selon vos conditions
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } peut apprendre de vos discussions, de votre navigation, ou des deux, pour créer des moments inoubliables. Elles rendent les réponses de plus en plus utiles au fil du temps.
 aiwindow-firstrun-memories-conversation-title = Poursuivez la conversation
 aiwindow-firstrun-memories-conversation-body = Apprendre des discussions signifie que vous devrez moins vous répéter.
@@ -224,7 +224,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Revenir à vos discussions
-firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez { -smart-window-brand-name }, vos discussions seront enregistrées ici.
+firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez les { -smart-window-brand-name(from: "lower-plural") }, vos discussions seront enregistrées ici.
 
 ## Count displayed in fxview chat search results
 
@@ -274,8 +274,8 @@ smartwindow-close-tab-callout-subtitle = Rouvrez des onglets depuis l’historiq
 
 ## Smart Window new tab promo
 
-smart-window-default-promo-heading = Définir { -smart-window-brand-name } comme serveur par défaut ?
-smart-window-default-promo-message = { -brand-short-name } ouvrira dans { -smart-window-brand-name } à chaque fois.
+smart-window-default-promo-heading = Utiliser une { -smart-window-brand-name(from: "lower-singular") } par défaut ?
+smart-window-default-promo-message = { -brand-short-name } s’ouvrira automatiquement dans une { -smart-window-brand-name(from: "lower-singular") }.
 smart-window-default-promo-primary-button = Définir par défaut
 smart-window-default-promo-additional-button = Plus tard
 
