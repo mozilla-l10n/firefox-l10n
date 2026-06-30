@@ -23,14 +23,25 @@ ai-window-open-sidebar =
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Schnell: Schnelle Antworten
+    .description = Modell { $model } von { $ownerName }
+smart-window-model-flexible =
+    .label = Flexibel: Beste Anpassung für die meisten Bedürfnisse
+    .description = Modell { $model } von { $ownerName }
+smart-window-model-personal =
+    .label = Persönlich: Am besten zugeschnittene Antworten
+    .description = Modell { $model } von { $ownerName }
 smart-window-model-custom-name =
     .label = Modellname
     .placeholder = Beispiel: glm4
 smart-window-model-custom-url =
     .label = Modell-Endpunkt
     .placeholder = Beispiel: http://localhost:11434/v1
+smart-window-model-custom-more-link = Mehr über benutzerdefinierte Modelle
 smart-window-model-custom-save =
     .label = Speichern
+smart-window-model-custom-save-confirmation = Modelldetails gespeichert. Starten Sie einen neuen Chat zum Testen.
 ai-window-delete-all-memories-button =
     .label = Alle löschen
 ai-window-delete-all-memories-confirm = Löschen
