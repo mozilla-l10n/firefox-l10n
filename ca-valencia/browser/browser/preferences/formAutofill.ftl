@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit. Confirmeu l'accés a este compte del Windows a continuació.
        *[other] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit.
     }
+autofill-card-number-2 =
+    .label = Número de targeta
 autofill-card-number = Número de targeta
 autofill-card-invalid-number = Introduïu un número de targeta vàlid
+autofill-card-name-on-card-2 =
+    .label = Nom del titular
+autofill-card-billing-address-2 =
+    .label = Adreça de facturació
 autofill-card-name-on-card = Nom del titular
 autofill-card-expires-month = Mes de caducitat
 autofill-card-expires-year = Any de caducitat
