@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Slå på sikkerhetskopiering
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Det oppstod et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
+turn-on-scheduled-backups-error-default-dir-denied = Vi fikk ikke tilgang til sikkerhetskopimappen. Prøv å velge en ny plassering.
 backup-error-file-system = Det oppstod et problem med den valgte sikkerhetskopieringsmappen under sikkerhetskopiering av { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

@@ -63,7 +63,7 @@ customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere a
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
 customkeys-shortcut-unassigned =
-    .placeholder = Legg til snarvei
+    .placeholder = Legg til hurtigtast
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Hurtigtast for: { $keyLabel }
@@ -105,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Søk hurtigtaster
     .placeholder = Søk hurtigtaster
+customkeys-description = Styr hvordan du beveger deg rundt og samhandler med { -brand-short-name }.
 customkeys-support-link-text = Les mer
 customkeys-reset-all-button = Gjenopprett standardverdier

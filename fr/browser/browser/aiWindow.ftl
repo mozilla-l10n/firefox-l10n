@@ -234,8 +234,8 @@ firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez { -s
 
 firefoxview-search-chat-results-count =
     { $count ->
-        [one] Discussion avec { $count }
-       *[other] { $count } discussions
+        [one] { $count } discussion
+       *[other] { $count } discussions
     }
 
 ## Clear browsing data dialog

@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Endre størrelsen på delt visning-faner
+tab-devtools-splitter =
+    .aria-label = Endre størrelse på utviklerverktøypanelet
 
 ## Tooltips for tab audio control
 ## Variables:

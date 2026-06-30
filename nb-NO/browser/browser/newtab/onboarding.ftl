@@ -450,6 +450,8 @@ onboarding-checklist-extension = Legg til en utvidelse
 onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 onboarding-checklist-minimize =
     .label = Minimer
+onboarding-checklist-remove =
+    .label = Fjern sjekkliste
 
 ## Tab Groups feature onboarding strings
 
