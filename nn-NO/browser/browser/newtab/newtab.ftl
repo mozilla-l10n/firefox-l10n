@@ -160,6 +160,11 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut korleis
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les meir
 
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Les meir
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +200,7 @@ newtab-topsites-add-shortcut-label = Legg til snarveg
 newtab-topsites-add-shortcut-title =
     .title = Legg til snarveg
     .aria-label = Legg til snarveg
+newtab-shortcuts-pinned-area = Festa områda
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Skriv inn ein tittel

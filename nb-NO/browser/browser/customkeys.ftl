@@ -90,3 +90,20 @@ customkeys-conflict-confirm-title = Fjerne en annen hurtigtast?
 customkeys-conflict-confirm-body = Denne hurtigtasten er allerede i bruk av «{ $conflict }».
 customkeys-conflict-confirm-button-confirm = Bruk likevel
 customkeys-conflict-confirm-button-cancel = Avbryt
+customkeys-reset-all-confirm-title = Gjenopprette standardverdier?
+customkeys-reset-all-confirm-body = Eventuelle tilpassede hurtigtaster du har opprettet, vil bli fjernet.
+customkeys-reset-all-confirm-button-confirm = Gjenopprett standardverdier
+customkeys-reset-all-confirm-button-cancel = Avbryt
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidestolpe
+customkeys-title-heading =
+    .heading = Hurtigtaster
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Søk hurtigtaster
+    .placeholder = Søk hurtigtaster
+customkeys-support-link-text = Les mer
+customkeys-reset-all-button = Gjenopprett standardverdier

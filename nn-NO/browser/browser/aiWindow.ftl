@@ -137,3 +137,54 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Gå tilbake til chattane dine
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chatt
+       *[other] { $count } chattar
+    }
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Merk alle
+    .aria-label = Merk alle
+smart-window-confirm-deselect-all =
+    .label = Avmerk alle
+    .aria-label = Avmerk alle
+smart-window-close-confirm =
+    .aria-label = Avbryt førespurnad og lat att
+    .tooltiptext = Avbryt førespurnad og lat att
+smart-window-confirm-close-tab = Lat att
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Lat att { $count } fane
+       *[other] Lat att { $count } faner
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Fane attlaten
+
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Bruk som standard
+smart-window-default-promo-additional-button = Ikkje no
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Del tilbakemelding
+aiwindow-feedback-submit = Send inn
+aiwindow-feedback-cancel = Avbryt
+aiwindow-feedback-reason-other = Anna
+aiwindow-feedback-preview-report = Vis chattedetaljar

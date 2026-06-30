@@ -62,11 +62,43 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere annleis enn forventa.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
+customkeys-shortcut-unassigned =
+    .placeholder = Legg til snarveg
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Snarveg for: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Rediger
+    .tooltiptext = Rediger
 customkeys-key-clear =
     .aria-label = Tøm
     .tooltiptext = Tøm
+customkeys-key-reset =
+    .aria-label = Gjenopprett
+    .tooltiptext = Gjenopprett
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Trykk på ein ny tast:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Fjerne ein annan hurtigtast?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Denne hurtigtasten er allereie i bruk av «{ $conflict }».
+customkeys-conflict-confirm-button-confirm = Bruk likevel
+customkeys-conflict-confirm-button-cancel = Avbryt
+customkeys-reset-all-confirm-title = Gjenopprette standardverdiar?
+customkeys-reset-all-confirm-button-confirm = Gjenopprett standardverdiar
+customkeys-reset-all-confirm-button-cancel = Avbryt
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidestolpe
+customkeys-title-heading =
+    .heading = Tastatursnarvegar
+customkeys-support-link-text = Les meir
+customkeys-reset-all-button = Gjenopprett standardverdiar

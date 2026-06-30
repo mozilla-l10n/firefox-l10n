@@ -448,6 +448,8 @@ onboarding-checklist-pin = Fest { -brand-short-name } til oppgavelinjen
 onboarding-checklist-import = Importer fra tidligere nettleser
 onboarding-checklist-extension = Legg til en utvidelse
 onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
+onboarding-checklist-minimize =
+    .label = Minimer
 
 ## Tab Groups feature onboarding strings
 

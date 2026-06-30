@@ -32,6 +32,9 @@ toolbar-button-ai-window-toggle =
 ai-window-toggleview-switch-classic =
     .label = Fenêtre classique
     .value = Fenêtre classique
+ai-window-toggleview-switch-classic-description =
+    .label = Navigation standard
+    .value = Navigation standard
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
@@ -41,19 +44,19 @@ ai-window-toggleview-switch-ai-description =
 ai-window-toggleview-switch-private =
     .label = Fenêtre de navigation privée
 ai-window-toggleview-open-private =
-    .label = Ouvrir une fenêtre de navigation privée
+    .label = Ouvrir une nouvelle fenêtre de navigation privée
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Fenêtre classique
 
 ## Input CTA
 
-aiwindow-input-cta-submit-label-chat = Je m’interroge
+aiwindow-input-cta-submit-label-chat = Demander
 aiwindow-input-cta-submit-label-navigate = Aller à
 aiwindow-input-cta-submit-label-search = Rechercher
 aiwindow-input-cta-submit-label-stop = Arrêter
 # Text announced to screen readers when response generation starts.
-aiwindow-generation-started-announcement = Génération de la réponse démarrée
-aiwindow-input-cta-menu-label-chat = Je m’interroge
+aiwindow-generation-started-announcement = La génération de la réponse a commencé
+aiwindow-input-cta-menu-label-chat = Demander
 aiwindow-input-cta-menu-label-navigate = Aller au site
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Rechercher avec { $searchEngineName }
@@ -75,7 +78,7 @@ smartbar-placeholder-hint-4 = Rechercher sur le Web…
 ## Mentions
 
 smartbar-mention-typing-placeholder = Marquer un onglet ou un site
-smartbar-mentions-list-no-results-label = Aucun résultat trouvé
+smartbar-mentions-list-no-results-label = Aucun résultat
 smartbar-mentions-list-recent-tabs-label = Onglets récents
 
 ## Context mentions menu toggle button
@@ -93,14 +96,14 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Bienvenue sur { -smart-window-brand-name }
+aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Qu’est-ce qui est important pour vous ?
 aiwindow-firstrun-model-subtitle = Choisissez un modèle pour alimenter { -smart-window-brand-name }. Changez de mode à tout moment.
 aiwindow-firstrun-model-fast-label = Rapide
 aiwindow-firstrun-model-fast-body = Réponses rapides
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
-aiwindow-firstrun-model-chip-subtitle = Modéliser { $model } par { $ownerName }
+aiwindow-firstrun-model-chip-subtitle = Modèle { $model } par { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-allpurpose-body = Répond à la plupart des besoins
 aiwindow-firstrun-model-personal-label = Personnel
@@ -151,7 +154,7 @@ aiwindow-firstrun-default-checkbox-description = Activez les paramètres à tout
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
-    .label = Je m’interroge
+    .label = Demander
 
 ## Memories toggle button
 

@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Personvern
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Aksjer
 home-prefs-mission-message2 =
     .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link2 =
@@ -160,6 +163,11 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les mer
 
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Les mer
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +203,7 @@ newtab-topsites-add-shortcut-label = Legg til snarvei
 newtab-topsites-add-shortcut-title =
     .title = Legg til snarvei
     .aria-label = Legg til snarvei
+newtab-shortcuts-pinned-area = Festet område
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Oppgi en tittel
@@ -505,6 +514,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Personvern
+newtab-custom-widget-stocks-toggle =
+    .label = Aksjer
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
