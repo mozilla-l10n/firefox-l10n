@@ -4,6 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Focail Fhaire
+about-logins-login-filter =
+    .placeholder = Cuardaigh Logálacha Isteach
+    .key = F
+create-new-login-button =
+    .title = Cruthaigh logáil isteach nua
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
 fxaccounts-avatar-button =
     .title = Bainistigh an cuntas
