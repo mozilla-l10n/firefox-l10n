@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name(form: "uppercase-singular") }
-smart-window-block-title = Bloccare { -smart-window-brand-name(form: "uppercase-singular") }?
+smart-window-block-title = Bloccare la funzionalità { -smart-window-brand-name(form: "uppercase-singular") }?
 smart-window-block-description-both = Le chat e le memorie delle { -smart-window-brand-name } verranno eliminate.
 smart-window-block-description-chats = Le chat delle { -smart-window-brand-name } verranno eliminate.
 smart-window-block-description-memories = Le memorie delle { -smart-window-brand-name } verranno eliminate.
@@ -74,7 +74,7 @@ ai-window-manage-memories-header =
     .description = Le memorie sono salvate localmente su questo dispositivo per proteggere la tua privacy. Si aggiornano alcune volte al giorno mentre usi le { -smart-window-brand-name }, quindi le attività più recenti potrebbero non essere immediatamente disponibili.
 ai-window-no-memories =
     .label = Ancora nessuna memoria
-    .description = Man mano che { -smart-window-brand-name(form: "uppercase-singular") } impara dalle tue attività, potrai vedere qui le tue memorie.
+    .description = Le memorie compariranno qui man mano che { -smart-window-brand-name(form: "uppercase-singular") } impara dalle tue attività.
 ai-window-no-memories-learning-off =
     .label = Nessuna memoria disponibile
     .description = Poiché l’apprendimento dalle attività è disattivato, { -smart-window-brand-name(form: "uppercase-singular") } non crea memorie.

@@ -362,4 +362,3 @@ menu-help-not-deceptive =
     .accesskey = e
 menu-report-broken-site =
     .label = Segnala problemi con il sito
-

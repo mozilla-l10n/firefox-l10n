@@ -96,7 +96,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Benvenuto in { -smart-window-brand-name(form: "uppercase-singular") }
+aiwindow-firstrun-title = Ti diamo il benvenuto in { -smart-window-brand-name(form: "uppercase-singular") }
 aiwindow-firstrun-model-title = Che cosa è importante per te?
 aiwindow-firstrun-model-subtitle = Scegli il modello da utilizzare nelle { -smart-window-brand-name }. Puoi cambiarlo in qualsiasi momento.
 aiwindow-firstrun-model-fast-label = Veloce
@@ -146,9 +146,9 @@ aiwindow-firstrun-memories-no-create = OK. Non verranno create memorie per le { 
 
 ## Firstrun set as default onboarding
 
-aiwindow-firstrun-default-title = Rendi { -smart-window-brand-name(form: "uppercase-singular") } il tuo punto di partenza
+aiwindow-firstrun-default-title = Inizia sempre con { -smart-window-brand-name }
 aiwindow-firstrun-default-subtitle = Naviga, cerca e chiedi in un unico posto. Puoi comunque aprire finestre anonime e classiche in qualsiasi momento.
-aiwindow-firstrun-default-checkbox-label = Apri sempre { -brand-product-name } in { -smart-window-brand-name(form: "uppercase-singular") }
+aiwindow-firstrun-default-checkbox-label = Apri sempre { -brand-product-name } in modalità { -smart-window-brand-name(form: "uppercase-singular") }
 aiwindow-firstrun-default-checkbox-description = Cambia nelle impostazioni in qualsiasi momento.
 
 ## Ask Toolbar Button
@@ -183,7 +183,7 @@ fxa-signout-dialog-body-aiwindow = I dati sincronizzati rimarranno nel tuo accou
 
 ## Smart Window Toggle Button (in-page)
 
-smartwindow-switch-to-smart-window = Passa a { -smart-window-brand-name(form: "uppercase-singular") }
+smartwindow-switch-to-smart-window = Passa alla modalità { -smart-window-brand-name(form: "uppercase-singular") }
 
 ## Fullpage Footer Actions
 
@@ -270,7 +270,7 @@ smartwindow-close-tab-callout-subtitle = Riapri le schede dalla cronologia in qu
 
 ## Smart Window new tab promo
 
-smart-window-default-promo-heading = Impostare { -smart-window-brand-name(form: "uppercase-singular") } come predefinito?
+smart-window-default-promo-heading = Impostare la modalità { -smart-window-brand-name(form: "uppercase-singular") } come predefinita?
 smart-window-default-promo-message = { -brand-short-name } aprirà automaticamente { -smart-window-brand-name }.
 smart-window-default-promo-primary-button = Imposta come predefinito
 smart-window-default-promo-additional-button = Non adesso
@@ -281,7 +281,7 @@ aiwindow-feedback-modal-title = Condividi feedback
 aiwindow-feedback-what-worked-well = Cosa ha funzionato bene? Non inserire informazioni personali.
 aiwindow-feedback-choose-any = Scegli tra quelli pertinenti
 aiwindow-feedback-add-details = Aggiungi dettagli se vuoi. Non inserire informazioni personali.
-aiwindow-feedback-disclaimer = Inviando, condividi il tuo feedback e questa chat per aiutare { -brand-shorter-name } a migliorare { -smart-window-brand-name(form: "uppercase-singular") }. Le altre tue chat restano private. <a data-l10n-name="learn-more">Scopri di più</a>
+aiwindow-feedback-disclaimer = Inviando, condividi il tuo feedback e questa chat per aiutare { -brand-shorter-name } a migliorare la funzionalità { -smart-window-brand-name(form: "uppercase-singular") }. Le altre tue chat restano private. <a data-l10n-name="learn-more">Scopri di più</a>
 aiwindow-feedback-submit = Invia
 aiwindow-feedback-cancel = Annulla
 aiwindow-feedback-reason-incorrect-or-misleading = Errato o fuorviante

@@ -7,4 +7,3 @@ back-nav-button-title =
 back-nav-button-title2 =
     .title = Torna indietro
     .aria-label = Torna indietro
-
