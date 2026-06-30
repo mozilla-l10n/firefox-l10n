@@ -76,8 +76,8 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Réessayer
 smartwindow-nl-retry-message = Si vous souhaitez toujours fermer des onglets, choisissez <strong>Réessayer</strong> et effectuez votre choix dans la carte qui s’ouvre.
-smartwindow-nl-retry-group-tabs-message = Si vous souhaitez tout de même grouper vos onglets, choisissez <strong>Réessayer</strong> et choisissez lesquels dans la carte qui s’ouvre.
-smartwindow-nl-thinking = Recherche des onglets correspondants…
+smartwindow-nl-retry-group-tabs-message = Si vous souhaitez toujours créer un groupe d’onglets, sélectionnez <strong>Réessayer</strong> puis choisissez les onglets dans la carte qui s’ouvre.
+smartwindow-nl-thinking = Recherche d’onglets correspondants…
 smartwindow-loading-assistant-response =
     .aria-label = Chargement de la réponse de l’assistant
 smartwindow-nl-undo-button =
@@ -88,19 +88,19 @@ smartwindow-nl-undo-button =
 
 smart-window-closed-tabs-label =
     { $count ->
-        [one] Onglet { $count } fermé
-       *[other] { $count } onglets fermés
+        [one] { $count } onglet fermé
+       *[other] { $count } onglets fermés
     }
 smart-window-closed-tabs-summary =
     { $count ->
-        [one] Terminé ! Onglet fermé.
-       *[other] Terminé ! Onglets fermés.
+        [one] C’est fait ! L’onglet a été fermé.
+       *[other] C’est fait ! Les onglets ont été fermés.
     }
 smart-window-closed-tabs-row-label = Onglets fermés
 smart-window-closed-and-restored-label = Onglets fermés et restaurés
 smart-window-restored-row-label =
     { $count ->
-        [one] Onglet { $count } restauré
+        [one] { $count } onglet restauré
        *[other] { $count } onglets restaurés
     }
 smart-window-restore-success-summary =
@@ -110,12 +110,12 @@ smart-window-restore-success-summary =
     }
 smart-window-cancelled-label = Requête annulée.
 # Button label - "Group" is a verb (action to group tabs)
-smart-window-confirm-group-tab = Groupe
+smart-window-confirm-group-tab = Regrouper
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs =
     { $count ->
-        [one] Grouper l’onglet { $count }
-       *[other] Grouper { $count } onglets
+        [one] Regrouper { $count } onglet
+       *[other] Regrouper { $count } onglets
     }
 # Action result labels for grouped tabs
 # Variables
