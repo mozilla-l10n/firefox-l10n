@@ -147,8 +147,12 @@ autofill-message-tooltip = 查看关于自动填写的信息
 autofill-add-card-title = 添加卡片
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = 编辑卡片
+autofill-card-number-2 =
+    .label = 卡号
 autofill-card-number = 卡号
 autofill-card-invalid-number = 请输入有效的卡号
+autofill-card-name-on-card-2 =
+    .label = 卡面姓名
 autofill-card-name-on-card = 卡面姓名
 autofill-card-expires-month = 到期月
 autofill-card-expires-year = 到期年
