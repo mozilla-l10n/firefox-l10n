@@ -147,8 +147,14 @@ autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
 autofill-add-card-title = Embojuaju kuatia’atã
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Embosako’i kuatia’atã
+autofill-card-number-2 =
+    .label = Kuatia’atã papapy
 autofill-card-number = Kuatia’atã papapy
 autofill-card-invalid-number = Ikatúpa emoinge kuatia’atã papapy oikóva
+autofill-card-name-on-card-2 =
+    .label = Kuatia’atã réra
+autofill-card-billing-address-2 =
+    .label = Kundaharape ñemondo hag̃ua
 autofill-card-name-on-card = Kuatia’atã réra
 autofill-card-expires-month = Exp. Jasy
 autofill-card-expires-year = Exp. Ary
