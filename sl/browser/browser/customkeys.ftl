@@ -62,11 +62,37 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Ta možnost je poskusna in morda ne bo delovala, kot bi morala.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Neveljavno
+customkeys-shortcut-unassigned =
+    .placeholder = Dodaj bližnjico
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Bližnjica za: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Uredi
+    .tooltiptext = Uredi
 customkeys-key-clear =
     .aria-label = Počisti
     .tooltiptext = Počisti
+customkeys-key-reset =
+    .aria-label = Obnovi
+    .tooltiptext = Obnovi
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Pritisnite novo tipko:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Prekliči
+customkeys-reset-all-confirm-button-confirm = Obnovi privzeto
+customkeys-reset-all-confirm-button-cancel = Prekliči
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Stranska vrstica
+customkeys-title-heading =
+    .heading = Bližnjice na tipkovnici
+customkeys-support-link-text = Več o tem
+customkeys-reset-all-button = Obnovi privzeto
