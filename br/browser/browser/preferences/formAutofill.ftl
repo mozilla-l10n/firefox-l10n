@@ -145,8 +145,14 @@ autofill-edit-card-password-prompt =
 autofill-add-card-title = Ouzhpennañ ur gartenn
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kemmañ ar gartenn
+autofill-card-number-2 =
+    .label = Niverenn ar gartenn
 autofill-card-number = Niverenn ar gartenn
 autofill-card-invalid-number = Roit un niver kartenn dalvoudek mar plij
+autofill-card-name-on-card-2 =
+    .label = Anv war ar gartenn
+autofill-card-billing-address-2 =
+    .label = Chomlec'h fakturenniñ
 autofill-card-name-on-card = Anv war ar gartenn
 autofill-card-expires-month = Miz diamzeriñ
 autofill-card-expires-year = Bloaz diamzeriñ
