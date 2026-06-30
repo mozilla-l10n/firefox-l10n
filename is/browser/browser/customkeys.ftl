@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Flýtilyklar
 customkeys-search = Leita:
 customkeys-change = Breyta
@@ -24,6 +27,22 @@ customkeys-nav-home = Heim
 customkeys-nav-reload = Endurhlaða
 customkeys-nav-reload-skip-cache = Endurhlaða (Hnekkja skyndiminni)
 customkeys-nav-stop = Stöðva
+customkeys-category-navigation-2 =
+    .heading = Rötun
 customkeys-caution-message = Þessi eiginleiki er á tilraunastigi og gæti virkað ekki eins og búast má við.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ógildur
+customkeys-key-clear =
+    .aria-label = Hreinsa
+    .tooltiptext = Hreinsa
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Ýttu á nýjan lykil:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
