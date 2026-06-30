@@ -145,8 +145,14 @@ autofill-message-tooltip = Shihni mesazh rreth vetëplotësimit
 autofill-add-card-title = Shtoni kartë
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Përpunoni kartën
+autofill-card-number-2 =
+    .label = Numër Karte
 autofill-card-number = Numër Karte
 autofill-card-invalid-number = Ju lutemi, jepni një numër të vlefshëm karte
+autofill-card-name-on-card-2 =
+    .label = Emër në Kartë
+autofill-card-billing-address-2 =
+    .label = Adresë Faturimi
 autofill-card-name-on-card = Emër në Kartë
 autofill-card-expires-month = Muaj Skadimi
 autofill-card-expires-year = Vit Skadimi
