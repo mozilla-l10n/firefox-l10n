@@ -62,16 +62,47 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Αυτή η λειτουργία είναι πειραματική και ενδέχεται να μην λειτουργεί με τον αναμενόμενο τρόπο.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Μη έγκυρο
+customkeys-shortcut-unassigned =
+    .placeholder = Προσθήκη συντόμευσης
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Συντόμευση για: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Επεξεργασία
+    .tooltiptext = Επεξεργασία
 customkeys-key-clear =
     .aria-label = Απαλοιφή
     .tooltiptext = Απαλοιφή
+customkeys-key-reset =
+    .aria-label = Επαναφορά
+    .tooltiptext = Επαναφορά
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Πατήστε νέο πλήκτρο:
 
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Αφαίρεση άλλης συντόμευσης;
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Αυτό το πλήκτρο χρησιμοποιείται ήδη για τη συντόμευση «{ $conflict }».
+customkeys-conflict-confirm-button-confirm = Χρήση ούτως ή άλλως
+customkeys-conflict-confirm-button-cancel = Ακύρωση
+customkeys-reset-all-confirm-title = Επαναφορά προεπιλογών;
+customkeys-reset-all-confirm-button-confirm = Επαναφορά προεπιλογών
+customkeys-reset-all-confirm-button-cancel = Ακύρωση
+
 ## Sidebar
 
+customkeys-sidebar =
+    .aria-label = Πλαϊνή γραμμή
+customkeys-title-heading =
+    .heading = Συντομεύσεις πληκτρολογίου
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Αναζήτηση συντομεύσεων
+    .placeholder = Αναζήτηση συντομεύσεων
 customkeys-support-link-text = Μάθετε περισσότερα
 customkeys-reset-all-button = Επαναφορά προεπιλογών

@@ -165,6 +165,8 @@ newtab-privacy-menu-learn-more = Μάθετε περισσότερα
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Αναζήτηση συμβόλων μετοχών
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Απόκρυψη μετοχών
 # Context menu item linking to more information about the Stocks widget.

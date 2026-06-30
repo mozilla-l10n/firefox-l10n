@@ -450,6 +450,8 @@ onboarding-checklist-extension = Προσθήκη επέκτασης
 onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαριασμό
 onboarding-checklist-minimize =
     .label = Ελαχιστοποίηση
+onboarding-checklist-remove =
+    .label = Αφαίρεση λίστας ελέγχου
 
 ## Tab Groups feature onboarding strings
 

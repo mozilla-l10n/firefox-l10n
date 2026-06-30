@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Τοποθεσία
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (προτείνεται)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Επιλογή τοποθεσίας
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Επιλογή…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Ενεργοποίηση αντιγρ
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Προέκυψε πρόβλημα με τον επιλεγμένο φάκελο αντιγράφου ασφαλείας. Επιλέξτε έναν άλλο φάκελο και δοκιμάστε ξανά.
+turn-on-scheduled-backups-error-default-dir-denied = Δεν ήταν δυνατή η πρόσβαση στον φάκελο αντιγράφων ασφαλείας σας. Δοκιμάστε να επιλέξετε μια νέα τοποθεσία.
 backup-error-file-system = Προέκυψε πρόβλημα με τον επιλεγμένο φάκελο αντιγράφου ασφαλείας κατά τη δημιουργία αντιγράφου ασφαλείας του { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

@@ -22,24 +22,24 @@ smartwindow-assistant-error-account-header = Pour utiliser la { -smart-window-br
 smartwindow-assistant-error-capacity-header = La { -smart-window-brand-name } est actuellement saturée. Veuillez réessayer plus tard.
 smartwindow-assistant-error-budget-body = Vous pouvez toujours naviguer dans cette fenêtre. La discussion sera à nouveau disponible une fois votre limite quotidienne réinitialisée.
 smartwindow-assistant-error-many-requests-header = Veuillez patienter puis réessayer. Trop de messages ont été envoyés en peu de temps.
-smartwindow-assistant-error-max-length-header = Il est temps de démarrer une nouvelle discussion. Celui-ci a atteint sa limite de longueur.
-smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } n’a pas pu joindre le serveur. Essayez un autre réseau ou désactivez votre VPN.
+smartwindow-assistant-error-max-length-header = Il est temps de lancer une nouvelle discussion. Celle-ci a atteint sa limite de longueur.
+smartwindow-assistant-error-request-blocked-header = La { -smart-window-brand-name } n’a pas réussi à se connecter au serveur. Essayez avec un autre réseau ou désactivez votre VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
-smartwindow-assistant-error-http-header = Erreur du serveur (HTTP { $status }). Veuillez réessayer.
+smartwindow-assistant-error-http-header = Erreur serveur (HTTP { $status }). Veuillez réessayer.
 smartwindow-retry-btn = Réessayer
 smartwindow-clear-btn = Nouvelle discussion
 smartwindow-signin-btn = Connexion
 
 ## Assistant Message footer
 
-aiwindow-memories-used = Mémoires utilisées
-aiwindow-memories-callout-description = Memories a aidé à personnaliser cette réponse.
+aiwindow-memories-used = Souvenirs utilisés
+aiwindow-memories-callout-description = Des souvenirs ont permis de personnaliser cette réponse.
 aiwindow-memories-learn-more = En savoir plus
 aiwindow-manage-memories =
-    .label = Paramètres de mémoire
+    .label = Paramètres des souvenirs
 aiwindow-retry-without-memories =
-    .label = Réessayer sans mémoire
+    .label = Réessayer sans souvenir
 aiwindow-retry =
     .tooltiptext = Réessayer
     .aria-label = Réessayer
@@ -49,7 +49,7 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .tooltiptext = Copier le tableau
     .aria-label = Copier le tableau
-aiwindow-table-scroll-indicator = Faites défiler pour en voir plus
+aiwindow-table-scroll-indicator = Faites défiler pour en voir davantage
 aiwindow-thumbs-up =
     .tooltiptext = Partager des commentaires positifs
     .aria-label = Partager des commentaires positifs
@@ -57,9 +57,9 @@ aiwindow-thumbs-down =
     .tooltiptext = Partager des commentaires négatifs
     .aria-label = Partager des commentaires négatifs
 aiwindow-applied-memories-popover =
-    .aria-label = Panneau mémoires
+    .aria-label = Panneau des souvenirs
 aiwindow-applied-memories-list =
-    .aria-label = Mémoires
+    .aria-label = Souvenirs
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -75,7 +75,7 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Réessayer
-smartwindow-nl-retry-message = Si vous souhaitez toujours fermer les onglets, choisissez <strong>Réessayer</strong> et effectuez votre choix dans la carte qui s’ouvre.
+smartwindow-nl-retry-message = Si vous souhaitez toujours fermer des onglets, choisissez <strong>Réessayer</strong> et effectuez votre choix dans la carte qui s’ouvre.
 smartwindow-nl-retry-group-tabs-message = Si vous souhaitez tout de même grouper vos onglets, choisissez <strong>Réessayer</strong> et choisissez lesquels dans la carte qui s’ouvre.
 smartwindow-nl-thinking = Recherche des onglets correspondants…
 smartwindow-loading-assistant-response =

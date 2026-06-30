@@ -68,3 +68,62 @@ aiwindow-input-cta-stop-button =
 smartbar-placeholder =
     .placeholder = כאן אפשר לשאול, לחפש או להקליד כתובת
 smartbar-placeholder-hint-1 = אפשר להשתמש ב־@ כדי להזכיר את הלשוניות האחרונות…
+smartbar-placeholder-hint-2 = לשאול כל דבר…
+smartbar-placeholder-hint-3 = להכניס כתובת אתר…
+smartbar-placeholder-hint-4 = לחפש ברשת…
+
+## Mentions
+
+smartbar-mentions-list-no-results-label = לא נמצאו תוצאות
+smartbar-mentions-list-recent-tabs-label = לשוניות אחרונות
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = הוספת לשונית או אתר
+    .tooltiptext = הוספת לשונית או אתר
+
+## Website Chip
+
+aiwindow-website-chip-history-deleted = ההיסטוריה נמחקה
+aiwindow-website-chip-remove-button =
+    .aria-label = הסרה
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = ברוכים הבאים ל־{ -smart-window-brand-name }
+aiwindow-firstrun-model-title = מה חשוב לך?
+aiwindow-firstrun-model-subtitle = יש לבחור במודל שיפעיל את { -smart-window-brand-name }. ניתן להחליף בינהם בכל עת.
+aiwindow-firstrun-model-fast-label = מהיר
+aiwindow-firstrun-model-fast-body = קבלת תשובות בזריזות
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = מודל { $model } מאת { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = גמיש
+aiwindow-firstrun-model-allpurpose-body = בחירה טובה לרוב הצרכים
+aiwindow-firstrun-model-personal-label = אישי
+aiwindow-firstrun-model-personal-body = התשובות המותאמות ביותר
+aiwindow-firstrun-button = קדימה לדרך
+aiwindow-firstrun-back-button = חזרה
+aiwindow-firstrun-next-button = הבא
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = מהיר
+aiwindow-input-model-select-button-label-allpurpose = גמיש
+aiwindow-input-model-select-button-label-personal = אישי
+aiwindow-input-model-select-button-label-custom = מותאם אישית
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = שימוש ב־LLM משלך
+aiwindow-input-model-select-default-badge =
+    .label = ברירת מחדל
+    .title = המודל ברירת המחדל שנבחר
+aiwindow-input-model-select-settings-link = הגדרות המודל
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = תשובות מועילות יותר, בתנאים שלך
+aiwindow-firstrun-memories-subtitle = ‏{ -smart-window-brand-name } יכול ללמוד מהצ’אטים שלך, מהגלישה או משניהם כדי ליצור זכרונות. הם הופכים את התשובות למועילות יותר לאורך זמן.

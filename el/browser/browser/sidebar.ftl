@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Ανοικτές καρτέλες
 sidebar-options-menu-button =
     .title = Άνοιγμα μενού
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Αλλαγή μεγέθους πλαϊνής γραμμής
 
 ## Labels for sidebar history panel
 

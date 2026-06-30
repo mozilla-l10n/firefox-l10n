@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Αλλαγή μεγέθους καρτελών διαχωρισμού προβολής
+tab-devtools-splitter =
+    .aria-label = Αλλαγή μεγέθους πίνακα εργαλείων ανάπτυξης
 
 ## Tooltips for tab audio control
 ## Variables:
