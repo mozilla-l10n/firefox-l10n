@@ -62,11 +62,37 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = 此功能還在實驗中，可能無法如預期運作。
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = 無效
+customkeys-shortcut-unassigned =
+    .placeholder = 新增捷徑
+customkeys-key-edit =
+    .aria-label = 編輯
+    .tooltiptext = 編輯
 customkeys-key-clear =
     .aria-label = 清除
     .tooltiptext = 清除
+customkeys-key-reset =
+    .aria-label = 回復
+    .tooltiptext = 回復
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = 按下新按鍵：
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = 取消
+customkeys-reset-all-confirm-button-cancel = 取消
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = 側邊欄
+customkeys-title-heading =
+    .heading = 快速鍵
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = 搜尋快速鍵
+    .placeholder = 搜尋快速鍵
+customkeys-support-link-text = 更多資訊
+customkeys-reset-all-button = 還原預設值

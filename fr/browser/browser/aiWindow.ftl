@@ -284,19 +284,19 @@ smart-window-default-promo-additional-button = Plus tard
 aiwindow-feedback-modal-title = Donner mon avis
 aiwindow-feedback-what-worked-well = Qu’est-ce qui a bien fonctionné ? Merci de ne pas inclure d’informations personnelles.
 aiwindow-feedback-choose-any = Sélectionnez toutes les propositions pertinentes
-aiwindow-feedback-add-details = Ajoutez des détails si vous le souhaitez. Pas d'informations personnelles, s'il vous plaît.
+aiwindow-feedback-add-details = Ajoutez des détails si vous le souhaitez. Merci de ne pas inclure d’informations personnelles.
 aiwindow-feedback-disclaimer = Envoyer partage vos commentaires et ce chat pour aider { -brand-shorter-name } à améliorer { -smart-window-brand-name }. Vos autres discussions restent privées. <a data-l10n-name="learn-more">En savoir plus</a>
 aiwindow-feedback-submit = Envoyer
 aiwindow-feedback-cancel = Annuler
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrect ou trompeur
-aiwindow-feedback-reason-doesnt-address-my-request = Ne répond pas à ma requête
+aiwindow-feedback-reason-doesnt-address-my-request = Ne répond pas à ma demande
 aiwindow-feedback-reason-lacks-personalization = Manque de personnalisation ou de contexte
-aiwindow-feedback-reason-performance-or-usability = Problème de performances ou d’utilisabilité
+aiwindow-feedback-reason-performance-or-usability = Problème de performances ou de facilité d’utilisation
 aiwindow-feedback-reason-harmful-or-offensive = Nocif ou offensant
 aiwindow-feedback-reason-other = Autre
 aiwindow-feedback-preview-report = Afficher les détails de la discussion
-aiwindow-feedback-preview-report-with-page = Afficher les détails des discussions et de la page
-aiwindow-feedback-include-page-content = Partager les pages référencées dans ce chat
+aiwindow-feedback-preview-report-with-page = Afficher les détails de la discussion et de la page
+aiwindow-feedback-include-page-content = Partager les pages référencées dans cette discussion
 
 ## Smart Window ai-chat-grid
 

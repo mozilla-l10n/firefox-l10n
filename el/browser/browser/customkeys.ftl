@@ -70,3 +70,8 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Πατήστε νέο πλήκτρο:
+
+## Sidebar
+
+customkeys-support-link-text = Μάθετε περισσότερα
+customkeys-reset-all-button = Επαναφορά προεπιλογών

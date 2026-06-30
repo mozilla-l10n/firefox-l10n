@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Απόρρητο
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Μετοχές
 home-prefs-mission-message2 =
     .message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο.
 home-prefs-manage-topics-link2 =
@@ -160,6 +163,13 @@ home-prefs-mission-message-learn-more-link-srd = Μάθετε πώς
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Μάθετε περισσότερα
 
+## Strings for the Stocks widget
+
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Απόκρυψη μετοχών
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Μάθετε περισσότερα
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +205,7 @@ newtab-topsites-add-shortcut-label = Προσθήκη συντόμευσης
 newtab-topsites-add-shortcut-title =
     .title = Προσθήκη συντόμευσης
     .aria-label = Προσθήκη συντόμευσης
+newtab-shortcuts-pinned-area = Καρφιτσωμένη περιοχή
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισαγωγή τίτλου
@@ -506,6 +517,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Αθλήματα
 newtab-custom-widget-privacy-toggle =
     .label = Απόρρητο
+newtab-custom-widget-stocks-toggle =
+    .label = Μετοχές
 newtab-custom-widget-section-title = Γραφικά στοιχεία
 newtab-custom-widget-section-toggle =
     .label = Γραφικά στοιχεία

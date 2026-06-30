@@ -132,3 +132,37 @@ smart-window-grouped-tabs-summary =
        *[other] הקבוצה ״{ $label }״ נוצרה ונוספו { NUMBER($count) } לשוניות.
     }
 smart-window-grouped-tabs-row-label = לשוניות מקובצות
+
+## Action log
+
+action-log-searching-tabs = בתהליך חיפוש בלשוניות
+action-log-searched-open-tabs = בוצע חיפוש בלשונית פתוחות
+action-log-searching-history = בתהליך חיפוש בהיסטוריה
+action-log-searched-history = בוצע חיפוש בהיסטוריה
+action-log-reading-page = בתהליך קריאת הדף
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = בוצעה קריאה של תוכן הדף
+action-log-searching-web = בתהליך חיפוש ברשת
+action-log-searched-web = בוצע חיפוש ברשת
+action-log-checking-memories = בתהליך בדיקת זכרונות
+action-log-checked-memories = בוצעה בדיקת זכרונות
+action-log-searching-settings = בתהליך חיפוש בהגדרות
+action-log-searched-settings = בוצע חיפוש בהגדרות
+action-log-searching-world-cup-matches = בתהליך חיפוש של משחקי המונדיאל
+action-log-searched-world-cup-matches = בוצע חיפוש של משחקי המונדיאל
+action-log-checking-world-cup-live = בתהליך חיפוש של משחקים חיים של המונדיאל
+action-log-checked-world-cup-live = בוצע חיפוש של משחקים חיים של המונדיאל
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] הושלם שלב אחד
+       *[other] הושלמו { NUMBER($count) } שלבים
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = תוצאות החיפוש נטענו בלשונית זו. בתהליך ניתוח…
