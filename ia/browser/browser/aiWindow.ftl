@@ -7,6 +7,7 @@
 
 menu-history-chats =
     .label = Chats
+smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nove scheda
 
 ## Smart Window Toggle Button
@@ -27,6 +28,10 @@ aiwindow-input-cta-submit-label-search = Cercar
 aiwindow-input-cta-submit-label-stop = Stoppar
 aiwindow-input-cta-menu-label-chat = Demandar
 aiwindow-input-cta-search-submenu-header = Cercar
+
+## Mentions
+
+smartbar-mentions-list-no-results-label = Necun resultato trovate
 
 ## Website Chip
 

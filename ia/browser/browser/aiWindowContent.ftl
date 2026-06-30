@@ -6,6 +6,7 @@
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Un problema ha occurrite. Retenta.
+smartwindow-retry-btn = Retentar
 smartwindow-signin-btn = Aperir session
 
 ## Assistant Message footer
