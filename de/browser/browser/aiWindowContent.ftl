@@ -86,3 +86,18 @@ smart-window-ungroup-success-summary =
         [one] { $count } Tab gruppiert, dann Gruppierung aufgehoben.
        *[other] { $count } Tabs gruppiert, dann Gruppierung aufgehoben.
     }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } Tab ungruppiert
+       *[other] { $count } Tabs ungruppiert
+    }
+
+## Action log
+
+action-log-searching-tabs = Tabs werden durchsucht
+action-log-searched-open-tabs = Offene Tabs durchsucht
+action-log-searching-history = Chronik wird durchsucht
+action-log-searched-history = Durchsuchte Chronik
+action-log-reading-page = Seite wird gelesen
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Gelesener Seiteninhalt

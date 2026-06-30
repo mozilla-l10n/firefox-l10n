@@ -15,6 +15,8 @@ ai-window-personalize-header =
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom-save =
+    .label = Speichern
 ai-window-delete-all-memories-button =
     .label = Alle löschen
 ai-window-delete-all-memories-confirm = Löschen

@@ -124,7 +124,7 @@ about-telemetry-values-header = ਮੁੱਲ
 #   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = ਲੇਟ ਲਿਖਣਾ #{ $lateWriteCount }
 about-telemetry-stack-title = ਸਟੈਕ:
-about-telemetry-memory-map-title = ਮੈਮੋਰੀ ਨਕਸ਼ਾ:
+about-telemetry-memory-map-title = ਮੈਮੋਰੀ ਖਾਕਾ:
 about-telemetry-error-fetching-symbols = ਸਿੰਬਲ ਲੈਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਅਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 about-telemetry-time-stamp-header = ਸਮਾਂ-ਮੋਹਰ
 about-telemetry-category-header = ਵਰਗ

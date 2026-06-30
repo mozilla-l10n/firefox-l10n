@@ -4,9 +4,9 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = { -smart-window-brand-name } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ ਹੈ?
-smart-window-block-description-both = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਚੈਟਾਂ ਅਤੇ ਮੈਮੋਰੀਆਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
+smart-window-block-description-both = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਚੈਟਾਂ ਅਤੇ ਯਾਦਾਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
 smart-window-block-description-chats = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਚੈਟਾਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
-smart-window-block-description-memories = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਮੈਮੋਰੀਆਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
+smart-window-block-description-memories = ਇਸ ਨਾਲ ਤੁਹਾਡੀਆਂ { -smart-window-brand-name } ਯਾਦਾਂ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = ਨਾਲ ਮੌਜੂਦ ਸਹਾਇਕ ਨੂੰ ਸਵਾਲ ਪੁੱਛੋ, ਸਫ਼ਿਆਂ ਦੀ ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਨਿੱਜੀ ਬਣਾਏ ਹੋਏ ਸੁਝਾਅ ਲਵੋ।
@@ -61,8 +61,8 @@ smart-window-model-custom-save =
     .label = ਸੰਭਾਲੋ
 smart-window-model-custom-save-confirmation = ਮਾਡਲ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ। ਟੈਸਟ ਕਰਨ ਲਈ ਨਵੀਂ ਚੈਟ ਸ਼ੁਰੂ ਕਰੋ।
 ai-window-memories-section =
-    .label = ਮੈਮੋਰੀਆਂ
-    .description = { -brand-short-name } ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖ ਕੇ ਮੈਮੋਰੀਆਂ ਬਣਾ ਸਕਦਾ ਹੈ। ਉਹਨਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਨਿੱਜੀ ਜਵਾਬ ਦੇਣ ਲਈ ਮਦਦ ਵਜੋਂ ਵਰਤਿਆ ਜਾਦਾ ਹੈ ਅਤੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਲੋਕਲ ਹੀ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ।
+    .label = ਯਾਦਾਂ
+    .description = { -brand-short-name } ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਤੋਂ ਸਿੱਖ ਕੇ ਯਾਦਾਂ ਬਣਾ ਸਕਦਾ ਹੈ। ਉਹਨਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਨਿੱਜੀ ਜਵਾਬ ਦੇਣ ਲਈ ਮਦਦ ਵਜੋਂ ਵਰਤਿਆ ਜਾਦਾ ਹੈ ਅਤੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਲੋਕਲ ਹੀ ਸੰਭਾਲਿਆ ਜਾਂਦਾ ਹੈ।
 ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name } ਵਿੱਚ ਚੈਟਾਂ ਬਾਰੇ ਸਿੱਖੋ
 ai-window-learn-from-browsing-activity =
