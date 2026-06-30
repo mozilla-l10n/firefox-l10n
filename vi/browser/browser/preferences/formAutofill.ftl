@@ -147,8 +147,12 @@ autofill-message-tooltip = Xem thông báo về tự động điền
 autofill-add-card-title = Thêm thẻ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Chỉnh sửa thẻ
+autofill-card-number-2 =
+    .label = Số thẻ
 autofill-card-number = Số thẻ
 autofill-card-invalid-number = Vui lòng nhập số thẻ hợp lệ
+autofill-card-name-on-card-2 =
+    .label = Tên trên thẻ
 autofill-card-billing-address-2 =
     .label = Địa chỉ thanh toán
 autofill-card-name-on-card = Tên trên thẻ
