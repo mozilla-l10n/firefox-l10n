@@ -147,8 +147,14 @@ autofill-message-tooltip = Mostra el missatge sobre l'emplenament automàtic
 autofill-add-card-title = Afegeix una targeta
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Edita la targeta
+autofill-card-number-2 =
+    .label = Número de targeta
 autofill-card-number = Número de targeta
 autofill-card-invalid-number = Introduïu un número de targeta vàlid
+autofill-card-name-on-card-2 =
+    .label = Nom del titular
+autofill-card-billing-address-2 =
+    .label = Adreça de facturació
 autofill-card-name-on-card = Nom del titular
 autofill-card-expires-month = Mes de caducitat
 autofill-card-expires-year = Any de caducitat
