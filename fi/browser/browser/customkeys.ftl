@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Pikanäppäimet
 customkeys-search = Etsi:
 customkeys-change = Muuta
@@ -51,6 +54,22 @@ customkeys-nav-select-last-tab = Siirry viimeiseen välilehteen
 customkeys-nav-toggle-mute = Mykistä ääni/palauta ääni
 customkeys-edit-find-previous = Etsi edellinen
 customkeys-tools-screenshot = Ota kuvakaappaus
+customkeys-category-navigation-2 =
+    .heading = Liikkuminen
 customkeys-caution-message = Tämä ominaisuus on kokeellinen eikä välttämättä toimi odotetulla tavalla.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Virheellinen
+customkeys-key-clear =
+    .aria-label = Tyhjennä
+    .tooltiptext = Tyhjennä
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Paina uutta näppäintä:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
