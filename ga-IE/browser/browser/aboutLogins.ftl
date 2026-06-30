@@ -9,6 +9,10 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Cruthaigh logáil isteach nua
+about-logins-page-title-name = Focail fhaire
+about-logins-login-filter2 =
+    .placeholder = Cuardach Pasfhocail
+    .key = F
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
 fxaccounts-avatar-button =
     .title = Bainistigh an cuntas
@@ -17,6 +21,9 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Oscail an roghchlár
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Iompórtáil ó bhrabhsálaí eile…
+about-logins-menu-menuitem-import-from-a-file = Iompórtáil ó chomhad…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Roghanna
