@@ -104,3 +104,37 @@ smart-window-grouped-tabs-summary = “{ $label }” 그룹을 생성하고 탭 
 smart-window-grouped-tabs-row-label = 그룹화된 탭
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 탭 그룹 해제
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary = 탭 { $count }개가 그룹화 후 해제되었습니다.
+smart-window-ungrouped-row-label = 그룹 해제된 탭 { $count }개
+
+## Action log
+
+action-log-searching-tabs = 탭 검색 중
+action-log-searched-open-tabs = 열린 탭 검색됨
+action-log-searching-history = 기록 검색 중
+action-log-searched-history = 기록 검색됨
+action-log-reading-page = 페이지 읽는 중
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = 페이지 내용 읽기
+action-log-searching-web = 웹 검색 중
+action-log-searched-web = 웹 검색됨
+action-log-checking-memories = 기억 기능 확인 중
+action-log-checked-memories = 기억 기능 확인됨
+action-log-searching-settings = 설정 검색 중
+action-log-searched-settings = 설정 검색됨
+action-log-searching-world-cup-matches = 월드컵 경기 검색 중
+action-log-searched-world-cup-matches = 월드컵 경기 검색됨
+action-log-checking-world-cup-live = 실시간 월드컵 경기 확인 중
+action-log-checked-world-cup-live = 실시간 월드컵 경기 확인됨
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps = { $count } 단계 완료됨
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = 이 탭에 검색 결과를 로드했습니다. 분석 중…
