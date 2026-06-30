@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Sneltoetsen
 customkeys-search = Zoeken:
 customkeys-change = Wijzigen
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Naar laatste tabblad
 customkeys-nav-toggle-mute = Audio dempen/dempen opheffen
 customkeys-edit-find-previous = Vorige zoeken
 customkeys-tools-screenshot = Een schermafbeelding maken
+customkeys-category-navigation-2 =
+    .heading = Navigatie
 customkeys-caution-message = Deze functie is experimenteel en werkt mogelijk niet zoals verwacht.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ongeldig
+customkeys-key-clear =
+    .aria-label = Wissen
+    .tooltiptext = Wissen
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Druk op nieuwe toets:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
