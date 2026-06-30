@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] Tha { -brand-short-name } a’ feuchainn ri fiosrachadh cairt-chreidis a shealltainn. Dearbh inntrigeadh dhan chunntas Windows seo gu h-ìosal.
        *[other] Tha { -brand-short-name } a’ feuchainn ri fiosrachadh cairt-chreidis a shealltainn.
     }
+autofill-card-number-2 =
+    .label = Àireamh na cairt-chreideis
 autofill-card-number = Àireamh na cairt-chreideis
 autofill-card-invalid-number = Cuir a-steach àireamh cairt dhligheach
+autofill-card-name-on-card-2 =
+    .label = An t-ainm air a’ chairt
+autofill-card-billing-address-2 =
+    .label = An seòladh bileachaidh
 autofill-card-name-on-card = An t-ainm air a’ chairt
 autofill-card-expires-month = Am mìos a dh’fhalbhas an ùine air
 autofill-card-expires-year = A’ bhliadhna a dh’fhalbhas an ùine air
