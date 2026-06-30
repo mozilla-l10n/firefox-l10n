@@ -147,8 +147,14 @@ autofill-message-tooltip = Bericht over automatisch invullen bekijken
 autofill-add-card-title = Kaart toevoegen
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kaart bewerken
+autofill-card-number-2 =
+    .label = Kaartnummer
 autofill-card-number = Kaartnummer
 autofill-card-invalid-number = Voer een geldig kaartnummer in
+autofill-card-name-on-card-2 =
+    .label = Naam op kaart
+autofill-card-billing-address-2 =
+    .label = Factuuradres
 autofill-card-name-on-card = Naam op kaart
 autofill-card-expires-month = Vervalmaand
 autofill-card-expires-year = Vervaljaar
