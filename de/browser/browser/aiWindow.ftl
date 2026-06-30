@@ -75,6 +75,14 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-model-fast-label = Schnell
+aiwindow-firstrun-model-fast-body = Schnelle Antworten
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Modell { $modell } von { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexibel
+aiwindow-firstrun-model-allpurpose-body = Passend für die meisten Bedürfnisse
+aiwindow-firstrun-model-personal-label = Persönlich
 aiwindow-firstrun-button = Los geht's
 aiwindow-firstrun-back-button = Zurück
 aiwindow-firstrun-next-button = Weiter
@@ -94,11 +102,57 @@ aiwindow-input-model-select-default-badge =
     .title = Das ausgewählte Standard-Modell
 aiwindow-input-model-select-settings-link = Modell-Einstellungen
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kann aus Ihren Chats, dem Surfen oder beidem lernen, um Erinnerungen zu schaffen. Dadurch werden Antworten mit der Zeit hilfreicher.
+aiwindow-firstrun-memories-conversation-title = Halten Sie das Gespräch am Laufen
+aiwindow-firstrun-memories-conversation-body = Lernen aus Chats heißt, Sie müssen sich weniger wiederholen.
+aiwindow-firstrun-memories-relevance-title = Mehr relevante Antworten
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Fragen
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Neuer Chat
+    .tooltiptext = Neuer Chat
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
     .aria-label = Schließen
     .tooltiptext = Schließen
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Chats
+    .aria-label = Chats
+    .tooltiptext = Chats
+smartwindow-footer-history =
+    .label = Chronik
+    .aria-label = Chronik
+    .tooltiptext = Chronik
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = KI kann Fehler machen.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Aus Chats löschen
+    .accesskey = l
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Chats durchsuchen
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -107,6 +161,10 @@ firefoxview-chat-date-today = Heute - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Gestern - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Kehren Sie zu Ihren Chats zurück
 
 ## Count displayed in fxview chat search results
 
