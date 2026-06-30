@@ -10,11 +10,25 @@ ai-window-activate-link =
     .label = Erste Schritte
 ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
+ai-window-default-section =
+    .label = Standardeinstellungen
+ai-window-is-default-window =
+    .label = Standardmäßig { -smart-window-brand-name } verwenden
+    .description = { -smart-window-brand-name } öffnen, wenn { -brand-short-name } gestartet oder neu gestartet wird oder Links aus anderen Apps öffnet.
+ai-window-open-sidebar =
+    .label = Assistent automatisch öffnen
+    .description = Die Assistenten-Seitenleiste wird bei jedem neuen Tab angezeigt. Sie kann jederzeit geschlossen werden.
 
 ## Variables:
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom-name =
+    .label = Modellname
+    .placeholder = Beispiel: glm4
+smart-window-model-custom-url =
+    .label = Modell-Endpunkt
+    .placeholder = Beispiel: http://localhost:11434/v1
 smart-window-model-custom-save =
     .label = Speichern
 ai-window-delete-all-memories-button =

@@ -137,10 +137,10 @@ aiwindow-firstrun-memories-conversation-body = Apprendre des discussions signifi
 aiwindow-firstrun-memories-relevance-title = Des réponses plus pertinentes
 aiwindow-firstrun-memories-relevance-body = Apprendre de la navigation permet à { -smart-window-brand-name } de disposer d’une vue d’ensemble.
 aiwindow-firstrun-memories-privacy-title = Conçu pour protéger votre vie privé
-aiwindow-firstrun-memories-privacy-body = Des mémoires sont stockées sur cet appareil. Supprimez ou désactivez à tout moment.
+aiwindow-firstrun-memories-privacy-body = Les souvenirs sont stockés sur cet appareil. Supprimez-les ou désactivez-les à tout moment.
 aiwindow-firstrun-memories-choose-label = Choisissez ce dont { -smart-window-brand-name } apprend
-aiwindow-firstrun-memories-checkbox-chats = Discussions envoyées à { -smart-window-brand-name }
-aiwindow-firstrun-memories-checkbox-browsing = En naviguant sur { -brand-product-name }
+aiwindow-firstrun-memories-checkbox-chats = Les discussions des { -smart-window-brand-name(from: "lower-plural") }
+aiwindow-firstrun-memories-checkbox-browsing = La navigation sur { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Mettez-les à jour à tout moment dans les paramètres.
 aiwindow-firstrun-memories-no-create = J'ai compris. { -smart-window-brand-name } ne créera pas de mémoires. Mettez-les à jour à tout moment dans les paramètres.
 
