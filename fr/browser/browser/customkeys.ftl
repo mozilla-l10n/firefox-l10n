@@ -87,18 +87,18 @@ customkeys-key-new =
 customkeys-conflict-confirm-title = Supprimer un autre raccourci ?
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-confirm-body = Cette clé est déjà utilisée par « { $conflict } ».
+customkeys-conflict-confirm-body = Cette touche est déjà utilisée par « { $conflict } ».
 customkeys-conflict-confirm-button-confirm = Utiliser tout de même
 customkeys-conflict-confirm-button-cancel = Annuler
-customkeys-reset-all-confirm-title = Restaurer les moteurs de recherche par défaut ?
+customkeys-reset-all-confirm-title = Restaurer les raccourcis par défaut ?
 customkeys-reset-all-confirm-body = Tous les raccourcis clavier personnalisés que vous avez créés seront supprimés.
-customkeys-reset-all-confirm-button-confirm = Restaurer moteurs par défaut
+customkeys-reset-all-confirm-button-confirm = Restaurer les raccourcis par défaut
 customkeys-reset-all-confirm-button-cancel = Annuler
 
 ## Sidebar
 
 customkeys-sidebar =
-    .aria-label = Barre latérale
+    .aria-label = Panneau latéral
 customkeys-title-heading =
     .heading = Raccourcis clavier
 # Search is a verb, as in "search through shortcuts".
