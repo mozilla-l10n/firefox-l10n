@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Scorciatoie da tastiera
 customkeys-search = Cerca:
 customkeys-change = Modifica
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Vai all’ultima scheda
 customkeys-nav-toggle-mute = Disattiva/attiva audio
 customkeys-edit-find-previous = Trova precedente
 customkeys-tools-screenshot = Cattura schermata
+customkeys-category-navigation-2 =
+    .heading = Navigazione
 customkeys-caution-message = Questa funzione è sperimentale e potrebbe non funzionare come previsto.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Non valido
+customkeys-key-clear =
+    .aria-label = Cancella
+    .tooltiptext = Cancella
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Premi nuovo tasto:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
