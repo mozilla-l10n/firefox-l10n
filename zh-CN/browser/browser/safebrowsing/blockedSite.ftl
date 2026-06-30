@@ -9,7 +9,7 @@ safeb-blocked-harmful-page-title = 即将进入的网站可能含有恶意软件
 safeb-blocked-addon-page-title = 网站因安全原因被阻止
 safeb-blocked-phishing-page-short-desc = 此页面可能试图诱导您安装恶意软件，透露密码、信用卡号等个人信息，或诱导您做其他风险行为，{ -brand-short-name } 已拦截。
 safeb-blocked-malware-page-short-desc = 此页面可能试图安装会窃取或删除您计算机上个人资料的恶意软件，{ -brand-short-name } 已拦截。
-safeb-blocked-unwanted-page-short-desc = 此页面可能试图诱导您安装损害上网体验的程序（例如说修改您的浏览器主页、展示扰人的广告），{ -brand-short-name } 已拦截。
+safeb-blocked-unwanted-page-short-desc = 此页面可能试图诱导您安装损害上网体验的程序（例如修改主页、在您访问的网站上插入其他广告），{ -brand-short-name } 已拦截。
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } 已拦截此页面，其可能会尝试安装危险的应用，从而窃取或删除您的信息（例如照片、密码、邮件、金融权证等）。
 safeb-blocked-addon-page-short-desc = { -brand-short-name } 阻止了此网页，因为您的一个附加组件试图打开它。该网站可能被用于窃取您的信息（例如密码或信用卡号）。</p>
 # Variables:
