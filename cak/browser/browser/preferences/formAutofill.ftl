@@ -112,8 +112,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } nutojtob'ej nuk'üt retamab'al ri t'im pwäq. Tajikib'a' okem pa ri rub'i' rutaqoya'l Windows ri k'o ikim.
        *[other] { -brand-short-name } nutojtob'ej nuk'üt retamab'al ri t'im pwäq.
     }
+autofill-card-number-2 =
+    .label = Rajilab'al Ch'utit'im
 autofill-card-number = Rajilab'al Ch'utit'im
 autofill-card-invalid-number = Titz'ib'äx jun okel rajilab'al ch'utit'im pwäq
+autofill-card-name-on-card-2 =
+    .label = B'i'aj pa ri Ch'utiti'm
+autofill-card-billing-address-2 =
+    .label = Rochochib'al rut'unem
 autofill-card-name-on-card = B'i'aj pa ri Ch'utiti'm
 autofill-card-expires-month = Ik' Nik'is
 autofill-card-expires-year = Juna' Nik'is
