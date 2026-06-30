@@ -55,16 +55,9 @@
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
-    { $plural-form ->
-        [false]
-            { $capitalization ->
-                [uppercase] Finestra smart
-               *[lowercase] finestra smart
-            }
-       *[true]
-            { $capitalization ->
-                [uppercase] Finestre smart
-               *[lowercase] finestre smart
-            }
+    { $form ->
+        [uppercase-singular] Finestra smart
+        [uppercase-plural] Finestre smart
+        [lowercase-singular] finestra smart
+       *[lowercase-plural] finestre smart
     }
-

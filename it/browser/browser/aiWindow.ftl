@@ -6,22 +6,22 @@
 ## Chrome
 
 main-context-menu-open-link-new-smart-window =
-    .label = Apri link in nuova { -smart-window-brand-name(plural-form: "false") }
+    .label = Apri link in nuova { -smart-window-brand-name(form: "lowercase-singular") }
     .accesskey = A
 appmenuitem-new-ai-window =
-    .label = Nuova { -smart-window-brand-name(plural-form: "false") }
-    .value = Nuova { -smart-window-brand-name(plural-form: "false") }
+    .label = Nuova { -smart-window-brand-name(form: "lowercase-singular") }
+    .value = Nuova { -smart-window-brand-name(form: "lowercase-singular") }
 appmenuitem-new-classic-window =
     .label = Nuova finestra classica
 menu-file-new-ai-window =
-    .label = Nuova { -smart-window-brand-name(plural-form: "false") }
+    .label = Nuova { -smart-window-brand-name(form: "lowercase-singular") }
 menu-file-new-classic-window =
     .label = Nuova finestra classica
 menu-history-chats =
     .label = Chat
 menu-history-chats-recent =
     .label = Chat recenti
-smartwindow-fullpage-heading = { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
+smartwindow-fullpage-heading = { -smart-window-brand-name(form: "uppercase-singular") }
 smartwindow-document-title = Nuova scheda
 
 ## Smart Window Toggle Button
@@ -36,8 +36,8 @@ ai-window-toggleview-switch-classic-description =
     .label = Navigazione standard
     .value = Navigazione standard
 ai-window-toggleview-switch-ai =
-    .label = { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
-    .value = { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
+    .label = { -smart-window-brand-name(form: "uppercase-singular") }
+    .value = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-toggleview-switch-ai-description =
     .label = Chiedi durante la navigazione
     .value = Chiedi durante la navigazione
@@ -45,7 +45,7 @@ ai-window-toggleview-switch-private =
     .label = Finestra anonima
 ai-window-toggleview-open-private =
     .label = Apri nuova finestra anonima
-ai-window-toggleview-status-label-active = { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
+ai-window-toggleview-status-label-active = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-toggleview-status-label-inactive = Finestra classica
 
 ## Input CTA
@@ -96,7 +96,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Benvenuto in { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") }
+aiwindow-firstrun-title = Benvenuto in { -smart-window-brand-name(form: "uppercase-singular") }
 aiwindow-firstrun-model-title = Che cosa è importante per te?
 aiwindow-firstrun-model-subtitle = Scegli il modello da utilizzare nelle { -smart-window-brand-name }. Puoi cambiarlo in qualsiasi momento.
 aiwindow-firstrun-model-fast-label = Veloce
@@ -131,14 +131,14 @@ aiwindow-input-model-select-settings-link = Impostazioni modello
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Risposte più utili, secondo le tue preferenze
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") } può apprendere dalle tue chat, dalla navigazione o da entrambe per creare memorie. Queste memorie rendono le risposte sempre più utili col passare del tempo.
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name(form: "uppercase-singular") } può apprendere dalle tue chat, dalla navigazione o da entrambe per creare memorie. Queste memorie rendono le risposte sempre più utili col passare del tempo.
 aiwindow-firstrun-memories-conversation-title = Continua la conversazione
 aiwindow-firstrun-memories-conversation-body = Grazie all’apprendimento dalle chat, dovrai ripeterti meno.
 aiwindow-firstrun-memories-relevance-title = Risposte più pertinenti
 aiwindow-firstrun-memories-relevance-body = L’apprendimento dalla navigazione offre alle { -smart-window-brand-name } una visione più completa.
 aiwindow-firstrun-memories-privacy-title = Privato per impostazione predefinita
 aiwindow-firstrun-memories-privacy-body = Le memorie vengono salvate su questo dispositivo. Eliminale o disattivale in qualsiasi momento.
-aiwindow-firstrun-memories-choose-label = Scegli da cosa può imparare { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") }
+aiwindow-firstrun-memories-choose-label = Scegli da cosa può imparare { -smart-window-brand-name(form: "uppercase-singular") }
 aiwindow-firstrun-memories-checkbox-chats = Chat nelle { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Navigazione in { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Aggiorna nelle impostazioni in qualsiasi momento.
@@ -146,9 +146,9 @@ aiwindow-firstrun-memories-no-create = OK. Non verranno create memorie per le { 
 
 ## Firstrun set as default onboarding
 
-aiwindow-firstrun-default-title = Rendi { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") } il tuo punto di partenza
+aiwindow-firstrun-default-title = Rendi { -smart-window-brand-name(form: "uppercase-singular") } il tuo punto di partenza
 aiwindow-firstrun-default-subtitle = Naviga, cerca e chiedi in un unico posto. Puoi comunque aprire finestre anonime e classiche in qualsiasi momento.
-aiwindow-firstrun-default-checkbox-label = Apri sempre { -brand-product-name } in { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
+aiwindow-firstrun-default-checkbox-label = Apri sempre { -brand-product-name } in { -smart-window-brand-name(form: "uppercase-singular") }
 aiwindow-firstrun-default-checkbox-description = Cambia nelle impostazioni in qualsiasi momento.
 
 ## Ask Toolbar Button
@@ -183,7 +183,7 @@ fxa-signout-dialog-body-aiwindow = I dati sincronizzati rimarranno nel tuo accou
 
 ## Smart Window Toggle Button (in-page)
 
-smartwindow-switch-to-smart-window = Passa a { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") }
+smartwindow-switch-to-smart-window = Passa a { -smart-window-brand-name(form: "uppercase-singular") }
 
 ## Fullpage Footer Actions
 
@@ -270,7 +270,7 @@ smartwindow-close-tab-callout-subtitle = Riapri le schede dalla cronologia in qu
 
 ## Smart Window new tab promo
 
-smart-window-default-promo-heading = Impostare { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") } come predefinito?
+smart-window-default-promo-heading = Impostare { -smart-window-brand-name(form: "uppercase-singular") } come predefinito?
 smart-window-default-promo-message = { -brand-short-name } aprirà automaticamente { -smart-window-brand-name }.
 smart-window-default-promo-primary-button = Imposta come predefinito
 smart-window-default-promo-additional-button = Non adesso
@@ -281,7 +281,7 @@ aiwindow-feedback-modal-title = Condividi feedback
 aiwindow-feedback-what-worked-well = Cosa ha funzionato bene? Non inserire informazioni personali.
 aiwindow-feedback-choose-any = Scegli tra quelli pertinenti
 aiwindow-feedback-add-details = Aggiungi dettagli se vuoi. Non inserire informazioni personali.
-aiwindow-feedback-disclaimer = Inviando, condividi il tuo feedback e questa chat per aiutare { -brand-shorter-name } a migliorare { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") }. Le altre tue chat restano private. <a data-l10n-name="learn-more">Scopri di più</a>
+aiwindow-feedback-disclaimer = Inviando, condividi il tuo feedback e questa chat per aiutare { -brand-shorter-name } a migliorare { -smart-window-brand-name(form: "uppercase-singular") }. Le altre tue chat restano private. <a data-l10n-name="learn-more">Scopri di più</a>
 aiwindow-feedback-submit = Invia
 aiwindow-feedback-cancel = Annulla
 aiwindow-feedback-reason-incorrect-or-misleading = Errato o fuorviante
@@ -304,4 +304,3 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Cambia modalità: visualizzazione a griglia
     .tooltiptext = Visualizzazione a griglia
-
