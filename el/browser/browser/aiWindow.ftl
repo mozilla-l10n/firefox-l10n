@@ -3,8 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+main-context-menu-open-link-new-smart-window =
+    .label = Άνοιγμα συνδέσμου σε νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+    .accesskey = ξ
+appmenuitem-new-ai-window =
+    .label = Νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+    .value = Νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+menu-file-new-ai-window =
+    .label = Νέο { -smart-window-brand-name(form: "lowerSingularNom") }
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
 ai-window-toggleview-switch-private =
     .label = Ιδιωτικό παράθυρο
 ai-window-toggleview-open-private =
@@ -29,6 +44,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Καλώς ορίσατε στο { -smart-window-brand-name(form: "uppperSingularNom") }
 aiwindow-firstrun-back-button = Πίσω
 aiwindow-firstrun-next-button = Επόμενο
 

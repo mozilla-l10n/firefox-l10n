@@ -49,6 +49,7 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = Kopier tabell
     .tooltiptext = Kopier tabell
+aiwindow-table-scroll-indicator = Rull for å se mer
 aiwindow-thumbs-up =
     .aria-label = Gi positiv tilbakemelding
     .tooltiptext = Gi positiv tilbakemelding
@@ -92,7 +93,92 @@ smart-window-closed-tabs-label =
     }
 smart-window-closed-tabs-summary =
     { $count ->
-        [one] Ferdig! Fanen er lukket.
-       *[other] Ferdig! Fanene er lukket.
+        [one] Ferdig! Fanen lukket.
+       *[other] Ferdig! Faner lukket.
     }
 smart-window-closed-tabs-row-label = Lukkede faner
+smart-window-closed-and-restored-label = Lukkede og gjenopprettede faner
+smart-window-restored-row-label =
+    { $count ->
+        [one] Gjenopprettet { $count } fane
+       *[other] Gjenopprettet { $count } faner
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Fane lukket, deretter gjenopprettet.
+       *[other] Faner lukket, deretter gjenopprettet.
+    }
+smart-window-cancelled-label = Forespørselen ble avbrutt.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Gruppe
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Grupper { $count } fane
+       *[other] Grupper { $count } faner
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Grupperte { $count } fane
+       *[other] Grupperte { $count } faner
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Opprettet gruppen «{ $label }» og la til { $count } fane.
+       *[other] Opprettet gruppen «{ $label }» og la til { $count } faner.
+    }
+smart-window-grouped-tabs-row-label = Grupperte faner
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Opphevde grupperinger
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } fane ble gruppert og deretter tatt ut av gruppen.
+       *[other] { $count } faner ble gruppert og deretter tatt ut av gruppen.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Tok { $count } fane ut av gruppen
+       *[other] Tok { $count } faner ut av gruppen
+    }
+
+## Action log
+
+action-log-searching-tabs = Søker i faner
+action-log-searched-open-tabs = Søkte i åpne faner
+action-log-searching-history = Søker i historikken
+action-log-searched-history = Søkte i historikken
+action-log-reading-page = Leser side
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Leste sideinnhold
+action-log-searching-web = Søker på nettet
+action-log-searched-web = Søkte på nettet
+action-log-checking-memories = Sjekker minner
+action-log-checked-memories = Sjekket minner
+action-log-searching-settings = Søker i innstillinger
+action-log-searched-settings = Søkte i innstillinger
+action-log-searching-world-cup-matches = Søker etter VM-kamper
+action-log-searched-world-cup-matches = Søkte etter VM-kamper
+action-log-checking-world-cup-live = Sjekker direktesendte VM-kamper
+action-log-checked-world-cup-live = Sjekket direktesendte VM-kamper
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Fullførte 1 trinn
+       *[other] Fullførte { $count } trinn
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Lastet inn søkeresultater i denne fanen. Analyserer…

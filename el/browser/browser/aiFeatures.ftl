@@ -3,8 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = Αποκλεισμός του { -smart-window-brand-name(form: "upperSingularGen") };
+ai-window-features-group =
+    .label = { -smart-window-brand-name }
+    .description = Κάντε ερωτήσεις, συγκρίνετε σελίδες και λάβετε εξατομικευμένες προτάσεις με έναν ενσωματωμένο βοηθό.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
+ai-window-activate-link =
+    .label = Έναρξη
+ai-window-personalize-button =
+    .label = Ρυθμίσεις { -smart-window-brand-name(form: "lowerSingularGen") }
 ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
