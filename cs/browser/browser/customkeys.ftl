@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Klávesové zkratky
 customkeys-search = Hledat:
 customkeys-change = Změnit
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Přejít na poslední panel
 customkeys-nav-toggle-mute = Vypnout/Zapnout zvuk
 customkeys-edit-find-previous = Najít předchozí
 customkeys-tools-screenshot = Pořídit snímek stránky
+customkeys-category-navigation-2 =
+    .heading = Navigace
 customkeys-caution-message = Tato funkce je experimentální a nemusí fungovat podle očekávání.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Neplatný
+customkeys-key-clear =
+    .aria-label = Vymazat
+    .tooltiptext = Vymazat
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Stiskněte novou klávesu:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
