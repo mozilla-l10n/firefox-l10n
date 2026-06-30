@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Pintasan Papan Ketik
 customkeys-search = Cari:
 customkeys-change = Ubah
@@ -33,6 +36,22 @@ customkeys-nav-forward = Maju
 customkeys-nav-home = Beranda
 customkeys-nav-reload = Muat Ulang
 customkeys-nav-stop = Hentikan
+customkeys-category-navigation-2 =
+    .heading = Navigasi
 customkeys-caution-message = Fitur ini bersifat eksperimental dan mungkin tidak berfungsi seperti yang diharapkan.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Tidak Valid
+customkeys-key-clear =
+    .aria-label = Bersihkan
+    .tooltiptext = Bersihkan
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Tekan tombol baru:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
