@@ -130,8 +130,8 @@ smart-window-grouped-tabs-label =
 #   $label (string) - The label of the tab group
 smart-window-grouped-tabs-summary =
     { $count ->
-        [one] Création du groupe « { $label } » et ajout de l’onglet { $count }.
-       *[other] A créé le groupe « { $label } » et ajouté { $count } onglets.
+        [1] Création du groupe « { $label } » et ajout d’un onglet.
+       *[other] Création du groupe « { $label } » et ajout de { $count } onglets.
     }
 smart-window-grouped-tabs-row-label = Onglets regroupés
 # Action result labels for ungrouped tabs
@@ -140,32 +140,32 @@ smart-window-grouped-and-ungrouped-label = Onglets dissociés
 #   $count (number) - Number of tabs ungrouped
 smart-window-ungroup-success-summary =
     { $count ->
-        [one] { $count } onglets regroupés, puis dissociés.
-       *[other] { $count } onglets regroupés, puis dissociés.
+        [one] { $count } onglet regroupé, puis dissocié.
+       *[other] { $count } onglets regroupés, puis dissociés.
     }
 smart-window-ungrouped-row-label =
     { $count ->
-        [one] Onglet dissocié { $count }
-       *[other] Onglets dissociés de { $count }
+        [one] { $count } onglet dissocié
+       *[other] { $count } onglets dissociés
     }
 
 ## Action log
 
-action-log-searching-tabs = Recherche dans les onglets
-action-log-searched-open-tabs = Onglets ouverts recherchés
+action-log-searching-tabs = Recherche parmi les onglets
+action-log-searched-open-tabs = Recherche parmi les onglets ouverts effectuée
 action-log-searching-history = Recherche dans l’historique
-action-log-searched-history = Historique des recherches
-action-log-reading-page = Page de lecture
+action-log-searched-history = Recherche dans l’historique effectuée
+action-log-reading-page = Consultation d’une page
 # Read is past tense, to indicate that the action has been completed.
-action-log-read-page = Lire le contenu de la page
-action-log-searching-web = Rechercher sur le Web
-action-log-searched-web = Recherche sur le Web
-action-log-checking-memories = Vérification des mémoires
-action-log-checked-memories = Mémoires cochées
-action-log-searching-settings = Recherche de paramètres
-action-log-searched-settings = Paramètres recherchés
-action-log-searching-world-cup-matches = Recherche de matches de Coupe du monde
-action-log-searched-world-cup-matches = Matches de Coupe du monde recherchés
+action-log-read-page = Contenu d’une page consulté
+action-log-searching-web = Recherche sur le Web
+action-log-searched-web = Recherche sur le Web effectuée
+action-log-checking-memories = Consultation des souvenirs
+action-log-checked-memories = Souvenirs consultés
+action-log-searching-settings = Recherche dans les paramètres
+action-log-searched-settings = Rechercher dans les paramètres effectuée
+action-log-searching-world-cup-matches = Recherche des matchs de la Coupe du monde
+action-log-searched-world-cup-matches = Recherche des matchs de la Coupe du monde effectuée
 action-log-checking-world-cup-live = Consulter les matches de la Coupe du monde en direct
 action-log-checked-world-cup-live = Matches de la Coupe du monde consultés en direct
 # Variables
