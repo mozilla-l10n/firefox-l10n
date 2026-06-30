@@ -63,9 +63,31 @@ smart-window-model-custom-save-confirmation = Detalios de modello salvate. Initi
 ai-window-memories-section =
     .label = Memorias
     .description = { -brand-short-name } pote apprender ab tu activitate a crear memorias.
+ai-window-learn-from-chat-activity =
+    .label = Apprende ab chats in { -smart-window-brand-name }
+ai-window-learn-from-browsing-activity =
+    .label = Apprende ab navigar in Classic e { -smart-window-brand-name(plural-form: "true") }
 ai-window-manage-memories-button =
     .label = Gerer memorias
+ai-window-manage-memories-header =
+    .heading = Gerer memorias
+    .description = Memorias es reservate localmente sur iste apparato pro adjutar a proteger tu confidentialitate. Illes actualisa alcun vices per die dum tu usa { -smart-window-brand-name }, assi un activitate recente pote emplear tempore pro esser reflectite.
+ai-window-no-memories =
+    .label = Necun memoria ancora
+    .description = Dum { -smart-window-brand-name } apprende ab tu activitate, tu videra memorias ci.
+ai-window-no-memories-learning-off =
+    .label = Necun memoria a monstrar
+    .description = Le apprendimento ab le activitate es disactivate, assi { -smart-window-brand-name } non crea memorias.
 ai-window-delete-all-memories-button =
     .label = Deler toto
+ai-window-delete-all-memories-title = Deler tote le memorias?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Si tu non vole alcun nove memorias create, dismarca le optiones pro “Apprender ab…” in configurationes de { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Deler
 ai-window-delete-all-memories-cancel = Cancellar
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Deler memoria
+    .aria-label = Deler { $label }
