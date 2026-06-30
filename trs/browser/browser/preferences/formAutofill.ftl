@@ -101,8 +101,14 @@ autofill-country-warning-message = Nej sa nachra ma'ān ni si daran' hiuj 'iah s
 autofill-add-new-card-title = Nuto' Tarjeta Yikíin
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Nagi'iô' Tarjeta Yikíin
+autofill-card-number-2 =
+    .label = Si Numero Tarjeta
 autofill-card-number = Si Numero Tarjeta
 autofill-card-invalid-number = Gi'iaj 'ngo sunnuj u ni, gachrun si da'nga si tarjetat
+autofill-card-name-on-card-2 =
+    .label = Si yugui tarjeta
+autofill-card-billing-address-2 =
+    .label = Direksiôn faktura
 autofill-card-name-on-card = Si yugui tarjeta
 autofill-card-expires-month = Ahui ganahuij ma
 autofill-card-expires-year = Hio' ganahuij ma

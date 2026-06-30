@@ -147,8 +147,14 @@ autofill-message-tooltip = הצגת הודעה על מילוי אוטומטי
 autofill-add-card-title = הוספת כרטיס
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = עריכת כרטיס
+autofill-card-number-2 =
+    .label = מספר כרטיס
 autofill-card-number = מספר כרטיס
 autofill-card-invalid-number = נא להקליד מספר כרטיס תקני
+autofill-card-name-on-card-2 =
+    .label = שם שעל הכרטיס
+autofill-card-billing-address-2 =
+    .label = כתובת חיוב
 autofill-card-name-on-card = שם שעל הכרטיס
 autofill-card-expires-month = חודש תפוגה
 autofill-card-expires-year = שנת תפוגה

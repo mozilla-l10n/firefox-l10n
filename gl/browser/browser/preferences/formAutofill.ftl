@@ -147,8 +147,14 @@ autofill-message-tooltip = Ver mensaxe sobre autocompletar
 autofill-add-card-title = Engadir a tarxeta
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Editar a tarxeta
+autofill-card-number-2 =
+    .label = Número da tarxeta
 autofill-card-number = Número da tarxeta
 autofill-card-invalid-number = Introduza un número de tarxeta válido
+autofill-card-name-on-card-2 =
+    .label = Nome do titular
+autofill-card-billing-address-2 =
+    .label = Enderezo de facturación
 autofill-card-name-on-card = Nome do titular
 autofill-card-expires-month = Mes de caducidade
 autofill-card-expires-year = Ano de caducidade

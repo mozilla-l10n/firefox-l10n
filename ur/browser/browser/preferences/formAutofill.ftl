@@ -101,8 +101,14 @@ autofill-country-warning-message = فارم آٹوفل فی الحال صرف م
 autofill-add-new-card-title = نیا کریڈٹ کارڈ شامل کریں
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = کریڈٹ کارڈ میں ترمیم کریں
+autofill-card-number-2 =
+    .label = کارڈ کا نمبر
 autofill-card-number = کارڈ کا نمبر
 autofill-card-invalid-number = کوئی جائز کار ڈ نمبر داخل کریں
+autofill-card-name-on-card-2 =
+    .label = کارڈ پر نام
+autofill-card-billing-address-2 =
+    .label = بل کا پتہ
 autofill-card-name-on-card = کارڈ پر نام
 autofill-card-expires-month = اختتامی مہینہ
 autofill-card-expires-year = اختتامی سال

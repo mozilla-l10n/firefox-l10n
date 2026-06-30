@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = اختصارات لوحة المفاتيح
 customkeys-search = ابحث:
 customkeys-change = غيّر
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = اذهب إلى آخر لسان
 customkeys-nav-toggle-mute = اكتم/ألغِ كتم الصوت
 customkeys-edit-find-previous = ابحث عن السابق
 customkeys-tools-screenshot = خذ لقطة شاشة
+customkeys-category-navigation-2 =
+    .heading = تصفّح
 customkeys-caution-message = هذه الميزة تجريبية وقد لا تعمل كما هو متوقع.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = غير صالحة
+customkeys-key-clear =
+    .aria-label = مسح
+    .tooltiptext = مسح
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = اضغط على مفتاح جديد:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

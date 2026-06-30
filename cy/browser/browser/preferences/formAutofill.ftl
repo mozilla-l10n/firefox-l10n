@@ -147,8 +147,14 @@ autofill-message-tooltip = Gweld neges am awtolenwi
 autofill-add-card-title = Ychwanegu cerdyn
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Golygu cerdyn
+autofill-card-number-2 =
+    .label = Rhif y Cerdyn
 autofill-card-number = Rhif y Cerdyn
 autofill-card-invalid-number = Rhowch rif cerdyn dilys
+autofill-card-name-on-card-2 =
+    .label = Enw ar y Cerdyn
+autofill-card-billing-address-2 =
+    .label = Cyfeiriad Archebion
 autofill-card-name-on-card = Enw ar y Cerdyn
 autofill-card-expires-month = Mis Dod i Ben
 autofill-card-expires-year = Blwyddyn Daw i Ben

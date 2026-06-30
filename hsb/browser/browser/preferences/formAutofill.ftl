@@ -147,8 +147,14 @@ autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
 autofill-add-card-title = Kartu přidać
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kartu wobdźěłać
+autofill-card-number-2 =
+    .label = Kartowe čisło
 autofill-card-number = Kartowe čisło
 autofill-card-invalid-number = Prošu zapodajće płaćiwe kartowe čisło
+autofill-card-name-on-card-2 =
+    .label = Mjeno na karće
+autofill-card-billing-address-2 =
+    .label = Zličbowanska adresa
 autofill-card-name-on-card = Mjeno na karće
 autofill-card-expires-month = Wotběžny měsac
 autofill-card-expires-year = Wotběžne lěto

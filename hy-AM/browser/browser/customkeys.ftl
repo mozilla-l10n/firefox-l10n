@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Ստեղնաշարի դյուրանցումներ
 customkeys-search = Որոնում.
 customkeys-change = Փոխել
@@ -37,5 +40,21 @@ customkeys-nav-select-last-tab = Անցնել Վերջին ներդիրին
 customkeys-nav-toggle-mute = Անջատել/Միացնել ձայնը
 customkeys-edit-find-previous = Գտնել նախորդը
 customkeys-tools-screenshot = Ստանալ էկրանի հանույթը
+customkeys-category-navigation-2 =
+    .heading = Նավարկում
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Անվավեր
+customkeys-key-clear =
+    .aria-label = Մաքրել
+    .tooltiptext = Մաքրել
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Սեղմեք նոր ստեղնը՝
+
+## Confirmation dialogs
+
+
+## Sidebar
+

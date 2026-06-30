@@ -147,8 +147,14 @@ autofill-message-tooltip = Дидани паём дар бораи пуркун�
 autofill-add-card-title = Илова кардани корт
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Таҳрир кардани корт
+autofill-card-number-2 =
+    .label = Рақами корт
 autofill-card-number = Рақами корт
 autofill-card-invalid-number = Лутфан, рақами корти дурустро ворид намоед
+autofill-card-name-on-card-2 =
+    .label = Ном дар корт
+autofill-card-billing-address-2 =
+    .label = Нишонӣ барои санади ҳисоббарорӣ
 autofill-card-name-on-card = Ном дар корт
 autofill-card-expires-month = Моҳи анҷоми муҳлат
 autofill-card-expires-year = Соли анҷоми муҳлат

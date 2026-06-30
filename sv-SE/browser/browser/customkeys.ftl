@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Tangentbordsgenvägar
 customkeys-search = Sök:
 customkeys-change = Ändra
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Gå till sista flik
 customkeys-nav-toggle-mute = Ljud av/på
 customkeys-edit-find-previous = Sök tidigare
 customkeys-tools-screenshot = Ta en skärmbild
+customkeys-category-navigation-2 =
+    .heading = Navigering
 customkeys-caution-message = Den här funktionen är experimentell och kanske inte fungerar som förväntat.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ogiltig
+customkeys-key-clear =
+    .aria-label = Rensa
+    .tooltiptext = Rensa
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Tryck på ny tangent:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

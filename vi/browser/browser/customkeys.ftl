@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Các phím tắt bàn phím
 customkeys-search = Tìm kiếm:
 customkeys-change = Thay đổi
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Đi đến thẻ cuối cùng
 customkeys-nav-toggle-mute = Tắt/bật tiếng âm thanh
 customkeys-edit-find-previous = Tìm trước đó
 customkeys-tools-screenshot = Chụp ảnh màn hình
+customkeys-category-navigation-2 =
+    .heading = Điều hướng
 customkeys-caution-message = Tính năng này đang trong giai đoạn thử nghiệm và có thể không hoạt động như mong đợi.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Không hợp lệ
+customkeys-key-clear =
+    .aria-label = Xóa
+    .tooltiptext = Xóa
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Nhấn phím mới:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

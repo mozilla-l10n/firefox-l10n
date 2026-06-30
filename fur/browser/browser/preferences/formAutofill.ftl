@@ -147,8 +147,14 @@ autofill-message-tooltip = Mostre messaç su la compilazion automatiche
 autofill-add-card-title = Zonte cjarte
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Modifiche cjarte
+autofill-card-number-2 =
+    .label = Numar de cjarte
 autofill-card-number = Numar de cjarte
 autofill-card-invalid-number = Inserìs un numar di cjarte valit
+autofill-card-name-on-card-2 =
+    .label = Non su la cjarte
+autofill-card-billing-address-2 =
+    .label = Recapit pe fature
 autofill-card-name-on-card = Non su la cjarte
 autofill-card-expires-month = Scjad. mês
 autofill-card-expires-year = Scjad. an

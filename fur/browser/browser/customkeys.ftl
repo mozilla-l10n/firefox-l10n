@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Scurtis di tastiere
 customkeys-search = Cîr:
 customkeys-change = Modifiche
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Va ae ultime schede
 customkeys-nav-toggle-mute = Cidine/ative audio
 customkeys-edit-find-previous = Cjate prime
 customkeys-tools-screenshot = Cature une videade
+customkeys-category-navigation-2 =
+    .heading = Navigazion
 customkeys-caution-message = Cheste funzion e je sperimentâl e al è probabil che no funzioni tant che previodût.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = No valit
+customkeys-key-clear =
+    .aria-label = Nete
+    .tooltiptext = Nete
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Frache un gnûf tast:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

@@ -21,7 +21,22 @@ autofill-address-organization = Organisatioun
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
+
+
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
+
 autofill-address-province = Provënz
+
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
+
 
 ##
 
@@ -30,5 +45,12 @@ autofill-address-tel = Telefon
 autofill-address-email = E-Mail
 autofill-cancel-button = Ofbriechen
 autofill-save-button = Späicheren
+autofill-card-number-2 =
+    .label = Kaartennummer
 autofill-card-number = Kaartennummer
+autofill-card-name-on-card-2 =
+    .label = Numm op der Kaart
 autofill-card-name-on-card = Numm op der Kaart
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+

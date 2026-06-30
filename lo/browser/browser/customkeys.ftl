@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = ແປ້ນພີມລັດ
 customkeys-search = ຄົ້ນຫາ:
 customkeys-change = ປ່ຽນ
@@ -18,3 +21,19 @@ customkeys-nav-forward = ໄປໜ້າ
 customkeys-nav-home = ໜ້າທຳອິດ
 customkeys-nav-reload = ໂຫຼດຄືນໃໝ່
 customkeys-nav-stop = ຢຸດ
+customkeys-category-navigation-2 =
+    .heading = ການນຳທາງ
+customkeys-key-clear =
+    .aria-label = ລຶບລ້າງ
+    .tooltiptext = ລຶບລ້າງ
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = ກົດປຸ່ມໃໝ່:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

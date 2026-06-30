@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Пречице тастатуре
 customkeys-search = Претрага:
 customkeys-change = Промени
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Иди на последњи језичак
 customkeys-nav-toggle-mute = Утишај/појачај звук
 customkeys-edit-find-previous = Нађи претходно
 customkeys-tools-screenshot = Направи снимак екрана
+customkeys-category-navigation-2 =
+    .heading = Навигација
 customkeys-caution-message = Ова функција је експериментална и можда неће радити према очекивањима.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Неисправно
+customkeys-key-clear =
+    .aria-label = Очисти
+    .tooltiptext = Очисти
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Притисните нови тастер:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

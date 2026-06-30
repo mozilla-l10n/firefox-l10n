@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Συντομεύσεις πληκτρολογίου
 customkeys-search = Αναζήτηση:
 customkeys-change = Αλλαγή
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Μετάβαση στην τελευταία κ
 customkeys-nav-toggle-mute = Σίγαση/Άρση σίγασης ήχου
 customkeys-edit-find-previous = Εύρεση προηγουμένου
 customkeys-tools-screenshot = Λήψη στιγμιότυπου
+customkeys-category-navigation-2 =
+    .heading = Πλοήγηση
 customkeys-caution-message = Αυτή η λειτουργία είναι πειραματική και ενδέχεται να μην λειτουργεί με τον αναμενόμενο τρόπο.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Μη έγκυρο
+customkeys-key-clear =
+    .aria-label = Απαλοιφή
+    .tooltiptext = Απαλοιφή
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Πατήστε νέο πλήκτρο:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

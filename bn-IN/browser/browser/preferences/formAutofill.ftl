@@ -7,30 +7,29 @@
 
 autofill-manage-addresses-title = সংরক্ষিত ঠিকানাগুলি
 autofill-manage-addresses-list-header = ঠিকানাসমূহ
-
 autofill-manage-credit-cards-title = সংরক্ষিত ক্রেডিট কার্ডগুলি
 autofill-manage-credit-cards-list-header = ক্রেডিট কার্ডগুলি
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = মুছে ফেলুন
 autofill-manage-add-button = যুক্ত করুন…
 autofill-manage-edit-button = সম্পাদনা…
 
-##
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = নতুন ঠিকানাগুলি যোগ করুন
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ঠিকানাগুলি সম্পাদন করুন
-
 autofill-address-given-name = প্রথম নাম
 autofill-address-additional-name = নামের মধ্যাংশ
 autofill-address-family-name = পদবি
 autofill-address-organization = প্রতিষ্ঠান
 autofill-address-street = রাস্তার ঠিকানা
 
-## address-level-3 (Sublocality) names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # Used in IR, MX
 autofill-address-neighborhood = পাড়া
@@ -40,7 +39,9 @@ autofill-address-island = দ্বীপ
 # Used in IE
 autofill-address-townland = টাউনলান্ড
 
-## address-level-2 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-city = শহর
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
@@ -50,7 +51,9 @@ autofill-address-post-town = উপশহর
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = শহরতলি
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = প্রদেশ
 autofill-address-state = রাজ্য
@@ -70,7 +73,9 @@ autofill-address-emirate = আমিরশাহী
 # Used in RU and UA
 autofill-address-oblast = Oblast
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # Used in IN
 autofill-address-pin = পিন
@@ -81,21 +86,26 @@ autofill-address-eircode = ইয়ারকোড
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = নতুন ঠিকানাগুলি যোগ করুন
 autofill-address-country = দেশ বা অঞ্চল
 autofill-address-tel = ফোন
 autofill-address-email = ইমেইল
-
 autofill-cancel-button = বাতিল
 autofill-save-button = সংরক্ষণ করুন
 autofill-country-warning-message = ফর্ম স্বতঃপূর্ণ বর্তমানে কেবলমাত্র নির্দিষ্ট দেশগুলির জন্য উপলব্ধ।
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = নতুন ক্রেডিট কার্ড যোগ করুন
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ক্রেডিট কার্ড সম্পাদনা করুন
-
+autofill-card-number-2 =
+    .label = কার্ড নম্বর
 autofill-card-number = কার্ড নম্বর
 autofill-card-invalid-number = অনুগ্রহ করে বৈধ কার্ড নম্বর উল্লেখ করুন
+autofill-card-name-on-card-2 =
+    .label = কার্ডের উপর নাম
+autofill-card-billing-address-2 =
+    .label = বিল পাঠানোর ঠিকানা
 autofill-card-name-on-card = কার্ডের উপর নাম
 autofill-card-expires-month = মেয়াদোত্তীর্ণের মাস
 autofill-card-expires-year = মেয়াদোত্তীর্ণের বছর
@@ -113,4 +123,3 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ভিসা
-

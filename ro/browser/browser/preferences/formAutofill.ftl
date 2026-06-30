@@ -147,8 +147,14 @@ autofill-message-tooltip = Vezi mesajul despre completarea automată
 autofill-add-card-title = Adaugă card
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Editează card
+autofill-card-number-2 =
+    .label = Numărul cardului
 autofill-card-number = Numărul cardului
 autofill-card-invalid-number = Te rugăm să introduci un număr de card valid
+autofill-card-name-on-card-2 =
+    .label = Numele de pe card
+autofill-card-billing-address-2 =
+    .label = Adresă de facturare
 autofill-card-name-on-card = Numele de pe card
 autofill-card-expires-month = Luna expirării
 autofill-card-expires-year = Anul expirării

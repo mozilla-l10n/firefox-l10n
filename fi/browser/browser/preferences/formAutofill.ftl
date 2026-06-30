@@ -147,8 +147,14 @@ autofill-message-tooltip = Näytä automaattista täyttöä koskeva viesti
 autofill-add-card-title = Lisää kortti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Muokkaa korttia
+autofill-card-number-2 =
+    .label = Luottokortti
 autofill-card-number = Luottokortti
 autofill-card-invalid-number = Kirjoita kelvollinen luottokortin numero
+autofill-card-name-on-card-2 =
+    .label = Nimi kortissa
+autofill-card-billing-address-2 =
+    .label = Laskutusosoite
 autofill-card-name-on-card = Nimi kortissa
 autofill-card-expires-month = Vanhenemiskuukausi
 autofill-card-expires-year = Vanhenemisvuosi

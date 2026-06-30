@@ -147,8 +147,14 @@ autofill-message-tooltip = اعرض رسالة حول الملء الآلي
 autofill-add-card-title = أضف بطاقة
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = حرّر البطاقة
+autofill-card-number-2 =
+    .label = رقم البطاقة
 autofill-card-number = رقم البطاقة
 autofill-card-invalid-number = رجاءً أدخِل اسم بطاقة سليم
+autofill-card-name-on-card-2 =
+    .label = الاسم على البطاقة
+autofill-card-billing-address-2 =
+    .label = عنوان إرسال الفواتير
 autofill-card-name-on-card = الاسم على البطاقة
 autofill-card-expires-month = شهر انقضاء الصلاحية
 autofill-card-expires-year = سنة انقضاء الصلاحية

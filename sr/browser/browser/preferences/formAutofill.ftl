@@ -147,8 +147,14 @@ autofill-message-tooltip = Погледајте поруку о аутоматс
 autofill-add-card-title = Додај картицу
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Уреди картицу
+autofill-card-number-2 =
+    .label = Број картице
 autofill-card-number = Број картице
 autofill-card-invalid-number = Унесите исправан број картице
+autofill-card-name-on-card-2 =
+    .label = Име на картици
+autofill-card-billing-address-2 =
+    .label = Адреса за наплату
 autofill-card-name-on-card = Име на картици
 autofill-card-expires-month = Месец ист.
 autofill-card-expires-year = Година ист.

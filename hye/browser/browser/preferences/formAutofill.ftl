@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկութիւն։ Ստորեւ հաստատէք մուտքը Windows-ի սոյն հաշիւ։
        *[other] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկութիւնը։
     }
+autofill-card-number-2 =
+    .label = Քատի համարը
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Գրանցէք վաւեր քարտի համար
+autofill-card-name-on-card-2 =
+    .label = Անունը քարտի վրա
+autofill-card-billing-address-2 =
+    .label = Վճարման հասցէ
 autofill-card-name-on-card = Անունը քարտի վրա
 autofill-card-expires-month = Սպառման ամիս
 autofill-card-expires-year = Սպառման տարի

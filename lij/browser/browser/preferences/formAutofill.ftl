@@ -101,8 +101,14 @@ autofill-country-warning-message = E form aoto-inpimento en disponibili solo in 
 autofill-add-new-card-title = Azonzi neuva carta de credito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Cangia carta de credito
+autofill-card-number-2 =
+    .label = Numero carta
 autofill-card-number = Numero carta
 autofill-card-invalid-number = Pe piaxei scrivi 'n numero de carta ch'o segge bon
+autofill-card-name-on-card-2 =
+    .label = Nomme in sciâ carta
+autofill-card-billing-address-2 =
+    .label = Indirisso de fatuaçion
 autofill-card-name-on-card = Nomme in sciâ carta
 autofill-card-expires-month = Scazze o meize
 autofill-card-expires-year = Scazze l'anno

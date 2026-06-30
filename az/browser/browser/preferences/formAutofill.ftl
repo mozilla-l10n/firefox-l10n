@@ -101,8 +101,14 @@ autofill-country-warning-message = Forma avto doldurma hazırda ancaq bəzi ölk
 autofill-add-new-card-title = Yeni kredit kartı əlavə et
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kredit kartını dəyişdir
+autofill-card-number-2 =
+    .label = Kart nömrəsi
 autofill-card-number = Kart nömrəsi
 autofill-card-invalid-number = Lütfən, keçərli kart nömrəsi daxil edin
+autofill-card-name-on-card-2 =
+    .label = Kart üzərindəki ad
+autofill-card-billing-address-2 =
+    .label = Faktura ünvanı
 autofill-card-name-on-card = Kart üzərindəki ad
 autofill-card-expires-month = Vaxtı çıxma ayı
 autofill-card-expires-year = Vaxtı çıxma ili

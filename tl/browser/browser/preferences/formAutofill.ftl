@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] Sinusubukan ng { -brand-short-name } na magpakita ng credit card information. I-confirm sa baba ang access sa Windows account na ito.
        *[other] Sinusubukan ng { -brand-short-name } na magpakita ng credit card information.
     }
+autofill-card-number-2 =
+    .label = Card Number
 autofill-card-number = Card Number
 autofill-card-invalid-number = Magpasok ng tamang card number
+autofill-card-name-on-card-2 =
+    .label = Pangalan sa Card
+autofill-card-billing-address-2 =
+    .label = Tirahan
 autofill-card-name-on-card = Pangalan sa Card
 autofill-card-expires-month = Buwan ng Expiry
 autofill-card-expires-year = Taon ng Expiry

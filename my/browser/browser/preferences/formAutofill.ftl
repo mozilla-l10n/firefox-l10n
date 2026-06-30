@@ -80,7 +80,11 @@ autofill-address-tel = ဖုန်း
 autofill-address-email = အီးမေးလ်
 autofill-cancel-button = မလုပ်ဆောင်တော့ပါ
 autofill-save-button = သိမ်းထားပါ
+autofill-card-number-2 =
+    .label = ကတ် နံပတ်
 autofill-card-number = ကတ် နံပတ်
+autofill-card-name-on-card-2 =
+    .label = ကတ်ပေါ်ရှိ နာမည်
 autofill-card-name-on-card = ကတ်ပေါ်ရှိ နာမည်
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

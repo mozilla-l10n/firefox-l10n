@@ -147,8 +147,14 @@ autofill-message-tooltip = Powěźeńku wó awtomatiskem wupołnjenju pokazaś
 autofill-add-card-title = Kórtu pśidaś
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kórtu wobźěłaś
+autofill-card-number-2 =
+    .label = Numer kórty
 autofill-card-number = Numer kórty
 autofill-card-invalid-number = Pšosym zapódajśo płaśiwy kórtowy numer
+autofill-card-name-on-card-2 =
+    .label = Mě na kórśe
+autofill-card-billing-address-2 =
+    .label = Zliceńska adresa
 autofill-card-name-on-card = Mě na kórśe
 autofill-card-expires-month = Wótběgowy mjasec
 autofill-card-expires-year = Wótběgowe lěto

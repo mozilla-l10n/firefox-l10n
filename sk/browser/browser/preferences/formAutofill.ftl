@@ -147,8 +147,14 @@ autofill-message-tooltip = Zobraziť správu o automatickom dopĺňaní
 autofill-add-card-title = Pridanie karty
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Upraviť údaje o karte
+autofill-card-number-2 =
+    .label = Číslo karty
 autofill-card-number = Číslo karty
 autofill-card-invalid-number = Prosím, zadajte platné číslo platobnej karty
+autofill-card-name-on-card-2 =
+    .label = Meno na karte
+autofill-card-billing-address-2 =
+    .label = Fakturačná adresa
 autofill-card-name-on-card = Meno na karte
 autofill-card-expires-month = Mesiac konca platnosti
 autofill-card-expires-year = Rok konca platnosti

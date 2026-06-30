@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Tipkovni prečaci
 customkeys-search = Traži:
 customkeys-change = Promijeni
@@ -37,6 +40,22 @@ customkeys-nav-home = Početna stranica
 customkeys-nav-reload = Učitaj ponovo
 customkeys-nav-reload-skip-cache = Učitaj ponovo (nadjačaj predmemoriju)
 customkeys-nav-stop = Zaustavi
+customkeys-category-navigation-2 =
+    .heading = Navigacija
 customkeys-caution-message = Ovo je eksperimentalna funkcija i možda neće raditi kako se očekuje.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevažeći
+customkeys-key-clear =
+    .aria-label = Izbriši
+    .tooltiptext = Izbriši
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Pritisni novu tipku:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

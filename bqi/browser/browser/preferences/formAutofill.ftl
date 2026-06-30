@@ -136,7 +136,13 @@ autofill-edit-card-title = آلشت کارت ائتواری
 autofill-add-card-title = ٱووردن کارت
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = آلشت کارت
+autofill-card-number-2 =
+    .label = شوماره کارت
 autofill-card-number = شوماره کارت
+autofill-card-name-on-card-2 =
+    .label = نوم ری کارت
+autofill-card-billing-address-2 =
+    .label = نشۊوی قبز
 autofill-card-name-on-card = نوم ری کارت
 autofill-card-billing-address = نشۊوی قبز
 autofill-card-network = نوع کارت

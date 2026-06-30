@@ -147,8 +147,14 @@ autofill-message-tooltip = Προβολή μηνύματος σχετικά με
 autofill-add-card-title = Προσθήκη κάρτας
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Επεξεργασία κάρτας
+autofill-card-number-2 =
+    .label = Αριθμός κάρτας
 autofill-card-number = Αριθμός κάρτας
 autofill-card-invalid-number = Εισαγάγετε έναν έγκυρο αριθμό κάρτας
+autofill-card-name-on-card-2 =
+    .label = Όνομα στην κάρτα
+autofill-card-billing-address-2 =
+    .label = Διεύθυνση χρέωσης
 autofill-card-name-on-card = Όνομα στην κάρτα
 autofill-card-expires-month = Μήνας λήξης
 autofill-card-expires-year = Έτος λήξης

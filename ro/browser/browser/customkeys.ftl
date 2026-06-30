@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Comenzi rapide din tastatură
 customkeys-search = Căutare:
 customkeys-change = Modifică
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Mergi la ultima filă
 customkeys-nav-toggle-mute = Activare/dezactivare sonor
 customkeys-edit-find-previous = Mergi la rezultatul anterior
 customkeys-tools-screenshot = Fă o captură de ecran
+customkeys-category-navigation-2 =
+    .heading = Navigare
 customkeys-caution-message = Funcția este experimentală și este posibil să nu funcționeze conform așteptărilor.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevalidă
+customkeys-key-clear =
+    .aria-label = Șterge
+    .tooltiptext = Șterge
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Apasă tasta nouă:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

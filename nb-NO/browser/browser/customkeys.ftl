@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Hurtigtaster
 customkeys-search = Søk:
 customkeys-change = Endre
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Gå til siste fane
 customkeys-nav-toggle-mute = Lyd av/på
 customkeys-edit-find-previous = Søk etter forrige
 customkeys-tools-screenshot = Ta et skjermbilde
+customkeys-category-navigation-2 =
+    .heading = Navigasjon
 customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere annerledes enn forventet.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
+customkeys-key-clear =
+    .aria-label = Tøm
+    .tooltiptext = Tøm
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Trykk ny hurtigtast:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

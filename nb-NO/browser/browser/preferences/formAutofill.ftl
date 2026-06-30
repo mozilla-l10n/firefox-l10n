@@ -147,8 +147,14 @@ autofill-message-tooltip = Se melding om autofyll
 autofill-add-card-title = Legg til kort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Rediger kort
+autofill-card-number-2 =
+    .label = Kortnummer
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Skriv inn et gyldig kortnummer
+autofill-card-name-on-card-2 =
+    .label = Navn på kort
+autofill-card-billing-address-2 =
+    .label = Fakturaadresse
 autofill-card-name-on-card = Navn på kort
 autofill-card-expires-month = Utløpsmåned
 autofill-card-expires-year = Utløpsår

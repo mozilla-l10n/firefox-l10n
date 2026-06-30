@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Alirklavoj
 customkeys-search = Serĉi:
 customkeys-change = Ŝanĝi
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Iri al la lasta langeto
 customkeys-nav-toggle-mute = Silentigi/Malsilentigi
 customkeys-edit-find-previous = Serĉi antaŭan
 customkeys-tools-screenshot = Fari ekrankopion
+customkeys-category-navigation-2 =
+    .heading = Esplorado
 customkeys-caution-message = Tiu ĉi trajto estas eksperimenta kaj ĝi povus ne funkcii kiel oni atendas.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevalida
+customkeys-key-clear =
+    .aria-label = Viŝi
+    .tooltiptext = Viŝi
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Premu novan klavon:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

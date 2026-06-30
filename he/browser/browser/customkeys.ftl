@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = קיצורי מקלדת
 customkeys-search = חיפוש:
 customkeys-change = שינוי
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = מעבר ללשונית האחרונה
 customkeys-nav-toggle-mute = השתקה/ביטול השתקה של שמע
 customkeys-edit-find-previous = מצא את הקודם
 customkeys-tools-screenshot = צילום מסך
+customkeys-category-navigation-2 =
+    .heading = ניווט
 customkeys-caution-message = תכונה זו היא ניסיונית וייתכן שלא תפעל כצפוי.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = לא חוקי
+customkeys-key-clear =
+    .aria-label = ניקוי
+    .tooltiptext = ניקוי
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = נא להקיש על מקש חדש:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

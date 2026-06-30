@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Fluchtoetsen
 customkeys-search = Sykje:
 customkeys-change = Wizigje
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Gean nei lêste ljepblêd
 customkeys-nav-toggle-mute = Lûd dempe/ûndempe
 customkeys-edit-find-previous = Foargeande sykje
 customkeys-tools-screenshot = Skermôfdruk meitsje
+customkeys-category-navigation-2 =
+    .heading = Navigaasje
 customkeys-caution-message = Dizze funksje is eksperiminteel en wurket miskien net sa as ferwachte.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Unjildich
+customkeys-key-clear =
+    .aria-label = Wiskje
+    .tooltiptext = Wiskje
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Druk op nije toets:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

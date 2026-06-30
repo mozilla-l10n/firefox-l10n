@@ -147,8 +147,14 @@ autofill-message-tooltip = შეტყობინების ნახვა 
 autofill-add-card-title = ბარათის დამატება
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = ბარათის ჩასწორება
+autofill-card-number-2 =
+    .label = ბარათის ნომერი
 autofill-card-number = ბარათის ნომერი
 autofill-card-invalid-number = გთხოვთ, მიუთითეთ ბარათის მართებული ნომერი
+autofill-card-name-on-card-2 =
+    .label = მფლობელის სახელი
+autofill-card-billing-address-2 =
+    .label = ანგარიშსწორების მისამართი
 autofill-card-name-on-card = მფლობელის სახელი
 autofill-card-expires-month = ვადის გასვლის თვე
 autofill-card-expires-year = ვადის გასვლის წელი

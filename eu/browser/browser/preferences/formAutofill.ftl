@@ -147,8 +147,14 @@ autofill-message-tooltip = Ikusi betetze automatikoaren mezua
 autofill-add-card-title = Gehitu txartela
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Editatu txartela
+autofill-card-number-2 =
+    .label = Txartelaren zenbakia
 autofill-card-number = Txartelaren zenbakia
 autofill-card-invalid-number = Idatzi baliozko txartel-zenbakia
+autofill-card-name-on-card-2 =
+    .label = Txarteleko izena
+autofill-card-billing-address-2 =
+    .label = Fakturazio-helbidea
 autofill-card-name-on-card = Txarteleko izena
 autofill-card-expires-month = Am. hilabetea
 autofill-card-expires-year = Am. urtea

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Klavye Kısayolları
 customkeys-search = Arama:
 customkeys-change = Değiştir
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Son sekmeye git
 customkeys-nav-toggle-mute = Sesi kapat/aç
 customkeys-edit-find-previous = Öncekini bul
 customkeys-tools-screenshot = Ekran görüntüsü al
+customkeys-category-navigation-2 =
+    .heading = Gezinme
 customkeys-caution-message = Bu özellik deneyseldir ve beklendiği gibi çalışmayabilir.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Geçersiz
+customkeys-key-clear =
+    .aria-label = Temizle
+    .tooltiptext = Temizle
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Yeni tuşa basın:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

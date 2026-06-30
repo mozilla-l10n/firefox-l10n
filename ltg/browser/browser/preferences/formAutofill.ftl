@@ -31,6 +31,11 @@ autofill-address-street = Adrese
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
+
 autofill-address-city = Piļsāta
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -62,9 +67,18 @@ autofill-country-warning-message = Formu automatiskō aizpiļdiešona ņiuļa ir
 autofill-add-new-card-title = Pīvīnōt jaunu bankas karti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Lobōt bankas kartes datus
+autofill-card-number-2 =
+    .label = Kartes numers
 autofill-card-number = Kartes numers
 autofill-card-invalid-number = Lyudzu, īvodi dereigu kartes numeri
+autofill-card-name-on-card-2 =
+    .label = Kartes eipašnīks
+autofill-card-billing-address-2 =
+    .label = Moksōšonys adrese
 autofill-card-name-on-card = Kartes eipašnīks
 autofill-card-expires-month = Deireiguma beigu mieness
 autofill-card-expires-year = Deireiguma beigu gods
 autofill-card-billing-address = Moksōšonys adrese
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+

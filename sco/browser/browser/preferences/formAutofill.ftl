@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } is tryin tae kythe credit caird information. Confirm ingang tae this Windows accoont ablow.
        *[other] { -brand-short-name } is tryin tae kythe credit caird information.
     }
+autofill-card-number-2 =
+    .label = Caird Nummer
 autofill-card-number = Caird Nummer
 autofill-card-invalid-number = Gonnae inpit a suithfest caird nummer
+autofill-card-name-on-card-2 =
+    .label = Nemme on Caird
+autofill-card-billing-address-2 =
+    .label = Billin Address
 autofill-card-name-on-card = Nemme on Caird
 autofill-card-expires-month = Exp. Month
 autofill-card-expires-year = Exp. Year

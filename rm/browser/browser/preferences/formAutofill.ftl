@@ -147,8 +147,14 @@ autofill-message-tooltip = Vesair il messadi davart l'endataziun automatica
 autofill-add-card-title = Agiuntar ina carta
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Modifitgar la carta
+autofill-card-number-2 =
+    .label = Numer da la carta
 autofill-card-number = Numer da la carta
 autofill-card-invalid-number = Endatescha p. pl. in numer da carta da credit valaivel
+autofill-card-name-on-card-2 =
+    .label = Num sin la carta
+autofill-card-billing-address-2 =
+    .label = Adressa da quint
 autofill-card-name-on-card = Num sin la carta
 autofill-card-expires-month = Mais scadenza
 autofill-card-expires-year = Onn scadenza

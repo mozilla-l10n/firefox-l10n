@@ -101,8 +101,14 @@ autofill-country-warning-message = Auto-isi Borang buat masa ini hanya tersedia 
 autofill-add-new-card-title = Tambah Kad Kredit Baru
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Kad Kredit
+autofill-card-number-2 =
+    .label = Nombor Kad
 autofill-card-number = Nombor Kad
 autofill-card-invalid-number = Sila masukkan nombor kad yang sah
+autofill-card-name-on-card-2 =
+    .label = Nama pada Kad
+autofill-card-billing-address-2 =
+    .label = Alamat Bil
 autofill-card-name-on-card = Nama pada Kad
 autofill-card-expires-month = Bulan Luput
 autofill-card-expires-year = Tahun Luput

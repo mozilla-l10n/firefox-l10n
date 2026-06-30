@@ -147,8 +147,14 @@ autofill-message-tooltip = Otomatik doldurma ile ilgili iletiyi görüntüle
 autofill-add-card-title = Kart ekle
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kartı düzenle
+autofill-card-number-2 =
+    .label = Kart numarası
 autofill-card-number = Kart numarası
 autofill-card-invalid-number = Lütfen geçerli bir kart numarası yazın
+autofill-card-name-on-card-2 =
+    .label = Kart üzerindeki ad
+autofill-card-billing-address-2 =
+    .label = Fatura adresi
 autofill-card-name-on-card = Kart üzerindeki ad
 autofill-card-expires-month = Son kul. ayı
 autofill-card-expires-year = Son kul. yılı

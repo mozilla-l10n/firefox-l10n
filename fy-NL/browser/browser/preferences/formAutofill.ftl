@@ -147,8 +147,14 @@ autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
 autofill-add-card-title = Kaart tafoegje
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Kaart bewurkje
+autofill-card-number-2 =
+    .label = Kaartnûmer
 autofill-card-number = Kaartnûmer
 autofill-card-invalid-number = Fier in jildich kaartnûmer yn
+autofill-card-name-on-card-2 =
+    .label = Namme op de kaart
+autofill-card-billing-address-2 =
+    .label = Faktueradres
 autofill-card-name-on-card = Namme op de kaart
 autofill-card-expires-month = Ferrinmoanne
 autofill-card-expires-year = Ferrinjier

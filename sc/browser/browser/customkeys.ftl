@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Curtzadòrgios de tecladu
 customkeys-search = Chirca:
 customkeys-change = Modifica
@@ -37,6 +40,22 @@ customkeys-nav-home = Pàgina printzipale
 customkeys-nav-reload = Torra a carrigare
 customkeys-nav-reload-skip-cache = Torra a carrigare (inniora sa memòria temporànea)
 customkeys-nav-stop = Firma
+customkeys-category-navigation-2 =
+    .heading = Navigatzione
 customkeys-caution-message = Custa funtzionalidade est esperimentale e podet èssere chi non funtzionet comente t’abetas.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Non vàlidu
+customkeys-key-clear =
+    .aria-label = Cantzella
+    .tooltiptext = Cantzella
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Incarca sa tecla noa:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

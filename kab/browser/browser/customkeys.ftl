@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Inegzumen n unasiw
 customkeys-search = Nadi:
 customkeys-change = Snifel
@@ -35,5 +38,21 @@ customkeys-nav-select-tab-8 = Ddu ɣer yiccer wis 8
 customkeys-nav-select-last-tab = Ddu ɣer yiccer aneggaru
 customkeys-edit-find-previous = Af-d uzwir
 customkeys-tools-screenshot = Ṭṭef agdil
+customkeys-category-navigation-2 =
+    .heading = Tunigin
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Arameɣtu
+customkeys-key-clear =
+    .aria-label = Sfeḍ
+    .tooltiptext = Sfeḍ
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Sit ɣef tqeffalt tamaynut:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

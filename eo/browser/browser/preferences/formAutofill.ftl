@@ -147,8 +147,14 @@ autofill-message-tooltip = Vidi mesaĝon pri aŭtomata plenigo de formularoj
 autofill-add-card-title = Aldoni kreditkarton
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Modifi kreditkarton
+autofill-card-number-2 =
+    .label = Numero de karto
 autofill-card-number = Numero de karto
 autofill-card-invalid-number = Bonvolu tajpi validan kartan numeron
+autofill-card-name-on-card-2 =
+    .label = Nomo sur karto
+autofill-card-billing-address-2 =
+    .label = Faktura adreso
 autofill-card-name-on-card = Nomo sur karto
 autofill-card-expires-month = Monato de senvalidiĝo
 autofill-card-expires-year = Jaro de senvalidiĝo

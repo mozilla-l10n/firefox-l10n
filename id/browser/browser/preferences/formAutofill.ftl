@@ -147,8 +147,14 @@ autofill-message-tooltip = Lihat pesan tentang isi otomatis
 autofill-add-card-title = Tambah kartu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Edit kartu
+autofill-card-number-2 =
+    .label = Nomor Kartu
 autofill-card-number = Nomor Kartu
 autofill-card-invalid-number = Masukkan nomor kartu yang valid
+autofill-card-name-on-card-2 =
+    .label = Nama pada Kartu
+autofill-card-billing-address-2 =
+    .label = Alamat Tagihan
 autofill-card-name-on-card = Nama pada Kartu
 autofill-card-expires-month = Bulan Kedaluwarsa
 autofill-card-expires-year = Tahun Kedaluwarsa

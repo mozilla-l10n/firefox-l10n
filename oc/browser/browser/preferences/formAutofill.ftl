@@ -146,8 +146,14 @@ autofill-edit-card-password-prompt =
 autofill-add-card-title = Apondre una carta
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Modificar la carta
+autofill-card-number-2 =
+    .label = Numèro de carta
 autofill-card-number = Numèro de carta
 autofill-card-invalid-number = Picatz un numèro de carta valid
+autofill-card-name-on-card-2 =
+    .label = Titular
+autofill-card-billing-address-2 =
+    .label = Adreça de facturacion
 autofill-card-name-on-card = Titular
 autofill-card-expires-month = Mes d’expiracion
 autofill-card-expires-year = Annada d’expiracion

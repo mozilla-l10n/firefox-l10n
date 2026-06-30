@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Gyorsbillentyűk
 customkeys-search = Keresés:
 customkeys-change = Módosítás
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Ugrás az utolsó lapra
 customkeys-nav-toggle-mute = Hang némítása be/ki
 customkeys-edit-find-previous = Előző keresése
 customkeys-tools-screenshot = Képernyőkép készítése
+customkeys-category-navigation-2 =
+    .heading = Navigáció
 customkeys-caution-message = Ez egy kísérleti funkció, és lehet, hogy nem a várt módon működik.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Érvénytelen
+customkeys-key-clear =
+    .aria-label = Törlés
+    .tooltiptext = Törlés
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Nyomja meg az új billentyűt:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

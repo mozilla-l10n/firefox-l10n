@@ -147,8 +147,14 @@ autofill-message-tooltip = Автоматты толтыру туралы хаб
 autofill-add-card-title = Картаны қосу
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Картаны түзету
+autofill-card-number-2 =
+    .label = Карта нөмірі
 autofill-card-number = Карта нөмірі
 autofill-card-invalid-number = Жарамды карта нөмірін енгізіңіз
+autofill-card-name-on-card-2 =
+    .label = Картадағы аты
+autofill-card-billing-address-2 =
+    .label = Шотты шығару адресі
 autofill-card-name-on-card = Картадағы аты
 autofill-card-expires-month = Мерз. аяқт. айы
 autofill-card-expires-year = Мерз. аяқт. жылы

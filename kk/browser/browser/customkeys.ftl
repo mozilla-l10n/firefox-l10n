@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Пернетақта жарлықтары
 customkeys-search = Іздеу:
 customkeys-change = Өзгерту
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Соңғы бетке өту
 customkeys-nav-toggle-mute = Дыбысты сөндіру/іске қосу
 customkeys-edit-find-previous = Алдыңғы сәйкестікті табу
 customkeys-tools-screenshot = Скриншотты түсіру
+customkeys-category-navigation-2 =
+    .heading = Навигация
 customkeys-caution-message = Бұл функция эксперименталды болып табылады және күткендегідей жұмыс істемеуі мүмкін.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Жарамсыз
+customkeys-key-clear =
+    .aria-label = Тазарту
+    .tooltiptext = Тазарту
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Жаңа пернені басыңыз:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

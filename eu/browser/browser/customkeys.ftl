@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Teklatuaren lasterbideak
 customkeys-search = Bilatu:
 customkeys-change = Aldatu
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Azken fitxara joan
 customkeys-nav-toggle-mute = Mututu/ez mututu audioa
 customkeys-edit-find-previous = Bilatu aurrekoa
 customkeys-tools-screenshot = Hartu pantaila-argazkia
+customkeys-category-navigation-2 =
+    .heading = Nabigazioa
 customkeys-caution-message = Eginbide hau esperimentala da eta baliteke behar bezala ez ibiltzea.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Baliogabea
+customkeys-key-clear =
+    .aria-label = Garbitu
+    .tooltiptext = Garbitu
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Sakatu tekla berria:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

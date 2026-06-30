@@ -147,8 +147,14 @@ autofill-message-tooltip = Prikaži sporočilo o samodejnem izpolnjevanju
 autofill-add-card-title = Dodaj kartico
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Uredi kartico
+autofill-card-number-2 =
+    .label = Številka kartice
 autofill-card-number = Številka kartice
 autofill-card-invalid-number = Vnesite veljavno številko kartice
+autofill-card-name-on-card-2 =
+    .label = Ime na kartici
+autofill-card-billing-address-2 =
+    .label = Naslov za izstavitev računa
 autofill-card-name-on-card = Ime na kartici
 autofill-card-expires-month = Mesec poteka
 autofill-card-expires-year = Leto poteka

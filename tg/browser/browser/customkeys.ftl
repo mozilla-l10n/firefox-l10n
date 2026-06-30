@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Миёнбурҳои клавиатура
 customkeys-search = Ҷустуҷӯ:
 customkeys-change = Тағйир додан
@@ -50,6 +53,22 @@ customkeys-nav-select-tab-7 = Гузариш ба варақаи 7
 customkeys-nav-select-tab-8 = Гузариш ба варақаи 8
 customkeys-nav-select-last-tab = Гузариш ба варақаи охирин
 customkeys-tools-screenshot = Гирифтани акси экран
+customkeys-category-navigation-2 =
+    .heading = Паймоиш
 customkeys-caution-message = Ин хусусият озмоишӣ аст ва метавонад ба таври лозимӣ кор накунад.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Беэътибор
+customkeys-key-clear =
+    .aria-label = Пок кардан
+    .tooltiptext = Пок кардан
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Тугмаи навро пахш кунед:
+
+## Confirmation dialogs
+
+
+## Sidebar
+

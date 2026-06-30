@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ye mirando d'amostrar la información d'a tarcheta. Confirma contino l'acceso a esta cuenta de Windows.
        *[other] { -brand-short-name } ye mirando d'amostrar la información d'a tarcheta de credito.
     }
+autofill-card-number-2 =
+    .label = Numero de tarcheta
 autofill-card-number = Numero de tarcheta
 autofill-card-invalid-number = Escribe un numero de tarcheta valido
+autofill-card-name-on-card-2 =
+    .label = Nombre d'o titular en a tarcheta
+autofill-card-billing-address-2 =
+    .label = Adreza de facturación
 autofill-card-name-on-card = Nombre d'o titular en a tarcheta
 autofill-card-expires-month = Mes de caducidat
 autofill-card-expires-year = Anyo de caducidat

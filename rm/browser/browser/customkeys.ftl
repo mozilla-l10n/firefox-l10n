@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Scursanidas da tastas
 customkeys-search = Tschertgar:
 customkeys-change = Modifitgar
@@ -36,6 +39,22 @@ customkeys-nav-home = Pagina da partenza
 customkeys-nav-reload = Rechargiar
 customkeys-nav-reload-skip-cache = Rechargiar (ignorar il cache)
 customkeys-nav-stop = Fermar
+customkeys-category-navigation-2 =
+    .heading = Navigaziun
 customkeys-caution-message = Questa funcziun è experimentala e na funcziuna eventualmain betg sco previs.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nunvalid
+customkeys-key-clear =
+    .aria-label = Stizzar
+    .tooltiptext = Stizzar
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Smatga la nova tasta:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
