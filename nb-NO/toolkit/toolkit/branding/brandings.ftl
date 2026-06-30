@@ -63,7 +63,7 @@
             }
        *[true]
             { $capitalization ->
-                [uppercase] Smart vindu
-               *[lowercase] smart vindu
+                [uppercase] Smarte vinduer
+               *[lowercase] smarte vinduer
             }
     }

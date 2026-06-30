@@ -62,3 +62,9 @@ aiwindow-input-cta-search-submenu-header = חיפוש
 aiwindow-input-cta-stop-button =
     .title = הפסקת תגובה
     .aria-label = הפסקת יצירת התגובה
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = כאן אפשר לשאול, לחפש או להקליד כתובת
+smartbar-placeholder-hint-1 = אפשר להשתמש ב־@ כדי להזכיר את הלשוניות האחרונות…
