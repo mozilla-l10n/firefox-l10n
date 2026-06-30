@@ -86,7 +86,11 @@ autofill-save-button = ಉಳಿಸು‍
 autofill-add-new-card-title = ಹೊಸ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಅನ್ನು ಸೇರಿಸು
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಅನ್ನು ಬದಲಿಸು
+autofill-card-number-2 =
+    .label = ಕಾರ್ಡ್ ಸಂಖ್ಯೆ
 autofill-card-number = ಕಾರ್ಡ್ ಸಂಖ್ಯೆ
+autofill-card-name-on-card-2 =
+    .label = ಕಾರ್ಡ್ ಮೇಲಿನ ಹೆಸರು
 autofill-card-name-on-card = ಕಾರ್ಡ್ ಮೇಲಿನ ಹೆಸರು
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
