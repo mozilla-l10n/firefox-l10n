@@ -51,3 +51,4 @@ aiwindow-input-cta-submit-label-chat = Fragen
 aiwindow-input-cta-submit-label-navigate = Los
 aiwindow-input-cta-submit-label-search = Suchen
 aiwindow-input-cta-submit-label-stop = Stopp
+aiwindow-input-cta-menu-label-chat = Fragen

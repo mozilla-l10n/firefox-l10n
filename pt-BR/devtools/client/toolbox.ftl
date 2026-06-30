@@ -50,6 +50,7 @@ toolbox-always-on-top-disabled2 = Ativar 'sempre por cima'
 # Variables:
 #   $url (String): The local mode URL
 toolbox-local-mode-notice = Este documento também pode ser carregado a partir de “{ $url }” usando o “modo local” das ferramentas de desenvolvimento, que pode ser ativado no painel de configurações.
+toolbox-local-mode-notice-add-to-settings-button = Adicionar às configurações
 toolbox-local-mode-notice-try-it-button = Experimentar
 toolbox-local-mode-notice-navigate-to-existing-mapping = Navegar para o mapeamento existente
 toolbox-local-mode-notice-always-hide = Não mostrar novamente

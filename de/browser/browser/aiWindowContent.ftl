@@ -3,8 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags }-Schlagwort
+       *[other] { $tags }-Schlagwörter
+    }
+
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Serverfehler (HTTP { $status }). Bitte versuchen Sie es erneut.
 smartwindow-retry-btn = Erneut versuchen
 smartwindow-clear-btn = Neuer Chat
 smartwindow-signin-btn = Anmelden
@@ -18,6 +32,26 @@ aiwindow-retry =
 aiwindow-copy-message =
     .aria-label = Nachricht kopieren
     .tooltiptext = Kopieren
+aiwindow-copy-table =
+    .aria-label = Tabelle kopieren
+    .tooltiptext = Tabelle kopieren
+aiwindow-table-scroll-indicator = Scrollen, um mehr zu sehen
+aiwindow-thumbs-up =
+    .aria-label = Positive Rückmeldung geben
+    .tooltiptext = Positive Rückmeldung geben
+aiwindow-thumbs-down =
+    .aria-label = Negative Rückmeldung geben
+    .tooltiptext = Negative Rückmeldung geben
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = { $summary } löschen
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Zum Ende des Chats springen
+    .tooltiptext = Zum Ende springen
 
 ## Natural Language Action
 
