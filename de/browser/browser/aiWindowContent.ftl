@@ -57,6 +57,9 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Erneut versuchen
+smartwindow-nl-thinking = Nach übereinstimmenden Tabs suchen…
+smartwindow-loading-assistant-response =
+    .aria-label = Antwort des Assistenten wird geladen
 smartwindow-nl-undo-button =
     .label = Rückgängig
 
@@ -135,6 +138,8 @@ action-log-searched-history = Durchsuchte Chronik
 action-log-reading-page = Seite wird gelesen
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Gelesener Seiteninhalt
+action-log-searching-web = Im Internet suchen
+action-log-searched-web = Im Internet gesucht
 action-log-searching-settings = Einstellungen durchsuchen
 action-log-searched-settings = Durchsuchte Einstellungen
 action-log-searching-world-cup-matches = Suche nach Weltmeisterschafts-Spielen
