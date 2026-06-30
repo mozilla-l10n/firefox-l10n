@@ -75,8 +75,104 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = ਮੁੜ-ਕੋਸ਼ਿਸ਼
+smartwindow-nl-thinking = …ਮਿਲਦੀਆਂ ਟੈਬਾਂ ਨੂੰ ਲੱਭਿਆ ਜਾ ਰਿਹਾ ਹੈ
+smartwindow-loading-assistant-response =
+    .aria-label = ਸਹਾਇਕ ਦੇ ਜਵਾਬ ਨੂੰ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+smartwindow-nl-undo-button =
+    .label = ਵਾਪਸ
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } ਟੈਬ ਬੰਦ ਕੀਤੀ
+       *[other] { $count } ਟੈਬਾਂ ਬੰਦ ਕੀਤੀਆਂ
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] ਪੂਰਾ! ਟੈਬ ਬੰਦ ਕੀਤੀ।
+       *[other] ਪੂਰਾ! ਟੈਬਾਂ ਬੰਦ ਕੀਤੀਆਂ।
+    }
+smart-window-closed-tabs-row-label = ਟੈਬਾਂ ਬੰਦ ਕੀਤੀਆਂ
+smart-window-closed-and-restored-label = ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਅਤੇ ਬਹਾਲ ਕੀਤਾ
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } ਟੈਬ ਬਹਾਲ ਕੀਤੀ
+       *[other] { $count } ਟੈਬਾਂ ਨੂੰ ਬਹਾਲ ਕੀਤਾ
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] ਟੈਬ ਬੰਦ ਕੀਤੀ, ਫੇਰ ਬਹਾਲ ਕੀਤੀ
+       *[other] ਟੈਬਾਂ ਬੰਦ ਕੀਤੀਆਂ, ਫੇਰ ਬਹਾਲ ਕੀਤੀਆਂ
+    }
+smart-window-cancelled-label = ਬੇਨਤੀ ਰੱਦ ਕੀਤੀ।
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = ਗਰੁੱਪ
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] { $count } ਟੈਬ ਦਾ ਗਰੁੱਪ ਬਣਾਓ
+       *[other] { $count } ਦਾ ਗਰੁੱਪ ਬਣਾਓ
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } ਟੈਬ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
+       *[other] { $count } ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] “{ $label }” ਗਰੁੱਪ ਬਣਾ ਕੇ { $count } ਟੈਬ ਜੋੜੀ।
+       *[other] “{ $label }” ਗਰੁੱਪ ਬਣਾ ਕੇ { $count } ਟੈਬਾਂ ਜੋੜੀਆਂ ਗਈਆਂ।
+    }
+smart-window-grouped-tabs-row-label = ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਹਟਾਇਆ
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } ਟੈਬ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ, ਫੇਰ ਗਰੁੱਪ ਹਟਾਇਆ|
+       *[other] { $count } ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ, ਫੇਰ ਗਰੁੱਪ ਹਟਾਇਆ
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } ਟੈਬ ਦਾ ਗਰੁੱਪ ਹਟਾਇਆ
+       *[other] { $count } ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਹਟਾਇਆ
+    }
 
 ## Action log
 
+action-log-searching-tabs = ਟੈਬਾਂ ਲੱਭੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ
+action-log-searched-open-tabs = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
+action-log-searching-history = ਅਤੀਤ ਲੱਭਿਆ ਜਾ ਰਿਹਾ ਹੈ
+action-log-searched-history = ਅਤੀਤ ਲੱਭਿਆ ਜਾ ਰਿਹਾ ਹੈ
+action-log-reading-page = ਸਫ਼ੇ ਨੂੰ ਪੜ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = ਸਫ਼ਾ ਸਮੱਗਰੀ ਨੂੰ ਪੜ੍ਹੋ
+action-log-searching-web = ਵੈੱਬ ਨੂੰ ਖੋਜਿਆ ਜਾ ਰਿਹਾ ਹੈ
+action-log-searched-web = ਵੈੱਬ ਉੱਤੇ ਖੋਜਿਆ
+action-log-checking-memories = ਯਾਦਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+action-log-checked-memories = ਯਾਦਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ
 action-log-searching-settings = ਖੋਜ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ
 action-log-searched-settings = ਖੋਜ ਕੀਤੀਆਂ ਸੈਟਿੰਗਾਂ
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 ਪੜਾਅ ਪੂਰਾ ਕੀਤਾ
+       *[other] { $count } ਪੜਾਅ ਪੂਰੇ ਕੀਤੇ
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = ਖੋਜ ਨਤੀਜਿਆਂ ਨੂੰ ਇਸ ਟੈਬ ਵਿੱਚ ਲੋਡ ਕੀਤਾ ਹੈ। ਪੜਤਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…
