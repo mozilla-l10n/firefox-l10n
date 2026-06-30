@@ -122,8 +122,8 @@ smart-window-confirm-group-tabs =
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label =
     { $count ->
-        [one] Onglet groupé { $count }
-       *[other] Onglets regroupés pour { $count }
+        [one] { $count } onglet regroupé
+       *[other] { $count } onglets regroupés
     }
 # Variables
 #   $count (number) - Number of tabs grouped
