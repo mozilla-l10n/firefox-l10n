@@ -121,8 +121,14 @@ autofill-edit-card-password-prompt =
 autofill-add-card-title = Добавяне на карта
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Редактиране на карта
+autofill-card-number-2 =
+    .label = Номер на карта
 autofill-card-number = Номер на карта
 autofill-card-invalid-number = Моля, въведете валиден номер на банкова карта
+autofill-card-name-on-card-2 =
+    .label = Име от картата
+autofill-card-billing-address-2 =
+    .label = Адрес за фактура
 autofill-card-name-on-card = Име от картата
 autofill-card-expires-month = Валидна до месец
 autofill-card-expires-year = година
