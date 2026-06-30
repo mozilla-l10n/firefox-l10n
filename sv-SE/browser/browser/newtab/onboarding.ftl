@@ -448,6 +448,10 @@ onboarding-checklist-pin = Fäst { -brand-short-name } i aktivitetsfältet
 onboarding-checklist-import = Importera från tidigare webbläsare
 onboarding-checklist-extension = Lägg till ett tillägg
 onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
+onboarding-checklist-minimize =
+    .label = Minimera
+onboarding-checklist-remove =
+    .label = Ta bort checklista
 
 ## Tab Groups feature onboarding strings
 

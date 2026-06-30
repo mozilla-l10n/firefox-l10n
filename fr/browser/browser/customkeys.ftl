@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Cette fonctionnalité est expérimentale et pourrait ne pas fonctionner comme prévu.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Invalide
+customkeys-shortcut-unassigned =
+    .placeholder = Ajouter un raccourci
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Raccourci pour : { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Modifier
+    .tooltiptext = Modifier
 customkeys-key-clear =
     .aria-label = Effacer
     .tooltiptext = Effacer
+customkeys-key-reset =
+    .aria-label = Restaurer
+    .tooltiptext = Restaurer
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Appuyez sur la nouvelle touche :
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Supprimer un autre raccourci ?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Cette clé est déjà utilisée par « { $conflict } ».
+customkeys-conflict-confirm-button-confirm = Utiliser tout de même
+customkeys-conflict-confirm-button-cancel = Annuler
+customkeys-reset-all-confirm-title = Restaurer les moteurs de recherche par défaut ?
+customkeys-reset-all-confirm-body = Tous les raccourcis clavier personnalisés que vous avez créés seront supprimés.
+customkeys-reset-all-confirm-button-confirm = Restaurer moteurs par défaut
+customkeys-reset-all-confirm-button-cancel = Annuler
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barre latérale
+customkeys-title-heading =
+    .heading = Raccourcis clavier
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Raccourcis pour la recherche
+    .placeholder = Raccourcis pour la recherche
+customkeys-description = Contrôlez vos déplacements et vos interactions avec { -brand-short-name }.
+customkeys-support-link-text = En savoir plus
+customkeys-reset-all-button = Restaurer moteurs par défaut

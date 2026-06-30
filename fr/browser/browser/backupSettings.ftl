@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Emplacement
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (recommandé)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Choisir un emplacement
 turn-on-scheduled-backups-location-choose-button = Parcourir…
 turn-on-scheduled-backups-encryption-label = Sauvegarder vos données sensibles
 turn-on-scheduled-backups-encryption-create-password-label = Mot de passe
@@ -85,6 +87,7 @@ turn-on-scheduled-backups-confirm-button = Activer la sauvegarde
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Un problème est survenu avec le dossier de sauvegarde sélectionné. Choisissez un autre dossier et essayez à nouveau.
+turn-on-scheduled-backups-error-default-dir-denied = Nous n’avons pas pu accéder à votre dossier de sauvegarde. Essayez de choisir un nouvel emplacement.
 backup-error-file-system = Un problème est survenu avec le dossier de sauvegarde sélectionné lors de la sauvegarde de { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

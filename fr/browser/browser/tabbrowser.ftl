@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Redimensionner les onglets de la vue scindée
+tab-devtools-splitter =
+    .aria-label = Redimensionner le panneau des outils de développement
 
 ## Tooltips for tab audio control
 ## Variables:

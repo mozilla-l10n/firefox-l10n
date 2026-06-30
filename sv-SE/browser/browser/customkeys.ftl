@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Den här funktionen är experimentell och kanske inte fungerar som förväntat.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ogiltig
+customkeys-shortcut-unassigned =
+    .placeholder = Lägg till genväg
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Genväg för: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Redigera
+    .tooltiptext = Redigera
 customkeys-key-clear =
     .aria-label = Rensa
     .tooltiptext = Rensa
+customkeys-key-reset =
+    .aria-label = Återställ
+    .tooltiptext = Återställ
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Tryck på ny tangent:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Ta bort en annan genväg?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Den här nyckeln används redan av “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Använd ändå
+customkeys-conflict-confirm-button-cancel = Avbryt
+customkeys-reset-all-confirm-title = Vill du återställa standardinställningarna?
+customkeys-reset-all-confirm-body = Alla anpassade tangentbordsgenvägar som du har skapat kommer att tas bort.
+customkeys-reset-all-confirm-button-confirm = Återställ standard
+customkeys-reset-all-confirm-button-cancel = Avbryt
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidofält
+customkeys-title-heading =
+    .heading = Tangentbordsgenvägar
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Sök genvägar
+    .placeholder = Sök genvägar
+customkeys-description = Styr hur du flyttar och interagerar med { -brand-short-name }.
+customkeys-support-link-text = Läs mer
+customkeys-reset-all-button = Återställ standard

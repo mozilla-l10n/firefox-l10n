@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Sekretess
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Aktier
 home-prefs-mission-message2 =
     .message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb.
 home-prefs-manage-topics-link2 =
@@ -160,6 +163,15 @@ home-prefs-mission-message-learn-more-link-srd = Ta reda på hur
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Läs mer
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Sök efter tickersymboler
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Dölj aktier
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Läs mer
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +207,7 @@ newtab-topsites-add-shortcut-label = Lägg till genväg
 newtab-topsites-add-shortcut-title =
     .title = Lägg till genväg
     .aria-label = Lägg till genväg
+newtab-shortcuts-pinned-area = Fäst område
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel
@@ -506,6 +519,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Sekretess
+newtab-custom-widget-stocks-toggle =
+    .label = Aktier
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar

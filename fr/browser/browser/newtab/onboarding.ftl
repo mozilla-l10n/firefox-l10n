@@ -449,6 +449,10 @@ onboarding-checklist-pin = Épingler { -brand-short-name } à la barre des tâch
 onboarding-checklist-import = Importer depuis un ancien navigateur
 onboarding-checklist-extension = Installer une extension
 onboarding-checklist-sign-up = Créer un compte ou vous connecter
+onboarding-checklist-minimize =
+    .label = Réduire
+onboarding-checklist-remove =
+    .label = Supprimer la liste de vérification
 
 ## Tab Groups feature onboarding strings
 

@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Ändra storlek på flikar med delad vy
+tab-devtools-splitter =
+    .aria-label = Ändra storlek på panelen utvecklingsverktyg
 
 ## Tooltips for tab audio control
 ## Variables:
