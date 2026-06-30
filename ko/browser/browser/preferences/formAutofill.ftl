@@ -147,6 +147,8 @@ autofill-message-tooltip = 자동 채우기에 대한 메시지 보기
 autofill-add-card-title = 카드 추가
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = 카드 편집
+autofill-card-number-2 =
+    .label = 카드 번호
 autofill-card-number = 카드 번호
 autofill-card-invalid-number = 유효한 카드 번호를 입력하세요
 autofill-card-name-on-card-2 =
