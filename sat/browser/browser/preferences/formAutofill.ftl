@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱞᱟᱛᱟᱨ ᱯᱟᱦᱴᱟ ᱣᱤᱱᱰᱳ ᱠᱷᱟᱛᱟ ᱟᱫᱮᱨ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ ᱾
        *[other] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾
     }
+autofill-card-number-2 =
+    .label = ᱠᱟᱰ ᱮᱞ
 autofill-card-number = ᱠᱟᱰ ᱮᱞ
 autofill-card-invalid-number = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱢᱤᱫᱴᱟᱝ ᱴᱷᱤᱠ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
+autofill-card-name-on-card-2 =
+    .label = ᱠᱟᱰ ᱨᱮ ᱧᱩᱛᱩᱢ
+autofill-card-billing-address-2 =
+    .label = ᱵᱤᱞᱤᱝ ᱴᱷᱤᱠᱬᱟᱹ
 autofill-card-name-on-card = ᱠᱟᱰ ᱨᱮ ᱧᱩᱛᱩᱢ
 autofill-card-expires-month = ᱪᱟᱵᱟ ᱪᱟᱸᱫᱚ
 autofill-card-expires-year = ᱪᱟᱵᱟ ᱥᱮᱨᱢᱟᱸ
