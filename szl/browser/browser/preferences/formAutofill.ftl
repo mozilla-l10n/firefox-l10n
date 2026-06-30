@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } prōbuje pokozać informacyje ô kredytowyj karcie. Przitupluj niżyj dostymp do tego kōnta Windows.
        *[other] { -brand-short-name } prōbuje pokozać informacyje ô kredytowyj karcie.
     }
+autofill-card-number-2 =
+    .label = Nōmer karty
 autofill-card-number = Nōmer karty
 autofill-card-invalid-number = Wkludź dobry nōmer karty
+autofill-card-name-on-card-2 =
+    .label = Miano na karcie
+autofill-card-billing-address-2 =
+    .label = Adresa na fakturze
 autofill-card-name-on-card = Miano na karcie
 autofill-card-expires-month = Miesiōnc przedowniynio
 autofill-card-expires-year = Rok przedowniynio
