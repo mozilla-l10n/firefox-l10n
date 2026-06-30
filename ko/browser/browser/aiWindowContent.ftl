@@ -45,3 +45,62 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = 표 복사
     .tooltiptext = 표 복사
+aiwindow-table-scroll-indicator = 더 보려면 스크롤하세요
+aiwindow-thumbs-up =
+    .aria-label = 긍정적인 의견 공유
+    .tooltiptext = 긍정적인 의견 공유
+aiwindow-thumbs-down =
+    .aria-label = 부정적인 의견 공유
+    .tooltiptext = 부정적인 의견 공유
+aiwindow-applied-memories-popover =
+    .aria-label = 기억 기능 패널
+aiwindow-applied-memories-list =
+    .aria-label = 기억 기능
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = { $summary } 삭제
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = 채팅 맨 아래로 이동
+    .tooltiptext = 맨 아래로 이동
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = 다시 시도
+smartwindow-nl-retry-message = 그래도 탭을 닫으려면 <strong>다시 시도</strong>를 선택한 후, 새로 열리는 카드에서 원하는 항목을 지정하세요.
+smartwindow-nl-retry-group-tabs-message = 그래도 탭을 그룹으로 묶으려면 <strong>다시 시도</strong>를 선택한 후, 새로 열리는 카드에서 대상 탭을 지정하세요.
+smartwindow-nl-thinking = 일치하는 탭 찾는 중…
+smartwindow-loading-assistant-response =
+    .aria-label = 어시스턴트 응답 로딩 중
+smartwindow-nl-undo-button =
+    .label = 실행 취소
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label = 닫은 탭 { $count }개
+smart-window-closed-tabs-summary = 완료! 탭이 닫혔습니다.
+smart-window-closed-tabs-row-label = 닫은 탭
+smart-window-closed-and-restored-label = 닫은 탭 및 복원된 탭
+smart-window-restored-row-label = 복원된 탭 { $count }개
+smart-window-restore-success-summary = 탭이 닫혔다가 복원되었습니다.
+smart-window-cancelled-label = 요청이 취소되었습니다.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = 그룹
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs = 탭 { $count }개 그룹화
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label = 탭 { $count }개 그룹화됨
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary = “{ $label }” 그룹을 생성하고 탭 { $count }개를 추가했습니다.
+smart-window-grouped-tabs-row-label = 그룹화된 탭
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = 탭 그룹 해제
