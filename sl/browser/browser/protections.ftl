@@ -284,3 +284,9 @@ privacy-metrics-empty = Ta teden ni bil blokiran noben sledilec. { -brand-short-
 privacy-metrics-loading = Nalaganje statistike zaščite …
 privacy-metrics-error = Statistike zaščite ni mogoče naložiti.
 privacy-metrics-private-window = { -brand-short-name } še naprej blokira sledilce v zasebnih oknih, vendar ne beleži statistike blokiranih vsebin.
+
+## VPN promo card and banner
+
+protections-get-vpn-link = Prenesi { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Naročeni
+protections-vpn-banner-link = Prenesi { -mozilla-vpn-brand-name }

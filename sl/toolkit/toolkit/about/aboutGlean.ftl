@@ -113,6 +113,10 @@ about-glean-metrics-table-settings-timelines-width = Širina
 about-glean-metrics-table-settings-timelines-chart-padding = Odmik od grafa
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Polmer kroga
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Vodoravni odmik osi Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Navpični odmik osi Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtriraj
 # This message sits alongside an input field, further describing its purpose.

@@ -78,3 +78,7 @@ about-private-browsing-cookie-banners-promo-body = Številne pasice s piškotki 
 about-private-browsing-felt-privacy-v1-info-header = Ne pustite sledi na tej napravi
 about-private-browsing-felt-privacy-v1-info-body = Ko zaprete vsa zasebna okna, { -brand-short-name } izbriše piškotke, zgodovino in podatke o spletnih mestih.
 about-private-browsing-felt-privacy-v1-info-link = Kdo bi lahko videl mojo dejavnost?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-link = Kdo bi lahko kljub temu videl mojo dejavnost?

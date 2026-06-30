@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Upravljanje vsebnikov
     .accesskey = U
+user-context-new-tab =
+    .label = Nov zavihek
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

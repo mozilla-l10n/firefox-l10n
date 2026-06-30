@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Posodobitev ni mogoča – nezdružljiv sistem
 appmenuitem-banner-update-restart =
     .label = Na voljo je posodobitev – zaženi znova
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Pridobite novi { -brand-short-name(sklon: "tozilnik") }. Obdržite vse zavihke.
+appmenu-nova-update-link = Ponovno zaženi za posodobitev
+appmenu-nova-fxa-sign-in = Prijava
+appmenu-nova-switch-device-promo =
+    .message = Se vam obeta nov računalnik? Vzemite { -brand-short-name(sklon: "tozilnik") } s seboj!
+appmenu-nova-switch-device-link = Kako preseliti svoje podatke
 appmenuitem-new-tab =
     .label = Nov zavihek
 appmenuitem-new-window =

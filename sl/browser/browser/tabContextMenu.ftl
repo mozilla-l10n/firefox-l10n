@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Ponovno naloži zavihek
     .accesskey = n
+reload-tab2 =
+    .label = Ponovno naloži
+    .accesskey = n
 select-all-tabs =
     .label = Izberi vse zavihke
     .accesskey = b
@@ -24,9 +27,15 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Podvoji zavihek
     .accesskey = o
+duplicate-tab2 =
+    .label = Podvoji
+    .accesskey = d
 duplicate-tabs =
     .label = Podvoji zavihke
     .accesskey = o
+duplicate-tabs2 =
+    .label = Podvoji
+    .accesskey = d
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Pripni zavihek
     .accesskey = P
+tab-context-pin-tab2 =
+    .label = Pripni
+    .accesskey = P
 unpin-tab =
     .label = Odpni zavihek
     .accesskey = O
+tab-context-unpin-tab2 =
+    .label = Odpni
+    .accesskey = p
 pin-selected-tabs =
     .label = Pripni zavihke
     .accesskey = P
@@ -67,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Dodaj zavihek med zaznamke …
     .accesskey = z
+tab-context-bookmark-tab2 =
+    .label = Dodaj med zaznamke
+    .accesskey = z
 tab-context-open-in-new-container-tab =
     .label = Odpri v novem zavihku vsebnika
     .accesskey = O
+tab-context-open-in-new-container-tab2 =
+    .label = Odpri v novem zavihku vsebnika
+    .accesskey = e
 move-to-start =
     .label = Premakni na začetek
     .accesskey = č
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Zapri več zavihkov
     .accesskey = č
+tab-context-close-multiple-tabs2 =
+    .label = Zapri več
+    .accesskey = č
 tab-context-close-duplicate-tabs =
     .label = Zapri podvojene zavihke
     .accesskey = v
+tab-context-close-duplicate-tabs2 =
+    .label = Zapri dvojnike tega zavihka
+    .accesskey = j
 tab-context-share-url =
     .label = Deli
     .accesskey = D
@@ -125,6 +152,16 @@ tab-context-close-n-tabs =
            *[other] Zapri { $tabCount } zavihkov
         }
     .accesskey = Z
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Zapri
+            [one] Zapri { $tabCount } zavihek
+            [two] Zapri { $tabCount } zavihka
+            [few] Zapri { $tabCount } zavihke
+           *[other] Zapri { $tabCount } zavihkov
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -135,6 +172,21 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Premakni zavihek v
+            [one] Premakni { $tabCount } zavihek v
+            [two] Premakni { $tabCount } zavihka v
+            [few] Premakni { $tabCount } zavihke v
+           *[other] Premakni { $tabCount } zavihkov v
+        }
+    .accesskey = k
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Premakni razdeljeni pogled v
+    .accesskey = r
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -146,6 +198,9 @@ tab-context-send-to-device =
            *[other] Pošlji { $tabCount } zavihkov na napravo
         }
     .accesskey = n
+tab-context-send-to-device2 =
+    .label = Pošlji na naprave
+    .accesskey = š
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -178,4 +233,8 @@ tab-context-unload-n-tabs =
             [few] Sprosti { $tabCount } zavihke
            *[other] Sprosti { $tabCount } zavihkov
         }
+    .accesskey = S
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Sprosti
     .accesskey = S

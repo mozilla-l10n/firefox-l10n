@@ -14,11 +14,15 @@ customkeys-reset-all = Ponastavi vse bližnjice na privzete
 customkeys-conflict-confirm = Ta tipka je že dodeljena naslednjemu dejanju: { $conflict }. Ga želite zamenjati?
 customkeys-reset-all-confirm = Ali ste prepričani, da želite ponastaviti vse bližnjice na privzete vrednosti?
 customkeys-file-duplicate-tab = Podvoji zavihek
+customkeys-file-focus-search = Osredotoči iskalno vrstico
 customkeys-history-reopen-tab = Obnovi zadnji zaprti zavihek
 customkeys-history-reopen-window = Obnovi zadnje zaprto okno
 customkeys-sidebar-toggle = Prikaži/skrij stransko vrstico
 customkeys-view-bookmarks-toolbar = Prikaži/Skrij vrstico zaznamkov
 customkeys-view-picture-in-picture = Slika v sliki
+customkeys-view-add-split-view = Dodaj razdeljeni pogled
+# Separate is a verb
+customkeys-view-separate-split-view = Loči razdeljeni pogled
 customkeys-dev-tools = Orodja za spletni razvoj
 customkeys-dev-inspector = Pregledovalnik DOM in sloga
 customkeys-dev-webconsole = Spletna konzola

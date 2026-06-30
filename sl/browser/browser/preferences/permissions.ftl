@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani. Vnesite točen naslov spletnega mesta in nato kliknite gumb Prepovej, Dovoli v tej seji ali Dovoli.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Izjeme – Brisanje zgodovine ob zapiranju
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Določite, podatki katerih spletnih mest naj se ohranijo, ko se { -brand-short-name } zapre in ob tem izbriše zgodovino. Vnesite točen naslov spletnega mesta, nato pa kliknite gumb Dovoli.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

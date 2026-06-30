@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Prilagodite svoje brskanje
 experimental-features-group-productivity =
     .label = Produktivnost
+experimental-features-group-newtab-widgets =
+    .label = Pripomočki na { -firefox-home-brand-name(sklon: "mestnik") }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Gesla v stranski vrstici
@@ -62,6 +64,8 @@ experimental-features-fx-web-apps =
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Seznami na { -firefox-home-brand-name(sklon: "mestnik") }
+experimental-features-newtab-widget-lists-new =
+    .label = Seznami
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
@@ -70,9 +74,16 @@ experimental-features-newtab-widget-timer-new =
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Seznami in časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Vremenska napoved
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Slika dneva
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Ura
+experimental-features-newtab-widget-clocks-description = Dodajte do štiri poljubno poimenovane ure in spremljajte, koliko je ura v krajih, ki so vam pomembni. <a data-l10n-name="connect">Sporočite povratne informacije</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantično iskanje po zgodovini

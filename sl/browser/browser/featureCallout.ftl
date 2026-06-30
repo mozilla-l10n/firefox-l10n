@@ -160,6 +160,20 @@ windows-10-eos-sync-callout-primary-advance-button-label = Naprej
 link-preview-onboarding-callout-title = Novo: kliknite in pridržite povezavo za predogled
 link-preview-onboarding-callout-description = Oglejte si kratek opis strani, predviden čas branja in druge podatke, na podlagi katerih se lahko odločite, ali je povezava vredna klika. Na voljo tudi ob desnem kliku.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Združite zavihke po opravilih ali po tematikah. V skupino lahko kadarkoli povlečete nove zavihke.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Ustvari skupino
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = V stranski vrstici prikaži naslove zavihkov

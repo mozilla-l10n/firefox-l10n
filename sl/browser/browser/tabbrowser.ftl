@@ -209,9 +209,15 @@ tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Utišaj zavihek
     .accesskey = U
+tabbrowser-context-mute-tab2 =
+    .label = Utišaj
+    .accesskey = š
 tabbrowser-context-unmute-tab =
     .label = Povrni glasnost zavihka
     .accesskey = r
+tabbrowser-context-unmute-tab2 =
+    .label = Povrni glasnost
+    .accesskey = v
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Utišaj zavihke
