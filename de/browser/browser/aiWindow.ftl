@@ -40,3 +40,14 @@ ai-window-toggleview-switch-ai-description =
     .value = Beim Surfen fragen
 ai-window-toggleview-switch-private =
     .label = Privates Fenster
+ai-window-toggleview-open-private =
+    .label = Neues privates Fenster öffnen
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Klassisches Fenster
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Fragen
+aiwindow-input-cta-submit-label-navigate = Los
+aiwindow-input-cta-submit-label-search = Suchen
+aiwindow-input-cta-submit-label-stop = Stopp

@@ -101,3 +101,7 @@ action-log-searched-history = Durchsuchte Chronik
 action-log-reading-page = Seite wird gelesen
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Gelesener Seiteninhalt
+action-log-searching-settings = Einstellungen durchsuchen
+action-log-searched-settings = Durchsuchte Einstellungen
+action-log-searching-world-cup-matches = Suche nach Weltmeisterschafts-Spielen
+action-log-searched-world-cup-matches = Durchsuchte Weltmeisterschafts-Spiele

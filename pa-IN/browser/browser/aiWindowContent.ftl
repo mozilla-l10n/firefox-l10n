@@ -75,6 +75,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = ਮੁੜ-ਕੋਸ਼ਿਸ਼
+smartwindow-nl-retry-message = ਜੇ ਤੁਸੀਂ ਹਾਲੇ ਵੀ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ <strong>ਮੁੜ-ਕੋਸ਼ਿਸ਼</strong> ਨੂੰ ਚੁਣੋ ਅਤੇ ਖੁੱਲ੍ਹੇ ਕਾਰਡ ਵਿੱਚ ਆਪਣੀ ਚੋਣ ਕਰੋ।
+smartwindow-nl-retry-group-tabs-message = ਜੇ ਤੁਸੀਂ ਹਾਲੇ ਵੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ <strong>ਮੁੜ-ਕੋਸ਼ਿਸ਼</strong> ਨੂੰ ਚੁਣੋ ਅਤੇ ਖੁੱਲ੍ਹੇ ਕਾਰਡ ਵਿੱਚ ਉਸ ਦੀ ਚੋਣ ਕਰੋ।
 smartwindow-nl-thinking = …ਮਿਲਦੀਆਂ ਟੈਬਾਂ ਨੂੰ ਲੱਭਿਆ ਜਾ ਰਿਹਾ ਹੈ
 smartwindow-loading-assistant-response =
     .aria-label = ਸਹਾਇਕ ਦੇ ਜਵਾਬ ਨੂੰ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
