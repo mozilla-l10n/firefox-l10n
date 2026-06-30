@@ -91,8 +91,14 @@ autofill-country-warning-message = सध्या फक्त काही द
 autofill-add-new-card-title = नवीन क्रेडिट कार्ड जोडा
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = क्रेडिट कार्ड संपादित करा
+autofill-card-number-2 =
+    .label = कार्ड क्रमांक
 autofill-card-number = कार्ड क्रमांक
 autofill-card-invalid-number = कृपया वैध कार्ड क्रमांक प्रविष्ट करा
+autofill-card-name-on-card-2 =
+    .label = कार्ड वरील नाव
+autofill-card-billing-address-2 =
+    .label = बिलाचा पत्ता
 autofill-card-name-on-card = कार्ड वरील नाव
 autofill-card-expires-month = कालबाह्यता महिना
 autofill-card-expires-year = कालबाह्यता वर्ष
