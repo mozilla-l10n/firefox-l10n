@@ -101,8 +101,14 @@ autofill-country-warning-message = Forma Avtotoldurış al-azırda faqat bazı �
 autofill-add-new-card-title = Yañı Kredit Kartı Ekle
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kredit Kartı Tarir Et
+autofill-card-number-2 =
+    .label = Kart Numarası
 autofill-card-number = Kart Numarası
 autofill-card-invalid-number = Lütfen keçerli bir kart numarasını kirsetiñiz
+autofill-card-name-on-card-2 =
+    .label = Kart üzerindeki İsim
+autofill-card-billing-address-2 =
+    .label = Faturalama Adresi
 autofill-card-name-on-card = Kart üzerindeki İsim
 autofill-card-expires-month = Eskiriş Ayı
 autofill-card-expires-year = Eskiriş Yılı
