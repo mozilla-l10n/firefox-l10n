@@ -95,8 +95,14 @@ autofill-save-button = భద్రపరచు
 autofill-add-new-card-title = కొత్త క్రెడిట్ కార్డు చేర్చండి
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = క్రెడిట్ కార్డ్ను సవరించండి
+autofill-card-number-2 =
+    .label = కార్డ్ సంఖ్య
 autofill-card-number = కార్డ్ సంఖ్య
 autofill-card-invalid-number = దయచేసి సరైన కార్డు నెంబరు ఇవ్వండి
+autofill-card-name-on-card-2 =
+    .label = కార్డుపై పేరు
+autofill-card-billing-address-2 =
+    .label = బిల్లింగ్ చిరునామా
 autofill-card-name-on-card = కార్డుపై పేరు
 autofill-card-expires-month = ముగింపు నెల
 autofill-card-expires-year = ముగింపు సంవత్సరం
