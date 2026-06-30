@@ -1817,7 +1817,7 @@ history-dontremember-description4 =
     .description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } vil bruke egendefinerte innstillinger for nettleser-, nedlastings-, skjema- og søkehistorikk.
+    .description = { -brand-short-name } vil bruke tilpassede innstillinger for nettleser-, nedlastings-, skjema- og søkehistorikk.
 history-remember-description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.
 history-dontremember-description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
 history-private-browsing-permanent =
@@ -2559,7 +2559,7 @@ connection-dns-over-https-url-item =
     .label = { $name }
     .tooltiptext = Bruk denne leverandøren for DNS-over-HTTPS-oppslag
 preferences-doh-custom-provider-label =
-    .aria-label = Skriv inn en egendefinert leverandør-URL
+    .aria-label = Skriv inn en tilpasset leverandør-URL
 preferences-doh-header2 =
     .heading = DNS-over-HTTPS
 

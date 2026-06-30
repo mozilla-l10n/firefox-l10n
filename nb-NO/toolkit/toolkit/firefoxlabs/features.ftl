@@ -35,8 +35,8 @@ experimental-features-contextual-password-manager =
 experimental-features-contextual-password-manager-description = Få tilgang til passordene dine direkte fra sidefeltet. Du trenger ikke lenger å lete eller tilbakestille passord når du prøver å logge inn. For å bruke denne funksjonen, velg passord i sidestolpen. Gå deretter til de generelle innstillingene og velg Vis sidestolpe under nettleseroppsett. Tilpass deretter sidestolpen ved å velge passord. Hvis du prøver funksjonen, <a data-l10n-name="connect">gi oss beskjed om hva du synes</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Velg en egendefinert bakgrunn eller farge for Ny fane
-experimental-features-custom-wallpaper-description = Last opp ditt eget bakgrunnsbilde eller velg en egendefinert farge for din bakgrunn til ny fane.
+    .label = Velg en tilpasset bakgrunn eller farge for Ny fane
+experimental-features-custom-wallpaper-description = Last opp ditt eget bakgrunnsbilde eller velg en tilpasset farge for din bakgrunn til ny fane.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Forhåndsvisningr av lenker

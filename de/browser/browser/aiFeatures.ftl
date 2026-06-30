@@ -18,3 +18,4 @@ ai-window-personalize-header =
 ai-window-delete-all-memories-button =
     .label = Alle löschen
 ai-window-delete-all-memories-confirm = Löschen
+ai-window-delete-all-memories-cancel = Abbrechen

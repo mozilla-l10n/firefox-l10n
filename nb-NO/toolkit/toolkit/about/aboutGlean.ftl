@@ -69,7 +69,7 @@ about-glean-label-for-tag-pings-with-requirements = Angi en minneverdig feilsøk
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
     Velg pinginstrumenteringen din er i fra den foregående listen.
-    Hvis det er i en <a data-l10n-name="custom-ping-link">egendefinert ping</a>, velg den.
+    Hvis det er i en <a data-l10n-name="custom-ping-link">tilpasset ping</a>, velg den.
     Ellers er standardverdien for <code>hendelse</code>-beregninger
     <code>hendelser</code>-pinget
     og standarden for alle andre beregninger er

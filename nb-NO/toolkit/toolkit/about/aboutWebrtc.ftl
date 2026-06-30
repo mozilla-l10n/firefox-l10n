@@ -194,7 +194,7 @@ about-webrtc-configuration-element-provided = Oppgitt
 # been provided
 about-webrtc-configuration-element-not-provided = Ikke oppgitt
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Egendefinerte WebRTC-innstillinger
+about-webrtc-custom-webrtc-configuration-heading = Tilpassede WebRTC-innstillinger
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Brukermodifisert WebRTC-konfigurasjon
 

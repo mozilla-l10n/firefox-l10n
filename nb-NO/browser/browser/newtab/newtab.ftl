@@ -216,7 +216,7 @@ newtab-topsites-url-input =
     .placeholder = Skriv eller lim inn en URL
 newtab-topsites-url-validation = Gyldig URL er nødvendig
 newtab-topsites-image-url-label = Tilpasset bilde-URL
-newtab-topsites-use-image-link = Bruk et egendefinert bilde…
+newtab-topsites-use-image-link = Bruk et tilpasset bilde…
 newtab-topsites-image-validation = Kunne ikke lese inn bildet. Prøv en annen URL.
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
@@ -808,7 +808,7 @@ newtab-section-mangage-topics-blocked-topics = Blokkert
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikke blokkert noen emner ennå.
 newtab-custom-wallpaper-title = Nå kan du velge din egen bakgrunn
 # 'Make firefox yours" means to customize or personalize
-newtab-custom-wallpaper-subtitle = Last opp ditt eget bakgrunnsbilde eller velg en egendefinert farge for å gjøre { -brand-product-name } til ditt eget.
+newtab-custom-wallpaper-subtitle = Last opp ditt eget bakgrunnsbilde eller velg en tilpasset farge for å gjøre { -brand-product-name } til ditt eget.
 newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for new user activation custom wallpaper highlight

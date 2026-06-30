@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = ¿Bloquear la funcionalidad { -smart-window-brand-name }?
+smart-window-block-description-both = Esto eliminará tus chats y recuerdos de { -smart-window-brand-name }.
+smart-window-block-description-chats = Esto eliminará tus chats de { -smart-window-brand-name }.
+smart-window-block-description-memories = Esto eliminará tus recuerdos de { -smart-window-brand-name }.
