@@ -153,3 +153,66 @@ firefoxview-search-chat-results-count =
 item-history-downloads-and-chat =
     .label = История посещений, загрузок и чатов
     .accesskey = И
+item-history-downloads-and-chat-description = Очищает историю сайтов, загрузок и чатов
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Выбрать всё
+    .aria-label = Выбрать всё
+smart-window-confirm-deselect-all =
+    .label = Снять выделение со всего
+    .aria-label = Снять выделение со всего
+smart-window-close-confirm =
+    .aria-label = Отменить запрос и закрыть
+    .tooltiptext = Отменить запрос и закрыть
+smart-window-confirm-close-tab = Закрыть
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Закрыть { $count } вкладку
+        [few] Закрыть { $count } вкладки
+       *[many] Закрыть { $count } вкладок
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Вкладка закрыта
+smartwindow-close-tab-callout-subtitle = Открывайте вкладки из истории в любое время.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Установить { -smart-window-brand-name } по умолчанию?
+smart-window-default-promo-message = { -brand-short-name } будет каждый раз открываться в { -smart-window-brand-name }.
+smart-window-default-promo-primary-button = Установить по умолчанию
+smart-window-default-promo-additional-button = Не сейчас
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Поделиться отзывом
+aiwindow-feedback-what-worked-well = Что вам понравилось? Пожалуйста, без личной информации.
+aiwindow-feedback-choose-any = Выберите любые подходящие варианты
+aiwindow-feedback-add-details = Добавьте подробности, если хотите. Пожалуйста, без личной информации.
+aiwindow-feedback-disclaimer = Отправляя сообщение, вы делитесь своим отзывом и этим чатом, чтобы помочь { -brand-shorter-name } улучшить { -smart-window-brand-name }. Другие ваши чаты останутся приватными. <a data-l10n-name="learn-more">Подробнее</a>
+aiwindow-feedback-submit = Отправить
+aiwindow-feedback-cancel = Отмена
+aiwindow-feedback-reason-incorrect-or-misleading = Неверно или вводит в заблуждение
+aiwindow-feedback-reason-doesnt-address-my-request = Не отвечает на мой запрос
+aiwindow-feedback-reason-lacks-personalization = Не хватает персонализации или контекста
+aiwindow-feedback-reason-performance-or-usability = Проблема с производительностью или удобством
+aiwindow-feedback-reason-harmful-or-offensive = Вредные или оскорбительные ответы
+aiwindow-feedback-reason-other = Другое
+aiwindow-feedback-preview-report = Просмотреть подробности чата
+aiwindow-feedback-preview-report-with-page = Просмотреть информацию о чате и странице
+aiwindow-feedback-include-page-content = Поделиться страницами, на которые есть ссылки в этом чате
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Переключить макет просмотра
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Переключение режима: Списком
+    .tooltiptext = Просмотр в виде списка
