@@ -101,8 +101,14 @@ autofill-country-warning-message = Humpito yaawngo formileer woodani o sahaa tan
 autofill-add-new-card-title = Ɓeydu Karte Banke Kese
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Taƴto karte banke
+autofill-card-number-2 =
+    .label = Tonngoode Karte
 autofill-card-number = Tonngoode Karte
 autofill-card-invalid-number = Tiiɗno naatnu tonngoode kartal moƴƴere
+autofill-card-name-on-card-2 =
+    .label = Innde e Karte
+autofill-card-billing-address-2 =
+    .label = Ñiiɓirde yoɓirde
 autofill-card-name-on-card = Innde e Karte
 autofill-card-expires-month = Bun. Lewru
 autofill-card-expires-year = Bun. Hitaande
