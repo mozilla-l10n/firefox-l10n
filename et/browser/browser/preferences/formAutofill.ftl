@@ -109,8 +109,14 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } üritab kuvada krediitkaardi andmeid. Kinnita ligipääs sellele Windowsi kontole allpool.
        *[other] { -brand-short-name } üritab kuvada krediitkaardi andmeid.
     }
+autofill-card-number-2 =
+    .label = Kaardi number
 autofill-card-number = Kaardi number
 autofill-card-invalid-number = Palun sisesta korrektne kaardi number
+autofill-card-name-on-card-2 =
+    .label = Nimi kaardil
+autofill-card-billing-address-2 =
+    .label = Arve esitamise aadress
 autofill-card-name-on-card = Nimi kaardil
 autofill-card-expires-month = Aegumise kuu
 autofill-card-expires-year = Aegumise aasta
