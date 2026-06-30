@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Added shortcuts:
+
 customkeys-title = Llwybrau Byr Bysellfwrdd
 customkeys-search = Chwilio:
 customkeys-change = Newid
@@ -54,6 +57,22 @@ customkeys-nav-select-last-tab = Mynd i'r Tab Olaf
 customkeys-nav-toggle-mute = Tewi/Dad-dewi Sain
 customkeys-edit-find-previous = Canfod y Blaenorol
 customkeys-tools-screenshot = Cymryd Llun Sgrin
+customkeys-category-navigation-2 =
+    .heading = Llywio
 customkeys-caution-message = Mae'r nodwedd hon yn arbrofol ac efallai na fydd yn gweithio yn ôl y disgwyl.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Annilys
+customkeys-key-clear =
+    .aria-label = Clirio
+    .tooltiptext = Clirio
+
+## Shortcut actions
+
+customkeys-key-new =
+    .label = Pwyswch fysell newydd:
+
+## Confirmation dialogs
+
+
+## Sidebar
+
