@@ -58,7 +58,7 @@ detail-update-manual =
     .label = Av
     .tooltiptext = Ikkje installer oppdateringar automatisk
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Køyr i privat vindauge
+detail-private-browsing-label = Køyr i private vindauge
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ikkje tillate i private vindauge
