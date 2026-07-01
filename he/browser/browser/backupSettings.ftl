@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = מיקום
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (מומלץ)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = בחירת מיקום
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] בחירה…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = הפעלת הגיבוי
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = אירעה בעיה עם תיקיית הגיבוי שנבחרה. נא לבחור בתיקייה אחרת ולנסות שוב.
+turn-on-scheduled-backups-error-default-dir-denied = לא הצלחנו לגשת לתיקיית הגיבוי שלך. נא לנסות לבחור במיקום חדש.
 backup-error-file-system = אירעה בעיה עם תיקיית הגיבוי שנבחרה בזמן גיבוי { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

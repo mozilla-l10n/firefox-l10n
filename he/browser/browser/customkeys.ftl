@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = תכונה זו היא ניסיונית וייתכן שלא תפעל כצפוי.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = לא חוקי
+customkeys-shortcut-unassigned =
+    .placeholder = הוספת קיצור דרך
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = קיצור דרך עבור: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = עריכה
+    .tooltiptext = עריכה
 customkeys-key-clear =
     .aria-label = ניקוי
     .tooltiptext = ניקוי
+customkeys-key-reset =
+    .aria-label = שחזור
+    .tooltiptext = שחזור
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = נא להקיש על מקש חדש:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = להסיר קיצור דרך אחר?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = מקש זה כבר נמצא בשימוש על־ידי ״{ $conflict }״.
+customkeys-conflict-confirm-button-confirm = להשתמש בכל זאת
+customkeys-conflict-confirm-button-cancel = ביטול
+customkeys-reset-all-confirm-title = לשחזר את ברירות המחדל?
+customkeys-reset-all-confirm-body = כל קיצורי מקלדת המותאמים אישית שיצרת יוסרו.
+customkeys-reset-all-confirm-button-confirm = שחזור ברירות מחדל
+customkeys-reset-all-confirm-button-cancel = ביטול
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = סרגל צד
+customkeys-title-heading =
+    .heading = קיצורי מקלדת
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = חיפוש קיצורי דרך
+    .placeholder = חיפוש קיצורי דרך
+customkeys-description = שליטה באופן הניווט והאינטראקציה ב־{ -brand-short-name }.
+customkeys-support-link-text = מידע נוסף
+customkeys-reset-all-button = שחזור ברירות מחדל

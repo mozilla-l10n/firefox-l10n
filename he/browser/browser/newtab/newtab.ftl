@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = פרטיות
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = מניות
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link2 =
@@ -159,6 +162,11 @@ home-prefs-mission-message-learn-more-link-srd = כיצד?
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = מידע נוסף
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = חיפוש סימולי מניות
 
 ## Search box component.
 

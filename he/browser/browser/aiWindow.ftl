@@ -286,3 +286,15 @@ aiwindow-feedback-reason-harmful-or-offensive = מזיק או פוגעני
 aiwindow-feedback-reason-other = אחר
 aiwindow-feedback-preview-report = הצגת פרטי הצ’אט
 aiwindow-feedback-preview-report-with-page = הצגת פרטי הצ’אט והדף
+aiwindow-feedback-include-page-content = שיתוף הדפים המוזכרים בצ’אט הזה
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = החלפת פריסת תצוגה
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = החלפת מצב: תצוגת רשימה
+    .tooltiptext = תצוגת רשימה
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = החלפת מצב: תצוגת רשת
+    .tooltiptext = תצוגת רשת
