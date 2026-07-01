@@ -10,8 +10,8 @@ smartwindow-messages-document-title = Messages de la discussion de la { -smart-w
 #   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
 smart-window-context-chips-tag-count =
     { $tags ->
-        [one] { $tags } étiquette
-       *[other] { $tags } étiquettes
+        [one] { $tags } mention
+       *[other] { $tags } mentions
     }
 
 ## Error messages in the chat content
@@ -22,7 +22,7 @@ smartwindow-assistant-error-account-header = Pour utiliser la { -smart-window-br
 smartwindow-assistant-error-capacity-header = La { -smart-window-brand-name(form: "lower-singular") } est actuellement saturée. Veuillez réessayer plus tard.
 smartwindow-assistant-error-budget-body = Vous pouvez toujours naviguer dans cette fenêtre. La discussion sera à nouveau disponible une fois votre limite quotidienne réinitialisée.
 smartwindow-assistant-error-many-requests-header = Veuillez patienter puis réessayer. Trop de messages ont été envoyés en peu de temps.
-smartwindow-assistant-error-max-length-header = Il est temps de lancer une nouvelle discussion. Celle-ci a atteint sa limite de longueur.
+smartwindow-assistant-error-max-length-header = Il est temps de lancer une nouvelle discussion. Celle-ci a atteint sa longueur maximale.
 smartwindow-assistant-error-request-blocked-header = La { -smart-window-brand-name(form: "lower-singular") } n’a pas réussi à se connecter au serveur. Essayez avec un autre réseau ou désactivez votre VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
