@@ -64,11 +64,44 @@ customkeys-caution-message = Deze functie is experimenteel en werkt mogelijk nie
 customkeys-key-invalid = Ongeldig
 customkeys-shortcut-unassigned =
     .placeholder = Snelkoppeling toevoegen
+customkeys-key-edit =
+    .aria-label = Bewerken
+    .tooltiptext = Bewerken
 customkeys-key-clear =
     .aria-label = Wissen
     .tooltiptext = Wissen
+customkeys-key-reset =
+    .aria-label = Herstellen
+    .tooltiptext = Herstellen
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Druk op nieuwe toets:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Nog een snelkoppeling verwijderen?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Deze toets wordt al door ‘{ $conflict }’ gebruikt.
+customkeys-conflict-confirm-button-confirm = Toch gebruiken
+customkeys-conflict-confirm-button-cancel = Annuleren
+customkeys-reset-all-confirm-title = Standaardinstellingen herstellen?
+customkeys-reset-all-confirm-body = Alle aangepaste sneltoetsen die u hebt aangemaakt, zullen worden verwijderd.
+customkeys-reset-all-confirm-button-confirm = Standaardinstellingen herstellen
+customkeys-reset-all-confirm-button-cancel = Annuleren
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Zijbalk
+customkeys-title-heading =
+    .heading = Sneltoetsen
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Sneltoetsen zoeken
+    .placeholder = Sneltoetsen zoeken
+customkeys-description = Bepaal hoe u rond beweegt en interactie met { -brand-short-name } hebt.
+customkeys-support-link-text = Meer info
+customkeys-reset-all-button = Standaardinstellingen herstellen

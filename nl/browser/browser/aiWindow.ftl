@@ -87,6 +87,96 @@ smartbar-context-menu-button =
     .aria-label = Een tabblad of website toevoegen
     .tooltiptext = Een tabblad of website toevoegen
 
+## Website Chip
+
+aiwindow-website-chip-placeholder = Een tabblad of website labelen
+aiwindow-website-chip-history-deleted = Geschiedenis verwijderd
+aiwindow-website-chip-remove-button =
+    .aria-label = Verwijderen
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Welkom bij { -smart-window-brand-name }
+aiwindow-firstrun-model-title = Wat is belangrijk voor u?
+aiwindow-firstrun-model-subtitle = Kies een model om { -smart-window-brand-name } aan te sturen. Wissel op elk gewenst moment.
+aiwindow-firstrun-model-fast-label = Snel
+aiwindow-firstrun-model-fast-body = Antwoordt snel
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Model { $model } van { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexibel
+aiwindow-firstrun-model-allpurpose-body = Degelijke fit voor de meeste behoeften
+aiwindow-firstrun-model-personal-label = Persoonlijk
+aiwindow-firstrun-model-personal-body = Meest afgestemde antwoorden
+aiwindow-firstrun-button = Aan de slag
+aiwindow-firstrun-back-button = Terug
+aiwindow-firstrun-next-button = Volgende
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Snel
+aiwindow-input-model-select-button-label-allpurpose = Flexibel
+aiwindow-input-model-select-button-label-personal = Persoonlijk
+aiwindow-input-model-select-button-label-custom = Aangepast
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Uw eigen LLM gebruiken
+aiwindow-input-model-select-default-badge =
+    .label = Standaard
+    .title = Het geselecteerde standaardmodel
+aiwindow-input-model-select-settings-link = Modelinstellingen
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Meer nuttige antwoorden, op uw voorwaarden
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kan leren van uw chats, navigatie, of beide, om herinneringen te creëren. Ze maken antwoorden na verloop van tijd nuttiger.
+aiwindow-firstrun-memories-conversation-title = Houd het gesprek gaande
+aiwindow-firstrun-memories-conversation-body = Leren van chats betekent dat u zichzelf minder hoeft te herhalen.
+aiwindow-firstrun-memories-relevance-title = Meer relevante antwoorden
+aiwindow-firstrun-memories-relevance-body = Leren van navigatie geeft { -smart-window-brand-name } het grotere geheel.
+aiwindow-firstrun-memories-privacy-title = Ontworpen voor privacy
+aiwindow-firstrun-memories-privacy-body = Herinneringen worden op dit apparaat opgeslagen. Verwijder ze of schakel ze op elk gewenst moment uit.
+aiwindow-firstrun-memories-choose-label = Kies waarvan { -smart-window-brand-name } leert
+aiwindow-firstrun-memories-checkbox-chats = Chats in { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Surfen met { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Werk dit op elk gewenst moment bij in instellingen.
+aiwindow-firstrun-memories-no-create = Begrepen. { -smart-window-brand-name } zal geen herinneringen maken. Werk dit op elk gewenst moment bij in instellingen.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Maak { -smart-window-brand-name } uw favoriet
+aiwindow-firstrun-default-subtitle = Navigeren, zoeken en vragen op één plek. U kunt nog steeds privévensters en klassieke vensters openen wanneer u wilt.
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } altijd openen in { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Instellingen op elk gewenst moment wijzigen
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Vragen
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Herinneringen aan
+    .tooltiptext = Herinneringen in antwoorden gebruiken wanneer dit nuttig is
+aiwindow-memories-off =
+    .aria-label = Herinneringen uit
+    .tooltiptext = Geen herinneringen gebruiken in antwoorden
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nieuwe chat
+    .tooltiptext = Nieuwe chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Sluiten
+    .tooltiptext = Sluiten
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Gesynchroniseerde gegevens blijven in uw account. Open { -smart-window-brand-name(plural-form: "true") } schakelen over naar klassieke vensters.

@@ -449,6 +449,10 @@ onboarding-checklist-pin = { -brand-short-name } aan de taakbalk vastmaken
 onboarding-checklist-import = Importeren uit vorige browser
 onboarding-checklist-extension = Een extensie toevoegen
 onboarding-checklist-sign-up = Registreren of aanmelden bij uw account
+onboarding-checklist-minimize =
+    .label = Minimaliseren
+onboarding-checklist-remove =
+    .label = Checklist verwijderen
 
 ## Tab Groups feature onboarding strings
 

@@ -96,9 +96,68 @@ smart-window-closed-tabs-summary =
         [one] Klaar! Tabblad gesloten.
        *[other] Klaar! Tabbladen gesloten.
     }
+smart-window-closed-tabs-row-label = Gesloten tabbladen
+smart-window-closed-and-restored-label = Gesloten en herstelde tabbladen
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } tabblad hersteld
+       *[other] { $count } tabbladen hersteld
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Tabblad gesloten en vervolgens hersteld.
+       *[other] Tabbladen gesloten en vervolgens hersteld.
+    }
+smart-window-cancelled-label = Verzoek geannuleerd.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Groeperen
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] { $count } tabblad groeperen
+       *[other] { $count } tabbladen groeperen
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } tabblad gegroepeerd
+       *[other] { $count } tabbladen gegroepeerd
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Groep ‘{ $label }’ gemaakt en { $count } tabblad toegevoegd.
+       *[other] Groep ‘{ $label }’ gemaakt en { $count } tabbladen toegevoegd.
+    }
+smart-window-grouped-tabs-row-label = Gegroepeerde tabbladen
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Groepering van tabbladen ongedaan gemaakt
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } tabblad gegroepeerd en daarna gedegroepeerd.
+       *[other] { $count } tabbladen gegroepeerd en daarna gedegroepeerd.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } tabblad gedegroepeerd
+       *[other] { $count } tabbladen gedegroepeerd
+    }
 
 ## Action log
 
+action-log-searching-tabs = Tabbladen doorzoeken
+action-log-searched-open-tabs = Open tabbladen doorzocht
+action-log-searching-history = Geschiedenis doorzoeken
+action-log-searched-history = Geschiedenis doorzocht
+action-log-reading-page = Pagina lezen
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Pagina-inhoud gelezen
 action-log-searching-web = Zoeken op het web
 action-log-searched-web = Gezocht op het web
 action-log-checking-memories = Herinneringen controleren
