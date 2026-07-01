@@ -82,3 +82,4 @@ about-private-browsing-felt-privacy-v1-info-link = Qui podria veure la meva acti
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Tancar totes les finestres privades suprimeix les galetes, l'historial i les dades del lloc.
+about-private-browsing-nova-info-link = Qui podria veure la meva activitat?

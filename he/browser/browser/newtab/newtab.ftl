@@ -167,6 +167,10 @@ newtab-privacy-menu-learn-more = מידע נוסף
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = חיפוש סימולי מניות
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = הסתרת מניות
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = מידע נוסף
 
 ## Search box component.
 
@@ -203,6 +207,7 @@ newtab-topsites-add-shortcut-label = הוספת קיצור דרך
 newtab-topsites-add-shortcut-title =
     .title = הוספת קיצור דרך
     .aria-label = הוספת קיצור דרך
+newtab-shortcuts-pinned-area = אזור מוצמד
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
