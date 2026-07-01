@@ -142,3 +142,88 @@ aiwindow-firstrun-memories-no-create = הבנתי. { -smart-window-brand-name } 
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = הגדרת { -smart-window-brand-name } כברירת מחדל
+aiwindow-firstrun-default-checkbox-label = תמיד לפתוח את { -brand-product-name } ב־{ -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = ניתן להחליף את זה בהגדרות בכל עת
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = לשאול
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = זכרונות פעילים
+    .tooltiptext = שימוש בזכרונות בתגובות לפי הצורך
+aiwindow-memories-off =
+    .aria-label = זכרונות כבויות
+    .tooltiptext = לא להשתמש בזכרונות בתגובות
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = צ’אט חדש
+    .tooltiptext = צ’אט חדש
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = סגירה
+    .tooltiptext = סגירה
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = מעבר ל־{ -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = צ’אטים
+    .aria-label = צ’אטים
+    .tooltiptext = צ’אטים
+smartwindow-footer-history =
+    .label = היסטוריה
+    .aria-label = היסטוריה
+    .tooltiptext = היסטוריה
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = בינה מלאכותית יכולה לעשות טעויות.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = צ’אטים
+    .title = צ’אטים
+firefoxview-chats-header = צ’אטים
+firefoxview-chat-context-delete = מחיקה מהצ’אטים
+    .accesskey = מ
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = חיפוש צ’אטים
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = היום - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = אתמול - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = חזרה לצ’אטים שלך
+firefoxview-chats-empty-description = תוך כדי השימוש ב־{ -smart-window-brand-name }, הצ’אטים שלך יישמרו כאן.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] צ’אט אחד
+       *[other] { NUMBER($count) } צ’אטים
+    }

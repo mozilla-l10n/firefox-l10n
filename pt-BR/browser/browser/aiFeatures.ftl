@@ -23,3 +23,6 @@ ai-window-default-section =
 ai-window-is-default-window =
     .label = Usar o { -smart-window-brand-name } por padrão
     .description = Abrir o { -smart-window-brand-name } quando o { -brand-short-name } iniciar, reiniciar ou abrir links a partir de outros aplicativos.
+ai-window-open-sidebar =
+    .label = Abrir assistente automaticamente
+    .description = Exibir o painel lateral com o assistente em cada nova aba. Feche quando quiser.
