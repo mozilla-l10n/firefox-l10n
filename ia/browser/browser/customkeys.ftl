@@ -64,6 +64,9 @@ customkeys-caution-message = Iste function es experimental e pote non functionar
 customkeys-key-invalid = Non valide
 customkeys-shortcut-unassigned =
     .placeholder = Adder via breve
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Via-breve pro: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Modificar
     .tooltiptext = Modificar
@@ -81,8 +84,14 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Remover un altere via-breve?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Iste clave es jam usate per “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Usar comocunque
 customkeys-conflict-confirm-button-cancel = Cancellar
 customkeys-reset-all-confirm-title = Restaurar le parametros predefinite?
+customkeys-reset-all-confirm-body = Alcun vias breve de claviero personalisate que tu ha create sera removite.
 customkeys-reset-all-confirm-button-confirm = Restaurar le parametros predefinite
 customkeys-reset-all-confirm-button-cancel = Cancellar
 
@@ -92,5 +101,9 @@ customkeys-sidebar =
     .aria-label = Barra lateral
 customkeys-title-heading =
     .heading = Vias breve de claviero
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Cercar tra le vias breve
+    .placeholder = Cercar tra le vias breve
 customkeys-support-link-text = Pro saper plus
 customkeys-reset-all-button = Restaurar le parametros predefinite

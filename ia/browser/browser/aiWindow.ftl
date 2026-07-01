@@ -284,6 +284,26 @@ smart-window-default-promo-additional-button = Non ora
 aiwindow-feedback-modal-title = Condivide commentos
 aiwindow-feedback-what-worked-well = Cosa functionava ben? Necun information personal, per favor.
 aiwindow-feedback-choose-any = Elige qualcosa pertinente
+aiwindow-feedback-add-details = Adde detalios si tu vole. Necun information personal, per favor.
 aiwindow-feedback-submit = Inviar
 aiwindow-feedback-cancel = Cancellar
+aiwindow-feedback-reason-incorrect-or-misleading = Errate o fallace
+aiwindow-feedback-reason-doesnt-address-my-request = Non responde a mi requesta
+aiwindow-feedback-reason-lacks-personalization = Manca de personalisation o contexto
+aiwindow-feedback-reason-performance-or-usability = Problema de prestationes o usabilitate
+aiwindow-feedback-reason-harmful-or-offensive = Malefic o offensive
 aiwindow-feedback-reason-other = Altere
+aiwindow-feedback-preview-report = Vider detalios de chat
+aiwindow-feedback-preview-report-with-page = Vider detalios del chat e del pagina
+aiwindow-feedback-include-page-content = Condivider le paginas citate in iste chat
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Cambiar visualisation
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Cambiar modalitate: visualisation de lista
+    .tooltiptext = Visualisation de lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Cambiar modalitate: visualisation a grillia
+    .tooltiptext = Visualisation a grillia
