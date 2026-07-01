@@ -249,3 +249,54 @@ smart-window-confirm-select-all =
 smart-window-confirm-deselect-all =
     .label = 모두 선택 해제
     .aria-label = 모두 선택 해제
+smart-window-close-confirm =
+    .aria-label = 요청을 취소하고 닫기
+    .tooltiptext = 요청을 취소하고 닫기
+smart-window-confirm-close-tab = 닫기
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs = 탭 { $count }개 닫기
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = 탭 닫힘
+smartwindow-close-tab-callout-subtitle = 기록에서 언제든지 탭을 다시 열 수 있습니다.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = { -smart-window-brand-name }를 기본 브라우저로 설정하시겠습니까?
+smart-window-default-promo-message = { -brand-short-name }는 매번 { -smart-window-brand-name }에서 열립니다.
+smart-window-default-promo-primary-button = 기본으로 설정
+smart-window-default-promo-additional-button = 나중에
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = 의견 공유
+aiwindow-feedback-what-worked-well = 어떤 점이 좋았나요? 개인 정보는 입력하지 마세요.
+aiwindow-feedback-choose-any = 해당하는 것을 선택하세요
+aiwindow-feedback-add-details = 원하시면 상세 내용을 추가하세요. 개인 정보는 입력하지 마세요.
+aiwindow-feedback-disclaimer = 의견 공유를 제출하면 { -brand-shorter-name }가 { -smart-window-brand-name }를 개선하는 데 도움이 됩니다. 다른 채팅은 비공개로 유지됩니다. <a data-l10n-name="learn-more">더 알아보기</a>
+aiwindow-feedback-submit = 보내기
+aiwindow-feedback-cancel = 취소
+aiwindow-feedback-reason-incorrect-or-misleading = 부정확하거나 오해의 소지가 있음
+aiwindow-feedback-reason-doesnt-address-my-request = 요청을 처리하지 않음
+aiwindow-feedback-reason-lacks-personalization = 개인화 또는 맥락 부족
+aiwindow-feedback-reason-performance-or-usability = 성능 및 사용 편의성 문제
+aiwindow-feedback-reason-harmful-or-offensive = 유해하거나 불쾌한 내용
+aiwindow-feedback-reason-other = 기타
+aiwindow-feedback-preview-report = 채팅 상세 정보 보기
+aiwindow-feedback-preview-report-with-page = 채팅 및 페이지 상세 정보 보기
+aiwindow-feedback-include-page-content = 이 채팅에서 참조된 페이지 공유
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = 보기 레이아웃 전환
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = 모드 전환: 목록 보기
+    .tooltiptext = 목록 보기
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = 모드 전환: 그리드 보기
+    .tooltiptext = 그리드 보기

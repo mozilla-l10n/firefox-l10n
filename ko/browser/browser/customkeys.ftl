@@ -62,11 +62,29 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = 이 기능은 실험적이며 예상대로 작동하지 않을 수 있습니다.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = 유효하지 않음
+customkeys-shortcut-unassigned =
+    .placeholder = 단축키 추가
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = 단축키: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = 편집
+    .tooltiptext = 편집
 customkeys-key-clear =
     .aria-label = 지우기
     .tooltiptext = 지우기
+customkeys-key-reset =
+    .aria-label = 복원
+    .tooltiptext = 복원
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = 새 키 누르기:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = 다른 단축키를 제거하시겠습니까?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = 이 키는 “{ $conflict }”에서 이미 사용 중입니다.
