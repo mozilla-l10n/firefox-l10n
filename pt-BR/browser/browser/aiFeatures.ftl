@@ -26,3 +26,15 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Abrir assistente automaticamente
     .description = Exibir o painel lateral com o assistente em cada nova aba. Feche quando quiser.
+smart-window-model-section =
+    .label = Modelo de assistente
+    .description = Escolha um modelo com base no que é importante para você.
+smart-window-model-learn-link = Mais informações sobre modelos
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast =
+    .label = Rápido: responde rapidamente
+    .description = Modelo { $model } de { $ownerName }
