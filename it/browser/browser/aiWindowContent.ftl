@@ -156,6 +156,7 @@ action-log-searched-open-tabs = Ricerca nelle schede aperte completata
 action-log-searching-history = Ricerca nella cronologia
 action-log-searched-history = Ricerca nella cronologia completata
 action-log-reading-page = Lettura della pagina
+# Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Lettura del contenuto della pagina completata
 action-log-searching-web = Ricerca sul Web
 action-log-searched-web = Ricerca sul Web completata
