@@ -275,3 +275,14 @@ aiwindow-feedback-modal-title = שיתוף משוב
 aiwindow-feedback-what-worked-well = מה עבד טוב? בלי מידע אישי, בבקשה.
 aiwindow-feedback-choose-any = נא לבחור בכל מה שרלוונטי
 aiwindow-feedback-add-details = אפשר להוסיף פרטים. רק בלי מידע אישי בבקשה.
+aiwindow-feedback-disclaimer = השליחה משתפת את המשוב ואת הצ’אט שלך כדי לסייע ל־{ -brand-shorter-name } לשפר את { -smart-window-brand-name }. הצ’אטים האחרים שלך יישארו פרטיים. <a data-l10n-name="learn-more">מידע נוסף</a>
+aiwindow-feedback-submit = שליחה
+aiwindow-feedback-cancel = ביטול
+aiwindow-feedback-reason-incorrect-or-misleading = שגוי או מטעה
+aiwindow-feedback-reason-doesnt-address-my-request = לא מתייחס לשאלה/בקשה שלי
+aiwindow-feedback-reason-lacks-personalization = חסר התאמה אישית או הקשר
+aiwindow-feedback-reason-performance-or-usability = בעיית ביצועים או שימושיות
+aiwindow-feedback-reason-harmful-or-offensive = מזיק או פוגעני
+aiwindow-feedback-reason-other = אחר
+aiwindow-feedback-preview-report = הצגת פרטי הצ’אט
+aiwindow-feedback-preview-report-with-page = הצגת פרטי הצ’אט והדף
