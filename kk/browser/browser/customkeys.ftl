@@ -62,9 +62,15 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Бұл функция эксперименталды болып табылады және күткендегідей жұмыс істемеуі мүмкін.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Жарамсыз
+customkeys-key-edit =
+    .aria-label = Түзету
+    .tooltiptext = Түзету
 customkeys-key-clear =
     .aria-label = Тазарту
     .tooltiptext = Тазарту
+customkeys-key-reset =
+    .aria-label = Қалпына келтіру
+    .tooltiptext = Қалпына келтіру
 
 ## Shortcut actions
 
@@ -73,6 +79,9 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-button-confirm = Сонда да қолдану
+customkeys-conflict-confirm-button-cancel = Бас тарту
+customkeys-reset-all-confirm-title = Бастапқы мәндерін қайтару керек пе?
 customkeys-reset-all-confirm-button-cancel = Бас тарту
 
 ## Sidebar

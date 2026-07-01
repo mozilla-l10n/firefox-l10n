@@ -112,3 +112,53 @@ smartwindow-disclaimer = ЖИ қателіктер жіберуі мүмкін.
 firefoxview-chats-nav = Чаттар
     .title = Чаттар
 firefoxview-chats-header = Чаттар
+firefoxview-chat-context-delete = Чаттардан өшіру
+    .accesskey = ш
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Чаттардан іздеу
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Бүгін - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Кеше - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Чаттарыңызға оралу
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } чат
+       *[other] { $count } чат
+    }
+
+## Natural Language Interactions
+
+smart-window-confirm-close-tab = Жабу
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] { $count } бетті жабу
+       *[other] { $count } бетті жабу
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Бет жабылды
+
+## Feedback modal
+
+aiwindow-feedback-reason-other = Басқа
