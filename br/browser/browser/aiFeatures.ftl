@@ -29,3 +29,20 @@ ai-window-open-sidebar =
 smart-window-model-section =
     .label = Patrom skoazeller
     .description = Dibabit ur patrom hervez ar pezh a zo pouezus deoc'h.
+smart-window-model-learn-link = Gouzout hiroc'h a-zivout ar patromoù
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast =
+    .label = Herrek: respontoù buan
+    .description = Patrom { $model } gant { $ownerName }
+smart-window-model-flexible =
+    .label = Gwevn: mat evit darn vrasañ an ezhommoù
+    .description = Patrom { $model } gant { $ownerName }
+smart-window-model-personal =
+    .label = Personel: respontoù personelaet ar muiañ
+    .description = Patrom { $model } gant { $ownerName }
+smart-window-model-custom =
+    .label = Personelaet: Implijit ho LLM deoc'h c'hwi
