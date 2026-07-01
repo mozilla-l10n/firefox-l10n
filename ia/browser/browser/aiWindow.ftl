@@ -131,6 +131,7 @@ aiwindow-input-model-select-settings-link = Configurationes del modello
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Responsas plus utile, super tu terminos
+aiwindow-firstrun-memories-relevance-title = Responsas plus pertinente
 
 ## Ask Toolbar Button
 
