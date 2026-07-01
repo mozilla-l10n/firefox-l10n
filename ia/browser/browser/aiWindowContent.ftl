@@ -156,3 +156,29 @@ action-log-searched-open-tabs = Recercate schedas aperte
 action-log-searching-history = Recerca del chronologia
 action-log-searched-history = Chronologia recercate
 action-log-reading-page = Lectura de pagina
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Contento del pagina legite
+action-log-searching-web = Recerca sur le web
+action-log-searched-web = Recercate sur le web
+action-log-checking-memories = Controlo de memorias
+action-log-checked-memories = Memorias controlate
+action-log-searching-settings = Recerca de configurationes
+action-log-searched-settings = Recerca de configurationes facite
+action-log-searching-world-cup-matches = Recerca de matches de Cuppa del mundo
+action-log-searched-world-cup-matches = Recerca de matches de Cuppa del mundo facite
+action-log-checking-world-cup-live = Controlo al vivo de matches de Cuppa del mundo
+action-log-checked-world-cup-live = Controlo al vivo de matches de Cuppa del mundo facite
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Completate 1 passo
+       *[other] Completate { $count } passos
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Cargate resultatos del recerca in iste scheda. Analyse…

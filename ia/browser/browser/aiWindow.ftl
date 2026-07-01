@@ -5,8 +5,22 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Aperir ligamine in nove { -smart-window-brand-name }
+    .accesskey = l
+appmenuitem-new-ai-window =
+    .label = Nove { -smart-window-brand-name }
+    .value = Nove { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Nove fenestra classic
+menu-file-new-ai-window =
+    .label = Nove { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Nove fenestra classic
 menu-history-chats =
     .label = Chats
+menu-history-chats-recent =
+    .label = Chats recente
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nove scheda
 
@@ -15,11 +29,22 @@ smartwindow-document-title = Nove scheda
 toolbar-button-ai-window-toggle =
     .label = Typo de fenestra
     .tooltiptext = Commuta inter fenestras intelligente e classic.
+ai-window-toggleview-switch-classic =
+    .label = Fenestra classic
+    .value = Fenestra classic
+ai-window-toggleview-switch-classic-description =
+    .label = Navigation standard
+    .value = Navigation standard
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Demanda quando tu naviga
+    .value = Demanda quando tu naviga
 ai-window-toggleview-switch-private =
     .label = Fenestra private
+ai-window-toggleview-open-private =
+    .label = Aperir nove Fenestra private
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Fenestra classic
 
@@ -29,15 +54,42 @@ aiwindow-input-cta-submit-label-chat = Demandar
 aiwindow-input-cta-submit-label-navigate = Ir
 aiwindow-input-cta-submit-label-search = Cercar
 aiwindow-input-cta-submit-label-stop = Stoppar
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Generation del responsa initiate
 aiwindow-input-cta-menu-label-chat = Demandar
+aiwindow-input-cta-menu-label-navigate = Ir a sito
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Cercar con { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Cercar con…
 aiwindow-input-cta-search-submenu-header = Cercar
+aiwindow-input-cta-stop-button =
+    .title = Stoppar responsa
+    .aria-label = Stoppa generation de responsa
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Demanda, cerca, o typa un URL
+smartbar-placeholder-hint-1 = Usa @ pro mentionar schedas recente…
+smartbar-placeholder-hint-2 = Demanda qualcosa…
+smartbar-placeholder-hint-3 = Insere un adresse web…
+smartbar-placeholder-hint-4 = Cercar in le web…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Etiquetta un scheda o sito
 smartbar-mentions-list-no-results-label = Necun resultato trovate
+smartbar-mentions-list-recent-tabs-label = Schedas recente
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Adder un scheda o sito
+    .tooltiptext = Adde un scheda o sito
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Etiquetta un scheda o sito
 aiwindow-website-chip-history-deleted = Chronologia delite
 aiwindow-website-chip-remove-button =
     .aria-label = Remover
@@ -45,9 +97,17 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Benvenite a { -smart-window-brand-name }
+aiwindow-firstrun-model-title = Que es importante pro te?
+aiwindow-firstrun-model-subtitle = Selige un modello pro potentiar { -smart-window-brand-name }. Muta lo quandocunque tu vole.
 aiwindow-firstrun-model-fast-label = Veloce
+aiwindow-firstrun-model-fast-body = Responde rapidemente
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Modello { $model } per { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibile
+aiwindow-firstrun-model-allpurpose-body = Solution valide pro le major parte del besonios
 aiwindow-firstrun-model-personal-label = Personal
+aiwindow-firstrun-model-personal-body = Responsas plus personalisate
 aiwindow-firstrun-button = Que nos va!
 aiwindow-firstrun-back-button = Retro
 aiwindow-firstrun-next-button = Sequente
@@ -66,6 +126,11 @@ aiwindow-input-model-select-menu-item-description-custom = Usa tu proprie GML
 aiwindow-input-model-select-default-badge =
     .label = Predefinite
     .title = Le modello predefinite eligite
+aiwindow-input-model-select-settings-link = Configurationes del modello
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Responsas plus utile, super tu terminos
 
 ## Ask Toolbar Button
 
