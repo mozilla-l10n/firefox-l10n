@@ -39,8 +39,8 @@ ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name(form: "upper-singular") }
     .value = { -smart-window-brand-name(form: "upper-singular") }
 ai-window-toggleview-switch-ai-description =
-    .label = Demander en cours de navigation
-    .value = Demander en cours de navigation
+    .label = Poser une question pendant la navigation
+    .value = Poser une question pendant la navigation
 ai-window-toggleview-switch-private =
     .label = Fenêtre de navigation privée
 ai-window-toggleview-open-private =
@@ -57,7 +57,7 @@ aiwindow-input-cta-submit-label-stop = Arrêter
 # Text announced to screen readers when response generation starts.
 aiwindow-generation-started-announcement = La génération de la réponse a commencé
 aiwindow-input-cta-menu-label-chat = Poser une question
-aiwindow-input-cta-menu-label-navigate = Aller au site
+aiwindow-input-cta-menu-label-navigate = Ouvrir le site
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Rechercher avec { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Rechercher avec…
