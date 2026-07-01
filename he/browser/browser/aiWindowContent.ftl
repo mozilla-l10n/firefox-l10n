@@ -11,7 +11,7 @@ smartwindow-messages-document-title = הודעות צ’אט של { -smart-windo
 smart-window-context-chips-tag-count =
     { $tags ->
         [one] תג אחד
-       *[other] { NUMBER($tags) } תגים
+       *[other] { $tags } תגים
     }
 
 ## Error messages in the chat content
@@ -87,7 +87,7 @@ smartwindow-nl-undo-button =
 smart-window-closed-tabs-label =
     { $count ->
         [one] סגירת לשונית אחת
-       *[other] סגירת { NUMBER($count) } לשוניות
+       *[other] סגירת { $count } לשוניות
     }
 smart-window-closed-tabs-summary =
     { $count ->
@@ -99,7 +99,7 @@ smart-window-closed-and-restored-label = לשוניות שנסגרו ושוחז�
 smart-window-restored-row-label =
     { $count ->
         [one] שוחזרה לשונית אחת
-       *[other] שוחזרו { NUMBER($count) } לשוניות
+       *[other] שוחזרו { $count } לשוניות
     }
 smart-window-restore-success-summary =
     { $count ->
@@ -113,7 +113,7 @@ smart-window-confirm-group-tab = קיבוץ
 smart-window-confirm-group-tabs =
     { $count ->
         [one] קיבוץ לשונית אחת
-       *[other] קיבוץ { NUMBER($count) } לשוניות
+       *[other] קיבוץ { $count } לשוניות
     }
 # Action result labels for grouped tabs
 # Variables
@@ -121,7 +121,7 @@ smart-window-confirm-group-tabs =
 smart-window-grouped-tabs-label =
     { $count ->
         [one] לשונית אחת קובצה
-       *[other] { NUMBER($count) } לשוניות קובצו
+       *[other] { $count } לשוניות קובצו
     }
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -129,7 +129,7 @@ smart-window-grouped-tabs-label =
 smart-window-grouped-tabs-summary =
     { $count ->
         [one] הקבוצה ״{ $label }״ נוצרה ונוספה לשונית אחת.
-       *[other] הקבוצה ״{ $label }״ נוצרה ונוספו { NUMBER($count) } לשוניות.
+       *[other] הקבוצה ״{ $label }״ נוצרה ונוספו { $count } לשוניות.
     }
 smart-window-grouped-tabs-row-label = לשוניות מקובצות
 
@@ -157,7 +157,7 @@ action-log-checked-world-cup-live = בוצע חיפוש של משחקים חיי
 action-log-completed-steps =
     { $count ->
         [one] הושלם שלב אחד
-       *[other] הושלמו { NUMBER($count) } שלבים
+       *[other] הושלמו { $count } שלבים
     }
 
 ## Assistant Loader
