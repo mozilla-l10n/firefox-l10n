@@ -105,10 +105,10 @@ aiwindow-firstrun-model-fast-body = Risposte rapide
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Modello { $model } di { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flessibile
-aiwindow-firstrun-model-allpurpose-body = Valida soluzione per la esigenze più comuni
+aiwindow-firstrun-model-allpurpose-body = Adatto alle esigenze più comuni
 aiwindow-firstrun-model-personal-label = Personale
 aiwindow-firstrun-model-personal-body = Risposte più personalizzate
-aiwindow-firstrun-button = Iniziamo
+aiwindow-firstrun-button = Inizia
 aiwindow-firstrun-back-button = Indietro
 aiwindow-firstrun-next-button = Successivo
 
@@ -130,15 +130,15 @@ aiwindow-input-model-select-settings-link = Impostazioni modello
 
 ## Firstrun memories onboarding
 
-aiwindow-firstrun-memories-title = Risposte più utili, secondo le tue preferenze
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name(form: "uppercase-singular") } può apprendere dalle tue chat, dalla navigazione o da entrambe per creare memorie. Queste memorie rendono le risposte sempre più utili col passare del tempo.
-aiwindow-firstrun-memories-conversation-title = Continua la conversazione
-aiwindow-firstrun-memories-conversation-body = Grazie all’apprendimento dalle chat, dovrai ripeterti meno.
+aiwindow-firstrun-memories-title = Risposte più utili, in base alle tue preferenze
+aiwindow-firstrun-memories-subtitle = Le { -smart-window-brand-name } possono apprendere dalle tue chat, dalla navigazione o da entrambe per creare memorie. Queste memorie rendono le risposte sempre più utili col passare del tempo.
+aiwindow-firstrun-memories-conversation-title = Ricorda ciò che conta
+aiwindow-firstrun-memories-conversation-body = Imparando dalle chat non dovrai più ripeterti.
 aiwindow-firstrun-memories-relevance-title = Risposte più pertinenti
 aiwindow-firstrun-memories-relevance-body = L’apprendimento dalla navigazione offre alle { -smart-window-brand-name } una visione più completa.
 aiwindow-firstrun-memories-privacy-title = Privato per impostazione predefinita
 aiwindow-firstrun-memories-privacy-body = Le memorie vengono salvate su questo dispositivo. Eliminale o disattivale in qualsiasi momento.
-aiwindow-firstrun-memories-choose-label = Scegli da cosa può imparare { -smart-window-brand-name(form: "uppercase-singular") }
+aiwindow-firstrun-memories-choose-label = Scegli cosa usare per personalizzare le risposte nelle { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-chats = Chat nelle { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Navigazione in { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Aggiorna nelle impostazioni in qualsiasi momento.
