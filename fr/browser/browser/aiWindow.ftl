@@ -28,7 +28,7 @@ smartwindow-document-title = Nouvel onglet
 
 toolbar-button-ai-window-toggle =
     .label = Type de fenêtre
-    .tooltiptext = Basculer entre les fenêtres intelligente et classique.
+    .tooltiptext = Basculez entre les { -smart-window-brand-name(form: "lower-plural") } et classiques.
 ai-window-toggleview-switch-classic =
     .label = Fenêtre classique
     .value = Fenêtre classique

@@ -108,7 +108,7 @@ smart-window-restore-success-summary =
         [one] Onglet fermé, puis restauré.
        *[other] Onglets fermés, puis restaurés.
     }
-smart-window-cancelled-label = Requête annulée.
+smart-window-cancelled-label = Demande annulée.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Regrouper
 # Button label - "Group" is a verb (action to group tabs)
