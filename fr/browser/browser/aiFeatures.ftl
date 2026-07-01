@@ -83,7 +83,7 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = Supprimer tous les souvenirs ?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = Les mémoires existantes seront supprimées. Si vous ne souhaitez pas créer de nouveaux mémoires, décochez les options « Abonnez-vous à… » dans les paramètres de { -smart-window-brand-name }.
+ai-window-delete-all-memories-message = Les souvenirs existants seront supprimés. Pour empêcher la création de nouveaux souvenirs, décochez les options « Apprendre de… » dans les paramètres des { -smart-window-brand-name(form: "lower-plural") }.
 ai-window-delete-all-memories-confirm = Supprimer
 ai-window-delete-all-memories-cancel = Annuler
 # Variables:

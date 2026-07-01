@@ -160,10 +160,10 @@ smartwindow-ask-button =
 
 aiwindow-memories-on =
     .aria-label = Souvenirs activés
-    .tooltiptext = Utiliser les souvenirs dans les réponses lorsque cela est utile
+    .tooltiptext = Utilise les souvenirs dans les réponses lorsque cela est utile
 aiwindow-memories-off =
-    .tooltiptext = N’utilisez pas de souvenir dans les réponses
-    .aria-label = Mémoires éteintes
+    .aria-label = Souvenirs désactivés
+    .tooltiptext = N’utilise pas les souvenirs dans les réponses
 
 ## New Chat Button
 
@@ -179,11 +179,11 @@ aiwindow-close-sidebar =
 
 ## Sign out dialog
 
-fxa-signout-dialog-body-aiwindow = Les données synchronisées resteront dans votre compte. Ouvrir { -smart-window-brand-name(plural-form: "true") } basculera vers les fenêtres classiques.
+fxa-signout-dialog-body-aiwindow = Les données synchronisées resteront sur votre compte. Les { -smart-window-brand-name(form: "lower-plural") } ouvertes seront converties en fenêtres classiques.
 
 ## Smart Window Toggle Button (in-page)
 
-smartwindow-switch-to-smart-window = Utiliser { -smart-window-brand-name }
+smartwindow-switch-to-smart-window = Passer en mode { -smart-window-brand-name(form: "upper-singular") }
 
 ## Fullpage Footer Actions
 
@@ -303,8 +303,8 @@ aiwindow-feedback-include-page-content = Partager les pages référencées dans 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Changer la disposition des onglets
 aiwindow-ai-chat-grid-list-view =
-    .aria-label = Changer de mode : vue en liste
-    .tooltiptext = Vue liste
+    .aria-label = Changer de mode : affichage en liste
+    .tooltiptext = Affichage en liste
 aiwindow-ai-chat-grid-grid-view =
-    .aria-label = Changer de mode : mode grille
-    .tooltiptext = Mode grille
+    .aria-label = Changer de mode : affichage en grille
+    .tooltiptext = Affichage en grille
