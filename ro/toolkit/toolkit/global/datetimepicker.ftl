@@ -71,6 +71,10 @@ time-spinner-hour-label =
     .aria-label = Oră
 time-spinner-minute-label =
     .aria-label = Minut
+time-spinner-second-label =
+    .aria-label = Secundă
+time-spinner-millisecond-label =
+    .aria-label = Milisecundă
 # For example, in English, when the 24 hours of the day are divided into two
 # periods of 12 hours, the time of the day, or the period of the day is either
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
@@ -88,6 +92,14 @@ time-spinner-minute-previous =
     .aria-label = Minutul anterior
 time-spinner-minute-next =
     .aria-label = Minutul următor
+time-spinner-second-previous =
+    .aria-label = Secunda anterioară
+time-spinner-second-next =
+    .aria-label = Secunda următoare
+time-spinner-millisecond-previous =
+    .aria-label = Milisecunda anterioară
+time-spinner-millisecond-next =
+    .aria-label = Milisecunda următoare
 time-spinner-day-period-previous =
     .aria-label = Perioada anterioară din zi
 time-spinner-day-period-next =

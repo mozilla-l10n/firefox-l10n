@@ -71,8 +71,8 @@ aiwindow-input-cta-stop-button =
 smartbar-placeholder =
     .placeholder = Demander, rechercher ou saisir une URL
 smartbar-placeholder-hint-1 = Utiliser le @ pour mentionner des onglets récents…
-smartbar-placeholder-hint-2 = Demander n’importe quoi…
-smartbar-placeholder-hint-3 = Saisir une adresse web…
+smartbar-placeholder-hint-2 = Posez votre question…
+smartbar-placeholder-hint-3 = Saisissez une adresse web…
 smartbar-placeholder-hint-4 = Rechercher sur le Web…
 
 ## Mentions
@@ -97,8 +97,8 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name }
-aiwindow-firstrun-model-title = Qu’est-ce qui est important pour vous ?
-aiwindow-firstrun-model-subtitle = Choisissez un modèle pour alimenter { -smart-window-brand-name }. Changez de mode à tout moment.
+aiwindow-firstrun-model-title = Qu’est-ce qui compte pour vous ?
+aiwindow-firstrun-model-subtitle = Choisissez un modèle à utiliser dans les { -smart-window-brand-name(form: "lower-plural") }. Changez de modèle à tout moment.
 aiwindow-firstrun-model-fast-label = Rapide
 aiwindow-firstrun-model-fast-body = Réponses rapides
 # $model (string) - The name of the AI model
@@ -285,7 +285,7 @@ aiwindow-feedback-modal-title = Donner mon avis
 aiwindow-feedback-what-worked-well = Qu’est-ce qui a bien fonctionné ? Merci de ne pas inclure d’informations personnelles.
 aiwindow-feedback-choose-any = Sélectionnez toutes les propositions pertinentes
 aiwindow-feedback-add-details = Ajoutez des détails si vous le souhaitez. Merci de ne pas inclure d’informations personnelles.
-aiwindow-feedback-disclaimer = Envoyer partage vos commentaires et ce chat pour aider { -brand-shorter-name } à améliorer { -smart-window-brand-name }. Vos autres discussions restent privées. <a data-l10n-name="learn-more">En savoir plus</a>
+aiwindow-feedback-disclaimer = En cliquant sur « Envoyer », vous partagez vos commentaires et cette discussion pour aider { -brand-shorter-name } à améliorer les { -smart-window-brand-name(form: "lower-plural") }. Vos autres discussions restent privées. <a data-l10n-name="learn-more">En savoir plus</a>
 aiwindow-feedback-submit = Envoyer
 aiwindow-feedback-cancel = Annuler
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrect ou trompeur

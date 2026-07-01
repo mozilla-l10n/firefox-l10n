@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ceas
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Confidențialitate
 home-prefs-mission-message2 =
     .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link2 =
@@ -152,6 +155,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Susține { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Află cum
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Află mai multe
 
 ## Search box component.
 
@@ -495,6 +503,8 @@ newtab-custom-widget-clock-toggle =
     .label = Ceas
 newtab-custom-widget-sports-toggle2 =
     .label = Sporturi
+newtab-custom-widget-privacy-toggle =
+    .label = Confidențialitate
 newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi
@@ -1272,6 +1282,8 @@ newtab-sports-widget-team-tbd = De stabilit
 newtab-sports-widget-message-wallpapers-title = Începe Cupa Mondială cu imagini noi de fundal
 newtab-sports-widget-message-wallpapers-body = Adu energia zilei de meci în browser pentru turneu.
 newtab-sports-widget-message-wallpapers-cta = Alege o imagine de fundal
+newtab-sports-widget-message-wallpapers-semifinals-title = Obține o nouă imagine de fundal pentru semifinale
+newtab-sports-widget-message-wallpapers-semifinals-body = Pregătește terenul pentru cele mai importante meciuri ale Cupei Mondiale.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adaugă widgeturi
 newtab-sports-widget-message-day-in-play-title = Ține-ți ziua în joc cu widgeturi { -brand-product-name }

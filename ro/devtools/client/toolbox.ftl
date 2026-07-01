@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Dezactivează întotdeauna deasupra
     .title = Va reporni instrumentele de dezvoltare
 toolbox-always-on-top-disabled2 = Activează întotdeauna deasupra
     .title = Va reporni instrumentele de dezvoltare
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Documentul poate fi încărcat și din „{ $url }” folosind „Modul local” din DevTools, care poate fi activat în panoul de setări.
+toolbox-local-mode-notice-add-to-settings-button = Adăugă la setări
+toolbox-local-mode-notice-try-it-button = Încearcă-l
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navighează la maparea existentă
+toolbox-local-mode-notice-always-hide = Nu mai afișa
