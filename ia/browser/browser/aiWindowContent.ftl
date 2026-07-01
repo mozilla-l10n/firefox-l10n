@@ -155,3 +155,4 @@ action-log-searching-tabs = Recerca de schedas
 action-log-searched-open-tabs = Recercate schedas aperte
 action-log-searching-history = Recerca del chronologia
 action-log-searched-history = Chronologia recercate
+action-log-reading-page = Lectura de pagina
