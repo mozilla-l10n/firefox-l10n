@@ -62,6 +62,8 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Deze functie is experimenteel en werkt mogelijk niet zoals verwacht.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ongeldig
+customkeys-shortcut-unassigned =
+    .placeholder = Snelkoppeling toevoegen
 customkeys-key-clear =
     .aria-label = Wissen
     .tooltiptext = Wissen
