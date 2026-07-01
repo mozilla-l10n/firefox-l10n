@@ -135,3 +135,117 @@ aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }은 대화나 
 aiwindow-firstrun-memories-conversation-title = 대화 계속하기
 aiwindow-firstrun-memories-conversation-body = 대화 기록을 학습하면 같은 내용을 번거롭게 다시 반복하지 않아도 됩니다.
 aiwindow-firstrun-memories-relevance-title = 연관성이 높은 답변
+aiwindow-firstrun-memories-relevance-body = 탐색을 학습하면 { -smart-window-brand-name }가 전체적인 맥락을 파악할 수 있습니다.
+aiwindow-firstrun-memories-privacy-title = 철저한 개인 정보 보호
+aiwindow-firstrun-memories-privacy-body = 기억된 내용은 이 기기에 저장됩니다. 언제든지 삭제하거나 끌 수 있습니다.
+aiwindow-firstrun-memories-choose-label = { -smart-window-brand-name }의 학습 대상을 선택하세요
+aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name }에서의 대화
+aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } 전체의 탐색 기록
+aiwindow-firstrun-memories-update-settings = 설정에서 언제든지 변경할 수 있습니다.
+aiwindow-firstrun-memories-no-create = 확인했습니다. { -smart-window-brand-name }가 정보를 기억하지 않습니다. 설정에서 언제든지 변경할 수 있습니다.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = { -smart-window-brand-name }을 기본 AI로 지정해 보세요
+aiwindow-firstrun-default-subtitle = 탐색, 검색, 질문을 한 곳에서 해결하세요. 원할 때는 언제든지 사생활 보호 창이나 일반 창을 열 수도 있습니다.
+aiwindow-firstrun-default-checkbox-label = 항상 { -smart-window-brand-name }에서 { -brand-product-name } 열기
+aiwindow-firstrun-default-checkbox-description = 설정에서 언제든 전환 가능합니다
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = 묻기
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = 기억 기능 켜짐
+    .tooltiptext = 필요한 경우 응답에 기억 기능 활용
+aiwindow-memories-off =
+    .aria-label = 기억 기능 꺼짐
+    .tooltiptext = 응답에 기억 기능 사용 안 함
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = 새 채팅
+    .tooltiptext = 새 채팅
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = 닫기
+    .tooltiptext = 닫기
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = 동기화된 데이터는 계정에 그대로 유지됩니다. 열려 있는 { -smart-window-brand-name(plural-form: "true") }은 일반 창으로 전환됩니다.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = { -smart-window-brand-name }로 전환
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = 채팅
+    .aria-label = 채팅
+    .tooltiptext = 채팅
+smartwindow-footer-history =
+    .label = 기록
+    .aria-label = 기록
+    .tooltiptext = 기록
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI는 실수를 할 수 있습니다.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = 채팅
+    .title = 채팅
+firefoxview-chats-header = 채팅
+firefoxview-chat-context-delete = 채팅에서 삭제
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = 채팅 검색
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = 오늘 - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = 어제 - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = 채팅으로 돌아가기
+firefoxview-chats-empty-description = { -smart-window-brand-name }를 사용함에 따라, 채팅이 여기에 저장됩니다.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count = 채팅 { $count }개
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = 탐색, 다운로드 및 채팅 기록
+    .accesskey = B
+item-history-downloads-and-chat-description = 사이트, 다운로드 및 채팅 기록을 지웁니다
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = 모두 선택
+    .aria-label = 모두 선택
+smart-window-confirm-deselect-all =
+    .label = 모두 선택 해제
+    .aria-label = 모두 선택 해제
