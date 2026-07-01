@@ -77,7 +77,7 @@ smartbar-placeholder-hint-4 = 웹 검색…
 
 ## Mentions
 
-smartbar-mention-typing-placeholder = 탭이나 사이트 태그
+smartbar-mention-typing-placeholder = 탭 또는 사이트 태그
 smartbar-mentions-list-no-results-label = 결과 없음
 smartbar-mentions-list-recent-tabs-label = 최근 탭
 
@@ -90,3 +90,48 @@ smartbar-context-menu-button =
 ## Website Chip
 
 aiwindow-website-chip-placeholder = 탭 또는 사이트 태그
+aiwindow-website-chip-history-deleted = 기록 삭제됨
+aiwindow-website-chip-remove-button =
+    .aria-label = 제거
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = { -smart-window-brand-name }에 오신 것을 환영합니다
+aiwindow-firstrun-model-title = 나에게 가장 중요한 기준은?
+aiwindow-firstrun-model-subtitle = { -smart-window-brand-name }를 제공할 모델을 선택하세요. 언제든지 전환할 수 있습니다.
+aiwindow-firstrun-model-fast-label = 빠름
+aiwindow-firstrun-model-fast-body = 신속한 답변
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = { $ownerName }의 { $model } 모델
+aiwindow-firstrun-model-allpurpose-label = 유연함
+aiwindow-firstrun-model-allpurpose-body = 대부분의 작업에 적합
+aiwindow-firstrun-model-personal-label = 맞춤형
+aiwindow-firstrun-model-personal-body = 나에게 최적화된 답변
+aiwindow-firstrun-button = 시작하기
+aiwindow-firstrun-back-button = 뒤로
+aiwindow-firstrun-next-button = 다음
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = 빠름
+aiwindow-input-model-select-button-label-allpurpose = 유연함
+aiwindow-input-model-select-button-label-personal = 맞춤형
+aiwindow-input-model-select-button-label-custom = 사용자 지정
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName }{ $model }
+aiwindow-input-model-select-menu-item-description-custom = 내가 가진 자체 LLM 사용
+aiwindow-input-model-select-default-badge =
+    .label = 기본
+    .title = 선택된 기본 모델
+aiwindow-input-model-select-settings-link = 모델 설정
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = 내 기준에 맞춘, 더 똑똑한 답변
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }은 대화나 탐색, 또는 둘 모두를 바탕으로 정보를 기억할 수 있습니다. 기억이 쌓일수록 시간이 지날수록 더 유용한 답변을 제공합니다.
+aiwindow-firstrun-memories-conversation-title = 대화 계속하기
+aiwindow-firstrun-memories-conversation-body = 대화 기록을 학습하면 같은 내용을 번거롭게 다시 반복하지 않아도 됩니다.
+aiwindow-firstrun-memories-relevance-title = 연관성이 높은 답변
