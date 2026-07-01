@@ -126,7 +126,7 @@ aiwindow-input-model-select-menu-item-description-custom = Utilisez votre propre
 aiwindow-input-model-select-default-badge =
     .label = Par défaut
     .title = Le modèle sélectionné par défaut
-aiwindow-input-model-select-settings-link = Paramètres du modèle
+aiwindow-input-model-select-settings-link = Paramètres des modèles
 
 ## Firstrun memories onboarding
 
@@ -141,7 +141,7 @@ aiwindow-firstrun-memories-privacy-body = Les souvenirs sont stockés sur cet ap
 aiwindow-firstrun-memories-choose-label = Choisissez ce dont { -smart-window-brand-name } apprend
 aiwindow-firstrun-memories-checkbox-chats = Les discussions des { -smart-window-brand-name(form: "lower-plural") }
 aiwindow-firstrun-memories-checkbox-browsing = La navigation sur { -brand-product-name }
-aiwindow-firstrun-memories-update-settings = Mettez-les à jour à tout moment dans les paramètres.
+aiwindow-firstrun-memories-update-settings = Modifiez ce choix à tout moment dans les paramètres.
 aiwindow-firstrun-memories-no-create = Bien reçu, les { -smart-window-brand-name(form: "lower-plural") } ne créeront pas de souvenirs. Vous pourrez modifier ce choix à tout moment dans les paramètres.
 
 ## Firstrun set as default onboarding
