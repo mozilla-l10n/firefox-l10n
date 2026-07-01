@@ -225,7 +225,7 @@ firefoxview-chats-empty-description = תוך כדי השימוש ב־{ -smart-wi
 firefoxview-search-chat-results-count =
     { $count ->
         [one] צ’אט אחד
-       *[other] { NUMBER($count) } צ’אטים
+       *[other] { $count } צ’אטים
     }
 
 ## Clear browsing data dialog
@@ -252,7 +252,7 @@ smart-window-confirm-close-tab = סגירה
 smart-window-confirm-close-tabs =
     { $count ->
         [one] סגירת לשונית אחת
-       *[other] סגירת { NUMBER($count) } לשוניות
+       *[other] סגירת { $count } לשוניות
     }
 
 ## Natural Language action callouts
