@@ -88,3 +88,23 @@ customkeys-conflict-confirm-title = 다른 단축키를 제거하시겠습니까
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm-body = 이 키는 “{ $conflict }”에서 이미 사용 중입니다.
+customkeys-conflict-confirm-button-confirm = 그래도 사용
+customkeys-conflict-confirm-button-cancel = 취소
+customkeys-reset-all-confirm-title = 기본값으로 복원하시겠습니까?
+customkeys-reset-all-confirm-body = 생성한 모든 사용자 지정 키보드 단축키가 제거됩니다.
+customkeys-reset-all-confirm-button-confirm = 기본값 복원
+customkeys-reset-all-confirm-button-cancel = 취소
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = 사이드바
+customkeys-title-heading =
+    .heading = 키보드 단축키
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = 단축키 검색
+    .placeholder = 단축키 검색
+customkeys-description = { -brand-short-name }의 탐색 및 상호작용 방식을 제어합니다.
+customkeys-support-link-text = 더 알아보기
+customkeys-reset-all-button = 기본값 복원

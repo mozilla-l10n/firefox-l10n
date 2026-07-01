@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = 다중 프로세스 도구상자
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = 대상 브라우저의 메인 프로세스 및 콘텐츠 프로세스
+about-debugging-message-error-icon =
+    .alt = 오류 아이콘
+about-debugging-message-info-icon =
+    .alt = 정보 아이콘
+about-debugging-message-warning-icon =
+    .alt = 경고 아이콘
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = 메시지 닫기

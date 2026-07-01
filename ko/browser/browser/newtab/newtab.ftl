@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = 개인 정보 보호
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = 주식
 home-prefs-mission-message2 =
     .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
 home-prefs-manage-topics-link2 =
@@ -156,6 +159,15 @@ home-prefs-mission-message-learn-more-link-srd = 방법 알아보기
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 더 알아보기
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = 주식 종목 코드 검색
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = 주식 숨기기
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = 더 알아보기
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -191,6 +203,7 @@ newtab-topsites-add-shortcut-label = 바로 가기 추가
 newtab-topsites-add-shortcut-title =
     .title = 바로 가기 추가
     .aria-label = 바로 가기 추가
+newtab-shortcuts-pinned-area = 고정된 영역
 newtab-topsites-title-label = 제목
 newtab-topsites-title-input =
     .placeholder = 제목 입력
@@ -500,6 +513,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = 스포츠
 newtab-custom-widget-privacy-toggle =
     .label = 개인 정보 보호
+newtab-custom-widget-stocks-toggle =
+    .label = 주식
 newtab-custom-widget-section-title = 위젯
 newtab-custom-widget-section-toggle =
     .label = 위젯

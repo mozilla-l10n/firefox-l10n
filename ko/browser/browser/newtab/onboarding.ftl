@@ -448,6 +448,10 @@ onboarding-checklist-pin = { -brand-short-name }를 작업 표시줄에 고정
 onboarding-checklist-import = 이전 브라우저에서 가져오기
 onboarding-checklist-extension = 확장 기능 추가
 onboarding-checklist-sign-up = 계정 가입 또는 로그인
+onboarding-checklist-minimize =
+    .label = 최소화
+onboarding-checklist-remove =
+    .label = 체크리스트 제거
 
 ## Tab Groups feature onboarding strings
 

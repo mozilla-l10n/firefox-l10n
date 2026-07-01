@@ -39,6 +39,8 @@ tabbrowser-close-tabs-tooltip =
     .label = 탭 { $tabCount }개 닫기
 tab-splitview-splitter =
     .aria-label = 분할 화면 탭 크기 조정
+tab-devtools-splitter =
+    .aria-label = 개발자 도구 패널 크기 조정
 
 ## Tooltips for tab audio control
 ## Variables:

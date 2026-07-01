@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = 열린 탭
 sidebar-options-menu-button =
     .title = 메뉴 열기
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = 사이드바 크기 조정
 
 ## Labels for sidebar history panel
 
