@@ -127,3 +127,18 @@ aiwindow-input-model-select-settings-link = הגדרות המודל
 
 aiwindow-firstrun-memories-title = תשובות מועילות יותר, בתנאים שלך
 aiwindow-firstrun-memories-subtitle = ‏{ -smart-window-brand-name } יכול ללמוד מהצ’אטים שלך, מהגלישה או משניהם כדי ליצור זכרונות. הם הופכים את התשובות למועילות יותר לאורך זמן.
+aiwindow-firstrun-memories-conversation-title = לזרום עם השיחה
+aiwindow-firstrun-memories-conversation-body = למידה מהשיחות מאפשרת לך לחזור על עצמך פחות.
+aiwindow-firstrun-memories-relevance-title = תשובות רלוונטיות יותר
+aiwindow-firstrun-memories-relevance-body = למידה מהגלישה נותנת ל־{ -smart-window-brand-name } את התמונה הרחבה יותר.
+aiwindow-firstrun-memories-privacy-title = פרטיות מהיסודות
+aiwindow-firstrun-memories-privacy-body = הזכרונות נשמרים במכשיר זה. ניתן למחוק או לכבות אותם בכל עת.
+aiwindow-firstrun-memories-choose-label = בחירה בפריטים ש־{ -smart-window-brand-name } לומד
+aiwindow-firstrun-memories-checkbox-chats = צ’אטים ב־{ -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = גלישה ברחבי { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = ניתן לעדכן בהגדרות בכל עת.
+aiwindow-firstrun-memories-no-create = הבנתי. { -smart-window-brand-name } לא ייצור זכרונות. ניתן לעדכן בהגדרות בכל עת.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = הגדרת { -smart-window-brand-name } כברירת מחדל
