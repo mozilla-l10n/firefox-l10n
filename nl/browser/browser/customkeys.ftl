@@ -64,6 +64,9 @@ customkeys-caution-message = Deze functie is experimenteel en werkt mogelijk nie
 customkeys-key-invalid = Ongeldig
 customkeys-shortcut-unassigned =
     .placeholder = Snelkoppeling toevoegen
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Snelkoppeling voor: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Bewerken
     .tooltiptext = Bewerken

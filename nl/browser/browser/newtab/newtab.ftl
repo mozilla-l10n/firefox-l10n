@@ -165,6 +165,8 @@ newtab-privacy-menu-learn-more = Meer info
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Tickersymbolen doorzoeken
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Aandelen verbergen
 # Context menu item linking to more information about the Stocks widget.
@@ -205,6 +207,7 @@ newtab-topsites-add-shortcut-label = Snelkoppeling toevoegen
 newtab-topsites-add-shortcut-title =
     .title = Snelkoppeling toevoegen
     .aria-label = Snelkoppeling toevoegen
+newtab-shortcuts-pinned-area = Vastgemaakt gebied
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Voer een titel in

@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Open tabbladen
 sidebar-options-menu-button =
     .title = Menu openen
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Formaat zijbalk wijzigen
 
 ## Labels for sidebar history panel
 
