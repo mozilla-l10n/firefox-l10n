@@ -2,9 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = { -smart-window-brand-name } 聊天訊息
+
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count = { $tags } 個標籤
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = 某些東西不對勁，請再試一次。
+smartwindow-assistant-error-budget-header = 已達今日的聊天數量上限。
 smartwindow-signin-btn = 登入
 
 ## Assistant Message footer
