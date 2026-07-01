@@ -464,6 +464,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Varsayılan olarak ayarla
 set-default-menu-message-primary-button-variant = Ana tarayıcı olarak ayarla
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } tarayıcısını varsayılan yap
 
 ## Firefox Relay 50 Masks Announcement
 
