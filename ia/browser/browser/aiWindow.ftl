@@ -131,18 +131,59 @@ aiwindow-input-model-select-settings-link = Configurationes del modello
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Responsas plus utile, super tu terminos
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } pote apprender ab tu chats, navigar, o ambe pro crear memorias. Istos produce responsas plus utile in le tempore.
+aiwindow-firstrun-memories-conversation-title = Continua a le conversation
+aiwindow-firstrun-memories-conversation-body = Apprender ab le chats significa que tu mesme debera repeter minus.
 aiwindow-firstrun-memories-relevance-title = Responsas plus pertinente
+aiwindow-firstrun-memories-relevance-body = Apprender ab le navigation da a { -smart-window-brand-name } le major imagine.
+aiwindow-firstrun-memories-privacy-title = Private per designo
+aiwindow-firstrun-memories-privacy-body = Le memorias es reservate sur iste apparato. Dele los o disactiva los quandocunque.
+aiwindow-firstrun-memories-choose-label = Elige que { -smart-window-brand-name } apprende ab illos
+aiwindow-firstrun-memories-checkbox-chats = Chats in { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navigation in { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Quandocunque actualisa in configurationes.
+aiwindow-firstrun-memories-no-create = Recipite. { -smart-window-brand-name } non creara memorias. Quandocunque actualisa in configurationes.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Rende { -smart-window-brand-name } tu favorite
+aiwindow-firstrun-default-subtitle = Naviga, recerca, e demanda in un sol posto. Tu pote ancora aperir fenestras private e classic quando tu vole.
+aiwindow-firstrun-default-checkbox-label = Sempre aperir { -brand-product-name } in { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Passar al configurationes quandocunque
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Demandar
 
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memorias active
+    .tooltiptext = Usar memorias in responsas quando utile
+aiwindow-memories-off =
+    .aria-label = Memorias disactivate
+    .tooltiptext = Non usa memorias in responsas
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nove chat
+    .tooltiptext = Nove chat
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
     .aria-label = Clauder
     .tooltiptext = Clauder
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Datos synchronisate remanera in tu conto. Le { -smart-window-brand-name(plural-form: "ver") } aperte sera convertite al fenestras classic.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Passar a { -smart-window-brand-name }
 
 ## Fullpage Footer Actions
 
@@ -180,6 +221,11 @@ firefoxview-chat-date-yesterday = Heri - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Retorna a tu chats
+firefoxview-chats-empty-description = Pois que tu usa { -smart-window-brand-name }, tu chats sera salvate justo ci.
+
 ## Count displayed in fxview chat search results
 
 
@@ -192,6 +238,13 @@ firefoxview-search-chat-results-count =
        *[other] { $count } chats
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Chronologia de navigation, discargamentos, e chats
+    .accesskey = C
+item-history-downloads-and-chat-description = Clara chronologia de sito, discargamentos, e chats
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -200,6 +253,9 @@ smart-window-confirm-select-all =
 smart-window-confirm-deselect-all =
     .label = Deseliger toto
     .aria-label = Deseliger toto
+smart-window-close-confirm =
+    .aria-label = Cancellar requesta e clauder
+    .tooltiptext = Cancellar requesta e clauder
 smart-window-confirm-close-tab = Clauder
 # Variables
 #   $count (number) - Number of tabs to close
@@ -214,15 +270,20 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Scheda claudite
+smartwindow-close-tab-callout-subtitle = Quandocunque reaperir schedas ab le chronologia.
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Facer { -smart-window-brand-name } tu predefinite?
+smart-window-default-promo-message = { -brand-short-name } se aperira in { -smart-window-brand-name } cata vice.
 smart-window-default-promo-primary-button = Stabilir como predeterminate
 smart-window-default-promo-additional-button = Non ora
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Condivide commentos
+aiwindow-feedback-what-worked-well = Cosa functionava ben? Necun information personal, per favor.
+aiwindow-feedback-choose-any = Elige qualcosa pertinente
 aiwindow-feedback-submit = Inviar
 aiwindow-feedback-cancel = Cancellar
 aiwindow-feedback-reason-other = Altere
