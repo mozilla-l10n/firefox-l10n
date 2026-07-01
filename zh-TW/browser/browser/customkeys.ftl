@@ -64,6 +64,9 @@ customkeys-caution-message = 此功能還在實驗中，可能無法如預期運
 customkeys-key-invalid = 無效
 customkeys-shortcut-unassigned =
     .placeholder = 新增捷徑
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = { $keyLabel } 的快速鍵
 customkeys-key-edit =
     .aria-label = 編輯
     .tooltiptext = 編輯

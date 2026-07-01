@@ -56,3 +56,6 @@ smart-window-model-custom-token =
     .label = Chave de API ou token de autenticação, se necessário
 smart-window-model-custom-info =
     .message = Ao usar um modelo personalizado, o { -smart-window-brand-name } pode não funcionar como esperado.
+smart-window-model-custom-more-link = Mais informações sobre modelos personalizados
+smart-window-model-custom-save =
+    .label = Salvar
