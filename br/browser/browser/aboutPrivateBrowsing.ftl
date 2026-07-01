@@ -78,3 +78,13 @@ about-private-browsing-cookie-banners-promo-body = Bremañ e nac'homp meur a van
 about-private-browsing-felt-privacy-v1-info-header = Na lezel roud ebet war an trevnad-mañ
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } a skarzh ho toupinoù, ho roll istor ha roadennoù al lec'hiennoù pa serrit an holl brenestroù prevez.
 about-private-browsing-felt-privacy-v1-info-link = Piv a c’hallfe gwelet ar pezh a ran?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Serriñ ho holl brenestroù prevez a zilamo ho toupinoù, ho roll istor hag ho roadennoù lec'hienn.
+about-private-browsing-nova-info-link = Piv a c'hallfe c'hoazh gwelet ma oberiantiz?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Ne vo ket enrollet ho roll istor merdeiñ
+about-private-browsing-nova-info-subheader = Dilemel a raimp pep klask ha kennask pa vo serret ar prenestr-mañ. Gwarezioù enkorfet { -brand-short-name } a zo amañ ivez, evel stankañ an heulierien.
