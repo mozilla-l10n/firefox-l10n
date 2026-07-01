@@ -227,3 +227,51 @@ firefoxview-search-chat-results-count =
         [one] צ’אט אחד
        *[other] { NUMBER($count) } צ’אטים
     }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = היסטוריית גלישה, הורדות וצ’אטים
+    .accesskey = ה
+item-history-downloads-and-chat-description = ניקוי היסטוריית אתרים, הורדות וצ’אטים
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = בחירה בהכל
+    .aria-label = בחירה בהכל
+smart-window-confirm-deselect-all =
+    .label = ביטול בחירה מהכל
+    .aria-label = ביטול בחירה מהכל
+smart-window-close-confirm =
+    .aria-label = ביטול הבקשה וסגירה
+    .tooltiptext = ביטול הבקשה וסגירה
+smart-window-confirm-close-tab = סגירה
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] סגירת לשונית אחת
+       *[other] סגירת { NUMBER($count) } לשוניות
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = הלשונית נסגרה
+smartwindow-close-tab-callout-subtitle = ניתן לפתוח מחדש לשוניות מההיסטוריה בכל עת.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = להגדיר את { -smart-window-brand-name } כברירת המחדל שלך?
+smart-window-default-promo-message = ‏{ -brand-short-name } ייפתח ב־{ -smart-window-brand-name } בכל פעם.
+smart-window-default-promo-primary-button = הגדרה כברירת מחדל
+smart-window-default-promo-additional-button = לא כעת
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = שיתוף משוב
+aiwindow-feedback-what-worked-well = מה עבד טוב? בלי מידע אישי, בבקשה.
+aiwindow-feedback-choose-any = נא לבחור בכל מה שרלוונטי
+aiwindow-feedback-add-details = אפשר להוסיף פרטים. רק בלי מידע אישי בבקשה.
