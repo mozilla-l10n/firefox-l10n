@@ -142,12 +142,12 @@ aiwindow-firstrun-memories-choose-label = Choisissez ce dont { -smart-window-bra
 aiwindow-firstrun-memories-checkbox-chats = Les discussions des { -smart-window-brand-name(from: "lower-plural") }
 aiwindow-firstrun-memories-checkbox-browsing = La navigation sur { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Mettez-les à jour à tout moment dans les paramètres.
-aiwindow-firstrun-memories-no-create = J'ai compris. { -smart-window-brand-name } ne créera pas de mémoires. Mettez-les à jour à tout moment dans les paramètres.
+aiwindow-firstrun-memories-no-create = Bien reçu, les { -smart-window-brand-name(form: "lower-plural") } ne créeront pas de souvenirs. Vous pourrez modifier ce choix à tout moment dans les paramètres.
 
 ## Firstrun set as default onboarding
 
-aiwindow-firstrun-default-title = Choisissez { -smart-window-brand-name }
-aiwindow-firstrun-default-subtitle = Naviguez, recherchez et demandez au même endroit. Vous pouvez toujours ouvrir les fenêtres privées et les fenêtres classiques quand vous le souhaitez.
+aiwindow-firstrun-default-title = Utilisez une { -smart-window-brand-name(from: "lower-singular") } par défaut
+aiwindow-firstrun-default-subtitle = Naviguez, recherchez et posez vos questions au même endroit. Vous pouvez toujours ouvrir des fenêtres privées et des fenêtres classiques quand vous le souhaitez.
 aiwindow-firstrun-default-checkbox-label = Toujours ouvrir { -brand-product-name } dans { -smart-window-brand-name }
 aiwindow-firstrun-default-checkbox-description = Activez les paramètres à tout moment
 
