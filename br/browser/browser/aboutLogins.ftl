@@ -120,11 +120,13 @@ about-logins-login-intro-heading-logged-in = N’eus bet kavet titour kennaskañ
 login-intro-description = M’ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
 login-intro-instructions-fxa = Krouit ur gont { -fxaccount-brand-name } pe kennaskit war un trevnad e-lec’h m’emañ ho titouroù kennaskañ enrollet.
 about-logins-login-intro-heading-message = Gwarezit ho kerioù-tremen en ul lec’h sur
+login-intro-description2 = An holl c'herioù-tremen a enrollit war { -brand-product-name } a zo enrineget. Evezhiañ a reomp ivez ar frailhoù surentez ha kelaouiñ a reomp ac'hanoc'h mard oc'h tizhet. <a data-l10n-name="breach-alert-link">Gouzout hiroc'h</a>
 login-intro-instructions-fxa2 = Krouit pe kennaskit d’ho kont war an trevnad lec’h m’eo enrollet ho titouroù kennaskañ.
 login-intro-instructions-fxa-settings = Mont betek Arventennoù > Sync > Gweredekaat ar goubredañ… Dibabit an titouroù kennaskañ.
 login-intro-instructions-fxa-passwords-help = Gweladennit ar <a data-l10n-name="passwords-help-link">skor gerioù-tremen</a> evit kaout muioc’h a sikour.
 about-logins-intro-browser-only-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c’hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -brand-product-name }</a>
 about-logins-intro-import2 = Mard eo enrollet ho titouroù kennaskañ e diavaez { -brand-product-name } e c’hallit <a data-l10n-name="import-browser-link">enporzhiañ anezho adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>
+about-logins-intro-import3 = Dibabit ar bouton MUI a-us evit ouzhpennañ ur ger-tremen bremañ. Gallout a rit ivez <a data-l10n-name="import-browser-link">enporzhiañ gerioù-tremen adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>.
 
 ## Login
 
@@ -135,6 +137,10 @@ login-item-edit-button = Embann
 about-logins-login-item-remove-button = Dilemel
 login-item-origin-label = Chomlec’h al lec’hienn
 login-item-tooltip-message = Bezit sur e klot gant ar chomlec’h resis eus al lec’hiennoù lec’h ma kennaskit.
+about-logins-origin-tooltip2 = Enankit ar chomlec'h klok ha bezit sur eo rik heñvel pa kennaskit.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Bezit sur ec'h enrollit ho ker-tremen bremanel evit al lec'hienn-mañ. Kemmañ ar ger-tremen amañ na cheñcho ket anezhañ gant { $webTitle }.
 about-logins-add-password-tooltip = Bezit sur m’emaoc’h oc’h enrollañ ho ker-tremen a-vremañ evit al lec’hienn-mañ.
 login-item-origin =
     .placeholder = https://www.example.com
@@ -179,6 +185,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Evit kemmañ ho titouroù k
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = cheñch an anaouder enrollet
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] kemmañ an arventennoù evit ar gerioù-tremen
+       *[other] { -brand-short-name } a zo o klask kemmañ an arventennoù evit ar gerioù-tremen. Implijit kennaskañ ho trevnad aotren kement-mañ.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Evit kemmañ ho ker-tremen, enankit ho titouroù kennaskañ Windows. Skoazellañ a ra da wareziñ ho kontoù.
 # This message can be seen when attempting to edit a login in about:logins
@@ -299,6 +312,16 @@ about-logins-confirm-remove-all-dialog-title2 =
         [many] Dilemel { $count } a c'herioù-tremen?
        *[other] Dilemel { $count } ger-tremen?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Dilemel a raio ar ger-tremen enrollet e { -brand-short-name } ha kement galv diwall frailhoù. N'hallit ket dizober ar gwered-mañ.
+        [one] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } ha kement galv diwall frailhoù. N'hallit ket dizober ar gwered-mañ.
+        [two] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } ha kement galv diwall frailhoù. N'hallit ket dizober ar gwered-mañ.
+        [few] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } ha kement galv diwall frailhoù. N'hallit ket dizober ar gwered-mañ.
+        [many] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } ha kement galv diwall frailhoù. N'hallit ket dizober ar gwered-mañ.
+       *[other] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } ha kement galv diwall frailhoù. N'hallit ket dizober ar gwered-mañ.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
@@ -308,6 +331,16 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [many] Dilemel { $count } a c'herioù-tremen eus an holl drevnadoù?
        *[other] Dilemel { $count } ger-tremen eus an holl drevnadoù?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Dilemel a raio ar ger-tremen enrollet e { -brand-short-name } war an holl drevnadoù goubredet. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [one] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } war an holl drevnadoù goubredet. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [two] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } war an holl drevnadoù goubredet. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [few] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } war an holl drevnadoù goubredet. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [many] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } war an holl drevnadoù goubredet. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+       *[other] Dilemel a raio ar gerioù-tremen enrollet e { -brand-short-name } war an holl drevnadoù goubredet. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+    }
 
 ##
 
@@ -315,6 +348,9 @@ about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c’hallo bezañ lennet gant an holl a c’hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
 about-logins-confirm-export-dialog-title2 = Ur c’hemennad a-fet ezporzhiañ ar gerioù-tremen
+about-logins-confirm-export-dialog-message2 =
+    Pa ezporzhit eo enrollet ho kerioù-tremen en ur restr gant testen a c'haller lenn.
+    P'ho po echuet da implij ar restr-mañ e erbedomp ac'hanoc'h da zilemel anezhañ evit ma n'hallfe ket an dud all a implij ar benveg-mañ gwelet ho kerioù-tremen.
 about-logins-confirm-export-dialog-confirm-button2 = Kenderc’hel gant an ezporzhiañ
 about-logins-alert-import-title = Echu eo gant an enporzhiañ
 about-logins-alert-import-message = Gwelout an diverrañ enporzhiañ berraet
@@ -430,6 +466,22 @@ about-logins-import-dialog-items-added2 =
         [many] <span>Gerioù-tremen nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Gerioù-tremen nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Elfennoù hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+        [two] <span>Elfennoù hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Elfennoù hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+        [many] <span>Elfennoù hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Elfennoù hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Eiladur elfennoù kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+        [two] <span>Eiladur elfennoù kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+        [few] <span>Eiladur elfennoù kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+        [many] <span>Eiladur elfennoù kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+       *[other] <span>Eiladur elfennoù kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Fazioù:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ket enporzhiet)</span>
@@ -462,6 +514,7 @@ about-logins-import-report-row-index = Linenn { $number }
 about-logins-import-report-row-description-no-change = Eiladur: klotañ a ra gant un titour kennaskañ a zo anezhañ endeo
 about-logins-import-report-row-description-modified = Titour kennaskañ hizivaet
 about-logins-import-report-row-description-added = Titour kennaskañ ouzhpennet
+about-logins-import-report-row-description-no-change2 = Eiladur: klotañ a ra gant un elfenn a zo anezhi endeo
 about-logins-import-report-row-description-modified2 = Enankad hizivaet
 about-logins-import-report-row-description-added2 = Ger-tremen nevez ouzhpennet
 about-logins-import-report-row-description-error = Fazi: maezienn a vank
@@ -508,6 +561,22 @@ about-logins-import-report-added2 =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gerioù-tremen nevez ouzhpennet</div>
         [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gerioù-tremen nevez ouzhpennet</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gerioù-tremen nevez ouzhpennet</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Elfenn hizivaet</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Elfenn hizivaet</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Elfenn hizivaet</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Elfenn hizivaet</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Elfenn hizivaet</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur elfenn</div><div data-l10n-name="not-imported">(n’eo ket enporzhiet)</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur elfenn</div><div data-l10n-name="not-imported">(n’eo ket enporzhiet)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur elfenn</div><div data-l10n-name="not-imported">(n’eo ket enporzhiet)</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur elfenn</div><div data-l10n-name="not-imported">(n’eo ket enporzhiet)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur elfenn</div><div data-l10n-name="not-imported">(n’eo ket enporzhiet)</div>
     }
 about-logins-import-report-error =
     { $count ->

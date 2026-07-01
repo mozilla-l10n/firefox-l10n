@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = Leuskel { -brand-short-nam
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } a ra war-dro ar goulennoù toupinoù evidoc'h.
+about-private-browsing-cookie-banners-promo-body = Bremañ e nac'homp meur a vandenn doupin evit ma c'hallfec'h bezañ heuliet nebeutoc'h ha merdeiñ sederoc'h.
 
 ## Strings for the info section of about:privatebrowsing
 

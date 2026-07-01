@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Reolennoù embregerezh
+aboutpolicies-page-heading =
+    .heading = A-zivout ar reolennoù
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Oberiant
 errors-tab = Fazioù
