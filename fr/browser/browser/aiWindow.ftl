@@ -149,7 +149,7 @@ aiwindow-firstrun-memories-no-create = Bien reçu, les { -smart-window-brand-nam
 aiwindow-firstrun-default-title = Utilisez une { -smart-window-brand-name(form: "lower-singular") } par défaut
 aiwindow-firstrun-default-subtitle = Naviguez, recherchez et posez vos questions au même endroit. Vous pouvez toujours ouvrir des fenêtres privées et des fenêtres classiques quand vous le souhaitez.
 aiwindow-firstrun-default-checkbox-label = Toujours ouvrir { -brand-product-name } dans une { -smart-window-brand-name(form: "lower-plural") }
-aiwindow-firstrun-default-checkbox-description = Activez les paramètres à tout moment
+aiwindow-firstrun-default-checkbox-description = Modifiez ce choix à tout moment dans les paramètres
 
 ## Ask Toolbar Button
 
@@ -159,8 +159,8 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Utiliser « souvenirs » dans les réponses lorsque cela est utile
-    .aria-label = Activer la mémoire
+    .aria-label = Souvenirs activés
+    .tooltiptext = Utiliser les souvenirs dans les réponses lorsque cela est utile
 aiwindow-memories-off =
     .tooltiptext = N’utilisez pas de souvenir dans les réponses
     .aria-label = Mémoires éteintes
