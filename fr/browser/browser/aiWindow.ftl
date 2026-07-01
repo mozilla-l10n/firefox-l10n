@@ -51,7 +51,7 @@ ai-window-toggleview-status-label-inactive = Fenêtre classique
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = Poser une question
-aiwindow-input-cta-submit-label-navigate = Aller à
+aiwindow-input-cta-submit-label-navigate = C’est parti
 aiwindow-input-cta-submit-label-search = Rechercher
 aiwindow-input-cta-submit-label-stop = Arrêter
 # Text announced to screen readers when response generation starts.
@@ -108,7 +108,7 @@ aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-allpurpose-body = Répond à la plupart des besoins
 aiwindow-firstrun-model-personal-label = Personnel
 aiwindow-firstrun-model-personal-body = Réponses les plus personnalisées
-aiwindow-firstrun-button = Allons-y
+aiwindow-firstrun-button = C’est parti
 aiwindow-firstrun-back-button = Retour
 aiwindow-firstrun-next-button = Suivant
 
@@ -133,9 +133,9 @@ aiwindow-input-model-select-settings-link = Paramètres des modèles
 aiwindow-firstrun-memories-title = Des réponses plus pertinentes, selon vos conditions
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } peut apprendre de vos discussions, de votre navigation, ou des deux, pour créer des moments inoubliables. Elles rendent les réponses de plus en plus utiles au fil du temps.
 aiwindow-firstrun-memories-conversation-title = Poursuivez la conversation
-aiwindow-firstrun-memories-conversation-body = Apprendre des discussions signifie que vous devrez moins vous répéter.
+aiwindow-firstrun-memories-conversation-body = En apprenant de vos discussions, vous aurez moins besoin de vous répéter.
 aiwindow-firstrun-memories-relevance-title = Des réponses plus pertinentes
-aiwindow-firstrun-memories-relevance-body = Apprendre de la navigation permet à { -smart-window-brand-name } de disposer d’une vue d’ensemble.
+aiwindow-firstrun-memories-relevance-body = L’apprentissage via votre navigation permet aux { -smart-window-brand-name(form: "lower-plural") } de disposer d’une vue d’ensemble.
 aiwindow-firstrun-memories-privacy-title = Conçu pour protéger votre vie privé
 aiwindow-firstrun-memories-privacy-body = Les souvenirs sont stockés sur cet appareil. Supprimez-les ou désactivez-les à tout moment.
 aiwindow-firstrun-memories-choose-label = Choisissez les sources d’apprentissage pour les { -smart-window-brand-name(form: "lower-plural") }

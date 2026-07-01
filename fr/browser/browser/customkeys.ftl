@@ -105,6 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Rechercher parmi les raccourcis
     .placeholder = Rechercher parmi les raccourcis
-customkeys-description = Contrôlez vos déplacements et vos interactions avec { -brand-short-name }.
+customkeys-description = Contrôlez la manière dont vous naviguez et vos interactions avec { -brand-short-name }.
 customkeys-support-link-text = En savoir plus
 customkeys-reset-all-button = Restaurer les raccourcis par défaut
