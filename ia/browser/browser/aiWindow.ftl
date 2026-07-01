@@ -12,6 +12,9 @@ smartwindow-document-title = Nove scheda
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Typo de fenestra
+    .tooltiptext = Commuta inter fenestras intelligente e classic.
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }

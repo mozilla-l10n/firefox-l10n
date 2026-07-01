@@ -84,7 +84,13 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = 要移除另一個快速鍵嗎？
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = 這組按鍵已被「{ $conflict }」使用。
+customkeys-conflict-confirm-button-confirm = 還是使用
 customkeys-conflict-confirm-button-cancel = 取消
+customkeys-reset-all-confirm-title = 確認要還原預設值嗎？
 customkeys-reset-all-confirm-button-cancel = 取消
 
 ## Sidebar

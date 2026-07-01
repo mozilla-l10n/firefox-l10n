@@ -119,6 +119,13 @@ aiwindow-input-model-select-button-label-custom = 自訂
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = 自備 LLM
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-relevance-title = 更多相關回覆
+aiwindow-firstrun-memories-privacy-title = 從設計就保護隱私
+aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name } 中的聊天功能
+aiwindow-firstrun-memories-update-settings = 可隨時到設定中更新。
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
