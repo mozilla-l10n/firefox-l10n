@@ -153,12 +153,16 @@ autofill-card-number = מספר כרטיס
 autofill-card-invalid-number = נא להקליד מספר כרטיס תקני
 autofill-card-name-on-card-2 =
     .label = שם שעל הכרטיס
+autofill-card-expires-month-2 =
+    .label = פג בחודש
+autofill-card-expires-year-2 =
+    .label = פג בשנה
 autofill-card-billing-address-2 =
-    .label = כתובת חיוב
+    .label = כתובת לחיוב
 autofill-card-name-on-card = שם שעל הכרטיס
 autofill-card-expires-month = חודש תפוגה
 autofill-card-expires-year = שנת תפוגה
-autofill-card-billing-address = כתובת חיוב
+autofill-card-billing-address = כתובת לחיוב
 autofill-card-network = סוג כרטיס
 # This string is never actually displayed, but is used to make it easier to
 # find the payment methods section of about:settings via the search input. It's

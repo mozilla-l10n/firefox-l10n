@@ -289,6 +289,12 @@ about-debugging-multiprocess-toolbox-name = ארגז כלים מרובה תהל�
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = התהליך הראשי ותהליכי התוכן עבור דפדפן היעד
+about-debugging-message-error-icon =
+    .alt = סמל שגיאה
+about-debugging-message-info-icon =
+    .alt = סמל מידע
+about-debugging-message-warning-icon =
+    .alt = סמל אזהרה
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = סגירת הודעה

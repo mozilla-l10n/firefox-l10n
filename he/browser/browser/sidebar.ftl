@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = לשוניות פתוחות
 sidebar-options-menu-button =
     .title = פתיחת תפריט
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = שינוי גודל של סרגל הצד
 
 ## Labels for sidebar history panel
 

@@ -404,6 +404,10 @@ onboarding-checklist-pin = הצמדת { -brand-short-name } לשורת המשי�
 onboarding-checklist-import = ייבוא מהדפדפן הקודם
 onboarding-checklist-extension = הוספת הרחבה
 onboarding-checklist-sign-up = הרשמה או התחברות לחשבון שלך
+onboarding-checklist-minimize =
+    .label = מזעור
+onboarding-checklist-remove =
+    .label = הסרת רשימת תיוג
 
 ## Tab Groups feature onboarding strings
 

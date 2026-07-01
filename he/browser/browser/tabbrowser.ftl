@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = שינוי גודל של הלשוניות בתצוגה מפוצלת
+tab-devtools-splitter =
+    .aria-label = שינוי גודל של חלונית כלי הפיתוח
 
 ## Tooltips for tab audio control
 ## Variables:
