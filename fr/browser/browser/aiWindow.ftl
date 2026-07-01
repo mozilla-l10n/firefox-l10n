@@ -50,13 +50,13 @@ ai-window-toggleview-status-label-inactive = Fenêtre classique
 
 ## Input CTA
 
-aiwindow-input-cta-submit-label-chat = Demander
+aiwindow-input-cta-submit-label-chat = Poser une question
 aiwindow-input-cta-submit-label-navigate = Aller à
 aiwindow-input-cta-submit-label-search = Rechercher
 aiwindow-input-cta-submit-label-stop = Arrêter
 # Text announced to screen readers when response generation starts.
 aiwindow-generation-started-announcement = La génération de la réponse a commencé
-aiwindow-input-cta-menu-label-chat = Demander
+aiwindow-input-cta-menu-label-chat = Poser une question
 aiwindow-input-cta-menu-label-navigate = Aller au site
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Rechercher avec { $searchEngineName }
@@ -69,7 +69,7 @@ aiwindow-input-cta-stop-button =
 ## Smartbar
 
 smartbar-placeholder =
-    .placeholder = Demander, rechercher ou saisir une URL
+    .placeholder = Posez une question, recherchez ou saisissez une URL
 smartbar-placeholder-hint-1 = Utiliser le @ pour mentionner des onglets récents…
 smartbar-placeholder-hint-2 = Posez votre question…
 smartbar-placeholder-hint-3 = Saisissez une adresse web…
@@ -96,7 +96,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name }
+aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name(form: "lower-singular") }
 aiwindow-firstrun-model-title = Qu’est-ce qui compte pour vous ?
 aiwindow-firstrun-model-subtitle = Choisissez un modèle à utiliser dans les { -smart-window-brand-name(form: "lower-plural") }. Changez de modèle à tout moment.
 aiwindow-firstrun-model-fast-label = Rapide
@@ -139,16 +139,16 @@ aiwindow-firstrun-memories-relevance-body = Apprendre de la navigation permet à
 aiwindow-firstrun-memories-privacy-title = Conçu pour protéger votre vie privé
 aiwindow-firstrun-memories-privacy-body = Les souvenirs sont stockés sur cet appareil. Supprimez-les ou désactivez-les à tout moment.
 aiwindow-firstrun-memories-choose-label = Choisissez ce dont { -smart-window-brand-name } apprend
-aiwindow-firstrun-memories-checkbox-chats = Les discussions des { -smart-window-brand-name(from: "lower-plural") }
+aiwindow-firstrun-memories-checkbox-chats = Les discussions des { -smart-window-brand-name(form: "lower-plural") }
 aiwindow-firstrun-memories-checkbox-browsing = La navigation sur { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Mettez-les à jour à tout moment dans les paramètres.
 aiwindow-firstrun-memories-no-create = Bien reçu, les { -smart-window-brand-name(form: "lower-plural") } ne créeront pas de souvenirs. Vous pourrez modifier ce choix à tout moment dans les paramètres.
 
 ## Firstrun set as default onboarding
 
-aiwindow-firstrun-default-title = Utilisez une { -smart-window-brand-name(from: "lower-singular") } par défaut
+aiwindow-firstrun-default-title = Utilisez une { -smart-window-brand-name(form: "lower-singular") } par défaut
 aiwindow-firstrun-default-subtitle = Naviguez, recherchez et posez vos questions au même endroit. Vous pouvez toujours ouvrir des fenêtres privées et des fenêtres classiques quand vous le souhaitez.
-aiwindow-firstrun-default-checkbox-label = Toujours ouvrir { -brand-product-name } dans une { -smart-window-brand-name(from: "lower-plural") }
+aiwindow-firstrun-default-checkbox-label = Toujours ouvrir { -brand-product-name } dans une { -smart-window-brand-name(form: "lower-plural") }
 aiwindow-firstrun-default-checkbox-description = Activez les paramètres à tout moment
 
 ## Ask Toolbar Button
@@ -224,7 +224,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Revenir à vos discussions
-firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez les { -smart-window-brand-name(from: "lower-plural") }, vos discussions seront enregistrées ici.
+firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez les { -smart-window-brand-name(form: "lower-plural") }, vos discussions seront enregistrées ici.
 
 ## Count displayed in fxview chat search results
 
@@ -274,8 +274,8 @@ smartwindow-close-tab-callout-subtitle = Rouvrez des onglets depuis l’historiq
 
 ## Smart Window new tab promo
 
-smart-window-default-promo-heading = Utiliser une { -smart-window-brand-name(from: "lower-singular") } par défaut ?
-smart-window-default-promo-message = { -brand-short-name } s’ouvrira automatiquement dans une { -smart-window-brand-name(from: "lower-singular") }.
+smart-window-default-promo-heading = Utiliser une { -smart-window-brand-name(form: "lower-singular") } par défaut ?
+smart-window-default-promo-message = { -brand-short-name } s’ouvrira automatiquement dans une { -smart-window-brand-name(form: "lower-singular") }.
 smart-window-default-promo-primary-button = Définir par défaut
 smart-window-default-promo-additional-button = Plus tard
 
