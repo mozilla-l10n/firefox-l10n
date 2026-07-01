@@ -105,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Cercar tra le vias breve
     .placeholder = Cercar tra le vias breve
+customkeys-description = Controla como tu te move circum e interage con { -brand-short-name }.
 customkeys-support-link-text = Pro saper plus
 customkeys-reset-all-button = Restaurar le parametros predefinite

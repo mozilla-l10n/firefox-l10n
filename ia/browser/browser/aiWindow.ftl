@@ -285,6 +285,7 @@ aiwindow-feedback-modal-title = Condivide commentos
 aiwindow-feedback-what-worked-well = Cosa functionava ben? Necun information personal, per favor.
 aiwindow-feedback-choose-any = Elige qualcosa pertinente
 aiwindow-feedback-add-details = Adde detalios si tu vole. Necun information personal, per favor.
+aiwindow-feedback-disclaimer = Inviante tu condivide tu commentario e iste chat pro adjutar { -brand-shorter-name } a meliorar { -smart-window-brand-name }. Tu altere chats remane private. <a data-l10n-name="learn-more">Pro saper plus</a>
 aiwindow-feedback-submit = Inviar
 aiwindow-feedback-cancel = Cancellar
 aiwindow-feedback-reason-incorrect-or-misleading = Errate o fallace

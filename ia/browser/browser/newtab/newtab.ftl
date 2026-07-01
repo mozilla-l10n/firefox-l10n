@@ -165,6 +165,10 @@ newtab-privacy-menu-learn-more = Pro saper plus
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Recercar symbolos de actiones
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Celar actiones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Pro saper plus
 
@@ -203,6 +207,7 @@ newtab-topsites-add-shortcut-label = Adder accesso directe
 newtab-topsites-add-shortcut-title =
     .title = Adder accesso directe
     .aria-label = Adder accesso directe
+newtab-shortcuts-pinned-area = Area de sitos clavate
 newtab-topsites-title-label = Titulo
 newtab-topsites-title-input =
     .placeholder = Scriber un titulo
@@ -510,6 +515,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sports
 newtab-custom-widget-privacy-toggle =
     .label = Confidentialitate
+newtab-custom-widget-stocks-toggle =
+    .label = Actiones
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
