@@ -18,6 +18,10 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Assistent automatisch öffnen
     .description = Die Assistenten-Seitenleiste wird bei jedem neuen Tab angezeigt. Sie kann jederzeit geschlossen werden.
+smart-window-model-section =
+    .label = Assistenten-Modell
+    .description = Wählen Sie ein Modell aus, das Ihren Prioritäten entspricht.
+smart-window-model-learn-link = Weitere Informationen zu Modellen
 
 ## Variables:
 ##   $model (string) - The name of the AI model
