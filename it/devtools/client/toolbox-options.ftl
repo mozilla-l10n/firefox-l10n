@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Attiva console divisa
 options-webconsole-split-console-tooltip =
     .title = Apri la console divisa alla pressione del tasto Esc
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor di rete
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Dimensione massima dei corpi di richiesta e risposta (imposta a 0 per nessun limite):
+options-netmonitor-body-limit-tooltip =
+    .title = I corpi di richiesta o risposta che superano la dimensione indicata verranno tagliati quando visualizzati o scaricati nel Monitor di rete. Imposta a 0 per non applicare alcun limite.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Illimitata
+options-netmonitor-body-limit-button =
+    .title = Modifica la dimensione massima dei corpi di richiesta o risposta
+options-netmonitor-body-limit-restore-default =
+    .title = Ripristina il valore predefinito della dimensione massima per i corpi di richiesta o risposta.
+options-netmonitor-body-limit-set =
+    .title = Imposta il valore inserito come dimensione massima per i corpi di richiesta o risposta.
+
 ## Style Editor section
 
 # The heading
