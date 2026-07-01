@@ -20,3 +20,37 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = 기본 설정
+ai-window-is-default-window =
+    .label = 기본으로 { -smart-window-brand-name } 사용
+    .description = { -brand-short-name }가 시작되거나 다시 시작될 때, 또는 다른 앱에서 링크를 열 때 { -smart-window-brand-name }를 엽니다.
+ai-window-open-sidebar =
+    .label = 자동으로 어시스턴트 열기
+    .description = 새 탭을 열 때마다 어시스턴트 사이드바를 표시합니다. 언제든지 닫을 수 있습니다.
+smart-window-model-section =
+    .label = 어시스턴트 모델
+    .description = 중요하게 생각하는 가치에 따라 모델을 선택하세요.
+smart-window-model-learn-link = 모델에 대해 더 알아보기
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast =
+    .label = 빠름: 신속한 답변 제공
+    .description = { $ownerName }의 { $model } 모델
+smart-window-model-flexible =
+    .label = 균형 잡힘: 대부분의 작업에 적합
+    .description = { $ownerName }의 { $model } 모델
+smart-window-model-personal =
+    .label = 맞춤형: 나에게 최적화된 답변 제공
+    .description = { $ownerName }의 { $model } 모델
+smart-window-model-custom =
+    .label = 사용자 지정: 내가 가진 자체 LLM 사용
+smart-window-model-custom-name =
+    .label = 모델명
+    .placeholder = Example: glm4
+smart-window-model-custom-url =
+    .label = 모델 엔드포인트
+    .placeholder = Example: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = API 키 또는 인증 토큰 (필요한 경우)
