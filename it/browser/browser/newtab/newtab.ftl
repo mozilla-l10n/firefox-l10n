@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Azioni
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Immagine del giorno
 home-prefs-mission-message2 =
     .message = Gli sponsor sostengono la nostra missione per un Web migliore.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,36 @@ newtab-stocks-menu-search = Cerca simboli di azioni
 newtab-stocks-menu-hide = Nascondi azioni
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Ulteriori informazioni
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Immagine del giorno · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Imposta sfondo
+    .title = Imposta sfondo
+    .aria-label = Imposta l’immagine del giorno come sfondo
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Gestisci sfondo
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Nascondi immagine del giorno
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Mostra immagine del giorno
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Ulteriori informazioni
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Mostra immagine del giorno
+    .aria-label = Mostra immagine del giorno
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Ricontrolla domani per una nuova immagine
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Immagine del giorno da Wikimedia Commons
 
 ## Search box component.
 
@@ -523,6 +556,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Privacy
 newtab-custom-widget-stocks-toggle =
     .label = Azioni
+newtab-custom-widget-picture-toggle =
+    .label = Immagine del giorno
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget

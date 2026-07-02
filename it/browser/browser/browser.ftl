@@ -923,6 +923,43 @@ urlbar-result-explanation-last-visited-absolute = Ultima visita { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Aggiunto ai segnalibri { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Ultima visita { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Ultima visita { $daysAgo } giorno fa
+       *[other] Ultima visita { $daysAgo } giorni fa
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Ultima visita { $weeksAgo } settimana fa
+       *[other] Ultima visita { $weeksAgo } settimane fa
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Ultima visita { $monthsAgo } mese fa
+       *[other] Ultima visita { $monthsAgo } mesi fa
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Ultima visita { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
