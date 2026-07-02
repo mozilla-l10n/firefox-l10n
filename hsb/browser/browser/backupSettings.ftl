@@ -76,7 +76,7 @@ turn-on-scheduled-backups-location-label = Městno
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (poruča so)
 turn-on-scheduled-backups-location-choose-folder =
-    .value = Wubjerće stejnišćo
+    .value = Wubjerće městno
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Wubrać…

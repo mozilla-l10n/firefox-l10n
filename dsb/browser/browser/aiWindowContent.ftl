@@ -40,3 +40,21 @@ smart-window-closed-tabs-label =
     }
 smart-window-closed-tabs-row-label = Zacynjone rejtariki
 smart-window-closed-and-restored-label = Zacynjone a wótnowjone rejtariki
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } rejtarik wótnowjony
+        [two] { $count } rejtarika wótnowjonej
+        [few] { $count } rejtariki wótnowjone
+       *[other] { $count } rejtarikow wótnowjone
+    }
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Zrědowaś
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] { $count } rejtarik zrědowaś
+        [two] { $count } rejtarika zrědowaś
+        [few] { $count } rejtariki zrědowaś
+       *[other] { $count } rejtarikow zrědowaś
+    }
+smart-window-grouped-tabs-row-label = Zrědowane rejtariki

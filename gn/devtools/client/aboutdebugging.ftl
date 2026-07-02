@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Tembiporu ryru hembiapoitáva
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Tapereko ha’etéva ha tetepy rapereko kundahára ohotahápe g̃uarã
+about-debugging-message-error-icon =
+    .alt = Ta’ãngachu’i javygua
+about-debugging-message-info-icon =
+    .alt = Marandu ra’ãnga’i
+about-debugging-message-warning-icon =
+    .alt = Ta’ãngachu’i kyhyjerã
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Emboty ñe’ẽmondo
