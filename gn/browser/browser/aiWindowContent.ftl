@@ -19,6 +19,12 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Oĩvaicha osẽvaíva. Eha’ã jey ag̃amieve.
 smartwindow-assistant-error-budget-header = Ndaikatuvéima echatea ko árape.
 
+## Assistant Message footer
+
+aiwindow-retry =
+    .aria-label = Eha’ãjey
+    .tooltiptext = Eha’ãjey
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
