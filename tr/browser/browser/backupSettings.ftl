@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Konum
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (önerilen)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Konum seçin
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Seç…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Yedeklemeyi etkinleştir
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Seçtiğiniz yedekleme klasöründe bir sorun oluştu. Farklı bir klasör seçip yeniden deneyin.
+turn-on-scheduled-backups-error-default-dir-denied = Yedekleme klasörünüze erişemedik. Yeni bir konum seçmeyi deneyin.
 backup-error-file-system = { -brand-short-name } yedeklenirken seçtiğiniz yedekleme klasöründe bir sorun oluştu.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

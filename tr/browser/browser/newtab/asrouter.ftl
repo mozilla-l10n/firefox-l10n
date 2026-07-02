@@ -301,6 +301,7 @@ launch-on-login-infobar-final-reject-button = Hayır
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Bilgisayarınızı her açtığınızda { -brand-short-name } açılsın mı?
 launch-on-login-spotlight-startup-checkbox = { -brand-short-name } tarayıcısını başlangıçta çalıştır
 launch-on-login-spotlight-pin-taskbar-checkbox = Görev çubuğuna sabitle
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”

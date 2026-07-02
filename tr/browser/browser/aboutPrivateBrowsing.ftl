@@ -87,3 +87,4 @@ about-private-browsing-nova-info-link = Yaptıklarımı kimler hâlâ görebilir
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Gezinti geçmişiniz kaydedilmiyor
+about-private-browsing-nova-info-subheader = Bu pencereyi kapattığınızda tüm aramalarınız ve oturumlarınız silinecektir. { -brand-short-name } tarayıcısının yerleşik korumaları (örn. takip kodu engelleme) burada da açıktır.

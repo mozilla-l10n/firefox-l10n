@@ -96,6 +96,7 @@ permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site ve
 permissions-exceptions-shutdown-clearing-window =
     .title = İstisnalar - Kapanırken geçmişi temizle
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = { -brand-short-name } kapanırken geçmişi temizlediğinde hangi sitelerin verilerini tutacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazıp “İzin ver”e tıklayın.
 
 ## Exceptions - HTTPS-Only Mode
 
