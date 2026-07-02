@@ -22,6 +22,8 @@ aiwindow-delete-memory-button =
 
 ## Natural Language Action
 
+smartwindow-nl-retry-tool-button =
+    .label = Prøv igjen
 smartwindow-nl-undo-button =
     .label = Angre
 

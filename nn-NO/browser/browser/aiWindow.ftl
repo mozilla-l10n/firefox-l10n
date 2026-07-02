@@ -5,8 +5,13 @@
 
 ## Chrome
 
+appmenuitem-new-ai-window =
+    .label = Nytt { -smart-window-brand-name }
+    .value = Nytt { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Nytt klassisk vindauge
+menu-file-new-ai-window =
+    .label = Nytt { -smart-window-brand-name }
 menu-file-new-classic-window =
     .label = Nytt klassisk vindauge
 menu-history-chats =
@@ -20,6 +25,7 @@ smartwindow-document-title = Ny fane
 
 ai-window-toggleview-switch-private =
     .label = Privat vindauge
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassisk vindauge
 
 ## Input CTA
@@ -35,8 +41,15 @@ aiwindow-input-cta-menu-label-search = Søk med { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Søk med…
 aiwindow-input-cta-search-submenu-header = Søk
 
+## Smartbar
+
+smartbar-placeholder-hint-2 = Spør om kva som helst…
+smartbar-placeholder-hint-3 = Skriv inn ei nettadresse…
+smartbar-placeholder-hint-4 = Søk på nettet…
+
 ## Mentions
 
+smartbar-mentions-list-no-results-label = Fann ingen resultat
 smartbar-mentions-list-recent-tabs-label = Nylege faner
 
 ## Website Chip
