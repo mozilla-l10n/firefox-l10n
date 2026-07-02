@@ -223,7 +223,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 
 ## Message displayed in Firefox View when the user has no chat data
 
-firefoxview-chats-empty-header = Revenir à vos discussions
+firefoxview-chats-empty-header = Retrouvez vos discussions
 firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez les { -smart-window-brand-name(form: "lower-plural") }, vos discussions seront enregistrées ici.
 
 ## Count displayed in fxview chat search results

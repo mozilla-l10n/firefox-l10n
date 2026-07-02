@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Caseta de instrumente pentru multipr
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Proces principal și procese de conținut pentru browserul-țintă
+about-debugging-message-error-icon =
+    .alt = Pictogramă de eroare
+about-debugging-message-info-icon =
+    .alt = Pictogramă de informații
+about-debugging-message-warning-icon =
+    .alt = Pictogramă de avertizare
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Închide mesajul

@@ -99,6 +99,144 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Bine ai venit la { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ce este important pentru tine?
 aiwindow-firstrun-model-subtitle = Alege un model pentru  { -smart-window-brand-name }. Schimbă oricând.
+aiwindow-firstrun-model-fast-label = Rapid
+aiwindow-firstrun-model-fast-body = Răspunde rapid
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Model { $model } de { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexibil
+aiwindow-firstrun-model-allpurpose-body = Potrivit pentru majoritatea nevoilor
+aiwindow-firstrun-model-personal-label = Personal
+aiwindow-firstrun-model-personal-body = Cele mai personalizate răspunsuri
+aiwindow-firstrun-button = Să începem
+aiwindow-firstrun-back-button = Înapoi
+aiwindow-firstrun-next-button = Înainte
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Rapid
+aiwindow-input-model-select-button-label-allpurpose = Flexibil
+aiwindow-input-model-select-button-label-personal = Personal
+aiwindow-input-model-select-button-label-custom = Personalizat
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Folosește-ți propriul LLM
+aiwindow-input-model-select-default-badge =
+    .label = Implicit
+    .title = Modelul implicit selectat
+aiwindow-input-model-select-settings-link = Setări model
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Mai multe răspunsuri utile, în condițiile tale
+aiwindow-firstrun-memories-relevance-title = Mai multe răspunsuri relevante
+aiwindow-firstrun-memories-privacy-title = Privat prin design
+aiwindow-firstrun-memories-privacy-body = Memoriile sunt stocate pe acest dispozitiv. Șterge-le sau dezactivează-le oricând.
+aiwindow-firstrun-memories-choose-label = Alege din ce învață { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Conversații în { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navigare prin { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Actualizează oricând în setări.
+aiwindow-firstrun-memories-no-create = Am înțeles. { -smart-window-brand-name } nu va crea memorii. Actualizează oricând în setări.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Fă { -smart-window-brand-name } implicit
+aiwindow-firstrun-default-subtitle = Navighează, caută și pune întrebări într-un singur loc. Poți deschide în continuare ferestre private și clasice oricând dorești.
+aiwindow-firstrun-default-checkbox-label = Deschide întotdeauna { -brand-product-name } în { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Comută oricând în setări
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Întreabă
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memorii active
+    .tooltiptext = Folosește memorii în răspunsuri când este util
+aiwindow-memories-off =
+    .aria-label = Memorii dezactivate
+    .tooltiptext = Nu folosi memorii în răspunsuri
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Conversație nouă
+    .tooltiptext = Conversație nouă
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Închide
+    .tooltiptext = Închide
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Treci la { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Conversații
+    .aria-label = Conversații
+    .tooltiptext = Conversații
+smartwindow-footer-history =
+    .label = Istoric
+    .aria-label = Istoric
+    .tooltiptext = Istoric
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI poate face greșeli.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Conversații
+    .title = Conversații
+firefoxview-chats-header = Conversații
+firefoxview-chat-context-delete = Șterge din conversații
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Caută în conversații
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Azi - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Revino la conversațiile tale
+firefoxview-chats-empty-description = Pe măsură ce folosești { -smart-window-brand-name }, conversațiile tale vor fi salvate aici.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } conversație
+        [few] { $count } conversații
+       *[other] { $count } de conversații
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Istoricul navigării, al descărcărilor și al conversațiilor
+    .accesskey = B
+item-history-downloads-and-chat-description = Șterge istoricul site-urilor, al descărcărilor și al conversațiilor
 
 ## Natural Language Interactions
 
@@ -144,4 +282,9 @@ aiwindow-feedback-add-details = Adăugă detalii dacă dorești. Te rugăm, făr
 aiwindow-feedback-submit = Trimite
 aiwindow-feedback-cancel = Anulează
 aiwindow-feedback-reason-incorrect-or-misleading = Incorect sau înșelător
+aiwindow-feedback-reason-lacks-personalization = Lipsește personalizarea sau contextul
+aiwindow-feedback-reason-performance-or-usability = Problemă de performanță sau utilizabilitate
+aiwindow-feedback-reason-harmful-or-offensive = Dăunător sau ofensiv
 aiwindow-feedback-reason-other = Altele
+aiwindow-feedback-preview-report = Vezi detalii despre conversație
+aiwindow-feedback-preview-report-with-page = Vezi detalii despre conversație și pagină
