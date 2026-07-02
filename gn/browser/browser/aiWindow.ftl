@@ -10,3 +10,17 @@ appmenuitem-new-ai-window =
     .value = Ipyahúva { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Ovetã pyahu oikóva
+menu-file-new-ai-window =
+    .label = Ipyahúva { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Ovetã pyahu oikóva
+menu-history-chats =
+    .label = Chatea
+menu-history-chats-recent =
+    .label = Chatea pyahu
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Tendayke pyahu
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Embohéra tendayke térã tenda
