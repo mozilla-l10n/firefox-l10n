@@ -18,3 +18,30 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Ñemboheko ypyguáva
 smart-window-model-learn-link = Eikuaa techarã rehegua
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-custom =
+    .label = Mboavapyre: Eiporu LLM teéva
+smart-window-model-custom-name =
+    .label = Techarã réra
+    .placeholder = Techapyrã: glm4
+smart-window-model-custom-url =
+    .label = Techarã endpoint
+    .placeholder = Techapyrã: http://localhost:11434/v1
+smart-window-model-custom-save =
+    .label = Ñongatu
+ai-window-manage-memories-button =
+    .label = Eñangareko mandu’arã
+ai-window-delete-all-memories-button =
+    .label = Emboguepaite
+ai-window-delete-all-memories-title = ¿Emboguepaite opaite mandu’arã?
+ai-window-delete-all-memories-confirm = Mboguete
+ai-window-delete-all-memories-cancel = Eheja
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Embogue mandu’arã
+    .aria-label = Embogue { $label }
