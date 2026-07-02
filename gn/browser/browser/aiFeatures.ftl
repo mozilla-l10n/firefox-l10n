@@ -17,3 +17,4 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Ñemboheko ypyguáva
+smart-window-model-learn-link = Eikuaa techarã rehegua

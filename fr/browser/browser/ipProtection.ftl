@@ -229,7 +229,7 @@ ip-protection-vpn-upgrade-link-1 =
 
 ip-protection-exceptions-dialog-window =
     .title = Gérer les paramètres des sites web
-ip-protection-exclusions-desc = Utiliser le VPN pour tous les sites web, sauf pour ceux de cette liste. Ajoutez un site web ici ou en ouvrant le VPN.
+ip-protection-exclusions-desc = Utilisez le VPN pour tous les sites web, sauf pour ceux de cette liste. Ajoutez un site web ici ou en ouvrant le VPN.
 
 ## IP Protection Bandwidth
 

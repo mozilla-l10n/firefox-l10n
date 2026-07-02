@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Lokaasje
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (oanrekommandearre)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Kies in lokaasje
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Kieze…

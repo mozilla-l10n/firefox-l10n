@@ -62,6 +62,14 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Dizze funksje is eksperiminteel en wurket miskien net sa as ferwachte.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Unjildich
+customkeys-shortcut-unassigned =
+    .placeholder = Fluchkeppeling tafoegje
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Fluchkeppeling foar: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Bewurkje
+    .tooltiptext = Bewurkje
 customkeys-key-clear =
     .aria-label = Wiskje
     .tooltiptext = Wiskje
@@ -70,3 +78,16 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Druk op nije toets:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Annulearje
+customkeys-reset-all-confirm-button-cancel = Annulearje
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidebalke
+customkeys-title-heading =
+    .heading = Fluchtoetsen
+customkeys-support-link-text = Mear ynfo

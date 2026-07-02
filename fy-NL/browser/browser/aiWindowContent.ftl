@@ -53,3 +53,14 @@ smart-window-grouped-tabs-row-label = Groepearre ljepblêden
 action-log-searching-tabs = Ljepblêden trochsykje
 action-log-searching-history = Skiednis trochsykje
 action-log-searched-history = Skiednis trochsocht
+action-log-reading-page = Side lêze
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Side-ynhâld lêzen
+action-log-searching-web = Sykje op it web
+action-log-searched-web = Socht op it web
+action-log-searching-settings = Ynstellingen trochsykje
+action-log-searched-settings = Ynstellingen trochsocht
+action-log-searching-world-cup-matches = WK-wedstriden sykje
+action-log-searched-world-cup-matches = WK-wedstriden socht
+action-log-checking-world-cup-live = Live WK-wedstriden kontrolearje
+action-log-checked-world-cup-live = Live WK-wedstriden kontrolearre
