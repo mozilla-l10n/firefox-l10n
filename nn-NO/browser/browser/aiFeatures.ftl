@@ -7,8 +7,14 @@ smart-window-block-title = Blokkere { -smart-window-brand-name }?
 smart-window-block-description-both = Dette vil slette chattane og minna dine i { -smart-window-brand-name }.
 smart-window-block-description-chats = Dette vil slette chattane dine i { -smart-window-brand-name }.
 smart-window-block-description-memories = Dette vil slette minna dine i { -smart-window-brand-name }.
+smart-window-select-label =
+    .label = { -smart-window-brand-name }
 ai-window-activate-link =
     .label = Kom i gang
+ai-window-personalize-button =
+    .label = { -smart-window-brand-name }-innstillingar
+ai-window-personalize-header =
+    .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Standardinnstillingar
 smart-window-model-learn-link = Les om modellar
@@ -17,8 +23,14 @@ smart-window-model-learn-link = Les om modellar
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom =
+    .label = Tilpassa: Bruk din eigen LLM
+smart-window-model-custom-token =
+    .label = API-nøkkel eller autentiseringstoken, om nødvendig
+smart-window-model-custom-more-link = Meir om tilpassa modellar
 smart-window-model-custom-save =
     .label = Lagre
+smart-window-model-custom-save-confirmation = Modelldetaljer lagra. Start ein ny chatt for å teste.
 ai-window-delete-all-memories-button =
     .label = Slett alle
 ai-window-delete-all-memories-confirm = Slett

@@ -31,3 +31,39 @@ smartwindow-nl-undo-button =
 
 smart-window-closed-tabs-row-label = Emboty tendayke
 smart-window-cancelled-label = Jerupy ojhejapyréva.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Aty
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Embyaty { $count } tendayke
+       *[other] Embyaty { $count } tendaykeita
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } tendayke mbyatypyre
+       *[other] { $count } tendaykeita mbyatypyre
+    }
+smart-window-grouped-tabs-row-label = Tendayke mbyatypyre
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Tendayke jepe’apyre
+
+## Action log
+
+action-log-searching-tabs = Ehekahína tendayke
+action-log-searched-open-tabs = Ojeheka tendayke ijurujáva
+action-log-searching-history = Ojeheka tembiasakuépe
+action-log-searched-history = Jehekakue rembiasakue
+action-log-reading-page = Kuatiarogue moñe’ẽrã
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Emoñe’ẽ kuatiarogue retepy
+action-log-searching-web = Eheka ñandutípe
+action-log-searched-web = Aheka ñandutípe
+action-log-checking-memories = Ahechahína mandu’arã
+action-log-checked-memories = Mandu’arã hechajeypyre
+action-log-searching-settings = Jehekakue ñemboheko
+action-log-searched-settings = Jehekakue ñembohekopyre
+action-log-searching-world-cup-matches = Ehekahína Mundial partído rehegua
