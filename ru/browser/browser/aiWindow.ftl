@@ -101,6 +101,75 @@ aiwindow-firstrun-model-title = Что важно для вас?
 aiwindow-firstrun-model-subtitle = Выберите модель для подключения к { -smart-window-brand-name }. Переключайтесь в любое время.
 aiwindow-firstrun-model-fast-label = Быстрая
 aiwindow-firstrun-model-fast-body = Быстрые ответы
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Модель { $model } от { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Гибкая
+aiwindow-firstrun-model-allpurpose-body = Надежная версия для большинства потребностей
+aiwindow-firstrun-model-personal-label = Персональная
+aiwindow-firstrun-model-personal-body = Самые персонализированные ответы
+aiwindow-firstrun-button = Вперёд
+aiwindow-firstrun-back-button = Назад
+aiwindow-firstrun-next-button = Далее
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Быстрая
+aiwindow-input-model-select-button-label-allpurpose = Гибкая
+aiwindow-input-model-select-button-label-personal = Персональная
+aiwindow-input-model-select-button-label-custom = Настраиваемая
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Используйте свой собственный LRM
+aiwindow-input-model-select-default-badge =
+    .label = По умолчанию
+    .title = Выбранная модель по умолчанию
+aiwindow-input-model-select-settings-link = Параметры модели
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Больше полезных ответов на ваших условиях
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } может обучаться на основе ваших чатов, просмотра страниц, или и того, и другого, для создания воспоминаний. Со временем они делают ответы более полезными.
+aiwindow-firstrun-memories-conversation-title = Продолжение диалога
+aiwindow-firstrun-memories-conversation-body = Обучение из чатов означает, что вам придётся меньше повторять.
+aiwindow-firstrun-memories-relevance-title = Больше подходящих ответов
+aiwindow-firstrun-memories-relevance-body = Обучение из просмотра сети даёт { -smart-window-brand-name } более полную картину.
+aiwindow-firstrun-memories-privacy-title = Приватно по дизайну
+aiwindow-firstrun-memories-privacy-body = Воспоминания хранятся на этом устройстве. Удаляйте или выключайте в любое время.
+aiwindow-firstrun-memories-choose-label = Выберите, на чём обучается { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Чаты в { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Просмотр в { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Обновляйте настройки в любое время.
+aiwindow-firstrun-memories-no-create = Понятно. { -smart-window-brand-name } не будет создавать воспоминания. Обновляйте настройки в любое время.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Сделайте { -smart-window-brand-name } своим любимым
+aiwindow-firstrun-default-subtitle = Сёрфите, ищите и спрашивайте в одном месте. Вы по-прежнему можете открывать приватные и классические окна, когда захотите.
+aiwindow-firstrun-default-checkbox-label = Всегда открывать { -brand-product-name } в { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Переключайтесь в настройках в любое время
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Спросить
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Воспоминания включены
+    .tooltiptext = Воспоминания используются в ответах, когда это помогает
+aiwindow-memories-off =
+    .aria-label = Воспоминания отключены
+    .tooltiptext = Воспоминания не используются в ответах
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Новый чат
+    .tooltiptext = Новый чат
 
 ## Close Sidebar Button
 
