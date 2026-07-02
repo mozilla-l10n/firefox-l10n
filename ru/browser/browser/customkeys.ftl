@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Эта функция является экспериментальной и может работать не так, как ожидалось.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Недействителен
+customkeys-shortcut-unassigned =
+    .placeholder = Добавить ярлык
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Ярлык для: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Изменить
+    .tooltiptext = Изменить
 customkeys-key-clear =
     .aria-label = Очистить
     .tooltiptext = Очистить
+customkeys-key-reset =
+    .aria-label = Восстановить
+    .tooltiptext = Восстановить
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Нажмите новое сочетание:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Удалить другой ярлык?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Этот ключ уже используется «{ $confocus }».
+customkeys-conflict-confirm-button-confirm = Всё равно использовать
+customkeys-conflict-confirm-button-cancel = Отмена
+customkeys-reset-all-confirm-title = Восстановить по умолчанию?
+customkeys-reset-all-confirm-body = Все созданные вами ярлыки будут удалены.
+customkeys-reset-all-confirm-button-confirm = Восстановить по умолчанию
+customkeys-reset-all-confirm-button-cancel = Отменить
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Боковая панель
+customkeys-title-heading =
+    .heading = Сочетания клавиш
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Значки поисковых систем
+    .placeholder = Значки поисковых систем
+customkeys-description = Контролируйте, как вы перемещаетесь и взаимодействуете с { -brand-short-name }.
+customkeys-support-link-text = Узнать больше
+customkeys-reset-all-button = Восстановить по умолчанию

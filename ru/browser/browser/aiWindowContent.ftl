@@ -93,9 +93,78 @@ smart-window-closed-tabs-label =
         [few] Закрыто { $count } вкладки
        *[many] Закрыто { $count } вкладок
     }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Готово! Вкладка закрыты.
+        [few] Готово! Вкладки закрыты.
+       *[many] Готово! Вкладки закрыты.
+    }
+smart-window-closed-tabs-row-label = Закрытые вкладки
+smart-window-closed-and-restored-label = Закрытые и восстановленные вкладки
+smart-window-restored-row-label =
+    { $count ->
+        [one] Восстановлена { $count } вкладка
+        [few] Восстановлено { $count } вкладки
+       *[many] Восстановлено { $count } вкладок
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Вкладки закрыта, затем восстановлена.
+        [few] Вкладки закрыты, затем восстановлены.
+       *[many] Вкладки закрыты, затем восстановлены.
+    }
+smart-window-cancelled-label = Запрос отменен.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Сгруппировать
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Сгруппировать { $count } вкладку
+        [few] Сгруппировать { $count } вкладки
+       *[many] Сгруппировать { $count } вкладок
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Сгруппирована { $count } вкладка
+        [few] Сгруппировано { $count } вкладки
+       *[many] Сгруппировано { $count } вкладок
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Создана группа «{ $label }» и в неё добавлена { $count } вкладка.
+        [few] Создана группа «{ $label }» и в неё добавлено { $count } вкладки.
+       *[many] Создана группа «{ $label }» и в неё добавлено { $count } вкладок.
+    }
+smart-window-grouped-tabs-row-label = Сгруппированные вкладки
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Вкладки разгруппированы
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } вкладка сгруппирована, а затем разгруппирована.
+        [few] { $count } вкладки сгруппировано, а затем разгруппировано.
+       *[many] { $count } вкладок сгруппировано, а затем разгруппировано.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Разгруппирована { $count } вкладка
+        [few] Разгруппировано { $count } вкладки
+       *[many] Разгруппировано { $count } вкладок
+    }
 
 ## Action log
 
+action-log-searching-tabs = Поиск во вкладках
+action-log-searched-open-tabs = Совершён поиск по открытым вкладкам
+action-log-searching-history = Журнал поиска
+action-log-searched-history = Совершён поиск по журналу
 action-log-reading-page = Чтение страницы
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Чтение содержимого страницы

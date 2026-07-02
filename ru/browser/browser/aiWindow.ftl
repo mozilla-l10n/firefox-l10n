@@ -79,6 +79,28 @@ smartbar-placeholder-hint-4 = Поиск в Интернете…
 
 smartbar-mention-typing-placeholder = Установить метку на вкладку или сайт
 smartbar-mentions-list-no-results-label = Результатов не найдено
+smartbar-mentions-list-recent-tabs-label = Недавние вкладки
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Добавить вкладку или сайт
+    .tooltiptext = Добавить вкладку или сайт
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Установить метку на вкладку или сайт
+aiwindow-website-chip-history-deleted = Журнал удалён
+aiwindow-website-chip-remove-button =
+    .aria-label = Удалить
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Добро пожаловать в { -smart-window-brand-name }
+aiwindow-firstrun-model-title = Что важно для вас?
+aiwindow-firstrun-model-subtitle = Выберите модель для подключения к { -smart-window-brand-name }. Переключайтесь в любое время.
+aiwindow-firstrun-model-fast-label = Быстрая
+aiwindow-firstrun-model-fast-body = Быстрые ответы
 
 ## Close Sidebar Button
 

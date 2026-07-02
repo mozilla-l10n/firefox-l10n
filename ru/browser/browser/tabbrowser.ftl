@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Изменить размер вкладок в разделении экрана
+tab-devtools-splitter =
+    .aria-label = Изменить размер панели Инструменты разработчика
 
 ## Tooltips for tab audio control
 ## Variables:
