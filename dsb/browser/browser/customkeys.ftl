@@ -62,11 +62,38 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Toś ta funkcija jo eksperimentelna a njeźěła snaź kaž wócakane.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Njepłaśiwy
+customkeys-shortcut-unassigned =
+    .placeholder = Tastowu skrotconku pśidaś
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Tastowa skrotconka za: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Wobźěłaś
+    .tooltiptext = Wobźěłaś
 customkeys-key-clear =
     .aria-label = Lašowaś
     .tooltiptext = Lašowaś
+customkeys-key-reset =
+    .aria-label = Wótnowiś
+    .tooltiptext = Wótnowiś
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Tłocćo nowu tastu:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Pśetergnuś
+customkeys-reset-all-confirm-title = Standardy wótnowiś?
+customkeys-reset-all-confirm-button-confirm = Standardy wótnowiś
+customkeys-reset-all-confirm-button-cancel = Pśetergnuś
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Bocnica
+customkeys-title-heading =
+    .heading = Tastowe skrotconki
+customkeys-support-link-text = Dalšne informacije
+customkeys-reset-all-button = Standardy wótnowiś

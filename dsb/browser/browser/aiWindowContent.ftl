@@ -22,9 +22,31 @@ smartwindow-assistant-error-account-header = Aby { -smart-window-brand-name } wu
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serwerowa zmólka (HTTP { $status }). Wopytajśo pšosym hyšći raz.
+smartwindow-retry-btn = Hyšći raz wopytaś
+smartwindow-clear-btn = Nowy chat
+smartwindow-signin-btn = Pśizjawiś
+
+## Assistant Message footer
+
+aiwindow-memories-learn-more = Dalšne informacije
+aiwindow-retry =
+    .aria-label = Hyšći raz wopytaś
+    .tooltiptext = Hyšći raz wopytaś
+aiwindow-copy-message =
+    .aria-label = Powěsć kopěrowaś
+    .tooltiptext = Kopěrowaś
+aiwindow-copy-table =
+    .aria-label = Tabelu kopěrowaś
+    .tooltiptext = Tabelu kopěrowaś
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = { $summary } lašowaś
 
 ## Natural Language Action
 
+smartwindow-nl-retry-tool-button =
+    .label = Hyšći raz wopytaś
 smartwindow-nl-undo-button =
     .label = Anulěrowaś
 
