@@ -28,3 +28,21 @@ smart-window-model-custom =
 smart-window-model-custom-name =
     .label = Mě modela
     .placeholder = Pśikład: glm4
+smart-window-model-custom-url =
+    .label = Kóńcny dypk modela
+    .placeholder = Pśikład: http://localhost:11434/v1
+smart-window-model-custom-more-link = Wěcej wó swójskich modelach
+smart-window-model-custom-save =
+    .label = Składowaś
+ai-window-manage-memories-button =
+    .label = Dopomnjeśa zastojaś
+ai-window-delete-all-memories-button =
+    .label = Wšykne lašowaś
+ai-window-delete-all-memories-title = Wšykne dopomnjeśa lašowaś?
+ai-window-delete-all-memories-confirm = Lašowaś
+ai-window-delete-all-memories-cancel = Pśetergnuś
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Dopomnjeśe lašowaś
+    .aria-label = { $label } lašowaś

@@ -43,3 +43,11 @@ toolbox-always-on-top-enabled2 = Embogue jehechamemépe
     .title = Kóva omoñepyrũjeýta Tembiporu mboguatahárape g̃uarã
 toolbox-always-on-top-disabled2 = Emyandy jehechamemépe
     .title = Kóva omoñepyrũjeýta Tembiporu mboguatahárape g̃uarã
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Embojuaju ñembohekópe
+toolbox-local-mode-notice-try-it-button = Eha’ã jey
+toolbox-local-mode-notice-navigate-to-existing-mapping = Eikundaha ko mapeogua ndive
+toolbox-local-mode-notice-always-hide = Anive ehechauka
