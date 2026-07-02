@@ -28,6 +28,71 @@ smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name 
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Ошибка сервера (HTTP { $status }). Повторите попытку.
+smartwindow-retry-btn = Попробовать снова
+smartwindow-clear-btn = Новый чат
+smartwindow-signin-btn = Войти
+
+## Assistant Message footer
+
+aiwindow-memories-used = Использованные воспоминания
+aiwindow-memories-callout-description = Воспоминания помогли персонализировать этот ответ.
+aiwindow-memories-learn-more = Подробнее
+aiwindow-manage-memories =
+    .label = Параметры воспоминаний
+aiwindow-retry-without-memories =
+    .label = Повторить без воспоминаний
+aiwindow-retry =
+    .aria-label = Повторить
+    .tooltiptext = Повторить
+aiwindow-copy-message =
+    .aria-label = Копировать сообщение
+    .tooltiptext = Копировать
+aiwindow-copy-table =
+    .aria-label = Копировать таблицу
+    .tooltiptext = Копировать таблицу
+aiwindow-table-scroll-indicator = Прокрутите, чтобы увидеть больше
+aiwindow-thumbs-up =
+    .aria-label = Поделиться позитивным отзывом
+    .tooltiptext = Поделиться позитивным отзывом
+aiwindow-thumbs-down =
+    .aria-label = Поделиться негативным отзывом
+    .tooltiptext = Поделиться негативным отзывом
+aiwindow-applied-memories-popover =
+    .aria-label = Панель воспоминаний
+aiwindow-applied-memories-list =
+    .aria-label = Воспоминания
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Удалить { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Перейти в конец чата
+    .tooltiptext = Перейти в конец
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Повторить
+smartwindow-nl-retry-message = Если вы все ещё хотите закрыть вкладки, выберите <strong>Повторить</strong> и сделайте свой выбор на открывшейся карте.
+smartwindow-nl-retry-group-tabs-message = Если вы по-прежнему хотите сгруппировать вкладки, выберите <strong>Повторить</strong> и выберите, какие вкладки должны быть в открывшейся карте.
+smartwindow-nl-thinking = Поиск подходящих вкладок…
+smartwindow-loading-assistant-response =
+    .aria-label = Загрузка ответа ассистента
+smartwindow-nl-undo-button =
+    .label = Отменить
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Закрыта { $count } вкладка
+        [few] Закрыто { $count } вкладки
+       *[many] Закрыто { $count } вкладок
+    }
 
 ## Action log
 
