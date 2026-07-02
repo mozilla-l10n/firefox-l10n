@@ -131,23 +131,39 @@ aiwindow-input-model-select-settings-link = Ρυθμίσεις μοντέλου
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Πιο χρήσιμες απαντήσεις, με τους δικούς σας όρους
+aiwindow-firstrun-memories-subtitle = Το { -smart-window-brand-name(form: "lowerSingularNom") } μπορεί να δημιουργήσει αναμνήσεις από τις συνομιλίες, την περιήγησή σας ή και τα δύο. Αυτό θα κάνει τις απαντήσεις ολοένα και πιο χρήσιμες.
 aiwindow-firstrun-memories-conversation-title = Συνεχίστε τη συζήτηση
+aiwindow-firstrun-memories-conversation-body = Η εκμάθηση από τις συνομιλίες σημαίνει ότι δεν θα χρειάζεται να επαναλαμβάνεστε συνέχεια.
 aiwindow-firstrun-memories-relevance-title = Πιο σχετικές απαντήσεις
+aiwindow-firstrun-memories-relevance-body = Η εκμάθηση από την περιήγηση δίνει στο { -smart-window-brand-name(form: "lowerSingularNom") } μια πιο πλήρη εικόνα.
 aiwindow-firstrun-memories-privacy-title = Ιδιωτικό εκ κατασκευής
+aiwindow-firstrun-memories-privacy-body = Οι αναμνήσεις αποθηκεύονται σε αυτήν τη συσκευή. Μπορείτε να τις διαγράψετε ή να τις απενεργοποιήσετε ανά πάσα στιγμή.
+aiwindow-firstrun-memories-choose-label = Επιλέξτε τις πηγές εκμάθησης του { -smart-window-brand-name(form: "lowerSingularGen") }
 aiwindow-firstrun-memories-checkbox-chats = Συνομιλίες στο { -smart-window-brand-name(form: "lowerSingularNom") }
 aiwindow-firstrun-memories-checkbox-browsing = Περιήγηση σε όλο το { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Ενημερώστε τις επιλογές σας στις ρυθμίσεις, ανά πάσα στιγμή.
+aiwindow-firstrun-memories-no-create = Εντάξει. Το { -smart-window-brand-name(form: "lowerSingularNom") } δεν θα δημιουργεί αναμνήσεις. Μπορείτε να ενημερώσετε την επιλογή σας στις ρυθμίσεις, ανά πάσα στιγμή.
 
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = Ορίστε το { -smart-window-brand-name } ως προεπιλογή
 aiwindow-firstrun-default-subtitle = Κάντε περιήγηση, αναζήτηση και ερωτήσεις σε ένα μέρος. Μπορείτε ακόμα να ανοίγετε τα ιδιωτικά και τα κλασικά παράθυρα όταν θέλετε.
+aiwindow-firstrun-default-checkbox-label = Πάντα άνοιγμα του { -brand-product-name } σε { -smart-window-brand-name(form: "lowerSingularNom") }
 aiwindow-firstrun-default-checkbox-description = Αλλάξτε τις επιλογές σας στις ρυθμίσεις, ανά πάσα στιγμή
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Ερώτηση
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Ενεργές αναμνήσεις
+    .tooltiptext = Χρήση των αναμνήσεων στις απαντήσεις όταν αυτό είναι χρήσιμο
+aiwindow-memories-off =
+    .aria-label = Ανενεργές αναμνήσεις
+    .tooltiptext = Να μην χρησιμοποιούνται αναμνήσεις στις απαντήσεις
 
 ## New Chat Button
 
@@ -160,6 +176,10 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Κλείσιμο
     .tooltiptext = Κλείσιμο
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Τα συγχρονισμένα δεδομένα θα παραμείνουν στον λογαριασμό σας. Τα ανοικτά { -smart-window-brand-name(form: "lowerPluralNom") } θα γίνουν κλασικά παράθυρα.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -250,9 +270,12 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Η καρτέλα έκλεισε
+smartwindow-close-tab-callout-subtitle = Ανοίξτε ξανά καρτέλες από το ιστορικό, ανά πάσα στιγμή.
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Ορισμός του { -smart-window-brand-name(form: "upperSingularGen") } ως προεπιλογής;
+smart-window-default-promo-message = Το { -brand-short-name } θα ανοίγει κάθε φορά σε { -smart-window-brand-name(form: "lowerSingularNom") }.
 smart-window-default-promo-primary-button = Ορισμός ως προεπιλογή
 smart-window-default-promo-additional-button = Όχι τώρα
 
@@ -272,6 +295,7 @@ aiwindow-feedback-reason-harmful-or-offensive = Επιβλαβές ή προσβ
 aiwindow-feedback-reason-other = Άλλο
 aiwindow-feedback-preview-report = Προβολή λεπτομερειών συνομιλίας
 aiwindow-feedback-preview-report-with-page = Προβολή λεπτομερειών συνομιλίας και σελίδας
+aiwindow-feedback-include-page-content = Κοινοποίηση των σελίδων που αναφέρθηκαν σε αυτήν τη συνομιλία
 
 ## Smart Window ai-chat-grid
 
