@@ -385,6 +385,9 @@ quickactions-addons = Visualizza componenti aggiuntivi
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = estensioni, temi, componenti aggiuntivi
+# Opens preferences page at AI controls
+quickactions-manageai = Gestisci controlli IA
+quickactions-cmd-manageai = disattiva ia, disattiva ai, spegni ia, spegni ai, gestisci ia, gestisci ai
 quickactions-cmd-addons2 = componenti aggiuntivi
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gestisci segnalibri
