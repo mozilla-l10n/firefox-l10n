@@ -71,4 +71,12 @@ smart-window-restored-row-label =
     }
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Zeskupić
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] { $count } rajtark zeskupić
+        [two] { $count } rajtarkaj zeskupić
+        [few] { $count } rajtarki zeskupić
+       *[other] { $count } rajtarkow zeskupić
+    }
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
