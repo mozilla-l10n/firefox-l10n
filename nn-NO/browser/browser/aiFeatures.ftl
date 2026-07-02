@@ -35,3 +35,8 @@ ai-window-delete-all-memories-button =
     .label = Slett alle
 ai-window-delete-all-memories-confirm = Slett
 ai-window-delete-all-memories-cancel = Avbryt
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Slett minne
+    .aria-label = Slett { $label }
