@@ -74,3 +74,94 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Reintentar
 smartwindow-nl-retry-message = Si aún quiere cerrar pestañas, elija <strong>Reintentar</strong> y haga su selección en la tarjeta que se abre.
+smartwindow-nl-retry-group-tabs-message = Si aún quiere agrupar pestañas, elija <strong>Reintentar</strong> y seleccione cuáles en la tarjeta que se abre.
+smartwindow-nl-thinking = Buscando pestañas que coincidan…
+smartwindow-loading-assistant-response =
+    .aria-label = Cargando respuesta del asistente
+smartwindow-nl-undo-button =
+    .label = Deshacer
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } pestaña cerrada
+       *[other] { $count } pestañas cerradas
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] ¡Listo! Pestaña cerrada.
+       *[other] ¡Listo! Pestañas cerradas.
+    }
+smart-window-closed-tabs-row-label = Pestañas cerradas
+smart-window-closed-and-restored-label = Pestañas cerradas y restauradas
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } pestaña restaurada
+       *[other] { $count } pestañas restauradas
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Pestaña cerrada, luego restaurada.
+       *[other] Pestañas cerradas, luego restauradas.
+    }
+smart-window-cancelled-label = Pedido cancelado.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Agrupar
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Agrupar { $count } pestaña
+       *[other] Agrupar { $count } pestañas
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } pestaña agrupada
+       *[other] { $count } pestañas agrupadas
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Se creó el grupo “{ $label }” y se agregó { $count } pestaña.
+       *[other] Se creó el grupo “{ $label }” y se agregaron { $count } pestañas.
+    }
+smart-window-grouped-tabs-row-label = Pestañas agrupadas
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Pestañas desagrupadas
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } pestaña agrupada, luego desagrupada.
+       *[other] { $count } pestañas agrupadas, luego desagrupadas.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } pestaña desagrupada
+       *[other] { $count } pestañas desagrupadas
+    }
+
+## Action log
+
+action-log-searching-tabs = Buscando pestañas
+action-log-searching-history = Buscando en el historial
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 paso completado
+       *[other] { $count } pasos completados
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Resultados de búsqueda cargados en esta pestaña. Analizando…
