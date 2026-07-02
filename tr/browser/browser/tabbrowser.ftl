@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Ayrık görünüm sekmelerini yeniden boyutlandır
+tab-devtools-splitter =
+    .aria-label = Geliştirici Araçları panelini yeniden boyutlandır
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -191,9 +193,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } tarayıcısını öze
 tabbrowser-context-mute-tab =
     .label = Sekmenin sesini kapat
     .accesskey = i
+tabbrowser-context-mute-tab2 =
+    .label = Sesi kapat
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Sekmenin sesini aç
     .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Sesi aç
+    .accesskey = S
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Sekmelerin sesini kapat

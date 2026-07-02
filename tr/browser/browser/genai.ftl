@@ -108,6 +108,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Yapay zekâ sohbet botuna sor
     .accesskey = Y
+genai-menu-ask-smart-window =
+    .label = Sor…
+    .accesskey = o
 
 ## Chatbot header
 

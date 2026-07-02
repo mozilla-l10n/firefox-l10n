@@ -449,6 +449,10 @@ onboarding-checklist-pin = { -brand-short-name } tarayıcısını görev çubuğ
 onboarding-checklist-import = Önceki tarayıcınızdaki verileri içe aktarın
 onboarding-checklist-extension = Bir uzantı ekleyin
 onboarding-checklist-sign-up = Hesap açın veya hesaba giriş yapın
+onboarding-checklist-minimize =
+    .label = Küçült
+onboarding-checklist-remove =
+    .label = Kontrol listesini kaldır
 
 ## Tab Groups feature onboarding strings
 

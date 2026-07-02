@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Gizlilik
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Borsa
 home-prefs-mission-message2 =
     .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link2 =
@@ -160,6 +163,15 @@ home-prefs-mission-message-learn-more-link-srd = Nasıl mı?
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Daha fazla bilgi al
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Sembollerde ara
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Borsayı gizle
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Daha fazla bilgi al
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +207,7 @@ newtab-topsites-add-shortcut-label = Kısayol ekle
 newtab-topsites-add-shortcut-title =
     .title = Kısayol ekle
     .aria-label = Kısayol ekle
+newtab-shortcuts-pinned-area = Sabitlenmiş alan
 newtab-topsites-title-label = Başlık
 newtab-topsites-title-input =
     .placeholder = Başlık yazın
@@ -502,6 +515,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Spor
 newtab-custom-widget-privacy-toggle =
     .label = Gizlilik
+newtab-custom-widget-stocks-toggle =
+    .label = Borsa
 newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
