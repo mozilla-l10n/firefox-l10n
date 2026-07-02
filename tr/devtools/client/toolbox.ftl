@@ -48,5 +48,6 @@ toolbox-always-on-top-disabled2 = Her zaman üstte modunu aç
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
 toolbox-local-mode-notice-add-to-settings-button = Ayarlara ekle
+toolbox-local-mode-notice-try-it-button = Dene
 toolbox-local-mode-notice-navigate-to-existing-mapping = Mevcut eşlemeye git
 toolbox-local-mode-notice-always-hide = Bunu bir daha gösterme

@@ -61,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Sekmeyi sabitle
     .accesskey = S
+tab-context-pin-tab2 =
+    .label = Sabitle
+    .accesskey = S
 unpin-tab =
     .label = Normal sekmeye dönüştür
     .accesskey = N
+tab-context-unpin-tab2 =
+    .label = Sabitleneni kaldır
+    .accesskey = S
 pin-selected-tabs =
     .label = Sekmeleri sabitle
     .accesskey = S
@@ -76,9 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Sekmeyi yer imlerine ekle…
     .accesskey = m
+tab-context-bookmark-tab2 =
+    .label = Yer imlerine ekle
+    .accesskey = Y
 tab-context-open-in-new-container-tab =
     .label = Yeni kapsayıcı sekmede aç
     .accesskey = k
+tab-context-open-in-new-container-tab2 =
+    .label = Yeni kapsayıcı sekmede aç
+    .accesskey = e
 move-to-start =
     .label = En başa taşı
     .accesskey = E
@@ -139,6 +151,10 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Ayrık görünümü taşı
+    .accesskey = A
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -147,6 +163,9 @@ tab-context-send-to-device =
             [one] { $tabCount } sekmeyi cihaza gönder
            *[other] { $tabCount } sekmeyi cihaza gönder
         }
+    .accesskey = C
+tab-context-send-to-device2 =
+    .label = Cihazıma gönder
     .accesskey = C
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -176,3 +195,7 @@ tab-context-unload-n-tabs =
            *[other] { $tabCount } sekmeyi boşalt
         }
     .accesskey = l
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Boşalt
+    .accesskey = o
