@@ -131,6 +131,7 @@ aiwindow-input-model-select-settings-link = Ρυθμίσεις μοντέλου
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Πιο χρήσιμες απαντήσεις, με τους δικούς σας όρους
+aiwindow-firstrun-memories-conversation-title = Συνεχίστε τη συζήτηση
 aiwindow-firstrun-memories-relevance-title = Πιο σχετικές απαντήσεις
 aiwindow-firstrun-memories-privacy-title = Ιδιωτικό εκ κατασκευής
 aiwindow-firstrun-memories-checkbox-chats = Συνομιλίες στο { -smart-window-brand-name(form: "lowerSingularNom") }
@@ -258,6 +259,7 @@ smart-window-default-promo-additional-button = Όχι τώρα
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Αποστολή σχολίων
+aiwindow-feedback-what-worked-well = Τι λειτούργησε καλά; Μην συμπεριλάβετε προσωπικά στοιχεία.
 aiwindow-feedback-choose-any = Επιλέξτε όλα όσα ισχύουν
 aiwindow-feedback-add-details = Προσθέστε λεπτομέρειες αν το επιθυμείτε, χωρίς όμως προσωπικά στοιχεία.
 aiwindow-feedback-submit = Υποβολή

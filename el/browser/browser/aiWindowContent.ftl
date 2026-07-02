@@ -19,6 +19,11 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Κάτι πήγε στραβά. Δοκιμάστε ξανά.
 smartwindow-assistant-error-budget-header = Έχετε φτάσει το σημερινό όριο συνομιλιών.
 smartwindow-assistant-error-account-header = Για τη χρήση του { -smart-window-brand-name(form: "lowerSingularGen") }, απαιτείται σύνδεση.
+smartwindow-assistant-error-capacity-header = Το { -smart-window-brand-name(form: "lowerSingularNom") } βρίσκεται στο όριο χωρητικότητας. Δοκιμάστε ξανά αργότερα.
+smartwindow-assistant-error-budget-body = Μπορείτε ακόμα να περιηγηθείτε σε αυτό το παράθυρο. Η συνομιλία θα είναι ξανά διαθέσιμη μόλις γίνει επαναφορά του ημερήσιου ορίου σας.
+smartwindow-assistant-error-many-requests-header = Περιμένετε λίγο και δοκιμάστε ξανά. Στάλθηκαν πάρα πολλά μηνύματα σε μικρό χρονικό διάστημα.
+smartwindow-assistant-error-max-length-header = Ήρθε η ώρα να ξεκινήσετε μια νέα συνομιλία. Η συγκεκριμένη έχει φτάσει στο όριο μεγέθους της.
+smartwindow-assistant-error-request-blocked-header = Το { -smart-window-brand-name(form: "lowerSingularNom") } δεν μπόρεσε να συνδεθεί με τον διακομιστή. Δοκιμάστε ένα άλλο δίκτυο ή απενεργοποιήστε το VPN σας.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Σφάλμα διακομιστή (HTTP { $status }). Δοκιμάστε ξανά.
@@ -91,6 +96,8 @@ smart-window-closed-tabs-summary =
         [one] Αυτό ήταν! Η καρτέλα έκλεισε.
        *[other] Αυτό ήταν! Η καρτέλα έκλεισαν.
     }
+smart-window-closed-tabs-row-label = Κλεισμένες καρτέλες
+smart-window-closed-and-restored-label = Κλεισμένες και ανακτημένες καρτέλες
 smart-window-restored-row-label =
     { $count ->
         [one] Έγινε επαναφορά { $count } καρτέλας
