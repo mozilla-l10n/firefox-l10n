@@ -67,3 +67,22 @@ ai-window-learn-from-chat-activity =
     .label = Conocer sobre chats en { -smart-window-brand-name }
 ai-window-manage-memories-button =
     .label = Administrar recuerdos
+ai-window-manage-memories-header =
+    .heading = Administrar recuerdos
+    .description = Los recuerdos se guardan localmente en este dispositivo para ayudar a proteger la privacidad. Se refresca unas pocas veces al día al usar { -smart-window-brand-name }, así que la actividad reciente puede tardar en ser reflejada.
+ai-window-no-memories =
+    .label = Todavía no hay recuerdos
+    .description = Cuando { -smart-window-brand-name } aprenda de la actividad, los recuerdos se verán acá.
+ai-window-no-memories-learning-off =
+    .label = No hay recuerdos que mostrar
+    .description = El aprendizaje de la actividad está deshabilitado, por lo que { -smart-window-brand-name } no está creando recuerdos.
+ai-window-delete-all-memories-button =
+    .label = Borrar todo
+ai-window-delete-all-memories-title = ¿Borrar todos los recuerdos?
+ai-window-delete-all-memories-confirm = Borrar
+ai-window-delete-all-memories-cancel = Cancelar
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Borrar recuerdo
+    .aria-label = Borrar { $label }
