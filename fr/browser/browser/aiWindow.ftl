@@ -77,7 +77,7 @@ smartbar-placeholder-hint-4 = Rechercher sur le Web…
 
 ## Mentions
 
-smartbar-mention-typing-placeholder = Marquer un onglet ou un site
+smartbar-mention-typing-placeholder = Mentionner un onglet ou un site
 smartbar-mentions-list-no-results-label = Aucun résultat
 smartbar-mentions-list-recent-tabs-label = Onglets récents
 
@@ -89,7 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
-aiwindow-website-chip-placeholder = Marquer un onglet ou un site
+aiwindow-website-chip-placeholder = Mentionner un onglet ou un site
 aiwindow-website-chip-history-deleted = Historique supprimé
 aiwindow-website-chip-remove-button =
     .aria-label = Supprimer
