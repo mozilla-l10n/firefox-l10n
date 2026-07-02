@@ -24,3 +24,33 @@ smartwindow-document-title = Tendayke pyahu
 ## Website Chip
 
 aiwindow-website-chip-placeholder = Embohéra tendayke térã tenda
+aiwindow-website-chip-history-deleted = Tembiasakue mboguepyre
+aiwindow-website-chip-remove-button =
+    .aria-label = Mboguete
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Eg̃uahẽporã { -smart-window-brand-name }
+aiwindow-firstrun-model-title = ¿Mba’épa upe eipotavéva?
+aiwindow-firstrun-model-fast-label = Ipya’e
+aiwindow-firstrun-model-fast-body = Embohovái pya’e
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Techarã { $model } { $ownerName } rehe
+aiwindow-firstrun-model-allpurpose-label = Pepykuaáva
+aiwindow-firstrun-model-personal-label = Avamba’e
+aiwindow-firstrun-button = Jaha
+aiwindow-firstrun-back-button = Tapykue
+aiwindow-firstrun-next-button = Upeigua
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Ipya’e
+aiwindow-input-model-select-button-label-allpurpose = Pepykuaáva
+aiwindow-input-model-select-button-label-personal = Avamba’e
+aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-settings-link = Techarã ñemboheko
