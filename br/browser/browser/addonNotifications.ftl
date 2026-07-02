@@ -59,8 +59,6 @@ addon-domain-blocked-by-policy = Ardoer ho reizhiad en deus miret al lec’hienn
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-installation-blocked-by-policy = Stanket eo { $addonName } ({ $addonId }) gant hoc’h aozadur.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-install-domain-blocked-by-policy = Harzet eo bet gant %S da leuskel al lec'hienn-mañ da staliañ meziantoù war hoc'h urzhiataer gant hoc'h aozadur.
 addon-install-full-screen-blocked = N’eo ket aotreet staliañ askouezhioù p’emaoc'h er mod skramm a-bezh pe a-raok mont e-barzh.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
