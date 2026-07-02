@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Açık sekmeler
 sidebar-options-menu-button =
     .title = Menüyü aç
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Kenar çubuğunu boyutlandır
 
 ## Labels for sidebar history panel
 
