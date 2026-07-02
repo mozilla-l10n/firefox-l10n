@@ -449,6 +449,10 @@ onboarding-checklist-pin = Fixează { -brand-short-name } în bara de activită�
 onboarding-checklist-import = Importă dintr-un browser anterior
 onboarding-checklist-extension = Adaugă o extensie
 onboarding-checklist-sign-up = Fă-ți un cont sau intră în contul tău
+onboarding-checklist-minimize =
+    .label = Minimizează
+onboarding-checklist-remove =
+    .label = Elimină lista de verificare
 
 ## Tab Groups feature onboarding strings
 

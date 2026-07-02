@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = File deschise
 sidebar-options-menu-button =
     .title = Deschide meniul
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Redimensionează bara laterală
 
 ## Labels for sidebar history panel
 

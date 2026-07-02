@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Confidențialitate
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Acțiuni
 home-prefs-mission-message2 =
     .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link2 =
@@ -161,6 +164,13 @@ home-prefs-mission-message-learn-more-link-srd = Află cum
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Află mai multe
 
+## Strings for the Stocks widget
+
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Ascunde acțiunile
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Află mai multe
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -196,6 +206,7 @@ newtab-topsites-add-shortcut-label = Adaugă comanda rapidă
 newtab-topsites-add-shortcut-title =
     .title = Adaugă comanda rapidă
     .aria-label = Adaugă comanda rapidă
+newtab-shortcuts-pinned-area = Zonă fixată
 newtab-topsites-title-label = Titlu
 newtab-topsites-title-input =
     .placeholder = Introdu un titlu
@@ -505,6 +516,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sporturi
 newtab-custom-widget-privacy-toggle =
     .label = Confidențialitate
+newtab-custom-widget-stocks-toggle =
+    .label = Acțiuni
 newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi

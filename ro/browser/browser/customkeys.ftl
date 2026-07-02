@@ -62,11 +62,48 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Funcția este experimentală și este posibil să nu funcționeze conform așteptărilor.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevalidă
+customkeys-shortcut-unassigned =
+    .placeholder = Adaugă la comenzi rapide
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Comandă rapidă pentru: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Editează
+    .tooltiptext = Editează
 customkeys-key-clear =
     .aria-label = Șterge
     .tooltiptext = Șterge
+customkeys-key-reset =
+    .aria-label = Restaurează
+    .tooltiptext = Restaurează
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Apasă tasta nouă:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Elimini o altă comandă rapidă?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Cheia este deja utilizată de „{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Folosește oricum
+customkeys-conflict-confirm-button-cancel = Anulează
+customkeys-reset-all-confirm-title = Restaurezi valorile implicite?
+customkeys-reset-all-confirm-button-confirm = Restaurează valorile implicite
+customkeys-reset-all-confirm-button-cancel = Anulează
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Bară laterală
+customkeys-title-heading =
+    .heading = Comenzi rapide din tastatură
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Caută comenzi rapide
+    .placeholder = Caută comenzi rapide
+customkeys-description = Controlează modul în care te navighezi și interacționezi cu { -brand-short-name }.
+customkeys-support-link-text = Află mai multe
+customkeys-reset-all-button = Restaurează valorile implicite

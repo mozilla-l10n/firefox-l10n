@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Redimensionează filele în ecranul divizat
+tab-devtools-splitter =
+    .aria-label = Redimensionează panoul Instrumentelor pentru dezvoltatori
 
 ## Tooltips for tab audio control
 ## Variables:
