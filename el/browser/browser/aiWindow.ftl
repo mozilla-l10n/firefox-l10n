@@ -285,6 +285,7 @@ aiwindow-feedback-modal-title = Αποστολή σχολίων
 aiwindow-feedback-what-worked-well = Τι λειτούργησε καλά; Μην συμπεριλάβετε προσωπικά στοιχεία.
 aiwindow-feedback-choose-any = Επιλέξτε όλα όσα ισχύουν
 aiwindow-feedback-add-details = Προσθέστε λεπτομέρειες αν το επιθυμείτε, χωρίς όμως προσωπικά στοιχεία.
+aiwindow-feedback-disclaimer = Επιλέγοντας «Υποβολή», τα σχόλια και η συγκεκριμένη συνομιλία σας θα κοινοποιηθούν με σκοπό να βοηθήσουν την ομάδα του { -brand-shorter-name } να βελτιώσει το { -smart-window-brand-name }. Οι υπόλοιπες συνομιλίες σας παραμένουν ιδιωτικές. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 aiwindow-feedback-submit = Υποβολή
 aiwindow-feedback-cancel = Ακύρωση
 aiwindow-feedback-reason-incorrect-or-misleading = Λάθος ή παραπλανητικό
