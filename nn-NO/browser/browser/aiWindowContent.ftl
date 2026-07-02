@@ -70,3 +70,4 @@ action-log-reading-page = Les side
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Les sideinnhald
 action-log-searching-web = Søkjer på nettet
+action-log-searched-web = Søkte på nettet
