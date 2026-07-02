@@ -62,19 +62,29 @@ aiwindow-input-cta-search-submenu-header = Suchen
 
 smartbar-placeholder =
     .placeholder = Fragen, suchen oder eine URL eingeben
+smartbar-placeholder-hint-4 = Das Web durchsuchen…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Einen Tab oder eine Website markieren
 smartbar-mentions-list-no-results-label = Keine Ergebnisse gefunden
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Tab oder Website hinzufügen
+    .tooltiptext = Tab oder Website hinzufügen
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Einen Tab oder eine Website markieren
 aiwindow-website-chip-history-deleted = Chronik gelöscht
 aiwindow-website-chip-remove-button =
     .aria-label = Entfernen
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-model-title = Was ist Ihnen wichtig?
 aiwindow-firstrun-model-fast-label = Schnell
 aiwindow-firstrun-model-fast-body = Schnelle Antworten
 # $model (string) - The name of the AI model

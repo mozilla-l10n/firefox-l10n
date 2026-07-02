@@ -55,6 +55,9 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Επανάληψη
+smartwindow-nl-thinking = Αναζήτηση για αντίστοιχες καρτέλες…
+smartwindow-loading-assistant-response =
+    .aria-label = Φόρτωση απόκρισης βοηθού
 smartwindow-nl-undo-button =
     .label = Αναίρεση
 
