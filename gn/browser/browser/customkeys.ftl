@@ -62,11 +62,33 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Ko tembiapoite ojejaporamo ha upévare ndoikoporãi gueteri.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Oiko’ỹva
+customkeys-shortcut-unassigned =
+    .placeholder = Embojuaju jeike pya’eha
+customkeys-key-edit =
+    .aria-label = Mbosako’i
+    .tooltiptext = Mbosako’i
 customkeys-key-clear =
     .aria-label = Mopotĩ
     .tooltiptext = Mopotĩ
+customkeys-key-reset =
+    .aria-label = Guerujey
+    .tooltiptext = Guerujey
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Ejopy jehaiha pyahu:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Eheja
+customkeys-reset-all-confirm-button-cancel = Eheja
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Ta’ãngarupa yke
+customkeys-title-heading =
+    .heading = Tairenda mbopya’eha
+customkeys-support-link-text = Eikuaave
+customkeys-reset-all-button = Ijypykuépe mbojevy

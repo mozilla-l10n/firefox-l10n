@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Eporandu { $provider }-pe
 genai-menu-new-badge = Pyahu
 genai-menu-summarize-page = Emombyky kuatiarogue
+genai-input-ask-smart-window =
+    .placeholder = Porandu…
 genai-input-ask-generic =
     .placeholder = Eporandu chatbot-pe IA rehegua…
 # $provider (string) - name of the provider
@@ -105,6 +107,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Eporandu IA Chatbot-pe
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = Porandu…
+    .accesskey = z
 
 ## Chatbot header
 

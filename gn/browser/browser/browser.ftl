@@ -440,6 +440,7 @@ quickactions-cmd-print = Mbokuatia
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Eñongatu kuatiarogue PDF ramo
 quickactions-cmd-savepdf2 = pdf, eñongatu kuatiarogue
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Embojuruja ovetã ñemi
 quickactions-cmd-private = Ñeikundaha ñemigua

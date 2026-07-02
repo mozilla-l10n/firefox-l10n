@@ -82,6 +82,7 @@ about-private-browsing-felt-privacy-v1-info-link = Mávapa ohechakuaa che rembia
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Oñembotývo ovetãita ñemi oguéta kookieita, tembiasakue ha tenda mba’ekuaarãita.
+about-private-browsing-nova-info-link = ¿Mávapa ohechakuaa che rembiapo?
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"

@@ -54,3 +54,37 @@ aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-settings-link = Techarã ñemboheko
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Porandu
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Chatea pyahu
+    .tooltiptext = Chatea pyahu
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Mboty
+    .tooltiptext = Mboty
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Chatea
+    .aria-label = Chatea
+    .tooltiptext = Chatea
+smartwindow-footer-history =
+    .label = Tembiasakue
+    .aria-label = Tembiasakue
+    .tooltiptext = Tembiasakue
+
+## Feedback modal
+
+aiwindow-feedback-submit = Mondo
+aiwindow-feedback-cancel = Heja
+aiwindow-feedback-reason-other = Ambue
