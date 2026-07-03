@@ -87,6 +87,14 @@ smart-window-restored-row-label =
         [few] { $count } rajtarki wobnowjene
        *[other] { $count } rajtarkow wobnowjenych
     }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Rajtark je so začinił, potom wobnowił.
+        [two] Rajtarkaj stej so začiniłoj, potom wobnowiłoj.
+        [few] Rajtarki su so začinili, potom wobnowili.
+       *[other] Rajtarki su so začinili, potom wobnowili.
+    }
+smart-window-cancelled-label = Naprašowanje bu přetorhnjene.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Zeskupić
 # Button label - "Group" is a verb (action to group tabs)
@@ -97,4 +105,30 @@ smart-window-confirm-group-tabs =
         [few] { $count } rajtarki zeskupić
        *[other] { $count } rajtarkow zeskupić
     }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } rajtark zeskupjeny
+        [two] { $count } rajtarkaj zeskupjenej
+        [few] { $count } rajtarki zeskupjene
+       *[other] { $count } rajtarkow zeskupjene
+    }
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
+
+## Action log
+
+action-log-searching-tabs = Rajtarki so přepytuja
+action-log-searched-open-tabs = Wočinjene rajtarki přepytane
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Přečitany wobsah strony
+action-log-searching-web = Web přepytać
+action-log-searched-web = Web přepytany
+action-log-checking-memories = Dopomnjeća so přepruwuja
+action-log-checked-memories = Přepruwowane dopomnjeća
+action-log-searching-settings = Nastajenja přepytać
+action-log-searched-settings = Přepytane nastajenja
+action-log-searching-world-cup-matches = Hry swětoweho mišterstwa pytać
+action-log-searched-world-cup-matches = Přepytane hry swětoweho mišterstwa
+action-log-checking-world-cup-live = Hry live swětoweho mišterstwa wubrać
