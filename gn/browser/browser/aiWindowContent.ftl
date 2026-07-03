@@ -33,6 +33,16 @@ aiwindow-retry-without-memories =
 aiwindow-retry =
     .aria-label = Eha’ãjey
     .tooltiptext = Eha’ãjey
+aiwindow-copy-message =
+    .aria-label = Emonguatia ñe’ẽmondo
+    .tooltiptext = Monguatia
+aiwindow-copy-table =
+    .aria-label = Emonguatia tábla
+    .tooltiptext = Emonguatia
+aiwindow-table-scroll-indicator = Eku’e ehechave hag̃ua
+aiwindow-thumbs-up =
+    .aria-label = Emoherakuã temiandu porã
+    .tooltiptext = Emoherakuã temiandu porã
 
 ## Natural Language Action
 
