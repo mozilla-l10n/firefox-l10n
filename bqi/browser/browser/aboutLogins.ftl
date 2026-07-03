@@ -276,6 +276,13 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] پاک کردن { $count } رزم؟
        *[other] پاک کردن پوی { $count } رزم؟
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] ای کار رزما زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+        [one] ای کار رزما زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+       *[other] ای کار رزما زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
