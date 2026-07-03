@@ -68,6 +68,24 @@
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
     { $plural-form ->
-        [true] Умные окна
-       *[false] Умное окно
+        [true]
+            { $case ->
+                [nominative_uppercase] Умные окна
+                [genitive] Умных окон
+                [dative] Умным окнам
+                [accusative] Умные окна
+                [instrumental] Умными окнами
+                [prepositional] Умных окнах
+               *[nominative] Умные окна
+            }
+       *[false]
+            { $case ->
+                [nominative_uppercase] Умное окно
+                [genitive] Умного окна
+                [dative] Умному окну
+                [accusative] Умное окно
+                [instrumental] Умным окном
+                [prepositional] Умном окне
+               *[nominative] Умное окно
+            }
     }

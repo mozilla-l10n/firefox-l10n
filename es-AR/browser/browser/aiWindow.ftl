@@ -78,3 +78,75 @@ smartbar-placeholder-hint-4 = Buscar en la web…
 ## Mentions
 
 smartbar-mention-typing-placeholder = Etiquetar una pestaña o sitio
+smartbar-mentions-list-no-results-label = No se encontraron resultados
+smartbar-mentions-list-recent-tabs-label = Pestañas recientes
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Agregar una pestaña o sitio
+    .tooltiptext = Agregar una pestaña o sitio
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Etiquetar una pestaña o sitio
+aiwindow-website-chip-history-deleted = Historial borrado
+aiwindow-website-chip-remove-button =
+    .aria-label = Eliminar
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Bienvenido a { -smart-window-brand-name }
+aiwindow-firstrun-model-title = ¿Qué es importante para usted?
+aiwindow-firstrun-model-fast-label = Rápido
+aiwindow-firstrun-model-fast-body = Responde rápidamente
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexible
+aiwindow-firstrun-model-personal-label = Personal
+aiwindow-firstrun-button = Vamos
+aiwindow-firstrun-back-button = Atrás
+aiwindow-firstrun-next-button = Siguiente
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Rápido
+aiwindow-input-model-select-button-label-allpurpose = Flexible
+aiwindow-input-model-select-button-label-personal = Personal
+aiwindow-input-model-select-button-label-custom = Personalizado
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Usar un LLM propio
+aiwindow-input-model-select-default-badge =
+    .label = Predeterminado
+    .title = El modelo predeterminado seleccionado
+aiwindow-input-model-select-settings-link = Configuración del modelo
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } puede aprender de los chats, navegación o ambos para crear recuerdos. Hacen que las respuestas sean más útiles con el tiempo.
+aiwindow-firstrun-memories-conversation-body = Aprender de los chats significa que va a haber que repetir menos.
+aiwindow-firstrun-memories-relevance-title = Respuestas más relevantes
+aiwindow-firstrun-memories-privacy-title = Privado por diseño
+aiwindow-firstrun-memories-privacy-body = Los recuerdos están almacenados en este dispositivo. Se pueden borrar o desactivar en cualquier momento.
+aiwindow-firstrun-memories-choose-label = Elegir de donde aprende { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Chats en { -smart-window-brand-name }
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-subtitle = Navegar, buscar y preguntar en un solo lugar. Todavía se pueden abrir ventanas privadas y clásicas cuando quiera.
+aiwindow-firstrun-default-checkbox-label = Siempre abrir { -brand-product-name } en { -smart-window-brand-name }
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Preguntar
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Recuerdos activados
+    .tooltiptext = Se usan recuerdos en respuestas cuando sea útil.
