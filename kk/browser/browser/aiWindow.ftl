@@ -3,8 +3,32 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+main-context-menu-open-link-new-smart-window =
+    .label = Сілтемені жаңа { -smart-window-brand-name } ішінде ашу
+    .accesskey = С
+appmenuitem-new-ai-window =
+    .label = Жаңа { -smart-window-brand-name }
+    .value = Жаңа { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Жаңа классикалық терезе
+menu-file-new-ai-window =
+    .label = Жаңа { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Жаңа классикалық терезе
+menu-history-chats =
+    .label = Чаттар
+menu-history-chats-recent =
+    .label = Жуырдағы чаттар
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Жаңа бет
+
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic =
+    .label = Классикалық терезе
+    .value = Классикалық терезе
 ai-window-toggleview-switch-ai-description =
     .label = Шолу кезінде сұраңыз
     .value = Шолу кезінде сұраңыз
