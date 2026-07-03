@@ -417,7 +417,7 @@ quickactions-inspector2 = Malfermi la ilojn por programistoj
 quickactions-cmd-inspector2 = inspektilo, iloj por programistoj
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Elekti koloron
-quickactions-cmd-colorpicker = elektilo de koloroj, gutigilo, elekti koloron
+quickactions-cmd-colorpicker = elektilo de koloroj, gutigilo, koloro, mezurilo, elekti koloron
 # Opens Firefox Library
 quickactions-cmd-library = biblioteko
 quickactions-library = Malfermi bibliotekon
