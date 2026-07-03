@@ -18,6 +18,9 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Der is wat misgien. Probearje it opnij.
 smartwindow-assistant-error-budget-header = Jo hawwe de chatlimyt fan hjoed berikt.
+smartwindow-retry-btn = Opnij probearje
+smartwindow-clear-btn = Nije chat
+smartwindow-signin-btn = Oanmelde
 
 ## Assistant Message footer
 

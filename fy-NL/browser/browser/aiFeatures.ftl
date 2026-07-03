@@ -20,6 +20,9 @@ smart-window-model-learn-link = Ynfo oer modellen
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom-name =
+    .label = Modelnamme
+    .placeholder = Foarbyld: glm4
 smart-window-model-custom-save =
     .label = Bewarje
 ai-window-delete-all-memories-button =
