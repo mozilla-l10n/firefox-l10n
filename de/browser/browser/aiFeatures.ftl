@@ -65,5 +65,11 @@ ai-window-manage-memories-header =
     .description = Die Daten werden zum Schutz Ihrer Privatsphäre lokal auf diesem Gerät gespeichert. Sie werden mehrmals täglich aktualisiert, während Sie ein { -smart-window-brand-name } nutzen, sodass es eine Weile dauern kann, bis die jüngsten Aktivitäten angezeigt werden.
 ai-window-delete-all-memories-button =
     .label = Alle löschen
+ai-window-delete-all-memories-title = Alle Erinnerungen löschen?
 ai-window-delete-all-memories-confirm = Löschen
 ai-window-delete-all-memories-cancel = Abbrechen
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Erinnerung löschen
+    .aria-label = { $label } löschen
