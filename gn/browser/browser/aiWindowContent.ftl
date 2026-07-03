@@ -43,11 +43,29 @@ aiwindow-table-scroll-indicator = Eku’e ehechave hag̃ua
 aiwindow-thumbs-up =
     .aria-label = Emoherakuã temiandu porã
     .tooltiptext = Emoherakuã temiandu porã
+aiwindow-thumbs-down =
+    .aria-label = Emoherakuã temiandu vai
+    .tooltiptext = Emoherakuã temiandu vai
+aiwindow-applied-memories-popover =
+    .aria-label = Mandu’arã rupa
+aiwindow-applied-memories-list =
+    .aria-label = Mandu’arenda
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Embogue { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Eho upe chat opahápe
+    .tooltiptext = Eho opahápe
 
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Eha’ãjey
+smartwindow-nl-thinking = Ehekahína tendayke ojokupytýva…
 smartwindow-nl-undo-button =
     .label = Mboguevi
 
