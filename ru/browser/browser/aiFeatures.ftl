@@ -64,14 +64,14 @@ ai-window-memories-section =
     .label = Воспоминания
     .description = { -brand-short-name } может учиться на своей работе, чтобы создавать воспоминания. Они используются для персонализации ответов и хранятся локально на этом устройстве.
 ai-window-learn-from-chat-activity =
-    .label = Получайте информацию из чатов в { -smart-window-brand-name }
+    .label = Получайте информацию из чатов в { -smart-window-brand-name(case: "prepositional") }
 ai-window-learn-from-browsing-activity =
-    .label = Узнайте больше о сёрфинге в классическом и { -smart-window-brand-name(plural-form: "true") }
+    .label = Узнайте больше о сёрфинге в Классических и { -smart-window-brand-name(plural-form: "true", case: "prepositional") }
 ai-window-manage-memories-button =
     .label = Управление воспоминаниями
 ai-window-manage-memories-header =
     .heading = Управление воспоминаниями
-    .description = Воспоминания хранятся локально на этом устройстве, что помогает защитить вашу конфиденциальность. Они обновляются несколько раз в день, пока вы испольуете { -smart-window-brand-name }, поэтому для отображения последних действий может потребоваться некоторое время.
+    .description = Воспоминания хранятся локально на этом устройстве, что помогает защитить вашу конфиденциальность. Они обновляются несколько раз в день, пока вы используете { -smart-window-brand-name }, поэтому для отображения последних действий может потребоваться некоторое время.
 ai-window-no-memories =
     .label = Пока нет воспоминаний
     .description = По мере того, как { -smart-window-brand-name } будет узнавать о ваших активностях, вы будете видеть здесь воспоминания.
@@ -83,7 +83,7 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = Удалить все воспоминания?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = Существующие воспоминания будут удалены. Если вы не хотите создавать новые воспоминания, уберите флажки с «Узнать из…» в настройках { -smart-window-brand-name }.
+ai-window-delete-all-memories-message = Существующие воспоминания будут удалены. Если вы не хотите создавать новые воспоминания, уберите флажки с «Узнать из…» в настройках { -smart-window-brand-name(case: "genitive") }.
 ai-window-delete-all-memories-confirm = Удалить
 ai-window-delete-all-memories-cancel = Отмена
 # Variables:
