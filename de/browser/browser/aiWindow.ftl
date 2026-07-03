@@ -51,23 +51,31 @@ aiwindow-input-cta-submit-label-chat = Fragen
 aiwindow-input-cta-submit-label-navigate = Los
 aiwindow-input-cta-submit-label-search = Suchen
 aiwindow-input-cta-submit-label-stop = Stopp
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Erstellung der Antwort gestartet
 aiwindow-input-cta-menu-label-chat = Fragen
 aiwindow-input-cta-menu-label-navigate = Zur Website gehen
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Mit { $searchEngineName } suchen
 aiwindow-input-cta-menu-label-search-with = Suchen mit…
 aiwindow-input-cta-search-submenu-header = Suchen
+aiwindow-input-cta-stop-button =
+    .title = Stoppen der Antworten
+    .aria-label = Stoppen Sie die Antworterzeugung
 
 ## Smartbar
 
 smartbar-placeholder =
     .placeholder = Fragen, suchen oder eine URL eingeben
+smartbar-placeholder-hint-1 = Verwenden Sie @, um kürzlich geöffnete Tabs zu erwähnen…
+smartbar-placeholder-hint-3 = Eine Internetadresse eingeben…
 smartbar-placeholder-hint-4 = Das Web durchsuchen…
 
 ## Mentions
 
 smartbar-mention-typing-placeholder = Einen Tab oder eine Website markieren
 smartbar-mentions-list-no-results-label = Keine Ergebnisse gefunden
+smartbar-mentions-list-recent-tabs-label = Zuletzt geöffnete Tabs
 
 ## Context mentions menu toggle button
 
@@ -107,6 +115,7 @@ aiwindow-input-model-select-button-label-custom = Benutzerdefiniert
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Verwenden Sie Ihr eigenes LLM
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Das ausgewählte Standard-Modell
@@ -114,6 +123,7 @@ aiwindow-input-model-select-settings-link = Modell-Einstellungen
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Weitere hilfreiche Antworten, zu Ihren Bedingungen
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kann aus Ihren Chats, dem Surfen oder beidem lernen, um Erinnerungen zu schaffen. Dadurch werden Antworten mit der Zeit hilfreicher.
 aiwindow-firstrun-memories-conversation-title = Halten Sie das Gespräch am Laufen
 aiwindow-firstrun-memories-conversation-body = Lernen aus Chats heißt, Sie müssen sich weniger wiederholen.

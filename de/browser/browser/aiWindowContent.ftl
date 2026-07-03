@@ -159,7 +159,24 @@ action-log-read-page = Gelesener Seiteninhalt
 action-log-searching-web = Im Internet suchen
 action-log-searched-web = Im Internet gesucht
 action-log-checking-memories = Überprüfung von Erinnerungen
+action-log-checked-memories = Ausgewählte Erinnerungen
 action-log-searching-settings = Einstellungen durchsuchen
 action-log-searched-settings = Durchsuchte Einstellungen
 action-log-searching-world-cup-matches = Suche nach Weltmeisterschafts-Spielen
 action-log-searched-world-cup-matches = Durchsuchte Weltmeisterschafts-Spiele
+action-log-checking-world-cup-live = Live-Übertragungen der WM-Spiele verfolgen
+action-log-checked-world-cup-live = Ausgewählte Live-Übertragungen von WM-Spielen
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 Schritt abgeschlossen
+       *[other] { $count } Schritte abgeschlossen
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Suchergebnisse in diesem Tab geladen. Wird analysiert…

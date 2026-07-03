@@ -440,6 +440,9 @@ quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ਸਫ਼ੇ ਨੂੰ PDF ਵਜੋਂ ਸੰਭਾਲੋ
 quickactions-cmd-savepdf2 = pdf, ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = PDF ਐਡੀਟਰ ਨੂੰ ਖੋਲ੍ਹੋ
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ

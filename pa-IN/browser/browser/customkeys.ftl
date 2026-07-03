@@ -91,6 +91,7 @@ customkeys-conflict-confirm-body = ਇਸ ਸਵਿੱਚ ਪਹਿਲਾਂ ਹ
 customkeys-conflict-confirm-button-confirm = ਕਿਵੇਂ ਵੀ ਵਰਤੋਂ
 customkeys-conflict-confirm-button-cancel = ਰੱਦ ਕਰੋ
 customkeys-reset-all-confirm-title = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਹੈ?
+customkeys-reset-all-confirm-body = ਕੋਈ ਵੀ ਤੁਹਾਡਾ ਪਸੰਦੀਦਾ ਬਣਾਇਆ ਹੋਇਆ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਹਟਾਇਆ ਜਾਵੇਗਾ।
 customkeys-reset-all-confirm-button-confirm = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
 customkeys-reset-all-confirm-button-cancel = ਰੱਦ ਕਰੋ
 
@@ -104,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
     .placeholder = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
+customkeys-description = ਤੁਹਾਡੇ ਇਧਰ-ਓਧਰ ਜਾਣ ਅਤੇ { -brand-short-name } ਨਾਲ ਕੰਮ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ।
 customkeys-support-link-text = ਹੋਰ ਜਾਣੋ
 customkeys-reset-all-button = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
