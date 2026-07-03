@@ -66,13 +66,26 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Eha’ãjey
 smartwindow-nl-thinking = Ehekahína tendayke ojokupytýva…
+smartwindow-loading-assistant-response =
+    .aria-label = Emyanyhẽ pytyvõhára mbohovái
 smartwindow-nl-undo-button =
     .label = Mboguevi
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } tendayke mbotypyre
+       *[other] { $count } tendayke mbotypyre
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] ¡Oĩma! Tendayke mbotypyre.
+       *[other] ¡Oĩma! Tendaykeita mbotypyre.
+    }
 smart-window-closed-tabs-row-label = Emboty tendayke
+smart-window-closed-and-restored-label = Tendayke mboty ha myatyrõmbyre
 smart-window-cancelled-label = Jerupy ojhejapyréva.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Aty

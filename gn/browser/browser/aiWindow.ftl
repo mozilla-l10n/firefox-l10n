@@ -21,6 +21,21 @@ menu-history-chats-recent =
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Tendayke pyahu
 
+## Smart Window Toggle Button
+
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Ovetã ñemigua
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Porandu
+aiwindow-input-cta-submit-label-navigate = Jeho
+aiwindow-input-cta-submit-label-search = Heka
+aiwindow-input-cta-submit-label-stop = Pyta
+aiwindow-input-cta-menu-label-chat = Porandu
+aiwindow-input-cta-menu-label-navigate = Tairendápe jeho
+aiwindow-input-cta-search-submenu-header = Heka
+
 ## Website Chip
 
 aiwindow-website-chip-placeholder = Embohéra tendayke térã tenda
