@@ -4,10 +4,15 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = { -smart-window-brand-name } blockieren?
+ai-window-features-group =
+    .label = { -smart-window-brand-name }
+    .description = Stellen Sie Fragen, vergleichen Sie Seiten und erhalten Sie mit Hilfe eines integrierten Assistenten personalisierte Vorschläge.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
     .label = Erste Schritte
+ai-window-personalize-button =
+    .label = Einstellungen für { -smart-window-brand-name }
 ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
