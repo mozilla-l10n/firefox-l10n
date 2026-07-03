@@ -29,6 +29,9 @@ smart-window-model-learn-link = Eikuaa techarã rehegua
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Embohovái pya’e
+    .description = Techarã { $model } { $ownerName } rupi.
 smart-window-model-custom =
     .label = Mboavapyre: Eiporu LLM teéva
 smart-window-model-custom-name =
@@ -37,6 +40,9 @@ smart-window-model-custom-name =
 smart-window-model-custom-url =
     .label = Techarã endpoint
     .placeholder = Techapyrã: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = API ñe’ẽ ñemi térã token ñemoneĩha, tekotevẽrõ
+smart-window-model-custom-more-link = Eikuaave techarã mboaváva rehegua
 smart-window-model-custom-save =
     .label = Ñongatu
 ai-window-manage-memories-button =
