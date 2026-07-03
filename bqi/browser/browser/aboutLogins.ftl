@@ -246,6 +246,12 @@ about-logins-confirm-remove-all-dialog-title =
         [one] پاک کردن { $count } و من ٱووڌن؟
        *[other] پاک کردن پوی { $count } و من ٱووڌن؟
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] ای کار نوم منتوری زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+        [one] ای کار نوم منتوری زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+       *[other] ای کار نوم منتوری زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
