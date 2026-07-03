@@ -16,6 +16,12 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.
+smartwindow-assistant-error-budget-header = Sie haben das heutige Chat-Limit erreicht.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } ist derzeit voll ausgelastet. Bitte versuchen Sie es später erneut.
+smartwindow-assistant-error-budget-body = Sie können in diesem Fenster weiterhin surfen. Chat ist wieder verfügbar, sobald Ihr Tageslimit zurückgesetzt wird.
+smartwindow-assistant-error-many-requests-header = Bitte warten Sie einen Moment und versuchen Sie es erneut. Es wurden zu viele Nachrichten in kurzer Zeit gesendet.
+smartwindow-assistant-error-max-length-header = Es ist Zeit, einen neuen Chat zu beginnen. Dieser hat die Längenbeschränkung erreicht.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } konnte den Server nicht erreichen. Probieren Sie ein anderes Netzwerk aus, oder deaktivieren Sie Ihr VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serverfehler (HTTP { $status }). Bitte versuchen Sie es erneut.
@@ -25,7 +31,13 @@ smartwindow-signin-btn = Anmelden
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Erinnnerungen verwendet
+aiwindow-memories-callout-description = Erinnerungen haben geholfen, diese Antwort zu personalisieren.
 aiwindow-memories-learn-more = Weitere Informationen
+aiwindow-manage-memories =
+    .label = Erinnerungs-Einstellungen
+aiwindow-retry-without-memories =
+    .label = Ohne Erinnerungen erneut versuchen
 aiwindow-retry =
     .aria-label = Erneut versuchen
     .tooltiptext = Erneut versuchen
@@ -42,6 +54,10 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Negative Rückmeldung geben
     .tooltiptext = Negative Rückmeldung geben
+aiwindow-applied-memories-popover =
+    .aria-label = Ansicht für Erinnerungen
+aiwindow-applied-memories-list =
+    .aria-label = Erinnerungen
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -57,6 +73,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Erneut versuchen
+smartwindow-nl-retry-message = Wenn Sie Tabs trotzdem schließen möchten, wählen Sie <strong>Erneut versuchen</strong> und treffen Sie Ihre Auswahl in der sich öffnenden Karte.
+smartwindow-nl-retry-group-tabs-message = Wenn Sie die Tabs dennoch gruppieren möchten, wählen Sie <strong>Erneut versuchen</strong> und wählen Sie in der sich öffnenden Karte aus, welche Tabs gruppiert werden sollen.
 smartwindow-nl-thinking = Nach übereinstimmenden Tabs suchen…
 smartwindow-loading-assistant-response =
     .aria-label = Antwort des Assistenten wird geladen
@@ -140,6 +158,7 @@ action-log-reading-page = Seite wird gelesen
 action-log-read-page = Gelesener Seiteninhalt
 action-log-searching-web = Im Internet suchen
 action-log-searched-web = Im Internet gesucht
+action-log-checking-memories = Überprüfung von Erinnerungen
 action-log-searching-settings = Einstellungen durchsuchen
 action-log-searched-settings = Durchsuchte Einstellungen
 action-log-searching-world-cup-matches = Suche nach Weltmeisterschafts-Spielen
