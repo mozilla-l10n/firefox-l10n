@@ -4,6 +4,8 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = ¿Ejoko { -smart-window-brand-name }?
+smart-window-block-description-both = Kóva omboguéta umi chat ha { -smart-window-brand-name } imandu’áva.
+smart-window-block-description-chats = Kóva omboguéta { -smart-window-brand-name } chat.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Eporandu, embojoja kuatiarogue ha ehupyty ñemoñe’ẽ peteĩ pytyvõha jehe’apyre ndive.
