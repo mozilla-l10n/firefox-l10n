@@ -1570,6 +1570,7 @@ trustpanel-description-enabled2 = Ti es protegì. Sche nus scuvrin insatge, t’
 trustpanel-header-enabled-insecure = Sajas precaut sin questa website
 trustpanel-description-enabled-insecure = { -brand-product-name } ha remartgà insatge dubius.
 trustpanel-header-disabled = Ti has deactivà las protecziuns
+trustpanel-description-disabled = { -brand-product-name } na fa betg guardia. Nus recumandain da puspè activar las protecziuns.
 trustpanel-clear-cookies-button = Stizzar ils cookies e las datas da websites
 trustpanel-privacy-link = Parameters da la protecziun da datas
 # Variables
