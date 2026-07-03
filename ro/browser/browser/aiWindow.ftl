@@ -177,6 +177,10 @@ aiwindow-close-sidebar =
     .aria-label = Închide
     .tooltiptext = Închide
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Datele sincronizate vor rămâne în contul tău. Dacă deschizi { -smart-window-brand-name(plural-form: "true") }, vei trece la fereastra clasică.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Treci la { -smart-window-brand-name }
@@ -283,9 +287,11 @@ aiwindow-feedback-modal-title = Trimite feedback
 aiwindow-feedback-what-worked-well = Ce a funcționat bine? Te rugăm, fără informații personale.
 aiwindow-feedback-choose-any = Alege oricare dintre cele aplicabile
 aiwindow-feedback-add-details = Adăugă detalii dacă dorești. Te rugăm, fără informații personale.
+aiwindow-feedback-disclaimer = Trimiterea îți permite să trimiți feedback și conversația pentru a ajuta { -brand-shorter-name } să îmbunătățească { -smart-window-brand-name }. Celelalte conversații rămân private. <a data-l10n-name="learn-more">Află mai multe</a>
 aiwindow-feedback-submit = Trimite
 aiwindow-feedback-cancel = Anulează
 aiwindow-feedback-reason-incorrect-or-misleading = Incorect sau înșelător
+aiwindow-feedback-reason-doesnt-address-my-request = Nu-mi răspunde la cerere
 aiwindow-feedback-reason-lacks-personalization = Lipsește personalizarea sau contextul
 aiwindow-feedback-reason-performance-or-usability = Problemă de performanță sau utilizabilitate
 aiwindow-feedback-reason-harmful-or-offensive = Dăunător sau ofensiv
