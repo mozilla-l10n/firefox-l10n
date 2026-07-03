@@ -12,3 +12,6 @@ ai-window-personalize-button =
     .label = سامووا { -smart-window-brand-name }
 ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
+ai-window-default-section =
+    .label = سامووا پؽش فرز
+smart-window-model-learn-link = زبار مودلا دووسته بۊین

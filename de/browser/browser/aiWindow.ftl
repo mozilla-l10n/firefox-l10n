@@ -128,6 +128,16 @@ aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kann aus Ihre
 aiwindow-firstrun-memories-conversation-title = Halten Sie das Gespräch am Laufen
 aiwindow-firstrun-memories-conversation-body = Lernen aus Chats heißt, Sie müssen sich weniger wiederholen.
 aiwindow-firstrun-memories-relevance-title = Mehr relevante Antworten
+aiwindow-firstrun-memories-privacy-title = Privatsphäre von Grund auf
+aiwindow-firstrun-memories-privacy-body = Erinnerungen sind auf diesem Gerät gespeichert. Jederzeit löschen oder deaktivieren.
+aiwindow-firstrun-memories-checkbox-browsing = Surfen in { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Sie können die Einstellungen jederzeit aktualisieren.
+aiwindow-firstrun-memories-no-create = Verstanden. { -smart-window-brand-name } erstellt keine Erinnerungen. Sie können die Einstellungen jederzeit aktualisieren.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Machen Sie { -smart-window-brand-name } zu Ihrer ersten Wahl
+aiwindow-firstrun-default-subtitle = Surfen, suchen und fragen an einem Ort. Sie können weiterhin private und klassische Fenster öffnen, wenn Sie möchten.
 
 ## Ask Toolbar Button
 
