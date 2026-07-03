@@ -87,3 +87,6 @@ action-log-read-page = موئتوا بلگه ن بخۊوین
 action-log-searching-web = پیتینیڌن من وبگه
 action-log-searched-web = وبگه پیتینیڌه
 action-log-checking-memories = واجۊری خاترات
+action-log-checked-memories = خاترات واجۊری بیڌه
+action-log-searching-settings = پیتینیڌن من سامووا
+action-log-searched-settings = سامووا پیتینیڌه وابیڌه
