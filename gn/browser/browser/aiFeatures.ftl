@@ -6,6 +6,7 @@ preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-
 smart-window-block-title = ¿Ejoko { -smart-window-brand-name }?
 smart-window-block-description-both = Kóva omboguéta umi chat ha { -smart-window-brand-name } imandu’áva.
 smart-window-block-description-chats = Kóva omboguéta { -smart-window-brand-name } chat.
+smart-window-block-description-memories = Kóva omboguéta { -smart-window-brand-name } imandu’áva.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Eporandu, embojoja kuatiarogue ha ehupyty ñemoñe’ẽ peteĩ pytyvõha jehe’apyre ndive.
@@ -19,6 +20,9 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Ñemboheko ypyguáva
+smart-window-model-section =
+    .label = Pytyvõhára recharã
+    .description = Eiporavo peteĩ techarã umi mbaʼe emomba’evéva rupi.
 smart-window-model-learn-link = Eikuaa techarã rehegua
 
 ## Variables:
