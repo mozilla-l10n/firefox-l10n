@@ -131,7 +131,11 @@ aiwindow-input-model-select-settings-link = Setări model
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Mai multe răspunsuri utile, în condițiile tale
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } poate învăța din conversații, din navigare sau ambele pentru a crea memorii. Fac răspunsurile mai utile în timp.
+aiwindow-firstrun-memories-conversation-title = Continuă conversația
+aiwindow-firstrun-memories-conversation-body = Învățarea din conversații înseamnă că va trebui să te repeți mai puțin.
 aiwindow-firstrun-memories-relevance-title = Mai multe răspunsuri relevante
+aiwindow-firstrun-memories-relevance-body = Învățarea din navigare îi dă { -smart-window-brand-name } o imagine de ansamblu.
 aiwindow-firstrun-memories-privacy-title = Privat prin design
 aiwindow-firstrun-memories-privacy-body = Memoriile sunt stocate pe acest dispozitiv. Șterge-le sau dezactivează-le oricând.
 aiwindow-firstrun-memories-choose-label = Alege din ce învață { -smart-window-brand-name }
