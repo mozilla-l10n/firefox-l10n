@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
-smart-window-block-title = Заблокировать { -smart-window-brand-name }?
-smart-window-block-description-both = Это действие удалит ваши чаты и память { -smart-window-brand-name }.
+smart-window-block-title = Заблокировать { -smart-window-brand-name(case: "accusative") }?
+smart-window-block-description-both = Это действие удалит ваши чаты и память { -smart-window-brand-name(case: "genitive") }.
 smart-window-block-description-chats = Это приведет к удалению ваших чатов { -smart-window-brand-name }.
-smart-window-block-description-memories = Это действие удалит ваши воспоминания { -smart-window-brand-name }.
+smart-window-block-description-memories = Это действие удалит ваши воспоминания { -smart-window-brand-name(case: "genitive") }.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Задавайте вопросы, сравнивайте страницы и получайте персональные предложения с помощью встроенного помощника.
@@ -15,14 +15,14 @@ smart-window-select-label =
 ai-window-activate-link =
     .label = Начало работы
 ai-window-personalize-button =
-    .label = Настройки { -smart-window-brand-name }
+    .label = Настройки { -smart-window-brand-name(case: "genitive") }
 ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Настройки по умолчанию
 ai-window-is-default-window =
-    .label = Использовать { -smart-window-brand-name } по умолчанию
-    .description = Открывать { -smart-window-brand-name } при запуске { -brand-short-name }, перезапуске или открытии ссылок из других приложений.
+    .label = Использовать { -smart-window-brand-name(case: "accusative") } по умолчанию
+    .description = Открывать { -smart-window-brand-name(case: "accusative") } при запуске { -brand-short-name }, перезапуске или открытии ссылок из других приложений.
 ai-window-open-sidebar =
     .label = Автоматически открывать помощника
     .description = Отображать боковую панель помощника на каждой новой вкладке. Закрывайте её в любое время.
