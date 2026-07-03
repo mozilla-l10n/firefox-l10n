@@ -25,6 +25,11 @@ smartwindow-signin-btn = Eñemboheraguapy
 ## Assistant Message footer
 
 aiwindow-memories-used = Mandu’arã porupyre
+aiwindow-memories-learn-more = Eikuaave
+aiwindow-manage-memories =
+    .label = Mandu’a ñemboheko
+aiwindow-retry-without-memories =
+    .label = Eha’ãjey mandu’a’ỹre
 aiwindow-retry =
     .aria-label = Eha’ãjey
     .tooltiptext = Eha’ãjey
