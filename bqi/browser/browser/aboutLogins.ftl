@@ -257,6 +257,12 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
        *[other] پوی { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] ای کار پوی و من ٱووڌنا ک من { -brand-short-name } زفت وابیڌنه وو من دسگا یلی ک وا { -fxaccount-brand-name } هوم گوم وابیڌنه، پاک اکونه. ای کار هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+        [one] ای کار پوی و من ٱووڌنا ک من { -brand-short-name } زفت وابیڌنه وو من دسگا یلی ک وا { -fxaccount-brand-name } هوم گوم وابیڌنه، پاک اکونه. ای کار هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+       *[other] ای کار پوی و من ٱووڌنا ک من { -brand-short-name } زفت وابیڌنه وو من دسگا یلی ک وا { -fxaccount-brand-name } هوم گوم وابیڌنه، پاک اکونه. ای کار هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
