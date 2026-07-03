@@ -4,6 +4,9 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = { -smart-window-brand-name } blokować?
+smart-window-block-description-both = To chaty a dopomnjeća wašich { -smart-window-brand-name } zhaša.
+smart-window-block-description-chats = To chaty wašich { -smart-window-brand-name } zhaša.
+smart-window-block-description-memories = To dopomnjeća wašich { -smart-window-brand-name } zhaša.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -31,6 +34,8 @@ smart-window-model-custom-name =
 smart-window-model-custom-url =
     .label = Kónčny dypk modela
     .placeholder = Přikład: http://localhost:11434/v1
+smart-window-model-custom-info =
+    .message = Hdyž swójski model wužiwaće, so { -smart-window-brand-name } snano kaž wočakowany njefunguje.
 smart-window-model-custom-more-link = Wjace wo swójskich modelach
 smart-window-model-custom-save =
     .label = Składować

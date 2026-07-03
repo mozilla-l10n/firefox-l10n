@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Priwatnosć
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Akcije
 home-prefs-mission-message2 =
     .message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili.
 home-prefs-manage-topics-link2 =
@@ -162,6 +165,13 @@ home-prefs-mission-message-learn-more-link-srd = Zhońće kak
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dalše informacije
 
+## Strings for the Stocks widget
+
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Akcije schować
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Dalše informacije
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -197,6 +207,7 @@ newtab-topsites-add-shortcut-label = Zwjazanje přidać
 newtab-topsites-add-shortcut-title =
     .title = Zwjazanje přidać
     .aria-label = Zwjazanje přidać
+newtab-shortcuts-pinned-area = Připjaty wobłuk
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Titul zapodać
@@ -512,6 +523,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Priwatnosć
+newtab-custom-widget-stocks-toggle =
+    .label = Akcije
 newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty

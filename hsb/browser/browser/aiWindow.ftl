@@ -135,6 +135,15 @@ aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
 smartwindow-ask-button =
     .label = Prašeć so
 
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Dopomnjeća zmóžnjene
+    .tooltiptext = Wužiwajće dopomnjeća we wotmołwach, hdyž su pomocliwe
+aiwindow-memories-off =
+    .aria-label = Dopomnjeća znjemóžnjene
+    .tooltiptext = Njewužiwajće dopomnjeća we wotmołwach
+
 ## New Chat Button
 
 aiwindow-new-chat =
