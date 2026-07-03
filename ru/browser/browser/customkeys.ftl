@@ -87,7 +87,7 @@ customkeys-key-new =
 customkeys-conflict-confirm-title = Удалить другой ярлык?
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-confirm-body = Этот ключ уже используется «{ $confocus }».
+customkeys-conflict-confirm-body = Этот ключ уже используется «{ $conflict }».
 customkeys-conflict-confirm-button-confirm = Всё равно использовать
 customkeys-conflict-confirm-button-cancel = Отмена
 customkeys-reset-all-confirm-title = Восстановить по умолчанию?
