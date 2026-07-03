@@ -38,6 +38,14 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = Tabelu kopěrować
     .tooltiptext = Tabelu kopěrować
+aiwindow-thumbs-up =
+    .aria-label = Pozitiwne měnjenje dźělić
+    .tooltiptext = Pozitiwne měnjenje dźělić
+aiwindow-thumbs-down =
+    .aria-label = Negatiwne měnjenje dźělić
+    .tooltiptext = Negatiwne měnjenje dźělić
+aiwindow-applied-memories-list =
+    .aria-label = Dopomnjeća
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -47,6 +55,9 @@ aiwindow-delete-memory-button =
 
 smartwindow-nl-retry-tool-button =
     .label = Hišće raz spytać
+smartwindow-nl-thinking = Pyta so za wotpowědnymi rajtarkami…
+smartwindow-loading-assistant-response =
+    .aria-label = Wotmołwa asistenta so začituje
 smartwindow-nl-undo-button =
     .label = Cofnyć
 
@@ -59,6 +70,13 @@ smart-window-closed-tabs-label =
         [two] { $count } rajtarkaj začinjenej
         [few] { $count } rajtarki začinjene
        *[other] { $count } rajtarkow začinjenych
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Hotowo! Rajtark je začinjeny.
+        [two] Hotowo! Rajtarkaj stej začinjenej.
+        [few] Hotowo! Rajtarki su začinjene.
+       *[other] Hotowo! Rajtarki su začinjene.
     }
 smart-window-closed-tabs-row-label = Začinjene rajtarki
 smart-window-closed-and-restored-label = Začinjene a wobnowjene rajtarki
