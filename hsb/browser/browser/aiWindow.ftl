@@ -123,6 +123,13 @@ aiwindow-input-model-select-default-badge =
     .title = Wubrany standardny  model
 aiwindow-input-model-select-settings-link = Modelowe nastajenja
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Wjace wužitnych wotmołwow, k wašim wuměnjenjam
+aiwindow-firstrun-memories-relevance-title = Wjace relewantnych wotmołwow
+aiwindow-firstrun-memories-privacy-title = Priwatny po designje
+aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
