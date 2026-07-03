@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Wotkaz w nowym { -smart-window-brand-name } wočinić
+    .accesskey = W
 appmenuitem-new-ai-window =
     .label = Nowe { -smart-window-brand-name }
     .value = Nowe { -smart-window-brand-name }
@@ -16,11 +19,16 @@ menu-file-new-classic-window =
     .label = Nowe klasiske wokno
 menu-history-chats =
     .label = Chaty
+menu-history-chats-recent =
+    .label = Najnowše chaty
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nowy rajtark
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Woknowy typ
+    .tooltiptext = Mjez inteligentnym a klasiskim woknom přepinać.
 ai-window-toggleview-switch-classic =
     .label = Klasiske wokno
     .value = Klasiske wokno
@@ -30,6 +38,9 @@ ai-window-toggleview-switch-classic-description =
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Při přehladowanju so prašeć
+    .value = Při přehladowanju so prašeć
 ai-window-toggleview-switch-private =
     .label = Priwatne wokno
 ai-window-toggleview-open-private =
@@ -43,20 +54,37 @@ aiwindow-input-cta-submit-label-chat = Prašeć so
 aiwindow-input-cta-submit-label-navigate = Start
 aiwindow-input-cta-submit-label-search = Pytać
 aiwindow-input-cta-submit-label-stop = Stój
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Generowanje wotmołwy je so startowało
 aiwindow-input-cta-menu-label-chat = Prašeć so
+aiwindow-input-cta-menu-label-navigate = K sydłu
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Z { $searchEngineName } pytać
 aiwindow-input-cta-menu-label-search-with = Pytać z…
 aiwindow-input-cta-search-submenu-header = Pytać
+aiwindow-input-cta-stop-button =
+    .title = Wotmołwu zastajić
+    .aria-label = Generowanje wotmołwy zastajić
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Prašeć so, pytać abo URL zapodać
+smartbar-placeholder-hint-1 = Wužiwajće @, zo byšće najnowše rajtarki naspominał…
+smartbar-placeholder-hint-2 = Prašejće so něčeho…
 smartbar-placeholder-hint-3 = Zapodajće webadresu…
+smartbar-placeholder-hint-4 = Web přepytać…
 
 ## Mentions
 
 smartbar-mentions-list-no-results-label = Žane wuslědki namakane
 smartbar-mentions-list-recent-tabs-label = Najnowše rajtarki
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Rajtark abo sydło přidać
+    .tooltiptext = Rajtark abo sydło přidać
 
 ## Website Chip
 
@@ -89,6 +117,7 @@ aiwindow-input-model-select-button-label-custom = Swójski
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Wužiwajće swójski LLM
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Wubrany standardny  model

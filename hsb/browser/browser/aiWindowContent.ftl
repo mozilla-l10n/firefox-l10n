@@ -132,3 +132,20 @@ action-log-searched-settings = Přepytane nastajenja
 action-log-searching-world-cup-matches = Hry swětoweho mišterstwa pytać
 action-log-searched-world-cup-matches = Přepytane hry swětoweho mišterstwa
 action-log-checking-world-cup-live = Hry live swětoweho mišterstwa wubrać
+action-log-checked-world-cup-live = Wubrane hry live swětoweho mišterstwa
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] { $count } krok dokónčeny
+        [two] { $count } krokaj dokónčenej
+        [few] { $count } kroki dokónčene
+       *[other] { $count } krokow dokónčene
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Pytanske wuslědki su so w tutym rajtarku začitali. Analyzuje so…
