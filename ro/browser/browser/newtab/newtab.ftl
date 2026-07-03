@@ -166,6 +166,8 @@ newtab-privacy-menu-learn-more = Află mai multe
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Caută simboluri bursiere
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Ascunde acțiunile
 # Context menu item linking to more information about the Stocks widget.

@@ -298,3 +298,15 @@ aiwindow-feedback-reason-harmful-or-offensive = Dăunător sau ofensiv
 aiwindow-feedback-reason-other = Altele
 aiwindow-feedback-preview-report = Vezi detalii despre conversație
 aiwindow-feedback-preview-report-with-page = Vezi detalii despre conversație și pagină
+aiwindow-feedback-include-page-content = Partajează paginile menționate în conversație
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Schimbă aspectul vizual
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Comută modul: Vizualizare tip listă
+    .tooltiptext = Vizualizare tip listă
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Comută modul: Vizualizare tip grilă
+    .tooltiptext = Vizualizare tip grilă

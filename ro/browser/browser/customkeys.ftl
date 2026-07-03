@@ -91,6 +91,7 @@ customkeys-conflict-confirm-body = Cheia este deja utilizată de „{ $conflict 
 customkeys-conflict-confirm-button-confirm = Folosește oricum
 customkeys-conflict-confirm-button-cancel = Anulează
 customkeys-reset-all-confirm-title = Restaurezi valorile implicite?
+customkeys-reset-all-confirm-body = Vor fi eliminate orice comenzi rapide din tastatură personalizate pe care le-ai creat.
 customkeys-reset-all-confirm-button-confirm = Restaurează valorile implicite
 customkeys-reset-all-confirm-button-cancel = Anulează
 

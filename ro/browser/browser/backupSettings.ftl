@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Activează backupurile
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = A apărut o problemă cu dosarul selectat pentru backupuri. Alege un alt dosar și încearcă din nou.
+turn-on-scheduled-backups-error-default-dir-denied = Nu am putut accesa dosarul cu copii de rezervă. Încearcă să alegi o locație nouă.
 backup-error-file-system = A apărut o problemă cu dosarul selectat pentru copii de rezervă în timp ce se făcea copia de rezervă { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
