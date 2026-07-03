@@ -5,6 +5,16 @@
 toolbar-context-menu-new-tab =
     .label = بلگه نۊ
     .accesskey = w
+# Variables
+#   $tabCount (number) - Number of tabs
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] گۊشیڌن دووارته بلگه بسته وابیڌه
+            [one] گۊشیڌن دووارته بلگه بسته وابیڌه
+           *[other] گۊشیڌن دووارته بلگه بسته وابیڌه
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = دؽوۉداری وردنی
     .accesskey = E

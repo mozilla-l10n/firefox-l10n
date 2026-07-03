@@ -87,6 +87,14 @@ tab-context-new-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] بستن
+            [one] بستن { $tabCount } بلگه
+           *[other] بستن { $tabCount } بلگه
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
