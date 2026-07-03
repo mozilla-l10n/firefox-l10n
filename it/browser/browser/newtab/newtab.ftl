@@ -1341,6 +1341,15 @@ newtab-sports-widget-message-day-in-play-body = Segui la Coppa del Mondo, resta 
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Esplora i widget
 
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Aiutaci a migliorare i widget
+newtab-sports-widget-message-survey-body = La Coppa del mondo si è conclusa. Facci sapere che cosa ne pensi dell’esperienza.
+newtab-sports-widget-message-survey-widget-title = Com’era il widget della Coppa del mondo?
+newtab-sports-widget-message-survey-widget-body = Condividi la tua opinione per aiutarci a rendere i prossimi widget ancora migliori. Nel frattempo, provane subito un altro tra quelli disponibili.
+newtab-sports-widget-message-survey-cta =
+    .label = Partecipa al sondaggio
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
