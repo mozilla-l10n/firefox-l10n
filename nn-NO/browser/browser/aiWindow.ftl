@@ -225,6 +225,13 @@ firefoxview-search-chat-results-count =
        *[other] { $count } chattar
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Nettlesar-, nedlastings- og chattehistorikk
+    .accesskey = N
+item-history-downloads-and-chat-description = Slettar historikk for nettstadar, nedlastingar og chattar
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -254,13 +261,23 @@ smartwindow-close-tab-callout-subtitle = Opne faner frå historikk på nytt, nå
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-message = { -brand-short-name } blir opna i { -smart-window-brand-name } kvar gong.
 smart-window-default-promo-primary-button = Bruk som standard
 smart-window-default-promo-additional-button = Ikkje no
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Del tilbakemelding
+aiwindow-feedback-what-worked-well = Kva fungerte bra? Ikkje oppgi personleg informasjon.
+aiwindow-feedback-choose-any = Vel det som passar
+aiwindow-feedback-add-details = Legg til detaljar om du vil. Ikkje oppgi personleg informasjon.
+aiwindow-feedback-disclaimer = Når du sender inn dette, deler du tilbakemeldinga di og denne chatten for å hjelpe { -brand-shorter-name } med å forbetre { -smart-window-brand-name }. Dei andre chattane dine held fram med å vere private. <a data-l10n-name="learn-more">Les meir</a>
 aiwindow-feedback-submit = Send inn
 aiwindow-feedback-cancel = Avbryt
+aiwindow-feedback-reason-incorrect-or-misleading = Feil eller misvisande
+aiwindow-feedback-reason-doesnt-address-my-request = Svarar ikkje på førespurnaden min
+aiwindow-feedback-reason-lacks-personalization = Manglar tilpassing eller kontekst
+aiwindow-feedback-reason-performance-or-usability = Problem med yting eller brukarvennlegheit
+aiwindow-feedback-reason-harmful-or-offensive = Skadeleg eller støytande
 aiwindow-feedback-reason-other = Anna
 aiwindow-feedback-preview-report = Vis chattedetaljar
