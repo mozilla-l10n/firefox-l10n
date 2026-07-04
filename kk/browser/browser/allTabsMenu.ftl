@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Жаңа контейнерлік бет
 all-tabs-menu-hidden-tabs =
     .label = Жасырын беттер
+all-tabs-menu-close-duplicate-tabs =
+    .label = Қайталама беттерді жабу
+all-tabs-menu-view-all-tabs =
+    .label = Барлық беттерді қарау
 all-tabs-menu-manage-user-context =
     .label = Контейнерлерді басқару
     .accesskey = о
@@ -26,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Беттер топтары
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Барлық беттерден іздеу

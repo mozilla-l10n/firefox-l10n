@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Ашық беттер
 sidebar-options-menu-button =
     .title = Мәзірді ашу
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Бүйірлік панель өлшемін өзгерту
 
 ## Labels for sidebar history panel
 

@@ -448,6 +448,10 @@ onboarding-checklist-pin = { -brand-short-name } өнімін тапсырмал
 onboarding-checklist-import = Бұрынғы браузерден импорттау
 onboarding-checklist-extension = Кеңейтуді қосу
 onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелгіңізге кіріңіз
+onboarding-checklist-minimize =
+    .label = Қайыру
+onboarding-checklist-remove =
+    .label = Тексеру тізімін өшіру
 
 ## Tab Groups feature onboarding strings
 

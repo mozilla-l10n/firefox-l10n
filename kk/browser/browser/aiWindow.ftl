@@ -302,3 +302,9 @@ aiwindow-feedback-include-page-content = Осы чатта сілтеме жас
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Көрініс жаймасын ауыстыру
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Режимді ауыстыру: Тізім көрінісі
+    .tooltiptext = Тізім көрінісі
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Режимді ауыстыру: Тор көрінісі
+    .tooltiptext = Тор көрінісі

@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Қай веб-сайттарға cookies файлдарын және сайт деректерін сақтауға әрқашан немесе ешқашан рұқсат етілмегенін көрсете аласыз. Басқару үшін сайттың нақты адресін енгізіп, Бұғаттау, Тек осы сессияға рұқсат беру немесе Рұқсат етуді таңдаңыз.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Ережеден тыс - Жабу кезінде тарихты тазарту
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = { -brand-short-name } жабылу кезінде тарихты тазартқанда қай веб-сайттардың деректері сақталатынын көрсетуге болады. Басқарғыңыз келетін сайттың дәл адресін теріп, «Рұқсат ету» батырмасын шертіңіз.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

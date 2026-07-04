@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Embojuruja juajuha { -smart-window-brand-name } pyahúpe
+    .accesskey = S
 appmenuitem-new-ai-window =
     .label = Ipyahúva { -smart-window-brand-name }
     .value = Ipyahúva { -smart-window-brand-name }
@@ -23,6 +26,25 @@ smartwindow-document-title = Tendayke pyahu
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Peteĩchagua ovetã
+    .tooltiptext = Emoambue ovetã ha’eve ha oĩ’arévandi.
+ai-window-toggleview-switch-classic =
+    .label = Ovetã oĩvavoi
+    .value = Ovetã oĩvavoi
+ai-window-toggleview-switch-classic-description =
+    .label = Ñeikundaha ypykuéva
+    .value = Ñeikundaha ypykuéva
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Eporandu eikundaha aja
+    .value = Eporandu eikundaha aja
+ai-window-toggleview-switch-private =
+    .label = Ovetã ñemigua
+ai-window-toggleview-open-private =
+    .label = Embojuruja ovetã pyahu ñemigua
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Ovetã ñemigua
 
@@ -32,6 +54,8 @@ aiwindow-input-cta-submit-label-chat = Porandu
 aiwindow-input-cta-submit-label-navigate = Jeho
 aiwindow-input-cta-submit-label-search = Heka
 aiwindow-input-cta-submit-label-stop = Pyta
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Mbohovái moheñói ñepyrũmbyre
 aiwindow-input-cta-menu-label-chat = Porandu
 aiwindow-input-cta-menu-label-navigate = Tairendápe jeho
 aiwindow-input-cta-search-submenu-header = Heka

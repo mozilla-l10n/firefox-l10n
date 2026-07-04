@@ -165,6 +165,8 @@ newtab-privacy-menu-learn-more = Көбірек білу
 
 ## Strings for the Stocks widget
 
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Акцияларды жасыру
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Көбірек білу
 
@@ -513,6 +515,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Спорт
 newtab-custom-widget-privacy-toggle =
     .label = Жекелік
+newtab-custom-widget-stocks-toggle =
+    .label = Акциялар
 newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер
@@ -989,6 +993,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Хабарламаларды сөндіру
 newtab-widget-timer-menu-notifications-on = Хабарламаларды іске қосу
 newtab-widget-timer-menu-learn-more = Көбірек білу
+newtab-widget-timer-menu-button =
+    .aria-label = Таймер опциялары
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Басты жаңалықтар
 newtab-daily-briefing-card-menu-dismiss = Елемеу
@@ -1101,6 +1107,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Тек жазылған командалар
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Көбірек матчтарды жүктеу…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Қарау
@@ -1193,6 +1201,8 @@ newtab-sports-widget-match-penalties = Пенальти
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = -
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Алдағы матчтардың ақпаратын білу үшін бізбен бірге болыңыз
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1204,6 +1214,12 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .aria-label = Келесі
     .title = Келесі
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .title = Матч эфирі { $index }/{ $total }
+    .aria-label = Матч эфирі { $index }/{ $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1273,6 +1289,8 @@ newtab-sports-widget-team-tbd = Анықталуы керек
 newtab-sports-widget-message-wallpapers-title = Әлем чемпионатын жаңа тұсқағаздармен бастаңыз
 newtab-sports-widget-message-wallpapers-body = Турнирге дайындық үшін браузеріңізге ойын күніне күш-қуат әкеліңіз.
 newtab-sports-widget-message-wallpapers-cta = Тұсқағазды таңдау
+newtab-sports-widget-message-wallpapers-semifinals-title = Жартылай финалға жаңа тұсқағаз алыңыз
+newtab-sports-widget-message-wallpapers-semifinals-body = Әлем чемпионатының ең маңызды матчтарына дайындық жасаңыз.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Виджеттерді қосу
 newtab-sports-widget-message-day-in-play-title = Күніңізді { -brand-product-name } виджеттерімен қызықты өткізіңіз

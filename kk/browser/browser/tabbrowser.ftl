@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Бөлінген көрініс беттерінің өлшемін өзгерту
+tab-devtools-splitter =
+    .aria-label = Әзірлеуші құралдары панелінің өлшемін өзгерту
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -183,8 +185,14 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } баптау
 tabbrowser-context-mute-tab =
     .label = Бет дыбысын басу
     .accesskey = б
+tabbrowser-context-mute-tab2 =
+    .label = Дыбысын сөндіру
+    .accesskey = с
 tabbrowser-context-unmute-tab =
     .label = Бет дыбысын іске қосу
+    .accesskey = с
+tabbrowser-context-unmute-tab2 =
+    .label = Дыбысын іске қосу
     .accesskey = с
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =

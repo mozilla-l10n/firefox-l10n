@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Сынған сайт туралы хабарлау
 report-broken-site-panel-intro-text = Есептеме жіберу { -brand-product-name } ішіндегі мәселелерді түсінуге және оны барлығы үшін жақсартуға көмектеседі.
 report-broken-site-panel-learn-more-link = Көбірек білу
+report-broken-site-panel-url-label = Сынған сайттың URL адресі
 report-broken-site-panel-reason-intro-text = Не жұмыс істемейді?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Сайт жүктелмейді

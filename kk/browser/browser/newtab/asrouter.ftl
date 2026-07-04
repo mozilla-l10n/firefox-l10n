@@ -460,6 +460,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Бастапқы ретінде орнату
 set-default-menu-message-primary-button-variant = Негізгі браузер ретінде орнату
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } негізі қылу
 
 ## Firefox Relay 50 Masks Announcement
 
