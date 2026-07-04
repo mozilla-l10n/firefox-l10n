@@ -93,6 +93,9 @@ aiwindow-input-model-select-menu-item-description-custom = Bruk din eigen LLM
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-relevance-title = Meir relevante svar
+aiwindow-firstrun-memories-relevance-body = Å lære frå nettlesing gir { -smart-window-brand-name } eit større bilde.
+aiwindow-firstrun-memories-privacy-title = Designa for personvern
+aiwindow-firstrun-memories-privacy-body = Minne blir lagra på denne eininga. Slett dei eller slå dei av når som helst.
 aiwindow-firstrun-memories-checkbox-chats = Chattar i { -smart-window-brand-name }
 
 ## Ask Toolbar Button
