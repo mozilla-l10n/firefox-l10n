@@ -17,6 +17,11 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Noko gjekk gale. Prøv igjen.
+smartwindow-assistant-error-budget-header = Du har nådd dagens chattegrense.
+smartwindow-assistant-error-account-header = Du må logge inn for å bruke { -smart-window-brand-name }.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } har nådd kapasitetstaket. Prøv på nytt seinare.
+smartwindow-assistant-error-budget-body = Du kan framleis surfe i dette vindauget. Chat blir tilgjengeleg igjen når den daglege grensa blir tilbakestilt.
+smartwindow-assistant-error-many-requests-header = Vent litt og prøv på nytt. For mange meldingar vart sendt på kort tid.
 smartwindow-retry-btn = Prøv igjen
 smartwindow-clear-btn = Ny chatt
 smartwindow-signin-btn = Logg inn

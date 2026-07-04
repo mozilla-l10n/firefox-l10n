@@ -41,6 +41,10 @@ ai-window-manage-memories-button =
     .label = Behandle minne
 ai-window-delete-all-memories-button =
     .label = Slett alle
+ai-window-delete-all-memories-title = Slette alle minne?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Eksisterande minne vil bli sletta. Om du ikkje vil at nye minne skal opprettast, fjern avmerkinga for alternativa «Lær frå …» i innstillingane for { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Slett
 ai-window-delete-all-memories-cancel = Avbryt
 # Variables:
