@@ -5,6 +5,7 @@
 
 ## Assistant Message footer
 
+aiwindow-memories-learn-more = قلوه دووسته بۊین
 aiwindow-copy-message =
     .aria-label = لف گیری پیوم
     .tooltiptext = لف گیری
