@@ -26,9 +26,15 @@ smartwindow-document-title = Жаңа бет
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Терезе түрі
+    .tooltiptext = Ақылды және классикалық терезелер арасында ауысу.
 ai-window-toggleview-switch-classic =
     .label = Классикалық терезе
     .value = Классикалық терезе
+ai-window-toggleview-switch-classic-description =
+    .label = Стандартты шолу
+    .value = Стандартты шолу
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
@@ -268,6 +274,8 @@ smartwindow-close-tab-callout-subtitle = Беттерді кез келген у
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = { -smart-window-brand-name } негізгі етіп қылу керек пе?
+smart-window-default-promo-message = { -brand-short-name } енді әр рет { -smart-window-brand-name } режимінде ашылатын болады.
 smart-window-default-promo-primary-button = Бастапқы ретінде орнату
 smart-window-default-promo-additional-button = Қазір емес
 
@@ -275,6 +283,22 @@ smart-window-default-promo-additional-button = Қазір емес
 
 aiwindow-feedback-modal-title = Пікір қалдыру
 aiwindow-feedback-what-worked-well = Не жақсы жұмыс істеді? Жеке ақпарат бермеңіз.
+aiwindow-feedback-choose-any = Сәйкес келетін кез келгенін таңдаңыз
+aiwindow-feedback-add-details = Қаласаңыз, мәліметтер қосыңыз. Жеке ақпарат бермеңіз.
+aiwindow-feedback-disclaimer = Кері байланысты жіберу арқылы сіз { -brand-shorter-name } үшін { -smart-window-brand-name } өнімін жақсартуға көмектесу үшін осы чатпен бөлісесіз. Басқа чаттарыңыз жеке болып қалады. <a data-l10n-name="learn-more">Көбірек білу</a>
 aiwindow-feedback-submit = Жіберу
 aiwindow-feedback-cancel = Бас тарту
+aiwindow-feedback-reason-incorrect-or-misleading = Дұрыс емес немесе жаңылыстыратын
+aiwindow-feedback-reason-doesnt-address-my-request = Менің сұрауыма сай келмейді
+aiwindow-feedback-reason-lacks-personalization = Жекелендіру немесе контекст жетіспейді
+aiwindow-feedback-reason-performance-or-usability = Өнімділік немесе пайдалану мүмкіндігі мәселесі
+aiwindow-feedback-reason-harmful-or-offensive = Зиянды немесе қорлайтын
 aiwindow-feedback-reason-other = Басқа
+aiwindow-feedback-preview-report = Чат мәліметтерін қарау
+aiwindow-feedback-preview-report-with-page = Чат және бет мәліметтерін қарау
+aiwindow-feedback-include-page-content = Осы чатта сілтеме жасалған беттерді бөлісу
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Көрініс жаймасын ауыстыру

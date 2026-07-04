@@ -162,3 +162,23 @@ action-log-searching-web = Интернетте іздеу
 action-log-searched-web = Интернетте ізделді
 action-log-checking-memories = Жадыны тексеру
 action-log-checked-memories = Жады тексерілді
+action-log-searching-settings = Баптауларда іздеу
+action-log-searched-settings = Баптауларда ізделді
+action-log-searching-world-cup-matches = Әлем чемпионатының матчтарын іздеу
+action-log-searched-world-cup-matches = Әлем чемпионатының матчтары ізделді
+action-log-checking-world-cup-live = Әлем чемпионатының тікелей матчтарын тексеру
+action-log-checked-world-cup-live = Әлем чемпионатының тікелей матчтары тексерілді
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 қадам аяқталды
+       *[other] { $count } қадам аяқталды
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Осы беттегі іздеу нәтижелері жүктелген. Анализ жасалуда…

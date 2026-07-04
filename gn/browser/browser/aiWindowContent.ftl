@@ -113,9 +113,29 @@ smart-window-grouped-tabs-label =
         [one] { $count } tendayke mbyatypyre
        *[other] { $count } tendaykeita mbyatypyre
     }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Heñóima aty “{ $label }” ha ojuajúma { $count } tendayke.
+       *[other] Heñóima aty “{ $label }” ha ojuajúma { $count } tendaykeita.
+    }
 smart-window-grouped-tabs-row-label = Tendayke mbyatypyre
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tendayke jepe’apyre
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } Tendayke mbyatypyre, upéi ojepe’ajey.
+       *[other] { $count } Tendaykeita mbyatypyre, upéi ojepe’ajey.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } tendayke ojepe’ajeéva
+       *[other] { $count } tendaykeita ojepe’ajeéva
+    }
 
 ## Action log
 
@@ -136,3 +156,17 @@ action-log-searching-world-cup-matches = Ehekahína Mundial partído rehegua
 action-log-searched-world-cup-matches = Mundial partído jehekapyre
 action-log-checking-world-cup-live = Eporandu Mundial partído oiko jave
 action-log-checked-world-cup-live = Ahechajey Mundial partído oiko jave
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 jeku’e rehupytýva
+       *[other] { $count } jeku’e rehupytýva
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Jehekakue rapykuere henyhẽva ko tendayképe. Ohesa’ỹijohína…
