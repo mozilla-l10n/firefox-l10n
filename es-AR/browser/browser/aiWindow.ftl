@@ -134,11 +134,14 @@ aiwindow-firstrun-memories-privacy-title = Privado por diseño
 aiwindow-firstrun-memories-privacy-body = Los recuerdos están almacenados en este dispositivo. Se pueden borrar o desactivar en cualquier momento.
 aiwindow-firstrun-memories-choose-label = Elegir de donde aprende { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-chats = Chats en { -smart-window-brand-name }
+aiwindow-firstrun-memories-update-settings = Se puede actualizar en la configuración en cualquier momento.
+aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } no creará recuerdos. Se puede actualizar en la configuración en cualquier momento.
 
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-subtitle = Navegar, buscar y preguntar en un solo lugar. Todavía se pueden abrir ventanas privadas y clásicas cuando quiera.
 aiwindow-firstrun-default-checkbox-label = Siempre abrir { -brand-product-name } en { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Se puede cambiar en la configuración en cualquier momento.
 
 ## Ask Toolbar Button
 
@@ -165,6 +168,10 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Cerrar
     .tooltiptext = Cerrar
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Los datos sincronizados permanecerán en la cuenta. Abrir { -smart-window-brand-name(plural-form: "true") } cambiará a ventanas clásicas.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -252,6 +259,8 @@ smartwindow-close-tab-callout-subtitle = Reabrir pestañas desde el historial en
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = ¿Hacer que { -smart-window-brand-name } sea el predeterminado?
+smart-window-default-promo-message = { -brand-short-name } se abrirá en { -smart-window-brand-name } siempre.
 smart-window-default-promo-primary-button = Hacer predeterminado
 smart-window-default-promo-additional-button = No ahora
 
@@ -259,6 +268,7 @@ smart-window-default-promo-additional-button = No ahora
 
 aiwindow-feedback-modal-title = Compartir opinión
 aiwindow-feedback-what-worked-well = ¿Qué funcionó bien? Sin información personal, por favor.
+aiwindow-feedback-disclaimer = Al enviar se comparten comentarios y este chat para ayudar a { -brand-shorter-name } a mejorar { -smart-window-brand-name }. Los otros chats se mantienen privados. <a data-l10n-name="learn-more">Conocer más</a>
 aiwindow-feedback-submit = Enviar
 aiwindow-feedback-cancel = Cancelar
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrecto o engañoso
