@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Бетті қайта жүктеу
     .accesskey = й
+reload-tab2 =
+    .label = Қайта жүктеу
+    .accesskey = й
 select-all-tabs =
     .label = Барлық беттерді таңдау
     .accesskey = т
@@ -24,9 +27,15 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Бетті қосарлау
     .accesskey = о
+duplicate-tab2 =
+    .label = Көшірме жасау
+    .accesskey = ш
 duplicate-tabs =
     .label = Беттерді қосарлау
     .accesskey = о
+duplicate-tabs2 =
+    .label = Көшірме жасау
+    .accesskey = ш
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -52,8 +61,14 @@ reload-tabs =
 pin-tab =
     .label = Бетті бекіту
     .accesskey = к
+tab-context-pin-tab2 =
+    .label = Бекіту
+    .accesskey = Б
 unpin-tab =
     .label = Бетті босату
+    .accesskey = Б
+tab-context-unpin-tab2 =
+    .label = Бекітуді алып тастау
     .accesskey = Б
 pin-selected-tabs =
     .label = Беттерді бекіту
@@ -67,7 +82,13 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Бетті бетбелгілерге қосу…
     .accesskey = Б
+tab-context-bookmark-tab2 =
+    .label = Бетбелгілерге қосу
+    .accesskey = т
 tab-context-open-in-new-container-tab =
+    .label = Жаңа контейнерлік бетте ашу
+    .accesskey = е
+tab-context-open-in-new-container-tab2 =
     .label = Жаңа контейнерлік бетте ашу
     .accesskey = е
 move-to-start =
@@ -86,9 +107,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Бірнеше бетті жабу
     .accesskey = ш
+tab-context-close-multiple-tabs2 =
+    .label = Бірнешеуін жабу
+    .accesskey = ш
 tab-context-close-duplicate-tabs =
     .label = Қайталама беттерді жабу
     .accesskey = о
+tab-context-close-duplicate-tabs2 =
+    .label = Осы беттің көшірмелерін жабу
+    .accesskey = к
 tab-context-share-url =
     .label = Бөлісу
     .accesskey = л
@@ -120,6 +147,13 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } бетті жабу
         }
     .accesskey = ж
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Жабу
+           *[other] { $tabCount } бетті жабу
+        }
+    .accesskey = Ж
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -127,6 +161,18 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Бетті жылжыту
+           *[other] { $tabCount } бетті жылжыту
+        }
+    .accesskey = л
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Бөлінген көріністі жылжыту
+    .accesskey = р
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -135,6 +181,9 @@ tab-context-send-to-device =
            *[other] Send { $tabCount } Tabs to Device
         }
     .accesskey = б
+tab-context-send-to-device2 =
+    .label = Құрылғыларыңызға жіберу
+    .accesskey = у
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -161,4 +210,8 @@ tab-context-unload-n-tabs =
             [1] Бетті жадыдан шығару
            *[other] { $tabCount } бетті жадыдан шығару
         }
+    .accesskey = ы
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Жадыдан түсіру
     .accesskey = ы

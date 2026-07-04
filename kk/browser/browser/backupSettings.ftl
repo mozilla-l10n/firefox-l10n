@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Орналасу
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (ұсынылады)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Орналасуды таңдау
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Таңдау…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Сақтық көшірме жаса�
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Таңдалған сақтық көшірме бумасында қате орын алды. Басқа буманы таңдап, қайталап көріңіз.
+turn-on-scheduled-backups-error-default-dir-denied = Сіздің сақтық көшірме бумасыңызға қол жеткізе алмадық. Жаңа орналасуды таңдап көріңіз.
 backup-error-file-system = { -brand-short-name } сақтық көшірмесін жасау кезінде таңдалған сақтық көшірме бумасымен мәселе туындады.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

@@ -58,7 +58,27 @@ aiwindow-input-cta-submit-label-stop = Pyta
 aiwindow-generation-started-announcement = Mbohovái moheñói ñepyrũmbyre
 aiwindow-input-cta-menu-label-chat = Porandu
 aiwindow-input-cta-menu-label-navigate = Tairendápe jeho
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Eheka { $searchEngineName } ndive
+aiwindow-input-cta-menu-label-search-with = Eheka kóva ndive…
 aiwindow-input-cta-search-submenu-header = Heka
+aiwindow-input-cta-stop-button =
+    .title = Ejoko mbohovái
+    .aria-label = Ejoko ñembohovái moheñói
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Eporandu, eheka térã ehai URL
+smartbar-placeholder-hint-1 = Eiporu @ ere hag̃ua tendake oĩramóva…
+smartbar-placeholder-hint-2 = Eporandu oimeraẽ mba’e…
+smartbar-placeholder-hint-3 = Ehai ñanduti kundaharape…
+smartbar-placeholder-hint-4 = Eheka ñandutípe…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = Embohéra tendayke térã tenda
+smartbar-mentions-list-no-results-label = Ndojejuhúi mba’evete
 
 ## Website Chip
 
