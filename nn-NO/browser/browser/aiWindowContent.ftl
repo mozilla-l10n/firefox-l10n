@@ -100,3 +100,19 @@ action-log-searching-settings = Søkjer i innstillingar
 action-log-searched-settings = Søkte i innstillingar
 action-log-searching-world-cup-matches = Søkjer etter VM-kampar
 action-log-searched-world-cup-matches = Søkte etter VM-kampar
+action-log-checking-world-cup-live = Sjekkar direktesende VM-kampar
+action-log-checked-world-cup-live = Sjekka direktesende VM-kampar
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Fullførte 1 steg
+       *[other] Fullførte { $count } steg
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Lasta inn søkjeresultat i denne fana. Analyserer…

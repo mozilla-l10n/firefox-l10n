@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Opne lenke i nytt { -smart-window-brand-name }
+    .accesskey = S
 appmenuitem-new-ai-window =
     .label = Nytt { -smart-window-brand-name }
     .value = Nytt { -smart-window-brand-name }
@@ -23,6 +26,9 @@ smartwindow-document-title = Ny fane
 
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic =
+    .label = Klassisk vindauge
+    .value = Klassisk vindauge
 ai-window-toggleview-switch-private =
     .label = Privat vindauge
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
