@@ -62,11 +62,48 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Esta función es experimental y puede ser que no funcione como se esperaba.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválida
+customkeys-shortcut-unassigned =
+    .placeholder = Agregar atajo
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Atajo para: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Editar
+    .tooltiptext = Editar
 customkeys-key-clear =
     .aria-label = Limpiar
     .tooltiptext = Limpiar
+customkeys-key-reset =
+    .aria-label = Restaurar
+    .tooltiptext = Restaurar
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Presionar nueva tecla:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = ¿Eliminar otro atajo?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Esta tecla ya está usada por “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Usar de todos modos
+customkeys-conflict-confirm-button-cancel = Cancelar
+customkeys-reset-all-confirm-title = ¿Restaurar predeterminados?
+customkeys-reset-all-confirm-body = Se eliminarán todos los atajos de teclado personalizados que se hayan creado.
+customkeys-reset-all-confirm-button-confirm = Restaurar predeterminados
+customkeys-reset-all-confirm-button-cancel = Cancelar
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra lateral
+customkeys-title-heading =
+    .heading = Atajos de teclado
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Buscar en atajos
+    .placeholder = Buscar en atajos
+customkeys-support-link-text = Conocer más
+customkeys-reset-all-button = Restaurar predeterminados

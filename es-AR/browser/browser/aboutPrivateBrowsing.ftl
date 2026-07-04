@@ -83,4 +83,8 @@ about-private-browsing-felt-privacy-v1-info-link = ¿Quién podría ver mi activ
 
 about-private-browsing-nova-info-body = Cerrar todas las ventanas privadas borra las cookies, el historial y los datos del sitio.
 about-private-browsing-nova-info-link = ¿Quién podría seguir viendo mi actividad?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = El historial de navegación se borrará.
 about-private-browsing-nova-info-subheader = Borraremos todas las búsquedas e inicios de sesión al cerrar esta ventana. Las protecciones integradas de { -brand-short-name } también están acá, como bloquear rastreadores.
