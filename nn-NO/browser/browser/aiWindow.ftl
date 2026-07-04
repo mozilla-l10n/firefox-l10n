@@ -141,6 +141,12 @@ aiwindow-firstrun-memories-checkbox-browsing = Nettlesing i { -brand-product-nam
 aiwindow-firstrun-memories-update-settings = Endre dette i innstillingane når som helst.
 aiwindow-firstrun-memories-no-create = Skjønar. { -smart-window-brand-name } vil ikkje opprette minne. Du kan endre dette i innstillingane når som helst.
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-subtitle = Surf, søk og still spørsmål på éin stad. Du kan framleis opne private vindauge og klassiske vindauge når du vil.
+aiwindow-firstrun-default-checkbox-label = Opne alltid { -brand-product-name } i { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Byt i innstillingane når som helst
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =

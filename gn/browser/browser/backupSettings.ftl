@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Tendaite
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (ñemombe’upyre)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Eiporavo tendaite
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Poravo…

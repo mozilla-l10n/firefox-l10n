@@ -104,7 +104,9 @@ aiwindow-firstrun-model-fast-body = Embohovái pya’e
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Techarã { $model } { $ownerName } rehe
 aiwindow-firstrun-model-allpurpose-label = Pepykuaáva
+aiwindow-firstrun-model-allpurpose-body = Oñeme’ẽ oĩva tekotevẽre
 aiwindow-firstrun-model-personal-label = Avamba’e
+aiwindow-firstrun-model-personal-body = Mbohovái heseguaitéva
 aiwindow-firstrun-button = Jaha
 aiwindow-firstrun-back-button = Tapykue
 aiwindow-firstrun-next-button = Upeigua
@@ -119,7 +121,17 @@ aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Eiporu LLM teéva
+aiwindow-input-model-select-default-badge =
+    .label = Ijypykue
+    .title = Jehecharã ypykue poravopyre
 aiwindow-input-model-select-settings-link = Techarã ñemboheko
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-conversation-title = Eike eñe’ẽ hag̃ua ore ndive
+aiwindow-firstrun-memories-relevance-title = Mbohovái iporãvéva
+aiwindow-firstrun-memories-privacy-title = Iñemi moha’ãnga rupi
 
 ## Firstrun set as default onboarding
 

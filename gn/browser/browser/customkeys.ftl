@@ -81,7 +81,10 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-button-confirm = Eiporupaite ayvu
 customkeys-conflict-confirm-button-cancel = Eheja
+customkeys-reset-all-confirm-title = ¿Emoĩporã ijypykue?
+customkeys-reset-all-confirm-button-confirm = Embojevy ypykuépe
 customkeys-reset-all-confirm-button-cancel = Eheja
 
 ## Sidebar
