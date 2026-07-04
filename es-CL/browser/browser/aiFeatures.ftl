@@ -80,9 +80,14 @@ ai-window-no-memories-learning-off =
     .description = El aprendizaje desde las actividades está desactivado, por lo que { -smart-window-brand-name } no está creando recuerdos.
 ai-window-delete-all-memories-button =
     .label = Eliminar todo
-ai-window-delete-all-memories-title = ¿Borrar todos los recuerdos?
+ai-window-delete-all-memories-title = ¿Eliminar todos los recuerdos?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
 ai-window-delete-all-memories-message = Se eliminarán los recuerdos existentes. Si no deseas que se creen nuevos recuerdos, desactiva la opción "Aprender de..." en los ajustes de { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Borrar
 ai-window-delete-all-memories-cancel = Cancelar
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Eliminar recuerdo
+    .aria-label = Eliminar { $label }
