@@ -29,8 +29,19 @@ smartwindow-document-title = Ny fane
 ai-window-toggleview-switch-classic =
     .label = Klassisk vindauge
     .value = Klassisk vindauge
+ai-window-toggleview-switch-classic-description =
+    .label = Standard nettlesing
+    .value = Standard nettlesing
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Still spørsmål medan du surfar
+    .value = Still spørsmål medan du surfar
 ai-window-toggleview-switch-private =
     .label = Privat vindauge
+ai-window-toggleview-open-private =
+    .label = Opne nytt privat vindauge
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassisk vindauge
 
@@ -40,12 +51,17 @@ aiwindow-input-cta-submit-label-chat = Spør
 aiwindow-input-cta-submit-label-navigate = Gå
 aiwindow-input-cta-submit-label-search = Søk
 aiwindow-input-cta-submit-label-stop = Stopp
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Svargenerering har starta
 aiwindow-input-cta-menu-label-chat = Spør
 aiwindow-input-cta-menu-label-navigate = Gå til nettstad
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Søk med { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Søk med…
 aiwindow-input-cta-search-submenu-header = Søk
+aiwindow-input-cta-stop-button =
+    .title = Stopp svar
+    .aria-label = Stopp generering av svar
 
 ## Smartbar
 
@@ -62,6 +78,12 @@ smartbar-mention-typing-placeholder = Merk ei fane eller ein nettstad
 smartbar-mentions-list-no-results-label = Fann ingen resultat
 smartbar-mentions-list-recent-tabs-label = Nylege faner
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Legg til ei fane eller ein nettstad
+    .tooltiptext = Legg til ei fane eller ein nettstad
+
 ## Website Chip
 
 aiwindow-website-chip-placeholder = Merk ei fane eller ein nettstad
@@ -73,13 +95,16 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Velkomen til { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Kva er viktig for deg?
+aiwindow-firstrun-model-subtitle = Vel ein modell for { -smart-window-brand-name }. Du kan byte når som helst.
 aiwindow-firstrun-model-fast-label = Rask
 aiwindow-firstrun-model-fast-body = Raske svar
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Modell { $model } av { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
+aiwindow-firstrun-model-allpurpose-body = Passar godt til dei fleste behov
 aiwindow-firstrun-model-personal-label = Personleg
+aiwindow-firstrun-model-personal-body = Mest tilpassa svar
 aiwindow-firstrun-button = La leiken byrja… Og køyr…
 aiwindow-firstrun-back-button = Tilbake
 aiwindow-firstrun-next-button = Neste
@@ -95,9 +120,14 @@ aiwindow-input-model-select-button-label-custom = Tilpassa
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = Bruk din eigen LLM
+aiwindow-input-model-select-default-badge =
+    .label = Standard
+    .title = Vald standardmodell
+aiwindow-input-model-select-settings-link = Modellinnstillingar
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Meir nyttige svar, på premissane dine
 aiwindow-firstrun-memories-relevance-title = Meir relevante svar
 aiwindow-firstrun-memories-relevance-body = Å lære frå nettlesing gir { -smart-window-brand-name } eit større bilde.
 aiwindow-firstrun-memories-privacy-title = Designa for personvern
