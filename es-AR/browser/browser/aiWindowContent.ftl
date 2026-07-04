@@ -19,6 +19,7 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Algo salió mal. Intente de nuevo.
 smartwindow-assistant-error-budget-header = Se alcanzó el límite de chats de hoy.
 smartwindow-assistant-error-account-header = Para usar { -smart-window-brand-name }, se necesita iniciar sesión.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } está en su máxima capacidad en este momento. Probá de nuevo más tarde.
 smartwindow-assistant-error-budget-body = Todavía se puede navegar en esta ventana. El chat volverá a estar disponible una vez que se restablezca el límite diario.
 smartwindow-assistant-error-many-requests-header = Espere un momento y vuelva a intentar. Se enviaron demasiados mensajes en poco tiempo.
 smartwindow-assistant-error-max-length-header = Es hora de comenzar un nuevo chat. Éste alcanzó su límite de longitud.
