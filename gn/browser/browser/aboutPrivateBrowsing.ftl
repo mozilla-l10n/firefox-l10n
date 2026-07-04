@@ -87,3 +87,4 @@ about-private-browsing-nova-info-link = ¿Mávapa ohechakuaa che rembiapo?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Reime bambalína kupépe
+about-private-browsing-nova-info-subheader = Romboguepáta opaite jehekakue ha jeike rombotývo ko ovetã. Umi ñemo’ã jehe’apyre { -brand-short-name } rehegua oĩ avei ko’ápe, ikatúva tapykuehoha.
