@@ -105,6 +105,7 @@ aiwindow-firstrun-model-fast-body = Responde rápidamente
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-personal-label = Personal
+aiwindow-firstrun-model-personal-body = Respuestas más a medida
 aiwindow-firstrun-button = Vamos
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente

@@ -64,7 +64,9 @@ ai-window-memories-section =
     .label = Recuerdos
     .description = { -brand-short-name } puede aprender de la actividad para crear recuerdos. Se usarán para personalizar las respuestas y se guardan localmente en este dispositivo.
 ai-window-learn-from-chat-activity =
-    .label = Conocer sobre chats en { -smart-window-brand-name }
+    .label = Aprender de los chats en { -smart-window-brand-name }
+ai-window-learn-from-browsing-activity =
+    .label = Aprender de la navegación clásica y con { -smart-window-brand-name(plural-form: "true") }
 ai-window-manage-memories-button =
     .label = Administrar recuerdos
 ai-window-manage-memories-header =
@@ -79,6 +81,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Borrar todo
 ai-window-delete-all-memories-title = ¿Borrar todos los recuerdos?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Se borrarán los recuerdos existentes. Si no quiere que se creen nuevos recuerdos, desmarque las opciones para “Aprender de…” en la configuración de { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Borrar
 ai-window-delete-all-memories-cancel = Cancelar
 # Variables:
