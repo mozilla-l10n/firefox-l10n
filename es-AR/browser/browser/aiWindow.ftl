@@ -250,8 +250,32 @@ smart-window-confirm-close-tabs =
 smartwindow-close-tab-callout-title = Pestaña cerrada
 smartwindow-close-tab-callout-subtitle = Reabrir pestañas desde el historial en cualquier momento.
 
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Hacer predeterminado
+smart-window-default-promo-additional-button = No ahora
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Compartir opinión
+aiwindow-feedback-what-worked-well = ¿Qué funcionó bien? Sin información personal, por favor.
 aiwindow-feedback-submit = Enviar
 aiwindow-feedback-cancel = Cancelar
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrecto o engañoso
+aiwindow-feedback-reason-performance-or-usability = Problema de rendimiento o usabilidad
+aiwindow-feedback-reason-harmful-or-offensive = Dañino u ofensivo
+aiwindow-feedback-reason-other = Otros
+aiwindow-feedback-preview-report = Ver detalles del chat
+aiwindow-feedback-preview-report-with-page = Ver detalles del chat y la página
+aiwindow-feedback-include-page-content = Compartir las páginas referenciadas en este chat
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Cambiar diseño de vista
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Cambiar modo: Vista de lista
+    .tooltiptext = Vista de lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Cambiar modo: Vista de grilla
+    .tooltiptext = Vista de grilla
