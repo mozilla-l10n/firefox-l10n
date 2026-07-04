@@ -75,7 +75,11 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Қайталау
+smartwindow-nl-retry-message = Егер әлі де беттерді жапқыңыз келсе, <strong>Қайталау</strong> батырмасын басып, ашылған картада таңдау жасаңыз.
+smartwindow-nl-retry-group-tabs-message = Егер әлі де беттерді топтастырғыңыз келсе, <strong>Қайталау</strong> батырмасын басып, ашылған картада қайсыларын топтастыруды таңдаңыз.
 smartwindow-nl-thinking = Сәйкес келетін беттер ізделуде…
+smartwindow-loading-assistant-response =
+    .aria-label = Көмекші жауабы жүктелуде
 smartwindow-nl-undo-button =
     .label = Болдырмау
 
@@ -94,6 +98,17 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Жабылған беттер
 smart-window-closed-and-restored-label = Жабылған және қалпына келтірілген беттер
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } бет қалпына келтірілді
+       *[other] { $count } бет қалпына келтірілді
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Бет жабылды, содан кейін қалпына келтірілді.
+       *[other] Беттер жабылды, содан кейін қалпына келтірілді.
+    }
+smart-window-cancelled-label = Сұрау тоқтатылды.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Топтау
 # Button label - "Group" is a verb (action to group tabs)
@@ -110,3 +125,40 @@ smart-window-grouped-tabs-label =
         [one] { $count } бет топталды
        *[other] { $count } бет топталды
     }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] «{ $label }» тобы жасалды және оған { $count } бет қосылды.
+       *[other] «{ $label }» тобы жасалды және оған { $count } бет қосылды.
+    }
+smart-window-grouped-tabs-row-label = Топтастырылған беттер
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Беттер топтан шығарылды
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } бет топтастырылды, содан кейін топтан шығарылды.
+       *[other] { $count } бет топтастырылды, содан кейін топтан шығарылды.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } бет топтан шығарылды
+       *[other] { $count } бет топтан шығарылды
+    }
+
+## Action log
+
+action-log-searching-tabs = Беттерден іздеу
+action-log-searched-open-tabs = Ашық беттерден ізделді
+action-log-searching-history = Тарихтан іздеу
+action-log-searched-history = Тарихтан ізделді
+action-log-reading-page = Парақты оқу
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Парақ мазмұнын оқу
+action-log-searching-web = Интернетте іздеу
+action-log-searched-web = Интернетте ізделді
+action-log-checking-memories = Жадыны тексеру
+action-log-checked-memories = Жады тексерілді

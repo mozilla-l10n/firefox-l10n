@@ -86,6 +86,16 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Emboty tendayke
 smart-window-closed-and-restored-label = Tendayke mboty ha myatyrõmbyre
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } tendayke myatyrõmbyre
+       *[other] { $count } tendaykeita myatyrõmbyre
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Pestañas cerradas, luego restauradas.
+       *[other] Tendaykeita mbotypyre, upéi myatyrõmbyre
+    }
 smart-window-cancelled-label = Jerupy ojhejapyréva.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Aty
