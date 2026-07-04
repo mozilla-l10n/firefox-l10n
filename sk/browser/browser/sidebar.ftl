@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Otvorené karty
 sidebar-options-menu-button =
     .title = Otvoriť ponuku
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Zmeniť veľkosť bočného panela
 
 ## Labels for sidebar history panel
 

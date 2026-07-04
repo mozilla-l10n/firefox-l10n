@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Zmena veľkosti kariet rozdeleného zobrazenia
+tab-devtools-splitter =
+    .aria-label = Zmena veľkosti panela Vývojárske nástroje
 
 ## Tooltips for tab audio control
 ## Variables:

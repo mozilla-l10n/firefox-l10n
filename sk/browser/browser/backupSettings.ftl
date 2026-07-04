@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Umiestnenie
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (odporúčané)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Vyberte umiestnenie
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Vybrať…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Zapnúť zálohovanie
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Vyskytol sa problém s vybraným priečinkom zálohy. Vyberte iný priečinok a skúste to znova.
+turn-on-scheduled-backups-error-default-dir-denied = Nepodarilo sa nám získať prístup k vášmu priečinku so zálohou. Skúste vybrať nové umiestnenie.
 backup-error-file-system = Pri zálohovaní { -brand-short-name(case: "gen") } sa vyskytol problém s vybraným priečinkom pre zálohy.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

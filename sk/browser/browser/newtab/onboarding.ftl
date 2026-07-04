@@ -448,6 +448,10 @@ onboarding-checklist-pin = Pripnúť { -brand-short-name(case: "acc") } na hlavn
 onboarding-checklist-import = Importovať z predchádzajúceho prehliadača
 onboarding-checklist-extension = Pridať rozšírenie
 onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho účtu
+onboarding-checklist-minimize =
+    .label = Minimalizovať
+onboarding-checklist-remove =
+    .label = Odstrániť kontrolný zoznam
 
 ## Tab Groups feature onboarding strings
 
