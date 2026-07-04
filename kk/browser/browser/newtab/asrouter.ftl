@@ -298,6 +298,8 @@ launch-on-login-infobar-final-reject-button = Жоқ, рахмет
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Компьютеріңіз келесі рет іске қосылғанда { -brand-short-name } ашу керек пе?
+launch-on-login-spotlight-startup-checkbox = Жүйе іске қосылғанда { -brand-short-name } іске қосу
 launch-on-login-spotlight-pin-taskbar-checkbox = Тапсырмалар панеліне бекіту
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing
@@ -457,6 +459,16 @@ set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
         [macos] { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, Dock ішіне бекітіңіз.
        *[other] { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, тапсырмалар панеліне бекітіңіз.
+    }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } қолданбасын әрқашан қол астында ұстаңыз
+       *[other] Барлық сілтемелерді { -brand-short-name } арқылы ашу
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Оны үнсіз келісім бойынша браузер етіңіз және док панелінде сақтаңыз.
+       *[other] Жылдам шолу мен автоматты жекелік қорғауын алыңыз.
     }
 set-default-menu-message-primary-button = Бастапқы ретінде орнату
 set-default-menu-message-primary-button-variant = Негізгі браузер ретінде орнату

@@ -79,6 +79,13 @@ smartbar-placeholder-hint-4 = Eheka ñandutípe…
 
 smartbar-mention-typing-placeholder = Embohéra tendayke térã tenda
 smartbar-mentions-list-no-results-label = Ndojejuhúi mba’evete
+smartbar-mentions-list-recent-tabs-label = Tendayke ramovéva
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Embojuaju tendayke térã tenda
+    .tooltiptext = Embojuaju tendayke térã tenda
 
 ## Website Chip
 
@@ -114,10 +121,23 @@ aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-settings-link = Techarã ñemboheko
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = Emoambue ñemboheko ejapose vove
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Porandu
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Mandu’arã hendýma
+    .tooltiptext = Eiporu mandu’arã mbohováipe oikótaramo
+aiwindow-memories-off =
+    .aria-label = Mandu’arã oguéma
+    .tooltiptext = Ani eiporu mandu’arã ne mbohováipe
 
 ## New Chat Button
 
@@ -131,6 +151,10 @@ aiwindow-close-sidebar =
     .aria-label = Mboty
     .tooltiptext = Mboty
 
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Emoambue { -smart-window-brand-name }-pe
+
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
@@ -141,6 +165,30 @@ smartwindow-footer-history =
     .label = Tembiasakue
     .aria-label = Tembiasakue
     .tooltiptext = Tembiasakue
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Pe IA ikatukuaa ojavy.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chatea
+    .title = Chatea
+firefoxview-chats-header = Chatea
+firefoxview-chat-context-delete = Embogue jechatea
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Eheka jechateakue
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Ko’ára - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Kuehe - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 
 ## Feedback modal
 

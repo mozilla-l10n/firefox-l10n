@@ -62,6 +62,11 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Бұл функция эксперименталды болып табылады және күткендегідей жұмыс істемеуі мүмкін.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Жарамсыз
+customkeys-shortcut-unassigned =
+    .placeholder = Жарлықты қосу
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Келесі үшін жарлық: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Түзету
     .tooltiptext = Түзету
@@ -79,9 +84,15 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Басқа жарлықты өшіру керек пе?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Бұл кілтті «{ $conflict }» пайдаланып тұр.
 customkeys-conflict-confirm-button-confirm = Сонда да қолдану
 customkeys-conflict-confirm-button-cancel = Бас тарту
 customkeys-reset-all-confirm-title = Бастапқы мәндерін қайтару керек пе?
+customkeys-reset-all-confirm-body = Сіз жасаған кез келген пернетақта жарлықтары өшірілетін болады.
+customkeys-reset-all-confirm-button-confirm = Бастапқы мәндерін қайтару
 customkeys-reset-all-confirm-button-cancel = Бас тарту
 
 ## Sidebar
@@ -94,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Жарлықтардан іздеу
     .placeholder = Жарлықтардан іздеу
+customkeys-description = { -brand-short-name } ішінде қалай жылжып, әрекеттесетініңізді басқарыңыз.
 customkeys-support-link-text = Көбірек білу
 customkeys-reset-all-button = Бастапқы мәндерін қайтару

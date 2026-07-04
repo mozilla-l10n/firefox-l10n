@@ -165,6 +165,8 @@ newtab-privacy-menu-learn-more = Көбірек білу
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Тикерлерді іздеу
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Акцияларды жасыру
 # Context menu item linking to more information about the Stocks widget.

@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Көппроцестік сайма�
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Мақсат браузері үшін басты процесс және мазмұн процестері
+about-debugging-message-error-icon =
+    .alt = Қате таңбашасы
+about-debugging-message-info-icon =
+    .alt = Ақпарат таңбашасы
+about-debugging-message-warning-icon =
+    .alt = Ескерту таңбашасы
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Хабарламаны жабу
