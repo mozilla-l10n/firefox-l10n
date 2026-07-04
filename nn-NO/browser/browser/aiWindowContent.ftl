@@ -80,6 +80,8 @@ smart-window-cancelled-label = Førespurnaden vart avbroten.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupper
 smart-window-grouped-tabs-row-label = Grupperte faner
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Gruppereing av faner oppheva
 
 ## Action log
 
@@ -92,3 +94,9 @@ action-log-reading-page = Les side
 action-log-read-page = Les sideinnhald
 action-log-searching-web = Søkjer på nettet
 action-log-searched-web = Søkte på nettet
+action-log-checking-memories = Sjekkar minne
+action-log-checked-memories = Sjekka minne
+action-log-searching-settings = Søkjer i innstillingar
+action-log-searched-settings = Søkte i innstillingar
+action-log-searching-world-cup-matches = Søkjer etter VM-kampar
+action-log-searched-world-cup-matches = Søkte etter VM-kampar
