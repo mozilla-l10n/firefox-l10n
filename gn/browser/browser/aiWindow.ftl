@@ -189,9 +189,56 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Ko’ára - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Kuehe - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Eguevi jechateakuépe
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chatea
+       *[other] { $count } chateaita
+    }
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Embosa’ypa
+    .aria-label = Embosa’ypa
+smart-window-confirm-deselect-all =
+    .label = Eipe’apa sa’y
+    .aria-label = Eipe’apa sa’y
+smart-window-confirm-close-tab = Emboty
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Emboty { $count } tendayke
+       *[other] Emboty { $count } tendaykeita
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Tendayke mbotypyre
+
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Ejapo ijypykuévarõ
+smart-window-default-promo-additional-button = Ani ko’ág̃a
 
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Emoherakuã ne remiandu
+aiwindow-feedback-choose-any = Embosa’y umi oikóvante
 aiwindow-feedback-submit = Mondo
 aiwindow-feedback-cancel = Heja
 aiwindow-feedback-reason-other = Ambue

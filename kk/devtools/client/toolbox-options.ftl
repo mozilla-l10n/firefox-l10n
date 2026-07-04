@@ -117,9 +117,37 @@ options-sourceeditor-keybinding-default-label = Бастапқы
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Жергілікті режим
+options-local-mode-only-work-locally = Жергілікті режим тек жергілікті түрде жұмыс істейді және қашықтағы контексттерді жөндеу кезінде сөндіріледі
+options-local-mode-behavior = Жергілікті режим ешбір сыртқы тәуелділіксіз https URL арқылы жергілікті файлдарды жүктеуге мүмкіндік береді. URL адрестерін тек әзірлеуші құралдары ашылған беттерден жүктеуге болады.
+options-local-mode-domain-label = Пайдаланушылық домен:
+options-local-mode-origin-input =
+    .placeholder = Жергілікті сәйкестендірудің бастау нүктесі
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Бұл бастау нүктесі басқа бар сәйкестендірумен қайшылық тудырады
+options-local-mode-origin-invalid = Бұл бастау нүктесі жарамсыз
 options-local-mode-folder-label = Жергілікті бума:
+options-local-mode-choose-folder = Шолу…
+    .title = Осы сәйкестендіруге қызмет көрсету үшін жергілікті буманы таңдаңыз
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = { $url } үшін жергілікті режим бумасын таңдаңыз
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Бұл бума жоқ немесе жарамсыз.
+options-local-mode-toggle =
+    .title = Осы жергілікті сәйкестендіруді іске қосу/сөндіру
 options-local-mode-toggle-enable = Іске қосу
 options-local-mode-toggle-disable = Сөндіру
+options-local-mode-navigate-to =
+    .title = Осы сәйкестендіру URL адресіне өту
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = «{ $mappingOrigin }» сәйкестендіруін өшіру керек пе?
+options-local-mode-new-mapping = Жаңа жергілікті сәйкестендіруді қосу
 
 ## Advanced section
 
