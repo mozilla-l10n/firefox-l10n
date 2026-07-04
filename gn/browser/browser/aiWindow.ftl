@@ -245,4 +245,19 @@ aiwindow-feedback-reason-incorrect-or-misleading = Oĩvai térã nembotavykuaáv
 aiwindow-feedback-reason-doesnt-address-my-request = Nombohovái che mba’ejerure
 aiwindow-feedback-reason-lacks-personalization = Na’írã oñemboava térã ijeregua
 aiwindow-feedback-reason-performance-or-usability = Apañuái jejapokuaa térã jeporugua
+aiwindow-feedback-reason-harmful-or-offensive = Ivaikuaa térã ipochýva
 aiwindow-feedback-reason-other = Ambue
+aiwindow-feedback-preview-report = Ehecha jechatea rehegua
+aiwindow-feedback-preview-report-with-page = Ehecha jechatea ha kuatiarogue
+aiwindow-feedback-include-page-content = Emoherakuã kuatiarogue oje’éva ko jechateápe
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Emoambue jehechaha reko
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Emoambue ayvu: Tysýi jehecha
+    .tooltiptext = Tysýi Jehecha
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Emoambue ayvu: Grílla rysýi
+    .tooltiptext = Grílla rysýi
