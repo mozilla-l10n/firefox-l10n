@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Pestañas abiertas
 sidebar-options-menu-button =
     .title = Abrir menú
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Cambiar tamaño de barra lateral
 
 ## Labels for sidebar history panel
 
