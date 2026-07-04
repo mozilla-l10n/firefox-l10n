@@ -164,6 +164,10 @@ aiwindow-close-sidebar =
     .aria-label = Lat att
     .tooltiptext = Lat att
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synkroniserte data blir verande på kontoen din. Opne { -smart-window-brand-name(plural-form: "true") } vil byte til klassiske vindauge.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Byt til { -smart-window-brand-name }
