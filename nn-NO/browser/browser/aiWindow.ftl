@@ -211,6 +211,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Gå tilbake til chattane dine
+firefoxview-chats-empty-description = Etter kvart som du brukar { -smart-window-brand-name }, blir chattane dine lagra her.
 
 ## Count displayed in fxview chat search results
 
@@ -249,6 +250,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Fane attlaten
+smartwindow-close-tab-callout-subtitle = Opne faner frå historikk på nytt, når som helst.
 
 ## Smart Window new tab promo
 
