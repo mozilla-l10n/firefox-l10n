@@ -281,3 +281,10 @@ aiwindow-feedback-reason-performance-or-usability = Problem med yting eller bruk
 aiwindow-feedback-reason-harmful-or-offensive = Skadeleg eller støytande
 aiwindow-feedback-reason-other = Anna
 aiwindow-feedback-preview-report = Vis chattedetaljar
+aiwindow-feedback-preview-report-with-page = Vis chatte- og sidedetaljar
+aiwindow-feedback-include-page-content = Del sidene som blir refererte til i denne chatten
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Byt visningsoppsett
