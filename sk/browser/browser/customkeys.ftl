@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Táto funkcia je experimentálna a nemusí fungovať podľa očakávaní.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Neplatný
+customkeys-shortcut-unassigned =
+    .placeholder = Pridať skratku
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Skratka pre: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Upraviť
+    .tooltiptext = Upraviť
 customkeys-key-clear =
     .aria-label = Vymazať
     .tooltiptext = Vymazať
+customkeys-key-reset =
+    .aria-label = Obnoviť
+    .tooltiptext = Obnoviť
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Stlačte nový kláves:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Odstrániť ďalšiu skratku?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Túto klávesu už používa skratka pre “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Použiť aj tak
+customkeys-conflict-confirm-button-cancel = Zrušiť
+customkeys-reset-all-confirm-title = Obnoviť predvolené hodnoty?
+customkeys-reset-all-confirm-body = Všetky vlastné klávesové skratky, ktoré ste vytvorili, budú odstránené.
+customkeys-reset-all-confirm-button-confirm = Obnoviť predvolené
+customkeys-reset-all-confirm-button-cancel = Zrušiť
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Bočný panel
+customkeys-title-heading =
+    .heading = Klávesové skratky
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Hľadať v skratkách
+    .placeholder = Hľadať v skratkách
+customkeys-description = Prispôsobte si, ako sa pohybujete vo { -brand-short-name(case: "loc") } a ako ho ovládate.
+customkeys-support-link-text = Ďalšie informácie
+customkeys-reset-all-button = Obnoviť predvolené
