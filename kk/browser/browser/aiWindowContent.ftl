@@ -2,18 +2,44 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = { -smart-window-brand-name } чат хабарламалары
+
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } тег
+       *[other] { $tags } тег
+    }
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Бірнәрсе қате кетті. Қайталап көріңіз.
+smartwindow-assistant-error-budget-header = Бүгінгі чат шегіне жеттіңіз.
+smartwindow-assistant-error-account-header = { -smart-window-brand-name } пайдалану үшін жүйеге кіруіңіз керек.
+smartwindow-assistant-error-capacity-header = Қазіргі уақытта { -smart-window-brand-name } мүмкіндіктері толық пайдаланылуда. Біраздан кейін қайталап көріңіз.
+smartwindow-assistant-error-budget-body = Бұл терезеде шолуды жалғастыра аласыз. Күнделікті шек бастапқы күйге келтірілген соң чат қайта қолжетімді болады.
+smartwindow-assistant-error-many-requests-header = Бірнеше минут күтіп, қайталап көріңіз. Қысқа уақыт ішінде тым көп хабарлама жіберілді.
+smartwindow-assistant-error-max-length-header = Жаңа чат бастау уақыты келді. Бұл чат ұзындық шегіне жетті.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } серверге қосыла алмады. Басқа желіні қолданып көріңіз немесе VPN-ді сөндіріңіз.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Сервер қатесі (HTTP { $status }). Қайталап көріңіз.
 smartwindow-retry-btn = Қайтадан көру
 smartwindow-clear-btn = Жаңа чат
 smartwindow-signin-btn = Кіру
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Пайдаланылған жады
+aiwindow-memories-callout-description = Жады бұл жауапты жекешелендіруге көмектесті.
 aiwindow-memories-learn-more = Көбірек білу
 aiwindow-manage-memories =
     .label = Жады баптаулары
+aiwindow-retry-without-memories =
+    .label = Жадысыз қайталап көру
 aiwindow-retry =
     .aria-label = Қайталау
     .tooltiptext = Қайталау
@@ -30,10 +56,20 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Теріс пікірді бөлісу
     .tooltiptext = Теріс пікірді бөлісу
+aiwindow-applied-memories-popover =
+    .aria-label = Жады панелі
+aiwindow-applied-memories-list =
+    .aria-label = Жады
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
     .aria-label = { $summary } өшіру
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Чаттың төменгі жағына өту
+    .tooltiptext = Төменге өту
 
 ## Natural Language Action
 

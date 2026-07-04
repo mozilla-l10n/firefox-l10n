@@ -29,6 +29,9 @@ smartwindow-document-title = Жаңа бет
 ai-window-toggleview-switch-classic =
     .label = Классикалық терезе
     .value = Классикалық терезе
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
 ai-window-toggleview-switch-ai-description =
     .label = Шолу кезінде сұраңыз
     .value = Шолу кезінде сұраңыз
@@ -53,6 +56,16 @@ aiwindow-input-cta-menu-label-navigate = Сайтқа өту
 aiwindow-input-cta-menu-label-search = { $searchEngineName } көмегімен іздеу
 aiwindow-input-cta-menu-label-search-with = Көмегімен іздеу…
 aiwindow-input-cta-search-submenu-header = Іздеу
+aiwindow-input-cta-stop-button =
+    .title = Жауапты тоқтату
+    .aria-label = Жауапты генерациялауды тоқтату
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Сұрау, іздеу немесе URL енгізу
+smartbar-placeholder-hint-1 = Жуырдағы беттерді атап өту үшін @ таңбасын пайдаланыңыз…
+smartbar-placeholder-hint-2 = Кез келген нәрсені сұрау…
 
 ## Mentions
 
