@@ -150,7 +150,18 @@ smart-window-ungrouped-row-label =
 ## Action log
 
 action-log-searching-tabs = Buscando pestañas
+action-log-searched-open-tabs = Buscado en pestañas abiertas
 action-log-searching-history = Buscando en el historial
+action-log-searched-history = Buscado en historial
+action-log-reading-page = Leyendo página
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Contenido de página leído
+action-log-searching-web = Buscando en la web
+action-log-searched-web = Buscado en la web
+action-log-searching-settings = Buscando en configuración
+action-log-searched-settings = Buscado en configuración
+action-log-searching-world-cup-matches = Buscando partidos de la Copa del Mundo
+action-log-searched-world-cup-matches = Partidos de la Copa del Mundo buscados
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

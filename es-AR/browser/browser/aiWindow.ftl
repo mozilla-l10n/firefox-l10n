@@ -272,6 +272,7 @@ aiwindow-feedback-disclaimer = Al enviar se comparten comentarios y este chat pa
 aiwindow-feedback-submit = Enviar
 aiwindow-feedback-cancel = Cancelar
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrecto o engañoso
+aiwindow-feedback-reason-lacks-personalization = Falta personalización o contexto
 aiwindow-feedback-reason-performance-or-usability = Problema de rendimiento o usabilidad
 aiwindow-feedback-reason-harmful-or-offensive = Dañino u ofensivo
 aiwindow-feedback-reason-other = Otros
