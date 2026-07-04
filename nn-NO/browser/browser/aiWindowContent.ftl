@@ -50,6 +50,8 @@ aiwindow-delete-memory-button =
 
 smartwindow-nl-retry-tool-button =
     .label = Prøv igjen
+smartwindow-loading-assistant-response =
+    .aria-label = Lastar inn svar frå assistenten
 smartwindow-nl-undo-button =
     .label = Angre
 
@@ -59,6 +61,7 @@ smartwindow-nl-undo-button =
 smart-window-closed-tabs-row-label = Attlatne faner
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupper
+smart-window-grouped-tabs-row-label = Grupperte faner
 
 ## Action log
 

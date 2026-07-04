@@ -43,17 +43,22 @@ aiwindow-input-cta-search-submenu-header = Søk
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Spør, søk eller skriv inn ei nettadresse
+smartbar-placeholder-hint-1 = Bruk @ for å nemne nylege faner…
 smartbar-placeholder-hint-2 = Spør om kva som helst…
 smartbar-placeholder-hint-3 = Skriv inn ei nettadresse…
 smartbar-placeholder-hint-4 = Søk på nettet…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Merk ei fane eller ein nettstad
 smartbar-mentions-list-no-results-label = Fann ingen resultat
 smartbar-mentions-list-recent-tabs-label = Nylege faner
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Merk ei fane eller ein nettstad
 aiwindow-website-chip-history-deleted = Historikk sletta
 aiwindow-website-chip-remove-button =
     .aria-label = Fjern
