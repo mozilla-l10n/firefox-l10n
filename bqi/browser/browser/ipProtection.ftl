@@ -17,6 +17,7 @@ ipprotection-button-error =
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = آزمایشی
+ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
@@ -28,6 +29,7 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = ن ممنووݩ
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = ن ممنووݩ
+ipprotection-feature-introduction-button-open-vpn = گۊشیڌن VPN
 ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
 ## Site settings callout

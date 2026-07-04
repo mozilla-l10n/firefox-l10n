@@ -15,6 +15,7 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
+-mozilla-vpn-brand-name = Mozilla VPN
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
 -yelp-brand-name = Yelp

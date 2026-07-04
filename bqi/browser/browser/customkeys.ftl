@@ -57,3 +57,20 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = کیلیت نۊ ن فشار بڌین:
+
+## Confirmation dialogs
+
+customkeys-reset-all-confirm-button-cancel = لقو
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = نوار کلی
+customkeys-title-heading =
+    .heading = ره نهنگا تخته کیلیت
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = پیتینیڌن ره نهنگا
+    .placeholder = پیتینیڌن ره نهنگا
+customkeys-support-link-text = قلوه دووسته بۊین
+customkeys-reset-all-button = وورگندن پؽش فرزا
