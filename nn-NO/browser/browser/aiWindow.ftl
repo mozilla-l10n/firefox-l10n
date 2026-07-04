@@ -128,11 +128,18 @@ aiwindow-input-model-select-settings-link = Modellinnstillingar
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Meir nyttige svar, på premissane dine
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kan lære av chattane dine, nettlesinga di eller begge delar for å opprette minne. Det gjer svara meir nyttige over tid.
+aiwindow-firstrun-memories-conversation-title = Hald samtalen i gang
+aiwindow-firstrun-memories-conversation-body = Å lære frå chattar betyr at du slepp å gjenta deg sjølv like ofte.
 aiwindow-firstrun-memories-relevance-title = Meir relevante svar
 aiwindow-firstrun-memories-relevance-body = Å lære frå nettlesing gir { -smart-window-brand-name } eit større bilde.
 aiwindow-firstrun-memories-privacy-title = Designa for personvern
 aiwindow-firstrun-memories-privacy-body = Minne blir lagra på denne eininga. Slett dei eller slå dei av når som helst.
+aiwindow-firstrun-memories-choose-label = Vel kva { -smart-window-brand-name } lærer av
 aiwindow-firstrun-memories-checkbox-chats = Chattar i { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Nettlesing i { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Endre dette i innstillingane når som helst.
+aiwindow-firstrun-memories-no-create = Skjønar. { -smart-window-brand-name } vil ikkje opprette minne. Du kan endre dette i innstillingane når som helst.
 
 ## Ask Toolbar Button
 
