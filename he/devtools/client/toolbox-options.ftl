@@ -82,6 +82,16 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = מנטר הרשת
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = גודל גוף בקשה ותגובה מירבי (יש להגדיר ל־0 ללא הגבלה):
+options-netmonitor-body-limit-tooltip =
+    .title = גופי בקשה או תגובה שחורגים מהגודל שהוגדר ייחתכו בתצוגה או בהורדה במנטר הרשת. יש להגדיר ל־0 כדי שיהיו ללא הגבלה.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = ללא הגבלה
+options-netmonitor-body-limit-button =
+    .title = עריכת גודל גוף הבקשה/תגובה המירבי.
+options-netmonitor-body-limit-restore-default =
+    .title = שחזור ערך ברירת המחדל עבור גודל גוף בקשה/תגובה מירבי.
+options-netmonitor-body-limit-set =
+    .title = הגדרת ערך הקלט הנוכחי כגודל גוף בקשה/תגובה מירבי.
 
 ## Style Editor section
 

@@ -153,6 +153,27 @@ pdfjs-document-properties-linearized = תצוגת דף מהירה:
 pdfjs-document-properties-linearized-yes = כן
 pdfjs-document-properties-linearized-no = לא
 pdfjs-document-properties-close-button = סגירה
+pdfjs-digital-signature-properties-view-certificate = הצגת אישור
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = סיבה: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = חותמת זמן: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] חתימת משנה ({ NUMBER($count) })
+       *[other] חתימות משנה ({ NUMBER($count) })
+    }
 
 ## Print
 
@@ -731,6 +752,23 @@ pdfjs-new-badge-content = חדש
 pdfjs-views-manager-waiting-for-file = בתהליך העלאת הקובץ…
 pdfjs-toggle-views-manager-button1 =
     .title = ניהול עמודים
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = מאפייני חתימה דיגיטלית
+    .aria-label = מאפייני חתימה דיגיטלית
+pdfjs-digital-signature-properties-button-label = מאפייני חתימה דיגיטלית
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = המסמך נחתם בחתימה דיגיטלית תקפה
 
 ## Main menu for adding/removing signatures
 

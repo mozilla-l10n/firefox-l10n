@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = לשונית חדשה
     .accesskey = ל
+user-context-add-container =
+    .label = הוספת מגירה חדשה
+    .accesskey = ה
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
