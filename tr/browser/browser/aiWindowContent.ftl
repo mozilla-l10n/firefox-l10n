@@ -76,3 +76,30 @@ smart-window-confirm-group-tabs =
         [one] { $count } sekmeyi grupla
        *[other] { $count } sekmeyi grupla
     }
+
+## Action log
+
+action-log-searching-tabs = Sekmeler aranıyor
+action-log-searched-open-tabs = Açık sekmelerde arandı
+action-log-searching-history = Geçmişte aranıyor
+action-log-searched-history = Geçmiş arandı
+action-log-reading-page = Sayfa okunuyor
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Sayfa içeriği okundu
+action-log-searching-web = Web’de aranıyor
+action-log-searched-web = Web’de arandı
+action-log-checking-memories = Anılar kontrol ediliyor
+action-log-checked-memories = Anılar kontrol edildi
+action-log-searching-settings = Ayarlar aranıyor
+action-log-searched-settings = Ayarlar arandı
+action-log-searching-world-cup-matches = Dünya Kupası maçları aranıyor
+action-log-searched-world-cup-matches = Dünya Kupası maçları arandı
+action-log-checking-world-cup-live = Canlı Dünya Kupası maçları kontrol ediliyor
+action-log-checked-world-cup-live = Canlı Dünya Kupası maçları kontrol edildi
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 adım tamamlandı
+       *[other] { $count } adım tamamlandı
+    }
