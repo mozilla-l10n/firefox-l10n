@@ -324,6 +324,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Sagen
     .accesskey = S
+preferences-colors-manage-button2 =
+    .label = Sefrek initen
+    .accesskey = I
 preferences-colors-header = Initen
 preferences-colors-description = Snefli initen n wudem amezwer n { -brand-short-name } i uḍris, igilalen n yismal web akked yiseɣwan.
 preferences-colors-manage-button =
@@ -548,6 +551,15 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -617,6 +629,9 @@ browsing-cfr-recommendations-learn-more = Issin ugar
 browsing-group =
     .label = Tunigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Iɣewwaṛen n uẓeṭṭa
@@ -668,6 +683,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -885,6 +906,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1117,6 +1143,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Issin ugar
 forms-windows-sso-desc = Sefrek imiḍanen deg yiɣewwaren n yibenk-ik·im
 windows-passkey-settings-label = Sefrek tisura n unekcum deg yiɣewwaren n unagraw
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1654,13 +1683,28 @@ preferences-doh-manage-exceptions =
     .label = Sefrek tisuraf
     .accesskey = f
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
 downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
 
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Ɛzel inagan n tuqqna gar yismal
+
+## Warnings section
+
