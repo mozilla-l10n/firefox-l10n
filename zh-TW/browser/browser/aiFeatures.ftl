@@ -17,6 +17,9 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = 預設設定
+smart-window-model-section =
+    .label = 助理模型
+    .description = 依照您的偏好選擇模型。
 smart-window-model-learn-link = 了解各種模型的相關資訊
 
 ## Variables:
@@ -47,6 +50,7 @@ smart-window-model-custom-info =
 smart-window-model-custom-more-link = 關於自訂模型的更多資訊
 smart-window-model-custom-save =
     .label = 儲存
+smart-window-model-custom-save-confirmation = 已儲存模型資訊，請發起新聊天進行測試。
 ai-window-learn-from-chat-activity =
     .label = 從 { -smart-window-brand-name } 的對話學習
 ai-window-learn-from-browsing-activity =

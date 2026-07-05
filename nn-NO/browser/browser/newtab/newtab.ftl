@@ -177,8 +177,28 @@ newtab-stocks-menu-learn-more = Les meir
 
 ## Strings for the Picture of the Day widget
 
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Dagens bilde · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Vel bakgrunnsbilde
+    .title = Vel bakgrunnsbilde
+    .aria-label = Bruk dagens bilde som bakgrunnsbilde
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Behandle bakgrunnsbilde
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Skjul dagens bilde
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Vis dagens bilde
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Les meir
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Vis dagens bilde
+    .aria-label = Vis dagens bilde
 
 ## Search box component.
 

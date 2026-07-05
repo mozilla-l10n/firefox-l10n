@@ -118,6 +118,7 @@ aiwindow-input-model-select-button-label-custom = 自訂
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = 自備 LLM
+aiwindow-input-model-select-settings-link = 模型選項
 
 ## Firstrun memories onboarding
 

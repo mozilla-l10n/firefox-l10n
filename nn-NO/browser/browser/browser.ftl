@@ -385,6 +385,8 @@ quickactions-addons = Vis tillegg
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = utvidingar, tema, tillegg
+# Opens preferences page at AI controls
+quickactions-manageai = Behandle KI-kontrollar
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Handsam bokmerke

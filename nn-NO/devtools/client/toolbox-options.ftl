@@ -80,6 +80,8 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Nettverksovervaking
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Uavgrensa
 
 ## Style Editor section
 

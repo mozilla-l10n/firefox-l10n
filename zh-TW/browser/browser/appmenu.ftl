@@ -315,6 +315,10 @@ appmenu-services-header = 我的服務
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = 隱私權保護工具
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = 請試用來自 Mozilla 的其他保護工具：
 appmenu-other-protection-header = 試用來自 { -vendor-short-name } 的其他保護工具：
 
@@ -325,9 +329,17 @@ appmenu-manage-profiles =
     .label = 管理設定檔
 appmenu-copy-profile =
     .label = 複製這組設定檔
+appmenu-create-profile2 =
+    .label = 建立新設定檔
 appmenu-create-profile =
     .label = 新增設定檔
 appmenu-edit-profile =
     .aria-label = 編輯設定檔
+appmenu-edit-this-profile =
+    .label = 編輯此設定檔
+appmenu-profile-current-in-use = 目前使用的設定檔
 appmenu-profiles-2 =
     .label = 設定檔
+appmenu-profiles-header = 設定檔
+appmenu-all-profiles =
+    .label = 所有設定檔

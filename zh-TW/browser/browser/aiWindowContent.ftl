@@ -112,10 +112,17 @@ action-log-reading-page = 正在閱讀頁面
 action-log-read-page = 已閱讀頁面內容
 action-log-searching-web = 正在網路搜尋
 action-log-searched-web = 已搜尋網路
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = 已使用 Exa 進行網路搜尋
 action-log-checking-memories = 正在確認記憶
 action-log-checked-memories = 已確認記憶
 action-log-searching-settings = 正在搜尋選項
 action-log-searched-settings = 已搜尋選項
+action-log-searching-world-cup-matches = 正在搜尋世界盃足球賽事
+action-log-searched-world-cup-matches = 已搜尋世界盃足球賽事
+action-log-checking-world-cup-live = 正在確認世界盃足球賽即時賽事
+action-log-checked-world-cup-live = 已確認世界盃足球賽即時賽事
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = 已完成 { $count } 個步驟
