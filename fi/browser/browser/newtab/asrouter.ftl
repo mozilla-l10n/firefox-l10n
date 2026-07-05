@@ -295,6 +295,18 @@ launch-on-login-infobar-final-message = <strong>Avataanko { -brand-short-name } 
 launch-on-login-infobar-final-reject-button = Ei kiitos
     .accesskey = E
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = Kiinnitä tehtäväpalkkiin
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Avaa aiemmat ikkunat ja välilehdet
+launch-on-login-spotlight-primary-button = Tallenna ja sulje { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -450,6 +462,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Aseta oletukseksi
 set-default-menu-message-primary-button-variant = Aseta ensisijaiseksi selaimeksi
+set-default-menu-message-primary-button-short-variant = Aseta { -brand-short-name } oletukseksi
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -460,3 +473,10 @@ relay-50-masks-announcement-primary-button = Siirry { -relay-brand-name }-palvel
     .accesskey = S
 relay-50-masks-announcement-secondary-button = Hylkää
     .accesskey = H
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Jaa palautetta
+    .accesskey = J
+nova-early-access-infobar-primary-button = Selvä
+    .accesskey = S

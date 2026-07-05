@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Kysy palvelulta { $provider }
 genai-menu-new-badge = Uusi
 genai-menu-summarize-page = Tee yhteenveto sivusta
+genai-input-ask-smart-window =
+    .placeholder = Kysy…
 genai-input-ask-generic =
     .placeholder = Kysy AI-chatbotilta…
 # $provider (string) - name of the provider
@@ -104,6 +106,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Kysy AI-chatbotilta
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = Kysy…
+    .accesskey = y
 
 ## Chatbot header
 

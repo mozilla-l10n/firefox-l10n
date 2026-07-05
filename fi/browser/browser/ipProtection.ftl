@@ -29,6 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
+ipprotection-feature-introduction-title-summer-promo = Onko sinulla matkasuunnitelmia? Pidä yksityisyys mukanasi.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +47,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Poista VPN työkalupalkista
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Poista VPN työkalupalkista
+ipprotection-feature-introduction-button-open-vpn = Avaa VPN
 ipprotection-feature-introduction-button-get-started = Aloitetaan
 
 ## Site settings callout
@@ -159,6 +161,8 @@ ipprotection-message-continuous-onboarding-intro = Ota VPN käyttöön piilottaa
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aseta VPN käynnistymään</a> aina, kun avaat { -brand-short-name }in, saadaksesi lisäsuojausta.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } muistaa, mitkä verkkosivustot olet asettanut käyttämään VPN:ää. Voit päivittää sivustot <a data-l10n-name="setting-link">asetuksissa</a> milloin tahansa.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ei ole käytössä tällä sivustolla
+ipprotection-open-button = Avaa { -brand-product-name }
+ipprotection-come-back-title = Palaa takaisin kokeilemaan sisäänrakennettua VPN:ää
 ipprotection-connection-status-generic-error-title-1 = VPN-yhteyden muodostaminen epäonnistui
     .aria-label = VPN-yhteyden muodostaminen epäonnistui
 
@@ -228,6 +232,11 @@ ip-protection-exclusions-desc = Käytä VPN:ää kaikille muille paitsi tällä 
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } Gt / { $maxUsage } Gt jäljellä tässä kuussa
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } Gt</span> / { $maxUsage } Gt jäljellä
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +245,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } Gt / { $maxUsage } Gt jäljell�
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } Mt / { $maxUsage } Gt jäljellä tässä kuussa
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } Mt</span> / { $maxUsage } Gt jäljellä
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
