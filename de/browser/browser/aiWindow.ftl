@@ -144,6 +144,15 @@ aiwindow-firstrun-default-subtitle = Surfen, suchen und fragen an einem Ort. Sie
 smartwindow-ask-button =
     .label = Fragen
 
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Erinnerungen an
+    .tooltiptext = Verwenden Sie Erinnerungen in Ihren Antworten, wenn dies hilfreich ist
+aiwindow-memories-off =
+    .aria-label = Erinnerungen deaktiviert
+    .tooltiptext = Verwenden Sie in ihren Antworten keine Erinnerungen
+
 ## New Chat Button
 
 aiwindow-new-chat =
