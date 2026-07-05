@@ -180,8 +180,25 @@ newtab-stocks-menu-learn-more = Pro saper plus
 # Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
 # should not be translated.
 newtab-picture-header = Imagine del die · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Fixar fundo de schermo
+    .title = Fixar fundo de schermo
+    .aria-label = Fixa imagine de hodie como fundo de schermo
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Gerer fundo de schermo
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Celar imagine de hodie
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Monstrar imagine de hodie
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Pro saper plus
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Montrar imagine de hodie
+    .aria-label = Montrar imagine de hodie
 
 ## Search box component.
 
@@ -1312,6 +1329,10 @@ newtab-sports-widget-message-day-in-play-title = Mantene tu die in joco con le w
 newtab-sports-widget-message-day-in-play-body = Seque le Cuppa del mundo, resta sur le activitate, tracia le tempore circum le mundo, e plus.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Adjuta nos a facer widgets melior
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
