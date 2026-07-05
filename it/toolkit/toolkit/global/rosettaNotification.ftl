@@ -4,3 +4,4 @@
 
 rosetta-translated-message = { -brand-short-name } sta funzionando tramite Rosetta. Questo potrebbe diminuire le prestazioni e la durata della batteria.
 rosetta-translated-launch-without-rosetta = Come avviare senza Rosetta
+
