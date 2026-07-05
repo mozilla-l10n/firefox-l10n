@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Sidebar settings
 sidebar-hide-tabs-and-sidebar =
     .label = Hide tabs and sidebar
+sidebar-open-tools-from-sidebar =
+    .label = Open tools from sidebar
 sidebar-show-on-the-right =
     .label = Move sidebar to the right
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Window { $winID }
+sidebar-bookmarks-title = Bookmarks
 
 ## Context for closing synced tabs when hovering over the items
 

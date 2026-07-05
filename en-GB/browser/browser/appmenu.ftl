@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Sign in to your account
+appmenuitem-monitor-title2 = Stay Ahead of Identity Theft
+appmenuitem-monitor-description2 = Get alerts about data breaches
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Get data breach alerts
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Keep Your Email Private
+appmenuitem-relay-description2 = Helps prevent spam in your inbox
 appmenuitem-relay-description = Mask your real email and phone
 appmenuitem-services-relay-description = Launch email masks dashboard
+appmenuitem-vpn-title2 = Hide Your Location with { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Make your browsing harder to trace
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Get whole-device protection
 appmenuitem-vpn-description = Protect your online activity
 appmenu-services-header = My services
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Privacy tools
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +335,18 @@ appmenu-manage-profiles =
     .label = Manage profiles
 appmenu-copy-profile =
     .label = Copy this profile
+appmenu-create-profile2 =
+    .label = Create a New Profile
 appmenu-create-profile =
     .label = New profile
 appmenu-edit-profile =
     .aria-label = Edit profile
+appmenu-edit-this-profile =
+    .label = Edit This Profile
+appmenu-profile-current-in-use = Current profile in use
 appmenu-profiles-2 =
     .label = Profiles
+appmenu-profiles-header = Profiles
+appmenu-all-profiles =
+    .label = All Profiles
+appmenu-secure-sync-header = Secure synchronisation
