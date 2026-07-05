@@ -385,6 +385,9 @@ quickactions-addons = Vis tillegg
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = utvidelser, temaer, tillegg
+# Opens preferences page at AI controls
+quickactions-manageai = Behandle AI-kontroller
+quickactions-cmd-manageai = deaktivere ai, slå av ai, behandle ai, administrer ai, deaktivere ki, slå av ki, behandle ki, administrer ki
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Behandle bokmerker
@@ -920,6 +923,43 @@ urlbar-result-explanation-last-visited-absolute = Sist besøkt den { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Bokmerket { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Sist besøkt { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Sist besøkt for { $daysAgo } dag siden
+       *[other] Sist besøkt for { $daysAgo } dager siden
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Sist besøkt for { $weeksAgo } uke siden
+       *[other] Sist besøkt for { $weeksAgo } uker siden
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Sist besøkt for { $monthsAgo } måned siden
+       *[other] Sist besøkt for { $monthsAgo } måneder siden
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Sist besøkt { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
