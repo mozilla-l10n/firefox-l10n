@@ -64,6 +64,8 @@ sidebar-settings =
     .label = إعدادات الشريط الجانبي
 sidebar-hide-tabs-and-sidebar =
     .label = أخفِ الألسنة والشريط الجانبي
+sidebar-open-tools-from-sidebar =
+    .label = افتح الأدوات من الشريط الجانبي
 sidebar-show-on-the-right =
     .label = انقل الشريط الجانبي إلى اليمين
 sidebar-show-on-the-left =
@@ -205,6 +207,7 @@ sidebar-bookmarks-folder-mobile = علامات الجوّال
 sidebar-customize-title = تخصيص الشريط الجانبي
 sidebar-history-title = تاريخ
 sidebar-syncedtabs-title = ألسنة من أجهزة أخرى
+sidebar-bookmarks-title = العلامات
 
 ## Context for closing synced tabs when hovering over the items
 

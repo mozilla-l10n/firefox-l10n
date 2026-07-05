@@ -871,6 +871,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = ابحث عن النص مع بداية الكتابة
     .accesskey = ح
+settings-keyboard-shortcuts-customkeys-link =
+    .label = خصّص اختصارات لوحة المفاتيح
 settings-media-group =
     .label = الوسائط
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1299,6 +1301,8 @@ containers-new-tab-check2 =
     .description = سيؤدي ذلك إلى فتح قائمة الحاويات في كل مرة تضغط فيها على زر ”افتح في لسان جديد“.
 containers-settings-button2 =
     .title = الإعدادات
+containers-remove-button3 =
+    .title = احذف
 containers-remove-button2 =
     .title = أزِل
 

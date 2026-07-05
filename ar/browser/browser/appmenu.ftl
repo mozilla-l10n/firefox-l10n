@@ -313,6 +313,10 @@ appmenu-services-header = خدماتي
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = أدوات الخصوصية
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = جرّب أدوات الحماية الأخرى من Mozilla:
 appmenu-other-protection-header = جرّب أدوات حماية أخرى من { -vendor-short-name }:
 
@@ -323,9 +327,18 @@ appmenu-manage-profiles =
     .label = أدِر ملفات التعريف
 appmenu-copy-profile =
     .label = انسخ هذا الملف الشخصي
+appmenu-create-profile2 =
+    .label = أنشئ ملف شخصي جديد
 appmenu-create-profile =
     .label = ملف شخصي جديد
 appmenu-edit-profile =
     .aria-label = حرّر الملف الشخصي
+appmenu-edit-this-profile =
+    .label = حرّر هذا الملف الشخصي
+appmenu-profile-current-in-use = الملف الشخصي الحالي قيد الاستخدام
 appmenu-profiles-2 =
     .label = ملفات تعريف
+appmenu-profiles-header = الملفات الشخصية
+appmenu-all-profiles =
+    .label = جميع الملفات الشخصية
+appmenu-secure-sync-header = مزامنة آمنة

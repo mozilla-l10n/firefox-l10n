@@ -1337,6 +1337,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Hjelp oss med å gjere widgetane betre
+newtab-sports-widget-message-survey-body = Då er VM over. Fortel oss kva du synest om opplevinga.
 newtab-sports-widget-message-survey-widget-title = Korleis var VM-widgeten?
 newtab-sports-widget-message-survey-widget-body = Del tilbakemeldingane dine for å hjelpe oss med å gjere framtidige widgetar betre. Prøv deretter den nye i utvalet ditt.
 newtab-sports-widget-message-survey-cta =

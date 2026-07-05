@@ -40,6 +40,13 @@ options-collapse-attrs-tooltip =
 options-default-color-unit-label = وحدة الألوان المبدئية
 options-default-color-unit-name = أسماء الألوان
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = مراقب الشبكة
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = غير محدود
+
 ## Style Editor section
 
 # The heading

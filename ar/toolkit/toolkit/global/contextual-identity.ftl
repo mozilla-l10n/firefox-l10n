@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = لسان جديد
     .accesskey = ل
+user-context-add-container =
+    .label = أضف حاوية جديدة
+    .accesskey = ض
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
