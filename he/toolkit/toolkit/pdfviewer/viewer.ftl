@@ -769,6 +769,57 @@ pdfjs-digital-signature-properties-button-label = מאפייני חתימה די
 ##   $count (Number) - number of signatures at the worst level.
 
 pdfjs-digital-signature-properties-banner-verified = המסמך נחתם בחתימה דיגיטלית תקפה
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] המסמך חתום אך לא ניתן היה לאמת חתימה דיגיטלית אחת
+       *[other] המסמך חתום אך לא ניתן היה לאמת { NUMBER($count) } חתימות דיגיטליות
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] המסמך חתום עם אישור אחד שאינו מהימן
+       *[other] המסמך חתום עם { NUMBER($count) } אישורים שאינם מהימנים
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] המסמך חתום עם אישור אחד שפג תוקפו
+       *[other] המסמך חתום עם { NUMBER($count) } אישורים שפג תוקפם
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] למסמך יש חתימה דיגיטלית אחת שאינה תקינה
+       *[other] למסמך יש { NUMBER($count) } חתימות דיגיטליות שאינן תקינות
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] המסמך חתום עם אישור אחד שנשלל
+       *[other] המסמך חתום עם { $count } אישורים שנשללו
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = מצב: החתימה מאומתת
+pdfjs-digital-signature-properties-status-invalid = מצב: החתימה לא תקינה
+pdfjs-digital-signature-properties-status-unknown = מצב: לא ניתן לאמת (לא נתמך)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = אישור אבטחה: מהימן ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = אישור אבטחה: לא זמין
+pdfjs-digital-signature-properties-certificate-untrusted = אישור אבטחה: לא מהימן
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = אישור אבטחה: מנפיק לא ידוע ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = אישור אבטחה: נחתם עצמית ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = אישור אבטחה: מנפיק לא מהימן ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = אישור אבטחה: פג תוקפו
+pdfjs-digital-signature-properties-certificate-expired-with-date = אישור אבטחה: פג תוקפו ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = אישור אבטחה: נשלל
 
 ## Main menu for adding/removing signatures
 

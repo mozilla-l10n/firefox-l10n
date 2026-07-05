@@ -199,6 +199,8 @@ newtab-picture-menu-learn-more = Les meir
 newtab-picture-show-button =
     .title = Vis dagens bilde
     .aria-label = Vis dagens bilde
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Sjekk tilbake i morgon for eit nytt bilde
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Dagens bilde frå Wikimedia Commons

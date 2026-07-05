@@ -76,6 +76,13 @@ options-webconsole-split-console-label = Rozdźělonu konsolu zmóžniś
 options-webconsole-split-console-tooltip =
     .title = Rozdźělonu konsolu z tastu Esc wócyniś
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Seśowy monitor
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Njewobgranicowany
+
 ## Style Editor section
 
 # The heading

@@ -387,6 +387,7 @@ quickactions-addons = Vis tillegg
 quickactions-cmd-addons3 = utvidingar, tema, tillegg
 # Opens preferences page at AI controls
 quickactions-manageai = Behandle KI-kontrollar
+quickactions-cmd-manageai = deaktivere ai, slå av ai, behandle ai, administrere ai, deaktivere ki, slå av ki, behandle ki, administrere ki
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Handsam bokmerke

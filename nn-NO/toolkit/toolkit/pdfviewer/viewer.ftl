@@ -166,6 +166,14 @@ pdfjs-digital-signature-properties-reason = Grunn: { $reason }
 # Variables:
 #   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
 pdfjs-digital-signature-properties-timestamp = Tidsstempel: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Undersignatur ({ $count })
+       *[other] Undersignaturar ({ $count })
+    }
 
 ## Print
 
@@ -761,6 +769,31 @@ pdfjs-digital-signature-properties-button-label = Eigenskapar for digital signat
 ##   $count (Number) - number of signatures at the worst level.
 
 pdfjs-digital-signature-properties-banner-verified = Dokumentet vart signert med ei gyldig digital signatur
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokumentet er signert, men { $count } digital signatur kunne ikkje verifiserast
+       *[other] Dokumentet er signert, men { $count } digitale signaturar kunne ikkje verifiserast
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokumentet er signert med { $count } sertifikat som ikkje er klarert
+       *[other] Dokumentet er signert med { $count } sertifikat som ikkje er klarerte
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokumentet er signert med { $count } utgåttt sertifikat
+       *[other] Dokumentet er signert med { $count } utgåtte sertifikat
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokumentet har { $count } ugyldig digital signatur
+       *[other] Dokumentet har { $count } ugyldige digitale signaturar
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokumentet er signert med { $count } tilbakekalt sertifikat
+       *[other] Dokumentet er signert med { $count } tilbakekalte sertifikat
+    }
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be
@@ -778,6 +811,14 @@ pdfjs-digital-signature-properties-status-unknown = Status: Kan ikkje stadfeste 
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Sertifikat: Klarert ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Sertifikat: Utilgjengeleg
+pdfjs-digital-signature-properties-certificate-untrusted = Sertifikat: Ikkje klarert
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Sertifikat: Ukjent utferdar ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Sertifikat: Sjølvsignert ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Sertifikat: Ikkje klarert utferdar ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Sertifikat: Utgått
+pdfjs-digital-signature-properties-certificate-expired-with-date = Sertifikat: Utgått ({ DATETIME($dateObj, dateStyle: "medium") })
 pdfjs-digital-signature-properties-certificate-revoked = Sertifikat: Tilbakekalla
 
 ## Main menu for adding/removing signatures

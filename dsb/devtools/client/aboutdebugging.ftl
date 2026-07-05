@@ -330,6 +330,10 @@ about-debugging-multiprocess-toolbox-name = Multiprocesowe rědy
 about-debugging-multiprocess-toolbox-description = Głowny proces a wopśimjeśowe procese za celowy wobglědowak
 about-debugging-message-error-icon =
     .alt = Zmólkowy symbol
+about-debugging-message-info-icon =
+    .alt = Informaciski symbol
+about-debugging-message-warning-icon =
+    .alt = Warnowański symbol
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Powěźeńku zacyniś
