@@ -170,6 +170,8 @@ newtab-privacy-menu-learn-more = Dalše informacije
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Tikerowe symbole přepytać
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Akcije schować
 # Context menu item linking to more information about the Stocks widget.

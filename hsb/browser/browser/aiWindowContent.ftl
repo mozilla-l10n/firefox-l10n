@@ -28,6 +28,7 @@ smartwindow-signin-btn = Přizjewić
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Wužite dopomnjeća
 aiwindow-memories-learn-more = Dalše informacije
 aiwindow-retry =
     .aria-label = Hišće raz spytać

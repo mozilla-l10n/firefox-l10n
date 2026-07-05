@@ -821,6 +821,23 @@ pdfjs-digital-signature-properties-banner-revoked =
 pdfjs-digital-signature-properties-status-verified = Status: Signatura je wobkrućena
 pdfjs-digital-signature-properties-status-invalid = Status: Signatura je njepłaćiwa
 
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = Certifikat: Dowěry hódny ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Certifikat: Nic k dispoziciji
+pdfjs-digital-signature-properties-certificate-untrusted = Certifikat: Dowěry njehódny
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certifikat: Njeznaty wudawar ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Certifikat: Samsignowany ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Certifikat: Dowěry njehódny wudawar ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Certifikat: Spadnjeny
+pdfjs-digital-signature-properties-certificate-expired-with-date = Certifikat: Spadnjeny ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Certifikat: Wotwołany
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

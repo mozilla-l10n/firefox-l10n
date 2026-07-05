@@ -760,6 +760,7 @@ pdfjs-toggle-views-manager-button1 =
 
 pdfjs-digital-signature-properties-status-verified = Stato: firma verificate
 pdfjs-digital-signature-properties-status-invalid = Stato: firma non valide
+pdfjs-digital-signature-properties-status-unknown = Stato: impossibile verificar (non supportate)
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
@@ -768,6 +769,12 @@ pdfjs-digital-signature-properties-status-invalid = Stato: firma non valide
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Certificato: de fiducia ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Certificato: indisponibile
+pdfjs-digital-signature-properties-certificate-untrusted = Certificato: non de confidentia
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certificato: emissor incognite ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Certificato: auto-firmate ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Certificato: emissor non de confidentia ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Certificato: expirate
 pdfjs-digital-signature-properties-certificate-expired-with-date = Certificato: expirate ({ DATETIME($dateObj, dateStyle: "medium") })
 pdfjs-digital-signature-properties-certificate-revoked = Certificato: revocate

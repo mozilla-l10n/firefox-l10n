@@ -84,6 +84,25 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Druhu tastowu skrótšenku wotstronić?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Tuta tasta so hižo přez “{ $conflict }” wužiwa.
+customkeys-conflict-confirm-button-confirm = Najebać to wužiwać
 customkeys-conflict-confirm-button-cancel = Přetorhnyć
 customkeys-reset-all-confirm-title = Standardy wobnowić?
 customkeys-reset-all-confirm-button-confirm = Standardy wobnowić
+customkeys-reset-all-confirm-button-cancel = Přetorhnyć
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Bóčnica
+customkeys-title-heading =
+    .heading = Tastowe skrótšenki
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Tastowe skrótšenki pytać
+    .placeholder = Tastowe skrótšenki pytać
+customkeys-support-link-text = Dalše informacije
+customkeys-reset-all-button = Standardy wobnowić
