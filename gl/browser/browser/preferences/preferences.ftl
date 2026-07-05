@@ -327,6 +327,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Personalizado
     .accesskey = P
+preferences-colors-manage-button2 =
+    .label = Xestionar as cores
+    .accesskey = c
 preferences-colors-header = Cores
 preferences-colors-description = Substituír as cores predeterminadas de { -brand-short-name } para texto, fondos de sitios web, e ligazóns.
 preferences-colors-manage-button =
@@ -553,6 +556,15 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -622,6 +634,9 @@ browsing-cfr-recommendations-learn-more = Máis información
 browsing-group =
     .label = Navegación
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Configuración de rede
@@ -673,6 +688,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -903,6 +924,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1142,6 +1168,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Máis información
 forms-windows-sso-desc = Xestionar contas na configuración do dispositivo
 windows-passkey-settings-label = Xestionar as claves de acceso na configuración do sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1734,8 +1763,26 @@ preferences-doh-manage-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = X
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
