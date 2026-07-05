@@ -875,6 +875,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Při pisanju tekst pytać
     .accesskey = P
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Tastowe skrótšenki přiměrić
 settings-media-group =
     .label = Medije
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1303,6 +1305,8 @@ containers-new-tab-check2 =
     .description = To meni kontejnerow kóždy raz wočinja, hdyž na nowe tłóčatko rajtarka klikaće.
 containers-settings-button2 =
     .title = Nastajenja
+containers-remove-button3 =
+    .title = Zhašeć
 containers-remove-button2 =
     .title = Wotstronić
 

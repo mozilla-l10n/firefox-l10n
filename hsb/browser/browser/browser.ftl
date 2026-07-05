@@ -944,6 +944,44 @@ urlbar-result-explanation-bookmarked = Je so { $date } jako zapołožka składow
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Posledni wopyt { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Posledni wopyt před { $daysAgo } dnjom
+        [two] Posledni wopyt před { $daysAgo } dnjomaj
+        [few] Posledni wopyt před { $daysAgo } dnjemi
+       *[other] Posledni wopyt před { $daysAgo } dnjemi
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Posledni wopyt před { $weeksAgo } tydźenjom
+        [two] Posledni wopyt před { $weeksAgo } njedźelomaj
+        [few] Posledni wopyt před { $weeksAgo } njedźelemi
+       *[other] Posledni wopyt před { $weeksAgo } njedźelemi
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Posledni wopyt před { $monthsAgo } měsacom
+        [two] Posledni wopyt před { $monthsAgo } měsacomaj
+        [few] Posledni wopyt před { $monthsAgo } měsacami
+       *[other] Posledni wopyt před { $monthsAgo } měsacami
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Posledni wopyt { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
