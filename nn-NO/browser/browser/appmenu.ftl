@@ -315,6 +315,10 @@ appmenu-services-header = Mine tenester
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Personvernverktøy
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Prøv andre verneverktøy frå Mozilla:
 appmenu-other-protection-header = Prøv andre verneverktøy frå { -vendor-short-name }:
 
@@ -325,9 +329,14 @@ appmenu-manage-profiles =
     .label = Handsam profilar
 appmenu-copy-profile =
     .label = Kopier denne profilen
+appmenu-create-profile2 =
+    .label = Opprett ein ny profil
 appmenu-create-profile =
     .label = Ny profil
 appmenu-edit-profile =
     .aria-label = Rediger profil
+appmenu-edit-this-profile =
+    .label = Rediger denne profilen
 appmenu-profiles-2 =
     .label = Profilar
+appmenu-profiles-header = Profilar
