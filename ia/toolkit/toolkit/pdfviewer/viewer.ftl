@@ -760,6 +760,25 @@ pdfjs-digital-signature-properties-button =
     .aria-label = Proprietates del firma digital
 pdfjs-digital-signature-properties-button-label = Proprietates del firma digital
 
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Documento firmate ma { $count } firma digital non poteva esser verificate
+       *[other] Documento firmate ma { $count } firmas digital non poteva esser verificate
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Documento firmate con { $count } certificato revocate
+       *[other] Documento firmate con { $count } certificatos revocate
+    }
+
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be
 ## untrusted/expired/revoked, but that's surfaced on the cert row
