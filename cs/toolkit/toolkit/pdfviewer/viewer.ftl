@@ -153,6 +153,7 @@ pdfjs-document-properties-linearized = Rychlé zobrazování z webu:
 pdfjs-document-properties-linearized-yes = Ano
 pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zavřít
+pdfjs-digital-signature-properties-view-certificate = Zobrazit certifikát
 
 ## Print
 

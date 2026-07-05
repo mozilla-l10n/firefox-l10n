@@ -96,6 +96,12 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Priwatnosć
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Akcije
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Wobraz dnja
 home-prefs-mission-message2 =
     .message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili.
 home-prefs-manage-topics-link2 =
@@ -164,8 +170,18 @@ newtab-privacy-menu-learn-more = Dalšne informacije
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Tikerowe symbole pśepytaś
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Akcije schowaś
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Dalšne informacije
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Wobraz dnja – Wikimedia Commons
 
 ## Search box component.
 
