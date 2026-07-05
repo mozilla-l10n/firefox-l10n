@@ -29,7 +29,12 @@ smartwindow-signin-btn = Přizjewić
 ## Assistant Message footer
 
 aiwindow-memories-used = Wužite dopomnjeća
+aiwindow-memories-callout-description = Dopomnjeća su pomhali, tutu wotmołwu personalizować.
 aiwindow-memories-learn-more = Dalše informacije
+aiwindow-manage-memories =
+    .label = Nastajenja dopomnjećow
+aiwindow-retry-without-memories =
+    .label = Bjez dopomnjećow hišće raz spytać
 aiwindow-retry =
     .aria-label = Hišće raz spytać
     .tooltiptext = Hišće raz spytać
@@ -122,6 +127,7 @@ smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
 
 action-log-searching-tabs = Rajtarki so přepytuja
 action-log-searched-open-tabs = Wočinjene rajtarki přepytane
+action-log-reading-page = Strona so čita
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Přečitany wobsah strony
 action-log-searching-web = Web přepytać

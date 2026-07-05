@@ -171,6 +171,11 @@ smartwindow-footer-history =
     .aria-label = Historija
     .tooltiptext = Historija
 
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = KI móže zmylki činić.
+
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
@@ -237,6 +242,11 @@ smart-window-default-promo-additional-button = Nic nětko
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Měnjenje dźělić
+aiwindow-feedback-what-worked-well = Što je derje fungowało? Žane wosobinske informacije, prošu.
+aiwindow-feedback-add-details = Přidajće podrobnosće, jeli chceće. Žane wosobinske informacije, prošu.
 aiwindow-feedback-submit = Wotpósłać
 aiwindow-feedback-cancel = Přetorhnyć
+aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst faluje
 aiwindow-feedback-reason-other = Druhe
+aiwindow-feedback-preview-report = Chatowe podrobnosće pokazać
+aiwindow-feedback-preview-report-with-page = Podrobnosće chata a strony pokazać
