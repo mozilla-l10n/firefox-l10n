@@ -452,7 +452,7 @@ onboarding-checklist-sign-up = Registrujće so abo přizjewće so pola swojeho k
 onboarding-checklist-minimize =
     .label = Miniměrować
 onboarding-checklist-remove =
-    .label = Čekowu lisćinu wotstronić
+    .label = Kontrolnu lisćinu wotstronić
 
 ## Tab Groups feature onboarding strings
 

@@ -1303,6 +1303,8 @@ containers-new-tab-check2 =
     .description = To kuždy raz meni kontejnera wócynijo, gaž na nowy tłocašk rejtarika klikaśo.
 containers-settings-button2 =
     .title = Nastajenja
+containers-remove-button3 =
+    .title = Lašowaś
 containers-remove-button2 =
     .title = Wótwónoźeś
 

@@ -748,6 +748,21 @@ pdfjs-views-manager-waiting-for-file = Dataja se nagrawa…
 pdfjs-toggle-views-manager-button1 =
     .title = Boki zastojaś
 
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-untrusted = Certifikat: Dowěry njegódny
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certifikat: Njeznaty wudawaŕ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Certifikat: Samsigněrowany ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Certifikat: Dowěry njegódny wudawaŕ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Certifikat: Spadnjony
+pdfjs-digital-signature-properties-certificate-expired-with-date = Certifikat: Spadnjony ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Certifikat: Wótwołany
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

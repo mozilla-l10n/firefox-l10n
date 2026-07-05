@@ -449,6 +449,10 @@ onboarding-checklist-pin = Pśipějśo { -brand-short-name } k nadawkowej rědce
 onboarding-checklist-import = Z pjerwjejšnego wobglědowaka importěrowaś
 onboarding-checklist-extension = Rozšyrjenje pśidaś
 onboarding-checklist-sign-up = Registrěrujśo se abo pśizjawśo se pla swójogo konta
+onboarding-checklist-minimize =
+    .label = Miniměrowaś
+onboarding-checklist-remove =
+    .label = Kontrolnu lisćinu wótwónoźeś
 
 ## Tab Groups feature onboarding strings
 

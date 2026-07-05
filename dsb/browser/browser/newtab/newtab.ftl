@@ -182,6 +182,28 @@ newtab-stocks-menu-learn-more = Dalšne informacije
 # Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
 # should not be translated.
 newtab-picture-header = Wobraz dnja – Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Slězynowy wobraz nastajiś
+    .title = Slězynowy wobraz nastajiś
+    .aria-label = Źinsajšny wobraz ako waš slězynowy wobraz nastajiś
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Slězynowy wobraz zastojaś
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Źinsajšny wobraz schowaś
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Źinsajšny wobraz pokazaś
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Dalšne informacije
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Źinsajšny wobraz pokazaś
+    .aria-label = Źinsajšny wobraz pokazaś
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wobraz dnja Wikimedia Commons
 
 ## Search box component.
 
@@ -218,6 +240,7 @@ newtab-topsites-add-shortcut-label = Zwězanje pśidaś
 newtab-topsites-add-shortcut-title =
     .title = Zwězanje pśidaś
     .aria-label = Zwězanje pśidaś
+newtab-shortcuts-pinned-area = Pśipěty wobceŕk
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Titel zapódaś
@@ -533,6 +556,10 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Priwatnosć
+newtab-custom-widget-stocks-toggle =
+    .label = Akcije
+newtab-custom-widget-picture-toggle =
+    .label = Wobraz dnja
 newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty
@@ -1321,6 +1348,11 @@ newtab-sports-widget-message-day-in-play-title = Grajśo z asistentami { -brand-
 newtab-sports-widget-message-day-in-play-body = Slědujśo swětowemu mejstaŕstwoju, wóstańśo na nadawku, slědujśo casoju wokoło globusa a wěcej.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Asistenty wuslěźiś
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Pomagajśo nam, asistenty pólěpšyś
+newtab-sports-widget-message-survey-widget-title = Kak jo był asistent swětowego mejstaŕstwa?
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Wócynjone rejtariki
 sidebar-options-menu-button =
     .title = Meni wócyniś
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Wjelikosć bocnice změniś
 
 ## Labels for sidebar history panel
 
@@ -69,6 +72,8 @@ sidebar-settings =
     .label = Nastajenja bocnice
 sidebar-hide-tabs-and-sidebar =
     .label = Rejtariki a bocnicu schowaś
+sidebar-open-tools-from-sidebar =
+    .label = Rědy z bocnice wócyniś
 sidebar-show-on-the-right =
     .label = Bocnicu napšawo pśesunuś
 sidebar-show-on-the-left =
@@ -238,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Wokno { $winID }
+sidebar-bookmarks-title = Cytańske znamjenja
 
 ## Context for closing synced tabs when hovering over the items
 

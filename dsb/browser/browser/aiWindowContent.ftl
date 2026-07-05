@@ -127,6 +127,7 @@ smart-window-grouped-tabs-row-label = Zrědowane rejtariki
 
 action-log-searching-tabs = Rejtariki se pśepytuju
 action-log-searched-open-tabs = Wócynjone rejtariki pśepytane
+action-log-reading-page = Bok se cyta
 action-log-searched-world-cup-matches = Pśepytane graśa swětowego mejstaŕstwa
 action-log-checking-world-cup-live = Graśa live swětowego mejstaŕstwa wubraś
 action-log-checked-world-cup-live = Wubrane graśa live swětowego mejstaŕstwa
