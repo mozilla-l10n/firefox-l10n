@@ -753,6 +753,13 @@ pdfjs-views-manager-waiting-for-file = Cargante file…
 pdfjs-toggle-views-manager-button1 =
     .title = Gerer paginas
 
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Proprietates del firma digital
+    .aria-label = Proprietates del firma digital
+pdfjs-digital-signature-properties-button-label = Proprietates del firma digital
+
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be
 ## untrusted/expired/revoked, but that's surfaced on the cert row

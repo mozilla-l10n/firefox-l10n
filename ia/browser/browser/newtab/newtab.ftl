@@ -199,6 +199,11 @@ newtab-picture-menu-learn-more = Pro saper plus
 newtab-picture-show-button =
     .title = Montrar imagine de hodie
     .aria-label = Montrar imagine de hodie
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Re-controla deman pro un nove imagine
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Imagine del die de Wikimedia Commons
 
 ## Search box component.
 
@@ -1333,6 +1338,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Adjuta nos a facer widgets melior
+newtab-sports-widget-message-survey-cta =
+    .label = Participa al questionario
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
