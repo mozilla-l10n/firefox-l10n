@@ -76,6 +76,23 @@ options-webconsole-split-console-label = 분할 콘솔 사용
 options-webconsole-split-console-tooltip =
     .title = Esc 키로 분할 콘솔 열기
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = 네트워크 모니터
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = 요청 및 응답 본문의 최대 크기 (0으로 설정 시 제한 없음):
+options-netmonitor-body-limit-tooltip =
+    .title = 지정된 크기를 초과하는 요청이나 응답은 네트워크 모니터에 표시되거나 다운로드될 때 잘립니다. 0으로 설정하면 제한이 없습니다.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = 제한 없음
+options-netmonitor-body-limit-button =
+    .title = 최대 요청/응답 본문 크기를 편집합니다.
+options-netmonitor-body-limit-restore-default =
+    .title = 요청/응답의 최대 본문 크기를 기본값으로 되돌립니다.
+options-netmonitor-body-limit-set =
+    .title = 현재 입력된 값을 요청/응답의 최대 본문 크기로 설정하세요.
+
 ## Style Editor section
 
 # The heading
