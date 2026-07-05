@@ -779,6 +779,30 @@ pdfjs-digital-signature-properties-banner-untrusted =
         [one] Dokumentet er signert med { $count } sertifikat som ikke er klarert
        *[other] Dokumentet er signert med { $count } sertifikater som ikke er klarert
     }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokumentet er signert med { $count } utløpt sertifikat
+       *[other] Dokumentet er signert med { $count } utløpte sertifikater
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokumentet har { $count } ugyldig digital signatur
+       *[other] Dokumentet har { $count } ugyldige digitale signaturer
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokumentet er signert med { $count } tilbakekalt sertifikat
+       *[other] Dokumentet er signert med { $count } tilbakekalte sertifikater
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Status: Signatur bekreftet
+pdfjs-digital-signature-properties-status-invalid = Status: Signatur ugyldig
+pdfjs-digital-signature-properties-status-unknown = Status: Kan ikke bekrefte (støttes ikke)
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
@@ -787,7 +811,15 @@ pdfjs-digital-signature-properties-banner-untrusted =
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Sertifikat: Klarert ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Sertifikat: Utilgjengelig
+pdfjs-digital-signature-properties-certificate-untrusted = Sertifikat: Ikke klarert
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Sertifikat: Ukjent utsteder ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Sertifikat: Selvsignert ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Sertifikat: Ikke klarert utsteder ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Sertifikat: Utløpt
+pdfjs-digital-signature-properties-certificate-expired-with-date = Sertifikat: Utløpt ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Sertifikat: Tilbakekalt
 
 ## Main menu for adding/removing signatures
 
