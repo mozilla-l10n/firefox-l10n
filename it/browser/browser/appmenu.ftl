@@ -346,4 +346,3 @@ appmenu-profiles-header = Profili
 appmenu-all-profiles =
     .label = Tutti i profili
 appmenu-secure-sync-header = Sincronizzazione sicura
-

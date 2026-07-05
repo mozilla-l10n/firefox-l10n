@@ -185,4 +185,3 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Risultati di ricerca caricati in questa scheda. Analisi in corso…
-
