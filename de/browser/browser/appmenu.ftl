@@ -303,15 +303,24 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Melden Sie sich in Ihrem Konto an
+appmenuitem-monitor-title2 = Bleiben Sie dem Identitätsdiebstahl einen Schritt voraus
+appmenuitem-monitor-description2 = Erhalten Sie Warnungen bei Datenlecks
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Erhalten Sie Warnmeldungen zu Datenlecks
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description2 = Verhindert Spam in Ihrem Posteingang
 appmenuitem-relay-description = Verbergen Sie Ihre echte E-Mail-Adresse und Telefonnummer
 appmenuitem-services-relay-description = Übersicht über E-Mail-Masken öffnen
+appmenuitem-vpn-title2 = Verbergen Sie Ihren Standort mit { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Erhöhen Sie die Sicherheit vor Rückverfolgung
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Schutz für das gesamte Gerät
 appmenuitem-vpn-description = Schützen Sie Ihre Online-Aktivitäten
 appmenu-services-header = Meine Dienste
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Datenschutzwerkzeuge
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +334,15 @@ appmenu-manage-profiles =
     .label = Profile verwalten
 appmenu-copy-profile =
     .label = Dieses Profil kopieren
+appmenu-create-profile2 =
+    .label = Ein neues Profil erstellen
 appmenu-create-profile =
     .label = Neues Profil
 appmenu-edit-profile =
     .aria-label = Profil bearbeiten
+appmenu-edit-this-profile =
+    .label = Dieses Profil bearbeiten
+appmenu-profile-current-in-use = Dieses Profil wird derzeit verwendet
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile

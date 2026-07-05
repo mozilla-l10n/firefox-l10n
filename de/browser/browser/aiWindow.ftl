@@ -217,6 +217,13 @@ firefoxview-search-chat-results-count =
        *[other] { $count } Chats
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Surf-, Download- und Chat-Chronik
+    .accesskey = S
+item-history-downloads-and-chat-description = Löscht die Website-, Download- und Chat-Chronik
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -246,12 +253,16 @@ smartwindow-close-tab-callout-subtitle = Tabs aus der Chronik jederzeit wieder �
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = { -smart-window-brand-name } als Standard festlegen?
 smart-window-default-promo-primary-button = Als Standard festlegen
 smart-window-default-promo-additional-button = Nicht jetzt
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Sagen Sie Ihre Meinung
+aiwindow-feedback-what-worked-well = Was hat gut funktioniert? Keine persönlichen Daten, bitte.
+aiwindow-feedback-choose-any = Wählen Sie alle zutreffenden aus
+aiwindow-feedback-add-details = Fügen Sie Details hinzu, wenn Sie möchten. Keine persönlichen Daten, bitte.
 aiwindow-feedback-submit = Absenden
 aiwindow-feedback-cancel = Abbrechen
 aiwindow-feedback-reason-incorrect-or-misleading = Falsch oder irreführend
@@ -263,3 +274,14 @@ aiwindow-feedback-reason-other = Sonstiges
 aiwindow-feedback-preview-report = Chat-Details anzeigen
 aiwindow-feedback-preview-report-with-page = Chat- und Seitendetails anzeigen
 aiwindow-feedback-include-page-content = Die in diesem Chat referenzierten Seiten teilen
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Ansichtslayout wechseln
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Modus umschalten: Listenansicht
+    .tooltiptext = Listenansicht
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Modus umschalten: Rasteransicht
+    .tooltiptext = Rasteransicht
