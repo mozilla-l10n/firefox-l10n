@@ -72,6 +72,8 @@ sidebar-settings =
     .label = 사이드바 설정
 sidebar-hide-tabs-and-sidebar =
     .label = 탭과 사이드바 숨기기
+sidebar-open-tools-from-sidebar =
+    .label = 사이드바에서 도구 열기
 sidebar-show-on-the-right =
     .label = 사이드바를 오른쪽으로 이동
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = 창 { $winID }
+sidebar-bookmarks-title = 북마크
 
 ## Context for closing synced tabs when hovering over the items
 
