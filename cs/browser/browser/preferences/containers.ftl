@@ -97,3 +97,10 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Nastavení kontejneru { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-create-button =
+    .label = Hotovo
+containers-panel-cancel-button =
+    .label = Zrušit

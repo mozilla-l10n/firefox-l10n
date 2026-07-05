@@ -1338,6 +1338,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Adjuta nos a facer widgets melior
+newtab-sports-widget-message-survey-body = Le Cuppa del mundo se ha concludite. Condivide un commentario sur tu experientia.
+newtab-sports-widget-message-survey-widget-title = Como era le widget del Cuppa del mundo?
+newtab-sports-widget-message-survey-widget-body = Condivide tu commentario pro adjutar nos a meliorar futur widgets.
 newtab-sports-widget-message-survey-cta =
     .label = Participa al questionario
 

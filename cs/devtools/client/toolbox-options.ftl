@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Povolit rozdělení konzole
 options-webconsole-split-console-tooltip =
     .title = Pomocí klávesy Escape otevírat rozdělenou konzoli
 
+## Network Monitor section
+
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Neomezené
+
 ## Style Editor section
 
 # The heading

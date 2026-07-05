@@ -366,6 +366,12 @@ about-debugging-multiprocess-toolbox-name = Sada nástrojů pro práci s více p
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Hlavní procesy a procesy pro obsah v cílovém prohlížeči
+about-debugging-message-error-icon =
+    .alt = Ikona chyby
+about-debugging-message-info-icon =
+    .alt = Informační ikona
+about-debugging-message-warning-icon =
+    .alt = Varovná ikona
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Zavřít zprávu

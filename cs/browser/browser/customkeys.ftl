@@ -85,3 +85,4 @@ customkeys-key-new =
 ## Confirmation dialogs
 
 customkeys-conflict-confirm-title = Odstranit další zkratku?
+customkeys-conflict-confirm-button-confirm = Přesto použít

@@ -43,3 +43,8 @@ toolbox-always-on-top-enabled2 = Zakázat vždy navrchu
     .title = Způsobí restart Nástrojů pro vývojáře
 toolbox-always-on-top-disabled2 = Povolit vždy navrchu
     .title = Způsobí restart Nástrojů pro vývojáře
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-try-it-button = Vyzkoušejte ho

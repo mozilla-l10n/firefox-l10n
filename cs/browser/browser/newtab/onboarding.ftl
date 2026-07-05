@@ -632,6 +632,10 @@ onboarding-checklist-pin =
 onboarding-checklist-import = Importovat z dříve používaného prohlížeče
 onboarding-checklist-extension = Přidat rozšíření
 onboarding-checklist-sign-up = Přihlaste se do svého účtu nebo si ho vytvořte
+onboarding-checklist-minimize =
+    .label = Minimalizovat
+onboarding-checklist-remove =
+    .label = Odstranit kontrolní seznam
 
 ## Tab Groups feature onboarding strings
 
