@@ -8,6 +8,15 @@
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = مجال گشتن بپۊرسین
+    .value = مجال گشتن بپۊرسین
+ai-window-toggleview-switch-private =
+    .label = نیمدری سیخومی
+ai-window-toggleview-open-private =
+    .label = گۊشیڌن نیمدری سیخومی نۊ
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = نیمدری کلاسیک
 
 ## Input CTA
 
@@ -15,12 +24,25 @@ aiwindow-input-cta-submit-label-chat = پۊرسیڌن
 aiwindow-input-cta-submit-label-navigate = راو
 aiwindow-input-cta-submit-label-search = پیتینیڌن
 aiwindow-input-cta-submit-label-stop = واڌاشتن
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = ناهاڌ پا وورکل کردن جواو
 aiwindow-input-cta-menu-label-chat = پۊرسیڌن
 aiwindow-input-cta-menu-label-navigate = راو و وبگه
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = پیتینیڌن وا { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = پیتینیڌن وا…
 aiwindow-input-cta-search-submenu-header = پیتینیڌن
+aiwindow-input-cta-stop-button =
+    .title = واڌاشتن جواو داڌن
+    .aria-label = واڌاشتن وورکل جواو
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = بپۊرسین، بپیتینین یا ی نشۊوی بزنین
+smartbar-placeholder-hint-2 = هر چ دلت اخو بپورس…
+smartbar-placeholder-hint-3 = نشۊوی وبگه ن بزنین…
+smartbar-placeholder-hint-4 = پیتینیڌن من وب…
 
 ## Mentions
 

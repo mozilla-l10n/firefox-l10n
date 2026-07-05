@@ -80,6 +80,8 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = מנטר הרשת
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = גודל גוף בקשה ותגובה מירבי (יש להגדיר ל־0 ללא הגבלה):
 
 ## Style Editor section
 
