@@ -6,6 +6,7 @@
 ## Error messages in the chat content
 
 smartwindow-retry-btn = Zkusit znovu
+smartwindow-clear-btn = Nový chat
 smartwindow-signin-btn = Přihlásit se
 
 ## Assistant Message footer
