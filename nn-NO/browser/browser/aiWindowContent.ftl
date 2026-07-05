@@ -103,12 +103,46 @@ smart-window-restored-row-label =
         [one] Gjenoppretta { $count } fane
        *[other] Gjenoppretta { $count } faner
     }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Faner attlatne, deretter gjenoppretta.
+       *[other] Faner attlatne, deretter gjenoppretta.
+    }
 smart-window-cancelled-label = Førespurnaden vart avbroten.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupper
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Grupper { $count } fane
+       *[other] Grupper { $count } faner
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Grupperte { $count } fane
+       *[other] Grupperte { $count } faner
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Oppretta gruppa «{ $label }» og la til { $count } fane.
+       *[other] Oppretta gruppa «{ $label }» og la til { $count } faner.
+    }
 smart-window-grouped-tabs-row-label = Grupperte faner
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Gruppereing av faner oppheva
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } fane vart gruppert og deretter teken ut av gruppa.
+       *[other] { $count } faner vart grupperte og deretter tekne ut av gruppa.
+    }
 
 ## Action log
 
