@@ -1337,6 +1337,12 @@ newtab-sports-widget-message-day-in-play-body = מעקב אחרי המונדיא
 newtab-sports-widget-message-explore-widgets-cta =
     .label = צפייה בווידג’טים
 
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = עזרו לנו לשפר את הווידג’טים
+newtab-sports-widget-message-survey-body = זהו, המונדיאל הסתיים. נשמח לשמוע מה חשבת על חווית השימוש בווידג’ט.
+newtab-sports-widget-message-survey-widget-title = איך היה הווידג’ט של המונדיאל?
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with

@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Ny fane
     .accesskey = N
+user-context-add-container =
+    .label = Legg til ny behaldar
+    .accesskey = L
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

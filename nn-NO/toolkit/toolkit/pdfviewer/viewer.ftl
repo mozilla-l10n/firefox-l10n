@@ -745,6 +745,23 @@ pdfjs-views-manager-waiting-for-file = Lastar opp fila…
 pdfjs-toggle-views-manager-button1 =
     .title = Handsam sider
 
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Eigenskapar for digital signatur
+    .aria-label = Eigenskapar for digital signatur
+pdfjs-digital-signature-properties-button-label = Eigenskapar for digital signatur
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokumentet vart signert med ei gyldig digital signatur
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

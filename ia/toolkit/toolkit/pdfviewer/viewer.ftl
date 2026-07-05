@@ -753,6 +753,14 @@ pdfjs-views-manager-waiting-for-file = Cargante file…
 pdfjs-toggle-views-manager-button1 =
     .title = Gerer paginas
 
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Stato: firma verificate
+pdfjs-digital-signature-properties-status-invalid = Stato: firma non valide
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
