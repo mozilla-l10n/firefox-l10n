@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Nowy rajtark
     .accesskey = N
+user-context-add-container =
+    .label = Nowy kontejner přidać
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

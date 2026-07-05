@@ -153,6 +153,19 @@ pdfjs-document-properties-linearized = Fast Web View:
 pdfjs-document-properties-linearized-yes = Haj
 pdfjs-document-properties-linearized-no = Ně
 pdfjs-document-properties-close-button = Začinić
+pdfjs-digital-signature-properties-view-certificate = Certifikat pokazać
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Přičina: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Časowy kołk: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Print
 
@@ -747,6 +760,30 @@ pdfjs-new-badge-content = NOWY
 pdfjs-views-manager-waiting-for-file = Dataja so nahrawa…
 pdfjs-toggle-views-manager-button1 =
     .title = Strony rjadować
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Kajkosće digitalneje signatury
+    .aria-label = Kajkosće digitalneje signatury
+pdfjs-digital-signature-properties-button-label = Kajkosće digitalneje signatury
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokument  je so z płaćiwej digitalnej signaturu signował
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokument je so signował, ale { $count } digitalna signatura njeda so přepruwować
+        [two] Dokument je so signował, ale { $count } digitalnej signaturje njedatej so přepruwować
+        [few] Dokument je so signował, ale { $count } digitalne signatury njedachu so přepruwować
+       *[other] Dokument je so signował, ale { $count } digitalnych signaturow njeda so přepruwować
+    }
 
 ## Main menu for adding/removing signatures
 

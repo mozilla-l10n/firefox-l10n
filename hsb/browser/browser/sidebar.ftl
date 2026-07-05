@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Nastajenja bóčnicy
 sidebar-hide-tabs-and-sidebar =
     .label = Rajtarki a bóčnicu schować
+sidebar-open-tools-from-sidebar =
+    .label = Nastroje z bóčnicy wočinić
 sidebar-show-on-the-right =
     .label = Bóčnicu doprawa přesunyć
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Wokno { $winID }
+sidebar-bookmarks-title = Zapołožki
 
 ## Context for closing synced tabs when hovering over the items
 
