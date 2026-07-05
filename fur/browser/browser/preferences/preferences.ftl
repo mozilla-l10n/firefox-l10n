@@ -2722,6 +2722,3 @@ preferences-etp-reload-tabs-hint-button =
     .label = Torne cjame dutis lis schedis
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
-
-## Warnings section
-

@@ -1534,9 +1534,6 @@ forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2354,6 +2351,3 @@ preferences-etp-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Մեկուսացնել միջկայքային թխուկները
-
-## Warnings section
-

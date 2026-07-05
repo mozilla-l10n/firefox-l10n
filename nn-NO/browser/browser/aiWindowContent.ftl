@@ -143,6 +143,11 @@ smart-window-ungroup-success-summary =
         [one] { $count } fane vart gruppert og deretter teken ut av gruppa.
        *[other] { $count } faner vart grupperte og deretter tekne ut av gruppa.
     }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Tok { $count } fane ut av gruppen
+       *[other] Tok { $count } faner ut av gruppa
+    }
 
 ## Action log
 

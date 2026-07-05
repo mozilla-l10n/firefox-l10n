@@ -26,6 +26,9 @@ smartwindow-document-title = Ny fane
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Vindaugstype
+    .tooltiptext = Byt mellom smart vindauge og klassisk vindauge.
 ai-window-toggleview-switch-classic =
     .label = Klassisk vindauge
     .value = Klassisk vindauge
@@ -143,6 +146,7 @@ aiwindow-firstrun-memories-no-create = Skjønar. { -smart-window-brand-name } vi
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Gjer { -smart-window-brand-name } til ditt føretrekte val
 aiwindow-firstrun-default-subtitle = Surf, søk og still spørsmål på éin stad. Du kan framleis opne private vindauge og klassiske vindauge når du vil.
 aiwindow-firstrun-default-checkbox-label = Opne alltid { -brand-product-name } i { -smart-window-brand-name }
 aiwindow-firstrun-default-checkbox-description = Byt i innstillingane når som helst
@@ -151,6 +155,15 @@ aiwindow-firstrun-default-checkbox-description = Byt i innstillingane når som h
 
 smartwindow-ask-button =
     .label = Spør
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .tooltiptext = Bruk minne i svar når det er nyttig
+    .aria-label = Minne på
+aiwindow-memories-off =
+    .tooltiptext = Ikkje bruk minne i svar
+    .aria-label = Minne av
 
 ## New Chat Button
 
@@ -261,6 +274,7 @@ smartwindow-close-tab-callout-subtitle = Opne faner frå historikk på nytt, nå
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Gjere { -smart-window-brand-name } til standard?
 smart-window-default-promo-message = { -brand-short-name } blir opna i { -smart-window-brand-name } kvar gong.
 smart-window-default-promo-primary-button = Bruk som standard
 smart-window-default-promo-additional-button = Ikkje no
@@ -288,3 +302,6 @@ aiwindow-feedback-include-page-content = Del sidene som blir refererte til i den
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Byt visningsoppsett
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Bytt modus: Listevising
+    .tooltiptext = Listevising
