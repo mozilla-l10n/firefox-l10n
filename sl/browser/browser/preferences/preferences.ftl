@@ -435,6 +435,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Po meri
     .accesskey = m
+preferences-colors-manage-button2 =
+    .label = Upravljanje barv
+    .accesskey = b
 preferences-colors-header = Barve
 preferences-colors-description = Preglasi privzete barve { -brand-short-name(sklon: "rodilnik") } za besedilo, ozadja strani in povezave.
 preferences-colors-manage-button =
@@ -1663,6 +1666,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
