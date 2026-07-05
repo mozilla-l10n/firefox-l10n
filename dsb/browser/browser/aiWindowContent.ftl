@@ -28,7 +28,13 @@ smartwindow-signin-btn = Pśizjawiś
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Wužyte dopomnjeśa
+aiwindow-memories-callout-description = Dopomnjeśa su pomagali, toś to wótegrono personalizěrowaś.
 aiwindow-memories-learn-more = Dalšne informacije
+aiwindow-manage-memories =
+    .label = Nastajenja dopomnjeśow
+aiwindow-retry-without-memories =
+    .label = Bźez dopomnjeśow hyšći raz wopytaś
 aiwindow-retry =
     .aria-label = Hyšći raz wopytaś
     .tooltiptext = Hyšći raz wopytaś
@@ -38,6 +44,14 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = Tabelu kopěrowaś
     .tooltiptext = Tabelu kopěrowaś
+aiwindow-thumbs-up =
+    .aria-label = Pozitiwne měnjenje źěliś
+    .tooltiptext = Pozitiwne měnjenje źěliś
+aiwindow-thumbs-down =
+    .aria-label = Negatiwne měnjenje źěliś
+    .tooltiptext = Negatiwne měnjenje źěliś
+aiwindow-applied-memories-list =
+    .aria-label = Dopomnjeśa
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -47,6 +61,9 @@ aiwindow-delete-memory-button =
 
 smartwindow-nl-retry-tool-button =
     .label = Hyšći raz wopytaś
+smartwindow-nl-thinking = Pyta se za wótpowědnymi rejtarikami…
+smartwindow-loading-assistant-response =
+    .aria-label = Wótegrono asistenta se zacytajo
 smartwindow-nl-undo-button =
     .label = Anulěrowaś
 
@@ -60,6 +77,13 @@ smart-window-closed-tabs-label =
         [few] { $count } rejtariki zacynjone
        *[other] { $count } rejtarikow zacynjone
     }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Gótowy! Rejtarik jo zacynjony.
+        [two] Gótowy! Rejtarika stej zacynjonej.
+        [few] Gótowy! Rejtariki su zacynjone.
+       *[other] Gótowy! Rejtariki su zacynjone.
+    }
 smart-window-closed-tabs-row-label = Zacynjone rejtariki
 smart-window-closed-and-restored-label = Zacynjone a wótnowjone rejtariki
 smart-window-restored-row-label =
@@ -69,6 +93,14 @@ smart-window-restored-row-label =
         [few] { $count } rejtariki wótnowjone
        *[other] { $count } rejtarikow wótnowjone
     }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Rejtarik jo se zacynił, pótom wótnowił.
+        [two] Rejtarika su se zacyniłej, pótom wótnowiłej.
+        [few] Rejtariki su se zacynili, pótom wótnowili.
+       *[other] Rejtariki su se zacynili, pótom wótnowili.
+    }
+smart-window-cancelled-label = Napšašowanje jo se pśetergnuło.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Zrědowaś
 # Button label - "Group" is a verb (action to group tabs)
