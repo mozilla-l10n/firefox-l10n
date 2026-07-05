@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Настройки боковой панели
 sidebar-hide-tabs-and-sidebar =
     .label = Скрыть вкладки и боковую панель
+sidebar-open-tools-from-sidebar =
+    .label = Открывать инструменты из боковой панели
 sidebar-show-on-the-right =
     .label = Переместить боковую панель вправо
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Окно { $winID }
+sidebar-bookmarks-title = Закладки
 
 ## Context for closing synced tabs when hovering over the items
 

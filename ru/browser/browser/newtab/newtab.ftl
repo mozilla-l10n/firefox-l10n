@@ -1346,6 +1346,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Помогите нам сделать виджеты лучше
 newtab-sports-widget-message-survey-body = Вот и подведение итогов ЧМ. Поделитесь своим отзывом об опыте.
 newtab-sports-widget-message-survey-widget-title = Как вам виджет ЧМ?
+newtab-sports-widget-message-survey-widget-body = Поделитесь своим отзывом, чтобы помочь нам улучшить будущие виджеты. После этого попробуйте новый в вашей подборке.
+newtab-sports-widget-message-survey-cta =
+    .label = Пройти опрос
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Включить разделённую
 options-webconsole-split-console-tooltip =
     .title = Открывать разделённую консоль с помощью клавиши Esc
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Монитор сети
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Максимальный размер тела запроса и ответа (установите 0 для неограниченных):
+options-netmonitor-body-limit-tooltip =
+    .title = Тела запросов или ответов, размер которых превышает указанный, будут обрезаны при отображении или загрузке в Мониторе сети. Установите в 0, чтобы не устанавливать ограничения.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Неограничено
+options-netmonitor-body-limit-button =
+    .title = Изменить максимальный размер тела запроса/ответа.
+options-netmonitor-body-limit-restore-default =
+    .title = Восстановить значение по умолчанию для максимального размера тела запроса/ответа.
+options-netmonitor-body-limit-set =
+    .title = Установить текущее значение ввода как максимальный размер тела запроса/ответа.
+
 ## Style Editor section
 
 # The heading

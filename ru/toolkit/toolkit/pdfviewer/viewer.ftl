@@ -153,6 +153,28 @@ pdfjs-document-properties-linearized = Быстрый просмотр в Web:
 pdfjs-document-properties-linearized-yes = Да
 pdfjs-document-properties-linearized-no = Нет
 pdfjs-document-properties-close-button = Закрыть
+pdfjs-digital-signature-properties-view-certificate = Просмотреть сертификат
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Причина: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Метка времени: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Дополнительная подпись ({ $count })
+        [few] Дополнительные подписи ({ $count })
+       *[many] Дополнительные подписи ({ $count })
+    }
 
 ## Print
 
@@ -739,6 +761,29 @@ pdfjs-new-badge-content = НОВОЕ
 pdfjs-views-manager-waiting-for-file = Загрузка файла…
 pdfjs-toggle-views-manager-button1 =
     .title = Управление страницами
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Свойства цифровой подписи
+    .aria-label = Свойства цифровой подписи
+pdfjs-digital-signature-properties-button-label = Свойства цифровой подписи
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Документ был подписан действительной цифровой подписью
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Документ подписан, но { $count } цифровая подпись не может быть проверены
+        [few] Документ подписан, но { $count } цифровых подписи не могут быть проверены
+       *[many] Документ подписан, но { $count } цифровых подписей не могут быть проверены
+    }
 
 ## Main menu for adding/removing signatures
 

@@ -808,6 +808,28 @@ pdfjs-digital-signature-properties-banner-expired =
         [few] Dokument jo z { $count } spadnjonymi certifikatami signěrowany
        *[other] Dokument jo z { $count } spadnjonymi certifikatami signěrowany
     }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokument ma { $count } njepłaśiwu digitalnu signaturu
+        [two] Dokument ma { $count } njepłaśiwej digitalnej signaturje
+        [few] Dokument ma { $count } njepłaśiwe digitalne signatury
+       *[other] Dokument ma { $count } njepłaśiwych digitalnych signaturow
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokument jo z { $count } wótwołanym certifikatom signěrowany
+        [two] Dokument jo z { $count } wótwołanyma certifikatoma signěrowany
+        [few] Dokument jo z { $count } wótwołanymi certifikatami signěrowany
+       *[other] Dokument jo z { $count } wótwołanymi certifikatami signěrowany
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Status: Signatura jo wobkšuśona
+pdfjs-digital-signature-properties-status-invalid = Status: Signatura jo njepłaśiwa
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
@@ -816,6 +838,8 @@ pdfjs-digital-signature-properties-banner-expired =
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Certifikat: Dowěry gódny ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Certifikat: Nic k dispoziciji
 pdfjs-digital-signature-properties-certificate-untrusted = Certifikat: Dowěry njegódny
 pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certifikat: Njeznaty wudawaŕ ({ $issuer })
 pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Certifikat: Samsigněrowany ({ $issuer })
