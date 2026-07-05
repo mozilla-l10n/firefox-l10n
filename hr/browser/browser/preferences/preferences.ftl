@@ -383,6 +383,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Prilagođeno
     .accesskey = P
+preferences-colors-manage-button2 =
+    .label = Upravljaj bojama
+    .accesskey = b
 preferences-colors-header = Boje
 preferences-colors-description = Zamijeni standardne { -brand-short-name } boje za tekst, pozadinu web-stranice i poveznice.
 preferences-colors-manage-button =
@@ -697,6 +700,12 @@ update-in-progress-ok-button = O&dbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -778,6 +787,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saznaj više
 browsing-group =
     .label = Pregledavanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1496,6 +1508,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznaj više
 forms-windows-sso-desc = Upravljaj računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u postavkama sustava
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2362,11 +2377,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS preko HTTPS-a
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Radna površina
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite mapu za preuzimanja:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2479,3 +2500,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Sumnjivi prikupljači digitalnih otisaka
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Sumnjivi prikupljači digitalnih otisaka
+
+## Warnings section
+

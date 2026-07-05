@@ -429,6 +429,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Personalizât
     .accesskey = P
+preferences-colors-manage-button2 =
+    .label = Gjestìs colôrs
+    .accesskey = c
 preferences-colors-header = Colôrs
 preferences-colors-description = Sostituìs i colôrs predefinîts di { -brand-short-name } par test, fonts di sît web e colegaments.
 preferences-colors-manage-button =
@@ -2719,3 +2722,6 @@ preferences-etp-reload-tabs-hint-button =
     .label = Torne cjame dutis lis schedis
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
+
+## Warnings section
+

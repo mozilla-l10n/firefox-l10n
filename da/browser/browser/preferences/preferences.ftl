@@ -402,6 +402,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Tilpasset
     .accesskey = T
+preferences-colors-manage-button2 =
+    .label = Håndter farver
+    .accesskey = f
 preferences-colors-header = Farver
 preferences-colors-description = Tilsidesæt { -brand-short-name }' standardfarver for tekst, websteds-baggrunde og links.
 preferences-colors-manage-button =
@@ -1544,6 +1547,9 @@ forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2485,3 +2491,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
