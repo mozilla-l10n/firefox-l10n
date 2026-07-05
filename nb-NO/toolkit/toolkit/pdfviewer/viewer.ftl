@@ -154,6 +154,26 @@ pdfjs-document-properties-linearized-yes = Ja
 pdfjs-document-properties-linearized-no = Nei
 pdfjs-document-properties-close-button = Lukk
 pdfjs-digital-signature-properties-view-certificate = Vis sertifikat
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Grunn: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Tidsstempel: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Undersignatur ({ $count })
+       *[other] Undersignaturer ({ $count })
+    }
 
 ## Print
 
@@ -732,6 +752,42 @@ pdfjs-new-badge-content = NY
 pdfjs-views-manager-waiting-for-file = Laster opp filen …
 pdfjs-toggle-views-manager-button1 =
     .title = Behandle sider
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Egenskaper for digital signatur
+    .aria-label = Egenskaper for digital signatur
+pdfjs-digital-signature-properties-button-label = Egenskaper for digital signatur
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokumentet ble signert med en gyldig digital signatur
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokumentet er signert, men { $count } digital signatur kunne ikke verifiseres
+       *[other] Dokumentet er signert, men { $count } digitale signaturer kunne ikke verifiseres
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokumentet er signert med { $count } sertifikat som ikke er klarert
+       *[other] Dokumentet er signert med { $count } sertifikater som ikke er klarert
+    }
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-expired = Sertifikat: Utløpt
 
 ## Main menu for adding/removing signatures
 
