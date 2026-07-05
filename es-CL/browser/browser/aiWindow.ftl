@@ -78,6 +78,30 @@ smartbar-context-menu-button =
 ## Website Chip
 
 aiwindow-website-chip-placeholder = Etiqueta una pestaña o sitio
+aiwindow-website-chip-history-deleted = Historial borrado
+aiwindow-website-chip-remove-button =
+    .aria-label = Eliminar
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Te damos la bienvenida a { -smart-window-brand-name }
+aiwindow-firstrun-model-title = ¿Qué es importante para ti?
+aiwindow-firstrun-model-fast-label = Rápido
+aiwindow-firstrun-model-fast-body = Responde rápidamente
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexible
+aiwindow-firstrun-model-allpurpose-body = Se adapta perfectamente a la mayoría de las necesidades
+aiwindow-firstrun-model-personal-label = Personal
+aiwindow-firstrun-model-personal-body = Respuestas más personalizadas
+aiwindow-firstrun-button = Empecemos
+aiwindow-firstrun-back-button = Atrás
+aiwindow-firstrun-next-button = Siguiente
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Rápido
 
 ## Fullpage Footer Actions
 
