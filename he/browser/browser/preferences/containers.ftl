@@ -95,3 +95,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = הגדרות המגירה { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = הוספת מגירה חדשה
+containers-panel-create-button =
+    .label = סיום
+containers-panel-cancel-button =
+    .label = ביטול

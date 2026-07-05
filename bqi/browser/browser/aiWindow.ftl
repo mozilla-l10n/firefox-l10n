@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = پۊرسیڌن

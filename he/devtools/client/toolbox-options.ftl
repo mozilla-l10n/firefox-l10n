@@ -76,6 +76,11 @@ options-webconsole-split-console-label = הפעלת מסוף מפוצל
 options-webconsole-split-console-tooltip =
     .title = פתיחת המסוף המפוצל באמצעות מקש ה־Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = מנטר הרשת
+
 ## Style Editor section
 
 # The heading

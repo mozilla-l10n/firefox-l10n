@@ -1342,6 +1342,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = עזרו לנו לשפר את הווידג’טים
 newtab-sports-widget-message-survey-body = זהו, המונדיאל הסתיים. נשמח לשמוע מה חשבת על חווית השימוש בווידג’ט.
 newtab-sports-widget-message-survey-widget-title = איך היה הווידג’ט של המונדיאל?
+newtab-sports-widget-message-survey-widget-body = באפשרותך לשתף את המשוב שלך כדי לסייע לנו לשפר ווידג’טים עתידיים. אחרי זה ניתן לנסות את הווידג’ט החדש שברשימה.
+newtab-sports-widget-message-survey-cta =
+    .label = לקיחת סקר
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

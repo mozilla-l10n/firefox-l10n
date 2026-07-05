@@ -72,6 +72,8 @@ sidebar-settings =
     .label = הגדרות סרגל הצד
 sidebar-hide-tabs-and-sidebar =
     .label = הסתרת לשוניות וסרגל הכלים
+sidebar-open-tools-from-sidebar =
+    .label = פתיחת כלים מסרגל הצד
 sidebar-show-on-the-right =
     .label = העברת סרגל הצד לימין
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = חלון { $winID }
+sidebar-bookmarks-title = סימניות
 
 ## Context for closing synced tabs when hovering over the items
 
