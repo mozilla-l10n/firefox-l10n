@@ -80,6 +80,18 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Желі бақылаушысы
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Сұрау мен жауаптың негізгі мәтінінің максималды өлшемі (шектеусіз болуы үшін 0 орнатыңыз):
+options-netmonitor-body-limit-tooltip =
+    .title = Көрсетілген өлшемнен асатын сұрау немесе жауаптың негізгі мәтіндері Желі бақылаушысында көрсетілгенде немесе жүктеп алынғанда қысқартылады. Шектеуді алып тастау үшін 0 мәнін орнатыңыз.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Шектеусіз
+options-netmonitor-body-limit-button =
+    .title = Сұрау/жауаптың негізгі мәтінінің максималды өлшемін түзету.
+options-netmonitor-body-limit-restore-default =
+    .title = Сұрау/жауаптың негізгі мәтінінің максималды өлшемі үшін бастапқы мәнді қалпына келтіру.
+options-netmonitor-body-limit-set =
+    .title = Ағымдағы кіріс мәнін сұрау/жауаптың негізгі мәтінінің максималды өлшемі ретінде орнату.
 
 ## Style Editor section
 
