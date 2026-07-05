@@ -117,15 +117,32 @@ aiwindow-input-model-select-button-label-custom = Swójski
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Wužywajśo swójski LLM
 aiwindow-input-model-select-default-badge =
     .label = Standard
     .title = Wubrany standardny model
 aiwindow-input-model-select-settings-link = Modelowe nastajenja
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Wěcej wužytnych wótegronow, k wašym wuměnjenjam
+aiwindow-firstrun-memories-relevance-title = Wěcej relewantnych wótegronow
+aiwindow-firstrun-memories-privacy-title = Priwatny pó designje
+aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Pšašaś se
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Dopomnjeśa zmóžnjone
+    .tooltiptext = Wužywajśo dopomnjeśa we wótegronach, gaž to jo pomocne
+aiwindow-memories-off =
+    .aria-label = Dopomnjeśa znjemóžnjone
+    .tooltiptext = Njewužywajśo dopomnjeśa we wótegronach
 
 ## New Chat Button
 
@@ -153,6 +170,11 @@ smartwindow-footer-history =
     .label = Historija
     .aria-label = Historija
     .tooltiptext = Historija
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = KI móžo zmólki cyniś.
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
