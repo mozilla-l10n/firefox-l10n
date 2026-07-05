@@ -385,6 +385,9 @@ quickactions-addons = Паглядзець дадаткі
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = пашырэнні, тэмы, дадаткі, дапаўненні
+# Opens preferences page at AI controls
+quickactions-manageai = Кіраванне штучным інтэлектам
+quickactions-cmd-manageai = адключыць ші, выключыць ші, кіраваць ші
 quickactions-cmd-addons2 = дадаткі
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Кіраванне закладкамі
@@ -440,6 +443,9 @@ quickactions-cmd-print = друк
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Захаваць старонку як PDF
 quickactions-cmd-savepdf2 = pdf, захаваць старонку
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Адкрыць рэдактар PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Адкрыць прыватнае акно
 quickactions-cmd-private = прыватнае агляданне
@@ -927,6 +933,16 @@ urlbar-result-explanation-last-visited-absolute = Вы апошні раз на�
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Закладка зроблена { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Апошняе наведванне { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Апошняе наведванне { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

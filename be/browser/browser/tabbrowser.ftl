@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Змяніць памер картак падзеленага выгляду
+tab-devtools-splitter =
+    .aria-label = Змяніць памер паліцы прылад распрацоўшчыка
 
 ## Tooltips for tab audio control
 ## Variables:
