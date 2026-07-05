@@ -91,6 +91,8 @@ customkeys-conflict-confirm-body = 這組按鍵已被「{ $conflict }」使用�
 customkeys-conflict-confirm-button-confirm = 還是使用
 customkeys-conflict-confirm-button-cancel = 取消
 customkeys-reset-all-confirm-title = 確認要還原預設值嗎？
+customkeys-reset-all-confirm-body = 將移除所有您自訂的快速鍵。
+customkeys-reset-all-confirm-button-confirm = 還原預設值
 customkeys-reset-all-confirm-button-cancel = 取消
 
 ## Sidebar
@@ -103,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = 搜尋快速鍵
     .placeholder = 搜尋快速鍵
+customkeys-description = 控制您如何在 { -brand-short-name } 當中移動與互動。
 customkeys-support-link-text = 更多資訊
 customkeys-reset-all-button = 還原預設值

@@ -227,9 +227,12 @@ smart-window-confirm-close-tabs = 關閉 { $count } 個分頁
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = 已關閉分頁
+smartwindow-close-tab-callout-subtitle = 可隨時在瀏覽紀錄重新開啟分頁。
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = 要將{ -smart-window-brand-name }設為您的預設瀏覽模式嗎？
+smart-window-default-promo-message = { -brand-short-name } 將每次都使用{ -smart-window-brand-name }模式開啟。
 smart-window-default-promo-primary-button = 設為預設
 smart-window-default-promo-additional-button = 現在不要
 
@@ -249,3 +252,14 @@ aiwindow-feedback-reason-harmful-or-offensive = 有害或冒犯人
 aiwindow-feedback-reason-other = 其他
 aiwindow-feedback-preview-report = 檢視聊天內容的詳細資訊
 aiwindow-feedback-preview-report-with-page = 檢視聊天與頁面詳細資訊
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = 切換畫面配置
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = 切換模式：清單檢視
+    .tooltiptext = 清單檢視
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = 切換模式：格線檢視
+    .tooltiptext = 格線檢視

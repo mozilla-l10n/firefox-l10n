@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = 開啟分頁
 sidebar-options-menu-button =
     .title = 開啟選單
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = 調整側邊欄大小
 
 ## Labels for sidebar history panel
 

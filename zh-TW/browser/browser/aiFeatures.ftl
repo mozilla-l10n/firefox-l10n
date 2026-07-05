@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = 要封鎖{ -smart-window-brand-name }功能嗎？
+smart-window-block-description-both = 將刪除您在{ -smart-window-brand-name }的聊天內容與記憶。
+smart-window-block-description-chats = 將刪除您在{ -smart-window-brand-name }的聊天內容。
+smart-window-block-description-memories = 將刪除您{ -smart-window-brand-name }的記憶。
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =

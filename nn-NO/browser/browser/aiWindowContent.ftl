@@ -50,6 +50,12 @@ aiwindow-copy-table =
     .aria-label = Kopier tabell
     .tooltiptext = Kopier tabell
 aiwindow-table-scroll-indicator = Rull for å sjå meir
+aiwindow-thumbs-up =
+    .tooltiptext = Gi positiv tilbakemelding
+    .aria-label = Gi positiv tilbakemelding
+aiwindow-thumbs-down =
+    .tooltiptext = Gi negativ tilbakemelding
+    .aria-label = Gi negativ tilbakemelding
 aiwindow-applied-memories-popover =
     .aria-label = Minnepanel
 aiwindow-applied-memories-list =
@@ -58,6 +64,12 @@ aiwindow-applied-memories-list =
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
     .aria-label = Slett { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .tooltiptext = Gå til botnen
+    .aria-label = Gå til botnen av chatten
 
 ## Natural Language Action
 
@@ -74,8 +86,23 @@ smartwindow-nl-undo-button =
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Lét att { $count } fane
+       *[other] Lét att { $count } faner
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Ferdig! Faner attlatne.
+       *[other] Ferdig! Faner attlatne.
+    }
 smart-window-closed-tabs-row-label = Attlatne faner
 smart-window-closed-and-restored-label = Attlatne og gjenoppretta faner
+smart-window-restored-row-label =
+    { $count ->
+        [one] Gjenoppretta { $count } fane
+       *[other] Gjenoppretta { $count } faner
+    }
 smart-window-cancelled-label = Førespurnaden vart avbroten.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupper

@@ -57,3 +57,8 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox 實驗室
+-smart-window-brand-name =
+    { $plural-form ->
+        [true] 智慧視窗
+       *[false] 智慧視窗
+    }

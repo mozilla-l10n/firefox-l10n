@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = 隱私權
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = 股市
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link2 =
@@ -160,6 +163,15 @@ home-prefs-mission-message-learn-more-link-srd = 看看是如何達成的
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 更多資訊
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = 搜尋個股代碼
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = 隱藏股市資訊
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = 更多資訊
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -195,6 +207,7 @@ newtab-topsites-add-shortcut-label = 新增捷徑
 newtab-topsites-add-shortcut-title =
     .title = 新增捷徑
     .aria-label = 新增捷徑
+newtab-shortcuts-pinned-area = 釘選區域
 newtab-topsites-title-label = 標題
 newtab-topsites-title-input =
     .placeholder = 輸入標題
@@ -502,6 +515,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = 體育
 newtab-custom-widget-privacy-toggle =
     .label = 隱私權
+newtab-custom-widget-stocks-toggle =
+    .label = 股市
 newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具

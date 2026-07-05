@@ -436,6 +436,10 @@ onboarding-checklist-pin = 將 { -brand-short-name } 釘選到工具列
 onboarding-checklist-import = 從先前使用的瀏覽器匯入資料
 onboarding-checklist-extension = 新增擴充套件
 onboarding-checklist-sign-up = 註冊或登入帳號
+onboarding-checklist-minimize =
+    .label = 縮到最小
+onboarding-checklist-remove =
+    .label = 移除確認清單
 
 ## Tab Groups feature onboarding strings
 
