@@ -86,6 +86,10 @@ options-netmonitor-body-limit-label = Maximale Größe des Anfrage- und Antwortt
 options-netmonitor-body-limit-unlimited-label = Unbegrenzt
 options-netmonitor-body-limit-button =
     .title = Die maximale Größe des Anfrage-/Antwort-Inhalts bearbeiten.
+options-netmonitor-body-limit-restore-default =
+    .title = Den Standardwert für die maximale Größe des Anfrage-/Antwort-Inhalts wiederherstellen.
+options-netmonitor-body-limit-set =
+    .title = Aktuellen Eingabewert als maximale Größe des Anfrage-/Antwort-Inhalts setzen.
 
 ## Style Editor section
 
