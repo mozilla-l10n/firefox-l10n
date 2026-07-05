@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Activer la console scindée
 options-webconsole-split-console-tooltip =
     .title = Ouvrir la console scindée avec la touche Échap
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Moniteur réseau
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Taille maximale du corps des requêtes et de la réponse (défini à 0 pour illimité) :
+options-netmonitor-body-limit-tooltip =
+    .title = Les corps de requêtes ou de réponses qui dépassent la taille spécifiée seront tronqués lors de leur affichage ou de leur téléchargement dans le moniteur réseau. Défini à 0 pour qu’il n’y ait aucune limitation.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Illimité
+options-netmonitor-body-limit-button =
+    .title = Modifier la taille maximale pour le contenu d’une requête/réponse.
+options-netmonitor-body-limit-restore-default =
+    .title = Restaurer la valeur par défaut pour la taille maximale du corps d’une requête/réponse.
+options-netmonitor-body-limit-set =
+    .title = Définir la valeur d’entrée actuelle comme taille maximale pour le corps d’une requête/réponse.
+
 ## Style Editor section
 
 # The heading

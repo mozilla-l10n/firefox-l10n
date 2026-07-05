@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Paramètres du conteneur « { $name } »
     .style = min-width: 34em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Ajouter un nouveau contexte
+containers-panel-create-button =
+    .label = Terminé
+containers-panel-cancel-button =
+    .label = Annuler

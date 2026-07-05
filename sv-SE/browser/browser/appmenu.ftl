@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Logga in på ditt konto
+appmenuitem-monitor-title2 = Håll dig ett steg före identitetsstöld
+appmenuitem-monitor-description2 = Få varningar om dataintrång
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varningar om dataintrång
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Håll din e-post privat
+appmenuitem-relay-description2 = Hjälper till att förhindra skräppost i din inkorg
 appmenuitem-relay-description = Dölj din riktiga e-postadress och telefonnummer
 appmenuitem-services-relay-description = Starta översikten för e-postalias
+appmenuitem-vpn-title2 = Dölj din plats med { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Gör din surfning svårare att spåra
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få skydd för hela enheten
 appmenuitem-vpn-description = Skydda din onlineaktivitet
 appmenu-services-header = Mina tjänster
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Sekretessverktyg
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +335,18 @@ appmenu-manage-profiles =
     .label = Hantera profiler
 appmenu-copy-profile =
     .label = Kopiera den här profilen
+appmenu-create-profile2 =
+    .label = Skapa en ny profil
 appmenu-create-profile =
     .label = Ny profil
 appmenu-edit-profile =
     .aria-label = Redigera profil
+appmenu-edit-this-profile =
+    .label = Redigera den här profilen
+appmenu-profile-current-in-use = Aktuell profil som används
 appmenu-profiles-2 =
     .label = Profiler
+appmenu-profiles-header = Profiler
+appmenu-all-profiles =
+    .label = Alla profiler
+appmenu-secure-sync-header = Säker synkronisering

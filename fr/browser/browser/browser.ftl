@@ -385,6 +385,9 @@ quickactions-addons = Voir les modules
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = extensions, thèmes, modules, modules complémentaires
+# Opens preferences page at AI controls
+quickactions-manageai = Gérer les paramètres de l’IA
+quickactions-cmd-manageai = désactiver l’IA, désactiver l’IA, gérer l’IA
 quickactions-cmd-addons2 = modules complémentaires
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Organiser les marque-pages
@@ -923,6 +926,43 @@ urlbar-result-explanation-last-visited-absolute = Dernière visite le { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Ajouté aux marque-pages le { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Derniers visiteurs : { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Dernière visite il y a { $daysAgo } jours
+       *[other] Dernière visite il y a { $daysAgo } jours
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Dernière visite il y a { $weeksAgo } semaine
+       *[other] Dernière visite il y a { $weeksAgo } semaines
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Dernière visite il y a { $monthsAgo } mois
+       *[other] Dernière visite il y a { $monthsAgo } mois
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Derniers visiteurs : { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

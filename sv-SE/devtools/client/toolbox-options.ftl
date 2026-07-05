@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Aktivera delad konsol
 options-webconsole-split-console-tooltip =
     .title = Öppna delad konsol med Escape-tangenten
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Nätverksbevakning
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maximal förfrågan och svarstext (inställd till 0 för obegränsat):
+options-netmonitor-body-limit-tooltip =
+    .title = Förfrågningar eller svarsinnehåll som överskrider den angivna storleken kommer att trunkeras när de visas eller hämtas i Network Monitor. Sätt till 0 för att inte ha någon begränsning.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Obegränsat
+options-netmonitor-body-limit-button =
+    .title = Redigera den maximala förfrågan/svaret.
+options-netmonitor-body-limit-restore-default =
+    .title = Återställ standardvärdet för maximal begäran/svarstext.
+options-netmonitor-body-limit-set =
+    .title = Ställ in det aktuella inmatningsvärdet som maximal begäran/svarstext.
+
 ## Style Editor section
 
 # The heading

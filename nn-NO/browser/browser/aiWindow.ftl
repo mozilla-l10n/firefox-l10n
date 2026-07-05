@@ -305,3 +305,6 @@ aiwindow-ai-chat-grid-view-controls =
 aiwindow-ai-chat-grid-list-view =
     .aria-label = Bytt modus: Listevising
     .tooltiptext = Listevising
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Bytt modus: Rutenettvising
+    .tooltiptext = Rutenettvising

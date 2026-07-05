@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Inställningar för sidofält
 sidebar-hide-tabs-and-sidebar =
     .label = Dölj flikar och sidofält
+sidebar-open-tools-from-sidebar =
+    .label = Öppna verktyg från sidofält
 sidebar-show-on-the-right =
     .label = Flytta sidofältet till höger
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Fönster { $winID }
+sidebar-bookmarks-title = Bokmärken
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Paramètres du panneau latéral
 sidebar-hide-tabs-and-sidebar =
     .label = Masquer les onglets et le panneau latéral
+sidebar-open-tools-from-sidebar =
+    .label = Ouvrir les outils depuis le panneau latéral
 sidebar-show-on-the-right =
     .label = Déplacer le panneau latéral à droite
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Fenêtre { $winID }
+sidebar-bookmarks-title = Marque-pages
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -299,15 +299,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Connectez-vous à votre compte
+appmenuitem-monitor-title2 = Prenez une longueur d’avance sur l’usurpation d’identité
+appmenuitem-monitor-description2 = Recevez des alertes en cas de fuite de données
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recevez des alertes lors de fuites de données
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Gardez vos adresses électroniques privées
+appmenuitem-relay-description2 = Aide à empêcher les messages de spam dans votre boîte de réception
 appmenuitem-relay-description = Masquez votre véritable adresse e-mail et votre véritable numéro de téléphone
 appmenuitem-services-relay-description = Ouvrir le tableau de bord des alias de messagerie
+appmenuitem-vpn-title2 = Masquez votre localisation avec { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Rendez votre navigation plus difficile à tracer
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protégez l’intégralité de votre appareil
 appmenuitem-vpn-description = Protégez vos activités en ligne
 appmenu-services-header = Mes services
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Outils de confidentialité
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -321,9 +331,18 @@ appmenu-manage-profiles =
     .label = Gérer les profils
 appmenu-copy-profile =
     .label = Copier ce profil
+appmenu-create-profile2 =
+    .label = Créer un nouveau profil
 appmenu-create-profile =
     .label = Nouveau profil
 appmenu-edit-profile =
     .aria-label = Modifier le profil
+appmenu-edit-this-profile =
+    .label = Modifier ce profil
+appmenu-profile-current-in-use = Profil actuellement utilisé
 appmenu-profiles-2 =
     .label = Profils
+appmenu-profiles-header = Profils
+appmenu-all-profiles =
+    .label = Tous les profils
+appmenu-secure-sync-header = Synchronisation sécurisée
