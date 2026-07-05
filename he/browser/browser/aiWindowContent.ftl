@@ -144,6 +144,9 @@ action-log-reading-page = בתהליך קריאת הדף
 action-log-read-page = בוצעה קריאה של תוכן הדף
 action-log-searching-web = בתהליך חיפוש ברשת
 action-log-searched-web = בוצע חיפוש ברשת
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = בוצע חיפוש ברשת באמצעות Exa
 action-log-checking-memories = בתהליך בדיקת זכרונות
 action-log-checked-memories = בוצעה בדיקת זכרונות
 action-log-searching-settings = בתהליך חיפוש בהגדרות

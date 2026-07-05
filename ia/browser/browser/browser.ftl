@@ -920,6 +920,11 @@ urlbar-result-explanation-last-visited-absolute = Ultime visita fe { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Addite al marcapaginas le { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Ultime visita { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

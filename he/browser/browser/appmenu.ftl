@@ -302,6 +302,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = כניסה לחשבון שלך
+appmenuitem-monitor-title2 = להישאר צעד אחד קדימה במאבק נגד גניבת זהות
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = קבלת התרעות על דליפות נתונים
 appmenuitem-relay-title = { -relay-brand-short-name }

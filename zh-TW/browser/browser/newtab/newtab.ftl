@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = 股市
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = 每日一圖
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,16 @@ newtab-stocks-menu-search = 搜尋個股代碼
 newtab-stocks-menu-hide = 隱藏股市資訊
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 更多資訊
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = 每日一圖 · 維基共享資源
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = 管理背景圖
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = 更多資訊
 
 ## Search box component.
 
@@ -517,6 +530,8 @@ newtab-custom-widget-privacy-toggle =
     .label = 隱私權
 newtab-custom-widget-stocks-toggle =
     .label = 股市
+newtab-custom-widget-picture-toggle =
+    .label = 每日一圖
 newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具
@@ -1287,6 +1302,12 @@ newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 
 newtab-sports-widget-message-day-in-play-body = 關注足球世界盃，同時專注工作、追蹤各地時間與更多功能。
 newtab-sports-widget-message-explore-widgets-cta =
     .label = 探索小工具
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = 幫助我們讓小工具功能變得更好
+newtab-sports-widget-message-survey-cta =
+    .label = 填寫問卷
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

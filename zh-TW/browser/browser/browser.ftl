@@ -385,6 +385,9 @@ quickactions-addons = 檢視附加元件
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = 擴充套件, 佈景主題, 布景主題, 附加元件, 套件, 外掛, extensions, themes, addons, add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = 管理 AI 控制選項
+quickactions-cmd-manageai = 停用 AI, 關閉 AI, 管理 AI, disable ai, off ai, manage ai
 quickactions-cmd-addons2 = 附加元件, 套件, 外掛, add-ons, addons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理書籤

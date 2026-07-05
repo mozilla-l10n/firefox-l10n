@@ -343,3 +343,4 @@ appmenu-profiles-2 =
 appmenu-profiles-header = 設定檔
 appmenu-all-profiles =
     .label = 所有設定檔
+appmenu-secure-sync-header = 安全同步

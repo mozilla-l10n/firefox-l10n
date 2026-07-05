@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Actiones
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Imagine del die
 home-prefs-mission-message2 =
     .message = Nostre patrocinatores supporta nostre mission pro construer un web melior.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,14 @@ newtab-stocks-menu-search = Recercar symbolos de actiones
 newtab-stocks-menu-hide = Celar actiones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Pro saper plus
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Imagine del die · Wikimedia Commons
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Pro saper plus
 
 ## Search box component.
 
@@ -517,6 +528,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Confidentialitate
 newtab-custom-widget-stocks-toggle =
     .label = Actiones
+newtab-custom-widget-picture-toggle =
+    .label = Imagine del die
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
