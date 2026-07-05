@@ -126,6 +126,10 @@ aiwindow-firstrun-memories-privacy-title = 從設計就保護隱私
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name } 中的聊天功能
 aiwindow-firstrun-memories-update-settings = 可隨時到設定中更新。
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = 可隨時到設定中切換。
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
