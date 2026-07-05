@@ -91,6 +91,7 @@ customkeys-conflict-confirm-body = Denne hurtigtasten er allereie i bruk av «{ 
 customkeys-conflict-confirm-button-confirm = Bruk likevel
 customkeys-conflict-confirm-button-cancel = Avbryt
 customkeys-reset-all-confirm-title = Gjenopprette standardverdiar?
+customkeys-reset-all-confirm-body = Eventuelle tilpassa hurtigtastar du har oppretta, vil bli fjerna.
 customkeys-reset-all-confirm-button-confirm = Gjenopprett standardverdiar
 customkeys-reset-all-confirm-button-cancel = Avbryt
 
@@ -100,5 +101,9 @@ customkeys-sidebar =
     .aria-label = Sidestolpe
 customkeys-title-heading =
     .heading = Tastatursnarvegar
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Søk hurtigtastar
+    .placeholder = Søk hurtigtastar
 customkeys-support-link-text = Les meir
 customkeys-reset-all-button = Gjenopprett standardverdiar
