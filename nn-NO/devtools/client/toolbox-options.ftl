@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Enable Split Console
 options-webconsole-split-console-tooltip =
     .title = Open Split Console with the Escape Key
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Nettverksovervaking
+
 ## Style Editor section
 
 # The heading

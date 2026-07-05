@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Dette opnar behaldarmenyen kvar gong du trykkjer på knappen for å opne ei ny fane.
 containers-settings-button2 =
     .title = Innstillingar
+containers-remove-button3 =
+    .title = Slett
 containers-remove-button2 =
     .title = Fjern
 

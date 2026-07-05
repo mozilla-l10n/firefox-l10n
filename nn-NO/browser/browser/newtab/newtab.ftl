@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aksjar
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Dagens bilde
 home-prefs-mission-message2 =
     .message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,11 @@ newtab-stocks-menu-search = Søk etter aksjesymbol
 newtab-stocks-menu-hide = Skjul aksjar
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Les meir
+
+## Strings for the Picture of the Day widget
+
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Les meir
 
 ## Search box component.
 
@@ -520,6 +528,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Personvern
 newtab-custom-widget-stocks-toggle =
     .label = Aksjar
+newtab-custom-widget-picture-toggle =
+    .label = Dagens bilde
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar

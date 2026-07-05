@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Behaldarinstillingar for { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Legg til ny behaldar
+containers-panel-create-button =
+    .label = Ferdig
+containers-panel-cancel-button =
+    .label = Avbryt
