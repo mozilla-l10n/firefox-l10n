@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Бөлінген консольді і�
 options-webconsole-split-console-tooltip =
     .title = Бөлінген консольді Esc пернесімен ашу
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Желі бақылаушысы
+
 ## Style Editor section
 
 # The heading

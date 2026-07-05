@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Бұл жаңа бетті ашу батырмасын басқан сайын контейнерлер мәзірін ашады.
 containers-settings-button2 =
     .title = Баптаулар
+containers-remove-button3 =
+    .title = Өшіру
 containers-remove-button2 =
     .title = Өшіру
 
