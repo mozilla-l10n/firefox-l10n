@@ -62,11 +62,26 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Tato funkce je experimentální a nemusí fungovat podle očekávání.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Neplatný
+customkeys-shortcut-unassigned =
+    .placeholder = Přidat zkratku
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Zkratka pro: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Upravit
+    .tooltiptext = Upraví
 customkeys-key-clear =
     .aria-label = Vymazat
     .tooltiptext = Vymazat
+customkeys-key-reset =
+    .aria-label = Obnovit
+    .tooltiptext = Obnoví
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Stiskněte novou klávesu:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Odstranit další zkratku?

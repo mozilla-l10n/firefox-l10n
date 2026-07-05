@@ -768,10 +768,26 @@ pdfjs-digital-signature-properties-button-label = Proprietates del firma digital
 ## Variables:
 ##   $count (Number) - number of signatures at the worst level.
 
+pdfjs-digital-signature-properties-banner-verified = Le documento era firmate con un firma digital valide
 pdfjs-digital-signature-properties-banner-unknown =
     { $count ->
         [one] Documento firmate ma { $count } firma digital non poteva esser verificate
        *[other] Documento firmate ma { $count } firmas digital non poteva esser verificate
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Documento firmate con { $count } certificato que non es de fiducia
+       *[other] Documento firmate con { $count } certificatos que non es de fiducia
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Documento firmate con { $count } certificato expirate
+       *[other] Documento firmate con { $count } certificatos expirate
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Le documento ha { $count } firma digital non valide
+       *[other] Le documento ha { $count } firmas digital non valide
     }
 pdfjs-digital-signature-properties-banner-revoked =
     { $count ->
