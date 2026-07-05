@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = מניות
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = התמונה של היום
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,36 @@ newtab-stocks-menu-search = חיפוש סימולי מניות
 newtab-stocks-menu-hide = הסתרת מניות
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = מידע נוסף
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = התמונה של היום · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = הגדרת תמונת רקע
+    .title = הגדרת תמונת רקע
+    .aria-label = הגדרת התמונה של היום כתמונת הרקע שלך
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = ניהול תמונת רקע
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = הסתרת התמונה של היום
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = הצגת התמונה של היום
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = מידע נוסף
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = הצגת התמונה של היום
+    .aria-label = הצגת התמונה של היום
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = כדאי לחזור מחר לתמונה חדשה
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = תמונה של היום של Wikimedia Commons
 
 ## Search box component.
 
@@ -515,6 +548,8 @@ newtab-custom-widget-privacy-toggle =
     .label = פרטיות
 newtab-custom-widget-stocks-toggle =
     .label = מניות
+newtab-custom-widget-picture-toggle =
+    .label = התמונה של היום
 newtab-custom-widget-section-title = ווידג’טים
 newtab-custom-widget-section-toggle =
     .label = ווידג’טים

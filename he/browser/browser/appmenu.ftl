@@ -311,10 +311,15 @@ appmenuitem-relay-title2 = לשמור על הדוא״ל שלך אנונימי
 appmenuitem-relay-description2 = מסייע במניעת ספאם בתיבת הדואר הנכנס שלך
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
 appmenuitem-vpn-title2 = הסתרת המיקום שלך בעזרת { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = להפוך את הגלישה שלך לקשה יותר למעקב
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = קבלת הגנה על כל המכשיר
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך
 appmenu-services-header = השירותים שלי
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = כלי פרטיות
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -328,9 +333,18 @@ appmenu-manage-profiles =
     .label = ניהול פרופילים
 appmenu-copy-profile =
     .label = העתקת פרופיל זה
+appmenu-create-profile2 =
+    .label = יצירת פרופיל חדש
 appmenu-create-profile =
     .label = פרופיל חדש
 appmenu-edit-profile =
     .aria-label = עריכת פרופיל
+appmenu-edit-this-profile =
+    .label = עריכת פרופיל זה
+appmenu-profile-current-in-use = הפרופיל הנוכחי שבשימוש
 appmenu-profiles-2 =
     .label = פרופילים
+appmenu-profiles-header = פרופילים
+appmenu-all-profiles =
+    .label = כל הפרופילים
+appmenu-secure-sync-header = סנכרון מאובטח

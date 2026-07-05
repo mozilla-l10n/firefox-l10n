@@ -1331,6 +1331,11 @@ newtab-sports-widget-message-day-in-play-body = Følg VM, hald fokus på oppgåv
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Utforsk widgetar
 
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-cta =
+    .label = Ver med på undersøkinga
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with

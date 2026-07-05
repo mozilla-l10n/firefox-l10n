@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Accede a tu conto
+appmenuitem-monitor-title2 = Preveni le usurpation de identitate
+appmenuitem-monitor-description2 = Obtene avisos re violationes de datos
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obtener alertas de violation de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantene private tu e-mails
+appmenuitem-relay-description2 = Adjuta impedir spam in tu cassa de entrata
 appmenuitem-relay-description = Masca tu email e numero de telephono real
 appmenuitem-services-relay-description = Lancear le pannello de controlo del mascas de e-mail
+appmenuitem-vpn-title2 = Cela tu position con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Rende tu navigar plus ardue a traciar
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtene protection pro tote le apparato
 appmenuitem-vpn-description = Protege tu activitate online
 appmenu-services-header = Mi servicios
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Utensiles de confidentialitate
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -339,3 +349,4 @@ appmenu-profiles-2 =
 appmenu-profiles-header = Profilos
 appmenu-all-profiles =
     .label = Tote le profilos
+appmenu-secure-sync-header = Synchronisation secur
