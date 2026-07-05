@@ -819,6 +819,7 @@ pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Zertifika
 pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Zertifikat: Nicht vertrauenswürdiger Aussteller ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Zertifikat: Abgelaufen
 pdfjs-digital-signature-properties-certificate-expired-with-date = Zertifikat: Abgelaufen ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Zertifikat: Widerrufen
 
 ## Main menu for adding/removing signatures
 
