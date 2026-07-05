@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rosetta-translated-message = { -brand-short-name }가 Rosetta를 사용하여 실행 중이므로 성능이 떨어지고 배터리 수명이 단축될 수 있습니다.
+rosetta-translated-launch-without-rosetta = Rosetta 없이 실행하는 방법
