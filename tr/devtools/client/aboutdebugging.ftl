@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Çok işlemli araç kutusu
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Hedef tarayıcı için ana işlem ve içerik işlemleri
+about-debugging-message-error-icon =
+    .alt = Hata simgesi
+about-debugging-message-info-icon =
+    .alt = Bilgi simgesi
+about-debugging-message-warning-icon =
+    .alt = Uyarı simgesi
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Mesajı kapat

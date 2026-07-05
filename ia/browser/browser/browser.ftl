@@ -385,6 +385,9 @@ quickactions-addons = Vider le additivos
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = extensiones, themas, additivos
+# Opens preferences page at AI controls
+quickactions-manageai = Gerer controlos de IA
+quickactions-cmd-manageai = disactivar IA, extinguer IA, gerer IA
 quickactions-cmd-addons2 = additivos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gerer marcapaginas
@@ -920,6 +923,38 @@ urlbar-result-explanation-last-visited-absolute = Ultime visita fe { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Addite al marcapaginas le { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Ultime visita { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Ultime visita { $daysAgo } die retro
+       *[other] Ultime visita { $daysAgo } dies retro
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Ultime visita { $weeksAgo } septimana retro
+       *[other] Ultime visita { $weeksAgo } septimanas retro
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Ultime visita { $monthsAgo } mense retro
+       *[other] Ultime visita { $monthsAgo } menses retro
+    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

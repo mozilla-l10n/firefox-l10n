@@ -62,11 +62,47 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Bu özellik deneyseldir ve beklendiği gibi çalışmayabilir.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Geçersiz
+customkeys-shortcut-unassigned =
+    .placeholder = Kısayol ekle
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = { $keyLabel } kısayolu
+customkeys-key-edit =
+    .aria-label = Düzenle
+    .tooltiptext = Düzenle
 customkeys-key-clear =
     .aria-label = Temizle
     .tooltiptext = Temizle
+customkeys-key-reset =
+    .aria-label = Geri yükle
+    .tooltiptext = Geri yükle
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Yeni tuşa basın:
+
+## Confirmation dialogs
+
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Bu tuş “{ $conflict }” tarafından zaten kullanılıyor.
+customkeys-conflict-confirm-button-confirm = Yine de kullan
+customkeys-conflict-confirm-button-cancel = Vazgeç
+customkeys-reset-all-confirm-title = Varsayılanlar geri yüklensin mi?
+customkeys-reset-all-confirm-body = Oluşturduğunuz tüm özel klavye kısayolları kaldırılacaktır.
+customkeys-reset-all-confirm-button-confirm = Varsayılanları geri yükle
+customkeys-reset-all-confirm-button-cancel = Vazgeç
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Kenar çubuğu
+customkeys-title-heading =
+    .heading = Klavye kısayolları
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Kısayollarda ara
+    .placeholder = Kısayollarda ara
+customkeys-support-link-text = Daha fazla bilgi al
+customkeys-reset-all-button = Varsayılanları geri yükle
