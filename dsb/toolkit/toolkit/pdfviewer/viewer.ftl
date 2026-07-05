@@ -153,6 +153,19 @@ pdfjs-document-properties-linearized = Fast Web View:
 pdfjs-document-properties-linearized-yes = Jo
 pdfjs-document-properties-linearized-no = Ně
 pdfjs-document-properties-close-button = Zacyniś
+pdfjs-digital-signature-properties-view-certificate = Certifikat pokazaś
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Pśicyna: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Casowy kołk: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Print
 

@@ -308,10 +308,15 @@ appmenuitem-monitor-description = Dostańśo warnowanja wó datowych źěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskěrujśo swóju napšawdnu e-mailowu adresu a swój telefon
 appmenuitem-services-relay-description = Startujśo delu e-mailowych maskow
+appmenuitem-vpn-title2 = Schowajśo swójo stojnišćo z { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Wobstarajśo se šćit za ceły rěd
 appmenuitem-vpn-description = Šćitajśo swóju aktiwitu online
 appmenu-services-header = Móje słužby
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Rědy priwatnosći
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +330,18 @@ appmenu-manage-profiles =
     .label = Profile zastojaś
 appmenu-copy-profile =
     .label = Toś ten profil kopěrowaś
+appmenu-create-profile2 =
+    .label = Nowy profil załožyś
 appmenu-create-profile =
     .label = Nowy profil
 appmenu-edit-profile =
     .aria-label = Profil wobźěłaś
+appmenu-edit-this-profile =
+    .label = Toś ten profil wobźěłaś
+appmenu-profile-current-in-use = Aktualny profil se wužywa
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Wšykne profile
+appmenu-secure-sync-header = Wěsta synchronizacija

@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Nowy rejtarik
     .accesskey = N
+user-context-add-container =
+    .label = Nowy kontejner pśidaś
+    .accesskey = N
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

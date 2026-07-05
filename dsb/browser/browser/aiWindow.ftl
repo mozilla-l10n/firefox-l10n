@@ -242,6 +242,11 @@ smart-window-default-promo-additional-button = Nic něnto
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Měnjenje źěliś
+aiwindow-feedback-what-worked-well = Co jo derje funkcioněrowało? Žedne wósobinske informacije, pšosym.
+aiwindow-feedback-add-details = Pśidajśo drobnostki, jolic cośo. Žedne wósobinske informacije, pšosym.
 aiwindow-feedback-submit = Wótpósłaś
 aiwindow-feedback-cancel = Pśetergnuś
+aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst felujo
 aiwindow-feedback-reason-other = Druge
+aiwindow-feedback-preview-report = Chatowe drobnostki pokazaś
+aiwindow-feedback-preview-report-with-page = Drobnostki chata a boka pokazaś

@@ -128,6 +128,15 @@ smart-window-grouped-tabs-row-label = Zrědowane rejtariki
 action-log-searching-tabs = Rejtariki se pśepytuju
 action-log-searched-open-tabs = Wócynjone rejtariki pśepytane
 action-log-reading-page = Bok se cyta
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Pśecytane wopśimjeśe boka
+action-log-searching-web = Web pśepytaś
+action-log-searched-web = Web pśepytany
+action-log-checking-memories = Dopomnjeśa se pśeglěduju
+action-log-checked-memories = Pśeglědane dopomnjeśa
+action-log-searching-settings = Nastajenja pśepytaś
+action-log-searched-settings = Pśepytane nastajenja
+action-log-searching-world-cup-matches = Graśa swětowego mejstaŕstwa pytaś
 action-log-searched-world-cup-matches = Pśepytane graśa swětowego mejstaŕstwa
 action-log-checking-world-cup-live = Graśa live swětowego mejstaŕstwa wubraś
 action-log-checked-world-cup-live = Wubrane graśa live swětowego mejstaŕstwa
