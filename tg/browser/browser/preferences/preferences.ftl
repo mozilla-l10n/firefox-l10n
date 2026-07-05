@@ -600,7 +600,7 @@ applications-use-os-default =
         { PLATFORM() ->
             [macos] Истифодаи барномаи пешфарзи macOS
             [windows] Истифодаи барномаи пешфарзи Windows
-           *[other] Истифодаи барномаи пешфарзи низомӣ
+           *[other] Истифодаи барномаи пешфарзи низоми компютерӣ
         }
 applications-use-other =
     .label = Истифодаи дигар…
@@ -1515,7 +1515,7 @@ forms-windows-sso =
     .label = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
-windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низомӣ
+windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низоми компютерӣ
 
 ## OS Authentication dialog
 

@@ -56,7 +56,7 @@ mr1-onboarding-theme-header = Соҳиби он шавед
 mr1-onboarding-theme-subtitle = Намуди зоҳирии «{ -brand-short-name }»-ро бо мавзуи дилхоҳ иваз намоед.
 mr1-onboarding-theme-secondary-button-label = Ҳоло не
 # System theme uses operating system color settings
-mr1-onboarding-theme-label-system = Мавзуи низомӣ
+mr1-onboarding-theme-label-system = Мавзуи низоми компютерӣ
 mr1-onboarding-theme-label-light = Равшан
 mr1-onboarding-theme-label-dark = Торик
 # "Alpenglow" here is the name of the theme, and should be kept in English.
