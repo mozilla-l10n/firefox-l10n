@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } контейнерінің баптаулары
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Жаңа контейнерді қосу
+containers-panel-create-button =
+    .label = Дайын
+containers-panel-cancel-button =
+    .label = Бас тарту

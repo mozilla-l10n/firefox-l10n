@@ -160,6 +160,9 @@ action-log-reading-page = Парақты оқу
 action-log-read-page = Парақ мазмұнын оқу
 action-log-searching-web = Интернетте іздеу
 action-log-searched-web = Интернетте ізделді
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Интернет Exa арқылы ізделді
 action-log-checking-memories = Жадыны тексеру
 action-log-checked-memories = Жады тексерілді
 action-log-searching-settings = Баптауларда іздеу

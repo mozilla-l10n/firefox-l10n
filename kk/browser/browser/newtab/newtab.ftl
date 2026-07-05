@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Акциялар
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Осы күннің суреті
 home-prefs-mission-message2 =
     .message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,36 @@ newtab-stocks-menu-search = Тикерлерді іздеу
 newtab-stocks-menu-hide = Акцияларды жасыру
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Көбірек білу
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Күн суреті · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Тұсқағаз ретінде орнату
+    .title = Тұсқағаз ретінде орнату
+    .aria-label = Бүгінгі суретті тұсқағаз ретінде орнату
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Тұсқағазды басқару
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Бүгінгі суретті жасыру
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Бүгінгі суретті көрсету
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Көбірек білу
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Бүгінгі суретті көрсету
+    .aria-label = Бүгінгі суретті көрсету
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Жаңа суретті көру үшін ертең қайта келіңіз
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commons: күн суреті
 
 ## Search box component.
 
@@ -519,6 +552,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Жекелік
 newtab-custom-widget-stocks-toggle =
     .label = Акциялар
+newtab-custom-widget-picture-toggle =
+    .label = Осы күннің суреті
 newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер
@@ -1299,6 +1334,15 @@ newtab-sports-widget-message-day-in-play-title = Күніңізді { -brand-pro
 newtab-sports-widget-message-day-in-play-body = Әлем чемпионатын қадағалаңыз, тапсырманы орындаңыз, әлем бойынша уақытты бақылаңыз және т.б.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Виджеттерді шолу
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Бізге виджеттерді жақсартуға көмектесіңіз
+newtab-sports-widget-message-survey-body = Әлем чемпионаты аяқталды. Өз пікіріңізбен бөлісіңіз.
+newtab-sports-widget-message-survey-widget-title = Әлем чемпионаты виджеті қалай болды?
+newtab-sports-widget-message-survey-widget-body = Болашақ виджеттерді жақсартуға көмектесу үшін пікіріңізбен бөлісіңіз. Содан кейін тізіміңіздегі жаңасын пайдаланып көріңіз.
+newtab-sports-widget-message-survey-cta =
+    .label = Сауалнамадан өту
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

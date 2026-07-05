@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Тіркелгіңізге кіріңіз
+appmenuitem-monitor-title2 = Жеке деректерді ұрлаудан қорғану
+appmenuitem-monitor-description2 = Деректердің бұзылуы туралы ескертулер алу
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Деректерді бұзу туралы ескертулерді алу
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Эл. поштаңыздың жекелігін сақтаңыз
+appmenuitem-relay-description2 = Кіріс жәшігіңіздегі спамның алдын алуға көмектеседі
 appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
 appmenuitem-services-relay-description = Эл. пошта маскаларын бақылау тақтасын іске қосу
+appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } арқылы орналасуыңызды жасырыңыз
+appmenuitem-vpn-description3 = Интернетті шолуыңызды бақылауды қиындатыңыз
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Құрылғыны толығымен қорғауды алыңыз
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
 appmenu-services-header = Менің қызметтерім
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Жекелік сақтау саймандары
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +335,18 @@ appmenu-manage-profiles =
     .label = Профильдерді басқару
 appmenu-copy-profile =
     .label = Бұл профильді көшіру
+appmenu-create-profile2 =
+    .label = Жаңа профильді жасау
 appmenu-create-profile =
     .label = Жаңа профиль
 appmenu-edit-profile =
     .aria-label = Профильді түзету
+appmenu-edit-this-profile =
+    .label = Бұл профильді түзету
+appmenu-profile-current-in-use = Қазіргі қолданыстағы профиль
 appmenu-profiles-2 =
     .label = Профильдер
+appmenu-profiles-header = Профильдер
+appmenu-all-profiles =
+    .label = Барлық профильдер
+appmenu-secure-sync-header = Қауіпсіз синхрондау
