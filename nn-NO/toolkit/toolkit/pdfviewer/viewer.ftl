@@ -762,6 +762,24 @@ pdfjs-digital-signature-properties-button-label = Eigenskapar for digital signat
 
 pdfjs-digital-signature-properties-banner-verified = Dokumentet vart signert med ei gyldig digital signatur
 
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Status: Signatur stadfesta
+pdfjs-digital-signature-properties-status-invalid = Status: Signatur ugyldig
+pdfjs-digital-signature-properties-status-unknown = Status: Kan ikkje stadfeste (blir ikkje støtta)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-revoked = Sertifikat: Tilbakekalla
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
