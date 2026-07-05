@@ -384,6 +384,9 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = Հարմարեցված
     .accesskey = C
+preferences-colors-manage-button2 =
+    .label = Կառավարել գույները
+    .accesskey = C
 preferences-colors-header = Գույներ
 preferences-colors-description = Չեղարկել { -brand-short-name }-ի սկզբնադիր գույները տեքստի, կայքի խորքի և հղումների համար:
 preferences-colors-manage-button =
@@ -1531,6 +1534,9 @@ forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2348,3 +2354,6 @@ preferences-etp-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Մեկուսացնել միջկայքային թխուկները
+
+## Warnings section
+
