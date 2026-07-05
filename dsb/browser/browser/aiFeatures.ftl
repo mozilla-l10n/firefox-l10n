@@ -4,6 +4,9 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = { -smart-window-brand-name } blokěrowaś?
+smart-window-block-description-both = To chaty a dopomnjeśa wašych { -smart-window-brand-name } wulašujo.
+smart-window-block-description-chats = To chaty wašych { -smart-window-brand-name } wulašujo.
+smart-window-block-description-memories = To dopomnjeśa wašych { -smart-window-brand-name } wulašujo.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -31,6 +34,8 @@ smart-window-model-custom-name =
 smart-window-model-custom-url =
     .label = Kóńcny dypk modela
     .placeholder = Pśikład: http://localhost:11434/v1
+smart-window-model-custom-info =
+    .message = Gaž swójski model wužywaśo, se { -smart-window-brand-name } snaź kaž wócakany njefunkcioněrujo.
 smart-window-model-custom-more-link = Wěcej wó swójskich modelach
 smart-window-model-custom-save =
     .label = Składowaś
