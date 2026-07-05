@@ -303,10 +303,14 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = כניסה לחשבון שלך
 appmenuitem-monitor-title2 = להישאר צעד אחד קדימה במאבק נגד גניבת זהות
+appmenuitem-monitor-description2 = קבלת התרעות על דליפות נתונים
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = קבלת התרעות על דליפות נתונים
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = לשמור על הדוא״ל שלך אנונימי
+appmenuitem-relay-description2 = מסייע במניעת ספאם בתיבת הדואר הנכנס שלך
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
+appmenuitem-vpn-title2 = הסתרת המיקום שלך בעזרת { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = קבלת הגנה על כל המכשיר
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך

@@ -76,6 +76,13 @@ options-webconsole-split-console-label = Activar le consola dividite
 options-webconsole-split-console-tooltip =
     .title = Aperir le Consola scisse con le clave Esc
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor de rete
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Sin limite
+
 ## Style Editor section
 
 # The heading

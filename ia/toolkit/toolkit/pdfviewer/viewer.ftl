@@ -153,6 +153,27 @@ pdfjs-document-properties-linearized = Vista web rapide:
 pdfjs-document-properties-linearized-yes = Si
 pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Clauder
+pdfjs-digital-signature-properties-view-certificate = Vider le certificato
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Ration: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Data e hora: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Firma secundari ({ $count })
+       *[other] Firmas secundari ({ $count })
+    }
 
 ## Print
 
@@ -740,6 +761,8 @@ pdfjs-toggle-views-manager-button1 =
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
 pdfjs-digital-signature-properties-certificate-expired = Certificato: expirate
+pdfjs-digital-signature-properties-certificate-expired-with-date = Certificato: expirate ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Certificato: revocate
 
 ## Main menu for adding/removing signatures
 
