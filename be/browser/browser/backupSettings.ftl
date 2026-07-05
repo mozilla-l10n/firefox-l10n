@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Месцазнаходжанне
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (рэкамендуецца)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Выберыце месцазнаходжанне
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Выбраць…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Уключыць рэзервовае
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Узнікла праблема з выбранай вамі папкай рэзервовай копіі. Выберыце іншую папку і паспрабуйце зноў.
+turn-on-scheduled-backups-error-default-dir-denied = Нам не ўдалося атрымаць доступ да вашай папкі рэзервовай копіі. Паспрабуйце выбраць новае месцазнаходжанне.
 backup-error-file-system = У часе рэзервовага капіявання { -brand-short-name } узнікла праблема з выбранай вамі папкай рэзервовай копіі.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
