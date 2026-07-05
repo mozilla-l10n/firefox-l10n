@@ -303,11 +303,17 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Logg inn på kontoen din
+appmenuitem-monitor-title2 = Vær i forkant av identitetstyveri
+appmenuitem-monitor-description2 = Få varsler om datalekkasjer
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varsler om datalekkasjer
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Hold e-posten din privat
+appmenuitem-relay-description2 = Hjelper med å forhindre søppelpost (spam) i innboksen din
 appmenuitem-relay-description = Skjul din ekte e-postadresse og ditt telefonnummer
 appmenuitem-services-relay-description = Start oversikten for e-postalias
+appmenuitem-vpn-title2 = Skjul plasseringen din med { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Gjør surfingen din vanskeligere å spore
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få beskyttelse for hele enheten
 appmenuitem-vpn-description = Beskytt din nettaktivitet
