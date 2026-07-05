@@ -776,14 +776,50 @@ pdfjs-digital-signature-properties-button-label = Kajkosće digitalneje signatur
 ## Variables:
 ##   $count (Number) - number of signatures at the worst level.
 
-pdfjs-digital-signature-properties-banner-verified = Dokument  je so z płaćiwej digitalnej signaturu signował
+pdfjs-digital-signature-properties-banner-verified = Dokument je so z płaćiwej digitalnej signaturu signował
 pdfjs-digital-signature-properties-banner-unknown =
     { $count ->
-        [one] Dokument je so signował, ale { $count } digitalna signatura njeda so přepruwować
-        [two] Dokument je so signował, ale { $count } digitalnej signaturje njedatej so přepruwować
-        [few] Dokument je so signował, ale { $count } digitalne signatury njedachu so přepruwować
-       *[other] Dokument je so signował, ale { $count } digitalnych signaturow njeda so přepruwować
+        [one] Dokument je so signował, ale { $count } digitalna signatura njeda so wobkrućić
+        [two] Dokument je so signował, ale { $count } digitalnej signaturje njedatej so wobkrućić
+        [few] Dokument je so signował, ale { $count } digitalne signatury njedachu so wobkrućić
+       *[other] Dokument je so signował, ale { $count } digitalnych signaturow njeda so wobkrućić
     }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokument je z { $count } certifikatom signowany, kotremuž so njedowěrja
+        [two] Dokument je z { $count } certifikatomaj signowany, kotrymajž so njedowěrja
+        [few] Dokument je z { $count } certifikatami signowany, kotrymž so njedowěrja
+       *[other] Dokument je z { $count } certifikatami signowany, kotrymž so njedowěrja
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokument je z { $count } spadnjenym certifikatom signowany
+        [two] Dokument je z { $count } spadnjenymaj certifikatomaj signowany
+        [few] Dokument je z { $count } spadnjenymi certifikatami signowany
+       *[other] Dokument je z { $count } spadnjenymi certifikatami signowany
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokument ma { $count } njepłaćiwu digitalnu signaturu
+        [two] Dokument ma { $count } njepłaćiwej digitalnej signaturje
+        [few] Dokument ma { $count } njepłaćiwe digitalne signatury
+       *[other] Dokument ma { $count } njepłaćiwych digitalnych signaturow
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokument je z { $count } wotwołanym certifikatom signowany
+        [two] Dokument je z { $count } wotwołanymaj certifikatomaj signowany
+        [few] Dokument je z { $count } wotwołanymi certifikatami signowany
+       *[other] Dokument je z { $count } wotwołanymi certifikatami signowany
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Status: Signatura je wobkrućena
+pdfjs-digital-signature-properties-status-invalid = Status: Signatura je njepłaćiwa
 
 ## Main menu for adding/removing signatures
 
