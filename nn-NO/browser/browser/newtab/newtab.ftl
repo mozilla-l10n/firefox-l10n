@@ -199,6 +199,9 @@ newtab-picture-menu-learn-more = Les meir
 newtab-picture-show-button =
     .title = Vis dagens bilde
     .aria-label = Vis dagens bilde
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Dagens bilde frå Wikimedia Commons
 
 ## Search box component.
 
@@ -1333,6 +1336,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Hjelp oss med å gjere widgetane betre
+newtab-sports-widget-message-survey-widget-title = Korleis var VM-widgeten?
+newtab-sports-widget-message-survey-widget-body = Del tilbakemeldingane dine for å hjelpe oss med å gjere framtidige widgetar betre. Prøv deretter den nye i utvalet ditt.
 newtab-sports-widget-message-survey-cta =
     .label = Ver med på undersøkinga
 

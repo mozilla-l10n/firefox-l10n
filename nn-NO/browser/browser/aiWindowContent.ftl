@@ -160,6 +160,9 @@ action-log-reading-page = Les side
 action-log-read-page = Les sideinnhald
 action-log-searching-web = Søkjer på nettet
 action-log-searched-web = Søkte på nettet
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Søkte på nettet med Exa
 action-log-checking-memories = Sjekkar minne
 action-log-checked-memories = Sjekka minne
 action-log-searching-settings = Søkjer i innstillingar
