@@ -385,6 +385,9 @@ quickactions-addons = Просмотр дополнений
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = расширения, темы, дополнения
+# Opens preferences page at AI controls
+quickactions-manageai = Управление ИИ
+quickactions-cmd-manageai = отключить ии, выключить ии, управление ии
 quickactions-cmd-addons2 = дополнения
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управление закладками
@@ -928,6 +931,46 @@ urlbar-result-explanation-last-visited-absolute = Вы посещали посл
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Добавлено в закладки { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Последнее посещение { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Последнее посещение { $daysAgo } день назад
+        [few] Последнее посещение { $daysAgo } дня назад
+       *[many] Последнее посещение { $daysAgo } дней назад
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Последнее посещение { $weeksAgo } неделя назад
+        [few] Последнее посещение { $weeksAgo } недели назад
+       *[many] Последнее посещение { $weeksAgo } недель назад
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Последнее посещение { $monthsAgo } месяц назад
+        [few] Последнее посещение { $monthsAgo } месяца назад
+       *[many] Последнее посещение { $monthsAgo } месяцев назад
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Последнее посещение { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

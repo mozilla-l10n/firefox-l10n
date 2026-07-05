@@ -796,10 +796,10 @@ pdfjs-digital-signature-properties-banner-unknown =
     }
 pdfjs-digital-signature-properties-banner-untrusted =
     { $count ->
-        [one] Dokument je z { $count } certifikatom signowany, kotremuž so njedowěrja
-        [two] Dokument je z { $count } certifikatomaj signowany, kotrymajž so njedowěrja
-        [few] Dokument je z { $count } certifikatami signowany, kotrymž so njedowěrja
-       *[other] Dokument je z { $count } certifikatami signowany, kotrymž so njedowěrja
+        [one] Dokument je z { $count } certifikatom signowany, kotryž dowěry hódny njeje
+        [two] Dokument je z { $count } certifikatomaj signowany, kotrejž dowěry hódnej njejstej
+        [few] Dokument je z { $count } certifikatami signowany, kotrež dowěry hódne njejsu
+       *[other] Dokument je z { $count } certifikatami signowany, kotrež dowěry hódne njejsu
     }
 pdfjs-digital-signature-properties-banner-expired =
     { $count ->

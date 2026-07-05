@@ -166,6 +166,16 @@ pdfjs-digital-signature-properties-reason = Pśicyna: { $reason }
 # Variables:
 #   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
 pdfjs-digital-signature-properties-timestamp = Casowy kołk: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] { $count } pódsignatura
+        [two] { $count } pódsignaturje
+        [few] { $count } pódsignatury
+       *[other] { $count } pódsignaturow
+    }
 
 ## Print
 
@@ -760,6 +770,44 @@ pdfjs-new-badge-content = NOWY
 pdfjs-views-manager-waiting-for-file = Dataja se nagrawa…
 pdfjs-toggle-views-manager-button1 =
     .title = Boki zastojaś
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Kakosći digitalneje signatury
+    .aria-label = Kakosći digitalneje signatury
+pdfjs-digital-signature-properties-button-label = Kakosći digitalneje signatury
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokument jo se signěrował z płaśiweju digitalneju signaturu
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokument jo se signěrował, ale { $count } digitalna signatura njedajo se wobkšuśiś
+        [two] Dokument jo se signěrował, ale { $count } digitalnej signaturje njedajotej se wobkšuśiś
+        [few] Dokument jo se signěrował, ale { $count } digitalne signatury njedaju se wobkšuśiś
+       *[other] Dokument jo se signěrował, ale { $count } digitalnych signaturow njedajo se wobkšuśiś
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokument jo z { $count } certifikatom signěrowany, kótaryž njejo dowěry gódny
+        [two] Dokument jo z { $count } certifikatoma signěrowany, kótarejž njejstej dowěry gódnej
+        [few] Dokument jo z { $count } certifikatami signěrowany, kótarež njejsu dowěry gódne
+       *[other] Dokument jo z { $count } certifikatami signěrowany, kótarež njejsu dowěry gódne
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokument jo z { $count } spadnjonym certifikatom signěrowany
+        [two] Dokument jo z { $count } spadnjonyma certifikatoma signěrowany
+        [few] Dokument jo z { $count } spadnjonymi certifikatami signěrowany
+       *[other] Dokument jo z { $count } spadnjonymi certifikatami signěrowany
+    }
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.

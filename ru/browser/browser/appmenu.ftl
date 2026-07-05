@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Войдите в свой аккаунт
+appmenuitem-monitor-title2 = Защитите себя от кражи личных данных
+appmenuitem-monitor-description2 = Получайте оповещения об утечках данных
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Получайте уведомления об утечках данных
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Приватность вашей электронной почты
+appmenuitem-relay-description2 = Помогает предотвратить спам в вашем почтовом ящике
 appmenuitem-relay-description = Скройте свои настоящие электронную почту и телефон
 appmenuitem-services-relay-description = Запустить панель псевдонимов электронной почты
+appmenuitem-vpn-title2 = Скройте свое местоположение с помощью { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Усложните отслеживание вашего веб-сёрфинга
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Получите полную защиту устройства
 appmenuitem-vpn-description = Защитите свою активность в Интернете
 appmenu-services-header = Мои сервисы
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Инструменты приватности
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +335,18 @@ appmenu-manage-profiles =
     .label = Управление профилями
 appmenu-copy-profile =
     .label = Копировать этот профиль
+appmenu-create-profile2 =
+    .label = Создать новый профиль
 appmenu-create-profile =
     .label = Новый профиль
 appmenu-edit-profile =
     .aria-label = Редактировать профиль
+appmenu-edit-this-profile =
+    .label = Изменить этот профиль
+appmenu-profile-current-in-use = Текущий профиль используется
 appmenu-profiles-2 =
     .label = Профили
+appmenu-profiles-header = Профили
+appmenu-all-profiles =
+    .label = Все профили
+appmenu-secure-sync-header = Безопасная синхронизация
