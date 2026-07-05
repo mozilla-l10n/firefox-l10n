@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Größe von Tabs in geteilter Ansicht ändern
+tab-devtools-splitter =
+    .aria-label = Größe der Ansicht für Entwicklerwerkzeuge ändern
 
 ## Tooltips for tab audio control
 ## Variables:

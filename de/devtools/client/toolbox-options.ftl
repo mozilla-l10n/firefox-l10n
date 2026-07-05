@@ -76,6 +76,17 @@ options-webconsole-split-console-label = Zusätzliche Konsole aktivieren
 options-webconsole-split-console-tooltip =
     .title = Zusätzliche Konsole mit der Escape-Taste öffnen
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Netzwerkanalyse
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maximale Größe des Anfrage- und Antworttextes (wird für unlimitiert auf 0 gesetzt):
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Unbegrenzt
+options-netmonitor-body-limit-button =
+    .title = Die maximale Größe des Anfrage-/Antwort-Inhalts bearbeiten.
+
 ## Style Editor section
 
 # The heading
