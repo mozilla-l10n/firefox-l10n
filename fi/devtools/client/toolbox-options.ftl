@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Enable Split Console
 options-webconsole-split-console-tooltip =
     .title = Open Split Console with the Escape Key
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Network Monitor
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maximum request and response body size (set to 0 for unlimited):
+options-netmonitor-body-limit-tooltip =
+    .title = Request or response bodies which exceed the specified size will be truncated when displayed or downloaded in the Network Monitor. Set to 0 to have no limitation.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Unlimited
+options-netmonitor-body-limit-button =
+    .title = Edit the maximum request/response body size.
+options-netmonitor-body-limit-restore-default =
+    .title = Restore the default value for maximum request/response body size.
+options-netmonitor-body-limit-set =
+    .title = Set the current input value as maximum request/response body size.
+
 ## Style Editor section
 
 # The heading
@@ -114,6 +131,40 @@ options-sourceeditor-expandtab-label = Indent using spaces
 options-sourceeditor-tabsize-label = Tab size
 options-sourceeditor-keybinding-label = Keybindings
 options-sourceeditor-keybinding-default-label = Default
+
+## Local Mode section
+
+# The heading
+options-local-mode-label = Local Mode
+options-local-mode-only-work-locally = Local Mode only works locally and is disabled when debugging remote contexts
+options-local-mode-behavior = Local Mode allows you to load local files via https URL without any external dependency. The URLs can only be loaded from tabs with DevTools opened.
+options-local-mode-domain-label = Custom domain:
+options-local-mode-origin-input =
+    .placeholder = Origin for the local mapping
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = This origin conflicts with another existing mapping
+options-local-mode-origin-invalid = This origin is invalid
+options-local-mode-folder-label = Local folder:
+options-local-mode-choose-folder = Browse…
+    .title = Choose a local folder to serve this mapping
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Choose local mode folder for: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = This folder doesn’t exists, or is invalid.
+options-local-mode-toggle =
+    .title = Toggle this local mapping
+options-local-mode-toggle-enable = Enable
+options-local-mode-toggle-disable = Disable
+options-local-mode-navigate-to =
+    .title = Navigate to this mapping URL
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Do you want to remove “{ $mappingOrigin }” mapping?
+options-local-mode-new-mapping = Add a new local mapping
 
 ## Advanced section
 
