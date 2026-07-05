@@ -82,8 +82,16 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Monitor de rete
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maxime dimension de corpore del requesta e del responsa (definite a 0 pro illimitate):
+options-netmonitor-body-limit-tooltip =
+    .title = Le corpores de requesta o responsa que excede le dimension specificate sera truncate quando monstrate o discargate in Network Monitor. Pone lo a 0 pro non haber limitation.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Sin limite
+options-netmonitor-body-limit-button =
+    .title = Modifica le maxime dimension de corpore del requesta/responsa.
+options-netmonitor-body-limit-restore-default =
+    .title = Restaurar le valor predefinite pro maxime dimension de corpore del requesta/responsa.
+options-netmonitor-body-limit-set =
+    .title = Defini le actual valor de entrata como maxime dimension de corpore del requesta/responsa.
 
 ## Style Editor section
 

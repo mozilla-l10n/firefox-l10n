@@ -227,9 +227,15 @@ tabbrowser-customizemode-tab-title =
 tabbrowser-context-mute-tab =
     .label = Vypnout zvuk panelu
     .accesskey = u
+tabbrowser-context-mute-tab2 =
+    .label = Ztlumit
+    .accesskey = Z
 tabbrowser-context-unmute-tab =
     .label = Zapnout zvuk panelu
     .accesskey = u
+tabbrowser-context-unmute-tab2 =
+    .label = Zapnout zvuk
+    .accesskey = Z
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Vypnout zvuk panelů

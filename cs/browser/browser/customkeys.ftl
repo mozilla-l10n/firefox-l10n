@@ -86,3 +86,19 @@ customkeys-key-new =
 
 customkeys-conflict-confirm-title = Odstranit další zkratku?
 customkeys-conflict-confirm-button-confirm = Přesto použít
+customkeys-conflict-confirm-button-cancel = Zrušit
+customkeys-reset-all-confirm-button-confirm = Obnovit výchozí
+customkeys-reset-all-confirm-button-cancel = Zrušit
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Postranní lišta
+customkeys-title-heading =
+    .heading = Klávesové zkratky
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Vyhledat zkratky
+    .placeholder = Vyhledat zkratky
+customkeys-support-link-text = Zjistit více
+customkeys-reset-all-button = Obnovit výchozí

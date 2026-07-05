@@ -1452,6 +1452,8 @@ containers-add-button2 =
     .accesskey = P
 containers-settings-button2 =
     .title = Nastavení
+containers-remove-button3 =
+    .title = Smazat
 containers-remove-button2 =
     .title = Odebrat
 

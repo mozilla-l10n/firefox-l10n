@@ -107,7 +107,13 @@ smart-window-confirm-close-tab = Zavřít
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Panel byl zavřen
 
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Nastavit jako výchozí
+smart-window-default-promo-additional-button = Teď ne
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Sdílet zpětnou vazbu
 aiwindow-feedback-submit = Odeslat
 aiwindow-feedback-cancel = Zrušit
