@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Wótkaz w nowem { -smart-window-brand-name } wócyniś
+    .accesskey = k
 appmenuitem-new-ai-window =
     .label = Nowe { -smart-window-brand-name }
     .value = Nowe { -smart-window-brand-name }
@@ -16,11 +19,16 @@ menu-file-new-classic-window =
     .label = Nowe klasiske wokno
 menu-history-chats =
     .label = Chaty
+menu-history-chats-recent =
+    .label = Nejnowše chaty
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nowy rejtarik
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Woknowy typ
+    .tooltiptext = Mjazy inteligentnym a klasiskim woknom pśejś.
 ai-window-toggleview-switch-classic =
     .label = Klasiske wokno
     .value = Klasiske wokno
@@ -30,6 +38,9 @@ ai-window-toggleview-switch-classic-description =
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Pśi pśeglědowanju se pšašaś
+    .value = Pśi pśeglědowanju se pšašaś
 ai-window-toggleview-switch-private =
     .label = Priwatne wokno
 ai-window-toggleview-open-private =
@@ -43,20 +54,37 @@ aiwindow-input-cta-submit-label-chat = Pšašaś se
 aiwindow-input-cta-submit-label-navigate = Start
 aiwindow-input-cta-submit-label-search = Pytaś
 aiwindow-input-cta-submit-label-stop = Stoj
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Generěrowanje wótegrona jo se startowało
 aiwindow-input-cta-menu-label-chat = Pšašaś se
+aiwindow-input-cta-menu-label-navigate = K sedłoju
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Z { $searchEngineName } pytaś
 aiwindow-input-cta-menu-label-search-with = Pytaś z…
 aiwindow-input-cta-search-submenu-header = Pytaś
+aiwindow-input-cta-stop-button =
+    .title = Wótegrono zastajiś
+    .aria-label = Generěrowanje wótegrona zastajiś
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Pšašaś se, pytaś abo URL zapódaś
+smartbar-placeholder-hint-1 = Wužywajśo @, aby nejnowše rejtariki naspomnjeł…
+smartbar-placeholder-hint-2 = Pšašajśo se něcogo…
 smartbar-placeholder-hint-3 = Zapódajśo webadresu…
+smartbar-placeholder-hint-4 = Web pśepytaś…
 
 ## Mentions
 
 smartbar-mentions-list-no-results-label = Žedne wuslědki namakane
 smartbar-mentions-list-recent-tabs-label = Nejnowše rejtariki
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Rejtarik abo sedło pśidaś
+    .tooltiptext = Rejtarik abo sedło pśidaś
 
 ## Website Chip
 

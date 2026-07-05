@@ -111,4 +111,38 @@ smart-window-confirm-group-tabs =
         [few] { $count } rejtariki zrědowaś
        *[other] { $count } rejtarikow zrědowaś
     }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } rejtarik zrědowany
+        [two] { $count } rejtarika zrědowanej
+        [few] { $count } rejtariki zrědowane
+       *[other] { $count } rejtarikow zrědowane
+    }
 smart-window-grouped-tabs-row-label = Zrědowane rejtariki
+
+## Action log
+
+action-log-searching-tabs = Rejtariki se pśepytuju
+action-log-searched-open-tabs = Wócynjone rejtariki pśepytane
+action-log-searched-world-cup-matches = Pśepytane graśa swětowego mejstaŕstwa
+action-log-checking-world-cup-live = Graśa live swětowego mejstaŕstwa wubraś
+action-log-checked-world-cup-live = Wubrane graśa live swětowego mejstaŕstwa
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] { $count } kšac dokóńcony
+        [two] { $count } kšaca dokóńconej
+        [few] { $count } kšace dokóńcone
+       *[other] { $count } kšacow dokóńcone
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Pytańske wuslědki su se zacytali w toś tom rejtariku. Analyzěrujo se…
