@@ -105,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Søk hurtigtastar
     .placeholder = Søk hurtigtastar
+customkeys-description = Styr korleis du bevegar deg rundt og samhandlar med { -brand-short-name }.
 customkeys-support-link-text = Les meir
 customkeys-reset-all-button = Gjenopprett standardverdiar

@@ -7,6 +7,9 @@ smart-window-block-title = Blokkere { -smart-window-brand-name }?
 smart-window-block-description-both = Dette vil slette chattane og minna dine i { -smart-window-brand-name }.
 smart-window-block-description-chats = Dette vil slette chattane dine i { -smart-window-brand-name }.
 smart-window-block-description-memories = Dette vil slette minna dine i { -smart-window-brand-name }.
+ai-window-features-group =
+    .label = { -smart-window-brand-name }
+    .description = Still spørsmål, samanlikn sider og få personlege forslag med ein innebygd assistent.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -17,6 +20,15 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Standardinnstillingar
+ai-window-is-default-window =
+    .label = Bruk { -smart-window-brand-name } som standard
+    .description = Opne { -smart-window-brand-name } når { -brand-short-name } startar, startar på nytt eller opnar lenker frå andre appar.
+ai-window-open-sidebar =
+    .label = Opne assistenten automatisk
+    .description = Vis sidepanelet for assistenten på kvar nye fane. Lat det att når som helst.
+smart-window-model-section =
+    .label = Assistentmodell
+    .description = Vel ein modell basert på det som er viktigast for deg.
 smart-window-model-learn-link = Les om modellar
 
 ## Variables:
