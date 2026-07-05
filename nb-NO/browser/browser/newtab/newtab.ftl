@@ -199,6 +199,11 @@ newtab-picture-menu-learn-more = Les mer
 newtab-picture-show-button =
     .title = Vis dagens bilde
     .aria-label = Vis dagens bilde
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Sjekk tilbake i morgen for et nytt bilde
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Dagens bilde fra Wikimedia Commons
 
 ## Search box component.
 
@@ -548,6 +553,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Personvern
 newtab-custom-widget-stocks-toggle =
     .label = Aksjer
+newtab-custom-widget-picture-toggle =
+    .label = Dagens bilde
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
@@ -1324,6 +1331,15 @@ newtab-sports-widget-message-day-in-play-title = Hold dagen i gang med widgeter 
 newtab-sports-widget-message-day-in-play-body = Følg VM, hold fokus på oppgavene dine, følg tiden rundt om i verden og mer.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Utforsk widgeter
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Hjelp oss med å gjøre widgeter bedre
+newtab-sports-widget-message-survey-body = Det var det for VM. Del gjerne tilbakemeldingen din om opplevelsen.
+newtab-sports-widget-message-survey-widget-title = Hvordan var VM-widgeten?
+newtab-sports-widget-message-survey-widget-body = Del tilbakemeldingen din for å hjelpe oss med å forbedre fremtidige widgeter. Prøv deretter den nye widgeten i samlingen din.
+newtab-sports-widget-message-survey-cta =
+    .label = Delta i undersøkelsen
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

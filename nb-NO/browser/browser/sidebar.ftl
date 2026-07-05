@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Innstillinger for sidestolpe
 sidebar-hide-tabs-and-sidebar =
     .label = Skjul faner og sidestolpe
+sidebar-open-tools-from-sidebar =
+    .label = Åpne verktøy fra sidestolpen
 sidebar-show-on-the-right =
     .label = Flytt sidestolpe til høyre
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Vindu { $winID }
+sidebar-bookmarks-title = Bokmerker
 
 ## Context for closing synced tabs when hovering over the items
 
