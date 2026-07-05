@@ -385,6 +385,8 @@ quickactions-addons = Přidatki pokazać
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = rozšerjenja, drasty, přidatki
+# Opens preferences page at AI controls
+quickactions-manageai = Wodźenske elementy KI rjadować
 quickactions-cmd-addons2 = přidatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Zapołožki rjadować
@@ -937,6 +939,11 @@ urlbar-result-explanation-last-visited-absolute = Posledni wopyt dnja { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Je so { $date } jako zapołožka składował
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Posledni wopyt { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
