@@ -254,6 +254,9 @@ preferences-web-appearance-override-warning = Tha na dathan a thagh thu a’ tar
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Stiùirich ùrlaran { -brand-short-name } ann an roghainnean nan <a data-l10n-name="themes-link">leudachan ⁊ ùrlaran</a>
+preferences-colors-manage-button2 =
+    .label = Stiùirich na dathan
+    .accesskey = c
 preferences-colors-header = Dathan
 preferences-colors-description = Tar-àithn na dathan bunaiteach aig { -brand-short-name } a thaobh teacsa, cùlaibhean làraichean-lìn is ceanglaichean.
 preferences-colors-manage-button =
@@ -478,6 +481,15 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -539,6 +551,9 @@ browsing-cfr-recommendations-learn-more = Barrachd fiosrachaidh
 browsing-group =
     .label = A' brabhsadh
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Roghainnean an lìonraidh
@@ -590,6 +605,12 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -788,6 +809,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -977,6 +1003,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Barrachd fiosrachaidh
 forms-windows-sso-desc = Stiùirich na cunntasan ann an roghainnean an uidheim agad
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -987,6 +1016,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1305,6 +1337,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Seall obair-rannsachaidh { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1411,8 +1446,26 @@ preferences-doh-manage-exceptions =
     .label = Stiùirich na h-eisgeachdan…
     .accesskey = S
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deasg
 downloads-folder-name = Luchdaidhean a-nuas
 choose-download-folder-title = Tagh pasgan nan luchdaidhan a-nuas:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
