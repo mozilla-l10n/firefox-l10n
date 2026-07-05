@@ -346,3 +346,6 @@ appmenu-profile-current-in-use = Dieses Profil wird derzeit verwendet
 appmenu-profiles-2 =
     .label = Profile
 appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Alle Profile
+appmenu-secure-sync-header = Sichere Synchronisierung

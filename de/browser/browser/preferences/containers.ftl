@@ -97,3 +97,8 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Einstellungen für Umgebung "{ $name }"
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-cancel-button =
+    .label = Abbrechen
