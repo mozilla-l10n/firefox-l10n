@@ -120,6 +120,9 @@ action-log-reading-page = 페이지 읽는 중
 action-log-read-page = 페이지 내용 읽기
 action-log-searching-web = 웹 검색 중
 action-log-searched-web = 웹 검색됨
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Exa로 웹 검색됨
 action-log-checking-memories = 기억 기능 확인 중
 action-log-checked-memories = 기억 기능 확인됨
 action-log-searching-settings = 설정 검색 중
