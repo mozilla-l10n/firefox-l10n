@@ -96,6 +96,7 @@ permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім 
 permissions-exceptions-shutdown-clearing-window =
     .title = Выключэнні - Ачышчэнне гісторыі пры выхадзе
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Вы можаце вызначыць, якія сайты будуць захоўваць свае дадзеныя, калі { -brand-short-name } ачышчае гісторыю па закрыцці. Увядзіце дакладны адрас сайта, які хочаце дадаць, і націсніце Дазволіць.
 
 ## Exceptions - HTTPS-Only Mode
 
