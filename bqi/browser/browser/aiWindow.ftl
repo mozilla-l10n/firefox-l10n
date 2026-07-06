@@ -40,22 +40,34 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = بپۊرسین، بپیتینین یا ی نشۊوی بزنین
+smartbar-placeholder-hint-1 = سی اشاره و بلگه یل هیم دمۊوی، @ ن و کار بگیرین…
 smartbar-placeholder-hint-2 = هر چ دلت اخو بپورس…
 smartbar-placeholder-hint-3 = نشۊوی وبگه ن بزنین…
 smartbar-placeholder-hint-4 = پیتینیڌن من وب…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = ی بلگه یا وبگه ن تگ کۊنین
 smartbar-mentions-list-no-results-label = نتیجه ای نجوست
 smartbar-mentions-list-recent-tabs-label = بلگه یل هیم دمۊوی
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = ٱووردن ی بلگه یا وبگه
+    .tooltiptext = ٱووردن ی بلگه یا وبگه
+
 ## Website Chip
 
+aiwindow-website-chip-placeholder = ی بلگه یا وبگه ن تگ کۊنین
+aiwindow-website-chip-history-deleted = ویرگار پاک وابی
 aiwindow-website-chip-remove-button =
     .aria-label = پاک کردن
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = و { -smart-window-brand-name } خش ٱوۊڌین
+aiwindow-firstrun-model-title = چ چیه سی ایسا موهم هڌ؟
 aiwindow-firstrun-model-fast-label = زل
 aiwindow-firstrun-button = بزن ریویم
 aiwindow-firstrun-back-button = وورگشتن
