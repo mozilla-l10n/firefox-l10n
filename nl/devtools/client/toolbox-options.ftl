@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Gesplitste console inschakelen
 options-webconsole-split-console-tooltip =
     .title = Gesplitste console openen met de Escape-toets
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Netwerkmonitor
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maximale grootte van verzoek en antwoord (stel in op 0 voor onbeperkt):
+options-netmonitor-body-limit-tooltip =
+    .title = Verzoek- of antwoordteksten die de opgegeven grootte overschrijden, worden ingekort bij weergeven of downloaden in de Netwerkmonitor. Stel in op 0 om geen beperking te hebben.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Onbeperkt
+options-netmonitor-body-limit-button =
+    .title = De maximale verzoek-/antwoordtekstgrootte bewerken.
+options-netmonitor-body-limit-restore-default =
+    .title = De standaardwaarde voor maximale verzoek-/antwoordtekstgrootte herstellen.
+options-netmonitor-body-limit-set =
+    .title = Stel de huidige invoerwaarde in als maximale verzoek-/antwoordtekstgrootte.
+
 ## Style Editor section
 
 # The heading

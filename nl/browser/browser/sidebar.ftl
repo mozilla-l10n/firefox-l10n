@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Zijbalkinstellingen
 sidebar-hide-tabs-and-sidebar =
     .label = Tabbladen en zijbalk verbergen
+sidebar-open-tools-from-sidebar =
+    .label = Hulpmiddelen vanuit zijbalk openen
 sidebar-show-on-the-right =
     .label = Zijbalk naar rechts verplaatsen
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Venster { $winID }
+sidebar-bookmarks-title = Bladwijzers
 
 ## Context for closing synced tabs when hovering over the items
 
