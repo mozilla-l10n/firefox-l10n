@@ -181,6 +181,7 @@ sidebar-panel-header-close-button =
 sidebar-customize-title = Приспособяване на страничната лента
 sidebar-history-title = История
 sidebar-syncedtabs-title = Раздели от други устройства
+sidebar-bookmarks-title = Отметки
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Εμφάνιση διαχωρισμέν
 options-webconsole-split-console-tooltip =
     .title = Άνοιγμα διαχωρισμένης κονσόλας με το πλήκτρο Esc
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Εποπτεία δικτύου
+
 ## Style Editor section
 
 # The heading

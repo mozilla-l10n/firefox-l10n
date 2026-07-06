@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Това ще отвори менюто на контейнерите всеки път, когато натиснете бутона за отваряне на нов раздел.
 containers-settings-button2 =
     .title = Настройки
+containers-remove-button3 =
+    .title = Изтриване
 containers-remove-button2 =
     .title = Премахване
 

@@ -315,6 +315,10 @@ appmenu-services-header = Οι υπηρεσίες μου
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Εργαλεία απορρήτου
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Δοκιμάστε άλλα εργαλεία προστασίας από τη Mozilla:
 appmenu-other-protection-header = Δοκιμάστε άλλα εργαλεία προστασίας από τη { -vendor-short-name }:
 
@@ -325,9 +329,17 @@ appmenu-manage-profiles =
     .label = Διαχείριση προφίλ
 appmenu-copy-profile =
     .label = Αντιγραφή προφίλ
+appmenu-create-profile2 =
+    .label = Δημιουργία νέου προφίλ
 appmenu-create-profile =
     .label = Νέο προφίλ
 appmenu-edit-profile =
     .aria-label = Επεξεργασία προφίλ
+appmenu-edit-this-profile =
+    .label = Επεξεργασία προφίλ
 appmenu-profiles-2 =
     .label = Προφίλ
+appmenu-profiles-header = Προφίλ
+appmenu-all-profiles =
+    .label = Όλα τα προφίλ
+appmenu-secure-sync-header = Ασφαλής συγχρονισμός

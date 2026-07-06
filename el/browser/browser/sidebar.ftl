@@ -241,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Παράθυρο { $winID }
+sidebar-bookmarks-title = Σελιδοδείκτες
 
 ## Context for closing synced tabs when hovering over the items
 

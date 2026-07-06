@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Το μενού θεματικών ενοτήτων θα ανοίγει κάθε φορά που επιλέγετε το κουμπί ανοίγματος νέας καρτέλας.
 containers-settings-button2 =
     .title = Ρυθμίσεις
+containers-remove-button3 =
+    .title = Διαγραφή
 containers-remove-button2 =
     .title = Αφαίρεση
 

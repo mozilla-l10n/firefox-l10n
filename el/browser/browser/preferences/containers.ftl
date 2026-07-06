@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
     .style = min-width: 35em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Προσθήκη νέας θεματικής ενότητας
+containers-panel-create-button =
+    .label = Τέλος
+containers-panel-cancel-button =
+    .label = Ακύρωση
