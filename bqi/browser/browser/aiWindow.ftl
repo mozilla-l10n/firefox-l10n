@@ -99,6 +99,34 @@ aiwindow-input-model-select-settings-link = سامووا مودل
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = جواوا مۊفیدتر، و ری شرایت ایسا
+aiwindow-firstrun-memories-conversation-title = گوفت وو لوفت ن وا پؽش بوورین
+aiwindow-firstrun-memories-relevance-title = جواوا ی جۊر تر
+aiwindow-firstrun-memories-privacy-title = تراهی سیخومی
+aiwindow-firstrun-memories-checkbox-chats = چتا من { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = گشتن من { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = هر سا ک خاستین من سامووا ورۊ رسۊوی کۊنین.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-label = هی { -brand-product-name } ن من { -smart-window-brand-name } بۊگۊشین
+aiwindow-firstrun-default-checkbox-description = سامووا ن هر سا خاستین آلشت کۊنین
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = پۊرسیڌن
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = چت نۊ
+    .tooltiptext = چت نۊ
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = بستن
+    .tooltiptext = بستن
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
