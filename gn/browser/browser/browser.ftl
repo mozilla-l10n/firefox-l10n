@@ -955,8 +955,8 @@ urlbar-result-explanation-last-visited-weeks-2 =
 #   $monthsAgo (number) - The number of months ago
 urlbar-result-explanation-last-visited-months-2 =
     { $monthsAgo ->
-        [one] Eikeramoveha ha’e { $weeksAgo } peteĩ jasy
-       *[other] Eikeramoveha ha’e { $weeksAgo } heta jasy
+        [one] Eikeramoveha ha’e { $monthsAgo } peteĩ jasy
+       *[other] Eikeramoveha ha’e { $monthsAgo } heta jasy
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
