@@ -132,6 +132,8 @@ aiwindow-input-model-select-settings-link = Techarã ñemboheko
 aiwindow-firstrun-memories-conversation-title = Eike eñe’ẽ hag̃ua ore ndive
 aiwindow-firstrun-memories-relevance-title = Mbohovái iporãvéva
 aiwindow-firstrun-memories-privacy-title = Iñemi moha’ãnga rupi
+aiwindow-firstrun-memories-choose-label = Eiporavo moõpa eikuaáta { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Echatea { -smart-window-brand-name } ndive
 
 ## Firstrun set as default onboarding
 

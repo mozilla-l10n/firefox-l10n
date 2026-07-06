@@ -150,6 +150,9 @@ action-log-reading-page = Kuatiarogue moñe’ẽrã
 action-log-read-page = Emoñe’ẽ kuatiarogue retepy
 action-log-searching-web = Eheka ñandutípe
 action-log-searched-web = Aheka ñandutípe
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Aheka ñandutípe Exa ndive
 action-log-checking-memories = Ahechahína mandu’arã
 action-log-checked-memories = Mandu’arã hechajeypyre
 action-log-searching-settings = Jehekakue ñemboheko
