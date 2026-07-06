@@ -171,8 +171,8 @@ pdfjs-digital-signature-properties-timestamp = חותמת זמן: { DATETIME($da
 #                     incremental revision of the document).
 pdfjs-digital-signature-properties-sub-signatures =
     { $count ->
-        [one] חתימת משנה ({ NUMBER($count) })
-       *[other] חתימות משנה ({ NUMBER($count) })
+        [one] חתימת משנה ({ $count })
+       *[other] חתימות משנה ({ $count })
     }
 
 ## Print
@@ -772,22 +772,22 @@ pdfjs-digital-signature-properties-banner-verified = המסמך נחתם בחת�
 pdfjs-digital-signature-properties-banner-unknown =
     { $count ->
         [one] המסמך חתום אך לא ניתן היה לאמת חתימה דיגיטלית אחת
-       *[other] המסמך חתום אך לא ניתן היה לאמת { NUMBER($count) } חתימות דיגיטליות
+       *[other] המסמך חתום אך לא ניתן היה לאמת { $count } חתימות דיגיטליות
     }
 pdfjs-digital-signature-properties-banner-untrusted =
     { $count ->
         [one] המסמך חתום עם אישור אחד שאינו מהימן
-       *[other] המסמך חתום עם { NUMBER($count) } אישורים שאינם מהימנים
+       *[other] המסמך חתום עם { $count } אישורים שאינם מהימנים
     }
 pdfjs-digital-signature-properties-banner-expired =
     { $count ->
         [one] המסמך חתום עם אישור אחד שפג תוקפו
-       *[other] המסמך חתום עם { NUMBER($count) } אישורים שפג תוקפם
+       *[other] המסמך חתום עם { $count } אישורים שפג תוקפם
     }
 pdfjs-digital-signature-properties-banner-invalid =
     { $count ->
         [one] למסמך יש חתימה דיגיטלית אחת שאינה תקינה
-       *[other] למסמך יש { NUMBER($count) } חתימות דיגיטליות שאינן תקינות
+       *[other] למסמך יש { $count } חתימות דיגיטליות שאינן תקינות
     }
 pdfjs-digital-signature-properties-banner-revoked =
     { $count ->
