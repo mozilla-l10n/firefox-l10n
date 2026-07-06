@@ -1202,7 +1202,7 @@ newtab-sports-widget-upcoming = À venir
 # Used for a match currently ongoing
 newtab-sports-widget-now = Maintenant
 newtab-sports-widget-results = Résultats
-newtab-sports-widget-semi-finals = Demi-finale
+newtab-sports-widget-semi-finals = Demi-finales
 newtab-sports-widget-bronze-finals = Petite finale
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
