@@ -154,7 +154,7 @@ aiwindow-firstrun-default-checkbox-description = Modifiez ce choix à tout momen
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
-    .label = Demander
+    .label = Poser une question
 
 ## Memories toggle button
 
