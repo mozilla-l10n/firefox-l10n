@@ -22,3 +22,16 @@ smart-window-model-learn-link = زبار مودلا دووسته بۊین
 
 smart-window-model-custom-save =
     .label = زفت
+smart-window-model-custom-save-confirmation = جۊزعیات مودل زفت وابی. سی آزمایش، بنین پا ی چت نۊ.
+ai-window-manage-memories-button =
+    .label = دؽوۉداری خاترات
+ai-window-delete-all-memories-button =
+    .label = پاک کردن پوی
+ai-window-delete-all-memories-title = پاک کردن پوی خاترات؟
+ai-window-delete-all-memories-confirm = پاک کردن
+ai-window-delete-all-memories-cancel = لقو
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = پاک کردن ویرگه
+    .aria-label = پاک کردن { $label }

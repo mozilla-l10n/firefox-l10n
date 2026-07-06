@@ -21,8 +21,40 @@ smartwindow-retry-btn = Аз нав кӯшиш кардан
 smartwindow-clear-btn = Суҳбати нав
 smartwindow-signin-btn = Ворид шудан
 
+## Assistant Message footer
+
+aiwindow-retry-without-memories =
+    .label = Бе ёддоштҳо аз нав кӯшиш кардан
+aiwindow-retry =
+    .aria-label = Аз нав кӯшиш кардан
+    .tooltiptext = Аз нав кӯшиш кардан
+aiwindow-copy-message =
+    .aria-label = Нусха бардоштани паём
+    .tooltiptext = Нусха бардоштан
+aiwindow-copy-table =
+    .aria-label = Нусха бардоштани ҷадвал
+    .tooltiptext = Нусха бардоштани ҷадвал
+aiwindow-table-scroll-indicator = Барои дидани маълумоти бештар, ҳаракат кунед
+aiwindow-applied-memories-popover =
+    .aria-label = Лавҳаи ёддоштҳо
+aiwindow-applied-memories-list =
+    .aria-label = Ёддоштҳо
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Нест кардани «{ $summary }»
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Аз нав кӯшиш кардан
+smartwindow-nl-undo-button =
+    .label = Бекор кардан
+
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-row-label = Варақаҳои пӯшидашуда
+smart-window-closed-and-restored-label = Варақаҳои пӯшидашуда ва барқароршуда
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Гурӯҳ

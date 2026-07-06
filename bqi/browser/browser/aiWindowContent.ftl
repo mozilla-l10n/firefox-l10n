@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = پیوما چت { -smart-window-brand-name }
+
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } برچسب
+       *[other] { $tags } برچسب
+    }
+
+## Error messages in the chat content
+
+smartwindow-assistant-error-generic-header = موشکلؽ پؽش ٱووڌه. دووارته امتهووݩ کۊنین.
+smartwindow-assistant-error-budget-header = ایسا و مئدۊدیت چت ٱمرۊز رسیڌینه.
+smartwindow-assistant-error-account-header = سی و کار گرؽڌن { -smart-window-brand-name }، وا و من سیستوم یاین.
 
 ## Assistant Message footer
 
