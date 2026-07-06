@@ -64,6 +64,9 @@ customkeys-caution-message = Ko tembiapoite ojejaporamo ha upévare ndoikoporãi
 customkeys-key-invalid = Oiko’ỹva
 customkeys-shortcut-unassigned =
     .placeholder = Embojuaju jeike pya’eha
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Mbopya’eha: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Mbosako’i
     .tooltiptext = Mbosako’i
@@ -81,6 +84,7 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = ¿Emboguete ambue mbopya’eha?
 customkeys-conflict-confirm-button-confirm = Eiporupaite ayvu
 customkeys-conflict-confirm-button-cancel = Eheja
 customkeys-reset-all-confirm-title = ¿Emoĩporã ijypykue?
@@ -93,5 +97,9 @@ customkeys-sidebar =
     .aria-label = Ta’ãngarupa yke
 customkeys-title-heading =
     .heading = Tairenda mbopya’eha
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Eheka mbopya’ehápe
+    .placeholder = Eheka mbopya’ehaitápe
 customkeys-support-link-text = Eikuaave
 customkeys-reset-all-button = Ijypykuépe mbojevy

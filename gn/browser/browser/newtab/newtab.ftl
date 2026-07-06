@@ -93,6 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Aravopapaha
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Ñemigua
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Jejapo
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Ta’ãnga araguáva
 home-prefs-mission-message2 =
     .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link2 =
@@ -151,6 +160,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Eipytyvõ { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Eikuaa mba’éichapa
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Eikuaave
 
 ## Search box component.
 

@@ -940,6 +940,29 @@ urlbar-result-explanation-last-visited-days-2 =
         [one] Ehecha ramovéva { $daysAgo } peteĩ ára
        *[other] Ehecha ramovéva { $daysAgo } araita
     }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Eikeramoveha ha’e { $weeksAgo } arapokõindy
+       *[other] Eikeramoveha ha’e { $weeksAgo } arapokõindyeta
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Eikeramoveha ha’e { $weeksAgo } peteĩ jasy
+       *[other] Eikeramoveha ha’e { $weeksAgo } heta jasy
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Ehecha ramovéva { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
