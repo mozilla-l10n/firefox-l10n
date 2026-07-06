@@ -134,9 +134,12 @@ aiwindow-firstrun-memories-relevance-title = Mbohovái iporãvéva
 aiwindow-firstrun-memories-privacy-title = Iñemi moha’ãnga rupi
 aiwindow-firstrun-memories-choose-label = Eiporavo moõpa eikuaáta { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-chats = Echatea { -smart-window-brand-name } ndive
+aiwindow-firstrun-memories-checkbox-browsing = Eikundaha { -brand-product-name } rupi
+aiwindow-firstrun-memories-update-settings = Embohekopyahu ejapose vove.
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Ejapo { -smart-window-brand-name }-gui eiporusevévarõ
 aiwindow-firstrun-default-checkbox-description = Emoambue ñemboheko ejapose vove
 
 ## Ask Toolbar Button
@@ -221,6 +224,13 @@ firefoxview-search-chat-results-count =
        *[other] { $count } chateaita
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Ñeikundaha rembiasakue, mboguejy ha chatea
+    .accesskey = B
+item-history-downloads-and-chat-description = Embogue tenda rembiasakue, mboguejy ha chatea
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -229,6 +239,9 @@ smart-window-confirm-select-all =
 smart-window-confirm-deselect-all =
     .label = Eipe’apa sa’y
     .aria-label = Eipe’apa sa’y
+smart-window-close-confirm =
+    .aria-label = Ehejarei jerurepy ha emboty
+    .tooltiptext = Ehejarei jerurepy ha emboty
 smart-window-confirm-close-tab = Emboty
 # Variables
 #   $count (number) - Number of tabs to close
@@ -243,6 +256,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Tendayke mbotypyre
+smartwindow-close-tab-callout-subtitle = Embojurujajey tendayke tembiasakue guive ejapose vove.
 
 ## Smart Window new tab promo
 
