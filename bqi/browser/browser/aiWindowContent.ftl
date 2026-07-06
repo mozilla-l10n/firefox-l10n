@@ -27,7 +27,15 @@ smartwindow-signin-btn = و من ٱووڌن
 ## Assistant Message footer
 
 aiwindow-memories-used = خاترات و کار گرؽڌه
+aiwindow-memories-callout-description = خاترات و سیخومی کردن ای جواو هیاری داڌن.
 aiwindow-memories-learn-more = قلوه دووسته بۊین
+aiwindow-manage-memories =
+    .label = سامووا ویرگه
+aiwindow-retry-without-memories =
+    .label = بؽ خاترات دووارته امتهووݩ کۊنین
+aiwindow-retry =
+    .aria-label = قپ ریت دووارته
+    .tooltiptext = قپ ریت دووارته
 aiwindow-copy-message =
     .aria-label = لف گیری پیوم
     .tooltiptext = لف گیری
@@ -50,10 +58,19 @@ aiwindow-applied-memories-list =
 aiwindow-delete-memory-button =
     .aria-label = پاک کردن { $summary }
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = گوم زیڌن و بلم چت
+    .tooltiptext = گوم زیڌن و بلم
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = قپ ریت دووارته
+smartwindow-nl-thinking = ز دین بلگه یل ی جۊر اگردین…
+smartwindow-loading-assistant-response =
+    .aria-label = بار ونی جواو دستیار
 smartwindow-nl-undo-button =
     .label = وورگندن
 
@@ -72,6 +89,11 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = بلگه یل بسته
 smart-window-closed-and-restored-label = بلگه یل بسته وو وورگنده وابیڌه
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } بلگه وورگشت
+       *[other] { $count } بلگه وورگشت
+    }
 smart-window-restore-success-summary =
     { $count ->
         [one] بلگه بسته وابی، ز نۊ وورگشت.
@@ -91,12 +113,17 @@ smart-window-confirm-group-tabs =
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label =
     { $count ->
-        [one] { $count } بلگه بونکۊ بندی وابینه
-       *[other] { $count } بلگه بونکۊ بندی وابینه
+        [one] { $count } بلگه بونکۊ بندی وابیڌه
+       *[other] { $count } بلگه بونکۊ بندی وابیڌه
     }
 smart-window-grouped-tabs-row-label = بلگه یل بونکۊ بندی وابیڌه
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = بلگه یل بونکۊ بندی نوابیڌه
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } بلگه بونکۊ بندی نوابیڌه
+       *[other] { $count } بلگه بونکۊ بندی نوابیڌه
+    }
 
 ## Action log
 
