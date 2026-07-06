@@ -5,6 +5,16 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Abrir enlace en una nueva { -smart-window-brand-name }
+    .accesskey = S
+appmenuitem-new-ai-window =
+    .label = Nueva { -smart-window-brand-name }
+    .value = Nueva { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Nueva Ventana Clásica
+menu-file-new-ai-window =
+    .label = Nueva { -smart-window-brand-name }
 menu-history-chats =
     .label = Chats
 menu-history-chats-recent =
@@ -102,6 +112,44 @@ aiwindow-firstrun-next-button = Siguiente
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-fast = Rápido
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-update-settings = Actualiza en los ajustes cuando quieras.
+aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } no creará recuerdos. Actualízalo en los ajustes cuando quieras.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Haz de { -smart-window-brand-name } tu opción preferida
+aiwindow-firstrun-default-subtitle = Navega, busca y pregunta en un solo lugar. Aún puedes abrir ventanas privadas y clásicas cuando quieras.
+aiwindow-firstrun-default-checkbox-label = Siempre abrir { -brand-product-name } en { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Cambia en los ajustes cuando quieras
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Pregunta
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Recuerdos encendidos
+    .tooltiptext = Usar recuerdos en las respuestas cuando sea de utilidad
+aiwindow-memories-off =
+    .aria-label = Recuerdos apagados
+    .tooltiptext = No usar recuerdos en respuestas
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nuevo chat
+    .tooltiptext = Nuevo chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Cerrar
+    .tooltiptext = Cerrar
 
 ## Fullpage Footer Actions
 
