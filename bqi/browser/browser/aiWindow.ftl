@@ -128,9 +128,42 @@ aiwindow-close-sidebar =
     .aria-label = بستن
     .tooltiptext = بستن
 
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = و { -smart-window-brand-name } بریوین
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = چتا
+    .aria-label = چتا
+    .tooltiptext = چتا
+smartwindow-footer-history =
+    .label = ویرگار
+    .aria-label = ویرگار
+    .tooltiptext = ویرگار
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = هۊش مسنۊعی تره اشتوا کونه.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = چتا
+    .title = چتا
+firefoxview-chats-header = چتا
+firefoxview-chat-context-delete = پاک کردن ز چتا
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = پیتینیڌن چتا
+
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-chat-date-today = ٱمرۊز - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Natural Language Interactions
@@ -148,3 +181,10 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = بلگه بسته وابیڌه
+
+## Feedback modal
+
+aiwindow-feedback-reason-harmful-or-offensive = موزر یا توهین کردنی
+aiwindow-feedback-reason-other = دیر
+aiwindow-feedback-preview-report = نیشتن جۊزعیات چت
+aiwindow-feedback-preview-report-with-page = نیشتن جۊزعیات چت وو بلگه
