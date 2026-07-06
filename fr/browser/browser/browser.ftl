@@ -930,15 +930,15 @@ urlbar-result-explanation-bookmarked = Ajouté aux marque-pages le { $date }
 # following relative dates: "yesterday", "today"
 # Variables:
 #   $date (string) - A localized relative date string
-urlbar-result-explanation-last-visited-relative-2 = Derniers visiteurs : { $date }
+urlbar-result-explanation-last-visited-relative-2 = Dernière visite { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
 #   $daysAgo (number) - The number of days ago
 urlbar-result-explanation-last-visited-days-2 =
     { $daysAgo ->
-        [one] Dernière visite il y a { $daysAgo } jours
-       *[other] Dernière visite il y a { $daysAgo } jours
+        [one] Dernière visite il y a { $daysAgo } jour
+       *[other] Dernière visite il y a { $daysAgo } jours
     }
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.
@@ -946,18 +946,14 @@ urlbar-result-explanation-last-visited-days-2 =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks-2 =
     { $weeksAgo ->
-        [one] Dernière visite il y a { $weeksAgo } semaine
-       *[other] Dernière visite il y a { $weeksAgo } semaines
+        [one] Dernière visite il y a { $weeksAgo } semaine
+       *[other] Dernière visite il y a { $weeksAgo } semaines
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
 # Variables:
 #   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [one] Dernière visite il y a { $monthsAgo } mois
-       *[other] Dernière visite il y a { $monthsAgo } mois
-    }
+urlbar-result-explanation-last-visited-months-2 = Dernière visite il y a { $monthsAgo } mois
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
