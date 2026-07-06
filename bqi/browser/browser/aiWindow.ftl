@@ -68,7 +68,12 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = و { -smart-window-brand-name } خش ٱوۊڌین
 aiwindow-firstrun-model-title = چ چیه سی ایسا موهم هڌ؟
+aiwindow-firstrun-model-subtitle = ی مودل سی رۊشن کردن { -smart-window-brand-name } پسند کۊنین. هر سا ک خاستین ترین هو ن آلشت کۊنین.
 aiwindow-firstrun-model-fast-label = زل
+aiwindow-firstrun-model-fast-body = زی جواو اده
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerName }
 aiwindow-firstrun-button = بزن ریویم
 aiwindow-firstrun-back-button = وورگشتن
 aiwindow-firstrun-next-button = بئڌی
