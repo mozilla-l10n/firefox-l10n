@@ -1285,6 +1285,8 @@ containers-add-button2 =
     .accesskey = A
 containers-settings-button2 =
     .title = Ñemboheko
+containers-remove-button3 =
+    .title = Mboguete
 containers-remove-button2 =
     .title = Mboguete
 

@@ -168,6 +168,8 @@ newtab-privacy-menu-learn-more = Eikuaave
 
 ## Strings for the Stocks widget
 
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Eñomi jeku’ekue
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Eikuaave
 
@@ -178,6 +180,8 @@ newtab-picture-menu-manage-wallpaper = Emongu’e jehechaha rugua
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Ehechauka ta’ãnga aragua
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Eikuaave
 

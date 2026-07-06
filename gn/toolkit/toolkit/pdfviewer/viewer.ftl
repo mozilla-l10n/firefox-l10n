@@ -764,6 +764,7 @@ pdfjs-digital-signature-properties-banner-verified = Pe kuatia oñemboheraguapy 
 
 pdfjs-digital-signature-properties-status-verified = Heko: Mboheraguapy hechajeypyre
 pdfjs-digital-signature-properties-status-invalid = Heko: Mboheraguapy oiko’ỹva
+pdfjs-digital-signature-properties-status-unknown = Heko: Ndojehechajeykuaái (ndojokupytýi)
 
 ## Main menu for adding/removing signatures
 

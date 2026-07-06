@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Tendaykeita ijurujáva
 sidebar-options-menu-button =
     .title = Eike poravorãme
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Emoambue tenda yke tuichakue
 
 ## Labels for sidebar history panel
 
@@ -69,6 +72,8 @@ sidebar-settings =
     .label = Emboheko ta’ãngarupa ykegua
 sidebar-hide-tabs-and-sidebar =
     .label = Eñomi tendayke ha tenda yke
+sidebar-open-tools-from-sidebar =
+    .label = Embojuruja tembiporu tenda yke guive
 sidebar-show-on-the-right =
     .label = Emongu'e tenda yke akatúa gotyo
 sidebar-show-on-the-left =
@@ -238,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Ovetã { $winID }
+sidebar-bookmarks-title = Techaukahaita
 
 ## Context for closing synced tabs when hovering over the items
 

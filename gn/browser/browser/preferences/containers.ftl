@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } Mba’yru ñemboheko
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Embojuaju guerekoha pyahu
+containers-panel-create-button =
+    .label = Apopyre
+containers-panel-cancel-button =
+    .label = Eheja
