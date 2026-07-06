@@ -260,12 +260,15 @@ smartwindow-close-tab-callout-subtitle = Embojurujajey tendayke tembiasakue guiv
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = ¿Ejapo { -smart-window-brand-name }-gui ijypykuévarõ?
+smart-window-default-promo-message = { -brand-short-name } ijurujáta { -smart-window-brand-name }-pe opa ára.
 smart-window-default-promo-primary-button = Ejapo ijypykuévarõ
 smart-window-default-promo-additional-button = Ani ko’ág̃a
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Emoherakuã ne remiandu
+aiwindow-feedback-what-worked-well = ¿Mba’e pe oikoporãva? Marandu peteĩ mba’ete’ỹvare, ikatúrõ.
 aiwindow-feedback-choose-any = Embosa’y umi oikóvante
 aiwindow-feedback-submit = Mondo
 aiwindow-feedback-cancel = Heja

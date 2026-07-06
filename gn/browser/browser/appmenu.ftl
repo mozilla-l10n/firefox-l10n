@@ -303,11 +303,16 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Eñepyrũ tembiapo ne mba’etépe
+appmenuitem-monitor-title2 = Eñemotenonde teratee ñemodáre
+appmenuitem-monitor-description2 = Og̃uahẽta kyhyjerã mba’ekuaarã ñembogua rehegua
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ejapyhy mongyhyje mba’ekuaarã ñembogua rehe
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Ereko ne ñanduti veve ñemíme
+appmenuitem-relay-description2 = Emboyke spam ne ñe’ẽmondo guahẽhágui
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
+appmenuitem-vpn-title2 = Eñomi ne rendaite { -mozilla-vpn-brand-name } ndive
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã
 appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
