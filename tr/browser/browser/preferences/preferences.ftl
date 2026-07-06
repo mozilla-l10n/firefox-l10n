@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = “Yeni sekme aç” düğmesine her bastığınızda kapsayıcılar menüsü açılacaktır.
 containers-settings-button2 =
     .title = Ayarlar
+containers-remove-button3 =
+    .title = Sil
 containers-remove-button2 =
     .title = Sil
 

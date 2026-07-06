@@ -463,6 +463,11 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] { -brand-short-name } daima elinizin altında olsun: Varsayılan tarayıcınız yapın ve Dock’ta tutun.
        *[other] { -brand-short-name } daima elinizin altında olsun: Varsayılan tarayıcınız yapın ve görev çubuğunuzda tutun.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } parmaklarınızın ucunda
+       *[other] Tüm bağlantıları { -brand-short-name } ile açın
+    }
 set-default-menu-message-primary-button = Varsayılan olarak ayarla
 set-default-menu-message-primary-button-variant = Ana tarayıcı olarak ayarla
 set-default-menu-message-primary-button-short-variant = { -brand-short-name } tarayıcısını varsayılan yap
