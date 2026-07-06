@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Aanmelden bij uw account
+appmenuitem-monitor-title2 = Blijf identiteitsdiefstal voor
+appmenuitem-monitor-description2 = Ontvang meldingen over datalekken
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ontvang waarschuwingen over datalekken
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Houd uw e-mailadres privé
+appmenuitem-relay-description2 = Helpt spam in uw Postvak IN te voorkomen
 appmenuitem-relay-description = Maskeer uw echte e-mailadres en telefoonnummer
 appmenuitem-services-relay-description = Dashboard voor e-mailmaskers starten
+appmenuitem-vpn-title2 = Verberg uw locatie met { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Maak uw navigatie moeilijker te volgen
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bescherming van uw volledige apparaat ontvangen
 appmenuitem-vpn-description = Bescherm uw online activiteit
 appmenu-services-header = Mijn services
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Privacyhulpmiddelen
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +335,18 @@ appmenu-manage-profiles =
     .label = Profielen beheren
 appmenu-copy-profile =
     .label = Dit profiel kopiëren
+appmenu-create-profile2 =
+    .label = Een nieuw profiel aanmaken
 appmenu-create-profile =
     .label = Nieuw profiel
 appmenu-edit-profile =
     .aria-label = Profiel bewerken
+appmenu-edit-this-profile =
+    .label = Dit profiel bewerken
+appmenu-profile-current-in-use = Huidig profiel in gebruik
 appmenu-profiles-2 =
     .label = Profielen
+appmenu-profiles-header = Profielen
+appmenu-all-profiles =
+    .label = Alle profielen
+appmenu-secure-sync-header = Beveiligde synchronisatie
