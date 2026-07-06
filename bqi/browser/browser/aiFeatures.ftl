@@ -15,3 +15,10 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = سامووا پؽش فرز
 smart-window-model-learn-link = زبار مودلا دووسته بۊین
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-custom-save =
+    .label = زفت

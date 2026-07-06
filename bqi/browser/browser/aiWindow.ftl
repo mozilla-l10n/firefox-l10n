@@ -47,6 +47,7 @@ smartbar-placeholder-hint-4 = پیتینیڌن من وب…
 ## Mentions
 
 smartbar-mentions-list-no-results-label = نتیجه ای نجوست
+smartbar-mentions-list-recent-tabs-label = بلگه یل هیم دمۊوی
 
 ## Website Chip
 
