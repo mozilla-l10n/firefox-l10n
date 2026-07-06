@@ -385,6 +385,9 @@ quickactions-addons = Ehecha Moĩmbaha
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = jepysokue, téma, tembiporu’i, tembiporu’ikuéra
+# Opens preferences page at AI controls
+quickactions-manageai = Emongu’e IA mbohekoha
+quickactions-cmd-manageai = eipe’a ai, embogue ai, eñangareko ai
 quickactions-cmd-addons2 = moĩmbaha
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Eñangareko techaukaháre
@@ -923,6 +926,20 @@ urlbar-result-explanation-last-visited-absolute = Eikeramoveha ha’e { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Techaukahápe ñongatupyre { $date }-pe
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Ehecha ramovéva { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Ehecha ramovéva { $daysAgo } peteĩ ára
+       *[other] Ehecha ramovéva { $daysAgo } araita
+    }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
