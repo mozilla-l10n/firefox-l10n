@@ -76,6 +76,13 @@ options-webconsole-split-console-label = 啟用分割主控台
 options-webconsole-split-console-tooltip =
     .title = 使用 Esc 鍵開啟分割主控台
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = 網路監測器
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = 無限制
+
 ## Style Editor section
 
 # The heading

@@ -857,6 +857,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = 打字時直接搜尋頁面文字（隨打即找）
     .accesskey = x
+settings-keyboard-shortcuts-customkeys-link =
+    .label = 自訂快速鍵
 settings-media-group =
     .label = 媒體
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1283,6 +1285,8 @@ containers-new-tab-check2 =
     .description = 將在您每次按下「開啟新分頁」後，開啟容器選單。
 containers-settings-button2 =
     .title = 設定
+containers-remove-button3 =
+    .title = 刪除
 containers-remove-button2 =
     .title = 移除
 
