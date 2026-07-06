@@ -313,10 +313,15 @@ appmenuitem-relay-description2 = Emboyke spam ne ñe’ẽmondo guahẽhágui
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
 appmenuitem-vpn-title2 = Eñomi ne rendaite { -mozilla-vpn-brand-name } ndive
+appmenuitem-vpn-description3 = Embohasy ani ojehapykueho ne ñeikundaha
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã
 appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
 appmenu-services-header = Mba’epytyvõrã
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Tembiporu ñemiguáva
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -330,9 +335,18 @@ appmenu-manage-profiles =
     .label = Mba’etekuéra ñangareko
 appmenu-copy-profile =
     .label = Ekopia ko mba’ete
+appmenu-create-profile2 =
+    .label = Emoheñói mba’ete pyahu
 appmenu-create-profile =
     .label = Mba’ete pyahu
 appmenu-edit-profile =
     .aria-label = Embosako’i mba’ete
+appmenu-edit-this-profile =
+    .label = Embosako’i ko Mba’ete
+appmenu-profile-current-in-use = Mba’ete ag̃agua ojeporu
 appmenu-profiles-2 =
     .label = Mba’etekuéra
+appmenu-profiles-header = Mba’eteita
+appmenu-all-profiles =
+    .label = Opaite Mba’ete
+appmenu-secure-sync-header = Ñembojuehe hekorosãva

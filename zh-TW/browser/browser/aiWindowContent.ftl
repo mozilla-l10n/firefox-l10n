@@ -17,6 +17,8 @@ smartwindow-assistant-error-budget-header = 已達今日的聊天數量上限。
 smartwindow-assistant-error-account-header = 若要使用 { -smart-window-brand-name }，請先登入。
 smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } 目前負荷已滿，請稍後再試。
 smartwindow-assistant-error-budget-body = 您還是可以在此視窗繼續上網，您的每日上限重設後可再繼續聊天。
+smartwindow-assistant-error-many-requests-header = 短時間內送出太多訊息，請稍候再試。
+smartwindow-assistant-error-max-length-header = 這個聊天記錄已達長度限制，是時候開啟新聊天了。
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = 伺服器發生錯誤（HTTP { $status }）。請再試一次。
