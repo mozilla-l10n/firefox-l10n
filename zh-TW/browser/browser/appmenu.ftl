@@ -303,11 +303,17 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = 登入您的帳號
+appmenuitem-monitor-title2 = 比身分盜用更搶先一步
+appmenuitem-monitor-description2 = 訂閱資料外洩事件警報
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 獲得資料外洩警報
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = 保護您電子郵件地址的隱私
+appmenuitem-relay-description2 = 幫助防止收到垃圾信
 appmenuitem-relay-description = 隱藏您的實際信箱與電話號碼
 appmenuitem-services-relay-description = 啟動轉寄信箱儀錶板
+appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隱藏您的實際位置
+appmenuitem-vpn-description3 = 讓您上網更不容易被追蹤
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 獲得完整裝置保護
 appmenuitem-vpn-description = 保護您的線上行為隱私

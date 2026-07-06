@@ -166,6 +166,21 @@ home-prefs-mission-message-learn-more-link-srd = Eikuaa mba’éichapa
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Eikuaave
 
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Eikuaave
+
+## Strings for the Picture of the Day widget
+
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Emongu’e jehechaha rugua
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Eikuaave
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -201,6 +216,7 @@ newtab-topsites-add-shortcut-label = Embojuaju jeike pya’eha
 newtab-topsites-add-shortcut-title =
     .title = Embojuaju jeike pya’eha
     .aria-label = Embojuaju jeike pya’eha
+newtab-shortcuts-pinned-area = Pa’ũguasu poravopyre
 newtab-topsites-title-label = Teratee
 newtab-topsites-title-input =
     .placeholder = Ehai herarã
@@ -509,6 +525,12 @@ newtab-custom-widget-clock-toggle =
     .label = Aravopapaha
 newtab-custom-widget-sports-toggle2 =
     .label = Tetemongu’e
+newtab-custom-widget-privacy-toggle =
+    .label = Ñemigua
+newtab-custom-widget-stocks-toggle =
+    .label = Jejapo
+newtab-custom-widget-picture-toggle =
+    .label = Ta’ãnga araguáva
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -985,6 +1007,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Eipe’a ñemomarandu
 newtab-widget-timer-menu-notifications-on = Emyandy marandu’i
 newtab-widget-timer-menu-learn-more = Kuaave
+newtab-widget-timer-menu-button =
+    .aria-label = Aravomoĩha porurã
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Marandu mba’eguasuvéva
 newtab-daily-briefing-card-menu-dismiss = Mokañy
@@ -1286,6 +1310,11 @@ newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’�
 newtab-sports-widget-message-day-in-play-body = Ehecha Mundial, pepyta py’aguapýpe, pehecha aravo arapy tuichakue ha hetave.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Emyasãi widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-cta =
+    .label = Ejapo encuesta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

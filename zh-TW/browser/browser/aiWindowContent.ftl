@@ -70,6 +70,9 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = 重試
+smartwindow-nl-thinking = 正在尋找符合的分頁…
+smartwindow-loading-assistant-response =
+    .aria-label = 正在載入助理回覆
 smartwindow-nl-undo-button =
     .label = 復原
 

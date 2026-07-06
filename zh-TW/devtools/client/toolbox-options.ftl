@@ -80,8 +80,16 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = 網路監測器
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = 最大請求與回覆內容大小（設定為 0 則不限制）：
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = 無限制
+options-netmonitor-body-limit-button =
+    .title = 編輯最大請求/回覆內容大小。
+options-netmonitor-body-limit-restore-default =
+    .title = 還原最大請求/回覆內容大小的預設值。
+options-netmonitor-body-limit-set =
+    .title = 將目前輸入的值設定為最大請求/回覆內容大小。
 
 ## Style Editor section
 

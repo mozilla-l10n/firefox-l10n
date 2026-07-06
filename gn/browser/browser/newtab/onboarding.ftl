@@ -449,6 +449,10 @@ onboarding-checklist-pin = Emboja { -brand-short-name } tembiaporã rendápe
 onboarding-checklist-import = Emba’egueru kundahára itujavévagui
 onboarding-checklist-extension = Embojuaju jepysokue
 onboarding-checklist-sign-up = Eike térã eñemboheraguapy ne mba’etépe
+onboarding-checklist-minimize =
+    .label = Momichĩ
+onboarding-checklist-remove =
+    .label = Embogue jehechajeyha rysýi
 
 ## Tab Groups feature onboarding strings
 

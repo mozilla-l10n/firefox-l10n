@@ -130,13 +130,19 @@ aiwindow-input-model-select-settings-link = 模型選項
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = 符合您的喜好，更有幫助的回答
+aiwindow-firstrun-memories-conversation-title = 讓對話繼續
 aiwindow-firstrun-memories-relevance-title = 更多相關回覆
 aiwindow-firstrun-memories-privacy-title = 從設計就保護隱私
+aiwindow-firstrun-memories-privacy-body = 記憶只儲存於此裝置中，可隨時刪除或關閉。
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name } 中的聊天功能
+aiwindow-firstrun-memories-checkbox-browsing = 使用 { -brand-product-name } 瀏覽的內容
 aiwindow-firstrun-memories-update-settings = 可隨時到設定中更新。
+aiwindow-firstrun-memories-no-create = 知道了，{ -smart-window-brand-name }不會建立記憶。可隨時到設定當中更新偏好。
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = 將 { -smart-window-brand-name }設為您的預設瀏覽模式
 aiwindow-firstrun-default-checkbox-description = 可隨時到設定中切換。
 
 ## Ask Toolbar Button

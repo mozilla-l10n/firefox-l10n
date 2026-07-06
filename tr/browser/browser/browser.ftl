@@ -936,8 +936,8 @@ urlbar-result-explanation-last-visited-relative-2 = Son ziyaret: { $date }
 #   $daysAgo (number) - The number of days ago
 urlbar-result-explanation-last-visited-days-2 =
     { $daysAgo ->
-        [one] Son ziyaret: { $date } gün önce
-       *[other] Son ziyaret: { $date } gün önce
+        [one] Son ziyaret: { $daysAgo } gün önce
+       *[other] Son ziyaret: { $daysAgo } gün önce
     }
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.
@@ -945,8 +945,8 @@ urlbar-result-explanation-last-visited-days-2 =
 #   $weeksAgo (number) - The number of weeks ago
 urlbar-result-explanation-last-visited-weeks-2 =
     { $weeksAgo ->
-        [one] Son ziyaret: { $date } hafta önce
-       *[other] Son ziyaret: { $date } hafta önce
+        [one] Son ziyaret: { $weeksAgo } hafta önce
+       *[other] Son ziyaret: { $weeksAgo } hafta önce
     }
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
@@ -954,8 +954,8 @@ urlbar-result-explanation-last-visited-weeks-2 =
 #   $monthsAgo (number) - The number of months ago
 urlbar-result-explanation-last-visited-months-2 =
     { $monthsAgo ->
-        [one] Son ziyaret: { $date } ay önce
-       *[other] Son ziyaret: { $date } ay önce
+        [one] Son ziyaret: { $monthsAgo } ay önce
+       *[other] Son ziyaret: { $monthsAgo } ay önce
     }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
