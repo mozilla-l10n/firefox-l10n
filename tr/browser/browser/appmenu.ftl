@@ -297,15 +297,24 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Hesabınıza giriş yapın
+appmenuitem-monitor-title2 = Kimlik hırsızlığını önleyin
+appmenuitem-monitor-description2 = Verileriniz çalınırsa haberiniz olsun
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Veri ihlali uyarıları alın
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = E-postanızı gizli tutun
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
 appmenuitem-services-relay-description = E-posta maskeleri panosunu aç
+appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ile konumunuzu gizleyin
+appmenuitem-vpn-description3 = Gezintilerinizin izlenmesini zorlaştırın
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bütün cihazlarınızı koruyun
 appmenuitem-vpn-description = Çevrimiçi etkinliklerinizi koruyun
 appmenu-services-header = Servislerim
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Gizlilik araçları
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -319,9 +328,18 @@ appmenu-manage-profiles =
     .label = Profilleri yönet
 appmenu-copy-profile =
     .label = Bu profili kopyala
+appmenu-create-profile2 =
+    .label = Yeni profil oluştur
 appmenu-create-profile =
     .label = Yeni profil
 appmenu-edit-profile =
     .aria-label = Profili düzenle
+appmenu-edit-this-profile =
+    .label = Bu profili düzenle
+appmenu-profile-current-in-use = Kullanılan profil
 appmenu-profiles-2 =
     .label = Profiller
+appmenu-profiles-header = Profiller
+appmenu-all-profiles =
+    .label = Tüm profiller
+appmenu-secure-sync-header = Güvenli eşitleme

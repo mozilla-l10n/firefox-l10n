@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Borsa
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Günün resmi
 home-prefs-mission-message2 =
     .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,31 @@ newtab-stocks-menu-search = Sembollerde ara
 newtab-stocks-menu-hide = Borsayı gizle
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Günün resmi · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Duvar kâğıdı yap
+    .title = Duvar kâğıdı yap
+    .aria-label = Günün resmini duvar kâğıdım yap
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Duvar kâğıdını yönet
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Günün resmini gizle
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Günün resmini göster
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Daha fazla bilgi al
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Günün resmini göster
+    .aria-label = Günün resmini göster
 
 ## Search box component.
 

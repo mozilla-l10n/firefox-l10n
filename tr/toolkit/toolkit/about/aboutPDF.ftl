@@ -4,6 +4,7 @@
 
 about-pdf-title = { -brand-short-name } PDF düzenleyicisi
 about-pdf-header = { -brand-short-name } PDF
+about-pdf-tagline = Gizliliğinizden ödün vermeden PDF okumak, birleştirmek, imzalamak, yorum yapmak ve daha fazlası için ücretsiz bir araç
 about-pdf-dropzone =
     .title = Başlamak için buraya bir PDF sürükleyin veya Enter’a basın
 about-pdf-dropzone-hint = Başlamak için buraya bir PDF sürükleyin

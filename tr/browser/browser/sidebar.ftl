@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Kenar çubuğu ayarları
 sidebar-hide-tabs-and-sidebar =
     .label = Sekmeleri ve kenar çubuğunu gizle
+sidebar-open-tools-from-sidebar =
+    .label = Araçları kenar çubuğunda aç
 sidebar-show-on-the-right =
     .label = Kenar çubuğunu sağa taşı
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Pencere { $winID }
+sidebar-bookmarks-title = Yer imleri
 
 ## Context for closing synced tabs when hovering over the items
 

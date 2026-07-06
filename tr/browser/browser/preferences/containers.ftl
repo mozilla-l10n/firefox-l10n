@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } Kapsayıcısı Ayarları
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Yeni kapsayıcı ekle
+containers-panel-create-button =
+    .label = Tamam
+containers-panel-cancel-button =
+    .label = Vazgeç

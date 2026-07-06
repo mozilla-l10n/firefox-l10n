@@ -385,6 +385,9 @@ quickactions-addons = Eklentileri görüntüle
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = uzantılar, temalar, eklentiler
+# Opens preferences page at AI controls
+quickactions-manageai = Yapay zekâ kontrollerini yönet
+quickactions-cmd-manageai = yapay zekâyı devre dışı bırak, yapay zekâyı kapat, yapay zekâyı yönet, yapay zekayı devre dışı bırak, yapay zekayı kapat, yapay zekayı yönet, ai kapat, ai devre dışı, ai yönet
 quickactions-cmd-addons2 = eklentiler
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Yer imlerini yönet
@@ -922,6 +925,43 @@ urlbar-result-explanation-last-visited-absolute = En son { $date } tarihinde ziy
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = { $date } tarihinde yer imlerine eklendi
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Son ziyaret: { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Son ziyaret: { $date } gün önce
+       *[other] Son ziyaret: { $date } gün önce
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Son ziyaret: { $date } hafta önce
+       *[other] Son ziyaret: { $date } hafta önce
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Son ziyaret: { $date } ay önce
+       *[other] Son ziyaret: { $date } ay önce
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Son ziyaret: { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
