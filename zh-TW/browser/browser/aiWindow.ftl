@@ -26,6 +26,9 @@ smartwindow-document-title = 開新分頁
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = 視窗欸型
+    .tooltiptext = 切換使用智慧或傳統視窗。
 ai-window-toggleview-switch-classic =
     .label = 傳統視窗
     .value = 傳統視窗
@@ -95,12 +98,14 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = 歡迎使用 { -smart-window-brand-name }
 aiwindow-firstrun-model-title = 什麼東西對您來說最重要？
+aiwindow-firstrun-model-subtitle = 挑選一套能夠為 { -smart-window-brand-name }提供強大威力的模型，可隨時切換。
 aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 快速回答
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = 由 { $ownerName } 提供的 { $model } 模型
 aiwindow-firstrun-model-allpurpose-label = 靈活
+aiwindow-firstrun-model-allpurpose-body = 適合大部分需求
 aiwindow-firstrun-model-personal-label = 個人
 aiwindow-firstrun-model-personal-body = 針對您量身打造的回答
 aiwindow-firstrun-button = 出發吧！
@@ -118,6 +123,9 @@ aiwindow-input-model-select-button-label-custom = 自訂
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = 自備 LLM
+aiwindow-input-model-select-default-badge =
+    .label = 預設
+    .title = 選擇的預設模型
 aiwindow-input-model-select-settings-link = 模型選項
 
 ## Firstrun memories onboarding

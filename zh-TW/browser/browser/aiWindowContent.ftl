@@ -126,3 +126,10 @@ action-log-checked-world-cup-live = 已確認世界盃足球賽即時賽事
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = 已完成 { $count } 個步驟
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = 已於此視窗載入搜尋結果。分析中…

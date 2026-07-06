@@ -180,6 +180,12 @@ newtab-stocks-menu-learn-more = 更多資訊
 # Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
 # should not be translated.
 newtab-picture-header = 每日一圖 · 維基共享資源
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = 設為背景圖
+    .title = 設為背景圖
+    .aria-label = 將今天的每日一圖設定為背景圖
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理背景圖
 # Context menu item linking to more information about the widget.
