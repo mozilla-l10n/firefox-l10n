@@ -19,9 +19,14 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = موشکلؽ پؽش ٱووڌه. دووارته امتهووݩ کۊنین.
 smartwindow-assistant-error-budget-header = ایسا و مئدۊدیت چت ٱمرۊز رسیڌینه.
 smartwindow-assistant-error-account-header = سی و کار گرؽڌن { -smart-window-brand-name }، وا و من سیستوم یاین.
+smartwindow-assistant-error-capacity-header = زرفیت { -smart-window-brand-name } سکو پور وابیڌه. دینداتر دووارته امتهووݩ کۊنین.
+smartwindow-retry-btn = قپ ریت دووارته
+smartwindow-clear-btn = چت نۊ
+smartwindow-signin-btn = و من ٱووڌن
 
 ## Assistant Message footer
 
+aiwindow-memories-used = خاترات و کار گرؽڌه
 aiwindow-memories-learn-more = قلوه دووسته بۊین
 aiwindow-copy-message =
     .aria-label = لف گیری پیوم
