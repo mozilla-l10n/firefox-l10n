@@ -784,6 +784,56 @@ pdfjs-digital-signature-properties-banner-unknown =
         [few] Документ подписан, но { $count } цифровых подписи не могут быть проверены
        *[many] Документ подписан, но { $count } цифровых подписей не могут быть проверены
     }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Документ, подписанный { $count } недоверенным сертификатом
+        [few] Документ, подписанный { $count } недоверенными сертификатами
+       *[many] Документ, подписанный { $count } недоверенных сертификатов
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Документ, подписанный { $count } истёкшим сертификатом
+        [few] Документ, подписанный { $count } истёкшими сертификатами
+       *[many] Документ, подписанный { $count } истёкших сертификатов
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Документ имеет { $count } неверную цифровую подпись
+        [few] Документ имеет { $count } неверных цифровых подписей
+       *[many] Документ имеет { $count } неверных цифровых подписей
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Документ, подписанный { $count } отозванным сертификатом
+        [few] Документ, подписанный { $count } отозванными сертификатами
+       *[many] Документ, подписанный { $count } отозванных сертификатов
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Статус: Подпись проверена
+pdfjs-digital-signature-properties-status-invalid = Статус: Подпись недействительна
+pdfjs-digital-signature-properties-status-unknown = Статус: Не удалось проверить (не поддерживается)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = Сертификат: Доверенный ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Сертификат: Недоступен
+pdfjs-digital-signature-properties-certificate-untrusted = Сертификат: Недоверенный
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Сертификат: Неизвестный издатель ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Сертификат: Самоподписанный ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Сертификат: Недоверенный издатель ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Сертификат: Истёк срок действия
+pdfjs-digital-signature-properties-certificate-expired-with-date = Сертификат: Истёк срок действия ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Сертификат: Отозван
 
 ## Main menu for adding/removing signatures
 
