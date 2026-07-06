@@ -74,6 +74,9 @@ aiwindow-firstrun-model-fast-body = زی جواو اده
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerName }
+aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
+aiwindow-firstrun-model-personal-label = سیخومی
+aiwindow-firstrun-model-personal-body = موناسو ترین جواوا
 aiwindow-firstrun-button = بزن ریویم
 aiwindow-firstrun-back-button = وورگشتن
 aiwindow-firstrun-next-button = بئڌی
@@ -81,12 +84,21 @@ aiwindow-firstrun-next-button = بئڌی
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-fast = زل
+aiwindow-input-model-select-button-label-personal = سیخومی
 aiwindow-input-model-select-button-label-custom = سفارشی
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = LLM خوتووݩ ن و کار بگیرین
+aiwindow-input-model-select-default-badge =
+    .label = پؽش فرز
+    .title = مودل پؽش فرز پسند وابیڌه
 aiwindow-input-model-select-settings-link = سامووا مودل
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = جواوا مۊفیدتر، و ری شرایت ایسا
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
