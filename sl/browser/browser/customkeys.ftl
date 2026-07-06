@@ -85,6 +85,7 @@ customkeys-key-new =
 ## Confirmation dialogs
 
 customkeys-conflict-confirm-button-cancel = Prekliči
+customkeys-reset-all-confirm-title = Želite obnoviti privzete nastavitve?
 customkeys-reset-all-confirm-button-confirm = Obnovi privzeto
 customkeys-reset-all-confirm-button-cancel = Prekliči
 
@@ -94,5 +95,9 @@ customkeys-sidebar =
     .aria-label = Stranska vrstica
 customkeys-title-heading =
     .heading = Bližnjice na tipkovnici
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Išči bližnjice
+    .placeholder = Išči bližnjice
 customkeys-support-link-text = Več o tem
 customkeys-reset-all-button = Obnovi privzeto
