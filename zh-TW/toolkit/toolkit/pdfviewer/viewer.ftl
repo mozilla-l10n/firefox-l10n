@@ -153,6 +153,7 @@ pdfjs-document-properties-linearized = 快速 Web 檢視：
 pdfjs-document-properties-linearized-yes = 是
 pdfjs-document-properties-linearized-no = 否
 pdfjs-document-properties-close-button = 關閉
+pdfjs-digital-signature-properties-view-certificate = 檢視憑證
 
 ## Print
 

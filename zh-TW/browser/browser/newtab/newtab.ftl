@@ -188,8 +188,22 @@ newtab-picture-set-wallpaper =
     .aria-label = 將今天的每日一圖設定為背景圖
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理背景圖
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = 隱藏今天的照片
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = 顯示今天的照片
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 更多資訊
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = 顯示今天的照片
+    .aria-label = 顯示今天的照片
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = 請於明天再回來看看新照片
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = 來自維基共享資源的每日一圖
 
 ## Search box component.
 
@@ -1312,6 +1326,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = 幫助我們讓小工具功能變得更好
+newtab-sports-widget-message-survey-body = 世界盃足球賽到此已告一段落，請分享您使用體驗的相關意見回饋。
+newtab-sports-widget-message-survey-widget-title = 世界盃足球賽小工具做得如何？
+newtab-sports-widget-message-survey-widget-body = 請分享您的意見，幫助我們在改善未來的小工具功能。然後試試新的小工具。
 newtab-sports-widget-message-survey-cta =
     .label = 填寫問卷
 
