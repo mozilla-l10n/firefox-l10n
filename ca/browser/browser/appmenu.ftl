@@ -292,6 +292,8 @@ appmenu-customizetoolbar =
     .label = Personalitza la barra d'eines…
 appmenu-abouttranslations =
     .label = Tradueix…
+appmenu-edit-pdf =
+    .label = Edita el PDF…
 appmenu-developer-tools-subheader = Eines del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions per a desenvolupadors
@@ -301,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Inicieu la sessió al vostre compte
+appmenuitem-monitor-title2 = Anticipeu-vos al robatori d'identitat
+appmenuitem-monitor-description2 = Rebeu alertes sobre filtracions de dades
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obteniu alertes sobre filtracions de dades
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Protegiu la privadesa del correu electrònic
+appmenuitem-relay-description2 = Ajuda a evitar el correu brossa a la safata d'entrada
 appmenuitem-relay-description = Emmascareu el vostre correu electrònic i telèfon reals
 appmenuitem-services-relay-description = Obre el tauler de màscares d’adreça electrònica
+appmenuitem-vpn-title2 = Amagueu la vostra ubicació amb { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Feu que la vostra navegació sigui més difícil de rastrejar
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén una protecció integral de tot el dispositiu
 appmenuitem-vpn-description = Protegiu la vostra activitat a la xarxa
 appmenu-services-header = Els meus serveis
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Eines de privadesa
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -323,9 +335,18 @@ appmenu-manage-profiles =
     .label = Gestiona els perfils
 appmenu-copy-profile =
     .label = Copia aquest perfil
+appmenu-create-profile2 =
+    .label = Crea un perfil nou
 appmenu-create-profile =
     .label = Perfil nou
 appmenu-edit-profile =
     .aria-label = Edita el perfil
+appmenu-edit-this-profile =
+    .label = Edita aquest perfil
+appmenu-profile-current-in-use = Perfil actual en ús
 appmenu-profiles-2 =
     .label = Perfils
+appmenu-profiles-header = Perfils
+appmenu-all-profiles =
+    .label = Tots els perfils
+appmenu-secure-sync-header = Sincronització segura

@@ -83,3 +83,8 @@ about-private-browsing-felt-privacy-v1-info-link = Qui podria veure la meva acti
 
 about-private-browsing-nova-info-body = Tancar totes les finestres privades suprimeix les galetes, l'historial i les dades del lloc.
 about-private-browsing-nova-info-link = Qui podria veure la meva activitat?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = No s'està registrant res
+about-private-browsing-nova-info-subheader = Esborrarem totes les cerques i els inicis de sessió quan tanqueu aquesta finestra. Les proteccions integrades del { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.

@@ -24,21 +24,60 @@ smartwindow-assistant-error-budget-body = Jo kinne noch hieltyd yn dit finster n
 smartwindow-assistant-error-many-requests-header = Wachtsje even en probearje it opnij. Der binne tefolle berjochten yn in koarte tiid ferstjoerd.
 smartwindow-assistant-error-max-length-header = It is tiid om in nije chat te starten. Dizze hat de maksimale lingte berikt.
 smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } kin de server net berikke. Probearje in oar netwurk, of skeakelje jo VPN út.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Serverflater (HTTP { $status }). Probearje it opnij.
 smartwindow-retry-btn = Opnij probearje
 smartwindow-clear-btn = Nije chat
 smartwindow-signin-btn = Oanmelde
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Brûkte oantinkens
+aiwindow-memories-callout-description = Oantinkens hawwe holpen om dit antwurd te personalisearjen.
+aiwindow-memories-learn-more = Mear ynfo
+aiwindow-manage-memories =
+    .label = Oantinkens-ynstellingen
+aiwindow-retry-without-memories =
+    .label = Opnij probearje sûnder oantinkens
+aiwindow-retry =
+    .aria-label = Opnij probearje
+    .tooltiptext = Opnij probearje
+aiwindow-copy-message =
+    .aria-label = Berjocht kopiearje
+    .tooltiptext = Kopiearje
+aiwindow-copy-table =
+    .aria-label = Tabel kopiearje
+    .tooltiptext = Tabel kopiearje
+aiwindow-table-scroll-indicator = Skow foar mear
+aiwindow-thumbs-up =
+    .aria-label = Posityf kommentaar diele
+    .tooltiptext = Posityf kommentaar diele
+aiwindow-thumbs-down =
+    .aria-label = Negatyf kommentaar diele
+    .tooltiptext = Negatyf kommentaar diele
+aiwindow-applied-memories-popover =
+    .aria-label = Paniel Oantinkens
+aiwindow-applied-memories-list =
+    .aria-label = Oantinkens
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
     .aria-label = { $summary } fuortsmite
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Nei de ûnderkant fan chat springe
+    .tooltiptext = Nei de ûnderkant springe
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Opnij probearje
+smartwindow-nl-retry-message = As jo dochs ljepblêden slute wolle, kies dan <strong>Opnij probearje</strong> en meitsje jo seleksje yn de kaart dy’t iepene wurdt.
+smartwindow-nl-retry-group-tabs-message = As jo dochs ljepblêden groepearje wolle, kies dan <strong>Opnij probearje</strong> en meitsje jo seleksje yn de kaart dy’t iepene wurdt hokker ljepblêden.
+smartwindow-nl-thinking = Sykje nei oerienkommende ljepblêden…
 smartwindow-nl-undo-button =
     .label = Ungedien meitsje
 
