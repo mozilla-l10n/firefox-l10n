@@ -451,6 +451,8 @@ onboarding-checklist-extension = Lisää laajennus
 onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
 onboarding-checklist-minimize =
     .label = Pienennä
+onboarding-checklist-remove =
+    .label = Poista tarkistuslista
 
 ## Tab Groups feature onboarding strings
 
