@@ -80,3 +80,37 @@ login-list-item-subtitle-missing-username = (hana nan ureueng ngui)
 
 login-item-copy-password-button-text = Salén
 login-item-copied-password-button-text = Teusalén!
+login-item-save-changes-button = Keubah Neuubah
+login-item-save-new-button = Keubah
+login-item-cancel-button = Bateue
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = ubah keutrangan tamong teukeubah
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = peuhah lageuem tamong teukeubah
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = salén lageuem tamong teukeubah
+
+## Primary Password notification
+
+master-password-reload-button =
+    .label = Tamöng
+    .accesskey = T
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Bateue
+confirmation-dialog-dismiss-button =
+    .title = Bateue
+about-logins-confirm-remove-dialog-title = Sampôh teunamong nyoe?
