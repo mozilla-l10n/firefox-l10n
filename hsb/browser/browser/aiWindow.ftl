@@ -130,6 +130,10 @@ aiwindow-firstrun-memories-relevance-title = Wjace relewantnych wotmołwow
 aiwindow-firstrun-memories-privacy-title = Priwatny po designje
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } w přeco { -smart-window-brand-name } wočinić
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
