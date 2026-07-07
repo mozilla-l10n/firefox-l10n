@@ -168,6 +168,8 @@ newtab-privacy-menu-learn-more = Eikuaave
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Eheka jeku’e reheguáva
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Eñomi jeku’ekue
 # Context menu item linking to more information about the Stocks widget.
@@ -184,6 +186,9 @@ newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
 newtab-picture-menu-show-photo = Ehechauka ta’ãnga aragua
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Eikuaave
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commons ra’ãnga araguáva
 
 ## Search box component.
 

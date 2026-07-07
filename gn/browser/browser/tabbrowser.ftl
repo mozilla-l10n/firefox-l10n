@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Emoambue tendayke tuichakue jehecha vorepyrépe
+tab-devtools-splitter =
+    .aria-label = Emoambue mboguatahára rembiporu rupa tuichakue
 
 ## Tooltips for tab audio control
 ## Variables:
