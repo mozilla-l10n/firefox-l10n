@@ -53,3 +53,4 @@ ai-window-toggleview-status-label-inactive = Ffenest Glasurol
 aiwindow-input-cta-submit-label-chat = Gofyn
 aiwindow-input-cta-submit-label-navigate = Mynd
 aiwindow-input-cta-submit-label-search = Chwilio
+aiwindow-input-cta-submit-label-stop = Aros
