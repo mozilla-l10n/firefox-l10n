@@ -75,6 +75,9 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-fast-label = Hızlı
+aiwindow-firstrun-model-allpurpose-label = Esnek
+aiwindow-firstrun-model-personal-label = Kişisel
+aiwindow-firstrun-button = Başlayalım
 aiwindow-firstrun-back-button = Geri
 aiwindow-firstrun-next-button = İleri
 
@@ -92,6 +95,10 @@ aiwindow-input-model-select-default-badge =
     .label = Varsayılan
     .title = Seçilen varsayılan model
 aiwindow-input-model-select-settings-link = Model ayarları
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var
 
 ## Ask Toolbar Button
 
