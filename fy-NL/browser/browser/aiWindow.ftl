@@ -23,6 +23,9 @@ smartwindow-document-title = Nij ljepblêd
 
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic =
+    .label = Klassyk finster
+    .value = Klassyk finster
 ai-window-toggleview-switch-classic-description =
     .label = Standertnavigaasje
     .value = Standertnavigaasje
@@ -41,6 +44,10 @@ aiwindow-input-cta-submit-label-navigate = Gean
 aiwindow-input-cta-submit-label-search = Sykje
 aiwindow-input-cta-submit-label-stop = Stopje
 aiwindow-input-cta-menu-label-chat = Freegje
+aiwindow-input-cta-menu-label-navigate = Nei website
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Sykje mei { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Sykje mei…
 aiwindow-input-cta-search-submenu-header = Sykje
 
 ## Smartbar

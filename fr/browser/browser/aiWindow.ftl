@@ -45,7 +45,7 @@ ai-window-toggleview-switch-private =
     .label = Fenêtre de navigation privée
 ai-window-toggleview-open-private =
     .label = Ouvrir une nouvelle fenêtre de navigation privée
-ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-active = { -smart-window-brand-name(form: "upper-singular") }
 ai-window-toggleview-status-label-inactive = Fenêtre classique
 
 ## Input CTA
@@ -70,10 +70,10 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Posez une question, recherchez ou saisissez une URL
-smartbar-placeholder-hint-1 = Utilisez l’@ pour mentionner des onglets récents…
-smartbar-placeholder-hint-2 = Posez votre question…
+smartbar-placeholder-hint-1 = Mentionnez des onglets récents avec @…
+smartbar-placeholder-hint-2 = Posez n’importe quelle question…
 smartbar-placeholder-hint-3 = Saisissez une adresse web…
-smartbar-placeholder-hint-4 = Rechercher sur le Web…
+smartbar-placeholder-hint-4 = Recherchez sur le Web…
 
 ## Mentions
 
@@ -96,7 +96,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name(form: "lower-singular") }
+aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name(form: "upper-singular") }
 aiwindow-firstrun-model-title = Qu’est-ce qui compte pour vous ?
 aiwindow-firstrun-model-subtitle = Choisissez un modèle à utiliser dans les { -smart-window-brand-name(form: "lower-plural") }. Changez de modèle à tout moment.
 aiwindow-firstrun-model-fast-label = Rapide

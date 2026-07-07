@@ -331,3 +331,7 @@ appmenu-edit-profile =
     .aria-label = Profyl bewurkje
 appmenu-profiles-2 =
     .label = Profilen
+appmenu-profiles-header = Profilen
+appmenu-all-profiles =
+    .label = Alle profilen
+appmenu-secure-sync-header = Befeilige syngronisaasje
