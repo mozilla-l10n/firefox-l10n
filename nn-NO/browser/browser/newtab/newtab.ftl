@@ -1234,7 +1234,7 @@ newtab-sports-widget-world-cup-champions-short = Verdsmeistrar 2026
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Slutt
 newtab-sports-widget-match-halftime = Pause
-newtab-sports-widget-match-extra-time = Ekstra tid
+newtab-sports-widget-match-extra-time = Ekstraomgangar
 newtab-sports-widget-match-penalties = Straffer
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
