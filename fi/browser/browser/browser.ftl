@@ -440,6 +440,7 @@ quickactions-cmd-print = tulosta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Tallenna sivu PDF-muodossa
 quickactions-cmd-savepdf2 = pdf, tallenna sivu
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avaa yksityinen ikkuna
 quickactions-cmd-private = yksityinen selaus
@@ -871,6 +872,90 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsoroitu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Kysy
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Kävit viimeksi { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Kävit viimeksi { $daysAgo } päivä sitten
+       *[other] Kävit viimeksi { $daysAgo } päivää sitten
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Kävit viimeksi { $weeksAgo } viikko sitten
+       *[other] Kävit viimeksi { $weeksAgo } viikkoa sitten
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Kävit viimeksi { $monthsAgo } kuukausi sitten
+       *[other] Kävit viimeksi { $monthsAgo } kuukautta sitten
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Kävit viimeksi { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Lisätty kirjanmerkkeihin { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Käyty viimeksi { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Käyty viimeksi { $daysAgo } päivä sitten
+       *[other] Käyty viimeksi { $daysAgo } päivää sitten
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Käyty viimeksi { $weeksAgo } viikko sitten
+       *[other] Käyty viimeksi { $weeksAgo } viikkoa sitten
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Käyty viimeksi { $monthsAgo } kuukausi sitten
+       *[other] Käyty viimeksi { $monthsAgo } kuukautta sitten
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Käyty viimeksi { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

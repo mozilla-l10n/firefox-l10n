@@ -93,6 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Kello
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Yksityisyys
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Osakkeet
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Päivän kuva
 home-prefs-mission-message2 =
     .message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä.
 home-prefs-manage-topics-link2 =
@@ -159,17 +168,24 @@ newtab-privacy-menu-learn-more = Lue lisää
 
 ## Strings for the Stocks widget
 
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Piilota osakkeet
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Lue lisää
 
 ## Strings for the Picture of the Day widget
 
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Päivän kuva · Wikimedia Commons
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
     .label = Aseta taustakuva
     .title = Aseta taustakuva
     .aria-label = Aseta tämän päivän kuva taustakuvaksi
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Hallitse taustakuvaa
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Piilota tämän päivän kuva
@@ -530,6 +546,10 @@ newtab-custom-widget-clock-toggle =
     .label = Kello
 newtab-custom-widget-sports-toggle2 =
     .label = Urheilu
+newtab-custom-widget-privacy-toggle =
+    .label = Yksityisyys
+newtab-custom-widget-stocks-toggle =
+    .label = Osakkeet
 newtab-custom-widget-picture-toggle =
     .label = Päivän kuva
 newtab-custom-widget-section-title = Pienoisohjelmat
@@ -1124,6 +1144,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Vain seuratut joukkueet
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Ladataan lisää otteluita…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Katso
@@ -1287,6 +1309,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Englanti
 newtab-sports-widget-team-name-label-sco =
     .label = Skotlanti
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Määritetään myöhemmin
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
@@ -1294,6 +1318,7 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-wallpapers-title = Aloita MM-kisat uusilla taustakuvilla
 newtab-sports-widget-message-wallpapers-body = Tuo ottelupäivän energiaa selaimeesi.
 newtab-sports-widget-message-wallpapers-cta = Valitse taustakuva
+newtab-sports-widget-message-wallpapers-semifinals-title = Hanki uusi taustakuva välieriin
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lisää pienoisohjelmia
 newtab-sports-widget-message-day-in-play-title = Pidä päiväsi käynnissä { -brand-product-name }in pienoisohjelmien avulla
@@ -1303,7 +1328,10 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Auta meitä parantamaan pienoisohjelmia
 newtab-sports-widget-message-survey-widget-title = Mitä pidit MM-kisojen pienoisohjelmasta?
+newtab-sports-widget-message-survey-cta =
+    .label = Osallistu kyselyyn
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
