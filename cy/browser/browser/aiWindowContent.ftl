@@ -51,3 +51,14 @@ action-log-searching-world-cup-matches = Yn chwilio gemau Cwpan y Byd
 action-log-searched-world-cup-matches = Gemau Cwpan y Byd wedi'u chwilio
 action-log-checking-world-cup-live = Yn gwirio gemau Cwpan y Byd byw
 action-log-checked-world-cup-live = Gemau Cwpan y Byd wedi'u gwirio
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [zero] Wedi cwblhau { $count } camau
+        [one] Wedi cwblhau { $count } cam
+        [two] Wedi cwblhau { $count } gam
+        [few] Wedi cwblhau { $count } cham
+        [many] Wedi cwblhau { $count } cham
+       *[other] Wedi cwblhau { $count } cam
+    }
