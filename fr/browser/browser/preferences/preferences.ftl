@@ -2014,7 +2014,7 @@ addressbar-locbar-suggest-all-option-2 =
     .description = Obtenir des suggestions du Web en rapport avec votre recherche.
 addressbar-locbar-suggest-sponsored-option-2 =
     .label = Suggestions de sponsors
-    .description = Soutenez { -brand-short-name } en affichant de temps en temps des suggestions sponsorisées.
+    .description = Soutenir { -brand-short-name } en affichant de temps en temps des suggestions sponsorisées.
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 addressbar-locbar-showrecentsearches-option =
     .label = Afficher les recherches récentes
@@ -2028,7 +2028,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Obtenir des suggestions du Web en rapport avec votre recherche.
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestions de sponsors
-addressbar-locbar-suggest-sponsored-desc = Soutenez { -brand-short-name } en affichant de temps en temps des suggestions sponsorisées.
+addressbar-locbar-suggest-sponsored-desc = Soutenir { -brand-short-name } en affichant de temps en temps des suggestions sponsorisées.
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
