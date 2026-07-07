@@ -5,11 +5,39 @@
 
 ## Chrome
 
+appmenuitem-new-ai-window =
+    .label = Yeni { -smart-window-brand-name }
+    .value = Yeni { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Yeni klasik pencere
+menu-file-new-ai-window =
+    .label = Yeni { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Yeni klasik pencere
 menu-history-chats =
     .label = Sohbetler
 menu-history-chats-recent =
     .label = Son sohbetler
 smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Yeni sekme
+
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic =
+    .label = Klasik pencere
+    .value = Klasik pencere
+ai-window-toggleview-switch-classic-description =
+    .label = Standart gezinti
+    .value = Standart gezinti
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-private =
+    .label = Gizli pencere
+ai-window-toggleview-open-private =
+    .label = Yeni gizli pencere aç
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Klasik pencere
 
 ## Input CTA
 
@@ -22,6 +50,9 @@ aiwindow-input-cta-menu-label-navigate = Siteye git
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = { $searchEngineName } ile ara
 aiwindow-input-cta-search-submenu-header = Ara
+aiwindow-input-cta-stop-button =
+    .title = Cevabı durdur
+    .aria-label = Cevap üretimini durdur
 
 ## Mentions
 
@@ -100,3 +131,50 @@ smartwindow-disclaimer = Yapay zekâ hata yapabilir.
 
 firefoxview-chats-nav = Sohbetler
     .title = Sohbetler
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } sohbet
+       *[other] { $count } sohbet
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat-description = Site geçmişini, indirme geçmişini ve sohbet geçmişini temizler
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Tümünü seç
+    .aria-label = Tümünü seç
+smart-window-confirm-deselect-all =
+    .label = Seçimi temizle
+    .aria-label = Seçimi temizle
+smart-window-close-confirm =
+    .aria-label = İsteği iptal edip kapat
+    .tooltiptext = İsteği iptal edip kapat
+smart-window-confirm-close-tab = Kapat
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] { $count } sekmeyi kapat
+       *[other] { $count } sekmeyi kapat
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Sekme kapatıldı

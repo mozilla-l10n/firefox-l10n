@@ -19,6 +19,7 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Bir şeyler yanlış gitti. Lütfen yeniden deneyin.
 smartwindow-assistant-error-budget-header = Bugünkü sohbet sınırına ulaştınız.
 smartwindow-assistant-error-budget-body = Bu pencerede gezinmeye devam edebilirsiniz. Günlük limitiniz sıfırlandığında sohbet özelliğini tekrar kullanabileceksiniz.
+smartwindow-assistant-error-many-requests-header = Lütfen bir dakika bekleyip tekrar deneyin. Kısa sürede çok fazla mesaj gönderildi.
 smartwindow-assistant-error-max-length-header = Yeni bir sohbet başlatmanın zamanı geldi. Bu sohbet uzunluk sınırına ulaştı.
 smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } sunucuya ulaşamadı. Farklı bir ağ deneyin veya VPN’inizi devre dışı bırakın.
 # Variables:
@@ -31,6 +32,8 @@ smartwindow-signin-btn = Giriş yap
 ## Assistant Message footer
 
 aiwindow-memories-used = Kullanılan anılar
+aiwindow-memories-callout-description = Anılar bu cevabı kişiselleştirmemize yardımcı oldu.
+aiwindow-memories-learn-more = Daha fazla bilgi alın
 aiwindow-manage-memories =
     .label = Anı ayarları
 aiwindow-retry-without-memories =
@@ -38,10 +41,19 @@ aiwindow-retry-without-memories =
 aiwindow-retry =
     .aria-label = Yeniden dene
     .tooltiptext = Yeniden dene
+aiwindow-copy-message =
+    .aria-label = Mesajı kopyala
+    .tooltiptext = Kopyala
 aiwindow-copy-table =
     .aria-label = Tabloyu kopyala
     .tooltiptext = Tabloyu kopyala
 aiwindow-table-scroll-indicator = Daha fazlasını görmek için kaydırın
+aiwindow-thumbs-up =
+    .aria-label = Olumlu geri bildirim paylaş
+    .tooltiptext = Olumlu geri bildirim paylaş
+aiwindow-thumbs-down =
+    .aria-label = Olumsuz geri bildirim paylaş
+    .tooltiptext = Olumsuz geri bildirim paylaş
 aiwindow-applied-memories-popover =
     .aria-label = Anılar paneli
 aiwindow-applied-memories-list =
@@ -103,3 +115,10 @@ action-log-completed-steps =
         [one] 1 adım tamamlandı
        *[other] { $count } adım tamamlandı
     }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Bu sekmedeki arama sonuçları yüklendi. Analiz ediliyor…
