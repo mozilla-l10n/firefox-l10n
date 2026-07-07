@@ -74,6 +74,7 @@ smartbar-placeholder-hint-4 = לחפש ברשת…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = תיוג לשונית או אתר
 smartbar-mentions-list-no-results-label = לא נמצאו תוצאות
 smartbar-mentions-list-recent-tabs-label = לשוניות אחרונות
 
