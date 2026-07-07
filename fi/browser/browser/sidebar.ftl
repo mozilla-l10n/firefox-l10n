@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Avoimet välilehdet
 sidebar-options-menu-button =
     .title = Avaa valikko
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Muuta sivupalkin kokoa
 
 ## Labels for sidebar history panel
 
@@ -69,6 +72,8 @@ sidebar-settings =
     .label = Sivupalkin asetukset
 sidebar-hide-tabs-and-sidebar =
     .label = Piilota välilehdet ja sivupalkki
+sidebar-open-tools-from-sidebar =
+    .label = Avaa työkalut sivupalkista
 sidebar-show-on-the-right =
     .label = Siirrä sivupalkki oikealle
 sidebar-show-on-the-left =

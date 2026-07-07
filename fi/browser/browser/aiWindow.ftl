@@ -5,6 +5,11 @@
 
 ## Chrome
 
+appmenuitem-new-ai-window =
+    .label = Uusi { -smart-window-brand-name }
+    .value = Uusi { -smart-window-brand-name }
+menu-file-new-ai-window =
+    .label = Uusi { -smart-window-brand-name }
 menu-history-chats =
     .label = Keskustelut
 menu-history-chats-recent =

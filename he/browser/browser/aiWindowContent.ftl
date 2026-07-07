@@ -75,6 +75,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = ניסיון חוזר
+smartwindow-nl-retry-message = אם עדיין ברצונך לסגור לשוניות, יש לבחור באפשרות <strong>ניסיון חוזר</strong> ולסמן את הלשוניות בכרטיס שייפתח.
+smartwindow-nl-retry-group-tabs-message = אם עדיין ברצונך לקבץ לשוניות, יש לבחור באפשרות <strong>ניסיון חוזר</strong> ולסמן את הלשוניות בכרטיס שייפתח.
 smartwindow-nl-thinking = בחיפוש לשוניות תואמות…
 smartwindow-loading-assistant-response =
     .aria-label = תגובת העוזרת נטענת

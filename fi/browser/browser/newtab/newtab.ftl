@@ -152,6 +152,36 @@ home-prefs-support-firefox-header-srd =
     .label = Tue { -brand-product-name }ia
 home-prefs-mission-message-learn-more-link-srd = Lue lisää
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Lue lisää
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Lue lisää
+
+## Strings for the Picture of the Day widget
+
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Aseta taustakuva
+    .title = Aseta taustakuva
+    .aria-label = Aseta tämän päivän kuva taustakuvaksi
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Piilota tämän päivän kuva
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Näytä tämän päivän kuva
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Lue lisää
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Näytä tämän päivän kuva
+    .aria-label = Näytä tämän päivän kuva
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -500,6 +530,8 @@ newtab-custom-widget-clock-toggle =
     .label = Kello
 newtab-custom-widget-sports-toggle2 =
     .label = Urheilu
+newtab-custom-widget-picture-toggle =
+    .label = Päivän kuva
 newtab-custom-widget-section-title = Pienoisohjelmat
 newtab-custom-widget-section-toggle =
     .label = Pienoisohjelmat
@@ -976,6 +1008,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Poista ilmoitukset käytöstä
 newtab-widget-timer-menu-notifications-on = Ota ilmoitukset käyttöön
 newtab-widget-timer-menu-learn-more = Lue lisää
+newtab-widget-timer-menu-button =
+    .aria-label = Ajastimen asetukset
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Pääotsikot
 newtab-daily-briefing-card-menu-dismiss = Hylkää
@@ -1266,6 +1300,10 @@ newtab-sports-widget-message-day-in-play-title = Pidä päiväsi käynnissä { -
 newtab-sports-widget-message-day-in-play-body = Seuraa jalkapallon MM-kisoja, pysy tehtävissäsi, seuraa aikaa ympäri maailmaa ja paljon muuta.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Tutustu pienoisohjelmiin
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-widget-title = Mitä pidit MM-kisojen pienoisohjelmasta?
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
