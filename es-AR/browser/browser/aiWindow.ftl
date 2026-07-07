@@ -128,9 +128,11 @@ aiwindow-input-model-select-settings-link = Configuración del modelo
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Respuestas más útiles, en sus términos
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } puede aprender de los chats, navegación o ambos para crear recuerdos. Hacen que las respuestas sean más útiles con el tiempo.
 aiwindow-firstrun-memories-conversation-body = Aprender de los chats significa que va a haber que repetir menos.
 aiwindow-firstrun-memories-relevance-title = Respuestas más relevantes
+aiwindow-firstrun-memories-relevance-body = Aprender de la navegación le da a { -smart-window-brand-name } una perspectiva más amplia.
 aiwindow-firstrun-memories-privacy-title = Privado por diseño
 aiwindow-firstrun-memories-privacy-body = Los recuerdos están almacenados en este dispositivo. Se pueden borrar o desactivar en cualquier momento.
 aiwindow-firstrun-memories-choose-label = Elegir de donde aprende { -smart-window-brand-name }
@@ -230,6 +232,13 @@ firefoxview-search-chat-results-count =
         [one] { $count } chat
        *[other] { $count } chats
     }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Historial de navegación, descargas y chats
+    .accesskey = v
+item-history-downloads-and-chat-description = Borra el historial de sitios, descargas y chats
 
 ## Natural Language Interactions
 

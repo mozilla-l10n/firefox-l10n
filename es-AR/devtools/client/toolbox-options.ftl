@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Habilitar consola dividida
 options-webconsole-split-console-tooltip =
     .title = Abrir la consola dividida con la tecla Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor de red
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Tamaño máximo de la solicitud y del cuerpo dela respuesta establecer en 0 para ilimitado):
+options-netmonitor-body-limit-tooltip =
+    .title = Las solicitudes o cuerpos de respuestas que excedan el tamaño especificado serán truncados cuando se muestren o descarguen en el Monitor de red. Establecer a 0 para no tener limitación.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Ilimitado
+options-netmonitor-body-limit-button =
+    .title = Editar el tamaño máximo de solicitud/cuerpo de respuesta.
+options-netmonitor-body-limit-restore-default =
+    .title = Restaure el valor predeterminado para el tamaño máximo de solicitud/cuerpo de respuesta.
+options-netmonitor-body-limit-set =
+    .title = Establecer el valor de entrada actual como tamaño máximo de solicitud/cuerpo de respuesta.
+
 ## Style Editor section
 
 # The heading
