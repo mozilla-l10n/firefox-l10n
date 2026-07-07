@@ -767,28 +767,28 @@ pdfjs-digital-signature-properties-button-label = Propriétés de la signature n
 pdfjs-digital-signature-properties-banner-verified = Le document a été signé avec une signature numérique valide
 pdfjs-digital-signature-properties-banner-unknown =
     { $count ->
-        [one] Document signé mais la signature numérique de { $count } n’a pas pu être vérifiée
-       *[other] Document signé mais { $count } signatures numériques n’ont pas pu être vérifiées
+        [one] Document signé mais { $count } signature numérique n’a pas pu être vérifiée
+       *[other] Document signé mais { $count } signatures numériques n’ont pas pu être vérifiées
     }
 pdfjs-digital-signature-properties-banner-untrusted =
     { $count ->
-        [one] Document signé avec un certificat non digne de confiance { $count }
-       *[other] Document signé avec { $count } certificats non dignes de confiance
+        [1] Document signé avec un certificat non digne de confiance
+       *[other] Document signé avec { $count } certificats non dignes de confiance
     }
 pdfjs-digital-signature-properties-banner-expired =
     { $count ->
-        [one] Document signé avec { $count } certificat expiré
+        [1] Document signé avec un certificat expiré
        *[other] Document signé avec { $count } certificats expirés
     }
 pdfjs-digital-signature-properties-banner-invalid =
     { $count ->
-        [one] Le document possède { $count } de signature numérique non valide
-       *[other] Le document contient { $count } signatures numériques invalides
+        [1] Le document contient une signature numérique non valide
+       *[other] Le document contient { $count } signatures numériques non valides
     }
 pdfjs-digital-signature-properties-banner-revoked =
     { $count ->
-        [one] Document signé avec { $count } certificat révoqué
-       *[other] Document signé avec { $count } certificats révoqués
+        [1] Document signé avec un certificat révoqué
+       *[other] Document signé avec { $count } certificats révoqués
     }
 
 ## Per-signature status row. Only three distinct strings are needed:
