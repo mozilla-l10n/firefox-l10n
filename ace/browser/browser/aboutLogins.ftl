@@ -64,3 +64,18 @@ login-list-count2 =
         [one] { $count } lageuem tamong
        *[other] { $count } lageuem tamong
     }
+login-list-sort-label-text = Urôt meunurôt:
+login-list-name-option = Nan (A-Z)
+login-list-name-reverse-option = Nan (Z-A)
+about-logins-login-list-alerts-option = Peuingat
+login-list-last-changed-option = Seuneulheueh Geuubah
+login-list-last-used-option = Seuneulheueh Geungui
+login-list-intro-title = Hana keutrangan tamong geuteumeung
+about-logins-login-list-empty-search-title = Hana keutrangan tamong geuteumeung
+login-list-item-title-new-login = Tamong Barô
+login-list-item-subtitle-new-login = Peutamong mandat keutrangan tamong droeneuh
+login-list-item-subtitle-missing-username = (hana nan ureueng ngui)
+
+## Login
+
+login-item-copy-password-button-text = Salén

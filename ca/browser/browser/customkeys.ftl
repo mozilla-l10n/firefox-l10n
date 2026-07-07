@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Aquesta característica és experimental i és possible que no funcioni com s'espera.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = No és vàlida
+customkeys-shortcut-unassigned =
+    .placeholder = Afegeix una drecera
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Drecera de: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Edita
+    .tooltiptext = Edita
 customkeys-key-clear =
     .aria-label = Esborra
     .tooltiptext = Esborra
+customkeys-key-reset =
+    .aria-label = Restaura
+    .tooltiptext = Restaura
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Premeu una tecla nova:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Voleu suprimir una altra drecera?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Aquesta tecla ja la utilitza “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Utilitza-la igualment
+customkeys-conflict-confirm-button-cancel = Cancel·la
+customkeys-reset-all-confirm-title = Voleu restaurar els valors per defecte?
+customkeys-reset-all-confirm-body = S'eliminaran totes les dreceres de teclat personalitzades que hàgiu creat.
+customkeys-reset-all-confirm-button-confirm = Restaura els valors per defecte
+customkeys-reset-all-confirm-button-cancel = Cancel·la
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra lateral
+customkeys-title-heading =
+    .heading = Dreceres de teclat
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Cerca dreceres
+    .placeholder = Cerca dreceres
+customkeys-description = Controleu com us moveu i interactueu amb el { -brand-short-name }.
+customkeys-support-link-text = Més informació
+customkeys-reset-all-button = Restaura els valors per defecte

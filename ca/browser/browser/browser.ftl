@@ -927,7 +927,7 @@ urlbar-result-explanation-bookmarked = Es va afegir a les adreces d'interès el 
 # following relative dates: "yesterday", "today"
 # Variables:
 #   $date (string) - A localized relative date string
-urlbar-result-explanation-last-visited-relative-2 = Última visita { $date }
+urlbar-result-explanation-last-visited-relative-2 = L'heu visitat per darrer cop el dia { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -955,6 +955,11 @@ urlbar-result-explanation-last-visited-months-2 =
         [one] L'heu visitat per darrer cop fa { $monthsAgo } mes
        *[other] L'heu visitat per darrer cop fa { $monthsAgo } mesos
     }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = L'heu visitat per darrer cop el dia { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

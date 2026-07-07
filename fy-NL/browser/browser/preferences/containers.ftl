@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Ynstellingen fan kontener { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Nije kontener tafoegje
+containers-panel-create-button =
+    .label = Dien
+containers-panel-cancel-button =
+    .label = Annulearje

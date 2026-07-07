@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Dit iepenet it kontenermenu hieltyd as jo op de knop om in nij ljepblêd te iepenjen drukke.
 containers-settings-button2 =
     .title = Ynstellingen
+containers-remove-button3 =
+    .title = Fuortsmite
 containers-remove-button2 =
     .title = Fuortsmite
 

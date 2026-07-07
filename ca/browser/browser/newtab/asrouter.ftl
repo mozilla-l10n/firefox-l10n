@@ -462,8 +462,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Tingueu el { -brand-short-name } ben a mà: feu que sigui el navegador per defecte i tingueu-lo al Dock.
        *[other] Tingueu el { -brand-short-name } ben a mà: feu que sigui el navegador per defecte i tingueu-lo a la barra de tasques.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Tingueu el { -brand-short-name } a mà
+       *[other] Obriu tots els enllaços amb el { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Establiu-lo com a predeterminat i tingueu-lo al Dock
+       *[other] Aconseguiu una navegació més ràpida i protecció automàtica de la privadesa.
+    }
 set-default-menu-message-primary-button = Estableix com a predeterminat
 set-default-menu-message-primary-button-variant = Estableix com a navegador principal
+set-default-menu-message-primary-button-short-variant = Feu que el { -brand-short-name } sigui el navegador per defecte
 
 ## Firefox Relay 50 Masks Announcement
 

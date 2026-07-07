@@ -76,6 +76,13 @@ options-webconsole-split-console-label = Splitste console ynskeakelje
 options-webconsole-split-console-tooltip =
     .title = Splitste console iepenje mei de Escape-toets
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Netwurkmonitor
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Unbeheind
+
 ## Style Editor section
 
 # The heading

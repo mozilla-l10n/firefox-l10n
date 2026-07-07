@@ -21,6 +21,28 @@ menu-history-chats-recent =
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nij ljepblêd
 
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic-description =
+    .label = Standertnavigaasje
+    .value = Standertnavigaasje
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-private =
+    .label = Priveefinster
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Klassyk finster
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Freegje
+aiwindow-input-cta-submit-label-navigate = Gean
+aiwindow-input-cta-submit-label-search = Sykje
+aiwindow-input-cta-submit-label-stop = Stopje
+aiwindow-input-cta-menu-label-chat = Freegje
+aiwindow-input-cta-search-submenu-header = Sykje
+
 ## Smartbar
 
 smartbar-placeholder-hint-2 = Wat freegje…
@@ -85,14 +107,59 @@ aiwindow-firstrun-memories-privacy-body = Oantinkens wurde op dit apparaat bewar
 aiwindow-firstrun-memories-choose-label = Kies wêrfan { -smart-window-brand-name } leart
 aiwindow-firstrun-memories-checkbox-chats = Chats yn { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Sneupe mei { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Wurkje dit op elk winske momint by yn ynstellingen.
+aiwindow-firstrun-memories-no-create = Begrepen. { -smart-window-brand-name } sil gjin oantinkens meitsje. Wurkje dit op elk winske momint by yn ynstellingen.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Meitsje { -smart-window-brand-name } jo favoryt
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Freegje
 
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Slute
+    .tooltiptext = Slute
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chat
+       *[other] { $count } chats
+    }
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Alles selektearje
+    .aria-label = Alles selektearje
+smart-window-confirm-deselect-all =
+    .label = Alles deselektearje
+    .aria-label = Alles deselektearje
+smart-window-confirm-close-tab = Slute
+
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Ynstelle as standert
+smart-window-default-promo-additional-button = No net
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Kommentaar diele
 aiwindow-feedback-submit = Yntsjinje
 aiwindow-feedback-cancel = Annulearje
 aiwindow-feedback-reason-incorrect-or-misleading = Ferkeard of misliedend
