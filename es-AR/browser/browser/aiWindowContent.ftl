@@ -159,10 +159,17 @@ action-log-reading-page = Leyendo página
 action-log-read-page = Contenido de página leído
 action-log-searching-web = Buscando en la web
 action-log-searched-web = Buscado en la web
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Se buscó en la web con Exa
+action-log-checking-memories = Consultando recuerdos
+action-log-checked-memories = Recuerdos consultados
 action-log-searching-settings = Buscando en configuración
 action-log-searched-settings = Buscado en configuración
 action-log-searching-world-cup-matches = Buscando partidos de la Copa del Mundo
 action-log-searched-world-cup-matches = Partidos de la Copa del Mundo buscados
+action-log-checking-world-cup-live = Consultando partidos de la Copa del Mundo en vivo
+action-log-checked-world-cup-live = Partidos de la Copa del Mundo en vivo consultados
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

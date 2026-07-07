@@ -269,6 +269,7 @@ smart-window-default-promo-additional-button = No ahora
 
 aiwindow-feedback-modal-title = Compartir opinión
 aiwindow-feedback-what-worked-well = ¿Qué funcionó bien? Sin información personal, por favor.
+aiwindow-feedback-choose-any = Seleccionar todos los que correspondan
 aiwindow-feedback-disclaimer = Al enviar se comparten comentarios y este chat para ayudar a { -brand-shorter-name } a mejorar { -smart-window-brand-name }. Los otros chats se mantienen privados. <a data-l10n-name="learn-more">Conocer más</a>
 aiwindow-feedback-submit = Enviar
 aiwindow-feedback-cancel = Cancelar

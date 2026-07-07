@@ -303,6 +303,7 @@ appmenuitem-sign-in-account = Ingresar a tu cuenta
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obtener alertas de filtración de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantener el correo electrónico privado
 appmenuitem-relay-description = Enmascarar correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar panel de máscaras de correo electrónico
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
