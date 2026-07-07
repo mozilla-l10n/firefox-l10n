@@ -464,6 +464,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Eiporu ijypykuévarõ
 set-default-menu-message-primary-button-variant = Ereko kundahára eiporuvévarõ
+set-default-menu-message-primary-button-short-variant = Ejapo { -brand-short-name }-gui ypyguárõ
 
 ## Firefox Relay 50 Masks Announcement
 
