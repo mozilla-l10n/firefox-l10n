@@ -99,6 +99,8 @@ aiwindow-input-model-select-settings-link = Model ayarları
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var
+aiwindow-firstrun-memories-privacy-body = Anılar bu cihazda depolanıyor. İstediğiniz zaman silebilir veya kapatabilirsiniz.
+aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan güncelleyebilirsiniz.
 
 ## Ask Toolbar Button
 
@@ -138,11 +140,22 @@ smartwindow-disclaimer = Yapay zekâ hata yapabilir.
 
 firefoxview-chats-nav = Sohbetler
     .title = Sohbetler
+firefoxview-chats-header = Sohbetler
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Sohbetlerde ara
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-chat-date-today = Bugün - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Dün - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Sohbetlerinize geri dönün
 
 ## Count displayed in fxview chat search results
 

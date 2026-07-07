@@ -79,6 +79,16 @@ smart-window-closed-tabs-label =
         [one] { $count } sekme kapatıldı
        *[other] { $count } sekme kapatıldı
     }
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } sekme geri yüklendi
+       *[other] { $count } sekme geri yüklendi
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Sekme kapatıldı, sonra geri yüklendi.
+       *[other] Sekmeler kapatıldı, sonra geri yüklendi.
+    }
 smart-window-cancelled-label = İstek iptal edildi.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupla
@@ -87,6 +97,11 @@ smart-window-confirm-group-tabs =
     { $count ->
         [one] { $count } sekmeyi grupla
        *[other] { $count } sekmeyi grupla
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } sekme gruptan çıkarıldı
+       *[other] { $count } sekme gruptan çıkarıldı
     }
 
 ## Action log
