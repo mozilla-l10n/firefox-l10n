@@ -141,12 +141,12 @@ smart-window-grouped-and-ungrouped-label = בוטל הקיבוץ של הלשונ
 smart-window-ungroup-success-summary =
     { $count ->
         [one] בוצע קיבוץ של לשונית אחת, ולאחר מכן בוטל הקיבוץ שלה.
-       *[other] בוצע קיבוץ של { NUMBER($count) } לשוניות, ולאחר מכן בוטל הקיבוץ שלהן.
+       *[other] בוצע קיבוץ של { $count } לשוניות, ולאחר מכן בוטל הקיבוץ שלהן.
     }
 smart-window-ungrouped-row-label =
     { $count ->
         [one] בוטל הקיבוץ של לשונית אחת
-       *[other] בוטל הקיבוץ של { NUMBER($count) } לשוניות
+       *[other] בוטל הקיבוץ של { $count } לשוניות
     }
 
 ## Action log
