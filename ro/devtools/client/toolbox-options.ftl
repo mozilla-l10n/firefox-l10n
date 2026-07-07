@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Activează consola divizată
 options-webconsole-split-console-tooltip =
     .title = Deschide consola divizată cu tasta Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor de rețea
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Mărime maximă a corpului cererii și răspunsului (setează 0 pentru nelimitat):
+options-netmonitor-body-limit-tooltip =
+    .title = Corpurile de cereri sau răspunsuri care depășesc mărimea specificată vor fi trunchiate la afișare sau descărcare în monitorul de rețea. Setează 0 pentru a nu avea nicio limită.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Nelimitat
+options-netmonitor-body-limit-button =
+    .title = Editează mărimea maximă a corpului cererii/răspunsului.
+options-netmonitor-body-limit-restore-default =
+    .title = Restaurează valoarea implicită pentru mărimea maximă a corpului cererii/răspunsului.
+options-netmonitor-body-limit-set =
+    .title = Setează valoarea curentă de intrare ca mărime maximă a corpului cererii/răspunsului.
+
 ## Style Editor section
 
 # The heading

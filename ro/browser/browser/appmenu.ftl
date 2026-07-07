@@ -303,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Intră în cont
+appmenuitem-monitor-title2 = Fii cu un pas înaintea furtului de identitate
+appmenuitem-monitor-description2 = Primește alerte despre încălcări ale securității datelor
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Primește alerte despre încălcări de securitate a datelor
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Păstrează-ți adresa de e-mail privată
+appmenuitem-relay-description2 = Ajută la prevenirea mesajelor nedorite în căsuța poștală
 appmenuitem-relay-description = Maschează adresa de e-mail și numărul de telefon reale
 appmenuitem-services-relay-description = Lansează tabloul de bord pentru măști de e-mail
+appmenuitem-vpn-title2 = Ascunde-ți locația cu { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Fă-ți navigarea mai greu de urmărit
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obține protecție pentru întregul dispozitiv
 appmenuitem-vpn-description = Protejează-ți activitatea online
 appmenu-services-header = Serviciile mele
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Instrumente de confidențialitate
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +335,18 @@ appmenu-manage-profiles =
     .label = Gestionează profilurile
 appmenu-copy-profile =
     .label = Copiază profilul
+appmenu-create-profile2 =
+    .label = Creează un profil nou
 appmenu-create-profile =
     .label = Profil nou
 appmenu-edit-profile =
     .aria-label = Editează profilul
+appmenu-edit-this-profile =
+    .label = Editează acest profilul
+appmenu-profile-current-in-use = Profil utilizat acum
 appmenu-profiles-2 =
     .label = Profiluri
+appmenu-profiles-header = Profiluri
+appmenu-all-profiles =
+    .label = Toate profilurile
+appmenu-secure-sync-header = Sincronizare securizată

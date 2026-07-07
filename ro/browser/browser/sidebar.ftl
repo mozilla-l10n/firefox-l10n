@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Setări bară laterală
 sidebar-hide-tabs-and-sidebar =
     .label = Ascunde filele și bara laterală
+sidebar-open-tools-from-sidebar =
+    .label = Deschide instrumentele din bara laterală
 sidebar-show-on-the-right =
     .label = Mută bara laterală la dreapta
 sidebar-show-on-the-left =
@@ -241,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Fereastra { $winID }
+sidebar-bookmarks-title = Marcaje
 
 ## Context for closing synced tabs when hovering over the items
 
