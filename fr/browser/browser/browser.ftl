@@ -387,7 +387,7 @@ quickactions-addons = Voir les modules
 quickactions-cmd-addons3 = extensions, thèmes, modules, modules complémentaires
 # Opens preferences page at AI controls
 quickactions-manageai = Gérer les paramètres de l’IA
-quickactions-cmd-manageai = désactiver l’IA, désactiver l’IA, gérer l’IA
+quickactions-cmd-manageai = désactiver l’IA, gérer l’IA
 quickactions-cmd-addons2 = modules complémentaires
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Organiser les marque-pages
