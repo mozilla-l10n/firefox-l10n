@@ -62,3 +62,10 @@ action-log-completed-steps =
         [many] Wedi cwblhau { $count } cham
        *[other] Wedi cwblhau { $count } cam
     }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Canlyniadau chwilio sy'n cael eu llwytho yn y tab hwn. Wrthi'n dadansoddi…
