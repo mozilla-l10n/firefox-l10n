@@ -958,7 +958,7 @@ urlbar-result-explanation-last-visited-months-2 = Dernière visite il y a { $mon
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
 #   $date (string) - A localized absolute date string
-urlbar-result-explanation-last-visited-absolute-2 = Derniers visiteurs : { $date }
+urlbar-result-explanation-last-visited-absolute-2 = Dernière visite le { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

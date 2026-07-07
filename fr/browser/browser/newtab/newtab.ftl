@@ -101,7 +101,7 @@ home-prefs-stocks-header =
     .label = Actions
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
-    .label = La photo du jour
+    .label = Photo du jour
 home-prefs-mission-message2 =
     .message = Nos sponsors soutiennent notre mission de créer un meilleur Web.
 home-prefs-manage-topics-link2 =
@@ -183,9 +183,9 @@ newtab-picture-header = Photo du jour · Wikimedia Commons
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
-    .label = Définir un fond d’écran
-    .title = Définir un fond d’écran
-    .aria-label = Choisissez la photo du jour comme fond d’écran
+    .label = Définir comme fond d’écran
+    .title = Définir comme fond d’écran
+    .aria-label = Définissez la photo du jour comme fond d’écran
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gérer le fond d’écran
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -200,10 +200,10 @@ newtab-picture-show-button =
     .title = Afficher la photo du jour
     .aria-label = Afficher la photo du jour
 # Shown when there is no new picture to display yet.
-newtab-picture-check-back = Revenez demain pour une nouvelle photo
+newtab-picture-check-back = Revenez demain pour découvrir une nouvelle photo
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
-newtab-picture-image-alt = Photo du jour Wikimedia Commons
+newtab-picture-image-alt = Photo du jour par Wikimedia Commons
 
 ## Search box component.
 
@@ -551,7 +551,7 @@ newtab-custom-widget-privacy-toggle =
 newtab-custom-widget-stocks-toggle =
     .label = Actions
 newtab-custom-widget-picture-toggle =
-    .label = La photo du jour
+    .label = Photo du jour
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -1338,8 +1338,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Aidez-nous à améliorer les widgets
-newtab-sports-widget-message-survey-body = C’est la fin de la Coupe du monde. Partagez votre retour d’expérience.
-newtab-sports-widget-message-survey-widget-title = Comment était le widget de la Coupe du monde ?
+newtab-sports-widget-message-survey-body = La Coupe du monde est terminée. Donnez-nous votre avis sur votre expérience.
+newtab-sports-widget-message-survey-widget-title = Qu’avez-vous pensé du widget Coupe du monde ?
 newtab-sports-widget-message-survey-widget-body = Faites-nous part de votre avis pour nous aider à améliorer nos futurs widgets. Essayez ensuite le nouveau module.
 newtab-sports-widget-message-survey-cta =
     .label = Participer au sondage
