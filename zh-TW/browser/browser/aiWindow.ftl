@@ -150,6 +150,15 @@ aiwindow-firstrun-default-checkbox-description = 可隨時到設定中切換。
 smartwindow-ask-button =
     .label = 詢問
 
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = 開啟記憶功能
+    .tooltiptext = 有幫助的話就在回應中使用記憶內容
+aiwindow-memories-off =
+    .aria-label = 關閉記憶功能
+    .tooltiptext = 不在回應中使用記憶內容
+
 ## New Chat Button
 
 aiwindow-new-chat =
