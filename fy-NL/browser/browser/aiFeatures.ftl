@@ -60,7 +60,34 @@ smart-window-model-custom-more-link = Mear oer oanpaste modellen
 smart-window-model-custom-save =
     .label = Bewarje
 smart-window-model-custom-save-confirmation = Modeldetails bewarre. Start in nij petear om te testen.
+ai-window-memories-section =
+    .label = Oantinkens
+    .description = { -brand-short-name } kin fan jo aktiviteit leare om oantinkens oan te meitsjen. Se wurde brûkt om antwurden te personalisearjen en wurde lokaal op dit apparaat bewarre.
+ai-window-learn-from-chat-activity =
+    .label = Leare fan chats yn { -smart-window-brand-name }
+ai-window-learn-from-browsing-activity =
+    .label = Leare fan navigaasje yn de klassike en { -smart-window-brand-name(plural-form: "true") }
+ai-window-manage-memories-button =
+    .label = Oantinkens beheare
+ai-window-manage-memories-header =
+    .heading = Oantinkens beheare
+    .description = Oantinkens wurde lokaal op dit apparaat bewarre om jo privacy te beskermjen. Se wurde deistich inkelde kearen ferfarske wylst gebrûk fan { -smart-window-brand-name }, dus it kin even duorje eardat resinte aktiviteit ferwurke is.
+ai-window-no-memories =
+    .label = Noch gjin oantinkens
+    .description = Wylst { -smart-window-brand-name } leart fan jo aktiviteit, sjogge jo hjir oantinkens ferskine.
+ai-window-no-memories-learning-off =
+    .label = Gjin oantinkens om te toanen
+    .description = Leare fan aktiviteit is útskeakele, dus { -smart-window-brand-name } makket gjin oantinkens oan.
 ai-window-delete-all-memories-button =
     .label = Alles fuortsmite
+ai-window-delete-all-memories-title = Alle oantinkens fuortsmite?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Besteande oantinkens wurde fuortsmiten. As jo net wolle dat der nije oantinkens makke wurde, helje dan it finkje fuort by de opsjes foar ‘Leare fan…’ yn de ynstellingen fan { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Fuortsmite
 ai-window-delete-all-memories-cancel = Annulearje
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Oantinken fuortsmite
+    .aria-label = { $label } fuortsmite

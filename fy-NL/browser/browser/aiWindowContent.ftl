@@ -18,6 +18,12 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Der is wat misgien. Probearje it opnij.
 smartwindow-assistant-error-budget-header = Jo hawwe de chatlimyt fan hjoed berikt.
+smartwindow-assistant-error-account-header = Jo moatte jo oanmelde om { -smart-window-brand-name } te brûken.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } hat de limyt berikt. Probearje it letter opnij.
+smartwindow-assistant-error-budget-body = Jo kinne noch hieltyd yn dit finster navigearje. Chat is wer beskikber sa gau as jo deistige limyt opnij ynsteld is.
+smartwindow-assistant-error-many-requests-header = Wachtsje even en probearje it opnij. Der binne tefolle berjochten yn in koarte tiid ferstjoerd.
+smartwindow-assistant-error-max-length-header = It is tiid om in nije chat te starten. Dizze hat de maksimale lingte berikt.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } kin de server net berikke. Probearje in oar netwurk, of skeakelje jo VPN út.
 smartwindow-retry-btn = Opnij probearje
 smartwindow-clear-btn = Nije chat
 smartwindow-signin-btn = Oanmelde
