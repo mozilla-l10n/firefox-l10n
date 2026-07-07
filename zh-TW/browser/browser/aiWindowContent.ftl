@@ -14,11 +14,12 @@ smart-window-context-chips-tag-count = { $tags } 個標籤
 
 smartwindow-assistant-error-generic-header = 某些東西不對勁，請再試一次。
 smartwindow-assistant-error-budget-header = 已達今日的聊天數量上限。
-smartwindow-assistant-error-account-header = 若要使用 { -smart-window-brand-name }，請先登入。
-smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } 目前負荷已滿，請稍後再試。
+smartwindow-assistant-error-account-header = 若要使用{ -smart-window-brand-name }，請先登入。
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name }目前負荷已滿，請稍後再試。
 smartwindow-assistant-error-budget-body = 您還是可以在此視窗繼續上網，您的每日上限重設後可再繼續聊天。
 smartwindow-assistant-error-many-requests-header = 短時間內送出太多訊息，請稍候再試。
 smartwindow-assistant-error-max-length-header = 這個聊天記錄已達長度限制，是時候開啟新聊天了。
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name }無法連線至伺服器，請改用其他網路，或關閉 VPN。
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = 伺服器發生錯誤（HTTP { $status }）。請再試一次。
@@ -70,6 +71,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = 重試
+smartwindow-nl-retry-message = 若您還是想要關閉分頁起來，請選擇<strong>重試</strong>並從開啟的卡片中選擇要關閉的分頁。
+smartwindow-nl-retry-group-tabs-message = 若您還是想要將分頁群組起來，請選擇<strong>重試</strong>並從開啟的卡片中選擇要將哪些分頁組成一組。
 smartwindow-nl-thinking = 正在尋找符合的分頁…
 smartwindow-loading-assistant-response =
     .aria-label = 正在載入助理回覆
