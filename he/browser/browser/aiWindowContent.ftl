@@ -132,6 +132,20 @@ smart-window-grouped-tabs-summary =
        *[other] הקבוצה ״{ $label }״ נוצרה ונוספו { $count } לשוניות.
     }
 smart-window-grouped-tabs-row-label = לשוניות מקובצות
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = בוטל הקיבוץ של הלשוניות
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] בוצע קיבוץ של לשונית אחת, ולאחר מכן בוטל הקיבוץ שלה.
+       *[other] בוצע קיבוץ של { NUMBER($count) } לשוניות, ולאחר מכן בוטל הקיבוץ שלהן.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] בוטל הקיבוץ של לשונית אחת
+       *[other] בוטל הקיבוץ של { NUMBER($count) } לשוניות
+    }
 
 ## Action log
 
