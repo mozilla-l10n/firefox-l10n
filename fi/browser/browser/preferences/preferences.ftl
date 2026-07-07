@@ -1276,6 +1276,12 @@ containers-settings-button =
     .label = Asetukset
 containers-remove-button =
     .label = Poista
+containers-settings-button2 =
+    .title = Asetukset
+containers-remove-button3 =
+    .title = Poista
+containers-remove-button2 =
+    .title = Poista
 
 ## Account and sync
 
@@ -1283,6 +1289,9 @@ sync-group-label =
     .label = Synkronointi
 account-group-label2 =
     .label = Tili
+account-disabled-group =
+    .label = Tili
+    .description = Tilin asetukset eivät ole käytettävissä.
 account-placeholder2 =
     .label = Et ole kirjautunut sisään
     .description = Kirjaudu sisään ja pidä tietosi yksityisenä, salattuna ja välittömästi käyttövalmiina missä hyvänsä käytät { -brand-short-name }ia.

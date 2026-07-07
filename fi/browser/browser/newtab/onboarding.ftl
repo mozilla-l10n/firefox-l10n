@@ -449,6 +449,8 @@ onboarding-checklist-pin = Kiinnitä { -brand-short-name } tehtäväpalkkiin
 onboarding-checklist-import = Tuo edellisestä selaimesta
 onboarding-checklist-extension = Lisää laajennus
 onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
+onboarding-checklist-minimize =
+    .label = Pienennä
 
 ## Tab Groups feature onboarding strings
 

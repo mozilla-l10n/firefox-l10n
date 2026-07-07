@@ -15,7 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Päivitys ei onnistu – järjestelmä ei yhteensopiva
 appmenuitem-banner-update-restart =
     .label = Päivitys saatavilla – käynnistä uudelleen
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Hanki uusin { -brand-short-name }. Säilytä kaikki välilehdet.
+appmenu-nova-update-link = Käynnistä uudelleen päivittääksesi
 appmenu-nova-fxa-sign-in = Kirjaudu sisään
+appmenu-nova-switch-device-promo =
+    .message = Hankitko pian uuden laitteen? Ota { -brand-short-name } mukaasi!
+appmenu-nova-switch-device-link = Näin siirrät tietosi
 appmenuitem-new-tab =
     .label = Uusi välilehti
 appmenuitem-new-window =
@@ -296,15 +303,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Kirjaudu tilillesi
+appmenuitem-monitor-title2 = Pysy identiteettivarkauksien edellä
+appmenuitem-monitor-description2 = Vastaanota hälytyksiä tietovuodoista
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Vastaanota tietovuotovaroituksia
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Pidä sähköpostisi yksityisenä
+appmenuitem-relay-description2 = Auttaa estämään roskapostia
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
 appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallintapaneeli
+appmenuitem-vpn-title2 = Piilota sijaintisi { -mozilla-vpn-brand-name }:llä
+appmenuitem-vpn-description3 = Tee selaamisestasi vaikeammin jäljitettävää
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Hanki koko laitteen suojaus
 appmenuitem-vpn-description = Suojaa toimintaasi verkossa
 appmenu-services-header = Omat palvelut
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Yksityisyystyökalut
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -324,5 +341,12 @@ appmenu-create-profile =
     .label = Uusi profiili
 appmenu-edit-profile =
     .aria-label = Muokkaa profiilia
+appmenu-edit-this-profile =
+    .label = Muokkaa tätä profiilia
+appmenu-profile-current-in-use = Käytössä oleva profiili
 appmenu-profiles-2 =
     .label = Profiilit
+appmenu-profiles-header = Profiilit
+appmenu-all-profiles =
+    .label = Kaikki profiilit
+appmenu-secure-sync-header = Suojattu synkronointi
