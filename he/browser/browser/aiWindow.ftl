@@ -26,6 +26,9 @@ smartwindow-document-title = לשונית חדשה
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = סוג חלון
+    .tooltiptext = מעבר בין חלונות חכמים וקלאסיים.
 ai-window-toggleview-switch-classic =
     .label = חלון קלאסי
     .value = חלון קלאסי
