@@ -17,3 +17,12 @@ smart-window-ungroup-success-summary =
         [many] جُمّع { $count } لسانًا ثم أُلغيَ تجميعهم.
        *[other] جُمّع { $count } لسان ثم أُلغيَ تجميعهم.
     }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [zero] لا ألسنة لإلغائها
+        [one] أُلغيَ لسان واحد
+        [two] أُلغيَ لسانين
+        [few] أُلغيَ { $count } ألسنة
+        [many] أُلغيَ { $count } لسانًا
+       *[other] أُلغيَ { $count } لسان
+    }

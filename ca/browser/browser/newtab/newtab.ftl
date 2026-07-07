@@ -166,6 +166,15 @@ home-prefs-mission-message-learn-more-link-srd = Descobriu com
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Més informació
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Cerca símbols de tíquer
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Amaga les accions
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Més informació
+
 ## Search box component.
 
 # "Search" is a verb/action

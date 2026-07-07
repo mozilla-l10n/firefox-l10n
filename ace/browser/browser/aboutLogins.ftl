@@ -79,3 +79,4 @@ login-list-item-subtitle-missing-username = (hana nan ureueng ngui)
 ## Login
 
 login-item-copy-password-button-text = Salén
+login-item-copied-password-button-text = Teusalén!
