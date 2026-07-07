@@ -211,6 +211,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rete
+profiler-popup-presets-networking-with-logs-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }, includendo i registri di rete. Questi registri possono contenere informazioni sensibili come gli URL visitati.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Rete con registri
 profiler-popup-presets-power-description = Preset per la diagnosi di problemi relativi al consumo di energia in { -brand-shorter-name }, con overhead limitato.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

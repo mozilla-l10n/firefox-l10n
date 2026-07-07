@@ -603,3 +603,35 @@ onboarding-refresh-sync-title = Vai ovunque. Porta i tuoi dati con te.
 onboarding-refresh-gratitude-subtitle = Grazie per aver scelto { -brand-short-name }, l’unico dei browser principali supportato da un’organizzazione senza fini di lucro. Con il tuo supporto, lavoriamo per rendere Internet un posto più sicuro e accessibile per tutti.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } è sempre dalla tua parte
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Puoi cambiare tra le finestre smart e classiche in qualsiasi momento.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Condizioni di utilizzo di { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Per utilizzare { -smart-window-brand-name }, accetta le <a data-l10n-name="terms_of_use">condizioni di utilizzo</a> e l’<a data-l10n-name="privacy_notice">informativa sulla privacy</a> aggiornata.
+smartwindow-existing-user-fx-tou-accept = Accetta
+smartwindow-existing-user-fx-tou-go-back = Torna indietro
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Rendi { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") } il tuo punto di partenza
+smartwindow-onboarding-subtitle = Riassumi, confronta e fai domande senza perdere un colpo.
+smartwindow-onboarding-primary-button = Continua
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = La mascotte di { -brand-product-name } (Kit) con oggetti di scena a forma di stella
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Preferisci tenere l’assistente chiuso?
+smartwindow-sidebar-auto-open-callout-body = Puoi comunque aprirlo ogni volta che ti serve.
+smartwindow-sidebar-auto-open-callout-accept = Sì, mantieni chiuso
+smartwindow-sidebar-auto-open-callout-dismiss = No grazie
+smartwindow-sidebar-auto-open-callout-accepted-title = L’assistente rimarrà chiuso
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilizza Chiedi per aprirlo in qualsiasi pagina. Modifica questa opzione in qualunche momento nelle <a data-l10n-name="settings">impostazioni</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = OK
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se cambi idea, puoi aggiornare le impostazioni predefinite nelle <a data-l10n-name="settings">impostazioni</a> in qualsiasi momento.

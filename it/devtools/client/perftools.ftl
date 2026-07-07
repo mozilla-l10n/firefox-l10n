@@ -177,6 +177,8 @@ perftools-presets-ml-label = Machine learning
 perftools-presets-ml-description2 = Preset per la diagnosi di problemi relativi a machine learning in { -brand-shorter-name }.
 perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Rete con registri
+perftools-presets-networking-with-logs-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }, includendo i registri di rete. Questi registri possono contenere informazioni sensibili come gli URL visitati.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Preset per la diagnosi di problemi relativi al consumo di energia in { -brand-shorter-name }, con overhead limitato.
