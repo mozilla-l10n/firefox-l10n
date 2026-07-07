@@ -27,6 +27,12 @@ user-context-none =
 user-context-manage-containers =
     .label = Muokkaa eristystiloja
     .accesskey = M
+user-context-new-tab =
+    .label = Uusi välilehti
+    .accesskey = v
+user-context-add-container =
+    .label = Lisää uusi eristystila
+    .accesskey = a
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

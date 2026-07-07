@@ -23,6 +23,9 @@ customkeys-history-reopen-window = Avaa uudelleen viimeksi suljettu ikkuna
 customkeys-sidebar-toggle = Näytä/piilota sivupaneeli
 customkeys-view-bookmarks-toolbar = Kirjanmerkkien työkalupalkki päällä/pois
 customkeys-view-picture-in-picture = Kuva kuvassa
+customkeys-view-add-split-view = Lisää jaettu näkymä
+# Separate is a verb
+customkeys-view-separate-split-view = Erillinen jaettu näkymä
 customkeys-dev-tools = Web-kehittäjätyökalut
 customkeys-dev-inspector = DOM- ja tyylitarkastaja
 customkeys-dev-webconsole = Web-konsoli
@@ -59,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Tämä ominaisuus on kokeellinen eikä välttämättä toimi odotetulla tavalla.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Virheellinen
+customkeys-shortcut-unassigned =
+    .placeholder = Lisää pikanäppäin
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Pikanäppäin toiminnolle: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Muokkaa
+    .tooltiptext = Muokkaa
 customkeys-key-clear =
     .aria-label = Tyhjennä
     .tooltiptext = Tyhjennä
+customkeys-key-reset =
+    .aria-label = Palauta
+    .tooltiptext = Palauta
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Paina uutta näppäintä:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Poistetaanko toinen pikanäppäin?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Tämä pikanäppäin on jo käytössä toiminnolle “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Käytä silti
+customkeys-conflict-confirm-button-cancel = Peruuta
+customkeys-reset-all-confirm-title = Palautetaanko oletusarvot?
+customkeys-reset-all-confirm-body = Kaikki luomasi mukautetut pikanäppäimet poistetaan.
+customkeys-reset-all-confirm-button-confirm = Palauta oletusasetukset
+customkeys-reset-all-confirm-button-cancel = Peruuta
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sivupaneeli
+customkeys-title-heading =
+    .heading = Pikanäppäimet
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Hae pikanäppäimiä
+    .placeholder = Hae pikanäppäimiä
+customkeys-description = Hallitse, miten liikut ja olet vuorovaikutuksessa { -brand-short-name }in kanssa.
+customkeys-support-link-text = Lue lisää
+customkeys-reset-all-button = Palauta oletukset
