@@ -1341,6 +1341,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Βοηθήστε μας να βελτιώσουμε τα γραφικά στοιχεία
+newtab-sports-widget-message-survey-body = Το Παγκόσμιο Κύπελλο τελείωσε. Μοιραστείτε τα σχόλιά σας σχετικά με την εμπειρία σας.
+newtab-sports-widget-message-survey-widget-title = Πώς ήταν το γραφικό στοιχείο του Παγκοσμίου Κυπέλλου;
+newtab-sports-widget-message-survey-widget-body = Μοιραστείτε τα σχόλιά σας για να μας βοηθήσετε να βελτιώσουμε τα μελλοντικά γραφικά στοιχεία. Στη συνέχεια, δοκιμάστε το νέο γραφικό στοιχείο στη συλλογή σας.
 newtab-sports-widget-message-survey-cta =
     .label = Συμμετοχή στην έρευνα
 

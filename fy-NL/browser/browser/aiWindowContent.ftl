@@ -78,12 +78,24 @@ smartwindow-nl-retry-tool-button =
 smartwindow-nl-retry-message = As jo dochs ljepblêden slute wolle, kies dan <strong>Opnij probearje</strong> en meitsje jo seleksje yn de kaart dy’t iepene wurdt.
 smartwindow-nl-retry-group-tabs-message = As jo dochs ljepblêden groepearje wolle, kies dan <strong>Opnij probearje</strong> en meitsje jo seleksje yn de kaart dy’t iepene wurdt hokker ljepblêden.
 smartwindow-nl-thinking = Sykje nei oerienkommende ljepblêden…
+smartwindow-loading-assistant-response =
+    .aria-label = Assistintrespons lade
 smartwindow-nl-undo-button =
     .label = Ungedien meitsje
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } ljepblêd sletten
+       *[other] { $count } ljepblêden sletten
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Klear! Ljepblêd sletten.
+       *[other] Klear! Ljepblêden sletten.
+    }
 smart-window-closed-tabs-row-label = Sletten ljepblêden
 smart-window-closed-and-restored-label = Sletten en weromsette ljepblêden
 smart-window-restored-row-label =

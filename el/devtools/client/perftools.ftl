@@ -175,6 +175,8 @@ perftools-presets-ml-label = Μηχανική μάθηση
 perftools-presets-ml-description2 = Προεπιλογή για τη διερεύνηση σφαλμάτων μηχανικής μάθησης στο { -brand-shorter-name }.
 perftools-presets-networking-label = Δικτύωση
 perftools-presets-networking-description = Προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Δικτύωση με αρχεία καταγραφής
+perftools-presets-networking-with-logs-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων δικτύου στο { -brand-shorter-name }, συμπεριλαμβανομένων των αρχείων καταγραφής δικτύωσης. Αυτά τα αρχεία ενδέχεται να περιέχουν ευαίσθητες πληροφορίες, όπως τα URL που επισκέπτεστε.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Ενέργεια
 perftools-presets-power-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων χρήσης ενέργειας στο { -brand-shorter-name }, με μικρή επιβάρυνση.

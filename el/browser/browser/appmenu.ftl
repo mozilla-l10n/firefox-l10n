@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Δικτύωση
+profiler-popup-presets-networking-with-logs-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων δικτύου στο { -brand-shorter-name }, συμπεριλαμβανομένων των αρχείων καταγραφής δικτύωσης. Αυτά τα αρχεία ενδέχεται να περιέχουν ευαίσθητες πληροφορίες, όπως τα URL που επισκέπτεστε.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Δικτύωση με αρχεία καταγραφής
 profiler-popup-presets-power-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων χρήσης ενέργειας στο { -brand-shorter-name }, με μικρή επιβάρυνση.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -303,13 +306,17 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Συνδεθείτε στον λογαριασμό σας
+appmenuitem-monitor-title2 = Προφυλαχτείτε από την υποκλοπή ταυτότητας
 appmenuitem-monitor-description2 = Λάβετε ειδοποιήσεις για παραβιάσεις δεδομένων
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Λάβετε ειδοποιήσεις παραβίασης δεδομένων
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Διατηρήστε το email σας ιδιωτικό
+appmenuitem-relay-description2 = Συμβάλλει στην αποτροπή ανεπιθύμητων μηνυμάτων στα εισερχόμενά σας
 appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
 appmenuitem-services-relay-description = Εκκίνηση πίνακα μασκών email
 appmenuitem-vpn-title2 = Αποκρύψτε την τοποθεσία σας με το { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Κάντε την περιήγησή σας πιο δύσκολη στην καταγραφή
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Λάβετε προστασία για ολόκληρη τη συσκευή
 appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο
