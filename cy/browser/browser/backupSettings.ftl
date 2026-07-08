@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Lleoliad
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (argymell)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Dewis lleoliad
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Dewis…

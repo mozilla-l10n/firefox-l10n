@@ -62,17 +62,43 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Mae'r nodwedd hon yn arbrofol ac efallai na fydd yn gweithio yn ôl y disgwyl.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Annilys
+customkeys-shortcut-unassigned =
+    .placeholder = Ychwanegu llwybr byr
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Llwybr byr ar gyfer: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Golygu
+    .tooltiptext = Golygu
 customkeys-key-clear =
     .aria-label = Clirio
     .tooltiptext = Clirio
+customkeys-key-reset =
+    .aria-label = Adfer
+    .tooltiptext = Adfer
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Pwyswch fysell newydd:
 
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Tynnu llwybr byr arall?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Mae'r allwedd hon eisoes yn cael ei defnyddio gan "{ $conflict }".
+customkeys-conflict-confirm-button-confirm = Defnyddio beth bynnag
+customkeys-conflict-confirm-button-cancel = Diddymu
+customkeys-reset-all-confirm-title = Adfer y rhagosodiadau
+customkeys-reset-all-confirm-body = Bydd unrhyw lwybrau byr bysellfwrdd cyfaddas rydych chi wedi'u creu yn cael eu dileu.
+customkeys-reset-all-confirm-button-confirm = Adfer y rhagosodiadau
+customkeys-reset-all-confirm-button-cancel = Diddymu
+
 ## Sidebar
 
+customkeys-sidebar =
+    .aria-label = Bar Ochr
 customkeys-title-heading =
     .heading = Llwybrau Byr Bysellfwrdd
 # Search is a verb, as in "search through shortcuts".

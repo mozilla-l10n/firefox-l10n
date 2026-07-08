@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
 profiler-popup-presets-networking-label =
     .label = Rhwydweithio
+profiler-popup-presets-networking-with-logs-description = Y rhagosodiad ar gyfer ymchwilio i fygiau rhwydweithio yn { -brand-shorter-name }, gan gynnwys logiau rhwydweithio. Gall y logiau hyn gynnwys manylion sensitif fel yr URLau rydych chi'n ymweld â nhw.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Rhwydweithio gyda Logiau
 profiler-popup-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wallau defnydd pŵer yn { -brand-shorter-name }, gyda gorbenion isel.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -292,6 +295,8 @@ appmenu-customizetoolbar =
     .label = Cyfaddasu'r Bar Offer…
 appmenu-abouttranslations =
     .label = Cyfieithu…
+appmenu-edit-pdf =
+    .label = Golygu PDF…
 appmenu-developer-tools-subheader = Offer y Porwr
 appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr
@@ -301,15 +306,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Mewngofnodwch i'ch cyfrif
+appmenuitem-monitor-title2 = Cadw ar y Blaen am Ladrad Hunaniaeth
+appmenuitem-monitor-description2 = Cael rhybuddion am dor-data
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Cael rhybuddion tor-data
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Cadw Eich E-bost yn Breifat
+appmenuitem-relay-description2 = yn helpu i rwystro sbam yn eich blwch derbyn
 appmenuitem-relay-description = Cuddiwch eich e-bost a'ch ffôn go iawn
 appmenuitem-services-relay-description = Agor dangosfwrdd e-bost enwarall
+appmenuitem-vpn-title2 = Cuddio Eich Lleoliad gyda { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Gwneud eich pori yn anos i'w olrhain
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Cael diogelwch dyfais gyfan
 appmenuitem-vpn-description = Diogelwch eich preifatrwydd ar-lein
 appmenu-services-header = Gwasanaethau
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Offer preifatrwydd
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -323,9 +338,18 @@ appmenu-manage-profiles =
     .label = Rheoli proffiliau
 appmenu-copy-profile =
     .label = Copïo'r proffil hwn
+appmenu-create-profile2 =
+    .label = Creu Proffil Newydd
 appmenu-create-profile =
     .label = Proffil newydd
 appmenu-edit-profile =
     .aria-label = Golygu proffil
+appmenu-edit-this-profile =
+    .label = Golygu'r Proffil Hwn
+appmenu-profile-current-in-use = Proffil cyfredol yn cael ei ddefnyddio
 appmenu-profiles-2 =
     .label = Proffiliau
+appmenu-profiles-header = Proffiliau
+appmenu-all-profiles =
+    .label = Pob Proffil
+appmenu-secure-sync-header = Cydweddu diogel

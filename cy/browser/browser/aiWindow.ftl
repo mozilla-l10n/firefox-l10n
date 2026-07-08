@@ -313,3 +313,6 @@ aiwindow-ai-chat-grid-view-controls =
 aiwindow-ai-chat-grid-list-view =
     .aria-label = Modd newid: Golwg Rhestr
     .tooltiptext = Golwg Rhestr
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Modd newid: Golwg Grid
+    .tooltiptext = Golwg Grid

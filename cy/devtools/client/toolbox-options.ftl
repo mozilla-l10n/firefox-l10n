@@ -76,6 +76,30 @@ options-webconsole-split-console-label = Galluogi Consol Hollt
 options-webconsole-split-console-tooltip =
     .title = Agor Consol Hollt gyda'r Fysell Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor Rhwydwaith
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Uchafswm maint y corff cais ac ymateb (wedi'i osod i 0 ar gyfer diderfyn):
+options-netmonitor-body-limit-tooltip =
+    .title = Bydd cyrff cais neu ymateb sy'n fwy na'r maint penodedig yn cael eu cwtogi pan fyddan nhw'n cael eu harddangos neu eu llwytho i lawr yn Monitor y Rhwydwaith. Gosodwch i 0 i fod heb gyfyngiad.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Diderfyn
+options-netmonitor-body-limit-button =
+    .title = Golygu maint mwyaf y corff cais/ymateb.
+options-netmonitor-body-limit-restore-default =
+    .title = Adfer y gwerth rhagosodedig ar gyfer uchafswm maint y corff cais/ymateb.
+options-netmonitor-body-limit-set =
+    .title = Gosod y gwerth mewnbwn cyfredol fel uchafswm maint corff cais/ymateb.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Nodweddion Arbrofol
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Dangos dalennau arddull yn y dadfygiwr
+
 ## Style Editor section
 
 # The heading
