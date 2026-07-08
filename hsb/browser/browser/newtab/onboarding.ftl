@@ -602,10 +602,15 @@ onboarding-refresh-gratitude-subtitle = Wulki dźak, zo { -brand-short-name } wu
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Přepinajće kóždy čas mjez inteligentnym a klasiskim woknom.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Wužiwanske wuměnjenja { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Zo byšće { -smart-window-brand-name } wužiwał, zwolće do <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> a zaktualizowaneje <a data-l10n-name="privacy_notice">zdźělenki priwatnosće</a>.
 smartwindow-existing-user-fx-tou-accept = Akceptować
 smartwindow-existing-user-fx-tou-go-back = Wróćo
 
