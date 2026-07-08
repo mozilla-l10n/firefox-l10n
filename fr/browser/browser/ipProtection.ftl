@@ -124,7 +124,7 @@ ipprotection-locations-subview-recommended-description = Sélectionne l’emplac
 # Label shown next to a VPN location that the user cannot select.
 # The aria-label is for accessibility, and should communicate that the
 # location is unavailable and the button is disabled.
-ipprotection-locations-unavailable-label-1 = Occupé
+ipprotection-locations-unavailable-label-1 = Indisponible
     .aria-label = Indisponible, désactivé
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Indisponible
