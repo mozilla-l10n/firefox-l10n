@@ -197,6 +197,8 @@ newtab-picture-menu-manage-wallpaper = Rheoli papur wal
 newtab-picture-menu-hide-photo = Cuddio darlun heddiw
 # Context menu item that restores today’s picture after it has been hidden.
 newtab-picture-menu-show-photo = Dangos darlun heddiw
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Dysgu rhagor
 
 ## Search box component.
 

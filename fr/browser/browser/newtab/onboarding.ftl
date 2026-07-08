@@ -621,15 +621,15 @@ smartwindow-onboarding-subtitle = Résumez, comparez et posez des questions en u
 smartwindow-onboarding-primary-button = Continuer
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
-    .aria-label = { -brand-product-name } mascotte (Kit) avec étoiles
+    .aria-label = La mascotte de { -brand-product-name } (Kit) avec des accessoires en forme d’étoile
 
 ## Smart Window Sidebar Auto-Open Pref
 
-smartwindow-sidebar-auto-open-callout-title = Vous voulez garder l’assistant fermé ?
+smartwindow-sidebar-auto-open-callout-title = Vous préférez que l’assistant reste fermé ?
 smartwindow-sidebar-auto-open-callout-body = Vous pourrez toujours l’ouvrir quand vous en avez besoin.
 smartwindow-sidebar-auto-open-callout-accept = Oui, le garder fermé
 smartwindow-sidebar-auto-open-callout-dismiss = Non merci
 smartwindow-sidebar-auto-open-callout-accepted-title = L’assistant restera fermé
-smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilisez « Demander » pour l’ouvrir sur n’importe quelle page. Modifiez à tout moment depuis les <a data-l10n-name="settings">paramètres</a>.
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilisez « Poser une question » pour l’ouvrir sur n’importe quelle page. Modifiez ce choix à tout moment depuis les <a data-l10n-name="settings">paramètres</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = J’ai compris
-smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si vous changez d’avis, vous pouvez mettre à jour l’option par défaut dans les <a data-l10n-name="settings">paramètres</a> à tout moment.
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si vous changez d’avis, vous pouvez toujours modifier l’option par défaut dans les <a data-l10n-name="settings">paramètres</a>.
