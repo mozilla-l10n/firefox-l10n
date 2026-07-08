@@ -65,5 +65,9 @@ aiwindow-firstrun-model-fast-body = Obtener respuestas rápidamente
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibilidad
-aiwindow-firstrun-model-allpurpose-body = Un modelo adaptado a una variedad de necesidades
+aiwindow-firstrun-model-allpurpose-body = Obtener respuestas adaptadas a necesidades distintas
 aiwindow-firstrun-model-personal-label = Personalización
+aiwindow-firstrun-model-personal-body = Obtener respuestas altamente adaptadas a una necesidad específica
+aiwindow-firstrun-button = ¡Comencemos!
+aiwindow-firstrun-back-button = Atrás
+aiwindow-firstrun-next-button = Siguiente
