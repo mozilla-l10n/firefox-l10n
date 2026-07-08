@@ -93,6 +93,13 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = 將目前輸入的值設定為最大請求/回覆內容大小。
 
+## Experimental section
+
+# The heading
+options-experimental-label = 實驗功能
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = 在除錯器中顯示樣式表
+
 ## Style Editor section
 
 # The heading

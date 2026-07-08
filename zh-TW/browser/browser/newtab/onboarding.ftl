@@ -588,3 +588,17 @@ onboarding-refresh-sync-title = 去到哪就同步到哪
 onboarding-refresh-gratitude-subtitle = 感謝您使用 { -brand-short-name }，這是唯一一套由非營利組織在背後全力相挺的主流瀏覽器。透過您的支援，我們努力讓網際網路環境變得更安全、更可被所有人使用。
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } 是您的堅強後盾
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = 接受
+smartwindow-existing-user-fx-tou-go-back = 返回
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = 繼續
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = 好，請關掉
+smartwindow-sidebar-auto-open-callout-dismiss = 不要，謝謝
