@@ -199,6 +199,15 @@ newtab-picture-menu-hide-photo = Cuddio darlun heddiw
 newtab-picture-menu-show-photo = Dangos darlun heddiw
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Dysgu rhagor
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Dangos darlun heddiw
+    .aria-label = Dangos darlun heddiw
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Dewch nôl yfory am lun newydd
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Darlun y dydd Comin Wikimedia
 
 ## Search box component.
 
@@ -235,6 +244,7 @@ newtab-topsites-add-shortcut-label = Ychwanegu Llwybr Byr
 newtab-topsites-add-shortcut-title =
     .title = Ychwanegu Llwybr Byr
     .aria-label = Ychwanegu Llwybr Byr
+newtab-shortcuts-pinned-area = Ardal wedi'i Phinio
 newtab-topsites-title-label = Teitl
 newtab-topsites-title-input =
     .placeholder = Rhoi teitl
@@ -555,6 +565,10 @@ newtab-custom-widget-sports-toggle2 =
     .label = Chwaraeon
 newtab-custom-widget-privacy-toggle =
     .label = Preifatrwydd
+newtab-custom-widget-stocks-toggle =
+    .label = Stociau
+newtab-custom-widget-picture-toggle =
+    .label = Darlun y dydd
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau
@@ -1349,6 +1363,15 @@ newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gy
 newtab-sports-widget-message-day-in-play-body = Dilynwch Gwpan y Byd, cadw ar y dasg, dilyn amser o amgylch y byd, a mwy.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Archwilio'r teclynnau
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Helpwch ni i wella teclynnau
+newtab-sports-widget-message-survey-body = Dyna ddiwedd ar Gwpan y Byd. Rhannwch eich adborth am y profiad.
+newtab-sports-widget-message-survey-widget-title = Sut oedd teclyn Cwpan y Byd?
+newtab-sports-widget-message-survey-widget-body = Rhannwch eich adborth i'n helpu ni i wella teclynnau'r dyfodol. Yna, rhowch gynnig ar yr un newydd yn eich tîm.
+newtab-sports-widget-message-survey-cta =
+    .label = Llenwch yr Arolwg
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

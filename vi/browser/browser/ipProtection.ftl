@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Chọn một địa điểm khác �
 ipprotecion-locations-subview-recommended-label = Được đề xuất
 ipprotection-locations-subview-recommended-description = Tìm địa điểm nhanh nhất
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Không có sẵn
+    .aria-label = Không có sẵn, đã vô hiệu hóa
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Không có sẵn
 ipprotection-locations-subview-promo =
     .heading = Tăng cường bảo mật với { -mozilla-vpn-brand-name }

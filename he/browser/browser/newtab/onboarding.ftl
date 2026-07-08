@@ -556,3 +556,34 @@ onboarding-refresh-sync-title = ללכת לכל מקום. לסנכרן הכל.
 onboarding-refresh-gratitude-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, הדפדפן העיקרי היחידי המגובה על־ידי עמותה שאינה למטרות רווח. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } מאחוריך
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = ניתן להחליף בין חלונות חכמים וקלאסיים בכל עת.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = תנאי השימוש של { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = כדי להשתמש ב־{ -smart-window-brand-name }, נא לאשר את <a data-l10n-name="terms_of_use">תנאי השימוש</a> ו<a data-l10n-name="privacy_notice">הצהרת הפרטיות</a> המעודכנת.
+smartwindow-existing-user-fx-tou-accept = אישור
+smartwindow-existing-user-fx-tou-go-back = חזרה אחורה
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = הגדרת { -smart-window-brand-name } כברירת מחדל
+smartwindow-onboarding-subtitle = לסכם, להשוות ולשאול שאלות
+smartwindow-onboarding-primary-button = המשך
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = הקמע של { -brand-product-name } (קיט) עם כוכבים
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = רוצה שהעוזרת תישאר סגורה?
+smartwindow-sidebar-auto-open-callout-body = באפשרותך עדיין לפתוח אותה מתי שיהיה לך צורך בה.
+smartwindow-sidebar-auto-open-callout-accept = כן, להשאיר סגור
+smartwindow-sidebar-auto-open-callout-dismiss = לא תודה
+smartwindow-sidebar-auto-open-callout-accepted-title = העוזרת תישאר סגורה
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = ניתן להשתמש ב״לשאול״ כדי לפתוח אותה בכל דף. אפשר לשנות את זה בכל עת ב<a data-l10n-name="settings">הגדרות</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = הבנתי

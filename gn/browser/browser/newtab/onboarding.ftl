@@ -600,3 +600,18 @@ onboarding-refresh-sync-title = Oimeraẽ hendápe. Oñembojuehepa.
 onboarding-refresh-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-name }, kundahára guasu oykekóva peteĩ atyguasu vivu’ỹguáva. Nepytyvõ rupive, romba’apo Ñanduti hekorosã ha ijuruja hag̃ua opavavetépe g̃uarã.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } oĩta nendive
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Moneĩ
+smartwindow-existing-user-fx-tou-go-back = Guevijey
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Ejapo { -smart-window-brand-name }-gui eiporusevévarõ
+smartwindow-onboarding-primary-button = Eku’ejey
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Héẽ, embotymeme
+smartwindow-sidebar-auto-open-callout-dismiss = Nahániri, aguyje

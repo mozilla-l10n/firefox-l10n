@@ -385,6 +385,9 @@ quickactions-addons = Xem tiện tích
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = tiện ích, chủ đề, tien ich, chu de, tiện ích mở rộng, tien ich mo rong
+# Opens preferences page at AI controls
+quickactions-manageai = Quản lý kiểm soát trí tuệ nhân tạo
+quickactions-cmd-manageai = vô hiệu hóa ai, tắt ai, quản lý ai, vo hieu hoa ai, tat ai, quan ly ai, disable ai, off ai, manage ai
 quickactions-cmd-addons2 = xem tiện ích, xem tien ich, tiện ích, tien ich, extensions, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Quản lý dấu trang
@@ -904,6 +907,31 @@ urlbar-result-explanation-last-visited-absolute = Lần cuối bạn truy cập 
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Đã đánh dấu { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Lần truy cập cuối { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 = Lần truy cập cuối { $daysAgo } ngày trước
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 = Lần truy cập cuối { $weeksAgo } tuần trước
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 = Lần truy cập cuối { $monthsAgo } tháng trước
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Lần truy cập cuối { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

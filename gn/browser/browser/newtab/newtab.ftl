@@ -177,6 +177,15 @@ newtab-stocks-menu-learn-more = Eikuaave
 
 ## Strings for the Picture of the Day widget
 
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Picture of the day · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Emoĩ mba’erechaha ruguárõ
+    .title = Emoĩ mba’erechaha ruguárõ
+    .aria-label = Emoĩ ta’ãnga aragua mba’erechaha ruguárõ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Emongu’e jehechaha rugua
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -186,6 +195,12 @@ newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
 newtab-picture-menu-show-photo = Ehechauka ta’ãnga aragua
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Eikuaave
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Ehechauka ta’ãnga aragua
+    .aria-label = Ehechauka ta’ãnga aragua
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Eju jey ko’ẽrõ ta’ãnga pyahurã rekávo
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons ra’ãnga araguáva
@@ -1313,6 +1328,7 @@ newtab-sports-widget-team-tbd = Ojekuaa’ỹva gueteri
 newtab-sports-widget-message-wallpapers-title = Eg̃uahẽ Mundial ñepyrũme mba’erechaha rugua pyahu reheve
 newtab-sports-widget-message-wallpapers-body = Emog̃uahẽ upe energía partído oikotaha ára ne mohendahápe.
 newtab-sports-widget-message-wallpapers-cta = Eiporavo mba’erechaha rugua
+newtab-sports-widget-message-wallpapers-semifinals-title = Erekóke mba’erechaha rugua pyahu semifinal-pe g̃uarã
 newtab-sports-widget-message-add-widgets-cta =
     .label = Embojuaju widgets
 newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’épe umi widget { -brand-product-name } rupi.
@@ -1322,6 +1338,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Ore pytyvõ widgets porãverã
 newtab-sports-widget-message-survey-cta =
     .label = Ejapo encuesta
 

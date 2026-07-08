@@ -39,6 +39,8 @@ tabbrowser-close-tabs-tooltip =
     .label = Đóng { $tabCount } thẻ
 tab-splitview-splitter =
     .aria-label = Thay đổi kích thước thẻ của chia cửa sổ
+tab-devtools-splitter =
+    .aria-label = Thay đổi kích cỡ bảng Công cụ dành cho nhà phát triển
 
 ## Tooltips for tab audio control
 ## Variables:

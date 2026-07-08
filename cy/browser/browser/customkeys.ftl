@@ -73,6 +73,8 @@ customkeys-key-new =
 
 ## Sidebar
 
+customkeys-title-heading =
+    .heading = Llwybrau Byr Bysellfwrdd
 # Search is a verb, as in "search through shortcuts".
 customkeys-search-input =
     .aria-label = Chwilio llwybrau byr

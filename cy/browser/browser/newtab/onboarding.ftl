@@ -449,6 +449,10 @@ onboarding-checklist-pin = Pinio { -brand-short-name } i'r bar tasgau
 onboarding-checklist-import = Mewnforiwch o'r porwr blaenorol
 onboarding-checklist-extension = Ychwanegu estyniad
 onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
+onboarding-checklist-minimize =
+    .label = Lleihau
+onboarding-checklist-remove =
+    .label = Dileu'r rhestr wirio
 
 ## Tab Groups feature onboarding strings
 
@@ -597,3 +601,19 @@ onboarding-refresh-sync-title = Mynd i unrhyw le. Cydweddu popeth.
 onboarding-refresh-gratitude-subtitle = Diolch am ddefnyddio { -brand-short-name }, yr unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw. Gyda'ch cefnogaeth chi, rydyn ni'n gweithio i wneud y rhyngrwyd yn fwy diogel ac yn fwy hygyrch i bawb.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Mae { -brand-short-name } yn eich cefnogi
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Newid rhwng Smart a Ffenestri Clasurol ar unrhyw bryd.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Amodau Defnydd { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = I ddefnyddio { -smart-window-brand-name }, derbyniwch y <a data-l10n-name="terms_of_use">Telerau Defnydd</a> a'r <a data-l10n-name="privacy_notice">Hysbysiad Preifatrwydd</a> diweddaraf.
+smartwindow-existing-user-fx-tou-accept = Derbyn
+smartwindow-existing-user-fx-tou-go-back = Mynd nôl
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Gwneud { -smart-window-brand-name } eich prif ddewis

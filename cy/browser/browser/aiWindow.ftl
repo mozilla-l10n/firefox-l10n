@@ -136,6 +136,8 @@ aiwindow-firstrun-memories-conversation-title = Cadwch y sgwrs i fynd
 aiwindow-firstrun-memories-conversation-body = Mae dysgu o sgyrsiau yn golygu y bydd yn rhaid i chi ailadrodd llai.
 aiwindow-firstrun-memories-relevance-title = Atebion mwy perthnasol
 aiwindow-firstrun-memories-relevance-body = Mae dysgu o bori yn rhoi'r darlun ehangach i { -smart-window-brand-name }.
+aiwindow-firstrun-memories-privacy-title = Wedi'i seilio ar breifatrwydd
+aiwindow-firstrun-memories-privacy-body = Mae atgofion yn cael eu cadw ar y ddyfais hon. Gallwch eu dileu neu eu diffodd ar unrhyw bryd.
 aiwindow-firstrun-memories-choose-label = Dewis beth mae { -smart-window-brand-name } yn dysgu ohono
 aiwindow-firstrun-memories-checkbox-chats = Sgyrsiau yn { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Pori ar draws { -brand-product-name }
@@ -294,3 +296,17 @@ aiwindow-feedback-add-details = Ychwanegwch fanylion os hoffech chi. Dim manylio
 aiwindow-feedback-disclaimer = Mae cyflwyno yn rhannu'ch adborth a'r sgwrs hon i helpu { -brand-shorter-name } i wella { -smart-window-brand-name }. Mae eich sgyrsiau eraill yn aros yn breifat. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 aiwindow-feedback-submit = Cyflwyno
 aiwindow-feedback-cancel = Diddymu
+aiwindow-feedback-reason-incorrect-or-misleading = Anghywir neu gamarweiniol
+aiwindow-feedback-reason-doesnt-address-my-request = Dyw e ddim yn ateb fy nghais
+aiwindow-feedback-reason-lacks-personalization = Diffyg personoli neu gyd-destun
+aiwindow-feedback-reason-performance-or-usability = Mater perfformiad neu ddefnyddioldeb
+aiwindow-feedback-reason-harmful-or-offensive = Niweidiol neu sarhaus
+aiwindow-feedback-reason-other = Arall
+aiwindow-feedback-preview-report = Gweld manylion sgwrs
+aiwindow-feedback-preview-report-with-page = Gweld manylion sgwrs a thudalen
+aiwindow-feedback-include-page-content = Rhannu'r tudalennau sy'n cael eu cyfeirio atyn nhw yn y sgwrs hon
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Newid cynllun golwg
