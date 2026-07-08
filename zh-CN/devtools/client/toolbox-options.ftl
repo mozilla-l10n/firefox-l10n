@@ -122,6 +122,10 @@ options-sourceeditor-keybinding-default-label = 默认设置
 options-local-mode-folder-invalid = 文件夹不存在或无效。
 options-local-mode-toggle-enable = 启用
 options-local-mode-toggle-disable = 禁用
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = 确定要移除“{ $mappingOrigin }”映射吗？
 
 ## Advanced section
 
