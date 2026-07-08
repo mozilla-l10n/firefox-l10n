@@ -84,3 +84,73 @@ aiwindow-firstrun-memories-no-create = Iawn. Fydd { -smart-window-brand-name } d
 aiwindow-firstrun-default-title = Gwneud { -smart-window-brand-name } eich dewis
 aiwindow-firstrun-default-subtitle = Pori, chwilio, a gofyn mewn un man. Gallwch chi agor Windows Preifat a Chlasurol o hyd pan fydd angen.
 aiwindow-firstrun-default-checkbox-label = Agor { -brand-product-name } yn { -smart-window-brand-name } bob tro
+aiwindow-firstrun-default-checkbox-description = Newid i'r gosodiadau unrhyw bryd
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Gofyn
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Atgofion ymlaen
+    .tooltiptext = Defnyddio atgofion mewn ymatebion pan fydd o help
+aiwindow-memories-off =
+    .aria-label = Atgofion i ffwrdd
+    .tooltiptext = Peidio defnyddio atgofion mewn ymatebion
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Sgwrs newydd
+    .tooltiptext = Sgwrs newydd
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Cau
+    .tooltiptext = Cau
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Bydd data wedi'i gydweddu'n aros yn eich cyfrif. Bydd agor { -smart-window-brand-name(plural-form: "true") } yn newid i Ffenestr Glasurol.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Newid i { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Sgyrsiau
+    .aria-label = Sgyrsiau
+    .tooltiptext = Sgyrsiau
+smartwindow-footer-history =
+    .label = Hanes
+    .aria-label = Hanes
+    .tooltiptext = Hanes
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Gall AI wneud camgymeriadau.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Sgyrsiau
+    .title = Sgyrsiau
+firefoxview-chats-header = Sgyrsiau
+firefoxview-chat-context-delete = Dileu o'r Sgyrsiau
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Chwilio’r sgyrsiau
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Heddiw - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Ddoe - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
