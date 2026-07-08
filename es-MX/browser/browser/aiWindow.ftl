@@ -107,7 +107,7 @@ aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibilidad
 aiwindow-firstrun-model-allpurpose-body = Obtener respuestas adaptadas a necesidades distintas
 aiwindow-firstrun-model-personal-label = Personalización
-aiwindow-firstrun-model-personal-body = Obtener respuestas altamente adaptadas a una necesidad específica
+aiwindow-firstrun-model-personal-body = Respuestas más personalizadas
 aiwindow-firstrun-button = ¡Comencemos!
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente
@@ -223,6 +223,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 
 ## Message displayed in Firefox View when the user has no chat data
 
+firefoxview-chats-empty-header = Retoma tus conversaciones
 firefoxview-chats-empty-description = Tus chats se irán guardando aquí a medida que uses { -smart-window-brand-name(form: "lower-plural") }.
 
 ## Count displayed in fxview chat search results
