@@ -629,3 +629,6 @@ smartwindow-sidebar-auto-open-callout-body = Вы всё ещё можете о�
 smartwindow-sidebar-auto-open-callout-accept = Да, не отображать
 smartwindow-sidebar-auto-open-callout-dismiss = Нет, спасибо
 smartwindow-sidebar-auto-open-callout-accepted-title = Помощник останется закрытым
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Используйте «Спросить», чтобы открыть его на любой странице. Это можно изменить в любое время в <a data-l10n-name="settings">Настройках</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Понятно
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Если вы передумаете, вы можете в любое время обновить настройки по умолчанию в <a data-l10n-name="settings">Настройках</a>.

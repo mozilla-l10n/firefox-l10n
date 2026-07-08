@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Установить текущее значение ввода как максимальный размер тела запроса/ответа.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Экспериментальные возможности
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Показать таблицы стилей в отладчике
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Показать и просмотреть таблицы стилей в отладчике
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (требует повторного открытия инструментов)
+
 ## Style Editor section
 
 # The heading

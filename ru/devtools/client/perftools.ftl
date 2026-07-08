@@ -175,6 +175,8 @@ perftools-presets-ml-label = Машинное обучение
 perftools-presets-ml-description2 = Настройки для выявления ошибок машинного обучения в { -brand-shorter-name }.
 perftools-presets-networking-label = Сеть
 perftools-presets-networking-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Сетевой обмен и журналы
+perftools-presets-networking-with-logs-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }, включая сетевые журналы. Эти журналы могут содержать конфиденциальную информацию, такую как URL-адреса, которые вы посещали.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Электропитание
 perftools-presets-power-description = Настройки для выявления ошибок потребления энергии в { -brand-shorter-name }, с небольшими накладными расходами.
