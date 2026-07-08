@@ -609,7 +609,7 @@ smartwindow-switcher-callout = Byt mellom smarte og klassiske vindauge når som 
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Brukarvilkår for { -brand-product-name }
-smartwindow-existing-user-fx-tou-body = For å bruke { -smart-window-brand-name }, må du godta <a data-l10n-name="terms_of_use">bruksvilkåra</a> og  <a data-l10n-name="privacy_notice">den oppdaterte <a data-l10n-name="privacy_notice">personvernfråsegna</a>.
+smartwindow-existing-user-fx-tou-body = For å bruke { -smart-window-brand-name }, må du godta <a data-l10n-name="terms_of_use">bruksvilkåra</a> og  <a data-l10n-name="privacy_notice">den oppdaterte personvernfråsegna</a>.
 smartwindow-existing-user-fx-tou-accept = Godta
 smartwindow-existing-user-fx-tou-go-back = Gå tilbake
 

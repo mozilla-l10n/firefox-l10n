@@ -31,6 +31,54 @@ smartwindow-assistant-error-request-blocked-header = Doedd dim modd i { -smart-w
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Gwall gweinydd (HTTP { $status }). Ceisiwch eto.
+smartwindow-retry-btn = Ceisio eto
+smartwindow-clear-btn = Sgwrs newydd
+smartwindow-signin-btn = Mewngofnodi
+
+## Assistant Message footer
+
+aiwindow-memories-used = Atgofion wedi'u defnyddio
+aiwindow-memories-callout-description = Helpodd atgofion bersonoli'r ymateb hwn.
+aiwindow-memories-learn-more = Dysgu rhagor
+aiwindow-manage-memories =
+    .label = Gosodiadau atgofion
+aiwindow-retry-without-memories =
+    .label = Ceisiwch eto heb atgofion
+aiwindow-retry =
+    .aria-label = Ceisio eto
+    .tooltiptext = Ceisio eto
+aiwindow-copy-message =
+    .aria-label = Copïo neges
+    .tooltiptext = Copïo neges
+aiwindow-copy-table =
+    .aria-label = Copïo tabl
+    .tooltiptext = Copïo tabl
+aiwindow-table-scroll-indicator = Sgrolio i weld mwy
+aiwindow-thumbs-up =
+    .aria-label = Rhannu adborth cadarnhaol
+    .tooltiptext = Rhannu adborth cadarnhaol
+aiwindow-thumbs-down =
+    .aria-label = Rhannu adborth negyddol
+    .tooltiptext = Rhannu adborth negyddol
+aiwindow-applied-memories-popover =
+    .aria-label = Panel atgofion
+aiwindow-applied-memories-list =
+    .aria-label = Atgofion
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Dileu { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Symud i waelod y sgwrs
+    .tooltiptext = Symud i'r gwaelod
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Ceisio eto
 
 ## Action log
 
