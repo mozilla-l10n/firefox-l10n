@@ -102,7 +102,7 @@ settings-category-labs =
 pane-experimental-description4 = ¡Prueba nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre tu uso de estas funciones si tienes activada la función <a data-l10n-name="data-collection">datos técnicos y de interacción</a>.
 pane-experimental-description3 = ¡Prueba nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }.
 pane-experimental-reset =
-    .label = Restaurar predeterminados
+    .label = Restaurar valores predeterminados
     .accesskey = R
 help-button-label2 = Soporte de { -brand-short-name }
     .title = Soporte de { -brand-short-name }
@@ -957,7 +957,7 @@ home-newtabs-mode-label = Nuevas pestañas
 home-homepage-new-tabs =
     .label = Nuevas pestañas
 home-restore-defaults =
-    .label = Restaurar predeterminados
+    .label = Restaurar valores predeterminados
     .accesskey = R
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (Predeterminado)

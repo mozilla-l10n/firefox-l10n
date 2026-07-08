@@ -91,3 +91,18 @@ customkeys-conflict-confirm-body = Esta tecla ya está asignada a “{ $conflict
 customkeys-conflict-confirm-button-confirm = Usar de todos modos
 customkeys-conflict-confirm-button-cancel = Cancelar
 customkeys-reset-all-confirm-title = ¿Quieres restaurar los valores predeterminados?
+customkeys-reset-all-confirm-button-cancel = Cancelar
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra lateral
+customkeys-title-heading =
+    .heading = Atajos de teclado
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Atajos de búsqueda
+    .placeholder = Atajos de búsqueda
+customkeys-description = Controla cómo te mueves e interactúas con { -brand-short-name }.
+customkeys-support-link-text = Más información
+customkeys-reset-all-button = Restaurar valores predeterminados
