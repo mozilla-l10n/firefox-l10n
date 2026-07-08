@@ -432,6 +432,10 @@ onboarding-checklist-pin = 将 { -brand-short-name } 固定到任务栏
 onboarding-checklist-import = 从先前所用浏览器导入
 onboarding-checklist-extension = 添加扩展
 onboarding-checklist-sign-up = 注册或登录账户
+onboarding-checklist-minimize =
+    .label = 最小化
+onboarding-checklist-remove =
+    .label = 移除核对清单
 
 ## Tab Groups feature onboarding strings
 

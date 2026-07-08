@@ -70,3 +70,13 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = 按下新的键：
+
+## Sidebar
+
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = 搜索快捷键
+    .placeholder = 搜索快捷键
+customkeys-description = 控制操作和与 { -brand-short-name } 交互的方式。
+customkeys-support-link-text = 详细了解
+customkeys-reset-all-button = 恢复默认设置

@@ -93,6 +93,12 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = 时钟
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = 隐私保护
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = 股市
 home-prefs-mission-message2 =
     .message = 建设一个更好的互联网的使命，离不开我们赞助商的支持。
 home-prefs-manage-topics-link2 =
@@ -152,6 +158,15 @@ home-prefs-mission-message-learn-more-link-srd = 了解其方式
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 详细了解
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = 搜索股票代码
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = 隐藏“股市”
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = 详细了解
 
 ## Search box component.
 
@@ -491,6 +506,10 @@ newtab-custom-widget-clock-toggle =
     .label = 时钟
 newtab-custom-widget-sports-toggle2 =
     .label = 体育
+newtab-custom-widget-privacy-toggle =
+    .label = 隐私保护
+newtab-custom-widget-stocks-toggle =
+    .label = 股市
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件
@@ -967,6 +986,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = 关闭通知
 newtab-widget-timer-menu-notifications-on = 开启通知
 newtab-widget-timer-menu-learn-more = 详细了解
+newtab-widget-timer-menu-button =
+    .aria-label = 计时器选项
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 头条新闻
 newtab-daily-briefing-card-menu-dismiss = 知道了
@@ -1249,6 +1270,7 @@ newtab-sports-widget-team-tbd = 待定
 newtab-sports-widget-message-wallpapers-title = 换上新壁纸，迎接世界杯
 newtab-sports-widget-message-wallpapers-body = 赛事期间，将赛场活力注入浏览器
 newtab-sports-widget-message-wallpapers-cta = 选择壁纸
+newtab-sports-widget-message-wallpapers-semifinals-title = 换上新壁纸，迎接半决赛
 newtab-sports-widget-message-add-widgets-cta =
     .label = 添加小组件
 newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 小组件，全天候关注精彩赛事

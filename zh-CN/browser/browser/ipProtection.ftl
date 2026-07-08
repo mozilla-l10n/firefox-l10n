@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 再添加一层隐私保护
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
+ipprotection-feature-introduction-link-text-privacy-3 = 多个位置任您选择，隐藏真实浏览位置，获得<a data-l10n-name="learn-more-vpn">额外隐私保护</a>。
+ipprotection-feature-introduction-text-summer-promo-1 = 开启此功能，浏览更私密。即日起至 8 月 31 日可<a data-l10n-name="summer-promo-link">获取无限带宽</a>，并解锁更多浏览位置。
+ipprotection-feature-introduction-title-summer-promo = 出门旅行，隐私随行。
+ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } 的内置 VPN 伴您行万里路。即日起至 8 月 31 日，解锁更多位置，获取无限带宽。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-description-private-browsing = 即使是在隐私窗口，也能隐藏真实位置，获得额外保护。
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -228,6 +233,11 @@ ip-protection-exclusions-desc = 将为不在此列表中的所有网站使用 VP
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = 本月剩余 { $usageLeft } GB/{ $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = 剩余 <span data-l10n-name="usage">{ $usageLeft } GB</span>/{ $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -236,6 +246,11 @@ ip-protection-bandwidth-left-gb = 剩余 { $usageLeft } GB/{ $maxUsage } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = 本月剩余 { $usageLeft } MB/{ $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = 剩余 <span data-l10n-name="usage">{ $usageLeft } MB</span>/{ $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
