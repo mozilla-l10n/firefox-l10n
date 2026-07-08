@@ -448,6 +448,10 @@ onboarding-checklist-pin = Fixe o { -brand-short-name } na barra de tarefas
 onboarding-checklist-import = Importe do navegador anterior
 onboarding-checklist-extension = Adicione uma extensão
 onboarding-checklist-sign-up = Entre na sua conta ou crie uma
+onboarding-checklist-minimize =
+    .label = Minimizar
+onboarding-checklist-remove =
+    .label = Remover lista de tarefas
 
 ## Tab Groups feature onboarding strings
 
