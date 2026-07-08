@@ -59,9 +59,11 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Bienvenido a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Qué aspectos son importantes para ti?
 aiwindow-firstrun-model-subtitle = Escoge un modelo para usar en las { -smart-window-brand-name(form: "lower-plural") }. Puedes cambiarlo en cualquier momento.
-aiwindow-firstrun-model-fast-label = Rápido
-aiwindow-firstrun-model-fast-body = Respuestas rápidas
+aiwindow-firstrun-model-fast-label = Velocidad
+aiwindow-firstrun-model-fast-body = Obtener respuestas rápidamente
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Flexible
+aiwindow-firstrun-model-allpurpose-label = Flexibilidad
+aiwindow-firstrun-model-allpurpose-body = Un modelo adaptado a una variedad de necesidades
+aiwindow-firstrun-model-personal-label = Personalización
