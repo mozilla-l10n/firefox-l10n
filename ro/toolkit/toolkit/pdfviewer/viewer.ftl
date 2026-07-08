@@ -166,6 +166,15 @@ pdfjs-digital-signature-properties-reason = Motiv: { $reason }
 # Variables:
 #   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
 pdfjs-digital-signature-properties-timestamp = Marcaj temporal: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] ({ $count }) sub semnătură
+        [few] ({ $count }) sub semnături
+       *[other] ({ $count }) de sub semnături
+    }
 
 ## Print
 

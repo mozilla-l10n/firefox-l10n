@@ -622,3 +622,14 @@ smartwindow-onboarding-primary-button = Continuă
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
     .aria-label = Mascota { -brand-product-name } (Kit) cu accesorii în formă de stea
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Vrei să ții asistentul închis?
+smartwindow-sidebar-auto-open-callout-body = Îl poți deschide oricând ai nevoie.
+smartwindow-sidebar-auto-open-callout-accept = Da, ține-l închis
+smartwindow-sidebar-auto-open-callout-dismiss = Nu, mulțumesc
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistentul va rămâne închis
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Folosește „Întreabă” pentru a-l deschide pe orice pagină. Modifică oricând opțiunea în <a data-l10n-name="settings">Setări</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Am înțeles
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Dacă te răzgândești, poți actualiza oricând setările implicite în <a data-l10n-name="settings">Setări</a>.

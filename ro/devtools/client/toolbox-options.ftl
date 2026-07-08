@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Setează valoarea curentă de intrare ca mărime maximă a corpului cererii/răspunsului.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Funcții experimentale
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Afișează foile de stil în depanator
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Listează și vizualizează foile de stil în depanator
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (necesită redeschiderea trusei de instrumente)
+
 ## Style Editor section
 
 # The heading

@@ -175,6 +175,8 @@ perftools-presets-ml-label = Învățare automată
 perftools-presets-ml-description2 = Presetare pentru investigarea erorilor de învățare automată în { -brand-shorter-name }.
 perftools-presets-networking-label = Rețea
 perftools-presets-networking-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Rețea cu jurnale
+perftools-presets-networking-with-logs-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }, inclusiv jurnalele de rețea. Jurnalele pot conține informații sensibile, cum ar fi adresele URL pe care le-ai vizitat.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Putere
 perftools-presets-power-description = Presetare pentru investigarea erorilor legate de consumul de energie în { -brand-shorter-name }, cu o suprasarcină redusă.
