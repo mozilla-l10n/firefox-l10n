@@ -215,6 +215,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuái { -brand-shorter-name }-pe.
 profiler-popup-presets-networking-label =
     .label = Pyha
+profiler-popup-presets-networking-with-logs-label =
+    .label = Pyha haipy ndive
 profiler-popup-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry ndoikóirõ eiporukuévo { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

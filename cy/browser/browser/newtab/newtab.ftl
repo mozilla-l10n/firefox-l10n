@@ -98,7 +98,7 @@ home-prefs-privacy-header =
     .label = Preifatrwydd
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
-    .label = Stoc
+    .label = Stociau
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Darlun y dydd

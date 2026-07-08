@@ -191,8 +191,8 @@ smart-window-ungrouped-row-label =
 
 ## Action log
 
-action-log-searching-tabs = Chwilio’r tabiau
-action-log-searched-open-tabs = Chwilio tabiau agored
+action-log-searching-tabs = Wrthi'n chwilio'r tabiau
+action-log-searched-open-tabs = Tabiau agored wedi'u chwilio
 action-log-searching-history = Chwilio'ch hanes
 action-log-searched-history = Chwilio'ch hanes
 action-log-reading-page = Tudalen darllen

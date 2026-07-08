@@ -605,3 +605,29 @@ onboarding-refresh-gratitude-title = { -brand-short-name } gibt dir Rückendecku
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Wechseln Sie jederzeit zwischen intelligenten und klassischen Fenstern.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name }-Nutzungsbedingungen
+smartwindow-existing-user-fx-tou-body = Um { -smart-window-brand-name } zu verwenden, akzeptieren Sie bitte die <a data-l10n-name="terms_of_use">Nutzungsbedingungen</a> und den aktualisierten <a data-l10n-name="privacy_notice">Datenschutzhinweis</a>.
+smartwindow-existing-user-fx-tou-accept = Annehmen
+smartwindow-existing-user-fx-tou-go-back = Zurück
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-subtitle = Fassen Sie zusammen, vergleichen und stellen Sie Fragen, ohne etwas zu verlieren.
+smartwindow-onboarding-primary-button = Weiter
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name }-Maskottchen (Kit) mit Stern-Requisiten
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Soll der Assistent geschlossen bleiben?
+smartwindow-sidebar-auto-open-callout-body = Sie können sie weiterhin öffnen, wenn Sie sie brauchen.
+smartwindow-sidebar-auto-open-callout-accept = Ja, geschlossen lassen
+smartwindow-sidebar-auto-open-callout-dismiss = Nein, danke
+smartwindow-sidebar-auto-open-callout-accepted-title = Der Assistent bleibt geschlossen
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Verwenden Sie Fragen, um sie auf einer beliebigen Seite zu öffnen. Ändern Sie dies jederzeit in den <a data-l10n-name="settings">Einstellungen</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Verstanden

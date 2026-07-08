@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Chwilio gyda { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Chwilio gyda…
 aiwindow-input-cta-search-submenu-header = Chwilio
 aiwindow-input-cta-stop-button =
-    .title = Atal yr ymateb
-    .aria-label = Atal cynhyrchu'r ymateb
+    .title = Stopio'r ymateb
+    .aria-label = Stopio cynhyrchu'r ymateb
 
 ## Smartbar
 
@@ -76,12 +76,12 @@ smartbar-placeholder =
 aiwindow-firstrun-memories-choose-label = Dewis beth mae { -smart-window-brand-name } yn dysgu ohono
 aiwindow-firstrun-memories-checkbox-chats = Sgyrsiau yn { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Pori ar draws { -brand-product-name }
-aiwindow-firstrun-memories-update-settings = Diweddaru'r gosodiadau ar unrhyw bryd.
+aiwindow-firstrun-memories-update-settings = Diweddaru'r gosodiadau unrhyw bryd.
 aiwindow-firstrun-memories-no-create = Iawn. Fydd { -smart-window-brand-name } ddim yn creu atgofion. Diweddaru yn y gosodiadau ar unrhyw bryd.
 
 ## Firstrun set as default onboarding
 
-aiwindow-firstrun-default-title = Gwneud { -smart-window-brand-name } eich dewis
+aiwindow-firstrun-default-title = Gwneud { -smart-window-brand-name } eich prif ddewis
 aiwindow-firstrun-default-subtitle = Pori, chwilio, a gofyn mewn un man. Gallwch chi agor Windows Preifat a Chlasurol o hyd pan fydd angen.
 aiwindow-firstrun-default-checkbox-label = Agor { -brand-product-name } yn { -smart-window-brand-name } bob tro
 aiwindow-firstrun-default-checkbox-description = Newid i'r gosodiadau unrhyw bryd
@@ -95,7 +95,7 @@ smartwindow-ask-button =
 
 aiwindow-memories-on =
     .aria-label = Atgofion ymlaen
-    .tooltiptext = Defnyddio atgofion mewn ymatebion pan fydd o help
+    .tooltiptext = Defnyddio atgofion mewn ymatebion pan fydd hynny'n helpu
 aiwindow-memories-off =
     .aria-label = Atgofion i ffwrdd
     .tooltiptext = Peidio defnyddio atgofion mewn ymatebion
