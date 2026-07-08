@@ -97,6 +97,13 @@ options-netmonitor-body-limit-set =
 
 # The heading
 options-experimental-label = Functionalitates experimental
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Monstrar folios de stilo in le depurator
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Listar e vider folios de stilo in le depurator
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (require reaperir le cassa del utensiles)
 
 ## Style Editor section
 

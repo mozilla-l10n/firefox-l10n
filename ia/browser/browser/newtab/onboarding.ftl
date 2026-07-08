@@ -601,6 +601,10 @@ onboarding-refresh-gratitude-subtitle = Gratias pro usar { -brand-short-name }, 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } es tu supporto
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Cambiar inter fenestras intelligente e classic quandocunque.
+
 ## Smart Window ToU modal
 
 # Existing users
@@ -614,9 +618,17 @@ smartwindow-existing-user-fx-tou-go-back = Retornar
 smartwindow-onboarding-title = Rende { -smart-window-brand-name } tu favorite
 smartwindow-onboarding-subtitle = Resume, compara, e pone questiones sin perder le rhythmo.
 smartwindow-onboarding-primary-button = Continuar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Le mascotte de { -brand-product-name } (Kit) con accessorios in forma de stella
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Vole tu mantener le assistente claudite?
+smartwindow-sidebar-auto-open-callout-body = Tu pote ancora aperir lo quandocunque illo te besonia.
 smartwindow-sidebar-auto-open-callout-accept = Si, mantener claudite
 smartwindow-sidebar-auto-open-callout-dismiss = No, gratias
+smartwindow-sidebar-auto-open-callout-accepted-title = Le assistente remanera claudite
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Usa Demandar pro aperir lo sur qualcunque pagina. Cambia lo quandocunque in <a data-l10n-name="settings">Configurationes</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Comprendite
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si tu cambia opinion, tu poter actualisar le predefinite in <a data-l10n-name="settings">Configurationes</a> quandocunque.
