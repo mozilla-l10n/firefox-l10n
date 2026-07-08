@@ -82,11 +82,24 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Εποπτεία δικτύου
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Απεριόριστο
+options-netmonitor-body-limit-button =
+    .title = Επεξεργασία μέγιστου μεγέθους αιτήματος/απόκρισης.
+options-netmonitor-body-limit-restore-default =
+    .title = Επαναφορά της προεπιλεγμένης τιμής για το μέγιστο μέγεθος αιτήματος/απόκρισης.
+options-netmonitor-body-limit-set =
+    .title = Ορισμός της τρέχουσας τιμής εισόδου ως μέγιστου μεγέθους αιτήματος/απόκρισης.
 
 ## Experimental section
 
 # The heading
 options-experimental-label = Πειραματικές λειτουργίες
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Εμφάνιση φύλλων μορφοποίησης στον εντοπισμό σφαλμάτων
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Παράθεση και προβολή φύλλων μορφοποίησης στον εντοπισμό σφαλμάτων
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (απαιτείται εκ νέου άνοιγμα της εργαλειοθήκης)
 
 ## Style Editor section
 

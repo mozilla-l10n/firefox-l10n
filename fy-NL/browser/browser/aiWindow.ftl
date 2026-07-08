@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Keppeling iepenje yn in nij { -smart-window-brand-name }
+    .accesskey = T
 appmenuitem-new-ai-window =
     .label = Nij { -smart-window-brand-name }
     .value = Nij { -smart-window-brand-name }
@@ -23,6 +26,9 @@ smartwindow-document-title = Nij ljepblêd
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Finstertype
+    .tooltiptext = Wikselje tusken Tûke en klassike finsters
 ai-window-toggleview-switch-classic =
     .label = Klassyk finster
     .value = Klassyk finster
@@ -32,8 +38,13 @@ ai-window-toggleview-switch-classic-description =
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Freegje wylst jo navigearje
+    .value = Freegje wylst jo navigearje
 ai-window-toggleview-switch-private =
     .label = Priveefinster
+ai-window-toggleview-open-private =
+    .label = Nij priveefinster iepenje
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassyk finster
 
@@ -43,26 +54,42 @@ aiwindow-input-cta-submit-label-chat = Freegje
 aiwindow-input-cta-submit-label-navigate = Gean
 aiwindow-input-cta-submit-label-search = Sykje
 aiwindow-input-cta-submit-label-stop = Stopje
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Oanmeitsjen antwurd start
 aiwindow-input-cta-menu-label-chat = Freegje
 aiwindow-input-cta-menu-label-navigate = Nei website
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Sykje mei { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Sykje mei…
 aiwindow-input-cta-search-submenu-header = Sykje
+aiwindow-input-cta-stop-button =
+    .title = Antwurd stopje
+    .aria-label = Oanmeitsjen antwurd stopje
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Freegje, sykje of in URL type
+smartbar-placeholder-hint-1 = @ brûken om resinte ljepblêden te fermelden…
 smartbar-placeholder-hint-2 = Wat freegje…
 smartbar-placeholder-hint-3 = Fier in webadres yn…
 smartbar-placeholder-hint-4 = Sykje op it web…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = In ljepblêd of website labelje
 smartbar-mentions-list-no-results-label = Gjin resultaten fûn
 smartbar-mentions-list-recent-tabs-label = Resinte ljepblêden
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = In ljepblêd of website tafoegje
+    .tooltiptext = In ljepblêd of website tafoegje
+
 ## Website Chip
 
+aiwindow-website-chip-placeholder = In ljepblêd of website labelje
 aiwindow-website-chip-history-deleted = Skiednis fuortsmiten
 aiwindow-website-chip-remove-button =
     .aria-label = Fuortsmite
@@ -120,11 +147,29 @@ aiwindow-firstrun-memories-no-create = Begrepen. { -smart-window-brand-name } si
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = Meitsje { -smart-window-brand-name } jo favoryt
+aiwindow-firstrun-default-subtitle = Navigearje, sykje en freegje op ien plak. Jo kinne noch altyd priveefinsters en klassike finsters iepenje wannear’t jo wolle.
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } altyd iepenje yn { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Ynstellingen op elk winske momint wizigje
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Freegje
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Oantinkens oan
+    .tooltiptext = Oantinkens yn antwurden brûke wannear’t dit nuttich is
+aiwindow-memories-off =
+    .aria-label = Oantinkens út
+    .tooltiptext = Gjin oantinkens brûke yn antwurden
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nije chat
+    .tooltiptext = Nije chat
 
 ## Close Sidebar Button
 

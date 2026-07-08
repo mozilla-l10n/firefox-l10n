@@ -103,14 +103,56 @@ smart-window-restored-row-label =
         [one] { $count } ljepblêd weromset
        *[other] { $count } ljepblêden weromset
     }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Ljepblêd sletten en wer weromset.
+       *[other] Ljepblêden sletten en wer weromset.
+    }
 smart-window-cancelled-label = Fersyk annulearre.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Groepearje
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] { $count } ljepblêd groepearje
+       *[other] { $count } ljepblêden groepearje
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } ljepblêd groepearre
+       *[other] { $count } ljepblêden groepearre
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Groep ‘{ $label }’ makke en { $count } ljepblêd tafoege.
+       *[other] Groep ‘{ $label }’ makke en { $count } ljepblêden tafoege.
+    }
 smart-window-grouped-tabs-row-label = Groepearre ljepblêden
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Groepearring fan ljepblêden ûngedien makke
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } ljepblêd groepearre en dêrnei degroepearre.
+       *[other] { $count } ljepblêden groepearre en dêrnei degroepearre.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } ljepblêd degroepearre
+       *[other] { $count } ljepblêden degroepearre
+    }
 
 ## Action log
 
 action-log-searching-tabs = Ljepblêden trochsykje
+action-log-searched-open-tabs = Iepen ljepblêden trochsocht
 action-log-searching-history = Skiednis trochsykje
 action-log-searched-history = Skiednis trochsocht
 action-log-reading-page = Side lêze
@@ -118,9 +160,28 @@ action-log-reading-page = Side lêze
 action-log-read-page = Side-ynhâld lêzen
 action-log-searching-web = Sykje op it web
 action-log-searched-web = Socht op it web
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Op ynternet socht mei Exa
+action-log-checking-memories = Oantinkens kontrolearje
+action-log-checked-memories = Oantinkens kontrolearre
 action-log-searching-settings = Ynstellingen trochsykje
 action-log-searched-settings = Ynstellingen trochsocht
 action-log-searching-world-cup-matches = WK-wedstriden sykje
 action-log-searched-world-cup-matches = WK-wedstriden socht
 action-log-checking-world-cup-live = Live WK-wedstriden kontrolearje
 action-log-checked-world-cup-live = Live WK-wedstriden kontrolearre
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 stap foltôge
+       *[other] { $count } stappen foltôge
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Sykresultaten yn dit ljepblêd laden. Analysearje…
