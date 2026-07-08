@@ -215,6 +215,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name } ਵਿੱਚ ਨੈੱਟਵਰਕਿੰਗ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-networking-label =
     .label = ਨੈੱਟਵਰਕਿੰਗ
+profiler-popup-presets-networking-with-logs-label =
+    .label = ਲਾਗ ਦੇ ਨਾਲ ਨੈੱਟਵਰਕਿੰਗ
 profiler-popup-presets-power-description = ਘੱਟ ਖਪਤ ਨਾਲ { -brand-shorter-name } ਵਿੱਚ ਊਰਜਾ ਵਰਤਣ ਵਾਲੇ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਪ੍ਰੀ-ਸੈਟ ਹੈ।
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

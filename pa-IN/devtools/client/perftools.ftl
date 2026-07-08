@@ -17,3 +17,17 @@ perftools-heading-features-disabled = ਬੰਦ ਕੀਤੇ ਫੀਚਰ
 perftools-heading-features-experimental = ਤਜਰਬੇ-ਅਧੀਨ
 perftools-heading-threads = ਥਰੈੱਡ
 perftools-heading-local-build = ਸਥਾਨਕ ਉਸਾਰੀ
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-networking-with-logs-label = ਲਾਗ ਦੇ ਨਾਲ ਨੈੱਟਵਰਕਿੰਗ
