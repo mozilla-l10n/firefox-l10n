@@ -215,6 +215,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Pre-configuration pro investigar errores de rete in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rete
+profiler-popup-presets-networking-with-logs-description = Predefinite pro investigar errores de rete in { -brand-shorter-name }, includente registros de rete. Iste registros pote continer datos sensibile tal como le URLs que tu visita.
 profiler-popup-presets-power-description = Pre-configuration pro investigar errores in le uso del energia in { -brand-shorter-name }, con basse supercarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

@@ -603,12 +603,16 @@ onboarding-refresh-gratitude-title = { -brand-short-name } es tu supporto
 
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = Conditiones de uso de { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Pro usar { -smart-window-brand-name }, accepta le <a data-l10n-name="terms_of_use">Conditiones de uso</a> e le <a data-l10n-name="privacy_notice">Aviso de confidentialitate</a> actualisate.
 smartwindow-existing-user-fx-tou-accept = Acceptar
 smartwindow-existing-user-fx-tou-go-back = Retornar
 
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Rende { -smart-window-brand-name } tu favorite
+smartwindow-onboarding-subtitle = Resume, compara, e pone questiones sin perder le rhythmo.
 smartwindow-onboarding-primary-button = Continuar
 
 ## Smart Window Sidebar Auto-Open Pref

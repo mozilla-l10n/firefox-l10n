@@ -17,3 +17,4 @@ ai-window-personalize-header =
 
 ai-window-delete-all-memories-button =
     .label = تمام مٹاؤ
+ai-window-delete-all-memories-confirm = مٹاؤ
