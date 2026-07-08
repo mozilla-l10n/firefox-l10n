@@ -601,3 +601,24 @@ onboarding-refresh-sync-title = Mergi oriunde. Sincronizează tot.
 onboarding-refresh-gratitude-subtitle = Îți mulțumim că folosești { -brand-short-name }, singurul browser major susținut de o organizație non-profit. Cu sprijinul tău, lucrăm pentru a face internetul mai sigur și mai accesibil pentru toți.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te susține
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Treci oricând de la fereastra inteligentă la cea clasică și invers.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Condiții de utilizare { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Pentru a utiliza { -smart-window-brand-name }, te rugăm să accepți <a data-l10n-name="terms_of_use">Condițiile de utilizare</a> și <a data-l10n-name="privacy_notice">Notificarea privind confidențialitatea</a> actualizată.
+smartwindow-existing-user-fx-tou-accept = Acceptă
+smartwindow-existing-user-fx-tou-go-back = Înapoi
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Fă { -smart-window-brand-name } implicit
+smartwindow-onboarding-subtitle = Rezumă, compară și pune întrebări fără să pierzi ritmul.
+smartwindow-onboarding-primary-button = Continuă
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Mascota { -brand-product-name } (Kit) cu accesorii în formă de stea

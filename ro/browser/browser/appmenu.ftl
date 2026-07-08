@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rețea
+profiler-popup-presets-networking-with-logs-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }, inclusiv jurnalele de rețea. Jurnalele pot conține informații sensibile, cum ar fi adresele URL pe care le-ai vizitat.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Rețea cu jurnale
 profiler-popup-presets-power-description = Presetare pentru investigarea erorilor legate de consumul de energie în { -brand-shorter-name }, cu o suprasarcină redusă.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
