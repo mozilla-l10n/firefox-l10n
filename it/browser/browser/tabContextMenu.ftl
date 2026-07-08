@@ -82,6 +82,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Aggiungi scheda ai segnalibri…
     .accesskey = A
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = Aggiungi ai segnalibri
     .accesskey = A
@@ -107,6 +108,7 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
     .label = Chiudi più schede
     .accesskey = u
