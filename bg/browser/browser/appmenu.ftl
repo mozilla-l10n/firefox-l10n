@@ -318,3 +318,6 @@ appmenu-edit-profile =
     .aria-label = Промяна на профила
 appmenu-profiles-2 =
     .label = Профили
+appmenu-profiles-header = Профили
+appmenu-all-profiles =
+    .label = Всички профили

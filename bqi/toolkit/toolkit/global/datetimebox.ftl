@@ -25,3 +25,21 @@ datetime-hour =
     .aria-label = ساعت
 datetime-minute =
     .aria-label = دیقه
+datetime-second =
+    .aria-label = سانیه
+datetime-millisecond =
+    .aria-label = میلی سانیه
+datetime-dayperiod =
+    .aria-label = پ.ظ/ب.ظ
+
+## Date/time picker buttons
+
+
+# This label is used by screenreaders and other assistive technology
+# to indicate the purpose of a toggle button inside of the <input type="date">
+# field that opens/closes a date picker calendar dialog
+
+datetime-calendar =
+    .aria-label = تقویم
+datetime-time =
+    .aria-label = زمووݩ
