@@ -292,6 +292,8 @@ appmenu-customizetoolbar =
     .label = Personalizar barra de ferramentas…
 appmenu-abouttranslations =
     .label = Traduzir…
+appmenu-edit-pdf =
+    .label = Editar PDF…
 appmenu-developer-tools-subheader = Ferramentas do navegador
 appmenu-developer-tools-extensions =
     .label = Extensões para desenvolvedores
@@ -313,6 +315,10 @@ appmenu-services-header = Meus serviços
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Ferramentas de privacidade
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Experimente outras ferramentas de proteção da Mozilla:
 appmenu-other-protection-header = Experimente outras ferramentas de proteção da { -vendor-short-name }:
 
@@ -323,9 +329,17 @@ appmenu-manage-profiles =
     .label = Gerenciar perfis
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Criar novo perfil
 appmenu-create-profile =
     .label = Novo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar este perfil
 appmenu-profiles-2 =
     .label = Perfis
+appmenu-profiles-header = Perfis
+appmenu-all-profiles =
+    .label = Todos os perfis
+appmenu-secure-sync-header = Sincronização segura

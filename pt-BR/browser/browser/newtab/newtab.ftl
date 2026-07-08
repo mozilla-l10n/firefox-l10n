@@ -160,6 +160,11 @@ home-prefs-mission-message-learn-more-link-srd = Descubra como
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Saiba mais
 
+## Strings for the Picture of the Day widget
+
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Saiba mais
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -502,6 +507,10 @@ newtab-custom-widget-sports-toggle2 =
     .label = Esportes
 newtab-custom-widget-privacy-toggle =
     .label = Privacidade
+newtab-custom-widget-stocks-toggle =
+    .label = Ações
+newtab-custom-widget-picture-toggle =
+    .label = Imagem do dia
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

@@ -62,11 +62,34 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Este recurso é experimental e pode não funcionar como esperado.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválida
+customkeys-shortcut-unassigned =
+    .placeholder = Adicionar atalho
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Atalho de: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Editar
+    .tooltiptext = Editar
 customkeys-key-clear =
     .aria-label = Limpar
     .tooltiptext = Limpar
+customkeys-key-reset =
+    .aria-label = Restaurar
+    .tooltiptext = Restaurar
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Pressione a nova tecla:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Remover outro atalho?
+customkeys-conflict-confirm-button-confirm = Usar assim mesmo
+customkeys-conflict-confirm-button-cancel = Cancelar
+customkeys-reset-all-confirm-button-cancel = Cancelar
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Painel lateral
