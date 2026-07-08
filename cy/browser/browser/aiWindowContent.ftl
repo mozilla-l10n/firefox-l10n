@@ -92,12 +92,12 @@ smartwindow-nl-undo-button =
 
 smart-window-closed-tabs-label =
     { $count ->
-        [zero] Wedi cau { $tabCount } tabiau
-        [one] Wedi cau { $tabCount } tab
-        [two] Wedi cau { $tabCount } dab
-        [few] Wedi cau { $tabCount } thab
-        [many] Wedi cau { $tabCount } thab
-       *[other] Wedi cau { $tabCount } tab
+        [zero] Wedi cau { $count } tabiau
+        [one] Wedi cau { $count } tab
+        [two] Wedi cau { $count } dab
+        [few] Wedi cau { $count } thab
+        [many] Wedi cau { $count } thab
+       *[other] Wedi cau { $count } tab
     }
 smart-window-closed-tabs-summary =
     { $count ->
@@ -112,12 +112,12 @@ smart-window-closed-tabs-row-label = Tabiau wedi'u cau
 smart-window-closed-and-restored-label = Tabiau wedi'u cau a'u hadfer
 smart-window-restored-row-label =
     { $count ->
-        [zero] Wedi adfer { $tabCount } tabiau
-        [one] Wedi adfer { $tabCount } tab
-        [two] Wedi adfer { $tabCount } dab
-        [few] Wedi adfer { $tabCount } thab
-        [many] Wedi adfer { $tabCount } thab
-       *[other] Wedi adfer { $tabCount } tab
+        [zero] Wedi adfer { $count } tabiau
+        [one] Wedi adfer { $count } tab
+        [two] Wedi adfer { $count } dab
+        [few] Wedi adfer { $count } thab
+        [many] Wedi adfer { $count } thab
+       *[other] Wedi adfer { $count } tab
     }
 smart-window-restore-success-summary =
     { $count ->
@@ -146,12 +146,12 @@ smart-window-confirm-group-tabs =
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label =
     { $count ->
-        [zero] Wedi grwpio { $tabCount } tabiau
-        [one] Wedi grwpio { $tabCount } tab
-        [two] Wedi grwpio { $tabCount } dab
-        [few] Wedi grwpio { $tabCount } thab
-        [many] Wedi grwpio { $tabCount } thab
-       *[other] Wedi grwpio { $tabCount } tab
+        [zero] Wedi grwpio { $count } tabiau
+        [one] Wedi grwpio { $count } tab
+        [two] Wedi grwpio { $count } dab
+        [few] Wedi grwpio { $count } thab
+        [many] Wedi grwpio { $count } thab
+       *[other] Wedi grwpio { $count } tab
     }
 # Variables
 #   $count (number) - Number of tabs grouped
