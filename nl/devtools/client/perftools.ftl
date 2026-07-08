@@ -175,6 +175,8 @@ perftools-presets-ml-label = Machinaal leren
 perftools-presets-ml-description2 = Voorinstelling voor het onderzoeken van machinevertalingsbugs in { -brand-shorter-name }.
 perftools-presets-networking-label = Netwerk
 perftools-presets-networking-description = Voorinstelling voor het onderzoeken van netwerkbugs in { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Netwerken met logboeken
+perftools-presets-networking-with-logs-description = Voorinstelling voor het onderzoeken van netwerkbugs in { -brand-shorter-name }, inclusief netwerklogboeken. Deze logboeken kunnen gevoelige informatie bevatten, zoals de URL’s die u bezoekt.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Vermogen
 perftools-presets-power-description = Voorinstelling voor het onderzoeken van stroomverbruikbugs in { -brand-shorter-name }, met lage overhead.

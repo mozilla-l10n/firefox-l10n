@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Voorinstelling voor het onderzoeken van netwerkbugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netwerk
+profiler-popup-presets-networking-with-logs-description = Voorinstelling voor het onderzoeken van netwerkbugs in { -brand-shorter-name }, inclusief netwerklogboeken. Deze logboeken kunnen gevoelige informatie bevatten, zoals de URL’s die u bezoekt.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Netwerken met logboeken
 profiler-popup-presets-power-description = Voorinstelling voor het onderzoeken van stroomverbruikbugs in { -brand-shorter-name }, met lage overhead.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

@@ -601,3 +601,35 @@ onboarding-refresh-sync-title = Ga overal heen. Synchroniseer alles.
 onboarding-refresh-gratitude-subtitle = Bedankt voor het gebruik van { -brand-short-name }, de enige grote browser die wordt gesteund door een non-profitorganisatie. Met uw steun werken we eraan om het internet voor iedereen veiliger en meer toegankelijk te maken.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is er voor u
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Wissel op elk gewenst moment tussen Slimme en klassieke vensters.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name }-gebruiksvoorwaarden
+smartwindow-existing-user-fx-tou-body = Om { -smart-window-brand-name } te gebruiken, moet u de <a data-l10n-name="terms_of_use">Gebruiksvoorwaarden</a> en de bijgewerkte <a data-l10n-name="privacy_notice">Privacyverklaring</a> accepteren.
+smartwindow-existing-user-fx-tou-accept = Accepteren
+smartwindow-existing-user-fx-tou-go-back = Terug
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Maak { -smart-window-brand-name } uw favoriet
+smartwindow-onboarding-subtitle = Vat samen, vergelijk en stel vragen zonder iets te missen.
+smartwindow-onboarding-primary-button = Doorgaan
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name }-mascotte (Kit) met sterrenrekwisieten
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Wilt u de assistent gesloten houden?
+smartwindow-sidebar-auto-open-callout-body = U kunt deze nog steeds openen wanneer u hem nodig hebt.
+smartwindow-sidebar-auto-open-callout-accept = Ja, gesloten houden
+smartwindow-sidebar-auto-open-callout-dismiss = Nee bedankt
+smartwindow-sidebar-auto-open-callout-accepted-title = De assistent blijft gesloten
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Gebruik Vragen om hem op een pagina te openen. Wijzig dit op elk gewenst moment in <a data-l10n-name="settings">Instellingen</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Begrepen
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Als u van gedachten verandert, kunt u de standaardwaarde altijd bijwerken via de <a data-l10n-name="settings">Instellingen</a>.

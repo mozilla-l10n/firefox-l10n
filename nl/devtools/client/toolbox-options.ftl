@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Stel de huidige invoerwaarde in als maximale verzoek-/antwoordtekstgrootte.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Experimentele functies
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Stylesheets in de debugger tonen
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stylesheets in de debugger opnemen en tonen
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (vereist heropenen van de werkset)
+
 ## Style Editor section
 
 # The heading
