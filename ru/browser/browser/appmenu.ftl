@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Сеть
+profiler-popup-presets-networking-with-logs-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }, включая сетевые журналы. Эти журналы могут содержать конфиденциальную информацию, такую как URL-адреса, которые вы посещали.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Сетевой обмен и журналы
 profiler-popup-presets-power-description = Настройки для выявления ошибок потребления энергии в { -brand-shorter-name }, с небольшими накладными расходами.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
