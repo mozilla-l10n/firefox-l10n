@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值。
 profiler-popup-presets-networking-label =
     .label = 網路連線
+profiler-popup-presets-networking-with-logs-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值，並包含網路紀錄。這些紀錄內容可能會包含您造訪的網址等敏感資料。
+profiler-popup-presets-networking-with-logs-label =
+    .label = 網路連線含紀錄
 profiler-popup-presets-power-description = 於 { -brand-shorter-name } 診斷耗電量時的預設值，額外負荷較低。
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

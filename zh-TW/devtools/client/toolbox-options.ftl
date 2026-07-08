@@ -99,6 +99,11 @@ options-netmonitor-body-limit-set =
 options-experimental-label = 實驗功能
 # The label for the checkbox that toggles showing stylesheets in the debugger
 options-stylesheets-in-the-debugger-label = 在除錯器中顯示樣式表
+options-stylesheets-in-the-debugger-tooltip =
+    .title = 於除錯器中列出並檢視樣式表
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = （需要重新開啟工具箱）
 
 ## Style Editor section
 

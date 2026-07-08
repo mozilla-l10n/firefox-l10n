@@ -589,16 +589,34 @@ onboarding-refresh-gratitude-subtitle = 感謝您使用 { -brand-short-name }，
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } 是您的堅強後盾
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = 隨時切換智慧與經典視窗。
+
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } 使用條款
+smartwindow-existing-user-fx-tou-body = 若要使用{ -smart-window-brand-name }，請接受 <a data-l10n-name="terms_of_use">使用條款</a>以及更新的<a data-l10n-name="privacy_notice">隱私權公告</a>。
 smartwindow-existing-user-fx-tou-accept = 接受
 smartwindow-existing-user-fx-tou-go-back = 返回
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = 將 { -smart-window-brand-name }設為您的預設瀏覽模式
+smartwindow-onboarding-subtitle = 快速摘要、比較、問問題不漏拍。
 smartwindow-onboarding-primary-button = 繼續
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } 的吉祥物（Kit）與星星道具
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = 要維持關閉助理功能嗎？
+smartwindow-sidebar-auto-open-callout-body = 需要時可以再開啟。
 smartwindow-sidebar-auto-open-callout-accept = 好，請關掉
 smartwindow-sidebar-auto-open-callout-dismiss = 不要，謝謝
+smartwindow-sidebar-auto-open-callout-accepted-title = 將維持關閉助理功能
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = 在任何頁面使用「詢問」功能即可開啟。您隨時可以在<a data-l10n-name="settings">設定</a>修改此設定。
+smartwindow-sidebar-auto-open-callout-rejected-title = 知道了！
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = 若您改變心意，可隨時到<a data-l10n-name="settings">設定</a>更改預設值。

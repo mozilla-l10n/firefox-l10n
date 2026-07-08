@@ -600,3 +600,19 @@ onboarding-refresh-sync-title = Va ubique. Synchronisa omne cosa
 onboarding-refresh-gratitude-subtitle = Gratias pro usar { -brand-short-name }, le sol del navigatores principal supportate per un organisation non-lucrative. Con tu supportar, nos labora pro render internet plus secur e plus accessibile pro omnes.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } es tu supporto
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Acceptar
+smartwindow-existing-user-fx-tou-go-back = Retornar
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Rende { -smart-window-brand-name } tu favorite
+smartwindow-onboarding-primary-button = Continuar
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Si, mantener claudite
+smartwindow-sidebar-auto-open-callout-dismiss = No, gratias
+smartwindow-sidebar-auto-open-callout-rejected-title = Comprendite

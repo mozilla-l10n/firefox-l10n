@@ -93,6 +93,11 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Defini le actual valor de entrata como maxime dimension de corpore del requesta/responsa.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Functionalitates experimental
+
 ## Style Editor section
 
 # The heading
