@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = ایہ سائٹ تہاݙیاں MIDI (میوزیکل انسٹرومنٹ ڈیجیٹل انٹرفیس) ڈیوائساں تائیں رسائی دی ارداس کریندی پئی ہے۔ ہک ایڈ آن انسٹال کر تے ڈیوائس تائیں رسائی کوں فعال کیتا ون٘ڄ سڳدے۔
 site-permission-install-first-prompt-midi-message = ایں رسائی دے محفوظ ہووݨ دی ضمانت کائنی۔ تہاکوں ایں سائٹ تے تہاکوں بھروسہ ہے تاں صرف ایں صورت وچ ہی جاری رکھو۔
+site-permission-install-first-prompt-serial-header = ایہ سائٹ تہاݙے سیریل آلات تائیں رسائی دی درخواست کریندی پئی ہے۔ آلہ تائیں رسائی کوں ہک ایڈ آن انسٹال کر تے فعال کیتا ونڄ سڳدا ہے۔
+site-permission-install-first-prompt-serial-message = ایں رسائی دے محفوظ ہووݨ دی ضمانت کائنی۔ تہاکوں ایں سائٹ تے تہاکوں بھروسہ ہے تاں صرف ایں صورت وچ ہی جاری رکھو۔
 
 ##
 
