@@ -31,3 +31,23 @@ aiwindow-input-cta-stop-button =
 smartbar-placeholder =
     .placeholder = Pregunta, busca o ingresa una URL
 smartbar-placeholder-hint-1 = Usa @ para mencionar pestañas recientes…
+smartbar-placeholder-hint-2 = Pregunta cualquier cosa…
+smartbar-placeholder-hint-3 = Ingresa una dirección web…
+smartbar-placeholder-hint-4 = Busca en la web…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = Etiquetar una pestaña o sitio
+smartbar-mentions-list-no-results-label = No se encontraron resultados
+smartbar-mentions-list-recent-tabs-label = Pestañas recientes
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Agregar una pestaña o sitio
+    .tooltiptext = Agregar una pestaña o sitio
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Etiquetar pestaña o sitio
+aiwindow-website-chip-history-deleted = Historial eliminado
