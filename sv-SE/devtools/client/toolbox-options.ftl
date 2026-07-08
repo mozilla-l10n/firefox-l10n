@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Ställ in det aktuella inmatningsvärdet som maximal begäran/svarstext.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Experimentella funktioner
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Visa stilmallar i avlusaren
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Lista och visa stilmallar i avlusaren
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (kräver återöppnande av verktygslådan)
+
 ## Style Editor section
 
 # The heading

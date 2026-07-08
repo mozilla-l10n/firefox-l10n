@@ -601,3 +601,28 @@ onboarding-refresh-sync-title = En cualquier parte. Todo sincronizado.
 onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin fines de lucro. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } lo cuida
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Términos de uso de { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Para usar { -smart-window-brand-name }, hay que aceptar los <a data-l10n-name="terms_of_use">Términos de uso</a> y la <a data-l10n-name="privacy_notice">Nota de privacidad</a> actualizada.
+smartwindow-existing-user-fx-tou-accept = Aceptar
+smartwindow-existing-user-fx-tou-go-back = Retroceder
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Continuar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Mascota de { -brand-product-name } (Kit) con estrella de utilería
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = ¿Quiere mantener el asistente cerrado?
+smartwindow-sidebar-auto-open-callout-body = Todavía se podrá abrir cuando se lo necesite.
+smartwindow-sidebar-auto-open-callout-accept = Sí, mantener cerrado
+smartwindow-sidebar-auto-open-callout-dismiss = No, gracias
+smartwindow-sidebar-auto-open-callout-accepted-title = El asistente se mantendrá cerrado.
+smartwindow-sidebar-auto-open-callout-rejected-title = Entendido
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si cambia de opinión, puede actualizar la configuración predeterminada en <a data-l10n-name="settings">Configuración</a> en cualquier momento.

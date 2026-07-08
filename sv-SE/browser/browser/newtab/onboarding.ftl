@@ -598,3 +598,35 @@ onboarding-refresh-sync-title = Gå var som helst. Synka allt.
 onboarding-refresh-gratitude-subtitle = Tack för att du använder { -brand-short-name }, den enda större webbläsaren som stöds av en ideell organisation. Med ditt stöd arbetar vi för att göra internet säkrare och mer tillgängligt för alla.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } tar hand om dig
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Växla mellan smarta och klassiska fönster när som helst.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Användarvillkor för { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = För att använda { -smart-window-brand-name }, vänligen acceptera <a data-l10n-name="terms_of_use">användarvillkoren</a> och uppdaterade <a data-l10n-name="privacy_notice">sekretesspolicy</a>.
+smartwindow-existing-user-fx-tou-accept = Acceptera
+smartwindow-existing-user-fx-tou-go-back = Gå tillbaka
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Gör { -smart-window-brand-name } till din favorit
+smartwindow-onboarding-subtitle = Sammanfatta, jämföra och ställ frågor utan problem.
+smartwindow-onboarding-primary-button = Fortsätt
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } maskot (Kit) med rekvisita
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Vill du hålla assistenten stängd?
+smartwindow-sidebar-auto-open-callout-body = Du kan fortfarande öppna den när du behöver den.
+smartwindow-sidebar-auto-open-callout-accept = Ja, håll stängd
+smartwindow-sidebar-auto-open-callout-dismiss = Nej tack
+smartwindow-sidebar-auto-open-callout-accepted-title = Assistenten förblir stängd
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Använd Fråga för att öppna sidan på en valfri sida. Du kan ändra detta när som helst i <a data-l10n-name="settings">Inställningar</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Jag förstår
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Om du ändrar dig kan du uppdatera standard i <a data-l10n-name="settings">Inställningar</a> när som helst.

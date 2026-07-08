@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Définir la valeur d’entrée actuelle comme taille maximale pour le corps d’une requête/réponse.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Fonctionnalités expérimentales
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Afficher les feuilles de style dans le débogueur
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Lister et afficher les feuilles de style dans le débogueur
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (nécessite la réouverture de la boîte à outils)
+
 ## Style Editor section
 
 # The heading

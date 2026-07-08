@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Nätverk
+profiler-popup-presets-networking-with-logs-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }, inklusive nätverksloggar. Dessa loggar kan innehålla känslig information, t.ex. webbadresser du besöker.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Nätverk med loggar
 profiler-popup-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

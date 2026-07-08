@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Välj en annan plats att surfa frå
 ipprotecion-locations-subview-recommended-label = Rekommenderad
 ipprotection-locations-subview-recommended-description = Hittar den snabbaste platsen
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Upptagen
+    .aria-label = Ej tillgänglig, inaktiverad
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Ej tillgänglig
 ipprotection-locations-subview-promo =
     .heading = Ta skyddet ännu längre med { -mozilla-vpn-brand-name }

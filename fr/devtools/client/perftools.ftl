@@ -172,6 +172,8 @@ perftools-presets-ml-label = Apprentissage automatique
 perftools-presets-ml-description2 = Réglage conçu pour examiner les bugs d’apprentissage automatique dans { -brand-shorter-name }.
 perftools-presets-networking-label = Réseau
 perftools-presets-networking-description = Réglage conçu pour examiner les bugs réseau dans { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Mise en réseau avec les journaux
+perftools-presets-networking-with-logs-description = Réglage conçu pour examiner les bugs réseau dans { -brand-shorter-name }, y compris les journaux réseau. Ces journaux peuvent contenir des informations sensibles telles que les adresses que vous visitez.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Énergie
 perftools-presets-power-description = Réglage conçu pour examiner les bugs liés à la consommation d’énergie dans { -brand-shorter-name }, avec une surcharge faible.
