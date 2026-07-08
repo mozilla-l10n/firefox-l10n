@@ -70,3 +70,13 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Pwyswch fysell newydd:
+
+## Sidebar
+
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Chwilio llwybrau byr
+    .placeholder = Chwilio llwybrau byr
+customkeys-description = Rheolwch sut rydych yn symud o gwmpas ac yn rhyngweithio â { -brand-short-name }.
+customkeys-support-link-text = Dysgu rhagor
+customkeys-reset-all-button = Adfer eich dewisiadau

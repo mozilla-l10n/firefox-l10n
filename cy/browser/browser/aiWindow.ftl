@@ -154,3 +154,80 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Heddiw - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ddoe - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Nôl i'ch sgyrsiau
+firefoxview-chats-empty-description = Wrth i chi ddefnyddio { -smart-window-brand-name }, bydd eich sgyrsiau'n cael eu cadw yma.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [zero] { $count } tabiau
+        [one] { $count } tab
+        [two] { $count } dab
+        [few] { $count } thab
+        [many] { $count } thab
+       *[other] { $count } tab
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Hanes pori, llwytho i lawr a sgwrsio
+    .accesskey = H
+item-history-downloads-and-chat-description = Yn clirio gwefan, llwythi, a hanes sgwrsio
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Dewis y cyfan
+    .aria-label = Dewis y cyfan
+smart-window-confirm-deselect-all =
+    .label = Dad-ddewis y cyfan
+    .aria-label = Dad-ddewis y cyfan
+smart-window-close-confirm =
+    .aria-label = Diddymu'r cais a chau
+    .tooltiptext = Diddymu'r cais a chau
+smart-window-confirm-close-tab = Cau
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [zero] Cau { $count } tabiau
+        [one] Cau { $count } tab
+        [two] Cau { $count } dab
+        [few] Cau { $count } thab
+        [many] Cau { $count } thab
+       *[other] Cau { $count } tab
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Tab wedi’i gau
+smartwindow-close-tab-callout-subtitle = Ailagor tabiau o Hanes unrhyw bryd.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Gwneud { -smart-window-brand-name } eich dewis?
+smart-window-default-promo-message = Bydd { -brand-short-name } yn agor yn { -smart-window-brand-name } bob tro.
+smart-window-default-promo-primary-button = Gosod fel eich dewis
+smart-window-default-promo-additional-button = Nid nawr
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Rhannu adborth
+aiwindow-feedback-what-worked-well = Beth weithiodd yn dda? Dim manylion personol, os gwelwch yn dda.
+aiwindow-feedback-choose-any = Dewiswch unrhyw rai sy'n berthnasol
+aiwindow-feedback-add-details = Ychwanegwch fanylion os hoffech chi. Dim manylion personol, os gwelwch yn dda.
+aiwindow-feedback-disclaimer = Mae cyflwyno yn rhannu'ch adborth a'r sgwrs hon i helpu { -brand-shorter-name } i wella { -smart-window-brand-name }. Mae eich sgyrsiau eraill yn aros yn breifat. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+aiwindow-feedback-submit = Cyflwyno
+aiwindow-feedback-cancel = Diddymu

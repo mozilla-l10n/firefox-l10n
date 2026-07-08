@@ -96,6 +96,12 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Preifatrwydd
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Stoc
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Darlun y dydd
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link2 =
@@ -163,6 +169,34 @@ home-prefs-mission-message-learn-more-link-srd = Dyma sut
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dysgu rhagor
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Chwilio symbolau'r ticiwr
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Cuddio stociau
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Dysgu rhagor
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Darlun y dydd · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Gosod y papur wal
+    .title = Gosod y papur wal
+    .aria-label = Gosod darlun y dydd heddiw fel eich papur wal
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Rheoli papur wal
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Cuddio darlun heddiw
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Dangos darlun heddiw
 
 ## Search box component.
 

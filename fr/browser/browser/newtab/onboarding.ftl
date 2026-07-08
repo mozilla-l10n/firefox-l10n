@@ -604,13 +604,13 @@ onboarding-refresh-gratitude-title = { -brand-short-name } est toujours de votre
 
 ## Smart window switcher callout
 
-smartwindow-switcher-callout = Basculez à tout moment entre les fenêtres intelligentes et classiques.
+smartwindow-switcher-callout = Basculez à tout moment entre les { -smart-window-brand-name(form: "lower-plural") } et classiques.
 
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Conditions d’utilisation de { -brand-product-name }
-smartwindow-existing-user-fx-tou-body = Pour utiliser { -smart-window-brand-name }, veuillez accepter les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> et la mise à jour de la <a data-l10n-name="privacy_notice">Politique de confidentialité</a>.
+smartwindow-existing-user-fx-tou-body = Pour utiliser les { -smart-window-brand-name(form: "lower-plural") }, veuillez accepter les <a data-l10n-name="terms_of_use">Conditions d’utilisation</a> et la <a data-l10n-name="privacy_notice">Politique de confidentialité</a> mise à jour.
 smartwindow-existing-user-fx-tou-accept = Accepter
 smartwindow-existing-user-fx-tou-go-back = Retour
 
