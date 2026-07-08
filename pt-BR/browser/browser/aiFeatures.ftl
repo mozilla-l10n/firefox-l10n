@@ -72,3 +72,22 @@ ai-window-manage-memories-button =
 ai-window-manage-memories-header =
     .heading = Gerenciar memórias
     .description = Memórias são armazenadas localmente neste dispositivo para ajudar a proteger sua privacidade. Elas são atualizadas algumas vezes por dia enquanto você usa o { -smart-window-brand-name }, então atividade recente pode demorar um pouco até ser refletida.
+ai-window-no-memories =
+    .label = Nenhuma memória ainda
+    .description = À medida que o { -smart-window-brand-name } aprende a partir de sua atividade, aparecem memórias aqui.
+ai-window-no-memories-learning-off =
+    .label = Nenhuma memória a mostrar
+    .description = O aprendizado a partir de sua atividade está desativado, então o { -smart-window-brand-name } não está criando memórias.
+ai-window-delete-all-memories-button =
+    .label = Excluir tudo
+ai-window-delete-all-memories-title = Excluir todas as memórias?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Memórias existentes serão apagadas. Se não quiser que novas memórias sejam criadas, desmarque as opções “Aprender…” nas configurações do { -smart-window-brand-name }.
+ai-window-delete-all-memories-confirm = Excluir
+ai-window-delete-all-memories-cancel = Cancelar
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Excluir memória
+    .aria-label = Excluir { $label }
