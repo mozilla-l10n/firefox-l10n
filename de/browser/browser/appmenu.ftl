@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netzwerkverbindungen
+profiler-popup-presets-networking-with-logs-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }, einschließlich Netzwerkprotokollen. Diese Protokolle können sensible Informationen wie die von Ihnen besuchten URLs enthalten.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Netzwerkverbindungen mit Logs
 profiler-popup-presets-power-description = Voreinstellung für die Untersuchung von Problemen beim Energieverbrauch in { -brand-shorter-name }, mit geringem Overhead.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -308,6 +311,7 @@ appmenuitem-monitor-description2 = Erhalten Sie Warnungen bei Datenlecks
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Erhalten Sie Warnmeldungen zu Datenlecks
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Schützen Sie Ihre E-Mail-Adresse
 appmenuitem-relay-description2 = Verhindert Spam in Ihrem Posteingang
 appmenuitem-relay-description = Verbergen Sie Ihre echte E-Mail-Adresse und Telefonnummer
 appmenuitem-services-relay-description = Übersicht über E-Mail-Masken öffnen

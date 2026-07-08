@@ -1346,6 +1346,11 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Helfen Sie uns, Widgets zu verbessern
+newtab-sports-widget-message-survey-body = Das ist eine Zusammenfassung der WM. Sagen Sie Ihre Meinung zu den Erfahrungen.
+newtab-sports-widget-message-survey-widget-title = Wie war das Widget für die WM?
+newtab-sports-widget-message-survey-widget-body = Sagen Sie uns Ihre Meinung, um uns zu helfen, zukünftige Widgets zu verbessern. Probieren Sie dann die neuen in Ihrer Liste aus.
+newtab-sports-widget-message-survey-cta =
+    .label = Umfrage ausfüllen
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -601,3 +601,7 @@ onboarding-refresh-sync-title = Überallhin gehen. Alles synchronisieren.
 onboarding-refresh-gratitude-subtitle = Danke, dass Sie { -brand-short-name } verwenden, den einzigen großen Browser, der von einer gemeinnützigen Organisation unterstützt wird. Mit Ihrer Unterstützung arbeiten wir daran, das Internet sicherer und für alle zugänglicher zu machen.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } gibt dir Rückendeckung
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Wechseln Sie jederzeit zwischen intelligenten und klassischen Fenstern.
