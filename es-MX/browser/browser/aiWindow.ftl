@@ -274,8 +274,8 @@ smartwindow-close-tab-callout-subtitle = Puedes volver a abrir las pestañas del
 
 ## Smart Window new tab promo
 
-smart-window-default-promo-heading = ¿Utilizar { -smart-window-brand-name(form: "lower-plural") } por defecto ?
-smart-window-default-promo-message = { -brand-short-name } se iniciará siempre en modo { -smart-window-brand-name(form: "lower-singular") }
+smart-window-default-promo-heading = ¿Utilizar { -smart-window-brand-name } por defecto?
+smart-window-default-promo-message = { -brand-short-name } se iniciará siempre en modo { -smart-window-brand-name }.
 smart-window-default-promo-primary-button = Establecer como predeterminado
 smart-window-default-promo-additional-button = Ahora no
 
