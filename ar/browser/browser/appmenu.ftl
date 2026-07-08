@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = إعداد مسبق للتحرّي عن مشاكل الشبكة في { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = الشبكة
+profiler-popup-presets-networking-with-logs-description = إعداد مسبق للتحقيق في أخطاء الشبكة في { -brand-shorter-name }، بما في ذلك سجلات الشبكة. قد تحتوي هذه السجلات على معلومات حساسة مثل عناوين المواقع التي تزورها.
+profiler-popup-presets-networking-with-logs-label =
+    .label = التواصل الشبكي باستخدام السجلات
 profiler-popup-presets-power-description = إعداد مسبق للتحرّي عن العلل التي تستخدم الطاقة في { -brand-shorter-name }، مع حمل منخفض.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

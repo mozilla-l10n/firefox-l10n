@@ -47,6 +47,11 @@ options-netmonitor-label = مراقب الشبكة
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = غير محدود
 
+## Experimental section
+
+# The heading
+options-experimental-label = ميزات التجريبية
+
 ## Style Editor section
 
 # The heading

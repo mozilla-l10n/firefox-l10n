@@ -93,6 +93,8 @@ perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = الرسوميات
 perftools-presets-media-label = الوسائط
 perftools-presets-networking-label = الشبكة
+perftools-presets-networking-with-logs-label = التواصل الشبكي باستخدام السجلات
+perftools-presets-networking-with-logs-description = إعداد مسبق للتحقيق في أخطاء الشبكة في { -brand-shorter-name }، بما في ذلك سجلات الشبكة. قد تحتوي هذه السجلات على معلومات حساسة مثل عناوين المواقع التي تزورها.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = طاقة
 perftools-presets-custom-label = مخصّص

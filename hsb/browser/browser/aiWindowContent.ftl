@@ -60,6 +60,12 @@ aiwindow-applied-memories-list =
 aiwindow-delete-memory-button =
     .aria-label = { $summary } zhašeć
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Ke kóncej chata skočić
+    .tooltiptext = Dele skočić
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
@@ -127,6 +133,13 @@ smart-window-grouped-tabs-label =
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zeskupjenje rajtarkow zběhnjene
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } rajtark njezeskupjeny
+        [two] { $count } rajtarkaj njezeskupjenej
+        [few] { $count } rajtarki njezeskupjene
+       *[other] { $count } rajtarkow njezeskupjenych
+    }
 
 ## Action log
 
