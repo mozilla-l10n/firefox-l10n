@@ -70,9 +70,72 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Gofyn, chwilio, neu deipio URL
+smartbar-placeholder-hint-1 = Defnyddiwch @ i sôn am dabiau diweddar…
+smartbar-placeholder-hint-2 = Gofynnwch unrhyw beth…
+smartbar-placeholder-hint-3 = Rhowch gyfeiriad gwe…
+smartbar-placeholder-hint-4 = Chwiliwch y we…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = Tagiwch dab neu wefan
+smartbar-mentions-list-no-results-label = Heb ganfod canlyniadau
+smartbar-mentions-list-recent-tabs-label = Tabiau diweddar
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Ychwanegu tab neu wefan
+    .tooltiptext = Ychwanegu tab neu wefan
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Tagiwch dab neu wefan
+aiwindow-website-chip-history-deleted = Hanes wedi'i ddileu
+aiwindow-website-chip-remove-button =
+    .aria-label = Tynnu
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Croeso i { -smart-window-brand-name }
+aiwindow-firstrun-model-title = Beth sy'n bwysig i chi?
+aiwindow-firstrun-model-subtitle = Dewiswch fodel i bweru { -smart-window-brand-name }. Gallwch ei newid unrhyw bryd.
+aiwindow-firstrun-model-fast-label = Cyflym
+aiwindow-firstrun-model-fast-body = Yn ateb yn gyflym
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Model { $model } gan { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Hyblyg
+aiwindow-firstrun-model-allpurpose-body = Y dewis addas ar gyfer y rhan fwyaf o anghenion
+aiwindow-firstrun-model-personal-label = Personol
+aiwindow-firstrun-model-personal-body = Atebion wedi'u teilwra fwyaf
+aiwindow-firstrun-button = Ffwrdd â ni
+aiwindow-firstrun-back-button = Nôl
+aiwindow-firstrun-next-button = Nesaf
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Cyflym
+aiwindow-input-model-select-button-label-allpurpose = Hyblyg
+aiwindow-input-model-select-button-label-personal = Personol
+aiwindow-input-model-select-button-label-custom = Cyfaddas
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Defnyddiwch eich LLM eich hun
+aiwindow-input-model-select-default-badge =
+    .label = Rhagosodedig
+    .title = Y model dewis rhagosodedig
+aiwindow-input-model-select-settings-link = Gosodiadau'r model
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Rhagor o atebion, ar eich telerau chi
+aiwindow-firstrun-memories-subtitle = Gall { -smart-window-brand-name } ddysgu o'ch sgyrsiau, pori, neu'r ddau i greu atgofion. Maen nhw'n gwneud atebion yn fwy defnyddiol dros amser.
+aiwindow-firstrun-memories-conversation-title = Cadwch y sgwrs i fynd
+aiwindow-firstrun-memories-conversation-body = Mae dysgu o sgyrsiau yn golygu y bydd yn rhaid i chi ailadrodd llai.
+aiwindow-firstrun-memories-relevance-title = Atebion mwy perthnasol
+aiwindow-firstrun-memories-relevance-body = Mae dysgu o bori yn rhoi'r darlun ehangach i { -smart-window-brand-name }.
 aiwindow-firstrun-memories-choose-label = Dewis beth mae { -smart-window-brand-name } yn dysgu ohono
 aiwindow-firstrun-memories-checkbox-chats = Sgyrsiau yn { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Pori ar draws { -brand-product-name }

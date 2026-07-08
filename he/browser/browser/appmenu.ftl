@@ -214,6 +214,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Networking
+profiler-popup-presets-networking-with-logs-description = ערכה לחקירת באגים בתקשורת או ברשת ב־{ -brand-shorter-name }, כולל יומני רשת. יומנים אלה עשויים להכיל מידע רגיש כמו כתובות האתרים שבהם ביקרת.
 profiler-popup-presets-power-description = ערכה לחקירת באגים של צריכת חשמל ב־{ -brand-shorter-name }, עם תקורה נמוכה.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
