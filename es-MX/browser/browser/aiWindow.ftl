@@ -147,3 +147,14 @@ aiwindow-feedback-reason-other = Otra motivo
 aiwindow-feedback-preview-report = Ver detalles del chat
 aiwindow-feedback-preview-report-with-page = Ver detalles del chat y página
 aiwindow-feedback-include-page-content = Compartir las páginas referenciadas en este chat
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Cambiar visualización del chat
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Cambiar a modo: Lista
+    .tooltiptext = Modo lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Cambiad a modo: Grilla
+    .tooltiptext = Modo Grilla
