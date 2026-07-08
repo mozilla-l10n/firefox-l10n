@@ -303,6 +303,8 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Ingresar a tu cuenta
+appmenuitem-monitor-title2 = Vaya un paso adelante del robo de identidad
+appmenuitem-monitor-description2 = Recibir alertas sobre filtraciones de datos
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obtener alertas de filtración de datos
 appmenuitem-relay-title = { -relay-brand-short-name }

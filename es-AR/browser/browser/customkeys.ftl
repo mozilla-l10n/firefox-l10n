@@ -105,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Buscar en atajos
     .placeholder = Buscar en atajos
+customkeys-description = ControlaControlar cómo se mueve e interactúa con { -brand-short-name }.
 customkeys-support-link-text = Conocer más
 customkeys-reset-all-button = Restaurar predeterminados
