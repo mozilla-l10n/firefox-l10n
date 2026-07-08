@@ -208,7 +208,7 @@ firefoxview-chats-nav = Chats
     .title = Chats
 firefoxview-chats-header = Chats
 firefoxview-chat-context-delete = Eliminar de los chats
-    .accesskey = D
+    .accesskey = E
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
     .placeholder = Buscar chats
@@ -220,6 +220,29 @@ firefoxview-chat-date-today = Hoy - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ayer - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-description = Tus chats se irán guardando aquí a medida que uses { -smart-window-brand-name(form: "lower-plural") }.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chat
+       *[other] { $count } chats
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Historial de navegación, descargas y chat
+    .accesskey = H
+item-history-downloads-and-chat-description = Elimina el historial de navegación, descargas y chats
 
 ## Natural Language Interactions
 
