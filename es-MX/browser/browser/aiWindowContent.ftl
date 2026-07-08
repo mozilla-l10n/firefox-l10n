@@ -125,3 +125,12 @@ smart-window-grouped-tabs-label =
         [one] Se agrupó { $count } pestaña
        *[other] Se agruparon { $count } pestañas
     }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Se creó el grupo “{ $label }” con { $count } pestaña.
+       *[other] Se creó el grupo “{ $label }” con { $count } pestañas.
+    }
+smart-window-grouped-tabs-row-label = Pestañas agrupadas

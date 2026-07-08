@@ -587,3 +587,4 @@ smartwindow-sidebar-auto-open-callout-dismiss = לא תודה
 smartwindow-sidebar-auto-open-callout-accepted-title = העוזרת תישאר סגורה
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = ניתן להשתמש ב״לשאול״ כדי לפתוח אותה בכל דף. אפשר לשנות את זה בכל עת ב<a data-l10n-name="settings">הגדרות</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = הבנתי
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = אם הדעה שלך תשתנה, באפשרותך לעדכן את ברירת המחדל ב<a data-l10n-name="settings">הגדרות</a> בכל עת.

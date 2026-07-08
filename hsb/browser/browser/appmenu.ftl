@@ -215,6 +215,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Přednastajenje za wuslědźenje syćowych zmylkow w { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Syć
+profiler-popup-presets-networking-with-logs-label =
+    .label = Syćowe zwjazki z protokolemi
 profiler-popup-presets-power-description = Přednastajenje za wuslědźenje zmylkow wužiwanja energije w { -brand-shorter-name }, z niskej potrjebu.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -303,9 +305,11 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Přizjewće so pola swojeho konta
+appmenuitem-monitor-description2 = Dóstańće warnowanja wo datowych dźěrach
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dóstańće warnowanja wo datowych dźěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Dźeržće swoju e-mejl priwatnu
 appmenuitem-relay-description = Maskěrujće swoju woprawdźitu e-mejlowu adresu a swój telefon
 appmenuitem-services-relay-description = Startujće desku e-mejlowych maskow
 appmenuitem-vpn-title2 = Schowajće swoje stejnišćo z { -mozilla-vpn-brand-name }

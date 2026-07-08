@@ -387,6 +387,7 @@ quickactions-addons = Přidatki pokazać
 quickactions-cmd-addons3 = rozšerjenja, drasty, přidatki
 # Opens preferences page at AI controls
 quickactions-manageai = Wodźenske elementy KI rjadować
+quickactions-cmd-manageai = KI znjemóžnić, KI rjadować
 quickactions-cmd-addons2 = přidatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Zapołožki rjadować

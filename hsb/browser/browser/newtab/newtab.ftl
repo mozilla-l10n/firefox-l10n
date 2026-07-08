@@ -201,6 +201,8 @@ newtab-picture-menu-learn-more = Dalše informacije
 newtab-picture-show-button =
     .title = Dźensniši wobraz pokazać
     .aria-label = Dźensniši wobraz pokazać
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Wróćće so jutře, zo byšće nowy wobraz widźał
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wobraz dnja Wikimedia Commons
