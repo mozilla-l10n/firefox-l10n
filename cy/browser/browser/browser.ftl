@@ -966,11 +966,11 @@ urlbar-result-explanation-last-visited-relative-2 = Ymwelwyd ddiwethaf â { $dat
 urlbar-result-explanation-last-visited-days-2 =
     { $daysAgo ->
         [zero] Ymwelwyd diwethaf { $daysAgo } diwrnodau yn ôl
-        [one] Ymwelwyd ddiwethaf { $daysAgo } diwrnod yn ôl
-        [two] Ymwelwyd ddiwethaf { $daysAgo } ddiwrnod yn ôl
-        [few] Ymwelwyd ddiwethaf { $daysAgo } diwrnod yn ôl
-        [many] Ymwelwyd ddiwethaf { $daysAgo } niwrnod yn ôl
-       *[other] Ymwelwyd ddiwethaf { $daysAgo } diwrnod yn ôl
+        [one] Ymwelwyd diwethaf { $daysAgo } diwrnod yn ôl
+        [two] Ymwelwyd diwethaf { $daysAgo } ddiwrnod yn ôl
+        [few] Ymwelwyd diwethaf { $daysAgo } diwrnod yn ôl
+        [many] Ymwelwyd diwethaf { $daysAgo } niwrnod yn ôl
+       *[other] Ymwelwyd diwethaf { $daysAgo } diwrnod yn ôl
     }
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.
@@ -1002,7 +1002,7 @@ urlbar-result-explanation-last-visited-months-2 =
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
 #   $date (string) - A localized absolute date string
-urlbar-result-explanation-last-visited-absolute-2 = Ymwelwyd ddiwethaf â { $date }
+urlbar-result-explanation-last-visited-absolute-2 = Ymwelwyd diwethaf â { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

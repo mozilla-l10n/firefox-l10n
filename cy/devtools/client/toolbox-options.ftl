@@ -99,6 +99,11 @@ options-netmonitor-body-limit-set =
 options-experimental-label = Nodweddion Arbrofol
 # The label for the checkbox that toggles showing stylesheets in the debugger
 options-stylesheets-in-the-debugger-label = Dangos dalennau arddull yn y dadfygiwr
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Rhestru a gweld y dalennau arddull yn y dadfygiwr
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (angen ailagor y blwch offer)
 
 ## Style Editor section
 

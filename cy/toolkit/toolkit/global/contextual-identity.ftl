@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Tab Newydd
     .accesskey = N
+user-context-add-container =
+    .label = Ychwanegu cynhwysydd newydd
+    .accesskey = Y
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

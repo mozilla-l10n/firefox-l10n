@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Trowch y copi wrth gefn ymlaen
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Bu problem gyda'r ffolder wrth gefn rydych wedi'i ddewis. Dewiswch ffolder gwahanol a cheisiwch eto.
+turn-on-scheduled-backups-error-default-dir-denied = Doedd dim modd i ni gael mynediad at eich ffolder wrth gefn. Ceisiwch ddewis lleoliad arall.
 backup-error-file-system = Roedd problem gyda'ch ffolder wrth gefn rydych wedi'i ddewis wrth wneud copi wrth gefn o { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
