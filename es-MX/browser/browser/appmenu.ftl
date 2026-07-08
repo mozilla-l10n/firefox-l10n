@@ -311,12 +311,20 @@ appmenuitem-monitor-description2 = Recibir alertas sobre filtraciones de datos
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Reciba alertas de filtración de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantén tu correo electrónico privado
+appmenuitem-relay-description2 = Ayuda a prevenir el spam en tu bandeja de entrada
 appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar el panel de máscaras de correo electrónico
+appmenuitem-vpn-title2 = Oculta tu ubicación con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Evita el rastreo de tu navegación.
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén protección para todo el dispositivo
 appmenuitem-vpn-description = Protege tu actividad en línea
 appmenu-services-header = Mis servicios
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Herramientas de privacidad
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -330,9 +338,13 @@ appmenu-manage-profiles =
     .label = Administrar perfiles
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Crear un nuevo perfil
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar este perfil
 appmenu-profiles-2 =
     .label = Perfiles
