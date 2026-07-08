@@ -89,7 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
-aiwindow-website-chip-placeholder = Etiquetar pestaña o sitio
+aiwindow-website-chip-placeholder = Etiquetar una pestaña o sitio
 aiwindow-website-chip-history-deleted = Historial eliminado
 aiwindow-website-chip-remove-button =
     .aria-label = Eliminar
