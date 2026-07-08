@@ -3,8 +3,48 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+main-context-menu-open-link-new-smart-window =
+    .label = Abrir enlace en una nueva { -smart-window-brand-name }
+    .accesskey = S
+appmenuitem-new-ai-window =
+    .label = Nueva { -smart-window-brand-name }
+    .value = Nueva { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Nueva ventana clásica
+menu-file-new-ai-window =
+    .label = Nueva { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Nueva ventana clásica
+menu-history-chats =
+    .label = Chats
+menu-history-chats-recent =
+    .label = Chats recientes
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Nueva pestaña
+
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Tipo de ventana
+    .tooltiptext = Cambiar entre ventanas inteligentes y clásicas.
+ai-window-toggleview-switch-classic =
+    .label = Ventana clásica
+    .value = Ventana clásica
+ai-window-toggleview-switch-classic-description =
+    .label = Navegación estándar
+    .value = Navegación estándar
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Pregunta mientras navegas
+    .value = Pregunta mientras navegas
+ai-window-toggleview-switch-private =
+    .label = Ventana privada
+ai-window-toggleview-open-private =
+    .label = Abrir nueva ventana privada
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Ventana clásica
 
@@ -94,6 +134,7 @@ aiwindow-firstrun-memories-title = Respuestas más útiles basadas en tus prefer
 aiwindow-firstrun-memories-subtitle = Las { -smart-window-brand-name(form: "lower-plural") } pueden aprender de tus chats y tu navegación para crear recuerdos. Al aprender, sus respuestas se vuelven progresivamente más útiles.
 aiwindow-firstrun-memories-conversation-title = Conversaciones fluidas
 aiwindow-firstrun-memories-conversation-body = El aprendizaje a partir de chats evita que tengas que repetirte a ti mismo.
+aiwindow-firstrun-memories-relevance-title = Respuestas más relevantes
 
 ## Natural Language Interactions
 
