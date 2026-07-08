@@ -71,3 +71,53 @@ aiwindow-firstrun-model-personal-body = Obtener respuestas altamente adaptadas a
 aiwindow-firstrun-button = ¡Comencemos!
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Rápido
+aiwindow-input-model-select-button-label-allpurpose = Flexible
+aiwindow-input-model-select-button-label-personal = Individualizado
+aiwindow-input-model-select-button-label-custom = Personalizado
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Usa tu propio LLM
+aiwindow-input-model-select-default-badge =
+    .label = Predeterminado
+    .title = El modelo utilizado por defecto
+aiwindow-input-model-select-settings-link = Ajustes del modelo
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Respuestas más útiles basadas en tus preferencias
+aiwindow-firstrun-memories-subtitle = Las { -smart-window-brand-name(form: "lower-plural") } pueden aprender de tus chats y tu navegación para crear recuerdos. Al aprender, sus respuestas se vuelven progresivamente más útiles.
+aiwindow-firstrun-memories-conversation-title = Conversaciones fluidas
+aiwindow-firstrun-memories-conversation-body = El aprendizaje a partir de chats evita que tengas que repetirte a ti mismo.
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Seleccionar todo
+    .aria-label = Seleccionar todo
+smart-window-confirm-deselect-all =
+    .label = Deseleccionar todo
+    .aria-label = Deseleccionar todo
+smart-window-close-confirm =
+    .aria-label = Cancelar solicitud y cerrar
+    .tooltiptext = Cancelar solicitud y cerrar
+smart-window-confirm-close-tab = Cerrar
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Cerrar { $count } pestaña
+       *[other] Cerrar { $count } pestañas
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Pestaña cerrada
+smartwindow-close-tab-callout-subtitle = Puedes volver a abrir las pestañas del historial cuando quieras.
