@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = Ағымдағы кіріс мәнін сұрау/жауаптың негізгі мәтінінің максималды өлшемі ретінде орнату.
 
+## Experimental section
+
+# The heading
+options-experimental-label = Эксперименталды мүмкіндіктер
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Жөндеушіде стиль кестелерін көрсету
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Жөндеушіде стиль кестелерін тізіп шығару және қарау
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (құралдар панелін қайта ашуды қажет етеді)
+
 ## Style Editor section
 
 # The heading

@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Шолу үшін басқа оры
 ipprotecion-locations-subview-recommended-label = Ұсынылатын
 ipprotection-locations-subview-recommended-description = Ең жылдам орналасқан жерді табады
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Қолжетімді емес
+    .aria-label = Қолжетімді емес, сөндірілген
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Қолжетімсіз
 ipprotection-locations-subview-promo =
     .heading = { -mozilla-vpn-brand-name } арқылы қорғанысты одан әрі арттырыңыз
