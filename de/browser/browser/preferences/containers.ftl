@@ -100,5 +100,8 @@ containers-window-update-settings3 =
 
 ## Container creation panel, anchored to the URL bar.
 
+containers-panel-title = Neue Tab-Umgebung hinzufügen
+containers-panel-create-button =
+    .label = Fertig
 containers-panel-cancel-button =
     .label = Abbrechen

@@ -631,3 +631,4 @@ smartwindow-sidebar-auto-open-callout-dismiss = Nein, danke
 smartwindow-sidebar-auto-open-callout-accepted-title = Der Assistent bleibt geschlossen
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Verwenden Sie Fragen, um sie auf einer beliebigen Seite zu öffnen. Ändern Sie dies jederzeit in den <a data-l10n-name="settings">Einstellungen</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Verstanden
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Wenn Sie Ihre Meinung ändern, können Sie die Standardeinstellung in den <a data-l10n-name="settings">Einstellungen</a> jederzeit ändern.

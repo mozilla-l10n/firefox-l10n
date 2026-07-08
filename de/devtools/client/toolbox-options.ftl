@@ -82,6 +82,8 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Netzwerkanalyse
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maximale Größe des Anfrage- und Antworttextes (wird für unlimitiert auf 0 gesetzt):
+options-netmonitor-body-limit-tooltip =
+    .title = Anfrage- oder Antwortkörper, die die angegebene Größe überschreiten, werden gekürzt, wenn sie im Netzwerkmonitor angezeigt oder heruntergeladen werden. Auf 0 setzen, um keine Begrenzung zu haben.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Unbegrenzt
 options-netmonitor-body-limit-button =
@@ -90,6 +92,18 @@ options-netmonitor-body-limit-restore-default =
     .title = Den Standardwert für die maximale Größe des Anfrage-/Antwort-Inhalts wiederherstellen.
 options-netmonitor-body-limit-set =
     .title = Aktuellen Eingabewert als maximale Größe des Anfrage-/Antwort-Inhalts setzen.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Experimentelle Funktionen
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Stylesheets im Debugger anzeigen
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stylesheets im Debugger auflisten und anzeigen
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (erfordert erneutes Öffnen der Werkzeuge)
 
 ## Style Editor section
 

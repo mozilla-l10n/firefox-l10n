@@ -173,6 +173,8 @@ perftools-presets-ml-label = Maschinelles Lernen
 perftools-presets-ml-description2 = Voreinstellung für die Untersuchung von Problemen mit maschinellem Lernen in { -brand-shorter-name }.
 perftools-presets-networking-label = Netzwerkverbindungen
 perftools-presets-networking-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Netzwerkverbindungen mit Logs
+perftools-presets-networking-with-logs-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }, einschließlich Netzwerkprotokollen. Diese Protokolle können sensible Informationen wie die von Ihnen besuchten URLs enthalten.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Leistung
 perftools-presets-power-description = Voreinstellung für die Untersuchung von Problemen beim Energieverbrauch in { -brand-shorter-name }, mit geringem Overhead.
