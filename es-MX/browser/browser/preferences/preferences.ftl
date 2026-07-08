@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Esto abrirá el menú de contenedores cada vez que presiones el botón de nueva pestaña.
 containers-settings-button2 =
     .title = Ajustes
+containers-remove-button3 =
+    .title = Eliminar
 containers-remove-button2 =
     .title = Eliminar
 
