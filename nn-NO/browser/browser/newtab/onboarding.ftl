@@ -618,10 +618,17 @@ smartwindow-existing-user-fx-tou-go-back = Gå tilbake
 smartwindow-onboarding-title = Gjer { -smart-window-brand-name } til ditt føretrekte val
 smartwindow-onboarding-subtitle = Oppsummer, samanlikn og still spørsmål utan å gå glipp av noko.
 smartwindow-onboarding-primary-button = Hald fram
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskoten til { -brand-product-name } (Kit) med rekvisittar forma som stjerner
 
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = Vil du halde assistenten attlaten?
+smartwindow-sidebar-auto-open-callout-body = Du kan framleis opne han når du treng han.
 smartwindow-sidebar-auto-open-callout-accept = Ja, la han vere attlaten
 smartwindow-sidebar-auto-open-callout-dismiss = Nei takk
+smartwindow-sidebar-auto-open-callout-accepted-title = Assistenten vil halde fram med å vere attlaten
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Bruk Spør for å opne på kva side som helst. Du kan når som helst endre dette alternativet i <a data-l10n-name="settings">innstillingane</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Skjønar
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Om du ombestemmer deg, kan du når som helst oppdatere standardinnstillinga i <a data-l10n-name="settings">Innstillingar</a>.
