@@ -134,3 +134,39 @@ smart-window-grouped-tabs-summary =
        *[other] Se creó el grupo “{ $label }” con { $count } pestañas.
     }
 smart-window-grouped-tabs-row-label = Pestañas agrupadas
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Pestañas desagrupadas
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } pestaña se agrupó y luego se desagrupó.
+       *[other] { $count } pestañas se agruparon y luego se desagruparon.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Se desagrupó { $count } pestaña
+       *[other] Se desagruparon { $count } pestañas
+    }
+
+## Action log
+
+action-log-searching-tabs = Buscar pestañas
+action-log-searched-open-tabs = Búsqueda en pestañas abiertas
+action-log-searching-history = Buscar en el historial
+action-log-searched-history = Búsqueda en el historial
+action-log-reading-page = Leyendo página
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Leer el contenido de la página
+action-log-searching-web = Buscar en la web
+action-log-searched-web = Búsqueda en la web
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Búsqueda en la web con Exa
+action-log-checking-memories = Revisar recuerdos
+action-log-checked-memories = Revisión de recuerdos
+action-log-searching-settings = Buscar en la configuración
+action-log-searched-settings = Búsqueda en la configuración
+action-log-searching-world-cup-matches = Buscar partidos del Mundial
+action-log-searched-world-cup-matches = Búsqueda de partidos del Mundial
+action-log-checking-world-cup-live = Revisar partidos del Mundial en vivo
