@@ -601,3 +601,20 @@ onboarding-refresh-sync-title = Dźiće wšudźe. Synchronizujće wšitko.
 onboarding-refresh-gratitude-subtitle = Wulki dźak, zo { -brand-short-name } wužiwaće, kotryž so wot powšitkownosći wužitneje organizacije spěchuje. Z wašej pomocu dźěłamy na tym, internet wěsćiši a přistupniši za kóždeho činić.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Wužiwanske wuměnjenja { -brand-product-name }
+smartwindow-existing-user-fx-tou-accept = Akceptować
+smartwindow-existing-user-fx-tou-go-back = Wróćo
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Dale
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Haj, začinjeny wostajić
+smartwindow-sidebar-auto-open-callout-dismiss = Ně, dźakuju so
+smartwindow-sidebar-auto-open-callout-rejected-title = Sym zrozumił

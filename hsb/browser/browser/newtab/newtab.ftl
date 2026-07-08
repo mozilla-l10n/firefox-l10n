@@ -1353,6 +1353,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 newtab-sports-widget-message-survey-title = Pomhajće nam, asistenty polěpšić
 newtab-sports-widget-message-survey-widget-title = Kak běše asistent swětoweho mišterstwa?
+newtab-sports-widget-message-survey-cta =
+    .label = Naprašowanje wupjelnić
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -830,6 +830,7 @@ pdfjs-digital-signature-properties-banner-revoked =
 
 pdfjs-digital-signature-properties-status-verified = Status: Signatura je wobkrućena
 pdfjs-digital-signature-properties-status-invalid = Status: Signatura je njepłaćiwa
+pdfjs-digital-signature-properties-status-unknown = Status: Njeda so wobkrućić (njepodpěruje so)
 
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.

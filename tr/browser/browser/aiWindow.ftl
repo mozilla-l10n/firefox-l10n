@@ -75,6 +75,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-fast-label = Hızlı
+aiwindow-firstrun-model-fast-body = Hızlı cevap verir
 aiwindow-firstrun-model-allpurpose-label = Esnek
 aiwindow-firstrun-model-personal-label = Kişisel
 aiwindow-firstrun-button = Başlayalım
@@ -91,6 +92,7 @@ aiwindow-input-model-select-button-label-custom = Özel
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Kendi LLM’inizi kullanın
 aiwindow-input-model-select-default-badge =
     .label = Varsayılan
     .title = Seçilen varsayılan model
@@ -141,6 +143,8 @@ smartwindow-disclaimer = Yapay zekâ hata yapabilir.
 firefoxview-chats-nav = Sohbetler
     .title = Sohbetler
 firefoxview-chats-header = Sohbetler
+firefoxview-chat-context-delete = Sohbetlerden sil
+    .accesskey = S
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
     .placeholder = Sohbetlerde ara
