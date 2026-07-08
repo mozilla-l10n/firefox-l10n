@@ -612,6 +612,7 @@ smartwindow-existing-user-fx-tou-go-back = Retroceder
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-subtitle = Resumir, comparar y hacer preguntas, sin interrupciones.
 smartwindow-onboarding-primary-button = Continuar
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
