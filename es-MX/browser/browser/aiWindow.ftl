@@ -149,6 +149,77 @@ aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } n
 aiwindow-firstrun-default-title = Haz de { -smart-window-brand-name } tu opción preferida
 aiwindow-firstrun-default-subtitle = Navega, busca y pregunta en un solo lugar. Puedes seguir abriendo ventanas privadas y clásicas cuando quieras.
 aiwindow-firstrun-default-checkbox-label = Abrir siempre { -brand-product-name } en { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Puedes cambiar este ajuste cuando quieras
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Preguntar
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Recuerdos activados
+    .tooltiptext = Usar recuerdos cuando sea útil para generar respuestas
+aiwindow-memories-off =
+    .aria-label = Recuerdos desactivados
+    .tooltiptext = No se utilizarán los recuerdos para generar respuestas
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nuevo chat
+    .tooltiptext = Nuevo chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Cerrar
+    .tooltiptext = Cerrar
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Los datos sincronizados permanecerán en tu cuenta. Las { -smart-window-brand-name(form: "lower-plural") } abiertas se convertirán en ventanas clásicas.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Cambiar a modo { -smart-window-brand-name(form: "upper-singular") }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .tooltiptext = Chats
+    .aria-label = Chats
+    .label = Chats
+smartwindow-footer-history =
+    .label = Historial
+    .aria-label = Historial
+    .tooltiptext = Historial
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = La IA puede cometer errores.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Eliminar de los chats
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Buscar chats
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Hoy - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Ayer - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Natural Language Interactions
 
