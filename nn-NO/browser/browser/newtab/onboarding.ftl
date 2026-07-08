@@ -601,20 +601,27 @@ onboarding-refresh-gratitude-subtitle = Takk for at du brukar { -brand-short-nam
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passar på deg
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Byt mellom smarte og klassiske vindauge når som helst.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Brukarvilkår for { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = For å bruke { -smart-window-brand-name }, må du godta <a data-l10n-name="terms_of_use">bruksvilkåra</a> og  <a data-l10n-name="privacy_notice">den oppdaterte <a data-l10n-name="privacy_notice">personvernfråsegna</a>.
 smartwindow-existing-user-fx-tou-accept = Godta
 smartwindow-existing-user-fx-tou-go-back = Gå tilbake
 
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Gjer { -smart-window-brand-name } til ditt føretrekte val
+smartwindow-onboarding-subtitle = Oppsummer, samanlikn og still spørsmål utan å gå glipp av noko.
 smartwindow-onboarding-primary-button = Hald fram
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Vil du halde assistenten attlaten?
 smartwindow-sidebar-auto-open-callout-accept = Ja, la han vere attlaten
 smartwindow-sidebar-auto-open-callout-dismiss = Nei takk
 smartwindow-sidebar-auto-open-callout-rejected-title = Skjønar
