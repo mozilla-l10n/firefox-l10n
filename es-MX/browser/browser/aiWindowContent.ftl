@@ -75,3 +75,5 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Reintentar
+smartwindow-nl-retry-message = Si aún quieres cerrar estas pestañas, escoge <strong>Reintentar</strong> y selecciona las pestañas en el panel emergente.
+smartwindow-nl-retry-group-tabs-message = Si aún quieres agrupar estas pestañas, escoge <strong>Reintentar</strong> y selecciona las pestañas en el panel emergente.

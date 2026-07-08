@@ -18,6 +18,8 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Bir şeyler yanlış gitti. Lütfen yeniden deneyin.
 smartwindow-assistant-error-budget-header = Bugünkü sohbet sınırına ulaştınız.
+smartwindow-assistant-error-account-header = { -smart-window-brand-name }yi kullanmak için giriş yapmalısınız.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } kapasitesi şu anda dolu. Lütfen daha sonra yeniden deneyin.
 smartwindow-assistant-error-budget-body = Bu pencerede gezinmeye devam edebilirsiniz. Günlük limitiniz sıfırlandığında sohbet özelliğini tekrar kullanabileceksiniz.
 smartwindow-assistant-error-many-requests-header = Lütfen bir dakika bekleyip tekrar deneyin. Kısa sürede çok fazla mesaj gönderildi.
 smartwindow-assistant-error-max-length-header = Yeni bir sohbet başlatmanın zamanı geldi. Bu sohbet uzunluk sınırına ulaştı.
@@ -63,10 +65,17 @@ aiwindow-applied-memories-list =
 aiwindow-delete-memory-button =
     .aria-label = { $summary } anısını sil
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Sohbetin sonuna git
+    .tooltiptext = Sona git
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Yeniden dene
+smartwindow-nl-retry-message = Hâlâ sekmeleri kapatmak istiyorsanız <strong>Yeniden dene</strong>’yi seçin ve açılan karttan seçiminizi yapın.
 smartwindow-nl-thinking = Eşleşen sekmeler aranıyor…
 smartwindow-nl-undo-button =
     .label = Geri al
@@ -115,6 +124,9 @@ action-log-reading-page = Sayfa okunuyor
 action-log-read-page = Sayfa içeriği okundu
 action-log-searching-web = Web’de aranıyor
 action-log-searched-web = Web’de arandı
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Exa ile web’de arama yapıldı
 action-log-checking-memories = Anılar kontrol ediliyor
 action-log-checked-memories = Anılar kontrol edildi
 action-log-searching-settings = Ayarlar aranıyor

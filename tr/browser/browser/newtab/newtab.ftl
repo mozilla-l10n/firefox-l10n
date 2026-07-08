@@ -199,6 +199,11 @@ newtab-picture-menu-learn-more = Daha fazla bilgi al
 newtab-picture-show-button =
     .title = Günün resmini göster
     .aria-label = Günün resmini göster
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Yarın yeni bir resim burada sizi bekleyecek
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Günün Wikimedia Commons resmi
 
 ## Search box component.
 
@@ -1333,7 +1338,11 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Araçları iyileştirmemize yardım edin
+newtab-sports-widget-message-survey-body = Dünya Kupaları sona erdi. Bu deneyimle ilgili görüşlerinizi paylaşın.
 newtab-sports-widget-message-survey-widget-title = Dünya Kupası aracını nasıl buldunuz?
+newtab-sports-widget-message-survey-widget-body = Yeni araçlar geliştirmemize yardımcı olmak için geri bildiriminizi bizimle paylaşın. Sonra da sıradaki aracımızı deneyin.
+newtab-sports-widget-message-survey-cta =
+    .label = Ankete katıl
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
