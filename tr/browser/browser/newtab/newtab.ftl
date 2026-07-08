@@ -545,6 +545,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Gizlilik
 newtab-custom-widget-stocks-toggle =
     .label = Borsa
+newtab-custom-widget-picture-toggle =
+    .label = Günün resmi
 newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
@@ -1327,6 +1329,11 @@ newtab-sports-widget-message-day-in-play-title = { -brand-product-name } araçla
 newtab-sports-widget-message-day-in-play-body = Dünya Kupası’nı takip edin, işinize odaklanın, dünya saatlerini takip edin ve daha fazlasını yapın.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Araçları keşfedin
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Araçları iyileştirmemize yardım edin
+newtab-sports-widget-message-survey-widget-title = Dünya Kupası aracını nasıl buldunuz?
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

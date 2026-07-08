@@ -53,3 +53,25 @@ aiwindow-table-scroll-indicator = Avanza para ver más
 aiwindow-thumbs-up =
     .aria-label = Enviar comentario positivo
     .tooltiptext = Enviar comentario positivo
+aiwindow-thumbs-down =
+    .aria-label = Enviar comentario negativo
+    .tooltiptext = Enviar comentario negativo
+aiwindow-applied-memories-popover =
+    .aria-label = Panel de recuerdos
+aiwindow-applied-memories-list =
+    .aria-label = Recuerdos
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Eliminar { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Ir al final del chat
+    .tooltiptext = Ir al final del chat
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Reintentar
