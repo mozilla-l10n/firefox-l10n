@@ -20,3 +20,13 @@ smartwindow-assistant-error-generic-header = Algo salió mal. Por favor, intént
 smartwindow-assistant-error-budget-header = Haz alcanzado el límite diario de chats.
 smartwindow-assistant-error-account-header = Necesitas iniciar sesión para utilizar { -smart-window-brand-name(form: "lower-plural") }.
 smartwindow-assistant-error-capacity-header = El servicio de { -smart-window-brand-name(form: "lower-singular") } está saturado en este momento. Inténtelo de nuevo más tarde.
+smartwindow-assistant-error-budget-body = Puedes continuar navegando en esta ventana. El chat se reactivará cuando se restablezca tu límite diario.
+smartwindow-assistant-error-many-requests-header = Por favor, espera un momento y vuelve a intentarlo. Se han enviado demasiados mensajes en muy poco tiempo.
+smartwindow-assistant-error-max-length-header = Llegaste al límite de longitud en este chat. Comienza uno nuevo.
+smartwindow-assistant-error-request-blocked-header = La { -smart-window-brand-name(form: "lower-singular") } no pudo conectarse al servidor. Intenta utilizar una red distinta, o desactiva tu VPN.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Error del servidor (HTTP { $status }). Por favor, vuelve a intentarlo.
+smartwindow-retry-btn = Reintentar
+smartwindow-clear-btn = Nuevo chat
+smartwindow-signin-btn = Iniciar sesión
