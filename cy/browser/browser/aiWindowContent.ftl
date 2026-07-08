@@ -168,9 +168,32 @@ smart-window-grouped-tabs-summary =
 smart-window-grouped-tabs-row-label = Tabiau wedi'u grwpio
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tabiau heb eu grwpio
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [zero] { $count } tabiau wedi'u grwpio, yna eu dad grwpio.
+        [one] { $count } tab wedi'i grwpio, yna ei ddad grwpio.
+        [two] { $count } dab wedi'u grwpio, yna eu dad grwpio.
+        [few] { $count } thab wedi'u grwpio, yna eu dad grwpio.
+        [many] { $count } thab wedi'u grwpio, yna eu dad grwpio.
+       *[other] { $count } tab wedi'u grwpio, yna eu dad grwpio.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [zero] Dad grwpio { $count } tabiau
+        [one] Dad grwpio { $count } tab
+        [two] Dad grwpio { $count } dab
+        [few] Dad grwpio { $count } thab
+        [many] Dad grwpio { $count } thab
+       *[other] Dad grwpio { $count } tab
+    }
 
 ## Action log
 
+action-log-searching-tabs = Chwilio’r tabiau
+action-log-searched-open-tabs = Chwilio tabiau agored
+action-log-searching-history = Chwilio'ch hanes
 action-log-searched-history = Chwilio'ch hanes
 action-log-reading-page = Tudalen darllen
 # Read is past tense, to indicate that the action has been completed.

@@ -54,3 +54,33 @@ aiwindow-input-cta-submit-label-chat = Gofyn
 aiwindow-input-cta-submit-label-navigate = Mynd
 aiwindow-input-cta-submit-label-search = Chwilio
 aiwindow-input-cta-submit-label-stop = Aros
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Cynhyrchu ymateb wedi cychwyn
+aiwindow-input-cta-menu-label-chat = Gofyn
+aiwindow-input-cta-menu-label-navigate = Mynd i'r wefan
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Chwilio gyda { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Chwilio gyda…
+aiwindow-input-cta-search-submenu-header = Chwilio
+aiwindow-input-cta-stop-button =
+    .title = Atal yr ymateb
+    .aria-label = Atal cynhyrchu'r ymateb
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Gofyn, chwilio, neu deipio URL
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-choose-label = Dewis beth mae { -smart-window-brand-name } yn dysgu ohono
+aiwindow-firstrun-memories-checkbox-chats = Sgyrsiau yn { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Pori ar draws { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Diweddaru'r gosodiadau ar unrhyw bryd.
+aiwindow-firstrun-memories-no-create = Iawn. Fydd { -smart-window-brand-name } ddim yn creu atgofion. Diweddaru yn y gosodiadau ar unrhyw bryd.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Gwneud { -smart-window-brand-name } eich dewis
+aiwindow-firstrun-default-subtitle = Pori, chwilio, a gofyn mewn un man. Gallwch chi agor Windows Preifat a Chlasurol o hyd pan fydd angen.
+aiwindow-firstrun-default-checkbox-label = Agor { -brand-product-name } yn { -smart-window-brand-name } bob tro
