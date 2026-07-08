@@ -82,6 +82,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Rajtark jako zapołožku składować …
     .accesskey = R
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = Jako zapołožku składować
     .accesskey = J
@@ -107,6 +108,7 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Wjacore rajtarki začinić
     .accesskey = W
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
     .label = Wjacore začinić
     .accesskey = W

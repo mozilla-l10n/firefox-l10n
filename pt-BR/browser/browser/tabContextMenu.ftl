@@ -82,6 +82,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Adicionar aba aos favoritos…
     .accesskey = b
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = Adicionar aos favoritos
     .accesskey = f
@@ -107,6 +108,7 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Fechar várias abas
     .accesskey = v
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
     .label = Fechar várias abas
     .accesskey = v

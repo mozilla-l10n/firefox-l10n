@@ -76,6 +76,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = ടാബിനെ കുറിച്ചിടുക
     .accesskey = ക
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = കുറിച്ചിടുക
     .accesskey = ക
@@ -88,6 +89,7 @@ move-to-end =
 move-to-new-window =
     .label = പുതിയ ജാലകത്തിലേക്ക് നീക്കുക
     .accesskey = W
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
     .label = ഒന്നിന്മേൽ അടയ്ക്കുക
     .accesskey = ഒ

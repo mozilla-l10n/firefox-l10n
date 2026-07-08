@@ -82,6 +82,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Гузоштани хатбарак барои варақа…
     .accesskey = Г
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = Гузоштани хатбарак
     .accesskey = Г

@@ -76,6 +76,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = 为标签页添加书签…
     .accesskey = B
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = 添加书签
     .accesskey = B

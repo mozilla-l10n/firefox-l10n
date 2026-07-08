@@ -82,6 +82,7 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Sekmeyi yer imlerine ekle…
     .accesskey = m
+# Context menu item used to bookmark 1 or more selected tabs
 tab-context-bookmark-tab2 =
     .label = Yer imlerine ekle
     .accesskey = Y
