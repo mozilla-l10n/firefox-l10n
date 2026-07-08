@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Riêng tư
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Hình ảnh của ngày
 home-prefs-mission-message2 =
     .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link2 =
@@ -156,6 +159,41 @@ home-prefs-mission-message-learn-more-link-srd = Tìm hiểu cách thức
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Tìm hiểu thêm
 
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Tìm hiểu thêm
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Hình ảnh của ngày · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Đặt hình nền
+    .title = Đặt hình nền
+    .aria-label = Đặt ảnh của ngày làm hình nền thẻ mới của bạn
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Quản lý hình nền
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Ẩn hình ảnh của ngày
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Hiện hình ảnh của ngày
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Tìm hiểu thêm
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Hiện hình ảnh của ngày
+    .aria-label = Hiện hình ảnh của ngày
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Hãy quay lại vào ngày mai để xem hình ảnh mới
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Hình ảnh của ngày trên Wikimedia Commons
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -191,6 +229,7 @@ newtab-topsites-add-shortcut-label = Thêm lối tắt
 newtab-topsites-add-shortcut-title =
     .title = Thêm lối tắt
     .aria-label = Thêm lối tắt
+newtab-shortcuts-pinned-area = Khu vực được ghim
 newtab-topsites-title-label = Tiêu đề
 newtab-topsites-title-input =
     .placeholder = Nhập tiêu đề
@@ -498,6 +537,10 @@ newtab-custom-widget-clock-toggle =
     .label = Đồng hồ
 newtab-custom-widget-sports-toggle2 =
     .label = Thể thao
+newtab-custom-widget-privacy-toggle =
+    .label = Riêng tư
+newtab-custom-widget-picture-toggle =
+    .label = Hình ảnh của ngày
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
@@ -974,6 +1017,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
+newtab-widget-timer-menu-button =
+    .aria-label = Tùy chọn bộ đếm giờ
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Tin tức nổi bật
 newtab-daily-briefing-card-menu-dismiss = Bỏ qua
@@ -1261,12 +1306,23 @@ newtab-sports-widget-team-tbd = Sẽ được xác định sau
 newtab-sports-widget-message-wallpapers-title = Khởi động World Cup với những hình nền mới
 newtab-sports-widget-message-wallpapers-body = Hãy mang chút năng lượng của ngày thi đấu đến trình duyệt của bạn trong suốt giải đấu.
 newtab-sports-widget-message-wallpapers-cta = Chọn hình nền
+newtab-sports-widget-message-wallpapers-semifinals-title = Tải hình nền mới cho vòng bán kết
+newtab-sports-widget-message-wallpapers-semifinals-body = Chuẩn bị cho những trận đấu hấp dẫn nhất của World Cup.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Add widgets
 newtab-sports-widget-message-day-in-play-title = Hãy giữ cho ngày của bạn luôn thú vị với các widget của { -brand-product-name }
 newtab-sports-widget-message-day-in-play-body = Theo dõi World Cup, hoàn thành công việc, theo dõi thời gian trên toàn cầu và hơn thế nữa.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Khám phá widget
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Giúp chúng tôi cải thiện các tiện ích
+newtab-sports-widget-message-survey-body = Giải vô địch bóng đá thế giới đã khép lại. Hãy chia sẻ cảm nhận của bạn về trải nghiệm này.
+newtab-sports-widget-message-survey-widget-title = Tiện ích World Cup hoạt động như thế nào?
+newtab-sports-widget-message-survey-widget-body = Hãy chia sẻ phản hồi của bạn để giúp chúng tôi cải thiện các tiện ích trong tương lai. Sau đó, hãy thử tiện ích mới trong danh sách các tiện ích của bạn.
+newtab-sports-widget-message-survey-cta =
+    .label = Tham gia khảo sát
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

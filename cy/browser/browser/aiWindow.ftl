@@ -71,13 +71,13 @@ aiwindow-input-cta-stop-button =
 smartbar-placeholder =
     .placeholder = Gofyn, chwilio, neu deipio URL
 smartbar-placeholder-hint-1 = Defnyddiwch @ i sôn am dabiau diweddar…
-smartbar-placeholder-hint-2 = Gofynnwch unrhyw beth…
-smartbar-placeholder-hint-3 = Rhowch gyfeiriad gwe…
-smartbar-placeholder-hint-4 = Chwiliwch y we…
+smartbar-placeholder-hint-2 = Gofyn unrhyw beth…
+smartbar-placeholder-hint-3 = Rhoi cyfeiriad gwe…
+smartbar-placeholder-hint-4 = Chwilio'r we…
 
 ## Mentions
 
-smartbar-mention-typing-placeholder = Tagiwch dab neu wefan
+smartbar-mention-typing-placeholder = Tagio tab neu wefan
 smartbar-mentions-list-no-results-label = Heb ganfod canlyniadau
 smartbar-mentions-list-recent-tabs-label = Tabiau diweddar
 
@@ -89,7 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
-aiwindow-website-chip-placeholder = Tagiwch dab neu wefan
+aiwindow-website-chip-placeholder = Tagio tab neu wefan
 aiwindow-website-chip-history-deleted = Hanes wedi'i ddileu
 aiwindow-website-chip-remove-button =
     .aria-label = Tynnu
@@ -107,7 +107,7 @@ aiwindow-firstrun-model-chip-subtitle = Model { $model } gan { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Hyblyg
 aiwindow-firstrun-model-allpurpose-body = Y dewis addas ar gyfer y rhan fwyaf o anghenion
 aiwindow-firstrun-model-personal-label = Personol
-aiwindow-firstrun-model-personal-body = Atebion wedi'u teilwra fwyaf
+aiwindow-firstrun-model-personal-body = Atebion wedi'u personoli fwyaf
 aiwindow-firstrun-button = Ffwrdd â ni
 aiwindow-firstrun-back-button = Nôl
 aiwindow-firstrun-next-button = Nesaf
@@ -310,3 +310,6 @@ aiwindow-feedback-include-page-content = Rhannu'r tudalennau sy'n cael eu cyfeir
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Newid cynllun golwg
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Modd newid: Golwg Rhestr
+    .tooltiptext = Golwg Rhestr

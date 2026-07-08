@@ -55,6 +55,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Newid maint tabiau'r golwg hollt
+tab-devtools-splitter =
+    .aria-label = Newid Maint Panel Offer Datblygwr
 
 ## Tooltips for tab audio control
 ## Variables:

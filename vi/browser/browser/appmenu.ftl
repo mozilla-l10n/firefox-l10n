@@ -215,6 +215,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Giá trị đặt trước để điều tra lỗi mạng trong { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Kết nối mạng
+profiler-popup-presets-networking-with-logs-description = Thiết lập sẵn để điều tra các lỗi mạng trong { -brand-shorter-name }, bao gồm cả nhật ký mạng. Các nhật ký này có thể chứa thông tin nhạy cảm như URL bạn truy cập.
 profiler-popup-presets-power-description = Giá trị đặt trước để điều tra lỗi sử dụng điện trong { -brand-shorter-name }, với chi phí thấp.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -303,15 +304,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Đăng nhập vào tài khoản của bạn
+appmenuitem-monitor-title2 = Luôn đi trước nguy cơ đánh cắp danh tính
+appmenuitem-monitor-description2 = Nhận thông báo về các vụ rò rỉ dữ liệu
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Nhận cảnh báo rò rỉ dữ liệu
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Giữ email của bạn riêng tư
+appmenuitem-relay-description2 = Giúp ngăn chặn thư rác trong hộp thư đến của bạn
 appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
 appmenuitem-services-relay-description = Khởi chạy bảng điều khiển email ẩn danh
+appmenuitem-vpn-title2 = Ẩn vị trí của bạn với { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Làm cho hoạt động duyệt web của bạn khó bị theo dõi hơn
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bảo vệ toàn diện cho thiết bị
 appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
 appmenu-services-header = Dịch vụ của tôi
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Các công cụ bảo mật
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -325,9 +336,18 @@ appmenu-manage-profiles =
     .label = Quản lý hồ sơ người dùng
 appmenu-copy-profile =
     .label = Sao chép hồ sơ này
+appmenu-create-profile2 =
+    .label = Tạo hồ sơ mới
 appmenu-create-profile =
     .label = Hồ sơ người dùng mới
 appmenu-edit-profile =
     .aria-label = Chỉnh sửa hồ sơ người dùng
+appmenu-edit-this-profile =
+    .label = Chỉnh sửa hồ sơ này
+appmenu-profile-current-in-use = Hồ sơ hiện đang được sử dụng
 appmenu-profiles-2 =
     .label = Hồ sơ người dùng
+appmenu-profiles-header = Hồ sơ
+appmenu-all-profiles =
+    .label = Tất cả hồ sơ
+appmenu-secure-sync-header = Đồng bộ hóa an toàn

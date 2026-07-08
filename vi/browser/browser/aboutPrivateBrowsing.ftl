@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Ai có thể xem hoạt độ
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Việc đóng tất cả các cửa sổ riêng tư sẽ xóa cookie, lịch sử và dữ liệu trang web của bạn.
+about-private-browsing-nova-info-link = Ai vẫn có thể xem được hoạt động của tôi?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Hạn chế tối đa tiết lộ thông tin của bạn
+about-private-browsing-nova-info-subheader = Chúng tôi sẽ xóa mọi tìm kiếm và thông tin đăng nhập khi bạn đóng cửa sổ này. Các tính năng bảo vệ tích hợp của { -brand-short-name } cũng được bật ở đây, chẳng hạn như chặn trình theo dõi.

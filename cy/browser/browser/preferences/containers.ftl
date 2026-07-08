@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Gosodiadau Cynhwysydd { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Ychwanegu Cynhwysydd Newydd
+containers-panel-create-button =
+    .label = Gorffen
+containers-panel-cancel-button =
+    .label = Diddymu

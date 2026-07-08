@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Tabiau Agored
 sidebar-options-menu-button =
     .title = Agor dewislen
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Newid maint y bar ochr
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Ffenest { $winID }
+sidebar-bookmarks-title = Nodau Tudalen
 
 ## Context for closing synced tabs when hovering over the items
 

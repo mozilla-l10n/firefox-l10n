@@ -615,3 +615,4 @@ smartwindow-onboarding-primary-button = Eku’ejey
 
 smartwindow-sidebar-auto-open-callout-accept = Héẽ, embotymeme
 smartwindow-sidebar-auto-open-callout-dismiss = Nahániri, aguyje
+smartwindow-sidebar-auto-open-callout-rejected-title = Aikũmby

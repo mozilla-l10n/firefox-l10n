@@ -601,18 +601,34 @@ onboarding-refresh-gratitude-subtitle = Takk for at du bruker { -brand-short-nam
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passer på deg
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Bytt mellom smarte og klassiske vinduer når som helst.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Bruksvilkår for { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = For å bruke { -smart-window-brand-name }, må du godta <a data-l10n-name="terms_of_use">bruksvilkårene</a> og den oppdaterte <a data-l10n-name="privacy_notice">personvernerklæringen</a>.
 smartwindow-existing-user-fx-tou-accept = Godta
 smartwindow-existing-user-fx-tou-go-back = Gå tilbake
 
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Gjør { -smart-window-brand-name } til ditt foretrukne valg
+smartwindow-onboarding-subtitle = Oppsummer, sammenlign og still spørsmål uten å gå glipp av noe.
 smartwindow-onboarding-primary-button = Fortsett
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name }-maskoten (Kit) med stjernerekvisitter
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Vil du holde assistenten lukket?
+smartwindow-sidebar-auto-open-callout-body = Du kan fortsatt åpne den når du trenger den.
+smartwindow-sidebar-auto-open-callout-accept = Ja, la den være stengt
 smartwindow-sidebar-auto-open-callout-dismiss = Nei takk
+smartwindow-sidebar-auto-open-callout-accepted-title = Assistenten vil forbli stengt
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Bruk «Spør» for å åpne den på en hvilken som helst side. Du kan endre dette når som helst i <a data-l10n-name="settings">Innstillinger</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Skjønner
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Hvis du ombestemmer deg, kan du når som helst oppdatere standardinnstillingen i <a data-l10n-name="settings">Innstillinger</a>.

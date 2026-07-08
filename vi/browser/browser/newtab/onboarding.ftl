@@ -450,6 +450,8 @@ onboarding-checklist-extension = Thêm tiện ích
 onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản của bạn
 onboarding-checklist-minimize =
     .label = Thu nhỏ
+onboarding-checklist-remove =
+    .label = Xóa danh sách kiểm tra
 
 ## Tab Groups feature onboarding strings
 
@@ -598,3 +600,35 @@ onboarding-refresh-sync-title = Đi bất cứ đâu. Đồng bộ hóa mọi th
 onboarding-refresh-gratitude-subtitle = Cảm ơn bạn đã sử dụng { -brand-short-name }, trình duyệt duy nhất được hỗ trợ bởi một tổ chức phi lợi nhuận. Với sự hỗ trợ của bạn, chúng tôi đang nỗ lực làm cho Internet an toàn hơn và dễ truy cập hơn cho mọi người.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } luôn hỗ trợ bạn
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Chuyển đổi giữa cửa sổ thông mình và thông thường bất cứ lúc nào.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Điều khoản sử dụng { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Để sử dụng { -smart-window-brand-name }, vui lòng chấp nhận <a data-l10n-name="terms_of_use">diều khoản sử dụng</a> và <a data-l10n-name="privacy_notice">thông báo về quyền riêng tư</a> được cập nhật.
+smartwindow-existing-user-fx-tou-accept = Chấp nhận
+smartwindow-existing-user-fx-tou-go-back = Quay lại
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Làm cho { -smart-window-brand-name } thành lựa chọn hàng đầu của bạn
+smartwindow-onboarding-subtitle = Tóm tắt, so sánh và đặt câu hỏi một cách nhanh chóng và chính xác.
+smartwindow-onboarding-primary-button = Tiếp tục
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Linh vật { -brand-product-name } (Kit) kèm đạo cụ hình ngôi sao
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Bạn muốn đóng cửa sổ trợ lý ảo?
+smartwindow-sidebar-auto-open-callout-body = Bạn vẫn có thể mở nó ra bất cứ khi nào cần.
+smartwindow-sidebar-auto-open-callout-accept = Có, giữ việc đóng lại
+smartwindow-sidebar-auto-open-callout-dismiss = Không, cảm ơn
+smartwindow-sidebar-auto-open-callout-accepted-title = Trợ lý sẽ vẫn đóng
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Sử dụng chức năng Hỏi để mở trên bất kỳ trang nào. Bạn có thể thay đổi cài đặt này bất cứ lúc nào trong <a data-l10n-name="settings">Cài đặt</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Đã hiểu
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Nếu bạn đổi ý, bạn có thể cập nhật cài đặt mặc định trong <a data-l10n-name="settings">Cài đặt</a> bất cứ lúc nào.

@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Blwch Offer Amlbroses
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Prif Broses a Phrosesau Cynnwys ar gyfer y porwr targed
+about-debugging-message-error-icon =
+    .alt = Eicon gwall
+about-debugging-message-info-icon =
+    .alt = Eicon gwybodaeth
+about-debugging-message-warning-icon =
+    .alt = Eicon rhybudd
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Cau neges

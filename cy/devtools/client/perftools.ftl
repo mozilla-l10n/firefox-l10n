@@ -176,6 +176,8 @@ perftools-presets-ml-label = Dysgu Peirianyddol
 perftools-presets-ml-description2 = Ei ragosod ar gyfer ymchwilio i wallau dysgu peirianyddol yn { -brand-shorter-name }.
 perftools-presets-networking-label = Rhwydweithio
 perftools-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
+perftools-presets-networking-with-logs-label = Rhwydweithio gyda Logiau
+perftools-presets-networking-with-logs-description = Y rhagosodiad ar gyfer ymchwilio i fygiau rhwydweithio yn { -brand-shorter-name }, gan gynnwys logiau rhwydweithio. Gall y logiau hyn gynnwys manylion sensitif fel yr URLau rydych chi'n ymweld â nhw.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Pŵer
 perftools-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wallau defnydd pŵer yn { -brand-shorter-name }, gyda gorbenion isel.

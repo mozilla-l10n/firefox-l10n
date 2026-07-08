@@ -617,3 +617,19 @@ smartwindow-existing-user-fx-tou-go-back = Mynd nôl
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Gwneud { -smart-window-brand-name } eich prif ddewis
+smartwindow-onboarding-subtitle = Crynhoi, cymharu, a gofyn cwestiynau yn ddiymdroi.
+smartwindow-onboarding-primary-button = Parhau
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Masgot (Kit)  { -brand-product-name }  gyda phropiau sêr
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Eisiau cadw'r cynorthwyydd ar gau?
+smartwindow-sidebar-auto-open-callout-body = Gallwch ei agor eto pryd bynnag y bydd ei angen arnoch chi.
+smartwindow-sidebar-auto-open-callout-accept = Iawn, ei gadw ar gau
+smartwindow-sidebar-auto-open-callout-dismiss = Dim diolch
+smartwindow-sidebar-auto-open-callout-accepted-title = Bydd y cynorthwyydd yn aros ar gau
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Defnyddiwch Gofyn i'w agor ar unrhyw dudalen. Newidiwch hwn unrhyw bryd yn y <a data-l10n-name="settings">Gosodiadau</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Iawn
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Os byddwch yn newid eich meddwl, gallwch ddiweddaru'r rhagosodiad yn y <a data-l10n-name="settings">Gosodiadau</a> unrhyw bryd.
