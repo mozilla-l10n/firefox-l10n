@@ -134,6 +134,8 @@ perftools-presets-ml-label = למידת מכונה
 perftools-presets-ml-description2 = ערכה לחקירת באגים של למידת מכונה ב־{ -brand-shorter-name }.
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = רשת עם יומנים
+perftools-presets-networking-with-logs-description = ערכה לחקירת באגים בתקשורת או ברשת ב־{ -brand-shorter-name }, כולל יומני רשת. יומנים אלה עשויים להכיל מידע רגיש כמו כתובות האתרים שבהם ביקרת.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = צריכת חשמל
 perftools-presets-power-description = ערכה לחקירת באגים של צריכת חשמל ב־{ -brand-shorter-name }, עם תקורה נמוכה.

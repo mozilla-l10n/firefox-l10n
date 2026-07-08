@@ -252,6 +252,7 @@ aiwindow-feedback-what-worked-well = Što je derje fungowało? Žane wosobinske 
 aiwindow-feedback-add-details = Přidajće podrobnosće, jeli chceće. Žane wosobinske informacije, prošu.
 aiwindow-feedback-submit = Wotpósłać
 aiwindow-feedback-cancel = Přetorhnyć
+aiwindow-feedback-reason-incorrect-or-misleading = Wopačny abo zabłudźawy
 aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst faluje
 aiwindow-feedback-reason-other = Druhe
 aiwindow-feedback-preview-report = Chatowe podrobnosće pokazać

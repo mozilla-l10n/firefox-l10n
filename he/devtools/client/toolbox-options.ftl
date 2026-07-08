@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = הגדרת ערך הקלט הנוכחי כגודל גוף בקשה/תגובה מירבי.
 
+## Experimental section
+
+# The heading
+options-experimental-label = תכונות ניסיוניות
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = הצגת גיליונות סגנונות במנפה השגיאות
+options-stylesheets-in-the-debugger-tooltip =
+    .title = הצגת רשימה וצפייה בגיליונות סגנונות במנפה השגיאות
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (דורש פתיחה מחדש של ארגז הכלים)
+
 ## Style Editor section
 
 # The heading

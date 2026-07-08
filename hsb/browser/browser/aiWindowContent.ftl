@@ -70,6 +70,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Hišće raz spytać
+smartwindow-nl-retry-message = Jeli hišće chceće rjatarki začinić. wubjerće <strong>Hišće raz spytać</strong> a čińće swój wuběr w karće, kotraž so wočinja.
+smartwindow-nl-retry-group-tabs-message = Jeli hišće chceće rajtarki zeskupić, wubjerće <strong>Hišće raz spytać</strong> a potom, kotre so maja w karće zeskupić, kotraž so wočinja.
 smartwindow-nl-thinking = Pyta so za wotpowědnymi rajtarkami…
 smartwindow-loading-assistant-response =
     .aria-label = Wotmołwa asistenta so začituje
@@ -129,6 +131,16 @@ smart-window-grouped-tabs-label =
         [two] { $count } rajtarkaj zeskupjenej
         [few] { $count } rajtarki zeskupjene
        *[other] { $count } rajtarkow zeskupjene
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Skupina “{ $label }” je so załožiła a { $count } rajtark je so přidał.
+        [two] Skupina “{ $label }” je so załožiła a { $count } rajtarkaj stej so přidałoj.
+        [few] Skupina “{ $label }” je so załožiła a { $count } rajtarki su so přidali.
+       *[other] Skupina “{ $label }” je so załožiła a { $count } rajtarkow je so přidało.
     }
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
 # Action result labels for ungrouped tabs
