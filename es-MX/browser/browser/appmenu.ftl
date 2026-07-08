@@ -307,6 +307,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Inicie sesión en tu cuenta
 appmenuitem-monitor-title2 = Protégete del robo de identidad
+appmenuitem-monitor-description2 = Recibir alertas sobre filtraciones de datos
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Reciba alertas de filtración de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
