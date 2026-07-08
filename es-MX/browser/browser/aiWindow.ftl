@@ -135,6 +135,20 @@ aiwindow-firstrun-memories-subtitle = Las { -smart-window-brand-name(form: "lowe
 aiwindow-firstrun-memories-conversation-title = Conversaciones fluidas
 aiwindow-firstrun-memories-conversation-body = El aprendizaje a partir de chats evita que tengas que repetirte a ti mismo.
 aiwindow-firstrun-memories-relevance-title = Respuestas más relevantes
+aiwindow-firstrun-memories-relevance-body = Aprender de la navegación le da una perspectiva más amplia a { -smart-window-brand-name }.
+aiwindow-firstrun-memories-privacy-title = Privacidad desde el diseño
+aiwindow-firstrun-memories-privacy-body = Los recuerdos se guardan en este dispositivo. Elimínalos o desactiva la función en cualquier momento.
+aiwindow-firstrun-memories-choose-label = Elige de dónde aprende { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Chats en { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navegación entre { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Modifica esto en la configuración en cualquier momento.
+aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } no guardará recuerdos. Modifica esto en la configuración en cualquier momento.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Haz de { -smart-window-brand-name } tu opción preferida
+aiwindow-firstrun-default-subtitle = Navega, busca y pregunta en un solo lugar. Puedes seguir abriendo ventanas privadas y clásicas cuando quieras.
+aiwindow-firstrun-default-checkbox-label = Abrir siempre { -brand-product-name } en { -smart-window-brand-name }
 
 ## Natural Language Interactions
 
