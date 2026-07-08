@@ -79,6 +79,95 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Ceisio eto
+smartwindow-nl-retry-message = Os ydych chi dal eisiau cau tabiau, dewiswch <strong>Ceisio eto</strong> a gwnewch eich dewis yn y cerdyn sy'n agor.
+smartwindow-nl-retry-group-tabs-message = Os ydych chi dal eisiau grwpio tabiau, dewiswch <strong>Ceisio eto</strong> a dewiswch pa rai yn y cerdyn sy'n agor.
+smartwindow-nl-thinking = Chwilio am dabiau sy'n cyfateb…
+smartwindow-loading-assistant-response =
+    .aria-label = Wrthi'n llwytho ymateb cynorthwyydd
+smartwindow-nl-undo-button =
+    .label = Dadwneud
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [zero] Wedi cau { $tabCount } tabiau
+        [one] Wedi cau { $tabCount } tab
+        [two] Wedi cau { $tabCount } dab
+        [few] Wedi cau { $tabCount } thab
+        [many] Wedi cau { $tabCount } thab
+       *[other] Wedi cau { $tabCount } tab
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [zero] Iawn! Tabiau wedi'u cau.
+        [one] Iawn! Tab wedi'i gau.
+        [two] Iawn! Tabiau wedi'u cau.
+        [few] Iawn! Tabiau wedi'u cau.
+        [many] Iawn! Tabiau wedi'u cau.
+       *[other] Iawn! Tabiau wedi'u cau.
+    }
+smart-window-closed-tabs-row-label = Tabiau wedi'u cau
+smart-window-closed-and-restored-label = Tabiau wedi'u cau a'u hadfer
+smart-window-restored-row-label =
+    { $count ->
+        [zero] Wedi adfer { $tabCount } tabiau
+        [one] Wedi adfer { $tabCount } tab
+        [two] Wedi adfer { $tabCount } dab
+        [few] Wedi adfer { $tabCount } thab
+        [many] Wedi adfer { $tabCount } thab
+       *[other] Wedi adfer { $tabCount } tab
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [zero] Tabiau wedi'u cau ac yna eu hadfer
+        [one] Tab wedi'i gau ac yna ei adfer
+        [two] Tabiau wedi'u cau ac yna eu hadfer
+        [few] Tabiau wedi'u cau ac yna eu hadfer
+        [many] Tabiau wedi'u cau ac yna eu hadfer
+       *[other] Tabiau wedi'u cau ac yna eu hadfer
+    }
+smart-window-cancelled-label = Cais wedi'i ddiddymu.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Grŵp
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [zero] Grwpio { $count } tabiau
+        [one] Grwpio { $count } tab
+        [two] Grwpio { $count } dab
+        [few] Grwpio { $count } thab
+        [many] Grwpio { $count } thab
+       *[other] Grwpio { $count } tab
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [zero] Wedi grwpio { $tabCount } tabiau
+        [one] Wedi grwpio { $tabCount } tab
+        [two] Wedi grwpio { $tabCount } dab
+        [few] Wedi grwpio { $tabCount } thab
+        [many] Wedi grwpio { $tabCount } thab
+       *[other] Wedi grwpio { $tabCount } tab
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [zero] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } tabiau.
+        [one] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } tab.
+        [two] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } dab.
+        [few] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } thab.
+        [many] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } thab.
+       *[other] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } tab.
+    }
+smart-window-grouped-tabs-row-label = Tabiau wedi'u grwpio
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Tabiau heb eu grwpio
 
 ## Action log
 
