@@ -604,7 +604,7 @@ onboarding-refresh-gratitude-title = Mae { -brand-short-name } yn eich cefnogi
 
 ## Smart window switcher callout
 
-smartwindow-switcher-callout = Newid rhwng Smart a Ffenestri Clasurol ar unrhyw bryd.
+smartwindow-switcher-callout = Newid rhwng Clyfar a Ffenestri Clasurol ar unrhyw bryd.
 
 ## Smart Window ToU modal
 

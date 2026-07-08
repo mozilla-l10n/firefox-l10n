@@ -626,3 +626,7 @@ smartwindow-onboarding-image-alt =
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = Wolle jo de assistint ticht hâlde?
+smartwindow-sidebar-auto-open-callout-body = Jo kinne it noch altyd iepenje wannear’t jo it nedich binne.
+smartwindow-sidebar-auto-open-callout-accept = Ja, ticht hâlde
+smartwindow-sidebar-auto-open-callout-dismiss = Nee, tankewol
+smartwindow-sidebar-auto-open-callout-accepted-title = De assistint bliuwt ticht
