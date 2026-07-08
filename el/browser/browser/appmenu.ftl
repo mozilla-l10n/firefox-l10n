@@ -337,6 +337,7 @@ appmenu-edit-profile =
     .aria-label = Επεξεργασία προφίλ
 appmenu-edit-this-profile =
     .label = Επεξεργασία προφίλ
+appmenu-profile-current-in-use = Τρέχον προφίλ είναι σε χρήση
 appmenu-profiles-2 =
     .label = Προφίλ
 appmenu-profiles-header = Προφίλ

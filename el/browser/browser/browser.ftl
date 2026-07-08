@@ -934,6 +934,29 @@ urlbar-result-explanation-last-visited-days-2 =
         [one] Τελευταία επίσκεψη: πριν από { $daysAgo } ημέρα
        *[other] Τελευταία επίσκεψη: πριν από { $daysAgo } ημέρες
     }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Τελευταία επίσκεψη: πριν από { $weeksAgo } εβδομάδα
+       *[other] Τελευταία επίσκεψη: πριν από { $weeksAgo } εβδομάδες
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Τελευταία επίσκεψη: πριν από { $monthsAgo } μήνα
+       *[other] Τελευταία επίσκεψη: πριν από { $monthsAgo } μήνες
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Τελευταία επίσκεψη: { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

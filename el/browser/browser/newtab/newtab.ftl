@@ -177,10 +177,28 @@ newtab-stocks-menu-learn-more = Μάθετε περισσότερα
 
 ## Strings for the Picture of the Day widget
 
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Εικόνα της ημέρας · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Ορισμός ταπετσαρίας
+    .title = Ορισμός ταπετσαρίας
+    .aria-label = Ορισμός σημερινής εικόνας ως ταπετσαρίας
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Διαχείριση ταπετσαρίας
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Απόκρυψη σημερινής εικόνας
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Εμφάνιση σημερινής εικόνας
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Μάθετε περισσότερα
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Εμφάνιση σημερινής εικόνας
+    .aria-label = Εμφάνιση σημερινής εικόνας
 
 ## Search box component.
 
