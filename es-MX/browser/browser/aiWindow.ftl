@@ -121,3 +121,29 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Pestaña cerrada
 smartwindow-close-tab-callout-subtitle = Puedes volver a abrir las pestañas del historial cuando quieras.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = ¿Utilizar { -smart-window-brand-name(form: "lower-plural") } por defecto ?
+smart-window-default-promo-message = { -brand-short-name } se iniciará siempre en modo { -smart-window-brand-name(form: "lower-singular") }
+smart-window-default-promo-primary-button = Establecer como predeterminado
+smart-window-default-promo-additional-button = Ahora no
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Enviar comentarios
+aiwindow-feedback-what-worked-well = ¿Qué aspectos funcionan bien? No incluyas información personal o confidencial.
+aiwindow-feedback-choose-any = Selecciona todas las opciones que correspondan
+aiwindow-feedback-add-details = Puedes darnos más detalles. No incluyas información personal o confidencial.
+aiwindow-feedback-disclaimer = Al enviar tus comentarios recibiremos tu mensaje y una copia del chat para ayudar a { -brand-shorter-name } a mejorar las { -smart-window-brand-name(form: "lower-plural") }. Tus otros chats siguen siendo confidenciales. <a data-l10n-name="learn-more">Más información</a>
+aiwindow-feedback-submit = Enviar
+aiwindow-feedback-cancel = Cancelar
+aiwindow-feedback-reason-incorrect-or-misleading = Incorrecto o engañoso
+aiwindow-feedback-reason-doesnt-address-my-request = No responde a mi solicitud.
+aiwindow-feedback-reason-lacks-personalization = Falta personalización o contexto
+aiwindow-feedback-reason-performance-or-usability = Problema de rendimiento o usabilidad
+aiwindow-feedback-reason-harmful-or-offensive = Dañino u ofensivo
+aiwindow-feedback-reason-other = Otra motivo
+aiwindow-feedback-preview-report = Ver detalles del chat
+aiwindow-feedback-preview-report-with-page = Ver detalles del chat y página
+aiwindow-feedback-include-page-content = Compartir las páginas referenciadas en este chat
