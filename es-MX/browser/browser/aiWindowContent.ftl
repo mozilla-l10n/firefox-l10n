@@ -82,3 +82,46 @@ smartwindow-loading-assistant-response =
     .aria-label = Cargando la respuesta del asistente
 smartwindow-nl-undo-button =
     .label = Deshacer
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Se cerró { $count } pestaña
+       *[other] Se cerraron { $count } pestañas
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] ¡Listo! Pestaña cerrada.
+       *[other] ¡Listo! Pestañas cerradas.
+    }
+smart-window-closed-tabs-row-label = Pestañas cerradas
+smart-window-closed-and-restored-label = Pestañas cerradas y restauradas
+smart-window-restored-row-label =
+    { $count ->
+        [one] Se restauró { $count } pestaña
+       *[other] Se restauraron { $count } pestañas
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Pestaña cerrada y luego restaurada.
+       *[other] Pestañas cerradas y luego restauradas.
+    }
+smart-window-cancelled-label = Solicitud cancelada.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Grupo
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Agrupar { $count } pestaña
+       *[other] Agrupar { $count } pestañas
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Se agrupó { $count } pestaña
+       *[other] Se agruparon { $count } pestañas
+    }

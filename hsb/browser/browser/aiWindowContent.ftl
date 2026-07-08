@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Chatowe powěsće { -smart-window-brand-name }
 
 ## Context chips in the chat content
 
@@ -18,6 +19,7 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Něšto je so nimokuliło. Prošu spytajće hišće raz.
+smartwindow-assistant-error-budget-header = Sće dźensniši chatowy limit docpěł.
 smartwindow-assistant-error-account-header = Zo byšće { -smart-window-brand-name } wužiwał, dyrbiće so přizjewić.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
@@ -44,6 +46,7 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = Tabelu kopěrować
     .tooltiptext = Tabelu kopěrować
+aiwindow-table-scroll-indicator = Kulće, zo byšće wjace widźało
 aiwindow-thumbs-up =
     .aria-label = Pozitiwne měnjenje dźělić
     .tooltiptext = Pozitiwne měnjenje dźělić
@@ -122,16 +125,23 @@ smart-window-grouped-tabs-label =
        *[other] { $count } rajtarkow zeskupjene
     }
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Zeskupjenje rajtarkow zběhnjene
 
 ## Action log
 
 action-log-searching-tabs = Rajtarki so přepytuja
 action-log-searched-open-tabs = Wočinjene rajtarki přepytane
+action-log-searching-history = Historiju přepytać
+action-log-searched-history = Přepytana historija
 action-log-reading-page = Strona so čita
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Přečitany wobsah strony
 action-log-searching-web = Web přepytać
 action-log-searched-web = Web přepytany
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Z Exa web přepytany
 action-log-checking-memories = Dopomnjeća so přepruwuja
 action-log-checked-memories = Přepruwowane dopomnjeća
 action-log-searching-settings = Nastajenja přepytać

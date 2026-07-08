@@ -26,8 +26,8 @@ confirmation-hint-screenshot-copied = ¡Captura de pantalla copiada!
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
     { $tabCount ->
-        [one] Cerrar { $tabCount } pestaña
-       *[other] Cerrar { $tabCount } pestañas
+        [one] Se cerró { $tabCount } pestaña
+       *[other] Se cerraron { $tabCount } pestañas
     }
 # Subtle notification shown when Extensions button moves into the application menu.
 confirmation-hint-extensions-button-hidden = Movido al menú

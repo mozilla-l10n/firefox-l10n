@@ -77,6 +77,7 @@ smartbar-placeholder-hint-4 = Web přepytać…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Rajtark abo sydło woznamjenić
 smartbar-mentions-list-no-results-label = Žane wuslědki namakane
 smartbar-mentions-list-recent-tabs-label = Najnowše rajtarki
 
@@ -88,6 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Rajtark abo sydło woznamjenić
 aiwindow-website-chip-history-deleted = Historija je so zhašała
 aiwindow-website-chip-remove-button =
     .aria-label = Wotstronić
