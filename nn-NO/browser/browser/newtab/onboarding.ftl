@@ -629,6 +629,6 @@ smartwindow-sidebar-auto-open-callout-body = Du kan framleis opne han når du tr
 smartwindow-sidebar-auto-open-callout-accept = Ja, la han vere attlaten
 smartwindow-sidebar-auto-open-callout-dismiss = Nei takk
 smartwindow-sidebar-auto-open-callout-accepted-title = Assistenten vil halde fram med å vere attlaten
-smartwindow-sidebar-auto-open-callout-accepted-subtitle = Bruk Spør for å opne på kva side som helst. Du kan når som helst endre dette alternativet i <a data-l10n-name="settings">innstillingane</a>.
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Bruk «Spør» for å opne på kva side som helst. Du kan når som helst endre dette alternativet i <a data-l10n-name="settings">innstillingane</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Skjønar
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Om du ombestemmer deg, kan du når som helst oppdatere standardinnstillinga i <a data-l10n-name="settings">Innstillingar</a>.
