@@ -600,3 +600,21 @@ onboarding-refresh-sync-title = Drag kvar som helst. Synkroniser alt.
 onboarding-refresh-gratitude-subtitle = Takk for at du brukar { -brand-short-name }, den einaste store nettlesaren som blir støtta av ein ideell organisasjon. Med di støtte jobbar vi for å gjere internett tryggare og meir tilgjengeleg for alle.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passar på deg
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Brukarvilkår for { -brand-product-name }
+smartwindow-existing-user-fx-tou-accept = Godta
+smartwindow-existing-user-fx-tou-go-back = Gå tilbake
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Gjer { -smart-window-brand-name } til ditt føretrekte val
+smartwindow-onboarding-primary-button = Hald fram
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Ja, la han vere attlaten
+smartwindow-sidebar-auto-open-callout-dismiss = Nei takk
+smartwindow-sidebar-auto-open-callout-rejected-title = Skjønar

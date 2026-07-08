@@ -175,6 +175,8 @@ perftools-presets-ml-label = Maskinlæring
 perftools-presets-ml-description2 = Førehandsinnstilling for å undersøkje maskinlæringsfeil i { -brand-shorter-name }.
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Networking with Logs
+perftools-presets-networking-with-logs-description = Preset for investigating networking bugs in { -brand-shorter-name }, including networking logs. These logs may contain sensitive information such as the URLs you visit.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Power
 perftools-presets-power-description = Preset for investigating power use bugs in { -brand-shorter-name }, with low overhead.
