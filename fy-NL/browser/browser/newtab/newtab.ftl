@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Oandielen
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Foto fan de dei
 home-prefs-mission-message2 =
     .message = Us sponsors stypje ús misje om in better web te bouwen.
 home-prefs-manage-topics-link2 =
@@ -165,13 +168,42 @@ newtab-privacy-menu-learn-more = Mear ynfo
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Tickersymboalen trochsykje
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Oandielen ferstopje
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Mear ynfo
 
 ## Strings for the Picture of the Day widget
 
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Ofbylding fan ’e dei · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Eftergrûn ynstelle
+    .title = Eftergrûn ynstelle
+    .aria-label = Foto fan hjoed as jo eftergrûn ynstelle
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Eftergrûn beheare
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Ofbylding fan hjoed ferstopje
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Foto fan hjoed toane
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Mear ynfo
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Foto fan hjoed toane
+    .aria-label = Foto fan hjoed toane
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Kom moarn werom foar in nije foto
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commons-ôfbylding fan ’e dei
 
 ## Search box component.
 
@@ -208,6 +240,7 @@ newtab-topsites-add-shortcut-label = Fluchkeppeling tafoegje
 newtab-topsites-add-shortcut-title =
     .title = Fluchkeppeling tafoegje
     .aria-label = Fluchkeppeling tafoegje
+newtab-shortcuts-pinned-area = Fêstmakke gebiet
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Titel ynfiere
@@ -521,6 +554,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Privacy
 newtab-custom-widget-stocks-toggle =
     .label = Oandielen
+newtab-custom-widget-picture-toggle =
+    .label = Foto fan de dei
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -1306,6 +1341,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Help ús widgets te ferbetterjen
 newtab-sports-widget-message-survey-body = It WK sit derop. Diel jo kommentaar oer de ûnderfining.
 newtab-sports-widget-message-survey-widget-title = Hoe wie de WK-widget?
 newtab-sports-widget-message-survey-widget-body = Diel jo kommentaar om ús te helpen takomstige widgets te ferbetterjen. Probearje dêrnei de nije yn jo assortimint.

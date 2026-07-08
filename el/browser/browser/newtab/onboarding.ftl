@@ -609,13 +609,18 @@ smartwindow-switcher-callout = Κάντε εναλλαγή μεταξύ έξυπ
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Όροι χρήσης του { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Για να χρησιμοποιήσετε το { -smart-window-brand-name }, αποδεχτείτε τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> και την ενημερωμένη <a data-l10n-name="privacy_notice">Σημείωση απορρήτου</a>.
 smartwindow-existing-user-fx-tou-accept = Αποδοχή
 smartwindow-existing-user-fx-tou-go-back = Επιστροφή
 
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Ορίστε το { -smart-window-brand-name } ως προεπιλογή
+smartwindow-onboarding-subtitle = Δημιουργήστε περιλήψεις, πραγματοποιήστε συγκρίσεις και κάντε ερωτήσεις χωρίς να χάσετε χρόνο.
 smartwindow-onboarding-primary-button = Συνέχεια
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Μασκότ του { -brand-product-name } (Kit) με αστέρια
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -624,5 +629,6 @@ smartwindow-sidebar-auto-open-callout-body = Μπορείτε να τον ανο
 smartwindow-sidebar-auto-open-callout-accept = Ναι, να παραμείνει κλειστός
 smartwindow-sidebar-auto-open-callout-dismiss = Όχι, ευχαριστώ
 smartwindow-sidebar-auto-open-callout-accepted-title = Ο βοηθός θα παραμείνει κλειστός
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Επιλέξτε «Ερώτηση» για να τον ανοίξετε σε οποιαδήποτε σελίδα. Αλλάξτε αυτήν τη συμπεριφορά στις <a data-l10n-name="settings">Ρυθμίσεις</a>, ανά πάσα στιγμή.
 smartwindow-sidebar-auto-open-callout-rejected-title = Το κατάλαβα
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Εάν αλλάξετε γνώμη, μπορείτε να ενημερώσετε την προεπιλογή στις <a data-l10n-name="settings">Ρυθμίσεις</a>, ανά πάσα στιγμή.

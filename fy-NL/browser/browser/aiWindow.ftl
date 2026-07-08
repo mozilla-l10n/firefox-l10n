@@ -177,10 +177,54 @@ aiwindow-close-sidebar =
     .aria-label = Slute
     .tooltiptext = Slute
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Syngronisearre gegevens bliuwe yn jo account. Iepen { -smart-window-brand-name(plural-form: "true") } sille oerskeakelje nei klassike finsters.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Oerskeakelje nei { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .tooltiptext = Chats
+    .aria-label = Chats
+    .label = Chats
+smartwindow-footer-history =
+    .label = Skiednis
+    .aria-label = Skiednis
+    .tooltiptext = Skiednis
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI kin flaters meitsje.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Fuortsmite út chats
+    .accesskey = F
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Chats trochsykje
+
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-chat-date-today = Hjoed – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Juster – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Werom nei jo chats
+firefoxview-chats-empty-description = As jo { -smart-window-brand-name } brûke, wurde jo chats hjir bewarre.
 
 ## Count displayed in fxview chat search results
 
@@ -194,6 +238,13 @@ firefoxview-search-chat-results-count =
        *[other] { $count } chats
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Navigaasje-, download- en chatskiednis
+    .accesskey = N
+item-history-downloads-and-chat-description = Wisket website-, download- en chatskiednis
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -202,6 +253,9 @@ smart-window-confirm-select-all =
 smart-window-confirm-deselect-all =
     .label = Alles deselektearje
     .aria-label = Alles deselektearje
+smart-window-close-confirm =
+    .aria-label = Oanfraach annulearje en slute
+    .tooltiptext = Oanfraach annulearje en slute
 smart-window-confirm-close-tab = Slute
 
 ## Smart Window new tab promo

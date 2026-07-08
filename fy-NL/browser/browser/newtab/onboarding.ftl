@@ -601,3 +601,28 @@ onboarding-refresh-sync-title = Gean oeral hinne. Syngronisearje alles.
 onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, de iennige browser dy’t stipe wurdt troch in non-profitorganisaasje. Mei jo stipe wurkje wy om it ynternet  foar elkenien feiliger en mear tagonklik te meitsjen.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is der foar jo
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Wikselje op elk winske momint tusken Tûke en klassike finsters.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name }-brûksbetingsten
+smartwindow-existing-user-fx-tou-body = Om { -smart-window-brand-name } te brûken, moatte jo de <a data-l10n-name="terms_of_use">Brûksbetingsten</a> en de bywurke <a data-l10n-name="privacy_notice">Privacyferklearring</a> akseptearje.
+smartwindow-existing-user-fx-tou-accept = Akseptearje
+smartwindow-existing-user-fx-tou-go-back = Tebek
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Meitsje { -smart-window-brand-name } jo favoryt
+smartwindow-onboarding-subtitle = Gearfetsje, fergelykje en stel fragen sûnder in wat te missen.
+smartwindow-onboarding-primary-button = Trochgean
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name }-maskotte (Kit) mei stjerrekwisiten
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Wolle jo de assistint ticht hâlde?

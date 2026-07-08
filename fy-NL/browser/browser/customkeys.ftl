@@ -82,6 +82,9 @@ customkeys-key-new =
 ## Confirmation dialogs
 
 customkeys-conflict-confirm-button-cancel = Annulearje
+customkeys-reset-all-confirm-title = Standertynstellingen weromsette?
+customkeys-reset-all-confirm-body = Alle oanpaste fluchtoetsen dy’t jo makke hawwe, sille fuortsmiten wurde.
+customkeys-reset-all-confirm-button-confirm = Standertwearden werombringe
 customkeys-reset-all-confirm-button-cancel = Annulearje
 
 ## Sidebar
@@ -90,4 +93,10 @@ customkeys-sidebar =
     .aria-label = Sidebalke
 customkeys-title-heading =
     .heading = Fluchtoetsen
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Fluchtoetsen sykje
+    .placeholder = Fluchtoetsen sykje
+customkeys-description = Bepaal hoe’t jo rûn beweegje en ynteraksje mei { -brand-short-name } hawwe.
 customkeys-support-link-text = Mear ynfo
+customkeys-reset-all-button = Standertwearden werombringe

@@ -23,6 +23,9 @@ smartwindow-document-title = Yeni sekme
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Pencere türü
+    .tooltiptext = Akıllı pencere ile klasik pencere arasında geçiş yapın.
 ai-window-toggleview-switch-classic =
     .label = Klasik pencere
     .value = Klasik pencere
@@ -45,14 +48,22 @@ aiwindow-input-cta-submit-label-chat = Sor
 aiwindow-input-cta-submit-label-navigate = Git
 aiwindow-input-cta-submit-label-search = Ara
 aiwindow-input-cta-submit-label-stop = Durdur
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Cevap oluşturma başlatıldı
 aiwindow-input-cta-menu-label-chat = Sor
 aiwindow-input-cta-menu-label-navigate = Siteye git
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = { $searchEngineName } ile ara
+aiwindow-input-cta-menu-label-search-with = Bununla ara…
 aiwindow-input-cta-search-submenu-header = Ara
 aiwindow-input-cta-stop-button =
     .title = Cevabı durdur
     .aria-label = Cevap üretimini durdur
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Soru sorun, arama yapın veya adres yazın
 
 ## Mentions
 
@@ -100,6 +111,8 @@ aiwindow-input-model-select-settings-link = Model ayarları
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-conversation-title = Sohbete devam edin
+aiwindow-firstrun-memories-relevance-title = Daha alakalı cevaplar
 aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var
 aiwindow-firstrun-memories-privacy-body = Anılar bu cihazda depolanıyor. İstediğiniz zaman silebilir veya kapatabilirsiniz.
 aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan güncelleyebilirsiniz.

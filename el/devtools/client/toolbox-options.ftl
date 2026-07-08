@@ -80,6 +80,10 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Εποπτεία δικτύου
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Μέγιστο μέγεθος αιτήματος και απόκρισης (ορίστε το σε 0 για απεριόριστο):
+options-netmonitor-body-limit-tooltip =
+    .title = Τα σώματα αιτημάτων ή αποκρίσεων που υπερβαίνουν το καθορισμένο μέγεθος θα περικόπτονται κατά την προβολή ή λήψη στην Εποπτεία δικτύου. Ορίστε το σε 0 για να μην υπάρχει περιορισμός.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Απεριόριστο
 options-netmonitor-body-limit-button =
