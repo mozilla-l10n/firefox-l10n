@@ -385,6 +385,9 @@ quickactions-addons = Προβολή προσθέτων
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = επεκτάσεις, θέματα, πρόσθετα, addons, add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = Διαχείριση επιλογών ελέγχου ΤΝ
+quickactions-cmd-manageai = απενεργοποίηση ΤΝ, διαχείριση ΤΝ, απενεργοποίηση AI, διαχείριση AI, disable ai, off ai, manage ai
 quickactions-cmd-addons2 = πρόσθετα, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Διαχείριση σελιδοδεικτών

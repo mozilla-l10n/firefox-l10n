@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Επιλέξτε διαφορετι
 ipprotecion-locations-subview-recommended-label = Προτείνεται
 ipprotection-locations-subview-recommended-description = Βρίσκει την πιο γρήγορη τοποθεσία
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Μη διαθέσιμη
+    .aria-label = Μη διαθέσιμη, απενεργοποιημένη
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Μη διαθέσιμη
 ipprotection-locations-subview-promo =
     .heading = Περαιτέρω προστασία με το { -mozilla-vpn-brand-name }

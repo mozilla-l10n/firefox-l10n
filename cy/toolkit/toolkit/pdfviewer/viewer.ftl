@@ -166,6 +166,18 @@ pdfjs-digital-signature-properties-reason = Rheswm: { $reason }
 # Variables:
 #   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
 pdfjs-digital-signature-properties-timestamp = Stamp amser: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [zero] Is-lofnodion ( { $count } )
+        [one] Is-lofnodion ( { $count } )
+        [two] Is-lofnodion ( { $count } )
+        [few] Is-lofnodion ( { $count } )
+        [many] Is-lofnodion ( { $count } )
+       *[other] Is-lofnodion ( { $count } )
+    }
 
 ## Print
 
@@ -776,6 +788,41 @@ pdfjs-new-badge-content = NEWYDD
 pdfjs-views-manager-waiting-for-file = Yn llwytho ffeil i fyny…
 pdfjs-toggle-views-manager-button1 =
     .title = Rheoli tudalennau
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Priodweddau llofnod digidol
+    .aria-label = Priodweddau llofnod digidol
+pdfjs-digital-signature-properties-button-label = Priodweddau llofnod digidol
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Llofnodwyd y ddogfen gyda llofnod digidol dilys
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [zero] Llofnodwyd y ddogfen ond doedd dim modd dilysu { $count } llofnod digidol
+        [one] Llofnodwyd y ddogfen ond doedd dim modd dilysu { $count } llofnod digidol
+        [two] Llofnodwyd y ddogfen ond doedd dim modd dilysu { $count } llofnod digidol
+        [few] Llofnodwyd y ddogfen ond doedd dim modd dilysu { $count } llofnod digidol
+        [many] Llofnodwyd y ddogfen ond doedd dim modd dilysu { $count } llofnod digidol
+       *[other] Llofnodwyd y ddogfen ond doedd dim modd dilysu { $count } llofnod digidol
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [zero] Dogfen wedi'i llofnodi â { $count } thystysgrifau does dim modd ymddiried ynddyn nhw
+        [one] Dogfen wedi'i llofnodi â { $count } thystysgrif does dim modd ymddiried ynddi
+        [two] Dogfen wedi'i llofnodi â { $count } thystysgrifau does dim modd ymddiried ynddyn nhw
+        [few] Dogfen wedi'i llofnodi â { $count } thystysgrifau does dim modd ymddiried ynddyn nhw
+        [many] Dogfen wedi'i llofnodi â { $count } thystysgrifau does dim modd ymddiried ynddyn nhw
+       *[other] Dogfen wedi'i llofnodi â { $count } thystysgrifau does dim modd ymddiried ynddyn nhw
+    }
 
 ## Main menu for adding/removing signatures
 

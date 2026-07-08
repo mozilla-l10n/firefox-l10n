@@ -303,11 +303,13 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Συνδεθείτε στον λογαριασμό σας
+appmenuitem-monitor-description2 = Λάβετε ειδοποιήσεις για παραβιάσεις δεδομένων
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Λάβετε ειδοποιήσεις παραβίασης δεδομένων
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
 appmenuitem-services-relay-description = Εκκίνηση πίνακα μασκών email
+appmenuitem-vpn-title2 = Αποκρύψτε την τοποθεσία σας με το { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Λάβετε προστασία για ολόκληρη τη συσκευή
 appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο

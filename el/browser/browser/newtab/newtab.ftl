@@ -199,6 +199,11 @@ newtab-picture-menu-learn-more = Μάθετε περισσότερα
 newtab-picture-show-button =
     .title = Εμφάνιση σημερινής εικόνας
     .aria-label = Εμφάνιση σημερινής εικόνας
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Επιστρέψτε αύριο για μια νέα εικόνα
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Εικόνα της ημέρας από το Wikimedia Commons
 
 ## Search box component.
 
@@ -1335,6 +1340,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Βοηθήστε μας να βελτιώσουμε τα γραφικά στοιχεία
 newtab-sports-widget-message-survey-cta =
     .label = Συμμετοχή στην έρευνα
 

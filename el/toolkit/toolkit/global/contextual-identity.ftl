@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Νέα καρτέλα
     .accesskey = Ν
+user-context-add-container =
+    .label = Προσθήκη νέας θεματικής ενότητας
+    .accesskey = α
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
