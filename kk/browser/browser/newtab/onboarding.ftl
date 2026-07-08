@@ -601,10 +601,15 @@ onboarding-refresh-gratitude-subtitle = Коммерциялық емес ұйы
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолдайды
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Ақылды және классикалық терезелер арасында кез келген уақытта ауысуға болады.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = { -brand-product-name } пайдалану шарттары
+smartwindow-existing-user-fx-tou-body = { -smart-window-brand-name } қолдану үшін, <a data-l10n-name="terms_of_use">Қолдану шарттары</a> және жаңартылған <a data-l10n-name="privacy_notice">Жекелік ескертуі</a> шарттарын қабылдаңыз.
 smartwindow-existing-user-fx-tou-accept = Қабылдау
 smartwindow-existing-user-fx-tou-go-back = Артқа
 
@@ -613,6 +618,9 @@ smartwindow-existing-user-fx-tou-go-back = Артқа
 smartwindow-onboarding-title = { -smart-window-brand-name } өнімін негізгі құралыңыз етіп қойыңыз
 smartwindow-onboarding-subtitle = Қорытындылау, салыстыру және сұрақтарды еш қиындықсыз қоюға болады.
 smartwindow-onboarding-primary-button = Жалғастыру
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Жұлдызшалы безендіруі бар { -brand-product-name } бойтұмары (Кит)
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -623,3 +631,4 @@ smartwindow-sidebar-auto-open-callout-dismiss = Жоқ, рахмет
 smartwindow-sidebar-auto-open-callout-accepted-title = Көмекші жабық күйінде қалады
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Оны кез келген бетте ашу үшін "Сұрау" батырмасын пайдаланыңыз. Мұны кез келген уақытта <a data-l10n-name="settings">Баптаулар</a> бөлімінде өзгертуге болады.
 smartwindow-sidebar-auto-open-callout-rejected-title = Түсіндім
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Егер ойыңызды өзгертсеңіз, әдепкі параметрді <a data-l10n-name="settings">Баптаулар</a> бөлімінде кез келген уақытта жаңарта аласыз.

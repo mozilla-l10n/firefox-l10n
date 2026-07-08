@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 profiler-popup-presets-networking-label =
     .label = Желі
+profiler-popup-presets-networking-with-logs-description = Желілік журналдарды қоса алғанда, { -brand-shorter-name } ішіндегі желілік қателерді зерттеуге арналған алдын ала орнату. Бұл журналдарда сіз кірген URL адрестері сияқты сезімтал ақпарат болуы мүмкін.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Желілік алмасу және журналдар
 profiler-popup-presets-power-description = { -brand-shorter-name } ішінде эл. қорегін қолдану ақаулықтарын зерттеуге арналған баптаулар жиынтығы, қосымша жүктемесі аз.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

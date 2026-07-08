@@ -175,6 +175,8 @@ perftools-presets-ml-label = Машиналық оқыту
 perftools-presets-ml-description2 = { -brand-shorter-name } ішінде машиналық оқыту ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
+perftools-presets-networking-with-logs-label = Желілік алмасу және журналдар
+perftools-presets-networking-with-logs-description = Желілік журналдарды қоса алғанда, { -brand-shorter-name } ішіндегі желілік қателерді зерттеуге арналған алдын ала орнату. Бұл журналдарда сіз кірген URL адрестері сияқты сезімтал ақпарат болуы мүмкін.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Эл. қорегі
 perftools-presets-power-description = { -brand-shorter-name } ішінде эл. қорегін қолдану ақаулықтарын зерттеуге арналған баптаулар жиынтығы, қосымша жүктемесі аз.
