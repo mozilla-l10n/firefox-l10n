@@ -96,6 +96,12 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privacidad
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Acciones
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Imagen del día
 home-prefs-mission-message2 =
     .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
 home-prefs-manage-topics-link2 =
@@ -160,8 +166,26 @@ home-prefs-mission-message-learn-more-link-srd = Descubre cómo
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Aprender más
 
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Buscar símbolos bursátiles
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Ocultar acciones
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Aprender más
+
 ## Strings for the Picture of the Day widget
 
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = Imagen del día · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Establecer fondo de pantalla
+    .title = Establecer fondo de pantalla
+    .aria-label = Establecer imagen del día como fondo de pantalla
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gestionar el fondo de pantalla
 # Context menu item that hides today’s picture, replacing it with an existing

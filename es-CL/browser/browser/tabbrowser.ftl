@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Cambiar el tamaño de las pestañas de la vista dividida
+tab-devtools-splitter =
+    .aria-label = Cambiar el tamaño del panel de herramientas para desarrolladores
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Pestañas abiertas
 sidebar-options-menu-button =
     .title = Abrir menú
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Cambiar el tamaño de la barra lateral
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Ventana { $winID }
+sidebar-bookmarks-title = Marcadores
 
 ## Context for closing synced tabs when hovering over the items
 

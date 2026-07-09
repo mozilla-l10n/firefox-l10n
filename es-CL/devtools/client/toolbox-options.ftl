@@ -78,6 +78,12 @@ options-webconsole-split-console-tooltip =
 
 ## Network Monitor section
 
+# The heading
+options-netmonitor-label = Monitor de red
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Tamaño máximo del cuerpo de la solicitud y la respuesta (establecer en 0 para ilimitado):
+options-netmonitor-body-limit-tooltip =
+    .title = Los cuerpos de solicitud o respuesta que superen el tamaño especificado se truncarán al visualizarse o descargarse en el Monitor de Red. Establece el valor en 0 para no aplicar ninguna limitación.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Ilimitado
 options-netmonitor-body-limit-button =

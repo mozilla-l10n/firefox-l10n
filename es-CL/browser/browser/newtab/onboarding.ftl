@@ -618,8 +618,17 @@ smartwindow-existing-user-fx-tou-go-back = Retroceder
 smartwindow-onboarding-title = Haz de { -smart-window-brand-name } tu opción preferida
 smartwindow-onboarding-subtitle = Resume, compara y formula preguntas sin perder el ritmo.
 smartwindow-onboarding-primary-button = Continuar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Mascota de { -brand-product-name } (Kit) con estrella de utilería
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = ¿Quieres mantener el asistente cerrado?
+smartwindow-sidebar-auto-open-callout-body = Aún puedes abrirlo cuando lo necesites.
 smartwindow-sidebar-auto-open-callout-accept = Sí, mantener cerrado
 smartwindow-sidebar-auto-open-callout-dismiss = No, gracias
+smartwindow-sidebar-auto-open-callout-accepted-title = El asistente permanecerá cerrado.
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Usa Preguntar para abrirlo en cualquier página. Cambia esto cuando quieras en los <a data-l10n-name="settings">Ajustes</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Entendido
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si cambias de opinión, puedes actualizar la configuración predeterminada en <a data-l10n-name="settings">Ajustes</a> en cualquier momento.

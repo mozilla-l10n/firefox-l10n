@@ -81,3 +81,30 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Presiona la nueva tecla:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = ¿Eliminar otro acceso directo?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Esta clave ya está siendo utilizada por “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Usar de todos modos
+customkeys-conflict-confirm-button-cancel = Cancelar
+customkeys-reset-all-confirm-title = ¿Restaurar predeterminados?
+customkeys-reset-all-confirm-body = Se eliminarán todos los atajos de teclado personalizados que hayas creado.
+customkeys-reset-all-confirm-button-confirm = Restaurar predeterminados
+customkeys-reset-all-confirm-button-cancel = Cancelar
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Barra lateral
+customkeys-title-heading =
+    .heading = Atajos del teclado
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Atajos de búsqueda
+    .placeholder = Atajos de búsqueda
+customkeys-description = Controla cómo te mueves e interactúas con { -brand-short-name }.
+customkeys-support-link-text = Más información
+customkeys-reset-all-button = Restaurar predeterminados
