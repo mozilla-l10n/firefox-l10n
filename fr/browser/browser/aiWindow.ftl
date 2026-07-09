@@ -51,13 +51,13 @@ ai-window-toggleview-status-label-inactive = Fenêtre classique
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = Poser une question
-aiwindow-input-cta-submit-label-navigate = C’est parti
+aiwindow-input-cta-submit-label-navigate = Ouvrir
 aiwindow-input-cta-submit-label-search = Rechercher
 aiwindow-input-cta-submit-label-stop = Arrêter
 # Text announced to screen readers when response generation starts.
 aiwindow-generation-started-announcement = La génération de la réponse a commencé
 aiwindow-input-cta-menu-label-chat = Poser une question
-aiwindow-input-cta-menu-label-navigate = Ouvrir le site
+aiwindow-input-cta-menu-label-navigate = Ouvrir un site
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Rechercher avec { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Rechercher avec…
