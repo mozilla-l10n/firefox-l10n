@@ -223,7 +223,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "lo
 
 ## Message displayed in Firefox View when the user has no chat data
 
-firefoxview-chats-empty-header = Revino la conversațiile tale
+firefoxview-chats-empty-header = Revino la conversații
 firefoxview-chats-empty-description = Pe măsură ce folosești { -smart-window-brand-name }, conversațiile tale vor fi salvate aici.
 
 ## Count displayed in fxview chat search results
