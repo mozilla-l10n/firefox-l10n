@@ -93,6 +93,7 @@ genai-chatbot-contextual-button = ی چت بات پسند کۊنین
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-huggingchat-generate = وورکل هؽل وو کود
 genai-onboarding-lechat-generate = وورکل هؽل وو کود
 
 ## Model Optin Component

@@ -1102,6 +1102,8 @@ toolbar-button-logins =
     .tooltiptext = نیشتن وو دؽوۉداری رزما زفت وابیڌه
 qrcode-copy-button =
     .label = لف گیری
+qrcode-copy-success =
+    .message = QR کود من کلیپ بورد لف گیری وابی.
 qrcode-copy-error =
     .message = منه لف گیری کود QR شکست خرد.
 qrcode-save-button =
@@ -1172,6 +1174,15 @@ menu-share-more =
     .label = قلوه…
 menu-share-windows =
     .label = گۊزینه یل قلوه
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] لف گیری لینگ
+           *[other] لف گیری { $count } لینگ
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = لف گیری لینگ
     .accesskey = L
