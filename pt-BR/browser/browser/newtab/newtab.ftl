@@ -189,8 +189,19 @@ newtab-picture-menu-manage-wallpaper = Gerenciar fundo de tela
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ocultar imagem do dia
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Mostrar imagem do dia
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Saiba mais
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Mostrar imagem do dia
+    .aria-label = Mostrar imagem do dia
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Volte amanhã para ver uma nova imagem
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Imagem do dia do Wikimedia Commons
 
 ## Search box component.
 
@@ -227,6 +238,7 @@ newtab-topsites-add-shortcut-label = Adicionar atalho
 newtab-topsites-add-shortcut-title =
     .title = Adicionar atalho
     .aria-label = Adicionar atalho
+newtab-shortcuts-pinned-area = Área fixada
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
@@ -1318,6 +1330,12 @@ newtab-sports-widget-message-day-in-play-title = Acompanhe os jogos diariamente 
 newtab-sports-widget-message-day-in-play-body = Acompanhe a Copa do Mundo, mantenha o foco em tarefas, saiba a hora em vários locais do mundo e muito mais.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Ajude-nos a melhorar os widgets
+newtab-sports-widget-message-survey-body = A Copa do Mundo terminou. Compartilhe sua opinião sobre a experiência.
+newtab-sports-widget-message-survey-widget-title = O que achou do widget da Copa do Mundo?
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
