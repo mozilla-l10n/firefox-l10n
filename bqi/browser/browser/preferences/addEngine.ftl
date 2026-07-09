@@ -8,6 +8,7 @@ add-engine-window2 =
 add-engine-button = ٱووردن موتور سفارشی
 add-engine-name = نوم موتور پیتینیڌن
 add-engine-alias = نوم موستعار
+add-engine-url = نشۊوی موتور، %s ن من جاگه مربۊت و پیتینیڌن و کار بوورین
 add-engine-dialog =
     .buttonlabelaccept = ٱووردن موتور
     .buttonaccesskeyaccept = A
