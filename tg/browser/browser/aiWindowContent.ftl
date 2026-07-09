@@ -23,6 +23,10 @@ smartwindow-signin-btn = Ворид шудан
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Ёддоштҳои истифодашуда
+aiwindow-memories-learn-more = Маълумоти бештар
+aiwindow-manage-memories =
+    .label = Танзимоти ҳофиза
 aiwindow-retry-without-memories =
     .label = Бе ёддоштҳо аз нав кӯшиш кардан
 aiwindow-retry =
