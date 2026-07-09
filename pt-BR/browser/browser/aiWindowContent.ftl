@@ -5,11 +5,21 @@
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Houve um erro. Tente novamente.
+smartwindow-assistant-error-account-header = Para usar o { -smart-window-brand-name }, você precisa entrar na sua conta.
+smartwindow-assistant-error-capacity-header = O { -smart-window-brand-name } está lotado no momento. Tente novamente mais tarde.
+smartwindow-assistant-error-many-requests-header = Aguarde um momento e tente novamente. Foram enviadas mensagens demais em pouco tempo.
+smartwindow-assistant-error-request-blocked-header = O { -smart-window-brand-name } não conseguiu acessar o servidor. Tente uma rede diferente ou desative sua VPN.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Erro de servidor (HTTP { $status }). Tente novamente.
 smartwindow-retry-btn = Tentar novamente
+smartwindow-signin-btn = Entrar
 
 ## Assistant Message footer
 
 aiwindow-memories-used = Memórias usadas
+aiwindow-memories-callout-description = Memórias ajudaram a personalizar esta resposta.
 aiwindow-memories-learn-more = Saiba mais
 aiwindow-manage-memories =
     .label = Configurações de memórias
@@ -24,6 +34,7 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .tooltiptext = Copiar tabela
     .aria-label = Copiar tabela
+aiwindow-table-scroll-indicator = Deslize para ver mais
 aiwindow-applied-memories-popover =
     .aria-label = Painel de memórias
 aiwindow-applied-memories-list =
