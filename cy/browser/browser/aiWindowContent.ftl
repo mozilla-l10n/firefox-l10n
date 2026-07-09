@@ -181,12 +181,12 @@ smart-window-ungroup-success-summary =
     }
 smart-window-ungrouped-row-label =
     { $count ->
-        [zero] Dad grwpio { $count } tabiau
-        [one] Dad grwpio { $count } tab
-        [two] Dad grwpio { $count } dab
-        [few] Dad grwpio { $count } thab
-        [many] Dad grwpio { $count } thab
-       *[other] Dad grwpio { $count } tab
+        [zero] Dad-grwpio { $count } tabiau
+        [one] Dad-grwpio { $count } tab
+        [two] Dad-grwpio { $count } dab
+        [few] Dad-grwpio { $count } thab
+        [many] Dad-grwpio { $count } thab
+       *[other] Dad-grwpio { $count } tab
     }
 
 ## Action log
