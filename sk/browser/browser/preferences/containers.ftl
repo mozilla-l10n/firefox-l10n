@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Nastavenia kontajnera { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Pridať nový kontajner
+containers-panel-create-button =
+    .label = Hotovo
+containers-panel-cancel-button =
+    .label = Zrušiť
