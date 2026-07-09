@@ -106,6 +106,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
     .accesskey = А
+genai-menu-ask-smart-window =
+    .label = Пурсидан…
+    .accesskey = П
 
 ## Chatbot header
 

@@ -217,7 +217,7 @@ profiler-popup-presets-networking-label =
     .label = Nettverk
 profiler-popup-presets-networking-with-logs-description = Førehandsinnstilt for å undersøkje nettverksfeil i { -brand-shorter-name }, inkludert nettverksloggar. Desse loggane kan innehalde sensitiv informasjon, til dømes nettadressene du besøkjer.
 profiler-popup-presets-networking-with-logs-label =
-    .label = Nettverksdeling med loggar
+    .label = Nettverk med loggar
 profiler-popup-presets-power-description = Førehandsinnstilt til å undersøke straumforbruksfeil i { -brand-shorter-name }, med låg overhead.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

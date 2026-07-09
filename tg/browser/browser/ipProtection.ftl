@@ -117,6 +117,7 @@ ipprotection-connection-status-network-error-title-1 = Пайвастшавии 
 ipprotection-connection-status-blocked-error-title-1 = «VPN» дастнорас аст
     .aria-label = «VPN» дастнорас аст
 confirmation-hint-ipprotection-navigated-to-excluded-site = «VPN» барои ин сомона ғайрифаъол аст
+ipprotection-open-button = Кушодани «{ -brand-product-name }»
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист
 
