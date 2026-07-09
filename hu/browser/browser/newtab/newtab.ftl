@@ -160,6 +160,34 @@ home-prefs-mission-message-learn-more-link-srd = Tudja meg hogyan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = További tudnivalók
 
+## Strings for the Stocks widget
+
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Részvények elrejtése
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = További tudnivalók
+
+## Strings for the Picture of the Day widget
+
+# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
+# should not be translated.
+newtab-picture-header = A nap képe · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Háttérkép beállítása
+    .title = Háttérkép beállítása
+    .aria-label = A nap képének beállítása háttérképnek
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Háttérkép kezelése
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = A nap képének elrejtése
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = A nap képének megjelenítése
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = További tudnivalók
+
 ## Search box component.
 
 # "Search" is a verb/action

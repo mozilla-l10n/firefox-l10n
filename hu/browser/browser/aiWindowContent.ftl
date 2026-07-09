@@ -24,9 +24,20 @@ smartwindow-assistant-error-request-blocked-header = A { -smart-window-brand-nam
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Kiszolgálóhiba (HTTP { $status }). Próbálja meg újra.
+smartwindow-retry-btn = Próbálja újra
+smartwindow-clear-btn = Új csevegés
+smartwindow-signin-btn = Bejelentkezés
 
 ## Assistant Message footer
 
+aiwindow-memories-learn-more = További tudnivalók
+aiwindow-manage-memories =
+    .label = Memóriabeállítások
+aiwindow-retry-without-memories =
+    .label = Újrapróbálkozás memóriák nélkül
+aiwindow-retry =
+    .aria-label = Újra
+    .tooltiptext = Újra
 aiwindow-copy-message =
     .aria-label = Üzenet másolása
     .tooltiptext = Másolás
@@ -40,6 +51,10 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Negatív visszajelzés megosztása
     .tooltiptext = Negatív visszajelzés megosztása
+aiwindow-applied-memories-popover =
+    .aria-label = Memóriák panel
+aiwindow-applied-memories-list =
+    .aria-label = Emlékek
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -56,6 +71,7 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Újra
 smartwindow-nl-retry-message = Ha továbbra is bezárna lapokat, kattintson az <strong>Újra</strong> gombra, és válassza ki a megnyíló kártyán.
+smartwindow-nl-retry-group-tabs-message = Ha továbbra is csoportosítaná a lapokat, kattintson az <strong>Újra</strong> gombra, és a megnyíló kártyán válassza ki melyeket.
 smartwindow-nl-thinking = Egyező lapok keresése…
 smartwindow-loading-assistant-response =
     .aria-label = Asszisztens válaszának betöltése
@@ -140,3 +156,24 @@ action-log-read-page = Oldal tartalma elolvasva
 action-log-searching-web = Keresés a weben
 action-log-searched-web = Keresve a weben
 action-log-checking-memories = Memóriák ellenőrzése
+action-log-checked-memories = Memóriák ellenőrizve
+action-log-searching-settings = Beállítások keresése
+action-log-searched-settings = Beállítások keresve
+action-log-searching-world-cup-matches = Vébémeccsek keresése
+action-log-searched-world-cup-matches = Vébémeccsek keresve
+action-log-checking-world-cup-live = Élő vébémeccsek ellenőrzése
+action-log-checked-world-cup-live = Élő vébémeccsek ellenőrizve
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] { $count } lépés teljesítve
+       *[other] { $count } lépés teljesítve
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Keresési találatok betöltve ezen a lapon. Elemzés…

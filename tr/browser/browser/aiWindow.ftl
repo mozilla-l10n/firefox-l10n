@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Bağlantıyı yeni { -smart-window-brand-name }de aç
+    .accesskey = a
 appmenuitem-new-ai-window =
     .label = Yeni { -smart-window-brand-name }
     .value = Yeni { -smart-window-brand-name }
@@ -64,6 +67,10 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Soru sorun, arama yapın veya adres yazın
+smartbar-placeholder-hint-1 = Son sekmelerden bahsetmek için @ kullanın…
+smartbar-placeholder-hint-2 = İstediğinizi sorun…
+smartbar-placeholder-hint-3 = Web adresi yazın…
+smartbar-placeholder-hint-4 = Web’de arama yapın…
 
 ## Mentions
 
@@ -84,11 +91,14 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = { -smart-window-brand-name }ye hoş geldiniz
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
 aiwindow-firstrun-model-allpurpose-label = Esnek
+aiwindow-firstrun-model-allpurpose-body = Çoğu ihtiyaç için ideal
 aiwindow-firstrun-model-personal-label = Kişisel
+aiwindow-firstrun-model-personal-body = En özelleştirilmiş cevaplar
 aiwindow-firstrun-button = Başlayalım
 aiwindow-firstrun-back-button = Geri
 aiwindow-firstrun-next-button = İleri
@@ -117,6 +127,10 @@ aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var
 aiwindow-firstrun-memories-privacy-body = Anılar bu cihazda depolanıyor. İstediğiniz zaman silebilir veya kapatabilirsiniz.
 aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan güncelleyebilirsiniz.
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = İstediğiniz zaman ayarlardan değiştirebilirsiniz
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
@@ -133,6 +147,10 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Kapat
     .tooltiptext = Kapat
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = { -smart-window-brand-name }ye geç
 
 ## Fullpage Footer Actions
 
@@ -188,6 +206,9 @@ firefoxview-search-chat-results-count =
 
 ## Clear browsing data dialog
 
+item-history-downloads-and-chat =
+    .label = Gezinti, indirme ve sohbet geçmişi
+    .accesskey = G
 item-history-downloads-and-chat-description = Site geçmişini, indirme geçmişini ve sohbet geçmişini temizler
 
 ## Natural Language Interactions
@@ -215,3 +236,16 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Sekme kapatıldı
+
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Varsayılan yap
+smart-window-default-promo-additional-button = Şimdi değil
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Görüş bildir
+aiwindow-feedback-submit = Gönder
+aiwindow-feedback-cancel = Vazgeç
+aiwindow-feedback-reason-other = Diğer
+aiwindow-feedback-preview-report = Sohbet ayrıntılarını göster

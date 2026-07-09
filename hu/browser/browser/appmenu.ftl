@@ -292,6 +292,8 @@ appmenu-customizetoolbar =
     .label = Eszköztár testreszabása…
 appmenu-abouttranslations =
     .label = Fordítás…
+appmenu-edit-pdf =
+    .label = PDF szerkesztése…
 appmenu-developer-tools-subheader = Böngészőeszközök
 appmenu-developer-tools-extensions =
     .label = Kiegészítők fejlesztőknek
@@ -313,6 +315,10 @@ appmenu-services-header = Saját szolgáltatások
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Adatvédelmi eszközök
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Próbálja ki a Mozilla más védelmi eszközeit:
 appmenu-other-protection-header = Próbálja ki a { -vendor-short-name } egyéb védelmi eszközeit:
 
@@ -323,9 +329,18 @@ appmenu-manage-profiles =
     .label = Profilok kezelése
 appmenu-copy-profile =
     .label = Profil másolása
+appmenu-create-profile2 =
+    .label = Új profil létrehozása
 appmenu-create-profile =
     .label = Új profil
 appmenu-edit-profile =
     .aria-label = Profil szerkesztése
+appmenu-edit-this-profile =
+    .label = Profil szerkesztése
+appmenu-profile-current-in-use = Jelenleg használt profil
 appmenu-profiles-2 =
     .label = Profilok
+appmenu-profiles-header = Profilok
+appmenu-all-profiles =
+    .label = Összes profil
+appmenu-secure-sync-header = Biztonságos szinkronizálás
