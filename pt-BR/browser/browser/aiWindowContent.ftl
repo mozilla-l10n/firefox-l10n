@@ -96,3 +96,50 @@ smart-window-confirm-group-tabs =
         [one] Agrupar { $count } aba
        *[other] Agrupar { $count } abas
     }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } aba agrupada
+       *[other] { $count } abas agrupadas
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Criou o grupo “{ $label }” e adicionou { $count } aba.
+       *[other] Criou o grupo “{ $label }” e adicionou { $count } abas.
+    }
+smart-window-grouped-tabs-row-label = Abas agrupadas
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Abas desagrupadas
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } aba agrupada, depois desagrupada.
+       *[other] { $count } abas agrupadas, depois desagrupadas.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } aba desagrupada
+       *[other] { $count } abas desagrupadas
+    }
+
+## Action log
+
+action-log-searching-tabs = Pesquisando nas abas
+action-log-searched-open-tabs = Pesquisou nas abas abertas
+action-log-searching-history = Pesquisando no histórico
+action-log-searched-history = Pesquisou no histórico
+action-log-reading-page = Lendo página
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Ler o conteúdo da página
+action-log-searching-web = Pesquisando na web
+action-log-searched-web = Pesquisou na web
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Pesquisou na web com o Exa
+action-log-checking-memories = Consultando memórias

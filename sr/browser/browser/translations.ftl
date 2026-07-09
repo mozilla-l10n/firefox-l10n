@@ -44,9 +44,9 @@ translations-panel-settings-about2 =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-always-translate-language =
-    .label = Увек преведи { $language }
+    .label = Увек преводи { $language }
 translations-panel-settings-always-translate-unknown-language =
-    .label = Увек преведи овај језик
+    .label = Увек преводи овај језик
 translations-panel-settings-always-offer-translation =
     .label = Увек нуди превод
 # Text displayed for the option to never translate a given language
