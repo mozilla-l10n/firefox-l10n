@@ -49,9 +49,20 @@ customkeys-category-navigation-2 =
     .heading = ناوبری
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ناموعتبر
+customkeys-shortcut-unassigned =
+    .placeholder = ٱووردن ره نهنگ
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = ره نهنگ سی: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = آلشت
+    .tooltiptext = آلشت
 customkeys-key-clear =
     .aria-label = پاک کردن
     .tooltiptext = پاک کردن
+customkeys-key-reset =
+    .aria-label = وورگندن
+    .tooltiptext = وورگندن
 
 ## Shortcut actions
 
@@ -60,6 +71,9 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-button-cancel = لقو
+customkeys-reset-all-confirm-title = وورگندن پؽش فرزا؟
+customkeys-reset-all-confirm-button-confirm = وورگندن پؽش فرزا
 customkeys-reset-all-confirm-button-cancel = لقو
 
 ## Sidebar
