@@ -70,9 +70,17 @@ about-private-browsing-cookie-banners-promo-button = Senqes iɣarracen n yinagan
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } yecɣel d yissutar n yinagan n tuqqna deg ubdil-ik
+about-private-browsing-cookie-banners-promo-body = Tura nettagi s wudem awurman aṭas n yiɣerracen n yinagan n tuqqna. Akka drus ara ak-iḍefren, tunigin ad tili tserreḥ.
 
 ## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Ur ttaǧǧa ara akk later ɣef yibenk-a
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } itekkes inagan n tuqqna, azray, akked yisefka n yismal web mi ara tmedleḍ akk isfuyla usligen.
 about-private-browsing-felt-privacy-v1-info-link = Anwa i izemren ad iwali armud-iw?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Ur yettwaseklas ara uzray-ik

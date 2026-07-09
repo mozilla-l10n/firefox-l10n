@@ -33,3 +33,8 @@ smartbar-placeholder-hint-4 = Nadi di web…
 
 aiwindow-firstrun-button = Yya ad nebdu
 aiwindow-firstrun-back-button = Ɣer deffir
+aiwindow-firstrun-next-button = Ɣer zdat
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = D arurad
