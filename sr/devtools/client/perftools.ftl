@@ -175,6 +175,8 @@ perftools-presets-ml-label = Машинско учење
 perftools-presets-ml-description2 = Подешеност за истраживање грешака машинског учења у { -brand-shorter-name }.
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Умрежавање са записницима
+perftools-presets-networking-with-logs-description = Унапред подешено за истраживање мрежних грешака у { -brand-shorter-name }-у, укључујући мрежне записнике. Ови записници могу да садрже осетљиве податке као што су УРЛ-ови које посећујете.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Power
 perftools-presets-power-description = Preset for investigating power use bugs in { -brand-shorter-name }, with low overhead.
