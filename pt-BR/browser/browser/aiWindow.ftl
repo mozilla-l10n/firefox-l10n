@@ -5,6 +5,7 @@
 
 ## Chrome
 
+smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nova aba
 
 ## Smart Window Toggle Button
@@ -29,18 +30,51 @@ aiwindow-input-cta-menu-label-search = Pesquisar com { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Pesquisar com…
 aiwindow-input-cta-search-submenu-header = Pesquisar
 
+## Smartbar
+
+smartbar-placeholder-hint-1 = Use @ para mencionar abas recentes…
+smartbar-placeholder-hint-2 = Pergunte qualquer coisa…
+smartbar-placeholder-hint-3 = Digite um endereço web…
+smartbar-placeholder-hint-4 = Pesquise na web…
+
 ## Mentions
 
 smartbar-mentions-list-no-results-label = Nenhum resultado encontrado
 smartbar-mentions-list-recent-tabs-label = Abas recentes
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Adicionar aba ou site
+    .tooltiptext = Adicionar aba ou site
+
 ## Website Chip
 
+aiwindow-website-chip-history-deleted = Histórico excluído
 aiwindow-website-chip-remove-button =
     .aria-label = Remover
 
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Boas-vindas ao { -smart-window-brand-name }
+aiwindow-firstrun-model-title = O que é importante para você?
+aiwindow-firstrun-model-subtitle = Escolha um modelo a usar no { -smart-window-brand-name }. Mude quando quiser.
+aiwindow-firstrun-model-fast-label = Rápido
+aiwindow-firstrun-model-fast-body = Responde rapidamente
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Modelo { $Model } de { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexível
+aiwindow-firstrun-model-allpurpose-body = Adequado para a maioria das situações
+aiwindow-firstrun-model-personal-label = Pessoal
+aiwindow-firstrun-model-personal-body = Respostas mais personalizadas
+aiwindow-firstrun-button = Vamos lá
+aiwindow-firstrun-back-button = Voltar
+aiwindow-firstrun-next-button = Avançar
+
 ## These are labels describing model types in the smartbar model select.
 
+aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexível
 
 ## Close Sidebar Button
