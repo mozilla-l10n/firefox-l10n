@@ -143,3 +143,10 @@ action-log-searched-web = Pesquisou na web
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Pesquisou na web com o Exa
 action-log-checking-memories = Consultando memórias
+action-log-checked-memories = Consultou memórias
+action-log-searching-settings = Pesquisando nas configurações
+action-log-searched-settings = Pesquisou nas configurações
+action-log-searching-world-cup-matches = Pesquisando nos jogos da Copa do Mundo
+action-log-searched-world-cup-matches = Pesquisou nos jogos da Copa do Mundo
+action-log-checking-world-cup-live = Consultando jogos da Copa do Mundo ao vivo
+action-log-checked-world-cup-live = Consultou jogos da Copa do Mundo ao vivo

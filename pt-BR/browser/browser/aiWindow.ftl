@@ -39,6 +39,10 @@ smartbar-mentions-list-recent-tabs-label = Abas recentes
 aiwindow-website-chip-remove-button =
     .aria-label = Remover
 
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-allpurpose = Flexível
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
