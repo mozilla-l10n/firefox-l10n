@@ -130,7 +130,7 @@ protections-panel-content-blocking-manage-settings =
     .label = Управљај подешавањима заштите
     .accesskey = У
 protections-panel-content-blocking-breakage-report-view =
-    .title = Пријавите неисправан сајт
+    .title = Пријавите неисправну страницу
 protections-panel-content-blocking-breakage-report-view-description = Блокирање неких елемената за праћење може проузроковати проблеме са појединим веб-сајтовима. Пријавите овакве проблеме како бисте побољшали { -brand-short-name } (организацији Mozilla ће се послати URL сајта и подаци о подешавањима прегледача). <label data-l10n-name="learn-more">Сазнајте више</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
@@ -175,8 +175,8 @@ protections-panel-cookie-banner-view-turn-off-label =
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Укључи
 protections-panel-report-broken-site =
-    .label = Пријавите неисправан сајт
-    .title = Пријавите неисправан сајт
+    .label = Пријавите неисправну страницу
+    .title = Пријавите неисправну страницу
 
 ## Protections panel info message
 

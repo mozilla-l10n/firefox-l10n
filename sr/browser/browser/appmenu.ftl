@@ -302,7 +302,7 @@ appmenu-developer-tools-subheader = Алатке прегледача
 appmenu-developer-tools-extensions =
     .label = Додаци за програмере
 appmenuitem-report-broken-site =
-    .label = Пријавите неисправан сајт
+    .label = Пријавите неисправну страницу
 
 ## Panel for privacy and security products
 

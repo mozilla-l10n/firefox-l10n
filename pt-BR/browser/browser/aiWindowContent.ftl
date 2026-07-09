@@ -35,6 +35,12 @@ aiwindow-copy-table =
     .tooltiptext = Copiar tabela
     .aria-label = Copiar tabela
 aiwindow-table-scroll-indicator = Deslize para ver mais
+aiwindow-thumbs-up =
+    .tooltiptext = Compartilhar opinião positiva
+    .aria-label = Compartilhar opinião positiva
+aiwindow-thumbs-down =
+    .aria-label = Compartilhar opinião negativa
+    .tooltiptext = Compartilhar opinião negativa
 aiwindow-applied-memories-popover =
     .aria-label = Painel de memórias
 aiwindow-applied-memories-list =
@@ -48,6 +54,11 @@ aiwindow-delete-memory-button =
 
 smartwindow-nl-retry-tool-button =
     .label = Tentar novamente
+smartwindow-nl-retry-message = Se ainda quiser fechar abas, escolha <strong>Tentar novamente</strong> e faça sua seleção no cartão que aparece.
+smartwindow-nl-retry-group-tabs-message = Se ainda quiser agrupar abas, escolha <strong>Tentar novamente</strong> e selecione quais abas no cartão que aparece.
+smartwindow-nl-thinking = Procurando abas que correspondem…
+smartwindow-loading-assistant-response =
+    .aria-label = Carregando resposta do assistente
 smartwindow-nl-undo-button =
     .label = Desfazer
 
@@ -66,3 +77,22 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Abas fechadas
 smart-window-closed-and-restored-label = Abas fechadas e restauradas
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } aba restaurada
+       *[other] { $count } abas restauradas
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Aba fechada, depois restaurada.
+       *[other] Abas fechadas, depois restauradas.
+    }
+smart-window-cancelled-label = Requisição cancelada.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Agrupar
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Agrupar { $count } aba
+       *[other] Agrupar { $count } abas
+    }
