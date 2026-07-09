@@ -872,6 +872,8 @@ browsing-search-on-start-typing =
 settings-keyboard-shortcuts-group =
     .label = Atalhos de teclado
     .description = Controle como você navega e interage com o { -brand-short-name }.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Personalizar atalhos de teclado
 settings-media-group =
     .label = Mídia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1298,6 +1300,8 @@ containers-new-tab-check2 =
     .description = Abre o menu de contêineres sempre que você clicar no botão de nova aba.
 containers-settings-button2 =
     .title = Configurações
+containers-remove-button3 =
+    .title = Excluir
 containers-remove-button2 =
     .title = Remover
 
