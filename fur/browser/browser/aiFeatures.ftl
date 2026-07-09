@@ -7,3 +7,12 @@ smart-window-select-label =
     .label = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-activate-link =
     .label = Scomence
+
+## Variables:
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+ai-window-delete-all-memories-button =
+    .label = Elimine dut
+ai-window-delete-all-memories-confirm = Elimine
+ai-window-delete-all-memories-cancel = Anule
