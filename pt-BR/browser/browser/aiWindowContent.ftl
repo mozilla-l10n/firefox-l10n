@@ -2,18 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Mensagens de conversa do { -smart-window-brand-name }
 
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Houve um erro. Tente novamente.
+smartwindow-assistant-error-budget-header = Você atingiu o limite de conversas hoje.
 smartwindow-assistant-error-account-header = Para usar o { -smart-window-brand-name }, você precisa entrar na sua conta.
 smartwindow-assistant-error-capacity-header = O { -smart-window-brand-name } está lotado no momento. Tente novamente mais tarde.
+smartwindow-assistant-error-budget-body = Você ainda pode navegar nesta janela. Conversas estarão disponíveis novamente quando seu limite diário for reiniciado.
 smartwindow-assistant-error-many-requests-header = Aguarde um momento e tente novamente. Foram enviadas mensagens demais em pouco tempo.
+smartwindow-assistant-error-max-length-header = É hora de iniciar uma nova conversa. Esta atingiu o limite de tamanho.
 smartwindow-assistant-error-request-blocked-header = O { -smart-window-brand-name } não conseguiu acessar o servidor. Tente uma rede diferente ou desative sua VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Erro de servidor (HTTP { $status }). Tente novamente.
 smartwindow-retry-btn = Tentar novamente
+smartwindow-clear-btn = Nova conversa
 smartwindow-signin-btn = Entrar
 
 ## Assistant Message footer
@@ -49,6 +54,12 @@ aiwindow-applied-memories-list =
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
     .aria-label = Excluir { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .tooltiptext = Ir para o final
+    .aria-label = Ir para o final da conversa
 
 ## Natural Language Action
 

@@ -114,6 +114,21 @@ aiwindow-firstrun-next-button = Avançar
 
 aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexível
+aiwindow-input-model-select-button-label-personal = Pessoal
+aiwindow-input-model-select-button-label-custom = Personalizado
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Use seu próprio LLM
+aiwindow-input-model-select-default-badge =
+    .label = Padrão
+    .title = O modelo padrão selecionado
+aiwindow-input-model-select-settings-link = Configurações de modelo
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Mais respostas úteis, nos seus termos
 
 ## Close Sidebar Button
 
