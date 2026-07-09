@@ -78,6 +78,7 @@ restart-button-label = ره وندن دووارته
 
 ## Codec support table
 
+media-codec-support-supported = لادراری وابیڌه
 media-codec-support-lack-of-extension = پۊرنیڌن وردنی
 
 ##
@@ -105,6 +106,7 @@ yes = هری
 
 found = جۊرست
 missing = ن دیاری
+glcontext-crash-guard = OpenGL
 sandbox-proc-type-file = موئتوا فایل
 
 ## Printing section
@@ -131,3 +133,7 @@ support-remote-experiments-branch = لشک آزمایش
 support-remote-features-title = ویژیی یل ز ره دیر
 support-remote-features-name = نوم
 support-remote-features-status = وزعیت
+
+## Content Analysis (DLP)
+
+content-analysis-active = فعال

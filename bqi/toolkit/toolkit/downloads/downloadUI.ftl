@@ -7,6 +7,7 @@ download-ui-confirm-title = پوی دانلودا لقو بۊن؟
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-dont-go-offline-button = ریتور بمهنه
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] لقو 1 دانلود

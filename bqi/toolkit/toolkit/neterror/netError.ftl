@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-blocked-by-policy-page-title = بلگه مسدۊد وابیڌه
 neterror-captive-portal-page-title = و من ٱووڌن و شبکه
 
 ## Error page actions
