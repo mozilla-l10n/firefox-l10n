@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name }의 네트워킹 버그를 조사하기 위한 프리셋입니다.
 profiler-popup-presets-networking-label =
     .label = 네트워킹
+profiler-popup-presets-networking-with-logs-description = 네트워킹 로그를 포함하여 { -brand-shorter-name }의 네트워킹 버그를 조사하기 위한 프리셋입니다. 이러한 로그에는 방문한 URL과 같은 민감한 정보가 포함되어 있을 수 있습니다.
+profiler-popup-presets-networking-with-logs-label =
+    .label = 로그를 포함한 네트워킹
 profiler-popup-presets-power-description = 오버헤드가 낮은 { -brand-shorter-name }의 전력 사용 버그를 조사하기 위한 프리셋입니다.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

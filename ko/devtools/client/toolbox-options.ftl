@@ -93,6 +93,18 @@ options-netmonitor-body-limit-restore-default =
 options-netmonitor-body-limit-set =
     .title = 현재 입력된 값을 요청/응답의 최대 본문 크기로 설정하세요.
 
+## Experimental section
+
+# The heading
+options-experimental-label = 실험적인 기능
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = 디버거에 스타일시트 보기
+options-stylesheets-in-the-debugger-tooltip =
+    .title = 디버거에서 스타일시트 목록 및 보기
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (도구상자를 다시 열어야 함)
+
 ## Style Editor section
 
 # The heading
