@@ -87,3 +87,4 @@ about-private-browsing-nova-info-link = Кӣ метавонад фаъолият
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Шуморо сабт намекунанд
+about-private-browsing-nova-info-subheader = Вақте ки шумо ин варақаро мепӯшед, мо ҳамаи ҷустуҷӯҳо ва воридшавиҳои шуморо тоза мекунем. Унсурҳои муҳофизати дарунсохти браузери «{ -brand-short-name }», ба монанди амали манъкунии васоити пайгирӣ, низ дар ин ҷой фаъол мебошанд.

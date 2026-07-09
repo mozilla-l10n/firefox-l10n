@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = «{ -smart-window-brand-name }»-ро манъ мекунед?
+smart-window-block-description-both = Ин амал суҳбатҳо ва ёддоштҳои шуморо дар «{ -smart-window-brand-name }» нест мекунад.
+smart-window-block-description-chats = Ин амал суҳбатҳои шуморо дар «{ -smart-window-brand-name }» нест мекунад.
+smart-window-block-description-memories = Ин амал ёддоштҳои шуморо дар «{ -smart-window-brand-name }» нест мекунад.
 ai-window-activate-link =
     .label = Оғози кор
 ai-window-default-section =
