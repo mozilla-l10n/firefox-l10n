@@ -22,7 +22,7 @@ user-context-shopping =
 ##
 
 user-context-manage-containers =
-    .label = دؽوۉداری کانتینرا
+    .label = دؽوۉداری هاملا
     .accesskey = o
 user-context-new-tab =
     .label = بلگه نۊ
