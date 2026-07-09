@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Аз «{ $provider }» пурсед
 genai-menu-new-badge = Нав
 genai-menu-summarize-page = Баровардани хулоса дар бораи ин саҳифа
+genai-input-ask-smart-window =
+    .placeholder = Пурсидан…
 genai-input-ask-generic =
     .placeholder = Аз чат-боти зеҳни сунъӣ «AI» пурсед…
 # $provider (string) - name of the provider

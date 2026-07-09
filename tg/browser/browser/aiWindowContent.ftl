@@ -24,6 +24,7 @@ smartwindow-signin-btn = Ворид шудан
 ## Assistant Message footer
 
 aiwindow-memories-used = Ёддоштҳои истифодашуда
+aiwindow-memories-callout-description = Хотираҳо барои шахсисозии ин ҷавоб кумак карданд.
 aiwindow-memories-learn-more = Маълумоти бештар
 aiwindow-manage-memories =
     .label = Танзимоти ҳофиза
@@ -62,3 +63,8 @@ smart-window-closed-tabs-row-label = Варақаҳои пӯшидашуда
 smart-window-closed-and-restored-label = Варақаҳои пӯшидашуда ва барқароршуда
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Гурӯҳ
+
+## Action log
+
+action-log-searching-settings = Ҷустуҷӯ дар танзимот
+action-log-searched-settings = Ҷустуҷӯ дар танзимот иҷро шуд

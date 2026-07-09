@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Ҷойгиршавӣ
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (тавсия дода мешавад)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Интихоби ҷойгиршавӣ
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Интихоб кардан…

@@ -66,3 +66,16 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Тугмаи навро пахш кунед:
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Навори ҷонибӣ
+customkeys-title-heading =
+    .heading = Миёнбурҳои клавиатура
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Миёнбурҳои низомҳои ҷустуҷӯӣ
+    .placeholder = Миёнбурҳои низомҳои ҷустуҷӯӣ
+customkeys-support-link-text = Маълумоти бештар
+customkeys-reset-all-button = Барқарор кардани ҳолатҳои пешфарз
