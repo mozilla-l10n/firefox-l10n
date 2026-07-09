@@ -166,6 +166,109 @@ home-prefs-mission-message-learn-more-link-srd = Scopri come
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Ulteriori informazioni
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Elemento tracciante bloccato oggi
+       *[other] Elementi traccianti bloccati oggi
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] In { $count } sito
+       *[other] In { $count } siti
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blocca gli elementi traccianti mentre navighi. Li vedrai qui.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blocca automaticamente gli elementi traccianti mentre navighi.
+newtab-privacy-message-info-1-cta = Visualizza protezioni
+newtab-privacy-message-info-2 = Il blocco degli elementi traccianti impedisce alle aziende di seguirti online.
+newtab-privacy-message-info-2-cta = Visualizza protezioni
+newtab-privacy-message-info-3 = Molti siti utilizzano elementi traccianti, permettendo così ad aziende che non hai mai visitato di seguirti online.
+newtab-privacy-message-info-3-cta = Visualizza protezioni
+newtab-privacy-message-info-4 = Scegli { -brand-short-name } per una protezione attiva fin da subito.
+newtab-privacy-message-info-4-cta = Visualizza protezioni
+newtab-privacy-message-info-5 = Bloccando gli elementi traccianti, riduci il numero di aziende che possono seguirti da un sito all’altro.
+newtab-privacy-message-info-5-cta = Visualizza protezioni
+newtab-privacy-message-info-6 = Tieni i tuoi dati al sicuro con { -brand-short-name }. Non li vendiamo mai, ma altri browser potrebbero farlo.
+newtab-privacy-message-info-6-cta = Ulteriori informazioni
+newtab-privacy-message-info-7 = Scopri quali elementi traccianti sono stati bloccati da { -brand-short-name }.
+newtab-privacy-message-info-7-cta = Visualizza protezioni
+newtab-privacy-message-info-8 = Navigando con { -brand-short-name } sostieni la missione di { -vendor-short-name }: costruire un Web migliore.
+newtab-privacy-message-info-8-cta = Ulteriori informazioni
+newtab-privacy-message-info-9 = Rendi { -brand-short-name } il tuo browser di riferimento per una privacy integrata.
+newtab-privacy-message-info-9-cta = Imposta come browser predefinito
+newtab-privacy-message-info-10 = Salva le password in { -brand-short-name } per utilizzare credenziali complesse e univoche ovunque.
+newtab-privacy-message-info-10-cta = Vai alle password
+newtab-privacy-message-info-11 = Scopri in che modo { -brand-short-name } contribuisce a rendere la tua navigazione più riservata.
+newtab-privacy-message-info-11-cta = Ulteriori informazioni
+newtab-privacy-message-info-12 = Bloccare gli elementi traccianti può aiutare a risparmiare dati se hai un piano con traffico limitato.
+newtab-privacy-message-info-12-cta = Visualizza protezioni
+newtab-privacy-message-info-13 = { -brand-short-name } blocca gli elementi traccianti, così hai più banda disponibile per uno streaming senza interruzioni.
+newtab-privacy-message-info-13-cta = Visualizza protezioni
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Verifica se i tuoi dati personali sono stati esposti in una violazione di dati.
+newtab-privacy-message-promo-monitor-1-cta = Ulteriori informazioni
+newtab-privacy-message-promo-monitor-2 = Tieni al sicuro i tuoi dati con il monitoraggio gratuito delle violazioni di dati, fino a un massimo di 20 indirizzi email.
+newtab-privacy-message-promo-monitor-2-cta = Ulteriori informazioni
+newtab-privacy-message-promo-signin-1 = Proteggi segnalibri, password e schede su tutti i tuoi dispositivi grazie alla crittografia del tuo account { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Accedi
+newtab-privacy-message-promo-vpn-1 = Stai facendo acquisti su una rete Wi-Fi pubblica? Attiva la VPN integrata per una protezione aggiuntiva.
+newtab-privacy-message-promo-vpn-1-cta = Apri VPN
+newtab-privacy-message-promo-vpn-2 = Sei connesso al Wi-Fi dell’aeroporto? Mantieni riservata la tua navigazione attivando la VPN integrata.
+newtab-privacy-message-promo-vpn-2-cta = Apri VPN
+newtab-privacy-message-promo-vpn-3 = Attiva la VPN integrata per proteggere meglio la tua posizione.
+newtab-privacy-message-promo-vpn-3-cta = Apri VPN
+newtab-privacy-message-promo-private-window-1 = Usa una finestra anonima per navigare in modo più riservato su un computer condiviso.
+newtab-privacy-message-promo-private-window-1-cta = Apri finestra anonima
+newtab-privacy-message-promo-relay-1 = Condividi il tuo indirizzo email reale solo con le persone di cui ti fidi; per le iscrizioni usa un alias di posta elettronica.
+newtab-privacy-message-promo-relay-1-cta = Ottieni alias
+newtab-privacy-message-promo-relay-2 = Proteggi la tua casella di posta con alias di posta elettronica gratuiti.
+newtab-privacy-message-promo-relay-2-cta = Ottieni alias
+newtab-privacy-message-promo-relay-3 = Ricevi 50 alias di posta elettronica gratuiti per mantenere riservato il tuo indirizzo email reale.
+newtab-privacy-message-promo-relay-3-cta = Ottieni alias
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } elemento tracciante bloccato questa settimana. Scopri come { -brand-short-name } protegge la tua privacy
+       *[other] { $count } elementi traccianti bloccati questa settimana. Scopri come { -brand-short-name } protegge la tua privacy
+    }
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
