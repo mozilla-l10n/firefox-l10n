@@ -448,6 +448,10 @@ onboarding-checklist-pin = Fijar { -brand-short-name } a la barra de tareas
 onboarding-checklist-import = Importar desde el navegador anterior
 onboarding-checklist-extension = Añadir una extensión
 onboarding-checklist-sign-up = Registrarse o conectarse a tu cuenta
+onboarding-checklist-minimize =
+    .label = Minimizar
+onboarding-checklist-remove =
+    .label = Eliminar lista de verificación
 
 ## Tab Groups feature onboarding strings
 
@@ -596,3 +600,26 @@ onboarding-refresh-sync-title = Ve a cualquier parte. Sincroniza todo.
 onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador de los grandes respaldado por una organización sin fines de lucro. Con tu apoyo, trabajamos para que internet sea más seguro y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Cambia entre Ventanas Inteligentes y Clásicas cuando quieras.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Términos de Uso de { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Para usar { -smart-window-brand-name }, por favor acepta los <a data-l10n-name="terms_of_use">Términos de uso</a> y el <a data-l10n-name="privacy_notice">Aviso de privacidad</a> actualizado.
+smartwindow-existing-user-fx-tou-accept = Aceptar
+smartwindow-existing-user-fx-tou-go-back = Retroceder
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Haz de { -smart-window-brand-name } tu opción preferida
+smartwindow-onboarding-subtitle = Resume, compara y formula preguntas sin perder el ritmo.
+smartwindow-onboarding-primary-button = Continuar
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Sí, mantener cerrado
+smartwindow-sidebar-auto-open-callout-dismiss = No, gracias

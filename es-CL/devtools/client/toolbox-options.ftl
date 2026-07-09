@@ -76,6 +76,29 @@ options-webconsole-split-console-label = Habilitar consola dividida
 options-webconsole-split-console-tooltip =
     .title = Abrir la consola dividida con la tecla Escape
 
+## Network Monitor section
+
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Ilimitado
+options-netmonitor-body-limit-button =
+    .title = Edita el tamaño máximo del cuerpo de la solicitud/respuesta.
+options-netmonitor-body-limit-restore-default =
+    .title = Restablecer el valor predeterminado para el tamaño máximo del cuerpo de la solicitud/respuesta.
+options-netmonitor-body-limit-set =
+    .title = Establece el valor de entrada actual como tamaño máximo del cuerpo de la solicitud/respuesta.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Funciones experimentales
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Mostrar hojas de estilo en el depurador
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Enlista y visualiza las hojas de estilo en el depurador
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (requiere volver a abrir la caja de herramientas)
+
 ## Style Editor section
 
 # The heading

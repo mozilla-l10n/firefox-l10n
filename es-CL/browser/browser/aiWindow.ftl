@@ -15,6 +15,8 @@ appmenuitem-new-classic-window =
     .label = Nueva Ventana Clásica
 menu-file-new-ai-window =
     .label = Nueva { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Nueva Ventana Clásica
 menu-history-chats =
     .label = Chats
 menu-history-chats-recent =
@@ -96,6 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Te damos la bienvenida a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Qué es importante para ti?
+aiwindow-firstrun-model-subtitle = Elige un modelo para usar en las { -smart-window-brand-name }. Cámbialo cuando quieras.
 aiwindow-firstrun-model-fast-label = Rápido
 aiwindow-firstrun-model-fast-body = Responde rápidamente
 # $model (string) - The name of the AI model
@@ -112,9 +115,32 @@ aiwindow-firstrun-next-button = Siguiente
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-fast = Rápido
+aiwindow-input-model-select-button-label-allpurpose = Flexible
+aiwindow-input-model-select-button-label-personal = Personal
+aiwindow-input-model-select-button-label-custom = Personalizado
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Usa tu propio LLM
+aiwindow-input-model-select-default-badge =
+    .label = Predeterminado
+    .title = El modelo predeterminado seleccionado
+aiwindow-input-model-select-settings-link = Ajustes del modelo
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Respuestas más útiles basadas en tus preferencias
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } puede aprender de los chats, navegación o ambos para crear recuerdos. Hacen que las respuestas sean más útiles con el tiempo.
+aiwindow-firstrun-memories-conversation-title = Mantengamos la conversación
+aiwindow-firstrun-memories-conversation-body = Aprender de las conversaciones te permitirá repetirte menos.
+aiwindow-firstrun-memories-relevance-title = Respuestas más relevantes
+aiwindow-firstrun-memories-relevance-body = Aprender de la navegación le da a { -smart-window-brand-name } una visión más amplia.
+aiwindow-firstrun-memories-privacy-title = Privado por diseño
+aiwindow-firstrun-memories-privacy-body = En este dispositivo se almacenan recuerdos. Puedes eliminarlos o desactivarlos cuando lo desees.
+aiwindow-firstrun-memories-choose-label = Elige lo que { -smart-window-brand-name } aprende de
+aiwindow-firstrun-memories-checkbox-chats = Chats en { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navegando por { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Actualiza en los ajustes cuando quieras.
 aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } no creará recuerdos. Actualízalo en los ajustes cuando quieras.
 
@@ -150,6 +176,14 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Cerrar
     .tooltiptext = Cerrar
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Los datos sincronizados permanecerán en tu cuenta. Abrir { -smart-window-brand-name(plural-form: "true") } cambiará a Ventanas Clásicas.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Cambiar a { -smart-window-brand-name }
 
 ## Fullpage Footer Actions
 
@@ -236,6 +270,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Pestaña cerrada
+smartwindow-close-tab-callout-subtitle = Reabrir pestañas desde el historial en cualquier momento.
 
 ## Feedback modal
 
