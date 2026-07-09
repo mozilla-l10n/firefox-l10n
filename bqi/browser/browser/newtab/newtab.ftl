@@ -68,6 +68,15 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = زمووݩ سنج
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = ورزش
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = ساعت
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = سیخومی
 home-prefs-manage-topics-link2 =
     .label = دؽوۉداری سرتالا
 home-prefs-choose-wallpaper-link2 =
