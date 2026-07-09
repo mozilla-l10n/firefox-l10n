@@ -27,6 +27,12 @@ user-context-none =
 user-context-manage-containers =
     .label = Управљај контејнерима
     .accesskey = У
+user-context-new-tab =
+    .label = Нови језичак
+    .accesskey = Н
+user-context-add-container =
+    .label = Додај нови контејнер
+    .accesskey = Д
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

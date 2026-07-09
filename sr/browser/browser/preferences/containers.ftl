@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Подешавања контејнера { $name }
     .style = min-width: 45em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Додај нови контејнер
+containers-panel-create-button =
+    .label = Готово
+containers-panel-cancel-button =
+    .label = Откажи

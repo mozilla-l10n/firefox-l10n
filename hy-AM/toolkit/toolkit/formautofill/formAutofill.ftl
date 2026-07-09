@@ -29,7 +29,14 @@ credit-card-capture-never-save-button =
 
 # Used on the doorhanger when an credit card change is detected.
 
-credit-card-update-doorhanger-header = Արդիացնե՞լ քարտը
+credit-card-update-doorhanger-header = Թարմացնե՞լ քարտը
+credit-card-update-doorhanger-description = Թարմացվող քարտ՝
+credit-card-capture-save-new-button =
+    .label = Պահել որպես նոր քարտ
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = Թարմացրեք առկա քարտը
+    .accessKey = U
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Մաքրել Ինքնալրացման ձևը
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.

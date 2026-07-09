@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Овде можете да наведете којим веб-сајтовима је дозвољено или забрањено да користе колачиће и податке о сајтовима. Унесите адресу сајта и кликните на „Блокирај”, „Дозволи док траје сесија” или „Дозволи”.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Изузеци - очисти историју при гашењу
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Можете да одредите које веб странице ће чувати своје податке када { -brand-short-name } обрише историју при затварању. Унесите тачну адресу странице којом желите да управљате, а затим кликните на Дозволи.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

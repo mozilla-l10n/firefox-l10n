@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Промени величину језичака подељеног приказа
+tab-devtools-splitter =
+    .aria-label = Промени величину површи са алаткама за програмере
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -200,9 +202,15 @@ tabbrowser-customizemode-tab-title = Прилагођавање програма
 tabbrowser-context-mute-tab =
     .label = Искључи звук језичка
     .accesskey = е
+tabbrowser-context-mute-tab2 =
+    .label = Утишај
+    .accesskey = т
 tabbrowser-context-unmute-tab =
     .label = Укључи звук језичка
     .accesskey = с
+tabbrowser-context-unmute-tab2 =
+    .label = Појачај
+    .accesskey = ј
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Искључи звук језичка

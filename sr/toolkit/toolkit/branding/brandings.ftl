@@ -291,3 +291,8 @@
     }
     .gender = masculine
     .declinable = true
+-smart-window-brand-name =
+    { $plural-form ->
+        [true] Паметни прозори
+       *[false] Паметни прозор
+    }
