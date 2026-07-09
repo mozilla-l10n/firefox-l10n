@@ -621,3 +621,14 @@ smartwindow-onboarding-primary-button = 계속
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
     .aria-label = 별 소품을 든 { -brand-product-name } 마스코트 (Kit)
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = 어시스턴트 창을 닫아두고 싶으신가요?
+smartwindow-sidebar-auto-open-callout-body = 필요하면 언제든지 다시 열 수 있습니다.
+smartwindow-sidebar-auto-open-callout-accept = 예, 계속 닫아두겠습니다
+smartwindow-sidebar-auto-open-callout-dismiss = 아니요
+smartwindow-sidebar-auto-open-callout-accepted-title = 어시스턴트가 닫힌 상태로 유지됨
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = 어느 페이지에서나 물어보기를 통해 열 수 있습니다. <a data-l10n-name="settings">설정</a>에서 언제든지 변경할 수 있습니다.
+smartwindow-sidebar-auto-open-callout-rejected-title = 확인
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = 생각이 바뀌시면 언제든지 <a data-l10n-name="settings">설정</a>에서 기본값을 변경하실 수 있습니다.
