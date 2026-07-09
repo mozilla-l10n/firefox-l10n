@@ -3,6 +3,31 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Names of the default containers in Firefox.
+## See https://support.mozilla.org/kb/how-use-firefox-containers
+
+user-context-personal =
+    .label = سیخومی
+    .accesskey = P
+user-context-work =
+    .label = کاری
+    .accesskey = W
+user-context-banking =
+    .label = بانکی
+    .accesskey = B
+user-context-shopping =
+    .label = استیڌن
+    .accesskey = S
+
+##
+
+user-context-manage-containers =
+    .label = دؽوۉداری کانتینرا
+    .accesskey = o
+user-context-new-tab =
+    .label = بلگه نۊ
+    .accesskey = N
+
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 

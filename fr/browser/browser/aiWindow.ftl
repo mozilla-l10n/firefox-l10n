@@ -131,7 +131,7 @@ aiwindow-input-model-select-settings-link = Paramètres des modèles
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Des réponses plus pertinentes, selon vos conditions
-aiwindow-firstrun-memories-subtitle = Les { -smart-window-brand-name(form: "lower-plural") } peuvent apprendre de vos discussions, de votre navigation, ou des deux, pour créer des  souvenirs. Les souvenirs rendent les réponses plus pertinentes avec le temps.
+aiwindow-firstrun-memories-subtitle = Les { -smart-window-brand-name(form: "lower-plural") } peuvent apprendre de vos discussions, de votre navigation, ou des deux, pour créer des souvenirs. Les souvenirs rendent les réponses plus pertinentes avec le temps.
 aiwindow-firstrun-memories-conversation-title = Poursuivez la conversation
 aiwindow-firstrun-memories-conversation-body = En apprenant de vos discussions, vous aurez moins besoin de vous répéter.
 aiwindow-firstrun-memories-relevance-title = Des réponses plus pertinentes
