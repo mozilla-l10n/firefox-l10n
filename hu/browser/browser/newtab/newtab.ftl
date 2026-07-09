@@ -187,6 +187,13 @@ newtab-picture-menu-hide-photo = A nap képének elrejtése
 newtab-picture-menu-show-photo = A nap képének megjelenítése
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = További tudnivalók
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = A nap képének megjelenítése
+    .aria-label = A nap képének megjelenítése
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = A nap képe a Wikimedia Commonson
 
 ## Search box component.
 
@@ -223,6 +230,7 @@ newtab-topsites-add-shortcut-label = Indítóikon hozzáadása
 newtab-topsites-add-shortcut-title =
     .title = Indítóikon hozzáadása
     .aria-label = Indítóikon hozzáadása
+newtab-shortcuts-pinned-area = Rögzített terület
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
@@ -534,6 +542,10 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Adatvédelem
+newtab-custom-widget-stocks-toggle =
+    .label = Részvények
+newtab-custom-widget-picture-toggle =
+    .label = A nap képe
 newtab-custom-widget-section-title = Kisalkalmazások
 newtab-custom-widget-section-toggle =
     .label = Kisalkalmazások
@@ -1316,6 +1328,13 @@ newtab-sports-widget-message-day-in-play-title = Maradjon játékban egész nap 
 newtab-sports-widget-message-day-in-play-body = Kövesse a vb-t, tartsa számon feladatait, kövesse az időt a világ minden táján, és így tovább.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Kisalkalmazások felfedezése
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Segítsen jobbá tenni a kisalkalmazásokat
+newtab-sports-widget-message-survey-widget-title = Milyen volt a vébés kisalkalmazás?
+newtab-sports-widget-message-survey-cta =
+    .label = Kérdőív kitöltése
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

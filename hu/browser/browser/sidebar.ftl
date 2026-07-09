@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Nyitott lapok
 sidebar-options-menu-button =
     .title = Menü megnyitása
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Oldalsáv átméretezése
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = { $winID }. ablak
+sidebar-bookmarks-title = Könyvjelzők
 
 ## Context for closing synced tabs when hovering over the items
 

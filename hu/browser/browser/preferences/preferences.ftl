@@ -869,6 +869,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Szöveg keresése a keresett szó beírásának elkezdésétől
     .accesskey = d
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Gyorsbillentyűk testreszabása
 settings-media-group =
     .label = Média
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1295,6 +1297,8 @@ containers-new-tab-check2 =
     .description = Ez minden alkalommal megnyitja a konténerek menüjét, ha megnyomja az új lap gombot.
 containers-settings-button2 =
     .title = Beállítások
+containers-remove-button3 =
+    .title = Törlés
 containers-remove-button2 =
     .title = Eltávolítás
 

@@ -448,6 +448,10 @@ onboarding-checklist-pin = A { -brand-short-name } rögzítése a tálcára
 onboarding-checklist-import = Importálás az előző böngészőből
 onboarding-checklist-extension = Egy kiegészítő hozzáadása
 onboarding-checklist-sign-up = Regisztráljon vagy jelentkezzen be a fiókjába
+onboarding-checklist-minimize =
+    .label = Kis méret
+onboarding-checklist-remove =
+    .label = Ellenőrzőlista eltávolítása
 
 ## Tab Groups feature onboarding strings
 
@@ -596,3 +600,18 @@ onboarding-refresh-sync-title = Menjen bárhová. Szinkronizáljon mindent.
 onboarding-refresh-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name } böngészőt használja, az egyetlen jelentős böngészőt, melyet egy nonprofit szervezet támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Számíthat a { -brand-short-name } böngészőre
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = A { -brand-product-name } felhasználási feltételei
+smartwindow-existing-user-fx-tou-accept = Elfogadás
+smartwindow-existing-user-fx-tou-go-back = Ugrás vissza
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Folytatás
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-rejected-title = Megértettem

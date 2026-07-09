@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Osztott nézet lapjainak átméretezése
+tab-devtools-splitter =
+    .aria-label = Fejlesztői eszközök panel átméretezése
 
 ## Tooltips for tab audio control
 ## Variables:
