@@ -62,7 +62,19 @@ app-basics-performance = کارایی
 app-basics-profiles = پوروفایلا
 graphics-gpu1-title = پردازنده گرافیکی #1
 graphics-gpu2-title = پردازنده گرافیکی #2
+graphics-decision-log-title = گوزارش تسمیما
+graphics-workarounds-title = ره هل
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = پوروتوکول نیمدری
+place-database-stats-count = تعداد
+a11y-title = دسرسی پزیری
+a11y-activated = فعال وابیڌه
 copy-text-to-clipboard-label = لف گیری هؽل من کلیپ بورد
+sandbox-sys-call-index = #
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-number = Syscall
+restart-button-label = ره وندن دووارته
 
 ## Codec support table
 
@@ -72,10 +84,50 @@ media-codec-support-lack-of-extension = پۊرنیڌن وردنی
 
 intl-app-title = سامووا برنومه
 
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = نشۊوی اینترنتی
+
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 yes = هری
 
+## The following strings indicate if an API key has been found.
+## In some development versions, it's expected for some API keys that they are
+## not found.
+
+found = جۊرست
+missing = ن دیاری
+sandbox-proc-type-file = موئتوا فایل
+
+## Printing section
+
+support-printing-prefs-name = نوم
+support-printing-prefs-value = مقدار
+
 ## Remote Settings sections
 
+support-remote-settings-status = وزعیت
 support-remote-settings-status-ok = خا
+# Status when synchronization is not working.
+support-remote-settings-status-broken = کار نؽکونه
+support-remote-settings-sync-history = ویرگار
+support-remote-settings-sync-history-status = وزعیت
+support-remote-settings-sync-history-datetime = تاریخ
+support-remote-settings-sync-history-infos = دووسمندیا
+
+## Normandy sections
+
+support-remote-experiments-title = آزمایشا ز ره دیر
+support-remote-experiments-name = نوم
+support-remote-experiments-branch = لشک آزمایش
+support-remote-features-title = ویژیی یل ز ره دیر
+support-remote-features-name = نوم
+support-remote-features-status = وزعیت

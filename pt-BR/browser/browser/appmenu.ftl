@@ -215,6 +215,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+profiler-popup-presets-networking-with-logs-label =
+    .label = Rede com logs
 profiler-popup-presets-power-description = Ajuste prévio para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -303,9 +305,12 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Entre na sua conta
+appmenuitem-monitor-title2 = Esteja à frente de roubo de identidade
+appmenuitem-monitor-description2 = Receba alertas sobre vazamentos de dados
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Receba alertas de vazamentos de dados
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantenha seu endereço de email privativo
 appmenuitem-relay-description = Oculte seu email e celular verdadeiros
 appmenuitem-services-relay-description = Abrir painel de máscaras de email
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
