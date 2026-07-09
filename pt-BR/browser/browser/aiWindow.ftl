@@ -5,14 +5,42 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Abrir link em nova { -smart-window-brand-name }
+    .accesskey = S
+appmenuitem-new-ai-window =
+    .label = Nova { -smart-window-brand-name }
+    .value = Nova { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Nova janela clássica
+menu-file-new-ai-window =
+    .label = Nova { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Nova janela clássica
+menu-history-chats =
+    .label = Conversas
+menu-history-chats-recent =
+    .label = Conversas recentes
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Nova aba
 
 ## Smart Window Toggle Button
 
+toolbar-button-ai-window-toggle =
+    .label = Tipo de janela
+    .tooltiptext = Alternar entre janelas inteligentes e clássicas.
+ai-window-toggleview-switch-classic =
+    .label = Janela clássica
+    .value = Janela clássica
+ai-window-toggleview-switch-classic-description =
+    .label = Navegação normal
+    .value = Navegação normal
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Perguntar enquanto navega
+    .value = Perguntar enquanto navega
 ai-window-toggleview-switch-private =
     .label = Janela privativa
 ai-window-toggleview-open-private =
@@ -22,16 +50,26 @@ ai-window-toggleview-status-label-inactive = Janela clássica
 
 ## Input CTA
 
+aiwindow-input-cta-submit-label-chat = Perguntar
+aiwindow-input-cta-submit-label-navigate = Ir
 aiwindow-input-cta-submit-label-search = Pesquisar
 aiwindow-input-cta-submit-label-stop = Interromper
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Geração de resposta iniciada
+aiwindow-input-cta-menu-label-chat = Perguntar
 aiwindow-input-cta-menu-label-navigate = Ir para o site
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Pesquisar com { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Pesquisar com…
 aiwindow-input-cta-search-submenu-header = Pesquisar
+aiwindow-input-cta-stop-button =
+    .aria-label = Interromper geração de resposta
+    .title = Interromper resposta
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Perguntar, pesquisar ou digitar uma URL
 smartbar-placeholder-hint-1 = Use @ para mencionar abas recentes…
 smartbar-placeholder-hint-2 = Pergunte qualquer coisa…
 smartbar-placeholder-hint-3 = Digite um endereço web…

@@ -150,3 +150,17 @@ action-log-searching-world-cup-matches = Pesquisando nos jogos da Copa do Mundo
 action-log-searched-world-cup-matches = Pesquisou nos jogos da Copa do Mundo
 action-log-checking-world-cup-live = Consultando jogos da Copa do Mundo ao vivo
 action-log-checked-world-cup-live = Consultou jogos da Copa do Mundo ao vivo
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 etapa concluída
+       *[other] { $count } etapas concluídas
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Resultados de pesquisa carregados nesta aba. Analisando…
