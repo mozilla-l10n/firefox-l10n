@@ -1336,6 +1336,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Ajude-nos a melhorar os widgets
 newtab-sports-widget-message-survey-body = A Copa do Mundo terminou. Compartilhe sua opinião sobre a experiência.
 newtab-sports-widget-message-survey-widget-title = O que achou do widget da Copa do Mundo?
+newtab-sports-widget-message-survey-widget-body = Compartilhe sua opinião para nos ajudar a melhorar futuros widgets. Então, experimente o novo quando estiver disponível.
+newtab-sports-widget-message-survey-cta =
+    .label = Participar da pesquisa de opinião
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
