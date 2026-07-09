@@ -135,3 +135,8 @@ action-log-searched-open-tabs = Nyitott lapok keresve
 action-log-searching-history = Keresés előzményei
 action-log-searched-history = Előzmények keresve
 action-log-reading-page = Oldal olvasása
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Oldal tartalma elolvasva
+action-log-searching-web = Keresés a weben
+action-log-searched-web = Keresve a weben
+action-log-checking-memories = Memóriák ellenőrzése
