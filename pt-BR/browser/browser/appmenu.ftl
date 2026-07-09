@@ -215,9 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
-profiler-popup-presets-networking-with-logs-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }, incluindo logs de rede. Esses registros podem conter informações sensíveis, como as URLs que você visita.
+profiler-popup-presets-networking-with-logs-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }, incluindo log de rede. Esses registros podem conter informações sensíveis, como as URLs que você visita.
 profiler-popup-presets-networking-with-logs-label =
-    .label = Rede com logs
+    .label = Rede com log
 profiler-popup-presets-power-description = Ajuste prévio para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

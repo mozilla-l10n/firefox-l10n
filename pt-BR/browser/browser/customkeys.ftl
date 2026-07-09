@@ -105,6 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Pesquisar em atalhos
     .placeholder = Pesquisar em atalhos
-customkeys-description = Controle como você se move e interage com o { -brand-short-name }.
+customkeys-description = Controle como você navega e interage com o { -brand-short-name }.
 customkeys-support-link-text = Saiba mais
 customkeys-reset-all-button = Restaurar padrão

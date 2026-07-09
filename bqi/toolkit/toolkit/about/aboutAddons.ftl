@@ -120,9 +120,18 @@ header-back-button =
 
 discopane-notice-learn-more = قلوه دووسته بۊین
 colorway-removal-notice-learn-more = قلوه دووسته بۊین
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = دؽوۉداری
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = گۊزینه یل قلوه
 
 ## Add-on actions
 
+report-addon-button = گوزارش
+remove-addon-button = پاک کردن
 disable-addon-button = ز کار وندن
 enable-addon-button = و کار وندن
 # This is used for the toggle on the extension card, it's a checkbox and this
@@ -138,9 +147,16 @@ details-addon-button = جۊزعیات
 release-notes-addon-button = ویرداشتا تیجنیڌن
 permissions-addon-button = موجوزا
 extension-enabled-heading = فعال وابیڌه
-extension-disabled-heading = قیر فعال
+extension-disabled-heading = قیر فعال وابیڌه
 theme-enabled-heading = فعال وابیڌه
 theme-disabled-heading2 = زمینه یل زفت وابیڌه
+plugin-enabled-heading = فعال وابیڌه
+plugin-disabled-heading = قیر فعال وابیڌه
+dictionary-enabled-heading = فعال وابیڌه
+dictionary-disabled-heading = قیر فعال وابیڌه
+locale-enabled-heading = فعال وابیڌه
+locale-disabled-heading = قیر فعال وابیڌه
+sitepermission-enabled-heading = فعال وابیڌه
 addon-detail-author-label = هؽل کوݩ
 addon-detail-version-label = نوسخه
 addon-detail-last-updated-label = ورۊ رسۊوی دیندایی

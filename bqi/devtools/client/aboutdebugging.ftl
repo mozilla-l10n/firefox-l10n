@@ -19,7 +19,7 @@ about-debugging-sidebar-setup =
 about-debugging-sidebar-usb-enabled = USB فعال وابی
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB قیر فعال وابی
+about-debugging-sidebar-usb-disabled = USB قیر فعال وابیڌه
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = منپیز وابی
 # Connection status (disconnected) for runtime items in the sidebar
