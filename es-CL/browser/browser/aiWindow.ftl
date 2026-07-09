@@ -272,7 +272,39 @@ smart-window-confirm-close-tabs =
 smartwindow-close-tab-callout-title = Pestaña cerrada
 smartwindow-close-tab-callout-subtitle = Reabrir pestañas desde el historial en cualquier momento.
 
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = ¿Hacer de { -smart-window-brand-name } el predeterminado?
+smart-window-default-promo-message = { -brand-short-name } se abrirá en { -smart-window-brand-name } cada vez.
+smart-window-default-promo-primary-button = Establecer como predeterminado
+smart-window-default-promo-additional-button = Ahora no
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Compartir comentarios
+aiwindow-feedback-what-worked-well = ¿Qué funcionó bien? Por favor, no compartir información personal.
+aiwindow-feedback-choose-any = Selecciona cualquiera que corresponda
+aiwindow-feedback-add-details = Si lo deseas, puede añadir más detalles. Por favor, no incluyas información personal.
+aiwindow-feedback-disclaimer = Al enviar este mensaje, compartes tus comentarios y este chat para ayudar a { -brand-shorter-name } a mejorar { -smart-window-brand-name }. Tus otros chats permanecen privados. <a data-l10n-name="learn-more">Más información</a>
 aiwindow-feedback-submit = Enviar
 aiwindow-feedback-cancel = Cancelar
+aiwindow-feedback-reason-incorrect-or-misleading = Incorrecto o engañoso
+aiwindow-feedback-reason-doesnt-address-my-request = No responde a mi solicitud
+aiwindow-feedback-reason-lacks-personalization = Carece de personalización o contexto
+aiwindow-feedback-reason-performance-or-usability = Problema de rendimiento o usabilidad
+aiwindow-feedback-reason-harmful-or-offensive = Dañino u ofensivo
+aiwindow-feedback-reason-other = Otro
+aiwindow-feedback-preview-report = Ver detalles del chat
+aiwindow-feedback-preview-report-with-page = Ver detalles del chat y de la página
+aiwindow-feedback-include-page-content = Comparte las páginas a las que se hace referencia en este chat
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Cambiar diseño de vista
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Cambiar modo: Vista de lista
+    .tooltiptext = Vista de lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Cambiar modo: Vista de cuadrícula
+    .tooltiptext = Vista de cuadrícula
