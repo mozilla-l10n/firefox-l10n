@@ -153,6 +153,27 @@ pdfjs-document-properties-linearized = Exibição web rápida:
 pdfjs-document-properties-linearized-yes = Sim
 pdfjs-document-properties-linearized-no = Não
 pdfjs-document-properties-close-button = Fechar
+pdfjs-digital-signature-properties-view-certificate = Ver certificado
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Motivo: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Data e hora: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Assinatura secundária ({ $count })
+       *[other] Assinaturas secundárias ({ $count })
+    }
 
 ## Print
 
@@ -731,6 +752,12 @@ pdfjs-new-badge-content = NOVIDADE
 pdfjs-views-manager-waiting-for-file = Enviando arquivo…
 pdfjs-toggle-views-manager-button1 =
     .title = Gerenciar páginas
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Propriedades da assinatura digital
+    .aria-label = Propriedades da assinatura digital
 
 ## Main menu for adding/removing signatures
 

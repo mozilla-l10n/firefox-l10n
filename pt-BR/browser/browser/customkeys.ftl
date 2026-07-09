@@ -85,11 +85,26 @@ customkeys-key-new =
 ## Confirmation dialogs
 
 customkeys-conflict-confirm-title = Remover outro atalho?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Esta tecla já está sendo usada por “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Usar assim mesmo
 customkeys-conflict-confirm-button-cancel = Cancelar
+customkeys-reset-all-confirm-title = Restaurar padrão?
+customkeys-reset-all-confirm-body = Todos os atalhos de teclado personalizados que você criou serão removidos.
+customkeys-reset-all-confirm-button-confirm = Restaurar padrão
 customkeys-reset-all-confirm-button-cancel = Cancelar
 
 ## Sidebar
 
 customkeys-sidebar =
     .aria-label = Painel lateral
+customkeys-title-heading =
+    .heading = Atalhos de teclado
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Pesquisar em atalhos
+    .placeholder = Pesquisar em atalhos
+customkeys-description = Controle como você se move e interage com o { -brand-short-name }.
+customkeys-support-link-text = Saiba mais
+customkeys-reset-all-button = Restaurar padrão
