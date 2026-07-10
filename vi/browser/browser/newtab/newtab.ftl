@@ -159,10 +159,42 @@ home-prefs-mission-message-learn-more-link-srd = Tìm hiểu cách thức
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Tìm hiểu thêm
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Tìm hiểu thêm
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
 
 ## Strings for the Picture of the Day widget
 
@@ -517,6 +549,8 @@ newtab-recommended-stories-toggle =
     .label = Câu chuyện được đề xuất
 newtab-custom-stories-personalized-toggle =
     .label = Câu chuyện
+newtab-custom-stories-personalized-checkbox =
+    .label = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
 newtab-custom-stories-personalized-checkbox-label = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
 newtab-custom-pocket-sponsored = Câu chuyện được tài trợ
 newtab-custom-pocket-show-recent-saves = Hiển thị các lần lưu gần đây
