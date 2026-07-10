@@ -193,6 +193,8 @@ urlbar-result-menu-button =
     .title = Buka menu
 urlbar-result-menu-button-feedback = Umpan Balik
     .title = Buka menu
+urlbar-result-menu-remove-from-history2 = Hapus dari riwayat
+    .accesskey = r
 urlbar-result-menu-tip-get-help2 = Dapatkan bantuan
     .accesskey = b
 urlbar-result-menu-learn-more =
@@ -1004,6 +1006,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ngetren di { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Jangan tampilkan penelusuran ngetren
+    .accesskey = J
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Disponsori
