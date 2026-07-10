@@ -193,6 +193,8 @@ urlbar-result-menu-button =
     .title = Aberi su menù
 urlbar-result-menu-button-feedback = Cummentu
     .title = Aberi su menù
+urlbar-result-menu-remove-from-history2 = Boga dae sa cronologia
+    .accesskey = B
 urlbar-result-menu-learn-more =
     .label = Àteras informatziones
     .accesskey = i
@@ -658,6 +660,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disativa sa protetzione de cumpartzidura pro custa sessione
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de ainas de su navigadore.
@@ -859,6 +864,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -871,6 +881,9 @@ urlbar-result-realtime-opt-in-allow = Ammustra cussìgios
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Immoe nono
 urlbar-result-realtime-opt-in-dismiss = Iscarta
+urlbar-result-realtime-opt-in-dismiss-all2 = No ammustres custos cussìgios
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = No ammustres cussìgios de mercados
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = No ammustres custos cussìgios
 # This string is shown in the result menu.
