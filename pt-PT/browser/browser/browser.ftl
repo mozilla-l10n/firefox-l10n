@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Remover do histórico
     .accesskey = R
 urlbar-result-menu-tip-get-help2 = Obter ajuda
     .accesskey = a
+urlbar-result-menu-dismiss-suggestion2 = Dispensar esta sugestão
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = Gerir o { -firefox-suggest-brand-name }
+    .accesskey = G
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Reportar localização imprecisa
+urlbar-result-menu-show-less-frequently2 = Mostrar com menos frequência
+urlbar-result-menu-dont-show-weather-suggestions2 = Não mostrar sugestões de meteorologia
 urlbar-result-menu-learn-more =
     .label = Saber mais
     .accesskey = S
@@ -886,6 +898,9 @@ urlbar-result-realtime-opt-in-allow = Mostrar sugestões
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Agora não
 urlbar-result-realtime-opt-in-dismiss = Dispensar
+urlbar-result-realtime-opt-in-dismiss-all2 = Não mostrar estas sugestões
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Não mostrar sugestões de mercados
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Não mostrar estas sugestões
 # This string is shown in the result menu.
