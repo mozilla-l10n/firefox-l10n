@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Supprimer de l’historique
     .accesskey = S
 urlbar-result-menu-tip-get-help2 = Obtenir de l’aide
     .accesskey = a
+urlbar-result-menu-dismiss-suggestion2 = Rejeter cette suggestion
+    .accesskey = R
+urlbar-result-menu-manage-firefox-suggest2 = Gérer { -firefox-suggest-brand-name }
+    .accesskey = G
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Signaler une localisation inexacte
+urlbar-result-menu-show-less-frequently2 = Afficher moins souvent
+urlbar-result-menu-dont-show-weather-suggestions2 = Ne pas afficher les suggestions météo
 urlbar-result-menu-learn-more =
     .label = En savoir plus
     .accesskey = E
@@ -978,6 +990,9 @@ urlbar-result-realtime-opt-in-allow = Afficher les suggestions
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Plus tard
 urlbar-result-realtime-opt-in-dismiss = Ignorer
+urlbar-result-realtime-opt-in-dismiss-all2 = Ne pas afficher ces suggestions
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Ne pas afficher les suggestions liées aux marchés
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne pas afficher ces suggestions
 # This string is shown in the result menu.
@@ -1164,6 +1179,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populaire sur { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ne pas afficher les recherches populaires
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsorisé
