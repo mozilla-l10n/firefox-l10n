@@ -166,6 +166,148 @@ home-prefs-mission-message-learn-more-link-srd = Ta reda på hur
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Läs mer
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Tracker blockerad idag
+       *[other] Trackers blockerade idag
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Över { $count } webbplats
+       *[other] På { $count } webbplatser
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blockerar spårare när du surfar. Du ser dem här.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blockerar spårare automatiskt när du surfar.
+newtab-privacy-message-info-1-cta = Visa skydd
+newtab-privacy-message-info-2 = Spårningsblockering hjälper till att hindra företag från att följa dig online.
+newtab-privacy-message-info-2-cta = Visa skydd
+newtab-privacy-message-info-3 = Många webbplatser har spårare så att företag du aldrig har besökt kan följa dig online.
+newtab-privacy-message-info-3-cta = Visa skydd
+newtab-privacy-message-info-4 = Att välja { -brand-short-name } innebär att välja skydd som standard.
+newtab-privacy-message-info-4-cta = Visa skydd
+newtab-privacy-message-info-5 = Blockerade spårare innebär att färre företag kan följa dig mellan webbplatser.
+newtab-privacy-message-info-5-cta = Visa skydd
+newtab-privacy-message-info-6 = Behåll din data hos { -brand-short-name }. Vi säljer aldrig det, men andra webbläsare kan göra det.
+newtab-privacy-message-info-6-cta = Läs mer
+newtab-privacy-message-info-7 = Se vilka spårare { -brand-short-name } blockerade.
+newtab-privacy-message-info-7-cta = Visa skydd
+newtab-privacy-message-info-8 = Surfa med { -brand-short-name } stöder { -vendor-short-name }:s uppdrag att bygga en bättre webb.
+newtab-privacy-message-info-8-cta = Läs mer
+newtab-privacy-message-info-9 = Gör { -brand-short-name } till din favoritwebbläsare för inbyggd sekretess.
+newtab-privacy-message-info-9-cta = Ange som standard
+newtab-privacy-message-info-10 = Spara lösenord i { -brand-short-name } för att använda starka, unika inloggningar överallt.
+newtab-privacy-message-info-10-cta = Gå till lösenord
+newtab-privacy-message-info-11 = Ta reda på hur { -brand-short-name } hjälper till att hålla din surfning mer privat.
+newtab-privacy-message-info-11-cta = Läs mer
+newtab-privacy-message-info-12 = Blockering av trackers kan hjälpa till att spara bandbredd för begränsade dataplaner.
+newtab-privacy-message-info-12-cta = Visa skydd
+newtab-privacy-message-info-13 = { -brand-short-name } blockerar spårare, vilket frigör bandbredd för smidigare streaming.
+newtab-privacy-message-info-13-cta = Visa skydd
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Ta reda på om din personliga information visas i ett dataintrång.
+newtab-privacy-message-promo-monitor-1-cta = Läs mer
+newtab-privacy-message-promo-monitor-2 = Skydda din information med gratis övervakning av dataintrång, för upp till 20 e-postmeddelanden.
+newtab-privacy-message-promo-monitor-2-cta = Läs mer
+newtab-privacy-message-promo-signin-1 = Håll bokmärken, lösenord och flikar krypterade mellan enheter med ditt { -vendor-short-name }-konto.
+newtab-privacy-message-promo-signin-1-cta = Logga in
+newtab-privacy-message-promo-vpn-1 = Shopping på offentligt Wi-Fi? Slå på inbyggt VPN för extra skydd.
+newtab-privacy-message-promo-vpn-1-cta = Öppna VPN
+newtab-privacy-message-promo-vpn-2 = Använder du flygplatsens Wi-Fi? Skydda din surfning genom att aktivera inbyggt VPN.
+newtab-privacy-message-promo-vpn-2-cta = Öppna VPN
+newtab-privacy-message-promo-vpn-3 = Aktivera inbyggt VPN för att hålla din plats mer privat.
+newtab-privacy-message-promo-vpn-3-cta = Öppna VPN
+newtab-privacy-message-promo-private-window-1 = Prova ett privat fönster för att surfa mer privat när du använder en delad dator.
+newtab-privacy-message-promo-private-window-1-cta = Öppna privat fönster
+newtab-privacy-message-promo-relay-1 = Spara din riktiga e-post till personer du litar på; använda en e-postalias för registrering.
+newtab-privacy-message-promo-relay-1-cta = Skaffa alias
+newtab-privacy-message-promo-relay-2 = Skydda din inkorg från skräppost med gratis e-postalias.
+newtab-privacy-message-promo-relay-2-cta = Skaffa alias
+newtab-privacy-message-promo-relay-3 = Få 50 gratis e-postalias för att hålla din riktiga e-post privat.
+newtab-privacy-message-promo-relay-3-cta = Skaffa alias
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } spårare blockerade den här veckan. Se vad { -brand-short-name } håller i undan
+       *[other] { $count } spårare blockerade den här veckan. Se vad { -brand-short-name } håller i undan
+    }
+newtab-privacy-message-milestone-week-cta = Visa skydd
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } spårare blockerad denna månad. Ett litet steg för integriteten. Ett stort steg för sinnesfrid.
+       *[other] { $count } spårare blockerade denna månad. Ett litet steg för integriteten. Ett stort steg för sinnesfrid.
+    }
+newtab-privacy-message-milestone-month-cta = Visa skydd
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } spårare blockerad i år. Det är ett kraftfullt år för att skydda din integritet.
+       *[other] { $count } spårare blockerade i år. Det är ett kraftfullt år för att skydda din integritet.
+    }
+newtab-privacy-message-milestone-year-cta = Visa skydd
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } spårare blockerade. Det är stora framsteg mot sekretess på dina villkor.
+       *[other] { $count } spårare blockerade. Det är stora framsteg mot sekretess på dina villkor.
+    }
+newtab-privacy-message-milestone-total-cta = Visa skydd
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ spårare blockerade idag.) Färre spårare innebär mer integritet.
+newtab-privacy-message-daily-cap-cta = Visa skydd
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Du har skyddats { $count } dag i rad.
+       *[other] Du har skyddats { $count } dagar i rad.
+    }
+newtab-privacy-message-streak-cta = Visa skydd
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Fortsätt surfa, { -brand-short-name } kommer att fortsätta blockera.
+newtab-privacy-message-first-protection-cta = Visa skydd
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -180,6 +322,18 @@ newtab-stocks-menu-learn-more = Läs mer
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Dagens bild · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Dagens bild
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Visa licensen { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Bild på dagens alternativ
+    .aria-label = Bild på dagens alternativ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
