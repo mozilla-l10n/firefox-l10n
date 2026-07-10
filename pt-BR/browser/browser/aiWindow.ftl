@@ -154,14 +154,41 @@ aiwindow-firstrun-default-checkbox-description = Mude nas configurações quando
 smartwindow-ask-button =
     .label = Fazer uma pergunta
 
+## Memories toggle button
+
+aiwindow-memories-on =
+    .tooltiptext = Usar memórias em respostas quando for útil
+    .aria-label = Memórias ativadas
+aiwindow-memories-off =
+    .tooltiptext = Não usar memórias em respostas
+    .aria-label = Memórias desativadas
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .tooltiptext = Nova conversa
+    .aria-label = Nova conversa
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
     .tooltiptext = Fechar
     .aria-label = Fechar
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Os dados sincronizados permanecem na sua conta. As { -smart-window-brand-name(plural-form: "true") } abertas mudam para janelas clássicas.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Mudar para o modo { -smart-window-brand-name }
+
 ## Fullpage Footer Actions
 
+smartwindow-footer-chats =
+    .label = Conversas
+    .aria-label = Conversas
+    .tooltiptext = Conversas
 smartwindow-footer-history =
     .tooltiptext = Histórico
     .aria-label = Histórico
@@ -172,6 +199,18 @@ smartwindow-footer-history =
 
 smartwindow-disclaimer = Inteligência artificial pode cometer erros.
 
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Conversas
+    .title = Conversas
+firefoxview-chats-header = Conversas
+firefoxview-chat-context-delete = Excluir das conversas
+    .accesskey = E
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Pesquisar em conversas
+
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
@@ -179,6 +218,29 @@ firefoxview-chat-date-today = Hoje - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ontem - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Volte às suas conversas
+firefoxview-chats-empty-description = À medida que você usa { -smart-window-brand-name }, suas conversas são salvas aqui.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } conversa
+       *[other] { $count } conversas
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Histórico de navegação, downloads e conversas
+    .accesskey = H
 
 ## Natural Language Interactions
 
