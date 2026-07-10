@@ -199,6 +199,18 @@ urlbar-result-menu-remove-from-history2 = Eyða úr vafurferli
     .accesskey = r
 urlbar-result-menu-tip-get-help2 = Fá aðstoð
     .accesskey = a
+urlbar-result-menu-dismiss-suggestion2 = Vísa þessari tillögu frá
+    .accesskey = V
+urlbar-result-menu-manage-firefox-suggest2 = Sýsla með { -firefox-suggest-brand-name }
+    .accesskey = m
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Tilkynna ónákvæma staðsetningu
+urlbar-result-menu-show-less-frequently2 = Sýna sjaldnar
+urlbar-result-menu-dont-show-weather-suggestions2 = Ekki sýna tillögur um veður
 urlbar-result-menu-learn-more =
     .label = Kanna nánar
     .accesskey = K
@@ -862,6 +874,9 @@ urlbar-result-realtime-opt-in-allow = Sýna tillögur
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ekki núna
 urlbar-result-realtime-opt-in-dismiss = Afgreiða
+urlbar-result-realtime-opt-in-dismiss-all2 = Ekki sýna þessar tillögur
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Ekki sýna tillögur um fjármálamarkaði
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ekki sýna þessar tillögur
 # This string is shown in the result menu.
@@ -1029,6 +1044,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Vinsælt á { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ekki sýna vinsælar leitir
+    .accesskey = k
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Kostað
