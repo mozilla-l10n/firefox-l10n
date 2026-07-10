@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Отвори мени
 urlbar-result-menu-button-feedback = Повратне информације
     .title = Отвори мени
+urlbar-result-menu-learn-more2 = Сазнајте више
+    .accesskey = С
+urlbar-result-menu-remove-from-history2 = Уклони из историје
+    .accesskey = У
+urlbar-result-menu-tip-get-help2 = Потражите помоћ
+    .accesskey = п
+urlbar-result-menu-dismiss-suggestion2 = Одбаци овај предлог
+    .accesskey = О
+urlbar-result-menu-manage-firefox-suggest2 = Управљајте { -firefox-suggest-brand-name }
+    .accesskey = У
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Пријавите нетачну локацију
+urlbar-result-menu-show-less-frequently2 = Приказуј ређе
+urlbar-result-menu-dont-show-weather-suggestions2 = Не приказуј предлоге за време
 urlbar-result-menu-learn-more =
     .label = Сазнајте више
     .accesskey = С
@@ -890,6 +908,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонзориса
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Питај
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1091,6 +1114,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = У { $engine } тренду
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Не приказуј претраге у тренду
+    .accesskey = Н
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Спонзорисано
