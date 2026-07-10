@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = 오류 세부 정보
 about-debugging-message-details-label-warning = 경고 세부 정보
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = 상세 정보
+about-debugging-sidebar =
+    .heading = 디버깅

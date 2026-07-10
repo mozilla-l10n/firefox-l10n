@@ -235,6 +235,46 @@ newtab-privacy-message-promo-vpn-2 = 공항 Wi-Fi를 사용하세요? 내장 VPN
 newtab-privacy-message-promo-vpn-2-cta = VPN 열기
 newtab-privacy-message-promo-vpn-3 = 내장 VPN을 켜서 위치를 보다 안전하게 보호하세요.
 newtab-privacy-message-promo-vpn-3-cta = VPN 열기
+newtab-privacy-message-promo-private-window-1 = 공용 컴퓨터를 사용할 때는 더 안전한 개인 정보 보호를 위해 사생활 보호 창을 이용해 보세요.
+newtab-privacy-message-promo-private-window-1-cta = 사생활 보호 창 열기
+newtab-privacy-message-promo-relay-1 = 신뢰할 수 있는 사람들을 위해 실제 이메일 주소는 저장하지 마세요. 가입시 이메일 가리기를 사용하세요.
+newtab-privacy-message-promo-relay-1-cta = 이메일 가리기 받기
+newtab-privacy-message-promo-relay-2 = 무료 이메일 가리기로 스팸으로부터 받은 편지함을 보호하세요.
+newtab-privacy-message-promo-relay-2-cta = 이메일 가리기 받기
+newtab-privacy-message-promo-relay-3 = 실제 이메일을 비공개로 유지하는 데 도움이 되는 50개의 무료 이메일 가리기를 받으세요.
+newtab-privacy-message-promo-relay-3-cta = 이메일 가리기 받기
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week = 이번 주에 추적기 { $count }개가 차단되었습니다. { -brand-short-name }가 사용자의 방해 요소를 어떻게 막아내고 있는지 확인해 보세요.
+newtab-privacy-message-milestone-week-cta = 보호 기능 보기
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month = 이번 달에 추적기 { $count }개를 차단했습니다. 개인 정보 보호를 향한 작은 한 걸음이자, 마음의 평안을 위한 큰 도약입니다.
+newtab-privacy-message-milestone-month-cta = 보호 기능 보기
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year = 올해 { $count }개의 추적기가 차단되었습니다. 개인 정보를 보호해야 하는 올해입니다.
+newtab-privacy-message-milestone-year-cta = 보호 기능 보기
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total = 추적기가 { $count }개 차단되었습니다. 내가 주도하는 개인 정보 보호를 향한 큰 진전입니다.
+newtab-privacy-message-milestone-total-cta = 보호 기능 보기
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (오늘 100개 이상의 추적기가 차단되었습니다.) 더 적은 추적기가 더 많은 개인 정보 보호를 의미합니다.
+newtab-privacy-message-daily-cap-cta = 보호 기능 보기
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak = { $count }일 연속 보호받고 있습니다.
+newtab-privacy-message-streak-cta = 보호 기능 보기
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = 안심하고 탐색하세요. { -brand-short-name }가 계속해서 차단하겠습니다.
+newtab-privacy-message-first-protection-cta = 보호 기능 보기
 
 ## Strings for the Stocks widget
 
@@ -242,12 +282,53 @@ newtab-privacy-message-promo-vpn-3-cta = VPN 열기
 newtab-stocks-menu-search = 주식 종목 코드 검색
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 더 알아보기
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = 주식 위젯 옵션
+    .aria-label = 주식 위젯 옵션
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = 주식
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name } 주가 { $price }, 당일 { $change } 상승
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name } 주가 { $price }, 당일 { $change } 하강
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name } 주가 { $price }, 변동 없음 ({ $change })
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = 오늘의 사진 · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = 오늘의 사진
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = { $license } 라이선스 보기
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = 오늘의 사진 옵션
+    .aria-label = 오늘의 사진 옵션
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
