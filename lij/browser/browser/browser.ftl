@@ -179,6 +179,15 @@ urlbar-result-menu-button =
     .title = Arvi menû
 urlbar-result-menu-button-feedback = Comento
     .title = Arvi menû
+urlbar-result-menu-learn-more2 = Atre informaçioin
+    .accesskey = A
+urlbar-result-menu-remove-from-history2 = Scancella da-a stöia
+    .accesskey = S
+urlbar-result-menu-tip-get-help2 = Fatte agiutâ
+    .accesskey = a
+urlbar-result-menu-manage-firefox-suggest2 = Gestisci { -firefox-suggest-brand-name }
+    .accesskey = G
+urlbar-result-menu-show-less-frequently2 = Mostra de meno
 urlbar-result-menu-learn-more =
     .label = Atre informaçioin
     .accesskey = A
@@ -507,6 +516,9 @@ browser-tab-unblock =
        *[other] RIPRODUXI { $count } FEUGGI
     }
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -530,6 +542,12 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 sharing-warning-proceed-to-tab =
     .label = Vanni a-o feuggio
+
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
@@ -607,6 +625,18 @@ urlbar-result-action-copy-to-clipboard = Còpia
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-history =
@@ -630,6 +660,9 @@ urlbar-result-action-switch-to-tabgroup = Passa a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Arvi { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -645,6 +678,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Særa Modalitæ letua
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -722,6 +760,9 @@ save-to-pocket-button =
     .label = Sarva in { -pocket-brand-name }
     .tooltiptext = Sarva in { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ##
 
 toolbar-overflow-customize-button =
@@ -749,9 +790,16 @@ toolbar-button-new-private-window =
     .label = Neuvo barcon privòu
     .tooltiptext = Arvi 'n neuvo barcon privòu ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto scito deuvia software DRM. Porieivan esighe de limitaçioin a-e açioin pe l’utente in { -brand-short-name }.
+
+## Password save/update panel
+
 
 ##
 
@@ -776,6 +824,10 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No fâ vedde sta notiçia quande i pop-up son blocæ
     .accesskey = N
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
 
 ##
 
@@ -810,12 +862,39 @@ tabs-toolbar-list-all-tabs =
     .label = Lista de tutti i feuggi
     .tooltiptext = Lista de tutti i feuggi
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Çerte informaçioin se mandan aotomaticamente a { -vendor-short-name } da { -brand-short-name } pe megioane l'uzo.
 data-reporting-notification-button =
     .label = Çerni cöse condividde
     .accesskey = s
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
 
 ## Autorefresh blocker
 
@@ -824,6 +903,9 @@ refresh-blocked-redirect-label = { -brand-short-name } o l'inpedisce l'indirisam
 refresh-blocked-allow =
     .label = Permetti
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -854,3 +936,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Fanni vedde '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
