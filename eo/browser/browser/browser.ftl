@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Forigi el historio
     .accesskey = F
 urlbar-result-menu-tip-get-help2 = Helpo
     .accesskey = H
+urlbar-result-menu-dismiss-suggestion2 = Ignori tiun ĉi sugeston
+    .accesskey = I
+urlbar-result-menu-manage-firefox-suggest2 = Administri { -firefox-suggest-brand-name }
+    .accesskey = A
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Raporti neprecizan lokon
+urlbar-result-menu-show-less-frequently2 = Montri malpli ofte
+urlbar-result-menu-dont-show-weather-suggestions2 = Ne montri sugestojn pri veterprognozo
 urlbar-result-menu-learn-more =
     .label = Pli da informo
     .accesskey = i
@@ -939,6 +951,9 @@ urlbar-result-realtime-opt-in-allow = Montri sugestojn
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ne nun
 urlbar-result-realtime-opt-in-dismiss = Ignori
+urlbar-result-realtime-opt-in-dismiss-all2 = Ne montri tiun ĉi sugestojn
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Ne montri sugestojn el akciaj merkatoj
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne montri tiun ĉi sugestojn
 # This string is shown in the result menu.
@@ -1125,6 +1140,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populara en { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ne montri popularajn serĉojn
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Patronita
