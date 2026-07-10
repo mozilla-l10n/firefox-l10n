@@ -195,6 +195,12 @@ urlbar-result-menu-button =
     .title = メニューを開く
 urlbar-result-menu-button-feedback = フィードバック
     .title = メニューを開く
+urlbar-result-menu-learn-more2 = 詳細情報
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = 履歴から削除
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = ヘルプを表示
+    .accesskey = h
 urlbar-result-menu-learn-more =
     .label = 詳細情報
     .accesskey = L
@@ -415,13 +421,13 @@ quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 開発ツールを開く
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
-quickactions-cmd-inspector = inspector, devtools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
+quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -477,10 +483,10 @@ quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ページのソースを表示
 quickactions-cmd-viewsource2 = view source, source, page source
-quickactions-cmd-viewsource = view source, source
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = { -firefoxlabs-brand-name } を開く
 quickactions-cmd-labs = labs, experiment
+quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = クイックアクションについての詳細
