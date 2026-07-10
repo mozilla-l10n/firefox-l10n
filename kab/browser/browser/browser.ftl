@@ -183,6 +183,14 @@ urlbar-result-menu-button =
     .title = Ldi umuɣ
 urlbar-result-menu-button-feedback = Feedback
     .title = Ldi umuɣ
+urlbar-result-menu-remove-from-history2 = Kkes seg uzray
+    .accesskey = K
+urlbar-result-menu-tip-get-help2 = Awi tallalt
+    .accesskey = l
+urlbar-result-menu-dismiss-suggestion2 = Anef i usumer-a
+    .accesskey = A
+urlbar-result-menu-manage-firefox-suggest2 = Sefrek { -firefox-suggest-brand-name }
+    .accesskey = S
 urlbar-result-menu-learn-more =
     .label = Issin ugar
     .accesskey = I
@@ -635,6 +643,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I useqdec n unezgum F12, ldi qbel DevTools seg wumuɣ n yifecka n yiminig.
@@ -834,6 +845,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ⋅ S lmendad
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Suter
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1212,6 +1228,10 @@ toolbar-button-share-tab =
     .label = Bḍu
     .tooltiptext = Bḍu asebter-a
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
@@ -1314,6 +1334,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1403,6 +1426,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
