@@ -166,6 +166,32 @@ home-prefs-mission-message-learn-more-link-srd = Lês hjir hoe
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Mear ynfo
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Trackers hjoed blokkearre
+       *[other] Trackers hjoed blokkearre
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Op { $count } website
+       *[other] Op { $count } websites
+    }
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.

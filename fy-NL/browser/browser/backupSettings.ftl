@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Reservekopy ynskeakelje
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Der is in probleem bard mei jo selektearre reservekopymap. Kies in oare map en probearje it opnij.
+turn-on-scheduled-backups-error-default-dir-denied = Wy koene gjin tagong krije ta jo reservekopymap. Probearje in nije lokaasje te kiezen.
 backup-error-file-system = Der is in probleem bard mei jo selektearre reservekopymap by it meitsjen fan in reservekopy fan { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

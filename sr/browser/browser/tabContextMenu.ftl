@@ -170,7 +170,7 @@ tab-context-move-tabs =
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
-            [1] Премести језичак у
+            [one] Премести { $tabCount } језичак у
             [few] Премести { $tabCount } језичка у
            *[other] Премести { $tabCount } језичака у
         }

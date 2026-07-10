@@ -73,6 +73,9 @@ customkeys-key-edit =
 customkeys-key-clear =
     .aria-label = Wiskje
     .tooltiptext = Wiskje
+customkeys-key-reset =
+    .aria-label = Weromsette
+    .tooltiptext = Weromsette
 
 ## Shortcut actions
 
@@ -81,6 +84,11 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Noch in fluchkeppeling fuortsmite?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Dizze toets wurdt al troch ‘{ $conflict }’ brûkt.
+customkeys-conflict-confirm-button-confirm = Dochs brûke
 customkeys-conflict-confirm-button-cancel = Annulearje
 customkeys-reset-all-confirm-title = Standertynstellingen weromsette?
 customkeys-reset-all-confirm-body = Alle oanpaste fluchtoetsen dy’t jo makke hawwe, sille fuortsmiten wurde.

@@ -290,5 +290,21 @@ aiwindow-feedback-submit = Yntsjinje
 aiwindow-feedback-cancel = Annulearje
 aiwindow-feedback-reason-incorrect-or-misleading = Ferkeard of misliedend
 aiwindow-feedback-reason-doesnt-address-my-request = Giet net oer myn fersyk
+aiwindow-feedback-reason-lacks-personalization = Mist personalisaasje of kontekst
+aiwindow-feedback-reason-performance-or-usability = Probleem mei prestaasjes of brûkberens
+aiwindow-feedback-reason-harmful-or-offensive = Skealik of beledigjend
 aiwindow-feedback-reason-other = Oars
 aiwindow-feedback-preview-report = Chatdetails besjen
+aiwindow-feedback-preview-report-with-page = Chat- en sidedetails besjen
+aiwindow-feedback-include-page-content = De siden wêrnei yn dizze chat ferwezen wurdt diele
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Werjefte-yndieling wikselje
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Modus wikselje: Listwerjefte
+    .tooltiptext = Listwerjefte
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Modus wikselje: rasterwerjefte
+    .tooltiptext = Rasterwerjefte
