@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Poista historiasta
     .accesskey = R
 urlbar-result-menu-tip-get-help2 = Tuki
     .accesskey = T
+urlbar-result-menu-dismiss-suggestion2 = Hylkää tämä ehdotus
+    .accesskey = ä
+urlbar-result-menu-manage-firefox-suggest2 = Hallitse { -firefox-suggest-brand-name }ia
+    .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Ilmoita epätarkasta sijainnista
+urlbar-result-menu-show-less-frequently2 = Näytä harvemmin
+urlbar-result-menu-dont-show-weather-suggestions2 = Älä näytä sääehdotuksia
 urlbar-result-menu-learn-more =
     .label = Lue lisää
     .accesskey = L
@@ -975,6 +987,9 @@ urlbar-result-realtime-opt-in-allow = Näytä ehdotukset
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ei nyt
 urlbar-result-realtime-opt-in-dismiss = Hylkää
+urlbar-result-realtime-opt-in-dismiss-all2 = Älä näytä näitä ehdotuksia
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Älä näytä osakemarkkinaehdotuksia
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Älä näytä näitä ehdotuksia
 # This string is shown in the result menu.
@@ -1161,6 +1176,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Suosittuja hakukoneessa { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Älä näytä suositujja hakuja
+    .accesskey = Ä
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsoroitu
