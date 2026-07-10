@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Nova aba
     .accesskey = N
+user-context-add-container =
+    .label = Adicionar novo contêiner
+    .accesskey = A
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

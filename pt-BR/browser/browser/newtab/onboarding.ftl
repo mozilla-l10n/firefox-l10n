@@ -600,3 +600,32 @@ onboarding-refresh-sync-title = Vá em qualquer lugar. Tenha tudo sincronizado.
 onboarding-refresh-gratitude-subtitle = Obrigado por usar o { -brand-short-name }, o único principal navegador respaldado por uma entidade sem fins lucrativos. Com seu apoio, estamos trabalhando para tornar a internet mais segura e acessível a todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } protege você
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Alterne entre janelas inteligentes e clássicas quando quiser.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Termos de uso do { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Para usar o { -smart-window-brand-name }, aceite os <a data-l10n-name="terms_of_use">Termos de uso</a> e o <a data-l10n-name="privacy_notice">Aviso de privacidade</a> atualizado.
+smartwindow-existing-user-fx-tou-accept = Aceitar
+smartwindow-existing-user-fx-tou-go-back = Voltar
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Inicie sempre com o { -smart-window-brand-name }
+smartwindow-onboarding-subtitle = Resuma, compare e faça perguntas sem perder o ritmo.
+smartwindow-onboarding-primary-button = Avançar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Mascote do { -brand-product-name } (Kit) com acessórios em forma de estrela
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Quer manter o assistente fechado?
+smartwindow-sidebar-auto-open-callout-body = Você ainda pode abrir sempre que precisar.
+smartwindow-sidebar-auto-open-callout-accept = Sim, manter fechado
+smartwindow-sidebar-auto-open-callout-dismiss = Não, obrigado
+smartwindow-sidebar-auto-open-callout-accepted-title = O assistente permanecerá fechado

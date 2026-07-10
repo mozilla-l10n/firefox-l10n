@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Formaat fan splitste ljepblêdwerjefe wizigje
+tab-devtools-splitter =
+    .aria-label = Formaat fan it paniel Untwikkelersark wizigje
 
 ## Tooltips for tab audio control
 ## Variables:

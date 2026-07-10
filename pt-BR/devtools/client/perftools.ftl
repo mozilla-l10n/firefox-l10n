@@ -168,6 +168,8 @@ perftools-presets-ml-label = Aprendizado de máquina
 perftools-presets-ml-description2 = Ajuste prévio para investigar bugs de aprendizado de máquina no { -brand-shorter-name }.
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Rede com log
+perftools-presets-networking-with-logs-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }, incluindo log de rede. Esses registros podem conter informações sensíveis, como as URLs que você visita.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Ajuste prévio para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.

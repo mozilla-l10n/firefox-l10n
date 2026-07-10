@@ -261,10 +261,40 @@ newtab-privacy-message-promo-relay-3-cta = Maskers verkrijgen
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } tracker geblokkeerd deze week. Bekijk wat { -brand-short-name } bij u weghoudt
+       *[other] { $count } trackers geblokkeerd deze week. Bekijk wat { -brand-short-name } bij u weghoudt
+    }
 newtab-privacy-message-milestone-week-cta = Beschermingen bekijken
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } tracker deze maand geblokkeerd. Een kleine stap voor privacy. Een grote stap voor gemoedsrust.
+       *[other] { $count } trackers deze maand geblokkeerd. Een kleine stap voor privacy. Een grote stap voor gemoedsrust.
+    }
 newtab-privacy-message-milestone-month-cta = Beschermingen bekijken
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } tracker geblokkeerd dit jaar. Dat is een krachtig jaar voor de bescherming van uw privacy.
+       *[other] { $count } trackers geblokkeerd dit jaar. Dat is een krachtig jaar voor de bescherming van uw privacy.
+    }
 newtab-privacy-message-milestone-year-cta = Beschermingen bekijken
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } tracker geblokkeerd. Dat is een grote stap op weg naar privacy onder uw voorwaarden.
+       *[other] { $count } trackers geblokkeerd. Dat is een grote stap op weg naar privacy onder uw voorwaarden.
+    }
 newtab-privacy-message-milestone-total-cta = Beschermingen bekijken
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Meer dan 100 trackers geblokkeerd vandaag.) Minder trackers betekent meer privacy.
 newtab-privacy-message-daily-cap-cta = Beschermingen bekijken
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -274,6 +304,8 @@ newtab-privacy-message-streak =
        *[other] U bent { $count } dagen op rij beschermd.
     }
 newtab-privacy-message-streak-cta = Beschermingen bekijken
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Blijf surfen, { -brand-short-name } blijft blokkeren.
 newtab-privacy-message-first-protection-cta = Beschermingen bekijken
 
 ## Strings for the Stocks widget

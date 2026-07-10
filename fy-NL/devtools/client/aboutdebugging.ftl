@@ -328,6 +328,12 @@ about-debugging-multiprocess-toolbox-name = Multiproses-arkset
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Haadproses en ynhâldsprosessen foar de doelbrowser
+about-debugging-message-error-icon =
+    .alt = Flaterpiktogram
+about-debugging-message-info-icon =
+    .alt = Ynformaasjepiktogram
+about-debugging-message-warning-icon =
+    .alt = Warskôgingspiktogram
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Berjocht slute

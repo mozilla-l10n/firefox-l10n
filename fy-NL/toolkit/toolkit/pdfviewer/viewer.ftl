@@ -153,6 +153,27 @@ pdfjs-document-properties-linearized = Flugge webwerjefte:
 pdfjs-document-properties-linearized-yes = Ja
 pdfjs-document-properties-linearized-no = Nee
 pdfjs-document-properties-close-button = Slute
+pdfjs-digital-signature-properties-view-certificate = Sertifikaat besjen
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Reden: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Tiidstimpel: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Undertekening ({ $count })
+       *[other] Undertekeningen ({ $count })
+    }
 
 ## Print
 
@@ -731,6 +752,23 @@ pdfjs-new-badge-content = NIJ
 pdfjs-views-manager-waiting-for-file = Bestân oplade…
 pdfjs-toggle-views-manager-button1 =
     .title = Siden beheare
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Eigenskippen fan digitale hantekening
+    .aria-label = Eigenskippen fan digitale hantekening
+pdfjs-digital-signature-properties-button-label = Eigenskippen fan digitale hantekening
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokumint is ûndertekene mei in jildige digitale hantekening
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be

@@ -80,8 +80,30 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Netwurkmonitor
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maksimale grutte fan fersyk en antwurd (ynsteld op 0 foar ûnbeheind):
+options-netmonitor-body-limit-tooltip =
+    .title = Oanfraach- of antwurdteksten dy’t de oantsjutte grutte oerskriuwe, wurde ôfkoarte as se werjûn of ynladen wurde yn de Netwurkmonitor. Stel dit yn op 0 om gjin beheining te hawwen.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Unbeheind
+options-netmonitor-body-limit-button =
+    .title = De maksimale fersyk-/antwurdtekstgrutte bewurkje.
+options-netmonitor-body-limit-restore-default =
+    .title = De standertwearde foar maksimale fersyk-/antwurdtekstgrutte werstelle.
+options-netmonitor-body-limit-set =
+    .title = Stel de aktuele ynfierwearde yn as maksimale fersyk-/antwurdtekstgrutte.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Eksperimintele funksjes
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Stylesheets yn de debugger toane
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stylesheets yn de debugger opnimme en toane
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (fereasket it opnij iepenjen fan it arkfek)
 
 ## Style Editor section
 
