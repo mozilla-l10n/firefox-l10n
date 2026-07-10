@@ -1071,6 +1071,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendèntzia in { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = No ammustres is chircas de tendèntzias
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Patrotzinadu
