@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = 從紀錄移除
     .accesskey = Ｒ
 urlbar-result-menu-tip-get-help2 = 取得幫助
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = 忽略此建議
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = 回報位置不準確
+urlbar-result-menu-show-less-frequently2 = 減少顯示
+urlbar-result-menu-dont-show-weather-suggestions2 = 不要顯示天氣建議
 urlbar-result-menu-learn-more =
     .label = 了解更多
     .accesskey = L
@@ -955,6 +967,9 @@ urlbar-result-realtime-opt-in-allow = 顯示搜尋建議
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = 現在不要
 urlbar-result-realtime-opt-in-dismiss = 知道了！
+urlbar-result-realtime-opt-in-dismiss-all2 = 不要顯示這些建議
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = 不要顯示金融市場建議
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = 不要顯示這些建議
 # This string is shown in the result menu.
@@ -1141,6 +1156,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 上的熱門趨勢
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = 不要顯示搜尋趨勢
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = 贊助項目
