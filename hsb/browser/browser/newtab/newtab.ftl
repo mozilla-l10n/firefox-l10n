@@ -168,6 +168,29 @@ home-prefs-mission-message-learn-more-link-srd = Zhońće kak
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dalše informacije
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Dalše informacije
+newtab-privacy-message-info-8-cta = Dalše informacije
+newtab-privacy-message-info-9-cta = K standardej činić
+newtab-privacy-message-info-11-cta = Dalše informacije
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Dalše informacije
+newtab-privacy-message-promo-monitor-2-cta = Dalše informacije
+newtab-privacy-message-promo-signin-1-cta = Přizjewić
+newtab-privacy-message-promo-vpn-1-cta = VPN wočinić
+newtab-privacy-message-promo-vpn-2-cta = VPN wočinić
+newtab-privacy-message-promo-vpn-3-cta = VPN wočinić
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -182,6 +205,13 @@ newtab-stocks-menu-learn-more = Dalše informacije
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Wobraz dnja – Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Wobraz dnja
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Nastajenja wobraza dnja
+    .aria-label = Nastajenja wobraza dnja
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
