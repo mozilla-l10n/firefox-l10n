@@ -769,12 +769,39 @@ pdfjs-digital-signature-properties-button-label = Eigenskippen fan digitale hant
 ##   $count (Number) - number of signatures at the worst level.
 
 pdfjs-digital-signature-properties-banner-verified = Dokumint is ûndertekene mei in jildige digitale hantekening
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokumint ûndertekene, mar { $count } digitale hantekening koe net ferifiearre wurde
+       *[other] Dokumint ûndertekene, mar { $count } digitale hantekeningen koene net ferifiearre wurde
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokumint ûndertekene mei { $count } sertifikaat dat net fertroud wurdt
+       *[other] Dokumint ûndertekene mei { $count } sertifikaten dy’t net fertroud wurde
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokumint ûndertekene mei { $count } ferrûne sertifikaat
+       *[other] Dokumint ûndertekene mei { $count } ferrûne sertifikaten
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokumint hat { $count } ûnjildige digitale hantekening
+       *[other] Dokumint hat { $count } ûnjildige digitale hantekeningen
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokumint ûndertekene mei { $count } ynlutsen sertifikaat
+       *[other] Dokumint ûndertekene mei { $count } ynlutsen sertifikaten
+    }
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be
 ## untrusted/expired/revoked, but that's surfaced on the cert row
 ## below), or it failed, or its sub-format isn't supported.
 
+pdfjs-digital-signature-properties-status-verified = Status: hantekening ferifiearre
+pdfjs-digital-signature-properties-status-invalid = Status: hantekening ûnjildich
 pdfjs-digital-signature-properties-status-unknown = Status: kin net ferifiearje wurde (net stipe)
 
 ## Per-signature certificate row. The variants with an issuer / date in

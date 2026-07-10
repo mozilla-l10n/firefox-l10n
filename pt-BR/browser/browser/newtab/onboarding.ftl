@@ -629,3 +629,6 @@ smartwindow-sidebar-auto-open-callout-body = Você ainda pode abrir sempre que p
 smartwindow-sidebar-auto-open-callout-accept = Sim, manter fechado
 smartwindow-sidebar-auto-open-callout-dismiss = Não, obrigado
 smartwindow-sidebar-auto-open-callout-accepted-title = O assistente permanecerá fechado
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Use ˝Fazer uma pergunta˝ para abrir em qualquer página. Mude isso quando quiser nas <a data-l10n-name="settings">configurações</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Certo
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se mudar de ideia, pode mudar o padrão nas <a data-l10n-name="settings">configurações</a> quando quiser.
