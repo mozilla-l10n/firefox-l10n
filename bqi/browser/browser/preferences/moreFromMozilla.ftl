@@ -31,3 +31,9 @@ more-from-moz-solo-button = امتهووݩ کردن { -solo-ai-brand-name }
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-solo-box-link =
+    .label = امتهووݩ کردن { -solo-ai-brand-name }

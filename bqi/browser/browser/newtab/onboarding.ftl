@@ -140,6 +140,8 @@ fx100-upgrade-thanks-header = 100 ممنووݩ داری
 mr2022-onboarding-easy-setup-primary-button-label = زفت کردن وو رئڌن وا پؽش
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = و من ٱووردن ز گشت گر پؽشی
 
 ## MR2022 New User Set Default screen strings
 
@@ -275,3 +277,17 @@ onboarding-personalization-use-case-school-option = مرسه
 onboarding-personalization-use-case-work-option = کاری
 onboarding-personalization-motivation-privacy-option = هریم سیخومی وو ٱمنیت
 onboarding-personalization-motivation-other-option = دیر
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = قوۊل کردن
+smartwindow-existing-user-fx-tou-go-back = وورگرت
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = رئڌن وا پؽش
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-dismiss = ن ممنووݩ
+smartwindow-sidebar-auto-open-callout-rejected-title = فئمیم

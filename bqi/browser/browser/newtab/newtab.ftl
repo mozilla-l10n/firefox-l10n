@@ -625,8 +625,31 @@ newtab-promo-card-dismiss-button =
 
 newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
 newtab-sports-widget-cancel = لقو
+newtab-sports-widget-back-button =
+    .aria-label = وورگشتن
+newtab-sports-widget-view-all =
+    .label = نیشتن پوی
+newtab-sports-widget-show-less =
+    .label = نشووݩ داڌن کمتر
+newtab-sports-widget-group-a = بونکۊ A
+newtab-sports-widget-group-b = بونکۊ B
+newtab-sports-widget-group-c = بونکۊ C
+newtab-sports-widget-group-d = بونکۊ D
+newtab-sports-widget-group-e = بونکۊ E
+newtab-sports-widget-group-f = بونکۊ F
+newtab-sports-widget-group-g = بونکۊ G
+newtab-sports-widget-group-h = بونکۊ H
+newtab-sports-widget-group-i = بونکۊ I
+newtab-sports-widget-group-j = بونکۊ J
+newtab-sports-widget-group-k = بونکۊ K
+newtab-sports-widget-group-l = بونکۊ L
+newtab-sports-widget-round-32 = دور 32
+newtab-sports-widget-round-16 = دور 16
+newtab-sports-widget-quarter-finals = مرهله ی چاروم دیندایی
 newtab-sports-widget-cancelled = لقو وابی
 newtab-sports-widget-third-place = مقام سووم
+newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
+newtab-sports-widget-match-full-time = پوی مجال
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -650,4 +673,6 @@ newtab-activation-window-message-dismiss-button =
 ## Strings for the Clock widget
 
 newtab-clock-widget-menu-learn-more = قلوه دووسته بۊین
+newtab-clock-widget-button-add-clock = ٱووردن
 newtab-clock-widget-button-cancel = لقو
+newtab-clock-widget-button-save = زفت
