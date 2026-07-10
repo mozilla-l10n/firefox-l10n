@@ -925,6 +925,9 @@ urlbar-result-realtime-opt-in-allow = Прикажи предлоге
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Не сада
 urlbar-result-realtime-opt-in-dismiss = Одбаци
+urlbar-result-realtime-opt-in-dismiss-all2 = Не приказуј ове предлоге
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Не приказуј предлоге са берзе
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Не приказуј ове предлоге
 # This string is shown in the result menu.
