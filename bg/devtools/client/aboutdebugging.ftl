@@ -20,6 +20,10 @@ about-debugging-page-title-runtime-page = Отстраняване на греш
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Този { -brand-shorter-name }
+# Sidebar heading and title for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox2 = Този { -brand-shorter-name }
+about-debugging-sidebar-this-firefox-title =
+    .title = Този { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
