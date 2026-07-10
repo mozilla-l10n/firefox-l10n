@@ -84,6 +84,26 @@ options-netmonitor-label = Monitor de rede
 options-netmonitor-body-limit-label = Tamanho máximo do corpo de requisições e respostas (defina como 0 para ilimitado):
 options-netmonitor-body-limit-tooltip =
     .title = Corpos de requisições ou respostas que excedem o tamanho especificado são truncados quando exibidos ou baixados no monitor de rede. Defina como 0 para não ter limite.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Ilimitado
+options-netmonitor-body-limit-button =
+    .title = Editar o tamanho máximo do corpo de requisições e respostas.
+options-netmonitor-body-limit-restore-default =
+    .title = Restaurar o valor padrão de tamanho máximo do corpo de requisições e respostas.
+options-netmonitor-body-limit-set =
+    .title = Definir o valor inserido atual como tamanho máximo do corpo de requisições e respostas.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Funcionalidades experimentais
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Mostrar folhas de estilo no debugger
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Listar e ver folhas de estilo no debugger
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (precisa reabrir as ferramentas)
 
 ## Style Editor section
 
