@@ -129,6 +129,11 @@ aiwindow-input-model-select-settings-link = Configurações de modelo
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Mais respostas úteis, nos seus termos
+aiwindow-firstrun-memories-subtitle = O { -smart-window-brand-name } pode aprender com suas conversas, navegação ou ambos para criar memórias. Eles tornam as respostas mais úteis ao longo do tempo.
+aiwindow-firstrun-memories-conversation-title = Continue a conversa
+aiwindow-firstrun-memories-conversation-body = Aprender com conversas significa que você deverá se repetir menos.
+aiwindow-firstrun-memories-relevance-title = Respostas mais relevantes
+aiwindow-firstrun-memories-relevance-body = Aprender com a navegação dá ao { -smart-window-brand-name } uma visão mais ampla.
 
 ## Close Sidebar Button
 
