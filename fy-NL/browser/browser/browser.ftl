@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Fuortsmite út skiednis
     .accesskey = F
 urlbar-result-menu-tip-get-help2 = Help krije
     .accesskey = H
+urlbar-result-menu-dismiss-suggestion2 = Dizze suggestje fuortsmite
+    .accesskey = f
+urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } beheare
+    .accesskey = b
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Net sekuere lokaasje melde
+urlbar-result-menu-show-less-frequently2 = Minder faaks toane
+urlbar-result-menu-dont-show-weather-suggestions2 = Gjin waarsuggestjes toane
 urlbar-result-menu-learn-more =
     .label = Mear ynfo
     .accesskey = M
@@ -942,6 +954,9 @@ urlbar-result-realtime-opt-in-allow = Foarstellen toane
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = No net
 urlbar-result-realtime-opt-in-dismiss = Slute
+urlbar-result-realtime-opt-in-dismiss-all2 = Dizze foarstellen net toane
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Gjin beurssuggestjes toane
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Dizze foarstellen net toane
 # This string is shown in the result menu.
@@ -1128,6 +1143,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trending op { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Gjin trending sykopdrachten toane
+    .accesskey = G
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsore
