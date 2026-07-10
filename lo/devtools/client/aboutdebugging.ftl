@@ -24,6 +24,10 @@ about-debugging-this-firefox-runtime-name = { -brand-shorter-name } ນີ້
 about-debugging-sidebar-this-firefox2 = { -brand-shorter-name } ນີ້
 about-debugging-sidebar-this-firefox-title =
     .title = { -brand-shorter-name } ນີ້
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = ຕັ້ງ​ຄ່າ
+about-debugging-sidebar-setup-title =
+    .title = ຕັ້ງ​ຄ່າ
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
