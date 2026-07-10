@@ -203,17 +203,29 @@ newtab-privacy-empty = { -brand-short-name } bloca traciatores quando tu naviga.
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } bloca traciatores automaticamente quando tu naviga.
 newtab-privacy-message-info-1-cta = Vider protectiones
+newtab-privacy-message-info-2 = Blocada de traciatores adjuta stoppar companias de sequer te online.
 newtab-privacy-message-info-2-cta = Vider protectiones
+newtab-privacy-message-info-3 = Multe sitos ha traciatores, assi companias que tu ha jammais visitate pote sequer te online.
 newtab-privacy-message-info-3-cta = Vider protectiones
+newtab-privacy-message-info-4 = Eliger { -brand-short-name } significa eliger protection de ordinario.
 newtab-privacy-message-info-4-cta = Vider protectiones
+newtab-privacy-message-info-5 = Traciatores blocate significa que minus companias pote sequer te a transverso le sitos.
 newtab-privacy-message-info-5-cta = Vider protectiones
+newtab-privacy-message-info-6 = Mantene tu datos secur con { -brand-short-name }. Nos jammais los vende, ma altere navigatores poterea.
 newtab-privacy-message-info-6-cta = Pro saper plus
+newtab-privacy-message-info-7 = Vide que traciatores { -brand-short-name } ha essite blocate.
 newtab-privacy-message-info-7-cta = Vider protectiones
+newtab-privacy-message-info-8 = Navigar con { -brand-short-name } supporta le mission de { -vendor-short-name } pro construer un web melior.
 newtab-privacy-message-info-8-cta = Pro saper plus
+newtab-privacy-message-info-9 = Face de { -brand-short-name } tu navigator predefinite pro le confidentialitate integrate.
 newtab-privacy-message-info-9-cta = Predefinir
+newtab-privacy-message-info-10 = Salva contrasignos in { -brand-short-name } pro usar ubique credentiales forte e unic.
 newtab-privacy-message-info-10-cta = Va al contrasignos
+newtab-privacy-message-info-11 = Discoperi como { -brand-short-name } adjuta mantener tu navigation plus private.
 newtab-privacy-message-info-11-cta = Pro saper plus
+newtab-privacy-message-info-12 = Blocar traciatores pote adjutar a sparnia le largessa de banda sur planos datos limitate.
 newtab-privacy-message-info-12-cta = Vider protectiones
 newtab-privacy-message-info-13-cta = Vider protectiones
 
