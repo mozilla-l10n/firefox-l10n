@@ -225,16 +225,36 @@ newtab-privacy-message-info-10 = Speichern Sie Passwörter in { -brand-short-nam
 newtab-privacy-message-info-10-cta = Zu den Passwörtern
 newtab-privacy-message-info-11 = Erfahren Sie, wie { -brand-short-name } dazu beiträgt, Ihr Surfen privater zu halten.
 newtab-privacy-message-info-11-cta = Weitere Informationen
+newtab-privacy-message-info-12 = Das Blockieren von Trackern kann dazu beitragen, Bandbreite bei Plänen mit begrenztem Datenvolumen zu sparen.
+newtab-privacy-message-info-12-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-13 = { -brand-short-name } blockiert Tracker und gibt so Bandbreite für flüssigeres Streaming frei.
+newtab-privacy-message-info-13-cta = Schutzmaßnahmen anzeigen
 
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Finden Sie heraus, ob Ihre persönlichen Daten von einem Datenleck betroffen sind.
+newtab-privacy-message-promo-monitor-1-cta = Weitere Informationen
 newtab-privacy-message-promo-monitor-2 = Schützen Sie Ihre Daten mit kostenloser Überwachung von Datenlecks für bis zu 20 E-Mail-Adressen.
 newtab-privacy-message-promo-monitor-2-cta = Weitere Informationen
 newtab-privacy-message-promo-signin-1 = Schützen Sie Lesezeichen, Passwörter und Tabs mit Ihrem { -vendor-short-name }-Konto Geräte übergreifend.
 newtab-privacy-message-promo-signin-1-cta = Anmelden
+newtab-privacy-message-promo-vpn-1 = Einkaufen über öffentliches WLAN? Aktivieren Sie das integrierte VPN für zusätzlichen Schutz.
+newtab-privacy-message-promo-vpn-1-cta = VPN öffnen
+newtab-privacy-message-promo-vpn-2 = Verwenden Sie das WLAN am Flughafen? Schützen Sie Ihr Surfen, indem Sie das integrierte VPN aktivieren.
+newtab-privacy-message-promo-vpn-2-cta = VPN öffnen
+newtab-privacy-message-promo-vpn-3 = Aktivieren Sie das integrierte VPN, um Ihren Standort besser zu schützen.
+newtab-privacy-message-promo-vpn-3-cta = VPN öffnen
+newtab-privacy-message-promo-private-window-1 = Probieren Sie ein privates Fenster aus, um auf einem gemeinsam genutzten Computer privater zu surfen.
+newtab-privacy-message-promo-private-window-1-cta = Privates Fenster öffnen
+newtab-privacy-message-promo-relay-1 = Reservieren Sie Ihre echte E-Mail-Adresse für Menschen, denen Sie vertrauen; Verwenden Sie eine E-Mail-Maske für Anmeldungen.
+newtab-privacy-message-promo-relay-1-cta = E-Mail-Masken
+newtab-privacy-message-promo-relay-2 = Schützen Sie Ihren Posteingang mit kostenloser E-Mail-Maskierung vor Spam.
+newtab-privacy-message-promo-relay-2-cta = E-Mail-Masken
+newtab-privacy-message-promo-relay-3 = Holen Sie sich 50 kostenlose E-Mail-Masken, um Ihre echte E-Mail-Adresse privat zu halten.
+newtab-privacy-message-promo-relay-3-cta = E-Mail-Masken
 
 ## Strings for the Stocks widget
 
