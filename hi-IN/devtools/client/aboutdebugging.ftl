@@ -20,6 +20,10 @@ about-debugging-page-title-runtime-page = डिबगिंग - रनटा�
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = यह { -brand-shorter-name }
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = सेटअप
+about-debugging-sidebar-setup-title =
+    .title = सेटअप
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
