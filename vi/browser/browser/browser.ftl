@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Xóa khỏi lịch sử
     .accesskey = R
 urlbar-result-menu-tip-get-help2 = Nhận trợ giúp
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Bỏ qua đề xuất này
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = Quản lý { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Báo cáo vị trí không chính xác
+urlbar-result-menu-show-less-frequently2 = Hiển thị ít thường xuyên hơn
+urlbar-result-menu-dont-show-weather-suggestions2 = Không hiển thị đề xuất về thời tiết
 urlbar-result-menu-learn-more =
     .label = Tìm hiểu thêm
     .accesskey = L
@@ -951,6 +963,9 @@ urlbar-result-realtime-opt-in-allow = Hiển thị đề xuất
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Không phải bây giờ
 urlbar-result-realtime-opt-in-dismiss = Bỏ qua
+urlbar-result-realtime-opt-in-dismiss-all2 = Không hiển thị những đề xuất này
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Không hiển thị đề xuất thị trường
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Không hiển thị những đề xuất này
 # This string is shown in the result menu.
@@ -1125,6 +1140,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Đang thịnh hành trên { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Không hiển thị các tìm kiếm thịnh hành
+    .accesskey = K
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Được tài trợ
