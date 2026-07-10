@@ -312,10 +312,15 @@ newtab-privacy-message-first-protection-cta = Beskermingen besjen
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Tickersymboalen trochsykje
-# Context menu item that hides the Stocks widget.
-newtab-stocks-menu-hide = Oandielen ferstopje
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Mear ynfo
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
 
 ## Strings for the Picture of the Day widget
 
