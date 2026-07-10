@@ -195,6 +195,8 @@ urlbar-result-menu-button =
     .title = Abrir menu
 urlbar-result-menu-button-feedback = Feedback
     .title = Abrir menu
+urlbar-result-menu-learn-more2 = Saber mais
+    .accesskey = S
 urlbar-result-menu-learn-more =
     .label = Saber mais
     .accesskey = S
@@ -862,6 +864,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Perguntar
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
