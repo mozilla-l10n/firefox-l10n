@@ -188,8 +188,8 @@ newtab-privacy-trackers-blocked-today =
 #   $count (number) - Number of sites where trackers were blocked
 newtab-privacy-across-sites =
     { $count ->
-        [one] Sur { $count } du site
-       *[other] Sur { $count } sites
+        [one] Sur { $count } site
+       *[other] Sur { $count } sites
     }
 
 ## Privacy widget — empty state
@@ -204,9 +204,9 @@ newtab-privacy-empty = { -brand-short-name } bloque les traqueurs pendant que vo
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-1 = { -brand-short-name } bloque automatiquement les traqueurs pendant que vous naviguez.
-newtab-privacy-message-info-1-cta = Afficher les protections
-newtab-privacy-message-info-2 = Le blocage des traqueurs empêche les entreprises de vous suivre en ligne.
-newtab-privacy-message-info-2-cta = Afficher les protections
+newtab-privacy-message-info-1-cta = Voir les protections
+newtab-privacy-message-info-2 = Le blocage des traqueurs empêche les entreprises de vous pister en ligne.
+newtab-privacy-message-info-2-cta = Voir les protections
 newtab-privacy-message-info-3 = De nombreux sites disposent de traqueurs afin que les entreprises que vous n’avez jamais visitées puissent vous suivre en ligne.
 newtab-privacy-message-info-3-cta = Afficher les protections
 newtab-privacy-message-info-4 = Si vous choisissez { -brand-short-name }, vous choisissez la protection par défaut.
