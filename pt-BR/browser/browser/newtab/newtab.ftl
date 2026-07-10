@@ -249,6 +249,10 @@ newtab-privacy-message-promo-vpn-3 = Ative a VPN integrada para ajudar a protege
 newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
 newtab-privacy-message-promo-private-window-1 = Abra uma janela privativa para navegar com mais privacidade ao usar um computador compartilhado.
 newtab-privacy-message-promo-private-window-1-cta = Abrir janela privativa
+newtab-privacy-message-promo-relay-1 = Reserve seu endereço de email verdadeiro para quem você confia, use uma máscara de email ao se cadastrar em contas e listas de discussão.
+newtab-privacy-message-promo-relay-1-cta = Obtenha máscaras
+newtab-privacy-message-promo-relay-2 = Proteja sua caixa de entrada de spam com máscaras de email gratuitas.
+newtab-privacy-message-promo-relay-2-cta = Obtenha máscaras
 
 ## Strings for the Stocks widget
 
