@@ -281,20 +281,20 @@ newtab-privacy-message-milestone-month-cta = Voir les protections
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year =
     { $count ->
-        [one] { $count } traqueur bloqué cette année. Nous vivons une année importante au niveau de la protection de votre vie privée.
-       *[other] { $count } traqueurs bloqués cette année. Nous vivons une année importante au niveau de la protection de votre vie privée.
+        [one] { $count } traqueur bloqué cette année. Une année remarquable pour la protection de votre vie privée.
+       *[other] { $count } traqueurs bloqués cette année. Une année remarquable pour la protection de votre vie privée.
     }
 newtab-privacy-message-milestone-year-cta = Voir les protections
 # Variables:
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
     { $count ->
-        [one] { $count } traqueur bloqué. C’est un progrès majeur vers le respect de la vie privée à vos conditions.
-       *[other] { $count } traqueurs bloqués. C’est un progrès majeur vers le respect de la vie privée à vos conditions.
+        [one] { $count } traqueur bloqué. Voilà une avancée importante pour protéger votre vie privée selon vos propres règles.
+       *[other] { $count } traqueurs bloqués. Voilà une avancée importante pour protéger votre vie privée selon vos propres règles.
     }
 newtab-privacy-message-milestone-total-cta = Voir les protections
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
-newtab-privacy-message-daily-cap = (Plus de 100 traqueurs bloqués aujourd’hui.) Moins de traqueurs, c’est plus de respect de la vie privée.
+newtab-privacy-message-daily-cap = (Plus de 100 traqueurs bloqués aujourd’hui.) Moins de traqueurs, plus de confidentialité.
 newtab-privacy-message-daily-cap-cta = Voir les protections
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -1494,7 +1494,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Aidez-nous à améliorer les widgets
 newtab-sports-widget-message-survey-body = La Coupe du monde est terminée. Donnez-nous votre avis sur votre expérience.
 newtab-sports-widget-message-survey-widget-title = Qu’avez-vous pensé du widget Coupe du monde ?
-newtab-sports-widget-message-survey-widget-body = Faites-nous part de votre avis pour nous aider à améliorer nos futurs widgets. Essayez ensuite le nouveau module.
+newtab-sports-widget-message-survey-widget-body = Faites-nous part de votre avis pour nous aider à améliorer nos futurs widgets. Essayez ensuite un nouveau widget.
 newtab-sports-widget-message-survey-cta =
     .label = Participer au sondage
 

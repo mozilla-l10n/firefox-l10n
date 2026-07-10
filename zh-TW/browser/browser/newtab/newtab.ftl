@@ -216,6 +216,7 @@ newtab-privacy-message-info-9-cta = 設為預設瀏覽器
 newtab-privacy-message-info-10 = 將密碼儲存在 { -brand-short-name } 即可任何網站都使用強大、不重複的登入資訊。
 newtab-privacy-message-info-10-cta = 前往密碼
 newtab-privacy-message-info-11-cta = 更多資訊
+newtab-privacy-message-info-12 = 若您並非使用吃到飽網路，封鎖追蹤器也可幫助節省頻寬。
 newtab-privacy-message-info-12-cta = 檢視保護成果
 newtab-privacy-message-info-13-cta = 檢視保護成果
 
