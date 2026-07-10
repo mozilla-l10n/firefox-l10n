@@ -24,20 +24,20 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
-ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN mewnol { -brand-product-name }
-ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
+ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
+ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
-ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
-ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN mewnol { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
+ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
+ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o blith nifer o leoliadau i guddio lle rydych chi'n pori.
 ipprotection-feature-introduction-text-summer-promo-1 = Trowch ef ymlaen i gadw'ch pori yn fwy preifat. <a data-l10n-name="summer-promo-link">Cael lled band diderfyn</a> a mwy o leoliadau i bori ynddyn nhw. Nawr tan Awst 31.
 ipprotection-feature-introduction-title-summer-promo = Oes gennych chi gynlluniau teithio? Ewch â phreifatrwydd gyda chi.
-ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN mewnol { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
-ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
+ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN cynhenid { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Used for callout shown on login to public wi-fi through a captive portal
-ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN mewnol { -brand-product-name }.
+ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o sawl lleoliad i guddio o lle rydych chi'n pori.
@@ -63,14 +63,14 @@ ipprotection-site-settings-callout-button = Iawn
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Newydd: Newidiwch eich lleoliad
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mae VPN mewnol{ -brand-product-name }</a> yn gadael i chi ddewis o sawl lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Mae VPN cynhenid { -brand-product-name }</a> yn gadael i chi ddewis o sawl lleoliad pori, neu gadewch i ni ddewis yr un cyflymaf.
 ipprotection-location-selection-callout-primary-button = Rhowch gynnig arni
 ipprotection-location-selection-callout-secondary-button = Cau
 
 ## Panel
 
 # Also used for the callout shown in private browsing
-unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
+unauthenticated-vpn-title = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-private-location-message = Yn helpu <a data-l10n-name="learn-more-vpn"> i gadw'ch lleoliad yn breifat</a> yn { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Dewiswch o sawl lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
@@ -171,14 +171,14 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-name } yn cofio pa wefannau rydych chi wedi'u gosod i ddefnyddio'r VPN. Diweddarwch y rhain yn y  <a data-l10n-name="setting-link">gosodiadau</a> ar unrhyw bryd.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Mae'r VPN i ffwrdd ar y wefan hon
 ipprotection-open-button = Agor { -brand-product-name }
-ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN mewnol
+ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN cynhenid
 ipprotection-message-body-hide-location = Cuddiwch eich lleoliad pan fyddwch yn pori yn { -brand-product-name } am fwy o breifatrwydd a rheolaeth.
 ipprotection-connection-status-generic-error-title-1 = Methu cysylltu â'r VPN
     .aria-label = Methu cysylltu â'r VPN
 
 ## IP Protection bandwidth callouts
 
-ipprotection-bandwidth-upgrade-title = Yn hoffi'r VPN mewnol? Beth am gael rhagor o ddiogelwch tu allan i { -brand-product-name } gyda { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-title = Yn hoffi'r VPN cynhenid? Beth am gael rhagor o ddiogelwch tu allan i { -brand-product-name } gyda { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Dewiswch leoliad y VPN ac ychwanegu diogelwch i'ch holl apiau at hyd at 5 dyfais, p'un os ydych gartref neu ar Wi-Fi cyhoeddus.
 
 ## IP Protection bandwidth warning infobar
@@ -199,13 +199,13 @@ ip-protection-description =
     .label = VPN
     .description = VPN mewnol i wella eich preifatrwydd wrth bori ar { -brand-short-name }.
 ip-protection-description-1 =
-    .label = VPN mewnol
+    .label = VPN cynhenid
     .description = Cael preifatrwydd ychwanegol drwy guddio'ch lleoliad wrth bori
 ip-protection-learn-more = Dysgu rhagor
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
-    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
+    .heading = Rhowch gynnig ar VPN cynhenid { -brand-short-name }
     .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad.
 ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:

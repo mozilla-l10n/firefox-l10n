@@ -62,14 +62,32 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = 此功能为实验功能，可能无法按预期工作。
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = 无效
+customkeys-shortcut-unassigned =
+    .placeholder = 添加快捷键
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = { $keyLabel }快捷键
+customkeys-key-edit =
+    .aria-label = 编辑
+    .tooltiptext = 编辑
 customkeys-key-clear =
     .aria-label = 清空
     .tooltiptext = 清空
+customkeys-key-reset =
+    .aria-label = 还原
+    .tooltiptext = 还原
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = 按下新的键：
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = 要移除另一快捷键吗？
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = 此键已由“{ $conflict }”使用。
 
 ## Sidebar
 

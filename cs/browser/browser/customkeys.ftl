@@ -85,8 +85,13 @@ customkeys-key-new =
 ## Confirmation dialogs
 
 customkeys-conflict-confirm-title = Odstranit další zkratku?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Tuto klávesu již používá zkratka pro „{ $conflict }“.
 customkeys-conflict-confirm-button-confirm = Přesto použít
 customkeys-conflict-confirm-button-cancel = Zrušit
+customkeys-reset-all-confirm-title = Obnovit výchozí hodnoty?
+customkeys-reset-all-confirm-body = Všechny vlastní klávesové zkratky, které jste vytvořili, budou odstraněny.
 customkeys-reset-all-confirm-button-confirm = Obnovit výchozí
 customkeys-reset-all-confirm-button-cancel = Zrušit
 
@@ -100,5 +105,10 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Vyhledat zkratky
     .placeholder = Vyhledat zkratky
+customkeys-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Přizpůsobte si, jak se pohybujete ve { -brand-short-name(case: "loc") } a jak ho ovládáte.
+       *[no-cases] Přizpůsobte si, jak se pohybujete v aplikaci { -brand-short-name } a jak ji ovládáte.
+    }
 customkeys-support-link-text = Zjistit více
 customkeys-reset-all-button = Obnovit výchozí

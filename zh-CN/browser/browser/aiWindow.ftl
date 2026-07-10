@@ -22,6 +22,7 @@ menu-history-chats =
 menu-history-chats-recent =
     .label = 近期聊天
 smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = 新建标签页
 
 ## Smart Window Toggle Button
 
@@ -50,6 +51,7 @@ ai-window-toggleview-status-label-inactive = 经典窗口
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = 询问
+aiwindow-input-cta-submit-label-navigate = 前往
 aiwindow-input-cta-submit-label-search = 搜索
 aiwindow-input-cta-submit-label-stop = 停止
 # Text announced to screen readers when response generation starts.
@@ -70,6 +72,29 @@ smartbar-placeholder =
 smartbar-placeholder-hint-1 = 使用 @ 可指定近期标签页…
 smartbar-placeholder-hint-2 = 问点什么…
 smartbar-placeholder-hint-3 = 输入网址…
+smartbar-placeholder-hint-4 = 网上搜索…
+
+## Mentions
+
+smartbar-mentions-list-no-results-label = 未找到结果
+smartbar-mentions-list-recent-tabs-label = 近期标签页
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = 添加标签页或网站
+    .tooltiptext = 添加标签页或网站
+
+## Website Chip
+
+aiwindow-website-chip-history-deleted = 已删除历史记录
+aiwindow-website-chip-remove-button =
+    .aria-label = 移除
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = 欢迎使用{ -smart-window-brand-name }
+aiwindow-firstrun-model-title = 您侧重于哪一需求？
 
 ## Firstrun set as default onboarding
 

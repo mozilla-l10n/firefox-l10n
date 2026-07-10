@@ -2726,7 +2726,7 @@ security-privacy-status-trackers-label =
        *[other] { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
-security-privacy-status-strict-enabled-label = Mae gennych <a data-l10n-name="strict-tracking-protection">diogelwch llym</a>
+security-privacy-status-strict-enabled-label = Mae gennych <a data-l10n-name="strict-tracking-protection">ddiogelwch llym</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Mae gennych <a data-l10n-name="custom-tracking-protection">diogelwch cyfaddas</a>
 security-privacy-status-up-to-date-label = Mae gennych y fersiwn diweddaraf, mwyaf diogel o { -brand-short-name }

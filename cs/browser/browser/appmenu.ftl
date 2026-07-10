@@ -243,6 +243,11 @@ profiler-popup-presets-networking-description =
     }
 profiler-popup-presets-networking-label =
     .label = Síť
+profiler-popup-presets-networking-with-logs-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění síťových chyb ve { -brand-shorter-name(case: "gen") }, včetně síťových protokolů. Tyto protokoly mohou obsahovat citlivé informace, jako jsou například adresy URL, které navštěvujete.
+       *[no-cases] Doporučené nastavení pro ladění síťových chyb v aplikaci { -brand-shorter-name }, včetně síťových protokolů. Tyto protokoly mohou obsahovat citlivé informace, jako jsou například adresy URL, které navštěvujete.
+    }
 profiler-popup-presets-power-description =
     { -brand-shorter-name.case-status ->
         [with-cases] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
@@ -347,9 +352,12 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Přihlaste se do svého účtu
+appmenuitem-monitor-title2 = Buďte o krok napřed před krádežemi identity
+appmenuitem-monitor-description2 = Nechte se upozornit na úniky dat
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dostávejte upozornění na úniky dat
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Udržujte svůj e-mail v soukromí
 appmenuitem-relay-description = Zamaskujte svůj skutečný e-mail a telefon
 appmenuitem-services-relay-description = Spustit nástěnku e-mailových masek
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }

@@ -202,6 +202,11 @@ firefoxview-chat-date-yesterday = Wčera – { DATETIME($date, dateStyle: "full"
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Wróćo k wašim chatam
+firefoxview-chats-empty-description = Dokelž { -smart-window-brand-name } wužiwaće, so waše chaty tu składuja.
+
 ## Count displayed in fxview chat search results
 
 
@@ -215,6 +220,12 @@ firefoxview-search-chat-results-count =
         [few] { $count } chaty
        *[other] { $count } chatow
     }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Historija přehladowanja, sćehnjenjow a chatow
+    .accesskey = H
 
 ## Natural Language Interactions
 
