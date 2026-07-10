@@ -76,6 +76,15 @@ options-webconsole-split-console-label = Ativar console separado
 options-webconsole-split-console-tooltip =
     .title = Abrir console separado com a tecla Esc
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor de rede
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Tamanho máximo do corpo de requisições e respostas (defina como 0 para ilimitado):
+options-netmonitor-body-limit-tooltip =
+    .title = Corpos de requisições ou respostas que excedem o tamanho especificado são truncados quando exibidos ou baixados no monitor de rede. Defina como 0 para não ter limite.
+
 ## Style Editor section
 
 # The heading
