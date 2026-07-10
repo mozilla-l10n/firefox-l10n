@@ -893,11 +893,6 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонсорова
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Запитати
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1311,10 +1306,6 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Поділитися
     .tooltiptext = Поділитися цією сторінкою
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1773,6 +1764,3 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> елементи стеження заблоковано на цьому сайті
        *[many] <span data-l10n-name="count">{ $count }</span> елементів стеження заблоковано на цьому сайті
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

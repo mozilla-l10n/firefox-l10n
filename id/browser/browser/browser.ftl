@@ -652,9 +652,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Nonaktifkan perlindungan berbagi untuk sesi ini.
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Untuk menggunakan pintasan F12, pertama-tama, buka DevTools melalui menu Alat Peramban.
@@ -845,11 +842,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -994,9 +986,6 @@ urlbar-result-action-switch-to-tabgroup = Beralih ke { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Buka { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -1206,10 +1195,6 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Jendela Mode Pribadi Baru
     .tooltiptext = Buka jendela Penjelajahan Pribadi baru ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1576,6 +1561,3 @@ trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } memblokir {
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penambang mata uang kripto
 trustpanel-cryptominer-tab-list-header = Situs-situs berikut mencoba untuk melakukan penambangan kripto:
 trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> Pelacak diblokir di situs ini
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

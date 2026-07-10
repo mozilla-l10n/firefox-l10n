@@ -659,9 +659,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Mjete Shfletuesi.
@@ -863,11 +860,6 @@ urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pyetni
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1027,9 +1019,6 @@ urlbar-result-action-switch-to-tabgroup = Kalo te { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Hap { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -1713,6 +1702,3 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Gjurmues i bllokuar në këtë sajt
        *[other] <span data-l10n-name="count">{ $count }</span> Gjurmues të bllokuar në këtë sajt
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

@@ -665,9 +665,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilisar la cumbinaziun da tastas F12, l'emprim avrir ils utensils per sviluppaders via il menu «Utensils dal navigatur».
@@ -869,11 +866,6 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dumandar
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1034,9 +1026,6 @@ urlbar-result-action-switch-to-tabgroup = Midar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avrir { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -1721,6 +1710,3 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
        *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

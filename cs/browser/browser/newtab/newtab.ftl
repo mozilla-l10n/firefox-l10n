@@ -184,8 +184,8 @@ newtab-stocks-menu-learn-more = Zjistit více
 
 ## Strings for the Picture of the Day widget
 
-# Eyebrow shown at the top of the widget. Wikimedia Commons is a brand name and
-# should not be translated.
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Obrázek dne · Wikimedia Commons
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Zjistit více

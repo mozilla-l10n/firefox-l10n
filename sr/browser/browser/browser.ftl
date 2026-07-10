@@ -908,11 +908,6 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонзориса
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Питај
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 

@@ -489,9 +489,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Išjungti dalinimosi apsaugą šiam seansui
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
@@ -608,18 +605,6 @@ urlbar-result-action-copy-to-clipboard = Kopijuoti
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -648,9 +633,6 @@ urlbar-result-action-search-bookmarks = Ieškoti adresyne
 urlbar-result-action-search-history = Ieškoti žurnale
 urlbar-result-action-search-tabs = Ieškoti kortelėse
 urlbar-result-action-search-actions = Paieškos veiksmai
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -831,10 +813,6 @@ toolbar-button-new-private-window =
     .label = Naujas privataus naršymo langas
     .tooltiptext = Atverti naują privačiojo naršymo langą ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Dalis šios svetainės garsinio ar vaizdinio turinio naudoja skaitmeninių teisių apsaugos (DRM) programinę įrangą, o tai gali riboti kokius veiksmus „{ -brand-short-name }“ gali leisti jums atlikti.
@@ -930,17 +908,11 @@ tabs-toolbar-list-all-tabs =
     .label = Pateikti visas korteles
     .tooltiptext = Pateikti visas korteles
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Atverti ankstesnes korteles?</strong> Galite atkurti savo ankstesnį seansą iš „{ -brand-short-name }“ programos meniu <img data-l10n-name="icon"/>, iš žurnalo.
 restore-session-startup-suggestion-button = Parodyti instrukciją
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -966,14 +938,6 @@ unified-extensions-button-permissions-needed =
         Priedai
         Reikia leidimų
 
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -995,9 +959,6 @@ refresh-blocked-redirect-label = „{ -brand-short-name }“ neleido šiam tinkl
 refresh-blocked-allow =
     .label = Leisti
     .accesskey = L
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -1039,29 +1000,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Rodyti „{ $popupURI }“
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

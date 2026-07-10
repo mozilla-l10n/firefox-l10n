@@ -658,9 +658,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
@@ -1018,9 +1015,6 @@ urlbar-result-action-switch-to-tabgroup = Превключване към { $gro
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Отваряне на { $group }
 
-## Used in the context menu in urlbar view.
-
-
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1229,10 +1223,6 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Поверителен прозорец
     .tooltiptext = Отваряне на поверителен прозорец ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1669,6 +1659,3 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> проследяващ скрипт е блокиран на този сайт.
        *[other] <span data-l10n-name="count">{ $count }</span> проследяващи скриптове са блокирани на този сайт.
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

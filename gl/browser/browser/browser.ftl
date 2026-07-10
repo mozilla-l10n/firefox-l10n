@@ -645,9 +645,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar o atallo F12 abra primeiro as ferramentas de desenvolvemento mediante o menú de ferramentas do navegador.
@@ -838,11 +835,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -954,9 +946,6 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -1166,10 +1155,6 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nova xanela privada
     .tooltiptext = Abrir unha nova xanela de navegación privada ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1485,9 +1470,6 @@ trustpanel-blocker-see-all = Ver todo
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
 
-## The urlbar trust icon & panel
-
-
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1571,6 +1553,3 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitiu { $count } criptomineiros
     }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

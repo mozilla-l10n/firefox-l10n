@@ -671,9 +671,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deaktiviraj zaštitu dijeljenja za ovu sesiju
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Za korištenje prečaca F12 najprije otvori programerske alate putem izbornika „Alati”.
@@ -874,11 +871,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pitaj
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

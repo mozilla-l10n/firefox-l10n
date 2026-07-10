@@ -672,9 +672,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice innealan a’ bhrabhsair.
@@ -876,11 +873,6 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsairichte
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Faighnich
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1046,9 +1038,6 @@ urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
-
-## Used in the context menu in urlbar view.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -1768,6 +1757,3 @@ trustpanel-blocker-section-header2 =
         [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
        *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
     }
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-
