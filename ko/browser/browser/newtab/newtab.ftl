@@ -162,6 +162,80 @@ home-prefs-mission-message-learn-more-link-srd = 방법 알아보기
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 더 알아보기
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today = 오늘 차단된 추적기
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites = { $count }개 사이트에서
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name }는 탐색할 때 추적기를 차단합니다. 여기서 볼 수 있습니다.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name }는 탐색할 때 자동으로 추적기를 차단합니다.
+newtab-privacy-message-info-1-cta = 보호 기능 보기
+newtab-privacy-message-info-2 = 추적기 차단은 기업이 온라인에서 사용자를 추적하는 것을 방지하는 데 도움이 됩니다.
+newtab-privacy-message-info-2-cta = 보호 기능 보기
+newtab-privacy-message-info-3 = 많은 사이트에 추적기가 있어 사용자가 방문한 적이 없는 회사가 온라인에서 사용자를 추적할 수 있습니다.
+newtab-privacy-message-info-3-cta = 보호 기능 보기
+newtab-privacy-message-info-4 = { -brand-short-name }를 선택하면 보호 기능이 기본적으로 선택됩니다.
+newtab-privacy-message-info-4-cta = 보호 기능 보기
+newtab-privacy-message-info-5 = 추적기를 차단한다는 것은 여러 사이트에서 사용자를 팔로우할 수 있는 기업이 줄어 든다는 것을 의미합니다.
+newtab-privacy-message-info-5-cta = 보호 기능 보기
+newtab-privacy-message-info-6 = 당신의 데이터를 { -brand-short-name }로 유지하세요. 절대 판매하지 않지만, 다른 브라우저에서는 판매할 수 있습니다.
+newtab-privacy-message-info-6-cta = 더 알아보기
+newtab-privacy-message-info-7 = { -brand-short-name }가 어떤 추적기를 차단했는지 확인하세요.
+newtab-privacy-message-info-7-cta = 보호 기능 보기
+newtab-privacy-message-info-8 = { -brand-short-name }로 탐색하는 것은 더 나은 웹을 구축하는 { -vendor-short-name }의 사명을 지원합니다.
+newtab-privacy-message-info-8-cta = 더 알아보기
+newtab-privacy-message-info-9 = 개인 정보 보호를 위해 { -brand-short-name }를 기본 브라우저로 설정하세요.
+newtab-privacy-message-info-9-cta = 기본 브라우저로
+newtab-privacy-message-info-10 = 어디서나 강력하고 고유한 로그인을 사용하려면 비밀번호를 { -brand-short-name }에 저장하세요.
+newtab-privacy-message-info-10-cta = 비밀번호로 이동
+newtab-privacy-message-info-11 = { -brand-short-name }가 어떻게 개인 정보 보호 탐색을 돕는지 알아보세요.
+newtab-privacy-message-info-11-cta = 더 알아보기
+newtab-privacy-message-info-12 = 추적기를 차단하면 제한된 데이터 요금제에 대한 대역폭을 절약하는데 도움이 될 수 있습니다.
+newtab-privacy-message-info-12-cta = 보호 기능 보기
+newtab-privacy-message-info-13 = { -brand-short-name }는 추적기를 차단하고, 더 원활한 스트리밍을 위해 대역폭을 확보합니다.
+newtab-privacy-message-info-13-cta = 보호 기능 보기
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = 데이터 유출 사례에서 개인 정보가 표시되는지 확인하세요.
+newtab-privacy-message-promo-monitor-1-cta = 더 알아보기
+newtab-privacy-message-promo-monitor-2 = 최대 20개의 이메일에 대한 무료 데이터 유출 모니터링을 통해 정보를 보호하세요.
+newtab-privacy-message-promo-monitor-2-cta = 더 알아보기
+newtab-privacy-message-promo-signin-1 = { -vendor-short-name } 계정을 사용하여 여러 기기에서 북마크, 비밀번호 및 탭을 암호화하세요.
+newtab-privacy-message-promo-signin-1-cta = 로그인
+newtab-privacy-message-promo-vpn-1 = 공용 Wi-Fi에서 쇼핑하세요? 추가 보호를 위해 내장 VPN을 켜세요.
+newtab-privacy-message-promo-vpn-1-cta = VPN 열기
+newtab-privacy-message-promo-vpn-2 = 공항 Wi-Fi를 사용하세요? 내장 VPN을 켜서 탐색을 보호하세요.
+newtab-privacy-message-promo-vpn-2-cta = VPN 열기
+newtab-privacy-message-promo-vpn-3 = 내장 VPN을 켜서 위치를 보다 안전하게 보호하세요.
+newtab-privacy-message-promo-vpn-3-cta = VPN 열기
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
