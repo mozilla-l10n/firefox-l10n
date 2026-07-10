@@ -24,6 +24,10 @@ about-debugging-this-firefox-runtime-name = Този { -brand-shorter-name }
 about-debugging-sidebar-this-firefox2 = Този { -brand-shorter-name }
 about-debugging-sidebar-this-firefox-title =
     .title = Този { -brand-shorter-name }
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = Настройки
+about-debugging-sidebar-setup-title =
+    .title = Настройки
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
