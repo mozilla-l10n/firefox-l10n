@@ -20,6 +20,14 @@ about-debugging-page-title-runtime-page = Arazketa - Exekuzio-ingurunea / { $sel
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = { -brand-shorter-name } hau
+# Sidebar heading and title for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox2 = { -brand-shorter-name } hau
+about-debugging-sidebar-this-firefox-title =
+    .title = { -brand-shorter-name } hau
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = Konfigurazioa
+about-debugging-sidebar-setup-title =
+    .title = Konfigurazioa
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
