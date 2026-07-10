@@ -142,6 +142,18 @@ aiwindow-firstrun-memories-checkbox-browsing = Navegação no { -brand-product-n
 aiwindow-firstrun-memories-update-settings = Mude nas configurações quando quiser.
 aiwindow-firstrun-memories-no-create = Certo. O { -smart-window-brand-name } não criará memórias. Mude nas configurações quando quiser.
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Inicie sempre com o { -smart-window-brand-name }
+aiwindow-firstrun-default-subtitle = Navegue, pesquise e faça perguntas em um mesmo lugar. Você ainda pode abrir janelas privativas e clássicas quando quiser.
+aiwindow-firstrun-default-checkbox-label = Sempre abrir o { -brand-product-name } em { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Mude nas configurações quando quiser.
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Fazer uma pergunta
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =

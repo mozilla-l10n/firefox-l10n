@@ -166,6 +166,103 @@ home-prefs-mission-message-learn-more-link-srd = Lees hier hoe
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Meer info
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Trackers vandaag geblokkeerd
+       *[other] Trackers vandaag geblokkeerd
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Op { $count } website
+       *[other] Op { $count } websites
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokkeert trackers terwijl u surft. U ziet ze hier.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blokkeert trackers automatisch terwijl u surft.
+newtab-privacy-message-info-1-cta = Beschermingen bekijken
+newtab-privacy-message-info-2 = Het blokkeren van trackers helpt voorkomen dat bedrijven u online te volgen.
+newtab-privacy-message-info-2-cta = Beschermingen bekijken
+newtab-privacy-message-info-3 = Veel websites hebben trackers, zodat bedrijven die u nog nooit hebt bezocht u online kunnen volgen.
+newtab-privacy-message-info-3-cta = Beschermingen bekijken
+newtab-privacy-message-info-4 = Kiezen voor { -brand-short-name } betekent kiezen voor standaard bescherming.
+newtab-privacy-message-info-4-cta = Beschermingen bekijken
+newtab-privacy-message-info-5 = Geblokkeerde trackers betekent dat minder bedrijven u op websites kunnen volgen.
+newtab-privacy-message-info-5-cta = Beschermingen bekijken
+newtab-privacy-message-info-6 = Houd uw gegevens bij { -brand-short-name }. We verkopen ze nooit, maar andere browsers misschien wel.
+newtab-privacy-message-info-6-cta = Meer info
+newtab-privacy-message-info-7 = Bekijk welke trackers { -brand-short-name } heeft geblokkeerd.
+newtab-privacy-message-info-7-cta = Beschermingen bekijken
+newtab-privacy-message-info-8 = Navigeren met { -brand-short-name } ondersteunt de missie van { -vendor-short-name } om een beter web te bouwen.
+newtab-privacy-message-info-8-cta = Meer info
+newtab-privacy-message-info-9 = Maak van { -brand-short-name } uw favoriete browser voor ingebouwde privacy.
+newtab-privacy-message-info-9-cta = Standaard maken
+newtab-privacy-message-info-10 = Sla wachtwoorden op in { -brand-short-name } om overal sterke, unieke aanmeldingen te gebruiken.
+newtab-privacy-message-info-10-cta = Naar wachtwoorden
+newtab-privacy-message-info-11 = Ontdek hoe { -brand-short-name } helpt uw navigatie meer privé te houden.
+newtab-privacy-message-info-11-cta = Meer info
+newtab-privacy-message-info-12 = Het blokkeren van trackers kan helpen bandbreedte op abonnementen met beperkte data te besparen.
+newtab-privacy-message-info-12-cta = Beschermingen bekijken
+newtab-privacy-message-info-13 = { -brand-short-name } blokkeert trackers, wat bandbreedte vrijmaakt voor soepeler streamen.
+newtab-privacy-message-info-13-cta = Beschermingen bekijken
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Ontdek of uw persoonlijke gegevens voor komen in een datalek.
+newtab-privacy-message-promo-monitor-1-cta = Meer info
+newtab-privacy-message-promo-monitor-2 = Bescherm uw gegevens met gratis monitoring van datalekken, voor maximaal 20 e-mailadressen.
+newtab-privacy-message-promo-monitor-2-cta = Meer info
+newtab-privacy-message-promo-signin-1 = Houd bladwijzers, wachtwoorden en tabbladen op verschillende apparaten versleuteld met uw { -vendor-short-name }-account.
+newtab-privacy-message-promo-signin-1-cta = Aanmelden
+newtab-privacy-message-promo-vpn-1 = Winkelen via openbare wifi? Schakel ingebouwde VPN in voor extra bescherming.
+newtab-privacy-message-promo-vpn-1-cta = VPN openen
+newtab-privacy-message-promo-vpn-2 = Gebruikt u wifi op de luchthaven? Bescherm uw navigatie door ingebouwde VPN in te schakelen.
+newtab-privacy-message-promo-vpn-2-cta = VPN openen
+newtab-privacy-message-promo-vpn-3 = Schakel de ingebouwde VPN in om uw locatie meer privé te houden.
+newtab-privacy-message-promo-vpn-3-cta = VPN openen
+newtab-privacy-message-promo-private-window-1 = Probeer een privévenster om meer privé te navigeren wanneer u een gedeelde computer gebruikt.
+newtab-privacy-message-promo-private-window-1-cta = Privévenster openen
+newtab-privacy-message-promo-relay-1 = Bewaar uw echte e-mailadres voor mensen die u vertrouwt; gebruik een e-mailmasker voor registraties.
+newtab-privacy-message-promo-relay-1-cta = Maskers verkrijgen
+newtab-privacy-message-promo-relay-2 = Bescherm uw Postvak IN tegen spam met gratis e-mailmaskering.
+newtab-privacy-message-promo-relay-2-cta = Maskers verkrijgen
+newtab-privacy-message-promo-relay-3 = Ontvang 50 gratis e-mailmaskers om uw echte e-mailadres privé te houden.
+newtab-privacy-message-promo-relay-3-cta = Maskers verkrijgen
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Beschermingen bekijken
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
