@@ -219,6 +219,7 @@ newtab-privacy-message-promo-private-window-1-cta = Aperir fenestra private
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = Vider protectiones
 newtab-privacy-message-milestone-month-cta = Vider protectiones
 newtab-privacy-message-milestone-year-cta = Vider protectiones
 newtab-privacy-message-milestone-total-cta = Vider protectiones

@@ -172,6 +172,22 @@ newtab-privacy-menu-learn-more = 更多資訊
 ## has a body plus a matched "-cta" button label.
 
 newtab-privacy-message-promo-signin-1-cta = 登入
+newtab-privacy-message-promo-relay-1-cta = 獲得轉寄信箱
+newtab-privacy-message-promo-relay-2-cta = 獲得轉寄信箱
+newtab-privacy-message-promo-relay-3-cta = 獲得轉寄信箱
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = 檢視保護成果
+newtab-privacy-message-milestone-month-cta = 檢視保護成果
+newtab-privacy-message-milestone-year-cta = 檢視保護成果
+newtab-privacy-message-milestone-total-cta = 檢視保護成果
+newtab-privacy-message-daily-cap-cta = 檢視保護成果
+newtab-privacy-message-streak-cta = 檢視保護成果
+newtab-privacy-message-first-protection-cta = 檢視保護成果
 
 ## Strings for the Stocks widget
 
@@ -187,6 +203,18 @@ newtab-stocks-menu-learn-more = 更多資訊
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = 每日一圖 · 維基共享資源
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = 每日一圖
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = 檢視 { $license } 授權條款
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = 每日一圖選項
+    .aria-label = 每日一圖選項
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

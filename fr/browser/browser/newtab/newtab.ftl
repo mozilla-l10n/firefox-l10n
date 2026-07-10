@@ -226,9 +226,9 @@ newtab-privacy-message-info-10-cta = Accéder aux mots de passe
 newtab-privacy-message-info-11 = Découvrez comment { -brand-short-name } protège la confidentialité de votre navigation.
 newtab-privacy-message-info-11-cta = En savoir plus
 newtab-privacy-message-info-12 = Le blocage des traqueurs peut vous aider à économiser de la bande passante avec les forfaits de données limités.
-newtab-privacy-message-info-12-cta = Afficher les protections
+newtab-privacy-message-info-12-cta = Voir les protections
 newtab-privacy-message-info-13 = { -brand-short-name } bloque les traqueurs, libérant de la bande passante pour un streaming plus fluide.
-newtab-privacy-message-info-13-cta = Afficher les protections
+newtab-privacy-message-info-13-cta = Voir les protections
 
 ## Privacy widget — promotional messages
 ##
@@ -237,17 +237,17 @@ newtab-privacy-message-info-13-cta = Afficher les protections
 
 newtab-privacy-message-promo-monitor-1 = Vérifiez si vos informations personnelles apparaissent dans une fuite de données.
 newtab-privacy-message-promo-monitor-1-cta = En savoir plus
-newtab-privacy-message-promo-monitor-2 = Protégez vos informations grâce à la surveillance gratuite des fuites de données, pour 20 e-mails maximum.
+newtab-privacy-message-promo-monitor-2 = Protégez vos informations grâce à la surveillance gratuite des fuites de données, pour 20 adresses e-mail maximum.
 newtab-privacy-message-promo-monitor-2-cta = En savoir plus
 newtab-privacy-message-promo-signin-1 = Chiffrez vos marque-pages, mots de passe et onglets sur tous vos appareils grâce à votre compte { -vendor-short-name }.
-newtab-privacy-message-promo-signin-1-cta = Connexion
-newtab-privacy-message-promo-vpn-1 = Vous souhaitez acheter un réseau Wi-Fi public ? Activez le VPN intégré pour une protection supplémentaire.
+newtab-privacy-message-promo-signin-1-cta = Se connecter
+newtab-privacy-message-promo-vpn-1 = Vous effectuez des achats sur un réseau Wi-Fi public ? Activez le VPN intégré pour une protection supplémentaire.
 newtab-privacy-message-promo-vpn-1-cta = Ouvrir le VPN
 newtab-privacy-message-promo-vpn-2 = Vous utilisez le Wi-Fi de l’aéroport ? Protégez votre navigation en activant le VPN intégré.
 newtab-privacy-message-promo-vpn-2-cta = Ouvrir le VPN
 newtab-privacy-message-promo-vpn-3 = Activez le VPN intégré pour protéger votre localisation de façon plus sécurisée.
 newtab-privacy-message-promo-vpn-3-cta = Ouvrir le VPN
-newtab-privacy-message-promo-private-window-1 = Essayez une fenêtre privée pour naviguer de façon plus privée lorsque vous utilisez un ordinateur partagé.
+newtab-privacy-message-promo-private-window-1 = Ouvrez une fenêtre de navigation privée pour protéger votre confidentialité sur un ordinateur partagé.
 newtab-privacy-message-promo-private-window-1-cta = Ouvrir une fenêtre de navigation privée
 newtab-privacy-message-promo-relay-1 = Conserver votre véritable adresse électronique pour des personnes de confiance. utilisez un alias de messagerie pour les inscriptions.
 newtab-privacy-message-promo-relay-1-cta = Obtenir des alias
