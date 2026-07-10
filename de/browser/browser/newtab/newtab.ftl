@@ -256,6 +256,38 @@ newtab-privacy-message-promo-relay-2-cta = E-Mail-Masken
 newtab-privacy-message-promo-relay-3 = Holen Sie sich 50 kostenlose E-Mail-Masken, um Ihre echte E-Mail-Adresse privat zu halten.
 newtab-privacy-message-promo-relay-3-cta = E-Mail-Masken
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } Tracker blockiert in dieser Woche. Sehen Sie sich an, was { -brand-short-name } aus dem Weg räumt
+       *[other] { $count } Tracker blockiert in dieser Woche. Sehen Sie sich an, was { -brand-short-name } aus dem Weg räumt
+    }
+newtab-privacy-message-milestone-week-cta = Schutzmaßnahmen anzeigen
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } Tracker in diesem Monat blockiert. Ein kleiner Schritt in Richtung Privatsphäre. Ein großer Schritt zur Sicherheit.
+       *[other] { $count } Tracker in diesem Monat blockiert. Ein kleiner Schritt in Richtung Privatsphäre. Ein großer Schritt zur Sicherheit.
+    }
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Sie waren { $count } Tag in Folge geschützt.
+       *[other] Sie waren { $count } Tage in Folge geschützt.
+    }
+newtab-privacy-message-streak-cta = Schutzmaßnahmen anzeigen
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Surfen Sie weiter, { -brand-short-name } blockiert weiter Tracker.
+newtab-privacy-message-first-protection-cta = Schutzmaßnahmen anzeigen
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -270,6 +302,18 @@ newtab-stocks-menu-learn-more = Weitere Informationen
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Bild des Tages · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Bild des Tages
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = { $license }-Lizenz ansehen
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Optionen für Bild des Tages
+    .aria-label = Optionen für Bild des Tages
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

@@ -216,6 +216,7 @@ newtab-privacy-message-info-3-cta = Škity pokazać
 newtab-privacy-message-info-4-cta = Škity pokazać
 newtab-privacy-message-info-5-cta = Škity pokazać
 newtab-privacy-message-info-6-cta = Dalše informacije
+newtab-privacy-message-info-7 = Hladajće, kotre přesćěhowaki { -brand-short-name } je zablokował.
 newtab-privacy-message-info-7-cta = Škity pokazać
 newtab-privacy-message-info-8-cta = Dalše informacije
 newtab-privacy-message-info-9-cta = K standardej činić

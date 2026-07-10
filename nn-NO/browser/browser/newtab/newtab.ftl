@@ -166,6 +166,30 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut korleis
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les meir
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Les meir
+newtab-privacy-message-info-8-cta = Les meir
+newtab-privacy-message-info-9-cta = Bruk som standard
+newtab-privacy-message-info-10-cta = Gå til passord
+newtab-privacy-message-info-11-cta = Les meir
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Les meir
+newtab-privacy-message-promo-monitor-2-cta = Les meir
+newtab-privacy-message-promo-signin-1-cta = Logg inn
+newtab-privacy-message-promo-vpn-1-cta = Opne VPN
+newtab-privacy-message-promo-vpn-2-cta = Opne VPN
+newtab-privacy-message-promo-vpn-3-cta = Opne VPN
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -180,6 +204,8 @@ newtab-stocks-menu-learn-more = Les meir
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Dagens bilde · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Dagens bilde
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
