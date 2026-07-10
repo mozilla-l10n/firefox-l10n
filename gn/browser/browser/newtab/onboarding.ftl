@@ -603,6 +603,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } oĩta nendive
 
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } Jeporurã rape
 smartwindow-existing-user-fx-tou-accept = Moneĩ
 smartwindow-existing-user-fx-tou-go-back = Guevijey
 

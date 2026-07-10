@@ -224,6 +224,23 @@ newtab-privacy-message-promo-signin-1-cta = Eñemboheraguapy
 newtab-privacy-message-promo-vpn-1-cta = Embojuruja VPN
 newtab-privacy-message-promo-vpn-2-cta = Embojuruja VPN
 newtab-privacy-message-promo-vpn-3-cta = Embojuruja VPN
+newtab-privacy-message-promo-private-window-1-cta = Embojuruja ovetã ñemi
+newtab-privacy-message-promo-relay-1-cta = Erekóke jurumo’ãha
+newtab-privacy-message-promo-relay-2-cta = Erekóke jurumo’ãha
+newtab-privacy-message-promo-relay-3-cta = Erekóke jurumo’ãha
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-milestone-month-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-milestone-year-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-milestone-total-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-daily-cap-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-streak-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-first-protection-cta = Ehecha ñemo’ãrã
 
 ## Strings for the Stocks widget
 
@@ -239,6 +256,18 @@ newtab-stocks-menu-learn-more = Eikuaave
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Picture of the day · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Ta’ãnga araguáva
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Ehecha moneĩha { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Ta’ãnga aragua poravorã
+    .aria-label = Ta’ãnga aragua poravorã
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

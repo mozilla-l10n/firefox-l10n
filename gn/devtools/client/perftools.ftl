@@ -175,6 +175,7 @@ perftools-presets-ml-label = Kuaarã Ijeheguíva
 perftools-presets-ml-description2 = Oĩva ohapykuereka hag̃ua kuaarã ijeheguíva jejavy { -brand-shorter-name } ndive.
 perftools-presets-networking-label = Pyha
 perftools-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuái { -brand-shorter-name }-pe.
+perftools-presets-networking-with-logs-label = Pyha haipy ndive
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Tendyry
 perftools-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry ndoikóirõ eiporukuévo { -brand-shorter-name }.

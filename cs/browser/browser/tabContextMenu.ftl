@@ -27,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Duplikovat panel
     .accesskey = D
+duplicate-tab2 =
+    .label = Duplikovat
+    .accesskey = D
 duplicate-tabs =
     .label = Duplikovat panely
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duplikovat
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -76,9 +82,16 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Přidat panel do záložek…
     .accesskey = P
+# Context menu item used to bookmark 1 or more selected tabs
+tab-context-bookmark-tab2 =
+    .label = Přidat do záložek
+    .accesskey = P
 tab-context-open-in-new-container-tab =
     .label = Otevřít v novém kontejnerovém panelu
     .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = Otevřít v novém kontejnerovém panelu
+    .accesskey = k
 move-to-start =
     .label = Přesunout na začátek
     .accesskey = z
@@ -95,8 +108,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Zavřít několik panelů
     .accesskey = k
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Zavřít více
+    .accesskey = v
 tab-context-close-duplicate-tabs =
     .label = Zavřít duplicitní panely
+    .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Zavřít duplicity tohoto panelu
     .accesskey = u
 tab-context-share-url =
     .label = Sdílet
@@ -133,6 +153,16 @@ tab-context-close-n-tabs =
            *[other] Zavřít { $tabCount } panelů
         }
     .accesskey = Z
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Zavřít
+            [one] Zavřít { $tabCount } panel
+            [few] Zavřít { $tabCount } panely
+            [many] Zavřít { $tabCount } panelů
+           *[other] Zavřít { $tabCount } panelů
+        }
+    .accesskey = p
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -141,6 +171,21 @@ tab-context-move-tabs =
            *[other] Přesunout { $tabCount } panelů
         }
     .accesskey = s
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Přesunout panel do
+            [one] Přesunout { $tabCount } panel do
+            [few] Přesunout { $tabCount } panely do
+            [many] Přesunout { $tabCount } panelů do
+           *[other] Přesunout { $tabCount } panelů do
+        }
+    .accesskey = n
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Přesunout rozdělené zobrazení do
+    .accesskey = r
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -152,6 +197,9 @@ tab-context-send-to-device =
            *[other] Poslat { $tabCount } panelů do zařízení
         }
     .accesskey = n
+tab-context-send-to-device2 =
+    .label = Odeslat do vašich zařízení
+    .accesskey = O
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -184,4 +232,8 @@ tab-context-unload-n-tabs =
             [many] Uvolnit { $tabCount } panelů z paměti
            *[other] Uvolnit { $tabCount } panelů z paměti
         }
+    .accesskey = U
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Uvolnit
     .accesskey = U
