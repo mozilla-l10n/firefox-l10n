@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = הסרה מההיסטוריה
     .accesskey = ה
 urlbar-result-menu-tip-get-help2 = קבלת עזרה
     .accesskey = ע
+urlbar-result-menu-dismiss-suggestion2 = סגירה הצעה זו
+    .accesskey = ס
+urlbar-result-menu-manage-firefox-suggest2 = ניהול { -firefox-suggest-brand-name }
+    .accesskey = נ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = דיווח על מיקום לא מדויק
+urlbar-result-menu-show-less-frequently2 = להציג בתדירות נמוכה יותר
+urlbar-result-menu-dont-show-weather-suggestions2 = לא להציג הצעות מזג אוויר
 urlbar-result-menu-learn-more =
     .label = מידע נוסף
     .accesskey = מ
@@ -983,6 +995,9 @@ urlbar-result-realtime-opt-in-allow = הצגת הצעות
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = לא כעת
 urlbar-result-realtime-opt-in-dismiss = סגירה
+urlbar-result-realtime-opt-in-dismiss-all2 = לא להציג הצעות אלו
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = לא להציג הצעות שוק מניות
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = לא להציג הצעות אלו
 # This string is shown in the result menu.
@@ -1172,6 +1187,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = פופולרי ב־{ $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = לא להציע חיפושים פופולריים
+    .accesskey = פ
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = ממומן
