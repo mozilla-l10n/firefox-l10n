@@ -180,6 +180,12 @@ urlbar-result-menu-button =
     .title = Dobrir lo menú
 urlbar-result-menu-button-feedback = Comentaris
     .title = Dobrir lo menú
+urlbar-result-menu-learn-more2 = Ne saber mai
+    .accesskey = N
+urlbar-result-menu-remove-from-history2 = Tirar de l’istoric
+    .accesskey = T
+urlbar-result-menu-tip-get-help2 = Obténer d’ajuda
+    .accesskey = a
 urlbar-result-menu-learn-more =
     .label = Ne saber mai
     .accesskey = N
@@ -556,6 +562,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar lo partiment per aquesta session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilizar l’acorchi F12, dobrissètz d’en primièr lo panèl d’aisinas de desvolopament via lo menú Aisinas del navegador.
@@ -683,11 +692,19 @@ urlbar-result-action-copy-to-clipboard = Copiar
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Pas ara
+
+## These strings are used for suggestions of important dates in the urlbar.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -761,6 +778,9 @@ urlbar-result-action-search-actions = Accions de recèrca
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Dobrir { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -786,6 +806,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendéncias sus { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Mostrar pas las recèrcas popularas
+    .accesskey = M
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Mostrar pas las recèrcas popularas
@@ -961,6 +984,10 @@ toolbar-button-new-private-window =
     .label = Novèla fenèstra de navegacion privada
     .tooltiptext = Novèla fenèstra de navegacion privada ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Aqueste site conten d'àudio o de vidèo qu'utiliza de DRM, aquò pòt limitar çò que { -brand-short-name } vos permet de far.
@@ -1059,11 +1086,17 @@ tabs-toolbar-list-all-tabs =
     .label = Far la lista de totes los onglets
     .tooltiptext = Far la lista de totes los onglets
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Tornar dobrir los onglets precedents ?</strong> Podètz restablir vòstra session precedenta del menú d’aplicacion de { -brand-short-name } <img data-l10n-name="icon"/> estant jos Istoric.
 restore-session-startup-suggestion-button = Cossí far
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1197,3 +1230,19 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr
     .accessKey = M
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
