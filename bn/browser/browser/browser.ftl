@@ -193,6 +193,16 @@ urlbar-result-menu-remove-from-history2 = ইতিহাস থেকে মু
     .accesskey = R
 urlbar-result-menu-tip-get-help2 = সাহায্য নিন
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = এই পরামর্শটি বাতিল করুন
+    .accesskey = D
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = ভুল লোকেশন রিপোর্ট করুন
+urlbar-result-menu-show-less-frequently2 = কম ঘন ঘন দেখান
+urlbar-result-menu-dont-show-weather-suggestions2 = আবহাওয়ার পরামর্শ দেখাবেন না
 urlbar-result-menu-learn-more =
     .label = আরও জানুন
     .accesskey = L
@@ -758,6 +768,9 @@ urlbar-result-realtime-opt-in-allow = পরামর্শ দেখান
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = এখন নয়
 urlbar-result-realtime-opt-in-dismiss = বাতিল
+urlbar-result-realtime-opt-in-dismiss-all2 = এই পরামর্শগুলি দেখাবেন না
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = মার্কেটের পরামর্শগুলি দেখাবেন না
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = এই পরামর্শগুলি দেখাবেন না
 # This string is shown in the result menu.
