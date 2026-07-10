@@ -216,6 +216,45 @@ newtab-privacy-empty = Mae { -brand-short-name } yn rhwystro tracwyr wrth i chi 
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-1 = Mae { -brand-short-name } yn rhwystro tracwyr yn awtomatig wrth i chi bori.
+newtab-privacy-message-info-1-cta = Gweld y diogelwch
+newtab-privacy-message-info-2 = Mae rhwystro tracwyr yn helpu i atal cwmnïau rhag eich dilyn ar-lein.
+newtab-privacy-message-info-2-cta = Gweld y diogelwch
+newtab-privacy-message-info-3 = Mae gan lawer o wefannau dracwyr felly gall cwmnïau dydych chi erioed wedi ymweld â nhw eich dilyn ar-lein.
+newtab-privacy-message-info-3-cta = Gweld y diogelwch
+newtab-privacy-message-info-4 = Mae dewis { -brand-short-name } yn golygu dewis blaenori diogelwch.
+newtab-privacy-message-info-4-cta = Gweld y diogelwch
+newtab-privacy-message-info-5 = Mae tracwyr sydd wedi'u rhwystro'n golygu y gall llai o gwmnïau eich dilyn ar draws gwefannau.
+newtab-privacy-message-info-5-cta = Gweld y diogelwch
+newtab-privacy-message-info-6 = Cadwch eich data gyda { -brand-short-name }. Dydyn ni byth yn ei werthu, ond efallai y bydd porwyr eraill yn gwneud.
+newtab-privacy-message-info-6-cta = Dysgu rhagor
+newtab-privacy-message-info-7 = Gweld pa dracwyr { -brand-short-name } sydd wedi'u rhwystro.
+newtab-privacy-message-info-7-cta = Gweld y diogelwch
+newtab-privacy-message-info-8 = Mae pori gyda { -brand-short-name } yn cefnogi cenhadaeth { -vendor-short-name } i adeiladu gwe well.
+newtab-privacy-message-info-8-cta = Dysgu rhagor
+newtab-privacy-message-info-9 = Gwnewch { -brand-short-name } eich porwr chi ar gyfer preifatrwydd cynhwysol.
+newtab-privacy-message-info-9-cta = Ei wneud yr arferol
+newtab-privacy-message-info-10 = Cadw cyfrineiriau yn { -brand-short-name } i ddefnyddio mewngofnodi cryf, unigryw ym mhobman.
+newtab-privacy-message-info-10-cta = Mynd i gyfrineiriau
+newtab-privacy-message-info-11 = Darganfod sut mae { -brand-short-name } yn helpu i gadw'ch pori'n fwy preifat.
+newtab-privacy-message-info-11-cta = Dysgu rhagor
+newtab-privacy-message-info-12 = Gall rhwystro tracwyr helpu i arbed lled band ar gynlluniau data cyfyngedig.
+newtab-privacy-message-info-12-cta = Gweld y diogelwch
+newtab-privacy-message-info-13 = Mae { -brand-short-name } yn rhwystro tracwyr, gan ryddhau lled band ar gyfer ffrydio llyfnach.
+newtab-privacy-message-info-13-cta = Gweld y diogelwch
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Darganfydd a yw'ch manylion personol yn ymddangos mewn tor-data.
+newtab-privacy-message-promo-monitor-1-cta = Dysgu rhagor
+newtab-privacy-message-promo-monitor-2 = Diogelu eich manylion gyda monitro tor-data am ddim, ar gyfer hyd at 20 e-bost.
+newtab-privacy-message-promo-monitor-2-cta = Dysgu rhagor
+newtab-privacy-message-promo-signin-1 = Cadw nodau tudalen, cyfrineiriau a thabiau wedi'u hamgryptio ar draws dyfeisiau gyda'ch cyfrif { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Mewngofnodi
+newtab-privacy-message-promo-vpn-1 = Siopa ar Wi-Fi cyhoeddus? Trowch VPN cynwysedig ymlaen i gael diogelwch ychwanegol.
+newtab-privacy-message-promo-vpn-1-cta = Agor y VPN
 
 ## Strings for the Stocks widget
 

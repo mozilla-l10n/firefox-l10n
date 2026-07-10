@@ -208,6 +208,37 @@ newtab-privacy-message-info-1-cta = Beskermingen besjen
 newtab-privacy-message-info-2 = It blokkearjen fan trackers helpt foar te kommen dat bedriuwen jo online te folgje.
 newtab-privacy-message-info-2-cta = Beskermingen besjen
 newtab-privacy-message-info-3 = In protte websites hawwe trackers, sadat bedriuwen dy’t jo noch nea besocht hawwe jo online folgje kinne.
+newtab-privacy-message-info-3-cta = Beskermingen besjen
+newtab-privacy-message-info-4 = Kieze foar { -brand-short-name } betsjut kieze foar standert beskerming.
+newtab-privacy-message-info-4-cta = Beskermingen besjen
+newtab-privacy-message-info-5 = Blokkearre trackers betsjut dat minder bedriuwen jo op websites folgje kinne.
+newtab-privacy-message-info-5-cta = Beskermingen besjen
+newtab-privacy-message-info-6 = Hâld jo gegevens by { -brand-short-name }. Wy ferkeapje se nea, mar oare browsers miskien wol.
+newtab-privacy-message-info-6-cta = Mear ynfo
+newtab-privacy-message-info-7 = Besjoch hokker trackers { -brand-short-name } blokkearre hat.
+newtab-privacy-message-info-7-cta = Beskermingen besjen
+newtab-privacy-message-info-8 = Navigearje mei { -brand-short-name } stipet de misje fan { -vendor-short-name } om in better web te bouwen.
+newtab-privacy-message-info-8-cta = Mear ynfo
+newtab-privacy-message-info-9 = Meitsje fan { -brand-short-name } jo favorite browser foar ynboude privacy.
+newtab-privacy-message-info-9-cta = Standert meitsje
+newtab-privacy-message-info-10 = Bewarje wachtwurden yn { -brand-short-name } om oeral sterke, unike oanmeldingen te brûken.
+newtab-privacy-message-info-10-cta = Nei wachtwurden
+newtab-privacy-message-info-11 = Untdek hoe’t { -brand-short-name } helpt jo navigaasje mear privee te hâlden.
+newtab-privacy-message-info-11-cta = Mear ynfo
+newtab-privacy-message-info-12 = It blokkearjen fan trackers kin helpe om bânbreedte te besparjen op abonneminten mei beheinde data.
+newtab-privacy-message-info-12-cta = Beskermingen besjen
+newtab-privacy-message-info-13 = { -brand-short-name } blokkearret trackers, wêrtroch bânbreedte frijkomt foar soepeler streame.
+newtab-privacy-message-info-13-cta = Beskermingen besjen
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Untdek oft jo persoanlike gegevens foar komme yn in datalek.
+newtab-privacy-message-promo-monitor-1-cta = Mear ynfo
+newtab-privacy-message-promo-monitor-2 = Beskermje jo gegevens mei fergese monitoaring fan datalekken, foar maksimaal 20 e-mailadressen.
+newtab-privacy-message-promo-monitor-2-cta = Mear ynfo
 
 ## Privacy widget — celebration messages
 ##

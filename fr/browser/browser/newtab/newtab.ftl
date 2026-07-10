@@ -227,7 +227,7 @@ newtab-privacy-message-info-11 = Découvrez comment { -brand-short-name } protè
 newtab-privacy-message-info-11-cta = En savoir plus
 newtab-privacy-message-info-12 = Le blocage des traqueurs peut vous aider à économiser de la bande passante avec les forfaits de données limités.
 newtab-privacy-message-info-12-cta = Voir les protections
-newtab-privacy-message-info-13 = { -brand-short-name } bloque les traqueurs, libérant de la bande passante pour un streaming plus fluide.
+newtab-privacy-message-info-13 = { -brand-short-name } bloque les traqueurs, libérant de la bande passante pour un visionnage en streaming plus fluide.
 newtab-privacy-message-info-13-cta = Voir les protections
 
 ## Privacy widget — promotional messages
