@@ -180,6 +180,37 @@ newtab-privacy-trackers-blocked-today =
         [one] Rastreador bloqueado hoje
        *[other] Rastreadores bloqueados hoje
     }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Em { $count } site
+       *[other] Em { $count } sites
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = O { -brand-short-name } bloqueia rastreadores enquanto você navega. Eles são listados aqui.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = O { -brand-short-name } bloqueia rastreadores automaticamente enquanto você navega.
+newtab-privacy-message-info-1-cta = Ver proteções
+newtab-privacy-message-info-2 = O bloqueio de rastreadores ajuda a impedir que empresas sigam você online.
+newtab-privacy-message-info-2-cta = Ver proteções
+newtab-privacy-message-info-3 = Muitos sites têm rastreadores, assim empresas que você nunca visitou podem seguir você online.
+newtab-privacy-message-info-3-cta = Ver proteções
+newtab-privacy-message-info-4 = Escolher o { -brand-short-name } significa escolher proteção por padrão.
+newtab-privacy-message-info-4-cta = Ver proteções
 
 ## Strings for the Stocks widget
 
