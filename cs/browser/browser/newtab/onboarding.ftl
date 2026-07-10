@@ -848,3 +848,17 @@ onboarding-refresh-gratitude-subtitle =
     }
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje záda
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Přijmout
+smartwindow-existing-user-fx-tou-go-back = Zpátky
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Pokračovat
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Ano, ponechat zavřené
+smartwindow-sidebar-auto-open-callout-dismiss = Ne, děkuji
