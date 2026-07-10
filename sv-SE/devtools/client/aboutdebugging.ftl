@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Detaljer om felet
 about-debugging-message-details-label-warning = Varningsdetaljer
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detaljer
+about-debugging-sidebar =
+    .heading = Felsökning

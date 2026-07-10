@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Utiliser un modèle 
 experimental-features-tab-notes =
     .label = Notes d’onglets
 experimental-features-tab-notes-description = Les notes d’onglets sont une fonctionnalité expérimentale qui permet l’ajout de notes autocollantes sur les onglets du navigateur. Inscrivez-y le contexte, un mémo ou ce qu’il reste à faire afin que, quand vous reviendrez à l’onglet, vous puissiez vous rappeler pourquoi vous l’aviez ouvert. Nous aimerions beaucoup connaître votre avis comme nous améliorons encore cette fonctionnalité. <a data-l10n-name="connect">Donnez votre avis</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Menu des onglets rationalisé
+experimental-features-tab-context-menu-description = Découvrez un menu contextuel plus simple lorsque vous effectuez un clic droit sur un onglet. Elle est conçue pour rendre les actions courantes plus faciles à trouver. <a data-l10n-name="connect">Partagez vos commentaires</a>
