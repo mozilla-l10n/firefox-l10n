@@ -153,6 +153,7 @@ pdfjs-document-properties-linearized = Ñanduti jahecha pya’e:
 pdfjs-document-properties-linearized-yes = Añete
 pdfjs-document-properties-linearized-no = Ahániri
 pdfjs-document-properties-close-button = Mboty
+pdfjs-digital-signature-properties-view-certificate = Mboajapyre jehecha
 # Variables:
 #   $count (Number) - number of nested sub-signatures (one per earlier
 #                     incremental revision of the document).

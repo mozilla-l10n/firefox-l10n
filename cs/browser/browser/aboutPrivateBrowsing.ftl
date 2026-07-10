@@ -86,3 +86,8 @@ about-private-browsing-felt-privacy-v1-info-link = Kdo může vidět mou aktivit
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Zavřením všech anonymních oken smažete cookies, historii a data stránek.
+about-private-browsing-nova-info-link = Kdo stále může vidět mou aktivitu?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Historie vašeho prohlížení nebude zaznamenávána
