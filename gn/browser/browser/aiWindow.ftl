@@ -131,6 +131,7 @@ aiwindow-input-model-select-settings-link = Techarã ñemboheko
 
 aiwindow-firstrun-memories-title = Mbohovái oikóva ohóva erohoryvéva rehe
 aiwindow-firstrun-memories-conversation-title = Eike eñe’ẽ hag̃ua ore ndive
+aiwindow-firstrun-memories-conversation-body = Eikuaave jechateágui he’isehína sa’ive errepetiva’erãha.
 aiwindow-firstrun-memories-relevance-title = Mbohovái iporãvéva
 aiwindow-firstrun-memories-privacy-title = Iñemi moha’ãnga rupi
 aiwindow-firstrun-memories-choose-label = Eiporavo moõpa eikuaáta { -smart-window-brand-name }

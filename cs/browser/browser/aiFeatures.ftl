@@ -20,6 +20,9 @@ smart-window-model-learn-link = Bližší informace o modelech
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom-name =
+    .label = Název modelu
+    .placeholder = Například: glm4
 smart-window-model-custom-save =
     .label = Uložit
 ai-window-delete-all-memories-button =

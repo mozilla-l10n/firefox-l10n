@@ -273,6 +273,13 @@ newtab-privacy-message-milestone-month-cta = Vider protectiones
 newtab-privacy-message-milestone-year-cta = Vider protectiones
 newtab-privacy-message-milestone-total-cta = Vider protectiones
 newtab-privacy-message-daily-cap-cta = Vider protectiones
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Tu ha essite protegite { $count } die de fila.
+       *[other] Tu ha essite protegite { $count } dies de fila.
+    }
 newtab-privacy-message-streak-cta = Vider protectiones
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Continua a navigar, { -brand-short-name } continuara a blocar.
