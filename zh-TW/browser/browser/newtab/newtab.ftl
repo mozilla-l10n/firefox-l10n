@@ -166,6 +166,13 @@ home-prefs-mission-message-learn-more-link-srd = 看看是如何達成的
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 更多資訊
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-signin-1-cta = 登入
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
