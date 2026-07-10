@@ -160,6 +160,44 @@ home-prefs-mission-message-learn-more-link-srd = Malkovri kiel
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Pli da informo
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Strings for the Picture of the Day widget
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -480,6 +518,8 @@ newtab-recommended-stories-toggle =
     .label = Rekomenditaj artikoloj
 newtab-custom-stories-personalized-toggle =
     .label = Artikoloj
+newtab-custom-stories-personalized-checkbox =
+    .label = Personecigitaj artikoloj laŭ via retumo
 newtab-custom-stories-personalized-checkbox-label = Personecigitaj artikoloj laŭ via retumo
 newtab-custom-pocket-sponsored = Patronitaj artikoloj
 newtab-custom-pocket-show-recent-saves = Montri ĵusajn konservojn
@@ -1288,6 +1328,9 @@ newtab-sports-widget-message-day-in-play-title = Restu en la etoso pokala per la
 newtab-sports-widget-message-day-in-play-body = Sekvu la mondpokalon, koncentriĝu en taskoj, sciu kioma horo estas en la cetero de la mondo, kaj pli.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Esplori komponantojn
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
