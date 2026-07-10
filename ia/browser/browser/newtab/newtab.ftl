@@ -271,7 +271,16 @@ newtab-privacy-message-milestone-week =
 newtab-privacy-message-milestone-week-cta = Vider protectiones
 newtab-privacy-message-milestone-month-cta = Vider protectiones
 newtab-privacy-message-milestone-year-cta = Vider protectiones
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } traciator blocate. Isto es un progresso major verso le confidentialitate in tu terminos.
+       *[other] { $count } traciatores blocate. Isto es un progresso major verso le confidentialitate in tu terminos.
+    }
 newtab-privacy-message-milestone-total-cta = Vider protectiones
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Plus que 100 traciatores blocate hodie.) Minus traciatores significa plus confidentialitate
 newtab-privacy-message-daily-cap-cta = Vider protectiones
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -301,6 +310,11 @@ newtab-stocks-menu-learn-more = Pro saper plus
 newtab-picture-header = Imagine del die · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imagine del die
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Vider le licentia { $licentia }
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
