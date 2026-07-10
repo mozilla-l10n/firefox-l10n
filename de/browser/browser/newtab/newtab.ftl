@@ -166,6 +166,50 @@ home-prefs-mission-message-learn-more-link-srd = Erfahren, wie das geht
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Weitere Informationen
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] heute geblockierter Tracker
+       *[other] heute geblockierte Tracker
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Auf { $count } Website
+       *[other] Auf { $count } Websites
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blockiert Tracker beim Surfen. Sie werden sie hier sehen.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blockiert Tracker beim Surfen automatisch.
+newtab-privacy-message-info-1-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-2 = Das Blockieren von Trackern verhindert, dass Unternehmen Sie im Internet verfolgen.
+newtab-privacy-message-info-2-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-3 = Viele Websites haben Tracker, damit Unternehmen, die Sie noch nie besucht haben, Sie im Internet verfolgen können.
+newtab-privacy-message-info-3-cta = Schutzmaßnahmen anzeigen
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
