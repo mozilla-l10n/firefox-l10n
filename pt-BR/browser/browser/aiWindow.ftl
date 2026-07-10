@@ -241,12 +241,19 @@ firefoxview-search-chat-results-count =
 item-history-downloads-and-chat =
     .label = Histórico de navegação, downloads e conversas
     .accesskey = H
+item-history-downloads-and-chat-description = Limpar histórico de sites, downloads e conversas
 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
     .label = Selecionar tudo
     .aria-label = Selecionar tudo
+smart-window-confirm-deselect-all =
+    .label = Desmarcar tudo
+    .aria-label = Desmarcar tudo
+smart-window-close-confirm =
+    .aria-label = Cancelar requisição e fechar
+    .tooltiptext = Cancelar requisição e fechar
 smart-window-confirm-close-tab = Fechar
 # Variables
 #   $count (number) - Number of tabs to close
@@ -262,3 +269,34 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Aba fechada
 smartwindow-close-tab-callout-subtitle = Reabra abas a partir do histórico quando quiser.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Usar o modo { -smart-window-brand-name } por padrão?
+smart-window-default-promo-message = O { -brand-short-name } abrirá sempre em { -smart-window-brand-name }.
+smart-window-default-promo-primary-button = Definir como padrão
+smart-window-default-promo-additional-button = Agora não
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Compartilhe sua opinião
+aiwindow-feedback-what-worked-well = O que funcionou bem? Nenhuma informação pessoal, por favor.
+aiwindow-feedback-choose-any = Escolha qualquer um que se aplique
+aiwindow-feedback-add-details = Adicione detalhes se quiser. Nenhuma informação pessoal, por favor.
+aiwindow-feedback-disclaimer = Ao enviar, você compartilha sua opinião e esta conversa para ajudar o { -brand-shorter-name } a melhorar { -smart-window-brand-name }. Suas outras conversas permanecem privativas. <a data-l10n-name="learn-more">Saiba mais</a>
+aiwindow-feedback-submit = Enviar
+aiwindow-feedback-cancel = Cancelar
+aiwindow-feedback-reason-incorrect-or-misleading = Incorreto ou enganoso
+aiwindow-feedback-reason-doesnt-address-my-request = Não atende ao meu pedido
+aiwindow-feedback-reason-lacks-personalization = Falta personalização ou contexto
+aiwindow-feedback-reason-performance-or-usability = Problema de desempenho ou usabilidade
+aiwindow-feedback-reason-harmful-or-offensive = Prejudicial ou ofensivo
+aiwindow-feedback-reason-other = Outro
+aiwindow-feedback-preview-report = Ver detalhes da conversa
+aiwindow-feedback-preview-report-with-page = Ver detalhes da conversa e da página
+aiwindow-feedback-include-page-content = Compartilhar as páginas referenciadas neste chat
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Mudar forma da exibição
