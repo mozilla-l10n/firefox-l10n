@@ -613,6 +613,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = Ag treochtáil ar { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ná taispeáin cuardaigh treochta
+    .accesskey = N
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ná taispeáin cuardaigh treochta
     .accesskey = N
