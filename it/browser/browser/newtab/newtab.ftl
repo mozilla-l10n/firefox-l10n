@@ -268,6 +268,45 @@ newtab-privacy-message-milestone-week =
         [one] { $count } elemento tracciante bloccato questa settimana. Scopri come { -brand-short-name } protegge la tua privacy
        *[other] { $count } elementi traccianti bloccati questa settimana. Scopri come { -brand-short-name } protegge la tua privacy
     }
+newtab-privacy-message-milestone-week-cta = Visualizza protezioni
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } elemento tracciante bloccato questo mese. Un piccolo passo per la privacy. Un grande passo per la tua tranquillità.
+       *[other] { $count } elementi traccianti bloccati questo mese. Un piccolo passo per la privacy. Un grande passo per la tua tranquillità.
+    }
+newtab-privacy-message-milestone-month-cta = Visualizza protezioni
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } elemento tracciante bloccato quest’anno. Un anno di protezione efficace per la tua privacy.
+       *[other] { $count } elementi traccianti bloccati quest’anno. Un anno di protezione efficace per la tua privacy.
+    }
+newtab-privacy-message-milestone-year-cta = Visualizza protezioni
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } elemento tracciante bloccato. La tua privacy è sempre più nelle tue mani.
+       *[other] { $count } elementi traccianti bloccati. La tua privacy è sempre più nelle tue mani.
+    }
+newtab-privacy-message-milestone-total-cta = Visualizza protezioni
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Oltre 100 elementi traccianti bloccati oggi.) Meno elementi traccianti significa più privacy.
+newtab-privacy-message-daily-cap-cta = Visualizza protezioni
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Protetto da { $count } giorno.
+       *[other] Protetto da { $count } giorni consecutivi.
+    }
+newtab-privacy-message-streak-cta = Visualizza protezioni
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Continua a navigare, { -brand-short-name } continuerà a bloccare.
+newtab-privacy-message-first-protection-cta = Visualizza protezioni
 
 ## Strings for the Stocks widget
 
@@ -283,6 +322,18 @@ newtab-stocks-menu-learn-more = Ulteriori informazioni
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Immagine del giorno · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Immagine del giorno
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Visualizza la licenza { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Opzioni immagine del giorno
+    .aria-label = Opzioni immagine del giorno
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
