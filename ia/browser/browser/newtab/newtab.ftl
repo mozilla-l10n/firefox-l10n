@@ -166,6 +166,66 @@ home-prefs-mission-message-learn-more-link-srd = Discoperi como
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Pro saper plus
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Traciator blocate hodie
+       *[other] Traciatores blocate hodie
+    }
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1-cta = Vider protectiones
+newtab-privacy-message-info-2-cta = Vider protectiones
+newtab-privacy-message-info-3-cta = Vider protectiones
+newtab-privacy-message-info-4-cta = Vider protectiones
+newtab-privacy-message-info-5-cta = Vider protectiones
+newtab-privacy-message-info-6-cta = Pro saper plus
+newtab-privacy-message-info-7-cta = Vider protectiones
+newtab-privacy-message-info-8-cta = Pro saper plus
+newtab-privacy-message-info-9-cta = Predefinir
+newtab-privacy-message-info-10-cta = Va al contrasignos
+newtab-privacy-message-info-11-cta = Pro saper plus
+newtab-privacy-message-info-12-cta = Vider protectiones
+newtab-privacy-message-info-13-cta = Vider protectiones
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Pro saper plus
+newtab-privacy-message-promo-monitor-2-cta = Pro saper plus
+newtab-privacy-message-promo-signin-1-cta = Acceder
+newtab-privacy-message-promo-vpn-1-cta = Aperir VPN
+newtab-privacy-message-promo-vpn-2-cta = Aperir VPN
+newtab-privacy-message-promo-vpn-3-cta = Aperir VPN
+newtab-privacy-message-promo-private-window-1-cta = Aperir fenestra private
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-month-cta = Vider protectiones
+newtab-privacy-message-milestone-year-cta = Vider protectiones
+newtab-privacy-message-milestone-total-cta = Vider protectiones
+newtab-privacy-message-daily-cap-cta = Vider protectiones
+newtab-privacy-message-streak-cta = Vider protectiones
+newtab-privacy-message-first-protection-cta = Vider protectiones
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -180,6 +240,8 @@ newtab-stocks-menu-learn-more = Pro saper plus
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Imagine del die · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Imagine del die
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
