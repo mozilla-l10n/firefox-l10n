@@ -195,6 +195,12 @@ urlbar-result-menu-button =
     .title = Otwórz menu
 urlbar-result-menu-button-feedback = Opinia
     .title = Otwórz menu
+urlbar-result-menu-learn-more2 = Więcej informacji
+    .accesskey = W
+urlbar-result-menu-remove-from-history2 = Usuń z historii
+    .accesskey = U
+urlbar-result-menu-tip-get-help2 = Pomoc
+    .accesskey = P
 urlbar-result-menu-learn-more =
     .label = Więcej informacji
     .accesskey = W
@@ -878,6 +884,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorowane
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = zapytaj
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1079,6 +1090,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Popularne w { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Nie pokazuj popularnych wyszukiwań
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsorowane
