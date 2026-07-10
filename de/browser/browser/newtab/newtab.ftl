@@ -209,6 +209,32 @@ newtab-privacy-message-info-2 = Das Blockieren von Trackern verhindert, dass Unt
 newtab-privacy-message-info-2-cta = Schutzmaßnahmen anzeigen
 newtab-privacy-message-info-3 = Viele Websites haben Tracker, damit Unternehmen, die Sie noch nie besucht haben, Sie im Internet verfolgen können.
 newtab-privacy-message-info-3-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-4 = Die Wahl von { -brand-short-name } bedeutet standardmäßig Schutz zu wählen.
+newtab-privacy-message-info-4-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-5 = Blockierte Tracker bedeuten, dass weniger Unternehmen Sie über Websites hinweg verfolgen können.
+newtab-privacy-message-info-5-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-6 = Schützen Sie Ihre Daten mit { -brand-short-name }. Wir verkaufen sie nie, aber andere Browser könnten es vielleicht tun.
+newtab-privacy-message-info-6-cta = Weitere Informationen
+newtab-privacy-message-info-7 = Sehen Sie, welche Elemente zur Aktivitätenverfolgung { -brand-short-name } blockiert hat.
+newtab-privacy-message-info-7-cta = Schutzmaßnahmen anzeigen
+newtab-privacy-message-info-8 = Das Surfen mit { -brand-short-name } unterstützt { -vendor-short-name }s Mission, ein besseres Internet zu schaffen.
+newtab-privacy-message-info-8-cta = Weitere Informationen
+newtab-privacy-message-info-9 = Machen Sie { -brand-short-name } zu Ihrem Standard-Browser für integrierte Privatsphäre.
+newtab-privacy-message-info-9-cta = Als Standard festlegen
+newtab-privacy-message-info-10 = Speichern Sie Passwörter in { -brand-short-name }, um überall starke, eindeutige Zugangsdaten zu verwenden.
+newtab-privacy-message-info-10-cta = Zu den Passwörtern
+newtab-privacy-message-info-11 = Erfahren Sie, wie { -brand-short-name } dazu beiträgt, Ihr Surfen privater zu halten.
+newtab-privacy-message-info-11-cta = Weitere Informationen
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-2 = Schützen Sie Ihre Daten mit kostenloser Überwachung von Datenlecks für bis zu 20 E-Mail-Adressen.
+newtab-privacy-message-promo-monitor-2-cta = Weitere Informationen
+newtab-privacy-message-promo-signin-1 = Schützen Sie Lesezeichen, Passwörter und Tabs mit Ihrem { -vendor-short-name }-Konto Geräte übergreifend.
+newtab-privacy-message-promo-signin-1-cta = Anmelden
 
 ## Strings for the Stocks widget
 
