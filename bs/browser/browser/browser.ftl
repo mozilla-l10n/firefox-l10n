@@ -187,6 +187,24 @@ urlbar-result-menu-button =
     .title = Otvori meni
 urlbar-result-menu-button-feedback = Povratne informacije
     .title = Otvori meni
+urlbar-result-menu-learn-more2 = Saznajte više
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Ukloni iz historije
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = Potražite pomoć
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Odbaci ovaj prijedlog
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = Upravljanje { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Prijavi netačnu lokaciju
+urlbar-result-menu-show-less-frequently2 = Prikaži rjeđe
+urlbar-result-menu-dont-show-weather-suggestions2 = Ne prikazuj prijedloge za vremensku prognozu
 urlbar-result-menu-learn-more =
     .label = Saznajte više
     .accesskey = L
