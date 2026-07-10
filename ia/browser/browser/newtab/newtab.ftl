@@ -227,6 +227,7 @@ newtab-privacy-message-info-11 = Discoperi como { -brand-short-name } adjuta man
 newtab-privacy-message-info-11-cta = Pro saper plus
 newtab-privacy-message-info-12 = Blocar traciatores pote adjutar a sparnia le largessa de banda sur planos datos limitate.
 newtab-privacy-message-info-12-cta = Vider protectiones
+newtab-privacy-message-info-13 = { -brand-short-name } bloca traciatores e libera largessa de banda pro diffusion multimedial plus fluide.
 newtab-privacy-message-info-13-cta = Vider protectiones
 
 ## Privacy widget — promotional messages
@@ -234,9 +235,13 @@ newtab-privacy-message-info-13-cta = Vider protectiones
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Discoperi si tu informationes personal apparera in un violation de datos.
 newtab-privacy-message-promo-monitor-1-cta = Pro saper plus
+newtab-privacy-message-promo-monitor-2 = Protege tu info con surveliantia de violation de datos gratuite, pro usque 20 adresses e-mail.
 newtab-privacy-message-promo-monitor-2-cta = Pro saper plus
+newtab-privacy-message-promo-signin-1 = Mantene cryptate marcapaginas, contrasignos, e schedas a transverso apparatos con tu conto { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Acceder
+newtab-privacy-message-promo-vpn-1 = Compras sur retes wi-fi public? Activa le VPN integrate pro protection ulterior.
 newtab-privacy-message-promo-vpn-1-cta = Aperir VPN
 newtab-privacy-message-promo-vpn-2-cta = Aperir VPN
 newtab-privacy-message-promo-vpn-3-cta = Aperir VPN

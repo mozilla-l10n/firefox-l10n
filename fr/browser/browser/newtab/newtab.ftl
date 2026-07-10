@@ -253,7 +253,7 @@ newtab-privacy-message-promo-relay-1 = Réservez votre véritable adresse e-mail
 newtab-privacy-message-promo-relay-1-cta = Obtenir des alias
 newtab-privacy-message-promo-relay-2 = Protégez votre boîte de réception du spam grâce à des alias de messagerie gratuits.
 newtab-privacy-message-promo-relay-2-cta = Obtenir des alias
-newtab-privacy-message-promo-relay-3 = Obtenez 50 alias de messagerie gratuits pour garder privée votre véritable adresse e-mail.
+newtab-privacy-message-promo-relay-3 = Recevez 50 alias de messagerie gratuits pour protéger la confidentialité de votre véritable adresse e-mail.
 newtab-privacy-message-promo-relay-3-cta = Obtenir des alias
 
 ## Privacy widget — celebration messages
@@ -268,7 +268,7 @@ newtab-privacy-message-milestone-week =
         [one] { $count } traqueur bloqué cette semaine. Voyez ce que { -brand-short-name } vous cache
        *[other] { $count } traqueurs bloqués cette semaine. Voyez ce que { -brand-short-name } vous cache
     }
-newtab-privacy-message-milestone-week-cta = Afficher les protections
+newtab-privacy-message-milestone-week-cta = Voir les protections
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
@@ -276,7 +276,7 @@ newtab-privacy-message-milestone-month =
         [one] { $count } traqueur bloqué ce mois-ci. Un petit pas pour la confidentialité. Un grand pas pour la tranquillité d’esprit.
        *[other] { $count } traqueurs bloqués ce mois-ci. Un petit pas pour la confidentialité. Un grand pas pour la tranquillité d’esprit.
     }
-newtab-privacy-message-milestone-month-cta = Afficher les protections
+newtab-privacy-message-milestone-month-cta = Voir les protections
 # Variables:
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year =
@@ -284,7 +284,7 @@ newtab-privacy-message-milestone-year =
         [one] { $count } traqueur bloqué cette année. Nous vivons une année importante au niveau de la protection de votre vie privée.
        *[other] { $count } traqueurs bloqués cette année. Nous vivons une année importante au niveau de la protection de votre vie privée.
     }
-newtab-privacy-message-milestone-year-cta = Afficher les protections
+newtab-privacy-message-milestone-year-cta = Voir les protections
 # Variables:
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
@@ -292,21 +292,21 @@ newtab-privacy-message-milestone-total =
         [one] { $count } traqueur bloqué. C’est un progrès majeur vers le respect de la vie privée à vos conditions.
        *[other] { $count } traqueurs bloqués. C’est un progrès majeur vers le respect de la vie privée à vos conditions.
     }
-newtab-privacy-message-milestone-total-cta = Afficher les protections
+newtab-privacy-message-milestone-total-cta = Voir les protections
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Plus de 100 traqueurs bloqués aujourd’hui.) Moins de traqueurs, c’est plus de respect de la vie privée.
-newtab-privacy-message-daily-cap-cta = Afficher les protections
+newtab-privacy-message-daily-cap-cta = Voir les protections
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
 newtab-privacy-message-streak =
     { $count ->
-        [one] Vous avez été protégé·e { $count } jours consécutifs.
+        [one] Vous avez été protégé·e { $count } jour consécutif.
        *[other] Vous avez été protégé·e { $count } jours consécutifs.
     }
-newtab-privacy-message-streak-cta = Afficher les protections
+newtab-privacy-message-streak-cta = Voir les protections
 # Shown the first time the tracker count goes above zero.
-newtab-privacy-message-first-protection = Continuez à naviguer, { -brand-short-name } continuera le blocage.
-newtab-privacy-message-first-protection-cta = Afficher les protections
+newtab-privacy-message-first-protection = Continuez à naviguer, { -brand-short-name } continuera de bloquer.
+newtab-privacy-message-first-protection-cta = Voir les protections
 
 ## Strings for the Stocks widget
 

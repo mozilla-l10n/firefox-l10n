@@ -167,6 +167,72 @@ home-prefs-mission-message-learn-more-link-srd = Află cum
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Află mai multe
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] element de urmărire blocat azi
+        [few] elemente de urmărire blocate azi
+       *[other] de elemente de urmărire blocate azi
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Pe { $count } site
+        [few] Pe { $count } site-uri
+       *[other] Pe { $count } de site-uri
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blochează elementele de urmărire în timp ce navighezi. Le vei vedea aici.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blochează automat elementele de urmărire în timp ce navighezi.
+newtab-privacy-message-info-1-cta = Vezi protecțiile
+newtab-privacy-message-info-2 = Blocarea elementelor de urmărire ajută la împiedicarea companiilor să te urmărească online.
+newtab-privacy-message-info-2-cta = Vezi protecțiile
+newtab-privacy-message-info-3 = Multe site-uri au elemente de urmărire, astfel încât companii pe care nu le-ai vizitat niciodată să te urmărească online.
+newtab-privacy-message-info-3-cta = Vezi protecțiile
+newtab-privacy-message-info-4 = Când alegi { -brand-short-name } ai protecție implicit.
+newtab-privacy-message-info-4-cta = Vezi protecțiile
+newtab-privacy-message-info-5 = Blocarea elementelor de urmărire înseamnă mai puține companii care te pot urmări de la un site la altul.
+newtab-privacy-message-info-5-cta = Vezi protecțiile
+newtab-privacy-message-info-6 = Păstrează-ți datele cu { -brand-short-name }. Nu le vindem niciodată, dar alte browsere s-ar putea să o facă.
+newtab-privacy-message-info-6-cta = Află mai multe
+newtab-privacy-message-info-7 = Vezi ce elemente de urmărire a blocat { -brand-short-name }.
+newtab-privacy-message-info-7-cta = Vezi protecțiile
+newtab-privacy-message-info-8 = Navigarea cu { -brand-short-name } susține misiunea { -vendor-short-name } de a construi un web mai bun.
+newtab-privacy-message-info-8-cta = Află mai multe
+newtab-privacy-message-info-9 = Fă { -brand-short-name } browserul tău implicit pentru confidențialitate încorporată.
+newtab-privacy-message-info-9-cta = Setează ca implicit
+newtab-privacy-message-info-10 = Salvează parolele în { -brand-short-name } ca să folosești peste tot autentificări unice și puternice.
+newtab-privacy-message-info-10-cta = Mergi la parole
+newtab-privacy-message-info-11 = Află cum te ajută { -brand-short-name } să navighezi mai privat.
+newtab-privacy-message-info-11-cta = Află mai multe
+newtab-privacy-message-info-12 = Blocarea elementelor de urmărire ajută la economisirea lățimii de bandă în cazul abonamentelor de date limitate.
+newtab-privacy-message-info-12-cta = Vezi protecțiile
+newtab-privacy-message-info-13 = { -brand-short-name } blochează elementele de urmărire, eliberând lățime de bandă pentru un flux mai fluid.
+newtab-privacy-message-info-13-cta = Vezi protecțiile
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.

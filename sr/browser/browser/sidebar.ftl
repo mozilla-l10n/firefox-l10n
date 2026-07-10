@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Отворени језичци
 sidebar-options-menu-button =
     .title = Отвори мени
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Промени величину бочне траке
 
 ## Labels for sidebar history panel
 
@@ -226,6 +229,19 @@ sidebar-opentabs-title = Отворени језичци
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Закачени језичци
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Прозор { $winID } (тренутни)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Прозор { $winID }
+sidebar-bookmarks-title = Обележивачи
 
 ## Context for closing synced tabs when hovering over the items
 
