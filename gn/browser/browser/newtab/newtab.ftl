@@ -192,6 +192,9 @@ newtab-privacy-across-sites =
        *[other] Opaite tendaitápe { $count }
     }
 
+## Privacy widget — empty state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -246,10 +249,15 @@ newtab-privacy-message-first-protection-cta = Ehecha ñemo’ãrã
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Eheka jeku’e reheguáva
-# Context menu item that hides the Stocks widget.
-newtab-stocks-menu-hide = Eñomi jeku’ekue
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Eikuaave
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
 
 ## Strings for the Picture of the Day widget
 
