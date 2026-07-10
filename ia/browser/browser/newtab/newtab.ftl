@@ -269,7 +269,21 @@ newtab-privacy-message-milestone-week =
        *[other] { $count } traciatores blocate iste septimana. Vide cosa { -brand-short-name } mantene foras de tu vita private
     }
 newtab-privacy-message-milestone-week-cta = Vider protectiones
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } traciator blocate iste mense. Un parve passo pro le confidentialitate. Un grande passo pro le tranquillitate.
+       *[other] { $count } traciatores blocate iste mense. Un parve passo pro le confidentialitate. Un grande passo pro le tranquillitate.
+    }
 newtab-privacy-message-milestone-month-cta = Vider protectiones
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } traciator blocate iste anno. Que es un anno formidabile de protection de tu confidentialitate.
+       *[other] { $count } traciatores blocate iste anno. Que es un anno formidabile de protection de tu confidentialitate.
+    }
 newtab-privacy-message-milestone-year-cta = Vider protectiones
 # Variables:
 #   $count (number) - Trackers blocked all-time
