@@ -328,7 +328,7 @@ newtab-picture-header-main = Imagine del die
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
-    .aria-label = Vider le licentia { $licentia }
+    .aria-label = Vider le licentia { $license }
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
