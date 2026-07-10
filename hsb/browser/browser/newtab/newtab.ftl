@@ -250,6 +250,15 @@ newtab-privacy-message-milestone-month-cta = Škity pokazać
 newtab-privacy-message-milestone-year-cta = Škity pokazać
 newtab-privacy-message-milestone-total-cta = Škity pokazać
 newtab-privacy-message-daily-cap-cta = Škity pokazać
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Sće { $count } dźeń za sobu škitany
+        [two] Sće { $count } dnjej za sobu škitany
+        [few] Sće { $count } dny za sobu škitany
+       *[other] Sće { $count } dnjow za sobu škitany
+    }
 newtab-privacy-message-streak-cta = Škity pokazać
 newtab-privacy-message-first-protection-cta = Škity pokazać
 

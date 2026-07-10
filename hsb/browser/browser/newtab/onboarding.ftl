@@ -620,6 +620,9 @@ smartwindow-onboarding-primary-button = Dale
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Ma asistent začinjeny wostać?
+smartwindow-sidebar-auto-open-callout-body = Móžeće jón wočinić, hdyžkuli jón trjebaće.
 smartwindow-sidebar-auto-open-callout-accept = Haj, začinjeny wostajić
 smartwindow-sidebar-auto-open-callout-dismiss = Ně, dźakuju so
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistent začinjeny wostawa.
 smartwindow-sidebar-auto-open-callout-rejected-title = Sym zrozumił

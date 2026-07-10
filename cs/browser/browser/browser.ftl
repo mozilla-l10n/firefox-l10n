@@ -431,6 +431,8 @@ quickactions-addons = Zobrazit doplňky
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = rozšíření, motivy vzhledu, doplňky
+# Opens preferences page at AI controls
+quickactions-manageai = Spravovat ovládání AI
 quickactions-cmd-addons2 = doplňky
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Správa záložek
