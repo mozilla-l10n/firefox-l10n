@@ -239,6 +239,22 @@ newtab-privacy-message-promo-monitor-1 = Untdek oft jo persoanlike gegevens foar
 newtab-privacy-message-promo-monitor-1-cta = Mear ynfo
 newtab-privacy-message-promo-monitor-2 = Beskermje jo gegevens mei fergese monitoaring fan datalekken, foar maksimaal 20 e-mailadressen.
 newtab-privacy-message-promo-monitor-2-cta = Mear ynfo
+newtab-privacy-message-promo-signin-1 = Hâld blêdwizers, wachtwurden en ljepblêden op ferskate apparaten fersifere mei jo { -vendor-short-name } account.
+newtab-privacy-message-promo-signin-1-cta = Oanmelde
+newtab-privacy-message-promo-vpn-1 = Winkelje jo op iepenbiere wifi? Skeakelje de ynboude VPN yn foar ekstra beskerming.
+newtab-privacy-message-promo-vpn-1-cta = VPN iepenje
+newtab-privacy-message-promo-vpn-2 = Brûke jo wifi op it fleanfjild? Beskermje jo navigaasje troch de ynboude VPN yn te skeakeljen.
+newtab-privacy-message-promo-vpn-2-cta = VPN iepenje
+newtab-privacy-message-promo-vpn-3 = Skeakelje de ynboude VPN yn om jo lokaasje mear privee te hâlden.
+newtab-privacy-message-promo-vpn-3-cta = VPN iepenje
+newtab-privacy-message-promo-private-window-1 = Probearje in priveefinster om mear privee te navigearjen as jo in dielde kompjûter brûke.
+newtab-privacy-message-promo-private-window-1-cta = Priveefinster iepenje
+newtab-privacy-message-promo-relay-1 = Bewarje jo echte e-mailadres foar minsken dy’t jo fertrouwe; brûk in e-mailmasker foar reagistraasjes.
+newtab-privacy-message-promo-relay-1-cta = Maskers krije
+newtab-privacy-message-promo-relay-2 = Beskermje jo Postfek YN tsjin spam mei fergeze e-mailmaskearing.
+newtab-privacy-message-promo-relay-2-cta = Maskers krije
+newtab-privacy-message-promo-relay-3 = Untfang 50 fergeze e-mailmaskers om jo echte e-mailadres privee te hâlden.
+newtab-privacy-message-promo-relay-3-cta = Maskers krije
 
 ## Privacy widget — celebration messages
 ##

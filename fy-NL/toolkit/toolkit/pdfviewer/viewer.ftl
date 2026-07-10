@@ -732,6 +732,13 @@ pdfjs-views-manager-waiting-for-file = Bestân oplade…
 pdfjs-toggle-views-manager-button1 =
     .title = Siden beheare
 
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-unknown = Status: kin net ferifiearje wurde (net stipe)
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
@@ -739,6 +746,12 @@ pdfjs-toggle-views-manager-button1 =
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Sertifikaat: fertroud ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Sertifikaat: net beskikber
+pdfjs-digital-signature-properties-certificate-untrusted = Sertifikaat: net fertroud
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Sertifikaat: Unbekende útjouwer ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Sertifikaat: selsûndertekene ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Sertifikaat: net-fertroude útjouwer ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Sertifikaat: ferrûn
 pdfjs-digital-signature-properties-certificate-expired-with-date = Sertifikaat: ferrûn ({ DATETIME($dateObj, dateStyle: "medium") })
 pdfjs-digital-signature-properties-certificate-revoked = Sertifikaat: ynlutsen
