@@ -195,6 +195,12 @@ urlbar-result-menu-button =
     .title = Ireki menua
 urlbar-result-menu-button-feedback = Iritzia
     .title = Ireki menua
+urlbar-result-menu-learn-more2 = Argibide gehiago
+    .accesskey = A
+urlbar-result-menu-remove-from-history2 = Kendu historiatik
+    .accesskey = K
+urlbar-result-menu-tip-get-help2 = Lortu laguntza
+    .accesskey = L
 urlbar-result-menu-learn-more =
     .label = Argibide gehiago
     .accesskey = A
@@ -1116,6 +1122,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } bilatzaileko joerak
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ez erakutsi bilaketa-joerak
+    .accesskey = z
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Babesleak hornituta
