@@ -175,6 +175,17 @@ home-prefs-mission-message-learn-more-link-srd = Zjistěte jak
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Zjistit více
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-private-window-1-cta = Otevřít anonymní okno
+newtab-privacy-message-promo-relay-1-cta = Získat masky
+newtab-privacy-message-promo-relay-2 = Chraňte svou doručenou poštu před nevyžádanou poštou pomocí bezplatného maskování e-mailových adres.
+newtab-privacy-message-promo-relay-2-cta = Získat masky
+newtab-privacy-message-promo-relay-3-cta = Získat masky
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -189,6 +200,8 @@ newtab-stocks-menu-learn-more = Zjistit více
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Obrázek dne · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Obrázek dne
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Zjistit více
 

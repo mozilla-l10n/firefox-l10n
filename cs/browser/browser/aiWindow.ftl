@@ -11,6 +11,11 @@ menu-history-chats-recent =
     .label = Nedávné chaty
 smartwindow-document-title = Nový panel
 
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-private =
+    .label = Anonymní okno
+
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = Zeptejte se
@@ -32,9 +37,19 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-model-title = Co je pro vás důležité?
+aiwindow-firstrun-model-fast-label = Rychlý
+aiwindow-firstrun-model-allpurpose-label = Flexibilní
 aiwindow-firstrun-button = Začít
 aiwindow-firstrun-back-button = Zpět
 aiwindow-firstrun-next-button = Další
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-custom = Vlastní
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 
 ## Close Sidebar Button
 

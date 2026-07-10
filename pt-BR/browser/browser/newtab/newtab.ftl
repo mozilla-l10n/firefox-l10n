@@ -245,7 +245,9 @@ newtab-privacy-message-promo-vpn-1 = Está fazendo compras em uma rede pública 
 newtab-privacy-message-promo-vpn-1-cta = Abrir VPN
 newtab-privacy-message-promo-vpn-2 = Está usando o WiFi do aeroporto? Proteja sua navegação ativando a VPN integrada.
 newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-3 = Ative a VPN integrada para ajudar a proteger melhor sua localização.
 newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1 = Abra uma janela privativa para navegar com mais privacidade ao usar um computador compartilhado.
 newtab-privacy-message-promo-private-window-1-cta = Abrir janela privativa
 
 ## Strings for the Stocks widget
