@@ -216,6 +216,10 @@ newtab-privacy-message-info-7 = ਵੇਖੋ ਕਿ { -brand-short-name } ਨੇ
 newtab-privacy-message-info-7-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
 newtab-privacy-message-info-8 = { -brand-short-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨਾ { -vendor-short-name } ਦੇ ਵਧੀਆ ਵੈੱਬ ਬਣਾਉਣ ਦੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦਾ ਹੈ।
 newtab-privacy-message-info-8-cta = ਹੋਰ ਜਾਣੋ
+newtab-privacy-message-info-9 = ਹਮੇਸ਼ਾਂ ਨਾਲ ਮੌਜੂਦ ਪਰਦੇਦਾਰੀ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।
+newtab-privacy-message-info-9-cta = ਮੂਲ ਬਣਾਓ
+newtab-privacy-message-info-10 = ਹਰ ਥਾਂ ਉੱਤੇ ਮਜ਼ਬੂਤ, ਵਿਲੱਖਣ ਲਾਗਇਨ ਵਰਤਣ ਵਾਸਤੇ { -brand-short-name } ਵਿੱਚ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੰਭਾਲੋ।
+newtab-privacy-message-info-10-cta = ਪਾਸਵਰਡਾਂ ਉੱਤੇ ਜਾਓ
 
 ## Strings for the Stocks widget
 
