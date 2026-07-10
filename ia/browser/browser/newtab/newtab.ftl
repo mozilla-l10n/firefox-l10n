@@ -180,6 +180,22 @@ newtab-privacy-trackers-blocked-today =
         [one] Traciator blocate hodie
        *[other] Traciatores blocate hodie
     }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Sur { $count } sito
+       *[other] Sur { $count } sitos
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } bloca traciatores quando tu naviga. Tu los videra ci.
 
 ## Privacy widget — informational messages
 ##

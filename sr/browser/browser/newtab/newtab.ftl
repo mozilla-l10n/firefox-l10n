@@ -93,6 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Часовник
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Приватност
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Деонице
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Слика дана
 home-prefs-mission-message2 =
     .message = Наши спонзори подржавају нашу мисију изградње бољег веба.
 home-prefs-manage-topics-link2 =
@@ -153,6 +162,50 @@ home-prefs-support-firefox-header-srd =
     .label = Подржите { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Сазнајте како
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Сазнајте више
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Претражи симболе тикера
+# Context menu item that hides the Stocks widget.
+newtab-stocks-menu-hide = Сакриј деонице
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Сазнајте више
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Слика дана · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Постави позадину
+    .title = Постави позадину
+    .aria-label = Постави данашњу слику за вашу позадину
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Управљај позадином
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Сакриј данашњу слику
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Прикажи данашњу слику
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Сазнајте више
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Прикажи данашњу слику
+    .aria-label = Прикажи данашњу слику
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Поново проверите сутра за нову слику
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Слика дана са Wikimedia Commons
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -188,6 +241,7 @@ newtab-topsites-add-shortcut-label = Додај пречицу
 newtab-topsites-add-shortcut-title =
     .title = Додај пречицу
     .aria-label = Додај пречицу
+newtab-shortcuts-pinned-area = Закачена област
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов
@@ -495,6 +549,12 @@ newtab-custom-widget-clock-toggle =
     .label = Часовник
 newtab-custom-widget-sports-toggle2 =
     .label = Спорт
+newtab-custom-widget-privacy-toggle =
+    .label = Приватност
+newtab-custom-widget-stocks-toggle =
+    .label = Деонице
+newtab-custom-widget-picture-toggle =
+    .label = Слика дана
 newtab-custom-widget-section-title = Елементи
 newtab-custom-widget-section-toggle =
     .label = Елементи
@@ -976,6 +1036,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Искључи обавештења
 newtab-widget-timer-menu-notifications-on = Укључи обавештења
 newtab-widget-timer-menu-learn-more = Сазнајте више
+newtab-widget-timer-menu-button =
+    .aria-label = Могућности одбројавача
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Најважније вести
 newtab-daily-briefing-card-menu-dismiss = Одбаци
@@ -1096,6 +1158,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Само праћени тимови
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Учитавам више мечева…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Гледај
@@ -1175,6 +1239,9 @@ newtab-sports-widget-third-place = Треће место
 newtab-sports-widget-runner-up = Други
 newtab-sports-widget-champions = Шампиони
 newtab-sports-widget-world-cup-champions = Шампиони Светског првенства 2026.
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Шампиони 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1273,12 +1340,23 @@ newtab-sports-widget-team-tbd = Биће познато касније
 newtab-sports-widget-message-wallpapers-title = Започните Светско првенство новим позадинама
 newtab-sports-widget-message-wallpapers-body = Донесите енергију дана утакмице у свој прегледач за овај турнир.
 newtab-sports-widget-message-wallpapers-cta = Изаберите позадину
+newtab-sports-widget-message-wallpapers-semifinals-title = Преузмите нову позадину за полуфинале
+newtab-sports-widget-message-wallpapers-semifinals-body = Припремите се за највеће утакмице Светског првенства.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Додај елементе
 newtab-sports-widget-message-day-in-play-title = Останите у игри током дана уз елементе за { -brand-product-name }
 newtab-sports-widget-message-day-in-play-body = Пратите Светско првенство, останите фокусирани на своје задатке, пратите време широм света и још много тога.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Истражите елементе
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Помозите нам да учинимо елементе бољим
+newtab-sports-widget-message-survey-body = Светско првенство је завршено. Поделите ваше утиске о овом искуству.
+newtab-sports-widget-message-survey-widget-title = Како вам се свидео елемент Светског првенства?
+newtab-sports-widget-message-survey-widget-body = Поделите ваше утиске да нам поможете да побољшамо будуће елементе. Затим, испробајте нови у вашем распореду.
+newtab-sports-widget-message-survey-cta =
+    .label = Попуни анкету
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -166,6 +166,51 @@ home-prefs-mission-message-learn-more-link-srd = 看看是如何達成的
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 更多資訊
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today = 今日封鎖追蹤器數量
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites = 共 { $count } 個網站
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = 隨您上網，{ -brand-short-name } 會自動封鎖追蹤器。將在此處看到封鎖狀況。
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = 隨您上網，{ -brand-short-name } 會自動封鎖追蹤器。
+newtab-privacy-message-info-1-cta = 檢視保護成果
+newtab-privacy-message-info-2 = 追蹤器封鎖功能，可幫助防止大公司在網路上偷偷摸摸跟蹤您。
+newtab-privacy-message-info-2-cta = 檢視保護成果
+newtab-privacy-message-info-3 = 許多網站上都有追蹤器，就算您不曾造訪過網站的公司也可能會在網路上追蹤您。
+newtab-privacy-message-info-3-cta = 檢視保護成果
+newtab-privacy-message-info-4 = 選用 { -brand-short-name }，就代表您選擇預設開啟保護。
+newtab-privacy-message-info-4-cta = 檢視保護成果
+newtab-privacy-message-info-5-cta = 檢視保護成果
+newtab-privacy-message-info-6-cta = 了解更多
+newtab-privacy-message-info-7-cta = 檢視保護成果
+newtab-privacy-message-info-8-cta = 了解更多
+newtab-privacy-message-info-10-cta = 前往密碼
+newtab-privacy-message-info-12-cta = 檢視保護成果
+newtab-privacy-message-info-13-cta = 檢視保護成果
+
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
