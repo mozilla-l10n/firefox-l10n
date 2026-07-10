@@ -195,6 +195,12 @@ urlbar-result-menu-button =
     .title = Кушодани меню
 urlbar-result-menu-button-feedback = Изҳори назар
     .title = Менюро кушоед
+urlbar-result-menu-learn-more2 = Маълумоти бештар
+    .accesskey = М
+urlbar-result-menu-remove-from-history2 = Нест кардан аз таърих
+    .accesskey = Н
+urlbar-result-menu-tip-get-help2 = Гирифтани кумак
+    .accesskey = Г
 urlbar-result-menu-learn-more =
     .label = Маълумоти бештар
     .accesskey = М
@@ -866,6 +872,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Пурсидан
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1064,6 +1075,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ҳавасангез дар «{ $engine }»
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ҷустуҷӯҳои ҳавасангез дигар нишон дода нашаванд
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Сарпарастӣ
