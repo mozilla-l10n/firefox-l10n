@@ -199,6 +199,18 @@ urlbar-result-menu-remove-from-history2 = Hapus dari riwayat
     .accesskey = r
 urlbar-result-menu-tip-get-help2 = Dapatkan bantuan
     .accesskey = b
+urlbar-result-menu-dismiss-suggestion2 = Abaikan saran ini
+    .accesskey = b
+urlbar-result-menu-manage-firefox-suggest2 = Kelola { -firefox-suggest-brand-name }
+    .accesskey = K
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Laporkan lokasi yang tidak akurat
+urlbar-result-menu-show-less-frequently2 = Tampilkan lebih jarang
+urlbar-result-menu-dont-show-weather-suggestions2 = Jangan tampilkan saran cuaca
 urlbar-result-menu-learn-more =
     .label = Pelajari lebih lanjut
     .accesskey = P
@@ -850,6 +862,9 @@ urlbar-result-realtime-opt-in-allow = Tampilkan saran
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Jangan sekarang
 urlbar-result-realtime-opt-in-dismiss = Tutup
+urlbar-result-realtime-opt-in-dismiss-all2 = Jangan tampilkan saran ini
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Jangan tampilkan saran pasar
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Jangan tampilkan saran ini
 # This string is shown in the result menu.
