@@ -145,17 +145,16 @@ tab-context-reopen-closed-tabs =
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
-            [1] Затвори језичак
-            [one] Затвори { $tabCount } језичка
-            [few] Затвори { $tabCount } језичака
+            [one] Затвори { $tabCount } језичак
+            [few] Затвори { $tabCount } језичка
            *[other] Затвори { $tabCount } језичака
         }
     .accesskey = З
 tab-context-close-n-tabs2 =
     .label =
         { $tabCount ->
-            [1] Затвори
-            [few] Затвори { $tabCount } језичка
+            [one] Затвори { $tabCount } језичак
+            [few] Затвори { $tabCount } језичака
            *[other] Затвори { $tabCount } језичака
         }
     .accesskey = т
@@ -181,13 +180,13 @@ tab-context-move-split-view =
     .accesskey = и
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
-    .accesskey = у
     .label =
         { $tabCount ->
-            [1] Пошаљи на уређај
+            [one] Пошаљи { $tabCount } језичак на уређај
             [few] Пошаљи { $tabCount } језичка на уређај
            *[other] Пошаљи { $tabCount } језичака на уређај
         }
+    .accesskey = у
 tab-context-send-to-device2 =
     .label = Пошаљи на ваше уређаје
     .accesskey = у
@@ -195,7 +194,6 @@ tab-context-send-to-device2 =
 tab-context-send-to-mobile =
     .label =
         { $tabCount ->
-            [1] Пошаљи на мобилни
             [one] Пошаљи { $tabCount } језичак на мобилни
             [few] Пошаљи { $tabCount } језичка на мобилни
            *[other] Пошаљи { $tabCount } језичака на мобилни
@@ -208,19 +206,19 @@ tab-context-share-selected-tabs =
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
-            [one] Пошаљи језичак на уређај
+            [one] Пошаљи { $tabCount } језичак на уређај
             [few] Пошаљи { $tabCount } језичка на уређај
            *[other] Пошаљи { $tabCount } језичака на уређај
         }
     .accesskey = о
 tab-context-unload-n-tabs =
-    .accesskey = и
     .label =
         { $tabCount ->
-            [1] Испразни језичак
+            [one] Испразни { $tabCount } језичак
             [few] Испразни { $tabCount } језичка
            *[other] Испразни { $tabCount } језичака
         }
+    .accesskey = и
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
     .label = Испразни

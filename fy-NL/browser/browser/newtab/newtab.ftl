@@ -192,6 +192,43 @@ newtab-privacy-across-sites =
        *[other] Op { $count } websites
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokkearret trackers wylst jo sneupe. Jo sjogge se hjir.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blokkearret trackers automatysk wylst jo sneupe.
+newtab-privacy-message-info-1-cta = Beskermingen besjen
+newtab-privacy-message-info-2 = It blokkearjen fan trackers helpt foar te kommen dat bedriuwen jo online te folgje.
+newtab-privacy-message-info-2-cta = Beskermingen besjen
+newtab-privacy-message-info-3 = In protte websites hawwe trackers, sadat bedriuwen dy’t jo noch nea besocht hawwe jo online folgje kinne.
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Beskermingen besjen
+newtab-privacy-message-milestone-month-cta = Beskermingen besjen
+newtab-privacy-message-milestone-year-cta = Beskermingen besjen
+newtab-privacy-message-milestone-total-cta = Beskermingen besjen
+newtab-privacy-message-daily-cap-cta = Beskermingen besjen
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Jo binne al { $count } dei beskerme.
+       *[other] Jo binne { $count } dagen op rige beskerme.
+    }
+newtab-privacy-message-streak-cta = Beskermingen besjen
+newtab-privacy-message-first-protection-cta = Beskermingen besjen
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -206,6 +243,18 @@ newtab-stocks-menu-learn-more = Mear ynfo
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Ofbylding fan ’e dei · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Foto fan de dei
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = De { $license }-lisinsje besjen
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Opsjes foar Foto fan ’e dei
+    .aria-label = Opsjes foar Foto fan ’e dei
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

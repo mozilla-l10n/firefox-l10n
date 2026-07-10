@@ -60,5 +60,5 @@
 -smart-window-brand-name =
     { $plural-form ->
         [true] Ffenestri Clyfar
-       *[false] Ffenestri Clyfar
+       *[false] Ffenestr Glyfar
     }

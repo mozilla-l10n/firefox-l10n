@@ -630,3 +630,6 @@ smartwindow-sidebar-auto-open-callout-body = Jo kinne it noch altyd iepenje wann
 smartwindow-sidebar-auto-open-callout-accept = Ja, ticht hâlde
 smartwindow-sidebar-auto-open-callout-dismiss = Nee, tankewol
 smartwindow-sidebar-auto-open-callout-accepted-title = De assistint bliuwt ticht
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Brûk Freegje om it op elke side te iepenjen. Wizigje dit op elk winske momint yn <a data-l10n-name="settings">Ynstellingen</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Begrepen
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = As jo fan gedachten feroarje, kinne jo de standertwearde op elk momint bywurkje yn <a data-l10n-name="settings">Ynstellingen</a>.
