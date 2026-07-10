@@ -34,6 +34,9 @@ newtab-logo-and-wordmark =
 home-homepage-new-tabs =
     .label = Nýir flipar
 
+## Custom URLs subpage
+
+
 ## Firefox Home content
 
 home-prefs-firefox-logo-header =
@@ -84,6 +87,47 @@ home-prefs-support-firefox-header-srd =
     .label = Styddu við { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Finndu út hvernig
 
+## Strings for the Privacy widget
+
+
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Strings for the Picture of the Day widget
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -129,6 +173,9 @@ newtab-topsites-url-validation = Gildrar vefslóðar krafist
 newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -398,6 +445,8 @@ newtab-recommended-stories-toggle =
     .label = Sögur sem mælt er með
 newtab-custom-stories-personalized-toggle =
     .label = Sögur
+newtab-custom-stories-personalized-checkbox =
+    .label = Sérsniðnar sögur byggðar á virkni þinni
 newtab-custom-stories-personalized-checkbox-label = Sérsniðnar sögur byggðar á virkni þinni
 newtab-custom-pocket-sponsored = Kostaðar sögur
 newtab-custom-pocket-show-recent-saves = Sýna nýlega vistað
@@ -665,6 +714,9 @@ newtab-new-user-custom-wallpaper-title = Veldu bakgrunn til að gera { -brand-pr
 newtab-new-user-custom-wallpaper-subtitle = Láttu nýja flipa verða heimilislegri með sérsniðnum bakgrunnum og litum.
 newtab-new-user-custom-wallpaper-cta = Prófa það núna
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sækja { -brand-product-name } fyrir farsíma
@@ -774,3 +826,40 @@ newtab-promo-card-cta = Fræðast meira
 newtab-promo-card-dismiss-button =
     .title = Afgreiða
     .aria-label = Afgreiða
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+
