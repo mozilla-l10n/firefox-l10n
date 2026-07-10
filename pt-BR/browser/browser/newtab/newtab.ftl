@@ -227,6 +227,26 @@ newtab-privacy-message-info-11 = Descubra como o { -brand-short-name } ajuda a m
 newtab-privacy-message-info-11-cta = Saiba mais
 newtab-privacy-message-info-12 = O bloqueio de rastreadores pode ajudar a economizar dados em planos limitados.
 newtab-privacy-message-info-12-cta = Ver proteções
+newtab-privacy-message-info-13 = O { -brand-short-name } bloqueia rastreadores, liberando dados para transmissões mais fluidas.
+newtab-privacy-message-info-13-cta = Ver proteções
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Descubra se suas informações pessoais aparecem em um vazamento de dados.
+newtab-privacy-message-promo-monitor-1-cta = Saiba mais
+newtab-privacy-message-promo-monitor-2 = Proteja suas informações com monitoramento gratuito de vazamento de dados, em até 20 endereços de email.
+newtab-privacy-message-promo-monitor-2-cta = Saiba mais
+newtab-privacy-message-promo-signin-1 = Mantenha favoritos, senhas e abas criptografadas entre dispositivos com sua conta { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Entrar
+newtab-privacy-message-promo-vpn-1 = Está fazendo compras em uma rede pública de WiFi? Ative a VPN integrada para ter proteção extra.
+newtab-privacy-message-promo-vpn-1-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-2 = Está usando o WiFi do aeroporto? Proteja sua navegação ativando a VPN integrada.
+newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1-cta = Abrir janela privativa
 
 ## Strings for the Stocks widget
 

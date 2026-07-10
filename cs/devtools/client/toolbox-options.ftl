@@ -97,6 +97,13 @@ options-netmonitor-body-limit-set =
 
 # The heading
 options-experimental-label = Experimentální funkce
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Zobrazit kaskádové styly v debuggeru
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Zobrazení seznamu a detailu kaskádových listů v debuggeru
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (vyžaduje opětovné otevření nástrojů)
 
 ## Style Editor section
 
@@ -142,11 +149,29 @@ options-sourceeditor-keybinding-default-label = Výchozí
 # The heading
 options-local-mode-label = Lokální režim
 options-local-mode-only-work-locally = Lokální režim funguje pouze lokálně a je zakázán při ladění vzdálených kontextů
+options-local-mode-behavior = Místní režim umožňuje načítat místní soubory přes https URL bez jakékoliv externí závislosti. URL adresy lze načítat pouze z panelů s otevřenými nástroji pro vývojáře.
 options-local-mode-domain-label = Vlastní doména:
+options-local-mode-origin-input =
+    .placeholder = Zdroj pro místní mapování
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Tento zdroj je v konfliktu s jiným existujícím mapováním
 options-local-mode-origin-invalid = Tento zdroj není platný
 options-local-mode-folder-label = Místní složka:
+options-local-mode-choose-folder = Procházet…
+    .title = Vyberte místní složku, ze které se má toto mapování poskytovat
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Zvolit složku místního režimu pro: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Tato složka neexistuje nebo je neplatná.
+options-local-mode-toggle =
+    .title = Přepnout toto místní mapování
 options-local-mode-toggle-enable = Povolit
 options-local-mode-toggle-disable = Zakázat
+options-local-mode-navigate-to =
+    .title = Přejít na tuto URL mapování
 # Dialog message prompted when clicking on the Delete button
 # Variables:
 #   $mappingOrigin (String): The origin for the mapping
