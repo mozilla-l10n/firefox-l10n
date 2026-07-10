@@ -226,6 +226,7 @@ newtab-privacy-message-info-13-cta = 檢視保護成果
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = 看看您的個資是否出現在資料外洩事件中。
 newtab-privacy-message-promo-monitor-1-cta = 更多資訊
 newtab-privacy-message-promo-monitor-2-cta = 更多資訊
 newtab-privacy-message-promo-signin-1-cta = 登入

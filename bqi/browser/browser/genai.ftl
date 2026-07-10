@@ -67,6 +67,10 @@ genai-options-reload-provider =
 genai-options-show-shortcut =
     .label = نشووݩ داڌن ره نهنگ مجال پسند هؽل
 
+## Chatbot footer
+
+genai-page-button-summarize = خولاسه بلگه
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = رئڌن وا پؽش
@@ -94,6 +98,7 @@ genai-chatbot-summarize-button = خولاسه بلگه
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = وورکل هؽل وو کود
 genai-onboarding-huggingchat-generate = وورکل هؽل وو کود
 genai-onboarding-lechat-generate = وورکل هؽل وو کود
 

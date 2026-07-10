@@ -76,3 +76,11 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = بؽ دونگ کردن بلگه
 fxviewtabrow-unmute-tab-button-no-context =
     .title = وا دونگ کردن بلگه
+fxviewtabrow-send-to-mobile-device-missing2 = دسگا خوتووه نیبینین؟
+fxviewtabrow-send-to-mobile-not-verified = هساو تاییڌ نوابیڌه
+fxviewtabrow-send-to-mobile-verify-account = هساو خوتووݩ تاییڌ کۊنین
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+fxviewtabrow-send-to-mobile-sign-in = سی فشناڌن بلگه یل و من بیاین
+fxviewtabrow-send-to-mobile-turn-on-sync = سی فشناڌن بلگه یل هوم گوم کردن ن رۊشن کۊنین
