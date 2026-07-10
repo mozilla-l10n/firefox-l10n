@@ -11,6 +11,10 @@
 
 # Sidebar strings
 
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = وورکل کردن
+about-debugging-sidebar-setup-title =
+    .title = وورکل کردن
 # Sidebar heading for connecting to some remote source
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-setup =

@@ -16,6 +16,14 @@ about-debugging-page-title-setup-page = Bugdichtin - Setup
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = This { -brand-shorter-name }
+# Sidebar heading and title for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox2 = This { -brand-shorter-name }
+about-debugging-sidebar-this-firefox-title =
+    .title = This { -brand-shorter-name }
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = Setup
+about-debugging-sidebar-setup-title =
+    .title = Setup
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =

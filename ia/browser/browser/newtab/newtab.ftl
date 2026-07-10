@@ -312,10 +312,15 @@ newtab-privacy-message-first-protection-cta = Vider protectiones
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Recercar symbolos de actiones
-# Context menu item that hides the Stocks widget.
-newtab-stocks-menu-hide = Celar actiones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Pro saper plus
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
 
 ## Strings for the Picture of the Day widget
 
@@ -680,6 +685,8 @@ newtab-recommended-stories-toggle =
     .label = Historias recommendate
 newtab-custom-stories-personalized-toggle =
     .label = Historias
+newtab-custom-stories-personalized-checkbox =
+    .label = Historias personalisate basate sur tu activitate
 newtab-custom-stories-personalized-checkbox-label = Historias personalisate basate sur tu activitate
 newtab-custom-pocket-sponsored = Articulos sponsorisate
 newtab-custom-pocket-show-recent-saves = Monstrar salvamentos recente

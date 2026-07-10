@@ -152,6 +152,47 @@ home-prefs-support-firefox-header-srd =
     .label = Apoyar a { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Descubra cómo
 
+## Strings for the Privacy widget
+
+
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Strings for the Picture of the Day widget
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -472,6 +513,8 @@ newtab-recommended-stories-toggle =
     .label = Historias recomendadas
 newtab-custom-stories-personalized-toggle =
     .label = Historias
+newtab-custom-stories-personalized-checkbox =
+    .label = Historias personalizadas basadas en su actividad
 newtab-custom-stories-personalized-checkbox-label = Historias personalizadas basadas en su actividad
 newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar guardados recientemente
@@ -1265,6 +1308,9 @@ newtab-sports-widget-message-day-in-play-title = Mantenga su día en movimiento 
 newtab-sports-widget-message-day-in-play-body = Siga el Mundial, manténgase concentrado, controle la hora en todo el mundo y mucho más.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

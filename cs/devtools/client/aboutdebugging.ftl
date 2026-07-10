@@ -26,6 +26,26 @@ about-debugging-this-firefox-runtime-name =
         [neuter] Toto { -brand-shorter-name }
        *[other] Tato aplikace { -brand-shorter-name }
     }
+# Sidebar heading and title for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox2 =
+    { -brand-shorter-name.gender ->
+        [masculine] Tento { -brand-shorter-name }
+        [feminine] Tato { -brand-shorter-name }
+        [neuter] Toto { -brand-shorter-name }
+       *[other] Tato aplikace { -brand-shorter-name }
+    }
+about-debugging-sidebar-this-firefox-title =
+    .title =
+        { -brand-shorter-name.gender ->
+            [masculine] Tento { -brand-shorter-name }
+            [feminine] Tato { -brand-shorter-name }
+            [neuter] Toto { -brand-shorter-name }
+           *[other] Tato aplikace { -brand-shorter-name }
+        }
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = Nastavení
+about-debugging-sidebar-setup-title =
+    .title = Nastavení
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =

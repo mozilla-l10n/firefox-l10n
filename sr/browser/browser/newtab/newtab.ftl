@@ -320,10 +320,15 @@ newtab-privacy-message-first-protection-cta = Прикажи заштите
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Претражи симболе тикера
-# Context menu item that hides the Stocks widget.
-newtab-stocks-menu-hide = Сакриј деонице
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Сазнајте више
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
 
 ## Strings for the Picture of the Day widget
 
@@ -690,6 +695,8 @@ newtab-recommended-stories-toggle =
     .label = Препоручене приче
 newtab-custom-stories-personalized-toggle =
     .label = Приче
+newtab-custom-stories-personalized-checkbox =
+    .label = Персонализоване приче засноване на вашој активности
 newtab-custom-stories-personalized-checkbox-label = Персонализоване приче засноване на вашој активности
 newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-pocket-show-recent-saves = Прикажи недавно сачувано

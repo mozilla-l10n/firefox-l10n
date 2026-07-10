@@ -175,6 +175,19 @@ home-prefs-mission-message-learn-more-link-srd = Zjistěte jak
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Zjistit více
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
@@ -186,14 +199,25 @@ newtab-privacy-message-promo-relay-2 = Chraňte svou doručenou poštu před nev
 newtab-privacy-message-promo-relay-2-cta = Získat masky
 newtab-privacy-message-promo-relay-3-cta = Získat masky
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Hledat burzové symboly
-# Context menu item that hides the Stocks widget.
-newtab-stocks-menu-hide = Skrýt akcie
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Zjistit více
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
 
 ## Strings for the Picture of the Day widget
 
@@ -537,6 +561,8 @@ newtab-recommended-stories-toggle =
     .label = Doporučené příběhy
 newtab-custom-stories-personalized-toggle =
     .label = Příběhy
+newtab-custom-stories-personalized-checkbox =
+    .label = Personalizované příběhy na základě vaší aktivity
 newtab-custom-stories-personalized-checkbox-label = Personalizované příběhy na základě vaší aktivity
 newtab-custom-pocket-sponsored = Sponzorované příběhy
 newtab-custom-pocket-show-recent-saves = Zobrazit nedávno uložené
