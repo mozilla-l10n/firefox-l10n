@@ -877,6 +877,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prasīt
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1078,6 +1083,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendences meklētājā { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Nerādīt tendences meklēšanas vaicājumos
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Apmaksāts
