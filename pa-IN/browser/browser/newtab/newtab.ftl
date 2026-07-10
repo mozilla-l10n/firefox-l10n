@@ -266,10 +266,43 @@ newtab-privacy-message-milestone-week =
        *[other] ਇਸ ਹਫ਼ਤੇ { $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਵੇਖੋ ਕਿ { -brand-short-name } ਨੇ ਕਿਸ ਕਿਸ ਨੂੰ ਤੁਹਾਡੇ ਤੋਂ ਦੂਰ ਰੱਖਿਆ
     }
 newtab-privacy-message-milestone-week-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] ਇਸ ਮਹੀਨੇ { $count } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਛੋਟਾ ਪੜਾਅ। ਮਨ ਦੇ ਸਹਿਜ ਲਈ ਇੱਕ ਵੱਡਾ ਪੜਾਅ।
+       *[other] ਇਸ ਮਹੀਨੇ { $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਛੋਟਾ ਪੜਾਅ। ਮਨ ਦੇ ਸਹਿਜ ਲਈ ਇੱਕ ਵੱਡਾ ਪੜਾਅ।
+    }
 newtab-privacy-message-milestone-month-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] ਇਸ ਸਾਲ { $count } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ ਇਹ ਮਜ਼ਬੂਤ ਸਾਲ ਸੀ।
+       *[other] ਇਸ ਸਾਲ { $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ ਇਹ ਮਜ਼ਬੂਤ ਸਾਲ ਸੀ।
+    }
 newtab-privacy-message-milestone-year-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਇਹ ਤੁਹਾਡੀਆਂ ਸ਼ਰਤਾਂ ਮੁਤਾਬਕ ਪਰਦੇਦਾਰੀ ਵੱਲ ਇੱਕ ਵੱਡਾ ਕਦਮ ਹੈ।
+       *[other] { $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਇਹ ਤੁਹਾਡੀਆਂ ਸ਼ਰਤਾਂ ਮੁਤਾਬਕ ਪਰਦੇਦਾਰੀ ਵੱਲ ਇੱਕ ਵੱਡਾ ਕਦਮ ਹੈ।
+    }
 newtab-privacy-message-milestone-total-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (ਅੱਜ 100+ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ।) ਘੱਟ ਟਰੈਕਰ ਵੱਧ ਪਰਦੇਦਾਰੀ।
 newtab-privacy-message-daily-cap-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] ਲਗਾਤਾਰ { $count } ਦਿਨ ਲਈ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਪ੍ਰਦਾਨ ਕੀਤੀ ਗਈ।
+       *[other] ਲਗਾਤਾਰ { $count } ਦਿਨਾਂ ਲਈ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਪ੍ਰਦਾਨ ਕੀਤੀ ਗਈ।
+    }
+newtab-privacy-message-streak-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਕਰਦੇ ਰਹੋ, { -brand-short-name } ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਰਹੇਗਾ।
 newtab-privacy-message-first-protection-cta = ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਵੇਖੋ
 
 ## Strings for the Stocks widget
@@ -290,6 +323,11 @@ newtab-picture-header-main = ਅੱਜ ਦੀ ਤਸਵੀਰ
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = { $license } ਲਸੰਸ ਨੂੰ ਵੇਖੋ
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
+    .aria-label = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
 
 ## Search box component.
 
