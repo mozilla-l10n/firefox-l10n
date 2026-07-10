@@ -195,6 +195,22 @@ urlbar-result-menu-button =
     .title = Abrir menú
 urlbar-result-menu-button-feedback = Comentarios
     .title = Abrir menú
+urlbar-result-menu-learn-more2 = Saber más
+    .accesskey = S
+urlbar-result-menu-tip-get-help2 = Obtener ayudar
+    .accesskey = O
+urlbar-result-menu-dismiss-suggestion2 = Ignorar esta sugerencia
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = Administrar { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Reportar ubicación inexacta
+urlbar-result-menu-show-less-frequently2 = Mostrar con menor frecuencia
+urlbar-result-menu-dont-show-weather-suggestions2 = No mostrar condiciones meterológicas
 urlbar-result-menu-learn-more =
     .label = Saber más
     .accesskey = S
