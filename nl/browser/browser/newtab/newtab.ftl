@@ -262,6 +262,19 @@ newtab-privacy-message-promo-relay-3-cta = Maskers verkrijgen
 ## protection). Count-bearing ones interpolate { $count }.
 
 newtab-privacy-message-milestone-week-cta = Beschermingen bekijken
+newtab-privacy-message-milestone-month-cta = Beschermingen bekijken
+newtab-privacy-message-milestone-year-cta = Beschermingen bekijken
+newtab-privacy-message-milestone-total-cta = Beschermingen bekijken
+newtab-privacy-message-daily-cap-cta = Beschermingen bekijken
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] U bent inmiddels { $count } dag beschermd.
+       *[other] U bent { $count } dagen op rij beschermd.
+    }
+newtab-privacy-message-streak-cta = Beschermingen bekijken
+newtab-privacy-message-first-protection-cta = Beschermingen bekijken
 
 ## Strings for the Stocks widget
 
@@ -277,6 +290,18 @@ newtab-stocks-menu-learn-more = Meer info
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Afbeelding van de dag · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Foto van de dag
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = De { $license }-licentie bekijken
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Opties voor Foto van de dag
+    .aria-label = Opties voor Foto van de dag
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

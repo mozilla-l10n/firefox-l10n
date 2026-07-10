@@ -257,17 +257,38 @@ smart-window-close-confirm =
     .aria-label = Oanfraach annulearje en slute
     .tooltiptext = Oanfraach annulearje en slute
 smart-window-confirm-close-tab = Slute
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] { $count } ljepblêd slute
+       *[other] { $count } ljepblêden slute
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Ljepblêd sletten
+smartwindow-close-tab-callout-subtitle = Iepenje ljepblêden op elk momint opnij fan de skiednis út.
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = { -smart-window-brand-name } jo standert meitsje?
+smart-window-default-promo-message = { -brand-short-name } iepenet elke kear yn { -smart-window-brand-name }.
 smart-window-default-promo-primary-button = Ynstelle as standert
 smart-window-default-promo-additional-button = No net
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Kommentaar diele
+aiwindow-feedback-what-worked-well = Wat wurke goed? Nim gjin persoanlike gegevens op.
+aiwindow-feedback-choose-any = Kies wat fan tapassing is
+aiwindow-feedback-add-details = Foegje as jo winske details ta. Nim gjin persoanlijke gegevens op.
+aiwindow-feedback-disclaimer = It yntsjinjen dielt jo kommentaar en dizze chat om { -brand-shorter-name } te helpen { -smart-window-brand-name } te ferbetterjen. Jo oare chats bliuwe privee. <a data-l10n-name="learn-more">Mear ynfo</a>
 aiwindow-feedback-submit = Yntsjinje
 aiwindow-feedback-cancel = Annulearje
 aiwindow-feedback-reason-incorrect-or-misleading = Ferkeard of misliedend
+aiwindow-feedback-reason-doesnt-address-my-request = Giet net oer myn fersyk
 aiwindow-feedback-reason-other = Oars
 aiwindow-feedback-preview-report = Chatdetails besjen
