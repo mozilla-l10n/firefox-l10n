@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = 打开的标签页
 sidebar-options-menu-button =
     .title = 打开菜单
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = 调整侧栏大小
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = 窗口 { $winID }
+sidebar-bookmarks-title = 书签
 
 ## Context for closing synced tabs when hovering over the items
 

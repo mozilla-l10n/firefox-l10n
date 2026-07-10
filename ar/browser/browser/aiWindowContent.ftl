@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Assistant Message footer
+
+aiwindow-memories-learn-more = اطّلع على المزيد
+
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 

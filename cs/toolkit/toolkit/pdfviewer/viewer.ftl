@@ -154,6 +154,15 @@ pdfjs-document-properties-linearized-yes = Ano
 pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zavřít
 pdfjs-digital-signature-properties-view-certificate = Zobrazit certifikát
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Důvod: { $reason }
 
 ## Print
 
@@ -749,6 +758,32 @@ pdfjs-views-manager-waiting-for-file = Nahrávání souboru…
 pdfjs-toggle-views-manager-button1 =
     .title = Spravovat strany
 
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Vlastnosti digitálního podpisu
+    .aria-label = Vlastnosti digitálního podpisu
+pdfjs-digital-signature-properties-button-label = Vlastnosti digitálního podpisu
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokument byl podepsán platným digitálním podpisem
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Stav: Podpis ověřen
+pdfjs-digital-signature-properties-status-invalid = Stav: Podpis je neplatný
+pdfjs-digital-signature-properties-status-unknown = Stav: Nelze ověřit (nepodporováno)
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
@@ -756,8 +791,10 @@ pdfjs-toggle-views-manager-button1 =
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Certifikát: Důvěryhodný ({ $issuer })
 pdfjs-digital-signature-properties-certificate-unknown = Certifikát: nedostupný
 pdfjs-digital-signature-properties-certificate-untrusted = Certifikát: nedůvěryhodný
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certifikát: Neznámý vydavatel ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Certifikát: vypršel
 pdfjs-digital-signature-properties-certificate-revoked = Certifikát: zneplatněn
 

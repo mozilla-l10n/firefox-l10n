@@ -39,6 +39,8 @@ tabbrowser-close-tabs-tooltip =
     .label = 关闭 { $tabCount } 个标签页
 tab-splitview-splitter =
     .aria-label = 调整分屏标签页大小
+tab-devtools-splitter =
+    .aria-label = 调整开发者工具面板大小
 
 ## Tooltips for tab audio control
 ## Variables:

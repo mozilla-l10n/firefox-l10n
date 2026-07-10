@@ -330,6 +330,8 @@ about-debugging-multiprocess-toolbox-name = 多进程工具箱
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = 目标浏览器的主进程和内容进程
+about-debugging-message-error-icon =
+    .alt = 错误图标
 about-debugging-message-info-icon =
     .alt = 信息图标
 about-debugging-message-warning-icon =

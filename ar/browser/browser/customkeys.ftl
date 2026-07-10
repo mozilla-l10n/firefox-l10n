@@ -70,3 +70,7 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = اضغط على مفتاح جديد:
+
+## Sidebar
+
+customkeys-support-link-text = اطّلع على المزيد

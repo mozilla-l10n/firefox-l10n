@@ -131,6 +131,7 @@ aiwindow-firstrun-memories-title = Wjace wužitnych wotmołwow, k wašim wuměnj
 aiwindow-firstrun-memories-relevance-title = Wjace relewantnych wotmołwow
 aiwindow-firstrun-memories-privacy-title = Priwatny po designje
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = W { -brand-product-name } přehladować
 
 ## Firstrun set as default onboarding
 
@@ -226,12 +227,16 @@ firefoxview-search-chat-results-count =
 item-history-downloads-and-chat =
     .label = Historija přehladowanja, sćehnjenjow a chatow
     .accesskey = H
+item-history-downloads-and-chat-description = Zhaša historiju sydłow, sćehnjenjow a chatow
 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
     .label = Wšě wubrać
     .aria-label = Wšě wubrać
+smart-window-close-confirm =
+    .aria-label = Naprašowanje přetorhnyć a začinić
+    .tooltiptext = Naprašowanje přetorhnyć a začinić
 smart-window-confirm-close-tab = Začinić
 # Variables
 #   $count (number) - Number of tabs to close

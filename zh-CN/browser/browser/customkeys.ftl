@@ -88,9 +88,19 @@ customkeys-conflict-confirm-title = 要移除另一快捷键吗？
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm-body = 此键已由“{ $conflict }”使用。
+customkeys-conflict-confirm-button-confirm = 仍要使用
+customkeys-conflict-confirm-button-cancel = 取消
+customkeys-reset-all-confirm-title = 确定要恢复默认设置吗？
+customkeys-reset-all-confirm-body = 将移除所有自定义键盘快捷键。
+customkeys-reset-all-confirm-button-confirm = 恢复默认设置
+customkeys-reset-all-confirm-button-cancel = 取消
 
 ## Sidebar
 
+customkeys-sidebar =
+    .aria-label = 侧栏
+customkeys-title-heading =
+    .heading = 键盘快捷键
 # Search is a verb, as in "search through shortcuts".
 customkeys-search-input =
     .aria-label = 搜索快捷键

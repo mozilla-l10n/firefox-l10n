@@ -27,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = 克隆标签页
     .accesskey = D
+duplicate-tab2 =
+    .label = 克隆
+    .accesskey = D
 duplicate-tabs =
     .label = 克隆标签页
+    .accesskey = D
+duplicate-tabs2 =
+    .label = 克隆
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -102,6 +108,10 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = 批量关闭标签页
     .accesskey = M
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = 关闭多项
+    .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = 关闭重复标签页
     .accesskey = x
@@ -149,6 +159,18 @@ tab-context-move-tabs =
             [1] 移动标签页
            *[other] 移动标签页
         }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] 移动标签页
+           *[other] 移动 { $tabCount } 个标签页
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = 移动分屏
     .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =

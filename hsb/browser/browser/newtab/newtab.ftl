@@ -184,6 +184,24 @@ newtab-privacy-trackers-blocked-today =
         [few] { NUMBER($count) } přesćěhowaki dźensa zablokowane
        *[other] { NUMBER($count) } přesćěhowakow dźensa zablokowanych
     }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Na { $count } sydle
+        [two] Na { $count } sydłomaj
+        [few] Na { $count } sydłach
+       *[other] Na { $count } sydłach
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } přesćěhowaki blokuje, hdyž přehladujeće. Budźeće je tu widźeć.
 
 ## Privacy widget — informational messages
 ##
@@ -191,10 +209,20 @@ newtab-privacy-trackers-blocked-today =
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } přesćěhowaki awtomatisce blokuje, hdyž přehladujeće.
+newtab-privacy-message-info-1-cta = Škity pokazać
+newtab-privacy-message-info-2-cta = Škity pokazać
+newtab-privacy-message-info-3-cta = Škity pokazać
+newtab-privacy-message-info-4-cta = Škity pokazać
+newtab-privacy-message-info-5-cta = Škity pokazać
 newtab-privacy-message-info-6-cta = Dalše informacije
+newtab-privacy-message-info-7-cta = Škity pokazać
 newtab-privacy-message-info-8-cta = Dalše informacije
 newtab-privacy-message-info-9-cta = K standardej činić
+newtab-privacy-message-info-10-cta = K hesłam
 newtab-privacy-message-info-11-cta = Dalše informacije
+newtab-privacy-message-info-12-cta = Škity pokazać
+newtab-privacy-message-info-13-cta = Škity pokazać
 
 ## Privacy widget — promotional messages
 ##
@@ -207,6 +235,23 @@ newtab-privacy-message-promo-signin-1-cta = Přizjewić
 newtab-privacy-message-promo-vpn-1-cta = VPN wočinić
 newtab-privacy-message-promo-vpn-2-cta = VPN wočinić
 newtab-privacy-message-promo-vpn-3-cta = VPN wočinić
+newtab-privacy-message-promo-private-window-1-cta = Priwatne wokno wočinić
+newtab-privacy-message-promo-relay-1-cta = Maski wobstarać
+newtab-privacy-message-promo-relay-2-cta = Maski wobstarać
+newtab-privacy-message-promo-relay-3-cta = Maski wobstarać
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Škity pokazać
+newtab-privacy-message-milestone-month-cta = Škity pokazać
+newtab-privacy-message-milestone-year-cta = Škity pokazać
+newtab-privacy-message-milestone-total-cta = Škity pokazać
+newtab-privacy-message-daily-cap-cta = Škity pokazać
+newtab-privacy-message-streak-cta = Škity pokazać
+newtab-privacy-message-first-protection-cta = Škity pokazać
 
 ## Strings for the Stocks widget
 
@@ -224,6 +269,11 @@ newtab-stocks-menu-learn-more = Dalše informacije
 newtab-picture-header = Wobraz dnja – Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Wobraz dnja
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Licencu { $license } pokazać
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
