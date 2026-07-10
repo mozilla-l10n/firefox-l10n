@@ -695,6 +695,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = { $engine } मा ट्रेन्डिङ
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = ट्रेन्डिङ खोजहरू नदेखाउनुहोस्
+    .accesskey = D
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ट्रेन्डिङ खोजहरू नदेखाउनुहोस्
     .accesskey = D
