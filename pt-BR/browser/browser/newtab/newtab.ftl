@@ -211,6 +211,22 @@ newtab-privacy-message-info-3 = Muitos sites têm rastreadores, assim empresas q
 newtab-privacy-message-info-3-cta = Ver proteções
 newtab-privacy-message-info-4 = Escolher o { -brand-short-name } significa escolher proteção por padrão.
 newtab-privacy-message-info-4-cta = Ver proteções
+newtab-privacy-message-info-5 = O bloqueio de rastreadores reduz o número de empresas que conseguem te seguir de um site para outro.
+newtab-privacy-message-info-5-cta = Ver proteções
+newtab-privacy-message-info-6 = Tenha seus dados protegidos com o { -brand-short-name }. Nunca vendemos, mas outros navegadores podem.
+newtab-privacy-message-info-6-cta = Saiba mais
+newtab-privacy-message-info-7 = Veja quais rastreadores o { -brand-short-name } bloqueou.
+newtab-privacy-message-info-7-cta = Ver proteções
+newtab-privacy-message-info-8 = Navegar com o { -brand-short-name } apoia a missão da { -vendor-short-name } de construir uma web melhor.
+newtab-privacy-message-info-8-cta = Saiba mais
+newtab-privacy-message-info-9 = Torne o { -brand-short-name } seu navegador padrão para ter privacidade integrada.
+newtab-privacy-message-info-9-cta = Definir como padrão
+newtab-privacy-message-info-10 = Salve senhas no { -brand-short-name } para usar credenciais fortes e únicas em qualquer lugar.
+newtab-privacy-message-info-10-cta = Ir para senhas
+newtab-privacy-message-info-11 = Descubra como o { -brand-short-name } ajuda a manter sua navegação mais privativa.
+newtab-privacy-message-info-11-cta = Saiba mais
+newtab-privacy-message-info-12 = O bloqueio de rastreadores pode ajudar a economizar dados em planos limitados.
+newtab-privacy-message-info-12-cta = Ver proteções
 
 ## Strings for the Stocks widget
 

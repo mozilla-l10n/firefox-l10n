@@ -78,8 +78,25 @@ options-webconsole-split-console-tooltip =
 
 ## Network Monitor section
 
+# The heading
+options-netmonitor-label = Monitor síťové aktivity
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maximální velikost požadavku a odpovědi (pro neomezeno nastavit na 0):
+options-netmonitor-body-limit-tooltip =
+    .title = Těla požadavku nebo odpovědi, které překročí zadanou velikost, budou při zobrazení nebo stažení v nástroji Monitor síťové aktivity zkrácena. Nastavte na 0 pro bez omezení.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Neomezené
+options-netmonitor-body-limit-button =
+    .title = Upravit maximální velikost požadavku/odpovědi.
+options-netmonitor-body-limit-restore-default =
+    .title = Obnovit výchozí hodnotu maximální velikosti těla požadavku/odpovědi.
+options-netmonitor-body-limit-set =
+    .title = Nastavení aktuální vstupní hodnotu jako maximální velikost těla požadavku/odpovědi.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Experimentální funkce
 
 ## Style Editor section
 
