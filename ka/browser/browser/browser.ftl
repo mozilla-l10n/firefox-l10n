@@ -195,6 +195,10 @@ urlbar-result-menu-button =
     .title = მენიუს გახსნა
 urlbar-result-menu-button-feedback = გამოხმაურება
     .title = მენიუს გახსნა
+urlbar-result-menu-learn-more2 = ვრცლად
+    .accesskey = ლ
+urlbar-result-menu-tip-get-help2 = დახმარების მიღება
+    .accesskey = ხ
 urlbar-result-menu-learn-more =
     .label = ვრცლად
     .accesskey = ლ
@@ -866,6 +870,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · დამკვეთისგან
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = კითხვა
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
