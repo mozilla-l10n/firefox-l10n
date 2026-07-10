@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Ativar cópia de segurança
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Houve um problema com a pasta de backup selecionada. Escolha outra pasta e tente novamente.
+turn-on-scheduled-backups-error-default-dir-denied = Não foi possível acessar sua pasta de backup. Tente escolher outro local.
 backup-error-file-system = Houve um problema com a pasta de backup selecionada ao fazer backup do { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

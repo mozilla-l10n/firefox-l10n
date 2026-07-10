@@ -89,6 +89,7 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = زبار Le Chat Mistral قلوه دووسته بۊین
 genai-onboarding-select-primary = ناڌن پا گوفت ۉ لوفت
 genai-chatbot-contextual-button = ی چت بات پسند کۊنین
+genai-chatbot-summarize-button = خولاسه بلگه
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

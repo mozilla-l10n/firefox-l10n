@@ -37,6 +37,11 @@ ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 ipprotection-site-settings-callout-title = پسند کۊنین ک VPN ن کوینا و کار اگیرین
 ipprotection-site-settings-callout-button = فئمیم
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = امتهووس کوݩ
+ipprotection-location-selection-callout-secondary-button = رڌ کردن
+
 ## Panel
 
 # Also used for the callout shown in private browsing

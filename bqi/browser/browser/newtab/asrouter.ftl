@@ -188,6 +188,8 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = قلوه دووسته بۊین
+launch-on-login-infobar-reject-button = سکو ن
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.

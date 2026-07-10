@@ -126,6 +126,21 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = لادرار { -brand-product-name }
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the Picture of the Day widget
+
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = قلوه دووسته بۊین
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -367,6 +382,7 @@ newtab-wallpaper-light-sky = آسمۊوی وا ٱورا بناوش وو آل
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = رنگا سابت
+newtab-wallpaper-colors = رنگا
 newtab-wallpaper-blue = کوۊ
 newtab-wallpaper-light-blue = کوۊ رۊشن
 newtab-wallpaper-light-purple = بناوش رۊشن
@@ -474,6 +490,10 @@ newtab-section-follow-highlight-title = فید خوتووݩ ن دییق سامو
 newtab-section-block-button = مسدۊد کردن
 newtab-section-blocked-button = مسدۊد وابیڌه
 newtab-section-unblock-button = ز مسدۊدی دراووردن
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = مسدۊد کردن { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -606,6 +626,7 @@ newtab-promo-card-dismiss-button =
 newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
 newtab-sports-widget-cancel = لقو
 newtab-sports-widget-cancelled = لقو وابی
+newtab-sports-widget-third-place = مقام سووم
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
