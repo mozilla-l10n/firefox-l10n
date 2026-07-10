@@ -1235,7 +1235,7 @@ newtab-daily-briefing-card-menu-dismiss = Cau
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Diweddarwyd { $minutes }m yn ôl
-newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
+newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd cynwysedig
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.
 # One spot refers to a dedicated section on new tab to manage and use widgets
