@@ -77,6 +77,7 @@ smartbar-placeholder-hint-4 = Pesquise na web…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Referenciar uma aba ou site
 smartbar-mentions-list-no-results-label = Nenhum resultado encontrado
 smartbar-mentions-list-recent-tabs-label = Abas recentes
 
@@ -88,6 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Referenciar uma aba ou site
 aiwindow-website-chip-history-deleted = Histórico excluído
 aiwindow-website-chip-remove-button =
     .aria-label = Remover
@@ -300,3 +302,9 @@ aiwindow-feedback-include-page-content = Compartilhar as páginas referenciadas 
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Mudar forma da exibição
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Mudar para modo de exibição em lista
+    .tooltiptext = Exibição em lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Mudar para modo de exibição em grade
+    .tooltiptext = Exibição em grade
