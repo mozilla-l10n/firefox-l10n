@@ -231,23 +231,23 @@ newtab-privacy-message-info-7 = Gweld pa dracwyr mae { -brand-short-name } wedi'
 newtab-privacy-message-info-7-cta = Dyma'r diogelwch
 newtab-privacy-message-info-8 = Mae pori gyda { -brand-short-name } yn cefnogi cenhadaeth { -vendor-short-name } i adeiladu gwe well.
 newtab-privacy-message-info-8-cta = Dysgu rhagor
-newtab-privacy-message-info-9 = Gwnewch { -brand-short-name } eich porwr chi ar gyfer preifatrwydd cynhwysol.
+newtab-privacy-message-info-9 = Gwnewch { -brand-short-name } eich porwr chi ar gyfer preifatrwydd cynwysedig.
 newtab-privacy-message-info-9-cta = Ei wneud yr arferol
 newtab-privacy-message-info-10 = Cadw cyfrineiriau yn { -brand-short-name } i ddefnyddio mewngofnodi cryf, unigryw ym mhobman.
 newtab-privacy-message-info-10-cta = Mynd i gyfrineiriau
 newtab-privacy-message-info-11 = Darganfod sut mae { -brand-short-name } yn helpu i gadw'ch pori'n fwy preifat.
 newtab-privacy-message-info-11-cta = Dysgu rhagor
 newtab-privacy-message-info-12 = Gall rhwystro tracwyr helpu i arbed lled band ar gynlluniau data cyfyngedig.
-newtab-privacy-message-info-12-cta = Gweld y diogelwch
+newtab-privacy-message-info-12-cta = Dyma'r diogelwch
 newtab-privacy-message-info-13 = Mae { -brand-short-name } yn rhwystro tracwyr, gan ryddhau lled band ar gyfer ffrydio llyfnach.
-newtab-privacy-message-info-13-cta = Gweld y diogelwch
+newtab-privacy-message-info-13-cta = Dyma'r diogelwch
 
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
-newtab-privacy-message-promo-monitor-1 = Darganfydd a yw'ch manylion personol yn ymddangos mewn tor-data.
+newtab-privacy-message-promo-monitor-1 = Darganfod a yw'ch manylion personol yn ymddangos mewn tor-data.
 newtab-privacy-message-promo-monitor-1-cta = Dysgu rhagor
 newtab-privacy-message-promo-monitor-2 = Diogelu eich manylion gyda monitro tor-data am ddim, ar gyfer hyd at 20 e-bost.
 newtab-privacy-message-promo-monitor-2-cta = Dysgu rhagor
@@ -255,9 +255,9 @@ newtab-privacy-message-promo-signin-1 = Cadw nodau tudalen, cyfrineiriau a thabi
 newtab-privacy-message-promo-signin-1-cta = Mewngofnodi
 newtab-privacy-message-promo-vpn-1 = Yn siopa ar Wi-Fi cyhoeddus? Trowch y VPN cynwysedig ymlaen i gael diogelwch ychwanegol.
 newtab-privacy-message-promo-vpn-1-cta = Agor y VPN
-newtab-privacy-message-promo-vpn-2 = Yn defnyddio Wi-Fi maes awyr? Diogelwch eich pori trwy droi VPN cynwysedig ymlaen.
+newtab-privacy-message-promo-vpn-2 = Yn defnyddio Wi-Fi maes awyr? Diogelwch eich pori trwy droi'r VPN cynwysedig ymlaen.
 newtab-privacy-message-promo-vpn-2-cta = Agor y VPN
-newtab-privacy-message-promo-vpn-3 = Trowch VPN cynwysedig ymlaen i helpu i gadw'ch lleoliad yn fwy preifat.
+newtab-privacy-message-promo-vpn-3 = Trowch y VPN cynwysedig ymlaen i helpu i gadw'ch lleoliad yn fwy preifat.
 newtab-privacy-message-promo-vpn-3-cta = Agor y VPN
 newtab-privacy-message-promo-private-window-1 = Rhowch gynnig ar ffenestr breifat i bori'n fwy preifat wrth ddefnyddio cyfrifiadur rydych yn ei rannu.
 newtab-privacy-message-promo-private-window-1-cta = Agor ffenestr breifat
@@ -277,13 +277,38 @@ newtab-privacy-message-promo-relay-3-cta = Cael arallenwau
 #   $count (number) - Trackers blocked this week
 newtab-privacy-message-milestone-week =
     { $count ->
-        [zero] Mae { $count } traciwr wedi'u rhwystro yr wythnos hon. Dyma beth mae { -brand-short-name } yn eu cadw allan o'ch ffordd
+        [zero] Does { $count } traciwr wedi'u rhwystro yr wythnos hon. Dyma fydd { -brand-short-name } yn eu cadw allan o'ch ffordd
         [one] Mae { $count } traciwr wedi'i rwystro yr wythnos hon. Dyma beth mae { -brand-short-name } yn ei cadw allan o'ch ffordd
         [two] Mae { $count } draciwr wedi'u rhwystro yr wythnos hon. Dyma beth mae { -brand-short-name } yn eu cadw allan o'ch ffordd
         [few] Mae { $count } traciwr wedi'u rhwystro yr wythnos hon. Dyma beth mae { -brand-short-name } yn eu cadw allan o'ch ffordd
         [many] Mae { $count } thraciwr wedi'u rhwystro yr wythnos hon. Dyma beth mae { -brand-short-name } yn eu cadw allan o'ch ffordd
        *[other] Mae { $count } traciwr wedi'u rhwystro yr wythnos hon. Dyma beth mae { -brand-short-name } yn eu cadw allan o'ch ffordd
     }
+newtab-privacy-message-milestone-week-cta = Dyma'r diogelwch
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [zero] Does { $count } tracwyr wedi'u rhwystro'r mis hwn. Bydd hyn yn un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [one] Mae { $count } traciwr wedi'i rwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [two] Mae { $count } draciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [few] Mae { $count } thraciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [many] Mae { $count } thraciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+       *[other] Mae { $count } traciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+    }
+newtab-privacy-message-milestone-month-cta = Dyma'r diogelwch
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [zero] Does { $count } tracwyr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [one] Mae { $count } traciwr wedi'i rwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [two] Mae { $count } traciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [few] Mae { $count } thraciwr wedi'u rhwystro eleni. Mae honno'n flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [many] Mae { $count } thraciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+       *[other] Mae { $count } traciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+    }
+newtab-privacy-message-milestone-year-cta = Dyma'r diogelwch
 
 ## Strings for the Stocks widget
 
