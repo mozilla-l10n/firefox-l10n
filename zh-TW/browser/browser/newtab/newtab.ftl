@@ -218,6 +218,7 @@ newtab-privacy-message-info-10-cta = 前往密碼
 newtab-privacy-message-info-11-cta = 更多資訊
 newtab-privacy-message-info-12 = 若您並非使用吃到飽網路，封鎖追蹤器也可幫助節省頻寬。
 newtab-privacy-message-info-12-cta = 檢視保護成果
+newtab-privacy-message-info-13 = { -brand-short-name } 會封鎖追蹤器、節省頻寬，讓您追劇更順暢。
 newtab-privacy-message-info-13-cta = 檢視保護成果
 
 ## Privacy widget — promotional messages
@@ -225,7 +226,13 @@ newtab-privacy-message-info-13-cta = 檢視保護成果
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1-cta = 更多資訊
+newtab-privacy-message-promo-monitor-2-cta = 更多資訊
 newtab-privacy-message-promo-signin-1-cta = 登入
+newtab-privacy-message-promo-vpn-1-cta = 開啟 VPN
+newtab-privacy-message-promo-vpn-2-cta = 開啟 VPN
+newtab-privacy-message-promo-vpn-3-cta = 開啟 VPN
+newtab-privacy-message-promo-private-window-1-cta = 開啟隱私視窗
 newtab-privacy-message-promo-relay-1-cta = 獲得轉寄信箱
 newtab-privacy-message-promo-relay-2-cta = 獲得轉寄信箱
 newtab-privacy-message-promo-relay-3-cta = 獲得轉寄信箱
@@ -235,10 +242,24 @@ newtab-privacy-message-promo-relay-3-cta = 獲得轉寄信箱
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week = 本週已封鎖 { $count } 組追蹤器。看看 { -brand-short-name } 為您過濾了多少資料
 newtab-privacy-message-milestone-week-cta = 檢視保護成果
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month = 本月已封鎖 { $count } 組追蹤器。這是保護隱私的一小步，也是讓您放心的一大步。
 newtab-privacy-message-milestone-month-cta = 檢視保護成果
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year = 今年已封鎖 { $count } 組追蹤器。這是保護您隱私的重要一年。
 newtab-privacy-message-milestone-year-cta = 檢視保護成果
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total = 已封鎖 { $count } 組追蹤器。保護隱私的過程很有進展。
 newtab-privacy-message-milestone-total-cta = 檢視保護成果
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = （今天已封鎖超過 100 組追蹤器。）追蹤器少一點，隱私權更多一點。
 newtab-privacy-message-daily-cap-cta = 檢視保護成果
 newtab-privacy-message-streak-cta = 檢視保護成果
 newtab-privacy-message-first-protection-cta = 檢視保護成果
