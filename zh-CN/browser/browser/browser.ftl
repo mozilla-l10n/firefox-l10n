@@ -195,6 +195,8 @@ urlbar-result-menu-button =
     .title = 打开菜单
 urlbar-result-menu-button-feedback = 意见反馈
     .title = 打开菜单
+urlbar-result-menu-learn-more2 = 详细了解
+    .accesskey = L
 urlbar-result-menu-remove-from-history2 = 从历史记录移除
     .accesskey = R
 urlbar-result-menu-tip-get-help2 = 获取帮助
@@ -1085,6 +1087,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 热门搜索
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = 不再显示热门搜索
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = 赞助推广
