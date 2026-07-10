@@ -195,6 +195,14 @@ urlbar-result-menu-button =
     .title = Բացել ցանկը
 urlbar-result-menu-button-feedback = Արձագանք
     .title = Բացել ցանկը
+urlbar-result-menu-learn-more2 = Իմանալ ավելին
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Ջնջել պատմությունից
+    .accesskey = Ջ
+urlbar-result-menu-tip-get-help2 = Ստանալ օգնություն
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Մերժել այս առաջարկը
+    .accesskey = D
 urlbar-result-menu-learn-more =
     .label = Իմանալ ավելին
     .accesskey = L
@@ -665,6 +673,9 @@ sharing-warning-disable-for-session =
 webserial-select-port-label = Ընտրեք սերիական միացք՝
 webserial-no-ports-available = Սերիական միացքներ չկան
 
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -1073,6 +1084,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Թրենդային { $engine }-ում
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Մի ցուցադրեք թրենդային որոնումները
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Հովանավորված
