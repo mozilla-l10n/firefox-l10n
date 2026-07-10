@@ -21,6 +21,14 @@ appmenuitem-banner-update-unsupported =
     .label = Ажурирање није могуће – некомпатибилан систем
 appmenuitem-banner-update-restart =
     .label = Доступно је ажурирање – поново покрените прегледач
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Преузмите освежени { -brand-short-name }. Задржите све ваше језичке.
+appmenu-nova-update-link = Поново покрените за ажурирање
+appmenu-nova-fxa-sign-in = Пријавите се
+appmenu-nova-switch-device-promo =
+    .message = Ускоро набављате нови уређај? Понесите { -brand-short-name } са собом!
+appmenu-nova-switch-device-link = Како да преселите ваше податке
 appmenuitem-new-tab =
     .label = Нови језичак
 appmenuitem-new-window =
@@ -209,6 +217,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Препоручена подешавања за решавање { -brand-shorter-name } мрежних грешака.
 profiler-popup-presets-networking-label =
     .label = Мрежа
+profiler-popup-presets-networking-with-logs-description = Подешеност за истраживање мрежних програмских грешака у { -brand-shorter-name }, укључујући мрежне дневнике. Ови дневници могу садржати поверљиве податке, као што су веб-адресе које посећујете.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Умрежавање са дневницима
 profiler-popup-presets-power-description = Препоручена подешавања за решавање { -brand-shorter-name } грешака са напајањем, са малим трошковима.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -298,6 +309,8 @@ appmenu-customizetoolbar =
     .label = Прилагоди траку са алаткама…
 appmenu-abouttranslations =
     .label = Преведи…
+appmenu-edit-pdf =
+    .label = Уреди ПДФ…
 appmenu-developer-tools-subheader = Алатке прегледача
 appmenu-developer-tools-extensions =
     .label = Додаци за програмере
@@ -307,15 +320,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Пријавите се у ваш налог
+appmenuitem-monitor-title2 = Будите корак испред крађе идентитета
+appmenuitem-monitor-description2 = Примајте упозорења о цурењу података
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Добијајте упозорења о цурењу података
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Задржите своју е-пошту приватном
+appmenuitem-relay-description2 = Помаже у спречавању непожељних порука у вашем пријемном сандучету
 appmenuitem-relay-description = Маскирајте вашу праву адресу е-поште и број телефона
 appmenuitem-services-relay-description = Покрените контролну таблу маски е-поште
+appmenuitem-vpn-title2 = Сакријте своју локацију уз { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Отежајте праћење вашег прегледања
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Набавите заштиту за цео уређај
 appmenuitem-vpn-description = Заштитите ваше радње на мрежи
 appmenu-services-header = Моје услуге
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Алати за приватност
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -329,9 +352,18 @@ appmenu-manage-profiles =
     .label = Управљај профилима
 appmenu-copy-profile =
     .label = Копирај овај профил
+appmenu-create-profile2 =
+    .label = Направите нови профил
 appmenu-create-profile =
     .label = Нови профил
 appmenu-edit-profile =
     .aria-label = Измени профил
+appmenu-edit-this-profile =
+    .label = Уредите овај профил
+appmenu-profile-current-in-use = Тренутни профил се користи
 appmenu-profiles-2 =
     .label = Профили
+appmenu-profiles-header = Профили
+appmenu-all-profiles =
+    .label = Сви профили
+appmenu-secure-sync-header = Безбедно усклађивање
