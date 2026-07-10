@@ -129,6 +129,7 @@ aiwindow-input-model-select-settings-link = Techarã ñemboheko
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Mbohovái oikóva ohóva erohoryvéva rehe
 aiwindow-firstrun-memories-conversation-title = Eike eñe’ẽ hag̃ua ore ndive
 aiwindow-firstrun-memories-relevance-title = Mbohovái iporãvéva
 aiwindow-firstrun-memories-privacy-title = Iñemi moha’ãnga rupi

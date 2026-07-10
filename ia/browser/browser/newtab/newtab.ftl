@@ -243,11 +243,17 @@ newtab-privacy-message-promo-signin-1 = Mantene cryptate marcapaginas, contrasig
 newtab-privacy-message-promo-signin-1-cta = Acceder
 newtab-privacy-message-promo-vpn-1 = Compras sur retes wi-fi public? Activa le VPN integrate pro protection ulterior.
 newtab-privacy-message-promo-vpn-1-cta = Aperir VPN
+newtab-privacy-message-promo-vpn-2 = Usa tu wi-fi de aeroporto? Protege tu navigation activante le VPN integrate.
 newtab-privacy-message-promo-vpn-2-cta = Aperir VPN
+newtab-privacy-message-promo-vpn-3 = Activa le VPN integrate a adjuta mantener tu position plus private.
 newtab-privacy-message-promo-vpn-3-cta = Aperir VPN
+newtab-privacy-message-promo-private-window-1 = Essaya un fenestra private pro navigar plus reservatemente usante un computator condividite.
 newtab-privacy-message-promo-private-window-1-cta = Aperir fenestra private
+newtab-privacy-message-promo-relay-1 = Reserva tu real adresse e-mail pro personas de que tu te fide; usa un masca de e-mail pro le inscriptiones.
 newtab-privacy-message-promo-relay-1-cta = Obtener mascas
+newtab-privacy-message-promo-relay-2 = Protege tu cassa de entrata contra le spam con mascas de e-mail gratuite.
 newtab-privacy-message-promo-relay-2-cta = Obtener mascas
+newtab-privacy-message-promo-relay-3 = Obtene 50 mascas de e-mail gratuite pro adjutar a mantener private tu real adresse e-mail.
 newtab-privacy-message-promo-relay-3-cta = Obtener mascas
 
 ## Privacy widget — celebration messages
@@ -255,12 +261,21 @@ newtab-privacy-message-promo-relay-3-cta = Obtener mascas
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } traciator blocate iste septimana. Vide cosa { -brand-short-name } mantene foras de tu vita private
+       *[other] { $count } traciatores blocate iste septimana. Vide cosa { -brand-short-name } mantene foras de tu vita private
+    }
 newtab-privacy-message-milestone-week-cta = Vider protectiones
 newtab-privacy-message-milestone-month-cta = Vider protectiones
 newtab-privacy-message-milestone-year-cta = Vider protectiones
 newtab-privacy-message-milestone-total-cta = Vider protectiones
 newtab-privacy-message-daily-cap-cta = Vider protectiones
 newtab-privacy-message-streak-cta = Vider protectiones
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Continua a navigar, { -brand-short-name } continuara a blocar.
 newtab-privacy-message-first-protection-cta = Vider protectiones
 
 ## Strings for the Stocks widget
@@ -279,6 +294,11 @@ newtab-stocks-menu-learn-more = Pro saper plus
 newtab-picture-header = Imagine del die · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imagine del die
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Optiones del imagine del die
+    .aria-label = Optiones del imagine del die
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

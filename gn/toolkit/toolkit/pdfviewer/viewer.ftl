@@ -794,6 +794,7 @@ pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Mboajapyr
 pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Mboajapyre: Guenohẽha jerovia’ỹha ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Mboajapyre: Oikove’ỹmava
 pdfjs-digital-signature-properties-certificate-expired-with-date = Mboajapyre: Oikove’ỹmava ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Mboajapyre: Mbojevypyre
 
 ## Main menu for adding/removing signatures
 
