@@ -1004,6 +1004,9 @@ urlbar-result-realtime-opt-in-allow = Arată sugestii
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Nu acum
 urlbar-result-realtime-opt-in-dismiss = Respinge
+urlbar-result-realtime-opt-in-dismiss-all2 = Nu mai arăta aceste sugestii
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Nu mai arăta sugestii de pe piețe
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Nu mai arăta aceste sugestii
 # This string is shown in the result menu.
