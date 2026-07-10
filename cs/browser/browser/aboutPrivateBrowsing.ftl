@@ -91,3 +91,8 @@ about-private-browsing-nova-info-link = Kdo stále může vidět mou aktivitu?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Historie vašeho prohlížení nebude zaznamenávána
+about-private-browsing-nova-info-subheader =
+    { -brand-short-name.case-status ->
+        [with-cases] Jakmile toto okno zavřete, vymažeme všechna vyhledávání a přihlášení. Jsou zde také aktivní vestavěné ochranné funkce { -brand-short-name(case: "gen") }, jako například blokování sledovacích prvků.
+       *[no-cases] Jakmile toto okno zavřete, vymažeme všechna vyhledávání a přihlášení. Jsou zde také aktivní vestavěné ochranné funkce aplikace { -brand-short-name }, jako například blokování sledovacích prvků.
+    }
