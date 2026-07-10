@@ -197,6 +197,18 @@ urlbar-result-menu-button-feedback = Обратная связь
     .title = Открыть меню
 urlbar-result-menu-remove-from-history2 = Удалить из истории
     .accesskey = и
+urlbar-result-menu-dismiss-suggestion2 = Скрыть это предложение
+    .accesskey = В
+urlbar-result-menu-manage-firefox-suggest2 = Управление { -firefox-suggest-brand-name }
+    .accesskey = Ь
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Сообщить о некорректном местоположении
+urlbar-result-menu-show-less-frequently2 = Показывать реже
+urlbar-result-menu-dont-show-weather-suggestions2 = Не показывать предложения о погоде
 urlbar-result-menu-learn-more =
     .label = Узнать больше
     .accesskey = б
@@ -986,6 +998,9 @@ urlbar-result-realtime-opt-in-allow = Показывать предложени�
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Не сейчас
 urlbar-result-realtime-opt-in-dismiss = Убрать
+urlbar-result-realtime-opt-in-dismiss-all2 = Не показывать эти предложения
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Не показывать предложения с рынка
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Не показывать эти предложения
 # This string is shown in the result menu.
@@ -1175,6 +1190,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Популярные на { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Не показывать популярные поисковые запросы
+    .accesskey = В
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Спонсировано
