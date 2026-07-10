@@ -24,6 +24,10 @@ about-debugging-this-firefox-runtime-name = Este { -brand-shorter-name }
 about-debugging-sidebar-this-firefox2 = Este { -brand-shorter-name }
 about-debugging-sidebar-this-firefox-title =
     .title = Este { -brand-shorter-name }
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = Configuración
+about-debugging-sidebar-setup-title =
+    .title = Configuración
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
