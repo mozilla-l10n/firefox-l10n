@@ -68,7 +68,7 @@ webauthn-pin-auth-blocked-prompt = Methodd dilysu defnyddiwr ar { $hostname }. B
 webauthn-pin-not-set-prompt = Methodd dilysu defnyddiwr ar { $hostname }. Efallai y bydd angen i chi osod PIN ar eich dyfais.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-uv-blocked-prompt = Methodd dilysu defnyddiwr ar { $hostname }. Methodd gormod o ymgeisiau ac mae'r dull dilysu defnyddiwr integredig wedi'i rwystro.
+webauthn-uv-blocked-prompt = Methodd dilysu defnyddiwr ar { $hostname }. Methodd gormod o ymgeisiau ac mae'r dull dilysu defnyddiwr cynhenid wedi'i rwystro.
 webauthn-already-registered-prompt = Mae'r ddyfais hon eisoes wedi'i chofrestru. Rhowch gynnig ar ddyfais wahanol.
 webauthn-cancel = Diddymu
     .accesskey = d

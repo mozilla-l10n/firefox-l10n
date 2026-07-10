@@ -206,6 +206,6 @@ about-glean-about-data-explanation =
 ## These labels are displayed to organize the different ping types within the dropdown.
 
 about-glean-ping-list-optgroup-built-in =
-    .label = Pingiau Mewnol
+    .label = Pingiau Cynhenid
 about-glean-ping-list-optgroup-custom =
     .label = Pingiau Cyfaddas

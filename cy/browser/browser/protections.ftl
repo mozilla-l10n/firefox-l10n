@@ -61,7 +61,7 @@ protections-close-button2 =
     .aria-label = Cau
     .title = Cau
 mobile-app-title = Rhwystrwch dracwyr hysbysebion ar draws rhagor o ddyfeisiau
-mobile-app-card-content = Defnyddiwch y porwr symudol gydag diogelwch mewnol rhag tracio gan hysbysebion.
+mobile-app-card-content = Defnyddiwch y porwr symudol gydag diogelwch cynhenid rhag tracio gan hysbysebion.
 mobile-app-links = Porwr { -brand-product-name } ar gyfer <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Peidiwch byth ag anghofio cyfrinair eto
 passwords-title-logged-in = Rheoli'ch cyfrineiriau

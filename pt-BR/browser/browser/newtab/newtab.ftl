@@ -253,6 +253,30 @@ newtab-privacy-message-promo-relay-1 = Reserve seu endereço de email verdadeiro
 newtab-privacy-message-promo-relay-1-cta = Obtenha máscaras
 newtab-privacy-message-promo-relay-2 = Proteja sua caixa de entrada de spam com máscaras de email gratuitas.
 newtab-privacy-message-promo-relay-2-cta = Obtenha máscaras
+newtab-privacy-message-promo-relay-3 = Receba 50 máscaras de email gratuitas para ajudar a manter a privacidade de seu endereço de email real.
+newtab-privacy-message-promo-relay-3-cta = Obtenha máscaras
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } rastreador bloqueado esta semana. Descubra como o { -brand-short-name } protege sua privacidade
+       *[other] { $count } rastreadores bloqueados esta semana. Descubra como o { -brand-short-name } protege sua privacidade
+    }
+newtab-privacy-message-milestone-week-cta = Ver proteções
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } rastreador bloqueado este mês. Um pequeno passo para privacidade. Um grande passo para sua tranquilidade.
+       *[other] { $count } rastreadores bloqueados este mês. Um pequeno passo para privacidade. Um grande passo para sua tranquilidade.
+    }
+newtab-privacy-message-milestone-month-cta = Ver proteções
 
 ## Strings for the Stocks widget
 

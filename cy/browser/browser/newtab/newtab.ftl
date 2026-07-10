@@ -231,7 +231,7 @@ newtab-privacy-message-info-7 = Gweld pa dracwyr mae { -brand-short-name } wedi'
 newtab-privacy-message-info-7-cta = Dyma'r diogelwch
 newtab-privacy-message-info-8 = Mae pori gyda { -brand-short-name } yn cefnogi cenhadaeth { -vendor-short-name } i adeiladu gwe well.
 newtab-privacy-message-info-8-cta = Dysgu rhagor
-newtab-privacy-message-info-9 = Gwnewch { -brand-short-name } eich porwr chi ar gyfer preifatrwydd cynwysedig.
+newtab-privacy-message-info-9 = Gwnewch { -brand-short-name } eich porwr chi ar gyfer preifatrwydd cynhenid.
 newtab-privacy-message-info-9-cta = Ei wneud yr arferol
 newtab-privacy-message-info-10 = Cadw cyfrineiriau yn { -brand-short-name } i ddefnyddio mewngofnodi cryf, unigryw ym mhobman.
 newtab-privacy-message-info-10-cta = Mynd i gyfrineiriau
@@ -253,11 +253,11 @@ newtab-privacy-message-promo-monitor-2 = Diogelu eich manylion gyda monitro tor-
 newtab-privacy-message-promo-monitor-2-cta = Dysgu rhagor
 newtab-privacy-message-promo-signin-1 = Cadw nodau tudalen, cyfrineiriau a thabiau wedi'u hamgryptio ar draws dyfeisiau gyda'ch cyfrif { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Mewngofnodi
-newtab-privacy-message-promo-vpn-1 = Yn siopa ar Wi-Fi cyhoeddus? Trowch y VPN cynwysedig ymlaen i gael diogelwch ychwanegol.
+newtab-privacy-message-promo-vpn-1 = Yn siopa ar Wi-Fi cyhoeddus? Trowch y VPN cynhenid ymlaen i gael diogelwch ychwanegol.
 newtab-privacy-message-promo-vpn-1-cta = Agor y VPN
-newtab-privacy-message-promo-vpn-2 = Yn defnyddio Wi-Fi maes awyr? Diogelwch eich pori trwy droi'r VPN cynwysedig ymlaen.
+newtab-privacy-message-promo-vpn-2 = Yn defnyddio Wi-Fi maes awyr? Diogelwch eich pori trwy droi'r VPN cynhenid ymlaen.
 newtab-privacy-message-promo-vpn-2-cta = Agor y VPN
-newtab-privacy-message-promo-vpn-3 = Trowch y VPN cynwysedig ymlaen i helpu i gadw'ch lleoliad yn fwy preifat.
+newtab-privacy-message-promo-vpn-3 = Trowch y VPN cynhenid ymlaen i helpu i gadw'ch lleoliad yn fwy preifat.
 newtab-privacy-message-promo-vpn-3-cta = Agor y VPN
 newtab-privacy-message-promo-private-window-1 = Rhowch gynnig ar ffenestr breifat i bori'n fwy preifat wrth ddefnyddio cyfrifiadur rydych yn ei rannu.
 newtab-privacy-message-promo-private-window-1-cta = Agor ffenestr breifat
@@ -1235,7 +1235,7 @@ newtab-daily-briefing-card-menu-dismiss = Cau
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Diweddarwyd { $minutes }m yn ôl
-newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd cynwysedig
+newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd cynhenid
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.
 # One spot refers to a dedicated section on new tab to manage and use widgets
