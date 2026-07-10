@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Atvērt izvēlni
 urlbar-result-menu-button-feedback = Atsauksmes
     .title = Atvērt izvēlni
+urlbar-result-menu-learn-more2 = Uzzināt vairāk
+    .accesskey = U
+urlbar-result-menu-remove-from-history2 = Izņemt no vēstures
+    .accesskey = r
+urlbar-result-menu-tip-get-help2 = Iegūt palīdzību
+    .accesskey = p
+urlbar-result-menu-dismiss-suggestion2 = Atmest šo ieteikumu
+    .accesskey = t
+urlbar-result-menu-manage-firefox-suggest2 = Pārvaldīt { -firefox-suggest-brand-name }
+    .accesskey = P
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Ziņot par nepareizu atrašanās vietu
+urlbar-result-menu-show-less-frequently2 = Rādīt retāk
+urlbar-result-menu-dont-show-weather-suggestions2 = Nerādīt laikapstākļu ieteikumus
 urlbar-result-menu-learn-more =
     .label = Uzzināt vairāk
     .accesskey = U
@@ -877,6 +895,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prasīt
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -889,6 +912,9 @@ urlbar-result-realtime-opt-in-allow = Rādīt ieteikumus
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ne tagad
 urlbar-result-realtime-opt-in-dismiss = Noraidīt
+urlbar-result-realtime-opt-in-dismiss-all2 = Nerādīt šos ieteikumus
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Nerādīt tirgus ieteikumus
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Nerādīt šos ieteikumus
 # This string is shown in the result menu.
@@ -1078,6 +1104,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendences meklētājā { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Nerādīt tendences meklēšanas vaicājumos
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Apmaksāts

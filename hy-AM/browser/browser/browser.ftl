@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Բացել ցանկը
 urlbar-result-menu-button-feedback = Արձագանք
     .title = Բացել ցանկը
+urlbar-result-menu-learn-more2 = Իմանալ ավելին
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Ջնջել պատմությունից
+    .accesskey = Ջ
+urlbar-result-menu-tip-get-help2 = Ստանալ օգնություն
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Մերժել այս առաջարկը
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = Կառավարել { -firefox-suggest-brand-name }-ը
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Հաղորդել անճշտ գտնվելու վայրի մասին
+urlbar-result-menu-show-less-frequently2 = Ցուցադրել հազվադեպ
+urlbar-result-menu-dont-show-weather-suggestions2 = Չցուցադրել եղանակի առաջարկներ
 urlbar-result-menu-learn-more =
     .label = Իմանալ ավելին
     .accesskey = L
@@ -665,6 +683,9 @@ sharing-warning-disable-for-session =
 webserial-select-port-label = Ընտրեք սերիական միացք՝
 webserial-no-ports-available = Սերիական միացքներ չկան
 
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -887,6 +908,9 @@ urlbar-result-realtime-opt-in-allow = Ցուցադրել առաջարկներ
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ոչ հիմա
 urlbar-result-realtime-opt-in-dismiss = Բաց թողնել
+urlbar-result-realtime-opt-in-dismiss-all2 = Չցուցադրել այս առաջարկները
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Չցուցադրել այս առաջարկները
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Չցուցադրել այս առաջարկները
 # This string is shown in the result menu.
@@ -1073,6 +1097,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Թրենդային { $engine }-ում
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Մի ցուցադրեք թրենդային որոնումները
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Հովանավորված

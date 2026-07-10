@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Meni wočinić
 urlbar-result-menu-button-feedback = Komentar
     .title = Meni wočinić
+urlbar-result-menu-learn-more2 = Dalše informacije
+    .accesskey = D
+urlbar-result-menu-remove-from-history2 = Z historije wotstronić
+    .accesskey = h
+urlbar-result-menu-tip-get-help2 = Pomoc wobstarać
+    .accesskey = P
+urlbar-result-menu-dismiss-suggestion2 = Tutón namjet zaćisnyć
+    .accesskey = z
+urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } rjadować
+    .accesskey = r
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Njedokładne stejnišćo zdźělić
+urlbar-result-menu-show-less-frequently2 = Mjenje často pokazać
+urlbar-result-menu-dont-show-weather-suggestions2 = Wjedrowe daty njepokazać
 urlbar-result-menu-learn-more =
     .label = Dalše informacije
     .accesskey = D
@@ -996,6 +1014,9 @@ urlbar-result-realtime-opt-in-allow = Namjety pokazać
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Nic nětko
 urlbar-result-realtime-opt-in-dismiss = Zaćisnyć
+urlbar-result-realtime-opt-in-dismiss-all2 = Tute namjety njepokazać
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Wične namjety njepokazać
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Tute namjety njepokazać
 # This string is shown in the result menu.
@@ -1188,6 +1209,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trendowy na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Trendowe pytanja njepokazać
+    .accesskey = T
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponserowany

@@ -187,6 +187,24 @@ urlbar-result-menu-button =
     .title = Otvori meni
 urlbar-result-menu-button-feedback = Povratne informacije
     .title = Otvori meni
+urlbar-result-menu-learn-more2 = Saznajte više
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Ukloni iz historije
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = Potražite pomoć
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Odbaci ovaj prijedlog
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = Upravljanje { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Prijavi netačnu lokaciju
+urlbar-result-menu-show-less-frequently2 = Prikaži rjeđe
+urlbar-result-menu-dont-show-weather-suggestions2 = Ne prikazuj prijedloge za vremensku prognozu
 urlbar-result-menu-learn-more =
     .label = Saznajte više
     .accesskey = L
@@ -632,6 +650,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogućite zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Da biste koristili prečicu F12, prvo otvorite Alate za programere preko menija Alati pretraživača.
@@ -822,6 +843,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorisano
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -834,6 +860,9 @@ urlbar-result-realtime-opt-in-allow = Prikaži prijedloge
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ne sada
 urlbar-result-realtime-opt-in-dismiss = Odbaci
+urlbar-result-realtime-opt-in-dismiss-all2 = Ne prikazuj ove prijedloge
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Ne prikazuj tržišne prijedloge
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne prikazuj ove prijedloge
 # This string is shown in the result menu.
@@ -940,6 +969,9 @@ urlbar-result-action-switch-to-tabgroup = Prebaci se na { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Otvori { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -965,6 +997,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = U trendu na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ne prikazuj popularna pretraživanja
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponzorisano
@@ -1145,6 +1180,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Novi privatni prozor
     .tooltiptext = Otvori novi prozor privatnog surfanja ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1466,6 +1505,9 @@ trustpanel-blocker-see-all = Vidi sve
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1563,3 +1605,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dozvolio { $count } kripto rudara
     }
 trustpanel-cryptominer-tab-list-header = Ove stranice pokušavaju kriptorudariti:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

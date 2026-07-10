@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = 메뉴 열기
 urlbar-result-menu-button-feedback = 의견 보내기
     .title = 메뉴 열기
+urlbar-result-menu-learn-more2 = 더 알아보기
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = 기록에서 삭제
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = 도움 받기
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = 이 제안 거절
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } 관리
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = 부정확한 위치 신고
+urlbar-result-menu-show-less-frequently2 = 덜 자주 보기
+urlbar-result-menu-dont-show-weather-suggestions2 = 날씨 제안을 표시하지 않음
 urlbar-result-menu-learn-more =
     .label = 더 알아보기
     .accesskey = L
@@ -945,6 +963,9 @@ urlbar-result-realtime-opt-in-allow = 제안 표시
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = 나중에
 urlbar-result-realtime-opt-in-dismiss = 닫기
+urlbar-result-realtime-opt-in-dismiss-all2 = 이 제안을 표시하지 않음
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = 시장 제안을 표시하지 않음
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = 이 제안을 표시하지 않음
 # This string is shown in the result menu.
@@ -1119,6 +1140,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 인기
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = 인기 검색어를 표시하지 않음
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = 스폰서

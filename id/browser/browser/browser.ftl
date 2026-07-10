@@ -193,6 +193,24 @@ urlbar-result-menu-button =
     .title = Buka menu
 urlbar-result-menu-button-feedback = Umpan Balik
     .title = Buka menu
+urlbar-result-menu-learn-more2 = Pelajari lebih lanjut
+    .accesskey = P
+urlbar-result-menu-remove-from-history2 = Hapus dari riwayat
+    .accesskey = r
+urlbar-result-menu-tip-get-help2 = Dapatkan bantuan
+    .accesskey = b
+urlbar-result-menu-dismiss-suggestion2 = Abaikan saran ini
+    .accesskey = b
+urlbar-result-menu-manage-firefox-suggest2 = Kelola { -firefox-suggest-brand-name }
+    .accesskey = K
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Laporkan lokasi yang tidak akurat
+urlbar-result-menu-show-less-frequently2 = Tampilkan lebih jarang
+urlbar-result-menu-dont-show-weather-suggestions2 = Jangan tampilkan saran cuaca
 urlbar-result-menu-learn-more =
     .label = Pelajari lebih lanjut
     .accesskey = P
@@ -634,6 +652,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Nonaktifkan perlindungan berbagi untuk sesi ini.
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Untuk menggunakan pintasan F12, pertama-tama, buka DevTools melalui menu Alat Peramban.
@@ -824,6 +845,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -836,6 +862,9 @@ urlbar-result-realtime-opt-in-allow = Tampilkan saran
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Jangan sekarang
 urlbar-result-realtime-opt-in-dismiss = Tutup
+urlbar-result-realtime-opt-in-dismiss-all2 = Jangan tampilkan saran ini
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Jangan tampilkan saran pasar
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Jangan tampilkan saran ini
 # This string is shown in the result menu.
@@ -966,6 +995,9 @@ urlbar-result-action-switch-to-tabgroup = Beralih ke { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Buka { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -991,6 +1023,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ngetren di { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Jangan tampilkan penelusuran ngetren
+    .accesskey = J
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Disponsori
@@ -1171,6 +1206,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Jendela Mode Pribadi Baru
     .tooltiptext = Buka jendela Penjelajahan Pribadi baru ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1537,3 +1576,6 @@ trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } memblokir {
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penambang mata uang kripto
 trustpanel-cryptominer-tab-list-header = Situs-situs berikut mencoba untuk melakukan penambangan kripto:
 trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> Pelacak diblokir di situs ini
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

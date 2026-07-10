@@ -193,6 +193,24 @@ urlbar-result-menu-button =
     .title = Отваря менюто
 urlbar-result-menu-button-feedback = Обратна връзка
     .title = Отваряне на менюто
+urlbar-result-menu-learn-more2 = Научете повече
+    .accesskey = н
+urlbar-result-menu-remove-from-history2 = Премахване от историята
+    .accesskey = и
+urlbar-result-menu-tip-get-help2 = Получете помощ
+    .accesskey = п
+urlbar-result-menu-dismiss-suggestion2 = Отхвърляне на това предложение
+    .accesskey = х
+urlbar-result-menu-manage-firefox-suggest2 = Управление на { -firefox-suggest-brand-name }
+    .accesskey = У
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Докладване на неточно местоположение
+urlbar-result-menu-show-less-frequently2 = Показване по-рядко
+urlbar-result-menu-dont-show-weather-suggestions2 = Без показване на предложения за времето
 urlbar-result-menu-learn-more =
     .label = Научете повече
     .accesskey = н
@@ -640,6 +658,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
@@ -858,6 +879,9 @@ urlbar-result-realtime-opt-in-allow = Показване на подсказки
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Не сега
 urlbar-result-realtime-opt-in-dismiss = Прекратяване
+urlbar-result-realtime-opt-in-dismiss-all2 = Без показване на тези предложения
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Без показване на пазарни предложения
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Без показване на тези предложения
 # This string is shown in the result menu.
@@ -994,6 +1018,9 @@ urlbar-result-action-switch-to-tabgroup = Превключване към { $gro
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Отваряне на { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1019,6 +1046,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Набиращи популярност в { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Без показване на набиращи популярност търсения
+    .accesskey = Б
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Спонсорирано
@@ -1199,6 +1229,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Поверителен прозорец
     .tooltiptext = Отваряне на поверителен прозорец ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1635,3 +1669,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> проследяващ скрипт е блокиран на този сайт.
        *[other] <span data-l10n-name="count">{ $count }</span> проследяващи скриптове са блокирани на този сайт.
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

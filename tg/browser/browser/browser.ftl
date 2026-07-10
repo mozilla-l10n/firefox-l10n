@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Кушодани меню
 urlbar-result-menu-button-feedback = Изҳори назар
     .title = Менюро кушоед
+urlbar-result-menu-learn-more2 = Маълумоти бештар
+    .accesskey = М
+urlbar-result-menu-remove-from-history2 = Нест кардан аз таърих
+    .accesskey = Н
+urlbar-result-menu-tip-get-help2 = Гирифтани кумак
+    .accesskey = Г
+urlbar-result-menu-dismiss-suggestion2 = Нодида гузарондани ин пешниҳод
+    .accesskey = Н
+urlbar-result-menu-manage-firefox-suggest2 = Идоракунии «{ -firefox-suggest-brand-name }»
+    .accesskey = И
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Фиристодани гузориш дар бораи ҷойгиршавии нодуруст
+urlbar-result-menu-show-less-frequently2 = Бисёр маротиба нишон дода нашавад
+urlbar-result-menu-dont-show-weather-suggestions2 = Пешниҳодҳои обу ҳаво нишон дода нашаванд
 urlbar-result-menu-learn-more =
     .label = Маълумоти бештар
     .accesskey = М
@@ -866,6 +884,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Пурсидан
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -878,6 +901,9 @@ urlbar-result-realtime-opt-in-allow = Нишон додани пешниҳодҳ
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ҳоло не
 urlbar-result-realtime-opt-in-dismiss = Нодида гузарондан
+urlbar-result-realtime-opt-in-dismiss-all2 = Пешниҳодҳои зерин нишон дода нашаванд
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Пешниҳодҳои зерин нишон дода нашаванд
 # This string is shown in the result menu.
@@ -1064,6 +1090,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ҳавасангез дар «{ $engine }»
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ҷустуҷӯҳои ҳавасангез дигар нишон дода нашаванд
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Сарпарастӣ

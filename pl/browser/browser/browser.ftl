@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Otwórz menu
 urlbar-result-menu-button-feedback = Opinia
     .title = Otwórz menu
+urlbar-result-menu-learn-more2 = Więcej informacji
+    .accesskey = W
+urlbar-result-menu-remove-from-history2 = Usuń z historii
+    .accesskey = U
+urlbar-result-menu-tip-get-help2 = Pomoc
+    .accesskey = P
+urlbar-result-menu-dismiss-suggestion2 = Odrzuć tę podpowiedź
+    .accesskey = O
+urlbar-result-menu-manage-firefox-suggest2 = Zarządzaj { -firefox-suggest-brand-name(case: "ins", capitalization: "lower") }
+    .accesskey = Z
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Zgłoś niewłaściwe położenie
+urlbar-result-menu-show-less-frequently2 = Pokazuj rzadziej
+urlbar-result-menu-dont-show-weather-suggestions2 = Nie pokazuj podpowiedzi dotyczących pogody
 urlbar-result-menu-learn-more =
     .label = Więcej informacji
     .accesskey = W
@@ -878,6 +896,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorowane
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = zapytaj
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -890,6 +913,9 @@ urlbar-result-realtime-opt-in-allow = Wyświetlaj podpowiedzi
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Nie teraz
 urlbar-result-realtime-opt-in-dismiss = Zamknij
+urlbar-result-realtime-opt-in-dismiss-all2 = Nie pokazuj tych podpowiedzi
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Nie pokazuj danych giełdowych
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Nie pokazuj tych podpowiedzi
 # This string is shown in the result menu.
@@ -1079,6 +1105,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Popularne w { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Nie pokazuj popularnych wyszukiwań
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsorowane

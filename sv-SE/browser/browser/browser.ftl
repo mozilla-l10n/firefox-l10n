@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Öppna meny
 urlbar-result-menu-button-feedback = Feedback
     .title = Öppna meny
+urlbar-result-menu-learn-more2 = Läs mer
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Ta bort från historik
+    .accesskey = T
+urlbar-result-menu-tip-get-help2 = Få hjälp
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Avvisa förslaget
+    .accesskey = A
+urlbar-result-menu-manage-firefox-suggest2 = Hantera { -firefox-suggest-brand-name }
+    .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Rapportera felaktig plats
+urlbar-result-menu-show-less-frequently2 = Visas mer sällan
+urlbar-result-menu-dont-show-weather-suggestions2 = Visa inte väderförslag
 urlbar-result-menu-learn-more =
     .label = Läs mer
     .accesskey = L
@@ -973,6 +991,9 @@ urlbar-result-realtime-opt-in-allow = Visa förslag
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Inte nu
 urlbar-result-realtime-opt-in-dismiss = Ignorera
+urlbar-result-realtime-opt-in-dismiss-all2 = Visa inte dessa förslag
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Visa inte marknadsförslag
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Visa inte dessa förslag
 # This string is shown in the result menu.
@@ -1159,6 +1180,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trender på { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Visa inte populära sökningar
+    .accesskey = n
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsrad

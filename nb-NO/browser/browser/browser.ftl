@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Åpne meny
 urlbar-result-menu-button-feedback = Tilbakemelding
     .title = Åpne meny
+urlbar-result-menu-learn-more2 = Les mer
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Fjern fra historikk
+    .accesskey = F
+urlbar-result-menu-tip-get-help2 = Få hjelp
+    .accesskey = F
+urlbar-result-menu-dismiss-suggestion2 = Avvis dette forslaget
+    .accesskey = A
+urlbar-result-menu-manage-firefox-suggest2 = Behandle { -firefox-suggest-brand-name }
+    .accesskey = B
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Rapporter unøyaktig plassering
+urlbar-result-menu-show-less-frequently2 = Vis sjeldnere
+urlbar-result-menu-dont-show-weather-suggestions2 = Ikke vis værforslag
 urlbar-result-menu-learn-more =
     .label = Les mer
     .accesskey = L
@@ -973,6 +991,9 @@ urlbar-result-realtime-opt-in-allow = Vis forslag
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ikke nå
 urlbar-result-realtime-opt-in-dismiss = Ignorer
+urlbar-result-realtime-opt-in-dismiss-all2 = Ikke vis disse forslagene
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Ikke vis markedsforslag
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ikke vis disse forslagene
 # This string is shown in the result menu.
@@ -1159,6 +1180,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populær på { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Ikke vis populære søk
+    .accesskey = k
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponset

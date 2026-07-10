@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Åbn menu
 urlbar-result-menu-button-feedback = Feedback
     .title = Åbn menu
+urlbar-result-menu-learn-more2 = Læs mere
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = Fjern fra historik
+    .accesskey = F
+urlbar-result-menu-tip-get-help2 = Få hjælp
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = Afvis dette forslag
+    .accesskey = A
+urlbar-result-menu-manage-firefox-suggest2 = Håndter { -firefox-suggest-brand-name }
+    .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Rapporter unøjagtigt sted
+urlbar-result-menu-show-less-frequently2 = Vis sjældnere
+urlbar-result-menu-dont-show-weather-suggestions2 = Vis ikke vejr-forslag
 urlbar-result-menu-learn-more =
     .label = Læs mere
     .accesskey = L
@@ -866,6 +884,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsoreret
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spørg
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -878,6 +901,9 @@ urlbar-result-realtime-opt-in-allow = Vis forslag
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ikke nu
 urlbar-result-realtime-opt-in-dismiss = Afvis
+urlbar-result-realtime-opt-in-dismiss-all2 = Vis ikke disse forslag
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Vis ikke markeds-forslag
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Vis ikke disse forslag
 # This string is shown in the result menu.
@@ -1064,6 +1090,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populært på { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Vis ikke populære søgninger
+    .accesskey = V
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsoreret

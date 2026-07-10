@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = მენიუს გახსნა
 urlbar-result-menu-button-feedback = გამოხმაურება
     .title = მენიუს გახსნა
+urlbar-result-menu-learn-more2 = ვრცლად
+    .accesskey = ლ
+urlbar-result-menu-remove-from-history2 = მოცილება ისტორიიდან
+    .accesskey = მ
+urlbar-result-menu-tip-get-help2 = დახმარების მიღება
+    .accesskey = ხ
+urlbar-result-menu-dismiss-suggestion2 = ამ შეთავაზების აცილება
+    .accesskey = ც
+urlbar-result-menu-manage-firefox-suggest2 = მართეთ { -firefox-suggest-brand-name }
+    .accesskey = მ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = არაზუსტი მდებარეობის მოხსენება
+urlbar-result-menu-show-less-frequently2 = იშვიათად ჩვენება
+urlbar-result-menu-dont-show-weather-suggestions2 = ამინდის შემოთავაზებების გარეშე
 urlbar-result-menu-learn-more =
     .label = ვრცლად
     .accesskey = ლ
@@ -867,6 +885,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · დამკვე�
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = კითხვა
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -879,6 +902,9 @@ urlbar-result-realtime-opt-in-allow = შემოთავაზებები
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = ახლა არა
 urlbar-result-realtime-opt-in-dismiss = აცილება
+urlbar-result-realtime-opt-in-dismiss-all2 = აღარ გამოჩნდეს ამგვარი შემოთავაზებები
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = აღარ გამოჩნდეს ბაზრის შემოთავაზებები
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = აღარ გამოჩნდეს ამგვარი შემოთავაზებები
 # This string is shown in the result menu.
@@ -1065,6 +1091,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } ხშირად მოძიებულით
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = არ გამოჩნდეს ხშირად მოძიებული
+    .accesskey = გ
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = დამკვეთისგან

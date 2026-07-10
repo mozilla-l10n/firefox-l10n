@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = เปิดเมนู
 urlbar-result-menu-button-feedback = ข้อเสนอแนะ
     .title = เปิดเมนู
+urlbar-result-menu-learn-more2 = เรียนรู้เพิ่มเติม
+    .accesskey = ร
+urlbar-result-menu-remove-from-history2 = เอาออกจากประวัติ
+    .accesskey = อ
+urlbar-result-menu-tip-get-help2 = รับความช่วยเหลือ
+    .accesskey = ช
+urlbar-result-menu-dismiss-suggestion2 = เพิกเฉยคำแนะนำนี้
+    .accesskey = พ
+urlbar-result-menu-manage-firefox-suggest2 = จัดการ { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = รายงานตำแหน่งที่ไม่แม่นยำ
+urlbar-result-menu-show-less-frequently2 = แสดงน้อยลง
+urlbar-result-menu-dont-show-weather-suggestions2 = ไม่ต้องแสดงคำแนะนำเกี่ยวกับสภาพอากาศ
 urlbar-result-menu-learn-more =
     .label = เรียนรู้เพิ่มเติม
     .accesskey = ร
@@ -917,6 +935,9 @@ urlbar-result-realtime-opt-in-allow = แสดงคำแนะนำ
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = ยังไม่ทำตอนนี้
 urlbar-result-realtime-opt-in-dismiss = ปิด
+urlbar-result-realtime-opt-in-dismiss-all2 = ไม่ต้องแสดงคำแนะนำเหล่านี้
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = ไม่ต้องแสดงคำแนะนำเกี่ยวกับตลาดหุ้น
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = ไม่ต้องแสดงคำแนะนำเหล่านี้
 # This string is shown in the result menu.
@@ -1095,6 +1116,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = กำลังมาแรงใน { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = ไม่ต้องแสดงการค้นหาที่กำลังมาแรง
+    .accesskey = ม
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = ได้รับการสนับสนุน

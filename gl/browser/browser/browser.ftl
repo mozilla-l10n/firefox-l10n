@@ -187,6 +187,24 @@ urlbar-result-menu-button =
     .title = Abrir o menú
 urlbar-result-menu-button-feedback = Opinión
     .title = Abrir menú
+urlbar-result-menu-learn-more2 = Máis información
+    .accesskey = i
+urlbar-result-menu-remove-from-history2 = Retirar do historial
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = Obter axuda
+    .accesskey = x
+urlbar-result-menu-dismiss-suggestion2 = Ignorar esta suxestión
+    .accesskey = I
+urlbar-result-menu-manage-firefox-suggest2 = Xestionar { -firefox-suggest-brand-name }
+    .accesskey = X
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Informar de localización incorrecta
+urlbar-result-menu-show-less-frequently2 = Mostrar con menos frecuencia
+urlbar-result-menu-dont-show-weather-suggestions2 = Non mostrar suxestións do tempo
 urlbar-result-menu-learn-more =
     .label = Máis información
     .accesskey = i
@@ -627,6 +645,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar o atallo F12 abra primeiro as ferramentas de desenvolvemento mediante o menú de ferramentas do navegador.
@@ -817,6 +838,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -825,6 +851,9 @@ urlbar-result-realtime-opt-in-allow = Amosar suxestións
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Agora non
 urlbar-result-realtime-opt-in-dismiss = Rexeitar
+urlbar-result-realtime-opt-in-dismiss-all2 = Non mostrar estas suxestións
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Non mostrar suxestións do mercado
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Non mostrar estas suxestións
 # This string is shown in the result menu.
@@ -926,6 +955,9 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -951,6 +983,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendencia en { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Non mostrar tendencias de busca
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Patrocinado
@@ -1131,6 +1166,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nova xanela privada
     .tooltiptext = Abrir unha nova xanela de navegación privada ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1446,6 +1485,9 @@ trustpanel-blocker-see-all = Ver todo
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1529,3 +1571,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitiu { $count } criptomineiros
     }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

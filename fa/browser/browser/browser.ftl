@@ -180,6 +180,24 @@ urlbar-result-menu-button =
     .title = گشودن فهرست
 urlbar-result-menu-button-feedback = بازخورد
     .title = گشودن منو
+urlbar-result-menu-learn-more2 = یادگیری بیش‌تر
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = برداشتن از تاریخچه
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = دریافت راهنما
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = رد این پیشنهاد
+    .accesskey = ر
+urlbar-result-menu-manage-firefox-suggest2 = مدیریت { -firefox-suggest-brand-name }
+    .accesskey = م
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = گزارش موقعیت مکانی نادقیق
+urlbar-result-menu-show-less-frequently2 = دیر به دیرتر نشان بده
+urlbar-result-menu-dont-show-weather-suggestions2 = پیشنهادهای آب و هوا را نشان نده
 urlbar-result-menu-learn-more =
     .label = یادگیری بیش‌تر
     .accesskey = L
@@ -600,6 +618,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = از کار انداختن محافظت هم‌رسانی برای این نشست
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = برای استفاده از میانبر F12، ابتدا ابزارهای توسعه‌دهندگان را از طریق منوی ابزار مرورگر باز کنید.
@@ -748,6 +769,11 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -831,6 +857,9 @@ urlbar-result-action-switch-to-tabgroup = جابجایی به { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = باز کردن { $group }
+
+## Used in the context menu in urlbar view.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -1023,6 +1052,10 @@ toolbar-button-new-private-window =
     .label = پنجره ناشناس جدید
     .tooltiptext = باز کردن پنجره جدید مرور ناشناس ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ویدئو یا صدا در این سایت به نرم‌افزار DRM نیاز دارد، که امکان دارد امکاناتی که { -brand-short-name } به شما میدهد را محدود کند.
@@ -1120,6 +1153,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1240,6 +1276,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = نمایش «‪{ $popupURI }‬»
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = پایان نصب
@@ -1248,3 +1294,13 @@ onboarding-checklist-button-label = پایان نصب
 
 trustpanel-clear-cookies-subview-button-cancel = انصراف
 trustpanel-blocker-see-all = نمايش همه
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

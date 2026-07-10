@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Agor dewislen
 urlbar-result-menu-button-feedback = Adborth
     .title = Agor dewislen
+urlbar-result-menu-learn-more2 = Darllen rhagor
+    .accesskey = D
+urlbar-result-menu-remove-from-history2 = Tynnu o'r hanes
+    .accesskey = T
+urlbar-result-menu-tip-get-help2 = Derbyn cymorth
+    .accesskey = D
+urlbar-result-menu-dismiss-suggestion2 = Cau'r awgrym hwn
+    .accesskey = a
+urlbar-result-menu-manage-firefox-suggest2 = Rheoli { -firefox-suggest-brand-name }
+    .accesskey = R
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Rhoi gwybod am leoliad anghywir
+urlbar-result-menu-show-less-frequently2 = Dangos yn llai aml
+urlbar-result-menu-dont-show-weather-suggestions2 = Peidio â dangos awgrymiadau tywydd
 urlbar-result-menu-learn-more =
     .label = Darllen rhagor
     .accesskey = D
@@ -1016,6 +1034,9 @@ urlbar-result-realtime-opt-in-allow = Dangos awgrymiadau
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Nid nawr
 urlbar-result-realtime-opt-in-dismiss = Cau
+urlbar-result-realtime-opt-in-dismiss-all2 = Peidio dangos yr awgrymiadau hyn
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Peidio dangos awgrymiadau marchnad
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Peidio dangos yr awgrymiadau hyn
 # This string is shown in the result menu.
@@ -1214,6 +1235,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Yn tueddu ar { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Peidio â dangos chwiliadau tuedd
+    .accesskey = P
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Noddwyd

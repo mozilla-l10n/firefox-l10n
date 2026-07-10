@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Otvoriť ponuku
 urlbar-result-menu-button-feedback = Spätná väzba
     .title = Otvoriť ponuku
+urlbar-result-menu-learn-more2 = Ďalšie informácie
+    .accesskey = a
+urlbar-result-menu-remove-from-history2 = Odstrániť z histórie
+    .accesskey = h
+urlbar-result-menu-tip-get-help2 = Získať pomoc
+    .accesskey = Z
+urlbar-result-menu-dismiss-suggestion2 = Odmietnuť tento návrh
+    .accesskey = O
+urlbar-result-menu-manage-firefox-suggest2 = Spravovať { -firefox-suggest-brand-name }
+    .accesskey = S
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Nahlásiť nepresnú polohu
+urlbar-result-menu-show-less-frequently2 = Zobrazovať menej často
+urlbar-result-menu-dont-show-weather-suggestions2 = Nezobrazovať návrhy počasia
 urlbar-result-menu-learn-more =
     .label = Ďalšie informácie
     .accesskey = a
@@ -946,6 +964,9 @@ urlbar-result-realtime-opt-in-allow = Zobrazovať návrhy
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Teraz nie
 urlbar-result-realtime-opt-in-dismiss = Zavrieť
+urlbar-result-realtime-opt-in-dismiss-all2 = Nezobrazovať tieto návrhy
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Nezobrazovať návrhy z akciových trhov
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Nezobrazovať tieto návrhy
 # This string is shown in the result menu.
@@ -1138,6 +1159,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populárne na { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Nezobrazovať populárne vyhľadávania
+    .accesskey = N
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponzorované

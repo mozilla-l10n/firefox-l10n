@@ -63,6 +63,12 @@ urlbar-tip-icon-description =
     .alt = सुझाव:
 urlbar-result-menu-button =
     .title = मेन्यू खोलें
+urlbar-result-menu-learn-more2 = अधिक जानें
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = इतिहास से हटाएं
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = मदद लें
+    .accesskey = h
 urlbar-result-menu-learn-more =
     .label = अधिक जानें
     .accesskey = L
@@ -299,6 +305,14 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ब्लॉक किया गया
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -319,6 +333,12 @@ sharing-warning-window = आप { -brand-short-name } को साझा कर
 sharing-warning-screen = आप पूरी स्क्रीन साझा कर रहे हैं। नए टैब पर जाने पर अन्य व्यक्ति इसे देख सकता है।
 sharing-warning-disable-for-session =
     .label = इस सत्र के लिए साझाकरण सुरक्षा अक्षम करें
+
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
@@ -370,6 +390,18 @@ urlbar-result-action-visit = भ्रमण करें
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -390,6 +422,9 @@ urlbar-result-action-search-bookmarks = बुकमार्क खोजें
 urlbar-result-action-search-history = खोज इतिहास
 urlbar-result-action-search-tabs = खोज टैब
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -405,6 +440,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = रीडर दृश्य बंद करे|
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -489,6 +529,9 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } में सहेजें
     .tooltiptext = { -pocket-brand-name } में सहेजें
 
+## Repair text encoding toolbar button
+
+
 ##
 
 toolbar-overflow-customize-button =
@@ -515,6 +558,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = नयी निजी विंडो
     .tooltiptext = एक नए निजी ब्राउजिंग विंडो खोलें ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -548,6 +595,10 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = इस संदेश को मत दिखाएँ जब पॉप-अप रोके जाते हैं
     .accesskey = डी
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
 
 ##
 
@@ -587,12 +638,39 @@ tabs-toolbar-list-all-tabs =
     .label = सभी टैब सूचीबद्ध करें
     .tooltiptext = सभी टैब सूचीबद्ध करें
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } स्वतः कुछ आँकड़ों को { -vendor-short-name } में भेजता है ताकि हम आपके अनुभव को बढ़ा सकें.
 data-reporting-notification-button =
     .label = चुनें जिसे मैंने साझा किया
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
 
 ## Autorefresh blocker
 
@@ -601,6 +679,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ने इस पृष�
 refresh-blocked-allow =
     .label = अनुमति दें
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -632,3 +713,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' दिखाएँ
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

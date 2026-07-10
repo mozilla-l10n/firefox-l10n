@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = Відкрити меню
 urlbar-result-menu-button-feedback = Відгук
     .title = Відкрити меню
+urlbar-result-menu-learn-more2 = Докладніше
+    .accesskey = о
+urlbar-result-menu-remove-from-history2 = Вилучити з історії
+    .accesskey = ч
+urlbar-result-menu-tip-get-help2 = Отримати допомогу
+    .accesskey = г
+urlbar-result-menu-dismiss-suggestion2 = Відхилити цю пропозицію
+    .accesskey = х
+urlbar-result-menu-manage-firefox-suggest2 = Керувати { -firefox-suggest-brand-name }
+    .accesskey = К
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Повідомити про неточне розташування
+urlbar-result-menu-show-less-frequently2 = Показувати рідше
+urlbar-result-menu-dont-show-weather-suggestions2 = Не показувати пропозиції погоди
 urlbar-result-menu-learn-more =
     .label = Докладніше
     .accesskey = о
@@ -875,6 +893,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонсорова
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Запитати
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -887,6 +910,9 @@ urlbar-result-realtime-opt-in-allow = Показувати пропозиції
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Не зараз
 urlbar-result-realtime-opt-in-dismiss = Відхилити
+urlbar-result-realtime-opt-in-dismiss-all2 = Не показувати ці пропозиції
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Не показувати ринкові пропозиції
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Не показувати ці пропозиції
 # This string is shown in the result menu.
@@ -1073,6 +1099,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Популярне в { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Не показувати популярні пошукові запити
+    .accesskey = Н
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Спонсоровано
@@ -1282,6 +1311,10 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Поділитися
     .tooltiptext = Поділитися цією сторінкою
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1740,3 +1773,6 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> елементи стеження заблоковано на цьому сайті
        *[many] <span data-l10n-name="count">{ $count }</span> елементів стеження заблоковано на цьому сайті
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

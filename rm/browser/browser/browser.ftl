@@ -193,6 +193,24 @@ urlbar-result-menu-button =
     .title = Avrir il menu
 urlbar-result-menu-button-feedback = Resun
     .title = Avrir il menu
+urlbar-result-menu-learn-more2 = Ulteriuras infurmaziuns
+    .accesskey = U
+urlbar-result-menu-remove-from-history2 = Allontanar da la cronologia
+    .accesskey = A
+urlbar-result-menu-tip-get-help2 = Ir per agid
+    .accesskey = a
+urlbar-result-menu-dismiss-suggestion2 = Sbittar questa proposta
+    .accesskey = p
+urlbar-result-menu-manage-firefox-suggest2 = Administrar { -firefox-suggest-brand-name }
+    .accesskey = m
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Rapportar ina posiziun nunexacta
+urlbar-result-menu-show-less-frequently2 = Mussar pli darar
+urlbar-result-menu-dont-show-weather-suggestions2 = Betg mussar propostas cun prognosas da l’aura
 urlbar-result-menu-learn-more =
     .label = Ulteriuras infurmaziuns
     .accesskey = U
@@ -647,6 +665,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilisar la cumbinaziun da tastas F12, l'emprim avrir ils utensils per sviluppaders via il menu «Utensils dal navigatur».
@@ -848,6 +869,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dumandar
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -860,6 +886,9 @@ urlbar-result-realtime-opt-in-allow = Mussar propostas
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Betg ussa
 urlbar-result-realtime-opt-in-dismiss = Serrar
+urlbar-result-realtime-opt-in-dismiss-all2 = Betg mussar questas propostas
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Betg mussar propostas en connex cun la bursa
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Betg mussar questas propostas
 # This string is shown in the result menu.
@@ -1006,6 +1035,9 @@ urlbar-result-action-switch-to-tabgroup = Midar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avrir { $group }
 
+## Used in the context menu in urlbar view.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1031,6 +1063,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trend sin { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Betg mussar trends da tschertga
+    .accesskey = B
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Sponsurisà
@@ -1686,3 +1721,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
        *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

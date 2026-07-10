@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = 打开菜单
 urlbar-result-menu-button-feedback = 意见反馈
     .title = 打开菜单
+urlbar-result-menu-learn-more2 = 详细了解
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = 从历史记录移除
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = 获取帮助
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = 忽略此建议
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = 报告位置不准确
+urlbar-result-menu-show-less-frequently2 = 减少显示
+urlbar-result-menu-dont-show-weather-suggestions2 = 不再显示天气建议
 urlbar-result-menu-learn-more =
     .label = 详细了解
     .accesskey = L
@@ -892,6 +910,9 @@ urlbar-result-realtime-opt-in-allow = 显示建议
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = 暂时不要
 urlbar-result-realtime-opt-in-dismiss = 知道了
+urlbar-result-realtime-opt-in-dismiss-all2 = 不再显示此类建议
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = 不再显示市场建议
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = 不再显示此类建议
 # This string is shown in the result menu.
@@ -1066,6 +1087,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 热门搜索
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = 不再显示热门搜索
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = 赞助推广

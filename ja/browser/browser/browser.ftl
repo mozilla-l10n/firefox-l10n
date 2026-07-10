@@ -195,6 +195,24 @@ urlbar-result-menu-button =
     .title = メニューを開く
 urlbar-result-menu-button-feedback = フィードバック
     .title = メニューを開く
+urlbar-result-menu-learn-more2 = 詳細情報
+    .accesskey = L
+urlbar-result-menu-remove-from-history2 = 履歴から削除
+    .accesskey = R
+urlbar-result-menu-tip-get-help2 = ヘルプを表示
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = この検索候補を閉じる
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } を管理
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = 位置情報の誤りを報告
+urlbar-result-menu-show-less-frequently2 = 表示頻度を減らす
+urlbar-result-menu-dont-show-weather-suggestions2 = 天気予報の提案を表示しない
 urlbar-result-menu-learn-more =
     .label = 詳細情報
     .accesskey = L
@@ -415,13 +433,13 @@ quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 開発ツールを開く
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
-quickactions-cmd-inspector = inspector, devtools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
+quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -477,10 +495,10 @@ quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ページのソースを表示
 quickactions-cmd-viewsource2 = view source, source, page source
-quickactions-cmd-viewsource = view source, source
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = { -firefoxlabs-brand-name } を開く
 quickactions-cmd-labs = labs, experiment
+quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = クイックアクションについての詳細
@@ -921,6 +939,9 @@ urlbar-result-realtime-opt-in-allow = 検索候補を表示する
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = 後で
 urlbar-result-realtime-opt-in-dismiss = 閉じる
+urlbar-result-realtime-opt-in-dismiss-all2 = これらの候補を表示しない
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = 市場データの候補を表示しない
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = これらの候補を表示しない
 # This string is shown in the result menu.
@@ -1095,6 +1116,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } の検索トレンド
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = 検索トレンドを表示しない
+    .accesskey = D
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = 広告
