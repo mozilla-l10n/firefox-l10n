@@ -293,6 +293,20 @@ newtab-privacy-message-milestone-total =
        *[other] { $count } trackers blocked. That’s major progress towards privacy on your terms.
     }
 newtab-privacy-message-milestone-total-cta = View protections
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ trackers blocked today.) Fewer trackers means more privacy.
+newtab-privacy-message-daily-cap-cta = View protections
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] You’ve been protected { $count } day in a row.
+       *[other] You’ve been protected { $count } days in a row.
+    }
+newtab-privacy-message-streak-cta = View protections
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Keep browsing, { -brand-short-name } will keep blocking.
+newtab-privacy-message-first-protection-cta = View protections
 
 ## Strings for the Stocks widget
 
@@ -308,6 +322,18 @@ newtab-stocks-menu-learn-more = Learn more
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Picture of the day · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Picture of the day
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = View the { $license } licence
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Picture of the day options
+    .aria-label = Picture of the day options
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
