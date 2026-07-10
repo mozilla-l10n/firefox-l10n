@@ -13,6 +13,10 @@ about-debugging-page-title-setup-page = डीबगिंग - सेटअप
 
 # Sidebar strings
 
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = सेटअप
+about-debugging-sidebar-setup-title =
+    .title = सेटअप
 # Sidebar heading for connecting to some remote source
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-setup =
