@@ -203,6 +203,14 @@ urlbar-result-menu-dismiss-suggestion2 = Отхвърляне на това пр
     .accesskey = х
 urlbar-result-menu-manage-firefox-suggest2 = Управление на { -firefox-suggest-brand-name }
     .accesskey = У
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Докладване на неточно местоположение
+urlbar-result-menu-show-less-frequently2 = Показване по-рядко
+urlbar-result-menu-dont-show-weather-suggestions2 = Без показване на предложения за времето
 urlbar-result-menu-learn-more =
     .label = Научете повече
     .accesskey = н
@@ -871,6 +879,9 @@ urlbar-result-realtime-opt-in-allow = Показване на подсказки
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Не сега
 urlbar-result-realtime-opt-in-dismiss = Прекратяване
+urlbar-result-realtime-opt-in-dismiss-all2 = Без показване на тези предложения
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Без показване на пазарни предложения
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Без показване на тези предложения
 # This string is shown in the result menu.
