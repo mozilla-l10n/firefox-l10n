@@ -152,47 +152,6 @@ home-prefs-support-firefox-header-srd =
     .label = Support { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Find out how
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Strings for the Picture of the Day widget
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -1310,9 +1269,6 @@ newtab-sports-widget-message-day-in-play-title = Keep your day in play with { -b
 newtab-sports-widget-message-day-in-play-body = Follow the World Cup, stay on task, track time around the globe, and more.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explore widgets
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

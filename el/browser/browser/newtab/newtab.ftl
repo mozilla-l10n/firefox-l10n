@@ -315,13 +315,6 @@ newtab-stocks-menu-search = Αναζήτηση συμβόλων μετοχών
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Μάθετε περισσότερα
 
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.

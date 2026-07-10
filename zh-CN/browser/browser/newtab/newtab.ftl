@@ -159,47 +159,12 @@ home-prefs-mission-message-learn-more-link-srd = 了解其方式
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 详细了解
 
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = 搜索股票代码
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 详细了解
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Strings for the Picture of the Day widget
-
 
 ## Search box component.
 
@@ -1312,9 +1277,6 @@ newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 
 newtab-sports-widget-message-day-in-play-body = 关注世界杯、记录任务、掌握世界各地时间，另有更多实用功能。
 newtab-sports-widget-message-explore-widgets-cta =
     .label = 探索小组件
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

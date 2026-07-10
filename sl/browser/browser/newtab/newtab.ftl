@@ -157,44 +157,6 @@ home-prefs-mission-message-learn-more-link-srd = Spoznajte, kako
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Več o tem
 
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Strings for the Picture of the Day widget
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -824,9 +786,6 @@ newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product
 newtab-new-user-custom-wallpaper-subtitle = Počutite se kot doma na vsakem novem zavihku s poljubnim ozadjem in barvami.
 newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Prenesite { -brand-product-name } za mobilne naprave
@@ -1206,9 +1165,6 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj pripomočke
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Raziščite pripomočke
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
