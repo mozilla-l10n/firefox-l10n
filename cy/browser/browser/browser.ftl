@@ -195,6 +195,12 @@ urlbar-result-menu-button =
     .title = Agor dewislen
 urlbar-result-menu-button-feedback = Adborth
     .title = Agor dewislen
+urlbar-result-menu-learn-more2 = Darllen rhagor
+    .accesskey = D
+urlbar-result-menu-remove-from-history2 = Tynnu o'r hanes
+    .accesskey = T
+urlbar-result-menu-tip-get-help2 = Derbyn cymorth
+    .accesskey = D
 urlbar-result-menu-learn-more =
     .label = Darllen rhagor
     .accesskey = D
@@ -1214,6 +1220,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Yn tueddu ar { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = Peidio â dangos chwiliadau tuedd
+    .accesskey = P
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = Noddwyd
