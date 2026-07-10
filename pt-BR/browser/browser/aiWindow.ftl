@@ -134,6 +134,13 @@ aiwindow-firstrun-memories-conversation-title = Continue a conversa
 aiwindow-firstrun-memories-conversation-body = Aprender com conversas significa que você deverá se repetir menos.
 aiwindow-firstrun-memories-relevance-title = Respostas mais relevantes
 aiwindow-firstrun-memories-relevance-body = Aprender com a navegação dá ao { -smart-window-brand-name } uma visão mais ampla.
+aiwindow-firstrun-memories-privacy-title = Projetado para privacidade
+aiwindow-firstrun-memories-privacy-body = As memórias são armazenadas neste dispositivo. Exclua ou desative quando quiser.
+aiwindow-firstrun-memories-choose-label = Escolha a origem do aprendizado do { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Conversas no { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navegação no { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Mude nas configurações quando quiser.
+aiwindow-firstrun-memories-no-create = Certo. O { -smart-window-brand-name } não criará memórias. Mude nas configurações quando quiser.
 
 ## Close Sidebar Button
 
