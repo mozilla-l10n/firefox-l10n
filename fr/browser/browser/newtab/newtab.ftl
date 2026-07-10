@@ -265,8 +265,8 @@ newtab-privacy-message-promo-relay-3-cta = Obtenir des alias
 #   $count (number) - Trackers blocked this week
 newtab-privacy-message-milestone-week =
     { $count ->
-        [one] { $count } traqueur bloqué cette semaine. Voyez ce que { -brand-short-name } vous cache
-       *[other] { $count } traqueurs bloqués cette semaine. Voyez ce que { -brand-short-name } vous cache
+        [one] { $count } traqueur bloqué cette semaine. Découvrez comment { -brand-short-name } protège votre vie privée
+       *[other] { $count } traqueurs bloqués cette semaine. Découvrez comment { -brand-short-name } protège votre vie privée
     }
 newtab-privacy-message-milestone-week-cta = Voir les protections
 # Variables:

@@ -131,6 +131,17 @@ home-prefs-support-firefox-header-srd =
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = قلوه دووسته بۊین
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-signin-1-cta = و من ٱووڌن
+newtab-privacy-message-promo-vpn-1-cta = گۊشیڌن VPN
+newtab-privacy-message-promo-vpn-2-cta = گۊشیڌن VPN
+newtab-privacy-message-promo-vpn-3-cta = گۊشیڌن VPN
+newtab-privacy-message-promo-private-window-1-cta = گۊشیڌن نیمدری سیخومی
+
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
@@ -352,6 +363,8 @@ newtab-custom-widget-lists-toggle =
     .label = نومگه یل
 newtab-custom-widget-timer-toggle =
     .label = زمووݩ سنج
+newtab-custom-widget-privacy-toggle =
+    .label = سیخومی
 newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا
