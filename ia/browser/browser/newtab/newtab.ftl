@@ -246,6 +246,9 @@ newtab-privacy-message-promo-vpn-1-cta = Aperir VPN
 newtab-privacy-message-promo-vpn-2-cta = Aperir VPN
 newtab-privacy-message-promo-vpn-3-cta = Aperir VPN
 newtab-privacy-message-promo-private-window-1-cta = Aperir fenestra private
+newtab-privacy-message-promo-relay-1-cta = Obtener mascas
+newtab-privacy-message-promo-relay-2-cta = Obtener mascas
+newtab-privacy-message-promo-relay-3-cta = Obtener mascas
 
 ## Privacy widget — celebration messages
 ##

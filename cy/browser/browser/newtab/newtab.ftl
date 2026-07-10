@@ -289,12 +289,12 @@ newtab-privacy-message-milestone-week-cta = Dyma'r diogelwch
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
     { $count ->
-        [zero] Does { $count } tracwyr wedi'u rhwystro'r mis hwn. Bydd hyn yn un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
-        [one] Mae { $count } traciwr wedi'i rwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
-        [two] Mae { $count } draciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
-        [few] Mae { $count } thraciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
-        [many] Mae { $count } thraciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
-       *[other] Mae { $count } traciwr wedi'u rhwystro'r mis hwn. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [zero] Does { $count } tracwyr wedi'u rhwystro'r mis yma. Bydd hyn yn un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [one] Mae { $count } traciwr wedi'i rwystro'r mis yma. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [two] Mae { $count } draciwr wedi'u rhwystro'r mis yma. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [few] Mae { $count } thraciwr wedi'u rhwystro'r mis yma. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+        [many] Mae { $count } thraciwr wedi'u rhwystro'r mis yma. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
+       *[other] Mae { $count } traciwr wedi'u rhwystro'r mis yma. Un cam bach ar gyfer preifatrwydd. Un cam mawr ar gyfer tawelwch meddwl.
     }
 newtab-privacy-message-milestone-month-cta = Dyma'r diogelwch
 # Variables:
@@ -303,12 +303,42 @@ newtab-privacy-message-milestone-year =
     { $count ->
         [zero] Does { $count } tracwyr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
         [one] Mae { $count } traciwr wedi'i rwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
-        [two] Mae { $count } traciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
-        [few] Mae { $count } thraciwr wedi'u rhwystro eleni. Mae honno'n flwyddyn bwerus o ddiogelu eich preifatrwydd.
-        [many] Mae { $count } thraciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [two] Mae { $count } draciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [few] Mae { $count } traciwr wedi'u rhwystro eleni. Mae honno'n flwyddyn bwerus o ddiogelu eich preifatrwydd.
+        [many] Mae { $count } traciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
        *[other] Mae { $count } traciwr wedi'u rhwystro eleni. Dyma flwyddyn bwerus o ddiogelu eich preifatrwydd.
     }
 newtab-privacy-message-milestone-year-cta = Dyma'r diogelwch
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [zero] { $count } tracwyr wedi'u rhwystro. Dyna gynnydd mawr tuag at breifatrwydd ar eich telerau chi.
+        [one] { $count } traciwr wedi'i rwystro. Dyna gynnydd mawr tuag at breifatrwydd ar eich telerau chi.
+        [two] { $count } draciwr wedi'u rhwystro. Dyna gynnydd mawr tuag at breifatrwydd ar eich telerau chi.
+        [few] { $count } traciwr wedi'u rhwystro. Dyna gynnydd mawr tuag at breifatrwydd ar eich telerau chi.
+        [many] { $count } traciwr wedi'u rhwystro. Dyna gynnydd mawr tuag at breifatrwydd ar eich telerau chi.
+       *[other] { $count } traciwr wedi'u rhwystro. Dyna gynnydd mawr tuag at breifatrwydd ar eich telerau chi.
+    }
+newtab-privacy-message-milestone-total-cta = Dyma'r diogelwch
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ o dracwyr wedi'u rhwystro heddiw.) Mae llai o dracwyr yn golygu mwy o breifatrwydd.
+newtab-privacy-message-daily-cap-cta = Dyma'r diogelwch
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [zero] Dydych heb eich diogelu am { $count } diwrnodau.
+        [one] Rydych wedi'ch diogelu am { $count } diwrnod.
+        [two] Rydych wedi'ch diogelu am { $count } ddiwrnod yn olynol.
+        [few] Rydych wedi'ch diogelu am { $count } diwrnod yn olynol.
+        [many] Rydych wedi'ch diogelu am { $count } diwrnod yn olynol.
+       *[other] Rydych wedi'ch diogelu am { $count } diwrnod yn olynol.
+    }
+newtab-privacy-message-streak-cta = Dyma'r diogelwch
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Cadwch i bori, bydd { -brand-short-name } yn dal i rwystro.
+newtab-privacy-message-first-protection-cta = Dyma'r diogelwch
 
 ## Strings for the Stocks widget
 
@@ -324,6 +354,18 @@ newtab-stocks-menu-learn-more = Dysgu rhagor
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Darlun y dydd · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Darlun y dydd
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Gweld trwydded { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Dewisiadau darlun y dydd
+    .aria-label = Dewisiadau darlun y dydd
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
