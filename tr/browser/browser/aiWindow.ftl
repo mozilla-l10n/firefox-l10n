@@ -38,6 +38,9 @@ ai-window-toggleview-switch-classic-description =
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Gezinirken sor
+    .value = Gezinirken sor
 ai-window-toggleview-switch-private =
     .label = Gizli pencere
 ai-window-toggleview-open-private =
@@ -74,6 +77,7 @@ smartbar-placeholder-hint-4 = Web’de arama yapın…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Bir sekmeyi veya siteyi etiketle
 smartbar-mentions-list-no-results-label = Sonuç bulunamadı
 smartbar-mentions-list-recent-tabs-label = Son sekmeler
 
@@ -85,6 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Bir sekmeyi veya siteyi etiketle
 aiwindow-website-chip-history-deleted = Geçmiş silindi
 aiwindow-website-chip-remove-button =
     .aria-label = Kaldır
@@ -95,6 +100,9 @@ aiwindow-firstrun-title = { -smart-window-brand-name }ye hoş geldiniz
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = { $ownerName } tarafından geliştirilen { $model } modeli
 aiwindow-firstrun-model-allpurpose-label = Esnek
 aiwindow-firstrun-model-allpurpose-body = Çoğu ihtiyaç için ideal
 aiwindow-firstrun-model-personal-label = Kişisel

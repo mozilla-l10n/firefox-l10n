@@ -95,6 +95,7 @@ smart-window-closed-tabs-summary =
         [one] Sekme kapatıldı.
        *[other] Sekmeler kapatıldı.
     }
+smart-window-closed-tabs-row-label = Kapatılan sekmeler
 smart-window-closed-and-restored-label = Kapatılan ve geri yüklenen sekmeler
 smart-window-restored-row-label =
     { $count ->
@@ -130,6 +131,16 @@ smart-window-grouped-tabs-summary =
     { $count ->
         [one] “{ $label }” grubu oluşturuldu ve { $count } sekme eklendi.
        *[other] “{ $label }” grubu oluşturuldu ve { $count } sekme eklendi.
+    }
+smart-window-grouped-tabs-row-label = Gruplandırılmış sekmeler
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Sekmeler gruptan çıkarıldı
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } sekme gruplandırıldı, ardından gruptan çıkarıldı.
+       *[other] { $count } sekme gruplandırıldı, ardından gruptan çıkarıldı.
     }
 smart-window-ungrouped-row-label =
     { $count ->
