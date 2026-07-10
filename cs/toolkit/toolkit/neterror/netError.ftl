@@ -69,6 +69,7 @@ neterror-dns-not-found-hint-try-again = Zkuste to znovu
 neterror-dns-not-found-hint-check-network = Zkontrolujte připojení k síti
 neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name } povolený přístup na web (může být omezen firewallem).
 neterror-dns-not-found-hint-check-network-2 = Zkontrolujte připojení k síti.
+neterror-dns-not-found-hint-firewall-2 = Zkontrolujte, zda má { -brand-short-name } povolený přístup na web (může být omezen firewallem).
 neterror-dns-not-found-offline-hint-header = <strong>Co s tím můžete dělat?</strong>
 neterror-dns-not-found-offline-hint-different-device = Zkuste se připojit na jiném zařízení.
 neterror-dns-not-found-offline-hint-modem = Zkontrolujte modem nebo router.

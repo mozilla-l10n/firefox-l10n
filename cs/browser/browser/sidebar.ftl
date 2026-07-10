@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Otevřené panely
 sidebar-options-menu-button =
     .title = Otevřít nabídku
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Změnit velikosti postranní lišty
 
 ## Labels for sidebar history panel
 
@@ -250,6 +253,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Okno { $winID }
+sidebar-bookmarks-title = Záložky
 
 ## Context for closing synced tabs when hovering over the items
 

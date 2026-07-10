@@ -100,6 +100,7 @@ containers-window-update-settings3 =
 
 ## Container creation panel, anchored to the URL bar.
 
+containers-panel-title = Přidat kontejner
 containers-panel-create-button =
     .label = Hotovo
 containers-panel-cancel-button =

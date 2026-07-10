@@ -177,6 +177,8 @@ newtab-privacy-menu-learn-more = Zjistit více
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Hledat burzové symboly
 # Context menu item that hides the Stocks widget.
 newtab-stocks-menu-hide = Skrýt akcie
 # Context menu item linking to more information about the Stocks widget.
@@ -1369,6 +1371,10 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Pomozte nám vylepšit widgety
+newtab-sports-widget-message-survey-body = To je úplný závěr k Mistrovství světa. Podělte se o zpětnou vazbu.
+newtab-sports-widget-message-survey-widget-title = Jaký byl widget k Mistrovství světa?
+newtab-sports-widget-message-survey-widget-body = Podělte se o zpětnou vazbu a pomozte nám vylepšit budoucí widgety. Pak vyzkoušejte nový ve vaší sestavě.
 newtab-sports-widget-message-survey-cta =
     .label = Vyplnit průzkum
 
