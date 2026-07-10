@@ -18,6 +18,10 @@ about-debugging-this-firefox-runtime-name = یہ  { -brand-shorter-name }
 about-debugging-sidebar-this-firefox2 = یہ  { -brand-shorter-name }
 about-debugging-sidebar-this-firefox-title =
     .title = یہ  { -brand-shorter-name }
+# Sidebar heading and title for connecting to some remote source
+about-debugging-sidebar-setup2 = سیٹ اپ
+about-debugging-sidebar-setup-title =
+    .title = سیٹ اپ
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
