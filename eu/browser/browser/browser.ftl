@@ -201,6 +201,18 @@ urlbar-result-menu-remove-from-history2 = Kendu historiatik
     .accesskey = K
 urlbar-result-menu-tip-get-help2 = Lortu laguntza
     .accesskey = L
+urlbar-result-menu-dismiss-suggestion2 = Baztertu gomendio hau
+    .accesskey = B
+urlbar-result-menu-manage-firefox-suggest2 = Kudeatu { -firefox-suggest-brand-name }
+    .accesskey = K
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Eman kokaleku okerraren berri
+urlbar-result-menu-show-less-frequently2 = Erakutsi maiztasun txikiagoarekin
+urlbar-result-menu-dont-show-weather-suggestions2 = Ez erakutsi eguraldi gomendiorik
 urlbar-result-menu-learn-more =
     .label = Argibide gehiago
     .accesskey = A
@@ -936,6 +948,9 @@ urlbar-result-realtime-opt-in-allow = Erakutsi gomendioak
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Une honetan ez
 urlbar-result-realtime-opt-in-dismiss = Baztertu
+urlbar-result-realtime-opt-in-dismiss-all2 = Ez erakutsi gomendio hauek
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = Ez erakutsi merkatuko gomendiorik
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ez erakutsi gomendio hauek
 # This string is shown in the result menu.
