@@ -211,6 +211,62 @@ newtab-privacy-message-info-3 = Muchos sitios tienen rastreadores, por lo que la
 newtab-privacy-message-info-3-cta = Ver protecciones
 newtab-privacy-message-info-4 = Elegir { -brand-short-name } significa elegir la protección de forma predeterminada.
 newtab-privacy-message-info-4-cta = Ver protecciones
+newtab-privacy-message-info-5 = Los rastreadores bloqueados significan que menos empresas pueden seguirlo en todos los sitios.
+newtab-privacy-message-info-5-cta = Ver protecciones
+newtab-privacy-message-info-6 = Mantenga sus datos con { -brand-short-name }. Nunca los vendemos, pero otros navegadores podrían hacerlo.
+newtab-privacy-message-info-6-cta = Conocer más
+newtab-privacy-message-info-7 = Vea qué rastreadores bloqueó { -brand-short-name }.
+newtab-privacy-message-info-7-cta = Ver protecciones
+newtab-privacy-message-info-8-cta = Conocer más
+newtab-privacy-message-info-9-cta = Hacer predeterminado
+newtab-privacy-message-info-10-cta = Ir a contraseñas
+newtab-privacy-message-info-11 = Descubra cómo { -brand-short-name } ayuda a mantener la navegación más privada.
+newtab-privacy-message-info-11-cta = Conocer más
+newtab-privacy-message-info-12 = Bloquear rastreadores puede ayudar a ahorrar ancho de banda en planes de datos limitados.
+newtab-privacy-message-info-12-cta = Ver protecciones
+newtab-privacy-message-info-13-cta = Ver protecciones
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Conocer más
+newtab-privacy-message-promo-monitor-2 = Proteja su información con el monitoreo gratuito de filtraciones de datos, para hasta 20 correos electrónicos.
+newtab-privacy-message-promo-monitor-2-cta = Conocer más
+newtab-privacy-message-promo-signin-1 = Mantenga marcadores, contraseñas y pestañas cifradas en todos los dispositivos con una cuenta de { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Iniciar sesión
+newtab-privacy-message-promo-vpn-1 = ¿Comprando con una red Wi-Fi pública? Habilite la VPN incorporada para protección adicional.
+newtab-privacy-message-promo-vpn-1-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-2 = ¿Usando el Wi-Fi del aeropuerto? Proteja la navegación activando la VPN incorporada.
+newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-3 = Habilite la VPN integrada para ayudar a mantener la ubicación más privada.
+newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1-cta = Abrir ventana privada
+newtab-privacy-message-promo-relay-2 = Proteja su bandeja de entrada del spam con el enmascaramiento de correo electrónico gratuito.
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } rastreador bloqueado este mes. Un pequeño paso para la privacidad. Un gran paso para su tranquilidad.
+       *[other] { $count } rastreadores bloqueados este mes. Un pequeño paso para la privacidad. Un gran paso para su tranquilidad.
+    }
+newtab-privacy-message-milestone-month-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } rastreador bloqueado este año. Es un año poderoso para proteger su privacidad.
+       *[other] { $count } rastreadores bloqueados este año. Es un año poderoso para proteger su privacidad.
+    }
+newtab-privacy-message-milestone-year-cta = Ver protecciones
 
 ## Strings for the Stocks widget
 
