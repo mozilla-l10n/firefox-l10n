@@ -718,6 +718,8 @@ newtab-sports-widget-skip = گوم زیڌن
 newtab-sports-widget-cancel = لقو
 newtab-sports-widget-back-button =
     .aria-label = وورگشتن
+newtab-sports-widget-done-button =
+    .label = ٱنجوم وابی
 newtab-sports-widget-view-all =
     .label = نیشتن پوی
 newtab-sports-widget-show-less =
@@ -725,6 +727,7 @@ newtab-sports-widget-show-less =
 newtab-sports-widget-watch-dialog-close =
     .title = بستن
     .aria-label = بستن
+newtab-sports-widget-group-stage = مرهله بونکۊیی
 newtab-sports-widget-group-a = بونکۊ A
 newtab-sports-widget-group-b = بونکۊ B
 newtab-sports-widget-group-c = بونکۊ C
@@ -740,11 +743,17 @@ newtab-sports-widget-group-l = بونکۊ L
 newtab-sports-widget-round-32 = دور 32
 newtab-sports-widget-round-16 = دور 16
 newtab-sports-widget-quarter-finals = مرهله ی چاروم دیندایی
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = زنده
 newtab-sports-widget-upcoming = آینده
 newtab-sports-widget-semi-finals = نیمه دیندایی
 newtab-sports-widget-bronze-finals = فینال بورونز
 # Final is the final match for 1st place.
 newtab-sports-widget-final = فینال
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
 newtab-sports-widget-cancelled = لقو وابی
 newtab-sports-widget-third-place = مقام سووم
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026

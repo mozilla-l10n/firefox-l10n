@@ -4,6 +4,8 @@
 
 containers-window-close =
     .key = w
+containers-color-label2 =
+    .label = رنگ
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -32,6 +34,10 @@ containers-color-turquoise =
     .label = فیرۊزه
 containers-color-green =
     .label = ساوز
+containers-color-yellow =
+    .label = هیل
+containers-color-orange =
+    .label = نارنجی
 containers-color-red =
     .label = سوئر
 containers-color-pink =
@@ -62,3 +68,10 @@ containers-icon-tree =
     .label = دار
 containers-icon-chill =
     .label = زهشت
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-create-button =
+    .label = ٱنجوم وابی
+containers-panel-cancel-button =
+    .label = لقو

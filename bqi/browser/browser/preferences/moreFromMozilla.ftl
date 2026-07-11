@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = قلوه ز { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = قلوه ز { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = قلوه ز { -vendor-short-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
@@ -31,6 +33,10 @@ more-from-moz-solo-button = امتهووݩ کردن { -solo-ai-brand-name }
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
