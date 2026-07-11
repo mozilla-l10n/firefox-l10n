@@ -87,6 +87,11 @@ file-browse-certificate-spec = فایلا گوواهی
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = پاک کردن گوواهی یل ایسا
+delete-user-cert-confirm = الن اخۊی ای گوواهی یل پاک بۊن؟
+delete-email-cert-title =
+    .title = پاک کردن گوواهی یل ایمیل
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (زفت نوابیڌه)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
