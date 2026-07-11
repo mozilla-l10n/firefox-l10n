@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Sử dụng mô hìn
 experimental-features-tab-notes =
     .label = Ghi chú thẻ
 experimental-features-tab-notes-description = Ghi chú thẻ là một tính năng thử nghiệm cho phép bạn thêm ghi chú dán vào các thẻ trình duyệt. Ghi lại ngữ cảnh, lời nhắc hoặc các bước tiếp theo để bạn có thể quay lại và nhớ lý do tại sao bạn đã mở thẻ đó. Chúng tôi rất mong nhận được phản hồi của bạn để tiếp tục cải thiện tính năng này. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Menu thẻ được sắp xếp hợp lý
+experimental-features-tab-context-menu-description = Bạn sẽ thấy menu ngữ cảnh đơn giản hơn khi nhấp chuột phải vào một thẻ. Menu này được thiết kế để giúp bạn dễ dàng tìm thấy các thao tác thường dùng. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
