@@ -314,6 +314,14 @@ newtab-privacy-message-first-protection-cta = Ver proteções
 newtab-stocks-menu-search = Pesquisar símbolos de ações
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Saiba mais
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Opções do widget de ações
+    .aria-label = Opções do widget de ações
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Ações
 
 ## Strings for the Picture of the Day widget
 
