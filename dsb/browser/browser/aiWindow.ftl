@@ -133,6 +133,10 @@ aiwindow-firstrun-memories-privacy-title = Priwatny pó designje
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = W { -brand-product-name } pśeglědowaś
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } pśecej w { -smart-window-brand-name } wócyniś
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
@@ -199,6 +203,11 @@ firefoxview-chat-date-yesterday = Cora – { DATETIME($date, dateStyle: "full") 
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Slědk k wašym chatam
+firefoxview-chats-empty-description = Dokulaž { -smart-window-brand-name } wužywaśo, se waše chaty how składuju.
+
 ## Count displayed in fxview chat search results
 
 
@@ -212,6 +221,13 @@ firefoxview-search-chat-results-count =
         [few] { $count } chaty
        *[other] { $count } chatow
     }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Historija pśeglědowanja, ześěgnjenjow a chatow
+    .accesskey = H
+item-history-downloads-and-chat-description = Wulašujo historiju sedłow, ześěgnjenjow a chatow
 
 ## Natural Language Interactions
 

@@ -781,6 +781,11 @@ pdfjs-digital-signature-properties-certificate-trusted = Certifikát: Dôveryhod
 pdfjs-digital-signature-properties-certificate-unknown = Certifikát: Nie je k dispozícii
 pdfjs-digital-signature-properties-certificate-untrusted = Certifikát: Nedôveryhodný
 pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certifikát: Neznámy vydavateľ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Certifikát: Samopodpísaný ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Certifikát: Nedôveryhodný vydavateľ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Certifikát: Platnosť vypršala
+pdfjs-digital-signature-properties-certificate-expired-with-date = Certifikát: Platnosť vypršala ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Certifikát: Zrušený
 
 ## Main menu for adding/removing signatures
 

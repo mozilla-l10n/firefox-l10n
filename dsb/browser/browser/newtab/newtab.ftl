@@ -234,12 +234,20 @@ newtab-privacy-message-promo-monitor-1-cta = Dalšne informacije
 newtab-privacy-message-promo-monitor-2-cta = Dalšne informacije
 newtab-privacy-message-promo-signin-1-cta = Pśizjawiś
 newtab-privacy-message-promo-vpn-1-cta = VPN wócyniś
+newtab-privacy-message-promo-vpn-2-cta = VPN wócyniś
+newtab-privacy-message-promo-vpn-3-cta = VPN wócyniś
+newtab-privacy-message-promo-private-window-1-cta = Priwatne wokno wócyniś
+newtab-privacy-message-promo-relay-1-cta = Maski wobstaraś
+newtab-privacy-message-promo-relay-2-cta = Maski wobstaraś
+newtab-privacy-message-promo-relay-3-cta = Maski wobstaraś
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = Šćity pokazaś
+newtab-privacy-message-milestone-month-cta = Šćity pokazaś
 newtab-privacy-message-milestone-year-cta = Šćity pokazaś
 newtab-privacy-message-milestone-total-cta = Šćity pokazaś
 newtab-privacy-message-daily-cap-cta = Šćity pokazaś

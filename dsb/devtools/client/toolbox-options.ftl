@@ -83,6 +83,11 @@ options-netmonitor-label = Seśowy monitor
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Njewobgranicowany
 
+## Experimental section
+
+# The heading
+options-experimental-label = Eksperimentelne funkcije
+
 ## Style Editor section
 
 # The heading
