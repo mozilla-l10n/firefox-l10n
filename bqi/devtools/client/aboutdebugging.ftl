@@ -11,6 +11,10 @@
 
 # Sidebar strings
 
+# Sidebar heading and title for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox2 = یو { -brand-shorter-name }
+about-debugging-sidebar-this-firefox-title =
+    .title = یو { -brand-shorter-name }
 # Sidebar heading and title for connecting to some remote source
 about-debugging-sidebar-setup2 = وورکل کردن
 about-debugging-sidebar-setup-title =
@@ -130,3 +134,5 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = شناسه وردنی
+about-debugging-sidebar =
+    .heading = موشکل زودایی

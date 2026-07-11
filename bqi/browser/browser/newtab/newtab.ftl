@@ -146,9 +146,29 @@ newtab-privacy-message-promo-private-window-1-cta = گۊشیڌن نیمدری س
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = قلوه دووسته بۊین
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = سهام
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }، روء { $change }، { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }، لم { $change }، { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }، { $price }
 
 ## Strings for the Picture of the Day widget
 
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = قلوه دووسته بۊین
 
