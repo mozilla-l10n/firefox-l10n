@@ -121,3 +121,48 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
+-smart-window-brand-name =
+    { $case ->
+        [gen]
+            { $form ->
+                [upper-plural] Розумних вікон
+                [lower-singular] розумного вікна
+                [lower-plural] розумних вікон
+               *[upper-singular] Розумного вікна
+            }
+        [dat]
+            { $form ->
+                [upper-plural] Розумним вікнам
+                [lower-singular] розумному вікну
+                [lower-plural] розумним вікнам
+               *[upper-singular] Розумному вікну
+            }
+        [acc]
+            { $form ->
+                [upper-plural] Розумні вікна
+                [lower-singular] розумне вікно
+                [lower-plural] розумні вікна
+               *[upper-singular] Розумне вікно
+            }
+        [abl]
+            { $form ->
+                [upper-plural] Розумними вікнами
+                [lower-singular] розумним вікном
+                [lower-plural] розумними вікнами
+               *[upper-singular] Розумним вікном
+            }
+        [loc]
+            { $form ->
+                [upper-plural] Розумних вікнах
+                [lower-singular] розумному вікні
+                [lower-plural] розумних вікнах
+               *[upper-singular] Розумному вікні
+            }
+       *[nom]
+            { $form ->
+                [upper-plural] Розумні вікна
+                [lower-singular] розумне вікно
+                [lower-plural] розумні вікна
+               *[upper-singular] Розумне вікно
+            }
+    }

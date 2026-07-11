@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Mba’emimi jejavygua
 about-debugging-message-details-label-warning = Mba’emimi je’epihyigua
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Mba’emimi
+about-debugging-sidebar =
+    .heading = Ñemopotĩ

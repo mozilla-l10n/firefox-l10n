@@ -91,6 +91,9 @@ options-experimental-label = Japokuaa reheguaite
 options-stylesheets-in-the-debugger-label = Ehechauka kuatia mbohekoha mopotĩhápe
 options-stylesheets-in-the-debugger-tooltip =
     .title = Emboysýi ha ehecha kuatia mbohekoha mopotĩhápe
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (oikotevẽ ombojuruja tembiporu ryru)
 
 ## Style Editor section
 
