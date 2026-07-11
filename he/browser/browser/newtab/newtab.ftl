@@ -180,6 +180,51 @@ newtab-privacy-trackers-blocked-today =
         [one] רכיב מעקב אחד נחסם השבוע
        *[other] רכיבי מעקב נחסמו השבוע
     }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] באתר אחד
+       *[other] ב־{ NUMBER($count) } אתרים
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = ‏{ -brand-short-name } חוסם רכיבי מעקב בזמן הגלישה. הם יהיו מוצגים כאן.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = ‏{ -brand-short-name } חוסם רכיבי מעקב באופן אוטומטי בזמן הגלישה.
+newtab-privacy-message-info-1-cta = הצגת הגנות
+newtab-privacy-message-info-2 = חסימת רכיבי מעקב מסייעת למנוע מחברות לעקוב אחריך ברשת.
+newtab-privacy-message-info-2-cta = הצגת הגנות
+newtab-privacy-message-info-3 = אתרים רבים כוללים רכיבי מעקב, כך שחברות שמעולם לא ביקרת בהן עשויות לעקוב אחריך באינטרנט.
+newtab-privacy-message-info-3-cta = הצגת הגנות
+newtab-privacy-message-info-4 = הבחירה ב־{ -brand-short-name } פירושה בחירה בהגנה כברירת מחדל.
+newtab-privacy-message-info-4-cta = הצגת הגנות
+newtab-privacy-message-info-5 = רכיבי מעקב חסומים פירושם שפחות חברות יכולות לעקוב אחריך באתרים שונים.
+newtab-privacy-message-info-5-cta = הצגת הגנות
+newtab-privacy-message-info-6 = הנתונים שלך נשמרים אצלך ב־{ -brand-short-name }. אנחנו לעולם לא נמכור אותם, אבל דפדפנים אחרים אולי כן.
+newtab-privacy-message-info-6-cta = מידע נוסף
+newtab-privacy-message-info-7 = הצגת רכיבי המעקב ש־{ -brand-short-name } חסמה.
+newtab-privacy-message-info-7-cta = הצגת הגנות
+newtab-privacy-message-info-8 = הגלישה עם { -brand-short-name } תומכת במשימתה של { -vendor-short-name } לבנות אינטרנט טוב יותר.
+newtab-privacy-message-info-8-cta = מידע נוסף
+newtab-privacy-message-info-9 = כדאי להפוך את { -brand-short-name } לדפדפן המועדף עליך לקבלת פרטיות מובנית.
+newtab-privacy-message-info-9-cta = הגדרה כדפדפן ברירת המחדל
+newtab-privacy-message-info-10 = שמירת ססמאות ב־{ -brand-short-name } מאפשרת להשתמש בפרטי התחברות חזקים וייחודיים בכל מקום.
+newtab-privacy-message-info-10-cta = מעבר לססמאות
+newtab-privacy-message-info-11 = אפשר לגלות איך { -brand-short-name } עוזר לשמור על פרטיות רבה יותר בזמן הגלישה.
+newtab-privacy-message-info-11-cta = מידע נוסף
 
 ## Strings for the Stocks widget
 

@@ -67,7 +67,7 @@ ai-window-memories-section =
     .label = Dopomnjeća
     .description = { -brand-short-name } móže z wašeje aktiwity wuknyć, zo by dopomnjeća wutworił. Wužiwaja so, zo bychu pomhali, wotmołwy personalizować a składuja so lokalnje na tutym graće.
 ai-window-learn-from-chat-activity =
-    .label = Wukńće z chatow w { -smart-window-brand-name }
+    .label = Z chatow w { -smart-window-brand-name } wuknyć
 ai-window-learn-from-browsing-activity =
     .label = Z přehladowanja w klasiskich woknach a { -smart-window-brand-name } wuknyć
 ai-window-manage-memories-button =
@@ -86,7 +86,7 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = Wšě dopomnjeća zhašeć?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = Eksistowace dopomnjeća so zhašeja. Jeli nochceće nowe dopomnjeća wutworić, wotstrońće hóčko před „Wukńće z…“ w nastajenjach { -smart-window-brand-name }.
+ai-window-delete-all-memories-message = Eksistowace dopomnjeća so zhašeja. Jeli nochceće nowe dopomnjeća wutworić, wotstrońće hóčku před „Z … wuknyć“ w nastajenjach { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Zhašeć
 ai-window-delete-all-memories-cancel = Přetorhnyć
 # Variables:

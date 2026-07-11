@@ -17,6 +17,9 @@ home-homepage-new-tabs =
 
 ## Firefox Home content
 
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Amadóir
 home-mode-choice-blank-srd =
     .label = Leathanach Bán
 home-prefs-highlights-options-bookmarks-srd =
@@ -286,13 +289,106 @@ newtab-sports-widget-third-place = An Tríú hÁit
 newtab-sports-widget-runner-up = An dara háit
 newtab-sports-widget-champions = Seaimpíní
 newtab-sports-widget-world-cup-champions = Seaimpíní Chorn an Domhain 2026
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Seaimpíní 2026
 newtab-sports-widget-match-full-time = Thart
+newtab-sports-widget-match-halftime = Leath-am
+newtab-sports-widget-match-extra-time = Am breise
 newtab-sports-widget-match-penalties = C. éirice
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .title = Roimhe seo
+    .aria-label = Roimhe seo
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } i gcoinne { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) i gcoinne { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Beo: { $homeTeam }, { $homeScore } i gcoinne { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } v { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } v { $awayTeam }, moill curtha leis
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, curtha ar athló
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } v { $awayTeam }, curtha  ar fionraí
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } i gcoinne { $awayTeam }, curtha ar ceal
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = An Bhoisnia agus an Heirseagaivéin
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-semifinals-title = Faigh páipéar balla nua do na cluichí leathcheannais
+newtab-sports-widget-message-wallpapers-semifinals-body = Cruthaigh atmaisféar do na cluichí is mó ag Corn an Domhain
+newtab-sports-widget-message-day-in-play-body = Lean Corn an Domhain, fan dírithe, rianaigh an t-am ar fud an domhain, agus tuilleadh.
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Cabhraigh linn na giuirléidí a fheabhsú
+newtab-sports-widget-message-survey-body = Sin sin, tá Corn an Domhain thart. Seol aiseolas faoina cheap tú den taithí.
+newtab-sports-widget-message-survey-widget-title = Céard a cheap tú de ghiuirléid Corn an Domhain?
+newtab-sports-widget-message-survey-widget-body = Roinn do thuairimí le cabhrú linn giuirléidí amach anseo a fheabhsú. Ansin, bain triail as an gceann nua i do liosta.
+newtab-sports-widget-message-survey-cta =
+    .label = Tóg suirbhé
 
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
 newtab-clock-widget-menu-hide = Cuir an clog i bhfolach
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, leasainm: { $nickname }
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
