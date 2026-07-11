@@ -266,3 +266,13 @@ etp-strict-exceptions-infobar-not-now = سکو ن
 
 set-default-menu-message-primary-button = سامووݩ و عونوان پؽش فرز
 set-default-menu-message-primary-button-variant = سامووݩ و عونوان گشت گر ٱسلی
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-secondary-button = رڌ کردن
+    .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-primary-button = فئمیم
+    .accesskey = G

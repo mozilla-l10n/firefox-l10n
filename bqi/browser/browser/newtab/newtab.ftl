@@ -43,6 +43,9 @@ home-custom-homepage-address =
     .placeholder = زیذن نشۊوی
 home-custom-homepage-address-button =
     .label = ٱووردن نشۊوی
+home-custom-homepage-delete-address-button =
+    .title = پاک کردن نشۊوی
+    .aria-label = پاک کردن نشۊوی
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -77,6 +80,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = سیخومی
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = سهام
 home-prefs-manage-topics-link2 =
     .label = دؽوۉداری سرتالا
 home-prefs-choose-wallpaper-link2 =
@@ -131,11 +137,22 @@ home-prefs-support-firefox-header-srd =
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = قلوه دووسته بۊین
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = قلوه دووسته بۊین
+newtab-privacy-message-info-11-cta = قلوه دووسته بۊین
+
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1-cta = قلوه دووسته بۊین
+newtab-privacy-message-promo-monitor-2-cta = قلوه دووسته بۊین
 newtab-privacy-message-promo-signin-1-cta = و من ٱووڌن
 newtab-privacy-message-promo-vpn-1-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-vpn-2-cta = گۊشیڌن VPN
