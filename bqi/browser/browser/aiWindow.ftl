@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+appmenuitem-new-ai-window =
+    .label = نۊ { -smart-window-brand-name }
+    .value = نۊ { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = نیمدری کلاسیک نۊ
+menu-file-new-ai-window =
+    .label = نۊ { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = نیمدری کلاسیک نۊ
+menu-history-chats =
+    .label = چتا
+menu-history-chats-recent =
+    .label = چتا هیم دمۊوی
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = بلگه نۊ
+
 ## Smart Window Toggle Button
 
 ai-window-toggleview-switch-ai =
@@ -164,10 +182,27 @@ firefoxview-search-text-box-chats =
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-chat-date-today = ٱمرۊز - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = دۊش - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } چت
+       *[other] { $count } چت
+    }
 
 ## Natural Language Interactions
 
+smart-window-confirm-select-all =
+    .label = پسند پوی
+    .aria-label = پسند پوی
 # Variables
 #   $count (number) - Number of tabs to close
 smart-window-confirm-close-tabs =
@@ -184,6 +219,8 @@ smartwindow-close-tab-callout-title = بلگه بسته وابیڌه
 
 ## Feedback modal
 
+aiwindow-feedback-submit = فشناڌن
+aiwindow-feedback-cancel = لقو
 aiwindow-feedback-reason-harmful-or-offensive = موزر یا توهین کردنی
 aiwindow-feedback-reason-other = دیر
 aiwindow-feedback-preview-report = نیشتن جۊزعیات چت

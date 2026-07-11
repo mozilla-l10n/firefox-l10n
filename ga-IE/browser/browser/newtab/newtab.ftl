@@ -422,6 +422,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = Sasana
 newtab-sports-widget-team-name-label-sco =
     .label = Albain
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Le socrú
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
