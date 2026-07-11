@@ -472,8 +472,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Држите { -brand-short-name } на дохват руке - поставите га као подразумевани и држите га на свом доку.
        *[other] Држите { -brand-short-name } на дохват руке - поставите га као подразумевани и закачите га на своју траку задатака.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Нека { -brand-short-name } буде близу
+       *[other] Отвори све везе са { -brand-short-name }-ом
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Учините га подразумеваним и држите га у вашем доку.
+       *[other] Добијте брже прегледање и аутоматску заштиту приватности.
+    }
 set-default-menu-message-primary-button = Постави као подразумевано
 set-default-menu-message-primary-button-variant = Постави као главни прегледач
+set-default-menu-message-primary-button-short-variant = Учини { -brand-short-name } подразумеваним
 
 ## Firefox Relay 50 Masks Announcement
 
