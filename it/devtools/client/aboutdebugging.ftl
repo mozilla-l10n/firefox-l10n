@@ -356,3 +356,4 @@ about-debugging-message-details-label-warning = Dettagli avviso
 about-debugging-message-details-label = Dettagli
 about-debugging-sidebar =
     .heading = Debug in corso
+

@@ -91,3 +91,4 @@ ai-window-delete-all-memories-cancel = Annulla
 ai-window-memory-delete-button =
     .title = Elimina memoria
     .aria-label = Elimina { $label }
+
