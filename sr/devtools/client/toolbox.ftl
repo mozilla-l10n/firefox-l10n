@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Disable always on top
     .title = This will restart the Developer Tools
 toolbox-always-on-top-disabled2 = Enable always on top
     .title = This will restart the Developer Tools
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Овај документ се такође може учитати са „{ $url }“ користећи „Локални режим“ у DevTools-у, који се може омогућити у површи са подешавањима.
+toolbox-local-mode-notice-add-to-settings-button = Додај у подешавања
+toolbox-local-mode-notice-try-it-button = Пробај
+toolbox-local-mode-notice-navigate-to-existing-mapping = Иди до постојећег мапирања
+toolbox-local-mode-notice-always-hide = Не показуј поново
