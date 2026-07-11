@@ -601,3 +601,28 @@ onboarding-refresh-sync-title = Źiśo wšuźi. Synchronizěrujśo wšykno.
 onboarding-refresh-gratitude-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót za wše wužytneje organizacije spěchujo. Z wašeju pomocu źěłamy na tom, internet wěsćejšy a pśistupnjejšy za kuždego cyniś.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami stoj
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Pśešaltujśo kuždy cas mjazy inteligentnym a klasiskim woknom.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Wužywańske wuměnjenja { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Aby { -smart-window-brand-name } wužywał, zwólśo do <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> a zaktualizěrowaneje <a data-l10n-name="privacy_notice">powěźeńki priwatnosći</a>.
+smartwindow-existing-user-fx-tou-accept = Akceptěrowaś
+smartwindow-existing-user-fx-tou-go-back = Slědk
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Dalej
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Ma asistent zacynjony wóstaś?
+smartwindow-sidebar-auto-open-callout-body = Móžośo jen wócyniś, gažkuli jen trjebaśo.
+smartwindow-sidebar-auto-open-callout-accept = Jo, zacynjony wóstajiś
+smartwindow-sidebar-auto-open-callout-dismiss = Ně, źěkujom se
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistent zacynjony wóstawa.
+smartwindow-sidebar-auto-open-callout-rejected-title = Som zrozměł

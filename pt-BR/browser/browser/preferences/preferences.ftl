@@ -948,7 +948,7 @@ home-default-browser-title =
 is-default-browser-2 =
     .message = { -brand-short-name } é o seu navegador padrão. Ótima escolha.
 is-not-default-browser-2 =
-    .message = Psiu, o { -brand-short-name } não é seu padrão.
+    .message = Ei, o { -brand-short-name } não é o navegador padrão.
 set-as-my-default-browser-2 =
     .label = Definir como padrão
     .accesskey = D
@@ -2314,7 +2314,7 @@ collection-backlogged-crash-reports-description = Isso ajuda a { -vendor-short-n
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = As mesmas configurações, novo visual!
-    .message = Reorganizamos esta página para ficar mais fácil analisar e descobrir. Suas configurações pessoais não foram alteradas, tudo foi mantido. Dica: use a pesquisa para ir direto ao que você precisa.
+    .message = Reorganizamos esta página para ficar mais fácil analisar e descobrir. Suas configurações pessoais não foram alteradas, tudo foi mantido. Dica: use a pesquisa acima para ir direto ao que você precisa.
 settings-redesign-promo-dismiss-button =
     .label = Entendi
 addon-recommendations =

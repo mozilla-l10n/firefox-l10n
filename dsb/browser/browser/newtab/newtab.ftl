@@ -231,6 +231,9 @@ newtab-privacy-message-info-13-cta = Šćity pokazaś
 ## has a body plus a matched "-cta" button label.
 
 newtab-privacy-message-promo-monitor-1-cta = Dalšne informacije
+newtab-privacy-message-promo-monitor-2-cta = Dalšne informacije
+newtab-privacy-message-promo-signin-1-cta = Pśizjawiś
+newtab-privacy-message-promo-vpn-1-cta = VPN wócyniś
 
 ## Privacy widget — celebration messages
 ##
@@ -240,6 +243,17 @@ newtab-privacy-message-promo-monitor-1-cta = Dalšne informacije
 newtab-privacy-message-milestone-year-cta = Šćity pokazaś
 newtab-privacy-message-milestone-total-cta = Šćity pokazaś
 newtab-privacy-message-daily-cap-cta = Šćity pokazaś
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Sćo { $count } źeń za sobu šćitany
+        [two] Sćo { $count } dnja za sobu šćitany
+        [few] Sćo { $count } dny za sobu šćitany
+       *[other] Sćo { $count } dnjow za sobu šćitany
+    }
+newtab-privacy-message-streak-cta = Šćity pokazaś
+newtab-privacy-message-first-protection-cta = Šćity pokazaś
 
 ## Strings for the Stocks widget
 
@@ -247,12 +261,34 @@ newtab-privacy-message-daily-cap-cta = Šćity pokazaś
 newtab-stocks-menu-search = Tikerowe symbole pśepytaś
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Dalšne informacije
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Akcije
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Wobraz dnja – Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Wobraz dnja
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Licencu { $license } pokazaś
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Nastajenja wobraza dnja
+    .aria-label = Nastajenja wobraza dnja
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -1428,6 +1464,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 newtab-sports-widget-message-survey-title = Pomagajśo nam, asistenty pólěpšyś
 newtab-sports-widget-message-survey-widget-title = Kak jo był asistent swětowego mejstaŕstwa?
+newtab-sports-widget-message-survey-cta =
+    .label = Napšašowanje wupołniś
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

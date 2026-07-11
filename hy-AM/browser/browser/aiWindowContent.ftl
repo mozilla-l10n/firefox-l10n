@@ -17,6 +17,16 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Ինչ-որ բան սխալ է գնացել։ Խնդրում ենք կրկին փորձել։
+smartwindow-assistant-error-budget-header = Դուք հասել եք այսօրվա զրույցի սահմանաչափին։
+smartwindow-assistant-error-account-header = { -smart-window-brand-name }-ն օգտագործելու համար անհրաժեշտ է մուտք գործել։
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name }-ը այս պահին լիքն է։ Խնդրում ենք փորձել ավելի ուշ։
+smartwindow-assistant-error-budget-body = Դուք դեռ կարող եք զննել այս պատուհանը։ Զրույցը կրկին հասանելի կլինի, երբ ձեր օրական սահմանաչափը զրոյացվի։
+smartwindow-assistant-error-many-requests-header = Խնդրում ենք մի պահ սպասել և կրկին փորձել: Կարճ ժամանակում չափազանց շատ հաղորդագրություններ են ուղարկվել:
+smartwindow-assistant-error-max-length-header = Ժամանակն է նոր զրույց սկսելու։ Այս մեկը հասել է իր երկարության սահմանաչափին։
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name }-ը չկարողացավ կապ հաստատել սերվերի հետ։ Փորձեք այլ ցանց կամ անջատեք ձեր VPN-ը։
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Սերվերի սխալ (HTTP { $status }): Խնդրում ենք կրկին փորձել:
 smartwindow-retry-btn = Կրկին փորձել
 smartwindow-clear-btn = Նոր զրույց
 smartwindow-signin-btn = Մուտք գործել
@@ -36,6 +46,7 @@ aiwindow-retry =
 aiwindow-copy-table =
     .aria-label = Պատճենել աղյուսակը
     .tooltiptext = Պատճենել աղյուսակը
+aiwindow-table-scroll-indicator = Գլորեք՝ ավելին տեսնելու համար
 aiwindow-applied-memories-list =
     .aria-label = Հիշողություններ
 # Variables:
@@ -61,3 +72,7 @@ smart-window-restore-success-summary =
 smart-window-cancelled-label = Հարցումը չեղարկվել է։
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Խումբ
+
+## Action log
+
+action-log-searching-world-cup-matches = Աշխարհի գավաթի խաղերի որոնում

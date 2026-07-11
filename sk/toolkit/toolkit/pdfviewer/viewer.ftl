@@ -761,6 +761,27 @@ pdfjs-views-manager-waiting-for-file = Nahráva sa súbor…
 pdfjs-toggle-views-manager-button1 =
     .title = Spravovať strany
 
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Stav: Podpis overený
+pdfjs-digital-signature-properties-status-invalid = Stav: Podpis neplatný
+pdfjs-digital-signature-properties-status-unknown = Stav: Nedá sa overiť (nepodporovaný)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = Certifikát: Dôveryhodný ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Certifikát: Nie je k dispozícii
+pdfjs-digital-signature-properties-certificate-untrusted = Certifikát: Nedôveryhodný
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certifikát: Neznámy vydavateľ ({ $issuer })
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

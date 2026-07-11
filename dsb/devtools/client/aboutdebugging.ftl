@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Zmólkowe drobnostki
 about-debugging-message-details-label-warning = Warnowańske drobnostki
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Drobnostki
+about-debugging-sidebar =
+    .heading = Pytanje za zmólkami

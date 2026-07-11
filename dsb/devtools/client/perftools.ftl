@@ -174,6 +174,7 @@ perftools-presets-ml-label = Mašinelne wuknjenje
 perftools-presets-ml-description2 = Pśednastajenje za wuslěźenje zmólkow mašinelnego wuknjenja w { -brand-shorter-name }.
 perftools-presets-networking-label = Seś
 perftools-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Seśowe zwězki z protokolami
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energija
 perftools-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.

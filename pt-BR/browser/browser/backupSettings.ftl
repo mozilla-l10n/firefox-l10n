@@ -82,7 +82,7 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Escolher…
        *[other] Escolher…
     }
-turn-on-scheduled-backups-encryption-label = Salve cópia de segurança de seus dados sensíveis
+turn-on-scheduled-backups-encryption-label = Salvar cópia de segurança de seus dados sensíveis
 turn-on-scheduled-backups-encryption-create-password-label = Senha
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetir senha
@@ -167,7 +167,7 @@ backup-service-error-went-wrong2 =
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
-enable-backup-encryption-header = Salve cópia de segurança de seus dados sensíveis
+enable-backup-encryption-header = Salvar cópia de segurança de seus dados sensíveis
 enable-backup-encryption-support-link = Saiba mais
 enable-backup-encryption-create-password-label = Senha
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
