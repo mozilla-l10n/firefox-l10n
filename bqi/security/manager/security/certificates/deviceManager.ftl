@@ -5,6 +5,10 @@
 
 ## Strings used for device manager
 
+devmgr-header-details =
+    .label = جۊزعیات
+devmgr-header-value =
+    .label = مقدار
 devmgr-button-login =
     .label = و من ٱووڌن
     .accesskey = n

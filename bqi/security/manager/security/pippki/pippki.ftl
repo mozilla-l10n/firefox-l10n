@@ -12,6 +12,16 @@ change-password-new = رزم نۊ:
 change-password-reenter = رزم نۊ (دووارته بزنینس):
 pippki-failed-pw-change = آلشت رزم مومکن نؽ.
 
+## Reset Primary Password dialog
+
+reset-password-button-label =
+    .label = وورنشۊوی
+
+## Downloading cert dialog
+
+download-cert-view-cert =
+    .label = نشووݩ داڌن
+
 ## Protected authentication dialog
 
 protected-auth-window =

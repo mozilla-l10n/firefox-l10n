@@ -96,3 +96,11 @@ delete-email-cert-title =
 no-cert-stored-for-override = (زفت نوابیڌه)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (مووجۊد نؽ)
+
+## Add Security Exception dialog
+
+add-exception-checking-short = دووسمندیا ن هونی واجۊری اکونه
+
+## Certificate export "Save as" and error dialogs
+
+write-file-failure = ختای فایل
