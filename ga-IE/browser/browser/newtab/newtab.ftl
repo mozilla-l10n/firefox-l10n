@@ -126,4 +126,27 @@ newtab-pocket-read-more = Topaicí i mbéal an phobail:
 
 ## Customization Menu
 
+newtab-custom-widget-sports-toggle =
+    .label = An Corn Domhanda
+newtab-custom-widget-clock-toggle =
+    .label = Clog
+newtab-custom-widget-sports-toggle2 =
+    .label = Spóirt
+newtab-custom-widget-picture-toggle =
+    .label = Pictiúr an lae
 newtab-custom-settings = Bainistigh tuilleadh socruithe
+
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
+## Topic Labels
+
+newtab-topic-label-sports = Spóirt
+newtab-topic-label-tech = Teic
+newtab-topic-label-travel = Taisteal
+newtab-topic-label-home = Baile & Gairdín
+
+## Topic Selection Modal
+
+newtab-topic-selection-button-maybe-later = Ar ball, b'fhéidir

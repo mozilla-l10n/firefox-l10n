@@ -273,6 +273,7 @@ smart-window-default-promo-additional-button = Ani ko’ág̃a
 aiwindow-feedback-modal-title = Emoherakuã ne remiandu
 aiwindow-feedback-what-worked-well = ¿Mba’e pe oikoporãva? Marandu peteĩ mba’ete’ỹvare, ikatúrõ.
 aiwindow-feedback-choose-any = Embosa’y umi oikóvante
+aiwindow-feedback-add-details = Eipotárõ, embojuajukuaa mba’emimi. Aníke emoinge ne maranduete.
 aiwindow-feedback-submit = Mondo
 aiwindow-feedback-cancel = Heja
 aiwindow-feedback-reason-incorrect-or-misleading = Oĩvai térã nembotavykuaáva
