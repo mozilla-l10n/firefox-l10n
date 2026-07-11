@@ -88,12 +88,17 @@ addon-category-plugin-title =
 addon-category-locale = زووا
 addon-category-locale-title =
     .title = زووا
+addon-category-sitepermission = هشتنا وبگه
 addon-category-sitepermission-title =
     .title = هشتنا وبگه
 
 ## These are global warnings
 
 extensions-warning-imported-addons-button = پۊرنیڌن وردنی یل
+
+## Status messages displayed when updating add-ons
+
+addon-updates-none-found = هیچ ورۊ رسۊوی نجۊرست
 
 ## Add-on install/debug strings for page options menu
 
@@ -120,6 +125,8 @@ header-back-button =
 
 discopane-notice-learn-more = قلوه دووسته بۊین
 colorway-removal-notice-learn-more = قلوه دووسته بۊین
+privacy-policy = سیاست زفت مهرمووه ای
+install-theme-button = پۊرنیڌن زمینه
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = دؽوۉداری
@@ -157,6 +164,7 @@ dictionary-disabled-heading = قیر فعال وابیڌه
 locale-enabled-heading = فعال وابیڌه
 locale-disabled-heading = قیر فعال وابیڌه
 sitepermission-enabled-heading = فعال وابیڌه
+sitepermission-disabled-heading = قیر فعال وابیڌه
 addon-detail-author-label = هؽل کوݩ
 addon-detail-version-label = نوسخه
 addon-detail-last-updated-label = ورۊ رسۊوی دیندایی
@@ -207,6 +215,7 @@ addon-detail-group-label-quarantined-domains =
 
 release-notes-loading = هونی بار اونه…
 addon-permissions-heading = موجوزا
+addon-permissions-empty2 = ای وردنی لنگ موجوز نؽ.
 addon-permissions-learnmore = زبار موجوزا قلوه دووسته بۊین
 recommended-extensions-heading = وردنی یل پؽشنهاڌ بیڌه
 recommended-themes-heading = زمینه یل پؽشنهاڌ وابیڌه
@@ -216,16 +225,39 @@ recommended-themes-heading = زمینه یل پؽشنهاڌ وابیڌه
 extension-heading = وردنی یل خوتووݩ ن دؽوۉداری کۊنین
 locale-heading = زووا خوتووݩ ن دؽوۉداری کۊنین
 shortcuts-heading = دؽوۉداری ره نهنگا وردنی
+addons-heading-search-input =
+    .placeholder = پیتینیڌن addons.mozilla.org
 
 ## Detail notifications
 ## Variables:
 ##   $name (string) - Name of the add-on.
 
+details-notification-incompatible-link = دووسمندیا قلوه
+details-notification-unsigned-and-disabled-link = دووسمندیا قلوه
+details-notification-hard-blocked-extension =
+    .message = ای وردنی سی دل زؽر پا ناهاڌن خت مشیا Mozilla مسدۊد ۉ قیر فعال وابیڌه.
+details-notification-unsigned-link = دووسمندیا قلوه
+details-notification-soft-blocked-extension-disabled2 =
+    .message = ای وردنی مئدۊد وو قیر فعال وابیڌه. ترین هونه فعال کۊنین ٱما گاشڌ ای کار خترناک بۊ.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = ای وردنی مئدۊد وابیڌه. و کار گرؽڌنس گاشڌ خترناک بۊ.
+details-notification-soft-blocked-extension-disabled =
+    .message = ای وردنی سی دل زؽر پا ناهاڌن خت مشیا Mozilla مسدۊد وو قیر فعال وابیڌه. ترین فعالس کۊنین ٱما یو گاشڌ خترناک بۊ.
+details-notification-soft-blocked-extension-enabled =
+    .message = ای وردنی وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
+details-notification-blocked-link = دووسمندیا قلوه
 details-notification-softblocked-link = دووسمندیا قلوه
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = دووسمندیا موجوز
+plugins-gmp-privacy-info = دووسمندیا هریم سیخومی
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = کتن کردن داده یل خاستنی:
+addon-permissions-optional-data-collection = کتن کردن داده یل اختیاری:
 addon-data-collection-learnmore = زبار کتن کردن داده یل قلوه دووسته بۊین
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
