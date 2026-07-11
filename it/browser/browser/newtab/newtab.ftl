@@ -314,6 +314,27 @@ newtab-privacy-message-first-protection-cta = Visualizza protezioni
 newtab-stocks-menu-search = Cerca simboli di azioni
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Ulteriori informazioni
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Opzioni del widget Azioni
+    .aria-label = Opzioni del widget Azioni
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Azioni
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, in rialzo { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, in ribasso { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, nessuna modifica, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -1606,4 +1627,3 @@ newtab-clock-widget-menu-button =
     .aria-label = Apri il menu per l’orologio
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Nome: { $nickname }
-

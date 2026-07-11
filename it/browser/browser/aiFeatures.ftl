@@ -26,6 +26,9 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Apri automaticamente l’assistente
     .description = Mostra la barra laterale dell’assistente in ogni nuova scheda. Puoi chiuderla in qualsiasi momento.
+ai-window-smart-cursor-in-smart-window =
+    .label = Mostra scorciatoie quando si seleziona del testo
+    .description = Accedi rapidamente a riepiloghi, spiegazioni e altro ancora.
 smart-window-model-section =
     .label = Modello dell’assistente
     .description = Scegli un modello in base a ciò che è importante per te.
@@ -91,4 +94,3 @@ ai-window-delete-all-memories-cancel = Annulla
 ai-window-memory-delete-button =
     .title = Elimina memoria
     .aria-label = Elimina { $label }
-
