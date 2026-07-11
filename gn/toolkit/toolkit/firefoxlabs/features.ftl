@@ -77,3 +77,6 @@ experimental-features-semantic-history-search =
 # Tab Notes
 experimental-features-tab-notes =
     .label = Jehai tendaykegua
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Tendayke poravoha mombykypyre

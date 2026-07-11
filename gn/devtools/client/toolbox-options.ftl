@@ -83,6 +83,15 @@ options-netmonitor-label = Monitor ñandutigua
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Ijapyra’ỹva
 
+## Experimental section
+
+# The heading
+options-experimental-label = Japokuaa reheguaite
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Ehechauka kuatia mbohekoha mopotĩhápe
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Emboysýi ha ehecha kuatia mbohekoha mopotĩhápe
+
 ## Style Editor section
 
 # The heading
