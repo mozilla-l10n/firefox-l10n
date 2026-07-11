@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Zmylkowe podrobnosće
 about-debugging-message-details-label-warning = Warnowanske podrobnosće
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Podrobnosće
+about-debugging-sidebar =
+    .heading = Pytanje za zmylkami

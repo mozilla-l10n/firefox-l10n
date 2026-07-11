@@ -330,7 +330,9 @@ newtab-stocks-widget-title = Actiones
 ##   $price (String) - the last price, e.g. "$559.44".
 
 # Stock increased (went up) during the day
-newtab-stocks-ticker-status-up = { $name }, quotisation { $price }, in augmentation { $change } hodie
+newtab-stocks-ticker-status-up = { $name }, quotisation { $price }, in augmentation de { $change } hodie
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, quotisation { $price }, in diminution de { $change } hodie
 
 ## Strings for the Picture of the Day widget
 
