@@ -276,6 +276,7 @@ newtab-privacy-message-milestone-month =
         [one] { $count } Tracker in diesem Monat blockiert. Ein kleiner Schritt in Richtung Privatsphäre. Ein großer Schritt zur Sicherheit.
        *[other] { $count } Tracker in diesem Monat blockiert. Ein kleiner Schritt in Richtung Privatsphäre. Ein großer Schritt zur Sicherheit.
     }
+newtab-privacy-message-milestone-month-cta = Schutzmaßnahmen anzeigen
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
 newtab-privacy-message-streak =
