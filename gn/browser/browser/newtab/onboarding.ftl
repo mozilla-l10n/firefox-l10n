@@ -620,6 +620,7 @@ smartwindow-onboarding-image-alt =
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = ¿Eguerekose pytyvõha ñembotyhápe?
+smartwindow-sidebar-auto-open-callout-body = Embojurujakuaa gueteri eikotevẽte vovénte.
 smartwindow-sidebar-auto-open-callout-accept = Héẽ, embotymeme
 smartwindow-sidebar-auto-open-callout-dismiss = Nahániri, aguyje
 smartwindow-sidebar-auto-open-callout-rejected-title = Aikũmby
