@@ -4,3 +4,6 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Заблокувати { -smart-window-brand-name(case: "acc", form: "lower-singular") }?
+smart-window-block-description-both = Це видалить ваші чати та пам'ять { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
+smart-window-block-description-chats = Це видалить ваші чати { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
+smart-window-block-description-memories = Це видалить вашу пам'ять { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
