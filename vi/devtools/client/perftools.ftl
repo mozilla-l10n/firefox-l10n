@@ -151,6 +151,8 @@ perftools-presets-ml-label = Học máy (Machine Learning)
 perftools-presets-ml-description2 = Cài đặt trước để điều tra lỗi học máy (machine learning) trong { -brand-shorter-name }.
 perftools-presets-networking-label = Kết nối mạng
 perftools-presets-networking-description = Giá trị đặt trước để điều tra lỗi mạng trong { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Kết nối mạng với nhật ký
+perftools-presets-networking-with-logs-description = Thiết lập sẵn để điều tra các lỗi mạng trong { -brand-shorter-name }, bao gồm cả nhật ký mạng. Các nhật ký này có thể chứa thông tin nhạy cảm như URL bạn truy cập.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Điện năng
 perftools-presets-power-description = Giá trị đặt trước để điều tra lỗi sử dụng điện năng trong { -brand-shorter-name }, với chi phí thấp.

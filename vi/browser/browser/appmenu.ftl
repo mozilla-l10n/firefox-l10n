@@ -216,6 +216,8 @@ profiler-popup-presets-networking-description = Giá trị đặt trước để
 profiler-popup-presets-networking-label =
     .label = Kết nối mạng
 profiler-popup-presets-networking-with-logs-description = Thiết lập sẵn để điều tra các lỗi mạng trong { -brand-shorter-name }, bao gồm cả nhật ký mạng. Các nhật ký này có thể chứa thông tin nhạy cảm như URL bạn truy cập.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Kết nối mạng với nhật ký
 profiler-popup-presets-power-description = Giá trị đặt trước để điều tra lỗi sử dụng điện trong { -brand-shorter-name }, với chi phí thấp.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
