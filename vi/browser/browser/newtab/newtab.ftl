@@ -211,6 +211,37 @@ newtab-privacy-message-info-9 = Chọn { -brand-short-name } làm trình duyệt
 newtab-privacy-message-info-9-cta = Đặt làm mặc định
 newtab-privacy-message-info-10 = Lưu mật khẩu trong { -brand-short-name } để sử dụng thông tin đăng nhập mạnh mẽ và duy nhất ở mọi nơi.
 newtab-privacy-message-info-10-cta = Đi đến mật khẩu
+newtab-privacy-message-info-11 = Tìm hiểu cách { -brand-short-name } giúp bảo vệ quyền riêng tư khi duyệt web của bạn.
+newtab-privacy-message-info-11-cta = Tìm hiểu thêm
+newtab-privacy-message-info-12 = Chặn các trình theo dõi có thể giúp tiết kiệm băng thông trên các gói dữ liệu hạn chế.
+newtab-privacy-message-info-12-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-13 = { -brand-short-name } chặn các trình theo dõi, giải phóng băng thông để phát trực tuyến mượt mà hơn.
+newtab-privacy-message-info-13-cta = Xem các biện pháp bảo vệ
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Tìm hiểu xem thông tin cá nhân của bạn có bị lộ trong vụ rò rỉ dữ liệu nào không.
+newtab-privacy-message-promo-monitor-1-cta = Tìm hiểu thêm
+newtab-privacy-message-promo-monitor-2 = Bảo vệ thông tin của bạn với dịch vụ giám sát rò rỉ dữ liệu miễn phí, cho tối đa 20 email.
+newtab-privacy-message-promo-monitor-2-cta = Tìm hiểu thêm
+newtab-privacy-message-promo-signin-1 = Giữ cho dấu trang, mật khẩu và thẻ được mã hóa trên nhiều thiết bị với tài khoản { -vendor-short-name } của bạn.
+newtab-privacy-message-promo-signin-1-cta = Đăng nhập
+newtab-privacy-message-promo-vpn-1 = Mua sắm trực tuyến trên mạng Wi-Fi công cộng? Bật VPN được tích hợp sẵn để được bảo vệ tốt hơn.
+newtab-privacy-message-promo-vpn-1-cta = Mở VPN
+newtab-privacy-message-promo-vpn-2 = Sử dụng Wi-Fi tại sân bay? Hãy bảo vệ hoạt động duyệt web của mình bằng cách bật VPN được tích hợp sẵn.
+newtab-privacy-message-promo-vpn-2-cta = Mở VPN
+newtab-privacy-message-promo-vpn-3 = Bật VPN được tích hợp sẵn để giúp bảo mật vị trí của bạn hơn.
+newtab-privacy-message-promo-vpn-3-cta = Mở VPN
+newtab-privacy-message-promo-private-window-1 = Thử sử dụng cửa sổ riêng tư để duyệt web riêng tư hơn khi dùng chung máy tính.
+newtab-privacy-message-promo-private-window-1-cta = Mở cửa sổ riêng tư
+newtab-privacy-message-promo-relay-1 = Giữ email thật của bạn cho những người bạn tin tưởng; sử dụng email ẩn danh cho việc đăng ký.
+newtab-privacy-message-promo-relay-1-cta = Nhận email ẩn danh
+newtab-privacy-message-promo-relay-2 = Bảo vệ hộp thư đến của bạn khỏi thư rác bằng tính năng email ẩn danh miễn phí.
+newtab-privacy-message-promo-relay-2-cta = Nhận email ẩn danh
+newtab-privacy-message-promo-relay-3 = Nhận ngay 50 email ẩn danh miễn phí giúp bảo mật email thật của bạn.
 
 ## Strings for the Stocks widget
 
@@ -596,6 +627,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Thể thao
 newtab-custom-widget-privacy-toggle =
     .label = Riêng tư
+newtab-custom-widget-stocks-toggle =
+    .label = Cổ phiếu
 newtab-custom-widget-picture-toggle =
     .label = Hình ảnh của ngày
 newtab-custom-widget-section-title = Widget
