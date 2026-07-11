@@ -485,6 +485,16 @@ update-in-progress-ok-button = &دیر وندن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &رئڌن وا پؽش
 
+## About Firefox
+
+about-firefox-header =
+    .heading = زبار { -brand-short-name }
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = وارسۊویا
+
 ## Firefox support
 
 support-get-help =
@@ -513,6 +523,13 @@ browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
     .label = گشتن
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = دسرسی پزیری
+preferences-default-zoom-select =
+    .aria-label = گپ نمایی پؽش فرز
 
 ## General Section - Proxy
 
@@ -632,6 +649,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = زمووݩ سنج
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = ورزش
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = ساعت
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = لادرار { -brand-product-name }
@@ -670,6 +693,8 @@ search-show-suggestions-option =
     .accesskey = S
 suggestions-addressbar-settings-generic2 = آلشت سامووا سی پوی پؽشنهاڌا من نوار نشۊوی
 search-one-click-header2 = پیتینیڌن ره نهنگا
+search-edit-engine-2 =
+    .title = آلشت موتور پیتینیڌن
 search-choose-engine-column =
     .label = موتور پیتینیڌن
 search-remove-engine =
@@ -682,11 +707,15 @@ search-edit-engine =
     .label = آلشت
     .accesskey = E
 search-find-more-link = جوستن موتورا پیتینیڌن قلوه
+search-filtering-for-add-engine = ٱووردن موتور
 remove-engine-remove = پاک کردن
 search-engine-group =
     .label = موتور پیتینیڌن پؽش فرز
 search-default-engine =
     .aria-label = موتور پیتینیڌن پؽش فرز
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = پیتینیڌن
 
 ## Containers Section
 
@@ -703,6 +732,8 @@ containers-settings-button2 =
 
 sync-group-label =
     .label = هوم گوم کردن
+account-group-label2 =
+    .label = هساو منتوری
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1039,6 +1070,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-custom-desc = پسند کۊنین کو رڌجۊر وو اسکریپت ن مسدۊد اکۊنین.
 content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منجا وبگهی
 content-blocking-all-cookies = پوی کۊکیا
 content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌه
