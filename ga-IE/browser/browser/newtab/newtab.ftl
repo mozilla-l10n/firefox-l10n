@@ -184,6 +184,7 @@ newtab-sports-widget-menu-key-dates = Na príomhdhátaí
 newtab-sports-widget-menu-learn-more = Tuilleadh eolais
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Coinnigh súil ar Chorn an Domhain
+newtab-sports-widget-get-updates = Is féidir an scéal is déanaí a fháil faoi chluichí,  agus tuilleadh.
 newtab-sports-widget-view-schedule =
     .label = An Sceideal
 newtab-sports-widget-follow-teams =
@@ -203,15 +204,76 @@ newtab-sports-widget-follow-teams-title =
 newtab-sports-widget-choose-wallpaper =
     .label = Roghnaigh páipéar balla
 newtab-sports-widget-skip = Léim Thar Seo
+newtab-sports-widget-cancel = Cealaigh
+newtab-sports-widget-back-button =
+    .aria-label = Siar
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (díbeartha)
+newtab-sports-widget-view-all =
+    .label = Taispeáin gach ceann
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Foirne atá á leanúint, agus iadsan amháin
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Féach air
+    .title = Féach air beo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .title = Féach air beo
+    .aria-label = Féach air beo
+newtab-sports-widget-watch-dialog-close =
+    .title = Dún
+    .aria-label = Dún
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Saor in aisce
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Leagan trialach saor in aisce
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Saor in aisce agus íoctha
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Íoctha
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Cluichí roghnaithe amháin
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Ar fáil i do réigiún
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Réigiúin eile
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .title = Oscail an sruth
+    .aria-label = Oscail an sruth
 newtab-sports-widget-group-stage = Babhta na nGrúpaí
+newtab-sports-widget-group-a = Grúpa A
+newtab-sports-widget-group-b = Grúpa B
+newtab-sports-widget-group-c = Grúpa C
+newtab-sports-widget-group-d = Grúpa D
+newtab-sports-widget-group-e = Grúpa E
+newtab-sports-widget-group-f = Grúpa F
+newtab-sports-widget-group-g = Grúpa G
+newtab-sports-widget-group-h = Grúpa H
+newtab-sports-widget-group-i = Grúpa I
+newtab-sports-widget-group-j = Grúpa J
+newtab-sports-widget-round-32 = An 32 deiridh
+newtab-sports-widget-round-16 = Ochtú ceannais
+newtab-sports-widget-quarter-finals = Ceathrú ceannais
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = BEO
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Na príomhdhátaí
 newtab-sports-widget-upcoming = Ar na bacáin
+# Used for a match currently ongoing
+newtab-sports-widget-now = Anois
 newtab-sports-widget-results = Torthaí
 newtab-sports-widget-semi-finals = Cluichí leathcheannais
 newtab-sports-widget-bronze-finals = Tríú hÁit
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Cluiche Ceannais
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Moill curtha leis
 newtab-sports-widget-postponed = Curtha ar athló
 newtab-sports-widget-suspended = Curtha ar fionraí
@@ -220,3 +282,18 @@ newtab-sports-widget-information = Eolas faoin gcluiche
 newtab-sports-widget-no-live-data = Níl sonraí faoi na cluichíbeo á nuashonrú faoi láthair
 newtab-sports-widget-view-results-link = Féach ar na torthaí
 newtab-sports-widget-third-place = An Tríú hÁit
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = An dara háit
+newtab-sports-widget-champions = Seaimpíní
+newtab-sports-widget-world-cup-champions = Seaimpíní Chorn an Domhain 2026
+newtab-sports-widget-match-full-time = Thart
+newtab-sports-widget-match-penalties = C. éirice
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Cuir an clog i bhfolach
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Níl aon chluiche ar siúl

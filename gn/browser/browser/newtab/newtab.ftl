@@ -1446,6 +1446,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Ore pytyvõ widgets porãverã
+newtab-sports-widget-message-survey-widget-title = ¿Mba’éicha oĩ Copa del Mundo widget?
 newtab-sports-widget-message-survey-cta =
     .label = Ejapo encuesta
 

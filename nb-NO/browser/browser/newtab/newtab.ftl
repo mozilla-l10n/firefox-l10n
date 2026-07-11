@@ -166,6 +166,21 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les mer
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Sporer blokkert i dag
+       *[other] Sporere blokkert i dag
+    }
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -178,6 +193,9 @@ newtab-stocks-menu-learn-more = Les mer
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Dagens bilde · Wikimedia Commons
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
