@@ -167,6 +167,54 @@ home-prefs-mission-message-learn-more-link-srd = Узнать как
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Подробнее
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Сегодня был заблокирован трекер
+        [few] Сегодня были заблокированы трекеры
+       *[many] Сегодня были заблокированы трекеры
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] На { $count } сайте
+        [few] На { $count } сайтах
+       *[many] На { $count } сайтах
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = Во время вашего веб-сёрфинга { -brand-short-name } блокирует трекеры. Вы увидите их здесь.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = Во время вашего веб-сёрфинга { -brand-short-name } автоматически блокирует трекеры.
+newtab-privacy-message-info-1-cta = Просмотр защиты
+newtab-privacy-message-info-2 = Блокировка трекеров помогает остановить слежку компаний за вами в Интернете.
+newtab-privacy-message-info-2-cta = Просмотр защиты
+newtab-privacy-message-info-3 = Многие сайты имеют трекеры, так что компании, сайты которых вы никогда не посещали, могут следить за вами в Интернете.
+newtab-privacy-message-info-3-cta = Просмотр защиты
+newtab-privacy-message-info-4 = Выбирать { -brand-short-name } — значит, выбирать защиту по умолчанию.
+newtab-privacy-message-info-4-cta = Просмотр защиты
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
