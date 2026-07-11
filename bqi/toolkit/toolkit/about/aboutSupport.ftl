@@ -60,6 +60,16 @@ app-basics-os-theme = تم سیستوم عامل
 app-basics-memory-use = و کار گرؽڌن ویرگه
 app-basics-performance = کارایی
 app-basics-profiles = پوروفایلا
+app-basics-remote-processes-count = پردازشتا ز ره دیر
+app-basics-enterprise-policies = خت مشی یل سازمۊوی
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
+environment-variables-name = نوم
+environment-variables-value = مقدار
+experimental-features-name = نوم
+experimental-features-value = مقدار
 graphics-gpu1-title = پردازنده گرافیکی #1
 graphics-gpu2-title = پردازنده گرافیکی #2
 graphics-decision-log-title = گوزارش تسمیما

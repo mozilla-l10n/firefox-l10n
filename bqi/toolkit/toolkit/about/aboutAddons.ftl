@@ -258,6 +258,7 @@ plugins-gmp-privacy-info = دووسمندیا هریم سیخومی
 
 addon-permissions-required-data-collection = کتن کردن داده یل خاستنی:
 addon-permissions-optional-data-collection = کتن کردن داده یل اختیاری:
+addon-permissions-data-collection-empty = برنومه نویس اگو ای وردنی لنگ کتن کردن داده یل نؽ.
 addon-data-collection-learnmore = زبار کتن کردن داده یل قلوه دووسته بۊین
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
