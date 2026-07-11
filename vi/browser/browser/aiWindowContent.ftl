@@ -71,8 +71,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Thử lại
-smartwindow-nl-retry-message = Nếu bạn vẫn muốn đóng các thẻ, hãy chọn <strong>Thử lại</strong> và quyết định lựa chọn của bạn trong thẻ vừa hiện ra.
-smartwindow-nl-retry-group-tabs-message = Nếu bạn vẫn muốn nhóm các thẻ lại với nhau, hãy chọn <strong>Thử lại</strong> và chọn cái cần nhóm trong thẻ vừa mở.
+smartwindow-nl-retry-message = Nếu bạn vẫn muốn đóng các thẻ, hãy chọn <strong>Thử lại</strong> và quyết định lựa chọn của bạn trong khối vừa hiện ra.
+smartwindow-nl-retry-group-tabs-message = Nếu bạn vẫn muốn nhóm các thẻ lại với nhau, hãy chọn <strong>Thử lại</strong> và chọn cái cần nhóm trong khối vừa mở.
 smartwindow-nl-thinking = Đang tìm các thẻ phù hợp…
 smartwindow-loading-assistant-response =
     .aria-label = Đang tải phản hồi của trợ lý

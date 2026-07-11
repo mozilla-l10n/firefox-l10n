@@ -2,12 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+text-action-undo =
+    .label = وورگندن
+    .accesskey = U
+text-action-undo-shortcut =
+    .key = Z
+text-action-redo =
+    .label = ز نۊ ٱنجوم داڌن
+    .accesskey = R
+text-action-redo-shortcut =
+    .key = Y
 text-action-cut =
     .label = بۊریڌن
     .accesskey = t
+text-action-cut-shortcut =
+    .key = X
 text-action-copy =
     .label = لف گیری
     .accesskey = C
+text-action-copy-shortcut =
+    .key = C
+text-action-paste =
+    .label = جا وندن
+    .accesskey = P
+text-action-paste-shortcut =
+    .key = V
+text-action-delete =
+    .label = پاک کردن
+    .accesskey = D
 text-action-spell-dictionaries =
     .label = زووا
     .accesskey = L

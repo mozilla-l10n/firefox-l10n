@@ -10,3 +10,14 @@ create-profile-first-page-header2 =
         [macos] موقدمه
        *[other] و { create-profile-window2.title } خش ٱوۊڌین
     }
+
+## Second wizard page
+
+profile-default-name =
+    .value = منتور پؽش فرز
+create-profile-choose-folder =
+    .label = پسند دوبلگه…
+    .accesskey = C
+create-profile-use-default =
+    .label = و کار گرؽڌن دوبلگه پؽش فرز
+    .accesskey = U

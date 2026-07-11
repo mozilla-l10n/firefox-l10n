@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 popup-notification-learn-more = قلوه دووسته بۊین
+popup-notification-more-actions-button =
+    .aria-label = کارا قلوه
 popup-notification-default-button2 =
     .label = خا
+    .accesskey = O
+popup-notification-default-button =
+    .label = خا!
     .accesskey = O
