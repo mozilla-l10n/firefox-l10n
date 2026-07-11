@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crash-reports-title = گوزارشا خراوی
+delete-button-label = روفتن پوی
+delete-confirm-title = الن هیمونه اخۊی؟
+id-heading = شناسه گوزارش
 submit-crash-button-label = فشناڌن
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
