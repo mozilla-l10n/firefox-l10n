@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Riêng tư
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Cổ phiếu
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Hình ảnh của ngày
@@ -159,8 +162,60 @@ home-prefs-mission-message-learn-more-link-srd = Tìm hiểu cách thức
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Tìm hiểu thêm
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today = Trình theo dõi đã chặn hôm nay
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites = Trên { $count } trang web
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } chặn các trình theo dõi khi bạn duyệt web. Bạn sẽ thấy chúng ở đây.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } chặn các trình theo dõi tự động khi bạn duyệt web.
+newtab-privacy-message-info-1-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-2 = Chặn trình theo dõi giúp ngăn các công ty theo dõi bạn trực tuyến.
+newtab-privacy-message-info-2-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-3 = Nhiều trang web có trình theo dõi, vì vậy các công ty mà bạn chưa từng truy cập có thể theo dõi bạn trực tuyến.
+newtab-privacy-message-info-3-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-4 = Chọn { -brand-short-name } có nghĩa bạn đã chọn chế độ bảo vệ mặc định.
+newtab-privacy-message-info-4-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-5 = Việc chặn trình theo dõi có nghĩa là sẽ có ít công ty hơn có thể theo dõi bạn trên các trang web khác nhau.
+newtab-privacy-message-info-5-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-6 = Hãy bảo vệ dữ liệu của bạn với { -brand-short-name }. Chúng tôi không bao giờ bán dữ liệu của bạn, nhưng các trình duyệt khác thì chưa chắc.
+newtab-privacy-message-info-6-cta = Tìm hiểu thêm
+newtab-privacy-message-info-7 = Xem những trình theo dõi nào đã bị { -brand-short-name } chặn.
+newtab-privacy-message-info-7-cta = Xem các biện pháp bảo vệ
+newtab-privacy-message-info-8 = Việc duyệt web với { -brand-short-name } sẽ hỗ trợ sứ mệnh của { -vendor-short-name } trong việc xây dựng một trang web tốt hơn.
+newtab-privacy-message-info-8-cta = Tìm hiểu thêm
+newtab-privacy-message-info-9 = Chọn { -brand-short-name } làm trình duyệt ưa thích của bạn để tận hưởng tính năng bảo mật tích hợp sẵn.
+newtab-privacy-message-info-9-cta = Đặt làm mặc định
+newtab-privacy-message-info-10 = Lưu mật khẩu trong { -brand-short-name } để sử dụng thông tin đăng nhập mạnh mẽ và duy nhất ở mọi nơi.
+newtab-privacy-message-info-10-cta = Đi đến mật khẩu
+
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Tìm kiếm mã chứng khoán
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Tìm hiểu thêm
 

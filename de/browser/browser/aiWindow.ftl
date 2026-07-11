@@ -68,6 +68,7 @@ aiwindow-input-cta-stop-button =
 smartbar-placeholder =
     .placeholder = Fragen, suchen oder eine URL eingeben
 smartbar-placeholder-hint-1 = Verwenden Sie @, um kürzlich geöffnete Tabs zu erwähnen…
+smartbar-placeholder-hint-2 = Alles fragen…
 smartbar-placeholder-hint-3 = Eine Internetadresse eingeben…
 smartbar-placeholder-hint-4 = Das Web durchsuchen…
 
@@ -101,6 +102,7 @@ aiwindow-firstrun-model-chip-subtitle = Modell { $model } von { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibel
 aiwindow-firstrun-model-allpurpose-body = Passend für die meisten Bedürfnisse
 aiwindow-firstrun-model-personal-label = Persönlich
+aiwindow-firstrun-model-personal-body = Am besten zugeschnittene Antworten
 aiwindow-firstrun-button = Los geht's
 aiwindow-firstrun-back-button = Zurück
 aiwindow-firstrun-next-button = Weiter
@@ -138,6 +140,7 @@ aiwindow-firstrun-memories-no-create = Verstanden. { -smart-window-brand-name } 
 
 aiwindow-firstrun-default-title = Machen Sie { -smart-window-brand-name } zu Ihrer ersten Wahl
 aiwindow-firstrun-default-subtitle = Surfen, suchen und fragen an einem Ort. Sie können weiterhin private und klassische Fenster öffnen, wenn Sie möchten.
+aiwindow-firstrun-default-checkbox-description = In den Einstellungen jederzeit wechseln
 
 ## Ask Toolbar Button
 

@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Verwenden Sie ein lo
 experimental-features-tab-notes =
     .label = Tab-Notizen
 experimental-features-tab-notes-description = Tab-Notizen sind eine experimentelle Funktion, mit der Sie Ihren Browser-Tabs Notizen hinzufügen können. Notieren Sie den Kontext, Erinnerungen oder die nächsten Schritte, damit Sie wiederkommen und sich merken können, warum Sie sie geöffnet haben. Wir würden uns über Ihr Feedback freuen, da wir diese Funktion weiter verbessern. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Optimiertes Tab-Menü
+experimental-features-tab-context-menu-description = Sehen Sie ein einfacheres Kontextmenü nach einem Rechtsklick auf einen Tab. Es wurde entwickelt, um häufige Aktionen einfacher zu finden. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
