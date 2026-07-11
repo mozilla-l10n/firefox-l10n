@@ -959,6 +959,44 @@ urlbar-result-explanation-bookmarked = Uložené do záložiek dňa { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Naposledy navštívená { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Naposledy navštívená pred { $daysAgo } dňom
+        [few] Naposledy navštívená pred { $daysAgo } dňami
+        [many] Naposledy navštívená pred { $daysAgo } dňami
+       *[other] Naposledy navštívená pred { $daysAgo } dňami
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Naposledy navštívená pred { $weeksAgo } týždňom
+        [few] Naposledy navštívená pred { $weeksAgo } týždňami
+        [many] Naposledy navštívená pred { $weeksAgo } týždňami
+       *[other] Naposledy navštívená pred { $weeksAgo } týždňami
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Naposledy navštívená pred { $monthsAgo } mesiacom
+        [few] Naposledy navštívená pred { $monthsAgo } mesiacmi
+        [many] Naposledy navštívená pred { $monthsAgo } mesiacmi
+       *[other] Naposledy navštívená pred { $monthsAgo } mesiacmi
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Naposledy navštívená { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

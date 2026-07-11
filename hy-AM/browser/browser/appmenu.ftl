@@ -15,8 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Չստացվեց թարմացնել․ անհամատեղելի համակարգ
 appmenuitem-banner-update-restart =
     .label = Հասանելի է թարմացում․ վերամեկնարկել հիմա
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Ստացեք նոր { -brand-short-name }: Պահպանեք բոլոր գրառումները:
 appmenu-nova-update-link = Վերամեկնարկեք՝ թարմացնելու համար
 appmenu-nova-fxa-sign-in = Մուտք գործել
+appmenu-nova-switch-device-promo =
+    .message = Շուտով նոր սարք եք ձեռք բերում։ Վերցրեք ձեզ հետ { -brand-short-name }-ը։
+appmenu-nova-switch-device-link = Ինչպես տեղափոխել ձեր տվյալները
 appmenuitem-new-tab =
     .label = Նոր ներդիր
 appmenuitem-new-window =
@@ -149,6 +155,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Ցուցադրել առավել շատ տեղեկություն
 profiler-popup-description-title =
     .value = Գրանցել, վերլուծել, կիսվել
+profiler-popup-description = Համագործակցեք կատարողականի հետ կապված հարցերի շուրջ՝ հրապարակելով պրոֆիլներ և կիսվելով դրանք ձեր թիմի հետ։
 profiler-popup-learn-more-button =
     .label = Իմանալ ավելին
 profiler-popup-settings =
@@ -173,6 +180,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Բացել պրոֆիլավորման վահանակը
+    .tooltiptext = Բացել պրոֆիլավորման վահանակը
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -187,18 +197,24 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Առաջարկվող նախադրված կարգավորում վեբ հավելվածների մեծ մասի վրիպազերծման համար՝ ցածր ծախսերով։
 profiler-popup-presets-web-developer-label =
     .label = Վեբ մշակող
+profiler-popup-presets-firefox-description = Խորհուրդ է տրվում պրոֆիլավորման համար նախադրված { -brand-shorter-name }:
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Նախադրված է { -brand-shorter-name }-ում գրաֆիկական սխալների հետազոտման համար։
 profiler-popup-presets-graphics-label =
     .label = Գրաֆիկա
+profiler-popup-presets-media-description2 = Նախադրված է { -brand-shorter-name }-ում աուդիո և վիդեո սխալների հետազոտման համար։
 profiler-popup-presets-media-label =
     .label = Մեդիա
 profiler-popup-presets-ml-label =
     .label = Մեքենայական ուսուցում
 profiler-popup-presets-networking-label =
     .label = Ցանցարկում
+profiler-popup-presets-networking-with-logs-label =
+    .label = Ցանցային կապ լոգերի հետ
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Հոսանք
@@ -284,11 +300,17 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Մուտք գործեք ձեր հաշիվ
+appmenuitem-monitor-title2 = Մնացեք անձնական տվյալների գողության առջև
+appmenuitem-monitor-description2 = Ստացեք ծանուցումներ տվյալների արտահոսքի մասին
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ստացեք ծանուցումներ տվյալների արտահոսման մասին
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Պահպանեք ձեր էլ. փոստը գաղտնի
+appmenuitem-relay-description2 = Օգնում է կանխել սպամի ուղարկումը ձեր մուտքի արկղում
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
 appmenuitem-services-relay-description = Գործարկել էլ. փոստի դիմակների վահանակը
+appmenuitem-vpn-title2 = Թաքցրեք ձեր գտնվելու վայրը { -mozilla-vpn-brand-name }-ի միջոցով
+appmenuitem-vpn-description3 = Ձեր դիտարկումը դժվարացրեք հետևելը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը

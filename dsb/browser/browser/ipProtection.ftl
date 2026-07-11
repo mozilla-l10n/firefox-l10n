@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Wubjeŕśo druge stojnišćo, z kó
 ipprotecion-locations-subview-recommended-label = Dopórucony
 ipprotection-locations-subview-recommended-description = Namakajo nejmalsnjejše stojnišćo
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Nic k dispoziciji
+    .aria-label = Nic k dispoziciji, znjemóžnjony
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Njestoj k dispoziciji
 ipprotection-locations-subview-promo =
     .heading = Pówušćo šćit z { -mozilla-vpn-brand-name }

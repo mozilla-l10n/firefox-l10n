@@ -30,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Ներդիրների խմբեր
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Որոնել բոլոր ներդիրներում
