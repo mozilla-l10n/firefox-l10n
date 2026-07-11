@@ -749,6 +749,9 @@ newtab-sports-widget-cancelled = لقو وابی
 newtab-sports-widget-third-place = مقام سووم
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
 newtab-sports-widget-match-full-time = پوی مجال
+newtab-sports-widget-match-halftime = نیمه ٱول
+newtab-sports-widget-match-extra-time = مجال ازافه
+newtab-sports-widget-match-penalties = جریمه یل
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -759,6 +762,15 @@ newtab-sports-widget-match-full-time = پوی مجال
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } ری و ری { $awayTeam }، لقو وابی
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-eng =
+    .label = انگلستووݩ
+newtab-sports-widget-team-name-label-sco =
+    .label = اسکاتلند
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -777,3 +789,10 @@ newtab-clock-widget-menu-learn-more = قلوه دووسته بۊین
 newtab-clock-widget-button-add-clock = ٱووردن
 newtab-clock-widget-button-cancel = لقو
 newtab-clock-widget-button-save = زفت
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
