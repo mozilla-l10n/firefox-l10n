@@ -389,6 +389,8 @@ newtab-toast-dismiss-button =
 ## Customization Menu
 
 newtab-custom-shortcuts-title = ره نهنگا
+newtab-custom-shortcuts-nova =
+    .label = ره نهنگا
 newtab-custom-sponsored-sites = ره نهنگا هؽزگرووݩ
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
@@ -400,6 +402,12 @@ newtab-custom-widget-lists-toggle =
     .label = نومگه یل
 newtab-custom-widget-timer-toggle =
     .label = زمووݩ سنج
+newtab-custom-widget-sports-toggle =
+    .label = جام جهۊوی
+newtab-custom-widget-clock-toggle =
+    .label = ساعت
+newtab-custom-widget-sports-toggle2 =
+    .label = ورزش
 newtab-custom-widget-privacy-toggle =
     .label = سیخومی
 newtab-custom-widget-section-title = ویجتا
@@ -421,6 +429,7 @@ newtab-wallpaper-title = کاقز دیواری یل
 newtab-wallpaper-reset = وورگندن و سامووا پؽش فرز
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = آپلود ی شؽوات
+newtab-wallpaper-add-an-image = ٱووردن ی شؽوات
 newtab-wallpaper-custom-color = ی رنگ پسند کۊنین
 newtab-wallpaper-toggle-title =
     .label = کاقز دیواری یل
@@ -439,6 +448,8 @@ newtab-wallpaper-light-purple = بناوش رۊشن
 newtab-wallpaper-light-green = ساوز رۊشن
 newtab-wallpaper-green = ساوز
 newtab-wallpaper-beige = بژ
+newtab-wallpaper-yellow = هیل
+newtab-wallpaper-orange = نارنجی
 newtab-wallpaper-pink = آل
 newtab-wallpaper-light-pink = آل رۊشن
 newtab-wallpaper-red = سوئر
@@ -492,6 +503,12 @@ newtab-weather-opt-in-yes =
     .label = هری
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = شئر نیویورک
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = قلوه
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = کم
 
 ## Topic Labels
 
@@ -640,11 +657,15 @@ newtab-widget-lists-name-placeholder-new2 =
     .placeholder = نومگه نۊ
     .aria-label = آلشت نومگه نوم
 newtab-widget-section-title = ویجتا
+newtab-widget-size-small = کۊچیر
+newtab-widget-size-medium = منجقا
+newtab-widget-size-large = گپ
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
 newtab-widget-section-menu-manage = دؽوۉداری ویجتا
+newtab-widget-section-menu-hide-all = بؽڌار کردن ویجتا
 newtab-widget-section-menu-learn-more = قلوه دووسته بۊین
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -665,15 +686,35 @@ newtab-widget-timer-menu-notifications = کۊر کردن وارسۊویا
 newtab-widget-timer-menu-notifications-on = رۊشن کردن وارسۊویا
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
 newtab-daily-briefing-card-menu-dismiss = رڌ کردن
+newtab-promo-card-cta-addons = هیم سکو امتهووݩ کوݩ
 newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
 newtab-promo-card-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = فوکۊس
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = اشکستن
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = بؽڌار کردن زمووݩ سنج
+
 ##
 
+newtab-sports-widget-menu-view-schedule = نیشتن برنومه زمووی
 newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = جام جهۊوی ن وا ویر جمعی و دین کۊنین
+newtab-sports-widget-get-updates = ورۊ رسۊویا زنده موسابقات وو مووردا قلوه ن بگیرین.
+newtab-sports-widget-view-schedule =
+    .label = نیشتن برنومه زمووی
+newtab-sports-widget-choose-wallpaper =
+    .label = پسند شؽوات زمینه
+newtab-sports-widget-skip = گوم زیڌن
 newtab-sports-widget-cancel = لقو
 newtab-sports-widget-back-button =
     .aria-label = وورگشتن
@@ -681,6 +722,9 @@ newtab-sports-widget-view-all =
     .label = نیشتن پوی
 newtab-sports-widget-show-less =
     .label = نشووݩ داڌن کمتر
+newtab-sports-widget-watch-dialog-close =
+    .title = بستن
+    .aria-label = بستن
 newtab-sports-widget-group-a = بونکۊ A
 newtab-sports-widget-group-b = بونکۊ B
 newtab-sports-widget-group-c = بونکۊ C
@@ -696,6 +740,11 @@ newtab-sports-widget-group-l = بونکۊ L
 newtab-sports-widget-round-32 = دور 32
 newtab-sports-widget-round-16 = دور 16
 newtab-sports-widget-quarter-finals = مرهله ی چاروم دیندایی
+newtab-sports-widget-upcoming = آینده
+newtab-sports-widget-semi-finals = نیمه دیندایی
+newtab-sports-widget-bronze-finals = فینال بورونز
+# Final is the final match for 1st place.
+newtab-sports-widget-final = فینال
 newtab-sports-widget-cancelled = لقو وابی
 newtab-sports-widget-third-place = مقام سووم
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
@@ -719,6 +768,8 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 newtab-activation-window-message-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = ناهاڌن پا سفارشی کردن
 
 ## Strings for the Clock widget
 
