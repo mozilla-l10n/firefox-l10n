@@ -4,9 +4,9 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Заблокувати { -smart-window-brand-name(case: "acc", form: "lower-singular") }?
-smart-window-block-description-both = Це видалить ваші чати та пам'ять { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
-smart-window-block-description-chats = Це видалить ваші чати { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
-smart-window-block-description-memories = Це видалить вашу пам'ять { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
+smart-window-block-description-both = Це призведе до видалення ваших чатів і пам'яті { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
+smart-window-block-description-chats = Це призведе до видалення ваших чатів { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
+smart-window-block-description-memories = Це призведе до видалення вашої пам'яті { -smart-window-brand-name(case: "gen", form: "lower-singular") }.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Ставте запитання, порівнюйте сторінки, отримуйте персоналізовані пропозиції за допомогою вбудованого помічника.
