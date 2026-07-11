@@ -20,7 +20,10 @@ fxa-menu-sign-out =
     .label = و در زیڌن…
 fxa-avatar-sign-in = و من ٱووڌن
 fxa-avatar-sign-up = سبت نوم
+fxa-avatar-tooltip =
+    .tooltiptext = و من هساو منتوری خوتووݩ بیاین
 sync-setup-verify-continue = رئڌن وا پؽش
+sync-setup-verify-title = اختار ادغام
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

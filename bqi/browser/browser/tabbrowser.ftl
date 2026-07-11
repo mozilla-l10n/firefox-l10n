@@ -169,6 +169,14 @@ tab-context-unnamed-group =
     .label = بونکۊ بؽ نوم
 tab-group-name-default = بونکۊ بؽ نوم
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = بونکۊیل بلگه
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -186,6 +194,14 @@ tab-group-editor-done =
 # number of remaining tabs that are hidden by the collapsed group,
 # e.g. "+2" for a group with 3 total tabs.
 tab-group-overflow-count = +{ $tabCount }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-button = وورکل ی بونکۊ بلگه
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = بونکۊی نۊ
 
 ## Open/saved tab group context menu
 
@@ -222,6 +238,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = زفت
     .accesskey = S
+tab-note-preview-edit-icon =
+    .alt = آلشت ویرداشت
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = قلوه بخۊوین
 tab-note-panel-add-note-new-badge =

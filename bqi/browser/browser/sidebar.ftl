@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = چت بات هۊش مسنۊعی
 menu-view-contextual-password-manager =
     .label = رزما
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = بلگه یل واز
 sidebar-options-menu-button =
     .title = گۊشیڌن نومگه
 
@@ -58,6 +63,9 @@ sidebar-settings2 =
     .label = سامووا
 sidebar-settings =
     .label = سامووا نوار کلی
+sidebar-customize-extensions-header2 = وردنی یل
+sidebar-customize-firefox-tools-header2 =
+    .label = ٱوزارا
 
 ## Labels for sidebar context menu items
 
@@ -97,12 +105,26 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = پاک کردن بلگه ز ویرگار
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = آلشت نشووک
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = پاک کردن
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
     .label = چت بات هۊش مسنۊعی
 sidebar-menu-history-label =
     .label = ویرگار
+sidebar-menu-synced-tabs-label =
+    .label = بلگه یل ز دسگا یل دیری
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = بلگه یل واز
 sidebar-menu-bookmarks-label =
     .label = نشووکا
 sidebar-menu-customize-label =
@@ -149,6 +171,10 @@ sidebar-menu-history-header =
     .heading = ویرگار
 sidebar-menu-syncedtabs-header =
     .heading = بلگه یل ز دسگا یل دیری
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = بلگه یل واز
 sidebar-menu-cpm-header =
     .heading = رزما
 sidebar-menu-bookmarks-header =
@@ -168,6 +194,16 @@ sidebar-bookmarks-folder-mobile = نشووکا تیلیفووݩ
 sidebar-customize-title = سفارشی کردن نوار کلی
 sidebar-history-title = ویرگار
 sidebar-syncedtabs-title = بلگه یل ز دسگا یل دیری
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = بلگه یل واز
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = نیمدری { $winID }
+sidebar-bookmarks-title = نشووکا
 
 ## Context for closing synced tabs when hovering over the items
 
