@@ -1922,6 +1922,7 @@ history-clear-on-close-settings =
     .accesskey = П
 history-shutdown-exceptions =
     .label = Управљај изузецима
+    .accesskey = п
 history-clear-button =
     .label = Обриши историју…
     .accesskey = с
