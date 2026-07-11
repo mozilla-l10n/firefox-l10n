@@ -611,10 +611,15 @@ smartwindow-existing-user-fx-tou-go-back = Guevijey
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Ejapo { -smart-window-brand-name }-gui eiporusevévarõ
+smartwindow-onboarding-subtitle = Emombyky, embojoja ha emba’eporandu, avavete nde joko’ỹre.
 smartwindow-onboarding-primary-button = Eku’ejey
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } rymba (Kit) mba’ejeguarã ndive
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = ¿Eguerekose pytyvõha ñembotyhápe?
 smartwindow-sidebar-auto-open-callout-accept = Héẽ, embotymeme
 smartwindow-sidebar-auto-open-callout-dismiss = Nahániri, aguyje
 smartwindow-sidebar-auto-open-callout-rejected-title = Aikũmby
