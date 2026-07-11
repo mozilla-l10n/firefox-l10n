@@ -234,6 +234,9 @@ item-history-downloads-and-chat-description = Wulašujo historiju sedłow, ześ�
 smart-window-confirm-select-all =
     .label = Wšykne wubraś
     .aria-label = Wšykne wubraś
+smart-window-close-confirm =
+    .aria-label = Napšašowanje pśetergnuś a zacyniś
+    .tooltiptext = Napšašowanje pśetergnuś a zacyniś
 smart-window-confirm-close-tab = Zacyniś
 # Variables
 #   $count (number) - Number of tabs to close
@@ -265,6 +268,7 @@ aiwindow-feedback-what-worked-well = Co jo derje funkcioněrowało? Žedne wóso
 aiwindow-feedback-add-details = Pśidajśo drobnostki, jolic cośo. Žedne wósobinske informacije, pšosym.
 aiwindow-feedback-submit = Wótpósłaś
 aiwindow-feedback-cancel = Pśetergnuś
+aiwindow-feedback-reason-incorrect-or-misleading = Wopacny abo torjecy
 aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst felujo
 aiwindow-feedback-reason-performance-or-usability = Problem z wugbaśim abo wužywajobnosću
 aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepśistojny

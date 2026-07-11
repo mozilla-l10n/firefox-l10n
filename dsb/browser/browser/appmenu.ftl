@@ -305,6 +305,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Pśizjawśo se pla swójogo konta
+appmenuitem-monitor-description2 = Dostańśo warnowanja wó datowych źěrach
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dostańśo warnowanja wó datowych źěrach
 appmenuitem-relay-title = { -relay-brand-short-name }

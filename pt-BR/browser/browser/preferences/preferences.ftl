@@ -11,7 +11,7 @@ do-not-track-option-always =
     .label = Sempre
 global-privacy-control-description =
     .label = Pedir aos sites para não vender nem compartilhar meus dados
-    .accesskey = s
+    .accesskey = t
 non-technical-privacy-group =
     .label = Preferências de privacidade em sites
 do-not-track-removal3 =
@@ -2625,7 +2625,7 @@ related-settings-group =
 related-settings-accessibility-link =
     .label = Personalizar configurações de zoom e fonte na acessibilidade
 related-settings-home-link =
-    .label = Personalizar o { -firefox-home-brand-name }
+    .label = Personalizar a { -firefox-home-brand-name }
 related-settings-tabs-browsing-link =
     .label = Personalizar layout do navegador
 
