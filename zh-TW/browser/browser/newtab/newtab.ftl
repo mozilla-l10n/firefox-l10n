@@ -286,6 +286,27 @@ newtab-privacy-message-first-protection-cta = 檢視保護成果
 newtab-stocks-menu-search = 搜尋個股代碼
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 更多資訊
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = 股市小工具選項
+    .aria-label = 股市小工具選項
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = 股市
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }，上漲 { $change }，{ $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }，下跌 { $change }，{ $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }，平盤，{ $change }，{ $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -294,6 +315,14 @@ newtab-stocks-menu-learn-more = 更多資訊
 newtab-picture-header = 每日一圖 · 維基共享資源
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = 每日一圖
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = 維基共享資源
 # Screen-reader label for the license link; the visible text is the license
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
