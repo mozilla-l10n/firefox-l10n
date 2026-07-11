@@ -38,6 +38,7 @@ account-send-tab-to-device-connectdevice = Під'єднати інший при
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Обліковий запис не підтверджено
+account-send-tab-to-device-verify2 = Підтвердити обліковий запис
 account-send-tab-to-device-verify = Підтвердити обліковий запис…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
