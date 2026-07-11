@@ -23,6 +23,15 @@ ai-window-default-section =
 ai-window-is-default-window =
     .label = { -smart-window-brand-name } po standardźe wužiwać
     .description = Wočińće { -smart-window-brand-name }, hdyž so { -brand-short-name } startuje. znowa startuje abo wotkazy z druhich nałoženjow wočinja.
+ai-window-open-sidebar =
+    .label = Asistent awtomatisce wočinić
+    .description = Pokazajće bóčnicu asistenta na kóždym nowym rajtarku. Začińće ju kóždy čas.
+ai-window-smart-cursor-in-smart-window =
+    .label = Tastowe skrótšenki pokazać, hdyž so tekst wuběra
+    .description = Dóstańće spěšny přistup, zo byšće zjimał, wujasnjał a wjace.
+smart-window-model-section =
+    .label = Asistentny model
+    .description = Wubjerće model na zakładźe toho, štož je wažne za was.
 smart-window-model-learn-link = Zhońće wjace wo modelach
 
 ## Variables:
@@ -31,6 +40,9 @@ smart-window-model-learn-link = Zhońće wjace wo modelach
 
 smart-window-model-fast =
     .label = Spěšny: wotmołwja spěšnje
+    .description = Model { $model } wot { $ownerName }
+smart-window-model-flexible =
+    .label = Fleksibelny: najlěpše přiměrjenje za najwjace potrěbnosćow
     .description = Model { $model } wot { $ownerName }
 smart-window-model-custom =
     .label = Swójski: Wužiwajće swójski LLM
