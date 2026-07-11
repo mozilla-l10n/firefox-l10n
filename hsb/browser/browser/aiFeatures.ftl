@@ -7,6 +7,9 @@ smart-window-block-title = { -smart-window-brand-name } blokować?
 smart-window-block-description-both = To chaty a dopomnjeća wašich { -smart-window-brand-name } zhaša.
 smart-window-block-description-chats = To chaty wašich { -smart-window-brand-name } zhaša.
 smart-window-block-description-memories = To dopomnjeća wašich { -smart-window-brand-name } zhaša.
+ai-window-features-group =
+    .label = { -smart-window-brand-name }
+    .description = Stajće prašenja, přirunajće strony a dóstańće personalizowane namjety ze zatwarjenym asistentom.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -17,6 +20,9 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Standardne nastajenja
+ai-window-is-default-window =
+    .label = { -smart-window-brand-name } po standardźe wužiwać
+    .description = Wočińće { -smart-window-brand-name }, hdyž so { -brand-short-name } startuje. znowa startuje abo wotkazy z druhich nałoženjow wočinja.
 smart-window-model-learn-link = Zhońće wjace wo modelach
 
 ## Variables:
