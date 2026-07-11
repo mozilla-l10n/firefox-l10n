@@ -41,5 +41,13 @@ more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-box-link =
+    .label = گرؽڌن { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = گرؽڌن { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = گرؽڌن { -relay-brand-short-name }
+more-from-moz-thunderbird-box-link =
+    .label = گرؽڌن { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
     .label = امتهووݩ کردن { -solo-ai-brand-name }

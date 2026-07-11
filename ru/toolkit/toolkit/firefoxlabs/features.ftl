@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Используйт
 experimental-features-tab-notes =
     .label = Примечания для вкладок
 experimental-features-tab-notes-description = Примечания для вкладок — это экспериментальная функция, которая позволяет добавлять примечания для вкладок вашего браузера. Записывайте контекст, напоминания или следующие шаги, чтобы вы могли вернуться и вспомнить, почему вы её открыли. Мы будем рады вашему отзыву, так как мы продолжаем улучшать эту функцию. <a data-l10n-name="connect">Поделитесь отзывом</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Оптимизированное меню вкладок
+experimental-features-tab-context-menu-description = При щелчке правой кнопкой мыши по вкладке отображается более простое контекстное меню. Оно помогает быстрее находить часто используемые действия. <a data-l10n-name="connect">Поделитесь отзывом</a>

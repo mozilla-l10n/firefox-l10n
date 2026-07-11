@@ -259,18 +259,116 @@ newtab-privacy-message-promo-relay-2-cta = Получить псевдонимы
 newtab-privacy-message-promo-relay-3 = Получите 50 бесплатных псевдонимов электронной почты, чтобы помочь сохранить приватность вашей настоящей электронной почты.
 newtab-privacy-message-promo-relay-3-cta = Получить псевдонимы
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } трекер заблокирован на этой неделе. Узнайте, как { -brand-short-name } защищает вас
+        [few] { $count } трекера заблокировано на этой неделе. Узнайте, как { -brand-short-name } защищает вас
+       *[many] { $count } трекеров заблокировано на этой неделе. Узнайте, как { -brand-short-name } защищает вас
+    }
+newtab-privacy-message-milestone-week-cta = Просмотр защиты
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } трекер заблокирован в этом месяце. Один маленький шаг к приватности. Большой шаг к спокойствию.
+        [few] { $count } трекера заблокировано в этом месяце. Один маленький шаг к приватности. Большой шаг к спокойствию.
+       *[many] { $count } трекеров заблокировано в этом месяце. Один маленький шаг к приватности. Большой шаг к спокойствию.
+    }
+newtab-privacy-message-milestone-month-cta = Просмотр защиты
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } трекер заблокирован в этом году. Это мощный год защиты вашей конфиденциальности.
+        [few] { $count } трекера заблокировано в этом году. Это мощный год защиты вашей конфиденциальности.
+       *[many] { $count } трекеров заблокировано в этом году. Это мощный год защиты вашей конфиденциальности.
+    }
+newtab-privacy-message-milestone-year-cta = Просмотр защиты
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } трекер заблокирован. Это большой прогресс на пути к приватности на ваших условиях.
+        [few] { $count } трекера заблокировано. Это большой прогресс на пути к приватности на ваших условиях.
+       *[many] { $count } трекеров заблокировано. Это большой прогресс на пути к приватности на ваших условиях.
+    }
+newtab-privacy-message-milestone-total-cta = Просмотр защиты
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Сегодня заблокировано более 100 трекеров). Меньше трекеров — больше приватности.
+newtab-privacy-message-daily-cap-cta = Просмотр защиты
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Вы были защищены { $count } день подряд.
+        [few] Вы были защищены { $count } дня подряд.
+       *[many] Вы были защищены { $count } дней подряд.
+    }
+newtab-privacy-message-streak-cta = Просмотр защиты
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Продолжайте веб-сёрфинг, { -brand-short-name } будет продолжать блокировки.
+newtab-privacy-message-first-protection-cta = Просмотр защиты
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Поиск по ленте новостей
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Узнать больше
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Настройки виджета акций
+    .aria-label = Настройки виджета акций
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Акции
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, рост на { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, падение на { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, нет изменений, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Изображение дня · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Изображение дня
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Просмотреть лицензию { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Варианты изображения дня
+    .aria-label = Варианты изображения дня
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
