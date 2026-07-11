@@ -71,6 +71,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Thử lại
+smartwindow-nl-retry-message = Nếu bạn vẫn muốn đóng các thẻ, hãy chọn <strong>Thử lại</strong> và quyết định lựa chọn của bạn trong thẻ vừa hiện ra.
+smartwindow-nl-retry-group-tabs-message = Nếu bạn vẫn muốn nhóm các thẻ lại với nhau, hãy chọn <strong>Thử lại</strong> và chọn cái cần nhóm trong thẻ vừa mở.
 smartwindow-nl-thinking = Đang tìm các thẻ phù hợp…
 smartwindow-loading-assistant-response =
     .aria-label = Đang tải phản hồi của trợ lý
@@ -91,3 +93,51 @@ smart-window-cancelled-label = Yêu cầu đã bị hủy.
 smart-window-confirm-group-tab = Nhóm
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs = Nhóm { $count } thẻ
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label = Đã nhóm { $count } thẻ
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary = Đã tạo nhóm “{ $label }” và thêm { $count } thẻ.
+smart-window-grouped-tabs-row-label = Thẻ đã nhóm
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Thẻ đã bỏ nhóm
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary = { $count } thẻ đã nhóm, sau đó đã bỏ nhóm.
+smart-window-ungrouped-row-label = Đã bỏ nhóm { $count } thẻ
+
+## Action log
+
+action-log-searching-tabs = Đang tìm kiếm thẻ
+action-log-searched-open-tabs = Đã tìm kiếm thẻ đang mở
+action-log-searching-history = Đang tìm kiếm lịch sử
+action-log-searched-history = Đã tìm kiếm lịch sử
+action-log-reading-page = Đang đọc trang
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Đã đọc nội dung trang
+action-log-searching-web = Đang tìm kiếm web
+action-log-searched-web = Đã tìm kiếm web
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Đã tìm kiếm web với Exa
+action-log-checking-memories = Đang kiểm tra ký ức
+action-log-checked-memories = Đã kiểm tra ký ức
+action-log-searching-settings = Đang tìm kiếm cài đặt
+action-log-searched-settings = Đã tìm kiếm cài đặt
+action-log-searching-world-cup-matches = Đang tìm kiếm các trận đấu World Cup
+action-log-searched-world-cup-matches = Đã tìm kiếm các trận đấu World Cup
+action-log-checking-world-cup-live = Đang kiểm tra các trận đấu World Cup trực tiếp
+action-log-checked-world-cup-live = Đã kiểm tra các trận đấu World Cup trực tiếp
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps = Đã hoàn thành { $count } bước
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Đã tải kết quả tìm kiếm trong thẻ này. Đang phân tích…
