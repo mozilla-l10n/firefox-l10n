@@ -29,10 +29,22 @@ smart-window-model-personal =
     .label = Անձնական. Առավել հարմարեցված պատասխաններ
     .description = Մոդել { $model }՝ { $ownerName }-ի կողմից
 smart-window-model-custom =
-    .label = Հարմարեցված. Օգտագործեք ձեր սեփական LLM
+    .label = Անհատականացված. Օգտագործեք ձեր սեփական LLM
 smart-window-model-custom-url =
     .label = Մոդելի վերջնակետ
     .placeholder = Օրինակ՝ http://localhost:11434/v1
 smart-window-model-custom-token =
     .label = API բանալի կամ հաստատման նշան, եթե անհրաժեշտ է
 smart-window-model-custom-more-link = Ավելին՝ անհատականացված մոդելների մասին
+smart-window-model-custom-save =
+    .label = Պահել
+smart-window-model-custom-save-confirmation = Մոդելի մանրամասները պահպանված են: Սկսեք նոր զրույց՝ փորձարկելու համար:
+ai-window-manage-memories-button =
+    .label = Կառավարել հիշողությունները
+ai-window-delete-all-memories-confirm = Ջնջել
+ai-window-delete-all-memories-cancel = Չեղարկել
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Ջնջել հիշողությունը
+    .aria-label = Ջնջել { $label }-ը

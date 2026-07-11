@@ -7,6 +7,7 @@ clear-data-for-site-title = Մաքրե՞լ այս կայքի բոլոր տվյա
 #   $site (string) - Website name
 clear-data-for-site-list = Սա կջնջի { $site }-ի համար բոլոր տվյալները, ներառյալ՝
 clear-data-for-site-browsing-history = Դիտարկումների և ներբեռնումների պատմությունը
+clear-data-for-site-cookies = Թխուկներ և կայքի տվյալներ, որոնք կարող են ձեզ դուրս հանել կայքից
 clear-data-for-site-cache = Շտեմված ֆայլեր ու էջեր
 cclear-data-for-site-permissions = Թույլտվություններ և նախընտրություններ
 clear-data-for-site-exceptions = Էջանիշները և պահված գաղտնաբառերը չեն ջնջվի

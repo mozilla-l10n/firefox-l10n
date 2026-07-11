@@ -894,6 +894,43 @@ urlbar-result-explanation-last-visited-relative = Դուք վերջին անգա
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Էջանշված է { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Վերջին այցելությունը՝ { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Վերջին այցելությունը՝ { $daysAgo } օր առաջ
+       *[other] Վերջին այցելությունը՝ { $daysAgo } օր առաջ
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Վերջին այցելությունը՝ { $weeksAgo } շաբաթ առաջ
+       *[other] Վերջին այցելությունը՝ { $weeksAgo } շաբաթ առաջ
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Վերջին այցելությունը՝ { $monthsAgo } ամիս առաջ
+       *[other] Վերջին այցելությունը՝ { $monthsAgo } ամիս առաջ
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Վերջին այցելությունը՝ { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1295,6 +1332,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Համաժամեցված ներդիրներ
     .tooltiptext = Ցուցադրել այլ սարքերի ներդիրները
+toolbar-button-send-tab =
+    .label = Ուղարկել ներդիրը
+    .tooltiptext = Ուղարկել ընթացիկ ներդիրն այլ սարքի
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1708,5 +1748,7 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+reduced-protection-infobar-reload-button = Կրկին բեռնել
+    .accesskey = R
 reduced-protection-infobar-never-show-button = Այլևս չցուցադրել
     .accesskey = D

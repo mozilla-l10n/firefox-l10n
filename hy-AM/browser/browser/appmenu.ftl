@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Չստացվեց թարմացնել․ անհամատեղելի համակարգ
 appmenuitem-banner-update-restart =
     .label = Հասանելի է թարմացում․ վերամեկնարկել հիմա
+appmenu-nova-update-link = Վերամեկնարկեք՝ թարմացնելու համար
+appmenu-nova-fxa-sign-in = Մուտք գործել
 appmenuitem-new-tab =
     .label = Նոր ներդիր
 appmenuitem-new-window =
@@ -271,6 +273,8 @@ appmenu-customizetoolbar =
     .label = Հարմարեցնել գործիքագոտին...
 appmenu-abouttranslations =
     .label = Թարգմանել…
+appmenu-edit-pdf =
+    .label = Խմբագրել PDF-ը…
 appmenu-developer-tools-subheader = Դիտարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
@@ -292,6 +296,10 @@ appmenu-services-header = Իմ ծառայությունները
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Գաղտնիության գործիքներ
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Փորձեք այլ պաշտպանության գործիքներ Mozilla-ից՝
 appmenu-other-protection-header = Փորձեք պաշտպանության այլ գործիքներ { -vendor-short-name }-ից.
 
@@ -302,9 +310,18 @@ appmenu-manage-profiles =
     .label = Կառավարել հատկագրերը
 appmenu-copy-profile =
     .label = Պատճենել այս պրոֆիլը
+appmenu-create-profile2 =
+    .label = Ստեղծել նոր պրոֆիլ
 appmenu-create-profile =
     .label = Նոր հատկագիր
 appmenu-edit-profile =
     .aria-label = Խմբագրել հատկագիրը
+appmenu-edit-this-profile =
+    .label = Խմբագրել այս պրոֆիլը
+appmenu-profile-current-in-use = Ընթացիկ պրոֆիլն օգտագործվում է
 appmenu-profiles-2 =
     .label = Հատկագրեր
+appmenu-profiles-header = Պրոֆիլներ
+appmenu-all-profiles =
+    .label = Բոլոր պրոֆիլները
+appmenu-secure-sync-header = Անվտանգ համաժամեցում
