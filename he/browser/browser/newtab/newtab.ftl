@@ -296,6 +296,10 @@ newtab-privacy-message-milestone-total-cta = הצגת הגנות
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (למעלה מ־100 רכיבי מעקב שנחסמו היום.) פחות רכיבי מעקב פירושם יותר פרטיות.
 newtab-privacy-message-daily-cap-cta = הצגת הגנות
+newtab-privacy-message-streak-cta = הצגת הגנות
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = אפשר להמשיך לגלוש, { -brand-short-name } ימשיך לחסום.
+newtab-privacy-message-first-protection-cta = הצגת הגנות
 
 ## Strings for the Stocks widget
 
@@ -303,12 +307,53 @@ newtab-privacy-message-daily-cap-cta = הצגת הגנות
 newtab-stocks-menu-search = חיפוש סימולי מניות
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = מידע נוסף
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = אפשרויות ווידג’ט מניות
+    .aria-label = אפשרויות ווידג’ט מניות
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = מניות
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = ‏{ $name }, עלייה של { $change }, ‏{ $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = ‏{ $name }, ירידה של { $change }, ‏{ $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = ‏{ $name }, ללא שינוי, { $change }, ‏{ $price }
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = התמונה של היום · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = התמונה של היום
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = הצגת רישיון { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = אפשרויות של התמונה של היום
+    .aria-label = אפשרויות של התמונה של היום
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

@@ -23,6 +23,9 @@ smartwindow-document-title = بلگه نۊ
 
 ## Smart Window Toggle Button
 
+ai-window-toggleview-switch-classic =
+    .label = نیمدری کلاسیک
+    .value = نیمدری کلاسیک
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }

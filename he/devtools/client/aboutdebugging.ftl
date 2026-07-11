@@ -315,3 +315,5 @@ about-debugging-message-details-label-error = פרטי שגיאה
 about-debugging-message-details-label-warning = פרטי אזהרה
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = פרטים
+about-debugging-sidebar =
+    .heading = ניפוי שגיאות
