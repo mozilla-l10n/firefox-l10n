@@ -102,3 +102,4 @@ experimental-features-tab-notes-description = Notas de scheda es un function exp
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Menu del schedas simplificate
+experimental-features-tab-context-menu-description = Vide un menu contextual plus simple al cliccar dextre un scheda. Illo es designate pro render le actiones commun plus facile a trovar. <a data-l10n-name="connect">Condivide tu commentario</a>

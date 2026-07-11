@@ -34,3 +34,30 @@ load-device =
 load-device-modname =
     .value = نوم ماژول
     .accesskey = M
+load-device-filename =
+    .value = نوم فایل ماژول
+    .accesskey = f
+load-device-browse =
+    .label = گشتن…
+    .accesskey = B
+
+## Token Manager
+
+devinfo-status =
+    .label = وزعیت
+devinfo-status-disabled =
+    .label = قیر فعال وابیڌه
+devinfo-status-not-present =
+    .label = مووجۊد نؽ
+devinfo-status-uninitialized =
+    .label = ره نوسته
+devinfo-status-not-logged-in =
+    .label = و من سیستوم نووڌه
+devinfo-status-logged-in =
+    .label = و من سیستوم ٱووڌه
+devinfo-status-ready =
+    .label = ٱماڌه
+devinfo-desc =
+    .label = توزیهات
+devinfo-man-id =
+    .label = وورکل کوننده
