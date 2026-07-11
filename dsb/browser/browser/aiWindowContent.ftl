@@ -71,6 +71,7 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Hyšći raz wopytaś
 smartwindow-nl-retry-message = Jolic hyšći cośo rejtariki zacyniś, wubjeŕśo <strong>Hyšći raz wopytaś</strong> a cyńśo swój wuběrk w kórśe, kótaraž se wócynja.
+smartwindow-nl-retry-group-tabs-message = Jolic hyšći cośo rejtariki zrědowaś, wubjeŕśo <strong>Hyšći raz wopytaś</strong> a pótom, kótare se maju w kórśe zrědowaś, kótaraž se wócynja.
 smartwindow-nl-thinking = Pyta se za wótpowědnymi rejtarikami…
 smartwindow-loading-assistant-response =
     .aria-label = Wótegrono asistenta se zacytajo
@@ -131,17 +132,41 @@ smart-window-grouped-tabs-label =
         [few] { $count } rejtariki zrědowane
        *[other] { $count } rejtarikow zrědowane
     }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Kupka “{ $label }” jo se załožyła a { $count } rejtarik jo se pśidał.
+        [two] Kupka “{ $label }” jo se załožyła a { $count } rejtarika stej se pśidałej.
+        [few] Kupka “{ $label }” jo se załožyła a { $count } rejtariki su se pśidali.
+       *[other] Kupka “{ $label }” jo se załožyła a { $count } rejtarikow jo se pśidało.
+    }
 smart-window-grouped-tabs-row-label = Zrědowane rejtariki
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Zrědowanje rejtarikow wótpórane
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } rejtarik njezrědowany
+        [two] { $count } rejtarika njezrědowanej
+        [few] { $count } rejtariki njezrědowane
+       *[other] { $count } rejtarikow njezrědowanych
+    }
 
 ## Action log
 
 action-log-searching-tabs = Rejtariki se pśepytuju
 action-log-searched-open-tabs = Wócynjone rejtariki pśepytane
+action-log-searching-history = Historiju pśepytaś
+action-log-searched-history = Pśepytana historija
 action-log-reading-page = Bok se cyta
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Pśecytane wopśimjeśe boka
 action-log-searching-web = Web pśepytaś
 action-log-searched-web = Web pśepytany
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Z Exa web pśepytany
 action-log-checking-memories = Dopomnjeśa se pśeglěduju
 action-log-checked-memories = Pśeglědane dopomnjeśa
 action-log-searching-settings = Nastajenja pśepytaś

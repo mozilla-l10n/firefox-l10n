@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Nová karta
     .accesskey = N
+user-context-add-container =
+    .label = Pridať nový kontajner
+    .accesskey = d
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

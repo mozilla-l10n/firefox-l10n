@@ -403,6 +403,9 @@ quickactions-addons = Zobraziť doplnky
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = rozšírenia, témy, doplnky
+# Opens preferences page at AI controls
+quickactions-manageai = Spravovať nastavenia AI
+quickactions-cmd-manageai = vypnúť ai, spravovať ai
 quickactions-cmd-addons2 = doplnky
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Spravovať záložky
@@ -951,6 +954,11 @@ urlbar-result-explanation-last-visited-absolute = Naposledy navštívená dňa {
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Uložené do záložiek dňa { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Naposledy navštívená { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

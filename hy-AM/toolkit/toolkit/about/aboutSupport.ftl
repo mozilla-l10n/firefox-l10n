@@ -362,6 +362,7 @@ can-sandbox-media = Մեդիաբաղադրչի Sandboxing
 content-sandbox-level = Բովանդակության ընթացք Sandboxing-ի մակարդակ
 effective-content-sandbox-level = Արդյունավետ բովանդակության ընթացքի Sandboxing-ի մակարդակ
 content-win32k-lockdown-state = Win32k-ի արգելափակման վիճակը բովանդակության գործընթացի համար
+support-sandbox-gpu-level = GPU պրոցեսի Sandbox մակարդակ
 sandbox-proc-type-content = բովանդակությունը
 sandbox-proc-type-file = ֆայլի բովանդակություն
 sandbox-proc-type-media-plugin = մեդիա բաղադրիչ
@@ -379,8 +380,21 @@ launcher-process-status-unknown = Անհայտ իրավիճակ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Անջատված է փորձի պատճառով
+fission-status-experiment-treatment = Միացված է փորձի միջոցով
+fission-status-disabled-by-e10s-env = Անջատված է միջավայրի կողմից
+fission-status-enabled-by-env = Միացված է միջավայրի կողմից
+fission-status-disabled-by-env = Անջատված է միջավայրի կողմից
 fission-status-enabled-by-default = Միացված՝ ըստ սկզբնադիրի
 fission-status-disabled-by-default = Անջատված՝ ըստ սկզբնադիրի
+fission-status-enabled-by-user-pref = Միացված օգտվողի կողմից
+fission-status-disabled-by-user-pref = Անջատված է օգտվողի կողմից
+fission-status-disabled-by-e10s-other = USB-ն անջատված է
+fission-status-enabled-by-rollout = Հնարավորություն է տրվել փուլային ներդրման միջոցով
 async-pan-zoom = Չհամաժամված շեղում/Դիտափոխում
 apz-none = նշում
 wheel-enabled = անիվի ներածումը միացված է
@@ -406,13 +420,31 @@ policies-error = Սխալ
 
 support-printing-title = Տպում է
 support-printing-troubleshoot = Խափանաշտկում
+support-printing-clear-settings-button = Մաքրել պահպանված տպագրության կարգավորումները
+support-printing-modified-settings = Փոփոխված տպագրության կարգավորումներ
+support-printing-prefs-name = Անուն
+support-printing-prefs-value = Արժեք
 
 ## Remote Settings sections
 
+support-remote-settings-title = Հեռակառավարման կարգավորումներ
+support-remote-settings-status = Կարգավիճակ
+support-remote-settings-status-ok = Լավ
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Չի աշխատում
+support-remote-settings-last-check = Վերջին ստուգումը
+support-remote-settings-local-timestamp = Տեղական ժամանակային կնիք
 support-remote-settings-sync-history = Պատմություն
+support-remote-settings-sync-history-status = Կարգավիճակ
+support-remote-settings-sync-history-datetime = Ամսաթիվ
+support-remote-settings-sync-history-infos = Տեղեկություն
 
 ## Normandy sections
 
+support-remote-experiments-title = Հեռակա փորձեր
+support-remote-experiments-name = Անուն
+support-remote-experiments-branch = Փորձարարական ճյուղ
+support-remote-experiments-see-about-studies = Ավելի շատ տեղեկությունների համար, այդ թվում՝ ինչպես անջատել առանձին փորձերը կամ անջատել { -brand-short-name }-ի կողմից այս տեսակի փորձի իրականացումը ապագայում, տե՛ս <a data-l10n-name="support-about-studies-link">about:studies</a>:
 support-remote-features-status = Վիճակը
 
 ## Pointing devices

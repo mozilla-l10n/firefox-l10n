@@ -215,6 +215,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Seś
+profiler-popup-presets-networking-with-logs-label =
+    .label = Seśowe zwězki z protokolami
 profiler-popup-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -306,6 +308,7 @@ appmenuitem-sign-in-account = Pśizjawśo se pla swójogo konta
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dostańśo warnowanja wó datowych źěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Źaržćo swóju e-mail priwatnu
 appmenuitem-relay-description = Maskěrujśo swóju napšawdnu e-mailowu adresu a swój telefon
 appmenuitem-services-relay-description = Startujśo delu e-mailowych maskow
 appmenuitem-vpn-title2 = Schowajśo swójo stojnišćo z { -mozilla-vpn-brand-name }

@@ -77,6 +77,7 @@ smartbar-placeholder-hint-4 = Web pśepytaś…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Rejtarik abo sedło wóznamjeniś
 smartbar-mentions-list-no-results-label = Žedne wuslědki namakane
 smartbar-mentions-list-recent-tabs-label = Nejnowše rejtariki
 
@@ -88,6 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Rejtarik abo sedło wóznamjeniś
 aiwindow-website-chip-history-deleted = Historija jo se wulašowała
 aiwindow-website-chip-remove-button =
     .aria-label = Wótwónoźeś
@@ -129,6 +131,7 @@ aiwindow-firstrun-memories-title = Wěcej wužytnych wótegronow, k wašym wumě
 aiwindow-firstrun-memories-relevance-title = Wěcej relewantnych wótegronow
 aiwindow-firstrun-memories-privacy-title = Priwatny pó designje
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = W { -brand-product-name } pśeglědowaś
 
 ## Ask Toolbar Button
 
@@ -247,6 +250,8 @@ aiwindow-feedback-add-details = Pśidajśo drobnostki, jolic cośo. Žedne wóso
 aiwindow-feedback-submit = Wótpósłaś
 aiwindow-feedback-cancel = Pśetergnuś
 aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst felujo
+aiwindow-feedback-reason-performance-or-usability = Problem z wugbaśim abo wužywajobnosću
+aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepśistojny
 aiwindow-feedback-reason-other = Druge
 aiwindow-feedback-preview-report = Chatowe drobnostki pokazaś
 aiwindow-feedback-preview-report-with-page = Drobnostki chata a boka pokazaś

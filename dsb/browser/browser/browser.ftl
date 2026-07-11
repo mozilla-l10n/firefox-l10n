@@ -405,6 +405,7 @@ quickactions-addons = Dodanki pokazaś
 quickactions-cmd-addons3 = rozšyrjenja, drastwy, dodanki
 # Opens preferences page at AI controls
 quickactions-manageai = Wóźeńske elementy KI zastojaś
+quickactions-cmd-manageai = KI znjemóžniś, KI zastojaś
 quickactions-cmd-addons2 = dodanki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Cytańske znamjenja zastojaś
