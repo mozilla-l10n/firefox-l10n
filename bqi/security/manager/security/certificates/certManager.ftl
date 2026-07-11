@@ -67,3 +67,10 @@ choose-p12-restore-file-dialog = فایل گوواهی سی و من ٱووردن
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = فایلا گوواهی
+
+## For Deleting Certificates
+
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (زفت نوابیڌه)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (مووجۊد نؽ)

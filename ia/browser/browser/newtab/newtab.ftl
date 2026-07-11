@@ -322,6 +322,14 @@ newtab-stocks-menu-learn-more = Pro saper plus
 newtab-picture-header = Imagine del die · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imagine del die
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
 # Screen-reader label for the license link; the visible text is the license
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.

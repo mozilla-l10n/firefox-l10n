@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Detalios del error
 about-debugging-message-details-label-warning = Detalios del aviso
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detalios
+about-debugging-sidebar =
+    .heading = Depuration

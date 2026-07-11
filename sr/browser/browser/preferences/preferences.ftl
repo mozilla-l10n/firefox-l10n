@@ -227,6 +227,9 @@ windows-launch-on-login =
     .label = Аутоматски отвори { -brand-short-name } када се рачунар покрене
     .accesskey = А
 windows-launch-on-login-disabled = Ово подешавање је онемогућено у Windows-у. Да промените, посетите <a data-l10n-name="startup-link">апликације при покретању</a> у подешавањима система.
+windows-launch-on-login-open-new-tab =
+    .label = Такође отвори нови језичак
+    .accesskey = н
 windows-launch-on-login-profile-disabled = Омогућите ово подешавање означавањем „{ profile-manager-use-selected.label }” у прозору „Изаберите кориснички профил”.
 startup-restore-warn-on-quit =
     .label = Упозори ме при изласку из прегледача
@@ -928,6 +931,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Започни претрагу при уносу текста
     .accesskey = З
+settings-keyboard-shortcuts-group =
+    .label = Пречице тастатуре
+    .description = Управљајте начином на који се крећете и радите са { -brand-short-name }.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Прилагодите пречице тастатуре
 settings-media-group =
     .label = Медији
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1346,6 +1354,25 @@ containers-remove-button =
     .label = Уклони
 containers-section-header2 =
     .heading = Подешавања контејнера
+containers-card-header2 =
+    .label = Контејнери
+    .description = Раздвојте колачиће по контејнерима како бисте могли да користите различите налоге на истој страници и ограничите праћење између страница.
+containers-add-button2 =
+    .label = Додај нови контејнер
+    .accesskey = Д
+containers-new-tab-check3 =
+    .label = Изабери контејнер за сваки нови језичак
+    .accesskey = И
+containers-new-tab-check2 =
+    .label = Изабери контејнер за сваки нови језичак
+    .accesskey = И
+    .description = Ово ће отворити мени контејнера сваки пут када притиснете дугме за отварање новог језичка.
+containers-settings-button2 =
+    .title = Подешавања
+containers-remove-button3 =
+    .title = Обриши
+containers-remove-button2 =
+    .title = Уклони
 
 ## Account and sync
 
@@ -1353,6 +1380,9 @@ sync-group-label =
     .label = Усклађивање
 account-group-label2 =
     .label = Налог
+account-disabled-group =
+    .label = Налог
+    .description = Подешавања налога су недоступна.
 account-placeholder2 =
     .label = Није пријављени
     .description = Пријавите се да би ваши подаци остали приватни, шифровани и у тренутку доступни тамо где користите { -brand-short-name }.
@@ -1673,18 +1703,19 @@ forms-saved-passwords-searchkeywords = Пријаве за следеће сај
 forms-additional-protections-header =
     .label = Додатне заштите
 forms-primary-pw-use =
-    .label = Користи примарну лозинку
+    .label = Користи главну лозинку
     .accesskey = л
 forms-primary-pw-use-2 =
     .label = Користите главну лозинку
     .description = Додаје додатни слој безбедности за заштиту ваших сачуваних лозинки.
     .accesskey = Г
 forms-primary-pw-set =
-    .label = Постави примарну лозинку
+    .label = Постави главну лозинку
+forms-primary-pw-on-2 = Главна лозинка је <strong>УКЉУЧЕНА</strong>
 forms-primary-pw-on =
-    .label = Примарна лозинка је УКЉУЧЕНА
+    .label = Главна лозинка је УКЉУЧЕНА
 forms-primary-pw-change-2 =
-    .label = Промени примарну лозинку
+    .label = Промени главну лозинку
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = Искључи је
@@ -1701,7 +1732,7 @@ forms-master-pw-change =
     .label = Промени главну лозинку…
     .accesskey = П
 forms-primary-pw-change =
-    .label = Промени примарну лозинку…
+    .label = Промени главну лозинку…
     .accesskey = м
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
@@ -1729,7 +1760,7 @@ privacy-panel-breach-alerts =
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте направили примарну лозинку.
+primary-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте направили главну лозинку.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -1889,6 +1920,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Подешавања…
     .accesskey = П
+history-shutdown-exceptions =
+    .label = Управљај изузецима
 history-clear-button =
     .label = Обриши историју…
     .accesskey = с
@@ -2669,6 +2702,28 @@ browser-theme-group =
     .description = Прилагодите { -brand-short-name } на свој начин. Боје теме се примењују на траке са алаткама, меније и поруке.
 browser-theme-manage-link =
     .label = Управљај темама { -brand-short-name }
+appearance-window-density-group =
+    .label = Густина прозора
+    .description = Прилагодите размаке између елемената прозора као што су алатна трака, језичци и бочна површ.
+appearance-window-density-radio-group =
+    .aria-label = Густина прозора
+appearance-window-density-automatic =
+    .label = Самостална (подразумевано)
+    .description = Стандардни, збијени, или размак за додир се примењује самостално
+appearance-window-density-automatic-no-touch =
+    .label = Самостална (подразумевано)
+    .description = Стандардни или збијени размак се примењује самостално
+appearance-window-density-standard =
+    .label = Стандардна
+    .description = Уравнотежени размак за већину екрана
+appearance-window-density-auto-touch-mode =
+    .label = Користи размак за додир у режиму таблице
+appearance-window-density-compact =
+    .label = Збијена
+    .description = Умањени размак за мање екране
+appearance-window-density-touch =
+    .label = Додирна
+    .description = Већи елементи прозора и циљеви кликтања, намењено за екране на додир
 related-settings-group =
     .label = Повезана подешавања
 related-settings-accessibility-link =
