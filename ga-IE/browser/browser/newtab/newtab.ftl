@@ -140,6 +140,11 @@ newtab-custom-settings = Bainistigh tuilleadh socruithe
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
+## New Tab Weather
+
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Cathair Nua-Eabhrac
+
 ## Topic Labels
 
 newtab-topic-label-sports = Spóirt
@@ -150,3 +155,68 @@ newtab-topic-label-home = Baile & Gairdín
 ## Topic Selection Modal
 
 newtab-topic-selection-button-maybe-later = Ar ball, b'fhéidir
+
+## Confirmation modal for blocking a section
+
+newtab-section-block-cancel-button = Cealaigh
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-decrease-min =
+    .title = Laghdaigh 1 nóiméad
+newtab-widget-timer-increase-min =
+    .title = Méadaigh 1 nóiméad
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Cuir an t-amadóir i bhfolach
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = An bhfuil sos uait?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Réidh le díriú ar an obair?
+
+##
+
+newtab-sports-widget-menu-follow-teams = Lean foirne
+newtab-sports-widget-menu-view-schedule = An Sceideal
+newtab-sports-widget-menu-view-results = Féach ar na torthaí
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Na príomhdhátaí
+newtab-sports-widget-menu-learn-more = Tuilleadh eolais
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Coinnigh súil ar Chorn an Domhain
+newtab-sports-widget-view-schedule =
+    .label = An Sceideal
+newtab-sports-widget-follow-teams =
+    .label = Lean foirne
+newtab-sports-widget-view-matches =
+    .label = Na Cluichí
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Lean suas le 1 fhoireann amháin
+        [two] Lean suas le 2 fhoireann
+        [few] Lean suas le 7 bhfoireann
+        [many] Lean suas le 7 foireann
+       *[other] Lean suas le 20 foreann
+    }
+newtab-sports-widget-choose-wallpaper =
+    .label = Roghnaigh páipéar balla
+newtab-sports-widget-skip = Léim Thar Seo
+newtab-sports-widget-group-stage = Babhta na nGrúpaí
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = BEO
+newtab-sports-widget-upcoming = Ar na bacáin
+newtab-sports-widget-results = Torthaí
+newtab-sports-widget-semi-finals = Cluichí leathcheannais
+newtab-sports-widget-bronze-finals = Tríú hÁit
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Cluiche Ceannais
+newtab-sports-widget-delayed = Moill curtha leis
+newtab-sports-widget-postponed = Curtha ar athló
+newtab-sports-widget-suspended = Curtha ar fionraí
+newtab-sports-widget-cancelled = Curtha ar ceal
+newtab-sports-widget-information = Eolas faoin gcluiche
+newtab-sports-widget-no-live-data = Níl sonraí faoi na cluichíbeo á nuashonrú faoi láthair
+newtab-sports-widget-view-results-link = Féach ar na torthaí
+newtab-sports-widget-third-place = An Tríú hÁit

@@ -84,6 +84,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Wšě zhašeć
 ai-window-delete-all-memories-title = Wšě dopomnjeća zhašeć?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Eksistowace dopomnjeća so zhašeja. Jeli nochceće nowe dopomnjeća wutworić, wotstrońće hóčko před „Wukńće z…“ w nastajenjach { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Zhašeć
 ai-window-delete-all-memories-cancel = Přetorhnyć
 # Variables:

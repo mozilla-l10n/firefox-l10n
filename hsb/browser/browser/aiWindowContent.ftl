@@ -21,6 +21,8 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Něšto je so nimokuliło. Prošu spytajće hišće raz.
 smartwindow-assistant-error-budget-header = Sće dźensniši chatowy limit docpěł.
 smartwindow-assistant-error-account-header = Zo byšće { -smart-window-brand-name } wužiwał, dyrbiće so přizjewić.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } je tuchwilu wućežene. Prošu spytajće pozdźišo hišće raz.
+smartwindow-assistant-error-budget-body = Móžeće hišće w tutym woknje přehladować. Chat budźe zaso k dispoziciji być, hdyž so waš dnjowy limit wróćo staja.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serwerowy zmylk (HTTP { $status }). Spytajće prošu hišće raz.
