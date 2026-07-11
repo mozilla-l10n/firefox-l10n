@@ -403,6 +403,9 @@ quickactions-addons = Прикажи додатке
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = додаци, теме
+# Opens preferences page at AI controls
+quickactions-manageai = Управљај ВИ контролама
+quickactions-cmd-manageai = онемогући ВИ, искључи ВИ, управљај ВИ, onemogući VI, isključi VI, upravljaj VI, disable ai, off ai, manage ai
 quickactions-cmd-addons2 = додаци
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управљај обележивачима
@@ -458,6 +461,9 @@ quickactions-cmd-print = одштампај, штампај
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Сачувај страницу као PDF
 quickactions-cmd-savepdf2 = pdf, сачувај страницу
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Отвори ПДФ уређивач
+quickactions-cmd-editpdf = pdf, пдф
 # Opens a new private browsing window
 quickactions-private2 = Отвори приватни прозор
 quickactions-cmd-private = приватно прегледање
@@ -907,6 +913,96 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонзорисано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Питај
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Последњи пут сте посетили { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Последњи пут сте посетили пре { $daysAgo } дан
+        [few] Последњи пут сте посетили пре { $daysAgo } дана
+       *[other] Последњи пут сте посетили пре { $daysAgo } дана
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Последњи пут сте посетили пре { $weeksAgo } недеље
+        [few] Последњи пут сте посетили пре { $weeksAgo } недеље
+       *[other] Последњи пут сте посетили пре { $weeksAgo } недеља
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Последњи пут сте посетили пре { $monthsAgo } месец
+        [few] Последњи пут сте посетили пре { $monthsAgo } месеца
+       *[other] Последњи пут сте посетили пре { $monthsAgo } месеци
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Последњи пут сте посетили { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Забележено { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Последња посета { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Последња посета пре { $daysAgo } дан
+        [few] Последња посета пре { $daysAgo } дана
+       *[other] Последња посета пре { $daysAgo } дана
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Последња посета пре { $weeksAgo } недеље
+        [few] Последња посета пре { $weeksAgo } недеље
+       *[other] Последња посета пре { $weeksAgo } недеља
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Последња посета пре { $monthsAgo } месец
+        [few] Последња посета пре { $monthsAgo } месеца
+       *[other] Последња посета пре { $monthsAgo } месеци
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Последња посета { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

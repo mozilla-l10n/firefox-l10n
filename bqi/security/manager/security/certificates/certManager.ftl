@@ -46,3 +46,24 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = تاییڌ استسنا ٱمنیتی
     .accesskey = C
+exception-mgr-cert-location-url =
+    .value = جاگه:
+exception-mgr-cert-location-download =
+    .label = گرؽڌن گوواهی
+    .accesskey = G
+exception-mgr-cert-status-view-cert =
+    .label = نشووݩ داڌن…
+    .accesskey = V
+exception-mgr-permanent =
+    .label = زفت کردن دایومی استسنا
+    .accesskey = P
+
+## PKCS#12 file dialogs
+
+choose-p12-backup-file-dialog = نوم فایلی ک لادراری گرؽڌه ابۊ
+file-browse-pkcs12-spec = فایلا PKCS12
+choose-p12-restore-file-dialog = فایل گوواهی سی و من ٱووردن
+
+## Import certificate(s) file dialog
+
+file-browse-certificate-spec = فایلا گوواهی
