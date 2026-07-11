@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Приватне вікно
 appmenuitem-history =
     .label = Історія
+appmenuitem-tab-groups =
+    .label = Групи вкладок
 appmenuitem-downloads =
     .label = Завантаження
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Налаштувати панель інструментів…
+appmenu-abouttranslations =
+    .label = Перекласти…
 appmenu-developer-tools-subheader = Інструменти браузера
 appmenu-developer-tools-extensions =
     .label = Розширення для розробників

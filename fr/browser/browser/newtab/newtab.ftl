@@ -330,9 +330,9 @@ newtab-stocks-widget-title = Actions
 ##   $price (String) - the last price, e.g. "$559.44".
 
 # Stock increased (went up) during the day
-newtab-stocks-ticker-status-up = { $name }, jusqu’à { $change }, { $price }
+newtab-stocks-ticker-status-up = { $name }, a gagné { $change }, { $price }
 # Stock decreased (went down) during the day
-newtab-stocks-ticker-status-down = { $name }, en baisse de { $change }, { $price }
+newtab-stocks-ticker-status-down = { $name }, a perdu { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, pas de changement, { $change }, { $price }
 
