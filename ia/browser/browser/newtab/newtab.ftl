@@ -333,6 +333,8 @@ newtab-stocks-widget-title = Actiones
 newtab-stocks-ticker-status-up = { $name }, quotisation { $price }, in augmentation de { $change } hodie
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, quotisation { $price }, in diminution de { $change } hodie
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, quotisation { $price }, nulle cambiamento { $change } hodie
 
 ## Strings for the Picture of the Day widget
 
