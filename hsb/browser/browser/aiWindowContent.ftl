@@ -70,7 +70,7 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Hišće raz spytać
-smartwindow-nl-retry-message = Jeli hišće chceće rjatarki začinić. wubjerće <strong>Hišće raz spytać</strong> a čińće swój wuběr w karće, kotraž so wočinja.
+smartwindow-nl-retry-message = Jeli hišće chceće rajtarki začinić, wubjerće <strong>Hišće raz spytać</strong> a čińće swój wuběr w karće, kotraž so wočinja.
 smartwindow-nl-retry-group-tabs-message = Jeli hišće chceće rajtarki zeskupić, wubjerće <strong>Hišće raz spytać</strong> a potom, kotre so maja w karće zeskupić, kotraž so wočinja.
 smartwindow-nl-thinking = Pyta so za wotpowědnymi rajtarkami…
 smartwindow-loading-assistant-response =

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Powěsći chata { -smart-window-brand-name }
 
 ## Context chips in the chat content
 
@@ -18,6 +19,7 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Něco njejo se raźiło. Pšosym wopytajśo hyšći raz.
+smartwindow-assistant-error-budget-header = Sćo dojśpił źinsajšny limit chata.
 smartwindow-assistant-error-account-header = Aby { -smart-window-brand-name } wužywał, musyśo se pśizjawiś.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
@@ -44,6 +46,7 @@ aiwindow-copy-message =
 aiwindow-copy-table =
     .aria-label = Tabelu kopěrowaś
     .tooltiptext = Tabelu kopěrowaś
+aiwindow-table-scroll-indicator = Kulniśo, aby wěcej wiźeło
 aiwindow-thumbs-up =
     .aria-label = Pozitiwne měnjenje źěliś
     .tooltiptext = Pozitiwne měnjenje źěliś
@@ -57,10 +60,17 @@ aiwindow-applied-memories-list =
 aiwindow-delete-memory-button =
     .aria-label = { $summary } lašowaś
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Ku kóńcoju chata skócyś
+    .tooltiptext = Ku kóńcoju skócyś
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Hyšći raz wopytaś
+smartwindow-nl-retry-message = Jolic hyšći cośo rejtariki zacyniś, wubjeŕśo <strong>Hyšći raz wopytaś</strong> a cyńśo swój wuběrk w kórśe, kótaraž se wócynja.
 smartwindow-nl-thinking = Pyta se za wótpowědnymi rejtarikami…
 smartwindow-loading-assistant-response =
     .aria-label = Wótegrono asistenta se zacytajo

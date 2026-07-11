@@ -37,6 +37,11 @@ aiwindow-input-cta-menu-label-navigate = Անցնել կայք
 aiwindow-input-cta-menu-label-search = Որոնել { $searchEngineName }-ով
 aiwindow-input-cta-search-submenu-header = Որոնում
 
+## Website Chip
+
+aiwindow-website-chip-remove-button =
+    .aria-label = Հեռացնել
+
 ## These are labels describing model types in the smartbar model select.
 
 # Variables:
@@ -147,3 +152,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Ներդիրը փակվեց
+
+## Feedback modal
+
+aiwindow-feedback-reason-other = Այլ

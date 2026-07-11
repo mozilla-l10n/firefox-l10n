@@ -41,6 +41,9 @@ smart-window-model-custom-save =
 smart-window-model-custom-save-confirmation = Մոդելի մանրամասները պահպանված են: Սկսեք նոր զրույց՝ փորձարկելու համար:
 ai-window-manage-memories-button =
     .label = Կառավարել հիշողությունները
+ai-window-delete-all-memories-button =
+    .label = Ջնջել բոլորը
+ai-window-delete-all-memories-title = Ջնջե՞լ բոլոր հիշողությունները։
 ai-window-delete-all-memories-confirm = Ջնջել
 ai-window-delete-all-memories-cancel = Չեղարկել
 # Variables:

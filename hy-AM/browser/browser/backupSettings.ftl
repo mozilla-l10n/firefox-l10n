@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Միացնել պահուստավոր
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Ձեր ընտրած պահուստային թղթապանակի հետ խնդիր առաջացավ։ Ընտրեք այլ թղթապանակ և փորձեք կրկին։
+turn-on-scheduled-backups-error-default-dir-denied = Մենք չկարողացանք մուտք գործել ձեր պահուստային թղթապանակ։ Փորձեք ընտրել նոր տեղ։
 backup-error-file-system = { -brand-short-name } ֆայլի պահուստավորման ժամանակ ձեր ընտրած պահուստային թղթապանակի հետ կապված խնդիր առաջացավ։
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

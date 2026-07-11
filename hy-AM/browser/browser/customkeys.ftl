@@ -51,11 +51,45 @@ customkeys-category-navigation-2 =
 customkeys-key-invalid = Անվավեր
 customkeys-shortcut-unassigned =
     .placeholder = Ավելացնել դյուրանցում
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Դյուրանցում { $keyLabel }-ի համար
+customkeys-key-edit =
+    .aria-label = Խմբագրել
+    .tooltiptext = Խմբագրել
 customkeys-key-clear =
     .aria-label = Մաքրել
     .tooltiptext = Մաքրել
+customkeys-key-reset =
+    .aria-label = Վերականգնել
+    .tooltiptext = Վերականգնել
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Սեղմեք նոր ստեղնը՝
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Հեռացնե՞լ մեկ այլ դյուրանցումից:
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Այս բանալին արդեն օգտագործվում է «{ $conflict }»-ի կողմից։
+customkeys-conflict-confirm-button-confirm = Ամեն դեպքում օգտագործել
+customkeys-conflict-confirm-button-cancel = Չեղարկել
+customkeys-reset-all-confirm-title = Վերականգնե՞լ սկզբնադիրը:
+customkeys-reset-all-confirm-button-confirm = Վերականգնել սկզբնադիրները
+customkeys-reset-all-confirm-button-cancel = Չեղարկել
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Կողագոտի
+customkeys-title-heading =
+    .heading = Ստեղնաշարի դյուրանցումներ
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Որոնման դյուրանցումներ
+    .placeholder = Որոնման դյուրանցումներ
+customkeys-support-link-text = Իմանալ ավելին
+customkeys-reset-all-button = Վերականգնել սկզբնադիրները

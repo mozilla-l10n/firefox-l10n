@@ -16,6 +16,7 @@ smart-window-context-chips-tag-count =
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Ինչ-որ բան սխալ է գնացել։ Խնդրում ենք կրկին փորձել։
 smartwindow-retry-btn = Կրկին փորձել
 smartwindow-clear-btn = Նոր զրույց
 smartwindow-signin-btn = Մուտք գործել
@@ -46,3 +47,17 @@ aiwindow-delete-memory-button =
 
 smartwindow-nl-retry-tool-button =
     .label = Կրկնել
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-row-label = Փակված ներդիրներ
+smart-window-closed-and-restored-label = Փակված և վերականգնված ներդիրներ
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Ներդիրները փակվեցին, ապա վերականգնվեցին։
+       *[other] Ներդիրները փակվեցին, ապա վերականգնվեցին։
+    }
+smart-window-cancelled-label = Հարցումը չեղարկվել է։
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Խումբ
