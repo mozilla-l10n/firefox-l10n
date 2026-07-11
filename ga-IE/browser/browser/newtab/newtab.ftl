@@ -141,6 +141,14 @@ newtab-custom-settings = Bainistigh tuilleadh socruithe
 
 ## Firefox
 
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Grianghraf a ghlac <a data-l10n-name="name-link">{ $author_string }</a> ar an <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Cuir beagán datha leis
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## New Tab Weather
@@ -157,7 +165,17 @@ newtab-topic-label-home = Baile & Gairdín
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = Sábháil
+newtab-topic-selection-cancel-button = Cealaigh
 newtab-topic-selection-button-maybe-later = Ar ball, b'fhéidir
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Lean
+newtab-section-following-button = Á Leanúint
+newtab-section-unfollow-button = Ná lean
 
 ## Confirmation modal for blocking a section
 
@@ -165,10 +183,30 @@ newtab-section-block-cancel-button = Cealaigh
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-menu-button =
+    .aria-label = Roghanna an amadóra
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-pause-aria =
+    .aria-label = Cuir an t-amadóir ar sos
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] 1 nóiméad
+            [two] 2 nóiméad
+            [few] 3 nóiméad
+            [many] 7 nóiméad
+           *[other] 10 nóiméad
+        }
 newtab-widget-timer-decrease-min =
     .title = Laghdaigh 1 nóiméad
 newtab-widget-timer-increase-min =
     .title = Méadaigh 1 nóiméad
+newtab-widget-timer-mode-group =
+    .aria-label = Mód amadóra
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Cuir an t-amadóir i bhfolach
@@ -181,6 +219,7 @@ newtab-widget-timer-celebration-message-break = Réidh le díriú ar an obair?
 
 newtab-sports-widget-menu-follow-teams = Lean foirne
 newtab-sports-widget-menu-view-schedule = An Sceideal
+newtab-sports-widget-menu-view-upcoming = Féach a bhfuil ar na bacáin
 newtab-sports-widget-menu-view-results = Féach ar na torthaí
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Na príomhdhátaí
@@ -207,6 +246,9 @@ newtab-sports-widget-follow-teams-title =
 newtab-sports-widget-choose-wallpaper =
     .label = Roghnaigh páipéar balla
 newtab-sports-widget-skip = Léim Thar Seo
+newtab-sports-widget-search-country =
+    .aria-label = Cuardaigh tír
+    .placeholder = Cuardaigh tír
 newtab-sports-widget-cancel = Cealaigh
 newtab-sports-widget-back-button =
     .aria-label = Siar
@@ -216,6 +258,8 @@ newtab-sports-widget-back-button =
 newtab-sports-widget-team-name-eliminated = { $teamName } (díbeartha)
 newtab-sports-widget-view-all =
     .label = Taispeáin gach ceann
+newtab-sports-widget-show-less =
+    .label = Níos lú
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Foirne atá á leanúint, agus iadsan amháin
@@ -259,11 +303,16 @@ newtab-sports-widget-group-g = Grúpa G
 newtab-sports-widget-group-h = Grúpa H
 newtab-sports-widget-group-i = Grúpa I
 newtab-sports-widget-group-j = Grúpa J
+newtab-sports-widget-group-k = Grúpa K
+newtab-sports-widget-group-l = Grúpa L
 newtab-sports-widget-round-32 = An 32 deiridh
 newtab-sports-widget-round-16 = Ochtú ceannais
 newtab-sports-widget-quarter-finals = Ceathrú ceannais
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = BEO
+newtab-custom-widget-live-refresh =
+    .title = Athnuaigh na scóir
+    .aria-label = Athnuaigh na scóir
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Na príomhdhátaí
 newtab-sports-widget-upcoming = Ar na bacáin
@@ -274,6 +323,10 @@ newtab-sports-widget-semi-finals = Cluichí leathcheannais
 newtab-sports-widget-bronze-finals = Tríú hÁit
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Cluiche Ceannais
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } - { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
@@ -303,6 +356,12 @@ newtab-sports-widget-match-penalties = C. éirice
 newtab-sports-widget-pagination-previous =
     .title = Roimhe seo
     .aria-label = Roimhe seo
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .title = Cluiche beo { $index } de { $total }
+    .aria-label = Cluiche beo { $index } de { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -355,12 +414,25 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 
 newtab-sports-widget-team-name-label-bih =
     .label = An Bhoisnia agus an Heirseagaivéin
+newtab-sports-widget-team-name-label-civ =
+    .label = An Cósta Eabhair
+newtab-sports-widget-team-name-label-cod =
+    .label = PD an Chongó
+newtab-sports-widget-team-name-label-eng =
+    .label = Sasana
+newtab-sports-widget-team-name-label-sco =
+    .label = Albain
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Cuir tús le Corn an Domhain le páipéir balla nua
+newtab-sports-widget-message-wallpapers-body = Tabhair fuinneamh an chluiche mhóir chuig do bhrabhsálaí feadh an chomórtais.
+newtab-sports-widget-message-wallpapers-cta = Roghnaigh páipéar balla
 newtab-sports-widget-message-wallpapers-semifinals-title = Faigh páipéar balla nua do na cluichí leathcheannais
 newtab-sports-widget-message-wallpapers-semifinals-body = Cruthaigh atmaisféar do na cluichí is mó ag Corn an Domhain
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Cuir giuirléidí leis
 newtab-sports-widget-message-day-in-play-body = Lean Corn an Domhain, fan dírithe, rianaigh an t-am ar fud an domhain, agus tuilleadh.
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
@@ -376,6 +448,11 @@ newtab-sports-widget-message-survey-cta =
 
 # Context menu item: toggle the clock card off.
 newtab-clock-widget-menu-hide = Cuir an clog i bhfolach
+newtab-clock-widget-menu-learn-more = Tuilleadh eolais
+newtab-clock-widget-menu-edit = Cuir na cloig in eagar
+newtab-clock-widget-menu-switch-to-12h = Athraigh go formáid 12 uair an chloig
+newtab-clock-widget-menu-switch-to-24h = Athraigh go formáid 24 uair an chloig
+newtab-clock-widget-label-your-clocks = Na cloig atá agat
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -393,3 +470,5 @@ newtab-clock-widget-edit-item-with-nickname =
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
 newtab-clock-widget-search-no-results = Níl aon chluiche ar siúl
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Leasainm: { $nickname }

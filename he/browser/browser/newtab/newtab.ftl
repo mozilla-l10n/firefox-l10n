@@ -225,6 +225,30 @@ newtab-privacy-message-info-10 = שמירת ססמאות ב־{ -brand-short-name
 newtab-privacy-message-info-10-cta = מעבר לססמאות
 newtab-privacy-message-info-11 = אפשר לגלות איך { -brand-short-name } עוזר לשמור על פרטיות רבה יותר בזמן הגלישה.
 newtab-privacy-message-info-11-cta = מידע נוסף
+newtab-privacy-message-info-12 = חסימת רכיבי מעקב יכולה לסייע לחסוך רוחב פס בתוכניות גלישה מוגבלות.
+newtab-privacy-message-info-12-cta = הצגת הגנות
+newtab-privacy-message-info-13 = ‏{ -brand-short-name } חוסם רכיבי מעקב, ומפנה רוחב פס להזרמת תכנים חלקה יותר.
+newtab-privacy-message-info-13-cta = הצגת הגנות
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = אפשר לגלות האם המידע האישי שלך מופיע בדליפת נתונים.
+newtab-privacy-message-promo-monitor-1-cta = מידע נוסף
+newtab-privacy-message-promo-monitor-2 = ניתן להגן על המידע שלך בעזרת ניטור חינמי אחר דליפות נתונים, עבור עד 20 כתובות דוא״ל.
+newtab-privacy-message-promo-monitor-2-cta = מידע נוסף
+newtab-privacy-message-promo-signin-1 = ניתן לשמור על הסימניות, הססמאות והלשוניות שלך מוצפנות בכל המכשירים שלך באמצעות חשבון { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = כניסה
+newtab-privacy-message-promo-vpn-1 = עושה רכישות ברשתות Wi-Fi ציבוריות? כדאי להפעיל את ה־VPN המובנה לקבלת הגנה נוספת.
+newtab-privacy-message-promo-vpn-1-cta = פתיחת VPN
+newtab-privacy-message-promo-vpn-2 = גולשים ב־Wi-Fi של שדה התעופה? כדאי להגן על הגלישה שלך על־ידי הפעלת ה־VPN המובנה.
+newtab-privacy-message-promo-vpn-2-cta = פתיחת VPN
+newtab-privacy-message-promo-vpn-3 = ניתן להפעיל את ה־VPN המובנה כדי לשמור על המיקום שלך פרטי יותר.
+newtab-privacy-message-promo-vpn-3-cta = פתיחת VPN
+newtab-privacy-message-promo-private-window-1 = כדאי לנסות חלון פרטי כדי לגלוש בפרטיות רבה יותר בעת שימוש במחשב ציבורי.
+newtab-privacy-message-promo-private-window-1-cta = פתיחת חלון פרטי
 
 ## Strings for the Stocks widget
 
