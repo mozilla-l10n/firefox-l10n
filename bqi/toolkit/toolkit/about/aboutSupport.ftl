@@ -100,6 +100,8 @@ media-title = وارسگر
 media-device-name = نوم
 media-device-group = بونکۊ
 media-device-state = وولات
+media-device-format = قالوو
+media-device-channels = تورگه‌یل
 
 ## Codec support table
 
@@ -109,6 +111,11 @@ media-codec-support-lack-of-extension = پۊرنیڌن وردنی
 ##
 
 intl-app-title = سامووا برنومه
+intl-locales-available = جاگه یل من دسرس
+intl-locales-supported = برنومه یل مهلی
+intl-locales-default = جاگه یل پؽش فرز
+intl-os-title = سیستوم عامل
+intl-os-prefs-system-locales = سیستوما مهلی
 
 ## Remote Debugging
 ##
@@ -123,6 +130,7 @@ remote-debugging-url = نشۊوی اینترنتی
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+compositing = شؽوستن
 yes = هری
 no = ن
 unknown = نامعلۊم
@@ -135,7 +143,9 @@ found = جۊرست
 missing = ن دیاری
 gpu-description = توزیهات
 gpu-active = فعال
+webgl2-extensions = وردنی یل WebGL 2
 glcontext-crash-guard = OpenGL
+uses-tiling = و کار گرؽڌن Tiling
 sandbox-proc-type-content = موئتوا
 sandbox-proc-type-file = موئتوا فایل
 launcher-process-status-0 = فعال وابیڌه
@@ -157,6 +167,7 @@ policies-error = ختا
 
 ## Printing section
 
+support-printing-troubleshoot = عیو جۊری
 support-printing-prefs-name = نوم
 support-printing-prefs-value = مقدار
 
