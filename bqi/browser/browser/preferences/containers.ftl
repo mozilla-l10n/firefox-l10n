@@ -4,6 +4,8 @@
 
 containers-window-close =
     .key = w
+containers-icon-label2 =
+    .label = آیکون
 containers-color-label2 =
     .label = رنگ
 # This is a term to store style to be applied

@@ -237,6 +237,10 @@ onboarding-genai-sidebar-secondary-button = ناهاڌن پا گشتن
 onboarding-checklist-set-default = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
 onboarding-checklist-import = و من ٱووردن ز گشت گر پؽشی
 onboarding-checklist-extension = ازاف کردن ی وردنی
+onboarding-checklist-minimize =
+    .label = کۊچیر کردن
+onboarding-checklist-remove =
+    .label = پاک کردن نومگه واجۊری
 
 ## Tab Groups feature onboarding strings
 
