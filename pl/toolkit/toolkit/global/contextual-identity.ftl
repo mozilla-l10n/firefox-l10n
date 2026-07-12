@@ -27,6 +27,12 @@ user-context-none =
 user-context-manage-containers =
     .label = Zarządzaj kontenerami
     .accesskey = Z
+user-context-new-tab =
+    .label = Nowa karta
+    .accesskey = N
+user-context-add-container =
+    .label = Dodaj kontener
+    .accesskey = D
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

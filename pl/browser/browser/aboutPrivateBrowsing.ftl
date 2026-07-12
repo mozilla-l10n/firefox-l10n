@@ -78,3 +78,8 @@ about-private-browsing-cookie-banners-promo-body = Teraz automatycznie odrzucamy
 about-private-browsing-felt-privacy-v1-info-header = Nie zostawiaj śladów na tym urządzeniu
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } usuwa Twoje ciasteczka, historię i dane witryn po zamknięciu wszystkich prywatnych okien.
 about-private-browsing-felt-privacy-v1-info-link = Kto może zobaczyć co robię?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Zamknięcie wszystkich prywatnych okien spowoduje usunięcie ciasteczek, historii i danych witryn.
+about-private-browsing-nova-info-link = Kto nadal może widzieć co robię?

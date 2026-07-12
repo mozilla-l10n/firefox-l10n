@@ -29,6 +29,8 @@ ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a d
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz było bardziej prywatne.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród wielu położeń, aby miejsce, z którego przeglądasz było bardziej prywatne.
+ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród wielu położeń, aby ukryć miejsce, z którego przeglądasz Internet.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,6 +48,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Usuń VPN z paska narzędzi
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Usuń VPN z paska narzędzi
+ipprotection-feature-introduction-button-open-vpn = Otwórz VPN
 ipprotection-feature-introduction-button-get-started = Zacznij teraz
 
 ## Site settings callout
@@ -116,6 +119,11 @@ ipprotection-locations-subview-description = Wybierz inne położenie, z które
 ipprotecion-locations-subview-recommended-label = Zalecane
 ipprotection-locations-subview-recommended-description = Znajduje najszybsze położenie
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Niedostępne
+    .aria-label = Niedostępne, wyłączone
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Niedostępne
 ipprotection-locations-subview-promo =
     .heading = Jeszcze bardziej zwiększ ochronę dzięki { -mozilla-vpn-brand-name }
@@ -159,6 +167,7 @@ ipprotection-message-continuous-onboarding-intro = Włącz VPN, aby ukryć swoje
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ustaw włączanie VPN</a> za każdym razem, gdy otwierasz { -brand-short-name(case: "acc") }, aby zapewnić dodatkową warstwę ochrony.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } zapamięta, które witryny mają korzystać z VPN. W każdej chwili można je zmienić w <a data-l10n-name="setting-link">ustawieniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jest wyłączony na tej witrynie
+ipprotection-open-button = Otwórz { -brand-product-name(case: "acc") }
 ipprotection-connection-status-generic-error-title-1 = Nie można połączyć z siecią VPN
     .aria-label = Nie można połączyć z siecią VPN
 

@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Nie można uaktualnić — system jest niezgodny
 appmenuitem-banner-update-restart =
     .label = Aktualizacja jest dostępna — uruchom ponownie
+appmenu-nova-fxa-sign-in = Zaloguj się
 appmenuitem-new-tab =
     .label = Nowa karta
 appmenuitem-new-window =
@@ -207,6 +208,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-networking-label =
     .label = Sieć
+profiler-popup-presets-networking-with-logs-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }, wraz z dziennikami sieciowymi. Dzienniki te mogą zawierać prywatne informacje, takie jak adresy odwiedzanych stron.
 profiler-popup-presets-power-description = Ustawienie do badania błędów użycia energii w { -brand-shorter-name(case: "loc") } o niskim wpływie na wydajność.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

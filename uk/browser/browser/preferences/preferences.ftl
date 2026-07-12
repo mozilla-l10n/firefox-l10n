@@ -2455,6 +2455,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS через HTTPS
+dns-over-https-group2 =
+    .label = DNS через HTTPS
+    .description = Система доменних імен (DNS) через HTTPS шифрує запити про назви доменів, завдяки чому вашому інтернет-провайдеру та будь-кому іншому буде складніше дізнатися, які вебсайти ви збираєтеся відвідати.
 preferences-doh-description = Система доменних імен (DNS) через HTTPS надсилає ваш запит на доменне ім'я через зашифроване з'єднання, створюючи захищену DNS і ускладнюючи іншим користувачам можливість переглянути, до якого вебсайту ви збираєтеся отримати доступ.
 preferences-doh-description2 = Завдяки системі DNS через HTTPS ваші запити на доменне ім'я шифруються, ускладнюючи стороннім особам можливість перегляду, до якого вебсайту ви збираєтеся отримати доступ.
 # Variables:
@@ -2516,6 +2519,53 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
+preferences-ai-controls-description = У { -brand-short-name } у вас завжди є вибір, зокрема, чи використовувати функції, удосконалені за допомогою ШІ. Більше налаштувань – незабаром.
+preferences-ai-controls-block-ai-label = Блокувати вдосконалення ШІ
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Блокування означає, що ви не бачитимете нових і наявних вдосконалень ШІ у { -brand-short-name }, а також сповіщень про них. <a data-l10n-name="link">Дізнайтеся більше</a> про те, що включає це налаштування та як керувати традиційними функціями машинного навчання, як-от пошуковими пропозиціями та рекомендаціями.
+preferences-ai-controls-blocked-message =
+    .message = Нові та вже наявні вдосконалення ШІ типово заблоковані. Розблокувати окремі функції можна за допомогою налаштувань нижче.
+preferences-ai-controls-on-device-group =
+    .label = ШІ на пристрої
+    .description = Невеликі моделі ШІ, що завантажуються безпосередньо на ваш пристрій, якщо ви користуєтеся функцією. Такий підхід допомагає захистити вашу приватність.
+preferences-ai-controls-translations-control =
+    .label = Переклади
+    .description = Переглядайте вебсторінки бажаною мовою без жодних складнощів.
+preferences-ai-controls-translations-more-link = Більше налаштувань перекладів
+preferences-ai-controls-pdfjs-control =
+    .label = Альтернативний текст зображень у засобі перегляду файлів PDF { -brand-short-name }
+    .description = Коли ви додаєте зображення до файлів PDF, до них додаватимуться описи, щоб зробити їх доступними.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Пропозиції для груп вкладок
+    .description = Отримуйте пропозиції щодо назв груп та впорядковування ваших вкладок.
+preferences-ai-controls-key-points-control =
+    .label = Ключові тези під час перегляду посилань
+    .description = Переглядайте стислий виклад перед відкриттям посилання.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Постачальники чат-ботів з ШІ у бічній панелі
+    .description = Чат-бот буде під рукою під час перегляду. Вибирайте з-поміж Anthropic Claude, ChatGPT, Copilot, Google Gemini та Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Чат-бот у бічній панелі
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Доступно
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Увімкнено
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Заблоковано
+preferences-ai-controls-state-description-before = Що означають ці налаштування:
+preferences-ai-controls-state-description-available = <strong>Доступно:</strong> ви бачитимете функцію та зможете нею користуватися.
+preferences-ai-controls-state-description-enabled = <strong>Увімкнено:</strong> ви вибрали користуватися цією функцією.
+preferences-ai-controls-state-description-blocked = <strong>Заблоковано:</strong> ви не бачитимете цієї функції та не зможете нею користуватися. У випадку з ШІ на пристрої усі завантажені моделі будуть видалені.
+preferences-ai-controls-block-confirmation-heading = Блокувати вдосконалення ШІ?
+preferences-ai-controls-block-confirmation-description = Ви не бачитимете нових і наявних вдосконалень ШІ у { -brand-short-name }, а також сповіщень про них. У подальшому ви зможете розблокувати будь-яку функцію, якою захочете користуватися.
+preferences-ai-controls-block-confirmation-features-start = Що буде заблоковано:
 
 ## Enhanced Tracking Protection (ETP) status section
 
