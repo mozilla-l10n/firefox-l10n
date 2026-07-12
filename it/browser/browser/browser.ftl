@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Gestisci { -firefox-suggest-brand-n
 urlbar-result-menu-report-inaccurate-location2 = Segnala posizione non precisa
 urlbar-result-menu-show-less-frequently2 = Mostra meno frequentemente
 urlbar-result-menu-dont-show-weather-suggestions2 = Non mostrare suggerimenti sul meteo
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Ignora questo suggerimento
+    .accesskey = n
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Rimuovi dalla cronologia
+    .accesskey = c
 urlbar-result-menu-learn-more =
     .label = Ulteriori informazioni
     .accesskey = U
