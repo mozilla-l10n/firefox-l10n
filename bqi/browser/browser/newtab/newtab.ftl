@@ -740,6 +740,8 @@ newtab-widget-timer-running-break = اشکستن
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = بؽڌار کردن زمووݩ سنج
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = کار نشمینی بی
 
 ##
 
@@ -751,6 +753,8 @@ newtab-sports-widget-keep-tabs = جام جهۊوی ن وا ویر جمعی و د
 newtab-sports-widget-get-updates = ورۊ رسۊویا زنده موسابقات وو مووردا قلوه ن بگیرین.
 newtab-sports-widget-view-schedule =
     .label = نیشتن برنومه زمووی
+newtab-sports-widget-follow-teams =
+    .label = و دین کردن تیما
 newtab-sports-widget-choose-wallpaper =
     .label = پسند شؽوات زمینه
 newtab-sports-widget-skip = گوم زیڌن
