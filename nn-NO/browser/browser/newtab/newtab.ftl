@@ -208,7 +208,9 @@ newtab-privacy-message-info-7 = Sjå kva for nokre sporarar { -brand-short-name 
 newtab-privacy-message-info-7-cta = Vis vern
 newtab-privacy-message-info-8-cta = Les meir
 newtab-privacy-message-info-9-cta = Bruk som standard
+newtab-privacy-message-info-10 = Lagre passord i { -brand-short-name } for å bruke sterke, unike påloggingar overalt.
 newtab-privacy-message-info-10-cta = Gå til passord
+newtab-privacy-message-info-11 = Finn ut korleis { -brand-short-name } bidreg til å halde nettlesinga di meir privat.
 newtab-privacy-message-info-11-cta = Les meir
 newtab-privacy-message-info-12-cta = Vis vern
 newtab-privacy-message-info-13-cta = Vis vern
@@ -243,6 +245,8 @@ newtab-privacy-message-milestone-total-cta = Vis vern
 newtab-stocks-menu-search = Søk etter aksjesymbol
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Les meir
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Aksjar
 
 ## Strings for the Picture of the Day widget
 
