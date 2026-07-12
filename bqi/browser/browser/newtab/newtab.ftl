@@ -410,6 +410,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = ورزش
 newtab-custom-widget-privacy-toggle =
     .label = سیخومی
+newtab-custom-widget-stocks-toggle =
+    .label = سهام
 newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا
@@ -459,6 +461,10 @@ newtab-wallpaper-dark-green = ساوز تاریک
 
 ## Firefox
 
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = شؽوات و دست <a data-l10n-name="name-link">{ $author_string }</a> ری <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = رنگا شاڌ ن امتهووݩ کۊنین
 newtab-wallpaper-feature-highlight-button = فئمیم
 feature-highlight-wallpaper =
@@ -625,6 +631,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = تموم وابیڌه ({ $number })
+newtab-widget-lists-celebration-headline = کار خوو
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-edit = آلشت نومگه نوم
 newtab-widget-lists-menu-edit2 =
