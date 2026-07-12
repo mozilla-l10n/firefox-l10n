@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } گوزارشگر خراویا
 crashreporter-error-details-header = جۊزعیات:
 crashreporter-button-details = جۊزعیات…
 crashreporter-loading-details = هونی بار اونه…
+crashreporter-view-report-title = موئتوا گوزارش
 crashreporter-button-quit = و در زیڌن ز { -brand-short-name }
 crashreporter-button-restart = ره وندن دووارته { -brand-short-name }
 crashreporter-button-ok = خا
