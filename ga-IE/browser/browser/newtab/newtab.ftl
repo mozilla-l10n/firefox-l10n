@@ -83,10 +83,100 @@ home-prefs-choose-wallpaper-link2 =
     .label = Roghnaigh páipéar balla
 home-prefs-firefox-logo-header =
     .label = Lógó { -brand-short-name }
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option-srd =
+    .label =
+        { $num ->
+            [one] { $num } ró
+            [two] { $num } ró
+            [few] { $num } ró
+            [many] { $num } ró
+           *[other] { $num } ró
+        }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Eisínteacht ({ $extension })
+home-mode-choice-custom-srd =
+    .label = URLanna saincheaptha…
 home-mode-choice-blank-srd =
     .label = Leathanach Bán
+home-prefs-shortcuts-header-srd =
+    .label = Aicearraí
+home-prefs-shortcuts-select =
+    .aria-label = Aicearraí
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Aicearraí urraithe
+home-prefs-recommended-by-option-sponsored-stories-srd =
+    .label = Scéalta urraithe
+home-prefs-highlights-option-visited-pages-srd =
+    .label = Leathanaigh ar tugadh cuairt orthu
 home-prefs-highlights-options-bookmarks-srd =
     .label = Leabharmharcanna
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = An íoslódáil is déanaí
+home-prefs-recent-activity-header-srd =
+    .label = Gníomhaíocht is déanaí
+home-prefs-weather-header-srd =
+    .label = Aimsir
+home-prefs-support-firefox-header-srd =
+    .label = Tabhair tacaíocht do { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = Faigh amach conas
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Tuilleadh eolais
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] $count lorgaire blocáilte inniu
+        [two] $count lorgaire blocáilte inniu
+        [few] $count lorgaire blocáilte inniu
+        [many] $count lorgaire blocáilte inniu
+       *[other] $count lorgaire blocáilte inniu
+    }
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Tuilleadh eolais
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-signin-1-cta = Logáil isteach
+newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháideach
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Tuilleadh eolais
+
+## Strings for the Picture of the Day widget
+
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Taispeáin pictiúr an lae inniu
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Taispeáin pictiúr an lae inniu
+    .aria-label = Taispeáin pictiúr an lae inniu
 
 ## Search box component.
 
@@ -165,6 +255,12 @@ newtab-menu-section-tooltip =
 newtab-dismiss-button-tooltip =
     .title = Bain
     .aria-label = Bain
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Oscail roghchlár
+    .aria-label = Oscail roghchlár comhthéacs i gcomhair { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Cuir an suíomh seo in eagar
@@ -180,6 +276,26 @@ newtab-menu-pin = Pionnáil
 newtab-menu-unpin = Díphionnáil
 newtab-menu-delete-history = Scrios ón Stair
 newtab-menu-save-to-pocket = Sábháil in { -pocket-brand-name }
+newtab-menu-delete-pocket = Scrios ó { -pocket-brand-name } é
+newtab-menu-archive-pocket = Cuir sa chartlann in { -pocket-brand-name } é
+newtab-menu-show-privacy-info = Ár n-urraitheoirí agus do phríobháideacht
+newtab-menu-about-fakespot = Maidir le { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Déan Tuairisc
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Cuir bac air
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Ná lean
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Ná lean an topaic
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Déanta
+newtab-privacy-modal-header = Is rud tábhachtach é do phríobháideacht.
 
 ##
 
@@ -187,6 +303,17 @@ newtab-menu-save-to-pocket = Sábháil in { -pocket-brand-name }
 newtab-menu-remove-bookmark = Scrios an Leabharmharc
 # Bookmark is a verb here.
 newtab-menu-bookmark = Cruthaigh leabharmharc
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+newtab-menu-remove-download = Bain ón Stair é
+
+## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
+## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
+## system for each operating system.
+
+newtab-menu-open-file = Oscail Comhad
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -196,11 +323,17 @@ newtab-label-visited = Feicthe
 newtab-label-bookmarked = Leabharmharcáilte
 newtab-label-recommended = Treochtáil
 newtab-label-download = Íoslódáilte
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#   $sponsorOrSource (string) - The name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Urraithe
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-add-search-engine = Cuir Inneall Cuardaigh Leis
+newtab-section-menu-move-up = Bog Suas
+newtab-section-menu-move-down = Bog Síos
 
 ## Section Headers.
 
@@ -209,10 +342,15 @@ newtab-section-header-topsites = Barrshuímh
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Molta ag { $provider }
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Níl aon scéal eile ann!
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Topaicí i mbéal an phobail:
+newtab-pocket-more-recommendations = Tuilleadh Moltaí
 
 ## Customization Menu
 
