@@ -1311,7 +1311,7 @@ newtab-sports-widget-world-cup-champions = Zmagovalci svetovnega prvenstva 2026
 newtab-sports-widget-world-cup-champions-short = Prvaki 2026
 # Variables:
 #   $date (Date) - The match start time
-newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit", hourCycle: "h23") }
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit", hour12: "false") }
 newtab-sports-widget-match-full-time = Končni rezultat
 newtab-sports-widget-match-halftime = Polčas
 newtab-sports-widget-match-extra-time = Podaljški
