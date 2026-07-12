@@ -70,6 +70,10 @@ environment-variables-name = نوم
 environment-variables-value = مقدار
 experimental-features-name = نوم
 experimental-features-value = مقدار
+modified-prefs-name = نوم
+modified-prefs-value = مقدار
+locked-prefs-name = نوم
+locked-prefs-value = مقدار
 graphics-gpu1-title = پردازنده گرافیکی #1
 graphics-gpu2-title = پردازنده گرافیکی #2
 graphics-decision-log-title = گوزارش تسمیما
@@ -84,7 +88,15 @@ sandbox-sys-call-index = #
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-number = Syscall
+restart-in-troubleshoot-mode-label = هالت عیو جۊری…
 restart-button-label = ره وندن دووارته
+
+## Media titles
+
+media-title = وارسگر
+media-device-name = نوم
+media-device-group = بونکۊ
+media-device-state = وولات
 
 ## Codec support table
 
@@ -109,6 +121,8 @@ remote-debugging-url = نشۊوی اینترنتی
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 yes = هری
+no = ن
+unknown = نامعلۊم
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -116,8 +130,27 @@ yes = هری
 
 found = جۊرست
 missing = ن دیاری
+gpu-description = توزیهات
+gpu-active = فعال
 glcontext-crash-guard = OpenGL
+sandbox-proc-type-content = موئتوا
 sandbox-proc-type-file = موئتوا فایل
+launcher-process-status-0 = فعال وابیڌه
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+apz-none = هیچ
+
+## Strings representing the status of the Enterprise Policies engine.
+
+policies-inactive = قیر فعال
+policies-active = فعال
+policies-error = ختا
 
 ## Printing section
 

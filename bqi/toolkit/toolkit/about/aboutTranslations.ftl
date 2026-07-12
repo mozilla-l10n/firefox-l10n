@@ -3,3 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-translations-learn-more-link = قلوه دووسته بۊین
+about-translations-feature-blocked-unblock-button = ز مسدۊدی دراووردن
+about-translations-language-load-error-button = قپ ریت دووارته
+# Placeholder text shown in the target-language output area when no translation has occurred.
+about-translations-output-placeholder =
+    .placeholder = ولرنیڌن
+# A message displayed in the target-language output area while waiting for the translation to complete.
+about-translations-translating-message = ولرنیڌن هونی ٱنجوم ابۊ…
