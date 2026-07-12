@@ -291,3 +291,9 @@ aiwindow-feedback-include-page-content = 分享此聊天引用的页面
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = 切换视图布局
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = 切换模式：列表视图
+    .tooltiptext = 列表视图
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = 切换模式：网格视图
+    .tooltiptext = 网格视图

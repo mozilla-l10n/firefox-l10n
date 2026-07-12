@@ -664,6 +664,16 @@ newtab-widget-lists-name-placeholder-new2 =
     .placeholder = نومگه نۊ
     .aria-label = آلشت نومگه نوم
 newtab-widget-section-title = ویجتا
+newtab-widget-menu-change-size = آلشت هندا
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = جا گورو
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = چپ
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = راست
 newtab-widget-size-small = کۊچیر
 newtab-widget-size-medium = منجقا
 newtab-widget-size-large = گپ
@@ -671,9 +681,20 @@ newtab-widget-size-large = گپ
 newtab-widget-section-hide-all-button =
     .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
+newtab-widget-add-widgets-button =
+    .title = ٱووردن ویجت
+    .aria-label = ٱووردن ویجت
 newtab-widget-section-menu-manage = دؽوۉداری ویجتا
 newtab-widget-section-menu-hide-all = بؽڌار کردن ویجتا
 newtab-widget-section-menu-learn-more = قلوه دووسته بۊین
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = نشووݩ داڌن ویجتا قلوه
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = نشووݩ داڌن ویجتا کمتر
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -702,6 +723,16 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } دیقه
+           *[other] { $minutes } دیقه
+        }
+newtab-widget-timer-mode-group =
+    .aria-label = هالت زمووݩ سنج
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = فوکۊس
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -713,6 +744,7 @@ newtab-widget-timer-menu-hide = بؽڌار کردن زمووݩ سنج
 ##
 
 newtab-sports-widget-menu-view-schedule = نیشتن برنومه زمووی
+newtab-sports-widget-menu-view-results = نیشتن نتیجه یل
 newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = جام جهۊوی ن وا ویر جمعی و دین کۊنین
