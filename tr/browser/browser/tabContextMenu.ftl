@@ -144,6 +144,14 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } sekmeyi kapat
         }
     .accesskey = e
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Kapat
+            [one] { $tabCount } sekmeyi kapat
+           *[other] { $tabCount } sekmeyi kapat
+        }
+    .accesskey = K
 tab-context-move-tabs =
     .label =
         { $tabCount ->

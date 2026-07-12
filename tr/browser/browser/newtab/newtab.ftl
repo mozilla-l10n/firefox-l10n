@@ -166,6 +166,45 @@ home-prefs-mission-message-learn-more-link-srd = Nasıl mı?
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Daha fazla bilgi al
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-2-cta = Korumaları göster
+newtab-privacy-message-info-3-cta = Korumaları göster
+newtab-privacy-message-info-4-cta = Korumaları göster
+newtab-privacy-message-info-5-cta = Korumaları göster
+newtab-privacy-message-info-6-cta = Daha fazla bilgi al
+newtab-privacy-message-info-7-cta = Korumaları göster
+newtab-privacy-message-info-8-cta = Daha fazla bilgi alın
+newtab-privacy-message-info-9-cta = Varsayılan yap
+newtab-privacy-message-info-10-cta = Parolalara git
+newtab-privacy-message-info-11-cta = Daha fazla bilgi alın
+newtab-privacy-message-info-12-cta = Korumaları göster
+newtab-privacy-message-info-13-cta = Korumaları göster
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Daha fazla bilgi al
+newtab-privacy-message-promo-monitor-2-cta = Daha fazla bilgi al
+newtab-privacy-message-promo-signin-1-cta = Giriş yap
+newtab-privacy-message-promo-vpn-1-cta = VPN’i aç
+newtab-privacy-message-promo-vpn-2-cta = VPN’i aç
+newtab-privacy-message-promo-vpn-3-cta = VPN’i aç
+newtab-privacy-message-promo-private-window-1-cta = Gizli pencere aç
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Korumaları göster
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.

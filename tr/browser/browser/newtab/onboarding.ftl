@@ -601,3 +601,16 @@ onboarding-refresh-sync-title = İstediğin yere git, istediğin şeyi eşitle.
 onboarding-refresh-gratitude-subtitle = { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. { -brand-short-name }, kâr amacı gütmeyen bir kuruluşun geliştirdiği tek büyük tarayıcı. Desteğinizle interneti herkes için daha güvenli ve daha erişilebilir kılmaya çalışıyoruz.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Kabul et
+smartwindow-existing-user-fx-tou-go-back = Geri dön
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Devam et
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-dismiss = Hayır

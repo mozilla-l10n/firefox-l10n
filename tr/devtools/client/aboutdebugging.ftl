@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Hata ayrıntıları
 about-debugging-message-details-label-warning = Uyarı ayrıntıları
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Ayrıntılar
+about-debugging-sidebar =
+    .heading = Hata ayıklama

@@ -43,3 +43,11 @@ toolbox-always-on-top-enabled2 = Wyłącz wyświetlanie zawsze na wierzchu
     .title = Spowoduje to ponowne uruchomienie narzędzi dla programistów
 toolbox-always-on-top-disabled2 = Włącz wyświetlanie zawsze na wierzchu
     .title = Spowoduje to ponowne uruchomienie narzędzi dla programistów
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Dodaj do ustawień
+toolbox-local-mode-notice-try-it-button = Wypróbuj
+toolbox-local-mode-notice-navigate-to-existing-mapping = Przejdź do istniejącego mapowania
+toolbox-local-mode-notice-always-hide = Nie pokazuj ponownie

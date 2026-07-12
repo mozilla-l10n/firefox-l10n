@@ -137,12 +137,22 @@ aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan gün
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } her zaman { -smart-window-brand-name }de açılsın
 aiwindow-firstrun-default-checkbox-description = İstediğiniz zaman ayarlardan değiştirebilirsiniz
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Sor
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Anılar açık
+    .tooltiptext = Cevaplarda yardımcı olması için anıları kullan
+aiwindow-memories-off =
+    .aria-label = Anılar kapalı
+    .tooltiptext = Cevaplarda anıları kullanma
 
 ## New Chat Button
 
@@ -247,13 +257,27 @@ smartwindow-close-tab-callout-title = Sekme kapatıldı
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = { -smart-window-brand-name } varsayılan olarak ayarlansın mı?
+smart-window-default-promo-message = { -brand-short-name } her zaman { -smart-window-brand-name }de açılacaktır.
 smart-window-default-promo-primary-button = Varsayılan yap
 smart-window-default-promo-additional-button = Şimdi değil
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Görüş bildir
+aiwindow-feedback-choose-any = Uygun olanları seçin
 aiwindow-feedback-submit = Gönder
 aiwindow-feedback-cancel = Vazgeç
+aiwindow-feedback-reason-incorrect-or-misleading = Yanlış veya yanıltıcı
+aiwindow-feedback-reason-doesnt-address-my-request = İsteğimi karşılamıyor
+aiwindow-feedback-reason-performance-or-usability = Performans veya kullanılabilirlik sorunu
+aiwindow-feedback-reason-harmful-or-offensive = Zararlı veya saldırgan
 aiwindow-feedback-reason-other = Diğer
 aiwindow-feedback-preview-report = Sohbet ayrıntılarını göster
+aiwindow-feedback-preview-report-with-page = Sohbet ve sayfa ayrıntılarını göster
+aiwindow-feedback-include-page-content = Bu sohbette bahsedilen sayfaları paylaş
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Görünüm düzenini değiştir

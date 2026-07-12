@@ -2513,6 +2513,36 @@ preferences-doh-exceptions-description = { -brand-short-name } не викори
 preferences-doh-manage-exceptions =
     .label = Керувати винятками…
     .accesskey = н
+preferences-doh-overview-default =
+    .label = Типовий захист
+    .description = Використовується захищена DNS у регіонах, де вона доступна.
+preferences-doh-overview-custom =
+    .label = Власні налаштування
+    .description = Завжди використовується захищена DNS, а ви вибираєте провайдера та поведінку в разі збою.
+preferences-doh-overview-off =
+    .label = Вимкнено
+    .description = Використовується ваш типовий DNS-перетворювач.
+preferences-doh-advanced-button =
+    .label = Розширені налаштування
+preferences-doh-advanced-section =
+    .label = Розширені налаштування
+    .description = Система доменних імен (DNS) через HTTPS шифрує запити про назви доменів, завдяки чому вашому інтернет-провайдеру та будь-кому іншому буде складніше дізнатися, які вебсайти ви збираєтеся відвідати.
+preferences-doh-manage-exceptions2 =
+    .label = Керувати винятками
+    .accesskey = в
+preferences-doh-radio-default =
+    .label = Типово
+    .description = Використовується захищена DNS у регіонах, де вона доступна.
+preferences-doh-radio-custom =
+    .label = Власні налаштування
+    .description = Завжди використовується захищена DNS, а ви вибираєте провайдера та поведінку в разі збою.
+preferences-doh-status-item-off =
+    .message = DNS через HTTPS вимкнено
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS через HTTPS не працює, оскільки сталася помилка ({ $reason }) під час спроби використання провайдера { $name }
 
 ## The following strings are used in the Download section of settings
 
@@ -2566,6 +2596,16 @@ preferences-ai-controls-state-description-blocked = <strong>Заблокован
 preferences-ai-controls-block-confirmation-heading = Блокувати вдосконалення ШІ?
 preferences-ai-controls-block-confirmation-description = Ви не бачитимете нових і наявних вдосконалень ШІ у { -brand-short-name }, а також сповіщень про них. У подальшому ви зможете розблокувати будь-яку функцію, якою захочете користуватися.
 preferences-ai-controls-block-confirmation-features-start = Що буде заблоковано:
+preferences-ai-controls-block-confirmation-translations = Переклади
+preferences-ai-controls-block-confirmation-pdfjs = Альтернативний текст зображень у засобі перегляду файлів PDF { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Пропозиції для груп вкладок
+preferences-ai-controls-block-confirmation-key-points = Ключові тези під час перегляду посилань
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Постачальники чат-ботів у бічній панелі
+preferences-ai-controls-block-confirmation-features-after = Блокування також охоплює розширення, які використовують ШІ від { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Скасувати
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Заблокувати
 
 ## Enhanced Tracking Protection (ETP) status section
 

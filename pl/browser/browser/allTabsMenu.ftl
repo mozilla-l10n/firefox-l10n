@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Nowa karta w kontenerze
 all-tabs-menu-hidden-tabs =
     .label = Ukryte karty
+all-tabs-menu-close-duplicate-tabs =
+    .label = Zamknij podwójne karty
+all-tabs-menu-view-all-tabs =
+    .label = Pokaż wszystkie karty
 all-tabs-menu-manage-user-context =
     .label = Zarządzaj kontenerami
     .accesskey = Z
@@ -22,7 +26,10 @@ all-tabs-menu-recent-tab-groups-header = Ostatnie grupy kart
 all-tabs-menu-current-window-header = Bieżące okno
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
-    .label = Wyświetl wszystkie
+    .label = Pokaż wszystkie
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grupy kart
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Przeszukaj wszystkie karty

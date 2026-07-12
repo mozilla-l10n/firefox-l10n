@@ -264,9 +264,37 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Проширувањата и темите се како апликации за Вашиот прелистувач и Ви овозможуваат да ги
+    заштитите лозинките, да преземате видеа, да наоѓате зделки, да блокирате досадни реклами, да го менувате
+    изгледот на Вашиот прелистувач и многу повеќе. Овие мали софтверски програми
+    често се развиени од трета страна. Еве избор што { -brand-product-name } го
+    <a data-l10n-name="learn-more-trigger">препорачува</a> за исклучителна
+    безбедност, перформанси и функционалност.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Некои од овие препораки се персонализирани. Тие се базираат на други проширувања што сте ги инсталирале, преференции за профилот и статистика за користење.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Некои од овие препораки се персонализирани. Тие се базираат на други
+        проширувања што сте ги инсталирале, преференции за профилот и статистика за користење.
 discopane-notice-learn-more = Дознајте повеќе
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Вашите теми со бои беа отстранети
+    .message =
+        { -brand-product-name } ја надради колекцијата со бои. Ги отстранивме
+        старите верзии од Вашите „Снимени теми“. Земете нови верзии на
+        местото со додадоци.
 colorway-removal-notice-learn-more = Дознајте повеќе
+colorway-removal-notice-button = Земи ажурирани теми со бои
 privacy-policy = Политика за приватност
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = од <a data-l10n-name="author-name">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.

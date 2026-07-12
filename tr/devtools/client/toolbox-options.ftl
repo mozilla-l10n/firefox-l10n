@@ -76,6 +76,22 @@ options-webconsole-split-console-label = Ayrık konsolu etkinleştir
 options-webconsole-split-console-tooltip =
     .title = Ayrık konsolu Escape tuşuyla aç
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Ağ izleyicisi
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Sınırsız
+
+## Experimental section
+
+# The heading
+options-experimental-label = Deneysel özellikler
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Hata ayıklayıcıda stil dosyalarını göster
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stil sayfalarını hata ayıklayıcıda listele ve görüntüle
+
 ## Style Editor section
 
 # The heading

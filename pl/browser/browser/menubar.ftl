@@ -201,8 +201,8 @@ menu-view-close-readerview =
 ##
 
 menu-view-show-all-tabs =
-    .label = Wyświetl wszystkie karty
-    .accesskey = W
+    .label = Pokaż wszystkie karty
+    .accesskey = w
 menu-view-bidi-switch-page-direction =
     .label = Przełącz kierunek strony
     .accesskey = s

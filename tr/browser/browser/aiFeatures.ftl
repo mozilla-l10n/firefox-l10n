@@ -17,6 +17,12 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Varsayılan ayarlar
+ai-window-open-sidebar =
+    .label = Asistanı otomatik olarak aç
+    .description = Her yeni sekmede asistan kenar çubuğunu gösterir. İstediğiniz zaman kapatabilirsiniz.
+smart-window-model-section =
+    .label = Asistan modeli
+    .description = Önceliklerinize göre bir model seçin.
 smart-window-model-learn-link = Modeller hakkında bilgi alın
 
 ## Variables:

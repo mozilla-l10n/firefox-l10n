@@ -209,6 +209,8 @@ profiler-popup-presets-networking-description = Ustawienie do badania błędów 
 profiler-popup-presets-networking-label =
     .label = Sieć
 profiler-popup-presets-networking-with-logs-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }, wraz z dziennikami sieciowymi. Dzienniki te mogą zawierać prywatne informacje, takie jak adresy odwiedzanych stron.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Sieć z dziennikami
 profiler-popup-presets-power-description = Ustawienie do badania błędów użycia energii w { -brand-shorter-name(case: "loc") } o niskim wpływie na wydajność.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -286,6 +288,8 @@ appmenu-customizetoolbar =
     .label = Dostosuj pasek narzędzi…
 appmenu-abouttranslations =
     .label = Przetłumacz…
+appmenu-edit-pdf =
+    .label = Edytuj plik PDF…
 appmenu-developer-tools-subheader = Narzędzia przeglądarki
 appmenu-developer-tools-extensions =
     .label = Rozszerzenia dla twórców witryn
@@ -307,6 +311,10 @@ appmenu-services-header = Moje usługi
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Narzędzia ochrony prywatności
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Wypróbuj inne narzędzia ochrony od Mozilli:
 appmenu-other-protection-header = Wypróbuj inne narzędzia ochrony od { -vendor-short-name(case: "gen") }:
 
@@ -317,9 +325,18 @@ appmenu-manage-profiles =
     .label = Zarządzaj profilami
 appmenu-copy-profile =
     .label = Kopiuj ten profil
+appmenu-create-profile2 =
+    .label = Utwórz nowy profil
 appmenu-create-profile =
     .label = Nowy profil
 appmenu-edit-profile =
     .aria-label = Edytuj profil
+appmenu-edit-this-profile =
+    .label = Edytuj ten profil
+appmenu-profile-current-in-use = Obecnie używany profil
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Wszystkie profile
+appmenu-secure-sync-header = Bezpieczna synchronizacja
