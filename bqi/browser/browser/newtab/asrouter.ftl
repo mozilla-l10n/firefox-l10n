@@ -6,9 +6,12 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = وردنی پؽشنهاڌ بیڌه
+cfr-doorhanger-feature-heading = ویژیی پؽشنهاڌی
 
 ##
 
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = سیچه مو یونه ابینوم
 cfr-doorhanger-extension-cancel-button = سکو ن
     .accesskey = N
 cfr-doorhanger-extension-ok-button = سکو بیار
