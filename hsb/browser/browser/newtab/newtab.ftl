@@ -227,7 +227,9 @@ newtab-privacy-message-info-9 = Čińće { -brand-short-name } k swojemu standar
 newtab-privacy-message-info-9-cta = K standardej činić
 newtab-privacy-message-info-10 = Składujće hesła w { -brand-short-name }, zo byšće wšudźe mócne, jónkróćne přizjewjenja wužiwał.
 newtab-privacy-message-info-10-cta = K hesłam
+newtab-privacy-message-info-11 = Wuslědźće, kak { -brand-short-name } pomha, waše přehladowanje priwatniše dźeržeć.
 newtab-privacy-message-info-11-cta = Dalše informacije
+newtab-privacy-message-info-12 = Blokowanje přesćěhowakow móže pomhać, šěrokosć pasma za plany z wobmjezowanymi mnóstwom datow zalutować.
 newtab-privacy-message-info-12-cta = Škity pokazać
 newtab-privacy-message-info-13-cta = Škity pokazać
 

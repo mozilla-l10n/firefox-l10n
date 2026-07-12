@@ -306,6 +306,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ანგარიშზე შესვლა
+appmenuitem-monitor-title2 = აღკვეთეთ ვინაობის მონაცემთა მითვისება
 appmenuitem-monitor-description2 = შეიტყვეთ მონაცემთა მიტაცების შესახებ
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = მიიღეთ ცნობები მონაცემთა მიტაცებისას

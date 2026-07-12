@@ -191,6 +191,9 @@ windows-launch-on-login =
     .label = Automatyczne otwieranie { -brand-short-name(case: "gen") } po włączeniu komputera
     .accesskey = A
 windows-launch-on-login-disabled = Ta preferencja została wyłączona w systemie Windows. Aby ją zmienić, przejdź do <a data-l10n-name="startup-link">Autostartu</a> w ustawieniach systemu.
+windows-launch-on-login-open-new-tab =
+    .label = Otwieranie także nowej karty
+    .accesskey = O
 windows-launch-on-login-profile-disabled = Włącz tę preferencję, zaznaczając opcję „{ profile-manager-use-selected.label }” w oknie „Wybierz profil użytkownika”.
 startup-restore-warn-on-quit =
     .label = Ostrzeganie przy zamykaniu przeglądarki
@@ -832,9 +835,9 @@ performance-default-content-process-count =
 performance-group =
     .label = Wydajność
 performance-use-recommended-settings-checkbox-2 =
-    .label = Zalecane ustawienia wydajności.
-    .description = Ustawienia te są specjalnie dostosowane do tego sprzętu i systemu operacyjnego.
+    .label = Zalecane ustawienia wydajności
     .accesskey = w
+    .description = Ustawienia te są specjalnie dostosowane do tego sprzętu i systemu operacyjnego.
 
 ## Accessibility page
 
@@ -869,6 +872,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Rozpoczynaj wyszukiwanie podczas wpisywania tekstu
     .accesskey = R
+settings-keyboard-shortcuts-group =
+    .label = Skróty klawiaturowe
+    .description = Można zmieniać sposób poruszania się po { -brand-short-name(case: "loc") }.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Dostosuj skróty klawiaturowe
 settings-media-group =
     .label = Multimedia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1279,6 +1287,14 @@ containers-settings-button =
     .label = Ustawienia
 containers-remove-button =
     .label = Usuń
+containers-section-header2 =
+    .heading = Ustawienia kontenerów
+containers-card-header2 =
+    .label = Kontenery
+    .description = Rozdzielaj ciasteczka w kontenerach, dzięki czemu można korzystać z różnych kont na tej samej witrynie i ograniczyć śledzenie między witrynami.
+containers-add-button2 =
+    .label = Dodaj kontener
+    .accesskey = D
 
 ## Account and sync
 

@@ -626,3 +626,4 @@ smartwindow-sidebar-auto-open-callout-accept = Haj, začinjeny wostajić
 smartwindow-sidebar-auto-open-callout-dismiss = Ně, dźakuju so
 smartwindow-sidebar-auto-open-callout-accepted-title = Asistent začinjeny wostawa.
 smartwindow-sidebar-auto-open-callout-rejected-title = Sym zrozumił
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jeli swoje měnjenje měnjeće, móžeće kóždy čas standard w <a data-l10n-name="settings">nastajenjach</a> aktualizować.

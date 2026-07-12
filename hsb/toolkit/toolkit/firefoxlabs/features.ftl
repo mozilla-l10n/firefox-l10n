@@ -99,3 +99,6 @@ experimental-features-semantic-history-search-description = Wužiwajće lokalny 
 experimental-features-tab-notes =
     .label = Noticy rajtarkow
 experimental-features-tab-notes-description = Noticy rajtarkow su eksperimentelna funkcija, kotraž wam zmóžnja, lěpjate noticy wašim rajtarkam wobhladowaka přidać. Notěrujće kontekst, dopomnjeća abo přichodne kroki, zo byšće móhł so wróćić a sej spomjatkować, čehodla sće jón wočinił. Bychmy so nad wašim měnjenjom wjeselili, dokelž chcemy tutu funkciju polěpšić. <a data-l10n-name="connect">Měnjenje zdźělić</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Optimowany meni rajtarkow

@@ -211,6 +211,7 @@ newtab-privacy-message-info-3 = Mange nettstadar har sporingsverktøy slik at se
 newtab-privacy-message-info-3-cta = Vis vern
 newtab-privacy-message-info-4 = Å velje { -brand-short-name } betyr å velje vern som standard.
 newtab-privacy-message-info-4-cta = Vis vern
+newtab-privacy-message-info-5 = Blokkerte sporarar tyder færre selskap kan følgje deg på tvers av nettstadar.
 newtab-privacy-message-info-5-cta = Vis vern
 newtab-privacy-message-info-6-cta = Les meir
 newtab-privacy-message-info-7 = Sjå kva for nokre sporarar { -brand-short-name } blokkerte.
