@@ -411,6 +411,11 @@ launch-on-login-infobar-final-reject-button = Ne, děkuji
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Chcete otevřít { -brand-short-name(case: "acc") } při příštím spuštění počítače?
+       *[no-cases] Chcete otevřít aplikaci { -brand-short-name } při příštím spuštění počítače?
+    }
 launch-on-login-spotlight-startup-checkbox =
     { -brand-short-name.case-status ->
         [with-cases] Spouštět { -brand-short-name(case: "acc") } při startu
