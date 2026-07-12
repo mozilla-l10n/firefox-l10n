@@ -168,6 +168,8 @@ newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháid
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Tuilleadh eolais
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Stoic
 
 ## Strings for the Picture of the Day widget
 
@@ -288,6 +290,8 @@ newtab-menu-section-block = Cuir bac air
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Ná lean
+# Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
+newtab-menu-section-learn-more = Tuilleadh eolais
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ná lean an topaic
@@ -351,18 +355,65 @@ newtab-discovery-empty-section-topstories-header = Níl aon scéal eile ann!
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Topaicí i mbéal an phobail:
 newtab-pocket-more-recommendations = Tuilleadh Moltaí
+newtab-pocket-cta-button = Faigh { -pocket-brand-name }
+newtab-pocket-save = Sábháil
+newtab-pocket-saved = Sábháilte
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Aicearraí
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
+newtab-custom-shortcuts-toggle =
+    .label = Aicearraí
+    .description = Suímh a shábháil tú nó a thugann tú cuairt orthu
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ró
+        [two] { $num } ró
+        [few] { $num } ró
+        [many] { $num } ró
+       *[other] { $num } ró
+    }
+newtab-custom-widget-weather-toggle =
+    .label = Aimsir
+newtab-custom-widget-lists-toggle =
+    .label = Liostaí
+newtab-custom-widget-timer-toggle =
+    .label = Amadóir
 newtab-custom-widget-sports-toggle =
-    .label = An Corn Domhanda
+    .label = Corn an Domhain
 newtab-custom-widget-clock-toggle =
     .label = Clog
 newtab-custom-widget-sports-toggle2 =
     .label = Spóirt
+newtab-custom-widget-privacy-toggle =
+    .label = Príobháideacht
 newtab-custom-widget-picture-toggle =
     .label = Pictiúr an lae
+newtab-widget-manage-title = Giuirléidí
+newtab-widget-manage-widget-button =
+    .label = Bainistigh giuirléidí
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Dún
+    .aria-label = Dún an roghchlár
 newtab-custom-settings = Bainistigh tuilleadh socruithe
+
+## New Tab Wallpapers
+
+newtab-wallpaper-toggle-title =
+    .label = Páipéir balla
+newtab-wallpaper-dark-city = Tírdhreach cathrach corcra
+
+## Solid Colors
+
+newtab-wallpaper-colors = Dathanna
+newtab-wallpaper-orange = Oráiste
+newtab-wallpaper-pink = Bándearg
+newtab-wallpaper-light-pink = Bándearg éadrom
+newtab-wallpaper-red = Dearg
 
 ## Firefox
 
@@ -371,6 +422,7 @@ newtab-custom-settings = Bainistigh tuilleadh socruithe
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Grianghraf a ghlac <a data-l10n-name="name-link">{ $author_string }</a> ar an <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Cuir beagán datha leis
+newtab-wallpaper-feature-highlight-button = Tuigim
 
 ## Firefox
 
@@ -378,6 +430,21 @@ newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## New Tab Weather
 
+newtab-weather-todays-forecast = Réamhaisnéis an lae inniu
+newtab-weather-see-full-forecast = Féach an réamhaisnéis iomlán
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simplí
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Athraigh go Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Athraigh go Celsius
+newtab-weather-menu-hide-weather = Folaigh an aimsir ar an gCluaisín Nua
+newtab-weather-opt-in-not-now =
+    .label = Ní anois
+newtab-weather-opt-in-yes =
+    .label = Tá
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Cathair Nua-Eabhrac
 
@@ -390,6 +457,9 @@ newtab-topic-label-home = Baile & Gairdín
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Roghnaigh topaicí chun do fotha a choigeartú
 newtab-topic-selection-save-button = Sábháil
 newtab-topic-selection-cancel-button = Cealaigh
 newtab-topic-selection-button-maybe-later = Ar ball, b'fhéidir
@@ -402,9 +472,35 @@ newtab-section-follow-button = Lean
 newtab-section-following-button = Á Leanúint
 newtab-section-unfollow-button = Ná lean
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-block-button = Cuir bac air
+newtab-section-blocked-button = Bactha
+
 ## Confirmation modal for blocking a section
 
+newtab-section-cancel-button = Ní anois
 newtab-section-block-cancel-button = Cealaigh
+
+## Strings for custom wallpaper highlight
+
+newtab-section-mangage-topics-title = Topaicí
+newtab-custom-wallpaper-cta = Bain triail as
+
+## Strings for reporting issues with ads and content
+
+newtab-report-ads-reason-not-interested =
+    .label = Níl suim agam
+newtab-report-ads-reason-inappropriate =
+    .label = Tá sé míchuí
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Chonaic mé rómhinic é
+newtab-report-content-wrong-category =
+    .label = Catagóir mhícheart
+newtab-report-content-outdated =
+    .label = As dáta
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
