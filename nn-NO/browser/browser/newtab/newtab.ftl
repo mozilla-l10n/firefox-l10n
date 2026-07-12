@@ -226,7 +226,9 @@ newtab-privacy-message-promo-signin-1-cta = Logg inn
 newtab-privacy-message-promo-vpn-1-cta = Opne VPN
 newtab-privacy-message-promo-vpn-2-cta = Opne VPN
 newtab-privacy-message-promo-vpn-3-cta = Opne VPN
+newtab-privacy-message-promo-private-window-1-cta = Opne privat vindauge
 newtab-privacy-message-promo-relay-1-cta = Få e-postalias
+newtab-privacy-message-promo-relay-2-cta = Få e-postalias
 newtab-privacy-message-promo-relay-3-cta = Få e-postalias
 
 ## Privacy widget — celebration messages
@@ -251,6 +253,19 @@ newtab-stocks-menu-learn-more = Les meir
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Aksjar
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, opp { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, inga endring, { $change }, { $price }
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -266,6 +281,16 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Vis { $license }-lisensen
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Innstillingar for «Dagens bilde»
+    .aria-label = Innstillingar for «Dagens bilde»
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

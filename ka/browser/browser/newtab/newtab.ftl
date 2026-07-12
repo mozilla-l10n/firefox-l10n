@@ -93,6 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = საათი
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = პირადულობა
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = აქციები
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = დღის სურათი
 home-prefs-mission-message2 =
     .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
 home-prefs-manage-topics-link2 =
@@ -151,6 +160,79 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = თანადგომა – { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = იხილეთ, როგორ
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = ვრცლად
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] შეზღუდული მეთვალყურეები დღეს
+       *[other] შეზღუდული მეთვალყურეები დღეს
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] { $count } საიტზე
+       *[other] { $count } საიტზე
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } ზღუდავს მეთვალყურეებს გვერდების თვალიერებისას. მათ ჩამონათვალს იხილავთ აქ.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } თავისთავად ზღუდავს მეთვალყურეებს გვერდების თვალიერებისას.
+newtab-privacy-message-info-1-cta = დაცვის შესახებ
+newtab-privacy-message-info-2-cta = დაცვის შესახებ
+newtab-privacy-message-info-3-cta = დაცვის შესახებ
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = ვრცლად
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = დღის სურათი · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = ფონის დაყენება
+    .title = ფონის დაყენება
+    .aria-label = დააყენეთ ფონად დღის სურათი
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = ფონის მართვა
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = დღის სურათის დამალვა
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = დღის სურათის ჩვენება
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = ვრცლად
 
 ## Search box component.
 
