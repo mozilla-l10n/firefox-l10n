@@ -246,7 +246,7 @@ newtab-topsites-clear-input =
 newtab-topsites-cancel-button = لقو
 newtab-topsites-delete-history-button = پاک کردن ز ویرگار
 newtab-topsites-save-button = زفت
-newtab-topsites-preview-button = پؽش نیر
+newtab-topsites-preview-button = پؽش نشووݩ
 newtab-topsites-add-button = ٱووردن
 
 ## Top Sites - Delete history confirmation dialog.

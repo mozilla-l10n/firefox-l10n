@@ -98,13 +98,16 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Witajće k { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Što je wam wažne?
+aiwindow-firstrun-model-subtitle = Wubjerće model, zo byšće { -smart-window-brand-name } wužiwał. Móžeće jón kóždy čas změnić.
 aiwindow-firstrun-model-fast-label = Spěšny
 aiwindow-firstrun-model-fast-body = Wotmołwja spěšnje
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = Model { $model } wot { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibelny
+aiwindow-firstrun-model-allpurpose-body = Přihódny za najwjace potrěbnosćow
 aiwindow-firstrun-model-personal-label = Wosobinski
+aiwindow-firstrun-model-personal-body = Najlěpje přiměrjene wotmołwy
 aiwindow-firstrun-button = Započńmy
 aiwindow-firstrun-back-button = Wróćo
 aiwindow-firstrun-next-button = Dale
@@ -128,6 +131,7 @@ aiwindow-input-model-select-settings-link = Modelowe nastajenja
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Wjace wužitnych wotmołwow, k wašim wuměnjenjam
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } móže z wašich chatow, přehladowanja abo wobeju wuknyć, zo by dopomnjeća wutworiło. Přez to budu wotmołwy počasu pomocliwiše.
 aiwindow-firstrun-memories-relevance-title = Wjace relewantnych wotmołwow
 aiwindow-firstrun-memories-privacy-title = Priwatny po designje
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }

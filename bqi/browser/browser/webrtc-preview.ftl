@@ -2,5 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-webrtc-share-preview-button-show = نشووݩ داڌن پؽش نیر
-webrtc-share-preview-button-hide = بؽڌار کردن پؽش نیر
+webrtc-share-preview-button-show = نشووݩ داڌن پؽش نشووݩ
+webrtc-share-preview-button-hide = بؽڌار کردن پؽش نشووݩ
