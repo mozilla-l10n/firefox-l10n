@@ -8,18 +8,81 @@
 newtab-page-title = Cluaisín Nua
 newtab-settings-button =
     .title = Saincheap an Leathanach do Chluaisín Nua
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
+newtab-customize-panel-icon-button =
+    .title = Saincheap an leathanach seo
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
+newtab-customize-panel-icon-button-label = Cur in Oiriúint é
+newtab-customize-panel-label =
+    .label = Cur in Oiriúint é
+newtab-personalize-settings-icon-label =
+    .title = Cluaisín Nua a chur in Oiriúint
+    .aria-label = Socruithe
+newtab-settings-dialog-label =
+    .aria-label = Socruithe
+newtab-personalize-icon-label =
+    .title = Cuir an chluaisín nua in oiriúint duit féin
+    .aria-label = Cuir an chluaisín nua in oiriúint duit féin
+newtab-personalize-dialog-label =
+    .aria-label = Cuir in oiriúint duit féin é
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Ruaig
+    .aria-label = Ruaig
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Leathanach Baile
+home-homepage-new-windows =
+    .label = Fuinneoga nua
 home-homepage-new-tabs =
     .label = Cluaisíní nua
 
+## Custom URLs subpage
+
+home-custom-homepage-address =
+    .placeholder = Cuir isteach seoladh
+home-custom-homepage-address-button =
+    .label = Cuir seoladh leis
+
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Cuardach
+home-prefs-widgets-header =
+    .label = Giuirléidí
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Liostaí
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Amadóir
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Spóirt
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Clog
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Príobháideacht
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Stoic
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Pictiúr an lae
+home-prefs-manage-topics-link2 =
+    .label = Bainistigh topaicí
+home-prefs-choose-wallpaper-link2 =
+    .label = Roghnaigh páipéar balla
+home-prefs-firefox-logo-header =
+    .label = Lógó { -brand-short-name }
 home-mode-choice-blank-srd =
     .label = Leathanach Bán
 home-prefs-highlights-options-bookmarks-srd =
@@ -29,8 +92,8 @@ home-prefs-highlights-options-bookmarks-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cuardach
-    .aria-label = Cuardach
+    .title = Cuardaigh
+    .aria-label = Cuardaigh
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cuardaigh le { $engine } nó cuir isteach seoladh
@@ -53,7 +116,13 @@ newtab-search-box-input =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Cuir Inneall Cuardaigh Leis
+newtab-topsites-add-shortcut-header = Aicearra Nua
 newtab-topsites-edit-topsites-header = Cuir an Barrshuíomh in Eagar
+newtab-topsites-edit-shortcut-header = Cuir an tAicearra in Eagar
+newtab-topsites-add-shortcut-label = Cuir Aicearra leis
+newtab-topsites-add-shortcut-title =
+    .title = Cuir Aicearra leis
+    .aria-label = Cuir Aicearra leis
 newtab-topsites-title-label = Teideal
 newtab-topsites-title-input =
     .placeholder = Cuir teideal isteach
@@ -61,6 +130,12 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
 newtab-topsites-url-validation = URL neamhbhailí
+newtab-topsites-image-validation = Theip ar an íomhá lódáil. Bain triail as URL eile.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Glan an téacs
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -76,8 +151,20 @@ newtab-confirm-delete-history-p1 = An bhfuil tú cinnte gur mhaith leat an leath
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ní féidir an gníomh seo a chur ar ceal.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Urraithe
+
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Oscail roghchlár
+    .aria-label = Oscail roghchlár
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Bain
+    .aria-label = Bain
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Cuir an suíomh seo in eagar
