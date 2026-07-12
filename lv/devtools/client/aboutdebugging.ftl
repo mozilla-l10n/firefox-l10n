@@ -104,3 +104,5 @@ about-debugging-tmp-extension-remove-button = Noņemt
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Atrašanās vieta
+about-debugging-sidebar =
+    .heading = Atkļūdošana
