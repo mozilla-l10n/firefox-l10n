@@ -108,8 +108,15 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Zamknij wiele kart
     .accesskey = w
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Zamknij wiele
+    .accesskey = w
 tab-context-close-duplicate-tabs =
     .label = Zamknij podwójne karty
+    .accesskey = d
+tab-context-close-duplicate-tabs2 =
+    .label = Zamknij duplikaty tej karty
     .accesskey = d
 tab-context-share-url =
     .label = Udostępnij
@@ -144,6 +151,15 @@ tab-context-close-n-tabs =
            *[many] Zamknij { $tabCount } kart
         }
     .accesskey = Z
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Zamknij
+            [one] Zamknij
+            [few] Zamknij { $tabCount } karty
+           *[many] Zamknij { $tabCount } kart
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -151,6 +167,20 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Przenieś kartę do
+            [one] Przenieś kartę do
+            [few] Przenieś { $tabCount } karty do
+           *[many] Przenieś { $tabCount } kart do
+        }
+    .accesskey = r
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Przenieś podzielony widok do
+    .accesskey = P
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -159,6 +189,9 @@ tab-context-send-to-device =
             [few] Wyślij { $tabCount } karty na urządzenie
            *[many] Wyślij { $tabCount } kart na urządzenie
         }
+    .accesskey = W
+tab-context-send-to-device2 =
+    .label = Wyślij na urządzenia
     .accesskey = W
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -189,3 +222,7 @@ tab-context-unload-n-tabs =
            *[many] Uśpij { $tabCount } kart
         }
     .accesskey = i
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Uśpij
+    .accesskey = U

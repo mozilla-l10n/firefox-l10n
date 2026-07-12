@@ -23,6 +23,9 @@ customkeys-history-reopen-window = Przywróć ostatnie zamknięte okno
 customkeys-sidebar-toggle = Przełącz panel boczny
 customkeys-view-bookmarks-toolbar = Przełącz pasek zakładek
 customkeys-view-picture-in-picture = Obraz w obrazie
+customkeys-view-add-split-view = Wyświetl w podzielonym widoku
+# Separate is a verb
+customkeys-view-separate-split-view = Rozdziel widok
 customkeys-dev-tools = Narzędzia dla twórców witryn
 customkeys-dev-inspector = Inspektor DOM i stylów
 customkeys-dev-webconsole = Konsola WWW
@@ -59,11 +62,38 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Ta funkcja jest eksperymentalna i może nie działać zgodnie z oczekiwaniami.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nieprawidłowy
+customkeys-shortcut-unassigned =
+    .placeholder = Dodaj skrót
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Skrót do: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Edytuj
+    .tooltiptext = Edytuj
 customkeys-key-clear =
     .aria-label = Wyczyść
     .tooltiptext = Wyczyść
+customkeys-key-reset =
+    .aria-label = Przywróć
+    .tooltiptext = Przywróć
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Naciśnij nowy klawisz:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Anuluj
+customkeys-reset-all-confirm-button-confirm = Przywróć domyślne
+customkeys-reset-all-confirm-button-cancel = Anuluj
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Panel boczny
+customkeys-title-heading =
+    .heading = Skróty klawiaturowe
+customkeys-description = Można zmieniać sposób poruszania się po { -brand-short-name(case: "loc") }.
+customkeys-support-link-text = Więcej informacji
+customkeys-reset-all-button = Przywróć domyślne
