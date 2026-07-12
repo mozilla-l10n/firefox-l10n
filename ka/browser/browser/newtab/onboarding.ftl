@@ -449,6 +449,10 @@ onboarding-checklist-pin = მიამაგრეთ { -brand-short-name } ა
 onboarding-checklist-import = გადმოტანა წინა ბრაუზერიდან
 onboarding-checklist-extension = გაფართოების დამატება
 onboarding-checklist-sign-up = შექმენით ან შედით ანგარიშზე
+onboarding-checklist-minimize =
+    .label = ჩაკეცვა
+onboarding-checklist-remove =
+    .label = შესასრულებელი სიის მოცილება
 
 ## Tab Groups feature onboarding strings
 
@@ -597,3 +601,32 @@ onboarding-refresh-sync-title = წადით, სადაც გინდა
 onboarding-refresh-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name }, მოწინავეთაგან ერთადერთი არამომგებიანი ბრაუზერი. თქვენი მხარდაჭერით ვცდილობთ ინტერნეტი გავხადოთ მეტად უსაფრთხო და საყოველთაოდ ხელმისაწვდომი.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } თქვენს გვერდშია
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = ნებისმიერ დროს გადაერთეთ გონიერსა და ჩვეულ ფანჯრებს შორის.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = გამოყენების პირობები, რომელთაც ადგენს { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = რომ გამოიყენოთ { -smart-window-brand-name }, გთხოვთ მიიღოთ <a data-l10n-name="terms_of_use">გამოყენების პირობები</a> და <a data-l10n-name="privacy_notice">პირადულობის განაცხადი</a>.
+smartwindow-existing-user-fx-tou-accept = მიღება
+smartwindow-existing-user-fx-tou-go-back = უკან დაბრუნება
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = განაგრძეთ
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } და მისი თილისმა (Kit) ვარსკვლავიანი ნიშნებით
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = გსურთ თანაშემწე დარჩეს დახურული ?
+smartwindow-sidebar-auto-open-callout-body = მისი გახსნა კვლავ შეგეძლებათ, როცა დაგჭირდებათ.
+smartwindow-sidebar-auto-open-callout-accept = დიახ, დარჩეს დახურული
+smartwindow-sidebar-auto-open-callout-dismiss = არა, გმადლობთ
+smartwindow-sidebar-auto-open-callout-accepted-title = თანაშემწე დახურული დარჩება
+smartwindow-sidebar-auto-open-callout-rejected-title = გასაგებია
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = თუ გადაიფიქრებთ, ნაგულისხმევის განახლება ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="settings">პარამეტრებიდან</a>.

@@ -617,6 +617,9 @@ smartwindow-existing-user-fx-tou-go-back = Wróćo
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-primary-button = Dale
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskotka { -brand-product-name } (Kit) z hwězdnym přisłuškom
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -625,5 +628,6 @@ smartwindow-sidebar-auto-open-callout-body = Móžeće jón wočinić, hdyžkuli
 smartwindow-sidebar-auto-open-callout-accept = Haj, začinjeny wostajić
 smartwindow-sidebar-auto-open-callout-dismiss = Ně, dźakuju so
 smartwindow-sidebar-auto-open-callout-accepted-title = Asistent začinjeny wostawa.
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Wužiwajće Prašeć so, zo byšće jo na někajkej stronje wočinił. Změńće to kóždy čas w <a data-l10n-name="settings">nastajenjach</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Sym zrozumił
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jeli swoje měnjenje měnjeće, móžeće kóždy čas standard w <a data-l10n-name="settings">nastajenjach</a> aktualizować.

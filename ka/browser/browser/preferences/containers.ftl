@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } სათავსის პარამეტრები
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = ახალი სათავსის დამატება
+containers-panel-create-button =
+    .label = მზადაა
+containers-panel-cancel-button =
+    .label = გაუქმება
