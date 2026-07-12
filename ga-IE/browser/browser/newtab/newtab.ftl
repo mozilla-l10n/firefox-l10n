@@ -47,6 +47,9 @@ home-custom-homepage-address =
     .placeholder = Cuir isteach seoladh
 home-custom-homepage-address-button =
     .label = Cuir seoladh leis
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Leabharmharcanna…
 
 ## Firefox Home content
 
@@ -501,6 +504,8 @@ newtab-report-content-wrong-category =
     .label = Catagóir mhícheart
 newtab-report-content-outdated =
     .label = As dáta
+newtab-report-content-inappropriate-offensive =
+    .label = Míchuí nó déistineach
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
