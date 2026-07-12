@@ -251,15 +251,15 @@ tabs-closing-heading =
     .label = Zamykanie
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
-    .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
+    .label = Przełączaj karty za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Otwieranie odnośników w kartach zamiast w nowych oknach
+    .label = Otwieraj odnośniki w kartach zamiast w nowych oknach
     .accesskey = O
 open-external-link-next-to-active-tab =
-    .label = Otwieranie odnośników z aplikacji obok aktywnej karty
+    .label = Otwieraj odnośniki z aplikacji obok aktywnej karty
 ask-on-close-multiple-tabs =
-    .label = Pytanie o potwierdzenie przed zamknięciem wielu kart
+    .label = Pytaj o potwierdzenie przed zamknięciem wielu kart
     .accesskey = a
 # This string is used for the confirm before quitting preference.
 # Variables:
@@ -267,10 +267,10 @@ ask-on-close-multiple-tabs =
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 ask-on-quit-with-key =
-    .label = Pytanie o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
+    .label = Pytaj o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
     .accesskey = P
 confirm-on-close-multiple-tabs =
-    .label = Pytanie o potwierdzenie przed zamknięciem wielu kart
+    .label = Pytaj o potwierdzenie przed zamknięciem wielu kart
     .accesskey = a
 # This string is used for the confirm before quitting preference.
 # Variables:
@@ -278,13 +278,13 @@ confirm-on-close-multiple-tabs =
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
-    .label = Pytanie o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
+    .label = Pytaj o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
     .accesskey = P
 warn-on-open-many-tabs =
     .label = Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić { -brand-short-name(case: "acc") }
     .accesskey = m
 switch-to-new-tabs-2 =
-    .label = Automatyczne przechodzenie do stron i multimediów otwieranych w nowej karcie
+    .label = Automatycznie przechodź do stron i multimediów otwieranych w nowej karcie
     .accesskey = c
 switch-to-new-tabs =
     .label = Automatyczne przechodzenie do stron, obrazów i multimediów otwieranych w nowej karcie
@@ -590,7 +590,7 @@ use-system-locale =
 settings-spellcheck-header =
     .label = Sprawdzanie pisowni
 check-user-spelling =
-    .label = Sprawdzanie pisowni podczas wprowadzania tekstu.
+    .label = Sprawdzaj pisownię podczas wprowadzania tekstu.
     .accesskey = S
 spellcheck-download-dictionaries =
     .label = Pobierz słowniki
@@ -725,7 +725,7 @@ drm-group =
     .label = Treści DRM (Digital Rights Management)
 drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
-    .label = Odtwarzanie treści chronionych przez DRM.
+    .label = Odtwarzaj treści chronione przez DRM.
     .accesskey = O
 play-drm-content-learn-more = Więcej informacji
 update-application-title = Aktualizacje { -brand-short-name(case: "gen") }
@@ -858,7 +858,7 @@ browsing-gtk-use-non-overlay-scrollbars =
     .label = Zawsze widoczne paski przewijania
     .accesskey = w
 browsing-always-underline-links =
-    .label = Podkreślanie wszystkich odnośników
+    .label = Podkreślaj wszystkie odnośniki
     .accesskey = k
 browsing-use-onscreen-keyboard =
     .label = Wyświetlaj klawiaturę ekranową, gdy zachodzi taka potrzeba
@@ -890,7 +890,7 @@ browsing-picture-in-picture-enable-when-switching-tabs =
     .accesskey = K
 browsing-picture-in-picture-learn-more = Więcej informacji
 browsing-media-control =
-    .label = Sterowanie multimediami za pomocą klawiatury, zestawu słuchawkowego lub interfejsu wirtualnego.
+    .label = Steruj multimediami za pomocą klawiatury, zestawu słuchawkowego lub interfejsu wirtualnego.
     .accesskey = m
 recommendations-group =
     .label = Polecane
@@ -2211,7 +2211,7 @@ permissions-autoplay-settings =
     .label = Ustawienia…
     .accesskey = n
 permissions-block-popups2 =
-    .label = Blokowanie wyskakujących okien i zewnętrznych przekierowań
+    .label = Blokuj wyskakujące okna i zewnętrzne przekierowania
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
@@ -2221,7 +2221,7 @@ permissions-block-popups-exceptions-button4 =
     .accesskey = t
     .searchkeywords = popups pop-ups wyskakujące okienka przekierowania
 permissions-addon-install-warning3 =
-    .label = Ostrzeganie, gdy witryny próbują instalować rozszerzenia
+    .label = Ostrzegaj, gdy witryny próbują instalować rozszerzenia
     .accesskey = O
 permissions-addon-exceptions2 =
     .label = Wybierz, które witryny mogą instalować rozszerzenia
@@ -2288,14 +2288,14 @@ addon-recommendations3 =
     .label = Personalizowane polecenia rozszerzeń
     .description = Polecenia rozszerzeń, które usprawnią przeglądanie Internetu.
 collection-usage-ping =
-    .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
+    .label = Wysyłaj dzienny sygnału o użyciu do { -vendor-short-name(case: "gen") }
     .accesskey = d
 collection-usage-ping-description = To pomaga { -vendor-short-name(case: "dat") } oszacować liczbę aktywnych użytkowników.
 collection-health-report2 =
-    .label = Wysyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
+    .label = Wysyłaj dane techniczne i o interakcjach do { -vendor-short-name(case: "gen") }
     .accesskey = z
 collection-health-report =
-    .label = Wysyłanie do { -vendor-short-name(case: "gen") } danych technicznych i o interakcjach z { -brand-short-name(case: "ins") }.
+    .label = Wysyłaj do { -vendor-short-name(case: "gen") } dane techniczne i o interakcjach z { -brand-short-name(case: "ins") }.
     .accesskey = z
 collection-health-report-link = Więcej informacji
 collection-health-report-description = To pomaga nam ulepszać funkcje, wydajność i stabilność { -brand-product-name(case: "gen") }.
@@ -2303,7 +2303,7 @@ collection-studies2 =
     .label = Instalowanie i przeprowadzanie badań
 collection-studies-description = Wypróbuj funkcje i pomysły, zanim zostaną udostępnione wszystkim użytkownikom.
 collection-studies =
-    .label = Instalowanie i przeprowadzanie badań przez { -brand-short-name(case: "acc") }.
+    .label = { -brand-short-name } może instalować i przeprowadzać badania.
 collection-studies-link = Wyświetl badania { -brand-short-name(case: "gen") }
 addon-recommendations2 =
     .label = Personalizowane polecenia rozszerzeń
@@ -2312,7 +2312,7 @@ addon-recommendations-description = Polecenia rozszerzeń, które usprawnią prz
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Przesyłanie danych jest wyłączone przy tej konfiguracji programu.
 collection-backlogged-crash-reports2 =
-    .label = Automatyczne wysyłanie zgłoszeń awarii
+    .label = Automatycznie wysyłaj zgłoszenia awarii
     .accesskey = o
 collection-backlogged-crash-reports-description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
 # Promotional message displayed in the Settings panes to inform users of the new redesign
@@ -2327,7 +2327,7 @@ addon-recommendations-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
-collection-backlogged-crash-reports-with-link = Wysyłanie zgromadzonych zgłoszeń awarii { -brand-short-name(case: "gen") }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
+collection-backlogged-crash-reports-with-link = Wysyłaj zgromadzone zgłoszenia awarii { -brand-short-name(case: "gen") }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
     .accesskey = o
 privacy-segmentation-section-header = Nowe funkcje usprawniające przeglądanie
 privacy-segmentation-section-description = Kiedy oferujemy funkcje wykorzystujące Twoje dane do zapewniania bardziej spersonalizowanej przeglądarki:
@@ -2347,26 +2347,26 @@ data-collection-profiles-link = Wyświetl wszystkie profile
 data-collection-health-report-telemetry-disabled =
     .message = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
 data-collection-health-report =
-    .label = Wysyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
+    .label = Wysyłaj dane techniczne i o interakcjach do { -vendor-short-name(case: "gen") }
     .accesskey = z
     .description = To pomaga nam ulepszać funkcje, wydajność i stabilność { -brand-product-name(case: "gen") }.
 data-collection-health-report-disabled =
-    .label = Wysyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
+    .label = Wysyłaj dane techniczne i o interakcjach do { -vendor-short-name(case: "gen") }
     .accesskey = z
     .description = Przesyłanie danych jest wyłączone przy tej konfiguracji programu.
 data-collection-run-studies =
-    .label = Przeprowadzanie badań funkcji przez { -brand-short-name(case: "acc") }
+    .label = { -brand-short-name } może przeprowadzać badania funkcji
     .description = { -brand-short-name } losowo wybiera użytkowników do testowania funkcji, co pomaga poprawić jakość dla wszystkich.
 data-collection-studies-link =
     .label = Wyświetl badania { -brand-short-name(case: "gen") }
 data-collection-backlogged-crash-reports =
-    .label = Automatyczne wysyłanie zgłoszeń awarii
-    .description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
+    .label = Automatycznie wysyłaj zgłoszenia awarii
     .accesskey = o
+    .description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
 data-collection-usage-ping =
-    .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
-    .description = To pomaga { -vendor-short-name(case: "dat") } oszacować liczbę aktywnych użytkowników.
+    .label = Wysyłaj dzienny sygnał o użyciu do { -vendor-short-name(case: "gen") }
     .accesskey = d
+    .description = To pomaga { -vendor-short-name(case: "dat") } oszacować liczbę aktywnych użytkowników.
 
 ## Privacy Section - Website Advertising Preferences
 

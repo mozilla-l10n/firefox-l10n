@@ -1107,6 +1107,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Годинник
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Підтримка { -brand-product-name }
@@ -1216,6 +1219,14 @@ search-one-click-header-3 =
     .description = Оберіть пошукові системи та ярлики, що з'являються у панелі адреси.
 update-search-engine-success =
     .message = Пошукову систему успішно оновлено
+search-edit-engine-2 =
+    .title = Редагувати пошукову систему
+search-delete-engine =
+    .title = Видалити пошукову систему
+search-enable-engine =
+    .title = Увімкнути пошукову систему
+search-outlink-to-extensions-page =
+    .title = Керувати в розширеннях і темах
 search-choose-engine-column =
     .label = Пошукова система
 search-choose-keyword-column =
@@ -1236,6 +1247,7 @@ search-edit-engine =
     .label = Редагувати
     .accesskey = г
 search-find-more-link = Знайти інші пошукові системи
+search-filtering-for-add-engine = Додати систему
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Ключове слово вже використовується
@@ -1254,6 +1266,9 @@ search-engine-group =
     .label = Типова пошукова система
 search-default-engine =
     .aria-label = Типова пошукова система
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Пошук
 
 ## Containers Section
 
@@ -1272,11 +1287,44 @@ containers-settings-button =
     .label = Налаштування
 containers-remove-button =
     .label = Вилучити
+containers-section-header2 =
+    .heading = Налаштування контейнерів
+containers-card-header2 =
+    .label = Контейнери
+    .description = Розділяйте файли cookie за контейнерами – і користуйтеся різними обліковими записами на одних і тих самих сайтах, а також обмежуйте стеження між сайтами.
+containers-add-button2 =
+    .label = Додати новий контейнер
+    .accesskey = к
+containers-new-tab-check3 =
+    .label = Вибирати контейнер для кожної нової вкладки
+    .accesskey = В
+containers-new-tab-check2 =
+    .label = Вибирати контейнер для кожної нової вкладки
+    .accesskey = В
+    .description = Меню контейнерів відкриватиметься щоразу, коли ви натискатимете кнопку відкриття нової вкладки.
+containers-settings-button2 =
+    .title = Налаштування
+containers-remove-button3 =
+    .title = Видалити
+containers-remove-button2 =
+    .title = Вилучити
 
 ## Account and sync
 
 sync-group-label =
     .label = Синхронізація
+account-group-label2 =
+    .label = Обліковий запис
+account-disabled-group =
+    .label = Обліковий запис
+    .description = Налаштування облікового запису недоступні.
+account-placeholder2 =
+    .label = Ви не ввійшли в обліковий запис
+    .description = Увійдіть, щоб мати надійний доступ до своїх приватних, зашифрованих даних всюди, де ви користуєтеся { -brand-short-name }.
+account-sync-section =
+    .heading = Обліковий запис і синхронізація
+pane-account-sync-title2 = Обліковий запис і синхронізація
+    .title = Обліковий запис і синхронізація
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1330,7 +1378,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не підтверджено.
+sync-signedin-unverified2 =
+    .label = { $email } ще не підтверджено
+    .description = Перевірте поштову скриньку, щоб підтвердити свій обліковий запис.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+sync-signedin-login-failure2 =
+    .label = Ви вийшли з облікового запису { $email }
+    .description = Увійдіть знову, щоб під'єднатися та почати синхронізувати свої дані.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1383,6 +1447,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ви синхронізуєте ці елементи на всіх під'єднаних пристроях:
 sync-syncing-across-devices-heading-2 = Дані синхронізуються на всіх пристроях
+sync-syncing-across-devices-empty-state2 =
+    .label = Керувати синхронізацією даних
+    .description = Наразі ви нічого не синхронізуєте. Почніть синхронізацію, щоб ваші дані стали доступними на всіх ваших пристроях.
 sync-currently-syncing-bookmarks = Закладки
 sync-currently-syncing-history = Історія
 sync-currently-syncing-tabs = Відкриті вкладки
@@ -1396,6 +1463,11 @@ sync-currently-syncing-settings = Налаштування
 sync-manage-options =
     .label = Керування синхронізацією…
     .accesskey = с
+sync-manage-options-2 =
+    .label = Керувати синхронізацією даних
+    .accesskey = К
+settings-sync-disconnect-button =
+    .label = Від'єднатися
 sync-change-options =
     .label = Змінити…
     .accesskey = З
@@ -1568,6 +1640,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Використовувати головний пароль
     .accesskey = г
+forms-primary-pw-use-2 =
+    .label = Використовувати головний пароль
+    .accesskey = В
+    .description = Додатковий рівень безпеки для захисту ваших збережених паролів.
 forms-primary-pw-set =
     .label = Встановити головний пароль
 forms-primary-pw-on =
@@ -1580,6 +1656,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Вимагати входу на пристрої для заповнення та керування паролями
+forms-os-reauth-2 =
+    .label = Вимагати вхід на пристрої для керування паролями
 forms-primary-pw-learn-more-link = Докладніше
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1653,12 +1731,25 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Додати новий спосіб оплати
 payments-list-header =
     .label = Способи оплати
+payments-delete-payment-prompt-title = Видалити цей спосіб оплати?
+payments-delete-payment-prompt-confirm-button = Видалити
+payments-delete-payment-prompt-cancel-button = Скасувати
 autofill-addresses-checkbox-message =
     .label = Зберігати й автоматично заповнювати адреси
     .accesskey = б
 autofill-addresses-manage-addresses-button =
     .label = Керування адресами та інше
     .accesskey = К
+addresses-list-header =
+    .label = Адреси
+addreses-delete-address-button-label =
+    .aria-label = Видалити
+addreses-edit-address-button-label =
+    .aria-label = Редагувати
+addresses-delete-address-prompt-title = Видалити цю адресу?
+addresses-delete-address-prompt-confirm-button = Видалити
+addresses-delete-address-prompt-cancel-button = Скасувати
+autofill-addresses-add-button = Додати нову адресу
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

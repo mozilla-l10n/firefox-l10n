@@ -87,4 +87,4 @@ about-private-browsing-nova-info-link = Vem kan fortfarande se min aktivitet?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du är privat
-about-private-browsing-nova-info-subheader = Vi tar bort varje sökning och inloggning när du stänger det här fönstret. { -brand-short-name }:s inbyggda skydd finns här också, som att blockera spårare.
+about-private-browsing-nova-info-subheader = Vi tar bort alla sökningar och inloggningar när du stänger det här fönstret. { -brand-short-name }:s inbyggda skydd finns också här, som att blockera spårare.

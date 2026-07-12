@@ -245,8 +245,10 @@ newtab-privacy-message-promo-vpn-1-cta = VPN wočinić
 newtab-privacy-message-promo-vpn-2-cta = VPN wočinić
 newtab-privacy-message-promo-vpn-3-cta = VPN wočinić
 newtab-privacy-message-promo-private-window-1-cta = Priwatne wokno wočinić
+newtab-privacy-message-promo-relay-1 = Składujće swoju woprawdźitu za ludźi, kotrymž dowěrjeće; wužiwajće e-mejlowu masku za registracije.
 newtab-privacy-message-promo-relay-1-cta = Maski wobstarać
 newtab-privacy-message-promo-relay-2-cta = Maski wobstarać
+newtab-privacy-message-promo-relay-3 = Dóstańće 50 darmotnych e-mejlowych maskow, zo byšće swoju woprawdźitu e-mejlowu adresu priwatnu dźeržał.
 newtab-privacy-message-promo-relay-3-cta = Maski wobstarać
 
 ## Privacy widget — celebration messages
@@ -258,6 +260,8 @@ newtab-privacy-message-milestone-week-cta = Škity pokazać
 newtab-privacy-message-milestone-month-cta = Škity pokazać
 newtab-privacy-message-milestone-year-cta = Škity pokazać
 newtab-privacy-message-milestone-total-cta = Škity pokazać
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Přez 100 přesćěhowakow dźensa zablokowanych. ) Mjenje přesćěhowakow wjace priwatnosće rěka.
 newtab-privacy-message-daily-cap-cta = Škity pokazać
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -269,6 +273,8 @@ newtab-privacy-message-streak =
        *[other] Sće { $count } dnjow za sobu škitany
     }
 newtab-privacy-message-streak-cta = Škity pokazać
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Přehladujće dale, { -brand-short-name } dale blokuje.
 newtab-privacy-message-first-protection-cta = Škity pokazać
 
 ## Strings for the Stocks widget
