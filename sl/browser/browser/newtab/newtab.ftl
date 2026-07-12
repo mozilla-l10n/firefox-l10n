@@ -1007,6 +1007,7 @@ newtab-widget-timer-menu-hide = Skrij časovnik
 ##
 
 newtab-sports-widget-menu-view-schedule = Prikaži razpored
+newtab-sports-widget-menu-view-upcoming = Prikaži prihodnje
 newtab-sports-widget-menu-view-results = Prikaži izide
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Pomembni datumi
