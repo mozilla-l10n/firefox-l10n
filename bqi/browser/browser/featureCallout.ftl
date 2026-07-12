@@ -54,6 +54,11 @@ perplexity-callout-primary-label = پورس کردن ز پرپلکسیتی
 perplexity-callout-secondary-label-1 = رڌ کردن
 perplexity-callout-secondary-label-2 = فئمیم
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-secondary-label = رڌ کردن
+
 ## Account Adoption Passwords callout strings
 
 # Opens Mozilla accounts sign-up page
@@ -70,6 +75,10 @@ windows-10-eos-sync-callout-primary-advance-button-label = بئڌی
 ## Sidebar Strings
 
 sidebar-deprecation-cta-button = هیم سکو امتهووݩ کوݩ
+
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-2-cta-button = هیم سکو امتهووݩ کۊنین
 
 ## Sidebar Vertical Tabs Pinning Strings
 

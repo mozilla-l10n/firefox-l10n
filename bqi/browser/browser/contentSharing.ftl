@@ -23,3 +23,4 @@ content-sharing-modal-link-copied =
     .label = لینگ لف گیری وابی
 content-sharing-modal-sign-in-2 =
     .label = سی یک رسۊوی و من بیاین
+content-sharing-modal-title-2 = ای بلگه یل ن وا هر کسؽ یک رسۊوی کۊنین
