@@ -88,6 +88,9 @@ addon-category-plugin-title =
 addon-category-locale = زووا
 addon-category-locale-title =
     .title = زووا
+addon-category-recent-updates = ورۊ رسۊویا هیم دمۊوی
+addon-category-recent-updates-title =
+    .title = ورۊ رسۊویا هیم دمۊوی
 addon-category-sitepermission = هشتنا وبگه
 addon-category-sitepermission-title =
     .title = هشتنا وبگه
@@ -130,6 +133,8 @@ install-theme-button = پۊرنیڌن زمینه
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = دؽوۉداری
+find-more-addons = جوستن وردنی یل قلوه
+find-more-themes = جوستن زمینه یل قلوه
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -165,15 +170,25 @@ locale-enabled-heading = فعال وابیڌه
 locale-disabled-heading = قیر فعال وابیڌه
 sitepermission-enabled-heading = فعال وابیڌه
 sitepermission-disabled-heading = قیر فعال وابیڌه
+always-activate-button = هی فعال بۊ
+never-activate-button = هرگشت فعال نبۊ
 addon-detail-author-label = هؽل کوݩ
 addon-detail-version-label = نوسخه
 addon-detail-last-updated-label = ورۊ رسۊوی دیندایی
 addon-detail-homepage-label = بلگه هووه ای
 addon-detail-rating-label = نومره داڌن
 install-postponed-button = سکو ورۊ رسۊوی بۊ
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (قیر فعال وابیڌه)
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } پاک وابی.
 pending-uninstall-undo-button = وورگندن
 addon-detail-updates-label = هشتن سی ورۊ رسۊوی یل خوتکار
 addon-detail-updates-radio-default = پؽش فرز
@@ -213,6 +228,7 @@ addon-detail-group-label-quarantined-domains =
 
 ##
 
+recent-updates-heading = ورۊ رسۊویا هیم دمۊوی
 release-notes-loading = هونی بار اونه…
 addon-permissions-heading = موجوزا
 addon-permissions-empty2 = ای وردنی لنگ موجوز نؽ.
@@ -225,6 +241,7 @@ recommended-themes-heading = زمینه یل پؽشنهاڌ وابیڌه
 extension-heading = وردنی یل خوتووݩ ن دؽوۉداری کۊنین
 locale-heading = زووا خوتووݩ ن دؽوۉداری کۊنین
 shortcuts-heading = دؽوۉداری ره نهنگا وردنی
+default-heading-search-label = جوستن وردنی یل قلوه
 addons-heading-search-input =
     .placeholder = پیتینیڌن addons.mozilla.org
 
@@ -237,6 +254,7 @@ details-notification-unsigned-and-disabled-link = دووسمندیا قلوه
 details-notification-hard-blocked-extension =
     .message = ای وردنی سی دل زؽر پا ناهاڌن خت مشیا Mozilla مسدۊد ۉ قیر فعال وابیڌه.
 details-notification-unsigned-link = دووسمندیا قلوه
+details-notification-blocked-link2 = نیشتن جۊزعیات
 details-notification-soft-blocked-extension-disabled2 =
     .message = ای وردنی مئدۊد وو قیر فعال وابیڌه. ترین هونه فعال کۊنین ٱما گاشڌ ای کار خترناک بۊ.
 details-notification-soft-blocked-extension-enabled2 =
