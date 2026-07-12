@@ -293,9 +293,11 @@ newtab-stocks-widget-title = Akcije
 ##   $price (String) - the last price, e.g. "$559.44".
 
 # Stock increased (went up) during the day
-newtab-stocks-ticker-status-up = { $name }, rosćeny wo { $change }, { $price }
+newtab-stocks-ticker-status-up = { $name }, rosćena wo { $change }, { $price }
 # Stock decreased (went down) during the day
-newtab-stocks-ticker-status-down = { $name }, spadnjeny wo { $change }, { $price }
+newtab-stocks-ticker-status-down = { $name }, spadnjena wo { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, žana změna, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 

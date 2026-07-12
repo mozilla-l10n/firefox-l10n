@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Informowanie witryn o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
+do-not-track-description = Informuj witryny o preferencjach względem śledzenia (wysyłaj nagłówek „Do Not Track”):
 do-not-track-removal = Nagłówek „Do Not Track” (prośba o nieśledzenie) nie jest już obsługiwany
 do-not-track-learn-more = Więcej informacji
 do-not-track-option-default-content-blocking-known =
@@ -10,7 +10,7 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = zawsze
 global-privacy-control-description =
-    .label = Informowanie witryn, że mają nie sprzedawać ani nie udostępniać moich danych.
+    .label = Informuj witryny, że mają nie sprzedawać ani nie udostępniać moich danych.
     .accesskey = n
 non-technical-privacy-group =
     .label = Preferencje dotyczące prywatności na witrynach
@@ -19,7 +19,7 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Dodatkowa ochrona
 preferences-privacy-relay-available =
-    .label = Proponowanie masek dla adresu e-mail { -relay-brand-name }
+    .label = Proponuj maski dla adresu e-mail { -relay-brand-name }
     .description = Ukrywa prawdziwy adres e-mail, aby chronić skrzynkę odbiorczą przed spamem.
 non-technical-privacy-header = Preferencje dotyczące prywatności na witrynach
 # Do not translate.
@@ -175,7 +175,7 @@ search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url"
 
 startup-header = Uruchamianie
 always-check-default =
-    .label = Sprawdzanie, czy { -brand-short-name } jest domyślną przeglądarką
+    .label = Sprawdzaj, czy { -brand-short-name } jest domyślną przeglądarką
     .accesskey = e
 is-default = { -brand-short-name } jest obecnie domyślną przeglądarką
 is-not-default = { -brand-short-name } nie jest obecnie domyślną przeglądarką
@@ -183,7 +183,7 @@ set-as-my-default-browser =
     .label = Ustaw jako domyślną…
     .accesskey = U
 startup-restore-windows-and-tabs =
-    .label = Otwieranie poprzednich okien i kart
+    .label = Otwieraj poprzednie okna i karty
     .accesskey = w
 startup-windows-launch-on-login-profile-disabled =
     .message = Włącz tę preferencję, zaznaczając opcję „{ profile-manager-use-selected.label }” w oknie „Wybierz profil użytkownika”.
@@ -1575,7 +1575,7 @@ pane-privacy-logins-and-passwords-header = Dane logowania i hasła
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Pytanie o zachowywanie danych logowania do witryn
+    .label = Pytaj o zachowywanie danych logowania do witryn
     .accesskey = P
 
 ## Privacy Panel Settings
@@ -1589,7 +1589,7 @@ forms-passwords-header =
     .aria-label = Hasła
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
-    .label = Pytanie o zachowywanie haseł
+    .label = Pytaj o zachowywanie haseł
     .accesskey = P
 forms-manage-password-exceptions =
     .label = Zarządzaj wyjątkami zachowywania haseł
@@ -1610,7 +1610,7 @@ forms-breach-alerts-learn-more-link = Więcej informacji
 preferences-relay-integration-checkbox =
     .label = Proponowanie masek { -relay-brand-name } do ochrony adresu e-mail.
 preferences-relay-integration-checkbox2 =
-    .label = Proponowanie masek { -relay-brand-name } do ochrony adresu e-mail.
+    .label = Proponuj maski { -relay-brand-name } do ochrony adresu e-mail.
     .accesskey = m
 relay-integration-learn-more-link = Więcej informacji
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
@@ -1713,11 +1713,11 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Automatyczne wypełnianie
-autofill-addresses-checkbox = Zachowywanie i wypełnianie adresów.
+autofill-addresses-checkbox = Zachowuj i wypełniaj adresy.
     .accesskey = Z
 autofill-saved-addresses-button = Zachowane adresy
     .accesskey = c
-autofill-payment-methods-checkbox-message = Zachowywanie i wypełnianie metod płatności.
+autofill-payment-methods-checkbox-message = Zachowuj i wypełniaj metody płatności.
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = Obejmuje karty kredytowe i debetowe
     .accesskey = b
@@ -1729,7 +1729,7 @@ autofill-reauth-payment-methods-checkbox = Wymaganie zalogowania się na urządz
 autofill-payment-methods-header =
     .aria-label = Metody płatności
 autofill-payment-methods-checkbox-message-2 =
-    .label = Zachowywanie i automatyczne wypełnianie informacji płatniczych.
+    .label = Zachowuj i automatycznie wypełniaj informacje płatnicze.
     .accesskey = m
 autofill-payment-methods-manage-payments-title =
     .heading = Zarządzaj metodami płatności
@@ -1754,7 +1754,7 @@ payments-edit-payment-button-label =
 payments-no-payments-stored-message =
     .label = Nie dodano żadnych metod płatności
 autofill-addresses-checkbox-message =
-    .label = Zachowywanie i automatyczne wypełnianie adresów.
+    .label = Zachowuj i automatycznie wypełniaj adresy.
     .accesskey = Z
 autofill-addresses-manage-addresses-button =
     .label = Zarządzaj adresami i nie tylko
@@ -1815,7 +1815,7 @@ history-remember-label = Program { -brand-short-name }:
 history-remember-option-all =
     .label = Zachowywanie historii
 history-remember-option-never2 =
-    .label = Bez zachowywania historii
+    .label = Nie zachowuj historii
     .description = Każde okno zachowuje się, jakby było w trybie prywatnym. Po włączeniu każde rozszerzenie musi mieć pozwolenie na działanie.
 history-remember-option-custom2 =
     .label = Dostosuj ustawienia historii
@@ -1838,10 +1838,10 @@ history-private-browsing-permanent =
     .label = Zawsze aktywny tryb przeglądania prywatnego
     .accesskey = t
 history-remember-browser-option =
-    .label = Zachowywanie historii przeglądania i pobierania plików
+    .label = Zachowuj historię przeglądania i pobierania plików
     .accesskey = h
 history-remember-search-option =
-    .label = Zachowywanie historii pola wyszukiwania i formularzy
+    .label = Zachowuj historię pola wyszukiwania i formularzy
     .accesskey = o
 history-clear-on-close-option =
     .label = Czyszczenie historii podczas zamykania { -brand-short-name(case: "gen") }
@@ -1868,7 +1868,7 @@ history-custom-button =
 history-group =
     .label = Historia
 history-remember-option-all2 =
-    .label = Zachowywanie historii
+    .label = Zachowuj historię
 
 ## Privacy Section - Site Data
 
@@ -1884,7 +1884,7 @@ sitedata-total-size3 = Witryny obecnie zajmują <strong>{ $value } { $unit }</s
 sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna witryn zajmują { $value } { $unit } na dysku.
 sitedata-learn-more = Więcej informacji
 sitedata-delete-on-close2 =
-    .label = Usuwanie ciasteczek i danych witryn po zamknięciu { -brand-short-name(case: "gen") }
+    .label = Usuwaj ciasteczka i dane witryn po zamknięciu { -brand-short-name(case: "gen") }
     .accesskey = U
 sitedata-delete-on-close =
     .label = Usuwanie ciasteczek i danych witryn podczas zamykania { -brand-short-name(case: "gen") }
@@ -2387,16 +2387,16 @@ browsing-protection-group2 =
     .description = Niebezpieczne witryny i pliki mogą zagrozić Twoim danym i urządzeniu. { -brand-short-name } automatycznie je blokuje i ostrzega przed ryzykownym i niechcianym oprogramowaniem.
 security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
 security-enable-safe-browsing =
-    .label = Blokowanie niebezpiecznych i podejrzanych treści.
+    .label = Blokuj niebezpieczne i podejrzane treści.
     .accesskey = B
 security-enable-safe-browsing-link = Więcej informacji
 security-safe-browsing-warning =
     .message = Wyłączenie zmniejsza ochronę przed oszustwami, złośliwymi witrynami i niebezpiecznymi plikami.
 security-block-downloads =
-    .label = Blokowanie możliwości pobierania niebezpiecznych plików
+    .label = Blokuj możliwość pobierania niebezpiecznych plików
     .accesskey = e
 security-block-uncommon-software =
-    .label = Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem
+    .label = Ostrzegaj przed niepożądanym i nietypowym oprogramowaniem
     .accesskey = n
 
 ## Privacy Section - Certificates
@@ -2618,6 +2618,12 @@ appearance-window-density-standard =
     .description = Zrównoważone odstępy pasujące do większości ekranów
 appearance-window-density-auto-touch-mode =
     .label = Odstępy dotykowe w trybie tabletowym
+appearance-window-density-compact =
+    .label = Zwarte
+    .description = Zmniejszone odstępy pasujące do mniejszych ekranów
+appearance-window-density-touch =
+    .label = Dotykowe
+    .description = Większe elementy okna, dostosowane do ekranów dotykowych
 related-settings-group =
     .label = Powiązane ustawienia
 related-settings-accessibility-link =
