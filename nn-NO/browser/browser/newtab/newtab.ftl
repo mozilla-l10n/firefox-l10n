@@ -242,9 +242,12 @@ newtab-privacy-message-promo-vpn-2 = Brukar du Wi-Fi på flyplassen? Vern nettle
 newtab-privacy-message-promo-vpn-2-cta = Opne VPN
 newtab-privacy-message-promo-vpn-3 = Slå på innebygd VPN for å halde plasseringa di meir privat.
 newtab-privacy-message-promo-vpn-3-cta = Opne VPN
+newtab-privacy-message-promo-private-window-1 = Prøv eit privat vindauge for å surfe meir privat når du deler datamaskin med andre.
 newtab-privacy-message-promo-private-window-1-cta = Opne privat vindauge
 newtab-privacy-message-promo-relay-1-cta = Få e-postalias
+newtab-privacy-message-promo-relay-2 = Vern innboksen din mot spam med gratis e-postalias.
 newtab-privacy-message-promo-relay-2-cta = Få e-postalias
+newtab-privacy-message-promo-relay-3 = Få 50 gratis e-postalias for å halde den ekte e-postadressa di privat.
 newtab-privacy-message-promo-relay-3-cta = Få e-postalias
 
 ## Privacy widget — celebration messages
