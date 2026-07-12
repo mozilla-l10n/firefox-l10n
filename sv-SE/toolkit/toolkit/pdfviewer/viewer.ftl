@@ -776,12 +776,12 @@ pdfjs-digital-signature-properties-banner-unknown =
     }
 pdfjs-digital-signature-properties-banner-untrusted =
     { $count ->
-        [one] Dokument signerat med certifikat { $count } som inte är tillförlitligt
+        [one] Dokument signerat med { $count } certifikat som inte är tillförlitligt
        *[other] Dokument signerat med { $count } certifikat som inte är tillförlitliga
     }
 pdfjs-digital-signature-properties-banner-expired =
     { $count ->
-        [one] Dokument signerat med { $count } upphört certifikat
+        [one] Dokument signerat med { $count } utgånget certifikat
        *[other] Dokument signerat med { $count } utgångna certifikat
     }
 pdfjs-digital-signature-properties-banner-invalid =

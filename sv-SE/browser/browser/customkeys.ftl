@@ -103,8 +103,8 @@ customkeys-title-heading =
     .heading = Tangentbordsgenvägar
 # Search is a verb, as in "search through shortcuts".
 customkeys-search-input =
-    .aria-label = Sök genvägar
-    .placeholder = Sök genvägar
+    .aria-label = Sökgenvägar
+    .placeholder = Sökgenvägar
 customkeys-description = Styr hur du flyttar och interagerar med { -brand-short-name }.
 customkeys-support-link-text = Läs mer
 customkeys-reset-all-button = Återställ standard

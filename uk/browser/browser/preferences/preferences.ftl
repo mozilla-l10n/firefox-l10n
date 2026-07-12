@@ -1294,7 +1294,7 @@ containers-card-header2 =
     .description = Розділяйте файли cookie за контейнерами – і користуйтеся різними обліковими записами на одних і тих самих сайтах, а також обмежуйте стеження між сайтами.
 containers-add-button2 =
     .label = Додати новий контейнер
-    .accesskey = к
+    .accesskey = н
 containers-new-tab-check3 =
     .label = Вибирати контейнер для кожної нової вкладки
     .accesskey = В
@@ -1646,6 +1646,7 @@ forms-primary-pw-use-2 =
     .description = Додатковий рівень безпеки для захисту ваших збережених паролів.
 forms-primary-pw-set =
     .label = Встановити головний пароль
+forms-primary-pw-on-2 = Головний пароль <strong>УВІМКНЕНО</strong>
 forms-primary-pw-on =
     .label = Головний пароль активовано
 forms-primary-pw-change-2 =
@@ -1679,6 +1680,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Докладніше
 forms-windows-sso-desc = Керування обліковими записами в налаштуваннях пристрою
 windows-passkey-settings-label = Керувати ключами доступу в налаштуваннях системи
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Налаштування панелі приватності
+    .description = Отримайте допомогу в захисті ваших даних онлайн у { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Показувати повідомлення про витоки
+    .accesskey = П
 
 ## OS Authentication dialog
 
@@ -1734,6 +1746,13 @@ payments-list-header =
 payments-delete-payment-prompt-title = Видалити цей спосіб оплати?
 payments-delete-payment-prompt-confirm-button = Видалити
 payments-delete-payment-prompt-cancel-button = Скасувати
+payments-delete-payment-button-label =
+    .aria-label = Видалити
+payments-edit-payment-button-label =
+    .aria-label = Редагувати
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Способів оплати не додано
 autofill-addresses-checkbox-message =
     .label = Зберігати й автоматично заповнювати адреси
     .accesskey = б
@@ -1750,6 +1769,18 @@ addresses-delete-address-prompt-title = Видалити цю адресу?
 addresses-delete-address-prompt-confirm-button = Видалити
 addresses-delete-address-prompt-cancel-button = Скасувати
 autofill-addresses-add-button = Додати нову адресу
+autofill-addresses-manage-addresses-title =
+    .heading = Керувати адресами й іншими даними
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Адрес не додано
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1779,6 +1810,11 @@ history-remember-label = Поведінка { -brand-short-name }
     .accesskey = П
 history-remember-option-all =
     .label = Пам'ятати історію
+history-remember-option-never2 =
+    .label = Ніколи не пам'ятати історії
+    .description = Кожне вікно діє як приватне вікно. Коли це ввімкнено, розширенням потрібен дозвіл на роботу.
+history-remember-option-custom2 =
+    .label = Налаштувати історію
 history-remember-option-never =
     .label = Ніколи не пам'ятати історії
 history-remember-option-custom =
@@ -1812,8 +1848,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Стерти історію…
     .accesskey = С
+history-header2 =
+    .heading = Історія
+history-section-header =
+    .label = Історія
+    .description = Оберіть, що { -brand-short-name } має пам'ятати, коли ви закриваєте браузер.
+history-custom-section-header =
+    .label = Розширені налаштування
+    .description = Налаштуйте, що { -brand-short-name } має пам'ятати, коли ви закриваєте браузер.
+history-custom-button =
+    .label = Оберіть, що { -brand-short-name } має пам'ятати
 history-group =
     .label = Історія
+history-remember-option-all2 =
+    .label = Пам'ятати історію
 
 ## Privacy Section - Site Data
 
@@ -1822,8 +1870,15 @@ sitedata-total-size-calculating = Обчислення розміру даних
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Вебсайти наразі використовують <strong>{ $value } { $unit }</strong> дискового простору.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваші збережені файли cookie, дані сайтів і кеш використовують { $value } { $unit } дискового простору.
 sitedata-learn-more = Докладніше
+sitedata-delete-on-close2 =
+    .label = Стирати файли cookie та дані сайтів щоразу, коли ви закриваєте { -brand-short-name }
+    .accesskey = з
 sitedata-delete-on-close =
     .label = Видаляти файли cookie та дані сайтів під час закриття { -brand-short-name }
     .accesskey = я
@@ -1931,6 +1986,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Швидкі дії
     .accesskey = Ш
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Недавні пошуки
+    .accesskey = Н
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Популярні пошукові пропозиції
+    .accesskey = П
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Пропозиції від { -brand-short-name }
@@ -1963,6 +2024,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Відхилені пропозиції
     .description = Відновити відхилені пропозиції від спонсорів і { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Відновити пропозиції
 addressbar-quickactions-learn-more = Докладніше
 addressbar-dismissed-suggestions-label = Відхилені пропозиції
 addressbar-restore-dismissed-suggestions-description = Відновити відхилені пропозиції від спонсорів і { -brand-short-name }.

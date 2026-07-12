@@ -403,6 +403,9 @@ quickactions-addons = Wyświetl dodatki
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = rozszerzenia, motywy, dodatki
+# Opens preferences page at AI controls
+quickactions-manageai = Steruj sztuczną inteligencją
+quickactions-cmd-manageai = wyłącz si, wyłącz ai, zarządzaj si, zarządzaj ai, steruj si, steruj ai, sterowanie si, sterowanie ai
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Zarządzaj zakładkami
@@ -458,6 +461,9 @@ quickactions-cmd-print = drukuj, wydrukuj
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Zapisz stronę jako PDF
 quickactions-cmd-savepdf2 = pdf, zapisz stronę
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Otwórz edytor plików PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otwórz okno prywatne
 quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, okno prywatne, incognito, tryb incognito

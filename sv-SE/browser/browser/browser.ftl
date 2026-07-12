@@ -462,7 +462,7 @@ quickactions-cmd-print = skriva ut
 quickactions-savepdf = Spara sida som PDF
 quickactions-cmd-savepdf2 = pdf, spara sida
 # Opens about:pdf, the PDF editor landing page
-quickactions-editpdf = Öppna PDF-editor
+quickactions-editpdf = Öppna PDF-redigerare
 quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Öppna privat fönster

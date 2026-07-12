@@ -215,7 +215,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Nätverk
-profiler-popup-presets-networking-with-logs-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }, inklusive nätverksloggar. Dessa loggar kan innehålla känslig information, t.ex. webbadresser du besöker.
+profiler-popup-presets-networking-with-logs-description = Förinställning för att undersöka nätverksbuggar i { -brand-shorter-name }, inklusive nätverksloggar. Dessa loggar kan innehålla känslig information, till exempel de webbadresser du besöker.
 profiler-popup-presets-networking-with-logs-label =
     .label = Nätverk med loggar
 profiler-popup-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
@@ -306,7 +306,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Logga in på ditt konto
-appmenuitem-monitor-title2 = Håll dig ett steg före identitetsstöld
+appmenuitem-monitor-title2 = Ligg steget före identitetsstöld
 appmenuitem-monitor-description2 = Få varningar om dataintrång
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varningar om dataintrång
