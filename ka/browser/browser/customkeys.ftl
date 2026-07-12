@@ -62,11 +62,48 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = ეს შესაძლებლობა საცდელია და შესაძლოა სათანადოდ ვერ იმუშაოს.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = უმართებულო
+customkeys-shortcut-unassigned =
+    .placeholder = მალსახმობის დამატება
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = მალსახმობი: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = ჩასწორება
+    .tooltiptext = ჩასწორება
 customkeys-key-clear =
     .aria-label = გასუფთავება
     .tooltiptext = გასუფთავება
+customkeys-key-reset =
+    .aria-label = აღდგენა
+    .tooltiptext = აღდგენა
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = დააჭირეთ ახალ ღილაკს:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = მოცილდეს სხვა მალსახმობი?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = ამ ღილაკს უკვე იყენებს „{ $conflict }“.
+customkeys-conflict-confirm-button-confirm = მაინც გამოყენება
+customkeys-conflict-confirm-button-cancel = გაუქმება
+customkeys-reset-all-confirm-title = აღდგეს ნაგულისხმევი?
+customkeys-reset-all-confirm-body = კლავიატურის თქვენ მიერ შექმნილი ნებისმიერი მალსახმობი მოცილდება.
+customkeys-reset-all-confirm-button-confirm = ნაგულისხმევის აღდგენა
+customkeys-reset-all-confirm-button-cancel = გაუქმება
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = გვერდითი ზოლი
+customkeys-title-heading =
+    .heading = კლავიატურის მალსახმობები
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = ძიების მალსახმობები
+    .placeholder = ძიების მალსახმობები
+customkeys-support-link-text = ვრცლად
+customkeys-reset-all-button = ნაგულისხმევის აღდგენა

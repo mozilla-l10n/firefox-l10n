@@ -91,6 +91,7 @@ customkeys-conflict-confirm-body = Tuta tasta so hižo přez “{ $conflict }”
 customkeys-conflict-confirm-button-confirm = Najebać to wužiwać
 customkeys-conflict-confirm-button-cancel = Přetorhnyć
 customkeys-reset-all-confirm-title = Standardy wobnowić?
+customkeys-reset-all-confirm-body = Wšě swójske tastowe skrótšenki, kotrež sće wutworił, so wotstronja.
 customkeys-reset-all-confirm-button-confirm = Standardy wobnowić
 customkeys-reset-all-confirm-button-cancel = Přetorhnyć
 
@@ -104,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Tastowe skrótšenki pytać
     .placeholder = Tastowe skrótšenki pytać
+customkeys-description = Kontrolujće, kak so z { -brand-short-name } pohibujeće a z nim interagěrujeće.
 customkeys-support-link-text = Dalše informacije
 customkeys-reset-all-button = Standardy wobnowić

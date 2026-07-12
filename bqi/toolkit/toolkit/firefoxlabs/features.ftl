@@ -11,6 +11,8 @@ experimental-features-media-jxl =
 
 experimental-features-newtab-widget-lists-new =
     .label = نومگه یل
+experimental-features-newtab-widget-timer-new =
+    .label = زمووݩ سنج
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = نومگه بلگه ساڌه
