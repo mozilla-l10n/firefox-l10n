@@ -238,6 +238,9 @@ newtab-privacy-message-milestone-week-cta = Vis vern
 newtab-privacy-message-milestone-month-cta = Vis vern
 newtab-privacy-message-milestone-year-cta = Vis vern
 newtab-privacy-message-milestone-total-cta = Vis vern
+newtab-privacy-message-daily-cap-cta = Vis vern
+newtab-privacy-message-streak-cta = Vis vern
+newtab-privacy-message-first-protection-cta = Vis vern
 
 ## Strings for the Stocks widget
 
