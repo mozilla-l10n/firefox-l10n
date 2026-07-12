@@ -520,6 +520,8 @@ performance-group =
 browsing-title = گشتن
 browsing-group-label =
     .aria-label = گشتن
+settings-media-group =
+    .label = وارسگر
 browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
 browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
@@ -731,6 +733,8 @@ containers-remove-button =
     .label = پاک کردن
 containers-settings-button2 =
     .title = سامووا
+containers-remove-button3 =
+    .title = پاک کردن
 
 ## Account and sync
 
@@ -934,6 +938,8 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ای نشۊوی پاک بۊ؟
 addresses-delete-address-prompt-confirm-button = پاک کردن
 addresses-delete-address-prompt-cancel-button = لقو
+autofill-addresses-manage-addresses-title =
+    .heading = دؽوۉداری نشۊویا وو قلوه
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = هیچ نشۊوی ٱوورده نوابیڌه
@@ -1191,6 +1197,8 @@ collection-privacy-notice = نوکات زفت مهرمووه ای
 collection-health-report-telemetry-disabled-link = قلوه دووسته بۊین
 collection-health-report-link = قلوه دووسته بۊین
 collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز تیجنیڌن سی پوی امتهووݩ کۊنین.
+settings-redesign-promo-dismiss-button =
+    .label = فئمیم
 addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
@@ -1199,6 +1207,7 @@ data-collection-profiles-link = نیشتن پوی پوروفایلا
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ٱمنیت
 security-enable-safe-browsing-link = قلوه دووسته بۊین
 
 ## Privacy Section - Certificates
@@ -1261,6 +1270,7 @@ preferences-connection-link-button =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = ری میزی
 downloads-folder-name = دانلودا
 
 ## AI controls page

@@ -135,7 +135,7 @@ smart-window-grouped-tabs-summary =
     }
 smart-window-grouped-tabs-row-label = Grupperte faner
 # Action result labels for ungrouped tabs
-smart-window-grouped-and-ungrouped-label = Gruppereing av faner oppheva
+smart-window-grouped-and-ungrouped-label = Oppheva fanegruppering
 # Variables
 #   $count (number) - Number of tabs ungrouped
 smart-window-ungroup-success-summary =
