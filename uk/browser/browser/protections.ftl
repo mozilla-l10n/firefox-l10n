@@ -21,7 +21,7 @@ graph-total-tracker-summary =
        *[many] <b>{ $count }</b> елементів стеження заблоковано починаючи з { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } продовжує блокувати стеження в приватних вікнах, але не записує, що було заблоковано.
+graph-private-window = { -brand-short-name } продовжує блокувати стеження в приватних вікнах, але не веде облік заблокованих елементів.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Стеження, яке { -brand-short-name } заблокував цього тижня
 protection-report-webpage-title = Панель стану захисту

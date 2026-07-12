@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Передавати вебсайтам сигнал “Не стежити”
-do-not-track-removal = Ми більше не підтримуємо сигнал “Не відстежувати”
+do-not-track-removal = Ми більше не підтримуємо сигнал “Не стежити”
 do-not-track-learn-more = Докладніше
 do-not-track-option-default-content-blocking-known =
     .label = Лише якщо { -brand-short-name } налаштовано блокувати відомі елементи стеження
@@ -88,7 +88,7 @@ focus-search =
 close-button =
     .aria-label = Закрити
 do-not-track-removal2 =
-    .label = Ми більше не підтримуємо сигнал "Не відстежувати"
+    .label = Ми більше не підтримуємо сигнал “Не стежити”
 applications-setting-new-file-types =
     .label = Як { -brand-short-name } повинен обробляти такі файли?
 
