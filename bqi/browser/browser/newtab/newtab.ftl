@@ -789,6 +789,7 @@ newtab-sports-widget-quarter-finals = مرهله ی چاروم دیندایی
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = زنده
 newtab-sports-widget-upcoming = آینده
+newtab-sports-widget-results = نتیجه یل
 newtab-sports-widget-semi-finals = نیمه دیندایی
 newtab-sports-widget-bronze-finals = فینال بورونز
 # Final is the final match for 1st place.
@@ -797,7 +798,11 @@ newtab-sports-widget-final = فینال
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
 newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-cancelled = لقو وابی
+newtab-sports-widget-view-results-link = نیشتن نتیجه یل
 newtab-sports-widget-third-place = مقام سووم
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
 newtab-sports-widget-match-full-time = پوی مجال
