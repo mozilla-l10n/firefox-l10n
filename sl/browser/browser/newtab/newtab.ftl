@@ -1398,7 +1398,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 newtab-sports-widget-message-survey-title = Pomagajte nam izboljšati pripomočke
 newtab-sports-widget-message-survey-body = Svetovno prvenstvo je pri koncu. Sporočite nam svoje mnenje o izkušnji.
-newtab-sports-widget-message-survey-widget-title = Kakšen se vam je zdel pripomoček svetovnega prvenstva?
+newtab-sports-widget-message-survey-widget-title = Kakšen se vam je zdel pripomoček za svetovno prvenstvo?
 newtab-sports-widget-message-survey-cta =
     .label = Izpolni vprašalnik
 
