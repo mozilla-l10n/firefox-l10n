@@ -24,6 +24,8 @@ smartwindow-assistant-error-account-header = Zo byšće { -smart-window-brand-na
 smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } je tuchwilu wućežene. Prošu spytajće pozdźišo hišće raz.
 smartwindow-assistant-error-budget-body = Móžeće hišće w tutym woknje přehladować. Chat budźe zaso k dispoziciji być, hdyž so waš dnjowy limit wróćo staja.
 smartwindow-assistant-error-many-requests-header = Prošu čakajće wokomik a spytajće hišće raz. Přewjele powěsćow je so w krótkim času pósłało.
+smartwindow-assistant-error-max-length-header = Je čas, nowy chat započeć. Tutón je swój dołhostny limit docpěł.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } njemóžeše serwer docpěć. Wupruwujće druhu syć abo znjemóžńće swój VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serwerowy zmylk (HTTP { $status }). Spytajće prošu hišće raz.
@@ -56,6 +58,8 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Negatiwne měnjenje dźělić
     .tooltiptext = Negatiwne měnjenje dźělić
+aiwindow-applied-memories-popover =
+    .aria-label = Wobłuk dopomnjećow
 aiwindow-applied-memories-list =
     .aria-label = Dopomnjeća
 # Variables:
@@ -148,6 +152,15 @@ smart-window-grouped-tabs-summary =
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zeskupjenje rajtarkow zběhnjene
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } rajtark je so zeskupił, potom jako skupina zběhnył.
+        [two] { $count } rajtarkaj stej so zeskupiłoj, potom jako skupina zběhnyłoj.
+        [few] { $count } rajtarki su so zeskupili, potom jako skupina zběhnyli.
+       *[other] { $count } rajtarkow je so zeskupiło, potom jako skupina zběhnyło.
+    }
 smart-window-ungrouped-row-label =
     { $count ->
         [one] { $count } rajtark njezeskupjeny

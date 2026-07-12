@@ -89,7 +89,7 @@ file-browse-certificate-spec = فایلا گوواهی
 
 delete-user-cert-title =
     .title = پاک کردن گوواهی یل ایسا
-delete-user-cert-confirm = الن اخۊی ای گوواهی یل پاک بۊن؟
+delete-user-cert-confirm = الن اخۊین ای گوواهی یل پاک بۊن؟
 delete-email-cert-title =
     .title = پاک کردن گوواهی یل ایمیل
 # Used when no cert is stored for an override

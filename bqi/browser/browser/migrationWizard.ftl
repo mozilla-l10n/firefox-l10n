@@ -44,6 +44,12 @@ migration-source-name-ie = اینترنت اکسپلورر
 migration-source-name-edge = مایکروسافت Edge
 migration-source-name-chrome = گۊگل کروم
 
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
+migration-no-permissions-instructions-step1 = «رئڌن وا پؽش» ن پسند کۊنین
+
 ##
 
 migration-select-all-option-label = پسند پوی
@@ -214,4 +220,4 @@ migration-wizard-progress-success-passwords =
        *[other] { $quantity } رزم
     }
 migration-wizard-progress-success-formdata = ز ویرگار
-migration-wizard-safari-instructions-continue = پسند (رئڌن وا پؽش)
+migration-wizard-safari-instructions-continue = «رئڌن وا پؽش» ن پسند کۊنین

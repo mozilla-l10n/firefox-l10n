@@ -5,7 +5,7 @@
 crash-reports-title = گوزارشا خراوی
 submit-all-button-label = فشناڌن پوی
 delete-button-label = روفتن پوی
-delete-confirm-title = الن هیمونه اخۊی؟
+delete-confirm-title = الن هیمونه اخۊین؟
 id-heading = شناسه گوزارش
 date-crashed-heading = تاریخ خراوی
 submit-crash-button-label = فشناڌن
