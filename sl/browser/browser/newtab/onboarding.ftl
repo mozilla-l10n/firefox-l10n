@@ -448,6 +448,8 @@ onboarding-checklist-pin = Pripni { -brand-short-name } v opravilno vrstico
 onboarding-checklist-import = Uvozi iz prejšnjega brskalnika
 onboarding-checklist-extension = Dodaj razširitev
 onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
+onboarding-checklist-minimize =
+    .label = Pomanjšaj
 
 ## Tab Groups feature onboarding strings
 
@@ -596,3 +598,16 @@ onboarding-refresh-sync-title = Pojdite kamorkoli. Sinhronizirajte vse.
 onboarding-refresh-gratitude-subtitle = Hvala, ker uporabljate { -brand-short-name(sklon: "tozilnik") }, edini večji brskalnik, za katerim stoji neprofitna organizacija. Z vašo podporo si prizadevamo narediti internet varnejši in dostopnejši za vse.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Pogoji uporabe { -brand-product-name(sklon: "rodilnik") }
+smartwindow-existing-user-fx-tou-accept = Sprejmi
+smartwindow-existing-user-fx-tou-go-back = Nazaj
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Da, pusti zaprto
+smartwindow-sidebar-auto-open-callout-dismiss = Ne, hvala
+smartwindow-sidebar-auto-open-callout-rejected-title = Razumem

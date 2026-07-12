@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Odprti zavihki
 sidebar-options-menu-button =
     .title = Odpri meni
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Spremeni velikost stranske vrstice
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Okno { $winID }
+sidebar-bookmarks-title = Zaznamki
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -81,4 +81,5 @@ about-private-browsing-felt-privacy-v1-info-link = Kdo bi lahko videl mojo dejav
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
+about-private-browsing-nova-info-body = Ob zaprtju vseh zasebnih oken se izbrišejo piškotki, zgodovina in podatki strani.
 about-private-browsing-nova-info-link = Kdo bi lahko kljub temu videl mojo dejavnost?

@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Nov zavihek
     .accesskey = N
+user-context-add-container =
+    .label = Dodaj nov vsebnik
+    .accesskey = a
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

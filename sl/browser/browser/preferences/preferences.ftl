@@ -1295,6 +1295,8 @@ containers-new-tab-check2 =
     .description = Meni vsebnikov se bo odprl vsakič, ko pritisnete gumb za odpiranje novega zavihka.
 containers-settings-button2 =
     .title = Nastavitve
+containers-remove-button3 =
+    .title = Izbriši
 containers-remove-button2 =
     .title = Odstrani
 

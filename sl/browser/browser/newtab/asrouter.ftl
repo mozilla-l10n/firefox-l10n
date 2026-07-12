@@ -302,6 +302,19 @@ launch-on-login-infobar-final-message = <strong>Želite, da se { -brand-short-na
 launch-on-login-infobar-final-reject-button = Ne, hvala
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-startup-checkbox = Odpri { -brand-short-name(sklon: "tozilnik") } ob zagonu
+launch-on-login-spotlight-pin-taskbar-checkbox = Pripni v opravilno vrstico
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Naloži nazadnje odprta okna in zavihke
+launch-on-login-spotlight-primary-button = Shrani in zapri { -brand-short-name(sklon: "tozilnik") }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -455,6 +468,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Nastavi kot privzeto
 set-default-menu-message-primary-button-variant = Nastavi kot glavni brskalnik
+set-default-menu-message-primary-button-short-variant = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -465,3 +479,10 @@ relay-50-masks-announcement-primary-button = Pojdi na { -relay-brand-name }
     .accesskey = o
 relay-50-masks-announcement-secondary-button = Zapri
     .accesskey = Z
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Sporoči povratne informacije
+    .accesskey = S
+nova-early-access-infobar-primary-button = Razumem
+    .accesskey = z

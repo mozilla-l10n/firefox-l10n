@@ -292,6 +292,8 @@ appmenu-customizetoolbar =
     .label = Prilagodi orodno vrstico …
 appmenu-abouttranslations =
     .label = Prevedi …
+appmenu-edit-pdf =
+    .label = Uredi PDF …
 appmenu-developer-tools-subheader = Orodja brskalnika
 appmenu-developer-tools-extensions =
     .label = Razširitve za razvijalce
@@ -313,6 +315,10 @@ appmenu-services-header = Moje storitve
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Orodja za zasebnost
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Preskusite druga Mozillina orodja za zaščito:
 appmenu-other-protection-header = Preskusite druga orodja { -vendor-short-name(sklon: "rodilnik") } za zaščito:
 
@@ -323,9 +329,18 @@ appmenu-manage-profiles =
     .label = Upravljanje profilov
 appmenu-copy-profile =
     .label = Kopiraj ta profil
+appmenu-create-profile2 =
+    .label = Ustvari nov profil
 appmenu-create-profile =
     .label = Nov profil
 appmenu-edit-profile =
     .aria-label = Urejanje profila
+appmenu-edit-this-profile =
+    .label = Uredi ta profil
+appmenu-profile-current-in-use = Profil je trenutno v uporabi
 appmenu-profiles-2 =
     .label = Profili
+appmenu-profiles-header = Profili
+appmenu-all-profiles =
+    .label = Vsi profili
+appmenu-secure-sync-header = Varna sinhronizacija

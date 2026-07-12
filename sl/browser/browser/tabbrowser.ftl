@@ -51,6 +51,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Spremeni velikost zavihkov v razdeljenem pogledu
+tab-devtools-splitter =
+    .aria-label = Spremeni velikost plošče razvojnih orodij
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -952,6 +952,49 @@ urlbar-result-explanation-last-visited-absolute = Nazadnje obiskano { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Shranjeno med zaznamke { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Nazadnje obiskano { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Nazadnje obiskano pred { $daysAgo } dnem
+        [two] Nazadnje obiskano pred { $daysAgo } dnevoma
+        [few] Nazadnje obiskano pred { $daysAgo } dnevi
+       *[other] Nazadnje obiskano pred { $daysAgo } dnevi
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Nazadnje obiskano pred { $weeksAgo } tednom
+        [two] Nazadnje obiskano pred { $weeksAgo } tednoma
+        [few] Nazadnje obiskano pred { $weeksAgo } tedni
+       *[other] Nazadnje obiskano pred { $weeksAgo } tedni
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Nazadnje obiskano pred { $monthsAgo } mesecem
+        [two] Nazadnje obiskano pred { $monthsAgo } mesecema
+        [few] Nazadnje obiskano pred { $monthsAgo } meseci
+       *[other] Nazadnje obiskano pred { $monthsAgo } meseci
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Nazadnje obiskano { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

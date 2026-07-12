@@ -84,6 +84,7 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-button-confirm = Vseeno uporabi
 customkeys-conflict-confirm-button-cancel = Prekliči
 customkeys-reset-all-confirm-title = Želite obnoviti privzete nastavitve?
 customkeys-reset-all-confirm-button-confirm = Obnovi privzeto
