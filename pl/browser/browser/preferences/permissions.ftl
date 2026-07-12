@@ -96,6 +96,7 @@ permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i dan
 permissions-exceptions-shutdown-clearing-window =
     .title = Czyszczenie historii podczas wyłączania — wyjątki
     .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Określ, dane których witryny nie będą usuwane, kiedy { -brand-short-name } czyści historię podczas zamykania. Podaj dokładny adres witryny, która będzie zarządzana przez użytkownika, i naciśnij Zezwalaj.
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -117,7 +118,7 @@ permissions-exceptions-popup-desc2 = Określ, które witryny mogą otwierać wys
 permissions-exceptions-popup-window2 =
     .title = Wyskakujące okna — uprawnione witryny
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Określ, które witryny mogą otwierać wyskakujące okna. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
+permissions-exceptions-popup-desc = Określ, które witryny mogą otwierać wyskakujące okna. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
 
 ## Exceptions - Saved Logins
 

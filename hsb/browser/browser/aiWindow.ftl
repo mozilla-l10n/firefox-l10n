@@ -248,6 +248,9 @@ item-history-downloads-and-chat-description = Zhaša historiju sydłow, sćehnje
 smart-window-confirm-select-all =
     .label = Wšě wubrać
     .aria-label = Wšě wubrać
+smart-window-confirm-deselect-all =
+    .label = Wšitko wotwolić
+    .aria-label = Wšitko wotwolić
 smart-window-close-confirm =
     .aria-label = Naprašowanje přetorhnyć a začinić
     .tooltiptext = Naprašowanje přetorhnyć a začinić
@@ -267,6 +270,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Rajtark je začinjeny
+smartwindow-close-tab-callout-subtitle = Wočińće rajtarki kóždy čas z historije znowa.
 
 ## Smart Window new tab promo
 
@@ -279,13 +283,24 @@ smart-window-default-promo-additional-button = Nic nětko
 
 aiwindow-feedback-modal-title = Měnjenje dźělić
 aiwindow-feedback-what-worked-well = Što je derje fungowało? Žane wosobinske informacije, prošu.
+aiwindow-feedback-choose-any = Wubjerće wšě přihódne
 aiwindow-feedback-add-details = Přidajće podrobnosće, jeli chceće. Žane wosobinske informacije, prošu.
 aiwindow-feedback-submit = Wotpósłać
 aiwindow-feedback-cancel = Přetorhnyć
 aiwindow-feedback-reason-incorrect-or-misleading = Wopačny abo zabłudźawy
+aiwindow-feedback-reason-doesnt-address-my-request = Njewotpowěduje mojemu naprašowanju
 aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst faluje
 aiwindow-feedback-reason-performance-or-usability = Problem z wukonom abo wužiwajomnosću
 aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepřistojny
 aiwindow-feedback-reason-other = Druhe
 aiwindow-feedback-preview-report = Chatowe podrobnosće pokazać
 aiwindow-feedback-preview-report-with-page = Podrobnosće chata a strony pokazać
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Modus přepinać: Lisćinowy napohlad
+    .tooltiptext = Lisćinowy napohlad
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Modus přepinać: Lěsyčny napohlad
+    .tooltiptext = Lěsyčny napohlad

@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Zmień rozmiar kart w podzielonym widoku
+tab-devtools-splitter =
+    .aria-label = Zmień rozmiar panelu narzędzi dla programistów
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -200,7 +202,13 @@ tabbrowser-customizemode-tab-title = Dostosowywanie { -brand-short-name(case: "g
 tabbrowser-context-mute-tab =
     .label = Wycisz kartę
     .accesskey = W
+tabbrowser-context-mute-tab2 =
+    .label = Wycisz
+    .accesskey = W
 tabbrowser-context-unmute-tab =
+    .label = Włącz dźwięk
+    .accesskey = W
+tabbrowser-context-unmute-tab2 =
     .label = Włącz dźwięk
     .accesskey = W
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
