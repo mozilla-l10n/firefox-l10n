@@ -671,6 +671,11 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Nastavit jako výchozí
 set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlížeč
+set-default-menu-message-primary-button-short-variant =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí
+    }
 
 ## Firefox Relay 50 Masks Announcement
 

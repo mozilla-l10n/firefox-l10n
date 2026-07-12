@@ -213,15 +213,18 @@ newtab-privacy-message-info-4 = Å velje { -brand-short-name } betyr å velje ve
 newtab-privacy-message-info-4-cta = Vis vern
 newtab-privacy-message-info-5 = Blokkerte sporarar tyder færre selskap kan følgje deg på tvers av nettstadar.
 newtab-privacy-message-info-5-cta = Vis vern
+newtab-privacy-message-info-6 = Vern dataa dine med { -brand-short-name }. Vi sel dei aldri, men det kan hende at andre nettlesarar gjer det.
 newtab-privacy-message-info-6-cta = Les meir
 newtab-privacy-message-info-7 = Sjå kva for nokre sporarar { -brand-short-name } blokkerte.
 newtab-privacy-message-info-7-cta = Vis vern
+newtab-privacy-message-info-8 = Surfing med { -brand-short-name } støttar oppdraget til { -vendor-short-name } om å skape eit betre internett.
 newtab-privacy-message-info-8-cta = Les meir
 newtab-privacy-message-info-9-cta = Bruk som standard
 newtab-privacy-message-info-10 = Lagre passord i { -brand-short-name } for å bruke sterke, unike påloggingar overalt.
 newtab-privacy-message-info-10-cta = Gå til passord
 newtab-privacy-message-info-11 = Finn ut korleis { -brand-short-name } bidreg til å halde nettlesinga di meir privat.
 newtab-privacy-message-info-11-cta = Les meir
+newtab-privacy-message-info-12 = Blokkering av sporarar kan bidra til å spare bandbreidde på avgrensa dataabonnement.
 newtab-privacy-message-info-12-cta = Vis vern
 newtab-privacy-message-info-13-cta = Vis vern
 
@@ -259,8 +262,12 @@ newtab-privacy-message-milestone-week-cta = Vis vern
 newtab-privacy-message-milestone-month-cta = Vis vern
 newtab-privacy-message-milestone-year-cta = Vis vern
 newtab-privacy-message-milestone-total-cta = Vis vern
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Over 100 sporarar vart blokkerte i dag.) Færre sporarar betyr meir personvern.
 newtab-privacy-message-daily-cap-cta = Vis vern
 newtab-privacy-message-streak-cta = Vis vern
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Surf vidare, { -brand-short-name } blokkerer framleis sporingsverktøy.
 newtab-privacy-message-first-protection-cta = Vis vern
 
 ## Strings for the Stocks widget

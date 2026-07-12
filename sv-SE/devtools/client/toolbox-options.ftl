@@ -79,7 +79,7 @@ options-webconsole-split-console-tooltip =
 ## Network Monitor section
 
 # The heading
-options-netmonitor-label = Nätverksbevakning
+options-netmonitor-label = Nätverksövervakare
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maximal förfrågan och svarstext (inställd till 0 för obegränsat):
 options-netmonitor-body-limit-tooltip =

@@ -616,6 +616,7 @@ smartwindow-existing-user-fx-tou-go-back = Zurück
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Machen Sie { -smart-window-brand-name(form: "lowercase-plural") } zu Ihrer ersten Wahl
 smartwindow-onboarding-subtitle = Fassen Sie zusammen, vergleichen und stellen Sie Fragen, ohne etwas zu verlieren.
 smartwindow-onboarding-primary-button = Weiter
 # Kit is referring to the Firefox mascot
