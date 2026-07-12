@@ -464,6 +464,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Збільшувати лише текст
     .accesskey = к
+preferences-text-zoom-override-warning2 =
+    .message = Якщо ввімкнено “Збільшувати лише текст” і ваш типовий масштаб – не 100%, деякі сайти можуть відображати вміст неправильно.
 preferences-text-zoom-override-warning =
     .message = Попередження: якщо ви вибрали “Збільшувати лише текст”, а типовий масштаб не встановлено на 100%, це може призвести до пошкодження деяких сайтів або вмісту.
 language-header = Мова
@@ -473,6 +475,23 @@ website-language-heading =
     .description = Деякі вебсторінки мають кілька мов для відображення. Оберіть бажаний порядок мов.
 website-preferred-language =
     .label = Бажані мови
+website-add-language =
+    .label = Додати мову
+website-add-language-button =
+    .aria-label = Додати вибрану мову
+    .title = Додати вибрану мову
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Вилучити: { $locale }
+    .title = Вилучити: { $locale }
 choose-button =
     .label = Вибрати…
     .accesskey = а
@@ -482,6 +501,14 @@ manage-browser-languages-button =
     .accesskey = л
 confirm-browser-language-change-description = Перезапустіть { -brand-short-name } для застосування змін
 confirm-browser-language-change-button = Застосувати й перезапустити
+browser-language-heading =
+    .label = Мова браузера
+    .description = Оберіть мову для показу меню, повідомлень та сповіщень { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Бажана мова
+browser-language-fallback-label =
+    .label = Резервна мова
+    .description = Використовується, коли локалізація бажаною мовою неповна.
 browser-language-install-error =
     .message = { -brand-short-name } не може оновити ваші мови зараз. Перевірте своє з'єднання з інтернетом і спробуйте знову.
 translate-web-pages =
@@ -500,13 +527,76 @@ settings-translations-header =
     .description = Перекладайте сторінки або вибраний текст. Для захисту вашої приватності переклади завжди відбуваються на пристрої.
 settings-translations-offer-to-translate-label =
     .label = Пропонувати повний переклад сторінки
+settings-translations-more-settings-button =
+    .label = Інші налаштування перекладу
+    .description = Налаштуйте параметри мов, сайтів та автономного перекладу.
+settings-translations-subpage-header =
+    .heading = Інші налаштування перекладу
+settings-translations-subpage-speed-up-translation-header =
+    .label = Пришвидшення перекладу
+    .description = Завантажуйте мови повністю для швидшого та автономного перекладу.
+settings-translations-subpage-automatic-translation-header =
+    .label = Автоматичний переклад
+settings-translations-subpage-always-translate-header =
+    .label = Завжди перекладати ці мови
+settings-translations-subpage-never-translate-header =
+    .label = Ніколи не перекладати ці мови
+settings-translations-subpage-never-translate-sites-header =
+    .label = Ніколи не перекладати ці сайти
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Щоб додати сайт, відкрийте <img data-l10n-name="translations-icon"/> панель перекладу, виберіть <img data-l10n-name="settings-icon"/> налаштування перекладу, а потім – “Ніколи не перекладати цей сайт”
+settings-translations-subpage-language-select-option =
+    .label = Додати мову
+settings-translations-subpage-language-add-button =
+    .aria-label = Додати мову
+    .title = Додати мову
+settings-translations-subpage-download-languages-header =
+    .label = Завантажити мови
+settings-translations-subpage-download-languages-select-option =
+    .label = Вибрати мову
+settings-translations-subpage-download-languages-button =
+    .aria-label = Завантажити мову
+    .title = Завантажити мову
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } МБ)
+    .label = { $language } ({ $size } МБ)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Мови не завантажено
+settings-translations-subpage-no-languages-added =
+    .label = Мови не додано
+settings-translations-subpage-download-progress = Триває завантаження…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Не вдалося завантажити: { $language } ({ $size } МБ)
+settings-translations-subpage-download-retry-button =
+    .label = Спробувати знову
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Видалити: { $language } ({ $size } МБ)?
+settings-translations-subpage-download-delete-button =
+    .label = Видалити
+settings-translations-subpage-download-cancel-button =
+    .label = Скасувати
+settings-translations-subpage-no-sites-added =
+    .label = Сайтів не додано
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Використовувати налаштування вашої операційної системи “{ $localeName }” для форматування дати, часу, чисел та одиниць вимірювання.
+settings-spellcheck-header =
+    .label = Перевірка правопису
 check-user-spelling =
     .label = Перевіряти орфографію під час введення тексту
     .accesskey = г
+spellcheck-download-dictionaries =
+    .label = Завантажити словники
+spellcheck-promo =
+    .heading = Як користуватися перевіркою правопису
+    .message = Клацніть правою кнопкою миші текстове поле, щоб увімкнути або вимкнути перевірку правопису або змінити мову. Не всі поля підтримують перевірку правопису.
 
 ## General Section - Files and Applications
 
@@ -515,6 +605,12 @@ download-save-files-header =
     .label = Зберігати файли до
 download-save-where-3 =
     .aria-label = Зберігати файли до
+download-always-ask-where2 =
+    .label = Запитувати, де зберігати файли перед завантаженням
+    .accesskey = п
+download-private-browsing-delete2 =
+    .label = Видаляти завантаження з приватних вікон після їх закриття
+    .accesskey = В
 download-header = Завантаження
 download-save-where = Зберігати файли до
     .accesskey = ф
@@ -534,6 +630,9 @@ download-always-ask-where =
     .accesskey = ж
 applications-header = Програми
 applications-description = Оберіть, як { -brand-short-name } оброблятиме файли, які ви завантажуєте з Інтернету, або програми, якими ви користуєтесь під час перегляду.
+applications-setting2 =
+    .label = Файли та програми
+    .description = Визначте, як { -brand-short-name } має обробляти завантажені файли та вміст.
 applications-filter =
     .placeholder = Пошук типів файлів чи програм
 applications-type-column =
@@ -631,6 +730,8 @@ update-application-version = Версія { $version } <a data-l10n-name="learn-
 update-history-2 =
     .label = Показати історію оновлень
     .accesskey = с
+update-application-installation =
+    .label = Встановлення
 update-history =
     .label = Показати історію оновлень…
     .accesskey = с
