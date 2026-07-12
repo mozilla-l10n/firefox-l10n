@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Hộp công cụ đa xử lý
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Quy trình chính và quy trình nội dung cho trình duyệt đích
+about-debugging-message-error-icon =
+    .alt = Biểu tượng lỗi
+about-debugging-message-info-icon =
+    .alt = Biểu tượng thông tin
+about-debugging-message-warning-icon =
+    .alt = Biểu tượng cảnh báo
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Đóng thông báo
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Chi tiết lỗi
 about-debugging-message-details-label-warning = Chi tiết cảnh báo
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Chi tiết
+about-debugging-sidebar =
+    .heading = Trình gỡ lỗi

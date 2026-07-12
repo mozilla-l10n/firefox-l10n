@@ -209,3 +209,94 @@ firefoxview-chats-nav = Trò chuyện
 firefoxview-chats-header = Trò chuyện
 firefoxview-chat-context-delete = Xóa khỏi trò chuyện
     .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Tìm kiếm trò chuyện
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Hôm nay - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Hôm qua - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Quay lại trò chuyện của bạn
+firefoxview-chats-empty-description = Khi bạn sử dụng { -smart-window-brand-name }, cuộc trò chuyện của bạn sẽ được lưu tại đây.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count = { $count } cuộc trò chuyện
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Lịch sử duyệt web, tải xuống và trò chuyện
+    .accesskey = B
+item-history-downloads-and-chat-description = Xóa lịch sử trang web, tải xuống và trò chuyện.
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Chọn tất cả
+    .aria-label = Chọn tất cả
+smart-window-confirm-deselect-all =
+    .label = Bỏ chọn tất cả
+    .aria-label = Bỏ chọn tất cả
+smart-window-close-confirm =
+    .aria-label = Hủy yêu cầu và đóng
+    .tooltiptext = Hủy yêu cầu và đóng
+smart-window-confirm-close-tab = Đóng
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs = Đóng { $count } thẻ
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Đã đóng thẻ
+smartwindow-close-tab-callout-subtitle = Mở lại các thẻ từ lịch sử bất cứ lúc nào.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Mở { -smart-window-brand-name } theo mặc định cho bạn?
+smart-window-default-promo-message = { -brand-short-name } sẽ luôn mở trong { -smart-window-brand-name }.
+smart-window-default-promo-primary-button = Đặt làm mặc định
+smart-window-default-promo-additional-button = Không phải bây giờ
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Chia sẻ phản hồi
+aiwindow-feedback-what-worked-well = Cái gì đã hiệu quả? Vui lòng không tiết lộ thông tin cá nhân.
+aiwindow-feedback-choose-any = Chọn bất kỳ mục nào để áp dụng
+aiwindow-feedback-add-details = Thêm chi tiết nếu bạn muốn. Vui lòng không cung cấp thông tin cá nhân.
+aiwindow-feedback-disclaimer = Việc gửi phản hồi này sẽ giúp bạn chia sẻ ý kiến ​​và cuộc trò chuyện này để hỗ trợ { -brand-shorter-name } cải thiện { -smart-window-brand-name }. Các cuộc trò chuyện khác của bạn vẫn giữ riêng tư. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+aiwindow-feedback-submit = Gửi
+aiwindow-feedback-cancel = Hủy bỏ
+aiwindow-feedback-reason-incorrect-or-misleading = Không chính xác hoặc gây hiểu nhầm
+aiwindow-feedback-reason-doesnt-address-my-request = Không đáp ứng yêu cầu của tôi
+aiwindow-feedback-reason-lacks-personalization = Thiếu tính cá nhân hoặc ngữ cảnh
+aiwindow-feedback-reason-performance-or-usability = Vấn đề về hiệu suất hoặc khả năng sử dụng
+aiwindow-feedback-reason-harmful-or-offensive = Có hại hoặc xúc phạm
+aiwindow-feedback-reason-other = Khác
+aiwindow-feedback-preview-report = Xem chi tiết trò chuyện
+aiwindow-feedback-preview-report-with-page = Xem chi tiết cuộc trò chuyện và trang
+aiwindow-feedback-include-page-content = Chia sẻ các trang được nhắc đến trong cuộc trò chuyện này
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Chuyển đổi bố cục hiển thị
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Chuyển đổi chế độ: Xem danh sách
+    .tooltiptext = Chế độ xem danh sách
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Chuyển đổi chế độ: Xem lưới
+    .tooltiptext = Chế độ xem lưới
