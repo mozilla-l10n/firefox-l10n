@@ -189,7 +189,7 @@ newtab-privacy-trackers-blocked-today =
 newtab-privacy-across-sites =
     { $count ->
         [one] באתר אחד
-       *[other] ב־{ NUMBER($count) } אתרים
+       *[other] ב־{ $count } אתרים
     }
 
 ## Privacy widget — empty state
@@ -266,7 +266,7 @@ newtab-privacy-message-promo-relay-3-cta = קבלת מסכות
 newtab-privacy-message-milestone-week =
     { $count ->
         [one] רכיב מעקב אחד נחסם השבוע. ניתן לראות מה { -brand-short-name } משאיר מחוץ לגלישה שלך
-       *[other] { NUMBER($count) } רכיבי מעקב נחסמו השבוע. ניתן לראות מה { -brand-short-name } משאיר מחוץ לגלישה שלך
+       *[other] { $count } רכיבי מעקב נחסמו השבוע. ניתן לראות מה { -brand-short-name } משאיר מחוץ לגלישה שלך
     }
 newtab-privacy-message-milestone-week-cta = הצגת הגנות
 # Variables:
@@ -274,7 +274,7 @@ newtab-privacy-message-milestone-week-cta = הצגת הגנות
 newtab-privacy-message-milestone-month =
     { $count ->
         [one] רכיב מעקב אחד נחסם החודש. צעד קטן לפרטיות. צעד גדול לשקט הנפשי.
-       *[other] { NUMBER($count) } רכיבי מעקב נחסמו השבוע. צעד קטן לפרטיות. צעד גדול לשקט הנפשי.
+       *[other] { $count } רכיבי מעקב נחסמו החודש. צעד קטן לפרטיות. צעד גדול לשקט הנפשי.
     }
 newtab-privacy-message-milestone-month-cta = הצגת הגנות
 # Variables:
@@ -282,7 +282,7 @@ newtab-privacy-message-milestone-month-cta = הצגת הגנות
 newtab-privacy-message-milestone-year =
     { $count ->
         [one] רכיב מעקב אחד נחסם השנה. זו הייתה שנה משמעותית בהגנה על הפרטיות שלך.
-       *[other] { NUMBER($count) } רכיבי מעקב נחסמו השנה. זו הייתה שנה משמעותית בהגנה על הפרטיות שלך.
+       *[other] { $count } רכיבי מעקב נחסמו השנה. זו הייתה שנה משמעותית בהגנה על הפרטיות שלך.
     }
 newtab-privacy-message-milestone-year-cta = הצגת הגנות
 # Variables:
@@ -290,7 +290,7 @@ newtab-privacy-message-milestone-year-cta = הצגת הגנות
 newtab-privacy-message-milestone-total =
     { $count ->
         [one] רכיב מעקב אחד נחסם. עוד צעד משמעותי לשמירה על הפרטיות שלך.
-       *[other] { NUMBER($count) } רכיבי מעקב נחסמו. עוד צעד משמעותי לשמירה על הפרטיות שלך.
+       *[other] { $count } רכיבי מעקב נחסמו. עוד צעד משמעותי לשמירה על הפרטיות שלך.
     }
 newtab-privacy-message-milestone-total-cta = הצגת הגנות
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
