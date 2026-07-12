@@ -712,9 +712,15 @@ applications-handle-new-file-types-description = Як { -brand-short-name } по
 applications-save-for-new-types =
     .label = Зберігати файли
     .accesskey = З
+applications-save-for-new-types2 =
+    .label = Автоматично зберігати файли
+    .accesskey = з
 applications-ask-before-handling =
     .label = Запитувати, відкривати чи зберігати файли
     .accesskey = в
+applications-ask-before-handling2 =
+    .label = Запитувати, відкривати чи зберігати файли
+    .accesskey = п
 drm-group =
     .label = Вміст з керуванням цифровими правами (DRM)
 drm-content-header = Вміст з керуванням цифровими правами (DRM)
@@ -732,6 +738,9 @@ update-history-2 =
     .accesskey = с
 update-application-installation =
     .label = Встановлення
+update-application-auto-2 =
+    .label = Автоматично встановлювати оновлення (рекомендовано)
+    .accesskey = А
 update-history =
     .label = Показати історію оновлень…
     .accesskey = с
@@ -739,6 +748,9 @@ update-application-allow-description = Дозволити { -brand-short-name }
 update-application-auto =
     .label = Автоматично встановлювати оновлення (рекомендовано)
     .accesskey = А
+update-application-check-choose-2 =
+    .label = Перевіряти наявність оновлень, але вибирати, коли їх встановлювати
+    .accesskey = о
 update-application-check-choose =
     .label = Перевіряти наявність оновлень, але дозволяти вам вирішувати чи встановлювати їх
     .accesskey = П
@@ -750,6 +762,9 @@ update-application-background-enabled =
     .accesskey = К
 update-application-warning-cross-user-setting-2 =
     .message = Цей параметр застосується для всіх облікових записів Windows та профілів { -brand-short-name }, що використовують це встановлення { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Показувати менше нагадувань про оновлення
+    .accesskey = н
 update-application-warning-cross-user-setting = Цей параметр застосується для всіх облікових записів Windows та профілів { -brand-short-name }, що використовують це встановлення { -brand-short-name }.
 update-application-use-service =
     .label = Використовувати фонову службу для встановлення оновлень
@@ -772,6 +787,21 @@ update-in-progress-ok-button = &Відхилити
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Про { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Оновлення { -brand-short-name }
+    .description = Оновлення покращують швидкість, стабільність і безпеку { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Сповіщення
+update-application-updates-managed-by-os =
+    .message = Оновленнями керує ваша операційна система
 
 ## Firefox support
 
@@ -804,6 +834,10 @@ performance-default-content-process-count =
     .label = { $num } (типово)
 performance-group =
     .label = Продуктивність
+performance-use-recommended-settings-checkbox-2 =
+    .label = Використовувати рекомендовані налаштування швидкодії
+    .accesskey = В
+    .description = Ці налаштування підібрані для вашого обладнання й операційної системи.
 
 ## Accessibility page
 
@@ -813,6 +847,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Використовувати автоматичне прокручування
     .accesskey = р
+keyboard-and-scrolling-group =
+    .label = Навігація та прокручування за допомогою клавіатури
+motion-and-link-group =
+    .label = Стилі рухів та посилань
 browsing-use-smooth-scrolling =
     .label = Використовувати плавне прокручування
     .accesskey = л
@@ -834,6 +872,16 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Шукати текст під час його введення
     .accesskey = й
+settings-keyboard-shortcuts-group =
+    .label = Комбінації клавіш
+    .description = Контролюйте спосіб навігації та взаємодії з { -brand-short-name }.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Налаштувати комбінації клавіш
+settings-media-group =
+    .label = Медіа
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Використовувати зображення в зображенні
+    .accesskey = З
 browsing-picture-in-picture-toggle-enabled =
     .label = Увімкнути керування відео зображення в зображенні
     .accesskey = з
@@ -844,6 +892,8 @@ browsing-picture-in-picture-learn-more = Докладніше
 browsing-media-control =
     .label = Контролювати медіа клавіатурою, гарнітурою чи віртуальним інтерфейсом
     .accesskey = ю
+recommendations-group =
+    .label = Рекомендації
 browsing-media-control-learn-more = Докладніше
 browsing-cfr-recommendations =
     .label = Рекомендувати розширення під час перегляду
@@ -855,6 +905,22 @@ browsing-cfr-recommendations-learn-more = Докладніше
 browsing-group =
     .label = Перегляд сайтів
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Доступність
+preferences-default-zoom-select =
+    .aria-label = Типовий масштаб
+preferences-fonts-family =
+    .label = Тип шрифту
+    .accesskey = Т
+preferences-fonts-size =
+    .label = Розмір шрифту
+    .accesskey = Р
+preferences-fonts-advanced-settings =
+    .label = Розширені налаштування
+    .accesskey = Р
+
 ## General Section - Proxy
 
 network-settings-title = Налаштування мережі
@@ -863,14 +929,29 @@ network-proxy-connection-learn-more = Докладніше
 network-proxy-connection-settings =
     .label = Налаштувати…
     .accesskey = а
+network-proxy-group2 =
+    .label = Параметри проксі
+    .description = Налаштування способу з'єднання { -brand-short-name } з інтернетом.
+network-proxy-connection-settings2 =
+    .label = Налаштувати проксі
+    .description = Зміна цих налаштувань може спричинити проблеми зі з'єднанням
+    .accesskey = п
 
 ## Home Section
 
 home-new-windows-tabs-header = Нові вікна і вкладки
 home-new-windows-tabs-description2 = Оберіть, що ви хочете бачити, відкриваючи домівку, нові вікна і вкладки.
+home-section =
+    .heading = Домівка та запуск
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Типовий браузер
+is-default-browser-2 =
+    .message = { -brand-short-name } – ваш типовий браузер. Чудовий вибір.
+is-not-default-browser-2 =
+    .message = Здається, { -brand-short-name } не є вашим типовим браузером.
 set-as-my-default-browser-2 =
     .label = Зробити типовим
     .accesskey = т
@@ -935,6 +1016,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Ще не додано жодного вебсайту.
+home-custom-homepage-delete-address-button =
+    .title = Видалити адресу
+    .aria-label = Видалити адресу
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -1072,6 +1156,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Показувати пошукові пропозиції в результатах панелі адреси
     .accesskey = ш
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Показувати пошукові пропозиції перед історією перегляду в результатах панелі адреси
+search-show-suggestions-private-windows-2 =
+    .label = Пошукові пропозиції у приватних вікнах
 search-suggestions-cant-show-2 =
     .message = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 addressbar-header-1 =
@@ -1090,6 +1183,8 @@ search-separate-default-engine-2 =
     .accesskey = п
 search-separate-default-engine-dropdown =
     .aria-label = Типова пошукова система в приватних вікнах
+search-suggestions-header-2 =
+    .label = Пропозиції пошукових систем
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
