@@ -93,6 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Zegar
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Prywatność
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Giełda
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Zdjęcie dnia
 home-prefs-mission-message2 =
     .message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 home-prefs-manage-topics-link2 =
@@ -152,6 +161,95 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Wspieraj { -brand-product-name(case: "acc") }
 home-prefs-mission-message-learn-more-link-srd = Więcej informacji
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Więcej informacji
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Więcej informacji
+newtab-privacy-message-info-8-cta = Więcej informacji
+newtab-privacy-message-info-11-cta = Więcej informacji
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Więcej informacji
+newtab-privacy-message-promo-monitor-2-cta = Więcej informacji
+newtab-privacy-message-promo-signin-1-cta = Zaloguj się
+newtab-privacy-message-promo-vpn-1-cta = Otwórz VPN
+newtab-privacy-message-promo-vpn-2-cta = Otwórz VPN
+newtab-privacy-message-promo-vpn-3-cta = Otwórz VPN
+newtab-privacy-message-promo-private-window-1-cta = Otwórz prywatne okno
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Więcej informacji
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Opcje widżetu giełdy
+    .aria-label = Opcje widżetu giełdy
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Giełda
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Zdjęcie dnia · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Zdjęcie dnia
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Wyświetl licencję { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Opcje zdjęcia dnia
+    .aria-label = Opcje zdjęcia dnia
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Ustaw tapetę
+    .title = Ustaw tapetę
+    .aria-label = Ustaw zdjęcie dnia jako tapetę
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Zarządzaj tapetą
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Ukryj zdjęcie dnia
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Wyświetl zdjęcie dnia
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Więcej informacji
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Wyświetl zdjęcie dnia
+    .aria-label = Wyświetl zdjęcie dnia
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Zdjęcie dnia z Wikimedia Commons
 
 ## Search box component.
 
@@ -500,6 +598,12 @@ newtab-custom-widget-clock-toggle =
     .label = Zegar
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+newtab-custom-widget-privacy-toggle =
+    .label = Prywatność
+newtab-custom-widget-stocks-toggle =
+    .label = Giełda
+newtab-custom-widget-picture-toggle =
+    .label = Zdjęcie dnia
 newtab-custom-widget-section-title = Widżety
 newtab-custom-widget-section-toggle =
     .label = Widżety

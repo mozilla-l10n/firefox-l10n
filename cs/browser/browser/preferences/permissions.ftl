@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Zde můžete určit, které servery mohou nebo nesmí používat cookies a data stránek. Zadejte přesnou adresu serveru a klepněte na tlačítko Blokovat, Povolit pro relaci nebo Povolit.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = Výjimky – Vymazání historie při vypnutí
+permissions-exceptions-shutdown-clearing-desc = Můžete určit, které webové stránky si ponechají svá data, když { -brand-short-name } při zavření vymaže historii. Zadejte přesnou adresu stránky, kterou chcete spravovat, a poté klepněte na Povolit.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

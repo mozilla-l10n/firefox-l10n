@@ -11,6 +11,9 @@
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = یو { -brand-shorter-name }
 # Sidebar heading and title for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox2 = یو { -brand-shorter-name }
 about-debugging-sidebar-this-firefox-title =
@@ -19,6 +22,10 @@ about-debugging-sidebar-this-firefox-title =
 about-debugging-sidebar-setup2 = وورکل کردن
 about-debugging-sidebar-setup-title =
     .title = وورکل کردن
+# Sidebar heading for selecting the currently running instance of Firefox
+# .name is processed by fluent-react / SidebarFixedItem
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-setup =
@@ -39,6 +46,8 @@ about-debugging-sidebar-item-connect-button = منپیز
 about-debugging-sidebar-item-connect-button-connecting = هونی منپیز ابۊ…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = منپیز شکست خرد
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = زمووݩ منپیز تموم وابی
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = سوا وابیڌه
@@ -126,6 +135,16 @@ about-debugging-runtime-disconnect-button = قت کردن منپیز
 
 # Debug Targets strings
 
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = بازرسی
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = گۊشیڌن دووارته
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = پاک کردن
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
@@ -134,5 +153,9 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = شناسه وردنی
+# Displayed for extension using a non-persistent background page when is currently stopped.
+about-debugging-extension-backgroundscript-status-stopped = واڌاشته وابیڌه
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = جۊزعیات
 about-debugging-sidebar =
     .heading = موشکل زودایی

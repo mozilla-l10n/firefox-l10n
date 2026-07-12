@@ -47,4 +47,10 @@ toolbox-always-on-top-disabled2 = Povolit vždy navrchu
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Tento dokument lze také načíst z adresy „{ $url }“ pomocí „lokálního režimu“ v Nástrojích pro vývojáře, který lze aktivovat v panelu nastavení.
+toolbox-local-mode-notice-add-to-settings-button = Přidat do nastavení
 toolbox-local-mode-notice-try-it-button = Vyzkoušejte ho
+toolbox-local-mode-notice-navigate-to-existing-mapping = Přejít na existující mapování
+toolbox-local-mode-notice-always-hide = Příště už nezobrazovat
