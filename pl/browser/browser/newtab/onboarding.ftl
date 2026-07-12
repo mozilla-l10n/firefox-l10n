@@ -448,6 +448,10 @@ onboarding-checklist-pin = Przypnij { -brand-short-name(case: "acc") } do paska 
 onboarding-checklist-import = Importuj z poprzedniej przeglądarki
 onboarding-checklist-extension = Dodaj rozszerzenie
 onboarding-checklist-sign-up = Zaloguj się lub utwórz konto
+onboarding-checklist-minimize =
+    .label = Minimalizuj
+onboarding-checklist-remove =
+    .label = Usuń listę
 
 ## Tab Groups feature onboarding strings
 
@@ -596,3 +600,12 @@ onboarding-refresh-sync-title = Gdziekolwiek jesteś. Synchronizuj wszystko.
 onboarding-refresh-gratitude-subtitle = Dziękujemy za używanie { -brand-short-name(case: "gen") }, jedynej dużej przeglądarki wspieranej przez organizację non-profit. Z waszą pomocą pracujemy nad tym, aby Internet był bezpieczniejszy i bardziej dostępny dla wszystkich.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stronie
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Kontynuuj
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-dismiss = Nie, dziękuję
+smartwindow-sidebar-auto-open-callout-rejected-title = OK

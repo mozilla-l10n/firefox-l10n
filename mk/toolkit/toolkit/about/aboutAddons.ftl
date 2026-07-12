@@ -65,6 +65,7 @@ detail-private-disallowed-label = Не е дозволено во приватн
 detail-private-disallowed-description2 = Ова проширување не работи во приватно сурфање. <a data-l10n-name="learn-more">Дознајте повеќе</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Бара пристап до привататни прозорци
+detail-private-required-description2 = Ова проширување има пристап до Вашите активности на интернет при приватно сурфање. <a data-l10n-name="learn-more">Дознајте повеќе</a>
 detail-private-browsing-on =
     .label = Дозволи
     .tooltiptext = Дозволи во приватно прелистување

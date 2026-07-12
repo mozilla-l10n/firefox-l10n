@@ -1781,6 +1781,10 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title2 = Паролі й автозаповнення
+    .title = Паролі й автозаповнення
+preferences-passwords-autofill-header =
+    .heading = Паролі й автозаповнення
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1845,6 +1849,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Налаштування…
     .accesskey = Н
+history-shutdown-exceptions =
+    .label = Керувати винятками
+    .accesskey = в
 history-clear-button =
     .label = Стерти історію…
     .accesskey = С
@@ -1884,6 +1891,9 @@ sitedata-delete-on-close =
     .accesskey = я
 sitedata-delete-on-close-private-browsing3 =
     .message = На основі ваших налаштувань історії { -brand-short-name } видаляє файли cookie та дані сайтів вашого сеансу після закриття браузера.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Історія не зберігається.
+    .message = { -brand-short-name } стирає файли cookie та дані сайтів вашого сеансу, коли ви закриваєте браузер.
 sitedata-delete-on-close-private-browsing = В режимі постійного приватного перегляду, файли cookie та дані сайтів завжди очищатимуться під час закриття { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = На основі ваших налаштувань історії { -brand-short-name } видаляє файли cookie та дані сайтів вашого сеансу після закриття браузера.
 sitedata-allow-cookies-option =
@@ -1929,6 +1939,16 @@ sitedata-cookies-exceptions2 =
     .label = Керування винятками
     .accesskey = в
     .description = Ви можете вказати сайти, яким дозволено або заборонено використовувати файли cookie та дані.
+sitedata-heading =
+    .label = Дані перегляду
+    .description = Керування файлами cookie, історією, кешем, даними вебсайтів тощо.
+sitedata-settings3 =
+    .label = Стерти дані для окремих сайтів
+    .accesskey = о
+sitedata-cookies-exceptions3 =
+    .label = Керувати винятками
+    .accesskey = в
+    .description = Оберіть, як окремі сайті мають обробляти файли cookie та дані.
 cookies-site-data-group =
     .label = Файли cookie та дані сайтів
 
@@ -2193,6 +2213,16 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блокувати спливні вікна та сторонні переспрямування
     .accesskey = Б
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Керувати винятками
+    .accesskey = в
+    .description = Додайте вебсайти, які можуть відкривати спливні вікна та переспрямовувати вас на сторонні ресурси.
+    .searchkeywords = спливні вікна
+permissions-addon-install-warning3 =
+    .label = Показувати попередження про спроби вебсайтів встановити розширення
+    .accesskey = П
 permissions-addon-exceptions2 =
     .label = Виберіть вебсайти, які можуть встановлювати розширення
     .accesskey = ь
@@ -2228,6 +2258,13 @@ permissions-speaker2 =
     .label = Гучномовець
 permissions-notification2 =
     .label = Сповіщення
+permissions-header3 =
+    .label = Дозволи
+    .description = Керуйте тим, до чого вебсайти мають доступ, що можуть контролювати й ініціювати.
+permissions-data-section =
+    .heading = Дозволи й дані
+pane-permissions-data-title2 = Дозволи й дані
+    .title = Дозволи й дані
 
 ## Privacy Section - Data Collection
 
@@ -2242,6 +2279,11 @@ collection-description = Ми прагнемо надати вам вибір і
 collection-privacy-notice = Положення про приватність
 collection-health-report-telemetry-disabled = Ви більше не дозволяєте { -vendor-short-name } збирати технічні дані й інформацію про взаємодію. Всі минулі дані будуть видалені протягом 30 днів.
 collection-health-report-telemetry-disabled-link = Докладніше
+backup-multi-profile-warning-message =
+    .message = Щоб гарантовано включити цю зміну до ваших резервних копій, відкрийте кожен профіль і виберіть в налаштуваннях “Створити резервну копію”.
+nimbus-rollouts =
+    .label = Дозволити { -brand-short-name } покращувати функції, продуктивність та стабільність між оновленнями
+    .description = Впровадження змін відбуватиметься віддалено.
 addon-recommendations3 =
     .label = Дозволити персоналізовані рекомендації розширень
     .description = Отримуйте рекомендації щодо розширень, щоб покращити роботу в інтернеті.
@@ -2273,6 +2315,12 @@ collection-backlogged-crash-reports2 =
     .label = Автоматично надсилати звіти про збої
     .accesskey = з
 collection-backlogged-crash-reports-description = Це допомагає { -vendor-short-name } діагностувати й усувати проблеми з браузером. Звіти можуть містити особисті або конфіденційні дані.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Ті самі налаштування – новий вигляд!
+    .message = Ми переробили цю сторінку для зручнішого сприйняття та користування. Ваші налаштування не змінилися – усі вони досі тут. Порада: скористайтеся пошуком, щоб одразу перейти до того, що вам потрібно.
+settings-redesign-promo-dismiss-button =
+    .label = Зрозуміло
 addon-recommendations =
     .label = Дозволити { -brand-short-name } робити персоналізовані рекомендації розширень
 addon-recommendations-link = Докладніше
@@ -2302,8 +2350,19 @@ data-collection-health-report =
     .label = Надсилати технічні й аналітичні дані до { -vendor-short-name }
     .accesskey = с
     .description = Це допомагає вдосконалити функції, продуктивність і стабільність { -brand-product-name }.
+data-collection-health-report-disabled =
+    .label = Надсилати технічні й аналітичні дані до { -vendor-short-name }
+    .accesskey = с
+    .description = Відправлення даних вимкнено для цієї конфігурації збірки.
+data-collection-run-studies =
+    .label = Дозволити { -brand-short-name } проводити дослідження функцій
+    .description = { -brand-short-name } випадковим чином обирає користувачів для тестування функцій, що допомагає підвищити якість для всіх.
 data-collection-studies-link =
     .label = Переглянути дослідження { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .label = Автоматично надсилати звіти про збої
+    .accesskey = з
+    .description = Це допомагає { -vendor-short-name } виявляти та виправляти проблеми з браузером. Звіти можуть містити особисті та конфіденційні дані.
 data-collection-usage-ping =
     .label = Надсилати щоденний сигнал використання до { -vendor-short-name }
     .description = Це допомагає { -vendor-short-name } оцінити активних користувачів.
@@ -2323,11 +2382,16 @@ website-advertising-private-attribution-description = Завдяки цьому 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безпека
+browsing-protection-group2 =
+    .label = Захист від шахрайського вмісту та зловмисних програм
+    .description = Зловмисні сайти та завантаження можуть становити загрозу для ваших даних і пристрою. { -brand-short-name } автоматично блокуватиме їх і попереджатиме вас про небезпечне чи небажане програмне забезпечення.
 security-browsing-protection = Шахрайський вміст і захист від зловмисних програм
 security-enable-safe-browsing =
     .label = Блокувати небезпечний і шахрайський вміст
     .accesskey = Б
 security-enable-safe-browsing-link = Докладніше
+security-safe-browsing-warning =
+    .message = Вимкнення цієї функції зменшує захист від шахрайства, зловмисних сайтів і небезпечних завантажень.
 security-block-downloads =
     .label = Блокувати небезпечні завантаження
     .accesskey = з
@@ -2356,6 +2420,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = В
 space-alert-over-5gb-message2 = <strong>Для { -brand-short-name } закінчується місце на диску.</strong> Вміст вебсайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Файли cookie та дані сайтів.
 space-alert-under-5gb-message2 = <strong>Для { -brand-short-name } закінчується місце на диску.</strong> Вміст вебсайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання диска для кращої роботи.
+certs-description3 =
+    .label = Сертифікати
+    .description = Налаштуйте сертифікати, які { -brand-short-name } використовує для перевірки захищених з'єднань.
+certs-view2 =
+    .label = Керувати сертифікатами
+    .accesskey = с
+certs-devices2 =
+    .label = Керувати пристроями захисту
+    .accesskey = п
 
 ## Privacy Section - HTTPS-Only
 
@@ -2376,6 +2449,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS-режим
     .description = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 

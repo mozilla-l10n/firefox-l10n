@@ -473,8 +473,14 @@ set-default-menu-message-split-layout-title =
         [macos] Miej { -brand-short-name(case: "acc") } zawsze pod ręką
        *[other] Otwieraj wszystkie odnośniki w { -brand-short-name(case: "loc") }
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Ustaw jako domyślną przeglądarkę i zatrzymaj w Docku.
+       *[other] Szybsze przeglądanie Internetu i automatyczna ochrona prywatności.
+    }
 set-default-menu-message-primary-button = Ustaw jako domyślną
 set-default-menu-message-primary-button-variant = Ustaw jako główną przeglądarkę
+set-default-menu-message-primary-button-short-variant = Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -485,3 +491,11 @@ relay-50-masks-announcement-primary-button = Otwórz { -relay-brand-name }
     .accesskey = O
 relay-50-masks-announcement-secondary-button = Zamknij
     .accesskey = Z
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } będzie miał nowy wygląd.</strong> Oto wczesna, nieoszlifowana wersja, którą można wypróbować przed premierą zaplanowaną na drugą połowę tego roku.
+nova-early-access-share-feedback-link = Podziel się opinią
+    .accesskey = P
+nova-early-access-infobar-primary-button = OK
+    .accesskey = O
