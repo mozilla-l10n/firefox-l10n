@@ -263,6 +263,9 @@ details-notification-soft-blocked-extension-disabled =
     .message = ای وردنی سی دل زؽر پا ناهاڌن خت مشیا Mozilla مسدۊد وو قیر فعال وابیڌه. ترین فعالس کۊنین ٱما یو گاشڌ خترناک بۊ.
 details-notification-soft-blocked-extension-enabled =
     .message = ای وردنی وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
+details-notification-soft-blocked-other-enabled =
+    .message = ای وردنی وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
+details-notification-softblocked-link2 = نیشتن جۊزعیات
 details-notification-blocked-link = دووسمندیا قلوه
 details-notification-softblocked-link = دووسمندیا قلوه
 
@@ -276,6 +279,7 @@ plugins-gmp-privacy-info = دووسمندیا هریم سیخومی
 
 addon-permissions-required-data-collection = کتن کردن داده یل خاستنی:
 addon-permissions-optional-data-collection = کتن کردن داده یل اختیاری:
+addon-permissions-data-collection-heading = کتن کردن داده یل
 addon-permissions-data-collection-empty = برنومه نویس اگو ای وردنی لنگ کتن کردن داده یل نؽ.
 addon-data-collection-learnmore = زبار کتن کردن داده یل قلوه دووسته بۊین
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-reader-loading = هونی بار اونه…
 
 ## These are the styles of typeface that are options in the reader view controls.
 
