@@ -256,17 +256,51 @@ newtab-privacy-message-info-10 =
        *[no-cases] Ukládejte si hesla do aplikace { -brand-short-name }, abyste mohli všude používat silná a jedinečná přihlašovací hesla.
     }
 newtab-privacy-message-info-10-cta = Přejít na hesla
+newtab-privacy-message-info-11 = Zjistěte, jak vám { -brand-short-name } pomáhá zajistit větší soukromí při procházení webu.
+newtab-privacy-message-info-11-cta = Zjistit více
+newtab-privacy-message-info-12 = Blokování sledovacích modulů může pomoci ušetřit přenos u datových tarifů s omezeným objemem dat.
+newtab-privacy-message-info-12-cta = Zobrazit ochrany
+newtab-privacy-message-info-13 = { -brand-short-name } blokuje sledovací soubory, čímž uvolňuje šířku pásma pro plynulejší streamování.
+newtab-privacy-message-info-13-cta = Zobrazit ochrany
 
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Zjistěte, zda se vaše osobní údaje objevují v seznamu obětí úniku dat.
+newtab-privacy-message-promo-monitor-1-cta = Zjistit více
+newtab-privacy-message-promo-monitor-2 = Chraňte své údaje pomocí bezplatného monitorování úniků dat – až pro 20 e-mailových adres.
+newtab-privacy-message-promo-monitor-2-cta = Zjistit více
+newtab-privacy-message-promo-signin-1 = Pomocí svého účtu { -vendor-short-name } můžete zajistit šifrování záložek, hesel a otevřených panelů na všech zařízeních.
+newtab-privacy-message-promo-signin-1-cta = Přihlásit se
+newtab-privacy-message-promo-vpn-1 = Nakupujete přes veřejnou Wi-Fi? Zapněte vestavěnou VPN a zajistěte si tak větší ochranu.
+newtab-privacy-message-promo-vpn-1-cta = Otevřít VPN
+newtab-privacy-message-promo-vpn-2 = Používáte Wi-Fi na letišti? Chraňte své prohlížení internetu zapnutím vestavěné VPN.
+newtab-privacy-message-promo-vpn-2-cta = Otevřít VPN
+newtab-privacy-message-promo-vpn-3 = Zapněte vestavěnou síť VPN, abyste lépe ochránili svou polohu.
+newtab-privacy-message-promo-vpn-3-cta = Otevřít VPN
+newtab-privacy-message-promo-private-window-1 = Zkuste použít anonymní okno, abyste mohli při používání sdíleného počítače procházet internet diskrétněji.
 newtab-privacy-message-promo-private-window-1-cta = Otevřít anonymní okno
+newtab-privacy-message-promo-relay-1 = Svou skutečnou e-mailovou adresu si schovejte pro lidi, kterým důvěřujete; při registracích používejte fiktivní e-mailovou adresu.
 newtab-privacy-message-promo-relay-1-cta = Získat masky
 newtab-privacy-message-promo-relay-2 = Chraňte svou doručenou poštu před nevyžádanou poštou pomocí bezplatného maskování e-mailových adres.
 newtab-privacy-message-promo-relay-2-cta = Získat masky
+newtab-privacy-message-promo-relay-3 = Získejte 50 bezplatných e-mailových masek, které vám pomohou uchovat vaši skutečnou e-mailovou adresu v tajnosti.
 newtab-privacy-message-promo-relay-3-cta = Získat masky
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Zobrazit ochrany
+newtab-privacy-message-milestone-month-cta = Zobrazit ochrany
+newtab-privacy-message-milestone-year-cta = Zobrazit ochrany
+newtab-privacy-message-milestone-total-cta = Zobrazit ochrany
+newtab-privacy-message-daily-cap-cta = Zobrazit ochrany
+newtab-privacy-message-streak-cta = Zobrazit ochrany
+newtab-privacy-message-first-protection-cta = Zobrazit ochrany
 
 ## Strings for the Stocks widget
 
@@ -274,6 +308,8 @@ newtab-privacy-message-promo-relay-3-cta = Získat masky
 newtab-stocks-menu-search = Hledat burzové symboly
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Zjistit více
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Akcie
 
 ## Strings for the Picture of the Day widget
 
@@ -282,6 +318,24 @@ newtab-stocks-menu-learn-more = Zjistit více
 newtab-picture-header = Obrázek dne · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Obrázek dne
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Zobrazit licenci { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Možnosti pro obrázek dne
+    .aria-label = Možnosti pro obrázek dne
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -1476,6 +1530,7 @@ newtab-sports-widget-team-tbd = Bude upřesněno
 newtab-sports-widget-message-wallpapers-title = Odstartujte světový šampionát s novými tapetami
 newtab-sports-widget-message-wallpapers-body = Vneste do svého prohlížeče trochu té zápasové energie na dobu turnaje.
 newtab-sports-widget-message-wallpapers-cta = Zvolte si tapetu
+newtab-sports-widget-message-wallpapers-semifinals-title = Získejte novou tapetu pro semi-finále
 newtab-sports-widget-message-add-widgets-cta =
     .label = Přidat widgety
 newtab-sports-widget-message-day-in-play-title =

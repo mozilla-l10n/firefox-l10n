@@ -206,6 +206,7 @@ firefoxview-search-chat-results-count =
 smart-window-confirm-select-all =
     .label = پسند پوی
     .aria-label = پسند پوی
+smart-window-confirm-close-tab = بستن
 # Variables
 #   $count (number) - Number of tabs to close
 smart-window-confirm-close-tabs =
@@ -220,8 +221,14 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = بلگه بسته وابیڌه
 
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = سامووݩ و عونوان پؽش فرز
+smart-window-default-promo-additional-button = سکو ن
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = یک رسۊوی منشڌ
 aiwindow-feedback-submit = فشناڌن
 aiwindow-feedback-cancel = لقو
 aiwindow-feedback-reason-harmful-or-offensive = موزر یا توهین کردنی
