@@ -21,7 +21,7 @@ autofill-manage-edit-button = Edita…
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-address-capture-save-doorhanger-header = Vols desar l'adreça?
+address-capture-save-doorhanger-header = Voleu desar l’adreça?
 address-capture-save-doorhanger-description = Deseu la informació al { -brand-short-name } per poder emplenar els formularis ràpidament.
 address-capture-update-doorhanger-header = Voleu actualitzar l'adreça?
 address-capture-edit-doorhanger-header = Edita l'adreça
