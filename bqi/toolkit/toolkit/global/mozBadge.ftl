@@ -2,11 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-alert-close =
-    .tooltiptext = بستن ای وارسۊوی
-alert-settings-title =
-    .tooltiptext = سامووا
 
-## Reminder Notifications
+## A small badge added to feature (text in a bordered or coloured box)
+## labels or buttons to indicate "New" or in "Beta".
 
-notification-default-dismiss = رڌ کردن
+moz-badge-beta2 = آزمایشی
+moz-badge-new2 = نۊ

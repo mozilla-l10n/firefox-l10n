@@ -33,8 +33,14 @@ user-context-new-tab =
 
 user-context-color-blue =
     .label = کوۊ
+user-context-color-cyan =
+    .label = فیرۊزه ای
 user-context-color-green =
     .label = ساوز
+user-context-color-yellow =
+    .label = هیل
+user-context-color-orange =
+    .label = نارنجی
 user-context-color-red =
     .label = سوئر
 user-context-color-pink =

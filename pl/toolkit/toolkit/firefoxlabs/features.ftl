@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Korzystanie z lokal
 experimental-features-tab-notes =
     .label = Notatki na kartach
 experimental-features-tab-notes-description = Notatki na kartach to eksperymentalna funkcja umożliwiająca dodawanie karteczek samoprzylepnych do kart przeglądarki. Zanotuj kontekst, przypomnienia lub kolejne kroki, aby móc do niej wrócić i przypomnieć sobie, dlaczego jest otwarta. Chętnie poznamy Twoją opinię, ponieważ stale ulepszamy tę funkcję. <a data-l10n-name="connect">Podziel się opinią</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Uproszczone menu karty
+experimental-features-tab-context-menu-description = Prostsze menu kontekstowe karty po kliknięciu jej prawym przyciskiem. Zostało ono zaprojektowane tak, aby można było łatwiej odszukać najczęściej potrzebne działania. <a data-l10n-name="connect">Podziel się opinią</a>

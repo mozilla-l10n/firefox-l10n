@@ -28,6 +28,7 @@ webext-perms-sideload-cancel =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = برنومه نویس اگو ای وردنی لنگ کتن کردن داده یل نؽ.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } درخاست سامووا بیشتری ن داره

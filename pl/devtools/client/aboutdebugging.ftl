@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Narzędzia wieloprocesowe
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Główny proces i procesy treści dla przeglądarki docelowej
+about-debugging-message-error-icon =
+    .alt = Ikona błędu
+about-debugging-message-info-icon =
+    .alt = Ikona informacji
+about-debugging-message-warning-icon =
+    .alt = Ikona ostrzeżenia
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Zamknij komunikat
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Informacje o błędzie
 about-debugging-message-details-label-warning = Informacje o ostrzeżeniu
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Informacje
+about-debugging-sidebar =
+    .heading = Debugowanie

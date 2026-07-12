@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Otwarte karty
 sidebar-options-menu-button =
     .title = Otwórz menu
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Zmień rozmiar panelu bocznego
 
 ## Labels for sidebar history panel
 
@@ -226,6 +229,19 @@ sidebar-opentabs-title = Otwarte karty
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Przypięte karty
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Okno { $winID } (bieżące)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Okno { $winID }
+sidebar-bookmarks-title = Zakładki
 
 ## Context for closing synced tabs when hovering over the items
 

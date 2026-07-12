@@ -157,6 +157,14 @@ home-prefs-mission-message-learn-more-link-srd = Spoznajte, kako
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Več o tem
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-vpn-1 = Nakupujete prek javnega omrežja Wi-Fi? Vklopite vgrajeni VPN za dodatno zaščito.
+newtab-privacy-message-promo-vpn-1-cta = Odpri VPN
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -1006,6 +1014,7 @@ newtab-widget-timer-menu-hide = Skrij časovnik
 
 ##
 
+newtab-sports-widget-menu-follow-teams = Spremljaj ekipe
 newtab-sports-widget-menu-view-schedule = Prikaži razpored
 newtab-sports-widget-menu-view-upcoming = Prikaži prihodnje
 newtab-sports-widget-menu-view-results = Prikaži izide
