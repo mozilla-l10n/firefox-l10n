@@ -99,3 +99,6 @@ experimental-features-semantic-history-search-description = { -brand-product-nam
 experimental-features-tab-notes =
     .label = Бет түсіндірмелері
 experimental-features-tab-notes-description = Бет түсіндірмелері — бұл браузер беттеріне жабысқақ түсіндірмелер қосуға мүмкіндік беретін эксперименттік функция. Мән-жайды, еске салғыштарды немесе келесі қадамдарды жазып қойыңыз, сонда бетті не үшін ашқаныңызды әрқашан еске түсіре аласыз. Бұл функцияны жетілдіру барысында сіздің пікіріңізді білгіміз келеді. <a data-l10n-name="connect">Пікір қалдыру</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Оңтайландырылған беттер мәзірі

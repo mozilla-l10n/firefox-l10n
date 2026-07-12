@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Қате ақпараты
 about-debugging-message-details-label-warning = Ескерту ақпараты
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Ақпараты
+about-debugging-sidebar =
+    .heading = Жөндеу
