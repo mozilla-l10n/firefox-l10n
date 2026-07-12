@@ -301,6 +301,20 @@ launch-on-login-infobar-final-message = <strong>Czy otwierać { -brand-short-nam
 launch-on-login-infobar-final-reject-button = Nie, dziękuję
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Czy automatycznie otwierać { -brand-short-name(case: "acc") } po włączeniu komputera?
+launch-on-login-spotlight-startup-checkbox = Otwieraj { -brand-short-name(case: "acc") } po włączeniu komputera
+launch-on-login-spotlight-pin-taskbar-checkbox = Przypnij do paska zadań
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Otwieraj poprzednie okna i karty
+launch-on-login-spotlight-primary-button = Zachowaj i zamknij { -brand-short-name(case: "acc") }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -453,6 +467,11 @@ set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
         [macos] Miej { -brand-short-name(case: "acc") } zawsze pod ręką — ustaw go jako domyślną przeglądarkę i zatrzymaj go w Docku.
        *[other] Miej { -brand-short-name(case: "acc") } zawsze pod ręką — ustaw go jako domyślną przeglądarkę i zatrzymaj go na pasku zadań.
+    }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Miej { -brand-short-name(case: "acc") } zawsze pod ręką
+       *[other] Otwieraj wszystkie odnośniki w { -brand-short-name(case: "loc") }
     }
 set-default-menu-message-primary-button = Ustaw jako domyślną
 set-default-menu-message-primary-button-variant = Ustaw jako główną przeglądarkę
