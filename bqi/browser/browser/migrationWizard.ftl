@@ -61,6 +61,7 @@ migration-session-option-label = نیمدری یل وو بلگه یل
 migration-otherdata-option-label = داده یل دیر
 migration-passwords-from-file-progress-header = و من ٱووردن فایل رزما
 migration-passwords-from-file-success-header = رزما و خۊوی و من ٱوورده وابین
+migration-passwords-from-file = واجۊری فایل سی رزما
 migration-passwords-new = رزما نۊ
 migration-passwords-updated = رزما هیم سکویی
 migration-passwords-from-file-picker-title = و من ٱووردن فایل رزما

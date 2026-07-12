@@ -78,14 +78,19 @@ ipprotection-connection-status-connecting-1 = VPN هونی منپیز ابۊ…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = جاگه: پؽشنهاڌ وابیڌه
 ipprotection-recommended-location-badge = نۊ
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = جاگه: { $country }
 ipprotection-locations-subview =
     .title = پسند جاگه
+ipprotecion-locations-subview-recommended-label = پؽشنهاڌ وابیڌه
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = مووجۊد نؽ
+ipprotection-locations-subview-promo-button = گرؽڌن { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -96,6 +101,7 @@ upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
 ipprotection-connection-status-network-error-title-1 = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
     .aria-label = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
+ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
 ## IP Protection Settings
 
@@ -121,6 +127,10 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = دؽوۉداری سامووا وبگه
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header-1 = مئدۊدیت داده ماهانه
 
 ## IP Protection bandwidth reset callout
 

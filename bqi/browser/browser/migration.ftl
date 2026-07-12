@@ -93,6 +93,18 @@ browser-data-history-label =
             [firefox] ویرگار گشتن وو نشووکا
            *[other] ویرگار گشتن
         }
+browser-data-formdata-checkbox =
+    .label = زفت وابیڌه ز ویرگار
+browser-data-formdata-label =
+    .value = زفت وابیڌه ز ویرگار
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = و من ٱووڌنا وو رزما زفت وابیڌه
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = و من ٱووڌنا وو رزما زفت وابیڌه
 browser-data-otherdata-checkbox =
     .label = داده یل دیر
 browser-data-otherdata-label =
