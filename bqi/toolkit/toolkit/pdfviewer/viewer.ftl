@@ -5,6 +5,31 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = بلگه دیندایی
+pdfjs-previous-button-label = دیندایی
+pdfjs-next-button =
+    .title = بلگه نیایی
+pdfjs-next-button-label = بئڌی
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = بلگه
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = ز { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } ز { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = کۊچیر نمایی
+pdfjs-zoom-out-button-label = کۊچیر نمایی
+pdfjs-zoom-in-button =
+    .title = گپ نمایی
+pdfjs-zoom-in-button-label = گپ نمایی
+pdfjs-zoom-select =
+    .title = گپ نمایی
 pdfjs-print-button =
     .title = چاپ
 pdfjs-print-button-label = چاپ
