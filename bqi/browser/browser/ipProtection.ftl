@@ -76,6 +76,17 @@ ipprotection-connection-status-excluded-1 = VPN سی ای وبگه کۊر هڌ
 ipprotection-connection-status-connecting-1 = VPN هونی منپیز ابۊ…
     .aria-label = VPN هونی منپیز ابۊ…
 
+## Location controls
+
+ipprotection-recommended-location-badge = نۊ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = جاگه: { $country }
+ipprotection-locations-subview =
+    .title = پسند جاگه
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = مووجۊد نؽ
+
 ## VPN paused state
 
 upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }

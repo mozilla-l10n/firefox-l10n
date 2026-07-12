@@ -45,6 +45,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = پورس کردن ز چت بات هۊش مسنۊعی
     .accesskey = z
+genai-menu-ask-smart-window =
+    .label = پۊرسیڌن…
+    .accesskey = z
 
 ## Chatbot header
 
@@ -66,6 +69,8 @@ genai-options-reload-provider =
     .label = بارونی دووارته { $provider }
 genai-options-show-shortcut =
     .label = نشووݩ داڌن ره نهنگ مجال پسند هؽل
+genai-options-hide-shortcut =
+    .label = بؽڌار کردن ره نهنگ مجال پسند هؽل
 
 ## Chatbot footer
 
