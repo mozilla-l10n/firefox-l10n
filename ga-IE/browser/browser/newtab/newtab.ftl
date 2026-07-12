@@ -521,11 +521,11 @@ newtab-widget-timer-pause-aria =
 newtab-widget-timer-spinbutton-name =
     .aria-label =
         { $minutes ->
-            [one] 1 nóiméad
-            [two] 2 nóiméad
-            [few] 3 nóiméad
-            [many] 7 nóiméad
-           *[other] 10 nóiméad
+            [one] { $minutes } nóiméad
+            [two] { $minutes } nóiméad
+            [few] { $minutes } nóiméad
+            [many] { $minutes } nóiméad
+           *[other] { $minutes } nóiméad
         }
 newtab-widget-timer-decrease-min =
     .title = Laghdaigh 1 nóiméad
@@ -563,11 +563,11 @@ newtab-sports-widget-view-matches =
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
     { $number ->
-        [one] Lean suas le 1 fhoireann amháin
-        [two] Lean suas le 2 fhoireann
-        [few] Lean suas le 7 bhfoireann
-        [many] Lean suas le 7 foireann
-       *[other] Lean suas le 20 foreann
+        [one] Lean suas le { $number } fhoireann amháin
+        [two] Lean suas le { $number } fhoireann
+        [few] Lean suas le { $number } bhfoireann
+        [many] Lean suas le { $number } foireann
+       *[other] Lean suas le { $number } foreann
     }
 newtab-sports-widget-choose-wallpaper =
     .label = Roghnaigh páipéar balla

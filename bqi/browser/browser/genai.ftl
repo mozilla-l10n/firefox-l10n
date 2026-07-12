@@ -26,6 +26,8 @@ genai-menu-remove-sidebar =
 genai-shortcut-button =
     .aria-label = پورس کردن ز { $provider }
 genai-menu-new-badge = نۊ
+genai-input-ask-smart-window =
+    .placeholder = پۊرسیڌن…
 genai-input-ask-generic =
     .placeholder = پورس کردن ز چت بات هۊش مسنۊعی…
 # $provider (string) - name of the provider

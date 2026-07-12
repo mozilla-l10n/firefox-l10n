@@ -111,3 +111,7 @@ experimental-features-semantic-history-search-description = Pomocí místního m
 experimental-features-tab-notes =
     .label = Poznámky pro panely
 experimental-features-tab-notes-description = Poznámky na panelech jsou experimentální funkcí, která vám umožňuje přidávat rychlé poznámky k panelům prohlížeče. Zapište si kontext, připomenutí nebo další kroky, abyste se mohli vrátit a vzpomenout si, proč jste jej otevřeli. Budeme rádi za vaši zpětnou vazbu, protože tuto funkci neustále vylepšujeme. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Zjednodušená nabídka nad panelem
+experimental-features-tab-context-menu-description = Zobrazte jednodušší kontextovou nabídku po klepnutí pravým tlačítkem myši na panel. Je navržen tak, aby usnadňoval nalezení běžných akcí. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
