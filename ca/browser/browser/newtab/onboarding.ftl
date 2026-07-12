@@ -63,6 +63,15 @@ mr1-onboarding-theme-label-dark = Fosc
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Fet
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Posa en pausa l'animació
+onboarding-animation-play-button =
+    .aria-label = Reprodueix l'animació
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -439,6 +448,10 @@ onboarding-checklist-pin = Fixa el { -brand-short-name } a la barra de tasques
 onboarding-checklist-import = Importa del navegador anterior
 onboarding-checklist-extension = Afegeix una extensió
 onboarding-checklist-sign-up = Creeu un compte o inicieu la sessió
+onboarding-checklist-minimize =
+    .label = Minimitza
+onboarding-checklist-remove =
+    .label = Elimina la llista de verificació
 
 ## Tab Groups feature onboarding strings
 
@@ -587,3 +600,10 @@ onboarding-refresh-sync-title = Aneu arreu on vulgueu. Sincronitzeu-ho tot.
 onboarding-refresh-gratitude-subtitle = Gràcies per utilitzar el { -brand-short-name }, l'únic navegador important que té el suport d'una organització sense ànim de lucre. Amb el vostre suport, treballem per fer que Internet sigui més segura i accessible per a tothom.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vostra
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Condicions d'ús del { -brand-product-name }
+smartwindow-existing-user-fx-tou-accept = Accepta
+smartwindow-existing-user-fx-tou-go-back = Vés enrere
