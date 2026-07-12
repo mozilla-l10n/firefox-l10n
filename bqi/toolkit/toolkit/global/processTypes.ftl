@@ -7,3 +7,14 @@
 ## Localization for remote types defined in RemoteType.h
 
 process-type-extension = وردنی
+
+##
+## Localization for Gecko process types defined in GeckoProcessTypes.h
+
+process-type-tab = جدول بندی
+
+##
+## Other
+
+# fallback
+process-type-unknown = نامعلۊم

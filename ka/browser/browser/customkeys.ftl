@@ -105,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = ძიების მალსახმობები
     .placeholder = ძიების მალსახმობები
+customkeys-description = მართეთ, გადაადგილებისა და ურთიერთქმედებისას როგორ გამოიყენოთ { -brand-short-name }.
 customkeys-support-link-text = ვრცლად
 customkeys-reset-all-button = ნაგულისხმევის აღდგენა
