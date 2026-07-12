@@ -70,6 +70,11 @@ options-webconsole-split-console-label = Bật bảng điều khiển chia tách
 options-webconsole-split-console-tooltip =
     .title = Mở bảng điều khiển chia tách với phím Escape
 
+## Experimental section
+
+# The heading
+options-experimental-label = Các tính năng thử nghiệm
+
 ## Style Editor section
 
 # The heading

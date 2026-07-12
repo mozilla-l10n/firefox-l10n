@@ -43,3 +43,10 @@ toolbox-always-on-top-enabled2 = Tắt luôn ở trên cùng
     .title = Điều này sẽ khởi động lại Công cụ dành cho nhà phát triển
 toolbox-always-on-top-disabled2 = Bật luôn ở trên cùng
     .title = Điều này sẽ khởi động lại Công cụ dành cho nhà phát triển
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Thêm vào cài đặt
+toolbox-local-mode-notice-try-it-button = Thử ngay
+toolbox-local-mode-notice-always-hide = Đừng hỏi lại tôi điều này
