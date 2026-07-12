@@ -1104,6 +1104,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Підтримка { -brand-product-name }
@@ -1117,6 +1120,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Виберіть шпалеру
 home-prefs-choose-wallpaper-link2 =
     .label = Виберіть шпалеру
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Щоб користуватися цими функціями, встановіть { -firefox-home-brand-name(case: "acc", capitalization: "lower") } для нових вкладок чи вікон.
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
@@ -1203,6 +1211,11 @@ suggestions-addressbar-settings-generic2 = Змінити налаштуванн
 search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 search-one-click-header2 = Пошукові скорочення
 search-one-click-desc = Оберіть альтернативні пошукові системи, що з'являються під панелями адреси і пошуку, коли ви починаєте вводити ключове слово.
+search-one-click-header-3 =
+    .label = Додаткові пошукові системи
+    .description = Оберіть пошукові системи та ярлики, що з'являються у панелі адреси.
+update-search-engine-success =
+    .message = Пошукову систему успішно оновлено
 search-choose-engine-column =
     .label = Пошукова система
 search-choose-keyword-column =
@@ -1216,6 +1229,9 @@ search-remove-engine =
 search-add-engine =
     .label = Додати
     .accesskey = т
+search-add-engine-2 =
+    .label = Додати пошукову систему
+    .accesskey = и
 search-edit-engine =
     .label = Редагувати
     .accesskey = г
@@ -1270,6 +1286,12 @@ sync-signedout-description2 = Синхронізуйте закладки, іс�
 sync-signedout-account-signin3 =
     .label = Увійти до синхронізації…
     .accesskey = в
+sync-signedout-account-signin-4 =
+    .label = Увійдіть до свого облікового запису, щоб розпочати синхронізацію
+    .accesskey = У
+sync-signedout-account-short =
+    .label = Увійти
+    .accesskey = У
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1328,7 +1350,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Синхронізація: УВІМКНЕНО
+prefs-syncing-on-2 =
+    .label = Синхронізацію ввімкнено
 prefs-syncing-off = Синхронізація: ВИМКНЕНО
+prefs-syncing-off-2 =
+    .label = Синхронізацію вимкнено
+    .description = Увімкніть синхронізацію, щоб мати свої закладки, паролі, історію та інші дані на будь-якому пристрої.
 prefs-sync-turn-on-syncing =
     .label = Увімкнути синхронізацію…
     .accesskey = с
