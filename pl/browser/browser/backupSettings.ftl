@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Położenie
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (zalecane)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Wybierz położenie
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Wybierz…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Włącz kopię zapasową
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Wystąpił problem z wybranym folderem kopii zapasowej. Wybierz inny folder i spróbuj ponownie.
+turn-on-scheduled-backups-error-default-dir-denied = Brak dostępu do folderu kopii zapasowej. Spróbuj wybrać nowe położenie.
 backup-error-file-system = Podczas tworzenia kopii zapasowej { -brand-short-name(case: "gen") } wystąpił problem z wybranym folderem kopii zapasowej.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

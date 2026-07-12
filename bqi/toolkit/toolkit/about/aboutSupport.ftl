@@ -177,6 +177,7 @@ support-remote-settings-status = وزعیت
 support-remote-settings-status-ok = خا
 # Status when synchronization is not working.
 support-remote-settings-status-broken = کار نؽکونه
+support-remote-settings-last-check = واجۊری دیندایی
 support-remote-settings-sync-history = ویرگار
 support-remote-settings-sync-history-status = وزعیت
 support-remote-settings-sync-history-datetime = تاریخ

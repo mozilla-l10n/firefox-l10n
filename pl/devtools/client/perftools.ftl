@@ -175,6 +175,8 @@ perftools-presets-ml-label = Uczenie maszynowe
 perftools-presets-ml-description2 = Ustawienie do badania błędów uczenia maszynowego w { -brand-shorter-name(case: "loc") }.
 perftools-presets-networking-label = Sieć
 perftools-presets-networking-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }.
+perftools-presets-networking-with-logs-label = Sieć z dziennikami
+perftools-presets-networking-with-logs-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }, wraz z dziennikami sieciowymi. Dzienniki te mogą zawierać prywatne informacje, takie jak adresy odwiedzanych stron.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Ustawienie do badania błędów użycia energii w { -brand-shorter-name(case: "loc") } o niskim wpływie na wydajność.

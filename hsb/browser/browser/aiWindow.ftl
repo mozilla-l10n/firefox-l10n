@@ -133,14 +133,23 @@ aiwindow-input-model-select-settings-link = Modelowe nastajenja
 aiwindow-firstrun-memories-title = Wjace wužitnych wotmołwow, k wašim wuměnjenjam
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } móže z wašich chatow, přehladowanja abo wobeju wuknyć, zo by dopomnjeća wutworiło. Přez to budu wotmołwy počasu pomocliwiše.
 aiwindow-firstrun-memories-conversation-title = Dźeržće rozmołwu w běhu
+aiwindow-firstrun-memories-conversation-body = Wuknjenje z chatow rěka, zo dyrbiće so mjenje wospjetować.
 aiwindow-firstrun-memories-relevance-title = Wjace relewantnych wotmołwow
+aiwindow-firstrun-memories-relevance-body = Wuknjenje z přehladowanja { -smart-window-brand-name } wjetši wobraz dawa.
 aiwindow-firstrun-memories-privacy-title = Priwatny po designje
+aiwindow-firstrun-memories-privacy-body = Dopomnjeća so na tutym graće składuja. Zhašejće abo znjemóžńće je kóždy čas.
+aiwindow-firstrun-memories-choose-label = Wubjerće, z čehož { -smart-window-brand-name } wuknje
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = W { -brand-product-name } přehladować
+aiwindow-firstrun-memories-update-settings = Aktualizujće w nastajenjach kóždy čas.
+aiwindow-firstrun-memories-no-create = Sym zrozumił. { -smart-window-brand-name } dopomnjeća njewutwori. Aktualizujće w nastajenjach kóždy čas.
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Čińće { -smart-window-brand-name } k swojemu faworitej
+aiwindow-firstrun-default-subtitle = Přehladować, pytać a prašeć so na jednym městnje. Móžeće hišće priwatne a klasiske wokna wočinić, hdyž chceće.
 aiwindow-firstrun-default-checkbox-label = { -brand-product-name } w přeco { -smart-window-brand-name } wočinić
+aiwindow-firstrun-default-checkbox-description = Změńće w nastajenjach kóždy čas.
 
 ## Ask Toolbar Button
 

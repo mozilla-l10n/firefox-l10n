@@ -60,6 +60,7 @@ neterror-dns-not-found-hint-header = <strong>Jeśli to właściwy adres, można:
 neterror-dns-not-found-hint-try-again = Spróbować ponownie później
 neterror-dns-not-found-hint-check-network = Sprawdzić połączenie z Internetem
 neterror-dns-not-found-hint-firewall = Upewnić się, że { -brand-short-name } może łączyć się z Internetem (zapora sieciowa może go blokować)
+neterror-dns-not-found-hint-check-network-2 = Sprawdzić połączenie z Internetem.
 neterror-dns-not-found-hint-firewall-2 = Upewnić się, że { -brand-short-name } może łączyć się z Internetem (zapora sieciowa może go blokować).
 neterror-dns-not-found-offline-hint-header = <strong>Co zrobić w takim przypadku?</strong>
 neterror-dns-not-found-offline-hint-different-device = Spróbuj połączyć się na innym urządzeniu.

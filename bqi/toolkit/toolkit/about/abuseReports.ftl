@@ -30,6 +30,12 @@ abuse-report-messagebar-aborted = گوزارش سی <span data-l10n-name="addon-
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = هری، پاک کۊنین
+abuse-report-messagebar-action-keep-extension = ن، واڌارنین
+abuse-report-messagebar-action-remove-sitepermission = هری، پاک کۊنین
+abuse-report-messagebar-action-keep-sitepermission = ن، واڌارنین
+abuse-report-messagebar-action-remove-theme = هری، پاک کۊنین
+abuse-report-messagebar-action-keep-theme = ن، واڌارنین
 abuse-report-messagebar-action-retry = قپ ریت دووارته
 abuse-report-messagebar-action-cancel = لقو
 
