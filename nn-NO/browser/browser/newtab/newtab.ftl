@@ -192,15 +192,24 @@ newtab-privacy-across-sites =
        *[other] På tvers av { $count } nettstadar
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokkerer sporarar når du surfar. Du vil sjå dei her.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } blokkerer sporarar  automatisk når du surfar
 newtab-privacy-message-info-1-cta = Vis vern
+newtab-privacy-message-info-2 = Sporingsblokkering hjelper til med å stoppe selskap frå å følgje deg på nettet.
 newtab-privacy-message-info-2-cta = Vis vern
+newtab-privacy-message-info-3 = Mange nettstadar har sporingsverktøy slik at selskap du aldri har vore innom kan følgje deg på nettet.
 newtab-privacy-message-info-3-cta = Vis vern
+newtab-privacy-message-info-4 = Å velje { -brand-short-name } betyr å velje vern som standard.
 newtab-privacy-message-info-4-cta = Vis vern
 newtab-privacy-message-info-5-cta = Vis vern
 newtab-privacy-message-info-6-cta = Les meir

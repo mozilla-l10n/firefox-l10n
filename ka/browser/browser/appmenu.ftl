@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = მზა პარამეტრები ქსელის ხარვეზების გამოსავლენად – { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = ქსელი
+profiler-popup-presets-networking-with-logs-description = მზა ნაკრები, რომლითაც ქსელის ხარვეზებს გამოიკვლევს { -brand-shorter-name }, მათ შორის კავშირის აღრიცხვებს. მოცემული ჩანაწერები შეიძლება შეიცავდეს საფრთხილო მონაცემებს, როგორიცაა მონახულებული ბმულები.
+profiler-popup-presets-networking-with-logs-label =
+    .label = ქსელის აღრიცხვები
 profiler-popup-presets-power-description = მზა პარამეტრები კვების მიწოდების ხარვეზების გამოსავლენად – { -brand-shorter-name }, ჭარბი დატვირთვის შეზღუდვით.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -292,6 +295,8 @@ appmenu-customizetoolbar =
     .label = ხელსაწყოთა ზოლის მორგება...
 appmenu-abouttranslations =
     .label = თარგმნა…
+appmenu-edit-pdf =
+    .label = ჩაასწორეთ PDF…
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
 appmenu-developer-tools-extensions =
     .label = გაფართოებები შემმუშავებელთათვის
@@ -301,15 +306,23 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ანგარიშზე შესვლა
+appmenuitem-monitor-description2 = შეიტყვეთ მონაცემთა მიტაცების შესახებ
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = მიიღეთ ცნობები მონაცემთა მიტაცებისას
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = დატოვეთ თქვენი ელფოსტა პირადი
+appmenuitem-relay-description2 = გეხმარებათ აირიდოთ უსარგებლო წერილები
 appmenuitem-relay-description = შენიღბეთ თქვენი ელფოსტა და ნომერი
 appmenuitem-services-relay-description = შენიღბვის მაჩვენებლების გვერდის გაშვება
+appmenuitem-vpn-title2 = მდებარეობის დასამალად გამოიყენეთ { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ისარგებლეთ მთლიანი მოწყობილობის დაცვით
 appmenuitem-vpn-description = დაიცავით პირადულობა ინტერნეტში
 appmenu-services-header = ჩემი მომსახურებები
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = პირადულობის ხელსაწყოები
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -323,9 +336,18 @@ appmenu-manage-profiles =
     .label = პროფილების მართვა
 appmenu-copy-profile =
     .label = ამ პროფილის ასლი
+appmenu-create-profile2 =
+    .label = ახალი პროფილის შექმნა
 appmenu-create-profile =
     .label = ახალი პროფილი
 appmenu-edit-profile =
     .aria-label = პროფილის ჩასწორება
+appmenu-edit-this-profile =
+    .label = ამ პროფილის ჩასწორება
+appmenu-profile-current-in-use = მიმდინარე პროფილი გამოიყენება
 appmenu-profiles-2 =
     .label = პროფილები
+appmenu-profiles-header = პროფილები
+appmenu-all-profiles =
+    .label = ყველა პროფილი
+appmenu-secure-sync-header = უსაფრთხო დასინქ.
