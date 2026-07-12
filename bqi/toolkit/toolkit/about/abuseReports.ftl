@@ -12,10 +12,14 @@ abuse-report-title-extension = گوزارش ای وردنی و { -vendor-short-n
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = و دست <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-submit-description = موشکلتووه بۊگۊین (اختیاری)
 
 ## Panel buttons.
 
 abuse-report-cancel-button = لقو
+abuse-report-next-button = بئڌی
+abuse-report-goback-button = وورگرت
+abuse-report-submit-button = فشناڌن
 
 ## Message bars descriptions.
 ##
@@ -26,4 +30,9 @@ abuse-report-messagebar-aborted = گوزارش سی <span data-l10n-name="addon-
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = قپ ریت دووارته
 abuse-report-messagebar-action-cancel = لقو
+
+## Abuse report reasons (optionally paired with related examples and/or suggestions)
+
+abuse-report-other-reason = چیا دیری
