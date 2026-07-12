@@ -292,6 +292,21 @@ newtab-privacy-message-milestone-total =
         [one] { $count } трекер бұғатталған. Бұл сіздің шарттарыңыз бойынша жекелікке қарай үлкен прогресс.
        *[other] { $count } трекер бұғатталған. Бұл сіздің шарттарыңыз бойынша жекелікке қарай үлкен прогресс.
     }
+newtab-privacy-message-milestone-total-cta = Қорғаныстарды қарау
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Бүгін 100-ден астам трекер бұғатталған.) Трекерлердің аз болуы жекеліктің артуын білдіреді.
+newtab-privacy-message-daily-cap-cta = Қорғаныстарды қарау
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Сіз қатарынан { $count } күн бойы қорғалдыңыз.
+       *[other] Сіз қатарынан { $count } күн бойы қорғалдыңыз.
+    }
+newtab-privacy-message-streak-cta = Қорғаныстарды қарау
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Шолуды жалғастырыңыз, { -brand-short-name } бұғаттауды жалғастырады.
+newtab-privacy-message-first-protection-cta = Қорғаныстарды қарау
 
 ## Strings for the Stocks widget
 
@@ -299,8 +314,27 @@ newtab-privacy-message-milestone-total =
 newtab-stocks-menu-search = Тикерлерді іздеу
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Көбірек білу
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Акциялар виджетінің опциялары
+    .aria-label = Акциялар виджетінің опциялары
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Акциялар
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, өсуі { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, кемуі { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, өзгеріссіз, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -317,6 +351,16 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = { $license } лицензиясын қарау
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Осы күннің суреті опциялары
+    .aria-label = Осы күннің суреті опциялары
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
