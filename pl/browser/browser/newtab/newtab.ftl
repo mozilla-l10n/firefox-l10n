@@ -1080,6 +1080,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Wyłącz powiadomienia
 newtab-widget-timer-menu-notifications-on = Włącz powiadomienia
 newtab-widget-timer-menu-learn-more = Więcej informacji
+newtab-widget-timer-menu-button =
+    .aria-label = Opcje minutnika
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Najważniejsze nagłówki
 newtab-daily-briefing-card-menu-dismiss = Zamknij
@@ -1379,12 +1381,18 @@ newtab-sports-widget-team-tbd = Jeszcze nieznane
 newtab-sports-widget-message-wallpapers-title = Zacznij mistrzostwa świata z nowymi tapetami
 newtab-sports-widget-message-wallpapers-body = Podczas turnieju poczuj w swojej przeglądarce energię dnia meczowego.
 newtab-sports-widget-message-wallpapers-cta = Wybierz tapetę
+newtab-sports-widget-message-wallpapers-semifinals-title = Ustaw nową tapetę na półfinały
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj widżety
 newtab-sports-widget-message-day-in-play-title = Nie wychodź z gry dzięki widżetom { -brand-product-name(case: "gen") }
 newtab-sports-widget-message-day-in-play-body = Śledź mistrzostwa świata, realizuj swoje zadania, kontroluj czas na całym świecie i nie tylko.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Przeglądaj widżety
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-cta =
+    .label = Wypełnij ankietę
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

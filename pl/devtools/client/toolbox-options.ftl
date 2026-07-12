@@ -76,6 +76,16 @@ options-webconsole-split-console-label = Konsola
 options-webconsole-split-console-tooltip =
     .title = Otwórz konsolę za pomocą klawisza Esc
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor sieci
+
+## Experimental section
+
+# The heading
+options-experimental-label = Funkcje eksperymentalne
+
 ## Style Editor section
 
 # The heading
@@ -114,6 +124,14 @@ options-sourceeditor-expandtab-label = Wcinanie spacjami
 options-sourceeditor-tabsize-label = Szerokość tabulacji:
 options-sourceeditor-keybinding-label = Skróty klawiaturowe:
 options-sourceeditor-keybinding-default-label = domyślne
+
+## Local Mode section
+
+# The heading
+options-local-mode-label = Tryb lokalny
+options-local-mode-folder-label = Lokalny folder:
+options-local-mode-toggle-enable = Włącz
+options-local-mode-toggle-disable = Wyłącz
 
 ## Advanced section
 

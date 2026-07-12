@@ -175,6 +175,88 @@ home-prefs-mission-message-learn-more-link-srd = Zjistěte jak
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Zjistit více
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] dnes zablokovaný sledovací prvek
+        [few] dnes zablokované sledovací prvky
+        [many] dnes zablokovaných sledovacích prvků
+       *[other] dnes zablokovaných sledovacích prvků
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] napříč { $count } stránkou
+        [few] napříč { $count } stránkami
+        [many] napříč { $count } stránkami
+       *[other] napříč { $count } stránkami
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokuje sledovací prvky při prohlížení webu. Uvidíte je zde.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } automaticky blokuje sledovací prvky během vašeho prohlížení.
+newtab-privacy-message-info-1-cta = Zobrazit ochrany
+newtab-privacy-message-info-2 = Blokování sledovacích prvků pomáhá zabránit společnostem, aby vás na internetu sledovaly.
+newtab-privacy-message-info-2-cta = Zobrazit ochrany
+newtab-privacy-message-info-3 = Mnoho stránek má sledovací prvky, takže společnosti, které jste nikdy nenavštívili, vás mohou na internetu sledovat.
+newtab-privacy-message-info-3-cta = Zobrazit ochrany
+newtab-privacy-message-info-4 =
+    { -brand-short-name.case-status ->
+        [with-cases] Výběrem { -brand-short-name(case: "gen") } si automaticky zvolíte ochranu.
+       *[no-cases] Výběrem aplikace { -brand-short-name } si automaticky zvolíte ochranu.
+    }
+newtab-privacy-message-info-4-cta = Zobrazit ochrany
+newtab-privacy-message-info-5 = Blokování sledovacích prvků znamená, že vás na stránkách může sledovat méně společností.
+newtab-privacy-message-info-5-cta = Zobrazit ochrany
+newtab-privacy-message-info-6 =
+    { -brand-short-name.case-status ->
+        [with-cases] Svěřte svá data { -brand-short-name(case: "gen") }. My je nikdy neprodáváme, ale jiné prohlížeče možná ano.
+       *[no-cases] Svěřte svá data aplikaci { -brand-short-name }. My je nikdy neprodáváme, ale jiné prohlížeče možná ano.
+    }
+newtab-privacy-message-info-6-cta = Zjistit více
+newtab-privacy-message-info-7 = Podívejte se, které sledovací prvky { -brand-short-name } zablokoval.
+newtab-privacy-message-info-7-cta = Zobrazit ochrany
+newtab-privacy-message-info-8 =
+    { -brand-short-name.case-status ->
+        [with-cases] Prohlížení pomocí { -brand-short-name(case: "gen") } podporuje misi organizace { -vendor-short-name } vytvářet lepší web.
+       *[no-cases] Prohlížení pomocí aplikace { -brand-short-name } podporuje misi organizace { -vendor-short-name } vytvářet lepší web.
+    }
+newtab-privacy-message-info-8-cta = Zjistit více
+newtab-privacy-message-info-9 =
+    { -brand-short-name.case-status ->
+        [with-cases] Udělejte si z { -brand-short-name(case: "gen") } svůj oblíbený prohlížeč s integrovanými funkcemi na ochranu soukromí.
+       *[no-cases] Udělejte si z aplikace { -brand-short-name } svůj oblíbený prohlížeč s integrovanými funkcemi na ochranu soukromí.
+    }
+newtab-privacy-message-info-9-cta = Nastavit jako výchozí
+newtab-privacy-message-info-10 =
+    { -brand-short-name.case-status ->
+        [with-cases] Ukládejte si hesla do { -brand-short-name(case: "gen") }, abyste mohli všude používat silná a jedinečná přihlašovací hesla.
+       *[no-cases] Ukládejte si hesla do aplikace { -brand-short-name }, abyste mohli všude používat silná a jedinečná přihlašovací hesla.
+    }
+newtab-privacy-message-info-10-cta = Přejít na hesla
+
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
@@ -200,8 +282,30 @@ newtab-stocks-menu-learn-more = Zjistit více
 newtab-picture-header = Obrázek dne · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Obrázek dne
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Nastavit tapetu
+    .title = Nastavit tapetu
+    .aria-label = Nastavte si dnešní obrázek jako tapetu
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Nastavení tapety
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Skrýt dnešní obrázek
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Ukázat dnešní obrázek
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Zjistit více
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Ukázat dnešní obrázek
+    .aria-label = Ukázat dnešní obrázek
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Zítra se sem zase podívejte na novou fotku
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Obrázek dne od Wikimedia Commons
 
 ## Search box component.
 
@@ -238,6 +342,7 @@ newtab-topsites-add-shortcut-label = Přidat zkratku
 newtab-topsites-add-shortcut-title =
     .title = Přidat zkratku
     .aria-label = Přidat zkratku
+newtab-shortcuts-pinned-area = Připnutá oblast
 newtab-topsites-title-label = Název stránky
 newtab-topsites-title-input =
     .placeholder = Zadejte název
