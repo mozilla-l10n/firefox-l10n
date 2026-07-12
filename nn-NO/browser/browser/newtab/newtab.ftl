@@ -230,7 +230,9 @@ newtab-privacy-message-info-13-cta = Vis vern
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Finn ut om den personlege informasjonen din dukkar opp i ein datalekkasje.
 newtab-privacy-message-promo-monitor-1-cta = Les meir
+newtab-privacy-message-promo-monitor-2 = Vern informasjonen din med gratis overvaking av datalekkasjar, for opptil 20 e-postar.
 newtab-privacy-message-promo-monitor-2-cta = Les meir
 newtab-privacy-message-promo-signin-1-cta = Logg inn
 newtab-privacy-message-promo-vpn-1-cta = Opne VPN
