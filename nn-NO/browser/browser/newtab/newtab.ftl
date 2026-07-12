@@ -226,6 +226,7 @@ newtab-privacy-message-info-11 = Finn ut korleis { -brand-short-name } bidreg ti
 newtab-privacy-message-info-11-cta = Les meir
 newtab-privacy-message-info-12 = Blokkering av sporarar kan bidra til å spare bandbreidde på avgrensa dataabonnement.
 newtab-privacy-message-info-12-cta = Vis vern
+newtab-privacy-message-info-13 = { -brand-short-name } blokkerer sporarar, og frigjer bandbreidde for jamnare strøyming.
 newtab-privacy-message-info-13-cta = Vis vern
 
 ## Privacy widget — promotional messages
@@ -276,6 +277,12 @@ newtab-privacy-message-first-protection-cta = Vis vern
 newtab-stocks-menu-search = Søk etter aksjesymbol
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Les meir
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Innstillingar for aksje-widgeten
+    .aria-label = Innstillingar for aksje-widgeten
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Aksjar
 

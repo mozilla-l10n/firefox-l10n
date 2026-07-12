@@ -99,3 +99,6 @@ experimental-features-semantic-history-search-description = Bruk ein lokal maski
 experimental-features-tab-notes =
     .label = Fanenotat
 experimental-features-tab-notes-description = Fanenotat er ein eksperimentell funksjon som lèt deg leggje til klistrelappar på nettlesarfanene dine. Noter kontekst, påminningar eller neste steg slik at du kan kome tilbake og hugse kvifor du opna den. Vi vil gjerne ha tilbakemeldinga di medan vi held fram med å forbetre denne funksjonen. <a data-l10n-name="connect">Del tilbakemelding</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Optimalisert fanemeny

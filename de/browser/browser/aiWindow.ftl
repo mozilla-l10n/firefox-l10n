@@ -133,6 +133,7 @@ aiwindow-firstrun-memories-relevance-title = Mehr relevante Antworten
 aiwindow-firstrun-memories-privacy-title = Privatsphäre von Grund auf
 aiwindow-firstrun-memories-privacy-body = Erinnerungen sind auf diesem Gerät gespeichert. Jederzeit löschen oder deaktivieren.
 aiwindow-firstrun-memories-choose-label = Wählen Sie, woher { -smart-window-brand-name(form: "lowercase-plural") } lernen
+aiwindow-firstrun-memories-checkbox-chats = Chats in { -smart-window-brand-name(form: "uppercase-plural-dative") }
 aiwindow-firstrun-memories-checkbox-browsing = Surfen in { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Sie können die Einstellungen jederzeit aktualisieren.
 aiwindow-firstrun-memories-no-create = Verstanden. { -smart-window-brand-name } erstellt keine Erinnerungen. Sie können die Einstellungen jederzeit aktualisieren.
@@ -141,6 +142,7 @@ aiwindow-firstrun-memories-no-create = Verstanden. { -smart-window-brand-name } 
 
 aiwindow-firstrun-default-title = Machen Sie { -smart-window-brand-name(form: "lowercase-plural") } zu Ihrer ersten Wahl
 aiwindow-firstrun-default-subtitle = Surfen, suchen und fragen an einem Ort. Sie können weiterhin private und klassische Fenster öffnen, wenn Sie möchten.
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name } immer in { -smart-window-brand-name(form: "lowercase-plural-dative") }
 aiwindow-firstrun-default-checkbox-description = In den Einstellungen jederzeit wechseln
 
 ## Ask Toolbar Button
@@ -168,6 +170,10 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Schließen
     .tooltiptext = Schließen
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synchronisierte Daten bleiben weiter in Ihrem Konto. Offene { -smart-window-brand-name(form: "lowercase-plural") } wechseln zum klassischen Fenster.
 
 ## Fullpage Footer Actions
 
@@ -258,6 +264,7 @@ smartwindow-close-tab-callout-subtitle = Tabs aus der Chronik jederzeit wieder �
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = { -smart-window-brand-name } als Standard festlegen?
+smart-window-default-promo-message = { -brand-short-name } wird jedes Mal in { -smart-window-brand-name(form: "lowercase-plural-dative") } geöffnet.
 smart-window-default-promo-primary-button = Als Standard festlegen
 smart-window-default-promo-additional-button = Nicht jetzt
 

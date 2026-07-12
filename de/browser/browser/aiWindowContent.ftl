@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Chat-Nachrichten aus { -smart-window-brand-name(form: "lowercase-plural-dative") }
 
 ## Context chips in the chat content
 
@@ -17,6 +18,7 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.
 smartwindow-assistant-error-budget-header = Sie haben das heutige Chat-Limit erreicht.
+smartwindow-assistant-error-account-header = Um { -smart-window-brand-name(form: "lowercase-plural-accusative") } zu verwenden, müssen Sie sich anmelden.
 smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } ist derzeit voll ausgelastet. Bitte versuchen Sie es später erneut.
 smartwindow-assistant-error-budget-body = Sie können in diesem Fenster weiterhin surfen. Chat ist wieder verfügbar, sobald Ihr Tageslimit zurückgesetzt wird.
 smartwindow-assistant-error-many-requests-header = Bitte warten Sie einen Moment und versuchen Sie es erneut. Es wurden zu viele Nachrichten in kurzer Zeit gesendet.
