@@ -19,6 +19,9 @@ backup-folder-name = Відновити { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Резервна копія { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Резервне копіювання
+    .description = Автоматично захищайте свої закладки, історію та інші дані.
 settings-data-backup-toggle = Керувати резервним копіюванням
 settings-data-backup-toggle-on2 =
     .label = Увімкнути резервне копіювання
@@ -29,17 +32,37 @@ settings-data-backup-in-progress-button = Триває резервне копі
 settings-data-backup-in-progress-message =
     .message = Триває резервне копіювання…
 settings-data-backup-last-backup-date = Остання резервна копія: { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Резервне копіювання УВІМКНЕНО
+settings-data-backup-scheduled-backups-off2 =
+    .label = Резервне копіювання ВИМКНЕНО
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Розташування резервної копії
 settings-data-backup-last-backup-location-show-in-folder = Показати у теці
 settings-data-backup-last-backup-location-edit = Змінити…
 settings-data-create-backup-error = Під час створення резервної копії { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } сталася помилка
 settings-sensitive-data-encryption-description = Створюйте резервні копії паролів і способів оплати, а також убезпечте всі свої дані завдяки шифруванню.
+settings-data-toggle-encryption-label2 =
+    .label = Створіть резервну копію конфіденційних даних
+    .description = Створіть резервну копію своїх паролів і способів оплати, зберігаючи всі дані зашифрованими.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Назва файлу: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Відновити дані
+    .description = Відновіть свої дані { -brand-product-name } до стану останньої резервної копії.
+settings-data-backup-restore-scheduled-off =
+    .label = Відновити дані
+    .description = Використайте резервну копію { -brand-product-name } з іншого пристрою, щоб відновити свої дані.
 
 ##
 
+settings-sensitive-data =
+    .label = Конфіденційні дані
 settings-data-toggle-encryption-support-link = Докладніше
+settings-data-change-password2 =
+    .label = Змінити пароль
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -52,6 +75,8 @@ turn-on-scheduled-backups-location-label = Розташування
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (рекомендовано)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Виберіть розташування
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Огляд…
@@ -66,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Увімкнути
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Виникла проблема з вибраною текою для резервних копій. Виберіть іншу теку та повторіть спробу.
+turn-on-scheduled-backups-error-default-dir-denied = Не вдалося отримати доступ до вашої теки з резервною копією. Виберіть інше місце.
 backup-error-file-system = Під час резервного копіювання { -brand-short-name } виникла проблема з вибраною текою.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
@@ -79,6 +105,9 @@ turn-off-scheduled-backups-confirm-button = Вимкнути і видалити
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Відновіть свої дані
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Що буде відновлено?
 restore-from-backup-filepicker-label = Файл із резервною копією
 restore-from-backup-filepicker-title = Виберіть файл із резервною копією:
 restore-from-backup-file-choose-button =
@@ -91,6 +120,13 @@ restore-from-backup-password-description = Це розблокує вашу за
 restore-from-backup-cancel-button = Скасувати
 restore-from-backup-confirm-button = Відновити й перезапустити
 restore-from-backup-restoring-button = Відновлення…
+restore-from-backup-type-group-label =
+    .label = Замінити поточний профіль?
+restore-from-backup-type-replace =
+    .label = Замінити всі дані цією резервною копією
+restore-from-backup-type-add =
+    .label = Зберегти дані та створити новий профіль
+restore-from-backup-profiles-disabled-message = Ця дія замінить усі ваші поточні дані { -brand-short-name } резервною копією.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -195,6 +231,7 @@ backup-file-how-to-restore-header = Як відновити:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Відкрийте меню ☰ програми, потім перейдіть у Налаштування > Синхронізація
+backup-file-moz-browser-restore-step-2-1 = Натисніть “Відновити дані” та виберіть цей файл
 backup-file-moz-browser-restore-step-2 = Натисніть "Виберіть файл із резервною копією" і виберіть цей файл
 backup-file-moz-browser-restore-step-3 = Після відповідного прохання перезапустіть { -brand-short-name }
 backup-file-other-browser-restore-step-1 = Завантажте та встановіть { -brand-short-name }
@@ -202,6 +239,7 @@ backup-file-download-moz-browser-button = Завантажити
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Запустіть { -brand-short-name }, відкрийте меню ☰ програми та оберіть Налаштування > Синхронізація
+backup-file-other-browser-restore-step-3-1 = Натисніть “Відновити дані” та виберіть цей файл
 backup-file-other-browser-restore-step-3 = Натисніть "Виберіть файл із резервною копією" і виберіть цей файл
 backup-file-other-browser-restore-step-4 = Перезапустіть { -brand-short-name } після запиту
 
@@ -217,6 +255,15 @@ other-backup-files-founds =
         [few] <b>Примітка:</b> знайдено { $numberOfOtherBackupsFound } інші файли з резервними копіями
        *[many] <b>Примітка:</b> знайдено { $numberOfOtherBackupsFound } інших файлів із резервними копіями
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> створено { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } на { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Відновлено з { $deviceName } { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Із цим файлом щось не так. Повторіть спробу з іншим файлом. <a data-l10n-name="restore-problems">Не вдається усунути проблему?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Файл не вибрано
