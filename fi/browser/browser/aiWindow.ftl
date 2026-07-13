@@ -283,7 +283,9 @@ smart-window-default-promo-additional-button = Ei nyt
 
 aiwindow-feedback-modal-title = Jaa palautetta
 aiwindow-feedback-what-worked-well = Mikä toimi hyvin? Ei henkilökohtaisia tietoja, kiitos.
+aiwindow-feedback-choose-any = Valitse mikä tahansa sopiva
 aiwindow-feedback-add-details = Lisää tarkempia tietoja, jos haluat. Ei henkilökohtaisia tietoja, kiitos.
+aiwindow-feedback-disclaimer = Lähettämällä jaat palautteesi ja tämän keskustelun auttaaksesi { -brand-shorter-name }aa parantamaan { -smart-window-brand-name } -toiminnallisuutta. Muut keskustelusi pysyvät yksityisinä. <a data-l10n-name="learn-more">Lisätietoja</a>
 aiwindow-feedback-submit = Lähetä
 aiwindow-feedback-cancel = Peruuta
 aiwindow-feedback-reason-incorrect-or-misleading = Virheellinen tai harhaanjohtava
@@ -292,8 +294,17 @@ aiwindow-feedback-reason-lacks-personalization = Puutteellinen personointi tai a
 aiwindow-feedback-reason-performance-or-usability = Suorituskyky- tai käytettävyysongelma
 aiwindow-feedback-reason-harmful-or-offensive = Haitallinen tai loukkaava
 aiwindow-feedback-reason-other = Muu
+aiwindow-feedback-preview-report = Näytä keskustelun tiedot
+aiwindow-feedback-preview-report-with-page = Näytä keskustelun ja sivun tiedot
+aiwindow-feedback-include-page-content = Jaa tässä keskustelussa viitatut sivut
 
 ## Smart Window ai-chat-grid
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Vaihda näkymän asettelua
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Vaihda tilaa: Listanäkymä
+    .tooltiptext = Listanäkymä
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Vaihda tilaa: Ruudukkonäkymä
+    .tooltiptext = Ruudukkonäkymä
