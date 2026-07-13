@@ -213,27 +213,103 @@ newtab-privacy-message-info-4 = { -brand-short-name }in valitseminen tarkoittaa,
 newtab-privacy-message-info-4-cta = Näytä suojaukset
 newtab-privacy-message-info-5 = Estetyt seuraimet tarkoittavat, että vähemmän yrityksiä voi seurata sinua eri sivustoilla.
 newtab-privacy-message-info-5-cta = Näytä suojaukset
+newtab-privacy-message-info-6 = Säilytä tietosi { -brand-short-name }in huomassa. Emme koskaan myy tietojasi, toisin kuin muut selaimet saattavat tehdä.
 newtab-privacy-message-info-6-cta = Lue lisää
+newtab-privacy-message-info-7 = Katso, mitkä seuraimet { -brand-short-name } esti.
+newtab-privacy-message-info-7-cta = Näytä suojaukset
 newtab-privacy-message-info-8-cta = Lue lisää
+newtab-privacy-message-info-9-cta = Aseta oletukseksi
+newtab-privacy-message-info-10 = Tallenna salasanat { -brand-short-name }iin käyttääksesi vahvoja ja yksilöllisiä kirjautumistunnuksia kaikkialla.
+newtab-privacy-message-info-10-cta = Siirry salasanoihin
 newtab-privacy-message-info-11-cta = Lue lisää
+newtab-privacy-message-info-12 = Seurainten estäminen voi auttaa säästämään kaistanleveyttä rajoitetuissa dataliittymissä.
+newtab-privacy-message-info-12-cta = Näytä suojaukset
+newtab-privacy-message-info-13 = { -brand-short-name } estää seuraimet ja siten vapauttaa kaistanleveyttä sujuvampaa suoratoistoa varten.
+newtab-privacy-message-info-13-cta = Näytä suojaukset
 
 ## Privacy widget — promotional messages
 ##
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Pysy tietoisena, jos henkilötietosi ilmestyvät verkkoon tietomurron seurauksena.
 newtab-privacy-message-promo-monitor-1-cta = Lue lisää
 newtab-privacy-message-promo-monitor-2-cta = Lue lisää
+newtab-privacy-message-promo-signin-1-cta = Kirjaudu sisään
+newtab-privacy-message-promo-vpn-1 = Teetkö ostoksia julkisessa Wi-Fi-verkossa? Ota sisäänrakennettu VPN käyttöön lisäsuojaa varten.
+newtab-privacy-message-promo-vpn-1-cta = Avaa VPN
+newtab-privacy-message-promo-vpn-2 = Käytätkö lentokentän Wi-Fi-verkkoa? Suojaa selaamistasi ottamalla käyttöön sisäänrakennettu VPN.
 newtab-privacy-message-promo-vpn-2-cta = Avaa VPN
+newtab-privacy-message-promo-vpn-3 = Ota sisäänrakennettu VPN käyttöön pitääksesi sijaintisi yksityisempänä.
 newtab-privacy-message-promo-vpn-3-cta = Avaa VPN
+newtab-privacy-message-promo-private-window-1 = Kokeile yksityistä ikkunaa selataksesi yksityisemmin, kun käytät jaetussa käytössä olevaa tietokonetta.
 newtab-privacy-message-promo-private-window-1-cta = Avaa yksityinen ikkuna
+newtab-privacy-message-promo-relay-1 = Säästä oikea sähköpostiosoitteesi luotettaville ihmisille; käytä sähköpostimaskeja rekisteröitymisissä.
+newtab-privacy-message-promo-relay-1-cta = Hanki maskeja
+newtab-privacy-message-promo-relay-2 = Suojaa postilaatikkosi roskapostilta ilmaisella sähköpostin maskilla.
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } seurain estetty tässä kuussa. Pieni askel yksityisyyden takaamiseksi. Iso askel mielenrauhan takaamiseksi.
+       *[other] { $count } seurainta estetty tässä kuussa. Pieni askel yksityisyyden takaamiseksi. Iso askel mielenrauhan takaamiseksi.
+    }
+newtab-privacy-message-milestone-month-cta = Näytä suojaukset
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } seurain estetty tänä vuonna. Se on tehokas vuosi yksityisyytesi suojaamiseksi.
+       *[other] { $count } seurainta estetty tänä vuonna. Se on tehokas vuosi yksityisyytesi suojaamiseksi.
+    }
+newtab-privacy-message-milestone-year-cta = Näytä suojaukset
+newtab-privacy-message-milestone-total-cta = Näytä suojaukset
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Yli 100 seurainta estetty tänään.) Vähemmän seuraimia, enemmän yksityisyyttä.
+newtab-privacy-message-daily-cap-cta = Näytä suojaukset
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Olet ollut suojattu { $count } päivän.
+       *[other] Olet ollut suojattu { $count } päivää peräkkäin.
+    }
+newtab-privacy-message-streak-cta = Näytä suojaukset
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Jatka selaamista, { -brand-short-name } jatkaa estämistä.
+newtab-privacy-message-first-protection-cta = Näytä suojaukset
 
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Lue lisää
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Osakkeiden pienoisohjelman asetukset
+    .aria-label = Osakkeiden pienoisohjelman asetukset
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Osakkeet
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, nousi { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, laski { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, ei muutosta, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -247,6 +323,19 @@ newtab-picture-header-main = Päivän kuva
 # "©" is the copyright symbol.
 # $author (string) - the name of the image's author.
 newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Näytä lisenssi { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Päivän kuvan asetukset
+    .aria-label = Päivän kuvan asetukset
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -307,6 +396,7 @@ newtab-topsites-add-shortcut-label = Lisää pikavalinta
 newtab-topsites-add-shortcut-title =
     .title = Lisää pikavalinta
     .aria-label = Lisää pikavalinta
+newtab-shortcuts-pinned-area = Kiinnitetty alue
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
@@ -1301,6 +1391,9 @@ newtab-sports-widget-third-place = Kolmas sija
 newtab-sports-widget-runner-up = Toinen sija
 newtab-sports-widget-champions = Mestarit
 newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Vuoden 2026 mestarit
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1308,6 +1401,11 @@ newtab-sports-widget-match-full-time = Täysi aika
 newtab-sports-widget-match-halftime = Puoliaika
 newtab-sports-widget-match-extra-time = Jatkoaika
 newtab-sports-widget-match-penalties = Rangaistuspotkut
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = vs.
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Pysy ajan tasalla tulevien otteluiden yksityiskohdista
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
