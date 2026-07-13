@@ -217,10 +217,13 @@ newtab-privacy-message-info-6 = Säilytä tietosi { -brand-short-name }in huomas
 newtab-privacy-message-info-6-cta = Lue lisää
 newtab-privacy-message-info-7 = Katso, mitkä seuraimet { -brand-short-name } esti.
 newtab-privacy-message-info-7-cta = Näytä suojaukset
+newtab-privacy-message-info-8 = Selaaminen { -brand-short-name }illa tukee { -vendor-short-name }n tavoitetta rakentaa parempaa verkkoa.
 newtab-privacy-message-info-8-cta = Lue lisää
+newtab-privacy-message-info-9 = Tee { -brand-short-name }ista oletusselain sisäänrakennetun yksityisyyden takaamiseksi.
 newtab-privacy-message-info-9-cta = Aseta oletukseksi
 newtab-privacy-message-info-10 = Tallenna salasanat { -brand-short-name }iin käyttääksesi vahvoja ja yksilöllisiä kirjautumistunnuksia kaikkialla.
 newtab-privacy-message-info-10-cta = Siirry salasanoihin
+newtab-privacy-message-info-11 = Ota selvää, miten { -brand-short-name } auttaa pitämään selaamisesi yksityisempänä.
 newtab-privacy-message-info-11-cta = Lue lisää
 newtab-privacy-message-info-12 = Seurainten estäminen voi auttaa säästämään kaistanleveyttä rajoitetuissa dataliittymissä.
 newtab-privacy-message-info-12-cta = Näytä suojaukset
@@ -234,7 +237,9 @@ newtab-privacy-message-info-13-cta = Näytä suojaukset
 
 newtab-privacy-message-promo-monitor-1 = Pysy tietoisena, jos henkilötietosi ilmestyvät verkkoon tietomurron seurauksena.
 newtab-privacy-message-promo-monitor-1-cta = Lue lisää
+newtab-privacy-message-promo-monitor-2 = Suojaa tietosi ilmaisella tietomurtojen valvonnalla, jopa 20 sähköpostiosoitteelle.
 newtab-privacy-message-promo-monitor-2-cta = Lue lisää
+newtab-privacy-message-promo-signin-1 = Pidä kirjanmerkit, salasanat ja välilehdet salattuina eri laitteilla { -vendor-short-name }-tilin avulla.
 newtab-privacy-message-promo-signin-1-cta = Kirjaudu sisään
 newtab-privacy-message-promo-vpn-1 = Teetkö ostoksia julkisessa Wi-Fi-verkossa? Ota sisäänrakennettu VPN käyttöön lisäsuojaa varten.
 newtab-privacy-message-promo-vpn-1-cta = Avaa VPN
@@ -247,12 +252,23 @@ newtab-privacy-message-promo-private-window-1-cta = Avaa yksityinen ikkuna
 newtab-privacy-message-promo-relay-1 = Säästä oikea sähköpostiosoitteesi luotettaville ihmisille; käytä sähköpostimaskeja rekisteröitymisissä.
 newtab-privacy-message-promo-relay-1-cta = Hanki maskeja
 newtab-privacy-message-promo-relay-2 = Suojaa postilaatikkosi roskapostilta ilmaisella sähköpostin maskilla.
+newtab-privacy-message-promo-relay-2-cta = Hanki maskeja
+newtab-privacy-message-promo-relay-3 = Hanki 50 ilmaista sähköpostimaskia, jotka auttavat pitämään oikean sähköpostiosoitteesi yksityisenä.
+newtab-privacy-message-promo-relay-3-cta = Hanki maskeja
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } seurain estetty tällä viikolla. Katso, mitä { -brand-short-name } pitää poissa tieltäsi.
+       *[other] { $count } seurainta estetty tällä viikolla. Katso, mitä { -brand-short-name } pitää poissa tieltäsi.
+    }
+newtab-privacy-message-milestone-week-cta = Näytä suojaukset
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
@@ -269,6 +285,13 @@ newtab-privacy-message-milestone-year =
        *[other] { $count } seurainta estetty tänä vuonna. Se on tehokas vuosi yksityisyytesi suojaamiseksi.
     }
 newtab-privacy-message-milestone-year-cta = Näytä suojaukset
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } seurain estetty. Se on merkittävä edistysaskel kohti yksityisyyttä sinun ehdoillasi.
+       *[other] { $count } seurainta estetty. Se on merkittävä edistysaskel kohti yksityisyyttä sinun ehdoillasi.
+    }
 newtab-privacy-message-milestone-total-cta = Näytä suojaukset
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Yli 100 seurainta estetty tänään.) Vähemmän seuraimia, enemmän yksityisyyttä.
@@ -1493,6 +1516,7 @@ newtab-sports-widget-message-wallpapers-title = Aloita MM-kisat uusilla taustaku
 newtab-sports-widget-message-wallpapers-body = Tuo ottelupäivän energiaa selaimeesi.
 newtab-sports-widget-message-wallpapers-cta = Valitse taustakuva
 newtab-sports-widget-message-wallpapers-semifinals-title = Hanki uusi taustakuva välieriin
+newtab-sports-widget-message-wallpapers-semifinals-body = Luo pohjaa jalkapallon MM-kisojen suurimmille otteluille.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lisää pienoisohjelmia
 newtab-sports-widget-message-day-in-play-title = Pidä päiväsi käynnissä { -brand-product-name }in pienoisohjelmien avulla
@@ -1503,7 +1527,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Auta meitä parantamaan pienoisohjelmia
+newtab-sports-widget-message-survey-body = Siinäpä ne MM-kisat. Jaa palautetta kokemuksesta.
 newtab-sports-widget-message-survey-widget-title = Mitä pidit MM-kisojen pienoisohjelmasta?
+newtab-sports-widget-message-survey-widget-body = Jaa palautteesi, niin autat meitä parantamaan tulevia pienoisohjelmia. Kokeile sitten uutta pienoisohjelmaa.
 newtab-sports-widget-message-survey-cta =
     .label = Osallistu kyselyyn
 

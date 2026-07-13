@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Podrobnosti o chybe
 about-debugging-message-details-label-warning = Podrobnosti o varovaní
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Podrobnosti
+about-debugging-sidebar =
+    .heading = Ladenie

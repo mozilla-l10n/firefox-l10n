@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Povoliť rozdelenú konzolu
 options-webconsole-split-console-tooltip =
     .title = Otvárať rozdelenú konzolu pomocou klávesu Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor sieťovej aktivity
+
 ## Style Editor section
 
 # The heading

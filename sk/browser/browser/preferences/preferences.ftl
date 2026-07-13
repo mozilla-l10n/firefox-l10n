@@ -875,6 +875,8 @@ browsing-search-on-start-typing =
 settings-keyboard-shortcuts-group =
     .label = Klávesové skratky
     .description = Prispôsobte si, ako sa pohybujete vo { -brand-short-name(case: "loc") } a ako ho ovládate.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Prispôsobiť klávesové skratky
 settings-media-group =
     .label = Médiá
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1302,6 +1304,8 @@ containers-new-tab-check2 =
     .description = Toto otvorí ponuku kontajnerov vždy, keď stlačíte tlačidlo na otvorenie novej karty.
 containers-settings-button2 =
     .title = Nastavenia
+containers-remove-button3 =
+    .title = Odstrániť
 containers-remove-button2 =
     .title = Odstrániť
 
