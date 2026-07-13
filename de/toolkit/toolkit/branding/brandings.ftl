@@ -63,6 +63,7 @@
         [lowercase-singular] intelligentes Fenster
         [lowercase-plural] intelligente Fenster
         [lowercase-plural-genitive] intelligenter Fenster
+        [lowercase-singular-dative] intelligenten Fenster
         [lowercase-plural-dative] intelligenten Fenstern
         [lowercase-plural-accusative] intelligente Fenster
        *[uppercase-singular] Intelligentes Fenster

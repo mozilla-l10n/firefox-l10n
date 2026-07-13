@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Link in neuem { -smart-window-brand-name(form: "lowercase-singular-dative") } öffnen
+    .accesskey = n
 appmenuitem-new-ai-window =
     .label = Neues { -smart-window-brand-name }
     .value = Neues { -smart-window-brand-name }
