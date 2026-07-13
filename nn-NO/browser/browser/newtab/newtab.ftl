@@ -261,6 +261,13 @@ newtab-privacy-message-promo-relay-3-cta = Få e-postalias
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } sporar blokkert denne veka. Sjå kva { -brand-short-name } held unna
+       *[other] { $count } sporarar blokkerte denne veka. Sjå kva { -brand-short-name } held unna
+    }
 newtab-privacy-message-milestone-week-cta = Vis vern
 newtab-privacy-message-milestone-month-cta = Vis vern
 newtab-privacy-message-milestone-year-cta = Vis vern
