@@ -209,6 +209,7 @@ newtab-privacy-message-info-2 = Tapykueho jejoko oipytyvõ ani hag̃ua mba’apo
 newtab-privacy-message-info-2-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-info-3 = Heta tenda oreko tapykuehoha, upévare mba’apohaguasu eike’ỹhague ohapykueho ñandutípe.
 newtab-privacy-message-info-3-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-info-4 = Eiporavóvo { -brand-short-name } he’ise eiporavoha ñemo’ã ijypykue rupi.
 newtab-privacy-message-info-4-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-info-5-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-info-6-cta = Eikuaave
