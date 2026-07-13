@@ -216,11 +216,21 @@ newtab-privacy-message-info-4 = Wybór { -brand-short-name(case: "gen") } oznacz
 newtab-privacy-message-info-4-cta = Wyświetl ochronę
 newtab-privacy-message-info-5 = Blokowanie elementów śledzących oznacza, że mniej firm może śledzić Cię między witrynami.
 newtab-privacy-message-info-5-cta = Wyświetl ochronę
+newtab-privacy-message-info-6 = Trzymaj swoje dane w { -brand-short-name(case: "loc") }. Nigdy ich nie sprzedajemy, ale inne przeglądarki mogą.
 newtab-privacy-message-info-6-cta = Więcej informacji
+newtab-privacy-message-info-7 = Zobacz, jakie elementy śledzące { -brand-short-name } zablokował.
 newtab-privacy-message-info-7-cta = Wyświetl ochronę
+newtab-privacy-message-info-8 = Przeglądanie Internetu za pomocą { -brand-short-name(case: "gen") } wspiera misję { -vendor-short-name(case: "gen") } budowania lepszej sieci.
 newtab-privacy-message-info-8-cta = Więcej informacji
+newtab-privacy-message-info-9 = Ustaw { -brand-short-name(case: "acc") } jako swoją domyślną przeglądarkę z wbudowaną prywatnością.
+newtab-privacy-message-info-9-cta = Ustaw jako domyślną
+newtab-privacy-message-info-10 = Zachowuj hasła w { -brand-short-name(case: "loc") }, aby wszędzie używać silnych i niepowtarzalnych danych logowania.
+newtab-privacy-message-info-10-cta = Przejdź do haseł
+newtab-privacy-message-info-11 = Dowiedz się, w jaki sposób { -brand-short-name } pomaga zwiększyć Twoją prywatność podczas przeglądania Internetu.
 newtab-privacy-message-info-11-cta = Więcej informacji
+newtab-privacy-message-info-12 = Blokowanie elementów śledzących może pomóc zaoszczędzić dane w przypadku limitów, na przykład w sieci komórkowej.
 newtab-privacy-message-info-12-cta = Wyświetl ochronę
+newtab-privacy-message-info-13 = { -brand-short-name } blokuje elementy śledzące, zwalniając pasmo na płynniejsze streamowanie.
 newtab-privacy-message-info-13-cta = Wyświetl ochronę
 
 ## Privacy widget — promotional messages
@@ -228,25 +238,82 @@ newtab-privacy-message-info-13-cta = Wyświetl ochronę
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Dowiedz się, czy Twoje dane osobowe pojawiły się w wycieku danych.
 newtab-privacy-message-promo-monitor-1-cta = Więcej informacji
+newtab-privacy-message-promo-monitor-2 = Chroń swoje dane osobowe dzięki bezpłatnemu monitorowaniu wycieków danych, nawet do 20 adresów e-mail.
 newtab-privacy-message-promo-monitor-2-cta = Więcej informacji
+newtab-privacy-message-promo-signin-1 = Korzystaj z zaszyfrowanych zakładek, haseł i kart na wszystkich urządzeniach dzięki kontu { -vendor-short-name(case: "gen") }.
 newtab-privacy-message-promo-signin-1-cta = Zaloguj się
+newtab-privacy-message-promo-vpn-1 = Robisz zakupy przez publiczną sieć Wi-Fi? Włącz wbudowaną sieć VPN, aby korzystać z dodatkowej ochrony.
 newtab-privacy-message-promo-vpn-1-cta = Otwórz VPN
+newtab-privacy-message-promo-vpn-2 = Korzystasz z Wi-Fi na lotnisku? Chroń swoją przeglądarkę, włączając wbudowaną sieć VPN.
 newtab-privacy-message-promo-vpn-2-cta = Otwórz VPN
+newtab-privacy-message-promo-vpn-3 = Włącz wbudowaną sieć VPN, aby zwiększyć prywatność miejsca, z którego przeglądasz Internet.
 newtab-privacy-message-promo-vpn-3-cta = Otwórz VPN
+newtab-privacy-message-promo-private-window-1 = Wypróbuj okno prywatne, aby zwiększyć prywatność podczas przeglądania Internetu, gdy korzystasz ze wspólnego komputera.
 newtab-privacy-message-promo-private-window-1-cta = Otwórz prywatne okno
+newtab-privacy-message-promo-relay-1 = Swój prawdziwy adres e-mail zachowaj dla osób, którym ufasz — do logowania używaj maski dla adresu e-mail.
+newtab-privacy-message-promo-relay-1-cta = Zacznij korzystać z masek
+newtab-privacy-message-promo-relay-2 = Chroń swoją pocztę przed spamem, korzystając z bezpłatnych masek dla adresu e-mail.
+newtab-privacy-message-promo-relay-2-cta = Zacznij korzystać z masek
+newtab-privacy-message-promo-relay-3 = Korzystaj z do 50 bezpłatnych masek dla adresu e-mail, które pomogą chronić prywatność tego prawdziwego.
+newtab-privacy-message-promo-relay-3-cta = Zacznij korzystać z masek
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] W tym tygodniu zablokowano { $count } element śledzący. Zobacz, co { -brand-short-name } trzyma z dala od Ciebie
+        [few] W tym tygodniu zablokowano { $count } elementy śledzące. Zobacz, co { -brand-short-name } trzyma z dala od Ciebie
+       *[many] W tym tygodniu zablokowano { $count } elementów śledzących. Zobacz, co { -brand-short-name } trzyma z dala od Ciebie
+    }
 newtab-privacy-message-milestone-week-cta = Wyświetl ochronę
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] W tym miesiącu zablokowano { $count } element śledzący. Mały krok dla prywatności. Wielki skok dla spokoju ducha.
+        [few] W tym miesiącu zablokowano { $count } elementy śledzące. Mały krok dla prywatności. Wielki skok dla spokoju ducha.
+       *[many] W tym miesiącu zablokowano { $count } elementów śledzących. Mały krok dla prywatności. Wielki skok dla spokoju ducha.
+    }
 newtab-privacy-message-milestone-month-cta = Wyświetl ochronę
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] W tym roku zablokowano { $count } element śledzący. To wspaniały rok ochrony Twojej prywatności.
+        [few] W tym roku zablokowano { $count } elementy śledzące. To wspaniały rok ochrony Twojej prywatności.
+       *[many] W tym roku zablokowano { $count } elementów śledzących. To wspaniały rok ochrony Twojej prywatności.
+    }
 newtab-privacy-message-milestone-year-cta = Wyświetl ochronę
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] Zablokowano { $count } element śledzący. To duży postęp w kierunku prywatności na Twoich warunkach.
+        [few] Zablokowano { $count } elementy śledzące. To duży postęp w kierunku prywatności na Twoich warunkach.
+       *[many] Zablokowano { $count } elementów śledzących. To duży postęp w kierunku prywatności na Twoich warunkach.
+    }
 newtab-privacy-message-milestone-total-cta = Wyświetl ochronę
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = Dzisiaj zablokowano już ponad 100 elementów śledzących — im ich mniej, tym więcej prywatności.
 newtab-privacy-message-daily-cap-cta = Wyświetl ochronę
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Ochrona trwa już jeden dzień.
+        [few] Ochrona trwa już { $count } dni z rzędu.
+       *[many] Ochrona trwa już { $count } dni z rzędu.
+    }
 newtab-privacy-message-streak-cta = Wyświetl ochronę
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Nie przerywaj przeglądania, { -brand-short-name } nie przerwie blokowania.
 newtab-privacy-message-first-protection-cta = Wyświetl ochronę
 
 ## Strings for the Stocks widget
@@ -263,6 +330,19 @@ newtab-stocks-widget-menu-button =
     .aria-label = Opcje widżetu giełdy
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Giełda
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, wzrost o { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, spadek o { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, bez zmian, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -349,6 +429,7 @@ newtab-topsites-add-shortcut-label = Dodaj skrót
 newtab-topsites-add-shortcut-title =
     .title = Dodaj skrót
     .aria-label = Dodaj skrót
+newtab-shortcuts-pinned-area = Przypięty obszar
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wpisz tytuł
@@ -1445,6 +1526,7 @@ newtab-sports-widget-message-wallpapers-title = Zacznij mistrzostwa świata z n
 newtab-sports-widget-message-wallpapers-body = Podczas turnieju poczuj w swojej przeglądarce energię dnia meczowego.
 newtab-sports-widget-message-wallpapers-cta = Wybierz tapetę
 newtab-sports-widget-message-wallpapers-semifinals-title = Ustaw nową tapetę na półfinały
+newtab-sports-widget-message-wallpapers-semifinals-body = Przygotuj grunt pod najważniejsze mecze mistrzostw świata.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj widżety
 newtab-sports-widget-message-day-in-play-title = Nie wychodź z gry dzięki widżetom { -brand-product-name(case: "gen") }
@@ -1454,6 +1536,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Pomóż nam ulepszać widżety
 newtab-sports-widget-message-survey-cta =
     .label = Wypełnij ankietę
 

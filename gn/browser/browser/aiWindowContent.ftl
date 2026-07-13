@@ -19,6 +19,10 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Oĩvaicha osẽvaíva. Eha’ã jey ag̃amieve.
 smartwindow-assistant-error-budget-header = Ndaikatuvéima echatea ko árape.
 smartwindow-assistant-error-account-header = Eiporu hag̃ua { -smart-window-brand-name }, eikeraẽva’erã.
+smartwindow-assistant-error-max-length-header = Oguahẽma ára eñepyrũvo jechatea pyahu. Kóva ohupytýma ipukukue.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = (HTTP { $status }) apopyvusu ojavýva. Eha’ã jey ag̃ave.
 smartwindow-retry-btn = Eha’ã jey
 smartwindow-clear-btn = Chatea pyahu
 smartwindow-signin-btn = Eñemboheraguapy
@@ -67,6 +71,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Eha’ãjey
+smartwindow-nl-retry-message = Embotyséramo gueteri tendaykeita, eiporavo <strong>Eha’ã jey</strong> ha eiporavo kuatia’atã jurujapyréva.
+smartwindow-nl-retry-group-tabs-message = Embyatyséramo gueteri tendaykeita, eiporavo <strong>Ñeha’ã jey</strong> ha eiporavo kuatia’atã jurujapyréva.
 smartwindow-nl-thinking = Ehekahína tendayke ojokupytýva…
 smartwindow-loading-assistant-response =
     .aria-label = Emyanyhẽ pytyvõhára mbohovái

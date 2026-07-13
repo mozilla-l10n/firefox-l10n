@@ -188,6 +188,8 @@ perftools-presets-networking-description =
         [with-cases] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.
        *[no-cases] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
     }
+perftools-presets-networking-with-logs-label = Práce v síti s protokoly
+perftools-presets-networking-with-logs-description = Doporučené nastavení pro ladění síťových chyb v aplikaci { -brand-shorter-name }, včetně síťových protokolů. Tyto protokoly mohou obsahovat citlivé informace, jako jsou například adresy URL, které navštěvujete.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napájení
 perftools-presets-power-description =

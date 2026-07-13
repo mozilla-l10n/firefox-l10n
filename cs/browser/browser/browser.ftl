@@ -433,6 +433,7 @@ quickactions-addons = Zobrazit doplňky
 quickactions-cmd-addons3 = rozšíření, motivy vzhledu, doplňky
 # Opens preferences page at AI controls
 quickactions-manageai = Spravovat ovládání AI
+quickactions-cmd-manageai = zakázat ai, vypnout ai, spravovat ai
 quickactions-cmd-addons2 = doplňky
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Správa záložek
@@ -1043,6 +1044,49 @@ urlbar-result-explanation-last-visited-absolute = Naposledy navštívena dne { $
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Uloženo do záložek dne { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Naposledy navštívena { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Naposledy navštívena před { $daysAgo } dnem
+        [few] Naposledy navštívena před { $daysAgo } dny
+        [many] Naposledy navštívena před { $daysAgo } dny
+       *[other] Naposledy navštívena před { $daysAgo } dny
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Naposledy navštívena před { $daysAgo } týdnem
+        [few] Naposledy navštívena před { $daysAgo } týdny
+        [many] Naposledy navštívena před { $daysAgo } týdny
+       *[other] Naposledy navštívena před { $daysAgo } týdny
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Naposledy navštívena před { $daysAgo } měsícem
+        [few] Naposledy navštívena před { $daysAgo } měsíci
+        [many] Naposledy navštívena před { $daysAgo } měsíci
+       *[other] Naposledy navštívena před { $daysAgo } měsíci
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Naposledy navštívena { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

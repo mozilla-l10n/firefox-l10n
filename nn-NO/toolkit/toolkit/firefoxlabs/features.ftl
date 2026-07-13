@@ -102,3 +102,4 @@ experimental-features-tab-notes-description = Fanenotat er ein eksperimentell fu
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Optimalisert fanemeny
+experimental-features-tab-context-menu-description = Sjå ein enklare kontekstmeny når du høgreklikkar på ei fane. Den er utforma for å gjere vanlege handlingar enklare å finne. <a data-l10n-name="connect">Del tilbakemeldingar</a>

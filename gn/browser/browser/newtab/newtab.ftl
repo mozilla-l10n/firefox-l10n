@@ -192,14 +192,22 @@ newtab-privacy-across-sites =
        *[other] Opaite tendaitápe { $count }
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } ojoko tapykuehoita oikundaha aja. Ko’ápe ojehecháta.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } ojoko tapykuehoita ijehegui oikundaha aja.
 newtab-privacy-message-info-1-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-info-2 = Tapykueho jejoko oipytyvõ ani hag̃ua mba’apohaguasu ohapykueho ñandutípe.
 newtab-privacy-message-info-2-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-info-3 = Heta tenda oreko tapykuehoha, upévare mba’apohaguasu eike’ỹhague ohapykueho ñandutípe.
 newtab-privacy-message-info-3-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-info-4-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-info-5-cta = Ehecha ñemo’ãrã

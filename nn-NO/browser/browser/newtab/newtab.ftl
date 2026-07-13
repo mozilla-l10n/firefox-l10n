@@ -269,12 +269,40 @@ newtab-privacy-message-milestone-week =
        *[other] { $count } sporarar blokkerte denne veka. Sjå kva { -brand-short-name } held unna
     }
 newtab-privacy-message-milestone-week-cta = Vis vern
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } sporar blokkert denne månaden. Eitt lite steg for personvern. Eitt stort steg for sinnsro.
+       *[other] { $count } sporarar blokkerte denne månaden. Eitt lite steg for personvern. Eitt stort steg for sinnsro.
+    }
 newtab-privacy-message-milestone-month-cta = Vis vern
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } sporar blokkert i år. Det er eit sterkt år for ivaretaking av personvernet ditt.
+       *[other] { $count } sporarar blokkerte i år. Det er eit sterkt år for ivaretaking av personvernet ditt.
+    }
 newtab-privacy-message-milestone-year-cta = Vis vern
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } sporar blokkert. Det er eit stort framsteg for personvern på dine vilkår.
+       *[other] { $count } sporarar blokkerte. Det er eit stort framsteg for personvern på dine vilkår.
+    }
 newtab-privacy-message-milestone-total-cta = Vis vern
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Over 100 sporarar vart blokkerte i dag.) Færre sporarar betyr meir personvern.
 newtab-privacy-message-daily-cap-cta = Vis vern
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Du har vore verna { $count } dag på rad.
+       *[other] Du har vore verna { $count } dagar på rad.
+    }
 newtab-privacy-message-streak-cta = Vis vern
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Surf vidare, { -brand-short-name } blokkerer framleis sporingsverktøy.

@@ -105,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Eheka mbopya’ehápe
     .placeholder = Eheka mbopya’ehaitápe
+customkeys-description = Ehecha mba’éichapa omýi ha oku’e { -brand-short-name } ndive.
 customkeys-support-link-text = Eikuaave
 customkeys-reset-all-button = Ijypykuépe mbojevy

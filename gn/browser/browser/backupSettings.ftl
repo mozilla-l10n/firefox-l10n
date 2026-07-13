@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Emyandy ñongatujey
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Oĩ apañuái ñongatu jey marandurenda poravopyrépe. Ehecha ambue marandurenda ha eha’ã jey ag̃ave.
+turn-on-scheduled-backups-error-default-dir-denied = Ndaikatúi roike ñongatuha ojeykekóvape. Eñeha’ã eiporavo tendaite pyahu.
 backup-error-file-system = Oiko peteĩ apañuái marandurenda poravopyrépe eñongatu jeykuévo { -brand-short-name }-pe.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

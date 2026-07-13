@@ -134,7 +134,9 @@ aiwindow-firstrun-memories-title = Mbohovái oikóva ohóva erohoryvéva rehe
 aiwindow-firstrun-memories-conversation-title = Eike eñe’ẽ hag̃ua ore ndive
 aiwindow-firstrun-memories-conversation-body = Eikuaave jechateágui he’isehína sa’ive errepetiva’erãha.
 aiwindow-firstrun-memories-relevance-title = Mbohovái iporãvéva
+aiwindow-firstrun-memories-relevance-body = Jeikuaa ñeikundahágui ome’ẽ { -smart-window-brand-name }-pe hechapyrã tuicháva.
 aiwindow-firstrun-memories-privacy-title = Iñemi moha’ãnga rupi
+aiwindow-firstrun-memories-privacy-body = Mandu’a oñeñongatu ko mba’e’okápe. Embogue térã eipe’akuaa oimeha ára.
 aiwindow-firstrun-memories-choose-label = Eiporavo moõpa eikuaáta { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-chats = Echatea { -smart-window-brand-name } ndive
 aiwindow-firstrun-memories-checkbox-browsing = Eikundaha { -brand-product-name } rupi
@@ -143,6 +145,7 @@ aiwindow-firstrun-memories-update-settings = Embohekopyahu ejapose vove.
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = Ejapo { -smart-window-brand-name }-gui eiporusevévarõ
+aiwindow-firstrun-default-checkbox-label = Embojurujameme { -brand-product-name } { -smart-window-brand-name }-pe
 aiwindow-firstrun-default-checkbox-description = Emoambue ñemboheko ejapose vove
 
 ## Ask Toolbar Button
@@ -170,6 +173,10 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Mboty
     .tooltiptext = Mboty
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Mba’ekuaarãita oñembojuehéva opytáta mba’etépe. embojuruja { -smart-window-brand-name(plural-form: "true") } ováta ovetã ñemíme.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -214,6 +221,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Eguevi jechateakuépe
+firefoxview-chats-empty-description = Eiporúvo { -smart-window-brand-name }, jechateakue oñeñongatúta ko’ápe.
 
 ## Count displayed in fxview chat search results
 
