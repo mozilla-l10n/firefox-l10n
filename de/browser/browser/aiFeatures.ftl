@@ -66,6 +66,10 @@ smart-window-model-custom-save-confirmation = Modelldetails gespeichert. Starten
 ai-window-memories-section =
     .label = Erinnerungen
     .description = { -brand-short-name } kann anhand Ihrer Aktivitäten Erinnerungen erstellen. Diese Daten dienen dazu, Antworten individuell anzupassen, und werden lokal auf diesem Gerät gespeichert.
+ai-window-learn-from-chat-activity =
+    .label = Aus Chats in { -smart-window-brand-name(form: "lowercase-plural-dative") } lernen
+ai-window-learn-from-browsing-activity =
+    .label = Aus dem Surfen in klassischen und { -smart-window-brand-name(form: "lowercase-plural-dative") } lernen
 ai-window-manage-memories-button =
     .label = Erinnerungen verwalten
 ai-window-manage-memories-header =
@@ -80,6 +84,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Alle löschen
 ai-window-delete-all-memories-title = Alle Erinnerungen löschen?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Bestehende Erinnerungen werden gelöscht. Wenn keine neuen Erinnerungen erstellt werden sollen, wählen Sie die Option "Aus … lernen" in den Einstellungen für { -smart-window-brand-name(form: "lowercase-plural-accusative") } ab.
 ai-window-delete-all-memories-confirm = Löschen
 ai-window-delete-all-memories-cancel = Abbrechen
 # Variables:
