@@ -33,6 +33,7 @@ ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn
 ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród wielu położeń, aby ukryć miejsce, z którego przeglądasz Internet.
 ipprotection-feature-introduction-text-summer-promo-1 = Włącz sieć VPN, aby przeglądanie Internetu było bardziej prywatne. <a data-l10n-name="summer-promo-link">Uzyskaj nieograniczoną przepustowość</a> i więcej położeń, z których możesz przeglądać. Od teraz do 31 sierpnia.
 ipprotection-feature-introduction-title-summer-promo = Planujesz podróż? Prywatność zabierz ze sobą.
+ipprotection-feature-introduction-description-summer-promo = Osiągnij więcej z wbudowaną siecią VPN { -brand-product-name(case: "gen") }: więcej położeń, nieograniczona przepustowość. Od teraz do 31 sierpnia.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -170,6 +171,7 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } zapamięta, które witryny mają korzystać z VPN. W każdej chwili można je zmienić w <a data-l10n-name="setting-link">ustawieniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jest wyłączony na tej witrynie
 ipprotection-open-button = Otwórz { -brand-product-name(case: "acc") }
+ipprotection-come-back-title = Wróć i wypróbuj wbudowaną sieć VPN
 ipprotection-connection-status-generic-error-title-1 = Nie można połączyć z siecią VPN
     .aria-label = Nie można połączyć z siecią VPN
 
