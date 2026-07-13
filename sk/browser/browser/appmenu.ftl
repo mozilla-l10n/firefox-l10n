@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Sieťová aktivita
+profiler-popup-presets-networking-with-logs-description = Predvoľba na skúmanie chýb týkajúcich sa siete vo { -brand-shorter-name(case: "loc") } vrátane sieťových protokolov. Tieto protokoly môžu obsahovať citlivé informácie, ako napríklad adresy URL, ktoré navštívite.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Sieťová aktivita s protokolmi
 profiler-popup-presets-power-description = Predvoľba pre diagnostiku chýb zvyšujúcich spotrebu energie prehliadača { -brand-shorter-name }, s nízkou réžiou
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -303,6 +306,8 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Prihláste sa do svojho účtu
+appmenuitem-monitor-title2 = Buďte o krok vpred pred krádežou identity
+appmenuitem-monitor-description2 = Dostávajte upozornenia na úniky údajov
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Získajte upozornenia na úniky údajov
 appmenuitem-relay-title = { -relay-brand-short-name }
@@ -331,3 +336,4 @@ appmenu-edit-profile =
     .aria-label = Upraviť profil
 appmenu-profiles-2 =
     .label = Profily
+appmenu-profiles-header = Profily

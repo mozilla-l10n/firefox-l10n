@@ -166,6 +166,16 @@ pdfjs-digital-signature-properties-reason = Dôvod: { $reason }
 # Variables:
 #   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
 pdfjs-digital-signature-properties-timestamp = Časová pečiatka: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Podpodpis ({ $count })
+        [few] Podpodpisy ({ $count })
+        [many] Podpodpisy ({ $count })
+       *[other] Podpodpisy ({ $count })
+    }
 
 ## Print
 
@@ -760,6 +770,58 @@ pdfjs-new-badge-content = NOVÉ
 pdfjs-views-manager-waiting-for-file = Nahráva sa súbor…
 pdfjs-toggle-views-manager-button1 =
     .title = Spravovať strany
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Vlastnosti digitálneho podpisu
+    .aria-label = Vlastnosti digitálneho podpisu
+pdfjs-digital-signature-properties-button-label = Vlastnosti digitálneho podpisu
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokument bol podpísaný platným digitálnym podpisom
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokument bol podpísaný, ale { $count } digitálny podpis sa nepodarilo overiť
+        [few] Dokument bol podpísaný, ale { $count } digitálne podpisy sa nepodarilo overiť
+        [many] Dokument bol podpísaný, ale { $count } digitálnych podpisov sa nepodarilo overiť
+       *[other] Dokument bol podpísaný, ale { $count } digitálnych podpisov sa nepodarilo overiť
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Dokument bol podpísaný { $count } certifikátom, ktorý nie je dôveryhodný
+        [few] Dokument bol podpísaný { $count } certifikátmi, ktoré nie sú dôveryhodné
+        [many] Dokument bol podpísaný { $count } certifikátmi, ktoré nie sú dôveryhodné
+       *[other] Dokument bol podpísaný { $count } certifikátmi, ktoré nie sú dôveryhodné
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokument bol podpísaný { $count } certifikátom, ktorému vypršala platnosť
+        [few] Dokument bol podpísaný { $count } certifikátmi, ktorých platnosť vypršala
+        [many] Dokument bol podpísaný { $count } certifikátmi, ktorých platnosť vypršala
+       *[other] Dokument bol podpísaný { $count } certifikátmi, ktorých platnosť vypršala
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokument má { $count } neplatný digitálny podpis
+        [few] Dokument má { $count } neplatné digitálne podpisy
+        [many] Dokument má { $count } neplatných digitálnych podpisov
+       *[other] Dokument má { $count } neplatných digitálnych podpisov
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokument bol podpísaný { $count } zrušeným certifikátom
+        [few] Dokument bol podpísaný { $count } zrušenými certifikátmi
+        [many] Dokument bol podpísaný { $count } zrušenými certifikátmi
+       *[other] Dokument bol podpísaný { $count } zrušenými certifikátmi
+    }
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be

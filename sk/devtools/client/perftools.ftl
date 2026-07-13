@@ -172,6 +172,8 @@ perftools-presets-ml-label = Strojové učenie
 perftools-presets-ml-description2 = Predvoľba na skúmanie chýb strojového učenia vo { -brand-shorter-name(case: "loc") }.
 perftools-presets-networking-label = Sieťová aktivita
 perftools-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Sieťová aktivita s protokolmi
+perftools-presets-networking-with-logs-description = Predvoľba na skúmanie chýb týkajúcich sa siete vo { -brand-shorter-name(case: "loc") } vrátane sieťových protokolov. Tieto protokoly môžu obsahovať citlivé informácie, ako napríklad adresy URL, ktoré navštívite.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napájanie
 perftools-presets-power-description = Predvoľba pre diagnostiku chýb zvyšujúcich spotrebu energie prehliadača { -brand-shorter-name }, s nízkou réžiou

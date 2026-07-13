@@ -81,6 +81,11 @@ options-webconsole-split-console-tooltip =
 # The heading
 options-netmonitor-label = Monitor sieťovej aktivity
 
+## Experimental section
+
+# The heading
+options-experimental-label = Experimentálne funkcie
+
 ## Style Editor section
 
 # The heading
