@@ -215,7 +215,10 @@ newtab-privacy-message-info-2-cta = Zobraziť ochrany
 newtab-privacy-message-info-3 = Mnohé stránky majú sledovacie prvky, takže spoločnosti, ktoré ste nikdy nenavštívili, vás môžu sledovať online.
 newtab-privacy-message-info-3-cta = Zobraziť ochrany
 newtab-privacy-message-info-4-cta = Zobraziť ochrany
+newtab-privacy-message-info-5 = Zablokované sledovacie prvky znamenajú, že menej spoločností vás môže sledovať na rôznych stránkach.
+newtab-privacy-message-info-5-cta = Zobraziť ochrany
 newtab-privacy-message-info-6-cta = Ďalšie informácie
+newtab-privacy-message-info-7-cta = Zobraziť ochrany
 
 ## Strings for the Stocks widget
 
@@ -255,6 +258,8 @@ newtab-picture-menu-learn-more = Ďalšie informácie
 newtab-picture-show-button =
     .title = Zobraziť obrázok dňa
     .aria-label = Zobraziť obrázok dňa
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Zajtra tu nájdete nový obrázok
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Obrázok dňa z Wikimedia Commons

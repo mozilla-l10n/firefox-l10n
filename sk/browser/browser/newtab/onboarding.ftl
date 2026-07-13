@@ -600,3 +600,19 @@ onboarding-refresh-sync-title = Choďte kamkoľvek. Synchronizujte všetko.
 onboarding-refresh-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name(case: "acc") }, jediný významný prehliadač podporovaný neziskovou organizáciou. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a dostupnejší pre všetkých.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje chrbát
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Prepínajte medzi inteligentnými a klasickými oknami kedykoľvek.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Podmienky používania { -brand-product-name(case: "gen") }
+smartwindow-existing-user-fx-tou-body = Ak chcete používať { -smart-window-brand-name(case: "acc") }, súhlaste s <a data-l10n-name="terms_of_use">Podmienkami používania</a> a aktualizovaným <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a>.
+smartwindow-existing-user-fx-tou-accept = Prijať
+smartwindow-existing-user-fx-tou-go-back = Prejsť naspäť
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Pokračovať
