@@ -1169,6 +1169,9 @@ newtab-sports-widget-now = Ara
 newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Subcampió
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Campions 2026
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = contra
@@ -1202,6 +1205,21 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bòsnia i Hercegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Costa d’Ivori
+newtab-sports-widget-team-name-label-eng =
+    .label = Anglaterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Escòcia
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Afegeix ginys
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Ajudeu-nos a millorar els ginys
+newtab-sports-widget-message-survey-body = Això és el final de la Copa del Món. Compartiu la vostra opinió de l’experiència.
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1222,3 +1240,16 @@ newtab-clock-widget-menu-learn-more = Més informació
 newtab-clock-widget-menu-edit = Edita els rellotges
 newtab-clock-widget-menu-switch-to-12h = Canvia al format de 12 hores
 newtab-clock-widget-menu-switch-to-24h = Canvia al format de 24 hores
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, sobrenom: { $nickname }

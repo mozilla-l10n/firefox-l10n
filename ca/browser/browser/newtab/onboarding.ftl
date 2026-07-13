@@ -607,3 +607,16 @@ onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vost
 smartwindow-existing-user-fx-tou-title = Condicions d'ús del { -brand-product-name }
 smartwindow-existing-user-fx-tou-accept = Accepta
 smartwindow-existing-user-fx-tou-go-back = Vés enrere
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Continua
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Voleu mantenir l’assistent tancat?
+smartwindow-sidebar-auto-open-callout-body = El podeu obrir sempre que us calgui.
+smartwindow-sidebar-auto-open-callout-accept = Sí, mantén-lo tancat
+smartwindow-sidebar-auto-open-callout-dismiss = No, gràcies
+smartwindow-sidebar-auto-open-callout-accepted-title = L’assistent romandrà tancat
+smartwindow-sidebar-auto-open-callout-rejected-title = Entesos
