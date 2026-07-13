@@ -167,16 +167,54 @@ home-prefs-mission-message-learn-more-link-srd = Pozrite sa ako
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Ďalšie informácie
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Sledovací prvok zablokované dnes
+        [few] Sledovacie prvky zablokované dnes
+        [many] Sledovacích prvkov zablokovaných dnes
+       *[other] Sledovacích prvkov zablokovaných dnes
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Na { $count } stránke
+        [few] Na { $count } stránkach
+        [many] Na { $count } stránkach
+       *[other] Na { $count } stránkach
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokuje sledovacie prvky počas prehliadania. Uvidíte ich tu.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } automaticky blokuje sledovacie prvky počas prehliadania.
 newtab-privacy-message-info-1-cta = Zobraziť ochrany
 newtab-privacy-message-info-2 = Blokovanie sledovacích prvkov pomáha zabrániť spoločnostiam, aby vás sledovali online.
 newtab-privacy-message-info-2-cta = Zobraziť ochrany
+newtab-privacy-message-info-3 = Mnohé stránky majú sledovacie prvky, takže spoločnosti, ktoré ste nikdy nenavštívili, vás môžu sledovať online.
 newtab-privacy-message-info-3-cta = Zobraziť ochrany
+newtab-privacy-message-info-4-cta = Zobraziť ochrany
 newtab-privacy-message-info-6-cta = Ďalšie informácie
 
 ## Strings for the Stocks widget
@@ -188,23 +226,38 @@ newtab-stocks-menu-learn-more = Ďalšie informácie
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Obrázok dňa · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Obrázok dňa
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Nastavenia pre obrázok dňa
+    .aria-label = Nastavenia pre obrázok dňa
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
     .label = Nastaviť tapetu
     .title = Nastaviť tapetu
-    .aria-label = Nastavte si fotografiu dňa ako tapetu
+    .aria-label = Nastavte si obrázok dňa ako tapetu
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Spravovať tapetu
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skryť obrázok dňa
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Zobraziť obrázok dňa
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Ďalšie informácie
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Zobraziť dnešný obrázok
-    .aria-label = Zobraziť dnešný obrázok
+    .title = Zobraziť obrázok dňa
+    .aria-label = Zobraziť obrázok dňa
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Obrázok dňa z Wikimedia Commons
 
 ## Search box component.
 
@@ -555,6 +608,8 @@ newtab-custom-widget-privacy-toggle =
     .label = Súkromie
 newtab-custom-widget-stocks-toggle =
     .label = Akcie
+newtab-custom-widget-picture-toggle =
+    .label = Obrázok dňa
 newtab-custom-widget-section-title = Miniaplikácie
 newtab-custom-widget-section-toggle =
     .label = Miniaplikácie

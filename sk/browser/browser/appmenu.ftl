@@ -311,6 +311,7 @@ appmenuitem-monitor-description2 = Dostávajte upozornenia na úniky údajov
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Získajte upozornenia na úniky údajov
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Udržujte si e‑mail súkromný
 appmenuitem-relay-description2 = Pomáha predchádzať nevyžiadanej pošte v e‑mailovej schránke
 appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
 appmenuitem-services-relay-description = Spustiť informačný panel e‑mailových masiek

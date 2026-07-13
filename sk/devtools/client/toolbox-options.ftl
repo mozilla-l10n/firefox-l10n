@@ -85,6 +85,13 @@ options-netmonitor-label = Monitor sieťovej aktivity
 
 # The heading
 options-experimental-label = Experimentálne funkcie
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Zobrazovať šablóny štýlov v nástroji na ladenie
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Zobrazenie zoznamu a šablón štýlov v nástroji na ladenie
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (vyžaduje opätovné otvorenie súpravy nástrojov)
 
 ## Style Editor section
 
