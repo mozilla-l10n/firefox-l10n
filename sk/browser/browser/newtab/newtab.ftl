@@ -258,6 +258,27 @@ newtab-privacy-message-promo-relay-1 = Uschovajte si svoju skutočnú e‑mailov
 newtab-privacy-message-promo-relay-1-cta = Získajte masky
 newtab-privacy-message-promo-relay-2 = Chráňte svoju e‑mailovú schránku pomocou bezplatného maskovania e‑mailov.
 newtab-privacy-message-promo-relay-2-cta = Získajte masky
+newtab-privacy-message-promo-relay-3 = Získajte 50 bezplatných masiek e‑mailov, ktoré vám pomôžu udržať vašu skutočnú e‑mailovú adresu v súkromí.
+newtab-privacy-message-promo-relay-3-cta = Získajte masky
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Boli ste chránení { $count } deň.
+        [few] Boli ste chránení { $count } dni po sebe.
+        [many] Boli ste chránení { $count } dní po sebe.
+       *[other] Boli ste chránení { $count } dní po sebe.
+    }
+newtab-privacy-message-streak-cta = Zobraziť ochrany
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Pokračujte v prehliadaní, { -brand-short-name } bude naďalej blokovať.
+newtab-privacy-message-first-protection-cta = Zobraziť ochrany
 
 ## Strings for the Stocks widget
 
@@ -265,6 +286,25 @@ newtab-privacy-message-promo-relay-2-cta = Získajte masky
 newtab-stocks-menu-search = Hľadať burzové symboly
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Ďalšie informácie
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Možnosti miniaplikácie Akcie
+    .aria-label = Možnosti miniaplikácie Akcie
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Akcie
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, zvýšenie o { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, zníženie o { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -273,6 +313,19 @@ newtab-stocks-menu-learn-more = Ďalšie informácie
 newtab-picture-header = Obrázok dňa · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Obrázok dňa
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Zobraziť licenciu { $license }
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
@@ -1442,6 +1495,15 @@ newtab-sports-widget-message-day-in-play-title = Využite svoj deň naplno s min
 newtab-sports-widget-message-day-in-play-body = Sledujte Majstrovstvá sveta, sústreďte sa na úlohy, sledujte čas po celom svete a mnoho ďalšieho.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Preskúmajte miniaplikácie
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Pomôžte nám vylepšiť miniaplikácie
+newtab-sports-widget-message-survey-body = A je tu koniec Majstrovstiev sveta. Podeľte sa s nami o svoj názor na tento zážitok.
+newtab-sports-widget-message-survey-widget-title = Aká bola miniaplikácia Majstrovstiev sveta?
+newtab-sports-widget-message-survey-widget-body = Podeľte sa s nami o svoju spätnú väzbu, aby sme mohli vylepšiť budúce miniaplikácie. A potom vyskúšajte ďalšiu z našej ponuky miniaplikácií.
+newtab-sports-widget-message-survey-cta =
+    .label = Zúčastniť sa prieskumu
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

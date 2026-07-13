@@ -615,4 +615,20 @@ smartwindow-existing-user-fx-tou-go-back = Prejsť naspäť
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Urobte si { -smart-window-brand-name } svojim obľúbeným nástrojom
+smartwindow-onboarding-subtitle = Vytvárajte súhrny, porovnajte a pýtajte sa bez zaváhania.
 smartwindow-onboarding-primary-button = Pokračovať
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskot { -brand-product-name(case: "gen") } (Kit) s hviezdami
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Chcete mať asistenta zatvoreného?
+smartwindow-sidebar-auto-open-callout-body = Stále ho môžete otvoriť, kedykoľvek ho budete potrebovať.
+smartwindow-sidebar-auto-open-callout-accept = Áno, nechať zatvoreného
+smartwindow-sidebar-auto-open-callout-dismiss = Nie, ďakujem
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistent zostane zatvorený
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Na otvorenie na ľubovoľnej stránke použite možnosť Opýtať sa. Túto možnosť môžete kedykoľvek zmeniť v <a data-l10n-name="settings">Nastaveniach</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Rozumiem
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Ak si to rozmyslíte, predvolené nastavenie môžete kedykoľvek aktualizovať v <a data-l10n-name="settings">Nastaveniach</a>.
