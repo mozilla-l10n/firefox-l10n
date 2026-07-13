@@ -267,6 +267,49 @@ newtab-privacy-message-promo-relay-3-cta = Získajte masky
 ## protection). Count-bearing ones interpolate { $count }.
 
 # Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] Tento týždeň bol zablokovaný { $count } sledovací prvok. Pozrite sa, pred čím vás { -brand-short-name } chráni.
+        [few] Tento týždeň boli zablokované { $count } sledovacie prvky. Pozrite sa, pred čím vás { -brand-short-name } chráni.
+        [many] Tento týždeň bolo zablokovaných { $count } sledovacích prvkov. Pozrite sa, pred čím vás { -brand-short-name } chráni.
+       *[other] Tento týždeň bolo zablokovaných { $count } sledovacích prvkov. Pozrite sa, pred čím vás { -brand-short-name } chráni.
+    }
+newtab-privacy-message-milestone-week-cta = Zobraziť ochrany
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] Tento mesiac bol zablokovaný { $count } sledovací prvok. Malý krok pre súkromie. Veľký krok pre pokoj v duši.
+        [few] Tento mesiac boli zablokované { $count } sledovacie prvky. Malý krok pre súkromie. Veľký krok pre pokoj v duši.
+        [many] Tento mesiac bolo zablokovaných { $count } sledovacích prvkov. Malý krok pre súkromie. Veľký krok pre pokoj v duši.
+       *[other] Tento mesiac bolo zablokovaných { $count } sledovacích prvkov. Malý krok pre súkromie. Veľký krok pre pokoj v duši.
+    }
+newtab-privacy-message-milestone-month-cta = Zobraziť ochrany
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] Tento rok bol zablokovaný { $count } sledovací prvok. Je to silný rok ochrany vášho súkromia.
+        [few] Tento rok boli zablokované { $count } sledovacie prvky. Je to silný rok ochrany vášho súkromia.
+        [many] Tento rok bolo zablokovaných { $count } sledovacích prvkov. Je to silný rok ochrany vášho súkromia.
+       *[other] Tento rok bolo zablokovaných { $count } sledovacích prvkov. Je to silný rok ochrany vášho súkromia.
+    }
+newtab-privacy-message-milestone-year-cta = Zobraziť ochrany
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] Bol zablokovaný { $count } sledovací prvok. To je významný pokrok smerom k ochrane súkromia podľa vašich predstáv.
+        [few] Boli zablokované { $count } sledovacie prvky. To je významný pokrok smerom k ochrane súkromia podľa vašich predstáv.
+        [many] Bolo zablokovaných { $count } sledovacích prvkov. To je významný pokrok smerom k ochrane súkromia podľa vašich predstáv.
+       *[other] Bolo zablokovaných { $count } sledovacích prvkov. To je významný pokrok smerom k ochrane súkromia podľa vašich predstáv.
+    }
+newtab-privacy-message-milestone-total-cta = Zobraziť ochrany
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Dnes bolo zablokovaných viac ako 100 sledovacích prvkov.) Menej sledovacích prvkov znamená viac súkromia.
+newtab-privacy-message-daily-cap-cta = Zobraziť ochrany
+# Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
 newtab-privacy-message-streak =
     { $count ->
@@ -305,6 +348,8 @@ newtab-stocks-widget-title = Akcie
 newtab-stocks-ticker-status-up = { $name }, zvýšenie o { $change }, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, zníženie o { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, bez zmeny, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
