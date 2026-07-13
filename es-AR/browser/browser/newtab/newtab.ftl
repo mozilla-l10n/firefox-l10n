@@ -260,6 +260,13 @@ newtab-privacy-message-promo-relay-3-cta = Conseguir máscaras
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } rastreador bloqueado esta semana. Vea lo que { -brand-short-name } mantiene alejado
+       *[other] { $count } rastreadores bloqueados esta semana. Vea lo que { -brand-short-name } mantiene alejado
+    }
 newtab-privacy-message-milestone-week-cta = Ver protecciones
 # Variables:
 #   $count (number) - Trackers blocked this month
@@ -277,6 +284,13 @@ newtab-privacy-message-milestone-year =
        *[other] { $count } rastreadores bloqueados este año. Es un año poderoso para proteger su privacidad.
     }
 newtab-privacy-message-milestone-year-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } rastreador bloqueado. Ese es un gran progreso hacia la privacidad bajo sus propias condiciones.
+       *[other] { $count } rastreadores bloqueados. Ese es un gran progreso hacia la privacidad bajo sus propias condiciones.
+    }
 newtab-privacy-message-milestone-total-cta = Ver protecciones
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Más de 100 rastreadores bloqueados hoy.) Menos rastreadores significa más privacidad.
@@ -299,6 +313,14 @@ newtab-privacy-message-first-protection-cta = Ver protecciones
 newtab-stocks-menu-search = Buscar símbolos de acciones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Conocer más
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Opciones del widget de acciones
+    .aria-label = Opciones del widget de acciones
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Acciones
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
