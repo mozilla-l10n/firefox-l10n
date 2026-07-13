@@ -33,6 +33,7 @@ smartwindow-signin-btn = Kirjaudu sisään
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Käytetyt muistot
 aiwindow-memories-callout-description = Muistot auttoivat tekemään tästä vastauksesta henkilökohtaisemman.
 aiwindow-memories-learn-more = Lue lisää
 aiwindow-manage-memories =
@@ -74,6 +75,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Yritä uudestaan
+smartwindow-nl-retry-message = Jos haluat edelleen sulkea välilehdet, valitse <strong>Yritä uudelleen</strong> ja tee valintasi avautuvassa kortissa.
+smartwindow-nl-retry-group-tabs-message = Jos haluat edelleen ryhmitellä välilehtiä, valitse <strong>Yritä uudelleen</strong> ja valitse avautuvasta kortista haluamasi ryhmät.
 smartwindow-nl-thinking = Etsitään vastaavia välilehtiä…
 smartwindow-loading-assistant-response =
     .aria-label = Ladataan avustajan vastausta
@@ -131,6 +134,20 @@ smart-window-grouped-tabs-summary =
        *[other] Luotiin ryhmä “{ $label }” ja lisättiin { $count } välilehteä.
     }
 smart-window-grouped-tabs-row-label = Ryhmitetyt välilehdet
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Ryhmästä puretut välilehdet
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } välilehti ryhmitetty, ja sitten ryhmittely purettiin.
+       *[other] { $count } välilehteä ryhmitetty, ja sitten ryhmittely purettiin.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Purettiin ryhmästä { $count } välilehti
+       *[other] Purettiin ryhmästä { $count } välilehteä
+    }
 
 ## Action log
 
@@ -151,3 +168,20 @@ action-log-checked-memories = Tarkistettiin muistot
 action-log-searching-settings = Etsitään asetuksia
 action-log-searched-settings = Etsittiin asetukset
 action-log-searching-world-cup-matches = Etsitään MM-otteluita
+action-log-searched-world-cup-matches = Etsittiin MM-ottelut
+action-log-checking-world-cup-live = Tarkistetaan suoria MM-otteluita
+action-log-checked-world-cup-live = Tarkistettiin suorat MM-ottelut
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Suoritettiin 1 vaihe
+       *[other] Suoritettiin { $count } vaihetta
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Hakutulokset ladattu tälle välilehdelle. Analysoidaan…

@@ -188,8 +188,8 @@ newtab-privacy-trackers-blocked-today =
 #   $count (number) - Number of sites where trackers were blocked
 newtab-privacy-across-sites =
     { $count ->
-        [one] Em { $count } site
-       *[other] Em { $count } sites
+        [one] em { $count } site
+       *[other] em { $count } sites
     }
 
 ## Privacy widget — empty state
