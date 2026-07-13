@@ -6,11 +6,19 @@ preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-
 smart-window-block-title = Estetäänkö { -smart-window-brand-name }?
 smart-window-select-label =
     .label = { -smart-window-brand-name }
+ai-window-personalize-header =
+    .heading = { -smart-window-brand-name }
 
 ## Variables:
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom-name =
+    .label = Mallin nimi
+    .placeholder = Esimerkki: glm4
+smart-window-model-custom-url =
+    .label = Mallin päätepiste
+    .placeholder = Esimerkki: http://localhost:11434/v1
 smart-window-model-custom-save =
     .label = Tallenna
 ai-window-delete-all-memories-button =
@@ -18,3 +26,8 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = Poistetaanko kaikki muistot?
 ai-window-delete-all-memories-confirm = Poista
 ai-window-delete-all-memories-cancel = Peruuta
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Poista muisto
+    .aria-label = Poista { $label }

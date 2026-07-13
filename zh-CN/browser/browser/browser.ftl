@@ -405,6 +405,7 @@ quickactions-addons = 查看附加组件
 quickactions-cmd-addons3 = 扩展, 主题, 附加组件, extensions, themes, addons, add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = 管理 AI 控制
+quickactions-cmd-manageai = 禁用 ai, 关闭 ai, 管理 ai, disable ai, off ai, manage ai
 quickactions-cmd-addons2 = 附加组件, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理书签
@@ -924,6 +925,11 @@ urlbar-result-explanation-last-visited-absolute = 上次访问于 { $date }
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = 书签添加于 { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = 上次访问：{ $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

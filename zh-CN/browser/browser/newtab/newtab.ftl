@@ -189,6 +189,14 @@ newtab-stocks-widget-title = 股市
 
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = 每日一图
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = 维基共享资源
 # Screen-reader label for the license link; the visible text is the license
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
@@ -546,6 +554,8 @@ newtab-custom-widget-privacy-toggle =
     .label = 隐私保护
 newtab-custom-widget-stocks-toggle =
     .label = 股市
+newtab-custom-widget-picture-toggle =
+    .label = 每日一图
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件
@@ -1313,6 +1323,10 @@ newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 
 newtab-sports-widget-message-day-in-play-body = 关注世界杯、记录任务、掌握世界各地时间，另有更多实用功能。
 newtab-sports-widget-message-explore-widgets-cta =
     .label = 探索小组件
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = 帮助我们改进小部件
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

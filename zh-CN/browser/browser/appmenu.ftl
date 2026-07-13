@@ -337,6 +337,7 @@ appmenu-edit-profile =
     .aria-label = 编辑配置文件
 appmenu-edit-this-profile =
     .label = 编辑此配置文件
+appmenu-profile-current-in-use = 当前使用的配置文件
 appmenu-profiles-2 =
     .label = 配置文件
 appmenu-profiles-header = 配置文件
