@@ -173,6 +173,9 @@ newtab-privacy-menu-learn-more = Ďalšie informácie
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1-cta = Zobraziť ochrany
+newtab-privacy-message-info-2 = Blokovanie sledovacích prvkov pomáha zabrániť spoločnostiam, aby vás sledovali online.
+newtab-privacy-message-info-2-cta = Zobraziť ochrany
 newtab-privacy-message-info-3-cta = Zobraziť ochrany
 newtab-privacy-message-info-6-cta = Ďalšie informácie
 
@@ -185,6 +188,17 @@ newtab-stocks-menu-learn-more = Ďalšie informácie
 
 ## Strings for the Picture of the Day widget
 
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Nastaviť tapetu
+    .title = Nastaviť tapetu
+    .aria-label = Nastavte si fotografiu dňa ako tapetu
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Spravovať tapetu
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Skryť obrázok dňa
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Ďalšie informácie
 # Icon button shown on the widget once the picture is hidden; restores it.

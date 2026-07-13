@@ -311,12 +311,19 @@ appmenuitem-monitor-description2 = Dostávajte upozornenia na úniky údajov
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Získajte upozornenia na úniky údajov
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description2 = Pomáha predchádzať nevyžiadanej pošte v e‑mailovej schránke
 appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
 appmenuitem-services-relay-description = Spustiť informačný panel e‑mailových masiek
+appmenuitem-vpn-title2 = Skryte svoju polohu pomocou { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Sťažte sledovanie vášho prehliadania
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získajte ochranu celého zariadenia
 appmenuitem-vpn-description = Chráňte svoju online aktivitu
 appmenu-services-header = Moje služby
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Nástroje na ochranu súkromia
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -330,10 +337,18 @@ appmenu-manage-profiles =
     .label = Spravovať profily
 appmenu-copy-profile =
     .label = Kopírovať tento profil
+appmenu-create-profile2 =
+    .label = Vytvoriť nový profil
 appmenu-create-profile =
     .label = Nový profil
 appmenu-edit-profile =
     .aria-label = Upraviť profil
+appmenu-edit-this-profile =
+    .label = Upraviť tento profil
+appmenu-profile-current-in-use = Aktuálny profil sa používa
 appmenu-profiles-2 =
     .label = Profily
 appmenu-profiles-header = Profily
+appmenu-all-profiles =
+    .label = Všetky profily
+appmenu-secure-sync-header = Bezpečná synchronizácia
