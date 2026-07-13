@@ -15,6 +15,10 @@ appmenuitem-banner-update-unsupported =
     .label = Nie można uaktualnić — system jest niezgodny
 appmenuitem-banner-update-restart =
     .label = Aktualizacja jest dostępna — uruchom ponownie
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Pobierz świeżego { -brand-short-name(case: "gen") }. Zachowaj wszystkie karty.
+appmenu-nova-update-link = Uruchom ponownie, aby uaktualnić
 appmenu-nova-fxa-sign-in = Zaloguj się
 appmenuitem-new-tab =
     .label = Nowa karta
