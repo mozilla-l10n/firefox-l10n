@@ -325,10 +325,21 @@ about-logins-breach-alert-link = راو و { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = رزم آسیب پزیر
+about-logins-vulnerable-alert-text2 = ای رزم من ی هساو دی ک گاشڌ هک وابیڌه و کار گؽرسته. و کار گرؽڌن دووارته رزم، پوی هساوا ایسا ن من ختر اونه. ای رزم ن آلشت کۊنین.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = راو و { $hostname }
 about-logins-vulnerable-alert-learn-more-link = قلوه دووسته بۊین
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = ی وۊرۊدی سی { $loginTitle } وا اۊ نوم منتوری ز زیتر بیڌسه. <a data-l10n-name="duplicate-link">و وۊرۊدی هیم سکویی اروین؟</a>
+# This is a generic error message.
+about-logins-error-message-default = ختایی مجال زفت کردن ای رزم پؽش ٱووڌ.
 
 ## Login Export Dialog
 
@@ -387,6 +398,11 @@ about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>و من ٱووڌه یل ورۊ رسۊوی وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>و من ٱووڌه یل ورۊ رسۊوی وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>تئداد و من ٱووڌنا تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
+       *[other] <span>تئداد و من ٱووڌنا تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
