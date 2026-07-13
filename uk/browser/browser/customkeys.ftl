@@ -9,7 +9,7 @@ customkeys-title = Комбінації клавіш
 customkeys-search = Пошук:
 customkeys-change = Змінити
 customkeys-reset = Скинути
-customkeys-clear = Очистити
+customkeys-clear = Стерти
 customkeys-new-key = Натисніть нову клавішу:
 customkeys-reset-all = Скинути всі комбінації клавіш до типових значень
 # Variables
@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Це експериментальна функція, тому вона може працювати не так, як очікувалось.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Недійсний
+customkeys-shortcut-unassigned =
+    .placeholder = Додати комбінацію клавіш
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Комбінація клавіш для: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Редагувати
+    .tooltiptext = Редагувати
 customkeys-key-clear =
-    .aria-label = Очистити
-    .tooltiptext = Очистити
+    .aria-label = Стерти
+    .tooltiptext = Стерти
+customkeys-key-reset =
+    .aria-label = Відновити
+    .tooltiptext = Відновити
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Натисніть нову клавішу:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Вилучити іншу комбінацію клавіш?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Ця клавіша вже використовується для “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Все одно використати
+customkeys-conflict-confirm-button-cancel = Скасувати
+customkeys-reset-all-confirm-title = Відновити типові?
+customkeys-reset-all-confirm-body = Будь-які створені вами користувацькі комбінації клавіш будуть вилучені.
+customkeys-reset-all-confirm-button-confirm = Відновити типові
+customkeys-reset-all-confirm-button-cancel = Скасувати
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Бічна панель
+customkeys-title-heading =
+    .heading = Комбінації клавіш
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Шукати комбінації клавіш
+    .placeholder = Шукати комбінації клавіш
+customkeys-description = Керуйте способом навігації та взаємодії з { -brand-short-name }.
+customkeys-support-link-text = Докладніше
+customkeys-reset-all-button = Відновити типові
