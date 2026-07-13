@@ -98,6 +98,31 @@ aiwindow-firstrun-model-fast-body = Gyorsan válaszol
 # $ownerName (string) - The name of the model owner/provider
 aiwindow-firstrun-model-chip-subtitle = { $model } modell, készítette: { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Rugalmas
+aiwindow-firstrun-model-personal-label = Személyes
+aiwindow-firstrun-model-personal-body = Leginkább testreszabott válaszok
+aiwindow-firstrun-button = Gyerünk!
+aiwindow-firstrun-back-button = Vissza
+aiwindow-firstrun-next-button = Tovább
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Gyors
+aiwindow-input-model-select-button-label-allpurpose = Rugalmas
+aiwindow-input-model-select-button-label-personal = Személyes
+aiwindow-input-model-select-button-label-custom = Egyéni
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Saját LLM használata
+aiwindow-input-model-select-default-badge =
+    .label = Alapértelmezett
+    .title = A kiválasztott alapértelmezett modell
+aiwindow-input-model-select-settings-link = Modellbeállítások
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Hasznosabb válaszok, az Ön feltételei szerint
 
 ## Clear browsing data dialog
 

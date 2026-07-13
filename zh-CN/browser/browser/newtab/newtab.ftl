@@ -162,12 +162,24 @@ home-prefs-mission-message-learn-more-link-srd = 了解其方式
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 详细了解
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today = 今天拦截的跟踪器数量
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } 会在您浏览时自动拦截跟踪器。
 newtab-privacy-message-info-8-cta = 详细了解
 
 ## Strings for the Stocks widget
@@ -187,6 +199,9 @@ newtab-stocks-widget-title = 股市
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = 每日一图 · 维基共享资源
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = 每日一图
 # Attribution line shown under the title once a picture loads: an author
@@ -207,8 +222,19 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .title = 每日一图选项
     .aria-label = 每日一图选项
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = 管理壁纸
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = 隐藏今日图片
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = 显示今日图片
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 详细了解
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = 显示今日图片
+    .aria-label = 显示今日图片
 
 ## Search box component.
 
