@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Esiasetus verkkovirheiden tutkimiseen { -brand-shorter-name }issa.
 profiler-popup-presets-networking-label =
     .label = Verkko
+profiler-popup-presets-networking-with-logs-description = Esiasetus verkkovirheiden tutkimiseen { -brand-shorter-name }issa, mukaan lukien verkkolokit. Nämä lokit voivat sisältää arkaluonteisia tietoja, kuten vierailemasi URL-osoitteet.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Verkkoliikennöinti lokien kera
 profiler-popup-presets-power-description = Esiasetus virrankäyttöongelmien tutkimiseen { -brand-shorter-name }issa, vain pienellä sivuvaikutuksella.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa asettaa evästeitä ja tallentaa tietoja tietokoneellesi. Kirjoita sivuston osoite ja napsauta Salli, Salli istunnon ajaksi tai Estä.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = Poikkeukset - Tyhjennä historia sammuttaessa
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = Voit määrittää, mitkä verkkosivustot säilyttävät tietonsa, kun { -brand-short-name } tyhjentää historian sulkemisen yhteydessä. Kirjoita hallittavan sivuston tarkka osoite ja napsauta sitten Salli.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

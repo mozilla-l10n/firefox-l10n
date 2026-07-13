@@ -37,7 +37,19 @@ ipprotection-feature-introduction-link-text-privacy-1 =
         [with-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN { -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
        *[no-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
     }
+ipprotection-feature-introduction-link-text-privacy-2 =
+    { -brand-product-name.case-status ->
+        [with-cases] <a data-l10n-name="learn-more-vpn">Integrovaná služba VPN{ -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení webu. Vyberte si z řady umístění a zajistěte si větší soukromí při prohlížení webu.
+       *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná služba VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení webu. Vyberte si z řady umístění a zajistěte si větší soukromí při prohlížení webu.
+    }
+ipprotection-feature-introduction-link-text-privacy-3 = Získejte <a data-l10n-name="learn-more-vpn">větší soukromí</a> tím, že si vyberete z několika umístění a skryjete tak místo, odkud surfujete.
+ipprotection-feature-introduction-text-summer-promo-1 = Zapněte tuto funkci a zajistěte si větší soukromí při prohlížení webu. <a data-l10n-name="summer-promo-link">Získejte neomezenou šířku pásma</a> a více umístění, ze kterých můžete surfovat. Platí do 31. srpna.
 ipprotection-feature-introduction-title-summer-promo = Máte nějaké cestovatelské plány? Vezměte si soukromí s sebou.
+ipprotection-feature-introduction-description-summer-promo =
+    { -brand-product-name.case-status ->
+        [with-cases] Využijte vestavěnou služby VPN { -brand-product-name(case: "gen") } na maximum: více umístění, neomezená šířka pásma. Platí do 31. srpna.
+       *[no-cases] Využijte vestavěnou služby VPN aplikace { -brand-product-name } na maximum: více umístění, neomezená šířka pásma. Platí do 31. srpna.
+    }
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -204,6 +216,7 @@ ipprotection-open-button =
        *[no-cases] Otevřít aplikaci { -brand-product-name }
     }
 ipprotection-come-back-title = Vraťte se a vyzkoušejte vestavěnou VPN
+ipprotection-message-body-hide-location = Při procházení webu { -brand-product-name } skryje vaši polohu, abyste měli větší soukromí a větší kontrolu.
 ipprotection-connection-status-generic-error-title-1 = Nepodařilo se připojit k VPN
     .aria-label = Nepodařilo se připojit k VPN
 

@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Muuta jaetun näkymän välilehtien kokoa
+tab-devtools-splitter =
+    .aria-label = Muuta kehittäjätyökalujen paneelin kokoa
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -183,7 +185,13 @@ tabbrowser-customizemode-tab-title = Muokkaa { -brand-short-name }-selainta
 tabbrowser-context-mute-tab =
     .label = Vaimenna välilehti
     .accesskey = V
+tabbrowser-context-mute-tab2 =
+    .label = Vaimenna ääni
+    .accesskey = m
 tabbrowser-context-unmute-tab =
+    .label = Palauta ääni
+    .accesskey = ä
+tabbrowser-context-unmute-tab2 =
     .label = Palauta ääni
     .accesskey = ä
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab

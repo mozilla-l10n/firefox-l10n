@@ -403,6 +403,9 @@ quickactions-addons = Näytä lisäosat
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = laajennukset, teemat, lisäosat
+# Opens preferences page at AI controls
+quickactions-manageai = Hallitse tekoälysäätimiä
+quickactions-cmd-manageai = poista tekoäly käytöstä, tekoäly pois, hallitse tekoälyä
 quickactions-cmd-addons2 = lisäosat
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Hallitse kirjanmerkkejä
@@ -458,6 +461,8 @@ quickactions-cmd-print = tulosta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Tallenna sivu PDF-muodossa
 quickactions-cmd-savepdf2 = pdf, tallenna sivu
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Avaa PDF-muokkain
 quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avaa yksityinen ikkuna

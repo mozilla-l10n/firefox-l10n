@@ -311,6 +311,19 @@ newtab-stocks-menu-learn-more = Zjistit více
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Akcie
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, zvýšení o { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, snížení o { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, beze změny, { $change }, { $price }
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -1531,6 +1544,7 @@ newtab-sports-widget-message-wallpapers-title = Odstartujte světový šampioná
 newtab-sports-widget-message-wallpapers-body = Vneste do svého prohlížeče trochu té zápasové energie na dobu turnaje.
 newtab-sports-widget-message-wallpapers-cta = Zvolte si tapetu
 newtab-sports-widget-message-wallpapers-semifinals-title = Získejte novou tapetu pro semi-finále
+newtab-sports-widget-message-wallpapers-semifinals-body = Připravte si půdu pro nejvýznamnější zápasy mistrovství světa.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Přidat widgety
 newtab-sports-widget-message-day-in-play-title =

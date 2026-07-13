@@ -669,6 +669,16 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Mějte { -brand-short-name } vždy po ruce — nastavte si jej jako výchozí a mějte jej v panelu úloh.
        *[other] Mějte { -brand-short-name } vždy po ruce — nastavte si jej jako výchozí a mějte jej na hlavním panelu.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Mějte { -brand-short-name } vždy po ruce
+       *[other] Otevírejte všechny odkazy aplikací { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Nastavte si ho jako výchozí a uložte si ho do Docku.
+       *[other] Užijte si rychlejší prohlížení stránek a automatickou ochranu soukromí.
+    }
 set-default-menu-message-primary-button = Nastavit jako výchozí
 set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlížeč
 set-default-menu-message-primary-button-short-variant =
@@ -689,6 +699,7 @@ relay-50-masks-announcement-secondary-button = Zavřít
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } dostává nový vzhled.</strong> Prohlížíte si předběžnou, ještě nedokončenou verzi před oficiálním spuštěním, které se uskuteční později v tomto roce.
 nova-early-access-share-feedback-link = Sdílet zpětnou vazbu
     .accesskey = S
 nova-early-access-infobar-primary-button = Rozumím
