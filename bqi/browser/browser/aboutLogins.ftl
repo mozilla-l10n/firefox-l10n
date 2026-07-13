@@ -300,6 +300,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 ##
 
 about-logins-confirm-export-dialog-title = و در کشیڌن دووسمندیا و من ٱووڌن وو رزما
+about-logins-confirm-export-dialog-message = رزما ایسا و عونوان هؽل خۊندنی زفت ابۊن (مسلن BadP@ssw0rd) سی دل هیمو هر کس ک ترسته بۊ فایل و در کشیڌه بیڌه ن بوگوشه، تره هونووݩ ن بوینه.
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
 about-logins-confirm-export-dialog-title2 = نوکته ای زبار و در کشیڌن رزما
 about-logins-confirm-export-dialog-confirm-button2 = رئڌن وا پؽش سی و در کشیڌن
