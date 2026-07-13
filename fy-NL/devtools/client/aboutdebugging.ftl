@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Flaterdetails
 about-debugging-message-details-label-warning = Warskôgingsdetails
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Details
+about-debugging-sidebar =
+    .heading = Flateropspoaring

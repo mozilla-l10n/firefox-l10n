@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = In lokaal Machine Le
 experimental-features-tab-notes =
     .label = Ljepblêdnotysjes
 experimental-features-tab-notes-description = Ljepblêdnotysjes binne in eksperimintele funksje wêrmei’t jo plaknotysjes tafoegje kinne oan jo browserljepblêden. Skriuw kontekst, omtinkens of folgjende stappen, sadat jo werom kinne komme en ûnthâlde wêrom’t jo it iepene hawwe. Wy soene graach jo kommentaar ûntfange, omdat wy dizze funksje ferbetterje bliuwe. <a data-l10n-name="connect">Kommentaar diele</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Streamline ljepblêdmenu
+experimental-features-tab-context-menu-description = Sjoch in ienfâldiger kontekstmenu as jo mei de rjochtermûsknop op in ljepblêd klikke. It is ûntwurpen om gewoane aksjes makliker te finen. <a data-l10n-name="connect">Kommentaar diele</a>

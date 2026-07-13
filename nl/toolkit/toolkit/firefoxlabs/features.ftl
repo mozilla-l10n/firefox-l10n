@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Een lokaal Machine L
 experimental-features-tab-notes =
     .label = Tabbladnotities
 experimental-features-tab-notes-description = Tabbladnotities zijn een experimentele functie waarmee u plakbriefjes aan uw browsertabbladen kunt toevoegen. Noteer context, herinneringen of volgende stappen, zodat u kunt terugkomen en zich kunt herinneren waarom u de pagina hebt geopend. We horen graag uw feedback terwijl we deze functie blijven verbeteren. <a data-l10n-name="connect">Feedback delen</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Gestroomlijnd tabbladmenu
+experimental-features-tab-context-menu-description = Zie een eenvoudiger contextmenu wanneer u met de rechtermuisknop op een tabblad klikt. Het is ontworpen om veelgebruikte acties beter vindbaar te maken. <a data-l10n-name="connect">Feedback delen</a>
