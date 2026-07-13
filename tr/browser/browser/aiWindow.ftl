@@ -98,6 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = { -smart-window-brand-name(form: "uppercase-singular") }ye hoş geldiniz
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
+aiwindow-firstrun-model-subtitle = { -smart-window-brand-name(form: "uppercase-singular") }de kullanacak modeli seçin. İstediğiniz zaman değiştirebilirsiniz.
 aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
 # $model (string) - The name of the AI model
@@ -140,6 +141,7 @@ aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan gün
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = { -smart-window-brand-name(form: "uppercase-singular") }yi varsayılan yapın
 aiwindow-firstrun-default-checkbox-label = { -brand-product-name } her zaman { -smart-window-brand-name }de açılsın
 aiwindow-firstrun-default-checkbox-description = İstediğiniz zaman ayarlardan değiştirebilirsiniz
 
@@ -212,6 +214,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Sohbetlerinize geri dönün
+firefoxview-chats-empty-description = { -smart-window-brand-name(form: "uppercase-singular") }yi kullandıkça sohbetleriniz buraya kaydedilecek.
 
 ## Count displayed in fxview chat search results
 
@@ -273,6 +276,7 @@ aiwindow-feedback-submit = Gönder
 aiwindow-feedback-cancel = Vazgeç
 aiwindow-feedback-reason-incorrect-or-misleading = Yanlış veya yanıltıcı
 aiwindow-feedback-reason-doesnt-address-my-request = İsteğimi karşılamıyor
+aiwindow-feedback-reason-lacks-personalization = Kişiselleştirme veya bağlam eksikliği
 aiwindow-feedback-reason-performance-or-usability = Performans veya kullanılabilirlik sorunu
 aiwindow-feedback-reason-harmful-or-offensive = Zararlı veya saldırgan
 aiwindow-feedback-reason-other = Diğer

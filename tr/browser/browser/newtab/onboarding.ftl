@@ -615,9 +615,11 @@ smartwindow-existing-user-fx-tou-go-back = Geri dön
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = { -smart-window-brand-name(form: "uppercase-singular") }yi varsayılan yapın
 smartwindow-onboarding-primary-button = Devam et
 
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = Asistanı kapalı tutmak ister misiniz?
 smartwindow-sidebar-auto-open-callout-dismiss = Hayır
+smartwindow-sidebar-auto-open-callout-rejected-title = Anladım

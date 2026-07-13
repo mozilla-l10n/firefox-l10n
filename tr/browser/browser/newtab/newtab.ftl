@@ -232,6 +232,12 @@ newtab-privacy-message-promo-private-window-1-cta = Gizli pencere aç
 ## protection). Count-bearing ones interpolate { $count }.
 
 newtab-privacy-message-milestone-week-cta = Korumaları göster
+newtab-privacy-message-milestone-month-cta = Korumaları göster
+newtab-privacy-message-milestone-year-cta = Korumaları göster
+newtab-privacy-message-milestone-total-cta = Korumaları göster
+newtab-privacy-message-daily-cap-cta = Korumaları göster
+newtab-privacy-message-streak-cta = Korumaları göster
+newtab-privacy-message-first-protection-cta = Korumaları göster
 
 ## Strings for the Stocks widget
 
@@ -239,17 +245,34 @@ newtab-privacy-message-milestone-week-cta = Korumaları göster
 newtab-stocks-menu-search = Sembollerde ara
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Borsa
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Günün resmi · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Günün resmi
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
 # Screen-reader label for the license link; the visible text is the license
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = { $license } lisansını göster
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Günün resmi seçenekleri
+    .aria-label = Günün resmi seçenekleri
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
