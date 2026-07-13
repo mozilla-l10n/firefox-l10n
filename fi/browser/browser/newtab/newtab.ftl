@@ -166,12 +166,53 @@ home-prefs-mission-message-learn-more-link-srd = Lue lisää
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Lue lisää
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] seurain estetty tänään
+       *[other] seurainta estetty tänään
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] { $count } sivustolla
+       *[other] { $count } sivustolla
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } estää seuraimia selatessasi. Näet ne täällä.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } estää seuraimia automaattisesti selatessasi.
+newtab-privacy-message-info-1-cta = Näytä suojaukset
+newtab-privacy-message-info-2 = Seurainten esto auttaa estämään yrityksiä seuraamasta sinua verkossa.
+newtab-privacy-message-info-2-cta = Näytä suojaukset
+newtab-privacy-message-info-3 = Monilla sivustoilla on seuraimia, joten yritykset, joiden sivustoilla et ole koskaan käynyt, saattavat seurata sinua verkossa.
+newtab-privacy-message-info-3-cta = Näytä suojaukset
+newtab-privacy-message-info-4 = { -brand-short-name }in valitseminen tarkoittaa, että valitset suojauksen oletusarvoisesti.
+newtab-privacy-message-info-4-cta = Näytä suojaukset
+newtab-privacy-message-info-5 = Estetyt seuraimet tarkoittavat, että vähemmän yrityksiä voi seurata sinua eri sivustoilla.
+newtab-privacy-message-info-5-cta = Näytä suojaukset
 newtab-privacy-message-info-6-cta = Lue lisää
 newtab-privacy-message-info-8-cta = Lue lisää
 newtab-privacy-message-info-11-cta = Lue lisää
@@ -225,6 +266,11 @@ newtab-picture-menu-learn-more = Lue lisää
 newtab-picture-show-button =
     .title = Näytä tämän päivän kuva
     .aria-label = Näytä tämän päivän kuva
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Palaa huomenna uuden kuvan luokse
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commonsin päivän kuva
 
 ## Search box component.
 

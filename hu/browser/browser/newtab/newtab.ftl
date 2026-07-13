@@ -219,6 +219,8 @@ newtab-privacy-message-info-8 = A { -brand-short-name } segítségével történ
 newtab-privacy-message-info-8-cta = További tudnivalók
 newtab-privacy-message-info-9 = Legyen a { -brand-short-name } a szokásos böngészője a beépített adatvédelem érdekében.
 newtab-privacy-message-info-9-cta = Beállítás alapértelmezettként
+newtab-privacy-message-info-10 = Mentse el a jelszavakat a { -brand-short-name } böngészőben, hogy erős, egyedi bejelentkezéseket használjon mindenhol.
+newtab-privacy-message-info-10-cta = Ugrás a jelszavakhoz
 
 ## Strings for the Stocks widget
 
