@@ -96,6 +96,12 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Adatvédelem
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Részvények
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = A nap képe
 home-prefs-mission-message2 =
     .message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk.
 home-prefs-manage-topics-link2 =
@@ -160,6 +166,60 @@ home-prefs-mission-message-learn-more-link-srd = Tudja meg hogyan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = További tudnivalók
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Ma blokkolt nyomkövető
+       *[other] Ma blokkolt nyomkövetők
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] { $count } webhelyen
+       *[other] { $count } webhelyen
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = A { -brand-short-name } böngészés közben blokkolja a követőket. Itt láthatja őket.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = A { -brand-short-name } böngészés közben automatikusan blokkolja a követőket.
+newtab-privacy-message-info-1-cta = Védelmek megtekintése
+newtab-privacy-message-info-2-cta = Védelmek megtekintése
+newtab-privacy-message-info-3-cta = Védelmek megtekintése
+newtab-privacy-message-info-4 = A { -brand-short-name } választása azt jelenti, hogy az alapértelmezett védelmet választja.
+newtab-privacy-message-info-4-cta = Védelmek megtekintése
+newtab-privacy-message-info-5 = A blokkolt követők azt jelentik, hogy kevesebb cég követheti Önt a webhelyek között.
+newtab-privacy-message-info-5-cta = Védelmek megtekintése
+newtab-privacy-message-info-6 = Tartsa meg a saját adatait a { -brand-short-name } segítségével. Mi sosem adjuk el, de más böngészők lehet.
+newtab-privacy-message-info-6-cta = További tudnivalók
+newtab-privacy-message-info-7 = Nézze meg, hogy mely nyomkövetőket blokkolta a { -brand-short-name }.
+newtab-privacy-message-info-7-cta = Védelmek megtekintése
+newtab-privacy-message-info-8 = A { -brand-short-name } segítségével történő böngészés támogatja a { -vendor-short-name } küldetését, hogy jobb webet építsen.
+newtab-privacy-message-info-8-cta = További tudnivalók
+newtab-privacy-message-info-9 = Legyen a { -brand-short-name } a szokásos böngészője a beépített adatvédelem érdekében.
+newtab-privacy-message-info-9-cta = Beállítás alapértelmezettként
+
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
@@ -189,6 +249,8 @@ newtab-picture-menu-learn-more = További tudnivalók
 newtab-picture-show-button =
     .title = A nap képének megjelenítése
     .aria-label = A nap képének megjelenítése
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Nézzen vissza holnap új képért
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = A nap képe a Wikimedia Commonson

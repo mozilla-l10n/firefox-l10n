@@ -166,6 +166,17 @@ home-prefs-mission-message-learn-more-link-srd = Descubre cómo
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Más información
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-5 = Al bloquear rastreadores menos empresas podrán seguirte cuando navegas de un sitio a otro.
+newtab-privacy-message-info-5-cta = Ver protecciones
+newtab-privacy-message-info-6 = Protege tus datos con { -brand-short-name }. Nunca vendemos tus datos, pero no todos los navegadores pueden decir lo mismo.
+newtab-privacy-message-info-6-cta = Más información
+
 ## Search box component.
 
 # "Search" is a verb/action

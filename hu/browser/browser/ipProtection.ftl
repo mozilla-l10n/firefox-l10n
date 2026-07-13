@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Válasszon egy másik helyet, ahonn
 ipprotecion-locations-subview-recommended-label = Ajánlott
 ipprotection-locations-subview-recommended-description = Megkeresi a leggyorsabb helyet
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Nem érhető el
+    .aria-label = Nem érhető el, le van tiltva
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Nem érhető el
 ipprotection-locations-subview-promo =
     .heading = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel

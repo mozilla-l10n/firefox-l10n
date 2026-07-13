@@ -244,13 +244,24 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Lap bezárva
+smartwindow-close-tab-callout-subtitle = Bármikor megnyithatja újra a lapokat az előzményekből.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-primary-button = Beállítás alapértelmezettként
+smart-window-default-promo-additional-button = Most nem
 
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Visszajelzés megosztása
+aiwindow-feedback-what-worked-well = Mi működött jól? Ne adjon meg személyes adatokat.
+aiwindow-feedback-choose-any = Válassza ki a megfelelőt
+aiwindow-feedback-add-details = Adjon meg részleteket, ha szeretné. Ne adjon meg személyes adatokat.
 aiwindow-feedback-submit = Elküldés
 aiwindow-feedback-cancel = Mégse
 aiwindow-feedback-reason-incorrect-or-misleading = Helytelen vagy félrevezető
 aiwindow-feedback-reason-doesnt-address-my-request = Nem felel meg a kérésemnek
+aiwindow-feedback-reason-lacks-personalization = Hiányzik a személyre szabás és a kontextus
 aiwindow-feedback-reason-harmful-or-offensive = Káros vagy sértő
 aiwindow-feedback-reason-other = Egyéb
 aiwindow-feedback-preview-report = Csevegés részleteinek megtekintése

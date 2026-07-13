@@ -166,16 +166,46 @@ home-prefs-mission-message-learn-more-link-srd = Lue lisää
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Lue lisää
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Lue lisää
+newtab-privacy-message-info-8-cta = Lue lisää
+newtab-privacy-message-info-11-cta = Lue lisää
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Lue lisää
+newtab-privacy-message-promo-monitor-2-cta = Lue lisää
+newtab-privacy-message-promo-vpn-2-cta = Avaa VPN
+newtab-privacy-message-promo-vpn-3-cta = Avaa VPN
+newtab-privacy-message-promo-private-window-1-cta = Avaa yksityinen ikkuna
+
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Lue lisää
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Osakkeet
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Päivän kuva · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Päivän kuva
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
