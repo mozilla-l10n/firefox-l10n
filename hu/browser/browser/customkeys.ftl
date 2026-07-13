@@ -62,14 +62,35 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Ez egy kísérleti funkció, és lehet, hogy nem a várt módon működik.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Érvénytelen
+customkeys-shortcut-unassigned =
+    .placeholder = Indítóikon hozzáadása
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Gyorsbillentyű ehhez: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Szerkesztés
+    .tooltiptext = Szerkesztés
 customkeys-key-clear =
     .aria-label = Törlés
     .tooltiptext = Törlés
+customkeys-key-reset =
+    .aria-label = Helyreállítás
+    .tooltiptext = Helyreállítás
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Nyomja meg az új billentyűt:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Eltávolít egy másik gyorsbillentyűt?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Ezt a kulcsot már a(z) „{ $conflict }” használja.
+customkeys-conflict-confirm-button-confirm = Használat mindenképpen
+customkeys-conflict-confirm-button-cancel = Mégse
+customkeys-reset-all-confirm-title = Alapértelmezések helyreállítása?
 
 ## Sidebar
 

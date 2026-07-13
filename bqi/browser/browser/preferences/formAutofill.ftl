@@ -128,6 +128,7 @@ autofill-address-tel = تیلیفووݩ
 autofill-address-email = ایمیل
 autofill-cancel-button = لقو
 autofill-save-button = زفت
+autofill-country-warning-message = پور کردن خوتکار فورم هیم سکو سی تئدادی ز کشورا فعال هڌ.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ٱووردن کارت ائتواری نۊ
 # The dialog title for editing credit cards in browser preferences.
@@ -139,11 +140,18 @@ autofill-edit-card-title2 = آلشت کارت
 autofill-card-number-2 =
     .label = شوماره کارت
 autofill-card-number = شوماره کارت
+autofill-card-invalid-number = ی شوماره کارت ائتواری ک زبال هڌ بزنین
 autofill-card-name-on-card-2 =
     .label = نوم ری کارت
+autofill-card-expires-month-2 =
+    .label = ما انقزا
+autofill-card-expires-year-2 =
+    .label = سال انقزا
 autofill-card-billing-address-2 =
     .label = نشۊوی قبز
 autofill-card-name-on-card = نوم ری کارت
+autofill-card-expires-month = ما انقزا
+autofill-card-expires-year = سال انقزا
 autofill-card-billing-address = نشۊوی قبز
 autofill-card-network = نوع کارت
 
