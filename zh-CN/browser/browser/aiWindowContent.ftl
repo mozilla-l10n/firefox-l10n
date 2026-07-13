@@ -61,6 +61,12 @@ aiwindow-applied-memories-list =
 aiwindow-delete-memory-button =
     .aria-label = 删除“{ $summary }”
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = 跳到聊天底部
+    .tooltiptext = 跳到底部
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
@@ -77,6 +83,7 @@ smartwindow-nl-undo-button =
 smart-window-closed-tabs-label = 已关闭 { $count } 个标签页
 smart-window-closed-tabs-summary = 完成！标签页已关闭。
 smart-window-closed-tabs-row-label = 已关闭标签页
+smart-window-restored-row-label = 已恢复 { $count } 个标签页
 smart-window-cancelled-label = 请求已取消。
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = 创建群组

@@ -403,6 +403,8 @@ quickactions-addons = 查看附加组件
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = 扩展, 主题, 附加组件, extensions, themes, addons, add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = 管理 AI 控制
 quickactions-cmd-addons2 = 附加组件, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理书签

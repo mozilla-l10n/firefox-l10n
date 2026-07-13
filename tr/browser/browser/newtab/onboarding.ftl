@@ -602,8 +602,14 @@ onboarding-refresh-gratitude-subtitle = { -brand-short-name } tarayıcısını k
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = İstediğiniz zaman akıllı pencereyle klasik pencere arasında geçiş yapabilirsiniz.
+
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } Kullanım Koşulları
 smartwindow-existing-user-fx-tou-accept = Kabul et
 smartwindow-existing-user-fx-tou-go-back = Geri dön
 
@@ -613,4 +619,5 @@ smartwindow-onboarding-primary-button = Devam et
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Asistanı kapalı tutmak ister misiniz?
 smartwindow-sidebar-auto-open-callout-dismiss = Hayır

@@ -462,6 +462,16 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se telakkaan.
        *[other] Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se tehtäväpalkkiin.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Pidä { -brand-short-name } lähettyvillä
+       *[other] Avaa kaikki linkit { -brand-short-name }illa
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Aseta oletukseksi ja pidä Dockissa.
+       *[other] Hanki nopeampi selaaminen ja automaattinen yksityisyyden suojaus.
+    }
 set-default-menu-message-primary-button = Aseta oletukseksi
 set-default-menu-message-primary-button-variant = Aseta ensisijaiseksi selaimeksi
 set-default-menu-message-primary-button-short-variant = Aseta { -brand-short-name } oletukseksi
@@ -478,6 +488,7 @@ relay-50-masks-announcement-secondary-button = Hylkää
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } saa uuden ilmeen.</strong> Esikatselet varhaista, viimeistelemätöntä versiota ennen myöhemmin tänä vuonna tapahtuvaa julkaisua.
 nova-early-access-share-feedback-link = Jaa palautetta
     .accesskey = J
 nova-early-access-infobar-primary-button = Selvä

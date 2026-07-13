@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-smartwindow-messages-document-title = { -smart-window-brand-name } sohbet mesajları
+smartwindow-messages-document-title = { -smart-window-brand-name(form: "uppercase-singular") } sohbet mesajları
 
 ## Context chips in the chat content
 
@@ -18,12 +18,12 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Bir şeyler yanlış gitti. Lütfen yeniden deneyin.
 smartwindow-assistant-error-budget-header = Bugünkü sohbet sınırına ulaştınız.
-smartwindow-assistant-error-account-header = { -smart-window-brand-name }yi kullanmak için giriş yapmalısınız.
-smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } kapasitesi şu anda dolu. Lütfen daha sonra yeniden deneyin.
+smartwindow-assistant-error-account-header = { -smart-window-brand-name(form: "uppercase-singular") }yi kullanmak için giriş yapmalısınız.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name(form: "uppercase-singular") } kapasitesi şu anda dolu. Lütfen daha sonra yeniden deneyin.
 smartwindow-assistant-error-budget-body = Bu pencerede gezinmeye devam edebilirsiniz. Günlük limitiniz sıfırlandığında sohbet özelliğini tekrar kullanabileceksiniz.
 smartwindow-assistant-error-many-requests-header = Lütfen bir dakika bekleyip tekrar deneyin. Kısa sürede çok fazla mesaj gönderildi.
 smartwindow-assistant-error-max-length-header = Yeni bir sohbet başlatmanın zamanı geldi. Bu sohbet uzunluk sınırına ulaştı.
-smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } sunucuya ulaşamadı. Farklı bir ağ deneyin veya VPN’inizi devre dışı bırakın.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name(form: "uppercase-singular") } sunucuya ulaşamadı. Farklı bir ağ deneyin veya VPN’inizi devre dışı bırakın.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Sunucu hatası (HTTP { $status }). Lütfen yeniden deneyin.

@@ -166,12 +166,40 @@ home-prefs-mission-message-learn-more-link-srd = Nasıl mı?
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Daha fazla bilgi al
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Bugün engellenen takip kodu
+       *[other] Bugün engellenen takip kodları
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] { $count } sitede
+       *[other] { $count } sitede
+    }
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1-cta = Korumaları göster
+newtab-privacy-message-info-2 = Takip kodu engelleme, şirketlerin sizi internette takip etmesini engeller.
 newtab-privacy-message-info-2-cta = Korumaları göster
 newtab-privacy-message-info-3-cta = Korumaları göster
 newtab-privacy-message-info-4-cta = Korumaları göster
@@ -217,6 +245,11 @@ newtab-stocks-menu-learn-more = Daha fazla bilgi al
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Günün resmi · Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = { $license } lisansını göster
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

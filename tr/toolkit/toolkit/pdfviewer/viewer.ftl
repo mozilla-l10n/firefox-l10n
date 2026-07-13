@@ -153,6 +153,7 @@ pdfjs-document-properties-linearized = Hızlı web görünümü:
 pdfjs-document-properties-linearized-yes = Evet
 pdfjs-document-properties-linearized-no = Hayır
 pdfjs-document-properties-close-button = Kapat
+pdfjs-digital-signature-properties-view-certificate = Sertifikayı göster
 
 ## Print
 

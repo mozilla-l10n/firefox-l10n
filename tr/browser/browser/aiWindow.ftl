@@ -21,7 +21,7 @@ menu-history-chats =
     .label = Sohbetler
 menu-history-chats-recent =
     .label = Son sohbetler
-smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-fullpage-heading = { -smart-window-brand-name(form: "uppercase-singular") }
 smartwindow-document-title = Yeni sekme
 
 ## Smart Window Toggle Button
@@ -36,8 +36,8 @@ ai-window-toggleview-switch-classic-description =
     .label = Standart gezinti
     .value = Standart gezinti
 ai-window-toggleview-switch-ai =
-    .label = { -smart-window-brand-name }
-    .value = { -smart-window-brand-name }
+    .label = { -smart-window-brand-name(form: "uppercase-singular") }
+    .value = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-toggleview-switch-ai-description =
     .label = Gezinirken sor
     .value = Gezinirken sor
@@ -45,7 +45,7 @@ ai-window-toggleview-switch-private =
     .label = Gizli pencere
 ai-window-toggleview-open-private =
     .label = Yeni gizli pencere aç
-ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-active = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-toggleview-status-label-inactive = Klasik pencere
 
 ## Input CTA
@@ -96,7 +96,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = { -smart-window-brand-name }ye hoş geldiniz
+aiwindow-firstrun-title = { -smart-window-brand-name(form: "uppercase-singular") }ye hoş geldiniz
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
@@ -168,7 +168,7 @@ aiwindow-close-sidebar =
 
 ## Smart Window Toggle Button (in-page)
 
-smartwindow-switch-to-smart-window = { -smart-window-brand-name }ye geç
+smartwindow-switch-to-smart-window = { -smart-window-brand-name(form: "uppercase-singular") }ye geç
 
 ## Fullpage Footer Actions
 
@@ -257,7 +257,7 @@ smartwindow-close-tab-callout-title = Sekme kapatıldı
 
 ## Smart Window new tab promo
 
-smart-window-default-promo-heading = { -smart-window-brand-name } varsayılan olarak ayarlansın mı?
+smart-window-default-promo-heading = { -smart-window-brand-name(form: "uppercase-singular") } varsayılan olarak ayarlansın mı?
 smart-window-default-promo-message = { -brand-short-name } her zaman { -smart-window-brand-name }de açılacaktır.
 smart-window-default-promo-primary-button = Varsayılan yap
 smart-window-default-promo-additional-button = Şimdi değil

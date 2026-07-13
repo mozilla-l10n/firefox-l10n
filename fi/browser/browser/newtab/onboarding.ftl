@@ -601,3 +601,34 @@ onboarding-refresh-sync-title = Mene minne tahansa. Synkronoi kaikki.
 onboarding-refresh-gratitude-subtitle = Kiitos, että käytät { -brand-short-name }ia, ainoaa selainta, jota tukee voittoa tavoittelematon järjestö. Tukesi avulla pyrimme tekemään Internetistä turvallisemman ja helpommin käytettävän kaikille.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } huolehtii sinusta
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Vaihda älykkään ja perinteisen ikkunan välillä milloin tahansa.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name }-käyttöehdot
+smartwindow-existing-user-fx-tou-body = { -smart-window-brand-name } vaatii käyttöä varten, että hyväksyt <a data-l10n-name="terms_of_use">käyttöehdot</a> ja päivitetyn <a data-l10n-name="privacy_notice">tietosuojakäytännön</a>.
+smartwindow-existing-user-fx-tou-accept = Hyväksy
+smartwindow-existing-user-fx-tou-go-back = Takaisin
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Aseta { -smart-window-brand-name } oletukseksi
+smartwindow-onboarding-subtitle = Tee yhteenvetoja, vertaile ja esitä kysymyksiä epäröimättä.
+smartwindow-onboarding-primary-button = Jatka
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name }in maskotti (Kit)
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Haluatko pitää avustajan suljettuna?
+smartwindow-sidebar-auto-open-callout-body = Voit silti avata sen aina tarvittaessa.
+smartwindow-sidebar-auto-open-callout-accept = Kyllä, pidä suljettuna
+smartwindow-sidebar-auto-open-callout-dismiss = Ei kiitos
+smartwindow-sidebar-auto-open-callout-accepted-title = Avustaja pysyy suljettuna
+smartwindow-sidebar-auto-open-callout-rejected-title = Selvä
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jos muutat mielesi, voit päivittää oletusasetuksen <a data-l10n-name="settings">asetuksissa</a> milloin tahansa.

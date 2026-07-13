@@ -74,3 +74,13 @@ about-private-browsing-cookie-banners-promo-body = Hylkäämme nyt automaattises
 about-private-browsing-felt-privacy-v1-info-header = Älä jätä jälkiä tähän laitteeseen
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } poistaa evästeet, historian ja sivustotietosi, kun suljet kaikki yksityiset ikkunat.
 about-private-browsing-felt-privacy-v1-info-link = Kuka voi nähdä toimintani?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Kaikkien yksityisten ikkunoiden sulkeminen poistaa evästeet, historian ja sivustotiedot.
+about-private-browsing-nova-info-link = Kuka voi vielä mahdollisesti nähdä toimintani?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Tietojasi ei talleteta
+about-private-browsing-nova-info-subheader = Poistamme kaikki haut ja sisäänkirjautumiset, kun suljet tämän ikkunan. { -brand-short-name }in sisäänrakennetut suojaukset, kuten seurainten esto, ovat myös käytössä.

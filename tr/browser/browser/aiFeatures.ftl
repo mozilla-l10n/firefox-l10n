@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
-smart-window-block-title = { -smart-window-brand-name } engellensin mi?
+preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name(form: "uppercase-singular") }
+smart-window-block-title = { -smart-window-brand-name(form: "uppercase-singular") } engellensin mi?
 smart-window-block-description-both = Bu işlem { -smart-window-brand-name } sohbetlerinizi ve anılarınızı silecektir.
 smart-window-block-description-chats = Bu işlem { -smart-window-brand-name } sohbetlerinizi silecektir.
 smart-window-block-description-memories = Bu işlem { -smart-window-brand-name } anılarınızı silecek.
 smart-window-select-label =
-    .label = { -smart-window-brand-name }
+    .label = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-activate-link =
     .label = Başlayın
 ai-window-personalize-button =
-    .label = { -smart-window-brand-name } ayarları
+    .label = { -smart-window-brand-name(form: "uppercase-singular") } ayarları
 ai-window-personalize-header =
-    .heading = { -smart-window-brand-name }
+    .heading = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-default-section =
     .label = Varsayılan ayarlar
 ai-window-open-sidebar =

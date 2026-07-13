@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = 股市
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = 每日一图
 home-prefs-mission-message2 =
     .message = 建设一个更好的互联网的使命，离不开我们赞助商的支持。
 home-prefs-manage-topics-link2 =
@@ -159,12 +162,45 @@ home-prefs-mission-message-learn-more-link-srd = 了解其方式
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 详细了解
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-8-cta = 详细了解
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = 搜索股票代码
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 详细了解
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = 股市小组件选项
+    .aria-label = 股市小组件选项
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = 股市
+
+## Strings for the Picture of the Day widget
+
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = 每日一图
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = 查看 { $license } 许可协议
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = 每日一图选项
+    .aria-label = 每日一图选项
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = 详细了解
 
 ## Search box component.
 
