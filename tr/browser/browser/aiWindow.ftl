@@ -133,6 +133,9 @@ aiwindow-firstrun-memories-conversation-title = Sohbete devam edin
 aiwindow-firstrun-memories-relevance-title = Daha alakalı cevaplar
 aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var
 aiwindow-firstrun-memories-privacy-body = Anılar bu cihazda depolanıyor. İstediğiniz zaman silebilir veya kapatabilirsiniz.
+aiwindow-firstrun-memories-choose-label = { -smart-window-brand-name(form: "uppercase-singular") }nin kendini nasıl eğitebileceğini seçin
+aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name(form: "uppercase-singular") } sohbetleri
+aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } gezintileri
 aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan güncelleyebilirsiniz.
 
 ## Firstrun set as default onboarding
