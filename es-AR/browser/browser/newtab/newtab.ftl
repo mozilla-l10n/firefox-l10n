@@ -217,8 +217,11 @@ newtab-privacy-message-info-6 = Mantenga sus datos con { -brand-short-name }. Nu
 newtab-privacy-message-info-6-cta = Conocer más
 newtab-privacy-message-info-7 = Vea qué rastreadores bloqueó { -brand-short-name }.
 newtab-privacy-message-info-7-cta = Ver protecciones
+newtab-privacy-message-info-8 = Navegar con { -brand-short-name } apoya la misión de { -vendor-short-name } de construir una web mejor.
 newtab-privacy-message-info-8-cta = Conocer más
+newtab-privacy-message-info-9 = Haga de { -brand-short-name } su navegador favorito para privacidad integrada.
 newtab-privacy-message-info-9-cta = Hacer predeterminado
+newtab-privacy-message-info-10 = Guarde las contraseñas en { -brand-short-name } para usar inicios de sesión únicos y seguros en todas partes.
 newtab-privacy-message-info-10-cta = Ir a contraseñas
 newtab-privacy-message-info-11 = Descubra cómo { -brand-short-name } ayuda a mantener la navegación más privada.
 newtab-privacy-message-info-11-cta = Conocer más
@@ -231,6 +234,7 @@ newtab-privacy-message-info-13-cta = Ver protecciones
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Averigue si su información personal aparece en una filtración de datos.
 newtab-privacy-message-promo-monitor-1-cta = Conocer más
 newtab-privacy-message-promo-monitor-2 = Proteja su información con el monitoreo gratuito de filtraciones de datos, para hasta 20 correos electrónicos.
 newtab-privacy-message-promo-monitor-2-cta = Conocer más
@@ -242,8 +246,14 @@ newtab-privacy-message-promo-vpn-2 = ¿Usando el Wi-Fi del aeropuerto? Proteja l
 newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
 newtab-privacy-message-promo-vpn-3 = Habilite la VPN integrada para ayudar a mantener la ubicación más privada.
 newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1 = Pruebe una ventana privada para navegar de forma más confidencial al usar una computadora compartida.
 newtab-privacy-message-promo-private-window-1-cta = Abrir ventana privada
+newtab-privacy-message-promo-relay-1 = Guarde su correo electrónico real para las personas en las que confíe; use una máscara de correo electrónico para registrarse en los sitios.
+newtab-privacy-message-promo-relay-1-cta = Conseguir máscaras
 newtab-privacy-message-promo-relay-2 = Proteja su bandeja de entrada del spam con el enmascaramiento de correo electrónico gratuito.
+newtab-privacy-message-promo-relay-2-cta = Conseguir máscaras
+newtab-privacy-message-promo-relay-3 = Consiga 50 máscaras de correo electrónico gratuitas para ayudar a mantener privado su correo electrónico real.
+newtab-privacy-message-promo-relay-3-cta = Conseguir máscaras
 
 ## Privacy widget — celebration messages
 ##
