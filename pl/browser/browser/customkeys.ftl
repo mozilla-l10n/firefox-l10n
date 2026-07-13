@@ -84,7 +84,14 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Czy usunąć drugi skrót?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Ten klawisz jest już używany przez skrót „{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Użyj go mimo to
 customkeys-conflict-confirm-button-cancel = Anuluj
+customkeys-reset-all-confirm-title = Czy przywrócić ustawienia domyślne?
+customkeys-reset-all-confirm-body = Wszystkie utworzone niestandardowe skróty klawiaturowe zostaną usunięte.
 customkeys-reset-all-confirm-button-confirm = Przywróć domyślne
 customkeys-reset-all-confirm-button-cancel = Anuluj
 
@@ -94,6 +101,10 @@ customkeys-sidebar =
     .aria-label = Panel boczny
 customkeys-title-heading =
     .heading = Skróty klawiaturowe
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Szukaj skrótów
+    .placeholder = Szukaj skrótów
 customkeys-description = Można zmieniać sposób poruszania się po { -brand-short-name(case: "loc") }.
 customkeys-support-link-text = Więcej informacji
 customkeys-reset-all-button = Przywróć domyślne

@@ -20,6 +20,9 @@ appmenu-nova-update-promo =
     .message = Pobierz świeżego { -brand-short-name(case: "gen") }. Zachowaj wszystkie karty.
 appmenu-nova-update-link = Uruchom ponownie, aby uaktualnić
 appmenu-nova-fxa-sign-in = Zaloguj się
+appmenu-nova-switch-device-promo =
+    .message = Wkrótce zmieniasz urządzenie? Zabierz { -brand-short-name(case: "acc") } ze sobą!
+appmenu-nova-switch-device-link = Jak przenieść swoje dane
 appmenuitem-new-tab =
     .label = Nowa karta
 appmenuitem-new-window =
@@ -303,11 +306,17 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Zaloguj się na konto
+appmenuitem-monitor-title2 = Chroń się przed kradzieżą tożsamości
+appmenuitem-monitor-description2 = Otrzymuj powiadomienia o wyciekach danych
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Otrzymuj powiadomienia o wyciekach danych
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Zachowaj prywatność adresu e-mail
+appmenuitem-relay-description2 = Pomaga zapobiegać spamowi w skrzynce odbiorczej
 appmenuitem-relay-description = Zamaskuj swój prawdziwy adres e-mail i telefon
 appmenuitem-services-relay-description = Otwórz panel masek dla adresów e-mail
+appmenuitem-vpn-title2 = Ukryj swoje położenie za pomocą { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Utrudnij śledzenie Twoich działań w Internecie
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Chroń całe urządzenie
 appmenuitem-vpn-description = Chroń swoje działania w Internecie
