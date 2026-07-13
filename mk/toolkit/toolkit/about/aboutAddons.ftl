@@ -294,7 +294,7 @@ privacy-policy = Политика за приватност
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = од <a data-l10n-name="author-name">{ $author }</a>
+created-by-author = од <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
