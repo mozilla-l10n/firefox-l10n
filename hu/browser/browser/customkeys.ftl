@@ -91,7 +91,20 @@ customkeys-conflict-confirm-body = Ezt a kulcsot már a(z) „{ $conflict }” h
 customkeys-conflict-confirm-button-confirm = Használat mindenképpen
 customkeys-conflict-confirm-button-cancel = Mégse
 customkeys-reset-all-confirm-title = Alapértelmezések helyreállítása?
+customkeys-reset-all-confirm-body = A létrehozott egyéni billentyűparancsok el lesznek távolítva.
+customkeys-reset-all-confirm-button-confirm = Alapértelmezések helyreállítása
+customkeys-reset-all-confirm-button-cancel = Mégse
 
 ## Sidebar
 
+customkeys-sidebar =
+    .aria-label = Oldalsáv
+customkeys-title-heading =
+    .heading = Gyorsbillentyűk
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Gyorsbillentyűk keresése
+    .placeholder = Gyorsbillentyűk keresése
+customkeys-description = Szabályozza hogyan mozog és miként lép interakcióba a { -brand-short-name } böngészővel.
+customkeys-support-link-text = További tudnivalók
 customkeys-reset-all-button = Alaphelyzet

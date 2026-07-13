@@ -221,17 +221,115 @@ newtab-privacy-message-info-9 = Legyen a { -brand-short-name } a szokásos böng
 newtab-privacy-message-info-9-cta = Beállítás alapértelmezettként
 newtab-privacy-message-info-10 = Mentse el a jelszavakat a { -brand-short-name } böngészőben, hogy erős, egyedi bejelentkezéseket használjon mindenhol.
 newtab-privacy-message-info-10-cta = Ugrás a jelszavakhoz
+newtab-privacy-message-info-11-cta = További tudnivalók
+newtab-privacy-message-info-12 = A nyomkövetők blokkolása sávszélességet takaríthat meg a korlátozott előfizetések esetén.
+newtab-privacy-message-info-12-cta = Védelmek megtekintése
+newtab-privacy-message-info-13 = A { -brand-short-name } blokkolja a követőket, sávszélességet szabadítva fel a simább közvetítés érdekében.
+newtab-privacy-message-info-13-cta = Védelmek megtekintése
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } nyomkövető blokkolva a héten. Nézze meg, hogy a { -brand-short-name } mit tart távol az útjából.
+       *[other] { $count } nyomkövető blokkolva a héten. Nézze meg, hogy a { -brand-short-name } mit tart távol az útjából.
+    }
+newtab-privacy-message-milestone-week-cta = Védelmek megtekintése
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } nyomkövető blokkolva ebben a hónapban. Egy kis lépés az adatvédelemért. Egy nagy lépés a nyugalomért.
+       *[other] { $count } nyomkövető blokkolva ebben a hónapban. Egy kis lépés az adatvédelemért. Egy nagy lépés a nyugalomért.
+    }
+newtab-privacy-message-milestone-month-cta = Védelmek megtekintése
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } nyomkövető blokkolva ebben az évben. A magánszférája védelmének hatékony éve ez.
+       *[other] { $count } nyomkövető blokkolva ebben az évben. A magánszférája védelmének hatékony éve ez.
+    }
+newtab-privacy-message-milestone-year-cta = Védelmek megtekintése
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } nyomkövető blokkolva. Ez komoly előrelépés az adatvédelem irányába, az Ön feltételei szerint.
+       *[other] { $count } nyomkövető blokkolva. Ez komoly előrelépés az adatvédelem irányába, az Ön feltételei szerint.
+    }
+newtab-privacy-message-milestone-total-cta = Védelmek megtekintése
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Ma már 100+ nyomkövető blokkolva.) Kevesebb nyomkövető több adatvédelmet jelent.
+newtab-privacy-message-daily-cap-cta = Védelmek megtekintése
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] { $count } egymást követő napon volt védve.
+       *[other] { $count } egymást követő napon volt védve.
+    }
+newtab-privacy-message-streak-cta = Védelmek megtekintése
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Folytassa a böngészést, a { -brand-short-name } továbbra is folytatja a blokkolást.
+newtab-privacy-message-first-protection-cta = Védelmek megtekintése
 
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = További tudnivalók
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Részvények kisalkalmazások beállításai
+    .aria-label = Részvények kisalkalmazások beállításai
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Részvények
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, { $change } felfelé, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, { $change } lefelé, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, nincs változás, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = A nap képe · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = A nap képe
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = { $license } licenc megtekintése
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = A nap képének beállításai
+    .aria-label = A nap képének beállításai
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -1396,7 +1494,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Segítsen jobbá tenni a kisalkalmazásokat
+newtab-sports-widget-message-survey-body = A vébé véget ért. Ossza meg visszajelzését a tapasztalatokról.
 newtab-sports-widget-message-survey-widget-title = Milyen volt a vébés kisalkalmazás?
+newtab-sports-widget-message-survey-widget-body = Ossza meg visszajelzését, hogy segítsen nekünk a jövőbeli kisalkalmazások fejlesztésében. Ezután próbálja ki az újonnan elérhetőt.
 newtab-sports-widget-message-survey-cta =
     .label = Kérdőív kitöltése
 
