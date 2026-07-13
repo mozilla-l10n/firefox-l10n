@@ -303,6 +303,9 @@ about-logins-confirm-export-dialog-title = و در کشیڌن دووسمندیا
 about-logins-confirm-export-dialog-message = رزما ایسا و عونوان هؽل خۊندنی زفت ابۊن (مسلن BadP@ssw0rd) سی دل هیمو هر کس ک ترسته بۊ فایل و در کشیڌه بیڌه ن بوگوشه، تره هونووݩ ن بوینه.
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
 about-logins-confirm-export-dialog-title2 = نوکته ای زبار و در کشیڌن رزما
+about-logins-confirm-export-dialog-message2 =
+    هر سا و در اکشین، رزما ایسا من ی فایل با هؽل خۊندنی زفت ابۊن.
+    هر سا کارتووݩ وا فایل تموم وابی، پؽشنهاڌ اکۊنیم هونه پاک کۊنین تا هونووی ک ای دسگا ن و کار اگرن نترسته بۊن رزما ایسا ن بوینن.
 about-logins-confirm-export-dialog-confirm-button2 = رئڌن وا پؽش سی و در کشیڌن
 about-logins-alert-import-title = و من ٱووردن دووسمندیا کامل وابی
 about-logins-alert-import-message = نشووݩ داڌن جۊزعیات و من ٱووردن دووسمندیا
@@ -313,6 +316,7 @@ confirm-discard-changes-dialog-confirm-button = دیر وندن
 ## Breach Alert notification
 
 about-logins-breach-alert-title = رخنه من وبگه
+breach-alert-text = ز کرت دیندایی ک دووسمندیا و من ٱووڌن خوتووݩ ن آلشت کردین، رزما مربۊت و ای وبگه دۊزیڌه وابینه یا و در درز کردنه. رزم خوتووݩ ن آلشت کۊنین تا من ختر نبۊین.
 about-logins-breach-alert-date = ای نقز من ای ویرگار پؽش ٱووڌه { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
