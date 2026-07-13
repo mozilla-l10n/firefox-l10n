@@ -29,7 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
+ipprotection-feature-introduction-link-text-privacy-3 = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla useista sijainneista, joihin selauksesi alkuperä piilotetaan.
+ipprotection-feature-introduction-text-summer-promo-1 = Ota se käyttöön pitääksesi selaamisesi yksityisempänä. <a data-l10n-name="summer-promo-link">Saat rajattoman kaistanleveyden</a> ja lisää sijainteja selailun alkuperän piilottamiseksi. Nyt 31. elokuuta asti.
 ipprotection-feature-introduction-title-summer-promo = Onko sinulla matkasuunnitelmia? Pidä yksityisyys mukanasi.
+ipprotection-feature-introduction-description-summer-promo = Mene pidemmälle { -brand-product-name }in sisäänrakennetulla VPN:llä: enemmän sijainteja, rajoittamaton kaistanleveys. Nyt 31. elokuuta asti.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -118,6 +122,11 @@ ipprotection-locations-subview-description = Valitse selauspaikaksi toinen sijai
 ipprotecion-locations-subview-recommended-label = Suositeltu
 ipprotection-locations-subview-recommended-description = Löytää nopeimman sijainnin
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Ei saatavilla
+    .aria-label = Ei saatavilla, poistettu käytöstä
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Ei saatavilla
 ipprotection-locations-subview-promo =
     .heading = Vie suojaus pidemmälle { -mozilla-vpn-brand-name }:llä
@@ -163,6 +172,7 @@ ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ei ole käytössä tällä sivustolla
 ipprotection-open-button = Avaa { -brand-product-name }
 ipprotection-come-back-title = Palaa takaisin kokeilemaan sisäänrakennettua VPN:ää
+ipprotection-message-body-hide-location = Piilota sijaintisi selatessasi { -brand-product-name }illa saadaksesi paremman yksityisyyden ja hallinnan.
 ipprotection-connection-status-generic-error-title-1 = VPN-yhteyden muodostaminen epäonnistui
     .aria-label = VPN-yhteyden muodostaminen epäonnistui
 

@@ -123,6 +123,94 @@ aiwindow-input-model-select-settings-link = Modellbeállítások
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Hasznosabb válaszok, az Ön feltételei szerint
+aiwindow-firstrun-memories-conversation-title = Folytassa a beszélgetést
+aiwindow-firstrun-memories-conversation-body = A csevegésekből tanulás azt jelenti, hogy kevesebbet kell ismételnie saját magát.
+aiwindow-firstrun-memories-relevance-title = Relevánsabb válaszok
+aiwindow-firstrun-memories-privacy-title = Tervezett adatvédelem
+aiwindow-firstrun-memories-privacy-body = A memóriák ezen az eszközön vannak tárolva. Bármikor törölheti őket, vagy ki is kapcsolhatja.
+aiwindow-firstrun-memories-update-settings = Frissítsen bármikor a beállításokban.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = Váltson bármikor a beállításokban.
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Kérdezés
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memóriák be
+    .tooltiptext = Memóriák használata a válaszokban, ha hasznosak
+aiwindow-memories-off =
+    .aria-label = Memóriák ki
+    .tooltiptext = Ne használjon memóriákat a válaszokban
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Új csevegés
+    .tooltiptext = Új csevegés
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Bezárás
+    .tooltiptext = Bezárás
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Csevegések
+    .aria-label = Csevegések
+    .tooltiptext = Csevegések
+smartwindow-footer-history =
+    .label = Előzmények
+    .aria-label = Előzmények
+    .tooltiptext = Előzmények
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Az MI követhet el hibákat.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Csevegések
+    .title = Csevegések
+firefoxview-chats-header = Csevegések
+firefoxview-chat-context-delete = Törlés a csevegésekből
+    .accesskey = T
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Csevegések keresése
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Ma – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Tegnap – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Térjen vissza a csevegéseihez
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } csevegés
+       *[other] { $count } csevegés
+    }
 
 ## Clear browsing data dialog
 

@@ -1098,7 +1098,7 @@ home-prefs-weather-header =
 home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
 home-prefs-weather-learn-more-link = Lue lisää
 home-prefs-widgets-header =
-    .label = Widgetit
+    .label = Pienoisohjelmat
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listat

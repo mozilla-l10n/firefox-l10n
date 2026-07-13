@@ -181,6 +181,10 @@ newtab-privacy-trackers-blocked-today = 今天拦截的跟踪器数量
 
 newtab-privacy-message-info-1 = { -brand-short-name } 会在您浏览时自动拦截跟踪器。
 newtab-privacy-message-info-8-cta = 详细了解
+newtab-privacy-message-info-9-cta = 设为默认
+newtab-privacy-message-info-10-cta = 转到密码
+newtab-privacy-message-info-11 = 了解 { -brand-short-name } 如何帮助您更私密地浏览。
+newtab-privacy-message-info-11-cta = 详细了解
 
 ## Strings for the Stocks widget
 
