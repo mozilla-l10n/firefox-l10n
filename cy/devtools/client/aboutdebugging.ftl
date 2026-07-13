@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Manylion gwall
 about-debugging-message-details-label-warning = Manylion rhybudd
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Manylion
+about-debugging-sidebar =
+    .heading = Dadfygio

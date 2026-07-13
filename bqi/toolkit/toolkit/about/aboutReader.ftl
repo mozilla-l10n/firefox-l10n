@@ -13,6 +13,7 @@ about-reader-font-type-monospace = Monospace
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = بستن نما خۊندنی
+about-reader-toolbar-text-layout-controls = هؽل وو تئر بندی
 about-reader-toolbar-theme-controls = زمینه
 about-reader-toolbar-savetopocket = زفت کردن من { -pocket-brand-name }
 
@@ -26,5 +27,6 @@ about-reader-customtheme-tab = سفارشی
 
 about-reader-text-header = هؽل
 about-reader-font-weight-light = رۊشن
+about-reader-layout-header = تئر بندی
 about-reader-slider-label-spacing-standard = استاندارد
 about-reader-advanced-layout-header = پؽش رئڌه

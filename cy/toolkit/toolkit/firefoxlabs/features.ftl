@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Defnyddiwch fodel Dy
 experimental-features-tab-notes =
     .label = Nodiadau tabiau
 experimental-features-tab-notes-description = Mae nodiadau tabiau'n nodwedd arbrofol sy'n caniatáu  i chi ychwanegu nodiadau gludiog at dabiau eich porwr. Gwnewch nodyn o gyd-destun, nodyn atgoffa, neu'r camau nesaf fel gallwch ddod nôl a chofio pam ei agor. Byddem wrth ein bodd i gael adborth wrth i ni geisio gwella'r nodwedd hon. <a data-l10n-name="connect">Rhannu adborth</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Dewislen tab llyfnach
+experimental-features-tab-context-menu-description = Galwch weld dewislen cyd-destun llyfnach pan fyddwch chi'n clicio i'r dde ar dab. Mae wedi'i gynllunio i wneud gweithredoedd cyffredin yn haws dod o hyd iddyn nhw. <a data-l10n-name="connect">Rhannu adborth</a>

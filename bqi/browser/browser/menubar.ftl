@@ -10,6 +10,8 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = سامووا…
+menu-application-set-as-default =
+    .label = سامووݩ { -brand-shorter-name } و عونوان گشت گر پؽش فرز
 menu-application-services =
     .label = خدمات
 menu-application-hide-this =
@@ -89,6 +91,12 @@ menu-file-email-link =
 menu-file-share-url =
     .label = یک رسۊوی
     .accesskey = h
+menu-file-share-qrcode =
+    .label = وورکل QR کود…
+    .accesskey = Q
+menu-file-share-qrcode2 =
+    .label = وورکل QR کود
+    .accesskey = Q
 menu-file-print-setup =
     .label = سامووݩ بلگه…
     .accesskey = u
@@ -298,6 +306,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = دووسمندیا بلگه
     .accesskey = I
+menu-tools-edit-pdf =
+    .label = آلشت PDF…
+    .accesskey = P
 menu-settings =
     .label = سامووا
     .accesskey =
@@ -305,6 +316,9 @@ menu-settings =
             [windows] S
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = موشکل زودایی تئر بندی
+    .accesskey = L
 
 ## Window Menu
 
@@ -330,13 +344,30 @@ menu-help =
 menu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = دووسمندیا قلوه زبار رفع اشکال
+    .accesskey = T
 menu-help-report-site-issue =
     .label = گوزارش موشکل وبگه…
+menu-help-share-ideas =
+    .label = یک رسۊوی ایده یل وو منشڌا…
+    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = هالت عیو جۊری…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = کۊر کردن هالت عیو جۊری
     .accesskey = M
+menu-help-switch-device =
+    .label = هونی جا گورو ابۊ و ی دسگا نۊ
+    .accesskey = N
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = گوزارش وبگه بلا کوݩ…
+    .accesskey = D
+menu-help-not-deceptive =
+    .label = یو ی وبگه بلا کوݩ نؽ…
+    .accesskey = D
 menu-report-broken-site =
     .label = گوزارش خراوی وبگه

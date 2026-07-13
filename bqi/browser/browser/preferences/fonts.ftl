@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = قلما سی
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = عروی
 fonts-langgroup-armenian =
@@ -71,6 +73,8 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = موتناسو
+    .accesskey = P
 fonts-default-serif =
     .label = سریف
 fonts-default-sans-serif =
@@ -85,8 +89,13 @@ fonts-monospace = Monospace
     .accesskey = M
 fonts-monospace-size = هندا
     .accesskey = e
+fonts-minsize = هدقل هندا قلم
+    .accesskey = o
 fonts-minsize-none =
     .label = هیچ کویکسووݩ
+fonts-allow-own =
+    .label = بلگه یل ن هؽله ک قلما سووݩ ن پسند کونن وو مجبۊر ب و کار گرؽڌن ز پسندا رویی نبۊن
+    .accesskey = A
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

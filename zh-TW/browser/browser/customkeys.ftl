@@ -63,7 +63,7 @@ customkeys-caution-message = 此功能還在實驗中，可能無法如預期運
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = 無效
 customkeys-shortcut-unassigned =
-    .placeholder = 新增捷徑
+    .placeholder = 新增快速鍵
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = { $keyLabel } 的快速鍵

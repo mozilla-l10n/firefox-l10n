@@ -601,6 +601,11 @@ onboarding-refresh-gratitude-subtitle = Dziękujemy za używanie { -brand-short-
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stronie
 
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Warunki korzystania z { -brand-product-name(case: "gen") }
+
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-primary-button = Kontynuuj

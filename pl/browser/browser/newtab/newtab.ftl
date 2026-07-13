@@ -167,15 +167,61 @@ home-prefs-mission-message-learn-more-link-srd = Więcej informacji
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Więcej informacji
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] zablokowany element śledzący dzisiaj
+        [few] zablokowane elementy śledzące dzisiaj
+       *[many] zablokowanych elementów śledzących dzisiaj
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] na { $count } witrynie
+        [few] na { $count } witrynach
+       *[many] na { $count } witrynach
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokuje elementy śledzące podczas przeglądania Internetu. Zobaczysz je tutaj.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } automatycznie blokuje elementy śledzące podczas przeglądania Internetu.
+newtab-privacy-message-info-1-cta = Wyświetl ochronę
+newtab-privacy-message-info-2 = Blokowanie elementów śledzących pomaga powstrzymywać firmy przed śledzeniem Cię w Internecie.
+newtab-privacy-message-info-2-cta = Wyświetl ochronę
+newtab-privacy-message-info-3 = Wiele witryn ma elementy śledzące, przez które firmy, których nigdy nie odwiedzono, mogą śledzić Cię w Internecie.
+newtab-privacy-message-info-3-cta = Wyświetl ochronę
+newtab-privacy-message-info-4 = Wybór { -brand-short-name(case: "gen") } oznacza wybór domyślnej ochrony.
+newtab-privacy-message-info-4-cta = Wyświetl ochronę
+newtab-privacy-message-info-5 = Blokowanie elementów śledzących oznacza, że mniej firm może śledzić Cię między witrynami.
+newtab-privacy-message-info-5-cta = Wyświetl ochronę
 newtab-privacy-message-info-6-cta = Więcej informacji
+newtab-privacy-message-info-7-cta = Wyświetl ochronę
 newtab-privacy-message-info-8-cta = Więcej informacji
 newtab-privacy-message-info-11-cta = Więcej informacji
+newtab-privacy-message-info-12-cta = Wyświetl ochronę
+newtab-privacy-message-info-13-cta = Wyświetl ochronę
 
 ## Privacy widget — promotional messages
 ##
@@ -190,8 +236,23 @@ newtab-privacy-message-promo-vpn-2-cta = Otwórz VPN
 newtab-privacy-message-promo-vpn-3-cta = Otwórz VPN
 newtab-privacy-message-promo-private-window-1-cta = Otwórz prywatne okno
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Wyświetl ochronę
+newtab-privacy-message-milestone-month-cta = Wyświetl ochronę
+newtab-privacy-message-milestone-year-cta = Wyświetl ochronę
+newtab-privacy-message-milestone-total-cta = Wyświetl ochronę
+newtab-privacy-message-daily-cap-cta = Wyświetl ochronę
+newtab-privacy-message-streak-cta = Wyświetl ochronę
+newtab-privacy-message-first-protection-cta = Wyświetl ochronę
+
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Wyszukaj symbole giełdowe
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Więcej informacji
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
@@ -247,6 +308,8 @@ newtab-picture-menu-learn-more = Więcej informacji
 newtab-picture-show-button =
     .title = Wyświetl zdjęcie dnia
     .aria-label = Wyświetl zdjęcie dnia
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Wróć jutro po nowe zdjęcie
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Zdjęcie dnia z Wikimedia Commons
