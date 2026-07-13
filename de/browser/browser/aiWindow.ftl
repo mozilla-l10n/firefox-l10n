@@ -93,6 +93,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Willkommen zu { -smart-window-brand-name(form: "lowercase-plural-dative") }
 aiwindow-firstrun-model-title = Was ist Ihnen wichtig?
 aiwindow-firstrun-model-fast-label = Schnell
 aiwindow-firstrun-model-fast-body = Schnelle Antworten
