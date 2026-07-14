@@ -192,17 +192,24 @@ newtab-privacy-across-sites =
        *[other] { $count } sitede
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = Siz internette gezinirken { -brand-short-name } takip kodlarını engeller. Engellenenleri burada göreceksiniz.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = Siz internette gezinirken { -brand-short-name } takip kodlarını otomatik olarak engeller.
 newtab-privacy-message-info-1-cta = Korumaları göster
 newtab-privacy-message-info-2 = Takip kodu engelleme, şirketlerin sizi internette takip etmesini engeller.
 newtab-privacy-message-info-2-cta = Korumaları göster
 newtab-privacy-message-info-3-cta = Korumaları göster
 newtab-privacy-message-info-4-cta = Korumaları göster
+newtab-privacy-message-info-5 = Takip kodları engellendikçe farklı sitelerde sizi takip edebilen şirket sayısı azalır.
 newtab-privacy-message-info-5-cta = Korumaları göster
 newtab-privacy-message-info-6-cta = Daha fazla bilgi al
 newtab-privacy-message-info-7-cta = Korumaları göster
@@ -218,6 +225,7 @@ newtab-privacy-message-info-13-cta = Korumaları göster
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Kişisel bilgilerinizin ele geçirilip geçirilmediğini öğrenin.
 newtab-privacy-message-promo-monitor-1-cta = Daha fazla bilgi al
 newtab-privacy-message-promo-monitor-2-cta = Daha fazla bilgi al
 newtab-privacy-message-promo-signin-1-cta = Giriş yap

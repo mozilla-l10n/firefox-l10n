@@ -209,6 +209,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name } tarayıcısında ağ hatalarını araştırma ayarı.
 profiler-popup-presets-networking-label =
     .label = Ağ
+profiler-popup-presets-networking-with-logs-description = { -brand-shorter-name } tarayıcısında ağ loglarını da dahil ederek ağ hatalarını araştırma ayarı. Bu loglar hassas bilgiler içerebilir (örn. ziyaret ettiğiniz adresler).
+profiler-popup-presets-networking-with-logs-label =
+    .label = Ağ (loglarla birlikte)
 profiler-popup-presets-power-description = { -brand-shorter-name } tarayıcısında güç tüketimi hatalarını araştırma ayarı, düşük ek yük.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

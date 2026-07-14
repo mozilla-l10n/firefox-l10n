@@ -621,5 +621,7 @@ smartwindow-onboarding-primary-button = Devam et
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = Asistanı kapalı tutmak ister misiniz?
+smartwindow-sidebar-auto-open-callout-accept = Evet, kapalı kalsın
 smartwindow-sidebar-auto-open-callout-dismiss = Hayır
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistan kapalı kalacaktır
 smartwindow-sidebar-auto-open-callout-rejected-title = Anladım

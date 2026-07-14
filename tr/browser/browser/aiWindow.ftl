@@ -171,6 +171,10 @@ aiwindow-close-sidebar =
     .aria-label = Kapat
     .tooltiptext = Kapat
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Eşitlenen veriler hesabınızda kalmaya devam edecek. Açık olan { -smart-window-brand-name(plural-form: "true") } klasik pencerelere dönüşecek.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = { -smart-window-brand-name(form: "uppercase-singular") }ye geç
@@ -288,3 +292,9 @@ aiwindow-feedback-include-page-content = Bu sohbette bahsedilen sayfaları payla
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Görünüm düzenini değiştir
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Modu değiştir: Liste görünümü
+    .tooltiptext = Liste görünümü
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Modu değiştir: Izgara görünümü
+    .tooltiptext = Izgara görünümü

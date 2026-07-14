@@ -76,6 +76,7 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Yeniden dene
 smartwindow-nl-retry-message = Hâlâ sekmeleri kapatmak istiyorsanız <strong>Yeniden dene</strong>’yi seçin ve açılan karttan seçiminizi yapın.
+smartwindow-nl-retry-group-tabs-message = Hâlâ sekmeleri gruplandırmak istiyorsanız <strong>Yeniden dene</strong>’yi seçin ve açılan karttan seçiminizi yapın.
 smartwindow-nl-thinking = Eşleşen sekmeler aranıyor…
 smartwindow-loading-assistant-response =
     .aria-label = Asistan cevabı yükleniyor

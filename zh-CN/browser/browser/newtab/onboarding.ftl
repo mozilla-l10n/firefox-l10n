@@ -599,6 +599,7 @@ smartwindow-existing-user-fx-tou-go-back = 返回
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = 将{ -smart-window-brand-name }设为默认窗口
 smartwindow-onboarding-primary-button = 继续
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
@@ -606,4 +607,10 @@ smartwindow-onboarding-image-alt =
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = 要默认关闭助理吗？
+smartwindow-sidebar-auto-open-callout-body = 您仍可在需要时打开。
+smartwindow-sidebar-auto-open-callout-accept = 是，默认关闭
+smartwindow-sidebar-auto-open-callout-dismiss = 不用了
+smartwindow-sidebar-auto-open-callout-accepted-title = 助理将默认关闭
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = 您可以在任意页面上使用“询问”来打开它。可随时在<a data-l10n-name="settings">设置</a>中更改此决定。
 smartwindow-sidebar-auto-open-callout-rejected-title = 知道了

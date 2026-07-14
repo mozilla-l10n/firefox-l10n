@@ -356,3 +356,5 @@ about-debugging-message-details-label-error = 错误详情
 about-debugging-message-details-label-warning = 警告详情
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = 详细信息
+about-debugging-sidebar =
+    .heading = 调试

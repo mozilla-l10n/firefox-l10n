@@ -173,6 +173,11 @@ newtab-privacy-menu-learn-more = 详细了解
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today = 今天拦截的跟踪器数量
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } 会在您浏览时拦截跟踪器。拦截情况将显示在这里。
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -180,6 +185,8 @@ newtab-privacy-trackers-blocked-today = 今天拦截的跟踪器数量
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-1 = { -brand-short-name } 会在您浏览时自动拦截跟踪器。
+newtab-privacy-message-info-2 = 拦截跟踪器有助于阻止大公司在网络上跟踪您。
+newtab-privacy-message-info-3 = 许多网站都藏有跟踪器，使得您未曾打过交道的公司也可以在网络上跟踪您。
 newtab-privacy-message-info-8-cta = 详细了解
 newtab-privacy-message-info-9-cta = 设为默认
 newtab-privacy-message-info-10-cta = 转到密码
@@ -243,6 +250,12 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .title = 每日一图选项
     .aria-label = 每日一图选项
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = 设置壁纸
+    .title = 设置壁纸
+    .aria-label = 将今日图片设置为壁纸
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理壁纸
 # Context menu item that hides today’s picture, replacing it with an existing

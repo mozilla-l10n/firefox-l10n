@@ -67,6 +67,9 @@ tab-context-pin-tab2 =
 unpin-tab =
     .label = لقو دیسنیڌن بلگه–
     .accesskey = p
+tab-context-unpin-tab2 =
+    .label = وورداشتن دیسنیڌن
+    .accesskey = p
 pin-selected-tabs =
     .label = دیسنیڌن بلگه یل
     .accesskey = P
@@ -86,6 +89,9 @@ tab-context-bookmark-tab2 =
 tab-context-open-in-new-container-tab =
     .label = گۊشیڌن من بلگه هامل نۊ
     .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = گۊشیڌن من بلگه هامل نۊ
+    .accesskey = e
 move-to-start =
     .label = جا گورو کردن و نیا
     .accesskey = S
@@ -99,9 +105,29 @@ move-to-new-window =
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
     .label = جا گورو کردن و { $profileName }
+tab-context-close-multiple-tabs =
+    .label = بستن چنتا بلگه
+    .accesskey = M
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = بستن چنتایی
+    .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = بستن بلگه یل تکراری
+    .accesskey = x
+tab-context-close-duplicate-tabs2 =
+    .label = بستن مووردا تکراری ز ای بلگه
+    .accesskey = x
 tab-context-share-url =
     .label = یک رسۊوی
     .accesskey = h
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = بلگه نۊ و راست
+    .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = بلگه نۊ من لم
+    .accesskey = w
 tab-context-new-group =
     .label = بونکۊی نۊ
     .accesskey = G
@@ -109,6 +135,22 @@ tab-context-new-group =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] گۊشیڌن دووارته بلگه بسته وابیڌه
+            [one] گۊشیڌن دووارته بلگه بسته وابیڌه
+           *[other] گۊشیڌن دووارته بلگه بسته وابیڌه
+        }
+    .accesskey = o
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] بستن بلگه
+            [one] بستن بلگه
+           *[other] بستن { $tabCount } بلگه
+        }
+    .accesskey = C
 tab-context-close-n-tabs2 =
     .label =
         { $tabCount ->
@@ -125,3 +167,33 @@ tab-context-move-tabs =
            *[other] جا گورو کردن بلگه
         }
     .accesskey = v
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] فشناڌن بلگه و دسگا
+            [one] فشناڌن بلگه و دسگا
+           *[other] فشناڌن { $tabCount } بلگه و دسگا
+        }
+    .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] فشناڌن بلگه و تیلیفووݩ
+            [one] فشناڌن بلگه و تیلیفووݩ
+           *[other] فشناڌن { $tabCount } بلگه و تیلیفووݩ
+        }
+    .accesskey = n
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = وورکل لینگ قابل و یک رسۊوی
+    .accesskey = a
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [1] فشناڌن بلگه و دسگا
+            [one] فشناڌن بلگه و دسگا
+           *[other] فشناڌن { $tabCount } بلگه و دسگا
+        }
+    .accesskey = n

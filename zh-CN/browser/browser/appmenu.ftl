@@ -303,11 +303,16 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = 登录账户
+appmenuitem-monitor-title2 = 抢先作出反应，阻断身份盗用
+appmenuitem-monitor-description2 = 接收数据外泄事件警报
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 接收数据外泄警报
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = 保密您的邮箱地址
+appmenuitem-relay-description2 = 保护收件箱免受垃圾邮件侵扰
 appmenuitem-relay-description = 掩藏真实邮箱地址和电话号码
 appmenuitem-services-relay-description = 打开马甲邮箱面板
+appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隐藏真实位置
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 获取全方位设备保护
 appmenuitem-vpn-description = 保护在线活动

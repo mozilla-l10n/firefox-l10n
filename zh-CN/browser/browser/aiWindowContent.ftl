@@ -71,6 +71,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = 重试
+smartwindow-nl-retry-message = 若您仍希望关闭标签页，请选择<strong>重试</strong>，然后在打开的卡片中选择。
+smartwindow-nl-retry-group-tabs-message = 若您仍希望为标签页创建群组，请选择<strong>重试</strong>，然后在打开的卡片中选择要添加的标签页。
 smartwindow-nl-thinking = 正在查找匹配的标签页…
 smartwindow-loading-assistant-response =
     .aria-label = 正在加载助理回复

@@ -82,6 +82,12 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Ağ izleyicisi
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Sınırsız
+options-netmonitor-body-limit-button =
+    .title = Maksimum istek/yanıt gövde büyüklüğünü düzenle.
+options-netmonitor-body-limit-restore-default =
+    .title = Maksimum istek/yanıt gövde büyüklüğünün varsayılan değerini geri yükle.
+options-netmonitor-body-limit-set =
+    .title = Geçerli girdi değerini maksimum istek/yanıt gövde büyüklüğü olarak ayarla.
 
 ## Experimental section
 

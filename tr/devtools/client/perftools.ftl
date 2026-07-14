@@ -168,6 +168,8 @@ perftools-presets-ml-label = Makine öğrenimi
 perftools-presets-ml-description2 = { -brand-shorter-name } tarayıcısında makine öğrenimi hatalarını araştırma ayarı.
 perftools-presets-networking-label = Ağ
 perftools-presets-networking-description = { -brand-shorter-name } tarayıcısında ağ hatalarını araştırma ayarı.
+perftools-presets-networking-with-logs-label = Ağ (loglarla birlikte)
+perftools-presets-networking-with-logs-description = { -brand-shorter-name } tarayıcısında ağ loglarını da dahil ederek ağ hatalarını araştırma ayarı. Bu loglar hassas bilgiler içerebilir (örn. ziyaret ettiğiniz adresler).
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Güç
 perftools-presets-power-description = { -brand-shorter-name } tarayıcısında güç tüketimi hatalarını araştırma ayarı, düşük ek yük.

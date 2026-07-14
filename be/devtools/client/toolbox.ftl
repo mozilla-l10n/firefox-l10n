@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Адключыць заўсёды зверху
     .title = Гэта перазапусціць інструменты распрацоўшчыка
 toolbox-always-on-top-disabled2 = Уключыць заўсёды зверху
     .title = Гэта перазапусціць інструменты распрацоўшчыка
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Гэты дакумент таксама можна загрузіць з «{ $url }» з дапамогай «лакальнага рэжыму» ў прыладах вэб-распрацоўшчыка, які можна ўключыць у панэлі налад.
+toolbox-local-mode-notice-add-to-settings-button = Дадаць у налады
+toolbox-local-mode-notice-try-it-button = Паспрабаваць
+toolbox-local-mode-notice-navigate-to-existing-mapping = Перайсці да наяўнага мапінгу
+toolbox-local-mode-notice-always-hide = Не паказваць мне гэта зноў

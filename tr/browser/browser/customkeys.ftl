@@ -84,6 +84,7 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Başka bir kısayol kaldırılsın mı?
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm-body = Bu tuş “{ $conflict }” tarafından zaten kullanılıyor.
@@ -104,5 +105,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Kısayollarda ara
     .placeholder = Kısayollarda ara
+customkeys-description = { -brand-short-name } tarayıcısında gezinmeyi ve işlem yapmayı kolaylaştırın.
 customkeys-support-link-text = Daha fazla bilgi al
 customkeys-reset-all-button = Varsayılanları geri yükle
