@@ -79,8 +79,10 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Slå lyden til i faneblad
 fxviewtabrow-send-to-mobile-device-missing2 = Kan du ikke se din enhed?
+fxviewtabrow-send-to-mobile-not-verified = Kontoen er ikke bekræftet
 fxviewtabrow-send-to-mobile-verify-account = Bekræft din konto
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 fxviewtabrow-send-to-mobile-sign-in = Log ind for at sende faneblade
+fxviewtabrow-send-to-mobile-turn-on-sync = Slå synkronisering til for at sende faneblade

@@ -82,3 +82,4 @@ about-private-browsing-felt-privacy-v1-info-link = Hvem kan muligvis se min akti
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Når du lukker alle dine private vinduer, så slettes dine cookies, din historik samt webstedsdata.
+about-private-browsing-nova-info-link = Hvem kan muligvis stadig se min aktivitet?

@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = არეული საიტის მოხსენება
 report-broken-site-panel-intro-text = თქვენი მოხსენება გვეხმარება ხარვეზების გამოვლენაში, რომ გამოვასწოროთ { -brand-product-name } და გავხადოთ უკეთესი ყველასთვის.
 report-broken-site-panel-learn-more-link = ვრცლად
+report-broken-site-panel-url-label = არეული საიტის ბმული
 report-broken-site-panel-reason-intro-text = რა არ მუშაობს?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = საიტი არ იტვირთება

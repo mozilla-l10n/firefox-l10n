@@ -90,7 +90,25 @@
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
-    { $plural-form ->
-        [true] Inteligentné okná
-       *[false] Inteligentné okno
+    { $case ->
+        [gen]
+            { $plural-form ->
+                [true] Inteligentných okien
+               *[false] Inteligentného okna
+            }
+        [dat]
+            { $plural-form ->
+                [true] Inteligentným oknám
+               *[false] Inteligentnému oknu
+            }
+        [acc]
+            { $plural-form ->
+                [true] Inteligentné okná
+               *[false] Inteligentné okno
+            }
+       *[nom]
+            { $plural-form ->
+                [true] Inteligentné okná
+               *[false] Inteligentné okno
+            }
     }

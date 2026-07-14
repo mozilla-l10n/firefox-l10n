@@ -453,6 +453,7 @@ quickactions-cmd-print = udskriv
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gem side som PDF
 quickactions-cmd-savepdf2 = pdf, gem side
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åbn privat vindue
 quickactions-cmd-private = privat browsing
@@ -487,6 +488,8 @@ quickactions-cmd-update = opdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vis sidens kildekode
 quickactions-cmd-viewsource2 = vis kildekode, kildekode, kildekode for webside
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Åbn { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = vis kildekode, kildekode
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1510,6 +1513,9 @@ reset-pbm-panel-confirm-button =
     .label = Slet sessions-data
     .accesskey = S
 reset-pbm-panel-complete = Data fra privat session blev slettet
+reset-pbm-toolbar-button2 =
+    .label = Ryd privat session
+    .tooltiptext = Ryd privat session
 
 ## Autorefresh blocker
 

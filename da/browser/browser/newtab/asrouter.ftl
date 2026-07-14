@@ -295,6 +295,18 @@ launch-on-login-infobar-final-message = <strong>Åbner du { -brand-short-name } 
 launch-on-login-infobar-final-reject-button = Nej tak
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = Fastgør til proceslinjen
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Åbn tidligere vinduer og faneblade
+launch-on-login-spotlight-primary-button = Gem og luk { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -441,6 +453,11 @@ set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
         [macos] Hav { -brand-short-name } inden for rækkevidde - gør den til din standard-browser og behold den i din Dock.
        *[other] Hav { -brand-short-name } inden for rækkevidde - gør den til din standard-browser og behold den i din proceslinje.
+    }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Hav { -brand-short-name } inden for rækkevidde
+       *[other] Åbn alle links med { -brand-short-name }
     }
 set-default-menu-message-primary-button = Brug som standard
 set-default-menu-message-primary-button-variant = Angiv som foretrukken browser

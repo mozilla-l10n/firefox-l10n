@@ -11,6 +11,8 @@ all-tabs-menu-hidden-tabs =
     .label = Skjulte faneblade
 all-tabs-menu-close-duplicate-tabs =
     .label = Luk kopierede faneblade
+all-tabs-menu-view-all-tabs =
+    .label = Vis alle faneblade
 all-tabs-menu-manage-user-context =
     .label = Håndter kontekster
     .accesskey = o
@@ -28,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Fanebladsgrupper
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Søg i alle faneblade
