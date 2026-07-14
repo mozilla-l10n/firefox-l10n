@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Malfermitaj langetoj
 sidebar-options-menu-button =
     .title = Malfermi menuon
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Ŝanĝi grandon de flanka strio
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Fenestro { $winID }
+sidebar-bookmarks-title = Legosignoj
 
 ## Context for closing synced tabs when hovering over the items
 

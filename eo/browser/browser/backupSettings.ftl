@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Loko
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (rekomendita)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Elekti lokon
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Elekti…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Ŝalti sekurkopion
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Okazi problemo en via elektita dosierujo por sekurkopioj. Bonvolu elekti alian dosierujon kaj provi denove.
+turn-on-scheduled-backups-error-default-dir-denied = Ni ne povis aliri vian serkurkopian dosierujon. Provu elekti novan lokon.
 backup-error-file-system = Dum kreado de sekurkopio de { -brand-short-name } okazis problemo en via elektita dosierujo por sekurkopioj.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

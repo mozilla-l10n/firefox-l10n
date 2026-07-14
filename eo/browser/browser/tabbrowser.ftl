@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Ŝanĝi grandon de la langetoj en apartigita vido
+tab-devtools-splitter =
+    .aria-label = Ŝanĝi la grandon de la panelo pri la iloj por programistoj
 
 ## Tooltips for tab audio control
 ## Variables:
