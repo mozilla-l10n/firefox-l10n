@@ -74,6 +74,13 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-experimental-label = Các tính năng thử nghiệm
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Hiện các stylesheet trong trình gỡ lỗi
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Liệt kê và xem các stylesheet trong trình gỡ lỗi
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (yêu cầu mở lại hộp công cụ)
 
 ## Style Editor section
 
