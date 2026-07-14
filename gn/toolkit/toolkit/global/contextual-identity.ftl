@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Tendayke pyahu
     .accesskey = N
+user-context-add-container =
+    .label = Embojuaju mba’yru pyahu
+    .accesskey = A
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

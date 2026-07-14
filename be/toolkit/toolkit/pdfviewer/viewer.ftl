@@ -829,6 +829,11 @@ pdfjs-digital-signature-properties-certificate-trusted = Сертыфікат: �
 pdfjs-digital-signature-properties-certificate-unknown = Сертыфікат: Недаступны
 pdfjs-digital-signature-properties-certificate-untrusted = Сертыфікат: Недавераны
 pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Сертыфікат: Невядомы выдавец ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Сертыфікат: Самападпісаны ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Сертыфікат: Недавераны выдавец ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Сертыфікат: Пратэрмінаваны
+pdfjs-digital-signature-properties-certificate-expired-with-date = Сертыфікат: Пратэрмінаваны ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Сертыфікат: Адкліканы
 
 ## Main menu for adding/removing signatures
 

@@ -87,3 +87,4 @@ about-private-browsing-nova-info-link = Cui podaraial viodi in ogni câs la mê 
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = La tô navigazion no vignarà salvade
+about-private-browsing-nova-info-subheader = Cuant che tu sieris chest barcon o cancelarìn dutis lis ricercjis e i acès fats. Lis protezions integradis di { -brand-short-name }, come il bloc des spiis, a restaran ativis.
