@@ -91,6 +91,13 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ფუნთუშებისა და საიტის მონაცემების გამოყენება.  აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას, სეანსზე დაშვებას ან აკრძალვას.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .title = გამონაკლისები – ისტორიის გასუფთავება დახურვისას
+    .style = { permissions-window2.style }
+permissions-exceptions-shutdown-clearing-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც შეეძლება საიტის მონაცემების შენარჩუნება, როცა { -brand-short-name } გაასუფთავებს ისტორიას დახურვისას. აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას.
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =

@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = ახალი ჩანართი
     .accesskey = ხ
+user-context-add-container =
+    .label = ახალი სათავსის დამატება
+    .accesskey = დ
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

@@ -149,11 +149,26 @@ tab-context-close-n-tabs =
            *[other] { $tabCount } ჩანართის დახურვა
         }
     .accesskey = უ
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] დახურვა
+           *[other] { $tabCount } ჩანართის დახურვა
+        }
+    .accesskey = ხ
 tab-context-move-tabs =
     .label =
         { $tabCount ->
             [1] ჩანართის გადატანა
            *[other] ჩანართების გადატანა
+        }
+    .accesskey = ტ
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] ჩანართის გადატანა
+           *[other] { $tabCount } ჩანართის გადატანა
         }
     .accesskey = ტ
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
