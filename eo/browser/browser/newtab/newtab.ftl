@@ -96,6 +96,12 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privateco
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Akcioj
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Bildo de la tago
 home-prefs-mission-message2 =
     .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-manage-topics-link2 =
@@ -159,6 +165,86 @@ home-prefs-mission-message-learn-more-link-srd = Malkovri kiel
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Pli da informo
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Spurilo blokita hodiaŭ
+       *[other] Spuriloj blokitaj hodiaŭ
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] En { $count } retejo
+       *[other] En { $count } retejoj
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokas spurilojn dum vi retumas. Vi vidos ilin ĉi tie.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } aŭtomate blokas spurilojn dum vi retumas.
+newtab-privacy-message-info-1-cta = Montri protektojn
+newtab-privacy-message-info-2 = La blokado de spuriloj helpas eviti ke kompanioj spuru vin en la reto.
+newtab-privacy-message-info-2-cta = Montri protektojn
+newtab-privacy-message-info-3 = Pluraj retejoj havas spurilojn kiuj permesas al kompanioj, kiujn vi neniam vizitis, sekvi vin tra la reto.
+newtab-privacy-message-info-3-cta = Montri protektojn
+newtab-privacy-message-info-4 = Elekti { -brand-short-name } signifas elekti norman protekton.
+newtab-privacy-message-info-4-cta = Montri protektojn
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Serĉi simbolojn pri akcioj
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Pli da informo
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Bildo de la tago · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Elekti ekranfonon
+    .title = Elekti ekranfonon
+    .aria-label = Elekti la bildon de la tago kiel vian ekranfonon
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Administri ekranfonon
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Kaŝi la bildon de la tago
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Montri la bildon de la tago
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Pli da informo
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Montri la bildon de la tago
+    .aria-label = Montri la bildon de la tago
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
 
 ## Search box component.
 
