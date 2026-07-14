@@ -1388,6 +1388,9 @@ reset-pbm-panel-confirm-button =
     .label = داده یل نشست ن پاک کۊنین
     .accesskey = D
 reset-pbm-panel-complete = داده یل نشست سیخومی پاک وابین
+reset-pbm-toolbar-button2 =
+    .label = روفتن نشست سیخومی
+    .tooltiptext = روفتن نشست سیخومی
 
 ## Autorefresh blocker
 
@@ -1470,6 +1473,7 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = ٱر منی چیه من ای وبگه خراو هڌ، قپ ریت کۊنین زفت وابیڌنا ن کۊر کۊنین.
 trustpanel-connection-label-secure = منپیز ٱمن
 trustpanel-connection-label-insecure = منپیز ٱمن نؽ
+trustpanel-header-enabled = { -brand-product-name } هونی نگهبۊوی اده
 trustpanel-description-enabled2 = ایسا زفت ابۊین. ٱر چیه ن بوینیم، و ایسا وارسۊوی اکۊنیم.
 trustpanel-header-enabled-insecure = ویرت وا ای وبگه بۊ
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
@@ -1511,6 +1515,7 @@ trustpanel-list-label-fingerprinter =
        *[other] { $count } جا کلک
     }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
