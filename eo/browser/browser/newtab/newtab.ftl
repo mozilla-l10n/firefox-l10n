@@ -211,6 +211,33 @@ newtab-privacy-message-info-3 = Pluraj retejoj havas spurilojn kiuj permesas al 
 newtab-privacy-message-info-3-cta = Montri protektojn
 newtab-privacy-message-info-4 = Elekti { -brand-short-name } signifas elekti norman protekton.
 newtab-privacy-message-info-4-cta = Montri protektojn
+newtab-privacy-message-info-5 = La blokado de spuriloj limigas la kvanton de kompanioj, kiuj povas sekvi vin trans retejoj.
+newtab-privacy-message-info-5-cta = Montri protektojn
+newtab-privacy-message-info-6 = Tenu la regon de vian datumoj kun { -brand-short-name }. Ni neniam vendas ilin, se aliaj retumiloj eble jes.
+newtab-privacy-message-info-6-cta = Pli da informo
+newtab-privacy-message-info-7 = Vidu  la spurilojn, kiujn { -brand-short-name } blokis.
+newtab-privacy-message-info-7-cta = Montri protektojn
+newtab-privacy-message-info-8 = Retumi per { -brand-short-name } subtenas la mision de { -vendor-short-name }: konstrui pli bonan interreton.
+newtab-privacy-message-info-8-cta = Pli da informo
+newtab-privacy-message-info-9 = Igu { -brand-short-name } via norma retumilo por havi integritan privatecon.
+newtab-privacy-message-info-9-cta = Elekti kiel norman
+newtab-privacy-message-info-10 = Konservi pasvortojn en { -brand-short-name } por uzi fortajn kaj unikajn legitimilojn ĉie.
+newtab-privacy-message-info-10-cta = Iri al pasvortoj
+newtab-privacy-message-info-11 = Malkovru kiel { -brand-short-name } helpas teni vian retumon pli privata.
+newtab-privacy-message-info-11-cta = Pli da informo
+newtab-privacy-message-info-12 = La blokado de spuriloj povas helpi ŝpari datumojn en limigitaj kontraktoj.
+newtab-privacy-message-info-12-cta = Montri protektojn
+newtab-privacy-message-info-13 = { -brand-short-name } blokas spurilojn, kaj tio liberigas retaliron por elsendfluoj.
+newtab-privacy-message-info-13-cta = Montri protektojn
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Malkovru kiel viaj personaj informoj aperas en datumfuĝo.
+newtab-privacy-message-promo-monitor-1-cta = Pli da informo
+newtab-privacy-message-promo-monitor-2 = Protektu viajn datumojn per libera monitorado de maksimume 20 retpoŝtoj.
 
 ## Strings for the Stocks widget
 
@@ -245,6 +272,9 @@ newtab-picture-show-button =
     .aria-label = Montri la bildon de la tago
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Bildo de la tago de Wikimedia Commons
 
 ## Search box component.
 
@@ -281,6 +311,7 @@ newtab-topsites-add-shortcut-label = Aldoni ŝparvojon
 newtab-topsites-add-shortcut-title =
     .title = Aldoni ŝparvojon
     .aria-label = Aldoni ŝparvojon
+newtab-shortcuts-pinned-area = Alplinglita areo
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Tajpu titolon
