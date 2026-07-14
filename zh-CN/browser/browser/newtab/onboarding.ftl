@@ -584,3 +584,26 @@ onboarding-refresh-sync-title = 畅行千里，同步万物。
 onboarding-refresh-gratitude-subtitle = 感谢您使用 { -brand-short-name }，这是唯一由非营利组织支持的主流浏览器。您的支持激励着我们为更开放、更美好且人人可用的互联网继续奋斗。
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } 为您护航
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = 随时在智能窗口与经典窗口间切换。
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } 使用条款
+smartwindow-existing-user-fx-tou-body = 若要使用{ -smart-window-brand-name }，请接受<a data-l10n-name="terms_of_use">使用条款</a>和更新后的<a data-l10n-name="privacy_notice">隐私声明</a>。
+smartwindow-existing-user-fx-tou-accept = 接受
+smartwindow-existing-user-fx-tou-go-back = 返回
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = 继续
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } 吉祥物（Kit）手持星星道具
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-rejected-title = 知道了

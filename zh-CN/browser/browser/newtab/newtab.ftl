@@ -1376,6 +1376,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = 帮助我们改进小部件
 newtab-sports-widget-message-survey-body = 世界杯已落下帷幕，欢迎分享您对此次体验的反馈。
 newtab-sports-widget-message-survey-widget-title = 世界杯小组件使用体验如何？
+newtab-sports-widget-message-survey-cta =
+    .label = 填写问卷
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

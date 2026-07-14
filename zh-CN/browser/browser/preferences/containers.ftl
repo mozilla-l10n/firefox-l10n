@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = “{ $name }”身份设置
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = 添加新身份
+containers-panel-create-button =
+    .label = 完成
+containers-panel-cancel-button =
+    .label = 取消
