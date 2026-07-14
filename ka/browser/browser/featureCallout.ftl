@@ -162,6 +162,21 @@ windows-10-eos-sync-callout-primary-advance-button-label = შემდეგი
 link-preview-onboarding-callout-title = სიახლე: ხანგრძლივად დაწკაპეთ ბმულების შესათვალიერებლად
 link-preview-onboarding-callout-description = იხილეთ მოკლე აღწერა, წაკითხვის დრო და სხვ. რომ გადაწყვიტოთ, ღირს თუ არა ბმულზე გადასვლა. ხელმისაწვდომია მარჯვენა წკაპითაც.
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = აირიდეთ განუკითხაობა ჩანართების დაჯგუფებით
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = დააწყვეთ თქვენი ჩანართები საქმიანობის მიხედვით ან საგნობრივად. დროდადრო შეავსეთ საჭიროებისამებრ.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ჩანართების სათაურების ჩვენება გვერდით ზოლზე

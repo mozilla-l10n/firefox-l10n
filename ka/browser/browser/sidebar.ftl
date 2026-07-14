@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = გახსნილი ჩანართები
 sidebar-options-menu-button =
     .title = მენიუს გახსნა
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = გვერდითი ზოლის ზომის ცვლა
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = ფანჯარა { $winID }
+sidebar-bookmarks-title = სანიშნები
 
 ## Context for closing synced tabs when hovering over the items
 

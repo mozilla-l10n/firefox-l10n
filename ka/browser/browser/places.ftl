@@ -266,3 +266,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = სანიშნებისა და ისტორიის სიტემა ვერ იმუშავებს, რადგან ერთ-ერთი { -brand-short-name } ფაილი სხვა პროგრამის მიერ გამოიყენება. ამის მიზეზი შესაძლოა, უსაფრთხოების ზოგიერთი პროგრამა იყოს.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = სიახლე
+    .label = გააზიარეთ საქაღალდე
