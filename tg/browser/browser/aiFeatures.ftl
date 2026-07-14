@@ -35,6 +35,12 @@ smart-window-model-learn-link = Маълумоти бештар дар бора�
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-custom-name =
+    .label = Номи модел
+    .placeholder = Барои мисол: glm4
+smart-window-model-custom-url =
+    .label = Нуқтаи ниҳоии модел
+    .placeholder = Барои мисол: http://localhost:11434/v1
 smart-window-model-custom-save =
     .label = Нигоҳ доштан
 ai-window-manage-memories-button =
