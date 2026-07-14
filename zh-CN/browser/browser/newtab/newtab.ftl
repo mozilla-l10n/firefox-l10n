@@ -186,6 +186,23 @@ newtab-privacy-message-info-10-cta = 转到密码
 newtab-privacy-message-info-11 = 了解 { -brand-short-name } 如何帮助您更私密地浏览。
 newtab-privacy-message-info-11-cta = 详细了解
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = 看看您的个人信息是否出现在数据外泄事件中。
+newtab-privacy-message-promo-monitor-1-cta = 详细了解
+newtab-privacy-message-promo-monitor-2 = 使用免费的数据外泄事件监控来保护您的信息，最多可监控 20 个邮箱。
+newtab-privacy-message-promo-monitor-2-cta = 详细了解
+newtab-privacy-message-promo-signin-1-cta = 登录
+newtab-privacy-message-promo-vpn-1 = 使用公共 Wi-Fi 购物？开启内置 VPN，获得额外防护。
+newtab-privacy-message-promo-vpn-1-cta = 打开 VPN
+newtab-privacy-message-promo-vpn-2 = 在使用机场 Wi-Fi？开启内置 VPN，保护您的浏览。
+newtab-privacy-message-promo-vpn-2-cta = 打开 VPN
+newtab-privacy-message-promo-vpn-3 = 开启内置 VPN，更好隐藏您的真实位置。
+newtab-privacy-message-promo-vpn-3-cta = 打开 VPN
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -1357,6 +1374,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = 帮助我们改进小部件
+newtab-sports-widget-message-survey-body = 世界杯已落下帷幕，欢迎分享您对此次体验的反馈。
+newtab-sports-widget-message-survey-widget-title = 世界杯小组件使用体验如何？
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
