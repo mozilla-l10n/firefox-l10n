@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = یو ک ترین ز ای وبگه وارسۊوی گیرین یا ن، ن آلشت کۊنین
 urlbar-midi-notification-anchor =
     .tooltiptext = گۊشیڌن تابلو MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = گۊشیڌن تابلو سریال
 urlbar-eme-notification-anchor =
     .tooltiptext = دؽوۉداری و کار گرؽڌن برنومه یل DRM
 urlbar-web-authn-anchor =
@@ -191,6 +193,8 @@ urlbar-tip-icon-description =
     .alt = نوکات:
 urlbar-result-menu-button =
     .title = گۊشیڌن نومگه
+urlbar-result-menu-button-feedback = منشڌ
+    .title = نومگه گۊشیڌه
 urlbar-result-menu-learn-more2 = قلوه دووسته بۊین
     .accesskey = L
 urlbar-result-menu-remove-from-history2 = وورداشتن ز ویرگار
@@ -298,6 +302,8 @@ urlbar-canvas-blocked =
     .tooltiptext = ایسا و در کشیڌن بۊما ن سی ای وبگه مسدۊد کردینه.
 urlbar-midi-blocked =
     .tooltiptext = ایسا ای وبگه ن سی دسرسی و MIDI مسدۊد کردینه.
+urlbar-serial-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی دسرسی و پورت سریال مسدۊد کردینه.
 urlbar-install-blocked =
     .tooltiptext = ایسا ای وبگه ن سی پۊرنیڌن وردنی یل مسدۊد کردینه.
 # Variables
@@ -397,12 +403,16 @@ quickactions-addons = نیشتن وردنی یل
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = وردنی یل، زمینه یل، addons، add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = دؽوۉداری کونتورولا هۊش مسنۊعی
+quickactions-cmd-manageai = قیر فعال کردن هۊش مسنۊعی، کۊر کردن هۊش مسنۊعی، دؽوۉداری هۊش مسنۊعی
 quickactions-cmd-addons2 = وردنی یل
 # Opens the bookmarks library window
 quickactions-bookmarks2 = دؽوۉداری نشووکا
 quickactions-cmd-bookmarks = نشووکا
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = روفتن ویرگار دیندایی
+quickactions-cmd-clearrecenthistory2 = کۊکیا، پاک کردن کۊکیا، ویرگه کش، پاک کردن ویرگه کش، داده یل گشتن، پاک کردن داده یل گشتن، ویرگار، پاک کردن ویرگار هیم دمۊوی
 quickactions-cmd-clearrecenthistory = روفتن ویرگار دیندایی، ویرگار
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = روفتن ویرگار
@@ -485,6 +495,10 @@ quickactions-cmd-viewsource = نیشتن بونچک، بونچک
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = زبار کارا زل قلوه دووسته بۊین
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = سی پسند، بلگه ن فشار بڌین:
 
 ## Bookmark Panel
 
