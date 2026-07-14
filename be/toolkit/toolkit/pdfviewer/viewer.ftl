@@ -163,6 +163,18 @@ pdfjs-digital-signature-properties-view-certificate = Паказаць серт�
 #   $reason (String) - error message describing why the signature
 #                      could not be verified.
 pdfjs-digital-signature-properties-reason = Прычына: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Адзнака часу: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Дадатковы подпіс ({ $count })
+        [few] Дадатковыя подпісы ({ $count })
+       *[many] Дадатковыя подпісы ({ $count })
+    }
 
 ## Print
 
@@ -749,6 +761,29 @@ pdfjs-new-badge-content = НОВАЕ
 pdfjs-views-manager-waiting-for-file = Зацягваецца файл…
 pdfjs-toggle-views-manager-button1 =
     .title = Кіраванне старонкамі
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Уласцівасці лічбавага подпісу
+    .aria-label = Уласцівасці лічбавага подпісу
+pdfjs-digital-signature-properties-button-label = Уласцівасці лічбавага подпісу
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Дакумент быў падпісаны сапраўдным лічбавым подпісам
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Дакумент падпісаны, але { $count } лічбавы подпіс не ўдалося праверыць
+        [few] Дакумент падпісаны, але { $count } лічбавыя подпісы не ўдалося праверыць
+       *[many] Дакумент падпісаны, але { $count } лічбавых подпісаў не ўдалося праверыць
+    }
 
 ## Main menu for adding/removing signatures
 
