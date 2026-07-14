@@ -36,6 +36,16 @@ smart-window-model-custom-info =
 smart-window-model-custom-more-link = További információk az egyéni modellekről
 smart-window-model-custom-save =
     .label = Mentés
+ai-window-memories-section =
+    .label = Memóriák
+    .description = A { -brand-short-name } tanulhat a tevékenységéből, hogy memóriákat hozzon létre. Arra használatosak, hogy személyre szabhassa a válaszokat, és ezek helyben vannak tárolva az eszközön.
+ai-window-learn-from-chat-activity =
+    .label = Tanulás a csevegésekből az { -smart-window-brand-name(case: "lower") }ban
+ai-window-manage-memories-button =
+    .label = Memóriák kezelése
+ai-window-delete-all-memories-button =
+    .label = Összes törlése
+ai-window-delete-all-memories-title = Törli az összes memóriát?
 ai-window-delete-all-memories-confirm = Törlés
 ai-window-delete-all-memories-cancel = Mégse
 # Variables:

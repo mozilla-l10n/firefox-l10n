@@ -5,6 +5,12 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Hivatkozás megnyitása új { -smart-window-brand-name(case: "lower") }ban
+    .accesskey = j
+appmenuitem-new-ai-window =
+    .label = Új { -smart-window-brand-name(case: "lower") }
+    .value = Új { -smart-window-brand-name(case: "lower") }
 appmenuitem-new-classic-window =
     .label = Új klasszikus ablak
 menu-file-new-ai-window =
