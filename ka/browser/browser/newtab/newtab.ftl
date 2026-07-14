@@ -213,6 +213,7 @@ newtab-privacy-message-info-6-cta = ვრცლად
 newtab-privacy-message-info-7 = ნახეთ, რომელ მეთვალყურეებს ზღუდავს { -brand-short-name }.
 newtab-privacy-message-info-7-cta = დაცვის შესახებ
 newtab-privacy-message-info-8-cta = ვრცლად
+newtab-privacy-message-info-9 = აქციეთ { -brand-short-name } თქვენს რჩეულ ბრაუზერად თანმომყოლი პირადულობით.
 newtab-privacy-message-info-9-cta = ნაგულისხმევად მითითება
 newtab-privacy-message-info-10-cta = გადასვლა პაროლებზე
 newtab-privacy-message-info-11-cta = ვრცლად

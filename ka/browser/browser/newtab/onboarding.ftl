@@ -219,7 +219,7 @@ mr2022-onboarding-existing-pin-checkbox-label = ამასთანავე, 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = აქციეთ { -brand-short-name } ყოველდღიურ ბრაუზერად
+mr2022-onboarding-set-default-title = აქციეთ { -brand-short-name } რჩეულ ბრაუზერად
 mr2022-onboarding-set-default-primary-button-label = გახდეს { -brand-short-name } ნაგულისხმევი ბრაუზერი
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
@@ -616,6 +616,7 @@ smartwindow-existing-user-fx-tou-go-back = უკან დაბრუნებ
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = აქციეთ { -smart-window-brand-name } თქვენს რჩეულად
 smartwindow-onboarding-subtitle = შეაჯამეთ, შეადარეთ და დასვით კითხვები დაუყოვნებლივ.
 smartwindow-onboarding-primary-button = განაგრძეთ
 # Kit is referring to the Firefox mascot
