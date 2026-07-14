@@ -56,3 +56,64 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Dividi negativajn komentojn
     .tooltiptext = Dividi negativajn komentojn
+aiwindow-applied-memories-popover =
+    .aria-label = Panelo de memoraĵoj
+aiwindow-applied-memories-list =
+    .aria-label = Memoraĵoj
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Forigi { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Iri al la fino de la konversacio
+    .tooltiptext = Iri al la fino
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Provi denove
+smartwindow-nl-retry-message = Se vi plu volas fermi langetojn, elektu <strong>Provi denove</strong> kaj faru vian elekton en la karto kiu aperos.
+smartwindow-nl-retry-group-tabs-message = Se vi plu volas grupigi langetojn, elektu <strong>Provi denove</strong> kaj  elektu ilin en la karto kiu aperos.
+smartwindow-nl-thinking = Kongruaj langetoj serĉataj…
+smartwindow-loading-assistant-response =
+    .aria-label = Respondo de la asistanto ŝargata
+smartwindow-nl-undo-button =
+    .label = Malfari
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } langeto fermita
+       *[other] { $count } langetoj fermitaj
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Farita! Langeto fermita.
+       *[other] Farita! Langetoj fermitaj.
+    }
+smart-window-closed-tabs-row-label = Fermitaj langetoj
+smart-window-closed-and-restored-label = Fermitaj kaj restarigitaj langetoj
+smart-window-restored-row-label =
+    { $count ->
+        [one] { $count } restarigita langeto
+       *[other] { $count } restarigitaj langetoj
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Langeto fermita kaj poste restarigita.
+       *[other] Langetoj fermitaj kaj poste restarigitaj.
+    }
+smart-window-cancelled-label = Peto nuligita.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Grupigi
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Grupigi { $count } langeton
+       *[other] Grupigi { $count } langetojn
+    }
