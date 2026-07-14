@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-smartwindow-messages-document-title = { -smart-window-brand-name } csevegőüzenetek
+smartwindow-messages-document-title = { -smart-window-brand-name } csevegőüzenetei
 
 ## Context chips in the chat content
 
@@ -18,9 +18,9 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Hiba történt, próbálja újra.
 smartwindow-assistant-error-budget-header = Elérte a mai csevegési korlátot.
-smartwindow-assistant-error-account-header = A { -smart-window-brand-name } használatához be kell jelentkeznie.
+smartwindow-assistant-error-account-header = Az { -smart-window-brand-name } használatához be kell jelentkeznie.
 smartwindow-assistant-error-max-length-header = Itt az ideje, hogy új csevegést kezdjen. Ez elérte a hosszkorlátját.
-smartwindow-assistant-error-request-blocked-header = A { -smart-window-brand-name } nem tudta elérni a kiszolgálót. Próbáljon ki egy másik hálózatot, vagy tiltsa le a VPN-t.
+smartwindow-assistant-error-request-blocked-header = Az { -smart-window-brand-name } nem tudta elérni a kiszolgálót. Próbáljon ki egy másik hálózatot, vagy tiltsa le a VPN-t.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Kiszolgálóhiba (HTTP { $status }). Próbálja meg újra.
