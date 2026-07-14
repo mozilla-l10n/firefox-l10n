@@ -572,6 +572,7 @@ identity-clear-site-data =
     .label = پاک کردن کۊکیا وو داده یل وبگه…
 identity-connection-not-secure-security-view = ایسا و جۊر ٱمن و ای وبگه منپیز نوابیڌین.
 identity-connection-verified = ایسا و جۊر ٱمن و ای وبگه منپیز وابیڌین.
+identity-ev-owner-label = گوواهی و در کشیڌه سی:
 identity-verifier-label = تاییڌ وابیڌه و دست:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = ز ری موقررات (EU) 2024/1183 واجد شرایت هڌ.
