@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = გაყოფილი ხედის ჩანართების ზომის ცვლა
+tab-devtools-splitter =
+    .aria-label = შემმუშავებლის ხელსაწყოების ზომის ცვლა
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -183,9 +185,15 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } მორგება
 tabbrowser-context-mute-tab =
     .label = ჩანართის დადუმება
     .accesskey = დ
+tabbrowser-context-mute-tab2 =
+    .label = დადუმება
+    .accesskey = უ
 tabbrowser-context-unmute-tab =
     .label = ჩანართის ხმის ჩართვა
     .accesskey = ხ
+tabbrowser-context-unmute-tab2 =
+    .label = ახმოვანება
+    .accesskey = ო
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = ჩანართების დადუმება
