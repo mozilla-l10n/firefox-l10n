@@ -99,3 +99,6 @@ experimental-features-semantic-history-search-description = Выкарыстоў
 experimental-features-tab-notes =
     .label = Нататкі да картак
 experimental-features-tab-notes-description = Нататкі да картак — гэта эксперыментальная функцыя, якая дазваляе дадаваць нататкі на карткі браўзера. Запісвайце кантэкст, напаміны ці наступныя крокі, каб потым вярнуцца і ўспомніць, чаму вы яе адкрылі. Мы будзем рады вашым водгукам, бо мы працягваем удасканальваць гэту функцыю. <a data-l10n-name="connect">Падзяліцеся водгукам</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Аптымізаванае меню картак

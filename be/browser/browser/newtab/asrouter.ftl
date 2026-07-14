@@ -307,6 +307,11 @@ launch-on-login-infobar-final-reject-button = Не, дзякуй
 launch-on-login-spotlight-title = Адкрываць { -brand-short-name } пры наступным запуску камп'ютара?
 launch-on-login-spotlight-startup-checkbox = Запускаць { -brand-short-name } па ўключэнні камп'ютара
 launch-on-login-spotlight-pin-taskbar-checkbox = Замацаваць на панэлі заданняў
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Адкрываць папярэднія вокны і карткі
+launch-on-login-spotlight-primary-button = Захаваць і закрыць { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -461,8 +466,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным і дадайце ў Док.
        *[other] Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным і трымайце на панэлі заданняў.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Трымайце { -brand-short-name } пад рукой
+       *[other] Адкрываць усе спасылкі ў { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Зрабіце яго прадвызначаным і трымайце ў Доку.
+       *[other] Атрымайце хутчэйшае агляданне і аўтаматычную ахову прыватнасці.
+    }
 set-default-menu-message-primary-button = Зрабіць прадвызначаным
 set-default-menu-message-primary-button-variant = Прызначыць асноўным браўзерам
+set-default-menu-message-primary-button-short-variant = Зрабіць { -brand-short-name } прадвызначаным
 
 ## Firefox Relay 50 Masks Announcement
 
