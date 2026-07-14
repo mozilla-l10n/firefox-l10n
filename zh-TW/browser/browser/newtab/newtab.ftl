@@ -182,7 +182,7 @@ newtab-privacy-trackers-blocked-today = 今日封鎖追蹤器數量
 # if the short fragment doesn't work in your language.
 # Variables:
 #   $count (number) - Number of sites where trackers were blocked
-newtab-privacy-across-sites = 共 { $count } 個網站
+newtab-privacy-across-sites = 跨 { $count } 個網站
 
 ## Privacy widget — empty state
 

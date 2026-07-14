@@ -956,6 +956,16 @@ urlbar-result-explanation-bookmarked = Закладка зроблена { $date
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Апошняе наведванне { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Апошняе  наведванне { $daysAgo } дзень таму
+        [few] Апошняе  наведванне { $daysAgo } дні таму
+       *[many] Апошняе  наведванне { $daysAgo } дзён таму
+    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
