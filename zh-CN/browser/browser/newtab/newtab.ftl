@@ -212,6 +212,7 @@ newtab-privacy-message-promo-vpn-2 = 在使用机场 Wi-Fi？开启内置 VPN，
 newtab-privacy-message-promo-vpn-2-cta = 打开 VPN
 newtab-privacy-message-promo-vpn-3 = 开启内置 VPN，更好隐藏您的真实位置。
 newtab-privacy-message-promo-vpn-3-cta = 打开 VPN
+newtab-privacy-message-promo-private-window-1 = 与他人共用计算机时，建议使用隐私窗口，让浏览更有隐私。
 newtab-privacy-message-promo-private-window-1-cta = 打开隐私窗口
 newtab-privacy-message-promo-relay-1 = 将马甲邮箱用于注册账户，把真实邮箱留给信任的人。
 newtab-privacy-message-promo-relay-1-cta = 获取马甲邮箱

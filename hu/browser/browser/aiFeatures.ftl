@@ -6,6 +6,7 @@ preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-
 smart-window-block-title = { -smart-window-brand-name } blokkolása?
 smart-window-block-description-both = Ez törli az { -smart-window-brand-name(case: "lower") } csevegéseit és memóriáit.
 smart-window-block-description-chats = Ez törli az { -smart-window-brand-name(case: "lower") } csevegéseit.
+smart-window-block-description-memories = Ez törli az { -smart-window-brand-name(case: "lower") } memóriáit.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Tegyen fel kérdéseket, hasonlítson össze lapokat és kapjon személyre szabott javaslatokat egy beépített asszisztenssel.
@@ -31,7 +32,7 @@ ai-window-open-sidebar =
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-custom-info =
-    .message = Ha egyéni modellt használ, akkor lehet, hogy az { -smart-window-brand-name } nem a várt módon működik.
+    .message = Ha egyéni modellt használ, akkor lehet, hogy az { -smart-window-brand-name(case: "lower") } nem a várt módon működik.
 smart-window-model-custom-more-link = További információk az egyéni modellekről
 smart-window-model-custom-save =
     .label = Mentés

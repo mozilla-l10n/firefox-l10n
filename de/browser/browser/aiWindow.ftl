@@ -98,6 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Willkommen zu { -smart-window-brand-name(form: "lowercase-plural-dative") }
 aiwindow-firstrun-model-title = Was ist Ihnen wichtig?
+aiwindow-firstrun-model-subtitle = Wählen Sie ein Modell für { -smart-window-brand-name(form: "lowercase-plural-accusative") } aus. Wechseln Sie jederzeit.
 aiwindow-firstrun-model-fast-label = Schnell
 aiwindow-firstrun-model-fast-body = Schnelle Antworten
 # $model (string) - The name of the AI model
@@ -134,6 +135,7 @@ aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kann aus Ihre
 aiwindow-firstrun-memories-conversation-title = Halten Sie das Gespräch am Laufen
 aiwindow-firstrun-memories-conversation-body = Lernen aus Chats heißt, Sie müssen sich weniger wiederholen.
 aiwindow-firstrun-memories-relevance-title = Mehr relevante Antworten
+aiwindow-firstrun-memories-relevance-body = Durch das Lernen beim Surfen erhalten { -smart-window-brand-name(form: "lowercase-plural") } einen umfassenderen Überblick.
 aiwindow-firstrun-memories-privacy-title = Privatsphäre von Grund auf
 aiwindow-firstrun-memories-privacy-body = Erinnerungen sind auf diesem Gerät gespeichert. Jederzeit löschen oder deaktivieren.
 aiwindow-firstrun-memories-choose-label = Wählen Sie, woher { -smart-window-brand-name(form: "lowercase-plural") } lernen
@@ -179,6 +181,10 @@ aiwindow-close-sidebar =
 
 fxa-signout-dialog-body-aiwindow = Synchronisierte Daten bleiben weiter in Ihrem Konto. Offene { -smart-window-brand-name(form: "lowercase-plural") } wechseln zum klassischen Fenster.
 
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Zu einem { -smart-window-brand-name(form: "lowercase-singular-dative") } wechseln
+
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
@@ -218,6 +224,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "lo
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Kehren Sie zu Ihren Chats zurück
+firefoxview-chats-empty-description = Während Sie { -smart-window-brand-name(form: "lowercase-plural-accusative") } verwenden, werden Ihre Chats hier gespeichert.
 
 ## Count displayed in fxview chat search results
 
@@ -278,6 +285,7 @@ aiwindow-feedback-modal-title = Sagen Sie Ihre Meinung
 aiwindow-feedback-what-worked-well = Was hat gut funktioniert? Keine persönlichen Daten, bitte.
 aiwindow-feedback-choose-any = Wählen Sie alle zutreffenden aus
 aiwindow-feedback-add-details = Fügen Sie Details hinzu, wenn Sie möchten. Keine persönlichen Daten, bitte.
+aiwindow-feedback-disclaimer = Übermitteln Sie Ihre Meinung und diesen Chat, um { -brand-shorter-name } bei der Verbesserung von { -smart-window-brand-name(form: "lowercase-plural-dative") } zu helfen. Ihre anderen Chats bleiben privat. <a data-l10n-name="learn-more">Weitere Informationen</a>
 aiwindow-feedback-submit = Absenden
 aiwindow-feedback-cancel = Abbrechen
 aiwindow-feedback-reason-incorrect-or-misleading = Falsch oder irreführend

@@ -42,6 +42,13 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = ‫{ $addonName } ({ $addonId }) و دست دؽوۉدار سیستوم ایسا مسدۊد وابیڌه.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = دؽوۉدار سیستوم ایسا سی زفت وابیڌن کامپیتر تووݩ، ز درخاست پۊرستن برنومه و دست ای وبگه جلاو گری کرد.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
 addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) و دست سازمووݩ ایسا مسدۊد وابیڌه.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
