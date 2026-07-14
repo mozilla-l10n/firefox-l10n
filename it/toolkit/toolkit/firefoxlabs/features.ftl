@@ -103,4 +103,3 @@ experimental-features-tab-notes-description = Le note sulle schede sono una funz
 experimental-features-tab-context-menu =
     .label = Menu semplificato per le schede
 experimental-features-tab-context-menu-description = Visualizza un menu contestuale semplificato quando fai clic con il tasto destro su una scheda. È pensato per aiutarti a trovare più facilmente le azioni più comuni. <a data-l10n-name="connect">Condividi la tua opinione</a>
-
