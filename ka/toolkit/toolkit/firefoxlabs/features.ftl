@@ -102,3 +102,4 @@ experimental-features-tab-notes-description = ჩანართის შენ
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = მეტად სადა ჩანართების მენიუ
+experimental-features-tab-context-menu-description = იხილეთ მეტად გაიოლებული მენიუ ჩანართზე მარჯვენა წკაპისას. შექმნილია ხშირი მოქმედებების იოლად მოსანახად. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
