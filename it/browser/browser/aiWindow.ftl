@@ -98,17 +98,28 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Ti diamo il benvenuto in { -smart-window-brand-name(form: "uppercase-singular") }
 aiwindow-firstrun-model-title = Che cosa è importante per te?
+aiwindow-firstrun-model-title-v2 = Scegli un modello per iniziare
 aiwindow-firstrun-model-subtitle = Scegli il modello da utilizzare nelle { -smart-window-brand-name }. Puoi cambiarlo in qualsiasi momento.
+aiwindow-firstrun-model-subtitle-v2 = Ogni modello ti permette di riassumere, confrontare ed esplorare le tue schede. Puoi cambiare modello in qualsiasi momento.
 aiwindow-firstrun-model-fast-label = Veloce
 aiwindow-firstrun-model-fast-body = Risposte rapide
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Veloce: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Perfetto per ottenere risposte immediate quando hai bisogno di velocità
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modello { $model } di { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flessibile
 aiwindow-firstrun-model-allpurpose-body = Adatto alle esigenze più comuni
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flessibile: { $shortName }
+aiwindow-firstrun-model-flexible-body = Versatile per un'ampia gamma di attività.
 aiwindow-firstrun-model-personal-label = Personale
 aiwindow-firstrun-model-personal-body = Risposte più personalizzate
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personale: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Progettato per un’assistenza personalizzata in diverse lingue.
 aiwindow-firstrun-button = Inizia
 aiwindow-firstrun-back-button = Indietro
 aiwindow-firstrun-next-button = Successivo
@@ -119,6 +130,7 @@ aiwindow-input-model-select-button-label-fast = Veloce
 aiwindow-input-model-select-button-label-allpurpose = Flessibile
 aiwindow-input-model-select-button-label-personal = Personale
 aiwindow-input-model-select-button-label-custom = Personalizzato
+aiwindow-input-model-select-button-description-custom = Utilizza il tuo LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
