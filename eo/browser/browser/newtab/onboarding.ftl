@@ -618,3 +618,17 @@ smartwindow-existing-user-fx-tou-go-back = Iri reen
 smartwindow-onboarding-title = Uzi { -smart-window-brand-name } kiel ĉefan retumilon
 smartwindow-onboarding-subtitle = Resumu, komparu kaj demandu sen perdi ritmon.
 smartwindow-onboarding-primary-button = Daŭrigi
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskoto de { -brand-product-name } kun stelformaj aldonaĵoj
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Ĉu vi volas teni la asistanton fermita?
+smartwindow-sidebar-auto-open-callout-body = Vi povas malfermi ĝin kiam ajn vi ĝin bezonas.
+smartwindow-sidebar-auto-open-callout-accept = Jes, teni ĝîn fermita
+smartwindow-sidebar-auto-open-callout-dismiss = Ne, dankon
+smartwindow-sidebar-auto-open-callout-accepted-title = La asistanto restos fermita
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Uzu "Demandi" por malfermi ĝin en iu ajn paĝo. Vi povas modifi tiun decidon iam ajn en <a data-l10n-name="settings">Agordoj</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Mi komprenis
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se vi ŝanĝas vian elekto, vi povas iam ajn ŝanĝi la normon en <a data-l10n-name="settings">Agordoj</a>.
