@@ -74,3 +74,60 @@ smartbar-placeholder-hint-1 = Uzu @ por mencii ĵusajn langetojn…
 smartbar-placeholder-hint-2 = Demandu ion ajn…
 smartbar-placeholder-hint-3 = Tajpu retadreson…
 smartbar-placeholder-hint-4 = Serĉi la reton…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = Mencii langeton aŭ retejon
+smartbar-mentions-list-no-results-label = Neniu rezulto trovita
+smartbar-mentions-list-recent-tabs-label = Ĵusaj langetoj
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Aldoni langeton aŭ retejon
+    .tooltiptext = Aldoni langeton aŭ retejon
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Mencii langeton aŭ retejon
+aiwindow-website-chip-history-deleted = Historio viŝita
+aiwindow-website-chip-remove-button =
+    .aria-label = Forigi
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Bonvenon al { -smart-window-brand-name }
+aiwindow-firstrun-model-title = Kio estas grava por vi?
+aiwindow-firstrun-model-subtitle = Elektu modelon por funkciigi { -smart-window-brand-name }. Ŝanĝu iam ajn.
+aiwindow-firstrun-model-fast-label = Rapida
+aiwindow-firstrun-model-fast-body = Rapidaj respondoj
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Fleksema
+aiwindow-firstrun-model-allpurpose-body = Adaptita al la plimulto de bezonoj
+aiwindow-firstrun-model-personal-label = Persona
+aiwindow-firstrun-model-personal-body = La plej personecigitaj respondoj
+aiwindow-firstrun-button = Komenci
+aiwindow-firstrun-back-button = Malantaŭen
+aiwindow-firstrun-next-button = Antaŭen
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Rapida
+aiwindow-input-model-select-button-label-allpurpose = Fleksema
+aiwindow-input-model-select-button-label-personal = Persona
+aiwindow-input-model-select-button-label-custom = Personecigita
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Uzu vian propran LLM
+aiwindow-input-model-select-default-badge =
+    .label = Normo
+    .title = La elektita norma modelo
+aiwindow-input-model-select-settings-link = Agordoj de modelo
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Pli da helpaj respondoj, laŭ viaj kondiĉoj

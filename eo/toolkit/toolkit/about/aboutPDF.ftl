@@ -4,6 +4,12 @@
 
 about-pdf-title = Redaktilo de PDF de { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
+about-pdf-tagline = Libera kaj senpaga ilo por legi, kunfandi, subskribi, komenti kaj pli — kun integrita privateco
+about-pdf-dropzone =
+    .title = Faligu dosieron PDF ĉi tie por komenci, aŭ premu la enigklavon
+about-pdf-dropzone-hint = Faligu dosieron PDF ĉi tie por komenci
+about-pdf-dropzone-privacy-hint = Dosieroj restas privataj, en via aparato.
+about-pdf-dropzone-invalid-file = Tiu ĉi dosiero ne estas subtenata. Elektu dosieron PDF por daŭrigi.
 about-pdf-browse-files =
     .label = Esplori dosierojn
 about-pdf-set-default =
