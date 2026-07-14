@@ -93,6 +93,9 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ur
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Aktier
 home-prefs-mission-message2 =
     .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link2 =
@@ -146,6 +149,42 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Støt { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Læs mere
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Læs mere
+newtab-privacy-message-info-8-cta = Læs mere
+newtab-privacy-message-info-11-cta = Læs mere
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Læs mere
+newtab-privacy-message-promo-monitor-2-cta = Læs mere
+newtab-privacy-message-promo-signin-1-cta = Log ind
+newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
+
+## Strings for the Stocks widget
+
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Aktier
+
+## Strings for the Picture of the Day widget
+
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
 
 ## Search box component.
 
@@ -494,6 +533,8 @@ newtab-custom-widget-clock-toggle =
     .label = Ur
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+newtab-custom-widget-stocks-toggle =
+    .label = Aktier
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -978,6 +1019,10 @@ newtab-daily-briefing-card-timestamp = Opdateret for { $minutes } m. siden
 newtab-widget-message-title = Hold fokus med lister og den indbyggede timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fra hurtige påmindelser til daglige opgaver — funktionen Fokus hjælper dig med at have styr på tingene og din tid.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Gør { -brand-product-name } til din egen
 newtab-promo-card-body-addons = Vælg en baggrund fra vores samling, eller lav din egen.
 newtab-promo-card-cta-addons = Prøv det nu
 newtab-promo-card-title = Støt { -brand-product-name }
@@ -1060,6 +1105,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Kun hold, der følges
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Indlæser flere kampe…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Se
@@ -1139,6 +1186,9 @@ newtab-sports-widget-third-place = Tredjeplads
 newtab-sports-widget-runner-up = Andenplads
 newtab-sports-widget-champions = Mestre
 newtab-sports-widget-world-cup-champions = VM-mestre i 2026
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Mestre i 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1269,6 +1319,10 @@ newtab-clock-widget-menu-edit = Rediger ure
 newtab-clock-widget-menu-switch-to-12h = Skift til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Skift til 24-timers format
 newtab-clock-widget-label-your-clocks = Dine ure
+newtab-clock-widget-search-location-input =
+    .label = Sted
+    .placeholder = Søg efter en by
+    .aria-label = Søg efter en by
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

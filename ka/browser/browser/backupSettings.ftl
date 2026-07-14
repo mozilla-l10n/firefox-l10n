@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = მდებარეობა
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (სასურველია)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = მდებარეობის არჩევა
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] ამორჩევა…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = მარქაფის ჩართ
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = ხარვეზია მარქაფისთვის თქვენ მიერ შერჩეულ საქაღალდესთან დაკავშირებით. აირჩიეთ სხვა საქაღალდე და ხელახლა სცადეთ.
+turn-on-scheduled-backups-error-default-dir-denied = თქვენს სამარქაფო საქაღალდესთან წვდომა ვერ ხერხდება. სცადეთ სხვა მისამართის შერჩევა.
 backup-error-file-system = რაღაც ხარვეზი წარმოიშვა, როცა თქვენ მიერ მითითებულ საქაღალდეში { -brand-short-name } დამარქაფებას ცდილობდა.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

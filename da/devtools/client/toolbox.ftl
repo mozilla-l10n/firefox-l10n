@@ -43,3 +43,9 @@ toolbox-always-on-top-enabled2 = Deaktiver tilstanden "Altid øverst"
     .title = Dette genstarter udviklerværktøj
 toolbox-always-on-top-disabled2 = Aktiver tilstanden "Altid øverst"
     .title = Dette genstarter udviklerværktøj
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-try-it-button = Prøv det
+toolbox-local-mode-notice-always-hide = Vis mig ikke dette igen

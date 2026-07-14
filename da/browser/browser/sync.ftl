@@ -28,6 +28,7 @@ fxa-menu-send-to-device =
            *[other] Send { $tabCount } faneblade til enhed
         }
 fxa-menu-send-to-mobile-device-missing2 = Kan du ikke se din enhed?
+fxviewtabrow-send-to-mobile-not-verified = Kontoen er ikke bekræftet
 fxviewtabrow-send-to-mobile-verify-account = Bekræft din konto
 fxa-menu-send-to-mobile-turn-on-sync = Slå synkronisering til for at sende faneblade
 fxa-menu-send-to-mobile-connect-device = Tilslut en enhed for at sende faneblade

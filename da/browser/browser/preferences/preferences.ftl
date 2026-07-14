@@ -48,6 +48,8 @@ pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Hjem
+pane-home-startup-title2 = Startside og opstart
+    .title = Startside og opstart
 pane-search-title2 = Søgning
     .title = Søgning
 pane-privacy-title3 = Privatliv og sikkerhed
@@ -469,6 +471,9 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
 confirm-browser-language-change-button = Genstart
+browser-language-heading =
+    .label = Browser-sprog
+    .description = Vælg det sprog, der skal bruges i brugerfladen i { -brand-short-name }.
 browser-language-preferred-label =
     .label = Foretrukket sprog
 browser-language-install-error =
@@ -564,6 +569,9 @@ download-save-files-header =
     .label = Gem filer i:
 download-save-where-3 =
     .aria-label = Gem filer i:
+download-always-ask-where2 =
+    .label = Spørg mig, hvor filer skal gemmes, inden de hentes
+    .accesskey = p
 download-header = Filhentning
 download-save-where = Gem filer i:
     .accesskey = m
@@ -665,9 +673,15 @@ applications-handle-new-file-types-description = Hvad skal { -brand-short-name }
 applications-save-for-new-types =
     .label = Gem filer
     .accesskey = G
+applications-save-for-new-types2 =
+    .label = Gem filer automatisk
+    .accesskey = G
 applications-ask-before-handling =
     .label = Spørg om filer skal åbnes eller gemmes
     .accesskey = S
+applications-ask-before-handling2 =
+    .label = Spørge om filer skal åbnes eller gemmes
+    .accesskey = p
 drm-group =
     .label = Indhold beskyttet af digital rettigheds-styring (DRM)
 drm-content-header = Indhold beskyttet af digital rettigheds-styring (DRM)
@@ -738,6 +752,8 @@ update-application-heading =
     .description = Opdateringer forbedrer { -brand-short-name }' hastighed, stabilitet og sikkerhed.
 update-application-suppress-prompts-heading =
     .label = Meddelelser
+update-application-updates-managed-by-os =
+    .message = Opdateringer administreres af dit operativsystem.
 
 ## Firefox support
 
@@ -800,6 +816,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Begynd søgning mens jeg taster
     .accesskey = s
+settings-media-group =
+    .label = Medieindhold
 browsing-picture-in-picture-toggle-enabled =
     .label = Vis kontrol-knapper for Billede-i-billede
     .accesskey = v
@@ -850,6 +868,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Nye vinduer og faneblade
 home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din startside, nye vinduer og nye faneblade
+home-section =
+    .heading = Startside og opstart
 
 ## Home Section - Default Browser
 
@@ -1186,6 +1206,12 @@ containers-settings-button =
     .label = Indstillinger
 containers-remove-button =
     .label = Fjern
+containers-section-header2 =
+    .heading = Indstillinger for kontekst
+containers-settings-button2 =
+    .title = Indstillinger
+containers-remove-button2 =
+    .title = Fjern
 
 ## Account and sync
 
@@ -1193,6 +1219,9 @@ sync-group-label =
     .label = Synkronisering
 account-group-label2 =
     .label = Konto
+account-disabled-group =
+    .label = Konto
+    .description = Kontoindstillinger er ikke tilgængelige.
 account-sync-section =
     .heading = Konto og synkronisering
 pane-account-sync-title2 = Konto og synkronisering
@@ -1335,6 +1364,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Håndter synkroniserede data
     .accesskey = H
+settings-sync-disconnect-button =
+    .label = Afbryd
 sync-change-options =
     .label = Skift…
     .accesskey = S
@@ -1513,6 +1544,7 @@ forms-primary-pw-use-2 =
     .accesskey = B
 forms-primary-pw-set =
     .label = Indstil hovedadgangskode
+forms-primary-pw-on-2 = Hovedadgangskode er <strong>AKTIVERET</strong>{ "\u000A" }
 forms-primary-pw-on =
     .label = Hovedadgangskode er AKTIVERET
 forms-primary-pw-change-2 =
@@ -2038,6 +2070,16 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloker pop op-vinduer og tredjeparts-omdirigeringer
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Håndter undtagelser
+    .accesskey = H
+    .description = Tilføj websteder, der kan åbne pop op-vinduer og bruge tredjeparts-omdirigeringer.
+    .searchkeywords = popop
+permissions-addon-install-warning3 =
+    .label = Vis en advarsel, når websteder forsøger at installere udvidelser
+    .accesskey = V
 permissions-addon-exceptions2 =
     .label = Vælg hvilke websteder, som kan installere udvidelser
     .accesskey = u
@@ -2323,6 +2365,8 @@ preferences-doh-radio-off =
     .description = Brug din standard DNS-resolver.
 preferences-doh-fallback-label =
     .label = Advar mig altid, hvis sikker DNS ikke er tilgængelig
+preferences-doh-status-item-off =
+    .message = DNS via HTTPS er slået fra
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
@@ -2420,6 +2464,7 @@ preferences-ai-controls-header3 =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } beskytter dig
 security-privacy-status-ok-label = Udvidet beskyttelse mod sporing er slået til
 security-privacy-status-problem-label = Vi fandt indstillinger, der påvirker din beskyttelse
 security-privacy-status-problem-helper-label = Vis problemer

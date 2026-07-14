@@ -113,6 +113,12 @@ options-sourceeditor-tabsize-label = Tabulator-størrelse
 options-sourceeditor-keybinding-label = Genvejstaster
 options-sourceeditor-keybinding-default-label = Standard
 
+## Local Mode section
+
+options-local-mode-folder-label = Lokal mappe:
+options-local-mode-toggle-enable = Aktiver
+options-local-mode-toggle-disable = Deaktiver
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)

@@ -463,8 +463,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] მუდამ ხელთ იქონიეთ { -brand-short-name } — აქციეთ ნაგულისხმევ ბრაუზერად და დატოვეთ Dock-ზე.
        *[other] მუდამ ხელთ იქონიეთ { -brand-short-name } — აქციეთ ნაგულისხმევ ბრაუზერად და დატოვეთ სამუშაო ზოლზე.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] იქონიეთ { -brand-short-name } თითის გაწვდენაზე
+       *[other] ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] გახადეთ ნაგულისხმევი და დატოვეთ მუდმივად Dock-ზე
+       *[other] აასწრაფეთ გვერდების მონახულება პირადულობის თანმომყოლი დაცვით.
+    }
 set-default-menu-message-primary-button = ნაგულისხმევად დაყენება
 set-default-menu-message-primary-button-variant = ძირითად ბრაუზერად დაყენება
+set-default-menu-message-primary-button-short-variant = აქციეთ { -brand-short-name } ნაგულისხმევად
 
 ## Firefox Relay 50 Masks Announcement
 

@@ -181,8 +181,14 @@ tabbrowser-customizemode-tab-title = Tilpas { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Slå lyden fra i faneblad
     .accesskey = S
+tabbrowser-context-mute-tab2 =
+    .label = Slå lyden fra
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Slå lyden til i faneblad
+    .accesskey = S
+tabbrowser-context-unmute-tab2 =
+    .label = Slå lyden til
     .accesskey = S
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
@@ -364,6 +370,8 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-button = Opret en fanebladsgruppe
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Ny gruppe
 
 ## Open/saved tab group context menu
 
