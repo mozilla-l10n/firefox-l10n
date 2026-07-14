@@ -176,6 +176,9 @@ tab-groups-2026-onboarding-callout-title = აირიდეთ განუკ
 # "Drag more in as you go" means users can add additional tabs to the group
 # over time, while they’re working. Please adapt for natural phrasing.
 tab-groups-2026-onboarding-callout-subtitle = დააწყვეთ თქვენი ჩანართები საქმიანობის მიხედვით ან საგნობრივად. დროდადრო შეავსეთ საჭიროებისამებრ.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = დაჯგუფების დაწყება
 
 ## Sidebar Strings
 

@@ -403,12 +403,16 @@ quickactions-addons = დამატებების ნახვა
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = გაფართოებები, თემები, დანამატები, დამატებები
+# Opens preferences page at AI controls
+quickactions-manageai = AI-სამართავის განკარგვა
+quickactions-cmd-manageai = გამოირთოს ai, გაითიშოს ai, გაიმართოს ai
 quickactions-cmd-addons2 = დამატებები
 # Opens the bookmarks library window
 quickactions-bookmarks2 = სანიშნების მართვა
 quickactions-cmd-bookmarks = სანიშნები
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = უახლესი ისტორიის გასუფთავება
+quickactions-cmd-clearrecenthistory2 = ფუნთუშები,, ფუნთუშების გასუფთავება, მარაგი, მომარაგებულის გასუფთავება, დათვალიერების მონაცემები, დათვალიერების მონაცემების გასუფთავება, ისტორია, უახლესი ისტორიის გასუფთავება
 quickactions-cmd-clearrecenthistory = უახლესი ისტორიის გასუფთავება, ისტორია
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ისტორიის გასუფთავება
@@ -432,6 +436,9 @@ quickactions-cmd-help = დახმარება, მხარდაჭერ
 # Opens the devtools web inspector
 quickactions-inspector2 = შემმუშავებლის ხელსაწყოების გახსნა
 quickactions-cmd-inspector2 = დაკვირვება, გამოკვლევა, devtools, dev tools
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = სურათის არჩევა
+quickactions-cmd-colorpicker = ფერის ასარჩევი, საწვეთური, ფერის არჩევა
 # Opens Firefox Library
 quickactions-cmd-library = ბიბლიოთეკა
 quickactions-library = ბიბლიოთეკის გახსნა
@@ -454,6 +461,9 @@ quickactions-cmd-print = ამობეჭდვა
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = გვერდი შეინახოს, როგორც PDF
 quickactions-cmd-savepdf2 = pdf, გვერდის შენახვა
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = გაიხსნას PDF-შემსწორებელი
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = პირადი ფანჯრის გახსნა
 quickactions-cmd-private = პირადი თვალიერება
@@ -884,6 +894,43 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · დამკვეთისგან
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = კითხვა
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = ბოლო მონახულების თარიღია { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] ბოლოს მონახულებულია { $daysAgo } დღის წინ
+       *[other] ბოლოს მონახულებულია { $daysAgo } დღის წინ
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] ბოლოს მონახულებულია { $weeksAgo } დღის წინ
+       *[other] ბოლოს მონახულებულია { $weeksAgo } დღის წინ
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] ბოლოს მონახულებულია { $monthsAgo } დღის წინ
+       *[other] ბოლოს მონახულებულია { $monthsAgo } დღის წინ
+    }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
