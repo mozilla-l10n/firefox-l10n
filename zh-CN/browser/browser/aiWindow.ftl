@@ -76,7 +76,6 @@ smartbar-placeholder-hint-4 = 网上搜索…
 
 ## Mentions
 
-smartbar-mention-typing-placeholder = 为标签页或网站添加标签
 smartbar-mentions-list-no-results-label = 未找到结果
 smartbar-mentions-list-recent-tabs-label = 近期标签页
 
@@ -88,7 +87,6 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
-aiwindow-website-chip-placeholder = 为标签页或网站添加标签
 aiwindow-website-chip-history-deleted = 已删除历史记录
 aiwindow-website-chip-remove-button =
     .aria-label = 移除

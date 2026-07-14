@@ -862,6 +862,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = 若在文本框外输入，则在页面中查找文本
     .accesskey = x
+settings-keyboard-shortcuts-customkeys-link =
+    .label = 自定义键盘快捷键
 settings-media-group =
     .label = 媒体
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1284,6 +1286,8 @@ containers-new-tab-check2 =
     .description = 启用后，每次点按新建标签页按钮时都将打开身份菜单。
 containers-settings-button2 =
     .title = 设置
+containers-remove-button3 =
+    .title = 删除
 containers-remove-button2 =
     .title = 移除
 

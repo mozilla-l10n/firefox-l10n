@@ -180,6 +180,9 @@ tab-context-send-to-device =
            *[other] 发送 { $tabCount } 个标签页到设备
         }
     .accesskey = n
+tab-context-send-to-device2 =
+    .label = 发送到设备
+    .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -205,4 +208,8 @@ tab-context-unload-n-tabs =
             [1] 卸载标签页
            *[other] 卸载 { $tabCount } 个标签页
         }
+    .accesskey = U
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = 卸载
     .accesskey = U
