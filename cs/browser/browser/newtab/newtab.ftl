@@ -294,12 +294,61 @@ newtab-privacy-message-promo-relay-3-cta = Získat masky
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] Tento týden byl zablokován { $count } sledovací prvek. Podívejte se, před čím vás { -brand-short-name } chrání.
+        [few] Tento týden byly zablokovány { $count } sledovací prvky. Podívejte se, před čím vás { -brand-short-name } chrání.
+        [many] Tento týden bylo zablokováno { $count } sledovacích prvků. Podívejte se, před čím vás { -brand-short-name } chrání.
+       *[other] Tento týden bylo zablokováno { $count } sledovacích prvků. Podívejte se, před čím vás { -brand-short-name } chrání.
+    }
 newtab-privacy-message-milestone-week-cta = Zobrazit ochrany
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] Tento měsíc byl zablokován { $count } sledovací prvek. Malý krok pro soukromí. Velký krok pro pokoj na duši.
+        [few] Tento měsíc byly zablokovány { $count } sledovací prvky. Malý krok pro soukromí. Velký krok pro pokoj na duši.
+        [many] Tento měsíc bylo zablokováno { $count } sledovacích prvků. Malý krok pro soukromí. Velký krok pro pokoj na duši.
+       *[other] Tento měsíc bylo zablokováno { $count } sledovacích prvků. Malý krok pro soukromí. Velký krok pro pokoj na duši.
+    }
 newtab-privacy-message-milestone-month-cta = Zobrazit ochrany
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] Tento rok byl zablokován { $count } sledovací prvek. Je to silný rok ochrany vašeho soukromí.
+        [few] Tento rok byly zablokovány { $count } sledovací prvky. Je to silný rok ochrany vašeho soukromí.
+        [many] Tento rok bylo zablokováno { $count } sledovacích prvků. Je to silný rok ochrany vašeho soukromí.
+       *[other] Tento rok bylo zablokováno { $count } sledovacích prvků. Je to silný rok ochrany vašeho soukromí.
+    }
 newtab-privacy-message-milestone-year-cta = Zobrazit ochrany
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] Byl zablokován { $count } sledovací prvek. To je významný pokrok směrem k ochraně soukromí podle vašich představ.
+        [few] Byly zablokovány { $count } sledovací prvky. To je významný pokrok směrem k ochraně soukromí podle vašich představ.
+        [many] Bylo zablokováno { $count } sledovacích prvků. To je významný pokrok směrem k ochraně soukromí podle vašich představ.
+       *[other] Bylo zablokováno { $count } sledovacích prvků. To je významný pokrok směrem k ochraně soukromí podle vašich představ.
+    }
 newtab-privacy-message-milestone-total-cta = Zobrazit ochrany
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Dnes bylo zablokováno přes 100 sledovacích prvků.) Čím méně sledovacích prvků, tím větší soukromí.
 newtab-privacy-message-daily-cap-cta = Zobrazit ochrany
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Byli jste chráněni { $count } den v řadě.
+        [few] Byli jste chráněni { $count } dny v řadě.
+        [many] Byli jste chráněni { $count } dní v řadě.
+       *[other] Byli jste chráněni { $count } dní v řadě.
+    }
 newtab-privacy-message-streak-cta = Zobrazit ochrany
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Pokračujte v prohlížení, { -brand-short-name } bude i nadále blokovat.
 newtab-privacy-message-first-protection-cta = Zobrazit ochrany
 
 ## Strings for the Stocks widget
@@ -308,6 +357,12 @@ newtab-privacy-message-first-protection-cta = Zobrazit ochrany
 newtab-stocks-menu-search = Hledat burzové symboly
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Zjistit více
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Možnosti widgetu Akcie
+    .aria-label = Možnosti widgetu Akcie
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Akcie
 

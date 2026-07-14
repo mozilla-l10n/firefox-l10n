@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = کۊچیر کردن
 window-zoom-command =
-    .label = گپ نمایی
+    .label = زۊم کردن
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =

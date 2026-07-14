@@ -267,18 +267,18 @@ advanced-fonts =
     .label = پؽش رئڌه…
     .accesskey = A
 preferences-default-zoom-label =
-    .label = گپ نمایی پؽش فرز
+    .label = زۊم پؽش فرز
     .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = گپ نمایی
-preferences-default-zoom = گپ نمایی پؽش فرز
+preferences-zoom-header = زۊم کردن
+preferences-default-zoom = زۊم پؽش فرز
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }٪
 preferences-zoom-text-only =
-    .label = تینا گپ نمایی هؽل
+    .label = تینا زۊم کردن هؽل
     .accesskey = t
 language-header = زووݩ
 website-add-language =
@@ -533,7 +533,7 @@ browsing-group =
 preferences-accessibility-header =
     .heading = دسرسی پزیری
 preferences-default-zoom-select =
-    .aria-label = گپ نمایی پؽش فرز
+    .aria-label = زۊم پؽش فرز
 
 ## General Section - Proxy
 
@@ -742,6 +742,10 @@ sync-group-label =
     .label = هوم گوم کردن
 account-group-label2 =
     .label = هساو منتوری
+account-sync-section =
+    .heading = هساو وو هوم گوم کردن
+pane-account-sync-title2 = هساو وو هوم گوم کردن
+    .title = هساو وو هوم گوم کردن
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").

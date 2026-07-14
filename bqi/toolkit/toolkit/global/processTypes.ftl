@@ -17,4 +17,4 @@ process-type-tab = جدول بندی
 ## Other
 
 # fallback
-process-type-unknown = نامعلۊم
+process-type-unknown = نشناخته

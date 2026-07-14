@@ -133,7 +133,7 @@ remote-debugging-url = نشۊوی اینترنتی
 compositing = شؽوستن
 yes = هری
 no = ن
-unknown = نامعلۊم
+unknown = نشناخته
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

@@ -167,6 +167,19 @@ tab-context-move-tabs =
            *[other] جا گورو کردن بلگه
         }
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] جاگورو بلگه و
+            [one] جاگورو { $tabCount } بلگه و
+           *[other] جاگورو { $tabCount } بلگه و
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = جاگورو نما تقسیم وابیڌه و
+    .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -175,6 +188,9 @@ tab-context-send-to-device =
             [one] فشناڌن بلگه و دسگا
            *[other] فشناڌن { $tabCount } بلگه و دسگا
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = فشناڌن و دسگایل ایسا
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -197,3 +213,15 @@ tab-context-send-tabs-to-device =
            *[other] فشناڌن { $tabCount } بلگه و دسگا
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] و در کردن بلگه
+            [one] و در کردن بلگه
+           *[other] و در کردن { $tabCount } بلگه
+        }
+    .accesskey = U
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = و در کردن
+    .accesskey = U

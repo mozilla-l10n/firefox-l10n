@@ -74,8 +74,8 @@ security-tab =
 security-view =
     .label = نیشتن گوواهی
     .accesskey = V
-security-view-unknown = نامعلۊم
-    .value = نامعلۊم
+security-view-unknown = نشناخته
+    .value = نشناخته
 security-view-identity-domain =
     .value = وبگه اینترنتی:
 security-view-identity-verifier =
@@ -101,7 +101,7 @@ security-site-data-no = ن
 
 ##
 
-image-size-unknown = نامعلۊم
+image-size-unknown = نشناخته
 page-info-not-specified =
     .value = ن دیاری
 not-set-alternative-text = ن دیاری
@@ -124,7 +124,7 @@ general-quirks-mode =
     .value = هالت قیر استاندارد
 media-select-folder = دوبلگه ای سی زفت کردن شؽوات پسند کۊنین
 media-unknown-not-cached =
-    .value = نامعلۊم (من ویرگه کش نؽ)
+    .value = نشناخته (من ویرگه کش نؽ)
 permissions-use-default =
     .label = و کار گرؽڌن مقدار پؽش فرز
 security-no-visits = ن

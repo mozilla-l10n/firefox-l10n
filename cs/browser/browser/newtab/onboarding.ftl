@@ -849,16 +849,42 @@ onboarding-refresh-gratitude-subtitle =
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje záda
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Přepínejte kdykoliv mezi chytrými a klasickými okny.
+
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title =
+    { -brand-product-name.case-status ->
+        [with-cases] Podmínky používání { -brand-product-name(case: "gen") }
+       *[no-cases] Podmínky používání aplikace { -brand-product-name }
+    }
+smartwindow-existing-user-fx-tou-body = Chcete-li používat { -smart-window-brand-name }, přijměte prosím <a data-l10n-name="terms_of_use">Podmínky použití</a> a aktualizované <a data-l10n-name="privacy_notice">Zásady ochrany osobních údajů</a>.
 smartwindow-existing-user-fx-tou-accept = Přijmout
 smartwindow-existing-user-fx-tou-go-back = Zpátky
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Udělejte si z { -smart-window-brand-name } svou první volbu
+smartwindow-onboarding-subtitle = Vytvářejte souhrny, porovnávejte a ptejte se bez zaváhání.
 smartwindow-onboarding-primary-button = Pokračovat
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label =
+        { -brand-product-name.case-status ->
+            [with-cases] Maskot { -brand-product-name(case: "gen") } (Kit) s hvězdami
+           *[no-cases] Maskot aplikace { -brand-product-name } (Kit) s hvězdami
+        }
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Chcete nechat asistenta zavřeného?
+smartwindow-sidebar-auto-open-callout-body = Stále si ho můžete otevřít, kdykoli ho budete potřebovat.
 smartwindow-sidebar-auto-open-callout-accept = Ano, ponechat zavřené
 smartwindow-sidebar-auto-open-callout-dismiss = Ne, děkuji
+smartwindow-sidebar-auto-open-callout-accepted-title = Asistent zůstane zavřený
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Pomocí funkce Zeptat se jej můžete otevřít na jakékoli stránce. Tuto volbu můžete kdykoli změnit v <a data-l10n-name="settings">Nastavení</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Rozumím
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Pokud si to rozmyslíte, můžete výchozí nastavení kdykoli změnit v <a data-l10n-name="settings">Nastavení</a>.
