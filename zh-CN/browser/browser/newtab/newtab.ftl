@@ -219,6 +219,16 @@ newtab-privacy-message-promo-relay-1-cta = 获取马甲邮箱
 newtab-privacy-message-promo-relay-2 = 使用免费的马甲邮箱，保护收件箱免受垃圾邮件侵扰。
 newtab-privacy-message-promo-relay-2-cta = 获取马甲邮箱
 newtab-privacy-message-promo-relay-3 = 获取 50 个免费马甲邮箱，帮助隐藏真实邮箱地址。
+newtab-privacy-message-promo-relay-3-cta = 获取马甲邮箱
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month = 本月已拦截 { $count } 个跟踪器。隐私一小步，心安一大步。
 
 ## Strings for the Stocks widget
 

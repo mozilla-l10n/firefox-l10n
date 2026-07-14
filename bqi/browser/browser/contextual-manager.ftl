@@ -98,6 +98,14 @@ contextual-manager-passwords-remove-all-title =
         [one] رزم پاک بۊ؟
        *[other] پاک کردن پوی { $total } رزم؟
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] هری، رزم ن پاک کۊنین
+        [one] هری، رزم ن پاک کۊنین
+       *[other] هری، رزما ن پاک کۊنین
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =

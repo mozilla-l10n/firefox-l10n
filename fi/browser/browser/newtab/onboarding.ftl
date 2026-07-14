@@ -630,5 +630,6 @@ smartwindow-sidebar-auto-open-callout-body = Voit silti avata sen aina tarvittae
 smartwindow-sidebar-auto-open-callout-accept = Kyllä, pidä suljettuna
 smartwindow-sidebar-auto-open-callout-dismiss = Ei kiitos
 smartwindow-sidebar-auto-open-callout-accepted-title = Avustaja pysyy suljettuna
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Avaa se millä tahansa sivulla Kysy-toiminnolla. Voit muuttaa tätä milloin tahansa <a data-l10n-name="settings">asetuksissa</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Selvä
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jos muutat mielesi, voit päivittää oletusasetuksen <a data-l10n-name="settings">asetuksissa</a> milloin tahansa.

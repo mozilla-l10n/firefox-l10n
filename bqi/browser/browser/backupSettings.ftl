@@ -134,6 +134,7 @@ disable-backup-encryption-confirm-button = پاک کردن رزم
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } ٱماڌه وورگندن هڌ.
 backup-file-title = وورگندن { -brand-short-name }
 backup-file-path-label = فایل لادراری:
 backup-file-encryption-state-label = رزم ناهاڌه وابیڌه:

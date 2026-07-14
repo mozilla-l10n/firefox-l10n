@@ -1385,6 +1385,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = لقو
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = روفتن نشست سیخومی
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = داده یل نشست ن پاک کۊنین
     .accesskey = D
@@ -1514,6 +1517,11 @@ trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } جا کلک
        *[other] { $count } جا کلک
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } ماینر کریپتو
+       *[other] { $count } ماینر کریپتو
     }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
