@@ -117,3 +117,71 @@ smart-window-confirm-group-tabs =
         [one] Grupigi { $count } langeton
        *[other] Grupigi { $count } langetojn
     }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } grupigita langeto
+       *[other] { $count } grupigitaj langetoj
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Grupo “{ $label }” kreita kaj { $count } langeto aldonita.
+       *[other] Grupo “{ $label }” kreita kaj { $count } langetoj aldonitaj.
+    }
+smart-window-grouped-tabs-row-label = Grupigitaj langetoj
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Negrupigitaj langetoj
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } langeto grupigita, poste forigita el grupo.
+       *[other] { $count } langetoj grupigitaj, poste forigitaj el grupo.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } negrupigita langeto
+       *[other] { $count } negrupigitaj langetoj
+    }
+
+## Action log
+
+action-log-searching-tabs = Langetoj serĉataj
+action-log-searched-open-tabs = Malfermitaj langetoj serĉitaj
+action-log-searching-history = Historio serĉata
+action-log-searched-history = Historio serĉita
+action-log-reading-page = Paĝo legata
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Legi enhavon de paĝo
+action-log-searching-web = Interreto serĉata
+action-log-searched-web = Interreto serĉita
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Interreto serĉita per Exa
+action-log-checking-memories = Memoraĵoj kontrolataj
+action-log-checked-memories = Memoraĵoj kontrolitaj
+action-log-searching-settings = Agordoj serĉataj
+action-log-searched-settings = Agordoj serĉitaj
+action-log-searching-world-cup-matches = Mondpokalaj ludoj serĉataj
+action-log-searched-world-cup-matches = Mondpokalaj ludoj serĉitaj
+action-log-checking-world-cup-live = Nuntempaj mondpokalaj ludoj kontrolataj
+action-log-checked-world-cup-live = Nuntempaj mondpokalaj ludoj kontrolitaj
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 paŝo kompleta
+       *[other] { $count } paŝoj kompletaj
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Serĉaj rezultoj ŝargitaj en tiu ĉi paĝo. Analizo…
