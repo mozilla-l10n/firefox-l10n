@@ -26,6 +26,9 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Кушодани ёвар ба таври худкор
     .description = Навори ҷонибии ёварро дар ҳар як варақаи нав нишон диҳед. Шумо метавонед онро дар вақти дилхоҳ пӯшед.
+ai-window-smart-cursor-in-smart-window =
+    .label = Нишон додани миёнбурҳо ҳангоми интихоби матн
+    .description = Пайдо кардани дастрасии зуд ба фармонҳои «Баровардани хулоса», «Шарҳ додан» ва ғайра.
 
 ## Variables:
 ##   $model (string) - The name of the AI model
