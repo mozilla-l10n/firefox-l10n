@@ -29,6 +29,7 @@ ai-window-open-sidebar =
 ai-window-smart-cursor-in-smart-window =
     .label = Нишон додани миёнбурҳо ҳангоми интихоби матн
     .description = Пайдо кардани дастрасии зуд ба фармонҳои «Баровардани хулоса», «Шарҳ додан» ва ғайра.
+smart-window-model-learn-link = Маълумоти бештар дар бораи моделҳо
 
 ## Variables:
 ##   $model (string) - The name of the AI model
