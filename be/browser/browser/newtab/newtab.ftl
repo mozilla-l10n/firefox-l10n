@@ -93,6 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Гадзіннік
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Прыватнасць
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Акцыі
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Фота дня
 home-prefs-mission-message2 =
     .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
 home-prefs-manage-topics-link2 =
@@ -153,6 +162,122 @@ home-prefs-support-firefox-header-srd =
     .label = Падтрымаць { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Даведацца, як
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Падрабязней
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] трэкер сёння заблакаваны
+        [few] трэкеры сёння заблакаваныя
+       *[many] трэкераў сёння заблакавана
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] на { $count } сайце
+        [few] на { $count } сайтах
+       *[many] на { $count } сайтах
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } блакуе трэкеры ў часе аглядання. Вы ўбачыце іх тут.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } аўтаматычна блакуе трэкеры ў часе аглядання інтэрнэту.
+newtab-privacy-message-info-1-cta = Паглядзець ахову
+newtab-privacy-message-info-2 = Блакаванне трэкераў дапамагае спыніць сачэнне за вамі ў інтэрнэце.
+newtab-privacy-message-info-2-cta = Паглядзець ахову
+newtab-privacy-message-info-3 = На многіх сайтах ёсць трэкеры, таму кампаніі, якія вы ніколі не наведвалі, могуць сачыць за вамі ў інтэрнэце.
+newtab-privacy-message-info-3-cta = Паглядзець ахову
+newtab-privacy-message-info-4 = Выбар { -brand-short-name } азначае выбар прадвызначанай аховы.
+newtab-privacy-message-info-4-cta = Паглядзець ахову
+newtab-privacy-message-info-5 = Блакаванне трэкераў азначае, што менш кампаній могуць сачыць за вамі на розных сайтах.
+newtab-privacy-message-info-5-cta = Паглядзець ахову
+newtab-privacy-message-info-6 = Захоўвайце свае дадзеныя з дапамогай { -brand-short-name }. Мы ніколі іх не прадаем, але іншыя браўзеры могуць.
+newtab-privacy-message-info-6-cta = Даведацца больш
+newtab-privacy-message-info-7 = Глядзіце, якія трэкеры { -brand-short-name } заблакаваў.
+newtab-privacy-message-info-7-cta = Паглядзець ахову
+newtab-privacy-message-info-8 = Агляданне з дапамогай { -brand-short-name } падтрымлівае місію { -vendor-short-name } па стварэнні лепшага Інтэрнэту.
+newtab-privacy-message-info-8-cta = Даведацца больш
+newtab-privacy-message-info-9 = Зрабіце { -brand-short-name } сваім асноўным браўзерам для ўбудаванай прыватнасці.
+newtab-privacy-message-info-9-cta = Зрабіць прадвызначаным
+newtab-privacy-message-info-10 = Захоўвайце паролі ў { -brand-short-name }, каб выкарыстоўваць надзейныя, унікальныя лагіны ўсюды.
+newtab-privacy-message-info-10-cta = Перайсці да пароляў
+newtab-privacy-message-info-11 = Даведайцеся, як { -brand-short-name } дапамагае забяспечыць большую прыватнасць вашага аглядання.
+newtab-privacy-message-info-11-cta = Даведацца больш
+newtab-privacy-message-info-12 = Блакаванне трэкераў можа дапамагчы зэканоміць прапускную здольнасць на тарыфных планах з абмежаваным трафікам.
+newtab-privacy-message-info-12-cta = Паглядзець ахову
+newtab-privacy-message-info-13 = { -brand-short-name } блакуе трэкеры, вызваляючы прапускную здольнасць для больш плаўнай трансляцыі.
+newtab-privacy-message-info-13-cta = Паглядзець ахову
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Даведайцеся, ці выявілася ваша асабістая інфармацыя ва ўцечцы дадзеных.
+newtab-privacy-message-promo-monitor-1-cta = Даведацца больш
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Пошук сімвалаў тыкераў
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Падрабязней
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Фота дня · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Усталяваць шпалеры
+    .title = Усталяваць шпалеры
+    .aria-label = Усталюйце фота дня ў якасці шпалер
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Кіраваць шпалерамі
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Схаваць фота дня
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Паказаць фота дня
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Даведацца больш
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Паказаць фота дня
+    .aria-label = Паказаць фота дня
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Зазірніце заўтра, каб убачыць новае фота
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Фота дня з Wikimedia Commons
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -188,6 +313,7 @@ newtab-topsites-add-shortcut-label = Дадаць цэтлік
 newtab-topsites-add-shortcut-title =
     .title = Дадаць цэтлік
     .aria-label = Дадаць цэтлік
+newtab-shortcuts-pinned-area = Замацаваная вобласць
 newtab-topsites-title-label = Загаловак
 newtab-topsites-title-input =
     .placeholder = Увядзіце назву
