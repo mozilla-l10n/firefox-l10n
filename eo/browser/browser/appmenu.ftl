@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Reto
+profiler-popup-presets-networking-with-logs-description = Antaŭagordoj por esplori retajn erarojn en { -brand-shorter-name }. Tio inkluzivas retan registron. Tiuj registroj povus enhavi delikatajn informojn, kiel ekzemple la retadreson de la vizitata retejo.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Reto kun registro
 profiler-popup-presets-power-description = Agordoj por senerarigo de uzo de energio en { -brand-shorter-name }, kun malmulte da aldona kromprocezado.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -292,6 +295,8 @@ appmenu-customizetoolbar =
     .label = Personecigi ilaron…
 appmenu-abouttranslations =
     .label = Traduki…
+appmenu-edit-pdf =
+    .label = Modifi PDF…
 appmenu-developer-tools-subheader = Iloj de retumilo
 appmenu-developer-tools-extensions =
     .label = Etendaĵoj por programistoj
@@ -301,15 +306,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Komenci seancon per via konto
+appmenuitem-monitor-title2 = Anticipu la ŝtelon de identeco
+appmenuitem-monitor-description2 = Ricevu avertojn pri datumfuĝoj
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ricevu atentigojn pri datumfuĝoj
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Tenu vian repoŝton privata
+appmenuitem-relay-description2 = Tio ĉi helpas eviti trudmesaĝojn en via enirkesto
 appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
+appmenuitem-vpn-title2 = Kaŝu vian pozicion per { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Igu vian retumon pli malfacile spurebla
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato
 appmenuitem-vpn-description = Protektu vian retumon
 appmenu-services-header = Miaj servoj
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Iloj pri privateco
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -323,9 +338,18 @@ appmenu-manage-profiles =
     .label = Administri profilojn
 appmenu-copy-profile =
     .label = Kopii tiun ĉi profilon
+appmenu-create-profile2 =
+    .label = Krei novan profilon
 appmenu-create-profile =
     .label = Nova profilo
 appmenu-edit-profile =
     .aria-label = Modifi profilon
+appmenu-edit-this-profile =
+    .label = Modifi tiun ĉi profilon
+appmenu-profile-current-in-use = Nune uzata profilo
 appmenu-profiles-2 =
     .label = Profiloj
+appmenu-profiles-header = Profiloj
+appmenu-all-profiles =
+    .label = Ĉiuj profiloj
+appmenu-secure-sync-header = Sekura spegulado

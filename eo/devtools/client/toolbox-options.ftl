@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Aktivigi apartigitan konzolon
 options-webconsole-split-console-tooltip =
     .title = Malfermi apartigitan konzolon per la eskapa klavo
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Reta kontrolilo
+
 ## Style Editor section
 
 # The heading

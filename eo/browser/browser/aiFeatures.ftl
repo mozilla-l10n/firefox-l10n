@@ -84,3 +84,13 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Forigi ĉion
 ai-window-delete-all-memories-title = Ĉu forigi ĉiujn memoraĵojn?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Ekzistantaj memoraĵoj estos forigitaj. Se vi ne volas novajn memoraĵojn, malŝaltu la eblojn ”Lerni el…” en la agordoj de { -smart-window-brand-name }.
+ai-window-delete-all-memories-confirm = Forigi
+ai-window-delete-all-memories-cancel = Nuligi
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Forigi memoraĵon
+    .aria-label = Forigi { $label }
