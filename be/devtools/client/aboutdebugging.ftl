@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Шматпрацэсная панэ�
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Асноўны працэс і працэсы змесціва для мэтавага браўзера
+about-debugging-message-error-icon =
+    .alt = Значок памылкі
+about-debugging-message-info-icon =
+    .alt = Значок інфармацыі
+about-debugging-message-warning-icon =
+    .alt = Значок папярэджання
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Закрыць паведамленне
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Падрабязнасці пра 
 about-debugging-message-details-label-warning = Падрабязнасці пра папярэджанне
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Падрабязнасці
+about-debugging-sidebar =
+    .heading = Адладка

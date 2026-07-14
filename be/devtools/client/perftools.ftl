@@ -175,6 +175,8 @@ perftools-presets-ml-label = Машыннае навучанне
 perftools-presets-ml-description2 = Папярэднія налады для даследавання хібаў машыннага навучання ў { -brand-shorter-name }.
 perftools-presets-networking-label = Сетка
 perftools-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Сетка з журналамі
+perftools-presets-networking-with-logs-description = Папярэднія налады для даследавання сеткавых памылак у { -brand-shorter-name }, у тым ліку сеткавых журналаў. Гэтыя журналы могуць утрымліваць канфідэнцыйную інфармацыю, такую як URL-адрасы, якія вы наведваеце.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Сілкаванне
 perftools-presets-power-description = Папярэднія налады для даследавання хібаў спажывання энергіі ў { -brand-shorter-name }, з невялікімі выдаткамі.

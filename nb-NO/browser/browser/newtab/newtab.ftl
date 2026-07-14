@@ -180,6 +180,54 @@ newtab-privacy-trackers-blocked-today =
         [one] Sporer blokkert i dag
        *[other] Sporere blokkert i dag
     }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] På tvers av { $count } nettsted
+       *[other] På tvers av { $count } nettsteder
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blokkerer sporere mens du surfer. Du ser dem her.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } blokkerer sporere automatisk mens du surfer.
+newtab-privacy-message-info-1-cta = Vis beskyttelser
+newtab-privacy-message-info-2-cta = Vis beskyttelser
+newtab-privacy-message-info-3-cta = Vis beskyttelser
+newtab-privacy-message-info-4-cta = Vis beskyttelser
+newtab-privacy-message-info-5-cta = Vis beskyttelser
+newtab-privacy-message-info-6-cta = Les mer
+newtab-privacy-message-info-7-cta = Vis beskyttelser
+newtab-privacy-message-info-8-cta = Les mer
+newtab-privacy-message-info-11-cta = Les mer
+newtab-privacy-message-info-12-cta = Vis beskyttelser
+newtab-privacy-message-info-13-cta = Vis beskyttelser
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Les mer
+newtab-privacy-message-promo-monitor-2-cta = Les mer
+newtab-privacy-message-promo-signin-1-cta = Logg inn
+newtab-privacy-message-promo-vpn-1-cta = Åpen VPN
+newtab-privacy-message-promo-vpn-2-cta = Åpen VPN
+newtab-privacy-message-promo-vpn-3-cta = Åpen VPN
+newtab-privacy-message-promo-private-window-1-cta = Åpne privat vindu
 
 ## Strings for the Stocks widget
 
@@ -188,11 +236,29 @@ newtab-stocks-menu-search = Søk etter aksjesymboler
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Les mer
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, opp { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Dagens bilde · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Dagens bilde
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons

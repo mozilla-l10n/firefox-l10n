@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Абнавіць картку
     .accesskey = А
+reload-tab2 =
+    .label = Абнавіць
+    .accesskey = А
 select-all-tabs =
     .label = Вылучыць усе карткі
     .accesskey = ы
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Дубляваць картку
     .accesskey = Д
+duplicate-tab2 =
+    .label = Дубляваць
+    .accesskey = в
 duplicate-tabs =
     .label = Дубляваць карткі
+    .accesskey = в
+duplicate-tabs2 =
+    .label = Дубляваць
     .accesskey = в
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -106,6 +115,9 @@ tab-context-close-multiple-tabs2 =
 tab-context-close-duplicate-tabs =
     .label = Закрыць дублікаты картак
     .accesskey = л
+tab-context-close-duplicate-tabs2 =
+    .label = Закрыць дублікаты гэтай карткі
+    .accesskey = x
 tab-context-share-url =
     .label = Падзяліцца
     .accesskey = П
@@ -141,6 +153,15 @@ tab-context-close-n-tabs =
            *[many] Закрыць { $tabCount } картак
         }
     .accesskey = а
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Закрыць
+            [one] Закрыць { $tabCount } картку
+            [few] Закрыць { $tabCount } карткі
+           *[many] Закрыць { $tabCount } картак
+        }
+    .accesskey = ц
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -149,6 +170,20 @@ tab-context-move-tabs =
             [few] Перамясціць карткі
            *[many] Перамясціць карткі
         }
+    .accesskey = м
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Перамясціць картку на
+            [one] Перамясціць { $tabCount } картку на
+            [few] Перамясціць { $tabCount } карткі на
+           *[many] Перамясціць { $tabCount } картак на
+        }
+    .accesskey = м
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Перамясціць падзелены выгляд у
     .accesskey = м
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
@@ -160,6 +195,9 @@ tab-context-send-to-device =
            *[many] Даслаць { $tabCount } картак на прыладу
         }
     .accesskey = р
+tab-context-send-to-device2 =
+    .label = Даслаць на вашы прылады
+    .accesskey = Д
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
     .label =
@@ -190,4 +228,8 @@ tab-context-unload-n-tabs =
             [few] Выгрузіць { $tabCount } карткі
            *[many] Выгрузіць { $tabCount } картак
         }
+    .accesskey = г
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Выгрузіць
     .accesskey = г

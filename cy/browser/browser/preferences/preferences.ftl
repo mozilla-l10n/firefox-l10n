@@ -180,8 +180,8 @@ always-check-default =
 is-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 is-not-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 set-as-my-default-browser =
-    .label = Gwneud yn Ragosodedig…
-    .accesskey = R
+    .label = Gwneud yr Arferol…
+    .accesskey = A
 startup-restore-windows-and-tabs =
     .label = Agor ffenestri a thabiau blaenorol
     .accesskey = A
@@ -960,10 +960,10 @@ home-default-browser-title =
 is-default-browser-2 =
     .message = { -brand-short-name } yw eich porwr rhagosodedig. Dewis da.
 is-not-default-browser-2 =
-    .message = Pst, nid { -brand-short-name } yw eich rhagosodiad.
+    .message = Pst, nid { -brand-short-name } yw eich porwr arferol.
 set-as-my-default-browser-2 =
-    .label = Gwneud yn Ragosodedig
-    .accesskey = R
+    .label = Gwneud yr Arferol
+    .accesskey = A
 
 ## Custom Homepage subpage
 

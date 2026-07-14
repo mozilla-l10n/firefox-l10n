@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Гэтая функцыя эксперыментальная і можа не працаваць належным чынам.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Не сапраўдны
+customkeys-shortcut-unassigned =
+    .placeholder = Дадаць спалучэнне
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Спалучэнне для: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Змяніць
+    .tooltiptext = Змяніць
 customkeys-key-clear =
     .aria-label = Ачысціць
     .tooltiptext = Ачысціць
+customkeys-key-reset =
+    .aria-label = Аднавіць
+    .tooltiptext = Аднавіць
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Націсніце новую клавішу:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Выдаліць іншае спалучэнне?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Гэта клавіша ўжо выкарыстоўваецца ў “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Усё роўна выкарыстаць
+customkeys-conflict-confirm-button-cancel = Адмена
+customkeys-reset-all-confirm-title = Аднавіць прадвызначаныя?
+customkeys-reset-all-confirm-body = Усе створаныя вамі карыстальніцкія спалучэнні клавіш будуць выдалены.
+customkeys-reset-all-confirm-button-confirm = Аднавіць прадвызначаныя
+customkeys-reset-all-confirm-button-cancel = Скасаваць
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Бакавая панэль
+customkeys-title-heading =
+    .heading = Спалучэнні клавіш
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Пошук спалучэнняў клавіш
+    .placeholder = Пошук спалучэнняў клавіш
+customkeys-description = Кіруйце сваёй навігацыяй і ўзаемадзеяннем з { -brand-short-name }.
+customkeys-support-link-text = Падрабязней
+customkeys-reset-all-button = Аднавіць прадвызначаныя
