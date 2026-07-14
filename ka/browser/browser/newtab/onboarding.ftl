@@ -616,6 +616,7 @@ smartwindow-existing-user-fx-tou-go-back = უკან დაბრუნებ
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-subtitle = შეაჯამეთ, შეადარეთ და დასვით კითხვები დაუყოვნებლივ.
 smartwindow-onboarding-primary-button = განაგრძეთ
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
@@ -628,5 +629,6 @@ smartwindow-sidebar-auto-open-callout-body = მისი გახსნა კ
 smartwindow-sidebar-auto-open-callout-accept = დიახ, დარჩეს დახურული
 smartwindow-sidebar-auto-open-callout-dismiss = არა, გმადლობთ
 smartwindow-sidebar-auto-open-callout-accepted-title = თანაშემწე დახურული დარჩება
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = შეკითხვით გახსენით ნებისმიერ გვერდზე. შეცვლა ყოველთვის შეგიძლიათ <a data-l10n-name="settings">პარამეტრებიდან</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = გასაგებია
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = თუ გადაიფიქრებთ, ნაგულისხმევის განახლება ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="settings">პარამეტრებიდან</a>.

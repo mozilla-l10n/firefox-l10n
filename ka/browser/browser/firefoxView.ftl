@@ -232,7 +232,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = ისტორიის გადმოტანა სხვა ბრაუზერიდან
-firefoxview-import-history-description = აქციეთ { -brand-short-name } თქვენს ყოველდღიურ ბრაუზერად. გადმოიტანეთ გვერდების ისტორია, სანიშნები და სხვ.
+firefoxview-import-history-description = აქციეთ { -brand-short-name } თქვენს რჩეულ ბრაუზერად. გადმოიტანეთ გვერდების ისტორია, სანიშნები და სხვ.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
