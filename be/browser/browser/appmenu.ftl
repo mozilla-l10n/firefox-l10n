@@ -15,6 +15,14 @@ appmenuitem-banner-update-unsupported =
     .label = Даступна абнаўленне — сістэма несумяшчальная
 appmenuitem-banner-update-restart =
     .label = Даступна абнаўленне — перазапусціць зараз
+# Fresh Firefox refers to the new updated UI
+appmenu-nova-update-promo =
+    .message = Атрымайце свежы { -brand-short-name }. Сачыце за ўсім.
+appmenu-nova-update-link = Перазапуск для абнаўлення
+appmenu-nova-fxa-sign-in = Увайсці
+appmenu-nova-switch-device-promo =
+    .message = Хутка атрымаеце новую прыладу? Вазьміце з сабой { -brand-short-name }!
+appmenu-nova-switch-device-link = Як перанесці свае дадзеныя
 appmenuitem-new-tab =
     .label = Новая картка
 appmenuitem-new-window =

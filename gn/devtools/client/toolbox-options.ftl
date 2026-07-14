@@ -84,6 +84,10 @@ options-netmonitor-label = Monitor ñandutigua
 options-netmonitor-body-limit-unlimited-label = Ijapyra’ỹva
 options-netmonitor-body-limit-button =
     .title = Embosako’i mba’ejerure tuichakue/ñembohovái rete.
+options-netmonitor-body-limit-restore-default =
+    .title = Emoĩporã tepykue ypygua mba’ejerure/ñembohovái tuichavévape g̃uarã.
+options-netmonitor-body-limit-set =
+    .title = Emboheko jeikeha ag̃agua repy mba’ejerure/ñembohovái tuichavévape g̃uarã.
 
 ## Experimental section
 
@@ -140,6 +144,7 @@ options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
 
 # The heading
 options-local-mode-label = Ayvu pypegua
+options-local-mode-only-work-locally = Ayvu pypegua oiko kóva jerérente ha ojepe’áma pe mopotĩha okaygua jerereguáva
 options-local-mode-domain-label = Mba’eteete mboavapyre:
 options-local-mode-origin-input =
     .placeholder = Mapeo local peguarã reñoiha

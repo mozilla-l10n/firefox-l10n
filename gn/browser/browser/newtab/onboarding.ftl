@@ -624,4 +624,5 @@ smartwindow-sidebar-auto-open-callout-body = Embojurujakuaa gueteri eikotevẽte
 smartwindow-sidebar-auto-open-callout-accept = Héẽ, embotymeme
 smartwindow-sidebar-auto-open-callout-dismiss = Nahániri, aguyje
 smartwindow-sidebar-auto-open-callout-accepted-title = Pe pytyvõha oĩta ñembotyhápe
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Eiporu Porandu embojuruja hag̃ua oimeraẽ kuatiaroguépe. Emoambue ejapose vove <a data-l10n-name="settings">Ñemboheko</a>-pe.
 smartwindow-sidebar-auto-open-callout-rejected-title = Aikũmby
