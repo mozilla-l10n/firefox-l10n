@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = აკრძალვა
     .accesskey = ა
 webext-perms-host-description-all-urls = ყველა საიტზე თქვენს მონაცემებთან წვდომა
+webext-perms-host-description-file-urls = წვდომა ადგილობრივ ფაილებთან კომპიუტერში
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = თქვენს მონაცემებთან წვდომა საიტებზე დაბოლოებით { $domain }

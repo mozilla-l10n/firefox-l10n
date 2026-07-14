@@ -251,6 +251,12 @@ protections-vpn-title = მიიღეთ დამატებითი და
 protections-vpn-header-content = მოწყობილობის სრულად დაცვისთვის გამოიყენეთ { -mozilla-vpn-brand-name }. ერთი შეხებით შიფრავს ყველა მიმოცვლილ მონაცემს და მალავს თქვენს მდებარეობას.
 protections-get-vpn-link = გამოიყენეთ { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: გამოწერილი
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] გამოყენებისას { -mozilla-vpn-brand-name } შიფრავს თქვენ მიერ მიმოცვლილ ყველა მონაცემს და ფარავს თქვენს მდებარეობას — { $count } მოწყობილობამდე. სრულად ისარგებლეთ გამოწერით — დასამატებლად აგრეთვე იხილეთ <a data-l10n-name="playstore-link">Google Play Store</a> და <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
 protections-vpn-banner-header = დაცვა, რომელიც ბრაუზერის მიღმაც ვრცელდება
 protections-vpn-banner-content = მოსინჯეთ უსაფრთხო { -mozilla-vpn-brand-name } და ნახეთ, რატომ ამბობს TechRadar, რომ მისი სიჩქარე, სიმარტივე და დაბალი ყოველთვიური გადასახადი მეტად ღირსშესანიშნავია.
 protections-vpn-banner-link = გამოიყენეთ { -mozilla-vpn-brand-name }

@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = გიპასუხებთ { $provider }
 genai-menu-new-badge = სიახლე
 genai-menu-summarize-page = გვერდის შეჯამება
+genai-input-ask-smart-window =
+    .placeholder = ჰკითხეთ…
 genai-input-ask-generic =
     .placeholder = ჰკითხეთ AI-თანამოსაუბრეს…
 # $provider (string) - name of the provider
@@ -106,6 +108,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = ჰკითხეთ AI-თანამოსაუბრეს
     .accesskey = ი
+genai-menu-ask-smart-window =
+    .label = ჰკითხეთ…
+    .accesskey = ჰ
 
 ## Chatbot header
 
