@@ -625,3 +625,10 @@ smartwindow-onboarding-image-alt =
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-title = Хочаце трымаць памочніка закрытым?
+smartwindow-sidebar-auto-open-callout-body = Вы ўсё яшчэ можаце адкрыць яго, калі спатрэбіцца.
+smartwindow-sidebar-auto-open-callout-accept = Так, трымаць закрытым
+smartwindow-sidebar-auto-open-callout-dismiss = Не, дзякуй
+smartwindow-sidebar-auto-open-callout-accepted-title = Памочнік застанецца закрытым
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Выкарыстоўвайце функцыю «Спытаць», каб адкрыць яго на любой старонцы. Гэта можна змяніць калі заўгодна ў <a data-l10n-name="settings">Наладах</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Ясна
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Калі вы перадумаеце, можаце ў любы час змяніць прадвызначэнне ў <a data-l10n-name="settings">Наладах</a>.
