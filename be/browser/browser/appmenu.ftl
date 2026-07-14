@@ -215,6 +215,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Сетка
+profiler-popup-presets-networking-with-logs-description = Папярэднія налады для даследавання сеткавых памылак у { -brand-shorter-name }, у тым ліку сеткавых журналаў. Гэтыя журналы могуць утрымліваць канфідэнцыйную інфармацыю, такую як URL-адрасы, якія вы наведваеце.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Сетка з журналамі
 profiler-popup-presets-power-description = Папярэднія налады для даследавання хібаў спажывання энергіі ў { -brand-shorter-name }, з невялікімі выдаткамі.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -292,6 +295,8 @@ appmenu-customizetoolbar =
     .label = Уладкаваць паліцу прылад…
 appmenu-abouttranslations =
     .label = Перакласці…
+appmenu-edit-pdf =
+    .label = Рэдагаваць PDF…
 appmenu-developer-tools-subheader = Інструменты браўзера
 appmenu-developer-tools-extensions =
     .label = Пашырэнні для распрацоўшчыкаў
@@ -301,6 +306,8 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Увайдзіце ў свой уліковы запіс
+appmenuitem-monitor-title2 = Папярэдзьце крадзеж асабістых дадзеных
+appmenuitem-monitor-description2 = Атрымлівайце абвесткі аб уцечках дадзеных
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Атрымлівайце абвесткі аб уцечках дадзеных
 appmenuitem-relay-title = { -relay-brand-short-name }

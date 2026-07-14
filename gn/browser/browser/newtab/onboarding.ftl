@@ -601,6 +601,10 @@ onboarding-refresh-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-na
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } oĩta nendive
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Emoambue ovetãita ha’evéva ha oĩva apytépe ejapose vove.
+
 ## Smart Window ToU modal
 
 # Existing users
