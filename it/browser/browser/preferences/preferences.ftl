@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Apri automaticamente { -brand-short-name } quando si avvia il computer
     .accesskey = A
 windows-launch-on-login-disabled = Questa opzione è stata disattivata in Windows. Per modificarla, apri <a data-l10n-name="startup-link">App di avvio</a> in Impostazioni.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Apri anche una nuova scheda
     .accesskey = n
