@@ -600,3 +600,28 @@ onboarding-refresh-sync-title = Хадзіце дзе заўгодна. Сінх
 onboarding-refresh-gratitude-subtitle = Дзякуй, што карыстаецеся { -brand-short-name }, адзіным буйным браўзерам, які падтрымліваецца некамерцыйнай арганізацыяй. З вашай падтрымкай мы працуем над тым, каб зрабіць Інтэрнэт больш бяспечным і даступным для кожнага.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } прыкрывае вас
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Пераключайцеся паміж разумнымі і класічнымі вокнамі ў любы час.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Умовы выкарыстання { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Каб карыстацца { -smart-window-brand-name }, прыміце <a data-l10n-name="terms_of_use">Умовы выкарыстання</a> і абноўленае <a data-l10n-name="privacy_notice">Паведамленне аб прыватнасці</a>.
+smartwindow-existing-user-fx-tou-accept = Прыняць
+smartwindow-existing-user-fx-tou-go-back = Вярнуцца
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Зрабіце { -smart-window-brand-name } сваім выбарам
+smartwindow-onboarding-subtitle = Рэзюмуйце, параўноўвайце і задавайце пытанні без лішніх ваганняў.
+smartwindow-onboarding-primary-button = Працягнуць
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Талісман { -brand-product-name } (Кіт) з зорнымі рэквізітамі
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Хочаце трымаць памочніка закрытым?
