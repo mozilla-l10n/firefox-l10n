@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Ilaro de plurprocezo
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Ĉefa procezo kaj enhavaj procezoj por la celata retumilo
+about-debugging-message-error-icon =
+    .alt = Emblemo de eraro
+about-debugging-message-info-icon =
+    .alt = Emblemo de informo
+about-debugging-message-warning-icon =
+    .alt = Emblemo de averto
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Fermi mesaĝon
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Detaloj de eraro
 about-debugging-message-details-label-warning = Detaloj de averto
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detaloj
+about-debugging-sidebar =
+    .heading = Senerarigo

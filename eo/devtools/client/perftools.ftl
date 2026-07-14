@@ -169,6 +169,7 @@ perftools-presets-ml-description2 = Agordoj por senerarigo de aŭtomata lernado 
 perftools-presets-networking-label = Reto
 perftools-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Reto kun registro
+perftools-presets-networking-with-logs-description = Antaŭagordoj por esplori retajn erarojn en { -brand-shorter-name }. Tio inkluzivas retan registron. Tiuj registroj povus enhavi delikatajn informojn, kiel ekzemple la retadreson de la vizitata retejo.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energio
 perftools-presets-power-description = Agordoj por senerarigo de uzo de energio en { -brand-shorter-name }, kun malmulte da aldona kromprocezado.

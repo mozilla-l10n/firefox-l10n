@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Uzi lokan modelon de
 experimental-features-tab-notes =
     .label = Notoj de langetoj
 experimental-features-tab-notes-description = Notoj de langetoj estas eksperimenta trajto kiu permesas aldonon de notoj al la langetoj de via retumilo. Aldonu kuntekston, memorigilojn aŭ venontajn paŝojn por memori, kial vi malfermis la langeton. Ni ŝategus ricevi viajn komentojn dum ni plu disvolvas tiun ĉi trajton.  <a data-l10n-name="connect">Dividi ideojn kaj komentojn</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Simpligita menuo de langeto
+experimental-features-tab-context-menu-description = Montri pli simplan kuntekstan menuon kiam vi dekstre alklakas langeton. Tio estis pensita por simpligi la trovon de la plej oftaj agoj. <a data-l10n-name="connect">Sendi komentojn</a>

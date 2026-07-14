@@ -448,6 +448,10 @@ onboarding-checklist-pin = Alpingli { -brand-short-name } al via Dock
 onboarding-checklist-import = Importi el antaŭa retumilo
 onboarding-checklist-extension = Aldoni etendaĵon
 onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
+onboarding-checklist-minimize =
+    .label = Plejetigi
+onboarding-checklist-remove =
+    .label = Forigi kontrolliston
 
 ## Tab Groups feature onboarding strings
 
@@ -596,3 +600,21 @@ onboarding-refresh-sync-title = Iru kien ajn vi volas, spegulu ĉiujn viajn datu
 onboarding-refresh-gratitude-subtitle = Dankon pro via uzo de { -brand-short-name }, la ununura granda retumilo subtenita de neprofitcela organizo. Kun via helpo ni laboras por igi la reton pli sekura kaj alirebla por ĉiuj.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } protektas vin
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Ŝanĝi iam ajn inter inteligentaj kaj klasikaj fenestroj.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Kondiĉoj de uzo de { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Por uzi { -smart-window-brand-name }, bonvolu akcepti la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> kaj la ĝisdatigitan <a data-l10n-name="privacy_notice">rimarkon pri privateco</a>.
+smartwindow-existing-user-fx-tou-accept = Akcepti
+smartwindow-existing-user-fx-tou-go-back = Iri reen
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Uzi { -smart-window-brand-name } kiel ĉefan retumilon
+smartwindow-onboarding-subtitle = Resumu, komparu kaj demandu sen perdi ritmon.
+smartwindow-onboarding-primary-button = Daŭrigi
