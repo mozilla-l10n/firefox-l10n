@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Адкрытыя карткі
 sidebar-options-menu-button =
     .title = Адкрыць меню
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Змяніць памер бакавой панэлі
 
 ## Labels for sidebar history panel
 
@@ -238,6 +241,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Акно { $winID }
+sidebar-bookmarks-title = Закладкі
 
 ## Context for closing synced tabs when hovering over the items
 

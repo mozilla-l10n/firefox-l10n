@@ -305,6 +305,8 @@ launch-on-login-infobar-final-reject-button = Не, дзякуй
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-title = Адкрываць { -brand-short-name } пры наступным запуску камп'ютара?
+launch-on-login-spotlight-startup-checkbox = Запускаць { -brand-short-name } па ўключэнні камп'ютара
+launch-on-login-spotlight-pin-taskbar-checkbox = Замацаваць на панэлі заданняў
 
 ## Tail Fox Set Default Spotlight
 
