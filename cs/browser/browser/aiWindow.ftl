@@ -18,7 +18,7 @@ ai-window-toggleview-switch-private =
 
 ## Input CTA
 
-aiwindow-input-cta-submit-label-chat = Zeptejte se
+aiwindow-input-cta-submit-label-chat = Zeptat se
 aiwindow-input-cta-submit-label-navigate = Přejít
 aiwindow-input-cta-submit-label-search = Hledat
 aiwindow-input-cta-submit-label-stop = Zastavit

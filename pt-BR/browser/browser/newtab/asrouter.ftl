@@ -494,3 +494,8 @@ nova-early-access-share-feedback-link = Compartilhe sua opinião
     .accesskey = C
 nova-early-access-infobar-primary-button = Ok
     .accesskey = O
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Iniciar o { -brand-short-name } toda vez que entrar no Windows?
+app-exit-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } ao iniciar

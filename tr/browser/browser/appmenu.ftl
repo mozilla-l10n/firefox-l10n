@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Güncelleme yapılamadı: Sistem uyumsuz
 appmenuitem-banner-update-restart =
     .label = Güncelleme var: Yeniden başlat
+appmenu-nova-update-title = { -brand-short-name } tarayıcısını güncellemek için yeniden başlat
 appmenu-nova-fxa-sign-in = Giriş yap
 appmenuitem-new-tab =
     .label = Yeni sekme

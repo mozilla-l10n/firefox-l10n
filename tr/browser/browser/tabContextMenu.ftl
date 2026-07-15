@@ -63,7 +63,7 @@ pin-tab =
     .accesskey = S
 tab-context-pin-tab2 =
     .label = Sabitle
-    .accesskey = S
+    .accesskey = t
 unpin-tab =
     .label = Normal sekmeye dönüştür
     .accesskey = N
@@ -111,10 +111,13 @@ tab-context-close-multiple-tabs =
 # Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
 tab-context-close-multiple-tabs2 =
     .label = Çoklu kapat
-    .accesskey = o
+    .accesskey = k
 tab-context-close-duplicate-tabs =
     .label = Yinelenen sekmeleri kapat
     .accesskey = Y
+tab-context-close-duplicate-tabs2 =
+    .label = Bu sekmenin kopyalarını kapat
+    .accesskey = B
 tab-context-share-url =
     .label = Paylaş
     .accesskey = P
@@ -164,6 +167,15 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi taşı
+            [one] { $tabCount } sekmeyi taşı
+           *[other] { $tabCount } sekmeyi taşı
+        }
+    .accesskey = m
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
 tab-context-move-split-view =
     .label = Ayrık görünümü taşı

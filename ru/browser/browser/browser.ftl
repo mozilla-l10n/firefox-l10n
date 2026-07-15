@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Управление { -firefox-sug
 urlbar-result-menu-report-inaccurate-location2 = Сообщить о некорректном местоположении
 urlbar-result-menu-show-less-frequently2 = Показывать реже
 urlbar-result-menu-dont-show-weather-suggestions2 = Не показывать предложения о погоде
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Скрыть это предложение
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Удалить из истории
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Узнать больше
     .accesskey = б
@@ -1117,6 +1127,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Поиск по ключевым словам отключён
 urlbar-searchmode-dropmarker2 =
     .title = Выберите поисковую систему
+urlbar-searchmode-bookmarks3 = Закладки
+    .accesskey = И
+urlbar-searchmode-tabs3 = Вкладки
+    .accesskey = Е
+urlbar-searchmode-history3 = Журнал
+    .accesskey = Р
+urlbar-searchmode-actions3 = Действия
+    .accesskey = Ф
 urlbar-searchmode-bookmarks2 = Закладки
 urlbar-searchmode-tabs2 = Вкладки
 urlbar-searchmode-history2 = Журнал
@@ -1136,6 +1154,10 @@ urlbar-searchmode-popup-one-off-header = В этот раз искать в:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Искать в:
+urlbar-searchmode-popup-search-settings = Параметры поиска
+    .accesskey = Ы
+urlbar-searchmode-popup-settings = Настройки
+    .accesskey = Ы
 urlbar-searchmode-popup-search-settings-panelitem = Параметры поиска
 urlbar-searchmode-popup-settings-panelitem = Настройки
 
