@@ -18,6 +18,7 @@ experimental-features-ime-search-description = IME (Giriş Metodu Redaktoru) sta
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Şəkildə-Şəkil: vərəq dəyişdirəndə avtomatik aç
+experimental-features-auto-pip-description = Vərəqlər arasında keçid edərkən aktiv videolarda Şəkildə-Şəkili aktivləşdirir.
 experimental-features-group-developer-tools =
     .label = Tərtibatçı Alətləri
 experimental-features-group-customize-browsing =

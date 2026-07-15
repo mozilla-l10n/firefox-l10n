@@ -98,6 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Üdvözli az { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Mi a fontos Önnek?
+aiwindow-firstrun-model-title-v2 = Válasszon egy modellt a kezdéshez
 aiwindow-firstrun-model-subtitle = Válasszon egy modellt az { -smart-window-brand-name(case: "lower") } alapjául. Váltson bármikor.
 aiwindow-firstrun-model-fast-label = Gyors
 aiwindow-firstrun-model-fast-body = Gyorsan válaszol

@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Əlfəcinlər
+sidebar-menu-bookmarks-2 = Əlfəcinlər
 sidebar-menu-history =
     .label = Tarixçə
 sidebar-menu-synced-tabs =

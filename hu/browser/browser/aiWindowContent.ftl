@@ -20,6 +20,8 @@ smartwindow-assistant-error-generic-header = Hiba történt, próbálja újra.
 smartwindow-assistant-error-budget-header = Elérte a mai csevegési korlátot.
 smartwindow-assistant-error-account-header = Az { -smart-window-brand-name } használatához be kell jelentkeznie.
 smartwindow-assistant-error-capacity-header = A { -smart-window-brand-name(case: "lower") } elérte a korlátját. Próbálja újra később.
+smartwindow-assistant-error-budget-body = Ebben az ablakban továbbra is böngészhet. A csevegés újra elérhető lesz, amint a napi korlát visszaáll.
+smartwindow-assistant-error-many-requests-header = Várjon egy kicsit, és próbálja újra. Rövid időn belül túl sok üzenet lett elküldve.
 smartwindow-assistant-error-max-length-header = Itt az ideje, hogy új csevegést kezdjen. Ez elérte a hosszkorlátját.
 smartwindow-assistant-error-request-blocked-header = Az { -smart-window-brand-name } nem tudta elérni a kiszolgálót. Próbáljon ki egy másik hálózatot, vagy tiltsa le a VPN-t.
 # Variables:
@@ -31,6 +33,8 @@ smartwindow-signin-btn = Bejelentkezés
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Használt memóriák
+aiwindow-memories-callout-description = A memóriák segítettek a válasz személyre szabásában.
 aiwindow-memories-learn-more = További tudnivalók
 aiwindow-manage-memories =
     .label = Memóriabeállítások
