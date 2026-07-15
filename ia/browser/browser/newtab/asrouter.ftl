@@ -494,3 +494,7 @@ nova-early-access-share-feedback-link = Condivide commentos
     .accesskey = C
 nova-early-access-infobar-primary-button = Comprendite
     .accesskey = C
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-primary-button = Salvar e clauder { -brand-short-name }

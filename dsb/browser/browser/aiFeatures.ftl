@@ -17,6 +17,9 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Standardne nastajenja
+ai-window-smart-cursor-in-smart-window =
+    .label = Zwězanja pokazaś, gaž se tekst wuběra
+    .description = Dostańśo malsny pśistup, aby zespominał, wujasnjował a wěcej.
 smart-window-model-learn-link = Zgóńśo wěcej wó modelach
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

@@ -1103,6 +1103,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Le recerca per parolas clave es disactivate
 urlbar-searchmode-dropmarker2 =
     .title = Seliger un Motor de recerca
+urlbar-searchmode-bookmarks3 = Marcapaginas
+    .accesskey = M
+urlbar-searchmode-tabs3 = Schedas
+    .accesskey = S
+urlbar-searchmode-history3 = Chronologia
+    .accesskey = C
+urlbar-searchmode-actions3 = Actiones
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Marcapaginas
 urlbar-searchmode-tabs2 = Schedas
 urlbar-searchmode-history2 = Chronologia
@@ -1122,6 +1130,8 @@ urlbar-searchmode-popup-one-off-header = Iste vice cerca con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Cercar con:
+urlbar-searchmode-popup-settings = Configurationes
+    .accesskey = C
 urlbar-searchmode-popup-search-settings-panelitem = Parametros de recerca
 urlbar-searchmode-popup-settings-panelitem = Parametros
 

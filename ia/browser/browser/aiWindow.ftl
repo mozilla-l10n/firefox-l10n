@@ -107,8 +107,13 @@ aiwindow-firstrun-model-fast-body = Responde rapidemente
 aiwindow-firstrun-model-chip-subtitle = Modello { $model } per { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibile
 aiwindow-firstrun-model-allpurpose-body = Solution valide pro le major parte del besonios
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Recommendate
 aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Responsas plus personalisate
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Create pro assistentia personalisate trans linguas.
 aiwindow-firstrun-button = Que nos va!
 aiwindow-firstrun-back-button = Retro
 aiwindow-firstrun-next-button = Sequente
@@ -119,6 +124,7 @@ aiwindow-input-model-select-button-label-fast = Veloce
 aiwindow-input-model-select-button-label-allpurpose = Flexibile
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Personalisate
+aiwindow-input-model-select-button-description-custom = Usa tu proprie GML
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
