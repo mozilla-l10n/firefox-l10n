@@ -251,3 +251,11 @@ aiwindow-ai-chat-grid-view-controls =
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
 aiwindow-starter-writing-first-draft = ی پؽش هؽل ٱولیه بنیویسین
+aiwindow-starter-writing-improve = بؽڌر کردن نوشتن
+aiwindow-starter-writing-proofread = آلشت ی پیوم
+aiwindow-starter-planning-simplify = ساڌه کردن ی سرتال
+aiwindow-starter-planning-brainstorm = ایده یل تۊفووݩ فرگی
+aiwindow-starter-planning-plan = هیاری و وورکل تئر
+aiwindow-starter-browsing-history = جوستن بلگه یل من ویرگار
+aiwindow-starter-browsing-summarize = خولاسه کردن بلگه یل
+aiwindow-starter-browsing-compare = موقایسه بلگه یل

@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privadesa
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Mots encreuats
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Accions
@@ -166,12 +169,44 @@ home-prefs-mission-message-learn-more-link-srd = Descobriu com
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Més informació
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Element de seguiment blocat avui
+       *[other] Elements de seguiment blocats avui
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] En { $count } lloc web
+       *[other] En { $count } llocs web
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = El { -brand-short-name } bloqueja els elements de seguiment mentre navegueu. Els veureu aquí.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = El { -brand-short-name } bloqueja els elements de seguiment automàticament mentre navegueu.
 newtab-privacy-message-info-1-cta = Mostra les proteccions
 newtab-privacy-message-info-2-cta = Mostra les proteccions
 newtab-privacy-message-info-3-cta = Mostra les proteccions
@@ -230,6 +265,9 @@ newtab-stocks-ticker-status-flat = { $name }, sense canvis, { $change }, { $pric
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Imatge del dia · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imatge del dia
 # Attribution line shown under the title once a picture loads: an author

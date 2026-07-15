@@ -497,3 +497,6 @@ nova-early-access-infobar-primary-button = Entesos
 ## App Exit Spotlight dialog
 
 app-exit-spotlight-title = Voleu iniciar el { -brand-short-name } cada vegada que inicieu la sessió a Windows?
+app-exit-spotlight-checkbox-launch-on-login = Obre el { -brand-short-name } a l'inici
+app-exit-spotlight-checkbox-pin-to-taskbar = Fixeu-lo a la barra de tasques
+app-exit-spotlight-primary-button = Desa i tanca el { -brand-short-name }

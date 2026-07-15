@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = دؽوۉداری { -firefox-suggest
 urlbar-result-menu-report-inaccurate-location2 = گوزارش جاگه نا دییق
 urlbar-result-menu-show-less-frequently2 = دؽر و دؽر تر نشووݩ بڌه
 urlbar-result-menu-dont-show-weather-suggestions2 = پؽشنهاڌا ٱو وو هوا ن نشووݩ مڌه
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = رڌ ای پؽشنهاڌ
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = وورداشتن ز ویرگار
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = قلوه دووسته بۊین
     .accesskey = L
@@ -959,6 +969,14 @@ urlbar-searchmode-button-no-engine2 =
     .title = ره نهنگی پسند نوابیڌه، ی ره نهنگ پسند کۊنین
 urlbar-searchmode-dropmarker2 =
     .title = پسند ی موتور پیتینیڌن
+urlbar-searchmode-bookmarks3 = نشووکا
+    .accesskey = B
+urlbar-searchmode-tabs3 = بلگه یل
+    .accesskey = T
+urlbar-searchmode-history3 = ویرگار
+    .accesskey = H
+urlbar-searchmode-actions3 = کارا
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = نشووکا
 urlbar-searchmode-tabs2 = بلگه یل
 urlbar-searchmode-history2 = ویرگار
@@ -978,6 +996,8 @@ urlbar-searchmode-popup-one-off-header = ای کرت پیتینیڌن وا:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = پیتینیڌن وا:
+urlbar-searchmode-popup-search-settings = پیتینیڌن سامووا
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = پیتینیڌن سامووا
 urlbar-searchmode-popup-settings-panelitem = سامووا
 

@@ -36,6 +36,7 @@ policy-Cookies = 允許或拒絕網站設定 Cookie。
 policy-Containers = 設定容器分頁相關政策。
 policy-DisableAccounts = 停用需要帳號才可使用的服務，包含 Sync。
 policy-DisabledCiphers = 停用加密演算法。
+policy-DefaultBrowserSettingEnabled = 控制使用者是否可將 { -brand-short-name } 設為預設瀏覽器。
 policy-DefaultDownloadDirectory = 設定預設下載資料夾。
 policy-DefaultSerialGuardSetting = 控制是否開放使用 Serial API。
 policy-DisableAppUpdate = 防止瀏覽器更新。

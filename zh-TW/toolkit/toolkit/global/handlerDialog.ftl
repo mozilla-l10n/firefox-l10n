@@ -87,6 +87,7 @@ choose-dialog-privatebrowsing-disabled = 已於隱私瀏覽視窗停用
 mailto-handler-picker-window =
     .title = 選擇您的電子郵件軟體
     .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = 請挑選您要用來開啟電子郵件鏈結的應用程式，之後可以隨時在「設定」中更換。
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
 mailto-handler-picker-always-ask = 當我點擊郵件鏈結時一律詢問我
