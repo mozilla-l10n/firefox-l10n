@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Administrar { -firefox-suggest-bran
 urlbar-result-menu-report-inaccurate-location2 = Informar ubicación inexacta
 urlbar-result-menu-show-less-frequently2 = Mostrar menos frecuentemente
 urlbar-result-menu-dont-show-weather-suggestions2 = No mostrar sugerencias de clima
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Ignorar esta sugerencia
+    .accesskey = I
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Eliminar del Historial
+    .accesskey = E
 urlbar-result-menu-learn-more =
     .label = Conocer más
     .accesskey = C
@@ -1106,6 +1116,14 @@ urlbar-searchmode-no-keyword2 =
     .title = La búsqueda por palabra clave está deshabilitada
 urlbar-searchmode-dropmarker2 =
     .title = Elegir un buscador
+urlbar-searchmode-bookmarks3 = Marcadores
+    .accesskey = d
+urlbar-searchmode-tabs3 = Pestañas
+    .accesskey = t
+urlbar-searchmode-history3 = Historial
+    .accesskey = H
+urlbar-searchmode-actions3 = Acciones
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Marcadores
 urlbar-searchmode-tabs2 = Pestañas
 urlbar-searchmode-history2 = Historial
@@ -1125,6 +1143,8 @@ urlbar-searchmode-popup-one-off-header = Esta vez buscar con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-settings = Configuración
+    .accesskey = g
 urlbar-searchmode-popup-search-settings-panelitem = Configuración de búsqueda
 urlbar-searchmode-popup-settings-panelitem = Configuración
 

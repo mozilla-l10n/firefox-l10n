@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privacidad
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Crucigrama
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Acciones
@@ -486,6 +489,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Editar
+newtab-menu-add-topsite = Agregar nuevo acceso directo
 newtab-menu-open-new-window = Abrir en nueva ventana
 newtab-menu-open-new-private-window = Abrir en nueva ventana privada
 newtab-menu-dismiss = Descartar

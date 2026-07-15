@@ -102,13 +102,22 @@ aiwindow-firstrun-model-title-v2 = Elija un modelo para empezar
 aiwindow-firstrun-model-subtitle-v2 = Cada modelo puede ayudar a resumir, comparar y explorar todas tus pestañas. Se puede cambiar en cualquier momento.
 aiwindow-firstrun-model-fast-label = Rápido
 aiwindow-firstrun-model-fast-body = Responde rápidamente
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexible
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexible: { $shortName }
+aiwindow-firstrun-model-flexible-body = Listo para una variedad de tareas
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Recomendado
 aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Respuestas más a medida
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
 aiwindow-firstrun-button = Vamos
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente
@@ -119,6 +128,7 @@ aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexible
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Personalizado
+aiwindow-input-model-select-button-description-custom = Usar un LLM propio
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -306,3 +316,17 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Cambiar modo: Vista de grilla
     .tooltiptext = Vista de grilla
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Escribir un primer borrador
+aiwindow-starter-writing-improve = Mejorar la escritura
+aiwindow-starter-planning-simplify = Simplificar un tema
+aiwindow-starter-planning-plan = Ayudar a hacer un plan
+aiwindow-starter-browsing-history = Buscar pestañas en el historial
+aiwindow-starter-browsing-summarize = Resumir pestañas
+aiwindow-starter-browsing-compare = Comparar pestañas
