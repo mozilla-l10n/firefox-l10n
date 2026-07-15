@@ -7,6 +7,13 @@
 ### will show these strings in about:settings.
 
 
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Altere icones
+
 ## Icons are organized into two groups: "Standard" and "Special". The icons in
 ## the "Special" group only become available when the user has set the browser
 ## as the default and pinned its launcher to the taskbar.
