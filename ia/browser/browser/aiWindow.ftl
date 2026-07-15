@@ -114,6 +114,7 @@ aiwindow-firstrun-model-allpurpose-label = Flexibile
 aiwindow-firstrun-model-allpurpose-body = Solution valide pro le major parte del besonios
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexibile: { $shortName }
+aiwindow-firstrun-model-flexible-body = Preste pro plure activitates.
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Recommendate
 aiwindow-firstrun-model-personal-label = Personal
@@ -322,3 +323,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Cambiar modalitate: visualisation a grillia
     .tooltiptext = Visualisation a grillia
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Scriber un prime minuta
+aiwindow-starter-writing-improve = Meliora le scriptura
+aiwindow-starter-writing-proofread = Revider un message
+aiwindow-starter-planning-simplify = Simplificar un thema
+aiwindow-starter-planning-brainstorm = Liberemente exponer ideas
+aiwindow-starter-planning-plan = Adjutar a facer un plano
+aiwindow-starter-browsing-history = Trovar schedas in chronologia
+aiwindow-starter-browsing-summarize = Resumer schedas
+aiwindow-starter-browsing-compare = Comparar schedas

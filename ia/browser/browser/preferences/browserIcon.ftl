@@ -6,6 +6,14 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Icone del navigator
+    .description = Elige un icone personalisate pro tu barra del cargas, scriptorio e menu initial.
+appearance-browser-icon-button =
+    .label = Cambiar icone del navigator
 
 ## Strings for the "Browser icon" sub-page (Windows only), opened from the
 ## "Change browser icon" button in the Appearance settings. The sub-page lets
@@ -25,6 +33,9 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Completar e disblocar icones premio del vulpe pro personalisar { -brand-short-name }.
 appearance-browser-icon-set-default-button =
     .label = Configurar como predefinite
 appearance-browser-icon-pin-button =
@@ -47,3 +58,8 @@ appearance-browser-icon-kit =
     .label = Kit
 appearance-browser-icon-pixelated =
     .label = Pixelate
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Create per @heyheymomodraws

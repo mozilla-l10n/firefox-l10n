@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Compactar (non supportate)
 customize-mode-undo-cmd =
     .label = Disfacer
+customize-mode-uidensity-link = Configurationes de densitate del fenestra
 customize-mode-lwthemes-link-2 = Gerer themas
 customize-mode-lwthemes-link = Gerer le themas
 customize-mode-touchbar-cmd =

@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Gerer { -firefox-suggest-brand-name
 urlbar-result-menu-report-inaccurate-location2 = Reportar un localisation inexacte
 urlbar-result-menu-show-less-frequently2 = Monstrar minus frequentemente
 urlbar-result-menu-dont-show-weather-suggestions2 = Non monstrar suggestiones meteorologic
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Rejectar iste suggestion
+    .accesskey = j
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Remover del chronologia
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Pro saper plus
     .accesskey = s
@@ -1130,6 +1140,8 @@ urlbar-searchmode-popup-one-off-header = Iste vice cerca con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Cercar con:
+urlbar-searchmode-popup-search-settings = Parametros de recerca
+    .accesskey = P
 urlbar-searchmode-popup-settings = Configurationes
     .accesskey = C
 urlbar-searchmode-popup-search-settings-panelitem = Parametros de recerca

@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Gestiona el { -firefox-suggest-bran
 urlbar-result-menu-report-inaccurate-location2 = Informa d’una ubicació incorrecta
 urlbar-result-menu-show-less-frequently2 = Mostra-ho menys sovint
 urlbar-result-menu-dont-show-weather-suggestions2 = No mostris la informació meteorològica
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Descarta aquest suggeriment
+    .accesskey = e
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Suprimeix de l'historial
+    .accesskey = u
 urlbar-result-menu-learn-more =
     .label = Més informació
     .accesskey = M
@@ -1103,6 +1113,14 @@ urlbar-searchmode-no-keyword2 =
     .title = La cerca de paraules clau està desactivada
 urlbar-searchmode-dropmarker2 =
     .title = Trieu un motor de cerca
+urlbar-searchmode-bookmarks3 = Adreces d'interès
+    .accesskey = A
+urlbar-searchmode-tabs3 = Pestanyes
+    .accesskey = P
+urlbar-searchmode-history3 = Historial
+    .accesskey = H
+urlbar-searchmode-actions3 = Accions
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Adreces d'interès
 urlbar-searchmode-tabs2 = Pestanyes
 urlbar-searchmode-history2 = Historial
@@ -1122,6 +1140,10 @@ urlbar-searchmode-popup-one-off-header = Aquesta vegada, cerca amb:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Cerca amb:
+urlbar-searchmode-popup-search-settings = Cerca paràmetres
+    .accesskey = C
+urlbar-searchmode-popup-settings = Paràmetres
+    .accesskey = P
 urlbar-searchmode-popup-search-settings-panelitem = Paràmetres de cerca
 urlbar-searchmode-popup-settings-panelitem = Paràmetres
 

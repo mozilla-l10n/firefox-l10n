@@ -117,6 +117,11 @@ sidebar-item-session-history = Chronologia de session
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Monstrar datos de chronologia de session
+# Title (tooltip) for the clickable Session History diagram column headers, which
+# navigate the inspected page to that entry in its session history.
+# Variables:
+#   $index (number) - The session history index that will be navigated to.
+session-history-navigate-button-title = Navigar a entrata { $index } del chronologia de session
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = Diagramma del chronologia de session indisponibile
 # Text displayed for when the target does not support showing session history diagrams

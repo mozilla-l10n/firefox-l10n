@@ -84,6 +84,17 @@ choose-dialog-privatebrowsing-disabled = Disactivate in fenestras private
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Elige tu app de e-mail
+mailto-handler-picker-subtitle = Elige le application que tu amarea usar pro ligamines a adresses e-mail. Tu pote cambiar lo plus tarde in Configurationes.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Sempre demanda me quando io clicca un ligamine de e-mail
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Render predefinite
+    .accesskey = R
 # Dismisses the picker without choosing an email app for now.
 mailto-handler-picker-not-now =
     .label = Non ora

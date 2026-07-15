@@ -493,3 +493,7 @@ nova-early-access-share-feedback-link = Comparteix els comentaris
     .accesskey = C
 nova-early-access-infobar-primary-button = Entesos
     .accesskey = E
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Voleu iniciar el { -brand-short-name } cada vegada que inicieu la sessió a Windows?

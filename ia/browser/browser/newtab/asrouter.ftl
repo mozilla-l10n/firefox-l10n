@@ -497,4 +497,7 @@ nova-early-access-infobar-primary-button = Comprendite
 
 ## App Exit Spotlight dialog
 
+app-exit-spotlight-title = Lancear { -brand-short-name } cata vice que tu accede a Windows?
+app-exit-spotlight-checkbox-launch-on-login = Aperir { -brand-short-name } al initialisation
+app-exit-spotlight-checkbox-pin-to-taskbar = Fixar a tu barra del cargas
 app-exit-spotlight-primary-button = Salvar e clauder { -brand-short-name }
