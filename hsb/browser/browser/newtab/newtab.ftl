@@ -457,6 +457,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Wobdźěłać
+newtab-menu-add-topsite = Nowe zwjazanje přidać
 newtab-menu-open-new-window = W nowym woknje wočinić
 newtab-menu-open-new-private-window = W nowym priwatnym woknje wočinić
 newtab-menu-dismiss = Zaćisnyć
@@ -1108,6 +1109,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Přetorhnyć
     .title = Přetorhnyć
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Nalistuje nastajenja
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu wutworić

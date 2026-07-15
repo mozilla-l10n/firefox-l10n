@@ -1908,15 +1908,15 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Blokuj:
     .accesskey = B
 sitedata-option-block-cross-site-trackers =
-    .label = Ciasteczka śledzące między witrynami
+    .label = Śledzące między witrynami
 sitedata-option-block-cross-site-tracking-cookies =
-    .label = ciasteczka śledzące między witrynami
+    .label = Ciasteczka śledzące między witrynami
 sitedata-option-block-cross-site-cookies2 =
     .label = Izoluj ciasteczka między witrynami
 sitedata-option-block-cross-site-cookies =
     .label = Ciasteczka śledzące między witrynami i izoluj inne ciasteczka między witrynami
 sitedata-option-block-unvisited =
-    .label = nieodwiedzonych witryn
+    .label = Ciasteczka nieodwiedzonych witryn
 sitedata-option-block-all-cross-site-cookies =
     .label = Wszystkie ciasteczka między witrynami (może powodować niepoprawne działanie stron)
 sitedata-option-block-all =
@@ -1964,9 +1964,9 @@ cookie-banner-blocker-header = Blokowanie informacji o ciasteczkach
 cookie-banner-blocker-description = Kiedy witryna pyta, czy może używać ciasteczek w trybie prywatnym, { -brand-short-name } automatycznie odmawia za Ciebie. Działa tylko na obsługiwanych witrynach.
 cookie-banner-learn-more = Więcej informacji
 forms-handle-cookie-banners =
-    .label = Ograniczanie informacji o ciasteczkach
+    .label = Ogranicz informacje o ciasteczkach
 cookie-banner-blocker-checkbox-label =
-    .label = Automatyczne odrzucanie próśb o akceptację ciasteczek
+    .label = Automatycznie odrzucaj prośby o akceptację ciasteczek
 
 ## Search Section
 

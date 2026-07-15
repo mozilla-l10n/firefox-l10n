@@ -79,3 +79,11 @@ choose-app-btn =
 choose-other-app-window-title = Druhe nałoženje…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = W priwatnych woknach znjemóžnjeny
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = Wubjerće swoje e-mejlowe nałoženje
+    .style = min-width: 26em; min-height: 26em;
