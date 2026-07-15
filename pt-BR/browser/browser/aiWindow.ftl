@@ -100,6 +100,7 @@ aiwindow-firstrun-title = Boas-vindas ao { -smart-window-brand-name }
 aiwindow-firstrun-model-title = O que é importante para você?
 aiwindow-firstrun-model-title-v2 = Escolha um modelo para começar
 aiwindow-firstrun-model-subtitle = Escolha um modelo a usar no { -smart-window-brand-name }. Mude quando quiser.
+aiwindow-firstrun-model-subtitle-v2 = Cada modelo pode ajudar a resumir, comparar e explorar nas abas. Mude quando quiser.
 aiwindow-firstrun-model-fast-label = Rápido
 aiwindow-firstrun-model-fast-body = Responde rapidamente
 # $shortName (string) - The short name of the model version
@@ -333,6 +334,7 @@ aiwindow-starter-writing-first-draft = Escreva um primeiro rascunho
 aiwindow-starter-writing-improve = Aprimore a escrita
 aiwindow-starter-writing-proofread = Revise uma mensagem
 aiwindow-starter-planning-simplify = Simplifique um tópico
+aiwindow-starter-planning-brainstorm = Obtenha ideias
 aiwindow-starter-planning-plan = Me ajude a planejar
 aiwindow-starter-browsing-history = Procure abas no histórico
 aiwindow-starter-browsing-summarize = Resuma abas

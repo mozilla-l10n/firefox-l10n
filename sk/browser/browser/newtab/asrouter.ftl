@@ -497,3 +497,10 @@ nova-early-access-share-feedback-link = Zdieľať spätnú väzbu
     .accesskey = Z
 nova-early-access-infobar-primary-button = Rozumiem
     .accesskey = R
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Spustiť { -brand-short-name(case: "acc") } pri každom prihlásení do Windowsu?
+app-exit-spotlight-checkbox-launch-on-login = Otvoriť { -brand-short-name(case: "acc") } pri spustení
+app-exit-spotlight-checkbox-pin-to-taskbar = Pripnúť na panel úloh
+app-exit-spotlight-primary-button = Uložiť a zavrieť { -brand-short-name(case: "acc") }

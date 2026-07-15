@@ -19,6 +19,7 @@ appmenuitem-banner-update-unsupported =
     .label = Nekompatibilní systém pro novou aktualizaci
 appmenuitem-banner-update-restart =
     .label = Nová aktualizace — restartovat
+appmenu-nova-update-description = Vaše panely se znovu otevřou.
 appmenu-nova-fxa-sign-in = Přihlásit se
 appmenu-nova-switch-device-promo =
     .message =

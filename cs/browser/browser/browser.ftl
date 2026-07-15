@@ -241,6 +241,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Spravovat { -firefox-suggest-brand-
 urlbar-result-menu-report-inaccurate-location2 = Nahlásit nepřesnou polohu
 urlbar-result-menu-show-less-frequently2 = Zobrazit méně často
 urlbar-result-menu-dont-show-weather-suggestions2 = Nezobrazovat návrhy počasí
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Odmítnout návrh
+    .accesskey = O
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Odebrat z historie
+    .accesskey = O
 urlbar-result-menu-learn-more =
     .label = Zjistit více
     .accesskey = Z
@@ -1218,6 +1228,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Vyhledávání pomocí klíčových slov je zakázáno
 urlbar-searchmode-dropmarker2 =
     .title = Vyberte vyhledávač
+urlbar-searchmode-bookmarks3 = Záložky
+    .accesskey = Z
+urlbar-searchmode-tabs3 = Panely
+    .accesskey = P
+urlbar-searchmode-history3 = Historie
+    .accesskey = H
+urlbar-searchmode-actions3 = Akce
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Záložky
 urlbar-searchmode-tabs2 = Panely
 urlbar-searchmode-history2 = Historie
@@ -1237,6 +1255,10 @@ urlbar-searchmode-popup-one-off-header = Vyhledat pomocí:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Vyhledat pomocí:
+urlbar-searchmode-popup-search-settings = Nastavení vyhledávání
+    .accesskey = N
+urlbar-searchmode-popup-settings = Nastavení
+    .accesskey = N
 urlbar-searchmode-popup-search-settings-panelitem = Nastavení vyhledávání
 urlbar-searchmode-popup-settings-panelitem = Nastavení
 

@@ -190,5 +190,31 @@ smart-window-default-promo-additional-button = Teď ne
 
 aiwindow-feedback-modal-title = Sdílet zpětnou vazbu
 aiwindow-feedback-what-worked-well = Co fungovalo dobře? Žádné osobní informace, prosím.
+aiwindow-feedback-add-details = Pokud chcete, přidejte podrobnosti. Žádné osobní informace, prosím.
 aiwindow-feedback-submit = Odeslat
 aiwindow-feedback-cancel = Zrušit
+aiwindow-feedback-reason-incorrect-or-misleading = Nesprávné nebo zavádějící
+aiwindow-feedback-reason-doesnt-address-my-request = Neřeší můj požadavek
+aiwindow-feedback-reason-lacks-personalization = Postrádá přizpůsobení či kontext
+aiwindow-feedback-reason-performance-or-usability = Problém s výkonem nebo použitelností
+aiwindow-feedback-reason-harmful-or-offensive = Škodlivé nebo urážlivé
+aiwindow-feedback-reason-other = Jiné
+aiwindow-feedback-preview-report = Zobrazit podrobnosti chatu
+aiwindow-feedback-preview-report-with-page = Zobrazí podrobnosti o chatu a stránce
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Změna rozložení zobrazení
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Napiš první koncept
+aiwindow-starter-writing-improve = Vylepši psaní
+aiwindow-starter-writing-proofread = Kontrola zprávy
+aiwindow-starter-planning-simplify = Zjednodušení tématu
+aiwindow-starter-browsing-compare = Porovnání panelů
