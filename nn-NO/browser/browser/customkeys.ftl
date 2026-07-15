@@ -10,12 +10,12 @@ customkeys-search = Søk:
 customkeys-change = Endre
 customkeys-reset = Tilbakestill
 customkeys-clear = Tøm
-customkeys-new-key = Trykk på ein ny tast:
+customkeys-new-key = Trykk på ny hurtigtast:
 customkeys-reset-all = Tilbakestill alle snarvegar til standard
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Denne tasten er allereie tildelt { $conflict }. Vil du erstatte han?
-customkeys-reset-all-confirm = Er du sikker på at du vil tilbakestille alle tastatursnarvegar til standardinnstilling?
+customkeys-reset-all-confirm = Er du sikker på at du vil stille tilbake alle hurtigtastar til standardinnstilling?
 customkeys-file-duplicate-tab = Dupliser fane
 customkeys-file-focus-search = Fokuser på søkjefeltet
 customkeys-history-reopen-tab = Opne siste attlatne fane
