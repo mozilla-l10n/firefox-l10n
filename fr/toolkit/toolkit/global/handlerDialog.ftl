@@ -87,10 +87,10 @@ choose-dialog-privatebrowsing-disabled = Désactivé dans les fenêtres privées
 mailto-handler-picker-window =
     .style = min-width: 26em; min-height: 26em;
     .title = Choisissez votre application pour les e-mails
-mailto-handler-picker-subtitle = Choisissez l’application que vous souhaitez utiliser pour les liens vers les e-mails. Vous pouvez modifier ce choix depuis les paramètres.
+mailto-handler-picker-subtitle = Choisissez l’application que vous souhaitez utiliser pour les liens d’e-mails. Vous pouvez modifier ce choix depuis les paramètres.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
-mailto-handler-picker-always-ask = Toujours demander lorsque je clique sur le lien d’un message
+mailto-handler-picker-always-ask = Toujours me demander lorsque je clique sur un lien d’adresse e-mail
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Définir par défaut
