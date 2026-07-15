@@ -36,6 +36,7 @@ policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
 policy-Containers = Beleid met betrekking tot containers instellen.
 policy-DisableAccounts = Accountgebaseerde services uitschakelen, waaronder synchronisatie.
 policy-DisabledCiphers = Coderingssuites uitschakelen.
+policy-DefaultBrowserSettingEnabled = Bepalen of de gebruiker { -brand-short-name } kan instellen als de standaardbrowser.
 policy-DefaultDownloadDirectory = Standaard downloadmap instellen.
 policy-DefaultSerialGuardSetting = Gebruik van de seriële API beheren.
 policy-DisableAppUpdate = Voorkomen dat de browser wordt bijgewerkt.

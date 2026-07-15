@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privacy
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Kruiswoordraadsel
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aandelen
@@ -488,6 +491,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Bewerken
+newtab-menu-add-topsite = Nieuwe snelkoppeling toevoegen
 newtab-menu-open-new-window = Openen in een nieuw venster
 newtab-menu-open-new-private-window = Openen in een nieuw privévenster
 newtab-menu-dismiss = Sluiten
@@ -1135,6 +1139,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Annuleren
     .title = Annuleren
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Lijstopties
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Een nieuwe lijst aanmaken

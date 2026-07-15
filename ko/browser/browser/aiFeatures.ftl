@@ -107,3 +107,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .label = { $shortName }: 유연함
     .description = 다양한 작업에 유연하게 대응합니다. 전체 이름: { $ownerName }의 { $model }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: 맞춤형
+    .description = 다양한 언어로 맞춤형 도움을 제공하도록 설계되었습니다. 전체 이름: { $ownerName }의 { $model }

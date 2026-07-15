@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = { -smart-window-brand-name }에 오신 것을 환영합니다
 aiwindow-firstrun-model-title = 나에게 가장 중요한 기준은?
+aiwindow-firstrun-model-title-v2 = 시작할 모델을 선택하세요
 aiwindow-firstrun-model-subtitle = { -smart-window-brand-name }를 제공할 모델을 선택하세요. 언제든지 전환할 수 있습니다.
+aiwindow-firstrun-model-subtitle-v2 = 각 모델은 탭을 요약, 비교, 탐색하는 데 도움을 줄 수 있습니다. 언제든지 전환할 수 있습니다.
 aiwindow-firstrun-model-fast-label = 빠름
 aiwindow-firstrun-model-fast-body = 신속한 답변
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = 빠름: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = 급하게 빠른 답변이 필요할 때 가장 적합
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $ownerName }의 { $model } 모델
 aiwindow-firstrun-model-allpurpose-label = 유연함
 aiwindow-firstrun-model-allpurpose-body = 대부분의 작업에 적합
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = 유연함: { $shortName }
+aiwindow-firstrun-model-flexible-body = 다양한 작업에 유연하게 대응
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = 추천
 aiwindow-firstrun-model-personal-label = 맞춤형
 aiwindow-firstrun-model-personal-body = 나에게 최적화된 답변
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = 맞춤형: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = 다양한 언어로 맞춤형 도움을 제공
 aiwindow-firstrun-button = 시작하기
 aiwindow-firstrun-back-button = 뒤로
 aiwindow-firstrun-next-button = 다음
