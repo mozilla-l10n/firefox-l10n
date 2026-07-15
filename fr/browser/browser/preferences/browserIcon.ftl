@@ -55,9 +55,9 @@ appearance-browser-icon-minimal =
     .label = Minimale
 # Kit is the name of the new Firefox mascot, it shouldn't be translated.
 appearance-browser-icon-kit =
-    .label = Trousse
+    .label = Kit
 appearance-browser-icon-pixelated =
-    .label = Pixélisé
+    .label = Pixélisée
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
