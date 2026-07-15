@@ -230,6 +230,7 @@ newtab-privacy-message-info-11 = გამოარკვიეთ, თუ რ�
 newtab-privacy-message-info-11-cta = ვრცლად
 newtab-privacy-message-info-12 = მეთვალყურეების შეზღუდვა გამტარუნარიანობასაც ზოგავს გასახარჯ მონაცემთა გეგმებით სარგებლობისას.
 newtab-privacy-message-info-12-cta = დაცვის შესახებ
+newtab-privacy-message-info-13 = { -brand-short-name } ზღუდავს მეთვალყურეებს და ათავისუფლებს გამტარუნარიანობას მონაცემთა შეუფერხებელი მიმოცვლისთვის.
 newtab-privacy-message-info-13-cta = დაცვის შესახებ
 
 ## Privacy widget — promotional messages
@@ -237,8 +238,11 @@ newtab-privacy-message-info-13-cta = დაცვის შესახებ
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = გაარკვიეთ, თქვენ შესახებ ცნობები ხომ არ გამჟღავნებულა მონაცემთა მიტაცებისას.
 newtab-privacy-message-promo-monitor-1-cta = ვრცლად
+newtab-privacy-message-promo-monitor-2 = დაიცავით თქვენი ინფორმაცია მონაცემთა მიტაცების შემთხვევებზე უფასო თვალის მიდევნებით, ელფოსტის 20-მდე მისამართისთვის.
 newtab-privacy-message-promo-monitor-2-cta = ვრცლად
+newtab-privacy-message-promo-signin-1 = დაშიფრულად შეინახეთ სანიშნები, პაროლები და ჩანართები ყველა მოწყობილობაზე თქვენი { -vendor-short-name }-ანგარიშით.
 newtab-privacy-message-promo-signin-1-cta = შესვლა
 newtab-privacy-message-promo-vpn-1 = საყიდლებისთვის გსურთ გამოიყენოთ საჯარო WiFi? ჩართეთ ჩაშენებული VPN დამატებითი დაცვისთვის.
 newtab-privacy-message-promo-vpn-1-cta = გახსენით VPN
@@ -292,20 +296,72 @@ newtab-privacy-message-milestone-total =
        *[other] { $count } მეთვალყურე შეიზღუდა. არსებითი წინსვლაა თქვენი პირადულობის უზრუნველყოფისკენ.
     }
 newtab-privacy-message-milestone-total-cta = დაცვის შესახებ
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ მეთვალყურე შეიზღუდა დღეს). ნაკლები მეთვალყურე მეტი პირადულობაა.
 newtab-privacy-message-daily-cap-cta = დაცვის შესახებ
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] უკვე დაცული ხართ ზედიზედ { $count } დღე.
+       *[other] უკვე დაცული ხართ ზედიზედ { $count } დღე.
+    }
 newtab-privacy-message-streak-cta = დაცვის შესახებ
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = განაგრძეთ მონახულება, { -brand-short-name } განაგრძობს შეზღუდვას.
 newtab-privacy-message-first-protection-cta = დაცვის შესახებ
 
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = ვრცლად
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = აქციების ჩანამატის გამართვა
+    .aria-label = აქციების ჩანამატის პარამეტრები
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = აქციები
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, ზრდა, { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, ვარდნა, { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, უცვლელი, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = დღის სურათი · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = დღის სურათი
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = იხილეთ ლიცენზია { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = დღის სურათის გამართვა
+    .aria-label = დღის სურათის პარამეტრები
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -433,6 +489,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = ჩასწორება
+newtab-menu-add-topsite = ახალი მალსახმობის დამატება
 newtab-menu-open-new-window = ახალ ფანჯარაში გახსნა
 newtab-menu-open-new-private-window = ახალ პირად ფანჯარაში გახსნა
 newtab-menu-dismiss = დამალვა
@@ -677,6 +734,12 @@ newtab-custom-widget-clock-toggle =
     .label = საათი
 newtab-custom-widget-sports-toggle2 =
     .label = სპორტი
+newtab-custom-widget-privacy-toggle =
+    .label = პირადულობა
+newtab-custom-widget-stocks-toggle =
+    .label = აქციები
+newtab-custom-widget-picture-toggle =
+    .label = დღის სურათი
 newtab-custom-widget-section-title = ჩანამატები
 newtab-custom-widget-section-toggle =
     .label = ჩანამატები
@@ -1073,6 +1136,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = გაუქმება
     .title = გაუქმება
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = სიების გამართვა
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + ახალი სიის შექმნა
@@ -1153,6 +1219,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = შეტყობინებების გამორთვა
 newtab-widget-timer-menu-notifications-on = შეტყობინებების ჩართვა
 newtab-widget-timer-menu-learn-more = ვრცლად
+newtab-widget-timer-menu-button =
+    .aria-label = წამმზომის გამართვა
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = რჩეული ამბები
 newtab-daily-briefing-card-menu-dismiss = აცილება
@@ -1267,6 +1335,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = მხოლოდ გამოწერილი გუნდები
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = იტვირთება სხვა შეხვედრები…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = ყურება
@@ -1346,11 +1416,38 @@ newtab-sports-widget-third-place = მესამეადგილოსან
 newtab-sports-widget-runner-up = მეორეადგილოსანი
 newtab-sports-widget-champions = გამარჯვებული
 newtab-sports-widget-world-cup-champions = 2026 მსოფლიოს გამარჯვებულები
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = 2026 გამარჯვებულები
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = ძირითადი
+newtab-sports-widget-match-halftime = შესვენება
+newtab-sports-widget-match-extra-time = დამატებითი
 newtab-sports-widget-match-penalties = თერთმეტმეტრიანები
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = და
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = არ გამოგრჩეთ მომავალი შეხვედრის ცნობები
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .title = წინა
+    .aria-label = წინა
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .title = შემდეგი
+    .aria-label = შემდეგი
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = პირდ. შეხვედრა { $index }, სულ { $total }
+    .title = პირდ. შეხვედრა { $index }, სულ { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1411,6 +1508,8 @@ newtab-sports-widget-team-name-label-eng =
     .label = ინგლისი
 newtab-sports-widget-team-name-label-sco =
     .label = შოტლანდია
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = გამოსავლენია
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
@@ -1418,12 +1517,22 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-wallpapers-title = აღნიშნეთ მსოფლიო თასის დაწყება ახალი ფონებით
 newtab-sports-widget-message-wallpapers-body = გადმოიტანეთ ყოველი თამაშის დღის მუხტი ბრაუზერში შეჯიბრების მიმდინარეობისას.
 newtab-sports-widget-message-wallpapers-cta = ფონის არჩევა
+newtab-sports-widget-message-wallpapers-semifinals-title = ახალი ფონი ნახევარფინალებისთვის
+newtab-sports-widget-message-wallpapers-semifinals-body = კარგად მოეწყვეთ მსოფლიო პირველობის უდიდესი თამაშებისთვის.
 newtab-sports-widget-message-add-widgets-cta =
     .label = ჩანამატის დამატება
 newtab-sports-widget-message-day-in-play-title = გაიხალისეთ დღე ჩანამატებით, რომელთაც გთავაზობთ { -brand-product-name }
 newtab-sports-widget-message-day-in-play-body = თვალი ადევნეთ მსოფლიო თასს, მიმართეთ ყურადღება საქმისკენ, იხილეთ მსოფლიოს სხვადასხვა სასაათე სარტყელი და ა. შ.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = მოიძიეთ ჩანამატები
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = დაგვეხმარეთ ჩანამატების გაუმჯობესებაში
+newtab-sports-widget-message-survey-widget-title = როგორ მოგეწონათ მსოფლიო თასის ჩანამატი?
+newtab-sports-widget-message-survey-widget-body = გამოგვეხმაურეთ მომავალი ჩანამატების დასახვეწად. შემდეგ კი მოსინჯეთ რიგ-რიგობით.
+newtab-sports-widget-message-survey-cta =
+    .label = კითხვარის შევსება
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

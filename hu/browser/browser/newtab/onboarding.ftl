@@ -601,15 +601,21 @@ onboarding-refresh-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Számíthat a { -brand-short-name } böngészőre
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Váltson bármikor az intelligens és a klasszikus ablakok között.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = A { -brand-product-name } felhasználási feltételei
+smartwindow-existing-user-fx-tou-body = Az { -smart-window-brand-name(case: "lower") } használatához fogadja el a <a data-l10n-name="terms_of_use">Felhasználási feltételeket</a> és a frissített <a data-l10n-name="privacy_notice">Adatvédelmi nyilatkozatot</a>.
 smartwindow-existing-user-fx-tou-accept = Elfogadás
 smartwindow-existing-user-fx-tou-go-back = Ugrás vissza
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Legyen az { -smart-window-brand-name(case: "lower") } a kedvence
 smartwindow-onboarding-primary-button = Folytatás
 
 ## Smart Window Sidebar Auto-Open Pref

@@ -105,7 +105,7 @@ aiwindow-firstrun-model-fast-label = Rapide
 aiwindow-firstrun-model-fast-body = Réponses rapides
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rapide : { $shortName }
-aiwindow-firstrun-model-fast-body-v2 = Meilleur pour obtenir des réponses rapides lorsque vous agissez rapidement
+aiwindow-firstrun-model-fast-body-v2 = Idéal pour obtenir des réponses rapides lorsque vous devez gagner du temps
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -114,7 +114,7 @@ aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-allpurpose-body = Répond à la plupart des besoins
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexible : { $shortName }
-aiwindow-firstrun-model-flexible-body = Prêt pour une variété de tâches
+aiwindow-firstrun-model-flexible-body = Adapté à toutes sortes de tâches
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Recommandé
 aiwindow-firstrun-model-personal-label = Personnel

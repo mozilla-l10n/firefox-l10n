@@ -103,10 +103,10 @@ ai-window-memory-delete-button =
 
 smart-window-model-fast-v2 =
     .label = { $shortName } : rapide
-    .description = Privilégier des réponses rapides lorsque la rapidité compte. Nom complet : { $model } par { $ownerName }
+    .description = Idéal pour obtenir des réponses rapides lorsque vous devez gagner du temps. Nom complet : { $model } par { $ownerName }
 smart-window-model-flexible-v2 =
-    .label = { $shortName } : Flexible
-    .description = Prêt·e pour une variété de tâches. Nom complet : { $model } par { $ownerName }
+    .label = { $shortName } : flexible
+    .description = Adapté à toutes sortes de tâches. Nom complet : { $model } par { $ownerName }
 smart-window-model-personal-v2 =
-    .label = { $shortName } : Personnel
-    .description = Conçu pour offrir une aide personnalisée dans toutes les langues. Nom complet : { $model } par { $ownerName }
+    .label = { $shortName } : personnel
+    .description = Conçu pour offrir une aide personnalisée dans plusieurs langues. Nom complet : { $model } par { $ownerName }

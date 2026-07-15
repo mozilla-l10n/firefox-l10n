@@ -26,17 +26,44 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Asszisztens automatikus megnyitása
     .description = Az asszisztens oldalsáv megjelenítése minden új lapon. Zárja be bármikor.
+ai-window-smart-cursor-in-smart-window =
+    .label = Gyorsindítók megjelenítése szöveg kijelölésekor
+    .description = Kapjon gyors hozzáférést az összegzéshez, magyarázathoz és egyebekhez.
+smart-window-model-section =
+    .label = Asszisztens modellje
+    .description = Válasszon egy modellt az alapján, hogy mi a fontos Önnek
+smart-window-model-learn-link = Tudjon meg többet a modellekről
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Gyors: gyorsan válaszol
+    .description = { $model } modell, gyártó: { $ownerName }
+smart-window-model-flexible =
+    .label = Rugalmas: a legtöbb igényhez illeszkedik
+    .description = { $model } modell, gyártó: { $ownerName }
+smart-window-model-personal =
+    .label = Személyes: leginkább személyre szabott válaszok
+    .description = { $model } modell, gyártó: { $ownerName }
+smart-window-model-custom =
+    .label = Egyéni: saját LLM használata
+smart-window-model-custom-name =
+    .label = Modell neve
+    .placeholder = Példa: glm4
+smart-window-model-custom-url =
+    .label = Modell végpontja
+    .placeholder = Példa: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = API-kulcs vagy hitelesítési token, ha szükséges
 smart-window-model-custom-info =
     .message = Ha egyéni modellt használ, akkor lehet, hogy az { -smart-window-brand-name(case: "lower") } nem a várt módon működik.
 smart-window-model-custom-more-link = További információk az egyéni modellekről
 smart-window-model-custom-save =
     .label = Mentés
+smart-window-model-custom-save-confirmation = A modell részletei mentve. Indítson új csevegést a teszteléshez.
 ai-window-memories-section =
     .label = Memóriák
     .description = A { -brand-short-name } tanulhat a tevékenységéből, hogy memóriákat hozzon létre. Arra használatosak, hogy személyre szabhassa a válaszokat, és ezek helyben vannak tárolva az eszközön.
@@ -68,3 +95,18 @@ ai-window-delete-all-memories-cancel = Mégse
 ai-window-memory-delete-button =
     .title = Memória törlése
     .aria-label = { $label } törlése
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Gyors
+    .description = A gyors válaszokhoz, amikor a sebesség számít. Teljes név: { $model }, gyártó: { $ownerName }.
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Rugalmas
+    .description = Különböző feladatokra alkalmas. Teljes név: { $model }, gyártó: { $ownerName }.
+smart-window-model-personal-v2 =
+    .label = { $shortName }: személyes
+    .description = Személyre szabott segítség több nyelven. Teljes név: { $model }, gyártó: { $ownerName }.

@@ -14,3 +14,12 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = Xeyr
     .accesskey = N
+# Variables:
+#   $addonName (String): localized named of the extension that was just installed.
+addon-post-install-message = { $addonName } əlavə edildi.
+
+## A modal confirmation dialog to allow an extension on quarantined domains.
+
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = { $addonName } məhdudlaşdırılmış saytlarda çalışdırılsın?

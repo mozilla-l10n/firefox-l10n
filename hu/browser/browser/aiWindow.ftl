@@ -283,6 +283,7 @@ aiwindow-feedback-modal-title = Visszajelzés megosztása
 aiwindow-feedback-what-worked-well = Mi működött jól? Ne adjon meg személyes adatokat.
 aiwindow-feedback-choose-any = Válassza ki a megfelelőt
 aiwindow-feedback-add-details = Adjon meg részleteket, ha szeretné. Ne adjon meg személyes adatokat.
+aiwindow-feedback-disclaimer = A visszajelzés beküldésével megosztja ezt a csevegést, hogy segítsen a { -brand-shorter-name }nak az { -smart-window-brand-name(case: "lower") } fejlesztésében. A többi csevegése privát marad. <a data-l10n-name="learn-more">További információk</a>
 aiwindow-feedback-submit = Elküldés
 aiwindow-feedback-cancel = Mégse
 aiwindow-feedback-reason-incorrect-or-misleading = Helytelen vagy félrevezető

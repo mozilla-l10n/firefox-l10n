@@ -166,7 +166,7 @@ action-log-searched-web-exa = Recherche effectuée sur le Web avec Exa
 action-log-checking-memories = Consultation des souvenirs
 action-log-checked-memories = Souvenirs consultés
 action-log-searching-settings = Recherche dans les paramètres
-action-log-searched-settings = Rechercher dans les paramètres effectuée
+action-log-searched-settings = Recherche dans les paramètres effectuée
 action-log-searching-world-cup-matches = Recherche des matchs de la Coupe du monde
 action-log-searched-world-cup-matches = Recherche des matchs de la Coupe du monde effectuée
 action-log-checking-world-cup-live = Vérification des matchs de la Coupe du monde en direct
@@ -175,8 +175,8 @@ action-log-checked-world-cup-live = Vérification des matchs de la Coupe du mond
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =
     { $count ->
-        [one] 1 étape terminée
-       *[other] { $count } étapes terminées
+        [one] 1 étape effectuée
+       *[other] { $count } étapes effectuées
     }
 
 ## Assistant Loader
