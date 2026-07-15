@@ -119,6 +119,7 @@ aiwindow-input-model-select-button-label-fast = Hurtig
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Personlig
 aiwindow-input-model-select-button-label-custom = Tilpasset
+aiwindow-input-model-select-button-description-custom = Bruk din egen LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -309,3 +310,11 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Bytt modus: Rutenettvisning
     .tooltiptext = Rutenettvisning
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Skriv et førsteutkast
