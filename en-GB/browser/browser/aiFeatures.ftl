@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Cancel
 ai-window-memory-delete-button =
     .title = Delete memory
     .aria-label = Delete { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Fast
+    .description = Best for quick answers when speed matters. Full name: { $model } by { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Flexible
+    .description = Ready for a variety of tasks. Full name: { $model } by { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Personal
+    .description = Built for personalised help across languages. Full name: { $model } by { $ownerName }

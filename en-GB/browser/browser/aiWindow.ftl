@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Welcome to { -smart-window-brand-name }
 aiwindow-firstrun-model-title = What’s important to you?
+aiwindow-firstrun-model-title-v2 = Pick a model to start
 aiwindow-firstrun-model-subtitle = Pick a model to power { -smart-window-brand-name }. Switch at any time.
+aiwindow-firstrun-model-subtitle-v2 = Each model can help you to summarise, compare and explore across your tabs. Switch at any time.
 aiwindow-firstrun-model-fast-label = Fast
 aiwindow-firstrun-model-fast-body = Answers quickly
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Fast: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Best for quick answers when you’re moving fast
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } by { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-allpurpose-body = Solid fit for most needs
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexible: { $shortName }
+aiwindow-firstrun-model-flexible-body = Ready for a variety of tasks
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Recommended
 aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Most tailored answers
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Built for personalised help across languages
 aiwindow-firstrun-button = Let’s go
 aiwindow-firstrun-back-button = Back
 aiwindow-firstrun-next-button = Next
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Fast
 aiwindow-input-model-select-button-label-allpurpose = Flexible
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Custom
+aiwindow-input-model-select-button-description-custom = Use your own LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -309,3 +323,17 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Switch mode: Grid View
     .tooltiptext = Grid View
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Write a first draft
+aiwindow-starter-writing-improve = Improve writing
+aiwindow-starter-writing-proofread = Proofread a message
+aiwindow-starter-planning-simplify = Simplify a topic
+aiwindow-starter-planning-brainstorm = Brainstorm ideas
+aiwindow-starter-planning-plan = Help make a plan
+aiwindow-starter-browsing-history = Find tabs in history
