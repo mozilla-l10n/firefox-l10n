@@ -6,41 +6,64 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-new-tab =
+    .label = Yeni Vərəq
+    .accesskey = w
 reload-tab =
-    .label = Vərəqi yenilə
-    .accesskey = Y
+    .label = Vərəqi Yenilə
+    .accesskey = R
+reload-tab2 =
+    .label = Yenilə
+    .accesskey = R
 select-all-tabs =
-    .label = Bütün vərəqləri seç
+    .label = Bütün Vərəqləri Seç
     .accesskey = S
 tab-context-play-tab =
     .label = Vərəqi Oxut
-    .accesskey = P
+    .accesskey = I
 tab-context-play-tabs =
     .label = Vərəqləri Oxut
     .accesskey = y
 duplicate-tab =
-    .label = Vərəqi çoxalt
+    .label = Vərəqi Çoxalt
+    .accesskey = D
+duplicate-tab2 =
+    .label = Çoxalt
     .accesskey = D
 duplicate-tabs =
     .label = Vərəqləri çoxalt
     .accesskey = D
+duplicate-tabs2 =
+    .label = Çoxalt
+    .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Soldakı Vərəqləri Qapat
+    .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Üstdəki Vərəqləri Qapat
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
-    .label = Sağdakı vərəqləri qapat
-    .accesskey = k
+    .label = Sağdakı Vərəqləri Qapat
+    .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = Altdakı Vərəqləri Qapat
+    .accesskey = i
 close-other-tabs =
-    .label = Digər vərəqləri qapat
-    .accesskey = B
+    .label = Digər Vərəqləri Qapat
+    .accesskey = o
 reload-tabs =
-    .label = Vərəqləri yenilə
+    .label = Vərəqləri Yenilə
     .accesskey = R
 pin-tab =
-    .label = Vərəqi bərkid
-    .accesskey = B
+    .label = Vərəqi Bərkit
+    .accesskey = P
 unpin-tab =
-    .label = Vərəqi çıxart
-    .accesskey = t
+    .label = Vərəqi Çıxart
+    .accesskey = p
 pin-selected-tabs =
     .label = Vərəqləri bərkid
     .accesskey = P

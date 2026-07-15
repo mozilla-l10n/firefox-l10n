@@ -120,6 +120,7 @@ aiwindow-firstrun-model-personal-label = Személyes
 aiwindow-firstrun-model-personal-body = Leginkább testreszabott válaszok
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Személyes: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Személyre szabott segítség több nyelven
 aiwindow-firstrun-button = Gyerünk!
 aiwindow-firstrun-back-button = Vissza
 aiwindow-firstrun-next-button = Tovább
@@ -130,6 +131,7 @@ aiwindow-input-model-select-button-label-fast = Gyors
 aiwindow-input-model-select-button-label-allpurpose = Rugalmas
 aiwindow-input-model-select-button-label-personal = Személyes
 aiwindow-input-model-select-button-label-custom = Egyéni
+aiwindow-input-model-select-button-description-custom = Saját LLM használata
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -152,12 +154,14 @@ aiwindow-firstrun-memories-privacy-title = Tervezett adatvédelem
 aiwindow-firstrun-memories-privacy-body = A memóriák ezen az eszközön vannak tárolva. Bármikor törölheti őket, vagy ki is kapcsolhatja.
 aiwindow-firstrun-memories-choose-label = Válassza ki, hogy az { -smart-window-brand-name(case: "lower") } miből tanuljon
 aiwindow-firstrun-memories-checkbox-chats = Csevegések az { -smart-window-brand-name(case: "lower") }ban
+aiwindow-firstrun-memories-checkbox-browsing = Böngészés a { -brand-product-name }szal
 aiwindow-firstrun-memories-update-settings = Frissítsen bármikor a beállításokban.
 aiwindow-firstrun-memories-no-create = Rendben. Az { -smart-window-brand-name(case: "lower") } nem hoz létre memóriákat. Frissítse bármikor a beállításokban.
 
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = Legyen az { -smart-window-brand-name(case: "lower") } a kedvence
+aiwindow-firstrun-default-subtitle = Böngésszen, keressen és kérdezzen egy helyen. Továbbra is megnyithatja a privát és a klasszikus ablakokat, amikor csak akarja.
 aiwindow-firstrun-default-checkbox-label = A { -brand-product-name } megnyitása mindig az { -smart-window-brand-name(case: "lower") }ban
 aiwindow-firstrun-default-checkbox-description = Váltson bármikor a beállításokban.
 
@@ -301,6 +305,7 @@ aiwindow-feedback-cancel = Mégse
 aiwindow-feedback-reason-incorrect-or-misleading = Helytelen vagy félrevezető
 aiwindow-feedback-reason-doesnt-address-my-request = Nem felel meg a kérésemnek
 aiwindow-feedback-reason-lacks-personalization = Hiányzik a személyre szabás és a kontextus
+aiwindow-feedback-reason-performance-or-usability = Teljesítménybeli vagy használhatósági probléma
 aiwindow-feedback-reason-harmful-or-offensive = Káros vagy sértő
 aiwindow-feedback-reason-other = Egyéb
 aiwindow-feedback-preview-report = Csevegés részleteinek megtekintése
