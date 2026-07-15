@@ -268,8 +268,29 @@ newtab-privacy-message-milestone-week =
        *[other] { $count } მეთვალყურე შეიზღუდა ამ კვირაში. ნახეთ, რისგან გიცავთ { -brand-short-name }
     }
 newtab-privacy-message-milestone-week-cta = დაცვის შესახებ
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } მეთვალყურე შეიზღუდა ამ თვეში. პატარა ნაბიჯი პირადულობისთვის სულიერი სიმშვიდისთვის.
+       *[other] { $count } მეთვალყურე შეიზღუდა ამ თვეში. პატარა ნაბიჯი პირადულობისთვის სულიერი სიმშვიდისთვის.
+    }
 newtab-privacy-message-milestone-month-cta = დაცვის შესახებ
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } მეთვალყურე შეიზღუდა წელს. მნიშვნელოვანი წელიწადი თქვენი პირადულობის დაცვისთვის.
+       *[other] { $count } მეთვალყურე შეიზღუდა წელს. მნიშვნელოვანი წელიწადი თქვენი პირადულობის დაცვისთვის.
+    }
 newtab-privacy-message-milestone-year-cta = დაცვის შესახებ
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } მეთვალყურე შეიზღუდა. არსებითი წინსვლაა თქვენი პირადულობის უზრუნველყოფისკენ.
+       *[other] { $count } მეთვალყურე შეიზღუდა. არსებითი წინსვლაა თქვენი პირადულობის უზრუნველყოფისკენ.
+    }
 newtab-privacy-message-milestone-total-cta = დაცვის შესახებ
 newtab-privacy-message-daily-cap-cta = დაცვის შესახებ
 newtab-privacy-message-streak-cta = დაცვის შესახებ

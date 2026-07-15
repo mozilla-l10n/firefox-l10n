@@ -98,6 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Üdvözli az { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Mi a fontos Önnek?
+aiwindow-firstrun-model-subtitle = Válasszon egy modellt az { -smart-window-brand-name(case: "lower") } alapjául. Váltson bármikor.
 aiwindow-firstrun-model-fast-label = Gyors
 aiwindow-firstrun-model-fast-body = Gyorsan válaszol
 # $model (string) - The name of the AI model
@@ -130,15 +131,22 @@ aiwindow-input-model-select-settings-link = Modellbeállítások
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Hasznosabb válaszok, az Ön feltételei szerint
+aiwindow-firstrun-memories-subtitle = Az { -smart-window-brand-name(case: "lower") } tanulhat a csevegésekből, a böngészésből vagy mindkettőből, és memóriákat hozhat létre. Idővel a válaszok hasznosabbá válnak.
 aiwindow-firstrun-memories-conversation-title = Folytassa a beszélgetést
 aiwindow-firstrun-memories-conversation-body = A csevegésekből tanulás azt jelenti, hogy kevesebbet kell ismételnie saját magát.
 aiwindow-firstrun-memories-relevance-title = Relevánsabb válaszok
+aiwindow-firstrun-memories-relevance-body = A böngészésből tanulva az { -smart-window-brand-name(case: "lower") } átfogóbb képet nyújt.
 aiwindow-firstrun-memories-privacy-title = Tervezett adatvédelem
 aiwindow-firstrun-memories-privacy-body = A memóriák ezen az eszközön vannak tárolva. Bármikor törölheti őket, vagy ki is kapcsolhatja.
+aiwindow-firstrun-memories-choose-label = Válassza ki, hogy az { -smart-window-brand-name(case: "lower") } miből tanuljon
+aiwindow-firstrun-memories-checkbox-chats = Csevegések az { -smart-window-brand-name(case: "lower") }ban
 aiwindow-firstrun-memories-update-settings = Frissítsen bármikor a beállításokban.
+aiwindow-firstrun-memories-no-create = Rendben. Az { -smart-window-brand-name(case: "lower") } nem hoz létre memóriákat. Frissítse bármikor a beállításokban.
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Legyen az { -smart-window-brand-name(case: "lower") } a kedvence
+aiwindow-firstrun-default-checkbox-label = A { -brand-product-name } megnyitása mindig az { -smart-window-brand-name(case: "lower") }ban
 aiwindow-firstrun-default-checkbox-description = Váltson bármikor a beállításokban.
 
 ## Ask Toolbar Button
@@ -166,6 +174,14 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Bezárás
     .tooltiptext = Bezárás
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = A szinkronizált adatok a fiókjában maradnak. A megnyitott { -smart-window-brand-name(case: "lower") }ok klasszikus ablakká változnak.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Váltás az { -smart-window-brand-name(case: "lower") }ra
 
 ## Fullpage Footer Actions
 
@@ -206,6 +222,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Térjen vissza a csevegéseihez
+firefoxview-chats-empty-description = Mivel { -smart-window-brand-name(case: "lower") }ot használ, a csevegései ide lesznek mentve.
 
 ## Count displayed in fxview chat search results
 
@@ -255,6 +272,8 @@ smartwindow-close-tab-callout-subtitle = Bármikor megnyithatja újra a lapokat 
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Az { -smart-window-brand-name(case: "lower") } használata alapértelmezetten?
+smart-window-default-promo-message = A { -brand-short-name } minden alkalommal { -smart-window-brand-name(case: "lower") }ban fog megnyílni.
 smart-window-default-promo-primary-button = Beállítás alapértelmezettként
 smart-window-default-promo-additional-button = Most nem
 

@@ -3,10 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Giriş və Parollar
+about-logins-page-title = Girişlər və Şifrələr
+about-logins-login-filter =
+    .placeholder = Girişlərdə axtar
+    .key = F
+create-new-login-button =
+    .title = Yeni giriş bilgisi yarat
+about-logins-page-title-name = Parollar
+about-logins-login-filter2 =
+    .placeholder = Parollarda axtar
+    .key = F
 create-login-button =
     .title = Parol əlavə et
 fxaccounts-sign-in-text = Parollarınız bütün cihazlarınızda sizinlə olsunlar
+fxaccounts-sign-in-sync-button = Sinxronlaşdırmaq üçün daxil olun
 fxaccounts-avatar-button =
     .title = Hesabı idarə et
 
@@ -16,6 +26,11 @@ menu =
     .title = Menyunu aç
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Digər səyyahdan daxil et…
+about-logins-menu-menuitem-import-from-a-file = Fayldan idxal et…
+about-logins-menu-menuitem-export-logins = Girişləri ixrac et…
+about-logins-menu-menuitem-remove-all-logins = Bütün giriş bilgilərini sil…
+about-logins-menu-menuitem-export-logins2 = Parolları ixrac et…
+about-logins-menu-menuitem-remove-all-logins2 = Bütün parolları sil…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Seçimlər
@@ -33,6 +48,21 @@ login-list-count =
     { $count ->
         [one] { $count } hesab
        *[other] { $count } hesab
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } parol
+       *[other] { $count } parol
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total } paroldan { $total } ədədi
+       *[other] { $total } paroldan { $total } ədədi
     }
 login-list-sort-label-text = Sırala:
 login-list-name-option = Ad (A-Z)
