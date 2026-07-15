@@ -256,18 +256,111 @@ newtab-privacy-message-promo-relay-2-cta = Ricevu maskojn
 newtab-privacy-message-promo-relay-3 = Ricevu 50 senpagajn retpoŝtajn maskojn por helpi gardi vian realan retpoŝtan adreson privata.
 newtab-privacy-message-promo-relay-3-cta = Ricevu maskojn
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } spurilo blokita dum tiu ĉi semajno. Malkovru kiel { -brand-short-name } protektas vian privatecon.
+       *[other] { $count } spuriloj blokitaj dum tiu ĉi semajno. Malkovru kiel { -brand-short-name } protektas vian privatecon.
+    }
+newtab-privacy-message-milestone-week-cta = Montri protektojn
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } spurilo blokita dum tiu ĉi monato. Eta paŝo por privateco, granda paŝo por mensa trankvilo.
+       *[other] { $count } spuriloj blokitaj dum tiu ĉi monato. Eta paŝo por privateco, granda paŝo por mensa trankvilo.
+    }
+newtab-privacy-message-milestone-month-cta = Montri protektojn
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } spurilo blokita dum tiu ĉi jaro. Tiu estas elstara jaro por la protekto de via privateco.
+       *[other] { $count } spuriloj blokitaj dum tiu ĉi jaro. Tiu estas elstara jaro por la protekto de via privateco.
+    }
+newtab-privacy-message-milestone-year-cta = Montri protektojn
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } spurilo blokita. Tio estas granda progreso al privateco, laŭ viaj propraj reguloj.
+       *[other] { $count } spuriloj blokitaj. Tio estas granda progreso al privateco, laŭ viaj propraj reguloj.
+    }
+newtab-privacy-message-milestone-total-cta = Montri protektojn
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ spuriloj blokitaj hodiaŭ.) Malpli da spuriloj signifas pli da privateco.
+newtab-privacy-message-daily-cap-cta = Montri protektojn
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Vi estis protektita dum { $count } tago.
+       *[other] Vi estis protektita dum { $count } sinsekvaj tagoj.
+    }
+newtab-privacy-message-streak-cta = Montri protektojn
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Vi plu retumu, { -brand-short-name } plu blokos.
+newtab-privacy-message-first-protection-cta = Montri protektojn
+
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = Serĉi simbolojn pri akcioj
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Pli da informo
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Ebloj por akciaj komponantoj
+    .aria-label = Ebloj por akciaj komponantoj
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Akcioj
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, supreniras { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, malsupreniras { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, senŝanĝa, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Bildo de la tago · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Bildo de la tago
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Vidu la permesilon { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Ebloj por la bildo de la tago
+    .aria-label = Ebloj por la bildo de la tago
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -638,6 +731,10 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sporto
 newtab-custom-widget-privacy-toggle =
     .label = Privateco
+newtab-custom-widget-stocks-toggle =
+    .label = Akcioj
+newtab-custom-widget-picture-toggle =
+    .label = Bildo de la tago
 newtab-custom-widget-section-title = Komponantoj
 newtab-custom-widget-section-toggle =
     .label = Komponantoj
@@ -1427,6 +1524,10 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = Helpu nin plibonigi komponantojn
+newtab-sports-widget-message-survey-body = La mondpokalo finiĝis. Rakontu al ni via via sperto.
+newtab-sports-widget-message-survey-widget-title = Kia estis la komponanton de la mondpokalo?
+newtab-sports-widget-message-survey-widget-body = Komenti por helpi nin plibonigi estontajn komponantojn. Poste, provu la venontan en via listo.
 newtab-sports-widget-message-survey-cta =
     .label = Respondi enketon
 

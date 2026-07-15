@@ -62,9 +62,20 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Tiu ĉi trajto estas eksperimenta kaj ĝi povus ne funkcii kiel oni atendas.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Nevalida
+customkeys-shortcut-unassigned =
+    .placeholder = Aldoni ŝparvojon
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Ŝparvojo por: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Modifi
+    .tooltiptext = Modifi
 customkeys-key-clear =
     .aria-label = Viŝi
     .tooltiptext = Viŝi
+customkeys-key-reset =
+    .aria-label = Restarigi
+    .tooltiptext = Restarigi
 
 ## Shortcut actions
 
