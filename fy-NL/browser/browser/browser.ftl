@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } beh
 urlbar-result-menu-report-inaccurate-location2 = Net sekuere lokaasje melde
 urlbar-result-menu-show-less-frequently2 = Minder faaks toane
 urlbar-result-menu-dont-show-weather-suggestions2 = Gjin waarsuggestjes toane
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Dizze suggestje fuortsmite
+    .accesskey = s
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Fuortsmite út skiednis
+    .accesskey = k
 urlbar-result-menu-learn-more =
     .label = Mear ynfo
     .accesskey = M
@@ -1106,6 +1116,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Sykje nei trefwurden is útskeakele
 urlbar-searchmode-dropmarker2 =
     .title = Kies in sykmasine
+urlbar-searchmode-bookmarks3 = Blêdwizers
+    .accesskey = B
+urlbar-searchmode-tabs3 = Ljepblêden
+    .accesskey = L
+urlbar-searchmode-history3 = Skiednis
+    .accesskey = S
+urlbar-searchmode-actions3 = Aksjes
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Blêdwizers
 urlbar-searchmode-tabs2 = Ljepblêden
 urlbar-searchmode-history2 = Skiednis
@@ -1125,6 +1143,10 @@ urlbar-searchmode-popup-one-off-header = Diskear sykje mei:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Sykje mei:
+urlbar-searchmode-popup-search-settings = Sykynstellingen
+    .accesskey = S
+urlbar-searchmode-popup-settings = Ynstellingen
+    .accesskey = Y
 urlbar-searchmode-popup-search-settings-panelitem = Sykynstellingen
 urlbar-searchmode-popup-settings-panelitem = Ynstellingen
 

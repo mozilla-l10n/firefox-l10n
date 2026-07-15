@@ -153,6 +153,27 @@ pdfjs-document-properties-linearized = Webeko ikuspegi bizkorra:
 pdfjs-document-properties-linearized-yes = Bai
 pdfjs-document-properties-linearized-no = Ez
 pdfjs-document-properties-close-button = Itxi
+pdfjs-digital-signature-properties-view-certificate = Ikusi ziurtagiria
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Arrazoia: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Denbora-marka: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Azpi-sinadura ({ $count })
+       *[other] Azpi-sinadurak ({ $count })
+    }
 
 ## Print
 
@@ -735,6 +756,33 @@ pdfjs-new-badge-content = BERRIA
 pdfjs-views-manager-waiting-for-file = Fitxategia igotzen…
 pdfjs-toggle-views-manager-button1 =
     .title = Kudeatu orriak
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Sinadura digitalaren propietateak
+    .aria-label = Sinadura digitalaren propietateak
+pdfjs-digital-signature-properties-button-label = Sinadura digitalaren propietateak
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Dokumentua baliozko sinadura digitalarekin sinatuta dago
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Dokumentua sinatuta dago baina sinadura digital bat ezin izan da egiaztatu
+       *[other] Dokumentua sinatuta dago baina { $count } sinadura digital ezin izan dira egiaztatu
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Document sinatuta dago ziurtagiri fidagaitz batekin
+       *[other] Document sinatuta dago { $count } ziurtagiri fidagaitzekin
+    }
 
 ## Main menu for adding/removing signatures
 

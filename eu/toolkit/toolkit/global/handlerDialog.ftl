@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Beste aplikazio bat...
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Leiho pribatuetan desgaituta
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = Aukeratu postarako zure aplikazioa
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Aukeratu helbide elektronikoen loturentzat erabili nahi duzun aplikazioa. Geroago ere ezarpenetan alda dezakezu hau.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Galdetu beti helbide elektroniko baten loturan klik egitean
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Ezarri lehenetsi gisa
+    .accesskey = E
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Une honetan ez
+    .accesskey = z

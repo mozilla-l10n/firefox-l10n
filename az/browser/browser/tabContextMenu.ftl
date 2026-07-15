@@ -73,6 +73,9 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Vərəqləri Əlfəcinlə…
     .accesskey = k
+tab-context-open-in-new-container-tab =
+    .label = Yeni Konteyner Vərəqində Aç
+    .accesskey = e
 move-to-start =
     .label = Başa qoy
     .accesskey = S
@@ -82,14 +85,59 @@ move-to-end =
 move-to-new-window =
     .label = Yeni pəncərəyə daşı
     .accesskey = p
+tab-context-close-multiple-tabs =
+    .label = Bir Neçə Vərəqi Qapat
+    .accesskey = M
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Bir Neçəsini Qapat
+    .accesskey = N
+tab-context-close-duplicate-tabs =
+    .label = Çoxaldılmış Vərəqləri Qapat
+    .accesskey = x
+tab-context-close-duplicate-tabs2 =
+    .label = Bu Vərəqin Surətlərini Qapat
+    .accesskey = x
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Qapadılmış Vərəqi Aç
+            [one] Qapadılmış Vərəqi Aç
+           *[other] Qapadılmış Vərəqləri Aç
+        }
+    .accesskey = o
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Vərəqi Qapat
+            [one] { $tabCount } Vərəqi Qapat
+           *[other] { $tabCount } Vərəqi Qapat
+        }
+    .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Qapat
+            [one] { $tabCount } Vərəqi Qapat
+           *[other] { $tabCount } Vərəqi Qapat
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Vərəqin Yerini Dəyiş
+            [one] Vərəqin Yerini Dəyiş
+           *[other] Vərəqlərin Yerini Dəyiş
+        }
+    .accesskey = v
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
-            [one] Vərəqi cihaza göndər
-           *[other] { $tabCount } vərəqi cihaza göndər
+            [one] Vərəqi Cihaza Göndər
+           *[other] { $tabCount } Vərəqi Cihaza Göndər
         }
     .accesskey = n

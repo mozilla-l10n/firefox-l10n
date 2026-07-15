@@ -36,6 +36,7 @@ policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
 policy-Containers = Ezarri edukiontziei lotutako politikak.
 policy-DisableAccounts = Desgaitu kontuetan oinarritutako zerbitzuak, sinkronizazioa barne.
 policy-DisabledCiphers = Desgaitu zifratzeak.
+policy-DefaultBrowserSettingEnabled = Kontrolatu erabiltzaileak { -brand-short-name } nabigatzaile lehenetsi gisa ezar dezakeen ala ez.
 policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
 policy-DefaultSerialGuardSetting = Kontrolatu Serieko APIaren erabilpena.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.

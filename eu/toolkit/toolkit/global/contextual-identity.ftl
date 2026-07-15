@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Fitxa berria
     .accesskey = b
+user-context-add-container =
+    .label = Gehitu edukiontzi berria
+    .accesskey = G
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

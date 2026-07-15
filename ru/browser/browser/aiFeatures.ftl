@@ -27,7 +27,7 @@ ai-window-open-sidebar =
     .label = Автоматически открывать помощника
     .description = Отображать боковую панель помощника на каждой новой вкладке. Закрывайте её в любое время.
 ai-window-smart-cursor-in-smart-window =
-    .label = Показывать горячие клавиши при выделении текста
+    .label = Показывать быстрые действия при выделении текста
     .description = Получите быстрый доступ к резюмированию, объяснениям и пр.
 smart-window-model-section =
     .label = Модель-помощник
@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Отмена
 ai-window-memory-delete-button =
     .title = Удалить воспоминание
     .aria-label = Удалить { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Быстрая
+    .description = Подходит для быстрых ответов, когда важна скорость. Полное название: { $model } от { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Гибкая
+    .description = Готова для различных задач. Полное название: { $model } от { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Персональная
+    .description = Создана для персонализированной помощи на различных языках. Полное название: { $model } от { $ownerName }
