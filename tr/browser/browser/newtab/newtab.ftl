@@ -231,6 +231,7 @@ newtab-privacy-message-info-13-cta = Korumaları göster
 
 newtab-privacy-message-promo-monitor-1 = Kişisel bilgilerinizin ele geçirilip geçirilmediğini öğrenin.
 newtab-privacy-message-promo-monitor-1-cta = Daha fazla bilgi al
+newtab-privacy-message-promo-monitor-2 = 20 ayrı e-posta adresinizde veri ihlallerini ücretsiz izleyerek bilgilerinizi koruyun.
 newtab-privacy-message-promo-monitor-2-cta = Daha fazla bilgi al
 newtab-privacy-message-promo-signin-1-cta = Giriş yap
 newtab-privacy-message-promo-vpn-1-cta = VPN’i aç

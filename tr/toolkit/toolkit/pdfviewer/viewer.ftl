@@ -757,6 +757,16 @@ pdfjs-digital-signature-properties-button =
     .aria-label = Dijital imza özellikleri
 pdfjs-digital-signature-properties-button-label = Dijital imza özellikleri
 
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = Belge geçerli bir dijital imza ile imzalanmıştır
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
@@ -767,7 +777,9 @@ pdfjs-digital-signature-properties-button-label = Dijital imza özellikleri
 pdfjs-digital-signature-properties-certificate-trusted = Sertifika: Güvenilir ({ $issuer })
 pdfjs-digital-signature-properties-certificate-unknown = Sertifika: Kullanılamıyor
 pdfjs-digital-signature-properties-certificate-untrusted = Sertifika: Güvensiz
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Sertifika: Bilinmeyen yayıncı ({ $issuer })
 pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Sertifika: Kendi kendine imzalanmış ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Sertifika: Güvenilmeyen yayıncı ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Sertifika: Süresi dolmuş
 pdfjs-digital-signature-properties-certificate-expired-with-date = Sertifika: Süresi dolmuş ({ DATETIME($dateObj, dateStyle: "medium") })
 pdfjs-digital-signature-properties-certificate-revoked = Sertifika: İptal edilmiş

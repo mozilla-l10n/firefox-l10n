@@ -74,7 +74,7 @@ certificate-viewer-business-category = İş kategorisi
 certificate-viewer-subject-name = Özne Adı
 certificate-viewer-issuer-name = Düzenleyenin Adı
 certificate-viewer-validity = Geçerlilik
-certificate-viewer-subject-alt-names = Özne alternatif adları
+certificate-viewer-subject-alt-names = Özne Alternatif Adları
 certificate-viewer-public-key-info = Açık Anahtar Bilgileri
 certificate-viewer-miscellaneous = Diğer
 certificate-viewer-fingerprints = Parmak İzleri
@@ -87,7 +87,7 @@ certificate-viewer-authority-key-id = Makam Anahtar Kimliği
 certificate-viewer-authority-info-aia = Makam Bilgileri (AIA)
 certificate-viewer-certificate-policies = Sertifika İlkeleri
 certificate-viewer-embedded-scts = Gömülü SCT’ler
-certificate-viewer-crl-endpoints = CRL uç noktaları
+certificate-viewer-crl-endpoints = CRL Uç Noktaları
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = İndir

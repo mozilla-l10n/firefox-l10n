@@ -4,6 +4,12 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Blokovat { -smart-window-brand-name }?
+smart-window-block-description-both = Tímto smažete své chaty a vzpomínky funkce { -smart-window-brand-name }.
+smart-window-block-description-chats = Tímto smažete své chaty v { -smart-window-brand-name }.
+smart-window-block-description-memories = Tímto smažete vaše vzpomínky v { -smart-window-brand-name }.
+ai-window-features-group =
+    .label = { -smart-window-brand-name }
+    .description = Ptejte se na otázky, porovnávejte stránky, a získejte personalizované nabídky s vestavěným asistentem
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,6 +27,12 @@ smart-window-model-learn-link = Bližší informace o modelech
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Rychlý: odpovídá rychle
+    .description = Model { $model } od { $ownerName }
+smart-window-model-flexible =
+    .label = Flexibilní: dobrý pro většinu úkonů
+    .description = Model { $model } od { $ownerName }
 smart-window-model-custom-name =
     .label = Název modelu
     .placeholder = Například: glm4
