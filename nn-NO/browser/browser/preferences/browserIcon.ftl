@@ -29,3 +29,15 @@ appearance-browser-icon-set-default-button =
     .label = Set til standard
 appearance-browser-icon-pin-button =
     .label = Fest til oppgåvelinja
+
+## Icon names
+
+appearance-browser-icon-pride =
+    .label = Pride
+appearance-browser-icon-minimal =
+    .label = Minimalt
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Pikselert
