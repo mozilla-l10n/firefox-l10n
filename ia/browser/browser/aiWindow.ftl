@@ -98,9 +98,14 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Benvenite a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Que es importante pro te?
+aiwindow-firstrun-model-title-v2 = Elige un modello pro initiar
 aiwindow-firstrun-model-subtitle = Selige un modello pro potentiar { -smart-window-brand-name }. Muta lo quandocunque tu vole.
+aiwindow-firstrun-model-subtitle-v2 = Cata modello pote adjutar te a resumer, comparar, e explorar a transverso tu schedas.
 aiwindow-firstrun-model-fast-label = Veloce
 aiwindow-firstrun-model-fast-body = Responde rapidemente
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Veloce: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Optime pro responsas rapide quando tu te move rapidemente
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
