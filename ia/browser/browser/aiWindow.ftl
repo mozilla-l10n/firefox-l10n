@@ -112,6 +112,8 @@ aiwindow-firstrun-model-fast-body-v2 = Optime pro responsas rapide quando tu te 
 aiwindow-firstrun-model-chip-subtitle = Modello { $model } per { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibile
 aiwindow-firstrun-model-allpurpose-body = Solution valide pro le major parte del besonios
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexibile: { $shortName }
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Recommendate
 aiwindow-firstrun-model-personal-label = Personal

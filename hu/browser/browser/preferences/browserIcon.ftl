@@ -33,7 +33,33 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Töltse ki, és oldjon fel további rókás ikonokat a { -brand-short-name } személyre szabásához.
 appearance-browser-icon-set-default-button =
     .label = Beállítás az alapértelmezésre
 appearance-browser-icon-pin-button =
     .label = Rögzítés a tálcára
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Alapértelmezett
+appearance-browser-icon-retro2004 =
+    .label = Retró 2004
+appearance-browser-icon-retro2017 =
+    .label = Retró 2017
+appearance-browser-icon-pride =
+    .label = Büszkeség
+appearance-browser-icon-minimal =
+    .label = Minimális
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Pixeles
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Készítő: @heyheymomodraws
