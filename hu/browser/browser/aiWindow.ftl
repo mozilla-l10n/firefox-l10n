@@ -102,13 +102,24 @@ aiwindow-firstrun-model-title-v2 = Válasszon egy modellt a kezdéshez
 aiwindow-firstrun-model-subtitle = Válasszon egy modellt az { -smart-window-brand-name(case: "lower") } alapjául. Váltson bármikor.
 aiwindow-firstrun-model-fast-label = Gyors
 aiwindow-firstrun-model-fast-body = Gyorsan válaszol
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Gyors: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = A legjobb a gyors válaszokhoz, ha gyorsan halad
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $model } modell, készítette: { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Rugalmas
+aiwindow-firstrun-model-allpurpose-body = A legtöbb igényhez illeszkedik
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Rugalmas: { $shortName }
+aiwindow-firstrun-model-flexible-body = Különböző feladatokra alkalmas.
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Ajánlott
 aiwindow-firstrun-model-personal-label = Személyes
 aiwindow-firstrun-model-personal-body = Leginkább testreszabott válaszok
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Személyes: { $shortName }
 aiwindow-firstrun-button = Gyerünk!
 aiwindow-firstrun-back-button = Vissza
 aiwindow-firstrun-next-button = Tovább

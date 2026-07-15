@@ -5,6 +5,19 @@
 menu-view-genai-chat =
     .label = Sİ Söhbət Botu
 
+## Labels for sidebar menu items.
+
+sidebar-menu-genai-chat-label =
+    .label = Sİ söhbət botu
+
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+sidebar-menu-open-ai-chatbot-tooltip-generic = Sİ söhbət botunu aç ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Sİ söhbət botunu bağla ({ $shortcut })
+
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =

@@ -1531,6 +1531,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = დაგვეხმარეთ ჩანამატების გაუმჯობესებაში
+newtab-sports-widget-message-survey-body = მსოფლიო დასრულდა. გამოგვეხმაურეთ და გაგვიზიარეთ თქვენი შთაბეჭდილებები.
 newtab-sports-widget-message-survey-widget-title = როგორ მოგეწონათ მსოფლიო თასის ჩანამატი?
 newtab-sports-widget-message-survey-widget-body = გამოგვეხმაურეთ მომავალი ჩანამატების დასახვეწად. შემდეგ კი მოსინჯეთ რიგ-რიგობით.
 newtab-sports-widget-message-survey-cta =
