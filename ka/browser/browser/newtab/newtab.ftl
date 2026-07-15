@@ -249,12 +249,24 @@ newtab-privacy-message-promo-vpn-3-cta = გახსენით VPN
 newtab-privacy-message-promo-private-window-1 = მოსინჯეთ პირადი ფანჯარა პირადულად თვალიერებისთვის სხვებთან საზიარო კომპიუტერით სარგებლობისას.
 newtab-privacy-message-promo-private-window-1-cta = პირადი ფანჯრის გახსნა
 newtab-privacy-message-promo-relay-1 = გადაინახეთ თქვენი ნამდვილი ელფოსტა იმ ხალხისთვის, ვისაც ენდობით; გამოიყენეთ ელფოსტის ნიღაბი ანგარიშებისთვის.
+newtab-privacy-message-promo-relay-1-cta = ნიღბების მიღება
+newtab-privacy-message-promo-relay-2 = დაიცავით თქვენი საფოსტო ყუთი ჯართისგან ელფოსტის უფასო შენიღბვით.
+newtab-privacy-message-promo-relay-2-cta = ნიღბების მიღება
+newtab-privacy-message-promo-relay-3 = მიიღეთ ელფოსტის 50 უფასო ნიღაბი თქვენი ნამდვილი ფოსტის პირადულობისთვის.
+newtab-privacy-message-promo-relay-3-cta = ნიღბების მიღება
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } მეთვალყურე შეიზღუდა ამ კვირაში. ნახეთ, რისგან გიცავთ { -brand-short-name }
+       *[other] { $count } მეთვალყურე შეიზღუდა ამ კვირაში. ნახეთ, რისგან გიცავთ { -brand-short-name }
+    }
 newtab-privacy-message-milestone-week-cta = დაცვის შესახებ
 newtab-privacy-message-milestone-month-cta = დაცვის შესახებ
 newtab-privacy-message-milestone-year-cta = დაცვის შესახებ

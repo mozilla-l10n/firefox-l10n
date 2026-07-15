@@ -85,8 +85,8 @@ choose-dialog-privatebrowsing-disabled = Désactivé dans les fenêtres privées
 ## web mail service (or the OS default app) should handle email links.
 
 mailto-handler-picker-window =
-    .title = Choisissez votre application de courrier électronique
     .style = min-width: 26em; min-height: 26em;
+    .title = Choisissez votre application pour les e-mails
 mailto-handler-picker-subtitle = Choisissez l’application que vous souhaitez utiliser pour les liens vers les e-mails. Vous pouvez modifier ce choix depuis les paramètres.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
