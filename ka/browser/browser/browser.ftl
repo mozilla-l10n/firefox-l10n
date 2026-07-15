@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = მართეთ { -firefox-sugge
 urlbar-result-menu-report-inaccurate-location2 = არაზუსტი მდებარეობის მოხსენება
 urlbar-result-menu-show-less-frequently2 = იშვიათად ჩვენება
 urlbar-result-menu-dont-show-weather-suggestions2 = ამინდის შემოთავაზებების გარეშე
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = ამ შეთავაზების აცილება
+    .accesskey = ც
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = ისტორიიდან ამოშლა
+    .accesskey = ლ
 urlbar-result-menu-learn-more =
     .label = ვრცლად
     .accesskey = ლ
@@ -1103,6 +1113,14 @@ urlbar-searchmode-no-keyword2 =
     .title = საკვანძო სიტყვებით ძიება გამორთულია
 urlbar-searchmode-dropmarker2 =
     .title = საძიებოს არჩევა
+urlbar-searchmode-bookmarks3 = სანიშნები
+    .accesskey = ნ
+urlbar-searchmode-tabs3 = ჩანართები
+    .accesskey = ჩ
+urlbar-searchmode-history3 = ისტორია
+    .accesskey = ტ
+urlbar-searchmode-actions3 = მოქმედებები
+    .accesskey = ქ
 urlbar-searchmode-bookmarks2 = სანიშნები
 urlbar-searchmode-tabs2 = ჩანართები
 urlbar-searchmode-history2 = ისტორია
@@ -1122,6 +1140,10 @@ urlbar-searchmode-popup-one-off-header = ძიებისთვის ამ�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = ძიება სისტემით:
+urlbar-searchmode-popup-search-settings = ძიების პარამეტრები
+    .accesskey = პ
+urlbar-searchmode-popup-settings = პარამეტრები
+    .accesskey = პ
 urlbar-searchmode-popup-search-settings-panelitem = ძიების პარამეტრები
 urlbar-searchmode-popup-settings-panelitem = პარამეტრები
 
