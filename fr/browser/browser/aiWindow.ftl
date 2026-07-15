@@ -100,7 +100,7 @@ aiwindow-firstrun-title = Bienvenue dans la { -smart-window-brand-name(form: "up
 aiwindow-firstrun-model-title = Qu’est-ce qui compte pour vous ?
 aiwindow-firstrun-model-title-v2 = Choisissez un modèle pour commencer
 aiwindow-firstrun-model-subtitle = Choisissez un modèle à utiliser dans les { -smart-window-brand-name(form: "lower-plural") }. Changez de modèle à tout moment.
-aiwindow-firstrun-model-subtitle-v2 = Chaque modèle peut vous aider à résumer, comparer et explorer vos onglets. Changez de mode à tout moment.
+aiwindow-firstrun-model-subtitle-v2 = Chaque modèle vous permet de résumer, comparer et explorer l’ensemble de vos onglets. Changez de modèle à tout moment.
 aiwindow-firstrun-model-fast-label = Rapide
 aiwindow-firstrun-model-fast-body = Réponses rapides
 # $shortName (string) - The short name of the model version
@@ -121,7 +121,7 @@ aiwindow-firstrun-model-personal-label = Personnel
 aiwindow-firstrun-model-personal-body = Réponses les plus personnalisées
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personnel : { $shortName }
-aiwindow-firstrun-model-personal-body-v2 = Conçu pour une aide personnalisée dans toutes les langues
+aiwindow-firstrun-model-personal-body-v2 = Conçu pour une aide personnalisée dans plusieurs langues
 aiwindow-firstrun-button = C’est parti
 aiwindow-firstrun-back-button = Retour
 aiwindow-firstrun-next-button = Suivant
@@ -330,11 +330,11 @@ aiwindow-ai-chat-grid-grid-view =
 ## When localizing, please write them as short instructions a user would give to an assistant.
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
-aiwindow-starter-writing-first-draft = Rédigez un premier brouillon
-aiwindow-starter-writing-improve = Améliorer la rédaction
-aiwindow-starter-writing-proofread = Lire un message
-aiwindow-starter-planning-simplify = Simplifier un sujet
-aiwindow-starter-planning-brainstorm = Lancer des idées
+aiwindow-starter-writing-first-draft = Rédige un premier jet
+aiwindow-starter-writing-improve = Améliore la rédaction
+aiwindow-starter-writing-proofread = Relis un message
+aiwindow-starter-planning-simplify = Simplifie un sujet
+aiwindow-starter-planning-brainstorm = Trouve des idées
 aiwindow-starter-planning-plan = Contribuez à planifier
 aiwindow-starter-browsing-history = Rechercher des onglets dans l’historique
 aiwindow-starter-browsing-summarize = Résumer les onglets

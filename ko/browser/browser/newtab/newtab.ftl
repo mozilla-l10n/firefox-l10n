@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = 개인 정보 보호
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = 십자말풀이
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = 주식
@@ -456,6 +459,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = 편집
+newtab-menu-add-topsite = 새 바로 가기 추가
 newtab-menu-open-new-window = 새 창에서 열기
 newtab-menu-open-new-private-window = 새 사생활 보호 창에서 열기
 newtab-menu-dismiss = 닫기
@@ -1101,6 +1105,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = 취소
     .title = 취소
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = 목록 옵션
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 새 목록 만들기

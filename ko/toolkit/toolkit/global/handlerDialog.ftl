@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = 다른 애플리케이션…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = 사생활 보호 창에서 사용 안 함
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = 이메일 앱을 선택하세요
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = 이메일 링크에 사용할 앱을 선택하세요. 나중에 설정에서 변경할 수 있습니다.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = 이메일 링크를 클릭할 때 항상 확인
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = 기본으로 설정
+    .accesskey = S
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = 나중에
+    .accesskey = N

@@ -19,6 +19,7 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Yeniləmə endirilir — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Yenilənmə endirilir — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Yeniləmə endirilir — { $transfer }
 
@@ -30,9 +31,11 @@ settings-update-applying =
 update-failed = Yeniləmə uğursuz oldu. <label data-l10n-name="failed-link">Son versiyanı endirin</label>
 update-failed-main = Yeniləmə uğursuz oldu. <a data-l10n-name="failed-link-main">Son versiyanı endirin</a>
 update-adminDisabled = Yeniləmələr sistem idarəçiniz tərəfindən söndürülmüşdür
+update-policy-disabled = Yeniləmələr təşkilatınız tərəfindən deaktiv edilmişdir
 update-noUpdatesFound = { -brand-short-name } aktualdır
 settings-update-no-updates-found =
     .label = { -brand-short-name } aktualdır
+aboutdialog-update-checking-failed = Yeniləmələrə baxıla bilmədi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } başqa nümunədən yenilənir

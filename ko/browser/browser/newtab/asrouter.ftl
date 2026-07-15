@@ -491,3 +491,10 @@ nova-early-access-share-feedback-link = 의견 공유
     .accesskey = S
 nova-early-access-infobar-primary-button = 확인
     .accesskey = G
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Windows에 로그인할 때마다 { -brand-short-name }를 시작하시겠습니까?
+app-exit-spotlight-checkbox-launch-on-login = 시작할 때 { -brand-short-name } 열기
+app-exit-spotlight-checkbox-pin-to-taskbar = 작업 표시줄에 고정
+app-exit-spotlight-primary-button = { -brand-short-name } 저장 후 닫기

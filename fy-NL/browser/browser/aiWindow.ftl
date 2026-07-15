@@ -331,3 +331,6 @@ aiwindow-ai-chat-grid-grid-view =
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
 aiwindow-starter-writing-first-draft = Skriuw in earste konsept
+aiwindow-starter-writing-improve = Ferbetterje it skriuwen
+aiwindow-starter-writing-proofread = Lês in berjocht nei
+aiwindow-starter-planning-simplify = Ferienfâldigje in ûnderwerp
