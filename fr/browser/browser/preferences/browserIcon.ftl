@@ -11,7 +11,7 @@
 # Start Menu.
 appearance-browser-icon-entry-group =
     .label = Icône du navigateur
-    .description = Choisissez une icône personnalisée pour votre barre des tâches, votre bureau et votre menu démarrer.
+    .description = Choisissez une icône personnalisée pour la barre des tâches, le bureau et le menu démarrer.
 appearance-browser-icon-button =
     .label = Changer l’icône du navigateur
 

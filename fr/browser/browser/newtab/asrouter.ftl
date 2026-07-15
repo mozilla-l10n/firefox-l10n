@@ -496,7 +496,7 @@ nova-early-access-infobar-primary-button = J’ai compris
 
 ## App Exit Spotlight dialog
 
-app-exit-spotlight-title = Démarrer { -brand-short-name } à chaque connexion sous Windows ?
-app-exit-spotlight-checkbox-launch-on-login = Ouvrir { -brand-short-name } au démarrage
+app-exit-spotlight-title = Voulez-vous lancer { -brand-short-name } à chaque ouverture de session Windows ?
+app-exit-spotlight-checkbox-launch-on-login = Lancer { -brand-short-name } au démarrage
 app-exit-spotlight-checkbox-pin-to-taskbar = Épingler à la barre des tâches
 app-exit-spotlight-primary-button = Enregistrer et fermer { -brand-short-name }

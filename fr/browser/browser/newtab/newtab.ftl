@@ -98,7 +98,7 @@ home-prefs-privacy-header =
     .label = Vie privée
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
-    .label = Mots croisés
+    .label = Mots fléchés
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Actions
