@@ -99,6 +99,7 @@ aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerNa
 aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
 aiwindow-firstrun-model-personal-label = سیخومی
 aiwindow-firstrun-model-personal-body = موناسو ترین جواوا
+aiwindow-firstrun-model-personal-body-v2 = وورکل وابیڌه سی هیاری سیخومی وابیڌه من زووا موختلف
 aiwindow-firstrun-button = بزن ریویم
 aiwindow-firstrun-back-button = وورگشتن
 aiwindow-firstrun-next-button = بئڌی
@@ -108,6 +109,7 @@ aiwindow-firstrun-next-button = بئڌی
 aiwindow-input-model-select-button-label-fast = زل
 aiwindow-input-model-select-button-label-personal = سیخومی
 aiwindow-input-model-select-button-label-custom = سفارشی
+aiwindow-input-model-select-button-description-custom = LLM خوتووݩ ن و کار بگیرین
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -241,3 +243,11 @@ aiwindow-feedback-preview-report-with-page = نیشتن جۊزعیات چت وو
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = آلشت تئر بندی نما
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = ی پؽش هؽل ٱولیه بنیویسین
