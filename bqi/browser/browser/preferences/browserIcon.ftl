@@ -24,3 +24,8 @@ appearance-browser-icon-basic-group =
     .label = استاندارد
 appearance-browser-icon-bonus-group =
     .label = ویژه
+
+##
+
+appearance-browser-icon-set-default-button =
+    .label = سامووݩ و سۊرت پؽش فرز
