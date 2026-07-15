@@ -2707,9 +2707,9 @@ security-privacy-status-pending-trackers-label = Sprawdzanie, ile elementów śl
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
-        [one] { $trackerCount } element śledzący zablokowany w ciągu ostatniego miesiąca
-        [few] { $trackerCount } elementy śledzące zablokowane w ciągu ostatniego miesiąca
-       *[many] { $trackerCount } elementów śledzących zablokowanych w ciągu ostatniego miesiąca
+        [one] W ciągu ostatniego miesiąca zablokowano { $trackerCount } element śledzący
+        [few] W ciągu ostatniego miesiąca zablokowano { $trackerCount } elementy śledzące
+       *[many] W ciągu ostatniego miesiąca zablokowano { $trackerCount } elementów śledzących
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Wybrano <a data-l10n-name="strict-tracking-protection">ścisłą ochronę</a>
@@ -2789,17 +2789,17 @@ preferences-etp-custom-cookies-enabled =
 preferences-etp-custom-cookie-behavior =
     .aria-label = Ciasteczka
 preferences-etp-custom-cookie-behavior-accept-all =
-    .label = Zezwalanie na wszystkie ciasteczka
+    .label = Zezwalaj na wszystkie ciasteczka
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
-    .label = Blokowanie ciasteczek między witrynami
+    .label = Blokuj ciasteczka między witrynami
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
-    .label = Izolowanie ciasteczek między witrynami
+    .label = Izoluj ciasteczka między witrynami
 preferences-etp-custom-cookie-behavior-block-unvisited =
-    .label = Blokowanie ciasteczek nieodwiedzonych witryn
+    .label = Blokuj ciasteczka nieodwiedzonych witryn
 preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
-    .label = Blokowanie wszystkich ciasteczek między witrynami (może powodować niepoprawne działanie stron)
+    .label = Blokuj wszystkie ciasteczka między witrynami (może powodować niepoprawne działanie stron)
 preferences-etp-custom-cookie-behavior-block-all =
-    .label = Blokowanie wszystkich ciasteczek (spowoduje niepoprawne działanie stron)
+    .label = Blokuj wszystkie ciasteczka (spowoduje niepoprawne działanie stron)
 preferences-etp-custom-tracking-protection-enabled =
     .label = Treści z elementami śledzącymi
 preferences-etp-custom-tracking-protection-enabled-context =
