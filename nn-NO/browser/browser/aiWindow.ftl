@@ -98,6 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Velkomen til { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Kva er viktig for deg?
+aiwindow-firstrun-model-title-v2 = Vel ein modell for å starte
 aiwindow-firstrun-model-subtitle = Vel ein modell for { -smart-window-brand-name }. Du kan byte når som helst.
 aiwindow-firstrun-model-fast-label = Rask
 aiwindow-firstrun-model-fast-body = Raske svar
