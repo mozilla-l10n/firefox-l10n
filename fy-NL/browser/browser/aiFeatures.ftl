@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Annulearje
 ai-window-memory-delete-button =
     .title = Oantinken fuortsmite
     .aria-label = { $label } fuortsmite
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: fluch
+    .description = It beste foar flugge antwurden wannear’t snelheid der ta docht. Folsleine namme: { $model } troch { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: fleksibel
+    .description = Klear foar in breed skala oan taken. Folsleine namme: { $model } troch { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: persoanlik
+    .description = Boud foar personalisearre help yn meardere talen. Folsleine namme: { $model } troch { $ownerName }

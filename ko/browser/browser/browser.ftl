@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } 관
 urlbar-result-menu-report-inaccurate-location2 = 부정확한 위치 신고
 urlbar-result-menu-show-less-frequently2 = 덜 자주 보기
 urlbar-result-menu-dont-show-weather-suggestions2 = 날씨 제안을 표시하지 않음
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = 이 제안 닫기
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = 기록에서 제거
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = 더 알아보기
     .accesskey = L
@@ -1063,6 +1073,14 @@ urlbar-searchmode-no-keyword2 =
     .title = 키워드 검색이 비활성화됨
 urlbar-searchmode-dropmarker2 =
     .title = 검색 엔진 선택
+urlbar-searchmode-bookmarks3 = 북마크
+    .accesskey = B
+urlbar-searchmode-tabs3 = 탭
+    .accesskey = T
+urlbar-searchmode-history3 = 기록
+    .accesskey = H
+urlbar-searchmode-actions3 = 작업
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = 북마크
 urlbar-searchmode-tabs2 = 탭
 urlbar-searchmode-history2 = 기록
@@ -1082,6 +1100,10 @@ urlbar-searchmode-popup-one-off-header = 이번만 검색:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = 검색:
+urlbar-searchmode-popup-search-settings = 검색 설정
+    .accesskey = S
+urlbar-searchmode-popup-settings = 설정
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = 검색 설정
 urlbar-searchmode-popup-settings-panelitem = 설정
 

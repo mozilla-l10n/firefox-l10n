@@ -132,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = 빠름
 aiwindow-input-model-select-button-label-allpurpose = 유연함
 aiwindow-input-model-select-button-label-personal = 맞춤형
 aiwindow-input-model-select-button-label-custom = 사용자 지정
+aiwindow-input-model-select-button-description-custom = 내가 가진 자체 LLM 사용
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -314,3 +315,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = 모드 전환: 그리드 보기
     .tooltiptext = 그리드 보기
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = 초안 작성해 줘
+aiwindow-starter-writing-improve = 문장 다듬어 줘
+aiwindow-starter-writing-proofread = 메시지 맞춤법 검사해 줘
+aiwindow-starter-planning-simplify = 핵심만 쉽게 설명해 줘
+aiwindow-starter-planning-brainstorm = 아이디어 제안해 줘
+aiwindow-starter-planning-plan = 계획 세우는 것 좀 도와줘
+aiwindow-starter-browsing-history = 기록에서 탭 찾아줘
+aiwindow-starter-browsing-summarize = 탭 요약해 줘
+aiwindow-starter-browsing-compare = 탭 비교해 줘
