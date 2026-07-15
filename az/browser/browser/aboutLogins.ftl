@@ -4,6 +4,8 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Giriş və Parollar
+create-login-button =
+    .title = Parol əlavə et
 fxaccounts-sign-in-text = Parollarınız bütün cihazlarınızda sizinlə olsunlar
 fxaccounts-avatar-button =
     .title = Hesabı idarə et

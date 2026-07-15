@@ -19,6 +19,7 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Hiba történt, próbálja újra.
 smartwindow-assistant-error-budget-header = Elérte a mai csevegési korlátot.
 smartwindow-assistant-error-account-header = Az { -smart-window-brand-name } használatához be kell jelentkeznie.
+smartwindow-assistant-error-capacity-header = A { -smart-window-brand-name(case: "lower") } elérte a korlátját. Próbálja újra később.
 smartwindow-assistant-error-max-length-header = Itt az ideje, hogy új csevegést kezdjen. Ez elérte a hosszkorlátját.
 smartwindow-assistant-error-request-blocked-header = Az { -smart-window-brand-name } nem tudta elérni a kiszolgálót. Próbáljon ki egy másik hálózatot, vagy tiltsa le a VPN-t.
 # Variables:

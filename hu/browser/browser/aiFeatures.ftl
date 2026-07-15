@@ -42,11 +42,25 @@ ai-window-memories-section =
     .description = A { -brand-short-name } tanulhat a tevékenységéből, hogy memóriákat hozzon létre. Arra használatosak, hogy személyre szabhassa a válaszokat, és ezek helyben vannak tárolva az eszközön.
 ai-window-learn-from-chat-activity =
     .label = Tanulás a csevegésekből az { -smart-window-brand-name(case: "lower") }ban
+ai-window-learn-from-browsing-activity =
+    .label = Tanulás a böngészésből a klasszikus és az { -smart-window-brand-name(case: "lower") }okban
 ai-window-manage-memories-button =
     .label = Memóriák kezelése
+ai-window-manage-memories-header =
+    .heading = Memóriák kezelése
+    .description = A memóriák helyben vannak tárolva az eszközén az adatvédelem érdekében. Naponta néhányszor frissülnek, amikor az { -smart-window-brand-name(case: "lower") }ot használja, így eltarthat egy ideig, amíg a friss tevékenységeit tükrözik.
+ai-window-no-memories =
+    .label = Még nincsenek memóriák
+    .description = Mivel az { -smart-window-brand-name(case: "lower") } tanul a tevékenységéből, így itt fogja látni a memóriákat.
+ai-window-no-memories-learning-off =
+    .label = Nincsenek megjeleníthető memóriák
+    .description = A tevékenységből való tanulás ki van kapcsolva, így az { -smart-window-brand-name(case: "lower") } nem hoz létre memóriákat.
 ai-window-delete-all-memories-button =
     .label = Összes törlése
 ai-window-delete-all-memories-title = Törli az összes memóriát?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = A meglévő memóriák törlésre kerülnek. Ha nem szeretne új memóriákat létrehozni, akkor vegye kapcsolja ki a „Tanulás…” lehetőségeket az { -smart-window-brand-name } beállításaiban.
 ai-window-delete-all-memories-confirm = Törlés
 ai-window-delete-all-memories-cancel = Mégse
 # Variables:
