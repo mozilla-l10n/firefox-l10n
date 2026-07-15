@@ -51,7 +51,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ilaro
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Forigi VPN el la ilaro
-ipprotection-feature-introduction-button-open-vpn = Malermi VPN
+ipprotection-feature-introduction-button-open-vpn = Malfermi VPN
 ipprotection-feature-introduction-button-get-started = Unuaj paŝoj
 
 ## Site settings callout

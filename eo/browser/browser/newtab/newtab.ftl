@@ -238,6 +238,23 @@ newtab-privacy-message-info-13-cta = Montri protektojn
 newtab-privacy-message-promo-monitor-1 = Malkovru kiel viaj personaj informoj aperas en datumfuĝo.
 newtab-privacy-message-promo-monitor-1-cta = Pli da informo
 newtab-privacy-message-promo-monitor-2 = Protektu viajn datumojn per libera monitorado de maksimume 20 retpoŝtoj.
+newtab-privacy-message-promo-monitor-2-cta = Pli da informo
+newtab-privacy-message-promo-signin-1 = Ĉifrite gardu legosignojn, pasvortojn kaj langetojn en viaj aparatoj per via konto de { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Komenci seancon
+newtab-privacy-message-promo-vpn-1 = Ĉu vi aĉetumas en publika Wi-Fi? Ŝaltu la integritan VPN por esti ekstre protektita.
+newtab-privacy-message-promo-vpn-1-cta = Malfermi VPN
+newtab-privacy-message-promo-vpn-2 = Ĉu vi uzas la Wi-Fi de la flughaveno? Protektu vian retumon per ŝalto de la integrita VPN.
+newtab-privacy-message-promo-vpn-2-cta = Malfermi VPN
+newtab-privacy-message-promo-vpn-3 = Ŝaltu la integritan VPN por helpi teni vian pozicion pli privata.
+newtab-privacy-message-promo-vpn-3-cta = Malfermi VPN
+newtab-privacy-message-promo-private-window-1 = Provu uzi privatan fenestro por retumi pli private, kiam vi uzas dividatan komputilon.
+newtab-privacy-message-promo-private-window-1-cta = Malfermi privatan fenestron
+newtab-privacy-message-promo-relay-1 = Gardu vian faktan retpoŝtan adreson por fidindaj homoj; uzu retpoŝtan maskon por registriĝoj.
+newtab-privacy-message-promo-relay-1-cta = Ricevu maskojn
+newtab-privacy-message-promo-relay-2 = Protektu vian retpoŝtan enirkeston kontraŭ trudmesaĝoj per senpaga retpoŝta maskado.
+newtab-privacy-message-promo-relay-2-cta = Ricevu maskojn
+newtab-privacy-message-promo-relay-3 = Ricevu 50 senpagajn retpoŝtajn maskojn por helpi gardi vian realan retpoŝtan adreson privata.
+newtab-privacy-message-promo-relay-3-cta = Ricevu maskojn
 
 ## Strings for the Stocks widget
 
@@ -1407,6 +1424,11 @@ newtab-sports-widget-message-day-in-play-title = Restu en la etoso pokala per la
 newtab-sports-widget-message-day-in-play-body = Sekvu la mondpokalon, koncentriĝu en taskoj, sciu kioma horo estas en la cetero de la mondo, kaj pli.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Esplori komponantojn
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-cta =
+    .label = Respondi enketon
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
