@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Διαχείριση { -firefox-sug
 urlbar-result-menu-report-inaccurate-location2 = Αναφορά ανακριβούς τοποθεσίας
 urlbar-result-menu-show-less-frequently2 = Εμφάνιση σπανιότερα
 urlbar-result-menu-dont-show-weather-suggestions2 = Να μην εμφανίζονται προτάσεις καιρού
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Απόρριψη πρότασης
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Αφαίρεση από το ιστορικό
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Μάθετε περισσότερα
     .accesskey = Μ
@@ -1103,6 +1113,8 @@ urlbar-searchmode-no-keyword2 =
     .title = Η αναζήτηση λέξεων-κλειδιών είναι ανενεργή
 urlbar-searchmode-dropmarker2 =
     .title = Επιλογή μηχανής αναζήτησης
+urlbar-searchmode-bookmarks3 = Σελιδοδείκτες
+    .accesskey = Β
 urlbar-searchmode-bookmarks2 = Σελιδοδείκτες
 urlbar-searchmode-tabs2 = Καρτέλες
 urlbar-searchmode-history2 = Ιστορικό

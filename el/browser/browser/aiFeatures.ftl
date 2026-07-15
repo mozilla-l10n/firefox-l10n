@@ -26,6 +26,9 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Αυτόματο άνοιγμα βοηθού
     .description = Εμφάνιση της πλαϊνής γραμμής του βοηθού σε κάθε νέα καρτέλα. Μπορείτε να την κλείστε ανά πάσα στιγμή.
+ai-window-smart-cursor-in-smart-window =
+    .label = Εμφάνιση συντομεύσεων κατά την επιλογή κειμένου
+    .description = Αποκτήστε γρήγορη πρόσβαση για να συνοψίσετε, να εξηγήσετε και πολλά άλλα.
 smart-window-model-section =
     .label = Μοντέλο βοηθού
     .description = Επιλέξτε ένα μοντέλο με βάση τις ανάγκες σας.
@@ -92,3 +95,18 @@ ai-window-delete-all-memories-cancel = Ακύρωση
 ai-window-memory-delete-button =
     .title = Διαγραφή ανάμνησης
     .aria-label = Διαγραφή της ανάμνησης «{ $label }»
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Γρήγορο
+    .description = Ιδανικό για γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία. Πλήρες όνομα: { $model } από { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Ευέλικτο
+    .description = Έτοιμο για μια ποικιλία εργασιών. Πλήρες όνομα: { $model } από { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Προσωπικό
+    .description = Σχεδιασμένο για εξατομικευμένη βοήθεια σε όλες τις γλώσσες. Πλήρες όνομα: { $model } από { $ownerName }

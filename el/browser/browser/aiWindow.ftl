@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Καλώς ορίσατε στο { -smart-window-brand-name(form: "uppperSingularNom") }
 aiwindow-firstrun-model-title = Τι είναι σημαντικό για εσάς;
+aiwindow-firstrun-model-title-v2 = Επιλέξτε ένα μοντέλο για να ξεκινήσετε
 aiwindow-firstrun-model-subtitle = Επιλέξτε ένα μοντέλο για το { -smart-window-brand-name(form: "lowerSingularNom") }. Μπορείτε να το αλλάξετε ανά πάσα στιγμή.
+aiwindow-firstrun-model-subtitle-v2 = Κάθε μοντέλο μπορεί να σάς βοηθήσει να συνοψίσετε, να συγκρίνετε και να εξερευνήσετε όλες τις καρτέλες σας. Μπορείτε να κάνετε εναλλαγή ανά πάσα στιγμή.
 aiwindow-firstrun-model-fast-label = Γρήγορο
 aiwindow-firstrun-model-fast-body = Απαντά γρήγορα
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Γρήγορο: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Καλύτερο για γρήγορες απαντήσεις όταν κινήστε γρήγορα
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Μοντέλο { $model } από την { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Ευέλικτο
 aiwindow-firstrun-model-allpurpose-body = Ιδανική επιλογή για τις περισσότερες ανάγκες
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Ευέλικτο: { $shortName }
+aiwindow-firstrun-model-flexible-body = Έτοιμο για μια ποικιλία εργασιών
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Προτείνεται
 aiwindow-firstrun-model-personal-label = Προσωπικό
 aiwindow-firstrun-model-personal-body = Οι πιο προσαρμοσμένες απαντήσεις
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Προσωπικό: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Σχεδιασμένο για εξατομικευμένη βοήθεια για όλες τις γλώσσες
 aiwindow-firstrun-button = Ας ξεκινήσουμε
 aiwindow-firstrun-back-button = Πίσω
 aiwindow-firstrun-next-button = Επόμενο
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Γρήγορο
 aiwindow-input-model-select-button-label-allpurpose = Ευέλικτο
 aiwindow-input-model-select-button-label-personal = Προσωπικό
 aiwindow-input-model-select-button-label-custom = Προσαρμοσμένο
+aiwindow-input-model-select-button-description-custom = Χρησιμοποιήστε το δικό σας LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -309,3 +323,12 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Εναλλαγή λειτουργίας: Προβολή πλέγματος
     .tooltiptext = Προβολή πλέγματος
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-browsing-summarize = Σύνοψη καρτελών
+aiwindow-starter-browsing-compare = Σύγκριση καρτελών
