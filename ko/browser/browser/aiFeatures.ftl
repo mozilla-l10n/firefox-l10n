@@ -95,3 +95,15 @@ ai-window-delete-all-memories-cancel = 취소
 ai-window-memory-delete-button =
     .title = 기억 삭제
     .aria-label = { $label } 삭제
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: 빠름
+    .description = 빠른 답변이 필요할 때 가장 적합합니다. 전체 이름: { $ownerName }의 { $model }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: 유연함
+    .description = 다양한 작업에 유연하게 대응합니다. 전체 이름: { $ownerName }의 { $model }
