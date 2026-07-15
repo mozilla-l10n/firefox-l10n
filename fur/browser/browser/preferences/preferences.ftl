@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Vierç in automatic { -brand-short-name } cuant che il computer si invie
     .accesskey = V
 windows-launch-on-login-disabled = Cheste opzion e je stade disativade in Windows. Par cambiâle, visite <a data-l10n-name="startup-link">Aplicazions di inviament</a> tes impostazions di sisteme.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Vierç ancje une gnove schede
     .accesskey = n

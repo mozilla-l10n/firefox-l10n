@@ -102,6 +102,7 @@ aiwindow-firstrun-model-fast-label = Malsny
 aiwindow-firstrun-model-fast-body = Wótegranja malsnje
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } wót { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibelny
 aiwindow-firstrun-model-personal-label = Wósobinski

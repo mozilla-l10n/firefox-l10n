@@ -15,7 +15,6 @@ appmenuitem-banner-update-unsupported =
     .label = D awezɣi ad yettuleqqem — anagraw ur yemṣada ara
 appmenuitem-banner-update-restart =
     .label = Yella lqem — ales asenker tura
-appmenu-nova-update-link = Ales asekker akken ad tleqqmeḍ
 appmenu-nova-fxa-sign-in = Qqen
 appmenuitem-new-tab =
     .label = Iccer amaynut

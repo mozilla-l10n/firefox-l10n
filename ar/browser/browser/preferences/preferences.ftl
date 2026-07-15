@@ -189,6 +189,7 @@ windows-launch-on-login =
     .label = افتح { -brand-short-name } تلقائيًا عند بدء تشغيل حاسوبك
     .accesskey = ع
 windows-launch-on-login-disabled = عُطّل هذا الخيار في نظام التشغيل ويندوز. لتغييره، انتقل إلى <a data-l10n-name="startup-link">تطبيقات بدء التشغيل</a> في إعدادات النظام.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = افتح أيضًا لسان جديد
     .accesskey = ف

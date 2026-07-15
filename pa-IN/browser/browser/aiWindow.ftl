@@ -102,6 +102,7 @@ aiwindow-firstrun-model-fast-label = ਤੇਜ਼
 aiwindow-firstrun-model-fast-body = ਫ਼ੌਰਨ ਜਵਾਬ ਦਿਓ
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $ownerName } ਵਲੋਂ { $model } ਮਾਡਲ
 aiwindow-firstrun-model-allpurpose-label = ਲਚਕਦਾਰ
 aiwindow-firstrun-model-allpurpose-body = ਬਹੁਤੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ

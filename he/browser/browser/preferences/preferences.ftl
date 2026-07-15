@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = פתיחת { -brand-short-name } באופן אוטומטי כשהמחשב שלך נדלק
     .accesskey = פ
 windows-launch-on-login-disabled = העדפה זו הושבתה ב־Windows. כדי לשנות אותה, יש לבקר ב<a data-l10n-name="startup-link">אפליקציות אתחול</a> בהגדרות המערכת.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = לפתוח גם לשונית חדשה
     .accesskey = ל

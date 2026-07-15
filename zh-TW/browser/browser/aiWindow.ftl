@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 快速回答
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = 由 { $ownerName } 提供的 { $model } 模型
 aiwindow-firstrun-model-allpurpose-label = 靈活
 aiwindow-firstrun-model-allpurpose-body = 適合大部分需求

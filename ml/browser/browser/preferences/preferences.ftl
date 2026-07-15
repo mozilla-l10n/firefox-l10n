@@ -99,6 +99,7 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = മുമ്പത്തെ ജാലകങ്ങളും ടാബുകളും തുറക്കുക
     .accesskey = ത
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = അതുകൂടാതെ ഒരു പുതിയ ടാബും തുറക്കുക
     .accesskey = പ

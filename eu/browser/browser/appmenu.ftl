@@ -15,10 +15,6 @@ appmenuitem-banner-update-unsupported =
     .label = Ezin da eguneratu — sistema bateragaitza
 appmenuitem-banner-update-restart =
     .label = Eguneraketa erabilgarri — berrabiarazi orain
-# Fresh Firefox refers to the new updated UI
-appmenu-nova-update-promo =
-    .message = Lortu { -brand-short-name } berria. Mantendu zure fitxa guztiak.
-appmenu-nova-update-link = Berrabiarazi eguneratzeko
 appmenu-nova-fxa-sign-in = Hasi saioa
 appmenu-nova-switch-device-promo =
     .message = Gailu berri batera aldatzera zoaz laster? Eraman { -brand-short-name } zurekin!

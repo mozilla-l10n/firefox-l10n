@@ -15,10 +15,6 @@ appmenuitem-banner-update-unsupported =
     .label = Uuendamine pole võimalik — süsteem pole ühilduv
 appmenuitem-banner-update-restart =
     .label = Uuendus on saadaval — taaskäivita kohe
-# Fresh Firefox refers to the new updated UI
-appmenu-nova-update-promo =
-    .message = Hangi värske { -brand-short-name }. Säilita kõik oma kaardid.
-appmenu-nova-update-link = Uuendamiseks taaskäivita
 appmenu-nova-fxa-sign-in = Logi sisse
 appmenu-nova-switch-device-promo =
     .message = Kas saad peagi uue seadme? Võta { -brand-short-name } kaasa!

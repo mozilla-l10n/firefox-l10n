@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Spustiť { -brand-short-name(case: "acc") } automaticky po spustení počítača
     .accesskey = S
 windows-launch-on-login-disabled = Táto predvoľba bola v systéme Windows zakázaná. Ak to chcete zmeniť, navštívte stránku <a data-l10n-name="startup-link">Aplikácie pri spustení</a> v nastaveniach systému.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = A tiež otvoriť novú kartu
     .accesskey = A

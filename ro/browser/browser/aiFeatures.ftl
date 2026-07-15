@@ -31,7 +31,8 @@ smart-window-model-section =
     .description = Alege un model bazat pe ce e important pentru tine.
 smart-window-model-learn-link = Află despre modele
 
-## Variables:
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 

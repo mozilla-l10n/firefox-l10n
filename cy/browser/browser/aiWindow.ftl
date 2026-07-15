@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Cyflym
 aiwindow-firstrun-model-fast-body = Yn ateb yn gyflym
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } gan { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Hyblyg
 aiwindow-firstrun-model-allpurpose-body = Y dewis addas ar gyfer y rhan fwyaf o anghenion

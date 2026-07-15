@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Deschide automat { -brand-short-name } la pornirea calculatorului
     .accesskey = O
 windows-launch-on-login-disabled = Preferința a fost dezactivată în Windows. Pentru modificare, intră în <a data-l10n-name="startup-link">Aplicații la pornire</a> în Setările de sistem.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Deschide și o filă nouă
     .accesskey = n

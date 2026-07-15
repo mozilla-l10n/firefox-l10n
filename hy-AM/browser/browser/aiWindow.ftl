@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Արագ
 aiwindow-firstrun-model-fast-body = Արագ պատասխաններ
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Մոդել { $model }՝ { $ownerName }-ի կողմից
 aiwindow-firstrun-model-allpurpose-label = Ճկուն
 aiwindow-firstrun-model-allpurpose-body = Հաստատուն համապատասխանություն մեծամասնության կարիքներին

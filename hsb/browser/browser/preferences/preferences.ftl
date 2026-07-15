@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = { -brand-short-name } awtomatisce wočinić, hdyž so waš ličak startuje
     .accesskey = a
 windows-launch-on-login-disabled = Tute nastajenje je so we Windows znjemóžniło. Zo byšće nastajenje změnił, wopytajće <a data-l10n-name="startup-link">Autostart</a> w systemowych nastajenjach.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Nowy rajtark tež wočinić
     .accesskey = N

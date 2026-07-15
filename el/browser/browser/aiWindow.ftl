@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Γρήγορο
 aiwindow-firstrun-model-fast-body = Απαντά γρήγορα
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Μοντέλο { $model } από την { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Ευέλικτο
 aiwindow-firstrun-model-allpurpose-body = Ιδανική επιλογή για τις περισσότερες ανάγκες

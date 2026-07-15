@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Ipya’e
 aiwindow-firstrun-model-fast-body = Embohovái pya’e
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Techarã { $model } { $ownerName } rehe
 aiwindow-firstrun-model-allpurpose-label = Pepykuaáva
 aiwindow-firstrun-model-allpurpose-body = Oñeme’ẽ oĩva tekotevẽre

@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Öppna { -brand-short-name } automatiskt när din dator startar
     .accesskey = p
 windows-launch-on-login-disabled = Den här inställningen har inaktiverats i Windows. För att ändra, besök <a data-l10n-name="startup-link">Autostart-appar</a> i Systeminställningar.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Öppna också en ny flik
     .accesskey = n

@@ -15,10 +15,6 @@ appmenuitem-banner-update-unsupported =
     .label = ไม่สามารถอัปเดต — ใช้ร่วมกับระบบไม่ได้
 appmenuitem-banner-update-restart =
     .label = มีการอัปเดต — เริ่มใหม่ทันที
-# Fresh Firefox refers to the new updated UI
-appmenu-nova-update-promo =
-    .message = รับ { -brand-short-name } ใหม่เอี่ยม โดยยังคงแท็บทั้งหมดของคุณไว้
-appmenu-nova-update-link = เริ่มการทำงานใหม่เพื่ออัปเดต
 appmenu-nova-fxa-sign-in = ลงชื่อเข้า
 appmenu-nova-switch-device-promo =
     .message = กำลังจะเปลี่ยนไปใช้อุปกรณ์เครื่องใหม่ใช่ไหม? นำ { -brand-short-name } ไปด้วยสิ!

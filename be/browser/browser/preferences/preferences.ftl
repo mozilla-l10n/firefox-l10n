@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Адкрываць { -brand-short-name } аўтаматычна пры запуску камп'ютара
     .accesskey = ў
 windows-launch-on-login-disabled = Гэты параметр быў адключаны ў Windows. Каб змяніць яго, адкрыйце <a data-l10n-name="startup-link">Аўтазагрузка праграм</a> у наладах сістэмы.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Таксама адкрыць новую картку
     .accesskey = т

@@ -27,7 +27,8 @@ ai-window-open-sidebar =
     .label = Asszisztens automatikus megnyitása
     .description = Az asszisztens oldalsáv megjelenítése minden új lapon. Zárja be bármikor.
 
-## Variables:
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 

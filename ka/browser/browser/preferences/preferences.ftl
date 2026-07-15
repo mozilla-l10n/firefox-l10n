@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = გაეშვას { -brand-short-name } თავისით კომპიუტერის ჩართვისთანავე
     .accesskey = ე
 windows-launch-on-login-disabled = ეს შესაძლებლობა გათიშულია Windows-ში. შესაცვლელად იხილეთ <a data-l10n-name="startup-link">Startup Apps</a> სისტემის პარამეტრებში.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = ასევე გახსნა ახალ ჩანართში
     .accesskey = ლ

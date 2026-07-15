@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Швидка
 aiwindow-firstrun-model-fast-body = Швидко відповідає
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Модель { $model } від { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Гнучка
 aiwindow-firstrun-model-allpurpose-body = Оптимальна для більшості потреб

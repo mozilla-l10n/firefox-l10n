@@ -34,7 +34,8 @@ smart-window-model-section =
     .description = Kies in model op basis fan wat jo wichtich fine.
 smart-window-model-learn-link = Ynfo oer modellen
 
-## Variables:
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 

@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Avaa { -brand-short-name } automaattisesti, kun tietokoneesi käynnistyy
     .accesskey = O
 windows-launch-on-login-disabled = Tämä asetus on poistettu käytöstä Windowsissa. Jos haluat muuttaa sitä, siirry kohtaan <a data-l10n-name="startup-link">Käynnistyssovellukset</a> asetuksissa.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Avaa myös uusi välilehti
     .accesskey = m

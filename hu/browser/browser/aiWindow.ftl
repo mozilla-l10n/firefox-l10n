@@ -102,6 +102,7 @@ aiwindow-firstrun-model-fast-label = Gyors
 aiwindow-firstrun-model-fast-body = Gyorsan válaszol
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $model } modell, készítette: { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Rugalmas
 aiwindow-firstrun-model-personal-label = Személyes

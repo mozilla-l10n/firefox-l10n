@@ -94,6 +94,7 @@ aiwindow-firstrun-model-fast-label = زل
 aiwindow-firstrun-model-fast-body = زی جواو اده
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerName }
 aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
 aiwindow-firstrun-model-personal-label = سیخومی

@@ -15,7 +15,8 @@ ai-window-is-default-window =
     .description = Բացել { -smart-window-brand-name }-ը, երբ { -brand-short-name }-ը մեկնարկում է, վերամեկնարկում է կամ բացում է հղումներ այլ սարքերից:
 smart-window-model-learn-link = Իմանալ մոդելների մասին
 
-## Variables:
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 

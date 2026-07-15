@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Ireki { -brand-short-name } automatikoki ordenagailuaren abioan
     .accesskey = r
 windows-launch-on-login-disabled = Hobespen hau Windowsen desgaitu da. Aldatzeko, bisitatu <a data-l10n-name="startup-link">Abioko aplikazioak</a> sistemaren ezarpenetan.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Ireki baita ere fitxa berria
     .accesskey = b

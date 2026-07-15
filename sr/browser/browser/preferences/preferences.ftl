@@ -227,6 +227,7 @@ windows-launch-on-login =
     .label = Аутоматски отвори { -brand-short-name } када се рачунар покрене
     .accesskey = А
 windows-launch-on-login-disabled = Ово подешавање је онемогућено у Windows-у. Да промените, посетите <a data-l10n-name="startup-link">апликације при покретању</a> у подешавањима система.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Такође отвори нови језичак
     .accesskey = н

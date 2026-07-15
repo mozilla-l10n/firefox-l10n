@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Fluch
 aiwindow-firstrun-model-fast-body = Antwurdt fluch
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } fan { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Deugdlik passend foar de measte behoeften

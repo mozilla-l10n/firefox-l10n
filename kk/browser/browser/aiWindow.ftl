@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Жылдам
 aiwindow-firstrun-model-fast-body = Жылдам жауап береді
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Модель: { $model }, иесі: { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Икемді
 aiwindow-firstrun-model-allpurpose-body = Көптеген қажеттіліктерге толық сәйкес келеді

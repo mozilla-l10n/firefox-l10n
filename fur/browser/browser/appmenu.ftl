@@ -15,10 +15,6 @@ appmenuitem-banner-update-unsupported =
     .label = Impussibil inzornâ — sisteme incompatibil
 appmenuitem-banner-update-restart =
     .label = Inzornament disponibil — torne invie cumò
-# Fresh Firefox refers to the new updated UI
-appmenu-nova-update-promo =
-    .message = Instale une gnove version di { -brand-short-name }. Manten dutis lis tôs schedis al lôr puest.
-appmenu-nova-update-link = Torne invie par inzornâ
 appmenu-nova-fxa-sign-in = Jentre
 appmenu-nova-switch-device-promo =
     .message = Stâstu par cambiâ dispositîf? Puartiti daûr { -brand-short-name }!

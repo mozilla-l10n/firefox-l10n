@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Aperir { -brand-short-name } automaticamente quando on accende tu computator
     .accesskey = A
 windows-launch-on-login-disabled = Iste preferentia ha essite disactivate in Windows. In Parametros, aperi <a data-l10n-name="startup-link">Apps initial</a> pro modificar lo.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Alsi aperir un nove scheda
     .accesskey = n

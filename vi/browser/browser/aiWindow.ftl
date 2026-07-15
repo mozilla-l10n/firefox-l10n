@@ -103,6 +103,7 @@ aiwindow-firstrun-model-fast-label = Nhanh
 aiwindow-firstrun-model-fast-body = Trả lời nhanh chóng
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Mô hình { $model } bởi { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Linh hoạt
 aiwindow-firstrun-model-allpurpose-body = Phù hợp với hầu hết các nhu cầu

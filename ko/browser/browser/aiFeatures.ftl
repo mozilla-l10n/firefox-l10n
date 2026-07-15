@@ -34,7 +34,8 @@ smart-window-model-section =
     .description = 중요하게 생각하는 가치에 따라 모델을 선택하세요.
 smart-window-model-learn-link = 모델에 대해 더 알아보기
 
-## Variables:
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 

@@ -191,6 +191,7 @@ windows-launch-on-login =
     .label = Obre el { -brand-short-name } automàticament en iniciar l'ordinador
     .accesskey = O
 windows-launch-on-login-disabled = Aquesta preferència s'ha desactivat al Windows. Per canviar-la, aneu a <a data-l10n-name="startup-link">Aplicacions d'inici</a> en els paràmetres del sistema.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
 windows-launch-on-login-open-new-tab =
     .label = Obre també una pestanya nova
     .accesskey = n
