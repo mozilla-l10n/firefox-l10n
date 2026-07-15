@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Te damos la bienvenida a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Qué es importante para ti?
+aiwindow-firstrun-model-title-v2 = Elige un modelo para empezar
 aiwindow-firstrun-model-subtitle = Elige un modelo para usar en las { -smart-window-brand-name }. Cámbialo cuando quieras.
+aiwindow-firstrun-model-subtitle-v2 = Cada modelo te permite resumir, comparar y explorar en todas tus pestañas. Cambia cuando quieras.
 aiwindow-firstrun-model-fast-label = Rápido
 aiwindow-firstrun-model-fast-body = Responde rápidamente
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Ideal para obtener respuestas rápidas cuando te mueves con rapidez.
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-allpurpose-body = Se adapta perfectamente a la mayoría de las necesidades
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexible: { $shortName }
+aiwindow-firstrun-model-flexible-body = Preparado para una variedad de tareas
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Recomendado
 aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Respuestas más personalizadas
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Diseñado para brindar ayuda personalizada en todos los idiomas.
 aiwindow-firstrun-button = Empecemos
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexible
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Personalizado
+aiwindow-input-model-select-button-description-custom = Usa tu propio LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -309,3 +323,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Cambiar modo: Vista de cuadrícula
     .tooltiptext = Vista de cuadrícula
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Escribe un primer borrador
+aiwindow-starter-writing-improve = Mejorar la escritura
+aiwindow-starter-writing-proofread = Revisar un mensaje
+aiwindow-starter-planning-simplify = Simplificar un tema
+aiwindow-starter-planning-brainstorm = Lluvia de ideas
+aiwindow-starter-planning-plan = Ayuda a elaborar un plan
+aiwindow-starter-browsing-history = Busca pestañas en el historial
+aiwindow-starter-browsing-summarize = Resume pestañas
+aiwindow-starter-browsing-compare = Compara pestañas

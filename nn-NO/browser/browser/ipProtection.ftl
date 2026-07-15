@@ -63,7 +63,7 @@ ipprotection-site-settings-callout-button = Eg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyheit: Byt plassering
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom fleire stadar å surfe frå, eller la oss velje den raskaste for deg.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lèt deg velje mellom fleire plasseringar å surfe frå, eller la oss velje den raskaste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
 
@@ -73,7 +73,7 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringa di</a> medan du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Bidreg til å <a data-l10n-name="learn-more-vpn">halde plasseringa di privat</a> i { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Vel mellom fleire stadar å surfe frå, eller la { -brand-product-name } velje den raskaste for deg.
+unauthenticated-choose-location-message-1 = Vel mellom fleire plasseringar å surfe frå, eller la { -brand-product-name } velje den raskaste for deg.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å halde fram godtek du <a data-l10n-name="vpn-terms-of-service">tenestevilkåra</a> og <a data-l10n-name="vpn-privacy-notice">personvernfråsegna</a>.
 site-exclusion-toggle-enabled-1 =
@@ -166,13 +166,13 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Du nærmar deg VPN-grensa di
     .message = Du har { $usageLeft } MB av { $maxUsage } GB igjen denne månaden.
-ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule posisjonen din og legge til ekstra kryptering i nettlesinga di.
+ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule plasseringa di og leggje til ekstra kryptering i nettlesinga di.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Still inn VPN til å slå seg på</a> kvar gong du opnar { -brand-short-name } for eit ekstra lag med vern.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hugsar kva nettstadar du har stilt inn til å bruke VPN. Oppdater desse i <a data-l10n-name="setting-link">innstillingar</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
 ipprotection-open-button = Opne { -brand-product-name }
 ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
-ipprotection-message-body-hide-location = Skjul posisjonen din når du surfar med { -brand-product-name } for meir personvern og kontroll.
+ipprotection-message-body-hide-location = Skjul plasseringa di når du surfar med { -brand-product-name } for meir personvern og kontroll.
 ipprotection-connection-status-generic-error-title-1 = Klarte ikkje å kople til VPN
     .aria-label = Klarte ikkje å kople til VPN
 
