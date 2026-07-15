@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Hantera { -firefox-suggest-brand-na
 urlbar-result-menu-report-inaccurate-location2 = Rapportera felaktig plats
 urlbar-result-menu-show-less-frequently2 = Visas mer sällan
 urlbar-result-menu-dont-show-weather-suggestions2 = Visa inte väderförslag
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Avvisa förslaget
+    .accesskey = A
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Ta bort från historik
+    .accesskey = T
 urlbar-result-menu-learn-more =
     .label = Läs mer
     .accesskey = L
@@ -1103,6 +1113,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Nyckelordssökning är inaktiverad
 urlbar-searchmode-dropmarker2 =
     .title = Välj en sökmotor
+urlbar-searchmode-bookmarks3 = Bokmärken
+    .accesskey = B
+urlbar-searchmode-tabs3 = Flikar
+    .accesskey = F
+urlbar-searchmode-history3 = Historik
+    .accesskey = H
+urlbar-searchmode-actions3 = Åtgärder
+    .accesskey = Å
 urlbar-searchmode-bookmarks2 = Bokmärken
 urlbar-searchmode-tabs2 = Flikar
 urlbar-searchmode-history2 = Historik
@@ -1122,6 +1140,10 @@ urlbar-searchmode-popup-one-off-header = Denna gång, sök med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Sök med:
+urlbar-searchmode-popup-search-settings = Sökinställningar
+    .accesskey = S
+urlbar-searchmode-popup-settings = Inställningar
+    .accesskey = I
 urlbar-searchmode-popup-search-settings-panelitem = Sökinställningar
 urlbar-searchmode-popup-settings-panelitem = Inställningar
 

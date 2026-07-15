@@ -117,6 +117,11 @@ sidebar-item-session-history = Sessionshistorik
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Visa sessionshistorikdata
+# Title (tooltip) for the clickable Session History diagram column headers, which
+# navigate the inspected page to that entry in its session history.
+# Variables:
+#   $index (number) - The session history index that will be navigated to.
+session-history-navigate-button-title = Navigera till sessionshistorikpost { $index }
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = Diagram över sessionshistorik är inte tillgängligt
 # Text displayed for when the target does not support showing session history diagrams

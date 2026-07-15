@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Välkommen till { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Vad är viktigt för dig?
+aiwindow-firstrun-model-title-v2 = Välj en modell att starta
 aiwindow-firstrun-model-subtitle = Välj en modell för att driva { -smart-window-brand-name }. Byt när som helst.
+aiwindow-firstrun-model-subtitle-v2 = Varje modell kan hjälpa dig att sammanfatta, jämföra och utforska dina flikar. Byt när som helst.
 aiwindow-firstrun-model-fast-label = Snabb
 aiwindow-firstrun-model-fast-body = Svarar snabbt
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Snabb: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Bäst för snabba svar när du flyttar snabbt
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modell { $model } gånger { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibel
 aiwindow-firstrun-model-allpurpose-body = Rejäl passform för de flesta behov
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexibel: { $shortName }
+aiwindow-firstrun-model-flexible-body = Redo för en mängd olika uppgifter
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Rekommenderad
 aiwindow-firstrun-model-personal-label = Privat
 aiwindow-firstrun-model-personal-body = Mest skräddarsydda svar
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personligt: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Byggt för personlig hjälp på olika språk
 aiwindow-firstrun-button = Låt oss börja
 aiwindow-firstrun-back-button = Tillbaka
 aiwindow-firstrun-next-button = Nästa
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Snabb
 aiwindow-input-model-select-button-label-allpurpose = Flexibel
 aiwindow-input-model-select-button-label-personal = Privat
 aiwindow-input-model-select-button-label-custom = Anpassad
+aiwindow-input-model-select-button-description-custom = Använd din egen LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -309,3 +323,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Byt läge: Rutnätsvy
     .tooltiptext = Rutnätsvy
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Skriv ett första utkast
+aiwindow-starter-writing-improve = Förbättra skrivandet
+aiwindow-starter-writing-proofread = korrekturläsa ett meddelande
+aiwindow-starter-planning-simplify = Förenkla ett ämne
+aiwindow-starter-planning-brainstorm = Brainstorma idéer
+aiwindow-starter-planning-plan = Hjälp till att göra en plan
+aiwindow-starter-browsing-history = Hitta flikar i historiken
+aiwindow-starter-browsing-summarize = Sammanfatta flikar
+aiwindow-starter-browsing-compare = Jämför flikar
