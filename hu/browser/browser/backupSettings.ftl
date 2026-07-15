@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Biztonsági mentés bekapcsolása
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Hiba történt a kiválasztott biztonsági mentési mappával kapcsolatban. Válasszon egy másik mappát, és próbálja újra.
+turn-on-scheduled-backups-error-default-dir-denied = Nem tudtuk elérni a mentési mappáját. Próbáljon meg új helyet választani.
 backup-error-file-system = Hiba történt a kiválasztott mentési mappával a { -brand-short-name } biztonsági mentése során.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

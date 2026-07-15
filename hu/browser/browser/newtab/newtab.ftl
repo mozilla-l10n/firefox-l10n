@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Adatvédelem
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Keresztrejtvény
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Részvények
@@ -304,6 +307,8 @@ newtab-privacy-message-first-protection-cta = Védelmek megtekintése
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Részvénykódok keresésére
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = További tudnivalók
 # "Stocks widget options" is an icon-only button in the widget toolbar — the

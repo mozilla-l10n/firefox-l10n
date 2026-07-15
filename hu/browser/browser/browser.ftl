@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = A { -firefox-suggest-brand-name } k
 urlbar-result-menu-report-inaccurate-location2 = Pontatlan hely jelentése
 urlbar-result-menu-show-less-frequently2 = Megjelenítés ritkábban
 urlbar-result-menu-dont-show-weather-suggestions2 = Ne jelenjenek meg időjárási javaslatok
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Javaslat elvetése
+    .accesskey = e
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Törlés az előzményekből
+    .accesskey = T
 urlbar-result-menu-learn-more =
     .label = További tudnivalók
     .accesskey = T
@@ -403,6 +413,9 @@ quickactions-addons = Kiegészítők megjelenítése
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = kiegészítők, témák
+# Opens preferences page at AI controls
+quickactions-manageai = MI-vezérlők kezelése
+quickactions-cmd-manageai = mi letiltása, mi kikapcsolása, mi kezelése
 quickactions-cmd-addons2 = kiegészítők
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Könyvjelzők kezelése
@@ -1103,6 +1116,14 @@ urlbar-searchmode-no-keyword2 =
     .title = A kulcsszavas keresés le van tiltva
 urlbar-searchmode-dropmarker2 =
     .title = Válasszon keresőszolgáltatást
+urlbar-searchmode-bookmarks3 = Könyvjelzők
+    .accesskey = K
+urlbar-searchmode-tabs3 = Lapok
+    .accesskey = L
+urlbar-searchmode-history3 = Előzmények
+    .accesskey = E
+urlbar-searchmode-actions3 = Műveletek
+    .accesskey = M
 urlbar-searchmode-bookmarks2 = Könyvjelzők
 urlbar-searchmode-tabs2 = Lapok
 urlbar-searchmode-history2 = Előzmények
@@ -1122,6 +1143,10 @@ urlbar-searchmode-popup-one-off-header = Ezúttal keressen a következővel:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Keresés ezzel:
+urlbar-searchmode-popup-search-settings = Keresési beállítások
+    .accesskey = s
+urlbar-searchmode-popup-settings = Beállítások
+    .accesskey = B
 urlbar-searchmode-popup-search-settings-panelitem = Keresési beállítások
 urlbar-searchmode-popup-settings-panelitem = Beállítások
 

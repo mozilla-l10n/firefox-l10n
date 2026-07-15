@@ -222,9 +222,15 @@ newtab-privacy-message-info-7 = Vegeu quins elements de seguiment ha bloquejat e
 newtab-privacy-message-info-7-cta = Mostra les proteccions
 newtab-privacy-message-info-8 = Navegar amb el { -brand-short-name } contribueix a la missió del { -vendor-short-name } de construir un web millor.
 newtab-privacy-message-info-8-cta = Més informació
+newtab-privacy-message-info-9 = Trieu el { -brand-short-name }, amb privadesa integrada, com a navegador de referència.
 newtab-privacy-message-info-9-cta = Fes que sigui el navegador per defecte
+newtab-privacy-message-info-10 = Deseu les contrasenyes al { -brand-short-name } per utilitzar inicis de sessió forts i únics a tot arreu.
+newtab-privacy-message-info-10-cta = Ves a les contrasenyes
+newtab-privacy-message-info-11 = Descobriu com el { -brand-short-name } us ajuda a mantenir la privadesa de la navegació.
 newtab-privacy-message-info-11-cta = Més informació
+newtab-privacy-message-info-12 = Bloquejar els elements de seguiment pot ajudar a estalviar amplada de banda en plans de dades limitats.
 newtab-privacy-message-info-12-cta = Mostra les proteccions
+newtab-privacy-message-info-13 = El { -brand-short-name } bloqueja els elements de seguiment, alliberant amplada de banda per a una transmissió més fluida.
 newtab-privacy-message-info-13-cta = Mostra les proteccions
 
 ## Privacy widget — promotional messages
@@ -232,7 +238,9 @@ newtab-privacy-message-info-13-cta = Mostra les proteccions
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Esbrineu si la vostra informació personal apareix en una filtració de dades.
 newtab-privacy-message-promo-monitor-1-cta = Més informació
+newtab-privacy-message-promo-monitor-2 = Protegiu la vostra informació amb la supervisió gratuïta de filtracions de dades, per a un màxim de 20 correus electrònics.
 newtab-privacy-message-promo-monitor-2-cta = Més informació
 newtab-privacy-message-promo-signin-1-cta = Inicia la sessió
 newtab-privacy-message-promo-vpn-1-cta = Obre la VPN
