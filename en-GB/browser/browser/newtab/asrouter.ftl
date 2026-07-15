@@ -493,3 +493,10 @@ nova-early-access-share-feedback-link = Share feedback
     .accesskey = S
 nova-early-access-infobar-primary-button = Got it
     .accesskey = G
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Start { -brand-short-name } every time you sign in to Windows?
+app-exit-spotlight-checkbox-launch-on-login = Open { -brand-short-name } at startup
+app-exit-spotlight-checkbox-pin-to-taskbar = Pin to your taskbar
+app-exit-spotlight-primary-button = Save and close { -brand-short-name }
