@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privacidad
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Crucigrama
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Acciones
@@ -165,6 +168,80 @@ home-prefs-mission-message-learn-more-link-srd = Descubre cómo
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Aprender más
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Rastreador bloqueado hoy
+       *[other] Rastreadores bloqueados hoy
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] En { $count } sitio
+       *[other] En { $count } sitios
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } bloquea los rastreadores mientras navegas. Los verás aquí.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } bloquea automáticamente los rastreadores mientras navegas.
+newtab-privacy-message-info-1-cta = Ver protecciones
+newtab-privacy-message-info-2 = El bloqueo de rastreadores ayuda a impedir que las empresas te sigan en línea.
+newtab-privacy-message-info-2-cta = Ver protecciones
+newtab-privacy-message-info-3 = Muchos sitios web utilizan sistemas de seguimiento, por lo que empresas que nunca has visitado pueden seguirte en línea.
+newtab-privacy-message-info-3-cta = Ver protecciones
+newtab-privacy-message-info-4 = Elegir { -brand-short-name } significa elegir la protección por defecto.
+newtab-privacy-message-info-4-cta = Ver protecciones
+newtab-privacy-message-info-5 = Bloquear los rastreadores significa que menos empresas podrán seguirte a través de diferentes sitios web.
+newtab-privacy-message-info-5-cta = Ver protecciones
+newtab-privacy-message-info-6 = Resguarda tus datos con { -brand-short-name }. Nosotros nunca los vendemos, pero otros navegadores sí podrían.
+newtab-privacy-message-info-6-cta = Aprender más
+newtab-privacy-message-info-7 = Revisa qué rastreadores bloqueó { -brand-short-name }.
+newtab-privacy-message-info-7-cta = Ver protecciones
+newtab-privacy-message-info-8 = Navegar con { -brand-short-name } apoya la misión de { -vendor-short-name } de construir una web mejor.
+newtab-privacy-message-info-8-cta = Más información
+newtab-privacy-message-info-9 = Haz de { -brand-short-name } tu navegador preferido para una privacidad integrada.
+newtab-privacy-message-info-9-cta = Predeterminar
+newtab-privacy-message-info-10 = Guarda tus contraseñas en { -brand-short-name } para usar credenciales seguras y únicas en todas partes.
+newtab-privacy-message-info-10-cta = Ir a la contraseñas
+newtab-privacy-message-info-11 = Descubre cómo { -brand-short-name } ayuda a mantener tu navegación más privada.
+newtab-privacy-message-info-11-cta = Más información
+newtab-privacy-message-info-12 = Bloquear los rastreadores puede ayudar a ahorrar ancho de banda en planes de datos limitados.
+newtab-privacy-message-info-12-cta = Ver protecciones
+newtab-privacy-message-info-13 = { -brand-short-name } bloquea los rastreadores, liberando ancho de banda para una transmisión más fluida.
+newtab-privacy-message-info-13-cta = Ver protecciones
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Averigua si tu información personal aparece en una filtración de datos.
+newtab-privacy-message-promo-monitor-1-cta = Más información
+newtab-privacy-message-promo-monitor-2 = Proteje tu información con un servicio gratuito de monitoreo de filtraciones de datos, para hasta 20 correos electrónicos.
+newtab-privacy-message-promo-monitor-2-cta = Más información
 
 ## Strings for the Stocks widget
 

@@ -218,6 +218,11 @@ urlbar-result-menu-dont-show-weather-suggestions2 = No mostrar condiciones meter
 urlbar-input-dismiss-autofill =
     .label = Ignorar esta sugerencia
     .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Eliminar del historial
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Aprender más
     .accesskey = L
@@ -1111,6 +1116,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Búsqueda de palabras clave deshabilitada
 urlbar-searchmode-dropmarker2 =
     .title = Elegir un motor de búsqueda
+urlbar-searchmode-bookmarks3 = Marcadores
+    .accesskey = B
+urlbar-searchmode-tabs3 = Pestañas
+    .accesskey = T
+urlbar-searchmode-history3 = Historial
+    .accesskey = H
+urlbar-searchmode-actions3 = Acciones
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Marcadores
 urlbar-searchmode-tabs2 = Pestañas
 urlbar-searchmode-history2 = Historial
@@ -1130,6 +1143,10 @@ urlbar-searchmode-popup-one-off-header = Esta vez buscar con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-search-settings = Ajustes de búsqueda
+    .accesskey = S
+urlbar-searchmode-popup-settings = Ajustes
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = Ajustes de búsqueda
 urlbar-searchmode-popup-settings-panelitem = Ajustes
 
