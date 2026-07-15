@@ -1616,7 +1616,7 @@ preferences-relay-integration-checkbox2 =
 relay-integration-learn-more-link = Więcej informacji
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Automatyczne wypełnianie formularzy logowania
+    .label = Automatycznie wypełniaj formularze logowania
     .accesskey = A
 forms-saved-logins =
     .label = Zachowane dane logowania…

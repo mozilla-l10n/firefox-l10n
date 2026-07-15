@@ -262,8 +262,8 @@ crashes-time-minutes =
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] { $hours } oer lyn
-       *[other] { $hours } oer lyn
+        [one] { $hours } oere lyn
+       *[other] { $hours } oeren lyn
     }
 # Variables
 # $days (integer) - Number of days since crash

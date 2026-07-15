@@ -18,6 +18,8 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+appearance-browser-icon-set-default-button =
+    .label = Configurar como predefinite
 appearance-browser-icon-pin-button =
     .label = Clavar al barra de activitates
 
