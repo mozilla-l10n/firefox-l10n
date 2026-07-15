@@ -29,7 +29,7 @@ appearance-browser-icon-subpage-title =
 appearance-browser-icon-basic-group =
     .label = Standard
 appearance-browser-icon-bonus-group =
-    .label = Offre spéciale
+    .label = Spéciales
 
 ##
 

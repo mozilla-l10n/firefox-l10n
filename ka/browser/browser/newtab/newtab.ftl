@@ -248,6 +248,7 @@ newtab-privacy-message-promo-vpn-3 = ჩართეთ ჩაშენებუ
 newtab-privacy-message-promo-vpn-3-cta = გახსენით VPN
 newtab-privacy-message-promo-private-window-1 = მოსინჯეთ პირადი ფანჯარა პირადულად თვალიერებისთვის სხვებთან საზიარო კომპიუტერით სარგებლობისას.
 newtab-privacy-message-promo-private-window-1-cta = პირადი ფანჯრის გახსნა
+newtab-privacy-message-promo-relay-1 = გადაინახეთ თქვენი ნამდვილი ელფოსტა იმ ხალხისთვის, ვისაც ენდობით; გამოიყენეთ ელფოსტის ნიღაბი ანგარიშებისთვის.
 
 ## Privacy widget — celebration messages
 ##
