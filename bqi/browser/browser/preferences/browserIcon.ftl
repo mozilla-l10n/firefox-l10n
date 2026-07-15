@@ -29,3 +29,21 @@ appearance-browser-icon-bonus-group =
 
 appearance-browser-icon-set-default-button =
     .label = سامووݩ و سۊرت پؽش فرز
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = پؽش فرز
+appearance-browser-icon-retro2004 =
+    .label = ریترو 2004
+appearance-browser-icon-retro2017 =
+    .label = ریترو 2017
+appearance-browser-icon-pride =
+    .label = قۊرۊر
+appearance-browser-icon-minimal =
+    .label = مینیمال
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = کیت
+appearance-browser-icon-pixelated =
+    .label = پیکسلی
