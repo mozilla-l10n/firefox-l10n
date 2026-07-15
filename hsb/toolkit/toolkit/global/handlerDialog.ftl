@@ -87,3 +87,11 @@ choose-dialog-privatebrowsing-disabled = W priwatnych woknach znjemóžnjeny
 mailto-handler-picker-window =
     .title = Wubjerće swoje e-mejlowe nałoženje
     .style = min-width: 26em; min-height: 26em;
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Jako standard wužiwać
+    .accesskey = J
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Nic nětko
+    .accesskey = N

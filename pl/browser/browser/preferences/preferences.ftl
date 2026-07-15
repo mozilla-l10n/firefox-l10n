@@ -2116,11 +2116,11 @@ content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }
 content-blocking-and-isolating-etp-warning-description-2 = To ustawienie może spowodować niepoprawne działanie lub wyświetlanie niektórych stron. Jeśli dana strona wydaje się niewłaściwie działać, możesz wyłączyć dla niej ochronę przed śledzeniem, aby wczytać ją w całości.
 content-blocking-warning-learn-how = Więcej informacji
 content-blocking-baseline-exceptions-3 =
-    .label = Naprawianie poważnych problemów ze stronami (zalecane)
+    .label = Naprawiaj poważne problemy ze stronami (zalecane)
     .description = Pomaga wczytywać strony i funkcje przez odblokowanie tylko niezbędnych rzeczy, które mogą zawierać elementy śledzące. Rozwiązuje najczęstsze problemy.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
-    .label = Naprawianie drobnych problemów ze stronami
+    .label = Naprawiaj drobne problemy ze stronami
     .description = Przywraca między innymi filmy w artykułach czy sekcje komentarzy przez odblokowanie rzeczy, które mogą zawierać elementy śledzące. Może to ograniczyć problemy ze stronami, ale zmniejsza poziom ochrony. Wymaga włączenia opcji naprawiania poważnych problemów.
 content-blocking-baseline-uncheck-warning-dialog-title = Czy na pewno wyłączyć naprawianie?
 content-blocking-baseline-uncheck-warning-dialog-body = To ustawienie pomaga naprawiać najczęstsze problemy ze stronami. Wyłączenie może spowodować niepoprawne działanie niektórych stron, a { -brand-short-name } nie będzie mógł pomagać w rozwiązywaniu tych problemów.
@@ -2301,7 +2301,7 @@ collection-health-report =
 collection-health-report-link = Więcej informacji
 collection-health-report-description = To pomaga nam ulepszać funkcje, wydajność i stabilność { -brand-product-name(case: "gen") }.
 collection-studies2 =
-    .label = Instalowanie i przeprowadzanie badań
+    .label = Instaluj i przeprowadzaj badania
 collection-studies-description = Wypróbuj funkcje i pomysły, zanim zostaną udostępnione wszystkim użytkownikom.
 collection-studies =
     .label = { -brand-short-name } może instalować i przeprowadzać badania.
@@ -2373,7 +2373,7 @@ data-collection-usage-ping =
 
 website-advertising-header = Preferencje dotyczące reklam na witrynach
 website-advertising-private-attribution =
-    .label = Zezwalanie witrynom na przeprowadzanie pomiarów reklam przy zachowaniu prywatności
+    .label = Zezwalaj witrynom na przeprowadzanie pomiarów reklam przy zachowaniu prywatności
     .accesskey = Z
 website-advertising-private-attribution-description = Pomaga to witrynom zrozumieć skuteczność ich reklam bez zbierania danych o użytkowniku.
 
@@ -2404,7 +2404,7 @@ security-block-uncommon-software =
 
 certs-header = Certyfikaty
 certs-enable-ocsp =
-    .label = Odpytywanie serwerów OCSP w celu potwierdzenia wiarygodności certyfikatów
+    .label = Odpytuj serwery OCSP w celu potwierdzenia wiarygodności certyfikatów
     .accesskey = O
 certs-view =
     .label = Wyświetl certyfikaty…
