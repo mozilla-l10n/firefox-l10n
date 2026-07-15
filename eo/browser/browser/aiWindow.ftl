@@ -131,3 +131,20 @@ aiwindow-input-model-select-settings-link = Agordoj de modelo
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Pli da helpaj respondoj, laŭ viaj kondiĉoj
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } povas lerni el viaj konversacioj, retumo aŭ ambaŭ por krei memoraĵojn. Ili igas respondojn pli kaj pli helpaj.
+aiwindow-firstrun-memories-conversation-title = Daŭrigi la konversacion
+aiwindow-firstrun-memories-conversation-body = Lerni el konversacioj signifas ke vi devos malpli ofte rediri la samajn aferojn.
+aiwindow-firstrun-memories-relevance-title = Pli koncernaj respondoj
+aiwindow-firstrun-memories-relevance-body = Leri el retumo permesas al { -smart-window-brand-name } havi grandan superrigardon.
+aiwindow-firstrun-memories-privacy-title = Privata ekde la koncepto
+aiwindow-firstrun-memories-privacy-body = Memoraĵoj estas konservitaj en tiu ĉi aparato. Forigu aŭ malŝaltu ilin iam ajn.
+aiwindow-firstrun-memories-choose-label = Elektu el kio lernas { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Konversacioj en { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Retumo trans { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Modifu tiun ĉi elekton en la agordoj, iam ajn.
+aiwindow-firstrun-memories-no-create = Mi komprenas. { -smart-window-brand-name } ne kreos memoraĵojn. Vi povos modifi tion en la agordoj, iam ajn.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Uzi { -smart-window-brand-name } kiel ĉefan retumilon
+aiwindow-firstrun-default-subtitle = Retumu, serĉu kaj demandu en la sama loko. Vi plu povas malfermi privatajn kaj klasikajn fenestrojn, kiam vi volos.

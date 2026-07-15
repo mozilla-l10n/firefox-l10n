@@ -81,3 +81,30 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Premu novan klavon:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Ĉu forigi alian ŝparvojon?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Tiu ĉi klavo estas jam uzata de “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Tamen uzi.
+customkeys-conflict-confirm-button-cancel = Nuligi
+customkeys-reset-all-confirm-title = Ĉu restarigi normojn?
+customkeys-reset-all-confirm-body = Ĉiuj ŝparvojoj personecigitaj de vi estos forigitaj.
+customkeys-reset-all-confirm-button-confirm = Restarigi normojn
+customkeys-reset-all-confirm-button-cancel = Nuligi
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Flanka strio
+customkeys-title-heading =
+    .heading = Alirklavoj
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Serĉi ŝparvojojn
+    .placeholder = Serĉi ŝparvojojn
+customkeys-description = Regu la manieron moviĝi kaj interagi kun { -brand-short-name }.
+customkeys-support-link-text = Pli da informo
+customkeys-reset-all-button = Restarigi normojn
