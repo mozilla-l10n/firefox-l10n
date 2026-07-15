@@ -49,6 +49,8 @@ appearance-browser-icon-retro2004 =
     .label = Retro 2004
 appearance-browser-icon-retro2017 =
     .label = Retro 2017
+appearance-browser-icon-pride =
+    .label = Pride
 appearance-browser-icon-minimal =
     .label = Minimalistisch
 # Kit is the name of the new Firefox mascot, it shouldn't be translated.

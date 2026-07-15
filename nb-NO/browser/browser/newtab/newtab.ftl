@@ -212,6 +212,7 @@ newtab-privacy-message-info-5-cta = Vis beskyttelser
 newtab-privacy-message-info-6-cta = Les mer
 newtab-privacy-message-info-7-cta = Vis beskyttelser
 newtab-privacy-message-info-8-cta = Les mer
+newtab-privacy-message-info-10-cta = Gå til passord
 newtab-privacy-message-info-11-cta = Les mer
 newtab-privacy-message-info-12-cta = Vis beskyttelser
 newtab-privacy-message-info-13-cta = Vis beskyttelser
@@ -228,6 +229,17 @@ newtab-privacy-message-promo-vpn-1-cta = Åpen VPN
 newtab-privacy-message-promo-vpn-2-cta = Åpen VPN
 newtab-privacy-message-promo-vpn-3-cta = Åpen VPN
 newtab-privacy-message-promo-private-window-1-cta = Åpne privat vindu
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-year-cta = Vis beskyttelser
+newtab-privacy-message-milestone-total-cta = Vis beskyttelser
+newtab-privacy-message-daily-cap-cta = Vis beskyttelser
+newtab-privacy-message-streak-cta = Vis beskyttelser
+newtab-privacy-message-first-protection-cta = Vis beskyttelser
 
 ## Strings for the Stocks widget
 
