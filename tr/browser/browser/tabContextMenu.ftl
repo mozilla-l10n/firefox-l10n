@@ -108,6 +108,10 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Birden çok sekmeyi kapat
     .accesskey = B
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Çoklu kapat
+    .accesskey = o
 tab-context-close-duplicate-tabs =
     .label = Yinelenen sekmeleri kapat
     .accesskey = Y
@@ -207,4 +211,4 @@ tab-context-unload-n-tabs =
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
     .label = Boşalt
-    .accesskey = o
+    .accesskey = B

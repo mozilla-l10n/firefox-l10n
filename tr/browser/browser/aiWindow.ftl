@@ -98,17 +98,26 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = { -smart-window-brand-name(form: "uppercase-singular") }ye hoş geldiniz
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
+aiwindow-firstrun-model-title-v2 = Başlamak için bir model seçin
 aiwindow-firstrun-model-subtitle = { -smart-window-brand-name(form: "uppercase-singular") }de kullanacak modeli seçin. İstediğiniz zaman değiştirebilirsiniz.
 aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Hızlı: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $ownerName } tarafından geliştirilen { $model } modeli
 aiwindow-firstrun-model-allpurpose-label = Esnek
 aiwindow-firstrun-model-allpurpose-body = Çoğu ihtiyaç için ideal
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Esnek: { $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Önerilen
 aiwindow-firstrun-model-personal-label = Kişisel
 aiwindow-firstrun-model-personal-body = En özelleştirilmiş cevaplar
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Kişisel: { $shortName }
 aiwindow-firstrun-button = Başlayalım
 aiwindow-firstrun-back-button = Geri
 aiwindow-firstrun-next-button = İleri

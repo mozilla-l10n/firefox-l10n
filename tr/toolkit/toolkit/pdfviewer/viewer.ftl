@@ -163,6 +163,14 @@ pdfjs-digital-signature-properties-view-certificate = Sertifikayı göster
 #   $reason (String) - error message describing why the signature
 #                      could not be verified.
 pdfjs-digital-signature-properties-reason = Neden: { $reason }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] Alt imza ({ $count })
+       *[other] Alt imzalar ({ $count })
+    }
 
 ## Print
 
@@ -741,6 +749,28 @@ pdfjs-new-badge-content = YENİ
 pdfjs-views-manager-waiting-for-file = Dosya yükleniyor…
 pdfjs-toggle-views-manager-button1 =
     .title = Sayfaları yönet
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = Dijital imza özellikleri
+    .aria-label = Dijital imza özellikleri
+pdfjs-digital-signature-properties-button-label = Dijital imza özellikleri
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = Sertifika: Güvenilir ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Sertifika: Kullanılamıyor
+pdfjs-digital-signature-properties-certificate-untrusted = Sertifika: Güvensiz
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Sertifika: Kendi kendine imzalanmış ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Sertifika: Süresi dolmuş
+pdfjs-digital-signature-properties-certificate-expired-with-date = Sertifika: Süresi dolmuş ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Sertifika: İptal edilmiş
 
 ## Main menu for adding/removing signatures
 
