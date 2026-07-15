@@ -107,6 +107,8 @@ aiwindow-firstrun-model-fast-body = Wotmołwja spěšnje
 aiwindow-firstrun-model-chip-subtitle = Model { $model } wot { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibelny
 aiwindow-firstrun-model-allpurpose-body = Přihódny za najwjace potrěbnosćow
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Doporučeny
 aiwindow-firstrun-model-personal-label = Wosobinski
 aiwindow-firstrun-model-personal-body = Najlěpje přiměrjene wotmołwy
 aiwindow-firstrun-button = Započńmy
@@ -119,6 +121,7 @@ aiwindow-input-model-select-button-label-fast = Spěšny
 aiwindow-input-model-select-button-label-allpurpose = Fleksibelny
 aiwindow-input-model-select-button-label-personal = Wosobinski
 aiwindow-input-model-select-button-label-custom = Swójski
+aiwindow-input-model-select-button-description-custom = Wužiwajće swójski LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name

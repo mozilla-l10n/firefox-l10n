@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } rja
 urlbar-result-menu-report-inaccurate-location2 = Njedokładne stejnišćo zdźělić
 urlbar-result-menu-show-less-frequently2 = Mjenje často pokazać
 urlbar-result-menu-dont-show-weather-suggestions2 = Wjedrowe daty njepokazać
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Tutón namjet zaćisnyć
+    .accesskey = z
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Z historije wotstronić
+    .accesskey = h
 urlbar-result-menu-learn-more =
     .label = Dalše informacije
     .accesskey = D
@@ -1132,6 +1142,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Pytanje z klučowymi słowami je znjemóžnjene
 urlbar-searchmode-dropmarker2 =
     .title = Wubjerće pytawu
+urlbar-searchmode-bookmarks3 = Zapołožki
+    .accesskey = Z
+urlbar-searchmode-tabs3 = Rajtarki
+    .accesskey = R
+urlbar-searchmode-history3 = Historija
+    .accesskey = H
+urlbar-searchmode-actions3 = Akcije
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Zapołožki
 urlbar-searchmode-tabs2 = Rajtarki
 urlbar-searchmode-history2 = Historija
@@ -1151,6 +1169,10 @@ urlbar-searchmode-popup-one-off-header = Tónkróć pytać z:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Pytać z:
+urlbar-searchmode-popup-search-settings = Pytanske nastajenja
+    .accesskey = P
+urlbar-searchmode-popup-settings = Nastajenja
+    .accesskey = N
 urlbar-searchmode-popup-search-settings-panelitem = Pytanske nastajenja
 urlbar-searchmode-popup-settings-panelitem = Nastajenja
 
