@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = პირადულობა
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = კროსვორდი
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = აქციები
