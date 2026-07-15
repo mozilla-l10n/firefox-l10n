@@ -82,6 +82,28 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Reta kontrolilo
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maksimuma grando de korpo de peto kaj respondo (0 signifas senliman):
+options-netmonitor-body-limit-tooltip =
+    .title = Petaj aŭ respondaj korpoj kiuj superas la difinitan maksimuman grandon estos fortranĉitaj dum montro aŭ elŝuto el la reta kontrolilo. Difini 0 por ne havi limon.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Senlima
+options-netmonitor-body-limit-button =
+    .title = Modifi la maksimuman grandon de peto aŭ respondo.
+options-netmonitor-body-limit-restore-default =
+    .title = Restarigi la norman maksimuman grandon de korpo por peto aŭ respondo.
+options-netmonitor-body-limit-set =
+    .title = Difini la nune enigitan valoron kiel la norma maksimuma grando de korpo por peto aŭ respondo.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Eksperimentaj trajtoj
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Montri stilfoliojn en la erarserĉilo
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Listigi kaj montri stilfoliojn en la erarserĉilo
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (tio ĉi postulas remalfermon de la ilaro)
 
 ## Style Editor section
 

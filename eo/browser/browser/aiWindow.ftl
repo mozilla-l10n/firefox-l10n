@@ -278,3 +278,33 @@ smart-window-default-promo-heading = Ĉu vi volas norme uzi { -smart-window-bran
 smart-window-default-promo-message = { -brand-short-name } malfermiĝos en { -smart-window-brand-name } ĉiu foje.
 smart-window-default-promo-primary-button = Elekti kiel normon
 smart-window-default-promo-additional-button = Ne nun
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Sendi komentojn
+aiwindow-feedback-what-worked-well = Kio bone funkciis? Sen personaj informoj, ni petas.
+aiwindow-feedback-choose-any = Elektu iun ajn aplikeblan
+aiwindow-feedback-add-details = Aldoni detalojn se vi volas. Sen personaj informoj, ni petas.
+aiwindow-feedback-disclaimer = Se vi sendas tion ĉi vi dividas viajn komentojn kaj tiun ĉi konversacion por helpi { -brand-shorter-name } plibonigi { -smart-window-brand-name }. Viaj aliaj konversacioj restas privataj. <a data-l10n-name="learn-more">Pli da informo</a>
+aiwindow-feedback-submit = Sendi
+aiwindow-feedback-cancel = Nuligi
+aiwindow-feedback-reason-incorrect-or-misleading = Malĝusta aŭ misgvida
+aiwindow-feedback-reason-doesnt-address-my-request = Tio ne koncernas mian peton
+aiwindow-feedback-reason-lacks-personalization = Al tio mankas personecigo aŭ kunteksto
+aiwindow-feedback-reason-performance-or-usability = Efikeca aŭ uzebleca problemo
+aiwindow-feedback-reason-harmful-or-offensive = Danĝera aŭ ofenda
+aiwindow-feedback-reason-other = Alia
+aiwindow-feedback-preview-report = Montri detalojn de konversacio
+aiwindow-feedback-preview-report-with-page = Montri konversacion kaj detalojn de paĝo
+aiwindow-feedback-include-page-content = Dividi la paĝojn referencitaj en tiu ĉi konversacio
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Ŝanĝi la montran aranĝon
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Ŝanĝi reĝimon: lista montro
+    .tooltiptext = Lista montro
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Ŝanĝi reĝimon: krada montro
+    .tooltiptext = Krada montro
