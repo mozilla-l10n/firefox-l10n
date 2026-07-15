@@ -314,6 +314,8 @@ newtab-privacy-message-first-protection-cta = Προβολή μέτρων προ
 newtab-stocks-menu-search = Αναζήτηση συμβόλων μετοχών
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Μάθετε περισσότερα
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Μετοχές
 
 ## Strings for the Picture of the Day widget
 
@@ -322,6 +324,14 @@ newtab-stocks-menu-learn-more = Μάθετε περισσότερα
 newtab-picture-header = Εικόνα της ημέρας · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Εικόνα της ημέρας
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
 # Screen-reader label for the license link; the visible text is the license
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
@@ -459,6 +469,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Επεξεργασία
+newtab-menu-add-topsite = Προσθήκη νέας συντόμευσης
 newtab-menu-open-new-window = Άνοιγμα σε νέο παράθυρο
 newtab-menu-open-new-private-window = Άνοιγμα σε νέο ιδιωτικό παράθυρο
 newtab-menu-dismiss = Απόρριψη

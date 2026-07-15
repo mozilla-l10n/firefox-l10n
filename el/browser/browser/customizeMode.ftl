@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Πολύ πυκνό (δεν υποστηρίζεται)
 customize-mode-undo-cmd =
     .label = Αναίρεση
+customize-mode-lwthemes-link-2 = Διαχείριση θεμάτων
 customize-mode-lwthemes-link = Διαχείριση θεμάτων
 customize-mode-touchbar-cmd =
     .label = Προσαρμογή γραμμής αφής…
