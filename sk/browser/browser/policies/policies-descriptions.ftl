@@ -36,6 +36,7 @@ policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-Containers = Nastaví pravidlá súvisiace s kontajnermi.
 policy-DisableAccounts = Zakáže služby vyžadujúce účty, vrátane synchronizácie.
 policy-DisabledCiphers = Zakáže šifry.
+policy-DefaultBrowserSettingEnabled = Určuje, či si používateľ môže nastaviť { -brand-short-name(case: "acc") } ako predvolený prehliadač.
 policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre sťahovanie súborov.
 policy-DefaultSerialGuardSetting = Ovláda používanie Serial API.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.

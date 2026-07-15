@@ -55,18 +55,37 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Sdílejte negativní zpětnou vazbu
     .tooltiptext = Sdílejte negativní zpětnou vazbu
+aiwindow-applied-memories-popover =
+    .aria-label = Panel vzpomínek
+aiwindow-applied-memories-list =
+    .aria-label = Vzpomínky
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Smazat { $summary }
 
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Opakovat
+smartwindow-nl-thinking = Hledání odpovídajících panelů…
+smartwindow-loading-assistant-response =
+    .aria-label = Načítání odpovědi asistenta
 smartwindow-nl-undo-button =
     .label = Zpět
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Zavřen { $count } panel
+        [few] Zavřeny { $count } panely
+        [many] Zavřeno { $count } panelů
+       *[other] Zavřeno { $count } panelů
+    }
 smart-window-closed-tabs-row-label = Zavřené panely
+smart-window-closed-and-restored-label = Zavřené a obnovené panely
 smart-window-cancelled-label = Požadavek byl zrušen.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Skupina
@@ -84,4 +103,12 @@ smart-window-grouped-and-ungrouped-label = Seskupení panelů zrušeno
 
 ## Action log
 
+action-log-searching-history = Vyhledávání v historii
+action-log-searched-history = Vyhledáváno v historii
+action-log-reading-page = Čtení stránky
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Obsah stránky přečten
+action-log-searching-web = Vyhledávání na webu
+action-log-searched-web = Vyhledáno na webu
 action-log-searching-settings = Vyhledávání nastavení
+action-log-searching-world-cup-matches = Vyhledávání zápasů Mistrovství světa
