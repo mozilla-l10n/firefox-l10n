@@ -128,6 +128,7 @@ aiwindow-input-model-select-button-label-fast = Hızlı
 aiwindow-input-model-select-button-label-allpurpose = Esnek
 aiwindow-input-model-select-button-label-personal = Kişisel
 aiwindow-input-model-select-button-label-custom = Özel
+aiwindow-input-model-select-button-description-custom = Kendi LLM’inizi kullanın
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -274,6 +275,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Sekme kapatıldı
+smartwindow-close-tab-callout-subtitle = Sekmeleri istediğiniz zaman Geçmiş’ten yeniden açabilirsiniz.
 
 ## Smart Window new tab promo
 

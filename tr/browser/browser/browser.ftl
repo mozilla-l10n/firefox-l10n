@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } yö
 urlbar-result-menu-report-inaccurate-location2 = Hatalı konum bildir
 urlbar-result-menu-show-less-frequently2 = Daha az göster
 urlbar-result-menu-dont-show-weather-suggestions2 = Hava durumu önerilerini gösterme
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Bu öneriyi kapat
+    .accesskey = B
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Geçmişten sil
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Daha fazla bilgi al
     .accesskey = D
@@ -1105,6 +1115,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Anahtar kelimeyle arama devre dışı
 urlbar-searchmode-dropmarker2 =
     .title = Bir arama motoru seçin
+urlbar-searchmode-bookmarks3 = Yer imleri
+    .accesskey = Y
+urlbar-searchmode-tabs3 = Sekmeler
+    .accesskey = S
+urlbar-searchmode-history3 = Geçmiş
+    .accesskey = G
+urlbar-searchmode-actions3 = Eylemler
+    .accesskey = E
 urlbar-searchmode-bookmarks2 = Yer imleri
 urlbar-searchmode-tabs2 = Sekmeler
 urlbar-searchmode-history2 = Geçmiş
@@ -1124,6 +1142,10 @@ urlbar-searchmode-popup-one-off-header = Burada ara:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Bununla ara:
+urlbar-searchmode-popup-search-settings = Arama ayarları
+    .accesskey = A
+urlbar-searchmode-popup-settings = Ayarlar
+    .accesskey = A
 urlbar-searchmode-popup-search-settings-panelitem = Arama ayarları
 urlbar-searchmode-popup-settings-panelitem = Ayarlar
 

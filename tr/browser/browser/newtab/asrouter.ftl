@@ -494,3 +494,8 @@ nova-early-access-share-feedback-link = Görüş bildir
     .accesskey = G
 nova-early-access-infobar-primary-button = Anladım
     .accesskey = A
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-checkbox-pin-to-taskbar = Görev çubuğuna sabitle
+app-exit-spotlight-primary-button = { -brand-short-name } tarayıcısını kaydet ve kapat

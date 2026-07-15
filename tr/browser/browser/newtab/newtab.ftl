@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Gizlilik
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Çapraz bulmaca
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Borsa
@@ -212,6 +215,7 @@ newtab-privacy-message-info-4-cta = Korumaları göster
 newtab-privacy-message-info-5 = Takip kodları engellendikçe farklı sitelerde sizi takip edebilen şirket sayısı azalır.
 newtab-privacy-message-info-5-cta = Korumaları göster
 newtab-privacy-message-info-6-cta = Daha fazla bilgi al
+newtab-privacy-message-info-7 = { -brand-short-name } tarafından engellenen takip kodlarını görün.
 newtab-privacy-message-info-7-cta = Korumaları göster
 newtab-privacy-message-info-8-cta = Daha fazla bilgi alın
 newtab-privacy-message-info-9-cta = Varsayılan yap
@@ -253,6 +257,12 @@ newtab-privacy-message-first-protection-cta = Korumaları göster
 newtab-stocks-menu-search = Sembollerde ara
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Borsa aracı seçenekleri
+    .aria-label = Borsa aracı seçenekleri
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Borsa
 
@@ -408,6 +418,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Düzenle
+newtab-menu-add-topsite = Yeni kısayol ekle
 newtab-menu-open-new-window = Yeni pencerede aç
 newtab-menu-open-new-private-window = Yeni gizli pencerede aç
 newtab-menu-dismiss = Kapat
@@ -1051,6 +1062,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Vazgeç
     .title = Vazgeç
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Liste seçenekleri
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Yeni liste oluştur
