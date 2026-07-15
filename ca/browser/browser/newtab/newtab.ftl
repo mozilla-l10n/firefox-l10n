@@ -208,12 +208,19 @@ newtab-privacy-empty = El { -brand-short-name } bloqueja els elements de seguime
 
 newtab-privacy-message-info-1 = El { -brand-short-name } bloqueja els elements de seguiment automàticament mentre navegueu.
 newtab-privacy-message-info-1-cta = Mostra les proteccions
+newtab-privacy-message-info-2 = El bloqueig dels elements de seguiment ajuda a evitar que les empreses us segueixin en línia.
 newtab-privacy-message-info-2-cta = Mostra les proteccions
+newtab-privacy-message-info-3 = Molts llocs web tenen elements de seguiment, de manera que empreses que no heu visitat mai us poden seguir en línia.
 newtab-privacy-message-info-3-cta = Mostra les proteccions
+newtab-privacy-message-info-4 = Triar el { -brand-short-name } significa triar la protecció per defecte.
 newtab-privacy-message-info-4-cta = Mostra les proteccions
+newtab-privacy-message-info-5 = Si bloquegeu els elements de seguiment us poden seguir menys empreses als llocs web.
 newtab-privacy-message-info-5-cta = Mostra les proteccions
+newtab-privacy-message-info-6 = Deseu la vostres dades amb el { -brand-short-name }. Nosaltres no les venem mai, però és possible que altres navegadors sí que les venguin.
 newtab-privacy-message-info-6-cta = Més informació
+newtab-privacy-message-info-7 = Vegeu quins elements de seguiment ha bloquejat el { -brand-short-name }.
 newtab-privacy-message-info-7-cta = Mostra les proteccions
+newtab-privacy-message-info-8 = Navegar amb el { -brand-short-name } contribueix a la missió del { -vendor-short-name } de construir un web millor.
 newtab-privacy-message-info-8-cta = Més informació
 newtab-privacy-message-info-9-cta = Fes que sigui el navegador per defecte
 newtab-privacy-message-info-11-cta = Més informació
@@ -283,6 +290,12 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 newtab-picture-widget-menu-button =
     .title = Opcions de la imatge del dia
     .aria-label = Opcions de la imatge del dia
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Estableix un fons de pantalla
+    .title = Estableix un fons de pantalla
+    .aria-label = Establiu la imatge d'avui com a fons de pantalla
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gestiona el fons de pantalla
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -296,6 +309,11 @@ newtab-picture-menu-learn-more = Més informació
 newtab-picture-show-button =
     .title = Mostra la imatge del dia
     .aria-label = Mostra la imatge del dia
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Torneu demà per a veure una altra imatge.
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Imatge del dia a Wikimedia Commons
 
 ## Search box component.
 
@@ -332,6 +350,7 @@ newtab-topsites-add-shortcut-label = Afegeix una drecera
 newtab-topsites-add-shortcut-title =
     .title = Afegeix una drecera
     .aria-label = Afegeix una drecera
+newtab-shortcuts-pinned-area = Àrea fixada
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol

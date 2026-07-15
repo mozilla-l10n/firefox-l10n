@@ -80,6 +80,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = سیخومی
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = جدول کلمه یل موتقاتع
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = سهام
@@ -284,6 +287,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = آلشت
+newtab-menu-add-topsite = ٱووردن ره نهنگ نۊ
 newtab-menu-open-new-window = گۊشیڌن من ی نیمدری نۊ
 newtab-menu-open-new-private-window = گۊشیڌن من ی نیمدری سیخومی نۊ
 newtab-menu-dismiss = رڌ کردن
@@ -652,6 +656,9 @@ newtab-widget-lists-input-menu-edit = آلشت
 newtab-widget-lists-edit-clear =
     .title = لقو
     .aria-label = لقو
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = گۊزینه یل نومگه
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + وورکل ی نومگه نۊ

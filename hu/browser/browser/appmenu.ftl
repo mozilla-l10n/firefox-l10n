@@ -303,9 +303,13 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Jelentkezzen be a fiókjába
+appmenuitem-monitor-title2 = Előzze meg a személyazonosság-lopást
+appmenuitem-monitor-description2 = Kapjon figyelmeztetéseket az adatvédelmi incidensekről
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Kapjon figyelmeztetést az adatvédelmi incidensekről
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Tartsa bizalmasan az e-mail-címét
+appmenuitem-relay-description2 = Segít megakadályozni a levélszemetet a postaládájában
 appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
 appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának elindítása
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }

@@ -998,6 +998,8 @@ urlbar-searchmode-popup-one-off-header = ای کرت پیتینیڌن وا:
 urlbar-searchmode-popup-header = پیتینیڌن وا:
 urlbar-searchmode-popup-search-settings = پیتینیڌن سامووا
     .accesskey = S
+urlbar-searchmode-popup-settings = سامووا
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = پیتینیڌن سامووا
 urlbar-searchmode-popup-settings-panelitem = سامووا
 
