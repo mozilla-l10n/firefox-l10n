@@ -80,6 +80,8 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Reta kontrolilo
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maksimuma grando de korpo de peto kaj respondo (0 signifas senliman):
 
 ## Style Editor section
 

@@ -148,3 +148,133 @@ aiwindow-firstrun-memories-no-create = Mi komprenas. { -smart-window-brand-name 
 
 aiwindow-firstrun-default-title = Uzi { -smart-window-brand-name } kiel ĉefan retumilon
 aiwindow-firstrun-default-subtitle = Retumu, serĉu kaj demandu en la sama loko. Vi plu povas malfermi privatajn kaj klasikajn fenestrojn, kiam vi volos.
+aiwindow-firstrun-default-checkbox-label = Ĉiam malfermi { -brand-product-name } en { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Modifu tiun ĉi elekton en la agordoj, iam ajn
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Demandi
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memoraĵoj ŝaltitaj
+    .tooltiptext = Uzi memoraĵojn en respondoj se tio helpas
+aiwindow-memories-off =
+    .aria-label = Memoraĵoj malŝaltitaj
+    .tooltiptext = Ne uzi memoraĵojn en respondoj
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nova konversacio
+    .tooltiptext = Nova konversacio
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Fermi
+    .tooltiptext = Fermi
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Spegulitaj datumoj restos en via konto. Malfermitaj { -smart-window-brand-name(plural-form: "true") } iĝos klasikaj fenestroj.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Ŝanĝi al { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Konversacioj
+    .aria-label = Konversacioj
+    .tooltiptext = Konversacioj
+smartwindow-footer-history =
+    .label = Historio
+    .aria-label = Historio
+    .tooltiptext = Historio
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI povas erari.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Konversacioj
+    .title = Konversacioj
+firefoxview-chats-header = Konversacioj
+firefoxview-chat-context-delete = Forigi el konversacioj
+    .accesskey = F
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Serĉi en konversacioj
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Hodiaŭ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Hieraŭ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Iri reen al viaj konversacioj
+firefoxview-chats-empty-description = Dum vi uzas { -smart-window-brand-name } viaj konversacioj estos konservitaj ĉi tie.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } konversacio
+       *[other] { $count } konversacioj
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Retuman, elŝutan kaj konversacian historion
+    .accesskey = h
+item-history-downloads-and-chat-description = Tio ĉi viŝas la retejan, elŝutan kaj konversacian historion
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Elekti ĉion
+    .aria-label = Elekti ĉion
+smart-window-confirm-deselect-all =
+    .label = Malelekti ĉion
+    .aria-label = Malelekti ĉion
+smart-window-close-confirm =
+    .aria-label = Nuligi peton kaj fermi
+    .tooltiptext = Nuligi peton kaj fermi
+smart-window-confirm-close-tab = Fermi
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Fermi { $count } langeton
+       *[other] Fermi { $count } langetojn
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Langeto fermita
+smartwindow-close-tab-callout-subtitle = Malfermi langetojn el historio, iam ajn.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Ĉu vi volas norme uzi { -smart-window-brand-name }?
+smart-window-default-promo-message = { -brand-short-name } malfermiĝos en { -smart-window-brand-name } ĉiu foje.
+smart-window-default-promo-primary-button = Elekti kiel normon
+smart-window-default-promo-additional-button = Ne nun
