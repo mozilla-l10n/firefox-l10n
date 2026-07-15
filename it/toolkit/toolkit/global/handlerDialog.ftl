@@ -99,3 +99,4 @@ mailto-handler-picker-set-default =
 mailto-handler-picker-not-now =
     .label = Non adesso
     .accesskey = N
+
