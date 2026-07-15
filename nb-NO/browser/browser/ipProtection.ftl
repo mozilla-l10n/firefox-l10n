@@ -28,19 +28,19 @@ ipprotection-feature-introduction-title-1 = Prøv den innebygde VPN-en i { -bran
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med personvern
-ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere steder for å gjøre hvor du surfer mer privat.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere steder for å gjøre hvor du surfer mer privat.
-ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere steder for å skjule hvor du surfer.
-ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjøre surfingen din mer privat. <a data-l10n-name="summer-promo-link">Få ubegrenset båndbredde</a> og flere steder å surfe fra. Nå til og med 31. august.
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
+ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere plasseringer for å skjule hvor du surfer.
+ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjøre surfingen din mer privat. <a data-l10n-name="summer-promo-link">Få ubegrenset båndbredde</a> og flere plasseringer å surfe fra. Nå til og med 31. august.
 ipprotection-feature-introduction-title-summer-promo = Skal du ut og reise? Ta personvernet med deg.
-ipprotection-feature-introduction-description-summer-promo = Få mer ut av { -brand-product-name } sin innebygde VPN: flere steder, ubegrenset båndbredde. Nå til og med 31. august.
+ipprotection-feature-introduction-description-summer-promo = Få mer ut av { -brand-product-name } sin innebygde VPN: flere plasseringer, ubegrenset båndbredde. Nå til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra beskyttelse ved å skjule plasseringen din, også på offentlig Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere steder for å skjule hvor du surfer.
+ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere plasseringer for å skjule hvor du surfer.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nå
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -63,7 +63,7 @@ ipprotection-site-settings-callout-button = Jeg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyhet: Bytt plassering
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lar deg velge mellom flere steder å surfe fra, eller la oss velge det raskeste for deg.
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lar deg velge mellom flere plasseringer å surfe fra, eller la oss velge det raskeste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
 
@@ -73,7 +73,7 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringen din</a> mens du surfer i { -brand-product-name }.
 unauthenticated-private-location-message = Bidrar til å <a data-l10n-name="learn-more-vpn">holde plasseringen din privat</a> i { -brand-product-name }.
-unauthenticated-choose-location-message-1 = Velg mellom flere steder å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
+unauthenticated-choose-location-message-1 = Velg mellom flere plasseringer å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å fortsette aksepterer du våre <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">personvernbestemmelser</a>.
 site-exclusion-toggle-enabled-1 =
@@ -110,7 +110,7 @@ ipprotection-connection-status-connecting-1 = VPN kobler til …
 
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
-ipprotection-recommended-location-button = Sted: Anbefalt
+ipprotection-recommended-location-button = Plassering: Anbefalt
 ipprotection-recommended-location-description = { -brand-product-name } finner den raskeste plasseringen
 ipprotection-recommended-location-badge = NY
 # Variables
@@ -166,13 +166,13 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Du nærmer deg VPN-grensen din
     .message = Du har { $usageLeft } MB av { $maxUsage } GB igjen denne måneden.
-ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule posisjonen din og legge til ekstra kryptering i nettlesingen din.
+ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule plasseringen din og legge til ekstra kryptering i nettlesingen din.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Sett VPN til å slå seg på</a> hver gang du åpner { -brand-short-name } for et ekstra lag med beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker hvilke nettsteder du har satt til å bruke VPN. Oppdater disse i <a data-l10n-name="setting-link">innstillinger</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette nettstedet
 ipprotection-open-button = Åpne { -brand-product-name }
 ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
-ipprotection-message-body-hide-location = Skjul posisjonen din når du surfer med { -brand-product-name } for mer personvern og kontroll.
+ipprotection-message-body-hide-location = Skjul plasseringen din når du surfer med { -brand-product-name } for mer personvern og kontroll.
 ipprotection-connection-status-generic-error-title-1 = Kunne ikke koble til VPN
     .aria-label = Kunne ikke koble til VPN
 
