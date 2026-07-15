@@ -2257,7 +2257,7 @@ preferences-across-profiles = 이 설정은 이 기기의 모든 { -brand-produc
 preferences-view-profiles = 모든 프로필 보기
 collection-description = 저희는 사용자에게 선택권을 제공하고 모두를 위해 { -brand-short-name }를 제공하고 개선하는 데 필요한 정보만 수집하기 위해 노력합니다. 개인정보를 전송하기 전에 항상 사용자의 동의를 구합니다.
 collection-privacy-notice = 개인정보 보호정책
-collection-health-report-telemetry-disabled = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
+collection-health-report-telemetry-disabled = 더 이상 { -vendor-short-name }에서 기술 및 상호 작용 데이터를 수집하도록 허용하지 않습니다. 모든 기존 데이터는 30일 이내에 삭제됩니다.
 collection-health-report-telemetry-disabled-link = 더 알아보기
 backup-multi-profile-warning-message =
     .message = 이 변경 사항을 백업에 적용하려면, 각 프로필을 열고 설정에서 “지금 백업”을 선택하세요.
@@ -2325,7 +2325,7 @@ data-collection-preferences-across-profiles =
     .message = 이 설정은 이 기기의 모든 { -brand-product-name } 프로필에 적용됩니다.
 data-collection-profiles-link = 모든 프로필 보기
 data-collection-health-report-telemetry-disabled =
-    .message = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
+    .message = 더 이상 { -vendor-short-name }에서 기술 및 상호 작용 데이터를 수집하도록 허용하지 않습니다. 모든 기존 데이터는 30일 이내에 삭제됩니다.
 data-collection-health-report =
     .label = { -vendor-short-name }로 기술 및 상호 작용 데이터 보내기
     .accesskey = r
@@ -2684,7 +2684,7 @@ security-privacy-status-pending-trackers-label = 지난 한 달 동안 { -brand-
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
-security-privacy-status-trackers-label = 지난 한 달 동안 { $trackerCount }개의 추적기가 차단됨
+security-privacy-status-trackers-label = 지난 한 달 동안 추적기{ $trackerCount }개가 차단됨
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">엄격한 보호</a> 중
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
