@@ -235,7 +235,7 @@ about-debugging-collapse-expand-debug-targets = 折叠 / 展开
 
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
-about-debugging-debug-target-list-empty = 空空如也。
+about-debugging-debug-target-list-empty = 暂无项目。
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
