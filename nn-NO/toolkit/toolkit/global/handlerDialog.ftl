@@ -84,6 +84,10 @@ choose-dialog-privatebrowsing-disabled = Deaktivert i private vindauge
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Bruk som standard
+    .accesskey = B
 # Dismisses the picker without choosing an email app for now.
 mailto-handler-picker-not-now =
     .label = Ikkje no

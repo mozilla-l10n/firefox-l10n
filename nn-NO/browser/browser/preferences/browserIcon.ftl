@@ -32,6 +32,12 @@ appearance-browser-icon-pin-button =
 
 ## Icon names
 
+appearance-browser-icon-default =
+    .label = Standard
+appearance-browser-icon-retro2004 =
+    .label = Retro 2004
+appearance-browser-icon-retro2017 =
+    .label = Retro 2017
 appearance-browser-icon-pride =
     .label = Pride
 appearance-browser-icon-minimal =

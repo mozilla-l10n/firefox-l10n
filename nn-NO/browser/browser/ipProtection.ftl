@@ -29,7 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name=
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire plasseringar for å gjere kvar du surfar meir privat.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Det integrerte VPN-et til { -brand-product-name }</a> hjelper til med å beskytte surfinga di. Vel mellom fleire stadar for å beskytte personvernet ditt når du surfar.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Den integrerte VPN-en til { -brand-product-name }</a> hjelper til med å beskytte surfinga di. Vel mellom fleire plasseringar for å beskytte personvernet ditt når du surfar.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire plasseringar for å skjule kvar du surfar.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjere surfinga di meir privat. <a data-l10n-name="summer-promo-link">Få uavgrensa bandbreidde</a> og fleire plasseringar å surfe frå. No til og med 31. august.
 ipprotection-feature-introduction-title-summer-promo = Skal du ut å reise? Ta personvernet med deg.
@@ -40,7 +40,7 @@ ipprotection-feature-introduction-description-private-browsing = Surf med ekstra
 ipprotection-feature-introduction-title-captive-portal = På offentleg Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra vern ved å skjule plasseringa di, også på offentleg Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire stadar for å skjule kvar du surfar.
+ipprotection-feature-introduction-link-text-captive-portal-1 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire plasseringar for å skjule kvar du surfar.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
