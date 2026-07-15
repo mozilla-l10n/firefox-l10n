@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Zprávy chatu funkce { -smart-window-brand-name }
 
 ## Context chips in the chat content
 
@@ -17,16 +18,43 @@ smart-window-context-chips-tag-count =
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Něco se pokazilo. Zkuste to prosím znovu.
+smartwindow-assistant-error-budget-header = Dosáhli jste dnešního limitu pro chatování.
+smartwindow-assistant-error-capacity-header = Funkce { -smart-window-brand-name } je momentálně plně vytížena. Zkuste to prosím později.
+smartwindow-assistant-error-budget-body = V tomto okně můžete i nadále procházet stránky. Chat bude opět k dispozici, jakmile se váš denní limit vynuluje.
+smartwindow-assistant-error-many-requests-header = Prosím počkejte chvíli a zkuste to znovu. Bylo odesláno příliš mnoho zpráv v krátkém čase.
+smartwindow-assistant-error-max-length-header = Je čas začít nový chat. Tento dosáhl maximální délky.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Chyba serveru (HTTP { $status }). Zkuste to prosím znovu.
 smartwindow-retry-btn = Zkusit znovu
 smartwindow-clear-btn = Nový chat
 smartwindow-signin-btn = Přihlásit se
 
 ## Assistant Message footer
 
+aiwindow-memories-callout-description = Vzpomínky pomohli přizpůsobit tuto odpověď.
 aiwindow-memories-learn-more = Zjistit více
+aiwindow-manage-memories =
+    .label = Nastavení paměti
+aiwindow-retry-without-memories =
+    .label = Zkusit znovu bez vzpomínek
 aiwindow-retry =
     .aria-label = Opakovat
     .tooltiptext = Opakovat
+aiwindow-copy-message =
+    .aria-label = Kopírovat zprávu
+    .tooltiptext = Kopírovat
+aiwindow-copy-table =
+    .aria-label = Kopírovat tabulku
+    .tooltiptext = Kopírovat tabulku
+aiwindow-table-scroll-indicator = Posouváním zobrazíte další
+aiwindow-thumbs-up =
+    .aria-label = Sdílejte pozitivní zpětnou vazbu
+    .tooltiptext = Sdílejte pozitivní zpětnou vazbu
+aiwindow-thumbs-down =
+    .aria-label = Sdílejte negativní zpětnou vazbu
+    .tooltiptext = Sdílejte negativní zpětnou vazbu
 
 ## Natural Language Action
 
