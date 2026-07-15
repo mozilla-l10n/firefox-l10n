@@ -40,3 +40,26 @@ appearance-browser-icon-set-default-button =
     .label = Установить по умолчанию
 appearance-browser-icon-pin-button =
     .label = Закрепить на панели задач
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = По умолчанию
+appearance-browser-icon-retro2004 =
+    .label = Ретро 2004
+appearance-browser-icon-retro2017 =
+    .label = Ретро 2017
+appearance-browser-icon-pride =
+    .label = Гордость
+appearance-browser-icon-minimal =
+    .label = Минимализм
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Кит
+appearance-browser-icon-pixelated =
+    .label = Пиксельный
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Момо
+    .description = Создан @heyheymomodraws
