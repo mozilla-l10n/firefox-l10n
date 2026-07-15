@@ -310,3 +310,31 @@ aiwindow-feedback-reason-harmful-or-offensive = Káros vagy sértő
 aiwindow-feedback-reason-other = Egyéb
 aiwindow-feedback-preview-report = Csevegés részleteinek megtekintése
 aiwindow-feedback-preview-report-with-page = Csevegés és oldal részleteinek megtekintése
+aiwindow-feedback-include-page-content = A csevegésben hivatkozott oldalak megosztása
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Nézetelrendezés váltása
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Módváltás: listanézet
+    .tooltiptext = Listanézet
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Módváltás: rácsnézet
+    .tooltiptext = Rácsnézet
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Írj egy első vázlatot
+aiwindow-starter-writing-improve = Javíts a szövegen
+aiwindow-starter-writing-proofread = Lektorálj egy üzenetet
+aiwindow-starter-planning-simplify = Egyszerűsíts le egy témát
+aiwindow-starter-planning-brainstorm = Ötletelj
+aiwindow-starter-planning-plan = Segíts egy terv elkészítésében
+aiwindow-starter-browsing-history = Keress lapokat az előzményekben
+aiwindow-starter-browsing-summarize = Összegezz lapokat
+aiwindow-starter-browsing-compare = Hasonlíts össze lapokat

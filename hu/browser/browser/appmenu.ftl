@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Nem lehet frissíteni – a rendszer nem kompatibilis
 appmenuitem-banner-update-restart =
     .label = Frissítés érhető el – újraindítás most
+appmenu-nova-update-title = Újraindítás a { -brand-short-name } frissítéséhez
+appmenu-nova-update-description = A lapjai újra meg fognak nyílni.
 appmenu-nova-fxa-sign-in = Bejelentkezés
 appmenu-nova-switch-device-promo =
     .message = Hamarosan új eszközt kap? Vigye magával a { -brand-short-name } böngészőt!
@@ -211,6 +213,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
 profiler-popup-presets-networking-label =
     .label = Hálózat
+profiler-popup-presets-networking-with-logs-label =
+    .label = Hálózatépítés naplókkal
 profiler-popup-presets-power-description = Előbeállítás a { -brand-shorter-name } energiagazdálkodási hibáinak kivizsgálásához, alacsony többletfogyasztással.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =

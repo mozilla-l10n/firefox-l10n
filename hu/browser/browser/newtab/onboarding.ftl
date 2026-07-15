@@ -616,8 +616,19 @@ smartwindow-existing-user-fx-tou-go-back = Ugrás vissza
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Legyen az { -smart-window-brand-name(case: "lower") } a kedvence
+smartwindow-onboarding-subtitle = Összegezzen, hasonlítson össze és kérdezzen zökkenőmentesen.
 smartwindow-onboarding-primary-button = Folytatás
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = A { -brand-product-name } kabalafigurája (Kit) sztárkellékekkel
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Szeretné, hogy az asszisztens zárva maradjon?
+smartwindow-sidebar-auto-open-callout-body = Továbbra is megnyithatja, amikor szüksége van rá.
+smartwindow-sidebar-auto-open-callout-accept = Igen, maradjon zárva
+smartwindow-sidebar-auto-open-callout-dismiss = Köszönöm, nem
+smartwindow-sidebar-auto-open-callout-accepted-title = Az asszisztens zárva marad
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = A Kérdés gombbal bármelyik oldalon megnyithatja. Ezt bármikor módosíthatja a <a data-l10n-name="settings">Beállításokban</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Megértettem
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Ha meggondolja magát, bármikor frissítheti az alapértelmezést a <a data-l10n-name="settings">Beállításokban</a>.

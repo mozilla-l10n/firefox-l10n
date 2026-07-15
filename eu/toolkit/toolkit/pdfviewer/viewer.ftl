@@ -780,9 +780,50 @@ pdfjs-digital-signature-properties-banner-unknown =
     }
 pdfjs-digital-signature-properties-banner-untrusted =
     { $count ->
-        [one] Document sinatuta dago ziurtagiri fidagaitz batekin
-       *[other] Document sinatuta dago { $count } ziurtagiri fidagaitzekin
+        [one] Document ziurtagiri fidagaitz batekin sinatuta dago
+       *[other] Document { $count } ziurtagiri fidagaitzekin sinatuta dago
     }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Dokumentua iraungitako ziurtagiri batekin sinatuta dago
+       *[other] Dokumentua iraungitako { $count } ziurtagirirekin sinatuta dago
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Dokumentuak sinadura digital baliogabe bat du
+       *[other] Dokumentuak { $count } sinadura digital baliogabe ditu
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Dokumentua baliogabetutako ziurtagiri batekin sinatuta dago
+       *[other] Dokumentua baliogabetutako { $count } ziurtagirirekin sinatuta dago
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Egoera: sinadura egiaztatuta
+pdfjs-digital-signature-properties-status-invalid = Egoera: sinadura baliogabea
+pdfjs-digital-signature-properties-status-unknown = Egoera: ezin da egiaztatu (euskarririk ez)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = Ziurtagiria: fidagarria ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Ziurtagiria: ez dago erabilgarri
+pdfjs-digital-signature-properties-certificate-untrusted = Ziurtagiria: fidagaitza
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Ziurtagiria: jaulkitzaile ezezaguna ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Ziurtagiria: bere buruak sinatutakoa ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Ziurtagiria: jaulkitzaile fidagaitza ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Ziurtagiria: iraungita
+pdfjs-digital-signature-properties-certificate-expired-with-date = Ziurtagiria: iraungita ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Ziurtagiria: baliogabetuta
 
 ## Main menu for adding/removing signatures
 

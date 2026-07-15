@@ -8,6 +8,11 @@
 newtab-page-title = Yeni Vərəq
 newtab-settings-button =
     .title = Yeni Vərəq səhifənizi fərdiləşdirin
+newtab-personalize-settings-icon-label =
+    .title = Yeni Vərəqi Fərdiləşdirin
+    .aria-label = Tənzimləmələr
+newtab-settings-dialog-label =
+    .aria-label = Tənzimləmələr
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel

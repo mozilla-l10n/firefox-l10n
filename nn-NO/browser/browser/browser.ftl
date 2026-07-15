@@ -213,6 +213,11 @@ urlbar-result-menu-manage-firefox-suggest2 = Handsam { -firefox-suggest-brand-na
 urlbar-result-menu-report-inaccurate-location2 = Rapporter unøyaktig plassering
 urlbar-result-menu-show-less-frequently2 = Vis sjeldnare
 urlbar-result-menu-dont-show-weather-suggestions2 = Ikkje vis vêrforslag
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Fjern frå historikk
+    .accesskey = F
 urlbar-result-menu-learn-more =
     .label = Les meir
     .accesskey = L
@@ -1103,6 +1108,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Nøkkelordssøk er deaktivert
 urlbar-searchmode-dropmarker2 =
     .title = Vel ein søkjemotor
+urlbar-searchmode-bookmarks3 = Bokmerke
+    .accesskey = B
+urlbar-searchmode-tabs3 = Faner
+    .accesskey = F
+urlbar-searchmode-history3 = Historikk
+    .accesskey = H
+urlbar-searchmode-actions3 = Handlingar
+    .accesskey = a
 urlbar-searchmode-bookmarks2 = Bokmerke
 urlbar-searchmode-tabs2 = Faner
 urlbar-searchmode-history2 = Historikk
@@ -1122,6 +1135,10 @@ urlbar-searchmode-popup-one-off-header = Søk denne gong med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Søk med:
+urlbar-searchmode-popup-search-settings = Søkjeinnstillingar
+    .accesskey = S
+urlbar-searchmode-popup-settings = Innstillingar
+    .accesskey = n
 urlbar-searchmode-popup-search-settings-panelitem = Søkjeinnstillingar
 urlbar-searchmode-popup-settings-panelitem = Innstillingar
 

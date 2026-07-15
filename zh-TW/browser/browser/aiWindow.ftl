@@ -98,17 +98,26 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = 歡迎使用{ -smart-window-brand-name }
 aiwindow-firstrun-model-title = 什麼東西對您來說最重要？
+aiwindow-firstrun-model-title-v2 = 挑選模型開始使用
 aiwindow-firstrun-model-subtitle = 挑選一套能夠為{ -smart-window-brand-name }提供強大威力的模型，可隨時切換。
 aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 快速回答
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = 快速：{ $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = 由 { $ownerName } 提供的 { $model } 模型
 aiwindow-firstrun-model-allpurpose-label = 靈活
 aiwindow-firstrun-model-allpurpose-body = 適合大部分需求
-aiwindow-firstrun-model-personal-label = 個人
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = 靈活：{ $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = 推薦
+aiwindow-firstrun-model-personal-label = 個人化
 aiwindow-firstrun-model-personal-body = 針對您量身打造的回答
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = 個人化：{ $shortName }
 aiwindow-firstrun-button = 出發吧！
 aiwindow-firstrun-back-button = 上一步
 aiwindow-firstrun-next-button = 下一步
@@ -117,8 +126,9 @@ aiwindow-firstrun-next-button = 下一步
 
 aiwindow-input-model-select-button-label-fast = 快速
 aiwindow-input-model-select-button-label-allpurpose = 靈活
-aiwindow-input-model-select-button-label-personal = 個人
+aiwindow-input-model-select-button-label-personal = 個人化
 aiwindow-input-model-select-button-label-custom = 自訂
+aiwindow-input-model-select-button-description-custom = 自備 LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -301,3 +311,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = 切換模式：格線檢視
     .tooltiptext = 格線檢視
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = 撰寫初稿
+aiwindow-starter-writing-improve = 改善寫作
+aiwindow-starter-writing-proofread = 校對訊息
+aiwindow-starter-planning-simplify = 簡化主題
+aiwindow-starter-planning-brainstorm = 發想新點子
+aiwindow-starter-planning-plan = 幫助規劃方案
+aiwindow-starter-browsing-history = 從瀏覽紀錄尋找分頁
+aiwindow-starter-browsing-summarize = 摘要多個分頁的內容
+aiwindow-starter-browsing-compare = 比較分頁

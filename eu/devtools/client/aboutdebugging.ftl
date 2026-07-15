@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Multiprozesuko tresna-kutxa
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Helburu-nabigatzailearen prozesu nagusia eta eduki-prozesua
+about-debugging-message-error-icon =
+    .alt = Errore-ikonoa
+about-debugging-message-info-icon =
+    .alt = Informazio-ikonoa
+about-debugging-message-warning-icon =
+    .alt = Abisu-ikonoa
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Itxi mezua
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Errorearen xehetasunak
 about-debugging-message-details-label-warning = Abisuaren xehetasunak
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Xehetasunak
+about-debugging-sidebar =
+    .heading = Arazketa

@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Abbrechen
 ai-window-memory-delete-button =
     .title = Erinnerung löschen
     .aria-label = { $label } löschen
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Schnell
+    .description = Am besten für schnelle Antworten, wenn Geschwindigkeit wichtig ist. Vollständiger Name: { $model } von { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Flexibel
+    .description = Bereit für eine Vielzahl von Aufgaben. Vollständiger Name: { $model } von { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Persönlich
+    .description = Entwickelt für personalisierte Hilfe in allen Sprachen. Vollständiger Name: { $model } von { $ownerName }

@@ -491,3 +491,10 @@ nova-early-access-share-feedback-link = 分享意見回饋
     .accesskey = S
 nova-early-access-infobar-primary-button = 知道了！
     .accesskey = G
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = 要在每次登入 Windows 時啟動 { -brand-short-name } 嗎？
+app-exit-spotlight-checkbox-launch-on-login = 開機時啟動 { -brand-short-name }
+app-exit-spotlight-checkbox-pin-to-taskbar = 釘選到您的工作列
+app-exit-spotlight-primary-button = 儲存並關閉 { -brand-short-name }

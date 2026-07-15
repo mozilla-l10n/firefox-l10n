@@ -77,8 +77,14 @@ about-logins-login-list-empty-search-description = Axtarışınıza uyğun nəti
 login-list-item-title-new-login = Yeni hesab
 login-list-item-subtitle-new-login = Daxil olma məlumatlarınızı daxil edin
 login-list-item-subtitle-missing-username = (istifadəçi adı yoxdur)
+about-logins-list-item-breach-icon =
+    .title = Kiber müdaxilə olunmuş sayt
 about-logins-list-item-vulnerable-password-icon =
     .title = Təhlükəyə açıq parol
+about-logins-list-section-breach = Kiber müdaxilə olunmuş saytlar
+about-logins-list-section-today = Bu gün
+about-logins-list-section-yesterday = Dünən
+about-logins-list-section-week = Son 7 gün
 
 ## Login
 

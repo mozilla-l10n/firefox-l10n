@@ -49,6 +49,18 @@ places-delete-page =
            *[other] Səhifələri Sil
         }
     .accesskey = D
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
+managed-bookmarks =
+    .label = İdarə olunan əlfəcinlər
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Alt qovluq
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Digər Əlfəcinlər
+places-manage-bookmarks =
+    .label = Əlfəcinləri İdarə et
+    .accesskey = M
 places-library3 =
     .title = Kitabxana
 places-organize-button =

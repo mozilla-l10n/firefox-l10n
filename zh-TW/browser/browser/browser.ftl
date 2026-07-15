@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-nam
 urlbar-result-menu-report-inaccurate-location2 = 回報位置不準確
 urlbar-result-menu-show-less-frequently2 = 減少顯示
 urlbar-result-menu-dont-show-weather-suggestions2 = 不要顯示天氣建議
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = 忽略此建議
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = 從紀錄移除
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = 了解更多
     .accesskey = L
@@ -1079,6 +1089,14 @@ urlbar-searchmode-no-keyword2 =
     .title = 已停用關鍵字搜尋
 urlbar-searchmode-dropmarker2 =
     .title = 挑選一套搜尋引擎
+urlbar-searchmode-bookmarks3 = 書籤
+    .accesskey = B
+urlbar-searchmode-tabs3 = 分頁
+    .accesskey = T
+urlbar-searchmode-history3 = 瀏覽紀錄
+    .accesskey = H
+urlbar-searchmode-actions3 = 動作
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = 書籤
 urlbar-searchmode-tabs2 = 分頁
 urlbar-searchmode-history2 = 瀏覽紀錄
@@ -1098,6 +1116,10 @@ urlbar-searchmode-popup-one-off-header = 這次使用下列搜尋引擎搜尋：
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = 使用下列引擎搜尋：
+urlbar-searchmode-popup-search-settings = 搜尋設定
+    .accesskey = S
+urlbar-searchmode-popup-settings = 設定
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = 搜尋設定
 urlbar-searchmode-popup-settings-panelitem = 設定
 

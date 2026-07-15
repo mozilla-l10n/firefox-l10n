@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = ניהול { -firefox-suggest-brand
 urlbar-result-menu-report-inaccurate-location2 = דיווח על מיקום לא מדויק
 urlbar-result-menu-show-less-frequently2 = להציג בתדירות נמוכה יותר
 urlbar-result-menu-dont-show-weather-suggestions2 = לא להציג הצעות מזג אוויר
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = סגירת הצעה זו
+    .accesskey = ס
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = הסרה מההיסטוריה
+    .accesskey = ה
 urlbar-result-menu-learn-more =
     .label = מידע נוסף
     .accesskey = מ
@@ -1110,6 +1120,14 @@ urlbar-searchmode-no-keyword2 =
     .title = חיפוש באמצעות מילות מפתח מושבת
 urlbar-searchmode-dropmarker2 =
     .title = בחירת מנוע חיפוש
+urlbar-searchmode-bookmarks3 = סימניות
+    .accesskey = ס
+urlbar-searchmode-tabs3 = לשוניות
+    .accesskey = ל
+urlbar-searchmode-history3 = היסטוריה
+    .accesskey = ה
+urlbar-searchmode-actions3 = פעולות
+    .accesskey = פ
 urlbar-searchmode-bookmarks2 = סימניות
 urlbar-searchmode-tabs2 = לשוניות
 urlbar-searchmode-history2 = היסטוריה
@@ -1129,6 +1147,10 @@ urlbar-searchmode-popup-one-off-header = הפעם לחפש באמצעות:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = חיפוש באמצעות:
+urlbar-searchmode-popup-search-settings = הגדרות חיפוש
+    .accesskey = ח
+urlbar-searchmode-popup-settings = הגדרות[]
+    .accesskey = ה
 urlbar-searchmode-popup-search-settings-panelitem = הגדרות חיפוש
 urlbar-searchmode-popup-settings-panelitem = הגדרות
 

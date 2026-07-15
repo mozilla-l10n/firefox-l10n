@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Kokalekua
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (gomendatua)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Aukeratu kokapena
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Aukeratu…
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Aktibatu babeskopia
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Errorea gertatu da hautatu duzun babeskopia-karpetarekin. Aukeratu beste karpeta bat eta saiatu berriro.
+turn-on-scheduled-backups-error-default-dir-denied = Ezin izan dugu zure babeskopien karpeta atzitu. Saiatu beste kokapen bat aukeratzen.
 backup-error-file-system = Errorea gertatu da hautatu duzun babeskopia-karpetarekin { -brand-short-name }(r)en babeskopia egin bitartean.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

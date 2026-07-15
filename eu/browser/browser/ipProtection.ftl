@@ -122,6 +122,11 @@ ipprotection-locations-subview-description = Aukeratu nabigatu beharreko beste k
 ipprotecion-locations-subview-recommended-label = Gomendatua
 ipprotection-locations-subview-recommended-description = Kokapen azkarrena bilatzen du
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Ez dago erabilgarri
+    .aria-label = Ez dago erabilgarri, desgaituta
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Ez dago erabilgarri
 ipprotection-locations-subview-promo =
     .heading = Areagotu babesak { -mozilla-vpn-brand-name }(r)ekin

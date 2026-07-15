@@ -36,6 +36,7 @@ policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
 policy-Containers = הגדרת מדיניות הקשורה למגירות לשוניות.
 policy-DisableAccounts = השבתת שירותים מבוססי חשבון, כולל סנכרון.
 policy-DisabledCiphers = השבתת צפנים.
+policy-DefaultBrowserSettingEnabled = שליטה ביכולת המשתמש להגדיר את { -brand-short-name } כדפדפן ברירת המחדל.
 policy-DefaultDownloadDirectory = הגדרת תיקיית ההורדות ברירת המחדל.
 policy-DefaultSerialGuardSetting = שליטה בשימוש של Serial API.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.

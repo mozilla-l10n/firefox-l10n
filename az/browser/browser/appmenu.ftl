@@ -21,6 +21,10 @@ appmenuitem-zoom =
     .value = Yaxınlaşdırma
 appmenuitem-help =
     .label = Kömək
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Tənzimləmələr
 
 ## Zoom and Fullscreen Controls
 
@@ -37,6 +41,8 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-notabs = Açıq vərəq yoxdur
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.
+appmenu-remote-tabs-opensettings =
+    .label = Tənzimləmələr
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?
@@ -53,6 +59,11 @@ appmenuitem-save-page =
 profiler-popup-button-idle =
     .label = Profayler
     .tooltiptext = Məhsuldarlıq profilini qeyd et
+profiler-popup-settings =
+    .value = Tənzimləmələr
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Tənzimləmələri Dəyiş...
 
 ## History panel
 
@@ -83,3 +94,10 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Bu aldadıcı sayt deyil…
     .accesskey = d
+
+## Panel for privacy and security products
+
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Məxfilik alətləri

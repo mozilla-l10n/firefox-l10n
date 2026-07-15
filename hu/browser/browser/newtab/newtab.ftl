@@ -227,6 +227,29 @@ newtab-privacy-message-info-12-cta = Védelmek megtekintése
 newtab-privacy-message-info-13 = A { -brand-short-name } blokkolja a követőket, sávszélességet szabadítva fel a simább közvetítés érdekében.
 newtab-privacy-message-info-13-cta = Védelmek megtekintése
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-2-cta = További tudnivalók
+newtab-privacy-message-promo-signin-1 = Tartsa titkosítva a könyvjelzőket, jelszavakat és lapokat az eszközök között, a { -vendor-short-name }-fiókjával.
+newtab-privacy-message-promo-signin-1-cta = Bejelentkezés
+newtab-privacy-message-promo-vpn-1 = Nyilvános Wi-Fi-n vásárol? Kapcsolja be a beépített VPN-t a további védelem érdekében.
+newtab-privacy-message-promo-vpn-1-cta = VPN megnyitása
+newtab-privacy-message-promo-vpn-2 = Reptéri Wi-Fi-t használ? Védje meg a böngészését a beépített VPN bekapcsolásával.
+newtab-privacy-message-promo-vpn-2-cta = VPN megnyitása
+newtab-privacy-message-promo-vpn-3 = Kapcsolja be a beépített VPN-t, hogy bizalmasabban tartsa a tartózkodási helyét.
+newtab-privacy-message-promo-vpn-3-cta = VPN megnyitása
+newtab-privacy-message-promo-private-window-1 = Próbálja ki a privát ablakot, hogy bizalmasabban böngésszen, ha közös számítógépet használ.
+newtab-privacy-message-promo-private-window-1-cta = Privát ablak megnyitása
+newtab-privacy-message-promo-relay-1 = Mentse el a valódi e-mail-címét azok számára, akikben megbízik; használjon e-mail-maszkot a regisztrációkhoz.
+newtab-privacy-message-promo-relay-1-cta = Maszkok szerzése
+newtab-privacy-message-promo-relay-2 = Védje meg a postafiókját a levélszeméttől az ingyenes e-mail-maszkolás segítségével.
+newtab-privacy-message-promo-relay-2-cta = Maszkok szerzése
+newtab-privacy-message-promo-relay-3 = Szerezzen 50 ingyenes e-mail-maszkot, amelyek segítenek bizalmasan tartani a valódi e-mail-címét.
+newtab-privacy-message-promo-relay-3-cta = Maszkok szerzése
+
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
@@ -457,6 +480,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Szerkesztés
+newtab-menu-add-topsite = Új indítóikon hozzáadása
 newtab-menu-open-new-window = Megnyitás új ablakban
 newtab-menu-open-new-private-window = Megnyitás új privát ablakban
 newtab-menu-dismiss = Elutasítás
@@ -1104,6 +1128,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Mégse
     .title = Mégse
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Listák beállításai
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Új lista létrehozása

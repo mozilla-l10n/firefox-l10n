@@ -79,3 +79,22 @@ choose-app-btn =
 choose-other-app-window-title = 其他程式…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = 已於隱私瀏覽視窗停用
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = 選擇您的電子郵件軟體
+    .style = min-width: 26em; min-height: 26em;
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = 當我點擊郵件鏈結時一律詢問我
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = 設為預設軟體
+    .accesskey = S
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = 暫時不要
+    .accesskey = N

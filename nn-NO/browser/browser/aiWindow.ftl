@@ -101,14 +101,22 @@ aiwindow-firstrun-model-title = Kva er viktig for deg?
 aiwindow-firstrun-model-subtitle = Vel ein modell for { -smart-window-brand-name }. Du kan byte når som helst.
 aiwindow-firstrun-model-fast-label = Rask
 aiwindow-firstrun-model-fast-body = Raske svar
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rask: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modell { $model } av { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Passar godt til dei fleste behov
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Tilrådd
 aiwindow-firstrun-model-personal-label = Personleg
 aiwindow-firstrun-model-personal-body = Mest tilpassa svar
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personleg: { $shortName }
 aiwindow-firstrun-button = La leiken byrja… Og køyr…
 aiwindow-firstrun-back-button = Tilbake
 aiwindow-firstrun-next-button = Neste
@@ -119,6 +127,7 @@ aiwindow-input-model-select-button-label-fast = Rask
 aiwindow-input-model-select-button-label-allpurpose = Fleksibel
 aiwindow-input-model-select-button-label-personal = Personleg
 aiwindow-input-model-select-button-label-custom = Tilpassa
+aiwindow-input-model-select-button-description-custom = Bruk din eigen LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -309,3 +318,12 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Bytt modus: Rutenettvising
     .tooltiptext = Rutenettvising
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-browsing-history = Finn faner i historikk
+aiwindow-starter-browsing-compare = Samanlikn faner

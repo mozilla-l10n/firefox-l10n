@@ -481,6 +481,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = עריכה
+newtab-menu-add-topsite = הוספת קיצור דרך חדש
 newtab-menu-open-new-window = פתיחה בחלון חדש
 newtab-menu-open-new-private-window = פתיחה בחלון פרטי חדש
 newtab-menu-dismiss = הסרה
@@ -1122,6 +1123,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = ביטול
     .title = ביטול
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = אפשרויות רשימות
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + יצירת רשימה חדשה

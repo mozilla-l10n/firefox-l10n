@@ -36,6 +36,7 @@ policy-Cookies = Cookies setzen durch Websites erlauben oder verbieten
 policy-Containers = Richtlinien für Umgebungen festlegen
 policy-DisableAccounts = Kontobasierte Dienste, einschließlich Synchronisation, deaktivieren
 policy-DisabledCiphers = Chiffren deaktivieren
+policy-DefaultBrowserSettingEnabled = Steuern Sie, ob der Benutzer { -brand-short-name } als Standardbrowser festlegen kann.
 policy-DefaultDownloadDirectory = Standardordner für Downloads festlegen
 policy-DefaultSerialGuardSetting = Nutzung der seriellen Schnittstelle kontrollieren
 policy-DisableAppUpdate = Browser-Updates deaktivieren

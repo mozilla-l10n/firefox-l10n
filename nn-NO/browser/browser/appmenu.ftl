@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Kan ikkje oppdatere — systemet er inkompatibelt
 appmenuitem-banner-update-restart =
     .label = Oppdatering tilgjengeleg — start på nytt
+appmenu-nova-update-title = Start på nytt for å oppdatere { -brand-short-name }
 appmenu-nova-fxa-sign-in = Logg inn
 appmenu-nova-switch-device-promo =
     .message = Får du deg ei ny eining snart? Ta { -brand-short-name } med deg!

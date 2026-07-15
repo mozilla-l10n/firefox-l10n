@@ -6,3 +6,4 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-column-priority = Üstünlük

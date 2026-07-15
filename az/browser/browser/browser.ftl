@@ -136,6 +136,13 @@ search-one-offs-context-set-as-default-private =
 search-one-offs-add-engine-menu =
     .label = Axtarış mühərriki əlavə et
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
+# Opens about:preferences
+quickactions-settings2 = Tənzimləmələri idarə et
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -250,6 +257,17 @@ urlbar-result-action-search-w-engine = { $engine } ilə axtar
 urlbar-result-action-switch-tab = Vərəqə keç
 urlbar-result-action-visit = Ziyarət et
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Axtarış Tənzimləmələri
+urlbar-searchmode-popup-search-settings = Axtarış Tənzimləmələri
+    .accesskey = S
+urlbar-searchmode-popup-settings = Tənzimləmələr
+    .accesskey = S
+urlbar-searchmode-popup-search-settings-panelitem = Axtarış Tənzimləmələri
+urlbar-searchmode-popup-settings-panelitem = Tənzimləmələr
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -337,6 +355,15 @@ save-to-pocket-button =
 
 ##
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Tənzimləmələr
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Tənzimləmələri aç ({ $shortcut })
+           *[other] Tənzimləmələri aç
+        }
 toolbar-overflow-customize-button =
     .label = Alət Sətrini Fərdiləşdir…
     .accesskey = C
@@ -365,6 +392,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu saytda olan bəzi səs və ya video DRM proqramını işlədir, bu { -brand-short-name } tərəfindən sizə verilən servisləri limitləyir.
+eme-notifications-drm-content-playing-manage = Tənzimləmələri idarə et
 
 ##
 
@@ -386,6 +414,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Avtomatik açılan pəncərələr bloklananda bu mesajı göstərmə
     .accesskey = D
+edit-popup-settings =
+    .label = Üstə çıxan pəncərə tənzimləmələrini idarə et…
+    .accesskey = M
 
 ##
 
@@ -468,3 +499,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Göstər: “{ $popupURI }”
+
+## Onboarding Finish Setup checklist
+
+onboarding-aw-finish-setup-button =
+    .label = Quraşdırmanı tamamla
+    .tooltiptext = { -brand-short-name } quraşdırmasını tamamlayın
+
+## The urlbar trust icon & panel
+
+trustpanel-privacy-link = Məxfilik Tənzimləmələri

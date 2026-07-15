@@ -36,6 +36,7 @@ policy-Cookies = A weboldalak süti elhelyezésének engedélyezése vagy letilt
 policy-Containers = A konténerekhez kapcsolódó házirendek beállítása.
 policy-DisableAccounts = Fiókalapú szolgáltatások, köztük a szinkronizálás letiltása.
 policy-DisabledCiphers = Titkosítási módok letiltása.
+policy-DefaultBrowserSettingEnabled = Szabja meg, hogy a felhasználó beállíthassa-e a { -brand-short-name }ot alapértelmezett böngészőként.
 policy-DefaultDownloadDirectory = Az alapértelmezett letöltési könyvtár beállítása.
 policy-DefaultSerialGuardSetting = A Serial API használatának irányítása.
 policy-DisableAppUpdate = A böngésző frissítésének megakadályozása.

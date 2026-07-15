@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Aldatu tamainaz ikuspegi zatituko fitxak
+tab-devtools-splitter =
+    .aria-label = Aldatu tamainaz garatzaile-tresnen panela
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Andere Anwendung…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = In privaten Fenstern deaktiviert
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Wählen Sie Ihre E-Mail-App
+mailto-handler-picker-subtitle = Wählen Sie die App aus, die Sie für E-Mail-Links verwenden möchten. Dies können Sie später in den Einstellungen ändern.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Beim Klicken auf E-Mail-Links immer fragen
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Als Standard festlegen
+    .accesskey = S
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Jetzt nicht
+    .accesskey = J

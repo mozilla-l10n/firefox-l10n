@@ -859,3 +859,9 @@ certs-devices-enable-fips = FIPS aktivləşdir
 desktop-folder-name = İşçi masası
 downloads-folder-name = Endirmələr
 choose-download-folder-title = Endirmə qovluğunu seçin:
+
+## AI controls page
+
+preferences-ai-controls-on-device-group =
+    .label = Daxili Süni İntellekt
+    .description = Bunlar özəllikdən istifadə etdiyiniz zaman cihazınıza yüklənən kiçik süni intellekt modellərindən istifadə edir. Bu yanaşma məxfiliyinizi qorumağa kömək edir.

@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Kompakt (nicht unterstützt)
 customize-mode-undo-cmd =
     .label = Rückgängig
+customize-mode-lwthemes-link-2 = Themes verwalten
 customize-mode-lwthemes-link = Themes verwalten
 customize-mode-touchbar-cmd =
     .label = Touch Bar anpassen…
