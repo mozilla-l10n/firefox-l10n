@@ -13,8 +13,11 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = { -brand-short-name } ن گشت گر پؽش فرز خوتووݩ اکۊنین؟
+default-browser-prompt-message-pin-mac = { -brand-short-name } ن رو نوک کلکا خوت داشته بۊ — هو ن و گشت گر پؽش فرز خوت وو من Dock بدیسن.
 default-browser-prompt-button-primary-set = سامووݩ و عونوان گشت گر ٱسلی
 default-browser-prompt-button-primary-pin = تبدیل و گشت گر ٱسلی
+default-browser-prompt-title-alt = { -brand-short-name } ن گشت گر پؽش فرز خوتووݩ اکۊنین؟
+default-browser-prompt-message-alt = من هر مجالی، مجال گشتن من اینترنت، ترات، ٱمنیت وو هریم سیخومی ن وا خوتووݩ داشته بۊین.
 default-browser-prompt-button-primary-alt = سامووݩ و عونوان گشت گر پؽش فرز
 default-browser-prompt-button-secondary = سکو ن
 
