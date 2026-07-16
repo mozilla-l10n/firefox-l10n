@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Kompaktny (njepodpěruje so)
 customize-mode-undo-cmd =
     .label = Cofnyć
+customize-mode-uidensity-link = Nastajenja woknoweje hustoty
 customize-mode-lwthemes-link-2 = Drasty rjadować
 customize-mode-lwthemes-link = Drasty rjadować
 customize-mode-touchbar-cmd =

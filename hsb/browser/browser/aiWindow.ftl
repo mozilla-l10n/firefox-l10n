@@ -323,3 +323,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Modus přepinać: Lěsyčny napohlad
     .tooltiptext = Lěsyčny napohlad
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Pisajće prěni naćisk
+aiwindow-starter-writing-improve = Pisanje polěpšić
+aiwindow-starter-writing-proofread = Prawopis powěsće kontrolować
+aiwindow-starter-planning-simplify = Temu zjednorić
+aiwindow-starter-planning-brainstorm = Ideje hromadźić
+aiwindow-starter-planning-plan = Pomhajće, plan wutworić
+aiwindow-starter-browsing-history = Rajtarki w historiji pytać
+aiwindow-starter-browsing-summarize = Rajtarki zjimać
+aiwindow-starter-browsing-compare = Rajtarki přirunać

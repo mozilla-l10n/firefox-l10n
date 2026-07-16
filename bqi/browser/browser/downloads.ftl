@@ -42,15 +42,31 @@ downloads-cmd-show-menuitem-2 =
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
 downloads-cmd-use-system-default =
-    .label = گۊشیڌن من نیشتگر سیستوم (V)
+    .label = گۊشیڌن من نیشتگر سیستوم
     .accesskey = I
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-use-system-default-named =
     .label = گۊشیڌن من { $handler }
     .accesskey = I
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-use-system-default =
+    .label = گۊشیڌن هی منه نیشتگر سیستوم
+    .accesskey = w
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = هی من { $handler } بوگوش
+    .accesskey = w
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = هی فایلا ی جۊر بوگوئشن
+    .accesskey = w
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
@@ -169,12 +185,27 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = فایلا ری دسگا ایسا امهنن
+downloads-private-browsing-message = هر کسؽ ای دسگا ن و کار اگره تره دانلودا ن نیره، هتا مجالی ک پوی نیمدری یل سیخومی ن بووندین.
 downloads-private-browsing-delete-button =
     .label = پاک کردن خوتکار فایلا
     .accesskey = D
 downloads-private-browsing-accept-button =
     .label = فئمیم
     .accesskey = G
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] فایل دانلود نوابی.
+       *[other] { $num } فایل دانلود نوابین.
+    }
+downloads-blocked-from-url = دانلودا ز { $url } مسدۊد وابیڌن.
 
 ##
 

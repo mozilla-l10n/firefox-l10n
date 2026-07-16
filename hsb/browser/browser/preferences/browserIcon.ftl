@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Symbol wobhladowaka
+    .description = Wubjerće swójski symbol za swoju nadawkowu lajstu, desktop a startowy meni.
 appearance-browser-icon-button =
     .label = Symbol wobhladowaka změnić
 
