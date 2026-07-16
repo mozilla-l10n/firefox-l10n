@@ -118,6 +118,7 @@ aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Respuestas más a medida
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Hecho para ayuda personalizada entre idiomas
 aiwindow-firstrun-button = Vamos
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente
@@ -325,7 +326,9 @@ aiwindow-ai-chat-grid-grid-view =
 
 aiwindow-starter-writing-first-draft = Escribir un primer borrador
 aiwindow-starter-writing-improve = Mejorar la escritura
+aiwindow-starter-writing-proofread = Corregir un mensaje
 aiwindow-starter-planning-simplify = Simplificar un tema
+aiwindow-starter-planning-brainstorm = Tormenta de ideas
 aiwindow-starter-planning-plan = Ayudar a hacer un plan
 aiwindow-starter-browsing-history = Buscar pestañas en el historial
 aiwindow-starter-browsing-summarize = Resumir pestañas
