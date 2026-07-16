@@ -12,6 +12,7 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = { -brand-short-name } ن گشت گر پؽش فرز خوتووݩ اکۊنین؟
 default-browser-prompt-button-primary-set = سامووݩ و عونوان گشت گر ٱسلی
 default-browser-prompt-button-primary-pin = تبدیل و گشت گر ٱسلی
 default-browser-prompt-button-primary-alt = سامووݩ و عونوان گشت گر پؽش فرز
