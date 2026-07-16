@@ -26,6 +26,17 @@ default-browser-prompt-button-secondary = سکو ن
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
-default-browser-guidance-notification-title = تبدیل { -brand-short-name } ن و عونوان گشت گر خوتووݩ و دیندا برسۊوین
+default-browser-guidance-notification-title = تبدیل { -brand-short-name } ن و عونوان پؽش فرز خوتووݩ و دیندا برسۊوین
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    مرهله 1: و سامووا بریوین > برنومه یل پؽش فرز
+    مرهله 2: و بلم اسکرۊل کۊنین تا و «گشت گر وب» برسین
+    مرهله 3: وو { -brand-short-name } ن پسند کۊنین
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    مرهله 1: و سامووا بریوین > برنومه یل پؽش فرز
+    مرهله 2: سی { -brand-short-name } ری «سامووݩ و عونوان پؽش فرز» کلیک کۊنین
 default-browser-guidance-notification-info-page = و مو نشووݩ بڌه
 default-browser-guidance-notification-dismiss = ٱنجوم وابی
+default-browser-guidance-notification-v2-title = تبدیل { -brand-short-name } ن و عونوان گشت گر خوتووݩ و دیندا برسۊوین
+default-browser-guidance-notification-v2-body = من سامووا، گۊزینه «سامووݩ پؽش فرز» ن سی { -brand-short-name } پسند کۊنین.
