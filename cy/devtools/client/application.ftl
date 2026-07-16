@@ -117,6 +117,11 @@ sidebar-item-session-history = Hanes Sesiwn
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Dangos data hanes sesiwn
+# Title (tooltip) for the clickable Session History diagram column headers, which
+# navigate the inspected page to that entry in its session history.
+# Variables:
+#   $index (number) - The session history index that will be navigated to.
+session-history-navigate-button-title = Llywio i gofnod hanes sesiwn { $index }
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = Dyw diagram hanes y sesiwn ddim ar gael
 # Text displayed for when the target does not support showing session history diagrams

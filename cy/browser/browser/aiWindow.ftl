@@ -105,7 +105,7 @@ aiwindow-firstrun-model-fast-label = Cyflym
 aiwindow-firstrun-model-fast-body = Yn ateb yn gyflym
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Cyflym: { $shortName }
-aiwindow-firstrun-model-fast-body-v2 = Y gorau ar gyfer atebion cyflym pan fyddwch chi'n symud yn gyflym
+aiwindow-firstrun-model-fast-body-v2 = Y gorau ar gyfer atebion cyflym pan fyddwch yn symud yn gyflym
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -340,10 +340,10 @@ aiwindow-ai-chat-grid-grid-view =
 
 aiwindow-starter-writing-first-draft = Ysgrifennu drafft cyntaf
 aiwindow-starter-writing-improve = Gwella ysgrifennu
-aiwindow-starter-writing-proofread = Prawfddarllen neges
+aiwindow-starter-writing-proofread = Prawf ddarllen neges
 aiwindow-starter-planning-simplify = Symleiddio pwnc
 aiwindow-starter-planning-brainstorm = Datblygu syniadau
 aiwindow-starter-planning-plan = Helpu i greu cynllun
-aiwindow-starter-browsing-history = Canfod tabiau mewn hanes
+aiwindow-starter-browsing-history = Canfod tabiau yn eich hanes
 aiwindow-starter-browsing-summarize = Crynhoi tabiau
 aiwindow-starter-browsing-compare = Cymharu tabiau

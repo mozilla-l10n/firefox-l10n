@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Rhaglen Arall…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Analluogwyd mewn Ffenestri Preifat
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Dewiswch eich ap e-bost
+mailto-handler-picker-subtitle = Dewiswch yr ap yr hoffech ei ddefnyddio ar gyfer dolenni e-bost. Gallwch newid hyn yn ddiweddarach yn y Gosodiadau.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Gofyn i mi bob amser pan fyddaf yn clicio ar ddolen e-bost
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Gosod fel yr arferol
+    .accesskey = a
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Nid nawr
+    .accesskey = N

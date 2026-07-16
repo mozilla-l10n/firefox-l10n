@@ -38,3 +38,28 @@ appearance-browser-icon-requirement =
     .message = Cwblhewch a datgloi eiconau llwynog bonws i bersonoli { -brand-short-name }.
 appearance-browser-icon-set-default-button =
     .label = Gosod fel yr arferol
+appearance-browser-icon-pin-button =
+    .label = Pinio i'r bar tasgau
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Arferol
+appearance-browser-icon-retro2004 =
+    .label = Retro 2004
+appearance-browser-icon-retro2017 =
+    .label = Retro 2017
+appearance-browser-icon-pride =
+    .label = Balchder
+appearance-browser-icon-minimal =
+    .label = Lleiaf
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Picseledig
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Crëwyd gan @heyheymomodraws
