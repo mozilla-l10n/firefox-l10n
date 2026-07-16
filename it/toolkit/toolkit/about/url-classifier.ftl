@@ -37,6 +37,24 @@ url-classifier-cache-prefix = Prefisso
 url-classifier-cache-ncache-expiry = Scadenza cache negativa
 url-classifier-cache-fullhash = Hash completo
 url-classifier-cache-pcache-expiry = Scadenza cache positiva
+url-classifier-content-classifier-title = Classificatore di contenuti
+url-classifier-content-classifier-url = URL
+url-classifier-content-classifier-destination-type = Tipo di destinazione
+url-classifier-content-classifier-results = Risultati
+url-classifier-content-classifier-pbm = Navigazione anonima
+url-classifier-content-classifier-non-recommended-addon = Componente aggiuntivo non consigliato
+url-classifier-content-classifier-engine-details = Dettagli motore
+url-classifier-content-classifier-col-feature = Caratteristica
+url-classifier-content-classifier-col-matched = Corrispondenza
+url-classifier-content-classifier-col-exception = Eccezione
+url-classifier-content-classifier-col-important = Importante
+url-classifier-content-classifier-col-engine-result = Risultato motore
+url-classifier-content-classifier-verdict-hit = Corrispondenza
+url-classifier-content-classifier-verdict-exception = Eccezione
+url-classifier-content-classifier-verdict-miss = Non corrispondenza
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Errore ({ $code })
 url-classifier-debug-title = Debug
 url-classifier-debug-module-btn = Imposta moduli di log
 url-classifier-debug-file-btn = Imposta file di log

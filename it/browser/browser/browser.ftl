@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Elimina cookie e dati dei siti web…
 identity-connection-not-secure-security-view = La connessione con questo sito non è sicura.
 identity-connection-verified = La connessione con questo sito è sicura.
+identity-ev-owner-label2 = Certificato rilasciato a
+identity-verifier-label2 = Verificata da
 identity-ev-owner-label = Certificato rilasciato a:
 identity-verifier-label = Verificata da:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
