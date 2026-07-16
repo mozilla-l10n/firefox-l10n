@@ -104,6 +104,13 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Zatvorené karty
 smart-window-closed-and-restored-label = Zatvorené a obnovené karty
+smart-window-restored-row-label =
+    { $count ->
+        [one] Obnovená { $count } karta
+        [few] Obnovené { $count } karty
+        [many] Obnovených { $count } kariet
+       *[other] Obnovených { $count } kariet
+    }
 smart-window-restore-success-summary =
     { $count ->
         [one] Karta zatvorená a potom obnovená.
@@ -122,6 +129,57 @@ smart-window-confirm-group-tabs =
         [many] Zoskupiť { $count } kariet
        *[other] Zoskupiť { $count } kariet
     }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Zoskupená { $count } karta
+        [few] Zoskupené { $count } karty
+        [many] Zoskupených { $count } kariet
+       *[other] Zoskupených { $count } kariet
+    }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Vytvorila sa skupina “{ $label }” a pridala sa do nej { $count } karta.
+        [few] Vytvorila sa skupina “{ $label }” a pridali sa do nej { $count } karty.
+        [many] Vytvorila sa skupina “{ $label }” a pridalo sa do nej { $count } kariet.
+       *[other] Vytvorila sa skupina “{ $label }” a pridalo sa do nej { $count } kariet.
+    }
+smart-window-grouped-tabs-row-label = Zoskupené karty
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Karty boli oddelené zo skupiny
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } karty zoskupená a potom oddelená zo skupiny.
+        [few] { $count } karty zoskupené a potom oddelené zo skupiny.
+        [many] { $count } kariet zoskupených a potom oddelených zo skupiny.
+       *[other] { $count } kariet zoskupených a potom oddelených zo skupiny.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } karta oddelená zo skupiny
+        [few] { $count } karty oddelené zo skupiny
+        [many] { $count } kariet oddelených zo skupiny
+       *[other] { $count } kariet oddelených zo skupiny
+    }
+
+## Action log
+
+action-log-searching-tabs = Prehľadávanie kariet
+action-log-searched-open-tabs = Otvorené karty prehľadané
+action-log-searching-history = Prehľadávanie histórie
+action-log-searched-history = História prehľadaná
+action-log-reading-page = Čítanie stránky
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Obsah stránky prečítaný
+action-log-searching-web = Vyhľadávanie na webe
+action-log-searched-web = Web prehľadaný
 
 ## Assistant Loader
 
