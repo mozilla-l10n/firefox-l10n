@@ -20,6 +20,7 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Něco se pokazilo. Zkuste to prosím znovu.
 smartwindow-assistant-error-budget-header = Dosáhli jste dnešního limitu pro chatování.
+smartwindow-assistant-error-account-header = Pro používání funkce { -smart-window-brand-name } se musíte přihlásit.
 smartwindow-assistant-error-capacity-header = Funkce { -smart-window-brand-name } je momentálně plně vytížena. Zkuste to prosím později.
 smartwindow-assistant-error-budget-body = V tomto okně můžete i nadále procházet stránky. Chat bude opět k dispozici, jakmile se váš denní limit vynuluje.
 smartwindow-assistant-error-many-requests-header = Prosím počkejte chvíli a zkuste to znovu. Bylo odesláno příliš mnoho zpráv v krátkém čase.
