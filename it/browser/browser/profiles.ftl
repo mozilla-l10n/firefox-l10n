@@ -93,6 +93,9 @@ delete-profile-logins = Password
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Elimina il profilo “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Eliminare il profilo “{ $profilename }”?
 
 ##
 

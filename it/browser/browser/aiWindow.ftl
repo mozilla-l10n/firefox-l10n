@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Apri nuova finestra anonima
 ai-window-toggleview-status-label-active = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-toggleview-status-label-inactive = Finestra classica
+toolbar-switcher-customizable-label =
+    .label = Selettore { -smart-window-brand-name }
+    .tooltiptext = Passa facilmente tra finestre smart e classiche.
 
 ## Input CTA
 
