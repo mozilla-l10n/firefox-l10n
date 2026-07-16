@@ -629,5 +629,6 @@ smartwindow-sidebar-auto-open-callout-body = Todavía se podrá abrir cuando se 
 smartwindow-sidebar-auto-open-callout-accept = Sí, mantener cerrado
 smartwindow-sidebar-auto-open-callout-dismiss = No, gracias
 smartwindow-sidebar-auto-open-callout-accepted-title = El asistente se mantendrá cerrado.
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Use Ask para abrirlo en cualquier página. Se puede cambiar en cualquier momento en <a data-l10n-name="settings">Configuración</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Entendido
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si cambia de opinión, puede actualizar la configuración predeterminada en <a data-l10n-name="settings">Configuración</a> en cualquier momento.

@@ -36,6 +36,7 @@ policy-Cookies = Permitir o denegar que los sitios web establezcan cookies.
 policy-Containers = Establecer políticas relacionadas con los contenedores.
 policy-DisableAccounts = Deshabilitar los servicios basados en cuenta, incluida la sincronización.
 policy-DisabledCiphers = Deshabilitar cifrados.
+policy-DefaultBrowserSettingEnabled = Controlar si el usuario puede establecer { -brand-short-name } como el navegador predeterminado.
 policy-DefaultDownloadDirectory = Establecer la carpeta de descargas predeterminada.
 policy-DefaultSerialGuardSetting = Controlar el uso de la API Serie.
 policy-DisableAppUpdate = Impedir la actualización del navegador.

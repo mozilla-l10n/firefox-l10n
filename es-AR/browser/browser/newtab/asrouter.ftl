@@ -496,5 +496,6 @@ nova-early-access-infobar-primary-button = Entendido
 
 ## App Exit Spotlight dialog
 
+app-exit-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } al iniciar
 app-exit-spotlight-checkbox-pin-to-taskbar = Pegar a la barra de tareas
 app-exit-spotlight-primary-button = Guardar y cerrar { -brand-short-name }

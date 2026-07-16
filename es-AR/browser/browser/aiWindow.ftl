@@ -109,6 +109,7 @@ aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexible
+aiwindow-firstrun-model-allpurpose-body = Se adapta perfectamente a la mayoría de las necesidades
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexible: { $shortName }
 aiwindow-firstrun-model-flexible-body = Listo para una variedad de tareas

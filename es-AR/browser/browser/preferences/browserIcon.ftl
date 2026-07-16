@@ -46,6 +46,13 @@ appearance-browser-icon-retro2017 =
     .label = Retro 2017
 appearance-browser-icon-pride =
     .label = Orgullo
+appearance-browser-icon-minimal =
+    .label = Minimalista
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Pixelado
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
