@@ -103,10 +103,10 @@ ai-window-memory-delete-button =
 
 smart-window-model-fast-v2 =
     .label = { $shortName }: veloce
-    .description = Optime pro responsas rapide quando le velocitate importa:  Prenomine e nomine de familia: { $model } per { $ownerName }
+    .description = Optime pro responsas rapide quando le velocitate importa:  Nomine complete: { $model } per { $ownerName }
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Flexibile
-    .description = Preste pro plure activitates.  Prenomine e nomine de familia: { $model } per { $ownerName }
+    .description = Preste pro plure activitates.  Nomine complete: { $model } per { $ownerName }
 smart-window-model-personal-v2 =
     .label = { $shortName }: Personal
-    .description = Create pro assistentia personalisate trans linguas. Prenomine e nomine de familia: { $model } per { $ownerName }
+    .description = Create pro assistentia personalisate trans linguas. Nomine complete: { $model } per { $ownerName }
