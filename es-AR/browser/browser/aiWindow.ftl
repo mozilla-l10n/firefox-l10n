@@ -104,6 +104,7 @@ aiwindow-firstrun-model-fast-label = Rápido
 aiwindow-firstrun-model-fast-body = Responde rápidamente
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Lo mejor para respuestas rápidas cuando hace falta velocidad
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
