@@ -107,3 +107,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Fleksibelny
     .description = Hotowy za wšelake nadawki: { $model } wot { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Wosobinski
+    .description = Wutworjeny za personalizowanu pomoc za wjacore rěče: { $model } wot { $ownerName }
