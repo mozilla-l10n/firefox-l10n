@@ -106,7 +106,8 @@ fxa-adoption-passwords-primary-button-label = Գրանցվել
 taskbar-tabs-social-callout-title = Պահեք ձեր ընտրյալ սնուցիչները  խնդրագոտում
 taskbar-tabs-social-callout-subtitle = Գործարկեք ձեր սոցիալական կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
 taskbar-tabs-email-callout-title = Պահեք ձեր էլ. փոստը ձեր առաջադրանքների տողում
-taskbar-tabs-media-callout-title = Վերադարձեք հեռարձակմանը ձեր առաջադրանքների վահանակից
+taskbar-tabs-media-callout-title = Վերադարձեք հոսքին ձեր առաջադրանքների վահանակից
+taskbar-tabs-media-callout-subtitle = Գործարկեք ձեր հոսքային կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
 taskbar-tabs-value-prop-callout-title = Ավելացրել այս կայքը Ձեր խնդրագոտուն
 taskbar-tabs-value-prop-callout-subtitle = Մեկ կտտոցով թողարկեք այն իր սեփական պատուհանում և պարզեցված միջերեսով:
 

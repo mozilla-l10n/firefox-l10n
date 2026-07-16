@@ -144,6 +144,14 @@ home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name }-ի աջակցում
 home-prefs-mission-message-learn-more-link-srd = Իմացեք, թե ինչպես
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-13 = { -brand-short-name }-ն արգելափակում է հետագծողներին՝ ազատելով թողունակություն՝ ավելի սահուն հոսքի համար։
+
 ## Search box component.
 
 # "Search" is a verb/action
