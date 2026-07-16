@@ -104,6 +104,7 @@ aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Hızlı: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Zamanınız kısıtlıysa hızlı cevaplar almak için ideal
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -118,6 +119,7 @@ aiwindow-firstrun-model-personal-label = Kişisel
 aiwindow-firstrun-model-personal-body = En özelleştirilmiş cevaplar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Kişisel: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Farklı dillerde size özel yardım için tasarlandı
 aiwindow-firstrun-button = Başlayalım
 aiwindow-firstrun-back-button = Geri
 aiwindow-firstrun-next-button = İleri
@@ -310,3 +312,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Modu değiştir: Izgara görünümü
     .tooltiptext = Izgara görünümü
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = İlk taslağı yaz
+aiwindow-starter-writing-improve = Yazıyı geliştir
+aiwindow-starter-writing-proofread = Mesajda yazım denetimi yap
+aiwindow-starter-planning-simplify = Konuyu basitleştir
+aiwindow-starter-planning-brainstorm = Fikir üret
+aiwindow-starter-planning-plan = Plan yapmama yardım et
+aiwindow-starter-browsing-history = Geçmişte sekme bul
+aiwindow-starter-browsing-summarize = Sekmeleri özetle
+aiwindow-starter-browsing-compare = Sekmeleri karşılaştır

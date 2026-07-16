@@ -19,6 +19,7 @@ default-browser-prompt-button-primary-pin = تبدیل و گشت گر ٱسلی
 default-browser-prompt-title-alt = { -brand-short-name } ن گشت گر پؽش فرز خوتووݩ اکۊنین؟
 default-browser-prompt-message-alt = من هر مجالی، مجال گشتن من اینترنت، ترات، ٱمنیت وو هریم سیخومی ن وا خوتووݩ داشته بۊین.
 default-browser-prompt-button-primary-alt = سامووݩ و عونوان گشت گر پؽش فرز
+default-browser-prompt-checkbox-not-again-label = ای پیوم ن دووارته نشووݩ نڌه
 default-browser-prompt-button-secondary = سکو ن
 
 ## Strings for a Windows native guidance notification when the user is forced to
