@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Preifatrwydd
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Croesair
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Stociau
@@ -520,6 +523,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Golygu
+newtab-menu-add-topsite = Ychwanegu Llwybr Byr Newydd
 newtab-menu-open-new-window = Agor mewn Ffenestr Newydd
 newtab-menu-open-new-private-window = Agor mewn Ffenestr Preifat Newydd
 newtab-menu-dismiss = Cau
@@ -1176,6 +1180,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Diddymu
     .title = Diddymu
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Dewisiadau'r rhestr
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Creu rhestr newydd

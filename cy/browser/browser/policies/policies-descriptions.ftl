@@ -36,6 +36,7 @@ policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
 policy-Containers = Gosod polisïau sy'n ymwneud â chynwysyddion.
 policy-DisableAccounts = Analluogi gwasanaethau sy'n seiliedig ar gyfrifon, gan gynnwys cydweddu.
 policy-DisabledCiphers = Analluogi seifferau.
+policy-DefaultBrowserSettingEnabled = Rheoli a all y defnyddiwr osod { -brand-short-name } fel y porwr arferol.
 policy-DefaultDownloadDirectory = Gosod y cyfeiriadur llwytho i lawr rhagosodedig.
 policy-DefaultSerialGuardSetting = Rheoli'r defnydd o'r API Cyfresol.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.

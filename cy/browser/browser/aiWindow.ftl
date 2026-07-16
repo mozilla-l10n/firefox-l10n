@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Croeso i { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Beth sy'n bwysig i chi?
+aiwindow-firstrun-model-title-v2 = Dewiswch fodel i ddechrau
 aiwindow-firstrun-model-subtitle = Dewiswch fodel i bweru { -smart-window-brand-name }. Gallwch ei newid unrhyw bryd.
+aiwindow-firstrun-model-subtitle-v2 = Gall pob model eich helpu i grynhoi, cymharu ac archwilio ar draws eich tabiau. Newidiwch unrhyw bryd.
 aiwindow-firstrun-model-fast-label = Cyflym
 aiwindow-firstrun-model-fast-body = Yn ateb yn gyflym
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Cyflym: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Y gorau ar gyfer atebion cyflym pan fyddwch chi'n symud yn gyflym
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } gan { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Hyblyg
 aiwindow-firstrun-model-allpurpose-body = Y dewis addas ar gyfer y rhan fwyaf o anghenion
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Hyblyg: { $shortName }
+aiwindow-firstrun-model-flexible-body = Yn barod am amrywiaeth o dasgau
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Argymhellwyd
 aiwindow-firstrun-model-personal-label = Personol
 aiwindow-firstrun-model-personal-body = Atebion wedi'u personoli fwyaf
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personol: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Wedi'i adeiladu ar gyfer cymorth personol ar draws ieithoedd
 aiwindow-firstrun-button = Ffwrdd â ni
 aiwindow-firstrun-back-button = Nôl
 aiwindow-firstrun-next-button = Nesaf
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Cyflym
 aiwindow-input-model-select-button-label-allpurpose = Hyblyg
 aiwindow-input-model-select-button-label-personal = Personol
 aiwindow-input-model-select-button-label-custom = Cyfaddas
+aiwindow-input-model-select-button-description-custom = Defnyddiwch eich LLM eich hun
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -317,3 +331,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Modd newid: Golwg Grid
     .tooltiptext = Golwg Grid
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Ysgrifennu drafft cyntaf
+aiwindow-starter-writing-improve = Gwella ysgrifennu
+aiwindow-starter-writing-proofread = Prawfddarllen neges
+aiwindow-starter-planning-simplify = Symleiddio pwnc
+aiwindow-starter-planning-brainstorm = Datblygu syniadau
+aiwindow-starter-planning-plan = Helpu i greu cynllun
+aiwindow-starter-browsing-history = Canfod tabiau mewn hanes
+aiwindow-starter-browsing-summarize = Crynhoi tabiau
+aiwindow-starter-browsing-compare = Cymharu tabiau

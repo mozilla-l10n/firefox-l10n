@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Diddymu
 ai-window-memory-delete-button =
     .title = Dileu cof
     .aria-label = Dileu { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName } : Cyflym
+    .description = Y gorau ar gyfer atebion sydyn pan mae brys. Enw llawn: { $model } gan { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName } : Hyblyg
+    .description = Yn barod ar gyfer amrywiaeth o dasgau. Enw llawn: { $model } gan { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName } : Personol
+    .description = Wedi ei adeiladu ar gyfer cymorth personol ar draws amrywiaeth o ieithoedd. Enw llawn: { $model } gan { $ownerName }

@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Rheoli { -firefox-suggest-brand-nam
 urlbar-result-menu-report-inaccurate-location2 = Rhoi gwybod am leoliad anghywir
 urlbar-result-menu-show-less-frequently2 = Dangos yn llai aml
 urlbar-result-menu-dont-show-weather-suggestions2 = Peidio â dangos awgrymiadau tywydd
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Cau'r awgrym hwn
+    .accesskey = C
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Tynnu o'r hanes
+    .accesskey = T
 urlbar-result-menu-learn-more =
     .label = Darllen rhagor
     .accesskey = D
@@ -1158,6 +1168,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Mae chwilio allweddair wedi'i analluogi
 urlbar-searchmode-dropmarker2 =
     .title = Dewiswch Beiriant Chwilio
+urlbar-searchmode-bookmarks3 = Nodau Tudalen
+    .accesskey = N
+urlbar-searchmode-tabs3 = Tabiau
+    .accesskey = T
+urlbar-searchmode-history3 = Hanes
+    .accesskey = H
+urlbar-searchmode-actions3 = Gweithredoedd
+    .accesskey = G
 urlbar-searchmode-bookmarks2 = Nodau Tudalen
 urlbar-searchmode-tabs2 = Tabiau
 urlbar-searchmode-history2 = Hanes
@@ -1177,6 +1195,10 @@ urlbar-searchmode-popup-one-off-header = Y tro hwn, chwilio gyda:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Chwilio gyda:
+urlbar-searchmode-popup-search-settings = Gosodiadau Chwilio
+    .accesskey = G
+urlbar-searchmode-popup-settings = Gosodiadau
+    .accesskey = G
 urlbar-searchmode-popup-search-settings-panelitem = Gosodiadau chwilio
 urlbar-searchmode-popup-settings-panelitem = Gosodiadau
 
