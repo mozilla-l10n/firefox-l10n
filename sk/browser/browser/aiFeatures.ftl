@@ -39,6 +39,38 @@ smart-window-model-learn-link = Ďalšie informácie o modeloch
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Rýchly: Rýchle odpovede
+    .description = Model { $model } od { $ownerName }
+smart-window-model-flexible =
+    .label = Flexibilný: vhodný na väčšinu úkonov
+    .description = Model { $model } od { $ownerName }
+smart-window-model-personal =
+    .label = Osobný: najpresnejšie odpovede
+    .description = Model { $model } od { $ownerName }
+smart-window-model-custom =
+    .label = Vlastný: Použite svoj vlastný LLM
+smart-window-model-custom-name =
+    .label = Názov modelu
+    .placeholder = Napríklad: glm4
+smart-window-model-custom-url =
+    .label = Koncový bod modelu
+    .placeholder = Napríklad: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = Kľúč API alebo autorizačný token, ak je potrebný
+smart-window-model-custom-info =
+    .message = Ak používate vlastný model, { -smart-window-brand-name } nemusí fungovať podľa očakávania.
+smart-window-model-custom-more-link = Ďalšie informácie o vlastných modeloch
+smart-window-model-custom-save =
+    .label = Uložiť
+smart-window-model-custom-save-confirmation = Detaily modelu boli uložené. Začnite nový rozhovor, aby ste ho otestovali.
+ai-window-memories-section =
+    .label = Spomienky
+    .description = { -brand-short-name } sa dokáže učiť z vašej aktivity a vytvárať spomienky. Tieto spomienky sa používajú na prispôsobenie odpovedí a ukladajú sa lokálne v tomto zariadení.
+ai-window-learn-from-chat-activity =
+    .label = Učiť sa z rozhovorov v { -smart-window-brand-name(case: "loc", plural-form: "true") }
+ai-window-learn-from-browsing-activity =
+    .label = Učiť sa z prehliadania v klasickom zobrazení a { -smart-window-brand-name(plural-form: "true", case: "loc") }
 ai-window-manage-memories-button =
     .label = Spravovať spomienky
 ai-window-manage-memories-header =
@@ -63,3 +95,18 @@ ai-window-delete-all-memories-cancel = Zrušiť
 ai-window-memory-delete-button =
     .title = Vymazať spomienku
     .aria-label = Vymazať { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Rýchly
+    .description = Najlepší pre rýchle odpovede, keď na rýchlosti záleží. Celý názov: { $model } od { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Flexibilný
+    .description = Pripravený na rôzne úlohy. Celý názov: { $model } od { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Osobný
+    .description = Vytvorený pre personalizovanú pomoc vo všetkých jazykoch. Celý názov: { $model } od { $ownerName }
