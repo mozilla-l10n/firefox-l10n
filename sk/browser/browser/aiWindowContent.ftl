@@ -180,6 +180,26 @@ action-log-reading-page = Čítanie stránky
 action-log-read-page = Obsah stránky prečítaný
 action-log-searching-web = Vyhľadávanie na webe
 action-log-searched-web = Web prehľadaný
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Hľadané na webe pomocou Exa
+action-log-checking-memories = Kontrolujú sa spomienky
+action-log-checked-memories = Spomienky skontrolované
+action-log-searching-settings = Prehľadávajú sa nastavenia
+action-log-searched-settings = Nastavenia prehľadané
+action-log-searching-world-cup-matches = Vyhľadávanie zápasov Majstrovstiev sveta
+action-log-searched-world-cup-matches = Zápasy Majstrovstiev sveta prehľadané
+action-log-checking-world-cup-live = Kontrolujú sa práve hrané zápasy Majstrovstiev sveta
+action-log-checked-world-cup-live = Práve hrané zápasy Majstrovstiev sveta skontrolované
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Dokončený 1 krok
+        [few] Dokončené { $count } kroky
+        [many] Dokončených { $count } krokov
+       *[other] Dokončených { $count } krokov
+    }
 
 ## Assistant Loader
 
