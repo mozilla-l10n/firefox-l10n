@@ -36,6 +36,7 @@ policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
 policy-Containers = Dinifi politikojn, kiuj rilatas ingojn.
 policy-DisableAccounts = Malaktivigi servojn kiuj postulas konton, tio inkluzivas speguladon.
 policy-DisabledCiphers = Malaktivigi ĉifradon.
+policy-DefaultBrowserSettingEnabled = Decidi ĉu uzantoj povas elekti { -brand-short-name } kiel la norman retumilon.
 policy-DefaultDownloadDirectory = Difini la norman dosierujon por elŝutoj.
 policy-DefaultSerialGuardSetting = Administri uzon de interfaco Serial API.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.

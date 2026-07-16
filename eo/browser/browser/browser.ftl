@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Administri { -firefox-suggest-brand
 urlbar-result-menu-report-inaccurate-location2 = Raporti neprecizan lokon
 urlbar-result-menu-show-less-frequently2 = Montri malpli ofte
 urlbar-result-menu-dont-show-weather-suggestions2 = Ne montri sugestojn pri veterprognozo
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Ignori tiun ĉi sugeston
+    .accesskey = I
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Forigi el historio
+    .accesskey = h
 urlbar-result-menu-learn-more =
     .label = Pli da informo
     .accesskey = i
@@ -1103,6 +1113,14 @@ urlbar-searchmode-no-keyword2 =
     .title = La serĉo laŭ ŝlosilvorto estas malaktiva
 urlbar-searchmode-dropmarker2 =
     .title = Elekti serĉion
+urlbar-searchmode-bookmarks3 = Legosignoj
+    .accesskey = L
+urlbar-searchmode-tabs3 = Langetoj
+    .accesskey = L
+urlbar-searchmode-history3 = Historio
+    .accesskey = H
+urlbar-searchmode-actions3 = Agoj
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Legosignoj
 urlbar-searchmode-tabs2 = Langetoj
 urlbar-searchmode-history2 = Historio
@@ -1122,6 +1140,10 @@ urlbar-searchmode-popup-one-off-header = Ĉi foje serĉi per:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Serĉi per:
+urlbar-searchmode-popup-search-settings = Agordoj de serĉo
+    .accesskey = s
+urlbar-searchmode-popup-settings = Agordoj
+    .accesskey = A
 urlbar-searchmode-popup-search-settings-panelitem = Agordoj de serĉo
 urlbar-searchmode-popup-settings-panelitem = Agordoj
 
