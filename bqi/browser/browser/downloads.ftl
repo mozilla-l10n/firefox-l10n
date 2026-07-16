@@ -206,6 +206,7 @@ downloads-files-not-downloaded =
        *[other] { $num } فایل دانلود نوابین.
     }
 downloads-blocked-from-url = دانلودا ز { $url } مسدۊد وابیڌن.
+downloads-blocked-download-detailed-info = { $url } قپ ریت کرد و توور خوتکار چن فایل ن دانلود کونه. گاشڌ وبگه خراو بۊ یا قپ ریت اکونه سی زفت کردن دانلود فایلا اسپم من دسگا ایسا.
 
 ##
 
