@@ -95,3 +95,15 @@ ai-window-delete-all-memories-cancel = Přetorhnyć
 ai-window-memory-delete-button =
     .title = Dopomnjeće zhašeć
     .aria-label = { $label } zhašeć
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Spěšny
+    .description = Najlěpje za spěšne wotmołwy, hdyž spěšnosć je wažna. Dospołne mjeno: { $model } wot { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Fleksibelny
+    .description = Hotowy za wšelake nadawki: { $model } wot { $ownerName }

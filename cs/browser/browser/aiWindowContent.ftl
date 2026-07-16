@@ -173,3 +173,19 @@ action-log-searching-web = Vyhledávání na webu
 action-log-searched-web = Vyhledáno na webu
 action-log-searching-settings = Vyhledávání nastavení
 action-log-searching-world-cup-matches = Vyhledávání zápasů Mistrovství světa
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] { $count } krok dokončen
+        [few] { $count } kroky dokončeny
+        [many] { $count } kroků dokončeno
+       *[other] { $count } kroků dokončeno
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Na tomto panelu se načítá výsledek vyhledávání. Probíhá analýza…

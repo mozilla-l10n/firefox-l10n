@@ -67,6 +67,7 @@ smartbar-placeholder =
     .placeholder = Ptejte se, hledejte nebo zadejte URL
 smartbar-placeholder-hint-2 = Zeptejte se na cokoli…
 smartbar-placeholder-hint-3 = Zadejte webovou adresu…
+smartbar-placeholder-hint-4 = Prohledat web…
 
 ## Mentions
 
@@ -83,6 +84,8 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Vítá vás { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Co je pro vás důležité?
+aiwindow-firstrun-model-title-v2 = Vyberte si model, se kterým chcete začít
+aiwindow-firstrun-model-subtitle = Vyberte si model pro funkci { -smart-window-brand-name }. Změnit ho můžete kdykoliv.
 aiwindow-firstrun-model-fast-label = Rychlý
 aiwindow-firstrun-model-allpurpose-label = Flexibilní
 aiwindow-firstrun-button = Začít
