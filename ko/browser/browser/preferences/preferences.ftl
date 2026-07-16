@@ -2685,7 +2685,7 @@ security-privacy-status-pending-trackers-label = 지난 한 달 동안 { -brand-
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
-security-privacy-status-trackers-label = 지난 한 달 동안 추적기{ $trackerCount }개가 차단됨
+security-privacy-status-trackers-label = 지난 한 달 동안 추적기 { $trackerCount }개가 차단됨
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">엄격한 보호</a> 중
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings

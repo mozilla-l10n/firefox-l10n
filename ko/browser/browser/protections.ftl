@@ -6,7 +6,7 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-       *[other] { -brand-short-name }가 지난 주 동안 { $count }개의 추적기를 차단함
+       *[other] { -brand-short-name }가 지난 주 동안 추적기 { $count }개를 차단함
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -14,7 +14,7 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 이후 <b>{ $count }</b>개의 추적기가 차단됨
+       *[other] { DATETIME($earliestDate, day: "numeric", year: "numeric", month: "long") } 이후 추적기 <b>{ $count }</b>개가 차단됨
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name }는 사생활 보호 창에서 추적기를 계속 차단하지만, 차단 된 내용은 기록하지 않습니다.
