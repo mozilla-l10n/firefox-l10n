@@ -13,6 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = { -brand-short-name } ن گشت گر پؽش فرز خوتووݩ اکۊنین؟
+default-browser-prompt-message-pin = { -brand-short-name } ن رو نوک کلکا خوت داشته بۊ — هو ن و گشت گر پؽش فرز خوت وو من تسکبار بدیسن.
+default-browser-prompt-message-pin-msix = { -brand-short-name } ن رو نوک کلکا خوت داشته بۊ — هو ن و گشت گر پؽش فرز خوت تبدیل کوݩ وو هو ن من تسکبار وو نومگه استارت بدیسن.
 default-browser-prompt-message-pin-mac = { -brand-short-name } ن رو نوک کلکا خوت داشته بۊ — هو ن و گشت گر پؽش فرز خوت وو من Dock بدیسن.
 default-browser-prompt-button-primary-set = سامووݩ و عونوان گشت گر ٱسلی
 default-browser-prompt-button-primary-pin = تبدیل و گشت گر ٱسلی
@@ -38,5 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     مرهله 2: سی { -brand-short-name } ری «سامووݩ و عونوان پؽش فرز» کلیک کۊنین
 default-browser-guidance-notification-info-page = و مو نشووݩ بڌه
 default-browser-guidance-notification-dismiss = ٱنجوم وابی
-default-browser-guidance-notification-v2-title = تبدیل { -brand-short-name } ن و عونوان گشت گر خوتووݩ و دیندا برسۊوین
+default-browser-guidance-notification-v2-title = تبدیل { -brand-short-name } ن و عونوان گشت گر پؽش فرز خوتووݩ و دیندا برسۊوین
 default-browser-guidance-notification-v2-body = من سامووا، گۊزینه «سامووݩ پؽش فرز» ن سی { -brand-short-name } پسند کۊنین.
+default-browser-guidance-notification-v2-title-only = تبدیل { -brand-short-name } ن و عونوان گشت گر پؽش فرز خوتووݩ من سامووا ن و دیندا برسۊوین
