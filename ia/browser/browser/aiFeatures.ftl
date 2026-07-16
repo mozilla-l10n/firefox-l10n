@@ -101,6 +101,9 @@ ai-window-memory-delete-button =
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast-v2 =
+    .label = { $shortName }: veloce
+    .description = Optime pro responsas rapide quando le velocitate importa:  Prenomine e nomine de familia: { $model } per { $ownerName }
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Flexibile
     .description = Preste pro plure activitates.  Prenomine e nomine de familia: { $model } per { $ownerName }
