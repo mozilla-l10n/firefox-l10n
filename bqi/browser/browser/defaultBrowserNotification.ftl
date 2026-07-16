@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+default-browser-notification-message = <strong>سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز؟</strong> ی گشت گر زل، ٱمن وو سیخومی مجال گشتن وب داشته بۊین.
 default-browser-notification-button =
     .label = سامووݩ و عونوان پؽش فرز
     .accesskey = S
