@@ -20,6 +20,12 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = هیم سکو
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = پسند بلگه
+firefoxview-tabpickup-description = گۊشیڌن بلگه یل ز دسگایل دیری.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = ‏{ $percentValue }٪ ٱنجوم وابیڌه
+firefoxview-tabpickup-step-signin-header = بؽ یو ک واستین، منجا دسگایل جاگورو بۊین
+firefoxview-tabpickup-step-signin-description = سی گرؽڌن بلگه یل تیلیفووݩ خوت من ایچو، ٱول و من بیاین یا ی هساو وورکل کۊنین.
 firefoxview-tabpickup-step-signin-primarybutton = رئڌن وا پؽش
 firefoxview-syncedtabs-signin-primarybutton-2 = و من ٱووڌن
 firefoxview-tabpickup-adddevice-learn-how = قلوه دووسته بۊین
