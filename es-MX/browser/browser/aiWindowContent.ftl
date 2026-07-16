@@ -110,7 +110,7 @@ smart-window-restore-success-summary =
     }
 smart-window-cancelled-label = Solicitud cancelada.
 # Button label - "Group" is a verb (action to group tabs)
-smart-window-confirm-group-tab = Grupo
+smart-window-confirm-group-tab = Agrupar
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs =
     { $count ->
