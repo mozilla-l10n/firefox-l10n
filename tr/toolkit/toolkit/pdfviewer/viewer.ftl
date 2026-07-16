@@ -767,6 +767,15 @@ pdfjs-digital-signature-properties-button-label = Dijital imza özellikleri
 
 pdfjs-digital-signature-properties-banner-verified = Belge geçerli bir dijital imza ile imzalanmıştır
 
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Durum: İmza doğrulandı
+pdfjs-digital-signature-properties-status-invalid = Durum: İmza geçersiz
+pdfjs-digital-signature-properties-status-unknown = Durum: Doğrulanamadı (desteklenmiyor)
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
