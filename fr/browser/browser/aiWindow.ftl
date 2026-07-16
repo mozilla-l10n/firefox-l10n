@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Rechercher avec { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Rechercher avec…
 aiwindow-input-cta-search-submenu-header = Rechercher
 aiwindow-input-cta-stop-button =
-    .aria-label = Arrêter la génération de la réponse
-    .title = Arrêter la réponse
+    .title = Interrompre la réponse
+    .aria-label = Interrompre la génération de la réponse
 
 ## Smartbar
 
