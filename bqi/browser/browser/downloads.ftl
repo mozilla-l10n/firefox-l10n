@@ -210,9 +210,25 @@ downloads-blocked-download-detailed-info = { $url } قپ ریت کرد و توو
 
 ##
 
+downloads-clear-downloads-button =
+    .label = روفتن دانلودا
+    .tooltiptext = دانلودا تموم وابیڌه، لقو وابیڌه وو نامووفق ن ارۊفنه
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = هیچ دانلودی نجۊرست.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = هیچ دانلودی من ای نشست ٱنجوم نوابیڌه.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } فایل قلوه هونی دانلود ابۊن
+       *[other] { $count } فایل قلوه هونی دانلود ابۊن
+    }
 
 ## Download errors
 
@@ -222,3 +238,8 @@ downloads-error-alert-title = ختا دانلود
 downloads-error-blocked-by = زفت وابیڌن دانلود سی دل مسدۊد بیڌن و دست { $extension } ٱنجوم نؽگره.
 # Used when the name of the blocking extension is unavailable.
 downloads-error-extension = زفت وابیڌن دانلود سی دل مسدۊد بیڌن و دست ی وردنی ٱنجوم نؽگره.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    زفت کردن دانلود سی دل ختا نا معلۊمی شکست خرد.
+    
+    دووارته قپ ریت کۊنین.
