@@ -48,6 +48,7 @@ ipprotection-feature-introduction-button-get-started = ابدأ
 ## Unlimited bandwidth summer promotion offramp callouts
 
 ipprotection-summer-promo-offramp-get-subscription-button = احصل على { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = رفض
 
 ## Site settings callout
 
