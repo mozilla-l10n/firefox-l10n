@@ -90,10 +90,10 @@ smartwindow-nl-undo-button =
 
 smart-window-closed-tabs-label =
     { $count ->
-        [one] Zavrieť { $tabCount } kartu
-        [few] Zavrieť { $tabCount } karty
-        [many] Zavrieť { $tabCount } kariet
-       *[other] Zavrieť { $tabCount } kariet
+        [one] Zavrieť { $count }kartu
+        [few] Zavrieť { $count } karty
+        [many] Zavrieť { $count } kariet
+       *[other] Zavrieť { $count } kariet
     }
 smart-window-closed-tabs-summary =
     { $count ->

@@ -61,8 +61,8 @@ login-list-count2 =
 #   $total (number) - Total number of logins
 login-list-filtered-count2 =
     { $total ->
-        [one] { $total } paroldan { $total } ədədi
-       *[other] { $total } paroldan { $total } ədədi
+        [one] { $count } paroldan { $total } ədədi
+       *[other] { $count } paroldan { $total } ədədi
     }
 login-list-sort-label-text = Sırala:
 login-list-name-option = Ad (A-Z)
