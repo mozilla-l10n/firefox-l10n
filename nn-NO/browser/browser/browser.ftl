@@ -213,6 +213,11 @@ urlbar-result-menu-manage-firefox-suggest2 = Handsam { -firefox-suggest-brand-na
 urlbar-result-menu-report-inaccurate-location2 = Rapporter unøyaktig plassering
 urlbar-result-menu-show-less-frequently2 = Vis sjeldnare
 urlbar-result-menu-dont-show-weather-suggestions2 = Ikkje vis vêrforslag
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Avvis dette forslaget
+    .accesskey = v
 # Shown in the urlbar input field context menu to remove an adaptive autofill
 # URL from history.
 urlbar-input-remove-from-history =

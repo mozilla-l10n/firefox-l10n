@@ -16,6 +16,7 @@ appmenuitem-banner-update-unsupported =
 appmenuitem-banner-update-restart =
     .label = Oppdatering tilgjengeleg — start på nytt
 appmenu-nova-update-title = Start på nytt for å oppdatere { -brand-short-name }
+appmenu-nova-update-description = Fanene dine blir opna på nytt.
 appmenu-nova-fxa-sign-in = Logg inn
 appmenu-nova-switch-device-promo =
     .message = Får du deg ei ny eining snart? Ta { -brand-short-name } med deg!

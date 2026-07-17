@@ -326,5 +326,12 @@ aiwindow-ai-chat-grid-grid-view =
 ## When localizing, please write them as short instructions a user would give to an assistant.
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
+aiwindow-starter-writing-first-draft = Skriv eit førsteutkast
+aiwindow-starter-writing-improve = Forbetre skrivinga
+aiwindow-starter-writing-proofread = Korrekturles ei melding
+aiwindow-starter-planning-simplify = Forenkle eit emne
+aiwindow-starter-planning-brainstorm = Idémyldring
+aiwindow-starter-planning-plan = Hjelp til med å lage ein plan
 aiwindow-starter-browsing-history = Finn faner i historikk
+aiwindow-starter-browsing-summarize = Oppsummer faner
 aiwindow-starter-browsing-compare = Samanlikn faner
