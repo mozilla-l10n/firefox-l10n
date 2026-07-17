@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Personvern
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Kryssord
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aksjer
@@ -205,6 +208,7 @@ newtab-privacy-empty = { -brand-short-name } blokkerer sporere mens du surfer. D
 
 newtab-privacy-message-info-1 = { -brand-short-name } blokkerer sporere automatisk mens du surfer.
 newtab-privacy-message-info-1-cta = Vis beskyttelser
+newtab-privacy-message-info-2 = Sporingsblokkering hjelper med å hindre selskaper i å følge deg på nettet.
 newtab-privacy-message-info-2-cta = Vis beskyttelser
 newtab-privacy-message-info-3-cta = Vis beskyttelser
 newtab-privacy-message-info-4-cta = Vis beskyttelser
