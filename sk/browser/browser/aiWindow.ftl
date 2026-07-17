@@ -137,6 +137,15 @@ aiwindow-input-model-select-button-label-custom = Vlastný
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = Použite svoj vlastný LLM
+aiwindow-input-model-select-default-badge =
+    .label = Predvolený
+    .title = Označený predvolený model
+aiwindow-input-model-select-settings-link = Nastavenia modelu
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Užitočnejšie odpovede, podľa vašich predstáv
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } sa dokáže učiť z vašich rozhovorov, prehliadania alebo oboch faktorov a vytvárať si spomienky. Tieto postupom času robia odpovede užitočnejšími.
 
 ## Close Sidebar Button
 

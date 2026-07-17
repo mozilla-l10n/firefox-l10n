@@ -264,9 +264,37 @@ newtab-privacy-message-promo-relay-3-cta = Få e-postalias
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } sporer blokkert denne uken. Se hva { -brand-short-name } holder unna
+       *[other] { $count } sporere blokkert denne uken. Se hva { -brand-short-name } holder unna
+    }
 newtab-privacy-message-milestone-week-cta = Vis beskyttelser
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } sporer blokkert denne måneden. Et lite skritt for personvernet. Et stort skritt for sinnsroen.
+       *[other] { $count } sporere blokkert denne måneden. Et lite skritt for personvernet. Et stort skritt for sinnsroen.
+    }
 newtab-privacy-message-milestone-month-cta = Vis beskyttelser
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } sporer blokkert i år. Et helt år med sterk beskyttelse av personvernet ditt.
+       *[other] { $count } sporere blokkert i år. Et helt år med sterk beskyttelse av personvernet ditt.
+    }
 newtab-privacy-message-milestone-year-cta = Vis beskyttelser
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } sporer blokkert. Det er et stort skritt mot personvern på dine premisser.
+       *[other] { $count } sporere blokkert. Det er et stort skritt mot personvern på dine premisser.
+    }
 newtab-privacy-message-milestone-total-cta = Vis beskyttelser
 newtab-privacy-message-daily-cap-cta = Vis beskyttelser
 newtab-privacy-message-streak-cta = Vis beskyttelser
