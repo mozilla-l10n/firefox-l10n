@@ -132,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Rýchly
 aiwindow-input-model-select-button-label-allpurpose = Flexibilný
 aiwindow-input-model-select-button-label-personal = Osobný
 aiwindow-input-model-select-button-label-custom = Vlastný
+aiwindow-input-model-select-button-description-custom = Použite svoj vlastný LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -146,6 +147,38 @@ aiwindow-input-model-select-settings-link = Nastavenia modelu
 
 aiwindow-firstrun-memories-title = Užitočnejšie odpovede, podľa vašich predstáv
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } sa dokáže učiť z vašich rozhovorov, prehliadania alebo oboch faktorov a vytvárať si spomienky. Tieto postupom času robia odpovede užitočnejšími.
+aiwindow-firstrun-memories-conversation-title = Udržujte rozhovory živé
+aiwindow-firstrun-memories-conversation-body = Učenie sa z rozhovorov znamená, že sa budete musieť menej opakovať.
+aiwindow-firstrun-memories-relevance-title = Relevantnejšie odpovede
+aiwindow-firstrun-memories-relevance-body = Učenie sa z prehliadania poskytuje { -smart-window-brand-name(case: "dat") } širší obraz.
+aiwindow-firstrun-memories-privacy-title = Súkromie už v návrhu
+aiwindow-firstrun-memories-privacy-body = Spomienky sú uložené v tomto zariadení. Kedykoľvek ich môžete vymazať alebo vypnúť.
+aiwindow-firstrun-memories-choose-label = Vyberte, z čoho sa { -smart-window-brand-name(case: "acc") } učí
+aiwindow-firstrun-memories-checkbox-chats = Rozhovory v { -smart-window-brand-name(case: "loc") }
+aiwindow-firstrun-memories-checkbox-browsing = Prehliadanie vo { -brand-product-name(case: "loc") }
+aiwindow-firstrun-memories-update-settings = Zmenu vykonáte kedykoľvek v nastaveniach.
+aiwindow-firstrun-memories-no-create = Rozumiem. { -smart-window-brand-name } nevytvára spomienky. Kedykoľvek je to možné zmeniť v nastaveniach.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Urobte si { -smart-window-brand-name(case: "acc") } svojim obľúbeným nástrojom
+aiwindow-firstrun-default-subtitle = Prehliadajte, vyhľadávajte a pýtajte sa na jednom mieste. Súkromné aj klasické okná môžete stále otvárať, kedykoľvek chcete.
+aiwindow-firstrun-default-checkbox-label = { -brand-product-name(case: "acc") } vždy otvárať v { -smart-window-brand-name(case: "loc") }
+aiwindow-firstrun-default-checkbox-description = Zmeniť to môžete kedykoľvek v nastaveniach
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Opýtať sa
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Spomienky zapnuté
+    .tooltiptext = V odpovediach používať spomienky, ak sú užitočné
+aiwindow-memories-off =
+    .aria-label = Spomienky vypnuté
+    .tooltiptext = V odpovediach nepoužívať spomienky
 
 ## New Chat Button
 
@@ -158,6 +191,10 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Zavrieť
     .tooltiptext = Zavrieť
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synchronizované údaje zostanú vo vašom účte. Otvorením { -smart-window-brand-name(case: "gen", plural-form: "true") } prepnete na klasické okná.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -270,9 +307,26 @@ aiwindow-feedback-add-details = Ak chcete, doplňte podrobnosti. Žiadne osobné
 aiwindow-feedback-disclaimer = Odoslaním zdieľate svoju spätnú väzbu a tento rozhovor, aby ste pomohli { -brand-shorter-name(case: "dat") } vylepšiť { -smart-window-brand-name(case: "gen", plural-form: "true") }. Vaše ostatné rozhovory zostanú súkromné. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 aiwindow-feedback-submit = Odoslať
 aiwindow-feedback-cancel = Zrušiť
+aiwindow-feedback-reason-incorrect-or-misleading = Nesprávne alebo zavádzajúce
+aiwindow-feedback-reason-doesnt-address-my-request = Nevedel vyriešiť moju žiadosť
+aiwindow-feedback-reason-lacks-personalization = Chýba personalizácia alebo kontext
+aiwindow-feedback-reason-performance-or-usability = Problém s výkonom alebo použiteľnosťou
+aiwindow-feedback-reason-harmful-or-offensive = Škodlivé alebo urážlivé
 aiwindow-feedback-reason-other = Iné
 aiwindow-feedback-preview-report = Zobraziť podrobnosti o rozhovore
 aiwindow-feedback-preview-report-with-page = Zobraziť podrobnosti o stránke a rozhovore
+aiwindow-feedback-include-page-content = Zdieľať stránky uvedené v tomto rozhovore
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Prepnúť rozloženie zobrazenia
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Prepínanie režimu: Zobrazenie zoznamu
+    .tooltiptext = Zobrazenie zoznamu
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Prepínanie režimu: Zobrazenie mriežky
+    .tooltiptext = Zobrazenie mriežky
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
@@ -280,8 +334,12 @@ aiwindow-feedback-preview-report-with-page = Zobraziť podrobnosti o stránke a 
 ## When localizing, please write them as short instructions a user would give to an assistant.
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
+aiwindow-starter-writing-first-draft = Napíš prvý návrh
+aiwindow-starter-writing-improve = Vylepši text
 aiwindow-starter-writing-proofread = Skontroluj správu
 aiwindow-starter-planning-simplify = Zjednoduš tému
 aiwindow-starter-planning-brainstorm = Ponúkni nápady
 aiwindow-starter-planning-plan = Pomôž vytvoriť plán
 aiwindow-starter-browsing-history = Vyhľadaj karty v histórii
+aiwindow-starter-browsing-summarize = Vytvor súhrn kariet
+aiwindow-starter-browsing-compare = Porovnaj karty

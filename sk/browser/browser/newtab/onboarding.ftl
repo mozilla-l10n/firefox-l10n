@@ -615,7 +615,7 @@ smartwindow-existing-user-fx-tou-go-back = Prejsť naspäť
 
 ## Smart Window about:welcome screen
 
-smartwindow-onboarding-title = Urobte si { -smart-window-brand-name } svojim obľúbeným nástrojom
+smartwindow-onboarding-title = Urobte si { -smart-window-brand-name(case: "acc") } svojim obľúbeným nástrojom
 smartwindow-onboarding-subtitle = Vytvárajte súhrny, porovnajte a pýtajte sa bez zaváhania.
 smartwindow-onboarding-primary-button = Pokračovať
 # Kit is referring to the Firefox mascot
