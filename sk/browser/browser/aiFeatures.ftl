@@ -40,7 +40,7 @@ smart-window-model-learn-link = Ďalšie informácie o modeloch
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
-    .label = Rýchly: Rýchle odpovede
+    .label = Rýchly: rýchle odpovede
     .description = Model { $model } od { $ownerName }
 smart-window-model-flexible =
     .label = Flexibilný: vhodný na väčšinu úkonov
@@ -49,7 +49,7 @@ smart-window-model-personal =
     .label = Osobný: najpresnejšie odpovede
     .description = Model { $model } od { $ownerName }
 smart-window-model-custom =
-    .label = Vlastný: Použite svoj vlastný LLM
+    .label = Vlastný: použite svoj vlastný LLM
 smart-window-model-custom-name =
     .label = Názov modelu
     .placeholder = Napríklad: glm4

@@ -98,7 +98,7 @@ options-netmonitor-body-limit-set =
 # The heading
 options-experimental-label = Experimentella funktioner
 # The label for the checkbox that toggles showing stylesheets in the debugger
-options-stylesheets-in-the-debugger-label = Visa stilmallar i avlusaren
+options-stylesheets-in-the-debugger-label = Visa stilmallar i felsökaren
 options-stylesheets-in-the-debugger-tooltip =
     .title = Lista och visa stilmallar i avlusaren
 # The message shown for settings that indicates that the attached setting requires the

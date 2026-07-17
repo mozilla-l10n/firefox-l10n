@@ -101,5 +101,5 @@ experimental-features-tab-notes =
 experimental-features-tab-notes-description = Flikanteckningar är en experimentell funktion som låter dig lägga till fästisar i dina webbläsarflikar. Skriv ner sammanhang, påminnelser eller nästa steg så att du kan komma tillbaka och komma ihåg varför du öppnade dem. Vi skulle gärna vilja ha din feedback när vi fortsätter att förbättra den här funktionen. <a data-l10n-name="connect">Dela feedback</a>
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
-    .label = Effektiv flikmeny
-experimental-features-tab-context-menu-description = Se en enklare snabbmeny när du högerklickar på en flik. Den är utformad för att göra vanliga åtgärder lättare att hitta. <a data-l10n-name="connect">Dela feedback</a>
+    .label = Strömlinjeformad flikmeny
+experimental-features-tab-context-menu-description = Se en enklare kontextmeny när du högerklickar på en flik. Den är utformad för att göra vanliga åtgärder lättare att hitta. <a data-l10n-name="connect">Dela feedback</a>
