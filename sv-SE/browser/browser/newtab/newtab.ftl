@@ -1533,7 +1533,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Hjälp oss att göra widgetar bättre
 newtab-sports-widget-message-survey-body = Det var en sammanfattning av VM. Dela din feedback om upplevelsen.
 newtab-sports-widget-message-survey-widget-title = Hur var VM-widgeten?
-newtab-sports-widget-message-survey-widget-body = Dela din feedback för att hjälpa oss förbättra framtida widgets. Testa sedan den nya i din lineup.
+newtab-sports-widget-message-survey-widget-body = Dela din feedback för att hjälpa oss att förbättra framtida widgetar. Testa sedan den nya i ditt sortiment.
 newtab-sports-widget-message-survey-cta =
     .label = Gör undersökning
 
