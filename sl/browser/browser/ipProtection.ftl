@@ -41,6 +41,7 @@ ipprotection-feature-introduction-button-get-started = Začni
 ## Unlimited bandwidth summer promotion offramp callouts
 
 ipprotection-summer-promo-offramp-get-subscription-button = Prenesi { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Zapri
 
 ## Site settings callout
 
