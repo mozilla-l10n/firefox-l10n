@@ -176,7 +176,7 @@ perftools-presets-ml-description2 = Förinställd för att undersöka maskininl�
 perftools-presets-networking-label = Nätverk
 perftools-presets-networking-description = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Nätverk med loggar
-perftools-presets-networking-with-logs-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }, inklusive nätverksloggar. Dessa loggar kan innehålla känslig information, t.ex. webbadresser du besöker.
+perftools-presets-networking-with-logs-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }, inklusive nätverksloggar. Dessa loggar kan innehålla känslig information som de webbadresser du besöker.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energi
 perftools-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
