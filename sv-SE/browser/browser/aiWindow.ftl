@@ -7,14 +7,14 @@
 
 main-context-menu-open-link-new-smart-window =
     .label = Öppna länk i nytt { -smart-window-brand-name }
-    .accesskey = Ö
+    .accesskey = l
 appmenuitem-new-ai-window =
-    .label = Nya { -smart-window-brand-name }
-    .value = Nya { -smart-window-brand-name }
+    .label = Nytt { -smart-window-brand-name }
+    .value = Nytt { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Nytt klassiskt fönster
 menu-file-new-ai-window =
-    .label = Nya { -smart-window-brand-name }
+    .label = Nytt { -smart-window-brand-name }
 menu-file-new-classic-window =
     .label = Nytt klassiskt fönster
 menu-history-chats =
