@@ -220,6 +220,7 @@ newtab-privacy-message-info-6 = Behold kontrollen over dataene dine med { -brand
 newtab-privacy-message-info-6-cta = Les mer
 newtab-privacy-message-info-7 = Se hvilke sporere { -brand-short-name } blokkerte.
 newtab-privacy-message-info-7-cta = Vis beskyttelser
+newtab-privacy-message-info-8 = Når du surfer med { -brand-short-name }, støtter du { -vendor-short-name } sitt mål om å bygge et bedre internett.
 newtab-privacy-message-info-8-cta = Les mer
 newtab-privacy-message-info-9 = Gjør { -brand-short-name } til den foretrukne nettleseren din med innebygd personvern.
 newtab-privacy-message-info-9-cta = Bruk som standard
@@ -237,8 +238,11 @@ newtab-privacy-message-info-13-cta = Vis beskyttelser
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Finn ut om personopplysningene dine er med i en datalekkasje.
 newtab-privacy-message-promo-monitor-1-cta = Les mer
+newtab-privacy-message-promo-monitor-2 = Beskytt informasjonen din med gratis overvåking av datalekkasjer for opptil 20 e-postadresser.
 newtab-privacy-message-promo-monitor-2-cta = Les mer
+newtab-privacy-message-promo-signin-1 = Hold bokmerker, passord og faner kryptert på tvers av enheter med { -vendor-short-name }-kontoen din.
 newtab-privacy-message-promo-signin-1-cta = Logg inn
 newtab-privacy-message-promo-vpn-1-cta = Åpen VPN
 newtab-privacy-message-promo-vpn-2-cta = Åpen VPN
