@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Gestionează { -firefox-suggest-bra
 urlbar-result-menu-report-inaccurate-location2 = Raportează locație inexactă
 urlbar-result-menu-show-less-frequently2 = Arată mai rar
 urlbar-result-menu-dont-show-weather-suggestions2 = Nu afișa sugestii meteo
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Respinge sugestia
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Șterge din istoric
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Află mai multe
     .accesskey = L
@@ -1119,6 +1129,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Căutarea de cuvinte-cheie este dezactivată
 urlbar-searchmode-dropmarker2 =
     .title = Alege un motor de căutare
+urlbar-searchmode-bookmarks3 = Marcaje
+    .accesskey = B
+urlbar-searchmode-tabs3 = File
+    .accesskey = T
+urlbar-searchmode-history3 = Istoric
+    .accesskey = H
+urlbar-searchmode-actions3 = Acțiuni
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Marcaje
 urlbar-searchmode-tabs2 = File
 urlbar-searchmode-history2 = Istoric
@@ -1138,6 +1156,10 @@ urlbar-searchmode-popup-one-off-header = De data asta caută cu:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Căutare cu:
+urlbar-searchmode-popup-search-settings = Setări de căutare
+    .accesskey = S
+urlbar-searchmode-popup-settings = Setări
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = Setări de căutare
 urlbar-searchmode-popup-settings-panelitem = Setări
 

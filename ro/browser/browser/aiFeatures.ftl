@@ -26,6 +26,9 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Deschide automat asistentul
     .description = Arată bara laterală a asistentului pe fiecare filă nou deschisă. Închide-o oricând.
+ai-window-smart-cursor-in-smart-window =
+    .label = Afișează comenzile rapide la selectarea textului
+    .description = Obține acces rapid pentru a rezumare, explicare și multe altele.
 smart-window-model-section =
     .label = Model asistent
     .description = Alege un model bazat pe ce e important pentru tine.
@@ -92,3 +95,18 @@ ai-window-delete-all-memories-cancel = Anulează
 ai-window-memory-delete-button =
     .title = Șterge memoria
     .aria-label = Șterge { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Rapid
+    .description = Ideal pentru răspunsuri rapide când viteza contează. Nume complet: { $model } de la { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Flexibil
+    .description = Gata pentru o varietate de sarcini. Nume complet: { $model } de la { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Personal
+    .description = Creat pentru asistență personalizată în diferite limbi. Nume complet: { $model } de la { $ownerName }

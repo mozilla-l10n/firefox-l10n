@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Bine ai venit la { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ce este important pentru tine?
+aiwindow-firstrun-model-title-v2 = Alege un model pentru a începe
 aiwindow-firstrun-model-subtitle = Alege un model pentru  { -smart-window-brand-name }. Schimbă oricând.
+aiwindow-firstrun-model-subtitle-v2 = Fiecare model te poate ajuta să rezumi, să compari și să explorezi filele. Schimbă oricând.
 aiwindow-firstrun-model-fast-label = Rapid
 aiwindow-firstrun-model-fast-body = Răspunde rapid
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rapid: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Cel mai bun pentru răspunsuri rapide când te miști repede
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } de { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibil
 aiwindow-firstrun-model-allpurpose-body = Potrivit pentru majoritatea nevoilor
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexibil: { $shortName }
+aiwindow-firstrun-model-flexible-body = Gata pentru o varietate de sarcini
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Recomandat
 aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Cele mai personalizate răspunsuri
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Creat pentru asistență personalizată în diferite limbi
 aiwindow-firstrun-button = Să începem
 aiwindow-firstrun-back-button = Înapoi
 aiwindow-firstrun-next-button = Înainte
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Rapid
 aiwindow-input-model-select-button-label-allpurpose = Flexibil
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Personalizat
+aiwindow-input-model-select-button-description-custom = Folosește-ți propriul LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -311,3 +325,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Comută modul: Vizualizare tip grilă
     .tooltiptext = Vizualizare tip grilă
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Scrie o primă schiță
+aiwindow-starter-writing-improve = Îmbunătățește scrierea
+aiwindow-starter-writing-proofread = Corectează un mesaj
+aiwindow-starter-planning-simplify = Simplifică un subiect
+aiwindow-starter-planning-brainstorm = Caută idei
+aiwindow-starter-planning-plan = Ajută la realizarea unui plan
+aiwindow-starter-browsing-history = Găsește file în istoric
+aiwindow-starter-browsing-summarize = Fă rezumatul filelor
+aiwindow-starter-browsing-compare = Compară filele

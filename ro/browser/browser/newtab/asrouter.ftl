@@ -497,3 +497,10 @@ nova-early-access-share-feedback-link = Trimite feedback
     .accesskey = S
 nova-early-access-infobar-primary-button = Am înțeles
     .accesskey = G
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Vrei ca { -brand-short-name } să fie lansat de fiecare dată când te autentifici în Windows?
+app-exit-spotlight-checkbox-launch-on-login = Deschide { -brand-short-name } la pornire
+app-exit-spotlight-checkbox-pin-to-taskbar = Fixează în bara de sarcini
+app-exit-spotlight-primary-button = Salvează și închide { -brand-short-name }
