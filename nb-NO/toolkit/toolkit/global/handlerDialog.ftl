@@ -79,3 +79,15 @@ choose-app-btn =
 choose-other-app-window-title = Annet program …
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Deaktivert i private vinduer
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = Velg din e-postapp
+    .style = min-width: 26em; min-height: 26em;
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Bruk som standard
+    .accesskey = B
