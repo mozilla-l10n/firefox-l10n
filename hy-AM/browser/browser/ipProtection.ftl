@@ -37,6 +37,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Հեռացրեք VPN-ը գործիքագոտուց
 ipprotection-feature-introduction-button-get-started = Սկսել
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Ստանալ { -mozilla-vpn-brand-name }-ը
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Բաց թողնել
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Ընտրեք, թե որտեղ եք օգտագործում VPN-ը
@@ -118,6 +123,12 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ը անջատվ�
 ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միանալ VPN-ին
     .aria-label = Չհաջողվեց միանալ VPN-ին
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description-1 =
@@ -153,6 +164,9 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Հասկացա
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
