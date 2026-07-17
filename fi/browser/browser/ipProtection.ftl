@@ -56,6 +56,7 @@ ipprotection-feature-introduction-button-get-started = Aloitetaan
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+ipprotection-summer-promo-offramp-get-subscription-button = Hanki { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Hylkää
 
 ## Site settings callout
