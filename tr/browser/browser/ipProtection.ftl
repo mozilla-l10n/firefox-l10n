@@ -50,6 +50,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN’i aç
 ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN’i aç
+ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name }’i edinin
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Kapat
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = VPN’i nerede kullanacağınızı seçin
