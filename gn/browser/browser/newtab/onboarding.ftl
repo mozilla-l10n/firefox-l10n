@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = Momichĩ
 onboarding-checklist-remove =
     .label = Embogue jehechajeyha rysýi
+onboarding-checklist-remove-2 = Embogue jehechajeyha rysýi
 
 ## Tab Groups feature onboarding strings
 
