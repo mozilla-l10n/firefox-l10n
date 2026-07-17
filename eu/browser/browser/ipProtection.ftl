@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Ireki VPNa
 ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Ireki VPNa
+ipprotection-summer-promo-offramp-get-subscription-button = Eskuratu { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Baztertu
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Aukeratu non erabiltzen duzun VPNa
