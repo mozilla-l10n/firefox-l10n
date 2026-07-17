@@ -33,6 +33,9 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Fullfør og lås opp bonusrevikoner for å gjøre { -brand-short-name } mer personlig.
 appearance-browser-icon-set-default-button =
     .label = Sett til standard
 appearance-browser-icon-pin-button =

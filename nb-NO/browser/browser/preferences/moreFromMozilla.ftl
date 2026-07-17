@@ -31,7 +31,7 @@ more-from-moz-title2 = Mer fra { -vendor-short-name }
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
-more-from-moz-firefox-relay-description = Beskytt innboksen og identiteten din med gratis e-postmaskering.
+more-from-moz-firefox-relay-description = Beskytt innboksen og identiteten din med gratis e-postalias.
 more-from-moz-firefox-relay-button = Få { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page

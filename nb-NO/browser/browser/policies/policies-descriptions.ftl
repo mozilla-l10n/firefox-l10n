@@ -36,6 +36,7 @@ policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
 policy-Containers = Angi policyer relatert til beholdere.
 policy-DisableAccounts = Slå av kontobaserte tjenester, inkludert synkronisering.
 policy-DisabledCiphers = Deaktiver krypteringsmetoder.
+policy-DefaultBrowserSettingEnabled = Kontroller om brukeren kan angi { -brand-short-name } som standardnettleser.
 policy-DefaultDownloadDirectory = Velg standardmappe for nedlastinger.
 policy-DefaultSerialGuardSetting = Kontroller bruk av serieport-API-et.
 policy-DisableAppUpdate = Forhindre oppdatering av nettleseren.

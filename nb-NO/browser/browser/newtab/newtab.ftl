@@ -244,12 +244,19 @@ newtab-privacy-message-promo-monitor-2 = Beskytt informasjonen din med gratis ov
 newtab-privacy-message-promo-monitor-2-cta = Les mer
 newtab-privacy-message-promo-signin-1 = Hold bokmerker, passord og faner kryptert på tvers av enheter med { -vendor-short-name }-kontoen din.
 newtab-privacy-message-promo-signin-1-cta = Logg inn
+newtab-privacy-message-promo-vpn-1 = Handler du på offentlig Wi-Fi? Slå på den innebygde VPN-en for ekstra beskyttelse.
 newtab-privacy-message-promo-vpn-1-cta = Åpen VPN
+newtab-privacy-message-promo-vpn-2 = Bruker du Wi-Fi på flyplassen? Beskytt surfingen din ved å slå på den innebygde VPN-en.
 newtab-privacy-message-promo-vpn-2-cta = Åpen VPN
+newtab-privacy-message-promo-vpn-3 = Slå på den innebygde VPN-en for å gjøre plasseringen din mer privat.
 newtab-privacy-message-promo-vpn-3-cta = Åpen VPN
+newtab-privacy-message-promo-private-window-1 = Prøv et privat vindu for å surfe mer privat når du bruker en delt datamaskin.
 newtab-privacy-message-promo-private-window-1-cta = Åpne privat vindu
+newtab-privacy-message-promo-relay-1 = Reserver den ekte e-postadressen din til folk du stoler på; bruk et e-postalias når du registrerer deg.
 newtab-privacy-message-promo-relay-1-cta = Få e-postalias
+newtab-privacy-message-promo-relay-2 = Beskytt innboksen din med gratis e-postalias.
 newtab-privacy-message-promo-relay-2-cta = Få e-postalias
+newtab-privacy-message-promo-relay-3 = Få 50 gratis e-postalias for å holde den ekte e-postadressen din privat.
 newtab-privacy-message-promo-relay-3-cta = Få e-postalias
 
 ## Privacy widget — celebration messages

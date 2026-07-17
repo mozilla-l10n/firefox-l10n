@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Dokončite a odomknite bonusové ikony líšok, aby ste si mohli { -brand-short-name(case: "acc") } prispôsobiť ešte viac.
+    .message = Dokončite nastavenie a odomknite bonusové ikony líšok, aby ste si mohli { -brand-short-name(case: "acc") } prispôsobiť ešte viac.
 appearance-browser-icon-set-default-button =
     .label = Nastaviť ako predvolenú
 appearance-browser-icon-pin-button =
