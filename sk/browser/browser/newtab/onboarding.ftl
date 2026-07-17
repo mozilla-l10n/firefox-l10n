@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Minimalizovať
 onboarding-checklist-remove =
     .label = Odstrániť kontrolný zoznam
+onboarding-checklist-remove-2 = Odstrániť kontrolný zoznam
 
 ## Tab Groups feature onboarding strings
 

@@ -58,6 +58,11 @@ mr1-onboarding-theme-label-dark = تاریک
 mr1-onboarding-theme-label-alpenglow = آلپنگلۉ
 onboarding-theme-primary-button-label = ٱنجوم وابی
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -143,6 +148,12 @@ mr2022-onboarding-easy-setup-set-default-checkbox-label = سامووݩ { -brand-
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = و من ٱووردن ز گشت گر پؽشی
 
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
 ## MR2022 New User Set Default screen strings
 
 mr2022-onboarding-set-default-primary-button-label = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
@@ -177,6 +188,9 @@ mr2022-onboarding-colorway-tooltip-activist2 =
 mr2022-onboarding-colorway-label-dreamer = رویا پرداز
 mr2022-onboarding-colorway-label-innovator = نۊ ٱوورد
 
+## MR2022 Multistage Mobile Download screen strings
+
+
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
@@ -195,6 +209,10 @@ mr2022-onboarding-gratitude-secondary-button-label = ناهاڌن پا گشتن
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-primary-button = و من ٱووردن و { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
 
 ## Device migration onboarding
 
@@ -241,6 +259,7 @@ onboarding-checklist-minimize =
     .label = کۊچیر کردن
 onboarding-checklist-remove =
     .label = پاک کردن نومگه واجۊری
+onboarding-checklist-remove-2 = پاک کردن نومگه واجۊری
 
 ## Tab Groups feature onboarding strings
 
@@ -270,6 +289,12 @@ fx-backup-opt-in-cancel-btn-label = وورگشتن
 
 fx-backup-confirmation-screen-close-button = بستن
 
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+
+## Restore from Backup Flow about:welcome screens
+
+
 ## Restored from Backup spotlight
 
 restored-from-backup-success-with-checklist-primary-button = زفت کردن وو رئڌن وا پؽش
@@ -284,6 +309,12 @@ onboarding-personalization-use-case-school-option = مرسه
 onboarding-personalization-use-case-work-option = کاری
 onboarding-personalization-motivation-privacy-option = هریم سیخومی وو ٱمنیت
 onboarding-personalization-motivation-other-option = دیر
+
+## Onboarding 2026 brand refresh
+
+
+## Smart window switcher callout
+
 
 ## Smart Window ToU modal
 

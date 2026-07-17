@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Minimitza
 onboarding-checklist-remove =
     .label = Elimina la llista de verificació
+onboarding-checklist-remove-2 = Elimina la llista de verificació
 
 ## Tab Groups feature onboarding strings
 
@@ -600,6 +601,9 @@ onboarding-refresh-sync-title = Aneu arreu on vulgueu. Sincronitzeu-ho tot.
 onboarding-refresh-gratitude-subtitle = Gràcies per utilitzar el { -brand-short-name }, l'únic navegador important que té el suport d'una organització sense ànim de lucre. Amb el vostre suport, treballem per fer que Internet sigui més segura i accessible per a tothom.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vostra
+
+## Smart window switcher callout
+
 
 ## Smart Window ToU modal
 

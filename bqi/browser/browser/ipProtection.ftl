@@ -32,6 +32,13 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-open-vpn = گۊشیڌن VPN
 ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = گۊشیڌن VPN
+ipprotection-summer-promo-offramp-get-subscription-button = گرؽڌن { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = رڌ کردن
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = پسند کۊنین ک VPN ن کوینا و کار اگیرین
@@ -103,6 +110,12 @@ ipprotection-connection-status-network-error-title-1 = منپیز اینترنت
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
@@ -135,6 +148,9 @@ ip-protection-bandwidth-header-1 = مئدۊدیت داده ماهانه
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

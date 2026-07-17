@@ -43,6 +43,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Кушодани «VPN»
 ipprotection-feature-introduction-button-get-started = Оғози кор
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Кушодани «VPN»
+ipprotection-summer-promo-offramp-get-subscription-button = Ба даст овардани «{ -mozilla-vpn-brand-name }»
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Нодида гузарондан
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Интихоб кунед, ки шумо «VPN»-ро дар куҷо истифода мебаред
@@ -121,6 +128,12 @@ ipprotection-open-button = Кушодани «{ -brand-product-name }»
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар
@@ -144,9 +157,15 @@ ip-protection-autostart-private-checkbox =
 ip-protection-exceptions-dialog-window =
     .title = Идоракунии танзимоти сомона
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

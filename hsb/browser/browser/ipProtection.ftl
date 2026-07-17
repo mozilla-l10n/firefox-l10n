@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN wočinić
 ipprotection-feature-introduction-button-get-started = Prěnje kroki
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN wočinić
+ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } wobstarać
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Zaćisnyć
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wubjerće, hdźež chceće VPN wužiwać

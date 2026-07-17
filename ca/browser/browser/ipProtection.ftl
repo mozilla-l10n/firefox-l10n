@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Obre la VPN
 ipprotection-feature-introduction-button-get-started = Comença
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Obre la VPN
+ipprotection-summer-promo-offramp-get-subscription-button = Obteniu { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Descarta
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Trieu on feu servir la VPN

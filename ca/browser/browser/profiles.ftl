@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+edit-profile-page-desktop-shortcut-toggle-2 =
+    .label = Crea una drecera a l'escriptori
 edit-profile-page-desktop-shortcut-header = Crea una drecera a l'escriptori
 edit-profile-page-desktop-shortcut-toggle =
     .aria-label = Crea una drecera a l'escriptori
@@ -73,6 +75,9 @@ profiles-system-theme-title =
 profiles-ocean-theme-2 = Blau marí
 profiles-gray-theme = Gris
 
+## Data collection settings changed (multi-profile)
+
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
@@ -94,3 +99,6 @@ custom-avatar-crop-back-button =
     .aria-label = Enrere
 profiles-appmenu-callout-tour-title = El perfil nou ja està a punt
 bike-avatar = Bicicleta
+
+## Tooltips for default avatar icons
+

@@ -45,6 +45,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = أزِل الـ VPN من شريط الأدوات
 ipprotection-feature-introduction-button-get-started = ابدأ
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = احصل على { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = رفض
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = اختر المكان الذي تستخدم فيه VPN

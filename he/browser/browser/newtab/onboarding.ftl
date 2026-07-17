@@ -408,6 +408,7 @@ onboarding-checklist-minimize =
     .label = מזעור
 onboarding-checklist-remove =
     .label = הסרת רשימת תיוג
+onboarding-checklist-remove-2 = הסרת רשימת תיוג
 
 ## Tab Groups feature onboarding strings
 

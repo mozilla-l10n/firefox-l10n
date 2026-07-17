@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-feature-introduction-button-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
+ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } ਲਵੋ
+ipprotection-summer-promo-offramp-dismiss-secondary-button = ਖ਼ਾਰਜ ਕਰੋ
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = ਚੁਣੋ ਕਿ ਕਿੱਥੇ ਤੁਸੀਂ VPN ਵਰਤਦੇ ਹੋ

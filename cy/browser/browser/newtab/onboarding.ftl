@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = Lleihau
 onboarding-checklist-remove =
     .label = Dileu'r rhestr wirio
+onboarding-checklist-remove-2 = Dileu'r rhestr wirio
 
 ## Tab Groups feature onboarding strings
 

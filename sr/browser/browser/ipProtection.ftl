@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Отвори ВПН
 ipprotection-feature-introduction-button-get-started = Крените
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Отвори ВПН
+ipprotection-summer-promo-offramp-get-subscription-button = Набавите { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Одбаци
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Изаберите где желите да користите ВПН

@@ -48,6 +48,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover VPN da barra de ferramentas
 ipprotection-feature-introduction-button-get-started = Começar
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Obter a { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Dispensar
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Escolha onde utiliza a VPN

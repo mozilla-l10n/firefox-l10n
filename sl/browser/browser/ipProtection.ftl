@@ -38,6 +38,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrani VPN iz orodne vrstice
 ipprotection-feature-introduction-button-get-started = Začni
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Prenesi { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Zapri
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Izberite, kje želite uporabljati VPN
@@ -126,6 +131,9 @@ ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mo
 
 ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si zaščito tudi zunaj { -brand-product-name(sklon: "rodilnik") } z { -mozilla-vpn-brand-name }.
 
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -157,9 +165,15 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

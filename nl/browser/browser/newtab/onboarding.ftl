@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = Minimaliseren
 onboarding-checklist-remove =
     .label = Checklist verwijderen
+onboarding-checklist-remove-2 = Checklist verwijderen
 
 ## Tab Groups feature onboarding strings
 

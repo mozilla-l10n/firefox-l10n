@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Thu nhỏ
 onboarding-checklist-remove =
     .label = Xóa danh sách kiểm tra
+onboarding-checklist-remove-2 = Xóa danh sách kiểm tra
 
 ## Tab Groups feature onboarding strings
 

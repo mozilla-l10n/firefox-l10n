@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Plejetigi
 onboarding-checklist-remove =
     .label = Forigi kontrolliston
+onboarding-checklist-remove-2 = Forigi kontrolliston
 
 ## Tab Groups feature onboarding strings
 

@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Қайыру
 onboarding-checklist-remove =
     .label = Тексеру тізімін өшіру
+onboarding-checklist-remove-2 = Тексеру тізімін өшіру
 
 ## Tab Groups feature onboarding strings
 

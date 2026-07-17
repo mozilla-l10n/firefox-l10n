@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Avaa VPN
 ipprotection-feature-introduction-button-get-started = Aloitetaan
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Avaa VPN
+ipprotection-summer-promo-offramp-get-subscription-button = Hanki { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Hylkää
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Valitse missä käytät VPN:ää

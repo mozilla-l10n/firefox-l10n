@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = ਘੱਟੋ-ਘੱਟ
 onboarding-checklist-remove =
     .label = ਚੈਕ-ਲਿਸਟ ਨੂੰ ਹਟਾਓ
+onboarding-checklist-remove-2 = ਚੈਕ-ਲਿਸਟ ਨੂੰ ਹਟਾਓ
 
 ## Tab Groups feature onboarding strings
 

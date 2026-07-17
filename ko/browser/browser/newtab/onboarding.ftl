@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = 최소화
 onboarding-checklist-remove =
     .label = 체크리스트 제거
+onboarding-checklist-remove-2 = 체크리스트 제거
 
 ## Tab Groups feature onboarding strings
 

@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = เปิด VPN
 ipprotection-feature-introduction-button-get-started = เริ่มต้นใช้งาน
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = เปิด VPN
+ipprotection-summer-promo-offramp-get-subscription-button = รับ { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = ปิด
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = เลือกเว็บไซต์ที่คุณต้องการใช้งาน VPN

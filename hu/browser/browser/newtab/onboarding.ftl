@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Kis méret
 onboarding-checklist-remove =
     .label = Ellenőrzőlista eltávolítása
+onboarding-checklist-remove-2 = Ellenőrzőlista eltávolítása
 
 ## Tab Groups feature onboarding strings
 

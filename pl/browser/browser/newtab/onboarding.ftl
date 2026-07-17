@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Minimalizuj
 onboarding-checklist-remove =
     .label = Usuń listę
+onboarding-checklist-remove-2 = Usuń listę
 
 ## Tab Groups feature onboarding strings
 
@@ -600,6 +601,9 @@ onboarding-refresh-sync-title = Gdziekolwiek jesteś. Synchronizuj wszystko.
 onboarding-refresh-gratitude-subtitle = Dziękujemy za używanie { -brand-short-name(case: "gen") }, jedynej dużej przeglądarki wspieranej przez organizację non-profit. Z waszą pomocą pracujemy nad tym, aby Internet był bezpieczniejszy i bardziej dostępny dla wszystkich.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stronie
+
+## Smart window switcher callout
+
 
 ## Smart Window ToU modal
 

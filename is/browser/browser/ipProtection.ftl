@@ -30,6 +30,11 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Nei takk
 ipprotection-feature-introduction-button-get-started = Hefjast handa
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Sæktu { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Afgreiða
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-button = Náði því
@@ -82,6 +87,15 @@ ipprotection-connection-status-paused-description-1 = Þú hefur notað öll { $
 ipprotection-connection-status-paused-title-2 = VPN er í biðstöðu
     .aria-label = VPN er í biðstöðu
 
+## Messages and errors
+
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Frekari upplýsingar
@@ -112,6 +126,12 @@ ip-protection-exceptions-dialog-window =
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

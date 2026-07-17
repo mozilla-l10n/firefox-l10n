@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = Minimalisearje
 onboarding-checklist-remove =
     .label = Kontrôlelist fuortsmite
+onboarding-checklist-remove-2 = Kontrôlelist fuortsmite
 
 ## Tab Groups feature onboarding strings
 
