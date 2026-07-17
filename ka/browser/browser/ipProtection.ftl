@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = დაიწყეთ
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = გახსენით VPN
 ipprotection-summer-promo-offramp-get-subscription-button = გამოიყენეთ { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = აცილება
 
