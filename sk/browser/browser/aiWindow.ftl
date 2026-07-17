@@ -273,3 +273,15 @@ aiwindow-feedback-cancel = Zrušiť
 aiwindow-feedback-reason-other = Iné
 aiwindow-feedback-preview-report = Zobraziť podrobnosti o rozhovore
 aiwindow-feedback-preview-report-with-page = Zobraziť podrobnosti o stránke a rozhovore
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-proofread = Skontroluj správu
+aiwindow-starter-planning-simplify = Zjednoduš tému
+aiwindow-starter-planning-brainstorm = Ponúkni nápady
+aiwindow-starter-planning-plan = Pomôž vytvoriť plán
+aiwindow-starter-browsing-history = Vyhľadaj karty v histórii
