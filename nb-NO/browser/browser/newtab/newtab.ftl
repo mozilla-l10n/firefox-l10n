@@ -248,12 +248,17 @@ newtab-privacy-message-promo-vpn-1-cta = Åpen VPN
 newtab-privacy-message-promo-vpn-2-cta = Åpen VPN
 newtab-privacy-message-promo-vpn-3-cta = Åpen VPN
 newtab-privacy-message-promo-private-window-1-cta = Åpne privat vindu
+newtab-privacy-message-promo-relay-1-cta = Få e-postalias
+newtab-privacy-message-promo-relay-2-cta = Få e-postalias
+newtab-privacy-message-promo-relay-3-cta = Få e-postalias
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = Vis beskyttelser
+newtab-privacy-message-milestone-month-cta = Vis beskyttelser
 newtab-privacy-message-milestone-year-cta = Vis beskyttelser
 newtab-privacy-message-milestone-total-cta = Vis beskyttelser
 newtab-privacy-message-daily-cap-cta = Vis beskyttelser
@@ -266,6 +271,8 @@ newtab-privacy-message-first-protection-cta = Vis beskyttelser
 newtab-stocks-menu-search = Søk etter aksjesymboler
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Les mer
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Aksjer
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -277,6 +284,8 @@ newtab-stocks-menu-learn-more = Les mer
 newtab-stocks-ticker-status-up = { $name }, opp { $change }, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, ingen endring, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -293,6 +302,16 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Vis { $license }-lisensen
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Innstillinger for «Dagens bilde»
+    .aria-label = Innstillinger for «Dagens bilde»
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
