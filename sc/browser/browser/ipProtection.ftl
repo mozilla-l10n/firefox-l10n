@@ -38,6 +38,10 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = No, gràtzias
 ipprotection-feature-introduction-button-get-started = Cumintza
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Iscarta
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Sèbera in ue boles impreare sa VPN
@@ -112,10 +116,28 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativad
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-autostart-private-checkbox =
     .label = In ventanas privadas
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
