@@ -180,8 +180,8 @@ newtab-privacy-menu-learn-more = Läs mer
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] Tracker blockerad idag
-       *[other] Trackers blockerade idag
+        [one] Spårare blockerad idag
+       *[other] Spårare blockerade idag
     }
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
@@ -191,7 +191,7 @@ newtab-privacy-trackers-blocked-today =
 #   $count (number) - Number of sites where trackers were blocked
 newtab-privacy-across-sites =
     { $count ->
-        [one] Över { $count } webbplats
+        [one] På { $count } webbplats
        *[other] På { $count } webbplatser
     }
 
@@ -212,15 +212,15 @@ newtab-privacy-message-info-2 = Spårningsblockering hjälper till att hindra f�
 newtab-privacy-message-info-2-cta = Visa skydd
 newtab-privacy-message-info-3 = Många webbplatser har spårare så att företag du aldrig har besökt kan följa dig online.
 newtab-privacy-message-info-3-cta = Visa skydd
-newtab-privacy-message-info-4 = Att välja { -brand-short-name } innebär att välja skydd som standard.
+newtab-privacy-message-info-4 = Att välja { -brand-short-name } innebär att man väljer skydd som standard.
 newtab-privacy-message-info-4-cta = Visa skydd
 newtab-privacy-message-info-5 = Blockerade spårare innebär att färre företag kan följa dig mellan webbplatser.
 newtab-privacy-message-info-5-cta = Visa skydd
-newtab-privacy-message-info-6 = Behåll din data hos { -brand-short-name }. Vi säljer aldrig det, men andra webbläsare kan göra det.
+newtab-privacy-message-info-6 = Behåll din data hos { -brand-short-name }. Vi säljer aldrig den, men andra webbläsare kan göra det.
 newtab-privacy-message-info-6-cta = Läs mer
 newtab-privacy-message-info-7 = Se vilka spårare { -brand-short-name } blockerade.
 newtab-privacy-message-info-7-cta = Visa skydd
-newtab-privacy-message-info-8 = Surfa med { -brand-short-name } stöder { -vendor-short-name }:s uppdrag att bygga en bättre webb.
+newtab-privacy-message-info-8 = Att surfa med { -brand-short-name } stöder { -vendor-short-name }:s uppdrag att bygga en bättre webb.
 newtab-privacy-message-info-8-cta = Läs mer
 newtab-privacy-message-info-9 = Gör { -brand-short-name } till din favoritwebbläsare för inbyggd sekretess.
 newtab-privacy-message-info-9-cta = Ange som standard
@@ -228,7 +228,7 @@ newtab-privacy-message-info-10 = Spara lösenord i { -brand-short-name } för at
 newtab-privacy-message-info-10-cta = Gå till lösenord
 newtab-privacy-message-info-11 = Ta reda på hur { -brand-short-name } hjälper till att hålla din surfning mer privat.
 newtab-privacy-message-info-11-cta = Läs mer
-newtab-privacy-message-info-12 = Blockering av trackers kan hjälpa till att spara bandbredd för begränsade dataplaner.
+newtab-privacy-message-info-12 = Blockering av spårare kan hjälpa till att spara bandbredd för begränsade dataplaner.
 newtab-privacy-message-info-12-cta = Visa skydd
 newtab-privacy-message-info-13 = { -brand-short-name } blockerar spårare, vilket frigör bandbredd för smidigare streaming.
 newtab-privacy-message-info-13-cta = Visa skydd
@@ -240,7 +240,7 @@ newtab-privacy-message-info-13-cta = Visa skydd
 
 newtab-privacy-message-promo-monitor-1 = Ta reda på om din personliga information visas i ett dataintrång.
 newtab-privacy-message-promo-monitor-1-cta = Läs mer
-newtab-privacy-message-promo-monitor-2 = Skydda din information med gratis övervakning av dataintrång, för upp till 20 e-postmeddelanden.
+newtab-privacy-message-promo-monitor-2 = Skydda din information med gratis övervakning av dataintrång, för upp till 20 e-postadresser.
 newtab-privacy-message-promo-monitor-2-cta = Läs mer
 newtab-privacy-message-promo-signin-1 = Håll bokmärken, lösenord och flikar krypterade mellan enheter med ditt { -vendor-short-name }-konto.
 newtab-privacy-message-promo-signin-1-cta = Logga in
@@ -313,6 +313,8 @@ newtab-privacy-message-first-protection-cta = Visa skydd
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Sök aktiesymbol
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Läs mer
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
@@ -365,9 +367,9 @@ newtab-picture-widget-menu-button =
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
-    .label = Välj bakgrundsbild
-    .title = Välj bakgrundsbild
-    .aria-label = Ställ in dagens bild som bakgrund
+    .label = Ställ in bakgrundsbild
+    .title = Ställ in bakgrundsbild
+    .aria-label = Ställ in dagens bild som bakgrundsbild
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Hantera bakgrundsbild
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -1518,7 +1520,7 @@ newtab-sports-widget-message-wallpapers-title = Sparka igång VM med nya bakgrun
 newtab-sports-widget-message-wallpapers-body = Ta med lite energi till din webbläsare under tävlingen.
 newtab-sports-widget-message-wallpapers-cta = Välj bakgrundsbild
 newtab-sports-widget-message-wallpapers-semifinals-title = Få en ny bakgrundsbild inför semislutspelen
-newtab-sports-widget-message-wallpapers-semifinals-body = Dubbla för världscupens största matcher.
+newtab-sports-widget-message-wallpapers-semifinals-body = Förbered dig för VM:s största matcher.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lägg till widgetar
 newtab-sports-widget-message-day-in-play-title = Håll igång dagen med { -brand-product-name } widgets
@@ -1529,8 +1531,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Hjälp oss att göra widgetar bättre
-newtab-sports-widget-message-survey-body = Det är en inblick i världscupen. Dela din feedback om upplevelsen.
-newtab-sports-widget-message-survey-widget-title = Hur var världscupwidgeten?
+newtab-sports-widget-message-survey-body = Det var en sammanfattning av VM. Dela din feedback om upplevelsen.
+newtab-sports-widget-message-survey-widget-title = Hur var VM-widgeten?
 newtab-sports-widget-message-survey-widget-body = Dela din feedback för att hjälpa oss förbättra framtida widgets. Testa sedan den nya i din lineup.
 newtab-sports-widget-message-survey-cta =
     .label = Gör undersökning
