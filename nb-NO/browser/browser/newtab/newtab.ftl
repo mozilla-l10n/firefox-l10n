@@ -221,10 +221,15 @@ newtab-privacy-message-info-6-cta = Les mer
 newtab-privacy-message-info-7 = Se hvilke sporere { -brand-short-name } blokkerte.
 newtab-privacy-message-info-7-cta = Vis beskyttelser
 newtab-privacy-message-info-8-cta = Les mer
+newtab-privacy-message-info-9 = Gjør { -brand-short-name } til den foretrukne nettleseren din med innebygd personvern.
 newtab-privacy-message-info-9-cta = Bruk som standard
+newtab-privacy-message-info-10 = Lagre passord i { -brand-short-name } for å bruke sterke og unike innlogginger overalt.
 newtab-privacy-message-info-10-cta = Gå til passord
+newtab-privacy-message-info-11 = Finn ut hvordan { -brand-short-name } bidrar til å gjøre surfingen din mer privat.
 newtab-privacy-message-info-11-cta = Les mer
+newtab-privacy-message-info-12 = Blokkering av sporere kan bidra til å spare båndbredde hvis du har et begrenset dataabonnement.
 newtab-privacy-message-info-12-cta = Vis beskyttelser
+newtab-privacy-message-info-13 = { -brand-short-name } blokkerer sporere, slik at du får mer båndbredde til jevnere strømming.
 newtab-privacy-message-info-13-cta = Vis beskyttelser
 
 ## Privacy widget — promotional messages
