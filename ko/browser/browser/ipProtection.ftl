@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = 시작하기
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN 열기
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } 받기
 ipprotection-summer-promo-offramp-dismiss-secondary-button = 닫기
 
