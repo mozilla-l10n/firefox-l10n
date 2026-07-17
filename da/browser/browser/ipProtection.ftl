@@ -53,6 +53,7 @@ ipprotection-feature-introduction-button-get-started = Kom i gang
 ## Unlimited bandwidth summer promotion offramp callouts
 
 ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Afvis
 
 ## Site settings callout
 
