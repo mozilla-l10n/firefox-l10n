@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Bruk en lokal maskin
 experimental-features-tab-notes =
     .label = Fanenotater
 experimental-features-tab-notes-description = Fanenotater er en eksperimentell funksjon som lar deg legge til klistrelapper på nettleserfanene dine. Noter kontekst, påminnelser eller neste steg slik at du kan komme tilbake og huske hvorfor du åpnet den. Vi vil gjerne ha tilbakemeldingen din mens vi fortsetter å forbedre denne funksjonen. <a data-l10n-name="connect">Del tilbakemelding</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Forenklet fanemeny
+experimental-features-tab-context-menu-description = Se en enklere sprettoppmeny når du høyreklikker på en fane. Den er utformet slik at vanlige handlinger blir enklere å finne. <a data-l10n-name="connect">Del tilbakemeldinger</a>
