@@ -191,6 +191,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Completata
 migration-safari-password-import-header = Importazione password da Safari
+migration-safari-password-import-post-sequoia-step1 = Apri l’<a data-l10n-name="macos-passwords-app">app Password</a> sul Mac
+migration-safari-password-import-post-sequoia-step2 = Dalla barra dei menu nella parte superiore dello schermo, scegli File > Esporta tutte le password su un file…
+migration-safari-password-import-post-sequoia-step3 = Salva il file
+migration-safari-password-import-post-sequoia-step4 = Seleziona il file che hai salvato
 migration-safari-password-import-steps-header = Per importare le password di Safari:
 migration-safari-password-import-step1 = In Safari, apri il menu “Safari”, poi seleziona Preferenze > Password
 migration-safari-password-import-step2 = Fai clic sul pulsante <img data-l10n-name="safari-icon-3dots"/> e seleziona “Esporta tutte le password…”
@@ -203,6 +207,7 @@ migration-chrome-windows-password-import-step2 = Seleziona “Impostazioni” da
 migration-chrome-windows-password-import-step3 = Scegli “Scarica file” e salvalo sul tuo dispositivo.
 migration-chrome-windows-password-import-step4 = Ritorna qui e utilizza “Seleziona file” per completare l’importazione.
 migration-manual-password-import-skip-button = Salta
+migration-manual-password-import-cancel-button = Annulla
 migration-manual-password-import-select-button = Seleziona file
 migration-safari-password-import-skip-button = Salta
 migration-safari-password-import-select-button = Seleziona file
