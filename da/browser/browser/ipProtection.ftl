@@ -50,6 +50,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra værktøjslinjen
 ipprotection-feature-introduction-button-get-started = Kom i gang
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vælg, hvor du vil bruge VPN
