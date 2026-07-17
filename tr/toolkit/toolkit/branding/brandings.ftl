@@ -59,8 +59,8 @@
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
     { $form ->
-        [upper-singular] Akıllı pencere
-        [upper-plural] Akıllı pencere
-        [lower-singular] akıllı pencere
-       *[lower-plural] akıllı pencere
+        [uppercase-singular] Akıllı pencere
+        [uppercase-plural] Akıllı pencere
+        [lowercase-singular] akıllı pencere
+       *[lowercase-plural] akıllı pencere
     }
