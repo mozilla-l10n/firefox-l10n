@@ -90,7 +90,7 @@ mailto-handler-picker-window =
 mailto-handler-picker-subtitle = Välj den app du vill använda för e-postlänkar. Du kan ändra detta senare i inställningarna.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
-mailto-handler-picker-always-ask = Fråga alltid när jag klickar på en mejllänk
+mailto-handler-picker-always-ask = Fråga alltid när jag klickar på en e-postlänk
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Ange som standard
@@ -98,4 +98,4 @@ mailto-handler-picker-set-default =
 # Dismisses the picker without choosing an email app for now.
 mailto-handler-picker-not-now =
     .label = Inte nu
-    .accesskey = I
+    .accesskey = n

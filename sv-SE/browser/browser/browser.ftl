@@ -1120,7 +1120,7 @@ urlbar-searchmode-tabs3 = Flikar
 urlbar-searchmode-history3 = Historik
     .accesskey = H
 urlbar-searchmode-actions3 = Åtgärder
-    .accesskey = Å
+    .accesskey = t
 urlbar-searchmode-bookmarks2 = Bokmärken
 urlbar-searchmode-tabs2 = Flikar
 urlbar-searchmode-history2 = Historik
@@ -1143,7 +1143,7 @@ urlbar-searchmode-popup-header = Sök med:
 urlbar-searchmode-popup-search-settings = Sökinställningar
     .accesskey = S
 urlbar-searchmode-popup-settings = Inställningar
-    .accesskey = I
+    .accesskey = n
 urlbar-searchmode-popup-search-settings-panelitem = Sökinställningar
 urlbar-searchmode-popup-settings-panelitem = Inställningar
 

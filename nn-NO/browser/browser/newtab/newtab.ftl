@@ -308,7 +308,7 @@ newtab-privacy-message-streak =
     }
 newtab-privacy-message-streak-cta = Vis vern
 # Shown the first time the tracker count goes above zero.
-newtab-privacy-message-first-protection = Surf vidare, { -brand-short-name } blokkerer framleis sporingsverktøy.
+newtab-privacy-message-first-protection = Surf vidare, { -brand-short-name } blokkerer framleis sporarar.
 newtab-privacy-message-first-protection-cta = Vis vern
 
 ## Strings for the Stocks widget
@@ -491,7 +491,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Rediger
-newtab-menu-add-topsite = Legg til ny hurtigtast
+newtab-menu-add-topsite = Legg til ny snarveg
 newtab-menu-open-new-window = Opne i nytt vindauge
 newtab-menu-open-new-private-window = Opne i eit nytt privat vindauge
 newtab-menu-dismiss = Avvis

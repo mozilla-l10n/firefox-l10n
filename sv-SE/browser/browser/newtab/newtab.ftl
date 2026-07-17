@@ -252,11 +252,11 @@ newtab-privacy-message-promo-vpn-3 = Aktivera inbyggt VPN för att hålla din pl
 newtab-privacy-message-promo-vpn-3-cta = Öppna VPN
 newtab-privacy-message-promo-private-window-1 = Prova ett privat fönster för att surfa mer privat när du använder en delad dator.
 newtab-privacy-message-promo-private-window-1-cta = Öppna privat fönster
-newtab-privacy-message-promo-relay-1 = Spara din riktiga e-post till personer du litar på; använda en e-postalias för registrering.
+newtab-privacy-message-promo-relay-1 = Spara din riktiga e-postadress för personer du litar på; använd ett e-postalias för registreringar.
 newtab-privacy-message-promo-relay-1-cta = Skaffa alias
 newtab-privacy-message-promo-relay-2 = Skydda din inkorg från skräppost med gratis e-postalias.
 newtab-privacy-message-promo-relay-2-cta = Skaffa alias
-newtab-privacy-message-promo-relay-3 = Få 50 gratis e-postalias för att hålla din riktiga e-post privat.
+newtab-privacy-message-promo-relay-3 = Få 50 gratis e-postalias för att hålla din riktiga e-postadress privat.
 newtab-privacy-message-promo-relay-3-cta = Skaffa alias
 
 ## Privacy widget — celebration messages
@@ -268,16 +268,16 @@ newtab-privacy-message-promo-relay-3-cta = Skaffa alias
 #   $count (number) - Trackers blocked this week
 newtab-privacy-message-milestone-week =
     { $count ->
-        [one] { $count } spårare blockerade den här veckan. Se vad { -brand-short-name } håller i undan
-       *[other] { $count } spårare blockerade den här veckan. Se vad { -brand-short-name } håller i undan
+        [one] { $count } spårare blockerad den här veckan. Se vad { -brand-short-name } skyddar dig ifrån
+       *[other] { $count } spårare blockerade den här veckan. Se vad { -brand-short-name }skyddar dig ifrån
     }
 newtab-privacy-message-milestone-week-cta = Visa skydd
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
     { $count ->
-        [one] { $count } spårare blockerad denna månad. Ett litet steg för integriteten. Ett stort steg för sinnesfrid.
-       *[other] { $count } spårare blockerade denna månad. Ett litet steg för integriteten. Ett stort steg för sinnesfrid.
+        [one] { $count } spårare blockerad denna månad. Ett litet steg för integriteten. Ett stort steg för sinnesfriden.
+       *[other] { $count } spårare blockerade denna månad. Ett litet steg för integriteten. Ett stort steg för sinnesfriden.
     }
 newtab-privacy-message-milestone-month-cta = Visa skydd
 # Variables:
