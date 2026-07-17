@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = Miniměrowaś
 onboarding-checklist-remove =
     .label = Kontrolnu lisćinu wótwónoźeś
+onboarding-checklist-remove-2 = Kontrolnu lisćinu wótwónoźeś
 
 ## Tab Groups feature onboarding strings
 
