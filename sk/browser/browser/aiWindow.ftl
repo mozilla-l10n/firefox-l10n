@@ -50,8 +50,14 @@ ai-window-toggleview-status-label-inactive = Klasické okno
 
 ## Input CTA
 
+aiwindow-input-cta-submit-label-chat = Opýtať sa
+aiwindow-input-cta-submit-label-navigate = Prejsť
+aiwindow-input-cta-submit-label-search = Hľadať
+aiwindow-input-cta-submit-label-stop = Zastaviť
 # Text announced to screen readers when response generation starts.
 aiwindow-generation-started-announcement = Generovanie odpovede sa začalo
+aiwindow-input-cta-menu-label-chat = Opýtať sa
+aiwindow-input-cta-menu-label-navigate = Prejsť na stránku
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Hľadať pomocou { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Hľadať pomocou…
@@ -64,29 +70,58 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Opýtajte sa, vyhľadajte alebo zadajte URL adresu
+smartbar-placeholder-hint-1 = Nedávne karty označíte použitím @…
 smartbar-placeholder-hint-2 = Opýtajte sa čokoľvek…
 smartbar-placeholder-hint-3 = Zadajte webovú adresu…
 smartbar-placeholder-hint-4 = Vyhľadať na webe…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Označiť kartu alebo stránku
 smartbar-mentions-list-no-results-label = Neboli nájdené žiadne výsledky
 smartbar-mentions-list-recent-tabs-label = Nedávne karty
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Pridať kartu alebo stránku
+    .tooltiptext = Pridať kartu alebo stránku
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Označiť kartu alebo stránku
+aiwindow-website-chip-history-deleted = História bola vymazaná
+aiwindow-website-chip-remove-button =
+    .aria-label = Odstrániť
+
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Víta vás { -smart-window-brand-name(case: "acc") }
+aiwindow-firstrun-model-title = Čo je pre vás dôležité?
+aiwindow-firstrun-model-title-v2 = Na začiatok si vyberte model
+aiwindow-firstrun-model-subtitle = Vyberte si model, ktorý chcete používať v { -smart-window-brand-name(case: "loc", plural-form: "true") }. Prepnúť ho môžete kedykoľvek.
+aiwindow-firstrun-model-subtitle-v2 = Každý model vám môže pomôcť zhrnúť, porovnať a preskúmať všetky vaše karty. Prepínať medzi nimi môžete kedykoľvek.
 aiwindow-firstrun-model-fast-label = Rýchly
+aiwindow-firstrun-model-fast-body = Rýchle odpovede
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rýchly: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Najlepší pre rýchle odpovede, keď sa potrebujete rýchlo pohnúť z miesta
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Model { $model } od { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibilný
 aiwindow-firstrun-model-allpurpose-body = Vhodný na väčšinu úkonov
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexibilný: { $shortName }
+aiwindow-firstrun-model-flexible-body = Pripravený na rôzne úlohy
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Odporúčaný
 aiwindow-firstrun-model-personal-label = Osobný
+aiwindow-firstrun-model-personal-body = Najprispôsobenejšie odpovede
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Osobný: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Vytvorený na personalizovanú pomoc vo všetkých jazykoch
 aiwindow-firstrun-button = Poďme na to
 aiwindow-firstrun-back-button = Naspäť
 aiwindow-firstrun-next-button = Ďalej
@@ -101,6 +136,7 @@ aiwindow-input-model-select-button-label-custom = Vlastný
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Použite svoj vlastný LLM
 
 ## Close Sidebar Button
 
@@ -191,6 +227,9 @@ smart-window-default-promo-additional-button = Teraz nie
 
 aiwindow-feedback-modal-title = Zdieľať spätnú väzbu
 aiwindow-feedback-what-worked-well = Čo fungovalo dobre? Žiadne osobné údaje, prosím.
+aiwindow-feedback-choose-any = Zvoľte všetky položky, ktoré platia
+aiwindow-feedback-add-details = Ak chcete, doplňte podrobnosti. Žiadne osobné údaje, prosím.
+aiwindow-feedback-disclaimer = Odoslaním zdieľate svoju spätnú väzbu a tento rozhovor, aby ste pomohli { -brand-shorter-name(case: "dat") } vylepšiť { -smart-window-brand-name(case: "gen", plural-form: "true") }. Vaše ostatné rozhovory zostanú súkromné. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 aiwindow-feedback-submit = Odoslať
 aiwindow-feedback-cancel = Zrušiť
 aiwindow-feedback-reason-other = Iné
