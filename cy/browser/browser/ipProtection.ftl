@@ -57,6 +57,7 @@ ipprotection-feature-introduction-button-get-started = Cychwyn arni
 ## Unlimited bandwidth summer promotion offramp callouts
 
 ipprotection-summer-promo-offramp-get-subscription-button = Cael { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Cau
 
 ## Site settings callout
 
