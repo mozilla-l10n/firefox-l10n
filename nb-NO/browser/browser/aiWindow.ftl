@@ -100,6 +100,7 @@ aiwindow-firstrun-title = Velkommen til { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Hva er viktig for deg?
 aiwindow-firstrun-model-title-v2 = Velg en modell for å starte
 aiwindow-firstrun-model-subtitle = Velg en modell for { -smart-window-brand-name }. Du kan bytte når som helst.
+aiwindow-firstrun-model-subtitle-v2 = Hver modell kan hjelpe deg med å oppsummere, sammenligne og utforske på tvers av fanene dine. Bytt når som helst.
 aiwindow-firstrun-model-fast-label = Hurtig
 aiwindow-firstrun-model-fast-body = Raske svar
 # $shortName (string) - The short name of the model version
@@ -110,6 +111,8 @@ aiwindow-firstrun-model-fast-label-v2 = Hurtig: { $shortName }
 aiwindow-firstrun-model-chip-subtitle = Modell { $model } fra { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Passer godt til de fleste behov
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Anbefalt
 aiwindow-firstrun-model-personal-label = Personlig
 aiwindow-firstrun-model-personal-body = Mest tilpassede svar
 aiwindow-firstrun-button = La oss starte!
