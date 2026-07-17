@@ -26,9 +26,6 @@ smartwindow-document-title = Új lap
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Ablaktípus
-    .tooltiptext = Váltás az Okos és a Klasszikus ablakok között.
 ai-window-toggleview-switch-classic =
     .label = Klasszikus ablak
     .value = Klasszikus ablak

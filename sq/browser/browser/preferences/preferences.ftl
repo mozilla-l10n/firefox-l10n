@@ -827,11 +827,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Faqen hyrëse dhe dritare të reja
-home-homepage-new-windows =
-    .label = Dritare të reja
 home-newtabs-mode-label = Skeda të reja
-home-homepage-new-tabs =
-    .label = Skeda të reja
 home-restore-defaults =
     .label = Rikthe Parazgjedhjet
     .accesskey = R
@@ -846,9 +842,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Administroni zgjerim
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Zgjidhni një sajt specifik
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -864,59 +857,23 @@ choose-bookmark =
     .label = Përdorni Faqerojtës…
     .accesskey = F
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Faqe hyrëse
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Faqe Hyrëse e Përshtatur
 home-custom-homepage-subpage =
     .heading = Faqe Hyrëse e Përshtatur
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adresë(a) sajti
-home-custom-homepage-address =
-    .placeholder = Jepni adresë
-home-custom-homepage-address-button =
-    .label = Shtoni adresë
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Ende pa sajte të shtuar.
-home-custom-homepage-delete-address-button =
-    .aria-label = Fshije adresën
-    .title = Fshije adresën
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Zëvendësoje me
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Faqe aktualisht të hapura
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Faqerojtës…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Lëndë { -firefox-home-brand-name }
 home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën “{ -firefox-home-brand-name }” tuaj.
-home-prefs-firefox-logo-header =
-    .label = Stemë e { -brand-short-name }-it
 home-prefs-search-header =
     .label = Kërkim në Web
-home-prefs-search-header2 =
-    .label = Kërko
 home-prefs-shortcuts-header =
     .label = Shkurtore
 home-prefs-shortcuts-description = Sajte që ruani ose vizitoni
-home-prefs-shortcuts-select =
-    .aria-label = Shkurtore
 home-prefs-shortcuts-by-option-sponsored =
     .label = Shkurtore të sponsorizuara
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -929,9 +886,6 @@ home-prefs-recommended-by-description-generic = Lëndë e veçantë, nën kujdes
 home-prefs-stories-header =
     .label = Histori
 home-prefs-stories-description = Histori të personalizuara, bazuar në veprimtarinë tuaj
-home-prefs-stories-header2 =
-    .label = Histori
-    .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
 
 ##
 
@@ -951,8 +905,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Veprimtari së fundi
 home-prefs-recent-activity-description = Një përzgjedhje sajtesh dhe lënde së fundi
-home-prefs-recent-activity-select =
-    .aria-label = Veprimtari së fundi
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -964,32 +916,13 @@ home-prefs-weather-header =
     .label = Moti
 home-prefs-weather-description = Parashikimi për sot me një vështrim
 home-prefs-weather-learn-more-link = Mësoni më tepër
-home-prefs-widgets-header =
-    .label = Widget-e
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Lista
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Kohëmatës
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Përkrahni { -brand-product-name }
 home-prefs-mission-message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 home-prefs-mission-message-learn-more-link = Mësoni se si
-home-prefs-mission-message2 =
-    .message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë.
 home-prefs-manage-topics-link = Administroni subjekte
-home-prefs-manage-topics-link2 =
-    .label = Administroni subjekte
 home-prefs-choose-wallpaper-link = Zgjidhni një sfond
-home-prefs-choose-wallpaper-link2 =
-    .label = Zgjidhni një sfond
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Zgjerim ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1127,8 +1060,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Mbrapsht te Rregullimet
 containers-header = Skeda Kontejneri
-containers-section-header =
-    .heading = Skeda Kontejneri
 containers-add-button =
     .label = Shtoni Kontejner të Ri
     .accesskey = S
@@ -1576,13 +1507,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = S’u shtuan adresa
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

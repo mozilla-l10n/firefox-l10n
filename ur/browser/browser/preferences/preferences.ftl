@@ -394,8 +394,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ابتدائی صفحہ اور نیا ونڈوں
 home-newtabs-mode-label = نئے ٹیبس
-home-homepage-new-tabs =
-    .label = نئے ٹیبس
 home-restore-defaults =
     .label = طےشدہ بحال کریں
     .accesskey = R
@@ -427,8 +425,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = تیز راہ
 home-prefs-shortcuts-description = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
-home-prefs-shortcuts-select =
-    .aria-label = تیز راہ
 
 ## Home Section - Firefox Home Content Customization
 
@@ -450,8 +446,6 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات { -pocket-brand-name } میں محفوظ کر دیئے گئے ہیں
 home-prefs-recent-activity-header =
     .label = حالیہ سرگرمی
-home-prefs-recent-activity-select =
-    .aria-label = حالیہ سرگرمی
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -522,8 +516,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = حامل ٹیبز
-containers-section-header =
-    .heading = حامل ٹیبز
 containers-add-button =
     .label = نئے حامل کا اضافہ کریں
     .accesskey = A

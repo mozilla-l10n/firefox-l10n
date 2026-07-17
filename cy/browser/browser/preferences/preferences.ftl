@@ -969,11 +969,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
-home-homepage-new-windows =
-    .label = Ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd
-home-homepage-new-tabs =
-    .label = Tabiau newydd
 home-restore-defaults =
     .label = Adfer y Rhagosodiadau
     .accesskey = A
@@ -988,9 +984,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Rheoli estyniad
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Dewis safle penodol
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -1006,59 +999,23 @@ choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Tudalen Cartref
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Tudalen Cartref Cyfaddas
 home-custom-homepage-subpage =
     .heading = Tudalen Cartref Cyfaddas
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Cyfeiriad(au) gwefan
-home-custom-homepage-address =
-    .placeholder = Rhowch gyfeiriad
-home-custom-homepage-address-button =
-    .label = Ychwanegu cyfeiriad
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Dim gwefannau wedi'u hychwanegu eto.
-home-custom-homepage-delete-address-button =
-    .aria-label = Dileu cyfeiriad
-    .title = Dileu cyfeiriad
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Amnewid gyda
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Tudalennau ar agor nawr
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Nodau Tudalen…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cynnwys { -firefox-home-brand-name }
 home-prefs-content-description2 = Dewiswch pa gynnwys rydych chi eisiau ar eich sgrin { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Chwilio'r We
-home-prefs-search-header2 =
-    .label = Chwilio
 home-prefs-shortcuts-header =
     .label = Llwybrau Byr
 home-prefs-shortcuts-description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
-home-prefs-shortcuts-select =
-    .aria-label = Llwybrau Byr
 home-prefs-shortcuts-by-option-sponsored =
     .label = Llwybrau byr wedi'u noddi
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1071,9 +1028,6 @@ home-prefs-recommended-by-description-generic = Cynnwys eithriadol wedi'i gasglu
 home-prefs-stories-header =
     .label = Straeon
 home-prefs-stories-description = Straeon personol ar sail eich gweithgaredd
-home-prefs-stories-header2 =
-    .label = Straeon
-    .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
 
 ##
 
@@ -1093,8 +1047,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Gweithgaredd diweddar
 home-prefs-recent-activity-description = Detholiad o wefannau a chynnwys diweddar
-home-prefs-recent-activity-select =
-    .aria-label = Gweithgaredd diweddar
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1106,43 +1058,13 @@ home-prefs-weather-header =
     .label = Y Tywydd
 home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Rhagor
-home-prefs-widgets-header =
-    .label = Teclynnau
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Rhestrau
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Amserydd
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Chwaraeon
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Cloc
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Cefnogi { -brand-product-name }
 home-prefs-mission-message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-mission-message-learn-more-link = Dyma sut
-home-prefs-mission-message2 =
-    .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link = Rheoli pynciau
-home-prefs-manage-topics-link2 =
-    .label = Rheoli pynciau
 home-prefs-choose-wallpaper-link = Dewis Papur Wal
-home-prefs-choose-wallpaper-link2 =
-    .label = Dewis Papur Wal
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = I ddefnyddio'r nodweddion hyn, gosodwch dabiau newydd neu ffenestri newydd i { -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Estyniad ( { $extension } )
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1288,8 +1210,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Nôl i'r Gosodiadau
 containers-header = Tabiau Cynwysyddion
-containers-section-header =
-    .heading = Tabiau Cynwysyddion
 containers-add-button =
     .label = Ychwanegu Cynhwysydd Newydd
     .accesskey = Y
@@ -1787,13 +1707,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Dim cyfeiriadau wedi'u hychwanegu
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Cyfrineiriau ac awtolenwi
     .title = Cyfrineiriau ac awtolenwi
 preferences-passwords-autofill-header =

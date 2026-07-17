@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Қалай қалпына келтіруге
 # application menu.
 backup-file-moz-browser-restore-step-1 = Қолданба ☰ мәзірін ашып, Баптаулар > Синхрондау бөліміне өтіңіз
 backup-file-moz-browser-restore-step-2-1 = «Деректерді қалпына келтіру» басып, осы файлды таңдаңыз
-backup-file-moz-browser-restore-step-2 = "Сақтық көшірме файлын таңдау" басып, осы файлды таңдаңыз
 backup-file-moz-browser-restore-step-3 = Сұралған кезде { -brand-short-name } қайта іске қосыңыз
 backup-file-other-browser-restore-step-1 = { -brand-short-name } жүктеп алып, орнатыңыз
 backup-file-download-moz-browser-button = Жүктеп алу
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Жүктеп алу
 # application menu.
 backup-file-other-browser-restore-step-2 = { -brand-short-name } іске қосып, қолданба мәзірін ☰ ашып, Баптаулар > Синхрондау бөліміне өтіңіз
 backup-file-other-browser-restore-step-3-1 = «Деректерді қалпына келтіру» басып, осы файлды таңдаңыз
-backup-file-other-browser-restore-step-3 = "Сақтық көшірме файлын таңдау" басып, осы файлды таңдаңыз
 backup-file-other-browser-restore-step-4 = Сұралған кезде { -brand-short-name } қайта іске қосыңыз
 
 ## These strings are used in the about:restore and about:welcome pages

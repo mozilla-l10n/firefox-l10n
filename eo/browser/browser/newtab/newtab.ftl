@@ -727,8 +727,6 @@ newtab-custom-widget-lists-toggle =
     .label = Listoj
 newtab-custom-widget-timer-toggle =
     .label = Tempumilo
-newtab-custom-widget-sports-toggle =
-    .label = Piedpilka mondpokalo
 newtab-custom-widget-clock-toggle =
     .label = Horloĝo
 newtab-custom-widget-sports-toggle2 =
@@ -1303,8 +1301,6 @@ newtab-sports-widget-menu-learn-more = Pli da informo
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Akompanu la piedpilkan mondpokalon
 newtab-sports-widget-get-updates = Ricevu informojn pri ludoj kaj pli.
-newtab-sports-widget-view-schedule =
-    .label = Montri kalendaron
 newtab-sports-widget-follow-teams =
     .label = Sekvi teamojn
 newtab-sports-widget-view-matches =

@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Cum să restabilești:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Deschide meniul aplicației ☰ și mergi în Setări > Sincronizare
 backup-file-moz-browser-restore-step-2-1 = Dă clic pe „Restaurează datele” și selectează acest fișier
-backup-file-moz-browser-restore-step-2 = Dă clic pe „Alege un fișier de backup” și selectează acest fișier
 backup-file-moz-browser-restore-step-3 = Repornește { -brand-short-name } când vei fi întrebat(ă)
 backup-file-other-browser-restore-step-1 = Descarcă și instalează { -brand-short-name }
 backup-file-download-moz-browser-button = Descarcă
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Descarcă
 # application menu.
 backup-file-other-browser-restore-step-2 = Pornește { -brand-short-name }, deschide meniul aplicației ☰ și mergi în Setări > Sincronizare
 backup-file-other-browser-restore-step-3-1 = Dă clic pe „Restaurează datele” și selectează acest fișier
-backup-file-other-browser-restore-step-3 = Dă clic pe „Alege un fișier de backup” și selectează acest fișier
 backup-file-other-browser-restore-step-4 = Repornește { -brand-short-name } când vei fi întrebat(ă)
 
 ## These strings are used in the about:restore and about:welcome pages

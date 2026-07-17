@@ -385,8 +385,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = پەڕەی سەرەکی و بازدەرەکان
 home-newtabs-mode-label = بازدەری نوێ
-home-homepage-new-tabs =
-    .label = بازدەری نوێ
 home-restore-defaults =
     .label = بنەرەتی بهێنەوە
     .accesskey = R
@@ -507,8 +505,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = بازدەری لەخۆگر
-containers-section-header =
-    .heading = بازدەری لەخۆگر
 containers-add-button =
     .label = لەخۆگرێکی نوێ زیاد بکە
     .accesskey = A

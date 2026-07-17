@@ -960,11 +960,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Домівка та нові вікна
-home-homepage-new-windows =
-    .label = Нові вікна
 home-newtabs-mode-label = Нові вкладки
-home-homepage-new-tabs =
-    .label = Нові вкладки
 home-restore-defaults =
     .label = Відновити типові
     .accesskey = т
@@ -979,9 +975,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Керувати розширенням
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Вибрати певний сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -997,59 +990,23 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Домівка
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Власна домівка
 home-custom-homepage-subpage =
     .heading = Власна домівка
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Адреса вебсайту
-home-custom-homepage-address =
-    .placeholder = Введіть адресу
-home-custom-homepage-address-button =
-    .label = Додати адресу
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Ще не додано жодного вебсайту.
-home-custom-homepage-delete-address-button =
-    .title = Видалити адресу
-    .aria-label = Видалити адресу
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Замінити на
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Поточні відкриті сторінки
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Закладки…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
 home-prefs-content-description2 = Оберіть вміст, який ви хочете бачити на своїй { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
-home-prefs-firefox-logo-header =
-    .label = Логотип { -brand-short-name }
 home-prefs-search-header =
     .label = Пошук в Інтернеті
-home-prefs-search-header2 =
-    .label = Пошук
 home-prefs-shortcuts-header =
     .label = Ярлики
 home-prefs-shortcuts-description = Сайти, які ви зберігаєте чи відвідуєте
-home-prefs-shortcuts-select =
-    .aria-label = Ярлики
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсоровані ярлики
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1062,9 +1019,6 @@ home-prefs-recommended-by-description-generic = Виняткові матері�
 home-prefs-stories-header =
     .label = Історії
 home-prefs-stories-description = Персоналізовані матеріали на основі вашої активності
-home-prefs-stories-header2 =
-    .label = Історії
-    .description = Добірні матеріали від { -brand-product-name }
 
 ##
 
@@ -1084,8 +1038,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Нещодавня активність
 home-prefs-recent-activity-description = Добірка недавніх сайтів та вмісту
-home-prefs-recent-activity-select =
-    .aria-label = Нещодавня активність
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1097,43 +1049,13 @@ home-prefs-weather-header =
     .label = Погода
 home-prefs-weather-description = Точний прогноз погоди на сьогодні
 home-prefs-weather-learn-more-link = Докладніше
-home-prefs-widgets-header =
-    .label = Віджети
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Списки
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Таймер
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Спорт
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Годинник
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Підтримка { -brand-product-name }
 home-prefs-mission-message = Наші спонсори підтримують нашу місію зі створення кращого інтернету
 home-prefs-mission-message-learn-more-link = Дізнайтеся як
-home-prefs-mission-message2 =
-    .message = Наші спонсори підтримують нашу місію зі створення кращого інтернету.
 home-prefs-manage-topics-link = Керувати темами
-home-prefs-manage-topics-link2 =
-    .label = Керувати темами
 home-prefs-choose-wallpaper-link = Виберіть шпалеру
-home-prefs-choose-wallpaper-link2 =
-    .label = Виберіть шпалеру
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Щоб користуватися цими функціями, встановіть { -firefox-home-brand-name(case: "acc", capitalization: "lower") } для нових вкладок чи вікон.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Розширення ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1276,8 +1198,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Назад до налаштувань
 containers-header = Контейнери вкладок
-containers-section-header =
-    .heading = Контейнери вкладок
 containers-add-button =
     .label = Додати новий контейнер
     .accesskey = к
@@ -1775,13 +1695,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Адрес не додано
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Паролі й автозаповнення
     .title = Паролі й автозаповнення
 preferences-passwords-autofill-header =

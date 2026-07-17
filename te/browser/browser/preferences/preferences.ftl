@@ -427,8 +427,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ముంగిలి పేజీ, కొత్త కిటికీలు
 home-newtabs-mode-label = కొత్త ట్యాబు
-home-homepage-new-tabs =
-    .label = కొత్త ట్యాబు
 home-restore-defaults =
     .label = అప్రమేయాలను పునరుద్ధరించు
     .accesskey = R
@@ -455,11 +453,6 @@ choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = ముంగిలిపేజీ
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -485,8 +478,6 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }లో భద్రపరచిన పేజీలు
 home-prefs-recent-activity-header =
     .label = ఇటీవలి కార్యకలాపం
-home-prefs-recent-activity-select =
-    .aria-label = ఇటీవలి కార్యకలాపం
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -564,8 +555,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = తిరిగి అమరికలకు
 containers-header = కంటైనర్ ట్యాబులు
-containers-section-header =
-    .heading = కంటైనర్ ట్యాబులు
 containers-add-button =
     .label = కొత్త కంటెయినరు చేర్చు
     .accesskey = A
@@ -804,13 +793,6 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ఈ చిరునామా తొలగించాలా?
 addresses-delete-address-prompt-confirm-button = తొలగించు
 addresses-delete-address-prompt-cancel-button = రద్దుచేయి
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 
 ## Privacy Section - History
 

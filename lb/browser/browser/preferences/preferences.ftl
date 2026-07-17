@@ -229,8 +229,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Startsäit an nei Fënsteren
 home-newtabs-mode-label = Nei Tabs
-home-homepage-new-tabs =
-    .label = Nei Tabs
 home-restore-defaults =
     .label = Op de Standard zrécksetzen
     .accesskey = R

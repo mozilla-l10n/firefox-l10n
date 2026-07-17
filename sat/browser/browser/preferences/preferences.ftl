@@ -566,8 +566,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱟᱨ ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ
 home-newtabs-mode-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
-home-homepage-new-tabs =
-    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
 home-restore-defaults =
     .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
     .accesskey = R
@@ -603,8 +601,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 home-prefs-shortcuts-description = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
-home-prefs-shortcuts-select =
-    .aria-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
 
@@ -632,8 +628,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 home-prefs-recent-activity-description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
-home-prefs-recent-activity-select =
-    .aria-label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -641,11 +635,6 @@ home-prefs-recent-activity-select =
 home-prefs-snippets-header =
     .label = ᱵᱷᱟᱜᱽ
 home-prefs-snippets-description-new = { -vendor-short-name } ᱟᱨ { -brand-product-name } ᱠᱷᱚᱱ ᱴᱤᱯᱥ ᱟᱨ ᱠᱷᱚᱵᱚᱨ
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -728,8 +717,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = ᱥᱟᱡᱟᱣ ᱛᱮ ᱨᱤᱣᱟᱹᱲ
 containers-header = ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
-containers-section-header =
-    .heading = ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
 containers-add-button =
     .label = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
     .accesskey = A

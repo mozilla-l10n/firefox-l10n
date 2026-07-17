@@ -28,48 +28,6 @@ ipprotection-feature-introduction-button-open-vpn = Ldi VPN
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ldi VPN
 
-## Site settings callout
-
-
 ## Location selection callout
 
 ipprotection-location-selection-callout-primary-button = Ɛreḍ-it
-
-## Panel
-
-
-## Status card
-
-
-## Location controls
-
-
-## VPN paused state
-
-
-## Messages and errors
-
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
-## IP Protection Settings
-
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

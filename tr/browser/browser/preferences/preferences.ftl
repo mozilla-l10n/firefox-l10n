@@ -954,11 +954,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Giriş sayfası ve yeni pencereler
-home-homepage-new-windows =
-    .label = Yeni pencereler
 home-newtabs-mode-label = Yeni sekmeler
-home-homepage-new-tabs =
-    .label = Yeni sekmeler
 home-restore-defaults =
     .label = Varsayılanları geri yükle
     .accesskey = R
@@ -973,9 +969,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Uzantıyı yönet
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Belirli bir site seç
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -991,59 +984,23 @@ choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Giriş sayfası
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Özel giriş sayfası
 home-custom-homepage-subpage =
     .heading = Özel giriş sayfası
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Web sitesi adres(ler)i
-home-custom-homepage-address =
-    .placeholder = Adres yazın
-home-custom-homepage-address-button =
-    .label = Adres ekle
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Henüz hiç site eklenmedi.
-home-custom-homepage-delete-address-button =
-    .aria-label = Adresi sil
-    .title = Adresi sil
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Bununla değiştir:
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Şu anda açık olan sayfalar
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Yer imleri…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } içerikleri
 home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name } logosu
 home-prefs-search-header =
     .label = Web araması
-home-prefs-search-header2 =
-    .label = Arama
 home-prefs-shortcuts-header =
     .label = Kısayollar
 home-prefs-shortcuts-description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
-home-prefs-shortcuts-select =
-    .aria-label = Kısayollar
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorlu kısayollar
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1056,9 +1013,6 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } ailesini
 home-prefs-stories-header =
     .label = Haberler
 home-prefs-stories-description = Etkinliğinize göre kişiselleştirilmiş haberler
-home-prefs-stories-header2 =
-    .label = Haberler
-    .description = { -brand-product-name } ailesinin seçtiği harika içerikler
 
 ##
 
@@ -1078,8 +1032,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Son etkinlikler
 home-prefs-recent-activity-description = Son kullanılan siteler ve içeriklerden bir seçki
-home-prefs-recent-activity-select =
-    .aria-label = Son etkinlikler
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1091,43 +1043,13 @@ home-prefs-weather-header =
     .label = Hava durumu
 home-prefs-weather-description = Bugünkü hava durumu tahmini
 home-prefs-weather-learn-more-link = Daha fazla bilgi al
-home-prefs-widgets-header =
-    .label = Araçlar
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Listeler
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Sayaç
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Spor
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Saat
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin
 home-prefs-mission-message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 home-prefs-mission-message-learn-more-link = Nasıl mı?
-home-prefs-mission-message2 =
-    .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link = Konuları yönet
-home-prefs-manage-topics-link2 =
-    .label = Konuları yönet
 home-prefs-choose-wallpaper-link = Duvar kâğıdı seç
-home-prefs-choose-wallpaper-link2 =
-    .label = Duvar kâğıdı seç
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Bu özellikleri kullanmak için yeni sekme veya yeni pencere ayarınızı { -firefox-home-brand-name } olarak değiştirmelisiniz.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Uzantı ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1269,8 +1191,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Ayarlara dön
 containers-header = Kapsayıcı sekmeler
-containers-section-header =
-    .heading = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yeni kapsayıcı ekle
     .accesskey = e
@@ -1768,13 +1688,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Hiç adres eklenmedi
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Parolalar ve otomatik doldurma
     .title = Parolalar ve otomatik doldurma
 preferences-passwords-autofill-header =

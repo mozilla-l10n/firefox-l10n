@@ -351,8 +351,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Sātys lopa i jauni lūgi
 home-newtabs-mode-label = Jaunas cilnes
-home-homepage-new-tabs =
-    .label = Jaunas cilnes
 home-restore-defaults =
     .label = Atjaunōt iz nūkluseitū
     .accesskey = A
@@ -466,8 +464,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Skreines cilnes
-containers-section-header =
-    .heading = Skreines cilnes
 containers-add-button =
     .label = Pīvīnōt jaunu skreini
     .accesskey = A

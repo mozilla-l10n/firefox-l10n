@@ -26,9 +26,6 @@ smartwindow-document-title = Tendayke pyahu
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Peteĩchagua ovetã
-    .tooltiptext = Emoambue ovetã ha’eve ha oĩ’arévandi.
 ai-window-toggleview-switch-classic =
     .label = Ovetã oĩvavoi
     .value = Ovetã oĩvavoi

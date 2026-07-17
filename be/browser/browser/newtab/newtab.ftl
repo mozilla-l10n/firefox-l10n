@@ -737,8 +737,6 @@ newtab-custom-widget-lists-toggle =
     .label = Спісы
 newtab-custom-widget-timer-toggle =
     .label = Таймер
-newtab-custom-widget-sports-toggle =
-    .label = Кубак свету
 newtab-custom-widget-clock-toggle =
     .label = Гадзіннік
 newtab-custom-widget-sports-toggle2 =
@@ -1308,8 +1306,6 @@ newtab-sports-widget-menu-learn-more = Падрабязней
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Сачыце за чэмпіянатам свету
 newtab-sports-widget-get-updates = Атрымлівайце абнаўленні па матчах у рэжыме рэальнага часу і многае іншае.
-newtab-sports-widget-view-schedule =
-    .label = Паглядзець расклад
 newtab-sports-widget-follow-teams =
     .label = Падпісацца на каманды
 newtab-sports-widget-view-matches =

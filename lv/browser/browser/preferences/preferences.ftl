@@ -628,8 +628,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Sākumlapa un jauni logi
 home-newtabs-mode-label = Jaunas cilnes
-home-homepage-new-tabs =
-    .label = Jaunas cilnes
 home-restore-defaults =
     .label = Atjaunot noklusējumus
     .accesskey = n
@@ -665,8 +663,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Saīsnes
 home-prefs-shortcuts-description = Saglabātās vai apmeklētās vietnes
-home-prefs-shortcuts-select =
-    .aria-label = Saīsnes
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorētās saīsnes
 
@@ -697,8 +693,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nesenās aktivitātes
 home-prefs-recent-activity-description = Neseno vietņu un satura izlase
-home-prefs-recent-activity-select =
-    .aria-label = Nesenās aktivitātes
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -798,8 +792,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Atgriezties uz iestatījumiem
 containers-header = Saturošās cilnes
-containers-section-header =
-    .heading = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A

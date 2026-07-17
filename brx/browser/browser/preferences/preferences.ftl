@@ -255,8 +255,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ह'मबिलाइ आरो गोदान उइन्ड'स
 home-newtabs-mode-label = गोदान टेबफोर
-home-homepage-new-tabs =
-    .label = गोदान टेबफोर
 home-restore-defaults =
     .label = डिफल्टखौ मोनफिन
     .accesskey = R
@@ -345,8 +343,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = खनथेनार  टेबफोर
-containers-section-header =
-    .heading = खनथेनार  टेबफोर
 containers-add-button =
     .label = गोदान खनथेनार दाजाबदेर
     .accesskey = A

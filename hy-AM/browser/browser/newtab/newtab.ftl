@@ -480,8 +480,6 @@ newtab-custom-widget-lists-toggle =
     .label = Ցանկեր
 newtab-custom-widget-timer-toggle =
     .label = ժամաչափ
-newtab-custom-widget-sports-toggle =
-    .label = Աշխարհի գավաթ
 newtab-custom-widget-clock-toggle =
     .label = Ժամացույց
 newtab-custom-widget-section-title = Վիջեթներ
@@ -951,8 +949,6 @@ newtab-sports-widget-menu-key-dates = Հիմնական ամսաթվերը
 newtab-sports-widget-menu-learn-more = Իմանալ ավելին
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Հետևեք Աշխարհի գավաթին
-newtab-sports-widget-view-schedule =
-    .label = Դիտել ժամանակացույցը
 newtab-sports-widget-follow-teams =
     .label = Հետևեք թիմերին
 newtab-sports-widget-view-matches =

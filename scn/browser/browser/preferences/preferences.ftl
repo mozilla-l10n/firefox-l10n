@@ -419,8 +419,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pàggina mastra e novi finestri
 home-newtabs-mode-label = Novi schedi
-home-homepage-new-tabs =
-    .label = Novi schedi
 home-restore-defaults =
     .label = Riprìstina pridifinuti
     .accesskey = R
@@ -544,8 +542,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Schedi cuntinituri
-containers-section-header =
-    .heading = Schedi cuntinituri
 containers-add-button =
     .label = Junci un cuntinituri novu
     .accesskey = A

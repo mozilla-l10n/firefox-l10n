@@ -361,8 +361,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Ev səhifəsi və yeni pəncərələr
 home-newtabs-mode-label = Yeni vərəqlər
-home-homepage-new-tabs =
-    .label = Yeni vərəqlər
 home-restore-defaults =
     .label = İlkin Seçənəkləri Bərpa et
     .accesskey = R
@@ -476,8 +474,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Konteyner Vərəqlər
-containers-section-header =
-    .heading = Konteyner Vərəqlər
 containers-add-button =
     .label = Yeni konteyner əlavə et
     .accesskey = A

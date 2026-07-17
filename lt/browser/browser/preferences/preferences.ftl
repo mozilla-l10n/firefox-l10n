@@ -558,8 +558,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pradžios tinklalapis ir nauji langai
 home-newtabs-mode-label = Naujos kortelės
-home-homepage-new-tabs =
-    .label = Naujos kortelės
 home-restore-defaults =
     .label = Atstatyti numatytąsias
     .accesskey = A
@@ -595,8 +593,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Leistukai
 home-prefs-shortcuts-description = Jūsų įrašytos arba lankomos svetainės
-home-prefs-shortcuts-select =
-    .aria-label = Leistukai
 home-prefs-shortcuts-by-option-sponsored =
     .label = Rėmėjų leistukai
 
@@ -624,8 +620,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Paskiausia veikla
 home-prefs-recent-activity-description = Paskiausiai lankytos svetainės ir žiūrėtas turinys
-home-prefs-recent-activity-select =
-    .aria-label = Paskiausia veikla
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -715,8 +709,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Grįžti į nuostatas
 containers-header = Sudėtinio rodinio kortelės
-containers-section-header =
-    .heading = Sudėtinio rodinio kortelės
 containers-add-button =
     .label = Pridėti naują sudėtinį rodinį
     .accesskey = P

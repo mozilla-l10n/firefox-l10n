@@ -396,8 +396,6 @@ home-new-windows-tabs-header = Нови прозорци и јазичиња
 
 home-homepage-mode-label = Почетна страница и нови прозорци
 home-newtabs-mode-label = Нови јазичиња
-home-homepage-new-tabs =
-    .label = Нови јазичиња
 home-mode-choice-blank =
     .label = Празна страница
 home-homepage-custom-url =
@@ -423,8 +421,6 @@ home-prefs-search-header =
     .label = Веб-пребарување
 home-prefs-shortcuts-header =
     .label = Кратенки
-home-prefs-shortcuts-select =
-    .aria-label = Кратенки
 
 ## Home Section - Firefox Home Content Customization
 
@@ -496,8 +492,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Контејнерски јазичиња
-containers-section-header =
-    .heading = Контејнерски јазичиња
 containers-add-button =
     .label = Додај нов контејнер
     .accesskey = А

@@ -385,8 +385,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Bosh sahifa va yangi oynalar
 home-newtabs-mode-label = Yangi varaqlar
-home-homepage-new-tabs =
-    .label = Yangi varaqlar
 home-restore-defaults =
     .label = Asliga tiklash
     .accesskey = t
@@ -509,8 +507,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Konteynerdagi varaqlar
-containers-section-header =
-    .heading = Konteynerdagi varaqlar
 containers-add-button =
     .label = Yangi konteyner qo‘shish
     .accesskey = q

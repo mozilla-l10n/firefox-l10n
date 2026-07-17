@@ -945,11 +945,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Trang chủ và cửa sổ mới
-home-homepage-new-windows =
-    .label = Cửa sổ mới
 home-newtabs-mode-label = Thẻ mới
-home-homepage-new-tabs =
-    .label = Thẻ mới
 home-restore-defaults =
     .label = Khôi phục về mặc định
     .accesskey = R
@@ -964,9 +960,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Quản lý tiện ích
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Chọn một trang web cụ thể
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -982,59 +975,23 @@ choose-bookmark =
     .label = Sử dụng dấu trang…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Trang chủ
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Tùy chỉnh trang chủ
 home-custom-homepage-subpage =
     .heading = Tùy chỉnh trang chủ
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Địa chỉ trang web
-home-custom-homepage-address =
-    .placeholder = Nhập địa chỉ
-home-custom-homepage-address-button =
-    .label = Thêm địa chỉ
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Chưa có trang web nào được thêm vào.
-home-custom-homepage-delete-address-button =
-    .aria-label = Xóa địa chỉ
-    .title = Xóa địa chỉ
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Thay thế bằng
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Các trang hiện đang mở
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Dấu trang…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Nội dung { -firefox-home-brand-name }
 home-prefs-content-description2 = Chọn nội dung bạn muốn trên màn hình { -firefox-home-brand-name } của mình.
-home-prefs-firefox-logo-header =
-    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Tìm kiếm web
-home-prefs-search-header2 =
-    .label = Tìm kiếm
 home-prefs-shortcuts-header =
     .label = Lối tắt
 home-prefs-shortcuts-description = Các trang web bạn lưu hoặc truy cập
-home-prefs-shortcuts-select =
-    .aria-label = Lối tắt
 home-prefs-shortcuts-by-option-sponsored =
     .label = Các lối tắt được tài trợ
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1047,9 +1004,6 @@ home-prefs-recommended-by-description-generic = Nội dung đặc biệt đượ
 home-prefs-stories-header =
     .label = Câu chuyện
 home-prefs-stories-description = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
-home-prefs-stories-header2 =
-    .label = Câu chuyện
-    .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
 
 ##
 
@@ -1069,8 +1023,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Hoạt động gần đây
 home-prefs-recent-activity-description = Tuyển chọn các trang và nội dung gần đây
-home-prefs-recent-activity-select =
-    .aria-label = Hoạt động gần đây
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1082,43 +1034,13 @@ home-prefs-weather-header =
     .label = Thời tiết
 home-prefs-weather-description = Sơ lược về dự báo hôm nay
 home-prefs-weather-learn-more-link = Tìm hiểu thêm
-home-prefs-widgets-header =
-    .label = Widget
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Danh sách
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Bộ hẹn giờ
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Thể thao
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Đồng hồ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Hỗ trợ cho { -brand-product-name }
 home-prefs-mission-message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
-home-prefs-mission-message2 =
-    .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link = Quản lý chủ đề
-home-prefs-manage-topics-link2 =
-    .label = Quản lý chủ đề
 home-prefs-choose-wallpaper-link = Chọn một hình nền
-home-prefs-choose-wallpaper-link2 =
-    .label = Chọn một hình nền
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Để sử dụng các tính năng này, hãy đặt thẻ mới hoặc cửa sổ mới thành { -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Tiện ích mở rộng ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1256,8 +1178,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Quay lại Cài đặt
 containers-header = Ngăn chứa thẻ
-containers-section-header =
-    .heading = Ngăn chứa thẻ
 containers-add-button =
     .label = Thêm ngăn chứa mới
     .accesskey = T
@@ -1755,13 +1675,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Không có địa chỉ nào được thêm
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Mật khẩu và tự động điền
     .title = Mật khẩu và tự động điền
 preferences-passwords-autofill-header =

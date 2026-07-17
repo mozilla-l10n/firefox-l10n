@@ -26,9 +26,6 @@ smartwindow-document-title = Nova langeto
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Tipo de fenestro
-    .tooltiptext = Baskuli inter inteligentaj kaj klasikaj fenestroj.
 ai-window-toggleview-switch-classic =
     .label = Klasika fenestro
     .value = Klasika fenestro

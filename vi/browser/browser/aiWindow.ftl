@@ -26,9 +26,6 @@ smartwindow-document-title = Thẻ mới
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Loại cửa sổ
-    .tooltiptext = Chuyển sang cửa sổ thông minh hoặc thông thường.
 ai-window-toggleview-switch-classic =
     .label = Cửa sổ thông thường
     .value = Cửa sổ thông thường

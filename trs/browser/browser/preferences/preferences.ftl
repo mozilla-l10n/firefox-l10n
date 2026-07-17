@@ -388,8 +388,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pajina ayi'ij nī ventana nakàa
 home-newtabs-mode-label = Rakïj ñanj nakàa
-home-homepage-new-tabs =
-    .label = Rakïj ñanj nakàa
 home-restore-defaults =
     .label = Nagi'io' ru'ua nìanj
     .accesskey = R
@@ -512,8 +510,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Rakïj ñanj mā ma
-containers-section-header =
-    .heading = Rakïj ñanj mā ma
 containers-add-button =
     .label = Nuto' sa nakàa
     .accesskey = A

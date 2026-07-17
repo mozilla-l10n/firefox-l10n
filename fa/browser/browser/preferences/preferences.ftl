@@ -502,8 +502,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = صفحهٔ خانگی و پنجره‌های جدید
 home-newtabs-mode-label = زبانه‌های جدید
-home-homepage-new-tabs =
-    .label = زبانه‌های جدید
 home-restore-defaults =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
@@ -530,15 +528,11 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-firefox-logo-header =
-    .label = آرم { -brand-short-name }
 home-prefs-search-header =
     .label = جستجو وب
 home-prefs-shortcuts-header =
     .label = میان‌برها
 home-prefs-shortcuts-description = وب‌سایت‌هایی که ذخیره یا بازدید کرده‌اید
-home-prefs-shortcuts-select =
-    .aria-label = میان‌برها
 home-prefs-shortcuts-by-option-sponsored =
     .label = میانبرهایی از حامیان مالی
 
@@ -566,8 +560,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = فعالیت‌های اخیر
 home-prefs-recent-activity-description = منتخبی از وب‌سایت‌ها و مطالب اخیر
-home-prefs-recent-activity-select =
-    .aria-label = فعالیت‌های اخیر
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -575,11 +567,6 @@ home-prefs-recent-activity-select =
 home-prefs-snippets-header =
     .label = قطعه‌ها
 home-prefs-snippets-description-new = نکات و اخبار از { -vendor-short-name } و { -brand-product-name }
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = افزونه ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -656,8 +643,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = بازگشت به تنظیمات
 containers-header = زبانه‌های حامل
-containers-section-header =
-    .heading = زبانه‌های حامل
 containers-add-button =
     .label = افزودن حامل جدید
     .accesskey = ا

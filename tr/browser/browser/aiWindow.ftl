@@ -26,9 +26,6 @@ smartwindow-document-title = Yeni sekme
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Pencere türü
-    .tooltiptext = Akıllı pencere ile klasik pencere arasında geçiş yapın.
 ai-window-toggleview-switch-classic =
     .label = Klasik pencere
     .value = Klasik pencere

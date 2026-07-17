@@ -18,8 +18,3 @@ webauthn-uv-invalid-long-prompt =
        *[other] Օգտատիրոջ ստուգումը ձախողվեց: Ձեզ մնացել է { $retriesLeft } փորձ: Կրկին փորձեք:
     }
 webauthn-uv-invalid-short-prompt = Օգտատիրոջ ստուգումը ձախողվեց: Կրկին փորձեք:
-
-## WebAuthn prompts
-
-webauthn-cancel = Չեղարկել
-    .accesskey = c

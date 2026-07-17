@@ -26,9 +26,6 @@ smartwindow-document-title = Նոր ներդիր
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Պատուհանի տեսակը
-    .tooltiptext = Փոխարկել Խելացի և Դասական պատուհանների միջև:
 ai-window-toggleview-switch-classic =
     .label = Դասական պատուհան
     .value = Դասական պատուհան

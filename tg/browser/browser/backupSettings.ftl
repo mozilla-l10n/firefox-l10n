@@ -231,7 +231,6 @@ backup-file-how-to-restore-header = Тарзи барқарорсозӣ:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Менюи барномаро аз рӯйи аломати ☰ кушоед ва ба Танзимот > Ҳамоҳангсозӣ гузаред
 backup-file-moz-browser-restore-step-2-1 = «Маълумоти худро барқарор созед»-ро зер кунед ва ин файлро интихоб намоед
-backup-file-moz-browser-restore-step-2 = Имкони «Файли нусхаи эҳтиётиро интихоб кунед…»-ро зер кунед ва ин файлро интихоб намоед
 backup-file-moz-browser-restore-step-3 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
 backup-file-other-browser-restore-step-1 = Боргирӣ ва насб кардани «{ -brand-short-name }»
 backup-file-download-moz-browser-button = Боргирӣ кардан
@@ -239,7 +238,6 @@ backup-file-download-moz-browser-button = Боргирӣ кардан
 # application menu.
 backup-file-other-browser-restore-step-2 = Браузери «{ -brand-short-name }»-ро оғоз кунед, менюи барномаро аз рӯйи аломати ☰ кушоед ва ба Танзимот > Ҳамоҳангсозӣ гузаред
 backup-file-other-browser-restore-step-3-1 = «Маълумоти худро барқарор созед»-ро зер кунед ва ин файлро интихоб намоед
-backup-file-other-browser-restore-step-3 = Имкони «Файли нусхаи эҳтиётиро интихоб кунед…»-ро зер кунед ва ин файлро интихоб намоед
 backup-file-other-browser-restore-step-4 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
 
 ## These strings are used in the about:restore and about:welcome pages

@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = Kako obnoviti:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Otvori izbornik aplikacije ☰ i idi u Postavke > Sinkronizacija
-backup-file-moz-browser-restore-step-2 = Klikni „Odaberi datoteku sigurnosne kopije” i odaberi ovu datoteku
 backup-file-moz-browser-restore-step-3 = Ponovo pokreni { -brand-short-name } kada te zatraži
 backup-file-other-browser-restore-step-1 = Preuzmi i instaliraj { -brand-short-name }
 backup-file-download-moz-browser-button = Preuzmi
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Pokreni { -brand-short-name }, otvori izbornik aplikacije ☰ i idi u Postavke > Sinkronizacija
-backup-file-other-browser-restore-step-3 = Klikni „Odaberi datoteku sigurnosne kopije” i odaberi ovu datoteku
 backup-file-other-browser-restore-step-4 = Ponovo pokreni { -brand-short-name } kada te zatraži
 
 ## These strings are used in the about:restore and about:welcome pages

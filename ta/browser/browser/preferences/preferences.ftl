@@ -356,8 +356,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = முகப்புப்பக்கம் மற்றும் புதிய சாளரங்கள்
 home-newtabs-mode-label = புதிய கீற்றுகள்
-home-homepage-new-tabs =
-    .label = புதிய கீற்றுகள்
 home-restore-defaults =
     .label = முன்னிருப்புக்கு மீட்டமை
     .accesskey = R
@@ -469,8 +467,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = கலன் கீற்றுகள்
-containers-section-header =
-    .heading = கலன் கீற்றுகள்
 containers-add-button =
     .label = புதிய கலன்களைச் சேர்
     .accesskey = A

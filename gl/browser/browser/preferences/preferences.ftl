@@ -649,8 +649,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Páxina de inicio e novas xanelas
 home-newtabs-mode-label = Novas lapelas
-home-homepage-new-tabs =
-    .label = Novas lapelas
 home-restore-defaults =
     .label = Restaurar a configuración predeterminada
     .accesskey = R
@@ -681,15 +679,11 @@ choose-bookmark =
 
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
 home-prefs-content-description2 = Escolle o contido que queres na túa pantalla de { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = Logotipo de { -brand-short-name }
 home-prefs-search-header =
     .label = Busca na web
 home-prefs-shortcuts-header =
     .label = Atallos
 home-prefs-shortcuts-description = Sitios gardados ou visitados
-home-prefs-shortcuts-select =
-    .aria-label = Atallos
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atallos patrocinados
 
@@ -720,8 +714,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Actividade recente
 home-prefs-recent-activity-description = Unha selección de sitios e contido recentes
-home-prefs-recent-activity-select =
-    .aria-label = Actividade recente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -738,11 +730,6 @@ home-prefs-support-firefox-header =
     .label = Apoiar a { -brand-product-name }
 home-prefs-mission-message = Os nosos patrocinadores apoian a nosa misión de construír unha web mellor
 home-prefs-mission-message-learn-more-link = Descubre como
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extensión ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -841,8 +828,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Volver a Configuración
 containers-header = Lapelas contedor
-containers-section-header =
-    .heading = Lapelas contedor
 containers-add-button =
     .label = Engadir un novo contedor
     .accesskey = a

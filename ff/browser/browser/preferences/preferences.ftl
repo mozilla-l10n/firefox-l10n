@@ -389,8 +389,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Hello jaɓɓorgo kam e kenorɗe kese
 home-newtabs-mode-label = Tabbe kese
-home-homepage-new-tabs =
-    .label = Tabbe kese
 home-restore-defaults =
     .label = Artir Goowaaɗe
     .accesskey = R
@@ -505,8 +503,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Tabbe Mooftirɗe
-containers-section-header =
-    .heading = Tabbe Mooftirɗe
 containers-add-button =
     .label = Ɓeydu Mooftiree Hesere
     .accesskey = Ɓ

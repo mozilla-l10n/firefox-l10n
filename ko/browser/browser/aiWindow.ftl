@@ -26,9 +26,6 @@ smartwindow-document-title = 새 탭
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = 창 종류
-    .tooltiptext = 스마트 창과 일반 창 간에 전환합니다.
 ai-window-toggleview-switch-classic =
     .label = 일반 창
     .value = 일반 창

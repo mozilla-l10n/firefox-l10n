@@ -957,11 +957,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Aloitussivu ja uudet ikkunat
-home-homepage-new-windows =
-    .label = Uudet ikkunat
 home-newtabs-mode-label = Uudet välilehdet
-home-homepage-new-tabs =
-    .label = Uudet välilehdet
 home-restore-defaults =
     .label = Palauta oletukset
     .accesskey = P
@@ -980,9 +976,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Hallitse laajennusta
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Valitse tietty sivusto
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -998,59 +991,23 @@ choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Etusivu
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Mukautettu etusivu
 home-custom-homepage-subpage =
     .heading = Mukautettu etusivu
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Verkkosivuston tai -sivustojen osoitteet
-home-custom-homepage-address =
-    .placeholder = Kirjoita osoite
-home-custom-homepage-address-button =
-    .label = Lisää osoite
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Ei vielä lisättyjä verkkosivustoja.
-home-custom-homepage-delete-address-button =
-    .aria-label = Poista osoite
-    .title = Poista osoite
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Korvaa käyttäen
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = nyt avoinna olevia sivuja
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Kirjanmerkit…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }n sisältö
 home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }lle.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name }in logo
 home-prefs-search-header =
     .label = Verkkohaku
-home-prefs-search-header2 =
-    .label = Haku
 home-prefs-shortcuts-header =
     .label = Oikotiet
 home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
-home-prefs-shortcuts-select =
-    .aria-label = Oikotiet
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsoroidut oikotiet
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1063,9 +1020,6 @@ home-prefs-recommended-by-description-generic = Poikkeuksellista { -brand-produc
 home-prefs-stories-header =
     .label = Tarinat
 home-prefs-stories-description = Personoituja tarinoita aktiivisuuteesi pohjautuen
-home-prefs-stories-header2 =
-    .label = Tarinat
-    .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
 
 ##
 
@@ -1085,8 +1039,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Viimeisin toiminta
 home-prefs-recent-activity-description = Valikoima viimeisimpiä sivustoja ja sisältöä
-home-prefs-recent-activity-select =
-    .aria-label = Viimeisin toiminta
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1098,43 +1050,13 @@ home-prefs-weather-header =
     .label = Sää
 home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
 home-prefs-weather-learn-more-link = Lue lisää
-home-prefs-widgets-header =
-    .label = Pienoisohjelmat
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Listat
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Ajastin
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Urheilu
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Kello
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Tue { -brand-product-name }ia
 home-prefs-mission-message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 home-prefs-mission-message-learn-more-link = Lue lisää
-home-prefs-mission-message2 =
-    .message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä.
 home-prefs-manage-topics-link = Hallinnoi aiheita
-home-prefs-manage-topics-link2 =
-    .label = Hallinnoi aiheita
 home-prefs-choose-wallpaper-link = Valitse taustakuva
-home-prefs-choose-wallpaper-link2 =
-    .label = Valitse taustakuva
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Käyttääksesi näitä ominaisuuksia, aseta uudet välilehdet tai uudet ikkunat { -firefox-home-brand-name }iin.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Laajennus ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1276,8 +1198,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Takaisin asetuksiin
 containers-header = Eristetyt välilehdet
-containers-section-header =
-    .heading = Eristetyt välilehdet
 containers-add-button =
     .label = Lisää uusi eristystila
     .accesskey = L
@@ -1775,13 +1695,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Osoitteita ei ole lisätty
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Salasanat ja automaattinen täyttö
     .title = Salasanat ja automaattinen täyttö
 preferences-passwords-autofill-header =

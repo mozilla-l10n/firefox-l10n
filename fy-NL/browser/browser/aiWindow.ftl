@@ -26,9 +26,6 @@ smartwindow-document-title = Nij ljepblêd
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Finstertype
-    .tooltiptext = Wikselje tusken Tûke en klassike finsters
 ai-window-toggleview-switch-classic =
     .label = Klassyk finster
     .value = Klassyk finster

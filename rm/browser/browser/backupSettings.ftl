@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = Co restaurar:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Avrir il menu d’applicaziun ☰ ed acceder a Parameters > Sincronisaziun
-backup-file-moz-browser-restore-step-2 = Clicca sin «Tscherner ina datoteca da backup» e tscherna questa datoteca
 backup-file-moz-browser-restore-step-3 = Reaviescha { -brand-short-name } sin dumonda
 backup-file-other-browser-restore-step-1 = Telechargia ed installescha { -brand-short-name }
 backup-file-download-moz-browser-button = Telechargiar
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Aviescha { -brand-short-name }, avra il menu d’applicaziun ☰ ed acceda a Parameters > Sincronisaziun
-backup-file-other-browser-restore-step-3 = Clicca sin «Tscherner ina datoteca da backup» e tscherna questa datoteca
 backup-file-other-browser-restore-step-4 = Reaviescha { -brand-short-name } sin dumonda
 
 ## These strings are used in the about:restore and about:welcome pages

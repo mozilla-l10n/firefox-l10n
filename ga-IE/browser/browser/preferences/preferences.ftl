@@ -345,8 +345,6 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-newtabs-mode-label = Cluaisíní nua
-home-homepage-new-tabs =
-    .label = Cluaisíní nua
 home-mode-choice-blank =
     .label = Leathanach Bán
 home-homepage-custom-url =
@@ -427,8 +425,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Fill ar na Socruithe
 containers-header = Cluaisíní Coimeádáin
-containers-section-header =
-    .heading = Cluaisíní Coimeádáin
 containers-add-button =
     .label = Coimeádán Nua
     .accesskey = C

@@ -665,8 +665,6 @@ newtab-custom-widget-lists-toggle =
     .label = Tysýi
 newtab-custom-widget-timer-toggle =
     .label = Aravojere
-newtab-custom-widget-sports-toggle =
-    .label = Copa del Mundo
 newtab-custom-widget-clock-toggle =
     .label = Aravopapaha
 newtab-custom-widget-sports-toggle2 =
@@ -1233,8 +1231,6 @@ newtab-sports-widget-menu-learn-more = Eikuaave
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Eñemomarandu Copa del Mundo rehe
 newtab-sports-widget-get-updates = Erekóta mbohekopyahu partído oiko jave ha hetave.
-newtab-sports-widget-view-schedule =
-    .label = Ehecha nde aravorã
 newtab-sports-widget-follow-teams =
     .label = Esegi atyetápe
 newtab-sports-widget-view-matches =

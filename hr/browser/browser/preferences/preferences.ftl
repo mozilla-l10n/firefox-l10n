@@ -820,11 +820,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Početna stranica i novi prozori
-home-homepage-new-windows =
-    .label = Novi prozori
 home-newtabs-mode-label = Nove kartice
-home-homepage-new-tabs =
-    .label = Nove kartice
 home-restore-defaults =
     .label = Obnovi standardne postavke
     .accesskey = O
@@ -839,9 +835,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljaj proširenjem
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Odaberi određenu web-stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -857,59 +850,23 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Početna stranica
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Prilagođena početna stranica
 home-custom-homepage-subpage =
     .heading = Prilagođena početna stranica
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adrese web-stranica
-home-custom-homepage-address =
-    .placeholder = Upiši adresu
-home-custom-homepage-address-button =
-    .label = Dodaj adresu
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Nema dodanih web-stranica.
-home-custom-homepage-delete-address-button =
-    .aria-label = Izbriši adresu
-    .title = Izbriši adresu
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Zamijeni s
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Trenutačno otvorene stranice
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Zabilješke …
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
 home-prefs-content-description2 = Odaberi sadržaj na „{ -firefox-home-brand-name }”.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name } logotip
 home-prefs-search-header =
     .label = Web pretraga
-home-prefs-search-header2 =
-    .label = Pretraga
 home-prefs-shortcuts-header =
     .label = Prečaci
 home-prefs-shortcuts-description = Stranice koje spremiš ili posjetiš
-home-prefs-shortcuts-select =
-    .aria-label = Prečaci
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorirani prečaci
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -922,9 +879,6 @@ home-prefs-recommended-by-description-generic = Izniman sadržaj koji je priprem
 home-prefs-stories-header =
     .label = Priče
 home-prefs-stories-description = Personalizirane priče temeljene na tvojoj aktivnosti
-home-prefs-stories-header2 =
-    .label = Priče
-    .description = Izvanredni sadržaj kojeg je odabrala obitelj { -brand-product-name }
 
 ##
 
@@ -944,8 +898,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nedavna aktivnost
 home-prefs-recent-activity-description = Izbor nedavno posjećenih stranica i sadržaja
-home-prefs-recent-activity-select =
-    .aria-label = Nedavna aktivnost
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -957,32 +909,13 @@ home-prefs-weather-header =
     .label = Vremenska prognoza
 home-prefs-weather-description = Današnja prognoza ukratko
 home-prefs-weather-learn-more-link = Saznajte više
-home-prefs-widgets-header =
-    .label = Widgeti
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Popisi
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Timer
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } podrška
 home-prefs-mission-message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba
 home-prefs-mission-message-learn-more-link = Saznaj kako
-home-prefs-mission-message2 =
-    .message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba.
 home-prefs-manage-topics-link = Upravljaj temama
-home-prefs-manage-topics-link2 =
-    .label = Upravljaj temama
 home-prefs-choose-wallpaper-link = Odaberi pozadinu
-home-prefs-choose-wallpaper-link2 =
-    .label = Odaberi pozadinu
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Dodatak ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1121,8 +1054,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Natrag na postavke
 containers-header = Kontejnerske kartice
-containers-section-header =
-    .heading = Kontejnerske kartice
 containers-add-button =
     .label = Dodaj novi kontejner
     .accesskey = a
@@ -1582,13 +1513,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nije dodana nijedna adresa
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

@@ -780,11 +780,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina printzipale e ventanas noas
-home-homepage-new-windows =
-    .label = Ventanas noas
 home-newtabs-mode-label = Ischedas noas
-home-homepage-new-tabs =
-    .label = Ischedas noas
 home-restore-defaults =
     .label = Recùpera valores predefinidos
     .accesskey = R
@@ -812,35 +808,15 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
-## Custom Homepage subpage
-
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Indiritzos de sitos web
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Nissunu situ web galu agiuntu.
-home-custom-homepage-delete-address-button =
-    .aria-label = Cantzella s’indiritzu
-    .title = Cantzella s’indiritzu
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Sostitui cun
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
 home-prefs-content-description2 = Sèbera su cuntenutu chi boles visualizare in { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = logo de { -brand-short-name }
 home-prefs-search-header =
     .label = Chirca web
 home-prefs-shortcuts-header =
     .label = Curtzadòrgios
 home-prefs-shortcuts-description = Sitos chi as sarvadu o bisitadu
-home-prefs-shortcuts-select =
-    .aria-label = Curtzadòrgios
 home-prefs-shortcuts-by-option-sponsored =
     .label = Curtzadòrgios patrotzinados
 
@@ -871,8 +847,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Atividade reghente
 home-prefs-recent-activity-description = Una seletzione de sitos e cuntenutos reghentes
-home-prefs-recent-activity-select =
-    .aria-label = Atividade reghente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -889,11 +863,6 @@ home-prefs-support-firefox-header =
     .label = Agiuda a { -brand-product-name }
 home-prefs-mission-message = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
 home-prefs-mission-message-learn-more-link = Iscoberi comente
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Estensione ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1031,8 +1000,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Torra a sa cunfiguratzione
 containers-header = Ischedas cuntenidoras
-containers-section-header =
-    .heading = Ischedas cuntenidoras
 containers-add-button =
     .label = Agiunghe unu cuntenidore nou
     .accesskey = A

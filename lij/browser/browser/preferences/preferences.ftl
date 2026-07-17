@@ -369,8 +369,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pagina prinçipâ e neuvi barcoin
 home-newtabs-mode-label = Neuvi feuggi
-home-homepage-new-tabs =
-    .label = Neuvi feuggi
 home-restore-defaults =
     .label = Repiggia predefinii
     .accesskey = R
@@ -484,8 +482,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Contegnitô di feuggi
-containers-section-header =
-    .heading = Contegnitô di feuggi
 containers-add-button =
     .label = Azonzi neuvo contegnitô
     .accesskey = A

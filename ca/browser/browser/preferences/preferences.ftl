@@ -875,11 +875,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina d'inici i finestres noves
-home-homepage-new-windows =
-    .label = Finestres noves
 home-newtabs-mode-label = Pestanyes noves
-home-homepage-new-tabs =
-    .label = Pestanyes noves
 home-restore-defaults =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -894,9 +890,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gestiona l'extensió
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Tria un lloc específic
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -912,39 +905,11 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Pàgina d’inici
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pàgina d'inici personalitzada
 home-custom-homepage-subpage =
     .heading = Pàgina d'inici personalitzada
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adreces de llocs web
-home-custom-homepage-address =
-    .placeholder = Escriviu una adreça
-home-custom-homepage-address-button =
-    .label = Afegeix l'adreça
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Encara no heu afegit cap lloc web.
-home-custom-homepage-delete-address-button =
-    .aria-label = Suprimeix l’adreça
-    .title = Suprimeix l’adreça
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Reemplaça amb
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Pàgines obertes actualment
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Adreces d'interès…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -952,17 +917,11 @@ home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }
 home-prefs-content-description2 = Trieu el contingut que voleu en la pantalla d'{ -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Cerca web
-home-prefs-search-header2 =
-    .label = Cerca
 home-prefs-shortcuts-header =
     .label = Dreceres
 home-prefs-shortcuts-description = Llocs que deseu o visiteu
-home-prefs-shortcuts-select =
-    .aria-label = Dreceres
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -975,9 +934,6 @@ home-prefs-recommended-by-description-generic = Contingut excepcional selecciona
 home-prefs-stories-header =
     .label = Articles
 home-prefs-stories-description = Articles personalitzats basats en la vostra activitat
-home-prefs-stories-header2 =
-    .label = Articles
-    .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
 
 ##
 
@@ -997,8 +953,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activitat recent
 home-prefs-recent-activity-description = Una selecció de continguts i llocs recents
-home-prefs-recent-activity-select =
-    .aria-label = Activitat recent
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1010,32 +964,13 @@ home-prefs-weather-header =
     .label = Informació meteorològica
 home-prefs-weather-description = La previsió d'avui d'un cop d'ull
 home-prefs-weather-learn-more-link = Més informació
-home-prefs-widgets-header =
-    .label = Ginys
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Llistes
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Temporitzador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Doneu suport al { -brand-product-name }
 home-prefs-mission-message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
 home-prefs-mission-message-learn-more-link = Descobriu com
-home-prefs-mission-message2 =
-    .message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor.
 home-prefs-manage-topics-link = Gestiona els temes
-home-prefs-manage-topics-link2 =
-    .label = Gestiona els temes
 home-prefs-choose-wallpaper-link = Trieu un fons de pantalla
-home-prefs-choose-wallpaper-link2 =
-    .label = Trieu un fons de pantalla
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extensió ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1174,8 +1109,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Torna als paràmetres
 containers-header = Pestanyes de contenidor
-containers-section-header =
-    .heading = Pestanyes de contenidor
 containers-add-button =
     .label = Afegeix un contenidor nou
     .accesskey = A
@@ -1635,13 +1568,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = No heu afegit cap adreça
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

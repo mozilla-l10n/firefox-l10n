@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Sut i adfer:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Agorwch ddewislen y rhaglen ☰ ac ewch i Gosodiadau> Cydweddu
 backup-file-moz-browser-restore-step-2-1 = Cliciwch "Adfer eich data" a dewiswch y ffeil hon
-backup-file-moz-browser-restore-step-2 = Cliciwch "Dewis ffeil wrth gefn" a dewiswch y ffeil hon
 backup-file-moz-browser-restore-step-3 = Ailgychwyn { -brand-short-name } pan fydd gofyn i chi
 backup-file-other-browser-restore-step-1 = Llwythwch i lawr a gosod { -brand-short-name }
 backup-file-download-moz-browser-button = Llwytho i Lawr
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Llwytho i Lawr
 # application menu.
 backup-file-other-browser-restore-step-2 = Cychwynnwch { -brand-short-name }, agorwch ddewislen y rhaglen ☰ ac ewch i Gosodiadau > Cydweddu
 backup-file-other-browser-restore-step-3-1 = Cliciwch "Adfer eich data" a dewiswch y ffeil hon
-backup-file-other-browser-restore-step-3 = Cliciwch "Dewis ffeil wrth gefn" a dewiswch y ffeil hon
 backup-file-other-browser-restore-step-4 = Ailgychwynnwch { -brand-short-name } pan fydd gofyn i chi
 
 ## These strings are used in the about:restore and about:welcome pages

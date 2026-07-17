@@ -26,9 +26,6 @@ smartwindow-document-title = Nova aba
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Tipo de janela
-    .tooltiptext = Alternar entre janelas inteligentes e clássicas.
 ai-window-toggleview-switch-classic =
     .label = Janela clássica
     .value = Janela clássica

@@ -26,9 +26,6 @@ smartwindow-document-title = ਨਵੀਂ ਟੈਬ
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = ਵਿੰਡੋ ਕਿਸਮ
-    .tooltiptext = ਸਮਾਰਟ ਅਤੇ ਕਲਾਸਿਕ ਵਿੰਡੋਆਂ ਵਿਚਾਲੇ ਬਦਲੋ।
 ai-window-toggleview-switch-classic =
     .label = ਕਲਾਸਿਕ ਵਿੰਡੋ
     .value = ਕਲਾਸਿਕ ਵਿੰਡੋ

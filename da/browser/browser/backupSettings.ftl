@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = Sådan gendanner du:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Åbn program-menuen ☰ og gå til Indstillinger > Synkronisering
-backup-file-moz-browser-restore-step-2 = Klik på "Vælg sikkerhedskopi" og vælg denne fil.
 backup-file-moz-browser-restore-step-3 = Genstart { -brand-short-name }, når du bliver bedt om det
 backup-file-other-browser-restore-step-1 = Hent og installer { -brand-short-name }
 backup-file-download-moz-browser-button = Hent
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, åbn program-menuen ☰ og gå til Indstillinger > Synkronisering
-backup-file-other-browser-restore-step-3 = Klik på "Vælg sikkerhedskopi" og vælg denne fil
 backup-file-other-browser-restore-step-4 = Genstart { -brand-short-name }, når du bliver bedt om det
 
 ## These strings are used in the about:restore and about:welcome pages

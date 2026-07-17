@@ -104,7 +104,6 @@ backup-file-encryption-state-value-not-encrypted = ទេ
 backup-file-creation-device-label = ឧបករណ៍៖
 backup-file-creation-date-label = បានបង្កើត៖
 backup-file-how-to-restore-header = របៀបស្ដារឡើងវិញ៖
-backup-file-moz-browser-restore-step-2 = ចុច "ជ្រើសរើសឯកសារបម្រុងទុក" ហើយជ្រើសរើសឯកសារនេះ
 backup-file-other-browser-restore-step-1 = ទាញយក និងដំឡើង { -brand-short-name }
 backup-file-download-moz-browser-button = ទាញ​យក
 

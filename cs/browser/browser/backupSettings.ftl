@@ -256,7 +256,6 @@ backup-file-how-to-restore-header = Jak obnovit:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Otevřete nabídku aplikace ☰ a přejděte do Nastavení > Synchronizace
 backup-file-moz-browser-restore-step-2-1 = Klepněte na “Obnovit data” a vyberte tento soubor
-backup-file-moz-browser-restore-step-2 = Klepněte na „Vybrat soubor se zálohou“ a vyberte tento soubor
 backup-file-moz-browser-restore-step-3 = Na vyžádání aplikaci { -brand-short-name } restartujte
 backup-file-other-browser-restore-step-1 = Stáhnout a nainstalovat { -brand-short-name }
 backup-file-download-moz-browser-button = Stáhnout
@@ -264,7 +263,6 @@ backup-file-download-moz-browser-button = Stáhnout
 # application menu.
 backup-file-other-browser-restore-step-2 = Spusťte aplikaci { -brand-short-name }, otevřete nabídku aplikace ☰ a přejděte do Nastavení > Synchronizace
 backup-file-other-browser-restore-step-3-1 = Klepněte na “Obnovit data” a vyberte tento soubor
-backup-file-other-browser-restore-step-3 = Klepněte na „Vybrat soubor se zálohou“ a vyberte tento soubor
 backup-file-other-browser-restore-step-4 = Na vyžádání aplikaci { -brand-short-name } restartujte
 
 ## These strings are used in the about:restore and about:welcome pages

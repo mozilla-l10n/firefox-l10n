@@ -278,8 +278,6 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-newtabs-mode-label = ಹೊಸ ಟ್ಯಾಬ್ ಗಳು
-home-homepage-new-tabs =
-    .label = ಹೊಸ ಟ್ಯಾಬ್ ಗಳು
 home-mode-choice-blank =
     .label = ಖಾಲಿ ಪುಟ
 home-homepage-custom-url =
@@ -365,8 +363,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍
-containers-section-header =
-    .heading = ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍
 containers-add-button =
     .label = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
     .accesskey = A

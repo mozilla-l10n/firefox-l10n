@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = Mar a nì thu aiseag:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Fosgail clàr-taice na h-aplacaid ☰ is tadhail air “Roghainnean” » “Sioncronachadh”
-backup-file-moz-browser-restore-step-2 = Briog air ”Tagh faidhle lethbhric-ghlèidhidh” is tagh am faidhle seo
 backup-file-moz-browser-restore-step-3 = Ath-thòisich { -brand-short-name } nuair a thèid seo iarraidh ort
 backup-file-other-browser-restore-step-1 = Luchdaich a-nuas is stàlaich { -brand-short-name }
 backup-file-download-moz-browser-button = Luchdaich a-nuas
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Tòisich { -brand-short-name }, fosgail clàr-taice na h-aplacaid ☰ is tadhail air “Roghainnean” » “Sioncronachadh”
-backup-file-other-browser-restore-step-3 = Briog air ”Tagh faidhle lethbhric-ghlèidhidh” is tagh am faidhle seo
 backup-file-other-browser-restore-step-4 = Ath-thòisich { -brand-short-name } nuair a thèid seo iarraidh ort
 
 ## These strings are used in the about:restore and about:welcome pages

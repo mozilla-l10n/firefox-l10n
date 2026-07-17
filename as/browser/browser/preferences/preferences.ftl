@@ -198,11 +198,6 @@ choose-bookmark =
 ##
 
 home-prefs-recommended-by-learn-more = ই কেনেকৈ কাম কৰে
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = এক্সটেনশ্যন ({ $extension })
 
 ## Search Section
 

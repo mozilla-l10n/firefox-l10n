@@ -424,8 +424,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pachina d'inicio y nuevas finestras
 home-newtabs-mode-label = Nuevas pestanyas
-home-homepage-new-tabs =
-    .label = Nuevas pestanyas
 home-restore-defaults =
     .label = Restaurar valors per defecto
     .accesskey = R
@@ -551,8 +549,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Pestanyas contenederas
-containers-section-header =
-    .heading = Pestanyas contenederas
 containers-add-button =
     .label = Anyader nuevo contenedor
     .accesskey = A

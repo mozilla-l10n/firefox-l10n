@@ -644,8 +644,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Asebter agejdan akked isfuyla imaynuten
 home-newtabs-mode-label = Iccer amaynut
-home-homepage-new-tabs =
-    .label = Iccer amaynut
 home-restore-defaults =
     .label = Err-d iɣewwaṛen imezwar
     .accesskey = R
@@ -676,15 +674,11 @@ choose-bookmark =
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
 home-prefs-content-description2 = Fren anwa agbur i tebɣiḍ ɣefugdil-ik·im n { -firefox-home-brand-name }
-home-prefs-firefox-logo-header =
-    .label = Alugu n { -brand-short-name }
 home-prefs-search-header =
     .label = Anadi Web
 home-prefs-shortcuts-header =
     .label = Inegzumen
 home-prefs-shortcuts-description = Ismal i teskelseḍ neɣ wuɣur terziḍ
-home-prefs-shortcuts-select =
-    .aria-label = Inegzumen
 home-prefs-shortcuts-by-option-sponsored =
     .label = Inegzumen yettwarefden
 
@@ -714,8 +708,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Armud n melmi kan
 home-prefs-recent-activity-description = Tafrant n yismal d ugbur n melmi kan
-home-prefs-recent-activity-select =
-    .aria-label = Armud n melmi kan
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -730,11 +722,6 @@ home-prefs-weather-learn-more-link = Issin ugar
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Allel { -brand-product-name }
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Asiɣzef ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,8 +810,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Uɣal ɣer yiɣewwaren
 containers-header = Iccaren imagbaren
-containers-section-header =
-    .heading = Iccaren imagbaren
 containers-add-button =
     .label = Rnu amagbar-nniḍen
     .accesskey = R

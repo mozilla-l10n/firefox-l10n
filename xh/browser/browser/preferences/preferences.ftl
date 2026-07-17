@@ -335,8 +335,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Iithebhu Zekhonteyina
-containers-section-header =
-    .heading = Iithebhu Zekhonteyina
 containers-add-button =
     .label = Yongeza iKhonteyina eNtsha
     .accesskey = Y

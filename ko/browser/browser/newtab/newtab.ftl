@@ -697,8 +697,6 @@ newtab-custom-widget-lists-toggle =
     .label = 목록
 newtab-custom-widget-timer-toggle =
     .label = 타이머
-newtab-custom-widget-sports-toggle =
-    .label = 월드컵
 newtab-custom-widget-clock-toggle =
     .label = 시계
 newtab-custom-widget-sports-toggle2 =
@@ -1261,8 +1259,6 @@ newtab-sports-widget-menu-learn-more = 더 알아보기
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = 월드컵 소식을 놓치지 마세요
 newtab-sports-widget-get-updates = 라이브 경기 업데이트 등을 받으세요.
-newtab-sports-widget-view-schedule =
-    .label = 일정 보기
 newtab-sports-widget-follow-teams =
     .label = 팀 팔로우
 newtab-sports-widget-view-matches =

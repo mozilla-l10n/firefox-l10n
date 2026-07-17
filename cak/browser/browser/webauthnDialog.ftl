@@ -3,8 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webauthn-pin-required-prompt = Tatz'ib'aj ri RUPIN awokisaxel.
-
-## WebAuthn prompts
-
-webauthn-cancel = Tiq'at
-    .accesskey = t

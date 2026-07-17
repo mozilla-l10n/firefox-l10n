@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Ako obnoviť:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Otvorte ponuku aplikácie ☰ a prejdite do časti Nastavenia > Synchronizácia
 backup-file-moz-browser-restore-step-2-1 = Kliknite na “Obnoviť údaje” a vyberte tento súbor
-backup-file-moz-browser-restore-step-2 = Kliknite na “Vybrať súbor zálohy” a vyberte tento súbor
 backup-file-moz-browser-restore-step-3 = Reštartujte { -brand-short-name(case: "acc") } po zobrazení výzvy
 backup-file-other-browser-restore-step-1 = Stiahnite a nainštalujte si { -brand-short-name(case: "acc") }
 backup-file-download-moz-browser-button = Stiahnuť
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Stiahnuť
 # application menu.
 backup-file-other-browser-restore-step-2 = Spustite { -brand-short-name(case: "acc") }, otvorte ponuku aplikácie ☰ a prejdite do časti Nastavenia > Synchronizácia
 backup-file-other-browser-restore-step-3-1 = Kliknite na “Obnoviť údaje” a vyberte tento súbor
-backup-file-other-browser-restore-step-3 = Kliknite na “Vybrať súbor zálohy” a vyberte tento súbor
 backup-file-other-browser-restore-step-4 = Reštartujte { -brand-short-name(case: "acc") } po zobrazení výzvy
 
 ## These strings are used in the about:restore and about:welcome pages

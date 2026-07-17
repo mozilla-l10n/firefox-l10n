@@ -208,8 +208,6 @@ choose-bookmark =
 
 home-prefs-recent-activity-header =
     .label = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
-home-prefs-recent-activity-select =
-    .aria-label = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 
 ## Search Section
 

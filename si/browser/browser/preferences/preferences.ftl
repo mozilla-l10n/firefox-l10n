@@ -605,8 +605,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = මුල් පිටුව හා නව කවුළු
 home-newtabs-mode-label = නව පටිති
-home-homepage-new-tabs =
-    .label = නව පටිති
 home-restore-defaults =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
     .accesskey = R
@@ -642,8 +640,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = කෙටිමං
 home-prefs-shortcuts-description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
-home-prefs-shortcuts-select =
-    .aria-label = කෙටිමං
 home-prefs-shortcuts-by-option-sponsored =
     .label = අනුග්‍රහය ලද කෙටිමං
 
@@ -672,8 +668,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = මෑත ක්‍රියාකාරකම
 home-prefs-recent-activity-description = මෑත අඩවි සහ අන්තර්ගතවල තෝරාගැනීම
-home-prefs-recent-activity-select =
-    .aria-label = මෑත ක්‍රියාකාරකම
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -685,11 +679,6 @@ home-prefs-weather-header =
     .label = කාලගුණය
 home-prefs-weather-description = අද අනාවැකිය කෙටියෙන්
 home-prefs-weather-learn-more-link = තව දැනගන්න
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = ({ $extension }) දිගුව
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -779,8 +768,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = සැකසුම් වෙත ආපසු
 containers-header = පටිති අඩංගු
-containers-section-header =
-    .heading = පටිති අඩංගු
 containers-add-button =
     .label = නව අඩංගුවක් යොදන්න
     .accesskey = A

@@ -960,11 +960,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagină de start și ferestre noi
-home-homepage-new-windows =
-    .label = Ferestre noi
 home-newtabs-mode-label = File noi
-home-homepage-new-tabs =
-    .label = File noi
 home-restore-defaults =
     .label = Restaurează valorile implicite
     .accesskey = R
@@ -979,9 +975,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gestionează extensia
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Alege un anumit site
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -997,59 +990,23 @@ choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Pagină de start
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagină de start personalizată
 home-custom-homepage-subpage =
     .heading = Pagină de start personalizată
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adresă(e) site web
-home-custom-homepage-address =
-    .placeholder = Introdu adresa
-home-custom-homepage-address-button =
-    .label = Adaugă o adresă
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Nu au fost adăugate încă site-uri web.
-home-custom-homepage-delete-address-button =
-    .aria-label = Șterge adresa
-    .title = Șterge adresa
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Înlocuiește cu
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Pagini deschise acum
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Marcaje…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Conținutul paginii de { -firefox-home-brand-name }
 home-prefs-content-description2 = Alege ce conținut vrei pe ecranul { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = Logoul { -brand-short-name }
 home-prefs-search-header =
     .label = Căutare web
-home-prefs-search-header2 =
-    .label = Caută
 home-prefs-shortcuts-header =
     .label = Comenzi rapide
 home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
-home-prefs-shortcuts-select =
-    .aria-label = Comenzi rapide
 home-prefs-shortcuts-by-option-sponsored =
     .label = Comenzi rapide sponsorizate
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1062,9 +1019,6 @@ home-prefs-recommended-by-description-generic = Conținut excepțional, selecți
 home-prefs-stories-header =
     .label = Articole
 home-prefs-stories-description = Articole personalizate bazate pe activitatea ta
-home-prefs-stories-header2 =
-    .label = Articole
-    .description = Conținut excepțional, selecționat de familia { -brand-product-name }
 
 ##
 
@@ -1084,8 +1038,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activitate recentă
 home-prefs-recent-activity-description = O selecție de site-uri și conținut recente
-home-prefs-recent-activity-select =
-    .aria-label = Activitate recentă
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1097,43 +1049,13 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Vremea azi dintr-o privire
 home-prefs-weather-learn-more-link = Află mai multe
-home-prefs-widgets-header =
-    .label = Widgeturi
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Liste
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Cronometru
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Sporturi
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Ceas
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Susține { -brand-product-name }
 home-prefs-mission-message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun
 home-prefs-mission-message-learn-more-link = Află cum
-home-prefs-mission-message2 =
-    .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link = Gestionează subiectele
-home-prefs-manage-topics-link2 =
-    .label = Gestionează subiectele
 home-prefs-choose-wallpaper-link = Alege o imagine de fundal
-home-prefs-choose-wallpaper-link2 =
-    .label = Alege o imagine de fundal
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Pentru utilizarea acestor funcționalități, setează filele noi sau ferestrele noi pe { -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extensie ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1276,8 +1198,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Înapoi la setări
 containers-header = File container
-containers-section-header =
-    .heading = File container
 containers-add-button =
     .label = Adaugă un container nou
     .accesskey = A
@@ -1775,13 +1695,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nu a fost adăugată nicio adresă
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Parole și completare automată
     .title = Parole și completare automată
 preferences-passwords-autofill-header =

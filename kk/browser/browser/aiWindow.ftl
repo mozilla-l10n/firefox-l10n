@@ -26,9 +26,6 @@ smartwindow-document-title = Жаңа бет
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Терезе түрі
-    .tooltiptext = Ақылды және классикалық терезелер арасында ауысу.
 ai-window-toggleview-switch-classic =
     .label = Классикалық терезе
     .value = Классикалық терезе

@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = 如何還原：
 # application menu.
 backup-file-moz-browser-restore-step-1 = 開啟應用程式選單 ☰ 並前往「設定 > 同步」
 backup-file-moz-browser-restore-step-2-1 = 點擊「還原您的資料」並選擇這個檔案
-backup-file-moz-browser-restore-step-2 = 點擊「選擇備份檔…」，並選擇這個檔案
 backup-file-moz-browser-restore-step-3 = 收到提示後，重新啟動 { -brand-short-name }
 backup-file-other-browser-restore-step-1 = 下載並安裝 { -brand-short-name }
 backup-file-download-moz-browser-button = 下載
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = 下載
 # application menu.
 backup-file-other-browser-restore-step-2 = 啟動 { -brand-short-name }，開啟應用程式選單 ☰ 並前往「設定 > 同步」
 backup-file-other-browser-restore-step-3-1 = 點擊「還原您的資料」並選擇這個檔案
-backup-file-other-browser-restore-step-3 = 點擊「選擇備份檔…」，並選擇這個檔案
 backup-file-other-browser-restore-step-4 = 收到提示後，重新啟動 { -brand-short-name }
 
 ## These strings are used in the about:restore and about:welcome pages

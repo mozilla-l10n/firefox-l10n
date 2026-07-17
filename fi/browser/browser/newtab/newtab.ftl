@@ -731,8 +731,6 @@ newtab-custom-widget-lists-toggle =
     .label = Listat
 newtab-custom-widget-timer-toggle =
     .label = Ajastin
-newtab-custom-widget-sports-toggle =
-    .label = Jalkapallon maailmanmestaruuskilpailut
 newtab-custom-widget-clock-toggle =
     .label = Kello
 newtab-custom-widget-sports-toggle2 =
@@ -1300,8 +1298,6 @@ newtab-sports-widget-menu-learn-more = Lue lisää
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Pidä silmällä MM-kisoja
 newtab-sports-widget-get-updates = Saat päivityksiä otteluiden suorista tapahtumista ja paljon muuta.
-newtab-sports-widget-view-schedule =
-    .label = Näytä aikataulu
 newtab-sports-widget-follow-teams =
     .label = Seuraa joukkueita
 newtab-sports-widget-view-matches =

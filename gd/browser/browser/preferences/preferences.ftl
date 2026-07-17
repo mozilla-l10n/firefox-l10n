@@ -566,8 +566,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = An duilleag-dhachaigh is uinneagan ùra
 home-newtabs-mode-label = Tabaichean ùra
-home-homepage-new-tabs =
-    .label = Tabaichean ùra
 home-restore-defaults =
     .label = Aisig na bun-roghainnean
     .accesskey = r
@@ -603,8 +601,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Ath-ghoiridean
 home-prefs-shortcuts-description = Làraichean a shàbhail thu no a thadhail thu orra
-home-prefs-shortcuts-select =
-    .aria-label = Ath-ghoiridean
 home-prefs-shortcuts-by-option-sponsored =
     .label = Ath-ghoiridean sponsairichte
 
@@ -632,8 +628,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Gnìomhachd o chionn goirid
 home-prefs-recent-activity-description = Roghainn de làraichean is susbaint faisg ort
-home-prefs-recent-activity-select =
-    .aria-label = Gnìomhachd o chionn goirid
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -641,11 +635,6 @@ home-prefs-recent-activity-select =
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description-new = Gliocasan is naidheachdan o { -vendor-short-name } is { -brand-product-name }
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extension ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -729,8 +718,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Till dha na roghainnean
 containers-header = Tabaichean soithich
-containers-section-header =
-    .heading = Tabaichean soithich
 containers-add-button =
     .label = Cuir soitheach ùr ris
     .accesskey = a

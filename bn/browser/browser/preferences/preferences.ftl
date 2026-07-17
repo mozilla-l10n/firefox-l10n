@@ -424,8 +424,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = নীড়পাতা এবং নতুন পর্দা
 home-newtabs-mode-label = নতুন ট্যাবগুলি
-home-homepage-new-tabs =
-    .label = নতুন ট্যাবগুলি
 home-restore-defaults =
     .label = ডিফল্ট মান পুনরায় স্থাপন
     .accesskey = R
@@ -548,8 +546,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = কন্টেইনার ট্যাব
-containers-section-header =
-    .heading = কন্টেইনার ট্যাব
 containers-add-button =
     .label = নতুন কন্টেইনার যোগ
     .accesskey = A

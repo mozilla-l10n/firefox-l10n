@@ -26,9 +26,6 @@ smartwindow-document-title = Νέα καρτέλα
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Τύπος παραθύρου
-    .tooltiptext = Εναλλαγή μεταξύ κλασικών και έξυπνων παραθύρων.
 ai-window-toggleview-switch-classic =
     .label = Κλασικό παράθυρο
     .value = Κλασικό παράθυρο

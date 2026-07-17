@@ -23,9 +23,6 @@ smartwindow-document-title = Nový panel
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Typ okna
-    .tooltiptext = Přepínání mezi chytrými a klasickými okny
 ai-window-toggleview-switch-classic =
     .label = Klasické okno
     .value = Klasické okno

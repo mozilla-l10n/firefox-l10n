@@ -958,11 +958,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Domača stran in nova okna
-home-homepage-new-windows =
-    .label = Nova okna
 home-newtabs-mode-label = Novi zavihki
-home-homepage-new-tabs =
-    .label = Novi zavihki
 home-restore-defaults =
     .label = Obnovi privzeto
     .accesskey = O
@@ -977,9 +973,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljanje razširitve
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Izberite določeno stran
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -995,59 +988,23 @@ choose-bookmark =
     .label = Uporabi zaznamek …
     .accesskey = z
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Domača stran
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Domača stran po meri
 home-custom-homepage-subpage =
     .heading = Domača stran po meri
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Naslov spletnega mesta oz. spletnih mest
-home-custom-homepage-address =
-    .placeholder = Vnesite naslov
-home-custom-homepage-address-button =
-    .label = Dodaj naslov
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Dodano ni še nobeno spletno mesto.
-home-custom-homepage-delete-address-button =
-    .aria-label = Izbriši naslov
-    .title = Izbriši naslov
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Zamenjaj s/z
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = trenutno odprtimi stranmi
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = zaznamki …
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik") }
 home-prefs-content-description2 = Izberite vsebino, ki naj se prikazuje na { -firefox-home-brand-name(sklon: "mestnik") }.
-home-prefs-firefox-logo-header =
-    .label = Logotip { -brand-short-name(sklon: "rodilnik") }
 home-prefs-search-header =
     .label = Iskanje po spletu
-home-prefs-search-header2 =
-    .label = Iskanje
 home-prefs-shortcuts-header =
     .label = Bližnjice
 home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
-home-prefs-shortcuts-select =
-    .aria-label = Bližnjice
 home-prefs-shortcuts-by-option-sponsored =
     .label = Bližnjice oglaševalcev
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name(zacetnica: "velika") }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1060,9 +1017,6 @@ home-prefs-recommended-by-description-generic = Izjemna vsebina, ki jo pripravlj
 home-prefs-stories-header =
     .label = Zgodbe
 home-prefs-stories-description = Zgodbe, izbrane na podlagi vaše dejavnosti
-home-prefs-stories-header2 =
-    .label = Zgodbe
-    .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
 
 ##
 
@@ -1082,8 +1036,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nedavna dejavnost
 home-prefs-recent-activity-description = Izbor nedavnih spletnih mest in vsebin
-home-prefs-recent-activity-select =
-    .aria-label = Nedavna dejavnost
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1095,38 +1047,13 @@ home-prefs-weather-header =
     .label = Vreme
 home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
-home-prefs-widgets-header =
-    .label = Pripomočki
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Seznami
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Časovnik
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Šport
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Ura
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podprite { -brand-product-name(sklon: "tozilnik") }
 home-prefs-mission-message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 home-prefs-mission-message-learn-more-link = Spoznajte, kako
-home-prefs-mission-message2 =
-    .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
 home-prefs-manage-topics-link = Upravljanje tem
-home-prefs-manage-topics-link2 =
-    .label = Upravljanje tem
 home-prefs-choose-wallpaper-link = Izberite si ozadje
-home-prefs-choose-wallpaper-link2 =
-    .label = Izberite si ozadje
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Razširitev ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1270,8 +1197,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Nazaj na nastavitve
 containers-header = Vsebniški zavihki
-containers-section-header =
-    .heading = Vsebniški zavihki
 containers-add-button =
     .label = Dodaj nov vsebnik
     .accesskey = D
@@ -1752,13 +1677,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ni dodanih naslovov
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Gesla in samodejno izpolnjevanje
     .title = Gesla in samodejno izpolnjevanje
 preferences-passwords-autofill-header =

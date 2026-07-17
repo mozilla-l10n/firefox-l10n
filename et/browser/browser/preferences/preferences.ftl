@@ -554,8 +554,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Avaleht ja uued aknad
 home-newtabs-mode-label = Uued kaardid
-home-homepage-new-tabs =
-    .label = Uued kaardid
 home-restore-defaults =
     .label = Taasta vaikeväärtused
     .accesskey = T
@@ -587,8 +585,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Otseteed
 home-prefs-shortcuts-description = Saidid, mida oled külastanud või mille oled salvestanud
-home-prefs-shortcuts-select =
-    .aria-label = Otseteed
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsitud otseteed
 
@@ -616,8 +612,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Hiljutine tegevus
 home-prefs-recent-activity-description = Valik hiljutisi saite ja sisu
-home-prefs-recent-activity-select =
-    .aria-label = Hiljutine tegevus
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -701,8 +695,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Tagasi sätetesse
 containers-header = Konteinerkaardid
-containers-section-header =
-    .heading = Konteinerkaardid
 containers-add-button =
     .label = Lisa uus konteiner
     .accesskey = L

@@ -587,8 +587,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ہوم پیج تے نویں ونڈوز
 home-newtabs-mode-label = نویاں ٹیباں
-home-homepage-new-tabs =
-    .label = نویاں ٹیباں
 home-restore-defaults =
     .label = ڈیفالٹس بحال کرو
     .accesskey = R
@@ -624,8 +622,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = شارٹ کٹ
 home-prefs-shortcuts-description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
-home-prefs-shortcuts-select =
-    .aria-label = شارٹ کٹ
 home-prefs-shortcuts-by-option-sponsored =
     .label = سپانسر تھئے شارٹ کٹ
 
@@ -656,8 +652,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = حالیہ سرگرمی
 home-prefs-recent-activity-description = حالیہ سائٹاں تے مواد دی ہک چوݨ
-home-prefs-recent-activity-select =
-    .aria-label = حالیہ سرگرمی
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -669,11 +663,6 @@ home-prefs-weather-header =
     .label = موسم
 home-prefs-weather-description = ہک نظر وچ اڄ دی پیش گوئی
 home-prefs-weather-learn-more-link = ٻیا سِکھو
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = ایکسٹنشن ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -758,8 +747,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = ترتیباں تے واپس ونڄو
 containers-header = کنٹینر ٹیباں
-containers-section-header =
-    .heading = کنٹینر ٹیباں
 containers-add-button =
     .label = نواں کنٹینر شامل کرو
     .accesskey = A

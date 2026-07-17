@@ -229,7 +229,6 @@ backup-file-how-to-restore-header = Kako jo obnoviti:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Odprite meni aplikacije ☰ in izberite Nastavitve > Sinhronizacija
 backup-file-moz-browser-restore-step-2-1 = Kliknite "Obnovi podatke" in izberite to datoteko
-backup-file-moz-browser-restore-step-2 = Kliknite "Izberi datoteko z varnostno kopijo" in izberite to datoteko
 backup-file-moz-browser-restore-step-3 = Ko ste pozvani, znova zaženite { -brand-short-name(sklon: "tozilnik") }
 backup-file-other-browser-restore-step-1 = Prenesite in namestite { -brand-short-name(sklon: "tozilnik") }
 backup-file-download-moz-browser-button = Prenesi
@@ -237,7 +236,6 @@ backup-file-download-moz-browser-button = Prenesi
 # application menu.
 backup-file-other-browser-restore-step-2 = Zaženite { -brand-short-name(sklon: "tozilnik") }, odprite meni aplikacije ☰ in izberite Nastavitve > Sinhronizacija
 backup-file-other-browser-restore-step-3-1 = Kliknite "Obnovi podatke" in izberite to datoteko
-backup-file-other-browser-restore-step-3 = Kliknite "Izberi datoteko z varnostno kopijo" in izberite to datoteko
 backup-file-other-browser-restore-step-4 = Ko ste pozvani, znova zaženite { -brand-short-name(sklon: "tozilnik") }
 
 ## These strings are used in the about:restore and about:welcome pages

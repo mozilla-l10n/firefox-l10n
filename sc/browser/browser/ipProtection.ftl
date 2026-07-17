@@ -116,28 +116,10 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativad
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-autostart-private-checkbox =
     .label = In ventanas privadas
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

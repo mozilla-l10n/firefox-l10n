@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = Comente fàghere su recùperu:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Aberi su menù de s’aplicatzione ☰ e bae a Cunfiguratziones > Sincroniza
-backup-file-moz-browser-restore-step-2 = Incarca «Sèbera archìviu de còpia de seguresa» e seletziona custu archìviu
 backup-file-moz-browser-restore-step-3 = Torra a aviare { -brand-short-name } cando ti ddu preguntet
 backup-file-other-browser-restore-step-1 = Iscàrriga e installa { -brand-short-name }
 backup-file-download-moz-browser-button = Iscàrriga
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Avia { -brand-short-name }, aberi su menù de aplicatzione ☰ e bae a Cunfiguratziones > Sincroniza
-backup-file-other-browser-restore-step-3 = Incarca «Sèbera archìviu de còpia de seguresa» e seletziona custu archìviu
 backup-file-other-browser-restore-step-4 = Torra a aviare { -brand-short-name } cando ti ddu preguntet
 
 ## These strings are used in the about:restore and about:welcome pages

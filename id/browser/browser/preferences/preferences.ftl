@@ -637,8 +637,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Laman beranda dan jendela baru
 home-newtabs-mode-label = Tab baru
-home-homepage-new-tabs =
-    .label = Tab baru
 home-restore-defaults =
     .label = Pulihkan Bawaan
     .accesskey = B
@@ -669,15 +667,11 @@ choose-bookmark =
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
 home-prefs-content-description2 = Pilih konten yang diinginkan untuk tampil di layar { -firefox-home-brand-name } Anda.
-home-prefs-firefox-logo-header =
-    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Pencarian Web
 home-prefs-shortcuts-header =
     .label = Pintasan
 home-prefs-shortcuts-description = Situs yang Anda simpan atau kunjungi
-home-prefs-shortcuts-select =
-    .aria-label = Pintasan
 home-prefs-shortcuts-by-option-sponsored =
     .label = Pintasan bersponsor
 
@@ -708,8 +702,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Aktivitas terbaru
 home-prefs-recent-activity-description = Pilihan situs dan konten terbaru
-home-prefs-recent-activity-select =
-    .aria-label = Aktivitas terbaru
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -726,11 +718,6 @@ home-prefs-support-firefox-header =
     .label = Dukung { -brand-product-name }
 home-prefs-mission-message = Sponsor kami mendukung misi kami untuk membangun web yang lebih baik
 home-prefs-mission-message-learn-more-link = Cari tahu bagaimana
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Ekstensi ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -819,8 +806,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Kembali ke Pengaturan
 containers-header = Tab Kontainer
-containers-section-header =
-    .heading = Tab Kontainer
 containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T

@@ -493,8 +493,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ആമുഖത്താളും പുതിയ ജാലകങ്ങളും
 home-newtabs-mode-label = പുതിയ ടാബുകൾ
-home-homepage-new-tabs =
-    .label = പുതിയ ടാബുകൾ
 home-restore-defaults =
     .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
     .accesskey = R
@@ -521,45 +519,20 @@ choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = പൂമുഖം
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
 home-custom-homepage-subpage =
     .heading = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = വെബ്ബിട വിലാസം(കൾ)
-home-custom-homepage-address =
-    .placeholder = വിലാസം നല്കുക
-home-custom-homepage-address-button =
-    .label = വിലാസം ചേൎക്കുക
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = അടയാളക്കുറിപ്പുകൾ…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ഉള്ളടക്കം
 home-prefs-search-header =
     .label = വെബ് തിരയൽ
-home-prefs-search-header2 =
-    .label = തിരയുക
 home-prefs-shortcuts-header =
     .label = കുറുക്കുവഴികൾ
 home-prefs-shortcuts-description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
-home-prefs-shortcuts-select =
-    .aria-label = കുറുക്കുവഴികൾ
 home-prefs-shortcuts-by-option-sponsored =
     .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
 
@@ -587,8 +560,6 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ലോട്ടു് താളുകളെ കരുതിവച്ചു
 home-prefs-recent-activity-header =
     .label = ഒടുവിലുള്ള പ്രവൎത്തനം
-home-prefs-recent-activity-select =
-    .aria-label = ഒടുവിലുള്ള പ്രവൎത്തനം
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -600,11 +571,6 @@ home-prefs-weather-header =
 home-prefs-weather-description = ഇന്നത്തെ കാലാവസ്ഥാ പ്രവചനം ഒറ്റനോട്ടത്തിൽ
 home-prefs-weather-learn-more-link = കൂടുതല്‍ അറിയുക
 home-prefs-choose-wallpaper-link = ചുവൎക്കടലാസു തിരഞ്ഞെടുക്കുക
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = വിപുലീകരണം ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -670,8 +636,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = ക്രമീകരണങ്ങളിലേക്കു് തിരിച്ചു്
 containers-header = കണ്ടൈനര്‍ ടാബുകള്‍
-containers-section-header =
-    .heading = കണ്ടൈനര്‍ ടാബുകള്‍
 containers-add-button =
     .label = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
     .accesskey = A

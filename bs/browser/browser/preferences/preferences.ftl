@@ -652,8 +652,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Početna stranica i novi prozori
 home-newtabs-mode-label = Novi tabovi
-home-homepage-new-tabs =
-    .label = Novi tabovi
 home-restore-defaults =
     .label = Vrati na početne vrijednosti
     .accesskey = R
@@ -684,15 +682,11 @@ choose-bookmark =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
 home-prefs-content-description2 = Odaberite koji sadržaj želite na svom ekranu { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name } logo
 home-prefs-search-header =
     .label = Web pretraga
 home-prefs-shortcuts-header =
     .label = Prečice
 home-prefs-shortcuts-description = Web stranice koje sačuvate ili posjetite
-home-prefs-shortcuts-select =
-    .aria-label = Prečice
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorisane prečice
 
@@ -723,8 +717,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nedavne aktivnosti
 home-prefs-recent-activity-description = Izbor najnovijih stranica i sadržaja
-home-prefs-recent-activity-select =
-    .aria-label = Nedavne aktivnosti
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -741,11 +733,6 @@ home-prefs-support-firefox-header =
     .label = Podržite { -brand-product-name }
 home-prefs-mission-message = Naši sponzori podržavaju našu misiju izgradnje bolje web stranice
 home-prefs-mission-message-learn-more-link = Saznajte kako
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Ekstenzija ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -845,8 +832,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Povratak na postavke
 containers-header = Container tabovi
-containers-section-header =
-    .heading = Container tabovi
 containers-add-button =
     .label = Dodaj novi Container
     .accesskey = a

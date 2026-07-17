@@ -509,8 +509,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = ໜ້າທຳອິດແລະວິນໂດໃຫມ່
 home-newtabs-mode-label = ແທັບໃຫມ່
-home-homepage-new-tabs =
-    .label = ແທັບໃຫມ່
 home-restore-defaults =
     .label = ກູ້ຄືນຄ່າເລີ່ມຕົ້ນ
     .accesskey = ກ
@@ -546,8 +544,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = ທາງລັດ
 home-prefs-shortcuts-description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
-home-prefs-shortcuts-select =
-    .aria-label = ທາງລັດ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ທາງລັດສະປອນເຊີ
 
@@ -575,8 +571,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 home-prefs-recent-activity-description = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
-home-prefs-recent-activity-select =
-    .aria-label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -661,8 +655,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = ກັບໄປທີ່ການຕັ້ງຄ່າ
 containers-header = ແທັບແຍກຂໍ້ມູນ
-containers-section-header =
-    .heading = ແທັບແຍກຂໍ້ມູນ
 containers-add-button =
     .label = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
     .accesskey = A

@@ -26,9 +26,6 @@ smartwindow-document-title = Nowy rejtarik
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Woknowy typ
-    .tooltiptext = Mjazy inteligentnym a klasiskim woknom pśejś.
 ai-window-toggleview-switch-classic =
     .label = Klasiske wokno
     .value = Klasiske wokno

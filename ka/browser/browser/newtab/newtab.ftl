@@ -730,8 +730,6 @@ newtab-custom-widget-lists-toggle =
     .label = სიები
 newtab-custom-widget-timer-toggle =
     .label = წამმზომი
-newtab-custom-widget-sports-toggle =
-    .label = მსოფლიო თასი
 newtab-custom-widget-clock-toggle =
     .label = საათი
 newtab-custom-widget-sports-toggle2 =
@@ -1302,8 +1300,6 @@ newtab-sports-widget-menu-learn-more = ვრცლად
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = თვალი ადევნეთ მსოფლიო თასს
 newtab-sports-widget-get-updates = მიმდინარე შეხვედრების სიახლეები და სხვ.
-newtab-sports-widget-view-schedule =
-    .label = განრიგის ნახვა
 newtab-sports-widget-follow-teams =
     .label = გუნდის მიყოლა
 newtab-sports-widget-view-matches =

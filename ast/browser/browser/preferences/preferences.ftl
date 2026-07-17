@@ -459,8 +459,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Páxina d'aniciu y ventanes nueves
 home-newtabs-mode-label = Llingüetes nueves
-home-homepage-new-tabs =
-    .label = Llingüetes nueves
 home-restore-defaults =
     .label = Reafitar
     .accesskey = R
@@ -493,8 +491,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Atayos
 home-prefs-shortcuts-description = Sitios que guardes o visites
-home-prefs-shortcuts-select =
-    .aria-label = Atayos
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atayos patrocinaos
 
@@ -516,8 +512,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Actividá recién
 home-prefs-recent-activity-description = Una esbilla de los sitios y del conteníu recién
-home-prefs-recent-activity-select =
-    .aria-label = Actividá recién
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -599,8 +593,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Contenedores de llingüetes
-containers-section-header =
-    .heading = Contenedores de llingüetes
 containers-add-button =
     .label = Amestar un contenedor nuevu
     .accesskey = A

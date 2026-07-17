@@ -960,11 +960,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startowy bok a nowe wokna
-home-homepage-new-windows =
-    .label = Nowe wokna
 home-newtabs-mode-label = Nowe rejtariki
-home-homepage-new-tabs =
-    .label = Nowe rejtariki
 home-restore-defaults =
     .label = Standard wótnowiś
     .accesskey = S
@@ -979,9 +975,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Rozšyrjenje zastojaś
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Wubjeŕśo wěste sedło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -997,59 +990,23 @@ choose-bookmark =
     .label = Cytańske znamje wužywaś…
     .accesskey = C
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Startowy bok
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Swójski startowy bok
 home-custom-homepage-subpage =
     .heading = Swójski startowy bok
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adrese websedłow
-home-custom-homepage-address =
-    .placeholder = Adresu zapódaś
-home-custom-homepage-address-button =
-    .label = Adresu pśidaś
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Hyšći žedne websedła pśidane.
-home-custom-homepage-delete-address-button =
-    .aria-label = Adresu lašowaś
-    .title = Adresu lašowaś
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Wuměniś z
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Aktualne wócynjone boki
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Cytańske znamjenja…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } - Wopśimjeśe
 home-prefs-content-description2 = Wubjeŕśo, kótare wopśimjeśe cośo na swójej wobrazowce { -firefox-home-brand-name } měś.
-home-prefs-firefox-logo-header =
-    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Webpytanje
-home-prefs-search-header2 =
-    .label = Pytaś
 home-prefs-shortcuts-header =
     .label = Zwězanja
 home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
-home-prefs-shortcuts-select =
-    .aria-label = Zwězanja
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwězanja
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1062,9 +1019,6 @@ home-prefs-recommended-by-description-generic = Wuwześowe wopśimjeśe, kótare
 home-prefs-stories-header =
     .label = Tšojenja
 home-prefs-stories-description = Personalizěrowane tšojenja na zakłaźe wašeje aktiwity
-home-prefs-stories-header2 =
-    .label = Tšojenja
-    .description = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo
 
 ##
 
@@ -1084,8 +1038,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nejnowša aktiwita
 home-prefs-recent-activity-description = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
-home-prefs-recent-activity-select =
-    .aria-label = Nejnowša aktiwita
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1097,43 +1049,13 @@ home-prefs-weather-header =
     .label = Wjedro
 home-prefs-weather-description = Źinsajšna wjedrowa pśedpowěsć na jadno póglědnjenje
 home-prefs-weather-learn-more-link = Dalšne informacije
-home-prefs-widgets-header =
-    .label = Asistenty
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Lisćiny
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Měritko casa
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Sport
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Zeger
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } pódpěraś
 home-prefs-mission-message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 home-prefs-mission-message-learn-more-link = Zgóńśo kak
-home-prefs-mission-message2 =
-    .message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili.
 home-prefs-manage-topics-link = Temy zastojaś
-home-prefs-manage-topics-link2 =
-    .label = Temy zastojaś
 home-prefs-choose-wallpaper-link = Wubjeŕśo slězynowy wobraz
-home-prefs-choose-wallpaper-link2 =
-    .label = Wubjeŕśo slězynowy wobraz
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Aby toś te funkcije wužywał, stajśo nowe rejtariki abo nowe wokna do { -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Rozšyrjenje ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1277,8 +1199,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Slědk k nastajenjam
 containers-header = Kontejnerowe rejtariki
-containers-section-header =
-    .heading = Kontejnerowe rejtariki
 containers-add-button =
     .label = Nowy kontejner pśidaś
     .accesskey = k
@@ -1776,13 +1696,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Žedne adrese pśidane
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Gronidła a awtomatiske wupołnjenje
     .title = Gronidła a awtomatiske wupołnjenje
 preferences-passwords-autofill-header =

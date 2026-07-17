@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Как восстановить:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Откройте меню ☰ приложения и выберите «Настройки» > «Синхронизация»
 backup-file-moz-browser-restore-step-2-1 = Нажмите «Восстановить ваши данные» и выберите этот файл
-backup-file-moz-browser-restore-step-2 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-moz-browser-restore-step-3 = Перезапустите { -brand-short-name } по запросу
 backup-file-other-browser-restore-step-1 = Скачайте и установите { -brand-short-name }
 backup-file-download-moz-browser-button = Скачать
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Скачать
 # application menu.
 backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню ☰ приложения и выберите «Настройки» > «Синхронизация»
 backup-file-other-browser-restore-step-3-1 = Нажмите «Восстановить ваши данные» и выберите этот файл
-backup-file-other-browser-restore-step-3 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-other-browser-restore-step-4 = Перезапустите { -brand-short-name } по запросу
 
 ## These strings are used in the about:restore and about:welcome pages

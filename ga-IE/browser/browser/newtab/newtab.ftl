@@ -385,8 +385,6 @@ newtab-custom-widget-lists-toggle =
     .label = Liostaí
 newtab-custom-widget-timer-toggle =
     .label = Amadóir
-newtab-custom-widget-sports-toggle =
-    .label = Corn an Domhain
 newtab-custom-widget-clock-toggle =
     .label = Clog
 newtab-custom-widget-sports-toggle2 =
@@ -553,8 +551,6 @@ newtab-sports-widget-menu-learn-more = Tuilleadh eolais
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Coinnigh súil ar Chorn an Domhain
 newtab-sports-widget-get-updates = Is féidir an scéal is déanaí a fháil faoi chluichí,  agus tuilleadh.
-newtab-sports-widget-view-schedule =
-    .label = An Sceideal
 newtab-sports-widget-follow-teams =
     .label = Lean foirne
 newtab-sports-widget-view-matches =

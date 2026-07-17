@@ -957,11 +957,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = דף הבית וחלונות חדשים
-home-homepage-new-windows =
-    .label = חלונות חדשים
 home-newtabs-mode-label = לשוניות חדשות
-home-homepage-new-tabs =
-    .label = לשוניות חדשות
 home-restore-defaults =
     .label = שחזור ברירות מחדל
     .accesskey = ש
@@ -976,9 +972,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = ניהול הרחבה
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = בחירה באתר מסוים
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -994,59 +987,23 @@ choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = דף הבית
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = דף בית מותאם אישית
 home-custom-homepage-subpage =
     .heading = דף בית מותאם אישית
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = כתובות אתרי אינטרנט
-home-custom-homepage-address =
-    .placeholder = נא להכניס כתובת
-home-custom-homepage-address-button =
-    .label = הוספת כתובת
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = עדיין לא נוספו אתרים.
-home-custom-homepage-delete-address-button =
-    .aria-label = מחיקת כתובת
-    .title = מחיקת כתובת
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = החלפה עם
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = הדפים הפתוחים הנוכחיים
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = סימניות…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = תוכן { -firefox-home-brand-name }
 home-prefs-content-description2 = בחירת התוכן שיוצג ב{ -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = הסמל של { -brand-short-name }
 home-prefs-search-header =
     .label = חיפוש ברשת
-home-prefs-search-header2 =
-    .label = חיפוש
 home-prefs-shortcuts-header =
     .label = קיצורי דרך
 home-prefs-shortcuts-description = אתרים ששמרת או ביקרת בהם
-home-prefs-shortcuts-select =
-    .aria-label = קיצורי דרך
 home-prefs-shortcuts-by-option-sponsored =
     .label = קיצורי דרך ממומנים
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1059,9 +1016,6 @@ home-prefs-recommended-by-description-generic = תוכן יוצא דופן שנ�
 home-prefs-stories-header =
     .label = סיפורים
 home-prefs-stories-description = סיפורים מותאמים אישית המבוססים על הפעילות שלך
-home-prefs-stories-header2 =
-    .label = סיפורים
-    .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
 
 ##
 
@@ -1081,8 +1035,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = פעילות אחרונה
 home-prefs-recent-activity-description = מבחר של אתרים ותכנים אחרונים
-home-prefs-recent-activity-select =
-    .aria-label = פעילות אחרונה
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1094,43 +1046,13 @@ home-prefs-weather-header =
     .label = מזג אוויר
 home-prefs-weather-description = תחזית היום במבט חטוף
 home-prefs-weather-learn-more-link = מידע נוסף
-home-prefs-widgets-header =
-    .label = ווידג’טים
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = רשימות
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = שעון עצר
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = ספורט
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = שעון
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }
 home-prefs-mission-message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר
 home-prefs-mission-message-learn-more-link = כיצד?
-home-prefs-mission-message2 =
-    .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link = ניהול נושאים
-home-prefs-manage-topics-link2 =
-    .label = ניהול נושאים
 home-prefs-choose-wallpaper-link = בחירת תמונת רקע
-home-prefs-choose-wallpaper-link2 =
-    .label = בחירת תמונת רקע
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = כדי להשתמש באפשרויות אלה, יש להגדיר את הלשונית החדשה או חלונות חדשים כ{ -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = הרחבה ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1272,8 +1194,6 @@ search-section =
 containers-back-button2 =
     .aria-label = חזרה להגדרות
 containers-header = מגירת לשוניות
-containers-section-header =
-    .heading = מגירת לשוניות
 containers-add-button =
     .label = הוספת מגירה חדשה
     .accesskey = מ
@@ -1771,13 +1691,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = לא נוספו כתובות
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = ססמאות ומילוי אוטומטי
     .title = ססמאות ומילוי אוטומטי
 preferences-passwords-autofill-header =

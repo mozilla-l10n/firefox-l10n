@@ -2,12 +2,3 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## WebAuthn prompts
-
-webauthn-cancel = لقو
-    .accesskey = c
-webauthn-allow = هشتن
-    .accesskey = A
-webauthn-block = مسدۊد کردن
-    .accesskey = B

@@ -483,8 +483,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pàgina d'inici i finestres noves
 home-newtabs-mode-label = Pestanyes noves
-home-homepage-new-tabs =
-    .label = Pestanyes noves
 home-restore-defaults =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -516,8 +514,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Dreceres
 home-prefs-shortcuts-description = Llocs que guardeu o visiteu
-home-prefs-shortcuts-select =
-    .aria-label = Dreceres
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
 
@@ -543,8 +539,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activitat recent
 home-prefs-recent-activity-description = Una selecció de continguts i llocs recents
-home-prefs-recent-activity-select =
-    .aria-label = Activitat recent
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -628,8 +622,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Torna als paràmetres
 containers-header = Pestanyes de contenidor
-containers-section-header =
-    .heading = Pestanyes de contenidor
 containers-add-button =
     .label = Afig un contenidor nou
     .accesskey = A

@@ -375,8 +375,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Página nuu kajie´e ji ventanas jíía
 home-newtabs-mode-label = Da pestaña jíía
-home-homepage-new-tabs =
-    .label = Da pestaña jíía
 home-restore-defaults =
     .label = Natee tuku predeterminados
     .accesskey = R
@@ -408,8 +406,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Atajos
 home-prefs-shortcuts-description = Da nuu chuva´anu a xíín ne´yanu
-home-prefs-shortcuts-select =
-    .aria-label = Atajos
 home-prefs-shortcuts-by-option-sponsored =
     .label = Da atajo íyo patrocinado
 
@@ -433,8 +429,6 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Páginas nchuva´a { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Da a skuata nsá´á
-home-prefs-recent-activity-select =
-    .aria-label = Da a skuata nsá´á
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -504,8 +498,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Pestañas contenedoras
-containers-section-header =
-    .heading = Pestañas contenedoras
 containers-add-button =
     .label = Tee iin contenedor jíía
     .accesskey = A

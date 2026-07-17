@@ -26,9 +26,6 @@ smartwindow-document-title = 開新分頁
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = 視窗欸型
-    .tooltiptext = 切換使用智慧或傳統視窗。
 ai-window-toggleview-switch-classic =
     .label = 傳統視窗
     .value = 傳統視窗

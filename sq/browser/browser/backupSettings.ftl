@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = Si të rikthehet:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Hapni menunë ☰ të aplikacionit dhe kaloni te Rregullime > Njëkohësim
-backup-file-moz-browser-restore-step-2 = Klikoni “Zgjidhni kartelë kopjeruajtjeje” dhe përzgjidhni këtë kartelë
 backup-file-moz-browser-restore-step-3 = Rinisni { -brand-short-name }-in kur t’ju kërkohet
 backup-file-other-browser-restore-step-1 = Shkarkoni dhe instaloni { -brand-short-name }-in
 backup-file-download-moz-browser-button = Shkarkoje
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Nisni { -brand-short-name }-in, hapni menunë ☰ e aplikacionit dhe kaloni te Rregullime > Njëkohësim
-backup-file-other-browser-restore-step-3 = Klikoni “Zgjidhni kartelë kopjeruajtjeje” dhe përzgjidhni këtë kartelë
 backup-file-other-browser-restore-step-4 = Rinisni { -brand-short-name }-in kur t’ju kërkohet
 
 ## These strings are used in the about:restore and about:welcome pages

@@ -122,8 +122,6 @@ network-proxy-connection-learn-more = Skua'a kuakaa
 ## Custom Homepage subpage
 
 home-newtabs-mode-label = Xikua tsa'a
-home-homepage-new-tabs =
-    .label = Xikua tsa'a
 home-restore-defaults =
     .label = Nchiko tana ntsikai
     .accesskey = N

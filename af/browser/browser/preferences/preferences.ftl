@@ -313,8 +313,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Tuisblad en nuwe vensters
 home-newtabs-mode-label = Nuwe oortjies
-home-homepage-new-tabs =
-    .label = Nuwe oortjies
 home-mode-choice-blank =
     .label = Leë bladsy
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -388,8 +386,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Konteksoortjies
-containers-section-header =
-    .heading = Konteksoortjies
 containers-add-button =
     .label = Voeg nuwe konteks by
     .accesskey = V

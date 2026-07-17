@@ -332,8 +332,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Laman home dan window barô
 home-newtabs-mode-label = Tab barô
-home-homepage-new-tabs =
-    .label = Tab barô
 home-restore-defaults =
     .label = Peubalek Baku
     .accesskey = P
@@ -441,8 +439,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Tab Kontainer
-containers-section-header =
-    .heading = Tab Kontainer
 containers-add-button =
     .label = Tamah Kontainer Barô
     .accesskey = T

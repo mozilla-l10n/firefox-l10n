@@ -320,8 +320,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = གཙོ་ངོས་དང་འཆར་སྒྲོམ་གསར་བ
 home-newtabs-mode-label = ཡན་ལག་ངོས་གསར་བ
-home-homepage-new-tabs =
-    .label = ཡན་ལག་ངོས་གསར་བ
 home-restore-defaults =
     .label = སྔོན་སྒྲིག་སླར་གསོ
     .accesskey = R
@@ -397,8 +395,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Container Tabs
-containers-section-header =
-    .heading = Container Tabs
 containers-add-button =
     .label = Add New Container
     .accesskey = A

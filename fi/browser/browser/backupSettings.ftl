@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Näin palautat:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Avaa sovellusvalikko ☰ ja siirry kohtaan Asetukset > Synkronointi
 backup-file-moz-browser-restore-step-2-1 = Napsauta “Palauta tietosi” ja valitse tämä tiedosto
-backup-file-moz-browser-restore-step-2 = Napsauta "Valitse varmuuskopiotiedosto" ja valitse tämä tiedosto
 backup-file-moz-browser-restore-step-3 = Käynnistä { -brand-short-name } uudelleen, kun sitä kysytään
 backup-file-other-browser-restore-step-1 = Lataa ja asenna { -brand-short-name }
 backup-file-download-moz-browser-button = Lataa
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Lataa
 # application menu.
 backup-file-other-browser-restore-step-2 = Käynnistä { -brand-short-name }, avaa sovellusvalikko ☰ ja siirry kohtaan Asetukset > Synkronointi
 backup-file-other-browser-restore-step-3-1 = Napsauta “Palauta tietosi” ja valitse tämä tiedosto
-backup-file-other-browser-restore-step-3 = Napsauta "Valitse varmuuskopiotiedosto" ja valitse tämä tiedosto
 backup-file-other-browser-restore-step-4 = Käynnistä { -brand-short-name } uudelleen, kun sitä kysytään
 
 ## These strings are used in the about:restore and about:welcome pages

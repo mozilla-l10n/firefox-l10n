@@ -26,9 +26,6 @@ smartwindow-document-title = Filă nouă
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Tip fereastră
-    .tooltiptext = Comută între ferestrele Smart și Classic.
 ai-window-toggleview-switch-classic =
     .label = Fereastră clasică
     .value = Fereastră clasică

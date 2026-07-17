@@ -229,7 +229,6 @@ backup-file-how-to-restore-header = Cemût ripristinâ:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Vierç il menù de aplicazion ☰ e va in Impostazions > Sincronizazion
 backup-file-moz-browser-restore-step-2-1 = Fâs clic su “Ripristine i tiei dâts” e selezione chest file
-backup-file-moz-browser-restore-step-2 = Fâs clic su “Sielç file di backup” e selezione chest file
 backup-file-moz-browser-restore-step-3 = Torne invie { -brand-short-name } cuant che ti ven domandât
 backup-file-other-browser-restore-step-1 = Discjame e instale { -brand-short-name }
 backup-file-download-moz-browser-button = Discjame
@@ -237,7 +236,6 @@ backup-file-download-moz-browser-button = Discjame
 # application menu.
 backup-file-other-browser-restore-step-2 = Invie { -brand-short-name }, vierç il menù de aplicazion ☰ e va in Impostazions > Sincronizazion
 backup-file-other-browser-restore-step-3-1 = Fâs clic su “Ripristine i tiei dâts” e selezione chest file
-backup-file-other-browser-restore-step-3 = Fâs clic su “Sielç file di backup” e selezione chest file
 backup-file-other-browser-restore-step-4 = Torne invie { -brand-short-name } cuant che ti ven domandât
 
 ## These strings are used in the about:restore and about:welcome pages

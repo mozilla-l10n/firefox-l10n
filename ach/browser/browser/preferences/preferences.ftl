@@ -357,8 +357,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Potbuk me acakki ki dirica manyen
 home-newtabs-mode-label = Dirica matino manyen
-home-homepage-new-tabs =
-    .label = Dirica matino manyen
 home-restore-defaults =
     .label = Dwok makwongo
     .accesskey = D
@@ -472,8 +470,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Dirica matidi me mako jami
-containers-section-header =
-    .heading = Dirica matidi me mako jami
 containers-add-button =
     .label = Med lamak jami manyen
     .accesskey = e

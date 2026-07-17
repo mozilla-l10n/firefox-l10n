@@ -772,8 +772,6 @@ newtab-custom-widget-lists-toggle =
     .label = Rhestrau
 newtab-custom-widget-timer-toggle =
     .label = Amserydd
-newtab-custom-widget-sports-toggle =
-    .label = Cwpan y Byd
 newtab-custom-widget-clock-toggle =
     .label = Cloc
 newtab-custom-widget-sports-toggle2 =
@@ -1352,8 +1350,6 @@ newtab-sports-widget-menu-learn-more = Dysgu rhagor
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Cadw golwg ar Gwpan y Byd
 newtab-sports-widget-get-updates = Cael diweddariadau gemau byw a mwy.
-newtab-sports-widget-view-schedule =
-    .label = Gweld yr amserlen
 newtab-sports-widget-follow-teams =
     .label = Dilyn timau
 newtab-sports-widget-view-matches =

@@ -228,14 +228,12 @@ backup-file-how-to-restore-header = كيفية الاستعادة:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = افتح قائمة التطبيق ☰ وانتقل إلى الإعدادات > المزامنة
-backup-file-moz-browser-restore-step-2 = انقر فوق "اختر ملف النسخة الاحتياطية" وحدّد هذا الملف
 backup-file-moz-browser-restore-step-3 = أعد تشغيل { -brand-short-name } عند الطلب
 backup-file-other-browser-restore-step-1 = نزّل وثبِّت { -brand-short-name }
 backup-file-download-moz-browser-button = نزّل
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = شغِّل { -brand-short-name }، وافتح قائمة التطبيق ☰ وانتقل إلى الإعدادات > المزامنة
-backup-file-other-browser-restore-step-3 = انقر فوق "اختر ملف النسخة الاحتياطية" وحدّد هذا الملف
 backup-file-other-browser-restore-step-4 = أعد تشغيل { -brand-short-name } عند الطلب
 
 ## These strings are used in the about:restore and about:welcome pages

@@ -26,9 +26,6 @@ smartwindow-document-title = Nowy rajtark
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Woknowy typ
-    .tooltiptext = Mjez inteligentnym a klasiskim woknom přepinać.
 ai-window-toggleview-switch-classic =
     .label = Klasiske wokno
     .value = Klasiske wokno

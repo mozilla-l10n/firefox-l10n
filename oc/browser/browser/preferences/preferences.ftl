@@ -601,11 +601,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina d’acuèlh e novèlas fenèstras
-home-homepage-new-windows =
-    .label = Fenèstra novèla
 home-newtabs-mode-label = Onglets novèls
-home-homepage-new-tabs =
-    .label = Onglets novèls
 home-restore-defaults =
     .label = Restablir los paramètres per defaut
     .accesskey = R
@@ -641,8 +637,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Acorchis
 home-prefs-shortcuts-description = Los sites qu’enregistratz o consultatz
-home-prefs-shortcuts-select =
-    .aria-label = Acorchis
 home-prefs-shortcuts-by-option-sponsored =
     .label = Acorchis pairinejats
 
@@ -670,8 +664,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activitat recenta
 home-prefs-recent-activity-description = Una seleccion de sites e contenguts recents
-home-prefs-recent-activity-select =
-    .aria-label = Activitat recenta
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -682,11 +674,6 @@ home-prefs-snippets-description-new = Astúcias e novetats de { -vendor-short-na
 home-prefs-weather-header =
     .label = Metèo
 home-prefs-weather-learn-more-link = Ne saber mai
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extension ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -774,8 +761,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Tornar als paramètres
 containers-header = Onglets de contenedor
-containers-section-header =
-    .heading = Onglets de contenedor
 containers-add-button =
     .label = Apondre un contenedor novèl
     .accesskey = A

@@ -328,8 +328,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = गृहपृष्ठ तथा नयाँ संझ्यालहरु
 home-newtabs-mode-label = नयाँ ट्याबहरु
-home-homepage-new-tabs =
-    .label = नयाँ ट्याबहरु
 home-restore-defaults =
     .label = पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्
     .accesskey = R
@@ -435,8 +433,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = कन्टेनर ट्याबहरू
-containers-section-header =
-    .heading = कन्टेनर ट्याबहरू
 containers-add-button =
     .label = नयाँ कन्टेनर थप्नुहोस्
     .accesskey = A

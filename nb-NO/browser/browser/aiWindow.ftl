@@ -26,9 +26,6 @@ smartwindow-document-title = Ny fane
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Vindustype
-    .tooltiptext = Bytt mellom smart vindu og klassisk vindu.
 ai-window-toggleview-switch-classic =
     .label = Klassisk vindu
     .value = Klassisk vindu

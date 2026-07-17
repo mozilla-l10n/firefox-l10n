@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Kak wobnowić:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Wočińće nałoženski meni ☰ a přeńdźće k Nastajenja > Synchronizować
 backup-file-moz-browser-restore-step-2-1 = Klikńće na „Waše daty wobnowić“ a wubjerće tutu dataju
-backup-file-moz-browser-restore-step-2 = Klikńće na „Zawěsćensku dataju wubrać“ a wubjerće tutu dataju
 backup-file-moz-browser-restore-step-3 = Startujće { -brand-short-name } znowa, hdyž namołwu dóstawaće
 backup-file-other-browser-restore-step-1 = Sćehńće a instalujće { -brand-short-name }
 backup-file-download-moz-browser-button = Sćahnyć
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Sćahnyć
 # application menu.
 backup-file-other-browser-restore-step-2 = Startujće { -brand-short-name }, wočińće nałoženski meni ☰  a přeńdźće k Nastajenja > Synchronizować
 backup-file-other-browser-restore-step-3-1 = Klikńće na „Waše daty wobnowić“ a wubjerće tutu dataju
-backup-file-other-browser-restore-step-3 = Klikńće na „Zawěsćensku dataju wubrać“ a wubjerće tutu dataju
 backup-file-other-browser-restore-step-4 = Startujće { -brand-short-name } znowa, hdyž namołwu dóstawaće
 
 ## These strings are used in the about:restore and about:welcome pages

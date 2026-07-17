@@ -26,9 +26,6 @@ smartwindow-document-title = Нови језичак
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Врста прозора
-    .tooltiptext = Промените између паметних и обичних прозора.
 ai-window-toggleview-switch-classic =
     .label = Обични прозор
     .value = Обични прозор

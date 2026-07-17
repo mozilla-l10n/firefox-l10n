@@ -365,8 +365,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = મુખ્ય પૃષ્ઠ અને નવી વિંડોઝ
 home-newtabs-mode-label = નવી ટૅબ્સ
-home-homepage-new-tabs =
-    .label = નવી ટૅબ્સ
 home-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
     .accesskey = R
@@ -480,8 +478,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = કન્ટેઈનર ટેબ્સ
-containers-section-header =
-    .heading = કન્ટેઈનર ટેબ્સ
 containers-add-button =
     .label = નવું કન્ટેઈનર ઉમેરો
     .accesskey = A

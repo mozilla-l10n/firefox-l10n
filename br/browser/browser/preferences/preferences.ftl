@@ -567,8 +567,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pennbajenn ha prenestroù nevez
 home-newtabs-mode-label = Ivinelloù nevez
-home-homepage-new-tabs =
-    .label = Ivinelloù nevez
 home-restore-defaults =
     .label = Assav an arventennoù dre ziouer
     .accesskey = A
@@ -597,15 +595,11 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-firefox-logo-header =
-    .label = Logo { -brand-short-name }
 home-prefs-search-header =
     .label = Klask web
 home-prefs-shortcuts-header =
     .label = Berradennoù
 home-prefs-shortcuts-description = Lec’hiennoù a enrollit pe a weladennit
-home-prefs-shortcuts-select =
-    .aria-label = Berradennoù
 home-prefs-shortcuts-by-option-sponsored =
     .label = Berradennoù paeroniet
 
@@ -633,8 +627,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Oberiantiz a-nevez
 home-prefs-recent-activity-description = Un dibab a lec’hiennoù ha danvez nevez
-home-prefs-recent-activity-select =
-    .aria-label = Oberiantiz a-nevez
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -648,11 +640,6 @@ home-prefs-weather-learn-more-link = Gouzout hiroc’h
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Skoazellit { -brand-product-name }
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Askouezh ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -735,8 +722,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Distreiñ d’an arventennoù
 containers-header = Ivinelloù endalc'her
-containers-section-header =
-    .heading = Ivinelloù endalc'her
 containers-add-button =
     .label = Ouzhpennañ un endalc'her nevez
     .accesskey = O

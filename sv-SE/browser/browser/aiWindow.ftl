@@ -26,9 +26,6 @@ smartwindow-document-title = Ny flik
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Fönstertyp
-    .tooltiptext = Växla mellan smarta och klassiska fönster.
 ai-window-toggleview-switch-classic =
     .label = Klassiskt fönster
     .value = Klassiskt fönster

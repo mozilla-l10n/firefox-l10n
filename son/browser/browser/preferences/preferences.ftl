@@ -310,8 +310,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Diikey kanjey
-containers-section-header =
-    .heading = Diikey kanjey
 containers-add-button =
     .label = Sun taaga tonton
     .accesskey = o

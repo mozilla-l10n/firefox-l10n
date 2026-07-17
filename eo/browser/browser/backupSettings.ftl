@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Kiel restarigi:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Malfermu la menuon de programo ☰ kaj iru al Agordoj > Spegulado
 backup-file-moz-browser-restore-step-2-1 = Alklaku sur “Restarigi viajn datumojn” kaj elektu tiun ĉi dosieron
-backup-file-moz-browser-restore-step-2 = Alklaku sur “Elekti sekurkopian dosieron” kaj elektu tiun ĉi dosieron
 backup-file-moz-browser-restore-step-3 = Restartigu { -brand-short-name } kiam oni tion petos
 backup-file-other-browser-restore-step-1 = Elŝutu kaj instalu { -brand-short-name }
 backup-file-download-moz-browser-button = Elŝuti
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Elŝuti
 # application menu.
 backup-file-other-browser-restore-step-2 = Komendu { -brand-short-name }, malfermu la menuon de programo ☰ kaj iru al Agordoj > Spegulado
 backup-file-other-browser-restore-step-3-1 = Alklaku sur “Restarigi viajn datumojn” kaj elektu tiun ĉi dosieron
-backup-file-other-browser-restore-step-3 = Alklaku sur “Elekti sekurkopian dosieron” kaj elektu tiun ĉi dosieron
 backup-file-other-browser-restore-step-4 = Restartigu { -brand-short-name } kiam oni tion petos
 
 ## These strings are used in the about:restore and about:welcome pages

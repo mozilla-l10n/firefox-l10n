@@ -957,11 +957,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Үй парағы және жаңа терезелер
-home-homepage-new-windows =
-    .label = Жаңа терезелер
 home-newtabs-mode-label = Жаңа беттер
-home-homepage-new-tabs =
-    .label = Жаңа беттер
 home-restore-defaults =
     .label = Бастапқы мәндерін қайтару
     .accesskey = ы
@@ -976,9 +972,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Кеңейтуді басқару
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Белгілі бір сайтты таңдау
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -994,59 +987,23 @@ choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Үй парағы
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Арнайы басты бет
 home-custom-homepage-subpage =
     .heading = Арнайы басты бет
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Веб-сайт адрес(тер)і
-home-custom-homepage-address =
-    .placeholder = Адресті енгізу
-home-custom-homepage-address-button =
-    .label = Адресті қосу
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Әлі ешқандай веб-сайт қосылмаған.
-home-custom-homepage-delete-address-button =
-    .aria-label = Адресті өшіру
-    .title = Адресті өшіру
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Немен алмастыру
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Ағымдағы ашық беттер
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Бетбелгілер…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } мазмұны
 home-prefs-content-description2 = { -firefox-home-brand-name } үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name } логотипі
 home-prefs-search-header =
     .label = Интернеттен іздеу
-home-prefs-search-header2 =
-    .label = Іздеу
 home-prefs-shortcuts-header =
     .label = Жарлықтар
 home-prefs-shortcuts-description = Сіз сақтайтын немесе шолатын сайттар
-home-prefs-shortcuts-select =
-    .aria-label = Жарлықтар
 home-prefs-shortcuts-by-option-sponsored =
     .label = Демеушілік жарлықтары
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1059,9 +1016,6 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } отба
 home-prefs-stories-header =
     .label = Хикаялар
 home-prefs-stories-description = Әрекетіңізге негізделген жекелендірілген хикаялар
-home-prefs-stories-header2 =
-    .label = Хикаялар
-    .description = { -brand-product-name } отбасының таңдауы бойынша ұсынылған ерекше мазмұн
 
 ##
 
@@ -1081,8 +1035,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Соңғы белсенділігі
 home-prefs-recent-activity-description = Жуырдағы сайттар мен құрама таңдауы
-home-prefs-recent-activity-select =
-    .aria-label = Соңғы белсенділігі
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1094,43 +1046,13 @@ home-prefs-weather-header =
     .label = Ауа райы
 home-prefs-weather-description = Бүгінгі қысқаша болжам
 home-prefs-weather-learn-more-link = Көбірек білу
-home-prefs-widgets-header =
-    .label = Виджеттер
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Тізімдер
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Таймер
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Спорт
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Сағат
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
 home-prefs-mission-message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді
 home-prefs-mission-message-learn-more-link = Қалай екенін білу
-home-prefs-mission-message2 =
-    .message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді.
 home-prefs-manage-topics-link = Темаларды басқару
-home-prefs-manage-topics-link2 =
-    .label = Темаларды басқару
 home-prefs-choose-wallpaper-link = Тұсқағазды таңдау
-home-prefs-choose-wallpaper-link2 =
-    .label = Тұсқағазды таңдау
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Бұл мүмкіндіктерді пайдалану үшін жаңа беттерді немесе жаңа терезелерді { -firefox-home-brand-name } күйіне орнатыңыз.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Кеңейту ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1272,8 +1194,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Баптауларға оралу
 containers-header = Контейнер беттері
-containers-section-header =
-    .heading = Контейнер беттері
 containers-add-button =
     .label = Жаңа контейнерді қосу
     .accesskey = а
@@ -1771,13 +1691,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ешқандай адрес қосылмады
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Парольдер және автотолтыру
     .title = Парольдер және автотолтыру
 preferences-passwords-autofill-header =

@@ -698,8 +698,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Pagina da partenza e novas fanestras
 home-newtabs-mode-label = Novs tabs
-home-homepage-new-tabs =
-    .label = Novs tabs
 home-restore-defaults =
     .label = Restaurar il standard
     .accesskey = R
@@ -734,46 +732,18 @@ choose-bookmark =
 home-custom-homepage-header = Pagina iniziala persunalisada
 home-custom-homepage-subpage =
     .heading = Pagina iniziala persunalisada
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adressa(s) da website(s)
-home-custom-homepage-address =
-    .placeholder = Endatar in’adressa
-home-custom-homepage-address-button =
-    .label = Agiuntar in’adressa
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Anc n’agiuntà naginas websites.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Remplazzar cun
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Paginas avertas actualmain
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Segnapaginas…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
 home-prefs-content-description2 = Tscherna il cuntegn che ti vuls vesair sin la { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = Logo da { -brand-short-name }
 home-prefs-search-header =
     .label = Tschertga web
-home-prefs-search-header2 =
-    .label = Tschertgar
 home-prefs-shortcuts-header =
     .label = Scursanidas
 home-prefs-shortcuts-description = Websites che ti memoriseschas u visitas
-home-prefs-shortcuts-select =
-    .aria-label = Scursanidas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scursanidas sponsuradas
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -786,9 +756,6 @@ home-prefs-recommended-by-description-generic = Cuntegns excepziunals tschernids
 home-prefs-stories-header =
     .label = Artitgels
 home-prefs-stories-description = Artitgels persunalisads a basa da tia activitad
-home-prefs-stories-header2 =
-    .label = Artitgels
-    .description = Cuntegn excepziunal tschernì da la glieud da { -brand-product-name }
 
 ##
 
@@ -808,8 +775,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Activitad recenta
 home-prefs-recent-activity-description = Ina selecziun da websites e cuntegn visità dacurt
-home-prefs-recent-activity-select =
-    .aria-label = Activitad recenta
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -821,28 +786,13 @@ home-prefs-weather-header =
     .label = Aura
 home-prefs-weather-description = La previsiun da l’aura actuala en in’egliada
 home-prefs-weather-learn-more-link = Ulteriuras infurmaziuns
-home-prefs-widgets-header =
-    .label = Widgets
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Glistas
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Svegliarin
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Sustegnair { -brand-product-name }
 home-prefs-mission-message = Noss sponsurs sustegnan noss engaschi per crear in meglier web
 home-prefs-mission-message-learn-more-link = Vegnir a savair co quai va
-home-prefs-mission-message2 =
-    .message = Noss sponsurs sustegnan noss engaschi per crear in meglier web.
 home-prefs-manage-topics-link = Administrar ils temas
 home-prefs-choose-wallpaper-link = Tscherna in maletg dal fund davos
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extensiun ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -946,8 +896,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Turnar als parameters
 containers-header = Tabs da container
-containers-section-header =
-    .heading = Tabs da container
 containers-add-button =
     .label = Agiuntar in nov container
     .accesskey = A

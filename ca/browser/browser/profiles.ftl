@@ -75,9 +75,6 @@ profiles-system-theme-title =
 profiles-ocean-theme-2 = Blau marí
 profiles-gray-theme = Gris
 
-## Data collection settings changed (multi-profile)
-
-
 ## Alternative text for default profile icons
 
 book-avatar-alt =
@@ -99,6 +96,3 @@ custom-avatar-crop-back-button =
     .aria-label = Enrere
 profiles-appmenu-callout-tour-title = El perfil nou ja està a punt
 bike-avatar = Bicicleta
-
-## Tooltips for default avatar icons
-

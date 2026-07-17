@@ -26,9 +26,6 @@ smartwindow-document-title = Uusi välilehti
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Ikkunan tyyppi
-    .tooltiptext = Vaihda älykkäiden ja perinteisten ikkunoiden välillä.
 ai-window-toggleview-switch-classic =
     .label = Perinteinen ikkuna
     .value = Perinteinen ikkuna

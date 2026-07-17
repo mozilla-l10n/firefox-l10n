@@ -651,8 +651,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Upphafssíða og nýir gluggar
 home-newtabs-mode-label = Nýir flipar
-home-homepage-new-tabs =
-    .label = Nýir flipar
 home-restore-defaults =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
@@ -683,15 +681,11 @@ choose-bookmark =
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
 home-prefs-content-description2 = Veldu hvaða efni þú vilt á '{ -firefox-home-brand-name }'-skjánum þínum.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name }-táknmerki
 home-prefs-search-header =
     .label = Vefleit
 home-prefs-shortcuts-header =
     .label = Flýtileiðir
 home-prefs-shortcuts-description = Vefsvæði sem þú vistar eða heimsækir
-home-prefs-shortcuts-select =
-    .aria-label = Flýtileiðir
 home-prefs-shortcuts-by-option-sponsored =
     .label = Kostaðar flýtileiðir
 
@@ -722,8 +716,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nýleg virkni
 home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
-home-prefs-recent-activity-select =
-    .aria-label = Nýleg virkni
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -740,11 +732,6 @@ home-prefs-support-firefox-header =
     .label = Styddu við { -brand-product-name }
 home-prefs-mission-message = Styrktaraðilar okkar styðja markmið okkar að byggja upp betri vef
 home-prefs-mission-message-learn-more-link = Finndu út hvernig
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Forritsauki ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -839,8 +826,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Til baka í stillingar
 containers-header = Sérefnisflipar
-containers-section-header =
-    .heading = Sérefnisflipar
 containers-add-button =
     .label = Bæta við nýju sérefni
     .accesskey = a

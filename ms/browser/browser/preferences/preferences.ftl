@@ -349,8 +349,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Laman dan tetingkap baru
 home-newtabs-mode-label = Tab baru
-home-homepage-new-tabs =
-    .label = Tab baru
 home-restore-defaults =
     .label = Pulih Piawai
     .accesskey = P
@@ -460,8 +458,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Tab Penyimpan
-containers-section-header =
-    .heading = Tab Penyimpan
 containers-add-button =
     .label = Tambah Penyimpan Baru
     .accesskey = A

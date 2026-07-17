@@ -553,8 +553,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Dōmowo strōna i nowe ôkna
 home-newtabs-mode-label = Nowe karty
-home-homepage-new-tabs =
-    .label = Nowe karty
 home-restore-defaults =
     .label = Wrōć bazowe
     .accesskey = W
@@ -588,8 +586,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Skrōty
 home-prefs-shortcuts-description = Spamiyntane i nawiydzane strōny
-home-prefs-shortcuts-select =
-    .aria-label = Skrōty
 home-prefs-shortcuts-by-option-sponsored =
     .label = Spōnsorowane skrōty
 
@@ -615,8 +611,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Niydowno aktywność
 home-prefs-recent-activity-description = Wybōr z niydownych strōn i zawartości
-home-prefs-recent-activity-select =
-    .aria-label = Niydowno aktywność
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -701,8 +695,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Nazod do sztalōnkōw
 containers-header = Kōntynerowe karty
-containers-section-header =
-    .heading = Kōntynerowe karty
 containers-add-button =
     .label = Przidej nowy kōntyner
     .accesskey = P

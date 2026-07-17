@@ -26,9 +26,6 @@ smartwindow-document-title = Nieuw tabblad
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Venstertype
-    .tooltiptext = Wisselen tussen Slimme en klassieke vensters
 ai-window-toggleview-switch-classic =
     .label = Klassiek venster
     .value = Klassiek venster

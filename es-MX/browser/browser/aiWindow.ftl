@@ -26,9 +26,6 @@ smartwindow-document-title = Nueva pestaña
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Tipo de ventana
-    .tooltiptext = Cambiar entre ventanas inteligentes y clásicas.
 ai-window-toggleview-switch-classic =
     .label = Ventana clásica
     .value = Ventana clásica

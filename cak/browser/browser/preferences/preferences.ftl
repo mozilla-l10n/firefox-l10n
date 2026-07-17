@@ -533,8 +533,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Tikirib'äl ruxaq chuqa' k'ak'a' taq tzuwäch
 home-newtabs-mode-label = K'ak'a' taq ruwi'
-home-homepage-new-tabs =
-    .label = K'ak'a' taq ruwi'
 home-restore-defaults =
     .label = Ketzolij ri E K'o wi
     .accesskey = K
@@ -570,8 +568,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Chojmin Okem
 home-prefs-shortcuts-description = Taq ruxaq xe'ayäk o xe'atz'ët
-home-prefs-shortcuts-select =
-    .aria-label = Chojmin Okem
 home-prefs-shortcuts-by-option-sponsored =
     .label = Xto' chojmin okem
 
@@ -599,8 +595,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = K'ak'a' samaj
 home-prefs-recent-activity-description = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
-home-prefs-recent-activity-select =
-    .aria-label = K'ak'a' samaj
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -684,8 +678,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Tib'an chik Runuk'ulem
 containers-header = Ajk'wayöl taq ruwi'
-containers-section-header =
-    .heading = Ajk'wayöl taq ruwi'
 containers-add-button =
     .label = Titz'aqatisäx k'ak'a' k'wayöl
     .accesskey = t

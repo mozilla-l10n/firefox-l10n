@@ -602,9 +602,6 @@ onboarding-refresh-gratitude-subtitle = Gràcies per utilitzar el { -brand-short
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vostra
 
-## Smart window switcher callout
-
-
 ## Smart Window ToU modal
 
 # Existing users

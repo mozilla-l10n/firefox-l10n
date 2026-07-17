@@ -26,9 +26,6 @@ smartwindow-document-title = Новая вкладка
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Тип окна
-    .tooltiptext = Переключайтесь между умным и классическим окнами.
 ai-window-toggleview-switch-classic =
     .label = Классическое окно
     .value = Классическое окно

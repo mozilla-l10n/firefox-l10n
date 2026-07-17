@@ -960,11 +960,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Domovská stránka a nové okná
-home-homepage-new-windows =
-    .label = Nové okná
 home-newtabs-mode-label = Nové karty
-home-homepage-new-tabs =
-    .label = Nové karty
 home-restore-defaults =
     .label = Obnoviť predvolené
     .accesskey = r
@@ -979,9 +975,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Spravovať rozšírenie
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Vyberte konkrétnu stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -997,59 +990,23 @@ choose-bookmark =
     .label = Použiť záložku…
     .accesskey = z
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Domovská stránka
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Vlastná domovská stránka
 home-custom-homepage-subpage =
     .heading = Vlastná domovská stránka
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adresy webových stránok
-home-custom-homepage-address =
-    .placeholder = Zadajte adresu
-home-custom-homepage-address-button =
-    .label = Pridať adresu
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Zatiaľ neboli pridané žiadne webové stránky.
-home-custom-homepage-delete-address-button =
-    .aria-label = Odstrániť adresu
-    .title = Odstrániť adresu
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Nahradiť s
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Aktuálne otvorené stránky
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Záložky…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Obsah na { -firefox-home-brand-name(case: "loc") }
 home-prefs-content-description2 = Zvoľte, aký obsah chcete mať dostupný na svojej { -firefox-home-brand-name(case: "loc") }.
-home-prefs-firefox-logo-header =
-    .label = Logo { -brand-short-name(case: "gen") }
 home-prefs-search-header =
     .label = Vyhľadávanie na webe
-home-prefs-search-header2 =
-    .label = Vyhľadávanie
 home-prefs-shortcuts-header =
     .label = Skratky
 home-prefs-shortcuts-description = Stránky, ktoré si uložíte alebo navštívite
-home-prefs-shortcuts-select =
-    .aria-label = Skratky
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorované skratky
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1062,9 +1019,6 @@ home-prefs-recommended-by-description-generic = Výnimočný obsah spravovaný r
 home-prefs-stories-header =
     .label = Príbehy
 home-prefs-stories-description = Prispôsobené príbehy na základe vašej aktivity
-home-prefs-stories-header2 =
-    .label = Príbehy
-    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 
 ##
 
@@ -1084,8 +1038,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Nedávna aktivita
 home-prefs-recent-activity-description = Výber z nedávno navštívených stránok a obsahu
-home-prefs-recent-activity-select =
-    .aria-label = Nedávna aktivita
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1097,43 +1049,13 @@ home-prefs-weather-header =
     .label = Počasie
 home-prefs-weather-description = Dnešná predpoveď v skratke
 home-prefs-weather-learn-more-link = Ďalšie informácie
-home-prefs-widgets-header =
-    .label = Miniaplikácie
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Zoznamy
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Časovač
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Šport
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Hodiny
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podpora pre { -brand-product-name(case: "acc") }
 home-prefs-mission-message = Naši sponzori podporujú našu misiu budovať lepší web.
 home-prefs-mission-message-learn-more-link = Pozrite sa ako
-home-prefs-mission-message2 =
-    .message = Naši sponzori podporujú našu misiu budovať lepší web.
 home-prefs-manage-topics-link = Spravovať témy
-home-prefs-manage-topics-link2 =
-    .label = Spravovať témy
 home-prefs-choose-wallpaper-link = Vybrať tapetu
-home-prefs-choose-wallpaper-link2 =
-    .label = Vybrať tapetu
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Ak chcete tieto funkcie používať, nastavte, aby sa pri otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Rozšírenie ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1276,8 +1198,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Späť na nastavenia
 containers-header = Kontajnerové karty
-containers-section-header =
-    .heading = Kontajnerové karty
 containers-add-button =
     .label = Pridať nový kontajner
     .accesskey = P
@@ -1775,13 +1695,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Zatiaľ neboli pridané žiadne adresy
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Heslá a automatické dopĺňanie
     .title = Heslá a automatické dopĺňanie
 preferences-passwords-autofill-header =

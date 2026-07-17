@@ -727,8 +727,6 @@ newtab-custom-widget-lists-toggle =
     .label = Listes
 newtab-custom-widget-timer-toggle =
     .label = Minuteur
-newtab-custom-widget-sports-toggle =
-    .label = Coupe du monde
 newtab-custom-widget-clock-toggle =
     .label = Horloge
 newtab-custom-widget-sports-toggle2 =
@@ -1299,8 +1297,6 @@ newtab-sports-widget-menu-learn-more = En savoir plus
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Gardez un œil sur la Coupe du monde
 newtab-sports-widget-get-updates = Recevez les dernières infos en direct sur les matchs et bien plus encore.
-newtab-sports-widget-view-schedule =
-    .label = Voir le calendrier
 newtab-sports-widget-follow-teams =
     .label = Suivre des équipes
 newtab-sports-widget-view-matches =

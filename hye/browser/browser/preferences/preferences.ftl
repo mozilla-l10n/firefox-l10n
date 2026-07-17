@@ -550,8 +550,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Տնէջ եւ նոր պատուհաններ
 home-newtabs-mode-label = Նոր Ներդիրներ
-home-homepage-new-tabs =
-    .label = Նոր Ներդիրներ
 home-restore-defaults =
     .label = Վերականգնել սկզբնադիր
     .accesskey = Վ
@@ -584,8 +582,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Դիւրանցումներ
 home-prefs-shortcuts-description = Կայքեր, որոնք դուք պահում էք կամ այցելում
-home-prefs-shortcuts-select =
-    .aria-label = Դիւրանցումներ
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանաւորուած դիւրանցումներ
 
@@ -611,8 +607,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Վերջին գործողութիւնը
 home-prefs-recent-activity-description = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
-home-prefs-recent-activity-select =
-    .aria-label = Վերջին գործողութիւնը
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -696,8 +690,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Վերադառնալ կարգաւորումներին
 containers-header = Պարունակ ներդիրներ
-containers-section-header =
-    .heading = Պարունակ ներդիրներ
 containers-add-button =
     .label = Աւելացնել նոր պարունակ
     .accesskey = Ա

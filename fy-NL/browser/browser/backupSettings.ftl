@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Reparearje:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Syngronisaasje
 backup-file-moz-browser-restore-step-2-1 = Klik op ‘Jo gegevens werstelle’ en selektearje dit bestân
-backup-file-moz-browser-restore-step-2 = Klik op ‘Reservekopybestân kieze’ en selektearje dit bestân
 backup-file-moz-browser-restore-step-3 = Start { -brand-short-name } opnij as dêrom frege wurdt
 backup-file-other-browser-restore-step-1 = { -brand-short-name } downloade en ynstallearje
 backup-file-download-moz-browser-button = Downloade
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Downloade
 # application menu.
 backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Synchronisaasje
 backup-file-other-browser-restore-step-3-1 = Klik op ‘Jo gegevens werstelle’ en selektearje dit bestân
-backup-file-other-browser-restore-step-3 = Klik op ‘Reservekopybestân kieze’ en selektearje dit bestân
 backup-file-other-browser-restore-step-4 = Start { -brand-short-name } opnij as dêrom frege wurdt
 
 ## These strings are used in the about:restore and about:welcome pages

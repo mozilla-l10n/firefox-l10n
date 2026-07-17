@@ -725,8 +725,6 @@ newtab-custom-widget-lists-toggle =
     .label = Listák
 newtab-custom-widget-timer-toggle =
     .label = Időzítő
-newtab-custom-widget-sports-toggle =
-    .label = Világbajnokság
 newtab-custom-widget-clock-toggle =
     .label = Óra
 newtab-custom-widget-sports-toggle2 =
@@ -1297,8 +1295,6 @@ newtab-sports-widget-menu-learn-more = További tudnivalók
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Kövesse a világbajnokságot
 newtab-sports-widget-get-updates = Kapjon élő mérkőzésinformációkat és még sok mást.
-newtab-sports-widget-view-schedule =
-    .label = Beosztás megtekintése
 newtab-sports-widget-follow-teams =
     .label = Csapatok követése
 newtab-sports-widget-view-matches =

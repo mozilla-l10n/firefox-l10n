@@ -349,8 +349,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = အဖွင့်စာမျက်နှာနှင့် ဝင်းဒိုးအသစ်များ
 home-newtabs-mode-label = တပ်ဗ်အသစ်များ
-home-homepage-new-tabs =
-    .label = တပ်ဗ်အသစ်များ
 home-restore-defaults =
     .label = မူလအတိုင်း ပြန်ထားပါ
     .accesskey = R
@@ -463,8 +461,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = ကွန်တိန်နာတပ်ဗ်များ
-containers-section-header =
-    .heading = ကွန်တိန်နာတပ်ဗ်များ
 containers-add-button =
     .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
     .accesskey = A

@@ -483,8 +483,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Hamepage and new windaes
 home-newtabs-mode-label = New tabs
-home-homepage-new-tabs =
-    .label = New tabs
 home-restore-defaults =
     .label = Restore Staunarts
     .accesskey = R
@@ -516,8 +514,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Shortcuts
 home-prefs-shortcuts-description = Sites ye save or veesit
-home-prefs-shortcuts-select =
-    .aria-label = Shortcuts
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsored shortcuts
 
@@ -543,8 +539,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Recent activity
 home-prefs-recent-activity-description = A walin o recent sites and content
-home-prefs-recent-activity-select =
-    .aria-label = Recent activity
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -628,8 +622,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Back tae Settins
 containers-header = Conteener Tabs
-containers-section-header =
-    .heading = Conteener Tabs
 containers-add-button =
     .label = Eik On New Conteener
     .accesskey = E

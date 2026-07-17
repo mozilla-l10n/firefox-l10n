@@ -957,11 +957,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside en nije finsters
-home-homepage-new-windows =
-    .label = Nije finsters
 home-newtabs-mode-label = Nije ljepblêden
-home-homepage-new-tabs =
-    .label = Nije ljepblêden
 home-restore-defaults =
     .label = Standert werstelle
     .accesskey = w
@@ -976,9 +972,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Utwreiding beheare
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Kies in spesifike website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -994,59 +987,23 @@ choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Startside
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Oanpaste startside
 home-custom-homepage-subpage =
     .heading = Oanpaste startside
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Websiteadres(sen)
-home-custom-homepage-address =
-    .placeholder = Fier adres yn
-home-custom-homepage-address-button =
-    .label = Adres tafoegje
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Noch gjin websites tafoege.
-home-custom-homepage-delete-address-button =
-    .aria-label = Adres fuortsmite
-    .title = Adres fuortsmite
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Ferfange troch
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Aktuele iepene siden
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Blêdwizers…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-ynhâld
 home-prefs-content-description2 = Kies hokker ynhâld jo op jo { -firefox-home-brand-name }-skerm werjaan wolle.
-home-prefs-firefox-logo-header =
-    .label = { -brand-short-name }-logo
 home-prefs-search-header =
     .label = Sykje op it web
-home-prefs-search-header2 =
-    .label = Sykje
 home-prefs-shortcuts-header =
     .label = Fluchkeppelingen
 home-prefs-shortcuts-description = Bewarre of besochte websites
-home-prefs-shortcuts-select =
-    .aria-label = Fluchkeppelingen
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsore fluchkeppelingen
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1059,9 +1016,6 @@ home-prefs-recommended-by-description-generic = Utsûnderlike ynhâld, sammele t
 home-prefs-stories-header =
     .label = Ferhalen
 home-prefs-stories-description = Personalisearre ferhalen op basis fan jo aktiviteit
-home-prefs-stories-header2 =
-    .label = Ferhalen
-    .description = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
 
 ##
 
@@ -1081,8 +1035,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Resinte aktiviteit
 home-prefs-recent-activity-description = In seleksje fan resinte websites en ynhâld
-home-prefs-recent-activity-select =
-    .aria-label = Resinte aktiviteit
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1094,43 +1046,13 @@ home-prefs-weather-header =
     .label = It waar
 home-prefs-weather-description = It waar fan hjoed yn ien eachopslach.
 home-prefs-weather-learn-more-link = Mear ynfo
-home-prefs-widgets-header =
-    .label = Widgets
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Listen
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Timer
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Sport
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Klok
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } stypje
 home-prefs-mission-message = Us sponsors stypje ús misje om in better web te bouwen
 home-prefs-mission-message-learn-more-link = Lês hjir hoe
-home-prefs-mission-message2 =
-    .message = Us sponsors stypje ús misje om in better web te bouwen.
 home-prefs-manage-topics-link = Underwerpen beheare
-home-prefs-manage-topics-link2 =
-    .label = Underwerpen beheare
 home-prefs-choose-wallpaper-link = Kies in eftergrûn
-home-prefs-choose-wallpaper-link2 =
-    .label = Kies in eftergrûn
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Stel nije ljepblêden of nije finsters yn op { -firefox-home-brand-name } om dizze funksjes te brûken.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Utwreiding ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1272,8 +1194,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Tebek nei Ynstellingen
 containers-header = Kontenerljepblêden
-containers-section-header =
-    .heading = Kontenerljepblêden
 containers-add-button =
     .label = Nije kontener tafoegje
     .accesskey = A
@@ -1771,13 +1691,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Gjin adressen tafoege
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Wachtwurden en automatysk ynfolje
     .title = Wachtwurden en automatysk ynfolje
 preferences-passwords-autofill-header =

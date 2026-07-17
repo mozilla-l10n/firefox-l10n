@@ -371,8 +371,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Ev-saifesi ve yañı pencereler
 home-newtabs-mode-label = Yañı ilmekler
-home-homepage-new-tabs =
-    .label = Yañı ilmekler
 home-restore-defaults =
     .label = Ögbelgilemelerni Keri Tikle
     .accesskey = b
@@ -485,8 +483,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = Kapsayıcı sekmeler
-containers-section-header =
-    .heading = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yañı Konteyner Ekle
     .accesskey = e

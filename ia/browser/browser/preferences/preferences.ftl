@@ -957,11 +957,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina principal e nove fenestras
-home-homepage-new-windows =
-    .label = Nove fenestras
 home-newtabs-mode-label = Nove schedas
-home-homepage-new-tabs =
-    .label = Nove schedas
 home-restore-defaults =
     .label = Restaurar le predefinitiones
     .accesskey = R
@@ -976,9 +972,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gerer extension
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-button =
-    .label = Eliger un sito specific
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -994,59 +987,23 @@ choose-bookmark =
     .label = Usar marcapagina…
     .accesskey = m
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = Pagina initial
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagina initial personalisate
 home-custom-homepage-subpage =
     .heading = Pagina initial personalisate
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = Adresse(s) de sito web
-home-custom-homepage-address =
-    .placeholder = Insere adresse
-home-custom-homepage-address-button =
-    .label = Adder adresse
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-results =
-    .label = Necun sito web ancora addite
-home-custom-homepage-delete-address-button =
-    .aria-label = Deler adresse
-    .title = Deler adresse
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = Substituer con
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = Paginas actualmente aperte
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = Marcapaginas…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contentos de { -firefox-home-brand-name }
 home-prefs-content-description2 = Elige qual contento tu vole sur tu schermo { -firefox-home-brand-name }.
-home-prefs-firefox-logo-header =
-    .label = Logo de { -brand-short-name }
 home-prefs-search-header =
     .label = Recerca del Web
-home-prefs-search-header2 =
-    .label = Cercar
 home-prefs-shortcuts-header =
     .label = Accessos directe
 home-prefs-shortcuts-description = Sitos que tu salva o visita
-home-prefs-shortcuts-select =
-    .aria-label = Accessos directe
 home-prefs-shortcuts-by-option-sponsored =
     .label = Accessos directe sponsorisate
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1059,9 +1016,6 @@ home-prefs-recommended-by-description-generic = Contento exceptional curate per 
 home-prefs-stories-header =
     .label = Historias
 home-prefs-stories-description = Historias personalisate basate sur tu activitate
-home-prefs-stories-header2 =
-    .label = Historias
-    .description = Contento exceptional curate per le familia de { -brand-product-name }
 
 ##
 
@@ -1081,8 +1035,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Recente activitate
 home-prefs-recent-activity-description = Un selection de sitos e contento recente
-home-prefs-recent-activity-select =
-    .aria-label = Recente activitate
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1094,43 +1046,13 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Prevision hodierne a un colpo de oculos
 home-prefs-weather-learn-more-link = Pro saper plus
-home-prefs-widgets-header =
-    .label = Widgets
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = Listas
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = Temporisator
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = Sports
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = Horologio
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Supporta { -brand-product-name }
 home-prefs-mission-message = Nostre patrocinatores supporta nostre mission pro construer un web melior
 home-prefs-mission-message-learn-more-link = Discoperi como
-home-prefs-mission-message2 =
-    .message = Nostre patrocinatores supporta nostre mission pro construer un web melior.
 home-prefs-manage-topics-link = Gerer topicos
-home-prefs-manage-topics-link2 =
-    .label = Gerer topicos
 home-prefs-choose-wallpaper-link = Eliger un fundo de schermo
-home-prefs-choose-wallpaper-link2 =
-    .label = Eliger un fundo de schermo
-# Informational message bar that appears in the Firefox Home section when the options are disabled.
-# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
-# the features in settings.
-home-prefs-firefox-home-disabled-notice =
-    .message = Pro usar iste functionalitates, predefini nove schedas o nove fenestras pro { -firefox-home-brand-name }.
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = Extension ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1272,8 +1194,6 @@ search-section =
 containers-back-button2 =
     .aria-label = Retornar al configuration
 containers-header = Schedas contentor
-containers-section-header =
-    .heading = Schedas contentor
 containers-add-button =
     .label = Adder un nove contentor
     .accesskey = A
@@ -1771,13 +1691,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Necun adresse addite
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 pane-passwords-autofill-title2 = Contrasignos e compilation automatic
     .title = Contrasignos e compilation automatic
 preferences-passwords-autofill-header =

@@ -365,11 +365,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = ទំព័រដើម និងវីនដូថ្មី
-home-homepage-new-windows =
-    .label = បង្អួចថ្មី
 home-newtabs-mode-label = ផ្ទាំងថ្មី
-home-homepage-new-tabs =
-    .label = ផ្ទាំងថ្មី
 home-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
     .accesskey = R
@@ -393,15 +389,6 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
-
-## Custom Homepage subpage
-
-home-custom-homepage-delete-address-button =
-    .aria-label = លុបអាសយដ្ឋាន
-    .title = លុបអាសយដ្ឋាន
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = ចំណាំ…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -491,8 +478,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = ផ្ទាំង​ប្រអប់​ផ្ទុក
-containers-section-header =
-    .heading = ផ្ទាំង​ប្រអប់​ផ្ទុក
 containers-add-button =
     .label = បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី
     .accesskey = A

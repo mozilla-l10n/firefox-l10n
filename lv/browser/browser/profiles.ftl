@@ -211,6 +211,3 @@ custom-avatar-crop-back-button =
     .aria-label = Atpakaļ
 barbell-avatar = Stienis
 bike-avatar = Velosipēds
-
-## Tooltips for default avatar icons
-

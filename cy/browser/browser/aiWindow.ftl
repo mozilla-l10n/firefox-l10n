@@ -26,9 +26,6 @@ smartwindow-document-title = Tab Newydd
 
 ## Smart Window Toggle Button
 
-toolbar-button-ai-window-toggle =
-    .label = Math o Ffenestr
-    .tooltiptext = Newid rhwng ffenestri Clyfar a Chlasurol
 ai-window-toggleview-switch-classic =
     .label = Ffenest Glasurol
     .value = Ffenest Glasurol

@@ -555,11 +555,7 @@ home-default-browser-title =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = بلگه هووه ای وو نیمدری یل نۊ
-home-homepage-new-windows =
-    .label = نیمدری یل نۊ
 home-newtabs-mode-label = بلگه یل نۊ
-home-homepage-new-tabs =
-    .label = بلگه یل نۊ
 home-restore-defaults =
     .label = وورگندن پؽش فرزا
     .accesskey = R
@@ -578,51 +574,21 @@ choose-bookmark =
     .label = و کار گرؽڌن نشووک…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-home-homepage-title =
-    .label = بلگه هووه ای
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = سفارشی کردن بلگه هووه
 home-custom-homepage-subpage =
     .heading = سفارشی کردن بلگه هووه
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card-header =
-    .label = نشۊوی (ا) وبگه
-home-custom-homepage-address =
-    .placeholder = زیذن نشۊوی
-home-custom-homepage-address-button =
-    .label = ٱووردن نشۊوی
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with-prompt =
-    .label = جایونی کردن وا
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-current-pages-button =
-    .label = بلگه یل گۊشیڌه وابیڌه هیم سکویی
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
-home-custom-homepage-bookmarks-button =
-    .label = نشووکا…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
-home-prefs-firefox-logo-header =
-    .label = لوگو { -brand-short-name }
 home-prefs-search-header =
     .label = پیتینیڌن وبگه
-home-prefs-search-header2 =
-    .label = پیتینیڌن
 home-prefs-shortcuts-header =
     .label = ره نهنگا
-home-prefs-shortcuts-select =
-    .aria-label = ره نهنگا
 home-prefs-shortcuts-by-option-sponsored =
     .label = ره نهنگا هؽزگرووݩ
-home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -642,39 +608,14 @@ home-prefs-highlights-options-bookmarks =
     .label = نشووکا
 home-prefs-recent-activity-header =
     .label = فعالیتا دیندایی
-home-prefs-recent-activity-select =
-    .aria-label = فعالیتا دیندایی
 home-prefs-weather-header =
     .label = ٱو وو هوا
 home-prefs-weather-learn-more-link = قلوه دووسته بۊین
-home-prefs-widgets-header =
-    .label = ویجتا
-# Lists is a widget on New Tab, similar to a to-do widget
-home-prefs-lists-header =
-    .label = نومگه یل
-# Timer is a widget on New Tab, similar to the Pomodoro timer.
-home-prefs-timer-header =
-    .label = زمووݩ سنج
-# Sports is a widget on New Tab showing sports scores and schedules.
-home-prefs-sports-widget-header =
-    .label = ورزش
-# Clock is a widget on New Tab that displays time zones around the world.
-home-prefs-clocks-header =
-    .label = ساعت
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = لادرار { -brand-product-name }
 home-prefs-manage-topics-link = دؽوۉداری سرتالا
-home-prefs-manage-topics-link2 =
-    .label = دؽوۉداری سرتالا
 home-prefs-choose-wallpaper-link = پسند شؽوات زمینه
-home-prefs-choose-wallpaper-link2 =
-    .label = پسند شؽوات زمینه
-# Dropdown option shown when an extension replaces the contents of new windows or tabs.
-# Variables:
-#   $extension (string) - Name of the extension
-home-prefs-homepage-extension-option =
-    .label = وردنی ({ $extension })
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -947,13 +888,6 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = هیچ نشۊوی ٱوورده نوابیڌه
-# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
-# Variables:
-#   $name (string) - The name associated with the address
-#   $address (string) - The address
-address-moz-box-item =
-    .label = { $name }
-    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

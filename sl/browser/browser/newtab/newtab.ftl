@@ -661,8 +661,6 @@ newtab-custom-widget-lists-toggle =
     .label = Seznami
 newtab-custom-widget-timer-toggle =
     .label = Časovnik
-newtab-custom-widget-sports-toggle =
-    .label = Svetovno prvenstvo
 newtab-custom-widget-clock-toggle =
     .label = Ura
 newtab-custom-widget-sports-toggle2 =
@@ -1208,8 +1206,6 @@ newtab-sports-widget-menu-learn-more = Več o tem
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Spremljajte svetovno prvenstvo
 newtab-sports-widget-get-updates = V živo prejemajte obvestila o dogajanju na tekmah in še več.
-newtab-sports-widget-view-schedule =
-    .label = Prikaži razpored
 newtab-sports-widget-follow-teams =
     .label = Spremljaj ekipe
 newtab-sports-widget-view-matches =

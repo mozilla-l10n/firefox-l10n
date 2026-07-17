@@ -232,7 +232,6 @@ backup-file-how-to-restore-header = Ինչպես վերականգնել.
 # application menu.
 backup-file-moz-browser-restore-step-1 = Բացեք ծրագրի ցանկը ☰ և անցեք Կարգավորումներ » Համաժամեցում
 backup-file-moz-browser-restore-step-2-1 = Սեղմեք «Վերականգնել տվյալները» կոճակը և ընտրեք այս ֆայլը
-backup-file-moz-browser-restore-step-2 = Սեղմեք «Ընտրել պահուստային ֆայլը» և ընտրեք այս ֆայլը
 backup-file-moz-browser-restore-step-3 = Վերագործարկեք { -brand-short-name }-ը, երբ խնդրվի
 backup-file-other-browser-restore-step-1 = Ներբեռնեք և տեղադրեք { -brand-short-name }-ը
 backup-file-download-moz-browser-button = Ներբեռնել
@@ -240,7 +239,6 @@ backup-file-download-moz-browser-button = Ներբեռնել
 # application menu.
 backup-file-other-browser-restore-step-2 = Մեկնարկեք { -brand-short-name }-ը, բացեք ծրագրի ցանկը ☰ և անցեք Կարգավորումներ » Համաժամեցում
 backup-file-other-browser-restore-step-3-1 = Սեղմեք «Ընտրել պահուստային ֆայլը» և ընտրեք այս ֆայլը
-backup-file-other-browser-restore-step-3 = Սեղմեք «Ընտրեք պահուստային ֆայլը» և ընտրեք այս ֆայլը
 backup-file-other-browser-restore-step-4 = Վերագործարկել { -brand-short-name }-ը, երբ խնդրվի
 
 ## These strings are used in the about:restore and about:welcome pages

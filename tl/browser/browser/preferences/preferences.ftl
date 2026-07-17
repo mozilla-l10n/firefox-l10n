@@ -475,8 +475,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = Homepage at mga bagong window
 home-newtabs-mode-label = Mga bagong tab
-home-homepage-new-tabs =
-    .label = Mga bagong tab
 home-restore-defaults =
     .label = Ibalik sa dating ayos
     .accesskey = I
@@ -527,8 +525,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Kamakailang aktibidad
 home-prefs-recent-activity-description = Isang pagpipilian ng mga kamakailang site at nilalaman
-home-prefs-recent-activity-select =
-    .aria-label = Kamakailang aktibidad
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -612,8 +608,6 @@ search-default-engine =
 containers-back-button2 =
     .aria-label = Bumalik sa Mga Setting
 containers-header = Mga Container Tab
-containers-section-header =
-    .heading = Mga Container Tab
 containers-add-button =
     .label = Magdagdag ng Bagong Container
     .accesskey = A
