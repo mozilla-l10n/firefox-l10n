@@ -453,6 +453,7 @@ onboarding-checklist-minimize =
     .label = ჩაკეცვა
 onboarding-checklist-remove =
     .label = შესასრულებელი სიის მოცილება
+onboarding-checklist-remove-2 = შესასრულებელი სიის მოცილება
 
 ## Tab Groups feature onboarding strings
 
