@@ -54,6 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Agor y VPN
 ipprotection-feature-introduction-button-get-started = Cychwyn arni
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Cael { -mozilla-vpn-brand-name }
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Dewiswch ble rydych chi'n defnyddio VPN
