@@ -98,9 +98,12 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Velkommen til { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Hva er viktig for deg?
+aiwindow-firstrun-model-title-v2 = Velg en modell for å starte
 aiwindow-firstrun-model-subtitle = Velg en modell for { -smart-window-brand-name }. Du kan bytte når som helst.
 aiwindow-firstrun-model-fast-label = Hurtig
 aiwindow-firstrun-model-fast-body = Raske svar
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Hurtig: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version

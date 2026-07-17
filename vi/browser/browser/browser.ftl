@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Quản lý { -firefox-suggest-brand
 urlbar-result-menu-report-inaccurate-location2 = Báo cáo vị trí không chính xác
 urlbar-result-menu-show-less-frequently2 = Hiển thị ít thường xuyên hơn
 urlbar-result-menu-dont-show-weather-suggestions2 = Không hiển thị đề xuất về thời tiết
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Bỏ qua đề xuất này
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Xóa khỏi lịch sử
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Tìm hiểu thêm
     .accesskey = L
@@ -1063,6 +1073,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Từ khoá tìm kiếm bị vô hiệu hoá
 urlbar-searchmode-dropmarker2 =
     .title = Chọn công cụ tìm kiếm
+urlbar-searchmode-bookmarks3 = Dấu trang
+    .accesskey = B
+urlbar-searchmode-tabs3 = Thẻ
+    .accesskey = T
+urlbar-searchmode-history3 = Lịch sử
+    .accesskey = H
+urlbar-searchmode-actions3 = Hành động
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Dấu trang
 urlbar-searchmode-tabs2 = Thẻ
 urlbar-searchmode-history2 = Lịch sử
@@ -1082,6 +1100,10 @@ urlbar-searchmode-popup-one-off-header = Lần này, tìm kiếm với:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Tìm kiếm với:
+urlbar-searchmode-popup-search-settings = Cài đặt tìm kiếm
+    .accesskey = S
+urlbar-searchmode-popup-settings = Cài đặt
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = Cài đặt tìm kiếm
 urlbar-searchmode-popup-settings-panelitem = Cài đặt
 
