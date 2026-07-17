@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = Начать
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Открыть VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Получить { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Убрать
 
