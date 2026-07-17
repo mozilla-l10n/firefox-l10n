@@ -98,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Chào mừng đến với { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Điều gì quan trọng với bạn?
+aiwindow-firstrun-model-title-v2 = Chọn một mô hình để bắt đầu
 aiwindow-firstrun-model-subtitle = Chọn một mô hình để cung cấp năng lượng cho { -smart-window-brand-name }. Chuyển đổi bất cứ lúc nào.
+aiwindow-firstrun-model-subtitle-v2 = Mỗi mô hình có thể giúp bạn tóm tắt, so sánh và khám phá nội dung trên các thẻ. Bạn có thể chuyển đổi bất cứ lúc nào.
 aiwindow-firstrun-model-fast-label = Nhanh
 aiwindow-firstrun-model-fast-body = Trả lời nhanh chóng
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Nhanh: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Thích hợp nhất để trả lời nhanh khi bạn cần câu trả lời ngay
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Mô hình { $model } bởi { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Linh hoạt
 aiwindow-firstrun-model-allpurpose-body = Phù hợp với hầu hết các nhu cầu
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Linh hoạt: { $shortName }
+aiwindow-firstrun-model-flexible-body = Sẵn sàng cho nhiều tác vụ khác nhau
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Được đề xuất
 aiwindow-firstrun-model-personal-label = Cá nhân
 aiwindow-firstrun-model-personal-body = Câu trả lời được cá nhân hóa nhất
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Cá nhân hoá: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Được xây dựng để hỗ trợ cá nhân hóa trên nhiều ngôn ngữ
 aiwindow-firstrun-button = Bắt đầu
 aiwindow-firstrun-back-button = Quay lại
 aiwindow-firstrun-next-button = Tiếp
@@ -119,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Nhanh
 aiwindow-input-model-select-button-label-allpurpose = Linh hoạt
 aiwindow-input-model-select-button-label-personal = Cá nhân
 aiwindow-input-model-select-button-label-custom = Tùy chọn
+aiwindow-input-model-select-button-description-custom = Sử dụng LLM của riêng bạn
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -301,3 +315,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Chuyển đổi chế độ: Xem lưới
     .tooltiptext = Chế độ xem lưới
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Viết bản thảo đầu tiên
+aiwindow-starter-writing-improve = Cải thiện kỹ năng viết
+aiwindow-starter-writing-proofread = Kiểm tra lỗi chính tả và ngữ pháp tin nhắn
+aiwindow-starter-planning-simplify = Đơn giản hoá một chủ đề
+aiwindow-starter-planning-brainstorm = Đưa ra các ý tưởng
+aiwindow-starter-planning-plan = Giúp lập kế hoạch
+aiwindow-starter-browsing-history = Tìm các thẻ trong lịch sử
+aiwindow-starter-browsing-summarize = Tóm tắt các thẻ
+aiwindow-starter-browsing-compare = So sánh các thẻ

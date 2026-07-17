@@ -105,16 +105,23 @@ aiwindow-firstrun-model-fast-label = Hurtig
 aiwindow-firstrun-model-fast-body = Raske svar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Hurtig: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Best til raske svar når du har det travelt.
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modell { $model } fra { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Passer godt til de fleste behov
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
+aiwindow-firstrun-model-flexible-body = Klar for mange ulike oppgaver.
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Anbefalt
 aiwindow-firstrun-model-personal-label = Personlig
 aiwindow-firstrun-model-personal-body = Mest tilpassede svar
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personlig: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Gir personlig tilpasset hjelp på tvers av språk.
 aiwindow-firstrun-button = La oss starte!
 aiwindow-firstrun-back-button = Tilbake
 aiwindow-firstrun-next-button = Neste
@@ -324,3 +331,11 @@ aiwindow-ai-chat-grid-grid-view =
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
 aiwindow-starter-writing-first-draft = Skriv et førsteutkast
+aiwindow-starter-writing-improve = Forbedre skrivingen
+aiwindow-starter-writing-proofread = Korrekturles en melding
+aiwindow-starter-planning-simplify = Forenkle et emne
+aiwindow-starter-planning-brainstorm = Idémyldring
+aiwindow-starter-planning-plan = Hjelp med å lage en plan
+aiwindow-starter-browsing-history = Finn faner i historikken
+aiwindow-starter-browsing-summarize = Oppsummer faner
+aiwindow-starter-browsing-compare = Sammenlign faner

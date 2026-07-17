@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Hủy bỏ
 ai-window-memory-delete-button =
     .title = Xóa ký ức
     .aria-label = Xóa { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Nhanh
+    .description = Phù hợp nhất để có câu trả lời nhanh khi tốc độ là yếu tố quan trọng. Tên đầy đủ: { $model } bởi { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Linh hoạt
+    .description = Sẵn sàng cho nhiều tác vụ khác nhau. Tên đầy đủ: { $model } bởi { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Cá nhân hoá
+    .description = Được xây dựng để hỗ trợ cá nhân hóa trên nhiều ngôn ngữ. Tên đầy đủ: { $model } bởi { $ownerName }
