@@ -459,6 +459,7 @@ onboarding-checklist-minimize =
     .label = Умањи
 onboarding-checklist-remove =
     .label = Уклони списак задатака
+onboarding-checklist-remove-2 = Уклони списак задатака
 
 ## Tab Groups feature onboarding strings
 
