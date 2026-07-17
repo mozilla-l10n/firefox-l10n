@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = 完成後即可解鎖更多可用來個人化 { -brand-short-name } 的狐狸圖示。
+    .message = 完成下列動作後即可解鎖更多可用來個人化 { -brand-short-name } 的狐狸圖示。
 appearance-browser-icon-set-default-button =
     .label = 設為預設圖示
 appearance-browser-icon-pin-button =
