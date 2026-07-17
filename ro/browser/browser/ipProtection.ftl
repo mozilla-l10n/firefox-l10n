@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Deschide VPN-ul
 ipprotection-feature-introduction-button-get-started = Începe
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Deschide VPN-ul
+ipprotection-summer-promo-offramp-get-subscription-button = Obține { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Închide
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Alege unde folosești VPN-ul
