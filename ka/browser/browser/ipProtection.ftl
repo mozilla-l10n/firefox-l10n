@@ -54,6 +54,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = გახსენით VPN
 ipprotection-feature-introduction-button-get-started = დაიწყეთ
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = გამოიყენეთ { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = აცილება
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = აირჩიეთ, სად გამოიყენებოდეს VPN
