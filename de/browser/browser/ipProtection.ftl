@@ -54,6 +54,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN öffnen
 ipprotection-feature-introduction-button-get-started = Erste Schritte
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Holen Sie sich { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Schließen
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wählen Sie, wo Sie VPN verwenden
