@@ -436,6 +436,7 @@ onboarding-checklist-minimize =
     .label = 最小化
 onboarding-checklist-remove =
     .label = 移除核对清单
+onboarding-checklist-remove-2 = 移除核对清单
 
 ## Tab Groups feature onboarding strings
 
