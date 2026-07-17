@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Altă aplicație…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Dezactivat în ferestre private
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = Alege aplicația ta de e-mail
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Alege aplicația pe care dorești să o folosești pentru linkurile din e-mail. Poți schimba această opțiune ulterior în Setări.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Întreabă întotdeauna când dau clic pe un link din e-mail
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Setează ca implicit
+    .accesskey = S
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Nu acum
+    .accesskey = N

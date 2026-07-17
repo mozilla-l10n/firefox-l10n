@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Detalii cu privire la eroare
 about-debugging-message-details-label-warning = Detalii cu privire la avertisment
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detalii
+about-debugging-sidebar =
+    .heading = Depanare

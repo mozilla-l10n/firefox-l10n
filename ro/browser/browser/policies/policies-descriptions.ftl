@@ -36,6 +36,7 @@ policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-uri
 policy-Containers = Setează politici legate de containere.
 policy-DisableAccounts = Dezactivează serviciile bazate pe cont, inclusiv sincronizarea.
 policy-DisabledCiphers = Dezactivează cifrurile.
+policy-DefaultBrowserSettingEnabled = Controlează dacă utilizatorul poate seta { -brand-short-name } ca browser implicit.
 policy-DefaultDownloadDirectory = Setează directorul implicit de descărcare.
 policy-DefaultSerialGuardSetting = Controlează utilizarea API-ului serial.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.

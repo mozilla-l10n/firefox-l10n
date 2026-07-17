@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Folosește un model 
 experimental-features-tab-notes =
     .label = Note file
 experimental-features-tab-notes-description = Notele despre file sunt o funcționalitate experimentală care te lasă să adaugi note adezive la filele din browser. Fă adnotări despre context, memento-uri sau pașii următori ca să îți amintești de ce ai deschis o filă când revii pe ea. Ne-ar plăcea să ne dai feedback pe măsură ce continuăm să îmbunătățim această funcționalitate. <a data-l10n-name="connect">Dă-ne feedback</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Meniu pentru file simplificat
+experimental-features-tab-context-menu-description = Vezi un meniu contextual mai simplu când dai clic dreapta pe o filă. Este conceput pentru a facilita găsirea acțiunilor comune. <a data-l10n-name="connect">Trimite feedback</a>
