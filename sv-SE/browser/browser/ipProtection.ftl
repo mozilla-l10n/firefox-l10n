@@ -56,8 +56,32 @@ ipprotection-feature-introduction-button-get-started = Kom igång
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Dina inbyggda VPN-gränser återställs den 1 september
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Använd dina { $maxUsage } GB och 6 platser för extra integritet och göra din surfning svårare att spåra tillbaka till dig.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Använd dina { $maxUsage } GB och mer än 20 platser för extra integritet och göra din surfning svårare att spåra tillbaka till dig.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Ditt inbyggda VPN har precis blivit bättre
+ipprotection-summer-promo-offramp-subscriber-description = Du får nu obegränsad bandbredd och fler platser som prenumerant på { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Behåll dina extra inbyggda VPN-platser
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Gör { -brand-product-name } till din favoritwebbläsare och få mer än 20 extraplatser att surfa från efter den 31 augusti.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Gå en nivå med { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Behåll obegränsad bandbredd efter den 31 augusti, med över 300 platser på 5 enheter för att göra din surfning svårare att spåra tillbaka till dig.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Öppna VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Ange som standard
 ipprotection-summer-promo-offramp-get-subscription-button = Hämta { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignorera
 
@@ -160,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Kontrollera din interneta
 ipprotection-connection-status-network-error-description = Anslut till internet och försök sedan aktivera VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN är inte tillgängligt
     .aria-label = VPN är inte tillgängligt
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokala lagar och restriktioner begränsar var du kan använda VPN. <a data-l10n-name="learn-more-link">Läs mer</a>
 ipprotection-connection-status-blocked-error-description = Lokala lagar hindrar oss från att tillhandahålla VPN-tjänster i den här regionen. <a data-l10n-name="learn-more-link">Läs mer</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Öppna nytt privat fönster
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassiskt fönster
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } växlare
+    .tooltiptext = Växla mellan smarta och klassiska fönster.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Byt inställningar när som hel
 
 smartwindow-ask-button =
     .label = Fråga
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Gruppera mina flikar
+    .tooltiptext = Gruppera mina flikar
 
 ## Memories toggle button
 

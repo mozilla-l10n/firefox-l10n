@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Ta bort
+edit-profile-page-avatar-selector-opener-button =
+    .title = Redigera avatar
 edit-profile-page-avatar-selector-opener-link = Redigera
 avatar-selector-icon-tab = Ikon
 avatar-selector-custom-tab = Anpassa
@@ -95,6 +97,9 @@ delete-profile-logins = Lösenord
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Ta bort profilen “{ $profilename }”.
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Ta bort profilen “{ $profilename }”?
 
 ##
 

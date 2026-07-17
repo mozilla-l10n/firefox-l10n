@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Rensa kakor och webbplatsdata…
 identity-connection-not-secure-security-view = Du är inte säkert ansluten till den här webbplatsen.
 identity-connection-verified = Du är säkert ansluten till den här webbplatsen.
+identity-ev-owner-label2 = Certifikat utfärdat till
+identity-verifier-label2 = Verifierad av
 identity-ev-owner-label = Certifikat utfärdat till:
 identity-verifier-label = Verifierad av:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

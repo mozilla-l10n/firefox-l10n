@@ -191,6 +191,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Slutförd
 migration-safari-password-import-header = Importera lösenord från Safari
+migration-safari-password-import-post-sequoia-step1 = Öppna appen <a data-l10n-name="macos-passwords-app">Lösenordsappen</a> på din Mac
+migration-safari-password-import-post-sequoia-step2 = Från menyraden högst upp på skärmen, välj Arkiv > Exportera alla lösenord till fil…
+migration-safari-password-import-post-sequoia-step3 = Spara filen
+migration-safari-password-import-post-sequoia-step4 = Välj den fil du sparade
 migration-safari-password-import-steps-header = Så här importerar du Safari-lösenord:
 migration-safari-password-import-step1 = I Safari, öppna "Safari"-menyn och gå till Inställningar > Lösenord
 migration-safari-password-import-step2 = Välj knappen <img data-l10n-name="safari-icon-3dots"/> och välj "Exportera alla lösenord"
@@ -203,6 +207,7 @@ migration-chrome-windows-password-import-step2 = Välj "Inställningar" från me
 migration-chrome-windows-password-import-step3 = Välj "Hämta fil" och spara den på din enhet.
 migration-chrome-windows-password-import-step4 = Gå tillbaka hit och "Välj fil" för att avsluta importen.
 migration-manual-password-import-skip-button = Hoppa över
+migration-manual-password-import-cancel-button = Avbryt
 migration-manual-password-import-select-button = Välj fil
 migration-safari-password-import-skip-button = Hoppa över
 migration-safari-password-import-select-button = Välj fil
