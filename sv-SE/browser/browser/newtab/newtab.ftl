@@ -313,8 +313,6 @@ newtab-privacy-message-first-protection-cta = Visa skydd
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Sök efter tickersymboler
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Läs mer
 # "Stocks widget options" is an icon-only button in the widget toolbar — the

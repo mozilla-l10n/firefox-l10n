@@ -29,15 +29,15 @@ appearance-browser-icon-subpage-title =
 appearance-browser-icon-basic-group =
     .label = Standard
 appearance-browser-icon-bonus-group =
-    .label = Särskilda
+    .label = Speciell
 
 ##
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Komplettera och lås upp bonusrävikoner för att anpassa { -brand-short-name }.
+    .message = Slutför och lås upp bonusrävikoner för att anpassa { -brand-short-name }.
 appearance-browser-icon-set-default-button =
-    .label = Ange till standard
+    .label = Ange som standard
 appearance-browser-icon-pin-button =
     .label = Fäst till aktivitetsfältet
 
