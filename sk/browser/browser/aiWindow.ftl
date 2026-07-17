@@ -147,11 +147,37 @@ aiwindow-input-model-select-settings-link = Nastavenia modelu
 aiwindow-firstrun-memories-title = Užitočnejšie odpovede, podľa vašich predstáv
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } sa dokáže učiť z vašich rozhovorov, prehliadania alebo oboch faktorov a vytvárať si spomienky. Tieto postupom času robia odpovede užitočnejšími.
 
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nový rozhovor
+    .tooltiptext = Nový rozhovor
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
     .aria-label = Zavrieť
     .tooltiptext = Zavrieť
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Prepnúť na { -smart-window-brand-name(case: "acc") }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Rozhovory
+    .aria-label = Rozhovory
+    .tooltiptext = Rozhovory
+smartwindow-footer-history =
+    .label = História
+    .aria-label = História
+    .tooltiptext = História
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Umelá inteligencia môže robiť chyby.
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
@@ -230,6 +256,9 @@ smartwindow-close-tab-callout-subtitle = Karty môžete kedykoľvek znova otvori
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Nastaviť { -smart-window-brand-name(case: "acc") } ako predvolené?
+smart-window-default-promo-message = { -brand-short-name } sa vždy otvorí v { -smart-window-brand-name(case: "loc") }.
+smart-window-default-promo-primary-button = Nastaviť ako predvolené
 smart-window-default-promo-additional-button = Teraz nie
 
 ## Feedback modal

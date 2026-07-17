@@ -296,8 +296,19 @@ newtab-privacy-message-milestone-total =
        *[other] { $count } sporere blokkert. Det er et stort skritt mot personvern på dine premisser.
     }
 newtab-privacy-message-milestone-total-cta = Vis beskyttelser
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Over 100 sporere blokkert i dag.) Færre sporere betyr mer personvern.
 newtab-privacy-message-daily-cap-cta = Vis beskyttelser
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Du har vært beskyttet { $count } dag på rad.
+       *[other] Du har vært beskyttet { $count } dager på rad.
+    }
 newtab-privacy-message-streak-cta = Vis beskyttelser
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Fortsett å surfe, { -brand-short-name } fortsetter å blokkere sporere.
 newtab-privacy-message-first-protection-cta = Vis beskyttelser
 
 ## Strings for the Stocks widget
@@ -306,6 +317,12 @@ newtab-privacy-message-first-protection-cta = Vis beskyttelser
 newtab-stocks-menu-search = Søk etter aksjesymboler
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Les mer
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Innstillinger for aksje-widgeten
+    .aria-label = Innstillinger for aksje-widgeten
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Aksjer
 
@@ -474,6 +491,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Rediger
+newtab-menu-add-topsite = Legg til ny snarvei
 newtab-menu-open-new-window = Åpne i nytt vindu
 newtab-menu-open-new-private-window = Åpne i nytt privat vindu
 newtab-menu-dismiss = Avslå
@@ -1120,6 +1138,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Avbryt
     .title = Avbryt
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Listeinnstillinger
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag en ny liste
