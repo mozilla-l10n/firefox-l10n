@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Complete e desbloqueie ícones extras de raposas para personalizar o { -brand-short-name }.
+    .message = Conclua as ações abaixo e desbloqueie ícones extras de raposas para personalizar o { -brand-short-name }.
 appearance-browser-icon-set-default-button =
     .label = Definir como padrão
 appearance-browser-icon-pin-button =
