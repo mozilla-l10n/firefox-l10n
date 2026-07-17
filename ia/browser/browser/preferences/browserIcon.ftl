@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Completar e disblocar icones premio del vulpe pro personalisar { -brand-short-name }.
+    .message = Completar e disbloca icones extra del vulpe pro personalisar { -brand-short-name }.
 appearance-browser-icon-set-default-button =
     .label = Configurar como predefinite
 appearance-browser-icon-pin-button =

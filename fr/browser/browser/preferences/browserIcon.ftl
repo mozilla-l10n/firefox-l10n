@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Terminez et déverrouillez des icônes de renard bonus à personnaliser { -brand-short-name }.
+    .message = Effectuez les actions ci-dessous et déverrouillez des icônes de renard supplémentaires pour personnaliser { -brand-short-name }.
 appearance-browser-icon-set-default-button =
     .label = Définir par défaut
 appearance-browser-icon-pin-button =
