@@ -45,6 +45,8 @@ ipprotection-feature-introduction-button-get-started = Оғози кор
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Кушодани «VPN»
 ipprotection-summer-promo-offramp-get-subscription-button = Ба даст овардани «{ -mozilla-vpn-brand-name }»
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Нодида гузарондан
 
