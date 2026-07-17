@@ -74,6 +74,11 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Otevřít VPN
 ipprotection-feature-introduction-button-get-started = Začínáme
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+ipprotection-summer-promo-offramp-get-subscription-button = Získejte { -mozilla-vpn-brand-name(case: "acc") }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Zavřít
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vyberte, kde používáte VPN
