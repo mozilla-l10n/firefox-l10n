@@ -171,6 +171,12 @@ aiwindow-firstrun-default-checkbox-description = Cambia nelle impostazioni in qu
 smartwindow-ask-button =
     .label = Chiedi
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Raggruppa le mie schede
+    .tooltiptext = Raggruppa le mie schede
+
 ## Memories toggle button
 
 aiwindow-memories-on =
