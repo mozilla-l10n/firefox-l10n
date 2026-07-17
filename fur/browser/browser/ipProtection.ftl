@@ -54,6 +54,13 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Vierç VPN
 ipprotection-feature-introduction-button-get-started = Scomence
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Vierç VPN
+ipprotection-summer-promo-offramp-get-subscription-button = Oten { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignore
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Sielç dulà doprâ la VPN
