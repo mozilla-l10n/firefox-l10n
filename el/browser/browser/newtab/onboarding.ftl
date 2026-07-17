@@ -452,6 +452,7 @@ onboarding-checklist-minimize =
     .label = Ελαχιστοποίηση
 onboarding-checklist-remove =
     .label = Αφαίρεση λίστας ελέγχου
+onboarding-checklist-remove-2 = Αφαίρεση λίστας ελέγχου
 
 ## Tab Groups feature onboarding strings
 
