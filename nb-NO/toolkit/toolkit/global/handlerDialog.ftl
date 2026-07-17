@@ -87,7 +87,15 @@ choose-dialog-privatebrowsing-disabled = Deaktivert i private vinduer
 mailto-handler-picker-window =
     .title = Velg din e-postapp
     .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Velg appen du vil bruke for e-postlenker. Du kan endre dette senere i «Innstillinger».
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Spør meg alltid når jeg klikker på en e-postlenke
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Bruk som standard
     .accesskey = B
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Ikke nå
+    .accesskey = k
