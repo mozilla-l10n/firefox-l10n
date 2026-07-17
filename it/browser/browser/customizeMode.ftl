@@ -38,4 +38,3 @@ customize-mode-touchbar-cmd =
     .label = Personalizza Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Nascondi pulsante quando vuoto
-
