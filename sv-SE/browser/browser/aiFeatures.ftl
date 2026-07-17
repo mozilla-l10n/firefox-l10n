@@ -4,12 +4,12 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Blockera { -smart-window-brand-name }?
-smart-window-block-description-both = Detta tar bort dina { -smart-window-brand-name } chattar och minnen.
-smart-window-block-description-chats = Detta tar bort dina { -smart-window-brand-name } chattar.
-smart-window-block-description-memories = Detta tar bort dina { -smart-window-brand-name } minnen.
+smart-window-block-description-both = Detta kommer att ta bort dina chattar och minnen i { -smart-window-brand-name }.
+smart-window-block-description-chats = Detta kommer att ta bort dina chattar i { -smart-window-brand-name }.
+smart-window-block-description-memories = Detta tar bort dina minnen i { -smart-window-brand-name }.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
-    .description = Ställ frågor, jämföra sidor och få personliga förslag med en inbyggd assistent.
+    .description = Ställ frågor, jämför sidor och få personliga förslag med en inbyggd assistent.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -30,7 +30,7 @@ ai-window-smart-cursor-in-smart-window =
     .label = Visa genvägar vid textmarkering
     .description = Få snabb tillgång för att sammanfatta, förklara och mer.
 smart-window-model-section =
-    .label = Assistent modell
+    .label = Assistentmodell
     .description = Välj en modell baserat på vad som är viktigt för dig.
 smart-window-model-learn-link = Lär dig mer om modeller
 
@@ -93,7 +93,7 @@ ai-window-delete-all-memories-cancel = Avbryt
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Radera minne
+    .title = Ta bort minne
     .aria-label = Ta bort { $label }
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -103,10 +103,10 @@ ai-window-memory-delete-button =
 
 smart-window-model-fast-v2 =
     .label = { $shortName }: Snabb
-    .description = Bäst för snabba svar när hastighet är viktig. Fullständigt namn: { $model } gånger { $ownerName }
+    .description = Bäst för snabba svar när hastighet är viktigt. Fullständigt namn: { $model } av { $ownerName }
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Flexibel
-    .description = Redo för en mängd olika uppgifter. Fullständigt namn: { $model } gånger { $ownerName }
+    .description = Redo för en mängd olika uppgifter. Fullständigt namn: { $model } av { $ownerName }
 smart-window-model-personal-v2 =
     .label = { $shortName }: Personlig
-    .description = Byggt för personlig hjälp på olika språk. Fullständigt namn: { $model } gånger { $ownerName }
+    .description = Byggt för personlig hjälp på olika språk. Fullständigt namn: { $model } av { $ownerName }

@@ -292,12 +292,12 @@ newtab-privacy-message-milestone-year-cta = Visa skydd
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
     { $count ->
-        [one] { $count } spårare blockerade. Det är stora framsteg mot sekretess på dina villkor.
-       *[other] { $count } spårare blockerade. Det är stora framsteg mot sekretess på dina villkor.
+        [one] { $count } spårare blockerad. Det är stora framsteg mot integritet på dina villkor.
+       *[other] { $count } spårare blockerade. Det är stora framsteg mot integritet på dina villkor.
     }
 newtab-privacy-message-milestone-total-cta = Visa skydd
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
-newtab-privacy-message-daily-cap = (100+ spårare blockerade idag.) Färre spårare innebär mer integritet.
+newtab-privacy-message-daily-cap = (över 100 spårare blockerade idag.) Färre spårare innebär mer integritet.
 newtab-privacy-message-daily-cap-cta = Visa skydd
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -358,12 +358,12 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
-    .aria-label = Visa licensen { $license }
+    .aria-label = Visa licens { $license }
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Bild på dagens alternativ
-    .aria-label = Bild på dagens alternativ
+    .title = Alternativ för dagens bild
+    .aria-label = Alternativ för dagens bild
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -1141,7 +1141,7 @@ newtab-widget-lists-edit-clear =
     .title = Avbryt
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
-    .aria-label = Visar alternativ
+    .aria-label = Alternativ för lista
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Skapa en ny lista
@@ -1519,7 +1519,7 @@ newtab-sports-widget-team-tbd = Kommer att bestämmas
 newtab-sports-widget-message-wallpapers-title = Sparka igång VM med nya bakgrundsbilder
 newtab-sports-widget-message-wallpapers-body = Ta med lite energi till din webbläsare under tävlingen.
 newtab-sports-widget-message-wallpapers-cta = Välj bakgrundsbild
-newtab-sports-widget-message-wallpapers-semifinals-title = Få en ny bakgrundsbild inför semislutspelen
+newtab-sports-widget-message-wallpapers-semifinals-title = Skaffa en ny bakgrundsbild till semifinalerna
 newtab-sports-widget-message-wallpapers-semifinals-body = Förbered dig för VM:s största matcher.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Lägg till widgetar

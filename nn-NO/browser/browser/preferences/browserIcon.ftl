@@ -6,6 +6,8 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+appearance-browser-icon-button =
+    .label = Endre nettlesarikon
 
 ## Strings for the "Browser icon" sub-page (Windows only), opened from the
 ## "Change browser icon" button in the Appearance settings. The sub-page lets
