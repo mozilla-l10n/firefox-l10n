@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = 開始使用
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = 開啟 VPN
 ipprotection-summer-promo-offramp-get-subscription-button = 獲得 { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = 知道了！
 
