@@ -84,6 +84,13 @@ choose-dialog-privatebrowsing-disabled = Deaktivert i private vindauge
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .title = Vel din e-postapp
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Vel appen du vil bruke for e-postlenker. Du kan endre dette seinare i «Innstillingar».
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Spør meg alltid når eg klikkar på ei e-postlenke
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Bruk som standard

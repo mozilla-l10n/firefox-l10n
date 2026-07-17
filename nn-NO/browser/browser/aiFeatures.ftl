@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Avbryt
 ai-window-memory-delete-button =
     .title = Slett minne
     .aria-label = Slett { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Rask
+    .description = Best for raske svar når fart er viktig. Fullt namn: { $model } av { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Fleksibel
+    .description = Klar for forskjellige oppgåver. Fullt namn: { $model } av { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Personleg
+    .description = Utvikla for personleg tilpassa hjelp på tvers av språk. Fullt namn: { $model } frå { $ownerName }

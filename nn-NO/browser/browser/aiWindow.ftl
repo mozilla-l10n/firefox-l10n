@@ -100,10 +100,12 @@ aiwindow-firstrun-title = Velkomen til { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Kva er viktig for deg?
 aiwindow-firstrun-model-title-v2 = Vel ein modell for å starte
 aiwindow-firstrun-model-subtitle = Vel ein modell for { -smart-window-brand-name }. Du kan byte når som helst.
+aiwindow-firstrun-model-subtitle-v2 = Kvar modell kan hjelpe deg med å samanfatte, samanlikne og utforske på tvers av fanene dine. Byt når som helst.
 aiwindow-firstrun-model-fast-label = Rask
 aiwindow-firstrun-model-fast-body = Raske svar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Rask: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Best til raske svar når du har det travelt.
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -112,12 +114,14 @@ aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Passar godt til dei fleste behov
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
+aiwindow-firstrun-model-flexible-body = Klar for mange ulike oppgåver.
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Tilrådd
 aiwindow-firstrun-model-personal-label = Personleg
 aiwindow-firstrun-model-personal-body = Mest tilpassa svar
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personleg: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Gir personleg tilpassa hjelp på tvers av språk.
 aiwindow-firstrun-button = La leiken byrja… Og køyr…
 aiwindow-firstrun-back-button = Tilbake
 aiwindow-firstrun-next-button = Neste

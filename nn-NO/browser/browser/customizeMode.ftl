@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Kompakt (ikkje støtta)
 customize-mode-undo-cmd =
     .label = Angre
+customize-mode-uidensity-link = Innstillingar for vindaugstettheit
 customize-mode-lwthemes-link-2 = Handsam tema
 customize-mode-lwthemes-link = Handsam tema
 customize-mode-touchbar-cmd =
