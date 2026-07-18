@@ -82,7 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = کؽ گاشڌ ترسته بۊ
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = بستن پوی نیمدری یل سیخومی، کۊکیا، ویرگار وو داده یل وبگه ایسا ن پاک اکونه.
+about-private-browsing-nova-info-link = کؽ گاشڌ ترسته بۊ هنی فعالیت مونه بنیره؟
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ایسا ز هالت زفت و در زیڌین
+about-private-browsing-nova-info-subheader = هر سا ای نیمدری ن بووندین، هر پیتینیڌن وو و من ٱووڌن و سیستومی ن پاک اکۊنیم. زفت وابیڌنا منی { -brand-short-name } ایچونا فعال هڌن، جۊر مسدۊد کردن رڌجۊرا.
