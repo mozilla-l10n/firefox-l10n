@@ -271,6 +271,14 @@ newtab-privacy-message-first-protection-cta = Šćity pokazaś
 newtab-stocks-menu-search = Tikerowe symbole pśepytaś
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Dalšne informacije
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Akcijowe daty njejsu k dispoziciji.
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Nastajenja akcijowego asistenta
+    .aria-label = Nastajenja akcijowego asistenta
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Akcije
 

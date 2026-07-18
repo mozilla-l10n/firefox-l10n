@@ -1148,6 +1148,10 @@ urlbar-searchmode-bookmarks3 = Cytańske znamjenja
     .accesskey = C
 urlbar-searchmode-tabs3 = Rejtariki
     .accesskey = R
+urlbar-searchmode-history3 = Historija
+    .accesskey = H
+urlbar-searchmode-actions3 = Akcije
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Cytańske znamjenja
 urlbar-searchmode-tabs2 = Rejtariki
 urlbar-searchmode-history2 = Historija
@@ -1167,6 +1171,10 @@ urlbar-searchmode-popup-one-off-header = Tenraz pytaś z:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Pytaś z:
+urlbar-searchmode-popup-search-settings = Pytańske nastajenja
+    .accesskey = P
+urlbar-searchmode-popup-settings = Nastajenja
+    .accesskey = N
 urlbar-searchmode-popup-search-settings-panelitem = Pytańske nastajenja
 urlbar-searchmode-popup-settings-panelitem = Nastajenja
 

@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Neues privates Fenster öffnen
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassisches Fenster
+toolbar-switcher-customizable-label =
+    .label = Umschalter für { -smart-window-brand-name }
+    .tooltiptext = Wechseln Sie zwischen intelligenten und klassischen Fenstern.
 
 ## Input CTA
 
