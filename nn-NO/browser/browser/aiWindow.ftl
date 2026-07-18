@@ -168,6 +168,12 @@ aiwindow-firstrun-default-checkbox-description = Byt i innstillingane når som h
 smartwindow-ask-button =
     .label = Spør
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Grupper fanene mine
+    .tooltiptext = Grupper fanene mine
+
 ## Memories toggle button
 
 aiwindow-memories-on =

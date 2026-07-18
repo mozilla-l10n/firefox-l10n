@@ -109,6 +109,40 @@ appmenu-remote-tabs-unverified = Tu cuenta necesita ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-sign-in = Conectarse a { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar cuenta
+fxa-menu-sync-status-on = Sincronización activada
+fxa-menu-sync-status-off = Sincronización desactivada
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Tus datos no se están sincronizando.
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Activar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Conectarse para sincronizar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronizar { $deviceName } ahora
+fxa-menu-manage-sync-settings =
+    .label = Administrar ajustes de sincronización
+fxa-menu-add-device =
+    .label = Añadir un dispositivo
+fxa-menu-manage-devices =
+    .label = Administrar tus dispositivos
+fxa-menu-device-missing =
+    .label = ¿No ves tu dispositivo?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Todos los dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Todos los dispositivos
+fxa-menu-get-firefox-mobile =
+    .label = Obtén { -brand-product-name } para Android o iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronización segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cuenta
 # Variables
@@ -336,9 +370,42 @@ appmenu-manage-profiles =
     .label = Gestionar perfiles
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Crear un nuevo perfil
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar este perfil
+appmenu-profile-current-in-use = Perfil actual en uso
+fxa-menu-create-profile-subpanel =
+    .title = Crear un nuevo perfil
+fxa-menu-create-profile-heading = Mejora tu experiencia de navegación con un nuevo perfil
+fxa-menu-create-profile-description = Mantén separados tus marcadores, contraseñas e historial de navegación para el trabajo y para uso personal.
+fxa-menu-create-profile-confirm =
+    .label = Crear nuevo perfil
+fxa-menu-create-profile-learn-more =
+    .label = ¿Qué son los perfiles?
 appmenu-profiles-2 =
     .label = Perfiles
+appmenu-profiles-header = Perfiles
+appmenu-all-profiles =
+    .label = Todos los perfiles
+appmenu-secure-sync-header = Sincronización segura
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Pestañas recientes
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ver la única pestaña sincronizada
+           *[other] Ver todas las { $tabCount } pestañas sincronizadas
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Enviar la página actual a este dispositivo

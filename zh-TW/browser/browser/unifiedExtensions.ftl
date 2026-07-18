@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = 探索擴充套件
 unified-extensions-empty-reason-private-browsing-not-allowed = 您安裝了擴充套件，但未在隱私瀏覽視窗中啟用
 unified-extensions-empty-reason-extension-not-enabled = 您安裝了擴充套件，但未啟用
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = 安裝幾套擴充套件就能有很大幫助
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = 使用擴充套件，升級您的上網體驗
 unified-extensions-empty-content-explain-enable2 = 選擇「{ unified-extensions-manage-extensions.label }」即可在設定中開啟。
 unified-extensions-empty-content-explain-manage2 = 點擊「{ unified-extensions-manage-extensions.label }」即可在設定中管理。
+unified-extensions-empty-content-explain-extensions-onboarding2 = 我們有一些能幫助您加強專注、保護隱私與更多功能的推薦項目。
 unified-extensions-empty-content-explain-extensions-onboarding = 調整 { -brand-short-name } 外觀與行為，或加強隱私與安全性，來個人化 { -brand-short-name }。
 
 ## An extension in the main list

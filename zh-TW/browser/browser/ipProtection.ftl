@@ -74,6 +74,11 @@ ipprotection-summer-promo-offramp-subscriber-description = 作為 { -mozilla-vpn
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = 保留內建 VPN 額外的連線位置
+ipprotection-summer-promo-offramp-default-browser-incentive-description = 將 { -brand-product-name } 設為您的預設瀏覽器，即可於 8 月 31 起獲得額外 20 個連線位置。
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = 讓 { -mozilla-vpn-brand-name } 升級
+ipprotection-summer-promo-offramp-subscription-upsell-description = 於 8 月 31 起保留無限頻寬，還有能在最多 5 台裝置透過超過 300 個位置連線，讓您上網更難被追蹤。
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 開啟 VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 設為預設瀏覽器
@@ -179,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = 請檢查您的網際網�
 ipprotection-connection-status-network-error-description = 請連線到網際網路，再嘗試開啟 VPN。
 ipprotection-connection-status-blocked-error-title-1 = 無法使用 VPN
     .aria-label = 無法使用 VPN
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = 您當地的法規會限制您可以使用 VPN 的地方。<a data-l10n-name="learn-more-link">更多資訊</a>
 ipprotection-connection-status-blocked-error-description = 由於此地區的相關法律規定，我們無法提供 VPN 服務。<a data-l10n-name="learn-more-link">更多資訊</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
