@@ -87,6 +87,7 @@ pdfjs-scroll-horizontal-button-label = Iscurrimentu orizontale
 pdfjs-scroll-wrapped-button =
     .title = Imprea s'iscurrimentu continu
 pdfjs-scroll-wrapped-button-label = Iscurrimentu continu
+pdfjs-spread-none-button-label = Pàginas individuales
 
 ## Document properties dialog
 
@@ -133,6 +134,19 @@ pdfjs-document-properties-linearized = Visualizatzione web lestra:
 pdfjs-document-properties-linearized-yes = Eja
 pdfjs-document-properties-linearized-no = Nono
 pdfjs-document-properties-close-button = Serra
+pdfjs-digital-signature-properties-view-certificate = Ammustra su tzertificadu
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = Resone: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Data e ora: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Print
 
@@ -179,6 +193,15 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniatura de sa pàgina { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Seletziona sa pàgina { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Pàgina { $page } de { $total }
 
 ## Find panel button title and messages
 
@@ -197,10 +220,27 @@ pdfjs-find-match-diacritics-checkbox-label = Respeta is diacrìticos
 pdfjs-find-entire-word-checkbox-label = Faeddos intreos
 pdfjs-find-reached-top = S'est lòmpidu a su cumintzu de su documentu, si sighit dae su bàsciu
 pdfjs-find-reached-bottom = Acabbu de su documentu, si sighit dae s'artu
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } currispondèntzia de { $total }
+       *[other] { $current } currispondèntzias de { $total }
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Prus de { $limit } currispondèntzia
+       *[other] Prus de { $limit } currispondèntzias
+    }
 pdfjs-find-not-found = Testu no agatadu
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = Larghesa de sa pàgina
+pdfjs-page-scale-fit = Pàgina intrea
 pdfjs-page-scale-auto = Ingrandimentu automàticu
 pdfjs-page-scale-actual = Mannària reale
 # Variables:
@@ -221,6 +261,12 @@ pdfjs-invalid-file-error = Archìviu PDF non vàlidu o corrùmpidu.
 pdfjs-missing-file-error = Ammancat s'archìviu PDF.
 pdfjs-unexpected-response-error = Risposta imprevista de su serbidore.
 pdfjs-rendering-error = Faddina in sa visualizatzione de sa pàgina.
+
+## Annotations
+
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
