@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = No dd’ammustres prus
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Tenes un’informe de faddinas reghente de imbiare
+       *[other] Tenes { $reportCount } informes de faddinas reghentes de imbiare
+    }

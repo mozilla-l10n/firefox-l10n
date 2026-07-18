@@ -78,7 +78,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Faites
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Passer au niveau supérieur avec { -mozilla-vpn-brand-name }
-ipprotection-summer-promo-offramp-subscription-upsell-description = Conservez une bande passante illimitée après le 31&nbsp;août avec plus de 300 emplacements sur 5 appareils, ce qui rend plus difficile la navigation jusqu’à vous.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ouvrir le VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Définir par défaut

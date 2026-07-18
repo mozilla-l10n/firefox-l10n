@@ -71,14 +71,14 @@ print-shortcut =
 mute-toggle-shortcut =
     .key = M
 nav-back-shortcut-alt =
-    .key = { "[" }
+    .key = [
 nav-fwd-shortcut-alt =
     .key = ]
 nav-reload-shortcut =
     .key = r
 # Shortcut available only on macOS.
 nav-stop-shortcut =
-    .key = { "." }
+    .key = .
 ai-chatbot-sidebar-shortcut =
     .key = X
 open-tabs-sidebar-shortcut2 =
