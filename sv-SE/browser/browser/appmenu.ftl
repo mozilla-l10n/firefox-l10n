@@ -109,8 +109,8 @@ appmenu-remote-tabs-unverified = Ditt konto behöver verifieras.
 appmenuitem-fxa-toolbar-sync-now2 = Synkronisera nu
 appmenuitem-fxa-sign-in = Logga in på { -brand-product-name }
 appmenuitem-fxa-manage-account = Hantera konto
-fxa-menu-sync-status-on = Sync är På
-fxa-menu-sync-status-off = Sync är av
+fxa-menu-sync-status-on = Synkronisering är på
+fxa-menu-sync-status-off = Synkronisering är av
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Din data synkroniseras inte

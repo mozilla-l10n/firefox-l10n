@@ -21,6 +21,7 @@ unified-extensions-empty-reason-zero-extensions-onboarding2 = Nokre utvidingar k
 unified-extensions-empty-reason-zero-extensions-onboarding = Ta nettlesinga di til eit nytt nivå med utvidingar
 unified-extensions-empty-content-explain-enable2 = Vel «{ unified-extensions-manage-extensions.label }» for å aktivere dei i innstillingane.
 unified-extensions-empty-content-explain-manage2 = Vel «{ unified-extensions-manage-extensions.label }» for å handsame dei i innstillingane.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Vi har tilrådingar som kan hjelpe deg med å forbetre fokus, personvern og meir.
 unified-extensions-empty-content-explain-extensions-onboarding = Tilpass { -brand-short-name } ved å endre utsjånad og yting, eller ved å forbetre personvern og sikkerheit.
 
 ## An extension in the main list

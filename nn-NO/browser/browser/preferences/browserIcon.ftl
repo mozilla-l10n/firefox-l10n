@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Nettlesarikon
+    .description = Vel eit eigendefinert ikon for oppgåvelinja, skrivebordet og Start-menyen.
 appearance-browser-icon-button =
     .label = Endre nettlesarikon
 
@@ -27,6 +33,9 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Fullfør og lås opp bonusrev-ikon for å gjere { -brand-short-name } meir personleg.
 appearance-browser-icon-set-default-button =
     .label = Set til standard
 appearance-browser-icon-pin-button =

@@ -60,7 +60,7 @@ ipprotection-feature-introduction-button-get-started = Kom igång
 ipprotection-summer-promo-offramp-generic-title = Dina inbyggda VPN-gränser återställs den 1 september
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description = Använd dina { $maxUsage } GB och 6 platser för extra integritet och göra din surfning svårare att spåra tillbaka till dig.
+ipprotection-summer-promo-offramp-generic-description = Använd dina { $maxUsage } GB och 6 platser för extra integritet så att det blir svårare att spåra din surfning tillbaka till dig.
 # Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
