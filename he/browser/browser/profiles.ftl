@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = דמות מייצגת
 edit-profile-page-delete-button =
     .label = מחיקה
+edit-profile-page-avatar-selector-opener-button =
+    .title = עריכת תמונה מייצגת
 edit-profile-page-avatar-selector-opener-link = עריכה
 avatar-selector-icon-tab = סמל
 avatar-selector-custom-tab = מותאם אישית
@@ -95,6 +97,9 @@ delete-profile-logins = ססמאות
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = מחיקת הפרופיל ״{ $profilename }״
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = למחוק את הפרופיל ״{ $profilename }״?
 
 ##
 

@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = גילוי הרחבות
 unified-extensions-empty-reason-private-browsing-not-allowed = יש לך הרחבות מותקנות, אך לא מופעלות בחלונות פרטיים
 unified-extensions-empty-reason-extension-not-enabled = יש לך הרחבות מותקנות, אך לא מופעלות
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = מספיקות כמה הרחבות כדי לעשות הבדל משמעותי
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = שדרוג הגלישה שלך בעזרת הרחבות
 unified-extensions-empty-content-explain-enable2 = יש לבחור ב״{ unified-extensions-manage-extensions.label }״ כדי להפעיל אותם בהגדרות.
 unified-extensions-empty-content-explain-manage2 = יש לבחור ב״{ unified-extensions-manage-extensions.label }״ כדי לנהל אותם בהגדרות.
+unified-extensions-empty-content-explain-extensions-onboarding2 = יש לנו המלצות שיעזרו לך לשפר את הריכוז, הפרטיות ועוד.
 unified-extensions-empty-content-explain-extensions-onboarding = ניתן להתאים אישית את { -brand-short-name } על־ידי שינוי המראה שלו והאופן שבו הוא פועל או שיפור הפרטיות והבטיחות.
 
 ## An extension in the main list
