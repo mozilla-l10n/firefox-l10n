@@ -39,6 +39,7 @@ pocket-panel-signup-login = و من ٱووڌن
 pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
 pocket-panel-signup-signup-cta = من { -pocket-brand-name } سبت نوم کۊنین. مۊفتی هڌ.
 pocket-panel-signup-signup-firefox = سبت نوم وا { -brand-product-name }
+pocket-panel-signup-tagline = مقاله یل وو ویدیو یل ن وا { -brand-product-name } زفت کۊنین وو هر سا وا هر دسگایی و وسیله { -pocket-brand-name } بنیرین.
 pocket-panel-signup-tagline-story-one = و ری دویمه { -pocket-brand-name } کیلیک کۊنین تا مقاله، ویدیو یا بلگه یل ن وا { -brand-product-name } زفت کۊنین.
 pocket-panel-signup-tagline-story-two = نشووݩ داڌن من { -pocket-brand-name } من هر دسگا وو هر زمووی.
 pocket-panel-signup-cta-a-fix = دویمه زفت کردن ایسا سی اینترنت

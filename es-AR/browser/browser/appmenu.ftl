@@ -109,6 +109,38 @@ appmenu-remote-tabs-unverified = La cuenta necesita ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-sign-in = Inicie sesión en { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar cuenta
+fxa-menu-sync-status-on = La sincronización está activada
+fxa-menu-sync-status-off = La sincronización está desactivada
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Los datos no se están sincronizando
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Activar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Iniciar sesión para sincronizar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronizar { $deviceName } ahora
+fxa-menu-manage-sync-settings =
+    .label = Administrar configuración de sincronización
+fxa-menu-add-device =
+    .label = Agregar un dispositivo
+fxa-menu-manage-devices =
+    .label = Administrar dispositivos
+fxa-menu-device-missing =
+    .label = ¿No se puede ver el dispositivo?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Todos los dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Todos los dispositivos
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronización segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cuenta
 # Variables
@@ -336,6 +368,8 @@ appmenu-manage-profiles =
     .label = Administrar los perfiles
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Crear un nuevo perfil
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =
