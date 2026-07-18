@@ -250,6 +250,7 @@ newtab-privacy-message-promo-vpn-3-cta = VPN wočinić
 newtab-privacy-message-promo-private-window-1-cta = Priwatne wokno wočinić
 newtab-privacy-message-promo-relay-1 = Składujće swoju woprawdźitu za ludźi, kotrymž dowěrjeće; wužiwajće e-mejlowu masku za registracije.
 newtab-privacy-message-promo-relay-1-cta = Maski wobstarać
+newtab-privacy-message-promo-relay-2 = Škitajće swój póstowy dochad před spamom z darmotnym e-mejlowym maskowanjom.
 newtab-privacy-message-promo-relay-2-cta = Maski wobstarać
 newtab-privacy-message-promo-relay-3 = Dóstańće 50 darmotnych e-mejlowych maskow, zo byšće swoju woprawdźitu e-mejlowu adresu priwatnu dźeržał.
 newtab-privacy-message-promo-relay-3-cta = Maski wobstarać
@@ -286,6 +287,8 @@ newtab-privacy-message-first-protection-cta = Škity pokazać
 newtab-stocks-menu-search = Tikerowe symbole přepytać
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Dalše informacije
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Akcijowe daty k dispoziciji njejsu.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

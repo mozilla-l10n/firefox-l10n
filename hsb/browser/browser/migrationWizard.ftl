@@ -197,6 +197,9 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Dokónčeny
 migration-safari-password-import-header = Hesła ze Safari importować
+migration-safari-password-import-post-sequoia-step1 = Wočińće <a data-l10n-name="macos-passwords-app">hesłowe nałoženje</a> na swojim Mac
+migration-safari-password-import-post-sequoia-step3 = Drastu składować
+migration-safari-password-import-post-sequoia-step4 = Wubjerće składowanu dataju
 migration-safari-password-import-steps-header = Zo byšće hesła ze Safari importował:
 migration-safari-password-import-step1 = Wočińće meni „Safari“ w Safari a přeńdźće k Einstellungen > Passwörter (Nastajenja > Hesła)
 migration-safari-password-import-step2 = Wubjerće tłóčatko <img data-l10n-name="safari-icon-3dots"/> a wubjerće „Alle Passwörter exportieren“
@@ -209,6 +212,7 @@ migration-chrome-windows-password-import-step2 = Wubjerće „Nastajenja“ z me
 migration-chrome-windows-password-import-step3 = Wubjerće „Dataju sćahnyć“ a składujće ju na swojim graće.
 migration-chrome-windows-password-import-step4 = Wróćće so sem a wužiwajće „Dataju wubrać “, zo byšće import dokónčił.
 migration-manual-password-import-skip-button = Přeskočić
+migration-manual-password-import-cancel-button = Přetorhnyć
 migration-manual-password-import-select-button = Dataju wubrać
 migration-safari-password-import-skip-button = Přeskočić
 migration-safari-password-import-select-button = Dataju wubrać

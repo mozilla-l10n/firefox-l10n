@@ -56,8 +56,18 @@ ipprotection-feature-introduction-button-get-started = Prěnje kroki
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Waše zatwarjene limity VPN so 1. septembra wróćó staja
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Wobchowajće swoje přidatne zatwarjene stejnišća VPN
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Powyšće niwow z { -mozilla-vpn-brand-name }
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN wočinić
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Jako standard wužiwać
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } wobstarać
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Zaćisnyć
 
