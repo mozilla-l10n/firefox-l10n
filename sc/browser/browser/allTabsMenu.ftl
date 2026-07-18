@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Ischeda cuntenidora noa
 all-tabs-menu-hidden-tabs =
     .label = Ischedas cuadas
+all-tabs-menu-close-duplicate-tabs =
+    .label = Serra is ischedas duplicadas
+all-tabs-menu-view-all-tabs =
+    .label = Ammustra totu is ischedas
 all-tabs-menu-manage-user-context =
     .label = Manìgia cuntenidores
     .accesskey = M
@@ -26,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grupos de ischedas
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Chirca in totu is ischedas
