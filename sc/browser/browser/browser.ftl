@@ -586,6 +586,8 @@ identity-clear-site-data =
     .label = Isbòida is testimòngios e is datos de is sitos…
 identity-connection-not-secure-security-view = Sa connessione a custu situ no est segura.
 identity-connection-verified = Sa connessione a custu situ est segura.
+identity-ev-owner-label2 = Tzertificadu emìtidu pro
+identity-verifier-label2 = Averiguadu dae:
 identity-ev-owner-label = Tzertificadu emìtidu pro:
 identity-verifier-label = Averiguadu dae:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -895,6 +897,90 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Ùrtima bìsita { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Ùrtima bìsita erisero
+       *[other] Ùrtima bìsita { $daysAgo } dies a oe
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Ùrtima bìsita { $weeksAgo } chida a oe
+       *[other] Ùrtima bìsita { $weeksAgo } chidas a oe
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Ùrtima bìsita { $monthsAgo } mese a oe
+       *[other] Ùrtima bìsita { $monthsAgo } meses a oe
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Ùrtima bìsita: { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Agiuntu a is sinnalibros: { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Ùrtima bìsita { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Ùrtima bìsita erisero
+       *[other] Ùrtima bìsita { $daysAgo } dies a oe
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Ùrtima bìsita { $weeksAgo } chida a oe
+       *[other] Ùrtima bìsita { $weeksAgo } chidas a oe
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Ùrtima bìsita { $monthsAgo } mese a oe
+       *[other] Ùrtima bìsita { $monthsAgo } meses a oe
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Ùrtima bìsita { $date }
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1016,6 +1102,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Sa chirca pro faeddu-crae est istudada
 urlbar-searchmode-dropmarker2 =
     .title = Sèbera unu motore de chirca
+urlbar-searchmode-bookmarks3 = Sinnalibros
+    .accesskey = S
+urlbar-searchmode-tabs3 = Ischedas
+    .accesskey = I
+urlbar-searchmode-history3 = Cronologia
+    .accesskey = C
+urlbar-searchmode-actions3 = Atziones
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Sinnalibros
 urlbar-searchmode-tabs2 = Ischedas
 urlbar-searchmode-history2 = Cronologia
@@ -1035,6 +1129,10 @@ urlbar-searchmode-popup-one-off-header = Custa borta chirca cun:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Chirca cun:
+urlbar-searchmode-popup-search-settings = Cunfiguratzione de chirca
+    .accesskey = C
+urlbar-searchmode-popup-settings = Cunfiguratziones
+    .accesskey = C
 urlbar-searchmode-popup-search-settings-panelitem = Cunfiguratzione de chirca
 urlbar-searchmode-popup-settings-panelitem = Cunfiguratzione
 
@@ -1143,6 +1241,9 @@ fullscreen-warning-no-domain = Custu documentu s'ammustrat immoe in mannària pr
 fullscreen-exit-button = Essi dae sa mannària prena (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
+fullscreen-keyboardlock-exit-button = Essi de sa mannària prena (incarca e mantene Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Essi de sa mannària prena (incarca e mantene esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1497,6 +1598,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Serra sa sessione privada
     .tooltiptext = Serra is sessiones privadas
+reset-pbm-panel-heading2 = Boles cantzellare is datos e aviare una sessione privada noa?
+reset-pbm-panel-description2 = Custu cantzellat sa cronologia, is testimòngios e totu is àteros datos de sitos sena de serrare sa ventana privada tua.
 reset-pbm-panel-heading = Boles serrare sa sessione privada?
 reset-pbm-panel-description = Serra totu is ischedas privadas e cantzella cronologia, testimòngios e totu is datos de is àteros sitos.
 reset-pbm-panel-always-ask-checkbox =
@@ -1505,10 +1608,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Annulla
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Cantzella sa sessione privada
+    .accesskey = C
 reset-pbm-panel-confirm-button =
     .label = Cantzella is datos de sa sessione
     .accesskey = C
 reset-pbm-panel-complete = Datos de sa sessione privada cantzellados
+reset-pbm-toolbar-button2 =
+    .label = Cantzella sa sessione privada
+    .tooltiptext = Cantzella sa sessione privada
 
 ## Autorefresh blocker
 
@@ -1752,7 +1861,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } at permìtidu { $count } cripto-minadores
     }
 trustpanel-cryptominer-tab-list-header = Custos sitos sunt chirchende de minare cripto-monedas:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Tenes giai unu contu in custu situ?
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Iscarta
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Avia un’anàlisi de badas
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> sighidore blocadu in custu situ
