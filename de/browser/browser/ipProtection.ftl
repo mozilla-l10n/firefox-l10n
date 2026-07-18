@@ -74,6 +74,9 @@ ipprotection-summer-promo-offramp-subscriber-description = Sie erhalten jetzt un
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Behalten Sie Ihre zusätzlichen integrierten VPN-Standorte
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Holen Sie sich { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Behalten Sie nach dem 31. August unbegrenzte Bandbreite mit über 300 Standorten auf 5 Geräten, damit Ihr Surfen schwieriger zu Ihnen zurückverfolgt werden kann.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN öffnen
