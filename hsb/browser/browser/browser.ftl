@@ -593,6 +593,8 @@ identity-clear-site-data =
     .label = Placki a sydłowe daty zhašeć…
 identity-connection-not-secure-security-view = Njejsće wěsće z tutym sydłom zwjazany.
 identity-connection-verified = Sće wěsće z tutym sydłom zwjazany.
+identity-ev-owner-label2 = Certifikat wupisany na
+identity-verifier-label2 = Přepruwowany wot
 identity-ev-owner-label = Certifikat wupisany na:
 identity-verifier-label = Přepruwowany wot:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
