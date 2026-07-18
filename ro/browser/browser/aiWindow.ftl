@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Deschide o fereastră privată nouă
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Fereastră clasică
+toolbar-switcher-customizable-label =
+    .label = comutator { -smart-window-brand-name }
+    .tooltiptext = Treci de la ferestre Smart la Clasice și invers.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Comută oricând în setări
 
 smartwindow-ask-button =
     .label = Întreabă
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Grupează filele
+    .tooltiptext = Grupează filele
 
 ## Memories toggle button
 

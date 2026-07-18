@@ -592,6 +592,8 @@ identity-clear-site-data =
     .label = Șterge cookie-urile și datele site-urilor…
 identity-connection-not-secure-security-view = Nu ești conectat în mod securizat la acest site.
 identity-connection-verified = Ești conectat în mod securizat la acest site.
+identity-ev-owner-label2 = Certificat emis către
+identity-verifier-label2 = Verificat de
 identity-ev-owner-label = Certificat emis către:
 identity-verifier-label = Verificat de:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
