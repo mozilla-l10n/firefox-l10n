@@ -341,3 +341,4 @@ aiwindow-starter-planning-plan = Aiutami a creare un piano
 aiwindow-starter-browsing-history = Trova schede nella cronologia
 aiwindow-starter-browsing-summarize = Riassumi schede
 aiwindow-starter-browsing-compare = Confronta schede
+

@@ -636,3 +636,4 @@ smartwindow-sidebar-auto-open-callout-accepted-title = L’assistente rimarrà c
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilizza Chiedi per aprirlo in qualsiasi pagina. Modifica questa opzione in qualunque momento nelle <a data-l10n-name="settings">impostazioni</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = OK
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se cambi idea, puoi aggiornare le impostazioni predefinite nelle <a data-l10n-name="settings">impostazioni</a> in qualsiasi momento.
+
