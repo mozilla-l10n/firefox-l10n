@@ -23,7 +23,7 @@ smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } är f
 smartwindow-assistant-error-budget-body = Du kan fortfarande surfa i det här fönstret. Chatten kommer att finnas tillgänglig igen när din dagliga gräns återställs.
 smartwindow-assistant-error-many-requests-header = Vänta en stund och försök igen. För många meddelanden skickades på kort tid.
 smartwindow-assistant-error-max-length-header = Det är dags att starta en ny chatt. Den här har nått sin längdgräns.
-smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } kunde inte nå servern. Prova ett annat nätverk eller inaktivera ditt VPN.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } kunde inte nå servern. Försök med ett annat nätverk eller inaktivera ditt VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serverfel (HTTP { $status }). Försök igen.
@@ -68,15 +68,15 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Hoppa till botten
-    .aria-label = Hoppa till botten av chatten
+    .aria-label = Hoppa till slutet av chatten
+    .tooltiptext = Hoppa till slutet
 
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Försök igen
-smartwindow-nl-retry-message = Om du fortfarande vill stänga flikar väljer du <strong>Försök igen</strong> och gör ditt val på kortet som öppnas.
-smartwindow-nl-retry-group-tabs-message = Om du fortfarande vill gruppera flikar väljer du <strong>Försök igen</strong> och väljer vilka på kortet som öppnas.
+smartwindow-nl-retry-message = Om du fortfarande vill stänga flikar väljer du <strong>Försök igen</strong> och gör ditt val i kortet som öppnas.
+smartwindow-nl-retry-group-tabs-message = Om du fortfarande vill gruppera flikar väljer du <strong>Försök igen</strong> och markerar vilka flikar som ska visas på kortet som öppnas.
 smartwindow-nl-thinking = Söker efter matchande flikar…
 smartwindow-loading-assistant-response =
     .aria-label = Laddar svar från assistent
@@ -88,19 +88,19 @@ smartwindow-nl-undo-button =
 
 smart-window-closed-tabs-label =
     { $count ->
-        [one] Stängd fliken { $count }
-       *[other] Stängda { $count } flikar
+        [one] Stängde { $count } flik
+       *[other] Stängde { $count } flikar
     }
 smart-window-closed-tabs-summary =
     { $count ->
-        [one] Klar! Fliken stängd.
+        [one] Klar! Flik stängd.
        *[other] Klar! Flikar stängda.
     }
 smart-window-closed-tabs-row-label = Stängda flikar
 smart-window-closed-and-restored-label = Stängda och återställda flikar
 smart-window-restored-row-label =
     { $count ->
-        [one] Återställd flik { $count }
+        [one] Återställde { $count } flik
        *[other] Återställde { $count } flikar
     }
 smart-window-restore-success-summary =
@@ -110,11 +110,11 @@ smart-window-restore-success-summary =
     }
 smart-window-cancelled-label = Begäran avbruten.
 # Button label - "Group" is a verb (action to group tabs)
-smart-window-confirm-group-tab = Grupp
+smart-window-confirm-group-tab = Gruppera
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs =
     { $count ->
-        [one] Fliken Grupp { $count }
+        [one] Gruppera { $count } flik
        *[other] Gruppera { $count } flikar
     }
 # Action result labels for grouped tabs
@@ -122,16 +122,8 @@ smart-window-confirm-group-tabs =
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label =
     { $count ->
-        [one] Grupperad flik { $count }
+        [one] Grupperade { $count } flik
        *[other] Grupperade { $count } flikar
-    }
-# Variables
-#   $count (number) - Number of tabs grouped
-#   $label (string) - The label of the tab group
-smart-window-grouped-tabs-summary =
-    { $count ->
-        [one] Skapade gruppen "{ $label }" och la till fliken { $count }.
-       *[other] Skapade gruppen "{ $label }" och lade till { $count } flikar.
     }
 smart-window-grouped-tabs-row-label = Grupperade flikar
 # Action result labels for ungrouped tabs

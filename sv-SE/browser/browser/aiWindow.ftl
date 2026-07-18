@@ -198,6 +198,10 @@ aiwindow-close-sidebar =
     .tooltiptext = Stäng
     .aria-label = Stäng
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synkroniserad data kommer att finnas kvar på ditt konto. Öppna { -smart-window-brand-name(plural-form: "true") } byter till klassiska fönster.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Byt till { -smart-window-brand-name }
@@ -312,18 +316,18 @@ aiwindow-feedback-reason-performance-or-usability = Prestanda- eller användbarh
 aiwindow-feedback-reason-harmful-or-offensive = Skadligt eller stötande
 aiwindow-feedback-reason-other = Annat
 aiwindow-feedback-preview-report = Visa chattdetaljer
-aiwindow-feedback-preview-report-with-page = Se chatt- och siddetaljer
+aiwindow-feedback-preview-report-with-page = Visa chatt- och sidinformation
 aiwindow-feedback-include-page-content = Dela sidorna som det refereras till i denna chat
 
 ## Smart Window ai-chat-grid
 
 aiwindow-ai-chat-grid-view-controls =
-    .aria-label = Byt vylayout
+    .aria-label = Växla vylayout
 aiwindow-ai-chat-grid-list-view =
-    .aria-label = Byt läge: Listvy
+    .aria-label = Växla läge: Listvy
     .tooltiptext = Listvy
 aiwindow-ai-chat-grid-grid-view =
-    .aria-label = Byt läge: Rutnätsvy
+    .aria-label = Växla läge: Rutnätsvy
     .tooltiptext = Rutnätsvy
 
 ## Smart Window new-tab conversation starters
@@ -334,7 +338,7 @@ aiwindow-ai-chat-grid-grid-view =
 
 aiwindow-starter-writing-first-draft = Skriv ett första utkast
 aiwindow-starter-writing-improve = Förbättra skrivandet
-aiwindow-starter-writing-proofread = korrekturläsa ett meddelande
+aiwindow-starter-writing-proofread = Korrekturläs ett meddelande
 aiwindow-starter-planning-simplify = Förenkla ett ämne
 aiwindow-starter-planning-brainstorm = Brainstorma idéer
 aiwindow-starter-planning-plan = Hjälp till att göra en plan
