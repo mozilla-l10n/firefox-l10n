@@ -171,6 +171,12 @@ aiwindow-firstrun-default-checkbox-description = Váltson bármikor a beállít�
 smartwindow-ask-button =
     .label = Kérdezés
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Saját lapok csoportosítása
+    .tooltiptext = Saját lapok csoportosítása
+
 ## Memories toggle button
 
 aiwindow-memories-on =

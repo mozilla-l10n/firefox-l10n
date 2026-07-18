@@ -109,6 +109,26 @@ appmenu-remote-tabs-unverified = Ihr Konto muss verifiziert werden.
 appmenuitem-fxa-toolbar-sync-now2 = Jetzt synchronisieren
 appmenuitem-fxa-sign-in = Bei { -brand-product-name } anmelden
 appmenuitem-fxa-manage-account = Konto verwalten
+fxa-menu-sync-status-on = Synchronisation ist aktiviert
+fxa-menu-sync-status-off = Synchronisation ist deaktiviert
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Ihre Daten werden nicht synchronisiert
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Aktivieren
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Zum Synchronisieren anmelden
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = { $deviceName } jetzt synchronisieren
+fxa-menu-manage-sync-settings =
+    .label = Synchronisations-Einstellungen verwalten
+fxa-menu-add-device =
+    .label = Gerät hinzufügen
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables

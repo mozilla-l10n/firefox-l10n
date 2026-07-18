@@ -109,6 +109,40 @@ appmenu-remote-tabs-unverified = A fiókját ellenőrizni kell.
 appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
 appmenuitem-fxa-sign-in = Jelentkezzen be a { -brand-product-name }ba
 appmenuitem-fxa-manage-account = Fiók kezelése
+fxa-menu-sync-status-on = Szinkronizálás be
+fxa-menu-sync-status-off = Szinkronizálás ki
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Az adatai nem szinkronizálódnak
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Bekapcsolás
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Jelentkezzen be a szinkronizáláshoz
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = A(z) { $deviceName } szinkronizálása most
+fxa-menu-manage-sync-settings =
+    .label = Szinkronizálási beállítások kezelése
+fxa-menu-add-device =
+    .label = Eszköz hozzáadása
+fxa-menu-manage-devices =
+    .label = Eszközök kezelése
+fxa-menu-device-missing =
+    .label = Nem látja az eszközét?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Összes eszköz
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Összes eszköz
+fxa-menu-get-firefox-mobile =
+    .label = Szerezze be a { -brand-product-name }ot Androidra és iOS-re
+fxa-menu-secure-sync-subpanel =
+    .title = Biztonságos szinkronizálás
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Fiók
 # Variables
@@ -335,9 +369,16 @@ appmenu-manage-profiles =
     .label = Profilok kezelése
 appmenu-copy-profile =
     .label = Profil másolása
+appmenu-create-profile2 =
+    .label = Új profil létrehozása
 appmenu-create-profile =
     .label = Új profil
 appmenu-edit-profile =
     .aria-label = Profil szerkesztése
+appmenu-edit-this-profile =
+    .label = Profil szerkesztése
+appmenu-profile-current-in-use = Jelenleg használt profil
+fxa-menu-create-profile-subpanel =
+    .title = Új profil létrehozása
 appmenu-profiles-2 =
     .label = Profilok

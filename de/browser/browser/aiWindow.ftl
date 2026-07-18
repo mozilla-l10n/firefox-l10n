@@ -168,6 +168,12 @@ aiwindow-firstrun-default-checkbox-description = In den Einstellungen jederzeit 
 smartwindow-ask-button =
     .label = Fragen
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Meine Tabs gruppieren
+    .tooltiptext = Meine Tabs gruppieren
+
 ## Memories toggle button
 
 aiwindow-memories-on =
