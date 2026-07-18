@@ -58,6 +58,7 @@ ipprotection-feature-introduction-button-get-started = Kom i gang
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Opne VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Set til standard
 ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignorer
 

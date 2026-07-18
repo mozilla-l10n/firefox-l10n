@@ -107,8 +107,14 @@ aiwindow-firstrun-model-fast-label-v2 = Pya’e: { $shortName }
 aiwindow-firstrun-model-chip-subtitle = Techarã { $model } { $ownerName } rehe
 aiwindow-firstrun-model-allpurpose-label = Pepykuaáva
 aiwindow-firstrun-model-allpurpose-body = Oñeme’ẽ oĩva tekotevẽre
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Pepykuaa: { $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Jeroviaháva
 aiwindow-firstrun-model-personal-label = Avamba’e
 aiwindow-firstrun-model-personal-body = Mbohovái heseguaitéva
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Avamba’e: { $shortName }
 aiwindow-firstrun-button = Jaha
 aiwindow-firstrun-back-button = Tapykue
 aiwindow-firstrun-next-button = Upeigua
@@ -119,6 +125,7 @@ aiwindow-input-model-select-button-label-fast = Ipya’e
 aiwindow-input-model-select-button-label-allpurpose = Pepykuaáva
 aiwindow-input-model-select-button-label-personal = Avamba’e
 aiwindow-input-model-select-button-label-custom = Ñemomba’epyre
+aiwindow-input-model-select-button-description-custom = Eiporu LLM teéva
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -153,6 +160,12 @@ aiwindow-firstrun-default-checkbox-description = Emoambue ñemboheko ejapose vov
 
 smartwindow-ask-button =
     .label = Porandu
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Ambyaty che rendaykeita
+    .tooltiptext = Ambyaty che rendaykeita
 
 ## Memories toggle button
 
@@ -305,3 +318,15 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Emoambue ayvu: Grílla rysýi
     .tooltiptext = Grílla rysýi
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Ehai ñepyrũguávarõ
+aiwindow-starter-writing-improve = Emporãve jehaipy
+aiwindow-starter-writing-proofread = Emyatyrõ ñe’ẽmondo
+aiwindow-starter-planning-simplify = Emombyky téma
+aiwindow-starter-planning-brainstorm = Temiandukue aty

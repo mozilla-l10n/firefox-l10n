@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Ajustes de la barra lateral
 sidebar-hide-tabs-and-sidebar =
     .label = Ocultar pestañas y barra lateral
+sidebar-open-tools-from-sidebar =
+    .label = Abrir herramientas desde la barra lateral
 sidebar-show-on-the-right =
     .label = Mover barra lateral a la derecha
 sidebar-show-on-the-left =
@@ -224,7 +226,7 @@ sidebar-history-title = Historial
 sidebar-syncedtabs-title = Pestañas de otros dispositivos
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
 # currently open in the browser.
-sidebar-opentabs-title = Abrir pestañas
+sidebar-opentabs-title = Pestañas abiertas
 # Title attribute for the pinned tabs section in the Open Tabs sidebar
 # panel.
 sidebar-opentabs-pinned-tabs =

@@ -191,6 +191,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Fullført
 migration-safari-password-import-header = Importer passord frå Safari
+migration-safari-password-import-post-sequoia-step3 = Lagre fila
 migration-safari-password-import-steps-header = Slik importerer du Safari-passord:
 migration-safari-password-import-step1 = I Safari, opne «Safari»-menyen og gå til Instllingar > Passord
 migration-safari-password-import-step2 = Vel knappen <img data-l10n-name="safari-icon-3dots"/> og vel «Eksporter alle passord»
@@ -203,6 +204,7 @@ migration-chrome-windows-password-import-step2 = Vel «Innstillingar» frå meny
 migration-chrome-windows-password-import-step3 = Vel «Last ned fil» og lagre ho på eininga di.
 migration-chrome-windows-password-import-step4 = Gå tilbake hit og trykk på «Vel fil» for å fullføre importen.
 migration-manual-password-import-skip-button = Hopp over
+migration-manual-password-import-cancel-button = Avbryt
 migration-manual-password-import-select-button = Vel fil
 migration-safari-password-import-skip-button = Hopp over
 migration-safari-password-import-select-button = Vel fil

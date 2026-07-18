@@ -264,9 +264,37 @@ newtab-privacy-message-promo-relay-3-cta = Obtén máscaras
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } rastreadores bloqueados esta semana. Revisa qué está bloqueando { -brand-short-name }.
+       *[other] { $count } rastreadore bloqueado esta semana. Revisa qué está bloqueando { -brand-short-name }.
+    }
 newtab-privacy-message-milestone-week-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] Este mes se ha bloqueado { $count } rastreador. Un pequeño paso para la privacidad. Un gran paso para la tranquilidad.
+       *[other] Este mes se han bloqueado { $count } rastreadores. Un pequeño paso para la privacidad. Un gran paso para la tranquilidad.
+    }
 newtab-privacy-message-milestone-month-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } rastreador bloqueado este año. Eso representa un año importante para la protección de tu privacidad.
+       *[other] { $count } rastreadores bloqueados este año. Eso representa un año importante para la protección de tu privacidad.
+    }
 newtab-privacy-message-milestone-year-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] Se ha bloqueado { $count } rastreador. Esto supone un gran avance hacia la privacidad en tus propios términos.
+       *[other] Se han bloqueado { $count } rastreadores. Esto supone un gran avance hacia la privacidad en tus propios términos.
+    }
 newtab-privacy-message-milestone-total-cta = Ver protecciones
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Hoy se han bloqueado más de 100 rastreadores). Menos rastreadores significa más privacidad.
