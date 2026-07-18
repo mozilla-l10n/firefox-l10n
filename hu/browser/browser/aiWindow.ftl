@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Új privát ablak megnyitása
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasszikus ablak
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } váltója
+    .tooltiptext = Váltás az intelligens és a klasszikus ablakok között.
 
 ## Input CTA
 
@@ -97,6 +100,7 @@ aiwindow-firstrun-title = Üdvözli az { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Mi a fontos Önnek?
 aiwindow-firstrun-model-title-v2 = Válasszon egy modellt a kezdéshez
 aiwindow-firstrun-model-subtitle = Válasszon egy modellt az { -smart-window-brand-name(case: "lower") } alapjául. Váltson bármikor.
+aiwindow-firstrun-model-subtitle-v2 = Mindegyik modell segíthet az összegzésben, összehasonlításban és a lapok felfedezésében. Váltson bármikor.
 aiwindow-firstrun-model-fast-label = Gyors
 aiwindow-firstrun-model-fast-body = Gyorsan válaszol
 # $shortName (string) - The short name of the model version

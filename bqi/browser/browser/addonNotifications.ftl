@@ -35,6 +35,7 @@ xpinstall-prompt-install =
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 site-permission-install-first-prompt-midi-header = ای وبگه درخاست دسرسی و دسگایل MIDI (رابت دیجیتالی سازا آرنگ) ایسا ن داره. دسرسی و دسگا ن تره وا پۊرنیڌن ی وردنی فعال کونه.
+site-permission-install-first-prompt-midi-message = تزمینی سی ٱمن بیڌن ای دسرسی وۊجۊد نڌاره. تینا ی جۊر ترین رین وا پؽش ک و ای وبگه ائتماد داشته بۊین.
 
 ##
 
