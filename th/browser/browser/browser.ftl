@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = จัดการ { -firefox-sugge
 urlbar-result-menu-report-inaccurate-location2 = รายงานตำแหน่งที่ไม่แม่นยำ
 urlbar-result-menu-show-less-frequently2 = แสดงน้อยลง
 urlbar-result-menu-dont-show-weather-suggestions2 = ไม่ต้องแสดงคำแนะนำเกี่ยวกับสภาพอากาศ
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = เพิกเฉยคำแนะนำนี้
+    .accesskey = พ
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = เอาออกจากประวัติ
+    .accesskey = อ
 urlbar-result-menu-learn-more =
     .label = เรียนรู้เพิ่มเติม
     .accesskey = ร
@@ -403,6 +413,9 @@ quickactions-addons = ดูส่วนเสริม
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = ส่วนขยาย, ชุดตกแต่ง, ส่วนเสริม
+# Opens preferences page at AI controls
+quickactions-manageai = จัดการส่วนควบคุม AI
+quickactions-cmd-manageai = ปิดใช้งาน AI, ปิด AI, จัดการ AI
 quickactions-cmd-addons2 = ส่วนเสริม
 # Opens the bookmarks library window
 quickactions-bookmarks2 = จัดการที่คั่นหน้า
@@ -574,6 +587,8 @@ identity-clear-site-data =
     .label = ล้างคุกกี้และข้อมูลไซต์…
 identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 identity-connection-verified = คุณได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
+identity-ev-owner-label2 = ออกใบรับรองให้กับ
+identity-verifier-label2 = ยืนยันโดย
 identity-ev-owner-label = ออกใบรับรองให้กับ:
 identity-verifier-label = ยืนยันโดย:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -922,6 +937,31 @@ urlbar-result-explanation-last-visited-absolute = คุณเยี่ยมช
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = เพิ่มที่คั่นหน้าเมื่อ { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $daysAgo } วันก่อน
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $weeksAgo } สัปดาห์ก่อน
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $monthsAgo } เดือนก่อน
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1039,6 +1079,14 @@ urlbar-searchmode-no-keyword2 =
     .title = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
 urlbar-searchmode-dropmarker2 =
     .title = เลือกเครื่องมือค้นหา
+urlbar-searchmode-bookmarks3 = ที่คั่นหน้า
+    .accesskey = ท
+urlbar-searchmode-tabs3 = แท็บ
+    .accesskey = แ
+urlbar-searchmode-history3 = ประวัติ
+    .accesskey = ป
+urlbar-searchmode-actions3 = การกระทำ
+    .accesskey = ก
 urlbar-searchmode-bookmarks2 = ที่คั่นหน้า
 urlbar-searchmode-tabs2 = แท็บ
 urlbar-searchmode-history2 = ประวัติ
@@ -1058,6 +1106,10 @@ urlbar-searchmode-popup-one-off-header = ครั้งนี้ค้นหา
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = ค้นหาด้วย:
+urlbar-searchmode-popup-search-settings = การตั้งค่าการค้นหา
+    .accesskey = า
+urlbar-searchmode-popup-settings = การตั้งค่า
+    .accesskey = า
 urlbar-searchmode-popup-search-settings-panelitem = การตั้งค่าการค้นหา
 urlbar-searchmode-popup-settings-panelitem = การตั้งค่า
 
