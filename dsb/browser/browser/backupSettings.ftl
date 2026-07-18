@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Zawěsćenje zmóžniś
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Dajo problem z wašym wubranym zawěsćeńskim zarědnikom. Wubjeŕśo drugi zarědnik a wopytajśo hyšći raz.
+turn-on-scheduled-backups-error-default-dir-denied = Njejsmy mógli pśistup k wašomu zawěsćeńskemu zarědnikoju. Wopytajśo nowe městno wubraś.
 backup-error-file-system = Dajo problem z wašym wubranym zawěsćeńskim zarědnikom, mjaztym až { -brand-short-name } zawěsćujo.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

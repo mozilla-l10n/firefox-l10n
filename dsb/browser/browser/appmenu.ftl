@@ -110,6 +110,39 @@ appmenuitem-fxa-toolbar-sync-now2 = Něnto synchronizěrowaś
 appmenuitem-fxa-sign-in = Pla { -brand-product-name } pśizjawiś
 appmenuitem-fxa-manage-account = Konto zastojaś
 fxa-menu-sync-status-on = Synchronizacija jo zmóžnjona
+fxa-menu-sync-status-off = Synchronizacija jo znjemóžnjona
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Waše daty se njesynchronizěruju
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Zmóžniś
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Za synchronizaciju pśizjawiś
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = { $deviceName } něnto synchronizěrowaś
+fxa-menu-manage-sync-settings =
+    .label = Nastajenja synchronizacije zastojaś
+fxa-menu-add-device =
+    .label = Rěd pśidaś
+fxa-menu-manage-devices =
+    .label = Waše rědy zastojaś
+fxa-menu-device-missing =
+    .label = Njewiźiśo swój rěd?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Wšykne rědy
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Wšykne rědy
+fxa-menu-get-firefox-mobile =
+    .label = { -brand-product-name } za Android abo iOS wobstaraś
+fxa-menu-secure-sync-subpanel =
+    .title = Wěsta synchronizacija
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -333,9 +366,43 @@ appmenu-manage-profiles =
     .label = Profile zastojaś
 appmenu-copy-profile =
     .label = Toś ten profil kopěrowaś
+appmenu-create-profile2 =
+    .label = Nowy profil załožyś
 appmenu-create-profile =
     .label = Nowy profil
 appmenu-edit-profile =
     .aria-label = Profil wobźěłaś
+appmenu-edit-this-profile =
+    .label = Toś ten profil wobźěłaś
+appmenu-profile-current-in-use = Aktualny profil se wužywa
+fxa-menu-create-profile-subpanel =
+    .title = Nowy profil załožyś
+fxa-menu-create-profile-heading = Pówušćo niwow swójogo pśeglědowanja z nowym profilom
+fxa-menu-create-profile-confirm =
+    .label = Nowy profil załožyś
+fxa-menu-create-profile-learn-more =
+    .label = Co su profile?
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Wšykne profile
+appmenu-secure-sync-header = Wěsta synchronizacija
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nejnowše rejtariki
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } synchronizěrowany rejtarik pokazaś
+            [two] Wobej { $tabCount } synchronizěrowanej rejtarika pokazaś
+            [few] Wšykne { $tabCount } synchronizěrowane rejtariki pokazaś
+           *[other] Wšykne { $tabCount } synchronizěrowanych rejtarikow pokazaś
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Aktualny bok na toś ten rěd pósłaś

@@ -261,6 +261,8 @@ newtab-privacy-message-streak =
        *[other] Sćo { $count } dnjow za sobu šćitany
     }
 newtab-privacy-message-streak-cta = Šćity pokazaś
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Pśeglědujśo dalej, { -brand-short-name } dalej blokěrujo.
 newtab-privacy-message-first-protection-cta = Šćity pokazaś
 
 ## Strings for the Stocks widget

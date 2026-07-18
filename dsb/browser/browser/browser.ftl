@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } zas
 urlbar-result-menu-report-inaccurate-location2 = Njedokradne stojnišćo k wěsći daś
 urlbar-result-menu-show-less-frequently2 = Mjenjej cesto pokazaś
 urlbar-result-menu-dont-show-weather-suggestions2 = Wjedrowe daty njepokazaś
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Toś to naraźenje zachyśiś
+    .accesskey = z
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Z historije wótwónoźeś
+    .accesskey = t
 urlbar-result-menu-learn-more =
     .label = Dalšne informacije
     .accesskey = D
@@ -583,6 +593,8 @@ identity-clear-site-data =
     .label = Cookieje a sedłowe daty wulašowaś…
 identity-connection-not-secure-security-view = Njejsćo wěsće zwězany z toś tym sedłom.
 identity-connection-verified = Sćo wěsće zwězany z toś tym sedłom.
+identity-ev-owner-label2 = Certifikat wudany na
+identity-verifier-label2 = Pśespytany wót
 identity-ev-owner-label = Certifikat wudany na:
 identity-verifier-label = Pśespytany wót:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -1132,6 +1144,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Pytanje z klucowymi słowami jo znjemóžnjone
 urlbar-searchmode-dropmarker2 =
     .title = Wubjeŕśo pytnicu
+urlbar-searchmode-bookmarks3 = Cytańske znamjenja
+    .accesskey = C
+urlbar-searchmode-tabs3 = Rejtariki
+    .accesskey = R
 urlbar-searchmode-bookmarks2 = Cytańske znamjenja
 urlbar-searchmode-tabs2 = Rejtariki
 urlbar-searchmode-history2 = Historija
