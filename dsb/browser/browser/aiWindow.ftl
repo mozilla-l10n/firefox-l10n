@@ -97,12 +97,16 @@ aiwindow-firstrun-title = Witajśo k { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Co jo wam wažne?
 aiwindow-firstrun-model-fast-label = Malsny
 aiwindow-firstrun-model-fast-body = Wótegranja malsnje
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Malsny: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Nejlěpjej za malsne wótegrona, gaž se malsnje gibjośo
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } wót { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibelny
 aiwindow-firstrun-model-personal-label = Wósobinski
+aiwindow-firstrun-model-personal-body = Nejlěpjej pśiměrjone wótegrona
 aiwindow-firstrun-button = Zachopmy
 aiwindow-firstrun-back-button = Slědk
 aiwindow-firstrun-next-button = Dalej
