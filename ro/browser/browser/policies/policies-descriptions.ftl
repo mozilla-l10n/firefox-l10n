@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Blochează accesul la pagina about:support.
 policy-Bookmarks = Creează marcaje în bara de marcaje, în meniul de marcaje sau într-un dosar specificat din ele.
 policy-CaptivePortal = Activează sau dezactivează suportul pentru portaluri captive.
 policy-CertificatesDescription = Adaugă certificate sau folosește certificate încorporate.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Activează acordul de chei CNSA 2.0 ML-KEM-1024 pentru TLS.
 policy-ContentAnalysis = Activează sau dezactivează conexiunea la agentul de prevenire a pierderilor de date.
 policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-urile web.
 # Containers in this context is referring to container tabs in Firefox.

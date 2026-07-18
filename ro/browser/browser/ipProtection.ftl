@@ -61,8 +61,27 @@ ipprotection-summer-promo-offramp-generic-title = Limitele VPN-ului încorporat 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description = Folosește-ți { $maxUsage } GB și 6 locații pentru confidențialitate suplimentară ca să îți faci navigarea mai greu de urmărit până la tine.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Folosește-ți { $maxUsage } GB și peste 20 de locații pentru confidențialitate suplimentară ca să îți faci navigarea mai greu de urmărit până la tine.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = VPN-ul tău încorporat tocmai a devenit mai bun
+ipprotection-summer-promo-offramp-subscriber-description = Acum beneficiezi de lățime de bandă nelimitată și mai multe locații ca abonat { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Păstrează-ți locațiile suplimentare din VPN-ul încorporat
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Fă { -brand-product-name } browserul principal și primești peste 20 de locuri suplimentare din care să navighezi după 31 august.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Treci la un alt nivel cu { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Păstrează lățimea de bandă nelimitată după 31 august, cu peste 300 de locații pe 5 dispozitive, pentru ca navigarea ta să fie mai greu de urmărit până la tine.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Deschide VPN-ul
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Setează ca implicit
 ipprotection-summer-promo-offramp-get-subscription-button = Obține { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Închide
 
@@ -165,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Verifică conexiunea la i
 ipprotection-connection-status-network-error-description = Conectează-te la internet, apoi încearcă să activezi VPN-ul.
 ipprotection-connection-status-blocked-error-title-1 = VPN-ul este indisponibil
     .aria-label = VPN-ul este indisponibil
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Legile și restricțiile locale limitează locurile în care poți utiliza VPN. <a data-l10n-name="learn-more-link">Află mai multe</a>
 ipprotection-connection-status-blocked-error-description = Legislația locală nu ne permite să oferim servicii VPN în această regiune. <a data-l10n-name="learn-more-link">Află mai multe</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

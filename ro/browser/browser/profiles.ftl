@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Șterge
+edit-profile-page-avatar-selector-opener-button =
+    .title = Editează avatarul
 edit-profile-page-avatar-selector-opener-link = Editează
 avatar-selector-icon-tab = Pictogramă
 avatar-selector-custom-tab = Personalizat
@@ -95,6 +97,9 @@ delete-profile-logins = Parole
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Șterge profilul „{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Ștergi profilul „{ $profilename }”?
 
 ##
 

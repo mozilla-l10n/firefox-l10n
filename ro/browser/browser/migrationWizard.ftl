@@ -194,6 +194,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Încheiat
 migration-safari-password-import-header = Importă parole din Safari
+migration-safari-password-import-post-sequoia-step1 = Deschide <a data-l10n-name="macos-passwords-app">aplicația Parole</a> de pe Mac
+migration-safari-password-import-post-sequoia-step2 = Din bara de meniu din partea de sus a ecranului, alege Fișier > Exportă toate parolele în fișierul…
+migration-safari-password-import-post-sequoia-step3 = Salvează fișierul
+migration-safari-password-import-post-sequoia-step4 = Selectează fișierul pe care l-ai salvat
 migration-safari-password-import-steps-header = Pentru import de parole din Safari:
 migration-safari-password-import-step1 = În Safari, deschide meniul „Safari” și mergi la Preferințe > Parole
 migration-safari-password-import-step2 = Selectează butonul <img data-l10n-name="safari-icon-3dots"/> și alege „Exportă toate parolele”
@@ -206,6 +210,7 @@ migration-chrome-windows-password-import-step2 = Selectează „Setări” din m
 migration-chrome-windows-password-import-step3 = Selectează „Descarcă fișierul” și salvează-l pe dispozitiv.
 migration-chrome-windows-password-import-step4 = Revino aici și apasă „Selectează fișierul” pentru finalizarea importului.
 migration-manual-password-import-skip-button = Omite
+migration-manual-password-import-cancel-button = Anulează
 migration-manual-password-import-select-button = Selectează un fișier
 migration-safari-password-import-skip-button = Omite
 migration-safari-password-import-select-button = Selectează un fișier
