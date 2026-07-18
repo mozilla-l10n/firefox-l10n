@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = 아바타
 edit-profile-page-delete-button =
     .label = 삭제
+edit-profile-page-avatar-selector-opener-button =
+    .title = 아바타 편집
 edit-profile-page-avatar-selector-opener-link = 편집
 avatar-selector-icon-tab = 아이콘
 avatar-selector-custom-tab = 사용자 지정
@@ -95,6 +97,9 @@ delete-profile-logins = 비밀번호
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = “{ $profilename }” 프로필 삭제
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = “{ $profilename }” 프로필을 삭제하시겠습니까?
 
 ##
 

@@ -70,6 +70,15 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = 더 좋아진 내장 VPN
 ipprotection-summer-promo-offramp-subscriber-description = 이제 { -mozilla-vpn-brand-name } 구독자는 무제한 대역폭과 더 많은 위치를 이용할 수 있습니다.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = 추가로 제공되는 내장 VPN 위치를 그대로 유지하세요
+ipprotection-summer-promo-offramp-default-browser-incentive-description = { -brand-product-name }를 기본 브라우저로 설정하세요. 8월 31일 이후에도 20개 이상의 추가 위치를 이용하실 수 있습니다.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name }과 함께 한 단계 더 나아가기
+ipprotection-summer-promo-offramp-subscription-upsell-description = 8월 31일 이후에도 대역폭 무제한 혜택을 그대로 유지하세요. 5대의 기기에서 300개 이상의 위치를 이용해 탐색 활동의 추적을 어렵게 만듭니다.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN 열기
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 기본으로 설정
@@ -175,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = 인터넷 연결 확인
 ipprotection-connection-status-network-error-description = 인터넷에 연결하고, VPN을 켜보세요.
 ipprotection-connection-status-blocked-error-title-1 = VPN을 사용할 수 없음
     .aria-label = VPN을 사용할 수 없음
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = 현지 법률과 규제에 따라 일부 지역에서는 VPN 사용이 제한될 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 ipprotection-connection-status-blocked-error-description = 현지 법률에 따라 이 지역에서는 VPN 서비스를 제공할 수 없습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
