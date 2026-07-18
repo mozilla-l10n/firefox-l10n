@@ -528,7 +528,7 @@ bookmark-panel-remove =
         }
     .accesskey = U
 bookmark-panel-show-editor-checkbox =
-    .label = Wyświetlanie tego okna podczas dodawania
+    .label = Wyświetlaj to okno podczas dodawania
     .accesskey = W
 bookmark-panel-save-button =
     .label = Zachowaj

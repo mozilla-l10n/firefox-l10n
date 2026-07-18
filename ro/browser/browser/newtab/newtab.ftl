@@ -233,7 +233,7 @@ newtab-privacy-message-info-11 = Află cum te ajută { -brand-short-name } să n
 newtab-privacy-message-info-11-cta = Află mai multe
 newtab-privacy-message-info-12 = Blocarea elementelor de urmărire ajută la economisirea lățimii de bandă în cazul abonamentelor de date limitate.
 newtab-privacy-message-info-12-cta = Vezi protecțiile
-newtab-privacy-message-info-13 = { -brand-short-name } blochează elementele de urmărire, eliberând lățime de bandă pentru un flux mai fluid.
+newtab-privacy-message-info-13 = { -brand-short-name } blochează elementele de urmărire, eliberând lățime de bandă pentru redare în flux mai fluidă.
 newtab-privacy-message-info-13-cta = Vezi protecțiile
 
 ## Privacy widget — promotional messages

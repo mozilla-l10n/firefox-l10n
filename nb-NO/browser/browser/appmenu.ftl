@@ -382,6 +382,7 @@ appmenu-profile-current-in-use = Gjeldende profil i bruk
 fxa-menu-create-profile-subpanel =
     .title = Opprett en ny profil
 fxa-menu-create-profile-heading = Ta nettlesingen din i et nytt nivå med en ny profil
+fxa-menu-create-profile-description = Hold bokmerker, passord og historikk adskilt mellom jobb og privat surfing.
 fxa-menu-create-profile-confirm =
     .label = Opprett ny profil
 fxa-menu-create-profile-learn-more =
