@@ -121,10 +121,24 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Accede pro synchronisar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Ora synchronisar { $deviceName }
+fxa-menu-manage-sync-settings =
+    .label = Gerer configurationes del synchronisation
 fxa-menu-add-device =
     .label = Adder un apparato
 fxa-menu-manage-devices =
     .label = Gerer proprie apparatos
+fxa-menu-device-missing =
+    .label = Non vide tu tu apparato?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Tote le apparatos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Tote le apparatos
 fxa-menu-secure-sync-subpanel =
     .title = Synchronisation secur
 appmenu-fxa-header2 = { -fxaccount-brand-name }

@@ -110,13 +110,30 @@ addon-confirm-install-message =
         [one] ای وبگه اخو وردنی ای ن من { -brand-short-name } بپۊرنه:
        *[other] ای وبگه اخو وردنی یل { $addonCount } ن من { -brand-short-name } بپۊرنه:
     }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [1] هوشدار: ای وبگه اخو ی وردنی تاییڌ نوابیڌه ن من { -brand-short-name } بپۊرنه. مسعۊلیت هر چیه ب مول شووݩ خوته.
+        [one] هوشدار: ای وبگه اخو ی وردنی تاییڌ نوابیڌه ن من { -brand-short-name } بپۊرنه. مسعۊلیت هر چیه ب مول شووݩ خوته.
+       *[other] هوشدار: ای وبگه اخو { $addonCount } وردنی تاییڌ نوابیڌه و ری { -brand-short-name } بپۊرنه. مسعۊلیت هر چیه ب مول شووݩ خوته.
+    }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+        [one] هوشدار: ای وبگه اخو { $addonCount } وردنی و ری { -brand-short-name } بپۊرنه، ک ی قرده ز هونووݩ تاییڌ نوابینه. مسعۊلیت هر چیه ب مول شووݩ خوته.
+       *[other] هوشدار: ای وبگه اخو { $addonCount } وردنی و ری { -brand-short-name } بپۊرنه، ک ی قرده ز هونووݩ تاییڌ نوابینه. مسعۊلیت هر چیه ب مول شووݩ خوته.
+    }
 
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
 
 addon-install-error-network-failure = چیناکه موشکلی من منپیز بی، دانلود وردنی و موشکل خرد.
+addon-install-error-incorrect-hash = ای وردنی وا وردنی { -brand-short-name } ک اخاستیم فرق داره، وو سی دل هیمو نؽپۊره.
 addon-install-error-corrupt-file = وردنی دانلود وابیڌه ز ای وبگه منی خراو وابیڌه وو نؽبۊ بپۊره.
+addon-install-error-file-access = { -brand-short-name } نترست فایلا موورد نیاز ن آلشت کونه، وو سی دل هیمو پۊرنیڌن { $addonName } و موشکل خرده.
+addon-install-error-not-signed = { -brand-short-name } ز پۊرستن ی وردنی تاییڌ نوابیڌه و دست ای وبگه جلاوگری کرد.
+addon-install-error-invalid-domain = وردنی { $addonName } ن نتره ز ای جاگه بپۊرنه.
 addon-local-install-error-corrupt-file = ای وردنی منی خراو وابیڌه وو نؽبۊ بپۊره.
 addon-local-install-error-not-signed = ای وردنی نتره بپۊره چیناکه تاییڌ نوابیڌه.
 addon-install-error-hard-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
