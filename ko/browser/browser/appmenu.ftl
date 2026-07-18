@@ -109,6 +109,40 @@ appmenu-remote-tabs-unverified = 계정 확인이 필요합니다.
 appmenuitem-fxa-toolbar-sync-now2 = 지금 동기화
 appmenuitem-fxa-sign-in = { -brand-product-name }에 로그인
 appmenuitem-fxa-manage-account = 계정 관리
+fxa-menu-sync-status-on = 동기화 켜짐
+fxa-menu-sync-status-off = 동기화 꺼짐
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = 데이터가 동기화되고 있지 않음
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = 켜기
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Sync에 로그인
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = 지금 { $deviceName } 동기화
+fxa-menu-manage-sync-settings =
+    .label = 동기화 설정 관리
+fxa-menu-add-device =
+    .label = 기기 추가
+fxa-menu-manage-devices =
+    .label = 기기 관리
+fxa-menu-device-missing =
+    .label = 사용자의 기기가 없나요?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = 모든 기기
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = 모든 기기
+fxa-menu-get-firefox-mobile =
+    .label = Android 또는 iOS용 { -brand-product-name } 받기
+fxa-menu-secure-sync-subpanel =
+    .title = 보안 동기화
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = 계정
 # Variables
