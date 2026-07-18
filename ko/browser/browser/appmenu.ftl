@@ -370,9 +370,38 @@ appmenu-manage-profiles =
     .label = 프로필 관리
 appmenu-copy-profile =
     .label = 이 프로필 복사
+appmenu-create-profile2 =
+    .label = 새 프로필 만들기
 appmenu-create-profile =
     .label = 새 프로필
 appmenu-edit-profile =
     .aria-label = 프로필 편집
+appmenu-edit-this-profile =
+    .label = 프로필 편집
+appmenu-profile-current-in-use = 사용 중인 현재 프로필
+fxa-menu-create-profile-subpanel =
+    .title = 새 프로필 만들기
+fxa-menu-create-profile-heading = 새 프로필로 한 차원 높은 탐색을 경험해 보세요
+fxa-menu-create-profile-description = 북마크, 비밀번호 및 기록을 업무용과 개인용으로 구분하여 유지하세요.
+fxa-menu-create-profile-confirm =
+    .label = 새 프로필 만들기
+fxa-menu-create-profile-learn-more =
+    .label = 프로필이란?
 appmenu-profiles-2 =
     .label = 프로필
+appmenu-profiles-header = 프로필
+appmenu-all-profiles =
+    .label = 모든 프로필
+appmenu-secure-sync-header = 보안 동기화
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = 최근 탭
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label = 동기화된 탭 { $tabCount }개 모두 보기
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = 현재 페이지를 이 기기로 보내기

@@ -587,6 +587,8 @@ identity-clear-site-data =
     .label = 쿠키 및 사이트 데이터 지우기…
 identity-connection-not-secure-security-view = 이 사이트에 안전하게 연결되어 있지 않습니다.
 identity-connection-verified = 이 사이트에 안전하게 연결되어 있습니다.
+identity-ev-owner-label2 = 인증서 발급 대상:
+identity-verifier-label2 = 인증 기관:
 identity-ev-owner-label = 인증서 발급 대상:
 identity-verifier-label = 인증 기관:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

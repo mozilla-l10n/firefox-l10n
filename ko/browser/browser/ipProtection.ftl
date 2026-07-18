@@ -56,8 +56,15 @@ ipprotection-feature-introduction-button-get-started = 시작하기
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = 9월 1일에 내장 VPN 한도가 초기화됨
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = 더 좋아진 내장 VPN
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN 열기
+ipprotection-summer-promo-offramp-set-to-default-primary-button = 기본으로 설정
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } 받기
 ipprotection-summer-promo-offramp-dismiss-secondary-button = 닫기
 
