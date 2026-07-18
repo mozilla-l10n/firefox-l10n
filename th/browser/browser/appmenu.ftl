@@ -389,3 +389,19 @@ fxa-menu-create-profile-learn-more =
     .label = โปรไฟล์คืออะไร?
 appmenu-profiles-2 =
     .label = โปรไฟล์
+appmenu-profiles-header = โปรไฟล์
+appmenu-all-profiles =
+    .label = โปรไฟล์ทั้งหมด
+appmenu-secure-sync-header = การซิงค์แบบปลอดภัย
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = แท็บล่าสุด
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label = ดู { $tabCount } แท็บที่ซิงค์
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = ส่งหน้าปัจจุบันไปยังอุปกรณ์นี้
