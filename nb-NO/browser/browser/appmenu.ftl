@@ -109,6 +109,40 @@ appmenu-remote-tabs-unverified = Kontoen din må bekrefts.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nå
 appmenuitem-fxa-sign-in = Logg inn på { -brand-product-name }
 appmenuitem-fxa-manage-account = Behandle konto
+fxa-menu-sync-status-on = Synkroniseringen er på
+fxa-menu-sync-status-off = Synkronisering er av
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Dine data synkroniseres ikke
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Slå på
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Logg inn for å synkronisere
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Synkroniser { $deviceName } nå
+fxa-menu-manage-sync-settings =
+    .label = Behandle synkroniseringsinnstillinger
+fxa-menu-add-device =
+    .label = Legg til enhet
+fxa-menu-manage-devices =
+    .label = Behandle enheter
+fxa-menu-device-missing =
+    .label = Ser du ikke din enhet?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Alle enheter
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Alle enheter
+fxa-menu-get-firefox-mobile =
+    .label = Få { -brand-product-name } for Android eller iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sikker synkronisering
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -336,9 +370,17 @@ appmenu-manage-profiles =
     .label = Behandle profiler
 appmenu-copy-profile =
     .label = Kopier denne profilen
+appmenu-create-profile2 =
+    .label = Lag en ny profil
 appmenu-create-profile =
     .label = Ny profil
 appmenu-edit-profile =
     .aria-label = Rediger profil
+appmenu-edit-this-profile =
+    .label = Rediger denne profilen
+appmenu-profile-current-in-use = Gjeldende profil i bruk
+fxa-menu-create-profile-subpanel =
+    .title = Opprett en ny profil
+fxa-menu-create-profile-heading = Ta nettlesingen din i et nytt nivå med en ny profil
 appmenu-profiles-2 =
     .label = Profiler
