@@ -64,7 +64,7 @@ ipprotection-summer-promo-offramp-generic-description = Använd dina { $maxUsage
 # Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Använd dina { $maxUsage } GB och mer än 20 platser för extra integritet och göra din surfning svårare att spåra tillbaka till dig.
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Använd dina { $maxUsage } GB och mer än 20 platser för extra integritet så att det blir svårare att spåra din surfning tillbaka till dig.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
@@ -77,8 +77,8 @@ ipprotection-summer-promo-offramp-default-browser-incentive-title = Behåll dina
 ipprotection-summer-promo-offramp-default-browser-incentive-description = Gör { -brand-product-name } till din favoritwebbläsare och få mer än 20 extraplatser att surfa från efter den 31 augusti.
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
-ipprotection-summer-promo-offramp-subscription-upsell-title = Gå en nivå med { -mozilla-vpn-brand-name }
-ipprotection-summer-promo-offramp-subscription-upsell-description = Behåll obegränsad bandbredd efter den 31 augusti, med över 300 platser på 5 enheter för att göra din surfning svårare att spåra tillbaka till dig.
+ipprotection-summer-promo-offramp-subscription-upsell-title = Levla upp med { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Behåll obegränsad bandbredd efter den 31 augusti, med över 300 platser på 5 enheter för att göra det svårare att spåra din surfning tillbaka till dig.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Öppna VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ange som standard
