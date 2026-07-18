@@ -343,6 +343,9 @@ tab-group-editor-done =
     .label = Facite
     .accessKey = F
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Condivider gruppo
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Condivider gruppo de schedas
 tab-context-reopen-tab-group =
@@ -389,6 +392,12 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = Mover gruppo a iste fenestra
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = Nove
+    .label = Condivider gruppo
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.

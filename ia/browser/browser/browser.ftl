@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Rader cookies e datos de sitos…
 identity-connection-not-secure-security-view = Tu non es connectite con securitate a iste sito.
 identity-connection-verified = Tu es connectite con securitate a iste sito.
+identity-ev-owner-label2 = Certificato emittite pro:
+identity-verifier-label2 = Verificate per
 identity-ev-owner-label = Certificato emittite a:
 identity-verifier-label = Verificate per:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

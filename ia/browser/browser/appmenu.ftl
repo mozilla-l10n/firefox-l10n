@@ -139,6 +139,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Tote le apparatos
+fxa-menu-get-firefox-mobile =
+    .label = Installa { -brand-product-name } pro Android o iOS
 fxa-menu-secure-sync-subpanel =
     .title = Synchronisation secur
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -379,8 +381,12 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Actual profilo in uso
 fxa-menu-create-profile-subpanel =
     .title = Crear un nove profilo
+fxa-menu-create-profile-heading = Meliora tu navigation con un nove profilo
+fxa-menu-create-profile-description = Mantene tu marcapaginas, contrasignos, e chronologia separate pro le labor e le navigation personal.
 fxa-menu-create-profile-confirm =
     .label = Crear nove profilo
+fxa-menu-create-profile-learn-more =
+    .label = Que es le profilos?
 appmenu-profiles-2 =
     .label = Profilos
 appmenu-profiles-header = Profilos
@@ -391,3 +397,15 @@ appmenu-secure-sync-header = Synchronisation secur
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Schedas recente
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Vider { $tabCount } scheda synchronisate
+           *[other] Vider tote le { $tabCount } schedas synchronisate
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Inviar pagina actual a iste apparato
