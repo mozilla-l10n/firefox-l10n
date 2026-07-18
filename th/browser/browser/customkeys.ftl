@@ -62,11 +62,49 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = คุณลักษณะนี้ยังอยู่ในขั้นทดลองและอาจไม่ทำงานอย่างที่คาดหวัง
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ไม่ถูกต้อง
+customkeys-shortcut-unassigned =
+    .placeholder = เพิ่มปุ่มลัด
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = ปุ่มลัดสำหรับ: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = แก้ไข
+    .tooltiptext = แก้ไข
 customkeys-key-clear =
     .aria-label = ล้าง
     .tooltiptext = ล้าง
+customkeys-key-reset =
+    .aria-label = เรียกคืน
+    .tooltiptext = เรียกคืน
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = กดแป้นใหม่:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = เอาปุ่มลัดอื่นออกหรือไม่?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = ปุ่มนี้ถูกใช้แล้วโดย “{ $conflict }”
+customkeys-conflict-confirm-button-confirm = ใช้ต่อไป
+customkeys-conflict-confirm-button-cancel = ยกเลิก
+customkeys-reset-all-confirm-title = เรียกคืนค่าเริ่มต้นหรือไม่?
+customkeys-reset-all-confirm-body = แป้นพิมพ์ลัดกำหนดเองใด ๆ ที่คุณสร้างขึ้นจะถูกเอาออก
+customkeys-reset-all-confirm-button-confirm = เรียกคืนค่าเริ่มต้น
+customkeys-reset-all-confirm-button-cancel = ยกเลิก
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = แถบข้าง
+customkeys-title-heading =
+    .heading = แป้นพิมพ์ลัด
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = ค้นหาปุ่มลัด
+    .placeholder = ค้นหาปุ่มลัด
+customkeys-description = ควบคุมวิธีการเคลื่อนที่และการโต้ตอบของคุณกับ { -brand-short-name }
+customkeys-support-link-text = เรียนรู้เพิ่มเติม
+customkeys-reset-all-button = เรียกคืนค่าเริ่มต้น
