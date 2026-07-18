@@ -2458,14 +2458,14 @@ preferences-doh-status-item-not-active-local =
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
-    .message = HTTPS를 통한 DNS가 { $name } 로컬 공급자를 사용하고 있습니다.
+    .message = DNS over HTTPS가 { $name } 로컬 공급자를 사용하고 있습니다.
 preferences-doh-select-resolver-label =
     .label = 공급자 선택:
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
     .label = { $name }
-    .tooltiptext = HTTPS를 통한 DNS 해석에 이 공급자를 사용
+    .tooltiptext = DNS over HTTPS 해석에 이 공급자를 사용
 preferences-doh-custom-provider-label =
     .aria-label = 사용자 지정 공급자 URL 입력
 preferences-doh-header2 =
@@ -2729,7 +2729,7 @@ security-privacy-issue-warning-ech2 =
     .description = Encrypted Client Hello는 사용자가 방문하는 사이트를 네트워크 공급자로부터 숨깁니다.
 security-privacy-issue-warning-doh =
     .label = DNS over HTTPS가 꺼짐
-    .description = HTTPS를 통한 DNS는 사용자가 방문하는 사이트를 네트워크 공급자로부터 숨깁니다.
+    .description = DNS over HTTPS는 사용자가 방문하는 사이트를 네트워크 공급자로부터 숨깁니다.
 security-privacy-issue-warning-ech =
     .label = Encrypted Client Hello가 비활성화됨
     .description = Encrypted Client Hello는 사용자가 방문하는 사이트를 네트워크 공급자로부터 숨깁니다.

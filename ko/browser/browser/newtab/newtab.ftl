@@ -285,6 +285,8 @@ newtab-privacy-message-first-protection-cta = 보호 기능 보기
 newtab-stocks-menu-search = 주식 종목 코드 검색
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 더 알아보기
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = 주식 데이터가 없습니다.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

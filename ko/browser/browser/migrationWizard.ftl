@@ -179,6 +179,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = 완료
 migration-safari-password-import-header = Safari에서 비밀번호 가져오기
+migration-safari-password-import-post-sequoia-step1 = Mac에서 <a data-l10n-name="macos-passwords-app">비밀번호 앱</a> 열기
 migration-safari-password-import-steps-header = Safari 비밀번호를 가져오려면:
 migration-safari-password-import-step1 = Safari에서 "Safari" 메뉴를 열고 설정 > 비밀번호로 이동하세요
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> 버튼을 선택하고 "모든 비밀번호 내보내기"를 선택하세요

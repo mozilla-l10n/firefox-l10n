@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Khám phá tiện ích mở rộng
 unified-extensions-empty-reason-private-browsing-not-allowed = Bạn đã cài đặt tiện ích mở rộng nhưng chưa bật trong cửa sổ riêng tư
 unified-extensions-empty-reason-extension-not-enabled = Bạn đã cài đặt tiện ích mở rộng nhưng chưa bật
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Một vài tiện ích mở rộng sẽ tạo nên sự khác biệt lớn
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Nâng cấp trình duyệt của bạn với tiện ích mở rộng
 unified-extensions-empty-content-explain-enable2 = Chọn “{ unified-extensions-manage-extensions.label }” để bật chúng trong cài đặt.
 unified-extensions-empty-content-explain-manage2 = Chọn “{ unified-extensions-manage-extensions.label }” để quản lý chúng trong cài đặt.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Chúng tôi có những lời khuyên giúp bạn cải thiện khả năng tập trung, bảo mật thông tin và nhiều hơn nữa.
 unified-extensions-empty-content-explain-extensions-onboarding = Cá nhân hóa { -brand-short-name } bằng cách thay đổi giao diện và hiệu suất hoặc tăng cường quyền riêng tư và an toàn.
 
 ## An extension in the main list

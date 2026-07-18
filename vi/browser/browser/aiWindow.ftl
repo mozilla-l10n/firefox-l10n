@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Mở cửa sổ riêng tư mới
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Cửa sổ thông thường
+toolbar-switcher-customizable-label =
+    .label = Chuyển đổi { -smart-window-brand-name }
+    .tooltiptext = Chuyển đổi giữa cửa sổ thông minh và cửa sổ thông thường.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Thay đổi bất cứ lúc nà
 
 smartwindow-ask-button =
     .label = Hỏi
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Nhóm các thẻ của tôi
+    .tooltiptext = Nhóm các thẻ của tôi
 
 ## Memories toggle button
 

@@ -179,6 +179,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Hoàn tất
 migration-safari-password-import-header = Nhập mật khẩu từ Safari
+migration-safari-password-import-post-sequoia-step1 = Mở <a data-l10n-name="macos-passwords-app">ứng dụng mật khẩu</a> trên Mac của bạn
+migration-safari-password-import-post-sequoia-step2 = Từ thanh menu ở đầu màn hình, hãy chọn Tệp > Xuất tất cả mật khẩu vào tệp…
+migration-safari-password-import-post-sequoia-step3 = Lưu tập tin
+migration-safari-password-import-post-sequoia-step4 = Chọn tập tin bạn đã lưu
 migration-safari-password-import-steps-header = Để nhập mật khẩu Safari:
 migration-safari-password-import-step1 = Trong Safari, mở menu “Safari” và vào Tùy chọn > Mật khẩu
 migration-safari-password-import-step2 = Chọn nút <img data-l10n-name="safari-icon-3dots"/> và chọn “Xuất tất cả mật khẩu”
@@ -191,6 +195,7 @@ migration-chrome-windows-password-import-step2 = Chọn “Cài đặt” từ m
 migration-chrome-windows-password-import-step3 = Chọn “Tải tệp xuống” và lưu vào thiết bị của bạn.
 migration-chrome-windows-password-import-step4 = Quay lại đây và “Chọn tập tin” để hoàn tất việc nhập.
 migration-manual-password-import-skip-button = Bỏ qua
+migration-manual-password-import-cancel-button = Hủy bỏ
 migration-manual-password-import-select-button = Chọn tập tin
 migration-safari-password-import-skip-button = Bỏ qua
 migration-safari-password-import-select-button = Chọn tập tin

@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = 확장 기능 살펴보기
 unified-extensions-empty-reason-private-browsing-not-allowed = 확장 기능이 설치되어 있지만 사생활 보호 모드에서 활성화되지 않음
 unified-extensions-empty-reason-extension-not-enabled = 확장 기능이 설치되어 있지만 활성화되지 않음
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = 몇 가지 확장 기능이 큰 도움이 됩니다.
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = 확장 기능으로 탐색 수준을 높여보세요
 unified-extensions-empty-content-explain-enable2 = 설정에서 활성화하려면 “{ unified-extensions-manage-extensions.label }”를 선택하세요.
 unified-extensions-empty-content-explain-manage2 = 설정에서 관리하려면 “{ unified-extensions-manage-extensions.label }”를 선택하세요.
+unified-extensions-empty-content-explain-extensions-onboarding2 = 집중력과 개인정보 보호 등을 높여줄 추천 확장 기능들을 확인해 보세요.
 unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name }의 모양과 성능을 변경하거나 개인정보 보호 및 안전성을 강화하여 개인화해 보세요.
 
 ## An extension in the main list

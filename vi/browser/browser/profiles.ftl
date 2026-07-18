@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Hình đại diện
 edit-profile-page-delete-button =
     .label = Xóa
+edit-profile-page-avatar-selector-opener-button =
+    .title = Chỉnnh sửa ảnh đại diện
 edit-profile-page-avatar-selector-opener-link = Chỉnh sửa
 avatar-selector-icon-tab = Biểu tượng
 avatar-selector-custom-tab = Tùy chọn
@@ -95,6 +97,9 @@ delete-profile-logins = Mật khẩu
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Xoá hồ sơ “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Xoá hồ sơ “{ $profilename }”?
 
 ##
 

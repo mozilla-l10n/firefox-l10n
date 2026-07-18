@@ -587,6 +587,8 @@ identity-clear-site-data =
     .label = Xóa cookie và dữ liệu trang web…
 identity-connection-not-secure-security-view = Bạn không được kết nối an toàn với trang web này.
 identity-connection-verified = Bạn đang kết nối an toàn tới trang này.
+identity-ev-owner-label2 = Chứng chỉ được cấp cho
+identity-verifier-label2 = Xác minh bởi
 identity-ev-owner-label = Chứng nhận được cấp cho:
 identity-verifier-label = Xác minh bởi:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
