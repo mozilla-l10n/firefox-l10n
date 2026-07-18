@@ -16,4 +16,7 @@ crashed-request-report-title = ای بلگه ن گوزارش کۊنین
 crashed-send-report-2 = گوزارش خراوی خوتکار بفشنین تا ترسته بۊیم مووردایی ز ای دست ن هل کۊنیم
 crashed-comment =
     .placeholder = ٱووردن تووزیهات (تووزیهات سی پوی من دسرس هڌ)
+crashed-include-URL-2 = نشۊوی وبگهایی ک مجال خراوی { -brand-short-name } واز داشتین زمیمه بۊ
+crashed-report-sent = گوزارش خراوی سی فشناڌن ٱماڌه هڌ؛ ز ایسا سی دل هیاری داڌن و بؽڌر وابیڌن { -brand-short-name } ممنووݩ داریم!
 crashed-request-auto-submit-title = گوزارش بلگه یل پس زمینه
+crashed-auto-submit-checkbox-2 = ورۊ رسۊوی ترجیهات سی فشناڌن خوتکار گوزارش من زمووݩ خراویا { -brand-short-name }

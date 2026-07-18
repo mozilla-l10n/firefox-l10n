@@ -8,6 +8,7 @@ xpinstall-prompt = سی زفت وابیڌن کامپیتر تووݩ، { -brand-s
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = هیلین { $host } ی وردنی ن بپۊرنه؟
+xpinstall-prompt-message = ایسا هونی ی وردنی ز { $host } ن اپۊرنین. پؽش ز جلاو رئڌن ز یو ک سایت قابل ائتمادی هڌ موتمعن بۊین.
 
 ##
 
