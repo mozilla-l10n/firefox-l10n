@@ -321,6 +321,8 @@ appmenu-customizetoolbar =
     .label = Personaliza sa barra de ainas...
 appmenu-abouttranslations =
     .label = Tradue…
+appmenu-edit-pdf =
+    .label = Modifica su PDF…
 appmenu-developer-tools-subheader = Istrumentos de su navigadore
 appmenu-developer-tools-extensions =
     .label = Estensiones pro s'isvilupu
@@ -342,6 +344,10 @@ appmenu-services-header = Is servìtzios mios
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Ainas de riservadesa
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Proa àteras ainas de protetzione dae Mozilla:
 appmenu-other-protection-header = Proa àteras ainas de amparu dae { -vendor-short-name }:
 
@@ -352,9 +358,40 @@ appmenu-manage-profiles =
     .label = Gesti is profilos
 appmenu-copy-profile =
     .label = Còpia custu profilu
+appmenu-create-profile2 =
+    .label = Crea unu profilu nou
 appmenu-create-profile =
     .label = Profilu nou
 appmenu-edit-profile =
     .aria-label = Modifica su profilu
+appmenu-edit-this-profile =
+    .label = Modifica custu profilu
+appmenu-profile-current-in-use = Profilu impreadu immoe
+fxa-menu-create-profile-subpanel =
+    .title = Crea unu profilu nou
+fxa-menu-create-profile-confirm =
+    .label = Crea unu profilu nou
+fxa-menu-create-profile-learn-more =
+    .label = Ite sunt is profilos?
 appmenu-profiles-2 =
     .label = Profilos
+appmenu-profiles-header = Profilos
+appmenu-all-profiles =
+    .label = Totu is profilos
+appmenu-secure-sync-header = Sincronizatzione segura
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Ischedas reghentes
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ammustra { $tabCount } ischeda sincronizada
+           *[other] Ammustra { $tabCount } ischedas sincronizadas
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Imbia sa pàgina atuale a custu dispositivu

@@ -203,6 +203,7 @@ migration-chrome-windows-password-import-step2 = Selige “Parametros” in le m
 migration-chrome-windows-password-import-step3 = Selige “Discargar file” e salva lo a tu apparato.
 migration-chrome-windows-password-import-step4 = Retorna ci e usa “Seliger file” pro finir le importation.
 migration-manual-password-import-skip-button = Saltar
+migration-manual-password-import-cancel-button = Cancellar
 migration-manual-password-import-select-button = Eliger file
 migration-safari-password-import-skip-button = Saltar
 migration-safari-password-import-select-button = Eliger file

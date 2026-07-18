@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Aperir nove Fenestra private
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Fenestra classic
+toolbar-switcher-customizable-label =
+    .label = Commutator de { -smart-window-brand-name }
+    .tooltiptext = Commuta inter fenestras intelligente e classic.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Passar al configurationes quand
 
 smartwindow-ask-button =
     .label = Demandar
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Regruppar mi schedas
+    .tooltiptext = Regruppar mi schedas
 
 ## Memories toggle button
 

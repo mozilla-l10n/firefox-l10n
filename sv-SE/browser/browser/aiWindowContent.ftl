@@ -125,20 +125,28 @@ smart-window-grouped-tabs-label =
         [one] Grupperade { $count } flik
        *[other] Grupperade { $count } flikar
     }
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Skapade gruppen "{ $label }" och la till{ $count } flik.
+       *[other] Skapade gruppen "{ $label }" och lade till { $count } flikar.
+    }
 smart-window-grouped-tabs-row-label = Grupperade flikar
 # Action result labels for ungrouped tabs
-smart-window-grouped-and-ungrouped-label = Flikar är inte grupperade
+smart-window-grouped-and-ungrouped-label = Flikar har avgrupperats
 # Variables
 #   $count (number) - Number of tabs ungrouped
 smart-window-ungroup-success-summary =
     { $count ->
-        [one] Fliken { $count } grupperad, sedan uppdelad.
-       *[other] { $count } flikar grupperade, sedan uppdelade.
+        [one] { $count } flik grupperad och sedan avgrupperad.
+       *[other] { $count } flikar grupperade, sedan avgrupperade.
     }
 smart-window-ungrouped-row-label =
     { $count ->
-        [one] Upplåst flik { $count }
-       *[other] Uppgrupperade { $count } flikar
+        [one] Avgrupperade { $count } flik
+       *[other] Avgrupperade { $count } flikar
     }
 
 ## Action log
@@ -147,7 +155,7 @@ action-log-searching-tabs = Söker flikar
 action-log-searched-open-tabs = Sökte i öppna flikar
 action-log-searching-history = Sökhistorik
 action-log-searched-history = Sökte i historik
-action-log-reading-page = Lässida
+action-log-reading-page = Läser sida
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Läs sidans innehåll
 action-log-searching-web = Söker på webben
@@ -161,8 +169,8 @@ action-log-searching-settings = Söker efter inställningar
 action-log-searched-settings = Sökte inställningar
 action-log-searching-world-cup-matches = Söker VM-matcher
 action-log-searched-world-cup-matches = Sökte VM-matcher
-action-log-checking-world-cup-live = Kontrollerar VM-matcher live
-action-log-checked-world-cup-live = Kontrollerade VM-matcher live
+action-log-checking-world-cup-live = Kontrollerar live VM-matcher
+action-log-checked-world-cup-live = Kontrollerade live VM-matcher
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

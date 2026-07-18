@@ -109,6 +109,11 @@ appmenu-remote-tabs-unverified = Tu conto debe esser verificate.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-sign-in = Aperir session in { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerer conto
+fxa-menu-sync-status-on = Synchronisation activate
+fxa-menu-sync-status-off = Synchronisation disactivate
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Tu datos non synchronisa
 # Button shown next to "Sync is Off" when the user is signed in but sync is
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =

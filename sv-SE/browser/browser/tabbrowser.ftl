@@ -461,12 +461,12 @@ tab-context-open-in-split-view =
     .accesskey = p
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Separat delad vy
-    .accesskey = e
+    .label = Separera delad vy
+    .accesskey = S
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
-    .label = Omvänd flikar
-    .accesskey = O
+    .label = Byt flikordning
+    .accesskey = B
 tab-context-badge-new = Ny
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
@@ -488,6 +488,6 @@ split-view-menuitem-separate-tabs =
     .label = Separata flikar
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
-    .label = Omvänd flikar
+    .label = Byt flikordning
 split-view-menuitem-close-both-tabs =
     .label = Stäng båda flikarna
