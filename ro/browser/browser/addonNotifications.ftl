@@ -121,7 +121,7 @@ addon-confirm-install-unsigned-message =
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
         [few] Atenție: Acest site vrea să instaleze { $addonCount } suplimente în { -brand-short-name }, dintre care unele sunt neverificate. Continuă pe riscul tău.
-       *[other] Atenție: Acest site vrea să instaleze { $addonCount } de suplimente în { -brand-short-name }, dintre care unele sunt neverificate. Continuă pe pe riscul tău.
+       *[other] Atenție: Acest site vrea să instaleze { $addonCount } de suplimente în { -brand-short-name }, dintre care unele sunt neverificate. Continuă pe riscul tău.
     }
 
 ## Add-on install errors
