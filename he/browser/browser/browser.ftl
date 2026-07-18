@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = ניקוי עוגיות ונתוני אתרים…
 identity-connection-not-secure-security-view = החיבור שלך לאתר זה אינו מאובטח.
 identity-connection-verified = החיבור שלך לאתר זה מאובטח.
+identity-ev-owner-label2 = האישור הונפק עבור
+identity-verifier-label2 = גורם מאמת
 identity-ev-owner-label = האישור הונפק עבור:
 identity-verifier-label = גורם מאמת:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

@@ -55,6 +55,8 @@ ipprotection-feature-introduction-button-get-started = תחילת עבודה
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = מגבלות ה־VPN המובנה שלך יתאפסו ב־1 בספטמבר
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = פתיחת VPN
 ipprotection-summer-promo-offramp-get-subscription-button = קבלת { -mozilla-vpn-brand-name }

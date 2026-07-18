@@ -166,6 +166,12 @@ aiwindow-firstrun-default-checkbox-description = ניתן להחליף את זה
 smartwindow-ask-button =
     .label = לשאול
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = קיבוץ הלשוניות שלי
+    .tooltiptext = קיבוץ הלשוניות שלי
+
 ## Memories toggle button
 
 aiwindow-memories-on =
