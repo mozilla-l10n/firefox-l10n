@@ -19,10 +19,16 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 about-private-browsing-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
 about-private-browsing-not-private = ایسا من ی نیمدری سیخومی نؽڌین.
+about-private-browsing-info-description-private-window = نیمدری سیخومی: { -brand-short-name } ویرگار پیتینیڌن وو گشتن ایسا ن بئڌ بستن پوی نیمدری یل سیخومی پاک اکونه. ای کار ایسا ن ناشناس نؽکونه.
+about-private-browsing-info-description-simplified = { -brand-short-name } ویرگار پیتینیڌن وو گشتن ایسا ن بئڌ بستن پوی نیمدری یل سیخومی پاک اکونه. ٱما ای کار ایسا ن ناشناس نؽکونه.
 about-private-browsing-learn-more-link = قلوه دووسته بۊین
+about-private-browsing-hide-activity = فعالیتا وو جاگه خوتووݩ ن من هر جایی ک اگردین بؽڌار کۊنین
+about-private-browsing-get-privacy = هر جایی ک اخۊی اینترنت ن اگردی، هریم سیخومی خوتووݩ ن زفت کۊنین
+about-private-browsing-hide-activity-1 = فعالیت گشتن وو جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین. وا ی کلیک، هتا من وای فای پوی وولاتی، ی منپیز ٱمن داشته بۊین.
 about-private-browsing-prominent-cta = وا { -mozilla-vpn-brand-name } ناشناس بمهنین
 about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } گشتن مهرمووه من تور
+about-private-browsing-focus-promo-text = برنومه اختساسی گشتن سیخومی موبایل ایما، هر کرت ویرگار وو کۊکیا ایسا ن پاک اکونه.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
