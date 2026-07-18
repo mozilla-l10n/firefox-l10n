@@ -76,6 +76,23 @@ options-webconsole-split-console-label = Osztott konzol engedélyezése
 options-webconsole-split-console-tooltip =
     .title = Osztott konzol megnyitása az Escape gombbal
 
+## Network Monitor section
+
+options-netmonitor-body-limit-set =
+    .title = A jelenlegi beviteli érték beállítása a kérések és válaszok legnagyobb törzsméreteként.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Kísérleti funkciók
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Stíluslapok megjelenítése a hibakeresőben
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stíluslapok felsorolása és megjelenítése a hibakeresőben
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (az eszköztár újranyitása szükséges)
+
 ## Style Editor section
 
 # The heading

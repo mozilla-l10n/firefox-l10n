@@ -98,3 +98,5 @@ addon-install-error-corrupt-file = وردنی دانلود وابیڌه ز ای 
 addon-local-install-error-corrupt-file = ای وردنی منی خراو وابیڌه وو نؽبۊ بپۊره.
 addon-local-install-error-not-signed = ای وردنی نتره بپۊره چیناکه تاییڌ نوابیڌه.
 addon-install-error-hard-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
+addon-install-error-soft-blocked2 = { $addonName } مئدۊد وابیڌه وو نتره و ری { -brand-short-name } بپۊره.
+addon-install-error-soft-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.

@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = Új lap
     .accesskey = j
+user-context-add-container =
+    .label = Új konténer hozzáadása
+    .accesskey = a
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

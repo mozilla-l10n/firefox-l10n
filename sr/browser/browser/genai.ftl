@@ -106,7 +106,7 @@ genai-menu-ask-generic-2 =
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Питај { $provider }
-    .accesskey = з
+    .accesskey = т
 genai-menu-no-provider-2 =
     .label = Питај ВИ чет-бота
     .accesskey = ј

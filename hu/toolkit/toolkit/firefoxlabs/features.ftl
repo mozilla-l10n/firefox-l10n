@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Használjon helyi g�
 experimental-features-tab-notes =
     .label = Lapjegyzetek
 experimental-features-tab-notes-description = A lapjegyzetek egy kísérleti funkció, amellyel feljegyzéseket adhat a böngészőlapjaihoz. Jegyezze fel a kontextust, írjon emlékeztetőket vagy írja fel a következő lépéseket, hogy visszatérhessen, és emlékezzen rá, hogy miért nyitotta meg. Örülnénk a visszajelzésének, miközben folyamatosan fejlesztjük a funkciót. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Egyszerűsített lapmenü
+experimental-features-tab-context-menu-description = Lásson egy egyszerűbb helyi menüt, ha jobb gombbal kattint egy lapon. Úgy tervezték, hogy a gyakori műveletek könnyebben megtalálhatóak legyenek. <a data-l10n-name="connect">Visszajelzés megosztása</a>

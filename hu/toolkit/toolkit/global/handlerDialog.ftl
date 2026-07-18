@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Másik alkalmazás…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Privát ablakokban letiltva
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = Válassza ki a levelezőalkalmazását
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Válassza ki az e-mail-hivatkozásokhoz használandó alkalmazást. Ezt később a beállításokban módosíthatja.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Rákérdés mindig, ha egy e-mail-hivatkozásra kattint
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Beállítás alapértelmezettként
+    .accesskey = a
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Most nem
+    .accesskey = n
