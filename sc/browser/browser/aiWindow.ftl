@@ -112,3 +112,80 @@ aiwindow-firstrun-model-allpurpose-label = Flessìbile
 aiwindow-memories-on =
     .aria-label = Memòrias ativas
     .tooltiptext = Imprea memòrias in is rispostas cando siant ùtiles
+aiwindow-memories-off =
+    .aria-label = Memòrias disativadas
+    .tooltiptext = No imprees memòrias in is rispostas
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Tzarrada noa
+    .tooltiptext = Tzarrada noa
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Serra
+    .tooltiptext = Serra
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Is datos sincronizados ant a abarrare in su contu tuo. Is { -smart-window-brand-name(plural-form: "true") } abertas ant a mudare in ventanas clàssicas.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Passa a sa modalidade { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Tzarradas
+    .aria-label = Tzarradas
+    .tooltiptext = Tzarradas
+smartwindow-footer-history =
+    .label = Cronologia
+    .aria-label = Cronologia
+    .tooltiptext = Cronologia
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = S’IA podet fàghere faddinas.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Tzarradas
+    .title = Tzarradas
+firefoxview-chats-header = Tzarradas
+firefoxview-chat-context-delete = Cantzella dae is tzarradas
+    .accesskey = C
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Chirca tzarradas
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Oe - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Erisero - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } tzarrada
+       *[other] { $count } tzarradas
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Cronologia de navigatzione, de iscarrigamentos e de tzarradas
+    .accesskey = r

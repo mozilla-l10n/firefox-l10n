@@ -111,6 +111,9 @@ appmenuitem-fxa-sign-in = 登入 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理帳號
 fxa-menu-sync-status-on = 已開啟同步
 fxa-menu-sync-status-off = 已關閉同步
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = 未同步您的資料
 # Button shown next to "Sync is Off" when the user is signed in but sync is
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
@@ -379,6 +382,7 @@ appmenu-profile-current-in-use = 目前使用的設定檔
 fxa-menu-create-profile-subpanel =
     .title = 建立新設定檔
 fxa-menu-create-profile-heading = 使用新設定檔，升級您的上網體驗
+fxa-menu-create-profile-description = 將您工作與私人上網的書籤、密碼、瀏覽紀錄分開管理。
 fxa-menu-create-profile-confirm =
     .label = 建立新設定檔
 fxa-menu-create-profile-learn-more =
