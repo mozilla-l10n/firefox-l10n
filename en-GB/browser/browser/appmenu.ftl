@@ -406,3 +406,6 @@ fxa-menu-device-view-all-synced-tabs =
             [one] View { $tabCount } Synchronised Tab
            *[other] View All { $tabCount } Synchronised Tabs
         }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Send Current Page to This Device

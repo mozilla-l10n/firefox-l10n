@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Block access to the about:support page.
 policy-Bookmarks = Create bookmarks in the Bookmarks toolbar, Bookmarks menu, or a specified folder inside them.
 policy-CaptivePortal = Enable or disable captive portal support.
 policy-CertificatesDescription = Add certificates or use built-in certificates.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Enable the CNSA 2.0 ML-KEM-1024 key agreement for TLS.
 policy-ContentAnalysis = Enable or disable connection to data-loss-prevention agent.
 policy-Cookies = Allow or deny web sites to set cookies.
 # Containers in this context is referring to container tabs in Firefox.

@@ -58,10 +58,18 @@ ipprotection-feature-introduction-button-get-started = 시작하기
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = 9월 1일에 내장 VPN 한도가 초기화됨
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = { $maxUsage } GB와 6개 위치로 탐색 활동의 추적을 어렵게 만들어 개인정보 보호를 강화하세요.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = { $maxUsage } GB와 20개 이상의 위치로 탐색 활동의 추적을 어렵게 만들어 개인정보 보호를 강화하세요.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = 더 좋아진 내장 VPN
+ipprotection-summer-promo-offramp-subscriber-description = 이제 { -mozilla-vpn-brand-name } 구독자는 무제한 대역폭과 더 많은 위치를 이용할 수 있습니다.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN 열기
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 기본으로 설정

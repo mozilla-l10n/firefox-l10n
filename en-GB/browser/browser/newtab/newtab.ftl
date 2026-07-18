@@ -317,6 +317,8 @@ newtab-privacy-message-first-protection-cta = View protections
 newtab-stocks-menu-search = Search ticker symbols
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Learn more
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Stock data is not available.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
