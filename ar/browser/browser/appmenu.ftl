@@ -107,6 +107,40 @@ appmenu-remote-tabs-unverified = يجب تأكيد حسابك.
 appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
 appmenuitem-fxa-sign-in = لِج إلى { -brand-product-name }
 appmenuitem-fxa-manage-account = أدِر الحساب
+fxa-menu-sync-status-on = التزامن يعمل
+fxa-menu-sync-status-off = التزامن متوقف
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = لا تتم مزامنة بياناتك
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = شغّل
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = لِج كي تبدأ المزامنة
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = زامِن { $deviceName } الآن
+fxa-menu-manage-sync-settings =
+    .label = أدِر إعدادات المزامنة
+fxa-menu-add-device =
+    .label = أضف جهازًا
+fxa-menu-manage-devices =
+    .label = أدِر أجهزتك
+fxa-menu-device-missing =
+    .label = ألا ترى جهازك؟
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = كل الأجهزة
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = كل الأجهزة
+fxa-menu-get-firefox-mobile =
+    .label = احصل على { -brand-product-name } لنظامي أندرويد أو iOS
+fxa-menu-secure-sync-subpanel =
+    .title = مزامنة آمنة
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = الحساب
 # Variables
@@ -326,9 +360,30 @@ appmenu-manage-profiles =
     .label = أدِر ملفات التعريف
 appmenu-copy-profile =
     .label = انسخ هذا الملف الشخصي
+appmenu-create-profile2 =
+    .label = أنشئ ملف شخصي جديد
 appmenu-create-profile =
     .label = ملف شخصي جديد
 appmenu-edit-profile =
     .aria-label = حرّر الملف الشخصي
+appmenu-edit-this-profile =
+    .label = حرّر هذا الملف الشخصي
+appmenu-profile-current-in-use = الملف الشخصي الحالي قيد الاستخدام
+fxa-menu-create-profile-subpanel =
+    .title = أنشئ ملف شخصي جديد
+fxa-menu-create-profile-heading = ارتقِ بتجربة تصفُحك من خلال ملف شخصي جديد
+fxa-menu-create-profile-description = احتفظ علاماتك وكلمات السرك وتأريخ تصفحك بشكل منفصل بين تصفح العمل والتصفح الشخصي.
+fxa-menu-create-profile-confirm =
+    .label = أنشِئ ملفًا شخصيًا
+fxa-menu-create-profile-learn-more =
+    .label = ما هي الملفات الشخصية؟
 appmenu-profiles-2 =
     .label = ملفات تعريف
+appmenu-profiles-header = ملفات شخصية
+appmenu-all-profiles =
+    .label = كل الملفات الشخصية
+appmenu-secure-sync-header = مزامنة آمنة
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = الألسنة الحديثة

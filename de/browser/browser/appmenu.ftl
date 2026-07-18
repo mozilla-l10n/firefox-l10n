@@ -129,6 +129,20 @@ fxa-menu-manage-sync-settings =
     .label = Synchronisations-Einstellungen verwalten
 fxa-menu-add-device =
     .label = Gerät hinzufügen
+fxa-menu-manage-devices =
+    .label = Geräte verwalten
+fxa-menu-device-missing =
+    .label = Ihr Gerät wird nicht angezeigt?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Alle Geräte
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Alle Geräte
+fxa-menu-get-firefox-mobile =
+    .label = Holen Sie sich { -brand-product-name } für Android oder iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sichere Synchronisierung
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -356,9 +370,42 @@ appmenu-manage-profiles =
     .label = Profile verwalten
 appmenu-copy-profile =
     .label = Dieses Profil kopieren
+appmenu-create-profile2 =
+    .label = Neues Profil erstellen
 appmenu-create-profile =
     .label = Neues Profil
 appmenu-edit-profile =
     .aria-label = Profil bearbeiten
+appmenu-edit-this-profile =
+    .label = Dieses Profil bearbeiten
+appmenu-profile-current-in-use = Dieses Profil wird derzeit verwendet
+fxa-menu-create-profile-subpanel =
+    .title = Neues Profil erstellen
+fxa-menu-create-profile-heading = Verbessern Sie Ihr Surf-Erlebnis mit einem neuen Profil
+fxa-menu-create-profile-description = Trennen Sie Ihre Lesezeichen, Passwörter und Chronik für Arbeit und privates Surfen.
+fxa-menu-create-profile-confirm =
+    .label = Ein neues Profil erstellen
+fxa-menu-create-profile-learn-more =
+    .label = Was sind Profile?
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Alle Profile
+appmenu-secure-sync-header = Sichere Synchronisierung
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Zuletzt geöffnete Tabs
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } synchronisierten Tab anzeigen
+           *[other] Alle { $tabCount } synchronisierten Tabs anzeigen
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Aktuelle Seite an dieses Gerät senden

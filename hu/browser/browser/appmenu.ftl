@@ -380,5 +380,6 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Jelenleg használt profil
 fxa-menu-create-profile-subpanel =
     .title = Új profil létrehozása
+fxa-menu-create-profile-heading = Emelje új szintre a böngészését egy új profillal
 appmenu-profiles-2 =
     .label = Profilok
