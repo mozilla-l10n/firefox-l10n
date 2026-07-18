@@ -55,16 +55,16 @@ aiwindow-input-cta-submit-label-navigate = Gå till
 aiwindow-input-cta-submit-label-search = Sök
 aiwindow-input-cta-submit-label-stop = Stopp
 # Text announced to screen readers when response generation starts.
-aiwindow-generation-started-announcement = Svarsgenerering startade
+aiwindow-generation-started-announcement = Svarsgenerering har startat
 aiwindow-input-cta-menu-label-chat = Fråga
-aiwindow-input-cta-menu-label-navigate = Gå till webbplatsen
+aiwindow-input-cta-menu-label-navigate = Gå till webbplats
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Sök med { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Sök med…
 aiwindow-input-cta-search-submenu-header = Sök
 aiwindow-input-cta-stop-button =
+    .title = Stoppa svar
     .aria-label = Stoppa svarsgenerering
-    .title = Avbryt svar
 
 ## Smartbar
 
@@ -98,7 +98,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Välkommen till { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Vad är viktigt för dig?
-aiwindow-firstrun-model-title-v2 = Välj en modell att starta
+aiwindow-firstrun-model-title-v2 = Välj en modell för att starta
 aiwindow-firstrun-model-subtitle = Välj en modell för att driva { -smart-window-brand-name }. Byt när som helst.
 aiwindow-firstrun-model-subtitle-v2 = Varje modell kan hjälpa dig att sammanfatta, jämföra och utforska dina flikar. Byt när som helst.
 aiwindow-firstrun-model-fast-label = Snabb
@@ -109,9 +109,9 @@ aiwindow-firstrun-model-fast-body-v2 = Bäst för snabba svar när du flyttar sn
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-chip-subtitle = Modell { $model } gånger { $ownerName }
+aiwindow-firstrun-model-chip-subtitle = Modell { $model } av { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibel
-aiwindow-firstrun-model-allpurpose-body = Rejäl passform för de flesta behov
+aiwindow-firstrun-model-allpurpose-body = Stabil passform för de flesta behov
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexibel: { $shortName }
 aiwindow-firstrun-model-flexible-body = Redo för en mängd olika uppgifter

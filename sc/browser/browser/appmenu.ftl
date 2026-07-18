@@ -15,6 +15,9 @@ appmenuitem-banner-update-unsupported =
     .label = Impossìbile agiornare — sistema non cumpatìbile
 appmenuitem-banner-update-restart =
     .label = Atualizatzione a disponimentu — torra a aviare immoe
+appmenu-nova-update-title = Torra a aviare pro atualizare { -brand-short-name }
+appmenu-nova-update-description = Is ischedas tuas s’ant a torrare a abèrrere.
+appmenu-nova-fxa-sign-in = Identìfica·ti
 appmenuitem-new-tab =
     .label = Ischeda noa
 appmenuitem-new-window =
@@ -103,6 +106,40 @@ appmenu-remote-tabs-unverified = Su contu tuo depet èssere verificadu.
 appmenuitem-fxa-toolbar-sync-now2 = Sincroniza immoe
 appmenuitem-fxa-sign-in = Identìfica·ti in { -brand-product-name }
 appmenuitem-fxa-manage-account = Gesti su contu
+fxa-menu-sync-status-on = Sa sincronizatzione est ativa
+fxa-menu-sync-status-off = Sa sincronizatzione est disativada
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Is datos tuos non sunt sincronizados
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Ativa
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Identìfica·ti a Sync
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincroniza { $deviceName } immoe
+fxa-menu-manage-sync-settings =
+    .label = Gesti is cunfiguratziones de sincronizatzione
+fxa-menu-add-device =
+    .label = Agiunghe unu dispositivu
+fxa-menu-manage-devices =
+    .label = Gesti is dispositivos tuos
+fxa-menu-device-missing =
+    .label = Non bides su dispositivu tuo?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Totu is dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Totu is dispositivos
+fxa-menu-get-firefox-mobile =
+    .label = Otene { -brand-product-name } pro Android o iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronizatzione segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Contu
 # Variables

@@ -217,3 +217,22 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Ischeda serrada
 smartwindow-close-tab-callout-subtitle = Torra a abèrrere is ischedas dae sa cronologia in cale si siat momentu.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Boles cunfigurare { -smart-window-brand-name } comente predefinidu?
+smart-window-default-promo-primary-button = Cunfigura comente predefinidu
+smart-window-default-promo-additional-button = Immoe nono
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Cumpartzi cummentos
+aiwindow-feedback-what-worked-well = Ite at funtzionadu? Sena minudas personales, pro praghere.
+aiwindow-feedback-choose-any = Sèbera su chi currispondat
+aiwindow-feedback-add-details = Agiunghe minudas si serbit. Sena informatziones personales, pro praghere.
+aiwindow-feedback-submit = Imbia
+aiwindow-feedback-cancel = Annulla
+aiwindow-feedback-reason-other = Àteru
+aiwindow-feedback-preview-report = Ammustra is detàllios de sa tzarrada
+aiwindow-feedback-preview-report-with-page = Ammustra is detàllios de sa tzarrada e de sa pàgina
+aiwindow-feedback-include-page-content = Cumpartzi is pàginas mentovadas in custa tzarrada
