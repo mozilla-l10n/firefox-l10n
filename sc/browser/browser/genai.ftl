@@ -68,6 +68,8 @@ genai-shortcut-button =
     .aria-label = Pregunta a { $provider }
 genai-menu-new-badge = Nou
 genai-menu-summarize-page = Resumina sa pàgina
+genai-input-ask-smart-window =
+    .placeholder = Pregunta…
 genai-input-ask-generic =
     .placeholder = Pregunta a su Chatbot IA...
 # $provider (string) - name of the provider
@@ -105,6 +107,9 @@ genai-menu-ask-provider-2 =
     .accesskey = P
 genai-menu-no-provider-2 =
     .label = Pregunta a unu chatbot IA
+    .accesskey = P
+genai-menu-ask-smart-window =
+    .label = Pregunta…
     .accesskey = P
 
 ## Chatbot header
