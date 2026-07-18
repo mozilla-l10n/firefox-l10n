@@ -56,8 +56,31 @@ ipprotection-feature-introduction-button-get-started = Bắt đầu
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Giới hạn của VPN tích hợp sẵn của bạn sẽ được đặt lại vào ngày 1 tháng 9
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Sử dụng { $maxUsage } GB và 6 địa điểm để tăng cường quyền riêng tư, giúp việc theo dõi hoạt động duyệt web của bạn trở nên khó khăn hơn.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Sử dụng { $maxUsage } GB dung lượng lưu trữ và hơn 20 địa điểm để tăng cường quyền riêng tư, giúp việc theo dõi hoạt động duyệt web của bạn trở nên khó khăn hơn.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = VPN tích hợp sẵn của bạn giờ đây đã tốt hơn
+ipprotection-summer-promo-offramp-subscriber-description = Giờ đây, với tư cách là người đăng ký { -mozilla-vpn-brand-name }, bạn sẽ có băng thông không giới hạn và nhiều địa điểm hơn.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Giữ lại các địa điểm bổ sung của VPN tích hợp sẵn của bạn
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Nâng cấp trải nghiệm với { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Giữ nguyên băng thông không giới hạn sau ngày 31 tháng 8, với hơn 300 địa điểm trên 5 thiết bị để khiến việc truy tìm hoạt động duyệt web của bạn trở nên khó khăn hơn.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Mở VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Đặt làm mặc định
 ipprotection-summer-promo-offramp-get-subscription-button = Nhận { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Bỏ qua
 
@@ -160,6 +183,8 @@ ipprotection-connection-status-network-error-title-1 = Kiểm tra kết nối In
 ipprotection-connection-status-network-error-description = Hãy kết nối internet, sau đó thử bật VPN lên.
 ipprotection-connection-status-blocked-error-title-1 = VPN không khả dụng
     .aria-label = VPN không khả dụng
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Luật pháp và các quy định tại quốc gia có thể giới hạn phạm vi bạn có thể sử dụng VPN. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 ipprotection-connection-status-blocked-error-description = Luật pháp địa phương ngăn cấm chúng tôi cung cấp dịch vụ VPN tại khu vực này. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

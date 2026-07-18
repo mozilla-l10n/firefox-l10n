@@ -237,6 +237,7 @@ backup-file-download-moz-browser-button = Iscàrriga
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Avia { -brand-short-name }, aberi su menù de aplicatzione ☰ e bae a Cunfiguratziones > Sincroniza
+backup-file-other-browser-restore-step-3-1 = Incarca “Recùpera is datos tuos” e seletziona custu archìviu
 backup-file-other-browser-restore-step-4 = Torra a aviare { -brand-short-name } cando ti ddu preguntet
 
 ## These strings are used in the about:restore and about:welcome pages

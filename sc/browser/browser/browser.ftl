@@ -211,6 +211,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Gesti { -firefox-suggest-brand-name
 urlbar-result-menu-report-inaccurate-location2 = Sinnala una positzione non pretzisa
 urlbar-result-menu-show-less-frequently2 = Ammustra prus pagu a s’ispissu
 urlbar-result-menu-dont-show-weather-suggestions2 = No ammustres cussìgios de su tempus
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Iscarta su cussìgiu
+    .accesskey = I
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Boga dae sa cronologia
+    .accesskey = B
 urlbar-result-menu-learn-more =
     .label = Àteras informatziones
     .accesskey = i
@@ -399,12 +409,16 @@ quickactions-addons = Ammustra is cumplementos
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = estensiones, temas, cumplementos
+# Opens preferences page at AI controls
+quickactions-manageai = Gesti is controllos de IA
+quickactions-cmd-manageai = disativa ia, disativatzione ia, IA off, gesti s’ia
 quickactions-cmd-addons2 = cumplementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gesti is sinnalibros
 quickactions-cmd-bookmarks = sinnalibros
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Lìmpia sa cronologia reghente
+quickactions-cmd-clearrecenthistory2 = testimòngios, cantzella is testimòngios, cookies, cache, memòria temporànea, cantzella sa memòria temporànea, datos de navigatzione, cantzella is datos de navigatzione, cronologia, cantzella sa cronologia reghente
 quickactions-cmd-clearrecenthistory = lìmpia sa cronologia reghente, cronologia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Isbòida sa cronologia
@@ -452,6 +466,9 @@ quickactions-cmd-print = imprenta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sarva sa pàgina comente PDF
 quickactions-cmd-savepdf2 = pdf, sarva pàgina
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Aberi s’editore de PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Aberi una ventana privada
 quickactions-cmd-private = navigatzione privada
@@ -488,6 +505,7 @@ quickactions-viewsource2 = Visualiza su còdighe de sa pàgina
 quickactions-cmd-viewsource2 = Ammustra su còdighe de orìgine, orìgine, orìgine de sa pàgina
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Aberi { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, esperimentu
 quickactions-cmd-viewsource = ammustra su còdighe, còdighe
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

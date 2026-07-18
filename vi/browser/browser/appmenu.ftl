@@ -109,6 +109,40 @@ appmenu-remote-tabs-unverified = Tài khoản của bạn cần phải xác th�
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-sign-in = Đăng nhập vào { -brand-product-name }
 appmenuitem-fxa-manage-account = Quản lý tài khoản
+fxa-menu-sync-status-on = Đồng bộ hóa đang bật
+fxa-menu-sync-status-off = Đồng bộ hoá đã bị tắt
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Dữ liệu của bạn không được đồng bộ
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Bật
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Đăng nhập để đồng bộ hóa
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Đồng bộ hoá { $deviceName } ngay
+fxa-menu-manage-sync-settings =
+    .label = Quản lý cài đặt đồng bộ hoá
+fxa-menu-add-device =
+    .label = Thêm thiết bị
+fxa-menu-manage-devices =
+    .label = Quản lý thiết bị của bạn
+fxa-menu-device-missing =
+    .label = Không thấy thiết bị của bạn?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Tất cả thiết bị
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Tất cả thiết bị
+fxa-menu-get-firefox-mobile =
+    .label = Tải { -brand-product-name } dành cho Android và iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Đồng bộ hóa an toàn
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Tài khoản
 # Variables
@@ -336,14 +370,38 @@ appmenu-manage-profiles =
     .label = Quản lý hồ sơ người dùng
 appmenu-copy-profile =
     .label = Sao chép hồ sơ này
+appmenu-create-profile2 =
+    .label = Tạo hồ sơ mới
 appmenu-create-profile =
     .label = Hồ sơ người dùng mới
 appmenu-edit-profile =
     .aria-label = Chỉnh sửa hồ sơ người dùng
+appmenu-edit-this-profile =
+    .label = Chỉnh sửa hồ sơ này
+appmenu-profile-current-in-use = Hồ sơ hiện đang được sử dụng
+fxa-menu-create-profile-subpanel =
+    .title = Tạo một hồ sơ mới
+fxa-menu-create-profile-heading = Nâng cấp trình duyệt của bạn với hồ sơ mới
+fxa-menu-create-profile-description = Tách riêng dấu trang, mật khẩu và lịch sử duyệt web giữa công việc và cá nhân.
+fxa-menu-create-profile-confirm =
+    .label = Tạo hồ sơ mới
+fxa-menu-create-profile-learn-more =
+    .label = Hồ sơ là gì?
 appmenu-profiles-2 =
     .label = Hồ sơ người dùng
+appmenu-profiles-header = Hồ sơ
+appmenu-all-profiles =
+    .label = Tất cả hồ sơ
+appmenu-secure-sync-header = Đồng bộ hóa an toàn
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Các thẻ gần đây
 # Button at the bottom of the per-device recent tabs subpanel.
 # Variables:
 #   $tabCount (Number): Total number of synced tabs on the device.
 fxa-menu-device-view-all-synced-tabs =
     .label = Xem tất cả { $tabCount } thẻ đã đồng bộ
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Gửi trang hiện tại đến thiết bị này
