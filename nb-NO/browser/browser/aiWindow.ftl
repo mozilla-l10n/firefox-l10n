@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Åpne nytt privat vindu
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassisk vindu
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name }-bytter
+    .tooltiptext = Bytt mellom smarte og klassiske vinduer.
 
 ## Input CTA
 
@@ -171,8 +174,8 @@ smartwindow-ask-button =
 ## Group My Tabs Toolbar Button
 
 smartwindow-group-tabs-button =
-    .label = Grupper mine faner
-    .tooltiptext = Grupper mine faner
+    .label = Grupper faner
+    .tooltiptext = Grupper faner
 
 ## Memories toggle button
 

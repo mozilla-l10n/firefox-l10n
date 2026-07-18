@@ -78,3 +78,13 @@ about-private-browsing-cookie-banners-promo-body = Immoe refudamus in automàtic
 about-private-browsing-felt-privacy-v1-info-header = Non lasses rastros in custu dispositivu
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cantzellat testimòngios, cronologia e datos de is sitos cando serras totu is ventanas privadas.
 about-private-browsing-felt-privacy-v1-info-link = Chie diat pòdere bìdere s’atividade mia?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = A serrare totu is ventanas privadas at a cantzellare is testimòngios, sa cronologia e is datos de sitos.
+about-private-browsing-nova-info-link = Chie diat pòdere bìdere galu s’atividade mia?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Sa navigatzione tua no at a èssere sarvada
+about-private-browsing-nova-info-subheader = Amus a cantzellare totu is chircas e is identificatziones de sessione cando as a serrare sa ventana. S’amparu integradu de { -brand-short-name } est ativu puru inoghe, comente su blocu de is sighiduras.

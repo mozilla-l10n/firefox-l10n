@@ -36,6 +36,7 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Su situ rechedet s’atzessu a is dispositivos MIDI (Musical Instrument Digital Interface). Si podet permìtere s’atzessu a is dispositivos installende unu cumplementu.
 site-permission-install-first-prompt-midi-message = No est garantidu chi custu atzessu siat seguru. Sighi isceti si cunfias cun custu situ.
+site-permission-install-first-prompt-serial-header = Custu situ est rechedende atzessu a is dispositivos in sèrie tuos. S’atzessu a is dispositivos si podet ativare installende unu cumplementu.
 site-permission-install-first-prompt-serial-message = No est garantidu chi custu atzessu siat seguru. Sighi isceti si cunfias cun custu situ.
 
 ##

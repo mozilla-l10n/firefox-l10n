@@ -58,6 +58,7 @@ ipprotection-feature-introduction-button-get-started = Kom i gang
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Åpen VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Sett til standard
 ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignorer
 
@@ -160,6 +161,8 @@ ipprotection-connection-status-network-error-title-1 = Sjekk internettilkoblinge
 ipprotection-connection-status-network-error-description = Koble til internett, og prøv deretter å slå på VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN er ikke tilgjengelig
     .aria-label = VPN er ikke tilgjengelig
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokale lover og restriksjoner begrenser hvor du kan bruke VPN. <a data-l10n-name="learn-more-link">Les mer</a>
 ipprotection-connection-status-blocked-error-description = Lokale lover hindrer oss i å tilby VPN-tjenester i denne regionen. <a data-l10n-name="learn-more-link">Les mer</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
