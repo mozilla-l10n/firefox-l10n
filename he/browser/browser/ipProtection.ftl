@@ -57,8 +57,30 @@ ipprotection-feature-introduction-button-get-started = תחילת עבודה
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = מגבלות ה־VPN המובנה שלך יתאפסו ב־1 בספטמבר
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = אפשר להשתמש בעד { $maxUsage } ג״ב וב־6 מיקומים כדי לשפר את הפרטיות ולהקשות על התחקות פעילות הגלישה שלך אליך.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = אפשר להשתמש בעד { $maxUsage } ג״ב ובלמעלה מ־20 מיקומים כדי לשפר את הפרטיות ולהקשות על התחקות פעילות הגלישה שלך אליך.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = ה־VPN המובנה שלך עכשיו משופר יותר
+ipprotection-summer-promo-offramp-subscriber-description = כעת ניתן לקבל רוחב פס בלתי מוגבל ויותר מיקומים כמינוי של { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = שמירה על מיקומי ה־VPN המובנה הנוספים שלך
+ipprotection-summer-promo-offramp-default-browser-incentive-description = כדאי להפוך את { -brand-product-name } לדפדפן ברירת המחדל שלך ולקבל למעלה מ־20 מיקומים נוספים לגלוש מהם לאחר ה־31 באוגוסט.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = לעלות רמה עם { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = ניתן לשמור על רוחב פס בלתי מוגבל לאחר ה־31 באוגוסט, עם למעלה מ־300 מיקומים ב־5 מכשירים כדי להקשות על התחקות הגלישה שלך אליך.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = פתיחת VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = הגדרה כברירת מחדל
 ipprotection-summer-promo-offramp-get-subscription-button = קבלת { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = סגירה
 
@@ -161,6 +183,8 @@ ipprotection-connection-status-network-error-title-1 = יש לבדוק את חי
 ipprotection-connection-status-network-error-description = יש התחבר לאינטרנט, ולאחר מכן לנסות להפעיל את ה־VPN.
 ipprotection-connection-status-blocked-error-title-1 = ה־VPN אינו זמין
     .aria-label = ה־VPN אינו זמין
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = חוקים ומגבלות מקומיים מגבילים את המיקומים בהם ניתן להשתמש ב־VPN. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 ipprotection-connection-status-blocked-error-description = חוקים מקומיים מונעים מאיתנו לספק שירות VPN באזור זה. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
