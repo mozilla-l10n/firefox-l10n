@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Completa le attività e sblocca icone extra della volpe per personalizzare { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Hai sbloccato tutte le icone extra!
 appearance-browser-icon-set-default-button =
     .label = Imposta come predefinito
 appearance-browser-icon-pin-button =

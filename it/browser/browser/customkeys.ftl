@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Premi nuovo tasto:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (non modificabile)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Rimuovere un’altra scorciatoia?
 customkeys-conflict-confirm-body = Questo tasto è già utilizzata da “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Utilizza comunque
 customkeys-conflict-confirm-button-cancel = Annulla
+customkeys-conflict-unusable-title = Impossibile utilizzare questo tasto
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Questo tasto è già assegnato a “{ $conflict }” e non può essere usato.
 customkeys-reset-all-confirm-title = Ripristinare le impostazioni predefinite?
 customkeys-reset-all-confirm-body = Tutte le scorciatoie da tastiera personalizzate che hai creato saranno eliminate.
 customkeys-reset-all-confirm-button-confirm = Ripristina predefiniti

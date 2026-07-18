@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Invia feedback
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è una <label data-l10n-name="community-exp-creditsLink">comunità mondiale</label> che lavora per mantenere il Web aperto, pubblico e accessibile a tutti.
 community-2 = { -brand-short-name } è progettato da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunità mondiale</label> che lavora per mantenere il Web aperto, pubblico e accessibile a tutti.
 helpus = Vuoi aiutarci? <label data-l10n-name="helpus-donateLink">Fai una donazione</label> o <label data-l10n-name="helpus-getInvolvedLink">collabora con noi</label>
+helpus-referrals = Vuoi dare una mano? <label data-l10n-name="helpus-donateLink">Fai una donazione</label>, <label data-l10n-name="helpus-shareFirefoxLink">condividi { -brand-short-name }</label> o <label data-l10n-name="helpus-getInvolvedLink">partecipa direttamente!</label>
 bottomLinks-license = Informazioni sulla licenza
 bottom-links-terms = Condizioni di utilizzo
 bottom-links-privacy = Informativa sulla privacy
