@@ -58,10 +58,22 @@ ipprotection-feature-introduction-button-get-started = 開始使用
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = 您內建 VPN 的限制將於 9 月 1 日重設
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = 透過 { $maxUsage } GB 流量與 6 個連線位置加強您的上網隱私，更難被追蹤。
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = 透過 { $maxUsage } GB 流量與超過 20 個連線位置加強您的上網隱私，更難被追蹤。
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = 您的內建 VPN 升級了
+ipprotection-summer-promo-offramp-subscriber-description = 作為 { -mozilla-vpn-brand-name } 訂閱者，您現在可獲得無限頻寬與更多連線位置。
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = 保留內建 VPN 額外的連線位置
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 開啟 VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 設為預設瀏覽器
