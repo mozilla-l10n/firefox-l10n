@@ -191,6 +191,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Kész
 migration-safari-password-import-header = Jelszavak importálása a Safariból
+migration-safari-password-import-post-sequoia-step1 = Nyissa meg a <a data-l10n-name="macos-passwords-app">Jelszavak alkalmazást</a> a Macen
 migration-safari-password-import-steps-header = A Safari jelszavainak importálásához:
 migration-safari-password-import-step1 = A Safariban nyissa meg a „Safari” menüt és ugorjon a Beállítások > Jelszavak menüponthoz
 migration-safari-password-import-step2 = Válassza a <img data-l10n-name="safari-icon-3dots"/> gombot, és válassza az „Összes jelszó exportálása” lehetőséget

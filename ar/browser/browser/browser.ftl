@@ -585,6 +585,8 @@ identity-clear-site-data =
     .label = امسح الكعكات و بيانات المواقع…
 identity-connection-not-secure-security-view = لست متصلاً مع هذا الموقع بأمان.
 identity-connection-verified = أنت متصل مع هذا الموقع بأمان.
+identity-ev-owner-label2 = أُصدرت الشّهادة إلى
+identity-verifier-label2 = تحققَ منها
 identity-ev-owner-label = أُصدرت الشّهادة إلى:
 identity-verifier-label = تحقق منها:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

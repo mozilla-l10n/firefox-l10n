@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Sütik és oldaladatok eltávolítása…
 identity-connection-not-secure-security-view = Nem biztonságosan kapcsolódik ehhez az oldalhoz.
 identity-connection-verified = Biztonságosan kapcsolódik ehhez az oldalhoz.
+identity-ev-owner-label2 = Tanúsítvány kiállítva ennek:
+identity-verifier-label2 = Ellenőrizte:
 identity-ev-owner-label = Tanúsítvány kiállítva ennek:
 identity-verifier-label = Ellenőrizte:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

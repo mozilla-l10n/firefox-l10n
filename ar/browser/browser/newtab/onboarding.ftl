@@ -446,6 +446,9 @@ onboarding-checklist-pin = ثبّت { -brand-short-name } في شريط المه
 onboarding-checklist-import = استورِدها من المتصفّح السابق
 onboarding-checklist-extension = أضِف امتدادة
 onboarding-checklist-sign-up = سجّل أو لِج إلى حسابك
+onboarding-checklist-remove =
+    .label = أزِل قائمة التحقق
+onboarding-checklist-remove-2 = أزِل قائمة التحقق
 
 ## Tab Groups feature onboarding strings
 

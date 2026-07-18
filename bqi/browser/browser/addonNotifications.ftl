@@ -36,9 +36,13 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = ای وبگه درخاست دسرسی و دسگایل MIDI (رابت دیجیتالی سازا آرنگ) ایسا ن داره. دسرسی و دسگا ن تره وا پۊرنیڌن ی وردنی فعال کونه.
 site-permission-install-first-prompt-midi-message = تزمینی سی ٱمن بیڌن ای دسرسی وۊجۊد نڌاره. تینا ی جۊر ترین رین وا پؽش ک و ای وبگه ائتماد داشته بۊین.
+site-permission-install-first-prompt-serial-header = ای وبگه درخاست دسرسی و دسگایل سریال ایسا ن داره. دسرسی و دسگا ن تره وا پۊرنیڌن ی وردنی فعال کونه.
+site-permission-install-first-prompt-serial-message = تزمینی سی ٱمن بیڌن ای دسرسی وۊجۊد نڌاره. تینا ی جۊر ترین رین وا پؽش ک و ای وبگه ائتماد داشته بۊین.
 
 ##
 
+xpinstall-disabled-locked = دؽوۉدار سیستوم ایسا پۊرنیڌن برنومه ن قیر فعال کرده.
+xpinstall-disabled-by-policy = سازمووݩ ایسا پۊرنیڌن برنومه ن قیر فعال کرده.
 xpinstall-disabled-button =
     .label = و کار وندن
     .accesskey = n
@@ -84,3 +88,13 @@ addon-install-cancel-button =
 addon-install-accept-button =
     .label = ٱووردن
     .accesskey = A
+
+## Add-on install errors
+## Variables:
+##   $addonName (String): the add-on name.
+
+addon-install-error-network-failure = چیناکه موشکلی من منپیز بی، دانلود وردنی و موشکل خرد.
+addon-install-error-corrupt-file = وردنی دانلود وابیڌه ز ای وبگه منی خراو وابیڌه وو نؽبۊ بپۊره.
+addon-local-install-error-corrupt-file = ای وردنی منی خراو وابیڌه وو نؽبۊ بپۊره.
+addon-local-install-error-not-signed = ای وردنی نتره بپۊره چیناکه تاییڌ نوابیڌه.
+addon-install-error-hard-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.

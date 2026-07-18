@@ -381,5 +381,30 @@ appmenu-profile-current-in-use = Jelenleg használt profil
 fxa-menu-create-profile-subpanel =
     .title = Új profil létrehozása
 fxa-menu-create-profile-heading = Emelje új szintre a böngészését egy új profillal
+fxa-menu-create-profile-description = Tartsa külön a munkához és a személyes böngészéshez tartozó könyvjelzőit, jelszavait és előzményeit.
+fxa-menu-create-profile-confirm =
+    .label = Új profil létrehozása
+fxa-menu-create-profile-learn-more =
+    .label = Mik azok a profilok?
 appmenu-profiles-2 =
     .label = Profilok
+appmenu-profiles-header = Profilok
+appmenu-all-profiles =
+    .label = Összes profil
+appmenu-secure-sync-header = Biztonságos szinkronizálás
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Legújabb címkék
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } szinkronizált lap megtekintése
+           *[other] { $tabCount } szinkronizált lap megtekintése
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Jelenlegi oldal küldése erre az eszközre

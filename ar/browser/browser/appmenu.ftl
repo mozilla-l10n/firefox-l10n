@@ -387,3 +387,6 @@ appmenu-secure-sync-header = مزامنة آمنة
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = الألسنة الحديثة
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = أرسل الصفحة الحالية إلى هذا الجهاز

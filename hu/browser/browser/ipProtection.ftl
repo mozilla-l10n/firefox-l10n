@@ -56,8 +56,32 @@ ipprotection-feature-introduction-button-get-started = Kezdő lépések
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = A beépített VPN korlátja szeptember 1-jén visszaáll
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Használja a(z) { $maxUsage } GB-ját és a 6 helyet a fokozott adatvédelem érdekében, hogy nehezebb legyen Önhöz visszavezetni a böngészését.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Használja a(z) { $maxUsage } GB-ját és a több mint 20 helyet a fokozott adatvédelem érdekében, hogy nehezebb legyen Önhöz visszavezetni a böngészését.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = A beépített VPN-je most még jobb lett
+ipprotection-summer-promo-offramp-subscriber-description = Most már korlátlan sávszélességet és további helyeket kap, mert { -mozilla-vpn-brand-name }-előfizető.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Tartsa meg a beépített VPN további helyeit
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Legyen a { -brand-product-name } a szokásos böngészője, és szerezzen több mint 20 további helyet, ahonnan augusztus 31. után böngészhet.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Lépjen szintet a { -mozilla-vpn-brand-name } segítségével
+ipprotection-summer-promo-offramp-subscription-upsell-description = Tartsa meg a korlátlan sávszélességet augusztus 31. után, több mint 300 hellyel, 5 eszközön, hogy nehezebb legyen Önhöz visszavezetni a böngészését.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN megnyitása
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Beállítás az alapértelmezésre
 ipprotection-summer-promo-offramp-get-subscription-button = A { -mozilla-vpn-brand-name } beszerzése
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Eltüntetés
 
@@ -160,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Ellenőrizze internetkapc
 ipprotection-connection-status-network-error-description = Kapcsolódjon az internethez, majd próbálja bekapcsolni a VPN-t.
 ipprotection-connection-status-blocked-error-title-1 = A VPN nem érhető el
     .aria-label = A VPN nem érhető el
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = A helyi törvények és korlátozások korlátozzák, hogy hol használhatja a VPN-t. <a data-l10n-name="learn-more-link">További információk</a>
 ipprotection-connection-status-blocked-error-description = A helyi törvények miatt nem nyújthatunk VPN-szolgáltatást ebben a régióban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
