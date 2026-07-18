@@ -141,6 +141,8 @@ fxa-menu-all-devices-panel =
     .title = อุปกรณ์ทั้งหมด
 fxa-menu-get-firefox-mobile =
     .label = รับ { -brand-product-name } สำหรับ Android หรือ iOS
+fxa-menu-secure-sync-subpanel =
+    .title = การซิงค์แบบปลอดภัย
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = บัญชี
 # Variables
@@ -245,6 +247,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
 profiler-popup-presets-networking-label =
     .label = ระบบเครือข่าย
+profiler-popup-presets-networking-with-logs-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กระบบเครือข่ายใน { -brand-shorter-name } รวมทั้งรายการบันทึกระบบเครือข่าย รายการบันทึกเหล่านี้อาจมีข้อมูลที่ละเอียดอ่อน เช่น URL ที่คุณเยี่ยมชม
+profiler-popup-presets-networking-with-logs-label =
+    .label = ระบบเครือข่ายพร้อมรายการบันทึก
 profiler-popup-presets-power-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับการใช้พลังงานใน { -brand-shorter-name } โดยมีโอเวอร์เฮดต่ำ
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -322,6 +327,8 @@ appmenu-customizetoolbar =
     .label = ปรับแต่งแถบเครื่องมือ…
 appmenu-abouttranslations =
     .label = แปล…
+appmenu-edit-pdf =
+    .label = แก้ไข PDF…
 appmenu-developer-tools-subheader = เครื่องมือสำหรับเบราว์เซอร์
 appmenu-developer-tools-extensions =
     .label = ส่วนขยายสำหรับนักพัฒนา
@@ -331,15 +338,25 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ลงชื่อเข้าบัญชีของคุณ
+appmenuitem-monitor-title2 = รู้เท่าทันการขโมยข้อมูลส่วนบุคคล
+appmenuitem-monitor-description2 = รับการแจ้งเตือนเกี่ยวกับการรั่วไหลของข้อมูล
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = รับการแจ้งเตือนเมื่อเกิดการรั่วไหลของข้อมูล
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = เก็บอีเมลของคุณไว้เป็นส่วนตัว
+appmenuitem-relay-description2 = ช่วยป้องกันสแปมในกล่องจดหมายของคุณ
 appmenuitem-relay-description = ปิดบังอีเมลและหมายเลขโทรศัพท์จริงของคุณ
 appmenuitem-services-relay-description = เปิดแดชบอร์ดตัวปกปิดอีเมล
+appmenuitem-vpn-title2 = ซ่อนตำแหน่งของคุณด้วย { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = ทำให้การติดตามการเรียกดูของคุณทำได้ยากขึ้น
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = รับการป้องกันครอบคลุมทั้งอุปกรณ์
 appmenuitem-vpn-description = ปกป้องกิจกรรมออนไลน์ของคุณ
 appmenu-services-header = บริการของฉัน
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = เครื่องมือความเป็นส่วนตัว
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -353,9 +370,22 @@ appmenu-manage-profiles =
     .label = จัดการโปรไฟล์
 appmenu-copy-profile =
     .label = คัดลอกโปรไฟล์นี้
+appmenu-create-profile2 =
+    .label = สร้างโปรไฟล์ใหม่
 appmenu-create-profile =
     .label = โปรไฟล์ใหม่
 appmenu-edit-profile =
     .aria-label = แก้ไขโปรไฟล์
+appmenu-edit-this-profile =
+    .label = แก้ไขโปรไฟล์นี้
+appmenu-profile-current-in-use = โปรไฟล์ปัจจุบันที่ใช้อยู่
+fxa-menu-create-profile-subpanel =
+    .title = สร้างโปรไฟล์ใหม่
+fxa-menu-create-profile-heading = ยกระดับการเรียกดูของคุณด้วยโปรไฟล์ใหม่
+fxa-menu-create-profile-description = แยกที่คั่นหน้า รหัสผ่าน และประวัติของคุณออกจากกันสำหรับการเรียกดูเพื่อการทำงานและการใช้งานส่วนตัว
+fxa-menu-create-profile-confirm =
+    .label = สร้างโปรไฟล์ใหม่
+fxa-menu-create-profile-learn-more =
+    .label = โปรไฟล์คืออะไร?
 appmenu-profiles-2 =
     .label = โปรไฟล์

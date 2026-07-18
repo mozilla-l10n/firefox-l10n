@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = Kom i gang
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Grensene for den innebygde VPN-en blir tilbakestilte 1. september.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Opne VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Set til standard
