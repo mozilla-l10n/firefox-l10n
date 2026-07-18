@@ -64,6 +64,7 @@ ipprotection-summer-promo-offramp-generic-title = 您內建 VPN 的限制將於 
 ipprotection-summer-promo-offramp-subscriber-title = 您的內建 VPN 升級了
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 開啟 VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = 設為預設瀏覽器
 ipprotection-summer-promo-offramp-get-subscription-button = 獲得 { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = 知道了！
 
