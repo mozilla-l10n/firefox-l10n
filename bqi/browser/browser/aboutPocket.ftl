@@ -39,14 +39,18 @@ pocket-panel-signup-login = و من ٱووڌن
 pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
 pocket-panel-signup-signup-cta = من { -pocket-brand-name } سبت نوم کۊنین. مۊفتی هڌ.
 pocket-panel-signup-signup-firefox = سبت نوم وا { -brand-product-name }
-pocket-panel-signup-tagline = مقاله یل وو ویدیو یل ن وا { -brand-product-name } زفت کۊنین وو هر سا وا هر دسگایی و وسیله { -pocket-brand-name } بنیرین.
+pocket-panel-signup-tagline = مقاله یل وو ویدیو یل ن وا { -brand-product-name } زفت کۊنین وو وا هر دسگایی من هر مجالی و وسیله { -pocket-brand-name } بنیرین.
 pocket-panel-signup-tagline-story-one = و ری دویمه { -pocket-brand-name } کیلیک کۊنین تا مقاله، ویدیو یا بلگه یل ن وا { -brand-product-name } زفت کۊنین.
 pocket-panel-signup-tagline-story-two = نشووݩ داڌن من { -pocket-brand-name } من هر دسگا وو هر زمووی.
 pocket-panel-signup-cta-a-fix = دویمه زفت کردن ایسا سی اینترنت
+pocket-panel-signup-cta-b-updated = سی زفت کردن مقاله یل، ویدیویل وو لینگا، ری دویمه { -pocket-brand-name } کلیک کۊنین. زفت وابیڌه یل خوتووݩ ن وا هر دسگایی من هر مجالی ک خاستین بنیرین.
+pocket-panel-signup-cta-b-short = سی زفت مقاله یل، ویدیو یل وو لینگا، ری دویمه { -pocket-brand-name } کیلیک کۊنین.
+pocket-panel-signup-cta-c-updated = نیشتن زفت وابیڌه یل تووݩ ری هر دسگایی، منه هر مجالی.
 
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = خش وورگشتین
+pocket-panel-home-paragraph = { -pocket-brand-name } ن ترین سی گشتن وو زفت کردن بلگه یل وب، مقاله یل، ویدیویل، پادکستا وو یا وورگشتن و چیه ک زیتر خۊندین و کار بوورین.
 pocket-panel-home-explore-popular-topics = سرتالا جالو ن بجۊرین
 pocket-panel-home-discover-more = قلوه بنیرین
 pocket-panel-home-explore-more = جوستن
