@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Aktulaizacija njejo móžna – system jo inkompatibelny
 appmenuitem-banner-update-restart =
     .label = Aktualizacija k dispoziciji – něnto znowego startowaś
+appmenu-nova-update-title = Startujśo znowego, aby { -brand-short-name } aktualizěrował
+appmenu-nova-update-description = Waše rejtariki se znowego wócyniju.
 appmenu-nova-fxa-sign-in = Pśizjawiś
 appmenu-nova-switch-device-promo =
     .message = Dostanjośo skóro nowy rěd? Wzejśo { -brand-short-name } ze sobu!
@@ -107,6 +109,7 @@ appmenu-remote-tabs-unverified = Wašo konto musy se wobkšuśiś.
 appmenuitem-fxa-toolbar-sync-now2 = Něnto synchronizěrowaś
 appmenuitem-fxa-sign-in = Pla { -brand-product-name } pśizjawiś
 appmenuitem-fxa-manage-account = Konto zastojaś
+fxa-menu-sync-status-on = Synchronizacija jo zmóžnjona
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables

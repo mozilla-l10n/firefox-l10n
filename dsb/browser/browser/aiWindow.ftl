@@ -105,8 +105,16 @@ aiwindow-firstrun-model-fast-body-v2 = Nejlěpjej za malsne wótegrona, gaž se 
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Model { $model } wót { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibelny
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Fleksibelny: { $shortName }
+aiwindow-firstrun-model-flexible-body = Gótowy za wšake nadawki
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Dopórucony
 aiwindow-firstrun-model-personal-label = Wósobinski
 aiwindow-firstrun-model-personal-body = Nejlěpjej pśiměrjone wótegrona
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Wósobinski: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Napórany za personalizěrowanu pomoc w někotarych rěcach
 aiwindow-firstrun-button = Zachopmy
 aiwindow-firstrun-back-button = Slědk
 aiwindow-firstrun-next-button = Dalej
@@ -117,6 +125,7 @@ aiwindow-input-model-select-button-label-fast = Malsny
 aiwindow-input-model-select-button-label-allpurpose = Fleksibelny
 aiwindow-input-model-select-button-label-personal = Wósobinski
 aiwindow-input-model-select-button-label-custom = Swójski
+aiwindow-input-model-select-button-description-custom = Wužywajśo swójski LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -131,13 +140,20 @@ aiwindow-input-model-select-settings-link = Modelowe nastajenja
 
 aiwindow-firstrun-memories-title = Wěcej wužytnych wótegronow, k wašym wuměnjenjam
 aiwindow-firstrun-memories-relevance-title = Wěcej relewantnych wótegronow
+aiwindow-firstrun-memories-relevance-body = Wuknjenje z pśeglědowanja { -smart-window-brand-name } wětšy wobraz dawa.
 aiwindow-firstrun-memories-privacy-title = Priwatny pó designje
+aiwindow-firstrun-memories-privacy-body = Dopomnjeśa se na toś tom rěźe składuju. Wulašujśo abo znjemóžniśo je kuždy cas.
+aiwindow-firstrun-memories-choose-label = Wubjeŕśo, z cogož { -smart-window-brand-name } wuknjo
 aiwindow-firstrun-memories-checkbox-chats = Chaty w { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = W { -brand-product-name } pśeglědowaś
+aiwindow-firstrun-memories-update-settings = Aktualizěrujśo w nastajenjach kuždy cas.
+aiwindow-firstrun-memories-no-create = Som zrozměł. { -smart-window-brand-name } dopomnjeśa njenapórajo. Aktualizěrujśo w nastajenjach kuždy cas.
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Cyńśo { -smart-window-brand-name } k swójomu faworitoju
 aiwindow-firstrun-default-checkbox-label = { -brand-product-name } pśecej w { -smart-window-brand-name } wócyniś
+aiwindow-firstrun-default-checkbox-description = Změńśo w nastajenjach kuždy cas.
 
 ## Ask Toolbar Button
 
@@ -277,3 +293,19 @@ aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepśistojny
 aiwindow-feedback-reason-other = Druge
 aiwindow-feedback-preview-report = Chatowe drobnostki pokazaś
 aiwindow-feedback-preview-report-with-page = Drobnostki chata a boka pokazaś
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Pišćo prědne nacerjenje
+aiwindow-starter-writing-improve = Pisanje pólěpšyś
+aiwindow-starter-writing-proofread = Pšawopis powěsći kontrolěrowaś
+aiwindow-starter-planning-simplify = Temu zjadnoriś
+aiwindow-starter-planning-brainstorm = Ideje gromaźiś
+aiwindow-starter-planning-plan = Pomagajśo, plan napóraś
+aiwindow-starter-browsing-history = Rejtariki w historiji pytaś
+aiwindow-starter-browsing-summarize = Rejtariki zespominaś
+aiwindow-starter-browsing-compare = Rejtariki pśirownaś
