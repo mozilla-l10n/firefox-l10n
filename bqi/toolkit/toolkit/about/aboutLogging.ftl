@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logging-with-javascript-tracing-checkbox = و کار وندن رڌجۊری جاوا اسکریپت
+about-logging-with-javascript-tracing-checkbox = فعال کردن رڌجۊری جاوا اسکریپت
 about-logging-menu =
     .title = گۊزینه یل پؽش رئڌه
 

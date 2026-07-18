@@ -1150,7 +1150,7 @@ security-enable-safe-browsing-link = قلوه دووسته بۊین
 
 ## Privacy Section - Certificates
 
-certs-devices-enable-fips = و کار وندن FIPS
+certs-devices-enable-fips = فعال کردن FIPS
 space-alert-over-5gb-settings-button =
     .label = گۊشیڌن سامووا
     .accesskey = O

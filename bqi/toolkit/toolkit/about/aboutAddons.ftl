@@ -144,12 +144,12 @@ addon-options-button =
 
 report-addon-button = گوزارش
 remove-addon-button = پاک کردن
-disable-addon-button = ز کار وندن
-enable-addon-button = و کار وندن
+disable-addon-button = قیر فعال کردن
+enable-addon-button = فعال کردن
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
-    .aria-label = و کار وندن
+    .aria-label = فعال کردن
 preferences-addon-button =
     { PLATFORM() ->
         [windows] گۊزینه یل

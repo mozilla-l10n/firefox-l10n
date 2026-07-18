@@ -25,10 +25,10 @@ devmgr-button-unload =
     .label = و در کردن
     .accesskey = U
 devmgr-button-enable-fips =
-    .label = و کار وندن FIPS
+    .label = فعال کردن FIPS
     .accesskey = F
 devmgr-button-disable-fips =
-    .label = ز کار وندن FIPS
+    .label = قیر فعال کردن FIPS
     .accesskey = F
 
 ## Strings used for load device

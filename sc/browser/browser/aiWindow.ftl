@@ -189,3 +189,31 @@ firefoxview-search-chat-results-count =
 item-history-downloads-and-chat =
     .label = Cronologia de navigatzione, de iscarrigamentos e de tzarradas
     .accesskey = r
+item-history-downloads-and-chat-description = Cantzellat sa cronologia de is sitos, de is iscarrigamentos e de is tzarradas
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Seletziona totu
+    .aria-label = Seletziona totu
+smart-window-confirm-deselect-all =
+    .label = Boga sa seletzione
+    .aria-label = Boga sa seletzione
+smart-window-close-confirm =
+    .aria-label = Annulla sa rechesta e serra
+    .tooltiptext = Annulla sa rechesta e serra
+smart-window-confirm-close-tab = Serra
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Serra { $count } ischeda
+       *[other] Serra { $count } ischedas
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Ischeda serrada
+smartwindow-close-tab-callout-subtitle = Torra a abèrrere is ischedas dae sa cronologia in cale si siat momentu.

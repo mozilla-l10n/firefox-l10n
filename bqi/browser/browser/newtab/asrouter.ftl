@@ -92,7 +92,7 @@ cfr-doorhanger-milestone-close-button = بستن
 
 cfr-doorhanger-doh-primary-button-2 = خا
     .accesskey = O
-cfr-doorhanger-doh-secondary-button = ز کار وندن
+cfr-doorhanger-doh-secondary-button = قیر فعال کردن
     .accesskey = D
 
 ## Full Video Support CFR message

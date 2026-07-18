@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Opne nytt privat vindauge
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassisk vindauge
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name }-bytar
+    .tooltiptext = Byt mellom smarte og klassiske vindauge.
 
 ## Input CTA
 
