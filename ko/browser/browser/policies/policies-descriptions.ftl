@@ -69,7 +69,7 @@ policy-DisableTelemetry = 원격 분석 끄기
 policy-DisableThirdPartyModuleBlocking = 사용자가 { -brand-short-name } 프로세스에 삽입되는 제3자 모듈을 차단하지 못하도록 합니다.
 policy-DisplayBookmarksToolbar = 기본으로 북마크 도구 모음을 표시합니다.
 policy-DisplayMenuBar = 기본으로 메뉴 모음을 표시합니다.
-policy-DNSOverHTTPS = DNS over HTTPS (HTTPS를 통한 DNS)를 구성합니다.
+policy-DNSOverHTTPS = DNS over HTTPS를 구성합니다.
 policy-DontCheckDefaultBrowser = 시작할 때 기본 브라우저 확인을 사용 안 합니다.
 policy-DownloadDirectory = 다운로드 디렉터리를 설정하고 잠급니다.
 # “lock” means that the user won’t be able to change this setting

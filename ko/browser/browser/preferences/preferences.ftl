@@ -2351,9 +2351,9 @@ httpsonly-label2 =
 preferences-doh-header = DNS over HTTPS
 dns-over-https-group2 =
     .label = DNS over HTTPS
-    .description = HTTPS를 통한 DNS (DoH)는 사이트 조회를 암호화하므로 인터넷 공급자나 다른 사람이 사용자가 방문하려는 웹 사이트를 확인하기가 더 어렵습니다.
-preferences-doh-description = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
-preferences-doh-description2 = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 제공하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
+    .description = DNS over HTTPS (DoH)는 사이트 조회를 암호화하므로 인터넷 공급자나 다른 사람이 사용자가 방문하려는 웹 사이트를 확인하기가 더 어렵습니다.
+preferences-doh-description = DNS over HTTPS는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
+preferences-doh-description2 = DNS over HTTPS는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 제공하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = 상태: { $status }
@@ -2420,7 +2420,7 @@ preferences-doh-advanced-button =
     .label = 고급 설정
 preferences-doh-advanced-section =
     .label = 고급 설정
-    .description = HTTPS를 통한 DNS (DoH)는 사이트 조회를 암호화하므로 인터넷 공급자나 다른 사람이 사용자가 방문하려는 웹 사이트를 확인하기가 더 어렵습니다.
+    .description = DNS over HTTPS (DoH)는 사이트 조회를 암호화하므로 인터넷 공급자나 다른 사람이 사용자가 방문하려는 웹 사이트를 확인하기가 더 어렵습니다.
 preferences-doh-manage-exceptions2 =
     .label = 예외 관리
     .accesskey = x
@@ -2441,20 +2441,20 @@ preferences-doh-status-item-off =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active =
-    .message = { $name } 공급자를 사용하는 동안 오류({ $reason })가 발생하여 HTTPS를 통한 DNS가 작동하지 않습니다.
+    .message = { $name } 공급자를 사용하는 동안 오류({ $reason })가 발생하여 DNS over HTTPS가 작동하지 않습니다.
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
-    .message = 잘못된 URL({ $reason })을 받아 HTTPS를 통한 DNS가 작동하지 않음
+    .message = 잘못된 URL({ $reason })을 받아 DNS over HTTPS가 작동하지 않음
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
-    .message = HTTPS를 통한 DNS가 { $name } 공급자를 사용 중
+    .message = DNS over HTTPS가 { $name } 공급자를 사용 중
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active-local =
-    .message = 로컬 공급자 { $name }를 사용하는 동안 오류({ $reason })가 발생하여 HTTPS를 통한 DNS가 작동하지 않습니다.
+    .message = 로컬 공급자 { $name }를 사용하는 동안 오류({ $reason })가 발생하여 DNS over HTTPS가 작동하지 않습니다.
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
