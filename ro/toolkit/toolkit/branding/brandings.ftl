@@ -48,7 +48,7 @@
 -firefox-suggest-brand-name = Sugestii Firefox
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = start Firefox
+-firefox-home-brand-name = Pagină de start Firefox
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox View

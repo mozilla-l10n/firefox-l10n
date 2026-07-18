@@ -51,8 +51,8 @@ pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagină de start
-pane-home-startup-title2 = Acasă și pornire
-    .title = Acasă și pornire
+pane-home-startup-title2 = Pagină de start și pornire
+    .title = Pagină de start și pornire
 pane-search-title2 = Căutare
     .title = Căutare
 pane-privacy-title3 = Confidențialitate și securitate
@@ -943,7 +943,7 @@ network-proxy-connection-settings2 =
 home-new-windows-tabs-header = Ferestre și file noi
 home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de start, ferestre noi și file noi.
 home-section =
-    .heading = Acasă și pornire
+    .heading = Pagină de start și pornire
 
 ## Home Section - Default Browser
 

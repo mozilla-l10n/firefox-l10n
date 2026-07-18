@@ -7,7 +7,7 @@
 back = Înapoi
 forward = Înainte
 reload = Reîncarcă
-home = Pagina de start
+home = Pagină de start
 fullscreen = Ecran complet
 touchbar-fullscreen-exit = Ieși din modul ecran complet
 find = Caută
