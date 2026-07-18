@@ -105,7 +105,7 @@ aiwindow-firstrun-model-fast-label = Snabb
 aiwindow-firstrun-model-fast-body = Svarar snabbt
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Snabb: { $shortName }
-aiwindow-firstrun-model-fast-body-v2 = Bäst för snabba svar när du flyttar snabbt
+aiwindow-firstrun-model-fast-body-v2 = Bäst för snabba svar när du rör dig snabbt
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -117,11 +117,11 @@ aiwindow-firstrun-model-flexible-label = Flexibel: { $shortName }
 aiwindow-firstrun-model-flexible-body = Redo för en mängd olika uppgifter
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Rekommenderad
-aiwindow-firstrun-model-personal-label = Privat
+aiwindow-firstrun-model-personal-label = Personlig
 aiwindow-firstrun-model-personal-body = Mest skräddarsydda svar
 # $shortName (string) - The short name of the model version
-aiwindow-firstrun-model-personal-label-v2 = Personligt: { $shortName }
-aiwindow-firstrun-model-personal-body-v2 = Byggt för personlig hjälp på olika språk
+aiwindow-firstrun-model-personal-label-v2 = Personlig: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Byggd för personlig hjälp över olika språk
 aiwindow-firstrun-button = Låt oss börja
 aiwindow-firstrun-back-button = Tillbaka
 aiwindow-firstrun-next-button = Nästa
@@ -130,7 +130,7 @@ aiwindow-firstrun-next-button = Nästa
 
 aiwindow-input-model-select-button-label-fast = Snabb
 aiwindow-input-model-select-button-label-allpurpose = Flexibel
-aiwindow-input-model-select-button-label-personal = Privat
+aiwindow-input-model-select-button-label-personal = Personlig
 aiwindow-input-model-select-button-label-custom = Anpassad
 aiwindow-input-model-select-button-description-custom = Använd din egen LLM
 # Variables:
@@ -145,13 +145,13 @@ aiwindow-input-model-select-settings-link = Modellinställningar
 
 ## Firstrun memories onboarding
 
-aiwindow-firstrun-memories-title = Fler hjälpsamma svar på dina villkor
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kan lära sig av dina chattar, surfning eller båda för att skapa minnen. De gör svaren mer användbara med tiden.
+aiwindow-firstrun-memories-title = Fler hjälpsamma svar, på dina villkor
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kan lära sig från dina chattar, surfning eller båda för att skapa minnen. De gör svaren mer användbara över tid.
 aiwindow-firstrun-memories-conversation-title = Håll igång konversationen
 aiwindow-firstrun-memories-conversation-body = Att lära sig från chattar innebär att du behöver upprepa dig mindre.
-aiwindow-firstrun-memories-relevance-title = Mer relevanta svar
-aiwindow-firstrun-memories-relevance-body = Att lära sig från surfning ger { -smart-window-brand-name } den större bilden.
-aiwindow-firstrun-memories-privacy-title = Privat genom design
+aiwindow-firstrun-memories-relevance-title = Fler relevanta svar
+aiwindow-firstrun-memories-relevance-body = Att lära sig från surfning ger { -smart-window-brand-name } helheten.
+aiwindow-firstrun-memories-privacy-title = Designad för integritet
 aiwindow-firstrun-memories-privacy-body = Minnen är lagrade på enheten. Ta bort eller inaktivera när som helst.
 aiwindow-firstrun-memories-choose-label = Välj vad { -smart-window-brand-name } lär sig av
 aiwindow-firstrun-memories-checkbox-chats = Chattar i { -smart-window-brand-name }
@@ -164,7 +164,7 @@ aiwindow-firstrun-memories-no-create = Jag förstår. { -smart-window-brand-name
 aiwindow-firstrun-default-title = Gör { -smart-window-brand-name } till din favorit
 aiwindow-firstrun-default-subtitle = Surfa, sök och fråga på ett ställe. Du kan fortfarande öppna privata och klassiska fönster när du vill.
 aiwindow-firstrun-default-checkbox-label = Öppna alltid { -brand-product-name } i { -smart-window-brand-name }
-aiwindow-firstrun-default-checkbox-description = Byt inställningar när som helst
+aiwindow-firstrun-default-checkbox-description = Byt i inställningar när som helst
 
 ## Ask Toolbar Button
 
@@ -183,8 +183,8 @@ aiwindow-memories-on =
     .tooltiptext = Använd minnen i svaren när det är användbart
     .aria-label = Minnen på
 aiwindow-memories-off =
+    .aria-label = Minnen av
     .tooltiptext = Använd inte minnen i svaren
-    .aria-label = Minnen släckt
 
 ## New Chat Button
 
@@ -197,10 +197,6 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .tooltiptext = Stäng
     .aria-label = Stäng
-
-## Sign out dialog
-
-fxa-signout-dialog-body-aiwindow = Synkroniserad data kommer att finnas kvar på ditt konto. Öppen { -smart-window-brand-name(plural-form: "true") } byter till klassiska fönster.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -245,7 +241,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Gå tillbaka till dina chattar
-firefoxview-chats-empty-description = Eftersom du använder { -smart-window-brand-name }, kommer dina chattar att sparas här.
+firefoxview-chats-empty-description = När du använder { -smart-window-brand-name } kommer dina chattar att sparas här.
 
 ## Count displayed in fxview chat search results
 
@@ -262,8 +258,8 @@ firefoxview-search-chat-results-count =
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat =
-    .label = Webbläsning, hämtning och chatthistorik
-    .accesskey = W
+    .label = Surfhistorik, nedladdningshistorik och chatthistorik
+    .accesskey = S
 item-history-downloads-and-chat-description = Rensar webbplats-, nedladdnings- och chatthistorik
 
 ## Natural Language Interactions
@@ -282,7 +278,7 @@ smart-window-confirm-close-tab = Stäng
 #   $count (number) - Number of tabs to close
 smart-window-confirm-close-tabs =
     { $count ->
-        [one] Stäng fliken { $count }
+        [one] Stäng { $count } flik
        *[other] Stäng { $count } flikar
     }
 
@@ -296,7 +292,7 @@ smartwindow-close-tab-callout-subtitle = Återöppna flikar från historiken nä
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Gör { -smart-window-brand-name } till din standard?
-smart-window-default-promo-message = { -brand-short-name } öppnar om { -smart-window-brand-name } varje gång.
+smart-window-default-promo-message = { -brand-short-name } öppnas i { -smart-window-brand-name } varje gång.
 smart-window-default-promo-primary-button = Ange som standard
 smart-window-default-promo-additional-button = Inte nu
 
@@ -306,14 +302,14 @@ aiwindow-feedback-modal-title = Dela feedback
 aiwindow-feedback-what-worked-well = Vad fungerade bra? Ingen personlig information, tack.
 aiwindow-feedback-choose-any = Välj vad som passar
 aiwindow-feedback-add-details = Lägg till detaljer om du vill. Ingen personlig information, tack.
-aiwindow-feedback-disclaimer = Genom att skicka in delar din feedback och den här chatten för att hjälpa { -brand-shorter-name } att förbättra { -smart-window-brand-name }. Dina andra chattar förblir privata. <a data-l10n-name="learn-more">Läs mer</a>
+aiwindow-feedback-disclaimer = Genom att skicka in delar du din feedback och den här chatten för att hjälpa { -brand-shorter-name } att förbättra { -smart-window-brand-name }. Dina andra chattar förblir privata. <a data-l10n-name="learn-more">Läs mer</a>
 aiwindow-feedback-submit = Skicka in
 aiwindow-feedback-cancel = Avbryt
 aiwindow-feedback-reason-incorrect-or-misleading = Felaktig eller missvisande
-aiwindow-feedback-reason-doesnt-address-my-request = Tar inte upp min förfrågan
+aiwindow-feedback-reason-doesnt-address-my-request = Tar inte upp min begäran
 aiwindow-feedback-reason-lacks-personalization = Saknar anpassning eller kontext
-aiwindow-feedback-reason-performance-or-usability = Prestanda eller användbarhetsproblem
-aiwindow-feedback-reason-harmful-or-offensive = Skadligt eller kränkande
+aiwindow-feedback-reason-performance-or-usability = Prestanda- eller användbarhetsproblem
+aiwindow-feedback-reason-harmful-or-offensive = Skadligt eller stötande
 aiwindow-feedback-reason-other = Annat
 aiwindow-feedback-preview-report = Visa chattdetaljer
 aiwindow-feedback-preview-report-with-page = Se chatt- och siddetaljer

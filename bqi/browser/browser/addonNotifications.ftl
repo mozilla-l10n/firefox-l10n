@@ -101,6 +101,16 @@ addon-install-accept-button =
     .label = ٱووردن
     .accesskey = A
 
+## Variables:
+##   $addonCount (Number): the number of add-ons being installed
+
+addon-confirm-install-message =
+    { $addonCount ->
+        [1] ای وبگه اخو وردنی ای ن من { -brand-short-name } بپۊرنه:
+        [one] ای وبگه اخو وردنی ای ن من { -brand-short-name } بپۊرنه:
+       *[other] ای وبگه اخو وردنی یل { $addonCount } ن من { -brand-short-name } بپۊرنه:
+    }
+
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
