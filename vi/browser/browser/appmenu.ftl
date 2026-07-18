@@ -342,3 +342,8 @@ appmenu-edit-profile =
     .aria-label = Chỉnh sửa hồ sơ người dùng
 appmenu-profiles-2 =
     .label = Hồ sơ người dùng
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label = Xem tất cả { $tabCount } thẻ đã đồng bộ
