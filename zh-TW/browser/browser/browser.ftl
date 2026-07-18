@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = 清除 Cookie 與網站資料…
 identity-connection-not-secure-security-view = 您並未安全地連線至此網站。
 identity-connection-verified = 您正安全地連線至此網站。
+identity-ev-owner-label2 = 憑證簽發給
+identity-verifier-label2 = 驗證機構
 identity-ev-owner-label = 憑證簽發給：
 identity-verifier-label = 驗證機構：
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

@@ -14,4 +14,6 @@ crashed-request-help = ایسا و ایما هیاری ادین؟
 crashed-request-help-message = گوزارش خراوی و عیوجۊری وو بؽڌر کردن موشکلا وو { -brand-short-name } هیاری اده.
 crashed-request-report-title = ای بلگه ن گوزارش کۊنین
 crashed-send-report-2 = گوزارش خراوی خوتکار بفشنین تا ترسته بۊیم مووردایی ز ای دست ن هل کۊنیم
+crashed-comment =
+    .placeholder = ٱووردن تووزیهات (تووزیهات سی پوی من دسرس هڌ)
 crashed-request-auto-submit-title = گوزارش بلگه یل پس زمینه

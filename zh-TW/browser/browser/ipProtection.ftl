@@ -56,6 +56,12 @@ ipprotection-feature-introduction-button-get-started = 開始使用
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = 您內建 VPN 的限制將於 9 月 1 日重設
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = 您的內建 VPN 升級了
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 開啟 VPN
 ipprotection-summer-promo-offramp-get-subscription-button = 獲得 { -mozilla-vpn-brand-name }

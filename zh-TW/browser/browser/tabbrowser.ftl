@@ -312,6 +312,9 @@ tab-group-editor-done =
     .label = 完成
     .accessKey = D
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = 分享群組
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = 分享分頁群組
 tab-context-reopen-tab-group =
@@ -353,6 +356,12 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = 將群組移動至此視窗
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = 新功能
+    .label = 分享群組
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
