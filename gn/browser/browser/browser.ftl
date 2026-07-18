@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Eñangareko { -firefox-suggest-bran
 urlbar-result-menu-report-inaccurate-location2 = Emombe’u tendaite oĩ’ỹha
 urlbar-result-menu-show-less-frequently2 = Ehechauka sa’ive eikóvo
 urlbar-result-menu-dont-show-weather-suggestions2 = Ani ehechauka je’epy arapytu rehegua
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Ehejarei ko ñemoñe’ẽ
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Embogue tembiasakuégui
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Kuaave
     .accesskey = L
@@ -581,6 +591,8 @@ identity-clear-site-data =
     .label = Emopotĩ kookie ha mba’ekuaarã tendágui…
 identity-connection-not-secure-security-view = Nde jeike nahekorosãi ko tendápe.
 identity-connection-verified = Eikehína tekorosãme ko tendápe.
+identity-ev-owner-label2 = Mboajepyre osẽmava
+identity-verifier-label2 = Ojehechámava
 identity-ev-owner-label = Mboajepyre osẽmava:
 identity-verifier-label = Ohecháva:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -1106,6 +1118,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Ñe’ẽñemi jehekaha oñemboguéma
 urlbar-searchmode-dropmarker2 =
     .title = Eiporavo jehekaha
+urlbar-searchmode-bookmarks3 = Techaukahaita
+    .accesskey = B
+urlbar-searchmode-tabs3 = Tendaykeita
+    .accesskey = T
+urlbar-searchmode-history3 = Tembiasakue
+    .accesskey = H
+urlbar-searchmode-actions3 = Jeku’eita
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Techaukaha
 urlbar-searchmode-tabs2 = Tendaykekuéra
 urlbar-searchmode-history2 = Tembiasakue
@@ -1125,6 +1145,10 @@ urlbar-searchmode-popup-one-off-header = Ko’ág̃a eheka hendive:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Eheka Kóvandi:
+urlbar-searchmode-popup-search-settings = Hekaha moiporã
+    .accesskey = S
+urlbar-searchmode-popup-settings = Ñemboheko
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = Jehekaha ñemboheko
 urlbar-searchmode-popup-settings-panelitem = Ñemboheko
 

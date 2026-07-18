@@ -380,5 +380,15 @@ fxa-menu-create-profile-subpanel =
 fxa-menu-create-profile-heading = Eikundaha porãve mba’ete pyahu ndive
 fxa-menu-create-profile-confirm =
     .label = Emoheñói mba’ete pyahu
+fxa-menu-create-profile-learn-more =
+    .label = ¿Mba’e umi mba’eteita?
 appmenu-profiles-2 =
     .label = Mba’etekuéra
+appmenu-profiles-header = Mba’eteita
+appmenu-all-profiles =
+    .label = Opaite Mba’ete
+appmenu-secure-sync-header = Ñembojuehe hekorosãva
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Tendayke ramovéva

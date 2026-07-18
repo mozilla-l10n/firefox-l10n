@@ -193,7 +193,7 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Importer les mots de passe de Safari
 migration-safari-password-import-post-sequoia-step1 = Ouvrez l’<a data-l10n-name="macos-passwords-app">application Mots de passe</a> sur votre Mac
 migration-safari-password-import-post-sequoia-step2 = Depuis la barre de menus en haut de l’écran, choisissez Fichier > Exporter tous les mots de passe vers un fichier…
-migration-safari-password-import-post-sequoia-step3 = Enregistrer le fichier
+migration-safari-password-import-post-sequoia-step3 = Enregistrez le fichier
 migration-safari-password-import-post-sequoia-step4 = Sélectionnez le fichier que vous avez enregistré
 migration-safari-password-import-steps-header = Pour importer les mots de passe de Safari :
 migration-safari-password-import-step1 = Dans Safari, ouvrez le menu « Safari » puis allez dans Réglages > Mots de passe
