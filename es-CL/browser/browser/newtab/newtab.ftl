@@ -242,6 +242,46 @@ newtab-privacy-message-promo-monitor-1 = Averigua si tu información personal ap
 newtab-privacy-message-promo-monitor-1-cta = Más información
 newtab-privacy-message-promo-monitor-2 = Proteje tu información con un servicio gratuito de monitoreo de filtraciones de datos, para hasta 20 correos electrónicos.
 newtab-privacy-message-promo-monitor-2-cta = Más información
+newtab-privacy-message-promo-signin-1 = Mantén tus marcadores, contraseñas y pestañas encriptados en todos tus dispositivos con tu cuenta de { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Conectarse
+newtab-privacy-message-promo-vpn-1 = ¿Realizas compras usando Wi-Fi público? Activa la VPN integrada para mayor protección.
+newtab-privacy-message-promo-vpn-1-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-2 = ¿Utilizas la red Wi-Fi del aeropuerto? Protege tu navegación activando la VPN integrada.
+newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-3 = Activa la VPN integrada para mantener tu ubicación más privada.
+newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1 = Prueba a usar una ventana privada para navegar de forma más privada cuando uses un computador compartido.
+newtab-privacy-message-promo-private-window-1-cta = Abrir ventana privada
+newtab-privacy-message-promo-relay-1 = Entrega tu correo electrónico real solo a las personas en las que confías; usa un correo electrónico enmascarado para registrarte en otras cosas.
+newtab-privacy-message-promo-relay-1-cta = Obtén máscaras
+newtab-privacy-message-promo-relay-2 = Protege tu bandeja de entrada del spam con el enmascaramiento de correo electrónico gratuito.
+newtab-privacy-message-promo-relay-2-cta = Obtén máscaras
+newtab-privacy-message-promo-relay-3 = Obtén 50 máscaras de correo electrónico gratuitas para mantener la privacidad de tu correo electrónico real.
+newtab-privacy-message-promo-relay-3-cta = Obtén máscaras
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Ver protecciones
+newtab-privacy-message-milestone-month-cta = Ver protecciones
+newtab-privacy-message-milestone-year-cta = Ver protecciones
+newtab-privacy-message-milestone-total-cta = Ver protecciones
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Hoy se han bloqueado más de 100 rastreadores). Menos rastreadores significa más privacidad.
+newtab-privacy-message-daily-cap-cta = Ver protecciones
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Has estado protegido { $count } día seguido.
+       *[other] Has estado protegido { $count } días seguidos.
+    }
+newtab-privacy-message-streak-cta = Ver protecciones
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Sigue navegando, { -brand-short-name } seguirá bloqueando.
+newtab-privacy-message-first-protection-cta = Ver protecciones
 
 ## Strings for the Stocks widget
 
@@ -249,12 +289,55 @@ newtab-privacy-message-promo-monitor-2-cta = Más información
 newtab-stocks-menu-search = Buscar símbolos bursátiles
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Aprender más
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Los datos bursátiles no están disponibles.
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Opciones del widget de acciones
+    .aria-label = Opciones del widget de acciones
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Acciones
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, sube { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, baja { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, sin cambios, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Imagen del día · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Imagen del día
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Ver la licencia { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Opciones de imagen del día
+    .aria-label = Opciones de imagen del día
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -382,6 +465,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Editar
+newtab-menu-add-topsite = Añadir nuevo acceso directo
 newtab-menu-open-new-window = Abrir en una nueva ventana
 newtab-menu-open-new-private-window = Abrir en una nueva ventana privada
 newtab-menu-dismiss = Descartar
@@ -1023,6 +1107,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Cancelar
     .title = Cancelar
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Opciones de Lista
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista

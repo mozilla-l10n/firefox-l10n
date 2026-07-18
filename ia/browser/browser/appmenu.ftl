@@ -109,6 +109,19 @@ appmenu-remote-tabs-unverified = Tu conto debe esser verificate.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-sign-in = Aperir session in { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerer conto
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Activar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Accede pro synchronisar
+fxa-menu-add-device =
+    .label = Adder un apparato
+fxa-menu-manage-devices =
+    .label = Gerer proprie apparatos
+fxa-menu-secure-sync-subpanel =
+    .title = Synchronisation secur
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conto
 # Variables
@@ -336,9 +349,26 @@ appmenu-manage-profiles =
     .label = Gerer le profilos
 appmenu-copy-profile =
     .label = Copiar iste profilo
+appmenu-create-profile2 =
+    .label = Crear un nove profilo
 appmenu-create-profile =
     .label = Nove profilo
 appmenu-edit-profile =
     .aria-label = Rediger le profilo
+appmenu-edit-this-profile =
+    .label = Rediger iste profilo
+appmenu-profile-current-in-use = Actual profilo in uso
+fxa-menu-create-profile-subpanel =
+    .title = Crear un nove profilo
+fxa-menu-create-profile-confirm =
+    .label = Crear nove profilo
 appmenu-profiles-2 =
     .label = Profilos
+appmenu-profiles-header = Profilos
+appmenu-all-profiles =
+    .label = Tote le profilos
+appmenu-secure-sync-header = Synchronisation secur
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Schedas recente

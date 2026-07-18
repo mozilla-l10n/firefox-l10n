@@ -174,8 +174,8 @@ smartwindow-ask-button =
 ## Group My Tabs Toolbar Button
 
 smartwindow-group-tabs-button =
-    .label = Grouper mes onglets
-    .tooltiptext = Grouper mes onglets
+    .label = Regrouper mes onglets
+    .tooltiptext = Regrouper mes onglets
 
 ## Memories toggle button
 

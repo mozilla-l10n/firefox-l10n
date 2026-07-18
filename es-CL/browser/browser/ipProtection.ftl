@@ -74,8 +74,14 @@ ipprotection-summer-promo-offramp-subscriber-description = Ahora obtienes ancho 
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Conserva tus ubicaciones VPN integradas adicionales
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Haz de { -brand-product-name } tu navegador preferido y obtén más de 20 sitios adicionales para navegar después del 31 de agosto.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Sube de nivel con { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Mantén un ancho de banda ilimitado después del 31 de agosto, con más de 300 ubicaciones en 5 dispositivos para que sea más difícil rastrear tu navegación.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Establecer como predeterminado
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ocultar
 
@@ -178,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Revisa tu conexión a Int
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN no disponible.
     .aria-label = VPN no disponible.
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Las leyes y restricciones locales limitan dónde puedes usar una VPN. <a data-l10n-name="learn-more-link">Más información</a>
 ipprotection-connection-status-blocked-error-description = Las leyes locales nos impiden ofrecer servicio VPN en esta región. <a data-l10n-name="learn-more-link">Más información</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

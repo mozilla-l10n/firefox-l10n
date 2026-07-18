@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Slett infokapslar og nettstad-data…
 identity-connection-not-secure-security-view = Du er ikkje trygt kopla til denne nettstaden.
 identity-connection-verified = Du er trygt kopla til denne nettstaden.
+identity-ev-owner-label2 = Sertifikat skrive ut til
+identity-verifier-label2 = Stadfesta av
 identity-ev-owner-label = Sertifikat skrive ut til:
 identity-verifier-label = Stadfesta av:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

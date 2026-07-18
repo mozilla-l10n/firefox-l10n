@@ -106,7 +106,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Synchroniser maintenant
 appmenuitem-fxa-sign-in = Se connecter à { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestion du compte
 fxa-menu-sync-status-on = Synchronisation activée
-fxa-menu-sync-status-off = La synchronisation est désactivée
+fxa-menu-sync-status-off = Synchronisation désactivée
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Vos données ne sont pas synchronisées
@@ -123,8 +123,6 @@ fxa-menu-sync-off-signin-description = Se connecter pour synchroniser
 fxa-menu-sync-device-now = Synchronisez { $deviceName } maintenant
 fxa-menu-manage-sync-settings =
     .label = Gérer les paramètres de synchronisation
-fxa-menu-add-device =
-    .label = Ajouter un appareil
 fxa-menu-manage-devices =
     .label = Gérer vos appareils
 fxa-menu-device-missing =

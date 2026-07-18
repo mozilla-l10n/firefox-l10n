@@ -95,9 +95,12 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Eg̃uahẽporã { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Mba’épa upe eipotavéva?
+aiwindow-firstrun-model-title-v2 = Eiporavo peteĩva eñepyrũ hag̃ua
 aiwindow-firstrun-model-subtitle = Eiporavo peteĩchagua eiporu hag̃ua { -smart-window-brand-name }. Emoambue eikotevẽ vove.
 aiwindow-firstrun-model-fast-label = Ipya’e
 aiwindow-firstrun-model-fast-body = Embohovái pya’e
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Pya’e: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version

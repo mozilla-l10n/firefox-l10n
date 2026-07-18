@@ -125,6 +125,24 @@ fxa-menu-sync-off-signin-description = Logg inn for å synkronisere
 # Variables:
 #   $deviceName (String): The name of the local device.
 fxa-menu-sync-device-now = Synkroniser { $deviceName } no
+fxa-menu-manage-sync-settings =
+    .label = Handsam synkroniseringsinnstillingar
+fxa-menu-add-device =
+    .label = Legg til eining
+fxa-menu-manage-devices =
+    .label = Handsam einingar
+fxa-menu-device-missing =
+    .label = Ser du ikkje eininga di?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Alle einingar
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Alle einingar
+fxa-menu-get-firefox-mobile =
+    .label = Få { -brand-product-name } for Android eller iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sikker synkronisering
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -352,9 +370,41 @@ appmenu-manage-profiles =
     .label = Handsam profilar
 appmenu-copy-profile =
     .label = Kopier denne profilen
+appmenu-create-profile2 =
+    .label = Lag ein ny profil
 appmenu-create-profile =
     .label = Ny profil
 appmenu-edit-profile =
     .aria-label = Rediger profil
+appmenu-edit-this-profile =
+    .label = Rediger denne profilen
+appmenu-profile-current-in-use = Gjeldande profil i bruk
+fxa-menu-create-profile-subpanel =
+    .title = Opprett ein ny profil
+fxa-menu-create-profile-heading = Ta nettlesinga di til eit nytt nivå med ein ny profil
+fxa-menu-create-profile-confirm =
+    .label = Opprett ny profil
+fxa-menu-create-profile-learn-more =
+    .label = Kva er profilar?
 appmenu-profiles-2 =
     .label = Profilar
+appmenu-profiles-header = Profilar
+appmenu-all-profiles =
+    .label = Alle profilar
+appmenu-secure-sync-header = Sikker synkronisering
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nylege faner
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Vis { $tabCount } synkronisert fane
+           *[other] Vis alle { $tabCount } synkroniserte faner
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Send gjeldande side til denne eininga

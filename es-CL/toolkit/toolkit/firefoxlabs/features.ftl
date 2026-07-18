@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Utiliza un modelo de
 experimental-features-tab-notes =
     .label = Notas de pestañas
 experimental-features-tab-notes-description = Las notas de pestañas son una funcionalidad experimental que permite añadir notas rápidas a las pestañas del navegador. Se puede anotar el contexto, los recordatorios o los próximos pasos para poder volver y recordar por qué se abrió. Nos encantaría recibir comentarios mientras seguimos mejorando esta funcionalidad. <a data-l10n-name="connect">Compartir comentarios</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Menú de pestañas simplificado
+experimental-features-tab-context-menu-description = Verás un menú contextual más sencillo al hacer clic con el botón derecho en una pestaña. Está diseñado para facilitar la búsqueda de acciones comunes. <a data-l10n-name="connect">Compartir comentarios</a>
