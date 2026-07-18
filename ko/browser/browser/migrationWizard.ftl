@@ -180,6 +180,9 @@ migration-wizard-progress-icon-completed =
     .aria-label = 완료
 migration-safari-password-import-header = Safari에서 비밀번호 가져오기
 migration-safari-password-import-post-sequoia-step1 = Mac에서 <a data-l10n-name="macos-passwords-app">비밀번호 앱</a> 열기
+migration-safari-password-import-post-sequoia-step2 = 화면 상단의 메뉴 모음에서 파일 > 모든 비밀번호를 파일로 내보내기…를 선택합니다.
+migration-safari-password-import-post-sequoia-step3 = 파일 저장
+migration-safari-password-import-post-sequoia-step4 = 저장한 파일 선택
 migration-safari-password-import-steps-header = Safari 비밀번호를 가져오려면:
 migration-safari-password-import-step1 = Safari에서 "Safari" 메뉴를 열고 설정 > 비밀번호로 이동하세요
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> 버튼을 선택하고 "모든 비밀번호 내보내기"를 선택하세요
@@ -192,6 +195,7 @@ migration-chrome-windows-password-import-step2 = 메뉴에서 "설정"을 선택
 migration-chrome-windows-password-import-step3 = "파일 다운로드"를 선택하고 기기에 저장하세요.
 migration-chrome-windows-password-import-step4 = 가져오기를 마치려면, 여기로 돌아와서 "파일 선택"을 하세요.
 migration-manual-password-import-skip-button = 건너뛰기
+migration-manual-password-import-cancel-button = 취소
 migration-manual-password-import-select-button = 파일 선택
 migration-safari-password-import-skip-button = 건너뛰기
 migration-safari-password-import-select-button = 파일 선택
