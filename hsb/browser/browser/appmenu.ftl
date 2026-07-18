@@ -109,6 +109,7 @@ appmenu-remote-tabs-unverified = Waše konto dyrbi so wobkrućić.
 appmenuitem-fxa-toolbar-sync-now2 = Nětko synchronizować
 appmenuitem-fxa-sign-in = Pola { -brand-product-name } přizjewić
 appmenuitem-fxa-manage-account = Konto rjadować
+fxa-menu-sync-status-on = Synchronizacija je zmóžnjena
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables

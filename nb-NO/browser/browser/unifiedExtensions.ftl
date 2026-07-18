@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Oppdag utvidelser
 unified-extensions-empty-reason-private-browsing-not-allowed = Du har utvidelser installert, som ikke er aktivert i private vinduer
 unified-extensions-empty-reason-extension-not-enabled = Du har utvidelser installert, men ikke aktivert
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Noen få utvidelser gjør en stor forskjell.
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Ta nettlesingen din til et nytt nivå med utvidelser
 unified-extensions-empty-content-explain-enable2 = Velg «{ unified-extensions-manage-extensions.label }» for å aktivere dem i innstillingene.
 unified-extensions-empty-content-explain-manage2 = Velg «{ unified-extensions-manage-extensions.label }» for å behandle dem i innstillingene.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Vi har anbefalinger som kan hjelpe deg med å forbedre fokus, personvern og mer.
 unified-extensions-empty-content-explain-extensions-onboarding = Tilpass { -brand-short-name } ved å endre utseende og ytelse, eller ved å forbedre personvern og sikkerhet.
 
 ## An extension in the main list

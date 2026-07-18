@@ -168,6 +168,12 @@ aiwindow-firstrun-default-checkbox-description = Změńće w nastajenjach kóžd
 smartwindow-ask-button =
     .label = Prašeć so
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Moje rajtarki zeskupić
+    .tooltiptext = Moje rajtarki zeskupić
+
 ## Memories toggle button
 
 aiwindow-memories-on =
