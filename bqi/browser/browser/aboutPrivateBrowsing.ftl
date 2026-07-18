@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = بؽلین { -brand-short-
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } درخاستا کۊکی کمتری نشووݩ اده
+about-private-browsing-cookie-banners-promo-body = ایما سکو و توور خوتکار بنرا کۊکی قلوه ای ن رڌ اکۊنیم تا ایسا کمتر رڌجۊری بۊین وو ترسته بۊین بؽ هواس پرتی بنین پا گشتن.
 
 ## Strings for the info section of about:privatebrowsing
 
@@ -80,6 +81,7 @@ about-private-browsing-felt-privacy-v1-info-link = کؽ گاشڌ ترسته بۊ
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
+about-private-browsing-nova-info-body = بستن پوی نیمدری یل سیخومی، کۊکیا، ویرگار وو داده یل وبگه ایسا ن پاک اکونه.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
