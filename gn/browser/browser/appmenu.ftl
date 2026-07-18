@@ -107,6 +107,39 @@ appmenu-remote-tabs-unverified = Tekotevẽ ñemboaje ne mba’ete.
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-sign-in = Eike { -brand-product-name }
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
+fxa-menu-sync-status-off = Ñembojueheha ogue
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Mba'ekuaarãita noñembojuehéi
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Myandy
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Eike embojuehe hag̃ua
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Embojuehe { $deviceName } ko’ág̃a
+fxa-menu-manage-sync-settings =
+    .label = Eñangareko mbojueherã ñembohekóre
+fxa-menu-add-device =
+    .label = Embojuaju mba’e’oka
+fxa-menu-manage-devices =
+    .label = Eñangareko mba’e’oka
+fxa-menu-device-missing =
+    .label = ¿Ndojehechái mba’e’oka?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Opaite mba’e’oka
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Opaite mba’e’oka
+fxa-menu-get-firefox-mobile =
+    .label = Ereko { -brand-product-name } Android iOS-pe g̃uarã
+fxa-menu-secure-sync-subpanel =
+    .title = Ñembojuehe hekorosãva
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Mba’ete
 # Variables
@@ -333,9 +366,19 @@ appmenu-manage-profiles =
     .label = Mba’etekuéra ñangareko
 appmenu-copy-profile =
     .label = Ekopia ko mba’ete
+appmenu-create-profile2 =
+    .label = Emoheñói mba’ete pyahu
 appmenu-create-profile =
     .label = Mba’ete pyahu
 appmenu-edit-profile =
     .aria-label = Embosako’i mba’ete
+appmenu-edit-this-profile =
+    .label = Embosako’i ko Mba’ete
+appmenu-profile-current-in-use = Mba’ete ag̃agua ojeporu
+fxa-menu-create-profile-subpanel =
+    .title = Emoheñói mba’etee pyahu
+fxa-menu-create-profile-heading = Eikundaha porãve mba’ete pyahu ndive
+fxa-menu-create-profile-confirm =
+    .label = Emoheñói mba’ete pyahu
 appmenu-profiles-2 =
     .label = Mba’etekuéra
