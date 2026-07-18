@@ -56,8 +56,23 @@ ipprotection-feature-introduction-button-get-started = Comenciar
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Tu VPN integrate justo deveniva melior
+ipprotection-summer-promo-offramp-subscriber-description = Tu ora obtene largessa de banda illimitate e plus positiones como abonato de { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Mantene tu positiones extra del VPN integrate
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Face { -brand-product-name } tu navigator predefinite e obtene plus que 20 extra postos de que navigar post le 31 de augusto.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Meliora con { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Mantene mantene largessa de banda illimitate post le 31 de augusto, con plus que 300 positiones sur 5 apparatos pro facer tu navigation plus ardue a traciar te.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Aperir VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Configurar como predefinite
 ipprotection-summer-promo-offramp-get-subscription-button = Obtene { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignorar
 
@@ -160,6 +175,8 @@ ipprotection-connection-status-network-error-title-1 = Controla tu connexion a i
 ipprotection-connection-status-network-error-description = Connecte te a internet, pois tenta activar VPN.
 ipprotection-connection-status-blocked-error-title-1 = Le VPN es indisponibile
     .aria-label = Le VPN es indisponibile
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Leges e limitationes local limita ubi tu pote usar le VPN. <a data-l10n-name="learn-more-link">Pro saper plus.
 ipprotection-connection-status-blocked-error-description = Le leges local nos impedi de fornir servicio VPN in iste region. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
