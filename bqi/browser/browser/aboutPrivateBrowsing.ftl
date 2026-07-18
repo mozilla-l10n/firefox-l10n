@@ -59,6 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] واڌاشتن من Dock
        *[other] دیسنیڌن و تسکبار
     }
+about-private-browsing-pin-promo-title = ی جۊری من اینترنت بگردین ک منی هیچکس نؽنیرتووݩ، بؽ زفت کردن کۊکی یا ویرگار همچونووݩ ک دسکتاپ ایسا ن برازنه.
 
 ## Strings used in a promotion message for cookie banner reduction
 
