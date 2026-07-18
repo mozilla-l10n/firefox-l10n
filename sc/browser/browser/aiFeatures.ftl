@@ -84,3 +84,23 @@ ai-window-delete-all-memories-title = Boles cantzellare totu is memòrias?
 ai-window-delete-all-memories-message = Is memòrias chi esistant giai ant a èssere cantzelladas. Si non boles chi si creant memòrias noas, disativa is optziones «Impara dae...» in sa cunfiguratzione de { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Cantzella
 ai-window-delete-all-memories-cancel = Annulla
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Cantzella sa memòria
+    .aria-label = Cantzella { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: lestru
+    .description = S’optzione mègius pro rispostas lestras cando sa lestresa est de importu: Nòmine intreu: { $model } dae { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: flessìbile
+    .description = Ideale pro una sèrie de tareas. Nòmine intreu: { $model } dae { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: personale
+    .description = Creadu pro frunire un’agiudu personalizadu in prus limbas. Nòmine intreu: { $model } dae { $ownerName }

@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Slett
+edit-profile-page-avatar-selector-opener-button =
+    .title = Rediger avatar
 edit-profile-page-avatar-selector-opener-link = Rediger
 avatar-selector-icon-tab = Ikon
 avatar-selector-custom-tab = Tilpasset
@@ -95,6 +97,9 @@ delete-profile-logins = Passord
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Slett profilen «{ $profilename }»
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Slett profilen «{ $profilename }»?
 
 ##
 
