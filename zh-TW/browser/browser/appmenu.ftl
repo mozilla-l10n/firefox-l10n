@@ -109,6 +109,37 @@ appmenu-remote-tabs-unverified = 需要驗證您的帳號。
 appmenuitem-fxa-toolbar-sync-now2 = 立刻同步
 appmenuitem-fxa-sign-in = 登入 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理帳號
+fxa-menu-sync-status-on = 已開啟同步
+fxa-menu-sync-status-off = 已關閉同步
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = 開啟
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = 登入 Sync
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = 立即同步 { $deviceName }
+fxa-menu-manage-sync-settings =
+    .label = 管理同步設定
+fxa-menu-add-device =
+    .label = 新增裝置
+fxa-menu-manage-devices =
+    .label = 管理您的裝置
+fxa-menu-device-missing =
+    .label = 沒看到您的裝置嗎？
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = 所有裝置
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = 所有裝置
+fxa-menu-get-firefox-mobile =
+    .label = 下載 { -brand-product-name } for Android 或 iOS
+fxa-menu-secure-sync-subpanel =
+    .title = 安全同步
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = 帳號
 # Variables
@@ -336,9 +367,41 @@ appmenu-manage-profiles =
     .label = 管理設定檔
 appmenu-copy-profile =
     .label = 複製這組設定檔
+appmenu-create-profile2 =
+    .label = 建立新設定檔
 appmenu-create-profile =
     .label = 新增設定檔
 appmenu-edit-profile =
     .aria-label = 編輯設定檔
+appmenu-edit-this-profile =
+    .label = 編輯此設定檔
+appmenu-profile-current-in-use = 目前使用的設定檔
+fxa-menu-create-profile-subpanel =
+    .title = 建立新設定檔
+fxa-menu-create-profile-heading = 使用新設定檔，升級您的上網體驗
+fxa-menu-create-profile-confirm =
+    .label = 建立新設定檔
+fxa-menu-create-profile-learn-more =
+    .label = 設定檔是什麼？
 appmenu-profiles-2 =
     .label = 設定檔
+appmenu-profiles-header = 設定檔
+appmenu-all-profiles =
+    .label = 所有設定檔
+appmenu-secure-sync-header = 安全同步
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = 近期的分頁
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] 檢視 { $tabCount } 個同步的分頁
+           *[other] 檢視全部 { $tabCount } 個同步的分頁
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = 將目前頁面傳送到此裝置

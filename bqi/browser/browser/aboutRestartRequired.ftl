@@ -4,4 +4,5 @@
 
 restart-required-title = ره وندن دووارته لازوم هڌ
 restart-required-heading = سی و کار گرؽڌن { -brand-short-name } ز نۊ رس ونین
+restart-required-intro = ی ورۊ رسۊوی سی { -brand-short-name } من پس زمینه ره وست. سی کامل وابیڌن ورۊ رسۊوی، وا دووارته ره ونین.
 restart-button-label = ره وندن دووارته { -brand-short-name }

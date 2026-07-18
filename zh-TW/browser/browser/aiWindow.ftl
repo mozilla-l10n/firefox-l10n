@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = 開新隱私視窗
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = 傳統視窗
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } 切換器
+    .tooltiptext = 切換使用智慧或傳統視窗。
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = 可隨時到設定中切換。
 
 smartwindow-ask-button =
     .label = 詢問
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = 將我的分頁分組
+    .tooltiptext = 將我的分頁分組
 
 ## Memories toggle button
 
