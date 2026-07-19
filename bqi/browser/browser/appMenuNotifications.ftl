@@ -15,6 +15,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = D
     .secondarybuttonlabel = رڌ کردن
     .secondarybuttonaccesskey = m
+appmenu-update-manual-message2 = امکووݩ ورۊ رسۊوی خوتکار { -brand-shorter-name } ووجۊد نڌاشت. نوسخه نۊ ن دانلود کۊنین — دووسمندیا زفت وابیڌه وو سفارشی وابیڌه خوتووݩ ن ز دست نؽڌین.
 appmenu-update-unsupported2 =
     .label = ورۊ رسۊوی مومکن نؽ
     .buttonlabel = قلوه دووسته بۊین
