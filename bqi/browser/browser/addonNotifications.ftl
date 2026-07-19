@@ -146,4 +146,7 @@ addon-local-install-no-addon-name-error-file-access = وردنی نؽپۊره چ
 addon-install-error-incompatible = وردنی { $addonName } وا نوسخه { $appVersion } ز { -brand-short-name } سازگار نؽ، وو سی دل هیمو نؽپۊره.
 addon-install-error-hard-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
 addon-install-error-soft-blocked2 = { $addonName } مئدۊد وابیڌه وو نتره و ری { -brand-short-name } بپۊره.
+addon-install-error-blocklisted = امکووݩ پۊرنیڌن { $addonName } سی دل پؽش ٱووڌن موشکلا پایداری وو ٱمنیتی و دست هو وۊجۊد نڌاره.
 addon-install-error-soft-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = ایسا نترین { $addonName } ن و عونوان ی منتور دیندایی بپۊرنین، تینا تره و دست سازمووی وا و کار گرؽڌن سیاستا سازمووی بپۊره.
