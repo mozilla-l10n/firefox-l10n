@@ -109,6 +109,27 @@ appmenu-remote-tabs-unverified = Uw account moet worden geverifieerd.
 appmenuitem-fxa-toolbar-sync-now2 = Nu synchroniseren
 appmenuitem-fxa-sign-in = Aanmelden bij { -brand-product-name }
 appmenuitem-fxa-manage-account = Account beheren
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Inschakelen
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Aanmelden om te synchroniseren
+fxa-menu-add-device =
+    .label = Apparaat toevoegen
+fxa-menu-manage-devices =
+    .label = Uw apparaten beheren
+fxa-menu-device-missing =
+    .label = Ziet u uw apparaat niet?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Alle apparaten
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Alle apparaten
+fxa-menu-secure-sync-subpanel =
+    .title = Beveiligde synchronisatie
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Account
 # Variables
@@ -336,9 +357,28 @@ appmenu-manage-profiles =
     .label = Profielen beheren
 appmenu-copy-profile =
     .label = Dit profiel kopiëren
+appmenu-create-profile2 =
+    .label = Een nieuw profiel aanmaken
 appmenu-create-profile =
     .label = Nieuw profiel
 appmenu-edit-profile =
     .aria-label = Profiel bewerken
+appmenu-edit-this-profile =
+    .label = Dit profiel bewerken
+appmenu-profile-current-in-use = Huidig profiel in gebruik
+fxa-menu-create-profile-subpanel =
+    .title = Een nieuw profiel aanmaken
+fxa-menu-create-profile-confirm =
+    .label = Nieuw profiel aanmaken
+fxa-menu-create-profile-learn-more =
+    .label = Wat zijn profielen?
 appmenu-profiles-2 =
     .label = Profielen
+appmenu-profiles-header = Profielen
+appmenu-all-profiles =
+    .label = Alle profielen
+appmenu-secure-sync-header = Beveiligde synchronisatie
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Recente tabbladen

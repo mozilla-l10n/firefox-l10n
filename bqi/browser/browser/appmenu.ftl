@@ -336,12 +336,16 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = و من هساو منتوری خوتووݩ بیاین
+appmenuitem-monitor-title2 = ز دۊزیڌن هۊویت جلاوگری کۊنین
+appmenuitem-monitor-description2 = گرؽڌن هوشدار زبار نقز داده یل
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = گرؽڌن بپایل نقز داده یل
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = ایمیل خوتووݩ ن سیخومی واڌارنین
+appmenuitem-relay-description2 = و جلاوگری ز ٱووڌن اسپم و سندوق وۊرۊدی ایسا هیاری اده
 appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
 appmenuitem-services-relay-description = داشبورد ره وندن ماسکا ایمیل
+appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
 appmenuitem-vpn-description3 = رڌجۊری گشتن خوتووݩ ن سخت تر کۊنین
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = زفت کردن فعالیت ریتور ایسا
