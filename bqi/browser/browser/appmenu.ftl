@@ -212,6 +212,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = تابلو پوروفایل ساز ن بۊگۊشین
+    .tooltiptext = تابلو پوروفایل ساز ن بۊگۊشین
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -232,17 +235,23 @@ profiler-popup-presets-web-developer-label =
 profiler-popup-presets-firefox-description = سامووا پؽشنهاڌی سی وورکل پوروفایل { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = پؽش سامووݩ مربۊت و واجۊری اشکالا گرافیکی من { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = گرافیک
+profiler-popup-presets-media-description2 = پؽش سامووݩ مربۊت و واجۊری اشکالا دونگی وو شؽواتی من { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = وارسگر
+profiler-popup-presets-ml-description = پؽش سامووݩ مربۊت و واجۊری اشکالا ویر گرؽڌن ماشین من { -brand-shorter-name }.{ -brand-shorter-name }
 profiler-popup-presets-ml-label =
     .label = ویر گرؽڌن ماشیݩ
+profiler-popup-presets-networking-description = پؽش سامووݩ مربۊت و واجۊری اشکالا شبکه من { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = شبکه
+profiler-popup-presets-power-description = پؽش سامووݩ مربۊت و واجۊری اشکالا مسرف نیرۊ من { -brand-shorter-name }، وا سربار کم.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = نیرۊ
+profiler-popup-presets-debug-description = پؽش سامووݩ سی موشکل زودایی من { -brand-shorter-name }. سربار بالا، سی کارا عملکردی و کار نروه وو سی تمرکوز ری درک رفتار گشت گر و کار بروه.
 profiler-popup-presets-debug-label =
     .label = موشکل زودایی
 profiler-popup-presets-web-compat-label =
