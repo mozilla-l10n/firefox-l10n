@@ -85,17 +85,36 @@ aiwindow-firstrun-model-title-v2 = Vyberte si model, se kterým chcete začít
 aiwindow-firstrun-model-subtitle = Vyberte si model pro funkci { -smart-window-brand-name }. Změnit ho můžete kdykoliv.
 aiwindow-firstrun-model-fast-label = Rychlý
 aiwindow-firstrun-model-allpurpose-label = Flexibilní
+aiwindow-firstrun-model-flexible-body = Připraven na různé úkoly
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Doporučené
 aiwindow-firstrun-button = Začít
 aiwindow-firstrun-back-button = Zpět
 aiwindow-firstrun-next-button = Další
 
 ## These are labels describing model types in the smartbar model select.
 
+aiwindow-input-model-select-button-label-fast = Rychlý
+aiwindow-input-model-select-button-label-allpurpose = Flexibilní
 aiwindow-input-model-select-button-label-custom = Vlastní
+aiwindow-input-model-select-button-description-custom = Použít vlastní LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-default-badge =
+    .label = Výchozí
+    .title = Vybraný výchozí model
+aiwindow-input-model-select-settings-link = Nastavení modelu
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-privacy-title = Soukromí již od návrhu
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Zeptat se
 
 ## Close Sidebar Button
 

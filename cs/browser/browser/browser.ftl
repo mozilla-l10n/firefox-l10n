@@ -658,6 +658,7 @@ identity-clear-site-data =
     .label = Vymazat cookies a data stránky…
 identity-connection-not-secure-security-view = Spojení s tímto serverem není zabezpečené.
 identity-connection-verified = Spojení s tímto serverem je zabezpečené.
+identity-ev-owner-label2 = Certifikát vydán pro
 identity-ev-owner-label = Certifikát vydán pro:
 identity-verifier-label = Ověřil:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

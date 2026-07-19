@@ -116,6 +116,34 @@ appmenuitem-fxa-sign-in =
        *[no-cases] Přihlásit se k aplikaci { -brand-product-name }
     }
 appmenuitem-fxa-manage-account = Správa účtu
+fxa-menu-sync-status-on = Synchronizace je zapnuta
+fxa-menu-sync-status-off = Synchronizace je vypnuta
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Vaše data se nesynchronizují
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Zapnout
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Přihlásit se k synchronizaci
+fxa-menu-manage-sync-settings =
+    .label = Spravovat nastavení synchronizace
+fxa-menu-add-device =
+    .label = Přidat zařízení
+fxa-menu-manage-devices =
+    .label = Spravovat svá zařízení
+fxa-menu-device-missing =
+    .label = Nevidíte své zařízení?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Všechna zařízení
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Všechna zařízení
+fxa-menu-secure-sync-subpanel =
+    .title = Bezpečná synchronizace
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Účet
 # Variables
@@ -383,9 +411,18 @@ appmenu-manage-profiles =
     .label = Správa profilů
 appmenu-copy-profile =
     .label = Kopírovat tento profil
+appmenu-create-profile2 =
+    .label = Vytvořit nový profil
 appmenu-create-profile =
     .label = Nový profil
 appmenu-edit-profile =
     .aria-label = Upravit profil
+appmenu-edit-this-profile =
+    .label = Upravit tento profil
+appmenu-profile-current-in-use = Aktuálně používaný profil
+fxa-menu-create-profile-subpanel =
+    .title = Vytvořit nový profil
+fxa-menu-create-profile-heading = S novým profilem přejděte na vyšší úroveň
+fxa-menu-create-profile-description = Uchovávejte záložky, hesla a historii odděleně pro pracovní a osobní prohlížení.
 appmenu-profiles-2 =
     .label = Profily
