@@ -93,6 +93,18 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = นาฬิกา
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = ความเป็นส่วนตัว
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = ปริศนาอักษรไขว้
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = หุ้น
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = ภาพประจำวัน
 home-prefs-mission-message2 =
     .message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-manage-topics-link2 =
@@ -147,6 +159,63 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = ร่วมสนับสนุน { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = ค้นหาว่าทำอย่างไร
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = เรียนรู้เพิ่มเติม
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today = ตัวติดตามที่ถูกปิดกั้นในวันนี้
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites = ใน { $count } ไซต์
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } จะปิดกั้นตัวติดตามในขณะที่คุณเรียกดู คุณจะเห็นตัวติดตามเหล่านั้นที่นี่
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } จะปิดกั้นตัวติดตามโดยอัตโนมัติในขณะที่คุณเรียกดู
+newtab-privacy-message-info-1-cta = ดูการป้องกัน
+newtab-privacy-message-info-2 = การปิดกั้นตัวติดตามช่วยป้องกันไม่ให้บริษัทต่าง ๆ ติดตามคุณขณะท่องเว็บ
+
+## Strings for the Stocks widget
+
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = ค้นหาสัญลักษณ์ย่อหลักทรัพย์
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติม
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = ภาพประจำวัน · วิกิมีเดียคอมมอนส์
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = ตั้งค่ารูปพื้นหลัง
+    .title = ตั้งค่ารูปพื้นหลัง
+    .aria-label = ตั้งค่าภาพประจำวันนี้เป็นรูปพื้นหลังของคุณ
 
 ## Search box component.
 

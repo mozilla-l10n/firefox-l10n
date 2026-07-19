@@ -187,6 +187,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = เสร็จสมบูรณ์
 migration-safari-password-import-header = นำเข้ารหัสผ่านจาก Safari
+migration-safari-password-import-post-sequoia-step1 = เปิด<a data-l10n-name="macos-passwords-app">แอปรหัสผ่าน</a>บน Mac ของคุณ
+migration-safari-password-import-post-sequoia-step2 = จากแถบเมนูด้านบนของหน้าจอ ให้เลือก ไฟล์ > ส่งออกรหัสผ่านทั้งหมดไปยังไฟล์…
+migration-safari-password-import-post-sequoia-step3 = บันทึกไฟล์
+migration-safari-password-import-post-sequoia-step4 = เลือกไฟล์ที่คุณบันทึกไว้
 migration-safari-password-import-steps-header = ถ้าต้องการนำเข้ารหัสผ่านจาก Safari:
 migration-safari-password-import-step1 = ใน Safari ให้เปิดเมนู “Safari” แล้วไปที่ การตั้งค่า > รหัสผ่าน
 migration-safari-password-import-step2 = เลือกปุ่ม <img data-l10n-name="safari-icon-3dots"/> แล้วเลือก “ส่งออกรหัสผ่านทั้งหมด”
@@ -199,6 +203,7 @@ migration-chrome-windows-password-import-step2 = เลือก “การต
 migration-chrome-windows-password-import-step3 = เลือก “ดาวน์โหลดไฟล์” แล้วบันทึกไฟล์นั้นลงในอุปกรณ์ของคุณ
 migration-chrome-windows-password-import-step4 = กลับมาที่นี่แล้ว “เลือกไฟล์” เพื่อนำเข้าให้เสร็จ
 migration-manual-password-import-skip-button = ข้าม
+migration-manual-password-import-cancel-button = ยกเลิก
 migration-manual-password-import-select-button = เลือกไฟล์
 migration-safari-password-import-skip-button = ข้าม
 migration-safari-password-import-select-button = เลือกไฟล์
