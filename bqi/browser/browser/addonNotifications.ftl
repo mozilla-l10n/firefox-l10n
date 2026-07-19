@@ -140,6 +140,10 @@ addon-local-install-error-incorrect-hash = ای وردنی وا وردنی { -br
 addon-local-install-error-corrupt-file = ای وردنی منی خراو وابیڌه وو نؽبۊ بپۊره.
 addon-local-install-error-file-access = { -brand-short-name } نترست فایلا موورد نیاز ن آلشت کونه، وو سی دل هیمو پۊرنیڌن { $addonName } و موشکل خرده.
 addon-local-install-error-not-signed = ای وردنی نتره بپۊره چیناکه تاییڌ نوابیڌه.
+addon-local-install-no-addon-name-error-file-access = وردنی نؽپۊره چیناکه { -brand-short-name } نترست فایلا موورد نیاز ن آلشت کونه.
+# Variables:
+#   $appVersion (String): the application version.
+addon-install-error-incompatible = وردنی { $addonName } وا نوسخه { $appVersion } ز { -brand-short-name } سازگار نؽ، وو سی دل هیمو نؽپۊره.
 addon-install-error-hard-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
 addon-install-error-soft-blocked2 = { $addonName } مئدۊد وابیڌه وو نتره و ری { -brand-short-name } بپۊره.
 addon-install-error-soft-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
