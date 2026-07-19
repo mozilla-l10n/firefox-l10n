@@ -168,6 +168,12 @@ aiwindow-firstrun-default-checkbox-description = Zmeniť to môžete kedykoľvek
 smartwindow-ask-button =
     .label = Opýtať sa
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Zoskupiť moje karty
+    .tooltiptext = Zoskupiť moje karty
+
 ## Memories toggle button
 
 aiwindow-memories-on =

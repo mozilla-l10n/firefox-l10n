@@ -592,6 +592,8 @@ identity-clear-site-data =
     .label = Vymazať cookies a údaje stránok…
 identity-connection-not-secure-security-view = Pripojenie k tejto stránke nie je zabezpečené.
 identity-connection-verified = Pripojenie k tejto stránke je zabezpečené.
+identity-ev-owner-label2 = Certifikát bol vydaný pre
+identity-verifier-label2 = Overil ju
 identity-ev-owner-label = Certifikát bol vydaný pre:
 identity-verifier-label = Overil ju:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = Začíname
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Vaše limity pre vstavanú VPN sa obnovia 1. septembra
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otvoriť VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Získajte { -mozilla-vpn-brand-name }

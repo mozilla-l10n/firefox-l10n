@@ -109,6 +109,32 @@ appmenu-remote-tabs-unverified = Váš účet musí byť overený.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovať teraz
 appmenuitem-fxa-sign-in = Prihlásiť sa do aplikácie { -brand-product-name }
 appmenuitem-fxa-manage-account = Spravovať účet
+fxa-menu-sync-status-on = Synchronizácia je zapnutá
+fxa-menu-sync-status-off = Synchronizácia je vypnutá
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Vaše údaje sa nesynchronizujú
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Zapnúť
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Prihlásiť sa a synchronizovať
+fxa-menu-add-device =
+    .label = Pridať zariadenie
+fxa-menu-device-missing =
+    .label = Nevidíte svoje zariadenie?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Všetky zariadenia
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Všetky zariadenia
+fxa-menu-get-firefox-mobile =
+    .label = Získajte { -brand-product-name(case: "acc") } pre Android alebo iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Bezpečná synchronizácia
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Účet
 # Variables
@@ -336,9 +362,33 @@ appmenu-manage-profiles =
     .label = Spravovať profily
 appmenu-copy-profile =
     .label = Kopírovať tento profil
+appmenu-create-profile2 =
+    .label = Vytvoriť nový profil
 appmenu-create-profile =
     .label = Nový profil
 appmenu-edit-profile =
     .aria-label = Upraviť profil
+appmenu-edit-this-profile =
+    .label = Upraviť tento profil
+appmenu-profile-current-in-use = Aktuálny profil sa používa
+fxa-menu-create-profile-subpanel =
+    .title = Vytvoriť nový profil
+fxa-menu-create-profile-heading = Posuňte svoje prehliadanie na vyššiu úroveň s novým profilom
+fxa-menu-create-profile-description = Uchovávajte si záložky, heslá a históriu prehliadania oddelene pre pracovné a osobné účely.
+fxa-menu-create-profile-confirm =
+    .label = Vytvoriť nový profil
+fxa-menu-create-profile-learn-more =
+    .label = Čo sú profily?
 appmenu-profiles-2 =
     .label = Profily
+appmenu-profiles-header = Profily
+appmenu-all-profiles =
+    .label = Všetky profily
+appmenu-secure-sync-header = Bezpečná synchronizácia
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nedávne karty
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Odoslať aktuálnu stránku do tohto zariadenia
