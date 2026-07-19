@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-nam
 urlbar-result-menu-report-inaccurate-location2 = 报告位置不准确
 urlbar-result-menu-show-less-frequently2 = 减少显示
 urlbar-result-menu-dont-show-weather-suggestions2 = 不再显示天气建议
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = 忽略此建议 (i)
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = 从历史记录中移除
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = 详细了解
     .accesskey = L
