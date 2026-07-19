@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Posodobitev ni mogoča – nezdružljiv sistem
 appmenuitem-banner-update-restart =
     .label = Na voljo je posodobitev – zaženi znova
+appmenu-nova-update-title = Ponovno zaženi za posodobitev { -brand-short-name(sklon: "rodilnik") }
 appmenu-nova-fxa-sign-in = Prijava
 appmenu-nova-switch-device-promo =
     .message = Se vam obeta nov računalnik? Vzemite { -brand-short-name(sklon: "tozilnik") } s seboj!
