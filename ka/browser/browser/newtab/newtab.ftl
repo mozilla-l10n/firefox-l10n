@@ -180,8 +180,8 @@ newtab-privacy-menu-learn-more = ვრცლად
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] შეზღუდული მეთვალყურეები დღეს
-       *[other] შეზღუდული მეთვალყურეები დღეს
+        [one] მეთვალყურე შეიზღუდა დღეს
+       *[other] მეთვალყურე შეიზღუდა დღეს
     }
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
@@ -1620,7 +1620,7 @@ newtab-clock-widget-search-results =
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
-newtab-clock-widget-search-no-results = არაა შეხვედრები
+newtab-clock-widget-search-no-results = არაა თანხვედრა
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
