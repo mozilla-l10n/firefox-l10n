@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = საიტის ფაილებისა და მონაცემების წაშლა…
 identity-connection-not-secure-security-view = თქვენი კავშირი ამ საიტთან არაა დაცული.
 identity-connection-verified = თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.
+identity-ev-owner-label2 = სერტიფიკატის მფლობელი
+identity-verifier-label2 = დამმოწმებელი
 identity-ev-owner-label = სერტიფიკატის მფლობელი:
 identity-verifier-label = დამმოწმებელი:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

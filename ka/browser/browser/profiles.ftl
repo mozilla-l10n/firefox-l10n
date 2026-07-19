@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = გამოსახულება
 edit-profile-page-delete-button =
     .label = წაშლა
+edit-profile-page-avatar-selector-opener-button =
+    .title = გამოსახულების ჩასწორება
 edit-profile-page-avatar-selector-opener-link = ჩასწორება
 avatar-selector-icon-tab = ხატულა
 avatar-selector-custom-tab = მორგებული
@@ -95,6 +97,9 @@ delete-profile-logins = პაროლები
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = წაიშალოს პროფილი „{ $profilename }“
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = წაიშალოს პროფილი „{ $profilename }“?
 
 ##
 

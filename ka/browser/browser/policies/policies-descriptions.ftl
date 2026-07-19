@@ -30,6 +30,10 @@ policy-BlockAboutSupport = წვდომის შეზღუდვა about:
 policy-Bookmarks = სანიშნის შექმნა სანიშნების ზოლზე, სანიშნების მენიუში ან მათ განსაზღვრულ საქაღალდეში.
 policy-CaptivePortal = შესვლის გვერდის მხარდაჭერის ჩართვა ან გამორთვა.
 policy-CertificatesDescription = სერტიფიკატების დამატება ან ჩაშენებული სერტიფიკატების გამოყენება.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = ამოქმედდეს CNSA 2.0 ML-KEM-1024 გასაღების შეთანხმება TLS-ისთვის.
 policy-ContentAnalysis = კავშირის ჩართვა ან გამორთვა მონაცემთა დაკარგვის ასარიდებელ საშუალებებთან.
 policy-Cookies = საიტებისთვის ფუნთუშების დაშვება ან აკრძალვა
 # Containers in this context is referring to container tabs in Firefox.

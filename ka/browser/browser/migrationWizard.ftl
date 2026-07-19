@@ -192,6 +192,9 @@ migration-wizard-progress-icon-completed =
     .aria-label = დასრულდა
 migration-safari-password-import-header = პაროლების გადმოტანა – Safari
 migration-safari-password-import-post-sequoia-step1 = გახსენით <a data-l10n-name="macos-passwords-app">პაროლების აპი</a> თქვენს Mac-ზე
+migration-safari-password-import-post-sequoia-step2 = მენიუს ზოლიდან ეკრანის ზედა მხარეს აირჩიეთ ფაილი > ყველა პაროლის ფაილში გადატანა…
+migration-safari-password-import-post-sequoia-step3 = ფაილის შენახვა
+migration-safari-password-import-post-sequoia-step4 = შენახული ფაილის არჩევა
 migration-safari-password-import-steps-header = Safari-ს პაროლების გადმოსატანად:
 migration-safari-password-import-step1 = Safari-ში გახსენით მენიუ „Safari“ და იხილეთ Preferences > Passwords
 migration-safari-password-import-step2 = გამოიყენეთ <img data-l10n-name="safari-icon-3dots"/> ღილაკი და აირჩიეთ „ყველა პაროლის გადმოტანა”
@@ -204,6 +207,7 @@ migration-chrome-windows-password-import-step2 = აირჩიეთ „Settin
 migration-chrome-windows-password-import-step3 = მიუთითეთ „Download file“ და შეინახეთ მოწყობილობაზე.
 migration-chrome-windows-password-import-step4 = დააბრუნეთ აქ და მიუთითეთ „ფაილის არჩევა“ გადმოტანის დასასრულებლად.
 migration-manual-password-import-skip-button = გამოტოვება
+migration-manual-password-import-cancel-button = გაუქმება
 migration-manual-password-import-select-button = ფაილის არჩევა
 migration-safari-password-import-skip-button = გამოტოვება
 migration-safari-password-import-select-button = ფაილის არჩევა
