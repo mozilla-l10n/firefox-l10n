@@ -114,6 +114,35 @@ fxa-menu-sync-status-off = დასინქ. გამორთ.
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = თქვენი მონაცემები არ დასინქრონდება
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = ჩართვა
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = სინქრონიზაციაში შესვლა
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = დასინქ. { $deviceName } ახლავე
+fxa-menu-manage-sync-settings =
+    .label = სინქრონიზაციის პარამეტრების მართვა
+fxa-menu-add-device =
+    .label = მოწყობილობის დამატება
+fxa-menu-manage-devices =
+    .label = თქვენი მოწყობილობების მართვა
+fxa-menu-device-missing =
+    .label = არ ჩანს თქვენი მოწყობილობა?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = ყველა მოწყობილობა
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = ყველა მოწყობილობა
+fxa-menu-get-firefox-mobile =
+    .label = გადმოწერეთ { -brand-product-name } Android-სა თუ iOS-ზე
+fxa-menu-secure-sync-subpanel =
+    .title = უსაფრთხო დასინქ.
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ანგარიში
 # Variables
@@ -341,9 +370,42 @@ appmenu-manage-profiles =
     .label = პროფილების მართვა
 appmenu-copy-profile =
     .label = ამ პროფილის ასლი
+appmenu-create-profile2 =
+    .label = ახალი პროფილის შექმნა
 appmenu-create-profile =
     .label = ახალი პროფილი
 appmenu-edit-profile =
     .aria-label = პროფილის ჩასწორება
+appmenu-edit-this-profile =
+    .label = ამ პროფილის ჩასწორება
+appmenu-profile-current-in-use = მიმდინარე პროფილი გამოიყენება
+fxa-menu-create-profile-subpanel =
+    .title = ახალი პროფილის შექმნა
+fxa-menu-create-profile-heading = ახალ დონეზე აიყვანეთ გვერდების მონახულება ახალი პროფილით
+fxa-menu-create-profile-description = გამიჯნეთ თქვენი სანიშნები, პაროლები და ისტორია, სამუშაოდ თუ პირადი დათვალიერებისთვის.
+fxa-menu-create-profile-confirm =
+    .label = ახალი პროფილის შექმნა
+fxa-menu-create-profile-learn-more =
+    .label = რისთვისაა პროფილები?
 appmenu-profiles-2 =
     .label = პროფილები
+appmenu-profiles-header = პროფილები
+appmenu-all-profiles =
+    .label = ყველა პროფილი
+appmenu-secure-sync-header = უსაფრთხო დასინქ.
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = ბოლო ჩანართები
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] იხილეთ { $tabCount } დასინქ. ჩანართი
+           *[other] იხილეთ ყველა, { $tabCount } დასინქ. ჩანართი
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = გაგზავნეთ მიმდინარე გვერდი ამ მოწყობილობაზე
