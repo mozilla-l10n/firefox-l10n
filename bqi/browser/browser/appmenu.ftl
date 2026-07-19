@@ -136,6 +136,13 @@ fxa-menu-device-missing =
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
 fxa-menu-all-devices =
     .label = پوی دسگایل
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = پوی دسگایل
+fxa-menu-get-firefox-mobile =
+    .label = گرؽڌن { -brand-product-name } سی ٱندروید وو iOS
+fxa-menu-secure-sync-subpanel =
+    .title = هوم گوم کردن ٱمن
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
 # Variables
@@ -180,6 +187,7 @@ profiler-popup-reveal-description-button =
     .aria-label = ب در وندن دووسمندیا قلوه
 profiler-popup-description-title =
     .value = زفت، تجزیه وو تئلیل، یک رسۊوی
+profiler-popup-description = وا تیجنیڌن پوروفایلا، زبار موشکلا مربۊت و بؽڌر کردن وا بونکۊ تووݩ هوم کاری کۊنین.
 profiler-popup-learn-more-button =
     .label = قلوه دووسته بۊین
 profiler-popup-settings =
@@ -218,6 +226,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = سامووا پؽشنهاڌی سی موشکل زودایی قلوه برنومه یل وب، وا سربار کم.
 profiler-popup-presets-web-developer-label =
     .label = برنومه نویس وب
 profiler-popup-presets-firefox-description = سامووا پؽشنهاڌی سی وورکل پوروفایل { -brand-shorter-name }.
