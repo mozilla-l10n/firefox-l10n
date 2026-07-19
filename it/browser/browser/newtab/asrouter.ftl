@@ -504,3 +504,21 @@ nova-early-access-share-feedback-link = Condividi feedback
     .accesskey = C
 nova-early-access-infobar-primary-button = OK
     .accesskey = O
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Avviare { -brand-short-name } ogni volta che accedi a Windows?
+launch-options-spotlight-title-session-restore = Riaprire la sessione al riavvio di { -brand-short-name }?
+launch-options-spotlight-checkbox-launch-on-login = Apri { -brand-short-name } all’avvio
+launch-options-spotlight-checkbox-pin-to-taskbar = Aggiungi alla barra delle applicazioni
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Riapri le finestre e le schede correnti
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Riapri le finestre e le schede precedenti
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Salva e chiudi { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Salva e continua
