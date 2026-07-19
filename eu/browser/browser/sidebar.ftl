@@ -13,6 +13,9 @@ menu-view-open-tabs =
     .label = Irekitako fitxak
 sidebar-options-menu-button =
     .title = Ireki menua
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Aldatu tamainaz alboko barra
 
 ## Labels for sidebar history panel
 
@@ -69,6 +72,8 @@ sidebar-settings =
     .label = Alboko barraren ezarpenak
 sidebar-hide-tabs-and-sidebar =
     .label = Ezkutatu fitxak eta alboko barra
+sidebar-open-tools-from-sidebar =
+    .label = Ireki tresnak alboko barratik
 sidebar-show-on-the-right =
     .label = Aldatu lekuz alboko barra eskuinera
 sidebar-show-on-the-left =
@@ -238,6 +243,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = { $winID } leihoa
+sidebar-bookmarks-title = Laster-markak
 
 ## Context for closing synced tabs when hovering over the items
 

@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } edukiontziaren ezarpenak
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Gehitu edukiontzi berria
+containers-panel-create-button =
+    .label = Eginda
+containers-panel-cancel-button =
+    .label = Utzi

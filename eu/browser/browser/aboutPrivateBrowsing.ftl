@@ -82,3 +82,9 @@ about-private-browsing-felt-privacy-v1-info-link = Nork ikus lezake nire jarduer
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Leiho pribatu guztiak ixteak zure cookieak, historia eta guneetako datuak ezabatzen ditu.
+about-private-browsing-nova-info-link = Nork ikus lezake nire jarduera halere?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Zure nabigazio-historia ezabatu egingo da
+about-private-browsing-nova-info-subheader = Leiho hau ixtean, egindako bilaketak eta saio-hasierak ezabatuko ditugu. { -brand-short-name }(r)en integratutako babesak aktibo daude hemen ere, adibidez jarraipen-elementuen blokeoa.

@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Abatarra
 edit-profile-page-delete-button =
     .label = Ezabatu
+edit-profile-page-avatar-selector-opener-button =
+    .title = Editatu abatarra
 edit-profile-page-avatar-selector-opener-link = Editatu
 avatar-selector-icon-tab = Ikonoa
 avatar-selector-custom-tab = Pertsonalizatua
@@ -95,6 +97,9 @@ delete-profile-logins = Pasahitzak
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Ezabatu "{ $profilename }" profila
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Ezabatu "{ $profilename }" profila?
 
 ##
 

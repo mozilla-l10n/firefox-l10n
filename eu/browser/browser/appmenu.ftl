@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Ezin da eguneratu — sistema bateragaitza
 appmenuitem-banner-update-restart =
     .label = Eguneraketa erabilgarri — berrabiarazi orain
+appmenu-nova-update-title = Berrabiarazi { -brand-short-name } eguneratzeko
+appmenu-nova-update-description = Zure fitxak berriro irekiko dira.
 appmenu-nova-fxa-sign-in = Hasi saioa
 appmenu-nova-switch-device-promo =
     .message = Gailu berri batera aldatzera zoaz laster? Eraman { -brand-short-name } zurekin!
@@ -107,6 +109,40 @@ appmenu-remote-tabs-unverified = Zure kontua egiaztatu egin behar da.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
 appmenuitem-fxa-sign-in = Hasi saioa { -brand-product-name }(e)n
 appmenuitem-fxa-manage-account = Kudeatu kontua
+fxa-menu-sync-status-on = Sinkronizazioa aktibo dago
+fxa-menu-sync-status-off = Sinkronizazioa desaktibatuta dago
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Zure datuak ez dira sinkronizatzen ari
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Aktibatu
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Hasi saioa sinkronizatzeko
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sinkronizatu { $deviceName } orain
+fxa-menu-manage-sync-settings =
+    .label = Kudeatu sinkronizazio-ezarpenak
+fxa-menu-add-device =
+    .label = Gehitu gailua
+fxa-menu-manage-devices =
+    .label = Kudeatu zure gailuak
+fxa-menu-device-missing =
+    .label = Ez duzu zure gailua ikusten?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Gailu guztiak
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Gailu guztiak
+fxa-menu-get-firefox-mobile =
+    .label = Eskuratu Android edo iOSerako { -brand-product-name }
+fxa-menu-secure-sync-subpanel =
+    .title = Sinkronizazio segurua
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Kontua
 # Variables
@@ -288,6 +324,8 @@ appmenu-customizetoolbar =
     .label = Pertsonalizatu tresna-barra…
 appmenu-abouttranslations =
     .label = Itzuli…
+appmenu-edit-pdf =
+    .label = Editatu PDFa…
 appmenu-developer-tools-subheader = Nabigatzailearen tresnak
 appmenu-developer-tools-extensions =
     .label = Garatzaileentzako hedapenak
@@ -309,6 +347,10 @@ appmenu-services-header = Nire zerbitzuak
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = Pribatutasun-tresnak
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Probatu Mozillaren bestelako babes-tresnak:
 appmenu-other-protection-header = Probatu { -vendor-short-name }(r)en bestelako babes-tresnak:
 
@@ -319,9 +361,42 @@ appmenu-manage-profiles =
     .label = Kudeatu profilak
 appmenu-copy-profile =
     .label = Kopiatu profil hau
+appmenu-create-profile2 =
+    .label = Sortu profil berria
 appmenu-create-profile =
     .label = Profil berria
 appmenu-edit-profile =
     .aria-label = Editatu profila
+appmenu-edit-this-profile =
+    .label = Editatu profil hau
+appmenu-profile-current-in-use = Erabiltzen ari den uneko profila
+fxa-menu-create-profile-subpanel =
+    .title = Sortu profil berria
+fxa-menu-create-profile-heading = Eraman nabigazioa beste maila batera profil berri batekin
+fxa-menu-create-profile-description = Mantendu laster-markak, pasahitzak eta historia erabat bereiz lanerako eta nabigazio pertsonalerako.
+fxa-menu-create-profile-confirm =
+    .label = Sortu profil berria
+fxa-menu-create-profile-learn-more =
+    .label = Zer dira profilak?
 appmenu-profiles-2 =
     .label = Profilak
+appmenu-profiles-header = Profilak
+appmenu-all-profiles =
+    .label = Profil guztiak
+appmenu-secure-sync-header = Sinkronizazio segurua
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Azken fitxak
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ikusi sinkronizatutako fitxa
+           *[other] Ikusi sinkronizatutako { $tabCount } fitxak
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Bidali uneko orria gailu honetara
