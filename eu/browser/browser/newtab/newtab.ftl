@@ -93,6 +93,12 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Erlojua
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Pribatutasuna
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Eguneko argazkia
 home-prefs-mission-message2 =
     .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
 home-prefs-manage-topics-link2 =
@@ -151,6 +157,51 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Lagundu { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Ezagutu nola
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Argibide gehiago
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1-cta = Ikusi babesak
+newtab-privacy-message-info-2-cta = Ikusi babesak
+newtab-privacy-message-info-3-cta = Ikusi babesak
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Argibide gehiago
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Eguneko argazkia · Wikimedia Commons
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Ezarri horma-papera
+    .title = Ezarri horma-papera
+    .aria-label = Ezarri gaurko irudia zure horma-paper gisa
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Kudeatu horma-papera
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Ezkutatu gaurko irudia
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Erakutsi gaurko irudia
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Argibide gehiago
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Erakutsi gaurko irudia
+    .aria-label = Erakutsi gaurko irudia
 
 ## Search box component.
 

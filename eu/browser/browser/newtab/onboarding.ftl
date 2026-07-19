@@ -449,6 +449,9 @@ onboarding-checklist-pin = Ainguratu { -brand-short-name } ataza-barran
 onboarding-checklist-import = Inportatu aurreko nabigatzailetik
 onboarding-checklist-extension = Gehitu hedapen bat
 onboarding-checklist-sign-up = Eman izena edo hasi saioa zure kontuan
+onboarding-checklist-remove =
+    .label = Kendu egiaztapen-zerrenda
+onboarding-checklist-remove-2 = Kendu egiaztapen-zerrenda
 
 ## Tab Groups feature onboarding strings
 
@@ -597,3 +600,21 @@ onboarding-refresh-sync-title = Joan edonora. Sinkronizatu guztia.
 onboarding-refresh-gratitude-subtitle = Eskerrik asko { -brand-short-name } erabiltzeagatik, irabazi-asmorik gabeko batek babesten duen nabigatzaile nagusi bakarra. Zure laguntzarekin Internet denontzat seguru eta eskuragarriagoa egiteko lanean ari gara.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name }(e)n babespean zaude
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } erabilera-baldintzak
+smartwindow-existing-user-fx-tou-accept = Onartu
+smartwindow-existing-user-fx-tou-go-back = Joan atzera
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Jarraitu
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Bai, mantendu itxita
+smartwindow-sidebar-auto-open-callout-dismiss = Ez, eskerrik asko
+smartwindow-sidebar-auto-open-callout-rejected-title = Ulertuta
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Iritziz aldatuz gero, aukera lehenetsia <a data-l10n-name="settings">ezarpenetan</a> alda dezakezu noiznahi.

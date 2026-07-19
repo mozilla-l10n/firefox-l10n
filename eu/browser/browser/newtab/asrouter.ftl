@@ -464,6 +464,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ezarri lehenetsi gisa
 set-default-menu-message-primary-button-variant = Ezarri nabigatzaile nagusi gisa
+set-default-menu-message-primary-button-short-variant = Lehenetsi { -brand-short-name }
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -482,3 +483,10 @@ nova-early-access-share-feedback-link = Partekatu iritzia
     .accesskey = a
 nova-early-access-infobar-primary-button = Ulertuta
     .accesskey = U
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = Abiatu { -brand-short-name } Windowsen saioa hasten duzun aldiro?
+app-exit-spotlight-checkbox-launch-on-login = Ireki { -brand-short-name } abioan
+app-exit-spotlight-checkbox-pin-to-taskbar = Ainguratu ataza-barran
+app-exit-spotlight-primary-button = Gorde eta itxi { -brand-short-name }

@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Kudeatu { -firefox-suggest-brand-na
 urlbar-result-menu-report-inaccurate-location2 = Eman kokaleku okerraren berri
 urlbar-result-menu-show-less-frequently2 = Erakutsi maiztasun txikiagoarekin
 urlbar-result-menu-dont-show-weather-suggestions2 = Ez erakutsi eguraldi gomendiorik
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Baztertu gomendio hau
+    .accesskey = z
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Kendu historiatik
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Argibide gehiago
     .accesskey = A
@@ -403,6 +413,9 @@ quickactions-addons = Ikusi gehigarriak
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = hedapenak, itxurak, gehigarriak
+# Opens preferences page at AI controls
+quickactions-manageai = Kudeatu AA kontrolak
+quickactions-cmd-manageai = desgaitu aa, aa off, kudeatu aa
 quickactions-cmd-addons2 = gehigarriak
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kudeatu laster-markak
@@ -458,6 +471,9 @@ quickactions-cmd-print = inprimatu
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gorde orria PDF gisa
 quickactions-cmd-savepdf2 = pdf, gorde orria
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Ireki PDF editorea
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ireki leiho pribatua
 quickactions-cmd-private = nabigatze pribatua
@@ -575,6 +591,8 @@ identity-clear-site-data =
     .label = Garbitu cookieak eta guneetako datuak…
 identity-connection-not-secure-security-view = Ez zaude modu seguruan konektatuta gune honetara.
 identity-connection-verified = Modu seguruan zaude konektatuta gune honetara.
+identity-ev-owner-label2 = Ziurtagiria honi jaulkia:
+identity-verifier-label2 = Egiaztatzailea:
 identity-ev-owner-label = Ziurtagiria honi jaulkia:
 identity-verifier-label = Egiaztatzailea:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -935,6 +953,43 @@ urlbar-result-explanation-last-visited-absolute = Azkenekoz ondorengo datan bisi
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = Laster-marka egindako data: { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Azken bisita { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Azken bisita atzo
+       *[other] Azken bisita duela { $daysAgo } egun
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Azken bisita aurreko astean
+       *[other] Azken bisita duela { $weeksAgo } aste
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Azken bisita aurreko hilabetean
+       *[other] Azken bisita duela { $monthsAgo } hilabete
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Azken bisita: { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1060,6 +1115,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Gako-hitz bidezko bilaketa desgaituta dago
 urlbar-searchmode-dropmarker2 =
     .title = Hautatu bilaketa-motorra
+urlbar-searchmode-bookmarks3 = Laster-markak
+    .accesskey = m
+urlbar-searchmode-tabs3 = Fitxak
+    .accesskey = t
+urlbar-searchmode-history3 = Historia
+    .accesskey = H
+urlbar-searchmode-actions3 = Ekintzak
+    .accesskey = E
 urlbar-searchmode-bookmarks2 = Laster-markak
 urlbar-searchmode-tabs2 = Fitxak
 urlbar-searchmode-history2 = Historia
@@ -1079,6 +1142,10 @@ urlbar-searchmode-popup-one-off-header = Oraingoan, bilatu honekin:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Bilatu honekin:
+urlbar-searchmode-popup-search-settings = Bilaketa-ezarpenak
+    .accesskey = B
+urlbar-searchmode-popup-settings = Ezarpenak
+    .accesskey = z
 urlbar-searchmode-popup-search-settings-panelitem = Bilaketa-ezarpenak
 urlbar-searchmode-popup-settings-panelitem = Ezarpenak
 
