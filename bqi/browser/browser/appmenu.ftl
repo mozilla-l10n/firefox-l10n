@@ -95,8 +95,13 @@ appmenu-remote-tabs-show-inactive-tabs =
     .tooltiptext = نیشتن بلگه یل قیر فعال من ای دسگا
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بؽ بلگه واز
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = هوم گوم کردن بلگه یل ن سی نیشتن نومگه بلگه یل من دسگایل دیری خوتووݩ رۊشن کۊنین.
 appmenu-remote-tabs-opensettings =
     .label = سامووا
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = اخۊین ایچو بلگه یل دیری دسگاتووݩ ن بوینین؟
 appmenu-remote-tabs-connectdevice =
     .label = منپیز و دسگا دیر
 appmenu-remote-tabs-welcome = نشووݩ داڌن نومگهی ز بلگه یل ز دسگایل دیر ایسا.
@@ -104,6 +109,7 @@ appmenu-remote-tabs-unverified = هساوتووݩ وا تائیڌ بۊ.
 appmenuitem-fxa-toolbar-sync-now2 = سکو هوم گوم کوݩ
 appmenuitem-fxa-sign-in = و من ٱووڌن و { -brand-product-name }
 appmenuitem-fxa-manage-account = دؽوۉداری هساو
+fxa-menu-sync-status-on = هوم گوم کردن رۊشن هڌ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
 # Variables
@@ -119,6 +125,7 @@ appmenu-fxa-setup-sync-new = رۊشن کردن
 appmenuitem-save-page =
     .label = زفت کردن بلگه و عونوان…
 appmenuitem-fxa-sync-off-title = هوم گوم کردن کۊر هڌ
+appmenuitem-fxa-sync-off-description = زفت کردن وو دسرسی و نشووکا، رزما وو مووردا دیری من هر جاگهی
 
 ## What's New panel in App menu.
 
