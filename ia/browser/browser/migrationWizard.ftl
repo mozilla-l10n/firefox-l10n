@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Completate
 migration-safari-password-import-header = Importar contrasigno ab Safari
+migration-safari-password-import-post-sequoia-step3 = Salva le file
+migration-safari-password-import-post-sequoia-step4 = Selige le file que tu salvava
 migration-safari-password-import-steps-header = Pro importar contrasignos de Safari:
 migration-safari-password-import-step1 = In Safari, aperi le menu de “Safari” e va a Preferences > Passwords
 migration-safari-password-import-step2 = Selige le button <img data-l10n-name="safari-icon-3dots"/> e selige “Export All Passwords”

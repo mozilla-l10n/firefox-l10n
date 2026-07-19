@@ -110,6 +110,17 @@ appmenuitem-fxa-toolbar-sync-now2 = سکو هوم گوم کوݩ
 appmenuitem-fxa-sign-in = و من ٱووڌن و { -brand-product-name }
 appmenuitem-fxa-manage-account = دؽوۉداری هساو
 fxa-menu-sync-status-on = هوم گوم کردن رۊشن هڌ
+fxa-menu-sync-status-off = هوم گوم کردن کۊر هڌ
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = داده یل ایسا هوم گوم نؽبۊن
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = رۊشن کردن
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = سی هوم گوم کردن و من بیاین
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
 # Variables
