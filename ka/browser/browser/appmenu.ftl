@@ -109,6 +109,11 @@ appmenu-remote-tabs-unverified = თქვენი ანგარიში ს
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-sign-in = { -brand-product-name } – შესვლა
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
+fxa-menu-sync-status-on = დასინქ. ჩართ.
+fxa-menu-sync-status-off = დასინქ. გამორთ.
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = თქვენი მონაცემები არ დასინქრონდება
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ანგარიში
 # Variables
