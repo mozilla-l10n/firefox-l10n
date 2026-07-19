@@ -870,6 +870,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Bilatu testua idazten hasi bezain laster
     .accesskey = B
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Pertsonalizatu teklatuaren lasterbideak
 settings-media-group =
     .label = Multimedia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1216,6 +1218,8 @@ containers-new-tab-check2 =
     .description = Honek edukiontzien menua irekiko du fitxa berriaren botoia sakatzen duzun aldiro.
 containers-settings-button2 =
     .title = Ezarpenak
+containers-remove-button3 =
+    .title = Ezabatu
 containers-remove-button2 =
     .title = Kendu
 

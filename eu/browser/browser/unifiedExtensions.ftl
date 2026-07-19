@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Deskubritu hedapenak
 unified-extensions-empty-reason-private-browsing-not-allowed = Hedapenak instalatuta dituzu baina ez daude leiho pribatuetan gaituta
 unified-extensions-empty-reason-extension-not-enabled = Hedapenak instalatuta dituzu baina ez daude gaituta
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Hedapen gutxi batzuekin asko lor daiteke
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Eraman nabigazioa beste maila batera hedapenekin
 unified-extensions-empty-content-explain-enable2 = Hautatu "{ unified-extensions-manage-extensions.label }" ezarpenetan gaitzeko.
 unified-extensions-empty-content-explain-manage2 = Hautatu "{ unified-extensions-manage-extensions.label }" ezarpenetan kudeatzeko.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Gomendio batzuk ditugu zure arreta, pribatutasuna eta gehiago hobetzen laguntzeko.
 unified-extensions-empty-content-explain-extensions-onboarding = Pertsonalizatu { -brand-short-name } bere itxura eta jarduna aldatuz edo pribatutasun eta segurtasunari bultzada emanez.
 
 ## An extension in the main list

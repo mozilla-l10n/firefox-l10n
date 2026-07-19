@@ -191,6 +191,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Burututa
 migration-safari-password-import-header = Inportatu pasahitzak Safaritik
+migration-safari-password-import-post-sequoia-step1 = Ireki <a data-l10n-name="macos-passwords-app">pasahitzen aplikazioa</a> zure Mac ordenagailuan
+migration-safari-password-import-post-sequoia-step2 = Pantailaren goiko aldeko menu-barratik, aukeratu Fitxategia > Esportatu pasahitz guztiak fitxategira… menu-aukera
+migration-safari-password-import-post-sequoia-step3 = Gorde fitxategia
+migration-safari-password-import-post-sequoia-step4 = Hautatu gorde duzun fitxategia
 migration-safari-password-import-steps-header = Safaritik pasahitzak inportatzeko:
 migration-safari-password-import-step1 = Safarin, ireki "Safari" menua eta zoaz Hobespenak > Pasahitzak atalera
 migration-safari-password-import-step2 = Hautatu <img data-l10n-name="safari-icon-3dots"/> botoia eta aukeratu "Esportatu pasahitz guztiak"
@@ -203,6 +207,7 @@ migration-chrome-windows-password-import-step2 = Hautatu "Ezarpenak" menutik.
 migration-chrome-windows-password-import-step3 = Aukeratu "Deskargatu fitxategia" eta gorde ezazu zure gailuan.
 migration-chrome-windows-password-import-step4 = Itzuli hona eta "Hautatu fitxategia" sakatu inportatzen amaitzeko.
 migration-manual-password-import-skip-button = Saltatu
+migration-manual-password-import-cancel-button = Utzi
 migration-manual-password-import-select-button = Hautatu fitxategia
 migration-safari-password-import-skip-button = Saltatu
 migration-safari-password-import-select-button = Hautatu fitxategia
