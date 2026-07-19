@@ -172,6 +172,35 @@ newtab-privacy-menu-learn-more = Argibide gehiago
 newtab-privacy-message-info-1-cta = Ikusi babesak
 newtab-privacy-message-info-2-cta = Ikusi babesak
 newtab-privacy-message-info-3-cta = Ikusi babesak
+newtab-privacy-message-info-4-cta = Ikusi babesak
+newtab-privacy-message-info-5-cta = Ikusi babesak
+newtab-privacy-message-info-6-cta = Argibide gehiago
+newtab-privacy-message-info-7-cta = Ikusi babesak
+newtab-privacy-message-info-8-cta = Argibide gehiago
+newtab-privacy-message-info-9-cta = Lehenetsi
+newtab-privacy-message-info-10-cta = Joan pasahitzetara
+newtab-privacy-message-info-11-cta = Argibide gehiago
+newtab-privacy-message-info-12-cta = Ikusi babesak
+newtab-privacy-message-info-13-cta = Ikusi babesak
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Argibide gehiago
+newtab-privacy-message-promo-monitor-2-cta = Argibide gehiago
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-year-cta = Ikusi babesak
+newtab-privacy-message-milestone-total-cta = Ikusi babesak
+newtab-privacy-message-daily-cap-cta = Ikusi babesak
+newtab-privacy-message-streak-cta = Ikusi babesak
+newtab-privacy-message-first-protection-cta = Ikusi babesak
 
 ## Strings for the Stocks widget
 
@@ -183,6 +212,21 @@ newtab-stocks-menu-learn-more = Argibide gehiago
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Eguneko argazkia · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Eguneko argazkia
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Eguneko argazkiaren aukerak
+    .aria-label = Eguneko argazkiaren aukerak
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -202,6 +246,9 @@ newtab-picture-menu-learn-more = Argibide gehiago
 newtab-picture-show-button =
     .title = Erakutsi gaurko irudia
     .aria-label = Erakutsi gaurko irudia
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commons-eko eguneko argazkia
 
 ## Search box component.
 
@@ -304,6 +351,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Editatu
+newtab-menu-add-topsite = Gehitu lasterbide berria
 newtab-menu-open-new-window = Ireki leiho berri batean
 newtab-menu-open-new-private-window = Ireki leiho pribatu berrian
 newtab-menu-dismiss = Baztertu
@@ -546,6 +594,10 @@ newtab-custom-widget-clock-toggle =
     .label = Erlojua
 newtab-custom-widget-sports-toggle2 =
     .label = Kirolak
+newtab-custom-widget-privacy-toggle =
+    .label = Pribatutasuna
+newtab-custom-widget-picture-toggle =
+    .label = Eguneko argazkia
 newtab-custom-widget-section-title = Widgetak
 newtab-custom-widget-section-toggle =
     .label = Widgetak
@@ -942,6 +994,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Utzi
     .title = Utzi
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Zerrenden aukerak
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Sortu zerrenda berria
@@ -1318,12 +1373,23 @@ newtab-sports-widget-team-tbd = Zehazteke
 newtab-sports-widget-message-wallpapers-title = Hasi Munduko Kopa horma-paper berriekin
 newtab-sports-widget-message-wallpapers-body = Jarri txapelketarako partida-eguneko energia zure nabigatzailean.
 newtab-sports-widget-message-wallpapers-cta = Aukeratu horma-papera
+newtab-sports-widget-message-wallpapers-semifinals-title = Lortu finalerdietarako horma-paper berri bat
+newtab-sports-widget-message-wallpapers-semifinals-body = Prestatu Munduko Kopako partida garrantzitsuenetarako.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Gehitu widgetak
 newtab-sports-widget-message-day-in-play-title = Izan eguna jokoan { -brand-product-name }(r)en widgetekin
 newtab-sports-widget-message-day-in-play-body = Jarraitu Munduko Kopa, egon zereginen gainean, egin mundu osoko orduaren jarraipena eta gehiago.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Arakatu widgetak
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Lagun gaitzazu widgetak hobetzen
+newtab-sports-widget-message-survey-body = Munduko Kopa amaitu da. Partekatu zure esperientziari buruzko iritzia.
+newtab-sports-widget-message-survey-widget-title = Zer moduzkoa izan da Munduko Kopako widgeta?
+newtab-sports-widget-message-survey-widget-body = Partekatu zure iritzia etorkizuneko widgetak hobetzen laguntzeko. Ondoren, proba ezazu zure ilarako hurrengoa.
+newtab-sports-widget-message-survey-cta =
+    .label = Bete inkesta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
