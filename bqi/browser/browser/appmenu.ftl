@@ -247,8 +247,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = پؽش سامووݩ مربۊت و واجۊری اشکالا شبکه من { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = شبکه
+profiler-popup-presets-networking-with-logs-description = پؽش سامووݩ سی واجۊری اشکالا شبکه من { -brand-shorter-name }، وو گوزارشا شبکه. ای گوزارشا گاشڌ ی قرده دووسمندیا هساس جۊر نشۊویایی ک انیرین ن منسووݩ داشته بۊن.
 profiler-popup-presets-networking-with-logs-label =
-    .label = شبکه سازی وا لاگا
+    .label = شبکه سازی وا گوزارشا
 profiler-popup-presets-power-description = پؽش سامووݩ مربۊت و واجۊری اشکالا مسرف نیرۊ من { -brand-shorter-name }، وا سربار کم.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -256,6 +257,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = پؽش سامووݩ سی موشکل زودایی من { -brand-shorter-name }. سربار بالا، سی کارا عملکردی و کار نروه وو سی تمرکوز ری درک رفتار گشت گر و کار بروه.
 profiler-popup-presets-debug-label =
     .label = موشکل زودایی
+profiler-popup-presets-web-compat-description = سامووا پؽش فرز پؽشنهاڌی سی موشکل زودایی موشکلا سازگاری وب من وبگه یل، و جا رڌجۊری عملکرد.
 profiler-popup-presets-web-compat-label =
     .label = سازگاری وب
 profiler-popup-presets-custom-label =
@@ -348,12 +350,17 @@ appmenuitem-services-relay-description = داشبورد ره وندن ماسکا
 appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
 appmenuitem-vpn-description3 = رڌجۊری گشتن خوتووݩ ن سخت تر کۊنین
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = پوی دسگا ن زفت کۊنین
 appmenuitem-vpn-description = زفت کردن فعالیت ریتور ایسا
 appmenu-services-header = خدمات مو
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header3 = ٱوزارا زفت کردن هریم سیخومی
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = ٱوزارا زفت وابیڌنی دیری Mozilla ن امتهووݩ کۊنین:
 appmenu-other-protection-header = پوی ٱوزارا زفت وابیڌنی ز { -vendor-short-name } ن امتهووݩ کۊنین:
 
 ## Profiles panel
@@ -374,6 +381,7 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = پوروفایل هیم سکویی هونی و کار اگؽره
 fxa-menu-create-profile-subpanel =
     .title = وورکل ی پوروفایل نۊ
+fxa-menu-create-profile-heading = وا ی پوروفایل نۊ، گشتن خوتووݩ ن وا روء بوورین
 fxa-menu-create-profile-confirm =
     .label = وورکل پوروفایل نۊ
 fxa-menu-create-profile-learn-more =

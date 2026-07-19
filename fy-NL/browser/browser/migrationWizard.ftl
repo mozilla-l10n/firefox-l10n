@@ -203,6 +203,7 @@ migration-chrome-windows-password-import-step2 = Selektearje ‘Instellingen’ 
 migration-chrome-windows-password-import-step3 = Kies ‘Bestand downloaden’ en bewarje it op jo apparaat.
 migration-chrome-windows-password-import-step4 = Kear hjir werom en kies ‘Bestân selektearje’ om it ymportearjen te foltôgjen.
 migration-manual-password-import-skip-button = Oerslaan
+migration-manual-password-import-cancel-button = Annulearje
 migration-manual-password-import-select-button = Bestân selektearje
 migration-safari-password-import-skip-button = Oerslaan
 migration-safari-password-import-select-button = Bestân selektearje

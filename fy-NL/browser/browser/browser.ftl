@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Cookies en websitegegevens wiskje…
 identity-connection-not-secure-security-view = Jo hawwe in ûnbefeilige ferbining mei dizze website.
 identity-connection-verified = Jo hawwe in befeilige ferbining mei dizze website.
+identity-ev-owner-label2 = Sertifikaat útjûn oan
+identity-verifier-label2 = Ferifiearre troch
 identity-ev-owner-label = Sertifikaat útjûn oan:
 identity-verifier-label = Ferifiearre troch:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

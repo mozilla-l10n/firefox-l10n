@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Fuortsmite
+edit-profile-page-avatar-selector-opener-button =
+    .title = Avatar bewurkje
 edit-profile-page-avatar-selector-opener-link = Bewurkje
 avatar-selector-icon-tab = Piktogram
 avatar-selector-custom-tab = Oanpast
@@ -95,6 +97,9 @@ delete-profile-logins = Wachtwurden
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Profyl ‘{ $profilename }’ fuortsmite
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Profyl ‘{ $profilename }’ fuortsmite?
 
 ##
 
