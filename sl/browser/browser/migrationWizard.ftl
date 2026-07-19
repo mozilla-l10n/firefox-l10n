@@ -209,6 +209,7 @@ migration-chrome-windows-password-import-step2 = V meniju izberite "Nastavitve".
 migration-chrome-windows-password-import-step3 = Izberite "Prenesi datoteko" in jo shranite na napravo.
 migration-chrome-windows-password-import-step4 = Vrnite se sem in izberite datoteko, da dokončate uvoz.
 migration-manual-password-import-skip-button = Preskoči
+migration-manual-password-import-cancel-button = Prekliči
 migration-manual-password-import-select-button = Izberi datoteko
 migration-safari-password-import-skip-button = Preskoči
 migration-safari-password-import-select-button = Izberi datoteko
