@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Awatar
 edit-profile-page-delete-button =
     .label = Lašowaś
+edit-profile-page-avatar-selector-opener-button =
+    .title = Awatar wobźěłaś
 edit-profile-page-avatar-selector-opener-link = Wobźěłaś
 avatar-selector-icon-tab = Symbol
 avatar-selector-custom-tab = Swójski
@@ -95,6 +97,9 @@ delete-profile-logins = Gronidła
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Profil “{ $profilename }” lašowaś
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Profil “{ $profilename }” lašowaś?
 
 ##
 
