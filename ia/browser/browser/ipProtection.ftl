@@ -56,6 +56,13 @@ ipprotection-feature-introduction-button-get-started = Comenciar
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Usa tu { $maxUsage } GB e le 6 positiones pro ulterior confidentialitate e facer tu navigation plus ardue a traciar te.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Usa tu { $maxUsage } GB e plus que 20 positiones pro ulterior confidentialitate e facer tu navigation plus ardue a traciar te.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN

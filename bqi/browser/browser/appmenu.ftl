@@ -121,6 +121,10 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = سی هوم گوم کردن و من بیاین
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = هوم گوم کردن { $deviceName } سکو
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
 # Variables
@@ -151,6 +155,12 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = پوروفایل ساز
+    .tooltiptext = زفت کردن دووسمندیا عملکرد پوروفایل
+profiler-popup-button-recording =
+    .label = پوروفایل ساز
+    .tooltiptext = پوروفایل ساز هونی ی پوروفایل زفت اکونه
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = ب در وندن دووسمندیا قلوه
