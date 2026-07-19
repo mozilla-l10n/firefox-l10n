@@ -402,7 +402,7 @@ fxa-menu-device-view-all-synced-tabs =
     .label =
         { $tabCount ->
             [one] הצגת לשונית מסונכרנת אחת
-           *[other] הצגת כל { NUMBER($tabCount) } הלשוניות המסונכרנות
+           *[other] הצגת כל { $tabCount } הלשוניות המסונכרנות
         }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
