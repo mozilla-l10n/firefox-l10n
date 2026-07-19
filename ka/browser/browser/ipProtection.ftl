@@ -69,8 +69,19 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = თქვენი ჩაშენებული VPN გაუმჯობესებულია
+ipprotection-summer-promo-offramp-subscriber-description = ახლა უკვე შეუზღუდავი გამტარუნარიანობა და მეტი ადგილმდებარეობა ხელმისაწვდომი, ვინაიდან გამოწერილი გაქვთ { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = შეინარჩუნეთ ჩაშენებული VPN დამატებითი მდებარეობებით
+ipprotection-summer-promo-offramp-default-browser-incentive-description = აქციეთ { -brand-product-name } თქვენს ყოველდღიურ ბრაუზერად და დამატებით მიიღეთ 20-ზე მეტი მდებარეობა 31 აგვისტოს შემდგომ.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = ახალ დონეზე აიყვანეთ { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = შეინარჩუნეთ შეუზღუდავი გამტარუნარიანობა 31 აგვისტოს შემდგომ 300+ მდებარეობით 5-ამდე მოწყობილობაზე გვერდების მონახულებისას თვალის დევნების გასაძნელებლად.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = გახსენით VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = ნაგულისხმევად დაყენება
 ipprotection-summer-promo-offramp-get-subscription-button = გამოიყენეთ { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = აცილება
 
@@ -173,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = შეამოწმე�
 ipprotection-connection-status-network-error-description = დაუკავშირდით ინტერნეტს და შემდეგ ჩართეთ VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN მიუწვდომელია
     .aria-label = VPN მიუწვდომელია
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = ადგილობრივი სამართლითა და აკრძალვებით შეიძლება იზღუდებოდეს VPN-ის გამოყენების პირობები. <a data-l10n-name="learn-more-link">ვრცლად</a>
 ipprotection-connection-status-blocked-error-description = ადგილობრივი სამართალი გვიზღუდავს VPN-მომსახურებას ამ მხარეში. <a data-l10n-name="learn-more-link">ვრცლად</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

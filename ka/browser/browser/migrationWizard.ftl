@@ -191,6 +191,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = დასრულდა
 migration-safari-password-import-header = პაროლების გადმოტანა – Safari
+migration-safari-password-import-post-sequoia-step1 = გახსენით <a data-l10n-name="macos-passwords-app">პაროლების აპი</a> თქვენს Mac-ზე
 migration-safari-password-import-steps-header = Safari-ს პაროლების გადმოსატანად:
 migration-safari-password-import-step1 = Safari-ში გახსენით მენიუ „Safari“ და იხილეთ Preferences > Passwords
 migration-safari-password-import-step2 = გამოიყენეთ <img data-l10n-name="safari-icon-3dots"/> ღილაკი და აირჩიეთ „ყველა პაროლის გადმოტანა”

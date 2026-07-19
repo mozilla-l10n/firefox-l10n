@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = მოიძიეთ გაფართოებები
 unified-extensions-empty-reason-private-browsing-not-allowed = თქვენ დაყენებული გაქვთ გაფართოებები, მაგრამ არაა ჩართული პირად ფანჯრებში
 unified-extensions-empty-reason-extension-not-enabled = თქვენ დაყენებული გაქვთ გაფართოებები, მაგრამ არაა ჩართული
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = მცირე ოდენობის გაფართოებებიც დიდი ზეგავლენისაა
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = ახალ დონეზე აიყვანეთ გვერდების მონახულება გაფართოებებით
 unified-extensions-empty-content-explain-enable2 = აირჩიეთ „{ unified-extensions-manage-extensions.label }“ ჩასართავად პარამეტრებიდან.
 unified-extensions-empty-content-explain-manage2 = აირჩიეთ „{ unified-extensions-manage-extensions.label }“ გასამართად პარამეტრებიდან.
+unified-extensions-empty-content-explain-extensions-onboarding2 = რჩევები, რომლებიც დაგეხმარებათ ყურადღების მოსაკრებად, პირადულობის დასაცავად და სხვ.
 unified-extensions-empty-content-explain-extensions-onboarding = მოირგეთ { -brand-short-name } იერსახისა თუ წარმადობის დახვეწითა და პირადულობისა თუ უსაფრთხოების გაძლიერებით.
 
 ## An extension in the main list
