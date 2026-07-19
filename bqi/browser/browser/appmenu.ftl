@@ -382,6 +382,7 @@ appmenu-profile-current-in-use = پوروفایل هیم سکویی هونی و 
 fxa-menu-create-profile-subpanel =
     .title = وورکل ی پوروفایل نۊ
 fxa-menu-create-profile-heading = وا ی پوروفایل نۊ، گشتن خوتووݩ ن وا روء بوورین
+fxa-menu-create-profile-description = نشووکا، رزما وو ویرگار گشتن خوتووݩ ن سی کار یا گشتن سیخومی سوا واڌارنین.
 fxa-menu-create-profile-confirm =
     .label = وورکل پوروفایل نۊ
 fxa-menu-create-profile-learn-more =
@@ -389,3 +390,22 @@ fxa-menu-create-profile-learn-more =
 appmenu-profiles-2 =
     .label = پوروفایلا
 appmenu-profiles-header = پوروفایلا
+appmenu-all-profiles =
+    .label = پوی پوروفایلا
+appmenu-secure-sync-header = هوم گوم کردن ٱمن
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = بلگه یل هیم دمۊوی
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] نیشتن { $tabCount } بلگه هوم گوم وابیڌه
+           *[other] نیشتن پوی { $tabCount } بلگه هوم گوم وابیڌه
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = فشناڌن بلگه هیم سکویی و ای دسگا
