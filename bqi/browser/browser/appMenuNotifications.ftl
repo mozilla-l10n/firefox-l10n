@@ -39,9 +39,14 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = سکو ن
     .secondarybuttonaccesskey = N
+appmenu-update-other-instance-message = ی ورۊ رسۊوی نۊ سی { -brand-shorter-name } من دسرس هڌ، ٱما سی دل یو ک نوسخه دیری ز { -brand-shorter-name } هونی کار اکونه، نتره هو ن بپۊرنه. سی وا پؽش رئڌن ورۊ رسۊوی هو ن بووندین، یا «و هر هال ورۊ رسۊوی بۊ» ن پسند کۊنین (نوسخه دیری تا هر سا ک هو ن دووارته ره ونی کۊنین گاشڌ کار نکونه).
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = خا
     .buttonaccesskey = O
+appmenu-addon-post-install-message3 = وردنی یل وو زمینه یل خوتووݩ ن وا نومگه برنومه دؽوۉداری کۊنین.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = هر سا ک خاستین، موجوزا وو ترجیهات مربۊت و داده ن من <a data-l10n-name="settings-link">سامووا وردنی</a> ورۊ رسۊوی کۊنین.
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .label = دیسنیڌن وردنی و نوار ٱوزار
     .accesskey = P
