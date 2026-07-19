@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = دووسمندیا رفع اشکال
+page-title = دووسمندیا عیو جۊری
 crashes-title = گوزارشا خراوی
 crashes-id = شناسه گوزارش
 crashes-send-date = سبت وابی
