@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Открыть новое приватное окно
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Классическое окно
+toolbar-switcher-customizable-label =
+    .label = Переключатель { -smart-window-brand-name(case: "genitive") }
+    .tooltiptext = Переключайтесь между Умным и Классическим окнами
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Переключайтесь в
 
 smartwindow-ask-button =
     .label = Спросить
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Группировать мои вкладки
+    .tooltiptext = Группировать мои вкладки
 
 ## Memories toggle button
 

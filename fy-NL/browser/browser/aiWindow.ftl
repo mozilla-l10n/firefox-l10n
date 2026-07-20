@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Nij priveefinster iepenje
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassyk finster
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name }-skeakeler
+    .tooltiptext = Skeakelje tusken Tûke en klassike finsters.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Ynstellingen op elk winske momi
 
 smartwindow-ask-button =
     .label = Freegje
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Myn ljepblêden groepearje
+    .tooltiptext = Myn ljepblêden groepearje
 
 ## Memories toggle button
 

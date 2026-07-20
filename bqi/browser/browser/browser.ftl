@@ -581,6 +581,9 @@ identity-https-only-dropdown-off-temporarily =
     .label = کۊر وابیڌن مووقت
 identity-https-only-info-turn-on2 = ٱر اخۊین وو امکووݩ داشته بۊ ک { -brand-short-name } منپیز ن بؽڌر کونه، هالت تینا HTTPS ن سی ای وبگه رۊشن کۊنین.
 identity-https-only-info-turn-off2 = ٱر بلگه خراو هڌ، گاشڌ بخۊین هالت تینا HTTPS ن سی ای وبگه کۊر کۊنین تا وبگه من هالت قیر ٱمن HTTP بار ونی بۊ.
+identity-https-only-info-turn-on3 = ٱر اخۊین وو امکووݩ داشته بۊ ک { -brand-short-name } منپیز ن بؽڌر کونه، بؽڌر وابیڌنا HTTPS ن سی ای وبگه رۊشن کۊنین.
+identity-https-only-info-turn-off3 = ٱر بلگه خراو هڌ، گاشڌ بخۊین بؽڌر وابیڌنا HTTPS ن سی ای وبگه کۊر کۊنین تا وبگه من هالت قیر ٱمن HTTP بار ونی بۊ.
+identity-https-only-info-no-upgrade = بؽڌر وابیڌن منپیز ز HTTP مومکن نبی.
 identity-permissions-storage-access-header = کۊکیا منجا وبگهی
 identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
@@ -588,7 +591,9 @@ identity-clear-site-data =
     .label = پاک کردن کۊکیا وو داده یل وبگه…
 identity-connection-not-secure-security-view = ایسا و جۊر ٱمن و ای وبگه منپیز نوابیڌین.
 identity-connection-verified = ایسا و جۊر ٱمن و ای وبگه منپیز وابیڌین.
-identity-ev-owner-label = گوواهی و در کشیڌه سی:
+identity-ev-owner-label2 = گوواهی سادر وابیڌه سی
+identity-verifier-label2 = تاییڌ وابیڌه و دست
+identity-ev-owner-label = گوواهی سادر وابیڌه سی:
 identity-verifier-label = تاییڌ وابیڌه و دست:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = ز ری موقررات (EU) 2024/1183 واجد شرایت هڌ.
@@ -777,6 +782,12 @@ urlbar-result-action-visit = نیشتن
 urlbar-result-action-switch-tab-with-container = جا گورویی و بلگه · <span>{ $container }</span>
 # Used when the target tab is in a tab group that doesn't have a label.
 urlbar-result-action-tab-group-unnamed = بونکۊ بؽ نوم
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = سی پیتینیڌن وا { $engine } کیلیت Tab ن فشار بڌین
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

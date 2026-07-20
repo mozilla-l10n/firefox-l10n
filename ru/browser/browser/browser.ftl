@@ -592,6 +592,8 @@ identity-clear-site-data =
     .label = Удалить куки и данные сайта…
 identity-connection-not-secure-security-view = Вы подключились к этому сайту по незащищённому соединению.
 identity-connection-verified = Вы подключились к этому сайту по защищённому соединению.
+identity-ev-owner-label2 = Сертификат выдан
+identity-verifier-label2 = Подтверждён
 identity-ev-owner-label = Сертификат выдан:
 identity-verifier-label = Подтверждено:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

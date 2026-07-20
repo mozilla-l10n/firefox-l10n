@@ -56,6 +56,28 @@ ipprotection-feature-introduction-button-get-started = Begjinne
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = De limiten foar jo ynboude VPN wurde op 1 septimber opnij ynsteld
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Brûk jo { $maxUsage } GB en 6 lokaasjes foar ekstra privacy om it dreger te meitsjen jo navigaasje nei jo werom te trasearjen.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Brûk jo { $maxUsage } GB en mear as 20 lokaasjes foar ekstra privacy om it dreger te meitsjen jo navigaasje nei jo werom te trasearjen.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Jo ynboude VPN is no noch better wurden
+ipprotection-summer-promo-offramp-subscriber-description = Jo ûntfange no ûnbeheinde bânbreedte en mear lokaasjes as { -mozilla-vpn-brand-name }-abonnee.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Behâld jo ekstra lokaasjes foar ynboude VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Meitsje fan { -brand-product-name } jo favorite browser en ûntfang mear as 20 ekstra plakken om fan te sneupen nei 31 augustus.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = In nivo heger mei { -mozilla-vpn-brand-name }
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN iepenje
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ynstelle as standert
