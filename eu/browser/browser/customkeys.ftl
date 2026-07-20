@@ -62,11 +62,32 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Eginbide hau esperimentala da eta baliteke behar bezala ez ibiltzea.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Baliogabea
+customkeys-shortcut-unassigned =
+    .placeholder = Gehitu lasterbidea
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Honen lasterbidea: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Editatu
+    .tooltiptext = Editatu
 customkeys-key-clear =
     .aria-label = Garbitu
     .tooltiptext = Garbitu
+customkeys-key-reset =
+    .aria-label = Berreskuratu
+    .tooltiptext = Berreskuratu
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Sakatu tekla berria:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Kendu beste lasterbide bat?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Konbinazio hau "{ $conflict }" lasterbideak darabil jada.
+customkeys-conflict-confirm-button-confirm = Erabili halere
+customkeys-conflict-confirm-button-cancel = Utzi
+customkeys-reset-all-confirm-title = Berrezarri lehenetsiak?

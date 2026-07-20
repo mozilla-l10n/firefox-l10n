@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Blokeatu about:support orrirako sarbidea.
 policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo hauen barneko karpeta batean.
 policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Gaitu CNSA 2.0 ML-KEM-1024 gako-hitzarmena TLSrako.
 policy-ContentAnalysis = Gaitu edo desgaitu datu-galera eragozteko agenterako konexioa.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
 # Containers in this context is referring to container tabs in Firefox.
