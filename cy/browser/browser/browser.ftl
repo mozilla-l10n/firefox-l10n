@@ -595,6 +595,8 @@ identity-clear-site-data =
     .label = Clirio Data Cwcis a Gwefan…
 identity-connection-not-secure-security-view = Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
 identity-connection-verified = Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.
+identity-ev-owner-label2 = Tystysgrif wedi'i ryddhau i
+identity-verifier-label2 = Gwiriwyd gan:
 identity-ev-owner-label = Tystysgrif wedi'i ryddhau i:
 identity-verifier-label = Gwirio gan:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

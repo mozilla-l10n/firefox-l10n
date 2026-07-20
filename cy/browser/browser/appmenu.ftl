@@ -133,6 +133,16 @@ fxa-menu-manage-devices =
     .label = Rheoli eich dyfeisiau
 fxa-menu-device-missing =
     .label = Ddim yn Gweld Eich Dyfais?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Pob Dyfais
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Pob Dyfais
+fxa-menu-get-firefox-mobile =
+    .label = Cael { -brand-product-name } ar gyfer Android neu iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Cydweddu diogel
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cyfrif
 # Variables
@@ -360,9 +370,46 @@ appmenu-manage-profiles =
     .label = Rheoli proffiliau
 appmenu-copy-profile =
     .label = Copïo'r proffil hwn
+appmenu-create-profile2 =
+    .label = Creu Proffil Newydd
 appmenu-create-profile =
     .label = Proffil newydd
 appmenu-edit-profile =
     .aria-label = Golygu proffil
+appmenu-edit-this-profile =
+    .label = Golygu'r Proffil Hwn
+appmenu-profile-current-in-use = Proffil cyfredol yn cael ei ddefnyddio
+fxa-menu-create-profile-subpanel =
+    .title = Creu proffil newydd
+fxa-menu-create-profile-heading = Dyrchafwch eich pori gyda phroffil newydd
+fxa-menu-create-profile-description = Cadwch eich nodau tudalen, cyfrineiriau, a hanes ar wahân ar gyfer gwaith a phori personol.
+fxa-menu-create-profile-confirm =
+    .label = Creu Proffil Newydd
+fxa-menu-create-profile-learn-more =
+    .label = Beth yw Proffiliau?
 appmenu-profiles-2 =
     .label = Proffiliau
+appmenu-profiles-header = Proffiliau
+appmenu-all-profiles =
+    .label = Pob Proffil
+appmenu-secure-sync-header = Cydweddu diogel
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Tabiau diweddar
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Gweld { $tabCount } Tabiau wedi'u cydweddu
+            [one] Gweld y { $tabCount } Tab sydd wedi'i gydweddu
+            [two] Gweld y { $tabCount } Dab sydd wedi'u cydweddu
+            [few] Gweld y { $tabCount } Thab sydd wedi'u cydweddu
+            [many] Gweld y { $tabCount } Tab sydd wedi'u cydweddu
+           *[other] Gweld y { $tabCount } Tab sydd wedi'u cydweddu
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Anfon y Dudalen Gyfredol i'r Dyfais Hon

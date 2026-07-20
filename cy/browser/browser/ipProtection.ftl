@@ -56,6 +56,24 @@ ipprotection-feature-introduction-button-get-started = Cychwyn arni
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Mae eich terfynau VPN cynhenid yn ailosod ar 1 Medi
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Defnyddiwch eich { $maxUsage } GB a 6 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach olrhain eich pori yn ôl atoch chi.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Defnyddiwch eich { $maxUsage } GB a 20 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach olrhain eich pori yn ôl atoch chi.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Mae eich VPN cynhenid newydd wella
+ipprotection-summer-promo-offramp-subscriber-description = Rydych nawr yn cael lled band diderfyn a mwy o leoliadau fel tanysgrifiwr { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Cadwch eich lleoliadau VPN cynhenid ychwanegol
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Agor y VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Cael { -mozilla-vpn-brand-name }
