@@ -88,10 +88,16 @@ turn-on-scheduled-backups-encryption-create-password-label = رزم
 turn-on-scheduled-backups-encryption-repeat-password-label = تکرار رزم
 turn-on-scheduled-backups-cancel-button = لقو
 turn-on-scheduled-backups-confirm-button = رۊشن کردن لادراری گرؽڌن
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = موشکلؽ من نوسخه لادرار پسند بیڌه ایسا ووجۊد داره. دوبلگه دیری ن پسند کۊنین وو دووارته امتهووݩ کۊنین.
+turn-on-scheduled-backups-error-default-dir-denied = ایما نترستیم و دوبلگه لادرار ایسا دسرسی داشته بۊیم. ی جاگه نۊ ن پسند کۊنین.
+backup-error-file-system = مجال لادراری گرؽڌن ز { -brand-short-name }، موشکلؽ من دوبلگه لادرار پسند وابیڌه ایسا بی.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = لادراری گرؽڌن کۊر بۊ؟
+turn-off-scheduled-backups-description = ایکار هومچیناکو پوی داده یل لادرار ایسا ن پاک اکونه. وورگشتنی من ای کار نؽ.
 turn-off-scheduled-backups-support-link = قلوه دووسته بۊین
 turn-off-scheduled-backups-cancel-button = لقو
 turn-off-scheduled-backups-confirm-button = لادرار ن کۊر وو پاک کۊنین
