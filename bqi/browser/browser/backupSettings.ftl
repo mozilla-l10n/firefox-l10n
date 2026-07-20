@@ -19,6 +19,9 @@ backup-folder-name = وورگندن { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = لادراری { -brand-product-name }
+settings-data-backup-header2 =
+    .label = لادراری گرؽڌن
+    .description = و توور خوتکار نشووکا، ویرگار وو پوی داده یل ایسا ن زفت اکونه.
 settings-data-backup-toggle = دؽوۉداری لادراری گرؽڌن
 settings-data-backup-toggle-on2 =
     .label = رۊشن کردن لادراری گرؽڌن
@@ -28,6 +31,7 @@ settings-data-backup-trigger-button = هیم سکو لادراری بگر
 settings-data-backup-in-progress-button = لادراری گرؽڌن هونی ٱنجوم ابۊ…
 settings-data-backup-in-progress-message =
     .message = لادراری گرؽڌن هونی ٱنجوم ابۊ…
+settings-data-backup-last-backup-date = لادراری گرؽڌن دیندایی: { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = لادراری گرؽڌن رۊشن هڌ
 settings-data-backup-scheduled-backups-off2 =
