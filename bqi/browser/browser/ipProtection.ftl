@@ -36,6 +36,7 @@ ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = گۊشیڌن VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = سامووݩ و سۊرت پؽش فرز
 ipprotection-summer-promo-offramp-get-subscription-button = گرؽڌن { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = رڌ کردن
 
