@@ -61,6 +61,23 @@ ipprotection-summer-promo-offramp-generic-title = Ваши встроенные 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description = Используйте { $maxUsage } ГБ и 6 местоположений для дополнительной приватности, чтобы затруднить отслеживание вашего веб-сёрфинга.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Используйте свои { $maxUsage } ГБ и более 20 местоположений для дополнительной приватности, чтобы затруднить отслеживание вашего веб-сёрфинга.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Ваш встроенный VPN стал ещё лучше
+ipprotection-summer-promo-offramp-subscriber-description = Теперь вы получаете неограниченную пропускную способность и больше местоположений, как подписчик { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Сохраните свои дополнительные местоположения встроенного VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Сделайте { -brand-product-name } своим любимым браузером и получите более 20 дополнительных метоположений для сёрфинга после 31 августа.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Выйдите на новый уровень с { -mozilla-vpn-brand-name }
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Открыть VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Получить { -mozilla-vpn-brand-name }
