@@ -399,8 +399,8 @@ fxa-menu-device-recent-tabs-panel =
 fxa-menu-device-view-all-synced-tabs =
     .label =
         { $tabCount ->
-            [one] Afficher { $tabCount } onglet synchronisé
-           *[other] Voir tous les { $tabCount } onglets synchronisés
+            [one] Afficher { $tabCount } onglet synchronisé
+           *[other] Afficher les { $tabCount } onglets synchronisés
         }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =

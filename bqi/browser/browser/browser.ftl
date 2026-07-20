@@ -598,6 +598,7 @@ identity-ev-owner-label = گوواهی سادر وابیڌه سی:
 identity-verifier-label = تاییڌ وابیڌه و دست:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = ز ری موقررات (EU) 2024/1183 واجد شرایت هڌ.
+identity-description-custom-root2 = سادر کوننده ای گوواهی سی مۊزیلا قابل شناسایی نؽ. گاشڌ ز تریق سیستوم عامل یا دؽوۉدار سیستوم ایسا ازافه وابیڌه.
 identity-remove-cert-exception =
     .label = پاک کردن استسنا
     .accesskey = R

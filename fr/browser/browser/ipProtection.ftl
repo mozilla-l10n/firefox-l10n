@@ -60,11 +60,11 @@ ipprotection-feature-introduction-button-get-started = Démarrer
 ipprotection-summer-promo-offramp-generic-title = Les limites du VPN intégré seront réinitialisées le 1er septembre
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description = Utilisez vos { $maxUsage } Go et 6 localisations pour plus de confidentialité afin de rendre plus difficile la navigation jusqu’à vous.
+ipprotection-summer-promo-offramp-generic-description = Profitez de vos { $maxUsage } Go et de 6 emplacements pour renforcer votre confidentialité et rendre votre navigation plus difficile à pister.
 # Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Utilisez vos { $maxUsage } Go et plus de 20 emplacements pour plus de confidentialité afin de rendre plus difficile la navigation jusqu’à vous.
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Profitez de vos { $maxUsage } Go et de plus de 20 emplacements pour renforcer votre confidentialité et rendre votre navigation plus difficile à pister.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
@@ -78,6 +78,7 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Faites
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Passer au niveau supérieur avec { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Conservez une bande passante illimitée après le 31 août et profitez de plus de 300 emplacements sur 5 appareils pour rendre votre navigation plus difficile à pister.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ouvrir le VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Définir par défaut
