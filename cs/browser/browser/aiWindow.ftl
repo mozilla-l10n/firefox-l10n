@@ -169,6 +169,27 @@ aiwindow-firstrun-default-subtitle = Procházejte, vyhledávejte a ptejte se –
 smartwindow-ask-button =
     .label = Zeptat se
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Seskupit mé panely
+    .tooltiptext = Seskupit mé panely
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Vzpomínky zapnuty
+    .tooltiptext = V odpovědích používat vzpomínky, pokud jsou užitečné
+aiwindow-memories-off =
+    .aria-label = Vzpomínky vypnuty
+    .tooltiptext = Nepoužívat vzpomínky v odpovědích
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nový chat
+    .tooltiptext = Nový chat
+
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
@@ -197,12 +218,23 @@ smartwindow-disclaimer = Umělá inteligence může dělat chyby.
 firefoxview-chats-nav = Chaty
     .title = Chaty
 firefoxview-chats-header = Chaty
+firefoxview-chat-context-delete = Smazat z chatů
+    .accesskey = S
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Hledat v chatech
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-chat-date-today = Dnes – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Včera – { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Zpět na vaše chaty
 
 ## Count displayed in fxview chat search results
 
