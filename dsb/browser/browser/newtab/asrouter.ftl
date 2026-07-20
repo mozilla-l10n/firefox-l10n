@@ -500,3 +500,7 @@ nova-early-access-share-feedback-link = Měnjenje źěliś
     .accesskey = M
 nova-early-access-infobar-primary-button = Som zrozměł
     .accesskey = S
+
+## App Exit Spotlight dialog
+
+app-exit-spotlight-title = { -brand-short-name } kuždy raz startowaś, gaž se pla Windowa pśizjawjaśo?

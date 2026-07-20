@@ -382,5 +382,30 @@ appmenu-profile-current-in-use = Perfil atual em uso
 fxa-menu-create-profile-subpanel =
     .title = Criar novo perfil
 fxa-menu-create-profile-heading = Melhore sua navegação com um novo perfil
+fxa-menu-create-profile-description = Mantenha seus favoritos, senhas e histórico da navegação profissional separados da pessoal.
+fxa-menu-create-profile-confirm =
+    .label = Criar novo perfil
+fxa-menu-create-profile-learn-more =
+    .label = O que são perfis?
 appmenu-profiles-2 =
     .label = Perfis
+appmenu-profiles-header = Perfis
+appmenu-all-profiles =
+    .label = Todos os perfis
+appmenu-secure-sync-header = Sincronização segura
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Abas recentes
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ver { $tabCount } aba sincronizada
+           *[other] Ver todas as { $tabCount } abas sincronizadas
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Enviar página atual para este dispositivo

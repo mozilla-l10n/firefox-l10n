@@ -197,6 +197,9 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Dokóńcony
 migration-safari-password-import-header = Gronidła ze Safari importěrowaś
+migration-safari-password-import-post-sequoia-step1 = Wócyńśo <a data-l10n-name="macos-passwords-app">gronidłowe nałoženje</a> na swójom Mac
+migration-safari-password-import-post-sequoia-step3 = Dataju składowaś
+migration-safari-password-import-post-sequoia-step4 = Wubjeŕśo skłaźonu dataju
 migration-safari-password-import-steps-header = Aby gronidła ze Safari importěrował:
 migration-safari-password-import-step1 = Wócyńśo meni „Safari“ w Safari a pśejźćo k Einstellungen > Passwörter (Nastajenja > Gronidła)
 migration-safari-password-import-step2 = Wubjeŕśo tłocašk <img data-l10n-name="safari-icon-3dots"/> a wubjeŕśo „Alle Passwörter exportieren“
@@ -209,6 +212,7 @@ migration-chrome-windows-password-import-step2 = Wubjeŕśo „Nastajenja“ z m
 migration-chrome-windows-password-import-step3 = Wubjeŕśo „Dataju ześěgnuś“ a składujśo ju na swójom rěźe.
 migration-chrome-windows-password-import-step4 = Wrośćo se sem a wužywajśo „Dataju wubraś “, aby import dokóńcył.
 migration-manual-password-import-skip-button = Pśeskócyś
+migration-manual-password-import-cancel-button = Pśetergnuś
 migration-manual-password-import-select-button = Dataju wubraś
 migration-safari-password-import-skip-button = Pśeskócyś
 migration-safari-password-import-select-button = Dataju wubraś
