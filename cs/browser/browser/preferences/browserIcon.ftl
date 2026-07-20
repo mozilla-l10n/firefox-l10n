@@ -21,3 +21,10 @@ appearance-browser-icon-retro2017 =
     .label = Retro 2017
 appearance-browser-icon-pride =
     .label = Hrdost
+appearance-browser-icon-minimal =
+    .label = Minimalistická
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Pixelová
