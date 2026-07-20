@@ -142,11 +142,22 @@ aiwindow-input-model-select-settings-link = Nastavení modelu
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Užitečnější odpovědi, podle vašich představ
 aiwindow-firstrun-memories-conversation-title = Udržujte konverzaci v chodu
 aiwindow-firstrun-memories-conversation-body = Pokud se budete učit z konverzací, nebudete se muset tolik opakovat.
 aiwindow-firstrun-memories-relevance-title = Relevantnější odpovědi
+aiwindow-firstrun-memories-relevance-body = Díky informacím získaným při procházení webu získává funkce { -smart-window-brand-name } ucelenější přehled.
 aiwindow-firstrun-memories-privacy-title = Soukromí již od návrhu
+aiwindow-firstrun-memories-privacy-body = Na tomto zařízení jsou uloženy vzpomínky. Můžete je kdykoli smazat nebo vypnout.
+aiwindow-firstrun-memories-choose-label = Vyberte, z čeho se { -smart-window-brand-name } učí
+aiwindow-firstrun-memories-checkbox-chats = Chaty v { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing =
+    { -brand-product-name.case-status ->
+        [with-cases] Prohlížení ve { -brand-product-name(case: "loc") }
+       *[no-cases] Prohlížení v aplikaci { -brand-product-name }
+    }
 aiwindow-firstrun-memories-update-settings = Změny můžete provést kdykoliv v nastavení.
+aiwindow-firstrun-memories-no-create = Rozumím. { -smart-window-brand-name } nebude ukládat vzpomínky. Nastavení můžete kdykoli aktualizovat.
 
 ## Firstrun set as default onboarding
 
