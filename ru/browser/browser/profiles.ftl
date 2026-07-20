@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Аватар
 edit-profile-page-delete-button =
     .label = Удалить
+edit-profile-page-avatar-selector-opener-button =
+    .title = Изменить аватар
 edit-profile-page-avatar-selector-opener-link = Изменить
 avatar-selector-icon-tab = Значок
 avatar-selector-custom-tab = Персональная
@@ -95,6 +97,9 @@ delete-profile-logins = Пароли
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Удалить профиль «{ $profilename }»
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Удалить профиль «{ $profilename }»?
 
 ##
 

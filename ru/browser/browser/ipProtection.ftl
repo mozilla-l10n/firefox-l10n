@@ -78,8 +78,10 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Сде
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Выйдите на новый уровень с { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Сохраните неограниченную пропускную способность после 31 августа, с более чем 300 местоположениями на 5 устройствах, что затруднит отслеживание вашего веб-сёрфинга.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Открыть VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Установить по умолчанию
 ipprotection-summer-promo-offramp-get-subscription-button = Получить { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Убрать
 
@@ -182,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Проверьте сво
 ipprotection-connection-status-network-error-description = Подключитесь к Интернету, затем попробуйте включить VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN недоступен
     .aria-label = VPN недоступен
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Местные законы и ограничения ограничивают места, где вы можете использовать VPN. <a data-l10n-name="learn-more-link">Подробнее</a>
 ipprotection-connection-status-blocked-error-description = Местные законы не позволяют нам предоставлять сервис VPN в этом регионе. <a data-l10n-name="learn-more-link">Подробнее</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
