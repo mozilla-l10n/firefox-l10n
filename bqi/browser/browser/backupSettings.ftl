@@ -124,6 +124,9 @@ restore-from-backup-type-group-label =
     .label = جایونی کردن وا پوروفایل سکویی؟
 restore-from-backup-type-replace =
     .label = پوی داده یل ن وا ای نوسخه لادرار جایونی کۊنین
+restore-from-backup-type-add =
+    .label = داده یل ن واڌارنین وو پوروفایل نۊ وورکل کۊنین
+restore-from-backup-profiles-disabled-message = ای کار پوی داده یل هیم سکویی ایسا { -brand-short-name } ن وا داده یل لادرار جایونی اکونه.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -178,6 +181,7 @@ change-backup-encryption-header = آلشت رزم لادرار
 password-rules-header = الزامات رزم
 password-rules-length-description = هدقل 8 کاراکتر
 password-rules-email-description = نشۊوی ایمیل ایسا نؽ
+password-rules-disclaimer = ایمن بمئنین - رزما تکراری ن و کار مبرین. سی وورکل رزما قوی و نوکات قلوه ی سر بزنین. <a data-l10n-name="password-support-link">
 password-validity-has-email = نتره نشۊوی ایمیل بۊ
 password-validity-do-not-match = رزما ی جۊر نؽن
 
@@ -190,6 +194,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = پاک کردن زفت وابیڌن وا رزم
 disable-backup-encryption-support-link = ز چ چیایی لادراری گرؽڌه ابۊ؟
 disable-backup-encryption-cancel-button = لقو
 disable-backup-encryption-confirm-button = پاک کردن رزم
