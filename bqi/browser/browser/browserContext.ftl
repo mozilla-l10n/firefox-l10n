@@ -28,6 +28,12 @@ toolbar-button-back-2 =
 
 ## Forward
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = جلاو رئڌن و بلگه نیایی ({ $shortcut })
+    .aria-label = نیایی
+    .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = جلاو رئڌن
@@ -124,6 +130,12 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = گۊشیڌن لینگ من بلگه نۊ
     .accesskey = T
+main-context-menu-open-link-split-view =
+    .label = گۊشیڌن لینگ من نما تقسیم وابیڌه
+    .accesskey = M
+main-context-menu-open-link-container-tab =
+    .label = گۊشیڌن لینگ من بلگه هامل نۊ
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = گۊشیڌن لینگ من نیمدری نۊ
     .accesskey = d
@@ -330,6 +342,9 @@ main-context-menu-manage-logins2 =
 main-context-menu-manage-passwords =
     .label = دؽوۉداری رزما
     .accesskey = M
+main-context-menu-keyword =
+    .label = ٱووردن ی کیلیت واژه و ای پیتینیڌن…
+    .accesskey = K
 main-context-menu-add-engine =
     .label = ٱووردن موتور پیتینیڌن
     .accesskey = S
@@ -410,6 +425,8 @@ main-context-menu-reveal-password =
 main-context-menu-new-feature-badge = نۊ
 main-context-menu-pdfjs-copy-page =
     .label = لف گیری بلگه
+main-context-menu-pdfjs-cut-page =
+    .label = بورش بلگه
 main-context-menu-pdfjs-delete-page =
     .label = پاک کردن بلگه
 main-context-menu-pdfjs-save-page =
