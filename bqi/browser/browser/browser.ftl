@@ -569,6 +569,7 @@ identity-custom-root = گوواهیِ ای منپیز، و دست سادرکون
 identity-passive-loaded = بشنایی ز ای بلگه ٱمن نؽ (جۊر شؽوات).
 identity-active-loaded = ایسا زفت وابیڌن ن من ای بلگه قیر فعال کردینه.
 identity-weak-encryption = ای بلگه رزم ناهاڌن زعیفی ن و کار گرؽڌه.
+identity-insecure-login-forms = دووسمندیا وورۊدی ک من ای بلگه ازنین ترن فاش بۊن.
 identity-https-only-connection-upgraded = (وا روء رئڌه و HTTPS)
 identity-https-only-label = هالت تینا-Https
 identity-https-only-label2 = و هالت خوتکار ای وبگه ن و ی منپیز ٱمن وا روء بوورین
