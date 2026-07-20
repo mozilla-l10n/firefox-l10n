@@ -78,6 +78,7 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Meitsj
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = In nivo heger mei { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Behâld nei 31 augustus ûnbeheinde bânbreedte, mei mear as 300 lokaasjes op 5 apparaten om it dreger te meitsjen jo navigaasje nei jo werom te trasearjen.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN iepenje
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ynstelle as standert
@@ -183,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Kontrolearje jo ynternetf
 ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dernei VPN yn te skeakeljen.
 ipprotection-connection-status-blocked-error-title-1 = VPN is net beskikber
     .aria-label = VPN is net beskikber
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokale wetten en beheiningen, beheine wêr’t jo VPN brûke kinne. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 ipprotection-connection-status-blocked-error-description = Fanwegen lokale wetjouwing kinne wy gjin VPN-tsjinsten oanbiede yn dizze regio. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

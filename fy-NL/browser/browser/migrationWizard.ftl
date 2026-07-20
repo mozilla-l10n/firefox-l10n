@@ -191,6 +191,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Foltôge
 migration-safari-password-import-header = Wachtwurden út Safari ymportearje
+migration-safari-password-import-post-sequoia-step1 = Iepenje de <a data-l10n-name="macos-passwords-app">Wachtwurden-app</a> op jo Mac
+migration-safari-password-import-post-sequoia-step2 = Kies yn de menubalke boppe yn it skerm Bestand > Alle wachtwoorden exporteren naar bestand…
+migration-safari-password-import-post-sequoia-step3 = Bewarje it bestân
+migration-safari-password-import-post-sequoia-step4 = Selektearje it bestân dat jo bewarre hawwe
 migration-safari-password-import-steps-header = Safari-wachtwurden ymportearje:
 migration-safari-password-import-step1 = Iepenje yn Safari it menu ‘Safari’ en gean nei Voorkeuren > Wachtwoorden
 migration-safari-password-import-step2 = Selektearje de knop <img data-l10n-name="safari-icon-3dots"/> en kies ‘Alle wachtwoorden exporteren’

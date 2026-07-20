@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Tagong ta de about:support-side blokkearje.
 policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwizers, of in hjirbinnen opjûne map.
 policy-CaptivePortal = Stipe foar hotspot-oanmeldingsside ynskeakelje of útskeakelje.
 policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = De CNSA 2.0 ML-KEM-1024-kaaioerienkomst foar TLS ynskeakelje.
 policy-ContentAnalysis = Ferbining mei data-loss-prevention-agent yn- of útskeakelje.
 policy-Cookies = Tastean of wegerje dat websites cookies ynstelle.
 # Containers in this context is referring to container tabs in Firefox.
