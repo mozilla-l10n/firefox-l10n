@@ -191,6 +191,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Voltooid
 migration-safari-password-import-header = Wachtwoorden uit Safari importeren
+migration-safari-password-import-post-sequoia-step1 = Open de <a data-l10n-name="macos-passwords-app">Wachtwoorden-app</a> op uw Mac
+migration-safari-password-import-post-sequoia-step2 = Kies in de menubalk boven in het scherm Bestand > Alle wachtwoorden exporteren naar bestand…
+migration-safari-password-import-post-sequoia-step3 = Sla het bestand op
+migration-safari-password-import-post-sequoia-step4 = Selecteer het bestand dat u hebt opgeslagen
 migration-safari-password-import-steps-header = Safari-wachtwoorden importeren:
 migration-safari-password-import-step1 = Open in Safari het menu ‘Safari’ en ga naar Voorkeuren > Wachtwoorden
 migration-safari-password-import-step2 = Selecteer de knop <img data-l10n-name="safari-icon-3dots"/> en kies ‘Alle wachtwoorden exporteren’

@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Nieuw privévenster openen
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klassiek venster
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name }-schakelaar
+    .tooltiptext = Schakel tussen Slimme en klassieke vensters.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Instellingen op elk gewenst mom
 
 smartwindow-ask-button =
     .label = Vragen
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Mijn tabbladen groeperen
+    .tooltiptext = Mijn tabbladen groeperen
 
 ## Memories toggle button
 

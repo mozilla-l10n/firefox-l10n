@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Toegang tot de about:support-pagina blokkeren.
 policy-Bookmarks = Bladwijzers maken in de Bladwijzerwerkbalk, het menu Bladwijzers, of een hierbinnen opgegeven map.
 policy-CaptivePortal = Ondersteuning voor hotspot-aanmeldingspagina inschakelen of uitschakelen.
 policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificaten gebruiken.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = De CNSA 2.0 ML-KEM-1024-sleutelovereenkomst voor TLS inschakelen.
 policy-ContentAnalysis = Verbinding met data-loss-prevention-agent in- of uitschakelen.
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
 # Containers in this context is referring to container tabs in Firefox.

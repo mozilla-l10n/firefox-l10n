@@ -109,6 +109,11 @@ appmenu-remote-tabs-unverified = Uw account moet worden geverifieerd.
 appmenuitem-fxa-toolbar-sync-now2 = Nu synchroniseren
 appmenuitem-fxa-sign-in = Aanmelden bij { -brand-product-name }
 appmenuitem-fxa-manage-account = Account beheren
+fxa-menu-sync-status-on = Synchronisatie is Aan
+fxa-menu-sync-status-off = Synchronisatie is Uit
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Uw gegevens worden niet gesynchroniseerd
 # Button shown next to "Sync is Off" when the user is signed in but sync is
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
@@ -116,6 +121,12 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Aanmelden om te synchroniseren
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = { $deviceName } nu synchroniseren
+fxa-menu-manage-sync-settings =
+    .label = Synchronisatie-instellingen beheren
 fxa-menu-add-device =
     .label = Apparaat toevoegen
 fxa-menu-manage-devices =
@@ -128,6 +139,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Alle apparaten
+fxa-menu-get-firefox-mobile =
+    .label = { -brand-product-name } voor Android of iOS downloaden
 fxa-menu-secure-sync-subpanel =
     .title = Beveiligde synchronisatie
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -368,6 +381,8 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Huidig profiel in gebruik
 fxa-menu-create-profile-subpanel =
     .title = Een nieuw profiel aanmaken
+fxa-menu-create-profile-heading = Verbeter uw navigatie met een nieuw profiel
+fxa-menu-create-profile-description = Houd uw bladwijzers, wachtwoorden en geschiedenis gescheiden voor werk en privé.
 fxa-menu-create-profile-confirm =
     .label = Nieuw profiel aanmaken
 fxa-menu-create-profile-learn-more =
@@ -382,3 +397,15 @@ appmenu-secure-sync-header = Beveiligde synchronisatie
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Recente tabbladen
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } gesynchroniseerd tabblad bekijken
+           *[other] Alle { $tabCount } gesynchroniseerde tabbladen bekijken
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Huidige pagina naar dit apparaat verzenden
