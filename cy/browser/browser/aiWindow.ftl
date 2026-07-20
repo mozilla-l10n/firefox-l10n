@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Agor Ffenestr Breifat Newydd
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Ffenest Glasurol
+toolbar-switcher-customizable-label =
+    .label = Newidiwr { -smart-window-brand-name }
+    .tooltiptext = Newid rhwng ffenestri Clyfar a Chlasurol
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Newid i'r gosodiadau unrhyw bry
 
 smartwindow-ask-button =
     .label = Gofyn
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Grwpio fy nhabiau
+    .tooltiptext = Grwpio fy nhabiau
 
 ## Memories toggle button
 

@@ -109,6 +109,30 @@ appmenu-remote-tabs-unverified = Mae angen i'ch cyfrif cael ei gwirio.
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-sign-in = Mewngofnodi i { -brand-product-name }
 appmenuitem-fxa-manage-account = Rheoli cyfrif
+fxa-menu-sync-status-on = Mae Sync Ymlaen
+fxa-menu-sync-status-off = Mae Sync i Ffwrdd
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Dyw eich data ddim yn cydweddu
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Troi Ymlaen
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Mewngofnodwch i Sync
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Cydweddu { $deviceName } nawr
+fxa-menu-manage-sync-settings =
+    .label = Rheoli gosodiadau cydweddu
+fxa-menu-add-device =
+    .label = Ychwanegu dyfais
+fxa-menu-manage-devices =
+    .label = Rheoli eich dyfeisiau
+fxa-menu-device-missing =
+    .label = Ddim yn Gweld Eich Dyfais?
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cyfrif
 # Variables

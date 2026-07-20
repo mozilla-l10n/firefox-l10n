@@ -181,7 +181,7 @@ change-backup-encryption-header = آلشت رزم لادرار
 password-rules-header = الزامات رزم
 password-rules-length-description = هدقل 8 کاراکتر
 password-rules-email-description = نشۊوی ایمیل ایسا نؽ
-password-rules-disclaimer = ایمن بمئنین - رزما تکراری ن و کار مبرین. سی وورکل رزما قوی و نوکات قلوه ی سر بزنین. <a data-l10n-name="password-support-link">
+password-rules-disclaimer = ایمن بمئنین - رزما تکراری ن و کار مبرین. سی وورکل رزما قوی و <a data-l10n-name="password-support-link">نوکات قلوه ی سر بزنین</a>.
 password-validity-has-email = نتره نشۊوی ایمیل بۊ
 password-validity-do-not-match = رزما ی جۊر نؽن
 
