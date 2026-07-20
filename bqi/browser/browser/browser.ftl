@@ -585,6 +585,7 @@ identity-https-only-info-turn-on3 = ٱر اخۊین وو امکووݩ داشته
 identity-https-only-info-turn-off3 = ٱر بلگه خراو هڌ، گاشڌ بخۊین بؽڌر وابیڌنا HTTPS ن سی ای وبگه کۊر کۊنین تا وبگه من هالت قیر ٱمن HTTP بار ونی بۊ.
 identity-https-only-info-no-upgrade = بؽڌر وابیڌن منپیز ز HTTP مومکن نبی.
 identity-permissions-storage-access-header = کۊکیا منجا وبگهی
+identity-permissions-storage-access-hint = ای سازمووا ترن کۊکیا منجا وبگهی وو داده یل وبگه یل ن مجالی ک ایسا من ای وبگه هڌین و کار بگرن.
 identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
 identity-clear-site-data =
