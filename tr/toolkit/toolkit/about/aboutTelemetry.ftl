@@ -22,7 +22,7 @@ about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firef
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetri panoları</a> Mozilla’nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Sonda sözlüğü</a> Telemetri’nin topladığı sondalarla ilgili ayrıntıları ve açıklamaları içerir.
 about-telemetry-show-in-Firefox-json-viewer = JSON görüntüleyicide aç
-about-telemetry-home-section = Ana Sayfa
+about-telemetry-home-section = Giriş
 about-telemetry-general-data-section = Genel Veriler
 about-telemetry-environment-data-section = Ortam Verileri
 about-telemetry-session-info-section = Oturum Bilgisi

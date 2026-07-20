@@ -55,7 +55,7 @@ autofill-address-given-name = Ad
 autofill-address-additional-name = İkinci ad
 autofill-address-family-name = Soyadı
 autofill-address-name = Ad
-autofill-address-organization = Şirket
+autofill-address-organization = Kurum
 autofill-address-street-address = Sokak adresi
 autofill-address-street = Sokak adresi
 

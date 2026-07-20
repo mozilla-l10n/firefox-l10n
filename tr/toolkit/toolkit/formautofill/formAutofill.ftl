@@ -78,7 +78,7 @@ autofill-phishing-warningmessage = { $categories } alanını otomatik doldurur
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = adres
 autofill-category-name = ad
-autofill-category-organization = şirket
+autofill-category-organization = kurum
 autofill-category-tel = telefon
 autofill-category-email = e-posta
 # This string is used in drop down suggestion when users try to autofill credit

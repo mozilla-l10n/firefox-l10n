@@ -68,11 +68,19 @@ smartbar-placeholder-hint-4 = Prohledat web…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Označit panel nebo stránku
 smartbar-mentions-list-no-results-label = Nenalezeny žádné výsledky
 smartbar-mentions-list-recent-tabs-label = Nedávné panely
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Přidat panel nebo stránku
+    .tooltiptext = Přidá panel nebo stránku
+
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Označit panel nebo stránku
 aiwindow-website-chip-history-deleted = Historie byla smazána
 aiwindow-website-chip-remove-button =
     .aria-label = Odebrat
@@ -84,10 +92,26 @@ aiwindow-firstrun-model-title = Co je pro vás důležité?
 aiwindow-firstrun-model-title-v2 = Vyberte si model, se kterým chcete začít
 aiwindow-firstrun-model-subtitle = Vyberte si model pro funkci { -smart-window-brand-name }. Změnit ho můžete kdykoliv.
 aiwindow-firstrun-model-fast-label = Rychlý
+aiwindow-firstrun-model-fast-body = Rychlé odpovědi
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rychlý: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Ideální pro rychlé odpovědi, když jste v pohybu
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Model { $model } od { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flexibilní
+aiwindow-firstrun-model-allpurpose-body = Vhodný pro většinu úkonů
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexibilní: { $shortName }
 aiwindow-firstrun-model-flexible-body = Připraven na různé úkoly
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Doporučené
+aiwindow-firstrun-model-personal-label = Osobní
+aiwindow-firstrun-model-personal-body = Nejpřesnější odpovědi
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Osobní: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Vytvořeno pro personalizovanou pomoc v různých jazycích
 aiwindow-firstrun-button = Začít
 aiwindow-firstrun-back-button = Zpět
 aiwindow-firstrun-next-button = Další
@@ -96,12 +120,14 @@ aiwindow-firstrun-next-button = Další
 
 aiwindow-input-model-select-button-label-fast = Rychlý
 aiwindow-input-model-select-button-label-allpurpose = Flexibilní
+aiwindow-input-model-select-button-label-personal = Osobní
 aiwindow-input-model-select-button-label-custom = Vlastní
 aiwindow-input-model-select-button-description-custom = Použít vlastní LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Použít vlastní LLM
 aiwindow-input-model-select-default-badge =
     .label = Výchozí
     .title = Vybraný výchozí model
@@ -109,6 +135,7 @@ aiwindow-input-model-select-settings-link = Nastavení modelu
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-conversation-title = Udržujte konverzaci v chodu
 aiwindow-firstrun-memories-privacy-title = Soukromí již od návrhu
 
 ## Ask Toolbar Button

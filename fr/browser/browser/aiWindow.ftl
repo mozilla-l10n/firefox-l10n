@@ -45,8 +45,8 @@ ai-window-toggleview-open-private =
 ai-window-toggleview-status-label-active = { -smart-window-brand-name(form: "upper-singular") }
 ai-window-toggleview-status-label-inactive = Fenêtre classique
 toolbar-switcher-customizable-label =
-    .label = { -smart-window-brand-name } Sélecteur
-    .tooltiptext = Basculer entre les fenêtres intelligente et classique.
+    .label = Sélecteur de { -smart-window-brand-name(form: "lower-singular") }
+    .tooltiptext = Basculer entre une { -smart-window-brand-name(form: "lower-singular") } et classique.
 
 ## Input CTA
 

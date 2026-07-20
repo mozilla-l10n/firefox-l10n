@@ -36,7 +36,7 @@ profiles-cannot-set-as-default-title = Varsayılan olarak ayarlanamadı
 profiles-cannot-set-as-default-message = Varsayılan { -brand-short-name } profili değiştirilemedi.
 profiles-yes = evet
 profiles-no = hayır
-profiles-rename-profile-title = Profilin adını değiştir
+profiles-rename-profile-title = Profil adını değiştir
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = { $name } profilinin adını değiştir
