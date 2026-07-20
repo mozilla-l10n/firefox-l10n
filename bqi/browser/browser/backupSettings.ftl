@@ -49,6 +49,12 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = داده یل خوتووݩ ن وورگنین
+    .description = داده یل { -brand-product-name } خوتووݩ ن ز کرت دیندایی ک لادراری گرؽڌه وابی، وورگنین.
+settings-data-backup-restore-scheduled-off =
+    .label = داده یل خوتووݩ ن وورگنین
+    .description = سی وورگندن دووسمندیا خوتووݩ ز ی نوسخه لادرار { -brand-product-name }، ی دسگا دیر ن و کار بوورین.
 
 ##
 
