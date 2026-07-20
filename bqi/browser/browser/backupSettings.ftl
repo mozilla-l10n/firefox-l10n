@@ -128,6 +128,12 @@ restore-from-backup-restoring-button = هونی اوورگنه…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = رزم زبال نؽ. <a data-l10n-name="incorrect-password-support-link">هنی موشکل دارین؟</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = ای فایل کار نؽکونه
+    .message = موشکلؽ من فایل لادرار ایسا هڌ. فایل دیری ن پسند کۊنین وو دووارته امتهووݩ کۊنین.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
