@@ -190,12 +190,17 @@ newtab-privacy-message-info-13-cta = Ikusi babesak
 
 newtab-privacy-message-promo-monitor-1-cta = Argibide gehiago
 newtab-privacy-message-promo-monitor-2-cta = Argibide gehiago
+newtab-privacy-message-promo-vpn-2-cta = Ireki VPNa
+newtab-privacy-message-promo-vpn-3-cta = Ireki VPNa
+newtab-privacy-message-promo-private-window-1-cta = Ireki leiho pribatua
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = Ikusi babesak
+newtab-privacy-message-milestone-month-cta = Ikusi babesak
 newtab-privacy-message-milestone-year-cta = Ikusi babesak
 newtab-privacy-message-milestone-total-cta = Ikusi babesak
 newtab-privacy-message-daily-cap-cta = Ikusi babesak

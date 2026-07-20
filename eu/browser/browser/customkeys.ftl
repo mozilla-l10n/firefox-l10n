@@ -91,3 +91,19 @@ customkeys-conflict-confirm-body = Konbinazio hau "{ $conflict }" lasterbideak d
 customkeys-conflict-confirm-button-confirm = Erabili halere
 customkeys-conflict-confirm-button-cancel = Utzi
 customkeys-reset-all-confirm-title = Berrezarri lehenetsiak?
+customkeys-reset-all-confirm-body = Sortutako teklatuaren lasterbide pertsonalizatu guztiak kendu egingo dira.
+customkeys-reset-all-confirm-button-confirm = Berrezarri lehenetsiak
+customkeys-reset-all-confirm-button-cancel = Utzi
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Alboko barra
+customkeys-title-heading =
+    .heading = Teklatuaren lasterbideak
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Bilatu lasterbideak
+    .placeholder = Bilatu lasterbideak
+customkeys-support-link-text = Argibide gehiago
+customkeys-reset-all-button = Berrezarri lehenetsiak
