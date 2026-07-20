@@ -57,7 +57,7 @@ ipprotection-feature-introduction-button-get-started = Démarrer
 ## Unlimited bandwidth summer promotion offramp callouts
 
 # Generic summer promo offramp message
-ipprotection-summer-promo-offramp-generic-title = Les limites du VPN intégré ont été réinitialisées le 1er septembre
+ipprotection-summer-promo-offramp-generic-title = Les limites du VPN intégré seront réinitialisées le 1er septembre
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description = Utilisez vos { $maxUsage } Go et 6 localisations pour plus de confidentialité afin de rendre plus difficile la navigation jusqu’à vous.
