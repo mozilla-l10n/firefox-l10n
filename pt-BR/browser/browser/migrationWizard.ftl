@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Concluído
 migration-safari-password-import-header = Importar senhas do Safari
+migration-safari-password-import-post-sequoia-step1 = Abra o <a data-l10n-name="macos-passwords-app">aplicativo Senhas</a> no seu Mac
+migration-safari-password-import-post-sequoia-step2 = Na barra de menu no alto da tela, escolha Arquivo > Exportar todas as senhas para arquivo…
 migration-safari-password-import-post-sequoia-step3 = Salve o arquivo
 migration-safari-password-import-post-sequoia-step4 = Selecione o arquivo que você salvou
 migration-safari-password-import-steps-header = Para importar senhas do Safari:

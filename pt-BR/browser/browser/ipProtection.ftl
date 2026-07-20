@@ -75,6 +75,10 @@ ipprotection-summer-promo-offramp-subscriber-description = Agora, como assinante
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Mantenha seus locais extras de VPN integrada
 ipprotection-summer-promo-offramp-default-browser-incentive-description = Torne o { -brand-product-name } seu navegador padrão e tenha mais de 20 locais extras de onde navegar após 31 de agosto.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Aumente sua proteção com o { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Mantenha dados ilimitados após 31 de agosto, com mais de 300 locais em 5 dispositivos para tornar sua navegação mais difícil de rastrear.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Definir como padrão
@@ -180,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Verifique sua conexão co
 ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
 ipprotection-connection-status-blocked-error-title-1 = A VPN não está disponível.
     .aria-label = A VPN não está disponível.
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Leis e restrições locais limitam onde você pode usar VPN. <a data-l10n-name="learn-more-link">Saiba mais</a>
 ipprotection-connection-status-blocked-error-description = A legislação local nos impede de fornecer o serviço de VPN nesta região. <a data-l10n-name="learn-more-link">Saiba mais</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
