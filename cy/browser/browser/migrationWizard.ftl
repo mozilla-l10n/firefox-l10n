@@ -203,6 +203,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Cwblhawyd
 migration-safari-password-import-header = Mewnforio Cyfrineiriau o Safari
+migration-safari-password-import-post-sequoia-step1 = Agorwch <a data-l10n-name="macos-passwords-app">ap Cyfrineiriau</a> ar eich Mac
+migration-safari-password-import-post-sequoia-step2 = O'r bar dewislen ar frig y sgrin, dewiswch Ffeil > Allforio Pob Cyfrinair i Ffeil ...
+migration-safari-password-import-post-sequoia-step3 = Cadw'r ffeil
+migration-safari-password-import-post-sequoia-step4 = Dewiswch y ffeil rydych wedi'i chadw
 migration-safari-password-import-steps-header = I fewnforio cyfrineiriau Safari:
 migration-safari-password-import-step1 = Yn Safari, agorwch ddewislen “Safari” ac ewch i Preferences > Passwords
 migration-safari-password-import-step2 = Dewiswch y botwm <img data-l10n-name="safari-icon-3dots"/> a dewis “Export All Passwords”
@@ -215,6 +219,7 @@ migration-chrome-windows-password-import-step2 = Dewiswch "Settings" o'r ddewisl
 migration-chrome-windows-password-import-step3 = Dewiswch “Download file” a'i gadw ar eich dyfais.
 migration-chrome-windows-password-import-step4 = Dychwelwch yma a "Dewis Ffeil" i orffen mewnforio.
 migration-manual-password-import-skip-button = Hepgor
+migration-manual-password-import-cancel-button = Diddymu
 migration-manual-password-import-select-button = Dewis Ffeil
 migration-safari-password-import-skip-button = Hepgor
 migration-safari-password-import-select-button = Dewis Ffeil

@@ -60,11 +60,11 @@ ipprotection-feature-introduction-button-get-started = Cychwyn arni
 ipprotection-summer-promo-offramp-generic-title = Mae eich terfynau VPN cynhenid yn ailosod ar 1 Medi
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description = Defnyddiwch eich { $maxUsage } GB a 6 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach olrhain eich pori yn ôl atoch chi.
+ipprotection-summer-promo-offramp-generic-description = Defnyddiwch eich { $maxUsage } GB a 6 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach tracio eich pori yn ôl atoch chi.
 # Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Defnyddiwch eich { $maxUsage } GB a 20 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach olrhain eich pori yn ôl atoch chi.
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Defnyddiwch eich { $maxUsage } GB a 20 lleoliad ar gyfer preifatrwydd ychwanegol i'w gwneud yn anoddach tracio eich pori yn ôl atoch chi.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
@@ -74,8 +74,14 @@ ipprotection-summer-promo-offramp-subscriber-description = Rydych nawr yn cael l
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Cadwch eich lleoliadau VPN cynhenid ychwanegol
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Gwnewch { -brand-product-name } eich porwr arferol a chael mwy nag 20 o leoedd ychwanegol i bori ohonyn nhw ar ôl Awst 31.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Manteision ychwanegol gyda { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Cadwch led band diderfyn ar ôl Awst 31, gyda mwy na 300 o leoliadau ar 5 dyfais i'w gwneud yn anoddach tracio eich pori yn ôl atoch chi.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Agor y VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Gosod fel yr arferol
 ipprotection-summer-promo-offramp-get-subscription-button = Cael { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Cau
 
@@ -178,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Gwiriwch eich cysylltiad 
 ipprotection-connection-status-network-error-description = Cysylltwch â'r rhyngrwyd, yna ceisio troi'r VPN ymlaen.
 ipprotection-connection-status-blocked-error-title-1 = Dyw VPN ddim ar gael
     .aria-label = Dyw VPN ddim ar gael
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Mae cyfreithiau a chyfyngiadau lleol yn cyfyngu lle gallwch chi ddefnyddio VPN. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
 ipprotection-connection-status-blocked-error-description = Mae cyfreithiau lleol yn ein hatal rhag darparu gwasanaeth VPN yn y rhanbarth hwn. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
