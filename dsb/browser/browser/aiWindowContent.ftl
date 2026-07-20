@@ -21,6 +21,9 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Něco njejo se raźiło. Pšosym wopytajśo hyšći raz.
 smartwindow-assistant-error-budget-header = Sćo dojśpił źinsajšny limit chata.
 smartwindow-assistant-error-account-header = Aby { -smart-window-brand-name } wužywał, musyśo se pśizjawiś.
+smartwindow-assistant-error-many-requests-header = Pšosym cakajśo wokognuśe a wopytajśo hyšći raz. Pśewjele powěsćow jo se pósłało w krotkem casu.
+smartwindow-assistant-error-max-length-header = Jo cas, nowy chat zachopiś. Toś ten jo dojśpił swój limit dłujkosći.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } njejo mógł serwer dojśpiś. Wopytajśo drugu seś abo znjemóžniśo swój VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Serwerowa zmólka (HTTP { $status }). Wopytajśo pšosym hyšći raz.
@@ -53,6 +56,8 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Negatiwne měnjenje źěliś
     .tooltiptext = Negatiwne měnjenje źěliś
+aiwindow-applied-memories-popover =
+    .aria-label = Wobceŕk dopomnjeśow
 aiwindow-applied-memories-list =
     .aria-label = Dopomnjeśa
 # Variables:
@@ -145,6 +150,15 @@ smart-window-grouped-tabs-summary =
 smart-window-grouped-tabs-row-label = Zrědowane rejtariki
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zrědowanje rejtarikow wótpórane
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } rejtarik jo se zrědował, pótom ako kupka wótpórał.
+        [two] { $count } rejtarika stej se zrědowałej, pótom ako kupka wótpórałej.
+        [few] { $count } rejtariki su se zrědowali, pótom ako kupka wótpórali.
+       *[other] { $count } rejtarikow jo se zrědowało, pótom ako kupka wótpórało.
+    }
 smart-window-ungrouped-row-label =
     { $count ->
         [one] { $count } rejtarik njezrědowany

@@ -310,12 +310,19 @@ aiwindow-feedback-add-details = Pśidajśo drobnostki, jolic cośo. Žedne wóso
 aiwindow-feedback-submit = Wótpósłaś
 aiwindow-feedback-cancel = Pśetergnuś
 aiwindow-feedback-reason-incorrect-or-misleading = Wopacny abo torjecy
+aiwindow-feedback-reason-doesnt-address-my-request = Njewótpowědujo mójomu napšašowanjeju
 aiwindow-feedback-reason-lacks-personalization = Personalizacija abo kontekst felujo
 aiwindow-feedback-reason-performance-or-usability = Problem z wugbaśim abo wužywajobnosću
 aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepśistojny
 aiwindow-feedback-reason-other = Druge
 aiwindow-feedback-preview-report = Chatowe drobnostki pokazaś
 aiwindow-feedback-preview-report-with-page = Drobnostki chata a boka pokazaś
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Modus pśešaltowaś: Lisćinowy naglěd
+    .tooltiptext = Lisćinowy naglěd
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.

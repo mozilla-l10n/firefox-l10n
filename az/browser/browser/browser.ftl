@@ -69,6 +69,10 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Daha az yazın, daha çox tapın: Birbaşa ünvan sətrinizdən { $engineName } ilə axtarış edin.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Əlfəcinlər
+
 ##
 
 urlbar-geolocation-blocked =
@@ -136,15 +140,30 @@ search-one-offs-context-set-as-default-private =
 search-one-offs-add-engine-menu =
     .label = Axtarış mühərriki əlavə et
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Əlfəcinlər ({ $restrict })
+
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action. English commas should be used, i.e. ,
 
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Əlfəcinləri idarə et
+quickactions-cmd-bookmarks = əlfəcinlər
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Əlfəcin əlavə et
+bookmarks-edit-bookmark = Əlfəcini düzəlt
 bookmark-panel-cancel =
     .label = Ləğv et
     .accesskey = C
@@ -208,6 +227,12 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Qapat
 
+## Bookmarks toolbar items
+
+browser-import-button2 =
+    .label = Əlfəcinləri idxal et…
+    .tooltiptext = Əlfəcinləri başqa brauzerdən { -brand-short-name } proqramına idxal edin.
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr paylaşılacaq.
@@ -221,6 +246,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ünvanı daxil et və ya axtar
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .aria-label = Əlfəcinlərdə axtar
+    .placeholder = Axtarış elementlərini daxil edin
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -259,6 +288,8 @@ urlbar-result-action-visit = Ziyarət et
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Əlfəcinlər
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Axtarış Tənzimləmələri
 urlbar-searchmode-popup-search-settings = Axtarış Tənzimləmələri
@@ -267,6 +298,12 @@ urlbar-searchmode-popup-settings = Tənzimləmələr
     .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = Axtarış Tənzimləmələri
 urlbar-searchmode-popup-settings-panelitem = Tənzimləmələr
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Əlfəcinlərdə Axtar
 
 ## Reader View toolbar buttons
 
@@ -295,6 +332,9 @@ pointerlock-warning-no-domain = Bu sənəd kursorunuzu idarə edir. İdarəni ge
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Əlfəcinləri idarə et
+bookmarks-recent-bookmarks-panel-subheader = Son əlfəcinlər
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha çox əlfəcin göstər
 bookmarks-sidebar-content =

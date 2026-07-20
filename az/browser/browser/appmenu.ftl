@@ -51,6 +51,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-unverified = Hesabınız təsdiqlənməlidir.
 appmenuitem-save-page =
     .label = Fərqli saxla…
+appmenuitem-fxa-sync-off-description = Əlfəcinləriniz, parollarınız və daha çoxunu qoruyun və onlara istənilən yerdən daxil olun.
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -101,3 +102,7 @@ appmenu-help-not-deceptive =
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header3 = Məxfilik alətləri
+
+## Profiles panel
+
+fxa-menu-create-profile-description = Əlfəcinləriniz, parollarınız və tarixçənizi iş və fərdi səyahət üçün ayrı tutun.
