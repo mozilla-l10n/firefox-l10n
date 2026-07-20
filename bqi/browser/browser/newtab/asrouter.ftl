@@ -153,6 +153,7 @@ colorways-cfr-primarybutton = پسند رنگ بندی
 
 cfr-cbh-dismiss-button = سکو ن
     .accesskey = N
+cookie-banner-blocker-onboarding-body = هواس پردی کم تر، رڌجۊری کۊکیا کم تری من ای وبگه.
 cookie-banner-blocker-onboarding-learn-more = قلوه دووسته بۊین
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -200,6 +201,14 @@ launch-on-login-infobar-reject-button = سکو ن
 launch-on-login-infobar-final-reject-button = ن ممنووݩ
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = دیسنیڌن و تسکبار
+launch-on-login-spotlight-primary-button = زفت کردن وو بستن { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = سکو ن
@@ -227,6 +236,7 @@ fxa-menu-message-sign-up-button = سبت نوم
 fxa-menu-message-sign-in-button = و من ٱووڌن
 fxa-menu-message-sync-button = ناهاڌن پا هوم گوم کردن
 fxa-menu-message-sync-devices-primary-text = هوم گوم کردن پوی دسگایل خوتووݩ
+fxa-menu-message-sync-devices-collapsed-text = هوم گوم کردن پوی دسگایل خوتووݩ
 
 ## Multi-CTA Fox Doodle Spotlight
 

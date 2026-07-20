@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = و من ٱووردن داده یل گشت گر
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -171,6 +172,7 @@ migration-safari-password-import-steps-header = سی و من ٱووردن رزم
 migration-chrome-windows-password-import-steps-header = من کروم:
 migration-chrome-windows-password-import-step2 = ز نومگه، گۊزینه ”سامووا” ن پسند کۊنین.
 migration-manual-password-import-skip-button = گوم زیڌن
+migration-manual-password-import-cancel-button = لقو
 migration-manual-password-import-select-button = پسند فایل
 migration-safari-password-import-skip-button = گوم زیڌن
 migration-safari-password-import-select-button = پسند فایل
