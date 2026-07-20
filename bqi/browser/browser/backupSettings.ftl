@@ -31,7 +31,7 @@ settings-data-backup-trigger-button = هیم سکو لادراری بگر
 settings-data-backup-in-progress-button = لادراری گرؽڌن هونی ٱنجوم ابۊ…
 settings-data-backup-in-progress-message =
     .message = لادراری گرؽڌن هونی ٱنجوم ابۊ…
-settings-data-backup-last-backup-date = لادراری گرؽڌن دیندایی: { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
+settings-data-backup-last-backup-date = لادراری گرؽڌن دیندایی: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = لادراری گرؽڌن رۊشن هڌ
 settings-data-backup-scheduled-backups-off2 =
@@ -41,6 +41,11 @@ settings-data-backup-last-backup-location2 =
     .label = جاگه لادراری گرؽڌن
 settings-data-backup-last-backup-location-show-in-folder = نشووݩ داڌن من دوبلگه
 settings-data-backup-last-backup-location-edit = آلشت…
+settings-data-create-backup-error = ختایی من وورکل نوسخه لادرار ایسا من ویرگار { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } پؽش ٱووڌه.
+settings-sensitive-data-encryption-description = ز رزما وو بارتا پرداخت خوتووݩ نوسخه لادرار بگرین، ب علاوه پوی داده یل خوتووݩ ن وا رزم ناهاڌن ایمن واڌارنین.
+settings-data-toggle-encryption-label2 =
+    .label = ز داده یل هساس خوتووݩ نوسخه لادرار بگرین
+    .description = ز رزما وو بارتا پرداخت خوتووݩ نوسخه لادرار بگرین، ب علاوه پوی داده یل خوتووݩ ن وا رزم ناهاڌن ایمن واڌارنین.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
