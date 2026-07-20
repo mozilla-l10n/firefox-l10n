@@ -1181,7 +1181,7 @@ newtab-sports-widget-third-place = Tredjeplads
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Andenplads
 newtab-sports-widget-champions = Mestre
-newtab-sports-widget-world-cup-champions = VM-mestre i 2026
+newtab-sports-widget-world-cup-champions = Verdensmestre i 2026
 # Compact champions label for the medium-size widget result card; the larger
 # card uses newtab-sports-widget-world-cup-champions.
 newtab-sports-widget-world-cup-champions-short = Mestre i 2026
