@@ -105,6 +105,9 @@ turn-off-scheduled-backups-confirm-button = Matikan dan padam sandaran
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Pulihkan data anda
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Apa yang akan dipulihkan?
 restore-from-backup-filepicker-label = Fail sandaran
 restore-from-backup-filepicker-title = Pilih Fail Sandaran:
 restore-from-backup-file-choose-button =
@@ -112,3 +115,92 @@ restore-from-backup-file-choose-button =
         [macos] Pilih…
        *[other] Layari…
     }
+restore-from-backup-password-label = Kata laluan
+restore-from-backup-password-description = Ini membuka kunci sandaran tersulit anda.
+restore-from-backup-cancel-button = Batal
+restore-from-backup-confirm-button = Pulihkan dan mulakan semula
+restore-from-backup-restoring-button = Memulihkan...
+restore-from-backup-type-group-label =
+    .label = Ganti profil semasa?
+restore-from-backup-type-replace =
+    .label = Ganti semua data dengan sandaran ini
+restore-from-backup-type-add =
+    .label = Kekalkan data dan cipta profil baharu
+restore-from-backup-profiles-disabled-message = Ini akan menggantikan semua data { -brand-short-name } semasa anda dengan sandaran anda.
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Kata laluan tidak betul. <a data-l10n-name="incorrect-password-support-link">Masih ada masalah?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Fail ini tidak berfungsi
+    .message = Terdapat masalah dengan fail sandaran anda. Pilih fail lain dan cuba lagi.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Fail ini tidak berfungsi
+    .message = Fail yang anda pilih tidak serasi dengan versi { -brand-short-name } ini. Pilih fail lain dan cuba lagi.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Fail ini tidak berfungsi
+    .message = Fail yang anda pilih tidak dicipta oleh { -brand-short-name }. Pilih fail lain dan cuba lagi.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } tidak dapat memulihkan
+    .message = Mulakan semula { -brand-short-name } dan cuba pulihkan sandaran anda sekali lagi.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, terdapat masalah semasa menyandarkan.
+    .message = Cuba lagi dalam beberapa minit.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Sandarkan data sensitif anda
+enable-backup-encryption-support-link = Ketahui lebih lanjut
+enable-backup-encryption-create-password-label = Kata laluan
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Ulang kata laluan
+enable-backup-encryption-cancel-button = Batal
+enable-backup-encryption-confirm-button = Simpan
+change-backup-encryption-header = Tukar kata laluan sandaran
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Keperluan kata laluan
+password-rules-length-description = Sekurang-kurangnya 8 aksara
+password-rules-email-description = Bukan alamat e-mel anda
+password-rules-disclaimer = Kekal selamat — jangan guna semula kata laluan. Lihat lagi tip untuk <a data-l10n-name="password-support-link">mencipta kata laluan yang kukuh</a>.
+password-validity-has-email = Tidak boleh jadi alamat e-mel
+password-validity-do-not-match = Kata laluan tidak sepadan
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Berjaya
+password-rules-a11y-warning =
+    .alt = Amaran
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Buang perlindungan kata laluan
+disable-backup-encryption-description2 = Kata laluan dan kaedah pembayaran yang disimpan juga tidak akan disandarkan lagi.
+disable-backup-encryption-support-link = Apa yang akan disandarkan?
+disable-backup-encryption-cancel-button = Batal
+disable-backup-encryption-confirm-button = Buang kata laluan
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Kata laluan anda tidak memenuhi keperluan. Sila cuba kata laluan lain.
