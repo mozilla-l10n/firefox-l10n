@@ -1419,7 +1419,7 @@ newtab-sports-widget-champions = Kampioen
 newtab-sports-widget-world-cup-champions = Wrâldkampioen 2026
 # Compact champions label for the medium-size widget result card; the larger
 # card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Kampioenen fan 2026
+newtab-sports-widget-world-cup-champions-short = Kampioen fan 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }

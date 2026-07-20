@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Sil
+edit-profile-page-avatar-selector-opener-button =
+    .title = Avatarı düzenle
 edit-profile-page-avatar-selector-opener-link = Düzenle
 avatar-selector-icon-tab = Simge
 avatar-selector-custom-tab = Özel
@@ -95,6 +97,9 @@ delete-profile-logins = Parolalar
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = “{ $profilename }” profilini sil
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = “{ $profilename }” profili silinsin mi?
 
 ##
 

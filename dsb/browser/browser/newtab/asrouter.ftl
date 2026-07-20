@@ -504,3 +504,6 @@ nova-early-access-infobar-primary-button = Som zrozměł
 ## App Exit Spotlight dialog
 
 app-exit-spotlight-title = { -brand-short-name } kuždy raz startowaś, gaž se pla Windowa pśizjawjaśo?
+app-exit-spotlight-checkbox-launch-on-login = Pśi startowanju { -brand-short-name } wócyniś
+app-exit-spotlight-checkbox-pin-to-taskbar = K wašej nadawkowej rědce pśipěś
+app-exit-spotlight-primary-button = { -brand-short-name } składowaś a zacyniś

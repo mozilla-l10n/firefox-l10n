@@ -164,6 +164,9 @@ pdfjs-digital-signature-properties-view-certificate = Sertifikayı göster
 #                      could not be verified.
 pdfjs-digital-signature-properties-reason = Neden: { $reason }
 # Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = Zaman damgası: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
 #   $count (Number) - number of nested sub-signatures (one per earlier
 #                     incremental revision of the document).
 pdfjs-digital-signature-properties-sub-signatures =
@@ -766,6 +769,16 @@ pdfjs-digital-signature-properties-button-label = Dijital imza özellikleri
 ##   $count (Number) - number of signatures at the worst level.
 
 pdfjs-digital-signature-properties-banner-verified = Belge geçerli bir dijital imza ile imzalanmıştır
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Belge imzalanmış ancak { $count } dijital imza doğrulanamadı
+       *[other] Belge imzalanmış ancak { $count } dijital imza doğrulanamadı
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] Belge, güvenilmeyen { $count } sertifikayla imzalanmış
+       *[other] Belge, güvenilmeyen { $count } sertifikayla imzalanmış
+    }
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be

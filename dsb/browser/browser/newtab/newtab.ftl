@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Priwatnosć
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Kśicawka
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Akcije
@@ -213,15 +216,23 @@ newtab-privacy-message-info-1 = { -brand-short-name } pśeslědowaki awtomatiski
 newtab-privacy-message-info-1-cta = Šćity pokazaś
 newtab-privacy-message-info-2-cta = Šćity pokazaś
 newtab-privacy-message-info-3-cta = Šćity pokazaś
+newtab-privacy-message-info-4 = Gaž { -brand-short-name } wuběraśo, to groni, až pó standarźe šćit wuběraśo.
 newtab-privacy-message-info-4-cta = Šćity pokazaś
+newtab-privacy-message-info-5 = Blokěrowane pśeslědowaki gronje, až mjenjej pśedewześow móžo was pó sedłach slědowaś.
 newtab-privacy-message-info-5-cta = Šćity pokazaś
+newtab-privacy-message-info-6 = Wobchowajśo swóje daty z { -brand-short-name }. Njepśedawamy je nigda, ale druge wobglědowaki to snaź cynje.
 newtab-privacy-message-info-6-cta = Dalšne informacije
 newtab-privacy-message-info-7 = Glědajśo, kótare pśeslědowaki { -brand-short-name } jo blokěrował.
 newtab-privacy-message-info-7-cta = Šćity pokazaś
+newtab-privacy-message-info-8 = Pśeglědowanje z { -brand-short-name } misiju { -vendor-short-name } pódpěra, lěpšy web napóraś.
 newtab-privacy-message-info-8-cta = Dalšne informacije
+newtab-privacy-message-info-9 = Cyńśo { -brand-short-name } k swójomu standardnemu wobglědowakoju za zatwarjonu priwatnosć.
 newtab-privacy-message-info-9-cta = K standardoju cyniś
+newtab-privacy-message-info-10 = Składujśo gronidła w { -brand-short-name }, aby wšuźi mócne, jadnorazowe pśizjawjenja wužywał.
 newtab-privacy-message-info-10-cta = Ku gronidłam
+newtab-privacy-message-info-11 = Wuslěźćo, kak { -brand-short-name } pomaga, waše pśeglědowanje priwatnjejše źaržaś.
 newtab-privacy-message-info-11-cta = Dalšne informacije
+newtab-privacy-message-info-12 = Blokěrowanje pśeslědowakow móžo pomagaś, šyrokosć pasma za plany z wobgranicowaneju tšochu datow zažariś.
 newtab-privacy-message-info-12-cta = Šćity pokazaś
 newtab-privacy-message-info-13-cta = Šćity pokazaś
 

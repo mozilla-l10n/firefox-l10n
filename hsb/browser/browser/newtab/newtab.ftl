@@ -218,7 +218,7 @@ newtab-privacy-message-info-2-cta = Škity pokazać
 newtab-privacy-message-info-3-cta = Škity pokazać
 newtab-privacy-message-info-4 = Hdyž { -brand-short-name } wuběraće, to rěka, zo po standardźe škit wuběraće.
 newtab-privacy-message-info-4-cta = Škity pokazać
-newtab-privacy-message-info-5 = Zablokowane přesćěhowaki rěka, zo mjenje předewzaćow móže was po sydłach slědować.
+newtab-privacy-message-info-5 = Zablokowane přesćěhowaki rěkaja, zo mjenje předewzaćow móže was po sydłach slědować.
 newtab-privacy-message-info-5-cta = Škity pokazać
 newtab-privacy-message-info-6 = Wobchowajće swoje daty z { -brand-short-name }. Njepředawamy je ženje, ale druhe wobhladowaki to snano činja.
 newtab-privacy-message-info-6-cta = Dalše informacije
@@ -232,7 +232,7 @@ newtab-privacy-message-info-10 = Składujće hesła w { -brand-short-name }, zo 
 newtab-privacy-message-info-10-cta = K hesłam
 newtab-privacy-message-info-11 = Wuslědźće, kak { -brand-short-name } pomha, waše přehladowanje priwatniše dźeržeć.
 newtab-privacy-message-info-11-cta = Dalše informacije
-newtab-privacy-message-info-12 = Blokowanje přesćěhowakow móže pomhać, šěrokosć pasma za plany z wobmjezowanymi mnóstwom datow zalutować.
+newtab-privacy-message-info-12 = Blokowanje přesćěhowakow móže pomhać, šěrokosć pasma za plany z wobmjezowanym mnóstwom datow zalutować.
 newtab-privacy-message-info-12-cta = Škity pokazać
 newtab-privacy-message-info-13-cta = Škity pokazać
 
