@@ -2364,7 +2364,7 @@ httpsonly-label2 =
 preferences-doh-header = HTTPS üzerinden DNS
 dns-over-https-group2 =
     .label = HTTPS üzerinden DNS
-    .description = HTTPS Üzerinden Alan Adı Sistemi (DoH), alan adı isteklerinizi şifreler. Böylece internet servis sağlayıcınızın ve diğer kişilerin hangi sitelere girdiğinizi görmesi zorlaştır.
+    .description = HTTPS Üzerinden Alan Adı Sistemi (DoH), site sorgularını şifreleyerek internet sağlayıcınızın ve başkalarının hangi siteleri ziyaret edeceğinizi görmesini zorlaştırır.
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:

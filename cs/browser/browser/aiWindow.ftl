@@ -136,7 +136,15 @@ aiwindow-input-model-select-settings-link = Nastavení modelu
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-conversation-title = Udržujte konverzaci v chodu
+aiwindow-firstrun-memories-conversation-body = Pokud se budete učit z konverzací, nebudete se muset tolik opakovat.
+aiwindow-firstrun-memories-relevance-title = Relevantnější odpovědi
 aiwindow-firstrun-memories-privacy-title = Soukromí již od návrhu
+aiwindow-firstrun-memories-update-settings = Změny můžete provést kdykoliv v nastavení.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Udělejte si z { -smart-window-brand-name(case: "acc") } svou první volbu
+aiwindow-firstrun-default-subtitle = Procházejte, vyhledávejte a ptejte se – vše na jednom místě. Soukromá a klasická okna si můžete otevřít kdykoli budete chtít.
 
 ## Ask Toolbar Button
 
@@ -247,6 +255,7 @@ aiwindow-feedback-reason-harmful-or-offensive = Škodlivé nebo urážlivé
 aiwindow-feedback-reason-other = Jiné
 aiwindow-feedback-preview-report = Zobrazit podrobnosti chatu
 aiwindow-feedback-preview-report-with-page = Zobrazí podrobnosti o chatu a stránce
+aiwindow-feedback-include-page-content = Sdílet stránky uvedené v tomto chatu
 
 ## Smart Window ai-chat-grid
 
@@ -263,4 +272,8 @@ aiwindow-starter-writing-first-draft = Napiš první koncept
 aiwindow-starter-writing-improve = Vylepši psaní
 aiwindow-starter-writing-proofread = Kontrola zprávy
 aiwindow-starter-planning-simplify = Zjednodušení tématu
+aiwindow-starter-planning-brainstorm = Vymysli nápady
+aiwindow-starter-planning-plan = Pomoz vytvořit plán
+aiwindow-starter-browsing-history = Vyhledej panely v historii
+aiwindow-starter-browsing-summarize = Vytvoř souhrn panelů
 aiwindow-starter-browsing-compare = Porovnání panelů

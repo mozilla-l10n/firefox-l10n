@@ -251,8 +251,8 @@ annotations-make-default-pdf-next-label = İleri
 
 fxa-sync-cfr-header = Yeni bir cihaza geçmeyi düşünüyor musunuz?
 fxa-sync-cfr-body = { -brand-product-name } tarayıcısını yüklediğiniz her yere yer imleriniz, parolalarınız ve sekmeleriniz de sizinle birlikte gelsin.
-fxa-sync-cfr-primary = Bilgi al
-    .accesskey = B
+fxa-sync-cfr-primary = Daha fazla bilgi al
+    .accesskey = b
 fxa-sync-cfr-secondary = Daha sonra hatırlat
     .accesskey = D
 
