@@ -245,5 +245,22 @@ backup-file-other-browser-restore-step-4 = ره وندن دووارته { -brand
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>نوکته:</b> { $numberOfOtherBackupsFound } فایل لادرار دیری جۊرست
+       *[other] <b>نوکته:</b> { $numberOfOtherBackupsFound } فایل لادرار دیری جۊرست
+    }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> وورکل وابیڌه من { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } من { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = وورگنیڌه وابیڌه ز { $deviceName } من { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } من { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-file-restore-file-validation-error = ای فایل کار نؽکونه. فایل دیری ن پسند کۊنین. <a data-l10n-name="restore-problems">هنی موشکل دارین؟</a>
 restore-from-backup-filepicker-input =
     .placeholder = فایلی پسند نوابیڌه

@@ -2,9 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] سی نشووݩ داڌن ویرگار، هو ن و بلم بکشین
+           *[other] سی نشووݩ داڌن ویرگار، کلیک راست کۊنین یا و بلم بکشین
+        }
 
 ## Back
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = وورگشتن و بلگه دیندایی ({ $shortcut })
+    .aria-label = وورگشتن
+    .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = وورگشتن
