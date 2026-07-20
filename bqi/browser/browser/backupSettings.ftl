@@ -195,6 +195,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = پاک کردن زفت وابیڌن وا رزم
+disable-backup-encryption-description2 = هومچیناکو ز رزما زفت وابیڌه وو بارتا پرداخت ایسا دی لادراری گرؽڌه نؽبۊ.
 disable-backup-encryption-support-link = ز چ چیایی لادراری گرؽڌه ابۊ؟
 disable-backup-encryption-cancel-button = لقو
 disable-backup-encryption-confirm-button = پاک کردن رزم
@@ -202,6 +203,7 @@ disable-backup-encryption-confirm-button = پاک کردن رزم
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = رزم ایسا شرتا شرتا لازوم ن نڌاره. رزم دیری ن امتهووݩ کۊنین.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -215,6 +217,7 @@ backup-error-retry = موشکلؽ پؽش ٱووڌه. دووارته امتهوو
 
 backup-file-header = { -brand-short-name } ٱماڌه وورگندن هڌ.
 backup-file-title = وورگندن { -brand-short-name }
+backup-file-intro = و گشتن وب وورگرتین وو پوی نشووکا، ویرگار وو پوی داده یل خوتووݩ ن وورگنین. <a data-l10n-name="backup-file-support-link">قلوه دووسته بۊین</a>
 backup-file-path-label = فایل لادراری:
 backup-file-encryption-state-label = رزم ناهاڌه وابیڌه:
 backup-file-encryption-state-value-encrypted = هری
@@ -225,9 +228,17 @@ backup-file-creation-date-label = وورکل وابیڌه:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = بارت وورگندن:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = نومگه برنومه ☰ ن بۊگۊشین وو و سامووا > هوم گوم کردن ریوین
+backup-file-moz-browser-restore-step-2-1 = ری «وورگندن دووسمندیا» کلیک کۊنین وو ای فایل ن پسند کۊنین
 backup-file-moz-browser-restore-step-3 = ره وندن دووارته { -brand-short-name } هر سا ک پۊرسی
 backup-file-other-browser-restore-step-1 = دانلود وو پۊرنیڌن { -brand-short-name }
 backup-file-download-moz-browser-button = دانلود
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = دستۊر { -brand-short-name } ن ره ونین، نومگه برنومه ☰ ن بۊگۊشین وو و سامووا > هوم گوم کردن ریوین.
+backup-file-other-browser-restore-step-3-1 = ری «وورگندن دووسمندیا» کلیک کۊنین وو ای فایل ن پسند کۊنین
 backup-file-other-browser-restore-step-4 = ره وندن دووارته { -brand-short-name } هر سا ک پۊرسی
 
 ## These strings are used in the about:restore and about:welcome pages
