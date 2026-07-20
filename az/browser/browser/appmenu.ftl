@@ -157,4 +157,10 @@ appmenu-other-protection-header3 = Məxfilik alətləri
 
 ## Profiles panel
 
+appmenu-other-profiles = Digər profillər
+appmenu-manage-profiles =
+    .label = Profilləri idarə et
 fxa-menu-create-profile-description = Əlfəcinləriniz, parollarınız və tarixçənizi iş və fərdi səyahət üçün ayrı tutun.
+appmenu-profiles-2 =
+    .label = Profillər
+appmenu-profiles-header = Profillər

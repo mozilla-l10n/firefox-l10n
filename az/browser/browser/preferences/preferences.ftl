@@ -353,6 +353,8 @@ home-new-windows-tabs-description2 = Ev səhifənizi, yeni pəncərə və vərə
 
 ## Home Section - Default Browser
 
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } sizin əsas səyyahınız deyil.
 set-as-my-default-browser-2 =
     .label = Əsas səyyahım et
     .accesskey = m
@@ -448,6 +450,9 @@ search-show-suggestions-above-history-option =
     .label = Ünvan Sətri nəticələrində axtarış təkliflərini səyahət tarixçəsindən əvvəl göstər
 search-suggestions-cant-show = { -brand-short-name } səyyahını tarixçəni xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.
 search-one-click-desc = Ünvan və axtarış sətrinə söz daxil etdiyinizdə gələn axtarış mühərriklərini seçin.
+search-one-click-header-3 =
+    .label = Əlavə axtarış mühərrikləri
+    .description = Ünvan sətrində hansı axtarış mühərrikləri və qısayollarının görünəcəyini seçin.
 search-choose-engine-column =
     .label = Axtarış Mühərriyi
 search-choose-keyword-column =
@@ -458,6 +463,9 @@ search-restore-default =
 search-remove-engine =
     .label = Sil
     .accesskey = S
+search-add-engine-2 =
+    .label = Axtarış mühərriyi əlavə et
+    .accesskey = A
 search-find-more-link = Daha çox axtarış mühərriyi tap
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
