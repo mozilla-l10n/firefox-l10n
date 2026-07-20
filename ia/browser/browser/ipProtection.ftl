@@ -185,7 +185,7 @@ ipprotection-connection-status-network-error-description = Connecte te a interne
 ipprotection-connection-status-blocked-error-title-1 = Le VPN es indisponibile
     .aria-label = Le VPN es indisponibile
 # "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
-ipprotection-connection-status-blocked-error-description-1 = Leges e limitationes local limita ubi tu pote usar le VPN. <a data-l10n-name="learn-more-link">Pro saper plus.
+ipprotection-connection-status-blocked-error-description-1 = Leges e limitationes local limita ubi tu pote usar le VPN. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 ipprotection-connection-status-blocked-error-description = Le leges local nos impedi de fornir servicio VPN in iste region. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
