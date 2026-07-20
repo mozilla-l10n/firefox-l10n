@@ -109,6 +109,40 @@ appmenu-remote-tabs-unverified = Sua conta precisa ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Entrar no { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerenciar conta
+fxa-menu-sync-status-on = Sincronização ativada
+fxa-menu-sync-status-off = Sincronização desativada
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Seus dados não estão sendo sincronizados
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Ativar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Entrar na conta para sincronizar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronizar { $deviceName } agora
+fxa-menu-manage-sync-settings =
+    .label = Gerenciar configurações de sincronização
+fxa-menu-add-device =
+    .label = Adicionar um dispositivo
+fxa-menu-manage-devices =
+    .label = Gerenciar dispositivos
+fxa-menu-device-missing =
+    .label = Seu dispositivo não aparece?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Todos os dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Todos os dispositivos
+fxa-menu-get-firefox-mobile =
+    .label = Obtenha o { -brand-product-name } para Android ou iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronização segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conta
 # Variables
@@ -336,9 +370,17 @@ appmenu-manage-profiles =
     .label = Gerenciar perfis
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Criar novo perfil
 appmenu-create-profile =
     .label = Novo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar este perfil
+appmenu-profile-current-in-use = Perfil atual em uso
+fxa-menu-create-profile-subpanel =
+    .title = Criar novo perfil
+fxa-menu-create-profile-heading = Melhore sua navegação com um novo perfil
 appmenu-profiles-2 =
     .label = Perfis

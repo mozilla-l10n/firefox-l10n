@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Abrir nova janela privativa
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Janela clássica
+toolbar-switcher-customizable-label =
+    .label = Seletor { -smart-window-brand-name }
+    .tooltiptext = Alternar entre janela inteligente e clássica.
 
 ## Input CTA
 
@@ -167,6 +170,12 @@ aiwindow-firstrun-default-checkbox-description = Mude nas configurações quando
 
 smartwindow-ask-button =
     .label = Fazer uma pergunta
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Agrupar abas
+    .tooltiptext = Agrupar abas
 
 ## Memories toggle button
 
