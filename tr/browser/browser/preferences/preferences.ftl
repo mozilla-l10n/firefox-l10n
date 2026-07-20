@@ -2175,7 +2175,7 @@ pane-permissions-data-title2 = İzinler ve veriler
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Veri Toplama ve Kullanma İzinleri
+collection-header = { -brand-short-name } veri toplama ve kullanma izinleri
 collection-header2 = { -brand-short-name } veri toplama ve kullanma izinleri
     .searchkeywords = telemetri
 preferences-collection-description = Size tercih hakkı sunmaya ve { -brand-product-name } tarayıcısını tüm kullanıcılarımız için iyileştirmemizi sağlayacak minimum miktarda veri toplamaya özen gösteriyoruz.
@@ -2390,7 +2390,7 @@ preferences-doh-setting-default =
     .label = Varsayılan koruma
     .accesskey = V
 preferences-doh-default-desc = Gizliliğinizi korumak için ne zaman güvenli DNS kullanılacağına { -brand-short-name } karar verir.
-preferences-doh-default-detailed-desc-1 = Güvenli DNS hizmetinin sunulduğu bölgelerde güvenli DNS kullanılır
+preferences-doh-default-detailed-desc-1 = Desteklenen bölgelerde güvenli DNS kullanılır
 preferences-doh-default-detailed-desc-2 = Güvenli DNS sağlayıcınızda sorun yaşanırsa varsayılan DNS çözümleyiciniz kullanılır
 preferences-doh-default-detailed-desc-3 = Mümkünse yerel bir sağlayıcı kullanılır
 preferences-doh-default-detailed-desc-4 = VPN, ebeveyn denetimleri veya kurumsal ilkeler etkinse güvenli DNS kapanır

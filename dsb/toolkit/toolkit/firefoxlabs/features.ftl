@@ -99,3 +99,6 @@ experimental-features-semantic-history-search-description = Wužywajśo lokalny 
 experimental-features-tab-notes =
     .label = Notice rejtarikow
 experimental-features-tab-notes-description = Notice rejtarikow su eksperimentelna funkcija, kótaraž wam zmóžnja, lěpěte notice wašym rejtarikam wobglědowaka pśidaś. Notěrujśo kontekst, dopomnjeśa abo pśiduce kšace, aby mógał se wrośiś a se spomnjeś, cogodla sćo jen wócynił. By se nad wašym měnjenim wjaselili, dokulaž comy toś tu funkciju pólěpšyś. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Optiměrowany meni rejtarikow

@@ -424,7 +424,7 @@ newtab-menu-open-new-window = Yeni pencerede aç
 newtab-menu-open-new-private-window = Yeni gizli pencerede aç
 newtab-menu-dismiss = Kapat
 newtab-menu-pin = Sabitle
-newtab-menu-unpin = Sabitleneni kaldır
+newtab-menu-unpin = Sabitlemeyi kaldır
 newtab-menu-delete-history = Geçmişten sil
 newtab-menu-save-to-pocket = { -pocket-brand-name }’a kaydet
 newtab-menu-delete-pocket = { -pocket-brand-name }’tan sil
@@ -556,7 +556,7 @@ newtab-empty-section-topstories-generic = Hepsini bitirdiniz. Yeni yazılar içi
 
 newtab-discovery-empty-section-topstories-header = Hepsini bitirdiniz!
 newtab-discovery-empty-section-topstories-content = Daha fazla yazı için daha sonra yine gelin.
-newtab-discovery-empty-section-topstories-try-again-button = Tekrar dene
+newtab-discovery-empty-section-topstories-try-again-button = Yeniden dene
 newtab-discovery-empty-section-topstories-loading = Yükleniyor…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hata! Bu bölüm tam olarak yüklenemedi.
@@ -914,7 +914,7 @@ newtab-section-follow-highlight-subtitle = Beğendiğiniz diğer içerikleri gö
 
 newtab-section-block-button = Engelle
 newtab-section-blocked-button = Engellendi
-newtab-section-unblock-button = Engeli kaldırın
+newtab-section-unblock-button = Engeli kaldır
 # Variables:
 #   $topic (string) - Name of topic that user is following
 newtab-section-follow-topic =

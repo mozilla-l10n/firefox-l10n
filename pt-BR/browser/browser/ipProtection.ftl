@@ -69,8 +69,15 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Sua VPN integrada ficou ainda melhor
+ipprotection-summer-promo-offramp-subscriber-description = Agora, como assinante do { -mozilla-vpn-brand-name }, você tem dados ilimitados e acesso a mais locais.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Mantenha seus locais extras de VPN integrada
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Torne o { -brand-product-name } seu navegador padrão e tenha mais de 20 locais extras de onde navegar após 31 de agosto.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Definir como padrão
 ipprotection-summer-promo-offramp-get-subscription-button = Obtenha o { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Descartar
 
