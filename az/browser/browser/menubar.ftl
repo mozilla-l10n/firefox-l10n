@@ -262,3 +262,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Bu aldadıcı sayt deyil…
     .accesskey = d
+menu-report-broken-site =
+    .label = İşləməyən Saytı Bildir

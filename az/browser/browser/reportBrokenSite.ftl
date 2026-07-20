@@ -2,3 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+report-broken-site-mainview-title = İşləməyən saytı bildir
+report-broken-site-panel-header =
+    .label = İşləməyən saytı bildir
+    .title = İşləməyən saytı bildir

@@ -13,6 +13,8 @@ protections-panel-content-blocking-fingerprinters-label = Barmaq izi toplayıcı
 
 ##
 
+protections-panel-content-blocking-breakage-report-view =
+    .title = İşləməyən Saytı Bildir
 protections-panel-content-blocking-breakage-report-view-collection-url = Ünvan
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Ünvan
@@ -23,3 +25,6 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-report-broken-site =
+    .label = İşləməyən saytı bildir
+    .title = İşləməyən saytı bildir

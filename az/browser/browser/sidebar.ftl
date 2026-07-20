@@ -9,6 +9,8 @@ menu-view-genai-chat =
 
 sidebar-menu-genai-chat-label =
     .label = Sİ söhbət botu
+sidebar-menu-more-tools-label =
+    .label = Daha çox alət
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
