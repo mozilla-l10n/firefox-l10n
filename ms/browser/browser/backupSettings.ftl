@@ -204,3 +204,59 @@ disable-backup-encryption-confirm-button = Buang kata laluan
 ## the backup system
 
 backup-error-password-requirements = Kata laluan anda tidak memenuhi keperluan. Sila cuba kata laluan lain.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Ada sesuatu yang tidak kena. Sila cuba lagi.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } sedia untuk dipulihkan
+backup-file-title = Pulihkan { -brand-short-name }
+backup-file-intro = Kembali melayari dan pulihkan semua penanda halaman, sejarah, dan data lain anda. <a data-l10n-name="backup-file-support-link">Ketahui lebih lanjut</a>
+backup-file-path-label = Fail sandaran:
+backup-file-encryption-state-label = Disulitkan:
+backup-file-encryption-state-value-encrypted = Ya
+backup-file-encryption-state-value-not-encrypted = Tidak
+backup-file-creation-device-label = Peranti:
+backup-file-creation-date-label = Dicipta:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Cara memulihkan:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Buka menu aplikasi ≡ dan pergi ke Tetapan > Sync
+backup-file-moz-browser-restore-step-2-1 = Klik 'Pulihkan data anda' dan pilih fail ini
+backup-file-moz-browser-restore-step-3 = Mulakan semula { -brand-short-name } apabila diminta
+backup-file-other-browser-restore-step-1 = Muat turun dan pasang { -brand-short-name }
+backup-file-download-moz-browser-button = Muat turun
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Mulakan { -brand-short-name }, buka menu aplikasi ☰ dan pergi ke Tetapan > Sync
+backup-file-other-browser-restore-step-3-1 = Klik 'Pulihkan data anda' dan pilih fail ini
+backup-file-other-browser-restore-step-4 = Mulakan semula { -brand-short-name } apabila diminta
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>Nota: </b> { $numberOfOtherBackupsFound } fail sandaran lain dijumpai
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b> { $profileName } </b> dicipta pada { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } di { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Dipulihkan daripada { $deviceName } pada { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } pukul { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-file-restore-file-validation-error = Fail ini tidak berfungsi. Cuba pilih fail lain. <a data-l10n-name="restore-problems"> Masih ada masalah?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Tiada fail dipilih

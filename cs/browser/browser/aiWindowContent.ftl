@@ -35,6 +35,7 @@ smartwindow-signin-btn = Přihlásit se
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Použité vzpomínky
 aiwindow-memories-callout-description = Vzpomínky pomohli přizpůsobit tuto odpověď.
 aiwindow-memories-learn-more = Zjistit více
 aiwindow-manage-memories =
@@ -160,10 +161,18 @@ smart-window-ungroup-success-summary =
         [many] { $count } panelů seskupeno, seskupení poté zrušeno.
        *[other] { $count } panelů seskupeno, seskupení poté zrušeno.
     }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } panel oddělený od skupiny
+        [few] { $count } panely oddělené od skupiny
+        [many] { $count } panelů oddělených od skupiny
+       *[other] { $count } panelů oddělených od skupiny
+    }
 
 ## Action log
 
 action-log-searching-tabs = Vyhledávání v panelech
+action-log-searched-open-tabs = Prohledané otevřené panely
 action-log-searching-history = Vyhledávání v historii
 action-log-searched-history = Vyhledáváno v historii
 action-log-reading-page = Čtení stránky
@@ -171,8 +180,17 @@ action-log-reading-page = Čtení stránky
 action-log-read-page = Obsah stránky přečten
 action-log-searching-web = Vyhledávání na webu
 action-log-searched-web = Vyhledáno na webu
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Hledáno na webu pomocí Exa
+action-log-checking-memories = Kontrolují se vzpomínky
+action-log-checked-memories = Vzpomínky zkontrolovány
 action-log-searching-settings = Vyhledávání nastavení
+action-log-searched-settings = Nastavení prohledáno
 action-log-searching-world-cup-matches = Vyhledávání zápasů Mistrovství světa
+action-log-searched-world-cup-matches = Prohledány zápasy Mistrovství světa
+action-log-checking-world-cup-live = Kontrolují se právě hrané zápasy Mistrovství světa
+action-log-checked-world-cup-live = Právě hrané zápasy Mistrovství světa zkontrolovány
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

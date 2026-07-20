@@ -94,3 +94,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Flexibilní
     .description = Vhodný pro nejrůznější úkoly. Celý název: { $model } od { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Osobní
+    .description = Vytvořeno pro individuální pomoc v různých jazycích. Celý název: { $model } od { $ownerName }

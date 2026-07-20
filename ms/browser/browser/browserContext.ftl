@@ -72,6 +72,18 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Akaun
+    .tooltiptext = Akaun
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -80,6 +92,28 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .accesskey = T
+    .aria-label = Tandakan Halaman…
+    .tooltiptext = Tandakan halaman
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Tandakan Halaman…
+    .accesskey = T
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Edit Penanda Halaman...
+    .accesskey = E
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .accesskey = T
+    .aria-label = Tandakan Halaman...
+    .tooltiptext = Tandakan halaman ({ $shortcut })
 main-context-menu-open-link =
     .label = Buka Pautan
     .accesskey = B

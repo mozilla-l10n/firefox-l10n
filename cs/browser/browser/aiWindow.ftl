@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Otevřít odkaz v novém { -smart-window-brand-name(case: "loc") }
+    .accesskey = d
 appmenuitem-new-ai-window =
     .label = Nové { -smart-window-brand-name }
     .value = Nové { -smart-window-brand-name }
@@ -48,6 +51,8 @@ aiwindow-input-cta-submit-label-chat = Zeptat se
 aiwindow-input-cta-submit-label-navigate = Přejít
 aiwindow-input-cta-submit-label-search = Hledat
 aiwindow-input-cta-submit-label-stop = Zastavit
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Generování odpovědi začalo
 aiwindow-input-cta-menu-label-chat = Zeptat se
 aiwindow-input-cta-menu-label-navigate = Přejít na stránku
 # $searchEngineName (string) - The name of the default search engine
@@ -62,6 +67,7 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Ptejte se, hledejte nebo zadejte URL
+smartbar-placeholder-hint-1 = Nedávné panely označíte použitím @…
 smartbar-placeholder-hint-2 = Zeptejte se na cokoli…
 smartbar-placeholder-hint-3 = Zadejte webovou adresu…
 smartbar-placeholder-hint-4 = Prohledat web…
@@ -91,6 +97,7 @@ aiwindow-firstrun-title = Vítá vás { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Co je pro vás důležité?
 aiwindow-firstrun-model-title-v2 = Vyberte si model, se kterým chcete začít
 aiwindow-firstrun-model-subtitle = Vyberte si model pro funkci { -smart-window-brand-name }. Změnit ho můžete kdykoliv.
+aiwindow-firstrun-model-subtitle-v2 = Každý model vám pomůže shrnout, porovnat a prozkoumat obsah napříč vašimi panely. Můžete mezi nimi kdykoli přepínat.
 aiwindow-firstrun-model-fast-label = Rychlý
 aiwindow-firstrun-model-fast-body = Rychlé odpovědi
 # $shortName (string) - The short name of the model version
