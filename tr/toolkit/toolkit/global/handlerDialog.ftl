@@ -84,6 +84,10 @@ choose-dialog-privatebrowsing-disabled = Gizli pencerelerde devre dışı
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .title = E-posta uygulamanızı seçin
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = E-posta bağlantıları için kullanmak istediğiniz uygulamayı seçin. Daha sonra Ayarlar’dan değiştirebilirsiniz.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
 mailto-handler-picker-always-ask = E-posta bağlantılarına tıkladığımda her zaman sor

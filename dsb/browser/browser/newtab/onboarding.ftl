@@ -617,7 +617,11 @@ smartwindow-existing-user-fx-tou-go-back = Slědk
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Cyńśo { -smart-window-brand-name } k swójomu faworitoju
 smartwindow-onboarding-primary-button = Dalej
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskotka { -brand-product-name } (Kit) z gwězdowym pśisłuškom
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -626,4 +630,6 @@ smartwindow-sidebar-auto-open-callout-body = Móžośo jen wócyniś, gažkuli j
 smartwindow-sidebar-auto-open-callout-accept = Jo, zacynjony wóstajiś
 smartwindow-sidebar-auto-open-callout-dismiss = Ně, źěkujom se
 smartwindow-sidebar-auto-open-callout-accepted-title = Asistent zacynjony wóstawa.
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Wužywajśo Pšašaś se, aby jo na někakem boku wócynił. Změńśo to kuždy cas w <a data-l10n-name="settings">nastajenjach</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Som zrozměł
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jolic swóje měnjenje změnjaśo, móžośo kuždy cas standard w <a data-l10n-name="settings">nastajenjach</a> aktualizěrowaś.

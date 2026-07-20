@@ -99,6 +99,9 @@ options-experimental-label = Deneysel özellikler
 options-stylesheets-in-the-debugger-label = Hata ayıklayıcıda stil dosyalarını göster
 options-stylesheets-in-the-debugger-tooltip =
     .title = Stil sayfalarını hata ayıklayıcıda listele ve görüntüle
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (Araç kutusunu yeniden açmanız gerekir)
 
 ## Style Editor section
 

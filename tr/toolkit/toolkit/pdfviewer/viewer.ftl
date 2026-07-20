@@ -779,6 +779,21 @@ pdfjs-digital-signature-properties-banner-untrusted =
         [one] Belge, güvenilmeyen { $count } sertifikayla imzalanmış
        *[other] Belge, güvenilmeyen { $count } sertifikayla imzalanmış
     }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] Belge, süresi dolmuş { $count } sertifika ile imzalanmış
+       *[other] Belge, süresi dolmuş { $count } sertifika ile imzalanmış
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] Belge { $count } geçersiz dijital imza içeriyor
+       *[other] Belge { $count } geçersiz dijital imza içeriyor
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Belge, iptal edilmiş { $count } sertifika ile imzalanmış
+       *[other] Belge, iptal edilmiş { $count } sertifika ile imzalanmış
+    }
 
 ## Per-signature status row. Only three distinct strings are needed:
 ## the signature crypto either verified (the cert chain may still be

@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Tamamlandı
 migration-safari-password-import-header = Parolaları Safari’den içe aktar
+migration-safari-password-import-post-sequoia-step3 = Dosyayı kaydedin
+migration-safari-password-import-post-sequoia-step4 = Kaydettiğiniz dosyayı seçin
 migration-safari-password-import-steps-header = Safari parolalarını içe aktarmak için:
 migration-safari-password-import-step1 = Safari’de “Safari” menüsünü açıp Tercihler > Parolalar’a gidin
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> düğmesini seçip “Tüm Parolaları Dışa Aktar”ı seçin
@@ -203,6 +205,7 @@ migration-chrome-windows-password-import-step2 = Menüden “Ayarlar”ı seçin
 migration-chrome-windows-password-import-step3 = “Dosyayı indir”i seçip cihazınıza kaydedin.
 migration-chrome-windows-password-import-step4 = İçe aktarmayı tamamlamak için buraya dönüp “Dosya seç”e tıklayın.
 migration-manual-password-import-skip-button = Geç
+migration-manual-password-import-cancel-button = Vazgeç
 migration-manual-password-import-select-button = Dosya seç
 migration-safari-password-import-skip-button = Geç
 migration-safari-password-import-select-button = Dosya seç

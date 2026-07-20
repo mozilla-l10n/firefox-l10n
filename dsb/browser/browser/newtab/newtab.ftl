@@ -248,8 +248,11 @@ newtab-privacy-message-promo-vpn-1-cta = VPN wócyniś
 newtab-privacy-message-promo-vpn-2-cta = VPN wócyniś
 newtab-privacy-message-promo-vpn-3-cta = VPN wócyniś
 newtab-privacy-message-promo-private-window-1-cta = Priwatne wokno wócyniś
+newtab-privacy-message-promo-relay-1 = Składujśo swóju napšawdnu za luźi, kótarymž dowěrjaśo; wužywajśo e-mailowu masku za registracije.
 newtab-privacy-message-promo-relay-1-cta = Maski wobstaraś
+newtab-privacy-message-promo-relay-2 = Šćitajśo swój postowy dochad pśed spamom z dermotnym e-mailowym maskěrowanim.
 newtab-privacy-message-promo-relay-2-cta = Maski wobstaraś
+newtab-privacy-message-promo-relay-3 = Dostańśo 50 dermotnych e-mailowych maskow, aby swóju napšawdnu e-mailowu adresu priwatnu źaržał.
 newtab-privacy-message-promo-relay-3-cta = Maski wobstaraś
 
 ## Privacy widget — celebration messages
@@ -261,6 +264,8 @@ newtab-privacy-message-milestone-week-cta = Šćity pokazaś
 newtab-privacy-message-milestone-month-cta = Šćity pokazaś
 newtab-privacy-message-milestone-year-cta = Šćity pokazaś
 newtab-privacy-message-milestone-total-cta = Šćity pokazaś
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Wěcej ako 100 pśeslědowakow źinsa blokěrowane. ) Mjenjej pśeslědowakow wěcej priwatnosći groni.
 newtab-privacy-message-daily-cap-cta = Šćity pokazaś
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -292,6 +297,19 @@ newtab-stocks-widget-menu-button =
     .aria-label = Nastajenja akcijowego asistenta
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Akcije
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, rosćona wó { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, spadnjona wó { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, žedna změna, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -445,6 +463,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Wobźěłaś
+newtab-menu-add-topsite = Nowe zwězanje pśidaś
 newtab-menu-open-new-window = W nowem woknje wócyniś
 newtab-menu-open-new-private-window = W nowem priwatnem woknje wócyniś
 newtab-menu-dismiss = Zachyśiś
@@ -1094,6 +1113,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Pśetergnuś
     .title = Pśetergnuś
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Nalicyjo nastajenja
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu napóraś
