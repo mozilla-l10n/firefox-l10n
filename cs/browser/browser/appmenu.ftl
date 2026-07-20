@@ -19,6 +19,11 @@ appmenuitem-banner-update-unsupported =
     .label = Nekompatibilní systém pro novou aktualizaci
 appmenuitem-banner-update-restart =
     .label = Nová aktualizace — restartovat
+appmenu-nova-update-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Restartovat a aktualizovat { -brand-short-name(case: "acc") }
+       *[no-cases] Restartovat a aktualizovat aplikaci { -brand-short-name }
+    }
 appmenu-nova-update-description = Vaše panely se znovu otevřou.
 appmenu-nova-fxa-sign-in = Přihlásit se
 appmenu-nova-switch-device-promo =
@@ -142,6 +147,12 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Všechna zařízení
+fxa-menu-get-firefox-mobile =
+    .label =
+        { -brand-product-name.case-status ->
+            [with-cases] Získejte { -brand-product-name(case: "acc") } pro Android nebo iOS
+           *[no-cases] Získejte aplikaci { -brand-product-name } pro Android nebo iOS
+        }
 fxa-menu-secure-sync-subpanel =
     .title = Bezpečná synchronizace
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -424,5 +435,17 @@ fxa-menu-create-profile-subpanel =
     .title = Vytvořit nový profil
 fxa-menu-create-profile-heading = S novým profilem přejděte na vyšší úroveň
 fxa-menu-create-profile-description = Uchovávejte záložky, hesla a historii odděleně pro pracovní a osobní prohlížení.
+fxa-menu-create-profile-confirm =
+    .label = Vytvořit nový profil
+fxa-menu-create-profile-learn-more =
+    .label = Co jsou profily?
 appmenu-profiles-2 =
     .label = Profily
+appmenu-profiles-header = Profily
+appmenu-all-profiles =
+    .label = Všechny profily
+appmenu-secure-sync-header = Bezpečná synchronizace
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nedávné panely
