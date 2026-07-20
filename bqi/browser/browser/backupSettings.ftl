@@ -61,6 +61,7 @@ settings-data-change-password2 =
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = رۊشن کردن لادراری گرؽڌن
+turn-on-scheduled-backups-description = { -brand-short-name } هر 24 ساعت ی اسنپ شات ز داده یل ایسا وورکل اکونه. ٱر موشکلؽ بی یا دسگا نۊ استیڌین، ترین هو ن وورگنین.
 turn-on-scheduled-backups-support-link = ز چ چیایی لادراری گرؽڌه ابۊ؟
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = جاگه
