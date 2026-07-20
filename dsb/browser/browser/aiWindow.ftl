@@ -323,6 +323,9 @@ aiwindow-feedback-preview-report-with-page = Drobnostki chata a boka pokazaś
 aiwindow-ai-chat-grid-list-view =
     .aria-label = Modus pśešaltowaś: Lisćinowy naglěd
     .tooltiptext = Lisćinowy naglěd
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Modus pśešaltowaś: Naglěd kśidna
+    .tooltiptext = Naglěd kśidna
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.

@@ -465,6 +465,8 @@ edit-popup-settings =
 
 navbar-downloads =
     .label = Endirilənlər
+navbar-overflow-2 =
+    .tooltiptext = Daha çox alət
 navbar-overflow =
     .tooltiptext = Daha çox alət…
 # Variables:

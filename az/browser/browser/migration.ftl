@@ -74,6 +74,32 @@ imported-edge-reading-list = Oxuma siyahısı (Edge-dən)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Səyahət Tarixçəsi və Əlfəcinlər
+           *[other] Səyahət Tarixçəsi
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Səyahət Tarixçəsi və Əlfəcinlər
+           *[other] Səyahət Tarixçəsi
+        }
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Sevimlilər
+            [edge] Sevimlilər
+           *[other] Əlfəcinlər
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Sevimlilər
+            [edge] Sevimlilər
+           *[other] Əlfəcinlər
+        }
 browser-data-session-checkbox =
     .label = Pəncərələr və vərəqlər
 browser-data-session-label =

@@ -19,6 +19,8 @@ appmenuitem-print =
     .label = Çap et…
 appmenuitem-zoom =
     .value = Yaxınlaşdırma
+appmenuitem-more-tools =
+    .label = Daha Çox Alət
 appmenuitem-help =
     .label = Kömək
 # Settings is now used to access the browser settings across all platforms,

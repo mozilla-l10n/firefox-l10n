@@ -20,6 +20,12 @@ newtab-settings-dialog-label =
 home-homepage-new-tabs =
     .label = Yeni vərəqlər
 
+## Custom URLs subpage
+
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Əlfəcinlər…
+
 ## Firefox Home content
 
 # Variables:
