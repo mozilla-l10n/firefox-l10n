@@ -405,6 +405,7 @@ newtab-topsites-url-input =
     .placeholder = URL zapódaś abo zasajźiś
 newtab-topsites-url-validation = Płaśiwy URL trjebny
 newtab-topsites-image-url-label = URL swójskego wobraza
+newtab-topsites-use-custom-image-link = Swójski wobraz wužywaś
 newtab-topsites-use-image-link = Swójski wobraz wužywaś…
 newtab-topsites-image-validation = Wobraz njedajo se zacytaś. Wopytajśo drugi URL.
 
