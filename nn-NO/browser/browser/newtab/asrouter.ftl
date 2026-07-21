@@ -493,3 +493,16 @@ nova-early-access-share-feedback-link = Del tilbakemelding
     .accesskey = D
 nova-early-access-infobar-primary-button = Eg forstår
     .accesskey = E
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Starte { -brand-short-name } kvar gong du loggar inn på Windows?
+launch-options-spotlight-checkbox-launch-on-login = Opne { -brand-short-name } ved oppstart
+launch-options-spotlight-checkbox-pin-to-taskbar = Fest til oppgåvelinje
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Lagre og lat att { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Lagre og hald fram
