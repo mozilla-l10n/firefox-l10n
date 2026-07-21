@@ -401,12 +401,16 @@ quickactions-addons = Papar add-ons
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = sambungan, tema, add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = Urus kawalan AI
+quickactions-cmd-manageai = nyahdayakan ai, matikan ai, urus ai
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Urus penanda halaman
 quickactions-cmd-bookmarks = penanda halaman
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Buang sejarah terkini
+quickactions-cmd-clearrecenthistory2 = kuki, buang kuki, cache, buang cache, data pelayaran, buang data pelayaran, sejarah, buang sejarah terkini
 quickactions-cmd-clearrecenthistory = buang sejarah terkini, sejarah
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Buang Sejarah
@@ -430,10 +434,22 @@ quickactions-cmd-help = bantuan, sokongan
 # Opens the devtools web inspector
 quickactions-inspector2 = Buka Alat Pembangun
 quickactions-cmd-inspector2 = inspector, devtools, alat pembangun
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Pilih warna
+quickactions-cmd-colorpicker = pemilih warna, eyedropper, pilih warna
+# Opens Firefox Library
+quickactions-cmd-library = pustaka
+quickactions-library = Buka Pustaka
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Urus kata laluan
 quickactions-cmd-logins = log masuk, kata laluan
+# Mutes all tabs playing audio
+quickactions-mute = Senyapkan tab yang memainkan audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = senyap, diam, sssst
 # Opens about:addons page in the plugins section
 quickactions-plugins = Urus plugin
 quickactions-cmd-plugins = plugin
@@ -442,12 +458,52 @@ quickactions-print2 = Cetak halaman
 quickactions-cmd-print = cetak
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Simpan halaman sebagai PDF
+quickactions-cmd-savepdf2 = pdf, simpan halaman
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Buka editor PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Buka tetingkap peribadi
 quickactions-cmd-private = pelayaran peribadi
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Muat semula { -brand-short-name }
 quickactions-cmd-refresh = muat semula
+# Restarts the browser
+quickactions-restart = Mula semula { -brand-short-name }
+quickactions-cmd-restart = mula semula
+# Opens the screenshot tool
+quickactions-screenshot3 = Ambil tangkapan skrin
+quickactions-cmd-screenshot2 = tangkapan skrin, ambil tangkapan skrin
+# Opens about:translations
+quickactions-translate = Terjemah
+quickactions-cmd-translate = terjemah
+quickactions-cmd-screenshot = tangkapan skrin
+# Opens about:preferences
+quickactions-settings2 = Urus tetapan
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = tetapan, keutamaan, pilihan, urus
+quickactions-cmd-settings = tetapan, keutamaan, pilihan
+# Opens about:addons page in the themes section
+quickactions-themes = Urus tema
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = tema, add-ons
+quickactions-cmd-themes = tema
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Kemas kini { -brand-short-name }
+quickactions-cmd-update = kemas kini
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Papar sumber halaman
+quickactions-cmd-viewsource2 = papar sumber, sumber, sumber halaman
+quickactions-cmd-viewsource = papar sumber, sumber
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Ketahui lanjut tentang tindakan pantas
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Tekan tab untuk pilih:
 
 ## Bookmark Panel
 
@@ -470,14 +526,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Maklumat laman untuk { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Keselamatan sambungan untuk { $host }
+identity-connection-not-secure = Sambungan tidak selamat
+identity-connection-secure = Sambungan selamat
+identity-connection-failure = Kegagalan sambungan
 identity-connection-internal = Ini adalah halaman { -brand-short-name } yang selamat.
 identity-connection-file = Halaman ini disimpan dalam komputer anda.
+identity-connection-associated = Halaman ini dimuatkan daripada halaman lain.
 identity-extension-page = Halaman ini dimuatkan dari ekstensi.
 identity-active-blocked = { -brand-short-name } telah menyekat sebahagian halaman ini yang tidak selamat.
+identity-custom-root = Sambungan disahkan oleh pengeluar sijil yang tidak dikenali oleh Mozilla.
 identity-passive-loaded = Sebahagian halaman ini tidak selamat (contohnya imej).
 identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini.
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
 identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
+identity-https-only-connection-upgraded = (dinaik taraf ke HTTPS)
 identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
 identity-clear-site-data =
     .label = Buang Kuki dan Data Laman…
