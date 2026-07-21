@@ -267,6 +267,13 @@ newtab-stocks-widget-menu-button =
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Borsa
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -361,6 +368,7 @@ newtab-topsites-url-input =
     .placeholder = Adres yazın veya yapıştırın
 newtab-topsites-url-validation = Geçerli bir adres gerekli
 newtab-topsites-image-url-label = Özel resim adresi
+newtab-topsites-use-custom-image-link = Özel resim kullan
 newtab-topsites-use-image-link = Özel resim kullan…
 newtab-topsites-image-validation = Resim yüklenemedi. Başka bir adres deneyin.
 
