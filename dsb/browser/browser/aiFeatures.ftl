@@ -85,6 +85,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Wšykne lašowaś
 ai-window-delete-all-memories-title = Wšykne dopomnjeśa lašowaś?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Eksistěrujuce dopomnjeśa se wulašuju. Jolic njocośo nowe dopomnjeśa napóraś, wótwónoźćo kokulku pśed „Z … wuknuś“ w nastajenjach { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Lašowaś
 ai-window-delete-all-memories-cancel = Pśetergnuś
 # Variables:
