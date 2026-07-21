@@ -34,6 +34,9 @@ newtab-logo-and-wordmark =
 home-homepage-new-tabs =
     .label = Нов раздел
 
+## Custom URLs subpage
+
+
 ## Firefox Home content
 
 # Variables:
@@ -86,6 +89,41 @@ home-prefs-support-firefox-header-srd =
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Научете повече
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
 ## Strings for the Picture of the Day widget
 
 # Context menu item linking to more information about the widget.
@@ -134,8 +172,12 @@ newtab-topsites-url-input =
     .placeholder = Адрес
 newtab-topsites-url-validation = Необходим е валиден URL
 newtab-topsites-image-url-label = Адрес на изображение по желание
+newtab-topsites-use-custom-image-link = Използване изображение по желание
 newtab-topsites-use-image-link = Използване изображение по желание…
 newtab-topsites-image-validation = Изображението не може да бъде заредено. Опитайте с друг адрес.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -503,6 +545,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -564,9 +609,37 @@ newtab-topic-selection-button-maybe-later = Може би по-късно
 newtab-topic-selection-button-update-interests = Актуализирайте интересите си
 newtab-topic-selection-button-pick-interests = Изберете вашите интереси
 
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
 ## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = Опитайте
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
 
 ## Strings for task / to-do list productivity widget
 
@@ -579,3 +652,40 @@ newtab-widget-lists-input-menu-delete = Изтриване
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the Clock widget
+
