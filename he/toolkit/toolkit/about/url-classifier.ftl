@@ -63,6 +63,14 @@ url-classifier-content-classifier-probes = גששים
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = תוצאות
 url-classifier-content-classifier-pbm = גלישה פרטית
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = אכיפת צד שלישי ל־frame העליון
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = תוספת שאינה מומלצת
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = גישוש חסימה
 url-classifier-debug-title = ניפוי שגיאות
 url-classifier-debug-module-btn = הגדרת מודולי רישום
 url-classifier-debug-file-btn = הגדרת קובץ רישום

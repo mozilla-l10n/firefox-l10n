@@ -518,3 +518,14 @@ nova-early-access-infobar-primary-button = Som zrozměł
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = { -brand-short-name } kuždy raz startowaś, gaž se pla Windowa pśizjawjaśo?
+launch-options-spotlight-title-session-restore = Wašo pósejźenje zasej wócyniś, gaž se { -brand-short-name } znowego startujo?
+launch-options-spotlight-checkbox-launch-on-login = Pśi startowanju { -brand-short-name } wócyniś
+launch-options-spotlight-checkbox-pin-to-taskbar = K wašej nadawkowej rědce pśipěś
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Aktualne wokna a rejtariki zasej wócyniś
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Pjerwjejšne wokna a rejtariki zasej wócyniś
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = { -brand-short-name } składowaś a zacyniś
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Składowaś a pókšacowaś
