@@ -351,6 +351,7 @@ newtab-topsites-url-input =
     .placeholder = 输入或粘贴网址
 newtab-topsites-url-validation = 需要有效的网址
 newtab-topsites-image-url-label = 自定义图像网址
+newtab-topsites-use-custom-image-link = 使用自定义图像
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
 
