@@ -19,6 +19,7 @@ unified-extensions-empty-reason-extension-not-enabled = Sće rozšěrjenja insta
 unified-extensions-empty-reason-zero-extensions-onboarding = Powyšće niwow swojeho přehladowanja z rozšěrjenjemi
 unified-extensions-empty-content-explain-enable2 = Wubjerće „{ unified-extensions-manage-extensions.label }“, zo byšće je w nastajenjach zmóžnił.
 unified-extensions-empty-content-explain-manage2 = Wubjerće „{ unified-extensions-manage-extensions.label }“, zo byšće je w nastajenjach rjadował.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Mamy doporučenja, zo bychmy wam pomhali, fokus, priwatnosć a wjace polěpšić.
 unified-extensions-empty-content-explain-extensions-onboarding = Změńće zwonkowne a wukon abo polěpšće priwatnosć a wěstotu, zo byšće { -brand-short-name } přiměrił.
 
 ## An extension in the main list

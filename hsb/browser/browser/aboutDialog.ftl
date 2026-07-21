@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Posudk pósłać…
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalne zhromadźenstwo,</label> kotrež zhromadnje dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchował.
 community-2 = { -brand-short-name } je so wot <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> wuwił, <label data-l10n-name="community-creditsLink">globalneho zhromadźenstwa,</label> kotrež zhromadnje dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchował.
 helpus = Chceće pomhać? <label data-l10n-name="helpus-donateLink">Darće</label> abo <label data-l10n-name="helpus-getInvolvedLink">čińće sobu!</label>
+helpus-referrals = Chceće pomhać? <label data-l10n-name="helpus-donateLink">Darće</label>, <label data-l10n-name="helpus-shareFirefoxLink">Dźělće { -brand-short-name }</label> abo <label data-l10n-name="helpus-getInvolvedLink">čińće sobu!</label>
 bottomLinks-license = Licencne informacije
 bottom-links-terms = Wužiwanske wuměnjenja
 bottom-links-privacy = Zdźělenka priwatnosće
