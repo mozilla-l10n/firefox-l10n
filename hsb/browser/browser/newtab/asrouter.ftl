@@ -302,6 +302,17 @@ launch-on-login-infobar-final-message = <strong>{ -brand-short-name } ma so kó�
 launch-on-login-infobar-final-reject-button = Ně, dźakuju so
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = Dale
+    .accesskey = D
+launch-on-login-autostart-infobar-turn-off-button = Znjemóžnić
+    .accesskey = Z
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -500,3 +511,21 @@ nova-early-access-share-feedback-link = Měnjenje dźělić
     .accesskey = M
 nova-early-access-infobar-primary-button = Sym zrozumił
     .accesskey = S
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = { -brand-short-name } kóždy raz startować, hdyž so pola Windowa přizjewjeće?
+launch-options-spotlight-title-session-restore = Waše posedźenje zaso wočinić, hdyž so { -brand-short-name } znowa startuje?
+launch-options-spotlight-checkbox-launch-on-login = Při startowanju { -brand-short-name } wočinić
+launch-options-spotlight-checkbox-pin-to-taskbar = K wašej nadawkowej lajsće připjeć
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Aktualne wokna a rajtarki zaso wočinić
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Předchadne wokna a rajtarki zaso wočinić
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = { -brand-short-name } składować a začinić
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Składować a pokročować

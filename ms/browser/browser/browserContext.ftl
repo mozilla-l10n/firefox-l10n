@@ -108,12 +108,25 @@ main-context-menu-bookmark-page-with-shortcut =
     .accesskey = T
     .aria-label = Tandakan Halaman...
     .tooltiptext = Tandakan halaman ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .accesskey = E
+    .aria-label = Edit Penanda Halaman...
+    .tooltiptext = Edit penanda halaman
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .accesskey = E
+    .aria-label = Edit Penanda Halaman...
+    .tooltiptext = Edit penanda halaman ({ $shortcut })
 main-context-menu-open-link =
     .label = Buka Pautan
     .accesskey = B
 main-context-menu-open-link-new-tab =
     .label = Buka Pautan dalam Tab Baru
     .accesskey = T
+main-context-menu-open-link-split-view =
+    .label = Buka Pautan dalam Paparan Berpecah
+    .accesskey = B
 main-context-menu-open-link-container-tab =
     .label = Buka Pautan dalam Tab Penyimpan Baru
     .accesskey = u
@@ -123,6 +136,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Buka Pautan dalam Tetingkap Privasi Baru
     .accesskey = P
+main-context-menu-bookmark-link-2 =
+    .label = Tandakan Pautan...
+    .accesskey = T
 main-context-menu-save-link =
     .label = Simpan Pautan Sebagai…
     .accesskey = a
@@ -132,6 +148,18 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Salin Alamat E-mel
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = Salin Nombor Telefon
+    .accesskey = S
+main-context-menu-preview-link =
+    .label = Pratonton Pautan
+    .accesskey = P
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Salin Pautan Bersih
+    .accesskey = S
 
 ## Media (video/audio) controls
 ##
@@ -154,6 +182,16 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Nyahsenyap
     .accesskey = p
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Gelung
     .accesskey = G
@@ -176,6 +214,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Keluar Skrin Penuh
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Tonton dalam Picture-in-Picture
+    .accesskey = T
 main-context-menu-image-reload =
     .label = Muat Semula Imej
     .accesskey = M
@@ -188,12 +231,20 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = E-mel Imej…
     .accesskey = E
+main-context-menu-image-copy-text =
+    .label = Salin Teks Dari Imej
+    .accesskey = S
 main-context-menu-image-info =
     .label = Papar Info Imej
     .accesskey = f
 main-context-menu-image-desc =
     .label = Papar Keterangan
     .accesskey = K
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Cari Imej dengan { $engine }
+    .accesskey = C
 main-context-menu-video-save-as =
     .label = Simpan Video Sebagai…
     .accesskey = p
@@ -206,6 +257,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = E-mel Audio…
     .accesskey = a
+main-context-menu-send-to-device-2 =
+    .label = Hantar ke Peranti
+    .accesskey = H
 main-context-menu-send-to-device =
     .label = Hantar Halaman ke Peranti
     .accesskey = P

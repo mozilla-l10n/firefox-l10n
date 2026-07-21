@@ -19,6 +19,10 @@ appmenuitem-print =
     .label = Cetak…
 appmenuitem-zoom =
     .value = Zum
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Kongsi { -brand-product-name }
 appmenuitem-help =
     .label = Bantuan
 

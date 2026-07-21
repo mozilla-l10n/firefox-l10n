@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Tłóčće nowu tastu:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (njeda so změnić)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Druhu tastowu skrótšenku wotstronić?
 customkeys-conflict-confirm-body = Tuta tasta so hižo přez “{ $conflict }” wužiwa.
 customkeys-conflict-confirm-button-confirm = Najebać to wužiwać
 customkeys-conflict-confirm-button-cancel = Přetorhnyć
+customkeys-conflict-unusable-title = Tasta njeda so wužiwać
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Tuta tasta so hižo přez “{ $conflict }” wužiwa a njeda so wužiwać.
 customkeys-reset-all-confirm-title = Standardy wobnowić?
 customkeys-reset-all-confirm-body = Wšě swójske tastowe skrótšenki, kotrež sće wutworił, so wotstronja.
 customkeys-reset-all-confirm-button-confirm = Standardy wobnowić
