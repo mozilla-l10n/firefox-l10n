@@ -443,6 +443,7 @@ newtab-topsites-url-input =
     .placeholder = Введите или вставьте URL
 newtab-topsites-url-validation = Введите корректный URL
 newtab-topsites-image-url-label = Свой URL изображения
+newtab-topsites-use-custom-image-link = Использовать своё изображение
 newtab-topsites-use-image-link = Использовать своё изображение…
 newtab-topsites-image-validation = Изображение не загрузилось. Попробуйте использовать другой URL.
 
