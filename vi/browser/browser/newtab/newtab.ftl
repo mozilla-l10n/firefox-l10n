@@ -403,6 +403,7 @@ newtab-topsites-url-input =
     .placeholder = Nhập hoặc dán URL
 newtab-topsites-url-validation = Yêu cầu URL hợp lệ
 newtab-topsites-image-url-label = URL hình ảnh tuỳ chỉnh
+newtab-topsites-use-custom-image-link = Sử dụng hình ảnh tùy chỉnh
 newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
 newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
 
