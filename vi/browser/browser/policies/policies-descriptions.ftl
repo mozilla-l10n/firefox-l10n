@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Chặn truy cập vào trang about:support.
 policy-Bookmarks = Tạo dấu trang trong thanh công cụ dấu trang, menu dấu trang hoặc một thư mục xác định bên trong chúng.
 policy-CaptivePortal = Kích hoạt hoặc vô hiệu hóa hỗ trợ kiểm soát truy cập.
 policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng chỉ có sẵn.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Kích hoạt phương thức thỏa thuận khóa ML-KEM-1024 tiêu chuẩn CNSA 2.0 cho giao thức TLS.
 policy-ContentAnalysis = Bật hoặc tắt kết nối với tác nhân chống mất dữ liệu.
 policy-Cookies = Cho phép hoặc từ chối các trang web lưu cookie.
 # Containers in this context is referring to container tabs in Firefox.
