@@ -43,6 +43,17 @@ url-classifier-content-classifier-url = URL
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultatos
 url-classifier-content-classifier-pbm = Navigation private
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Correspondentia
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Exception
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Iimportante
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Exception
 url-classifier-debug-title = Depuration
 url-classifier-debug-module-btn = Definir le modulos de registro
 url-classifier-debug-file-btn = Definir le file de registro
