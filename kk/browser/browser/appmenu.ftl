@@ -107,6 +107,12 @@ appmenu-remote-tabs-unverified = Тіркелгіңіз расталуы тиі�
 appmenuitem-fxa-toolbar-sync-now2 = Қазір синхрондау
 appmenuitem-fxa-sign-in = { -brand-product-name } ішіне кіру
 appmenuitem-fxa-manage-account = Тіркелгіні басқару
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Барлық құрылғылар
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Барлық құрылғылар
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Тіркелгі
 # Variables
@@ -338,5 +344,13 @@ appmenu-create-profile =
     .label = Жаңа профиль
 appmenu-edit-profile =
     .aria-label = Профильді түзету
+fxa-menu-create-profile-confirm =
+    .label = Жаңа профильді жасау
+fxa-menu-create-profile-learn-more =
+    .label = Профильдер дегеніміз не?
 appmenu-profiles-2 =
     .label = Профильдер
+appmenu-profiles-header = Профильдер
+appmenu-all-profiles =
+    .label = Барлық профильдер
+appmenu-secure-sync-header = Қауіпсіз синхрондау

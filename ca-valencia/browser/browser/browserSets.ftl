@@ -103,14 +103,14 @@ picture-in-picture-toggle-shortcut-mac =
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut-mac` key.
 picture-in-picture-toggle-shortcut-mac-alt =
-    .key = { "*" }
+    .key = *
 picture-in-picture-toggle-shortcut =
     .key = +
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
-    .key = { "*" }
+    .key = *
 bookmark-this-page-shortcut =
     .key = d
 # Verify what shortcut for that operation
