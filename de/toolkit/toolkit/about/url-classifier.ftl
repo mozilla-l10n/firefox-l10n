@@ -72,6 +72,8 @@ url-classifier-content-classifier-non-recommended-addon = Nicht empfohlenes Add-
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Details zur Engine
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Funktion
 # Column header: whether the request matched this feature (true/false).
 url-classifier-content-classifier-col-matched = Übereinstimmung
 # Column header: whether this feature matched an exception/allow-list entry that
