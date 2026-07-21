@@ -403,6 +403,7 @@ newtab-topsites-url-input =
     .placeholder = URL 입력 또는 붙여넣기
 newtab-topsites-url-validation = 유효한 URL이 필요합니다
 newtab-topsites-image-url-label = 사용자 지정 이미지 URL
+newtab-topsites-use-custom-image-link = 사용자 지정 이미지 사용
 newtab-topsites-use-image-link = 사용자 지정 이미지 사용…
 newtab-topsites-image-validation = 이미지를 읽어오지 못했습니다. 다른 URL을 시도하세요.
 
