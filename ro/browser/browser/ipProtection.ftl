@@ -178,7 +178,7 @@ ipprotection-connection-status-paused-title-2 = VPN în pauză
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-description = Încearcă din nou în câteva minute.
-ipprotection-connection-status-generic-error-try-again = Te rugăm să încerci mai târziu.
+ipprotection-connection-status-generic-error-try-again = Te rugăm să încerci din nou mai târziu.
 ipprotection-connection-status-network-error-title-1 = Verifică conexiunea la internet
     .aria-label = Verifică conexiunea la internet
 ipprotection-connection-status-network-error-description = Conectează-te la internet, apoi încearcă să activezi VPN-ul.

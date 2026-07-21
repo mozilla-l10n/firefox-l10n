@@ -112,3 +112,7 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Berkas ini tidak berfungsi
     .message = Berkas yang Anda pilih tidak kompatibel dengan versi { -brand-short-name } ini. Pilih berkas lain dan coba lagi.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-confirm-button = Simpan
