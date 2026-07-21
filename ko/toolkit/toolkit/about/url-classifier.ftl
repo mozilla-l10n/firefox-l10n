@@ -37,6 +37,43 @@ url-classifier-cache-prefix = 접두사
 url-classifier-cache-ncache-expiry = 네거티브 캐시 만료
 url-classifier-cache-fullhash = 전체 해시
 url-classifier-cache-pcache-expiry = 포지티브 캐시 만료
+url-classifier-content-classifier-title = 콘텐츠 분류자
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = URL 로드 중
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = URL 로딩 활성화
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = 최상위 창 URL
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = 최상위 창 URL 활성화
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = 대상 유형
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = 플래그
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = 진단 테스트
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = 결과
+url-classifier-content-classifier-pbm = 사생활 보호 모드
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = 강제로 최상위 프레임의 제3자로 처리
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = 비추천 부가 기능
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = 차단 여부 테스트
 url-classifier-debug-title = 디버그
 url-classifier-debug-module-btn = 로그 모듈 설정
 url-classifier-debug-file-btn = 로그 파일 설정
