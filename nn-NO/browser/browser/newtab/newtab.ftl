@@ -373,7 +373,7 @@ newtab-picture-set-wallpaper =
     .title = Vel bakgrunnsbilde
     .aria-label = Bruk dagens bilde som bakgrunnsbilde
 # Context menu item that opens the New Tab customization panel.
-newtab-picture-menu-manage-wallpaper = Behandle bakgrunnsbilde
+newtab-picture-menu-manage-wallpaper = Handsam bakgrunnsbilde
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skjul dagens bilde
