@@ -306,6 +306,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
+urlbar-serial-blocked =
+    .tooltiptext = Anda telah menyekat akses port bersiri untuk laman web ini.
 urlbar-install-blocked =
     .tooltiptext = Anda telah menyekat pemasangan add-on untuk laman web ini.
 # Variables
@@ -316,6 +318,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Tandabuku halaman Ini ({ $shortcut })
+urlbar-split-view-button =
+    .aria-label = Paparan berpecah
+    .tooltiptext = Paparan berpecah
 
 ## Searchbar context menu
 
@@ -379,6 +384,70 @@ search-one-offs-add-engine-menu =
 
 search-one-offs-bookmarks =
     .tooltiptext = Penanda Halaman ( { $restrict } )
+search-one-offs-tabs =
+    .tooltiptext = Tab ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Sejarah ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Tindakan ( { $restrict } )
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Papar add-ons
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = sambungan, tema, add-ons
+quickactions-cmd-addons2 = add-ons
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Urus penanda halaman
+quickactions-cmd-bookmarks = penanda halaman
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Buang sejarah terkini
+quickactions-cmd-clearrecenthistory = buang sejarah terkini, sejarah
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Buang Sejarah
+quickactions-cmd-clearhistory = buang sejarah
+# Opens about:downloads page
+quickactions-downloads2 = Papar muat turun
+quickactions-cmd-downloads = muat turun
+# Opens about:addons page in the extensions section
+quickactions-extensions = Urus sambungan
+quickactions-cmd-extensions2 = sambungan, add-ons
+quickactions-cmd-extensions = sambungan
+# Opens Firefox View
+quickactions-firefoxview = Buka { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = buka { -firefoxview-brand-name }, { -firefoxview-brand-name }, buka paparan, paparan
+# Opens SUMO home page
+quickactions-help = Bantuan { -brand-product-name }
+quickactions-cmd-help = bantuan, sokongan
+# Opens the devtools web inspector
+quickactions-inspector2 = Buka Alat Pembangun
+quickactions-cmd-inspector2 = inspector, devtools, alat pembangun
+quickactions-cmd-inspector = inspector, devtools
+# Opens about:logins
+quickactions-logins2 = Urus kata laluan
+quickactions-cmd-logins = log masuk, kata laluan
+# Opens about:addons page in the plugins section
+quickactions-plugins = Urus plugin
+quickactions-cmd-plugins = plugin
+# Opens the print dialog
+quickactions-print2 = Cetak halaman
+quickactions-cmd-print = cetak
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Simpan halaman sebagai PDF
+# Opens a new private browsing window
+quickactions-private2 = Buka tetingkap peribadi
+quickactions-cmd-private = pelayaran peribadi
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Muat semula { -brand-short-name }
+quickactions-cmd-refresh = muat semula
 
 ## Bookmark Panel
 
