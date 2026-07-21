@@ -435,6 +435,7 @@ newtab-topsites-url-input =
     .placeholder = აკრიფეთ ან ჩასვით URL-ბმული
 newtab-topsites-url-validation = საჭიროა მართებული URL
 newtab-topsites-image-url-label = სასურველი სურათის URL-ბმული
+newtab-topsites-use-custom-image-link = სასურველი სურათის გამოყენება
 newtab-topsites-use-image-link = სასურველი სურათის გამოყენება…
 newtab-topsites-image-validation = სურათი ვერ ჩაიტვირთა. სცადეთ სხვა URL-ბმული.
 
