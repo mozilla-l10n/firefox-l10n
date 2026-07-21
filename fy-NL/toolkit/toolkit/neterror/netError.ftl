@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Altyd trochgean
 neterror-pref-reset = It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?
 neterror-error-reporting-automatic = Flaters as dizze rapportearje om { -vendor-short-name } te helpen kweawollende websites te werkennen en te blokkearjen
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Jo ferbining is mooglik net privee
+    .message = In app of service kin mooglik jo fersifere ferkear fan dizze website út sjen.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } kin om ien oft oare reden dizze side net lade.

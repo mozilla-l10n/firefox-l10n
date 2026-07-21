@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Foltôgje en ûntskoattelje bonusfokspiktogrammen om { -brand-short-name } te personalisearjen.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Jo hawwe alle bonupsiktogrammen ûntskoattele!
 appearance-browser-icon-set-default-button =
     .label = Ynstelle as standert
 appearance-browser-icon-pin-button =

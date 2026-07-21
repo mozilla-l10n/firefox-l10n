@@ -520,3 +520,9 @@ launch-options-spotlight-checkbox-launch-on-login = { -brand-short-name } iepenj
 launch-options-spotlight-checkbox-pin-to-taskbar = Oan jo taakbalke fêstsette
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Aktuele finsters en ljepblêden opnij iepenje
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Eardere finsters en ljepblêden opnij iepenje
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Bewarje en { -brand-short-name } slute
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Bewarje en trochgean
