@@ -588,12 +588,12 @@ addon-data-collection-learnmore = 데이터 수집에 대해 더 알아보기
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
-mlmodel-about-inference = { -brand-short-name }가 about:inference에 이것을 사용함
-mlmodel-link-preview = { -brand-short-name }는 사용자가 링크를 미리 볼 때 요점을 생성하기 위해 이것을 사용함
-mlmodel-pdfjs = { -brand-short-name }는 사용자가 PDF에 추가하는 이미지에 대한 대체 텍스트를 생성하기 위해 이것을 사용함
-mlmodel-smart-tab-topic-engine = { -brand-short-name }는 탭 그룹의 이름을 제안하는 데 이것을 사용함
-mlmodel-smart-tab-embedding-engine = { -brand-short-name }는 탭 그룹에 탭을 제안하는 데 이것을 사용함
-mlmodel-formfill-engine = { -brand-short-name }는 이것을 주소 양식을 채우는데 사용함
+mlmodel-about-inference = { -brand-short-name }가 about:inference에 사용함
+mlmodel-link-preview = { -brand-short-name }가 링크를 미리 볼 때 요점을 생성하는 데 사용함
+mlmodel-pdfjs = { -brand-short-name }가 PDF에 추가한 이미지의 대체 텍스트를 생성하는 데 사용함
+mlmodel-smart-tab-topic-engine = { -brand-short-name }가 탭 그룹의 이름을 제안하는 데 사용함
+mlmodel-smart-tab-embedding-engine = { -brand-short-name }가 탭 그룹에 탭을 제안하는 데 사용함
+mlmodel-formfill-engine = { -brand-short-name }가 주소 양식을 채우는 데 사용함
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = 온디바이스 AI
 addon-category-mlmodel-title =
