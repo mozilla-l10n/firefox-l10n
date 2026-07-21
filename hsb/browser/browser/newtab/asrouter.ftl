@@ -500,10 +500,3 @@ nova-early-access-share-feedback-link = Měnjenje dźělić
     .accesskey = M
 nova-early-access-infobar-primary-button = Sym zrozumił
     .accesskey = S
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = { -brand-short-name } kóždy raz startować, hdyž so pola Windowa přizjewjeće?
-app-exit-spotlight-checkbox-launch-on-login = Při startowanju { -brand-short-name } wočinić
-app-exit-spotlight-checkbox-pin-to-taskbar = K wašej nadawkowej lajsće připjeć
-app-exit-spotlight-primary-button = { -brand-short-name } składować a začinić

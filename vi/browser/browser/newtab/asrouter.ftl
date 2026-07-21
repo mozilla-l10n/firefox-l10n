@@ -491,10 +491,3 @@ nova-early-access-share-feedback-link = Để lại phản hồi
     .accesskey = S
 nova-early-access-infobar-primary-button = Đã hiểu
     .accesskey = G
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = Khởi chạy { -brand-short-name } mỗi khi bạn đăng nhập vào Windows?
-app-exit-spotlight-checkbox-launch-on-login = Mở { -brand-short-name } khi khởi động
-app-exit-spotlight-checkbox-pin-to-taskbar = Ghim vào thanh tác vụ của bạn
-app-exit-spotlight-primary-button = Lưu và đóng { -brand-short-name }

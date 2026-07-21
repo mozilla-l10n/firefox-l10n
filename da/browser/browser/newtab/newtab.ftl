@@ -155,12 +155,6 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -181,23 +175,10 @@ newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
 
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Aktier
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
 
 ## Strings for the Picture of the Day widget
 
@@ -1304,9 +1285,6 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Tilføj widgets
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Udforsk widgets
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

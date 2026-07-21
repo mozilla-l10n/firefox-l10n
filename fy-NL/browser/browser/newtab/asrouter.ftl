@@ -494,10 +494,3 @@ nova-early-access-share-feedback-link = Kommentaar diele
     .accesskey = K
 nova-early-access-infobar-primary-button = Begrepen
     .accesskey = g
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = { -brand-short-name } starte hieltyd wannear’t jo jo by Windows oanmelde?
-app-exit-spotlight-checkbox-launch-on-login = { -brand-short-name } iepenje by opstarten
-app-exit-spotlight-checkbox-pin-to-taskbar = Oan jo taakbalke fêstsette
-app-exit-spotlight-primary-button = Bewarje en { -brand-short-name } slute

@@ -486,8 +486,3 @@ nova-early-access-share-feedback-link = Sporoči povratne informacije
     .accesskey = S
 nova-early-access-infobar-primary-button = Razumem
     .accesskey = z
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-checkbox-pin-to-taskbar = Pripni v opravilno vrstico
-app-exit-spotlight-primary-button = Shrani in zapri { -brand-short-name(sklon: "tozilnik") }

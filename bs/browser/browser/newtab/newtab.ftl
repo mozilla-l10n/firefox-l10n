@@ -34,9 +34,6 @@ newtab-logo-and-wordmark =
 home-homepage-new-tabs =
     .label = Novi tabovi
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 home-prefs-firefox-logo-header =
@@ -88,47 +85,6 @@ home-prefs-support-firefox-header-srd =
     .label = Podržite { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Saznajte kako
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Strings for the Picture of the Day widget
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -176,9 +132,6 @@ newtab-topsites-use-custom-image-link = Koristite prilagođenu sliku
 newtab-topsites-use-image-link = Koristite prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Probajte drugi URL.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Otkaži
@@ -196,9 +149,6 @@ newtab-confirm-delete-history-p2 = Ova radnja se ne može opozvati.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Sponzorisano
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -544,9 +494,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -678,12 +625,6 @@ newtab-custom-wallpaper-title = Prilagođene pozadine su ovdje
 newtab-custom-wallpaper-subtitle = Otpremite vlastitu pozadinu ili odaberite prilagođenu boju kako biste { -brand-product-name } prilagodili sebi.
 newtab-custom-wallpaper-cta = Probaj
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmite { -brand-product-name } za mobilne uređaje
@@ -721,46 +662,3 @@ newtab-report-cancel = Otkaži
 newtab-report-submit = Pošalji
 newtab-toast-thanks-for-reporting =
     .message = Hvala vam što ste ovo prijavili.
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

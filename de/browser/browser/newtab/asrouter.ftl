@@ -494,10 +494,3 @@ nova-early-access-share-feedback-link = Sagen Sie Ihre Meinung
     .accesskey = S
 nova-early-access-infobar-primary-button = Verstanden
     .accesskey = V
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = { -brand-short-name } bei jeder Windows-Anmeldung starten?
-app-exit-spotlight-checkbox-launch-on-login = { -brand-short-name } beim Start öffnen
-app-exit-spotlight-checkbox-pin-to-taskbar = An Taskleiste anheften
-app-exit-spotlight-primary-button = Speichern und { -brand-short-name } schließen

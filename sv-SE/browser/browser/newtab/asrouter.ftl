@@ -494,10 +494,3 @@ nova-early-access-share-feedback-link = Dela feedback
     .accesskey = D
 nova-early-access-infobar-primary-button = Jag förstår
     .accesskey = J
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = Starta { -brand-short-name } varje gång du loggar in på Windows?
-app-exit-spotlight-checkbox-launch-on-login = Öppna { -brand-short-name } vid start
-app-exit-spotlight-checkbox-pin-to-taskbar = Fäst i aktivitetsfältet
-app-exit-spotlight-primary-button = Spara och stäng { -brand-short-name }

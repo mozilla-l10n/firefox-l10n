@@ -494,10 +494,3 @@ nova-early-access-share-feedback-link = Visszajelzés megosztása
     .accesskey = V
 nova-early-access-infobar-primary-button = Megértettem!
     .accesskey = M
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = A { -brand-short-name } indítása a Windowsba való minden bejelentkezéskor?
-app-exit-spotlight-checkbox-launch-on-login = A { -brand-short-name } megnyitása rendszerindításkor
-app-exit-spotlight-checkbox-pin-to-taskbar = Rögzítés a tálcára
-app-exit-spotlight-primary-button = A { -brand-short-name } mentése és bezárása

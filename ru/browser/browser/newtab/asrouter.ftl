@@ -497,10 +497,3 @@ nova-early-access-share-feedback-link = Поделиться отзывом
     .accesskey = Ы
 nova-early-access-infobar-primary-button = Понятно
     .accesskey = П
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = Запускать { -brand-short-name } каждый раз, когда вы входите в Windows?
-app-exit-spotlight-checkbox-launch-on-login = Открывать { -brand-short-name } при запуске
-app-exit-spotlight-checkbox-pin-to-taskbar = Закрепить на панели задач
-app-exit-spotlight-primary-button = Сохранить и закрыть { -brand-short-name }

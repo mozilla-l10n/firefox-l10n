@@ -506,10 +506,3 @@ nova-early-access-share-feedback-link = Rhannu adborth
     .accesskey = R
 nova-early-access-infobar-primary-button = Iawn
     .accesskey = I
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = Cychwyn { -brand-short-name } bob tro y byddwch yn mewngofnodi i Windows?
-app-exit-spotlight-checkbox-launch-on-login = Agor { -brand-short-name } wrth gychwyn
-app-exit-spotlight-checkbox-pin-to-taskbar = Pinio i'r bar tasgau
-app-exit-spotlight-primary-button = Cadw a chau { -brand-short-name }

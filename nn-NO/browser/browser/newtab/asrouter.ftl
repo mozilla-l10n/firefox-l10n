@@ -493,10 +493,3 @@ nova-early-access-share-feedback-link = Del tilbakemelding
     .accesskey = D
 nova-early-access-infobar-primary-button = Eg forstår
     .accesskey = E
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = Starte { -brand-short-name } kvar gong du loggar inn på Windows?
-app-exit-spotlight-checkbox-launch-on-login = Opne { -brand-short-name } ved oppstart
-app-exit-spotlight-checkbox-pin-to-taskbar = Fest til oppgåvelinje
-app-exit-spotlight-primary-button = Lagre og lat att { -brand-short-name }

@@ -289,10 +289,3 @@ relay-50-masks-announcement-secondary-button = رڌ کردن
 
 nova-early-access-infobar-primary-button = فئمیم
     .accesskey = G
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = هر سا ک و من ویندووز ایاین، { -brand-short-name } ره بوۊفته؟
-app-exit-spotlight-checkbox-launch-on-login = گۊشیڌن { -brand-short-name } مجال ره وندن
-app-exit-spotlight-checkbox-pin-to-taskbar = و تسکبار بدیسه
-app-exit-spotlight-primary-button = زفت کردن وو بستن { -brand-short-name }

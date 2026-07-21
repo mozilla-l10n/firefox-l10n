@@ -27,9 +27,6 @@ newtab-logo-and-wordmark =
 home-homepage-new-tabs =
     .label = Jaunas cilnes
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 # Variables:
@@ -70,34 +67,6 @@ home-prefs-recent-activity-select =
     .aria-label = Nesenās aktivitātes
 home-prefs-weather-header-srd =
     .label = Laikapstākļi
-
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
 
 ## Strings for the Stocks widget
 
@@ -181,9 +150,6 @@ newtab-topsites-use-custom-image-link = Izmantot pielāgotu attēlu
 newtab-topsites-use-image-link = Izmantot pielāgotu attēlu…
 newtab-topsites-image-validation = Neizdevās ielādēt attēlu. Izmēģiniet citu adresi.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Atcelt
@@ -201,9 +167,6 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Apmaksāts
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -248,9 +211,6 @@ newtab-menu-section-learn-more = Uzzināt vairāk
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Pārtraukt sekot tēmai
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -524,12 +484,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -614,72 +568,6 @@ newtab-section-follow-button = Sekot
 newtab-section-following-button = Seko
 newtab-section-unfollow-button = Pārtraukt sekošanu
 
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne tagad
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

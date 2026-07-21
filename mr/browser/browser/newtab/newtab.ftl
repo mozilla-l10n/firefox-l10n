@@ -15,9 +15,6 @@ newtab-settings-button =
 home-homepage-new-tabs =
     .label = नवीन टॅब
 
-## Custom URLs subpage
-
-
 ## Firefox Home content
 
 # Variables:
@@ -44,47 +41,6 @@ home-prefs-highlights-options-bookmarks-srd =
 home-prefs-highlights-option-most-recent-download-srd =
     .label = अलीकडचे डाउनलोड
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Strings for the Picture of the Day widget
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -108,9 +64,6 @@ newtab-topsites-use-custom-image-link = सानुकूल प्रतिम
 newtab-topsites-use-image-link = सानुकूल प्रतिमा वापरा…
 newtab-topsites-image-validation = प्रतिमा लोड झाली नाही. वेगळी URL वापरून पहा.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = रद्द करा
@@ -124,12 +77,6 @@ newtab-topsites-add-button = समाविष्ट करा
 newtab-confirm-delete-history-p1 = आपल्या इतिहासामधून या पृष्ठातील प्रत्येक उदाहरण खात्रीने हटवू इच्छिता?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ही क्रिया पूर्ववत केली जाऊ शकत नाही.
-
-## Top Sites - Sponsored label
-
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -161,9 +108,6 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } मध्ये जतन �
 newtab-menu-delete-pocket = { -pocket-brand-name } मधून हटवा
 newtab-menu-archive-pocket = { -pocket-brand-name } मध्ये संग्रहित करा
 newtab-menu-show-privacy-info = आमचे प्रायोजक आणि आपली गोपनीयता
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -258,118 +202,8 @@ newtab-pocket-read-more = लोकप्रिय विषय:
 newtab-pocket-more-recommendations = अधिक शिफारसी
 newtab-pocket-cta-button = { -pocket-brand-name } मिळवा
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = अरेरे, हा मजकूर लोड करताना काहीतरी गोंधळ झाला.
 newtab-error-fallback-refresh-link = पुन्हा प्रयत्न करण्यासाठी पृष्ठ रिफ्रेश करा.
-
-## Customization Menu
-
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the Clock widget
-

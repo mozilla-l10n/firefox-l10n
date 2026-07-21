@@ -493,10 +493,3 @@ nova-early-access-share-feedback-link = Αποστολή σχολίων
     .accesskey = σ
 nova-early-access-infobar-primary-button = Το κατάλαβα
     .accesskey = κ
-
-## App Exit Spotlight dialog
-
-app-exit-spotlight-title = Εκκίνηση του { -brand-short-name } κάθε φορά που συνδέεστε στα Windows;
-app-exit-spotlight-checkbox-launch-on-login = Άνοιγμα του { -brand-short-name } κατά την εκκίνηση
-app-exit-spotlight-checkbox-pin-to-taskbar = Καρφίτσωμα στη γραμμή εργασιών σας
-app-exit-spotlight-primary-button = Αποθήκευση και κλείσιμο του { -brand-short-name }

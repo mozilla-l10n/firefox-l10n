@@ -1484,9 +1484,6 @@ newtab-sports-widget-message-day-in-play-body = ਵਰਲਡ ਕੱਪ ਨੂੰ
 newtab-sports-widget-message-explore-widgets-cta =
     .label = ਵਿਜੈੱਟ ਲੱਭੋ
 
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
