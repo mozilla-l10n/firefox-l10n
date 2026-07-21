@@ -443,6 +443,7 @@ newtab-topsites-url-input =
     .placeholder = Tastează sau inserează un URL
 newtab-topsites-url-validation = URL valid necesar
 newtab-topsites-image-url-label = URL pentru imagine personalizată
+newtab-topsites-use-custom-image-link = Folosește o imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
 
