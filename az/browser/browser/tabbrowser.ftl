@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Yeni Vərəq
+tabbrowser-empty-private-tab-title = Yeni Məxfi Vərəq
 tabbrowser-menuitem-close-tab =
     .label = Vərəqi Qapat
 tabbrowser-menuitem-close =

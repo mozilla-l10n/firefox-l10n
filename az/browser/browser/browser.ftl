@@ -7,6 +7,19 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Məxfi Səyahət
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — Məxfi Səyahət
+       *[other] { -brand-full-name } Məxfi Səyahət
+    }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Məxfi Səyahət
 
 ##
 
@@ -157,6 +170,7 @@ search-one-offs-bookmarks =
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
+quickactions-cmd-private = məxfi səyahət
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
 
@@ -426,8 +440,8 @@ toolbar-button-synced-tabs =
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Yeni Məxfi Pəncərə
-    .tooltiptext = Yeni Gizli Pəncərə aç ({ $shortcut })
+    .label = Yeni məxfi pəncərə
+    .tooltiptext = Yeni məxfi səyahət pəncərəsi açın ({ $shortcut })
 
 ## EME notification panel
 
@@ -499,6 +513,11 @@ data-reporting-notification-message = { -brand-short-name } avtomatik bəzi məl
 data-reporting-notification-button =
     .label = Nəyi Paylaşdığımı Seç
     .accesskey = S
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Məxfi səyahət
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Məxfi səyahət
 
 ## Autorefresh blocker
 
