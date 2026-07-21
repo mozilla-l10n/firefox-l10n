@@ -438,6 +438,7 @@ newtab-topsites-url-input =
     .placeholder = Увядзіце або ўстаўце URL
 newtab-topsites-url-validation = Патрабуецца сапраўдны URL
 newtab-topsites-image-url-label = Уласны URL выявы
+newtab-topsites-use-custom-image-link = Выкарыстоўваць уласную выяву
 newtab-topsites-use-image-link = Выкарыстоўваць уласную выяву…
 newtab-topsites-image-validation = Не ўдалося атрымаць выяву. Паспрабуйце іншы URL.
 
