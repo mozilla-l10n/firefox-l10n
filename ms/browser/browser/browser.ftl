@@ -496,6 +496,9 @@ quickactions-cmd-update = kemas kini
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Papar sumber halaman
 quickactions-cmd-viewsource2 = papar sumber, sumber, sumber halaman
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Buka { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, eksperimen
 quickactions-cmd-viewsource = papar sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -547,9 +550,21 @@ identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
 identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
 identity-https-only-connection-upgraded = (dinaik taraf ke HTTPS)
+identity-https-only-label2 = Naik taraf laman ini secara automatik ke sambungan selamat
+identity-https-only-info-turn-on2 = Hidupkan Mod HTTPS Sahaja untuk laman ini jika anda mahu { -brand-short-name } menaik taraf sambungan apabila boleh.
+identity-https-only-info-turn-off2 = Jika halaman nampak rosak, anda mungkin mahu matikan Mod HTTPS Sahaja untuk laman ini supaya dimuat semula menggunakan HTTP tidak selamat.
+identity-https-only-info-turn-on3 = Hidupkan naik taraf HTTPS untuk laman ini jika anda mahu { -brand-short-name } menaik taraf sambungan apabila boleh.
+identity-https-only-info-turn-off3 = Jika halaman nampak rosak, anda mungkin mahu matikan naik taraf HTTPS untuk laman ini supaya dimuat semula menggunakan HTTP tidak selamat.
+identity-https-only-info-no-upgrade = Tidak dapat menaik taraf sambungan daripada HTTP.
+identity-permissions-storage-access-header = Kuki merentas laman
+identity-permissions-storage-access-hint = Pihak ini boleh menggunakan kuki merentas laman dan data laman semasa anda berada di laman ini.
 identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
 identity-clear-site-data =
     .label = Buang Kuki dan Data Laman…
+identity-connection-not-secure-security-view = Anda tidak bersambung dengan selamat ke laman ini.
+identity-connection-verified = Anda bersambung dengan selamat ke laman ini.
+identity-ev-owner-label = Sijil dikeluarkan kepada:
+identity-description-custom-root2 = Mozilla tidak mengenali pengeluar sijil ini. Ia mungkin ditambah daripada sistem pengendalian anda atau oleh pentadbir.
 identity-remove-cert-exception =
     .label = Buang Pengecualian
     .accesskey = B
@@ -576,8 +591,45 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimum
+browser-window-restore-down-button =
+    .tooltiptext = Pulihkan
 browser-window-close-button =
     .tooltiptext = Tutup
+
+## Tab actions
+
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = BERMAIN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = DISENYAPKAN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = MAIN AUTOMATIK DISEKAT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PAPARAN DALAM PAPARAN
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] SENYAPKAN TAB
+       *[other] SENYAPKAN { $count } TAB
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] NYAHSENYAPKAN TAB
+       *[other] NYAHSENYAPKAN { $count } TAB
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] MAINKAN TAB
+       *[other] MAINKAN { $count } TAB
+    }
+
+## Bookmarks toolbar items
+
+bookmarks-toolbar-empty-message = Untuk akses pantas, letakkan penanda halaman anda di sini pada bar alat penanda halaman. <a data-l10n-name="manage-bookmarks">Urus penanda halaman...</a>
 
 ## WebRTC Pop-up notifications
 
