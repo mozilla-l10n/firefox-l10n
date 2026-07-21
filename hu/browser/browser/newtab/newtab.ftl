@@ -427,6 +427,7 @@ newtab-topsites-url-input =
     .placeholder = Írjon vagy illesszen be egy webcímet
 newtab-topsites-url-validation = Érvényes webcím szükséges
 newtab-topsites-image-url-label = Egyéni kép webcíme
+newtab-topsites-use-custom-image-link = Egyéni kép használata
 newtab-topsites-use-image-link = Egyéni kép használata…
 newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik webcímet.
 
