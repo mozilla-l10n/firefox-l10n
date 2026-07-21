@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Pulsar nove clave:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (non pote esser cambiate)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,9 @@ customkeys-conflict-confirm-title = Remover un altere via-breve?
 customkeys-conflict-confirm-body = Iste clave es jam usate per “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Usar comocunque
 customkeys-conflict-confirm-button-cancel = Cancellar
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Iste clave es jam usate per “{ $conflict }” e non pote esser usate
 customkeys-reset-all-confirm-title = Restaurar le parametros predefinite?
 customkeys-reset-all-confirm-body = Alcun vias breve de claviero personalisate que tu ha create sera removite.
 customkeys-reset-all-confirm-button-confirm = Restaurar le parametros predefinite

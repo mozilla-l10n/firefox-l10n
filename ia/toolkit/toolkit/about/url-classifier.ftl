@@ -37,6 +37,12 @@ url-classifier-cache-prefix = Prefixo
 url-classifier-cache-ncache-expiry = Expiration de cache negative
 url-classifier-cache-fullhash = Hash complete
 url-classifier-cache-pcache-expiry = Expiration de cache positive
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Resultatos
+url-classifier-content-classifier-pbm = Navigation private
 url-classifier-debug-title = Depuration
 url-classifier-debug-module-btn = Definir le modulos de registro
 url-classifier-debug-file-btn = Definir le file de registro

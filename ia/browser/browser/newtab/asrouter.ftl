@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>Aperir { -brand-short-name } qua
 launch-on-login-infobar-final-reject-button = No, gratias
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } ora es lanceate quando tu accede a Windows. Tu pote sempre cambiar lo plus tarde in configurationes.
+launch-on-login-autostart-infobar-keep-button = Mantener active
+    .accesskey = a
+launch-on-login-autostart-infobar-turn-off-button = Disactivar
+    .accesskey = D
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -501,5 +515,10 @@ nova-early-access-infobar-primary-button = Comprendite
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Lancear { -brand-short-name } cata vice que tu accede a Windows?
+launch-options-spotlight-title-session-restore = Reaperir tu session quando { -brand-short-name } se reinitialisa?
 launch-options-spotlight-checkbox-launch-on-login = Aperir { -brand-short-name } al initialisation
 launch-options-spotlight-checkbox-pin-to-taskbar = Fixar a tu barra del cargas
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Salvar e clauder { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Salvar e continuar
