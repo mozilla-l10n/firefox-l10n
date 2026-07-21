@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Open { -brand-short-name } every
 launch-on-login-infobar-final-reject-button = No thanks
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } now starts up when you sign in to Windows. You can always change this later in settings.
+launch-on-login-autostart-infobar-keep-button = Keep on
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Turn off
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -493,3 +507,10 @@ nova-early-access-share-feedback-link = Share feedback
     .accesskey = S
 nova-early-access-infobar-primary-button = Got it
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Start { -brand-short-name } every time you sign in to Windows?

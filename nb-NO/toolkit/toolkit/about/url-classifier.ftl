@@ -37,6 +37,10 @@ url-classifier-cache-prefix = Prefiks
 url-classifier-cache-ncache-expiry = Negativ hurtiglagerutløp
 url-classifier-cache-fullhash = Fullstendig hash
 url-classifier-cache-pcache-expiry = Positiv hurtiglagerutløp
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = Nettadresse
+url-classifier-content-classifier-pbm = Privat nettlesing
 url-classifier-debug-title = Feilsøking
 url-classifier-debug-module-btn = Velg loggmoduler
 url-classifier-debug-file-btn = Velg loggfil

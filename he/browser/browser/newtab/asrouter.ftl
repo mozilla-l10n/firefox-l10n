@@ -290,6 +290,20 @@ launch-on-login-infobar-final-message = <strong>לפתוח את { -brand-short-n
 launch-on-login-infobar-final-reject-button = לא תודה
     .accesskey = ל
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = ‏{ -brand-short-name } מופעל כעת בעת הכניסה ל־Windows. תמיד ניתן לשנות זאת מאוחר יותר בהגדרות.
+launch-on-login-autostart-infobar-keep-button = להשאיר פעיל
+    .accesskey = פ
+launch-on-login-autostart-infobar-turn-off-button = לכבות
+    .accesskey = כ
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -487,3 +501,21 @@ nova-early-access-share-feedback-link = שיתוף משוב
     .accesskey = מ
 nova-early-access-infobar-primary-button = הבנתי
     .accesskey = ה
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = להפעיל את { -brand-short-name } בכל פעם כשמתחברים ל־Windows?
+launch-options-spotlight-title-session-restore = לפתוח מחדש את ההפעלה שלך כאשר { -brand-short-name } מופעל מחדש?
+launch-options-spotlight-checkbox-launch-on-login = פתיחת { -brand-short-name } בעת הדלקת המחשב
+launch-options-spotlight-checkbox-pin-to-taskbar = הצמדה לשורת המשימות שלך
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = פתיחה מחדש של החלונות והלשוניות הנוכחיות
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = פתיחה מחדש של החלונות והלשוניות הקודמות
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = שמירה וסגירת { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = שמירה והמשך
