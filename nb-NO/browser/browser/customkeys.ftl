@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Trykk ny hurtigtast:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (kan ikke endres)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Fjerne en annen hurtigtast?
 customkeys-conflict-confirm-body = Denne hurtigtasten er allerede i bruk av «{ $conflict }».
 customkeys-conflict-confirm-button-confirm = Bruk likevel
 customkeys-conflict-confirm-button-cancel = Avbryt
+customkeys-conflict-unusable-title = Tast kan ikke brukes
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Denne tasten er allerede i bruk av «{ $conflict }» og kan ikke brukes.
 customkeys-reset-all-confirm-title = Gjenopprette standardverdier?
 customkeys-reset-all-confirm-body = Eventuelle tilpassede hurtigtaster du har opprettet, vil bli fjernet.
 customkeys-reset-all-confirm-button-confirm = Gjenopprett standardverdier
