@@ -519,6 +519,20 @@ private-browsing-indicator-label = Məxfi səyahət
 private-browsing-indicator-tooltip =
     .tooltiptext = Məxfi səyahət
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Məxfi Seansı Bitir
+    .tooltiptext = Məxfi Seansı Bitir
+reset-pbm-panel-heading2 = Məlumatlar təmizlənilsin və yeni bir məxfi seans başladılsın?
+reset-pbm-panel-description2 = Bu prosedur Məxfi Pəncərənizi bağlamadan tarixçəniz, çərəzləriniz və digər sayt məlumatlarınızı siləcəkdir.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Həmişə soruş
+    .accesskey = A
+reset-pbm-toolbar-button2 =
+    .label = Məxfi Seansı Təmizlə
+    .tooltiptext = Məxfi Seansı Təmizlə
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu səhifənin avtomatik yenilənməsinin qarşısını aldı.

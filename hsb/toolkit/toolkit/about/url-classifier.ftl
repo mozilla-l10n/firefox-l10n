@@ -76,6 +76,8 @@ url-classifier-content-classifier-probe-blocking-btn = Probowe blokowanje
 url-classifier-content-classifier-probe-feature-btn = Probowa funkcija
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funkcija
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Wotpowěduje
 # Column header: whether this feature matched an exception/allow-list entry that
 # spares the request (true/false).
 url-classifier-content-classifier-col-exception = Wuwzaće
