@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>{ -brand-short-name } iepenje el
 launch-on-login-infobar-final-reject-button = Nee tankewol
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } wurdt no start as jo jo oanmelde by Windows. Jo kinne dit letter altyd wizigje yn ynstellingen.
+launch-on-login-autostart-infobar-keep-button = Ynskeakele hâlde
+    .accesskey = Y
+launch-on-login-autostart-infobar-turn-off-button = Utskeakelje
+    .accesskey = U
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -494,3 +508,15 @@ nova-early-access-share-feedback-link = Kommentaar diele
     .accesskey = K
 nova-early-access-infobar-primary-button = Begrepen
     .accesskey = g
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = { -brand-short-name } starte hieltyd wannear’t jo jo by Windows oanmelde?
+launch-options-spotlight-title-session-restore = Jo sesje opnij iepenje as { -brand-short-name } opnij starten wurdt?
+launch-options-spotlight-checkbox-launch-on-login = { -brand-short-name } iepenje by opstarten
+launch-options-spotlight-checkbox-pin-to-taskbar = Oan jo taakbalke fêstsette
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Aktuele finsters en ljepblêden opnij iepenje

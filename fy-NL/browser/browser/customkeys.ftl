@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Druk op nije toets:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (kin net wizige wurde)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Noch in fluchkeppeling fuortsmite?
 customkeys-conflict-confirm-body = Dizze toets wurdt al troch ‘{ $conflict }’ brûkt.
 customkeys-conflict-confirm-button-confirm = Dochs brûke
 customkeys-conflict-confirm-button-cancel = Annulearje
+customkeys-conflict-unusable-title = Kaai kin net brûkt wurde
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Dizze kaai wurdt al brûkt troch ‘{ $conflict }’ en kin net brûkt wurde.
 customkeys-reset-all-confirm-title = Standertynstellingen weromsette?
 customkeys-reset-all-confirm-body = Alle oanpaste fluchtoetsen dy’t jo makke hawwe, sille fuortsmiten wurde.
 customkeys-reset-all-confirm-button-confirm = Standertwearden werombringe

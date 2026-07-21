@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Kommentaar ferstjoere
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is in <label data-l10n-name="community-exp-creditsLink">wrâldwide mienskip</label> dy’t gearwurket om it ynternet iepen, iepenbier, en foar elkenien tagonklik te hâlden.
 community-2 = { -brand-short-name } is makke troch <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, in <label data-l10n-name="community-creditsLink">wrâldwide mienskip</label> dy’t gearwurket om it ynternet iepen, iepenbier, en foar elkenien tagonklik te hâlden.
 helpus = Wolle jo helpe? <label data-l10n-name="helpus-donateLink">Jou in donaasje</label> of <label data-l10n-name="helpus-getInvolvedLink">doch mei!</label>
+helpus-referrals = Wolle jo helpe? <label data-l10n-name="helpus-donateLink">Doch in donaasje</label>, <label data-l10n-name="helpus-shareFirefoxLink">Diel { -brand-short-name }</label>, of <label data-l10n-name="helpus-getInvolvedLink">help mei!</label>
 bottomLinks-license = Lisinsje-ynformaasje
 bottom-links-terms = Brûkersbetingsten
 bottom-links-privacy = Privacyferklearring
