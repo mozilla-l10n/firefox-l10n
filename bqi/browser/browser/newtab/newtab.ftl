@@ -140,6 +140,12 @@ home-prefs-support-firefox-header-srd =
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = قلوه دووسته بۊین
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -161,6 +167,12 @@ newtab-privacy-message-promo-vpn-1-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-vpn-2-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-vpn-3-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-private-window-1-cta = گۊشیڌن نیمدری سیخومی
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
 
 ## Strings for the Stocks widget
 
@@ -234,6 +246,7 @@ newtab-topsites-url-input =
     .placeholder = ی نشۊوی هؽل کۊنین یا جا بونین
 newtab-topsites-url-validation = نشۊوی اینترنتی موعتبر لازوم هڌ
 newtab-topsites-image-url-label = نشۊوی سفارشی شؽوات
+newtab-topsites-use-custom-image-link = و کار گرؽڌن ی شؽوات سفارشی
 newtab-topsites-use-image-link = و کار گرؽڌن ی شؽوات سفارشی…
 newtab-topsites-image-validation =
     بار ونی شؽوات شکست خرد.
@@ -307,6 +320,9 @@ newtab-menu-section-block = مسدۊد کردن
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = قلوه دووسته بۊین
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
@@ -372,6 +388,9 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
@@ -389,6 +408,13 @@ newtab-pocket-saved = زفت وابی
 newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
 
 ## Customization Menu
 
@@ -460,6 +486,9 @@ newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
 newtab-wallpaper-dark-purple = بناوش تاریک
 newtab-wallpaper-dark-green = ساوز تاریک
+
+## Abstract
+
 
 ## Firefox
 
@@ -589,6 +618,9 @@ newtab-custom-wallpaper-cta = امتهووس کوݩ
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
@@ -813,6 +845,9 @@ newtab-sports-widget-match-halftime = نیمه ٱول
 newtab-sports-widget-match-extra-time = مجال ازافه
 newtab-sports-widget-match-penalties = جریمه یل
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:
@@ -831,6 +866,13 @@ newtab-sports-widget-team-name-label-eng =
     .label = انگلستووݩ
 newtab-sports-widget-team-name-label-sco =
     .label = اسکاتلند
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
