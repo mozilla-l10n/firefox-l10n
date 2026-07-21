@@ -198,6 +198,28 @@ urlbar-result-menu-remove-from-history2 = Buang daripada sejarah
     .accesskey = B
 urlbar-result-menu-tip-get-help2 = Dapatkan bantuan
     .accesskey = b
+urlbar-result-menu-dismiss-suggestion2 = Abaikan cadangan ini
+    .accesskey = A
+urlbar-result-menu-manage-firefox-suggest2 = Urus { -firefox-suggest-brand-name }
+    .accesskey = U
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = Laporkan lokasi tidak tepat
+urlbar-result-menu-show-less-frequently2 = Tunjukkan kurang kerap
+urlbar-result-menu-dont-show-weather-suggestions2 = Jangan tunjuk cadangan cuaca
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Abaikan cadangan ini
+    .accesskey = A
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Buang daripada sejarah
+    .accesskey = B
 urlbar-result-menu-learn-more =
     .label = Ketahui selanjutnya
     .accesskey = K
@@ -230,6 +252,12 @@ urlbar-result-menu-dont-show-weather-suggestions =
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = Buka menu
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Terima kasih atas maklum balas anda
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Terima kasih atas maklum balas anda. Anda tidak akan nampak cadangan cuaca lagi.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -244,10 +272,20 @@ urlbar-search-tips-persist = Carian kini lebih mudah. Cuba buat carian anda lebi
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pilih pintasan ini untuk cari apa yang anda perlukan dengan lebih pantas.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-actions = Tindakan
+
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Anda telah menyekat maklumat lokasi untuk laman web ini.
+urlbar-localhost-blocked =
+    .tooltiptext = Anda telah menyekat sambungan peranti tempatan untuk laman web ini.
+urlbar-local-network-blocked =
+    .tooltiptext = Anda telah menyekat sambungan rangkaian tempatan untuk laman web ini.
+urlbar-xr-blocked =
+    .tooltiptext = Anda telah menyekat akses peranti realiti maya untuk laman web ini.
 urlbar-web-notifications-blocked =
     .tooltiptext = Anda telah menyekat notifikasi untuk laman web ini.
 urlbar-camera-blocked =
@@ -258,6 +296,8 @@ urlbar-screen-blocked =
     .tooltiptext = Anda telah menyekat laman web ini daripada berkongsi skrin anda.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Anda telah menghalang storan gigih untuk laman web ini.
+urlbar-popup-blocked2 =
+    .tooltiptext = Anda telah menyekat pop-up dan lencongan pihak ketiga untuk laman web ini.
 urlbar-popup-blocked =
     .tooltiptext = Anda telah menyekat pop-up untuk laman web ini.
 urlbar-autoplay-media-blocked =
@@ -266,6 +306,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
+urlbar-install-blocked =
+    .tooltiptext = Anda telah menyekat pemasangan add-on untuk laman web ini.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -280,6 +322,15 @@ urlbar-star-add-bookmark =
 clear-search-history =
     .label = Buang Sejarah Carian
     .accesskey = S
+
+## Page Action Context Menu
+
+page-action-manage-extension2 =
+    .label = Urus Sambungan...
+    .accesskey = S
+page-action-remove-extension2 =
+    .label = Buang Sambungan
+    .accesskey = B
 
 ## Auto-hide Context Menu
 
@@ -300,10 +351,34 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Tambah “{ $engineName }”
+    .aria-label = Tambah enjin carian “{ $engineName }”
+    .tooltiptext = Tambah enjin carian “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Tambah enjin carian
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Penanda Halaman ( { $restrict } )
 
 ## Bookmark Panel
 
