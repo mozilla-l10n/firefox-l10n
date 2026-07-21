@@ -15,6 +15,7 @@ about-private-browsing-handoff =
 about-private-browsing-handoff-text = { $engine } ilə axtar və ya ünvanı daxil et
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
 about-private-browsing-learn-more-link = Ətraflı öyrən
+about-private-browsing-hide-activity = İnternetdə gəzdiyiniz hər yerdə fəaliyyətinizi və yerinizi gizlədin.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -25,3 +26,11 @@ about-private-browsing-learn-more-link = Ətraflı öyrən
 about-private-browsing-search-banner-title = { $engineName } sizin Məxfi Pəncərədəki standart axtarış mühərrikinizdir
 about-private-browsing-search-banner-close-button =
     .aria-label = Qapat
+
+## Strings for the info section of about:privatebrowsing
+
+about-private-browsing-felt-privacy-v1-info-link = Kim mənim fəaliyyətimi görə bilər?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-link = Kim hələ də mənim fəaliyyətimi görə bilir?
