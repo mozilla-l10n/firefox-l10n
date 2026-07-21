@@ -11,7 +11,7 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = Mula semula untuk mengemas kini { -brand-shorter-name }
     .accesskey = M
-update-checkingForUpdates = Menyemak kemaskini…
+update-checkingForUpdates = Menyemak kemas kini…
 settings-update-checking-for-updates =
     .label = Menyemak kemaskini…
 
@@ -19,6 +19,7 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Memuat turun kemaskini — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Memuat turun kemas kini — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Memuat turun kemaskini — { $transfer }
 
@@ -29,7 +30,7 @@ settings-update-applying =
     .label = Melaksanakan kemaskini…
 update-failed = Kemaskini gagal. <label data-l10n-name="failed-link">Muat turun versi terkini</label>
 update-failed-main = Kemaskini gagal. <a data-l10n-name="failed-link-main">Muat turun versi terkini</a>
-update-adminDisabled = Kemaskini dinyahdayakan oleh pentadbir sistem anda
+update-adminDisabled = Kemas kini dinyahdayakan oleh pentadbir sistem anda
 update-noUpdatesFound = { -brand-short-name } sudah terkini
 settings-update-no-updates-found =
     .label = { -brand-short-name } sudah terkini
