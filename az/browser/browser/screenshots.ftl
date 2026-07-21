@@ -31,3 +31,13 @@ screenshots-private-window-error-title = { -screenshots-brand-name } özəlliyi 
 screenshots-private-window-error-details = Narahatlıq üçün üzr istəyirik. Gələcək buraxılışlarda bu özəllik üzərində işləyirik.
 screenshots-generic-error-title = Off! { -screenshots-brand-name } dəli olub.
 screenshots-generic-error-details = Nə baş verdiyindən əmin deyilik. Bir daha yoxlayın və ya başqa səhifənin ekran görüntüsünü alaraq işləyib işləmədiyinə əmin olun.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Köçür
+    .title = Köçür ({ $shortcut })
+    .aria-label = Köçür
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Endir
+    .title = Endir ({ $shortcut })
+    .aria-label = Endir

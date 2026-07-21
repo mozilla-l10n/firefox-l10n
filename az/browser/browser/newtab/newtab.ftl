@@ -17,11 +17,22 @@ newtab-settings-dialog-label =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Ana Səhifə
+home-homepage-new-windows =
+    .label = Yeni pəncərə
 home-homepage-new-tabs =
     .label = Yeni vərəqlər
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Müəyyən bir sayt seç
 
 ## Custom URLs subpage
 
+home-custom-homepage-address =
+    .placeholder = Ünvanı daxil et
+home-custom-homepage-address-button =
+    .label = Ünvan əlavə et
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Əlfəcinlər…
@@ -58,10 +69,19 @@ home-prefs-highlights-option-most-recent-download-srd =
 newtab-search-box-search-button =
     .title = Axtar
     .aria-label = Axtar
+newtab-search-box-handoff-input-no-engine =
+    .title = Axtar və ya ünvanı daxil et
+    .aria-label = Axtar və ya ünvanı daxil et
+    .placeholder = Axtar və ya ünvanı daxil et
+newtab-search-box-text = İnternetdə axtar
+newtab-search-box-input =
+    .aria-label = İnternetdə axtar
+    .placeholder = İnternetdə axtar
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Axtarış mühərriyi əlavə et
+newtab-topsites-add-shortcut-header = Yeni Qısayol
 newtab-topsites-edit-topsites-header = Qabaqcıl Saytları Dəyişdir
 newtab-topsites-title-label = Başlıq
 newtab-topsites-title-input =

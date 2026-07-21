@@ -95,8 +95,8 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } səyyahını fərdil�
 ## Context menu buttons, of which only one will be visible at a time
 
 tabbrowser-context-mute-tab =
-    .label = Vərəqi səssizə al
-    .accesskey = p
+    .label = Vərəqi Səssizə Al
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Vərəqin Səsini aç
     .accesskey = a

@@ -14,6 +14,7 @@ about-private-browsing-handoff =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = { $engine } ilə axtar və ya ünvanı daxil et
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
+about-private-browsing-learn-more-link = Ətraflı öyrən
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
