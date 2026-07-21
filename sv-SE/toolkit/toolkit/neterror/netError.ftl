@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Fortsätt alltid
 neterror-pref-reset = Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?
 neterror-error-reporting-automatic = Rapportera fel som detta för att hjälpa { -vendor-short-name } identifiera och blockera skadliga webbplatser
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Din anslutning kanske inte är privat
+    .message = En app eller tjänst kan se din krypterade trafik från den här webbplatsen.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } kan av någon anledning inte visa sidan.

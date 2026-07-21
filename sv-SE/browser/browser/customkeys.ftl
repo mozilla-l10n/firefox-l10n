@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Tryck på ny tangent:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (kan inte ändras)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Ta bort en annan genväg?
 customkeys-conflict-confirm-body = Den här nyckeln används redan av “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Använd ändå
 customkeys-conflict-confirm-button-cancel = Avbryt
+customkeys-conflict-unusable-title = Nyckeln kan inte användas
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Den här nyckeln används redan av “{ $conflict }” och kan inte användas.
 customkeys-reset-all-confirm-title = Vill du återställa standardinställningarna?
 customkeys-reset-all-confirm-body = Alla anpassade tangentbordsgenvägar som du har skapat kommer att tas bort.
 customkeys-reset-all-confirm-button-confirm = Återställ standard

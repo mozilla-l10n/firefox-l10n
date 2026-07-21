@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>Öppna { -brand-short-name } var
 launch-on-login-infobar-final-reject-button = Nej tack
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } startar nu när du loggar in till Windows. Du kan alltid ändra detta senare i inställningarna.
+launch-on-login-autostart-infobar-keep-button = Fortsätt
+    .accesskey = F
+launch-on-login-autostart-infobar-turn-off-button = Stäng av
+    .accesskey = S
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -494,3 +508,21 @@ nova-early-access-share-feedback-link = Dela feedback
     .accesskey = D
 nova-early-access-infobar-primary-button = Jag förstår
     .accesskey = J
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Starta { -brand-short-name } varje gång du loggar in på Windows?
+launch-options-spotlight-title-session-restore = Öppna din session igen när { -brand-short-name } startar om?
+launch-options-spotlight-checkbox-launch-on-login = Öppna { -brand-short-name } vid start
+launch-options-spotlight-checkbox-pin-to-taskbar = Fäst i aktivitetsfältet
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Återöppna aktuella fönster och flikar
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Återöppna tidigare fönster och flikar
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Spara och stäng { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Spara och fortsätt

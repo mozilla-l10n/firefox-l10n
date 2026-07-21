@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Vous ouvrez { -brand-short-name 
 launch-on-login-infobar-final-reject-button = Non merci
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } démarre désormais lorsque vous vous connectez à Windows. Vous pourrez toujours modifier ce choix depuis les paramètres.
+launch-on-login-autostart-infobar-keep-button = Continuer
+    .accesskey = C
+launch-on-login-autostart-infobar-turn-off-button = Désactiver
+    .accesskey = D
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -493,3 +507,21 @@ nova-early-access-share-feedback-link = Donner mon avis
     .accesskey = D
 nova-early-access-infobar-primary-button = J’ai compris
     .accesskey = J
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Voulez-vous lancer { -brand-short-name } à chaque ouverture de session Windows ?
+launch-options-spotlight-title-session-restore = Rouvrir votre session après le redémarrage de { -brand-short-name } ?
+launch-options-spotlight-checkbox-launch-on-login = Lancer { -brand-short-name } au démarrage
+launch-options-spotlight-checkbox-pin-to-taskbar = Épingler à la barre des tâches
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Rouvrir les fenêtres et onglets actuels
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Rouvrir les fenêtres et onglets précédents
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Enregistrer et fermer { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Enregistrer et continuer

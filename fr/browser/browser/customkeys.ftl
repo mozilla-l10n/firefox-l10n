@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Appuyez sur la nouvelle touche :
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (ne peut pas être changé)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Supprimer un autre raccourci ?
 customkeys-conflict-confirm-body = Cette touche est déjà utilisée par « { $conflict } ».
 customkeys-conflict-confirm-button-confirm = Utiliser tout de même
 customkeys-conflict-confirm-button-cancel = Annuler
+customkeys-conflict-unusable-title = La clé ne peut pas être utilisée
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Cette clé est déjà utilisée par « { $conflict } » et ne peut pas être utilisée.
 customkeys-reset-all-confirm-title = Restaurer les raccourcis par défaut ?
 customkeys-reset-all-confirm-body = Tous les raccourcis clavier personnalisés que vous avez créés seront supprimés.
 customkeys-reset-all-confirm-button-confirm = Restaurer les raccourcis par défaut
