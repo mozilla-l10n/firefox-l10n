@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Fullfør og lås opp bonusrevikoner for å gjøre { -brand-short-name } mer personlig.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Du låste opp alle bonusikonene!
 appearance-browser-icon-set-default-button =
     .label = Sett til standard
 appearance-browser-icon-pin-button =

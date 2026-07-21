@@ -4,12 +4,12 @@
 
 aboutDialog-title =
     .title = Perihal { -brand-full-name }
-releaseNotes-link = Perkembangan terbaru
+releaseNotes-link = Apa yang baharu
 update-checkForUpdatesButton =
-    .label = Semak kemaskini
+    .label = Semak kemas kini
     .accesskey = S
 update-updateButton =
-    .label = Mula semula untuk mengemaskini { -brand-shorter-name }
+    .label = Mula semula untuk mengemas kini { -brand-shorter-name }
     .accesskey = M
 update-checkingForUpdates = Menyemak kemaskini…
 settings-update-checking-for-updates =

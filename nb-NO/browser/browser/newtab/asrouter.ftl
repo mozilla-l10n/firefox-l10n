@@ -304,6 +304,10 @@ launch-on-login-infobar-final-reject-button = Nei takk
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = { -brand-short-name } starter nå opp når du logger på Windows. Du kan alltid endre dette senere i innstillingene.
+launch-on-login-autostart-infobar-keep-button = Behold på
+    .accesskey = B
+launch-on-login-autostart-infobar-turn-off-button = Slå av
+    .accesskey = S
 
 ## Launch on login spotlight
 ##
@@ -509,5 +513,15 @@ nova-early-access-infobar-primary-button = Jeg forstår
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Starte { -brand-short-name } hver gang du logger inn på Windows?
+launch-options-spotlight-title-session-restore = Åpne økten på nytt når { -brand-short-name } starter på nytt?
+launch-options-spotlight-checkbox-launch-on-login = Åpne { -brand-short-name } ved oppstart
+launch-options-spotlight-checkbox-pin-to-taskbar = Fest til oppgavelinjen
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Åpne gjeldende vinduer og faner på nytt
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Åpne tidligere vinduer og faner på nytt
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Lagre og lukk { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Lagre og fortsett
