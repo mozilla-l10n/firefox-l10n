@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Nowe priwatne wokno wočinić
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasiske wokno
+toolbar-switcher-customizable-label =
+    .label = Přepinak { -smart-window-brand-name }
+    .tooltiptext = Přepinajće mjez inteligentnym a klasiskim woknom.
 
 ## Input CTA
 
@@ -317,9 +320,12 @@ aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepřistojny
 aiwindow-feedback-reason-other = Druhe
 aiwindow-feedback-preview-report = Chatowe podrobnosće pokazać
 aiwindow-feedback-preview-report-with-page = Podrobnosće chata a strony pokazać
+aiwindow-feedback-include-page-content = Strony dźělić, kotrež su w tutym chaće referencowane
 
 ## Smart Window ai-chat-grid
 
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Napohladowe wuhotowanje přepinać
 aiwindow-ai-chat-grid-list-view =
     .aria-label = Modus přepinać: Lisćinowy napohlad
     .tooltiptext = Lisćinowy napohlad
