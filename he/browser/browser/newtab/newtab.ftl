@@ -428,6 +428,7 @@ newtab-topsites-url-input =
     .placeholder = נא להקליד או להזין כתובת
 newtab-topsites-url-validation = נדרשת כתובת תקינה
 newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
+newtab-topsites-use-custom-image-link = שימוש בתמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
 

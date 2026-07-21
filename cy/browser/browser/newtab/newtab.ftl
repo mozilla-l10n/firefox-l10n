@@ -465,6 +465,7 @@ newtab-topsites-url-input =
     .placeholder = Teipio neu ludo URL
 newtab-topsites-url-validation = Mae angen URL Ddilys
 newtab-topsites-image-url-label = URL Delwedd Gyfaddas
+newtab-topsites-use-custom-image-link = Defnyddio delwedd gyfaddas
 newtab-topsites-use-image-link = Defnyddio delwedd gyfaddas…
 newtab-topsites-image-validation = Methodd y ddelwedd â llwytho. Defnyddiwch URL gwahanol.
 

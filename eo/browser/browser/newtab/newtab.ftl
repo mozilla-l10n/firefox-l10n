@@ -433,6 +433,7 @@ newtab-topsites-url-input =
     .placeholder = Tajpu aŭ alguu retadreson
 newtab-topsites-url-validation = Valida retadreso estas postulata
 newtab-topsites-image-url-label = Personecitiga retadreso de bildo
+newtab-topsites-use-custom-image-link = Uzi personecigitan bildon
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
 

@@ -448,6 +448,7 @@ newtab-topsites-url-input =
     .placeholder = Zadajte alebo prilepte adresu URL
 newtab-topsites-url-validation = Vyžaduje sa platná adresa URL
 newtab-topsites-image-url-label = Adresa URL vlastného obrázka
+newtab-topsites-use-custom-image-link = Použiť vlastný obrázok
 newtab-topsites-use-image-link = Použiť vlastný obrázok…
 newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú adresu URL.
 

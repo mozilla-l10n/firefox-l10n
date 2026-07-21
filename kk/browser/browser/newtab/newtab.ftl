@@ -430,6 +430,7 @@ newtab-topsites-url-input =
     .placeholder = Сілтемені теріңіз немесе кірістіріңіз
 newtab-topsites-url-validation = Жарамды сілтеме керек
 newtab-topsites-image-url-label = Өз суреттің URL адресі
+newtab-topsites-use-custom-image-link = Таңдауыңызша суретті қолдану
 newtab-topsites-use-image-link = Таңдауыңызша суретті қолдану…
 newtab-topsites-image-validation = Суретті жүктеу қатемен аяқталды. Басқа URL адресін қолданып көріңіз.
 

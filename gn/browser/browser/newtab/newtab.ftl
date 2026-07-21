@@ -369,6 +369,7 @@ newtab-topsites-url-input =
     .placeholder = Ehai térã emboja peteĩ URL
 newtab-topsites-url-validation = Oñeikotevẽ URL oiko porãva
 newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
+newtab-topsites-use-custom-image-link = Ta’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
 

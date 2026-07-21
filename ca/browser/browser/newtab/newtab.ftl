@@ -367,6 +367,7 @@ newtab-topsites-url-input =
     .placeholder = Escriviu o enganxeu un URL
 newtab-topsites-url-validation = Es necessita un URL vàlid
 newtab-topsites-image-url-label = URL d'imatge personalitzada
+newtab-topsites-use-custom-image-link = Utilitza una imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
 

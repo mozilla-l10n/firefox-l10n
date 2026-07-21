@@ -438,6 +438,7 @@ newtab-topsites-url-input =
     .placeholder = Wpisz lub wklej adres
 newtab-topsites-url-validation = Wymagany jest prawidłowy adres URL
 newtab-topsites-image-url-label = Własny obraz
+newtab-topsites-use-custom-image-link = Użyj własnego obrazu
 newtab-topsites-use-image-link = Użyj własnego obrazu…
 newtab-topsites-image-validation = Wczytanie obrazu się nie powiodło. Spróbuj innego adresu.
 

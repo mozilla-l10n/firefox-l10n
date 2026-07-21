@@ -435,6 +435,7 @@ newtab-topsites-url-input =
     .placeholder = Type or paste a URL
 newtab-topsites-url-validation = Valid URL required
 newtab-topsites-image-url-label = Custom Image URL
+newtab-topsites-use-custom-image-link = Use a custom image
 newtab-topsites-use-image-link = Use a custom image…
 newtab-topsites-image-validation = Image failed to load. Try a different URL.
 

@@ -438,6 +438,7 @@ newtab-topsites-url-input =
     .placeholder = Унесите или налепите URL
 newtab-topsites-url-validation = Исправан URL се захтева
 newtab-topsites-image-url-label = URL прилагођене слике
+newtab-topsites-use-custom-image-link = Користи прилагођену слику
 newtab-topsites-use-image-link = Користи прилагођену слику…
 newtab-topsites-image-validation = Нисам успео да учитам слику. Пробајте са другим URL-ом.
 

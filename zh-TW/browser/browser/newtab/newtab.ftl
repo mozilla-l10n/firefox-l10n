@@ -407,6 +407,7 @@ newtab-topsites-url-input =
     .placeholder = 輸入或貼上網址
 newtab-topsites-url-validation = 請輸入有效的網址
 newtab-topsites-image-url-label = 自訂圖片網址
+newtab-topsites-use-custom-image-link = 使用自訂圖片
 newtab-topsites-use-image-link = 使用自訂圖片…
 newtab-topsites-image-validation = 圖片載入失敗，請改用不同網址。
 

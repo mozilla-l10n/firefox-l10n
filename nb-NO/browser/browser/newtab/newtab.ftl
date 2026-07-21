@@ -435,6 +435,7 @@ newtab-topsites-url-input =
     .placeholder = Skriv eller lim inn en URL
 newtab-topsites-url-validation = Gyldig URL er nødvendig
 newtab-topsites-image-url-label = Tilpasset bilde-URL
+newtab-topsites-use-custom-image-link = Bruk et tilpasset bilde
 newtab-topsites-use-image-link = Bruk et tilpasset bilde…
 newtab-topsites-image-validation = Kunne ikke lese inn bildet. Prøv en annen URL.
 
