@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Parhau bob tro
 neterror-pref-reset = Mae'n edrych fel mai eich gosodiadau diogelwch rhwydwaith sy'n achosi hyn. Hoffech chi adfer y gosodiadau rhagosodedig?
 neterror-error-reporting-automatic = Mae adroddiadau gwall fel hyn y cynorthwyo { -vendor-short-name } i adnabod a rhwystro gwefannau maleisus
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Mae'n bosibl nad yw eich cysylltiad yn breifat
+    .message = Efallai gall ap neu wasanaeth weld eich traffig amgryptiedig o'r wefan hon.
+
 ## Specific error messages
 
 neterror-generic-error = Nid yw { -brand-short-name } yn gallu llwytho'r dudalen am ryw reswm.

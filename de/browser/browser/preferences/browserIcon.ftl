@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Vervollständigen und schalten Sie Bonus-Fuchssymbole frei, um { -brand-short-name } zu personalisieren.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Sie haben alle Bonussymbole freigeschaltet!
 appearance-browser-icon-set-default-button =
     .label = Als Standard festlegen
 appearance-browser-icon-pin-button =

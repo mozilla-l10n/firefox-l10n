@@ -175,6 +175,8 @@ perftools-presets-ml-label = Gépi tanulás
 perftools-presets-ml-description2 = Előbeállítás a { -brand-shorter-name } gépi tanulási hibáinak kivizsgálásához.
 perftools-presets-networking-label = Hálózat
 perftools-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
+perftools-presets-networking-with-logs-label = Hálózat naplókkal
+perftools-presets-networking-with-logs-description = Előbeállítás a { -brand-shorter-name } hálózati hibáinak kivizsgálásához, beleértve a hálózati naplókat. Ezek a naplók bizalmas információkat tartalmazhatnak, például a felkeresett webcímeket.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energiagazdálkodás
 perftools-presets-power-description = Előbeállítás a { -brand-shorter-name } energiagazdálkodási hibáinak kivizsgálásához, alacsony többletfogyasztással.

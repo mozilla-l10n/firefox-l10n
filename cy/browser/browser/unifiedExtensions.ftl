@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Darganfod estyniadau
 unified-extensions-empty-reason-private-browsing-not-allowed = Mae gennych estyniadau wedi'u gosod, ond heb eu galluogi mewn ffenestri preifat
 unified-extensions-empty-reason-extension-not-enabled = Mae gennych estyniadau wedi'u gosod, ond heb eu galluogi
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Mae ychydig o estyniadau'n mynd yn bell
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Gwella eich pori gydag estyniadau
 unified-extensions-empty-content-explain-enable2 = Dewiswch “{ unified-extensions-manage-extensions.label }” i'w galluogi yn y gosodiadau.
 unified-extensions-empty-content-explain-manage2 = Dewiswch “{ unified-extensions-manage-extensions.label }” i'w rheoli yn y gosodiadau.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Mae gennym ni argymhellion i'ch helpu chi i wella canolbwyntio, preifatrwydd, a mwy.
 unified-extensions-empty-content-explain-extensions-onboarding = Personolwch { -brand-short-name } drwy newid sut mae'n edrych ac yn perfformio neu hybu preifatrwydd a diogelwch.
 
 ## An extension in the main list

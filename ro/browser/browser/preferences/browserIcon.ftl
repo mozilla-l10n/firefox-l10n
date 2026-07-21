@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Completează și deblochează pictogramele bonus cu vulpi pentru a personaliza { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Ai deblocat toate pictogramele de bonusuri!
 appearance-browser-icon-set-default-button =
     .label = Setează ca implicit
 appearance-browser-icon-pin-button =

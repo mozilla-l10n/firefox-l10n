@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Cyfieithu tudalen…
 appmenuitem-zoom =
     .value = Chwyddo
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Rhannu { -brand-product-name }
 appmenuitem-more-tools =
     .label = Rhagor o Offer
 appmenuitem-help =

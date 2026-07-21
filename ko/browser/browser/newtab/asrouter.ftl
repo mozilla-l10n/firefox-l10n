@@ -293,6 +293,20 @@ launch-on-login-infobar-final-message = <strong>컴퓨터를 다시 시작할 �
 launch-on-login-infobar-final-reject-button = 아니요
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name }는 이제 Windows에 로그인할 때 시작됩니다. 나중에 설정에서 언제든지 변경할 수 있습니다.
+launch-on-login-autostart-infobar-keep-button = 유지
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = 끄기
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -491,3 +505,21 @@ nova-early-access-share-feedback-link = 의견 공유
     .accesskey = S
 nova-early-access-infobar-primary-button = 확인
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Windows에 로그인할 때마다 { -brand-short-name }를 시작하시겠습니까?
+launch-options-spotlight-title-session-restore = { -brand-short-name }가 다시 시작될 때 세션을 다시 여시겠습니까?
+launch-options-spotlight-checkbox-launch-on-login = 시작할 때 { -brand-short-name } 열기
+launch-options-spotlight-checkbox-pin-to-taskbar = 작업 표시줄에 고정
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = 현재 창 및 탭 다시 열기
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = 이전 창 및 탭 다시 열기
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = { -brand-short-name } 저장 후 닫기
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = 저장하고 계속

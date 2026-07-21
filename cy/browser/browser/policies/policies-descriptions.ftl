@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Rhwystro mynediad at y dudalen about:support.
 policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nodau Tudalen neu ffolder penodol o'u mewn.
 policy-CaptivePortal = Galluogi neu analluogi'r cymorth porth caeth.
 policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau cynhenid.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Galluogi cytundeb allwedd CNSA 2.0 ML-KEM-1024 ar gyfer TLS.
 policy-ContentAnalysis = Galluogi neu analluogi cysylltiad ag asiant atal colli data.
 policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
 # Containers in this context is referring to container tabs in Firefox.

@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Kiegészítők felfedezése
 unified-extensions-empty-reason-private-browsing-not-allowed = Vannak olyan kiegészítői, amelyek telepítve vannak, de privát ablakokban nincsenek engedélyezve
 unified-extensions-empty-reason-extension-not-enabled = Vannak olyan kiegészítői, amelyek telepítve vannak, de nincsenek engedélyezve
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Pár kiegészítő is nagy hatással bír
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Emelje új szintre a böngészését kiegészítőkkel
 unified-extensions-empty-content-explain-enable2 = Válassza a „{ unified-extensions-manage-extensions.label }” lehetőséget a beállításokban való engedélyezéshez.
 unified-extensions-empty-content-explain-manage2 = Válassza a „{ unified-extensions-manage-extensions.label }” lehetőséget a beállításokban való kezeléshez.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Javaslataink segítenek a fókusz, az adatvédelem és egyebek javításában.
 unified-extensions-empty-content-explain-extensions-onboarding = Szabja testre a { -brand-short-name }ot a kinézetének megváltoztatásával, vagy az adatvédelem és a biztonság növelésével.
 
 ## An extension in the main list

@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Immer fortfahren
 neterror-pref-reset = Dies könnte durch die Netzwerk-Sicherheitseinstellungen verursacht werden. Sollen die Standardeinstellungen wiederhergestellt werden?
 neterror-error-reporting-automatic = Fehler an { -vendor-short-name } melden, um beim Identifizieren und Blockieren böswilliger Websites zu helfen
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Ihre Verbindung ist möglicherweise nicht privat
+    .message = Eine App oder ein Dienst kann möglicherweise Ihren verschlüsselten Datenverkehr von dieser Website einsehen.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } konnte die Seite aus unbekanntem Grund nicht laden.

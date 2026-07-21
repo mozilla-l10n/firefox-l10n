@@ -308,6 +308,20 @@ launch-on-login-infobar-final-message = <strong>Agor { -brand-short-name } bob t
 launch-on-login-infobar-final-reject-button = Dim diolch
     .accesskey = D
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = Mae { -brand-short-name } bellach yn cychwyn pan fyddwch yn mewngofnodi i Windows. Gallwch newid hyn yn nes ymlaen yn y gosodiadau.
+launch-on-login-autostart-infobar-keep-button = Ei gadw ymlaen
+    .accesskey = y
+launch-on-login-autostart-infobar-turn-off-button = Ei droi i ffwrdd
+    .accesskey = F
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -465,7 +479,7 @@ etp-strict-exceptions-infobar-not-now = Nid nawr
 
 ## 'Set to default' messaging displayed within the App menu
 
-set-default-menu-message-simple-layout-title = Nid { -brand-short-name } yw eich porwr rhagosodedig cyfredol
+set-default-menu-message-simple-layout-title = Nid { -brand-short-name } yw eich porwr arferol cyfredol
 set-default-menu-message-simple-layout-title-variant = Nid { -brand-short-name } yw eich prif borwr
 set-default-menu-message-row-layout-title = Gwnewch { -brand-short-name } eich prif borwr
 set-default-menu-message-row-layout-title-variant = Gwnewch { -brand-short-name } eich porwr rhagosodedig
@@ -506,3 +520,21 @@ nova-early-access-share-feedback-link = Rhannu adborth
     .accesskey = R
 nova-early-access-infobar-primary-button = Iawn
     .accesskey = I
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Cychwyn { -brand-short-name } bob tro byddwch yn mewngofnodi i Windows?
+launch-options-spotlight-title-session-restore = Ailagor eich sesiwn pan fydd { -brand-short-name } yn ailgychwyn?
+launch-options-spotlight-checkbox-launch-on-login = Agor { -brand-short-name } wrth gychwyn
+launch-options-spotlight-checkbox-pin-to-taskbar = Pinio i'r bar tasgau
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Ailagor y ffenestri a'r tabiau cyfredol
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Ailagor ffenestri a thabiau blaenorol
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Cadw a chau { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Cadw a pharhau

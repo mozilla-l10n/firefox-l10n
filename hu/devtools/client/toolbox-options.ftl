@@ -78,6 +78,8 @@ options-webconsole-split-console-tooltip =
 
 ## Network Monitor section
 
+# The heading
+options-netmonitor-label = Hálózatfigyelő
 options-netmonitor-body-limit-set =
     .title = A jelenlegi beviteli érték beállítása a kérések és válaszok legnagyobb törzsméreteként.
 

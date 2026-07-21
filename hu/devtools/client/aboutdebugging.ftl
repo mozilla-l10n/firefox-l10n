@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Többfolyamatos eszköztár
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Fő folyamat és tartalomfolyamatok a cél böngészőhöz
+about-debugging-message-error-icon =
+    .alt = Hibaikon
+about-debugging-message-info-icon =
+    .alt = Információs ikon
+about-debugging-message-warning-icon =
+    .alt = Figyelmeztetési ikon
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Üzenet bezárása
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Hiba részletei
 about-debugging-message-details-label-warning = Figyelmeztetés részletei
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Részletek
+about-debugging-sidebar =
+    .heading = Hibakeresés

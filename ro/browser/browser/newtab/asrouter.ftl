@@ -299,6 +299,20 @@ launch-on-login-infobar-final-message = <strong>Setezi { -brand-short-name } să
 launch-on-login-infobar-final-reject-button = Nu, mulțumesc
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = Acum { -brand-short-name } este lansat când te conectezi în Windows. Poți modifica oricând mai târziu în setări.
+launch-on-login-autostart-infobar-keep-button = Continuă
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Dezactivează
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -497,3 +511,21 @@ nova-early-access-share-feedback-link = Trimite feedback
     .accesskey = S
 nova-early-access-infobar-primary-button = Am înțeles
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Vrei să lansezi { -brand-short-name } de fiecare dată când te autentifici în Windows?
+launch-options-spotlight-title-session-restore = Vrei să redeschizi sesiunea la repornirea { -brand-short-name }?
+launch-options-spotlight-checkbox-launch-on-login = Deschide { -brand-short-name } la pornire
+launch-options-spotlight-checkbox-pin-to-taskbar = Fixează în bara de sarcini
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Redeschide ferestrele și filele actuale
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Redeschide ferestrele și filele anterioare
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Salvează și închide { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Salvează și continuă

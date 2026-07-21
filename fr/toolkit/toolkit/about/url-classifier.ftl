@@ -44,16 +44,16 @@ url-classifier-content-classifier-url = URL
 # URL that loads the URL being tested (hence Loading URL)
 # This is the URL of a frame within the document that initiates the request to load another URL
 # (e.g. an iframe that is loading a tracking pixel)
-url-classifier-content-classifier-loading-url = Chargement de l’URL
+url-classifier-content-classifier-loading-url = URL de chargement
 # Checkbox label to enable a Loading URL.
 # When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
 url-classifier-content-classifier-loading-url-enabled = Activer l’URL de chargement
 # URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
 # Most often the site URL show in the address bar.
-url-classifier-content-classifier-top-window-url = URL de la fenêtre supérieure
+url-classifier-content-classifier-top-window-url = URL de la fenêtre principale
 # Checkbox label to enable a Top-window URL.
 # When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
-url-classifier-content-classifier-top-window-url-enabled = Activer l’URL de la fenêtre supérieure
+url-classifier-content-classifier-top-window-url-enabled = Activer l’URL de la fenêtre principale
 # Label for a dropdown choosing what type of resource is at the destination (the destination type),
 # such as script, image, stylesheet, etc.
 url-classifier-content-classifier-destination-type = Type de destination

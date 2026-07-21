@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>{ -brand-short-name } openen tel
 launch-on-login-infobar-final-reject-button = Nee bedankt
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } wordt nu gestart wanneer u zich aanmeldt bij Windows. U kunt dit later altijd wijzigen in instellingen.
+launch-on-login-autostart-infobar-keep-button = Ingeschakeld houden
+    .accesskey = I
+launch-on-login-autostart-infobar-turn-off-button = Uitschakelen
+    .accesskey = U
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -494,3 +508,21 @@ nova-early-access-share-feedback-link = Feedback delen
     .accesskey = F
 nova-early-access-infobar-primary-button = Begrepen
     .accesskey = g
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = { -brand-short-name } starten telkens wanneer u zich aanmeldt bij Windows?
+launch-options-spotlight-title-session-restore = Uw sessie heropenen wanneer { -brand-short-name } opnieuw wordt gestart?
+launch-options-spotlight-checkbox-launch-on-login = { -brand-short-name } openen bij opstarten
+launch-options-spotlight-checkbox-pin-to-taskbar = Aan uw taakbalk vastzetten
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Huidige vensters en tabbladen opnieuw openen
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Eerdere vensters en tabbladen opnieuw openen
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Opslaan en { -brand-short-name } sluiten
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Opslaan en doorgaan

@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Altijd doorgaan
 neterror-pref-reset = Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?
 neterror-error-reporting-automatic = Fouten als deze rapporteren om { -vendor-short-name } te helpen kwaadwillende websites te herkennen en te blokkeren
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Uw verbinding is mogelijk niet privé
+    .message = Een app of service kan mogelijk uw versleutelde verkeer vanuit deze website zien.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } kan deze pagina om de een of andere reden niet laden.

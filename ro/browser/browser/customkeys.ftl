@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Apasă tasta nouă:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (nu se poate modifica)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Elimini o altă comandă rapidă?
 customkeys-conflict-confirm-body = Cheia este deja utilizată de „{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Folosește oricum
 customkeys-conflict-confirm-button-cancel = Anulează
+customkeys-conflict-unusable-title = Cheia nu poate fi utilizată
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Cheia este deja folosită de { $conflict } și nu poate fi utilizată.
 customkeys-reset-all-confirm-title = Restaurezi valorile implicite?
 customkeys-reset-all-confirm-body = Vor fi eliminate orice comenzi rapide din tastatură personalizate pe care le-ai creat.
 customkeys-reset-all-confirm-button-confirm = Restaurează valorile implicite

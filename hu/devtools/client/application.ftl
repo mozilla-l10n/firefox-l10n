@@ -117,6 +117,11 @@ sidebar-item-session-history = Munkamenet-előzmények
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Munkamenet-előzmények megjelenítése
+# Title (tooltip) for the clickable Session History diagram column headers, which
+# navigate the inspected page to that entry in its session history.
+# Variables:
+#   $index (number) - The session history index that will be navigated to.
+session-history-navigate-button-title = Navigálás a(z) { $index }. munkamenet-előzményhez
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = A munkamenet-előzmények diagramja nem érhető el
 # Text displayed for when the target does not support showing session history diagrams

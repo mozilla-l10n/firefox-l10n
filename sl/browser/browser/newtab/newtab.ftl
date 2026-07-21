@@ -361,7 +361,7 @@ newtab-topsites-url-input =
     .placeholder = Vnesite ali prilepite spletni naslov
 newtab-topsites-url-validation = Vnesite veljaven spletni naslov
 newtab-topsites-image-url-label = Spletni naslov slike po meri
-newtab-topsites-use-custom-image-link = Uporabi sliko po meri{ " " }
+newtab-topsites-use-custom-image-link = Uporabi sliko po meri
 newtab-topsites-use-image-link = Uporabi sliko po meri …
 newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite drug spletni naslov.
 

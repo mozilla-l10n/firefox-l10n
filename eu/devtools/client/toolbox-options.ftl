@@ -76,6 +76,35 @@ options-webconsole-split-console-label = Gaitu zatitutako kontsola
 options-webconsole-split-console-tooltip =
     .title = Ireki zatitutako kontsola eskape teklarekin
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Sareko monitorea
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Eskaera- eta erantzun-mezuen tamaina maximoa (ezarri 0ra muga kentzeko):
+options-netmonitor-body-limit-tooltip =
+    .title = Zehaztutako tamaina gainditzen duten eskaera- eta erantzun-mezuak moztu egingo dira sareko monitorean bistaratu edo deskargatzean. Ezarri 0ra mugarik ez izateko.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Mugagabea
+options-netmonitor-body-limit-button =
+    .title = Editatu eskaera-/erantzun-mezuen tamaina maximoa.
+options-netmonitor-body-limit-restore-default =
+    .title = Berrezarri eskaera-/erantzun-mezuen tamaina maximoaren balio lehenetsia.
+options-netmonitor-body-limit-set =
+    .title = Ezarri idatzitako uneko balioa eskaera-/erantzun-mezuen tamaina maximo gisa.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Eginbide esperimentalak
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Erakutsi estilo-orriak araztailean
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Zerrendatu eta ikusi estilo-orriak araztailean
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (tresna-kutxa berriro irekitzea eskatzen du)
+
 ## Style Editor section
 
 # The heading

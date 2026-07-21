@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>Mindig megnyissa a { -brand-shor
 launch-on-login-infobar-final-reject-button = Köszönöm, nem
     .accesskey = n
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = A { -brand-short-name } akkor indul el, ha bejelentkezik a Windowsba. Ezt később bármikor módosíthatja a beállításokban.
+launch-on-login-autostart-infobar-keep-button = Megtartás így
+    .accesskey = M
+launch-on-login-autostart-infobar-turn-off-button = Kikapcsolás
+    .accesskey = K
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -494,3 +508,21 @@ nova-early-access-share-feedback-link = Visszajelzés megosztása
     .accesskey = V
 nova-early-access-infobar-primary-button = Megértettem!
     .accesskey = M
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = A { -brand-short-name } indítása a Windowsba való minden bejelentkezéskor?
+launch-options-spotlight-title-session-restore = Újra megnyitja a munkamenetét a { -brand-short-name } újraindulásakor?
+launch-options-spotlight-checkbox-launch-on-login = A { -brand-short-name } megnyitása rendszerindításkor
+launch-options-spotlight-checkbox-pin-to-taskbar = Rögzítés a tálcára
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Jelenlegi ablakok és lapok újranyitása
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Korábbi ablakok és lapok újranyitása
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = A { -brand-short-name } mentése és bezárása
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Mentés és folytatás

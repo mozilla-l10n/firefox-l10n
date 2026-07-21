@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = 總是繼續
 neterror-pref-reset = 看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？
 neterror-error-reporting-automatic = 回報這類的錯誤，幫助 { -vendor-short-name } 找出並封鎖惡意網站
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = 您的連線可能不私密
+    .message = 可能有其他應用程式或服務能看到您在此網站的加密傳輸內容。
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } 因為某些原因無法載入此網頁。

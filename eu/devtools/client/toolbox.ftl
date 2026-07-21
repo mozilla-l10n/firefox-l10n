@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = Desgaitu beti gainean egoteko modua
     .title = Garatzaile-tresnak berrabiaraziko ditu
 toolbox-always-on-top-disabled2 = Gaitu beti gainean egoteko modua
     .title = Garatzaile-tresnak berrabiaraziko ditu
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Dokumentu hau "{ $url }" helbidetik ere karga liteke garatzaile-tresnen modu lokala erabiliz; hau ezarpenen panelean gai daiteke.
+toolbox-local-mode-notice-add-to-settings-button = Gehitu ezarpenetara
+toolbox-local-mode-notice-try-it-button = Probatu
+toolbox-local-mode-notice-navigate-to-existing-mapping = Nabigatu lehendik dagoen mapatzera
+toolbox-local-mode-notice-always-hide = Ez erakutsi hau berriro

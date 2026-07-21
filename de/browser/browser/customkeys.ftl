@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Neue Taste drücken:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (kann nicht geändert werden)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Eine andere Tastenkombination entfernen?
 customkeys-conflict-confirm-body = Dieser Tastenkombination wird bereits für "{ $conflict }" verwendet.
 customkeys-conflict-confirm-button-confirm = Trotzdem verwenden
 customkeys-conflict-confirm-button-cancel = Abbrechen
+customkeys-conflict-unusable-title = Taste kann nicht verwendet werden
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Diese Tastenkombination wird bereits von "{ $conflict }" verwendet und kann nicht verwendet werden.
 customkeys-reset-all-confirm-title = Standard wiederherstellen?
 customkeys-reset-all-confirm-body = Alle benutzerdefinierten Tastenkombinationen, die Sie erstellt haben, werden entfernt.
 customkeys-reset-all-confirm-button-confirm = Standards wiederherstellen

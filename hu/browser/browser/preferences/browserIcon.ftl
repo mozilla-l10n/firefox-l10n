@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Töltse ki, és oldjon fel további rókás ikonokat a { -brand-short-name } személyre szabásához.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Feloldotta az összes bónusz ikont!
 appearance-browser-icon-set-default-button =
     .label = Beállítás az alapértelmezésre
 appearance-browser-icon-pin-button =

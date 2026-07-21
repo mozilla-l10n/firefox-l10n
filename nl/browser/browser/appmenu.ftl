@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Pagina vertalen…
 appmenuitem-zoom =
     .value = Zoomen
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = { -brand-product-name } delen
 appmenuitem-more-tools =
     .label = Meer hulpmiddelen
 appmenuitem-help =

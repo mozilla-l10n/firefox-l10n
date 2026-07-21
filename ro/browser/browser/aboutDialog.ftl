@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Trimite feedback
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> este o <label data-l10n-name="community-exp-creditsLink">comunitate globală</label> care lucrează pentru a păstra webul deschis, public și accesibil tuturor.
 community-2 = { -brand-short-name } este conceput de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, o <label data-l10n-name="community-creditsLink">comunitate globală</label> care lucrează pentru a păstra webul deschis, public și accesibil tuturor.
 helpus = Vrei să ajuți? <label data-l10n-name="helpus-donateLink">Donează</label> sau <label data-l10n-name="helpus-getInvolvedLink">implică-te!</label>
+helpus-referrals = Vrei să ajuți? <label data-l10n-name="helpus-donateLink">Fă o donație</label>, <label data-l10n-name="helpus-shareFirefoxLink">Partajează { -brand-short-name }</label> sau <label data-l10n-name="helpus-getInvolvedLink">implică-te!</label>
 bottomLinks-license = Informații privind licențierea
 bottom-links-terms = Condiții de utilizare
 bottom-links-privacy = Notificare privind confidențialitatea

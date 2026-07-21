@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>{ -brand-short-name } jedes Mal 
 launch-on-login-infobar-final-reject-button = Nein, danke
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } wird jetzt gestartet, wenn Sie sich bei Windows anmelden. Sie können dies später in den Einstellungen ändern.
+launch-on-login-autostart-infobar-keep-button = Weiter
+    .accesskey = W
+launch-on-login-autostart-infobar-turn-off-button = Deaktivieren
+    .accesskey = D
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -494,3 +508,21 @@ nova-early-access-share-feedback-link = Sagen Sie Ihre Meinung
     .accesskey = S
 nova-early-access-infobar-primary-button = Verstanden
     .accesskey = V
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = { -brand-short-name } bei jeder Windows-Anmeldung starten?
+launch-options-spotlight-title-session-restore = Ihre Sitzung nach dem Neustart von { -brand-short-name } wieder öffnen?
+launch-options-spotlight-checkbox-launch-on-login = { -brand-short-name } beim Systemstart öffnen
+launch-options-spotlight-checkbox-pin-to-taskbar = An die Taskleiste anheften
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Aktuelle Fenster und Tabs wieder öffnen
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Vorherige Fenster und Tabs wiederherstellen
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Speichern und { -brand-short-name } schließen
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Speichern und weiter

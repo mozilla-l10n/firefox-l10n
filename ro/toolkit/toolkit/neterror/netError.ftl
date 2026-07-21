@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Continuă întotdeauna
 neterror-pref-reset = Se pare că setările de securitate ale rețelei sunt de vină. Vrei să restaurezi setările implicite?
 neterror-error-reporting-automatic = Raportează erori precum aceasta pentru a ajuta { -vendor-short-name } să identifice și să blocheze site-urile rău intenționate
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Conexiunea este posibil să nu fie privată
+    .message = O aplicație sau un serviciu ți-ar putea vedea traficul criptat de pe acest site.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } nu poate încărca această pagină dintr-un motiv oarecare.

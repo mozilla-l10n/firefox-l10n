@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = 按下新按鍵：
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = （無法更改）
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = 要移除另一個快速鍵嗎？
 customkeys-conflict-confirm-body = 這組按鍵已被「{ $conflict }」使用。
 customkeys-conflict-confirm-button-confirm = 還是使用
 customkeys-conflict-confirm-button-cancel = 取消
+customkeys-conflict-unusable-title = 無法使用此按鍵
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = 這組快速鍵已被「{ $conflict }」使用，不可重複。
 customkeys-reset-all-confirm-title = 確認要還原預設值嗎？
 customkeys-reset-all-confirm-body = 將移除所有您自訂的快速鍵。
 customkeys-reset-all-confirm-button-confirm = 還原預設值

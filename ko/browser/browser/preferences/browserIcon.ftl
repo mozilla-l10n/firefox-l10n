@@ -29,13 +29,17 @@ appearance-browser-icon-subpage-title =
 appearance-browser-icon-basic-group =
     .label = 기본
 appearance-browser-icon-bonus-group =
-    .label = 특별
+    .label = 스페셜
 
 ##
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = 설정을 완료하고 추가 폭스 아이콘을 잠금 해제하여 { -brand-short-name }를 나만의 스타일로 꾸며보세요.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = 모든 보너스 아이콘을 잠금 해제했습니다!
 appearance-browser-icon-set-default-button =
     .label = 기본으로 설정
 appearance-browser-icon-pin-button =

@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Pwyswch fysell newydd:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (dim modd ei newid)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Tynnu llwybr byr arall?
 customkeys-conflict-confirm-body = Mae'r allwedd hon eisoes yn cael ei defnyddio gan "{ $conflict }".
 customkeys-conflict-confirm-button-confirm = Defnyddio beth bynnag
 customkeys-conflict-confirm-button-cancel = Diddymu
+customkeys-conflict-unusable-title = Dim modd defnyddio allwedd
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Mae'r allwedd hon eisoes yn cael ei defnyddio gan “{ $conflict }” a does dim modd ei defnyddio.
 customkeys-reset-all-confirm-title = Adfer y rhagosodiadau
 customkeys-reset-all-confirm-body = Bydd unrhyw lwybrau byr bysellfwrdd cyfaddas rydych chi wedi'u creu yn cael eu dileu.
 customkeys-reset-all-confirm-button-confirm = Adfer y rhagosodiadau

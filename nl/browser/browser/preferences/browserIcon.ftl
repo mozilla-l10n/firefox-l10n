@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Voltooi dit en ontgrendel bonusvospictogrammen om { -brand-short-name } te personaliseren.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = U hebt alle bonuspictogrammen ontgrendeld!
 appearance-browser-icon-set-default-button =
     .label = Instellen als standaard
 appearance-browser-icon-pin-button =

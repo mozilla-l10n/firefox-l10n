@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Visszajelzés küldése
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> egy <label data-l10n-name="community-exp-creditsLink">nemzetközi közösség</label>, amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.
 community-2 = A { -brand-short-name } böngészőt a <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tervezte, egy <label data-l10n-name="community-creditsLink">nemzetközi közösség</label>, amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.
 helpus = Szeretne segíteni? <label data-l10n-name="helpus-donateLink">Támogasson,</label> vagy <label data-l10n-name="helpus-getInvolvedLink">vegyen részt a munkánkban!</label>
+helpus-referrals = Szeretne segíteni? <label data-l10n-name="helpus-donateLink">Adományozzon</label>, <label data-l10n-name="helpus-shareFirefoxLink">Ossza meg a { -brand-short-name }ot</label>, vagy <label data-l10n-name="helpus-getInvolvedLink">kapcsolódjon be!</label>
 bottomLinks-license = Licencinformációk
 bottom-links-terms = Felhasználási feltételek
 bottom-links-privacy = Adatvédelmi nyilatkozat

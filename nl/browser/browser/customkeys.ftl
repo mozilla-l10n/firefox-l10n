@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Druk op nieuwe toets:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (kan niet worden gewijzigd)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Nog een snelkoppeling verwijderen?
 customkeys-conflict-confirm-body = Deze toets wordt al door ‘{ $conflict }’ gebruikt.
 customkeys-conflict-confirm-button-confirm = Toch gebruiken
 customkeys-conflict-confirm-button-cancel = Annuleren
+customkeys-conflict-unusable-title = Sleutel kan niet worden gebruikt
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Deze sleutel wordt al gebruikt door ‘{ $conflict }’ en kan niet worden gebruikt.
 customkeys-reset-all-confirm-title = Standaardinstellingen herstellen?
 customkeys-reset-all-confirm-body = Alle aangepaste sneltoetsen die u hebt aangemaakt, zullen worden verwijderd.
 customkeys-reset-all-confirm-button-confirm = Standaardinstellingen herstellen

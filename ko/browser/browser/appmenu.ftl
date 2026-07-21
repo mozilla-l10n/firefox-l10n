@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = 페이지 번역…
 appmenuitem-zoom =
     .value = 확대/축소
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = { -brand-product-name } 추천하기
 appmenuitem-more-tools =
     .label = 기타 도구
 appmenuitem-help =

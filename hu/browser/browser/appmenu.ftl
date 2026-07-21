@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Oldal fordítása…
 appmenuitem-zoom =
     .value = Nagyítás
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = A { -brand-product-name } megosztása
 appmenuitem-more-tools =
     .label = További eszközök
 appmenuitem-help =

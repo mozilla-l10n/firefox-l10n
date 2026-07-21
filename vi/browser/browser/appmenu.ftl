@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Dịch trang…
 appmenuitem-zoom =
     .value = Thu phóng
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Chia sẻ { -brand-product-name }
 appmenuitem-more-tools =
     .label = Công cụ khác
 appmenuitem-help =

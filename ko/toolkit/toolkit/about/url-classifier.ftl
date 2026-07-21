@@ -62,7 +62,7 @@ url-classifier-content-classifier-destination-type = 대상 유형
 url-classifier-content-classifier-flags = 플래그
 # Header for the group of buttons that run a classification test. A "probe" here
 # means running the classifier once and reporting what it would do.
-url-classifier-content-classifier-probes = 진단 테스트
+url-classifier-content-classifier-probes = 진단
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = 결과
 url-classifier-content-classifier-pbm = 사생활 보호 모드
@@ -73,7 +73,40 @@ url-classifier-content-classifier-force-third-party = 강제로 최상위 프레
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = 비추천 부가 기능
 # Button: run the probe that reports whether the request would be blocked.
-url-classifier-content-classifier-probe-blocking-btn = 차단 여부 테스트
+url-classifier-content-classifier-probe-blocking-btn = 차단 여부 진단
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = 주석 지정 여부 진단
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = 기능별 진단
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = 엔진 세부 정보
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = 기능
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = 일치
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = 예외
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Important
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = 엔진 결과
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = 적중
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = 예외
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = 미탐지
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = 오류 ({ $code })
 url-classifier-debug-title = 디버그
 url-classifier-debug-module-btn = 로그 모듈 설정
 url-classifier-debug-file-btn = 로그 파일 설정

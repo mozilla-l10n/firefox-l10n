@@ -112,7 +112,7 @@ newtab-topsites-url-input =
     .placeholder = ٹائپ کرو یا ہک URL چسباں کرو
 newtab-topsites-url-validation = جائز URL درکار ہے
 newtab-topsites-image-url-label = مخصوص تصویر دا URL
-newtab-topsites-use-custom-image-link = ہک مخصوص تصویر استعمال کرو{ " " }
+newtab-topsites-use-custom-image-link = ہک مخصوص تصویر استعمال کرو
 newtab-topsites-use-image-link = ہک مخصوص تصویر استعمال کرو …
 newtab-topsites-image-validation = تصویر لوڈ تھیوݨ وِچ ناکام رہی۔ براہ مہربانی ہک مختلف URL کوں آزماؤ۔
 

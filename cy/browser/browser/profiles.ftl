@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Afatar
 edit-profile-page-delete-button =
     .label = Dileu
+edit-profile-page-avatar-selector-opener-button =
+    .title = Golygu afatar
 edit-profile-page-avatar-selector-opener-link = Golygu
 avatar-selector-icon-tab = Eicon
 avatar-selector-custom-tab = Cyfaddasu
@@ -95,6 +97,9 @@ delete-profile-logins = Cyfrineiriau
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Dileu proffil “{ $profilename }”.
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Dileu proffil “{ $profilename }”?
 
 ##
 

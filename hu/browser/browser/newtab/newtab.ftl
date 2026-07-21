@@ -208,7 +208,9 @@ newtab-privacy-empty = A { -brand-short-name } böngészés közben blokkolja a 
 
 newtab-privacy-message-info-1 = A { -brand-short-name } böngészés közben automatikusan blokkolja a követőket.
 newtab-privacy-message-info-1-cta = Védelmek megtekintése
+newtab-privacy-message-info-2 = A követők blokkolása segít megakadályozni, hogy a cégek kövessék Önt online.
 newtab-privacy-message-info-2-cta = Védelmek megtekintése
+newtab-privacy-message-info-3 = Számos webhely rendelkezik követőkkel, így olyan cégek is követhetik Önt online, melyek webhelyén sosem járt.
 newtab-privacy-message-info-3-cta = Védelmek megtekintése
 newtab-privacy-message-info-4 = A { -brand-short-name } választása azt jelenti, hogy az alapértelmezett védelmet választja.
 newtab-privacy-message-info-4-cta = Védelmek megtekintése
@@ -224,6 +226,7 @@ newtab-privacy-message-info-9 = Legyen a { -brand-short-name } a szokásos böng
 newtab-privacy-message-info-9-cta = Beállítás alapértelmezettként
 newtab-privacy-message-info-10 = Mentse el a jelszavakat a { -brand-short-name } böngészőben, hogy erős, egyedi bejelentkezéseket használjon mindenhol.
 newtab-privacy-message-info-10-cta = Ugrás a jelszavakhoz
+newtab-privacy-message-info-11 = Tudja meg, hogy a { -brand-short-name } hogyan segíti elő, hogy biztonságosabban böngésszen.
 newtab-privacy-message-info-11-cta = További tudnivalók
 newtab-privacy-message-info-12 = A nyomkövetők blokkolása sávszélességet takaríthat meg a korlátozott előfizetések esetén.
 newtab-privacy-message-info-12-cta = Védelmek megtekintése
@@ -235,6 +238,9 @@ newtab-privacy-message-info-13-cta = Védelmek megtekintése
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Tudja meg, ha a személyes adatai megjelennek egy adatvédelmi incidensben.
+newtab-privacy-message-promo-monitor-1-cta = További tudnivalók
+newtab-privacy-message-promo-monitor-2 = Védje meg az adatait az adatvédelmi incidensek ingyenes figyelésével, akár 20 e-mail-fiók erejéig.
 newtab-privacy-message-promo-monitor-2-cta = További tudnivalók
 newtab-privacy-message-promo-signin-1 = Tartsa titkosítva a könyvjelzőket, jelszavakat és lapokat az eszközök között, a { -vendor-short-name }-fiókjával.
 newtab-privacy-message-promo-signin-1-cta = Bejelentkezés
@@ -311,6 +317,8 @@ newtab-privacy-message-first-protection-cta = Védelmek megtekintése
 newtab-stocks-menu-search = Részvénykódok keresésére
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = További tudnivalók
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = A részvényadatok nem érhetők el
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

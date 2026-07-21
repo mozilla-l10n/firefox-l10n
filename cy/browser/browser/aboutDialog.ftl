@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Cyflwyno Adborth
 community-exp = <label data-l10n-name="community-exp-mozillaLink">Mae { -vendor-short-name }</label> yn <label data-l10n-name="community-exp-creditsLink">gymuned fyd-eang</label> sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.
 community-2 = Cynlluniwyd { -brand-short-name } gan <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">cymuned fyd-eang</label> sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.
 helpus = Eisiau helpu? <label data-l10n-name="helpus-donateLink">Gallwch wneud rhodd</label> neu <label data-l10n-name="helpus-getInvolvedLink">ymuno â ni!</label>
+helpus-referrals = Eisiau helpu? <label data-l10n-name="helpus-donateLink">Gwneud cyfraniad</label>, <label data-l10n-name="helpus-shareFirefoxLink">Rhannu { -brand-short-name }</label>, neu <label data-l10n-name="helpus-getInvolvedLink">cymryd rhan!</label>
 bottomLinks-license = Manylion Trwyddedu
 bottom-links-terms = Amodau Defnydd
 bottom-links-privacy = Hysbysiad Preifatrwydd

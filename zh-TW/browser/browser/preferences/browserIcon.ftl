@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = 完成下列動作後即可解鎖更多可用來個人化 { -brand-short-name } 的狐狸圖示。
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = 您已解鎖所有獎勵圖示！
 appearance-browser-icon-set-default-button =
     .label = 設為預設圖示
 appearance-browser-icon-pin-button =

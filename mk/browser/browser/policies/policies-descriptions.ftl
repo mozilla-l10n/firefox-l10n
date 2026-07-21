@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Блокирајте пристап до страни
 policy-Bookmarks = Креирај обележувачи во лентата со обележувачи, менито со обележувачи или во одредена папка во нив.
 policy-CaptivePortal = Овозможи или оневозможи ја поддршката за прилагодена почетна страница.
 policy-CertificatesDescription = Додај сертификати или користи вградени сертификати.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Овозможи го договорот за клуч CNSA 2.0 ML-KEM-1024 за TLS.
 policy-ContentAnalysis = Овозможи или оневозможи поврзување со агент за спречување на губење на податоци.
 policy-Cookies = Дозволи или одбиј мрежните места да поставуваат колачиња.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Постави политики поврзани со контејнери.
 policy-DisableAccounts = Оневозможи услуги базирани на сметки, вклучително и синхронизација.
 policy-DisabledCiphers = Оневозможи алгоритам за шифрирање.
+policy-DefaultBrowserSettingEnabled = Контролирај дали корисникот може да го постави { -brand-short-name } како стандарден прелистувач.
 policy-DefaultDownloadDirectory = Постави го основниот директориум за преземање.
 policy-DefaultSerialGuardSetting = Контролирај ја употребата на сериското API.
 policy-DisableAppUpdate = Спречи го ажурирањето на прелистувачот.

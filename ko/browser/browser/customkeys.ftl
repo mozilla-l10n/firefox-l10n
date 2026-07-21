@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = 새 키 누르기:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (변경할 수 없음)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = 다른 단축키를 제거하시겠습니까
 customkeys-conflict-confirm-body = 이 키는 “{ $conflict }”에서 이미 사용 중입니다.
 customkeys-conflict-confirm-button-confirm = 그래도 사용
 customkeys-conflict-confirm-button-cancel = 취소
+customkeys-conflict-unusable-title = 키를 사용할 수 없음
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = 이 키는 "{ $conflict }"에서 이미 사용 중이므로 사용할 수 없습니다.
 customkeys-reset-all-confirm-title = 기본값으로 복원하시겠습니까?
 customkeys-reset-all-confirm-body = 생성한 모든 사용자 지정 키보드 단축키가 제거됩니다.
 customkeys-reset-all-confirm-button-confirm = 기본값 복원

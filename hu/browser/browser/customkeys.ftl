@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Nyomja meg az új billentyűt:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (nem változtatható meg)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Eltávolít egy másik gyorsbillentyűt?
 customkeys-conflict-confirm-body = Ezt a kulcsot már a(z) „{ $conflict }” használja.
 customkeys-conflict-confirm-button-confirm = Használat mindenképpen
 customkeys-conflict-confirm-button-cancel = Mégse
+customkeys-conflict-unusable-title = A kulcs nem használható
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Ezt a kulcsot már a(z) „{ $conflict }” használja, és nem használható.
 customkeys-reset-all-confirm-title = Alapértelmezések helyreállítása?
 customkeys-reset-all-confirm-body = A létrehozott egyéni billentyűparancsok el lesznek távolítva.
 customkeys-reset-all-confirm-button-confirm = Alapértelmezések helyreállítása

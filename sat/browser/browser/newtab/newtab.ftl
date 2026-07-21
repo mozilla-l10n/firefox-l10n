@@ -114,7 +114,7 @@ newtab-topsites-url-input =
     .placeholder = ᱢᱤᱫᱴᱟᱝ URL ᱚᱞ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
 newtab-topsites-url-validation = ᱴᱷᱤᱠ URL ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ
 newtab-topsites-image-url-label = ᱱᱤᱡᱚᱨ URL ᱪᱤᱛᱟᱹᱨ
-newtab-topsites-use-custom-image-link = ᱱᱤᱡᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ{ " " }
+newtab-topsites-use-custom-image-link = ᱱᱤᱡᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 newtab-topsites-use-image-link = ᱱᱤᱡᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
 newtab-topsites-image-validation = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱮᱴᱟᱜ URL ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾
 
