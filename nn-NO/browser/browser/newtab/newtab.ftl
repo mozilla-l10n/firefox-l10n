@@ -369,8 +369,8 @@ newtab-picture-widget-menu-button =
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
-    .label = Vel bakgrunnsbilde
-    .title = Vel bakgrunnsbilde
+    .label = Bruk som bakgrunnsbilde
+    .title = Bruk som bakgrunnsbilde
     .aria-label = Bruk dagens bilde som bakgrunnsbilde
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Handsam bakgrunnsbilde
