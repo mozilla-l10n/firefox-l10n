@@ -75,9 +75,57 @@ browser-main-window-titles =
     .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Pelayaran Peribadi
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Pelayaran Peribadi
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Pelayaran Peribadi
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — Pelayaran Peribadi
+       *[other] { -brand-full-name } Pelayaran Peribadi
+    }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Pelayaran Peribadi
+popups-infobar-dont-show-message2 =
+    .label = Jangan tunjukkan mesej ini apabila pop-up atau lencongan pihak ketiga disekat
+    .accesskey = J
+edit-popup-settings2 =
+    .label = Urus tetapan pop-up dan lencongan pihak ketiga...
+    .accesskey = U
 
 ##
 
@@ -92,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Tukar pilihan samada anda boleh menerima notifikasi dari laman
 urlbar-midi-notification-anchor =
     .tooltiptext = Buka panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Buka panel Serial
 urlbar-eme-notification-anchor =
     .tooltiptext = Urus penggunaan perisian DRM
 urlbar-web-authn-anchor =
@@ -104,6 +154,14 @@ urlbar-default-notification-anchor =
     .tooltiptext = Buka panel mesej
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Buka lokasi panel permintaan
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Urus akses peranti tempatan untuk laman ini
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Urus perkongsian akses rangkaian tempatan anda dengan laman ini
+urlbar-xr-notification-anchor =
+    .tooltiptext = Buka panel kebenaran realiti maya
+urlbar-storage-access-anchor =
+    .tooltiptext = Buka panel kebenaran aktiviti pelayaran
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Urus perkongsian tetingkap atau skrin anda dengan laman
 urlbar-indexed-db-notification-anchor =
@@ -114,12 +172,64 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Urus kegunaan plugin
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Urus perkongsian kamera dan/atau mikrofon anda dengan laman
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Urus perkongsian pembesar suara lain dengan laman
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Buka panel automain
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data dalam Storan Kekal
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel mesej pemasangan add-on
+urlbar-search-tips-confirm-short = Baiklah
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Petua:
+urlbar-result-menu-button =
+    .title = Buka menu
+urlbar-result-menu-button-feedback = Maklum balas
+    .title = Buka menu
+urlbar-result-menu-learn-more2 = Ketahui selanjutnya
+    .accesskey = K
+urlbar-result-menu-remove-from-history2 = Buang daripada sejarah
+    .accesskey = B
+urlbar-result-menu-tip-get-help2 = Dapatkan bantuan
+    .accesskey = b
+urlbar-result-menu-learn-more =
+    .label = Ketahui selanjutnya
+    .accesskey = K
+urlbar-result-menu-remove-from-history =
+    .label = Buang daripada sejarah
+    .accesskey = B
+urlbar-result-menu-tip-get-help =
+    .label = Dapatkan bantuan
+    .accesskey = b
+urlbar-result-menu-dismiss-suggestion =
+    .label = Abaikan cadangan ini
+    .accesskey = A
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Ketahui selanjutnya tentang { -firefox-suggest-brand-name }
+    .accesskey = K
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Urus { -firefox-suggest-brand-name }
+    .accesskey = U
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Laporkan lokasi tidak tepat
+urlbar-result-menu-show-less-frequently =
+    .label = Tunjukkan kurang kerap
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Jangan tunjukkan cadangan cuaca
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Buka menu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -127,6 +237,12 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Taip sedikit, cari selanjutnya: Carian { $engineName } dari bar alamat anda.
+urlbar-search-tips-redirect-2 = Mulakan carian anda dalam bar alamat untuk melihat cadangan daripada { $engineName } dan sejarah pelayaran anda.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Carian kini lebih mudah. Cuba buat carian anda lebih khusus di sini dalam bar alamat. Untuk tunjukkan URL sebaliknya, lawati Carian, dalam tetapan.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Pilih pintasan ini untuk cari apa yang anda perlukan dengan lebih pantas.
 
 ##
 
