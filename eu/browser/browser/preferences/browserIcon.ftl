@@ -36,6 +36,12 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Burutu azpiko ekintzak eta desblokeatu azeriaren ikono gehiago { -brand-short-name } pertsonalizatzeko.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Ikono gehigarri guztiak desblokeatu dituzu!
+appearance-browser-icon-set-default-button =
+    .label = Erabili lehenetsia
 appearance-browser-icon-pin-button =
     .label = Ainguratu ataza-barran
 

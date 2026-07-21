@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Jarraitu beti
 neterror-pref-reset = Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?
 neterror-error-reporting-automatic = Eman honen gisako erroreen berri { -vendor-short-name }ri asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Baliteke zure konexioa pribatua ez izatea
+    .message = Aplikazio edo zerbitzu batek gune honetako zure trafikoa zifratu gabe ikus lezake.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name }(e)k ezin du orria kargatu.

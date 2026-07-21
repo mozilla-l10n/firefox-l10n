@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Itzuli orria…
 appmenuitem-zoom =
     .value = Zooma
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Partekatu { -brand-product-name }
 appmenuitem-more-tools =
     .label = Tresna gehiago
 appmenuitem-help =

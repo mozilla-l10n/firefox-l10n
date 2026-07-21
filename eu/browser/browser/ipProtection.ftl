@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Integratutako VPNaren zure mugak irailaren 1ean berrezarriko dira
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ireki VPNa
 ipprotection-summer-promo-offramp-get-subscription-button = Eskuratu { -mozilla-vpn-brand-name }
