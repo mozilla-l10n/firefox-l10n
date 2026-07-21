@@ -162,6 +162,12 @@ home-prefs-mission-message-learn-more-link-srd = اكتشف كيف
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = اطّلع على المزيد
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -215,6 +221,13 @@ newtab-privacy-message-first-protection-cta = اطّلع على الحمايات
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = اطّلع على المزيد
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
 ## Strings for the Picture of the Day widget
 
 # Context menu item linking to more information about the widget.
@@ -263,6 +276,7 @@ newtab-topsites-url-input =
     .placeholder = اكتب أو ألصق مسارًا
 newtab-topsites-url-validation = مطلوب مسار صالح
 newtab-topsites-image-url-label = مسار الصورة المخصصة
+newtab-topsites-use-custom-image-link = استخدم صورة مخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
 
@@ -783,6 +797,9 @@ newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
@@ -977,6 +994,28 @@ newtab-widget-timer-celebration-message-break = أمستعد للتركيز؟
 
 newtab-sports-widget-menu-learn-more = اطّلع على المزيد
 newtab-sports-widget-skip = تخطَّ
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
