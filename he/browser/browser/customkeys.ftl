@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = נא להקיש על מקש חדש:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (לא ניתן לשינוי)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = להסיר קיצור דרך אחר?
 customkeys-conflict-confirm-body = מקש זה כבר נמצא בשימוש על־ידי ״{ $conflict }״.
 customkeys-conflict-confirm-button-confirm = להשתמש בכל זאת
 customkeys-conflict-confirm-button-cancel = ביטול
+customkeys-conflict-unusable-title = לא ניתן להשתמש במקש
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = מקש זה כבר נמצא בשימוש על־ידי ״{ $conflict }״ ואינו ניתן לשימוש.
 customkeys-reset-all-confirm-title = לשחזר את ברירות המחדל?
 customkeys-reset-all-confirm-body = כל קיצורי מקלדת המותאמים אישית שיצרת יוסרו.
 customkeys-reset-all-confirm-button-confirm = שחזור ברירות מחדל
