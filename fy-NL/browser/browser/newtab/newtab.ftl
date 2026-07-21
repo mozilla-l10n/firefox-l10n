@@ -435,6 +435,7 @@ newtab-topsites-url-input =
     .placeholder = Typ of plak in URL
 newtab-topsites-url-validation = Jildige URL fereaske
 newtab-topsites-image-url-label = URL fan oanpaste ôfbylding
+newtab-topsites-use-custom-image-link = In oanpaste ôfbylding brûke
 newtab-topsites-use-image-link = In oanpaste ôfbylding brûke…
 newtab-topsites-image-validation = Ofbylding koe net laden wurde. Probearje in oare URL.
 
