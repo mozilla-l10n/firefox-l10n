@@ -384,6 +384,7 @@ appmenu-profile-current-in-use = Aktualny profil so wužiwa
 fxa-menu-create-profile-subpanel =
     .title = Nowy profil załožić
 fxa-menu-create-profile-heading = Powyšće niwow swojeho přehladowanja z nowym profilom
+fxa-menu-create-profile-description = Dźeržće swoje zapołožki, hesła a historiju separatne za dźěło a wosobinske přehladowanje.
 fxa-menu-create-profile-confirm =
     .label = Nowy profil załožić
 fxa-menu-create-profile-learn-more =
