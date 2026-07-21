@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Sayfayı çevir…
 appmenuitem-zoom =
     .value = Yakınlaştırma
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = { -brand-product-name } tarayıcısını paylaş
 appmenuitem-more-tools =
     .label = Daha fazla araç
 appmenuitem-help =
@@ -109,6 +113,38 @@ appmenu-remote-tabs-unverified = Hesabınızın doğrulanması gerekiyor.
 appmenuitem-fxa-toolbar-sync-now2 = Şimdi eşitle
 appmenuitem-fxa-sign-in = { -brand-product-name }’a giriş yap
 appmenuitem-fxa-manage-account = Hesabı yönet
+fxa-menu-sync-status-on = Eşitleme açık
+fxa-menu-sync-status-off = Eşitleme kapalı
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Verileriniz eşitlenmiyor
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Aç
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Sync’e giriş yapın
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = { $deviceName } cihazını eşitle
+fxa-menu-manage-sync-settings =
+    .label = Eşitleme ayarlarını yönet
+fxa-menu-add-device =
+    .label = Cihaz ekle
+fxa-menu-manage-devices =
+    .label = Cihazlarımı yönet
+fxa-menu-device-missing =
+    .label = Cihazınızı görmüyor musunuz?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Tüm cihazlar
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Tüm cihazlar
+fxa-menu-secure-sync-subpanel =
+    .title = Güvenli eşitleme
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Hesap
 # Variables
@@ -336,9 +372,31 @@ appmenu-manage-profiles =
     .label = Profilleri yönet
 appmenu-copy-profile =
     .label = Bu profili kopyala
+appmenu-create-profile2 =
+    .label = Yeni profil oluştur
 appmenu-create-profile =
     .label = Yeni profil
 appmenu-edit-profile =
     .aria-label = Profili düzenle
+appmenu-edit-this-profile =
+    .label = Bu profili düzenle
+appmenu-profile-current-in-use = Kullanılan profil
+fxa-menu-create-profile-subpanel =
+    .title = Yeni profil oluştur
+fxa-menu-create-profile-confirm =
+    .label = Yeni profil oluştur
+fxa-menu-create-profile-learn-more =
+    .label = Profil nedir?
 appmenu-profiles-2 =
     .label = Profiller
+appmenu-profiles-header = Profiller
+appmenu-all-profiles =
+    .label = Tüm profiller
+appmenu-secure-sync-header = Güvenli eşitleme
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Son sekmeler
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Açık sayfayı bu cihaza gönder

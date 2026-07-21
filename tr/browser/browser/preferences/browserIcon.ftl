@@ -49,3 +49,8 @@ appearance-browser-icon-kit =
     .label = Kit
 appearance-browser-icon-pixelated =
     .label = Pikselleştirilmiş
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = İllüstrasyon: @heyheymomodraws
