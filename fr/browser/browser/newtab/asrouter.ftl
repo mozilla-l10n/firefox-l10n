@@ -303,7 +303,7 @@ launch-on-login-infobar-final-reject-button = Non merci
 
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
-launch-on-login-autostart-infobar-message = { -brand-short-name } démarre désormais lorsque vous vous connectez à Windows. Vous pourrez toujours modifier ce choix depuis les paramètres.
+launch-on-login-autostart-infobar-message = { -brand-short-name } se lance désormais lorsque vous vous connectez à Windows. Vous pouvez modifier ce choix à tout moment depuis les paramètres.
 launch-on-login-autostart-infobar-keep-button = Continuer
     .accesskey = C
 launch-on-login-autostart-infobar-turn-off-button = Désactiver
@@ -514,7 +514,7 @@ nova-early-access-infobar-primary-button = J’ai compris
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Voulez-vous lancer { -brand-short-name } à chaque ouverture de session Windows ?
-launch-options-spotlight-title-session-restore = Rouvrir votre session après le redémarrage de { -brand-short-name } ?
+launch-options-spotlight-title-session-restore = Rouvrir votre session au redémarrage de { -brand-short-name } ?
 launch-options-spotlight-checkbox-launch-on-login = Lancer { -brand-short-name } au démarrage
 launch-options-spotlight-checkbox-pin-to-taskbar = Épingler à la barre des tâches
 # Shown on the browser-close prompt only
