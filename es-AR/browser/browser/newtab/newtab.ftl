@@ -431,6 +431,7 @@ newtab-topsites-url-input =
     .placeholder = Escribir o pegar URL
 newtab-topsites-url-validation = Se requiere URL válida
 newtab-topsites-image-url-label = URL de Imagen personalizada
+newtab-topsites-use-custom-image-link = Usar imagen personalizada
 newtab-topsites-use-image-link = Usar imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Pruebe una URL diferente.
 
