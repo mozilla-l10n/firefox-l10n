@@ -302,6 +302,17 @@ launch-on-login-infobar-final-message = <strong>{ -brand-short-name } ma se kuž
 launch-on-login-infobar-final-reject-button = Ně, źěkujom se
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = Dalej
+    .accesskey = D
+launch-on-login-autostart-infobar-turn-off-button = Znjemóžniś
+    .accesskey = Z
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -500,3 +511,10 @@ nova-early-access-share-feedback-link = Měnjenje źěliś
     .accesskey = M
 nova-early-access-infobar-primary-button = Som zrozměł
     .accesskey = S
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = { -brand-short-name } kuždy raz startowaś, gaž se pla Windowa pśizjawjaśo?

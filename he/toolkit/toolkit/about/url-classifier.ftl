@@ -34,6 +34,35 @@ url-classifier-cache-prefix = קידומת
 url-classifier-cache-ncache-expiry = תפוגת מטמון שלילית
 url-classifier-cache-fullhash = גיבוב מלא
 url-classifier-cache-pcache-expiry = תפוגת מטמון חיובית
+url-classifier-content-classifier-title = מסווג תוכן
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = כתובת
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = כתובת טעינה
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = הפעלת כתובת טעינה
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = כתובת top-window
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = הפעלת כתובת top-window
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = סוג יעד
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = דגלים
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = גששים
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = תוצאות
+url-classifier-content-classifier-pbm = גלישה פרטית
 url-classifier-debug-title = ניפוי שגיאות
 url-classifier-debug-module-btn = הגדרת מודולי רישום
 url-classifier-debug-file-btn = הגדרת קובץ רישום
