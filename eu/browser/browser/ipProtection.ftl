@@ -58,6 +58,26 @@ ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Integratutako VPNaren zure mugak irailaren 1ean berrezarriko dira
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Erabili { $maxUsage } GB eta 6 kokapen pribatutasun gehiagorako eta nabigazioaren zure aztarna jarraitzea zailtzeko.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Erabili { $maxUsage } GB eta 20 kokapen baino gehiago pribatutasun gehiagorako eta nabigazioaren zure aztarna jarraitzea zailtzeko.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Integratutako zure VPNa hobetu egin da
+ipprotection-summer-promo-offramp-subscriber-description = Orain banda-zabalera mugagabea eta kokapen gehiago izango dituzu { -mozilla-vpn-brand-name }(r)en harpide gisa.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Mantendu integratutako VPN kokapen gehigarriak
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Egizu { -brand-product-name } zure lehenengo nabigatzailea eta eskuratu nabigatu beharreko beste 20 kokapen gehiago abuztuaren 31tik aurrera.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Igo mailaz { -mozilla-vpn-brand-name } erabilita
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ireki VPNa
 ipprotection-summer-promo-offramp-get-subscription-button = Eskuratu { -mozilla-vpn-brand-name }

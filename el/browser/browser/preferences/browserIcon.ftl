@@ -6,6 +6,15 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+appearance-browser-icon-button =
+    .label = Αλλαγή εικονιδίου προγράμματος περιήγησης
+
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Περισσότερα εικονίδια
 
 ## Icon names
 

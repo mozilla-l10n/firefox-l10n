@@ -295,6 +295,15 @@ launch-on-login-infobar-final-message = <strong>Ανοίγετε το { -brand-s
 launch-on-login-infobar-final-reject-button = Όχι, ευχαριστώ
     .accesskey = χ
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-turn-off-button = Απενεργοποίηση
+    .accesskey = Α
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -493,3 +502,12 @@ nova-early-access-share-feedback-link = Αποστολή σχολίων
     .accesskey = σ
 nova-early-access-infobar-primary-button = Το κατάλαβα
     .accesskey = κ
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Εκκίνηση του { -brand-short-name } κάθε φορά που συνδέεστε στα Windows;
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Αποθήκευση και συνέχεια
