@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Hoàn thành và mở khóa các biểu tượng cáo nhận thêm để cá nhân hóa { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Bạn đã mở khóa tất cả các biểu tượng thêm!
 appearance-browser-icon-set-default-button =
     .label = Đặt làm mặc định
 appearance-browser-icon-pin-button =

@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Nhấn phím mới:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (không thể thay đổi)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Xoá các phím tắt khác?
 customkeys-conflict-confirm-body = Phím này đã được sử dụng bởi “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Vẫn sử dụng
 customkeys-conflict-confirm-button-cancel = Hủy bỏ
+customkeys-conflict-unusable-title = Phím này không thể sử dụng
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Phím này đã được sử dụng bởi “{ $conflict }” và không thể gán được.
 customkeys-reset-all-confirm-title = Khôi phục về mặc định?
 customkeys-reset-all-confirm-body = Mọi phím tắt tùy chỉnh mà bạn đã tạo sẽ bị xóa.
 customkeys-reset-all-confirm-button-confirm = Khôi phục về mặc định

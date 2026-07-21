@@ -293,6 +293,20 @@ launch-on-login-infobar-final-message = <strong>Mở { -brand-short-name } mỗi
 launch-on-login-infobar-final-reject-button = Không phải bây giờ
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name }  bây giờ sẽ tự động khởi động khi bạn đăng nhập vào Windows. Bạn luôn có thể thay đổi điều này sau trong phần cài đặt.
+launch-on-login-autostart-infobar-keep-button = Giữ bật
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Tắt nó
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -491,3 +505,21 @@ nova-early-access-share-feedback-link = Để lại phản hồi
     .accesskey = S
 nova-early-access-infobar-primary-button = Đã hiểu
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Khởi chạy { -brand-short-name } mỗi khi bạn đăng nhập vào Windows?
+launch-options-spotlight-title-session-restore = Bạn có muốn mở lại phiên làm việc khi { -brand-short-name } khởi động lại không?
+launch-options-spotlight-checkbox-launch-on-login = Mở { -brand-short-name } khi khởi động
+launch-options-spotlight-checkbox-pin-to-taskbar = Ghim vào thanh tác vụ của bạn
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Mở lại các cửa sổ và thẻ hiện tại
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Mở lại các cửa sổ và thẻ trước đó
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Lưu và đóng { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Lưu và tiếp tục

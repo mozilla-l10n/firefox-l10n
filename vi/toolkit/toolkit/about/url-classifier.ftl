@@ -37,6 +37,9 @@ url-classifier-cache-prefix = Tiền tố
 url-classifier-cache-ncache-expiry = Hết hạn bộ nhớ đệm âm
 url-classifier-cache-fullhash = Hash đầy đủ
 url-classifier-cache-pcache-expiry = Hết hạn bộ nhớ đệm tích cực
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
 url-classifier-debug-title = Gỡ lỗi
 url-classifier-debug-module-btn = Đặt mô-đun nhật ký
 url-classifier-debug-file-btn = Đặt tập tin nhật ký

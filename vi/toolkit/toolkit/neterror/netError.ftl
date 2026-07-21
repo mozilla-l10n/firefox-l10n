@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Luôn luôn tiếp tục
 neterror-pref-reset = Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?
 neterror-error-reporting-automatic = Báo cáo những lỗi như thế này để giúp { -vendor-short-name } nhận diện và chặn những trang độc hại
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Kết nối của bạn có thể không riêng tư
+    .message = Một ứng dụng hoặc dịch vụ nào đó có thể xem được lưu lượng truy cập được mã hóa của bạn từ trang web này.
+
 ## Specific error messages
 
 neterror-generic-error = Vì lý do nào đó, { -brand-short-name } không thể mở trang này.
