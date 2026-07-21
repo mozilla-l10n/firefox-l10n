@@ -37,10 +37,29 @@ url-classifier-cache-prefix = Prefiks
 url-classifier-cache-ncache-expiry = Negativ hurtiglagerutløp
 url-classifier-cache-fullhash = Fullstendig hash
 url-classifier-cache-pcache-expiry = Positiv hurtiglagerutløp
+url-classifier-content-classifier-title = Innholdsklassifisering
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = Nettadresse
 url-classifier-content-classifier-pbm = Privat nettlesing
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Funksjon
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Unntak
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Viktig
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Treff
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Unntak
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Feil ({ $code })
 url-classifier-debug-title = Feilsøking
 url-classifier-debug-module-btn = Velg loggmoduler
 url-classifier-debug-file-btn = Velg loggfil
