@@ -307,7 +307,7 @@ launch-on-login-infobar-final-reject-button = Nu, mulțumesc
 
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
-launch-on-login-autostart-infobar-message = Acum { -brand-short-name } este lansat când te conectezi în Windows. Poți modifica oricând mai târziu în setări.
+launch-on-login-autostart-infobar-message = Acum { -brand-short-name } este lansat când te autentifici în Windows. Poți modifica oricând mai târziu în setări.
 launch-on-login-autostart-infobar-keep-button = Continuă
     .accesskey = K
 launch-on-login-autostart-infobar-turn-off-button = Dezactivează

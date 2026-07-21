@@ -118,7 +118,7 @@ start-page-callout-secondary-label = Închide
 fxa-adoption-passwords-title = Parolă salvată. Hai să facem o copie de rezervă.
 fxa-adoption-passwords-subtitle = Protejează-ți parolele sincronizându-le cu dispozitivele tale prin criptare.
 # Opens Mozilla accounts sign-up page
-fxa-adoption-passwords-primary-button-label = Înregistrează-te
+fxa-adoption-passwords-primary-button-label = Fă-ți un cont
 
 ## Taskbar Tabs callout strings
 

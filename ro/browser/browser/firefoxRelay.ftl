@@ -63,7 +63,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Intră în contul { -brand-product-name } și folosește masca
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
-    .label = Înregistrează-te
+    .label = Înscrie-te
     .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Nu mai afișa
@@ -83,7 +83,7 @@ firefox-relay-and-fxa-popup-notification-header-basic-info = Previi mesajele ned
 firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Previi mesajele nedorite ascunzându-ți adresa reală de e-mail cu o <label data-l10n-name="firefox-relay-learn-more-url">mască de e-mail</label> gratuită. Mesajele pe e-mail de la <label data-l10n-name="firefox-fxa-and-relay-offer-domain">acest site</label> vor ajunge în continuare în căsuța ta poștală, dar cu adresa ta de e-mail ascunsă.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Mai întâi, fă-ți un cont sau intră în cont ca să folosești o mască de e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
-    .label = Înregistrează-te
+    .label = Înscrie-te
     .accesskey = S
 
 ## The "with-domain" variation of the Relay offer popup
