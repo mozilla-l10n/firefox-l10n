@@ -494,3 +494,12 @@ nova-early-access-share-feedback-link = Condivide commentos
     .accesskey = C
 nova-early-access-infobar-primary-button = Comprendite
     .accesskey = C
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Lancear { -brand-short-name } cata vice que tu accede a Windows?
+launch-options-spotlight-checkbox-launch-on-login = Aperir { -brand-short-name } al initialisation
+launch-options-spotlight-checkbox-pin-to-taskbar = Fixar a tu barra del cargas
