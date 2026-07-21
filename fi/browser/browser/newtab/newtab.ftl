@@ -434,6 +434,7 @@ newtab-topsites-url-input =
         }
 newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
 newtab-topsites-image-url-label = Oman kuvan osoite
+newtab-topsites-use-custom-image-link = Käytä omaa kuvaa
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
 
