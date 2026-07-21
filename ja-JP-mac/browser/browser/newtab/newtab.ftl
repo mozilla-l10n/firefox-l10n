@@ -398,6 +398,7 @@ newtab-topsites-url-input =
     .placeholder = URL を入力するかペースト
 newtab-topsites-url-validation = 正しい URL を入力してください
 newtab-topsites-image-url-label = カスタム画像 URL
+newtab-topsites-use-custom-image-link = カスタム画像を使用
 newtab-topsites-use-image-link = カスタム画像を使用...
 newtab-topsites-image-validation = 画像を読み込めませんでした。別の URL を試してください。
 
