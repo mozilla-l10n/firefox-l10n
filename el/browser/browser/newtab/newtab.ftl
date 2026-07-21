@@ -317,6 +317,13 @@ newtab-stocks-menu-learn-more = Μάθετε περισσότερα
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Μετοχές
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -411,6 +418,7 @@ newtab-topsites-url-input =
     .placeholder = Εισαγωγή ή επικόλληση URL
 newtab-topsites-url-validation = Απαιτείται έγκυρο URL
 newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνας
+newtab-topsites-use-custom-image-link = Χρήση προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
 
