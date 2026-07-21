@@ -435,6 +435,7 @@ newtab-topsites-url-input =
     .placeholder = Typ of plak een URL
 newtab-topsites-url-validation = Geldige URL vereist
 newtab-topsites-image-url-label = URL van aangepaste afbeelding
+newtab-topsites-use-custom-image-link = Een aangepaste afbeelding gebruiken
 newtab-topsites-use-image-link = Een aangepaste afbeelding gebruiken…
 newtab-topsites-image-validation = Afbeelding kon niet worden geladen. Probeer een andere URL.
 
