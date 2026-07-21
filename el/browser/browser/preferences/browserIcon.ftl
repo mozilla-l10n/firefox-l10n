@@ -25,6 +25,15 @@ appearance-browser-icon-basic-group =
 appearance-browser-icon-bonus-group =
     .label = Ειδικά
 
+##
+
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Ξεκλειδώσατε όλα τα επιπλέον εικονίδια!
+appearance-browser-icon-pin-button =
+    .label = Καρφίτσωμα στη γραμμή εργασιών
+
 ## Icon names
 
 appearance-browser-icon-default =
