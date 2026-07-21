@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Ireki { -brand-short-name } orde
 launch-on-login-infobar-final-reject-button = Ez, eskerrik asko
     .accesskey = z
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } abiatu egiten da orain Windowsen saioa hasten duzunean. Geroago ere ezarpenetan alda dezakezu hau.
+launch-on-login-autostart-infobar-keep-button = Mantendu aktibo
+    .accesskey = M
+launch-on-login-autostart-infobar-turn-off-button = Desaktibatu
+    .accesskey = D
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -462,6 +476,16 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta manten ezazu Dock-ean.
        *[other] Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta manten ezazu ataza-barran.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Izan { -brand-short-name } esku-eskura
+       *[other] Ireki lotura guztiak { -brand-short-name } erabiliz
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Lehenetsi eta manten ezazu Dock-ean.
+       *[other] Eskuratu nabigazio azkarragoa eta pribatutasunaren babes automatikoa.
+    }
 set-default-menu-message-primary-button = Ezarri lehenetsi gisa
 set-default-menu-message-primary-button-variant = Ezarri nabigatzaile nagusi gisa
 set-default-menu-message-primary-button-short-variant = Lehenetsi { -brand-short-name }
@@ -483,3 +507,21 @@ nova-early-access-share-feedback-link = Partekatu iritzia
     .accesskey = a
 nova-early-access-infobar-primary-button = Ulertuta
     .accesskey = U
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Abiatu { -brand-short-name } Windowsen saioa hasten duzun aldiro?
+launch-options-spotlight-title-session-restore = Ireki berriro zure saioa { -brand-short-name } berrabiaraztean?
+launch-options-spotlight-checkbox-launch-on-login = Ireki { -brand-short-name } abioan
+launch-options-spotlight-checkbox-pin-to-taskbar = Ainguratu ataza-barran
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Ireki berriro uneko leiho eta fitxak
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Ireki berriro aurreko leiho eta fitxak
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Gorde eta itxi { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Gorde eta jarraitu

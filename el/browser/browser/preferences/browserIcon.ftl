@@ -16,6 +16,15 @@ appearance-browser-icon-button =
 appearance-browser-icon-subpage-title =
     .heading = Περισσότερα εικονίδια
 
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Τυπικά
+appearance-browser-icon-bonus-group =
+    .label = Ειδικά
+
 ## Icon names
 
 appearance-browser-icon-default =
@@ -28,5 +37,13 @@ appearance-browser-icon-pride =
     .label = Υπερηφάνεια
 appearance-browser-icon-minimal =
     .label = Μινιμαλιστικό
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
 appearance-browser-icon-pixelated =
     .label = Εικονοστοιχεία
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Δημιουργός: @heyheymomodraws

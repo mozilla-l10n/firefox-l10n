@@ -78,8 +78,10 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Egizu 
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Igo mailaz { -mozilla-vpn-brand-name } erabilita
+ipprotection-summer-promo-offramp-subscription-upsell-description = Izan banda-zabalera mugagabea abuztuaren 31tik aurrera, 300+ kokapenekin eta 5 gailura arte, nabigazioaren zure aztarna jarraitzea zailtzeko.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ireki VPNa
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Erabili lehenetsia
 ipprotection-summer-promo-offramp-get-subscription-button = Eskuratu { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Baztertu
 
@@ -182,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Egiaztatu zure Interneter
 ipprotection-connection-status-network-error-description = Konektatu Internetera, gero saiatu VPNa aktibatzen.
 ipprotection-connection-status-blocked-error-title-1 = VPNa ez dago erabilgarri
     .aria-label = VPNa ez dago erabilgarri
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Tokiko lege eta murriztapenek VPNa non erabil dezakezun mugatzen dute. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 ipprotection-connection-status-blocked-error-description = Tokiko legeek eragotzi egiten digute eskualde honetan VPN zerbitzua eskaintzea. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
