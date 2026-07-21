@@ -67,6 +67,8 @@ login-list-filtered-count2 =
 login-list-sort-label-text = Sırala:
 login-list-name-option = Ad (A-Z)
 login-list-name-reverse-option = Ad (Z-A)
+login-list-username-option = İstifadəçi adı (A-Z)
+login-list-username-reverse-option = İstifadəçi adı (Z-A)
 about-logins-login-list-alerts-option = Xəbərdarlıqlar
 login-list-last-changed-option = Son Dəyişiklik
 login-list-last-used-option = Son istifadə edilmə
@@ -140,6 +142,16 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
 confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
 about-logins-confirm-remove-dialog-confirm-button = Sil
+
+## Variables
+##   $count (number) - Number of items
+
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Sil
+        [one] Sil
+       *[other] Hamısını Sil
+    }
 
 ##
 

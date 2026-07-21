@@ -59,7 +59,7 @@ url-classifier-content-classifier-top-window-url-enabled = Activer l’URL de la
 url-classifier-content-classifier-destination-type = Type de destination
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
-url-classifier-content-classifier-flags = Drapeaux
+url-classifier-content-classifier-flags = Options
 # Header for the group of buttons that run a classification test. A "probe" here
 # means running the classifier once and reporting what it would do.
 url-classifier-content-classifier-probes = Sondes
