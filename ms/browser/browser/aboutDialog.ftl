@@ -34,7 +34,8 @@ update-adminDisabled = Kemas kini dinyahdayakan oleh pentadbir sistem anda
 update-noUpdatesFound = { -brand-short-name } sudah terkini
 settings-update-no-updates-found =
     .label = { -brand-short-name } sudah terkini
-update-otherInstanceHandlingUpdates = { -brand-short-name } sedang dikemaskini oleh tika lain
+aboutdialog-update-checking-failed = Gagal menyemak kemas kini.
+update-otherInstanceHandlingUpdates = { -brand-short-name } sedang dikemas kini oleh salinan lain
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } sedang dikemaskini oleh tika lain
 

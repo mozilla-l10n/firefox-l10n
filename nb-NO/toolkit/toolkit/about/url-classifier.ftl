@@ -41,7 +41,21 @@ url-classifier-content-classifier-title = Innholdsklassifisering
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = Nettadresse
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Måltype
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Flagg
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Prober
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Resultater
 url-classifier-content-classifier-pbm = Privat nettlesing
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Ikke-anbefalt tillegg
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funksjon
 # Column header: whether this feature matched an exception/allow-list entry that
