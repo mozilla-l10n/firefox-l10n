@@ -92,6 +92,7 @@ customkeys-conflict-confirm-title = Remover un altere via-breve?
 customkeys-conflict-confirm-body = Iste clave es jam usate per “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Usar comocunque
 customkeys-conflict-confirm-button-cancel = Cancellar
+customkeys-conflict-unusable-title = Le clave non pote esser usate
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-unusable-body = Iste clave es jam usate per “{ $conflict }” e non pote esser usate
