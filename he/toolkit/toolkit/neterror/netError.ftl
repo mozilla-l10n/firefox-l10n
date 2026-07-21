@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = תמיד להמשיך
 neterror-pref-reset = נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?
 neterror-error-reporting-automatic = דיווח על תקלות מסוג זה כדי לסייע ל־{ -vendor-short-name } לזהות ולחסום אתרים מסוכנים
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = ייתכן שהחיבור שלך אינו פרטי
+    .message = יישום או שירות עשויים לראות את התעבורה המוצפנת שלך מאתר זה.
+
 ## Specific error messages
 
 neterror-generic-error = מסיבה בלתי ידועה, אין ל־{ -brand-short-name } אפשרות לטעון דף זה.

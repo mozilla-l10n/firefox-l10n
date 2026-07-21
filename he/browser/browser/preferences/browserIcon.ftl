@@ -33,6 +33,10 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = פתחת את כל סמלי הבונוס!
 appearance-browser-icon-set-default-button =
     .label = הגדרה כברירת מחדל
 appearance-browser-icon-pin-button =

@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Complete and unlock bonus fox icons to personalise { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = You unlocked all of the bonus icons!
 appearance-browser-icon-set-default-button =
     .label = Set to default
 appearance-browser-icon-pin-button =

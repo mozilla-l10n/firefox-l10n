@@ -514,3 +514,14 @@ nova-early-access-infobar-primary-button = Got it
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Start { -brand-short-name } every time you sign in to Windows?
+launch-options-spotlight-title-session-restore = Reopen your session when { -brand-short-name } restarts?
+launch-options-spotlight-checkbox-launch-on-login = Open { -brand-short-name } at startup
+launch-options-spotlight-checkbox-pin-to-taskbar = Pin to your taskbar
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Reopen current windows and tabs
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reopen previous windows and tabs
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Save and close { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Save and continue
