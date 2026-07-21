@@ -260,15 +260,33 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Hantar ke Peranti
     .accesskey = H
+main-context-menu-send-to-mobile-2 =
+    .label = Hantar ke Mudah Alih
+    .accesskey = H
+main-context-menu-send-to-mobile-sign-in = Log masuk untuk menghantar tab
+main-context-menu-send-to-mobile-enable-sync2 = Dayakan sync untuk menghantar tab
+main-context-menu-send-to-mobile-connect-phone2 = Sambungkan telefon anda
+main-context-menu-send-to-mobile-device-missing2 = Tidak nampak peranti anda?
+main-context-menu-send-to-mobile-sign-in-from-link = Log masuk untuk menghantar pautan
+main-context-menu-send-to-mobile-sign-in-from-page = Log masuk untuk menghantar halaman
 main-context-menu-send-to-device =
     .label = Hantar Halaman ke Peranti
     .accesskey = P
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Guna Topeng E-mel { -relay-brand-short-name }
+    .accesskey = T
+main-context-menu-manage-passwords =
+    .label = Urus Kata Laluan
+    .accesskey = U
 main-context-menu-keyword =
     .label = Tambah Kata kunci untuk Carian ini…
     .accesskey = K
+main-context-menu-add-engine =
+    .label = Tambah Enjin Carian
+    .accesskey = T
 main-context-menu-link-send-to-device =
     .label = Hantar Pautan ke Peranti
     .accesskey = P
