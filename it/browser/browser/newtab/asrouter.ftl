@@ -522,4 +522,3 @@ launch-options-spotlight-checkbox-restore-previous = Riapri le finestre e le sch
 launch-options-spotlight-primary-button-close = Salva e chiudi { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Salva e continua
-
