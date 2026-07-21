@@ -435,6 +435,7 @@ newtab-topsites-url-input =
     .placeholder = Eine Adresse eingeben oder einfügen
 newtab-topsites-url-validation = Gültige Adresse erforderlich
 newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
+newtab-topsites-use-custom-image-link = Eine benutzerdefinierte Grafik verwenden
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 newtab-topsites-image-validation = Grafik konnte nicht geladen werden. Verwenden Sie eine andere Adresse.
 
