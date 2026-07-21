@@ -40,7 +40,7 @@ smart-window-model-learn-link = Les om modellar
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
-    .label = Raskt: Raske svar
+    .label = Rask: Raske svar
     .description = Modell { $model } by { $ownerName }
 smart-window-model-flexible =
     .label = Fleksibelt: Passar godt til dei fleste behov
