@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Scarica { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigazione anonima ovunque ti trovi
 about-private-browsing-focus-promo-text = La nostra app mobile disegnata per la navigazione anonima elimina automaticamente cronologia e cookie.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Porta la navigazione anonima sul tuo telefono
 about-private-browsing-focus-promo-text-b = Utilizza { -focus-brand-name } quando hai bisogno di cercare qualcosa senza lasciare tracce nel tuo browser principale.
