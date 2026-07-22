@@ -585,3 +585,8 @@ onboarding-aw-finish-setup-button =
 ## The urlbar trust icon & panel
 
 trustpanel-privacy-link = Məxfilik Tənzimləmələri
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Yenilə
+    .accesskey = R

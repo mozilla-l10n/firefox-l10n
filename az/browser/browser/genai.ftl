@@ -18,6 +18,14 @@ genai-prompts-summarize =
 
 genai-menu-summarize-page = Səhifənin xülasəsini hazırla
 
+## Chatbot header
+
+genai-options-reload-generic =
+    .label = Sİ söhbət botunu yenilə
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = { $provider } botunu yenilə
+
 ## Chatbot footer
 
 genai-page-button-summarize = Səhifənin icmalını çıxart

@@ -751,6 +751,9 @@ enhanced-tracking-protection-setting-custom =
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Diqqət!
+content-blocking-reload-tabs-button =
+    .label = Bütün Vərəqləri Yenilə
+    .accesskey = R
 content-blocking-tracking-protection-option-all-windows =
     .label = Bütün pəncərələrdə
     .accesskey = B
