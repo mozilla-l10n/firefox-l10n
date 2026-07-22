@@ -37,6 +37,29 @@ url-classifier-cache-prefix = Prefixo
 url-classifier-cache-ncache-expiry = Expiração de cache negativa
 url-classifier-cache-fullhash = Hash completo
 url-classifier-cache-pcache-expiry = Expiração de cache positiva
+url-classifier-content-classifier-title = Classificador de conteúdo
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = URL de carregamento
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Ativar URL de carregamento
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = URL da janela principal
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Ativar URL da janela principal
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Tipo de destino
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Opções
 url-classifier-debug-title = Depurar
 url-classifier-debug-module-btn = Configurar módulo de registro
 url-classifier-debug-file-btn = Configurar arquivo de registro

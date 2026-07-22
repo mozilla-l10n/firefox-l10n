@@ -305,6 +305,10 @@ launch-on-login-infobar-final-reject-button = Não, obrigado
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = Agora o { -brand-short-name } é aberto automaticamente quando você entra no Windows. Pode mudar isso quando quiser nas configurações.
+launch-on-login-autostart-infobar-keep-button = Manter
+    .accesskey = M
+launch-on-login-autostart-infobar-turn-off-button = Desativar
+    .accesskey = D
 
 ## Launch on login spotlight
 ##
@@ -504,3 +508,21 @@ nova-early-access-share-feedback-link = Compartilhe sua opinião
     .accesskey = C
 nova-early-access-infobar-primary-button = Ok
     .accesskey = O
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Iniciar o { -brand-short-name } toda vez que entrar no Windows?
+launch-options-spotlight-title-session-restore = Reabrir a sessão ao reiniciar o { -brand-short-name }?
+launch-options-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } ao iniciar
+launch-options-spotlight-checkbox-pin-to-taskbar = Fixar na barra de tarefas
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Reabrir janelas e abas atuais
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reabrir janelas e abas anteriores
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Salvar e fechar o { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Salvar e continuar
