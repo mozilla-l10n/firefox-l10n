@@ -518,6 +518,10 @@ launch-options-spotlight-title-launch-on-login = Lancear { -brand-short-name } c
 launch-options-spotlight-title-session-restore = Reaperir tu session quando { -brand-short-name } se reinitialisa?
 launch-options-spotlight-checkbox-launch-on-login = Aperir { -brand-short-name } al initialisation
 launch-options-spotlight-checkbox-pin-to-taskbar = Fixar a tu barra del cargas
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Reaperir fenestras e schedas actual
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reaperir fenestras e schedas previe
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Salvar e clauder { -brand-short-name }
 # Primary button on the browser-launch prompt
