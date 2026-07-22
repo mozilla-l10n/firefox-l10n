@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Gurutzegrama
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Akzioak
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Eguneko argazkia
@@ -180,7 +183,9 @@ newtab-privacy-message-info-5-cta = Ikusi babesak
 newtab-privacy-message-info-6-cta = Argibide gehiago
 newtab-privacy-message-info-7-cta = Ikusi babesak
 newtab-privacy-message-info-8-cta = Argibide gehiago
+newtab-privacy-message-info-9 = Egizu { -brand-short-name } zure nabigatzaile lehenetsia integratutako pribatutasunerako.
 newtab-privacy-message-info-9-cta = Lehenetsi
+newtab-privacy-message-info-10 = Gorde pasahitzak { -brand-short-name }(e)n saio-hasiera sendo eta bakarrak erabiltzeko edonon.
 newtab-privacy-message-info-10-cta = Joan pasahitzetara
 newtab-privacy-message-info-11-cta = Argibide gehiago
 newtab-privacy-message-info-12-cta = Ikusi babesak
@@ -212,6 +217,8 @@ newtab-privacy-message-first-protection-cta = Ikusi babesak
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Bilatu kotizazio-kodeak
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Argibide gehiago
 

@@ -92,6 +92,10 @@ customkeys-conflict-confirm-title = Kendu beste lasterbide bat?
 customkeys-conflict-confirm-body = Konbinazio hau "{ $conflict }" lasterbideak darabil jada.
 customkeys-conflict-confirm-button-confirm = Erabili halere
 customkeys-conflict-confirm-button-cancel = Utzi
+customkeys-conflict-unusable-title = Konbinazioa ezin da erabili
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Konbinazio hau "{ $conflict }" ekintzak erabiltzen du jada eta ezin da erabili.
 customkeys-reset-all-confirm-title = Berrezarri lehenetsiak?
 customkeys-reset-all-confirm-body = Sortutako teklatuaren lasterbide pertsonalizatu guztiak kendu egingo dira.
 customkeys-reset-all-confirm-button-confirm = Berrezarri lehenetsiak
@@ -107,5 +111,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Bilatu lasterbideak
     .placeholder = Bilatu lasterbideak
+customkeys-description = Kontrolatu nola mugitzen zaren eta nola jarduten duzun { -brand-short-name }(r)ekin.
 customkeys-support-link-text = Argibide gehiago
 customkeys-reset-all-button = Berrezarri lehenetsiak
