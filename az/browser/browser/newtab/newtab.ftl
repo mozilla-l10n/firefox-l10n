@@ -207,7 +207,7 @@ newtab-empty-section-topstories = Hamısını oxudunuz. Yeni { $provider } məqa
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Məşhur Mövzular:
-newtab-pocket-more-recommendations = Daha Çox Tövsiyyələr
+newtab-pocket-more-recommendations = Daha Çox Tövsiyələr
 newtab-pocket-cta-button = { -pocket-brand-name } əldə edin
 newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də saxlayın və möhtəşəm yeni yazıları kəşf edin.
 

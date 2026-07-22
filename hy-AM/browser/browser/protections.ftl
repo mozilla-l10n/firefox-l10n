@@ -203,3 +203,7 @@ bar-tooltip-cryptominer =
             [one] { $count } ծպտյալ արժույթներ ({ $percentage }%)
            *[other] { $count } ծպտյալ արժույթներ ({ $percentage }%)
         }
+
+## VPN promo card and banner
+
+protections-vpn-banner-link = Ստացեք { -mozilla-vpn-brand-name }-ը
