@@ -75,3 +75,4 @@ about-logins-login-list-empty-search-title2 = Tiada kata laluan dijumpai
 about-logins-login-list-empty-search-description = Tiada hasil yang sepadan dengan carian anda.
 login-list-item-title-new-login = Log Masuk Baharu
 login-list-item-subtitle-new-login = Masukkan maklumat log masuk anda
+login-list-item-title-new-login2 = Tambah kata laluan
