@@ -19,6 +19,7 @@ smart-window-context-chips-tag-count =
 smartwindow-assistant-error-generic-header = Oĩvaicha osẽvaíva. Eha’ã jey ag̃amieve.
 smartwindow-assistant-error-budget-header = Ndaikatuvéima echatea ko árape.
 smartwindow-assistant-error-account-header = Eiporu hag̃ua { -smart-window-brand-name }, eikeraẽva’erã.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } henyhẽ ko’ag̃aite. Ikatípa eha’ã jey ag̃amieve.
 smartwindow-assistant-error-max-length-header = Oguahẽma ára eñepyrũvo jechatea pyahu. Kóva ohupytýma ipukukue.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
