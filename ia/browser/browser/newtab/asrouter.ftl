@@ -304,7 +304,7 @@ launch-on-login-infobar-final-reject-button = No, gratias
 
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
-launch-on-login-autostart-infobar-message = { -brand-short-name } ora es lanceate quando tu accede a Windows. Tu pote sempre cambiar lo plus tarde in configurationes.
+launch-on-login-autostart-infobar-message = { -brand-short-name } ora es lanceate quando tu accede a Windows. Tu sempre potera cambiar lo plus tarde in configurationes.
 launch-on-login-autostart-infobar-keep-button = Mantener active
     .accesskey = a
 launch-on-login-autostart-infobar-turn-off-button = Disactivar
