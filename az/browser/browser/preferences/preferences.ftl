@@ -24,6 +24,12 @@ pane-privacy-section =
 pane-privacy-title = Məxfilik və Təhlükəsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-appearance-title = Görünüş
+    .title = { pane-appearance-title }
+pane-downloads-title2 = Endirmələr
+    .title = Endirmələr
+pane-downloads3 =
+    .heading = Endirmələr
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -84,6 +90,10 @@ set-as-my-default-browser =
     .accesskey = m
 disable-extension =
     .label = Uzantını söndür
+tabs-browsing-section =
+    .heading = Vərəqlər və səyahət
+pane-tabs-browsing-title2 = Vərəqlər və səyahət
+    .title = Vərəqlər və səyahət
 tabs-group-header2 =
     .label = Vərəqlər
 tabs-group-header = Vərəqlər
@@ -144,6 +154,16 @@ browser-layout-show-sidebar2 =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Dil və Görünüş
+appearance-group2 =
+    .label = Vebsayt görünüşü
+    .description = Bəzi vebsaytlar sizin seçimlərinizə uyğunlaşmaq üçün rənglərini dəyişir. Öz rəng sxeminizi seçin.
+preferences-web-appearance-header = Vebsayt görünüşü
+preferences-web-appearance-choice-light2 =
+    .label = Açıq
+    .title = Vebsayt fonu və məzmunu üçün açıq görünüşü istifadə edin.
+preferences-web-appearance-choice-dark2 =
+    .label = Tünd
+    .title = Vebsayt fonu və məzmunu üçün tünd görünüşü istifadə edin.
 default-font = Əsas şrift
     .accesskey = f
 default-font-size = Ölçü
@@ -879,6 +899,11 @@ certs-devices-enable-fips = FIPS aktivləşdir
 desktop-folder-name = İşçi masası
 downloads-folder-name = Endirmələr
 choose-download-folder-title = Endirmə qovluğunu seçin:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Görünüş
 
 ## AI controls page
 

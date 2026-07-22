@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Аяқталды
 migration-safari-password-import-header = Safari-ден парольдерді импорттау
+migration-safari-password-import-post-sequoia-step3 = Файлды сақтау
+migration-safari-password-import-post-sequoia-step4 = Сақтаған файлыңызды таңдаңыз
 migration-safari-password-import-steps-header = Safari парольдерін импорттау үшін:
 migration-safari-password-import-step1 = Safari қолданбасында "Safari" мәзірін ашып, Баптаулар > Парольдер тармағына өтіңіз
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> батырмасын таңдап, "Барлық парольдерді экспорттау" опциясын таңдаңыз.
@@ -203,6 +205,7 @@ migration-chrome-windows-password-import-step2 = Мәзірден "Баптау�
 migration-chrome-windows-password-import-step3 = "Файлды жүктеп алу" тармағын таңдап, оны құрылғыға сақтаңыз.
 migration-chrome-windows-password-import-step4 = Импорттауды аяқтау үшін осы жерге оралып, «Файлды таңдау» басыңыз.
 migration-manual-password-import-skip-button = Аттап кету
+migration-manual-password-import-cancel-button = Бас тарту
 migration-manual-password-import-select-button = Файлды таңдау
 migration-safari-password-import-skip-button = Аттап кету
 migration-safari-password-import-select-button = Файлды таңдау
