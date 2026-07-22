@@ -88,3 +88,7 @@ choose-dialog-privatebrowsing-disabled = Ovetã ñemiguágui jepe’apyre
 mailto-handler-picker-set-default =
     .label = Eipuru ijypykuévaramo
     .accesskey = S
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Ani ko’ág̃a
+    .accesskey = N

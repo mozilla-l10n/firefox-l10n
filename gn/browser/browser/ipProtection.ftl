@@ -54,6 +54,8 @@ ipprotection-feature-introduction-button-get-started = Eñepyrũ
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Pe VPN juejupyre ru’ã oiko jeýta 1 jasyporundýpe
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Embojuruja VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Eiporu ypykuévarõ

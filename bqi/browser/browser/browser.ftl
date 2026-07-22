@@ -922,6 +922,8 @@ urlbar-result-explanation-bookmarked = نشووک ناهاڌه وابیڌه { $d
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = داده یل بازار سهام ن موستقیمن من نوار پیتینیڌن خوتووݩ بگرین
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = نشووݩ داڌن پؽشنهاڌا
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1115,6 +1117,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = سیچه مو یونه ابینوم؟
     .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = ز منشڌ داڌن ایسا ممنووݩ داریم. دی ای پیتینیڌنا ترند ن نیبینین.
 
 ## Reader View toolbar buttons
 
@@ -1149,6 +1154,10 @@ fullscreen-warning-no-domain = ای سند سکو من هالت پوی بلگه 
 fullscreen-exit-button = و در زیڌن ز نما پوی بلگه (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = و در زیڌن ز نما پوی بلگه (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> کونتورول جاگه نما ایسا ن من دست داره. سی گرؽڌن دووارته کونتورول، Esc ن فشار بڌین.
 
 ## Bookmarks panels, menus and toolbar
 
