@@ -43,6 +43,8 @@ settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Eksperimental özəlliklərimizi sınayın! Onlar hələ hazırlanma mərhələsindədir və inkişaf etdirilir, buna görə də { -brand-short-name } səyyahının işləmə qaydasına təsir göstərə bilər. Biz bu özəlliklərdən istifadəniz haqqında məlumatları yalnız <a data-l10n-name="data-collection">texniki və qarşılıqlı əlaqə məlumatları</a> seçimi aktiv olduqda əldə edirik.
+pane-experimental-description3 = Eksperimental özəlliklərimizi sınayın! Onlar hələ hazırlanma mərhələsindədir və inkişaf etdirilir, buna görə də { -brand-short-name } səyyahının işləmə qaydasına təsir göstərə bilər.
 help-button-label2 = { -brand-short-name } Dəstək
     .title = { -brand-short-name } Dəstək
 addons-button-label2 = Uzantılar və Mövzular
@@ -333,6 +335,12 @@ update-application-manual =
 update-application-use-service =
     .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
     .accesskey = a
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } yeniləmələri
+    .description = Yeniləmələr { -brand-short-name } səyyahının sürətini, stabilliyini və təhlükəsizliyini artırır.
 
 ## General Section - Performance
 

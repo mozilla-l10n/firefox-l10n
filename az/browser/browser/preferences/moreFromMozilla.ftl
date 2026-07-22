@@ -2,3 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are used in the about:preferences moreFromMozilla page
+
+more-from-moz-title = { -vendor-short-name }-dan daha çoxu
+more-from-moz-page-header =
+    .heading = { -vendor-short-name }-dan daha çoxu
+more-from-moz-category =
+    .tooltiptext = { -vendor-short-name }-dan daha çoxu
