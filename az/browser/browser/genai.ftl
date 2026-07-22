@@ -34,6 +34,7 @@ genai-page-button-summarize = Səhifənin icmalını çıxart
 
 ## Chatbot onboarding
 
+genai-onboarding-choose-header = { -brand-short-name } yan panelində istifadə edəcəyiniz Sİ söhbət botunu seçin
 genai-onboarding-primary = Davam et
 genai-onboarding-secondary = Bağla
 genai-onboarding-claude-learn = Claude haqqında daha çox öyrənin
