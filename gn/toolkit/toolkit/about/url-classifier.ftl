@@ -60,6 +60,35 @@ url-classifier-content-classifier-destination-type = Moõpa og̃uahẽta
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
 url-classifier-content-classifier-flags = Poyvieta
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Sondaita
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Apopyreita
+url-classifier-content-classifier-pbm = Kundaha ñemigua
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Ejapouka mbohapyhávape kora yvategua
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Moĩmbaha noĩporãmbáiva
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Eiporu jejokoha
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Sonda jehaiha
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Sonda rembiapoite
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Mba’emimi motor rehegua
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Tembiapoitéva
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Ojueheguáva
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Ojekuaáva motor rehegua
 url-classifier-debug-title = Mopotĩ
 url-classifier-debug-module-btn = Emopyenda jehaipy ra’ãha
 url-classifier-debug-file-btn = Emopyenda marandurenda jehaipy
