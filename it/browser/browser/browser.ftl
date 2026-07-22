@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gestisci impostazioni pop-up e reindirizzamenti di terze parti…
     .accesskey = G
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Visualizza informazioni sul sito
+            [one] Visualizza informazioni sul sito ({ $count } elemento tracciante bloccato)
+           *[other] Visualizza informazioni sul sito ({ $count } elementi traccianti bloccati)
+        }
 
 ##
 
@@ -1788,6 +1797,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Non sicuro
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } tracciante bloccato
+       *[other] { $count } traccianti bloccati
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
