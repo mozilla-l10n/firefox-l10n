@@ -339,3 +339,4 @@ aiwindow-starter-planning-brainstorm = Temiandukue aty
 aiwindow-starter-planning-plan = Eipytyvõ aporã moheñóime
 aiwindow-starter-browsing-history = Eheka tendayke tembiasakuépe
 aiwindow-starter-browsing-summarize = Emombyky tendayke
+aiwindow-starter-browsing-compare = Embojoja tendayke

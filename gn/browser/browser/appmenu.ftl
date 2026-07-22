@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Ndaikatúi embohekopyahu — ndojokupytýi apopyvusu
 appmenuitem-banner-update-restart =
     .label = Eiporukuaáma ñembohekopyahu — Emoñepyrũjey ko’ág̃a
+appmenu-nova-update-title = Eike jey embohekopyahu hag̃ua { -brand-short-name }
+appmenu-nova-update-description = Tendaykeita ijuruja jeýta.
 appmenu-nova-fxa-sign-in = Eñepyrũ tembiapo
 appmenu-nova-switch-device-promo =
     .message = ¿Oĩtama mba’e’oka pyahu? ¡Eraha { -brand-short-name } nendive!
@@ -47,6 +49,10 @@ appmenuitem-translate =
     .label = Emoñe’ẽasa kuatiarogue…
 appmenuitem-zoom =
     .value = Tuichakue
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Emoherakuã { -brand-product-name }
 appmenuitem-more-tools =
     .label = Tembiporuve
 appmenuitem-help =
@@ -107,6 +113,7 @@ appmenu-remote-tabs-unverified = Tekotevẽ ñemboaje ne mba’ete.
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-sign-in = Eike { -brand-product-name }
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
+fxa-menu-sync-status-on = Ñembojuehe hendýma
 fxa-menu-sync-status-off = Ñembojueheha ogue
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
