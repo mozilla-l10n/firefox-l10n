@@ -24,6 +24,8 @@ pane-privacy-section =
 pane-privacy-title = Məxfilik və Təhlükəsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-ai-controls-title2 = Sİ idarəetmələri
+    .title = Sİ idarəetmələri
 pane-appearance-title = Görünüş
     .title = { pane-appearance-title }
 pane-downloads-title2 = Endirmələr
@@ -37,6 +39,8 @@ preferences-languages-header3 =
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } Dəstək
@@ -855,6 +859,13 @@ permissions-microphone2 =
     .label = Mikrofon
 permissions-notification2 =
     .label = Bildirişlər
+permissions-header3 =
+    .label = İcazələr
+    .description = Saytların nələrə giriş əldə edə biləcəyini, nələri idarə edə və ya işə sala biləcəyini tənzimləyin.
+permissions-data-section =
+    .heading = İcazələr və məlumatlar
+pane-permissions-data-title2 = İcazələr və məlumatlar
+    .title = İcazələr və məlumatlar
 
 ## Privacy Section - Data Collection
 
@@ -933,3 +944,5 @@ preferences-ai-controls-sidebar-chatbot-group =
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Yan paneldə söhbət botu
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
+preferences-ai-controls-header3 =
+    .heading = Süni intellekt idarəetmələri
