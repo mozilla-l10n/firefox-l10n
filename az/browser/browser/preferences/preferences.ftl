@@ -825,6 +825,10 @@ collection-health-report-link = Ətraflı
 collection-studies =
     .label = { -brand-short-name } səyyahına tədqiqatları qurub və işlətməyə icazə ver
 collection-studies-link = { -brand-short-name } tədqiqatlarını gör
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Eyni tənzimləmələr, yeni görünüşdə!
+    .message = Bu səhifəni gözdən keçirməyi və lazım olanları tapmağı daha asan etmək üçün yenidən təşkil etdik. Şəxsi ayarlarınız dəyişməyib və hər şey əvvəlki kimi buradadır. Məsləhət: sizə lazım olan bölməyə birbaşa keçmək üçün axtarışdan istifadə edin.
 addon-recommendations-link = Ətraflı öyrən
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

@@ -66,6 +66,23 @@ url-classifier-content-classifier-probes = Sondas
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultatos
 url-classifier-content-classifier-pbm = Navigation private
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Fortiar tertie-parte a quadro principal
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Additivo non-recommendate
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Sondar blocada
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Sondar annotationes
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Sondar characteristica
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Detalios del motor
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Functionalitate
 # Column header: whether the request matched this feature (true/false).

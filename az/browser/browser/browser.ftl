@@ -69,6 +69,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Köməl alın
 urlbar-search-tips-confirm = Tamam, başa düşdüm
+urlbar-search-tips-confirm-short = Aydındır
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
