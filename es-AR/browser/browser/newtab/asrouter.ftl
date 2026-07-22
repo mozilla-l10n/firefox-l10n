@@ -517,3 +517,9 @@ launch-options-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } 
 launch-options-spotlight-checkbox-pin-to-taskbar = Pegar a la barra de tareas
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Reabrir ventanas y pestañas actuales
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reabrir ventanas y pestañas anteriores
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Guardar y cerrar { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Guardar y continuar

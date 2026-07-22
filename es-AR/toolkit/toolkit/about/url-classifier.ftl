@@ -37,6 +37,24 @@ url-classifier-cache-prefix = Prefijo
 url-classifier-cache-ncache-expiry = Expiración de caché negativo
 url-classifier-cache-fullhash = Hash completo
 url-classifier-cache-pcache-expiry = Expiración de caché positivo
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Resultados
+url-classifier-content-classifier-pbm = Navegación privada
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Complemento no recomendado
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Probar bloqueo
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Excepción
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Importante
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Error ({ $code })
 url-classifier-debug-title = Depuración
 url-classifier-debug-module-btn = Establecer módulos de registro
 url-classifier-debug-file-btn = Establecer archivo de registro
