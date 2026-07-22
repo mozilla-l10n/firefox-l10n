@@ -39,6 +39,11 @@ home-custom-homepage-bookmarks-button =
 
 ## Firefox Home content
 
+home-prefs-stories-header2 =
+    .label = Hekayələr
+    .description = { -brand-product-name } ailəsi tərəfindən seçilmiş xüsusi məzmun
+home-prefs-widgets-header =
+    .label = Vicetlər
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -216,3 +221,7 @@ newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də sax
 
 newtab-error-fallback-info = Uups, bu məzmunu yüklərkən nəsə səhv getdi.
 newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yeniləyin.
+
+## Customization Menu
+
+newtab-custom-widget-section-title = Vicetlər

@@ -12,7 +12,7 @@ appmenu-nova-update-description = Vərəqləriniz yenidən açılacaq.
 appmenu-nova-fxa-sign-in = Daxil ol
 appmenu-nova-switch-device-link = Məlumatları necə daşımalı
 appmenuitem-new-tab =
-    .label = Yeni vərəq
+    .label = Yeni Vərəq
 appmenuitem-new-window =
     .label = Yeni Pəncərə
 appmenuitem-new-private-window =
@@ -23,6 +23,8 @@ appmenuitem-tab-groups =
     .label = Vərəq qrupları
 appmenuitem-downloads =
     .label = Endirmələr
+appmenuitem-passwords =
+    .label = Parollar
 appmenuitem-extensions-and-themes =
     .label = Uzantılar və Mövzular
 appmenuitem-extensions =
@@ -64,7 +66,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Eyniləşdirmək üçün daxil olun…
+    .label = Sinxronlaşdırmaq üçün daxil olun…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Daha çox vərəq göstər
@@ -90,7 +92,7 @@ appmenu-account-header = Hesab
 appmenu-fxa-signed-in-label = Daxil ol
 appmenu-fxa-setup-sync-new = Yandır
 appmenuitem-save-page =
-    .label = Fərqli saxla…
+    .label = Fərqli Saxla…
 appmenuitem-fxa-sync-off-description = Əlfəcinləriniz, parollarınız və daha çoxunu qoruyun və onlara istənilən yerdən daxil olun.
 
 ## What's New panel in App menu.
@@ -122,8 +124,32 @@ profiler-popup-start-recording-button =
 profiler-popup-discard-button =
     .label = Ləğv et
 
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-web-developer-label =
+    .label = Veb Tərtibatçı
+profiler-popup-presets-ml-label =
+    .label = Maşın Öyrənməsi
+profiler-popup-presets-networking-label =
+    .label = Şəbəkələşmə
+profiler-popup-presets-debug-label =
+    .label = Sazla
+
 ## History panel
 
+appmenu-manage-history =
+    .label = Tarixçəni idarə et
 appmenu-restore-session =
     .label = Əvvəlki Seansı Bərpa et
 appmenu-clear-history =
@@ -133,6 +159,9 @@ appmenu-recently-closed-tabs =
     .label = Yeni qapanmış vərəqlər
 appmenu-recently-closed-windows =
     .label = Yeni qapanmış pəncərələr
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Axtarış tarixçəsi
 
 ## Help panel
 
@@ -159,6 +188,7 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Hesabınıza daxil olun
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
