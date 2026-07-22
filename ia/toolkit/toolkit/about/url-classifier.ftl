@@ -71,9 +71,14 @@ url-classifier-content-classifier-col-exception = Exception
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Iimportante
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Centrate
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Exception
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Mancate
 url-classifier-debug-title = Depuration
 url-classifier-debug-module-btn = Definir le modulos de registro
 url-classifier-debug-file-btn = Definir le file de registro
