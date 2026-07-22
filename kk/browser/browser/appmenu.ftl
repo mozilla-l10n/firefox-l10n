@@ -113,6 +113,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Барлық құрылғылар
+fxa-menu-secure-sync-subpanel =
+    .title = Қауіпсіз синхрондау
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Тіркелгі
 # Variables
@@ -340,10 +342,17 @@ appmenu-manage-profiles =
     .label = Профильдерді басқару
 appmenu-copy-profile =
     .label = Бұл профильді көшіру
+appmenu-create-profile2 =
+    .label = Жаңа профильді жасау
 appmenu-create-profile =
     .label = Жаңа профиль
 appmenu-edit-profile =
     .aria-label = Профильді түзету
+appmenu-edit-this-profile =
+    .label = Бұл профильді түзету
+appmenu-profile-current-in-use = Қазіргі қолданыстағы профиль
+fxa-menu-create-profile-subpanel =
+    .title = Жаңа профильді жасау
 fxa-menu-create-profile-confirm =
     .label = Жаңа профильді жасау
 fxa-menu-create-profile-learn-more =
@@ -354,3 +363,7 @@ appmenu-profiles-header = Профильдер
 appmenu-all-profiles =
     .label = Барлық профильдер
 appmenu-secure-sync-header = Қауіпсіз синхрондау
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Жуырдағы беттер
