@@ -124,6 +124,17 @@ about-logins-login-item-username =
     .placeholder = (tiada nama pengguna)
 login-item-copy-username-button-text = Salin
 login-item-copied-username-button-text = Disalin!
+login-item-password-label = Kata laluan
+login-item-password-reveal-checkbox =
+    .aria-label = Papar kata laluan
+login-item-password-conceal-checkbox =
+    .aria-label = Sembunyikan kata laluan
+login-item-copy-password-button-text = Salin
+login-item-copied-password-button-text = Disalin!
+login-item-save-changes-button = Simpan Perubahan
+about-logins-login-item-save-changes-button = Simpan
+login-item-save-new-button = Simpan
+login-item-cancel-button = Batal
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -132,3 +143,10 @@ login-item-copied-username-button-text = Disalin!
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", year: "numeric", month: "short") }
+login-item-timeline-action-created = Dicipta
+login-item-timeline-action-updated = Dikemas kini
+login-item-timeline-action-used = Digunakan
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
