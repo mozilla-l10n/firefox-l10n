@@ -25,7 +25,7 @@ fxa-menu-send-to-device =
     .label =
         { $tabCount ->
             [1] Enviar para dispositivo
-           *[other] Send { $tabCount } tabs to device
+           *[other] Enviar { $tabCount } abas para dispositivo
         }
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.

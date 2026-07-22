@@ -47,3 +47,18 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } istifadəçi
        *[other] { $total } istifadəçi
     }
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Dock-da saxla
+       *[other] Tapşırıq panelinə bərkit
+    }
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = Tapşırıq panelinə bərkit

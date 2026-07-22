@@ -10,6 +10,8 @@ pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Ev
+pane-home-startup-title2 = Ana səhifə və başlanğıc
+    .title = Ana səhifə və başlanğıc
 pane-search-title2 = Axtarış
     .title = Axtarış
 pane-privacy-title3 = Məxfilik və təhlükəsizlik
@@ -404,6 +406,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Yeni Pəncərələr və Vərəqlər
 home-new-windows-tabs-description2 = Ev səhifənizi, yeni pəncərə və vərəqləri açdığınızda nə gördüyünüzü seçin.
+home-section =
+    .heading = Ana səhifə və başlanğıc
 
 ## Home Section - Default Browser
 
@@ -541,6 +545,11 @@ containers-add-button =
     .accesskey = A
 containers-remove-button =
     .label = Sil
+
+## Account and sync
+
+account-sync-section =
+    .heading = Hesab və sinxronizasiya
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").

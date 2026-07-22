@@ -296,10 +296,10 @@ tab-group-preview-closed-description = Lista de abas fechada
 tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
-            [1] Adicionar aba a um novo grupo
-           *[other] Adicionar abas a um novo grupo
+            [1] Adicionar aba a novo grupo
+           *[other] Adicionar abas a novo grupo
         }
-    .accesskey = g
+    .accesskey = o
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->

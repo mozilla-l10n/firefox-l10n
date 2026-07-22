@@ -26,13 +26,13 @@ tab-context-play-tabs =
     .accesskey = p
 duplicate-tab =
     .label = Duplicar aba
-    .accesskey = D
+    .accesskey = u
 duplicate-tab2 =
     .label = Duplicar
     .accesskey = D
 duplicate-tabs =
     .label = Duplicar abas
-    .accesskey = D
+    .accesskey = u
 duplicate-tabs2 =
     .label = Duplicar
     .accesskey = D
@@ -181,7 +181,7 @@ tab-context-send-to-device =
     .label =
         { $tabCount ->
             [1] Enviar para dispositivo
-           *[other] Send { $tabCount } Tabs to Device
+           *[other] Enviar { $tabCount } abas para dispositivo
         }
     .accesskey = n
 tab-context-send-to-device2 =
