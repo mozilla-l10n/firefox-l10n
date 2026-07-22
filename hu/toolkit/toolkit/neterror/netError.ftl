@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Folytatás mindig
 neterror-pref-reset = Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?
 neterror-error-reporting-automatic = Az ilyen hibák jelentése segít a { -vendor-short-name(ending: "accented") }nak a rosszindulatú oldalak azonosításában és blokkolásában
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = A kapcsolata nem biztos, hogy privát
+    .message = Az alkalmazás vagy szolgáltatás láthatja a titkosított forgalmát erről a webhelyről.
+
 ## Specific error messages
 
 neterror-generic-error = A { -brand-short-name } nem tudja betölteni az oldalt valamilyen okból.

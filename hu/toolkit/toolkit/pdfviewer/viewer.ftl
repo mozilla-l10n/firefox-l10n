@@ -760,6 +760,50 @@ pdfjs-digital-signature-properties-button =
     .aria-label = Digitális aláírás tulajdonságai
 pdfjs-digital-signature-properties-button-label = Digitális aláírás tulajdonságai
 
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = A dokumentum érvényes digitális aláírással lett aláírva
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] A dokumentum alá van írva, de { $count } digitális aláírás nem ellenőrizhető
+       *[other] A dokumentum alá van írva, de { $count } digitális aláírás nem ellenőrizhető
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] A dokumentum { $count } nem megbízható tanúsítvánnyal van aláírva
+       *[other] A dokumentum { $count } nem megbízható tanúsítvánnyal van aláírva
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] A dokumentum { $count } lejárt tanúsítvánnyal van aláírva
+       *[other] A dokumentum { $count } lejárt tanúsítvánnyal van aláírva
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] A dokumentum { $count } érvénytelen aláírással rendelkezik
+       *[other] A dokumentum { $count } érvénytelen aláírással rendelkezik
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] A dokumentum { $count } visszavont tanúsítvánnyal van aláírva
+       *[other] A dokumentum { $count } visszavont tanúsítvánnyal van aláírva
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = Állapot: az aláírás ellenőrizve
+pdfjs-digital-signature-properties-status-invalid = Állapot: az aláírás érvénytelen
+pdfjs-digital-signature-properties-status-unknown = Állapot: nem ellenőrizhető (nem támogatott)
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
@@ -767,6 +811,10 @@ pdfjs-digital-signature-properties-button-label = Digitális aláírás tulajdon
 ##   $issuer (String) - issuer or subject common name from the cert.
 ##   $dateObj (Date)  - notAfter date for the expired-with-date form.
 
+pdfjs-digital-signature-properties-certificate-trusted = Tanúsítvány: megbízható ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = Tanúsítvány: nem érhető el
+pdfjs-digital-signature-properties-certificate-untrusted = Tanúsítvány: nem megbízható
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Tanúsítvány: ismeretlen kibocsátó ({ $issuer })
 pdfjs-digital-signature-properties-certificate-expired = Tanúsítvány: lejárt
 pdfjs-digital-signature-properties-certificate-expired-with-date = Tanúsítvány: lejárt ({ DATETIME($dateObj, dateStyle: "medium") })
 pdfjs-digital-signature-properties-certificate-revoked = Tanúsítvány: visszavonva

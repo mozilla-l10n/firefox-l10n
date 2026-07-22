@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Embojuruja ovetã pyahu ñemigua
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Ovetã ñemigua
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } conmutador
+    .tooltiptext = Emoambue ovetã ha’evéva ha ojeporuvavoi pa’ũme.
 
 ## Input CTA
 
@@ -101,6 +104,7 @@ aiwindow-firstrun-model-fast-label = Ipya’e
 aiwindow-firstrun-model-fast-body = Embohovái pya’e
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Pya’e: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Ñembohovái pya’erã iporãva tekotevẽtarõ pya’eve
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -109,12 +113,14 @@ aiwindow-firstrun-model-allpurpose-label = Pepykuaáva
 aiwindow-firstrun-model-allpurpose-body = Oñeme’ẽ oĩva tekotevẽre
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Pepykuaa: { $shortName }
+aiwindow-firstrun-model-flexible-body = Oĩma apopyrãitápe g̃uarã
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Jeroviaháva
 aiwindow-firstrun-model-personal-label = Avamba’e
 aiwindow-firstrun-model-personal-body = Mbohovái heseguaitéva
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Avamba’e: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Ojejapo ñepytyvõrãite ñe’ẽita pa’ũme g̃uarã
 aiwindow-firstrun-button = Jaha
 aiwindow-firstrun-back-button = Tapykue
 aiwindow-firstrun-next-button = Upeigua

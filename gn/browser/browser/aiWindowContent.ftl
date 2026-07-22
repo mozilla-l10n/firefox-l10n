@@ -23,6 +23,7 @@ smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } henyh
 smartwindow-assistant-error-budget-body = Eikundahakuaa gueteri ko ovetã rupive. Upe ñe’ẽmondoha oiko jeýta hu’ã vove jeporu araguáva.
 smartwindow-assistant-error-many-requests-header = Ikatúpa eha’arõmi ha eha’ã jey ag̃ave. Hetaiterei ñe’ẽmondo ojejapo sapy’aitépe.
 smartwindow-assistant-error-max-length-header = Oguahẽma ára eñepyrũvo jechatea pyahu. Kóva ohupytýma ipukukue.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } ndaikatúi oñe’ẽ mohendahavusu. Eiporu ñanduti iñambuéva térã embogue VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = (HTTP { $status }) apopyvusu ojavýva. Eha’ã jey ag̃ave.
