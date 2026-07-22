@@ -602,6 +602,7 @@ identity-description-custom-root2 = سادر کوننده ای گوواهی سی
 identity-remove-cert-exception =
     .label = پاک کردن استسنا
     .accesskey = R
+identity-description-insecure = منپیز ایسا وا ای وبگه سیخومی نؽ. دووسمندیایی ک ایسا سبت اکۊنین گاشڌ و دست دیرووݩ دیڌه بۊوه (جۊر رزما، پیوما، کارتا بانکی وو قیره).
 identity-description-active-blocked2 = { -brand-short-name } بشنایی ز ای بلگه ک ٱمن نؽڌن ن، مسدۊد کرده.
 identity-enable-mixed-content-blocking =
     .label = فعال کردن زفت وابیڌن
