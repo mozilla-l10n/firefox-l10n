@@ -584,6 +584,8 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
+trustpanel-etp-label-enabled = Artırılmış İzlənmə Qoruması açıqdır
+trustpanel-etp-label-disabled = Artırılmış İzlənmə Qoruması bağlıdır
 trustpanel-privacy-link = Məxfilik Tənzimləmələri
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")

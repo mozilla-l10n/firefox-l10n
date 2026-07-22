@@ -679,6 +679,16 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saxlanmış Daxil olmalar…
     .accesskey = D
+forms-primary-pw-use-2 =
+    .label = Baş paroldan istifadə et
+    .accesskey = U
+    .description = Saxlanılmış parollarınızı qorumaq üçün əlavə təhlükəsizlik səviyyəsi təmin edir.
+forms-primary-pw-set =
+    .label = Baş parolu təyin et
+forms-primary-pw-on =
+    .label = Baş parol AKTİVDİR
+forms-primary-pw-change-2 =
+    .label = Baş parolu dəyiş
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -686,6 +696,14 @@ forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
+
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Baş Parol yarat
 
 ## Privacy section - Autofill
 
