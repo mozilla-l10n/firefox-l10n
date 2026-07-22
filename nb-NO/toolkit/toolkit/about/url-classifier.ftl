@@ -47,7 +47,13 @@ url-classifier-content-classifier-url = Nettadresse
 url-classifier-content-classifier-loading-url = Laster URL
 # Checkbox label to enable a Loading URL.
 # When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
-url-classifier-content-classifier-loading-url-enabled = Aktiver lasting av URL-adresse
+url-classifier-content-classifier-loading-url-enabled = Aktiver lasting av URL
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = URL for øverste vindu
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Aktiver URL for øverste vindu
 # Label for a dropdown choosing what type of resource is at the destination (the destination type),
 # such as script, image, stylesheet, etc.
 url-classifier-content-classifier-destination-type = Måltype

@@ -95,7 +95,7 @@ customkeys-conflict-confirm-button-cancel = Cancellar
 customkeys-conflict-unusable-title = Le clave non pote esser usate
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-unusable-body = Iste clave es jam usate per “{ $conflict }” e non pote esser usate
+customkeys-conflict-unusable-body = Iste clave es jam empleate per “{ $conflict }” ergo non pote esser usate
 customkeys-reset-all-confirm-title = Restaurar le parametros predefinite?
 customkeys-reset-all-confirm-body = Alcun vias breve de claviero personalisate que tu ha create sera removite.
 customkeys-reset-all-confirm-button-confirm = Restaurar le parametros predefinite
