@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Pressione a nova tecla:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (não pode ser alterado)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Remover outro atalho?
 customkeys-conflict-confirm-body = Esta tecla já está sendo usada por “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Usar assim mesmo
 customkeys-conflict-confirm-button-cancel = Cancelar
+customkeys-conflict-unusable-title = Não pode usar esta chave
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Esta chave já está associada a “{ $conflict }”, não pode ser usada.
 customkeys-reset-all-confirm-title = Restaurar padrão?
 customkeys-reset-all-confirm-body = Todos os atalhos de teclado personalizados que você criou serão removidos.
 customkeys-reset-all-confirm-button-confirm = Restaurar padrão
