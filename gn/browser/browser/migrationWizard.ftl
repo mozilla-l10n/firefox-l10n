@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Opámava
 migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
+migration-safari-password-import-post-sequoia-step3 = Eñongatu marandurenda
+migration-safari-password-import-post-sequoia-step4 = Eiporavo maranurenda eñongatúva
 migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:
 migration-safari-password-import-step1 = Safari ndive, embojuruja “Safari” poravorã ha eho Guerohoryvévape > Ñe’ẽñemi
 migration-safari-password-import-step2 = Eiporu votõ <img data-l10n-name="safari-icon-3dots"/> ha eiporavo “Ñe’ẽñemi Jeguerupaite”
@@ -203,6 +205,7 @@ migration-chrome-windows-password-import-step2 = Eiporavo “Ñemboheko” porav
 migration-chrome-windows-password-import-step3 = Eiporavo “Marandurenda ñemboguejy” ha eñongatu ne mba’e’okápe.
 migration-chrome-windows-password-import-step4 = Ejujey ápe ha “Eiporavo marandurenda” emohu’ã hag̃ua jegueru.
 migration-manual-password-import-skip-button = Jepo
+migration-manual-password-import-cancel-button = Eheja
 migration-manual-password-import-select-button = Eiporavo Marandurenda
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda

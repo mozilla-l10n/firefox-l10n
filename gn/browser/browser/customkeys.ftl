@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Ejopy jehaiha pyahu:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (ndaikatúi emoambue)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,7 @@ customkeys-conflict-confirm-title = ¿Emboguete ambue mbopya’eha?
 customkeys-conflict-confirm-body = Ko jehaiha oiporumahína“{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Eiporupaite ayvu
 customkeys-conflict-confirm-button-cancel = Eheja
+customkeys-conflict-unusable-title = Ñe’ẽ ñemi ndojeporukuaái
 customkeys-reset-all-confirm-title = ¿Emoĩporã ijypykue?
 customkeys-reset-all-confirm-body = Oguepaitéta tairenda mbopya’eha mboavapyre oñemoheñoiva’ekue.
 customkeys-reset-all-confirm-button-confirm = Embojevy ypykuépe

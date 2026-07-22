@@ -399,3 +399,6 @@ appmenu-secure-sync-header = Ñembojuehe hekorosãva
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Tendayke ramovéva
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Emondo kuatiarogue ag̃agua ko mba’e’okápe

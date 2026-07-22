@@ -295,6 +295,17 @@ launch-on-login-infobar-final-message = <strong>¿Embojuruja { -brand-short-name
 launch-on-login-infobar-final-reject-button = Nahániri, aguyje
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = Ehapykueho
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Eipe’aite
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -487,3 +498,13 @@ nova-early-access-share-feedback-link = Emoherakuã ne remiandu
     .accesskey = S
 nova-early-access-infobar-primary-button = Aikũmby
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-launch-on-login = Embojuruja { -brand-short-name } eñepyrũvo
+launch-options-spotlight-checkbox-pin-to-taskbar = Emboja tembiaporã rupáre
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Eñongatu ha eku’ejey

@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Ñemigua
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Crucigráma
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Jejapo
@@ -263,6 +266,8 @@ newtab-privacy-message-first-protection-cta = Ehecha ñemo’ãrã
 newtab-stocks-menu-search = Eheka jeku’e reheguáva
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Eikuaave
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Jejaporã
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
