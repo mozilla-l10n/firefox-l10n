@@ -37,6 +37,15 @@ url-classifier-cache-prefix = Aurrizkia
 url-classifier-cache-ncache-expiry = Cache negatiboaren iraungitzea
 url-classifier-cache-fullhash = Hash osoa
 url-classifier-cache-pcache-expiry = Cache positiboaren iraungitzea
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URLa
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Helburu mota
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Emaitzak
+url-classifier-content-classifier-pbm = Nabigatze pribatua
 url-classifier-debug-title = Araztu
 url-classifier-debug-module-btn = Ezarri erregistro-moduluak
 url-classifier-debug-file-btn = Ezarri erregistro-fitxategia
