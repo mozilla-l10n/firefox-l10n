@@ -251,6 +251,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
 profiler-popup-presets-networking-label =
     .label = Hálózat
+profiler-popup-presets-networking-with-logs-description = Előbeállítás a { -brand-shorter-name } hálózati hibáinak kivizsgálásához, beleértve a hálózati naplókat. Ezek a naplók bizalmas információkat tartalmazhatnak, például a felkeresett webcímeket.
 profiler-popup-presets-networking-with-logs-label =
     .label = Hálózatépítés naplókkal
 profiler-popup-presets-power-description = Előbeállítás a { -brand-shorter-name } energiagazdálkodási hibáinak kivizsgálásához, alacsony többletfogyasztással.

@@ -66,6 +66,9 @@ url-classifier-content-classifier-probes = Szondák
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Találatok
 url-classifier-content-classifier-pbm = Privát böngészés
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Felső keret harmadik féltől származóként kezelése
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Nem ajánlott kiegészítő
@@ -98,6 +101,8 @@ url-classifier-content-classifier-verdict-hit = Találat
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Kivétel
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Nem talált
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
@@ -112,8 +117,8 @@ url-classifier-debug-sbjs-modules = Biztonságos böngészés JS napló
 url-classifier-debug-file = Jelenlegi naplófájl
 url-classifier-trigger-update = Frissítés aktiválása
 url-classifier-not-available = Nincs
-url-classifier-disable-sbjs-log = Biztonságos böngészés JS napló kikapcsolása
-url-classifier-enable-sbjs-log = Biztonságos böngészés JS napló bekapcsolása
+url-classifier-disable-sbjs-log = Biztonságos böngészés JS-naplójának kikapcsolása
+url-classifier-enable-sbjs-log = Biztonságos böngészés JS-naplójának bekapcsolása
 url-classifier-enabled = Engedélyezve
 url-classifier-disabled = Letiltva
 url-classifier-updating = frissítés

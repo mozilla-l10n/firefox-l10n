@@ -80,6 +80,16 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Hálózatfigyelő
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = A kérés és a válasz törzsének legnagyobb mérete (állítsa 0-ra a korlátlanhoz):
+options-netmonitor-body-limit-tooltip =
+    .title = A megadott méretet meghaladó kérés- vagy választörzsek csonkolva lesznek a Hálózatfigyelőben való letöltéskor. Állítsa 0-ra, hogy ne legyen korlátozás.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Korlátlan
+options-netmonitor-body-limit-button =
+    .title = A legnagyobb kérés- és választörzsméret szerkesztése.
+options-netmonitor-body-limit-restore-default =
+    .title = A legnagyobb kérés- és választörzsméret alapértelmezett értékének helyreállítása.
 options-netmonitor-body-limit-set =
     .title = A jelenlegi beviteli érték beállítása a kérések és válaszok legnagyobb törzsméreteként.
 

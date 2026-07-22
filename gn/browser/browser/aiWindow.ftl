@@ -337,3 +337,5 @@ aiwindow-starter-writing-proofread = Emyatyrõ ñe’ẽmondo
 aiwindow-starter-planning-simplify = Emombyky téma
 aiwindow-starter-planning-brainstorm = Temiandukue aty
 aiwindow-starter-planning-plan = Eipytyvõ aporã moheñóime
+aiwindow-starter-browsing-history = Eheka tendayke tembiasakuépe
+aiwindow-starter-browsing-summarize = Emombyky tendayke

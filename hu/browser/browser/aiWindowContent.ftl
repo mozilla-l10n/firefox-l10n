@@ -160,6 +160,9 @@ action-log-reading-page = Oldal olvasása
 action-log-read-page = Oldal tartalma elolvasva
 action-log-searching-web = Keresés a weben
 action-log-searched-web = Keresve a weben
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = A webet kereste az Exával
 action-log-checking-memories = Memóriák ellenőrzése
 action-log-checked-memories = Memóriák ellenőrizve
 action-log-searching-settings = Beállítások keresése
