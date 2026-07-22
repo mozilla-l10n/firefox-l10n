@@ -12,15 +12,15 @@ category-general =
 pane-home-title = Ev
 pane-search-title2 = Axtarış
     .title = Axtarış
-pane-privacy-title3 = Məxfilik və Təhlükəsizlik
-    .title = Məxfilik və Təhlükəsizlik
+pane-privacy-title3 = Məxfilik və təhlükəsizlik
+    .title = Məxfilik və təhlükəsizlik
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Axtarış
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-section =
-    .heading = Məxfilik və Təhlükəsizlik
+    .heading = Məxfilik və təhlükəsizlik
 pane-privacy-title = Məxfilik və Təhlükəsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -616,6 +616,10 @@ sync-engine-addons =
     .label = Əlavələr
     .tooltiptext = Firefox masaüstü üçün uzantı və mövzular
     .accesskey = Ə
+sync-engine-settings =
+    .label = Tənzimləmələr
+    .accesskey = s
+    .tooltiptext = Dəyişdirdiyiniz Ümumi, Məxfilik və Təhlükəsizlik tənzimləmələri
 
 ## The device name controls.
 
@@ -682,6 +686,13 @@ forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
+
+## Privacy section - Autofill
+
+pane-passwords-autofill-title2 = Parollar və avto doldurma
+    .title = Parollar və avto doldurma
+preferences-passwords-autofill-header =
+    .heading = Parollar və avtomatik forma doldurma
 
 ## Privacy Section - History
 
