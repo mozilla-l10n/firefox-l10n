@@ -536,6 +536,10 @@ sync-sign-in =
     .label = Daxil ol
     .accesskey = x
 
+## The list of things currently syncing.
+
+sync-currently-syncing-addons = Əlavələr
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =

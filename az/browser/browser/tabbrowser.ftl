@@ -116,3 +116,22 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Bütün { $tabCount } vərəqi siyahıla
+
+##
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Vərəqi Yeni Qrupa Daxil Et
+            [one] Vərəqi Yeni Qrupa Daxil Et
+           *[other] Vərəqləri Yeni Qrupa Daxil Et
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Vərəqi Qrupa Daxil Et
+            [one] Vərəqi Qrupa Daxil Et
+           *[other] Vərəqləri Qrupa Daxil Et
+        }
+    .accesskey = G
