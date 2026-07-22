@@ -25,6 +25,8 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Ներկայացնում ենք VPN-ը, այժմ՝ անմիջապես ձեր զննարկիչում
 ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-button-primary = Հաջորդը
 ipprotection-feature-introduction-button-secondary-not-now = Ոչ հիմա
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -51,6 +53,7 @@ ipprotection-site-settings-callout-button = Հասկացա
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Նորույթ. Փոխեք ձեր գտնվելու վայրը
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> թույլ է տալիս ընտրել մի քանի դիտարկման վայրերից, կամ թույլ տվեք մեզ ընտրել ձեզ համար ամենաարագը։
 ipprotection-location-selection-callout-primary-button = Փորձել
 ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 
@@ -58,6 +61,7 @@ ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
+unauthenticated-private-location-message = Օգնում է <a data-l10n-name="learn-more-vpn">-ին պահպանել ձեր տեղադրությունը գաղտնի</a> { -brand-product-name }-ում։
 unauthenticated-get-started = Սկսել
 site-exclusion-toggle-enabled-1 =
     .label = Օգտագործեք VPN այս կայքի համար

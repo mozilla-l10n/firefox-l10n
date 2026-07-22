@@ -150,6 +150,7 @@ home-prefs-mission-message-learn-more-link-srd = Իմացեք, թե ինչպես
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-11 = Իմացեք, թե ինչպես է { -brand-short-name }-ն օգնում ձեր դիտարկիչն ավելի գաղտնի պահել։
 newtab-privacy-message-info-13 = { -brand-short-name }-ն արգելափակում է հետագծողներին՝ ազատելով թողունակություն՝ ավելի սահուն հոսքի համար։
 
 ## Search box component.

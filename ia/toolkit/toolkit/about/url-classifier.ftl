@@ -60,9 +60,14 @@ url-classifier-content-classifier-destination-type = Typo de destination
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
 url-classifier-content-classifier-flags = Optiones
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Sondas
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultatos
 url-classifier-content-classifier-pbm = Navigation private
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Functionalitate
 # Column header: whether the request matched this feature (true/false).
 url-classifier-content-classifier-col-matched = Correspondentia
 # Column header: whether this feature matched an exception/allow-list entry that
@@ -71,6 +76,8 @@ url-classifier-content-classifier-col-exception = Exception
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Iimportante
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Resultato del motor
 # Overall verdict shown when the request would be acted on (blocked or
 # annotated): the classifier matched.
 url-classifier-content-classifier-verdict-hit = Centrate
@@ -79,6 +86,10 @@ url-classifier-content-classifier-verdict-hit = Centrate
 url-classifier-content-classifier-verdict-exception = Exception
 # Overall verdict shown when the classifier did not match the request at all.
 url-classifier-content-classifier-verdict-miss = Mancate
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Error { $code }
 url-classifier-debug-title = Depuration
 url-classifier-debug-module-btn = Definir le modulos de registro
 url-classifier-debug-file-btn = Definir le file de registro
