@@ -28,6 +28,9 @@ unified-extensions-item-message-manage = دؽوۉداری وردنی
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } مئدۊد وابیڌه. و کار گرؽڌنس گاشڌ خترناک بۊ.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
 
 ## Extension's context menu
 

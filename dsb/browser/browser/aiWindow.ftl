@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Nowe priwatne wokno wócyniś
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasiske wokno
+toolbar-switcher-customizable-label =
+    .label = Šalter { -smart-window-brand-name }
+    .tooltiptext = Mjazy inteligentnym a klasiskim woknom pśešaltowaś.
 
 ## Input CTA
 
@@ -317,9 +320,12 @@ aiwindow-feedback-reason-harmful-or-offensive = Škódny abo njepśistojny
 aiwindow-feedback-reason-other = Druge
 aiwindow-feedback-preview-report = Chatowe drobnostki pokazaś
 aiwindow-feedback-preview-report-with-page = Drobnostki chata a boka pokazaś
+aiwindow-feedback-include-page-content = Boki źěliś, kótarež su w toś tom chaśe referencěrowane
 
 ## Smart Window ai-chat-grid
 
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Naglědowe wugótowanje pśešaltowaś
 aiwindow-ai-chat-grid-list-view =
     .aria-label = Modus pśešaltowaś: Lisćinowy naglěd
     .tooltiptext = Lisćinowy naglěd

@@ -14,8 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Postavke privatnosti web-stranica
+do-not-track-removal3 =
+    .message = Više ne podržavamo značajku „Ne prati”.
 non-technical-privacy-heading =
     .label = Dodatne zaštite
+preferences-privacy-relay-available =
+    .label = Predloži { -relay-brand-name } maske za adresu e-pošte
+    .description = Sakriva tvoju stvarnu adresu e-pošte da te zaštiti od neželjenih poruka.
 non-technical-privacy-header = Postavke privatnosti web-stranica
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -46,6 +51,8 @@ pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Početna stranica
+pane-home-startup-title2 = Početna stranica i pokretanje
+    .title = Početna stranica i pokretanje
 pane-search-title2 = Pretraga
     .title = Pretraga
 pane-privacy-title3 = Privatnost i sigurnost
@@ -65,6 +72,8 @@ pane-ai-controls-title2 = Kontrole za umjetnu inteligenciju
     .title = Kontrole za umjetnu inteligenciju
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-accessibility-title = Pristupačnost
+    .title = { pane-accessibility-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } eksperimenti
@@ -1076,6 +1085,8 @@ account-placeholder2 =
     .description = Prijavi se da bi tvoji podaci ostali privatni, šifrirani i odmah dostupni svejedno gdje koristiš { -brand-short-name }.
 account-sync-section =
     .heading = Račun i sinkronizacija
+pane-account-sync-title2 = Račun i sinkronizacija
+    .title = Račun i sinkronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
