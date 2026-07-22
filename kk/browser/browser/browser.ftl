@@ -1109,6 +1109,8 @@ urlbar-searchmode-tabs3 = Беттер
     .accesskey = р
 urlbar-searchmode-history3 = Тарих
     .accesskey = Т
+urlbar-searchmode-actions3 = Әрекеттер
+    .accesskey = е
 urlbar-searchmode-bookmarks2 = Бетбелгілер
 urlbar-searchmode-tabs2 = Беттер
 urlbar-searchmode-history2 = Тарих
@@ -1128,6 +1130,10 @@ urlbar-searchmode-popup-one-off-header = Осы рет, келесімен із�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Көмегімен іздеу:
+urlbar-searchmode-popup-search-settings = Іздеу баптаулары
+    .accesskey = з
+urlbar-searchmode-popup-settings = Баптаулар
+    .accesskey = п
 urlbar-searchmode-popup-search-settings-panelitem = Іздеу баптаулары
 urlbar-searchmode-popup-settings-panelitem = Баптаулар
 

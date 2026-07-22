@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Жаңа пернені басыңыз:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (өзгерту мүмкін емес)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,7 @@ customkeys-conflict-confirm-title = Басқа жарлықты өшіру ке�
 customkeys-conflict-confirm-body = Бұл кілтті «{ $conflict }» пайдаланып тұр.
 customkeys-conflict-confirm-button-confirm = Сонда да қолдану
 customkeys-conflict-confirm-button-cancel = Бас тарту
+customkeys-conflict-unusable-title = Кілтті пайдалану мүмкін емес
 customkeys-reset-all-confirm-title = Бастапқы мәндерін қайтару керек пе?
 customkeys-reset-all-confirm-body = Сіз жасаған кез келген пернетақта жарлықтары өшірілетін болады.
 customkeys-reset-all-confirm-button-confirm = Бастапқы мәндерін қайтару
