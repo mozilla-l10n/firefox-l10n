@@ -93,6 +93,9 @@ customkeys-conflict-confirm-body = Denne hurtigtasten er allereie i bruk av «{ 
 customkeys-conflict-confirm-button-confirm = Bruk likevel
 customkeys-conflict-confirm-button-cancel = Avbryt
 customkeys-conflict-unusable-title = Tast kan ikkje brukast
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Denne tasten er allereie i bruk av «{ $conflict }» og kan ikkje brukast.
 customkeys-reset-all-confirm-title = Gjenopprette standardverdiar?
 customkeys-reset-all-confirm-body = Eventuelle tilpassa hurtigtastar du har oppretta, vil bli fjerna.
 customkeys-reset-all-confirm-button-confirm = Gjenopprett standardverdiar

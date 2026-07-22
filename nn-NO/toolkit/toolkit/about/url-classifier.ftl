@@ -52,6 +52,9 @@ url-classifier-content-classifier-results = Resultat
 url-classifier-content-classifier-pbm = Privat nettlesing
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funksjon
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Unntak
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Viktig

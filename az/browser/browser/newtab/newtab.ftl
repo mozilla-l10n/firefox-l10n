@@ -39,11 +39,28 @@ home-custom-homepage-bookmarks-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Axtarış
 home-prefs-stories-header2 =
     .label = Hekayələr
     .description = { -brand-product-name } ailəsi tərəfindən seçilmiş xüsusi məzmun
 home-prefs-widgets-header =
     .label = Vicetlər
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Siyahılar
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Vaxtölçən
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = İdman
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Saat
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Günün şəkli
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -59,6 +76,12 @@ home-mode-choice-custom-srd =
     .label = Fərdi Ünvanlar…
 home-mode-choice-blank-srd =
     .label = Boş Səhifə
+home-prefs-shortcuts-header-srd =
+    .label = Qısayollar
+home-prefs-shortcuts-select =
+    .aria-label = Qısayollar
+home-prefs-shortcuts-by-option-sponsored-srd =
+    .label = Sponsorlu qısayollar
 home-prefs-recommended-by-option-sponsored-stories-srd =
     .label = Sponsorlaşdırılmış Hekayələr
 home-prefs-highlights-option-visited-pages-srd =
@@ -67,6 +90,13 @@ home-prefs-highlights-options-bookmarks-srd =
     .label = Əlfəcinlər
 home-prefs-highlights-option-most-recent-download-srd =
     .label = Son Endirmələr
+home-prefs-weather-header-srd =
+    .label = Hava
+
+## Strings for the Picture of the Day widget
+
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Günün şəkli
 
 ## Search box component.
 
@@ -143,6 +173,11 @@ newtab-menu-delete-history = Tarixçədən Sil
 newtab-menu-save-to-pocket = { -pocket-brand-name }-ə Saxla
 newtab-menu-delete-pocket = { -pocket-brand-name }-dən sil
 newtab-menu-archive-pocket = { -pocket-brand-name }-də arxivləşdir
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Bildir
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Əngəllə
 
 ##
 
@@ -224,4 +259,22 @@ newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yenilə
 
 ## Customization Menu
 
+newtab-custom-widget-picture-toggle =
+    .label = Günün şəkli
 newtab-custom-widget-section-title = Vicetlər
+
+## Strings for task / to-do list productivity widget
+
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Daha çox vicet göstər
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Daha az vicet göstər
+
+##
+
+newtab-sports-widget-show-less =
+    .label = Daha az göstər

@@ -301,6 +301,9 @@ launch-on-login-infobar-final-reject-button = Nei takk
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } startar no opp når du loggar på Windows. Du kan alltid endre dette seinare i innstillingane.
 launch-on-login-autostart-infobar-turn-off-button = Slå av
     .accesskey = S
 
@@ -509,8 +512,11 @@ nova-early-access-infobar-primary-button = Eg forstår
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Starte { -brand-short-name } kvar gong du loggar inn på Windows?
+launch-options-spotlight-title-session-restore = Opne økta på nytt når { -brand-short-name } startar på nytt?
 launch-options-spotlight-checkbox-launch-on-login = Opne { -brand-short-name } ved oppstart
 launch-options-spotlight-checkbox-pin-to-taskbar = Fest til oppgåvelinje
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Opne gjeldande vindauge og faner på nytt
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Lagre og lat att { -brand-short-name }
 # Primary button on the browser-launch prompt
