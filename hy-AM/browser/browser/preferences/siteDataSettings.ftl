@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Կառավարել Cookie-ները և կայքի տվյալները
+    .title = Կառավարել թխուկները և կայքի տվյալները
 site-data-settings-description = Հետևյալ կայքերը պահում են տվյալներ ձեր համակարգչում: { -brand-short-name }-ը պահում է տվյալները կայքերից մշտական պահեստում՝ մինչև դուք կջնջեք դրանք: Ապա՝ ջնջում է տվյալները կայքերի ոչ մշտական պահեստից՝ տեղ ազատելու համար:
 site-data-search-textbox =
     .placeholder = Որոնել կայքեր
@@ -51,4 +51,4 @@ site-data-removing-desc = Թխուկների և կայքի տվյալների ջ
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Թխուկների և կայքի տվյալների ջնջումը կարող է ձեզ դուրս բերել կայքերից: Համոզվա՞ծ եք,որ ցանկանում եք հեռացնել թխուկները և կայքի տվյալները <strong>{ $baseDomain }</strong>-ի համար:
-site-data-removing-table = Cookie-ների և կայքերի տվյալները հետևյալ կայքերի համար կջնջվեն:
+site-data-removing-table = Թխուկների և կայքերի տվյալները հետևյալ կայքերի համար կջնջվեն:

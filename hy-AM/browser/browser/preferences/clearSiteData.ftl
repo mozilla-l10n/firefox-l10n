@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = Cookie-ներ և կայքի տվյալներ ({ $amount } { $unit })
+    .label = Թխուկներներ և կայքի տվյալներ ({ $amount } { $unit })
     .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Cookie-ներ և կայքի տվյալներ
+    .label = Թխուկներներ և կայքի տվյալներ
     .accesskey = S
 clear-site-data-cookies-info = Մաքրելու դեպքում կարող եք դուրս գրվել կայքերից
 # The parameters in parentheses in this string describe disk usage

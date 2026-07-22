@@ -32,7 +32,7 @@ protection-report-settings-link = Կառավարեք ձեր գաղտնիությ
 etp-card-title-always = Բարելավված հետագծման պաշտպանություն. միշտ միաց. է
 etp-card-title-custom-not-blocking = Բարելավված հետագծման պաշտպանություն. ԱՆՋ.
 etp-card-content-description = { -brand-short-name }-ը ինքնաբար կանգնեցնում է ընկերություններին՝  համացանցում Ձեզ գաղտնի հետևելուց:
-protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանություններն անջատված են։Ընտրեք, թե որ թիրախն է արգելափակել՝կառավարելով ձեր { -brand-short-name } կարգավորումները։
+protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանություններն անջատված են։ Ընտրեք, թե որ թիրախն է արգելափակել՝ կառավարելով ձեր { -brand-short-name } կարգավորումները։
 protection-report-manage-protections = Փոխել կարգավորումները
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.

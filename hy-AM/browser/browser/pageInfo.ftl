@@ -43,7 +43,7 @@ media-tab =
     .label = Մեդիա
     .accesskey = M
 media-location =
-    .value = Տեղը.
+    .value = Տեղադրությունը՝
 media-text =
     .value = Կապակցված Տեքստ`
 media-alt-header =
@@ -97,7 +97,7 @@ security-view-privacy =
 security-view-privacy-history-value = Ես այցելե՞լ էմ այս կայք մինչև այսօր
 security-view-privacy-sitedata-value = Այս կայքը տեղեկություններ պահու՞մ է համակարգչում:
 security-view-privacy-clearsitedata =
-    .label = Մաքրել Cookie-ները և կայքի տվյալները
+    .label = Մաքրել թխուկները և կայքի տվյալները
     .accesskey = C
 security-view-privacy-passwords-value = Պահպանե՞լ եմ արդյոք գաղտնաբառեր այս կայքի համար
 security-view-privacy-viewpasswords =
@@ -114,9 +114,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Այո, cookie-ները և կայքի տվյալները՝ { $value } { $unit }
+security-site-data-cookies = Այո, թխուկները և կայքի տվյալները՝ { $value } { $unit }
 security-site-data-only = Այո, կայքի տվյալներ՝ { $value } { $unit }
-security-site-data-cookies-only = Այո, cookie-ներ
+security-site-data-cookies-only = Այո, թխուկները
 security-site-data-no = Ոչ
 
 ##
